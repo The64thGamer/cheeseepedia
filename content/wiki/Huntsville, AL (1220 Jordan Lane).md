@@ -1,7 +1,7 @@
 +++
 title = "Huntsville, AL (1220 Jordan Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-29T14:01:59Z
 
 [Article]

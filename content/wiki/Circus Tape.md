@@ -1,7 +1,7 @@
 +++
 title = "Circus Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-14T19:52:11Z
 
 [Article]

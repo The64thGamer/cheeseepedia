@@ -1,7 +1,7 @@
 +++
 title = "West Palm Beach, FL (4646 Okeechobee Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-09T17:22:49Z
 
 [Article]

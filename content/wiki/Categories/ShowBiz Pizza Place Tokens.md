@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Pizza Place Tokens"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T00:22:47Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "3-Stage Command Format"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T23:56:05Z
 
 [Article]

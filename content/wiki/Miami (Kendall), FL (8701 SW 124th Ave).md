@@ -1,7 +1,7 @@
 +++
 title = "Miami (Kendall), FL (8701 SW 124th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-07T22:55:40Z
 
 [Article]

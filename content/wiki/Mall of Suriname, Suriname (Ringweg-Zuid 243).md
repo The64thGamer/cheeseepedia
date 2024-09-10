@@ -1,7 +1,7 @@
 +++
 title = "Mall of Suriname, Suriname (Ringweg-Zuid 243)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T15:08:32Z
 
 [Article]

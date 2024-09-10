@@ -1,7 +1,7 @@
 +++
 title = "Worcester, MA (50 Southwest Cutoff)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-09T22:25:08Z
 
 [Article]

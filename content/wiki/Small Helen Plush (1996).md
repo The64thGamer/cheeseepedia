@@ -1,7 +1,7 @@
 +++
 title = "Small Helen Plush (1996)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-23T05:03:27Z
 
 [Article]

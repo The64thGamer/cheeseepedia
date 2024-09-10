@@ -1,7 +1,7 @@
 +++
 title = "Winchester PTT Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-02T21:40:05Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Whitby, Ontario, Canada (75 Consumers Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-11T14:02:50Z
 
 [Article]

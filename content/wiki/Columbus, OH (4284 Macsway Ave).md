@@ -1,7 +1,7 @@
 +++
 title = "Columbus, OH (4284 Macsway Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-08T01:11:40Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Kooser Mr. Munch Name Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T10:27:55Z
 
 [Article]

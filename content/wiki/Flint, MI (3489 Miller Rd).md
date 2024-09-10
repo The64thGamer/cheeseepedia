@@ -1,7 +1,7 @@
 +++
 title = "Flint, MI (3489 Miller Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-16T18:53:01Z
 
 [Article]

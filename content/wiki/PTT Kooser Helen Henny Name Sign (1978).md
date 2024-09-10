@@ -1,7 +1,7 @@
 +++
 title = "PTT Kooser Helen Henny Name Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-06T07:49:03Z
 
 [Article]

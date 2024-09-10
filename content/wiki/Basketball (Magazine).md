@@ -1,7 +1,7 @@
 +++
 title = "Basketball (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-17T21:53:09Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Redwood City, CA (2541-43 El Camino Real)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-11T14:40:01Z
 
 [Article]

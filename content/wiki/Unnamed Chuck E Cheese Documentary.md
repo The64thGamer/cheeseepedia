@@ -1,7 +1,7 @@
 +++
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-20T17:57:28Z
 
 [Article]

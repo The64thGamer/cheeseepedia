@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob (Early Mijjin)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-28T17:49:49Z
 
 [Article]

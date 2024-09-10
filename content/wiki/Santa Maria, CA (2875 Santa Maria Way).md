@@ -1,7 +1,7 @@
 +++
 title = "Santa Maria, CA (2875 Santa Maria Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-02T01:25:52Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Animation Programming System"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-29T02:14:18Z
 
 [Article]

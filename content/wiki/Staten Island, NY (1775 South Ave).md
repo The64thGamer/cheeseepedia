@@ -1,7 +1,7 @@
 +++
 title = "Staten Island, NY (1775 South Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-15T18:49:28Z
 
 [Article]

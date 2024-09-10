@@ -1,7 +1,7 @@
 +++
 title = "Yonkers, NY (1703 Central Park Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T17:48:05Z
 
 [Article]

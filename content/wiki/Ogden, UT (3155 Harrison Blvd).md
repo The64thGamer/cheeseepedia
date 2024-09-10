@@ -1,7 +1,7 @@
 +++
 title = "Ogden, UT (3155 Harrison Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T23:49:50Z
 
 [Article]

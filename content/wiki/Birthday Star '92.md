@@ -1,7 +1,7 @@
 +++
 title = "Birthday Star '92"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-22T19:28:32Z
 
 [Article]

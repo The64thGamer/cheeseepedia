@@ -1,7 +1,7 @@
 +++
 title = "New RAE Lite"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-17T01:43:35Z
 
 [Article]

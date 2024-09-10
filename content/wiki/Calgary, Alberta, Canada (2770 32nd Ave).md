@@ -1,7 +1,7 @@
 +++
 title = "Calgary, Alberta, Canada (2770 32nd Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-30T20:57:30Z
 
 [Article]

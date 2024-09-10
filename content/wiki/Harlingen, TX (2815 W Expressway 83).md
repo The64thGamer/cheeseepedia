@@ -1,7 +1,7 @@
 +++
 title = "Harlingen, TX (2815 W Expressway 83)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-24T19:44:32Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Jasper T. Jowls Name Sign (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-11T16:01:47Z
 
 [Article]

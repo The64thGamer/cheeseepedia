@@ -1,7 +1,7 @@
 +++
 title = "Northridge, CA (8425 Reseda Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T17:21:33Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Menu Items"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-01T23:58:48Z
 
 [Article]

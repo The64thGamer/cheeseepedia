@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (2220 FM 1960)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-05T07:37:00Z
 
 [Article]

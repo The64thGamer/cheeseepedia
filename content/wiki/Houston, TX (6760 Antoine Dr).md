@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (6760 Antoine Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-01T23:07:59Z
 
 [Article]

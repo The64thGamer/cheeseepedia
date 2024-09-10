@@ -1,7 +1,7 @@
 +++
 title = "SPP The Yogi Bear Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-24T00:27:56Z
 
 [Article]

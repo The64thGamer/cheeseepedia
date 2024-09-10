@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-12T06:53:10Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "North Little Rock, AR (4120 Landers Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-22T22:41:41Z
 
 [Article]

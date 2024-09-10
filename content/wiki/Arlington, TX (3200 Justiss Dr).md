@@ -1,7 +1,7 @@
 +++
 title = "Arlington, TX (3200 Justiss Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-23T05:15:00Z
 
 [Article]

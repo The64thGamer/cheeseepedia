@@ -1,7 +1,7 @@
 +++
 title = "CEC Pizza Training Document"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-12T21:23:14Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Green Bay, WI (1273 Lombardi Access)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T18:34:49Z
 
 [Article]

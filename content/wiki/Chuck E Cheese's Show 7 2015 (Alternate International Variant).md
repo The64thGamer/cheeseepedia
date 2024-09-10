@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 7 2015 (Alternate International Variant)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:22:13Z
 
 [Article]

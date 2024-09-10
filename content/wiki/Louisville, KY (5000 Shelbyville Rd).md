@@ -1,7 +1,7 @@
 +++
 title = "Louisville, KY (5000 Shelbyville Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-15T14:03:36Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Grand Slam"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-26T20:32:18Z
 
 [Article]

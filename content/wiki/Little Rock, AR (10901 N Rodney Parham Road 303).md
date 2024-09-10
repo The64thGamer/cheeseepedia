@@ -1,7 +1,7 @@
 +++
 title = "Little Rock, AR (10901 N Rodney Parham Road 303)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T20:10:45Z
 
 [Article]

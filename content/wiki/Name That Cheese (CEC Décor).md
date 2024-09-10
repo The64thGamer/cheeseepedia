@@ -1,7 +1,7 @@
 +++
 title = "Name That Cheese (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T19:31:05Z
 
 [Article]

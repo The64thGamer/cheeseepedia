@@ -1,7 +1,7 @@
 +++
 title = "Mary Esther, FL (321 Mary Esther Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-25T13:59:26Z
 
 [Article]

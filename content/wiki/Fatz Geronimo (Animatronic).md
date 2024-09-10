@@ -1,7 +1,7 @@
 +++
 title = "Fatz Geronimo (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-20T16:51:25Z
 
 [Article]

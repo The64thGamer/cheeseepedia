@@ -1,7 +1,7 @@
 +++
 title = "Helen Henny Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-05T18:39:20Z
 
 [Article]

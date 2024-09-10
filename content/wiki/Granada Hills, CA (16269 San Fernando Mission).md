@@ -1,7 +1,7 @@
 +++
 title = "Granada Hills, CA (16269 San Fernando Mission)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T03:49:56Z
 
 [Article]

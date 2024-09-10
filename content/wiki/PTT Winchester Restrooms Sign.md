@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Restrooms Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-04T06:26:55Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Park Ridge, IL (678 N Northwest Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-19T15:19:55Z
 
 [Article]

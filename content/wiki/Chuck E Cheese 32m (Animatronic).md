@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese 32m (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-31T18:11:25Z
 
 [Article]

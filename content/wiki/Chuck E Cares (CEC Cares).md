@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-26T03:13:18Z
 
 [Article]

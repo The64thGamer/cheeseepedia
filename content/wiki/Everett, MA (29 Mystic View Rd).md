@@ -1,7 +1,7 @@
 +++
 title = "Everett, MA (29 Mystic View Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-05T18:08:51Z
 
 [Article]

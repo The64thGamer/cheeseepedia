@@ -1,7 +1,7 @@
 +++
 title = "1990-1992 APS Floppy Cases"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-19T02:01:16Z
 
 [Article]

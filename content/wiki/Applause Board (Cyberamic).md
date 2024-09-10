@@ -1,7 +1,7 @@
 +++
 title = "Applause Board (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-29T00:10:59Z
 
 [Article]

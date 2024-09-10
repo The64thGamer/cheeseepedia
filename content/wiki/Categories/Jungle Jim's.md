@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-15T23:40:07Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Pizza Time Theatre Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T22:07:47Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Norwalk, CA (10949 Firestone Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-28T21:00:54Z
 
 [Article]

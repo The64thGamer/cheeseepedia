@@ -1,7 +1,7 @@
 +++
 title = "Video Velocitor"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-09T20:27:52Z
 
 [Article]

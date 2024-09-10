@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Chuck E. Cheese Name Sign (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T16:04:50Z
 
 [Article]

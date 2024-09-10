@@ -1,7 +1,7 @@
 +++
 title = "Country Klunk (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-11T20:15:30Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bella B."
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-28T16:03:39Z
 
 [Article]

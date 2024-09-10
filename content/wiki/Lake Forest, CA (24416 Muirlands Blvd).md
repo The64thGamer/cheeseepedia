@@ -1,7 +1,7 @@
 +++
 title = "Lake Forest, CA (24416 Muirlands Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-03T01:59:18Z
 
 [Article]

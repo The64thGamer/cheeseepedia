@@ -1,7 +1,7 @@
 +++
 title = "Dr. Juke Test Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-18T23:03:45Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT 3 Years Brass Pin"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-04T04:22:04Z
 
 [Article]

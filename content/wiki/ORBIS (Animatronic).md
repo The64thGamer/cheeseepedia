@@ -1,7 +1,7 @@
 +++
 title = "O.R.B.I.S (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-04T04:59:01Z
 
 [Article]

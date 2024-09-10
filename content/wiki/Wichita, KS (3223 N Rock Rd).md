@@ -1,7 +1,7 @@
 +++
 title = "Wichita, KS (3223 N Rock Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-02T18:00:04Z
 
 [Article]

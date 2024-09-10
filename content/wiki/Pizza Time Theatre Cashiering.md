@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Cashiering"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-03T17:26:30Z
 
 [Article]

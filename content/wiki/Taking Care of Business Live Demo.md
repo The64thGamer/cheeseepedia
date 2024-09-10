@@ -1,7 +1,7 @@
 +++
 title = "Taking Care of Business Live Demo"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T05:47:36Z
 
 [Article]

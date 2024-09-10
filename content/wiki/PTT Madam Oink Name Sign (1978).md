@@ -1,7 +1,7 @@
 +++
 title = "PTT Madam Oink Name Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-08T19:04:30Z
 
 [Article]

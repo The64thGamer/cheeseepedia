@@ -1,7 +1,7 @@
 +++
 title = "CEC American Pride"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-17T03:28:21Z
 
 [Article]

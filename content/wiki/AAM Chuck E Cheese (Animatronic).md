@@ -1,7 +1,7 @@
 +++
 title = "AAM Chuck E. Cheese (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-02T01:43:47Z
 
 [Article]

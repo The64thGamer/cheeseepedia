@@ -1,7 +1,7 @@
 +++
 title = "Mr. Munch Olympics Glass (1980)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-04T21:32:19Z
 
 [Article]

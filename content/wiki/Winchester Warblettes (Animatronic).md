@@ -1,7 +1,7 @@
 +++
 title = "Winchester Warblettes (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T23:54:57Z
 
 [Article]

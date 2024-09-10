@@ -1,7 +1,7 @@
 +++
 title = "Topeka, KS (1301 SW Gage Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-23T05:09:08Z
 
 [Article]

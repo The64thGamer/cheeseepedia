@@ -1,7 +1,7 @@
 +++
 title = "SPP Emergency Backup Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-27T18:15:16Z
 
 [Article]

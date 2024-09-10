@@ -1,7 +1,7 @@
 +++
 title = "Canton, OH (6370 Strip Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-30T00:59:56Z
 
 [Article]

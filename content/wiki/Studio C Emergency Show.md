@@ -1,7 +1,7 @@
 +++
 title = "Studio C Emergency Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-26T18:23:49Z
 
 [Article]

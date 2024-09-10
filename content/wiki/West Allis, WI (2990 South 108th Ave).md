@@ -1,7 +1,7 @@
 +++
 title = "West Allis, WI (2990 South 108th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-07T14:47:18Z
 
 [Article]

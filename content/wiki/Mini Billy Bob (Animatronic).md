@@ -1,7 +1,7 @@
 +++
 title = "Mini Billy Bob (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-05T05:12:04Z
 
 [Article]

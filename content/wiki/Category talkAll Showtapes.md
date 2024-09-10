@@ -1,7 +1,7 @@
 +++
 title = "Category talk:All Showtapes"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-02T05:44:23Z
 
 [Article]

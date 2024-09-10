@@ -1,7 +1,7 @@
 +++
 title = "SPP Rolfe & Earl/Bday Wave"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-06T04:06:34Z
 
 [Article]

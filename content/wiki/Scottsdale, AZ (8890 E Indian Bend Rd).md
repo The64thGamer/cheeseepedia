@@ -1,7 +1,7 @@
 +++
 title = "Scottsdale, AZ (8890 E Indian Bend Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-12T04:59:54Z
 
 [Article]

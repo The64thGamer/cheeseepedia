@@ -1,7 +1,7 @@
 +++
 title = "Memphis, TN (3649 Hickory Hill Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-06T17:18:30Z
 
 [Article]

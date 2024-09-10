@@ -1,7 +1,7 @@
 +++
 title = "Playcenter São Paulo Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T16:57:18Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Spokane, WA (10007 N Nevada St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-21T22:17:36Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Jasper (Jasper Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-15T21:40:48Z
 
 [Article]

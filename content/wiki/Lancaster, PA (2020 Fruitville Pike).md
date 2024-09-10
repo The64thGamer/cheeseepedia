@@ -1,7 +1,7 @@
 +++
 title = "Lancaster, PA (2020 Fruitville Pike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T21:02:09Z
 
 [Article]

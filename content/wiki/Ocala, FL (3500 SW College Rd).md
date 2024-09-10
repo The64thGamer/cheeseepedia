@@ -1,7 +1,7 @@
 +++
 title = "Ocala, FL (3500 SW College Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-07T01:47:10Z
 
 [Article]

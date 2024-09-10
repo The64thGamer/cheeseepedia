@@ -1,7 +1,7 @@
 +++
 title = "Fantasy Forest Victorville, CA Office"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-21T16:48:37Z
 
 [Article]

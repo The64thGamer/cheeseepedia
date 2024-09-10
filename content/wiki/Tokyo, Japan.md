@@ -1,7 +1,7 @@
 +++
 title = "Tokyo, Japan"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-10T15:26:58Z
 
 [Article]

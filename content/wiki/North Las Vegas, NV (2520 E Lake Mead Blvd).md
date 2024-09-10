@@ -1,7 +1,7 @@
 +++
 title = "North Las Vegas, NV (2520 E Lake Mead Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-08T06:27:36Z
 
 [Article]

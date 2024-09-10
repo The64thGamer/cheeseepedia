@@ -1,7 +1,7 @@
 +++
 title = "Foxy Colleen I"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-05T18:52:56Z
 
 [Article]

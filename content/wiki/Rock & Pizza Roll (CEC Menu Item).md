@@ -1,7 +1,7 @@
 +++
 title = "Rock & Pizza Roll (CEC Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-11T17:38:28Z
 
 [Article]

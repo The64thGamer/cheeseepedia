@@ -1,7 +1,7 @@
 +++
 title = "Garland, TX (4992 State Hwy 190)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-25T05:28:28Z
 
 [Article]

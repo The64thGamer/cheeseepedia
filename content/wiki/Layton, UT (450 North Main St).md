@@ -1,7 +1,7 @@
 +++
 title = "Layton, UT (450 North Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-22T01:24:43Z
 
 [Article]

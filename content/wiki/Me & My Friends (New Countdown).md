@@ -1,7 +1,7 @@
 +++
 title = "Me & My Friends (New Countdown)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-10T22:20:14Z
 
 [Article]

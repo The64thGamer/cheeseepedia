@@ -1,7 +1,7 @@
 +++
 title = "PTT Salad Bar Manual (1983)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-08T16:13:39Z
 
 [Article]

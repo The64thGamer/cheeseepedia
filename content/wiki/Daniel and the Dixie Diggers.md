@@ -1,7 +1,7 @@
 +++
 title = "Daniel and the Dixie Diggers"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-11-11T21:49:52Z
 
 [Article]

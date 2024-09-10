@@ -1,7 +1,7 @@
 +++
 title = "Naperville, IL (509 Illinois Rte 59)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-29T18:51:19Z
 
 [Article]

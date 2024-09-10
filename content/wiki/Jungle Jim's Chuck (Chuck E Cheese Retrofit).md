@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-16T01:25:22Z
 
 [Article]

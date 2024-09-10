@@ -1,7 +1,7 @@
 +++
 title = "PTT Employee Red & Brown Shirt (1981)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T21:54:41Z
 
 [Article]

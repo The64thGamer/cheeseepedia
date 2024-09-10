@@ -1,7 +1,7 @@
 +++
 title = "Dolli Dimples 'Hello Dolli' Pink Hair Comb (1982)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-16T22:37:49Z
 
 [Article]

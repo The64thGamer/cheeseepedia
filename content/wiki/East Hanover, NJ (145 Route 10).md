@@ -1,7 +1,7 @@
 +++
 title = "East Hanover, NJ (145 Route 10)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-15T19:51:48Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Lone Tree, CO (7510 Parkway Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-27T08:06:48Z
 
 [Article]

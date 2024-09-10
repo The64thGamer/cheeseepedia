@@ -1,7 +1,7 @@
 +++
 title = "Mr, Munch 1995 (Costume Head)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-06T01:24:05Z
 
 [Article]

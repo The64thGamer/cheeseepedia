@@ -1,7 +1,7 @@
 +++
 title = "Johnstown,PA (592 Galleria Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-26T22:02:06Z
 
 [Article]

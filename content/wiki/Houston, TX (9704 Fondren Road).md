@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (9704 Fondren Road)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-24T19:53:14Z
 
 [Article]

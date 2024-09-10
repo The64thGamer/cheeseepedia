@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Live Stage (Dance Floor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T00:16:24Z
 
 [Article]

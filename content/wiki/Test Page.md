@@ -1,7 +1,7 @@
 +++
 title = "Test Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-14T21:43:55Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Hang in There Howie (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-02T17:07:36Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Halloween Boo-Tacular 2022 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T22:09:27Z
 
 [Article]

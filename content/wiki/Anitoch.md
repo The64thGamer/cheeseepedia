@@ -1,7 +1,7 @@
 +++
 title = "Anitoch"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T18:05:41Z
 
 [Article]

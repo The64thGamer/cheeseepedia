@@ -1,7 +1,7 @@
 +++
 title = "Villa Park, IL (200 W Roosevelt Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-04T23:59:06Z
 
 [Article]

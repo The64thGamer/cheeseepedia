@@ -1,7 +1,7 @@
 +++
 title = "Wayne, NJ (1639 Rt 23)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-01T20:33:58Z
 
 [Article]

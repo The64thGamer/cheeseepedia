@@ -1,7 +1,7 @@
 +++
 title = "Lion (Jasper T. Jowls Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T22:30:14Z
 
 [Article]

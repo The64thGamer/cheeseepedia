@@ -1,7 +1,7 @@
 +++
 title = "CECCheese"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-03-04T09:33:39Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Grand Chute / Appleton, WI (4671 Michales Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T17:45:51Z
 
 [Article]

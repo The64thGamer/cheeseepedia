@@ -1,7 +1,7 @@
 +++
 title = "Pico Rivera, CA (6005 Rosemead Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-27T22:39:08Z
 
 [Article]

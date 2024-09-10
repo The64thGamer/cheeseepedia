@@ -1,7 +1,7 @@
 +++
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-11T15:51:46Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "East Brunswick, NJ (647 NJ-18)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-11T01:32:58Z
 
 [Article]

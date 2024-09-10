@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Shuffle 06"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-23T16:15:23Z
 
 [Article]

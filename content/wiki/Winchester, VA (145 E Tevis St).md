@@ -1,7 +1,7 @@
 +++
 title = "Winchester, VA (145 E Tevis St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-19T16:21:17Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Oklahoma City, OK (7601 S Walker Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-10T00:19:51Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Dog (Mr. Munch Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T01:12:10Z
 
 [Article]

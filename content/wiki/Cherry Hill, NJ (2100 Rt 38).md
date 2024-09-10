@@ -1,7 +1,7 @@
 +++
 title = "Cherry Hill, NJ (2100 Rt 38)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-10T23:20:33Z
 
 [Article]

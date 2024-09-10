@@ -1,7 +1,7 @@
 +++
 title = "The 64th Gamer"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2022-08-04T16:57:30Z
 
 [Article]

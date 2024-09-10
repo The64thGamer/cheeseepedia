@@ -1,7 +1,7 @@
 +++
 title = "'Yellow Submarine Sandwich' (CD Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-15T17:34:46Z
 
 [Article]

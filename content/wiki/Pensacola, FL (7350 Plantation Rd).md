@@ -1,7 +1,7 @@
 +++
 title = "Pensacola, FL (7350 Plantation Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T07:00:27Z
 
 [Article]

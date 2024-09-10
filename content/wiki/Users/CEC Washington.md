@@ -1,7 +1,7 @@
 +++
 title = "CEC Washington"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2022-09-08T02:44:31Z
 
 [Article]

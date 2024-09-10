@@ -1,7 +1,7 @@
 +++
 title = "Skee-Ball Pepperoni Bites (CEC Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-13T03:14:33Z
 
 [Article]

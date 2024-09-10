@@ -1,7 +1,7 @@
 +++
 title = "SPP Christmas '90"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-01T06:43:01Z
 
 [Article]

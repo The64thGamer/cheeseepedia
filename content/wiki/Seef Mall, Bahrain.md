@@ -1,7 +1,7 @@
 +++
 title = "Seef Mall, Bahrain"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T13:58:29Z
 
 [Article]

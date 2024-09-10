@@ -1,7 +1,7 @@
 +++
 title = "Chico, CA (966 East Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T18:59:09Z
 
 [Article]

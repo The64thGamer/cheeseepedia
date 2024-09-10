@@ -1,7 +1,7 @@
 +++
 title = "Citrus Heights, CA (6251 Sunrise Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-04T17:05:30Z
 
 [Article]

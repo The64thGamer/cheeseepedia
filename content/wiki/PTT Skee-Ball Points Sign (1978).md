@@ -1,7 +1,7 @@
 +++
 title = "PTT Skee-Ball Points Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-01T21:30:48Z
 
 [Article]

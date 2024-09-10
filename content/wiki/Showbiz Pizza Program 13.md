@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Program 13"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T03:04:52Z
 
 [Article]

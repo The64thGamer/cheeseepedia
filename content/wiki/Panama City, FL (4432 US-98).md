@@ -1,7 +1,7 @@
 +++
 title = "Panama City, FL (4432 US-98)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-26T03:50:15Z
 
 [Article]

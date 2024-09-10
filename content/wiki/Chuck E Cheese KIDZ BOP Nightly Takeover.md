@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese KIDZ BOP Nightly Takeover"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-20T03:26:05Z
 
 [Article]

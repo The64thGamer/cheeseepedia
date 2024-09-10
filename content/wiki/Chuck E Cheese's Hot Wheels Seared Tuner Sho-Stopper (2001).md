@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hot Wheels Seared Tuner Sho-Stopper (2001)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-25T03:36:30Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Metaverse"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T23:12:00Z
 
 [Article]

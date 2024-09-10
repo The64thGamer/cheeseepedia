@@ -1,7 +1,7 @@
 +++
 title = "Fresno, CA (5384 N Blackstone Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-29T23:11:23Z
 
 [Article]

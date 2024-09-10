@@ -1,7 +1,7 @@
 +++
 title = "Walkin' On Sunshine Live Demo"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T05:48:45Z
 
 [Article]

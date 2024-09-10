@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Hoops"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-30T00:28:40Z
 
 [Article]

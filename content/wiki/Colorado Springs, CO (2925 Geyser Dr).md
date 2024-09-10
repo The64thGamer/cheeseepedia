@@ -1,7 +1,7 @@
 +++
 title = "Colorado Springs, CO (2925 Geyser Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-13T03:47:49Z
 
 [Article]

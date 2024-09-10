@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (4432 North Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-16T01:10:02Z
 
 [Article]

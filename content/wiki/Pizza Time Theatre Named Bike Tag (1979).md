@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Named Bike Tag (1979)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-23T04:09:36Z
 
 [Article]

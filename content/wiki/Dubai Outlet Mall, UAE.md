@@ -1,7 +1,7 @@
 +++
 title = "Dubai Outlet Mall, U.A.E."
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-16T18:06:26Z
 
 [Article]

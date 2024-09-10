@@ -1,7 +1,7 @@
 +++
 title = "Manchester, CT (82 Buckland St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-05T23:10:16Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "San Bernardino, CA (955 South E St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-09T19:14:18Z
 
 [Article]

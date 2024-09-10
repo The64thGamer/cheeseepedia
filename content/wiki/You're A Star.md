@@ -1,7 +1,7 @@
 +++
 title = "You're A Star"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T04:18:17Z
 
 [Article]

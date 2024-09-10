@@ -1,7 +1,7 @@
 +++
 title = "Augusta, GA (3435 Wrightsboro Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-28T16:18:26Z
 
 [Article]

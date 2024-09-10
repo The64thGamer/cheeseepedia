@@ -1,7 +1,7 @@
 +++
 title = "Tu Eres La Estrella En Chuck E. Cheese's"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-06T13:36:22Z
 
 [Article]

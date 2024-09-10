@@ -1,7 +1,7 @@
 +++
 title = "Site News"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-13T11:33:33Z
 
 [Article]

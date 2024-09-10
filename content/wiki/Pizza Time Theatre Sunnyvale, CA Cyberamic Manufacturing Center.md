@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Sunnyvale, CA Cyberamic Manufacturing Center"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-23T16:54:40Z
 
 [Article]

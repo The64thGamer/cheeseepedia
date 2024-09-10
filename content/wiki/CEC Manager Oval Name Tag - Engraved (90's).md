@@ -1,7 +1,7 @@
 +++
 title = "CEC Manager Oval Name Tag - Engraved (90's)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-27T22:40:04Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Grapevine, TX (2755 E Grapevine Mills Circle)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-29T16:40:03Z
 
 [Article]

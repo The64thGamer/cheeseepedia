@@ -1,7 +1,7 @@
 +++
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-06T20:23:25Z
 
 [Article]

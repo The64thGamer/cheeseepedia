@@ -1,7 +1,7 @@
 +++
 title = "Standard: Commercial Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-04T18:27:42Z
 
 [Article]

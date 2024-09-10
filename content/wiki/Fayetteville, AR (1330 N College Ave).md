@@ -1,7 +1,7 @@
 +++
 title = "Fayetteville, AR (1330 N College Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-15T19:00:49Z
 
 [Article]

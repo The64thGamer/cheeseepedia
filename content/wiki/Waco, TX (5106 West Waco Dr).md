@@ -1,7 +1,7 @@
 +++
 title = "Waco, TX (5106 West Waco Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-16T02:56:23Z
 
 [Article]

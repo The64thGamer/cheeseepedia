@@ -1,7 +1,7 @@
 +++
 title = "1993 Cheese Z Top (CD Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-14T06:09:20Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Tester"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-26T06:18:02Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Hialeah, FL (500 W 49th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-15T20:02:15Z
 
 [Article]

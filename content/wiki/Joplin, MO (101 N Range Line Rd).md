@@ -1,7 +1,7 @@
 +++
 title = "Joplin, MO (101 N Range Line Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-31T16:42:02Z
 
 [Article]

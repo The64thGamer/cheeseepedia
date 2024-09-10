@@ -1,7 +1,7 @@
 +++
 title = "Tampa, FL (4202 E Fowler Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-11T02:47:03Z
 
 [Article]

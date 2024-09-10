@@ -1,7 +1,7 @@
 +++
 title = "Memphis, TN (3268 Austin Peay Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-16T22:33:26Z
 
 [Article]

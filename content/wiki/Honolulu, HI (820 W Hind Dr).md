@@ -1,7 +1,7 @@
 +++
 title = "Honolulu, HI (820 W Hind Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-07T04:00:34Z
 
 [Article]

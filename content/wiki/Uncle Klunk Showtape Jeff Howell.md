@@ -1,7 +1,7 @@
 +++
 title = "Uncle Klunk Showtape Jeff Howell"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T03:08:40Z
 
 [Article]

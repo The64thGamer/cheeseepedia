@@ -1,7 +1,7 @@
 +++
 title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T20:55:28Z
 
 [Article]

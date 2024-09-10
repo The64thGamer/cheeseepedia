@@ -1,7 +1,7 @@
 +++
 title = "CEC Future"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T19:10:35Z
 
 [Article]

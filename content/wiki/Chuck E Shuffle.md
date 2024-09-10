@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Shuffle"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-06T04:12:53Z
 
 [Article]

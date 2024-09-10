@@ -1,7 +1,7 @@
 +++
 title = "Beagles III"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:11:04Z
 
 [Article]

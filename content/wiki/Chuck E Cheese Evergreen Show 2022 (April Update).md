@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2022 (April Update)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-10T23:29:38Z
 
 [Article]

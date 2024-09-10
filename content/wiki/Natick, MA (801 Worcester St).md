@@ -1,7 +1,7 @@
 +++
 title = "Natick, MA (801 Worcester St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-07T03:16:30Z
 
 [Article]

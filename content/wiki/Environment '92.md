@@ -1,7 +1,7 @@
 +++
 title = "Environment '92"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-17T02:17:44Z
 
 [Article]

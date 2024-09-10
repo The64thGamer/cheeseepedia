@@ -1,7 +1,7 @@
 +++
 title = "Star Cast Member of the Month 2019 Pin"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-04T01:59:21Z
 
 [Article]

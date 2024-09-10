@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-25T05:46:27Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E Cheese Live"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:01:55Z
 
 [Article]

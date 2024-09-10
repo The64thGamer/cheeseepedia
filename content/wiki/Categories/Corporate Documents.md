@@ -1,7 +1,7 @@
 +++
 title = "Corporate Documents"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-08T14:14:49Z
 
 [Article]

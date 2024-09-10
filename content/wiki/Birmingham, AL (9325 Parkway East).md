@@ -1,7 +1,7 @@
 +++
 title = "Birmingham, AL (9325 Parkway East)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T15:13:39Z
 
 [Article]

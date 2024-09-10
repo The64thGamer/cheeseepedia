@@ -1,7 +1,7 @@
 +++
 title = "York, PA (2801 E Market St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-01T05:26:57Z
 
 [Article]

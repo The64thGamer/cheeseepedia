@@ -1,7 +1,7 @@
 +++
 title = "Go Go Chuck E"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-13T23:14:45Z
 
 [Article]

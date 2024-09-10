@@ -1,7 +1,7 @@
 +++
 title = "Newark, CA (39839 Mowry School Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T14:06:11Z
 
 [Article]

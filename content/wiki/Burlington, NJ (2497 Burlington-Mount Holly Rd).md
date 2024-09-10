@@ -1,7 +1,7 @@
 +++
 title = "Burlington, NJ (2497 Burlington-Mount Holly Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-20T19:31:02Z
 
 [Article]

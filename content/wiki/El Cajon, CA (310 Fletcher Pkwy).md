@@ -1,7 +1,7 @@
 +++
 title = "El Cajon, CA (310 Fletcher Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-29T19:13:51Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Arcade Game Locations"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-02T16:54:56Z
 
 [Article]

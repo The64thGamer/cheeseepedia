@@ -1,7 +1,7 @@
 +++
 title = "Bear-A-Dice Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-21T21:37:51Z
 
 [Article]

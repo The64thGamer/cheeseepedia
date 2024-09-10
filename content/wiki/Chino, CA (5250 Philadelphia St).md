@@ -1,7 +1,7 @@
 +++
 title = "Chino, CA (5250 Philadelphia St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-27T19:51:43Z
 
 [Article]

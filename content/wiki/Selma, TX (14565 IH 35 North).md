@@ -1,7 +1,7 @@
 +++
 title = "Selma, TX (14565 IH 35 North)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-05T02:12:26Z
 
 [Article]

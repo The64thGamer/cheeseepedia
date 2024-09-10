@@ -1,7 +1,7 @@
 +++
 title = "Me & My Friends"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-13T05:03:45Z
 
 [Article]

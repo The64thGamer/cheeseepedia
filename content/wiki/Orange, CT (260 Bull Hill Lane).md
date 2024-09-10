@@ -1,7 +1,7 @@
 +++
 title = "Orange, CT (260 Bull Hill Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-24T13:00:31Z
 
 [Article]

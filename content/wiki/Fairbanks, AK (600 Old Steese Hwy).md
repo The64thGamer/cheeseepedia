@@ -1,7 +1,7 @@
 +++
 title = "Fairbanks, AK (600 Old Steese Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-17T20:15:33Z
 
 [Article]

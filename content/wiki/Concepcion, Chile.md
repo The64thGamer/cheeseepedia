@@ -1,7 +1,7 @@
 +++
 title = "Concepcion, Chile"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-07T02:26:59Z
 
 [Article]

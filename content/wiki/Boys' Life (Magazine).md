@@ -1,7 +1,7 @@
 +++
 title = "Boys' Life (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T08:55:17Z
 
 [Article]

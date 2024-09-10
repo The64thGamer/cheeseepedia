@@ -1,7 +1,7 @@
 +++
 title = "The Great Ticket Carnival"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-01T03:51:10Z
 
 [Article]

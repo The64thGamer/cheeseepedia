@@ -1,7 +1,7 @@
 +++
 title = "Milwaukee, WI (7401 Good Hope Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-16T15:58:33Z
 
 [Article]

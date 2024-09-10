@@ -1,7 +1,7 @@
 +++
 title = "Syracuse (Mattydale), NY (2803 Brewerton Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-08T12:39:14Z
 
 [Article]

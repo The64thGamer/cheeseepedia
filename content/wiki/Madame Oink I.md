@@ -1,7 +1,7 @@
 +++
 title = "Madame Oink I"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-05T18:47:37Z
 
 [Article]

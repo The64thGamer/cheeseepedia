@@ -1,7 +1,7 @@
 +++
 title = "Monroeville, PA (3800 William Penn Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-13T04:13:04Z
 
 [Article]

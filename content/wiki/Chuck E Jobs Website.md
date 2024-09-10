@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Jobs Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:26:20Z
 
 [Article]

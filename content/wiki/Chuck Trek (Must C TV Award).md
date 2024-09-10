@@ -1,7 +1,7 @@
 +++
 title = "'Chuck Trek' (Must C TV Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T20:27:05Z
 
 [Article]

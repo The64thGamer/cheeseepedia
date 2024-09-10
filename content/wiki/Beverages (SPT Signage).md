@@ -1,7 +1,7 @@
 +++
 title = "Beverages (SPT Signage)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-14T01:14:17Z
 
 [Article]

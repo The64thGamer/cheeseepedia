@@ -1,7 +1,7 @@
 +++
 title = "Elk Grove, CA (9161 E Stockton Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-04T14:02:19Z
 
 [Article]

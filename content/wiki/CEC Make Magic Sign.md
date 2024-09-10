@@ -1,7 +1,7 @@
 +++
 title = "CEC Make Magic Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-27T19:33:51Z
 
 [Article]

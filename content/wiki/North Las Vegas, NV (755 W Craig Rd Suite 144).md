@@ -1,7 +1,7 @@
 +++
 title = "North Las Vegas, NV (755 W. Craig Rd Suite 144)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-13T20:46:05Z
 
 [Article]

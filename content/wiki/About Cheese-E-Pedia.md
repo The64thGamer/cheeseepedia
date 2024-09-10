@@ -1,7 +1,7 @@
 +++
 title = "About Cheese-E-Pedia"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T01:52:27Z
 
 [Article]

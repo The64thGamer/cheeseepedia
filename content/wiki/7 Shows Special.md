@@ -1,7 +1,7 @@
 +++
 title = "7 Shows Special"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-08T01:37:09Z
 
 [Article]

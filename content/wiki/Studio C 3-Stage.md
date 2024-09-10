@@ -1,7 +1,7 @@
 +++
 title = "Studio C 3-Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-10T21:01:59Z
 
 [Article]

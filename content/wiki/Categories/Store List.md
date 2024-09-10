@@ -1,7 +1,7 @@
 +++
 title = "Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-04T21:24:58Z
 
 [Article]

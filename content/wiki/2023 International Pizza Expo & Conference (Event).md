@@ -1,7 +1,7 @@
 +++
 title = "2023 International Pizza Expo & Conference (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-21T19:33:05Z
 
 [Article]

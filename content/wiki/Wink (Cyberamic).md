@@ -1,7 +1,7 @@
 +++
 title = "Wink (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-05T20:26:13Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Cow (Pasqually Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T01:17:37Z
 
 [Article]

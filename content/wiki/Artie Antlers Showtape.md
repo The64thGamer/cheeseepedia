@@ -1,7 +1,7 @@
 +++
 title = "Artie Antlers Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T04:22:39Z
 
 [Article]

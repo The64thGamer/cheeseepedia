@@ -1,7 +1,7 @@
 +++
 title = "Parkway Parade, Marine Parade, Singapore"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-23T15:41:23Z
 
 [Article]

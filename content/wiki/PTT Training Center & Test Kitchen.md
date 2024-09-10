@@ -1,7 +1,7 @@
 +++
 title = "PTT Training Center & Test Kitchen"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-26T05:08:43Z
 
 [Article]

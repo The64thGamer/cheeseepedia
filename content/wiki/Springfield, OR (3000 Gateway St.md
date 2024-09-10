@@ -1,7 +1,7 @@
 +++
 title = "Springfield, OR (3000 Gateway St"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-09-02T20:05:50Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "3-Stage Sixteen Tons"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-10T18:53:03Z
 
 [Article]

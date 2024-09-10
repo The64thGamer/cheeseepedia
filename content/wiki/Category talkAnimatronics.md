@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Animatronics"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-20T05:23:45Z
 
 [Article]

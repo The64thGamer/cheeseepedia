@@ -1,7 +1,7 @@
 +++
 title = "Clarksville, TN (2821 B Wilma Rudolph Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T14:01:28Z
 
 [Article]

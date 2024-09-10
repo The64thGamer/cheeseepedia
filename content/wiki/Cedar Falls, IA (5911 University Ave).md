@@ -1,7 +1,7 @@
 +++
 title = "Cedar Falls, IA (5911 University Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-20T19:14:34Z
 
 [Article]

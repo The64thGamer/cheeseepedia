@@ -1,7 +1,7 @@
 +++
 title = "Santa Klunk On Stage Show 1985 (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-11T20:11:27Z
 
 [Article]

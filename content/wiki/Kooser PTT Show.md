@@ -1,7 +1,7 @@
 +++
 title = "Kooser PTT Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-13T20:34:24Z
 
 [Article]

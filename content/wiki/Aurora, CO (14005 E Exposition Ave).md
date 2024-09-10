@@ -1,7 +1,7 @@
 +++
 title = "Aurora, CO (14005 E Exposition Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-25T04:28:28Z
 
 [Article]

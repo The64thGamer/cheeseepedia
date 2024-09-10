@@ -1,7 +1,7 @@
 +++
 title = "Skokie, IL (7142 Carpenter Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-03T20:07:50Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "1998 Chuck E. Pop Art (Quad)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-10T08:11:44Z
 
 [Article]

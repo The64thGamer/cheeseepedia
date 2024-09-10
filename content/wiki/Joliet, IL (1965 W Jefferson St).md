@@ -1,7 +1,7 @@
 +++
 title = "Joliet, IL (1965 W Jefferson St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-16T17:59:36Z
 
 [Article]

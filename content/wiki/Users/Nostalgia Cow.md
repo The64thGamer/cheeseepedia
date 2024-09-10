@@ -1,7 +1,7 @@
 +++
 title = "Nostalgia Cow"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-07-20T16:59:18Z
 
 [Article]

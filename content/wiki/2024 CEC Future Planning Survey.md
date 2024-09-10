@@ -1,7 +1,7 @@
 +++
 title = "2024 CEC Future Planning Survey"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-26T04:29:13Z
 
 [Article]

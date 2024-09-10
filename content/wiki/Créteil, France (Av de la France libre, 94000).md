@@ -1,7 +1,7 @@
 +++
 title = "Créteil, France (Av. de la France libre, 94000)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T15:54:40Z
 
 [Article]

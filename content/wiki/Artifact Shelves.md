@@ -1,7 +1,7 @@
 +++
 title = "Artifact Shelves"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-08T20:44:13Z
 
 [Article]

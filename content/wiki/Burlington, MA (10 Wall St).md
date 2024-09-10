@@ -1,7 +1,7 @@
 +++
 title = "Burlington, MA (10 Wall St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-20T02:42:22Z
 
 [Article]

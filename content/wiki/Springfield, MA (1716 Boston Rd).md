@@ -1,7 +1,7 @@
 +++
 title = "Springfield, MA (1716 Boston Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-03T04:40:38Z
 
 [Article]

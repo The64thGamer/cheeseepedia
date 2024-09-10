@@ -1,7 +1,7 @@
 +++
 title = "Arlington Heights, IL (41 W Rand Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-31T02:26:09Z
 
 [Article]

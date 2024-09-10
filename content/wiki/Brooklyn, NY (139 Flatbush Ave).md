@@ -1,7 +1,7 @@
 +++
 title = "Brooklyn, NY (139 Flatbush Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-10T19:49:54Z
 
 [Article]

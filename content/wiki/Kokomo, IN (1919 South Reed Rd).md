@@ -1,7 +1,7 @@
 +++
 title = "Kokomo, IN (1919 South Reed Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-09T14:45:48Z
 
 [Article]

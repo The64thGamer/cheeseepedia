@@ -1,7 +1,7 @@
 +++
 title = "Magic Stage Christmas Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-18T19:40:27Z
 
 [Article]

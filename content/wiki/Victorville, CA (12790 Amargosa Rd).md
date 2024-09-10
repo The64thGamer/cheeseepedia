@@ -1,7 +1,7 @@
 +++
 title = "Victorville, CA (12790 Amargosa Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-01T19:41:14Z
 
 [Article]

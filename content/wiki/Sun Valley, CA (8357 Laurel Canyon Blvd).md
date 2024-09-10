@@ -1,7 +1,7 @@
 +++
 title = "Sun Valley, CA (8357 Laurel Canyon Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-06T02:03:04Z
 
 [Article]

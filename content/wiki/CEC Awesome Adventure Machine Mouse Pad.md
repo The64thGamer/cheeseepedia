@@ -1,7 +1,7 @@
 +++
 title = "CEC Awesome Adventure Machine Mouse Pad"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-06T00:37:09Z
 
 [Article]

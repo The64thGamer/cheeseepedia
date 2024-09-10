@@ -1,7 +1,7 @@
 +++
 title = "Rockin-Bowler"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-08T01:56:26Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Hempstead, NY (162 Fulton Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-23T15:15:13Z
 
 [Article]

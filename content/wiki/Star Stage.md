@@ -1,7 +1,7 @@
 +++
 title = "Star Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T01:15:59Z
 
 [Article]

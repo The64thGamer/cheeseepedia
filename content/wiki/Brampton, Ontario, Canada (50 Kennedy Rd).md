@@ -1,7 +1,7 @@
 +++
 title = "Brampton, Ontario, Canada (50 Kennedy Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-20T15:31:51Z
 
 [Article]

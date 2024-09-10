@@ -1,7 +1,7 @@
 +++
 title = "PTT 1981 Update"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-14T08:51:19Z
 
 [Article]

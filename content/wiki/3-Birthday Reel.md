@@ -1,7 +1,7 @@
 +++
 title = "3-Birthday Reel"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T01:53:02Z
 
 [Article]

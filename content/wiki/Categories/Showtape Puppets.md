@@ -1,7 +1,7 @@
 +++
 title = "Showtape Puppets"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-21T21:04:04Z
 
 [Article]

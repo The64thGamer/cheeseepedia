@@ -1,7 +1,7 @@
 +++
 title = "Moreno Valley, CA (23160 Sunnymead Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-28T19:33:01Z
 
 [Article]

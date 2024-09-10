@@ -1,7 +1,7 @@
 +++
 title = "Studio C HD Weigl Control System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-02T03:07:22Z
 
 [Article]

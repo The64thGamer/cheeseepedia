@@ -1,7 +1,7 @@
 +++
 title = "Wolfman Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-24T17:20:00Z
 
 [Article]

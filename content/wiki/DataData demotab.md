@@ -1,7 +1,7 @@
 +++
 title = "Data:Data demo.tab"
 draft = false
-tags = [ ]
+tags = []
 date = 2020-05-13T19:23:00Z
 
 [Article]

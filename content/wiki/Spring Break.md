@@ -1,7 +1,7 @@
 +++
 title = "Spring Break"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:10:07Z
 
 [Article]

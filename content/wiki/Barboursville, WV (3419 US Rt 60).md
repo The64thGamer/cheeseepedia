@@ -1,7 +1,7 @@
 +++
 title = "Barboursville, WV (3419 US Rt 60)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-27T13:43:32Z
 
 [Article]

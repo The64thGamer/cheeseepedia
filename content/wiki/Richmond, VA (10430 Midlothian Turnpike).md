@@ -1,7 +1,7 @@
 +++
 title = "Richmond, VA (10430 Midlothian Turnpike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-16T22:14:46Z
 
 [Article]

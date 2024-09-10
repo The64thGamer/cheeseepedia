@@ -1,7 +1,7 @@
 +++
 title = "Animatronic Control Hardware & Software"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-29T09:50:38Z
 
 [Article]

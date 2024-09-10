@@ -1,7 +1,7 @@
 +++
 title = "File talk:Charles .png"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-29T15:01:25Z
 
 [Article]

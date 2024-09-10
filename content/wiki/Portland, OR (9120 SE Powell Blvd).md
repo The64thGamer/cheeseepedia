@@ -1,7 +1,7 @@
 +++
 title = "Portland, OR (9120 SE Powell Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-06T01:55:42Z
 
 [Article]

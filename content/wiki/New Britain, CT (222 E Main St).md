@@ -1,7 +1,7 @@
 +++
 title = "New Britain, CT (222 E Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-24T12:50:48Z
 
 [Article]

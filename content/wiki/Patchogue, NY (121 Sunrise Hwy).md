@@ -1,7 +1,7 @@
 +++
 title = "Patchogue, NY (121 Sunrise Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T00:07:32Z
 
 [Article]

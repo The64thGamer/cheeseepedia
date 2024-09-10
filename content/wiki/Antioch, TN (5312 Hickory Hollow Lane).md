@@ -1,7 +1,7 @@
 +++
 title = "Antioch, TN (5312 Hickory Hollow Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-31T19:08:26Z
 
 [Article]

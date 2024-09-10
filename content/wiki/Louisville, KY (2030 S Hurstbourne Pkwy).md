@@ -1,7 +1,7 @@
 +++
 title = "Louisville, KY (2030 S Hurstbourne Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T01:48:12Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CU Flower Prototype (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T20:09:03Z
 
 [Article]

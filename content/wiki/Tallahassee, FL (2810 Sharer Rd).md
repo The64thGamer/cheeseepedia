@@ -1,7 +1,7 @@
 +++
 title = "Tallahassee, FL (2810 Sharer Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-13T23:03:54Z
 
 [Article]

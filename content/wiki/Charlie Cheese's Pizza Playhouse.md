@@ -1,7 +1,7 @@
 +++
 title = "Charlie Cheese's Pizza Playhouse"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T18:56:51Z
 
 [Article]

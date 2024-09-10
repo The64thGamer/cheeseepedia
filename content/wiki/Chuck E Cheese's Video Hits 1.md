@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Video Hits 1"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-12T05:19:44Z
 
 [Article]

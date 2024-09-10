@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Rockin' Rhymes"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-26T17:55:21Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Licensed Family Entertainment Center Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-19T02:19:45Z
 
 [Article]

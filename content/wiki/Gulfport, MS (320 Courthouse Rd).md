@@ -1,7 +1,7 @@
 +++
 title = "Gulfport, MS (320 Courthouse Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-26T17:53:39Z
 
 [Article]

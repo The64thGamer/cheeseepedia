@@ -1,7 +1,7 @@
 +++
 title = "The Country Critters Jamboree"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-12T08:11:24Z
 
 [Article]

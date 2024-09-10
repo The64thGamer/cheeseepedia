@@ -1,7 +1,7 @@
 +++
 title = "Winchester Grand-Opening Advertisement (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-14T07:41:59Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Amherst, NY (4994 Harlem Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-11T14:12:24Z
 
 [Article]

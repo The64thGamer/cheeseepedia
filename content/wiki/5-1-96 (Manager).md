@@ -1,7 +1,7 @@
 +++
 title = "5-1-96 (Manager)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T05:30:37Z
 
 [Article]

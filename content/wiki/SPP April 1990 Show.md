@@ -1,7 +1,7 @@
 +++
 title = "SPP April 1990 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-22T20:47:43Z
 
 [Article]

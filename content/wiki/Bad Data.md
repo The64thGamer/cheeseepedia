@@ -1,7 +1,7 @@
 +++
 title = "Bad Data"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-07T23:11:58Z
 
 [Article]

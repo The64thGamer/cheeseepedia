@@ -1,7 +1,7 @@
 +++
 title = "CEC Stage Diagnostics 2004"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-23T22:55:22Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "American Rider (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T08:04:33Z
 
 [Article]

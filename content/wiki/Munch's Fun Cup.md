@@ -1,7 +1,7 @@
 +++
 title = "Munch's Fun Cup"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-20T18:43:43Z
 
 [Article]

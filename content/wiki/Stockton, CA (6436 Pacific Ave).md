@@ -1,7 +1,7 @@
 +++
 title = "Stockton, CA (6436 Pacific Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-20T02:29:17Z
 
 [Article]

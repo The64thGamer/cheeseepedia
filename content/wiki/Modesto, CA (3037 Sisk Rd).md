@@ -1,7 +1,7 @@
 +++
 title = "Modesto, CA (3037 Sisk Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T21:56:31Z
 
 [Article]

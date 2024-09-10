@@ -1,7 +1,7 @@
 +++
 title = "Irving, TX (2521 W Airport Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-25T23:21:49Z
 
 [Article]

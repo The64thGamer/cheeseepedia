@@ -1,7 +1,7 @@
 +++
 title = "Fargo, ND (1202 Nodak Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-19T02:35:31Z
 
 [Article]

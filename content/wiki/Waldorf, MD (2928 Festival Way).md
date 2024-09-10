@@ -1,7 +1,7 @@
 +++
 title = "Waldorf, MD (2928 Festival Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-26T17:03:29Z
 
 [Article]

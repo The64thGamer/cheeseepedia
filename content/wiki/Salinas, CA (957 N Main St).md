@@ -1,7 +1,7 @@
 +++
 title = "Salinas, CA (957 N Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-02T01:30:08Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Gulliver's World Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-24T13:03:19Z
 
 [Article]

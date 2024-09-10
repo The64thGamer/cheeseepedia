@@ -1,7 +1,7 @@
 +++
 title = "St. Louis River Revue"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-16T19:06:08Z
 
 [Article]

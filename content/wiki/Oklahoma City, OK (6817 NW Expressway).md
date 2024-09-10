@@ -1,7 +1,7 @@
 +++
 title = "Oklahoma City, OK (6817 NW Expressway)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-10T18:01:05Z
 
 [Article]

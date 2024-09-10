@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's September 2019 Int"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T21:28:56Z
 
 [Article]

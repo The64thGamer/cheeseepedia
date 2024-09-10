@@ -1,7 +1,7 @@
 +++
 title = "Road Show 2008"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T17:01:02Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "New Rock-afire Explosion Control System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-12T20:52:39Z
 
 [Article]

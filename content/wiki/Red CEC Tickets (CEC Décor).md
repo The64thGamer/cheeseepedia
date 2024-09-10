@@ -1,7 +1,7 @@
 +++
 title = "Red CEC Tickets (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-28T22:11:32Z
 
 [Article]

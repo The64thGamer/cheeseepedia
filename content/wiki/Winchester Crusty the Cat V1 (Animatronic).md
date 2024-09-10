@@ -1,7 +1,7 @@
 +++
 title = "Winchester Crusty the Cat V1 (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-28T18:59:32Z
 
 [Article]

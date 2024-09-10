@@ -1,7 +1,7 @@
 +++
 title = "Awesome Adventure Machine"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T03:53:36Z
 
 [Article]

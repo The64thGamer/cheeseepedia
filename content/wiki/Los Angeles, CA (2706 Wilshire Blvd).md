@@ -1,7 +1,7 @@
 +++
 title = "Los Angeles, CA (2706 Wilshire Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-17T16:58:55Z
 
 [Article]

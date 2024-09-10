@@ -1,7 +1,7 @@
 +++
 title = "CEC Christmas '90 / Wave Bday"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:04:45Z
 
 [Article]

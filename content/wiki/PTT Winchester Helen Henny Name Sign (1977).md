@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Helen Henny Name Sign (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T14:02:32Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Warblettes Name Sign (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-08T15:41:36Z
 
 [Article]

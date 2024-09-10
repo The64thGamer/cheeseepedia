@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Memory Match"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-30T23:46:36Z
 
 [Article]

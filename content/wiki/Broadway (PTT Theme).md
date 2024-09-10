@@ -1,7 +1,7 @@
 +++
 title = "Broadway (PTT Theme)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T05:05:45Z
 
 [Article]

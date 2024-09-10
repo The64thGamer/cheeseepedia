@@ -1,7 +1,7 @@
 +++
 title = "Winter Park, FL (1997 Aloma Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-23T21:04:24Z
 
 [Article]

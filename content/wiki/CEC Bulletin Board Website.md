@@ -1,7 +1,7 @@
 +++
 title = "CEC Bulletin Board Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-04T17:57:13Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Warwick, RI (650 Bald Hill Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-30T14:54:23Z
 
 [Article]

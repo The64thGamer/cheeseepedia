@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Foxy Colleen Name Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-08T11:19:44Z
 
 [Article]

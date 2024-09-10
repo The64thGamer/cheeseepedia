@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-07T15:31:09Z
 
 [Article]

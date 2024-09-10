@@ -1,7 +1,7 @@
 +++
 title = "St. Louis, MO (2805 Target Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-15T21:06:59Z
 
 [Article]

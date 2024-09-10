@@ -1,7 +1,7 @@
 +++
 title = "Friendly Freddy (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-20T19:42:08Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T00:56:06Z
 
 [Article]

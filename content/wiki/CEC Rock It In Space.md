@@ -1,7 +1,7 @@
 +++
 title = "CEC Rock It In Space"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:07:42Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Mays Landing, NJ (4215 Black Horse Pike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-17T21:04:23Z
 
 [Article]

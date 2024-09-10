@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Talking Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-08T23:31:16Z
 
 [Article]

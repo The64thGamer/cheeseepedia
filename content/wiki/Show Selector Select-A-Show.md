@@ -1,7 +1,7 @@
 +++
 title = "Show Selector 'Select-A-Show'"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T23:58:12Z
 
 [Article]

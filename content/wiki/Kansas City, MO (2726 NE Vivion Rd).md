@@ -1,7 +1,7 @@
 +++
 title = "Kansas City, MO (2726 NE Vivion Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-15T15:36:30Z
 
 [Article]

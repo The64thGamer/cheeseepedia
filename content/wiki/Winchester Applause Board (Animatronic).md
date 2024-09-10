@@ -1,7 +1,7 @@
 +++
 title = "Winchester Applause Board (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-07T18:08:52Z
 
 [Article]

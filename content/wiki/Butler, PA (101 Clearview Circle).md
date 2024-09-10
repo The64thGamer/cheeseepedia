@@ -1,7 +1,7 @@
 +++
 title = "Butler, PA (101 Clearview Circle)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-18T01:37:41Z
 
 [Article]

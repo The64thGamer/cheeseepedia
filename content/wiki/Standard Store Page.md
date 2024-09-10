@@ -1,7 +1,7 @@
 +++
 title = "Standard: Store Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T17:28:34Z
 
 [Article]

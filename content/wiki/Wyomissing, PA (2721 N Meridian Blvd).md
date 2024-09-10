@@ -1,7 +1,7 @@
 +++
 title = "Wyomissing, PA (2721 N Meridian Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-01T21:03:30Z
 
 [Article]

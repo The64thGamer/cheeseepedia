@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Pencil Pouch (1991)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-28T18:48:24Z
 
 [Article]

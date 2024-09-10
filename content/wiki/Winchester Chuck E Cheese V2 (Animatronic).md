@@ -1,7 +1,7 @@
 +++
 title = "Winchester Chuck E. Cheese V2 (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-06T02:33:39Z
 
 [Article]

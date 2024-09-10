@@ -1,7 +1,7 @@
 +++
 title = "Rockford, IL (3600 E State St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T02:11:37Z
 
 [Article]

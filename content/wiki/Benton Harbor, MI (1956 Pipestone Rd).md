@@ -1,7 +1,7 @@
 +++
 title = "Benton Harbor, MI (1956 Pipestone Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-26T18:00:08Z
 
 [Article]

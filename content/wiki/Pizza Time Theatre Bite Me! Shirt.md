@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-21T01:43:56Z
 
 [Article]

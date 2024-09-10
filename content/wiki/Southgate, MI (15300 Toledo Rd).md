@@ -1,7 +1,7 @@
 +++
 title = "Southgate, MI (15300 Toledo Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-02T22:07:05Z
 
 [Article]

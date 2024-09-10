@@ -1,7 +1,7 @@
 +++
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-01T18:53:34Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Austin, TX (8038 Burnet Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-05T17:50:19Z
 
 [Article]

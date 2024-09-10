@@ -1,7 +1,7 @@
 +++
 title = "HLB UK Blackpool Custom Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:24:44Z
 
 [Article]

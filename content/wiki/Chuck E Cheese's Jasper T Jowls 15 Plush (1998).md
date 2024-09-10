@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Jasper T. Jowls 15' Plush (1998)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T22:17:54Z
 
 [Article]

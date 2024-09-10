@@ -1,7 +1,7 @@
 +++
 title = "Stafford, TX (11920 Southwest Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-06T19:13:26Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Rolling Stone (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T06:53:59Z
 
 [Article]

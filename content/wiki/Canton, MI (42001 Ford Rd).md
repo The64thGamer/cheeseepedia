@@ -1,7 +1,7 @@
 +++
 title = "Canton, MI (42001 Ford Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-16T18:57:19Z
 
 [Article]

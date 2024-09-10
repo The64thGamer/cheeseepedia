@@ -1,7 +1,7 @@
 +++
 title = "Santa On Stage Show 1983 (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-11T18:29:40Z
 
 [Article]

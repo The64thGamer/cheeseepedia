@@ -1,7 +1,7 @@
 +++
 title = "Strike It Up"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T17:33:32Z
 
 [Article]

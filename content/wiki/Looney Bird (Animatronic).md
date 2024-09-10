@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-20T17:34:25Z
 
 [Article]

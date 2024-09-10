@@ -1,7 +1,7 @@
 +++
 title = "Costume Character Cleaning & Preservation"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-22T21:16:06Z
 
 [Article]

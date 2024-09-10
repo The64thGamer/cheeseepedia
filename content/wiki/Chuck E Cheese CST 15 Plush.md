@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese CST 15' Plush"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-22T02:35:28Z
 
 [Article]

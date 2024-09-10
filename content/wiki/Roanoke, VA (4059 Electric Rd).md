@@ -1,7 +1,7 @@
 +++
 title = "Roanoke, VA (4059 Electric Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T03:20:32Z
 
 [Article]

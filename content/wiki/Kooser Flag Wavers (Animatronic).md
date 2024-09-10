@@ -1,7 +1,7 @@
 +++
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-28T16:59:36Z
 
 [Article]

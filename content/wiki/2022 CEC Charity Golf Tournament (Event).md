@@ -1,7 +1,7 @@
 +++
 title = "2022 CEC Charity Golf Tournament (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-26T04:05:43Z
 
 [Article]

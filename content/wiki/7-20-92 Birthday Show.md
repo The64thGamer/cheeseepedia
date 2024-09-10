@@ -1,7 +1,7 @@
 +++
 title = "7-20-92 Birthday Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-08T01:50:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Oak Lawn, IL (4031 95th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-23T17:08:44Z
 
 [Article]

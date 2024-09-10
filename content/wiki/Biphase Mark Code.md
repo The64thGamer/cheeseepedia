@@ -1,7 +1,7 @@
 +++
 title = "Biphase Mark Code"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-09T02:04:13Z
 
 [Article]

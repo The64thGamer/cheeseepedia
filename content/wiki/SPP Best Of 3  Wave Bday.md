@@ -1,7 +1,7 @@
 +++
 title = "SPP Best Of 3 / Wave Bday"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-09T22:45:30Z
 
 [Article]

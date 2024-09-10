@@ -1,7 +1,7 @@
 +++
 title = "West Palm Beach, FL (2471 Okeechobee Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-29T17:27:55Z
 
 [Article]

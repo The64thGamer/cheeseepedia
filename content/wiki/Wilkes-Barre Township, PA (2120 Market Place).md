@@ -1,7 +1,7 @@
 +++
 title = "Wilkes-Barre Township, PA (2120 Market Place)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T18:37:58Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "RAE Christmas '82"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-23T00:59:57Z
 
 [Article]

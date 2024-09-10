@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Nanuet 2000s Throwback Thursday Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-20T01:38:29Z
 
 [Article]

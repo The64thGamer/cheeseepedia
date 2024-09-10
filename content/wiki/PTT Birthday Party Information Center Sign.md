@@ -1,7 +1,7 @@
 +++
 title = "PTT Birthday Party Information Center Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-01T19:25:02Z
 
 [Article]

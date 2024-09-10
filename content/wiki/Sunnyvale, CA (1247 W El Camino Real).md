@@ -1,7 +1,7 @@
 +++
 title = "Sunnyvale, CA (1247 W El Camino Real)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-06T05:34:30Z
 
 [Article]

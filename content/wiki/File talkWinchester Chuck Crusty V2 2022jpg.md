@@ -1,7 +1,7 @@
 +++
 title = "File talk:Winchester Chuck Crusty V2 2022.jpg"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-06T18:44:56Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Standard: Animatronic Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-30T19:18:16Z
 
 [Article]

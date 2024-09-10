@@ -1,7 +1,7 @@
 +++
 title = "Altamonte Springs, FL (541 W Hwy 436)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-23T04:53:41Z
 
 [Article]

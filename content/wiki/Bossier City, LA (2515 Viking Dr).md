@@ -1,7 +1,7 @@
 +++
 title = "Bossier City, LA (2515 Viking Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-12T02:17:10Z
 
 [Article]

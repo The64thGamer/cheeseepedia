@@ -1,7 +1,7 @@
 +++
 title = "Maple Heights, OH (5376 Northfield Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-04T12:49:14Z
 
 [Article]

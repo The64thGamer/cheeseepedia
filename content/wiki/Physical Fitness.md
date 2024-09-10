@@ -1,7 +1,7 @@
 +++
 title = "Physical Fitness"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-17T01:16:59Z
 
 [Article]

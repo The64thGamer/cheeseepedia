@@ -1,7 +1,7 @@
 +++
 title = "Middle of the Road"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-07T16:49:10Z
 
 [Article]

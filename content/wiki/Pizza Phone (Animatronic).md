@@ -1,7 +1,7 @@
 +++
 title = "Pizza Phone (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-14T16:20:32Z
 
 [Article]

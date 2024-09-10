@@ -1,7 +1,7 @@
 +++
 title = "The Amazing Uncle Klunk Traveling Show (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-10T23:05:46Z
 
 [Article]

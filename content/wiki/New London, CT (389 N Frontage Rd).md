@@ -1,7 +1,7 @@
 +++
 title = "New London, CT (389 N Frontage Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-02T23:14:29Z
 
 [Article]

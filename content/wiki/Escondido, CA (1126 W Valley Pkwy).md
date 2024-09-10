@@ -1,7 +1,7 @@
 +++
 title = "Escondido, CA (1126 W Valley Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-25T19:59:44Z
 
 [Article]

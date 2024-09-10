@@ -1,7 +1,7 @@
 +++
 title = "2023 CEC Month of Gratitude"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-11-01T22:20:23Z
 
 [Article]

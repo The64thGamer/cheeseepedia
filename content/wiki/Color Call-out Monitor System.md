@@ -1,7 +1,7 @@
 +++
 title = "Color Call-out Monitor System"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-02T00:53:25Z
 
 [Article]

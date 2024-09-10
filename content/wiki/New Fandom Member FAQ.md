@@ -1,7 +1,7 @@
 +++
 title = "New Fandom Member F.A.Q."
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T17:17:09Z
 
 [Article]

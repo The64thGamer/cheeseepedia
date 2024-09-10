@@ -1,7 +1,7 @@
 +++
 title = "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-02T20:30:09Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Apple Music"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:35:21Z
 
 [Article]

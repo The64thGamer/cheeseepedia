@@ -1,7 +1,7 @@
 +++
 title = "Main Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-28T04:38:36Z
 
 [Article]

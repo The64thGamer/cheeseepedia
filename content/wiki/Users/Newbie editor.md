@@ -1,7 +1,7 @@
 +++
 title = "Newbie editor"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2024-01-17T20:17:01Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Top Ten Hits"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T01:59:57Z
 
 [Article]

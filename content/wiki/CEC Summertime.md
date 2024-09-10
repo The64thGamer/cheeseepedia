@@ -1,7 +1,7 @@
 +++
 title = "CEC Summertime"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-25T13:23:09Z
 
 [Article]

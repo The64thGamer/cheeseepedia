@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Limited Edition Construction Plush (2002)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T14:59:36Z
 
 [Article]

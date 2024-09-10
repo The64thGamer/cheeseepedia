@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Twitch"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:35:12Z
 
 [Article]

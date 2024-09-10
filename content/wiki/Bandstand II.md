@@ -1,7 +1,7 @@
 +++
 title = "Bandstand II"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:18:01Z
 
 [Article]

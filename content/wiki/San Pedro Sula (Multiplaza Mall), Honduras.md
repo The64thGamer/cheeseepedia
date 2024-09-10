@@ -1,7 +1,7 @@
 +++
 title = "San Pedro Sula (Multiplaza Mall), Honduras"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-26T00:16:28Z
 
 [Article]

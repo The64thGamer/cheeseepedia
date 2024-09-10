@@ -1,7 +1,7 @@
 +++
 title = "Monroe, LA (3731 Pecanland Mall Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-16T02:54:18Z
 
 [Article]

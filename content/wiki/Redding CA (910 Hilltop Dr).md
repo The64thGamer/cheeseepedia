@@ -1,7 +1,7 @@
 +++
 title = "Redding CA (910 Hilltop Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-11-08T02:50:44Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-27T16:21:15Z
 
 [Article]

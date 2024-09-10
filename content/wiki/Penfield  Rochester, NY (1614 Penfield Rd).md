@@ -1,7 +1,7 @@
 +++
 title = "Penfield / Rochester, NY (1614 Penfield Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T01:30:40Z
 
 [Article]

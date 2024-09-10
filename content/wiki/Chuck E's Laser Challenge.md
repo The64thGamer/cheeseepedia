@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s Laser Challenge"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-03T05:17:28Z
 
 [Article]

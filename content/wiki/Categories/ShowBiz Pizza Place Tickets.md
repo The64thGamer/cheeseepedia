@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Pizza Place Tickets"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-16T19:15:56Z
 
 [Article]

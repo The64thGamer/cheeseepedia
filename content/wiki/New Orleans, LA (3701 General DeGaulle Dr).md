@@ -1,7 +1,7 @@
 +++
 title = "New Orleans, LA (3701 General DeGaulle Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-02T20:54:11Z
 
 [Article]

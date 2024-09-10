@@ -1,7 +1,7 @@
 +++
 title = "Cyberamic Control System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-28T09:03:56Z
 
 [Article]

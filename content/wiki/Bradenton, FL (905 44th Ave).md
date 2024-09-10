@@ -1,7 +1,7 @@
 +++
 title = "Bradenton, FL (905 44th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-06T21:57:16Z
 
 [Article]

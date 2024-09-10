@@ -1,7 +1,7 @@
 +++
 title = "Huntington Beach, CA (15031 Goldenwest St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-11T20:34:52Z
 
 [Article]

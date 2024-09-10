@@ -1,7 +1,7 @@
 +++
 title = "Whitter, CA (13400 Whittier Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-25T01:53:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Methuen, MA (90 Pleasant Valley Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-09T17:33:34Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Retro Chuck E. Cheese Funko POP!"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-26T02:10:35Z
 
 [Article]

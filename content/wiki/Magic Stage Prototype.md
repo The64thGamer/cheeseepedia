@@ -1,7 +1,7 @@
 +++
 title = "Magic Stage Prototype"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-14T21:21:52Z
 
 [Article]

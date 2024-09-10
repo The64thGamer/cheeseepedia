@@ -1,7 +1,7 @@
 +++
 title = "Eau Claire, WI (2221 Eastridge Center)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-02T14:44:41Z
 
 [Article]

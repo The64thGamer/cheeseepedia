@@ -1,7 +1,7 @@
 +++
 title = "Untitled Dinosaur Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-17T06:32:26Z
 
 [Article]

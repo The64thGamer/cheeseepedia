@@ -1,7 +1,7 @@
 +++
 title = "CEC Ad Vehicles"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-22T14:23:09Z
 
 [Article]

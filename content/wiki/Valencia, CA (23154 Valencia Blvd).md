@@ -1,7 +1,7 @@
 +++
 title = "Valencia, CA (23154 Valencia Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-02T01:39:08Z
 
 [Article]

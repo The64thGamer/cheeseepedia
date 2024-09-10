@@ -1,7 +1,7 @@
 +++
 title = "Warrington, PA (1661 Easton Rd B-2)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-12T04:01:18Z
 
 [Article]

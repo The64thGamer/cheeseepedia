@@ -1,7 +1,7 @@
 +++
 title = "Pontiac, MI (965 S Opdyke Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-22T10:06:23Z
 
 [Article]

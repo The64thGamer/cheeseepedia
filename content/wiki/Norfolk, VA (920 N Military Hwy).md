@@ -1,7 +1,7 @@
 +++
 title = "Norfolk, VA (920 N Military Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-07T05:24:38Z
 
 [Article]

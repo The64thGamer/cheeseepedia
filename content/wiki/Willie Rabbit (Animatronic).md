@@ -1,7 +1,7 @@
 +++
 title = "Willie Rabbit (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-28T16:56:44Z
 
 [Article]

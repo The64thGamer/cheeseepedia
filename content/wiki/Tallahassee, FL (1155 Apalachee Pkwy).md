@@ -1,7 +1,7 @@
 +++
 title = "Tallahassee, FL (1155 Apalachee Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-24T21:13:17Z
 
 [Article]

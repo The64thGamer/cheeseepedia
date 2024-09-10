@@ -1,7 +1,7 @@
 +++
 title = "CEC TV April 2005 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-10T14:37:09Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Spring Shows '82"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T01:07:36Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Westland MI (208 S Wayne Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-11T19:37:43Z
 
 [Article]

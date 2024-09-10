@@ -1,7 +1,7 @@
 +++
 title = "Spring Training"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:08:42Z
 
 [Article]

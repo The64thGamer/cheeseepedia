@@ -1,7 +1,7 @@
 +++
 title = "San Jose, CA (1371 Kooser Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-08T16:25:15Z
 
 [Article]

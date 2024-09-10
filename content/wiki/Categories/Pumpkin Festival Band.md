@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Band"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-15T23:51:59Z
 
 [Article]

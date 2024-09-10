@@ -1,7 +1,7 @@
 +++
 title = "Columbus, IN (1455 N National Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-07T03:22:57Z
 
 [Article]

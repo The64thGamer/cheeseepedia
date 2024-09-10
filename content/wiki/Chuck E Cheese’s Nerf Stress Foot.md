@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese’s Nerf Stress Foot"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-07T23:20:02Z
 
 [Article]

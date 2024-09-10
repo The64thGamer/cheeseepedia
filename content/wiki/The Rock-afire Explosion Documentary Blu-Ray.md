@@ -1,7 +1,7 @@
 +++
 title = "The Rock-afire Explosion Documentary Blu-Ray"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-29T18:47:24Z
 
 [Article]

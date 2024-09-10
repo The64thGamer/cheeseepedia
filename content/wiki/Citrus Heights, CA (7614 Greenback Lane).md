@@ -1,7 +1,7 @@
 +++
 title = "Citrus Heights, CA (7614 Greenback Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-04T01:15:23Z
 
 [Article]

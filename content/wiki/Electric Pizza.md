@@ -1,7 +1,7 @@
 +++
 title = "Electric Pizza"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-01T20:14:54Z
 
 [Article]

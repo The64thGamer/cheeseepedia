@@ -1,7 +1,7 @@
 +++
 title = "Articulated Munch Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T21:31:33Z
 
 [Article]

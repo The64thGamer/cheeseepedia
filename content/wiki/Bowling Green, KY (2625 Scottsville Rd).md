@@ -1,7 +1,7 @@
 +++
 title = "Bowling Green, KY (2625 Scottsville Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-29T17:42:06Z
 
 [Article]

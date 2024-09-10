@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. 'Self-Serve' (Neon Sign)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-08T22:28:26Z
 
 [Article]

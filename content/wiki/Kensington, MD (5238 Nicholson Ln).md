@@ -1,7 +1,7 @@
 +++
 title = "Kensington, MD (5238 Nicholson Ln)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-01T18:07:09Z
 
 [Article]

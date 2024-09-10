@@ -1,7 +1,7 @@
 +++
 title = "SPP Dance - Grammy"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-23T22:07:45Z
 
 [Article]

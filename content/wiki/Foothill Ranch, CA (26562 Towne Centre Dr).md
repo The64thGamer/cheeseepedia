@@ -1,7 +1,7 @@
 +++
 title = "Foothill Ranch, CA (26562 Towne Centre Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T14:00:14Z
 
 [Article]

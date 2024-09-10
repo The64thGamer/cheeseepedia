@@ -1,7 +1,7 @@
 +++
 title = "TJ Hartford's Sports Grille"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-18T22:16:58Z
 
 [Article]

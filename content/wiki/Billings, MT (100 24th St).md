@@ -1,7 +1,7 @@
 +++
 title = "Billings, MT (100 24th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-19T18:54:12Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CorrectorMan"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-06-21T15:08:02Z
 
 [Article]

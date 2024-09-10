@@ -1,7 +1,7 @@
 +++
 title = "CEC Employee Red Shirt (90's)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-31T03:45:48Z
 
 [Article]

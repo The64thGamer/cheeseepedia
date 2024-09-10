@@ -1,7 +1,7 @@
 +++
 title = "PTT Jack Campbell Memo Pad"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-16T00:06:59Z
 
 [Article]

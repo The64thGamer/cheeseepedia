@@ -1,7 +1,7 @@
 +++
 title = "SPP Davenport (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-19T15:05:46Z
 
 [Article]

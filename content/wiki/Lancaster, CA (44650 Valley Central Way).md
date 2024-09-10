@@ -1,7 +1,7 @@
 +++
 title = "Lancaster, CA (44650 Valley Central Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-14T19:52:29Z
 
 [Article]

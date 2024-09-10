@@ -1,7 +1,7 @@
 +++
 title = "Video Wall"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T16:39:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Tracy, CA (775 W Clover Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-12T21:37:26Z
 
 [Article]

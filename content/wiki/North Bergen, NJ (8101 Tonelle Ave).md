@@ -1,7 +1,7 @@
 +++
 title = "North Bergen, NJ (8101 Tonelle Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-21T17:27:40Z
 
 [Article]

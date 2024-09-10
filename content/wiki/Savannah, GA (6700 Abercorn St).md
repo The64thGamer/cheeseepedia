@@ -1,7 +1,7 @@
 +++
 title = "Savannah, GA (6700 Abercorn St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-13T21:26:06Z
 
 [Article]

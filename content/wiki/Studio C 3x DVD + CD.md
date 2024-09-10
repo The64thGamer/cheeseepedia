@@ -1,7 +1,7 @@
 +++
 title = "Studio C 3x DVD + CD"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-04T01:55:54Z
 
 [Article]

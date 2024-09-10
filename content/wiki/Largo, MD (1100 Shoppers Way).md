@@ -1,7 +1,7 @@
 +++
 title = "Largo, MD (1100 Shoppers Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-30T17:16:04Z
 
 [Article]

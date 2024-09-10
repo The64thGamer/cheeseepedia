@@ -44,6 +44,16 @@ h1{
   margin: 0;
 }
 
+ul {
+  -webkit-column-count: 3;
+  -moz-column-count: 3;
+  column-count: 3;
+  overflow-wrap: break-word;
+  inline-size: 40em;
+}
+
+
+
 .list-page-summary {
   margin-left: 3rem;
 }

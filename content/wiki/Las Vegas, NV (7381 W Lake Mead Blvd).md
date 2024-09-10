@@ -1,7 +1,7 @@
 +++
 title = "Las Vegas, NV (7381 W Lake Mead Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-26T20:26:56Z
 
 [Article]

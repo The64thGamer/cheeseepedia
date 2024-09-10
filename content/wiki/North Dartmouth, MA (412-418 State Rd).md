@@ -1,7 +1,7 @@
 +++
 title = "North Dartmouth, MA (412-418 State Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-09T18:09:06Z
 
 [Article]

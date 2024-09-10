@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Showbiz Pizza Place Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-18T02:49:49Z
 
 [Article]

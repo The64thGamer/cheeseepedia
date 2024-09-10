@@ -1,7 +1,7 @@
 +++
 title = "San Salvador, ES (503 Carretera Panamericana)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-02T00:57:36Z
 
 [Article]

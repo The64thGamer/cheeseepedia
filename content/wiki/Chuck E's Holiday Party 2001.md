@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Holiday Party 2001"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-26T17:53:50Z
 
 [Article]

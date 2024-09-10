@@ -1,7 +1,7 @@
 +++
 title = "Englewood, CO (1001 W Hampden Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-25T04:35:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Promises Blue Table Tent"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-26T01:16:12Z
 
 [Article]

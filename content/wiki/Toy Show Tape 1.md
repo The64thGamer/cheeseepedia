@@ -1,7 +1,7 @@
 +++
 title = "Toy Show Tape 1"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-07T23:56:37Z
 
 [Article]

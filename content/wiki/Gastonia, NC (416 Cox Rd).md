@@ -1,7 +1,7 @@
 +++
 title = "Gastonia, NC (416 Cox Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-13T01:45:45Z
 
 [Article]

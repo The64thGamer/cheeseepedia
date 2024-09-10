@@ -1,7 +1,7 @@
 +++
 title = "Fullerton, CA (1134 S Harbor Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-24T03:22:08Z
 
 [Article]

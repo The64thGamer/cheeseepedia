@@ -1,7 +1,7 @@
 +++
 title = "Ken Chuck E. Derby"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-22T03:46:06Z
 
 [Article]

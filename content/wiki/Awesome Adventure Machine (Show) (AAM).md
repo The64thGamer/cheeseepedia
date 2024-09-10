@@ -1,7 +1,7 @@
 +++
 title = "Awesome Adventure Machine (Show) (AAM)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-06T03:55:45Z
 
 [Article]

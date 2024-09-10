@@ -1,7 +1,7 @@
 +++
 title = "Restaurants & Company History"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-20T19:30:49Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Sandy, UT (10535 So. State St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-28T22:52:27Z
 
 [Article]

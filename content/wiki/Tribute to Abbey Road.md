@@ -1,7 +1,7 @@
 +++
 title = "Tribute to Abbey Road"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-23T22:24:43Z
 
 [Article]

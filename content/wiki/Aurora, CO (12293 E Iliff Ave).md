@@ -1,7 +1,7 @@
 +++
 title = "Aurora, CO (12293 E Iliff Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-09T00:16:02Z
 
 [Article]

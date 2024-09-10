@@ -1,7 +1,7 @@
 +++
 title = "Training, Updates, & Company Media"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-03T05:03:15Z
 
 [Article]

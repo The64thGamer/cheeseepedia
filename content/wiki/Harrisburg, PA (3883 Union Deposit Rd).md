@@ -1,7 +1,7 @@
 +++
 title = "Harrisburg, PA (3883 Union Deposit Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-04T17:36:31Z
 
 [Article]

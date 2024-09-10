@@ -1,7 +1,7 @@
 +++
 title = "Showdog (SPP Menu Item))"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-17T00:57:27Z
 
 [Article]

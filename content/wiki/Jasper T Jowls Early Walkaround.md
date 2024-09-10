@@ -1,7 +1,7 @@
 +++
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-27T17:40:23Z
 
 [Article]

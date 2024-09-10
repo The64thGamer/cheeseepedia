@@ -1,7 +1,7 @@
 +++
 title = "Clearwater, FL (25921 US Hwy 19)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-23T15:07:49Z
 
 [Article]

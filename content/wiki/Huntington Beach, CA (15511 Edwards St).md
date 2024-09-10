@@ -1,7 +1,7 @@
 +++
 title = "Huntington Beach, CA (15511 Edwards St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-27T20:56:43Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Unknown Late 92 1"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-12T13:15:22Z
 
 [Article]

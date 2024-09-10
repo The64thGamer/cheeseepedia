@@ -1,7 +1,7 @@
 +++
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-24T17:24:45Z
 
 [Article]

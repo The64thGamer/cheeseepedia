@@ -1,7 +1,7 @@
 +++
 title = "Character Cable Tester"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-10T12:18:39Z
 
 [Article]

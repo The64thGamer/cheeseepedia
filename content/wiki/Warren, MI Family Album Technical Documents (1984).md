@@ -1,7 +1,7 @@
 +++
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T16:12:18Z
 
 [Article]

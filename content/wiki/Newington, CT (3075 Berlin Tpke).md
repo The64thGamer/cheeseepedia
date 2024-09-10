@@ -1,7 +1,7 @@
 +++
 title = "Newington, CT (3075 Berlin Tpke)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-30T03:58:42Z
 
 [Article]

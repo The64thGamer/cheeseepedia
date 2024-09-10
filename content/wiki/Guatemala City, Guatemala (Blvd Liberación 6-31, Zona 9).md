@@ -1,7 +1,7 @@
 +++
 title = "Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-03T03:27:02Z
 
 [Article]

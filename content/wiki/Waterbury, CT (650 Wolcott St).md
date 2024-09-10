@@ -1,7 +1,7 @@
 +++
 title = "Waterbury, CT (650 Wolcott St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T04:54:31Z
 
 [Article]

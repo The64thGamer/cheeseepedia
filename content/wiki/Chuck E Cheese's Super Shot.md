@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Super Shot"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-21T21:26:20Z
 
 [Article]

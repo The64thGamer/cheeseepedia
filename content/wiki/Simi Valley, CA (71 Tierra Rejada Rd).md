@@ -1,7 +1,7 @@
 +++
 title = "Simi Valley, CA (71 Tierra Rejada Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-08T22:16:57Z
 
 [Article]

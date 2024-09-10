@@ -1,7 +1,7 @@
 +++
 title = "Beaumont, TX (4180 Dowlen Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T19:44:34Z
 
 [Article]

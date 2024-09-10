@@ -1,7 +1,7 @@
 +++
 title = "Dance Party 1999"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-10T14:27:34Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Just for Kids Show 2000"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-14T02:46:40Z
 
 [Article]

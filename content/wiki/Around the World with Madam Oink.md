@@ -1,7 +1,7 @@
 +++
 title = "Around the World with Madam Oink"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:43:45Z
 
 [Article]

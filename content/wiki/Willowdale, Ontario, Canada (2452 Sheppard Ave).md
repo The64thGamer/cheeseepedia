@@ -1,7 +1,7 @@
 +++
 title = "Willowdale, Ontario, Canada (2452 Sheppard Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-02T18:29:56Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "The Twist"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T00:17:09Z
 
 [Article]

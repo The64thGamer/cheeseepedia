@@ -1,7 +1,7 @@
 +++
 title = "Quickdudes"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-12-18T20:25:35Z
 
 [Article]

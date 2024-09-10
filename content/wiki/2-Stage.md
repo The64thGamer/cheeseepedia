@@ -1,7 +1,7 @@
 +++
 title = "2-Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-16T13:29:27Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Peter Piper Pizza Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:25:21Z
 
 [Article]

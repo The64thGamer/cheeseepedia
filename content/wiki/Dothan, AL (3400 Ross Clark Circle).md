@@ -1,7 +1,7 @@
 +++
 title = "Dothan, AL (3400 Ross Clark Circle)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-19T15:29:40Z
 
 [Article]

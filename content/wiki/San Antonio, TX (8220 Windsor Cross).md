@@ -1,7 +1,7 @@
 +++
 title = "San Antonio, TX (8220 Windsor Cross)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-20T22:23:07Z
 
 [Article]

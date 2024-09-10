@@ -1,7 +1,7 @@
 +++
 title = "Jumbo Munch Plush (1996)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-25T03:01:46Z
 
 [Article]

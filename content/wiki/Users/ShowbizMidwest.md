@@ -1,7 +1,7 @@
 +++
 title = "ShowbizMidwest"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-07-06T21:41:01Z
 
 [Article]

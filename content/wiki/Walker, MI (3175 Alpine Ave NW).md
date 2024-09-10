@@ -1,7 +1,7 @@
 +++
 title = "Walker, MI (3175 Alpine Ave NW)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-10T20:10:22Z
 
 [Article]

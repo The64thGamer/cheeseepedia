@@ -1,7 +1,7 @@
 +++
 title = "2023 Northridge Grand Reopening Party"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-11-12T19:35:48Z
 
 [Article]

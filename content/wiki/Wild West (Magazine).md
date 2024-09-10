@@ -1,7 +1,7 @@
 +++
 title = "Wild West (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T07:24:43Z
 
 [Article]

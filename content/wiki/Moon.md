@@ -1,7 +1,7 @@
 +++
 title = "Moon"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T18:19:24Z
 
 [Article]

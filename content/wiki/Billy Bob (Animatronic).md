@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-20T17:28:47Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Unique Store Fixtures"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-19T02:04:17Z
 
 [Article]

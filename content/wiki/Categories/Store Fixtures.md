@@ -1,7 +1,7 @@
 +++
 title = "Store Fixtures"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-17T18:51:31Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "SPP Best Of 4"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-18T04:08:24Z
 
 [Article]

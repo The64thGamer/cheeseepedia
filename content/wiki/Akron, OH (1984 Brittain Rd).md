@@ -1,7 +1,7 @@
 +++
 title = "Akron, OH (1984 Brittain Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-27T16:45:50Z
 
 [Article]

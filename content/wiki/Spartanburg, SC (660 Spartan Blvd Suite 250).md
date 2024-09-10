@@ -1,7 +1,7 @@
 +++
 title = "Spartanburg, SC (660 Spartan Blvd Suite 250)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-08-15T22:45:44Z
 
 [Article]

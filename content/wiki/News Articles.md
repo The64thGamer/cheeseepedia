@@ -1,7 +1,7 @@
 +++
 title = "News Articles"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-22T14:27:29Z
 
 [Article]

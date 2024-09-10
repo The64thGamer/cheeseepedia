@@ -1,7 +1,7 @@
 +++
 title = "Jacksonville, FL (9820 Atlantic Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-23T16:19:48Z
 
 [Article]

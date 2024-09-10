@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Baby Pony (1989)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-29T03:25:32Z
 
 [Article]

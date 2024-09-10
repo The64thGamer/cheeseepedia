@@ -1,7 +1,7 @@
 +++
 title = "Lafayette, LA (3221 Ambassador Caffery Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-29T00:37:15Z
 
 [Article]

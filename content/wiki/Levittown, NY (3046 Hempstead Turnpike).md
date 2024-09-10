@@ -1,7 +1,7 @@
 +++
 title = "Levittown, NY (3046 Hempstead Turnpike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-11T01:57:01Z
 
 [Article]

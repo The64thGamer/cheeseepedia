@@ -1,7 +1,7 @@
 +++
 title = "B.B. Bubbles (Cabaret)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-22T09:01:15Z
 
 [Article]

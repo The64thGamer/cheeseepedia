@@ -1,7 +1,7 @@
 +++
 title = "San Diego, CA (6403 El Cajon Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-18T15:02:34Z
 
 [Article]

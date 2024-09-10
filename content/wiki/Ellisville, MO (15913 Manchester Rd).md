@@ -1,7 +1,7 @@
 +++
 title = "Ellisville, MO (15913 Manchester Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-01T18:01:37Z
 
 [Article]

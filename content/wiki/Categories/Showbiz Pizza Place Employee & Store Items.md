@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place Employee & Store Items"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-22T21:27:16Z
 
 [Article]

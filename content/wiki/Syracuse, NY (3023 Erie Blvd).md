@@ -1,7 +1,7 @@
 +++
 title = "Syracuse, NY (3023 Erie Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-06T01:23:58Z
 
 [Article]

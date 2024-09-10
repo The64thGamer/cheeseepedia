@@ -1,7 +1,7 @@
 +++
 title = "Family Vision"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-01T18:38:28Z
 
 [Article]

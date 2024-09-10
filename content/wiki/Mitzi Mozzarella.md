@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T16:50:28Z
 
 [Article]

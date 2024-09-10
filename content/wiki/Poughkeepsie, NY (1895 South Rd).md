@@ -1,7 +1,7 @@
 +++
 title = "Poughkeepsie, NY (1895 South Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T19:44:08Z
 
 [Article]

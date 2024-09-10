@@ -1,7 +1,7 @@
 +++
 title = "SPP Curtain Cont Bypass"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-21T02:27:33Z
 
 [Article]

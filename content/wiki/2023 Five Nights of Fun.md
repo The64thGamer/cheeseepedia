@@ -1,7 +1,7 @@
 +++
 title = "2023 Five Nights of Fun"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-06T20:27:13Z
 
 [Article]

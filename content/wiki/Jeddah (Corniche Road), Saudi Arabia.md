@@ -1,7 +1,7 @@
 +++
 title = "Jeddah (Corniche Road), Saudi Arabia"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T05:11:15Z
 
 [Article]

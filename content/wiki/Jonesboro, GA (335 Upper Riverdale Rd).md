@@ -1,7 +1,7 @@
 +++
 title = "Jonesboro, GA (335 Upper Riverdale Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-31T16:47:02Z
 
 [Article]

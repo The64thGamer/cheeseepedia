@@ -1,7 +1,7 @@
 +++
 title = "Mesa, AZ (7012 E Hampton Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-28T20:12:08Z
 
 [Article]

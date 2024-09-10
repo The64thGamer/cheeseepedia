@@ -1,7 +1,7 @@
 +++
 title = "Uncle Santa Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T03:44:12Z
 
 [Article]

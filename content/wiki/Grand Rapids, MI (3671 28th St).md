@@ -1,7 +1,7 @@
 +++
 title = "Grand Rapids, MI (3671 28th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-02T20:30:29Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Poo On You"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:20:49Z
 
 [Article]

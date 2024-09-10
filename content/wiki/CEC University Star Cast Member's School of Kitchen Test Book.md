@@ -1,7 +1,7 @@
 +++
 title = "CEC University: Star Cast Member's School of Kitchen Test Book"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T17:04:18Z
 
 [Article]

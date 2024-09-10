@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (5535 Weslayan St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-01T03:11:19Z
 
 [Article]

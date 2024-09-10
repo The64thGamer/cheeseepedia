@@ -1,7 +1,7 @@
 +++
 title = "Studio C Premiere"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-20T22:49:55Z
 
 [Article]

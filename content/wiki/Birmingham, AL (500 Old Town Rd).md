@@ -1,7 +1,7 @@
 +++
 title = "Birmingham, AL (500 Old Town Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-31T21:02:17Z
 
 [Article]

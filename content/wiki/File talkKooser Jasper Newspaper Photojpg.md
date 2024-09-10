@@ -1,7 +1,7 @@
 +++
 title = "File talk:Kooser Jasper Newspaper Photo.jpg"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-14T23:01:09Z
 
 [Article]

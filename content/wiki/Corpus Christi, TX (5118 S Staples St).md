@@ -1,7 +1,7 @@
 +++
 title = "Corpus Christi, TX (5118 S Staples St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-25T06:25:53Z
 
 [Article]

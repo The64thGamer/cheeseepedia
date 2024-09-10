@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 5 2021 (International SPA Covid Promo)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-11T21:46:43Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CEC Home for the Holidays"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:41:55Z
 
 [Article]

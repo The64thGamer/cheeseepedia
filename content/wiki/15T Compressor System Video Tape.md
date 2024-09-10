@@ -1,7 +1,7 @@
 +++
 title = "15T Compressor System Video Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-02T22:11:42Z
 
 [Article]

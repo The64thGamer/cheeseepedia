@@ -1,7 +1,7 @@
 +++
 title = "San Antonio, TX (8507 McCullough Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-11T21:33:01Z
 
 [Article]

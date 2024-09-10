@@ -1,7 +1,7 @@
 +++
 title = "Articulated Helen Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T20:24:25Z
 
 [Article]

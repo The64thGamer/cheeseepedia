@@ -1,7 +1,7 @@
 +++
 title = "SPP Liberty Wave Cyber"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-16T15:07:09Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Unknown Sandwich Item (PTT Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-06T04:27:19Z
 
 [Article]

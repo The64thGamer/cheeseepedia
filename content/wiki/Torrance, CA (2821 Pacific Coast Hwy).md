@@ -1,7 +1,7 @@
 +++
 title = "Torrance, CA (2821 Pacific Coast Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-02T23:05:12Z
 
 [Article]

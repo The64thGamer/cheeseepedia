@@ -1,7 +1,7 @@
 +++
 title = "Uncle Klunk Controller"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-17T02:13:20Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "1982 Articulated Chuck Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-16T05:51:34Z
 
 [Article]

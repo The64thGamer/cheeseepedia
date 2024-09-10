@@ -1,7 +1,7 @@
 +++
 title = "15T Compressor System Video Tape 1993 Rerelease"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T17:08:13Z
 
 [Article]

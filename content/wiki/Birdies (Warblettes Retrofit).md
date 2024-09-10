@@ -1,7 +1,7 @@
 +++
 title = "Birdies (Warblettes Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-30T01:12:52Z
 
 [Article]

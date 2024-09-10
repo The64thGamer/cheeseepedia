@@ -1,7 +1,7 @@
 +++
 title = "CEI Policy Manual"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-08T03:32:26Z
 
 [Article]

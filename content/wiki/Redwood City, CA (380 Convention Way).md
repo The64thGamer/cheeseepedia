@@ -1,7 +1,7 @@
 +++
 title = "Redwood City, CA (380 Convention Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-22T01:29:30Z
 
 [Article]

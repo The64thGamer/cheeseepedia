@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Showtapes"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-29T09:49:24Z
 
 [Article]

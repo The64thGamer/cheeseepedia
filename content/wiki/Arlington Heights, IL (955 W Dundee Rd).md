@@ -1,7 +1,7 @@
 +++
 title = "Arlington Heights, IL (955 W Dundee Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-01T20:20:00Z
 
 [Article]

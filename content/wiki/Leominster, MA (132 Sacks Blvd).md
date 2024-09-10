@@ -1,7 +1,7 @@
 +++
 title = "Leominster, MA (132 Sacks Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-06T05:51:19Z
 
 [Article]

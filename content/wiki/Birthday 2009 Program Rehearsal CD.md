@@ -1,7 +1,7 @@
 +++
 title = "Birthday 2009 Program Rehearsal CD"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T17:24:22Z
 
 [Article]

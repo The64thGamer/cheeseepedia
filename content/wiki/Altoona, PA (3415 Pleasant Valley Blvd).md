@@ -1,7 +1,7 @@
 +++
 title = "Altoona, PA (3415 Pleasant Valley Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T23:07:46Z
 
 [Article]

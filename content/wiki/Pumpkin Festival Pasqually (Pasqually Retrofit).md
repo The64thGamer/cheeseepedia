@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Pasqually (Pasqually Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-15T21:55:10Z
 
 [Article]

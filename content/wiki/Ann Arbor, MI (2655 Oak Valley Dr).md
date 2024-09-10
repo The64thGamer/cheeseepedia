@@ -1,7 +1,7 @@
 +++
 title = "Ann Arbor, MI (2655 Oak Valley Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-14T16:22:51Z
 
 [Article]

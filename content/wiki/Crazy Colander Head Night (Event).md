@@ -1,7 +1,7 @@
 +++
 title = "Crazy Colander Head Night (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-09T17:54:10Z
 
 [Article]

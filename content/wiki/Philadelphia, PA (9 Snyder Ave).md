@@ -1,7 +1,7 @@
 +++
 title = "Philadelphia, PA (9 Snyder Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-28T03:15:07Z
 
 [Article]

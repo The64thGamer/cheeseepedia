@@ -1,7 +1,7 @@
 +++
 title = "Fairfield, CA (1027 Oliver Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-17T01:11:03Z
 
 [Article]

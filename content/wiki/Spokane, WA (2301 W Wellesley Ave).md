@@ -1,7 +1,7 @@
 +++
 title = "Spokane, WA (2301 W Wellesley Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-27T22:18:31Z
 
 [Article]

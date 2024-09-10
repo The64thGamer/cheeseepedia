@@ -1,7 +1,7 @@
 +++
 title = "Durham, NC (3724 Mayfair St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-27T23:31:50Z
 
 [Article]

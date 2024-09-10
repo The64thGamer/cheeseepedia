@@ -1,7 +1,7 @@
 +++
 title = "Chill Out Ice Cream Machine"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-17T17:54:44Z
 
 [Article]

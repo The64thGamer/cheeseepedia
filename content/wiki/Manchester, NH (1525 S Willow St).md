@@ -1,7 +1,7 @@
 +++
 title = "Manchester, NH (1525 S Willow St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-09T21:26:23Z
 
 [Article]

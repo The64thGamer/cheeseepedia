@@ -1,7 +1,7 @@
 +++
 title = "Moonrockers Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-18T03:44:33Z
 
 [Article]

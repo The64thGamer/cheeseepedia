@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Clock (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-14T17:59:56Z
 
 [Article]

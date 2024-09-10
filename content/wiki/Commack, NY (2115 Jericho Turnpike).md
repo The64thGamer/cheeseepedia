@@ -1,7 +1,7 @@
 +++
 title = "Commack, NY (2115 Jericho Turnpike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T01:23:11Z
 
 [Article]

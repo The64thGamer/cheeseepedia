@@ -1,7 +1,7 @@
 +++
 title = "Chesapeake, VA (1528 Sam's Circle)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-20T20:31:26Z
 
 [Article]

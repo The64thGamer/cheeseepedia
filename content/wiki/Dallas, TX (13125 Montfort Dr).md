@@ -1,7 +1,7 @@
 +++
 title = "Dallas, TX (13125 Montfort Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-17T04:55:41Z
 
 [Article]

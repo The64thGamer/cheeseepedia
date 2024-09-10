@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Mini Wheel"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-30T19:15:44Z
 
 [Article]

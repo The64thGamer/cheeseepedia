@@ -1,7 +1,7 @@
 +++
 title = "Lewisville, TX (2402 S Stemmons Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-30T22:15:21Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Cupertino, CA Corporate Office"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-03T01:14:41Z
 
 [Article]

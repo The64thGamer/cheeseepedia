@@ -1,7 +1,7 @@
 +++
 title = "Costa Mesa, CA (2300 Harbor Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-08T23:56:53Z
 
 [Article]

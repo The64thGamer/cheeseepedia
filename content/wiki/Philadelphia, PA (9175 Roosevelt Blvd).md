@@ -1,7 +1,7 @@
 +++
 title = "Philadelphia, PA (9175 Roosevelt Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T19:58:17Z
 
 [Article]

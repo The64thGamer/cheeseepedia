@@ -1,7 +1,7 @@
 +++
 title = "Pearl City, HI (98-1258 Kaahumanu St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-31T15:52:25Z
 
 [Article]

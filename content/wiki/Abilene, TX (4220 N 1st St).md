@@ -1,7 +1,7 @@
 +++
 title = "Abilene, TX (4220 N 1st St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-25T00:05:39Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Cool Dad (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-11T23:23:25Z
 
 [Article]

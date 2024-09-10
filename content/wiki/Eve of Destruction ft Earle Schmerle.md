@@ -1,7 +1,7 @@
 +++
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-17T15:12:30Z
 
 [Article]

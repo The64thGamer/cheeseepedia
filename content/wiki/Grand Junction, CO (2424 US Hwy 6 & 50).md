@@ -1,7 +1,7 @@
 +++
 title = "Grand Junction, CO (2424 US Hwy 6 & 50)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T01:41:39Z
 
 [Article]

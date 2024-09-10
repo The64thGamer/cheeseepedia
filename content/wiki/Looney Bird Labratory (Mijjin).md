@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird Labratory (Mijjin)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-28T15:46:06Z
 
 [Article]

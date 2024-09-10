@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Show Reimagined - These Hands"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-18T21:33:07Z
 
 [Article]

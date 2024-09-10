@@ -1,7 +1,7 @@
 +++
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-10T19:16:38Z
 
 [Article]

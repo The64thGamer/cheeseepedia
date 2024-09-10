@@ -1,7 +1,7 @@
 +++
 title = "Showtape Preservation & Archival"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T00:14:35Z
 
 [Article]

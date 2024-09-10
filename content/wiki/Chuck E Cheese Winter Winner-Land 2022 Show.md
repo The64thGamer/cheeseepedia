@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Winter Winner-Land 2022 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-31T00:51:54Z
 
 [Article]

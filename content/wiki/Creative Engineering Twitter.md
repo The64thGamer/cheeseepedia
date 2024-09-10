@@ -1,7 +1,7 @@
 +++
 title = "Creative Engineering Twitter"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T20:19:22Z
 
 [Article]

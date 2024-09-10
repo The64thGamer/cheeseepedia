@@ -1,7 +1,7 @@
 +++
 title = "Naperville, IL (1154 E Ogden Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-29T17:26:48Z
 
 [Article]

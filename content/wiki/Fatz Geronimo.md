@@ -1,7 +1,7 @@
 +++
 title = "Fatz Geronimo"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T17:42:55Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Helen (Helen Henny Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T02:20:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Official YouTube Videos"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-01T20:35:57Z
 
 [Article]

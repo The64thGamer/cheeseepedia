@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Shows (CEC Best of 1988)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-06T04:10:48Z
 
 [Article]

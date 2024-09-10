@@ -1,7 +1,7 @@
 +++
 title = "Santiago (Plaza Oeste), Chile"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-19T03:45:45Z
 
 [Article]

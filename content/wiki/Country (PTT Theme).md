@@ -1,7 +1,7 @@
 +++
 title = "Country (PTT Theme)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-28T09:14:07Z
 
 [Article]

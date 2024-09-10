@@ -1,7 +1,7 @@
 +++
 title = "Lowell, MA (199 Plain St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-21T19:07:15Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Live Show Training 2002"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T17:55:20Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place Tape 1"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-28T04:36:30Z
 
 [Article]

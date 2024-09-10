@@ -1,7 +1,7 @@
 +++
 title = "Commercials"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-03T08:23:07Z
 
 [Article]

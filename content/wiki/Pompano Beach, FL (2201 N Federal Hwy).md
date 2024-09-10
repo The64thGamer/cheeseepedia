@@ -1,7 +1,7 @@
 +++
 title = "Pompano Beach, FL (2201 N Federal Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-29T23:07:36Z
 
 [Article]

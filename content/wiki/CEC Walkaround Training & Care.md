@@ -1,7 +1,7 @@
 +++
 title = "CEC Walkaround Training & Care"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-12T20:26:45Z
 
 [Article]

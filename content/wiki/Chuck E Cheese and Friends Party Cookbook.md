@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese and Friends Party Cookbook"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-18T17:34:58Z
 
 [Article]

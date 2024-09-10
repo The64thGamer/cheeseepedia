@@ -1,7 +1,7 @@
 +++
 title = "1993 CEC Franchise Phoenix Convention (Event)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-08T00:35:29Z
 
 [Article]

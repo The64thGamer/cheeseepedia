@@ -1,7 +1,7 @@
 +++
 title = "Fatz Geronimo (Mijjin)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-28T04:40:09Z
 
 [Article]

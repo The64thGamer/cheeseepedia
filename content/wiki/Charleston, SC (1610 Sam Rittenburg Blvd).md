@@ -1,7 +1,7 @@
 +++
 title = "Charleston, SC (1610 Sam Rittenburg Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-29T20:42:40Z
 
 [Article]

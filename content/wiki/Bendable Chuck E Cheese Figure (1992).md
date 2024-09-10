@@ -1,7 +1,7 @@
 +++
 title = "Bendable Chuck E. Cheese Figure (1992)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-15T03:57:09Z
 
 [Article]

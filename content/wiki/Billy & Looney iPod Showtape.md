@@ -1,7 +1,7 @@
 +++
 title = "Billy & Looney iPod Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-21T01:34:03Z
 
 [Article]

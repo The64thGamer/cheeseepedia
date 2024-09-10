@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's School of Pizza Making"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-02T22:36:51Z
 
 [Article]

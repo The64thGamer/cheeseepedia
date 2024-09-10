@@ -1,7 +1,7 @@
 +++
 title = "The Rock-afire Explosion Simulator"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-22T05:32:53Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Concept Unification Installation Manual"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-25T00:24:49Z
 
 [Article]

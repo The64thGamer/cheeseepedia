@@ -1,7 +1,7 @@
 +++
 title = "Four Little Shavers (Ice Cream Emporium)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T18:49:49Z
 
 [Article]

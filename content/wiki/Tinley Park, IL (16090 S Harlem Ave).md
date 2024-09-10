@@ -1,7 +1,7 @@
 +++
 title = "Tinley Park, IL (16090 S Harlem Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-06T05:55:39Z
 
 [Article]

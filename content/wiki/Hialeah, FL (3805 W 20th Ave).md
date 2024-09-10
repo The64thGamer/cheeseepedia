@@ -1,7 +1,7 @@
 +++
 title = "Hialeah, FL (3805 W 20th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-28T19:35:25Z
 
 [Article]

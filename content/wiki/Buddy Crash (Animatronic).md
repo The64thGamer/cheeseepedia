@@ -1,7 +1,7 @@
 +++
 title = "Buddy Crash (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-28T23:19:58Z
 
 [Article]

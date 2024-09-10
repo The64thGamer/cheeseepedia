@@ -1,7 +1,7 @@
 +++
 title = "Gaithersburg, MD (516 N Frederick Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-27T17:13:43Z
 
 [Article]

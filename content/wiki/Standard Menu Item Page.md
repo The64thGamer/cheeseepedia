@@ -1,7 +1,7 @@
 +++
 title = "Standard: Menu Item Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-28T05:39:22Z
 
 [Article]

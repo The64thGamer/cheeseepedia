@@ -1,7 +1,7 @@
 +++
 title = "Rancho Cucamonga, CA (9339 Foothill Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-04T17:10:02Z
 
 [Article]

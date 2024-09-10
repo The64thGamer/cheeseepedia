@@ -1,7 +1,7 @@
 +++
 title = "Fort Smith, AR?"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T23:31:28Z
 
 [Article]

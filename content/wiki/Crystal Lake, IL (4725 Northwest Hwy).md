@@ -1,7 +1,7 @@
 +++
 title = "Crystal Lake, IL (4725 Northwest Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-31T01:13:23Z
 
 [Article]

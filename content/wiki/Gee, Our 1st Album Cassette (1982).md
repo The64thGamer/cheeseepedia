@@ -1,7 +1,7 @@
 +++
 title = "Gee, Our 1st Album Cassette (1982)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-20T14:50:06Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Jackson, TN (2021 North Highland Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-19T15:58:13Z
 
 [Article]

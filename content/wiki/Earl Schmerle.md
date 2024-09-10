@@ -1,7 +1,7 @@
 +++
 title = "Earl Schmerle"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-28T13:35:31Z
 
 [Article]

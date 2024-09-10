@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Proof of Concept Prototype (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-08T19:51:56Z
 
 [Article]

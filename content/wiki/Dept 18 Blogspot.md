@@ -1,7 +1,7 @@
 +++
 title = "Dept. 18 Blogspot"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-20T06:14:50Z
 
 [Article]

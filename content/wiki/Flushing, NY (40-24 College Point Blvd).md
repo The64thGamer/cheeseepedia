@@ -1,7 +1,7 @@
 +++
 title = "Flushing, NY (40-24 College Point Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-19T02:09:48Z
 
 [Article]

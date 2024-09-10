@@ -1,7 +1,7 @@
 +++
 title = "Data:Sandbox/Sylvain Boissel WMFr/TestFnac.tab"
 draft = false
-tags = [ ]
+tags = []
 date = 2019-07-18T15:48:15Z
 
 [Article]

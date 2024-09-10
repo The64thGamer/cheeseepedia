@@ -1,7 +1,7 @@
 +++
 title = "Pearl City, HI (850 Kamehameha Hwy Suite 140)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-13T21:07:02Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Rick Rat Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-20T14:11:09Z
 
 [Article]

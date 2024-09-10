@@ -1,7 +1,7 @@
 +++
 title = "Concept Unification Installation Training Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T06:02:07Z
 
 [Article]

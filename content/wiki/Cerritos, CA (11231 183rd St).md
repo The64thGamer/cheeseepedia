@@ -1,7 +1,7 @@
 +++
 title = "Cerritos, CA (11231 183rd St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-05T01:28:52Z
 
 [Article]

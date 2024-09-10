@@ -1,7 +1,7 @@
 +++
 title = "Site Guidelines & Rules"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-10T10:14:16Z
 
 [Article]

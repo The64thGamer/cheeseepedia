@@ -1,7 +1,7 @@
 +++
 title = "Control System Software"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-29T09:51:11Z
 
 [Article]

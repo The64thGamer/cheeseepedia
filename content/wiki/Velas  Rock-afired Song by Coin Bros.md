@@ -1,7 +1,7 @@
 +++
 title = "Velas * Rock-afired Song by Coin Bros"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-09T09:22:03Z
 
 [Article]

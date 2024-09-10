@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Party Games"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-01T21:38:38Z
 
 [Article]

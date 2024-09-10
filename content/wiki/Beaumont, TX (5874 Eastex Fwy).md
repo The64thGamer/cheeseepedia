@@ -1,7 +1,7 @@
 +++
 title = "Beaumont, TX (5874 Eastex Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T19:55:40Z
 
 [Article]

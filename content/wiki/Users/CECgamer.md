@@ -1,7 +1,7 @@
 +++
 title = "CECgamer"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-12-22T13:06:59Z
 
 [Article]

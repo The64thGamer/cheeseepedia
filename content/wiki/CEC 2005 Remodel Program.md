@@ -1,7 +1,7 @@
 +++
 title = "CEC 2005 Remodel Program"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-14T00:48:12Z
 
 [Article]

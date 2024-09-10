@@ -1,7 +1,7 @@
 +++
 title = "Singing Flowers (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T20:51:42Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CEC University: Orientation 2003"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-11T17:41:31Z
 
 [Article]

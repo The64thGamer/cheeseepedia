@@ -1,7 +1,7 @@
 +++
 title = "File talk:Modesto.jpg"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-10T18:53:49Z
 
 [Article]

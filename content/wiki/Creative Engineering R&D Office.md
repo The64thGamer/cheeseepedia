@@ -1,7 +1,7 @@
 +++
 title = "Creative Engineering R&D Office"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-20T19:47:13Z
 
 [Article]

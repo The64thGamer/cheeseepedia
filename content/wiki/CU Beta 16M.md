@@ -1,7 +1,7 @@
 +++
 title = "CU Beta 16M"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-14T18:44:27Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "2-1-97 Classic"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-12T12:52:21Z
 
 [Article]

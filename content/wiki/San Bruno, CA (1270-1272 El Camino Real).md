@@ -1,7 +1,7 @@
 +++
 title = "San Bruno, CA (1270-1272 El Camino Real)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-02T03:41:54Z
 
 [Article]

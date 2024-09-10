@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (14637 Memorial Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-13T17:17:17Z
 
 [Article]

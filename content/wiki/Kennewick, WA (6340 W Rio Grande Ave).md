@@ -1,7 +1,7 @@
 +++
 title = "Kennewick, WA (6340 W Rio Grande Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-16T01:17:27Z
 
 [Article]

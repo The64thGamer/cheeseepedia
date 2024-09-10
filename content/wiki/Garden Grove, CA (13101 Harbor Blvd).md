@@ -1,7 +1,7 @@
 +++
 title = "Garden Grove, CA (13101 Harbor Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-06T17:16:53Z
 
 [Article]

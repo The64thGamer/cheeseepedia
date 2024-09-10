@@ -1,7 +1,7 @@
 +++
 title = "Orwell: A Robot You Control (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-05T02:57:14Z
 
 [Article]

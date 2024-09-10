@@ -1,7 +1,7 @@
 +++
 title = "Rolfe Dewolfe"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-28T13:21:19Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Sacramento (Florin Mall), CA (7020 Stockton Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-03T21:29:18Z
 
 [Article]

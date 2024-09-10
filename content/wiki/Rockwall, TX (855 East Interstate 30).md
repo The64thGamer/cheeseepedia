@@ -1,7 +1,7 @@
 +++
 title = "Rockwall, TX (855 East Interstate 30)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-25T23:45:23Z
 
 [Article]

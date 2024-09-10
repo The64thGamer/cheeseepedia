@@ -1,7 +1,7 @@
 +++
 title = "2005 Titan of Tokens Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T02:16:30Z
 
 [Article]

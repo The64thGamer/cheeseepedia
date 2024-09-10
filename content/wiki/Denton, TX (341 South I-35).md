@@ -1,7 +1,7 @@
 +++
 title = "Denton, TX (341 South I-35)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-13T03:57:15Z
 
 [Article]

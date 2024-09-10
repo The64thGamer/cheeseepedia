@@ -1,7 +1,7 @@
 +++
 title = "'Flabby Road' (CD Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-20T01:18:02Z
 
 [Article]

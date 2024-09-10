@@ -1,7 +1,7 @@
 +++
 title = "Placentia, CA (2300 N Rose Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-27T23:16:52Z
 
 [Article]

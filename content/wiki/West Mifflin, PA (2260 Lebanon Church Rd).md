@@ -1,7 +1,7 @@
 +++
 title = "West Mifflin, PA (2260 Lebanon Church Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-04T21:50:50Z
 
 [Article]

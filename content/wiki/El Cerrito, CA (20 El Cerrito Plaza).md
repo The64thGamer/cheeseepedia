@@ -1,7 +1,7 @@
 +++
 title = "El Cerrito, CA (20 El Cerrito Plaza)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-28T03:35:40Z
 
 [Article]

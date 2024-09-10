@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hightops"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-22T03:42:10Z
 
 [Article]

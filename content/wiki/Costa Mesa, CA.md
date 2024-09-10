@@ -1,7 +1,7 @@
 +++
 title = "Costa Mesa, CA"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-03T23:05:28Z
 
 [Article]

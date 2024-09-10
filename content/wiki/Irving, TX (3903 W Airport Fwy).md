@@ -1,7 +1,7 @@
 +++
 title = "Irving, TX (3903 W Airport Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-11T18:22:38Z
 
 [Article]

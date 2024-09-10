@@ -1,7 +1,7 @@
 +++
 title = "Studio C File Formats"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-14T00:20:43Z
 
 [Article]

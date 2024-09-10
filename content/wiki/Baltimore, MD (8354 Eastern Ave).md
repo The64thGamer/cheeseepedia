@@ -1,7 +1,7 @@
 +++
 title = "Baltimore, MD (8354 Eastern Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-24T13:58:21Z
 
 [Article]

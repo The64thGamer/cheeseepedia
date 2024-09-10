@@ -1,7 +1,7 @@
 +++
 title = "Animatronic Repair & Preservation"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T23:49:44Z
 
 [Article]

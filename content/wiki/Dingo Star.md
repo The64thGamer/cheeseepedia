@@ -1,7 +1,7 @@
 +++
 title = "Dingo Star"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-18T05:02:08Z
 
 [Article]

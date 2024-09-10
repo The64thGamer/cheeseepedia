@@ -1,7 +1,7 @@
 +++
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-12T18:17:20Z
 
 [Article]

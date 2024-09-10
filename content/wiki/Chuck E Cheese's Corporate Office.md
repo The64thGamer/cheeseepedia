@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Corporate Office"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-20T22:34:16Z
 
 [Article]

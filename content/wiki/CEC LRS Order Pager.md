@@ -1,7 +1,7 @@
 +++
 title = "CEC LRS Order Pager"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-27T04:12:56Z
 
 [Article]

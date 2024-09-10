@@ -1,7 +1,7 @@
 +++
 title = "Studio C Dining Marquee (CEC Signage)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-20T07:58:56Z
 
 [Article]

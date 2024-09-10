@@ -1,7 +1,7 @@
 +++
 title = "Grand Prairie, TX (2760 W I-20)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-17T18:35:22Z
 
 [Article]

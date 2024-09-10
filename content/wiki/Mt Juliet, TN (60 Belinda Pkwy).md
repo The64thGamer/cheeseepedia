@@ -1,7 +1,7 @@
 +++
 title = "Mt Juliet, TN (60 Belinda Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T14:46:45Z
 
 [Article]

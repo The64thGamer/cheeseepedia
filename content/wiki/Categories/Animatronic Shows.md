@@ -1,7 +1,7 @@
 +++
 title = "Animatronic Shows"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-30T17:25:41Z
 
 [Article]

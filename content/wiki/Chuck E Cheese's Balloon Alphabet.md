@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Balloon Alphabet"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-29T04:57:04Z
 
 [Article]

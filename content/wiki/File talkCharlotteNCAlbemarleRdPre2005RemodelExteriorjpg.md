@@ -1,7 +1,7 @@
 +++
 title = "File talk:CharlotteNCAlbemarleRdPre2005RemodelExterior.jpg"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-27T22:34:48Z
 
 [Article]

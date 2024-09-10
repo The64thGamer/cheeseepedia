@@ -1,7 +1,7 @@
 +++
 title = "Danbury, CT (20 Backus Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-28T17:29:13Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Showtape Stock Music"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-17T14:12:53Z
 
 [Article]

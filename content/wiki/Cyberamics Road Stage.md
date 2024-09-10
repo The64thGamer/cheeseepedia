@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Road Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T19:06:20Z
 
 [Article]

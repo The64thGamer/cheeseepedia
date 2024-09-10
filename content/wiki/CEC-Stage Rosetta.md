@@ -1,7 +1,7 @@
 +++
 title = "CEC-Stage Rosetta"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T15:36:06Z
 
 [Article]

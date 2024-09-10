@@ -1,7 +1,7 @@
 +++
 title = "San Diego, CA (3146 Sports Arena Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T18:23:44Z
 
 [Article]

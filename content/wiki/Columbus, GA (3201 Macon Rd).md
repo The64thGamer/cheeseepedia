@@ -1,7 +1,7 @@
 +++
 title = "Columbus, GA (3201 Macon Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-25T05:07:14Z
 
 [Article]

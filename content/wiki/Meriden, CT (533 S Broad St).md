@@ -1,7 +1,7 @@
 +++
 title = "Meriden, CT (533 S Broad St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-29T15:41:17Z
 
 [Article]

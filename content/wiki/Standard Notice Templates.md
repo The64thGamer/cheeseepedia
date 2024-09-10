@@ -1,7 +1,7 @@
 +++
 title = "Standard: Notice Templates"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-11T01:10:35Z
 
 [Article]

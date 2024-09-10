@@ -1,7 +1,7 @@
 +++
 title = "Master Blaster (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-10T08:00:19Z
 
 [Article]

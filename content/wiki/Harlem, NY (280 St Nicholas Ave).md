@@ -1,7 +1,7 @@
 +++
 title = "Harlem, NY (280 St. Nicholas Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-24T20:45:54Z
 
 [Article]

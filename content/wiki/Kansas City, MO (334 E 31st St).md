@@ -1,7 +1,7 @@
 +++
 title = "Kansas City, MO (334 E 31st St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T22:46:16Z
 
 [Article]

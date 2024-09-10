@@ -1,7 +1,7 @@
 +++
 title = "Union Gap, WA (2529 Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-10T22:22:30Z
 
 [Article]

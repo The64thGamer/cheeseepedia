@@ -1,7 +1,7 @@
 +++
 title = "Patriotic 1994 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T17:23:18Z
 
 [Article]

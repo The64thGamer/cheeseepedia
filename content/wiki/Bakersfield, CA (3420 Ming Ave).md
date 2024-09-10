@@ -1,7 +1,7 @@
 +++
 title = "Bakersfield, CA (3420 Ming Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-24T20:23:03Z
 
 [Article]

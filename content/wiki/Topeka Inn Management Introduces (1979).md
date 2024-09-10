@@ -1,7 +1,7 @@
 +++
 title = "Topeka Inn Management Introduces... (1979)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T21:39:05Z
 
 [Article]

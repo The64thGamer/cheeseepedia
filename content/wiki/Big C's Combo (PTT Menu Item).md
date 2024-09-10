@@ -1,7 +1,7 @@
 +++
 title = "Big C's Combo (PTT Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-23T20:51:12Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Hard Luck Bears"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-30T19:44:35Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Daniel and The Dixie Diggers (Rusutsu Resort)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-31T18:09:16Z
 
 [Article]

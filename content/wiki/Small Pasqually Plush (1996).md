@@ -1,7 +1,7 @@
 +++
 title = "Small Pasqually Plush (1996)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-22T19:05:35Z
 
 [Article]

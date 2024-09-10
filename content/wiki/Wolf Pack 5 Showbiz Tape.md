@@ -1,7 +1,7 @@
 +++
 title = "Wolf Pack 5 Showbiz Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-17T03:10:08Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Commercials"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-10T06:11:24Z
 
 [Article]

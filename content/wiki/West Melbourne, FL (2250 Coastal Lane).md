@@ -1,7 +1,7 @@
 +++
 title = "West Melbourne, FL (2250 Coastal Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-15T17:20:22Z
 
 [Article]

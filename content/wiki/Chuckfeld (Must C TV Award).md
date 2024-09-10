@@ -1,7 +1,7 @@
 +++
 title = "'Chuckfeld' (Must C TV Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-04T18:46:24Z
 
 [Article]

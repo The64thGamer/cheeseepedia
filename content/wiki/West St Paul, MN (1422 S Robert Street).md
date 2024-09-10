@@ -1,7 +1,7 @@
 +++
 title = "West St Paul, MN (1422 S Robert Street)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-04T14:24:47Z
 
 [Article]

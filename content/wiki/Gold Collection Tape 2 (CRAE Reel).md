@@ -1,7 +1,7 @@
 +++
 title = "Gold Collection Tape 2 (CRAE Reel)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-12T22:23:54Z
 
 [Article]

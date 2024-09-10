@@ -1,7 +1,7 @@
 +++
 title = "Phoenix, AZ (8039 North 35th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-11T23:58:05Z
 
 [Article]

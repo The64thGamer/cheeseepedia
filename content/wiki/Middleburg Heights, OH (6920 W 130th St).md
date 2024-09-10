@@ -1,7 +1,7 @@
 +++
 title = "Middleburg Heights, OH (6920 W 130th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-18T01:31:55Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Cyberstar Segments"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:36:40Z
 
 [Article]

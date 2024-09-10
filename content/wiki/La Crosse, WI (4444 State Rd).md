@@ -1,7 +1,7 @@
 +++
 title = "La Crosse, WI (4444 State Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-19T19:22:53Z
 
 [Article]

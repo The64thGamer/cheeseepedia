@@ -1,7 +1,7 @@
 +++
 title = "Pop It for Gold"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-30T14:22:28Z
 
 [Article]

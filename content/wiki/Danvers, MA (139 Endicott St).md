@@ -1,7 +1,7 @@
 +++
 title = "Danvers, MA (139 Endicott St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-07T22:32:36Z
 
 [Article]

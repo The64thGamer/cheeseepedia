@@ -1,7 +1,7 @@
 +++
 title = "CEC Hanging Tabletop Ad Stand"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-26T02:02:09Z
 
 [Article]

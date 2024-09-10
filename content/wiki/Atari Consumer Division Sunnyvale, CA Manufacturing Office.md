@@ -1,7 +1,7 @@
 +++
 title = "Atari Consumer Division Sunnyvale, CA Manufacturing Office"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-12T06:49:03Z
 
 [Article]

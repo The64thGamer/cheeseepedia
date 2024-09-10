@@ -1,7 +1,7 @@
 +++
 title = "Celebration 2000 Live Training"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T17:58:20Z
 
 [Article]

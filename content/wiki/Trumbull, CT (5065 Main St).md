@@ -1,7 +1,7 @@
 +++
 title = "Trumbull, CT (5065 Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-09-08T03:57:46Z
 
 [Article]

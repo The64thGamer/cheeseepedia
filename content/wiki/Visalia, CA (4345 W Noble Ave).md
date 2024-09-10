@@ -1,7 +1,7 @@
 +++
 title = "Visalia, CA (4345 W Noble Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-18T02:39:28Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Annapolis, MD (2333-A Forest Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-11T15:43:57Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Waldo (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-31T23:06:07Z
 
 [Article]

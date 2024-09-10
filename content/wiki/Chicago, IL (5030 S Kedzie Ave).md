@@ -1,7 +1,7 @@
 +++
 title = "Chicago, IL (5030 S Kedzie Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-10T19:25:24Z
 
 [Article]

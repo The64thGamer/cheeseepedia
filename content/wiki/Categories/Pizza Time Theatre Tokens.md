@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Tokens"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-16T23:34:47Z
 
 [Article]

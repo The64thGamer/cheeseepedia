@@ -1,7 +1,7 @@
 +++
 title = "Fredericksburg, VA (1280 Central Park Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T15:59:48Z
 
 [Article]

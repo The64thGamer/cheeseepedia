@@ -1,7 +1,7 @@
 +++
 title = "Fairfax, VA (9404 Main St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-15T18:01:25Z
 
 [Article]

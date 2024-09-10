@@ -1,7 +1,7 @@
 +++
 title = "1992 Sports Trading Cards (Prototype Art)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-15T14:18:27Z
 
 [Article]

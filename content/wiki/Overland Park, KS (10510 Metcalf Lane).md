@@ -1,7 +1,7 @@
 +++
 title = "Overland Park, KS (10510 Metcalf Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-22T19:34:18Z
 
 [Article]

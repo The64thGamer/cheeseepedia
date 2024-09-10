@@ -1,7 +1,7 @@
 +++
 title = "Daytona Beach, FL (1300 W International Sp)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-13T20:41:57Z
 
 [Article]

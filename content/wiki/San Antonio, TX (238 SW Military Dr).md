@@ -1,7 +1,7 @@
 +++
 title = "San Antonio, TX (238 SW Military Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-01T20:28:17Z
 
 [Article]

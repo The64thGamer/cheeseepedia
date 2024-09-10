@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese 32/16m Hybrid (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T18:32:43Z
 
 [Article]

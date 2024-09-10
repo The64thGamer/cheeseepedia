@@ -1,7 +1,7 @@
 +++
 title = "Johnson City, NY (365 Harry L Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-07T19:57:08Z
 
 [Article]

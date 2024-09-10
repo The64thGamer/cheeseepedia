@@ -1,7 +1,7 @@
 +++
 title = "Pittsburgh (North Hills), PA (9795 Perry Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-13T01:56:33Z
 
 [Article]

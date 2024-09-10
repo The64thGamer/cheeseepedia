@@ -1,7 +1,7 @@
 +++
 title = "Louisville, KY (5743 Preston Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-12T14:43:15Z
 
 [Article]

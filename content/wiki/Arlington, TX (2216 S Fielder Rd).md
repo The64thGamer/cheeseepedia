@@ -1,7 +1,7 @@
 +++
 title = "Arlington, TX (2216 S Fielder Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-18T02:47:42Z
 
 [Article]

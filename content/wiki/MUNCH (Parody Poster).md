@@ -1,7 +1,7 @@
 +++
 title = "MUNCH (Parody Poster)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-17T20:08:32Z
 
 [Article]

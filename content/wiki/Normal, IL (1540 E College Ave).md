@@ -1,7 +1,7 @@
 +++
 title = "Normal, IL (1540 E College Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-08T14:47:47Z
 
 [Article]

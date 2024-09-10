@@ -1,7 +1,7 @@
 +++
 title = "Mishawaka, IN (822 W McKinley Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-08T15:37:40Z
 
 [Article]

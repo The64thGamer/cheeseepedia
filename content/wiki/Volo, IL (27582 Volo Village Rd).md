@@ -1,7 +1,7 @@
 +++
 title = "Volo, IL (27582 Volo Village Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-19T00:49:38Z
 
 [Article]

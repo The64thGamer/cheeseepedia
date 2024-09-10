@@ -1,7 +1,7 @@
 +++
 title = "CEC Careers Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-04T18:05:25Z
 
 [Article]

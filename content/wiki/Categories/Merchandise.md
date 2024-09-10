@@ -1,7 +1,7 @@
 +++
 title = "Merchandise"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-08T01:00:52Z
 
 [Article]

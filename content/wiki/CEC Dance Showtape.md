@@ -1,7 +1,7 @@
 +++
 title = "CEC Dance Showtape"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:24:49Z
 
 [Article]

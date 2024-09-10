@@ -1,7 +1,7 @@
 +++
 title = "PTT Winchester Crusty Name Sign (1977)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T00:22:30Z
 
 [Article]

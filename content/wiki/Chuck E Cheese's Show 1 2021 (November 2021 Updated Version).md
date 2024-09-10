@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 1 2021 (November 2021 Updated Version)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-01T21:38:20Z
 
 [Article]

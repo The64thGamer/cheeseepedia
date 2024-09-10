@@ -1,7 +1,7 @@
 +++
 title = "Winchester Pasqually (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-16T23:00:14Z
 
 [Article]

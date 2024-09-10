@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Kidz Bop Show 2023"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-05T17:15:56Z
 
 [Article]

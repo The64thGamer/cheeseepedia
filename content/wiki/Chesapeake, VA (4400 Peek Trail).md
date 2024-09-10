@@ -1,7 +1,7 @@
 +++
 title = "Chesapeake, VA (4400 Peek Trail)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-26T22:06:48Z
 
 [Article]

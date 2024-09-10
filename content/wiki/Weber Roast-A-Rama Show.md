@@ -1,7 +1,7 @@
 +++
 title = "Weber Roast-A-Rama Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-21T07:31:05Z
 
 [Article]

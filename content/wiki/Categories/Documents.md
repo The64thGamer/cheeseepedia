@@ -1,7 +1,7 @@
 +++
 title = "Documents"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-21T20:42:34Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Yo Yoo Punch"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-14T03:20:37Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "York, PA (351 Loucks Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-27T01:22:24Z
 
 [Article]

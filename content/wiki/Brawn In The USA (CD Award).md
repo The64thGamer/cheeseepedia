@@ -1,7 +1,7 @@
 +++
 title = "'Brawn In The USA' (CD Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-15T17:31:39Z
 
 [Article]

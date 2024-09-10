@@ -1,7 +1,7 @@
 +++
 title = "Tunnel of Love (PTT Theme)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-28T21:24:39Z
 
 [Article]

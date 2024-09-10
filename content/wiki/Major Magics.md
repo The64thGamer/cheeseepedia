@@ -1,7 +1,7 @@
 +++
 title = "Major Magics"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-08-08T23:16:51Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck Chalkware Figure- Tux (Shelf Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-13T23:16:20Z
 
 [Article]

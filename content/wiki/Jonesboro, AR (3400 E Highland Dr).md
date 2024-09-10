@@ -1,7 +1,7 @@
 +++
 title = "Jonesboro, AR (3400 E Highland Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-02T17:54:36Z
 
 [Article]

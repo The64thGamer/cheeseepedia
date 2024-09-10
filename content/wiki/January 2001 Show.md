@@ -1,7 +1,7 @@
 +++
 title = "January 2001 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-10T12:23:46Z
 
 [Article]

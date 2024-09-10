@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's - I'm Da Greatest / Biggest Fan (1985)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-05T00:24:04Z
 
 [Article]

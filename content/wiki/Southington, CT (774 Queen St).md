@@ -1,7 +1,7 @@
 +++
 title = "Southington, CT (774 Queen St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-05T20:08:52Z
 
 [Article]

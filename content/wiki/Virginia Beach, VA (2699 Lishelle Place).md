@@ -1,7 +1,7 @@
 +++
 title = "Virginia Beach, VA (2699 Lishelle Place)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-15T21:08:09Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hot Wheels Sweet 16 II (2001)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-25T16:47:48Z
 
 [Article]

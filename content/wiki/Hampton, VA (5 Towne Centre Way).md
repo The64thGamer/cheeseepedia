@@ -1,7 +1,7 @@
 +++
 title = "Hampton, VA (5 Towne Centre Way)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-02T19:56:01Z
 
 [Article]

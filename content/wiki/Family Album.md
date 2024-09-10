@@ -1,7 +1,7 @@
 +++
 title = "Family Album"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-27T17:47:29Z
 
 [Article]

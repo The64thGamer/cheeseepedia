@@ -1,7 +1,7 @@
 +++
 title = "Murrieta, CA (25110 Hancock Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-17T01:56:12Z
 
 [Article]

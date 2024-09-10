@@ -1,7 +1,7 @@
 +++
 title = "Streamwood, IL (990 S Barrington Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-24T13:09:21Z
 
 [Article]

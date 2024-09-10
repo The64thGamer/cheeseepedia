@@ -1,7 +1,7 @@
 +++
 title = "Category talk:Chuck E. Cheese's Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-10T19:33:32Z
 
 [Article]

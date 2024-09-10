@@ -1,7 +1,7 @@
 +++
 title = "Lynnwood, WA (3717 196th St Suite 100)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T21:01:41Z
 
 [Article]

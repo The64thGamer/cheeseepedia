@@ -1,7 +1,7 @@
 +++
 title = "Let The Good Times Roll"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T05:42:35Z
 
 [Article]

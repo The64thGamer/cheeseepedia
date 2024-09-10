@@ -1,7 +1,7 @@
 +++
 title = "CEC Pop Art Head (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T17:05:44Z
 
 [Article]

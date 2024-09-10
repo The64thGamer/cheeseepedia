@@ -1,7 +1,7 @@
 +++
 title = "Kooser Dolli Dimples (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-11-08T08:45:58Z
 
 [Article]

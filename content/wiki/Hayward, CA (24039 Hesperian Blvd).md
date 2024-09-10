@@ -1,7 +1,7 @@
 +++
 title = "Hayward, CA (24039 Hesperian Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-26T03:55:34Z
 
 [Article]

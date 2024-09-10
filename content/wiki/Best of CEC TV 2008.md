@@ -1,7 +1,7 @@
 +++
 title = "Best of CEC TV 2008"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-10T14:30:41Z
 
 [Article]

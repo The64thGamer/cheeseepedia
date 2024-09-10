@@ -1,7 +1,7 @@
 +++
 title = "'M.C. Chuckie' (CD Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-28T22:52:36Z
 
 [Article]

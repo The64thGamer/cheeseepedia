@@ -1,7 +1,7 @@
 +++
 title = "News Footage"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-03T19:56:59Z
 
 [Article]

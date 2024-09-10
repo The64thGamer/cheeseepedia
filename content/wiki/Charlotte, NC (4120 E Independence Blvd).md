@@ -1,7 +1,7 @@
 +++
 title = "Charlotte, NC (4120 E Independence Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-13T01:14:15Z
 
 [Article]

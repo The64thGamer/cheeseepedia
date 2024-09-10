@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Betamax"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T18:41:08Z
 
 [Article]

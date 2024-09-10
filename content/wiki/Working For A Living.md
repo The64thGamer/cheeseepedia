@@ -1,7 +1,7 @@
 +++
 title = "Working For A Living"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-01T07:00:56Z
 
 [Article]

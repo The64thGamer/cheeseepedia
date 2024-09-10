@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Tall Tales"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T18:29:50Z
 
 [Article]

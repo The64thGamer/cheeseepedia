@@ -1,7 +1,7 @@
 +++
 title = "Brookfield, WI (19125 W Blue Mound Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-10T19:41:31Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T20:10:12Z
 
 [Article]

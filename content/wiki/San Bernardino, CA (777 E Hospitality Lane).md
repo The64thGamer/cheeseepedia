@@ -1,7 +1,7 @@
 +++
 title = "San Bernardino, CA (777 E Hospitality Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-28T04:34:36Z
 
 [Article]

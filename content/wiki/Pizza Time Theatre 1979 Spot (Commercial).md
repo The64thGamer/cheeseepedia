@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre 1979 Spot (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T17:29:26Z
 
 [Article]

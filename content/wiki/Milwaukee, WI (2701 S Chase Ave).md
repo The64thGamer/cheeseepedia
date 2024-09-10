@@ -1,7 +1,7 @@
 +++
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T03:27:06Z
 
 [Article]

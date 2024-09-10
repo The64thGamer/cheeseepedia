@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Portrait / Shelf Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-16T17:56:46Z
 
 [Article]

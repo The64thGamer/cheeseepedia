@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird Window (Mijjin)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-28T04:56:50Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-05T21:34:23Z
 
 [Article]

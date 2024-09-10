@@ -1,7 +1,7 @@
 +++
 title = "Monrovia, CA (558 W Huntington Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-17T01:04:28Z
 
 [Article]

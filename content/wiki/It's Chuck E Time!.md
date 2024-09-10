@@ -1,7 +1,7 @@
 +++
 title = "It's Chuck E. Time!"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-04T20:50:11Z
 
 [Article]

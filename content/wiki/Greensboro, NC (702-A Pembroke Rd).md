@@ -1,7 +1,7 @@
 +++
 title = "Greensboro, NC (702-A Pembroke Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-10T15:07:17Z
 
 [Article]

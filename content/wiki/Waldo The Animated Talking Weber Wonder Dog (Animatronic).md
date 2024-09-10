@@ -1,7 +1,7 @@
 +++
 title = "Waldo The Animated Talking Weber Wonder Dog (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-21T08:33:28Z
 
 [Article]

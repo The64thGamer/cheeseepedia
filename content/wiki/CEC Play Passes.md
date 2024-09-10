@@ -1,7 +1,7 @@
 +++
 title = "CEC Play Passes"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-26T17:21:27Z
 
 [Article]

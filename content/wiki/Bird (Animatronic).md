@@ -1,7 +1,7 @@
 +++
 title = "Bird (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-05T21:17:06Z
 
 [Article]

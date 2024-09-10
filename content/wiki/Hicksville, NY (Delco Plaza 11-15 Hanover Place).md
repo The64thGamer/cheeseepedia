@@ -1,7 +1,7 @@
 +++
 title = "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-16T02:31:15Z
 
 [Article]

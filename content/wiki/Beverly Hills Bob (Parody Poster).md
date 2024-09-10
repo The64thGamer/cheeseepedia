@@ -1,7 +1,7 @@
 +++
 title = "Beverly Hills Bob (Parody Poster)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-23T15:51:15Z
 
 [Article]

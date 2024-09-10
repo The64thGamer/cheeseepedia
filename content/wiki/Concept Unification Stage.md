@@ -1,7 +1,7 @@
 +++
 title = "Concept Unification Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-10T20:06:45Z
 
 [Article]

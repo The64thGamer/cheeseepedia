@@ -1,7 +1,7 @@
 +++
 title = "CEC University: Cashier"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-27T01:22:01Z
 
 [Article]

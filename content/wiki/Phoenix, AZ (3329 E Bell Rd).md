@@ -1,7 +1,7 @@
 +++
 title = "Phoenix, AZ (3329 E Bell Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-28T21:37:33Z
 
 [Article]

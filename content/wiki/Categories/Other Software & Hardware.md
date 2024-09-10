@@ -1,7 +1,7 @@
 +++
 title = "Other Software & Hardware"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-13T02:03:03Z
 
 [Article]

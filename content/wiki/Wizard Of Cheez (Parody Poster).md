@@ -1,7 +1,7 @@
 +++
 title = "Wizard Of Cheez (Parody Poster)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-17T21:26:45Z
 
 [Article]

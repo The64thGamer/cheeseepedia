@@ -1,7 +1,7 @@
 +++
 title = "Bradenton, FL (415 Cortez Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-08T21:49:24Z
 
 [Article]

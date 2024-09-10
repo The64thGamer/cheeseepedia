@@ -1,7 +1,7 @@
 +++
 title = "Toledo, OH (5077 Monroe St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-02T04:39:47Z
 
 [Article]

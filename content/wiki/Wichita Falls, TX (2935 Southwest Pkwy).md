@@ -1,7 +1,7 @@
 +++
 title = "Wichita Falls, TX (2935 Southwest Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-09T04:59:56Z
 
 [Article]

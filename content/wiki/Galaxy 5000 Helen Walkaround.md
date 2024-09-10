@@ -1,7 +1,7 @@
 +++
 title = "Galaxy 5000 Helen Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T21:16:19Z
 
 [Article]

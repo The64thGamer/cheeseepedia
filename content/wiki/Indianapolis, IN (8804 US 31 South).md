@@ -1,7 +1,7 @@
 +++
 title = "Indianapolis, IN (8804 US 31 South)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-10T18:11:29Z
 
 [Article]

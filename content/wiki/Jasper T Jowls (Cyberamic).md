@@ -1,7 +1,7 @@
 +++
 title = "Jasper T. Jowls (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-07T16:23:33Z
 
 [Article]

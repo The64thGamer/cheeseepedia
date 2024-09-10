@@ -1,7 +1,7 @@
 +++
 title = "Mumbai, India"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-17T14:47:19Z
 
 [Article]

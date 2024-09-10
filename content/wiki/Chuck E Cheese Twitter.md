@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Twitter"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:31:16Z
 
 [Article]

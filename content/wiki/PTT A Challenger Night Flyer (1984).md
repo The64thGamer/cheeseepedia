@@ -1,7 +1,7 @@
 +++
 title = "PTT 'A' Challenger Night Flyer (1984)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-03T19:33:22Z
 
 [Article]

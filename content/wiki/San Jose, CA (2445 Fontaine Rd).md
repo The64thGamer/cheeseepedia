@@ -1,7 +1,7 @@
 +++
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-21T15:39:26Z
 
 [Article]

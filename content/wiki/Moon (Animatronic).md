@@ -1,7 +1,7 @@
 +++
 title = "Moon (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-31T17:57:32Z
 
 [Article]

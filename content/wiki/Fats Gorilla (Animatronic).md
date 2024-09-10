@@ -1,7 +1,7 @@
 +++
 title = "Fats Gorilla (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-07T00:16:28Z
 
 [Article]

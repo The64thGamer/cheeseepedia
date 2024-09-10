@@ -1,7 +1,7 @@
 +++
 title = "Salute to America (PTT Theme)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-28T02:09:14Z
 
 [Article]

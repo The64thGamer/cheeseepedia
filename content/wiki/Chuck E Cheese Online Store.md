@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Online Store"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-13T14:05:26Z
 
 [Article]

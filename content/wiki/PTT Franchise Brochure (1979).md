@@ -1,7 +1,7 @@
 +++
 title = "PTT Franchise Brochure (1979)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-04T19:38:14Z
 
 [Article]

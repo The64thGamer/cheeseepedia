@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Musical Ferris Wheel"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-07T05:35:01Z
 
 [Article]

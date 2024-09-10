@@ -1,7 +1,7 @@
 +++
 title = "Midfield, AL (34 Phillips Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-11T05:28:02Z
 
 [Article]

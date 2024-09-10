@@ -1,7 +1,7 @@
 +++
 title = "Sharonville, OH (1429 E Kemper Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-09T20:43:46Z
 
 [Article]

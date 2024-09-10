@@ -1,7 +1,7 @@
 +++
 title = "1999 Hockey Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T02:42:17Z
 
 [Article]

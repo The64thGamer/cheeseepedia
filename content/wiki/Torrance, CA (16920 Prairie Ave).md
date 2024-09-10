@@ -1,7 +1,7 @@
 +++
 title = "Torrance, CA (16920 Prairie Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-08T20:18:21Z
 
 [Article]

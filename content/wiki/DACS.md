@@ -1,7 +1,7 @@
 +++
 title = "DACS"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-19T21:49:53Z
 
 [Article]

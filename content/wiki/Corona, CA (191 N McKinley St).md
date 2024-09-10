@@ -1,7 +1,7 @@
 +++
 title = "Corona, CA (191 N McKinley St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-28T21:09:11Z
 
 [Article]

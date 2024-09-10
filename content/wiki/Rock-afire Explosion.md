@@ -1,7 +1,7 @@
 +++
 title = "Rock-afire Explosion"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-13T01:44:13Z
 
 [Article]

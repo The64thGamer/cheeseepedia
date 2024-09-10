@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Calibration Video Tape"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T16:59:49Z
 
 [Article]

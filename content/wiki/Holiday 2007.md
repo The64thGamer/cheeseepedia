@@ -1,7 +1,7 @@
 +++
 title = "Holiday 2007"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-14T02:58:49Z
 
 [Article]

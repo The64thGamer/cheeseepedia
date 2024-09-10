@@ -1,7 +1,7 @@
 +++
 title = "Aaron's Auctions Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T20:19:29Z
 
 [Article]

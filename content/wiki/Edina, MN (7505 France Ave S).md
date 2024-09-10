@@ -1,7 +1,7 @@
 +++
 title = "Edina, MN (7505 France Ave S)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-05T07:04:57Z
 
 [Article]

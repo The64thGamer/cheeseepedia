@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (17780 Tomball Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-01T06:22:50Z
 
 [Article]

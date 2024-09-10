@@ -1,7 +1,7 @@
 +++
 title = "Marinwood / San Rafael, CA (175 Marinwood Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-08T15:26:54Z
 
 [Article]

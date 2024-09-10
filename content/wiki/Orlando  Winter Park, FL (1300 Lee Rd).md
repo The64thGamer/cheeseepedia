@@ -1,7 +1,7 @@
 +++
 title = "Orlando / Winter Park, FL (1300 Lee Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-19T02:00:00Z
 
 [Article]

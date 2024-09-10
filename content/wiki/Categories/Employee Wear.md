@@ -1,7 +1,7 @@
 +++
 title = "Employee Wear"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-16T12:56:06Z
 
 [Article]

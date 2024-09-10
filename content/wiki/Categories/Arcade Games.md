@@ -1,7 +1,7 @@
 +++
 title = "Arcade Games"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-30T21:55:11Z
 
 [Article]

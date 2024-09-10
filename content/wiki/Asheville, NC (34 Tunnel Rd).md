@@ -1,7 +1,7 @@
 +++
 title = "Asheville, NC (34 Tunnel Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-01T01:35:36Z
 
 [Article]

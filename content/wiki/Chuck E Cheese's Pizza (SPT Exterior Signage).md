@@ -1,7 +1,7 @@
 +++
 title = "'Chuck E. Cheese's Pizza' (SPT Exterior Signage)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-27T19:46:38Z
 
 [Article]

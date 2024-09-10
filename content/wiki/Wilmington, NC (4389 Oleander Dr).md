@@ -1,7 +1,7 @@
 +++
 title = "Wilmington, NC (4389 Oleander Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-20T22:37:38Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Whatnots"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-11T23:58:52Z
 
 [Article]

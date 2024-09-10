@@ -1,7 +1,7 @@
 +++
 title = "Mr. Munch 15' CST Plush"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-21T23:53:50Z
 
 [Article]

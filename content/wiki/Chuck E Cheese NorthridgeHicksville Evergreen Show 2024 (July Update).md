@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Northridge/Hicksville Evergreen Show 2024 (July Update)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-07-29T19:33:32Z
 
 [Article]

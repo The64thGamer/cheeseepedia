@@ -1,7 +1,7 @@
 +++
 title = "Brandon, FL (1540 W Brandon Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-02T03:18:32Z
 
 [Article]

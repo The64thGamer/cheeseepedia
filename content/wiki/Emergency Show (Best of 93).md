@@ -1,7 +1,7 @@
 +++
 title = "Emergency Show (Best of 93)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T03:11:14Z
 
 [Article]

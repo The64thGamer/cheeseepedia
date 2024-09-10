@@ -1,7 +1,7 @@
 +++
 title = "Holiday 2014 Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-01T03:05:42Z
 
 [Article]

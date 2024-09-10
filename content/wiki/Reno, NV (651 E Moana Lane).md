@@ -1,7 +1,7 @@
 +++
 title = "Reno, NV (651 E Moana Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-21T00:47:46Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Get Ready"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T19:09:02Z
 
 [Article]

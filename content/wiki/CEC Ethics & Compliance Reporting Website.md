@@ -1,7 +1,7 @@
 +++
 title = "CEC Ethics & Compliance Reporting Website"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T19:26:12Z
 
 [Article]

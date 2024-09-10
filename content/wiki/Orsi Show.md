@@ -1,7 +1,7 @@
 +++
 title = "Orsi Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-11-30T16:28:54Z
 
 [Article]

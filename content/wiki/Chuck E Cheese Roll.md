@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Roll"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-25T14:06:55Z
 
 [Article]

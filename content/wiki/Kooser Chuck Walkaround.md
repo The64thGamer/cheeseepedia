@@ -1,7 +1,7 @@
 +++
 title = "Kooser Chuck Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-11T06:22:53Z
 
 [Article]

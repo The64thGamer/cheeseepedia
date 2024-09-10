@@ -1,7 +1,7 @@
 +++
 title = "Fort Worth, TX (9121 North Fwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T13:58:43Z
 
 [Article]

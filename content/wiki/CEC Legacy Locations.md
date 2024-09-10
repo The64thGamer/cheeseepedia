@@ -1,7 +1,7 @@
 +++
 title = "CEC Legacy Locations"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T22:52:14Z
 
 [Article]

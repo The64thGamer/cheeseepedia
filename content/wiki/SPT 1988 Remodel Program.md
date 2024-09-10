@@ -1,7 +1,7 @@
 +++
 title = "SPT 1988 Remodel Program"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-14T13:04:23Z
 
 [Article]

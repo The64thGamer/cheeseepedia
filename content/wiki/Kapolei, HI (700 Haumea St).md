@@ -1,7 +1,7 @@
 +++
 title = "Kapolei, HI (700 Haumea St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-03T01:31:40Z
 
 [Article]

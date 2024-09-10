@@ -1,7 +1,7 @@
 +++
 title = "Websites and Social Media"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-07T11:41:55Z
 
 [Article]

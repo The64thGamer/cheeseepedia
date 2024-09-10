@@ -1,7 +1,7 @@
 +++
 title = "Creative Engineering Workshop"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T20:29:17Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Program Blue .shw Files"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T04:48:33Z
 
 [Article]

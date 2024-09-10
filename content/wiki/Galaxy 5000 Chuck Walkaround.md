@@ -1,7 +1,7 @@
 +++
 title = "Galaxy 5000 Chuck Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T21:11:10Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Standard: Token Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-01T19:07:45Z
 
 [Article]

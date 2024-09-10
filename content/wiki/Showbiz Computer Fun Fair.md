@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Computer Fun Fair"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-24T18:54:02Z
 
 [Article]

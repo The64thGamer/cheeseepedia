@@ -1,7 +1,7 @@
 +++
 title = "'CWO' (Must C TV Award)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T17:43:23Z
 
 [Article]

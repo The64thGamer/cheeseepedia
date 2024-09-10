@@ -1,7 +1,7 @@
 +++
 title = "Statue of Liberty (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-08-27T18:19:41Z
 
 [Article]

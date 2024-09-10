@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Tickets"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-16T03:32:26Z
 
 [Article]

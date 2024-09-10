@@ -1,7 +1,7 @@
 +++
 title = "Homely For Christmas Cassette (1987)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-26T14:29:30Z
 
 [Article]

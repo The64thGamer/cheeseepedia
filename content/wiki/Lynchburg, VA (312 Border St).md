@@ -1,7 +1,7 @@
 +++
 title = "Lynchburg, VA (312 Border St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-02T18:33:41Z
 
 [Article]

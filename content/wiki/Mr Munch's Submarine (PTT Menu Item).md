@@ -1,7 +1,7 @@
 +++
 title = "Mr. Munch's Submarine (PTT Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-07T02:55:51Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Jasper's Giant Hot Dog (PTT Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-07T01:18:48Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Time Distribution Center (Topeka, KS)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-04-05T23:37:36Z
 
 [Article]

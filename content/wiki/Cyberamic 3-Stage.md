@@ -1,7 +1,7 @@
 +++
 title = "Cyberamic 3-Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-17T02:42:26Z
 
 [Article]

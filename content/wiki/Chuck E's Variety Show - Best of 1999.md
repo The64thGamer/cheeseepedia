@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Variety Show - Best of 1999"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-17T18:07:35Z
 
 [Article]

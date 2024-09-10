@@ -1,7 +1,7 @@
 +++
 title = "Click / Murray D. Bird (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-10-13T01:21:51Z
 
 [Article]

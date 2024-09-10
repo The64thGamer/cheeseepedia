@@ -1,7 +1,7 @@
 +++
 title = "Topeka, KS (2215 SW Wanamaker Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-02T17:52:54Z
 
 [Article]

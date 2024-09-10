@@ -1,7 +1,7 @@
 +++
 title = "Sgt. Singer (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-07T03:20:37Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Destination Imagination"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-06T04:11:33Z
 
 [Article]

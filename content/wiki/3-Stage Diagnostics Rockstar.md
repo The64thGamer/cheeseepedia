@@ -1,7 +1,7 @@
 +++
 title = "3-Stage Diagnostics Rockstar"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-21T15:33:05Z
 
 [Article]

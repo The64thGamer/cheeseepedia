@@ -1,7 +1,7 @@
 +++
 title = "Clown (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-11T22:23:49Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Winchester Jasper T. Jowls (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-09T14:33:29Z
 
 [Article]

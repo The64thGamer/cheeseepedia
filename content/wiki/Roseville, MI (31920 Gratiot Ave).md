@@ -1,7 +1,7 @@
 +++
 title = "Roseville, MI (31920 Gratiot Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-28T05:19:14Z
 
 [Article]

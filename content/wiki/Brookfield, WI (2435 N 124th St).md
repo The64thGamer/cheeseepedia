@@ -1,7 +1,7 @@
 +++
 title = "Brookfield, WI (2435 N 124th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-28T15:31:07Z
 
 [Article]

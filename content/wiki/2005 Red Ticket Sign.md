@@ -1,7 +1,7 @@
 +++
 title = "2005 Red Ticket Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T02:05:55Z
 
 [Article]

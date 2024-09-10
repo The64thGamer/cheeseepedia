@@ -1,7 +1,7 @@
 +++
 title = "Ticket Blaster"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-26T16:34:15Z
 
 [Article]

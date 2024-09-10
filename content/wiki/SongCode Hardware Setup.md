@@ -1,7 +1,7 @@
 +++
 title = "SongCode Hardware Setup"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T17:12:59Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Austin, TX (502 W Ben White Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-05-18T04:19:40Z
 
 [Article]

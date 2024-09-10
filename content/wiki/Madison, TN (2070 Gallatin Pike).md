@@ -1,7 +1,7 @@
 +++
 title = "Madison, TN (2070 Gallatin Pike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T23:11:42Z
 
 [Article]

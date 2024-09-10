@@ -1,7 +1,7 @@
 +++
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T18:56:45Z
 
 [Article]

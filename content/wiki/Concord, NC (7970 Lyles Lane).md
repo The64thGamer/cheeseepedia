@@ -1,7 +1,7 @@
 +++
 title = "Concord, NC (7970 Lyles Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-30T20:34:54Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CEI 1986 Liberty Tape Party"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-28T05:58:55Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Munch Mouth"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-22T07:34:11Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Astrology"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-02T14:29:32Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "La Mesa, CA (5500 Grossmont Center Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-13T21:44:23Z
 
 [Article]

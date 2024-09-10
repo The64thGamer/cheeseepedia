@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-14T04:10:35Z
 
 [Article]

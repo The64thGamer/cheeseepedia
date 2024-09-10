@@ -1,7 +1,7 @@
 +++
 title = "Navori System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-27T02:06:46Z
 
 [Article]

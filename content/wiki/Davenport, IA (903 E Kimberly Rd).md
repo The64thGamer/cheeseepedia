@@ -1,7 +1,7 @@
 +++
 title = "Davenport, IA (903 E Kimberly Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-23T23:16:39Z
 
 [Article]

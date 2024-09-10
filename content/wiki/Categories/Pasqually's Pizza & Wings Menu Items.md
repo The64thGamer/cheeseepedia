@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Pizza & Wings Menu Items"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-01T22:07:39Z
 
 [Article]

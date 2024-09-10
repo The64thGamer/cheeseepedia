@@ -1,7 +1,7 @@
 +++
 title = "Edison, NJ (1120 Route 1)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-05T15:55:08Z
 
 [Article]

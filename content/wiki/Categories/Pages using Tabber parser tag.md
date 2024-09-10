@@ -1,7 +1,7 @@
 +++
 title = "Pages using Tabber parser tag"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-18T19:38:15Z
 
 [Article]

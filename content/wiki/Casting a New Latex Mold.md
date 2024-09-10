@@ -1,7 +1,7 @@
 +++
 title = "Casting a New Latex Mold"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-29T01:33:35Z
 
 [Article]

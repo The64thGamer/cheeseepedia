@@ -1,7 +1,7 @@
 +++
 title = "Winchester Control System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-10T05:14:06Z
 
 [Article]

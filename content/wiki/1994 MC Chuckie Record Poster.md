@@ -1,7 +1,7 @@
 +++
 title = "1994 MC Chuckie Record Poster"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-31T05:57:13Z
 
 [Article]

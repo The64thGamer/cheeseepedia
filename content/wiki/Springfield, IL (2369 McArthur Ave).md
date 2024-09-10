@@ -1,7 +1,7 @@
 +++
 title = "Springfield, IL (2369 McArthur Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-25T04:52:25Z
 
 [Article]

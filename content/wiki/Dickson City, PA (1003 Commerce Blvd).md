@@ -1,7 +1,7 @@
 +++
 title = "Dickson City, PA (1003 Commerce Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-24T00:36:53Z
 
 [Article]

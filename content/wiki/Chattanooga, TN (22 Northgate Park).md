@@ -1,7 +1,7 @@
 +++
 title = "Chattanooga, TN (22 Northgate Park)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-13T18:59:19Z
 
 [Article]

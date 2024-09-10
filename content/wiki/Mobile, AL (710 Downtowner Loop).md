@@ -1,7 +1,7 @@
 +++
 title = "Mobile, AL (710 Downtowner Loop)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-14T22:50:22Z
 
 [Article]

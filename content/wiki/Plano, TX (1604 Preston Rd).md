@@ -1,7 +1,7 @@
 +++
 title = "Plano, TX (1604 Preston Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T15:12:28Z
 
 [Article]

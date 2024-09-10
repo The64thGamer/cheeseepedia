@@ -1,7 +1,7 @@
 +++
 title = "Warwick, RI (1960 Post Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-07T02:02:01Z
 
 [Article]

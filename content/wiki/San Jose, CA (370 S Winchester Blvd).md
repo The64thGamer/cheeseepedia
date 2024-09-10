@@ -1,7 +1,7 @@
 +++
 title = "San Jose, CA (370 S Winchester Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-08T21:17:06Z
 
 [Article]

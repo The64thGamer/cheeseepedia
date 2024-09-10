@@ -1,7 +1,7 @@
 +++
 title = "Skytubes"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-04T03:19:14Z
 
 [Article]

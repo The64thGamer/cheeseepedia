@@ -1,7 +1,7 @@
 +++
 title = "Dover, DE (1275 N DuPont Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-29T21:19:56Z
 
 [Article]

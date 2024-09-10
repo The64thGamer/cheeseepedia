@@ -1,7 +1,7 @@
 +++
 title = "Best of Rock-afire Explosion '82"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T01:10:10Z
 
 [Article]

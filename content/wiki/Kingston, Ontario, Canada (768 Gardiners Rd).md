@@ -1,7 +1,7 @@
 +++
 title = "Kingston, Ontario, Canada (768 Gardiners Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-16T01:50:15Z
 
 [Article]

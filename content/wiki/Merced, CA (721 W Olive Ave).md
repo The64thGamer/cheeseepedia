@@ -1,7 +1,7 @@
 +++
 title = "Merced, CA (721 W Olive Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-19T23:01:38Z
 
 [Article]

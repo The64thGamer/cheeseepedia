@@ -1,7 +1,7 @@
 +++
 title = "Santa Ana, CA"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-22T20:57:22Z
 
 [Article]

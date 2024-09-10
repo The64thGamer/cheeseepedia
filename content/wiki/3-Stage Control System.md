@@ -1,7 +1,7 @@
 +++
 title = "3-Stage Control System"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-27T04:50:47Z
 
 [Article]

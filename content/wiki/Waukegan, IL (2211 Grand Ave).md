@@ -1,7 +1,7 @@
 +++
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-08T15:26:20Z
 
 [Article]

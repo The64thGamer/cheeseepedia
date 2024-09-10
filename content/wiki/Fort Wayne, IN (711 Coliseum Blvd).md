@@ -1,7 +1,7 @@
 +++
 title = "Fort Wayne, IN (711 Coliseum Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-23T19:09:28Z
 
 [Article]

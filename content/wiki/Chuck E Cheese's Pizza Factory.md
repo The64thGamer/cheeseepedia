@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-01-11T03:20:34Z
 
 [Article]

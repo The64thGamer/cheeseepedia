@@ -1,7 +1,7 @@
 +++
 title = "Pontiac, MI (390 Telegraph Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-14T17:30:39Z
 
 [Article]

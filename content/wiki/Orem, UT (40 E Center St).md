@@ -1,7 +1,7 @@
 +++
 title = "Orem, UT (40 E Center St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-07T05:50:57Z
 
 [Article]

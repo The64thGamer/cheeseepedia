@@ -1,7 +1,7 @@
 +++
 title = "Game Room Authorized Pin"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-07T17:39:44Z
 
 [Article]

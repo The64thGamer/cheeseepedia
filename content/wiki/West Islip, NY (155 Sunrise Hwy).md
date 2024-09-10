@@ -1,7 +1,7 @@
 +++
 title = "West Islip, NY (155 Sunrise Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-27T01:01:27Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Calgary, Alberta, Canada (9627 Macleod Trail)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-30T23:49:06Z
 
 [Article]

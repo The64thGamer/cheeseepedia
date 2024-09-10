@@ -1,7 +1,7 @@
 +++
 title = "'Showbiz Pizza' (SPT Exterior Signage)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-06-20T16:10:10Z
 
 [Article]

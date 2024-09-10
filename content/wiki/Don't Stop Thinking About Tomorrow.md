@@ -1,7 +1,7 @@
 +++
 title = "Don't Stop Thinking About Tomorrow"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-01T06:24:54Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Kooser Pasqually (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-19T21:58:28Z
 
 [Article]

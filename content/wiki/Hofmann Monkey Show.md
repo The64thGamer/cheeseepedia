@@ -1,7 +1,7 @@
 +++
 title = "Hofmann Monkey Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T02:04:38Z
 
 [Article]

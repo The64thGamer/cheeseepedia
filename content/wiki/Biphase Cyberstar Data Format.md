@@ -1,7 +1,7 @@
 +++
 title = "Biphase Cyberstar Data Format"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T00:53:44Z
 
 [Article]

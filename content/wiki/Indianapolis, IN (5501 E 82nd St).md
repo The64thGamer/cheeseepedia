@@ -1,7 +1,7 @@
 +++
 title = "Indianapolis, IN (5501 E 82nd St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-10T21:06:03Z
 
 [Article]

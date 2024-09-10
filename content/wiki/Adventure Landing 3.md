@@ -1,7 +1,7 @@
 +++
 title = "Adventure Landing 3"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-13T14:18:45Z
 
 [Article]

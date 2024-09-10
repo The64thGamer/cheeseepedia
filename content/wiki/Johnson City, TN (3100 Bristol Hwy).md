@@ -1,7 +1,7 @@
 +++
 title = "Johnson City, TN (3100 Bristol Hwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-31T18:03:33Z
 
 [Article]

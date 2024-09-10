@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (International Fall Show SPN Promo)"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-07T01:56:19Z
 
 [Article]

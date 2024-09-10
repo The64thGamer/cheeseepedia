@@ -1,7 +1,7 @@
 +++
 title = "CEC 20th Anniversary Cookie Jar (1997)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-04-29T03:06:32Z
 
 [Article]

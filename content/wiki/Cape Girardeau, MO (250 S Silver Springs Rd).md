@@ -1,7 +1,7 @@
 +++
 title = "Cape Girardeau, MO (250 S Silver Springs Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-17T13:24:12Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Wolfman Zapp (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-07T22:43:43Z
 
 [Article]

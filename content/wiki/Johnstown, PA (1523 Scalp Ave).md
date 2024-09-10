@@ -1,7 +1,7 @@
 +++
 title = "Johnstown, PA (1523 Scalp Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T01:36:45Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bellevue, WA (2239 148th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-14T00:00:28Z
 
 [Article]

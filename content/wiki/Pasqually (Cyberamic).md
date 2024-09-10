@@ -1,7 +1,7 @@
 +++
 title = "Pasqually (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-07T16:30:39Z
 
 [Article]

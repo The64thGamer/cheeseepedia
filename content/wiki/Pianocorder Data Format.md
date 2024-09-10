@@ -1,7 +1,7 @@
 +++
 title = "Pianocorder Data Format"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-15T05:47:14Z
 
 [Article]

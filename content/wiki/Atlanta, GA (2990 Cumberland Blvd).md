@@ -1,7 +1,7 @@
 +++
 title = "Atlanta, GA (2990 Cumberland Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-31T16:51:04Z
 
 [Article]

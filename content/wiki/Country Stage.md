@@ -1,7 +1,7 @@
 +++
 title = "Country Stage"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-20T17:22:04Z
 
 [Article]

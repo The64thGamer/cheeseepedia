@@ -1,7 +1,7 @@
 +++
 title = "Concord, CA (1975 Diamond Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-17T16:44:52Z
 
 [Article]

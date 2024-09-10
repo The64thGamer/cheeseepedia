@@ -1,7 +1,7 @@
 +++
 title = "Joliet, IL (3250 Chicagoland Circle)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-23T16:29:03Z
 
 [Article]

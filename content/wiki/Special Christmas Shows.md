@@ -1,7 +1,7 @@
 +++
 title = "Special Christmas Shows"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-03T06:08:36Z
 
 [Article]

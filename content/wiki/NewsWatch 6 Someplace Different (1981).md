@@ -1,7 +1,7 @@
 +++
 title = "NewsWatch 6 'Someplace Different' (1981)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-04T00:42:21Z
 
 [Article]

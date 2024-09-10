@@ -1,7 +1,7 @@
 +++
 title = "Cincinnati, OH (4394 Eastgate Square Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-07T02:18:58Z
 
 [Article]

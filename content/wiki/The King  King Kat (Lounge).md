@@ -1,7 +1,7 @@
 +++
 title = "The King / King Kat (Lounge)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-12T13:59:45Z
 
 [Article]

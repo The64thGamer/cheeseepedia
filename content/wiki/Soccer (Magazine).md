@@ -1,7 +1,7 @@
 +++
 title = "Soccer (Magazine)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-18T01:27:55Z
 
 [Article]

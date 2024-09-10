@@ -1,7 +1,7 @@
 +++
 title = "Circles of Light"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-15T15:20:32Z
 
 [Article]

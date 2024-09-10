@@ -1,7 +1,7 @@
 +++
 title = "CEI Betamax"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-06-05T03:47:30Z
 
 [Article]

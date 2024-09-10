@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T15:58:43Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Store List"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-27T18:02:36Z
 
 [Article]

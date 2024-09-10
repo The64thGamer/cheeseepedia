@@ -1,7 +1,7 @@
 +++
 title = "Middletown, NY (8 Orange Plaza Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-12-24T21:24:33Z
 
 [Article]

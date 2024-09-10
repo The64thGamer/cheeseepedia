@@ -1,7 +1,7 @@
 +++
 title = "After Christmas Tape 1982"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-07T02:18:52Z
 
 [Article]

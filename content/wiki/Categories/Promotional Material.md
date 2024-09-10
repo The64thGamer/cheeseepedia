@@ -1,7 +1,7 @@
 +++
 title = "Promotional Material"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-26T00:23:53Z
 
 [Article]

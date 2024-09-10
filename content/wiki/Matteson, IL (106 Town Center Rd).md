@@ -1,7 +1,7 @@
 +++
 title = "Matteson, IL (106 Town Center Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-30T20:09:31Z
 
 [Article]

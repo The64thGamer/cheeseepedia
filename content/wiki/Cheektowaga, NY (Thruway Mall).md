@@ -1,7 +1,7 @@
 +++
 title = "Cheektowaga, NY (Thruway Mall)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-08T23:45:02Z
 
 [Article]

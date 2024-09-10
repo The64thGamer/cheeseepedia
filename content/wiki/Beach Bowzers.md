@@ -1,7 +1,7 @@
 +++
 title = "Beach Bowzers"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-06T23:15:11Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "'Titan of Tokens' (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-28T22:28:15Z
 
 [Article]

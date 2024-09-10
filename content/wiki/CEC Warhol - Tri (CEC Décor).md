@@ -1,7 +1,7 @@
 +++
 title = "CEC Warhol - Tri (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-19T00:14:19Z
 
 [Article]

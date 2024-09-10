@@ -1,7 +1,7 @@
 +++
 title = "Bronx, NY (1816 E Gun Hill Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-15T18:34:08Z
 
 [Article]

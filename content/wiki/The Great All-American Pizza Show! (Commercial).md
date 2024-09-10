@@ -1,7 +1,7 @@
 +++
 title = "The Great All-American Pizza Show! (Commercial)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-09T23:19:03Z
 
 [Article]

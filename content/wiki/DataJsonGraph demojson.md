@@ -1,7 +1,7 @@
 +++
 title = "Data:Json:Graph demo.json"
 draft = false
-tags = [ ]
+tags = []
 date = 2020-04-25T21:44:39Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Gigglebee's"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-23T02:40:14Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Newington, NH (30 Fox Run Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-21T15:38:07Z
 
 [Article]

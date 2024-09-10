@@ -1,7 +1,7 @@
 +++
 title = "Articulated Jasper Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T23:14:07Z
 
 [Article]

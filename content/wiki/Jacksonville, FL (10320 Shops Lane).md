@@ -1,7 +1,7 @@
 +++
 title = "Jacksonville, FL (10320 Shops Lane)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-31T14:57:12Z
 
 [Article]

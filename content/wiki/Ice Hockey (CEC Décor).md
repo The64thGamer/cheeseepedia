@@ -1,7 +1,7 @@
 +++
 title = "Ice Hockey (CEC Décor)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-28T21:54:19Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Long Island City, NY (3419 48th St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-17T00:56:32Z
 
 [Article]

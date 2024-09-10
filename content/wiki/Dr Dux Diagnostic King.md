@@ -1,7 +1,7 @@
 +++
 title = "Dr. Dux Diagnostic King"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-02T05:02:43Z
 
 [Article]

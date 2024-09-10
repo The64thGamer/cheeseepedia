@@ -1,7 +1,7 @@
 +++
 title = "The Totally Awesome Kids Show"
 draft = false
-tags = [ ]
+tags = []
 date = 2021-12-16T17:12:52Z
 
 [Article]

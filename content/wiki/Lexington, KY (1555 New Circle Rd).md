@@ -1,7 +1,7 @@
 +++
 title = "Lexington, KY (1555 New Circle Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-11T00:10:40Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Winchester Madam Oink (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-08T23:47:52Z
 
 [Article]

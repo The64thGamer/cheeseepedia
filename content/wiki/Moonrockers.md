@@ -1,7 +1,7 @@
 +++
 title = "Moonrockers"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-26T17:58:13Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "San Diego, CA (3414 College Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T16:37:40Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s House"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-15T23:09:23Z
 
 [Article]

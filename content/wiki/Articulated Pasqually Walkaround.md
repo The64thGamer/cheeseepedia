@@ -1,7 +1,7 @@
 +++
 title = "Articulated Pasqually Walkaround"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-09T23:28:50Z
 
 [Article]

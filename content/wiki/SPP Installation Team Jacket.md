@@ -1,7 +1,7 @@
 +++
 title = "SPP Installation Team Jacket"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-09T15:29:25Z
 
 [Article]

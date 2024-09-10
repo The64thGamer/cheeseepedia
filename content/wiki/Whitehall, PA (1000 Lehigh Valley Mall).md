@@ -1,7 +1,7 @@
 +++
 title = "Whitehall, PA (1000 Lehigh Valley Mall)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-16T21:15:16Z
 
 [Article]

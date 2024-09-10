@@ -1,7 +1,7 @@
 +++
 title = "Standard: Fixture Page"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-15T05:43:56Z
 
 [Article]

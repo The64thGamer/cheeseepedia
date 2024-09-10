@@ -1,7 +1,7 @@
 +++
 title = "Knoxville, TN (8225 Kingston Pike)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-08T20:17:55Z
 
 [Article]

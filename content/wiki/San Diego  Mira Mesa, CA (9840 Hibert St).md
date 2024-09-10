@@ -1,7 +1,7 @@
 +++
 title = "San Diego / Mira Mesa, CA (9840 Hibert St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-22T20:05:17Z
 
 [Article]

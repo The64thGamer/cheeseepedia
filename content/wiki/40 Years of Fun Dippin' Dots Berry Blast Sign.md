@@ -1,7 +1,7 @@
 +++
 title = "40 Years of Fun Dippin' Dots Berry Blast Sign"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-05-25T22:44:14Z
 
 [Article]

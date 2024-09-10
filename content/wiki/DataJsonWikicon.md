@@ -1,7 +1,7 @@
 +++
 title = "Data:Json:Wikicon"
 draft = false
-tags = [ ]
+tags = []
 date = 2020-04-25T21:45:34Z
 
 [Article]

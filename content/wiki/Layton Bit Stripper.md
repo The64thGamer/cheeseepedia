@@ -1,7 +1,7 @@
 +++
 title = "Layton Bit Stripper"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-06T11:22:03Z
 
 [Article]

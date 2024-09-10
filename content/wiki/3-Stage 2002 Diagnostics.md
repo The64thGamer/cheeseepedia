@@ -1,7 +1,7 @@
 +++
 title = "3-Stage 2002 Diagnostics"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-03-16T17:22:24Z
 
 [Article]

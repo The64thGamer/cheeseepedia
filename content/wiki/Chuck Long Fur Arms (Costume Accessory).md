@@ -1,7 +1,7 @@
 +++
 title = "Chuck Long Fur Arms (Costume Accessory)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-29T03:26:13Z
 
 [Article]

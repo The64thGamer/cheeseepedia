@@ -1,7 +1,7 @@
 +++
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-01-04T01:53:24Z
 
 [Article]

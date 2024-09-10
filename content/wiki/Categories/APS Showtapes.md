@@ -1,7 +1,7 @@
 +++
 title = "APS Showtapes"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-18T23:49:54Z
 
 [Article]

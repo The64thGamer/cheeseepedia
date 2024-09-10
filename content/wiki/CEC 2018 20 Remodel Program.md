@@ -1,7 +1,7 @@
 +++
 title = "CEC 2018 2.0 Remodel Program"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-14T22:43:10Z
 
 [Article]

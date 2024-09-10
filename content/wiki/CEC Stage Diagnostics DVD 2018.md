@@ -1,7 +1,7 @@
 +++
 title = "CEC Stage Diagnostics DVD 2018"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-28T20:02:52Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Dublin, CA (7590 Amador Valley Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-29T15:53:53Z
 
 [Article]

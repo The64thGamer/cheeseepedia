@@ -1,7 +1,7 @@
 +++
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-07-30T15:03:43Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "White Settlement, TX (7750 Scott St)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-30T13:58:48Z
 
 [Article]

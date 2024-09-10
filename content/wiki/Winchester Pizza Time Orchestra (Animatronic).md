@@ -1,7 +1,7 @@
 +++
 title = "Winchester Pizza Time Orchestra (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-12T13:49:41Z
 
 [Article]

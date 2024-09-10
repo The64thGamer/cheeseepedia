@@ -1,7 +1,7 @@
 +++
 title = "Pasadena, TX (154 Fairmont Pkwy)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-02-08T16:45:47Z
 
 [Article]

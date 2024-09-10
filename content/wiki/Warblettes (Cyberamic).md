@@ -1,7 +1,7 @@
 +++
 title = "Warblettes (Cyberamic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-07T16:50:00Z
 
 [Article]

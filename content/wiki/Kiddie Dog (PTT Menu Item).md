@@ -1,7 +1,7 @@
 +++
 title = "Kiddie Dog (PTT Menu Item)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-25T00:10:25Z
 
 [Article]

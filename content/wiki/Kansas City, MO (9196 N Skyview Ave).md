@@ -1,7 +1,7 @@
 +++
 title = "Kansas City, MO (9196 N Skyview Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-26T04:28:49Z
 
 [Article]

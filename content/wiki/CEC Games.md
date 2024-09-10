@@ -1,7 +1,7 @@
 +++
 title = "CEC Games"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-07-15T21:30:08Z
 
 [Article]

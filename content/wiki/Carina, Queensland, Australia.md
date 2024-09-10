@@ -1,7 +1,7 @@
 +++
 title = "Carina, Queensland, Australia"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-12T17:22:14Z
 
 [Article]

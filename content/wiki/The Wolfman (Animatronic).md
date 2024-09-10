@@ -1,7 +1,7 @@
 +++
 title = "The Wolfman (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-28T20:54:13Z
 
 [Article]

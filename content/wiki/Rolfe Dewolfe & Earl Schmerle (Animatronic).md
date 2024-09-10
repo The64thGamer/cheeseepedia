@@ -1,7 +1,7 @@
 +++
 title = "Rolfe Dewolfe & Earl Schmerle (Animatronic)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-05-20T15:53:06Z
 
 [Article]

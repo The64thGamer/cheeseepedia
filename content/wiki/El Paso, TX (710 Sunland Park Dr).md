@@ -1,7 +1,7 @@
 +++
 title = "El Paso, TX (710 Sunland Park Dr)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-04-18T21:30:52Z
 
 [Article]

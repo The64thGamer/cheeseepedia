@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Sketch Book"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-30T18:00:08Z
 
 [Article]

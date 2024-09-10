@@ -1,7 +1,7 @@
 +++
 title = "SPP Best Of 1 Kids/Friends"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-06-01T07:40:18Z
 
 [Article]

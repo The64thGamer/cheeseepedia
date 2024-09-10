@@ -1,7 +1,7 @@
 +++
 title = "Studio C Cappa"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-08-30T17:07:24Z
 
 [Article]

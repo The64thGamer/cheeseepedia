@@ -1,7 +1,7 @@
 +++
 title = "Marietta, GA (4340 Roswell Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-03-31T17:53:40Z
 
 [Article]

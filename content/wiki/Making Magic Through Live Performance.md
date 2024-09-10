@@ -1,7 +1,7 @@
 +++
 title = "Making Magic Through Live Performance"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-28T19:34:09Z
 
 [Article]

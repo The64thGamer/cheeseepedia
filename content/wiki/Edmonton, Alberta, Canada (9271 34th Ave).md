@@ -1,7 +1,7 @@
 +++
 title = "Edmonton, Alberta, Canada (9271 34th Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-12-13T08:08:11Z
 
 [Article]

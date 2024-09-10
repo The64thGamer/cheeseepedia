@@ -1,7 +1,7 @@
 +++
 title = "Cincinnati, OH (8801 Colerain Ave)"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-08T01:30:23Z
 
 [Article]

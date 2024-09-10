@@ -1,7 +1,7 @@
 +++
 title = "Spanish Birthday (PTT)"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-03-24T00:34:54Z
 
 [Article]

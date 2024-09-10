@@ -1,7 +1,7 @@
 +++
 title = "Friday Night Neon"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-11T04:54:19Z
 
 [Article]

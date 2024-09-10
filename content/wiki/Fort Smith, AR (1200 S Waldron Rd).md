@@ -1,7 +1,7 @@
 +++
 title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-01-31T23:10:24Z
 
 [Article]

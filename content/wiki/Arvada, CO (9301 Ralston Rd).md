@@ -1,7 +1,7 @@
 +++
 title = "Arvada, CO (9301 Ralston Rd)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-09-24T20:14:49Z
 
 [Article]

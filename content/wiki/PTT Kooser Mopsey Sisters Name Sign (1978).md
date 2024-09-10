@@ -1,7 +1,7 @@
 +++
 title = "PTT Kooser Mopsey Sisters Name Sign (1978)"
 draft = false
-tags = [ ]
+tags = []
 date = 2023-08-05T06:17:12Z
 
 [Article]

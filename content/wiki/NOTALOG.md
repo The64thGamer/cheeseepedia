@@ -1,7 +1,7 @@
 +++
 title = "NOTALOG"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-10-22T20:56:14Z
 
 [Article]

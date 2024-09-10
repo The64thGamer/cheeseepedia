@@ -1,7 +1,7 @@
 +++
 title = "PTT 1981 Remodel"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-09-18T03:12:18Z
 
 [Article]

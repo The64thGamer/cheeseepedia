@@ -1,7 +1,7 @@
 +++
 title = "Dolli Dimples I"
 draft = false
-tags = [ ]
+tags = []
 date = 2022-02-18T07:19:08Z
 
 [Article]

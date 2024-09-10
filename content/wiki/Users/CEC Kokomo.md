@@ -1,7 +1,7 @@
 +++
 title = "CEC Kokomo"
 draft = false
-tags = [ ]
+tags = ["User"]
 date = 2023-08-17T00:52:20Z
 
 [Article]

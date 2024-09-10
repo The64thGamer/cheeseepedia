@@ -1,7 +1,7 @@
 +++
 title = "Backyard Monsters"
 draft = false
-tags = [ ]
+tags = []
 date = 2024-02-15T20:16:30Z
 
 [Article]
