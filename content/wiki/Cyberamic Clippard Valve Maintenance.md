@@ -1,0 +1,18 @@
++++
+title = "Cyberamic Clippard Valve Maintenance"
+draft = false
+tags = [ ]
+
+[Article]
+contributors = ["2600:1017:B4C2:66B9:B43D:350E:1D57:D87A","The 64th Gamer","ShowbizMidwest","47.12.120.189"]
+gallery = []
++++
+How to maintain cyberamic valves
+There’s  two types of valves that cyberamic character’s use clippared and Mac, the first section of this will be how to Maintain the clippared style of valves used on the ptt style of characters. 
+How to identify a bad valves, connect the valves up to air and have 26-30 psi of air going into the valves, track the wires of the valves you wish to test down to the bottom of the valve board and apply 24v to the valves, if the valve is not making a clicking sound it is most likely dead, however if the valves is releasing a small amount of air it or staying activated after power is removed it may just be clogge valve.
+What could be causing a valve to be clogged. 
+There’s two different reasons that could cause a valve to be clogged the exhaust at the top of the valve isn’t able to release. if this is the case remove the muffler from the top ( if the muffler is still attached to the valve ) and clean the inside with a cotton swab. If that doesn’t work the internal of the valve may be clogged. To open the valves twist the silver ring that goes around the valves to the left and holt the top of the valve in place, once the valves is open their should be a thin silver ring and thin disc on the inside, remove both the ring and disc and clear the inside with a paper towel. Now first put the silver ring in and then the “spider disc” back, make sure to have the little bump on the bottom of the disk facing down when reinstalled, close up the valves tightly by turn the ring to the right. If done correctly the valves should work normally, however if the valve is still releasing a small amount of air the valve is going bad and should be replaced. 
+How to replace a valve
+To replace a valve first hold the sop of the valve in place and unscrew the silver ring that surrounds the valve. once the valves is open their should be a thin silver ring and thin disc on the inside, remove the ring and disc and hold on to theses as they will be reused, now follow the wire’s for the valve down to the bottom of the valve board and remove them, while the valves is opened it’s recommended to clean it with a dry paper towel before reassemble, first put the silver ring in and then the “spider disc” back, make sure to have the little bump on the bottom of the disk facing down when reinstalled, now place your new valve in place of the old one and close it by twisting the silver ring that goes around the valves to the right, once closed Solder the two wires to the board in place of where the old valve was. Transfer the muffler from the old valves over to the new one if the muffler is still attached to the old valve. If done correctly the valve should now be replaced!   
+How to replace the seal 
+sometime near the bottom of the valve the seal will go bad a leak to replace this seal take the valves, disc, and ring off as explained prior. No un-screw the valves mount (these usually will get stuck in place from years of use so stick something in one of the three holes if needed to get a good grip on the valves) once the valve mount is removed get something thin and remove the rubber o ring from the bottom, replace the o ring with a new one (the correct o ring can usually comes in a standard o ring kit). once installed reassemble the valve and add air, if done correctly the valves should be leak free!

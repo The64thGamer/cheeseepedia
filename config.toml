@@ -1,0 +1,19 @@
+baseURL = 'http://cheesepedia.org/'
+languageCode = 'en-us'
+title = 'Cheese-E-Pedia'
+theme = 'sixtyth-fortran'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'All Pages'
+pageRef = '/wiki'
+weight = 40

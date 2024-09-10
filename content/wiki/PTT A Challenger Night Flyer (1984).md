@@ -1,0 +1,80 @@
++++
+title = "PTT 'A' Challenger Night Flyer (1984)"
+draft = false
+tags = [ ]
+
+[Article]
+contributors = ["The 64th Gamer"]
+gallery = ["Challenger"]
++++
+{{Generic|image=PTT Challenger Flyer 1.png|desc=Flyer Outside}}
+
+The **_Pizza Time Theatre 'A Challenger Night' Flyer**_ is an advertisement flyer that was sent sometime in February or March of 1984.
+
+The flyer promotes two seperate events at the [[El Monte, CA (4567 Peck Rd)]] Pizza Time Theatre location, that being 'A Challenger Night' on March 10, 1984 at 10pm, and 'The Grand Break' on March 24th. A Challenger Night is a breakdance contest performed by 10 groups or singles for the 1st place prize for $100, and the 2nd place prize of $50. The Grand Break would be a second competition for the 1st and 2nd prize winners to further compete for a $200 grand prize.
+
+##  Transcription ## 
+Page 1<blockquote>Chuck E. Cheese
+
+<u>Presents</u>
+
+' A '
+
+CHALLENGER
+
+NIGHT</blockquote>Page 2<blockquote>CHUCK E. CHEESE
+
+and
+
+Time Less Productions
+
+(In conjunction with David Grant)
+
+PRESENTS:
+
+'A CHALLENGER NIGHT'
+
+10:00 P.M. - Saturday - March 10, 1984
+
+At
+
+4567 No. Peck Road
+
+El Monte, California
+
+Admission : $4.00 at the door
+
+$3.00 with this invitation
+
+$1.00 FREE VIDEO GAME TOKENS with admission
+
+Videos: Michael Jackson's - 'Thriller' & more
+
+(New Wave - R & B - Breakers - Rappers - Scratchmixes</blockquote>Page 3<blockquote>BREAK CONTEST: 1st prize - $100.00
+
+2nd prize - $ 50.00
+
+Sign up at D.J. Booth (1st 10 groups or
+
+singles will compete)
+
+March 24th - 'The Grand Break'
+
+(All prize winners compete for the
+
+$200.00 Grand Prize)
+
+(Bring this invitation for discount!!)</blockquote>Page 4<blockquote>Chuck E. Cheese's 
+
+Pizza Time Theater
+
+4567 NO. PECK ROAD
+
+EL MONTE
+
+PHONE: (818) 350--6881</blockquote>
+
+##  Gallery ## 
+<gallery>
+File:Challenger Night Flyer 2.png|Flyer Inside
+</gallery>
