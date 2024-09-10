@@ -2,6 +2,7 @@
 title = "Galaxy Stage"
 draft = false
 tags = [ ]
+date = 2022-09-15T12:43:05Z
 
 [Article]
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","216.125.34.66","Documentor","Ceclife13","Chuckstar69"]

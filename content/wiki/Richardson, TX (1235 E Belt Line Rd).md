@@ -2,6 +2,7 @@
 title = "Richardson, TX (1235 E Belt Line Rd)"
 draft = false
 tags = [ ]
+date = 2023-02-03T21:25:56Z
 
 [Article]
 contributors = ["ChuckECool","2600:4040:59F9:8000:4C33:DCA8:8F23:909F","Midwestretail","ThatBoiCydalan","Cheeseclassic","Stripes","Jazzdancr40"]

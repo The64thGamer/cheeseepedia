@@ -2,6 +2,7 @@
 title = "Fredericksburg, VA (1280 Central Park Blvd)"
 draft = false
 tags = [ ]
+date = 2022-10-17T15:59:48Z
 
 [Article]
 contributors = ["CECBowlingGreen","216.125.34.66","ChuckECool","CEC Tinley","47.17.236.200","Noahrbxt","2600:1700:B6B0:1790:DD25:B858:FAC0:3E84","Captain Cheese IV","Cheeseclassic"]

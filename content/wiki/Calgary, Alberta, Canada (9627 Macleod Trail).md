@@ -2,6 +2,7 @@
 title = "Calgary, Alberta, Canada (9627 Macleod Trail)"
 draft = false
 tags = [ ]
+date = 2022-12-30T23:49:06Z
 
 [Article]
 contributors = ["Rexburg090","RedaCEC","2603:8001:CA01:7340:B8E6:3CB3:C7B8:95F0","CEC Tinley","Douggaming","Cheeseclassic"]

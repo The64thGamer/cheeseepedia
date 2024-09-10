@@ -2,6 +2,7 @@
 title = "Arcade Games"
 draft = false
 tags = [ ]
+date = 2021-11-30T21:55:11Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","CEC Denver","BurgersNuggs445","JamesLemony","ThatBoiCydalan","CacoQueen"]

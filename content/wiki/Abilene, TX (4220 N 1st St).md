@@ -2,6 +2,7 @@
 title = "Abilene, TX (4220 N 1st St)"
 draft = false
 tags = [ ]
+date = 2023-08-25T00:05:39Z
 
 [Article]
 contributors = ["CEC Kokomo","CEC Tinley","AstridMascotFan2005"]

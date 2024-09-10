@@ -2,6 +2,7 @@
 title = "San Antonio, TX (238 SW Military Dr)"
 draft = false
 tags = [ ]
+date = 2023-02-01T20:28:17Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","CEC Tinley","Stripes","Gostapua210"]

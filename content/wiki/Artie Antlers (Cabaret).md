@@ -2,6 +2,7 @@
 title = "Artie Antlers (Cabaret)"
 draft = false
 tags = [ ]
+date = 2024-05-21T16:03:39Z
 
 [Article]
 contributors = ["CECMentor","The 64th Gamer","Frosty126"]

@@ -2,6 +2,7 @@
 title = "PTT Training Center & Test Kitchen"
 draft = false
 tags = [ ]
+date = 2022-08-26T05:08:43Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Mishawaka, IN (822 W McKinley Ave)"
 draft = false
 tags = [ ]
+date = 2022-10-08T15:37:40Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","ShowbizMidwest","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Cy's Junk at School"]

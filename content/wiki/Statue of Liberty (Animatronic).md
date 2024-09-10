@@ -2,6 +2,7 @@
 title = "Statue of Liberty (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-08-27T18:19:41Z
 
 [Article]
 contributors = ["The 64th Gamer"]

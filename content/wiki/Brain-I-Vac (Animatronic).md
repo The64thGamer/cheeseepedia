@@ -2,6 +2,7 @@
 title = "Brain-I-Vac (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-11-04T03:20:30Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

@@ -2,6 +2,7 @@
 title = "Meriden, CT (533 S Broad St)"
 draft = false
 tags = [ ]
+date = 2023-07-29T15:41:17Z
 
 [Article]
 contributors = ["CorrectorMan"]

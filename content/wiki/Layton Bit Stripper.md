@@ -2,6 +2,7 @@
 title = "Layton Bit Stripper"
 draft = false
 tags = [ ]
+date = 2022-08-06T11:22:03Z
 
 [Article]
 contributors = ["Himitsu","Ls2018-1","2603:6011:AC00:A50:D87E:6765:9A50:675","Mr.Noodles","The 64th Gamer","CECMentor"]

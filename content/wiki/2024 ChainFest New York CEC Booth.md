@@ -2,6 +2,7 @@
 title = "2024 ChainFest New York CEC Booth"
 draft = false
 tags = [ ]
+date = 2024-08-09T02:53:18Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Villa Park, IL (200 W Roosevelt Rd)"
 draft = false
 tags = [ ]
+date = 2022-10-04T23:59:06Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FF:B100:9F7D:37CB:FF44:1C51","ShowbizMidwest","CEC Tinley"]

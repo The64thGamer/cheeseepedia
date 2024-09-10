@@ -2,6 +2,7 @@
 title = "Dook Larue (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-20T16:55:57Z
 
 [Article]
 contributors = ["CECMentor","Stripes"]

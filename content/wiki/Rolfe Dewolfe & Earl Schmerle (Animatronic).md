@@ -2,6 +2,7 @@
 title = "Rolfe Dewolfe & Earl Schmerle (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-20T15:53:06Z
 
 [Article]
 contributors = ["CECMentor","SuperCreamPiper2008","Thecheesymanfromschool","Stripes"]

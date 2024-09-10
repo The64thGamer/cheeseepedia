@@ -2,6 +2,7 @@
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-19T22:23:35Z
 
 [Article]
 contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","216.125.34.66","The 64th Gamer"]

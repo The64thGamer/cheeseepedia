@@ -2,6 +2,7 @@
 title = "Working For A Living"
 draft = false
 tags = [ ]
+date = 2022-08-01T07:00:56Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer"]

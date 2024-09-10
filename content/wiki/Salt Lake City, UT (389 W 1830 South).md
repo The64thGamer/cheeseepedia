@@ -2,6 +2,7 @@
 title = "Salt Lake City, UT (389 W 1830 South)"
 draft = false
 tags = [ ]
+date = 2024-06-24T22:09:16Z
 
 [Article]
 contributors = ["Cheeseslicez","AstridMascotFan2005","CECswag2009","ThatBoiCydalan"]

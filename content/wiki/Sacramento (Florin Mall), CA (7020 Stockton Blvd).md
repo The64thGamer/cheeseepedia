@@ -2,6 +2,7 @@
 title = "Sacramento (Florin Mall), CA (7020 Stockton Blvd)"
 draft = false
 tags = [ ]
+date = 2023-03-03T21:29:18Z
 
 [Article]
 contributors = ["Rexburg090","ChuckECool","CEC Tinley","The 64th Gamer","FileFickle","AstridMascotFan2005","CECswag2009"]

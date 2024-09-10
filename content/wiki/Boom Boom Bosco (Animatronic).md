@@ -2,6 +2,7 @@
 title = "Boom Boom Bosco (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-29T21:03:47Z
 
 [Article]
 contributors = ["FileFickle"]

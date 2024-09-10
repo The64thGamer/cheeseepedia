@@ -2,6 +2,7 @@
 title = "Weber Bicentennial Time Machine Show"
 draft = false
 tags = [ ]
+date = 2024-02-21T08:10:14Z
 
 [Article]
 contributors = ["Lelmaster"]

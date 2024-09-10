@@ -2,6 +2,7 @@
 title = "El Cerrito, CA (10 El Cerrito Plaza)"
 draft = false
 tags = [ ]
+date = 2024-05-12T06:57:35Z
 
 [Article]
 contributors = ["ThatBoiCydalan"]

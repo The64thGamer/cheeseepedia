@@ -2,6 +2,7 @@
 title = "Chuck Jan '04 (Costume Outfit)"
 draft = false
 tags = [ ]
+date = 2022-07-13T07:33:45Z
 
 [Article]
 contributors = ["Showtimeinc","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Dearborn, MI (24399 Michigan Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-08T17:06:45Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","ChuckfeldStan","Stripes"]

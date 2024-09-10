@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Hicksville Grand Re-Opening Show"
 draft = false
 tags = [ ]
+date = 2024-07-20T00:59:48Z
 
 [Article]
 contributors = ["Documentor","Dame0824"]

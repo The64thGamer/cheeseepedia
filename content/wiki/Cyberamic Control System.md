@@ -2,6 +2,7 @@
 title = "Cyberamic Control System"
 draft = false
 tags = [ ]
+date = 2022-07-28T09:03:56Z
 
 [Article]
 contributors = ["The 64th Gamer","Palazzol"]

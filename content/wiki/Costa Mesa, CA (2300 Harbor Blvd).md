@@ -2,6 +2,7 @@
 title = "Costa Mesa, CA (2300 Harbor Blvd)"
 draft = false
 tags = [ ]
+date = 2023-07-08T23:56:53Z
 
 [Article]
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:F15A:A411:F711:2B8A","CEC Tinley","ThatBoiCydalan","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]

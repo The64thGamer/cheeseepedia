@@ -2,6 +2,7 @@
 title = "Northridge, CA (8425 Reseda Blvd)"
 draft = false
 tags = [ ]
+date = 2022-10-17T17:21:33Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","Rexburg090","Jonn","CorrectorMan","ThatBoiCydalan","47.17.236.200","The 64th Gamer","64.150.3.152","Cheeseclassic","Documentor","CoolerDude","ShowbizMidwest","AstridMascotFan2005","PizzaEntertainmentFanX","CECMentor","Cecanddisneyfan2004","Caydenpedia","CEC1988"]

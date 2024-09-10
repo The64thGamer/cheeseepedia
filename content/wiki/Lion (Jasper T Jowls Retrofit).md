@@ -2,6 +2,7 @@
 title = "Lion (Jasper T. Jowls Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-07-14T22:30:14Z
 
 [Article]
 contributors = ["StudioC","2603:9000:A500:1DBD:39A1:BCF1:A5A5:D5F6","Saan1ty","PizzaEntertainmentFanX","BenTrainFan2000"]

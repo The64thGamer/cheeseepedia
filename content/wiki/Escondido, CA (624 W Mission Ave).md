@@ -2,6 +2,7 @@
 title = "Escondido, CA (624 W Mission Ave)"
 draft = false
 tags = [ ]
+date = 2023-03-27T21:46:11Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]

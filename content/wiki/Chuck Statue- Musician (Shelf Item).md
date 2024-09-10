@@ -2,6 +2,7 @@
 title = "Chuck Statue- Musician (Shelf Item)"
 draft = false
 tags = [ ]
+date = 2023-07-10T19:33:42Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Creative Engineering Original Company Building"
 draft = false
 tags = [ ]
+date = 2022-02-20T19:46:19Z
 
 [Article]
 contributors = ["The 64th Gamer"]

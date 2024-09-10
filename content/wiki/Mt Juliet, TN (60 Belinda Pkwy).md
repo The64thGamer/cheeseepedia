@@ -2,6 +2,7 @@
 title = "Mt Juliet, TN (60 Belinda Pkwy)"
 draft = false
 tags = [ ]
+date = 2022-08-30T14:46:45Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","ThatBoiCydalan","SuperCreamPiper2008","AstridMascotFan2005"]

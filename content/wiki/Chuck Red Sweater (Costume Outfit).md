@@ -2,6 +2,7 @@
 title = "Chuck Red Sweater (Costume Outfit)"
 draft = false
 tags = [ ]
+date = 2022-10-16T22:59:46Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

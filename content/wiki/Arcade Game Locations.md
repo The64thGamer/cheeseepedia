@@ -2,6 +2,7 @@
 title = "Arcade Game Locations"
 draft = false
 tags = [ ]
+date = 2021-12-02T16:54:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

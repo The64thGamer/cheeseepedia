@@ -2,6 +2,7 @@
 title = "Category talk:Animatronic Control Hardware & Software"
 draft = false
 tags = [ ]
+date = 2022-08-06T10:11:43Z
 
 [Article]
 contributors = ["Himitsu"]

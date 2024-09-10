@@ -2,6 +2,7 @@
 title = "Warwick, RI (1960 Post Rd)"
 draft = false
 tags = [ ]
+date = 2023-07-07T02:02:01Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]

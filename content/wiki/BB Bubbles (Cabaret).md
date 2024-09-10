@@ -2,6 +2,7 @@
 title = "B.B. Bubbles (Cabaret)"
 draft = false
 tags = [ ]
+date = 2022-09-22T09:01:15Z
 
 [Article]
 contributors = ["ChuckE1352","JamesLemony","The 64th Gamer","PizzaEntertainmentFanX","CECMentor"]

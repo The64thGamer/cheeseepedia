@@ -2,6 +2,7 @@
 title = "CEC Warhol - Quad (CEC Décor)"
 draft = false
 tags = [ ]
+date = 2023-07-19T09:09:14Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

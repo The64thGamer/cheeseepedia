@@ -2,6 +2,7 @@
 title = "Studio C Cappa Prototype"
 draft = false
 tags = [ ]
+date = 2022-09-15T20:12:28Z
 
 [Article]
 contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","Documentor","BurgersNuggs445"]

@@ -2,6 +2,7 @@
 title = "Cupertino, CA (975 S De Anza Blvd)"
 draft = false
 tags = [ ]
+date = 2023-08-01T15:33:35Z
 
 [Article]
 contributors = ["CorrectorMan","Jaxonia"]

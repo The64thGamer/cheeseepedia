@@ -2,6 +2,7 @@
 title = "San Diego, CA (3146 Sports Arena Blvd)"
 draft = false
 tags = [ ]
+date = 2022-09-13T18:23:44Z
 
 [Article]
 contributors = ["Rileypaulson","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:1453:805E:C9FE:D729","209.129.28.15","76.167.210.169","CEC Tinley","TheChuckECheeseGuy","AstridMascotFan2005"]

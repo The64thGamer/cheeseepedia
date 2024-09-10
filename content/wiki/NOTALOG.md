@@ -2,6 +2,7 @@
 title = "NOTALOG"
 draft = false
 tags = [ ]
+date = 2022-10-22T20:56:14Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445","CEC Tinley","GuestIsJustBest","Stripes"]

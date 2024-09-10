@@ -2,6 +2,7 @@
 title = "Danbury, CT (20 Backus Ave)"
 draft = false
 tags = [ ]
+date = 2023-04-28T17:29:13Z
 
 [Article]
 contributors = ["Midwestretail","CECFan2023","Rexburg090","CorrectorMan","ThatBoiCydalan","47.17.236.200"]

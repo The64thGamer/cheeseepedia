@@ -2,6 +2,7 @@
 title = "Kelso, WA (351 Three Rivers Dr)"
 draft = false
 tags = [ ]
+date = 2023-04-21T15:28:10Z
 
 [Article]
 contributors = ["Midwestretail","Rexburg090","ThatBoiCydalan"]

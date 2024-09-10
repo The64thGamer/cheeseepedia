@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese CST 15' Alternate Plush"
 draft = false
 tags = [ ]
+date = 2023-04-22T02:48:33Z
 
 [Article]
 contributors = ["ToadEatSock"]

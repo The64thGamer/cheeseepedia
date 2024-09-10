@@ -2,6 +2,7 @@
 title = "Beaumont, TX (4180 N Dowlen Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-30T01:48:39Z
 
 [Article]
 contributors = ["2600:100D:B153:B9EA:F0D1:3E3A:2E78:B201","ThatBoiCydalan"]

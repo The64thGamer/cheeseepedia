@@ -2,6 +2,7 @@
 title = "Magic Night"
 draft = false
 tags = [ ]
+date = 2023-08-07T20:14:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]

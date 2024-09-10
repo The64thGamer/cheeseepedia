@@ -2,6 +2,7 @@
 title = "Pasqually"
 draft = false
 tags = [ ]
+date = 2024-05-23T02:42:56Z
 
 [Article]
 contributors = ["Animatronicbrainrot","CECMentor"]

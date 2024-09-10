@@ -2,6 +2,7 @@
 title = "York, PA (351 Loucks Rd)"
 draft = false
 tags = [ ]
+date = 2023-06-27T01:22:24Z
 
 [Article]
 contributors = ["CorrectorMan","ThatBoiCydalan"]

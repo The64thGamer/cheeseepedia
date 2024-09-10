@@ -2,6 +2,7 @@
 title = "Category talk:Chuck E. Cheese's Store List"
 draft = false
 tags = [ ]
+date = 2022-10-10T19:33:32Z
 
 [Article]
 contributors = ["CECBowlingGreen","Stripes","ChuckEPediaIsTheBest!"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 1 2020 (Covid Upate)"
 draft = false
 tags = [ ]
+date = 2022-02-22T02:36:17Z
 
 [Article]
 contributors = ["Documentor"]

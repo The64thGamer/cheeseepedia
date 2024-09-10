@@ -2,6 +2,7 @@
 title = "Moon (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-08-31T17:57:32Z
 
 [Article]
 contributors = ["CECBowlingGreen","2607:9880:1BF8:100:D92C:9888:F80C:291B","Rexburg090","ShowbizMidwest","CEC Tinley","Documentor","2607:9880:1BF7:FFCB:B9C2:88C7:4F9E:9E85","CECMentor","AstridMascotFan2005"]

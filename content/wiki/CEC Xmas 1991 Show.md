@@ -2,6 +2,7 @@
 title = "CEC Xmas 1991 Show"
 draft = false
 tags = [ ]
+date = 2022-07-16T00:03:08Z
 
 [Article]
 contributors = ["DerekCat","Montfortdog"]

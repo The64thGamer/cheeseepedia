@@ -2,6 +2,7 @@
 title = "Winchester Chuck E. Cheese V1 (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-06T02:46:23Z
 
 [Article]
 contributors = ["The 64th Gamer","24.104.71.210","KPIZZA03","208.103.68.197","PizzaEntertainmentFanX","CECMentor"]

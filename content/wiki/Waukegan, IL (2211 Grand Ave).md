@@ -2,6 +2,7 @@
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
 tags = [ ]
+date = 2023-03-08T15:26:20Z
 
 [Article]
 contributors = ["ShowbizMidwest","2600:1004:B18F:1005:A935:501B:2CAD:B83C","Rexburg090","CEC Tinley"]

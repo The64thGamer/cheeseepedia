@@ -2,6 +2,7 @@
 title = "Color Call-out Monitor System"
 draft = false
 tags = [ ]
+date = 2023-08-02T00:53:25Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Chuck E's Magical Holiday Celebration"
 draft = false
 tags = [ ]
+date = 2022-08-01T19:10:01Z
 
 [Article]
 contributors = ["Ceclife13"]

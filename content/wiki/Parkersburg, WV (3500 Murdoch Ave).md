@@ -2,6 +2,7 @@
 title = "Parkersburg, WV (3500 Murdoch Ave)"
 draft = false
 tags = [ ]
+date = 2023-04-25T18:55:51Z
 
 [Article]
 contributors = ["ChuckECool","Emcaacme","Midwestretail","Rexburg090","Saan1ty","CEC Tinley"]

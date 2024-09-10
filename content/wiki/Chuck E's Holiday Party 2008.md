@@ -2,6 +2,7 @@
 title = "Chuck E's Holiday Party 2008"
 draft = false
 tags = [ ]
+date = 2021-12-10T14:06:50Z
 
 [Article]
 contributors = ["The 64th Gamer","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","Documentor","AstridMascotFan2005"]

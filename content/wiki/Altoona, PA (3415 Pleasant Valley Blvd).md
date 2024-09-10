@@ -2,6 +2,7 @@
 title = "Altoona, PA (3415 Pleasant Valley Blvd)"
 draft = false
 tags = [ ]
+date = 2022-10-16T23:07:46Z
 
 [Article]
 contributors = ["RockAfire Alex","Rexburg090","2600:4040:59FC:D100:7E92:3569:DE4F:A81F","ShowbizMidwest","RedaCEC","ChuckEPediaIsTheBest!","66.215.38.213","Bowling for Cheese","ChuckfeldStan","ThatBoiCydalan","BurgersNuggs445","Icantbelieveitsnotbutter","Chez","Aubreemasterson","SuperCreamPiper2008","AstridMascotFan2005","Cy's Junk at School","Cecfan15WantsRetromation","ConceptUnification2.0","Documentor","The 64th Gamer","CECMentor","Caydenpedia","UltimatelyFun"]

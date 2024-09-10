@@ -2,6 +2,7 @@
 title = "'Chuck E. Cheese's Pizza' - Letters / Logo (SPT Exterior Signage)"
 draft = false
 tags = [ ]
+date = 2024-08-22T00:50:45Z
 
 [Article]
 contributors = ["CEC1988"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese’s Nerf Stress Foot"
 draft = false
 tags = [ ]
+date = 2022-12-07T23:20:02Z
 
 [Article]
 contributors = ["Ceclife13"]

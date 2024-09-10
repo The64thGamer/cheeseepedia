@@ -2,6 +2,7 @@
 title = "Senior Citizens"
 draft = false
 tags = [ ]
+date = 2023-08-07T20:18:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

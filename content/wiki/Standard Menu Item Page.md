@@ -2,6 +2,7 @@
 title = "Standard: Menu Item Page"
 draft = false
 tags = [ ]
+date = 2023-07-28T05:39:22Z
 
 [Article]
 contributors = ["The 64th Gamer"]

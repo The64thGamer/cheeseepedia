@@ -2,6 +2,7 @@
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
 tags = [ ]
+date = 2022-08-04T03:27:06Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]

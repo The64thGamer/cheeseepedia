@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Evergreen Show 2022 (August Update)"
 draft = false
 tags = [ ]
+date = 2022-08-26T16:29:13Z
 
 [Article]
 contributors = ["Documentor","Bowling for Cheese","The 64th Gamer","CEC Denver","Cy's Junk at School"]

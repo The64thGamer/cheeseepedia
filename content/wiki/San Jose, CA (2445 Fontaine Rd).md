@@ -2,6 +2,7 @@
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
 tags = [ ]
+date = 2022-08-21T15:39:26Z
 
 [Article]
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]

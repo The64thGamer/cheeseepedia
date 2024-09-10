@@ -2,6 +2,7 @@
 title = "Beaverton, OR (11753 SW Beaverton Hillsdale)"
 draft = false
 tags = [ ]
+date = 2023-07-26T18:03:07Z
 
 [Article]
 contributors = ["CorrectorMan","McNugget","The 64th Gamer"]

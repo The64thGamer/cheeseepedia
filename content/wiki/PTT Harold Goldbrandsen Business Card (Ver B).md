@@ -2,6 +2,7 @@
 title = "PTT Harold Goldbrandsen Business Card (Ver. B)"
 draft = false
 tags = [ ]
+date = 2023-04-21T16:59:11Z
 
 [Article]
 contributors = ["The 64th Gamer"]

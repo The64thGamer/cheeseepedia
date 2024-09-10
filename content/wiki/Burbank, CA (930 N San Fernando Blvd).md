@@ -2,6 +2,7 @@
 title = "Burbank, CA (930 N San Fernando Blvd)"
 draft = false
 tags = [ ]
+date = 2023-07-10T22:24:10Z
 
 [Article]
 contributors = ["Chuckstar69","CorrectorMan","ThatBoiCydalan","CEC1988","Bunbunboy8"]

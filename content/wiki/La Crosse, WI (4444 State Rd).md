@@ -2,6 +2,7 @@
 title = "La Crosse, WI (4444 State Rd)"
 draft = false
 tags = [ ]
+date = 2023-04-19T19:22:53Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","47.17.236.200","ThatBoiCydalan","66.250.190.24","John95","AstridMascotFan2005"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"
 draft = false
 tags = [ ]
+date = 2023-04-22T02:50:04Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley"]

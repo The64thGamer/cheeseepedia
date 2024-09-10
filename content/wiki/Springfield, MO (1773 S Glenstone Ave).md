@@ -2,6 +2,7 @@
 title = "Springfield, MO (1773 S Glenstone Ave)"
 draft = false
 tags = [ ]
+date = 2023-08-04T01:12:05Z
 
 [Article]
 contributors = ["CorrectorMan","Chez"]

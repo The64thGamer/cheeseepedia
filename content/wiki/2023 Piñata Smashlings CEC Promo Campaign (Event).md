@@ -2,6 +2,7 @@
 title = "2023 Piñata Smashlings CEC Promo Campaign (Event)"
 draft = false
 tags = [ ]
+date = 2023-10-08T17:24:15Z
 
 [Article]
 contributors = ["The 64th Gamer","CoolerDude"]

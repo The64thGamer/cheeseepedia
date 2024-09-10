@@ -2,6 +2,7 @@
 title = "Sandy, UT (10535 So. State St)"
 draft = false
 tags = [ ]
+date = 2023-01-28T22:52:27Z
 
 [Article]
 contributors = ["BurgersNuggs445","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ThatBoiCydalan","Rexburg090","CEC Tinley","CorrectorMan","Tux Chuck","TailsFan628","AstridMascotFan2005"]

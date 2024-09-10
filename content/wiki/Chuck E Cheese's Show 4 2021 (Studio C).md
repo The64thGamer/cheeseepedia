@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 4 2021 (Studio C)"
 draft = false
 tags = [ ]
+date = 2021-12-07T00:59:35Z
 
 [Article]
 contributors = ["Documentor","Himitsu","Dame868","Ceclife13","The 64th Gamer"]

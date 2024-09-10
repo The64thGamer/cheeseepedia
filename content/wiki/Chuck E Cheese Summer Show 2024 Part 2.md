@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Summer Show 2024 Part 2"
 draft = false
 tags = [ ]
+date = 2024-07-20T03:10:35Z
 
 [Article]
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]

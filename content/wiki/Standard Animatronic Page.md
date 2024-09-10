@@ -2,6 +2,7 @@
 title = "Standard: Animatronic Page"
 draft = false
 tags = [ ]
+date = 2023-05-30T19:18:16Z
 
 [Article]
 contributors = ["BurgersNuggs445","The 64th Gamer"]

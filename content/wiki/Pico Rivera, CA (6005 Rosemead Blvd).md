@@ -2,6 +2,7 @@
 title = "Pico Rivera, CA (6005 Rosemead Blvd)"
 draft = false
 tags = [ ]
+date = 2023-01-27T22:39:08Z
 
 [Article]
 contributors = ["ChuckECool","Saan1ty","Rexburg090","Caydenpedia","CEC1988","Cheeseclassic","CoolerDude","Showb1zlov3r"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese International Show 1, 2023"
 draft = false
 tags = [ ]
+date = 2023-01-12T18:04:58Z
 
 [Article]
 contributors = ["Documentor","Showbiz Pizza International"]

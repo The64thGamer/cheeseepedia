@@ -2,6 +2,7 @@
 title = "Christmas 1983"
 draft = false
 tags = [ ]
+date = 2023-08-07T03:24:02Z
 
 [Article]
 contributors = ["The 64th Gamer"]

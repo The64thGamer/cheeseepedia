@@ -2,6 +2,7 @@
 title = "Chuck E.'s Play Band"
 draft = false
 tags = [ ]
+date = 2023-01-13T19:29:28Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!"]

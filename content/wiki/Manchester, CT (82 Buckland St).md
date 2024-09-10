@@ -2,6 +2,7 @@
 title = "Manchester, CT (82 Buckland St)"
 draft = false
 tags = [ ]
+date = 2023-01-05T23:10:16Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FC:D100:C1F2:3ADD:2F05:25C2","216.125.34.66","Harchambeault2026","Cheeseclassic","Jaxonia"]

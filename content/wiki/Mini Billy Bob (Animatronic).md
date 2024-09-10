@@ -2,6 +2,7 @@
 title = "Mini Billy Bob (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-11-05T05:12:04Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley","GallaRBX2"]

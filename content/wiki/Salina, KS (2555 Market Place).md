@@ -2,6 +2,7 @@
 title = "Salina, KS (2555 Market Place)"
 draft = false
 tags = [ ]
+date = 2023-12-22T21:59:13Z
 
 [Article]
 contributors = ["Cheeseclassic","The 64th Gamer"]

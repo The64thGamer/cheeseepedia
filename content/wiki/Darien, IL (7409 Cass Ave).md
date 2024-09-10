@@ -2,6 +2,7 @@
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
 tags = [ ]
+date = 2022-07-10T19:16:38Z
 
 [Article]
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]

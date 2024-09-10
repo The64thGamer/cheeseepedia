@@ -2,6 +2,7 @@
 title = "1994/1995 Basketball Magazine Poster"
 draft = false
 tags = [ ]
+date = 2022-07-15T02:54:30Z
 
 [Article]
 contributors = ["ArtieAntlers","The 64th Gamer"]

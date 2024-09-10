@@ -2,6 +2,7 @@
 title = "Foxy Colleen I"
 draft = false
 tags = [ ]
+date = 2023-08-05T18:52:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

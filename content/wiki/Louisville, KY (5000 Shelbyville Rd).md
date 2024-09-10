@@ -2,6 +2,7 @@
 title = "Louisville, KY (5000 Shelbyville Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-15T14:03:36Z
 
 [Article]
 contributors = ["Midwestretail","CEC Tinley","Rexburg090","CEC Knoxville"]

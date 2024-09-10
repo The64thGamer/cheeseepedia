@@ -2,6 +2,7 @@
 title = "Lynnwood, WA (3717 196th St Suite 100)"
 draft = false
 tags = [ ]
+date = 2022-08-04T21:01:41Z
 
 [Article]
 contributors = ["RPCEC","Rexburg090","BurgersNuggs445","2601:601:9C00:2F00:9C96:A6ED:38FA:77E5","ShowbizMidwest","CorrectorMan","70.161.136.174","ThatBoiCydalan","CorrectorManBackup","Documentor","2601:601:8681:3C90:3C3A:42E8:651:C038","Ceclife13","ChuckfeldStan","Midwestretail","JKC5","74.82.228.91","2601:601:8783:5B10:A563:E33B:15C4:304D","The ChuckSter","TheRealWFan","2601:601:9C00:9490:547E:D076:77B8:C865","Caydenpedia","CECMentor","AstridMascotFan2005"]

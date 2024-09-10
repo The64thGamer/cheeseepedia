@@ -2,6 +2,7 @@
 title = "Bad Data"
 draft = false
 tags = [ ]
+date = 2022-01-07T23:11:58Z
 
 [Article]
 contributors = ["The 64th Gamer","Frosty126"]

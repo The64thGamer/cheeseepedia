@@ -2,6 +2,7 @@
 title = "Saginaw, MI (5105 Bay Rd)"
 draft = false
 tags = [ ]
+date = 2023-02-02T21:03:26Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","Stripes","TommyPickles"]

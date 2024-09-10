@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Play-N-Place"
 draft = false
 tags = [ ]
+date = 2023-02-20T20:37:14Z
 
 [Article]
 contributors = ["JamesLemony","BurgersNuggs445","CEC Tinley"]

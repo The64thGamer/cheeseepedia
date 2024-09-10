@@ -2,6 +2,7 @@
 title = "Alexandria, LA (1725 Metro Dr)"
 draft = false
 tags = [ ]
+date = 2023-02-06T16:51:44Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisneyfan2004","Thecheesymanfromschool","The 64th Gamer","AstridMascotFan2005"]

@@ -2,6 +2,7 @@
 title = "Beach Bear (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-04-09T03:40:41Z
 
 [Article]
 contributors = ["The 64th Gamer","2601:406:4100:F180:24E6:DD36:BF9D:8F3","CEC Tinley","Cy's Junk at School","Animatronicbrainrot","CECMentor","Livelycheese","Stripes"]

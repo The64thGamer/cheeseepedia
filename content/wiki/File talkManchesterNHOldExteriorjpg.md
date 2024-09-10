@@ -2,6 +2,7 @@
 title = "File talk:ManchesterNHOldExterior.jpg"
 draft = false
 tags = [ ]
+date = 2023-01-09T17:19:08Z
 
 [Article]
 contributors = ["ChuckECool"]

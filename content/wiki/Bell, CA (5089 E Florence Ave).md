@@ -2,6 +2,7 @@
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
 tags = [ ]
+date = 2023-01-27T21:09:33Z
 
 [Article]
 contributors = ["ChuckECool","47.149.242.216","ShowbizMidwest","CEC Tinley","Rexburg090","Cheeseclassic","Polykirisame","Chez"]

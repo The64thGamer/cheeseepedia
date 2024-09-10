@@ -2,6 +2,7 @@
 title = "Warblettes (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-09-07T16:50:00Z
 
 [Article]
 contributors = ["CECBowlingGreen","2600:387:B:7:0:0:0:48","CECMentor"]

@@ -2,6 +2,7 @@
 title = "Streamwood, IL (1000 S Barrington Rd)"
 draft = false
 tags = [ ]
+date = 2023-07-26T23:17:36Z
 
 [Article]
 contributors = ["CorrectorMan"]

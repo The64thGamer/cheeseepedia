@@ -2,6 +2,7 @@
 title = "Stage Variations"
 draft = false
 tags = [ ]
+date = 2021-11-30T17:41:40Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445","Ceclife13","Emcaacme","CECBowlingGreen","Documentor","Jaxon11","RedaCEC","ChuckEPediaIsTheBest!","Pasquallytheplumber","BigCtheDataFinder"]

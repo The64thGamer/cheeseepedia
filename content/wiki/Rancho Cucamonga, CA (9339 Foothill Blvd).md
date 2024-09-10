@@ -2,6 +2,7 @@
 title = "Rancho Cucamonga, CA (9339 Foothill Blvd)"
 draft = false
 tags = [ ]
+date = 2023-10-04T17:10:02Z
 
 [Article]
 contributors = ["ChuckECool","The 64th Gamer","CEC Tinley","Snowbobsuperboi","SuperCreamPiper2008","CEC1988"]

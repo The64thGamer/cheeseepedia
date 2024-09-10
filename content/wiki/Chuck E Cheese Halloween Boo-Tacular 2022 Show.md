@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Halloween Boo-Tacular 2022 Show"
 draft = false
 tags = [ ]
+date = 2022-09-13T22:09:27Z
 
 [Article]
 contributors = ["Documentor","Destinationimagination95","Showbiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","70.161.122.232","The 64th Gamer","GallaRBX2"]

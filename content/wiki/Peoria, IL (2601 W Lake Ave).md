@@ -2,6 +2,7 @@
 title = "Peoria, IL (2601 W Lake Ave)"
 draft = false
 tags = [ ]
+date = 2023-05-24T21:17:46Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan"]

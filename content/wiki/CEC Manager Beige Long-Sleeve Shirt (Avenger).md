@@ -2,6 +2,7 @@
 title = "CEC Manager Beige Long-Sleeve Shirt (Avenger)"
 draft = false
 tags = [ ]
+date = 2023-03-31T19:58:31Z
 
 [Article]
 contributors = ["The 64th Gamer"]

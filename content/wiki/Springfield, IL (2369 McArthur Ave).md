@@ -2,6 +2,7 @@
 title = "Springfield, IL (2369 McArthur Ave)"
 draft = false
 tags = [ ]
+date = 2023-01-25T04:52:25Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","Cecbird","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Tux Chuck","The 64th Gamer","Livelycheese","CECMentor","Veronancy","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","OMMEnterainment"]

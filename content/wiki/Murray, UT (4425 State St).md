@@ -2,6 +2,7 @@
 title = "Murray, UT (4425 State St)"
 draft = false
 tags = [ ]
+date = 2023-08-04T22:42:42Z
 
 [Article]
 contributors = ["CorrectorMan","SuperCreamPiper2008","Cheeseslicez"]

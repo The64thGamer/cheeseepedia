@@ -2,6 +2,7 @@
 title = "Newbie editor"
 draft = false
 tags = [ ]
+date = 2024-01-17T20:17:01Z
 
 [Article]
 contributors = ["Newbie editor"]

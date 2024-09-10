@@ -2,6 +2,7 @@
 title = "Site Guidelines & Rules"
 draft = false
 tags = [ ]
+date = 2021-12-10T10:14:16Z
 
 [Article]
 contributors = ["The 64th Gamer","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2"]

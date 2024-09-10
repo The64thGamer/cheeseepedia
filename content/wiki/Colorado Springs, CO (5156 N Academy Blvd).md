@@ -2,6 +2,7 @@
 title = "Colorado Springs, CO (5156 N Academy Blvd)"
 draft = false
 tags = [ ]
+date = 2023-05-03T18:48:28Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090"]

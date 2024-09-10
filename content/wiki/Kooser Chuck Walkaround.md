@@ -2,6 +2,7 @@
 title = "Kooser Chuck Walkaround"
 draft = false
 tags = [ ]
+date = 2022-12-11T06:22:53Z
 
 [Article]
 contributors = ["Jaxon11","RessiduePezzzado","NoName2000","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Denton, TX (2307 I-35E)"
 draft = false
 tags = [ ]
+date = 2022-12-28T18:33:14Z
 
 [Article]
 contributors = ["JamesLemony","Rexburg090"]

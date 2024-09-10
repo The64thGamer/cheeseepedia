@@ -2,6 +2,7 @@
 title = "Showbiz Pizza Program 3"
 draft = false
 tags = [ ]
+date = 2022-06-03T03:03:10Z
 
 [Article]
 contributors = ["The 64th Gamer"]

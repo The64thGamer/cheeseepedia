@@ -2,6 +2,7 @@
 title = "Billy Bob's Wonderland"
 draft = false
 tags = [ ]
+date = 2023-03-03T00:48:50Z
 
 [Article]
 contributors = ["Saan1ty","The 64th Gamer","2600:4040:5A0C:5900:7CC4:6BF1:60E3:48C3","Stripes","2600:4040:5A0E:D900:C050:277C:FA95:3797","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]

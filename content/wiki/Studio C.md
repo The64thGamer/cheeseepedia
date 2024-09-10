@@ -2,6 +2,7 @@
 title = "Studio C"
 draft = false
 tags = [ ]
+date = 2022-08-20T02:22:06Z
 
 [Article]
 contributors = ["The Nonfictional Explainer","Sponch man","Himitsu","The 64th Gamer","Chouts1","CECBowlingGreen","BurgersNuggs445","Stripes","Jaxon11","Documentor","Mr afton","Ceclife13","EagleScout610","AstridMascotFan2005","ItaintObeeezy","Avabeckley","Livelycheese"]

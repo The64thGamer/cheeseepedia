@@ -2,6 +2,7 @@
 title = "Data:Json:Wikicon"
 draft = false
 tags = [ ]
+date = 2020-04-25T21:45:34Z
 
 [Article]
 contributors = ["Mediawiki>Pppery","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Chuck E.'s House"
 draft = false
 tags = [ ]
+date = 2022-09-15T23:09:23Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowbizMidwest","216.125.34.66","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988"]

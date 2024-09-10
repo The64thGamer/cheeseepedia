@@ -2,6 +2,7 @@
 title = "El Monte, CA (4567 Peck Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-30T18:47:31Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","The 64th Gamer","SuperCreamPiper2008","CEC Knoxville"]

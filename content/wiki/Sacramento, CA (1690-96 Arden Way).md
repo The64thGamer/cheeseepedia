@@ -2,6 +2,7 @@
 title = "Sacramento, CA (1690-96 Arden Way)"
 draft = false
 tags = [ ]
+date = 2023-03-03T19:51:30Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","Cheeseclassic","Planetpurplediner","AstridMascotFan2005"]

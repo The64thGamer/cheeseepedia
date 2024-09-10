@@ -2,6 +2,7 @@
 title = "Navori System"
 draft = false
 tags = [ ]
+date = 2022-07-27T02:06:46Z
 
 [Article]
 contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]

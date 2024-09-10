@@ -2,6 +2,7 @@
 title = "Hours (Winchester Signage)"
 draft = false
 tags = [ ]
+date = 2023-08-24T00:11:53Z
 
 [Article]
 contributors = ["Concordio"]

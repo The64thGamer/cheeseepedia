@@ -2,6 +2,7 @@
 title = "Summer 2010 Show"
 draft = false
 tags = [ ]
+date = 2022-05-25T21:41:52Z
 
 [Article]
 contributors = ["Documentor","66.220.208.40","The 64th Gamer","68.115.107.230","John95","2600:6C46:4A00:A2F:81B0:627F:AD01:D2D1","Ceclife13","172.58.159.105","2600:6C46:4A00:A2F:5510:397C:1D6D:FD70","Dame0824"]

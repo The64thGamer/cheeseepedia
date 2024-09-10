@@ -2,6 +2,7 @@
 title = "The Great All-American Pizza Show! (Commercial)"
 draft = false
 tags = [ ]
+date = 2022-12-09T23:19:03Z
 
 [Article]
 contributors = ["Pench0782","CEC Tinley","The 64th Gamer"]

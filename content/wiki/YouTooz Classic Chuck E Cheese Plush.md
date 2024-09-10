@@ -2,6 +2,7 @@
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
 tags = [ ]
+date = 2024-07-06T20:23:25Z
 
 [Article]
 contributors = ["The 64th Gamer"]

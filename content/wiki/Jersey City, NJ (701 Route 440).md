@@ -2,6 +2,7 @@
 title = "Jersey City, NJ (701 Route 440)"
 draft = false
 tags = [ ]
+date = 2023-10-16T20:18:46Z
 
 [Article]
 contributors = ["Cheeseclassic","Captain Cheese IV","AstridMascotFan2005"]

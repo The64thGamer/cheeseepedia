@@ -2,6 +2,7 @@
 title = "Elvis (The King Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-05-30T01:42:12Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

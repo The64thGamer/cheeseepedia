@@ -2,6 +2,7 @@
 title = "Fishing (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T09:18:33Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]

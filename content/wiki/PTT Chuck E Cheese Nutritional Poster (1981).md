@@ -2,6 +2,7 @@
 title = "PTT Chuck E. Cheese Nutritional Poster (1981)"
 draft = false
 tags = [ ]
+date = 2024-02-07T02:16:29Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 1 2018"
 draft = false
 tags = [ ]
+date = 2022-02-13T20:49:12Z
 
 [Article]
 contributors = ["Documentor"]

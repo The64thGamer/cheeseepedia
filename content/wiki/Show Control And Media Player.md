@@ -2,6 +2,7 @@
 title = "Show Control And Media Player"
 draft = false
 tags = [ ]
+date = 2021-11-29T09:33:48Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]

@@ -2,6 +2,7 @@
 title = "Choo Choo (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-01T15:41:11Z
 
 [Article]
 contributors = ["CECBowlingGreen","RedaCEC","CEC Tinley","2603:6080:7C06:6500:103E:BBE5:9852:733D","Yes-?!214","The 64th Gamer","CECMentor"]

@@ -2,6 +2,7 @@
 title = "Fuck You"
 draft = false
 tags = [ ]
+date = 2022-10-11T04:10:32Z
 
 [Article]
 contributors = ["StudioC","The 64th Gamer","Documentor","Cy's Junk at School"]

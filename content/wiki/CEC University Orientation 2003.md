@@ -2,6 +2,7 @@
 title = "CEC University: Orientation 2003"
 draft = false
 tags = [ ]
+date = 2022-06-11T17:41:31Z
 
 [Article]
 contributors = ["The 64th Gamer"]

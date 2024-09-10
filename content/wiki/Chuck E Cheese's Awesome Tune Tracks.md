@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Awesome Tune Tracks"
 draft = false
 tags = [ ]
+date = 2022-08-18T22:50:38Z
 
 [Article]
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Countryside (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T09:08:09Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]

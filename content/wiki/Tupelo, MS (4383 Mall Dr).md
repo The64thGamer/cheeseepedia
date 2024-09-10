@@ -2,6 +2,7 @@
 title = "Tupelo, MS (4383 Mall Dr)"
 draft = false
 tags = [ ]
+date = 2023-08-15T16:42:13Z
 
 [Article]
 contributors = ["47.17.236.200","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]

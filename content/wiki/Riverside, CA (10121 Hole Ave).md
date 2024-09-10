@@ -2,6 +2,7 @@
 title = "Riverside, CA (10121 Hole Ave)"
 draft = false
 tags = [ ]
+date = 2023-09-16T21:15:07Z
 
 [Article]
 contributors = ["TheChuckECheeseGuy"]

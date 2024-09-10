@@ -2,6 +2,7 @@
 title = "Chicago, IL (1830 W Fullerton Ave)"
 draft = false
 tags = [ ]
+date = 2022-07-22T17:56:12Z
 
 [Article]
 contributors = ["Chuck E. Cheese's Illinois","The 64th Gamer","ShowbizMidwest","CECBowlingGreen","Rexburg090","ChucksterCheapskates","ChuckECheezeMelrose20062","216.125.34.66","ThatBoiCydalan","2600:1700:3050:8220:58D8:FD12:5216:A60C","CEC Illinois","Tux Chuck","Cecanddisneyfan2004"]

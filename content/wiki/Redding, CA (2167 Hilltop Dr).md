@@ -2,6 +2,7 @@
 title = "Redding, CA (2167 Hilltop Dr)"
 draft = false
 tags = [ ]
+date = 2023-01-12T23:17:57Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","Cheeseclassic"]

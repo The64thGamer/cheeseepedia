@@ -2,6 +2,7 @@
 title = "Country Klunk (Event)"
 draft = false
 tags = [ ]
+date = 2023-10-11T20:15:30Z
 
 [Article]
 contributors = ["The 64th Gamer"]

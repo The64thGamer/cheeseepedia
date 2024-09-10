@@ -2,6 +2,7 @@
 title = "Orem, UT (40 E Center St)"
 draft = false
 tags = [ ]
+date = 2022-12-07T05:50:57Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","Rexburg090","Bombocec","CorrectorMan","174.131.44.53","Ceclife13","ThatBoiCydalan","Cheeseclassic","Cheeseslicez"]

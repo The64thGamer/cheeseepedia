@@ -2,6 +2,7 @@
 title = "Dublin, CA (7448 Amador Valley Blvd)"
 draft = false
 tags = [ ]
+date = 2023-04-02T19:28:37Z
 
 [Article]
 contributors = ["Rexburg090","Dakaraimoore1203","Cheeseclassic","Veronancy"]

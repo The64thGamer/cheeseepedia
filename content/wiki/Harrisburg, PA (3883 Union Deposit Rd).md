@@ -2,6 +2,7 @@
 title = "Harrisburg, PA (3883 Union Deposit Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-04T17:36:31Z
 
 [Article]
 contributors = ["ChuckECool","Bowling for Cheese","Rexburg090","Cecnj98","Cheezy","ThatBoiCydalan"]

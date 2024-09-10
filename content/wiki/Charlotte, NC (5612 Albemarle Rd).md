@@ -2,6 +2,7 @@
 title = "Charlotte, NC (5612 Albemarle Rd)"
 draft = false
 tags = [ ]
+date = 2023-02-27T19:46:21Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","216.125.34.66","168.69.254.249","CEC Tinley","Saan1ty","ThatBoiCydalan","174.131.44.53","Chuckstar69","67.197.52.250","Chez","Caydenpedia","Appatheris","PachCEC","Cheeseclassic","AstridMascotFan2005","RavensFlock4L"]

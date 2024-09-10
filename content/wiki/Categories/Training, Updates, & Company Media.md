@@ -2,6 +2,7 @@
 title = "Training, Updates, & Company Media"
 draft = false
 tags = [ ]
+date = 2021-12-03T05:03:15Z
 
 [Article]
 contributors = ["The 64th Gamer","72.222.233.165","StudioC","Studio 18 Entertainment","Anastasia.laguardia","BurgersNuggs445"]

@@ -2,6 +2,7 @@
 title = "SPP Westerns - Movies - R&R"
 draft = false
 tags = [ ]
+date = 2023-07-08T20:27:02Z
 
 [Article]
 contributors = ["DerekCat"]

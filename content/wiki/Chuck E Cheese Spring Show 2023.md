@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Spring Show 2023"
 draft = false
 tags = [ ]
+date = 2023-03-28T16:19:03Z
 
 [Article]
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","Documentor","Pasquallytheplumber","2601:282:4000:98D0:E07B:BD53:BBD1:CA91","Cy's Junk at School"]

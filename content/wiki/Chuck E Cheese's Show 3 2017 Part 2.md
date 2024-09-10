@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 3 2017 Part 2"
 draft = false
 tags = [ ]
+date = 2022-02-07T21:57:38Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Ceclife13"]

@@ -2,6 +2,7 @@
 title = "Pasqually (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-09-07T16:30:39Z
 
 [Article]
 contributors = ["CECBowlingGreen","BoyInCharge55","107.147.190.172","ShowbizMidwest","JasperLover","62.10.181.250","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]

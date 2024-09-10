@@ -2,6 +2,7 @@
 title = "Beaverton, OR (4145 SW 110th Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-26T17:51:54Z
 
 [Article]
 contributors = ["CorrectorMan","Rexburg090","CEC Tinley","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]

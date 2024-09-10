@@ -2,6 +2,7 @@
 title = "Middle of the Road"
 draft = false
 tags = [ ]
+date = 2022-01-07T16:49:10Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Kennesaw, GA (824 Earnest W Barrett Pkwy)"
 draft = false
 tags = [ ]
+date = 2022-10-08T00:16:03Z
 
 [Article]
 contributors = ["Plvtyp","CECBowlingGreen","Rexburg090","VXSpooky","AstridMascotFan2005"]

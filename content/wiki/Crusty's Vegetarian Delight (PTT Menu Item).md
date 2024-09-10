@@ -2,6 +2,7 @@
 title = "Crusty's Vegetarian Delight (PTT Menu Item)"
 draft = false
 tags = [ ]
+date = 2024-02-16T15:24:08Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX"]

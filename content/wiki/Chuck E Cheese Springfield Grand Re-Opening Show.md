@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Springfield Grand Re-Opening Show"
 draft = false
 tags = [ ]
+date = 2024-07-30T00:51:12Z
 
 [Article]
 contributors = ["Documentor"]

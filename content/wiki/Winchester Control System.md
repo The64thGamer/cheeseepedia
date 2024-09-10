@@ -2,6 +2,7 @@
 title = "Winchester Control System"
 draft = false
 tags = [ ]
+date = 2022-09-10T05:14:06Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Tinley","WalterB"]

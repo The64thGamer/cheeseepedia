@@ -2,6 +2,7 @@
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
 tags = [ ]
+date = 2023-01-24T21:23:50Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]

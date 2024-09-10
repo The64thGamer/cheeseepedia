@@ -2,6 +2,7 @@
 title = "Joliet, IL (1965 W Jefferson St)"
 draft = false
 tags = [ ]
+date = 2022-09-16T17:59:36Z
 
 [Article]
 contributors = ["ShowbizMidwest","Documentor","ThatBoiCydalan","Rexburg090","CorrectorMan","SuperCreamPiper2008","CoolerDude","Muncho","Cecanddisneyfan2004","AstridMascotFan2005"]

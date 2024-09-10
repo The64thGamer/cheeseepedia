@@ -2,6 +2,7 @@
 title = "Fresno, CA (3117 W Shaw Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-23T03:34:00Z
 
 [Article]
 contributors = ["Rexburg090","ChuckECool","ThatBoiCydalan","ChuckfeldStan"]

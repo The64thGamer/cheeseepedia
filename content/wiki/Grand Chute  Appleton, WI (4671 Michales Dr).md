@@ -2,6 +2,7 @@
 title = "Grand Chute / Appleton, WI (4671 Michales Dr)"
 draft = false
 tags = [ ]
+date = 2022-09-11T17:45:51Z
 
 [Article]
 contributors = ["CECBowlingGreen","Documentor","John95","BurgersNuggs445","Rexburg090","CEC Tinley","47.17.236.200","ShowbizMidwest"]

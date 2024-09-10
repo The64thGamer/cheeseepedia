@@ -2,6 +2,7 @@
 title = "Brockton, MA (200 Westgate Dr)"
 draft = false
 tags = [ ]
+date = 2023-03-14T02:59:13Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:1158:165B:CC1C:7F0E","ThatBoiCydalan","SuperCreamPiper2008"]

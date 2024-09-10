@@ -2,6 +2,7 @@
 title = "Rick Rat Walkaround"
 draft = false
 tags = [ ]
+date = 2023-01-20T14:11:09Z
 
 [Article]
 contributors = ["Lovemints","2601:600:8F00:9940:60C0:2332:CAB:D81F","The 64th Gamer"]

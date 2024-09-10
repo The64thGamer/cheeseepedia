@@ -2,6 +2,7 @@
 title = "Stockton, CA (4555 N Pershing Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-12T22:18:27Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Snowbobsuperboi","Stripes","AnthonyRWikis7283"]

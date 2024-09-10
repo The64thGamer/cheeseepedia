@@ -2,6 +2,7 @@
 title = "Birthday Star '98"
 draft = false
 tags = [ ]
+date = 2022-08-13T13:22:32Z
 
 [Article]
 contributors = ["The 64th Gamer","Pasquallytheplumber","Ceclife13"]

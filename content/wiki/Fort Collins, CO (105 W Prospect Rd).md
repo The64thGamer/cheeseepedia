@@ -2,6 +2,7 @@
 title = "Fort Collins, CO (105 W Prospect Rd)"
 draft = false
 tags = [ ]
+date = 2023-09-25T01:15:51Z
 
 [Article]
 contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","CEC Tinley","Caydenpedia","CECFayetteville15"]

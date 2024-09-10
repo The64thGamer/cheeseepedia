@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Instagram"
 draft = false
 tags = [ ]
+date = 2022-08-30T19:33:54Z
 
 [Article]
 contributors = ["The 64th Gamer"]

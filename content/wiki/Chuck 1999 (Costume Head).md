@@ -2,6 +2,7 @@
 title = "Chuck 1999 (Costume Head)"
 draft = false
 tags = [ ]
+date = 2022-07-14T15:50:36Z
 
 [Article]
 contributors = ["Showtimeinc","68.101.244.149","2601:81:8500:E190:2C16:3458:6E45:2D9D"]

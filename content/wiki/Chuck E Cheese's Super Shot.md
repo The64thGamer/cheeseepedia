@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Super Shot"
 draft = false
 tags = [ ]
+date = 2022-07-21T21:26:20Z
 
 [Article]
 contributors = ["Chuck E. Cheese's Illinois","173.61.153.236","GuestIsJustBest","Stripes","ThatBoiCydalan"]

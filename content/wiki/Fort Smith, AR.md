@@ -2,6 +2,7 @@
 title = "Fort Smith, AR?"
 draft = false
 tags = [ ]
+date = 2023-09-25T23:31:28Z
 
 [Article]
 contributors = ["167.224.250.176","Cheeseclassic"]

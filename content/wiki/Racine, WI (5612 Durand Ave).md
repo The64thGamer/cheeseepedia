@@ -2,6 +2,7 @@
 title = "Racine, WI (5612 Durand Ave)"
 draft = false
 tags = [ ]
+date = 2023-11-17T14:10:12Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]

@@ -2,6 +2,7 @@
 title = "Garland, TX (4992 State Hwy 190)"
 draft = false
 tags = [ ]
+date = 2022-02-25T05:28:28Z
 
 [Article]
 contributors = ["The 64th Gamer","2600:4040:59F9:8000:E869:B562:197E:4627","168.69.254.246","Thecheesydude"]

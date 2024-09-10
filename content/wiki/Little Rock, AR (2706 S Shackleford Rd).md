@@ -2,6 +2,7 @@
 title = "Little Rock, AR (2706 S Shackleford Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-06T16:38:59Z
 
 [Article]
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]

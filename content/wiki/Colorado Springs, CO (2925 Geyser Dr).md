@@ -2,6 +2,7 @@
 title = "Colorado Springs, CO (2925 Geyser Dr)"
 draft = false
 tags = [ ]
+date = 2023-07-13T03:47:49Z
 
 [Article]
 contributors = ["216.227.26.243"]

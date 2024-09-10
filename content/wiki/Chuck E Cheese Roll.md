@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Roll"
 draft = false
 tags = [ ]
+date = 2022-09-25T14:06:55Z
 
 [Article]
 contributors = ["ChuckE1352","The 64th Gamer","GuestIsJustBest","Stripes","CEC Tinley"]

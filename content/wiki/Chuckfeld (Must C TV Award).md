@@ -2,6 +2,7 @@
 title = "'Chuckfeld' (Must C TV Award)"
 draft = false
 tags = [ ]
+date = 2023-02-04T18:46:24Z
 
 [Article]
 contributors = ["ChuckfeldStan","The 64th Gamer","Nostalgia Cow","BurgersNuggs445"]

@@ -2,6 +2,7 @@
 title = "Winchester Pasqually (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-16T23:00:14Z
 
 [Article]
 contributors = ["EagleScout610","The 64th Gamer","Documentor","SniffCEC","216.125.34.66","PizzaEntertainmentFanX"]

@@ -2,6 +2,7 @@
 title = "Cincinnati, OH (3365 Highland Ave)"
 draft = false
 tags = [ ]
+date = 2022-03-26T00:46:17Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Rexburg090","CECMentor"]

@@ -2,6 +2,7 @@
 title = "Jackson, MS (5465 I-55)"
 draft = false
 tags = [ ]
+date = 2023-03-20T20:15:47Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]

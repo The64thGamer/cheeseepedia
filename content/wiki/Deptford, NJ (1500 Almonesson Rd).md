@@ -2,6 +2,7 @@
 title = "Deptford, NJ (1500 Almonesson Rd)"
 draft = false
 tags = [ ]
+date = 2022-08-06T01:40:58Z
 
 [Article]
 contributors = ["MM995","Rexburg090","RPCEC","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2","The 64th Gamer","2600:4040:59FC:D100:387D:65E5:2486:4C7","Cecnj98","ShowbizMidwest","2600:4040:AD76:D00:B53D:EF88:79B6:14D8","CEC Tinley","ThatBoiCydalan","Planetpurplediner"]

@@ -2,6 +2,7 @@
 title = "Oceanside, CA (2481 Vista Way)"
 draft = false
 tags = [ ]
+date = 2023-02-21T21:02:07Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","The 64th Gamer","Stripes","Caydenpedia"]

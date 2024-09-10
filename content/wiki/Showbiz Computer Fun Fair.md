@@ -2,6 +2,7 @@
 title = "Showbiz Computer Fun Fair"
 draft = false
 tags = [ ]
+date = 2022-09-24T18:54:02Z
 
 [Article]
 contributors = ["ChuckE1352","The 64th Gamer"]

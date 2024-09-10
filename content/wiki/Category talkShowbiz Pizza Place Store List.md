@@ -2,6 +2,7 @@
 title = "Category talk:Showbiz Pizza Place Store List"
 draft = false
 tags = [ ]
+date = 2022-10-18T02:49:49Z
 
 [Article]
 contributors = ["Rexburg090","ShowbizMidwest","ChuckECool","CECBowlingGreen","Documentor"]

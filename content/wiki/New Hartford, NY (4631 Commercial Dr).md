@@ -2,6 +2,7 @@
 title = "New Hartford, NY (4631 Commercial Dr)"
 draft = false
 tags = [ ]
+date = 2024-01-14T05:53:14Z
 
 [Article]
 contributors = ["Stripes"]

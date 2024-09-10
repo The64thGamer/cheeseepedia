@@ -2,6 +2,7 @@
 title = "Family Album"
 draft = false
 tags = [ ]
+date = 2023-06-27T17:47:29Z
 
 [Article]
 contributors = ["NoName2000","BlackMonkeyEater","Stripes","WalterB","The 64th Gamer","Cy's Junk at School"]

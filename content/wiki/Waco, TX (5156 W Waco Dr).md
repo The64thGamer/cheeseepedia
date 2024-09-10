@@ -2,6 +2,7 @@
 title = "Waco, TX (5156 W Waco Dr)"
 draft = false
 tags = [ ]
+date = 2023-05-06T03:27:43Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]

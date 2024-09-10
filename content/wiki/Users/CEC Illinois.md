@@ -2,6 +2,7 @@
 title = "CEC Illinois"
 draft = false
 tags = [ ]
+date = 2023-09-10T21:53:51Z
 
 [Article]
 contributors = ["CEC Illinois"]

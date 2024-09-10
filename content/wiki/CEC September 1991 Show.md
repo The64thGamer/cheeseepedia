@@ -2,6 +2,7 @@
 title = "CEC September 1991 Show"
 draft = false
 tags = [ ]
+date = 2022-01-23T23:03:55Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","DerekCat","Cheeseclassic"]

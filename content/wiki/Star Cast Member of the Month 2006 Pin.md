@@ -2,6 +2,7 @@
 title = "Star Cast Member of the Month 2006 Pin"
 draft = false
 tags = [ ]
+date = 2021-12-04T00:51:30Z
 
 [Article]
 contributors = ["The 64th Gamer"]

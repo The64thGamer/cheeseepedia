@@ -2,6 +2,7 @@
 title = "New Beatles"
 draft = false
 tags = [ ]
+date = 2023-09-12T22:07:40Z
 
 [Article]
 contributors = ["Letterstolooneybird","The 64th Gamer"]

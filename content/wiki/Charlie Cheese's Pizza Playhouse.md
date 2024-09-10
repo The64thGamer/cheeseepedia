@@ -2,6 +2,7 @@
 title = "Charlie Cheese's Pizza Playhouse"
 draft = false
 tags = [ ]
+date = 2022-09-12T18:56:51Z
 
 [Article]
 contributors = ["CECBowlingGreen","The 64th Gamer","RessiduePezzzado","Pench0782","CorrectorMan","Tux Chuck","PizzaEntertainmentFanX"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Summer Show 2023"
 draft = false
 tags = [ ]
+date = 2023-06-05T05:43:45Z
 
 [Article]
 contributors = ["Bowling for Cheese","John95","2607:FB90:D71D:9CD9:C164:6696:E00B:9C18","12.197.102.229","70.161.136.174","Ceclife13","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Illinois"
 draft = false
 tags = [ ]
+date = 2022-07-23T18:13:26Z
 
 [Article]
 contributors = ["Chuck E. Cheese's Illinois"]

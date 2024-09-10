@@ -2,6 +2,7 @@
 title = "Small Munch Plush (1996)"
 draft = false
 tags = [ ]
+date = 2023-04-23T00:32:30Z
 
 [Article]
 contributors = ["ToadEatSock","BurgersNuggs445"]

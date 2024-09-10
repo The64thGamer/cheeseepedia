@@ -2,6 +2,7 @@
 title = "Pasadena, CA (3737 E Foothill Blvd)"
 draft = false
 tags = [ ]
+date = 2023-09-19T19:02:06Z
 
 [Article]
 contributors = ["Cheeseclassic","TheChuckECheeseGuy","Chez","Snowbobsuperboi","ThatBoiCydalan"]

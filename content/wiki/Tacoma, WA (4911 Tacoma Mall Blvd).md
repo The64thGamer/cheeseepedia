@@ -2,6 +2,7 @@
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
 tags = [ ]
+date = 2023-01-12T18:17:20Z
 
 [Article]
 contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","ChuckfeldStan","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","38.49.94.191","CEC Tinley","69.67.86.197","Cecnj98","CorrectorMan","Jonn","SuperCreamPiper2008","Cheeseclassic"]

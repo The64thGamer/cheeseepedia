@@ -2,6 +2,7 @@
 title = "Los Angeles, CA (2706 Wilshire Blvd)"
 draft = false
 tags = [ ]
+date = 2022-08-17T16:58:55Z
 
 [Article]
 contributors = ["StudioC","99.52.73.115","168.69.254.247","CECBowlingGreen","BurgersNuggs445","Rexburg090"]

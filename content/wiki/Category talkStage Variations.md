@@ -2,6 +2,7 @@
 title = "Category talk:Stage Variations"
 draft = false
 tags = [ ]
+date = 2023-01-27T23:56:33Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445"]

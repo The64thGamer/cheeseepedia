@@ -2,6 +2,7 @@
 title = "Lexington, KY (1555 New Circle Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-11T00:10:40Z
 
 [Article]
 contributors = ["CECBowlingGreen","Chouts1","Rexburg090","ChuckECool","ThatBoiCydalan","SuperCreamPiper2008","CoolerDude","CECswag2009"]

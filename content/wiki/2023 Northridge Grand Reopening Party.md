@@ -2,6 +2,7 @@
 title = "2023 Northridge Grand Reopening Party"
 draft = false
 tags = [ ]
+date = 2023-11-12T19:35:48Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]

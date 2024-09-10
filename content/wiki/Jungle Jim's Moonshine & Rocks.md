@@ -2,6 +2,7 @@
 title = "Jungle Jim's Moonshine & Rocks"
 draft = false
 tags = [ ]
+date = 2022-10-30T22:10:39Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","CEC Tinley"]

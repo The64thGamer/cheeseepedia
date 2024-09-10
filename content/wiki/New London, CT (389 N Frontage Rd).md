@@ -2,6 +2,7 @@
 title = "New London, CT (389 N Frontage Rd)"
 draft = false
 tags = [ ]
+date = 2023-03-02T23:14:29Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","Cheeseclassic","Tux Chuck"]

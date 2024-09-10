@@ -2,6 +2,7 @@
 title = "Chuck 1991 (Costume Head)"
 draft = false
 tags = [ ]
+date = 2022-07-14T06:56:59Z
 
 [Article]
 contributors = ["Showtimeinc","ChuckfeldStan"]

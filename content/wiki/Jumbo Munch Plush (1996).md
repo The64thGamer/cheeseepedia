@@ -2,6 +2,7 @@
 title = "Jumbo Munch Plush (1996)"
 draft = false
 tags = [ ]
+date = 2023-04-25T03:01:46Z
 
 [Article]
 contributors = ["ToadEatSock","CEC Tinley"]

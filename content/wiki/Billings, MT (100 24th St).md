@@ -2,6 +2,7 @@
 title = "Billings, MT (100 24th St)"
 draft = false
 tags = [ ]
+date = 2023-01-19T18:54:12Z
 
 [Article]
 contributors = ["RedaCEC","173.216.33.6","Rexburg090","ChuckEPediaIsTheBest!","71.31.183.205","The 64th Gamer","BoyInCharge55","2600:4040:5A0E:D900:8CA2:C7CC:54BB:380D","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","Documentor","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]

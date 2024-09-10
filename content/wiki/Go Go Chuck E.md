@@ -2,6 +2,7 @@
 title = "Go Go Chuck E"
 draft = false
 tags = [ ]
+date = 2022-02-13T23:14:45Z
 
 [Article]
 contributors = ["Documentor"]

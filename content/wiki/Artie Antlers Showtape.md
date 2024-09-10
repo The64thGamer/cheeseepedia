@@ -2,6 +2,7 @@
 title = "Artie Antlers Showtape"
 draft = false
 tags = [ ]
+date = 2022-12-17T04:22:39Z
 
 [Article]
 contributors = ["The 64th Gamer"]

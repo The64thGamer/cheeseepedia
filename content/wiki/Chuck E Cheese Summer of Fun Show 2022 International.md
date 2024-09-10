@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Summer of Fun Show 2022 International"
 draft = false
 tags = [ ]
+date = 2022-06-26T00:13:46Z
 
 [Article]
 contributors = ["Documentor","Bowling for Cheese"]

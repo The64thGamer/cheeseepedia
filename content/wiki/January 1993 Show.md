@@ -2,6 +2,7 @@
 title = "January 1993 Show"
 draft = false
 tags = [ ]
+date = 2023-08-07T01:47:07Z
 
 [Article]
 contributors = ["DerekCat"]

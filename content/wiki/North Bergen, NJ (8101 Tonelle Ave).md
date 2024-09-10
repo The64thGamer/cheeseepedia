@@ -2,6 +2,7 @@
 title = "North Bergen, NJ (8101 Tonelle Ave)"
 draft = false
 tags = [ ]
+date = 2022-10-21T17:27:40Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Steven 'CEC' Master","BurgersNuggs445","ThatBoiCydalan","Cecnj98","Cheeseclassic","The 64th Gamer","Cy's Junk at School"]

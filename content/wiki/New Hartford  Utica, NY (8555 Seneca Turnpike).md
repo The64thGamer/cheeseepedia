@@ -2,6 +2,7 @@
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
 tags = [ ]
+date = 2024-02-17T02:35:25Z
 
 [Article]
 contributors = ["Stripes"]

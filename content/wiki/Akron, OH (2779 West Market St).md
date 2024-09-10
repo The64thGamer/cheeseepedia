@@ -2,6 +2,7 @@
 title = "Akron, OH (2779 West Market St)"
 draft = false
 tags = [ ]
+date = 2022-10-19T02:11:50Z
 
 [Article]
 contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125.34.66","Estsproduction"]

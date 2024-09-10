@@ -2,6 +2,7 @@
 title = "Chuck E.'s Choo Choo"
 draft = false
 tags = [ ]
+date = 2024-08-09T07:56:29Z
 
 [Article]
 contributors = ["BenTrainFan2000"]

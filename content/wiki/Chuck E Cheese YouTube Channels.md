@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese YouTube Channels"
 draft = false
 tags = [ ]
+date = 2022-08-30T19:30:57Z
 
 [Article]
 contributors = ["The 64th Gamer","CECBowlingGreen","Rexburg090","ChuckEPediaIsTheBest!"]

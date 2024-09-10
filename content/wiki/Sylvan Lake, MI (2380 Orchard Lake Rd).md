@@ -2,6 +2,7 @@
 title = "Sylvan Lake, MI (2380 Orchard Lake Rd)"
 draft = false
 tags = [ ]
+date = 2023-09-12T07:03:20Z
 
 [Article]
 contributors = ["2601:40F:600:8100:449D:E773:D167:9C1","ItAllStartsHereYT"]

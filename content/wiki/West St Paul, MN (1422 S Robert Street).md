@@ -2,6 +2,7 @@
 title = "West St Paul, MN (1422 S Robert Street)"
 draft = false
 tags = [ ]
+date = 2023-09-04T14:24:47Z
 
 [Article]
 contributors = ["Cecfan2004","ChuckECool","Cheeseclassic","96.5.110.36","Stripes","CoolerDude"]

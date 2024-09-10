@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 7 2015 (International Variant)"
 draft = false
 tags = [ ]
+date = 2021-12-10T13:15:20Z
 
 [Article]
 contributors = ["The 64th Gamer"]

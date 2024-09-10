@@ -2,6 +2,7 @@
 title = "WKMG Creative Engineering Spot (1976)"
 draft = false
 tags = [ ]
+date = 2023-02-04T04:53:22Z
 
 [Article]
 contributors = ["The 64th Gamer"]

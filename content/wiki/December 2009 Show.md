@@ -2,6 +2,7 @@
 title = "December 2009 Show"
 draft = false
 tags = [ ]
+date = 2021-12-10T12:33:33Z
 
 [Article]
 contributors = ["The 64th Gamer","AstridMascotFan2005"]

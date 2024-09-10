@@ -2,6 +2,7 @@
 title = "CEI 1986 Liberty Tape Party"
 draft = false
 tags = [ ]
+date = 2022-07-28T05:58:55Z
 
 [Article]
 contributors = ["The 64th Gamer"]

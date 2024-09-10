@@ -2,6 +2,7 @@
 title = "Chuck Tux 1 92 (Costume Outfit)"
 draft = false
 tags = [ ]
+date = 2022-07-17T01:19:14Z
 
 [Article]
 contributors = ["Showtimeinc"]

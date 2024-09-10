@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Baby Pony (1989)"
 draft = false
 tags = [ ]
+date = 2024-01-29T03:25:32Z
 
 [Article]
 contributors = ["The 64th Gamer","Tux Chuck"]

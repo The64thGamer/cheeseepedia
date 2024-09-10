@@ -2,6 +2,7 @@
 title = "Cedar Rapids, IA (170 Collins Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-12T21:57:07Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]

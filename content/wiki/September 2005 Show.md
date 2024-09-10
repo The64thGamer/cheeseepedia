@@ -2,6 +2,7 @@
 title = "September 2005 Show"
 draft = false
 tags = [ ]
+date = 2021-12-10T12:24:53Z
 
 [Article]
 contributors = ["The 64th Gamer","RedaCEC","Ceclife13","Documentor","John95"]

@@ -2,6 +2,7 @@
 title = "Mitzie (Parody Poster)"
 draft = false
 tags = [ ]
+date = 2023-07-04T07:11:00Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

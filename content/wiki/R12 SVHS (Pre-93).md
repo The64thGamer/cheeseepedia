@@ -2,6 +2,7 @@
 title = "R12 SVHS (Pre-93)"
 draft = false
 tags = [ ]
+date = 2023-10-13T18:04:32Z
 
 [Article]
 contributors = ["The 64th Gamer"]

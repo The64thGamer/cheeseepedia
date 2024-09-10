@@ -2,6 +2,7 @@
 title = "Patriotic Live 00"
 draft = false
 tags = [ ]
+date = 2022-04-05T17:08:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]

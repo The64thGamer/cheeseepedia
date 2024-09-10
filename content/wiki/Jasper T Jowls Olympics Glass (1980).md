@@ -2,6 +2,7 @@
 title = "Jasper T. Jowls Olympics Glass (1980)"
 draft = false
 tags = [ ]
+date = 2023-01-04T21:16:33Z
 
 [Article]
 contributors = ["Jonn"]

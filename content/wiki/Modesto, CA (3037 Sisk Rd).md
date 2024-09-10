@@ -2,6 +2,7 @@
 title = "Modesto, CA (3037 Sisk Rd)"
 draft = false
 tags = [ ]
+date = 2022-10-17T21:56:31Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","RedaCEC","Midwestretail","ThatBoiCydalan","CEC Tinley","Cheeseclassic","Chez","JND","The 64th Gamer","CEC1988"]

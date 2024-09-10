@@ -2,6 +2,7 @@
 title = "Studio C Tech Term"
 draft = false
 tags = [ ]
+date = 2022-02-16T02:26:34Z
 
 [Article]
 contributors = ["The 64th Gamer","GallaRBX","Himitsu"]

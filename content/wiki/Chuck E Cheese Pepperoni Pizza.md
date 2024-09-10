@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Pepperoni Pizza"
 draft = false
 tags = [ ]
+date = 2022-10-13T23:21:51Z
 
 [Article]
 contributors = ["CECBowlingGreen","74.137.220.26"]

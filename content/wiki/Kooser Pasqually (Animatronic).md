@@ -2,6 +2,7 @@
 title = "Kooser Pasqually (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-19T21:58:28Z
 
 [Article]
 contributors = ["EagleScout610","KPIZZA03","The 64th Gamer"]

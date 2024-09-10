@@ -2,6 +2,7 @@
 title = "Chandler, AZ (2977 W Frye Rd)"
 draft = false
 tags = [ ]
+date = 2023-11-08T04:36:13Z
 
 [Article]
 contributors = ["Chez","Cheeseclassic","CECswag2009","Documentor"]

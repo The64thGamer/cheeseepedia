@@ -2,6 +2,7 @@
 title = "Atlanta, GA (2990 Cumberland Blvd)"
 draft = false
 tags = [ ]
+date = 2023-01-31T16:51:04Z
 
 [Article]
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","Ceclife13","2600:387:C:6E1B:0:0:0:2","2600:4040:5A0E:D900:64A7:FBC4:2848:821","MFHALSTON"]

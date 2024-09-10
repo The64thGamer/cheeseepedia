@@ -2,6 +2,7 @@
 title = "GQ Chuck E. Charming (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T06:33:24Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]

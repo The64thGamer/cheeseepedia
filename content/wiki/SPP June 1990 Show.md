@@ -2,6 +2,7 @@
 title = "SPP June 1990 Show"
 draft = false
 tags = [ ]
+date = 2023-06-01T08:57:17Z
 
 [Article]
 contributors = ["DerekCat"]

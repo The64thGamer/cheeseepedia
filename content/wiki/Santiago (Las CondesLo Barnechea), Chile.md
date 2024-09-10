@@ -2,6 +2,7 @@
 title = "Santiago (Las Condes/Lo Barnechea), Chile"
 draft = false
 tags = [ ]
+date = 2022-10-17T13:42:42Z
 
 [Article]
 contributors = ["CECBowlingGreen"]

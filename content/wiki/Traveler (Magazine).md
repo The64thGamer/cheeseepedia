@@ -2,6 +2,7 @@
 title = "Traveler (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T09:31:42Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer","TailsFan628"]

@@ -2,6 +2,7 @@
 title = "Green Bay, WI (1273 Lombardi Access)"
 draft = false
 tags = [ ]
+date = 2022-09-11T18:34:49Z
 
 [Article]
 contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","66.250.190.24","Tux Chuck"]

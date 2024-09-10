@@ -2,6 +2,7 @@
 title = "Johnstown, PA (850 Scalp Ave)"
 draft = false
 tags = [ ]
+date = 2024-08-08T22:51:02Z
 
 [Article]
 contributors = ["CCSilver"]

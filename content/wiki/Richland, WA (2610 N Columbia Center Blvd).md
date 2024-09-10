@@ -2,6 +2,7 @@
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 draft = false
 tags = [ ]
+date = 2023-07-30T15:03:43Z
 
 [Article]
 contributors = ["Rexburg090","CorrectorMan","2601:601:9C00:9490:6570:B2C8:A6C7:C40C"]

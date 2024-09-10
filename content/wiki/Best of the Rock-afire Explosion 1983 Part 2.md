@@ -2,6 +2,7 @@
 title = "Best of the Rock-afire Explosion 1983 Part 2"
 draft = false
 tags = [ ]
+date = 2023-08-07T02:59:40Z
 
 [Article]
 contributors = ["The 64th Gamer","John95"]

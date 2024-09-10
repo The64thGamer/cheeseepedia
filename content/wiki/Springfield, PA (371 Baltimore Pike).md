@@ -2,6 +2,7 @@
 title = "Springfield, PA (371 Baltimore Pike)"
 draft = false
 tags = [ ]
+date = 2023-09-24T20:53:23Z
 
 [Article]
 contributors = ["Cheeseclassic","AstridMascotFan2005"]

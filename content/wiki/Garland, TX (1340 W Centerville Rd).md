@@ -2,6 +2,7 @@
 title = "Garland, TX (1340 W Centerville Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-25T18:32:33Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan"]

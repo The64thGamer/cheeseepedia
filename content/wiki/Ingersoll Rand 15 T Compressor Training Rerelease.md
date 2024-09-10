@@ -2,6 +2,7 @@
 title = "Ingersoll Rand 15 T Compressor Training Rerelease"
 draft = false
 tags = [ ]
+date = 2022-09-12T17:15:34Z
 
 [Article]
 contributors = ["The 64th Gamer","SuperCreamPiper2008"]

@@ -2,6 +2,7 @@
 title = "Cow (Pasqually Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-07-15T01:17:37Z
 
 [Article]
 contributors = ["StudioC","168.69.254.247","PizzaEntertainmentFanX"]

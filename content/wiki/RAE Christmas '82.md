@@ -2,6 +2,7 @@
 title = "RAE Christmas '82"
 draft = false
 tags = [ ]
+date = 2022-10-23T00:59:57Z
 
 [Article]
 contributors = ["BurgersNuggs445","The 64th Gamer"]

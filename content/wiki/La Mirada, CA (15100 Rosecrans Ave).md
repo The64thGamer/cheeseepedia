@@ -2,6 +2,7 @@
 title = "La Mirada, CA (15100 Rosecrans Ave)"
 draft = false
 tags = [ ]
+date = 2023-10-09T00:01:02Z
 
 [Article]
 contributors = ["Cheeseclassic","Chuckeindiana","AstridMascotFan2005"]

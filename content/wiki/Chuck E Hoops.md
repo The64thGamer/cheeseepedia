@@ -2,6 +2,7 @@
 title = "Chuck E. Hoops"
 draft = false
 tags = [ ]
+date = 2023-01-30T00:28:40Z
 
 [Article]
 contributors = ["Chuck E. Tastic","GuestIsJustBest","Stripes"]

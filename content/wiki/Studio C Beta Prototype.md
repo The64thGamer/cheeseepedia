@@ -2,6 +2,7 @@
 title = "Studio C Beta Prototype"
 draft = false
 tags = [ ]
+date = 2022-09-16T16:23:52Z
 
 [Article]
 contributors = ["CECBowlingGreen","Documentor","Ceclife13","ShowbizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]

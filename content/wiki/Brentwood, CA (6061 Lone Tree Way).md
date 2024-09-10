@@ -2,6 +2,7 @@
 title = "Brentwood, CA (6061 Lone Tree Way)"
 draft = false
 tags = [ ]
+date = 2024-06-12T23:50:54Z
 
 [Article]
 contributors = ["Veronancy","ThatBoiCydalan"]

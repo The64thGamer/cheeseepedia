@@ -2,6 +2,7 @@
 title = "Oklahoma City, OK (6817 NW Expressway)"
 draft = false
 tags = [ ]
+date = 2023-02-10T18:01:05Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Chuckstar69","CEC Tinley","SuperCreamPiper2008","Jaxonia"]

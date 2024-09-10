@@ -2,6 +2,7 @@
 title = "PTT Pasquallys Perfect Pizza Sign (1978)"
 draft = false
 tags = [ ]
+date = 2023-08-03T07:13:02Z
 
 [Article]
 contributors = ["Concordio"]

@@ -2,6 +2,7 @@
 title = "July 2014 Show"
 draft = false
 tags = [ ]
+date = 2022-01-01T21:58:03Z
 
 [Article]
 contributors = ["Documentor","Himitsu","The 64th Gamer","MultiMonorail","DerpJobi"]

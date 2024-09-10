@@ -2,6 +2,7 @@
 title = "Artifact Shelves"
 draft = false
 tags = [ ]
+date = 2023-07-08T20:44:13Z
 
 [Article]
 contributors = ["The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","Ceclife13"]

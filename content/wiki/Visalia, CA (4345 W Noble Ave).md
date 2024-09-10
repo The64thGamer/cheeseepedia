@@ -2,6 +2,7 @@
 title = "Visalia, CA (4345 W Noble Ave)"
 draft = false
 tags = [ ]
+date = 2022-10-18T02:39:28Z
 
 [Article]
 contributors = ["Rexburg090","CECBowlingGreen","Rileypaulson","Polykirisame","ChuckECool","209.129.28.15","173.216.33.6","Cecbird","76.167.210.169","167.224.250.176","Chuckstar69","174.243.178.17","SuperCreamPiper2008","Cheeseclassic","JND","CoolerDude","Veronancy","AstridMascotFan2005"]

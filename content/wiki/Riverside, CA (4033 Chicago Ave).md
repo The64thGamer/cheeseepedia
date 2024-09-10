@@ -2,6 +2,7 @@
 title = "Riverside, CA (4033 Chicago Ave)"
 draft = false
 tags = [ ]
+date = 2023-08-07T20:34:20Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","TestAccount6777"]

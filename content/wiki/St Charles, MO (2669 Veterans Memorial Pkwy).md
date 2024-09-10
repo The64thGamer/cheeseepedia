@@ -2,6 +2,7 @@
 title = "St. Charles, MO (2669 Veterans Memorial Pkwy)"
 draft = false
 tags = [ ]
+date = 2023-01-26T18:49:10Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","GabrielPennington9864","Stripes","OMMEnterainment"]

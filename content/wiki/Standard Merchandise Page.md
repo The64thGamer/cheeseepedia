@@ -2,6 +2,7 @@
 title = "Standard: Merchandise Page"
 draft = false
 tags = [ ]
+date = 2023-04-16T22:48:36Z
 
 [Article]
 contributors = ["The 64th Gamer"]

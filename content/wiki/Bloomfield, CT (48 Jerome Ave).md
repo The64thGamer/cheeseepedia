@@ -2,6 +2,7 @@
 title = "Bloomfield, CT (48 Jerome Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-06T02:29:54Z
 
 [Article]
 contributors = ["CorrectorMan","Rexburg090","Ryys123","Saan1ty"]

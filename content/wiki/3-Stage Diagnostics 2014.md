@@ -2,6 +2,7 @@
 title = "3-Stage Diagnostics 2014"
 draft = false
 tags = [ ]
+date = 2022-08-14T01:53:10Z
 
 [Article]
 contributors = ["The 64th Gamer"]

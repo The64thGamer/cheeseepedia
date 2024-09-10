@@ -2,6 +2,7 @@
 title = "Chuck E Cheese's 20th Anniversary"
 draft = false
 tags = [ ]
+date = 2022-07-14T21:41:27Z
 
 [Article]
 contributors = ["StudioC"]

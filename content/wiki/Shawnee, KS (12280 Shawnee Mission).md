@@ -2,6 +2,7 @@
 title = "Shawnee, KS (12280 Shawnee Mission)"
 draft = false
 tags = [ ]
+date = 2023-07-10T17:23:15Z
 
 [Article]
 contributors = ["CorrectorMan"]

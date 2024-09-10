@@ -2,6 +2,7 @@
 title = "Promotional Material"
 draft = false
 tags = [ ]
+date = 2022-05-26T00:23:53Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]

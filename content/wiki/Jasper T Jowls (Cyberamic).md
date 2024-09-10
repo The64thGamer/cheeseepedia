@@ -2,6 +2,7 @@
 title = "Jasper T. Jowls (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-09-07T16:23:33Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]

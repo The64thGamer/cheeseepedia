@@ -2,6 +2,7 @@
 title = "Chuck E's Variety Show - Best of 1999"
 draft = false
 tags = [ ]
+date = 2022-03-17T18:07:35Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Ceclife13","John95","Cy's Junk at School"]

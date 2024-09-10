@@ -2,6 +2,7 @@
 title = "PTT Chuck E. Cheese Quote Sign (1977)"
 draft = false
 tags = [ ]
+date = 2023-08-08T21:22:59Z
 
 [Article]
 contributors = ["Concordio"]

@@ -2,6 +2,7 @@
 title = "Charleston, SC (1610 Sam Rittenburg Blvd)"
 draft = false
 tags = [ ]
+date = 2023-03-29T20:42:40Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]

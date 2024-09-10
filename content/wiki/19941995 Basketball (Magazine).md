@@ -2,6 +2,7 @@
 title = "1994/1995 Basketball (Magazine)"
 draft = false
 tags = [ ]
+date = 2022-08-28T22:53:29Z
 
 [Article]
 contributors = ["Documentor"]

@@ -2,6 +2,7 @@
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
 tags = [ ]
+date = 2022-07-14T20:10:12Z
 
 [Article]
 contributors = ["Helly","BurgersNuggs445","168.69.254.242","CECMentor","CoolerDude"]

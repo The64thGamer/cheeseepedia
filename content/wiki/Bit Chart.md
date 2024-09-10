@@ -2,6 +2,7 @@
 title = "Bit Chart"
 draft = false
 tags = [ ]
+date = 2021-11-29T04:59:32Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]

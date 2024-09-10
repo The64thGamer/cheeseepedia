@@ -2,6 +2,7 @@
 title = "PTT Salad Bar Manual (1983)"
 draft = false
 tags = [ ]
+date = 2022-12-08T16:13:39Z
 
 [Article]
 contributors = ["The 64th Gamer"]

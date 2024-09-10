@@ -2,6 +2,7 @@
 title = "San Jose, CA (1371 Kooser Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-08T16:25:15Z
 
 [Article]
 contributors = ["CECBowlingGreen","69.140.177.57","EagleScout610","Pinkerton agent","Rexburg090","The 64th Gamer","SniffCEC","PTT1977fan","BurgersNuggs445","RedaCEC","CEC Tinley","CorrectorMan","ChuckfeldStan","Documentor","Concordio","ThatBoiCydalan","EvergreenEntertainment","TheChuckECheeseGuy","SuperCreamPiper2008","Newbie editor","CoolerDude","Cy's Junk at School"]

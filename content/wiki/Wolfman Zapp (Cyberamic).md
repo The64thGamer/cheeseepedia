@@ -2,6 +2,7 @@
 title = "Wolfman Zapp (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2024-02-07T22:43:43Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]

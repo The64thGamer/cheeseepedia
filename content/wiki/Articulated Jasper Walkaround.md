@@ -2,6 +2,7 @@
 title = "Articulated Jasper Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T23:14:07Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]

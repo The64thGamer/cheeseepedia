@@ -2,6 +2,7 @@
 title = "Santa Ana, CA"
 draft = false
 tags = [ ]
+date = 2023-08-22T20:57:22Z
 
 [Article]
 contributors = ["CEC Kokomo","The 64th Gamer"]

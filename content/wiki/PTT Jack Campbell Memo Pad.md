@@ -2,6 +2,7 @@
 title = "PTT Jack Campbell Memo Pad"
 draft = false
 tags = [ ]
+date = 2023-08-16T00:06:59Z
 
 [Article]
 contributors = ["Concordio","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Evansville, IN (559 N Green River Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-03T20:58:06Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Midwestretail","Tux Chuck"]

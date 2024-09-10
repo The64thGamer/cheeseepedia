@@ -2,6 +2,7 @@
 title = "Wind-up Chuck E. Cheese Figure (1992)"
 draft = false
 tags = [ ]
+date = 2023-08-14T06:13:47Z
 
 [Article]
 contributors = ["Tobsters ;-;"]

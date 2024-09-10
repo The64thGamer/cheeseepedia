@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Online Store"
 draft = false
 tags = [ ]
+date = 2022-10-13T14:05:26Z
 
 [Article]
 contributors = ["CECBowlingGreen","170.185.215.34","Documentor","BurgersNuggs445"]

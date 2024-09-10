@@ -2,6 +2,7 @@
 title = "3-Stage Command Format"
 draft = false
 tags = [ ]
+date = 2022-09-13T23:56:05Z
 
 [Article]
 contributors = ["The 64th Gamer","Ls2018-1"]

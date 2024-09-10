@@ -2,6 +2,7 @@
 title = "Beach Bear (Mijjin)"
 draft = false
 tags = [ ]
+date = 2023-12-28T16:44:23Z
 
 [Article]
 contributors = ["GallaRBX2","The 64th Gamer"]

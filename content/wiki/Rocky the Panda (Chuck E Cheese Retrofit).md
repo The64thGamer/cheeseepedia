@@ -2,6 +2,7 @@
 title = "Rocky the Panda (Chuck E. Cheese Retrofit)"
 draft = false
 tags = [ ]
+date = 2024-03-05T13:30:15Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX"]

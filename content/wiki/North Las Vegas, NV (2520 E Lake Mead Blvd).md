@@ -2,6 +2,7 @@
 title = "North Las Vegas, NV (2520 E Lake Mead Blvd)"
 draft = false
 tags = [ ]
+date = 2023-06-08T06:27:36Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","Tux Chuck","AstridMascotFan2005"]

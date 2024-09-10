@@ -2,6 +2,7 @@
 title = "Animatronic Repair & Preservation"
 draft = false
 tags = [ ]
+date = 2023-02-03T23:49:44Z
 
 [Article]
 contributors = ["The 64th Gamer","173.77.168.57"]

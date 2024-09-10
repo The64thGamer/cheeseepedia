@@ -2,6 +2,7 @@
 title = "Billy Bob Talking Walkaround"
 draft = false
 tags = [ ]
+date = 2022-09-08T23:31:16Z
 
 [Article]
 contributors = ["Emcaacme","Ls2018-1","CEC Tinley","The 64th Gamer","Stripes"]

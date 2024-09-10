@@ -2,6 +2,7 @@
 title = "Mentor, OH (8000 Plaza Blvd)"
 draft = false
 tags = [ ]
+date = 2022-09-15T04:16:47Z
 
 [Article]
 contributors = ["EagleScout610","Documentor","Rexburg090","ChuckECool","CEC Tinley","ThatBoiCydalan","Estsproduction","CECMentor","AstridMascotFan2005"]

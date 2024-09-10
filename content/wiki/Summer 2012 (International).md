@@ -2,6 +2,7 @@
 title = "Summer 2012 (International)"
 draft = false
 tags = [ ]
+date = 2022-10-14T22:41:21Z
 
 [Article]
 contributors = ["Documentor"]

@@ -2,6 +2,7 @@
 title = "CEC Hanging Tabletop Ad Stand"
 draft = false
 tags = [ ]
+date = 2022-05-26T02:02:09Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]

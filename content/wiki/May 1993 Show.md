@@ -2,6 +2,7 @@
 title = "May 1993 Show"
 draft = false
 tags = [ ]
+date = 2021-12-16T17:09:06Z
 
 [Article]
 contributors = ["The 64th Gamer"]

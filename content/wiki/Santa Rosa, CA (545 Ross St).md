@@ -2,6 +2,7 @@
 title = "Santa Rosa, CA (545 Ross St)"
 draft = false
 tags = [ ]
+date = 2023-08-06T21:14:57Z
 
 [Article]
 contributors = ["The 64th Gamer"]

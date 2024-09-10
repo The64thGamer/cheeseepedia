@@ -2,6 +2,7 @@
 title = "Hattiesburg, MS (6428 US 49)"
 draft = false
 tags = [ ]
+date = 2023-07-09T17:24:57Z
 
 [Article]
 contributors = ["CorrectorMan","Rexburg090","CEC Tinley"]

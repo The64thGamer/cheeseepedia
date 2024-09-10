@@ -2,6 +2,7 @@
 title = "Crystal Lake, IL (4725 Northwest Hwy)"
 draft = false
 tags = [ ]
+date = 2023-08-31T01:13:23Z
 
 [Article]
 contributors = ["Melrosefool2763","ShowbizMidwest","ThatBoiCydalan","CEC Tinley","Slussier1","Cheeseclassic","MasterMike","Midwestern Jasper T.","CEC1988","Documentor"]

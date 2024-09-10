@@ -2,6 +2,7 @@
 title = "Prototype CEC Baby Lion Plush (2016)"
 draft = false
 tags = [ ]
+date = 2023-03-31T20:54:59Z
 
 [Article]
 contributors = ["The 64th Gamer"]

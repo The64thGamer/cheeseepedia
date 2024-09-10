@@ -2,6 +2,7 @@
 title = "Cheektowaga, NY (Thruway Mall)"
 draft = false
 tags = [ ]
+date = 2023-06-08T23:45:02Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","ThatBoiCydalan","Tux Chuck"]

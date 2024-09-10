@@ -2,6 +2,7 @@
 title = "Category talk:Chuck E. Cheese Employee & Store Items"
 draft = false
 tags = [ ]
+date = 2022-09-25T01:15:00Z
 
 [Article]
 contributors = ["CECBowlingGreen"]

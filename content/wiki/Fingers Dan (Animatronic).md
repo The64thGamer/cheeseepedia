@@ -2,6 +2,7 @@
 title = "Fingers Dan (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-29T21:37:29Z
 
 [Article]
 contributors = ["FileFickle"]

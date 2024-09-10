@@ -2,6 +2,7 @@
 title = "Sioux Falls, SD (519 S Minnesota Ave)"
 draft = false
 tags = [ ]
+date = 2024-08-28T21:49:12Z
 
 [Article]
 contributors = ["Lelmaster"]

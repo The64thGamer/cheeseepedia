@@ -2,6 +2,7 @@
 title = "Lincoln, NE (221 N 66th St)"
 draft = false
 tags = [ ]
+date = 2022-11-04T17:07:49Z
 
 [Article]
 contributors = ["Rexburg090","ChuckECool","ShowbizMidwest","ThatBoiCydalan","Caydenpedia","Cheeseclassic"]

@@ -2,6 +2,7 @@
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-27T19:11:57Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]

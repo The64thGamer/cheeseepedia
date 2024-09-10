@@ -2,6 +2,7 @@
 title = "CEC American Pride"
 draft = false
 tags = [ ]
+date = 2022-07-17T03:28:21Z
 
 [Article]
 contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Cy's Junk at School"]

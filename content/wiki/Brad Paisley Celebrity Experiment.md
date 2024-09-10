@@ -2,6 +2,7 @@
 title = "Brad Paisley Celebrity Experiment"
 draft = false
 tags = [ ]
+date = 2021-12-10T17:11:03Z
 
 [Article]
 contributors = ["The 64th Gamer"]

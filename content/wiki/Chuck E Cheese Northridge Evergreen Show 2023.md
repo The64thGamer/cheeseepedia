@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Northridge Evergreen Show 2023"
 draft = false
 tags = [ ]
+date = 2023-11-19T01:36:02Z
 
 [Article]
 contributors = ["Documentor"]

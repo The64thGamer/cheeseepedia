@@ -2,6 +2,7 @@
 title = "Mr. Munch (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-09-07T15:58:32Z
 
 [Article]
 contributors = ["CECBowlingGreen","Jaxon11","CEC Tinley","BoyInCharge55","ShowbizMidwest","CoolerDude","CECMentor","Nerdychucke","Cheeseclassic","Documentor"]

@@ -2,6 +2,7 @@
 title = "Lake Forest, CA (24416 Muirlands Blvd)"
 draft = false
 tags = [ ]
+date = 2022-08-03T01:59:18Z
 
 [Article]
 contributors = ["TheFantasyForest","The 64th Gamer","Documentor","BurgersNuggs445","75.61.165.219","71.15.155.152","173.216.33.6","38.49.94.191","Bowling for Cheese","Charlesiiikingofengland","Rexburg090","Midwestretail","GabrielPennington9864","ThatBoiCydalan","Ceclife13","Jonn","AstridMascotFan2005"]

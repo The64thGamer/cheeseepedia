@@ -2,6 +2,7 @@
 title = "Showtape"
 draft = false
 tags = [ ]
+date = 2022-05-27T00:01:24Z
 
 [Article]
 contributors = ["The 64th Gamer"]

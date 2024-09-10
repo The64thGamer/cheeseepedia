@@ -2,6 +2,7 @@
 title = "Pasqually's Pizza & Wings"
 draft = false
 tags = [ ]
+date = 2022-07-14T19:59:31Z
 
 [Article]
 contributors = ["Bowling for Cheese","The 64th Gamer","CorrectorMan","CECMentor"]

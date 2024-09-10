@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese LIVE Announcement Show"
 draft = false
 tags = [ ]
+date = 2023-11-02T18:56:54Z
 
 [Article]
 contributors = ["The 64th Gamer"]

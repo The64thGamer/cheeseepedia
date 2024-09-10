@@ -2,6 +2,7 @@
 title = "Ticket Muncher"
 draft = false
 tags = [ ]
+date = 2022-10-16T23:51:27Z
 
 [Article]
 contributors = ["CECBowlingGreen"]

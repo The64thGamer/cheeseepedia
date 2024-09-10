@@ -2,6 +2,7 @@
 title = "Pastel Stage"
 draft = false
 tags = [ ]
+date = 2022-01-11T02:07:33Z
 
 [Article]
 contributors = ["The 64th Gamer"]

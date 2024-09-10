@@ -2,6 +2,7 @@
 title = "CEC Play Passes"
 draft = false
 tags = [ ]
+date = 2022-09-26T17:21:27Z
 
 [Article]
 contributors = ["CECBowlingGreen","The 64th Gamer"]

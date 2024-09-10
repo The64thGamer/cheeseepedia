@@ -2,6 +2,7 @@
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
 tags = [ ]
+date = 2022-03-01T17:03:46Z
 
 [Article]
 contributors = ["The 64th Gamer","Nebbytales","Letterstolooneybird"]

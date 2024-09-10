@@ -2,6 +2,7 @@
 title = "Aurora, CO (634 Peoria St)"
 draft = false
 tags = [ ]
+date = 2024-03-04T14:41:49Z
 
 [Article]
 contributors = ["CoolerDude"]

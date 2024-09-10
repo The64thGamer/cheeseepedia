@@ -2,6 +2,7 @@
 title = "Winston-Salem, NC (620 Hanes Mall Blvd)"
 draft = false
 tags = [ ]
+date = 2024-02-11T19:09:54Z
 
 [Article]
 contributors = ["Caydenpedia","Cheeseclassic"]

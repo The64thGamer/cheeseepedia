@@ -2,6 +2,7 @@
 title = "Dallas, TX (7110 S Westmoreland Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-25T05:58:06Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0C:5900:E473:A250:7DE9:8AB1","ThatBoiCydalan","47.17.236.200"]

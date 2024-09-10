@@ -2,6 +2,7 @@
 title = "Warwick, RI (650 Bald Hill Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-30T14:54:23Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","Blowseborg062","2600:4040:5A0E:D900:BC6D:7734:18F9:173A","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","2600:4040:5A0E:D900:B9F0:1AB4:4E45:7495","2600:4040:5A0E:D900:80EC:F561:38B:60E","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","Documentor"]

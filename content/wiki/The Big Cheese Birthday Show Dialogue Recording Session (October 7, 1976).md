@@ -2,6 +2,7 @@
 title = "The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976)"
 draft = false
 tags = [ ]
+date = 2023-04-29T20:09:22Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Tinley"]

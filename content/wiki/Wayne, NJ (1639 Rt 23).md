@@ -2,6 +2,7 @@
 title = "Wayne, NJ (1639 Rt 23)"
 draft = false
 tags = [ ]
+date = 2023-02-01T20:33:58Z
 
 [Article]
 contributors = ["ChuckfeldStan","Rexburg090","Showbiz Nobiz","216.125.34.66","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]

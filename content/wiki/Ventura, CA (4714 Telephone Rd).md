@@ -2,6 +2,7 @@
 title = "Ventura, CA (4714 Telephone Rd)"
 draft = false
 tags = [ ]
+date = 2023-03-13T19:59:52Z
 
 [Article]
 contributors = ["ChuckECool","CEC Tinley","ThatBoiCydalan","ShowbizMidwest","2600:1012:B1AA:2DE5:CD92:CD8D:6100:E70E","Stripes"]

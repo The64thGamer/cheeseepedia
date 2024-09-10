@@ -2,6 +2,7 @@
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
 tags = [ ]
+date = 2023-02-20T17:57:28Z
 
 [Article]
 contributors = ["The 64th Gamer"]

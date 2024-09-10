@@ -2,6 +2,7 @@
 title = "The Good Ole Bears"
 draft = false
 tags = [ ]
+date = 2024-08-23T20:09:57Z
 
 [Article]
 contributors = ["Gussygoose"]

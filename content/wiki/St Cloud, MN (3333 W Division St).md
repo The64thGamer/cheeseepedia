@@ -2,6 +2,7 @@
 title = "St. Cloud, MN (3333 W Division St)"
 draft = false
 tags = [ ]
+date = 2024-05-08T13:43:55Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","Bay12","AstridMascotFan2005"]

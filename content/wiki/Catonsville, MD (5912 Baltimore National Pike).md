@@ -2,6 +2,7 @@
 title = "Catonsville, MD (5912 Baltimore National Pike)"
 draft = false
 tags = [ ]
+date = 2024-05-31T12:32:41Z
 
 [Article]
 contributors = ["Chuckepoggers69","Cheeseclassic"]

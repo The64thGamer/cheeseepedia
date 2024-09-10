@@ -2,6 +2,7 @@
 title = "North Wales, PA (1210 Bethlehem Pike)"
 draft = false
 tags = [ ]
+date = 2024-07-30T20:38:17Z
 
 [Article]
 contributors = ["Cheeseclassic"]

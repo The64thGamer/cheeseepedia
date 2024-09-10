@@ -2,6 +2,7 @@
 title = "Jackson, TN (2021 North Highland Ave)"
 draft = false
 tags = [ ]
+date = 2022-10-19T15:58:13Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","GabrielPennington9864","AstridMascotFan2005","9Lol92"]

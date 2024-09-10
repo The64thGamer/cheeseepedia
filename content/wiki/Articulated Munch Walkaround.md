@@ -2,6 +2,7 @@
 title = "Articulated Munch Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T21:31:33Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]

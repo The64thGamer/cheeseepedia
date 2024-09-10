@@ -2,6 +2,7 @@
 title = "TV (Animatronic)"
 draft = false
 tags = [ ]
+date = 2023-12-28T17:31:41Z
 
 [Article]
 contributors = ["GallaRBX2"]

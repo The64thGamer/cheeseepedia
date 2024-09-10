@@ -2,6 +2,7 @@
 title = "Owensboro, KY (4736 Frederica St)"
 draft = false
 tags = [ ]
+date = 2023-02-08T22:07:32Z
 
 [Article]
 contributors = ["ChuckECool","173.216.33.6","CEC Tinley","199.197.94.215","SuperCreamPiper2008","Stripes"]

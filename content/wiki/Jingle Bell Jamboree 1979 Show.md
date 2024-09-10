@@ -2,6 +2,7 @@
 title = "Jingle Bell Jamboree 1979 Show"
 draft = false
 tags = [ ]
+date = 2022-06-15T13:55:06Z
 
 [Article]
 contributors = ["The 64th Gamer"]

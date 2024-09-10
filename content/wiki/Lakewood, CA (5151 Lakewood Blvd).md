@@ -2,6 +2,7 @@
 title = "Lakewood, CA (5151 Lakewood Blvd)"
 draft = false
 tags = [ ]
+date = 2023-02-23T21:04:00Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Winchester, VA (145 E Tevis St)"
 draft = false
 tags = [ ]
+date = 2023-08-19T16:21:17Z
 
 [Article]
 contributors = ["2600:4040:5A0E:D900:9954:A658:F7E0:D25D","2600:4040:5A0E:D900:5A4:D894:F195:E9EC","2600:4040:5A0E:D900:B09D:C664:5942:ACE","BurgersNuggs445","CECswag2009"]

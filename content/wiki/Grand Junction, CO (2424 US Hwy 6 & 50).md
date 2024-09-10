@@ -2,6 +2,7 @@
 title = "Grand Junction, CO (2424 US Hwy 6 & 50)"
 draft = false
 tags = [ ]
+date = 2023-09-25T01:41:39Z
 
 [Article]
 contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","Tux Chuck"]

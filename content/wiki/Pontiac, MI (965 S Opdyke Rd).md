@@ -2,6 +2,7 @@
 title = "Pontiac, MI (965 S Opdyke Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-22T10:06:23Z
 
 [Article]
 contributors = ["Cecbird","CEC Tinley","Totalrockafirenerd","Blowseborg062","2600:4040:5A0E:D900:55AD:4390:7236:1EE8"]

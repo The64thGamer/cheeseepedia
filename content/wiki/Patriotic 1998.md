@@ -2,6 +2,7 @@
 title = "Patriotic 1998"
 draft = false
 tags = [ ]
+date = 2022-03-23T22:46:02Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

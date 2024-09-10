@@ -2,6 +2,7 @@
 title = "Mr. Munch's Magic Madhouse (Kooser Signage)"
 draft = false
 tags = [ ]
+date = 2023-08-15T00:05:54Z
 
 [Article]
 contributors = ["Concordio","Ptt1977","PizzaEntertainmentFanX"]

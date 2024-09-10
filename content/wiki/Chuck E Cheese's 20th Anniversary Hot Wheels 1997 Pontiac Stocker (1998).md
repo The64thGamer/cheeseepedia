@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker (1998)"
 draft = false
 tags = [ ]
+date = 2022-09-25T17:00:17Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley"]

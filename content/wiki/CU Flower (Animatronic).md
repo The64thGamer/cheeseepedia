@@ -2,6 +2,7 @@
 title = "CU Flower (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-01T16:17:17Z
 
 [Article]
 contributors = ["CECBowlingGreen","Randombeans","2.26.6.187"]

@@ -2,6 +2,7 @@
 title = "CEC Employee Oval Name Tag - Engraved (90's)"
 draft = false
 tags = [ ]
+date = 2023-04-27T22:35:46Z
 
 [Article]
 contributors = ["The 64th Gamer"]

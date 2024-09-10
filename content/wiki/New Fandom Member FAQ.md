@@ -2,6 +2,7 @@
 title = "New Fandom Member F.A.Q."
 draft = false
 tags = [ ]
+date = 2023-08-07T17:17:09Z
 
 [Article]
 contributors = ["The 64th Gamer"]

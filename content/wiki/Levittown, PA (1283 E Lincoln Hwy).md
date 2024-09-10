@@ -2,6 +2,7 @@
 title = "Levittown, PA (1283 E Lincoln Hwy)"
 draft = false
 tags = [ ]
+date = 2023-09-23T14:04:49Z
 
 [Article]
 contributors = ["Cheeseclassic","CEC Tinley","Jerry CEC","Caydenpedia","Cecnj98"]

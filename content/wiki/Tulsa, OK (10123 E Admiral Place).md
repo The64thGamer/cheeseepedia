@@ -2,6 +2,7 @@
 title = "Tulsa, OK (10123 E Admiral Place)"
 draft = false
 tags = [ ]
+date = 2023-07-31T04:19:58Z
 
 [Article]
 contributors = ["Chuckstar69"]

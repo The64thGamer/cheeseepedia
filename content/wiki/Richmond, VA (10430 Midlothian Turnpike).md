@@ -2,6 +2,7 @@
 title = "Richmond, VA (10430 Midlothian Turnpike)"
 draft = false
 tags = [ ]
+date = 2022-09-16T22:14:46Z
 
 [Article]
 contributors = ["CECBowlingGreen","RPCEC Backup","Midlo tech","Rexburg090","Noahrbxt","RedaCEC","ChuckEPediaIsTheBest!","168.69.254.246","Showbizpizzawiki","JoshWizz123","168.69.254.249","CEC Tinley","CorrectorMan","Caydenpedia","Muncho"]

@@ -2,6 +2,7 @@
 title = "Dr. Juke"
 draft = false
 tags = [ ]
+date = 2022-06-26T07:13:57Z
 
 [Article]
 contributors = ["The 64th Gamer","Mousester","Himitsu"]

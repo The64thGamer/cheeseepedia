@@ -2,6 +2,7 @@
 title = "Fall River, MA (35 Mariano Bishop Blvd)"
 draft = false
 tags = [ ]
+date = 2023-09-28T20:00:39Z
 
 [Article]
 contributors = ["Cheeseclassic","BigCtheDataFinder"]

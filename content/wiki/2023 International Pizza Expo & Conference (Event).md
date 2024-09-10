@@ -2,6 +2,7 @@
 title = "2023 International Pizza Expo & Conference (Event)"
 draft = false
 tags = [ ]
+date = 2023-04-21T19:33:05Z
 
 [Article]
 contributors = ["The 64th Gamer"]

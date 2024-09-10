@@ -2,6 +2,7 @@
 title = "TIME Space Race (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T07:51:42Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Dickson City / Scranton, PA (1011 Scranton Carbondale)"
 draft = false
 tags = [ ]
+date = 2023-01-24T00:56:28Z
 
 [Article]
 contributors = ["RockAfire Alex","Rexburg090","ChuckEPediaIsTheBest!"]

@@ -2,6 +2,7 @@
 title = "Bubble Wrap (Commercial)"
 draft = false
 tags = [ ]
+date = 2022-11-03T02:26:52Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

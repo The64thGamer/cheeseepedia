@@ -2,6 +2,7 @@
 title = "Salinas, CA (957 N Main St)"
 draft = false
 tags = [ ]
+date = 2024-05-02T01:30:08Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]

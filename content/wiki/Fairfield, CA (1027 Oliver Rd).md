@@ -2,6 +2,7 @@
 title = "Fairfield, CA (1027 Oliver Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-17T01:11:03Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","Jerry CEC","Retrocam","Dolphinpilot"]

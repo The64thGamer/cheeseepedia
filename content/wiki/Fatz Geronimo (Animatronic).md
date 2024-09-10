@@ -2,6 +2,7 @@
 title = "Fatz Geronimo (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-20T16:51:25Z
 
 [Article]
 contributors = ["CECMentor","Livelycheese","Stripes"]

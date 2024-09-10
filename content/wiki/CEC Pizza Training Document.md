@@ -2,6 +2,7 @@
 title = "CEC Pizza Training Document"
 draft = false
 tags = [ ]
+date = 2023-03-12T21:23:14Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Tinley"]

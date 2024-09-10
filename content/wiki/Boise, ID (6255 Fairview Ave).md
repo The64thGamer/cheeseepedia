@@ -2,6 +2,7 @@
 title = "Boise, ID (6255 Fairview Ave)"
 draft = false
 tags = [ ]
+date = 2022-12-31T18:01:27Z
 
 [Article]
 contributors = ["Rexburg090","Midwestretail"]

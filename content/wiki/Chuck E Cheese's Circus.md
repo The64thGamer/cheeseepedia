@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Circus"
 draft = false
 tags = [ ]
+date = 2022-01-06T23:31:11Z
 
 [Article]
 contributors = ["The 64th Gamer","ThatBoiCydalan","Signal08","BenTrainFan2000"]

@@ -2,6 +2,7 @@
 title = "Pro Football (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T05:08:03Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]

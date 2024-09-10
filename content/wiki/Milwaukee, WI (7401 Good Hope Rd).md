@@ -2,6 +2,7 @@
 title = "Milwaukee, WI (7401 Good Hope Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-16T15:58:33Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9D23:48AC:1E94:B305","ShowbizMidwest","CEC Tinley","SuperCreamPiper2008","Cheeseclassic","CECMadison","AstridMascotFan2005"]

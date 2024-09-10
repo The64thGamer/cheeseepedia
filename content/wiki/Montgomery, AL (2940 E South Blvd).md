@@ -2,6 +2,7 @@
 title = "Montgomery, AL (2940 E South Blvd)"
 draft = false
 tags = [ ]
+date = 2023-05-01T22:01:36Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Midwestretail","ThatBoiCydalan","SuperCreamPiper2008"]

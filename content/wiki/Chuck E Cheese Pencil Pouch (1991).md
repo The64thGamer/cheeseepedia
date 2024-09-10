@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Pencil Pouch (1991)"
 draft = false
 tags = [ ]
+date = 2023-04-28T18:48:24Z
 
 [Article]
 contributors = ["CEC Tinley","The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Corpus Christi, TX (5118 S Staples St)"
 draft = false
 tags = [ ]
+date = 2023-01-25T06:25:53Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","Parum33","173.216.33.6","CEC Tinley","SuperCreamPiper2008","Gostapua210"]

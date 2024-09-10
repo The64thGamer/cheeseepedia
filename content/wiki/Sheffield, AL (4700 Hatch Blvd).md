@@ -2,6 +2,7 @@
 title = "Sheffield, AL (4700 Hatch Blvd)"
 draft = false
 tags = [ ]
+date = 2023-02-21T21:15:50Z
 
 [Article]
 contributors = ["ChuckECool","64.125.60.2","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","2601:7C0:C202:A860:F4D0:DB76:971:BA7A","47.17.236.200","CEC Tinley","Stripes","SuperCreamPiper2008"]

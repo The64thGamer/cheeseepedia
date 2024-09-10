@@ -2,6 +2,7 @@
 title = "Monroeville, PA (3813 William Penn Hwy)"
 draft = false
 tags = [ ]
+date = 2024-03-18T19:16:23Z
 
 [Article]
 contributors = ["Cheeseclassic"]

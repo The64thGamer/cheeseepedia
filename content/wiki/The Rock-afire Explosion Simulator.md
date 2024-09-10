@@ -2,6 +2,7 @@
 title = "The Rock-afire Explosion Simulator"
 draft = false
 tags = [ ]
+date = 2022-07-22T05:32:53Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]

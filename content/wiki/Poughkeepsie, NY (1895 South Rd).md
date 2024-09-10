@@ -2,6 +2,7 @@
 title = "Poughkeepsie, NY (1895 South Rd)"
 draft = false
 tags = [ ]
+date = 2022-10-16T19:44:08Z
 
 [Article]
 contributors = ["Rexburg090","CybersorCEI","2600:4040:5A0C:5900:E4CF:886E:C3E2:74B4","Tux Chuck","SuperCreamPiper2008","Estsproduction","TailsFan628","Cheeseclassic"]

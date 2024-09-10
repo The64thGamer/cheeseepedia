@@ -2,6 +2,7 @@
 title = "Kent, WA (25817 104th Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-30T03:08:37Z
 
 [Article]
 contributors = ["CorrectorMan","ThatBoiCydalan","CEC1988","AstridMascotFan2005"]

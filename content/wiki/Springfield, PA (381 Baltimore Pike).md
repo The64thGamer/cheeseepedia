@@ -2,6 +2,7 @@
 title = "Springfield, PA (381 Baltimore Pike)"
 draft = false
 tags = [ ]
+date = 2023-03-29T21:18:30Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","216.125.34.66","Cecnj98","CorrectorMan","The 64th Gamer","ThatBoiCydalan","CEC Tinley","Cheeseclassic","Stripes","BigCtheDataFinder","CoolerDude","CEC1988"]

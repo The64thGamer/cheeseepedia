@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
 tags = [ ]
+date = 2022-01-11T03:20:34Z
 
 [Article]
 contributors = ["The 64th Gamer"]

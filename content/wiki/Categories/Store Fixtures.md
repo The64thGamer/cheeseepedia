@@ -2,6 +2,7 @@
 title = "Store Fixtures"
 draft = false
 tags = [ ]
+date = 2022-08-17T18:51:31Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","BurgersNuggs445","ShowbizMidwest","StudioC","Ceclife13","ThatBoiCydalan"]

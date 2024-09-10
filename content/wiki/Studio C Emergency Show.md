@@ -2,6 +2,7 @@
 title = "Studio C Emergency Show"
 draft = false
 tags = [ ]
+date = 2022-02-26T18:23:49Z
 
 [Article]
 contributors = ["The 64th Gamer"]

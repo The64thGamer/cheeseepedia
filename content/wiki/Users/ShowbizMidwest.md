@@ -2,6 +2,7 @@
 title = "ShowbizMidwest"
 draft = false
 tags = [ ]
+date = 2023-07-06T21:41:01Z
 
 [Article]
 contributors = ["ShowbizMidwest"]

@@ -2,6 +2,7 @@
 title = "Loves Park, IL (6505 N 2nd St)"
 draft = false
 tags = [ ]
+date = 2023-06-07T22:14:50Z
 
 [Article]
 contributors = ["ShowbizMidwest","Rexburg090"]

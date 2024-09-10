@@ -2,6 +2,7 @@
 title = "Chuck E.'s Laser Challenge"
 draft = false
 tags = [ ]
+date = 2022-10-03T05:17:28Z
 
 [Article]
 contributors = ["StudioC","The 64th Gamer","168.69.254.248"]

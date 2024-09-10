@@ -2,6 +2,7 @@
 title = "1982 Articulated Chuck Walkaround"
 draft = false
 tags = [ ]
+date = 2022-07-16T05:51:34Z
 
 [Article]
 contributors = ["BurgersNuggs445","Chouts1","BigCtheDataFinder","The 64th Gamer","CEC Tinley"]

@@ -2,6 +2,7 @@
 title = "San Antonio, TX (6874 Ingram Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-23T17:19:18Z
 
 [Article]
 contributors = ["ChuckECool","RedaCEC","Rexburg090","2607:FB90:EDA3:D81D:29F5:B7AF:8C7E:4B46","Gostapua210","Cheeseclassic","CECMadison"]

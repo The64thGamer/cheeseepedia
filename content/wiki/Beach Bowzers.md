@@ -2,6 +2,7 @@
 title = "Beach Bowzers"
 draft = false
 tags = [ ]
+date = 2021-12-06T23:15:11Z
 
 [Article]
 contributors = ["The 64th Gamer","CoolerDude"]

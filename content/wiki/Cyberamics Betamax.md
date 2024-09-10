@@ -2,6 +2,7 @@
 title = "Cyberamics Betamax"
 draft = false
 tags = [ ]
+date = 2023-08-07T18:41:08Z
 
 [Article]
 contributors = ["The 64th Gamer"]

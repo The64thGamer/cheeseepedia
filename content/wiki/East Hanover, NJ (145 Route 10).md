@@ -2,6 +2,7 @@
 title = "East Hanover, NJ (145 Route 10)"
 draft = false
 tags = [ ]
+date = 2023-08-15T19:51:48Z
 
 [Article]
 contributors = ["47.17.236.200","CorrectorMan","Cecnj98","CEC New Jersey","Tux Chuck","Cheeseclassic"]

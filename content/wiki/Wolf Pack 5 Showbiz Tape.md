@@ -2,6 +2,7 @@
 title = "Wolf Pack 5 Showbiz Tape"
 draft = false
 tags = [ ]
+date = 2022-08-17T03:10:08Z
 
 [Article]
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B"]

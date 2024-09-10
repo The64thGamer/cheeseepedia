@@ -2,6 +2,7 @@
 title = "Chet Faddikins (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-30T23:20:59Z
 
 [Article]
 contributors = ["FileFickle"]

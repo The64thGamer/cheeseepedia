@@ -2,6 +2,7 @@
 title = "CEC Legacy Locations"
 draft = false
 tags = [ ]
+date = 2022-08-09T22:52:14Z
 
 [Article]
 contributors = ["The 64th Gamer","CECBowlingGreen","RedaCEC","2600:387:1:813:0:0:0:75","Ceclife13","ChuckfeldStan","47.223.117.89","168.69.254.249","CEC Tinley","174.175.47.16","BurgersNuggs445","70.161.136.174","2600:4040:5A0E:D900:5543:D34F:53F5:C134","ConceptUnification2.0","SuperCreamPiper2008","Documentor","PizzaEntertainmentFanX","Livelycheese","Caydenpedia","CECMentor","Stripes","Jaxonia","AstridMascotFan2005","BenTrainFan2000","CEC1988"]

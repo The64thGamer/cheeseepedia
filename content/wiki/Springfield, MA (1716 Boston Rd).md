@@ -2,6 +2,7 @@
 title = "Springfield, MA (1716 Boston Rd)"
 draft = false
 tags = [ ]
+date = 2022-11-03T04:40:38Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FC:D100:28E1:300A:D18D:A58E","2600:4040:59FC:D100:61B5:7557:4774:8CDC","ChuckECool","ShowbizMidwest","Cecnj98","138.229.239.64","Cheeseclassic","Bullseye123","CEC1988"]

@@ -2,6 +2,7 @@
 title = "Mountain Bike (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T07:40:00Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer","CEC Tinley"]

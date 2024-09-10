@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Olympics Glass (1980)"
 draft = false
 tags = [ ]
+date = 2023-01-04T21:06:26Z
 
 [Article]
 contributors = ["Jonn"]

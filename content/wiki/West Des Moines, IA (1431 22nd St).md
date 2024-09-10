@@ -2,6 +2,7 @@
 title = "West Des Moines, IA (1431 22nd St)"
 draft = false
 tags = [ ]
+date = 2022-10-12T15:47:17Z
 
 [Article]
 contributors = ["CECBowlingGreen","64.125.60.2","ShowbizMidwest","168.69.254.248","CorrectorMan","Icantbelieveitsnotbutter","BoyInCharge55","174.131.44.53","Ceclife13","Rexburg090","Cheeseclassic","SuperCreamPiper2008","The 64th Gamer"]

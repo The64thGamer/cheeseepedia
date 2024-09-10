@@ -2,6 +2,7 @@
 title = "Champaign, IL (1036 Bloomington Rd)"
 draft = false
 tags = [ ]
+date = 2023-08-22T22:30:25Z
 
 [Article]
 contributors = ["CEC Kokomo","Saan1ty","Cheeseclassic"]

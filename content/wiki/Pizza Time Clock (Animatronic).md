@@ -2,6 +2,7 @@
 title = "Pizza Time Clock (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-10-14T17:59:56Z
 
 [Article]
 contributors = ["CECBowlingGreen","RedaCEC","BurgersNuggs445","Tobsters ;-;","Studio 18 Ent"]

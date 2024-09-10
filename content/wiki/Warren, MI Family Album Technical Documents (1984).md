@@ -2,6 +2,7 @@
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
 tags = [ ]
+date = 2022-12-17T16:12:18Z
 
 [Article]
 contributors = ["The 64th Gamer"]

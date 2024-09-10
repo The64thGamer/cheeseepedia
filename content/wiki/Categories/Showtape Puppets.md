@@ -2,6 +2,7 @@
 title = "Showtape Puppets"
 draft = false
 tags = [ ]
+date = 2022-09-21T21:04:04Z
 
 [Article]
 contributors = ["BurgersNuggs445","CECBowlingGreen","The 64th Gamer","Documentor","John95","Ceclife13","Crazy Muzzarino"]

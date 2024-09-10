@@ -2,6 +2,7 @@
 title = "Houston, TX (5535 Weslayan St)"
 draft = false
 tags = [ ]
+date = 2022-10-01T03:11:19Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","2600:4040:AD76:D00:385D:200:9695:9AFC","ThatBoiCydalan","John95"]

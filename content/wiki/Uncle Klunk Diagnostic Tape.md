@@ -2,6 +2,7 @@
 title = "Uncle Klunk Diagnostic Tape"
 draft = false
 tags = [ ]
+date = 2023-08-07T03:16:54Z
 
 [Article]
 contributors = ["The 64th Gamer"]

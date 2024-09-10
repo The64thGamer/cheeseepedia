@@ -2,6 +2,7 @@
 title = "Cincinnati, OH (4394 Eastgate Square Dr)"
 draft = false
 tags = [ ]
+date = 2022-08-07T02:18:58Z
 
 [Article]
 contributors = ["Documentor","CECBowlingGreen","Rexburg090","RedaCEC","216.125.34.66","Studio 18 Ent","CEC Tinley","Chuckatronics","ThatBoiCydalan","The 64th Gamer","CoolerDude"]

@@ -2,6 +2,7 @@
 title = "Casting a New Latex Mold"
 draft = false
 tags = [ ]
+date = 2023-03-29T01:33:35Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Tinley","Ls2018-1"]

@@ -2,6 +2,7 @@
 title = "Lake Charles, LA (3221 E Prien Lake Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-02T04:04:20Z
 
 [Article]
 contributors = ["173.227.70.59","ThatBoiCydalan"]

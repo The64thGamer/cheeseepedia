@@ -2,6 +2,7 @@
 title = "Nashville, TN (1370 Murfreesboro Pike)"
 draft = false
 tags = [ ]
+date = 2024-08-20T00:52:29Z
 
 [Article]
 contributors = ["9Lol92"]

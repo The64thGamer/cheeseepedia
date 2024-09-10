@@ -2,6 +2,7 @@
 title = "15T Compressor System Video Tape 1993 Rerelease"
 draft = false
 tags = [ ]
+date = 2022-09-12T17:08:13Z
 
 [Article]
 contributors = ["The 64th Gamer"]

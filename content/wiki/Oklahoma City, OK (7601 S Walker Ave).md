@@ -2,6 +2,7 @@
 title = "Oklahoma City, OK (7601 S Walker Ave)"
 draft = false
 tags = [ ]
+date = 2024-05-10T00:19:51Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","ThatBoiCydalan","AstridMascotFan2005"]

@@ -2,6 +2,7 @@
 title = "2022 CEC Summer of Fun Concert (Event)"
 draft = false
 tags = [ ]
+date = 2022-05-24T19:50:15Z
 
 [Article]
 contributors = ["Documentor","Mousester","The 64th Gamer","Himitsu"]

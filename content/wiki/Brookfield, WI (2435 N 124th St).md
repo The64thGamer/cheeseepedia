@@ -2,6 +2,7 @@
 title = "Brookfield, WI (2435 N 124th St)"
 draft = false
 tags = [ ]
+date = 2023-06-28T15:31:07Z
 
 [Article]
 contributors = ["CorrectorMan","Pizzaman49","CEC Kokomo","ChuckECool","SuperCreamPiper2008","AstridMascotFan2005"]

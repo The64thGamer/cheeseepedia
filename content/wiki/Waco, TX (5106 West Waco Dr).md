@@ -2,6 +2,7 @@
 title = "Waco, TX (5106 West Waco Dr)"
 draft = false
 tags = [ ]
+date = 2023-01-16T02:56:23Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","130.45.91.68"]

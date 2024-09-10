@@ -2,6 +2,7 @@
 title = "Dr. Quack (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2023-08-15T21:36:35Z
 
 [Article]
 contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]

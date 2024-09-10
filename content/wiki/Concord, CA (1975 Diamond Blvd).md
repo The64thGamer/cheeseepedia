@@ -2,6 +2,7 @@
 title = "Concord, CA (1975 Diamond Blvd)"
 draft = false
 tags = [ ]
+date = 2022-12-17T16:44:52Z
 
 [Article]
 contributors = ["The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","SuperCreamPiper2008","CECMentor","Jaxonia","Douggaming","CECMadison","AstridMascotFan2005"]

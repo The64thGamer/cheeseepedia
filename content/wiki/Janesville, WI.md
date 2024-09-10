@@ -2,6 +2,7 @@
 title = "Janesville, WI"
 draft = false
 tags = [ ]
+date = 2023-12-10T16:27:53Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]

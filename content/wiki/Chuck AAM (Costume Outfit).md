@@ -2,6 +2,7 @@
 title = "Chuck AAM (Costume Outfit)"
 draft = false
 tags = [ ]
+date = 2022-07-18T17:25:19Z
 
 [Article]
 contributors = ["Showtimeinc","Documentor"]

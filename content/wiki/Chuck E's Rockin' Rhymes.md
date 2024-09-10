@@ -2,6 +2,7 @@
 title = "Chuck E's Rockin' Rhymes"
 draft = false
 tags = [ ]
+date = 2022-02-26T17:55:21Z
 
 [Article]
 contributors = ["The 64th Gamer","John95","Anastasia.laguardia","Documentor","Ceclife13","CECMadison"]

@@ -2,6 +2,7 @@
 title = "Beach Bear"
 draft = false
 tags = [ ]
+date = 2024-05-23T17:03:06Z
 
 [Article]
 contributors = ["CECMentor"]

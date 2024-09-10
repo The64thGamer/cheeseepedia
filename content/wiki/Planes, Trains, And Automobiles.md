@@ -2,6 +2,7 @@
 title = "Planes, Trains, And Automobiles"
 draft = false
 tags = [ ]
+date = 2022-07-19T16:26:06Z
 
 [Article]
 contributors = ["DerekCat","BurgersNuggs445","The 64th Gamer"]

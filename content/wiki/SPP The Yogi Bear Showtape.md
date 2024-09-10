@@ -2,6 +2,7 @@
 title = "SPP The Yogi Bear Showtape"
 draft = false
 tags = [ ]
+date = 2022-10-24T00:27:56Z
 
 [Article]
 contributors = ["EagleScout610","76.180.21.243","The 64th Gamer"]

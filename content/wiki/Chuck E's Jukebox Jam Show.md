@@ -2,6 +2,7 @@
 title = "Chuck E's Jukebox Jam Show"
 draft = false
 tags = [ ]
+date = 2022-08-01T05:50:15Z
 
 [Article]
 contributors = ["Ceclife13","BurgersNuggs445"]

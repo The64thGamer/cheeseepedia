@@ -2,6 +2,7 @@
 title = "Chuck Statue- Liberace (Shelf Item)"
 draft = false
 tags = [ ]
+date = 2023-07-12T20:51:27Z
 
 [Article]
 contributors = ["Mrclownman","The 64th Gamer"]

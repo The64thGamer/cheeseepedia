@@ -2,6 +2,7 @@
 title = "Chuck 1998 (Costume Head)"
 draft = false
 tags = [ ]
+date = 2022-07-14T15:46:08Z
 
 [Article]
 contributors = ["Showtimeinc","CEC Tinley","Cecnj98","2601:404:D681:9F70:7018:8BD0:9025:77D9","Rexburg090"]

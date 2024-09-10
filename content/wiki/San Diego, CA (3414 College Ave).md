@@ -2,6 +2,7 @@
 title = "San Diego, CA (3414 College Ave)"
 draft = false
 tags = [ ]
+date = 2022-08-30T16:37:40Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005","Caydenpedia"]

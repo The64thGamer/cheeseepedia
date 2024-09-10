@@ -2,6 +2,7 @@
 title = "CEC Make Magic Sign"
 draft = false
 tags = [ ]
+date = 2024-05-27T19:33:51Z
 
 [Article]
 contributors = ["The 64th Gamer"]

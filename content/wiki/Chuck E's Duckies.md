@@ -2,6 +2,7 @@
 title = "Chuck E's Duckies"
 draft = false
 tags = [ ]
+date = 2022-07-20T06:17:21Z
 
 [Article]
 contributors = ["Pasquallytheplumber","The 64th Gamer","69.85.235.229","GuestIsJustBest","Stripes","69.85.235.224"]

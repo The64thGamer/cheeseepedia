@@ -2,6 +2,7 @@
 title = "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"
 draft = false
 tags = [ ]
+date = 2024-02-15T06:36:54Z
 
 [Article]
 contributors = ["The 64th Gamer"]

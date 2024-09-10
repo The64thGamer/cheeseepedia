@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-09-07T15:31:09Z
 
 [Article]
 contributors = ["CECBowlingGreen","SonicFazbear","129.222.82.23","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","2600:6C44:97F:D312:E0C5:6036:5291:CEE2","CEC Tinley","70.161.136.174","BoyInCharge55","Saan1ty","CorrectorMan","ShowbizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988"]

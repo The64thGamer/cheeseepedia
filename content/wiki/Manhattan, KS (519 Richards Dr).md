@@ -2,6 +2,7 @@
 title = "Manhattan, KS (519 Richards Dr)"
 draft = false
 tags = [ ]
+date = 2023-04-20T20:08:56Z
 
 [Article]
 contributors = ["ChuckECool","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Rexburg090","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest"]

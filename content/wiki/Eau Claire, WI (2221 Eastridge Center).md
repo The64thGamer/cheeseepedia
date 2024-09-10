@@ -2,6 +2,7 @@
 title = "Eau Claire, WI (2221 Eastridge Center)"
 draft = false
 tags = [ ]
+date = 2023-03-02T14:44:41Z
 
 [Article]
 contributors = ["Midwestretail","CEC Tinley","SuperCreamPiper2008","Cheeseclassic","Cy's Junk at School","Gostapua210","CECMadison"]

@@ -2,6 +2,7 @@
 title = "Bloomingdale, IL (132 E Lake St)"
 draft = false
 tags = [ ]
+date = 2022-07-10T18:37:06Z
 
 [Article]
 contributors = ["ShowbizMidwest","Rexburg090"]

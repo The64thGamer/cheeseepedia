@@ -2,6 +2,7 @@
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
 tags = [ ]
+date = 2022-12-17T00:56:06Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Tinley","2600:6C48:427F:F8C2:15F3:2D0B:8739:2C3E","ShowbizMidwest","2600:6C48:427F:F8C2:1807:59EB:EDEC:92E"]

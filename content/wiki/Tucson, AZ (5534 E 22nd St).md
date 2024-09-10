@@ -2,6 +2,7 @@
 title = "Tucson, AZ (5534 E 22nd St)"
 draft = false
 tags = [ ]
+date = 2023-03-05T22:20:07Z
 
 [Article]
 contributors = ["Rexburg090","Midwestretail","ChuckECool","The 64th Gamer"]

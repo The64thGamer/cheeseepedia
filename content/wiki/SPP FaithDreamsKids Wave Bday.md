@@ -2,6 +2,7 @@
 title = "SPP Faith/Dreams/Kids Wave Bday"
 draft = false
 tags = [ ]
+date = 2023-03-01T20:32:41Z
 
 [Article]
 contributors = ["DerekCat"]

@@ -2,6 +2,7 @@
 title = "Fayetteville, AR (1330 N College Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-15T19:00:49Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","71.31.59.182","CorrectorMan","167.224.250.176","Stripes","Floorplanmuncher"]

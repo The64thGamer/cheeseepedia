@@ -2,6 +2,7 @@
 title = "Redwood City, CA (380 Convention Way)"
 draft = false
 tags = [ ]
+date = 2023-04-22T01:29:30Z
 
 [Article]
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]

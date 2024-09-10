@@ -2,6 +2,7 @@
 title = "Winchester Madam Oink (Animatronic)"
 draft = false
 tags = [ ]
+date = 2023-08-08T23:47:52Z
 
 [Article]
 contributors = ["WalterB","Ptt1977","Concordio","CoolerDude"]

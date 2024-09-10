@@ -2,6 +2,7 @@
 title = "Newark, CA (39839 Mowry School Rd)"
 draft = false
 tags = [ ]
+date = 2023-09-25T14:06:11Z
 
 [Article]
 contributors = ["TheChuckECheeseGuy","CEC Tinley"]

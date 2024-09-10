@@ -2,6 +2,7 @@
 title = "September 2007 Show"
 draft = false
 tags = [ ]
+date = 2021-12-14T02:15:28Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame"]

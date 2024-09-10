@@ -2,6 +2,7 @@
 title = "SongCode Hardware Setup"
 draft = false
 tags = [ ]
+date = 2022-07-15T17:12:59Z
 
 [Article]
 contributors = ["The 64th Gamer","RessiduePezzzado"]

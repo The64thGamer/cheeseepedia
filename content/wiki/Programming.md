@@ -2,6 +2,7 @@
 title = "Programming"
 draft = false
 tags = [ ]
+date = 2022-04-05T21:38:20Z
 
 [Article]
 contributors = ["The 64th Gamer"]

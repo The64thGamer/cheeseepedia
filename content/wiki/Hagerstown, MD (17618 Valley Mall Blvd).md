@@ -2,6 +2,7 @@
 title = "Hagerstown, MD (17618 Valley Mall Blvd)"
 draft = false
 tags = [ ]
+date = 2024-07-15T18:49:58Z
 
 [Article]
 contributors = ["CECswag2009","Cheeseclassic"]

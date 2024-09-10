@@ -2,6 +2,7 @@
 title = "La Mesa, CA (5500 Grossmont Center Dr)"
 draft = false
 tags = [ ]
+date = 2022-09-13T21:44:23Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","71.15.155.152","Rexburg090","ChuckECool","216.125.34.66","2605:AD80:31:19FD:2D14:C6C4:8C3D:9911","76.167.210.169","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Chez","JND","Moonrock"]

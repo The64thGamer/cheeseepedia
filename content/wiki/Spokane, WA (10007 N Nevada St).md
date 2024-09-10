@@ -2,6 +2,7 @@
 title = "Spokane, WA (10007 N Nevada St)"
 draft = false
 tags = [ ]
+date = 2023-04-21T22:17:36Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","CEC Tinley","Caydenpedia","The 64th Gamer","JND"]

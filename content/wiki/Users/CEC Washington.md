@@ -2,6 +2,7 @@
 title = "CEC Washington"
 draft = false
 tags = [ ]
+date = 2022-09-08T02:44:31Z
 
 [Article]
 contributors = ["CEC Washington"]

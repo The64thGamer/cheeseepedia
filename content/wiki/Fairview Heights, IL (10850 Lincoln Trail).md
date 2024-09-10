@@ -2,6 +2,7 @@
 title = "Fairview Heights, IL (10850 Lincoln Trail)"
 draft = false
 tags = [ ]
+date = 2023-07-26T14:56:11Z
 
 [Article]
 contributors = ["CorrectorMan","Rexburg090","ShowbizMidwest","CEC Tinley","Caydenpedia","Cheeseclassic","Cecanddisneyfan2004"]

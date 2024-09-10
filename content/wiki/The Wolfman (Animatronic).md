@@ -2,6 +2,7 @@
 title = "The Wolfman (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-28T20:54:13Z
 
 [Article]
 contributors = ["FileFickle","IVeClappedForWolfman","The 64th Gamer"]

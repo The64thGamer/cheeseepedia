@@ -2,6 +2,7 @@
 title = "Kansas City, MO (2726 NE Vivion Rd)"
 draft = false
 tags = [ ]
+date = 2022-12-15T15:36:30Z
 
 [Article]
 contributors = ["RedaCEC","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","CorrectorMan","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Saan1ty"]

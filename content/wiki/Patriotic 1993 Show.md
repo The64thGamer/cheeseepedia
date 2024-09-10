@@ -2,6 +2,7 @@
 title = "Patriotic 1993 Show"
 draft = false
 tags = [ ]
+date = 2022-07-15T03:44:27Z
 
 [Article]
 contributors = ["Ceclife13"]

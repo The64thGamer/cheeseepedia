@@ -2,6 +2,7 @@
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
 tags = [ ]
+date = 2023-04-29T20:11:31Z
 
 [Article]
 contributors = ["CEC Tinley"]

@@ -2,6 +2,7 @@
 title = "StudioC"
 draft = false
 tags = [ ]
+date = 2022-08-17T22:48:59Z
 
 [Article]
 contributors = ["StudioC"]

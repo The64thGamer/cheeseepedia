@@ -2,6 +2,7 @@
 title = "Funspot Arcade"
 draft = false
 tags = [ ]
+date = 2024-08-07T02:25:14Z
 
 [Article]
 contributors = ["The 64th Gamer"]

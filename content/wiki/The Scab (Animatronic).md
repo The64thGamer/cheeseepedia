@@ -2,6 +2,7 @@
 title = "The Scab (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-06-25T18:50:05Z
 
 [Article]
 contributors = ["MrKingoDingoBingo"]

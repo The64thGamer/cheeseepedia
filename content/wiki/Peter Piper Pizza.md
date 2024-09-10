@@ -2,6 +2,7 @@
 title = "Peter Piper Pizza"
 draft = false
 tags = [ ]
+date = 2022-09-12T22:07:44Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","50.206.240.150","Rexburg090"]

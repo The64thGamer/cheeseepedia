@@ -2,6 +2,7 @@
 title = "Melrose Park, IL (1030 Winston Plaza)"
 draft = false
 tags = [ ]
+date = 2023-07-31T23:14:00Z
 
 [Article]
 contributors = ["Melrosefool2763","CorrectorMan","Midwestern Jasper T."]

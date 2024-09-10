@@ -2,6 +2,7 @@
 title = "Bird (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-05T21:17:06Z
 
 [Article]
 contributors = ["CECBowlingGreen","EagleScout610","Ceclife13","Documentor","CoolerDude"]

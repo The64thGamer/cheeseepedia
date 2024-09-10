@@ -2,6 +2,7 @@
 title = "ShowBiz Pizza Place"
 draft = false
 tags = [ ]
+date = 2023-06-26T18:22:08Z
 
 [Article]
 contributors = ["CorrectorMan","RockyRhoad07","Saan1ty","PizzaEntertainmentFanX","The 64th Gamer","DerekCat","Stripes","CEC1988"]

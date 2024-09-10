@@ -2,6 +2,7 @@
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
 tags = [ ]
+date = 2023-09-12T01:58:47Z
 
 [Article]
 contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic"]

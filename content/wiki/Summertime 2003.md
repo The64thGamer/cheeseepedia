@@ -2,6 +2,7 @@
 title = "Summertime 2003"
 draft = false
 tags = [ ]
+date = 2022-02-26T17:46:36Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]

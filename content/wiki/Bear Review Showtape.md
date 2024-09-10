@@ -2,6 +2,7 @@
 title = "Bear Review Showtape"
 draft = false
 tags = [ ]
+date = 2023-09-20T19:43:32Z
 
 [Article]
 contributors = ["The 64th Gamer","Nebbytales"]

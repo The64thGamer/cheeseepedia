@@ -2,6 +2,7 @@
 title = "Topeka Inn Management Introduces... (1979)"
 draft = false
 tags = [ ]
+date = 2023-08-09T21:39:05Z
 
 [Article]
 contributors = ["Concordio","The 64th Gamer"]

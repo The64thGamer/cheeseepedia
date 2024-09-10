@@ -2,6 +2,7 @@
 title = "Nostalgia Cow"
 draft = false
 tags = [ ]
+date = 2023-07-20T16:59:18Z
 
 [Article]
 contributors = ["Nostalgia Cow"]

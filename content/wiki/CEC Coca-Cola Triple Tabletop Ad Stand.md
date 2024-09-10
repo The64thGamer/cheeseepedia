@@ -2,6 +2,7 @@
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
 tags = [ ]
+date = 2022-04-27T16:21:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","RedaCEC","Pasquallytheplumber"]

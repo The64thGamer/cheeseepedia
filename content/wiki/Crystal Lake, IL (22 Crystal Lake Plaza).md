@@ -2,6 +2,7 @@
 title = "Crystal Lake, IL (22 Crystal Lake Plaza)"
 draft = false
 tags = [ ]
+date = 2022-10-21T19:48:59Z
 
 [Article]
 contributors = ["ShowbizMidwest","Rexburg090","The 64th Gamer"]

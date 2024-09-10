@@ -2,6 +2,7 @@
 title = "You're A Star"
 draft = false
 tags = [ ]
+date = 2022-07-15T04:18:17Z
 
 [Article]
 contributors = ["Ceclife13","BurgersNuggs445"]

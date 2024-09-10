@@ -2,6 +2,7 @@
 title = "Bowling Green, KY (2530 Scottsville Rd)"
 draft = false
 tags = [ ]
+date = 2022-08-29T22:13:53Z
 
 [Article]
 contributors = ["CECBowlingGreen","RedaCEC","ChuckEPediaIsTheBest!","CECFan2023"]

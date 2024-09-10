@@ -2,6 +2,7 @@
 title = "Scottsboro, AL (2908 S Broad St)"
 draft = false
 tags = [ ]
+date = 2023-07-04T15:19:13Z
 
 [Article]
 contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]

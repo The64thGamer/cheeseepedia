@@ -2,6 +2,7 @@
 title = "Cherry Hill, NJ (1660 N Kings Hwy)"
 draft = false
 tags = [ ]
+date = 2023-12-09T02:33:48Z
 
 [Article]
 contributors = ["Cheeseclassic","Chuckeindiana"]

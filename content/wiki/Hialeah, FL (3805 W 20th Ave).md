@@ -2,6 +2,7 @@
 title = "Hialeah, FL (3805 W 20th Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-28T19:35:25Z
 
 [Article]
 contributors = ["ChuckECool","216.125.34.66","CEC Tinley","CEC Hialeah","ShowbizMidwest","Cheeseclassic","Stripes","AstridMascotFan2005","The 64th Gamer","CEC1988","ThatBoiCydalan","Jaxonia"]

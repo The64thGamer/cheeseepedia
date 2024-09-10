@@ -2,6 +2,7 @@
 title = "Category talk:Animatronics"
 draft = false
 tags = [ ]
+date = 2022-08-20T05:23:45Z
 
 [Article]
 contributors = ["Sponch man","PizzaEntertainmentFanX","Documentor"]

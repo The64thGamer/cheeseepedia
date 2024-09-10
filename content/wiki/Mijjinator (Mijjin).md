@@ -2,6 +2,7 @@
 title = "Mijjinator (Mijjin)"
 draft = false
 tags = [ ]
+date = 2023-12-28T02:44:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

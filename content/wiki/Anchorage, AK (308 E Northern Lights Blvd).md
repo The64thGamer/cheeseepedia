@@ -2,6 +2,7 @@
 title = "Anchorage, AK (308 E Northern Lights Blvd)"
 draft = false
 tags = [ ]
+date = 2022-10-10T15:58:36Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","ThatBoiCydalan","Rexburg090","CEC1988"]

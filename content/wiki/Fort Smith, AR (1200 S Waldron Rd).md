@@ -2,6 +2,7 @@
 title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-31T23:10:24Z
 
 [Article]
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","Rexburg090","CEC Tinley","ThatBoiCydalan","167.224.250.176"]

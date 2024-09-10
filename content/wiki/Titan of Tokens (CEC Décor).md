@@ -2,6 +2,7 @@
 title = "'Titan of Tokens' (CEC Décor)"
 draft = false
 tags = [ ]
+date = 2022-08-28T22:28:15Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

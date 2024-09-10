@@ -2,6 +2,7 @@
 title = "Articulated Helen Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T20:24:25Z
 
 [Article]
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]

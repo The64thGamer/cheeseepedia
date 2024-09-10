@@ -2,6 +2,7 @@
 title = "Rockwall, TX (855 East Interstate 30)"
 draft = false
 tags = [ ]
+date = 2023-08-25T23:45:23Z
 
 [Article]
 contributors = ["66.215.38.213","2600:1012:B0CA:2E86:1998:FCE5:1D80:A2BF","The 64th Gamer","Cheeseclassic","Harchambeault2026"]

@@ -2,6 +2,7 @@
 title = "Winchester Hardware Setup"
 draft = false
 tags = [ ]
+date = 2022-09-10T05:32:41Z
 
 [Article]
 contributors = ["The 64th Gamer","RessiduePezzzado","CEC Tinley"]

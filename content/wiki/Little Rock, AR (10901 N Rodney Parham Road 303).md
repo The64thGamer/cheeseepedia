@@ -2,6 +2,7 @@
 title = "Little Rock, AR (10901 N Rodney Parham Road 303)"
 draft = false
 tags = [ ]
+date = 2022-07-14T20:10:45Z
 
 [Article]
 contributors = ["ArtieAntlers","The 64th Gamer","RPCEC","Rexburg090","RedaCEC","ChuckECool","CEC Tinley","CECswag2009"]

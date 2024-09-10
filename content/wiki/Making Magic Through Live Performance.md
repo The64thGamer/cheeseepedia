@@ -2,6 +2,7 @@
 title = "Making Magic Through Live Performance"
 draft = false
 tags = [ ]
+date = 2022-02-28T19:34:09Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445"]

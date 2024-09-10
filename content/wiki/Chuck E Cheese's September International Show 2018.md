@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's September International Show 2018"
 draft = false
 tags = [ ]
+date = 2022-10-26T20:34:19Z
 
 [Article]
 contributors = ["ElWarlos35"]

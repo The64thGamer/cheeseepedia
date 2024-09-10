@@ -2,6 +2,7 @@
 title = "Park Ridge, IL (678 N Northwest Hwy)"
 draft = false
 tags = [ ]
+date = 2022-08-19T15:19:55Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Illinois","RPCEC","Rexburg090","BurgersNuggs445","CorrectorMan","Cheeseclassic","Muncho"]

@@ -2,6 +2,7 @@
 title = "Fairbanks, AK (600 Old Steese Hwy)"
 draft = false
 tags = [ ]
+date = 2023-01-17T20:15:33Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer","216.125.34.66","Rexburg090","CorrectorMan"]

@@ -2,6 +2,7 @@
 title = "Indiana Jowls (Parody Poster)"
 draft = false
 tags = [ ]
+date = 2023-07-17T19:17:11Z
 
 [Article]
 contributors = ["Nostalgia Cow","Ceclife13","ThatBoiCydalan"]

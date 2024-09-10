@@ -2,6 +2,7 @@
 title = "P. T. Bearum (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-02-08T20:11:48Z
 
 [Article]
 contributors = ["Lelmaster"]

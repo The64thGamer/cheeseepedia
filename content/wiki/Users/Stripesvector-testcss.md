@@ -2,6 +2,7 @@
 title = "Stripes/vector-test.css"
 draft = false
 tags = [ ]
+date = 2024-08-18T02:09:27Z
 
 [Article]
 contributors = ["Stripes"]

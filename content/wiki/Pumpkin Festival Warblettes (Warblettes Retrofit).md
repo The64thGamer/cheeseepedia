@@ -2,6 +2,7 @@
 title = "Pumpkin Festival Warblettes (Warblettes Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-10-16T02:25:13Z
 
 [Article]
 contributors = ["Documentor","PizzaEntertainmentFanX"]

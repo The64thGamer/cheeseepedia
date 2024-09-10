@@ -2,6 +2,7 @@
 title = "New Rock-afire Explosion Control System"
 draft = false
 tags = [ ]
+date = 2022-08-12T20:52:39Z
 
 [Article]
 contributors = ["Himitsu","Ls2018-1"]

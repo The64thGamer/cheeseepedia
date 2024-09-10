@@ -2,6 +2,7 @@
 title = "Rocky Mount, NC (730 Sutters Creek Blvd)"
 draft = false
 tags = [ ]
+date = 2023-11-26T08:01:41Z
 
 [Article]
 contributors = ["Caydenpedia","ThatBoiCydalan","AstridMascotFan2005"]

@@ -2,6 +2,7 @@
 title = "North Richland Hills, TX (7935 Grapevine Hwy)"
 draft = false
 tags = [ ]
+date = 2023-01-24T20:54:38Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]

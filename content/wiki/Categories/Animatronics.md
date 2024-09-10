@@ -2,6 +2,7 @@
 title = "Animatronics"
 draft = false
 tags = [ ]
+date = 2021-11-29T09:48:04Z
 
 [Article]
 contributors = ["The 64th Gamer","GallaRBX","BurgersNuggs445","CECBowlingGreen","Bullseye123","Documentor","Jaxon11","EagleScout610","WalterB","BigCtheDataFinder","Lelmaster","CECMentor"]

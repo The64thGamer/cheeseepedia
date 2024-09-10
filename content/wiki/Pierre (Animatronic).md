@@ -2,6 +2,7 @@
 title = "Pierre (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-31T00:39:05Z
 
 [Article]
 contributors = ["FileFickle"]

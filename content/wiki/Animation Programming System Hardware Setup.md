@@ -2,6 +2,7 @@
 title = "Animation Programming System Hardware Setup"
 draft = false
 tags = [ ]
+date = 2022-08-01T14:15:44Z
 
 [Article]
 contributors = ["The 64th Gamer"]

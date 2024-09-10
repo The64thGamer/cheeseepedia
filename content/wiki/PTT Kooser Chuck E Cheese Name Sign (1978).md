@@ -2,6 +2,7 @@
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = [ ]
+date = 2023-08-07T07:49:37Z
 
 [Article]
 contributors = ["Concordio"]

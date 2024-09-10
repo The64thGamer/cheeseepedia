@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Springtastic Show 2022"
 draft = false
 tags = [ ]
+date = 2022-03-05T21:12:13Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Pasquallytheplumber","Crazy Muzzarino"]

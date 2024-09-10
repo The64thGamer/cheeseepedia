@@ -2,6 +2,7 @@
 title = "Tennis (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-18T05:28:23Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer","BurgersNuggs445"]

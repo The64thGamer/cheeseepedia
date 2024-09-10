@@ -2,6 +2,7 @@
 title = "Maryville, TN (141 Foothills Mall)"
 draft = false
 tags = [ ]
+date = 2023-12-28T01:06:53Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]

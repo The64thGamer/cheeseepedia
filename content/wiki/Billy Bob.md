@@ -2,6 +2,7 @@
 title = "Billy Bob"
 draft = false
 tags = [ ]
+date = 2024-05-23T15:24:13Z
 
 [Article]
 contributors = ["CECMentor"]

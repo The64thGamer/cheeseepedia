@@ -2,6 +2,7 @@
 title = "Merced, CA (721 W Olive Ave)"
 draft = false
 tags = [ ]
+date = 2023-06-19T23:01:38Z
 
 [Article]
 contributors = ["Rexburg090","CorrectorMan","SuperCreamPiper2008","HoldenEye003","Caydenpedia","Cheeseclassic","ThatBoiCydalan"]

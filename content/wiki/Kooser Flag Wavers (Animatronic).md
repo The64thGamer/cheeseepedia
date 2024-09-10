@@ -2,6 +2,7 @@
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-02-28T16:59:36Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX"]

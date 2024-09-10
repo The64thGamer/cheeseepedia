@@ -2,6 +2,7 @@
 title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
 tags = [ ]
+date = 2023-01-23T14:53:28Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]

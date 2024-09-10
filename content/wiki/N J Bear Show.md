@@ -2,6 +2,7 @@
 title = "N. J. Bear Show"
 draft = false
 tags = [ ]
+date = 2021-12-16T16:57:43Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "July 1993 Show"
 draft = false
 tags = [ ]
+date = 2022-07-14T21:53:48Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer"]

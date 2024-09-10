@@ -2,6 +2,7 @@
 title = "Studio C Premiere"
 draft = false
 tags = [ ]
+date = 2022-03-20T22:49:55Z
 
 [Article]
 contributors = ["Documentor","216.125.34.66","The 64th Gamer"]

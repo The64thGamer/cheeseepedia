@@ -2,6 +2,7 @@
 title = "Bridgewater, NJ (600 Promenade Blvd)"
 draft = false
 tags = [ ]
+date = 2023-07-13T01:19:27Z
 
 [Article]
 contributors = ["CorrectorMan","Chucke.show","Chuckstar69","The 64th Gamer","CEC Tinley","ThatBoiCydalan","Cheeseclassic","PachCEC","AstridMascotFan2005","Cy's Junk at School","Documentor","BenTrainFan2000","Cecnj98","StudioA"]

@@ -2,6 +2,7 @@
 title = "CEI Betamax"
 draft = false
 tags = [ ]
+date = 2022-06-05T03:47:30Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]

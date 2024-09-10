@@ -2,6 +2,7 @@
 title = "Monroe, LA (3731 Pecanland Mall Dr)"
 draft = false
 tags = [ ]
+date = 2023-08-16T02:54:18Z
 
 [Article]
 contributors = ["47.17.236.200","Cheeseclassic","CEC Kokomo","Signal08","AthensEpic","Documentor","AstridMascotFan2005"]

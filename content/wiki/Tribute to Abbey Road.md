@@ -2,6 +2,7 @@
 title = "Tribute to Abbey Road"
 draft = false
 tags = [ ]
+date = 2022-10-23T22:24:43Z
 
 [Article]
 contributors = ["Sonim07","Montfortdog","Ceclife13","The 64th Gamer"]

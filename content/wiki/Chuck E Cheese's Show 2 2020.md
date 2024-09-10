@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 2 2020"
 draft = false
 tags = [ ]
+date = 2021-12-17T13:42:47Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","Mousester"]

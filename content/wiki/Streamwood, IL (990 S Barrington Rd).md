@@ -2,6 +2,7 @@
 title = "Streamwood, IL (990 S Barrington Rd)"
 draft = false
 tags = [ ]
+date = 2023-04-24T13:09:21Z
 
 [Article]
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]

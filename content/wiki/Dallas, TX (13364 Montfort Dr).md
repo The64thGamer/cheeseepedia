@@ -2,6 +2,7 @@
 title = "Dallas, TX (13364 Montfort Dr)"
 draft = false
 tags = [ ]
+date = 2022-09-29T17:04:05Z
 
 [Article]
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]

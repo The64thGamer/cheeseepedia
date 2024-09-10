@@ -2,6 +2,7 @@
 title = "ShowBiz Pizza Place Tickets"
 draft = false
 tags = [ ]
+date = 2022-12-16T19:15:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

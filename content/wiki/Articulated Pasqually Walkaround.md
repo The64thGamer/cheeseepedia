@@ -2,6 +2,7 @@
 title = "Articulated Pasqually Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T23:28:50Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]

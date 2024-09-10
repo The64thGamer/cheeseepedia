@@ -2,6 +2,7 @@
 title = "Myrtle Beach, SC (615 Lake Arrowhead Rd)"
 draft = false
 tags = [ ]
+date = 2023-12-10T17:13:18Z
 
 [Article]
 contributors = ["Cheeseclassic"]

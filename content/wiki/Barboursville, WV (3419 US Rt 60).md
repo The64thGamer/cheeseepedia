@@ -2,6 +2,7 @@
 title = "Barboursville, WV (3419 US Rt 60)"
 draft = false
 tags = [ ]
+date = 2023-04-27T13:43:32Z
 
 [Article]
 contributors = ["Midwestretail","64.125.60.2","Emcaacme","CECFan2023","Rexburg090","SuperCreamPiper2008","Documentor"]

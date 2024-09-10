@@ -2,6 +2,7 @@
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
 tags = [ ]
+date = 2022-12-30T18:38:26Z
 
 [Article]
 contributors = ["The 64th Gamer"]

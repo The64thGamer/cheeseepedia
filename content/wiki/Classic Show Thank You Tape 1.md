@@ -2,6 +2,7 @@
 title = "Classic Show Thank You Tape 1"
 draft = false
 tags = [ ]
+date = 2022-01-07T22:40:50Z
 
 [Article]
 contributors = ["The 64th Gamer"]

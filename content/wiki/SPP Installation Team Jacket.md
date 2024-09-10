@@ -2,6 +2,7 @@
 title = "SPP Installation Team Jacket"
 draft = false
 tags = [ ]
+date = 2023-08-09T15:29:25Z
 
 [Article]
 contributors = ["The 64th Gamer"]

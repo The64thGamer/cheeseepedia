@@ -2,6 +2,7 @@
 title = "September 1998"
 draft = false
 tags = [ ]
+date = 2022-03-20T18:36:23Z
 
 [Article]
 contributors = ["Documentor","Cy's Junk at School"]

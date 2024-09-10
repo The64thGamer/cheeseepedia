@@ -2,6 +2,7 @@
 title = "Knoxville, TN (8225 Kingston Pike)"
 draft = false
 tags = [ ]
+date = 2022-09-08T20:17:55Z
 
 [Article]
 contributors = ["Mechaitheracer25","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","Carl525","CEC Tinley"]

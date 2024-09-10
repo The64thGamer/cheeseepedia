@@ -2,6 +2,7 @@
 title = "Character Cable Tester"
 draft = false
 tags = [ ]
+date = 2022-07-10T12:18:39Z
 
 [Article]
 contributors = ["The 64th Gamer","Ls2018","Ls2018-1"]

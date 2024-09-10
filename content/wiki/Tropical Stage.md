@@ -2,6 +2,7 @@
 title = "Tropical Stage"
 draft = false
 tags = [ ]
+date = 2022-09-13T22:37:30Z
 
 [Article]
 contributors = ["Emcaacme","The 64th Gamer"]

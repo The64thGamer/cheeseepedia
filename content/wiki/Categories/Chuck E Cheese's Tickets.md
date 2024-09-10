@@ -2,6 +2,7 @@
 title = "Chuck E Cheese's Tickets"
 draft = false
 tags = [ ]
+date = 2022-12-16T07:35:38Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "Dingo Starr (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-06-09T00:57:16Z
 
 [Article]
 contributors = ["FileFickle"]

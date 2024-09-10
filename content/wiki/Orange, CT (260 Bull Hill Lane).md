@@ -2,6 +2,7 @@
 title = "Orange, CT (260 Bull Hill Lane)"
 draft = false
 tags = [ ]
+date = 2023-09-24T13:00:31Z
 
 [Article]
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cy's Junk at School"]

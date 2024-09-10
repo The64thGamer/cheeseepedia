@@ -2,6 +2,7 @@
 title = "Spokane, WA (2301 W Wellesley Ave)"
 draft = false
 tags = [ ]
+date = 2023-04-27T22:18:31Z
 
 [Article]
 contributors = ["ChuckECool","CEC Tinley","Rexburg090","199.197.71.213","199.197.73.149","2605:AD80:31:19FD:C84B:E17E:B579:CFBE","CorrectorMan","2601:601:8783:5B10:A563:E33B:15C4:304D","SuperCreamPiper2008","Cecanddisneyfan2004","Cheeseclassic"]

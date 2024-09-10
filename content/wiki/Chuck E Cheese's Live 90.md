@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Live 90"
 draft = false
 tags = [ ]
+date = 2022-02-19T01:28:51Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

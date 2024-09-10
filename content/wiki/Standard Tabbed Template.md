@@ -2,6 +2,7 @@
 title = "Standard: Tabbed Template"
 draft = false
 tags = [ ]
+date = 2023-05-12T20:09:09Z
 
 [Article]
 contributors = ["The 64th Gamer"]

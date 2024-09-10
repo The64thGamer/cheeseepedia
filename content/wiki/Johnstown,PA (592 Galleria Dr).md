@@ -2,6 +2,7 @@
 title = "Johnstown,PA (592 Galleria Dr)"
 draft = false
 tags = [ ]
+date = 2024-01-26T22:02:06Z
 
 [Article]
 contributors = ["CCSilver","The 64th Gamer"]

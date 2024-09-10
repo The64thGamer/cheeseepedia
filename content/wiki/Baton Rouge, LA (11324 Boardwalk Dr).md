@@ -2,6 +2,7 @@
 title = "Baton Rouge, LA (11324 Boardwalk Dr)"
 draft = false
 tags = [ ]
+date = 2023-02-03T18:43:12Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]

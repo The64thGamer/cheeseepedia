@@ -2,6 +2,7 @@
 title = "Fresno, CA (5384 N Blackstone Ave)"
 draft = false
 tags = [ ]
+date = 2023-09-29T23:11:23Z
 
 [Article]
 contributors = ["The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E"]

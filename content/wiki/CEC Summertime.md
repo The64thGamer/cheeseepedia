@@ -2,6 +2,7 @@
 title = "CEC Summertime"
 draft = false
 tags = [ ]
+date = 2022-01-25T13:23:09Z
 
 [Article]
 contributors = ["The 64th Gamer"]

@@ -2,6 +2,7 @@
 title = "The Word-Awesome (Commercial)"
 draft = false
 tags = [ ]
+date = 2022-11-03T01:47:14Z
 
 [Article]
 contributors = ["BurgersNuggs445"]

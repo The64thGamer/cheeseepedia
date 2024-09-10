@@ -2,6 +2,7 @@
 title = "Concept Unification Installation Manual"
 draft = false
 tags = [ ]
+date = 2022-01-25T00:24:49Z
 
 [Article]
 contributors = ["The 64th Gamer"]

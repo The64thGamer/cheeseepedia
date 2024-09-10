@@ -2,6 +2,7 @@
 title = "Paducah, KY (5141 Hinkleville Rd)"
 draft = false
 tags = [ ]
+date = 2022-09-10T16:21:47Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","Chuckstar69","ThatBoiCydalan","Japoople","The 64th Gamer"]

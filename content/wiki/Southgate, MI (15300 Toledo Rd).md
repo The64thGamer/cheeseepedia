@@ -2,6 +2,7 @@
 title = "Southgate, MI (15300 Toledo Rd)"
 draft = false
 tags = [ ]
+date = 2023-05-02T22:07:05Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","174.131.44.53","ItAllStartsHereYT","The 64th Gamer"]

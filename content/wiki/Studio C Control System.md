@@ -2,6 +2,7 @@
 title = "Studio C Control System"
 draft = false
 tags = [ ]
+date = 2021-11-29T07:07:09Z
 
 [Article]
 contributors = ["Himitsu","The 64th Gamer","2600:2B00:732F:E700:10A2:7CCE:3A01:108","CEC Tinley","GallaRBX2"]

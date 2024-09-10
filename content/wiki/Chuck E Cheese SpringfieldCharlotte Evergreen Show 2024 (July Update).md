@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Springfield/Charlotte Evergreen Show 2024 (July Update)"
 draft = false
 tags = [ ]
+date = 2024-07-30T01:13:42Z
 
 [Article]
 contributors = ["Documentor","AstridMascotFan2005","Dame0824","Cheeseclassic"]

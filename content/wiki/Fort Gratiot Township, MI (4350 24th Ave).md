@@ -2,6 +2,7 @@
 title = "Fort Gratiot Township, MI (4350 24th Ave)"
 draft = false
 tags = [ ]
+date = 2023-05-15T06:27:22Z
 
 [Article]
 contributors = ["Rexburg090","Midwestretail","ThatBoiCydalan","CECswag2009"]

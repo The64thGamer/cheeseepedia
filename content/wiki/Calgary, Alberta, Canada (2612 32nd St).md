@@ -2,6 +2,7 @@
 title = "Calgary, Alberta, Canada (2612 32nd St)"
 draft = false
 tags = [ ]
+date = 2024-08-20T18:29:32Z
 
 [Article]
 contributors = ["Douggaming"]

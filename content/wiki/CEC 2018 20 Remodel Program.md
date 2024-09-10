@@ -2,6 +2,7 @@
 title = "CEC 2018 2.0 Remodel Program"
 draft = false
 tags = [ ]
+date = 2022-09-14T22:43:10Z
 
 [Article]
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic"]

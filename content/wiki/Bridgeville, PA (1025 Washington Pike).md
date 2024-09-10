@@ -2,6 +2,7 @@
 title = "Bridgeville, PA (1025 Washington Pike)"
 draft = false
 tags = [ ]
+date = 2023-02-09T18:21:56Z
 
 [Article]
 contributors = ["ChuckECool","Bowling for Cheese","ThatBoiCydalan","CEC Tinley","Rexburg090"]

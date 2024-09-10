@@ -2,6 +2,7 @@
 title = "Chuck 2000 (Costume Head)"
 draft = false
 tags = [ ]
+date = 2022-07-14T15:54:16Z
 
 [Article]
 contributors = ["Showtimeinc","68.101.244.149","Mousester","2601:404:C101:5C70:3CC1:8063:2991:D2A6","CEC Tinley"]

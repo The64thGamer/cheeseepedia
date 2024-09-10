@@ -2,6 +2,7 @@
 title = "Awesome Adventure Machine"
 draft = false
 tags = [ ]
+date = 2022-07-15T03:53:36Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","74.70.97.78","Cy's Junk at School"]

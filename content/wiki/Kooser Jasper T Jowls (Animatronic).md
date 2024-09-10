@@ -2,6 +2,7 @@
 title = "Kooser Jasper T. Jowls (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-19T22:10:23Z
 
 [Article]
 contributors = ["EagleScout610","MultiMonorail","The 64th Gamer","216.125.34.66","FileFickle"]

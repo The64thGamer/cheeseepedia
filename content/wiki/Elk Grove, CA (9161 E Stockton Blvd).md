@@ -2,6 +2,7 @@
 title = "Elk Grove, CA (9161 E Stockton Blvd)"
 draft = false
 tags = [ ]
+date = 2023-09-04T14:02:19Z
 
 [Article]
 contributors = ["Cecfan2004","66.250.190.42","Cheeseclassic","AcTeZ"]

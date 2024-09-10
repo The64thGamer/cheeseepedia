@@ -2,6 +2,7 @@
 title = "Irving, TX (3903 W Airport Fwy)"
 draft = false
 tags = [ ]
+date = 2022-11-11T18:22:38Z
 
 [Article]
 contributors = ["BurgersNuggs445","ThatBoiCydalan","Rexburg090","RedaCEC","CorrectorMan","CEC Tinley","199.197.71.7","Jerry CEC","Saan1ty","AstridMascotFan2005"]

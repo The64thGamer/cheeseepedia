@@ -2,6 +2,7 @@
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
 tags = [ ]
+date = 2023-06-27T17:40:23Z
 
 [Article]
 contributors = ["NoName2000","Concordio"]

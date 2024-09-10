@@ -2,6 +2,7 @@
 title = "Pizza Wars (Parody Poster)"
 draft = false
 tags = [ ]
+date = 2023-07-20T02:32:02Z
 
 [Article]
 contributors = ["ThatBoiCydalan","BurgersNuggs445"]

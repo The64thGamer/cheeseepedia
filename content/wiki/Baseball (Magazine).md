@@ -2,6 +2,7 @@
 title = "Baseball (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-15T21:46:19Z
 
 [Article]
 contributors = ["The 64th Gamer","Nostalgia Cow"]

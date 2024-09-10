@@ -2,6 +2,7 @@
 title = "Monroeville, PA (3800 William Penn Hwy)"
 draft = false
 tags = [ ]
+date = 2023-03-13T04:13:04Z
 
 [Article]
 contributors = ["ChuckECool","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","Rexburg090","Tux Chuck","Cheeseclassic","ThatBoiCydalan","PachCEC"]

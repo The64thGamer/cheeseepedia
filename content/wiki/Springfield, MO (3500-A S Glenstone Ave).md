@@ -2,6 +2,7 @@
 title = "Springfield, MO (3500-A S Glenstone Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-31T20:18:03Z
 
 [Article]
 contributors = ["CorrectorMan","Landon animatronics","CEC Kokomo","Cheeseclassic","TheChuckECheeseGuy","Documentor","AstridMascotFan2005"]

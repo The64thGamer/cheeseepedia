@@ -2,6 +2,7 @@
 title = "Wolfman Show"
 draft = false
 tags = [ ]
+date = 2024-05-05T23:43:07Z
 
 [Article]
 contributors = ["The 64th Gamer"]

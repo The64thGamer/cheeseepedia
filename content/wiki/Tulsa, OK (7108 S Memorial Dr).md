@@ -2,6 +2,7 @@
 title = "Tulsa, OK (7108 S Memorial Dr)"
 draft = false
 tags = [ ]
+date = 2023-01-22T19:15:52Z
 
 [Article]
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]

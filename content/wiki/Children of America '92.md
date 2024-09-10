@@ -2,6 +2,7 @@
 title = "Children of America '92"
 draft = false
 tags = [ ]
+date = 2022-07-17T03:03:23Z
 
 [Article]
 contributors = ["DerekCat"]

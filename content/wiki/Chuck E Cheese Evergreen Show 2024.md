@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Evergreen Show 2024"
 draft = false
 tags = [ ]
+date = 2024-01-03T23:13:50Z
 
 [Article]
 contributors = ["Cheeseclassic","John95","YoyoandRonnie","Dame0824","Cy's Junk at School"]

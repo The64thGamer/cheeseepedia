@@ -2,6 +2,7 @@
 title = "Daniel and the Dixie Diggers"
 draft = false
 tags = [ ]
+date = 2023-11-11T21:49:52Z
 
 [Article]
 contributors = ["BigCtheDataFinder","The 64th Gamer","Wizington"]

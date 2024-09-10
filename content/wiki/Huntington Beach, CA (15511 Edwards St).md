@@ -2,6 +2,7 @@
 title = "Huntington Beach, CA (15511 Edwards St)"
 draft = false
 tags = [ ]
+date = 2023-01-27T20:56:43Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ChuckEPediaIsTheBest!","StarToday77","Saan1ty","Cheeseclassic","SuperCreamPiper2008","Caydenpedia","PizzaEntertainmentFanX","CEC1988","The 64th Gamer","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]

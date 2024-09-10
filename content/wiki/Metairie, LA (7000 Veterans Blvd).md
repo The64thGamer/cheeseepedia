@@ -2,6 +2,7 @@
 title = "Metairie, LA (7000 Veterans Blvd)"
 draft = false
 tags = [ ]
+date = 2023-01-24T21:14:26Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","To Fast","66.250.190.24","AstridMascotFan2005"]

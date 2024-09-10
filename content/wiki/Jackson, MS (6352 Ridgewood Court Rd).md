@@ -2,6 +2,7 @@
 title = "Jackson, MS (6352 Ridgewood Court Rd)"
 draft = false
 tags = [ ]
+date = 2022-10-16T21:10:09Z
 
 [Article]
 contributors = ["BurgersNuggs445","Rexburg090","Midwestretail","47.17.236.200","CorrectorMan","ShowbizMidwest","Moonrock","AstridMascotFan2005"]

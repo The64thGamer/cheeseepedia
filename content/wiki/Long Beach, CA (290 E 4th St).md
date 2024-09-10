@@ -2,6 +2,7 @@
 title = "Long Beach, CA (290 E 4th St)"
 draft = false
 tags = [ ]
+date = 2023-08-05T23:03:50Z
 
 [Article]
 contributors = ["CorrectorMan"]

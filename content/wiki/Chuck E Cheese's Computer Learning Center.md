@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Computer Learning Center"
 draft = false
 tags = [ ]
+date = 2022-10-15T21:02:52Z
 
 [Article]
 contributors = ["The 64th Gamer"]

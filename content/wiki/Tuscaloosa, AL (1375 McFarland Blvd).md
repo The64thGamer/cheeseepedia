@@ -2,6 +2,7 @@
 title = "Tuscaloosa, AL (1375 McFarland Blvd)"
 draft = false
 tags = [ ]
+date = 2023-10-08T05:02:05Z
 
 [Article]
 contributors = ["ThatBoiCydalan","Cy's Junk at School"]

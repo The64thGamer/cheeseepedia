@@ -2,6 +2,7 @@
 title = "Phoenix, AZ (4310 W Thomas Rd)"
 draft = false
 tags = [ ]
+date = 2024-06-20T01:54:59Z
 
 [Article]
 contributors = ["JND","Letterstolooneybird","Cheeseclassic"]

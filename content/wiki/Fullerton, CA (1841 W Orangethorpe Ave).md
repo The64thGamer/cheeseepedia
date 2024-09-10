@@ -2,6 +2,7 @@
 title = "Fullerton, CA (1841 W Orangethorpe Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-11T20:54:59Z
 
 [Article]
 contributors = ["CorrectorMan","The 64th Gamer","CEC1988"]

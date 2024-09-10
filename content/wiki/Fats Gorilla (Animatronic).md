@@ -2,6 +2,7 @@
 title = "Fats Gorilla (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-06-07T00:16:28Z
 
 [Article]
 contributors = ["FileFickle"]

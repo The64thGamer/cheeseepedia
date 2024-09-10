@@ -2,6 +2,7 @@
 title = "National City, CA (1143 Highland Ave)"
 draft = false
 tags = [ ]
+date = 2023-02-03T23:03:42Z
 
 [Article]
 contributors = ["ChuckECool","CEC Tinley","TheChuckECheeseGuy","Chez","CoolerDude","Cheeseclassic","Estsproduction","AstridMascotFan2005"]

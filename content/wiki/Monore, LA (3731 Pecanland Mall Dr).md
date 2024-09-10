@@ -2,6 +2,7 @@
 title = "Monore, LA (3731 Pecanland Mall Dr)"
 draft = false
 tags = [ ]
+date = 2023-12-24T08:04:25Z
 
 [Article]
 contributors = ["AthensEpic"]

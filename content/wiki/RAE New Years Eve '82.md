@@ -2,6 +2,7 @@
 title = "RAE New Years Eve '82"
 draft = false
 tags = [ ]
+date = 2023-08-07T01:12:16Z
 
 [Article]
 contributors = ["The 64th Gamer"]

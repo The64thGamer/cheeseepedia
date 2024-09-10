@@ -2,6 +2,7 @@
 title = "Looney Bird (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-05-20T17:34:25Z
 
 [Article]
 contributors = ["CECMentor","Stripes","BenTrainFan2000"]

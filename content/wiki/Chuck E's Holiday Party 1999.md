@@ -2,6 +2,7 @@
 title = "Chuck E's Holiday Party 1999"
 draft = false
 tags = [ ]
+date = 2022-07-24T18:05:28Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer","Documentor"]

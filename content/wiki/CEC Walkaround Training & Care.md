@@ -2,6 +2,7 @@
 title = "CEC Walkaround Training & Care"
 draft = false
 tags = [ ]
+date = 2022-01-12T20:26:45Z
 
 [Article]
 contributors = ["The 64th Gamer"]

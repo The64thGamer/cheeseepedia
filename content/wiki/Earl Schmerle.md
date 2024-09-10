@@ -2,6 +2,7 @@
 title = "Earl Schmerle"
 draft = false
 tags = [ ]
+date = 2024-05-28T13:35:31Z
 
 [Article]
 contributors = ["CECMentor"]

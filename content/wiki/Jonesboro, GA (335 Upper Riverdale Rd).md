@@ -2,6 +2,7 @@
 title = "Jonesboro, GA (335 Upper Riverdale Rd)"
 draft = false
 tags = [ ]
+date = 2023-01-31T16:47:02Z
 
 [Article]
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]

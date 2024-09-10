@@ -2,6 +2,7 @@
 title = "Glendale, AZ (6773 West Bell Rd)"
 draft = false
 tags = [ ]
+date = 2023-06-12T00:24:28Z
 
 [Article]
 contributors = ["RockyRhoad07","ThatBoiCydalan","2600:4040:5A0E:D900:6500:272E:6953:1FCD","GabrielPennington9864","CorrectorMan","BurgersNuggs445","Chez","AstridMascotFan2005"]

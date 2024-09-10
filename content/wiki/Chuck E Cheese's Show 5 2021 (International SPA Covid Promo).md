@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Show 5 2021 (International SPA Covid Promo)"
 draft = false
 tags = [ ]
+date = 2021-12-11T21:46:43Z
 
 [Article]
 contributors = ["Documentor","Himitsu","Showbiz Pizza International","Cy's Junk at School"]

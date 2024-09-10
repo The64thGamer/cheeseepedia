@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Winter 2015 Show"
 draft = false
 tags = [ ]
+date = 2022-01-03T18:39:49Z
 
 [Article]
 contributors = ["Documentor","Himitsu","John95"]

@@ -2,6 +2,7 @@
 title = "Billy Bob 7 1/2' Plush Doll (1981)"
 draft = false
 tags = [ ]
+date = 2023-04-29T03:01:36Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley"]

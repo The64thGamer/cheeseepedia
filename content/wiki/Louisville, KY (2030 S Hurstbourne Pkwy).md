@@ -2,6 +2,7 @@
 title = "Louisville, KY (2030 S Hurstbourne Pkwy)"
 draft = false
 tags = [ ]
+date = 2022-09-11T01:48:12Z
 
 [Article]
 contributors = ["CECBowlingGreen","Documentor","Rexburg090","Studio 18 Ent","ChuckEPediaIsTheBest!","ChuckECool","Midwestretail","CEC Tinley","AstridMascotFan2005","ThatBoiCydalan","Cyberamics","Cheeseclassic","CECswag2009"]

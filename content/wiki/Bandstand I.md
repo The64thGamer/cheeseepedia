@@ -2,6 +2,7 @@
 title = "Bandstand I"
 draft = false
 tags = [ ]
+date = 2022-09-11T17:17:16Z
 
 [Article]
 contributors = ["JamesLemony"]

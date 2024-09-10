@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese International Show 2 2023"
 draft = false
 tags = [ ]
+date = 2023-04-22T02:59:08Z
 
 [Article]
 contributors = ["Bowling for Cheese","Showbiz Pizza International","The 64th Gamer"]

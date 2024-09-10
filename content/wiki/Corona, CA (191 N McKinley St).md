@@ -2,6 +2,7 @@
 title = "Corona, CA (191 N McKinley St)"
 draft = false
 tags = [ ]
+date = 2023-02-28T21:09:11Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","168.69.254.249","CEC Tinley","The 64th Gamer","2605:AD80:31:19FD:B57E:48C6:6471:3CA","Chez","Stripes","SuperCreamPiper2008","Caydenpedia","AstridMascotFan2005","CECMadison"]

@@ -2,6 +2,7 @@
 title = "Wink (Cyberamic)"
 draft = false
 tags = [ ]
+date = 2022-10-05T20:26:13Z
 
 [Article]
 contributors = ["CECBowlingGreen","216.125.34.66","Saan1ty","74.82.228.91","Rexburg090","Caydenpedia","SuperCreamPiper2008","CECMentor","CECMadison","Stripes"]

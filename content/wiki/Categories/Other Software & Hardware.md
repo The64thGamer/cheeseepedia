@@ -2,6 +2,7 @@
 title = "Other Software & Hardware"
 draft = false
 tags = [ ]
+date = 2022-08-13T02:03:03Z
 
 [Article]
 contributors = ["The 64th Gamer","ChuckE1352"]

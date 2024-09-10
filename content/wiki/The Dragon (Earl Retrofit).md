@@ -2,6 +2,7 @@
 title = "The Dragon (Earl Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-07-15T18:10:59Z
 
 [Article]
 contributors = ["Sonichacker","Mousester"]

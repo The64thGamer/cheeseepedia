@@ -2,6 +2,7 @@
 title = "Caydenpedia"
 draft = false
 tags = [ ]
+date = 2023-09-23T01:04:06Z
 
 [Article]
 contributors = ["75.8.75.212","Caydenpedia"]

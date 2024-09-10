@@ -2,6 +2,7 @@
 title = "It's Chuck E. Time!"
 draft = false
 tags = [ ]
+date = 2022-05-04T20:50:11Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

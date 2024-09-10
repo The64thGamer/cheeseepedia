@@ -2,6 +2,7 @@
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
 tags = [ ]
+date = 2022-07-24T17:24:45Z
 
 [Article]
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]

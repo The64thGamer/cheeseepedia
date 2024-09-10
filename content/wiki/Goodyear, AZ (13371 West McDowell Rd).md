@@ -2,6 +2,7 @@
 title = "Goodyear, AZ (13371 West McDowell Rd)"
 draft = false
 tags = [ ]
+date = 2023-11-08T04:33:25Z
 
 [Article]
 contributors = ["Chez","Cheeseclassic","AstridMascotFan2005"]

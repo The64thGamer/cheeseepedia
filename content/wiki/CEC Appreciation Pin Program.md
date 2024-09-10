@@ -2,6 +2,7 @@
 title = "CEC Appreciation Pin Program"
 draft = false
 tags = [ ]
+date = 2022-04-17T19:21:23Z
 
 [Article]
 contributors = ["The 64th Gamer"]

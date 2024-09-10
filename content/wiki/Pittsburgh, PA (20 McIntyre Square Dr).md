@@ -2,6 +2,7 @@
 title = "Pittsburgh, PA (20 McIntyre Square Dr)"
 draft = false
 tags = [ ]
+date = 2022-02-20T19:00:02Z
 
 [Article]
 contributors = ["The 64th Gamer","Bowling for Cheese","Rexburg090","CECBowlingGreen","ThatBoiCydalan","Save phase 5","Documentor","CECswag2009","AstridMascotFan2005"]

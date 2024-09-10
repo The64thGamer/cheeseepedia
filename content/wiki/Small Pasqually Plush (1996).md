@@ -2,6 +2,7 @@
 title = "Small Pasqually Plush (1996)"
 draft = false
 tags = [ ]
+date = 2023-04-22T19:05:35Z
 
 [Article]
 contributors = ["ToadEatSock","The 64th Gamer","BurgersNuggs445"]

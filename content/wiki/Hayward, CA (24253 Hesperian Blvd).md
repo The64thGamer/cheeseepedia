@@ -2,6 +2,7 @@
 title = "Hayward, CA (24253 Hesperian Blvd)"
 draft = false
 tags = [ ]
+date = 2024-05-01T01:37:11Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","Cheeseclassic","Veronancy","CECMadison","Floorplanmuncher"]

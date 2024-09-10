@@ -2,6 +2,7 @@
 title = "Uncle Klunk (Animatronic)"
 draft = false
 tags = [ ]
+date = 2024-07-18T00:21:35Z
 
 [Article]
 contributors = ["Avabeckley"]

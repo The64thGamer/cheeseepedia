@@ -2,6 +2,7 @@
 title = "Waterbury, CT (650 Wolcott St)"
 draft = false
 tags = [ ]
+date = 2022-10-16T04:54:31Z
 
 [Article]
 contributors = ["Rexburg090","CECBowlingGreen","73.218.229.96","ChuckfeldStan"]

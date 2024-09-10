@@ -2,6 +2,7 @@
 title = "CEC American Pride / Neighbors"
 draft = false
 tags = [ ]
+date = 2024-01-18T07:53:18Z
 
 [Article]
 contributors = ["DerekCat"]

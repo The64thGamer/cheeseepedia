@@ -2,6 +2,7 @@
 title = "Winchester Warblettes (Animatronic)"
 draft = false
 tags = [ ]
+date = 2023-08-09T23:54:57Z
 
 [Article]
 contributors = ["WalterB","NoName2000","PizzaEntertainmentFanX"]

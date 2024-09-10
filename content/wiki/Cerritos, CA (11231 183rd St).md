@@ -2,6 +2,7 @@
 title = "Cerritos, CA (11231 183rd St)"
 draft = false
 tags = [ ]
+date = 2023-10-05T01:28:52Z
 
 [Article]
 contributors = ["2600:1012:B1AA:2DE5:21F3:AAC3:CA95:DB9A","Cheeseclassic","AstridMascotFan2005"]

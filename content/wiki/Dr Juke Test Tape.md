@@ -2,6 +2,7 @@
 title = "Dr. Juke Test Tape"
 draft = false
 tags = [ ]
+date = 2022-06-18T23:03:45Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]

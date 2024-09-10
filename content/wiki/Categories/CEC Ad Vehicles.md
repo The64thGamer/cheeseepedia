@@ -2,6 +2,7 @@
 title = "CEC Ad Vehicles"
 draft = false
 tags = [ ]
+date = 2022-09-22T14:23:09Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445"]

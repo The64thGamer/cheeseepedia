@@ -2,6 +2,7 @@
 title = "ChuckEPediaIsTheBest!"
 draft = false
 tags = [ ]
+date = 2023-01-03T21:41:50Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Grand Slam"
 draft = false
 tags = [ ]
+date = 2024-05-26T20:32:18Z
 
 [Article]
 contributors = ["ThatBoiCydalan"]

@@ -2,6 +2,7 @@
 title = "Columbus, IN (1455 N National Rd)"
 draft = false
 tags = [ ]
+date = 2023-10-07T03:22:57Z
 
 [Article]
 contributors = ["Cheeseclassic","ThatBoiCydalan","Caydenpedia"]

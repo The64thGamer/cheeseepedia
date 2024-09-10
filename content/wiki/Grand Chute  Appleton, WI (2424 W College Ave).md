@@ -2,6 +2,7 @@
 title = "Grand Chute / Appleton, WI (2424 W College Ave)"
 draft = false
 tags = [ ]
+date = 2023-11-16T21:50:07Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]

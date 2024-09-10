@@ -2,6 +2,7 @@
 title = "Waterbury, CT (983 Wolcott St)"
 draft = false
 tags = [ ]
+date = 2023-09-24T14:04:27Z
 
 [Article]
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys123","CoolerDude"]

@@ -2,6 +2,7 @@
 title = "Silver Spring, MD (13807 Outlet Dr)"
 draft = false
 tags = [ ]
+date = 2023-04-10T19:33:17Z
 
 [Article]
 contributors = ["PachDaChuckster","Rexburg090","Bowling for Cheese","2600:4040:2FEC:E600:DDD2:FA95:6DC0:70D8","CEC Tinley","BurgersNuggs445","ChuckECool","Cecnj98","CorrectorMan","PachCEC","AstridMascotFan2005"]

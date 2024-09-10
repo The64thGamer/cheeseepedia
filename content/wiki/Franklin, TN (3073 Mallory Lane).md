@@ -2,6 +2,7 @@
 title = "Franklin, TN (3073 Mallory Lane)"
 draft = false
 tags = [ ]
+date = 2022-09-12T15:44:53Z
 
 [Article]
 contributors = ["CECBowlingGreen","Steven 'CEC' Master","BurgersNuggs445"]

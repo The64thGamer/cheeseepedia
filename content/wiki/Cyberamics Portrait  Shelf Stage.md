@@ -2,6 +2,7 @@
 title = "Cyberamics Portrait / Shelf Stage"
 draft = false
 tags = [ ]
+date = 2022-09-16T17:56:46Z
 
 [Article]
 contributors = ["CECBowlingGreen","Ceclife13","Rexburg090","JamesLemony","RessiduePezzzado","Pench0782","ChuckEPediaIsTheBest!","BurgersNuggs445","216.125.34.66","38.49.94.191","Charlesiiikingofengland","CorrectorMan","Saan1ty","Mecha","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Midwestretail","Documentor"]

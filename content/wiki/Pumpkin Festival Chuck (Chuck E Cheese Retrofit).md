@@ -2,6 +2,7 @@
 title = "Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-01-11T20:06:45Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","PizzaEntertainmentFanX"]

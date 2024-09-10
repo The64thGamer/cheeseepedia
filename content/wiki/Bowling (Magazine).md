@@ -2,6 +2,7 @@
 title = "Bowling (Magazine)"
 draft = false
 tags = [ ]
+date = 2023-07-15T20:48:18Z
 
 [Article]
 contributors = ["The 64th Gamer","Nostalgia Cow"]

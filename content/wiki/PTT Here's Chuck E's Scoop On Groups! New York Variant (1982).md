@@ -2,6 +2,7 @@
 title = "PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant (1982)"
 draft = false
 tags = [ ]
+date = 2023-04-18T20:22:04Z
 
 [Article]
 contributors = ["The 64th Gamer"]

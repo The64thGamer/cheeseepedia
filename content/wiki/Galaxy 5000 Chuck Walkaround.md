@@ -2,6 +2,7 @@
 title = "Galaxy 5000 Chuck Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T21:11:10Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","CEC Tinley","2601:81:8500:E190:74A4:B452:52FC:27F9"]

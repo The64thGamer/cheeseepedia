@@ -2,6 +2,7 @@
 title = "Retro Chuck E. Cheese Funko POP!"
 draft = false
 tags = [ ]
+date = 2023-04-26T02:10:35Z
 
 [Article]
 contributors = ["The 64th Gamer","74.137.220.26"]

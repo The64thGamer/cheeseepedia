@@ -2,6 +2,7 @@
 title = "Standard: Store Page"
 draft = false
 tags = [ ]
+date = 2022-07-14T17:28:34Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC forgotten Location Finder","Stripes"]

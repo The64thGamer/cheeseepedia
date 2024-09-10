@@ -2,6 +2,7 @@
 title = "CEI Policy Manual"
 draft = false
 tags = [ ]
+date = 2023-10-08T03:32:26Z
 
 [Article]
 contributors = ["The 64th Gamer"]

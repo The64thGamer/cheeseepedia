@@ -2,6 +2,7 @@
 title = "La Habra, CA (901 Harbor Blvd)"
 draft = false
 tags = [ ]
+date = 2023-08-22T00:38:18Z
 
 [Article]
 contributors = ["CEC Kokomo","Chuckeindiana","The 64th Gamer"]

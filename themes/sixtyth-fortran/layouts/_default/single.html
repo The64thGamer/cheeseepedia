@@ -3,8 +3,6 @@
   <hr>
   {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
   {{ $dateHuman := .Date | time.Format ":date_long" }}
-  <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
   {{ .Content | markdownify | safeHTML }}
 
   <hr><div class="contributors"><strong>Article Contributed By:</strong>
@@ -20,6 +18,8 @@
       {{- end -}}
       {{- if lt (add $index 1) $len }}, {{ end }}
     {{- end -}}  
+
+    <strong> | Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 </div>
 {{ end }}  {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

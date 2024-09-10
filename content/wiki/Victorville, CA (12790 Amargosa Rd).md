@@ -2,6 +2,7 @@
 title = "Victorville, CA (12790 Amargosa Rd)"
 draft = false
 tags = [ ]
+date = 2023-08-01T19:41:14Z
 
 [Article]
 contributors = ["66.215.38.213","CorrectorMan","CEC Tinley"]

@@ -2,6 +2,7 @@
 title = "Victorville, CA (15405 Park Ave)"
 draft = false
 tags = [ ]
+date = 2023-07-08T22:09:42Z
 
 [Article]
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic"]

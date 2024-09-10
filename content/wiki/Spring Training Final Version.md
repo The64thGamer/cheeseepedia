@@ -2,6 +2,7 @@
 title = "Spring Training Final Version"
 draft = false
 tags = [ ]
+date = 2023-02-01T04:36:22Z
 
 [Article]
 contributors = ["Ceclife13"]

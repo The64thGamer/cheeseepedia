@@ -2,6 +2,7 @@
 title = "Westland MI (208 S Wayne Rd)"
 draft = false
 tags = [ ]
+date = 2024-06-11T19:37:43Z
 
 [Article]
 contributors = ["ItAllStartsHereYT","CoolerDude"]

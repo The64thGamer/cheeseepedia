@@ -2,6 +2,7 @@
 title = "1993 CEC Franchise Phoenix Convention (Event)"
 draft = false
 tags = [ ]
+date = 2022-07-08T00:35:29Z
 
 [Article]
 contributors = ["The 64th Gamer"]

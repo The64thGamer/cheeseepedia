@@ -2,6 +2,7 @@
 title = "Dingo Star"
 draft = false
 tags = [ ]
+date = 2022-08-18T05:02:08Z
 
 [Article]
 contributors = ["Sponch man","2601:600:8F00:4620:5856:C7F4:B277:85AF"]

@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese's Official YouTube Videos"
 draft = false
 tags = [ ]
+date = 2022-05-01T20:35:57Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","StudioC","72.179.187.13","CECBowlingGreen","BurgersNuggs445","ChuckEPediaIsTheBest!","Rexburg090"]

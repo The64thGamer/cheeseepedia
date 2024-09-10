@@ -2,6 +2,7 @@
 title = "Chino, CA (5250 Philadelphia St)"
 draft = false
 tags = [ ]
+date = 2023-07-27T19:51:43Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","Estsproduction","CEC1988","Cecfan15WantsRetromation","The 64th Gamer","CoolerDude"]

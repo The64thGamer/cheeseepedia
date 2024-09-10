@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Cheese Pizza"
 draft = false
 tags = [ ]
+date = 2022-10-14T14:08:31Z
 
 [Article]
 contributors = ["CECBowlingGreen","Newbie editor"]

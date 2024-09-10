@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Metaverse"
 draft = false
 tags = [ ]
+date = 2022-04-05T23:12:00Z
 
 [Article]
 contributors = ["The 64th Gamer"]

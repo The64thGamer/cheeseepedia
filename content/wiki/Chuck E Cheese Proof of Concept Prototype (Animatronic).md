@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Proof of Concept Prototype (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-08T19:51:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]

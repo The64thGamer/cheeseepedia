@@ -2,6 +2,7 @@
 title = "CECFan2023"
 draft = false
 tags = [ ]
+date = 2023-04-28T13:05:16Z
 
 [Article]
 contributors = ["CECFan2023"]

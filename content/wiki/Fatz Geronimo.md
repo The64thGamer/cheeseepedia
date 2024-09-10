@@ -2,6 +2,7 @@
 title = "Fatz Geronimo"
 draft = false
 tags = [ ]
+date = 2024-05-23T17:42:55Z
 
 [Article]
 contributors = ["CECMentor","Livelycheese"]

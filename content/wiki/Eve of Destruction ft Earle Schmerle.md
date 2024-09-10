@@ -2,6 +2,7 @@
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
 tags = [ ]
+date = 2021-12-17T15:12:30Z
 
 [Article]
 contributors = ["The 64th Gamer","Cy's Junk at School"]

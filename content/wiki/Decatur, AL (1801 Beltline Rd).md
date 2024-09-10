@@ -2,6 +2,7 @@
 title = "Decatur, AL (1801 Beltline Rd)"
 draft = false
 tags = [ ]
+date = 2023-09-30T02:21:46Z
 
 [Article]
 contributors = ["MFHALSTON","Scofow76","The 64th Gamer","Stripes","AstridMascotFan2005","Caydenpedia"]

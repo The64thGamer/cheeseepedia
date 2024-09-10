@@ -2,6 +2,7 @@
 title = "Summertime 2006"
 draft = false
 tags = [ ]
+date = 2023-08-08T03:35:45Z
 
 [Article]
 contributors = ["Ceclife13","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]

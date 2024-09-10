@@ -2,6 +2,7 @@
 title = "Click / Murray D. Bird (Animatronic)"
 draft = false
 tags = [ ]
+date = 2023-10-13T01:21:51Z
 
 [Article]
 contributors = ["The 64th Gamer","Avabeckley"]

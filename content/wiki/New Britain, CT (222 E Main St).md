@@ -2,6 +2,7 @@
 title = "New Britain, CT (222 E Main St)"
 draft = false
 tags = [ ]
+date = 2023-09-24T12:50:48Z
 
 [Article]
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys123"]

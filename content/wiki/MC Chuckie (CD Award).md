@@ -2,6 +2,7 @@
 title = "'M.C. Chuckie' (CD Award)"
 draft = false
 tags = [ ]
+date = 2022-08-28T22:52:36Z
 
 [Article]
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer","Nostalgia Cow"]

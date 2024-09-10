@@ -2,6 +2,7 @@
 title = "Chuck 2010 (Costume Head)"
 draft = false
 tags = [ ]
+date = 2022-07-14T15:36:37Z
 
 [Article]
 contributors = ["Showtimeinc"]

@@ -2,6 +2,7 @@
 title = "Sun (Animatronic)"
 draft = false
 tags = [ ]
+date = 2022-09-01T13:36:17Z
 
 [Article]
 contributors = ["CECBowlingGreen","2607:9880:1BF8:100:D92C:9888:F80C:291B","Rexburg090","ShowbizMidwest","CEC Tinley","2607:9880:1BF8:100:141D:4A55:4180:A301","2607:9880:1BF7:FFCB:B9C2:88C7:4F9E:9E85","Hauntingstudios","CECMentor","Sonichacker","AstridMascotFan2005"]

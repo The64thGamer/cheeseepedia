@@ -2,6 +2,7 @@
 title = "Articulated Chuck Walkaround"
 draft = false
 tags = [ ]
+date = 2022-08-09T19:59:57Z
 
 [Article]
 contributors = ["ShowbizMidwest","BurgersNuggs445","68.201.38.174","Documentor","The 64th Gamer","OnionMastori"]

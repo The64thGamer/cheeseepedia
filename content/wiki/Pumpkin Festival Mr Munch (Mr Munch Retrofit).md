@@ -2,6 +2,7 @@
 title = "Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"
 draft = false
 tags = [ ]
+date = 2022-10-15T23:17:03Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]

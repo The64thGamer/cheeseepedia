@@ -2,6 +2,7 @@
 title = "CEI Apple II Programmer"
 draft = false
 tags = [ ]
+date = 2022-07-15T23:24:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Ls2018","Ls2018-1"]

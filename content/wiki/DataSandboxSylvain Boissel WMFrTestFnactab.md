@@ -2,6 +2,7 @@
 title = "Data:Sandbox/Sylvain Boissel WMFr/TestFnac.tab"
 draft = false
 tags = [ ]
+date = 2019-07-18T15:48:15Z
 
 [Article]
 contributors = ["Mediawiki>Sylvain Boissel WMFr","The 64th Gamer"]

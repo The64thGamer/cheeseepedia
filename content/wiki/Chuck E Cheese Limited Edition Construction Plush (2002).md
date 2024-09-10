@@ -2,6 +2,7 @@
 title = "Chuck E. Cheese Limited Edition Construction Plush (2002)"
 draft = false
 tags = [ ]
+date = 2022-07-15T14:59:36Z
 
 [Article]
 contributors = ["The 64th Gamer"]

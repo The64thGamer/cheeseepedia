@@ -2,6 +2,7 @@
 title = "Jeddah (Corniche Road), Saudi Arabia"
 draft = false
 tags = [ ]
+date = 2022-09-11T05:11:15Z
 
 [Article]
 contributors = ["Bowling for Cheese","CECBowlingGreen","BurgersNuggs445","RockyRhoad07","ThatBoiCydalan","Tux Chuck","AstridMascotFan2005"]

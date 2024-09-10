@@ -2,6 +2,7 @@
 title = "Tempe, AZ (1000 E Broadway Rd)"
 draft = false
 tags = [ ]
+date = 2024-07-23T03:03:05Z
 
 [Article]
 contributors = ["JND"]

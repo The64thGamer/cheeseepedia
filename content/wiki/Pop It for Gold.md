@@ -2,6 +2,7 @@
 title = "Pop It for Gold"
 draft = false
 tags = [ ]
+date = 2023-01-30T14:22:28Z
 
 [Article]
 contributors = ["ChuckETasticAlt","GuestIsJustBest","Stripes","ThatBoiCydalan"]
