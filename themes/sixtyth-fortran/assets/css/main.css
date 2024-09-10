@@ -1,26 +1,30 @@
 :root {
-  --deep-blue: #1e2c4c;
-  --blue: hsl(160, 55%, 46%);
+  --blue:#233355;
+  --aqua: #39A481;
   --white: #dbd1b1;
-  --yellow: hsl(37, 76%, 50%);
-  --orange: #e75102;
+  --yellow: #e0961f;
+  --orange: #D44A02;
   --deep-orange: #993b08;
   --brown: #2c2422;
 }
 
 body {
   color: var(--white);
-  background-color: var(--deep-blue);
+  background-color: var(--blue);
   font-family: "Aleo";
+  font-size: 1em;
   line-height: 1.5; 
   margin: 1rem;
   margin: auto;
-  max-width: 50vw;
+  max-width: 40vw;
   border-color: var(--yellow);
   border-style: solid;
   border-width: 3em;
-  border-radius: 5em;
-  padding: 3em;
+  border-radius: 8em;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 2em;
+  padding-bottom: 3em;
   outline-color: var(--white);
   outline-width: 1.5em;
   outline-style: solid;
@@ -37,8 +41,6 @@ h1{
   letter-spacing: .2rem;
   font-size: 3rem;
   color: var(--yellow);
-  text-shadow: var(--orange) 0.02em 0.02em;
-  
 }
 
 .list-page-summary {
@@ -63,7 +65,7 @@ footer {
 }
 
 a {
-  color: var(--blue);
+  color: var(--aqua);
   text-decoration: none;
 }
 
