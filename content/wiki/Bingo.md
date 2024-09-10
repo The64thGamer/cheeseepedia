@@ -7,4 +7,3 @@ tags = [ ]
 contributors = ["Anastasia.laguardia","Documentor"]
 gallery = []
 +++
-[\2](\1)

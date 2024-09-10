@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = ["asdasdasdaddas.jpg","fdefewwefwfewef.jpg","grtfbfewdrgfqw.jpg","ewfrwfgrwf.jpg"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:asdasdasdaddas.jpg
 File:fdefewwefwfewef.jpg

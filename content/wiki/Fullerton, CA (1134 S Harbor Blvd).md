@@ -8,7 +8,7 @@ contributors = ["ChuckECool","Rexburg090","ChuckEPediaIsTheBest!","Midwestretail
 gallery = []
 +++
 **_1134 S Harbor Blvd**_ was a _Chuck E. Cheese's Pizza_ restaurant located in Fullerton, California. It opened on December 17, 1991.
-## History## 
+##History##
 Fullerton, California opened its doors on December 17th, 1991 as the Second store in Fullerton. It should not be confused with the Pizza Time Theater.
 {| class='wikitable'
 !Stage
@@ -26,7 +26,7 @@ Fullerton, California opened its doors on December 17th, 1991 as the Second stor
 |June 2020
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -76,7 +76,7 @@ Fullerton, California opened its doors on December 17th, 1991 as the Second stor
 |N/A
 |Unknown
 |}
-## Gallery## 
+##Gallery##
 TODO
-## Videos## 
+##Videos##
 TODO

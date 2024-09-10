@@ -20,7 +20,7 @@ gallery = []
 
 This was created with the idea to play between promotional events. This show features 6 Songs with the automatic live being Me & My Friends.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## Safety Message 
@@ -56,7 +56,7 @@ This was created with the idea to play between promotional events. This show fea
 # **Skit 6** 
 ## Chuck E. Cheese & Friends - El Rey Guitarrista
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

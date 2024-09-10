@@ -9,10 +9,10 @@ gallery = []
 +++
 **The Wink Cyberamic** is an animatronic figure created by Diversified Designs for Chuck E. Cheese's locations from 1992 to 1998 as a part of the CEC Stages. The Wink is an emblem of Chuck E. that is colored gold and winks at the end of segments / songs.The Wink is used on the 2-Stage, 1-Stage, some Road Stages, and currently 1 3-Stage. There is a version for 3-Stages and Road Stages as well.
 
-##  History ## 
+## History ##
 TODO
 
-##  Movements ## 
+## Movements ##
 The figure features 1 movement in total.
 {| class='wikitable'
 |+
@@ -23,10 +23,10 @@ The figure features 1 movement in total.
 |10
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Stages Used In ## 
+## Stages Used In ##
 
 * Road Stage: Installed from 1990-1992: 9 left as of October 2022, most have 3-Stage Wink.
 * 2-Stage: Installed from 1992-1997, 20 left as October 2022.

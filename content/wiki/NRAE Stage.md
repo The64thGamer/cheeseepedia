@@ -11,7 +11,7 @@ gallery = []
 
 The **_New Rock-afire Stage**_ was a new stage designed in the 90s, seen through the New Rock-afire's life through various Family Entertainment Centers (FECs) throughout the 90's to early 2010's.
 
-##  Design ## 
+## Design ##
 The stage features three stages containing separate visual scenes alongside their animatronic characters, and a turntable on each stage, the side turntables containing seperate visual scenes on each side.  
 
 Stage Right features a rotating stage with a wall, with Beach Bear and Window Looney Bird on one side, and Lab Looney Bird on the other side.  
@@ -30,8 +30,8 @@ The outside of the stage featured a Silver Sparkle curtain spanning across all t
 
 Some stages would feature a shorter stage that allowed for Karaoke, This stage would be positioned either on Stage Right for some stage variants, or between Stage Center and Stage Left for standard stage variants. Usually Karaoke shows would feature the characters on Center stage singing along with parts of the song, and the lyrics on the TV, and a smaller Karaoke TV.
 
-##  Early Iterations ## 
+## Early Iterations ##
 TODO:
 
-##  Gallery ## 
+## Gallery ##
 *

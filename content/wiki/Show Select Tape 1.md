@@ -13,7 +13,7 @@ gallery = []
 
 **SPP Show Selector Tape #1** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Late 1982.
 
-## Show List## 
+##Show List##
 #**Segment 1** 
 ##_Goin' Crazy / My Love_
 #**Segment 2** 

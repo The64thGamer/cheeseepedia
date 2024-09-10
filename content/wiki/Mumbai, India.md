@@ -11,10 +11,10 @@ gallery = []
 
 This location is the very first location in the country of India, and was also the last store to open in 2019, and the 2010's decade.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stage ## 
+## Stage ##
 As the store is a 2.0, it has a Dance Floor, it is the 2019 Model, and they do not have the Video Wall.
 {| class='wikitable'
 !Stage
@@ -28,8 +28,8 @@ As the store is a 2.0, it has a Dance Floor, it is the 2019 Model, and they do n
 |2019 Model
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO

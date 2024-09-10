@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["Documentor","The 64th Gamer","Himitsu","GainerXO","John95","Lapyson3298094"]
 gallery = []
 +++
-#REDIRECT [[Spring 2014 Show]]
+#REDIRECT [Spring 2014 Show]({{< ref "wiki/Spring 2014 Show.md" >}})

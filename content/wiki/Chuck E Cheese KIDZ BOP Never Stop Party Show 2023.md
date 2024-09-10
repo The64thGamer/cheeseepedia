@@ -15,9 +15,9 @@ gallery = []
 
 **_Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023**_ is the night summer show released July 26, 2023. 
 
-This showtape was created to promote the KIDZ BOP Never Stop Party series of concerts. This showtape features 4 programmed CEC songs from 2017 - 2023 and two new DJ Munch Remixes which are not programmed. This show runs from 6pm to closing, the [[Chuck E. Cheese Summer Show 2023]] will play outside the timeframe for this show. This is the second CEC Media Network exclusive show.
+This showtape was created to promote the KIDZ BOP Never Stop Party series of concerts. This showtape features 4 programmed CEC songs from 2017 - 2023 and two new DJ Munch Remixes which are not programmed. This show runs from 6pm to closing, the [Chuck E. Cheese Summer Show 2023]({{< ref "wiki/Chuck E Cheese Summer Show 2023.md" >}}) will play outside the timeframe for this show. This is the second CEC Media Network exclusive show.
 
-### Advertising### 
+###Advertising###
 #**Ad 1**
 ##Ecolab
 ##Samsung & Food and Drink Combos
@@ -35,10 +35,10 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ##KIDZ Bop 2023 Album Spot & YouTube
 ##Fundraising and Group Events
 
-### Entertainment### 
+###Entertainment###
 #**Ad Break**
-##[[File:New Graphic.png]]DJ Munch - 'Song Of Summer Remix'
-##[[File:New Graphic.png]]KIDZ BOP Bumper 1
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})DJ Munch - 'Song Of Summer Remix'
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})KIDZ BOP Bumper 1
 ##KIDZ BOP Kids - 'ABC'
 #**Ad Break**
 ##Chuck E. Cheese & Friends - 'I Love Sparkles!'
@@ -46,7 +46,7 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ##Koo Koo Kangaroo - 'Backyard Swimsuit'
 #**Ad Break**
 ##KIDZ BOP Kids - 'Cuff It'
-##[[File:New Graphic.png]]KIDZ BOP Bumper 2
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})KIDZ BOP Bumper 2
 ##[[File:New Graphic.png]]KIDZ BOP Kids - 'Unstoppable'
 #**Ad Break**
 ##KIDZ BOP Kids - 'Flowers'
@@ -61,7 +61,7 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ##[[File:New Graphic.png]] KIDZ BOP Kids - 'Trustfall'
 ##Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
 
-### Lives:### 
+###Lives:###
 
 *Birthday Show (Navori)
 *Birthday Show (Spanish) (Navori)

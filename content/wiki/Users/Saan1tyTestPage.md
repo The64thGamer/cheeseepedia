@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["Rexburg090","Saan1ty"]
 gallery = []
 +++
-#REDIRECT [[Talk:Raleigh, NC (4339 Falls of the Neuse Rd)]]
+#REDIRECT [Talk:Raleigh, NC (4339 Falls of the Neuse Rd)]({{< ref "wiki/TalkRaleigh, NC (4339 Falls of the Neuse Rd).md" >}})

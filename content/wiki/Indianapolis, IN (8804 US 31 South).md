@@ -10,9 +10,9 @@ gallery = []
 8804 US 31 South is a Showbiz Pizza Place that opened on November 10, 1982 with a Rock-Afire Explosion, which is still open to this day.
 
 This location is located in the Greenwood Shopping Center. They would receive Concept Unification in 1991 or 1992, and remove the 3-Stage in 200 for a Studio C Alpha which was removed for a Dance Floor.
-## History## 
+##History##
 8804 US 31 South opened on November 10th, 1982 and had a Rock-Afire Explosion. Around 1991, they would receive Concept Unification.
-## Stages## 
+##Stages##
 Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. 
 {| class='wikitable'
 |+
@@ -41,7 +41,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 |Still In Use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -108,9 +108,9 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 |N/A
 |Destoryed
 |}
-## Gallery## 
+##Gallery##
 TODO
-## Youtube Videos## 
+##Youtube Videos##
 {| class='wikitable'
 |+Youtube Videos
 !Link

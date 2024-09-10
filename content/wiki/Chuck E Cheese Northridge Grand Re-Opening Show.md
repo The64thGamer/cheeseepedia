@@ -16,7 +16,7 @@ gallery = []
 
 This show features no intermissions and would play six segments on repeat from around 5:30 - Closing. 
 
-## Show List:## 
+##Show List:##
 
 # **Segment 1**
 ## https://static.miraheze.org/decodedocdigitizewiki/e/ee/New_Graphic.png Next Show Starts Soon
@@ -55,15 +55,15 @@ This show features no intermissions and would play six segments on repeat from a
 ## Chuck E. & Friends - “Most Perfect Day”
 ## Chuck E. & Friends - “I Love Sparkles”
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
 * Me & My Friends (Navori)
 * CEC Stage Diagnostic (Navori)
 
-##  Trivia: ## 
-This would be the first showtape to have curtains officially programmed since the [[September 2005 Show]]
+## Trivia: ##
+This would be the first showtape to have curtains officially programmed since the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}})
 
 At 7:50pm a countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing Together We've Got It 2017 would play. 
 

@@ -9,7 +9,7 @@ gallery = ["Chicago"]
 +++
 **_Chicago, IL (1830 W Fullerton Ave)**_ is a _Chuck E. Cheese's location_ located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from _The Loop_ and being not far from _I-90/I-94_ this location could be considered a flagship. 
 
-## **History**## 
+##**History**##
 Before Chuck E. Cheese's, it is rumored that a Toy Store used to occupy the building.
 
 This location opened back on September 26, 1993 with a 1-Stage show. The store layout and stage was identical to most stores being opened around that time. Despite being located near Downtown Chicago with the skyline in site, the store was really similar to all the other stores including size, because of this, it is not a flagship store.
@@ -22,7 +22,7 @@ In 2014, the entire store was recarpeted. Chuck's mask from opening day was repl
 
 In 2020 Just before the lockdown, Chuck's Mask was replaced again with the one from Skokie, Illinois; Helen and Jasper had their opening day masks replaced with the ones from Skokie. Munch had his lower Jaw replaced with the PTT one.
 
-## **Videos**## 
+##**Videos**##
 {| class='wikitable'
 !Link
 !Description
@@ -41,11 +41,11 @@ In 2020 Just before the lockdown, Chuck's Mask was replaced again with the one f
 |February 2012
 |}
 
-## **Gallery**## 
+##**Gallery**##
 <gallery>
 File:Chicago 1-Stage 2007.jpg|The 1-Stage in 2007
 </gallery>
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial

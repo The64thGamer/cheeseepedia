@@ -9,10 +9,10 @@ gallery = []
 +++
 **Cherry Hill, NJ (2100 Rt 38)** is a Chuck E. Cheese's location located in Cherry Hill, New Jersey; located in The Plaza at Cherry Hill. This location opened on August 25, 1992.
 
-##  History ## 
+## History ##
 Cherry Hill opened on August 25, 1992 with a 2-stage. The store would receive the Phase IV remodel in 2007.
 
-##  Stages ## 
+## Stages ##
 Sometime around 2009-2011, Chuck E. would get the Avenger hat and shirt. The hat was removed in 2013. Jasper and Helen received new masks in late 2014. Chuck E. received the Rockstar shirt in early 2015 and finally the jeans in March 2017.
 {| class='wikitable'
 |+
@@ -25,7 +25,7 @@ Sometime around 2009-2011, Chuck E. would get the Avenger hat and shirt. The hat
 |Still in Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

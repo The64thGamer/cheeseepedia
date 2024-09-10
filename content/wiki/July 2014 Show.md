@@ -11,7 +11,7 @@ gallery = []
 
 This was created to play from July 1st - August 31st 2014. This show features Six songs and a new live show Chuck E. Says and a 'more fun version' of Rock star Birthday.
 
-##  Show List: ## 
+## Show List: ##
 **Skit 1** 
 
 Music Video - 'Friendship Never Ends' (Chuck E.)
@@ -70,7 +70,7 @@ Sketch - Bobby Bear - 'Marlon the Marlin'
 
 Show Break 4 - 'Hot Air Balloon Journey'
 
-##  Live Shows: ## 
+## Live Shows: ##
 Rock Star Birthday (2014) (3stage, Cyberamic, Studio C,Weigi)
 
 Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigi)

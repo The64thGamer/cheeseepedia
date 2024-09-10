@@ -9,7 +9,7 @@ gallery = []
 +++
 **W.O.O.F. Radio** was a show made by Creative Presentations for Celebration Station from 1982 until being replaced by the Daniel And The Dixie Diggers trio show by Sally.
 
-###  Summary ### 
+### Summary ###
 The show is set in an imaginary radio station called W.O.O.F. Radio.
 
 Stage left features Major Moose, the news anchor and weather presenter.

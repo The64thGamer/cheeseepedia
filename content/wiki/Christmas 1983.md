@@ -12,7 +12,7 @@ gallery = []
 |showbizreel=y}}
 
 **_Christmas 1983**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##Disco Christmas
 ###Joy To The World

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = ["Cccdcccr.jpg|'Liz'","Cccdddcccerf23t42.jpg|'Liz'","Cccdddwwee.jpg|Back"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Cccdcccr.jpg|'Liz' Variant
 File:Cccdddcccerf23t42.jpg|'Liz' Variant

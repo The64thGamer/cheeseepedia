@@ -7,36 +7,36 @@ tags = [ ]
 contributors = ["Mechaitheracer25","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","Carl525","CEC Tinley"]
 gallery = []
 +++
-### 8225 Kingston Pike is a chuck e cheese that opened in march 23rd 1998### 
+###8225 Kingston Pike is a chuck e cheese that opened in march 23rd 1998###
 
-###  History ### 
+### History ###
 
-## stage## 
+##stage##
 
-### 1-stage### 
+###1-stage###
 this store opened with a one stage 
 
-### dancefloor### 
+###dancefloor###
 in may of 2022 the 1-stage was remove and remodeled into the dance floor 
 
-## Gallery## 
+##Gallery##
 
-## Videos## 
+##Videos##
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable sortable'
 |+
 |-
 !Animatronic!!Serial!!Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]|| ||
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})|| ||
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]|| ||
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})|| ||
 |-
-|[[Mr. Munch (Cyberamic)]]|| ||
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})|| ||
 |-
-|[[Pasqually (Cyberamic)]]|| ||
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})|| ||
 |-
-|[[Jasper T. Jowls (Cyberamic)]]|| ||
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})|| ||
 |}
-## References## 
+##References##

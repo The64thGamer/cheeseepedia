@@ -13,9 +13,9 @@ The **Weber Roast-a-Rama Show** was a mobile show that would tour to multiple sh
 
 The show was very entertaining for children who would even stay after the show to talk to Waldo. At the end of each show there would be a drawing for a random audience member to win a Weber kettle so they could also learn the benefits of Weber cooking. Waldo and the Roast-a-Rama show was so popular, George Stephen had hundreds of stuffed “Waldo” dogs made to give away to the children. Later, when these shows were no more, George worked at the Arlington Heights Frontier Days, giving the excess “Waldo” dogs as prizes for the carnival games.<ref>https://www.weber.com/US/en/blog/behind-the-grill/wheres-waldo/weber-29976.html</ref> 
 
-##  Images ## 
+## Images ##
 <gallery>
 File:RoastARamaWaldo.png|Waldo Weber image from the Weber website <ref>https://www.weber.com/JP/en/blog/behind-the-grill/wheres-waldo/weber-29976.html</ref>
 </gallery>
 
-##  References ## 
+## References ##

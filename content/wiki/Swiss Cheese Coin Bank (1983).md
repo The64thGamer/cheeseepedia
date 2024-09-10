@@ -7,4 +7,3 @@ tags = [ ]
 contributors = ["CEC Tinley","BurgersNuggs445"]
 gallery = []
 +++
-[\2](\1)

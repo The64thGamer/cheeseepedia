@@ -12,7 +12,7 @@ Fort Worth, Texas; in the Court at Fort Worth shopping center. This location ope
 June 6, 2016.
 
 
-##  Stages ## 
+## Stages ##
 This location opened up with a Dance Floor + Video Wall Was A Chuck E Live A Replaced on Away Opened
 Look On This Location
 in The On The Chuck E Live Stages.
@@ -23,7 +23,7 @@ in The On The Chuck E Live Stages.
 !Removed
 !Notes
 |-
-|[[Chuck E. Live Stage (Dance Floor)]]
+|[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}})
 |June 2016
 |Still in Use
 |2021 Model. First 2.0 Remodel in Fort Worth Texas.

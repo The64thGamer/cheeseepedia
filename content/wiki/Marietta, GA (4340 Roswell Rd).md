@@ -11,11 +11,11 @@ gallery = []
 
 It is also known as East Cobb.
 
-## History## 
+##History##
 Marietta opened its doors on December 16th, 1981 as the second Showbiz Pizza store in Georgia with the Rock-Afire Explosion show like every other Showbiz Pizza. It was originally a corporate-owned location. In either 1989 or 1990, Marietta received the 1988 remodel removing the older SPP decor, adding newer decor, received a new exterior change, and updated the Billy Bob stage. In 1991 or 1992, Marietta received a major remodel, adding checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor, and received Concept Unification removing the Rock-Afire Explosion for the 3-Stage. Marietta received a minor remodel in the Mid-90's removing older CU decor for the Record Posters. Around 2000, Marietta would receive the Phase 3 remodel which removed all older 90's decor, added newer decor, removed the 3-Stage for the Studio C Alpha, and added SkyTubes. In 2006-2007, Marietta received the 2005 remodel removing older decor, removing the Showroom Walls, Balcony Seating, expanding the store, and relocating the stage. Marietta would remain like this until around March or April 2015 when they would close for unknown reasons. Surprisingly, the sign shape (After CU) was not changed after these changes before closure. After closure, the location became abandoned for 3 years until around 2018 when the store was demolished and became a Discount Tire tire shop.
 
 Currently, as of March 2023, the Discount Tire is still here.
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -37,7 +37,7 @@ Currently, as of March 2023, the Discount Tire is still here.
 |Spring 2015
 |One of 8 Studio C Alphas in Georgia.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronics
 !Serial Number
@@ -107,7 +107,7 @@ Currently, as of March 2023, the Discount Tire is still here.
 |N/A
 |Destroyed.
 |}
-## Gallery## 
+##Gallery##
 (W.I.P)
-## Videos## 
+##Videos##
 (W.I.P)

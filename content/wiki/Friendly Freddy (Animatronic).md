@@ -11,10 +11,10 @@ gallery = ["fred1.jpg|Friendly","fred22.jpg|","fred3.jpg|","fred4.jpg|Freddy","f
 
 Friendly Freddy was Creative Engineering's first fully animated animatronic character, built in 1977. He's a guitar playing black bear wearing jean shorts, scarf, and coonskin hat.
 
-##  History ## 
+## History ##
 TODO
 
-##  Movements ## 
+## Movements ##
 
 * Mouth
 * Left eyelid raise
@@ -28,7 +28,7 @@ TODO
 * Left leg raise
 * Right leg raise
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:fred1.jpg|Friendly Freddy at the IAAPA (1977)
 File:fred22.jpg|
@@ -37,10 +37,10 @@ File:fred4.jpg|Freddy with Dracula
 File:fredmagix.jpg| Freddy at Magic World Kid's Park (1977)
 File:cei_gore.png|Internal Mechanisms (1977)
 File:fredcu.jpg|Ditto
-File:General_Cornelius_Bearpatch_black_and_white.jpg| Being converted into 'General Cornelius Bearpatch' for the [[Confederate Critter Show]] (1978)
+File:General_Cornelius_Bearpatch_black_and_white.jpg| Being converted into 'General Cornelius Bearpatch' for the [Confederate Critter Show]({{< ref "wiki/Confederate Critter Show.md" >}}) (1978)
 </gallery>
 
-##  Footage ## 
+## Footage ##
 {| class='wikitable'
 |+
 !Link

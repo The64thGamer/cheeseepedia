@@ -11,7 +11,7 @@ gallery = []
 
 This was created with conjunction with the Halloween Boo-tacular promotion. This show features 4 Songs with 2 of which being new and a live show called Chuck E.'s Haunted House Party.
 
-##  Day Show List: ## 
+## Day Show List: ##
 **Intermission 1**
 
 Safety Message

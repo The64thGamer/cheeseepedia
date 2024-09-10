@@ -21,20 +21,20 @@ gallery = []
 
 This was created to play from December 30th 2019 - March 29th 2020 . This show features five songs.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## Fun Songs - 'It's Chuck E.'
 ## KIDZ BOP Kids - 'Sorry Not Sorry'
 ## Discovery Familia - Doki - 'Expression 80's'
-# **[[File:New Graphic.png]]Skit 1**
+# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Skit 1**
 ## Helen Henny's - 'Game On!'
 # **Intermission 2**
 ## Universal Kids - 'Power Birds 1'
 ## Andy Grammer - 'She'd Say'
 ## Fun Songs - 'Oh Helen Henny'
 ## Panic! At the Disco - 'Into The Unknown'
-## **[[File:New Graphic.png]]**Tails of Friendship Ep3, - 'Pink Frosted Donuts'
+## **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Tails of Friendship Ep3, - 'Pink Frosted Donuts'
 # **Skit 2**
 ## Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
 # **Intermission 3**
@@ -50,7 +50,7 @@ This was created to play from December 30th 2019 - March 29th 2020 . This show f
 ## MOTi - 'Just Don't Know It Yet'
 ## Universal Kids - 'Power Birds 2'
 ## Fun Songs - 'He's Mr. Munch'
-# **[[File:New Graphic.png]]Skit 4**
+# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Skit 4**
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
 # **Intermission 5**
 ## Fun Songs - 'Jasper T. Jowls'
@@ -59,7 +59,7 @@ This was created to play from December 30th 2019 - March 29th 2020 . This show f
 # **Skit 5**
 ## Chuck E. & Friends - 'Chuck E.'s Place'
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 moon.png|Ampex Reel
 </gallery>

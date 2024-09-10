@@ -11,9 +11,9 @@ gallery = ["Challenger"]
 
 The **_Pizza Time Theatre 'A Challenger Night' Flyer**_ is an advertisement flyer that was sent sometime in February or March of 1984.
 
-The flyer promotes two seperate events at the [[El Monte, CA (4567 Peck Rd)]] Pizza Time Theatre location, that being 'A Challenger Night' on March 10, 1984 at 10pm, and 'The Grand Break' on March 24th. A Challenger Night is a breakdance contest performed by 10 groups or singles for the 1st place prize for $100, and the 2nd place prize of $50. The Grand Break would be a second competition for the 1st and 2nd prize winners to further compete for a $200 grand prize.
+The flyer promotes two seperate events at the [El Monte, CA (4567 Peck Rd)]({{< ref "wiki/El Monte, CA (4567 Peck Rd).md" >}}) Pizza Time Theatre location, that being 'A Challenger Night' on March 10, 1984 at 10pm, and 'The Grand Break' on March 24th. A Challenger Night is a breakdance contest performed by 10 groups or singles for the 1st place prize for $100, and the 2nd place prize of $50. The Grand Break would be a second competition for the 1st and 2nd prize winners to further compete for a $200 grand prize.
 
-##  Transcription ## 
+## Transcription ##
 Page 1<blockquote>Chuck E. Cheese
 
 <u>Presents</u>
@@ -74,7 +74,7 @@ EL MONTE
 
 PHONE: (818) 350--6881</blockquote>
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Challenger Night Flyer 2.png|Flyer Inside
 </gallery>

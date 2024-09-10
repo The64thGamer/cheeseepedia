@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Screenshot202022-02-1020182513|CEC-Stage DVD
 </gallery>

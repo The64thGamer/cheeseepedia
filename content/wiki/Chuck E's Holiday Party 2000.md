@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/studio-c-holiday-2000-show-update-karaoke-version/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_172658.jpg|Studio C Floppy (Karaoke Version) Scan
 </gallery>

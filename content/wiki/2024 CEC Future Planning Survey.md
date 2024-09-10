@@ -11,22 +11,22 @@ gallery = []
 
 The **_2024 Chuck E. Cheese Future Planning Survey**_ was a survey released on March 25, 2024 asking customers and fans of Chuck E. Cheese's their thoughts on the future plans for the company.
 
-The survey focuses on four major areas: opinions on the [[Munch's Make Believe Band Residency]] at [[Northridge, CA (8425 Reseda Blvd)]], 5 different options for a differently themed CEC location- with one including an expanded version of the Residency, opinions on a CEC Fan Club with exclusive offerings, and what the company should do to celebrate its 50th anniversary in 2027.
+The survey focuses on four major areas: opinions on the [Munch's Make Believe Band Residency]({{< ref "wiki/Munch's Make Believe Band Residency.md" >}}) at [Northridge, CA (8425 Reseda Blvd)]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}), 5 different options for a differently themed CEC location- with one including an expanded version of the Residency, opinions on a CEC Fan Club with exclusive offerings, and what the company should do to celebrate its 50th anniversary in 2027.
 
-##  History ## 
-Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.<ref>https://www.reuters.com/markets/deals/restaurant-chain-chuck-e-cheese-explores-sale-sources-2023-12-15/</ref> CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'<ref>https://www.restaurantdive.com/news/chuck-e-cheese-grown-up-menu/702778/</ref> and a [\2](\1) News from the company however would severely die down by the end of January.
+## History ##
+Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.<ref>https://www.reuters.com/markets/deals/restaurant-chain-chuck-e-cheese-explores-sale-sources-2023-12-15/</ref> CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'<ref>https://www.restaurantdive.com/news/chuck-e-cheese-grown-up-menu/702778/</ref> and a  News from the company however would severely die down by the end of January.
 
 On March 25, 2024 at 5:02PM CDT, _Mark Kupferman_, a recent hire from November 2023 as the new Chief Insights and Marketing Officer<ref>https://www.prnewswire.com/news-releases/cec-entertainment-appoints-mark-kupferman-as-new-chief-insights--marketing-officer-for-chuck-e-cheese-brand-301977544.html</ref>, would make a post to the _r/chuckecheese_ subreddit titled 'Planning Survey from Chuck E. Cheese'<ref>https://www.reddit.com/r/chuckecheese/comments/1bnqhvg/planning_survey_from_chuck_e_cheese/</ref>. The post would note:<blockquote>'As we embark on an exciting phase of long-range planning, your insights as dedicated fans are incredibly important to us. We're exploring new ideas and would love to hear your thoughts.'</blockquote>This would be the only place the survey would be posted, signaling to have it reach outside the general customer base and extent to communities and fans of the brand. While the reddit post itself did not gain much traction, the survey would quickly be spread throughout the animatronics community.
 
-##  Survey Transcription ## 
+## Survey Transcription ##
 Due to the page being dynamically loaded, a transcription is provided for archival. The Numbered lists are for single-answer points, and the bullet points are for multi-choice. At two points the survey splits into different sections based on what you have selected.
 
-###  Opening Page ### 
+### Opening Page ###
 <blockquote>Welcome and thank you for joining our survey. Your opinions are invaluable to us as we navigate through important planning stages. Your feedback will help shape our future decisions. The survey will take approximately 5 minutes. We appreciate your time and insights!
 
 This survey is anonymous and your responses cannot be traced back to you (all respondents received the exact same survey link). Your candid feedback is greatly appreciated.</blockquote>
 
-###  Page 1 ### 
+### Page 1 ###
 <blockquote>How would you describe your level of fandom for Chuck E. Cheese?
 
 # I'm a super fan; Chuck E. Cheese is a big part of my life
@@ -46,7 +46,7 @@ Which of the following best describes your location?
 # Elsewhere
 </blockquote>
 
-###  Page 2 ### 
+### Page 2 ###
 <blockquote>Which of the following best describes your age?
 
 # Under 25
@@ -61,7 +61,7 @@ How often do you visit Chuck E. Cheese?
 # Much less frequently than once a year
 </blockquote>
 
-###  Page 3 ### 
+### Page 3 ###
 <blockquote>Were you aware that we have decided to permanently keep the animatronics display active at our Northridge, California location?
 
 # Yes, I was aware
@@ -69,7 +69,7 @@ How often do you visit Chuck E. Cheese?
 # I had heard something about it, but wasn't sure of the details
 </blockquote>
 
-###  Page 4 ### 
+### Page 4 ###
 <blockquote>Have you visited the Chuck E. Cheese location in Northridge, California, where the animatronics display is permanently active?
 
 # Yes, I have visited
@@ -77,7 +77,7 @@ How often do you visit Chuck E. Cheese?
 # No, I have not visited and do not plan to
 </blockquote>
 
-###  Choice: No (Page 1) ### 
+### Choice: No (Page 1) ###
 <blockquote>Can you share why you haven't visited Northridge?
 
 _Please select all that apply_
@@ -89,7 +89,7 @@ _Please select all that apply_
 * Other (please specify) ________
 </blockquote>
 
-###  Choice: No (Page 2) ### 
+### Choice: No (Page 2) ###
 <blockquote>How do you feel about missing out on the animatronics display in Northridge?
 
 _Please select all that apply_
@@ -101,7 +101,7 @@ _Please select all that apply_
 * Not interested at all
 </blockquote>
 
-###  Page 5 ### 
+### Page 5 ###
 <blockquote>Would you like Chuck E. Cheese to keep the animatronics display at another location closer to you?
 
 # Yes, it’s important to me
@@ -110,7 +110,7 @@ _Please select all that apply_
 # No, it’s important that you don’t
 </blockquote>
 
-###  Page 6 ### 
+### Page 6 ###
 <blockquote>OPTIONAL: If you would like to see us keep the animatronics at a location closer to you, and have a specific location in mind, please specify it below:
 
 _Please make sure you specify a location that currently has animatronics!_
@@ -121,7 +121,7 @@ Why do you think we should keep the animatronics at this location?
 
 _________</blockquote>
 
-###  Page 7 ### 
+### Page 7 ###
 <blockquote>What unique and interesting theme would you like to see for a Chuck E. Cheese location?
 
 # **Retro Chuck E. Cheese (1980-1990s):** Experience the magic of Chuck E. Cheese with a nostalgic twist! Imagine arcade classics, iconic games, memorable Chuck E. memorabilia, and a menu inspired by fan favorites. Relive the glory days with themed parties, retro music, and an ambiance that takes you straight back to the best of the 80s and 90s.
@@ -134,7 +134,7 @@ Why do you prefer the theme you selected?
 
 _________</blockquote>
 
-###  Choice: Camping Experience ### 
+### Choice: Camping Experience ###
 <blockquote>Which of the following would you want to see us include in an Outdoor Camping Chuck E. Cheese experience?
 
 _Please select all that you like_
@@ -157,7 +157,7 @@ _Please select all that you like_
 * Outdoor survival skill workshops
 </blockquote>
 
-###  Choice: Educational Experience ### 
+### Choice: Educational Experience ###
 <blockquote>Which of the following would you want to see us include in an educational Chuck E. Cheese Experience?
 
 _Please select all that you like_
@@ -180,7 +180,7 @@ _Please select all that you like_
 * Art and music educational stations
 </blockquote>
 
-###  Choice: Artistic Studio ### 
+### Choice: Artistic Studio ###
 <blockquote>Which of the following would you want to see us include in an artistic studio Chuck E. Cheese Experience?
 
 _Please select all that you like_
@@ -203,7 +203,7 @@ _Please select all that you like_
 * Graffiti art space
 </blockquote>
 
-###  Choice: Futuristic Experience ### 
+### Choice: Futuristic Experience ###
 <blockquote>Which of the following would you want to see us include in a futuristic Chuck E. Cheese Experience?
 
 _Please select all that you like_
@@ -226,17 +226,17 @@ _Please select all that you like_
 * Robot serving staff
 </blockquote>
 
-###  Page 8 ### 
+### Page 8 ###
 <blockquote>Do you have any additional comments you’d like to add about the features you selected?
 
 _________</blockquote>
 
-###  Page 9 ### 
+### Page 9 ###
 <blockquote>How would you like to see Chuck E. Cheese celebrate the upcoming 50th anniversary? Anything special you’d like to see?
 
 _________</blockquote>
 
-###  Page 10 ### 
+### Page 10 ###
 <blockquote>If we were to launch an official Chuck E. Cheese fan club, would you be interested in joining?
 
 # Definitely
@@ -248,7 +248,7 @@ What features/benefits would you like the fan club to have?
 
 _________</blockquote>
 
-###  Page 11 ### 
+### Page 11 ###
 <blockquote>Which of the following features would you want such a fan club to offer?
 
 _Please select all that you like_
@@ -268,7 +268,7 @@ _Please select all that you like_
 * Voting rights on retro merchandise
 </blockquote>
 
-###  Page 12 ### 
+### Page 12 ###
 <blockquote>OPTIONAL: Would you be interested in joining our Chuck E. Cheese feedback panel?
 
 _If so enter your email address below. Otherwise click NEXT_

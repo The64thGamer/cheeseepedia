@@ -15,20 +15,20 @@ gallery = []
 
 **_Skit-Sally 1XMAS-USA**_ is a Pizza Time Theatre showtape featuring the guest star _Sally Sashay_.
 
-## Segments:## 
-#**[[File:New Graphic.png]] Segment 1**
+##Segments:##
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1**
 ##Strolling Through The Park One Day
 ##Jeepers Creepers
 ##Them There Eyes
 ##Beautiful, Beautiful Brown Eyes
 ##Five Foot Two Eyes Of Blue
-#**[[File:New Graphic.png]] Segment 2**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 2**
 ##Medley of the South
 ###Cotton Fields
 ###Pick a Bale of Cotton
 ###Crawdad Song
 ###Thank God I'm a Country Dog
-#**[[File:New Graphic.png]] Segment 3**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 3**
 ##Rock Around The Clock
 ##Long Tall Sally
 ##Splish Splash

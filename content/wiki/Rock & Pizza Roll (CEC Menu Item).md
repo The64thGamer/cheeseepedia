@@ -15,10 +15,10 @@ The **_Rock & Pizza Roll**_ was a limited time appetizer at Chuck E. Cheese loca
 
 The initial release started in October of 2018, with the item being discontinued on December 30th.<ref>https://web.archive.org/web/20190105214629/https://www.chuckecheese.com/menu</ref> Two months later the item would relaunch and continue for an unknown amount of time in 2019.<ref>https://www.fastfoodpost.com/chuck-e-cheeses-introduces-rock-and-pizza-roll/</ref>
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Adcupcakechsark.jpg|Shark Cupcake Ad
 File:Summerfunsharkcupaeee.png|Summer of Fun Food Promo
 </gallery>
-## References## 
+##References##
 <references />

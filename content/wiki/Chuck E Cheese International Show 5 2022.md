@@ -21,7 +21,7 @@ Chuck E. Cheese Winter Winner-Land was the holiday show initially released in No
 
 This show features eight Holiday songs, all of which were reused. The automatic live show is, 'Chuck E.'s Yuletide Slide'.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1** 
 ## Winter Winner-Land Host Spot 1 - (Chuck E. & Helen)

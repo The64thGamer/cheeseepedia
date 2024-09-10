@@ -10,7 +10,7 @@ gallery = []
 {{Showtape
 |date=1985
 |showbizreel=y|image=Ouinw24iojw2rnji23rjnoi.png}}**_Show Selector 'Select-A-Show**** is an unreleased Rock-afire Explosion Show Selector showtape from 1985.
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##Blinded By Science
 #**Segment 2**

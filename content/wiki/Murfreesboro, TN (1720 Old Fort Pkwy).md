@@ -7,22 +7,22 @@ tags = [ ]
 contributors = ["ChuckfeldStan"]
 gallery = []
 +++
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Arcade Games & Rides ## 
+## Arcade Games & Rides ##
 
-###  Current ### 
+### Current ###
 
 * Jett Rider
 * Photo Chuck E. (Rockstar)
 
-##  Decor ## 
+## Decor ##
 
-###  Former ### 
+### Former ###
 
 * 1998 Chuck E. Pop Art (4 Small)
 * 1998 Chuck E. Portrait

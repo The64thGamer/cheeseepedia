@@ -21,8 +21,8 @@ gallery = []
 
 This was created in conjunction with the Halloween Boo-Tacular promotion. Runs from September 19, 2022 - October 31, 2022. This song features 5 Songs with the automatic live being Haunted House Party.
 
-## Trivia:## 
+##Trivia:##
 
 *Week of August the 8th they filmed Halloween Boo-Tacular 2022 new show content.
 *On August 24, 2022 a snippet of one of the new songs was leaked.
-*The [[Yonkers, NY (1703 Central Park Ave)]] location played the show a week early.
+*The [Yonkers, NY (1703 Central Park Ave)]({{< ref "wiki/Yonkers, NY (1703 Central Park Ave).md" >}}) location played the show a week early.

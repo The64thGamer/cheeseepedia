@@ -12,7 +12,7 @@ gallery = []
 
 The barcade opened on May 24th, 2018, and closed February 25th, 2019.
 
-##  The Stage ## 
+## The Stage ##
 Rockafire Bar featured an unique stage. The stage was located in the northwest corner of the building and took the shape of an L.
 The stage featured all of the rockafire explosion characters except for Antioch, Sun, Moon, Choo-Choo, and Looney Bird.
 
@@ -24,6 +24,6 @@ The computer that ran the show sat on the desk directly behind Rolfe.
 
 Later between August and October 2018, a mural was painted on the walls behind the stage, which included all of the missing characters (except for antioch) and props.
 
-##  Conflict with Aaron ## 
+## Conflict with Aaron ##
 
 TO DO: Talk about conflict

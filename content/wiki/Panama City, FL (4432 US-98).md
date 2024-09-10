@@ -10,13 +10,13 @@ gallery = ["PanamaCityFLCECExteriorBeforeClosureHQ2.jpg","PanamaCityFLCEC1.jpg",
 {{Stub}}{{Generic|desc=A photo of Panama City's exterior before closure. (PC: LoopNet)|image=PanamaCityFLCECExteriorBeforeClosureHQ1.jpg}}
 **_Panama City, FL (4432 US-98)**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened in May 1986 (day not found yet) and closed in Spring 2007.
 
-## Stages## 
-When this store first opened, it featured a [\2](\1) stage, as all Showbiz locations did. The stage would undergo Concept Unification in 1992. Not much information is known about it's stage, but the condition of the stage had deteriorated by 2006 and was like this up until the store's closure. It is notable this location had kept it's Munch. Jr animatronic and the white carpet throughout the store's entire lifespan.
+##Stages##
+When this store first opened, it featured a  stage, as all Showbiz locations did. The stage would undergo Concept Unification in 1992. Not much information is known about it's stage, but the condition of the stage had deteriorated by 2006 and was like this up until the store's closure. It is notable this location had kept it's Munch. Jr animatronic and the white carpet throughout the store's entire lifespan.
 
-## History## 
-This location held its grand opening as a Showbiz Pizza Place in May 1986 as the last Showbiz Pizza Place in Florida, featuring the [\2](\1) stage as other Showbiz locations had.
+##History##
+This location held its grand opening as a Showbiz Pizza Place in May 1986 as the last Showbiz Pizza Place in Florida, featuring the  stage as other Showbiz locations had.
 
-Around 1992, this location received [[Concept Unification]], and would receive a couple remodels as the years went by.
+Around 1992, this location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and would receive a couple remodels as the years went by.
 
 Not much information is known about this location, but its been believed that this location had around 20 games in the arcade room, and was around 6,000 square feet. 
 
@@ -24,7 +24,7 @@ In 2006, the store would add a roof to the front entrance. This would be the las
 
 In 2009, the site of this place would be demolished for a hotel, being complete the same year, which is what it currently sits as today.
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -32,7 +32,7 @@ In 2009, the site of this place would be demolished for a hotel, being complete 
 !Filming Date
 |-
 |https://youtu.be/qAIxKRmBNG8?t=487
-|(Begins at 8:07) Footage of the store's arcade and [\2](\1) stage.
+|(Begins at 8:07) Footage of the store's arcade and  stage.
 |August 1990
 |-
 |https://youtu.be/OFxqkdeSCuA
@@ -40,7 +40,7 @@ In 2009, the site of this place would be demolished for a hotel, being complete 
 |April 9th, 2007
 |-
 |https://youtu.be/NQSBqGwE_9k
-|A kid playing [[Chuck E. Cheese's Ripper Ribbit]] at this store.
+|A kid playing [Chuck E. Cheese's Ripper Ribbit]({{< ref "wiki/Chuck E Cheese's Ripper Ribbit.md" >}}) at this store.
 |April 8th, 2007
 |-
 |https://youtu.be/AZftLUYHtZc
@@ -60,7 +60,7 @@ In 2009, the site of this place would be demolished for a hotel, being complete 
 |December 17th, 2006
 |}
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:PanamaCityFLCECExteriorBeforeClosureHQ2.jpg
 File:PanamaCityFLCEC1.jpg
@@ -75,57 +75,57 @@ File:PanamaCityFLCEC9.jpg
 File:PanamaCityFLCEC10.jpg
 </gallery>
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown
 |-
-|[[Wink]]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown
 |}

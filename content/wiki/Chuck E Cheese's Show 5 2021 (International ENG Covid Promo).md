@@ -20,16 +20,16 @@ gallery = []
 
 This was created with conjunction with the Winter-Winnerland promotion. This show features 7 Songs with 2 of which being new and a live show called Chuck E.'s Yuletide Slide.
 
-## Show List:## 
+##Show List:##
 
 # **Intermission 1** 
 ## Safety Message
-##**[[File:New Graphic.png]]**Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
 ##[https://disneychannel.fandom.com/wiki/Put_the_Happy_in_the_Holidays Disney Channel Stars - “Put the Happy in the Holidays”]
-#**[[File:New Graphic.png]] Skit 1**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Skit 1**
 ## Chuck E. & Friends - “The Holiday Party”
 #**Intermission 2**
-##**[[File:New Graphic.png]]**Winter Winner-Land Menu Spot
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Winter Winner-Land Menu Spot
 ##HiDino - “The Snow Song”
 ##**[[File:New Graphic.png]]**Winter Winner-land Filling Screens
 #**Skit 2**
@@ -70,7 +70,7 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 ##Asher Angel - “Snow Globe Wonderland”
 ##YouTube and Music Streaming Spot
 
-## Live Shows:## 
+##Live Shows:##
 
 # Birthday Show (Cyberamic, Studio C, Weigi)
 # Birthday Show (Spanish) (Cyberamic, Studio C, Weigi)
@@ -82,7 +82,7 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 # [[File:New Graphic.png]] Holly Jolly Dance (New Countdown) (Studio C, Weigi)
 # Chuck E. Cha Cha (New Countdown) (Studio C, Weigi)
 
-## Official Releases## 
+##Official Releases##
 [https://youtu.be/DZiTeTs8xiI 'Chuck E.’s Yuletide Slide' on YouTube]
 
 [https://www.youtube.com/watch?v=rBLJERfsf5Q 'The Windowsill' on YouTube]
@@ -90,7 +90,7 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 [https://open.spotify.com/album/5mQs7BB2torhGNLnNmpJmn 'Chuck E.'s Holiday Party' on Spotify]
 
 [https://music.apple.com/us/album/chuck-e-s-holiday-party-single/1596724627 'Chuck E.'s Holiday Party - Single' on Apple Music]
-## Trivia## 
+##Trivia##
 
 * Chuck E. & Friends - “The Holiday Party” was written by Eric Neal as a request from Matt Daniel. Neal, enjoying old school hip-hop, created the song in a similar vein to [https://en.wikipedia.org/wiki/So_What%27cha_Want 'So What'Cha Want'] by the Beastie Boys.
 * Munch & Munch - “The Windowsill” was also written by Matt Daniel as a new Munch song. The song was a nod to [https://en.wikipedia.org/wiki/Baby,_It%27s_Cold_Outside Baby It's Cold Outside], being an idea Matt had, along with an idea for Munch to struggle with his conscience in song, for around for a few years. Someone in the entertainment department eventually came up with theming the song around the holidays, and with a new Munch puppet being created around the same time, Matt went ahead with the creation of the song.

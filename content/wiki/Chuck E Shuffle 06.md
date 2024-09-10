@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["BurgersNuggs445","Dame","The 64th Gamer"]
 gallery = ["Cecshuffle06tape.png"]
 +++
-##  Showtape Scans / Images: ## 
+## Showtape Scans / Images: ##
 <gallery>
 File:Cecshuffle06tape.png
 </gallery>

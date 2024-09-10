@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","Ceclife13"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 s-l16dddd00 (6).jpg|Studio C DVD
 uwuwuwu.jpg|Studio C DVD

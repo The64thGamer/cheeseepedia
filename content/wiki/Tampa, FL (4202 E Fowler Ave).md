@@ -13,4 +13,4 @@ Tampa, FL (???) is a cancelled ShowBiz Pizza Place that would have been placed n
 
 Aaron notes the plans as '...it didn't go over that hot. They didn't really see it as anything.'. He theorizes that a junior-high oriented pizza parlor wouldn't have meshed well with the college town.<ref>https://www.showbizpizza.com/info/articles/spp/spp_83dayton2.pdf</ref>
 
-##  References ## 
+## References ##

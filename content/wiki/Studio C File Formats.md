@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-##  .CEC ## 
+## .CEC ##
 This file type contains control data for show segments. TODO more info on overall format.
 {| class='wikitable'
 |+CEC control commands
@@ -50,7 +50,7 @@ This file type contains control data for show segments. TODO more info on overal
 |TODO...
 |
 |
-|}Digital channel commands are encoded into a printable ASCII range of 0x30~0x3F (command) and 0x40~0x5F (channel number). This encoding method dates back to the original [[SongCode]] format. The raw format is obtained by subtracting 0x30 from all command bytes and 0x40 from channel number byets. It appears that CEC files always write digital channel commands in pairs of command and channel number bytes, despite not being technically necessary.
+|}Digital channel commands are encoded into a printable ASCII range of 0x30~0x3F (command) and 0x40~0x5F (channel number). This encoding method dates back to the original [SongCode]({{< ref "wiki/SongCode.md" >}}) format. The raw format is obtained by subtracting 0x30 from all command bytes and 0x40 from channel number byets. It appears that CEC files always write digital channel commands in pairs of command and channel number bytes, despite not being technically necessary.
 {| class='wikitable'
 |+CEC digital channel commands (raw)
 !Byte
@@ -73,7 +73,7 @@ This file type contains control data for show segments. TODO more info on overal
 |Channel number within bank
 |}
 
-##  .CCF ## 
+## .CCF ##
 Always named **CYBRSTAR.CCF** and also referred to as an 'MBP command file' and a 'Synhorst MCF file' (meanings unknown), this file defines subroutines that can be called from the show segment's CEC file. The subroutines are themselves abstractions around primitive functions provided by the main Cyberstar 2000 application. [To put into programming terms, what Cyberstar 2000 exposes to CCFs is akin to a standard library, the CCF files themselves are like a library written for developers' convenience, and the CEC files are the final application.][Maybe this is a poor comparison? Is it insane to compare CCFs to a bytecode VM?]
 
 As a practical example, the CEC file for a particular show will contain a call to a CCF subroutine to set up the LDP. This CCF subroutine would accept parameters for the LDP number and location on the disc. It would then use those parameters to call basic functions in Cyberstar 2000 to send serial commands to the LDP and set the LDP search flag.
@@ -318,7 +318,7 @@ CCF files can be edited using the **EED.EXE** application.
 |
 |
 |}
-## DPC50 communication## 
+##DPC50 communication##
 Communication with the DPC50 board occurs through dual-port RAM. Overall comms structure appears to be based around updating a block of data and then writing a command. Further analysis is required to determine if there is any kind of mutex locking taking place.
 {| class='wikitable'
 |+DPC50 shared memory map

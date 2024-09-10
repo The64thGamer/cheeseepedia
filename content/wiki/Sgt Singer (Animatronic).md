@@ -11,25 +11,25 @@ Sgt Singer was an animatronic produced for Craig Singer {{Generic|image=Videoscr
 
 by Creative Engineering at an unknown time before 1982.
 
-##  History ## 
+## History ##
 Sgt. Singer was 
 
 
 A detailed history of the animatronic's conceptualization, production, release, use, and eventual discarding. Specific artists, companies, manufacturers, and other credits should be detailed.
 
-##  Design ## 
+## Design ##
 Description of the character's appearance. Every variation in appearance should be listed under this section in sub-heading 2.
 
-####  Barnyard Band #### 
+#### Barnyard Band ####
 'The original figure's outfit was comprised of a tuxedo with a cummerbund that resembled the back end of a Black Widow spider, with the outfit later being dubbed as such.'
 
-####  Beach Bums #### 
+#### Beach Bums ####
 'This was a beach variant of the band'
 
-####  Circus Theme (Official name unknown) #### 
+#### Circus Theme (Official name unknown) ####
 _
 
-##  Movements ## 
+## Movements ##
 Current known movements are
 
 * Eyes
@@ -41,9 +41,9 @@ Current known movements are
 * Right Arm
 * Body
 
-##  Gallery ## 
-[\2](\1)
-[\2](\1)
+## Gallery ##
+
+
 <gallery>
 File:348578987 496051229323528 5961769661822251617 n.jpg|Promotional image featuring P.T. Bearum (Left), Sgt. Singer (Middle), and Pounce D' Lion (Right)
 File:SgtSingerFrontBarnyard2.jpg|Image of Sgt. Singer (Barnyard Variant) from the front
@@ -51,5 +51,5 @@ File:SgtSingerFrontBarnyard2.jpg|Image of Sgt. Singer (Barnyard Variant) from th
 
 *
 
-##  References ## 
+## References ##
 https://www.instagram.com/p/Cy6jXxYJm_c/?img_index=1 Images found by Pasq

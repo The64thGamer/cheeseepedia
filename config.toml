@@ -2,6 +2,7 @@ baseURL = 'http://cheesepedia.org/'
 languageCode = 'en-us'
 title = 'Cheese-E-Pedia'
 theme = 'sixtyth-fortran'
+refLinksErrorLevel = 'WARNING'
 
 [markup]
   [markup.goldmark]

@@ -8,76 +8,76 @@ contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Corrector
 gallery = []
 +++
 {{Stub}}
-[\2](\1)
-**_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ in West Palm Beach, Florida. The store opened on December 18, 1990 with a [\2](\1) and closed in December 2004 due to a hurricane.
 
-This is not to be confused with the Pizza Time Theatre on [\2](\1) which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a [\2](\1) or the current location on [\2](\1) which opened on December 26, 2013 with a [\2](\1) and received 2.0 in March 2022, which is still open to this day.
+**_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ in West Palm Beach, Florida. The store opened on December 18, 1990 with a  and closed in December 2004 due to a hurricane.
 
-## History## 
-West Palm Beach opened on December 18th, 1990 with one of three (Excluding Corporate) Prototype Road Stages (The others being [\2](\1) & [\2](\1)) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown).  In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the dor with 1990's decor.  
+This is not to be confused with the Pizza Time Theatre on  which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a  or the current location on  which opened on December 26, 2013 with a  and received 2.0 in March 2022, which is still open to this day.
+
+##History##
+West Palm Beach opened on December 18th, 1990 with one of three (Excluding Corporate) Prototype Road Stages (The others being  & ) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown).  In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the dor with 1990's decor.  
 
 In December 2004, the store was closed due to hurricane damage. The store remained vacant for a few years until the building was demolished for a TD Bank in around 2007. As of June 2023, TD Bank still remains on the site.
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |December 1990
 |1991/1992
 |Third Road Stage Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992.
 |-
-|[\2](\1)
+|
 |1991/1992
 |December 2004
 |Only Road Stage in Georgia.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Manufacturer Date
 !Whereabouts
 !Notes
 |-
-|[[Chuck E. Cheese (Cyberamic)]]
+|[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |Unknown.
 |
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown.
 |
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown.
 |
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown.
 |
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown.
 |
 |-
-|[[Wink (Cyberamic)]]
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1991/1992
 |Unknown.
 |Added when converted to finalized Road Stage
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 !Link
 !Description

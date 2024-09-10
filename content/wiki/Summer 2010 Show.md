@@ -7,11 +7,11 @@ tags = [ ]
 contributors = ["Documentor","66.220.208.40","The 64th Gamer","68.115.107.230","John95","2600:6C46:4A00:A2F:81B0:627F:AD01:D2D1","Ceclife13","172.58.159.105","2600:6C46:4A00:A2F:5510:397C:1D6D:FD70","Dame0824"]
 gallery = []
 +++
-**Summer 2010** is the summer show released June 2010. Featuring 8 songs some from [\2](\1) and some from [\2](\1) .
+**Summer 2010** is the summer show released June 2010. Featuring 8 songs some from  and some from  .
 
 This show played from July - September 2010.
 
-##  Show List: ## 
+## Show List: ##
 **Segment 1** 
 
 'Best Friends'
@@ -125,7 +125,7 @@ The Zone - 'Amateur Kiteboarder'
 Pajanimals - 'Stick To The Plan'
 
 CEC TV ID - 'Aquarium'
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 uuuufff.jpg|3-Stage DVD
 sssddd.jpg|Studio C DVD

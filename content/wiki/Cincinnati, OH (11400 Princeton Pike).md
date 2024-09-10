@@ -11,5 +11,5 @@ gallery = []
 
 The Cassinelli Square Pizza Time Theater opened in May 1982 and then closed Fall 1984. 
 
-##  Stages ## 
+## Stages ##
 It opened with a Balcony featuring Harmony, then got Madame Oink in July 82 and then got Helen in August 1983 which is what they closed with.

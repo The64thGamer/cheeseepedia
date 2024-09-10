@@ -11,10 +11,10 @@ gallery = ["Regwffwerwrfgerr.jpg","J4hy3t4y54j65t3.jpg","3ty545y3ty5.jpg","6rjuy
 
 The **_ShowBiz Pizza Place Installation Team Jacket**_ is a mustard colored _Pla-Jac_ jacket by _Donbrooke_ with ShowBiz embroidery.
 
-## Design## 
+##Design##
 The design is a standard long-sleeve zip-up jacket with an exterior made out of nylon. It has a large collar alongside two front pockets, with buttons on the wrists of the sleeves. A ShowBiz Pizza Place logo is embroidered onto the top left of the front side, and below it the word 'Installation'.
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Regwffwerwrfgerr.jpg
 File:J4hy3t4y54j65t3.jpg

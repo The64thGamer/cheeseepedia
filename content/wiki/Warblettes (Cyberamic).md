@@ -9,10 +9,10 @@ gallery = []
 +++
 The **Warblettes Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979 until the 1980's. There is also a colored version of the Warblettes.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Movements ## 
+## Movements ##
 The bot has 5 movements in total
 {| class='wikitable'
 |+
@@ -29,7 +29,7 @@ The bot has 5 movements in total
 |Body Tilt Right
 |}
 
-##  Stages Used In ## 
+## Stages Used In ##
 
 * Portrait Stage: Installed from 1979-1980. Went extinct in 1991 in Odgen, UT
 * Balcony Stage: Installed from 1980-1986. Went extinct in 2001 in Lake Forest, CA

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Charlie Rockit"]
 gallery = []
 +++
-Program Blue is a windows based program created by David “Big Ham” Ferguson in the early 2000’s. Originally in partnership with Aaron Fechter created as a better alternative to “[[Grey box]]” control system to control RAE’s, and be sold for a split profit. Since that deal fell apart David continued to develop ProgramBlue independently into what it is today.
+Program Blue is a windows based program created by David “Big Ham” Ferguson in the early 2000’s. Originally in partnership with Aaron Fechter created as a better alternative to “[Grey box]({{< ref "wiki/Grey box.md" >}})” control system to control RAE’s, and be sold for a split profit. Since that deal fell apart David continued to develop ProgramBlue independently into what it is today.
 
 Today ProgramBlue is the most commonly used control system for animatronic entertainment, powering Cyberamics, RAE, beagles, guest stars, Mjjins and more. In 2022 ProgramBlue made a breakthrough to be the first pioneer control system to decode Cyberstar TV to display music videos alongside the animation. 
 

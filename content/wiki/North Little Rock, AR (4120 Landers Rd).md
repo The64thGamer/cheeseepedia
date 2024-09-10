@@ -7,17 +7,17 @@ tags = [ ]
 contributors = ["RedaCEC","ChuckECool","Rexburg090","ThatBoiCydalan","CECFayetteville15"]
 gallery = []
 +++
-[\2](\1)
+
 **4120 Landers Rd** was a Showbiz Pizza Place that opened on October 27, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
 This location received Concept Unification in 1991-1992, and as of October 2022, they got a dance floor.
 
 This location currently got 2.0 remodel.
 
-##  History ## 
+## History ##
 North Little Rock opened on October 28, 1983. There were a total of 4 Showbiz locations opened in Arkansas, which included Little Rock, Fayetteville (which closed in 2010), and Fort Smith. North Little Rock would originally feature the Rock-Afire Explosion from when they opened until 1991-1992, when they would convert to a 3-Stage. They would remodel to the 1993 Remodel sometime in the mid 90's, They would have it for a bit, then they would remodel to the 2005 Remodel in the 2000's, which they still have to this day.
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have the RAE for a bit until November of 1990, when they would undergo Concept Unification, they were actually the 5th Showbiz to undergo CU, which involved turning the RAE into the Chuck E. Cheese characters. The Building, Moon, Munch Jr., and Pizzacam animatronics were removed between the 90's and 2000's, leaving the Wink to be the only character other than the main 5 to be left. The Wink currently has the 'In Pizza We Trust' phrase uncovered, In August 2019, North Little Rock removed their 3-Stage for a 2019 Model Dance Floor.
 {| class='wikitable'
 |+
@@ -26,23 +26,23 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |October 1983
 |1991-1992
 |
 |-
-|[\2](\1)
+|
 |1991-1992
 |August 2019
 |
 |-
-|[\2](\1) + Video Wall
+| + Video Wall
 |August 2019
 |Still In Use
 |2021 Model. Second 2.0 in Arkansas.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -98,8 +98,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Removed, Unknown
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 TODO

@@ -15,10 +15,10 @@ Serial #0042 Deck - 2
 
 **_SPP Liberty Wave Cyber**_ is a _Cyberstar_ showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
 
-##  Production ## 
+## Production ##
 To Do:
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 6 Minute Countdown
@@ -45,5 +45,5 @@ To Do:
 # **Video**
 ## ?
 
-##  Trivia ## 
+## Trivia ##
 To Do:

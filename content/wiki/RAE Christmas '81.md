@@ -13,10 +13,10 @@ gallery = []
 
 **RAE Christmas '81** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1981.
 
-##  Billy Bob Plush Intro: ## 
+## Billy Bob Plush Intro: ##
 Before both Catch a Wave & Unchained Medley. Rolfe & Earl would discuss the brand new Billy Bob plush. The Intro before Unchained Medley has Earl telling the audience they have a 'very special announcement' which is then forgotten and would then be announced in 'the next show'<ref>https://www.youtube.com/watch?v=EeOXdM5FLIM</ref>. The intro before Catch a Wave then goes into how they have 'Billy Bob Dolls for sale up in the gift shop' then at the very end Earl says 'Can you get me one for Christmas'.<ref>https://www.youtube.com/watch?v=T8sWz_sa8FM</ref>
 
-##  Segment list: ## 
+## Segment list: ##
 It is unclear the original order that the segments were played in. 
 
 * **Segment 1**
@@ -42,4 +42,4 @@ It is unclear the original order that the segments were played in.
 * **Segment 11**
 *# Why Can't Every Day Be Like Christmas
 
-##  References: ## 
+## References: ##

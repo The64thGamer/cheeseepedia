@@ -7,77 +7,77 @@ tags = [ ]
 contributors = ["Cheeseclassic","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|image=SPP Port Arthur TX.jpg|desc=Exterior, 1980's (PC: showbizpizza.com)}}**_Port Arthur, TX (3600 FM 365)**_ was a _ShowBiz Pizza Place_ that open on January 24, 1985 with a [\2](\1), and closed in 1994-1995 as a _Chuck E. Cheese's_ with a [[3-Stage]].
+{{Generic|image=SPP Port Arthur TX.jpg|desc=Exterior, 1980's (PC: showbizpizza.com)}}**_Port Arthur, TX (3600 FM 365)**_ was a _ShowBiz Pizza Place_ that open on January 24, 1985 with a , and closed in 1994-1995 as a _Chuck E. Cheese's_ with a [3-Stage]({{< ref "wiki/3-Stage.md" >}}){< ref "wiki/3-Stage.md" >}}).
 
-## History## 
+##History##
 TODO
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stages
 !Installed
 !Removed
 |-
-|[\2](\1)
+|
 |January 1985
 |1991-1992
 |-
-|[[3-Stage]]
+|[3-Stage]({{< ref "wiki/3-Stage.md" >}})
 |1991-1992
 |1994-1995
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[[Wink]]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed
 |}

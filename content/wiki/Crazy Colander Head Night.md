@@ -13,7 +13,7 @@ gallery = []
 
 **_Crazy Colander Head Night**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1983.
 
-## Show List## 
+##Show List##
 #**Segment 1**
 ##_Mickey_
 ##_Colander Gazette Promotion_

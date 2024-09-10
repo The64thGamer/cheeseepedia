@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Chuckepoggers69","Cheeseclassic"]
 gallery = []
 +++
-##  History ## 
+## History ##
 This location opened February of 1992 with a Road Stage, 
 In the mid 1990s they would replace the stage with a 2-Stage most likely salvaging the animatronics from the Road Stage,
 They also most likely got a remodel during this time, and probably got a remodel in the early 2000s.

@@ -11,9 +11,9 @@ gallery = []
 
 Holiday Special 1992 is a Christmas themed showtape which played during the holiday season. It was the second Christmas showtape to be produced for Munch's Make Believe Band.
 
-The majority of this show's content would end up being reused for [[Holiday '93]], which would run from 1993 to 1994.
+The majority of this show's content would end up being reused for [Holiday '93]({{< ref "wiki/Holiday '93.md" >}}), which would run from 1993 to 1994.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## CEC TV Intro
@@ -30,6 +30,6 @@ The majority of this show's content would end up being reused for [[Holiday '93]
 ## Rockin' Around The Christmas Tree
 # **Intermission 4**
 
-##  Trivia ## 
+## Trivia ##
 
 * Share the Joy was originally used in the CEC Xmas '91 showtape. It was redubbed for this year with updated vocals for Helen and Jasper.

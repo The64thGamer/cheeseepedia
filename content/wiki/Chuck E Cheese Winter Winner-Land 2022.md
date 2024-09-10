@@ -22,17 +22,17 @@ gallery = []
 
 This show features seven Holiday songs, of which all were reused. The automatic live show is, 'Chuck E.'s Yuletide Slide'.
 
-## Show List:## 
+##Show List:##
 
 #Intermission 1
-##**[[File:New Graphic.png]]** Ecolab
-##**[[File:New Graphic.png]]** Winter Food and Drink combo
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** Ecolab
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** Winter Food and Drink combo
 ##YouTube and Music Streaming Spot
 ##Disney Channel Stars - “Put the Happy in the Holidays'
 #Skit 1
 ##Chuck E. & Friends - “The Holiday Party”
 #Intermission 2
-##**[[File:New Graphic.png]]**Winter Winner-Land Deserts
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Winter Winner-Land Deserts
 ##Hi-Chew
 ##**[[File:New Graphic.png]]**CEC Online Store
 ##KIDZ BOP Kids - 'Let It Snow'
@@ -78,7 +78,7 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 ###Deck the Halls
 ###We Wish You a Merry Christmas
 
-## Lives## 
+##Lives##
 *Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 *Chuck E.'s Yuletide Slide (3stage, Cyberamic, Studio C,Weigl)
@@ -87,13 +87,13 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 *Me & My Friends (Holiday) (Studio C, Weigl)
 *Holly Jolly Dance (Studio C, Weigl)
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <nowiki><gallery></nowiki>
 Winnerland2022Floppy.png | Studio C Floppy
 Winnerland2022CECStage.png | CEC Stage DVD
 </gallery>
 
-## Trivia## 
+##Trivia##
 
 *First Studio C show to feature 'random lights'.
 *New skits were planned for this show but were scrapped due to the Entertainment Department's budget being cut.

@@ -8,20 +8,20 @@ contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu",
 gallery = ["Chico1.jpg|Chuck","Chico2.png|Avenger","Super.png|Super","Unknown","Unk5321nown.png|Fun","Unk12nown.png|Cool","U41nknown.png|Avenger","Screenshot","Counter.jpg|Some","P12.png|Chico","P-1.png|Birthday","O.png|Exterior","Ima1ge0.jpg|Chico","Im241age0.png|The","43062059","1003205","27.png|Helen,"]
 +++
 **_Chico CA (966 East Ave)**_ was a _Chuck E. Cheese's_ that opened on July 1982 with a Balcony stage, and closed on January 11th, 2011.
-[\2](\1)
+
 This location was opened on July 1982 as a Pizza Time Theatre, and then lost the rights to continue operating under the Chuck E. Cheese's license in 2011, eventually a few months after, the entire store was closed all together.
-## Stages## 
+##Stages##
 The Chico, CA location opened with a balcony stage, and then at an unknown date, the balcony stage was converted in a c stage. At another unknown date, the c stage was converted in a 2 stage. On January 11th, 2011, the store had lost the rights to the Chuck E. Cheese's brand, meaning they could no longer use anything that was associated with Chuck E. Cheese's, so they retrofitted the characters and rid the stage of anything to do with MMBB.
-## History## 
-### The last years### 
+##History##
+###The last years###
 During the last few years of Chico, CA operating under the Chuck E. Cheese's brand, the animatronics had completely stopped working with only some having little to no movements, it's been said that eventually they stopped using, prizes from corporate and instead replaced them with dollar store toys, it's also been said that they served frozen pizza they had gotten from a nearby vendor, which ultimately lead to corporate getting involved and revoking the franchise license.
 
-### Fun Zone & Pizza### 
+###Fun Zone & Pizza###
 Because the store could no longer operate under the Chuck E. Cheese's franchise, they had to improvise and went under the name Fun Zone & Pizza. This new brand was a complete former shell of what it once was, the record posters in the showroom were completely reskinned, the animatronics were retrofitted with generic mascot costumes, and the tvs were left on to play DirecTV, playing Nick Jr. shows.
 
-### Closure### 
+###Closure###
 This new brand wasn't pulling in a lot of money as the store owners intended, so they eventually had to close the store, they had sold everything from the store decor, arcade machines, to even the animatronics, though they would not work as their heads had been removed to fit into the generic mascot costumes.
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -63,7 +63,7 @@ This new brand wasn't pulling in a lot of money as the store owners intended, so
 |The abandoned building 4 years later
 |2015
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 File:Chico1.jpg|Chuck E. Cyberamic
 File:Chico2.png|Avenger walkaround in the showroom
@@ -83,7 +83,7 @@ File:43062059 2118022421555415 396322333486219264 n.png|The King at Chico
 File:1003205 557054194358564 205067494 n.png|A weird walkaround mix of Pizza Time Theatre and Cool Chuck
 File:27.png|Helen, Munch, and Jasper
 </gallery>
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -114,5 +114,5 @@ File:27.png|Helen, Munch, and Jasper
 |???
 |Unknown
 |}
-## References## 
+##References##
 Will be added soon.

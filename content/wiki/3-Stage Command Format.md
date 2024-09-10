@@ -7,8 +7,8 @@ tags = [ ]
 contributors = ["The 64th Gamer","Ls2018-1"]
 gallery = []
 +++
-## Post-93 Bit Shift## 
-In May of 1993, starting with the [\2](\1) EPROM chips to read the shifted data. This would be done to invalidate all previous shows from being played.
+##Post-93 Bit Shift##
+In May of 1993, starting with the  EPROM chips to read the shifted data. This would be done to invalidate all previous shows from being played.
 
 The format for this shift was applying an XOR mask to the second byte of the movement controls, being XOR 0x1F. This is the same operation for converting pre-93 signals to post-93, and decoding post-93 signals back.
  Example:

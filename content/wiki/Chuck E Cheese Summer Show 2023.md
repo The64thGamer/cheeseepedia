@@ -14,29 +14,29 @@ gallery = []
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 **_Chuck E. Cheese Summer Show 2023**_ is the generic summer show released on June 5, 2023 featuring a variety of songs released from 2016-2023.
 
-This show features 6 songs. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play [\2](\1) until they install the CEC Media Network system.
+This show features 6 songs. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play  until they install the CEC Media Network system.
 
-## Show List:## 
+##Show List:##
 
-### Advertising### 
+###Advertising###
 #**Ad 1**
 ##Ecolab
-##[[File:New Graphic.png]] Samsung & Food and Drink Combos
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Samsung & Food and Drink Combos
 ##Dippin Dots
 #**Ad 2**
 ##CEC Online Store
-##[[File:New Graphic.png]] YouTube & Food and Drink Combos
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) YouTube & Food and Drink Combos
 ##Fundraising and Group Events
 #**Ad 3**
 ##CEC Online Store
-##[[File:New Graphic.png]]Race World & Food and Drink Combos
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Race World & Food and Drink Combos
 ##Ecolab
 #**Ad 4**
 ##Dippin Dots
 ##CEC Birthdays & YouTube
 ##Fundraising and Group Events
 
-### Entertainment### 
+###Entertainment###
 #**Entertainment 1**
 ##Chuck E. & Friends - 'Song Of Summer'
 ##Koo Koo Kangaroo - 'Backyard Swimsuit'
@@ -62,12 +62,12 @@ This show features 6 songs. This is the first CEC Media Network exclusive showta
 ##[[File:New Graphic.png]]KIDZ BOP Kids - 'Golden Hour'
 ##KIDZ BOP Kids - 'Spaceman'
 
-## Lives:## 
+##Lives:##
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
 * [[File:New Graphic.png]]Beach Party Bash (Navori)
 
-##  Trivia: ## 
+## Trivia: ##
 * Beach Party Bash is re-edited to remove the mention of the Summer of Fun promotion.
 *This show will not receive a physical release.

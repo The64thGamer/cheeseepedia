@@ -11,7 +11,7 @@ gallery = []
 
 **_Chuck E. Cheese Evergreen 2024 (July Update)**_ is the generic show released on July 29, 2024. It features a variety of songs released from 2014-2023. The show features 10 songs. 
 
-##  Show List ## 
+## Show List ##
 
 # **Intermission 1**
 ## Zigazoo Star Showcase - 'DJ Munch'
@@ -64,9 +64,9 @@ gallery = []
 ## Chuck E. Cheese - 'Mary Had a Rockin' Little Lamb'
 ## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
-##  Lives: ## 
+## Lives: ##
 
-* [[Chuck E. Cheese Birthday Extravaganza]] (CEC Stage Navori, Media Navori)
-* [[Chuck E. Cheese Birthday Extravaganza Spanish]] (CEC Stage Navori, Media Navori)
-* [[Me & My Friends (New Countdown)]] (CEC Stage Navori, Media Navori)
-* [[Chuck E. Bop]] (CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (CEC Stage Navori, Media Navori)
+* [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (CEC Stage Navori, Media Navori)
+* [Chuck E. Bop]({{< ref "wiki/Chuck E Bop.md" >}}) (CEC Stage Navori, Media Navori)

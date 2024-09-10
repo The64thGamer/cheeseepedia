@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = ["APS","Remodeled","Remodeled","Remodeled","Remodeled","Unknown"]
 +++
-[\2](\1)The **_Animation Programming System (APS) Hardware Setup**_ is a collection of devices used by Chuck E. Cheese's to program animatronic shows on the [[Animation Programming System]] software starting in 1990.
+The **_Animation Programming System (APS) Hardware Setup**_ is a collection of devices used by Chuck E. Cheese's to program animatronic shows on the [Animation Programming System]({{< ref "wiki/Animation Programming System.md" >}}) software starting in 1990.
 
-APS and its hardware would be a direct upgrade to the [\2](\1), using many similar concepts and devices.
+APS and its hardware would be a direct upgrade to the , using many similar concepts and devices.
 
 <gallery>
 File:APS in use.png|1991

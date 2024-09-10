@@ -9,62 +9,62 @@ gallery = []
 +++
 {{Generic|image=Bigboxliveshow.png|desc='Dance To The Music' SVHS case (Unknown Sub-Format)}}
 
-The **_C&R SVHS (Pre-93)**_ format is a physical showtape medium holding the [[Biphase Cyberstar Data Format]] that lasted from May 1988 to May 1993.
+The **_C&R SVHS (Pre-93)**_ format is a physical showtape medium holding the [Biphase Cyberstar Data Format]({{< ref "wiki/Biphase Cyberstar Data Format.md" >}}) that lasted from May 1988 to May 1993.
 
-The format is used for two specific [\2](\1) stages, that being [\2](\1) and [\2](\1), hence the 'C&R'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of [[Best of CEC TV 1993]].
+The format is used for two specific  stages, that being  and , hence the 'C&R'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of [Best of CEC TV 1993]({{< ref "wiki/Best of CEC TV 1993.md" >}}).
 
-##  Format ## 
-Pre-93 showtapes must have a compatible Pre-93 EPROM installed within the [[Cyberamic Control System]], alongside a VHS deck that can output a video signal and 4 audio signals. The Cyberamic Control System used a **_JVC BR-7000UA**_, but any of the JVC BR-7000 variants that have 4 output audio jacks can work.
+## Format ##
+Pre-93 showtapes must have a compatible Pre-93 EPROM installed within the [Cyberamic Control System]({{< ref "wiki/Cyberamic Control System.md" >}}), alongside a VHS deck that can output a video signal and 4 audio signals. The Cyberamic Control System used a **_JVC BR-7000UA**_, but any of the JVC BR-7000 variants that have 4 output audio jacks can work.
 
-Attempting to play a Pre-93 showtape in a Post-93 EPROM system will incorrectly play [[data]] on differently mapped bits, resulting in characters and lights moving strangely. The same will happen with playing Post-93 showtapes in a Pre-93 system.
+Attempting to play a Pre-93 showtape in a Post-93 EPROM system will incorrectly play [data]({{< ref "wiki/data.md" >}}) on differently mapped bits, resulting in characters and lights moving strangely. The same will happen with playing Post-93 showtapes in a Pre-93 system.
 
-When comparing to the alternate [[R12 SVHS (Pre-93)]] released at the time, both formats hold uniquely programmed signals for the lights of the stages. Attempting to play one format on the other's stages won't make it visually apparent something is wrong, as most lights and all character movements will seem to behave as normal.
+When comparing to the alternate [R12 SVHS (Pre-93)]({{< ref "wiki/R12 SVHS (Pre-93).md" >}}) released at the time, both formats hold uniquely programmed signals for the lights of the stages. Attempting to play one format on the other's stages won't make it visually apparent something is wrong, as most lights and all character movements will seem to behave as normal.
 
-##  Showtapes ## 
-This format was only produced for 5 years before it switched to [[C&R SVHS (Post-93)]].
+## Showtapes ##
+This format was only produced for 5 years before it switched to [C&R SVHS (Post-93)]({{< ref "wiki/C&R SVHS (Post-93).md" >}}).
 
-* [[CEC Summertime]]
-* [[CEC Grammy Awards]] 
-* [[CEC Dance Showtape]]
-* [[CEC Home for the Holidays]] 
-* [[CEC Fractured Classics]] 
-* [[CEC Kiddie Songs]]
-* [[Chuck E. Cheese Shows (CEC Best of 1988)]]
-* [[CEC Dreams/Kids Showtape]]
-* [[CEC Neighbors / Dreams]]
-* [[CEC Christmas '89 / Wave Bday]]
-* [[CEC American Pride / Neighbors]] 
-* [[CEC Kids / American Pride]]
-* [[CEC TV Classics]]
-* [[CEC TV Classics (Edited)]]
-* [[CEC Summer Days]] 
-* [[CEC September 1990 Show]]
-* [[CEC Cyberstar Diagnostics Tape]] 
-* [[CEC Christmas '90 / Wave Bday]]
-* [[CEC Jan '91]] 
-* [[CEC Live]]
-* [[CEC Future]] 
-* [[CEC American Pride]] 
-* [[CEC TV Classics '91]] 
-* [[CEC Games]] 
-* [[Land Of 1,000 Dances]]
-* [[CEC September 1991 Show]] 
-* [[CEC Xmas 1991 Show]] 
-* [[CEC Rock It In Space]]
-* [[Taking Care of Business, Rhyming Rap]] 
-* [[Physical Fitness]]
-* [[Environment '92]]
-* [[Dance To The Music]]
-* [[Children of America '92]] 
-* [[Planes, Trains, And Automobiles]] 
-* [[Walking On Sunshine]]
-* [[Working For A Living]] 
-* [[Havin' A Party]]
-* [[Birthday Star '92]]
-* [[Holiday Special 1992]]
-* [[CEC-Stage Diagnostic Tape 1993]]
-* [[Havin' A Party (Rerelease)]]
-* [[January 1993 Show]]
-* [[What I Like About You]]
-* [[Spring Training]]
-* [[Spring Training Final Version]]
+* [CEC Summertime]({{< ref "wiki/CEC Summertime.md" >}})
+* [CEC Grammy Awards]({{< ref "wiki/CEC Grammy Awards.md" >}}) 
+* [CEC Dance Showtape]({{< ref "wiki/CEC Dance Showtape.md" >}})
+* [CEC Home for the Holidays]({{< ref "wiki/CEC Home for the Holidays.md" >}}) 
+* [CEC Fractured Classics]({{< ref "wiki/CEC Fractured Classics.md" >}}) 
+* [CEC Kiddie Songs]({{< ref "wiki/CEC Kiddie Songs.md" >}})
+* [Chuck E. Cheese Shows (CEC Best of 1988)]({{< ref "wiki/Chuck E Cheese Shows (CEC Best of 1988).md" >}})
+* [CEC Dreams/Kids Showtape]({{< ref "wiki/CEC DreamsKids Showtape.md" >}})
+* [CEC Neighbors / Dreams]({{< ref "wiki/CEC Neighbors  Dreams.md" >}})
+* [CEC Christmas '89 / Wave Bday]({{< ref "wiki/CEC Christmas '89  Wave Bday.md" >}})
+* [CEC American Pride / Neighbors]({{< ref "wiki/CEC American Pride  Neighbors.md" >}}) 
+* [CEC Kids / American Pride]({{< ref "wiki/CEC Kids  American Pride.md" >}})
+* [CEC TV Classics]({{< ref "wiki/CEC TV Classics.md" >}})
+* [CEC TV Classics (Edited)]({{< ref "wiki/CEC TV Classics (Edited).md" >}})
+* [CEC Summer Days]({{< ref "wiki/CEC Summer Days.md" >}}) 
+* [CEC September 1990 Show]({{< ref "wiki/CEC September 1990 Show.md" >}})
+* [CEC Cyberstar Diagnostics Tape]({{< ref "wiki/CEC Cyberstar Diagnostics Tape.md" >}}) 
+* [CEC Christmas '90 / Wave Bday]({{< ref "wiki/CEC Christmas '90  Wave Bday.md" >}})
+* [CEC Jan '91]({{< ref "wiki/CEC Jan '91.md" >}}) 
+* [CEC Live]({{< ref "wiki/CEC Live.md" >}})
+* [CEC Future]({{< ref "wiki/CEC Future.md" >}}) 
+* [CEC American Pride]({{< ref "wiki/CEC American Pride.md" >}}) 
+* [CEC TV Classics '91]({{< ref "wiki/CEC TV Classics '91.md" >}}) 
+* [CEC Games]({{< ref "wiki/CEC Games.md" >}}) 
+* [Land Of 1,000 Dances]({{< ref "wiki/Land Of 1,000 Dances.md" >}})
+* [CEC September 1991 Show]({{< ref "wiki/CEC September 1991 Show.md" >}}) 
+* [CEC Xmas 1991 Show]({{< ref "wiki/CEC Xmas 1991 Show.md" >}}) 
+* [CEC Rock It In Space]({{< ref "wiki/CEC Rock It In Space.md" >}})
+* [Taking Care of Business, Rhyming Rap]({{< ref "wiki/Taking Care of Business, Rhyming Rap.md" >}}) 
+* [Physical Fitness]({{< ref "wiki/Physical Fitness.md" >}})
+* [Environment '92]({{< ref "wiki/Environment '92.md" >}})
+* [Dance To The Music]({{< ref "wiki/Dance To The Music.md" >}})
+* [Children of America '92]({{< ref "wiki/Children of America '92.md" >}}) 
+* [Planes, Trains, And Automobiles]({{< ref "wiki/Planes, Trains, And Automobiles.md" >}}) 
+* [Walking On Sunshine]({{< ref "wiki/Walking On Sunshine.md" >}})
+* [Working For A Living]({{< ref "wiki/Working For A Living.md" >}}) 
+* [Havin' A Party]({{< ref "wiki/Havin' A Party.md" >}})
+* [Birthday Star '92]({{< ref "wiki/Birthday Star '92.md" >}})
+* [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}})
+* [CEC-Stage Diagnostic Tape 1993]({{< ref "wiki/CEC-Stage Diagnostic Tape 1993.md" >}})
+* [Havin' A Party (Rerelease)]({{< ref "wiki/Havin' A Party (Rerelease).md" >}})
+* [January 1993 Show]({{< ref "wiki/January 1993 Show.md" >}})
+* [What I Like About You]({{< ref "wiki/What I Like About You.md" >}})
+* [Spring Training]({{< ref "wiki/Spring Training.md" >}})
+* [Spring Training Final Version]({{< ref "wiki/Spring Training Final Version.md" >}})

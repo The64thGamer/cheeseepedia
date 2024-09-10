@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 diaddddg3.jpg|3-Stage DVD
 </gallery>

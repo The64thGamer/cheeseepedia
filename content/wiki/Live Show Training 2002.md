@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Gallery## 
+##Gallery##
 <gallery>
 live show 2002.jpg
 t live 2002.png

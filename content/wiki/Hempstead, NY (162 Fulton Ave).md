@@ -7,29 +7,29 @@ tags = [ ]
 contributors = ["ChuckfeldStan","CorrectorMan","Mr.Señor","Tux Chuck"]
 gallery = []
 +++
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Arcade Games & Rides ## 
+## Arcade Games & Rides ##
 
-###  Current ### 
+### Current ###
 
 * Chuck E. Cheese's Sketchbook
 * Nintendo Cruisin' Blast
 * SpongeBob SquarePants: Bikini Bottom Bowling
 
-##  Decor ## 
+## Decor ##
 
-###  Current ### 
+### Current ###
 
 * 2017 Pick Up
 * 2017 Restrooms
 * 2017 You Won
 
-###  Former ### 
+### Former ###
 
 * 1998 Caution! Wet Floor!
 * 1998 Emergency Exit

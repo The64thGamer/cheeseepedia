@@ -13,7 +13,7 @@ gallery = []
 
 The **_After Christmas Showtape**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
 
-## Segment List## 
+##Segment List##
 #**Segment 1** 
 ##Get Ready
 ##Red Hot

@@ -15,7 +15,7 @@ The Chuck E. Cheese's in Lake Charles, Louisiana opened on **December, 19th, 200
 
 They opened with a Studio C Beta 1-Screen, which was removed in Summer 2018 as part of the Dance Floor Remodel
 
-##  History ## 
+## History ##
 Lake Charles opened on December 19th, 2001, and was store #709. The store opened with a Phase 3 Thumb Chuck logo over the door with the 'Chuck E. Cheese's' name directly below Chuck. 
 
 The store opened with the classic Phase 3, featuring Must C TV's in the showroom, and props, posters, and magazines scattered throughout the store.
@@ -32,7 +32,7 @@ A few months before the store's remodel, they were given purple walls in the sho
 
 The grand re-opening event at Lake Charles was held on August 9th, 2018, with athlete Jennie Finch attending.
 
-##  Stages ## 
+## Stages ##
 {| class='wikitable'
 |+
 !Stage

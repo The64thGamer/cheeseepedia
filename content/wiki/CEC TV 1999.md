@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 cec tv maybe 2000.jpg|Unknown SVHS
 </gallery>

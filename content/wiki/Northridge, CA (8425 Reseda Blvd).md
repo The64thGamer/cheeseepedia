@@ -11,15 +11,15 @@ gallery = []
 
 This location currently houses a 2-Stage, and has been a notable store in the 2010's, as they have not remodeled since the mid 1990's, and currently are one of the last stores to have the 1993 Remodel.
 
-##  History ## 
+## History ##
 
-###  Pizza Time Theatre 1981-1993 ### 
+### Pizza Time Theatre 1981-1993 ###
 TODO
 
-###  Chuck E. Cheese's 1993-Present ### 
+### Chuck E. Cheese's 1993-Present ###
 TODO
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres had. They would have the Balcony Stage for several years, until the late 80's or early 90's, when they would convert to a C-Stage, they would have it for a very short time, when in 1993, they would convert to a 2-Stage, which is still there as of October 2022. Chuck E.'s ears are very high up on his head, making it look different, he also wears the rare 'Cool Chuck' outfit.
 {| class='wikitable'
 !Stage
@@ -39,42 +39,42 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 |Still in Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Unknown
 |Currently in Use
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Currently in Use
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Currently in Use
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Currently in Use
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Currently in Use
 |-
-|[\2](\1)
+|
 |1993?
 |Currently in Use
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO
 {| class='wikitable'
 !Link

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","StudioC","Ceclife13"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 s-aaaasdasd.jpg|Studio C DVD
 </gallery>

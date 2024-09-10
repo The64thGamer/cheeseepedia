@@ -9,12 +9,12 @@ gallery = []
 +++
 **_13101 Harbor Blvd**_ also known as 'Harbor' is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in November 1981 (day unknown) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in the Harbor Plaza Shopping Center.
 
-It should not be confused with the short lived [[Garden Grove, CA (11889 Valley View St)]] which opened around the same time (November 1981) and closed in 1984 with the Balcony Stage.
-## History## 
+It should not be confused with the short lived [Garden Grove, CA (11889 Valley View St)]({{< ref "wiki/Garden Grove, CA (11889 Valley View St).md" >}}) which opened around the same time (November 1981) and closed in 1984 with the Balcony Stage.
+##History##
 Garden Grove (Harbor) opened its doors on November 1981 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy and was bought on October 22, 1984 along with many other locations by the corporate. Like all locations at some point, Garden Grove (Harbor) received the 1988 remodel in 1989-1990 and removed older PTT decor for newer decor, and the removal of the Balcony Stage for Chuck E.'s House Facade. In the Early 90's, Garden Grove (Harbor) received a major remodel adding newer decor, replacing older decor, removal of the lounge, and the Chuck E.'s House Facade stage was replaced for the 2-Stage. In the Late 90's, Garden Grove (Harbor) received the 'Phase 2' remodel removing older 90's decor for newer decor, removing the ball pit for SkyTubes, the installation of the Toddler Zone, and the removal of The King animatronic. In 2009-2010, Garden Grove (Harbor) received the Phase 4 remodel removing all older decor for newer decor, removing the Showroom Walls, Balcony Seating, relocation the stage, and strangely, the removal of the Toddler Zone.
 
 Garden Grove (Harbor) would remain like this until in August 2022, when they received the 2.0 remodel removing the 2-Stage for the Dance Floor and Video Wall.
-## Stages## 
+##Stages##
 When Garden Grove (Harbor) opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. 
 
 Sometime between 1989 and 1990, Garden Grove (Harbor) installed Chuck E.’s House Facade, otherwise known as the [https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade C-Stage].
@@ -49,7 +49,7 @@ In August 2022, the 2-Stage was removed in August 2022 when they received the 2.
 |Still in use.
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -103,10 +103,10 @@ In August 2022, the 2-Stage was removed in August 2022 when they received the 2.
 |Unknown
 |Unknown / Destroyed
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 TODO
-## References## 
+##References##
 <references />

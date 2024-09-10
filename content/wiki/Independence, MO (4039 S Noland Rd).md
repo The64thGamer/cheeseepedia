@@ -11,10 +11,10 @@ gallery = []
 
 This location was the 6th Showbiz to open, and the 5th RAE installed, they would receive Concept Unification in 1991 or 1992, and still have the 3-Stage until closure.
 
-##  History ## 
+## History ##
 West Des Moines opened on October 14, 1980 and was the second Showbiz Pizza Place opened in the state of Missouri.
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, they were the 5th RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters.
 {| class='wikitable'
 |+
@@ -34,7 +34,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -134,7 +134,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |Unknown / Destroyed
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
 |}

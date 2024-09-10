@@ -8,9 +8,9 @@ contributors = ["ChuckECool","Saan1ty","Rexburg090","Caydenpedia","CEC1988","Che
 gallery = []
 +++
 **_6005 Rosemead Blvd**_ was a [https://chuckepedia.com/wiki/Chuck_E._Cheese's_Pizza_Time_Theatre Chuck E. Cheese's _Pizza Time Theatre_] that opened sometime in 1982 (month and day unknown) with a Balcony Stage, which is still open to this day.
-## History## 
+##History##
 Pico Rivera opened sometime in 1982. Unfortunately, there is hardly any information when it was a PTT, but we do know they had a Balcony Stage. Pico Rivera had the stage and the store unchanged until the late 80's when they received the 1988 remodel. They removed the Balcony Stage for the C-Stage and added the early 90's decor. They would remain like this until their second remodel in the mid-late 90's. They then removed the C-Stage for the 2-Stage and removed the early 90's decor and added new decor and SkyTubes. They would remain like this until the 2005 remodel between 2008-2009 when they removed the Showroom Walls, Balcony Seating, and relocating the 2-Stage. Currently, as of January 2023, they still have the 2-Stage and 2005 remodel and is safe from the 2.0 remodel.
-## Stages## 
+##Stages##
 Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hardly any photos or videos to exist of Pico Rivera.
 {| class='wikitable'
 !Stage
@@ -33,7 +33,7 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -63,8 +63,8 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |Unknown
 |In store.
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -87,5 +87,5 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |
 |
 |}
-## References## 
+##References##
 <references />

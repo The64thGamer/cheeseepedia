@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/january-2004-show/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_175646.jpg|Studio C Floppy Scan
 </gallery>

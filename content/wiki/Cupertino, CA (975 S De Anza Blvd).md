@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["CorrectorMan","Jaxonia"]
 gallery = []
 +++
-[\2](\1)
-**_975 S De Anza Blvd**_, location in the boundaries in **_San Jose**_, was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 (month and day unknown) and closed in May 1983 (day unknown) with a [\2](\1).
 
-This location is not to be confused with [\2](\1). 
+**_975 S De Anza Blvd**_, location in the boundaries in **_San Jose**_, was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 (month and day unknown) and closed in May 1983 (day unknown) with a .
 
-##  Stage ## 
-San Jose/Cupertino opened with a [\2](\1). This particular stage never received a Helen Henny, as they closed before the Summer 1983 showtape. However, there is basically no documentation, and after closure, their fate is currently unknown.
+This location is not to be confused with . 
+
+## Stage ##
+San Jose/Cupertino opened with a . This particular stage never received a Helen Henny, as they closed before the Summer 1983 showtape. However, there is basically no documentation, and after closure, their fate is currently unknown.
 {| class='wikitable'
 |+
 !Stage
@@ -21,55 +21,55 @@ San Jose/Cupertino opened with a [\2](\1). This particular stage never received 
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |1982
 |May 1983
 |N/A
 |}
 
-##  History ## 
-San Jose/Cupertino opened in 1982 (month and day unknown) with a [\2](\1). Unfortunately, there is basically no documentation on this store anywhere. The location would close in May 1983 (day unknown) for unknown reasons, but likely due to it underperforming or their lease expiring. As of August 2023, the location is now part of a Home Depot.
+## History ##
+San Jose/Cupertino opened in 1982 (month and day unknown) with a . Unfortunately, there is basically no documentation on this store anywhere. The location would close in May 1983 (day unknown) for unknown reasons, but likely due to it underperforming or their lease expiring. As of August 2023, the location is now part of a Home Depot.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Waving Flags (Cyberamic)]]
+|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Applause Board (Cyberamic)]]
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Drum Board (Cyberamic)]]
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |}

@@ -10,14 +10,14 @@ gallery = []
 The **_Jingle Bell Jamboree Show**_ is the show included
 
 This was created with conjunction with the Winter-Winnerland promotion this would play from November 15, 2021 - January 2, 2022. This show features 7 Songs with 2 of which being new and a live show called Chuck E.'s Yuletide Slide.
-## Corrected Version## 
+##Corrected Version##
 The initial DVD release for Studio C had pacing and timing issues, causing signals to not be synced up with the audio and video. A fixed DVD, labeled 'Corrected Version', was sent out two days later on November 17, 2021.
-## Show List:## 
+##Show List:##
 #**Intermission 1**
 ##Safety Message
-##**[[File:New Graphic.png]]** Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
-##**[[File:New Graphic.png]]** Disney Channel Stars - “Put the Happy in the Holidays”
-#**[[File:New Graphic.png]] Skit 1**
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** Disney Channel Stars - “Put the Happy in the Holidays”
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Skit 1**
 ##Chuck E. & Friends - “The Holiday Party”
 #**Intermission 2**
 ##**[[File:New Graphic.png]]** Winter Winner-Land Menu Spot
@@ -66,7 +66,7 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 ##**[[File:New Graphic.png]]** The Juicebox Jukebox -Thankful”
 ##Asher Angel - “Snow Globe Wonderland”
 ##YouTube and Music Streaming Spot
-## Live Shows:## 
+##Live Shows:##
 *Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
@@ -75,17 +75,17 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 *Happy Holiday Dance (New Countdown) (Studio C, Weigl)
 *Me & My Friends (Holiday) (New Countdown) (Studio C, Weigl)
 *Holly Jolly Dance (New Countdown) (Studio C, Weigl)
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Show521CV.png|Studio C Install DVD(Corrected Version)
 Show521P1.png|Studio C Player 1 DVD
 Show521P2.png|Studio C Player 2 DVD(Updated Version)
 </gallery>
-## Official Releases## 
+##Official Releases##
 *[https://youtu.be/DZiTeTs8xiI 'Chuck E.’s Yuletide Slide' on YouTube]
 *[https://www.youtube.com/watch?v=rBLJERfsf5Q 'The Windowsill' on YouTube]
 *[https://www.youtube.com/watch?v=htsMsIHUKQo 'Chuck E.'s Holiday Party' on YouTube]
-## Trivia## 
+##Trivia##
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2021
 |image=winterwinnerland.png 

@@ -15,9 +15,9 @@ gallery = []
 |cusvhs = y
 }}
 
-The **_Patriotic 1993 Show**_ was the final rerelease of [[CEC American Pride]] which replaced all of the intermissions. 
+The **_Patriotic 1993 Show**_ was the final rerelease of [CEC American Pride]({{< ref "wiki/CEC American Pride.md" >}}) which replaced all of the intermissions. 
 
-## Show List ## 
+##Show List ##
 #**Intermission 1**
 ##'My Daddy's Daddy'
 ##VJ Spot
@@ -79,4 +79,4 @@ The **_Patriotic 1993 Show**_ was the final rerelease of [[CEC American Pride]] 
 ##'Be A Sport'
 ##CEC TV Classic ID
 
-## Trivia:## 
+##Trivia:##

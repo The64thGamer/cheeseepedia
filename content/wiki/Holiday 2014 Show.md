@@ -11,7 +11,7 @@ gallery = []
 
 This was created to play from November 17th 2014 - December 28th 2014. This show features Six songs.
 
-##  Show List: ## 
+## Show List: ##
 **Skit 1**
 
 Music Video 1 - 'Let's Play Some Games' (Chuck E.)
@@ -78,7 +78,7 @@ Music Video 6 - 'Share the Joy' (All Characters)
 
 Show Break 6 - 'Classic Christmas'
 
-##  Live Shows: ## 
+## Live Shows: ##
 Rockstar Birthday 2014
 
 Spanish Rockstar Birthday 2014

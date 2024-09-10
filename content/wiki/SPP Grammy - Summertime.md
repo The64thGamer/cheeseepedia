@@ -14,32 +14,32 @@ gallery = []
 
 **_SPP Grammy - Summertime**_ is a _Cyberstar_ showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
 
-## Show List:## 
+##Show List:##
 #**Intermission 1**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#[[File:New Graphic.png]] **Segment 1**
-##[\2](\1)
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 1**
+##
 #**Intermission 2**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 2**
-##[\2](\1)
+##
 #**Intermission 3**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 3**
-##[\2](\1)
+##
 #**Intermission 4**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 4**
-##[\2](\1)
+##

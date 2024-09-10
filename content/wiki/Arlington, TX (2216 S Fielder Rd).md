@@ -9,10 +9,10 @@ gallery = []
 +++
 **2216 S Fielder Rd, Arlington TX** was a _Chuck E. Cheese’s Pizza Time Theatre_ located in Arlington, Texas. This location opened in October 1980.
 
-##  Stages ## 
+## Stages ##
 Arlington, TX would open with the Balcony Stage starring Madame Oink and the Around The World With Madam Oink (November 1980) Showtape. This location would not receive any of the other guest characters until 1984 when Broadway Helen Henny would become a permanent addition to the Pizza Time Players.
 
-##  Cabaret Acts ## 
+## Cabaret Acts ##
 This location would receive not one, not two, but THREE! cabaret acts. This location would open with Dolli Dimples, The King and the all new (at the time) Beagles! This location would be the very first location to receive the Beagles cabaret 
-[\2](\1)
+
 act.

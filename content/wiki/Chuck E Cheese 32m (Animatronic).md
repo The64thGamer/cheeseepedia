@@ -9,8 +9,8 @@ gallery = []
 +++
 The **Chuck E. Cheese 32m Animatronic** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations from 1997-2003.
 
-##  History ## 
+## History ##
 
-##  Movements ## 
+## Movements ##
 
-##  Stages Used In ## 
+## Stages Used In ##

@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125.34.66","Estsproduction"]
 gallery = []
 +++
-**Akron, OH (2779 West Market St)** is a Chuck E. Cheese's location that opened on October 15th 1993 with a [\2](\1). Like North Olmsted and Mentor, it should not be confused with [[Akron, OH (1984 Brittain Rd)]], which was a Pizza Time Theatre or [[Akron, OH (2511 Romig Rd)]], which was a Showbiz Pizza Place.
+**Akron, OH (2779 West Market St)** is a Chuck E. Cheese's location that opened on October 15th 1993 with a . Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or [Akron, OH (2511 Romig Rd)]({{< ref "wiki/Akron, OH (2511 Romig Rd).md" >}}), which was a Showbiz Pizza Place.
 
-##  History ## 
+## History ##
 Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Theatre posters, **BatMunch** and **Close Encounters of the Bird** , and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. 
 
-##  Stage History ## 
+## Stage History ##
 {| class='wikitable'
 |+
 !Stage
@@ -28,35 +28,35 @@ Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Th
 |In Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufactured
 !Status
 |-
-|[\2](\1)
+|
 |1993
 |Removed July 2022, Destroyed
 |-
-|[\2](\1)
+|
 |1993
 |Removed July 2022, Unknown
 |-
-|[\2](\1)
+|
 |1993
 |Removed July 2022, Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1993
 |Removed July 2022, Privately Owned
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1993
 |Removed July 2022, Unknown
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -64,7 +64,7 @@ Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Th
 !Year
 |-
 |https://www.youtube.com/watch?v=gXQU0YjSF7o
-|Footage of the 1 Stage performing [\2](\1) and [[Chuck E. March]]
+|Footage of the 1 Stage performing  and [Chuck E. March]({{< ref "wiki/Chuck E March.md" >}})
 |2000
 |-
 |https://www.youtube.com/watch?v=o3T5h6_QS2I

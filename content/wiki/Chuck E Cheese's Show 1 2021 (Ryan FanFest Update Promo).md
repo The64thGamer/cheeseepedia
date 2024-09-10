@@ -11,7 +11,7 @@ gallery = []
 
 This was created with the idea to play between promotional events. This show features 8 Songs and added promo videos for the Ryan FanFest event which was on November 27th.
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1**
 
 Social Distancing Safety Message

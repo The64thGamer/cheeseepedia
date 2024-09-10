@@ -21,20 +21,20 @@ gallery = []
 
 This show ran from April 1997 - July 1997.
 
-## Summary## 
+##Summary##
 The live show begins with an announcer introducing Chuck E. Cheese following up with Chuck E. Cheese singing [https://en.wikipedia.org/wiki/Get_Ready_(The_Temptations_song) 'Get Ready'] the show ends with audience participation followed by Chuck E. Cheese saying he'll be back in a little while
 
-## Showtape Releases## 
+##Showtape Releases##
 {| class='wikitable'
 !Release Year
 !Showtape
 !Format
 |-
 |1997
-|[[Chuck E Cheese's 20th Anniversary]]
+|[Chuck E Cheese's 20th Anniversary]({{< ref "wiki/Chuck E Cheese's 20th Anniversary.md" >}}){< ref "wiki/Chuck E Cheese's 20th Anniversary.md" >}})
 |3-stage, Cyberamics
 |-
 |1997
-|[[Chuck E Cheese's 20th Anniversary]]
+|[Chuck E Cheese's 20th Anniversary]({{< ref "wiki/Chuck E Cheese's 20th Anniversary.md" >}})
 |Awesome Adventure Machine
 |}

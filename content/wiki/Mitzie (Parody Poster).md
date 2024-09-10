@@ -14,23 +14,23 @@ Story by LES HOMEWORK Screenplay by MITZI BUSS & SKIP CLASS Produced by OTTO TOR
 
 The **_Mitzie**_ was a poster created for _Showbiz Pizza_ and _Chuck E. Cheese's_ in _1988_.
 
-## Production## 
-This poster was one of the few Rock-Afire Explosion parody posters released in 1988. Once [[Concept Unification]] began this poster would cease production in 1990.
+##Production##
+This poster was one of the few Rock-Afire Explosion parody posters released in 1988. Once [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) began this poster would cease production in 1990.
 
 This poster has been re-released by Creative Engineering after Concept Unification after mass fanfare for the Rock-afire Explosion has been ignited in the 2000s.<ref>https://creativeengineering.bigcartel.com/</ref>
 
-## Design## 
+##Design##
 The poster is a parody of the 1982 film, [https://en.wikipedia.org/wiki/Tootsie Toostie], with Mitzi Mozzarella taking on the role of Michael Dorsey.  
 
-Much like Billy Bob in [\2](\1), Mitzi is also seen in an unusual human-like form, having a more defined body specifically created for this artwork. Specifically looking as if Mitzi's head is superimposed onto the body of the actor pictured in the original, Michael Dorsey.  
+Much like Billy Bob in , Mitzi is also seen in an unusual human-like form, having a more defined body specifically created for this artwork. Specifically looking as if Mitzi's head is superimposed onto the body of the actor pictured in the original, Michael Dorsey.  
 
 Mitzi is seen in the same red dress seen in the original movie poster with a hairstyle more similar to the Michael Dorsey character.<ref>https://en.wikipedia.org/wiki/Tootsie</ref> Behind Mtizi is a large American flag, although the stars are interestingly blue as opposed to the standardized white.  
-## Gallery## 
+##Gallery##
 <gallery>
 File:Mitzip3.jpg
 File:Mitzip1.jpg
 File:Mitzip2.jpg
 </gallery>
 
-## References## 
+##References##
 <references />

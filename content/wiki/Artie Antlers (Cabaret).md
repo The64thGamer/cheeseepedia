@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["CECMentor","The 64th Gamer","Frosty126"]
 gallery = []
 +++
-The **_Artie Antlers [\2](\1).
+The **_Artie Antlers .
 
-##  Movements ## 
+## Movements ##
 Artie Antlers featured the same movements as the other cabaret characters, but removed Dolli Dimples' bosom mechanism.
 {| class='wikitable'
 |+

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 s-l1600 (16).jpg
 </gallery>

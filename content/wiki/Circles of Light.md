@@ -9,22 +9,22 @@ gallery = []
 +++
 The **Circles Of Light** is a stage format found at Chuck E. Cheese's locations which either opened with the stage or replaced a previous stage from August 2012 to 2021. It is an upgrade to the Galaxy Stage, which debuted in 2011 at the West Melbourne, Florida location. there are 3 variants, a 32M version, a 16M version, and a version with no animatronic, with the no animatronic version being more common, As of September 2022, there are 89 Circles Of Lights stages left.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Designs ## 
+## Designs ##
 TODO: Original Design, Updated Design #1, Updated Design #2
 
-##  Variants ## 
+## Variants ##
 
 * 32M COL
 * 16M COL
 * No animatronic COL
 
-##  Gallery ## 
+## Gallery ##
 
 
-##  Current Circles Of Light Stages ## 
+## Current Circles Of Light Stages ##
 {| class='wikitable'
 |+
 !Location
@@ -64,7 +64,7 @@ TODO: Original Design, Updated Design #1, Updated Design #2
 |Bot came from Kelso, Washington.
 |-
 |Little Rock, Arkansas, United States
-|[\2](\1)
+|
 |2014
 |No Bot
 |Relocation from old store in Little Rock.
@@ -88,10 +88,10 @@ TODO: Original Design, Updated Design #1, Updated Design #2
 |Replaced a 1-Stage, which was sent to Citrus Heights, where it is still in operation.
 |-
 |San Jose, California, United States
-|[\2](\1)
+|
 |2018
 |No Bot
-|Very large, replaced Studio C Alpha. 2.0, also has [\2](\1) which was added in Spring 2022. Former PTT.
+|Very large, replaced Studio C Alpha. 2.0, also has  which was added in Spring 2022. Former PTT.
 |-
 |Port Orange, Florida, United States
 |5539 S Williamson Blvd

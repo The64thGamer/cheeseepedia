@@ -9,4 +9,4 @@ gallery = []
 +++
 The Pizza Time Theater in Sylvan Lake, MI originally opened in September 1981<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf </ref>.  
 
-The original PTT was closed at an unknown date, but the location was later used to house a Little Caesars Family Fun Pizzeria / [\2](\1) and Westland, MI.
+The original PTT was closed at an unknown date, but the location was later used to house a Little Caesars Family Fun Pizzeria /  and Westland, MI.

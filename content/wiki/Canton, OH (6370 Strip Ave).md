@@ -7,14 +7,14 @@ tags = [ ]
 contributors = ["EagleScout610","ThatBoiCydalan","Chuckstar69","CorrectorMan","CEC Tinley","Livelycheese"]
 gallery = ["CantonAlpha.png|Canton's","Canton2008.png|Canton's"]
 +++
-[\2](\1)
+
 **Canton, OH (6370 Strip Ave)** is a Chuck E. Cheese's location in Canton Ohio that features a Studio C Alpha.
 
-##  History ## 
-Canton opened on July 23rd, 1998 with a [\2](\1), and the 1998 remodel. Not much is known about Canton until 2010, when they recieved the 2005 Remodel and underwent an expansion. The store would end up removing its [[Interactive Console]] in 2013, Blue Screen, and disabling their curtains in 2015, as most Studio Cs have. Today, they still have the 2005 remodel with Chuck wearing his Rockstar outfit.
-[\2](\1)
+## History ##
+Canton opened on July 23rd, 1998 with a , and the 1998 remodel. Not much is known about Canton until 2010, when they recieved the 2005 Remodel and underwent an expansion. The store would end up removing its [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) in 2013, Blue Screen, and disabling their curtains in 2015, as most Studio Cs have. Today, they still have the 2005 remodel with Chuck wearing his Rockstar outfit.
 
-##  Stages ## 
+
+## Stages ##
 {| class='wikitable'
 |+
 !Stage
@@ -28,7 +28,7 @@ Canton opened on July 23rd, 1998 with a [\2](\1), and the 1998 remodel. Not much
 |N/A
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial #
@@ -51,7 +51,7 @@ Canton opened on July 23rd, 1998 with a [\2](\1), and the 1998 remodel. Not much
 |In Store
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:CantonAlpha.png|Canton's Studio C Alpha
 File:Canton2008.png|Canton's exterior in 2008, before the remodel and expansion

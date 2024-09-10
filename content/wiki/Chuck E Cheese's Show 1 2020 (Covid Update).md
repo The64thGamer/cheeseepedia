@@ -19,7 +19,7 @@ gallery = []
 **_Show 1 2020 (Covid Update)**_ was released _on_ June 21, 2020.
 
 This was created to play from December 21, 2020 - June 23, 2020. This show features five songs and the first show to include the Covid Message.  
-## Show List:## 
+##Show List:##
 
 # **Intermission 1**
 ## Fun Songs - 'It's Chuck E.'
@@ -56,18 +56,18 @@ This was created to play from December 21, 2020 - June 23, 2020. This show featu
 ## Nigel & Ronnie - 'The Fly'
 # **Skit 5**
 ## Chuck E. & Friends - 'Chuck E.'s Place'
-# **[[File:New Graphic.png]] Intermission 6**
+# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Intermission 6**
 ## Social Distancing PSA
 ## Welcome Back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
 ## Louis the Child Ft. Drew Love - 'Free'
 
-##  Lives: ## 
+## Lives: ##
 
-* **[[File:New Graphic.png]]** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
+* **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
-##  Trivia: ## 
+## Trivia: ##
 This show ran for 2 days being the shortest ran show ever. 
 
-All of Intermission 6 were reused for [\2](\1).
+All of Intermission 6 were reused for .

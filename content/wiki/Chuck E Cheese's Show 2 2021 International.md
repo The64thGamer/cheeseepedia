@@ -9,7 +9,7 @@ gallery = []
 +++
 Show 2 2021 is the spring show released May 2021 featuring a variety of songs. This show features 6 Songs with 3 of which is new
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1** 
 
 Safety Message 
@@ -80,7 +80,7 @@ JUNG - 'Still Kids'
 
 Chuck E. & Friends - 'Another Chuck E. Day'
 
-##  Live Shows: ## 
+## Live Shows: ##
 
 # Birthday Show (Cyberamic, Studio C, Weigi)
 # Birthday Show (Spanish) ( Cyberamic, Studio C, Weigi)

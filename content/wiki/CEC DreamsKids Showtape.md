@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Updated_Reel_Cover.jpg|Reel Cover
 chuck-cheese-1980s-show-reel-tape_1_b2226a20dd1eb0e8cf344aca032bfc70 (1).jpg|Reel

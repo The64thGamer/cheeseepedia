@@ -9,14 +9,14 @@ gallery = []
 +++
 **_7350 Plantation Rd**_ #065 is a Chuck E. Cheese's store located in Pensacola, FL.
 
-##  Stages ## 
+## Stages ##
 Opened with a Rock-afire Explosion.
 
 In September 1991, this location received Concept Unification, replacing the Rock-afire with a CU 3 stage show.
 
 In July 2018, they received a dance floor along with the 2.0 remodel.
 
-##  History ## 
+## History ##
 This store opened as a Showbiz Pizza Place on December 6, 1981.
 
 In August of 1991, Pensacola received their first remodel, with white walls, checkers, a relocated ordering counter, and showroom walls with -then-new for Showbiz- windows.
@@ -29,5 +29,4 @@ On July 31, 2017, the following posters were randomly removed as per request of 
 
 This store's 2.0 remodel process started the week of July 12, 2018 and was completed in mid August 2018.
 
-##  Gallery ## 
-[\2](\1)
+## Gallery ##

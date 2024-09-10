@@ -11,7 +11,7 @@ gallery = []
 
 This was created with conjunction with the Summer of Fun promotion. Runs from June 6, 2022 to July 3, 2022 Then August 1, 2022 to August 28, 2022. This song features 6 Songs with the automatic live being Beach Party Bash.
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1** 
 
 Safety Message
@@ -104,7 +104,7 @@ KIDZ BOP Live 2022
 
 Chuck E. Cheese & Friends - “Out of this World”
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -114,7 +114,7 @@ Chuck E. Cheese & Friends - “Out of this World”
 * Easy Dance (3stage, Cyberamic, Studio C, Weigl)
 * Happy Dance (Studio C, Weigl)
 
-##  Showtape Scans / Images: ## 
+## Showtape Scans / Images: ##
 <gallery>
 Summer3stage.png|3-Stage DVD
 </gallery>

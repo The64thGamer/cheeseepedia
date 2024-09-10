@@ -11,27 +11,27 @@ gallery = ["Smcec963.png","Smcec962.png"]
 
 The 1996 **_Small Chuck E. Plush**_ was a an official product produced for prize counters in _1996._
 
-## Production## 
+##Production##
 This Chuck E. plush is the first of its kind, being remade into several different variants, this one in particular being made with a wider variety of materials than previous or future plush sets.
 
 The 1996 plush sets featured wire skeletons and weighted feet inside of the plush exterior; which can be used to pose the character into various positions.
 
-### Set<ref>https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf</ref>### 
+###Set<ref>https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf</ref>###
 
-* [[Small Helen Plush (1996)]]
+* [Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
 
-* [[Small Munch Plush (1996)]]
-* [[Small Jasper Plush (1996)]]
-* [[Small Pasqually Plush (1996)]]
+* [Small Munch Plush (1996)]({{< ref "wiki/Small Munch Plush (1996).md" >}})
+* [Small Jasper Plush (1996)]({{< ref "wiki/Small Jasper Plush (1996).md" >}})
+* [Small Pasqually Plush (1996)]({{< ref "wiki/Small Pasqually Plush (1996).md" >}})
 
-## Design## 
+##Design##
 This Chuck E. plush is designed based on the standardized 'Coach' design created by Peeler Rose in 1994.<ref>https://www.showbizpizza.com/info/documents/spt/spt_94trademark.pdf</ref>
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Smcec963.png
 File:Smcec962.png
 </gallery>
 
-##  References ## 
+## References ##
 <references />

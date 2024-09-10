@@ -13,7 +13,7 @@ gallery = []
 
 **ShowBiz Pizza '82 Tape** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
 
-## Show List## 
+##Show List##
 #**Segment 1**
 ##_Welcome In_
 

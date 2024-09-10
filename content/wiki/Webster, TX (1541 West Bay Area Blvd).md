@@ -9,14 +9,14 @@ gallery = []
 +++
 **Webster, TX (1541 West Bay Area Blvd)** is a Chuck E Cheese's location that opened on March 15, 1993. And it's the 2nd location in the Houston Texas area ever to opened under the new 'Chuck E Cheese's Pizza' brand.
 
-##  History ## 
+## History ##
 Webster, Texas opened with a 2-Stage and the 1993 Remodel. There wasn't many unique features about this store as it regular operating Chuck E Cheese's in the 1990's with the ball crawl, arcade games, and rides. The only big change that the store received in the mid-late 1990's was installation of the sky tubes. 
 
 In between 1999-2001, Webster, Texas removed their 2-Stage and replaced it with the Studio C Alpha. It's unknown if with the installation of the Studio C Alpha if the store also received the 'Must C TV' posters in the showroom. As there is yet to be documentation of this store when they just received the Studio C Alpha. Around the mid 2000's, the store would received it's first remodel as many elements of the 1993 remodel being removed and replaced with new wall art package in 2005. Throughout the years this location would stay quiet with small changes like new game packages and in mid-late January 2012, Webster would remove the interactive console from the Studio C Alpha stage.
 
 In July - August 2019, Webster, Texas would received the 'Chuck E Cheese's 2.0' remodel. All of the 2005 wall art would be replaced by new wall art, Sky Tubes would be trashed, new game package, and the Studio C Alpha stage would be removed and replaced with a interactive Dance Floor.
 
-##  Stages ## 
+## Stages ##
 {| class='wikitable sortable'
 |+ Stage History
 |-
@@ -26,7 +26,7 @@ In July - August 2019, Webster, Texas would received the 'Chuck E Cheese's 2.0' 
 |-
 | August 2019|| Dance Floor|| This is the latest stage that Webster has.
 |}
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+ Videos of Webster Texas
 |-

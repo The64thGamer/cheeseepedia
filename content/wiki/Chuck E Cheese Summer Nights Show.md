@@ -11,7 +11,7 @@ gallery = []
 
 This was created with conjunction with the Summer Nights promotion. Runs from July 4, 2022 - July 31, 2022. This song features 4 Songs with the automatic live being Beach Party Bash.
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1** 
 
 DJ Munch & KIDZ BOP Summer Nights Spot 1

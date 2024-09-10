@@ -11,13 +11,13 @@ gallery = []
 
 This was created with conjunction with the Ryan World Fan Fest. This 'show' ran for an 1 hour and 30 minutes and then was either destroyed or sent back to corp. 
 
-##  Show List: ## 
+## Show List: ##
 As this show doesn't have a set order and I am not about to watch 1hr and 30minutes of that just look up 'Ryan's World Fan Fest' on YT!
 
-##  Live Shows: ## 
-Technically none but since they never shipped out a Player 2 DVD any live show in [\2](\1) could play. 
+## Live Shows: ##
+Technically none but since they never shipped out a Player 2 DVD any live show in  could play. 
 
-##  Showtape Scans/Images: ## 
+## Showtape Scans/Images: ##
 <gallery>
 RyansWorldStudioC.jpg|Studio C Player 1 DVD
 </gallery>

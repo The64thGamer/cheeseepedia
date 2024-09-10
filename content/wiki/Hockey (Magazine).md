@@ -20,7 +20,7 @@ Again!|text4=Chuck E.
 'Slap Shot'
 Cheese|text5=Tops in the NHL}}
 
-The **Hockey (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the [[1990s Major Remodel]].
+The **Hockey (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the [1990s Major Remodel]({{< ref "wiki/1990s Major Remodel.md" >}}).
 
-##  Design ## 
+## Design ##
 The poster is held in a 20½ in. by 17 in. dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Hockey (shelf item) which has Chuck E. Cheese in a Hockey NHL Dallas Stars uniform with Chuck E. holding a hockey stick on the ice rink. The left side of the poster their reviews from critics.

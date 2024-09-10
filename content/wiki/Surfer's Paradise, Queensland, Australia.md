@@ -11,10 +11,10 @@ gallery = []
 
 This was the very first location outside of the United States, and after Carindale closed in 1984-1986, there have been no CEC's in Australia
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Stages ## 
+## Stages ##
 The location originally opened with a Balcony Stage, which was strange, as Pasqually was behind doors,and the Warblettes were between Jasper and Munch, and the stage was very long, in footage from 1981, they also had Madame Oink, and the Warblettes. As stated above, they relocated in 1982 to Carindale, so the Balcony Stage was the only stage they had.
 {| class='wikitable'
 |+
@@ -27,7 +27,7 @@ The location originally opened with a Balcony Stage, which was strange, as Pasqu
 |1982
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

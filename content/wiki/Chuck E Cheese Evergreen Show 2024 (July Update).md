@@ -12,7 +12,7 @@ gallery = []
 {{Showtape|cybernetwork=y|studiocnetwork=y|date=July 29, 2024}}
 
 
-##  Show List ## 
+## Show List ##
 
 # **Intermission 1**
 ## Zigazoo Star Showcase - 'DJ Munch'

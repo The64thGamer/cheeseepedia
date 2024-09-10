@@ -21,23 +21,23 @@ gallery = []
 
 This was created with conjunction with the Halloween Boo-tacular promotion. This show features a Day and Night cycle. Day would run from 11am - 6pm and Night from 6pm-Closing. Day show had 4 Songs with 2 of which being new. Night show had 0 programmed songs both Day & Night had a live show called Chuck E.'s Haunted House Party. 
 
-## Corrected Version## 
+##Corrected Version##
 Due to a computer crash while creating the DVD for Existing Stages the programming for the new songs (Halloween Night, Gotta be Halloween and Haunted House Party) had to be delayed till the problem was fixed and the new DVD was shipped out October 2nd 2021.
 
-## Day Show List:## 
+##Day Show List:##
 
 # **Intermission 1**
 ## English Safety Message
-## [[File:New Graphic.png]]Boo-Tacular Bumper 1
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Boo-Tacular Bumper 1
 ## KIDZ BOP Kids - 'This is Halloween'
-# [[File:New Graphic.png]]**Skit 1**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Skit 1**
 ## Chuck E. Cheese - 'Halloween Night'
 # **Intermission 2**
 ## Magic with Sara - 'Los Monstruos'
 ## Koo Koo Kanga Roo - 'Monster Moves'
 ## Musing with Mr. Munch - 'Halloween'
 ## English Safety Message
-## [[File:New Graphic.png]]Boo-Tacular Bumper 2
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Boo-Tacular Bumper 2
 ## China Anne McClain - 'Calling All The Monsters'
 # **Skit 2**
 ## Chuck E. Cheese - 'Nobody There'
@@ -58,7 +58,7 @@ Due to a computer crash while creating the DVD for Existing Stages the programmi
 # **Skit 4**
 ## Chuck E. Cheese - 'Be Yourself'
 
-## Night Show List:## 
+##Night Show List:##
 
 #**Intermission 1**
 ##English Safety Message
@@ -94,7 +94,7 @@ Due to a computer crash while creating the DVD for Existing Stages the programmi
 ##KIDZ BOP Kids - 'Ghostbusters'
 ##[[File:New Graphic.png]]Chuck E. Cheese YouTube & Music Streaming.
 
-## Live Shows:## 
+##Live Shows:##
 
 #Birthday Show (Cyberamic, Studio C, Weigi)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigi)
@@ -105,12 +105,12 @@ Due to a computer crash while creating the DVD for Existing Stages the programmi
 #[[File:New Graphic.png]]Me & My Friends Halloween (New Countdown) (Studio C, Weigi)
 #[[File:New Graphic.png]]Werewolf-Zomba-Franken Conga (New Countdown) (Studio C, Weigi)
 
-## Official Releases:## 
+##Official Releases:##
 [https://www.youtube.com/watch?v=SCiNT8g1NII 'Chuck E.’s Haunted House Party' on YouTube]
 
 [https://www.youtube.com/watch?v=N63mejSlHpg 'Halloween Night' on YouTube]
 
 [https://www.youtube.com/watch?v=Z_NYT04alAk 'Gotta Be Halloween' on YouTube]
 
-## Trivia## 
+##Trivia##
 The Day & Night system created for the show was a result of the CEC Marketing Team. The way the system works is different for the two main types Existing and Studio C. For Existing stages the Day & Night DVDs were separate while for Studio C based systems would automatically switch from Day to Night at 6pm.

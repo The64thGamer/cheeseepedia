@@ -11,4 +11,4 @@ gallery = []
 
 This show only ever played on existing stages.
 
-##  Show List: ## 
+## Show List: ##

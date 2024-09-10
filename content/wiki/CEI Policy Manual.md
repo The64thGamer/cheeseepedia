@@ -13,4 +13,4 @@ The **_Creative Engineering, Inc. Policy Manual**_ is a lost manual for CEI empl
 
 The only evidence of the manual's existence is a scan of the front cover art, drawn by Dave Thomas.<ref>https://www.showbizpizza.com/photos/rae/cei_artwork/index.html</ref>
 
-##  References ## 
+## References ##

@@ -7,28 +7,28 @@ tags = [ ]
 contributors = ["Lelmaster","Rafedreams","Stripes"]
 gallery = ["RafedreamsBurneeImage.jpg|Concept","RafedreamsHowleeImage.jpg|Concept","RafedreamsHowleeWolfImage.jpg|Concept","RafedreamsPumperImage","RafedreamsPumperImage.jpg|Concept","RafedreamsSmarteeImage.jpg|Concept","RafedreamsLogoArt.jpg|Smartee's","RafedreamsSmarteeSundae.jpg|Concept","RafedreamsFireboat.jpg|Concept","rafedreamsNewsArticleSmarteesSuit.png","SmarteesToday.jpg","SmarteesAd.png","SmarteesChristmasAd.png","SmarteesAdNewYears.png"]
 +++
-{{Stub}}[\2](\1)Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long opening around October 1st of 1982 and closing around November of 1983. Their main selling point was about how parents could relax and watch television while their kids could play unlimited arcade games.
+{{Stub}}Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long opening around October 1st of 1982 and closing around November of 1983. Their main selling point was about how parents could relax and watch television while their kids could play unlimited arcade games.
 
-##  Characters (TODO) ## 
+## Characters (TODO) ##
 
-###  Smartee ### 
+### Smartee ###
 Owl character, likely the leader of the band.
 
-###  Pumper ### 
+### Pumper ###
 Elephant character
 
-###  Burnee ### 
+### Burnee ###
 Baboon Character
 
-###  Polee ### 
+### Polee ###
 Bear character
 
-###  Howlee Wolf ### 
+### Howlee Wolf ###
 Wolf character
 
 
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:RafedreamsBurneeImage.jpg|Concept art of the full fire brigade
 File:RafedreamsHowleeImage.jpg|Concept art of Howlee
@@ -47,7 +47,7 @@ File:SmarteesAdNewYears.png || Smartee's newspaper ad
 
 </gallery>
 
-##  References ## 
+## References ##
 https://www.newspapers.com/article/fulton-county-expositor-smartees-pizza/142315252/
 
 https://archive.org/details/428122129-10221299676156203-1243370775018113238-n/427993412_10221299678036250_2011661218243808584_n.jpg

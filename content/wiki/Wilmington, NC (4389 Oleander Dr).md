@@ -11,10 +11,10 @@ gallery = []
 
 This location received Concept Unification in 1991, and had the last Munch Jr. animatronic until they closed, making it extinct.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. Wilmington's show was manufactured in January of 1982, being batch number 1. They would have the RAE for a few years, until 1991, when they would receive Concept Unification, this was the process used to turn the RAE into the Chuck E. Cheese characters. They would have the 3-Stage until they closed. They would have the last Munch Jr. animatronic in-store. They would also be the only location so far to have the full 'Rockstar' outfit (shirt and jeans), other than Dept. 18's programming show.
 {| class='wikitable'
 !Stage
@@ -33,7 +33,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Last Munch Jr.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Code
@@ -88,10 +88,10 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Destroyed
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 {| class='wikitable'
 |+
 !Link

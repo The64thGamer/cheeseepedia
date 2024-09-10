@@ -11,9 +11,9 @@ gallery = []
 
 The book would be authored by Weldon Owen, whom had previously made many cookbooks- alongside licensed ones such as for the Peanuts and Barbie brands.<ref>https://www.barnesandnoble.com/s/%22Weldon+Owen%22/_/N-y3b?Nrpp=20&Ns=P_Sales_Rank&Ntk=Publisher&Ntx=mode+matchall&page=4</ref>
 
-## Production## 
+##Production##
 Preorders would begin appearing on various book sellers in mid-August of 2023, which would be spotted on August 18th.<ref>https://www.simonandschuster.com/books/Chuck-E-Cheese-and-Friends-Party-Cookbook/Chuck-E-Cheese/9798886740868</ref><ref name=':0' /><ref>https://www.walmart.com/ip/Chuck-E-Cheese-and-Friends-Party-Cookbook-Hardcover-9798886740868/3554613500</ref>
-## Official Description## 
+##Official Description##
 <blockquote>Chuck E. Cheese and his friends are throwing a party – and you’re invited! In this fun, all-ages cookbook, Chuck E. can’t wait for you to see the recipes – and parties! – he and his friends have in store.
 
 Get ready to eat and dance the day away! In the _Chuck E. Cheese and Friends Party Cookbook_, the gang has fun and tasty parties they want to share with you. From Chuck E.’s Game Night party to Jasper T. Jowls’ Howlin’ Hootenanny and Helen Henny’s All-day Breakfast Sleepover, there’s a party for every occasion!
@@ -30,5 +30,5 @@ With great party ideas and delicious recipes that the whole family can pitch in 
 
 **DOZENS OF RECIPES:** From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!<ref name=':0' /></blockquote>
 
-## References## 
+##References##
 <references />

@@ -11,10 +11,10 @@ The **Chuck E. Cheese Cyberamic** is an animatronic figure created by Pizza Time
 
 It is a pretty simple figure, having only 8 movements. The Chuck E. Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Movements ## 
+## Movements ##
 The bot features 8 movements in total.
 {| class='wikitable'
 |+
@@ -37,7 +37,7 @@ The bot features 8 movements in total.
 |Right Arm Up
 |}
 
-##  Stages Used In ## 
+## Stages Used In ##
 
 * Portrait Stage: Installed from 1979-1980.Went extinct in 1991 at Odgen, Utah.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 2001 at Lake Forest, CA.

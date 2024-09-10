@@ -13,9 +13,9 @@ The **_CEC Pizza Training Document**_ was a document consisting of 3 laminated p
 
 The document goes over each step in making a standard pizza, not specific to any variant with toppings.
 
-##  Transcription ## 
+## Transcription ##
 
-###  Mixing & Bunning ### 
+### Mixing & Bunning ###
 
 # Measure water - use 70-80° water. Adjust to get finished dough temp 76-82°
 # Add water to mixing bowl. [NO Cold Bowls!]
@@ -31,7 +31,7 @@ The document goes over each step in making a standard pizza, not specific to any
 # Place in rack and move into walkin (DON'T COVER). Dough must be bunned and refrigerated within 30 minutes. [You can cover trays w/ butcher paper if the buns dry out in your store]
 # After ENTIRE rack reaches 42°, cover the entire rack. Refrigerate a MINIMUM OF 6 HOURS prior to rolling out.
 
-###  Rolling, Panning, & Proofing ### 
+### Rolling, Panning, & Proofing ###
 
 # Remove buns from walkin and warm-up for 20 minutes
 # Remove bun w/ spatula and flatten with palm of your hand, keeping in round shape
@@ -45,7 +45,7 @@ The document goes over each step in making a standard pizza, not specific to any
 # Adjust the skin so the edge of the crust is 1/4' BELOW the edge of the pan. Run your finger around lip of crust to remove any air bubbles
 # Cover w/ separator and place onto proofing rack or oven
 
-###  Topping & Baking ### 
+### Topping & Baking ###
 Use ONLY FULLY PROOFED CRUSTS! They should have the following 5 identifiers
 
 # 2-3 times original thickness
@@ -69,11 +69,11 @@ QUALITY IDENTIFIERS
 # Cheese is browned and well-melted
 # Lip glistens with the garlic margarine
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:V3t2534r3f35vt3v52t34v5t.jpg|Mixing & Bunning (1)
 File:45tb54b4bt45bt45.jpg|Rolling, Panning, & Proofing (2)
 File:23cd23cd2dc32dc23rr.jpg|Topping & Baking (3)
 </gallery>
 
-##  References ## 
+## References ##

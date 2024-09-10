@@ -7,17 +7,17 @@ tags = [ ]
 contributors = ["CECMentor"]
 gallery = []
 +++
-**_Sun**_ is one of the prop characters in the [[Rock-afire Explosion]], having made his debut as an animatronic at [[Jacksonville, FL (9820 Atlantic Blvd)]].
+**_Sun**_ is one of the prop characters in the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
-##  History ## 
+## History ##
 
-###  Origins & Showbiz Pizza Place ### 
-Sun is most commonly depicted with a masculine posh voice courtesy of Burt Wilson, but in the intro segment to the show 'School Days' they are depicted with a feminine voice. Sun was retrofitted into [[Building]] during [[Concept Unification]].
+### Origins & Showbiz Pizza Place ###
+Sun is most commonly depicted with a masculine posh voice courtesy of Burt Wilson, but in the intro segment to the show 'School Days' they are depicted with a feminine voice. Sun was retrofitted into [Building]({{< ref "wiki/Building.md" >}}) during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}).
 
-###  Present Day ### 
+### Present Day ###
 Original parts for Sun would start to be reproduced by Creative Engineering's new employees in 2023.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Types
@@ -25,8 +25,8 @@ Original parts for Sun would start to be reproduced by Creative Engineering's ne
 !Notes
 !Status
 |-
-|[[Sun (Animatronic)]]
+|[Sun (Animatronic)]({{< ref "wiki/Sun (Animatronic).md" >}})
 |1980-1983
-|Retrofitted during [[Concept Unification]].
+|Retrofitted during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}).
 |Several publicly and privately owned.
 |}

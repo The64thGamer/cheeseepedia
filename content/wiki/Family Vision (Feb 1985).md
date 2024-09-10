@@ -9,9 +9,9 @@ gallery = []
 +++
 {{Generic|image=Feb1985.png|desc=An airplane video playing at Showbiz Pizza Place in February 1985.}}
 
-This Family Vision tape has no official number, but it played in Feburary 1985 as part of a collection of monthly [[Family Vision]] Betamax tapes released to Showbiz Pizza Place stores starting in 1984.
+This Family Vision tape has no official number, but it played in Feburary 1985 as part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to Showbiz Pizza Place stores starting in 1984.
 
-##  Video List ## 
+## Video List ##
 The tape's total length and videos used are completely unknown, some may not be the real title.
 {| class='wikitable'
 !Title
@@ -43,9 +43,9 @@ The tape's total length and videos used are completely unknown, some may not be 
 |???
 |}
 
-##  Trivia ## 
+## Trivia ##
 
 * The music used in 'Airplane Footage' is called That’s All Folks from Network Music Ensemble<ref>https://www.youtube.com/watch?v=XUckMqkTneo&ab_channel=NetworkMusicEnsemble-Topic</ref> which featured old film footage of a Biplane flying around, not much is known of what else it could have featured as it only lasted roughly 12 seconds.
 
-##  References ## 
+## References ##
 <references />

@@ -9,7 +9,7 @@ gallery = []
 +++
 This was created to demonstrate what Aaron called the 'Chris Thrash Controller' which is an ipod based controller to play shows for Billy Bob and Looney Bird. <ref>https://www.youtube.com/watch?v=oFJFWXK_bqc</ref>
 
-##  Show List: ## 
+## Show List: ##
 **Track 1** 
 
 '3 Little Fishies'

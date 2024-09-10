@@ -13,7 +13,7 @@ gallery = []
 
 **_New Years Eve '82**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
 
-## Show List## 
+##Show List##
 #**Segment 1**
 ##_New Years Intro Skit_
 ##_Satisfaction Medley_

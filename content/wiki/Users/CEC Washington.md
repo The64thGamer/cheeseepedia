@@ -10,7 +10,7 @@ gallery = []
 Hi! I’m CEC Washington! I am a creator and a Reel to Real programmer who loves Chuck E. Cheese! 
 
 
-###### MY YT IS CEC Washington###### 
+######MY YT IS CEC Washington######
 Please do not repost my videos without permission from me.
 
 

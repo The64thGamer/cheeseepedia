@@ -8,11 +8,11 @@ contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","To Fa
 gallery = []
 +++
 **_7000 Veterans Blvd**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on June 24, 1981 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion].
-## History## 
+##History##
 Metairie opened its doors in June 24th, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that Metairie was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Metairie received the Showbiz Pizza Campground upgrade.
 
 In around 1991/1992, Metairie received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Metairie received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. In 2000, Metairie received the Phase 3 remodel which removed the 3-Stage for the Studio C Alpha. Metairie remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. As of January 2023, they still have the Alpha stage and the red poles that were from the store's pre-expansion.
-## Stages## 
+##Stages##
 Metairie opened with the Rock afire Explosion in June 1981. Unfortunately, there are no photos or videos to exist of Metairie with the Rock afire, or as a ShowBiz in general.
 
 In the 1990s, Metairie received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
@@ -39,7 +39,7 @@ In 2000, Metairie Richland Hills removed the 3-Stage for the Studio C Alpha stag
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -106,8 +106,8 @@ In 2000, Metairie Richland Hills removed the 3-Stage for the Studio C Alpha stag
 |N/A
 |In store.
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 TODO
-## References## 
+##References##
 <references />

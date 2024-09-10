@@ -11,10 +11,10 @@ gallery = []
 
 It would be a mix of live and pre recorded audio with the costumes preforming various CEC Songs. With someone named Jessi being an actor on the stage who spoke to Chuck and his gang (minus Pasqually)
 
-##  Summary: ## 
+## Summary: ##
 With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put on a show to entertain the guests using a mix of live shows and normal shows. After the show is over they would play various a mix of live show songs such as 'Happy & U Know It' and licensed songs such as 'Watch Me (Whip/Nae Nae)'. The main point of this concert on the corporate level was to tell the public that the walkarounds are coming back to stores after a year and two months. 
 
-##  Touring Locations ## 
+## Touring Locations ##
 
 * June 5: Pier 60 Park, Clearwater, FL @ 10am, 1pm & 3pm
 * June 12: Cumberland Park, Nashville, TN @ 10am, 1pm & 3pm
@@ -22,7 +22,7 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 * June 27: Piedmont Park Greystone, Atlanta, GA @ 10am, 1pm & 3pm 
 * July 3: Klyde Warren Park, Dallas, TX @ 10am & 1pm The Philadelphia, PA concert was cancelled due to weather with nothing done to replace it. 
 
-##  Show Lineup: ## 
+## Show Lineup: ##
 **Note:** Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
 
 **Dialogue**
@@ -73,7 +73,7 @@ Song of Summer (Concert Remix)
 
 Thanks for being here! (While Song of Summer instrumental is playing)
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -113,7 +113,7 @@ Thanks for being here! (While Song of Summer instrumental is playing)
 |-
 |}
 
-##  Trivia: ## 
+## Trivia: ##
 Play All You Can Play replaces Chucks vocals with helens during his 'Solo' and then replaces Munch's vocals with Helens during his 'Solo'
 
 Dog Days of Summer removes the rest of backing vocals and has sing be the only backup singer and also sings some of Jaspers lines. 

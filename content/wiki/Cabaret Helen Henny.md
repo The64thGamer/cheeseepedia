@@ -14,6 +14,6 @@ gallery = []
 | pttreel = y
 **_Cabaret Helen Henny**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Helen Henny.
 
-## Segments:## 
-#[[File:New Graphic.png]] If I Knew You Were Coming I'd Have Baked A Cake
+##Segments:##
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) If I Knew You Were Coming I'd Have Baked A Cake
 ##

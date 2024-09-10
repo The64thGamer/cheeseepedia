@@ -11,7 +11,7 @@ gallery = ["Dollicombback.png|Comb"]
 
 The **_Dolli Dimples 'Hello Dolli' Pink Hair Comb**_ was a redemption item created in 1982 for _Jasper's General Store._
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Dollicombback.png|Comb Back
 </gallery>

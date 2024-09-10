@@ -16,11 +16,11 @@ gallery = []
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Evergreen Show 2022 International (August Update)**_ is an update for **Weigl only** of the [[Chuck E. Cheese Evergreen Show 2022 International]] show with the only change being the removal of the signals. This update released August 25, 2022.
+**_Evergreen Show 2022 International (August Update)**_ is an update for **Weigl only** of the [Chuck E. Cheese Evergreen Show 2022 International]({{< ref "wiki/Chuck E Cheese Evergreen Show 2022 International.md" >}}) show with the only change being the removal of the signals. This update released August 25, 2022.
 
 This show didn't have any files compatible with the Pro Commanders. Also missing show info, schedules and the DMX ports for the stages. Due to this it was not possible to play on any Weigl show despite being shipped out. This was most likely for testing for the new networking system and how it works with Weigl based stores. 
 
-## Show List:## 
+##Show List:##
 
 #**Intermission 1** 
 ##Safety Message
@@ -57,7 +57,7 @@ This show didn't have any files compatible with the Pro Commanders. Also missing
 #**Skit 6**
 ##Chuck E. & Friends - 'Chuck E.'s Middle Name'
 
-## Lives:## 
+##Lives:##
 
 *Birthday Show (Weigl)
 *Birthday Show (Spanish) (Weigl)

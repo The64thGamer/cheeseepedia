@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["RockAfire Alex","Rexburg090","2600:4040:59FC:D100:7E92:3569:DE4F:A81F","ShowbizMidwest","RedaCEC","ChuckEPediaIsTheBest!","66.215.38.213","Bowling for Cheese","ChuckfeldStan","ThatBoiCydalan","BurgersNuggs445","Icantbelieveitsnotbutter","Chez","Aubreemasterson","SuperCreamPiper2008","AstridMascotFan2005","Cy's Junk at School","Cecfan15WantsRetromation","ConceptUnification2.0","Documentor","The 64th Gamer","CECMentor","Caydenpedia","UltimatelyFun"]
 gallery = []
 +++
-[\2](\1)
+
 **3415 Pleasant Valley Blvd** was a Showbiz Pizza place that opened in 1983 with a Rock Afire Explosion this location is still open today with its show.
 
-##  History ## 
+## History ##
 (History To Be Made)
 
-##  Stages ## 
+## Stages ##
 This location opened with the Rock Afire Explosion 3 stage, they got Concept Unification in 1992, This 3 stage is still in operation today with all its characters in mediocre condition. This 3 stage is interesting due to the fact the Munches Makes Believe Band sign is on Chuck Es stage and that this location also had Helen and Jaspers latex masks up until 2011.
 {| class='wikitable'
 |+
@@ -33,7 +33,7 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |The sign on Chucks stage
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -77,7 +77,7 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |Unknown
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -101,9 +101,8 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |
 |}
 
-##  Gallery ## 
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
+## Gallery ##
+
+
+
+

@@ -10,20 +10,20 @@ gallery = []
 {{Stub}}
 **_3175 Alpine Ave NW**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's_ that opened on October 26th, 1982 as a corporate store with a Rock-Afire Explosion, the store closed in 2002 (Possibily Late August-Early September). The store was located next to Kmart in the former Kmart Foods (Later Eberhard Grocery Store) space.
 
-This store relocated to [\2](\1).
+This store relocated to .
 
-##  History ## 
+## History ##
 
-###  Pre SPP/CEC (November 22nd, 1965-1982) ### 
+### Pre SPP/CEC (November 22nd, 1965-1982) ###
 The space that would house the Walker SPP/CEC would open on November 22nd, 1965 as a Kmart Foods Grocery Store which was the former Grocery Store division for Kmart. It would remain as Kmart Foods until it went out of business and became a Eberhard Grocery Store which was closed by 1982, sometime after, the construction of the Walker Showbiz Pizza Place would begin
 
-###  Showbiz Pizza Place & Chuck E. Cheese (October 26th, 1982-1991 & 1991-2002) ### 
-Walker opened on October 26th, 1982 as the third Showbiz Pizza Place in Michigan (3rd after [\2](\1) & [\2](\1)) as a Corporate owned store. Walker originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters. In the Mid-Late 1990's, Walker would receive another remodel. The store would remain this way until they closed and relocated to [\2](\1) in possibily the former Kids R Us in September 2002. 
+### Showbiz Pizza Place & Chuck E. Cheese (October 26th, 1982-1991 & 1991-2002) ###
+Walker opened on October 26th, 1982 as the third Showbiz Pizza Place in Michigan (3rd after  & ) as a Corporate owned store. Walker originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters. In the Mid-Late 1990's, Walker would receive another remodel. The store would remain this way until they closed and relocated to  in possibily the former Kids R Us in September 2002. 
 
-###  Post CEC (2002-Present) ### 
+### Post CEC (2002-Present) ###
 Sometime after the relocation and closure, the location's exterior along with the former Kmart next to it would be redone beyond recognition and converted into a Shopping Plaza called 'Summit Alpine'. As of May 2023, Summit Alpine still operates to this day.
 
-##  Stages ## 
+## Stages ##
 Originally, Walker featured a Rock-Afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage.
 
 Walker would have the 3-Stage until 2002 (Possibily Late August-Early September) when the 3-Stage was removed due to the location permanently closing and relocating across the street.
@@ -33,76 +33,76 @@ Walker would have the 3-Stage until 2002 (Possibily Late August-Early September)
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |October 1982
 |1991
 |3rd Showbiz to open in Michigan.
 |-
-|[\2](\1)
+|
 |1991
 |2002
 |One of three to undergo Concept Unification.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |1-82 1-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 2-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 3-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 4-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 5-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 6-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 7-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 8-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 10-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |1-82 11-27
 |Unknown/Destroyed.
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed.
 |-
-|[[Wink]]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed.
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 !Link
 !Description

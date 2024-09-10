@@ -9,13 +9,13 @@ gallery = ["antioch'sFats.jpg|Showbiz","glj.png|Gaslight","knoebels.jpg|Knoebels
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=monke.png}}Fats Gorilla was created for the Wolf Pack 5 show and debuted at the 1978 IAAPA. He is a parody of rhythm and blues musician, Fats Domino.
 
-##  History ## 
+## History ##
 TODO
 
-##  Design ## 
+## Design ##
 Fats is a gorilla that plays an upright piano. He wore a sparkling tuxedo with varying colors depending on location, a bow tie, and white undershirt
 
-##  Movements ## 
+## Movements ##
 
 * Mouth
 * Head turn
@@ -28,7 +28,7 @@ Fats is a gorilla that plays an upright piano. He wore a sparkling tuxedo with v
 * Body lean
 * Foot tap
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:antioch'sFats.jpg|Showbiz Pizza Place, Kansas City, MO (1980)
 File:glj.png|Gaslight Village (Late 70s-Early 80s)

@@ -11,7 +11,7 @@ gallery = []
 
 The **_PTT Harold Goldbrandsen Business Card (Ver. A)**_ is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
 
-##  Transcription ## 
+## Transcription ##
 <blockquote>CHUCK E. CHEESE'S
 
 Pizza Time

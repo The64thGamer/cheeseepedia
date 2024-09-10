@@ -9,10 +9,10 @@ gallery = []
 +++
 **_3435 Wrightsboro Road**_ is a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on July 14, 1982 with a Rock-Afire Explosion and is still open to this day with a 3-Stage.
 
-It was known for having 1 of 3 Yogi Bear test stages. [[Colorado Springs, CO (5156 N Academy Blvd)]] and [[Omaha, NE (225 N 76th St)]] also received this stage.
-## History## 
+It was known for having 1 of 3 Yogi Bear test stages. [Colorado Springs, CO (5156 N Academy Blvd)]({{< ref "wiki/Colorado Springs, CO (5156 N Academy Blvd).md" >}}) and [Omaha, NE (225 N 76th St)]({{< ref "wiki/Omaha, NE (225 N 76th St).md" >}}) also received this stage.
+##History##
 Augusta opened its doors on July 14th, 1982 as the 6th Showbiz Pizza store in store in Georgia. It opened with the Rock-Afire Explosion band. Augusta received a very minor remodel in 1987 where some SPP decor was removed for newer decor though some remained, and the stage was heavily changed. Billy Bob was replaced with Yogi Bear and Looney Bird was replaced with Boo-Boo. In 1991, Augusta received Concept Unification and fully received the 1988 remodel removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and removed the Rock-Afire Explosion, including the Yogi Bear test stage for the 3-Stage. The store would receive the 1993 remodel sometime by the Mid 90's removing older CU decor for Record Posters, and removing the Blue and White awnings above the salad bar. In the Late 90's, Augusta received another remodel, changing the exterior, removed older decor for newer decor, and replaced the ball pit with SkyTubes. August would remain like this until 2006-2007 when they would receive the 2005 remodel removing older decor for newer decor, removing Showroom Walls, relocating the stage, expanding to the left of the former space, replacing the older pointing Chuck for the newer one, and received an exterior remodel. Currently, as of March 2023, the location still has the 2005 remodel and still has the 3-Stage. Although, the brown checkers started to fade away and look more grey.
-## Stages## 
+##Stages##
 Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the Billy Bob stage was replaced with Yogi Bear. In around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. It would remain until the store closed.
 {| class='wikitable'
 !Stage
@@ -35,7 +35,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 |Still in use
 |One of 6 Showbiz stores in Georgia to undergo Concept Unification.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -89,10 +89,10 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 |N/A
 |In store.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description

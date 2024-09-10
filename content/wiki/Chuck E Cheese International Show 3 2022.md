@@ -11,7 +11,7 @@ gallery = []
 
 This was created with conjunction with the Summer of Fun promotion. Runs from June 2022 - August 2022. This song features 6 Songs with the automatic live being Beach Party Bash.
 
-##  Show List: ## 
+## Show List: ##
 All that is known is the skits the intermissions are currently lost. The order of the skits is also unknown and the order reflects what was played in the US Show.
 
 **Skit 1** 
@@ -38,7 +38,7 @@ Chuck E. Cheese - 'Let's Be Friends'
 
 Chuck E. Cheese & Friends - 'Out of This World'
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show ( Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

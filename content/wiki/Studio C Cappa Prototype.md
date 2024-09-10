@@ -9,13 +9,13 @@ gallery = []
 +++
 The **Studio C Buffet** was installed in 3 Chuck E. Cheese's locations in 2002. It featured no animatronic stage, and a buffet, as part of the 'Small Town CEC' concept. In all 3 locations, the buffet was later replaced with Studio C Cappas.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Design ## 
+## Design ##
 TODO: Design, Food included.
 
-##  Locations Installed In ## 
+## Locations Installed In ##
 {| class='wikitable'
 |+
 !Location

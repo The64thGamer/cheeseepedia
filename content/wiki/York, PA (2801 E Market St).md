@@ -11,10 +11,10 @@ gallery = []
 
 This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in September 2018.
 
-## History## 
+##History##
 TODO
 
-## Stages## 
+##Stages##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. In September 2018, they remodeled to 2.0, removing the 3-Stage for a 2017 Model Dance Floor.
 {| class='wikitable'
 |+
@@ -22,20 +22,20 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Installed
 !Removed
 |-
-|[\2](\1)
+|
 |March 1983
 |Around 1991
 |-
-|[\2](\1)
+|
 |Around 1991
 |September 2018
 |-
-|[\2](\1)
+|
 |September 2018
 |Still In Use
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic

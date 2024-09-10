@@ -9,5 +9,4 @@ gallery = []
 +++
 {{Stub}}
 
-##  Newspapers ## 
-[\2](\1)
+## Newspapers ##

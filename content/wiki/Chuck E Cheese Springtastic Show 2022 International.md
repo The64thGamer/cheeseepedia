@@ -11,7 +11,7 @@ gallery = []
 
 This was created to play during the Spring-Tastic Celebration Promotion. Runs from March ?, 2022 to 2022. This song features 6 Songs with a reedit of Spring Break Break Dance as the automatic live.
 
-##  Show List: ## 
+## Show List: ##
 **Skit 1** 
 
 Play All You Can Play 
@@ -36,7 +36,7 @@ Billy & The Bully
 
 Barbara The Barnyard Barber
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -47,5 +47,5 @@ Barbara The Barnyard Barber
 * Easy Dance (3stage, Cyberamic, Studio C, Weigl)
 * Happy Dance (Studio C, Weigl)
 
-##  Trivia: ## 
+## Trivia: ##
 'Rainy Day' was reprogrammed keeping the original lighting programming but redone to change Chuck and Birds movements.

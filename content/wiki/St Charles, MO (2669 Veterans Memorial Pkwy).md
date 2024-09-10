@@ -9,7 +9,7 @@ gallery = []
 +++
 **_2669 Veterans Memorial Pkwy**_ is a _ShowBiz Pizza Place_ located in St. Charles, Missouri.  It opened in October 27, 1982 and was the 8th ShowBiz to open in Missouri.
 
-## History## 
+##History##
 St. Charles opened its doors on October 27th, 1982 with the RockAfire Explosion like every other ShowBiz did. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open.
 
 In either 1991 or 1992, They received Concept Unification. Then in around the Mid 1990's the store would receive the 1993 remodel (Phase 2), complete with: an Obstotron (later SkyTubes); 1991 Platinum CD Award posters (Flabby Road, Brawn in the USA, Cheese Z Top, Vitaminology, & Saturday Night Retriever); Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Coach Chuck signs; 1991 Confetti Portraits; and other misc signage.
@@ -21,7 +21,7 @@ In around 2008, St. Charles would remodel to the 2005 remodel; removing most of 
 In around 2012, Chuck's outfit was replaced with the Avenger outfit. Chuck's cap would be removed in September 2013. In 2014-2015, the removed the Interactive Console, & Bluescreen Camera. Not long after that, they disabled the curtains.
 
 In October 2022, St. Charles received the 2.0 Remodel, which involved the removal of the Studio C Alpha for the Dance Floor and Record Posters. This was the last location in  Missouri with Record posters. Currently, as of January 2023, they still have the 2.0 and the Dance Floor.
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -43,7 +43,7 @@ In October 2022, St. Charles received the 2.0 Remodel, which involved the remova
 |October 2022
 |Still In Use
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -113,7 +113,7 @@ In October 2022, St. Charles received the 2.0 Remodel, which involved the remova
 |N/A
 |Destroyed
 |}
-## Gallery## 
+##Gallery##
 (W.I.P)
-## Videos## 
+##Videos##
 (W.I.P)

@@ -9,15 +9,15 @@ gallery = ["Promo","CEI","Naperville","Tinley"]
 +++
 {{Animatronic|image=PromoLooney.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Looney Bird Labratory Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [[New Rock-Afire Explosion]] in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+The **_Looney Bird Labratory Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-##  History ## 
-This character was produced in 1993 for the [[New Rock-Afire Explosion]] show, with less movements than standard Mijjins.
+## History ##
+This character was produced in 1993 for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}) show, with less movements than standard Mijjins.
 
-##  Design ## 
-This bot is a Standard Mijjin mech with less movements, the mech has green eye pieces. The bot is the Looney Bird Character from the [\2](\1) in the smaller Mijjin style, now with a body. This character is only seen wearing a Lab Coat.
+## Design ##
+This bot is a Standard Mijjin mech with less movements, the mech has green eye pieces. The bot is the Looney Bird Character from the  in the smaller Mijjin style, now with a body. This character is only seen wearing a Lab Coat.
 
-##  Movements ## 
+## Movements ##
 All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos.
 
 Looney Bird Window's servo movements are linked to this character.
@@ -102,7 +102,7 @@ Knee Bend
 |Lids Open
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Promo Looney 2.png
 File:CEI Looney.png
@@ -110,5 +110,5 @@ File:Naperville Looney.png
 File:Tinley Looney.jpg
 </gallery>
 
-##  References ## 
+## References ##
 <references />

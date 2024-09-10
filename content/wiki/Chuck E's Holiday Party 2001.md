@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/studio-c-holiday-2001-show-update/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 BusinessCard_2021-08-09_180521.jpg|Studio C Floppy Scan
 </gallery>

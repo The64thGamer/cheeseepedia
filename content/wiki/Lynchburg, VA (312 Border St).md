@@ -11,10 +11,10 @@ gallery = []
 
 This location received Concept Unification in 1991 or 1992, and was converted back into an RAE after they closed, becoming 'Billy Joe's Ice Cream Parlor & Restaurant', which closed in the early 2000's.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did, they would have it for a few years, until 1991 or 1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the Chuck E. Cheese characters. They would only have the 3-Stage for a very short time, until 1995, when the would close and were converted back into a RAE as apart of a ice cream parlor and restaurant known as 'Billy Joe's Ice Cream Parlor & Restaurant'. they would only be open until the early 2000's, when they closed, the bots were sold to someone, and sat in a storage unit for a long time, until 2020, when they were found by [https://www.youtube.com/channel/UCgxzb-fN2B43_3FirF1XDnQ Connor Leschinsky] and [https://www.youtube.com/c/sptproductions/videos Sptproductions].
 {| class='wikitable'
 |+
@@ -39,7 +39,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

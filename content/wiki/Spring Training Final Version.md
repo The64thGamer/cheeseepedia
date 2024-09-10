@@ -9,9 +9,9 @@ gallery = []
 +++
 {{Showtape|image=Spring Training.png|date=March 1993|cusvhs=y|c&r=y|r12=y}}
 
-**Spring Training Final Version** was a rerelease of [[Spring Training]] with intermission changes.
+**Spring Training Final Version** was a rerelease of [Spring Training]({{< ref "wiki/Spring Training.md" >}}) with intermission changes.
 
-## Show List## 
+##Show List##
 
 #**Intermission 1**
 ##5 Minute Countdown
@@ -83,6 +83,6 @@ gallery = []
 ##'These Hands'
 ##VJ Spot
 
-## Trivia:## 
-*The footage for 'Good Love' is replaced with reused footage from [[Planes, Trains, And Automobiles]].
+##Trivia:##
+*The footage for 'Good Love' is replaced with reused footage from [Planes, Trains, And Automobiles]({{< ref "wiki/Planes, Trains, And Automobiles.md" >}}).
 *This release of the show replaces 'Groove Is In The Heart' and 'The Motown Song' with 'Train Ride' and 'Twinkle Twinkle'. Another 1 Minute Countdown was also added.

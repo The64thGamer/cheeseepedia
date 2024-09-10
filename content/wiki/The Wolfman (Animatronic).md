@@ -9,10 +9,10 @@ gallery = ["iaapa77.jpg|At","iaapa77_2.jpg|Ditto","iaapa78.jpg|At","gaslight.jpg
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=wp5_man.png}}The Wolfman was created for the Wolf Pack 5 show and debuted at the 1978 IAAPA. He is meant to be a parody of the radio DJ, Wolfman Jack. Wolfman's mask uses the same mold as Buddy Crash from the Bear Country Jubilee, with teeth and mustache glued on.
 
-##  History ## 
+## History ##
 TODO
 
-##  Movements ## 
+## Movements ##
 
 * Mouth
 * Head left
@@ -31,7 +31,7 @@ TODO
 * Left arm twist
 * Tail
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:iaapa77.jpg|At IAAPA (1978)
 File:iaapa77_2.jpg|Ditto

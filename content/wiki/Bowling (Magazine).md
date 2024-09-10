@@ -9,11 +9,11 @@ gallery = ["4he5rttr2t34he5trjht34.jpg|Measurements","Rgtger3fregfre3fwrge.jpg|V
 +++
 {{Art|image=M6i8r6im76ini7u6.jpg|text1=SPARE TIME: The Place to Be is Chuck E. Cheese|text2=CONCENTRATION IS THE KEY--GET YOUR MIND OUT OF THE GUTTER|text3=BOWLING DIGEST|text4=The King Pin-- Chuck E. Cheese|text5=Rolling in Dough---- Chuck E. 'Strikes' It Rich on Pro Bowling Tour|text6=Pins--Rolling Your Way to A Higher Score|manufacturer=ShowBiz Pizza Time Inc.}}
 
-The **_Bowling Digest**_ **_(Magazine)**_ was a poster created for Chuck E. Cheese's around 1994-1995 for the [[1990s Major Remodel]].
+The **_Bowling Digest**_ **_(Magazine)**_ was a poster created for Chuck E. Cheese's around 1994-1995 for the [1990s Major Remodel]({{< ref "wiki/1990s Major Remodel.md" >}}).
 
-## Design## 
-The poster is held in a 20½ in. by 17 in. blue picture frame. The main photo of the poster depicts the [[Chuck Statue- Bowling (Shelf Item)]] alongside a set of miniature bowling pins.
-## Gallery## 
+##Design##
+The poster is held in a 20½ in. by 17 in. blue picture frame. The main photo of the poster depicts the [Chuck Statue- Bowling (Shelf Item)]({{< ref "wiki/Chuck Statue- Bowling (Shelf Item).md" >}}) alongside a set of miniature bowling pins.
+##Gallery##
 <gallery>
 File:4he5rttr2t34he5trjht34.jpg|Measurements
 File:Rgtger3fregfre3fwrge.jpg|Vertical Measurement

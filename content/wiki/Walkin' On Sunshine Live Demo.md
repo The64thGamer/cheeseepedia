@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Gallery## 
+##Gallery##
 <gallery>
 livedemo walkin parade.png|SVHS Tape (Front, Bottom)
 </gallery>

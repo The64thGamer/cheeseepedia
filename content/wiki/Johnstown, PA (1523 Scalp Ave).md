@@ -9,10 +9,10 @@ gallery = []
 +++
 The Showbiz Pizza Place in Johnstown Pa opened in 1982 with a Rock-Afire Explosion 3 Stage, little info is known about this location except for a few articles.
 
-##  History ## 
+## History ##
 The Showbiz Pizza Place in Johnstown Pa opened in 1982 with a Rock-Afire Explosion 3 Stage. It had everything a normal Showbiz Pizza would have to offer. Games, Ball Pit. They did not receive the 1986 remodel wit the Camp Ground Stage. In 1989 the Showbiz Pizza caught fire and closed. They would open a new Chuck E Cheese later in 1993 with a 2 stage.
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -26,4 +26,4 @@ The Showbiz Pizza Place in Johnstown Pa opened in 1982 with a Rock-Afire Explosi
 |1/7/2021
 |}
 
-##  Gallery ## 
+## Gallery ##

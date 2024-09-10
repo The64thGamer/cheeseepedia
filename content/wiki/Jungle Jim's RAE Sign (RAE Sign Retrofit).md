@@ -11,4 +11,4 @@ gallery = []
 
 The sign can be seen in front of the in the 'Cheese Shop' section of the grocery store. The sign is hung from the ceiling faces the 'Big Cheese' with the sign on the front stating 'GROCERIES' With a giant yellow arrow above it. The sign on the back reads 'Thru Beer & Wine'. It features no use other than being for display. 
 
-##  History ## 
+## History ##

@@ -9,7 +9,7 @@ gallery = ["collection.gif|My","pwJB.jpg|The","portrait.jpg|Need","Screenshot"]
 +++
 I kinda just scrape together random and rare photos from across the web so they can be in one place and properly archived.
 
-##  Enjoyer Of: ## 
+## Enjoyer Of: ##
 
 * Bear Country Jubilee
 * Wolf Pack 5
@@ -17,13 +17,13 @@ I kinda just scrape together random and rare photos from across the web so they 
 * Lost Media
 * Collecting Images
 
-##  Currently Looking For: ## 
+## Currently Looking For: ##
 
 * The Great All American Pizza Show Ad Campaign
 * Rare Footage of any animatronic shows
 * Rare Photos
 
-##  Gallery of Shame ## 
+## Gallery of Shame ##
 <gallery>
 File:collection.gif|My thought process in general
 File:pwJB.jpg|The gay couple

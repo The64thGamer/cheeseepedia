@@ -11,12 +11,12 @@ gallery = []
 located in a (Studio C 1997) And Chuck E Live Stage (Dance Floor) In The Their 2021 Model In The On April 2022 2.0 Remodel
 In The Grand Reopening On June 2nd, 2022 In The Event.
 
-##  History ## 
+## History ##
 Prior to CEC opening, the space was the and was on There Opened 1999.
 Was Replace In The 2021 Model In The Video Wall.
 
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 |+
 !Stage
@@ -24,22 +24,22 @@ Was Replace In The 2021 Model In The Video Wall.
 !Removed
 !Notes
 |-
-|[[Studio C Alpha]]
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |September 1999
 |April 2022
 |-
-|[\2](\1) + [[Video Wall]]
+| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |April 2022
 |Still In Use
 |2021 Model, First 2021 2.0 in Victorville. Installed on Back Wall.
 |}
 
 
-## Gallery## 
+##Gallery##
 TODO
 
 
-## Videos ## 
+##Videos ##
 TODO
 
 

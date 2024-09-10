@@ -8,9 +8,9 @@ contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisney
 gallery = []
 +++
 **_1725 Metro Dr**_ was a Showbiz Pizza Place that opened in June 27, 1983 with the Rock-Afire Explosion, and is still open to this day.
-## History## 
+##History##
 Alexandria opened on June 27th, 1983 and a Rock-Afire Explosion. It was originally and currently a corporate owned location. Around the Late 80's, Alexandria would receive the 1988 remodel, removing old SPP decor and adding newer decor. In 1991 or 1992, Alexandria received Concept Unification and removed all older SPP decor and added CEC decor, and a new change to the exterior and sign renaming it as 'Chuck E. Cheese's Pizza'. Alexandria also received Phase 2. In the mid to late 1990's, Alexandria added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights, and removed older decor. In the Late 90's, Alexandria received the Phase 3 remodel removing older decor, adding newer decor, received another exterior change this time renaming the sign and exterior to 'Chuck E. Cheese's', and adding SkyTubes. Somewhere between 2004 or 2005, they removed the 3-Stage for the Studio C Cappa. Alexandria would remain like this until April 2009 when they received the 2005 remodel (Phase 4) removing the Showroom walls, Balcony Seating, relocating the stage, and remodeling the exterior and got a road sign change. Somewhere around 2013-2014, the Studio C Cappa was converted into a Studio C Beta. Alexandria would remain like this until February 2022 when they received the 2.0 Remodel removing the Beta for the Dance Floor and Video Wall. Currently, as of February 2023, they still have the 2.0 remodel and the Dance Floor.
-## Stages## 
+##Stages##
 Originally, when the store opened on June 27, 1983, they had a Rock-Afire Explosion like every other SPP location. Unfortunately, there are no photos or videos to exist of Alexandria as a SPP.
 
 In 1991 or 1992, they would receive Concept Unification and remove the Rock-Afire Explosion for the 3-Stage.
@@ -52,7 +52,7 @@ In February 2022, they received the 2.0 remodel and removed the Beta for the Dan
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -115,9 +115,9 @@ In February 2022, they received the 2.0 remodel and removed the Beta for the Dan
 |N/A
 |Destroyed
 |}
-## Gallery## 
+##Gallery##
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -141,4 +141,4 @@ In February 2022, they received the 2.0 remodel and removed the Beta for the Dan
 |
 |}
 
-## Trivia## 
+##Trivia##

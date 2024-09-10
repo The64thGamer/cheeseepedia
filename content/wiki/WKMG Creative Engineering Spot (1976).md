@@ -9,7 +9,7 @@ gallery = []
 +++
 {{NewsFootage|image=Willierabbitspot76.png|releasedate=1976|length=1:40|newsstation=CBS/WKMG News 6}}The **_WKMG Creative Engineering Spot**_ is a 1976 news segment for _CBS/WKMG News 6_ discussing the at first animatronics of Creative Engineering.<ref>https://www.youtube.com/watch?v=NMdZ-7nwigo</ref>
 
-## Transcript## 
+##Transcript##
 The segment is narrated by two unknown newscasters, alongside Aaron Fecther speaking during the interview.<blockquote>**Willie Rabbit:** I'm Willie Rabbit, a friend of The Wizard at the Mystery Funhouse. He wants me to invite you out to a scare-rifical, fantastical visit while you're in Orlando.
 
 
@@ -35,5 +35,5 @@ The segment is narrated by two unknown newscasters, alongside Aaron Fecther spea
 
 
 [Pneumatic Movement Noises]</blockquote>
-## References## 
+##References##
 <references />

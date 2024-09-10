@@ -19,13 +19,12 @@ gallery = []
      The Jasper plush seen in the photos below was sold by paul_p123 on eBay. Near perfect quality, almost as if it was never touched. This was the only listing on eBay for a 14' 
      1998 Jasper T. Jowls plush as of February, 2023. Paul stated the plush was from 1988, however this may have been a typo
 
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
+
+
+
+
+
+
+
+
+

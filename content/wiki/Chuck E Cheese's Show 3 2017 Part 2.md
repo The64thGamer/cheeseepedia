@@ -21,13 +21,13 @@ gallery = []
 
 This was created to play from May 21st 2017. - May 20th 2017. This show features four songs two reused and two new. Also features a new live show. 
 
-##  Show List: ## 
+## Show List: ##
 
-# [[File:New Graphic.png]] **Skit 1**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Skit 1**
 ## 40 Years of Fun - '1970s'
 # **Intermission 2**
-## [[File:New Graphic.png]] Bee Gees - 'Stayin' Alive'
-## [[File:New Graphic.png]] 1977 Pizza Time Theater Montage
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Bee Gees - 'Stayin' Alive'
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) 1977 Pizza Time Theater Montage
 ## [[File:New Graphic.png]] Floogals - 'Birthday Cake'
 ## Chef Gregory & Ronnie the Unicorn
 # **Skit 2**
@@ -80,7 +80,7 @@ This was created to play from May 21st 2017. - May 20th 2017. This show features
 # [[File:New Graphic.png]] **Skit 9**
 ## Chuck E. & Friends - 'Trio'
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
@@ -93,19 +93,19 @@ This was created to play from May 21st 2017. - May 20th 2017. This show features
 * Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 
-## Official Releases:## 
+##Official Releases:##
 *[https://www.youtube.com/watch?v=bDB0G3F4kuU 'Chuck E.'s Place' on YouTube]
 *[https://www.youtube.com/watch?v=14WzM9vJfR0 'Trio' on YouTube]
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 s-l1600 (37).jpg|CEC-Stage DVD
 adadad.png|Studio C DVD Scan
 </gallery>
 
-##  Trivia: ## 
+## Trivia: ##
 
-* 'Remember That Time' and 'Together We've Got It' are both from [\2](\1).
-* 'Chuck E.'s Place 2017' is a modern remake of the [\2](\1) version of the song.
+* 'Remember That Time' and 'Together We've Got It' are both from .
+* 'Chuck E.'s Place 2017' is a modern remake of the  version of the song.
 * 'Chuck E.'s Place 2017' was filmed at the Plano, TX Chuck E. Cheese.
-* An updated version of Show 3 2017 was released May 21st 2017 called [\2](\1) which removed the Guiness Book Of World Records Part Blowers Promo replacing it with the 1990s 1 Minute Munch countdown and added 'Helen's Birthday' between 'How Far I'll Go' and 'New Cakes Promo'
+* An updated version of Show 3 2017 was released May 21st 2017 called  which removed the Guiness Book Of World Records Part Blowers Promo replacing it with the 1990s 1 Minute Munch countdown and added 'Helen's Birthday' between 'How Far I'll Go' and 'New Cakes Promo'

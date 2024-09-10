@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 abaaaa.jpg|3-Stage SVHS
 </gallery>

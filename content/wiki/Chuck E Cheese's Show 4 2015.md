@@ -9,9 +9,9 @@ gallery = []
 +++
 **_Show 4 2015**_ released June 15th 2015 featuring two songs
 
-This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from [\2](\1).
+This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from .
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1**
 
 Ester Dean - 'Crazy Youngsters'
@@ -68,4 +68,4 @@ Josh & The Jamtones - 'Jump Up!'
 
 Cartoon Network - Steven Universe - 'Lapis Lazuli'
 
-##  Live Show: ## 
+## Live Show: ##

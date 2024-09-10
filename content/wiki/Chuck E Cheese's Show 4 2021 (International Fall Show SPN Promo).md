@@ -20,10 +20,10 @@ gallery = []
 
 This was created as an option for international stores that don't celebrate Halloween. 
 
-## Show List:## 
+##Show List:##
 
 #**Intermission 1**
-##[[File:New Graphic.png]]Spanish Safety Message
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
 ##BTS - 'Lights'
 #**Skit 1**
 ##Jasper & Munch - 'Song Title'
@@ -34,7 +34,7 @@ This was created as an option for international stores that don't celebrate Hall
 #**Skit 2**
 ##Chuck E. Cheese - 'Let's Have A Party'
 #**Intermission 3**
-##[[File:New Graphic.png]]Spanish Safety Message
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
 ##Koo Koo Kanga Roo
 ##Juicebox Jukebox - 'Clean it Up'
 #**Skit 3**
@@ -47,7 +47,7 @@ This was created as an option for international stores that don't celebrate Hall
 #**Skit 4**
 ##Jasper T. Jowls - 'Jasper's Country Classic'
 #**Intermission 5**
-##[[File:New Graphic.png]]Spanish Safety Message
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
 ##American Authors - 'Best Day of My Life'
 ##Juicebox Jukebox - 'ABC's of You'
 #**Skit 5**
@@ -58,7 +58,7 @@ This was created as an option for international stores that don't celebrate Hall
 #**Skit 6**
 ##Chuck E. & Friends - 'My Family'
 
-## Live Shows:## 
+##Live Shows:##
 
 #Birthday Show (Cyberamic, Studio C, Weigi)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigi)
@@ -68,7 +68,7 @@ This was created as an option for international stores that don't celebrate Hall
 #[[File:New Graphic.png]]Happy Dance (New Countdown) (Studio C, Weigi)
 #[[File:New Graphic.png]]Me & My Friends (New Countdown) (Studio C, Weigi)
 
-## Trivia:## 
+##Trivia:##
 
 *This was created as an option for international stores that don't celebrate Halloween.
 *The floppy disc for this show was accidently sent to the Jacksonville Florida location instead of the Show 5, 2021.

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Documentor","Bowling for Cheese"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 IntShow12020.png|CEC-Stage DVD
 </gallery>

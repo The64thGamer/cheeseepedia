@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = ["ervrvecxdfgvcd.jpg","qrqwrwqrqqwrwq.jpg","qweqweqweqweqweqr.jpg","qewqweqweqewqweqwe.jpg"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:ervrvecxdfgvcd.jpg
 File:qrqwrwqrqqwrwq.jpg

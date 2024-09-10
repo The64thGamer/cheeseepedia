@@ -9,8 +9,8 @@ gallery = []
 +++
 {{Stub}}
 
-##  Newspapers ## 
-[\2](\1)
+## Newspapers ##
 
-##  References ## 
+
+## References ##
 https://archive.org/details/DinosaursNextExit at 2:07, 3:05, and 40:27

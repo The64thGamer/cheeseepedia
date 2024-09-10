@@ -10,13 +10,13 @@ gallery = []
 **_7730 Stream Walk Ln, Store #330**_ was a _Chuck E. Cheese_ that opened on March 23rd, 2000 as a corporate store with
 a Chuck E. Cheese which is still open this day.
 
-## History## 
+##History##
 Manassas opened on March 23, 2000 From The Studio C Alpha as the location in the look
 in this place called that location In The Studio C Alpha Removed On March 2021 Look On The 2.0 Remodel
 Is Their 2.0 Remodel 2021 Model In The Dance Floor + Video Wall This Location.
 
 
-## Stages## 
+##Stages##
 Originally, Manassas, Virginia is look Lishelle Place In The Studio C Alpha Removed March 2021
 On This Place 2.0 (Dance Floor + Video Wall) On This Location
 Is Their 2.0 Remodel On The 2021 Model
@@ -29,26 +29,26 @@ In March 2021, Manassas still has the 2.0 Remodel and Dance Floor + Video Wall.
 !Removed
 !Notes
 |-
-|[[Studio C Alpha]]
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |March 2000
 |March 2021
 |Studio C Alpha Still has Removed On March 2021.
 |-
-|[\2](\1) + [[Video Wall]]
+| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |March 2021
 |Still In Use
 |2021 Model.
 |}
 
 
-## Animatronics## 
+##Animatronics##
 TODO
 |}
 
 
-## Gallery## 
+##Gallery##
 TODO
 
 
-## Videos## 
+##Videos##
 TODO

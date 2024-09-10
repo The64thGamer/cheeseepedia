@@ -19,12 +19,12 @@ gallery = []
 
 **_Chuck E. Cheese Spring Show 2023**_ is the spring show released on April 3, 2023 featuring a variety of songs released from 2015-2021. This is intended to be the final physical release showtape due to the installation of the Navori in all stores. This show features 8 Songs with the automatic live being Spring Break Break Dance.
 
-## Physical Release Show List:## 
+##Physical Release Show List:##
 TODO
 
-## Navori Media Stage Show List:## 
+##Navori Media Stage Show List:##
 
-### Advertising### 
+###Advertising###
 #**Ad 1**
 ##Ecolab
 #**Ad 2**
@@ -35,21 +35,21 @@ TODO
 #**Ad 4**
 ##Craftwork (CEC Online Store)
 #**Ad 5**
-##[[File:New Graphic.png]] CEC Group Events & Fundraisers
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) CEC Group Events & Fundraisers
 #**Ad 6**
 ##PPG
 ##Food & Drink Combos
 #**Ad 7**
 ##Craftwork (CEC Online Store)
 #**Ad 8**
-##[[File:New Graphic.png]] Haribo
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Haribo
 #**Ad 9**
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
 
-### Entertainment### 
+###Entertainment###
 
-#[[File:New Graphic.png]] KIDZ BOP Kids - Kidz Bop Never Stop
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) KIDZ BOP Kids - Kidz Bop Never Stop
 #**Chuck E. Cheese - 'Let's Have A Party**'
 #[[File:New Graphic.png]] Black Eyed Peas - 'Don't You Worry'
 #**Chuck E. Cheese & Friends - 'In The Future**'
@@ -68,16 +68,16 @@ TODO
 #KIDZ BOP Kids - 'As It Was'
 #**Chuck E. Cheese & Friends - 'Play All You Can Play**'
 
-## Navori Existing Stages Show List:## 
+##Navori Existing Stages Show List:##
 TODO
 
-## Lives:## 
+##Lives:##
 *Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
 *[[File:New Graphic.png]] Spring Break Break Dance (3stage, Cyberamic, Studio C Weigl, Navori)
 
-## Trvia:## 
-*Spring Break Break Dance features reshot footage filmed at [[Arlington, TX (2216 S Fielder Rd)]] location.
+##Trvia:##
+*Spring Break Break Dance features reshot footage filmed at [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) location.
 
-##  References ## 
+## References ##
 https://www.instagram.com/p/CqLdREQu9YD/?igshid=YmMyMTA2M2Y=

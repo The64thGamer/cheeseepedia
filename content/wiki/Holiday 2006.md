@@ -18,9 +18,9 @@ gallery = []
 |cusvhs = y
 }}
 
-**Holiday 2006** is a rerelease of [[Holiday 2004]] which played throughout December 2006.
+**Holiday 2006** is a rerelease of [Holiday 2004]({{< ref "wiki/Holiday 2004.md" >}}) which played throughout December 2006.
 
-##  Show List: ## 
+## Show List: ##
 # **Intermission 1**
 ## Ken Chuck E. Derby
 ## Funimation: 'Santa Claus Bros.'
@@ -56,16 +56,16 @@ gallery = []
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-##  Lives: ## 
-* [[Chuck E. March 01]]
-* [[Havin' A Party 01]]
-* [[Chuck E. Swing]]
-* [[Bingo]]
-* [[If You're Happy and You Know It]]
-* [\2](\1)
-* [[Birthday Star 01]]
-* [[Spanish Birthday 01]]
-*[[Chuck E. Says 02]]
-*[[New Birthday]]
-*[[Go Santa Go]]
+## Lives: ##
+* [Chuck E. March 01]({{< ref "wiki/Chuck E March 01.md" >}})
+* [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}})
+* [Chuck E. Swing]({{< ref "wiki/Chuck E Swing.md" >}})
+* [Bingo]({{< ref "wiki/Bingo.md" >}})
+* [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}})
+* 
+* [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
+* [Spanish Birthday 01]({{< ref "wiki/Spanish Birthday 01.md" >}})
+*[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
+*[New Birthday]({{< ref "wiki/New Birthday.md" >}})
+*[Go Santa Go]({{< ref "wiki/Go Santa Go.md" >}})
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.

@@ -9,9 +9,9 @@ gallery = []
 +++
 **_2990 South 108th Ave**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in December 1981 (day not found) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in the Southtown Shopping Center.
 
-## History## 
-West Allis opened its doors in December 1981 as an expansion of the shopping center it is in with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy. Like all locations at some point, West Allis received the 1988 remodel in 1989-1990 and removed older PTT decor for newer decor, and the removal of the Balcony Stage for Chuck E.'s House. In the Early 90's, West Allis received a major remodel adding newer decor, replacing older decor, removal of the lounge, and the renaming of the store. In the 1994-1995, West Allis received a very minor remodel removing the some decor for the Record Posters and other decor, and the removal of Chuck E.'s House for the 1-Stage, and also the removal of the King. West Allis was then bought by the corporate on December 20th, 1998 along with [\2](\1), [\2](\1), and 3 others. In the Late 90's, West Allis received Phase 2, removing older 90's decor for newer decor, removing the ball pit for SkyTubes, and the installation of the Toddler Zone. In 2006, West Allis received the Phase 4 remodel removing all older decor for newer decor, removing the Showroom Walls, Balcony Seating, relocation the stage, and strangely, the removal of the Toddler Zone. West Allis remained like this until August 2021, when they received the 2.0 remodel and removed the 1-Stage for the Dance Floor + Video Wall. Interestingly, the 'Open' sign during West Allis' 2.0 remodel was actually unique as it said about getting 'more fun'. Currently, as of March 2023, West Allis still has the 2.0 Remodel and Dance Floor and Video Wall.
-## Stages## 
+##History##
+West Allis opened its doors in December 1981 as an expansion of the shopping center it is in with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy. Like all locations at some point, West Allis received the 1988 remodel in 1989-1990 and removed older PTT decor for newer decor, and the removal of the Balcony Stage for Chuck E.'s House. In the Early 90's, West Allis received a major remodel adding newer decor, replacing older decor, removal of the lounge, and the renaming of the store. In the 1994-1995, West Allis received a very minor remodel removing the some decor for the Record Posters and other decor, and the removal of Chuck E.'s House for the 1-Stage, and also the removal of the King. West Allis was then bought by the corporate on December 20th, 1998 along with , , and 3 others. In the Late 90's, West Allis received Phase 2, removing older 90's decor for newer decor, removing the ball pit for SkyTubes, and the installation of the Toddler Zone. In 2006, West Allis received the Phase 4 remodel removing all older decor for newer decor, removing the Showroom Walls, Balcony Seating, relocation the stage, and strangely, the removal of the Toddler Zone. West Allis remained like this until August 2021, when they received the 2.0 remodel and removed the 1-Stage for the Dance Floor + Video Wall. Interestingly, the 'Open' sign during West Allis' 2.0 remodel was actually unique as it said about getting 'more fun'. Currently, as of March 2023, West Allis still has the 2.0 Remodel and Dance Floor and Video Wall.
+##Stages##
 Originally, when this store opened, they had a Balcony Stage.
 
 Sometime between 1989 and 1990, the location installed Chuck E.’s House, otherwise known as the Rocker Stage. 
@@ -47,7 +47,7 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 |2021 Model.
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -73,7 +73,7 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 |Unknown
 |Destroyed.
 |-
-|[[Wink]]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Destroyed.
 |-
@@ -101,10 +101,10 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 |Unknown
 |Unknown / Destroyed
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 TODO
-## References## 
+##References##
 <references />

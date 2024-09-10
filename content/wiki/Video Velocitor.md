@@ -9,11 +9,11 @@ gallery = []
 +++
 The Video Velocitor was a prop that was used to fill in the store's former Lounge rooms.
 
-##  History ## 
+## History ##
 TODO:
 
-##  Gallery ## 
+## Gallery ##
 TODO:
 
-##  Trivia ## 
+## Trivia ##
 TODO:

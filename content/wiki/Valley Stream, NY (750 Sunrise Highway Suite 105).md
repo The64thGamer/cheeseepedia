@@ -9,12 +9,12 @@ gallery = []
 +++
 **_750 Sunrise Highway Suite 105**_ is a future Chuck E. Cheese located in Valley Stream, New York. Valley Stream will be the 2nd new 2.0 store on Long Island after Howard Beach (3rd in the state after Yonkers which is in another part of the state). 
 
-##  History ## 
+## History ##
 
-###  CEC 2023-Present ### 
-In February 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website that stated 'Chuck E. Cheese New Store' in Valley Stream, NY. It is unknown when the new store will open. This will 3rd CEC in New York to open in the 2020's era after [\2](\1) & [\2](\1). This will be the 2nd new store in New York that has the 2021 2.0 Remodel as well (As Howard Beach's construction started sometime before the COVID-19 Pandemic started)
+### CEC 2023-Present ###
+In February 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website that stated 'Chuck E. Cheese New Store' in Valley Stream, NY. It is unknown when the new store will open. This will 3rd CEC in New York to open in the 2020's era after  & . This will be the 2nd new store in New York that has the 2021 2.0 Remodel as well (As Howard Beach's construction started sometime before the COVID-19 Pandemic started)
 
-##  Stage ## 
+## Stage ##
 When the store opens, they will feature a Chuck E. Live Stage and Video Wall.
 {| class='wikitable'
 !Stage
@@ -22,22 +22,22 @@ When the store opens, they will feature a Chuck E. Live Stage and Video Wall.
 !Removed
 !Note
 |-
-|[[Chuck E. Live Stage (Dance Floor)]]
+|[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}})
 |TBD
 |TBD
 |2021 Model.
 |-
-|[[Video Wall]]
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |TBD
 |TBD
 |
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 TODO
 
-##  References ## 
+## References ##
 <references />

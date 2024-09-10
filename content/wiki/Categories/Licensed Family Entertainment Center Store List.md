@@ -14,7 +14,7 @@ gallery = []
 !Closing Date
 |-
 |Odyssey Fun World
-|[[Tinley Park, IL (19111 Oak Park Ave)]]
+|[Tinley Park, IL (19111 Oak Park Ave)]({{< ref "wiki/Tinley Park, IL (19111 Oak Park Ave).md" >}})
 |
 |
 |}

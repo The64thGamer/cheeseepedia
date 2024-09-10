@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 ceeeecteeev.jpg|3-Stage SVHS
 </gallery>

@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["The 64th Gamer","SonicFazbear","CEC Tinley"]
 gallery = []
 +++
-The **_Homely For Christmas Cassette**_ was a home release for the [[SPP Homely For Christmas '87]] showtape, releasing around December of 1987.
-[\2](\1)
-##  Track List ## 
+The **_Homely For Christmas Cassette**_ was a home release for the [SPP Homely For Christmas '87]({{< ref "wiki/SPP Homely For Christmas '87.md" >}}) showtape, releasing around December of 1987.
+
+## Track List ##
  Side One
  There's No Place Like Home (Dook) • Jungle Bell Rock (Mitzi) • Come Home for Christmas (Beach Bear)
  There's No Place Like Home for the Holidays (Billy Bob) • Silver Bells (Dook) • Sleigh Ride (Mitzi) • Frosty the Snowman
@@ -20,16 +20,15 @@ The **_Homely For Christmas Cassette**_ was a home release for the [[SPP Homely 
  Joy to the World (all) • Oh Holy Night (Fatz) • Little Drummer Boy (Dook) • White Christmas (Billy Bob)
  This tape proudly produced by Creative Records!     47 W. Jefferson St., Orlando, FL 32801
 
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
-[\2](\1)
+
+
+
+
+
+
+
+
+
+
+
+

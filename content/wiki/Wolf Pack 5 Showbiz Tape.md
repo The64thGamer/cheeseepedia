@@ -11,14 +11,14 @@ gallery = []
 
 **The Wolf Pack 5 Showbiz Tape** was a showtape made for the first Showbiz location. It took heavy inspiration from 50’s and 60’s songs, to the point of outright parodying certain tracks. It debuted with the opening of the first Showbiz Pizza location in March of 1980.
 
-##  Summary ## 
+## Summary ##
 The Wolf Pack 5 Showbiz Tape was based on the previous Wolf Pack 5 showtapes that had been seen during the 1978 and 1979 IAAPA Expos, though some modifications and additions were made. It was used until the Wolf Pack 5 was replaced with the Rock-afire Explosion.<ref>http://www.showbizpizza.com/rae/history/index.html</ref>
 
 This showtape was broken into separate segments instead of playing as a complete show as its previous incarnations had. The announcer from the previous showtapes would open and close the show before and after each segment. Additional lines were recorded for him to accommodate the new segmented format. New songs were recorded to add more segments to the showtape. The replacement of Queenie with Mini Mozzarella also garnered some changes to the pre-existing recording of Dragstrip in the Sky. Since Mini Mozzarella received a new voice actor (Aaron Fechter), Dragstrip in the Sky was re-recorded with his voice instead of Queenie’s original voice.<ref>https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5</ref> Additionally, a large portion of the banter between the band members was scrapped.
 
 The entirety of the Wolf Pack 5 Showbiz Tape can be viewed and heard [https://www.youtube.com/watch?v=UsVA1GIrXU8 here].
 
-##  Segments ## 
+## Segments ##
 
 # **Segment 1**
 ## Announcer Opening

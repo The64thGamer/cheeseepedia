@@ -9,12 +9,12 @@ gallery = []
 +++
 **_10949 Firestone Blvd i**_s a Chuck E. Cheese that opened in October 29, 1991 as a corporate location with a Road Stage which is still open to this day.
 
-It is located in the Firestone Shopping Center and opened on the same day as [[Newington, CT (3075 Berlin Turnpike)]]. 
+It is located in the Firestone Shopping Center and opened on the same day as [Newington, CT (3075 Berlin Turnpike)]({{< ref "wiki/Newington, CT (3075 Berlin Turnpike).md" >}}). 
 
 It is known for not allowing guests to film.
-## History## 
+##History##
 Norwalk opened on October 29th, 1991 as a corporate-owned location in the Firestone Shopping Center. Pembroke Pines opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990s, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor and the removal of the ball pit for SkyTubes. Norwalk remained like this until in 2006, when they received the 2005 remodel (Phase 4) which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, & adding purple walls. Norwalk still remains like this. Currently, as of February 2023, the location still has the 2005 Remodel and the Road Stage.
-## Stages## 
+##Stages##
 Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. Up and Down curtains were later removed.
 
 As of February 2023, Norwalk still has the Road Stage and 2005 Remodel.
@@ -27,7 +27,7 @@ As of February 2023, Norwalk still has the Road Stage and 2005 Remodel.
 |October 1991
 |Still in use
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -57,10 +57,10 @@ As of February 2023, Norwalk still has the Road Stage and 2005 Remodel.
 |N/A
 |In store.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 (W.I.P)
 {| class='wikitable'
 !Link

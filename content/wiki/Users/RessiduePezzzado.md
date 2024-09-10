@@ -7,6 +7,6 @@ tags = [ ]
 contributors = ["RessiduePezzzado"]
 gallery = []
 +++
-[\2](\1)
 
-##  Pizza Time Theatre is pretty cool ## 
+
+## Pizza Time Theatre is pretty cool ##

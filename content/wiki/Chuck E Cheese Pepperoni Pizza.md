@@ -13,8 +13,7 @@ gallery = []
 
 It is manufactured by Flatlander Foods. They first started being sold in July 2021.
 
-##  Nutrition Facts ## 
-[\2](\1)
+## Nutrition Facts ##
 
 
 
@@ -31,7 +30,8 @@ It is manufactured by Flatlander Foods. They first started being sold in July 20
 
 
 
-##  Ingredients ## 
+
+## Ingredients ##
 Crust: Wheat Flour Enriched (Malted Barley Flour, Niacin, Reduced Iron, Thiamine, Mononitrate, Riboflavin and Folic Acid) Water, Soybean Oil, Degerminated Yellow Corn Meal, Sugar, Salt, Yeast, Non Fat Dry Milk, Granulated Garlic.
 
 Cheese: Low Moisture, Part-Skim Mozzarella Cheese (Pasteurized Part-Skim Milk, Cheese Cultures, Salt, Enyzmes)
@@ -40,5 +40,5 @@ Sauce: Water, Concentrated Crushed Tomatoes, Spice (Spices, Garlic Powder, Onion
 
 Pepperoni: Pork, Beef, Salt, Spices, Dextrose, Seasoning (Oleoresin of Paprika, Natural Spice Extractives, BHA, BHT, Citric Acid), Lactic Acid Starter Culture, Sodium Nitrite.
 
-##  Gallery ## 
+## Gallery ##
 TODO

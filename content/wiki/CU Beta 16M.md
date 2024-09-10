@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["CECBowlingGreen","ShowbizMidwest","Documentor","2603:6011:5901:C300:8CAA:5C5E:450A:823E","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
 gallery = []
 +++
-The **CU Beta 16m** is a stage format found at two [[Chuck E. Cheese's]] locations in the state of Illinois in the United States that converted their 3-Stages in 2020. The stage is a [[Studio C Beta]], 16m but on a 3-Stage platform. It is the most recent CEC animatronic stage to come out, despite it not being an official stage type.
+The **CU Beta 16m** is a stage format found at two [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) locations in the state of Illinois in the United States that converted their 3-Stages in 2020. The stage is a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), 16m but on a 3-Stage platform. It is the most recent CEC animatronic stage to come out, despite it not being an official stage type.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Design ## 
+## Design ##
 TODO: Design
 
-##  Current CU Beta 16Ms ## 
+## Current CU Beta 16Ms ##
 {| class='wikitable'
 |+
 !Location

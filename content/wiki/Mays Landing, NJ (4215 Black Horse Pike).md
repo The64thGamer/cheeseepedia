@@ -7,42 +7,42 @@ tags = [ ]
 contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++
-**_Mays Landing, NJ (4215 Black Horse Pike)**_ is a Chuck E. Cheese's that opened on December 27, 2001 with a [[Studio C Beta]], and is still open to this day.
+**_Mays Landing, NJ (4215 Black Horse Pike)**_ is a Chuck E. Cheese's that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}){< ref "wiki/Studio C Beta.md" >}}), and is still open to this day.
 
-## Stage## 
+##Stage##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[[Studio C Beta]]
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
 |December 2001
 |In Store
 |Only 32M Beta in New Jersey
 |}
 
-## History## 
+##History##
 TODO
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |N/A
 |In Store 
 |-
-|[[Pizza Time Clock (Animatronic)]]
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |In Store
 |-
 |}
 
-## Arcade Machines## 
+##Arcade Machines##
 TODO
 
-## Gallery## 
+##Gallery##
 TODO

@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["The 64th Gamer","Studio 18 Ent"]
 gallery = []
 +++
-##  Creative Engineering ## 
+## Creative Engineering ##
 
-##  Pizza Time Theatre ## 
+## Pizza Time Theatre ##
 
-##  Showbiz Pizza Place ## 
+## Showbiz Pizza Place ##
 
 * 1982 Minnesota Footage<ref>https://youtu.be/0omhXaysknk</ref>
-* [[KXAS Action News Showbiz ShowScan Promotion (February 4, 1984)]]
+* [KXAS Action News Showbiz ShowScan Promotion (February 4, 1984)]({{< ref "wiki/KXAS Action News Showbiz ShowScan Promotion (February 4, 1984).md" >}})
 
-##  Chuck E. Cheese's ## 
+## Chuck E. Cheese's ##

@@ -11,7 +11,7 @@ gallery = []
 
 This was created to play during the Spring-Tastic Celebration Promotion. Runs from March 7, 2022 to April 24, 2022. This song features 6 Songs with a reedit of Spring Break Break Dance as the automatic live. 
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1** 
 
 KIDZ BOP Kids - “Shivers”

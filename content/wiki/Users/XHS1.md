@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["XHS1"]
 gallery = []
 +++
-I am a fan of [\2](\1) and [\2](\1) and like [https://cheeseepedia.org/wiki wikis].
+I am a fan of  and  and like [https://cheeseepedia.org/wiki wikis].

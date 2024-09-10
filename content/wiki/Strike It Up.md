@@ -21,10 +21,10 @@ gallery = []
 
 This show ran from August 1996 - November 1996. 
 
-## Summary## 
+##Summary##
 The live show begins with an announcer introducing Chuck E. Cheese following up with Munch's Make Believe Band singing [https://en.wikipedia.org/wiki/Strike_It_Up 'Strike It Up'] the show ends with Chuck E. Cheese telling the audience to stay cool and he will catch them in a little while. 
 
-## Showtape Releases:## 
+##Showtape Releases:##
 {| class='wikitable'
 !Release Year
 !Showtape
@@ -41,5 +41,5 @@ The live show begins with an announcer introducing Chuck E. Cheese following up 
 |-
 |}
 
-## Live Trivia:## 
+##Live Trivia:##
 *The song's audio has been found, but is missing the initial announcer voice and countdown. Only a single second of the tape video has been found, though it is believed that parts from the August 1996 show used bluescreen footage from Strike It Up. Signals are also missing for this show.

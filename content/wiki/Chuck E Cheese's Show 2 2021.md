@@ -11,7 +11,7 @@ gallery = []
 
 This was created with conjunction with the Spring-tastic Celebration promotion. This show features 7 Songs with 3 of which being new and a live show called Chuck E.'s Spring Break Break Dance
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1**
 
 Social Distancing Safety Message
@@ -96,7 +96,7 @@ One Republic - 'Recuse Me'
 
 Jasper T. Jowls - 'Jasper's Country Classic'
 
-##  Lives ## 
+## Lives ##
 
 # Birthday Show (3stage, Cyberamic, Studio C, Weigi)
 # Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigi)

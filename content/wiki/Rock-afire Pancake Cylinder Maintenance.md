@@ -7,8 +7,8 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##  Cylinder Rebuilding ## 
-An official procedure for cylinder rebuilding is documented in the [[ShowBiz Pizza Place Operations Manual]] from 1981.<blockquote>
+## Cylinder Rebuilding ##
+An official procedure for cylinder rebuilding is documented in the [ShowBiz Pizza Place Operations Manual]({{< ref "wiki/ShowBiz Pizza Place Operations Manual.md" >}}) from 1981.<blockquote>
 # Remove front or rear face of cylinder
 # Remove piston
 # Remove nose seal and 'O' rings

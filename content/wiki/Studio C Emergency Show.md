@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/studio-c-emergency-show/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 BusinessCard_2021-08-09_164724.jpg|Studio C Floppy Scan
 </gallery>

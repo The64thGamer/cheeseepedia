@@ -11,10 +11,10 @@ TODO:
 
 {{Stub}}
 
-##  Stages ## 
+## Stages ##
 
-##  History ## 
+## History ##
 
-##  Animatronics ## 
+## Animatronics ##
 
-##  Gallery ## 
+## Gallery ##

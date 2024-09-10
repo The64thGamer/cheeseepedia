@@ -11,7 +11,7 @@ gallery = []
 
 {{Showtape|image=Kids.png|date=March 1989|showbizreel=y|raesvhs=y}}
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 6 Minute Countdown

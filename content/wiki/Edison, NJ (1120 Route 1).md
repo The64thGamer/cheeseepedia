@@ -11,10 +11,10 @@ gallery = []
 
 This location received the 2.0 remodel in September-October 2022.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a 1-Stage, they would have it for many years, until October 2022, when they would remove the stage to make way for a Dance Floor and Video Wall.
 {| class='wikitable'
 |+
@@ -31,7 +31,7 @@ Originally when the store opened, they had a 1-Stage, they would have it for man
 |Still In Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

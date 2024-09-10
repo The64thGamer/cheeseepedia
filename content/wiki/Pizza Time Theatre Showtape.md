@@ -12,11 +12,11 @@ gallery = []
 | pttreel = y
 }}
 
-The **_Pizza Time Theatre Showtape**_ was the first ever [[Pizza Time Theatre]] showtape to be made, premiering with the opening of the [[San Jose, CA (370 S Winchester Blvd)]] location on May 17, 1977.
+The **_Pizza Time Theatre Showtape**_ was the first ever [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) showtape to be made, premiering with the opening of the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) location on May 17, 1977.
 
 The showtape debuted the original _Pizza Time Players_, including the short-lived _Crusty the Cat._ 
 
-##  D2 Tape Recording ## 
+## D2 Tape Recording ##
 The only remaining presence of the original showtape was converted to [http://en.wikipedia.org/wiki/D-2_(video) D2 Tape], which included the original voice demos for the showtape, along with original recordings of songs in the showtape. The demo voice tracks has John Widelock as most of the characters, with Scott Paulin making a small appearence as Jasper in the theme song, and the Warblettes being voiced by Buffy Sainte-Marie. These tracks include:<ref>http://www.showbizpizza.com/review/ptt/1977_crusty.html</ref>
 
 * Bye Bye Blackbird
@@ -49,7 +49,7 @@ Finally the tape includes the showtape segments. It is unclear if these segments
 * Crusty Jukebox Skit (Rock Around the Clock)
 * PTT Theme (Updated)
 
-## Segments:## 
+##Segments:##
 The showtape's segments and order isn't entirely clear, though a copyright record<ref>http://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V1704P125</ref> confirms a few of the tracks were certainly on the tape:
 
 * Chuck E. Cheese's Theme
@@ -57,7 +57,7 @@ The showtape's segments and order isn't entirely clear, though a copyright recor
 * Roots in the Country
 * Endlessly Awake, Part 1
 
-##  References ## 
+## References ##
 *
 
 *

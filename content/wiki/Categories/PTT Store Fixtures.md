@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","BurgersNuggs445","Concordio"]
 gallery = []
 +++
-###  Unknown Year ### 
+### Unknown Year ###
 
 * PTT Beverages & Desserts Sign
 * PTT Pick-Up Food Here Sign
@@ -29,7 +29,7 @@ gallery = []
 * PTT Madame Oink Name Sign
 * PTT Sally Sashay Name Sign
 
-###  1980 ### 
+### 1980 ###
 
 * PTT Mr. Munch's Magic Madhouse Sign
 * PTT Mr. Munch Name Sign

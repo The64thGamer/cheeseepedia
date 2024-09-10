@@ -11,24 +11,24 @@ gallery = ["IMG","IMG","IMG"]
 
 **_Rock-afire Explosion Record 1**_ is a 45rpm vinyl music record released on July 16, 1981 featuring 2 Rock-afire Explosion songs.<ref>https://www.discogs.com/release/10759453-The-Rock-Afire-Explosion-School-Days</ref>
 
-The songs featured are 'Do You Love Me' from [[RAE Classic Hits]], and 'Happy Birthday Medley' from [[3-Birthday Reel]].
+The songs featured are 'Do You Love Me' from [RAE Classic Hits]({{< ref "wiki/RAE Classic Hits.md" >}}), and 'Happy Birthday Medley' from [3-Birthday Reel]({{< ref "wiki/3-Birthday Reel.md" >}}).
 
-##  Birthday Promotion ## 
-Alongside being able to purchase Record 1 at the gift shop, all birthday parties allowed the birthday kid to choose either this record or [\2](\1) to take a birthday song home with them. To compensate for this, both records were produced at 10x quantity, alongside birthdays bumping from $3.50 per person to $3.65 upon a restaurant receiving their first batch.
+## Birthday Promotion ##
+Alongside being able to purchase Record 1 at the gift shop, all birthday parties allowed the birthday kid to choose either this record or  to take a birthday song home with them. To compensate for this, both records were produced at 10x quantity, alongside birthdays bumping from $3.50 per person to $3.65 upon a restaurant receiving their first batch.
 
-##  Production ## 
+## Production ##
 The records would be first produced on May 14, 1981 by _QCA Custom Pressings Inc._ in Cincinnati, OH, and sent from Creative Engineering to Brock Hotel Corporation with an enclosed letter.<ref name=':0'>https://youtu.be/ooetqLjPZVk</ref> 
 
 On July 16, 1981, the records would be sent out to all ShowBiz stores (23 open at the time), with Record 1 having 400 copies sent to each store, making a total initial run of 9200.<ref name=':0' />
 
-###  Variants ### 
+### Variants ###
 The record sleeve could either come in thick paperboard, or thin glossy paper, with the thinner variant the more rare kind. Separately, the inner record could either have its copyright date in white near the top, or in black near the right side.<ref name=':0' />
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:IMG 20201125 0002.jpg|Back Scan
 File:IMG 20201125 0004.jpg|'Do You Love Me' Side A Scan
 File:IMG 20201125 0003.jpg|'Happy Birthday' Side B Scan
 </gallery>
 
-##  References ## 
+## References ##

@@ -9,8 +9,8 @@ gallery = []
 +++
 **North Dartmouth, MA (412-418 State Rd)** is a Chuck E. Cheese's store that opened in December 1994.
 
-##  History ## 
-North Dartmouth opened in Dartmouth Towne Center on December 5th, 1994, with the [[1-Stage]]. In the early 2000s, the original Helen dress, Jasper shirt, and Pasqually apron were replaced. In 2005, the curtains were disabled. 
+## History ##
+North Dartmouth opened in Dartmouth Towne Center on December 5th, 1994, with the [1-Stage]({{< ref "wiki/1-Stage.md" >}}). In the early 2000s, the original Helen dress, Jasper shirt, and Pasqually apron were replaced. In 2005, the curtains were disabled. 
 
 In 2009, North Dartmouth got the 2005 Remodel. In 2010, they switched to the Avenger outfit. 
 
@@ -18,30 +18,30 @@ In late 2014, Chuck, Helen, and Munch all got new masks. By the end of 2016, Jas
 
 Currently the 1-Stage is in great shape. 
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Status
 |-
-|[\2](\1)
+|
 |1994
 |In store.
 |-
-|[\2](\1)
+|
 |1994
 |In store.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1994
 |In store.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1994
 |In store.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1994
 |In store.
 |-
@@ -50,8 +50,8 @@ Currently the 1-Stage is in great shape.
 |In store.
 |}
 
-##  Gallery ## 
+## Gallery ##
 (WIP)
 
-##  Videos ## 
+## Videos ##
 (WIP)

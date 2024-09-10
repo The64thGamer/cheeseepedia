@@ -11,10 +11,10 @@ gallery = []
 
 It was located in the Chartiers Valley Shopping Center.
 
-It should not be confused with [[Bridgeville, PA (1035 Washington Pike)]] which opened in 2002 and is still open to this day.
-## History## 
+It should not be confused with [Bridgeville, PA (1035 Washington Pike)]({{< ref "wiki/Bridgeville, PA (1035 Washington Pike).md" >}}) which opened in 2002 and is still open to this day.
+##History##
 Bridgeville opened its doors on February 17th, 1983 with a Balcony Stage. It was originally a corporate (it is very complicated)-owned Pizza Time Theatre location. In the Late 80's, Bridgeville would receive the 1988 remodel and removed older decor for newer decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade. In the Early 90's, Bridgeville would receive a minor remodel, this time another change to the exterior, more old decor removed for newer ones, and Chuck E.'s House Facade being removed for the 2-Stage. In the Late 90's, they would receive yet another remodel, which changed the exterior again, and added SkyTubes. Bridgeville remained like this until 2002 when they relocated. After they relocated, Bridgeville was abandoned for a year or two until they became a pet store but it was short lived as it closed somewhere between 2008-2009. After the pet store was abandoned, it became a movie theatre and driver's license center. Currently, as of February 2023, the 'Phoenix' movie theatre and the drivers license center is still there.
-## Stages## 
+##Stages##
 When Bridgeville opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are not much videos and no photos to exist of Bridgeville back then. Sometime between the Late 80's, they installed Chuck E.’s House Facade, otherwise known as the [https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade C-Stage]. This location would get a 2-Stage installed in the early 90's.
 
 In 2002, Bridgeville relocated to their current location which destroyed their 2-Stage.
@@ -40,7 +40,7 @@ In 2002, Bridgeville relocated to their current location which destroyed their 2
 |2002
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Serial Number
@@ -70,8 +70,8 @@ In 2002, Bridgeville relocated to their current location which destroyed their 2
 |Unknown
 |Unknown / Destroyed
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 TODO

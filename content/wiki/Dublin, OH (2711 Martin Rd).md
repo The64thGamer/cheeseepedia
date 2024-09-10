@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["CorrectorMan"]
 gallery = []
 +++
-Redirect: --) [\2](\1)
+Redirect: --) 

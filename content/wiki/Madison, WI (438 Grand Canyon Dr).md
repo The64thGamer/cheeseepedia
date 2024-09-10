@@ -8,11 +8,11 @@ contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPedia
 gallery = []
 +++
 **_438 Grand Canyon Dr**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion].
-## History## 
+##History##
 Madison opened its doors in July 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Madison was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Madison received the Showbiz Pizza Campground upgrade.
 
 In around 1991, Madison received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Madison received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. Madison remained this way until sometime in 2008-2009 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, got an expansion, and also removing some older 90's decor. In August 2021, they received the 2.0 remodel which removed the 3-Stage for the Dance Floor. As of January 2023, they still have the Dance Floor.
-## Stages## 
+##Stages##
 Madison opened with the Rock afire Explosion in April 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general.
 
 In 1991, Madison received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
@@ -34,12 +34,12 @@ In August 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor
 |August 2021
 |
 |-
-|[\2](\1)
+|
 |August 2021
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -94,8 +94,8 @@ In August 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor
 |N/A
 |Unknown/Destroyed
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 TODO
-## References## 
+##References##
 <references />

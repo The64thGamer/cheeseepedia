@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["FileFickle"]
 gallery = ["big_bad_barney_bear.png|Pyramid","AntiochBeachBearWP5.jpg|Showbiz","ppbb.png|King's","beachbear_wp5mech.jpg|CEI","bbr.jpg|Under","bb_cei.jpg|Completely"]
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bb_iaapa.png}}Beach Bear was created for the [\2](\1) from the [[Bear Country Jubilee]].
+{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bb_iaapa.png}}Beach Bear was created for the  from the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}).
 
-##  History ## 
+## History ##
 TODO
 
-##  Design ## 
+## Design ##
 Beach Bear is a gray polar bear that plays an electric guitar. He wore a lei and swim trunks with varying colors depending on location.
 
-##  Movements ## 
+## Movements ##
 
 * Mouth
 * Head left
@@ -29,7 +29,7 @@ Beach Bear is a gray polar bear that plays an electric guitar. He wore a lei and
 * Guitar raise
 * Foot tap
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:big_bad_barney_bear.png|Pyramid Place (1979)
 File:AntiochBeachBearWP5.jpg|Showbiz Pizza Place, Kansas City, MO (1980)

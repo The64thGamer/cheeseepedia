@@ -14,7 +14,7 @@ gallery = []
 
 **_Classic Show Thank You Tape 1**_ is a standard _Thank You_ tape provided for _Rock-afire Explosion_ shows in the 90's.
 
-## Show List:## 
+##Show List:##
 #**Segment 1**
 ##Herman The Worm
 #**Segment 2**

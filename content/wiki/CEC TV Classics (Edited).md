@@ -9,9 +9,9 @@ gallery = []
 +++
 To Do:
 
-The show lineup of songs, & videos are from [[SPP June 1990 Show]] the counterpart showtape released around the same time frame. It is importantly the first showtape to have three original segments made for this show, and it will be the standard moving forward until [[You're A Star]] in September 1993.
+The show lineup of songs, & videos are from [SPP June 1990 Show]({{< ref "wiki/SPP June 1990 Show.md" >}}) the counterpart showtape released around the same time frame. It is importantly the first showtape to have three original segments made for this show, and it will be the standard moving forward until [You're A Star]({{< ref "wiki/You're A Star.md" >}}) in September 1993.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 8 Minute Countdown

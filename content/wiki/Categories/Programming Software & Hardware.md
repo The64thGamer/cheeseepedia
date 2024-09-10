@@ -7,6 +7,5 @@ tags = [ ]
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-[[Animatronic Programming System]]
+[Animatronic Programming System]({{< ref "wiki/Animatronic Programming System.md" >}})
 
-[\2](\1)

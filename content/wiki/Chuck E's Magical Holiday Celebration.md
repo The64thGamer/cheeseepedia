@@ -17,7 +17,7 @@ gallery = []
 
 **_Chuck E.'s Magical Holiday Celebration**_ was a show that released in December of 1996 and also played in December 1997 at Chuck E. Cheese's locations. 
 
-## Show List ## 
+##Show List ##
 #**Segment 1**
 ##'Jingle Bells'
 ##'Deck The Halls'
@@ -57,5 +57,5 @@ gallery = []
 ##'Deck The Halls'
 
 
-## Trivia:## 
-*This show is the same as [[The Chuck E. Cheese Christmas Special]], just with new intros and outros.
+##Trivia:##
+*This show is the same as [The Chuck E. Cheese Christmas Special]({{< ref "wiki/The Chuck E Cheese Christmas Special.md" >}}), just with new intros and outros.

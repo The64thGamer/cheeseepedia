@@ -10,16 +10,16 @@ gallery = ["Sandycec7.png|Exterior","Sandycec4.png|Counters","Sandycec5.png|Stag
 {{Stub}}{{Generic|image=sandycec6.png|desc=Exterior on September 7, 2006 via Geocache}}
 
 **_10535 S. State St**_ was a franchised _Chuck E. Cheese's_ location that opened in 1996 with a 1-Stage, and closed in 2014.
-## Stages## 
-This location received the Cyberamic characters from the [\2](\1) location for use on their 1-Stage. The Cyberamics still utilized a portion of original cosmetic parts before removal.
+##Stages##
+This location received the Cyberamic characters from the  location for use on their 1-Stage. The Cyberamics still utilized a portion of original cosmetic parts before removal.
 
 Once the store closed in 2014, the stage was cleared and a large projector screen was put on the stage.
-## History## 
+##History##
 In September 2011 this location remodeled for the first time as a CEC.
-### Closure### 
+###Closure###
 In 2014 the location closed and was turned into an expansion of the All Star Bowling franchise, still utilizing items from CEC. All of the walls were repainted and all CEC branding were removed.
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -46,7 +46,7 @@ In 2014 the location closed and was turned into an expansion of the All Star Bow
 |July 2022
 |}
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Sandycec7.png|Exterior in 2012
 File:Sandycec4.png|Counters
@@ -59,34 +59,34 @@ File:Sandycec.png|Showroom
 File:Allstar1.png|Road sign
 </gallery>
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |1981
 |Parts sent to Orem, UT location
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |1981
 |Parts sent to Orem, UT location
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1981
 |Parts sent to Orem, UT location
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1981
 |Parts sent to Orem, UT location
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1981
 |Parts sent to Orem, UT location
 |-
-|[\2](\1)
+|
 |N/A
 |Parts sent to Orem, UT location
 |}

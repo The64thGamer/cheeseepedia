@@ -11,10 +11,10 @@ gallery = []
 
 It is located in the Northeast Shopping Center.
 
-It should not be confused with [[Philadelphia, PA (9 Snyder Ave)]] which opened 10 years, 1 month, and 7 days later on September 15th, 1992.
-## History## 
+It should not be confused with [Philadelphia, PA (9 Snyder Ave)]({{< ref "wiki/Philadelphia, PA (9 Snyder Ave).md" >}}) which opened 10 years, 1 month, and 7 days later on September 15th, 1992.
+##History##
 Philadelphia (Roosevelt) opened its doors on August 8th, 1982 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location. In the Late 80's, Philadelphia (Roosevelt) would receive the 1988 remodel and removed older decor for newer decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade. It was later bought by the corporate (company) on June 26th, 1989. In the Mid 90's Philadelphia (Roosevelt) would receive another remodel, this time another change to the exterior, more old decor removed for newer ones, and Chuck E.'s House Facade being removed for the 2-Stage. In the Late 90's, they would receive yet another remodel, which changed the exterior again, and added skytubes. In 2006-2007, Philadelphia (Roosevelt) would remodel to the 2005 Remodel, removing the Showroom Walls, Balcony Seating, another exterior change, and the relocation of the show. They stayed like this until in June 2022, when the location received the 2.0 remodel removing the 2-Stage for the Dance Floor and Video Wall. Currently, as of February 2023, they still have the 2.0 remodel and the Dance Floor.
-## Stages## 
+##Stages##
 When Philadelphia (Roosevelt) opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are no videos or photos to exist of Philadelphia (Roosevelt) back then. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the [https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade C-Stage]. This store also received a unique porch area in front of the characters for live performances. This location would get a 2-Stage installed in the mid 90's.
 
 In June 2022, they received the 2.0 remodel and removed their 2-Stage for the Dance Floor and Video Wall.
@@ -45,7 +45,7 @@ In June 2022, they received the 2.0 remodel and removed their 2-Stage for the Da
 |
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -82,10 +82,10 @@ In June 2022, they received the 2.0 remodel and removed their 2-Stage for the Da
 |
 |Unknown / Destroyed
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 TODO
-## References## 
+##References##
 <references />

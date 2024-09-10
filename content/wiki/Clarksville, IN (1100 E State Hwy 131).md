@@ -11,10 +11,10 @@ gallery = []
 
 This location began the 2.0 remodel on April 15th, 2024
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Stages ## 
+## Stages ##
 This store opened with a Studio C Beta featuring a 16 movement Garner Holt animatronic. 
 {| class='wikitable'
 |+
@@ -28,24 +28,23 @@ This store opened with a Studio C Beta featuring a 16 movement Garner Holt anima
 |April 2024
 |Last complete 90’s remodel
 |-
-|[\2](\1)
+|
 |April 2024
 |Still In Use
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[[Chuck E. Cheese 16m (Animatronic)]]
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |Unknown
 |}
 
-##  Gallery ## 
-[\2](\1)
+## Gallery ##
 
-##  YouTube Videos ## 
+
+## YouTube Videos ##
 https://youtu.be/wYva2gUKM1Q?si=mYeeGZaiZJ1P-fpC
-[\2](\1)

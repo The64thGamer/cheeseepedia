@@ -13,7 +13,7 @@ gallery = []
 
 **_Country Klunk**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985.
 
-## Segment List## 
+##Segment List##
 # **Segment 1** 
 ## Ricky Scaggs Medley
 ### Heartbroke

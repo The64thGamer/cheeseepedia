@@ -11,38 +11,38 @@ gallery = []
 
 **_Tempe, AZ(1000 E Broadway Rd)**_ was a _Pizza Time Theater_ that opened in June 1981 and closed on December 24, 1984.
 
-##  History ## 
+## History ##
 Tempe opened in 1981 and was a regular PTT. It had Harmony Howlett, Madame Oink and Helen Henny throughout its lifespan. It also had Dolli Dimples as a cabaret. The location would remain the same throughout its lifespan, closing right after the bankruptcy.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 |Animatronics
 |Manufacturing Date
 |Whereabouts
 |-
-![[Chuck E. Cheese (Cyberamic)]]
+![Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |N/A
 |Sent to Mexico.
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |N/A
 |Sent to Mexico.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |N/A
 |Sent to Mexico.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |N/A
 |Sent to Mexico.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |N/A
 |Sent to Mexico.
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 |Link

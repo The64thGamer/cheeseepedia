@@ -14,16 +14,16 @@ gallery = []
 |cusvhs = y
 }}
 
-**_Happy Holidays 1998**_ was a Christmas themed show that released in December of 1998 at Chuck E. Cheese's. The show reused segments from [\2](\1) and [\2](\1)._
+**_Happy Holidays 1998**_ was a Christmas themed show that released in December of 1998 at Chuck E. Cheese's. The show reused segments from  and ._
 
-## Show List## 
-#**[[File:New Graphic.png]]** **Intermission 1**
+##Show List##
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1**
 ##4 Minute Countdown
 ###Gloria Estefan: 'This Christmas'
 #**Segment 1**
 ##'Here We Come A Caroling'
 ##'Silver Bells'
-#**[[File:New Graphic.png]]** **Intermission 2**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 2**
 ##4 Minute Countdown
 ###Dave Valentin: 'Santa Claus is Coming To Town'
 ###Coke Spot
@@ -57,6 +57,6 @@ gallery = []
 ##Tom Scott: 'Have Yourself a Merry Little Christmas'
 
 
-## Trivia:## 
-*This show was not released on Studio C. [[September 1998]] would continue to play through the holidays.
+##Trivia:##
+*This show was not released on Studio C. [September 1998]({{< ref "wiki/September 1998.md" >}}) would continue to play through the holidays.
 *A 'Happy Holidays 1998' logo was added to all of the segments.

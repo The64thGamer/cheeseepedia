@@ -9,7 +9,7 @@ gallery = []
 +++
 Amherst, NY was a Chuck E Cheese store located at 4994 Harlem Road.  
 
-##  History ## 
+## History ##
 Amherst opened up in 1994, near Niagara Falls. This was the second Chuck E Cheese location to open after Showbiz Pizza converted to Chuck E Cheese a few years before. 
 
 They opened with the 1-Stage, which has all five characters in front of a city backdrop. Amherst opened with Phase 2, which they kept up until 2012. In 2012, they received the 2012 update to the 2003 Cool Chuck Reconfiguration. 

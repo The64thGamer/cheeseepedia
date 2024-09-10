@@ -11,17 +11,17 @@ The **_Pizza Time Theatre Musical Ferris Wheel**_ was a _Pizza Time Theatre_ the
 
 After inserting a quarter, the ride would spin the child in the seat around while playing fair ground music.
 
-##  Variants ## 
+## Variants ##
 Two variants exist for the ride. One features the standard winking Chuck E. Cheese head, while the more common one features the standard art of Chuck holding a cane up.
 
-## Gallery## 
+##Gallery##
 <gallery>
 b881904725c60a1cf850172c8424f2f3.png|Standard Design
 d6eb88d40a7e0080386a2c736e4e6219.jpg|Standard Design
 60b4d7d061d8b3a042c609d4d8576e59.png|Head Design
 8c8d6ed8bb9827312af8df0d47fffbf1.jpg|Head Design
 </gallery>
-## Owners / Locations## 
+##Owners / Locations##
 {| class='wikitable'
 !Location / Owner
 !Address

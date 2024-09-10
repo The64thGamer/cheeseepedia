@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##  Systems ## 
-[[Audio Animatronic Tape System]]
+## Systems ##
+[Audio Animatronic Tape System]({{< ref "wiki/Audio Animatronic Tape System.md" >}})
 
-[[Audio Animatronic Camshaft System]]
+[Audio Animatronic Camshaft System]({{< ref "wiki/Audio Animatronic Camshaft System.md" >}})
 
-[[DACS]]
+[DACS]({{< ref "wiki/DACS.md" >}})

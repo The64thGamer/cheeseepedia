@@ -13,7 +13,7 @@ gallery = []
 
 _Spring Shows '82_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
 
-## Show List## 
+##Show List##
 #**Segment 1**
 ##_Crying Skit_
 #**Segment 2**

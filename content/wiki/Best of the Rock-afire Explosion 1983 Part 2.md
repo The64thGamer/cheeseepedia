@@ -12,7 +12,7 @@ gallery = []
 |showbizreel=y}}
 
 **_Best of the Rock-afire Explosion 1983 Part 2**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March 1983.
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##Abbey Road Medley
 ###You Never Give Me Your Money

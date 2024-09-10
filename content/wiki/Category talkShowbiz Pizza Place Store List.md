@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["Rexburg090","ShowbizMidwest","ChuckECool","CECBowlingGreen","Documentor"]
 gallery = []
 +++
-How did someone know that Whitehall PA's show was from [[Abilene, TX (1874 S Clack St)]]? Does anyone have any information about this?
+How did someone know that Whitehall PA's show was from [Abilene, TX (1874 S Clack St)]({{< ref "wiki/Abilene, TX (1874 S Clack St).md" >}})? Does anyone have any information about this?

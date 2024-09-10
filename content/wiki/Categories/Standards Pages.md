@@ -9,4 +9,4 @@ gallery = []
 +++
 A list of pages used to standardize the formatting of a category of pages.
 
-* [[Standard: Showtape Page]]
+* [Standard: Showtape Page]({{< ref "wiki/Standard Showtape Page.md" >}})

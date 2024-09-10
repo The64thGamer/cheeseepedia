@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["BigCtheDataFinder","Tobsters ;-;"]
 gallery = []
 +++
-**Billy Bob's Bear-A-Dice Tropical Jamboree** otherwise referred to as either **Billy Bob's Bear-A-_Dise_ Tropical Jamboree** or simply as just **Bear-A-Dice** is a Rock-afire Explosion trailer show that utilizes the [[Mini Stage]] setup of characters instead of a full [[Classic Stage]] setup.
+**Billy Bob's Bear-A-Dice Tropical Jamboree** otherwise referred to as either **Billy Bob's Bear-A-_Dise_ Tropical Jamboree** or simply as just **Bear-A-Dice** is a Rock-afire Explosion trailer show that utilizes the [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) setup of characters instead of a full [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) setup.
 
-##  History ## 
+## History ##
 There isn't too much information as to the behind the scenes development of the Bear-A-Dice trailer show. However, according to one of the technicians who work on the show (Carl), he says the characters were built in the year of 1982, while the trailer show itself would be assembled in around 1998. It's not clear if the trailer made it's rounds on the North American State Fair circuit during 1998 or not, but the show has been photographically documented as early as 2004 on ShowBizPizza.Com.<ref>https://www.showbizpizza.com/photos/rae/bearadice/index.html</ref>
 
 
@@ -27,5 +27,5 @@ After the run in the Kentucky State Fair, the technical issues got worse to the 
 
 Documentation of the Bear-A-Dise has been slim past 2017, and the only new progress said from the technicians around 2018 or so was that everything needed to be reprogrammed and it will be done in Indiana where another tech (Raymond) primarily works in. Since then, word about the show has been silent until an eBay listing appeared in 2020 putting the entire trailer show up for sale. However, after the listing, it's been assumed that it was never sold and probably is still with the techs and/or the North American State Fair circuit currently not in use and it's unknown if it will resume public showings ever again.
 
-##  References ## 
+## References ##
 <references />

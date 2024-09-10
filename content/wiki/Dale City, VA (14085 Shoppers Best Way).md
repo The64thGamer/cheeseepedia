@@ -7,16 +7,16 @@ tags = [ ]
 contributors = ["Noahrbxt","CECBowlingGreen","Rexburg090","ShowbizMidwest","216.125.34.66","74.96.197.218"]
 gallery = ["Dale"]
 +++
-##  The CEC at 14085 Shoppers Best Way Woodbridge Virginia or 'Dale City' opened on February 15th 1993 with a [[2-Stage]]. The bots came from an ## 
-unknown [\2](\1) as Chuck and Helen had PTT movements and Chuck having latex feet. However the store received 2.0 in 2018 due to an 
+## The CEC at 14085 Shoppers Best Way Woodbridge Virginia or 'Dale City' opened on February 15th 1993 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The bots came from an ##
+unknown  as Chuck and Helen had PTT movements and Chuck having latex feet. However the store received 2.0 in 2018 due to an 
 
 exterior fire.
 
-##  History ## 
+## History ##
 Coming soon
 
-##  Stages ## 
-The store opened with a 2 stage that had bots from an unknown [\2](\1). They kept their 2 stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, playpass machines, removal of skytubes and stage, and a nicer interior. Dale city was the last Cyberamic store in northern Virginia and the third to last in the state. The final mmbbs in Virginia are [[Chesapeake, VA (1528 Sam's Circle)]] and [[Richmond, VA (10430 Midlothian Turnpike)]].
+## Stages ##
+The store opened with a 2 stage that had bots from an unknown . They kept their 2 stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, playpass machines, removal of skytubes and stage, and a nicer interior. Dale city was the last Cyberamic store in northern Virginia and the third to last in the state. The final mmbbs in Virginia are [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) and [Richmond, VA (10430 Midlothian Turnpike)]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}).
 {| class='wikitable'
 |+
 !Stage
@@ -32,7 +32,7 @@ The store opened with a 2 stage that had bots from an unknown [\2](\1). They kep
 |Still being used
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -71,7 +71,7 @@ The store opened with a 2 stage that had bots from an unknown [\2](\1). They kep
 File:Dale city image1.png|The stage decorated for Christmas
 </gallery>
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link

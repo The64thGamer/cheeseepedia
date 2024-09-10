@@ -11,9 +11,9 @@ gallery = []
 
 **_Chuck E. Cheese Pineville Grand Re-Opening Show**_ is the showtape released on July 19, 2024, to play exclusively for Pineville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
 
-This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm.  After the event it would play [[Chuck E. Cheese Summer Show 2024 Part 2]] from 7:00pm-closing.
+This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm.  After the event it would play [Chuck E. Cheese Summer Show 2024 Part 2]({{< ref "wiki/Chuck E Cheese Summer Show 2024 Part 2.md" >}}) from 7:00pm-closing.
 
-##  Show List ## 
+## Show List ##
 
 # **Segment 1**
 ## 10 Minute Countdown
@@ -55,7 +55,7 @@ This show features no intermissions and would play six segments on repeat from a
 ## Chuck E. & Friends - “Most Perfect Day”
 ## Chuck E. & Friends - “I Love Sparkles”
 
-##  Lives ## 
+## Lives ##
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
@@ -64,7 +64,7 @@ This show features no intermissions and would play six segments on repeat from a
 * Beach Party Bash (Navori)
 * 3-Stage Stage Diagnostic (Navori)
 
-##  Trivia ## 
+## Trivia ##
 
-* This show is identical to [[Chuck E. Cheese Northridge Grand Re-Opening Show]] with changes done in[[Chuck E. Cheese Hicksville Grand Re-Opening Show]] reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
+* This show is identical to [Chuck E. Cheese Northridge Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Northridge Grand Re-Opening Show.md" >}}) with changes done in[Chuck E. Cheese Hicksville Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Hicksville Grand Re-Opening Show.md" >}}) reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
 * The countdown would start reading 'Show Starts In' with a 10-minute countdown. Once finished playing, Together We've Got It 2017 would play.

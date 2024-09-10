@@ -9,10 +9,10 @@ gallery = []
 +++
 TODO: Summary
 
-## Hardware## 
+##Hardware##
 
-### SPP Curtain Cont. Bypass Board### 
-A board was found in [[Fargo, ND (1202 Nodak Dr)]] labeled _SPP Curtain Cont Bypass_. This board was used to keep curtains open if the main curtain controller stopped working. The board itself was a cheap prototyping board from _Radio Shack_, though is still believed to have been sent out by CEC Corporate at the time. Its currently unclear if more existed. 
+###SPP Curtain Cont. Bypass Board###
+A board was found in [Fargo, ND (1202 Nodak Dr)]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}}) labeled _SPP Curtain Cont Bypass_. This board was used to keep curtains open if the main curtain controller stopped working. The board itself was a cheap prototyping board from _Radio Shack_, though is still believed to have been sent out by CEC Corporate at the time. Its currently unclear if more existed. 
 
 The text printed on the labels and written on the board itself reads: 
  SPP CURTAIN CONT BYPASS

@@ -8,63 +8,63 @@ contributors = ["ThatBoiCydalan","Cy's Junk at School"]
 gallery = ["Screenshot","Cec6.jpg|The"]
 +++
 {{Stub}}{{Generic|image=tuscaloosa al cec before closure.png|desc=Exterior before being destroyed by a tornado}}
-**_Tuscaloosa, AL (1375 McFarland Blvd), Store #704**_ was a _Chuck E. Cheese's_ that opened in November 2003 with a [[Studio C Cappa]] and closed on April 27th, 2011.
+**_Tuscaloosa, AL (1375 McFarland Blvd), Store #704**_ was a _Chuck E. Cheese's_ that opened in November 2003 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and closed on April 27th, 2011.
 
-This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with [\2](\1), which opened on August 30th, 2015 with a [[Circles of Light]] show.
+This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with , which opened on August 30th, 2015 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show.
 
-## Stage## 
-This store opened with a [\2](\1).
+##Stage##
+This store opened with a .
 
-## History## 
+##History##
 This store opened in November 2003
 
-### Tornado Damage### 
+###Tornado Damage###
 On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit the city of Tuscaloosa.
 
-## Arcade Machines## 
+##Arcade Machines##
 
-### Recognized Machines### 
+###Recognized Machines###
 
-#### Skill#### 
+####Skill####
 
 *Slam-a-Winner
-*[[Chuck E. Cheese's Sketch Book]]
+*[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 *Johnny Nero Action Hero
-*[[Chuck E. Cheese's Super Shot]]
-*[[Chuck E's Duckies]]
+*[Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
+*[Chuck E's Duckies]({{< ref "wiki/Chuck E's Duckies.md" >}})
 *Robo-Bop
-*[[Skee-Ball]] [4 units]
+*[Skee-Ball]({{< ref "wiki/Skee-Ball.md" >}}) [4 units]
 *Western Train
 *Daytona USA
 *Jurassic Park
-*[[Chuck E. Cheese's Hi-Ball]]
+*[Chuck E. Cheese's Hi-Ball]({{< ref "wiki/Chuck E Cheese's Hi-Ball.md" >}})
 
-##### Coin-Action##### 
+#####Coin-Action#####
 
 *Smokin' Token
 
-#### Kiddie#### 
+####Kiddie####
 
-*[[Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]]
-*[[Chuck E. Cheese's Photo Ride (1997)]]
-*[[Chuck E. Cheese's Coloring Book]]
-*[[Tik Tak Clock]]
+*[Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]({{< ref "wiki/Chuck E Cheese's Kiddie Coaster Thrill of a Lifetime.md" >}})
+*[Chuck E. Cheese's Photo Ride (1997)]({{< ref "wiki/Chuck E Cheese's Photo Ride (1997).md" >}})
+*[Chuck E. Cheese's Coloring Book]({{< ref "wiki/Chuck E Cheese's Coloring Book.md" >}})
+*[Tik Tak Clock]({{< ref "wiki/Tik Tak Clock.md" >}})
 *Amutec Space Copter
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Screenshot 20230716 190907 Instagram.jpg|A shot of the store's arcade days before the store's opening
 File:Cec6.jpg|The store's animatronic
 </gallery>
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[[Chuck E. Cheese 16m (Animatronic)]]
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |N/A
 |Destroyed
 |}

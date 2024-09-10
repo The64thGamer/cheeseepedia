@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["ShowbizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","170.185.215.34","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","174.243.128.180","Cheeseclassic","Documentor","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia"]
 gallery = []
 +++
-[\2](\1)
+
 **_Studio C Alpha**_ is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002. 
 
 
 
-##  History ## 
+## History ##
 
 
-##  Design ## 
+## Design ##
 
 
-##  Current Studio C Alphas ## 
+## Current Studio C Alphas ##

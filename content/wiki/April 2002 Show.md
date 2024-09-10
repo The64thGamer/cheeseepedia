@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/april-2002-show-upgrade-version-b/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_183423.jpg|Studio C Floppy (Version B) Scan
 2021-08-09_183038.jpg|Studio C Floppy (Version B) Scan

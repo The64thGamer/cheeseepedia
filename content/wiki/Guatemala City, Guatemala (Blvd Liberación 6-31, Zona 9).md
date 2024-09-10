@@ -9,17 +9,17 @@ gallery = ["Macsway","Macsway","Macsway"]
 +++
 {{Generic|image=Zona9ext.jpg|desc=Exterior}}
 
-**_Blvd Liberación 6-31, Zona 9**_ was a franchised _Chuck E. Cheese's_ that opened in 1996 with a [\2](\1) and [[2-Stage]] show, and closed in 2016.
+**_Blvd Liberación 6-31, Zona 9**_ was a franchised _Chuck E. Cheese's_ that opened in 1996 with a  and [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show, and closed in 2016.
 
 This location in particular appeared to be an anchor store for its own shopping center, 'Chuck E. Cheese's Center', up until 2010. Little information is known about the shopping center this CEC location sat in, or why the center was named after Chuck E. Cheese's.
-## Stages## 
+##Stages##
 When Zona 9 first opened, it housed a 3-Stage in it's Chuck E. Cheese's building and a 2-Stage in a separate event area in the shopping center. It is speculated that the show came from a closed location in the United States, however evidence is limited. Once the event area was retired, the Cyberamic characters' parts were later reused on the 3-Stage show.
 
 The 3-Stage show appeared to never receive any sort of maintenance for its entire run. The only things that were to be done to the show other were a few cosmetic changes from the Cyberamic characters and custom made pieces and giving Chuck E., Helen, and Munch plastic masks.
 
-The 3-Stage animatronics were finally relocated once again to the [\2](\1) location as a static display piece, Pasqually now wearing a walkaround head.
-## History## 
-## Arcade Machines## 
+The 3-Stage animatronics were finally relocated once again to the  location as a static display piece, Pasqually now wearing a walkaround head.
+##History##
+##Arcade Machines##
 Documented machines before closure.
 
 * Crazy 8's
@@ -46,18 +46,18 @@ Documented machines before closure.
 * [https://www.coinopexpress.com/products/machines/redemption-machines/Hammer-Fun-Arcade-Ticket-Redemption-Machine-10798.html Hammer Fun]
 * [https://www.highwaygames.com/arcade-machines/speed-demon-8147/ Speedy Pizza / Speed Demon]
 * [https://www.arcade-museum.com/game_detail.php?game_id=20006 Rock N' Moon Rally]
-* [[Air Hockey]]
-* [[Ken Chuck E. Derby]]
-* [[Chuck E's Marathon Runner]]
-* [[Chuck E. Cheese's Sketch Book]]
-* [[Chuck E. Cheese's Trolly]]
-* [[Tower of Power]]
-* [[Teacup Ride]]
-* [[CEC Power Beat]]
-* [[Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]]
-* [[Chuck E. Cheese's Photo Ride (1997)]]
+* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+* [Ken Chuck E. Derby]({{< ref "wiki/Ken Chuck E Derby.md" >}})
+* [Chuck E's Marathon Runner]({{< ref "wiki/Chuck E's Marathon Runner.md" >}})
+* [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+* [Chuck E. Cheese's Trolly]({{< ref "wiki/Chuck E Cheese's Trolly.md" >}})
+* [Tower of Power]({{< ref "wiki/Tower of Power.md" >}})
+* [Teacup Ride]({{< ref "wiki/Teacup Ride.md" >}})
+* [CEC Power Beat]({{< ref "wiki/CEC Power Beat.md" >}})
+* [Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]({{< ref "wiki/Chuck E Cheese's Kiddie Coaster Thrill of a Lifetime.md" >}})
+* [Chuck E. Cheese's Photo Ride (1997)]({{< ref "wiki/Chuck E Cheese's Photo Ride (1997).md" >}})
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -176,68 +176,68 @@ Documented machines before closure.
 |Feb 6, 2016
 |}
 
-## Gallery## 
+##Gallery##
 Just like the videos, a gallery of all the pictures in and out of the store. Just caption them by their date, down to the day if you can. There's no limit to this gallery's size.<gallery>
 File:Macsway 2009.png|2009
 File:Macsway 2009 (Google Earth).png|2010
 File:Macsway 2009 Google Earth.png|2011
 </gallery>
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial / Manufacturing Date
 !Status
 |-
-|[\2](\1)
+|
 |Unknown
 |Used for parts / Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Used for parts / Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Used for parts / Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Used for parts / Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Used for parts / Unknown
 |-
-|[[Wink (Animatronic)]]
+|[Wink (Animatronic)]({{< ref "wiki/Wink (Animatronic).md" >}}){< ref "wiki/Wink (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[[Wink (Animatronic)]]
+|[Wink (Animatronic)]({{< ref "wiki/Wink (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[\2](\1)
+|
 |1-82 1-26
-|On display at [\2](\1) location
+|On display at  location
 |-
-|[\2](\1)
+|
 |1-82 2-26
-|On display at [\2](\1) location
+|On display at  location
 |-
-|[[Fatz Geronimo (Animatronic)]]
+|[Fatz Geronimo (Animatronic)]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |1-82 3-26
-|On display at [\2](\1) location
+|On display at  location
 |-
-|[\2](\1)
+|
 |1-82 4-26
-|On display at [\2](\1) location
+|On display at  location
 |-
-|[\2](\1) 
+| 
 |1-82 5-26
-|On display at [\2](\1) location
+|On display at  location
 |}
 
-## References## 
+##References##
 citations go here automatically if you use them in the editor

@@ -9,12 +9,12 @@ gallery = []
 +++
 General News and Changes to Chuck-E-Pedia
 
-###  2023 ### 
+### 2023 ###
 
 * **February 5th -** The site receives a massive design overhaul, cleaning up the front page, adding tabs, and setting site colors to a deep blue.
 * **February 3rd -** The wiki reaches 700 articles.
 
-###  2022 ### 
+### 2022 ###
 
 * **December 31st -** Wiki host Miraheze merges November pages back into Chuck-E-Pedia, successfully bringing back the wiki in full.
 * **December 19th -** Wiki host Miraheze confirms the lost pages from November are recovered and will be implemented soon.
@@ -32,6 +32,6 @@ General News and Changes to Chuck-E-Pedia
 * **July 10th -** Announcement of public unveiling on July 17th.
 * **February 18th -** Wiki name changes to 'Chuck E. Encyclopedia'
 
-###  2021 ### 
+### 2021 ###
 
 * **November -** Wiki goes live as 'Decode-Document-Digitize Wiki'. Visibility set to private.

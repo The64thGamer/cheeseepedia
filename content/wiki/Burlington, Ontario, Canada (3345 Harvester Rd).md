@@ -8,9 +8,9 @@ contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0
 gallery = []
 +++
 **_3345 Harvester Rd**_ was a _Pizza Time Theatre/Chuck E. Cheese_ that opened on October 15, 1981 as the first ever Chuck E. Cheese in Canada and also the first ever international location.
-## History## 
+##History##
 (W.I.P)
-## Stages## 
+##Stages##
 Burlington opened with the Balcony Stage in October 1981. Unfortunately, there are some photos but no videos to exist of Burlington with the Balcony Stage, or as a Pizza Time Theatre. in general.
 {| class='wikitable'
 !Stage
@@ -23,7 +23,7 @@ Burlington opened with the Balcony Stage in October 1981. Unfortunately, there a
 |October 1991
 |First Chuck E. Cheese in Canada.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -50,8 +50,8 @@ Burlington opened with the Balcony Stage in October 1981. Unfortunately, there a
 |1-81 5-6
 |Unknown/Destroyed
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -63,5 +63,5 @@ Burlington opened with the Balcony Stage in October 1981. Unfortunately, there a
 |
 |
 |}
-## References## 
+##References##
 <references />

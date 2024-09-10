@@ -9,24 +9,24 @@ gallery = []
 +++
 **_13125 Montfort Dr**_ was a Chuck E. Cheese's that opened on January 26, 1983 with a Rock-afire Explosion, which closed and relocated in December 2001.
 
-This store is notable for being the very first store to house a [\2](\1), and later the only [[Awesome Adventure Machine]] stage. Throughout the 90s, this location was also featured in many training tapes and showtapes for Chuck E. Cheese restaurants.
+This store is notable for being the very first store to house a , and later the only [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) stage. Throughout the 90s, this location was also featured in many training tapes and showtapes for Chuck E. Cheese restaurants.
 
-##  Stages ## 
+## Stages ##
 It opened in 1983 with a Rock-afire Explosion, which remained until 1989 when they received a CU 3 stage.  The 3 stage was in good shape until around January 1996, when it fell into disrepair. In August 1996, Montfort was chosen as the test store for the Awesome Adventure Machine. Unfortunately, this stage was too expensive to install nationwide. In 1997, the AAM stage was replaced with a Studio C Alpha, which remained until the store's closure in 2001.
 
-##  History ## 
+## History ##
 FINISH LATER
 
-##  Arcade Machines ## 
+## Arcade Machines ##
 
 * Skeeball
 * Chuck E.'s Hoops
 * The Simpsons
 * SEGA Super GT
-* [[Chuck E. Cheese's Circus]]
+* [Chuck E. Cheese's Circus]({{< ref "wiki/Chuck E Cheese's Circus.md" >}})
 * Chuck E. Cheese's Photo Ride
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -58,9 +58,9 @@ FINISH LATER
 |1998
 |}
 
-##  Gallery ## 
+## Gallery ##
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

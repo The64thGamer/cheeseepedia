@@ -16,7 +16,7 @@ gallery = []
 
 This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1** 
 ## Jasper T. Jowls - 'Wash the Bus'
@@ -50,7 +50,7 @@ This was created with the idea to play between promotional events. This show fea
 ## Silly Song - 'Unicorn, Unicorn' 
 ## KIDZ BOP - 'Space Man'
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show 2018 (Navori)
 * Birthday Show 2018 (Spanish) (Navori)

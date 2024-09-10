@@ -9,10 +9,10 @@ gallery = []
 +++
 **_2300 N Rose Dr**_ is a Chuck E. Cheese that opened in September 24, 1991 as a corporate location with a Road Stage which is still open to this day.
 
-It is located in the Imperial Plaza Shopping Center. It opened on the same day as the [\2](\1) and the death of Doctor Theodore Seuss (Dr. Seuss). It is one of the three locations to be visited by the no-good youtube channels, Arcade Craniacs and Lyssy Noel.
-## History## 
+It is located in the Imperial Plaza Shopping Center. It opened on the same day as the  and the death of Doctor Theodore Seuss (Dr. Seuss). It is one of the three locations to be visited by the no-good youtube channels, Arcade Craniacs and Lyssy Noel.
+##History##
 Placentia opened on September 24th, 1991 as a corporate-owned location. This location opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990's, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor and SkyTubes. In 2009, Placentia remodeled to the 2005 remodel which involved the removal of the showroom walls, removing older decor for newer decor, new booths, & adding purple walls. Strangely, the brown checkers were added and the logo, text, and awnings were not replaced. Currently, as of February 2023, the location still has the 2005 Remodel and the Road Stage.
-## Stages## 
+##Stages##
 Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit.
 
 As of February 2023, Placentia still has the Road Stage and 2005 Remodel.
@@ -25,7 +25,7 @@ As of February 2023, Placentia still has the Road Stage and 2005 Remodel.
 |September 1991
 |Still In use
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -55,10 +55,10 @@ As of February 2023, Placentia still has the Road Stage and 2005 Remodel.
 |1991
 |In Store.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 (W.I.P)
 {| class='wikitable'
 !Link

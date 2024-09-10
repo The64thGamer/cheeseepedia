@@ -9,4 +9,4 @@ gallery = []
 +++
 **3-Stage 2002 Diagnostics** was released in 2002 to update the previous 1993 diagnostics to appear how most stores did by 2002. Those changes between 1993 and 2002 would be changing Chucks outfit from the Tuxedo to his Cool Chuck attire. Along with that would be Chuck, Helen, Munch, Jasper and Pasqually now having their plastic masks instead of latex. 
 
-##  Diagnostics List: ## 
+## Diagnostics List: ##

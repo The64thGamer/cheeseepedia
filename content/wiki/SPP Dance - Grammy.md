@@ -12,32 +12,32 @@ gallery = []
 |date=October 1988
 |raesvhs=y|showbizreel=y}}
 
-## Show List:## 
+##Show List:##
 #**Intermission 1**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 1**
-##[\2](\1)
+##
 #**Intermission 2**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 2**
-##[\2](\1)
+##
 #**Intermission 3**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 3**
-##[\2](\1)
+##
 #**Intermission 4**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 4**
-##[\2](\1)
+##

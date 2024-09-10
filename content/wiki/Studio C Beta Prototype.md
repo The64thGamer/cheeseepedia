@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["CECBowlingGreen","Documentor","Ceclife13","ShowbizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]
 gallery = []
 +++
-The **Studio C Alpha Beta Mix** is a test stage found at [\2](\1), with only 1 remaining as of September 2022 in Midland, Texas.
+The **Studio C Alpha Beta Mix** is a test stage found at , with only 1 remaining as of September 2022 in Midland, Texas.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Design ## 
+## Design ##
 TODO: Design
 
-##  Current Studio C Alpha Beta Mix Stages ## 
+## Current Studio C Alpha Beta Mix Stages ##
 {| class='wikitable'
 |+
 !Location

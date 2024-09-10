@@ -13,7 +13,7 @@ gallery = []
 
 **_Country Night**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in June 1983.
 
-## Segment List## 
+##Segment List##
 #**Segment 1** 
 ##'Monkeyman Chewing Tobacco Skit'
 ##'Redneck Friend'

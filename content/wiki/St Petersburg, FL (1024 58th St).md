@@ -8,7 +8,7 @@ contributors = ["ChuckECool","Rexburg090","2600:4040:59F9:8000:88FB:E9C2:80B5:DF
 gallery = []
 +++
 **_1024 58th St**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in March 1983 (day unknown) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in the Tyrone Gardens shopping center.
-## History## 
+##History##
 St. Petersburg opened its doors in March 1983 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy and was bought on October 22, 1984 along with many other locations by the corporate. Like all locations at some point, it remodeled twice in the late 80's and early 1990s to be up to standard. They replaced the Balcony Stage with the C-Stage. The C-Stage was replaced by the 2-Stage shortly after.
 
 In 2005-2006, St. Petersburg received the 2005 Remodel and removed the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta and relocating it.
@@ -16,7 +16,7 @@ In 2005-2006, St. Petersburg received the 2005 Remodel and removed the Showroom 
 Around 2020 or 2021, St. Petersburg's front exterior sign was replaced with the 2.0 sign because it was suffering due to old age.
 
 In December 2022, the location officially remodeled again to CEC's 2.0 remodel removing the Beta for the Dance Floor and Video Wall.
-## Stages## 
+##Stages##
 St. Petersburg opened with the Balcony Stage in April 1983. 
 
 In the Late 80's, St. Petersburg received the Chuck E.'s House Facade stage, otherwise known as the [https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade C-Stage].
@@ -56,7 +56,7 @@ In 2005 or 2006, the 2-Stage was replaced with the Studio C concept. This store 
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -90,8 +90,8 @@ In 2005 or 2006, the 2-Stage was replaced with the Studio C concept. This store 
 |2003
 |Destroyed
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 TODO
-## References## 
+##References##
 <references />

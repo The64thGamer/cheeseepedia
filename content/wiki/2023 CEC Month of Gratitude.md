@@ -13,7 +13,7 @@ gallery = []
 
 The event provides specific benefits for cast members throughout the month. CEC Corporate marketed this as a way to say thank you to cast members, releasing an official statement and video by David McKillips and other corporate leaders.
 
-##  Benefits ## 
+## Benefits ##
 Employees benefit from multiple perks during the month, mainly being discounts and 3 raffles.
 
 * Employee discount on food is increased from 50% to 100%. It is unknown the limitations and quantities of free food served.

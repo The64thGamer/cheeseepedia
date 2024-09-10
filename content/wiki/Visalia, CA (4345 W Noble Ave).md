@@ -12,24 +12,24 @@ gallery = []
 
 This location opened as a ShowBiz Pizza Place on May 2, 1983, and is still open today.
 
-##  History ## 
+## History ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In the early 1990's, the store would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. 
 
-##  Stages ## 
+## Stages ##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 |-
-|[\2](\1)
+|
 |May 1983
 |1991-1992
 |-
-|[\2](\1)
+|
 |1991-1992
 |Still In Use
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -83,7 +83,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |N/A
 |In Store.
 |}
-## Gallery## 
+##Gallery##
 (WIP)
-## Videos## 
+##Videos##
 (WIP)

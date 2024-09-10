@@ -13,10 +13,10 @@ It wa located next to a former Kmart that became a Big Lots which turned into an
 
 It was also the first Chuck E. Cheese to open in Mississippi.
 
-It should not be confused with the [[Jackson, MS (6352 Ridgewood Court Rd)]] location which opened in June 2009 with a Studio C Beta, 16m and is still open to this day.
-## History## 
+It should not be confused with the [Jackson, MS (6352 Ridgewood Court Rd)]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) location which opened in June 2009 with a Studio C Beta, 16m and is still open to this day.
+##History##
 Jackson opened in August 1982 as a corporate-owned location right next to Kmart which opened on August 16th, 1973. It opened with the Balcony Stage and the Lounge. Jackson later received with the 1988 Remodel in 1988-1989 which included the removal of PTT decor for CU decor, received the Blue and White awnings above the salad bar, the checkers around and outside the store, and the C-Stage replacing the Balcony Stage. In the early 90's, the exterior was changed and the Kmart closed on November 4th, 1992. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some checkers around the store, and the removal of the ball pit for SkyTubes. At some point around 1999-2000, Chuck E.'s House Facade was replaced with the Studio C Alpha. Jackson remained like this until June 2009, when they would close down and relocate to the Ridgewood Court location. In 2011-2012, the location became an indian grocery store and a restaurant Currently, as of February 2023, the indian grocery store and restaurant are still there.
-## Stages## 
+##Stages##
 Like all PTT's at the time, Jackson had a Balcony Stage.
 
 In the late 80's most likely 1988 or 1989, the Balcony Stage was replaced with Chuck E.'s House Facade or the C-Stage.
@@ -43,7 +43,7 @@ In 1999-2000, their C-Stage was replaced with the Studio C Alpha.
 |June 2009
 |One of 2 Studio C Alphas in Mississippi.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -97,10 +97,10 @@ In 1999-2000, their C-Stage was replaced with the Studio C Alpha.
 |
 |Destroyed.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description

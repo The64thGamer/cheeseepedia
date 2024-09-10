@@ -17,7 +17,7 @@ gallery = []
 }}
 
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Document_2021-08-09_180045.jpg|Studio C Floppy Scan
 Document_2021-08-09_151553.jpg|Studio C Floppy Scan (Version 1.2)

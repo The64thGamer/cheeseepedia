@@ -12,12 +12,12 @@ gallery = []
 |date=December 17, 1993
 |betamax=y}}**_Celebration Station's Rockin' Rascals Soundtrack**_ was a showtape produced specifically for the Celebration Station in Knoxville, TN. The showtape covers mostly songs from the 1950s - 1960s. The full showtape can be heard [https://www.youtube.com/playlist?list=PLIhpiXmoRr0jbDr5fvXBW7RFMkMAkS8FG here].
 
-##  Production and Cast ## 
+## Production and Cast ##
 The tape was produced by Mangum-Alford Recording Studios in Jacksonville, Florida by Janet Sherman. Hurricane Hound, Major Moose, Calvin Cat, and Purrscilla Purr were voiced by Scott (Anon), Bob Moseley, Rocky Morris, and Debbie Bailey Ryder respectively.
 
 On trumpet, drums, lead guitar, bass guitar, and acoustic guitar were Gary Smith, Jeff Tippins, Kevin Banks, Lawrence Buckner, and Scott Tinesley respectively. Keys and arrangements were done by Kenny Levine.
 
-##  Segments ## 
+## Segments ##
 # **_Segment 1**_
 My Boyfriend's Back
 # **_Segment 2**_

@@ -11,7 +11,7 @@ gallery = []
 
 **_CEC American Pride / Neighbors**_ was released for _Chuck E Cheese's_ locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 8 Minute Countdown
@@ -19,7 +19,7 @@ gallery = []
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Get_on_Your_Feet Get On Your Feet]
 ## Cyberstar Intro
-# **[[File:New_Graphic.png]]Segment 1**
+# **[File:New_Graphic.png]({{< ref "wiki/FileNew_Graphicpng.md" >}}){< ref "wiki/FileNew_Graphicpng.md" >}})Segment 1**
 ## American Pride 1
 ### [https://en.wikipedia.org/wiki/Born_in_the_U.S.A. Born in the USA]
 ### [https://en.wikipedia.org/wiki/America_(West_Side_Story_song) America (From West Side Story)]
@@ -34,7 +34,7 @@ gallery = []
 ### [https://en.wikipedia.org/wiki/Miss_You_Much Miss You Much]
 ### [https://en.wikipedia.org/wiki/Soul_Provider How Am I Supposed to Live Without You]
 ## Cyberstar Intro
-# **[[File:New_Graphic.png]]Segment 2**
+# **[File:New_Graphic.png]({{< ref "wiki/FileNew_Graphicpng.md" >}})Segment 2**
 ## American Pride 2
 ### [https://en.wikipedia.org/wiki/I_Get_Around I Get Around]
 ### [https://en.wikipedia.org/wiki/Theme_from_New_York,_New_York Theme from New York, New York]

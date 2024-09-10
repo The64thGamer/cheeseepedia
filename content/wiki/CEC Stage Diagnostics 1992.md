@@ -7,10 +7,10 @@ tags = [ ]
 contributors = ["CyCGM","Documentor","Cy's Junk at School"]
 gallery = []
 +++
-**CEC Stage Diagnostics 1992** was released in 1992 as a replacement for all older diagnostic material for stores with Cyberamic shows. This video would go on to be rereleased several times up to [\2](\1) with no changes to the contents of the video.
+**CEC Stage Diagnostics 1992** was released in 1992 as a replacement for all older diagnostic material for stores with Cyberamic shows. This video would go on to be rereleased several times up to  with no changes to the contents of the video.
 
-##  Diagnostics list ## 
+## Diagnostics list ##
 TODO: List all movements for characters
 
 * **Skit Comparison**
-** [[Environment '92]] Segment 3
+** [Environment '92]({{< ref "wiki/Environment '92.md" >}}) Segment 3

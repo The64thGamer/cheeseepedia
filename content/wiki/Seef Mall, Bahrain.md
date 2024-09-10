@@ -11,10 +11,10 @@ gallery = []
 
 This location is the very first location in the country of Bahrain, and is franchised by the Masbi Group, which are also slated to open new Chuck E. Cheese locations in Kuwait and Oman in the future<ref>https://www.prnewswire.com/news-releases/chuck-e-cheese-opens-its-first-store-in-bahrain-301414136.html</ref>.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 As the store is a 2.0, they have a Dance Floor, it is the 2021 Model, and the store also has the Video Wall.
 {| class='wikitable'
 |+
@@ -29,10 +29,10 @@ As the store is a 2.0, they have a Dance Floor, it is the 2021 Model, and the st
 |2021 Model
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO
 
-##  References ## 
+## References ##

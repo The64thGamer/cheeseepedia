@@ -14,8 +14,8 @@ gallery = []
 
 The **_Bear Review**_ Showtape was the last physical showtape sent out at **_Creative Engineering,**_ made for a modified Rock-afire Mini stage at Okefenokee Swamp Park.
 
-##  Summary ## 
-Rather than the usual names of the [[Mini Stage]] cast, the four characters are given unique ones:
+## Summary ##
+Rather than the usual names of the [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) cast, the four characters are given unique ones:
 
 * Billy Bob - Billy
 * Looney Bird - Clem
@@ -25,17 +25,17 @@ Rather than the usual names of the [[Mini Stage]] cast, the four characters are 
 During the intro skits exclusive to the tape, the characters comment on the Okefenokee Swamp Park and its attractions, giving guests times for them alongside tips for attending. These intros immediately transition to a selection of previously recorded songs with no mention or buildup to what will be performed.<tabber>
 |-|Segment List=
 #**Segment 1**
-##[[File:New Graphic.png]]Intro Skit 1
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Intro Skit 1
 ##Audubon Zoo
 ##Friends In Low Places
 ##Rocky Top
 #**Segment 2**
-##[[File:New Graphic.png]]Intro Skit 2
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Intro Skit 2
 ##Sixteen Tons
 ##Let's Go To Vegas
 ##Country Bear
 #**Segment 3**
-##[[File:New Graphic.png]]Intro Skit 3
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Intro Skit 3
 ##Lion Sleeps Tonight
 ##Grandma's Feather Bed
 ##Country Medley
@@ -50,4 +50,4 @@ During the intro skits exclusive to the tape, the characters comment on the Okef
 
 </tabber>
 
-## References## 
+##References##

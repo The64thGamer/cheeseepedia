@@ -27,23 +27,23 @@ AGFA AMERICAN GENRE FILM ARCHIVE OCN DISTRIBUTION 72 MINS 1.33:1 OAR Blu-ray Dis
 
 WARNING: THIS COLLECTION IS PROTECTED BY LAW. All unauthorized copying, public performance, exhibition, or broadcasting is prohibited by law. Features, menus, and special features © 2024 American Genre Film Archive. All rights reserved. AMERICANGENREFILM.COM}}
 
-The **_Rock-afire Explosion Documentary Blu-Ray**_ is a 2024 limited edition rerelease of the [\2](\1).
+The **_Rock-afire Explosion Documentary Blu-Ray**_ is a 2024 limited edition rerelease of the .
 
-##  Changes / Additions ## 
-The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the [\2](\1) and [\2](\1) vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary _Glow_, and the Rock-afire eventually inspiring the 2014 game series _Five Nights at Freddy's_.
+## Changes / Additions ##
+The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the  and  vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary _Glow_, and the Rock-afire eventually inspiring the 2014 game series _Five Nights at Freddy's_.
 
-The film's original digital master would be included on the disc. The disc would now be 33gb.<ref>[[:File:Discqualitycontentsraebluraydoc.png]]</ref>
+The film's original digital master would be included on the disc. The disc would now be 33gb.<ref>[:File:Discqualitycontentsraebluraydoc.png]({{< ref "wiki/FileDiscqualitycontentsraebluraydocpng.md" >}})</ref>
 
 New director commentary from Brett Whitcomb and Bradford Thomason over the film would be included. A new photo gallery of behind the scenes pictures would also be included.
 
-##  Release ## 
+## Release ##
 On February 1st, 2024, the _American Genre Film Archive_ would work in tandem with _Vinegar Syndrome_ to begin pre-orders for the film.<ref>https://www.americangenrefilm.com/</ref><ref>https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion</ref> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.<ref>Writer testimony. No archive of the website within the first week available.</ref> By February 26th, 1,300 copies had been ordered.<ref>https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion</ref> The earliest known copy would arrive on February 29th, 2024.<ref>Writer testimony.</ref> 
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Raebluraybackcoverpromo.png|Slip Cover Backside
 File:Blurayfrontpromoraedoc.png|Blu-Ray Case Front
 File:Blurayraedocbacksidepromo.png|Blu-Ray Case Back
 </gallery>
 
-##  References ## 
+## References ##

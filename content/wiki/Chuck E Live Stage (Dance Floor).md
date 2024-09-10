@@ -9,18 +9,18 @@ gallery = []
 +++
 The Chuck E. Live Stage (Dance Floor) is a stage format that is currently being installed in Chuck E. Cheese locations starting in 2015 and continuing into the present day as part of the '2.0' remodel. It is notable as it is the very first CEC stage to not include any animatronics, as it is a small screen on the floor that is also interactive.
 
-##  History ## 
+## History ##
 
-###  Original Design 2015-2017 ### 
+### Original Design 2015-2017 ###
 The Chuck E. Live Stage, known by most of the fandom as the Dance Floor, was first introduced at the Plano, Texas location in May of 2015, this original design had interactive light panels in the middle, with a red frame around it. Some locations, like Birmingham (Old Town Rd/Vestavia), Alabama, received early versions. the design was changed in 2017.
 
-###  '2.0' Remodel Original Design 2017-2019 ### 
+### '2.0' Remodel Original Design 2017-2019 ###
 Starting in 2017, the Dance Floors were given an update, replacing the red frame with a purple frame, and that is the most significant change. this was changed because of the '2.0' remodel. the design was updated in 2019.
 
-###  '2.0' Remodel Updated Design 2019-2021 ### 
+### '2.0' Remodel Updated Design 2019-2021 ###
 Starting in mid-late 2019, the Dance Floors were updated to have a screen that could display graphics on it, while still retaining the interactive element, whilethe purple frame was still retained.
 
-###  '2.0' Remodel Updated Design #2 2021-Present ### 
+### '2.0' Remodel Updated Design #2 2021-Present ###
 Starting in Spring 2021, the Dance Floors were updated once again to be flat, completely getting rid of the purple frame, leaving just the screen with the graphics. New '2.0' remodels also include a large TV that goes into the wall. This design is currently being used in new locations and remodels.
 
-##  Current Dance Floors ## 
+## Current Dance Floors ##

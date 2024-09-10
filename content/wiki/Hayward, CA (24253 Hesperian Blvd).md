@@ -7,20 +7,20 @@ tags = [ ]
 contributors = ["SuperCreamPiper2008","Cheeseclassic","Veronancy","CECMadison","Floorplanmuncher"]
 gallery = []
 +++
-**_24253 Hesperian Blvd**_ is a _Chuck E. Cheese's Pizza Time Theatre_/_Chuck E. Cheese Pizza_ that opened in April 1981 (day unknown) with a [\2](\1), And closed in Summer 1995 (month and day unknown) with either a [\2](\1), a [[Chuck E.'s House]], or a [[Chuck E.'s House Facade]].
+**_24253 Hesperian Blvd**_ is a _Chuck E. Cheese's Pizza Time Theatre_/_Chuck E. Cheese Pizza_ that opened in April 1981 (day unknown) with a , And closed in Summer 1995 (month and day unknown) with either a , a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), or a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-## History## 
+##History##
 TODO
 
 
-## Animatronics## 
+##Animatronics##
 TODO
 
 
 
 
-## Gallery## 
+##Gallery##
 TODO
 
-## Videos## 
+##Videos##
 TODO

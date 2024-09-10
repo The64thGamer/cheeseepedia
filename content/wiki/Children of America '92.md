@@ -11,7 +11,7 @@ gallery = []
 
 Children of America was the first rerelease of [https://decodedocdigitize.miraheze.org/wiki/CEC_American_Pride CEC American Pride] which it replaced the original CEC-TV Specials and intermission background music. 
 
-## Show List## 
+##Show List##
 #**Intermission 1**
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Bo_Diddley_(Bo_Diddley_song) Bo Diddley]
@@ -85,7 +85,7 @@ Children of America was the first rerelease of [https://decodedocdigitize.mirahe
 #**Intermission 7**
 ##CEC TV News - Scoop
 
-## Trivia:## 
+##Trivia:##
 The intermission music for this show was reused from the [https://decodedocdigitize.miraheze.org/wiki/CEC_Games CEC Games] showtape.
 
 Three of the CEC-TV Specials were recycled from past showtapes.

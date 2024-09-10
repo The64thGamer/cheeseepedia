@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/september-2006-show/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_181458.jpg|Studio C Floppy Scan
 </gallery>

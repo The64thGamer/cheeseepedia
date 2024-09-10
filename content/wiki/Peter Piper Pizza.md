@@ -11,5 +11,5 @@ gallery = []
 
 There are currently around 109 Peter Piper Pizza locations as of September 2022.
 
-##  History ## 
+## History ##
 TODO: History, Being acquired by CEC Entertainment, Inc, the 2020 Bankruptcy, etc.

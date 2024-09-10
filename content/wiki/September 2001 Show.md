@@ -7,14 +7,14 @@ tags = [ ]
 contributors = ["The 64th Gamer","Ceclife13","BurgersNuggs445","RedaCEC"]
 gallery = []
 +++
-**_Toy Show Tape 1**_ was the showtape used for [[Billy Bob's Toyland Adventure Show]], which featured at the _IAAPA_ in November of 1995.{{Showtape
+**_Toy Show Tape 1**_ was the showtape used for [Billy Bob's Toyland Adventure Show]({{< ref "wiki/Billy Bob's Toyland Adventure Show.md" >}}), which featured at the _IAAPA_ in November of 1995.{{Showtape
 |image=NoImage.jpg
 |date=1990's
 |nrae=y}}
 
 The showtape was presumably sent alongside the show to the Family Entertainment Center that purchased it from South America.
 
-##  Version 2 ## 
+## Version 2 ##
  SEPTEMBER 2001 'STUDIO C' SHOW UPDATE FINISHED
  THIS UPDATE INCLUDES 'WHAT I LIKE ABOUT YOU' LIVE SHOW
  !DIAGNOSTICS DOES NOT HAVE AUDIO! (WE REMOVED IT)
@@ -22,7 +22,7 @@ The showtape was presumably sent alongside the show to the Family Entertainment 
  ENJOY THE SHOW!
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER
 
-## Show List:## 
+##Show List:##
 #**Segment 1**
 ##Happy Birthday to you (BAD DATA)
 #**Segment 2**
@@ -51,7 +51,7 @@ The showtape was presumably sent alongside the show to the Family Entertainment 
 ##Hot Fun in the Summertime
 #**Segment 14**
 ##Happy Birthday to you
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 dwdfsdf.jpg|3-Stage DVD
 3333333.jpg|3-Stage DVD

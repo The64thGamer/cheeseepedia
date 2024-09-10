@@ -10,9 +10,9 @@ gallery = []
 **_5151 Lakewood Blvd**_ is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
 This location is located in the Lakewood Shopping Center right next to the Lakewood Center Mall. They would receive Concept Unification in 1991 or 1992, and removed the 3-Stage in 2000 for a Studio C Alpha which is still there.
-## History## 
+##History##
 Lakewood opened on March 23rd, 1983, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it was a Showbiz Pizza. This location had the Rock-Afire Explosion Classic Stage. In 1988 or 1989, Lakewood would receive the 1988 remodel removing older SPP decor for newer decor, and the change to the Billy Bob stage (Showbiz Pizza Campground). Around Early 1991, Lakewood would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, Lakewood would receive either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights.  In the year 2000, Lakewood would receive the so called Phase 3 remodel which marked the end of the 3-Stage as it was replaced by the Studio C Alpha and got a new exterior (Which involved an expansion of the front of the store to make room for more games) and most of the 90s decor was removed and the 2000's decor and SkyTubes was added. In Early 2009, it would undergo the 2005 remodel which involved the expansion of the exterior and store, the removal of the early 2000's posters, and the new decor and booths. Currently, as of February 2023, Lakewood still has the 2005 Remodel and the Studio C Alpha stage and is safe from the 2.0 remodel.
-## Stages## 
+##Stages##
 Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha which is still used to this very day.
 {| class='wikitable'
 |+
@@ -36,7 +36,7 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |Still in use
 |
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -107,10 +107,10 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |N/A
 |In store.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+Youtube Videos
 !Link
@@ -137,5 +137,5 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |
 |
 |}
-## References## 
+##References##
 TODO

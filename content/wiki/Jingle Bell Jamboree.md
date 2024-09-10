@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["FileFickle"]
 gallery = ["JBJ_stage.png|Promotional","JBJ_center.png|Center","JBJ_center2.png|Show","JBJ_killitwithfire.png|","JBJ_elvis3.png|","JBJ_elvis2.png|","JBJ_elvis.png|"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:JBJ_stage.png|Promotional Photo 1977
 File:JBJ_center.png|Center Stage 1977

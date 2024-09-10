@@ -15,7 +15,7 @@ This location opened on January 22, 2003 with a Studio C Alpha and it's still op
 to this day.
 
 
-## History ## 
+##History ##
 In The Studio C Alpha Was Removed October 2017 In The Chuck E. Live Stage
 Was Installed October 2017 Their Back
 In The 2.0 Remodel Comes To The Dance Floor And Video Wall For location.
@@ -25,17 +25,17 @@ In The 2.0 Remodel Comes To The Dance Floor And Video Wall For location.
 !Removed
 ! Notes
 |-
-|[[Studio C Alpha]]
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |January 2003
 |October 2017
 |Studio C Alpha Was Removed October 2017.
 |-
-|[[Dance Floor]]
+|[Dance Floor]({{< ref "wiki/Dance Floor.md" >}})
 |October 2017
 |Still In Use
 |Added 2.0 Remodel 2021 Model.
 |-
-|[[Video Wall]]
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |June 2023
 |Still In Use
 |2021 Model.

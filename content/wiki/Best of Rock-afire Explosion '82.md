@@ -12,7 +12,7 @@ gallery = []
 |showbizreel=y}}
 
 **_Best of Rock-afire Explosion '82**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1982.
-## Show List## 
+##Show List##
 #**Segment 1**
 ##_Beatles Medley_
 ###Eight Days a Week

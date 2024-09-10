@@ -9,7 +9,7 @@ gallery = []
 +++
 **_9820 Atlantic Blvd**_ was a _ShowBiz Pizza Place_ restaurant located in Jacksonville, Florida.
 
-##  History ## 
+## History ##
 Jacksonville opened its doors on August 14th, 1980 as the 2nd ShowBiz Pizza store (First in Florida) in the Regency Plaza. This was one of six stores to receive a Beta RockAfire Explosion show. In around 1981, they replaced the Beta Rock Afire Explosion with a finalized one. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. 
 
 In 1991-1992, Concept Unification was in full swing, Replacing the RockAfire Explosion with Munch's Make Believe Band. 
@@ -18,7 +18,7 @@ Then store would receive the 1993 remodel sometime by 1995-1996 at the earliest,
 
 In 1999, Jacksonville would remodel once again, this time removing the 3-Stage for a Studio C Alpha.
 
-In 2005, Jacksonville would receive the [\2](\1); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls, and a gameroom expansion in the former Western Auto. It is unknown when they received the Cool Chuck outfit. 
+In 2005, Jacksonville would receive the ; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls, and a gameroom expansion in the former Western Auto. It is unknown when they received the Cool Chuck outfit. 
 
 By 2012, Chuck's Cool Chuck outfit was replaced with the Avenger outfit. Chuck's cap was removed in September 2013. 
 
@@ -26,31 +26,31 @@ In 2014-2015, the Interactive Console & Bluescreen Camera were removed, leaving 
 
 As of October 2022, Jacksonville still has the 2005 Remodel & Studio C Alpha.
 
-##  Stages ## 
-Originally when the store opened, they had a Rock-Afire Explosion, they were the 1st RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. As of October 2022, they still have the Studio C Alpha, with it being the last Animatronic show in the Jacksonville, as [\2](\1) received 2.0 in Early 2020, [\2](\1) closed in 1984 as a _Pizza Time Theatre_ with a [\2](\1), & [\2](\1) never had an animatronic show of any kind.
+## Stages ##
+Originally when the store opened, they had a Rock-Afire Explosion, they were the 1st RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. As of October 2022, they still have the Studio C Alpha, with it being the last Animatronic show in the Jacksonville, as  received 2.0 in Early 2020,  closed in 1984 as a _Pizza Time Theatre_ with a , &  never had an animatronic show of any kind.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |August 1980
 |1991-1992
 |Original bots replaced in 1981.
 |-
-|[\2](\1)
+|
 |1991-1992
 |1999
 |
 |-
-|[[Studio C Alpha]]
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |1999
 |Still In Use
 |Last Animatronic show in Jacksonville
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -148,11 +148,11 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |N/A
 |Destroyed
 |-
-|[\2](\1)
+|
 |048
 |In Store
 |-
-|[\2](\1)
+|
 |N/A
 |In Store
 |-

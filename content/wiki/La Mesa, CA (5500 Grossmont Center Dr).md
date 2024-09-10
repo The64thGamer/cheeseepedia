@@ -11,10 +11,10 @@ gallery = []
 
 This location is the last location that still says 'Chuck E. Cheese's Pizza' on the building.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Stages ## 
+## Stages ##
 La Mesa opened with a 1-Stage, which is still there to this day, but is in very poor condition, with some videos in 2022 show the character cables for Munch and Pasqually being switched.
 {| class='wikitable'
 |+
@@ -29,30 +29,30 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 |Very poor condition
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Unknown
 |Currently In Use
 |-
-|[\2](\1)
+|
 |Unknown
 |Currently In Use
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Currently In Use
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Currently In Use
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Currently In Use
 |}

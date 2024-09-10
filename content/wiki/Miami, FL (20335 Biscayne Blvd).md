@@ -9,71 +9,71 @@ gallery = []
 +++
 **_20335 Biscayne Blvd, Store #435**_ is a _Chuck E. Cheese's_ location that opened on May 27th, 1993, and is still around today. It is located in the Promenade Shops.
 
-This store opened on the same day as [[Lowell, MA (199 Plain St)]].
+This store opened on the same day as [Lowell, MA (199 Plain St)]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}).
 
-##  History ## 
-Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [\2](\1) in October (Except [\2](\1)'s former 2-Stage & [\2](\1) uses a 2-Stage from a closed PTT.) were all 1-Stages. The store would open with the Tuxedo & Derby outfit like every other MMBB stage had at the time. In 2006-2007, Miami (Biscayne) received the 2005 Update of the [\2](\1) which involving building the video wall on the left side wall to the 2-Stage then removing it afterwards. The store would have their Grand Reopening on June 16th, 2022<ref>https://www.sun-sentinel.com/events/#!/details/Chuck-E-Cheese-North-Miami-Reopening/10443769/2022-06-16T17</ref>; The store also participated in the South Florida market-wide Round Up fundraiser for Little Smiles where guests are empowered to round up their purchase to the nearest dollar and donate the difference for the month of June. As of May 2023, Miami (Biscayne) still has the 2021 Model Dance Floor and Video Wall.
+## History ##
+Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a  in October (Except 's former 2-Stage &  uses a 2-Stage from a closed PTT.) were all 1-Stages. The store would open with the Tuxedo & Derby outfit like every other MMBB stage had at the time. In 2006-2007, Miami (Biscayne) received the 2005 Update of the  which involving building the video wall on the left side wall to the 2-Stage then removing it afterwards. The store would have their Grand Reopening on June 16th, 2022<ref>https://www.sun-sentinel.com/events/#!/details/Chuck-E-Cheese-North-Miami-Reopening/10443769/2022-06-16T17</ref>; The store also participated in the South Florida market-wide Round Up fundraiser for Little Smiles where guests are empowered to round up their purchase to the nearest dollar and donate the difference for the month of June. As of May 2023, Miami (Biscayne) still has the 2021 Model Dance Floor and Video Wall.
 
-##  Stages ## 
+## Stages ##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[[2-Stage]]
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |Spring 1993
 |April 2022
 |One of  installed in Florida. Fiber Optic Sign and Wink are owned by a Private Collector. Last Public 2-Stage in Florida.
 |-
-|[\2](\1) + [[Video Wall]]
+| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |April 2022
 |Still In Use
 |2021 Model.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
 !Serial Number
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|[\2](\1)
+|
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|[[Wink (Cyberamic)]]
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1992-1993
 |N/A
 |Owned by a Private Collector.
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 !Link
 !Description
@@ -81,17 +81,17 @@ TODO
 !Published Date
 |-
 |[https://youtu.be/Hp1jpf_Vhq4 Link]
-|'Deck the Halls' from [[December 2012 Show]] being performed on Miami (Biscayne)'s 2-Stage.
+|'Deck the Halls' from [December 2012 Show]({{< ref "wiki/December 2012 Show.md" >}}){< ref "wiki/December 2012 Show.md" >}}) being performed on Miami (Biscayne)'s 2-Stage.
 |December 30, 2013
 |December 30, 2013
 |-
 |[https://youtu.be/IqT90OCPW78 Link]
-|'Up the Housetop' from [[December 2012 Show]] being performed on Miami (Biscayne)'s 2-Stage.
+|'Up the Housetop' from [December 2012 Show]({{< ref "wiki/December 2012 Show.md" >}}) being performed on Miami (Biscayne)'s 2-Stage.
 |December 30, 2013
 |December 30, 2013
 |-
 |[https://www.youtube.com/watch?v=bmYkCjdKoo8 Link]
-|'Snowman' from the [[Holiday 2014 Show]] being performed on Miami (Biscayne)'s 2-Stage.
+|'Snowman' from the [Holiday 2014 Show]({{< ref "wiki/Holiday 2014 Show.md" >}}) being performed on Miami (Biscayne)'s 2-Stage.
 |November/December 2015
 |December 28, 2015
 |-
@@ -116,5 +116,5 @@ TODO
 |January 16, 2023
 |}
 
-##  References ## 
+## References ##
 <references />

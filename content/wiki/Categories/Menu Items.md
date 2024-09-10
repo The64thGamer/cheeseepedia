@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","RedaCEC"]
 gallery = []
 +++
-###  2007 ### 
+### 2007 ###
 
-####  Bundles #### 
+#### Bundles ####
 
 * Munch n Play (CEC Menu Item)
 * Fun Saver (CEC Menu Item)
 * Family Saver (CEC Menu Item)
 
-###  Sandwiches ### 
+### Sandwiches ###
 
 * Ham & Cheese Sandwich (CEC Menu Item)
 * Italian Sub (CEC Menu Item)
@@ -23,14 +23,14 @@ gallery = []
 * Hot Dog (CEC Menu Item)
 * Hot Dog with Cheese (CEC Menu Item)
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Buffalo Wings (CEC Menu Item)
 * Italian Bread Sticks (CEC Menu Item)
 * Mozzarella Sticks (CEC Menu Item)
 * Salad Bar (CEC Menu Item)
 
-####  Salad Dressings #### 
+#### Salad Dressings ####
 
 * Thousand Island (CEC Menu Item)
 * Blue Cheese Dressing (CEC Menu Item)
@@ -38,7 +38,7 @@ gallery = []
 * Lite Ranch (CEC Menu Item)
 * French Dressing (CEC Menu Item)
 
-####  Pizzas #### 
+#### Pizzas ####
 
 * Pizza w/ Cheese (CEC Menu Item)
 * Pepperoni Pizza (CEC Menu Item)
@@ -49,7 +49,7 @@ gallery = []
 * All Meat Combo Pizza (CEC Menu Item)
 * BBQ Chicken Pizza (CEC Menu Item)
 
-####  Beverages #### 
+#### Beverages ####
 
 * 2% Low Fat Milk (CEC Menu Item)
 * Apple Juice (CEC Menu Item)
@@ -59,23 +59,23 @@ gallery = []
 * Hi-C Flashin' Fruit Punch (CEC Menu Item)
 * Hi-C Poppin' Pink Lemonade (CEC Menu Item)
 
-####  Desserts #### 
+#### Desserts ####
 
 * Apple Pie Pizza (CEC Menu Item)
 * Cinnamon Sticks (CEC Menu Item)
 
-####  Birthday Cake #### 
+#### Birthday Cake ####
 
 * 8' Vanilla White Cake (CEC Menu Item)
 * 8' Chocolate White Cake(CEC Menu Item)
 
-###  2009 ### 
+### 2009 ###
 
-####  Sandwiches #### 
+#### Sandwiches ####
 
 * Chicken Ciabatta
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Breadsticks
 * Mozzarella Sticks
@@ -83,26 +83,26 @@ gallery = []
 * Veggie Platter
 * Sandwich Platter
 
-####  Birthday Cake #### 
+#### Birthday Cake ####
 
 * 8' Vanilla Buttercream Cake
 * 1/4 Sheet Hershey’s® Chocolate Cake
 
-###  2012 ### 
+### 2012 ###
 
-####  Pizzas #### 
+#### Pizzas ####
 
 * Bake-In-Bag Pizza
 * Gluten-Free Pizza
 
-####  Desserts #### 
+#### Desserts ####
 
 * Chocolate Fudge Gluten-Free Cupcake
 * Cinnamon Sticks
 * Blue Bunny® Chocolate Ice Cream Cup
 * Blue Bunny® Vanilla Ice Cream Cup
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Adult Nuggets Portion
 * Kids Nuggets Portion
@@ -111,12 +111,12 @@ gallery = []
 * Boneless Wing BBQ
 * Cheesy Breadsticks
 
-####  Birthday Cake #### 
+#### Birthday Cake ####
 
 * 1/4 Sheet Vanilla Buttercream Cake
 * 8' Hershey’s® Chocolate Cake
 
-####  Beverages #### 
+#### Beverages ####
 
 * Pepsi®
 * Diet Pepsi®
@@ -130,51 +130,51 @@ gallery = []
 * Bottled Water
 * Iced Tea
 
-###  2015 ### 
+### 2015 ###
 
-####  Bundles #### 
+#### Bundles ####
 
 * Eat & Play
 * Large Value Deal
 * Medium Value Deal
 
-####  Pizzas #### 
+#### Pizzas ####
 
 * Cali Alfredo Pizza
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Buffalo Cheesy Bread
 * Parmesan Breadsticks
 * Pretzel Dog
 
-####  Sandwiches #### 
+#### Sandwiches ####
 
 * BBQ Chicken Ciabatta
 * Chicken Caesar Wrap
 * Club Wrap
 
-####  Desserts #### 
+#### Desserts ####
 
 * Churros
 
-###  2017 ### 
+### 2017 ###
 
-####  Pizzas #### 
+#### Pizzas ####
 
 * Stuffed Crust Pizza
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Tater Bites
 
-####  Desserts #### 
+#### Desserts ####
 
 * Giant Warm Cookie
 
-###  2018 ### 
+### 2018 ###
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Garlic Parmesan Wings
 * Lemon Pepper Wings
@@ -182,53 +182,53 @@ gallery = []
 * Party Wings Platter
 * Cheesy Bread
 
-###  2019 ### 
+### 2019 ###
 
-####  Bundles #### 
+#### Bundles ####
 
 * Mega Deal
 * Large Deal
 * Medium Deal
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Rock & Pizza Roll
 * App Sampler
 
-####  Pizzas #### 
+#### Pizzas ####
 
 * Five Meat Pizza
 
-####  Sandwiches #### 
+#### Sandwiches ####
 
 * Chicken Bacon Ranch Sub
 
-####  Desserts #### 
+#### Desserts ####
 
 * Dippin Dots®
 * Unicorn Churros
 
-###  2021 ### 
+### 2021 ###
 
-####  Pizza #### 
+#### Pizza ####
 
 * Sweet Chili Hawaiian Pizza
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Mini Corn Dogs w/ Fries
 
-####  Desserts #### 
+#### Desserts ####
 
 * Sour Patch Whipped Cream Dippin Dots®
 * Sour Patch Pizza
 
-###  2022 ### 
+### 2022 ###
 
-####  Appetizers #### 
+#### Appetizers ####
 
 * Sauced Meatballs
 
-####  Beverages #### 
+#### Beverages ####
 
 * Lipton®

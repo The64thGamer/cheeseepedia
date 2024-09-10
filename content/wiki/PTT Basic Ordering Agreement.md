@@ -7,11 +7,11 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = ["92995930","93465182","93344970","92485345","93479717","93570455","93295663","97558821","93335070"]
 +++
-The **_Pizza Time Theatre Early Documents Folder**_ is a partially lost group of early [[Pizza Time Theatre]] documents detailing the early concepts of the company and its first two locations: [[San Jose, CA (370 S Winchester Blvd)]] and [[San Jose, CA (1371 Kooser Rd)]], likely dating between 1976-1977.
+The **_Pizza Time Theatre Early Documents Folder**_ is a partially lost group of early [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), likely dating between 1976-1977.
 
-The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.<ref>[[:File:Amazingcitationofgenelandrumdocuments.png]]</ref>
+The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.<ref>[:File:Amazingcitationofgenelandrumdocuments.png]({{< ref "wiki/FileAmazingcitationofgenelandrumdocumentspng.md" >}})</ref>
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:92995930 645188406324583 9178937695529085771 n.jpg|Opportunity... (Page 3)
 File:93465182 650676535731276 1616896640362617513 n.jpg|The Big Cheese (Page 5, August 2, 1976)
@@ -24,4 +24,4 @@ File:97558821 128862838799457 7844196890061488556 n.jpg|Animation Hardware (Page
 File:93335070 704230243672703 3906529436521003330 n.jpg|??? (Unknown Page)
 </gallery>
 
-##  References ## 
+## References ##

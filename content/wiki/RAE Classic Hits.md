@@ -12,7 +12,7 @@ gallery = []
 |showbizreel=y}}
 
 **RAE Classic Hits** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1981.
-## Segment List## 
+##Segment List##
 It is unclear the original order that the segments were played in.
 ***Segment 1**
 *#Beatles Medley

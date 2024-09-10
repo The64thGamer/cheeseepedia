@@ -9,12 +9,12 @@ gallery = []
 +++
 **4567 Peck Rd** was a Pizza Time Theatre that opened in 1982 (month and day unknown) with a Balcony Stage, and closed in June 2020.
 
-## History## 
-### Pizza Time Theatre### 
-### Chuck E. Cheese's Pizza Remodel### 
-### 'Phase 3' Remodel.### 
-### 'Phase 4' Remodel.### 
-## Stages## 
+##History##
+###Pizza Time Theatre###
+###Chuck E. Cheese's Pizza Remodel###
+###'Phase 3' Remodel.###
+###'Phase 4' Remodel.###
+##Stages##
 {| class='wikitable'
 |+
 !Stage
@@ -38,7 +38,7 @@ gallery = []
 |
 |}
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -62,7 +62,7 @@ gallery = []
 |
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character

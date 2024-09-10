@@ -38,7 +38,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ## Idina Menzel & Josh Gad - “We Wish You the Merriest”
 ## Chuck E. & Helen - Merry Christmastime”
 
-### Lives:### 
+###Lives:###
 *Birthday Show (Navori)
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)
@@ -76,7 +76,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ## Idina Menzel & Josh Gad - “We Wish You the Merriest”
 ## Chuck E. & Helen - Merry Christmastime”
 
-### Lives:### 
+###Lives:###
 *Birthday Show (Navori)
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)

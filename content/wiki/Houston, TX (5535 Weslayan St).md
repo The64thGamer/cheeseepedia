@@ -11,11 +11,11 @@ gallery = []
 
 This location received CU in the early 1990's, and would have the 3-Stage until they closed.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
-Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until 1991 or 1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. They would have this stage until they closed. The Building and Moon animatronics were sent to the [[Chuck E. Cheese's Corporate Office]], where they are being used for programming.
+## Stages ##
+Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until 1991 or 1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. They would have this stage until they closed. The Building and Moon animatronics were sent to the [Chuck E. Cheese's Corporate Office]({{< ref "wiki/Chuck E Cheese's Corporate Office.md" >}}), where they are being used for programming.
 {| class='wikitable'
 |+
 !Stage
@@ -31,7 +31,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |September 2018
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

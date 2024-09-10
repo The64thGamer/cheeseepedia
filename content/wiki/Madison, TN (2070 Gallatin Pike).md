@@ -7,32 +7,32 @@ tags = [ ]
 contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","47.17.236.200","9Lol92","CoolerDude"]
 gallery = []
 +++
-[\2](\1)
+
 **2070 Gallatin Pike** is a _Chuck E. Cheese's_ that opened on June 15, 1982 with a Rock-afire Explosion show.
 
-This store would have a strange layout, with a very deep balcony. This store would be one of the last stores to have [[pizzacam]] and a colored wink until the 3 stage would be ultimately removed in May of 2022 for the 2.0 remodel. This store is still open to this day as of this article being published.
+This store would have a strange layout, with a very deep balcony. This store would be one of the last stores to have [pizzacam]({{< ref "wiki/pizzacam.md" >}}) and a colored wink until the 3 stage would be ultimately removed in May of 2022 for the 2.0 remodel. This store is still open to this day as of this article being published.
 
-##  Stage ## 
-This store opened on June 15th, 1982 with a Rock-afire Explosion, then in 1991(?), the stage was converted through Concept Unification to the 3-stage. The 3-stage would receive over time, the colored wink, and cardboard bricks for [[Pasqually]] to sit on. from the Roebuck, Alabama Chuck E. Chesse's. The 3-stage would be maintained well over the years, up until early 2020, where the original technician for the show would leave. This left the show in a limbo state, where they were barely being maintained by someone who wasn't properly experienced. Some examples of the disrepair include: At least one eyelid being broken/missing on every character, Helen's Middle Boa getting lose, which allowed someone to rip off the middle of it, Chuck E's left arm being extremely loose, the prop characters being aired down a lot of the time, Munch being aired down during the stage's final weeks, the colored wink getting juice sprayed on it by a kid, and it never being properly cleaned, Jasper's left shoe being strapped on with orange tape, Jasper, Chuck, Munch, and Helen's mouth not working near the final weeks of the show, Helen's spotlight burning out, and much, much more. The stage would be gutted in May of 2022, to make way for a new Video Wall, and Dance Floor, as a part of the 2.0 remodels.
+## Stage ##
+This store opened on June 15th, 1982 with a Rock-afire Explosion, then in 1991(?), the stage was converted through Concept Unification to the 3-stage. The 3-stage would receive over time, the colored wink, and cardboard bricks for [Pasqually]({{< ref "wiki/Pasqually.md" >}}) to sit on. from the Roebuck, Alabama Chuck E. Chesse's. The 3-stage would be maintained well over the years, up until early 2020, where the original technician for the show would leave. This left the show in a limbo state, where they were barely being maintained by someone who wasn't properly experienced. Some examples of the disrepair include: At least one eyelid being broken/missing on every character, Helen's Middle Boa getting lose, which allowed someone to rip off the middle of it, Chuck E's left arm being extremely loose, the prop characters being aired down a lot of the time, Munch being aired down during the stage's final weeks, the colored wink getting juice sprayed on it by a kid, and it never being properly cleaned, Jasper's left shoe being strapped on with orange tape, Jasper, Chuck, Munch, and Helen's mouth not working near the final weeks of the show, Helen's spotlight burning out, and much, much more. The stage would be gutted in May of 2022, to make way for a new Video Wall, and Dance Floor, as a part of the 2.0 remodels.
 
-##  History ## 
+## History ##
 
-###  Showbiz Pizza ### 
+### Showbiz Pizza ###
 There is little to no documentation of this store when it was a Showbiz Pizza, however we do know they had a Rock-afire explosion show, and a sports room that would later be removed.
 
-###  Chuck E. Cheese's Pizza Remodel ### 
+### Chuck E. Cheese's Pizza Remodel ###
 This remodel would happen sometime in 1991, and would involve the Concept Unification conversion of the store, the removal of the sports room for more space in the toddler zone, and the conversion of the exterior.
 
-###  'Phase 3' Remodel. ### 
+### 'Phase 3' Remodel. ###
 The date this remodel started is unknown, however, we do know that when this remodel occurred, the entrance to the store was moved (as shown by the original blueprints from the Showbiz/CEC conversion), The 2 other showroom entrances were removed, one being replaced by a Elevator for Wheelchairs, the other being demolished completely.
 
-###  'Phase 4' Remodel. ### 
+### 'Phase 4' Remodel. ###
 This remodel started sometime in 2007, and painted over the white walls with purple. The shelves were also removed, and the art was replaced. This remodel would stay untill 2022.
 
-###  2.0 Remodel. ### 
+### 2.0 Remodel. ###
 This remodel would begin in April of 2022, and construction would end in June 2022. The major changes were a new game package, the removal of the stage, a video wall, and a interactive dance floor. This remodel is still there as of this articles creation.
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link

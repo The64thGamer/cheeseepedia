@@ -16,7 +16,7 @@ gallery = []
 
 This show features no intermissions and would play six segments on repeat from around 5:30 - Closing. 
 
-## Show List## 
+##Show List##
 
 # **Segment 1**
 ## Next Show Starts Soon
@@ -55,14 +55,14 @@ This show features no intermissions and would play six segments on repeat from a
 ## Chuck E. & Friends - “Most Perfect Day”
 ## Chuck E. & Friends - “I Love Sparkles”
 
-##  Lives ## 
+## Lives ##
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
 * Me & My Friends (Navori)
 * CEC Stage Diagnostic (Navori)
 
-##  Trivia ## 
+## Trivia ##
 
-* This show is nearly identical to [[Chuck E. Cheese Northridge Grand Re-Opening Show]] but with Segment 1 relocated to after Segment 4. 
+* This show is nearly identical to [Chuck E. Cheese Northridge Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Northridge Grand Re-Opening Show.md" >}}) but with Segment 1 relocated to after Segment 4. 
 * The countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play. Although currently unknown when this played during the Grand Re-Opening

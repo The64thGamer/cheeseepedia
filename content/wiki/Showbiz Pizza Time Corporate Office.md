@@ -7,14 +7,14 @@ tags = [ ]
 contributors = ["The 64th Gamer","72.222.233.165","BurgersNuggs445","Documentor","Chucke.show","Ceclife13","Chucke","Cy's Junk at School","SuperCreamPiper2008","Saan1ty"]
 gallery = ["unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown","unknown"]
 +++
-[\2](\1)
+
 The **_Showbiz Pizza Time Corporate Office**_ was the main office used for _Showbiz Pizza Time Inc.,_ later named to _CEC Entertainment Inc._, from 1987 to July 2015.
 
 The building was located on _4441 W Airport Fwy Ste 215, Irving, TX 75062._
 
-##  Departments ## 
+## Departments ##
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:unknown (59).png|December 2014
 File:unknown (58).png|December 2014

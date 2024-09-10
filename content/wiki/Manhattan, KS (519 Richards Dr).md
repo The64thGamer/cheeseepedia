@@ -10,15 +10,15 @@ gallery = []
 **_519 Richards Drive**_ was a Showbiz Pizza Place/Chuck E. Cheese which opened on August 18, 1983 as a corporate store with a Rock-Afire Explosion, which is still open to this day.
 
 This location received Concept Unification somewhere in 1991, then closed in December 1992 making it the shortest lived Chuck E. Cheese after Concept Unification.
-## History## 
+##History##
 Manhattan opened on August 18th, 1983 as the eighth and final Showbiz Pizza Place in Kansas and as a corporate-owned store. Manhattan originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. Unfortunately, this didn't last long as in December 1992, the Chuck E. Cheese closed for unknown reasons. A theory suggets it closed due to the the lease expiring or there were a lot of rodent/car parking problems. After closure, the building became a (bowling alley?) and then a COX office which closed around 2017. Currently, as of March 2023, Manhattan is still abandoned.
-## Stages## 
+##Stages##
 Originally, La Crosse featured a Rock-Afire Explosion, as all other Showbiz locations did.
 
 In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage.
 
 In December 1992, the location closed for unknown reasons.
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -73,10 +73,10 @@ In December 1992, the location closed for unknown reasons.
 |N/A
 |Unknown/Destroyed.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -91,7 +91,7 @@ In December 1992, the location closed for unknown reasons.
 |
 |
 |}
-## Trivia## 
-*Manhattan was the 8th and final Showbiz Pizza to open in Kansas after [\2](\1) (Opened January 26th, 1982), [\2](\1) (Opened November 25th, 1981), [[Salina, KS (2555 Market Place)]] (Opened September 10th, 1981), [[Shawnee, KS (12280 Shawnee Mission)]] (Opened August 19th, 1981), [[Topeka, KS (1301 SW Gage Blvd)]] (Opened December 1st, 1980), & [[Overland Park, KS (10510 Metcalf Lane)]] (Opened September 29th, 1980).
-*Manhattan was one of two Showbiz Pizza locations in Kansas to undergo Concept Unification (The other being [\2](\1)) as Hutchinson, KS (703 E 30th Ave), The Wichita, KS Amidon location, The Armour location, Salina, KS (2555 Market Place), Shawnee, KS (12280 Shawnee Mission), and Topeka, KS (1301 SW Gage Blvd) on the other hand were closed by February 16th, 1986, May 20th, 1984, September 4th, 1985, January 8th, 1984, October 13th, 1985, and 1985-1986 and never converted into Chuck E. Cheese.
+##Trivia##
+*Manhattan was the 8th and final Showbiz Pizza to open in Kansas after  (Opened January 26th, 1982),  (Opened November 25th, 1981), [Salina, KS (2555 Market Place)]({{< ref "wiki/Salina, KS (2555 Market Place).md" >}}) (Opened September 10th, 1981), [Shawnee, KS (12280 Shawnee Mission)]({{< ref "wiki/Shawnee, KS (12280 Shawnee Mission).md" >}}) (Opened August 19th, 1981), [Topeka, KS (1301 SW Gage Blvd)]({{< ref "wiki/Topeka, KS (1301 SW Gage Blvd).md" >}}) (Opened December 1st, 1980), & [Overland Park, KS (10510 Metcalf Lane)]({{< ref "wiki/Overland Park, KS (10510 Metcalf Lane).md" >}}) (Opened September 29th, 1980).
+*Manhattan was one of two Showbiz Pizza locations in Kansas to undergo Concept Unification (The other being ) as Hutchinson, KS (703 E 30th Ave), The Wichita, KS Amidon location, The Armour location, Salina, KS (2555 Market Place), Shawnee, KS (12280 Shawnee Mission), and Topeka, KS (1301 SW Gage Blvd) on the other hand were closed by February 16th, 1986, May 20th, 1984, September 4th, 1985, January 8th, 1984, October 13th, 1985, and 1985-1986 and never converted into Chuck E. Cheese.
 *It was also the (unknown number) Showbiz location to open.

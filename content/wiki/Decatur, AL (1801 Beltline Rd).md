@@ -7,23 +7,23 @@ tags = [ ]
 contributors = ["MFHALSTON","Scofow76","The 64th Gamer","Stripes","AstridMascotFan2005","Caydenpedia"]
 gallery = []
 +++
-[\2](\1))]]**1801 Beltline Road, Store #906** is a Chuck E. Cheese's that opened on December 26, 2005 with a [\2](\1), which is still open to this day.
+)]]**1801 Beltline Road, Store #906** is a Chuck E. Cheese's that opened on December 26, 2005 with a , which is still open to this day.
 
-##  Stages ## 
+## Stages ##
 
-###  Studio C Cappa (December 2005 - Summer 2012) ### 
+### Studio C Cappa (December 2005 - Summer 2012) ###
 TODO
 
-###  Studio C Beta (Summer 2012 - Present) ### 
+### Studio C Beta (Summer 2012 - Present) ###
 TODO
 
-##  History ## 
+## History ##
 TODO
 
-##  Arcade Machines ## 
+## Arcade Machines ##
 TODO
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !
@@ -47,10 +47,10 @@ TODO
 |
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !
@@ -74,7 +74,7 @@ TODO
 |
 |}
 
-##  Walkarounds ## 
+## Walkarounds ##
 {| class='wikitable'
 |+
 !
@@ -98,5 +98,5 @@ TODO
 |
 |}
 
-##  References ## 
+## References ##
 TODO

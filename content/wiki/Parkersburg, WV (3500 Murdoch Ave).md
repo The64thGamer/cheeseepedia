@@ -8,14 +8,14 @@ contributors = ["ChuckECool","Emcaacme","Midwestretail","Rexburg090","Saan1ty","
 gallery = []
 +++
 **_3500 Murdoch Ave**_, was a corporate Showbiz Pizza Place/Chuck E. Cheese's that opened in 1983 (day and month unknown) and closed in 1998 (day and month unknown), after 15 years in operation. It was in a shopping center. This store would have a unique exterior with a very weird Chuck E. Cheese logo, which would be kept until they closed.
-## History## 
-### Showbiz Pizza Era (1983-Early 1990s)### 
+##History##
+###Showbiz Pizza Era (1983-Early 1990s)###
 This store would host its grand opening in 1983 as the 1st Showbiz Pizza Store in West Virginia, where the store would have the Rock-afire Explosion, featuring the [https://cheeseepedia.org/wiki/Classic_Stage Classic Stage]. Not much is known about Parkersburg as a Showbiz Pizza Place, but they likely had the same features that every Showbiz location had at the time. This would include many arcade games, wood paneling, and a play-place. No images or videos of the Showbiz era have surfaced.
-### CEC Era (Early 1990s-1998)### 
+###CEC Era (Early 1990s-1998)###
 Sometime in the early 1990s, likely 1991 or 1992, Parkersburg would remodel to a Chuck E. Cheese's Pizza, which involved the removal of the Rock-afire Explosion, and the addition of the [https://cheeseepedia.org/wiki/3-Stage 3-Stage]. The exterior sign was replaced with a very weird one. This remodel involved also adding new games, redoing the interior, and getting new fixtures. It is unknown if they would ever receive the [https://cheeseepedia.org/wiki/Phase_2_(1997 Phase 2], or [https://cheeseepedia.org/wiki/Phase_3_(2000) Phase 3] game packages during this store's lifetime.
-### Post-CEC Era (1998-Present)### 
+###Post-CEC Era (1998-Present)###
 After the store closed, it would remain vacant for a short period until it and the shopping center it once inhabited were finally demolished. The former plot of the location is now some other shopping center.
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -32,7 +32,7 @@ After the store closed, it would remain vacant for a short period until it and t
 |1998
 |Only West Virginia location to receive Concept Unification.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -86,6 +86,6 @@ After the store closed, it would remain vacant for a short period until it and t
 |N/A
 |Unknown.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>

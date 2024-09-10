@@ -9,7 +9,7 @@ gallery = []
 +++
 **_Me & My Friends (New Countdown)**_ is an edited version of the the 2017 live show removing the Ticket Splash and redoing the countdown.
 
-##  Live Show Trivia: ## 
+## Live Show Trivia: ##
 
 * The brand new Countdown is 7 minutes long. At the start it showcases 'Me & My Friends' at the top telling people what live will begin once the countdown is over.
 * At the end of every minute Matt Daniel says the amount of time left until the live show. Despite the fact if you just looked at the screen you could obviously tell. 

@@ -7,8 +7,8 @@ tags = [ ]
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++
-{{Generic|image=Famvis6211.png|desc=Family vision 621}}**_Family Vision #621**_ was part of a collection of monthly [[Family Vision]] Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984.
-## Video List## 
+{{Generic|image=Famvis6211.png|desc=Family vision 621}}**_Family Vision #621**_ was part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984.
+##Video List##
 The tape's total length was around 20 minutes.
 {| class='wikitable'
 !Title
@@ -28,4 +28,4 @@ The tape's total length was around 20 minutes.
 |6:00
 |}
 
-##  Gallery ## 
+## Gallery ##

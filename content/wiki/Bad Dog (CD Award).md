@@ -9,11 +9,11 @@ gallery = []
 +++
 **_Bad Dog**_ was a decoration created for Chuck E. Cheese's in _1991_.
 
-##  Production ## 
+## Production ##
 TODO:
 
-##  Design ## 
+## Design ##
 TODO:
 
-##  Gallery ## 
+## Gallery ##
 TODO:

@@ -9,19 +9,19 @@ gallery = ["4b0a08915cbceab3202acedf0b262ad45d933cdcv2","3937e398b779f1e0be8859c
 +++
 {{Animatronic|image=MurrayDbirdThumbnail.png|unitsProduced=40|releasedate=July 14, 1983|finalrelease=July 14, 1983|manufacturer=Creative Engineering}}
 
-**_Click**_ (AKA **_Murray D. Bird**_) was an animatronic produced for [\2](\1) event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
+**_Click**_ (AKA **_Murray D. Bird**_) was an animatronic produced for  event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
 
-The animatronic is a large cuckoo clock with Click (Murray D. Bird) on the inside. The clock is intended to be hung up on the Stage Right wall on [\2](\1) left, with the doors being roughly at the same height as Klunk's head.
-## History## 
-Click seems to have been a late addition to [\2](\1), as the [\2](\1) footage of Klunk from early 1983 doesn't have Click on the stage. 
+The animatronic is a large cuckoo clock with Click (Murray D. Bird) on the inside. The clock is intended to be hung up on the Stage Right wall on  left, with the doors being roughly at the same height as Klunk's head.
+##History##
+Click seems to have been a late addition to , as the  footage of Klunk from early 1983 doesn't have Click on the stage. 
 
-### Prototype### 
+###Prototype###
 An early version of the bird portion of the animatronic was found in the 2010's. This version lacks a mouth movement, meaning possibly Click was not originally meant to speak- or that he was originally deemed too small to need a mouth movement. On the inside of the animatronic 'This is NOT a standard' is written on the latex, meaning it could have also been a visual prototype that was not meant for any production units.<ref name=':0'>https://youtu.be/-ggn55SEbSU</ref>
 
-### Initial Reveal### 
+###Initial Reveal###
 By the time Klunk's first reveal happened to the employees of Creative Engineering during a showtape premiere, the final design for Click would be seen rather than the prototype.<ref>Creative Engineering Premium Video 'Unkle Klunk Reveal Circa 1983'</ref>
 
-## Design## 
+##Design##
 The animatronic is a large cuckoo clock made out of wood, with a fake yellow plastic clock face on its front. This clock has two handles that will rotate in opposite directions when powered on, shaped to look like Klunk's arms. The numbers on the clock are in a different order than usual, and are drawn to resemble other objects alongside its number. Starting from the usual 12th position and going clockwise:
 
 *6 - A hairy hand forming the number 6.
@@ -41,17 +41,17 @@ Click itself is a blue furred bird with yellow neck fur and red hair. They wear 
 
 Despite the perceived thin appearance of the bird from expected angles, the inner bird animatronic fur extends about a foot behind him for his tail. The inside of the bird is formed out of latex and stuffed with plastic wrap, with the fur Velcroed on from the back.
 
-### Prototype Design### 
+###Prototype Design###
 The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.<ref name=':0' />
-## Movements## 
-The clock has one continuous movement of the handles going in opposite directions when plugged in. This isn't affected by any [[data]] signals.
+##Movements##
+The clock has one continuous movement of the handles going in opposite directions when plugged in. This isn't affected by any [data]({{< ref "wiki/data.md" >}}) signals.
 
 It is currently unknown which bits are exactly used for Click's movements. It has been deduced that both are the Top Drawer bits 20 and 36 (1 indexed), but it is unknown which is which.
 
 *Click Door
 *Click Mouth
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:4b0a08915cbceab3202acedf0b262ad45d933cdcv2 00.jpg|Click with the doors open.
 File:3937e398b779f1e0be8859cf083294adc6d69bb5 hq.jpg|A damaged Click with the doors open.
@@ -66,5 +66,5 @@ File:Tumblr ns8m4kTB1O1u65bxno5 1280.jpg|Click latex mold.
 File:Tumblr ns8m4kTB1O1u65bxno6 1280.jpg|Click latex mold.
 </gallery>
 
-## References## 
+##References##
 <references />

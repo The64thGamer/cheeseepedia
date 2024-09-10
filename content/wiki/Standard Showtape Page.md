@@ -26,14 +26,14 @@ For PTT shows, the _Theme_ and _Guest Star_ descriptors in the box will need to 
 
 The image for the info box should use official graphics, video footage from the show, or recordings of the animatronics playing the show. If there is no visual media ever depicting the showtape, do not provide an image.
 
-##  Fixed Version / Rerelease ## 
-A large number of showtapes were sent to stores incorrectly, or needed to be updated before the release of the upcoming shows. These were usually called 'Corrected Version', 'Audio Fix', '2.0', '1.5', '1.01', 'Fixed Version', ect. Despite being listed separately in the [\2](\1) section, they will all link to the same showtape page, but shall be noted in a section below the description like this. Here should describe the problem, which formats were affected, and which were sent this updated copy. Any additional notes and changed made by the update should be noted, alongside its release date. Pictures of the updated version should also be listed in the gallery below.
+## Fixed Version / Rerelease ##
+A large number of showtapes were sent to stores incorrectly, or needed to be updated before the release of the upcoming shows. These were usually called 'Corrected Version', 'Audio Fix', '2.0', '1.5', '1.01', 'Fixed Version', ect. Despite being listed separately in the  section, they will all link to the same showtape page, but shall be noted in a section below the description like this. Here should describe the problem, which formats were affected, and which were sent this updated copy. Any additional notes and changed made by the update should be noted, alongside its release date. Pictures of the updated version should also be listed in the gallery below.
 
 Sometimes this would only be a fix on the floppy disc of Studio C, or changing just the DVD of Studio C. Specifics should be noted. 
 
 Rereleased versions also go here, but **_only**_ if they are identical completely to the original showtape outside of labeling. Any tweaks to the performance or audio/video should instead be put under a new page.
 
-## Show List:## 
+##Show List:##
 The show list should just be a numbered list of the showtape segments in order. Generally these will be labeled as 'Segment #' and 'Song #', but certain formats like newer _Chuck E. Cheese_ shows refer to segments as 'Skits', so those will be used instead. Some showtapes, such as _Showbiz Pizza Place_ tapes and newer _Chuck E. Cheese_ showtapes have official song lists. These will be used for the numbered lists inside the segment header. If a large segment is officially written down as '___ Medley' or  '____ Songs', another sub-list should be created listing the official song titles under it.
 
 Most showtapes don't have official song lists however. The official song names should then be written down. Any skits, which are usually large sections of discussion, gags, or other such intros leading into the segment's medley, should also be labeled. If the intro mainly focuses on introducing the upcoming song, label it as 'Intro Skit'. If there is a gag or main topic throughout the skit, label the skit with a good descriptor, such as 'Pasqually's Joke Skit' or 'Disco Skit'.
@@ -61,15 +61,15 @@ All songs should be linked with a Wikipedia page for the original song. If no Wi
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
 ##[https://en.wikipedia.org/wiki/Swingin%27_(John_Anderson_song) _Song or Skit Name_]
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
-## Lives:## 
-Due to live shows not being ordered in newer discs the same way as normal segments, they are listed separately. Keep in mind that older live shows came on a separate showtape than the main disc, so this is only for live show included inside the showtape. Live shows should link to actual live show pages listed on [\2](\1).
+##Lives:##
+Due to live shows not being ordered in newer discs the same way as normal segments, they are listed separately. Keep in mind that older live shows came on a separate showtape than the main disc, so this is only for live show included inside the showtape. Live shows should link to actual live show pages listed on .
 
 * Live Show Name
 * Live Show Name
 * Live Show Name
 * Live Show Name
 
-##  Showtape Scans / Images: ## 
+## Showtape Scans / Images: ##
 This is a section that should show any images or scans available of the showtape media. This is across all formats of the tape, and if the quality is too low, provide multiple pictures if possible.<gallery>
 Country Helen Reel Front.jpg|Reel Front Scan
 Country Helen Reel Back.jpg|Reel Back Scan
@@ -79,7 +79,7 @@ Country Helen Inner Sleeve Front.jpg|Packaged Paper Front
 Country Helen Inner Sleeve Back.jpg|Packaged Paper Back
 
 </gallery>
-## Trivia:## 
+##Trivia:##
 A section of additional facts about the showtape, its production, its reception, its history, errors in the performance, stores accidentally getting the show or receiving it too early, ect.
 *Trivia Fact
 *Trivia Fact

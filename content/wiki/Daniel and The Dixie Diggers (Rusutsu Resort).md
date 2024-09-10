@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["TheMrMeisterr"]
 gallery = []
 +++
-For more information about the show itself, see [\2](\1)
+For more information about the show itself, see 

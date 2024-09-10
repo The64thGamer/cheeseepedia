@@ -10,7 +10,7 @@ gallery = []
 **_601 Azusa Ave**_ was a _Pizza Time Theatre_ which opened in August 1980 (day unknown) with a Portrait Stage, which is still open to this day.
 
 It is known as the second oldest CEC store in the world.
-## History## 
+##History##
 Covina opened its doors in August 1980 with the Portrait Stage show like every other pre-1981 PTT did. It was also originally a franchised location. In 1981 or 1982, they received a minor remodel involving expanding the store, replacing the logo, and removing the Portrait Stage for the Balcony Stage. On October 22nd, 1984, the location was bought by the corporate along with many other locations.
 
 In either 1989 or 1990, Covina received the 1988 remodel removing the older PTT decor, adding newer decor, and removed the Balcony Stage for Chuck E.'s House Facade.
@@ -22,7 +22,7 @@ Around 1997 or 1998, Covina would receive the so called 'Phase 3' remodel which 
 In 2006-2007, Covina received the 2005 remodel removing older decor, removing the Showroom Walls, Balcony Seating, and relocating the stage.
 
 Currently, as of February 2023, the location still has the 2005 Remodel and the 2-Stage. The location also had the last helicopter lights but were removed in August 2022.
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -49,7 +49,7 @@ Currently, as of February 2023, the location still has the 2005 Remodel and the 
 |Still In Use
 |Second oldest Chuck E. Cheese store.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -95,7 +95,7 @@ Currently, as of February 2023, the location still has the 2005 Remodel and the 
 |N/A
 |In store.
 |}
-## Gallery## 
+##Gallery##
 (W.I.P)
-## Videos## 
+##Videos##
 (W.I.P)

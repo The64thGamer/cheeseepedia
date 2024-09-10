@@ -9,8 +9,8 @@ gallery = []
 +++
 The **Chuck E. Cheese Online Store** is the online store for the Chuck E. Cheese brand, it was launched in July 2020, and currently sells clothing and toys with the CEC characters on it.
 
-##  History ## 
+## History ##
 TODO
 
-##  Gallery ## 
+## Gallery ##
 TODO

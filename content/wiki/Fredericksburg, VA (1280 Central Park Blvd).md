@@ -11,21 +11,21 @@ gallery = []
 
 This location originally opened on September 4, 1999 as a _Chuck E. Cheese's_ with a Studio C Alpha, and then closed on May 29, 2020 because of the COVID-19 Pandemic.
 
-##  History ## 
+## History ##
 Fredericksburg originally opened on September 4th, 1999 with a Studio C Alpha. They would remodel to the 2005 Remodel between 2011 and 2016, as evidenced by Google Street Views from the time period. They would close on May 29th, 2020 because of the COVID-19 Pandemic.
 
 On July 23rd, 2021, they reopened as _Chuck E. Cheese,_ receiving the 2.0 Remodel and a Dance Floor and Video Wall, they were the second store to get the 2021 Model and Video Wall in Virginia, as Manassas got the first (and first 2021 Model Dance Floor and Video Wall overall).
 
 As of October 2022, they are still open.
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Animatronics ## 
+## Animatronics ##
 TODO
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO

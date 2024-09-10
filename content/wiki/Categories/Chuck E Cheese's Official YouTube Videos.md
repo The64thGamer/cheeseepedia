@@ -9,7 +9,7 @@ gallery = []
 +++
 TODO: Finish listing videos. Videos don't need a page unless they're privated or deleted.
 
-## 'Chuck E. Cheese ' Channel Videos## 
+##'Chuck E. Cheese ' Channel Videos##
 {| class='wikitable'
 !Title
 !Day
@@ -39,7 +39,7 @@ TODO: Finish listing videos. Videos don't need a page unless they're privated or
 |
 |
 |}
-## 'Chuck E. Cheese's México' Channel Videos## 
+##'Chuck E. Cheese's México' Channel Videos##
 {| class='wikitable'
 !Title
 !Day
@@ -91,7 +91,7 @@ TODO: Finish listing videos. Videos don't need a page unless they're privated or
 |https://www.youtube.com/watch?v=miQDFb7f8n8
 |}
 
-##  'ChuckECheeseTV' Channel Videos ## 
+## 'ChuckECheeseTV' Channel Videos ##
 {| class='wikitable'
 !Title
 !Day

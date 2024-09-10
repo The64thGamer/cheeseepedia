@@ -19,15 +19,15 @@ gallery = []
 **_Chuck E. Cheese Evergreen 2023 (November 2023)**_ is a updated version of Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2022.
 
 This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
-## Show List:## 
+##Show List:##
 
 #**Intermission 1**
-##[[File:New Graphic.png]] KIDZ BOP Kids-'Cupid'
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) KIDZ BOP Kids-'Cupid'
 #**Skit 1**
 ##Chuck E. & Friends - 'Most Perfect Day'
 ##Chuck E. & Friends - 'Ves El Ratoncito'
 #**Intermission 2**
-##[[File:New Graphic.png]] KIDZ BOP Kids - 'Flowers'
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) KIDZ BOP Kids - 'Flowers'
 ## CEC Silly Songs - 'Unicorn, Unicorn'
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'Cuff It'
@@ -39,7 +39,7 @@ This was created with the idea to play between promotional events. This show fea
 ## Helen Henny - 'Game On!'
 ## Bella B. - 'El Rey Guitarrista'
 # **Intermission 4**
-##[[File:New Graphic.png]] KIDZ POP Kids - 'River'
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) KIDZ POP Kids - 'River'
 #**Skit 4**
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
 #**Intermission 5** 
@@ -60,9 +60,9 @@ This was created with the idea to play between promotional events. This show fea
 ## Chuck E. & Friends - 'I Dare You Not to Laugh'
 ## Chuck E. Cheese - 'Let's Have a Party'
 
-##  Navori Existing Stages Show List: ## 
+## Navori Existing Stages Show List: ##
 
-###  Advertising ### 
+### Advertising ###
 
 # **Ad 1**
 ## [[File:New Graphic.png]] Ecolab
@@ -93,7 +93,7 @@ This was created with the idea to play between promotional events. This show fea
 ## [[File:New Graphic.png]] CEC Birthdays
 ## CEC YouTube & Music Streaming
 
-###  Entertainment ### 
+### Entertainment ###
 
 # [[File:New Graphic.png]] KIDZ BOP Kids- 'About That Time'
 # **Chuck E. & Friends - 'Join the Party**'
@@ -116,9 +116,9 @@ This was created with the idea to play between promotional events. This show fea
 # **Chuck E. Cheese & Helen Henny - 'I Dare You Not to Laugh**'
 # [[File:New Graphic.png]] Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
 
-##  Navori Media Stages Show List: ## 
+## Navori Media Stages Show List: ##
 
-###  Advertising ### 
+### Advertising ###
 
 # **Ad 1**
 ## [[File:New Graphic.png]] Ecolab
@@ -149,7 +149,7 @@ This was created with the idea to play between promotional events. This show fea
 ## [[File:New Graphic.png]] CEC Birthdays
 ## CEC YouTube & Music Streaming
 
-###  Entertainment ### 
+### Entertainment ###
 
 # [[File:New Graphic.png]] KIDZ BOP Kids- 'About That Time'
 # Chuck E. & Friends - 'Join the Party'
@@ -176,7 +176,7 @@ This was created with the idea to play between promotional events. This show fea
 # Kid Cudi - Stars in The Sky
 # Chuck E. Cheese & Friends - Play All You Can Play
 
-## Lives:## 
+##Lives:##
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
@@ -185,5 +185,5 @@ This was created with the idea to play between promotional events. This show fea
 * Chuck E. Cha Cha (Studio C, Weigl)
 * Easy Dance (Studio C, Weigl)
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 TODO

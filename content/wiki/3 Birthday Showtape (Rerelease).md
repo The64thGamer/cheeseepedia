@@ -11,8 +11,8 @@ gallery = ["Rawscan3bdayrerelease.jpg|Label","3bdayreelfront.png|Reel","3bdayree
 |date=July 15, 1988
 |showbizreel=y|length=35:40|image=Rockafire1988thumbnail3bdayreel.png}}
 
-**_3-Birthday Reel (Rerelease)**_ is a 1988 rerelease of the [[3-Birthday Reel]] Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1980.
-## Show List## 
+**_3-Birthday Reel (Rerelease)**_ is a 1988 rerelease of the [3-Birthday Reel]({{< ref "wiki/3-Birthday Reel.md" >}}) Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1980.
+##Show List##
 #**Birthday Show 1**
 ##_Beatles Birthday_
 #**Birthday Show 2**
@@ -23,7 +23,7 @@ gallery = ["Rawscan3bdayrerelease.jpg|Label","3bdayreelfront.png|Reel","3bdayree
 #**Birthday Show 3**
 ##_Sal's Birthday_
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Rawscan3bdayrerelease.jpg|Label Scan
 File:3bdayreelfront.png|Reel Front

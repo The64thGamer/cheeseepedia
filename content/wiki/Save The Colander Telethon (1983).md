@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-The **_Save The Colander Telethon**_ is a video tape sent to ShowBiz Pizza Place stores in February of 1983 by Creative Engineering to pledge their support for the [\2](\1).
+The **_Save The Colander Telethon**_ is a video tape sent to ShowBiz Pizza Place stores in February of 1983 by Creative Engineering to pledge their support for the .
 
 The tape is 1:43:48 long, and mostly contains the telethon segment, while also containing a colander installation tape for the animatronic characters during the event.
 
-##  Summary ## 
+## Summary ##
 
-##  Contents ## 
+## Contents ##
 
 * 00:00 - 'Strain Your Brain'
 * 04:39 - Telethon Introduction by Jeff Howell.

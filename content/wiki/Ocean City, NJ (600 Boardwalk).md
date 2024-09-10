@@ -7,10 +7,10 @@ tags = [ ]
 contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic"]
 gallery = []
 +++
-[\2](\1)
+
 []] **Gillian's Wonderland Pier** is a historic amusement park founded in 1929 by David Gillian, who first came to Ocean City in 1914.  It is located near the beginning of the commercial boardwalk on 6th street. Gillians is generally considered to be an institution of Ocean City, with grand openings and pre-season sales for the location historically having drawn crowds multiple blocks long, and employs many local youths during the summer, and in more recent years, many Eastern European workers.-wikipedia  
 
-## history## 
+##history##
 Gillian started his career in the orchestra at C. Elwood Carpenter's Dance Club (aka The Casino), located over the Moorlyn Theater on the old Boardwalk.  In 1917 he transferred to the Hippodrome pier, where he played with Robin Robinson's Orchestra. The Hippodrome had a movie theatre, vaudeville, dancing and amusements for children.
 
 In October 1927, a fire destroyed the Hippodrome, after which the burned boardwalk was replaced in 1928. In 1930, David Gillian opened a Fun Deck at Plymouth Place and the Boardwalk. The two main attractions were a Ferris wheel and a carousel. The Fun Deck was transformed into a water park (today known as OC Waterpark) after 1987.

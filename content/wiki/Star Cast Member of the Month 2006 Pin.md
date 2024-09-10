@@ -9,9 +9,9 @@ gallery = []
 +++
 A pin given to CEC employees 
 
-##  Aquirement ## 
+## Aquirement ##
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 S-l1600 (25).jpg|Front
 S-l1600 (26).jpg|Back

@@ -9,10 +9,10 @@ gallery = []
 +++
 **The Wink** is an animatronic figure created by Diversied Designs for Chuck E. Cheese's Pizza locations from 1989 to 1992 as a part of Concept Unification, which turned the Rock-Afire Explosion into the Chuck E. Cheese characters. The Wink is an emblem of Chuck E. that is colored gold (red, white, and blue at the Huntsville, Alabama location), and winks at the end of segments / songs. It is in the middle of the Center Stage, on the valence. The Wink is also used on the Road Stage, and there is a version for Cyberamic Stages as well.
 
-##  History ## 
+## History ##
 TODO
 
-##  Movements ## 
+## Movements ##
 The figure features 1 movement in total.
 {| class='wikitable'
 |+
@@ -23,10 +23,10 @@ The figure features 1 movement in total.
 |49
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Stages Used In ## 
+## Stages Used In ##
 
 * 3-Stage: Installed from 1989-1992. 13 left as of October 2022, Tallahassee, Florida has Cyberamic version, West Des Moines, Iowa doesn't have Wink.
 * Road Stage: Installed from 1990-1992. 9 left as of October 2022, some have the Cyberamic version.

@@ -9,12 +9,12 @@ gallery = []
 +++
 **_275 Route 4 West, Store #482**_ is a _Chuck E. Cheese_ in Paramus, New Jersey.
 
-This is the relocation of the [[Paramus (221 South Dr)]] location which opened on October 18th, 1993 and closed in November 2010 with their [[1-Stage]].
+This is the relocation of the [Paramus (221 South Dr)]({{< ref "wiki/Paramus (221 South Dr).md" >}}) location which opened on October 18th, 1993 and closed in November 2010 with their [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
-##  History ## 
-Paramus (275 Route 4 West) opened as a relocation to the [\2](\1) on December 26th, 2011 with a Studio C Beta, 16M; this was the last Studio C store to open in the state in New Jersey. When the store opened, they had the 2010 Update to the [[2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]]. In around the Mid 2010's, this was one of the small handful of locations to test the 'Chuck E Cheese Fun House' from Soft Play; this was removed during the COVID-19 Pandemic (Like with the Skytubes). This was also one of the stores to test the 'Chuck E.'s Express Ordering' Kiosks, this have also since been removed at an unknown point in time. In around 2019, the exterior was repainted alongside the rest of the plaza. As of March 2023, Paramus (275 Route 4 West) still has their Studio C Beta, 16m & 2010 Update.
+## History ##
+Paramus (275 Route 4 West) opened as a relocation to the  on December 26th, 2011 with a Studio C Beta, 16M; this was the last Studio C store to open in the state in New Jersey. When the store opened, they had the 2010 Update to the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}). In around the Mid 2010's, this was one of the small handful of locations to test the 'Chuck E Cheese Fun House' from Soft Play; this was removed during the COVID-19 Pandemic (Like with the Skytubes). This was also one of the stores to test the 'Chuck E.'s Express Ordering' Kiosks, this have also since been removed at an unknown point in time. In around 2019, the exterior was repainted alongside the rest of the plaza. As of March 2023, Paramus (275 Route 4 West) still has their Studio C Beta, 16m & 2010 Update.
 
-##  Stages ## 
+## Stages ##
 When Paramus (275 Route 4 West) opened, they housed a Studio C Beta, 16m (One of three in New Jersey) and was the last Studio C store to open in the state of New Jersey. When the store opened, Chuck has his Avenger outfit. In the Mid-Late 2010's, it would be replaced with the Rockstar outfit. As of March 2023, Paramus (275 Route 4 West) still has their Studio C Beta, 16m.
 {| class='wikitable'
 !Animatronic
@@ -22,32 +22,32 @@ When Paramus (275 Route 4 West) opened, they housed a Studio C Beta, 16m (One of
 !Removed
 !Notes
 |-
-|[[Chuck E. Cheese 16m (Animatronic)]]
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}){< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |December 2011
 |Still In Use
 |One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m).
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
 !Serial Number
 !Whereabouts
 |-
-|[[Chuck E. Cheese 16m (Animatronic)]]
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |2011
 |N/A
 |In Store
 |-
-|[[Pizza Time Clock (Animatronic)]]
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |2011
 |N/A
 |In Store
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 TODO

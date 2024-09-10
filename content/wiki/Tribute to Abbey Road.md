@@ -15,7 +15,7 @@ It features six segments covering a wide variety of songs of different genres, e
 
 This tape also includes three original songs written by members of the production crew.<ref>http://www.showbizpizza.com/review/rae/1982_abbeyroad.html</ref>
 
-##  Show List ## 
+## Show List ##
 
 # **Segment 1**
 ## Elvis Medley
@@ -51,9 +51,9 @@ This tape also includes three original songs written by members of the productio
 ### [https://en.wikipedia.org/wiki/The_End_(Beatles_song) The End]
 ### [https://en.wikipedia.org/wiki/Her_Majesty_(song) Her Majesty]
 
-##  Production ## 
+## Production ##
 
-###  Credits ### 
+### Credits ###
 
 * Creative Engineering / Creative Records - Production Studio
 * Skitzo Noize / The Tropical Cleaners - Instrumentals / vocals
@@ -65,10 +65,10 @@ This tape also includes three original songs written by members of the productio
 * Jeff Howell - Song writer / Background vocalist
 * Kathy Norman - Show programmer
 
-##  Trivia ## 
+## Trivia ##
 
 * This show was the first to feature Shalisa Sloan as the voice of Mitzi. She was only 11-years-old when she got the part.
-* This show was also the first to feature Rick Bailey as a lead vocalist, although not as Beach Bear, but as the Moon in 'Golden Slumbers'. Previously, he had done instrumental work and back-up vocals for the band, but this is his first time singing lead. He would end up replacing Aaron Fechter as the voice of Beach Bear in the following showtape, [[RAE Christmas '82]].
+* This show was also the first to feature Rick Bailey as a lead vocalist, although not as Beach Bear, but as the Moon in 'Golden Slumbers'. Previously, he had done instrumental work and back-up vocals for the band, but this is his first time singing lead. He would end up replacing Aaron Fechter as the voice of Beach Bear in the following showtape, [RAE Christmas '82]({{< ref "wiki/RAE Christmas '82.md" >}}).
 * This is Aaron Fechter's final show recording any new vocals for Beach Bear. Anytime his Beach Bear voice is heard following this tape, it's through reused segments.
 * 'Louisiana' is an original song by the voice of Fatz, Burt 'Sal' Wilson.
 * 'Child of the' Rock is an original song by the voice of Dook, Duke Chauppetta.

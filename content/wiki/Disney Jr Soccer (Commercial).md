@@ -14,10 +14,10 @@ gallery = []
 
 This a commercial Chuck E. Cheese's sponsorship for the Disney Jr. channel created in 2011.
 
-## Summary## 
+##Summary##
 The commercial is reused footage reuses footage from 'Soccer' with Chuck E. voicing over it explaining how Disney Jr. encourages children to exercise.
 
-## Production## 
+##Production##
 Distributor - Zambrelli LLC
 
 Music - JSM Music

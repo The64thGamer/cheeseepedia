@@ -11,9 +11,9 @@ gallery = []
 
 It is located in the Montgomery Crossing shopping center. It is also the only PTT in the state of New Mexico.
 
-## History## 
+##History##
 Albuquerque (Wyoming) opened its doors in October 1981 with a Balcony Stage show and was originally a franchised-owned store. Unfortunately, very little documentation exists back in the Pizza Time Theatre era. Like many other Pizza Time Theatre locations, it had the typical PTT layout seen in many other stores across the United States. In the Late 80's, they removed the Balcony Stage for the Chuck E.'s House Facade stage. In the Early 90's, Albuquerque (Wyoming) received the 1988 remodel (Phase 2) and received a new exterior, removed all PTT decor for newer decor, and an exterior change. Around the Late 90's, Albuquerque (Wyoming) received the Phase 3 remodel which removed some early 90's decor and added new decor, SkyTubes and also an exterior change. On August 16th, 1999, the location was sold to the corporate. Albuquerque (Wyoming) remained this way until sometime in 2007-2008 when they received the 2005 Remodel (Phase 4) which involved removing the Showroom Walls, balcony Seating, received a major exterior change, and also removing some older 90's decor and relocating the stage. In 2017, the exterior received a paint job. Albuquerque (Wyoming) would remain like this until September 2022 when they received 2.0 and removed the 2-Stage for the Dance Floor and Video Wall. As of January 2023, they still have the 2.0 Remodel and the Dance Floor.
-## Stages## 
+##Stages##
 Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunately, there are hardly any photos or videos to exist of Albuquerque (Wyoming) with the Balcony Stage, C-Stage, or as a PTT in general.
 
 In the Late 80's, Albuquerque (Wyoming) received Chuck E.'s House Facade, removing the Balcony Stage.
@@ -47,7 +47,7 @@ In September 2022, Albuquerque (Wyoming) removed the 2-Stage for a 2021 Model Da
 |Still in use
 |2021 Model.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -94,10 +94,10 @@ In September 2022, Albuquerque (Wyoming) removed the 2-Stage for a 2021 Model Da
 |N/A
 |Destroyed
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link

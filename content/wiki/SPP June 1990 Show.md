@@ -11,9 +11,9 @@ gallery = []
 
 **_SPP June 1990 Show**_ is one of the last few showtapes released for _Showbiz Pizza Place's_ hosting the _Rock-afire Explosion_.
 
-For some stores, this was the last tape used before _Concept Unification_ would start at their location. Each tape sent after [[SPP Christmas '89 / Wave Bday]] would become increasingly more rare as stores would convert to _3-Stages._ It was also the final showtape to feature any new _Rock-afire Explosion_ material from CEI as Friends, and Rock & Roll Tribute were the last segments they've released. In September 1990 they released Best Of 1 out of 5 in a series of compilation tapes, _Showbiz Pizza Place_ locations would play them until then.
+For some stores, this was the last tape used before _Concept Unification_ would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to _3-Stages._ It was also the final showtape to feature any new _Rock-afire Explosion_ material from CEI as Friends, and Rock & Roll Tribute were the last segments they've released. In September 1990 they released Best Of 1 out of 5 in a series of compilation tapes, _Showbiz Pizza Place_ locations would play them until then.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 6 Minute Countdown
@@ -21,7 +21,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Nick_of_Time_(song) Nick Of Time]
 ## Cyberstar Intro
-# **[[File:New Graphic.png]]Segment 1**
+# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 1**
 ## Friends
 # **Intermission 2**
 ## 6 Minute Countdown
@@ -29,7 +29,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Do_You_Remember%3F_(Phil_Collins_song) Do You Remember]
 ## Cyberstar Intro
-# **[[File:New Graphic.png]]Segment 2**
+# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})Segment 2**
 ## Rock & Roll Tribute
 # **Intermission 3**
 ## 6 Minute Countdown
@@ -56,7 +56,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### [https://en.wikipedia.org/wiki/Your_Baby_Never_Looked_Good_in_Blue Your Baby Never Looked Good In Blue]
 ## Cyberstar Intro
 # **Segment 4**
-## [\2](\1)
+## 
 ### [https://en.wikipedia.org/wiki/Wild,_Wild_West_(The_Escape_Club_song) Wild, Wild West]
 ### [https://en.wikipedia.org/wiki/The_Wild_Wild_West The Wild Wild West Theme Song]
 ### [https://en.wikipedia.org/wiki/Bonanza_(song) Bonanza]
@@ -75,8 +75,8 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 # **Video Break 2**
 ## [https://en.wikipedia.org/wiki/This_Side_Up_(David_Benoit_album) David Benoit - Linus And Lucy]
 
-##  Trivia: ## 
+## Trivia: ##
 
-* The video segment [https://en.wikipedia.org/wiki/Odyssey_Productions CGI Animated Graphics] was also in [[SPP Concept Unification Premiere]] along with other videos from past CEC/SPP showtapes.
+* The video segment [https://en.wikipedia.org/wiki/Odyssey_Productions CGI Animated Graphics] was also in [SPP Concept Unification Premiere]({{< ref "wiki/SPP Concept Unification Premiere.md" >}}) along with other videos from past CEC/SPP showtapes.
 
-* This show recycles two segments from it's previous showtape [[SPP April 1990 Show]].
+* This show recycles two segments from it's previous showtape [SPP April 1990 Show]({{< ref "wiki/SPP April 1990 Show.md" >}}).

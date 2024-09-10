@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["RockAfire Alex","Rexburg090","ChuckECool","69.124.126.253","CorrectorMan","ThatBoiCydalan","Bowling for Cheese","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","ShowbizMidwest","BurgersNuggs445","Icantbelieveitsnotbutter","Whitehall C.E.C Official","The 64th Gamer","AstridMascotFan2005","CECMentor"]
 gallery = []
 +++
-[\2](\1)
+
 **1000 Lehigh Valley Mall** was a Showbiz Pizza place that opened in 1984 with a Rock Afire Explosion this location is still open today with its show.
 
-This location has one of the only [\2](\1)<nowiki/>s.
+This location has one of the only <nowiki/>s.
 
-##  History ## 
-This location opened in 1984 as a Showbiz Pizza Place and housed the Rock Afire Explosion. it had everything a Showbiz had to offer. pizza, games, and a show. the location made the decision to close in 1989 before [[Concept Unification]]. explanation: [https://www.mcall.com/news/mc-xpm-1989-10-15-2721153-story.html]. The location reopened with the retrofitted Rock Afire, Munches Make Believe Band. In late 2010 the store remodeled to house the new [[Concept Unification 1-Stage]]. As of today the location is still in operation with the CU-1 stage and does not plan to get the 2.0 remodel until 2024.
+## History ##
+This location opened in 1984 as a Showbiz Pizza Place and housed the Rock Afire Explosion. it had everything a Showbiz had to offer. pizza, games, and a show. the location made the decision to close in 1989 before [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). explanation: [https://www.mcall.com/news/mc-xpm-1989-10-15-2721153-story.html]. The location reopened with the retrofitted Rock Afire, Munches Make Believe Band. In late 2010 the store remodeled to house the new [Concept Unification 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}). As of today the location is still in operation with the CU-1 stage and does not plan to get the 2.0 remodel until 2024.
 
-##  Stages ## 
+## Stages ##
 This location opened with the Rock Afire Explosion 3 stage, they got Concept Unification sometime between 1989 and 1990. In 2010 they remodeled to have the Concept Unification 1-Stage. Chuck is currently wearing the avenger shirt and jeans, and the rest of the band has the usual cosmetics minus Helen loosing her flower in 2018.
 {| class='wikitable'
 |+
@@ -40,7 +40,7 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |1 of 3 stages like this
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -84,7 +84,7 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |Unknown
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -123,6 +123,5 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |
 |}
 
-##  Gallery ## 
-[\2](\1)
-[\2](\1)
+## Gallery ##
+

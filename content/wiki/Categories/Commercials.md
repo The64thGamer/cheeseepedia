@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["The 64th Gamer","72.222.233.165","Chouts1","BurgersNuggs445","47.223.110.135","ShowbizMidwest","71.15.155.152","RedaCEC","2600:1700:1820:64C0:EC73:B4F9:F575:FDA0","66.250.190.44","66.250.190.23"]
 gallery = []
 +++
-##  Pizza Time Theatre ## 
+## Pizza Time Theatre ##
 
-####  1982 #### 
+#### 1982 ####
 
 * Smile America - 60s (Commercial)
 * Smile America - 30s #1 (Commercial)
@@ -44,7 +44,7 @@ gallery = []
 
 * Sing-a-Long (Commercial)
 
-##  Showbiz Pizza Place ## 
+## Showbiz Pizza Place ##
 **Unknown Year**
 
 * SPP Guatamala #1 (Commercial)
@@ -89,7 +89,7 @@ gallery = []
 * Happy Endings (Commercial)
 * Monkey Biz (Commercial)
 
-##  Chuck E. Cheese ## 
+## Chuck E. Cheese ##
 **Unknown Year**
 
 * You and Your Dog (Commercial)
@@ -161,7 +161,7 @@ gallery = []
 * Win (Commercial)
 * Laugh - New Jersey (Commercial)
 
-####  1994 #### 
+#### 1994 ####
 
 * Boring Pizza Place (Commercial)
 
@@ -178,7 +178,7 @@ gallery = []
 * We Have A Ball #1 (Commercial)
 * We Have A Ball #2 (Commercial)
 
-####  2000 #### 
+#### 2000 ####
 
 * Cool Place to Be a Kid (Commercial)
 * Soccer - Short (Commercial)
@@ -191,7 +191,7 @@ gallery = []
 * The Cool Chuck Way (Commercial)
 * Cool Cool Cool Chucks (Commercial)
 
-####  2002 #### 
+#### 2002 ####
 
 * The Chuck Zone (Commercial)
 * Practice (Commercial)
@@ -268,7 +268,7 @@ gallery = []
 * Wham Bam (Commercial)
 * Pow Wow (Commercial)
 
-####  2010 #### 
+#### 2010 ####
 
 * Blast Online - Online Ticket Blaster Game (Commercial)
 * Playhouse Disney Promo (Commercial)
@@ -306,10 +306,10 @@ gallery = []
 * Every Kid's A Winner #2 (Commercial)
 * Every Kid's A Winner - Shoe (Commercial)
 
-####  2014 #### 
+#### 2014 ####
 
 * Birthday Rockstar (Commercial)
 
-####  2015 #### 
+#### 2015 ####
 
 * Do the Chuckie (Commercial)

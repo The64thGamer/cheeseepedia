@@ -7,6 +7,6 @@ tags = [ ]
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-[\2](\1)
 
-[[Cyberstar 2000 Software]]
+
+[Cyberstar 2000 Software]({{< ref "wiki/Cyberstar 2000 Software.md" >}})

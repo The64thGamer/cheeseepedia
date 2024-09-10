@@ -9,10 +9,10 @@ gallery = []
 +++
 **_16090 S Harlem Ave**_ was a Showbiz Pizza that opened on January 31, 1989 with a Rocker Stage, which is still open to this day.
 
-## History## 
+##History##
 TODO: History
 
-## Stages## 
+##Stages##
 Originally, the store opened with a Rocker Stage, which they had until the Mid 1990's until their first remodel. In the Mid 1990's, it was converted into a 2-Stage.
 {| class='wikitable'
 |+
@@ -29,36 +29,36 @@ Originally, the store opened with a Rocker Stage, which they had until the Mid 1
 |Still In Use
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Unknown
 |In store.
 |-
-|[\2](\1)
+|
 |Unknown
 |In store.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |In store.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |In store.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |In store.
 |}
 
-## Gallery## 
+##Gallery##
 (WIP)
 
-## Videos## 
+##Videos##
 (WIP)

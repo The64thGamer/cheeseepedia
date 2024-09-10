@@ -7,25 +7,25 @@ tags = [ ]
 contributors = ["Cheeseclassic"]
 gallery = ["MiddleTowns"]
 +++
-{{Stub}}{{NoSources}}{{Generic|image=CEC EXTERIOR BEFORE CLOSURE.png|desc=Exterior, 2017}}**_8 Orange Plaza Lane**_ was a _Chuck E. Cheese's_ that opened on December 17, 2002 with a [[Studio C Beta]] and closed on October 22, 2017 due to leasing issues.
+{{Stub}}{{NoSources}}{{Generic|image=CEC EXTERIOR BEFORE CLOSURE.png|desc=Exterior, 2017}}**_8 Orange Plaza Lane**_ was a _Chuck E. Cheese's_ that opened on December 17, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}){< ref "wiki/Studio C Beta.md" >}}) and closed on October 22, 2017 due to leasing issues.
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[[Studio C Beta]]
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
 |December 2001
 |Still in Use
 |Only 32M Beta in New Jersey
 |}
 
-## History## 
+##History##
 TODO
 
-##  Arcade Machines ## 
+## Arcade Machines ##
 Not all Arcade Machines present in this store have been identified.
 * Marshmellow Spinning Cup
 * Horse Ride
@@ -37,7 +37,7 @@ Not all Arcade Machines present in this store have been identified.
 * Johnny Apple Speed
 * Photo Ride With Chuck E Cheese
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -55,10 +55,10 @@ Not all Arcade Machines present in this store have been identified.
 |
 |
 |}
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:MiddleTowns Robot.jpg
 </gallery>
 
-##  Animatronics ## 
+## Animatronics ##
 TODO

@@ -10,9 +10,9 @@ gallery = []
 **2301 West Wellesley Avenue** also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983 with Balcony Stage and relocated in March 2000 with a 2-Stage.
 
 It was located in the Shadle Center but it is unknown what CEC was right next to.
-## History## 
+##History##
 Spokane opened on April 14th, 1983 as part of the center it was in and was franchised. Spokane received the [https://cheeseepedia.org/wiki/CEC_1988_Remodel 1988 Remodel] in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [https://cheeseepedia.org/wiki/2-Stage 2-Stage], the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
-## Stages## 
+##Stages##
 {| class='wikitable'
 |+
 !Stage
@@ -31,7 +31,7 @@ Spokane opened on April 14th, 1983 as part of the center it was in and was franc
 |1993/1994
 |March 2000
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -54,9 +54,9 @@ Spokane opened on April 14th, 1983 as part of the center it was in and was franc
 |N/A
 |Still in Use
 |}
-## Gallery## 
+##Gallery##
 TODO
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link

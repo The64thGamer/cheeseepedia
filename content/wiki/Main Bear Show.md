@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Letterstolooneybird"]
 gallery = []
 +++
-##  Segments ## 
+## Segments ##
 Segment 1
 
 # Hillbilly Rock

@@ -13,7 +13,7 @@ gallery = []
 
 **Top 10 Hits of 1985** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1985.
 
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##_Music Goes Round and Round_
 #**Segment 2**

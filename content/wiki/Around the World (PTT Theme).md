@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["JamesLemony"]
 gallery = ["Backdrop.jpg|Backdrop","FloorPiece.jpg|Floor","FrontAssemble.jpg|Front","Clouds.jpg|Cloud"]
 +++
-The **_Pizza Time Theatre Around the World theme**_ was a temporary alteration to the stage and character designs for use in the 1980 [[Around the World with Madam Oink]] showtape.
+The **_Pizza Time Theatre Around the World theme**_ was a temporary alteration to the stage and character designs for use in the 1980 [Around the World with Madam Oink]({{< ref "wiki/Around the World with Madam Oink.md" >}}) showtape.
 
-## Stage Design## 
+##Stage Design##
 **Munch's Stage**
 
 *Normal red velour curtains.
@@ -26,10 +26,10 @@ The **_Pizza Time Theatre Around the World theme**_ was a temporary alteration t
 
 *Normal red velour curtains.
 
-## Character Design## 
+##Character Design##
 
 Characters retained normal outfits. 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Backdrop.jpg|Backdrop assembly.
 File:FloorPiece.jpg|Floor piece assembly.

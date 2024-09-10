@@ -17,13 +17,13 @@ gallery = []
 
 **_Chuck E.'s Tall Tales**_ was a show that released in January of 1996 at Chuck E. Cheese's locations. 
 
-## Show List ## 
-#**[[File:New Graphic.png]]** **Segment 1**
+##Show List ##
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
 ##'Little Red Riding Hood'
-#**[[File:New Graphic.png]]** **Intermission 1**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1**
 ##Little Nemo
 ##America's Funniest Pets
-#**[[File:New Graphic.png]]** **Segment 2**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
 ##'The Ugly Duckling'
 #**[[File:New Graphic.png]]** **Intermission 2**
 ##Princess and The Goblin
@@ -47,6 +47,6 @@ gallery = []
 ##'Outro'
 
 
-## Trivia:## 
+##Trivia:##
 *One of the animations in Techno Dreams was also used in Birthday Star 1995
 *The phone number on the Tuneland promo leads is now a menu for an adult website<ref>https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg</ref>

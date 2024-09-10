@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Documentor","172.58.159.105","Ceclife13","Dame868"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Show82017StudioC|Studio C DVD
 Show52018cecstage.png|CEC Stage DVD

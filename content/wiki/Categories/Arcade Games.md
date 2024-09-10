@@ -7,18 +7,18 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","CEC Denver","BurgersNuggs445","JamesLemony","ThatBoiCydalan","CacoQueen"]
 gallery = []
 +++
-##  Pizza Time Theatre ## 
+## Pizza Time Theatre ##
 
-* [[Chuck E. Cheese's Circus Time]]
+* [Chuck E. Cheese's Circus Time]({{< ref "wiki/Chuck E Cheese's Circus Time.md" >}})
 * Pizza Time Theatre Musical Ferris Wheel
 * Chuck E Cheese's Astrology
 
-##  Showbiz Pizza Place ## 
+## Showbiz Pizza Place ##
 
 * Billy Bob's Musical Ferris Wheel
 * Billy Bob Carousel
 
-##  Chuck E Cheese's ## 
+## Chuck E Cheese's ##
 
 * Chuck E Cheese's Super Shot
 * Tower of Power

@@ -9,9 +9,9 @@ gallery = ["1","1","1","1","1","1","1","1","1","Chrome","Chrome","Chrome"]
 +++
 {{Generic|image=1_ab83d691e11c33fcedde2afe73edb2de.jpg|desc=Binder First Page}}
 
-The **_ShowBiz Pizza Place Equipment Listing Manual**_ is a lost manual detailing various prices and details on furniture, fixtures, and materials used at [[ShowBiz Pizza Place]] locations.
+The **_ShowBiz Pizza Place Equipment Listing Manual**_ is a lost manual detailing various prices and details on furniture, fixtures, and materials used at [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) locations.
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:1 ab83d691e11c33fcedde2afe73edb2de (3).jpg|Binder Side
 File:1 ab83d691e11c33fcedde2afe73edb2de (2).jpg|Binder Front

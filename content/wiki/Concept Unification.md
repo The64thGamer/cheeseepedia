@@ -9,5 +9,5 @@ gallery = []
 +++
 **Concept Unification** was the process used by Showbiz Pizza Time, Inc. to replace the Rock-Afire Explosion with the Chuck E. Cheese characters. It lasted from 1989 until 1992, and introduced Munch's Make Believe Band, which is still in use by the company in the present day.
 
-##  History ## 
+## History ##
 TODO

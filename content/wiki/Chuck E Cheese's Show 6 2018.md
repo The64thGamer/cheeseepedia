@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Documentor"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Show62018studioc.jpg|Studio C DVD
 Show62018cecs.png|CEC Stage DVD

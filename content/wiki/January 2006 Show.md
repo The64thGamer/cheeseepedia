@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/january-2006-show/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 BusinessCard_2021-08-09_182439.jpg|Studio C Floppy Scan
 </gallery>

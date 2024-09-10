@@ -7,16 +7,16 @@ tags = [ ]
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_Winchester Game Room Rules Sign**_ first appeared at the Chuck E. Cheese's Pizza Time Theatre on [\2](\1) from May 1977 to potentially the 1981 remodel.
+The **_Winchester Game Room Rules Sign**_ first appeared at the Chuck E. Cheese's Pizza Time Theatre on  from May 1977 to potentially the 1981 remodel.
 
-##  Production ## 
+## Production ##
 Similarly to the restroom sign, the game room rules sign has very little information on the production of it, however, we can assume it was conceptualized as early as the production of 'The Big Cheese' floorplan. If not, it is most likely it was produced from the timespan of January 1977 to early May 1977, shortly before the store would open. 
 
-##  Usage ## 
+## Usage ##
 The only known usage of the sign is at 370 South Winchester Boulevard, with no other units known to be shipped to Chuck E. Cheese's Pizza Time Theatre units meaning it was most likely store specific. 
 
-##  Design ## 
+## Design ##
 The design of this sign varies from other known signs at the store, instead showcasing a black background with red text layered on top of a second background, this time in the color orange; the larger white text placed in between the 2 backgrounds reads 'NO' with smaller red text presumably reading 'NO SMOKING OR EATING IN GAME ROOM'
 
-##  Gallery ## 
+## Gallery ##
 TBD

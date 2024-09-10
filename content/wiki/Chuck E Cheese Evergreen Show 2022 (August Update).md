@@ -11,10 +11,10 @@ gallery = []
 
 This was created with the idea to play between promotional events. Runs from August 29, 2022 to September 18, 2022. This song features 8 Songs with the automatic live being Me & My Friends.
 
-## Show List:## 
+##Show List:##
 #**Intermission 1**
-##[[File:New Graphic.png]] Safety Message
-##[[File:New Graphic.png]] Food & Drink Combos
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Safety Message
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Food & Drink Combos
 ##CEC YouTube & Music Streaming
 ##“It’s Chuck E!”
 #**Skit 1**
@@ -26,7 +26,7 @@ This was created with the idea to play between promotional events. Runs from Aug
 #**Skit 2**
 ##Chuck E. Cheese - “Crochet All Day”
 #**Intermission 3**
-##[[File:New Graphic.png]] Dippin’ Dots
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Dippin’ Dots
 ##[[File:New Graphic.png]] Food & Drink Combos
 ##CEC YouTube & Music Streaming
 ##“Oh Helen Henny!”
@@ -61,18 +61,18 @@ This was created with the idea to play between promotional events. Runs from Aug
 ##KIDZ BOP Kids - “Goosebumps'
 #**Skit 8**
 ##Chuck E. & Mike Wolf - “El Rey Guitarrista”
-## Lives:## 
+##Lives:##
 *Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 *Me & My Friends (3stage, Cyberamic, Studio C, Weigl)
 *Chuck E. Cha Cha (Studio C, Weigl)
 *Easy Dance (Studio C, Weigl)
-##  Showtape Scans / Images: ## 
+## Showtape Scans / Images: ##
 <gallery>
 EvergreenAugust.png|3-Stage DVD
 </gallery>
-## Trivia:## 
-*'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from [\2](\1), 'Dream Big' is originally from [\2](\1), 'Play All You Can Play' is originally from [\2](\1), 'Jasper's Country Classic' is originally from [\2](\1), 'Keep Drummin_ is originally from [\2](\1), 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from [\2](\1).
+##Trivia:##
+*'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from , 'Dream Big' is originally from , 'Play All You Can Play' is originally from , 'Jasper's Country Classic' is originally from , 'Keep Drummin_ is originally from , 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from .
 
-*The Studio C Programming for Keep Drummin' was redone but only for the Animatronic. The programming for the lights was kept the same from [\2](\1).
+*The Studio C Programming for Keep Drummin' was redone but only for the Animatronic. The programming for the lights was kept the same from .
 *John Batiste - “FREEDOM” was replaced with 'Kid Cudi - “Stars In The Sky”

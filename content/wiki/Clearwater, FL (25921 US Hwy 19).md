@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["ChuckfeldStan","CorrectorMan","ShowbizMidwest","ThatBoiCydalan","TuxChuckisNo1","AstridMascotFan2005"]
 gallery = []
 +++
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Decor ## 
+## Decor ##
 
-###  Former ### 
+### Former ###
 
 * 1998 Chuck E. Pop Arts (3 Big)
 * 1998 Chuck E. Portrait

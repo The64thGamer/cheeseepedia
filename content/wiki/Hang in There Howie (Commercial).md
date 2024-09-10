@@ -9,13 +9,13 @@ gallery = []
 +++
 TODO - More details
 
-##  Cast ## 
+## Cast ##
 
 * Unknown child actor as Howie
-* [[John Widelock]] as Chuck E. Cheese
+* [John Widelock]({{< ref "wiki/John Widelock.md" >}}) as Chuck E. Cheese
 
-##  Notes ## 
+## Notes ##
 
-* Features the [[1982 Articulated Chuck Walkaround]].
-* Some shots are also used in the [\2](\1) commercial.
+* Features the [1982 Articulated Chuck Walkaround]({{< ref "wiki/1982 Articulated Chuck Walkaround.md" >}}).
+* Some shots are also used in the  commercial.
 * Chuck E. doesn't blink or wink during this commercial.

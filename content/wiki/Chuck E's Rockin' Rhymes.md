@@ -12,7 +12,7 @@ gallery = []
 |external = https://archive.org/download/studio-c-april-2001-upgrade/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_173558.jpg|Studio C Floppy Scan
 </gallery>

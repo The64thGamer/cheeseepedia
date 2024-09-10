@@ -7,11 +7,11 @@ tags = [ ]
 contributors = ["CorrectorMan"]
 gallery = ["Meriden's"]
 +++
-[\2](\1)
-**_533 S Broad St**_ was a _Chuck E. Cheese's_ that opened on January 30, 2002 and closed on May 19, 2013 with a [\2](\1).
 
-##  Stage ## 
-Meriden's only stage was a [\2](\1). Around 2009-2011, the curtains were disabled, and by 2011, Chuck received the Avenger shirt. The stage would remain like this until closure in 2013.
+**_533 S Broad St**_ was a _Chuck E. Cheese's_ that opened on January 30, 2002 and closed on May 19, 2013 with a .
+
+## Stage ##
+Meriden's only stage was a . Around 2009-2011, the curtains were disabled, and by 2011, Chuck received the Avenger shirt. The stage would remain like this until closure in 2013.
 {| class='wikitable'
 |+
 !Stage
@@ -19,16 +19,16 @@ Meriden's only stage was a [\2](\1). Around 2009-2011, the curtains were disable
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |January 2002
 |May 2013
-|Bot sent to [[Naples, FL (1000 Immokalee Rd)]] after closure.
+|Bot sent to [Naples, FL (1000 Immokalee Rd)]({{< ref "wiki/Naples, FL (1000 Immokalee Rd).md" >}}){< ref "wiki/Naples, FL (1000 Immokalee Rd).md" >}}) after closure.
 |}
 
-##  History ## 
-Meriden opened on January 30, 2002 with the [\2](\1) remodel and a Studio C Beta. Unfortunately, not much is known about this location, other than a few videos that were taken throughout Meriden's history. Meriden was left untouched until May 19, 2013, when they would permanently close due to leasing issues. The building sat vacant for a short period until it was gutted and was split up between a GMC shop and PetSmart. As of July 2023, they are still there.
+## History ##
+Meriden opened on January 30, 2002 with the  remodel and a Studio C Beta. Unfortunately, not much is known about this location, other than a few videos that were taken throughout Meriden's history. Meriden was left untouched until May 19, 2013, when they would permanently close due to leasing issues. The building sat vacant for a short period until it was gutted and was split up between a GMC shop and PetSmart. As of July 2023, they are still there.
 
-##  Videos and Footage ## 
+## Videos and Footage ##
 {| class='wikitable'
 |+
 !Link
@@ -68,23 +68,23 @@ Meriden opened on January 30, 2002 with the [\2](\1) remodel and a Studio C Beta
 |May 19, 2013
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Meriden's beta.jpg|Meriden's Studio C Beta.
 </gallery>
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[[Chuck E. Cheese 32m (Animatronic)]]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |140 (R&D 5000)
-|Sent to [[Naples, FL (1000 Immokalee Rd)]]
+|Sent to [Naples, FL (1000 Immokalee Rd)]({{< ref "wiki/Naples, FL (1000 Immokalee Rd).md" >}})
 |-
-|[[Pizza Time Clock (Animatronic)]]
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Unknown
 |}

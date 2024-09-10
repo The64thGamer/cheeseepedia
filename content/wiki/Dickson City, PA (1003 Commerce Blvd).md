@@ -9,10 +9,10 @@ gallery = []
 +++
 **1003 Commerce Blvd** is a Chuck E Cheese location that opened in 1999 with a Studio C Alpha this location is still open today with its show.
 
-##  History ## 
+## History ##
 This location opened in 1999 as a Chuck E Cheeses with a Studio C Alpha it has everything a Chuck E Cheese had to offer. pizza, games, and a show. The location got Phase 5 in 2014 but kept their show so everything has Phase 5. Art, exterior, signs, etc. They may plan to remove the show sometime this year.
 
-##  Stages ## 
+## Stages ##
 This location opened with a Studio C Alpha and currently has his Avenger outfit. this location still has the show in use to this day.
 {| class='wikitable'
 |+
@@ -27,7 +27,7 @@ This location opened with a Studio C Alpha and currently has his Avenger outfit.
 |Still In Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -43,7 +43,7 @@ This location opened with a Studio C Alpha and currently has his Avenger outfit.
 |In Store
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -67,5 +67,5 @@ This location opened with a Studio C Alpha and currently has his Avenger outfit.
 |
 |}
 
-##  Photos ## 
+## Photos ##
 To Be Added

@@ -7,18 +7,18 @@ tags = [ ]
 contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
 gallery = ["I"]
 +++
-[\2](\1)
-**_155 Sunrise Hwy**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998 and is still open today with a [[Studio C Alpha]].
 
-##  Stage ## 
-West Islip opened with a [[Studio C Alpha]]. The stage went through some minor changes throughout the years, like the curtains being disabled, the change of outfits, and the bot ceasing all programming.
+**_155 Sunrise Hwy**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998 and is still open today with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}).
 
-##  History ## 
-West Islip opened on December 10, 1998 with the [\2](\1) remodel and a [[Studio C Alpha]]. Unfortunately, not much information on West Islip exists from the 1992 remodel era.
+## Stage ##
+West Islip opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}). The stage went through some minor changes throughout the years, like the curtains being disabled, the change of outfits, and the bot ceasing all programming.
+
+## History ##
+West Islip opened on December 10, 1998 with the  remodel and a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). Unfortunately, not much information on West Islip exists from the 1992 remodel era.
 
 In the late 2000s, West Islip received the 2005 update to the CEC 2005 Remodel Program, removing all 1990s decor, removing the showroom walls, and added purple walls. The exterior strangely remained the same. The exterior was changed in 2016 due to a minor plaza remodel. West Islip remains like this today.
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -32,31 +32,31 @@ In the late 2000s, West Islip received the 2005 update to the CEC 2005 Remodel P
 |January 29, 2016
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:I don't know what to name this..jpg|Before 2016
 </gallery>
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[[Chuck E. Cheese 32m (Animatronic)]]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |019 (NO R&D)
 |Currently in use
 |-
-|[[Bird (Animatronic)]]
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
 |Currently in use
 |-
-|[[Pizza Time Clock (Animatronic)]]
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Currently in use
 |-
-|[[Pizza Phone (Animatronic)]]
+|[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
 |Currently in use
 |}

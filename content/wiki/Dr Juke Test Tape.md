@@ -18,15 +18,15 @@ gallery = []
 }}**Fall 2012** is the Fall show released September 1, 2012, featuring six new songs. and two new lives.
 
 This was created to play from September 1, 2012 - December 2012.
-## Show List:## 
-#[[File:New Graphic.png]] **Segment 1**
+##Show List:##
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 1**
 ##'Don't You Forget About Me'
 ##'You Spin Me Round'
-#[[File:New Graphic.png]] **Intermission 1**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 1**
 ##The Aquabats - 'Burger Rain'
 ##Say Cheese It's Funner
 ##Chillout 1
-#[[File:New Graphic.png]] **Segment 2**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 2**
 ##'Life Is A Highway'
 ##'Sparks Fly'
 #[[File:New Graphic.png]] **Intermission 2**
@@ -47,16 +47,16 @@ This was created to play from September 1, 2012 - December 2012.
 ##Veggietales - 'The League of Incredible Vegetables'
 ##Rescue Bots - 'Rock Slide'
 ##Chillout 4
-## Lives:## 
+##Lives:##
 *Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Cupid Shuffle Live (3stage, Cyberamic, Studio C,Weigl)
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 aasdasdasdaddddd.png|Studio C DVD
 </gallery>
-## Trivia:## 
+##Trivia:##
 *This was the first showtape to feature [https://en.wikipedia.org/wiki/Jaret_Reddick Jared Reddick] as the voice of Chuck E. Cheese.
 *All the live shows for Fall 2012 still use Duncan's voice.
 *A Duncan cut of this show exists but is currently lost media and is unknown if corp has a copy of the Duncan cut of Fall 2012.

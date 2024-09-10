@@ -9,49 +9,49 @@ gallery = []
 +++
 {{Stub}}**_7020 Stockton Blvd**_ also known as 'Florin' was the fourth _Pizza Time Theatre_ location that opened on August 14, 1979.
 
-##  History ## 
-The store was the second location to open with [\2](\1).
+## History ##
+The store was the second location to open with .
 
 The store would open on August 14, 1979 at the _Florin Mall._
 
 The location would remain open until sometime in 1985 when the store would be closed and the show's fate was unknown.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Code
 !Whereabouts
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown.
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Waving Flags (Cyberamic)]]
+|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |}
 
-##  Videos ## 
+## Videos ##
 At the moment, only one video exists of this location.
 {| class='wikitable'
 !Links

@@ -14,7 +14,7 @@ gallery = []
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 **_Chuck E. Cheese Spring Show 2024**_ was a spring show released on April 1, 2024, and was run until April 28. It features a variety of songs released from 2014-2023. The show features 14 songs with the automatic live being Chuck E. Strut.
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1**
 
 Chuck E. Cheese - 'Off Road with Chuck E. Episode 2' (Through April 7)
@@ -91,8 +91,8 @@ Chuck E. & Friends - 'Water Buffalo'
 
 Kidz Bop - 'Barbie World'
 
-##  Lives: ## 
+## Lives: ##
 
-* [[Chuck E. Cheese Birthday Extravaganza]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Cheese Birthday Extravaganza Spanish]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Strut]] (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Strut]({{< ref "wiki/Chuck E Strut.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)

@@ -11,12 +11,12 @@ gallery = []
 
 **_2700 US-22, Store #542**_ is to be a new _Chuck E. Cheese_ location opening in 2023.
 
-##  History ## 
+## History ##
 This location was a former Petco that relocated in 2019. Shortly, after a Spirit Halloween occupied the space for 2 Halloween seasons.
 
 In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese is coming.
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description

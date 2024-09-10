@@ -11,18 +11,18 @@ gallery = []
 
 This show features 6 Songs with 4 of which being new and a live show called Chuck E.'s Beach Party Bash.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## Safety Message
 ## Ants Ants Ants - 'Blue'
 ## KIDZ BOP Kidz - 'Friends'
-# [[File:New Graphic.png]]**Skit 1** 
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Skit 1** 
 ## Chuck E. & Friends - 'Song of Summer'
 # **Intermission 2**
 ## KIDZ BOP Kids - 'Uptown Funk'
 ## Tails of Friendship - 'Ronnie the Unicorn'
-# [[File:New Graphic.png]]**Skit 2**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Skit 2**
 ## Chuck E. Cheese - 'Let's Be Friends'
 # **Intermission 3**
 ## Safety Message
@@ -32,7 +32,7 @@ This show features 6 Songs with 4 of which being new and a live show called Chuc
 ## Helen Henny -  'Disco Dancing Dinosaur Party'
 # **Intermission 4**
 ## Milo Manheim - 'We Own the Summer'
-## [[File:New Graphic.png]]Summer Jokes From Pasqually
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Summer Jokes From Pasqually
 ## KIDZ BOP Kids - 'Cake By The Ocean'
 # [[File:New Graphic.png]]**Skit 4**
 ## Jasper T. Jowls - 'Dog Days of Summer'
@@ -48,7 +48,7 @@ This show features 6 Songs with 4 of which being new and a live show called Chuc
 # [[File:New Graphic.png]]**Skit 6**
 ## Chuck E. & Helen - 'I Dare You Not To Laugh'
 
-## Live Shows:## 
+##Live Shows:##
 #Birthday Show (Cyberamic, Studio C, Weigi)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigi)
 #Birthday Show (Live at Home) (Cyberamic, Studio C,Weigi)

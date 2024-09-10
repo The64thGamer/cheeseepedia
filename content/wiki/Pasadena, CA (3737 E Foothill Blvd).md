@@ -8,32 +8,32 @@ contributors = ["Cheeseclassic","TheChuckECheeseGuy","Chez","Snowbobsuperboi","T
 gallery = []
 +++
 **_Pasadena, CA (3737 E Foothill Blvd)**_ is a Chuck E. Cheese’s that opened on 
-October 14, 1993 with a [[2-Stage]], and is still open to this day with the [[CEC 2005 Remodel Program]]. This store was a relocation of the [[Pasadena, CA (3765 E Foothill Blvd)]] location, which opened on December 15, 1982 with a [[Classic Stage]], and closed in October 1993 with a [[3-Stage]], shortly before this location opening.
+October 14, 1993 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}){< ref "wiki/2-Stage.md" >}}), and is still open to this day with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). This store was a relocation of the [Pasadena, CA (3765 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}) location, which opened on December 15, 1982 with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}), and closed in October 1993 with a [3-Stage]({{< ref "wiki/3-Stage.md" >}}), shortly before this location opening.
 
-## Stage## 
+##Stage##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[[2-Stage]]
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |October 1993
 |In Store
 |One of Many Installed in California
 |}
 
-## History## 
+##History##
 TODO
 
-## Arcade Machines## 
+##Arcade Machines##
 TODO
 
-## Videos## 
+##Videos##
 TODO
 
-## Gallery## 
+##Gallery##
 TODO
 
-## Animatronics## 
+##Animatronics##
 TODO

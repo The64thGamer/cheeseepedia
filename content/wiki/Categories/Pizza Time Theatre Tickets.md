@@ -7,11 +7,11 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-###  Unknown Year ### 
+### Unknown Year ###
 
-* [[NTC One 'Big-C' Point Ticket (Natural White)]]
-* [[NTC One 'Big-C' Point Ticket (Grey)]]
-* [[NTC One 'Big-C' Point Ticket (Yellow)]]
-* [[GMS One 'Big-C' Point Ticket (Natural White)]]
-* [[NTC Landscape One 'Big-C' Point Ticket (Natural White)]]
-* [[GTC Big C Points Skee Ball Ticket (Natural White)]]
+* [NTC One 'Big-C' Point Ticket (Natural White)]({{< ref "wiki/NTC One 'Big-C' Point Ticket (Natural White).md" >}})
+* [NTC One 'Big-C' Point Ticket (Grey)]({{< ref "wiki/NTC One 'Big-C' Point Ticket (Grey).md" >}})
+* [NTC One 'Big-C' Point Ticket (Yellow)]({{< ref "wiki/NTC One 'Big-C' Point Ticket (Yellow).md" >}})
+* [GMS One 'Big-C' Point Ticket (Natural White)]({{< ref "wiki/GMS One 'Big-C' Point Ticket (Natural White).md" >}})
+* [NTC Landscape One 'Big-C' Point Ticket (Natural White)]({{< ref "wiki/NTC Landscape One 'Big-C' Point Ticket (Natural White).md" >}})
+* [GTC Big C Points Skee Ball Ticket (Natural White)]({{< ref "wiki/GTC Big C Points Skee Ball Ticket (Natural White).md" >}})

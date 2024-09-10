@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 2021-08-09_180323.jpg|Studio C Floppy Disk
 asdasdasdasd.jpg|Studio C DVD

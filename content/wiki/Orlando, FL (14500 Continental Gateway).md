@@ -9,7 +9,7 @@ gallery = ["Funspotprerelease1.png|Promotional","Funspot","Funspot"]
 +++
 {{Generic|image=Holidayinnarcademoment.png|desc=Exterior (2023)}}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Funspotprerelease1.png|Promotional Photo
 File:Funspot prerelease 2.png|Promotional Photo

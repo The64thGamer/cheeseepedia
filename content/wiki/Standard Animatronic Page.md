@@ -11,27 +11,27 @@ gallery = ["Studio"]
  (really) ROUGH DRAFT, DO NOT USE PAGE
 The **_Animatronic name / identifier goes here**_ was a an Animatronic produced for, or by (Pizza Time Theatre, Creative Engineering, Garner Holt, etc.) in _insert year._
 
-## History## 
+##History##
 Detailed history of the animatronic's conceptualization and release.
 
-### Revision History### 
+###Revision History###
 Each revision is explained and listed under this section.
 
-#### 4698#### 
+####4698####
 'Chuck E.'s eyes were modified to be larger.'
 
-## Appearance## 
+##Appearance##
 Description of the character's appearance. Every variation in appearance should be listed under this section in sub-heading 2. 
 
-#### 'Black Widow' Tux#### 
+####'Black Widow' Tux####
 'The original figure's outfit was comprised of a tuxedo with a cummerbund that resembled the back end of a Black Widow spider, with the outfit later being dubbed as such.'
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Studio C Design.jpg
 </gallery>
 
-## Parts## 
+##Parts##
 This section is a part identification list. Each part will be listed with it's respective manufacturer, part number, and official website for purchase.<tabber>
 |-|Cylinders=
 {{#tag:tabber|
@@ -67,10 +67,10 @@ Example2=
  }}
 </tabber>
 
-## Parts Gallery## 
+##Parts Gallery##
 Contains photos of the parts listed above.<gallery>
 File:Cecjobs.png
 </gallery>
 
-## References## 
+##References##
 <references />

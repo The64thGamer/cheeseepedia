@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Letterstolooneybird"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 ss1 3198.png
 </gallery>

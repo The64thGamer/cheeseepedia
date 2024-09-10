@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["FileFickle","Lelmaster","Documentor","BigCtheDataFinder"]
 gallery = ["crash.jpg|Crash"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:crash.jpg|Crash
 </gallery>

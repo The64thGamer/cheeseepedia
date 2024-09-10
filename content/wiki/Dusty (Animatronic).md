@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["BurgersNuggs445","Rexburg090"]
 gallery = []
 +++
-Dusty is the sidekick to [\2](\1), who is described as a mechanical dog-like device that sniffs out new data for the Awesome Adventure Machine's main computer.
+Dusty is the sidekick to , who is described as a mechanical dog-like device that sniffs out new data for the Awesome Adventure Machine's main computer.
 
-##  Design ## 
+## Design ##
 Dusty is a basic handheld duster vacuum with googly eyes, feet, and a tail. It's eyes and tail would move freely when in motion.
 
-##  Movements ## 
+## Movements ##
 {| class='wikitable'
 |+
 !Movement
@@ -22,6 +22,6 @@ Dusty is a basic handheld duster vacuum with googly eyes, feet, and a tail. It's
 |Sway Right
 |}
 
-##  Trivia ## 
+## Trivia ##
 
 * Dusty's eyes are whiffle balls with googly eyes on top.

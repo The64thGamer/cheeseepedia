@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Gallery## 
+##Gallery##
 <gallery>
 t manor.jpg
 </gallery>

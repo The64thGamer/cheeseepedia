@@ -9,12 +9,12 @@ gallery = ["24r23r23r23r.jpg|'Gina'","V2424vrrv.jpg|'Patricia'","2rv4b4t2btb.jpg
 +++
 {{Generic|image=b4yb4y5b4y5byb5yb2.png|desc=Unmarked Name Tag}}
 The **_CEC Employee Red Chuck Name Tag - Engraved**_ is a name tag given to employees during the 1990's.
-## Engraved Names## 
+##Engraved Names##
 The currently known names engraved into the tags:
 *Gina
 *Patricia
 *Jessica
-## Gallery## 
+##Gallery##
 <gallery>
 File:24r23r23r23r.jpg|'Gina' Name Tag
 File:V2424vrrv.jpg|'Patricia' Name Tag

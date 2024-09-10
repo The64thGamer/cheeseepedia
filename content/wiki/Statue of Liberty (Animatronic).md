@@ -9,11 +9,11 @@ gallery = ["Libertyhead1.png|Cosmetic","Libertyhead2.png|Cosmetic","Libertyhead3
 +++
 {{Animatronic|unitsProduced=170|releasedate=1986|manufacturer=Creative Presentations, Creative Engineering, ShowBiz Pizza Place|image=statueshowbizpic.png}}
 
-The **_Statue of Liberty**_ was a retrofit of [\2](\1), which was used in stores up until [[Concept Unification]] completed in 1992.<ref>https://web.archive.org/web/20240827175450/https://www.ebay.com/itm/256617734801?var=&widget_ver=artemis&media=COPY</ref><ref>https://www.showbizpizza.com/rae/characters/liberty.html</ref>
+The **_Statue of Liberty**_ was a retrofit of , which was used in stores up until [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) completed in 1992.<ref>https://web.archive.org/web/20240827175450/https://www.ebay.com/itm/256617734801?var=&widget_ver=artemis&media=COPY</ref><ref>https://www.showbizpizza.com/rae/characters/liberty.html</ref>
 
-170 units would be produced at the time for all ShowBiz stores, used as a seasonal retrofit in the Summer. The animatronic would be used for the [[SPP Happy B-day Liberty]], [[SPP Liberty '87]], [[CEI Liberty '87]], and [[SPP Liberty Wave Cyber]] showtapes. Rolfe's backdrop would also be retrofitted to match the ShowBiz Campground sky, alongside a US styled banner.<ref>https://youtu.be/PZ-zOdZIi08</ref>
+170 units would be produced at the time for all ShowBiz stores, used as a seasonal retrofit in the Summer. The animatronic would be used for the [SPP Happy B-day Liberty]({{< ref "wiki/SPP Happy B-day Liberty.md" >}}){< ref "wiki/SPP Happy B-day Liberty.md" >}}), [SPP Liberty '87]({{< ref "wiki/SPP Liberty '87.md" >}}), [CEI Liberty '87]({{< ref "wiki/CEI Liberty '87.md" >}}), and [SPP Liberty Wave Cyber]({{< ref "wiki/SPP Liberty Wave Cyber.md" >}}) showtapes. Rolfe's backdrop would also be retrofitted to match the ShowBiz Campground sky, alongside a US styled banner.<ref>https://youtu.be/PZ-zOdZIi08</ref>
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Libertyhead1.png|Cosmetic Head (2024)
 File:Libertyhead2.png|Cosmetic Head (2024)
@@ -24,14 +24,14 @@ File:Libertyhead6.png|Cosmetic Head (2024)
 File:Libertyonstagemoment.png|Statue of Liberty (Unknown Year)
 </gallery>
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 !Link
 !Description
 !Filming Date
 |-
 |[https://www.youtube.com/watch?v=P2QLs_PNqGc link]
-|Liberty at the [[Murray, UT (4425 State St)]] store, playing [[SPP Happy B-day Liberty]].
+|Liberty at the [Murray, UT (4425 State St)]({{< ref "wiki/Murray, UT (4425 State St).md" >}}) store, playing [SPP Happy B-day Liberty]({{< ref "wiki/SPP Happy B-day Liberty.md" >}}).
 |1986
 |-
 |[https://youtu.be/PZ-zOdZIi08 link]

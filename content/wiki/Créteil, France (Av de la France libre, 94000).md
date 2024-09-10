@@ -9,40 +9,40 @@ gallery = []
 +++
 **Av. de la France libre** was a Chuck E. Cheese Pizza Time Theatre that opened April 5, 1984 with a Balcony Stage, which closed between 1984 and 1986. This was the only location in France.
 
-##  History ## 
+## History ##
 There is basically no information on this location, other than that it was the only location in France.
 
-##  Stages ## 
+## Stages ##
 This store opened with a Balcony Stage, as all other Pizza Time Theatres did. It is unknown what cabaret characters they had, as there are no pictures that have been found.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-

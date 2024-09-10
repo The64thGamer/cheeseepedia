@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-[[bbs.cecentertainment.com]]
+[bbs.cecentertainment.com]({{< ref "wiki/bbscecentertainmentcom.md" >}})

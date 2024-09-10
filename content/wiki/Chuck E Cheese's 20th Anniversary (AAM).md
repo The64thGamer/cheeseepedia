@@ -10,15 +10,15 @@ gallery = []
 {{Showtape
 |image=Aamshowscreen.jpg|date=April 1, 1997|laseraam=y}}
 
-The **_Chuck E Cheese's 20th Anniversary Show (AAM Version)**_ was a modified version of the [[Chuck E Cheese's 20th Anniversary]] fit specifically for the [[Awesome Adventure Machine]] stage, releasing April 1st, 1997.
+The **_Chuck E Cheese's 20th Anniversary Show (AAM Version)**_ was a modified version of the [Chuck E Cheese's 20th Anniversary]({{< ref "wiki/Chuck E Cheese's 20th Anniversary.md" >}}) fit specifically for the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) stage, releasing April 1st, 1997.
 
-## Show List:## 
-#[[File:New Graphic.png]] **Segment 1**
+##Show List:##
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 1**
 ##Dolby Surround Trailer 
 ##Whoomp! (There It Is)
-#[[File:New Graphic.png]] **Intermission 1**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 1**
 ##The Worry Song
-#[[File:New Graphic.png]] **Segment 2**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 2**
 ##Dolby Surround Trailer 
 ##Don't Hurry To Worry
 #[[File:New Graphic.png]] **Segment 3**

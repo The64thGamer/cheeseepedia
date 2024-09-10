@@ -10,7 +10,7 @@ gallery = []
 **_Halloween Boo-Tacular 2023**_ is the Fall show released on October 2, 2023.
 This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from October 2, 2023 - October 31, 2023. This show features 7 songs with the automatic live being Haunted House Party.
 
-##  Show List: ## 
+## Show List: ##
 # ** Intermission 1 **
 ## Boo-Tacular Bumper feat. Chuck E. & Helen
 ## KIDZ BOP - 'This is Halloween'

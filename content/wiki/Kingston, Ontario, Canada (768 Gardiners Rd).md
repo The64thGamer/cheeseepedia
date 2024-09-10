@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["47.17.236.200","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005"]
 gallery = []
 +++
-**768 Gardiners Rd** is was a Chuck E. Cheese's that opened on January 1, 2006 with a [[Studio C Cappa]]. This location closed on September 2, 2015. This store was located in RIO CAN.
+**768 Gardiners Rd** is was a Chuck E. Cheese's that opened on January 1, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). This location closed on September 2, 2015. This store was located in RIO CAN.

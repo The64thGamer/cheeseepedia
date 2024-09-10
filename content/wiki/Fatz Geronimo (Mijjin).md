@@ -9,22 +9,22 @@ gallery = ["Mijjin","FatzToyland1.png","FatzToyland2.png","Mampato","Fatz"]
 +++
 {{Animatronic|image=Mijjin Fatz.png|releasedate=1992|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Fatz Geronimo Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [[Mijins]] show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the [[New Rock-Afire Explosion]] in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+The **_Fatz Geronimo Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [Mijins]({{< ref "wiki/Mijins.md" >}}){< ref "wiki/Mijins.md" >}}) show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-## History## 
-The character was first produced for the [[Mijins]] show in 1992. 
+##History##
+The character was first produced for the [Mijins]({{< ref "wiki/Mijins.md" >}}) show in 1992. 
 
-This character was later produced in 1993 for the [[New Rock-Afire Explosion]] show. 
+This character was later produced in 1993 for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) show. 
 
-The character's mech was changed to the standard Mijjin mech in 1993 when the [[New Rock-Afire Explosion]] show was made.
+The character's mech was changed to the standard Mijjin mech in 1993 when the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}) show was made.
 
-## Design## 
-This bot is a standard Mijin mech, the mech has brown eye pieces. The bot is the Fatz Geronimo Character from the [\2](\1) in the smaller Mijjin style, sporting the classic Gold tuxedo, The bowtie is made with a Sparkly Rainbow fabric with Black dots. The same fabric was used for Mitzi's Dress.  
+##Design##
+This bot is a standard Mijin mech, the mech has brown eye pieces. The bot is the Fatz Geronimo Character from the  in the smaller Mijjin style, sporting the classic Gold tuxedo, The bowtie is made with a Sparkly Rainbow fabric with Black dots. The same fabric was used for Mitzi's Dress.  
 
-#### Toyland#### 
+####Toyland####
 The bot is wearing a different tuxedo, featuring Multicolored Cats, and 4 buttons on the front.
 
-## Movements## 
+##Movements##
 All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 {| class='wikitable'
 |+Top Drawer
@@ -110,7 +110,7 @@ All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 |Lids Open
 |}
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:Mijjin Fatz.png
 File:FatzToyland1.png
@@ -119,5 +119,5 @@ File:Mampato Fatz.png
 File:Fatz Toyland Fabric.png
 </gallery>
 
-## References## 
+##References##
 <references />

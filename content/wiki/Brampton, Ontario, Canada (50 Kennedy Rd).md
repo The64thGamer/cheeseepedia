@@ -7,11 +7,11 @@ tags = [ ]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_50 Kennedy Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a [\2](\1) and closed in May 1991 (day unknown) with [[Chuck E.'s House Facade]].
+**_50 Kennedy Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a  and closed in May 1991 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-## History## 
+##History##
 TODO
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -28,45 +28,45 @@ TODO
 |May 1991
 |One of the 4 installed in Canada.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Character
 !Manufacturing Date
 !Status
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Chuck E. Cheese (Cyberamic)]]
+|[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Waving Flags (Cyberamic)]]
+|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Applause Board (Cyberamic)]]
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Drum Board (Cyberamic)]]
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |}

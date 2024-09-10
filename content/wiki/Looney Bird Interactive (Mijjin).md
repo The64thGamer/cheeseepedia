@@ -11,17 +11,17 @@ gallery = ["Marvelously","Main","Backup"]
 
 The **_Looney Bird Interactive Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the Marvelously Interactive Animation show in 1998
 
-##  History ## 
+## History ##
 This character was produced in 1998 for the Marvelously Interactive Animation show.
 
 It is unknown where CEI sourced the mech for the bot used on the Marvelously Interactive Animation show, but it's possibly a Billy Bob.
 
 The backup Looney Bird uses a Lite stage Billy Bob mech
 
-##  Design ## 
-This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the [\2](\1) in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
+## Design ##
+This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the  in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
 
-##  Movements ## 
+## Movements ##
 All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 
 Unlike the Looney Bird Labratory bot, this bot has all standard movements.
@@ -111,12 +111,12 @@ This character is suspected to run off of NRAE Mitzi bits.
 |Lids Open
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Marvelously interactive animation.gif
 File:Main Looney.jpg
 File:Backup looney.jpg
 </gallery>
 
-##  References ## 
+## References ##
 <references />

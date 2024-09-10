@@ -11,9 +11,9 @@ gallery = []
 
 Chuck E. Cheese KIDZ BOP Nightly Takeover is the night summer show released July 8, 2024.
 
-This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuck E. Cheese. This showtape features 0 programmed CEC songs. This show runs from 6pm to closing, the [[Chuck E. Cheese Summer Show 2024 Part 2]] will play outside the timeframe for this show. 
+This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuck E. Cheese. This showtape features 0 programmed CEC songs. This show runs from 6pm to closing, the [Chuck E. Cheese Summer Show 2024 Part 2]({{< ref "wiki/Chuck E Cheese Summer Show 2024 Part 2.md" >}}) will play outside the timeframe for this show. 
 
-##  Show List: ## 
+## Show List: ##
 
 # KIDZ BOP Kids - 'Havana' 
 # KIDZ BOP Kids - 'Uptown Funk' 
@@ -47,10 +47,10 @@ This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuc
 # KIDZ BOP Kids - 'Padam Padam' 
 # Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
 
-##  Lives: ## 
+## Lives: ##
 
-* [[Chuck E. Cheese Birthday Extravaganza]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Cheese Birthday Extravaganza Spanish]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Me & My Friends (New Countdown)]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Strut]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Bop]] (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Strut]({{< ref "wiki/Chuck E Strut.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Bop]({{< ref "wiki/Chuck E Bop.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)

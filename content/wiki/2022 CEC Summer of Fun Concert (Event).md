@@ -7,16 +7,16 @@ tags = [ ]
 contributors = ["Documentor","Mousester","The 64th Gamer","Himitsu"]
 gallery = []
 +++
-[\2](\1)
+
 
 **_Chuck E. Cheese Summer of Fun Concert**_ was an event that performed at 5 states originally. Runs around 24 minutes. 
 
 It would be a mix of live and pre recorded audio with the costumes preforming various CEC Songs. With someone named Jessi being an actor on the stage who spoke to Chuck and his gang (minus Pasqually)
 
-##  Summary: ## 
+## Summary: ##
 With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put on a show to entertain the guests using a mix of live shows and normal shows. After the show is over they would play various a mix of live show songs such as 'Happy & U Know It' and licensed songs such as 'Watch Me (Whip/Nae Nae)'. The main point of this concert was to tell the public that the walkarounds are coming back to stores after a year and two months. 
 
-##  Touring Locations ## 
+## Touring Locations ##
 
 * June 5: Pier 60 Park, Clearwater, FL @ 10am, 1pm & 3pm
 * June 12: Cumberland Park, Nashville, TN @ 10am, 1pm & 3pm
@@ -24,16 +24,16 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 * June 27: Piedmont Park Greystone, Atlanta, GA @ 10am, 1pm & 3pm 
 * July 3: Klyde Warren Park, Dallas, TX @ 10am & 1pm
 
-##  Show Lineup: ## 
+## Show Lineup: ##
 **Note:** Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
 
-# [[File:New Graphic.png]] **Dialogue**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Dialogue**
 ## Introduction for Jessi, Chuck E. and 'DJ Munch'
 # **Song**
 ## Beach Party Bash
-# [[File:New Graphic.png]] **Dialogue**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Dialogue**
 ## Thanking DJ Munch, Jessi getting wanting to see 'Song of Summer' preformed then getting disappointed it's not happening yet, Introduction for Helen & Jasper. 
-# [[File:New Graphic.png]] **Song**
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Song**
 ## Play All You Can Play (Concert Remix)
 # [[File:New Graphic.png]] **Dialogue**
 ## Jessi asking about 'Song of Summer' again and then making weird noises. 
@@ -52,7 +52,7 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 # [[File:New Graphic.png]] **Dialogue**
 ## Thanks for being here! (While Song of Summer instrumental is playing)
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -72,7 +72,7 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 |-
 |}
 No footage exists of the Atlanta, GA Concert.
-##  Trivia: ## 
+## Trivia: ##
 
 * Play All You Can Play replaces Chucks vocals with helens during his 'Solo' and then replaces Munch's vocals with Helens during his 'Solo'
 * Dog Days of Summer removes the rest of backing vocals and has Helen be the only backup singer and also sings some of Jaspers lines.

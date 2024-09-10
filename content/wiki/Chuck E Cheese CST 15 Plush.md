@@ -8,23 +8,23 @@ contributors = ["ToadEatSock"]
 gallery = []
 +++
 The Chuck E. Cheese CST 15' Plush was a handcrafted plush made by California Stuffed Toys produced for Pizza Time Theatre, Inc  in the early 1980s.
-## Production## 
+##Production##
 California Stuffed Toys was the second manufacturer for Pizza Time Theatre plush items. This plush along with others in its set had a limited production time only lasting for about a year and have become quite scarce.
-### Set### 
+###Set###
 This plush was released in a set that contained other characters and in other sizes including:
 
-*[[Chuck E. Cheese 9' CST Plush]]
-*[[Chuck E. Cheese 15' CST Alternate Plush]]
-*[[Jasper T. Jowls 9' CST Plush]]
-*[[Jasper T. Jowls 15' CST Plush]]
-*[[Mr. Munch 9' CST Plush]]
-*[[Mr. Munch 15' CST Plush]]
+*[Chuck E. Cheese 9' CST Plush]({{< ref "wiki/Chuck E Cheese 9' CST Plush.md" >}})
+*[Chuck E. Cheese 15' CST Alternate Plush]({{< ref "wiki/Chuck E Cheese 15' CST Alternate Plush.md" >}})
+*[Jasper T. Jowls 9' CST Plush]({{< ref "wiki/Jasper T Jowls 9' CST Plush.md" >}})
+*[Jasper T. Jowls 15' CST Plush]({{< ref "wiki/Jasper T Jowls 15' CST Plush.md" >}})
+*[Mr. Munch 9' CST Plush]({{< ref "wiki/Mr Munch 9' CST Plush.md" >}})
+*[Mr. Munch 15' CST Plush]({{< ref "wiki/Mr Munch 15' CST Plush.md" >}})
 
 Puppets of the 15' Plush also exist
 
-*[[Chuck E. Cheese 9' CST Hand Puppet]]
-*[[Chuck E. Cheese 9' CST Alternate Hand Puppet]]
-*[[Jasper T. Jowls CST Hand Puppet]]
-*[[Mr. Munch 9' CST Hand Puppet]]
-## Design## 
+*[Chuck E. Cheese 9' CST Hand Puppet]({{< ref "wiki/Chuck E Cheese 9' CST Hand Puppet.md" >}})
+*[Chuck E. Cheese 9' CST Alternate Hand Puppet]({{< ref "wiki/Chuck E Cheese 9' CST Alternate Hand Puppet.md" >}})
+*[Jasper T. Jowls CST Hand Puppet]({{< ref "wiki/Jasper T Jowls CST Hand Puppet.md" >}})
+*[Mr. Munch 9' CST Hand Puppet]({{< ref "wiki/Mr Munch 9' CST Hand Puppet.md" >}})
+##Design##
 <references />

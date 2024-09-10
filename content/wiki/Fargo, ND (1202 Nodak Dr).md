@@ -9,19 +9,19 @@ gallery = []
 +++
 {{Generic|image=Fargothumbnail.png|desc=Location Exterior, ???}}
 
-**_1202 Nodak Dr**_ was a _Chuck E. Cheese’s_ that opened on February 8, 1984 as a franchised _ShowBiz Pizza Place_ with a [[Rock afire Explosion]].
-## Stages## 
+**_1202 Nodak Dr**_ was a _Chuck E. Cheese’s_ that opened on February 8, 1984 as a franchised _ShowBiz Pizza Place_ with a [Rock afire Explosion]({{< ref "wiki/Rock afire Explosion.md" >}}).
+##Stages##
 Orem opened with the Rock afire Explosion in 1984. Unfortunately, there are no photos or videos to exist of Orem with the Rock afire, or as a ShowBiz in general. 
 
-In the 1990s, Fargo received [[Concept Unification]], converting the Rock afire into Munch’s Make Believe Band.
+In the 1990s, Fargo received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
 
-## Videos## 
+##Videos##
  TODO: Videos
 
-##  Gallery ## 
+## Gallery ##
  TODO: Gallery
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Character
@@ -77,4 +77,4 @@ In the 1990s, Fargo received [[Concept Unification]], converting the Rock afire 
 |Unknown/Destroyed
 |}
 
-## References## 
+##References##

@@ -7,6 +7,6 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-###  Unknown Year ### 
+### Unknown Year ###
 
-* [[Wonderful Winter at Chuck E. Cheese's (Unknown PA Location)]]
+* [Wonderful Winter at Chuck E. Cheese's (Unknown PA Location)]({{< ref "wiki/Wonderful Winter at Chuck E Cheese's (Unknown PA Location).md" >}})

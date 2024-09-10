@@ -11,7 +11,7 @@ gallery = []
 
 In a timespan between 1980 and 2000, the Hard Luck Bears have been installed at 9 theme parks around the world with the first installation being Carowinds in Charlotte, NC (a relocation of the original show seen at IAAPA). The final, new Hard Luck Bears show produced was installed in 1983 for Mundo Magico in Santiago, Chile. The last currently operating show was at Fantasilandia, Chile (Mundo Magico's show relocated) under the name 'Show De Osos,' but has since been retrofitted to become “The Robotoons”, and their original cosmetics and body shells have been destroyed as of 2020. Gooney Bird's mechanism was put in storage along with his mask, being the only character that wasn't retrofitted with the others. As of 2021, the second ever Hard Luck Bears installation at Knoebels in Elysburg, PA still has the majority of bots and props in storage or around the park, with the characters of Pete and Repeat Thornsberry currently on display in the park museum with corresponding props and general show signage. In Italy, there were 2 HLB shows called 'Orsi Show', and the other is currently unknown but sold in 1980. Italia In Miniatura's show (2nd Italy Show) was located in Italia In Miniatura, then for a very short time it moved to Gardaland. They had an unique showtape in Italian.
 
-##  Contents ## 
+## Contents ##
 
 * 1Summary
 * 2Locations
@@ -20,10 +20,10 @@ In a timespan between 1980 and 2000, the Hard Luck Bears have been installed at 
 * 5Gallery
 * 6References
 
-##  Summary ## 
+## Summary ##
 'This is the debut year for the Hard Luck Bears as they begin their tour of the world with their dear sweet mother, Mama Granbags, spreading their own interpretation of 'culture' and decency. In this hilarious first performance our bears tend to stretch the definition of country music to include lovers of rock and classical styles in their mischievous antics behind Mama's back.' - Entertainment 1980 Brochure
 
-##  Locations ## 
+## Locations ##
 The show was installed in numerous theme parks around the world between 1980 and the late 90s. The documented places are:
 
 * Carowinds in Charlotte, NC (May 1980 - 90's?; Space occupied by 'Boo Blasters on Boo Hill')
@@ -38,7 +38,7 @@ The show was installed in numerous theme parks around the world between 1980 and
 * Italia in Miniatura in Provincia di Rimini, Italy (1982-1993/94) (Bought by and sent to Gardaland Park for Summer 1994) 
 * An Unknown Theme Park in Italy (1980 - ???) (Text info in Newspaper)
 
-##  Characters ## 
+## Characters ##
 
 * Billy Wilbur - A bear who played the guitar and would later become the Rock-afire's Billy Bob. Voiced by Aaron Fechter
 * Billy Bill - A bear who played the piano. He used the same mechanics as Fats Gorilla. Voiced by Burt Wilson
@@ -49,7 +49,7 @@ The show was installed in numerous theme parks around the world between 1980 and
 * Mama Granbags - The mother of Billy Wilbur, Billy Bill, Billy Boy, and Billy Bob. She was located on Stage Right.
 * Gooney Bird - A bird hiding in a wooden barrel who would later become the Rock-afire's Looney Bird. He was located on Stage Right. Voiced by Aaron Fechter
 
-##  Trivia ## 
+## Trivia ##
 
 * This show seems to be very similar to Disney's Country Bear Jamboree.
 * The opening theme sung by Mama Granbags was parodied by Uncle Klunk (sung by Jeff Howell) in the first Uncle Klunk Abombination showtape (1983).

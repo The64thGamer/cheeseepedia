@@ -17,8 +17,8 @@ gallery = []
 
 **_The Chuck E. Cheese Christmas Special**_ was a show that released in December of 1995 at Chuck E. Cheese's locations. 
 
-## Show List ## 
-#**[[File:New Graphic.png]]** **Segment 1**
+##Show List ##
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
 ##'Jingle Bells'
 ##'Deck The Halls'
 ##'We Wish You A Happy New Year'
@@ -26,10 +26,10 @@ gallery = []
 ##'On This Day of Christmas'
 ##'Up On The Rooftop'
 ##'Jingle Bells'
-#**[[File:New Graphic.png]]** **Intermission 1**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1**
 ##'Good King Wenceslas'
 ##'Jingle Bells'
-#**[[File:New Graphic.png]]** **Segment 2**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
 ##'Holly Jolly Christmas'
 ##'Toyland'
 ##'Run Run Rudolph'
@@ -57,7 +57,7 @@ gallery = []
 ##'Deck The Halls'
 
 
-## Trivia:## 
+##Trivia:##
 *The intermission music in this show comes from an album called _Contempory Christmas_ by Ron Roy.
 *Santa's voice actor, Ron Schneider, previously voiced Mr Mouth.
 *'Run Run Rudolph' is sung by Munch, but was programmed to Jasper. This song was also used as a live show, which also includes the error.

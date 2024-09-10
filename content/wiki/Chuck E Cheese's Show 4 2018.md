@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Documentor"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Show42018StudioCdvd.png|Studio C DVD
 Show420183stage.png|3Stage DVD

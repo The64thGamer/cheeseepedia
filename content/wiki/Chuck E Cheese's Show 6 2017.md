@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Documentor","Crazy Muzzarino"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 s-l1600 (13vv).jpg|CEC-Stage DVD
 </gallery>

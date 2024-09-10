@@ -11,11 +11,11 @@ gallery = []
 
 This location received the 2.0 remodel in March 2021, also being the oldest location to receive the 2.0 remodel.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
-Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatre's did. They would have it for a few years, until the late 80's, when they would convert the Balcony Stage into a C-Stage. They would have the C-Stage for a short time, until the 1990's, when they would receive a 2-Stage, they would also have a Studio C Blue Screen and camera in the old lounge room, but it was removed when they remodeled to the 2005 Remodel. The 2-Stage was interesting as Jasper still had his PTT mask, and Pasqually's body turns were intact (stores were instructed to disable them when they converted to the 2-Stage). They would have the 2-Stage until March 2021, when they would remove the 2-Stage and replace it with the Dance Floor and Video Wall, they were actually the second store to get the 2021 Model of Dance Floor and Video Wall, as the [[Manassas, VA (7730 Streamwalk Lane)]] was the first. As of October 2022, they still have the Dance Floor.
+## Stages ##
+Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatre's did. They would have it for a few years, until the late 80's, when they would convert the Balcony Stage into a C-Stage. They would have the C-Stage for a short time, until the 1990's, when they would receive a 2-Stage, they would also have a Studio C Blue Screen and camera in the old lounge room, but it was removed when they remodeled to the 2005 Remodel. The 2-Stage was interesting as Jasper still had his PTT mask, and Pasqually's body turns were intact (stores were instructed to disable them when they converted to the 2-Stage). They would have the 2-Stage until March 2021, when they would remove the 2-Stage and replace it with the Dance Floor and Video Wall, they were actually the second store to get the 2021 Model of Dance Floor and Video Wall, as the [Manassas, VA (7730 Streamwalk Lane)]({{< ref "wiki/Manassas, VA (7730 Streamwalk Lane).md" >}}) was the first. As of October 2022, they still have the Dance Floor.
 {| class='wikitable'
 |+
 !Stage
@@ -39,7 +39,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 |Still In Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

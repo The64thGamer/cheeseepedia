@@ -9,16 +9,16 @@ gallery = ["Cec","Cec"]
 +++
 {{Stub}}{{Generic|image=Chuck-e-cheese-new-hartford-ny.png|desc=Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>}}
 
-**_4631 Commercial Dr**_ was a _Chuck E. Cheese's_ that opened on October 30, 2006 with a [[Studio C Cappa]], which closed in June 2020 during a wave of closures due to the company's bankruptcy.
+**_4631 Commercial Dr**_ was a _Chuck E. Cheese's_ that opened on October 30, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}){< ref "wiki/Studio C Cappa.md" >}}), which closed in June 2020 during a wave of closures due to the company's bankruptcy.
 
-This location is not to be confused with the _Pizza Time Theatre_ location, [[New Hartford / Utica, NY (8555 Seneca Turnpike)]], which was open from 1982-1985. 
+This location is not to be confused with the _Pizza Time Theatre_ location, [New Hartford / Utica, NY (8555 Seneca Turnpike)]({{< ref "wiki/New Hartford  Utica, NY (8555 Seneca Turnpike).md" >}}), which was open from 1982-1985. 
 
-##  Stages ## 
-The location opened with the 'V3' variant of the [[Studio C Cappa]]. The stage remained intact until the location's closure.
+## Stages ##
+The location opened with the 'V3' variant of the [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). The stage remained intact until the location's closure.
 
 The animatronic had its eyebrows and hat removed at some point during its history.
 
-##  Videos ## 
+## Videos ##
 
 {| class='wikitable'
 !Link
@@ -34,21 +34,21 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 |July 27, 2021
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Cec nhny ext1.jpg|Exterior post closure, 2023
 File:Cec nhny ext 2.jpg|Exterior post closure, 2023
 </gallery>
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[[Chuck E. Cheese 16m (Animatronic)]]
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |
 |Partially owned by a private collector, otherwise destroyed<ref>https://www.reddit.com/r/Animatronics/comments/ocnpop/pick_up_from_chuck_e_cheese_what_animatronic_was/</ref>.
 |}
 
-##  References ## 
+## References ##

@@ -11,10 +11,10 @@ gallery = []
 
 They would receive Concept Unification in 1991 or 1992, and still have the 3-Stage until their closure.
 
-##  History ## 
+## History ##
 St. Louis (Target Drive) opened on September 30th, 1981 and was the second Showbiz Pizza Place opened in the state of Missouri, there were 10 other Showbiz's opened in the state, Independence, which closed in 2012 with a 3-Stage, Kansas City (Antioch) which was the first location to open closed in 2007 with a 3 stage, Kansas City (Bannister) which closed in 1985, St. Louis (Lindbergh) which closed in 1999 with a 3-Stage, Columbia, MO which closed in 1985, Springfield which closed in 1985, St. Charles which is still open to this day with a dance floor, Joplin which closed between 1984-1986, Cape Girardeau which closed in 1998 with a 3-Stage, and St. Joseph which closed in 1986. West Des Moines had the 4th Rock-Afire Explosion installed, and was the 5th Showbiz Pizza Place opened (Kansas City Antioch had the Wolf Pack 5 when they opened in March 1980). They would receive Concept Unification in the 1990's, and has been through a few remodels, the most recent being the 2005 Remodel in the 2000's.
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, Although almost no documentation exists. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They closed in 2006 for unexpected reasons. They were abandoned for a little bit as when they closed in 2006, they became a shoe store named 'Shoe Warehouse' which failed miserably and closed not long after. They then became a weird store, then finally, a Deja Vu Cafe that closed in 2020. As of November 2022, the location is still abandoned with the Shoe Warehouse sign still up.
 {| class='wikitable'
 |+
@@ -34,7 +34,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, Although almo
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -90,5 +90,4 @@ Originally when the store opened, they had a Rock-Afire Explosion, Although almo
 |Unknown if ever had it. 
 |}
 
-##  Gallery ## 
-[\2](\1)
+## Gallery ##

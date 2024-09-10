@@ -11,10 +11,10 @@ gallery = []
 
 This location was the first new store to open in the United States since the Kapolei, Hawaii location, which opened in October 2018.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stage ## 
+## Stage ##
 As the store is a 2.0, they opened with a Dance Floor, they have the 2019 Dance Floor, as they were supposed to open in 2020. In 2022, they added the Video Wall.
 {| class='wikitable'
 |+
@@ -34,10 +34,10 @@ As the store is a 2.0, they opened with a Dance Floor, they have the 2019 Dance 
 |
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 TODO
 {| class='wikitable'
 |+Youtube Videos

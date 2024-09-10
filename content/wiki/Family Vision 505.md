@@ -11,7 +11,7 @@ gallery = []
 
 The tape's total length was 33 minutes and 21 seconds.
 
-##  Video List ## 
+## Video List ##
 {| class='wikitable'
 !Title
 !Subtitle

@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-#REDIRECT [[Grand Chute / Appleton, WI (2424 W College Ave)]]
+#REDIRECT [Grand Chute / Appleton, WI (2424 W College Ave)]({{< ref "wiki/Grand Chute  Appleton, WI (2424 W College Ave).md" >}})

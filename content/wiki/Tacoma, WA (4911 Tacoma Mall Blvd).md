@@ -8,11 +8,11 @@ contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","Chu
 gallery = []
 +++
 **_4911 Tacoma Mall Blvd, Tacoma, WA**_  is a franchised _Pizza Time Theatre_ that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade.
-## Stages## 
-## History## 
-### Remodels### 
+##Stages##
+##History##
+###Remodels###
 It is unknown if the location ever had remodeled while it was a Pizza Time Theatre, but it did remodel at a point in time from 1988 to 1991. By the early 90's they remodeled again and remodeled again in the late 90's and remained that way until 2011 when they redid the entire building. From June to August 2022 they would remodel into 2.0. As of 2022 It has received the 2.0 remodel removing the Beta Bot.
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -22,47 +22,47 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 |
 |
 |}
-## Gallery## 
-## Animatronics## 
+##Gallery##
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial / Manufacturing Date
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknwon
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Clapper Board (Cyberamic)]]
+|[Clapper Board (Cyberamic)]({{< ref "wiki/Clapper Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Singing Flowers (Cyberamic)]]
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-

@@ -9,7 +9,7 @@ gallery = ["It's","It's","It's","It's","It's","It's"]
 +++
 This is a prototype created in 1997 by Streets Player Holdings Corporation. As of May 2022, there are only two known to exist.
 
-## Product Images:## 
+##Product Images:##
 <gallery>
 File:It's Chuck E. Time Front.png|It's Chuck E. Time Front
 File:It's Chuck E. Time Back.png|It's Chuck E. Time Back

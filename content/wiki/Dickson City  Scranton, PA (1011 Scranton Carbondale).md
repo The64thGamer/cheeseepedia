@@ -7,10 +7,10 @@ tags = [ ]
 contributors = ["RockAfire Alex","Rexburg090","ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-##  History ## 
+## History ##
 This location opened as a Pizza Time Theater before later being turned into a Zach Periwinkles. After Zach Periwinkles closed as well as the next door Kmart the entire building was turned into DEFY a trampoline amusement center.
 
-##  Stages ## 
+## Stages ##
 {| class='wikitable'
 |+
 !Stage
@@ -29,7 +29,7 @@ This location opened as a Pizza Time Theater before later being turned into a Za
 |Unknown
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -61,8 +61,7 @@ This location opened as a Pizza Time Theater before later being turned into a Za
 |Unknown
 |}
 
-##  Videos ## 
+## Videos ##
 No Videos Exist at the Moment
 
-##  Photos ## 
-[\2](\1)
+## Photos ##

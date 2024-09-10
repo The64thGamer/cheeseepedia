@@ -12,26 +12,26 @@ gallery = []
 |date=December 1998
 |raesvhs=y|showbizreel=y}}
 
-## Show List:## 
-#[[File:New Graphic.png]] **Intermission 1**
+##Show List:##
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 1**
 ##The Christmas Song (Ella Fitzgerald)
 ##Birthday Spectacular
 ##Sleigh Ride (Johnny Mathis)
 ##Cyberstar Intro
 #**Segment 1**
-##[\2](\1)
+##
 ###No Place Like Home
 ###Jingle Bell Rock
-#[[File:New Graphic.png]] **Intermission 2**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 2**
 ##Its The Most Wonderful Time of the Year
 ##Birthday Spectacular
 ##Have Yourself A Merry Little Christmas (Crystal Gale)
 ##Cyberstar Intro
 # **Segment 2**
-##[\2](\1)
+##
 ###Joy to the World
 ###Oh Holy Night
-#[[File:New Graphic.png]] **Intermission 3**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 3**
 ##Here Comes Santa Claus
 ##Birthday Spectacular
 ##Toyland (Perry Como)
@@ -45,7 +45,7 @@ gallery = []
 ##Blue Christmas (Eddy Raven)
 ##Cyberstar Intro
 # **Segment 4**
-##[\2](\1)
+##
 ###Little Saint Nick
 ###Run Run Rudolph
 #[[File:New Graphic.png]] **Intermission 5**
@@ -54,7 +54,7 @@ gallery = []
 ##Rudolph the Red Nosed Reindeer
 ##Cyberstar Intro
 #**Segment 5**
-##[\2](\1)
+##
 ###Sleigh Ride Medley
 ####Home for the Holidays
 ####Silver Bells

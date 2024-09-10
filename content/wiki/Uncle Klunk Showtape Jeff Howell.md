@@ -12,7 +12,7 @@ gallery = []
 |showbizreel=y}}
 
 **_Uncle Klunk Showtape (Jeff Howell)**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1983.
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##Klunk Theme Song
 ##Calisthenics Skit

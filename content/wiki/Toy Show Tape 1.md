@@ -10,11 +10,11 @@ gallery = []
 {{Showtape
 |image=NoImage.jpg
 |date=1990's
-}}**_Toy Show Tape 1**_ was the showtape used for [[Billy Bob's Toyland Adventure Show]], which featured at the _IAAPA_ in November of 1995.
+}}**_Toy Show Tape 1**_ was the showtape used for [Billy Bob's Toyland Adventure Show]({{< ref "wiki/Billy Bob's Toyland Adventure Show.md" >}}), which featured at the _IAAPA_ in November of 1995.
 
 The showtape was presumably sent alongside the show to the Family Entertainment Center that purchased it from South America.
 
-## Show List:## 
+##Show List:##
 #**Segment 1**
 ##Happy Birthday to you (BAD DATA)
 #**Segment 2**

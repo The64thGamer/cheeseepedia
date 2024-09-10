@@ -11,12 +11,12 @@ gallery = ["Front","Left","Back","Right","Bendable"]
 
 The **Bendable Chuck E. Cheese Figure** was a prize counter item released in 1992.
 
-##  Design ## 
+## Design ##
 The item is a soft plastic, bendable toy with the tux outfit.
 
 The item features, a black tuxedo, gold cummerbund and gold lapels, tuxedo shoes and the Pizza Time Theatre derby.
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Front bendable.jpg|Front
 File:Left Bendable.jpg|Left

@@ -20,7 +20,7 @@ gallery = []
 |external = https://archive.org/download/holiday-2002-show-final-upgrade/rip.IMA
 }}
 
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 BusinessCard_2021-08-09_174411.jpg|Studio C Floppy Scan
 2021-08-09_174125.jpg|Studio C Floppy Scan (Version B)

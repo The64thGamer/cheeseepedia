@@ -11,11 +11,11 @@ The **Guest Star/ Helen Henny Cyberamic** is an animatronic figure created by Pi
 
 It is a pretty simple figure, having only 8 movements. The Guest Star/ Helen Henny Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band. 
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Movements ## 
-The bot features 8 movements in total, being the same amount of movements as the [\2](\1) figure.
+## Movements ##
+The bot features 8 movements in total, being the same amount of movements as the  figure.
 {| class='wikitable'
 |+
 !Movement
@@ -37,7 +37,7 @@ The bot features 8 movements in total, being the same amount of movements as the
 |Right Arm Up
 |}
 
-##  Stages Used In ## 
+## Stages Used In ##
 
 * Portrait Stage: Installed from 1979-1980.Went extinct in 1991 at Odgen, Utah.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 2001 at Lake Forest, CA.

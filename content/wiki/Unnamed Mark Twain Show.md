@@ -9,7 +9,7 @@ gallery = ["The_Tyler_Courier_Times_Sun__Dec_17__1978_.jpg","Twain_makes_animate
 +++
 {{Stub}}The Mark Twain CPI Animatronic would perform shows where it would talk to guests and advertise products. The animatronic could be controlled with preprogrammed shows or by an actor. The research put behind Mark Twain's history was well done and many guests were surprised by how historically accurate he acted and what he knew.
 
-##  Newspapers ## 
+## Newspapers ##
 <gallery>
 File:The_Tyler_Courier_Times_Sun__Dec_17__1978_.jpg
 File:Twain_makes_animated_comeback___Carl_Hugare.jpg

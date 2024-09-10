@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]
 gallery = ["HelenStrikeItUp.jpg|thumb|The","ArticulatedHelenSequin.jpg|thumb|The","ArticulatedHelenGal5k.jpg|thumb|The"]
 +++
-[\2](\1)
+
 The articulated Helen walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
 * August 1996
@@ -23,7 +23,7 @@ In addition, the head was used in the notorious CEC movie, _Chuck E. Cheese In T
 The head was destroyed by corporate between the 2000s-2015.
 
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:HelenStrikeItUp.jpg|thumb|The articulated Helen head paired with the green cheer dress in the infamous lost Strike It Up live show footage.
 File:ArticulatedHelenSequin.jpg|thumb|The articulated Helen head paired with the sequin dress in segment 1 of the August 1997 show (Whoomp! There It Is)

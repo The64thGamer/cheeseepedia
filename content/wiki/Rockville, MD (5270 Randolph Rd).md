@@ -7,21 +7,21 @@ tags = [ ]
 contributors = ["ChuckEPediaIsTheBest!","Rexburg090","Cecnj98","ThatBoiCydalan"]
 gallery = []
 +++
-**5270 Randolph Road** is a [\2](\1), which is still open to this day
+**5270 Randolph Road** is a , which is still open to this day
 
-Rockville is the last Studio C Beta, 32M in Maryland, and will eventually be relocating to [\2](\1) sometime in 2023.
+Rockville is the last Studio C Beta, 32M in Maryland, and will eventually be relocating to  sometime in 2023.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Animatronics ## 
+## Animatronics ##
 TODO
 
-##  YouTube Videos ## 
+## YouTube Videos ##
 TODO
 
-##  Gallery ## 
+## Gallery ##
 TODO

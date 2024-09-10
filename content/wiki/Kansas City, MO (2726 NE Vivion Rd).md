@@ -11,35 +11,35 @@ gallery = []
 
 It closed in 2006.
 
-##  History ## 
-###  ShowBiz Pizza ### 
-It opened on March 3, 1980, in the Antioch Center. This location used to have the [[Wolf Pack 5]], and later replace by the [[The Rock-afire Explosion]] animatronic band.
+## History ##
+### ShowBiz Pizza ###
+It opened on March 3, 1980, in the Antioch Center. This location used to have the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}){< ref "wiki/Wolf Pack 5.md" >}}){< ref "wiki/Wolf Pack 5.md" >}}), and later replace by the [The Rock-afire Explosion]({{< ref "wiki/The Rock-afire Explosion.md" >}}) animatronic band.
 
-###  Chuck E. Cheese's ### 
+### Chuck E. Cheese's ###
 TBA
 
-##  Stages ## 
-Originally when the store first opened as a [[ShowBiz Pizza Place]], they had the [[Wolf Pack 5]], later, the Rock-afire [[Classic Stage]].
+## Stages ##
+Originally when the store first opened as a [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}), they had the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}){< ref "wiki/Wolf Pack 5.md" >}}), later, the Rock-afire [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}){< ref "wiki/Classic Stage.md" >}}).
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
 |-
-|[[Wolf Pack 5]]
+|[Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}})
 |March 3, 1980
 |1981
 |-
-|[\2](\1) [[Classic Stage]]
+| [Classic Stage]({{< ref "wiki/Classic Stage.md" >}})
 |1981
 |Early 1990s
 |-
-|[[Munch's Make Believe Band]] [[3-Stage]]
+|[Munch's Make Believe Band]({{< ref "wiki/Munch's Make Believe Band.md" >}}) [3-Stage]({{< ref "wiki/3-Stage.md" >}})
 |Early 1990s
 |2006
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 
 </gallery>

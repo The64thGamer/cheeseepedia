@@ -9,7 +9,7 @@ gallery = []
 +++
 {{NewsFootage|image=Orlandonewscast1983.png|releasedate=1983|length=6:49|filmingdate=April 1982}}The **_Orlando Creative Engineering News Cast**_ is a 1983 news segment for an unknown Orlando, FL station that interviews and shows the processes of _Creative Engineering Inc._<ref>https://youtu.be/raqVR2TYBbg</ref>
 
-## Transcript## 
+##Transcript##
 The audio is narrated by an unknown newscaster, alongside interview answers from Aaron Fechter. Other members of Creative Engineering also briefly speak in the video. Aaron's speaking moments also cut with other random clips of him during filming, making the transcript harder to comprehend.<blockquote>**Newscaster:** There are people in this world who just don't seem to fit into the standard categories.
 
 
@@ -104,5 +104,5 @@ What are your plans for the future? Do you have any dreams left?
 
 
 **Newscaster:** That road may be long, but Aaron Fechter seems to have a pretty good road map to follow.</blockquote>
-## References## 
+##References##
 <references />

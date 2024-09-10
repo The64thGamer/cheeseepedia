@@ -7,4 +7,3 @@ tags = [ ]
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++
-[\2](\1)

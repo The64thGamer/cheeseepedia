@@ -15,9 +15,9 @@ gallery = []
 |cusvhs = y
 }}
 
-**_Best of CEC TV**_ was a show which compiled segments and intermissions from 1991-1993. The show was used as a backup tape starting from its release in May 1993 until it was replaced by [[Chuck E's Variety Show - Best of 1999]] in January 2000.
+**_Best of CEC TV**_ was a show which compiled segments and intermissions from 1991-1993. The show was used as a backup tape starting from its release in May 1993 until it was replaced by [Chuck E's Variety Show - Best of 1999]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) in January 2000.
 
-## Show List ## 
+##Show List ##
 #**Intermission 1**
 ##6 Minute Countdown
 ##CEC TV '93 ID
@@ -82,7 +82,7 @@ gallery = []
 #**Intermission 7**
 ##'Home On The Range'
 
-## Trivia:## 
+##Trivia:##
 *The first show in the Post-93 format, which shifted bits around to stop previous shows from playing.
 *Country Dancin' is mislabeled as Home On The Range 
 *The video for Chuck E.'s Place has been updated with footage from various training videos.

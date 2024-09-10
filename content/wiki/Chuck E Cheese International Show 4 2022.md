@@ -19,7 +19,7 @@ gallery = []
 
 This was created with conjunction with the Halloween Boo-Tacular promotion. Runs from October 2022 - December 2022. This song features 8 Songs with the automatic live being Haunted House Party.
 
-## Show List:## 
+##Show List:##
 
 # **Intermission 1**
 ## Safety Message
@@ -65,7 +65,7 @@ This was created with conjunction with the Halloween Boo-Tacular promotion. Runs
 # **Skit 9**
 ## Chuck E. Cheese - “If Every Day Was Halloween”
 
-## Lives:## 
+##Lives:##
 
 #Birthday Show (Cyberamic, Studio C, Weigl)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

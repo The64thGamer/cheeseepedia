@@ -7,28 +7,28 @@ tags = [ ]
 contributors = ["The 64th Gamer","Himitsu","StudioC","BurgersNuggs445","CECBowlingGreen","Studio 18 Ent"]
 gallery = []
 +++
-##  Websites ## 
+## Websites ##
 
-###  Creative Engineering ### 
+### Creative Engineering ###
 
 * [https://www.engineeringcreative.com/ engineeringcreative.com]
 * [https://www.aaronsauctions.com/ aaronsauctions.com]
 * [https://www.starsof.com/ starsof.com]
 * [https://www.ebay.com/usr/creativeng/ ebay Account]
 
-###  Chuck E. Cheese's ### 
+### Chuck E. Cheese's ###
 
 * [https://www.chuckecheese.com/ chuckecheese.com]
 
-##  Social Media Accounts ## 
+## Social Media Accounts ##
 
-###  Creative Engineering ### 
+### Creative Engineering ###
 
 * [https://twitter.com/rockafire Twitter]
 * [https://www.youtube.com/user/therockafire YouTube]
 ** [https://www.youtube.com/user/fanprograms Fan Programs YouTube]
 
-###  Chuck E. Cheese's ### 
+### Chuck E. Cheese's ###
 
 * [https://twitter.com/ChuckECheese Twitter]
 ** [https://twitter.com/ChuckECheeseUAE United Arab Emirates Twitter]
@@ -52,9 +52,9 @@ gallery = []
 ** [https://www.youtube.com/c/ChuckECheesesM%C3%A9xico/videos México YouTube]
 ** [https://www.youtube.com/user/ChuckECheeseTV Chuck E. Cheese TV YouTube]
 
-##  Broken & Deleted Sites ## 
+## Broken & Deleted Sites ##
 
-###  Chuck E. Cheese's ### 
+### Chuck E. Cheese's ###
 
 * [https://twitter.com/chuckecheeses Twitter]
 ** Account moved from '@chuckecheeses' to '@chuckecheese', with the original immediately suspended to prevent future use. This account is still referenced on the [https://www.youtube.com/c/chuckecheese/about CEC YouTube about page].

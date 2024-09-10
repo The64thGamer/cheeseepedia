@@ -11,11 +11,11 @@ gallery = []
 
 The Waving Flags were prop animatronics installed in Pizza Time Theatre locations throughout the 1980s, generally found on Portrait/Shelf Stage and Balcony Stage.
 
-##  Movements ## 
+## Movements ##
 TODO:
 
-##  Locations ## 
+## Locations ##
 TODO
 
-##  Trivia ## 
+## Trivia ##
 TODO

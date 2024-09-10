@@ -11,10 +11,10 @@ gallery = []
 
 This location is the very first location in the country of Suriname, which is in South America. They are sub-franchised by Yay! Entertainment and Blue Falcon N.V, who also own the two locations in Trinidad & Tobago.<ref>https://www.stabroeknews.com/2021/12/07/news/guyana/chuck-e-cheese-for-guyana/</ref>
 
-##  History ## 
+## History ##
 TODO
 
-##  Stage ## 
+## Stage ##
 As the store is new, they have a Dance Floor with a Video Wall. Their Dance Floor is the 2021 Model.
 {| class='wikitable'
 |+
@@ -29,10 +29,10 @@ As the store is new, they have a Dance Floor with a Video Wall. Their Dance Floo
 |2021 Model
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO
 {| class='wikitable'
 !Link

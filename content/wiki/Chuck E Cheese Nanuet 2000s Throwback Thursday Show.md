@@ -13,9 +13,9 @@ gallery = []
 |date=July 18, 2024
 |studiocnetwork=y}}
 
-**_Chuck E. Cheese Nanuet 2000s Throwback Thursday Show**_ is the showtape released on July 18, 2024, to play exclusively for the Throwback Thursday event only at [[Nanuet, NY (250 West Route 59)]]. The show features a variety of songs released from 2000-2007.
+**_Chuck E. Cheese Nanuet 2000s Throwback Thursday Show**_ is the showtape released on July 18, 2024, to play exclusively for the Throwback Thursday event only at [Nanuet, NY (250 West Route 59)]({{< ref "wiki/Nanuet, NY (250 West Route 59).md" >}}). The show features a variety of songs released from 2000-2007.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1** 
 ## CEC TV ID - 'Couch'
@@ -75,14 +75,14 @@ gallery = []
 # **Segment 11**
 ## 'No Other Place'
 
-##  Lives: ## 
+## Lives: ##
 
-* [[Birthday Star 01]]
-* [[Havin' A Party 01]]
-* [[If You're Happy and You Know It]]
-* [\2](\1)
+* [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}){< ref "wiki/Birthday Star 01.md" >}})
+* [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}}){< ref "wiki/Havin' A Party 01.md" >}})
+* [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}}){< ref "wiki/If You're Happy and You Know It.md" >}})
+* 
 
-##  Trivia ## 
+## Trivia ##
 
-* Chuck E.'s Place is from [[January 2004 Show]], Jump is from [[September 2000 Show]], The Muffin Man is from [[Just for Kids Show 2000]], 'Humpty Dumpty' is [[Chuck E's Rockin' Rhymes]], That's A Deal is from [[April 2002 Show]], What Up is from [[September 2004]], I Love the Sunshine is from [[Summer 2007 Show]], CEC Chuck E. Cheese is from [[April 2002 Show]], Opposite Day and Colors is from [[CEC TV April 2005 Show]], and No Other Place is from [[September 2000 Show]] 
-* Before [[Birthday Star 01]], [[Havin' A Party 01]], and [[If You're Happy and You Know It]] a portion of the Birthday Break from [[January 2001 Show]] plays
+* Chuck E.'s Place is from [January 2004 Show]({{< ref "wiki/January 2004 Show.md" >}}), Jump is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}){< ref "wiki/September 2000 Show.md" >}}), The Muffin Man is from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}), 'Humpty Dumpty' is [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), That's A Deal is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}){< ref "wiki/April 2002 Show.md" >}}), What Up is from [September 2004]({{< ref "wiki/September 2004.md" >}}), I Love the Sunshine is from [Summer 2007 Show]({{< ref "wiki/Summer 2007 Show.md" >}}), CEC Chuck E. Cheese is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), Opposite Day and Colors is from [CEC TV April 2005 Show]({{< ref "wiki/CEC TV April 2005 Show.md" >}}), and No Other Place is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}) 
+* Before [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}), [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}}), and [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}}) a portion of the Birthday Break from [January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}}) plays

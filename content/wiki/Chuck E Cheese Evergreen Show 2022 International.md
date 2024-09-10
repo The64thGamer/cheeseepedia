@@ -11,7 +11,7 @@ gallery = []
 
 This was created with the idea to play between promotional events. Runs from January 3, 2022 to ???. This song features 6 Songs with the automatic live being Me & My Friends.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1** 
 ## Safety Message
@@ -48,7 +48,7 @@ This was created with the idea to play between promotional events. Runs from Jan
 # **Skit 6**
 ## Chuck E. & Friends - 'Chuck E.'s Middle Name'
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)

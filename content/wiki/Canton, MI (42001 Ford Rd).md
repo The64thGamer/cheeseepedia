@@ -7,52 +7,52 @@ tags = [ ]
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","216.125.34.66","CorrectorMan","CEC Tinley","ThatBoiCydalan"]
 gallery = ["CantonMIExteriorBefore2005Update.jpg|The","CantonMIExterior2019AugustGoogleMaps.png|Street","CantonMI2StageBeforeRemoval.jpg|The","CantonMIVIdeoWall.jpg|thumb|Part"]
 +++
-[\2](\1)
+
 **_42001 Ford Rd, Store #80**_ is a _Chuck E. Cheese_ in Canton, Michigan.
 
-## History## 
-Canton opened in an unnamed shopping center with a [\2](\1) which had the checkers around the store, blue & white awnings, and neon signage. The store would remain this way until 1993/1994 when they would receive [\2](\1) of the [[1994 SPT Repositioning / Remodel Program]] which involved removing elements of the 1988 Remodel, converting [[Chuck E.'s House]] into a 2-Stage (Which moved the show from the left side wall to the back wall), and an exterior change.
+##History##
+Canton opened in an unnamed shopping center with a  which had the checkers around the store, blue & white awnings, and neon signage. The store would remain this way until 1993/1994 when they would receive  of the [1994 SPT Repositioning / Remodel Program]({{< ref "wiki/1994 SPT Repositioning  Remodel Program.md" >}}) which involved removing elements of the 1988 Remodel, converting [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}) into a 2-Stage (Which moved the show from the left side wall to the back wall), and an exterior change.
 
-## Stages## 
-When Canton first opened, the location opened with [[Chuck E.'s House]] which was the only one installed in the state which was located on the left side wall. In 1993/1994, it was converted into a [[2-Stage), moving the show to the back wall. They would have the 2-Stage until August 2022 when it was removed for a 2021 Model Dance Floor & Video Wall.
+##Stages##
+When Canton first opened, the location opened with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) which was the only one installed in the state which was located on the left side wall. In 1993/1994, it was converted into a [[2-Stage), moving the show to the back wall. They would have the 2-Stage until August 2022 when it was removed for a 2021 Model Dance Floor & Video Wall.
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Manufacturing date
 !Status
 |-
-|[\2](\1)
+|
 |1980s
 |Unknown.
 |-
-|[\2](\1)
+|
 |1980s
 |Unknown.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1980s
 |Unknown.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1980s
 |Unknown.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1980s
 |Unknown.
 |-
-|[[Singing Flowers (Cyberamic)]]
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
 |1988
 |Unknown.
 |-
-|[[Wink (Cyberamic)]]
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1993/1994
 |Unknown.
 |}
 
 
-## Gallery##  
+##Gallery## 
 <gallery>
 File:CantonMIExteriorBefore2005Update.jpg|The store's Exterior on October 5th, 2006, around 1 month before remodel. (PC: Paula Morningstar on Flickr)
 File:CantonMIExterior2019AugustGoogleMaps.png|Street View of the store's Exterior in August 2019 (PC: Google Maps)
@@ -60,7 +60,7 @@ File:CantonMI2StageBeforeRemoval.jpg|The store's 2-Stage around a month before r
 File:CantonMIVIdeoWall.jpg|thumb|Part of the store's Video Wall (3/24/2023) (PC: Ben S)
 </gallery>
 
-## Videos## 
+##Videos##
 {| class='wikitable'
 !Link
 !Description
@@ -93,12 +93,12 @@ File:CantonMIVIdeoWall.jpg|thumb|Part of the store's Video Wall (3/24/2023) (PC:
 |July 19, 2019
 |-
 |[https://www.youtube.com/watch?v=l8wVKQOz4WI Link]
-|'Dog Days of Summer' from [\2](\1) being performed on Canton's 2-Stage
+|'Dog Days of Summer' from  being performed on Canton's 2-Stage
 |July/August 2021
 |August 4, 2021
 |-
 |[https://youtu.be/TpyrTITzOV4 Link]
-|'Together We've Got It 2017' from [\2](\1) being performed on Canton's 2-Stage
+|'Together We've Got It 2017' from  being performed on Canton's 2-Stage
 |April/May 2022
 |June 2, 2022
 |-

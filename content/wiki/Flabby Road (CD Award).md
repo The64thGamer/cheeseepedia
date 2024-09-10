@@ -11,10 +11,10 @@ gallery = []
 
 The **Flabby Road CD Award** was a parody award created by Corman and Associates and released for stores in 1994.
 
-##  Design ## 
+## Design ##
 The poster is a parody based off The Beatles 1969 album cover **'Abbey Road**' with some minor changes. It has Jasper, Helen, Chuck E. , and Munch walking on 'Flabby Road' with Munch walking to the left side then the right side.
 
-##  Size/Dimensions ## 
+## Size/Dimensions ##
 
 * Album: 38x38 (Inches)
 * Platinum CD Award: 6x4 (Feet)

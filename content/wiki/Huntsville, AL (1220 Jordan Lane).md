@@ -11,10 +11,10 @@ gallery = []
 
 This location received Concept Unification in the early 1990's, and has many custom things added to the stage, as well as having the last Pizzacam animatronic.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did, and would have it for several years until 1991 or 1992 when they would receive Concept Unification, this was the process used to turn the RAE into Chuck E. Cheese and Munch's Make Believe Band. There has been many additions to the stage through the years, such as Munch's organ getting a custom front, Jasper keeping Beach Bear's guitar (painted red, white and blue), Helen having her cheerleader outfit and yellow hair (it was changed to her normal dress and hair in 2022), Pasqually having a custom bass drum head, as well as adding a tom-tom drum in 2022, Moon being painted white with an american flag on top (Huntsville is known for NASA), Pizzacam, who is also the last one, has a custom mask that is colored black and made of plastic, and Building was removed in 2021, but his spotlight remains functional, as well as the Wink being painted red white and blue. They are also the last 3-Stage in the state of Alabama.
 {| class='wikitable'
 |+
@@ -31,7 +31,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Still In Use
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic

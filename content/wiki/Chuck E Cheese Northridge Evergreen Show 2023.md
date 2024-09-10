@@ -15,7 +15,7 @@ gallery = []
 **_ Chuck E. Cheese Northridge Evergreen Show 2023**_ is the generic show released on November 11, 2023 - ??? featuring two songs from 2017.
 
 This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 2 Songs with the standard live being Me & My Friends.
-## Show List:## 
+##Show List:##
 
 # **Intermission 1**
 ## Jasper T. Jowls - “Wash the Bus”
@@ -48,14 +48,14 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ## Helen Henny - “Disco Dancing Dinosaur Party”
 ## KIDZ BOP Kids - “Karma”
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
 * Me & My Friends (Navori)
 * CEC Stage Diagnostic (Navori)
 
-##  Trivia: ## 
-'It's the 70s' & 'Every Boy, Every Girl' are both originally from [[Chuck E. Cheese's Show 5 2017]]. 
+## Trivia: ##
+'It's the 70s' & 'Every Boy, Every Girl' are both originally from [Chuck E. Cheese's Show 5 2017]({{< ref "wiki/Chuck E Cheese's Show 5 2017.md" >}}). 
 
 Despite being the main attraction of Northridge the animatronics only preform two songs per show rotation.

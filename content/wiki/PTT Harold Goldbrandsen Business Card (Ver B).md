@@ -8,7 +8,7 @@ contributors = ["The 64th Gamer"]
 gallery = []
 +++
 {{Generic|image=Haroldcardverb.png|desc=Business Card}}The **_PTT Harold Goldbrandsen Business Card (Ver. B)**_ is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
-## Transcription## 
+##Transcription##
 <blockquote>Chuck E.
 
 Cheese's

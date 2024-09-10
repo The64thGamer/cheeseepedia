@@ -11,13 +11,13 @@ gallery = []
 |title=Software Demo
 |external = https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo
 }}
-[\2](\1)
+
 The **_Rock-afire Explosion Simulator**_ was a cancelled _Kickstarter_ project for a virtual Rock-afire Explosion band, which allowed users to program and play showtapes in one software. The Kickstarter would launch on October 28, 2020 by its programmer, Ryan Hayes, and would be cancelled on November 26, 2020.
 
-##  Campaign ## 
+## Campaign ##
 The campaign would start with the launch of the Kickstarter page, alongside a video on the Creative Engineering YouTube Channel promoting the project. The project asked for a $27,350, and planned the software's development to conclude by July 2021.
 
-###  Pledges ### 
+### Pledges ###
 Ten different pledging tiers were given, which ranged from $3 to $2,500. 
 
 * $3 - Name listed in the credits
@@ -46,5 +46,5 @@ Ten different pledging tiers were given, which ranged from $3 to $2,500.
 ** Digital copy of the software
 ** Name in credits
 
-###  Funding ### 
+### Funding ###
 Throughout its month long campaign, it would raise $1,140 from 41 backers, with the maximum pledge being of the $80 tier.

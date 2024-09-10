@@ -10,9 +10,9 @@ gallery = []
 **_7456 West Colonial Dr**_ is a Chuck E. Cheese that opened in November 12, 1998 as a corporate location with a Studio C Alpha and is still open to this day.
 
 It is located right across from the Highland Lakes Center Mall.
-## History## 
+##History##
 Orlando (West) opened on November 12th, 1998 as a corporate-owned location. Orlando (West) opened with the Studio C Alpha stage and also featured, some checkers around the store, and some late 90's decor, Toddler Zone, and SkyTubes. Orlando (West) remained like this until in 2006-2007, when they received the 2005 remodel (Phase 4) which involved the removal of the showroom walls, removing older decor for newer decor, relocating the Alpha stage, & adding purple walls. Orlando (West) still remains like this. Currently, as of March 2023, the location still has the 2005 remodal and the Alpha stage.
-## Stages## 
+##Stages##
 Originally, when the store opened, the location had a Studio C Alpha stage which they still have to this day.
 {| class='wikitable'
 !Stage
@@ -25,7 +25,7 @@ Originally, when the store opened, the location had a Studio C Alpha stage which
 |Still in use,
 |One of the few Studio C Alphas in the Orlando area.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -47,10 +47,10 @@ Originally, when the store opened, the location had a Studio C Alpha stage which
 |N/A
 |In store.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 (W.I.P)
 {| class='wikitable'
 !Link

@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["ShowbizMidwest","BurgersNuggs445","68.201.38.174","Documentor","The 64th Gamer","OnionMastori"]
 gallery = []
 +++
-[\2](\1)
+
 The articulated Chuck E. walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
-* [[August 1996]]
-* [[April 1997]]
-* [[August 1997]] 
+* [August 1996]({{< ref "wiki/August 1996.md" >}})
+* [April 1997]({{< ref "wiki/April 1997.md" >}})
+* [August 1997]({{< ref "wiki/August 1997.md" >}}) 
 
 During these showtapes, the head was often seen paired with various different outfits, such as the standard AAM outfit, the tuxedo, the yellow sweater, etc.
 
@@ -23,7 +23,7 @@ In addition, the head was used in the notorious CEC movie, _Chuck E. Cheese In T
 The head was destroyed by corporate between the 2000s-2015.
 
 
-## Gallery## 
+##Gallery##
 <gallery>
 File:ArticulatedTux.jpg|thumb|The articulated Chuck head paired with the tuxedo in the August 1996 show.
 File:ArticulatedNews.jpg|thumb|The articulated Chuck head paired with the classic PTT red vest.

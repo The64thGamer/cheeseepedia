@@ -11,10 +11,10 @@ gallery = []
 
 **Future** is a showtape that played during March to April 1991 at Chuck E Cheese's.
 
-##  Theme ## 
+## Theme ##
 The showtape's theme is about the world of tomorrow, from the newest technology, careers, and music in the future.
 
-##  Show List ## 
+## Show List ##
 #**Intermission 1**
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Help_Me,_Rhonda Help Me Rhonda]
@@ -23,7 +23,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song) Palisades Park]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
 ##The Future Looks Fun To Me
 ##Tech-No-Rific!
 #**Intermission 2**
@@ -34,7 +34,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/The_Promise_of_a_Future Grazing in the Grass]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 2**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
 ##There's Nothing You Can't Do
 ##Possibilities
 #**Intermission 3**
@@ -44,7 +44,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another One Thing Leads To Another]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 3**
+#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 3**
 ##Guessing Game
 ##See You Soon My Friend
 #**Intermission 4**
@@ -81,7 +81,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ##Guessing Game
 ##See You Soon My Friend
 
-##  Triva: ## 
+## Triva: ##
 The intermission music is the same as [https://decodedocdigitize.miraheze.org/wiki/SPP_Best_Of_3_/_Wave_Bday SPP Best Of 3 / Wave Bday] (except for the last two intermissions)
 
 This showtape introduced a brand new Chuck E Cheese puppet while the rest of the cast got reworked to be more polished compare to the [https://decodedocdigitize.miraheze.org/wiki/CEC_Jan_%2791 previous showtape] of the same year.

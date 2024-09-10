@@ -9,7 +9,7 @@ gallery = ["d23f4gf21d3f.jpg","f24g3hg4fd3w.jpg","regthjyu7yh6grf.png","41cv352b
 +++
 {{Generic|image=12d3fds2df432.jpg|desc=Brochure Front}}
 
-**_PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant**_ is a tri-fold brochure going over group tours and birthdays at [[Pizza Time Theatre]] stores.
+**_PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant**_ is a tri-fold brochure going over group tours and birthdays at [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) stores.
 
 The specific variant is for New York State residents, noting:<blockquote>Look for Chuck E. Cheese in the following cities:
 
@@ -19,7 +19,7 @@ New locations opening soon
 
 throughout New York State.</blockquote>
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:d23f4gf21d3f.jpg
 File:f24g3hg4fd3w.jpg

@@ -18,9 +18,9 @@ gallery = []
 |r1293=y
 |credit1= Robert Gotcher - Director |credit2= Michael Hill - Production Coordinator |credit3= Ryan Hollingsworth - Production Specialist}} 
 
-**Summertime 2006** was a rerelease of [[Summertime 2003]] with intermission changes.
+**Summertime 2006** was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with intermission changes.
 
-##  Show List: ## 
+## Show List: ##
 #**Segment 1** 
 ## 'Summertime Groove'
 ## 'Fishin_
@@ -34,7 +34,7 @@ gallery = []
 ##'Havin' Fun at The Beach'
 #**Intermission 2** 
 ##CEC TV ID - 'Janitor'
-##[[File:New Graphic.png]]  Arthur's Missing Pal DVD Promo
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})  Arthur's Missing Pal DVD Promo
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
 ##Countdown
@@ -51,23 +51,23 @@ gallery = []
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
 # **Intermission 4** 
 ## Cinemark Summer Movie Clubhouse Spot
-##[[File:New Graphic.png]] Saving Shiloh DVD Promo
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Saving Shiloh DVD Promo
 ##CEC TV ID - 'Haircut'
 ##Monkey Ninjas - Episode 6
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
 
-##  Lives: ## 
-* [[Birthday Star 01]] (3stage, Cyberamic, Studio C)
-* [[Spanish Birthday 01]] (3stage, Cyberamic, Studio C)
-* [[New Birthday]] (3stage, Cyberamic, Studio C)
-* [[Chuck E. Shuffle 06]] (3stage, Cyberamic, Studio C)
-* [[Chuck E. Swing]] (3stage, Cyberamic, Studio C)
-* [[Chuck E. March 01]] (3stage, Cyberamic, Studio C)
-* [[Bingo]] (3stage, Cyberamic, Studio C)
-* [[Chuck E. Says 02]] (3stage, Cyberamic, Studio C)
-* [[Havin' A Party 01]] (3stage, Cyberamic, Studio C)
-* [[If You're Happy & You Know It]] (3stage, Cyberamic, Studio C)
-* [[Go Santa Go]] (Studio C)
+## Lives: ##
+* [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}) (3stage, Cyberamic, Studio C)
+* [Spanish Birthday 01]({{< ref "wiki/Spanish Birthday 01.md" >}}) (3stage, Cyberamic, Studio C)
+* [New Birthday]({{< ref "wiki/New Birthday.md" >}}) (3stage, Cyberamic, Studio C)
+* [Chuck E. Shuffle 06]({{< ref "wiki/Chuck E Shuffle 06.md" >}}) (3stage, Cyberamic, Studio C)
+* [Chuck E. Swing]({{< ref "wiki/Chuck E Swing.md" >}}) (3stage, Cyberamic, Studio C)
+* [Chuck E. March 01]({{< ref "wiki/Chuck E March 01.md" >}}) (3stage, Cyberamic, Studio C)
+* [Bingo]({{< ref "wiki/Bingo.md" >}}) (3stage, Cyberamic, Studio C)
+* [Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}}) (3stage, Cyberamic, Studio C)
+* [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}}) (3stage, Cyberamic, Studio C)
+* [If You're Happy & You Know It]({{< ref "wiki/If You're Happy & You Know It.md" >}}) (3stage, Cyberamic, Studio C)
+* [Go Santa Go]({{< ref "wiki/Go Santa Go.md" >}}) (Studio C)
 
 **Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.

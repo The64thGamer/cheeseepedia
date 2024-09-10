@@ -7,16 +7,16 @@ tags = [ ]
 contributors = ["Documentor","The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++
-##  Wii Games ## 
+## Wii Games ##
 
-* [[Chuck E. Cheese's Party Games]]
-* [[Chuck E. Cheese's Sports Games]]
-* [[Chuck E. Cheese's Super Collection]]
+* [Chuck E. Cheese's Party Games]({{< ref "wiki/Chuck E Cheese's Party Games.md" >}}){< ref "wiki/Chuck E Cheese's Party Games.md" >}})
+* [Chuck E. Cheese's Sports Games]({{< ref "wiki/Chuck E Cheese's Sports Games.md" >}})
+* [Chuck E. Cheese's Super Collection]({{< ref "wiki/Chuck E Cheese's Super Collection.md" >}})
 
-##  DS Games ## 
+## DS Games ##
 
-* [[Chuck E. Cheese's Party Games]]
-* [[Chuck E. Cheese's Gameroom]]
-* [[Chuck E. Cheese's Playhouse]]
-* [[Chuck E. Cheese's Alien Defense Force]]
-* [[Chuck E. Cheese's Arcade Room]]
+* [Chuck E. Cheese's Party Games]({{< ref "wiki/Chuck E Cheese's Party Games.md" >}})
+* [Chuck E. Cheese's Gameroom]({{< ref "wiki/Chuck E Cheese's Gameroom.md" >}})
+* [Chuck E. Cheese's Playhouse]({{< ref "wiki/Chuck E Cheese's Playhouse.md" >}})
+* [Chuck E. Cheese's Alien Defense Force]({{< ref "wiki/Chuck E Cheese's Alien Defense Force.md" >}})
+* [Chuck E. Cheese's Arcade Room]({{< ref "wiki/Chuck E Cheese's Arcade Room.md" >}})

@@ -9,4 +9,4 @@ gallery = []
 +++
 **_Electric Pizza**_ 
 
-##  Parts / Cabinet ## 
+## Parts / Cabinet ##

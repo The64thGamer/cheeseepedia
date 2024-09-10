@@ -16,7 +16,7 @@ gallery = []
 
 The show is known to have a lost song on it, which was removed sometime before its final release.
 
-##  Family Times ## 
+## Family Times ##
 A lost show called 'Family Times' was removed from the showtape before its release and never seen again. The song featured the whole band singing, with Pasqually and Helen singing separately during sections of the song. The song itself was 2 minutes and 30 seconds long. The entire segment was _Family Times + Happy and You Know It + This Old Man_ back to back, making the full length 5 minutes and 6 seconds.
 
 Prior to the song being removed, the segments (excluding intermissions for clarity) were:
@@ -37,23 +37,23 @@ Prior to the song being removed, the segments (excluding intermissions for clari
 ### Jimmy Crack Corn And I Don't Care
 ## Daddy's Daddy
 
-After Family Times' removal, _Responsibility_ from segment 1 would replace it, and in its own place would be _Rhythm of the Night_ from the previous year's [[CEC September 1990 Show]]. The song was fully programmed for the [[3-Stage]] before being scrapped. It is unclear the reason for its removal, though was removed by request of upper management.
+After Family Times' removal, _Responsibility_ from segment 1 would replace it, and in its own place would be _Rhythm of the Night_ from the previous year's [CEC September 1990 Show]({{< ref "wiki/CEC September 1990 Show.md" >}}). The song was fully programmed for the [3-Stage]({{< ref "wiki/3-Stage.md" >}}) before being scrapped. It is unclear the reason for its removal, though was removed by request of upper management.
 
-## Show List:## 
+##Show List:##
 #**Segment 1**
 ##The Rythm of The Night
-##[[File:New Graphic.png]] My Good Name
+##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) My Good Name
 #**Intermission 1**
 ##8 Minute Countdown
 ##Helen Henny's Hollywood
-#[[File:New Graphic.png]] **Segment 2**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 2**
 ##Responsibility
 ##If You're Happy And You Know It
 ##This Old Man
 #**Intermission 2**
 ##8 Minute Countdown
 ##CEC TV News
-#[[File:New Graphic.png]] **Segment 3**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 3**
 ##Kid's Song Medley
 ### Skip To My Lou
 ### Little Liza Jane

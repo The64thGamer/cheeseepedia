@@ -9,9 +9,9 @@ gallery = []
 +++
 {{Speculative}}
 
-The **_Unnamed Chuck E. Cheese Documentary**_ is an upcoming (or potentially cancelled) documentary detailing Chuck E. Cheese's and its fandom.<ref>[[:File:DocumentarycitationCEP.png]]</ref>
+The **_Unnamed Chuck E. Cheese Documentary**_ is an upcoming (or potentially cancelled) documentary detailing Chuck E. Cheese's and its fandom.<ref>[:File:DocumentarycitationCEP.png]({{< ref "wiki/FileDocumentarycitationCEPpng.md" >}})</ref>
 
-##  Summary ## 
+## Summary ##
 The documentary is cited as going over the general history of Pizza Time Theatre and Chuck E. Cheese's. Additional focus is supposed to be on the notable members of the animatronic community.
 
 Multiple people have confirmed to have been interviewed:
@@ -23,7 +23,7 @@ Multiple people have confirmed to have been interviewed:
 
 Travis Schafer and Matt Rivera were also planned to be interviewed, but currently it hasn't happened.
 
-##  History ## 
+## History ##
 The documentary started work sometime in 2019 by a currently unknown production company. They began contacting for interviews around early 2020. CEC Corporate was asked around this time if they wanted to be involved, but due to the company's at the time bankruptcy filing, they declined. 
 
 Interviews were set up and filmed with Nolan Bushnell, Joseph Keenan, and Gene Landrum sometime between 2020 and 2022.
@@ -34,4 +34,4 @@ At the same time Gabe would be interviewed by the team. Gabe and Matt would also
 
 By June of 2022, the studio stopped all contact with members involved. It is unclear if the documentary is still in production, or if it was cancelled.
 
-##  References ## 
+## References ##

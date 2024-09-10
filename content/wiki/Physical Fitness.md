@@ -11,14 +11,14 @@ gallery = []
 
 **Physical Fitness** is a showtape that was released in March of 1992 at Chuck E Cheese's locations.
 
-##  Show List: ## 
+## Show List: ##
 #**Intermission 1**
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Vibeology Vibeology]
 ### Birthday Star
 ### [https://en.wikipedia.org/wiki/Hip_to_Be_Square Hip to Be Square]
 ##CEC-TV Intro
-#[[File:New Graphic.png]]**Segment 1**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Segment 1**
 ##Whole Lotta Shakin' Going On
 ##Country Dancin'
 #**Intermission 2**
@@ -30,7 +30,7 @@ gallery = []
 ###[https://en.wikipedia.org/wiki/Leather_and_Lace_(song) Leather and Lace]
 ###[https://en.wikipedia.org/wiki/Imagine_(John_Lennon_song) Imagine]
 ##CEC-TV Intro
-#[[File:New Graphic.png]] **Segment 2**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 2**
 ##Tighten Up
 ##Don't Ever Give Up
 #**Intermission 3**
@@ -40,7 +40,7 @@ gallery = []
 ###[https://en.wikipedia.org/wiki/Come_Back_to_Me_(Janet_Jackson_song) Come Back To Me]
 ###Birthday Star
 ##CEC-TV Intro
-#[[File:New Graphic.png]] **Segment 3**
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 3**
 ##Dem Bones
 ##Muncho Man
 #**Intermission 4**
@@ -78,5 +78,5 @@ gallery = []
 #**Intermission 7**
 ##Helen Henny's Hollywood - Arnold Schwarzenegger
 
-##  Trivia: ## 
+## Trivia: ##
 Charlie Rockit makes an appearance during Tighten Up

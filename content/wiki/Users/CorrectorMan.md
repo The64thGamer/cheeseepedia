@@ -14,23 +14,23 @@ Hello! I'm **_CorrectorMan**_, a CEC fan from Kokomo, Indiana! My mission is to 
 !Opened
 !Closed
 |-
-|[[Kokomo, IN (1919 South Reed Rd)]]
+|[Kokomo, IN (1919 South Reed Rd)]({{< ref "wiki/Kokomo, IN (1919 South Reed Rd).md" >}})
 |April 6, 2004
 |N/A
 |-
-|[[Muncie, IN (1611 W McGalliard Rd)]]
+|[Muncie, IN (1611 W McGalliard Rd)]({{< ref "wiki/Muncie, IN (1611 W McGalliard Rd).md" >}})
 |December 23, 2003
 |N/A
 |-
-|[[Lafayette, IN (100 S Creasy Lane)]]
+|[Lafayette, IN (100 S Creasy Lane)]({{< ref "wiki/Lafayette, IN (100 S Creasy Lane).md" >}})
 |August 20, 2006
 |October 28, 2020
 |-
-|[[Indianapolis, IN (5501 E 82nd St)]]
+|[Indianapolis, IN (5501 E 82nd St)]({{< ref "wiki/Indianapolis, IN (5501 E 82nd St).md" >}})
 |April 28, 1982 (as SPP)
 |N/A
 |-
-|[[West Des Moines, IA (1431 22nd St)]]
+|[West Des Moines, IA (1431 22nd St)]({{< ref "wiki/West Des Moines, IA (1431 22nd St).md" >}})
 |October 13, 1980 (as SPP)
 |N/A
 |}
@@ -40,26 +40,26 @@ Stores I plan to visit soon:
 !Store
 !Opened
 |-
-|[[Davenport, IA (903 E Kimberly Rd)]]
+|[Davenport, IA (903 E Kimberly Rd)]({{< ref "wiki/Davenport, IA (903 E Kimberly Rd).md" >}})
 |February 25, 1981 (as SPP)
 |-
-|[[Indianapolis, IN (10021 E Washington St)]]
+|[Indianapolis, IN (10021 E Washington St)]({{< ref "wiki/Indianapolis, IN (10021 E Washington St).md" >}})
 |December 2011 (day unknown)
 |-
-|[[Omaha, NE (225 N 76th St)]]
+|[Omaha, NE (225 N 76th St)]({{< ref "wiki/Omaha, NE (225 N 76th St).md" >}})
 |June 23, 1982 (as SPP)
 |-
-|[\2](\1)
+|
 |August 1, 2001
 |}
 My all time locations: **I ONLY VISITED ONE AND SOME OF THEM ARE CLOSED**
 
-* [\2](\1)
-* [\2](\1)
-* [\2](\1)
-* [\2](\1)
-* [\2](\1)
-* [\2](\1) [\2](\1)[\2](\1) (all 3)
+* 
+* 
+* 
+* 
+* 
+*   (all 3)
 
 Thank you for reading, and have a great day! :)
 

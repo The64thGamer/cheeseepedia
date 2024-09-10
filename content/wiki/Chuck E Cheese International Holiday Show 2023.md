@@ -9,7 +9,7 @@ gallery = []
 +++
 **_Chuck E. Cheese International Holiday Show 2023**_ was a holiday show released on November 27, 2023 and will be played until December 31, 2023. This show features eight Holiday songs, of which all were reused.
 
-##  Show List: ## 
+## Show List: ##
 #**Intermission 1**
 ## KidzBop Kids - Santa Claus Is Coming To Town 
 ## The Ronettes - Sleigh Ride

@@ -7,10 +7,10 @@ tags = [ ]
 contributors = ["RedaCEC","ChuckECool","173.216.33.6","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","64.125.60.2","ShowbizMidwest","ThatBoiCydalan","47.17.236.200","SuperCreamPiper2008"]
 gallery = []
 +++
-[\2](\1)
+
 **_10510 Metcalf Lane**_ was a _Showbiz Pizza Place_ restaurant located in Overland Park, Kansas.
 
-##  History ## 
+## History ##
 Overland Park, KS opened its doors on September 29th, 1980 as the first store in Kansas. This was one of 18/19 stores to receive a Beta RockAfire Explosion show, though it was very still unique in several ways. 
 In 1991-1992, Concept Unification was growing strong, Replacing the RockAfire Explosion with Munch's Make Believe Band. 
 
@@ -18,11 +18,11 @@ Then store would receive the 1993 remodel sometime by the 1990s, complete with: 
 
 In the Early 2000s, Tulsa would remodel once again, this time removing the 3-Stage for a Studio C Beta.
 
-In 2000s, Tulsa would receive the [\2](\1); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
+In 2000s, Tulsa would receive the ; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
 
 In 2017, Tulsa started their 2.0 Remodel. The stage was removed on 2017.
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, they were the 3nd RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. 
 {| class='wikitable'
 !Stage
@@ -30,28 +30,28 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |September 1980
 |1991-1992
 |Original bots replaced in 1981.
 |-
-|[\2](\1)
+|
 |1991-1992
 |2000
 |
 |-
-|[[Studio C Alpha]]
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |2000
 |November 2022
 |Last Animatronic show in Tulsa
 |-
-|[\2](\1) 
+| 
 |2020
 |Still in Use
 |2019 Model
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -149,7 +149,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |N/A
 |Unknown / Destroyed
 |-
-|[[Chuck E. Cheese 32m (Animatronic)]]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |0??
 |Unknown / Destroyed
 |-
@@ -158,8 +158,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |Unknown / Destroyed
 |}
 
-## Gallery## 
+##Gallery##
 TODO
 
-## Videos## 
+##Videos##
 TODO

@@ -13,13 +13,13 @@ This location is the second Chuck E. Cheese to open in Kansas.
 
 It is located right next to a Walmart Supercenter.
 
-Their exterior is also unique as it was also seen in the [[Topeka, KS (2215 SW Wanamaker Rd)]] location.
-## History## 
-Wichita opened on December 16th, 1991 as the second Chuck E. Cheese in Kansas and as a corporate-owned store. It opened a year later after [\2](\1). Wichita opened with the 1988 remodel and originally featured the Road Stage, the Blue and White Awnings, the CU decor, and the checkers around the store. In the mid 1990s, Wichita received a minor remodel removing older CU decor for the Record Posters and Colored Chase Lights. In the late 1990's, Wichita would receive the 'Phase 3' remodel removing older decor for newer decor, and removing the ball pit for SkyTubes. Wichita would remain like this until in Early 2007 when they received the 2005 remodel (Phase 4) removing older Phase 3 decor for newer decor, removing the Showroom Walls, Balcony Seating, relocating the stage, removing the 'Chuck E. Cheese's Pizza' road sign shape for the prototype Phase 4 logo road sign, and expanded to fit in more games and tables. Wichita would remain like this until in August 2022, when they would receive the 2.0 remodel, this involved removing the Road Stage and replacing it with a [https://chuckepedia.com/wiki/Chuck_E._Live_Stage_(Dance_Floor) Dance Floor + Video Wall]. Currently, as of March 2023, Wichita still has the 2.0 remodel and Dance Floor + Video Wall.
-## Stages## 
+Their exterior is also unique as it was also seen in the [Topeka, KS (2215 SW Wanamaker Rd)]({{< ref "wiki/Topeka, KS (2215 SW Wanamaker Rd).md" >}}) location.
+##History##
+Wichita opened on December 16th, 1991 as the second Chuck E. Cheese in Kansas and as a corporate-owned store. It opened a year later after . Wichita opened with the 1988 remodel and originally featured the Road Stage, the Blue and White Awnings, the CU decor, and the checkers around the store. In the mid 1990s, Wichita received a minor remodel removing older CU decor for the Record Posters and Colored Chase Lights. In the late 1990's, Wichita would receive the 'Phase 3' remodel removing older decor for newer decor, and removing the ball pit for SkyTubes. Wichita would remain like this until in Early 2007 when they received the 2005 remodel (Phase 4) removing older Phase 3 decor for newer decor, removing the Showroom Walls, Balcony Seating, relocating the stage, removing the 'Chuck E. Cheese's Pizza' road sign shape for the prototype Phase 4 logo road sign, and expanded to fit in more games and tables. Wichita would remain like this until in August 2022, when they would receive the 2.0 remodel, this involved removing the Road Stage and replacing it with a [https://chuckepedia.com/wiki/Chuck_E._Live_Stage_(Dance_Floor) Dance Floor + Video Wall]. Currently, as of March 2023, Wichita still has the 2.0 remodel and Dance Floor + Video Wall.
+##Stages##
 Originally, Wichita featured a Road Stage.
 
-In August 2022, Wichita would replace their Road Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was one of 2 Road Stages in Kansas. The other road stage was [[Wichita, KS (3223 N Rock Rd)]].
+In August 2022, Wichita would replace their Road Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was one of 2 Road Stages in Kansas. The other road stage was [Wichita, KS (3223 N Rock Rd)]({{< ref "wiki/Wichita, KS (3223 N Rock Rd).md" >}}).
 
 As of March 2023, Wichita still has the 2.0 Remodel and Dance Floor + Video Wall.
 {| class='wikitable'
@@ -39,7 +39,7 @@ As of March 2023, Wichita still has the 2.0 Remodel and Dance Floor + Video Wall
 |Still In Use
 |2021 Model.
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
@@ -70,10 +70,10 @@ As of March 2023, Wichita still has the 2.0 Remodel and Dance Floor + Video Wall
 |N/A
 |Destroyed.
 |}
-## Gallery## 
+##Gallery##
 <gallery>
 </gallery>
-## Videos## 
+##Videos##
 {| class='wikitable'
 |+
 !Link
@@ -88,6 +88,6 @@ As of March 2023, Wichita still has the 2.0 Remodel and Dance Floor + Video Wall
 |
 |
 |}
-## Trivia## 
+##Trivia##
 *
 *

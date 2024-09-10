@@ -9,12 +9,12 @@ gallery = []
 +++
 **905 44th Ave W, Store #720** is a _Chuck E. Cheese’s_ that opened on March 3rd, 1999 with a Studio C Alpha, which is still open to this day. 
 
-##  History ## 
+## History ##
 Bradenton opened on March 3rd, 1999, with a Studio C Alpha. Bradenton would remodel to the 2005 Remodel in February 2012 removing older decor for newer decor, removing showroom walls, etc.
 
 Currently, as of today, they have the 2.0 Remodel with the Dance Floor and Video Wall.
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Studio C Alpha. In April 2023, they remodeled to 2.0 and got the 2021 Model of Dance Floor and Video wall. As of today, they still have the Dance Floor.
 
 In 2002, Bradenton got an entire new mask for Chuck, which is very uncommon for Studio C stores. The snout, head shell, and fur was replaced, but retained the original ears and eyebrows. When Bradenton received the new mask, the fur was not trimmed, making it so that the tech had to do it himself, resulting in the fur not looking correct. 
@@ -43,7 +43,7 @@ After the Orlando I-Drive store remodeled, Bradenton would receive and install t
 |2021 Model
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -62,10 +62,10 @@ After the Orlando I-Drive store remodeled, Bradenton would receive and install t
 |Destroyed, replaced with I-Drive’s
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos\Footage ## 
+## Videos\Footage ##
 TODO
 {| class='wikitable'
 !Link

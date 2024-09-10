@@ -11,7 +11,7 @@ gallery = []
 
 **January 1991 Show** is a showtape that played on the 3-Stage and Cyberamics at Chuck E Cheese's in the winter of 1991.
 
-##  Show List ## 
+## Show List ##
 
 # **Intermission 1**
 ## 8 Minute Countdown
@@ -72,7 +72,7 @@ gallery = []
 # **Video Break 3**
 ## [https://en.wikipedia.org/wiki/Club_at_the_End_of_the_Street Elton John - Club At The End Of The Street]
 
-##  Trivia: ## 
+## Trivia: ##
 The filming location for Showbiz Pizza was the Arlington, TX (2216 S Fielder Rd) location.
 
 This show was Nancy Lenihan final show as Helen Henny.

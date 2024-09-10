@@ -13,10 +13,10 @@ gallery = []
 
 **_Senior Citizens**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March of 1984.
 
-##  Revision ## 
+## Revision ##
 A tape called **_Senion Citizens (Revised)**_ released at some point that has unknown changes to the tape.<ref>http://www.showbizpizza.com/review/rae/1984_senior.html</ref>
 
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##World's Fair Intro Skit
 ##1984 World's Fair
@@ -44,4 +44,4 @@ A tape called **_Senion Citizens (Revised)**_ released at some point that has un
 ##_Boogie Woogie Bugle Boy_
 ##_Five Guys Named Moe_
 
-##  References ## 
+## References ##

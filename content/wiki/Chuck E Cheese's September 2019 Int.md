@@ -11,7 +11,7 @@ gallery = []
 
 This show features 6 Songs 
 
-##  Show List: ## 
+## Show List: ##
 **Skit 1** 
 
 Chuck E., Munch, & Bella B. - 'Play All You Can Play'
@@ -88,7 +88,7 @@ Nigel & Ronnie Ep 1
 
 Jung - 'Still Kids'
 
-##  Live Shows: ## 
+## Live Shows: ##
 Birthday Show (Cyberamic, Studio C, Weigi)
 
 Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigi)
@@ -105,5 +105,5 @@ Werewolf-Zomba-Franken-Conga (Cyberamic, Studio C, Weigi)
 
 Me & My Friends (Cyberamic, Studio C, Weigi)
 
-##  Trivia: ## 
+## Trivia: ##
 This show is designed to play in international markets due to the fact most don't celebrate Halloween. That is why most of this show lacks any mention of the season minus Werewolf-Zomba-Franken-Conga.

@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["ChuckfeldStan"]
 gallery = []
 +++
-##  Actors ## 
+## Actors ##
 
 * Unknown as Pasqually (Suit)
 * Bob West as Pasqually (Voice)
 
-##  Instructions ## 
+## Instructions ##
 
 * Mixing & Bunning the Dough
 ** Fill the Water Bucket (70*-80* F)
@@ -29,6 +29,6 @@ gallery = []
 **** Adding more water requires repeating the water temperature step (70*-80* F) again.
 ** Pour water into the bowl and add one bag of dough into the water.
 
-##  Trivia ## 
+## Trivia ##
 
 * Pasqually's voice interestingly more resembles the voice of Nintendo character 'Mario' more than in any showtape.

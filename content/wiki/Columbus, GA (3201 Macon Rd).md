@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","CECFan2023","2600:4040:5A0E:D900:887B:2635:320A:BFB2","2600:4040:5A0E:D900:2D0D:5FA1:81A8:E32C"]
 gallery = []
 +++
-**_3201 Macon Rd**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on February 17, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]. It is located in the Cross Country Plaza Shopping Center. It opened a week after [[Mobile, AL (710 Downtowner Loop)]]
+**_3201 Macon Rd**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on February 17, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]. It is located in the Cross Country Plaza Shopping Center. It opened a week after [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}})
 
-## History## 
+##History##
 Columbus opened its doors on February 17th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that Columbus was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Columbus received the Showbiz Pizza Campground upgrade.
 
-In around 1991/1992, Columbus received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Columbus received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. Columbus remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In 2011, Columbus removed the 3-Stage for the installation for the CU 1-Stage test stage. [[Whitehall, PA (1000 Lehigh Valley Mall)]] and [[Springfield, IL (2369 McArthur Ave)]] also received this test stage. Currently, as of January 2023, they still have the CU 1-Stage and is currently safe from the 2.0 remodel.
-## Stages## 
+In around 1991/1992, Columbus received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Columbus received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. Columbus remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In 2011, Columbus removed the 3-Stage for the installation for the CU 1-Stage test stage. [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) and [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) also received this test stage. Currently, as of January 2023, they still have the CU 1-Stage and is currently safe from the 2.0 remodel.
+##Stages##
 Columbus opened with the Rock afire Explosion in February 1982. Unfortunately, there are no photos or videos to exist of Columbus with the Rock afire, or as a ShowBiz in general.
 
 In 1991/1992, Columbus received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
@@ -40,7 +40,7 @@ In 2011, Columbus removed the 3-Stage for the CU 1-Stage.
 |Still in use
 |1 of 3 stages like this
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Character
@@ -95,8 +95,8 @@ In 2011, Columbus removed the 3-Stage for the CU 1-Stage.
 |N/A
 |Unknown/Destroyed
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 TODO
-## References## 
+##References##
 <references />

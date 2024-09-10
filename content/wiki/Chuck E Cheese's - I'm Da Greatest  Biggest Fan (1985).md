@@ -11,12 +11,12 @@ gallery = ["Screenshot","Ogin43r2joif4gn4ri2fog.png|Joseph","Etnegfgrefwwerfwer.
 
 **_Chuck E. Cheese's - I'm Da Greatest / Biggest Fan**_ is a Chuck E. Cheese labeled record sung by Joseph G. Ajhar and published by B.O.O. Music in 1985.
 
-##  Release ## 
+## Release ##
 It is currently unknown if these records were ever released in any Pizza Time Theatre locations, though is possibly the case in a select few franchise locations in the Pacific Northwest, or even just a single store from that area. Franchise locations during the time had leeway to run their stores to their owner's discretion, and an unauthorized record using the CEC trademark was possible.<ref>https://youtu.be/25qUFx6jm-s</ref>
 
-##  Transcripts ## 
+## Transcripts ##
 
-###  I'm Da Greatest ### 
+### I'm Da Greatest ###
 I'm da greatest, one and only famous
 
 The masterpiece of rock & roll
@@ -65,7 +65,7 @@ So oh no, don't ever go away
 
 Oh no, you don't want to, you do stay
 
-###  Biggest Fan ### 
+### Biggest Fan ###
 I'll take ya out if you want me to
 
 I'm gonna be very nice to you
@@ -119,11 +119,11 @@ I'm gonna pick you up in my big Sedan
 
 You're gonna find out I'm your biggest fan
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Screenshot 2023-08-04 185011.png|Vinyl Picture
 File:Ogin43r2joif4gn4ri2fog.png|Joseph G. Ajhar (Far Left)
 File:Etnegfgrefwwerfwer.png|Joseph G. Ajhar (Far Left)
 </gallery>
 
-##  References ## 
+## References ##

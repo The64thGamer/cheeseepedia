@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","Bowling for Cheese","CEC Tinley"]
 gallery = ["Biloxi"]
 +++
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:Biloxi 85.png|April 5, 1985
 </gallery>

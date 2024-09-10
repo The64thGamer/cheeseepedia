@@ -7,10 +7,10 @@ tags = [ ]
 contributors = ["Cheeseclassic","CEC Tinley","Jerry CEC","Caydenpedia","Cecnj98"]
 gallery = []
 +++
-[\2](\1)
-**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990 with [[Chuck E.'s House]], and closed on August 25, 2020 with a [[1-Stage]].
 
-##  Stages ## 
+**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990 with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}), and closed on August 25, 2020 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}).
+
+## Stages ##
 {| class='wikitable'
 |+
 !Stage
@@ -18,45 +18,45 @@ gallery = []
 !Removed
 !Notes
 |-
-|[[Chuck E.'s House]]
+|[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}})
 |August 1990
 |1993-1994
 |
 |-
-|[[1-Stage]]
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
 |1993-1994
 |August 2020
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown.
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |-
-|[[Singing Flowers (Cyberamic)]]
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
 |N/A
 |Unknown.
 |}

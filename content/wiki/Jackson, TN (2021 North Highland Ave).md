@@ -11,10 +11,10 @@ gallery = []
 
 This location was the second store to open with a Studio C Cappa, with it also being the V1 Cappa, which was only installed in 6 other locations. As of October 2022, they still have the Cappa, and is also one of 4 locations left to still have the V1 Cappa, the others being Waco, Texas (either the first or second Cappa installed), Joplin, Missouri (either the first or second Cappa installed), and Goldsboro, North Carolina (2nd last V1 installed)
 
-##  History ## 
+## History ##
 TODO
 
-##  Stage ## 
+## Stage ##
 Originally when the store opened, they had a Studio C Cappa V1, which was only installed in 7 locations. As of October 2022, they still have the Cappa, with it being one of two Studio C Cappas in Tennessee, the other being Johnson City, which opened in 2005.
 {| class='wikitable'
 !Stage
@@ -28,11 +28,11 @@ Originally when the store opened, they had a Studio C Cappa V1, which was only i
 |V1 Cappa
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 TODO
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Youtube Videos ## 
+## Youtube Videos ##
 TODO

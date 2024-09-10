@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}**_20 El Cerrito Plaza**_ was a _Chuck E. Cheese's_ that opened in 1993 (day and month unknown) with a [[1-Stage]], and closed in August 2000.
+{{Stub}}**_20 El Cerrito Plaza**_ was a _Chuck E. Cheese's_ that opened in 1993 (day and month unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}), and closed in August 2000.
 
-## History## 
+##History##
 TODO
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 |+
 !Stage
@@ -20,34 +20,34 @@ TODO
 !Removed
 !Notes
 |-
-|[[1-Stage]]
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
 |1993
 |August 2000
 |One of many installed in California. 
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown 
 |-
-|[\2](\1)
+|
 |Unknown
 |Unknown 
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |}

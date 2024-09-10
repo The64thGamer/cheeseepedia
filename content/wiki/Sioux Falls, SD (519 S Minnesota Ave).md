@@ -9,7 +9,7 @@ gallery = []
 +++
 {{Stub}}
 
-###  <big>History</big> ### 
+### <big>History</big> ###
 In 1939, a successful grocery company called **Red Owl** was expanding and chose to have their third location be at _519 S Minnesota Ave in Sioux Falls, South Dakota_. This store was seen as very successful and 20 years later it got a major expansion to the building. In 1976 the then property owner _Merle Getten_ decided to rebrand the store into **Country Store**, a concept where customers could save money by bagging their own groceries and taking them out to their own cars. This concept wasn't very successful and the business sold out to _Kampgrounds of America Inc_ in 1977.
 
 

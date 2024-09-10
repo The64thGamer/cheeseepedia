@@ -7,17 +7,17 @@ tags = [ ]
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = []
 +++
-[\2](\1)
+
 **_4420 14th St**_ was a _Pizza Time Theatre_ that opened in October 1981 and closed on June 16th, 1984.
 
-This location is not to be confused with [[Bradenton, FL (415 Cortez Rd)]] or [[Bradenton, FL (905 44th Ave)]].
+This location is not to be confused with [Bradenton, FL (415 Cortez Rd)]({{< ref "wiki/Bradenton, FL (415 Cortez Rd).md" >}}) or [Bradenton, FL (905 44th Ave)]({{< ref "wiki/Bradenton, FL (905 44th Ave).md" >}}).
 
-##  History ## 
+## History ##
 Bradenton opened with Harmony Howlette and presumably The King. Bradenton would later get Madame Oink, and of course Helen who stayed until Bradenton relocated. This was the sixth Pizza Time Theatre to open in the state of Florida.
 
 After Bradenton closed on June 16th, 1984, the store had an auction like most PTTs. The standalone building was reoccupied by Olive Garden, which is still open to this day.
 
-##  Stages ## 
+## Stages ##
 Bradenton opened and closed with a Balcony Stage.
 
 {| class='wikitable'
@@ -27,64 +27,64 @@ Bradenton opened and closed with a Balcony Stage.
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |October 1981
 |June 1984
 |Animatronics sold at auction.
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[\2](\1)
+|
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Waving Flags (Cyberamic)]]
+|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Applause Board (Cyberamic)]]
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[Drum Board (Cyberamic)]]
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |-
-|[[The King / King Kat (Lounge)]]
+|[The King / King Kat (Lounge)]({{< ref "wiki/The King  King Kat (Lounge).md" >}})
 |1981
 |Sold at auction, current status unknown 
 |}
 
-##  Videos ## 
+## Videos ##
 No Videos currently exist of the store.
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:BradentonOink.jpg|thumb
 File:TrickOrTreatWCECBradenton.jpg|thumb

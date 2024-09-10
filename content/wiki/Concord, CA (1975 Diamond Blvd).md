@@ -12,29 +12,29 @@ gallery = []
 **_Concord, CA (1975 Diamond Blvd)**_ was the third _Pizza Time Theatre_ location that opened in May of 1979 with a Cyberamic Portrait Stage, which closed in January of 1994.
 
 The store was two stories tall, and is notable for having little to no information on it despite being open for 15 years.
-## Stages## 
-## Animatronics## 
+##Stages##
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |-
-|[[Dolli Dimples (Cabaret)]]
+|[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
 |Unknown
 |}
-## References## 
+##References##

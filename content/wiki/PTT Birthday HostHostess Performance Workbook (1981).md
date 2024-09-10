@@ -11,4 +11,3 @@ gallery = []
 
 The **_Birthday Host/Hostess Performance Workbook**_ is a small employee handbook used for new _Pizza Time Theatre_ hires to study for their Birthday Host review quiz.
 
-[\2](\1)

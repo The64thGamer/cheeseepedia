@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Christmas 87 House.jpg|Reel Case
 </gallery>

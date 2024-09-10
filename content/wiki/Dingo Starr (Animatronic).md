@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["FileFickle"]
 gallery = ["iaapa_1978.png|IAAPA","joshbiz_pizz_palace.jpg|Showbiz","kingdominion.jpg|King's","pyramoid.png|Pyramid","ital_park.jpg|Italpark","crate_dingo.jpg|CEI","int_dingo.jpg|Internals"]
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bingo.png}}Dingo Starr was created for the [[Wolf Pack 5]] show and debuted at the 1978 IAAPA. He is a parody of  drummer, Ringo Starr of The Beatles. His mech was later reused for Billy Boy in the [[Hard Luck Bears]].
+{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bingo.png}}Dingo Starr was created for the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) show and debuted at the 1978 IAAPA. He is a parody of  drummer, Ringo Starr of The Beatles. His mech was later reused for Billy Boy in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}).
 
-##  History ## 
+## History ##
 TODO
 
-##  Design ## 
+## Design ##
 Dingo is a dog that plays the drums. He wore a jacket with varying colors depending on location, black turtle neck, and sometimes a necklace around his neck.
 
-##  Movements ## 
+## Movements ##
 
 * Mouth
 * Head left
@@ -29,7 +29,7 @@ Dingo is a dog that plays the drums. He wore a jacket with varying colors depend
 * Right arm
 * Body lean
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 File:iaapa_1978.png|IAAPA (1978)
 File:joshbiz_pizz_palace.jpg|Showbiz Pizza Place, Kansas City, MO (1980)

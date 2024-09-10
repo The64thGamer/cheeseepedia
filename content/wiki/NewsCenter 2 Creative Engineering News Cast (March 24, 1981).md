@@ -9,8 +9,8 @@ gallery = []
 +++
 {{NewsFootage|image=Newscenter2ceifootage.png|releasedate=March 24, 1981|length=2:07|newsstation=NewsCenter 2|rawname=Creative Engineering March 24 6 O'Clock Package|releasetime=6:00 PM}}The **_NewsCenter 2 Creative Engineering News Cast**_ is a March 24, 1981 news segment for _NewsCenter 2_ discussing the at the time success of Creative Engineering, alongside the creation of its animatronic characters for Showbiz Pizza Place.
 
-The [[Altamonte Springs, FL (541 W Hwy 436)]] Showbiz Pizza is highlighted and shown during the footage.<ref>https://www.youtube.com/watch?v=imGh8kv51JA</ref> A similar newscast would appear on the [[NewsWatch 6 Creative Engineering News Cast (March 24, 1981)]].
-## Transcript## 
+The [Altamonte Springs, FL (541 W Hwy 436)]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).md" >}}) Showbiz Pizza is highlighted and shown during the footage.<ref>https://www.youtube.com/watch?v=imGh8kv51JA</ref> A similar newscast would appear on the [NewsWatch 6 Creative Engineering News Cast (March 24, 1981)]({{< ref "wiki/NewsWatch 6 Creative Engineering News Cast (March 24, 1981).md" >}}).
+##Transcript##
 The segment is narrated entirely by Debbie Wright. Aaron Fechter speaks during the footage and interview as well.<blockquote>[Newsreel intro, not seen on broadcast]
 
 **Debbie Wright:** Creative Engineering, March 24th, 6 o'clock package.
@@ -34,5 +34,5 @@ It's just an ordinary band, right? Wrong. It's called the Rock-afire Explosion a
 **Debbie Wright:** I'll say it works! The group featuring Mitzi Mozzarella and Fatz the keyboard man is only part of a total electronic entertainment package at the newly opened Showbiz Pizza Place in Altamonte Springs. Paul McCartney, eat your heart out! Debbie Wright, Newscenter 2, Altamonte Springs.
 
 </blockquote>
-## References## 
+##References##
 <references />

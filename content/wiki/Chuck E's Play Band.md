@@ -7,12 +7,12 @@ tags = [ ]
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-Chuck E.'s Play Band is a wrist band system at [\2](\1) restaurants, used to play games in the restaurants. Chuck E's Play Band was first implemented in 2018, as an alternative to the [\2](\1), which had been in use since late 2016. E-Tickets, introduced in late 2020 during the COVID-19 Pandemic as the replacement to physical paper tickets, are stored on the Play Band's as well.
+Chuck E.'s Play Band is a wrist band system at  restaurants, used to play games in the restaurants. Chuck E's Play Band was first implemented in 2018, as an alternative to the , which had been in use since late 2016. E-Tickets, introduced in late 2020 during the COVID-19 Pandemic as the replacement to physical paper tickets, are stored on the Play Band's as well.
 
-## History## 
+##History##
 TODO
 
-## Designs## 
+##Designs##
 Chuck E's Play Band currently is available in 3 colors: Purple, Red, and Green. The overall design of the three colors are the same with stars, and Chuck E. jumping with his fist in the air and smiling. On the other side of the Play Band is 'Chuck E. Cheese's' in the official font of the wordmark for CEC, which has been in use since the early 1990's. In the middle is a bigger star, which is where the NFC reader (tech used to activate games) is located.
 
 Ways To Play

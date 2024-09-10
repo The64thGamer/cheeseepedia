@@ -17,7 +17,7 @@ gallery = []
 
 **Chuck E.'s Jukebox Jam Show**_ was a compilation show that released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various 1992 - 1995 shows.
 
-## Show List ## 
+##Show List ##
 #**Segment 1**
 ##'Party Place'
 #**Intermission 1**
@@ -35,7 +35,7 @@ gallery = []
 #**Intermission 3**
 ##Tricks For Treats
 ##Comedy Club
-##**[[File:New Graphic.png]]** Fluke Trailer
+##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** Fluke Trailer
 ##Munch and The Picnic Basket
 ##Comedy Club
 #**Segment 4**
@@ -102,7 +102,7 @@ gallery = []
 ##Trivia
 #**Segment 13**
 ##'Party Place (Encore)'
-## Trivia:## 
+##Trivia:##
 *All of the segments include newly recorded intros and outros as well as the Jukebox Jam logo.
 *'Freeze Frame' has different footage in this show which is reused from July 1994.
 *'I Won't Give Up' is completely different from when it was originally used in March 1995. In this show it is the complete song with a line of dialogue by Chuck which was also not in the original show. The beginning of the footage shows part of a live show countdown, suggesting this may be a live show version of the song.

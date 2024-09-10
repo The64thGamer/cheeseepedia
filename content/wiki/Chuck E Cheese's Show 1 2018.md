@@ -11,13 +11,13 @@ gallery = []
 
 This was created to play from November 20, 2017 - January 3, 2018. Featuring 4 songs. 2 new 2 old.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] DJ Snake, Luav - 'A Different Way'
-## [[File:New Graphic.png]] CEC Promo - 'Rip It, Win It, Play It'
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) DJ Snake, Luav - 'A Different Way'
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) CEC Promo - 'Rip It, Win It, Play It'
 ## Carly Rae Jepson - 'Cut To The Feeling'
-# [[File:New Graphic.png]] **Skit 1** 
+# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Skit 1** 
 ## Pasqually - 'Loopins-Boopin-Fakin-Doopin-Floppen-Loopen-Funnin's Day'
 # **Intermission 2** 
 ## [[File:New Graphic.png]] Sonic Forces
@@ -44,7 +44,7 @@ This was created to play from November 20, 2017 - January 3, 2018. Featuring 4 s
 ## Taylor Swift - 'You Belong With Me'
 # **Skit 4**
 ## Chuck E. Cheese - 'Another Chuck E. Day'
-##  Lives: ## 
+## Lives: ##
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 *Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
@@ -54,6 +54,6 @@ This was created to play from November 20, 2017 - January 3, 2018. Featuring 4 s
 *The Roll (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head Shoulders Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
-## Official Releases: ## 
+##Official Releases: ##
 *[https://www.youtube.com/watch?v=Z3IZcB7Whik 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' on YouTube]
 *[https://www.youtube.com/watch?v=s6VF6DTQguU 'Bailando' on YouTube]

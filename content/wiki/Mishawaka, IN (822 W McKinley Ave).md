@@ -11,17 +11,17 @@ gallery = []
 
 This location received Concept Unification in 1991 or 1992, and received 2.0 in 2018 after a fire.
 
-##  History ## 
+## History ##
 TODO
 
-##  Stages ## 
+## Stages ##
 TODO
 
-##  Animatronics ## 
+## Animatronics ##
 TODO
 
-##  Gallery ## 
+## Gallery ##
 TODO
 
-##  Videos ## 
+## Videos ##
 TODO

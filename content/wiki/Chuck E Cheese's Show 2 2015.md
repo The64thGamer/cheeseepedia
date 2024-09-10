@@ -11,7 +11,7 @@ gallery = []
 
 This was created to play from March 16th 2015 - April 19th 2015. This show features two songs and marked the change of a new era for shows.
 
-##  Show List: ## 
+## Show List: ##
 **Intermission 1** 
 
 Anna Kendrick - 'Cups'
@@ -66,4 +66,4 @@ Josh & The Jamtones - 'Tailfeathers'
 
 Taylor Swift - 'Shake it Off'
 
-##  Live Shows: ## 
+## Live Shows: ##

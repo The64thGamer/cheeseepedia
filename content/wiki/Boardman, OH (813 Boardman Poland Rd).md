@@ -8,12 +8,12 @@ contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
 {{Stub}} {{Generic|image=Flagstaffptt.png|desc=Boardman's Exterior in the Mid-Late 80s.}}
-**_813 Boardman Poland Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a [\2](\1) and was purchased in December 1991 with a [[Chuck E.'s House Facade]]. 
+**_813 Boardman Poland Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a  and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
 
-## History## 
+##History##
 TODO
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stage
 !Installed
@@ -31,24 +31,24 @@ TODO
 |One of 5 installed in Ohio. 
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Whereabouts
 |-
-|[\2](\1)
+|
 |Retrofitted in 1991.
 |-
-|[\2](\1)
+|
 |Retrofitted in 1991.
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Retrofitted in 1991.
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Retrofitted in 1991.
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Retrofitted in 1991.
 |-
 |Marc (Chuck E. Cheese Retrofit)

@@ -7,15 +7,15 @@ tags = [ ]
 contributors = ["CECBowlingGreen","ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","CECswag2009","AstridMascotFan2005"]
 gallery = []
 +++
-**2250 Coastal Lane** is a [[Chuck E. Cheese's]] that opened on April 26, 2011 with the [[Galaxy Stage]], which is still open to this day
+**2250 Coastal Lane** is a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on April 26, 2011 with the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}}){< ref "wiki/Galaxy Stage.md" >}}), which is still open to this day
 
-The Galaxy Stage is a test stage that was only installed in this location, and was the predecessor to the [[Circles of Light]] stage.
+The Galaxy Stage is a test stage that was only installed in this location, and was the predecessor to the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage.
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Stages ## 
-This location opened with the [[Galaxy Stage]], which was a test stage only installed in this location. As of September 2022, they still have the stage.
+## Stages ##
+This location opened with the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}}), which was a test stage only installed in this location. As of September 2022, they still have the stage.
 {| class='wikitable'
 |+
 !Stage
@@ -29,10 +29,10 @@ This location opened with the [[Galaxy Stage]], which was a test stage only inst
 |Only Galaxy Stage. Currently wearing Avenger shirt and Rockstar jeans
 |}
 
-##  Gallery ## 
+## Gallery ##
 
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -52,7 +52,7 @@ This location opened with the [[Galaxy Stage]], which was a test stage only inst
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
@@ -60,7 +60,7 @@ This location opened with the [[Galaxy Stage]], which was a test stage only inst
 !Whereabouts
 !Condition
 |-
-|[\2](\1)
+|
 |Unknown
 |Currently In Use
 |Good condition. wearing Rockstar jeans and Avenger shirt

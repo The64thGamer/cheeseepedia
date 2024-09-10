@@ -12,8 +12,8 @@ gallery = []
 |date=September 1988
 |raesvhs=y|showbizreel=y}}
 
-## Show List:## 
+##Show List:##
 It is currently unknown the order of the segments in this show, though the segments themselves are known
 
-* [\2](\1)
-* [\2](\1)
+* 
+* 

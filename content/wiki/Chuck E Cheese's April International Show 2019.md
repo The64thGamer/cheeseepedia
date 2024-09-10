@@ -21,7 +21,7 @@ This was created to play from April to June 2019. Featuring 5/6, 2 songs are new
 
 This show had a different show list for Existing/SD and HD this would only effect the order for everything past Intermission 5.
 
-##  Existing/Studio C SD Show List: ## 
+## Existing/Studio C SD Show List: ##
 
 # **Intermission 1**
 ## Tails of Friendship with Jasper T. Jowls Episode 1
@@ -64,7 +64,7 @@ This show had a different show list for Existing/SD and HD this would only effec
 # **Skit 6**
 ## Chuck E. & Helen - 'It's A Date'
 
-##  Studio C HD Show List: ## 
+## Studio C HD Show List: ##
 
 # **Intermission 1**
 ## Tails of Friendship with Jasper T. Jowls Episode 1

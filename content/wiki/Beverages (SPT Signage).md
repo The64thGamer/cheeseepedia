@@ -9,10 +9,10 @@ gallery = []
 +++
 The 'Beverages' sign was put into stores around 1993 with similar looking signs like the 'Salad Bar' and Gifts and Prizes'
 
-## Appearance## 
+##Appearance##
 The art showed a drink with a wood lid, two red and white straws, and the cup with was covered with three stripes of blue, yellow and green. On the cup was a streak that wen outside the cup that said 'Beverages' which was colored in red and orange
 
-## Dimensions## 
+##Dimensions##
 Unknown. Sign is small
 
 

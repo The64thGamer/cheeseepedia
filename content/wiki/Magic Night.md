@@ -13,13 +13,13 @@ gallery = []
 
 **_Magic Night**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1984.
 
-##  Revised Version ## 
+## Revised Version ##
 A tape variant labeled **_Magic Night (Revised)**_ was released to cut out the dated sections of Segment 8. This cut out the entirety of the intro, and reduced the _Michael Jackson Melody_ to just the song _Beat It_.<ref>http://www.showbizpizza.com/review/rae/1984_magic.html</ref>
 
-##  Part 1-3 Version ## 
+## Part 1-3 Version ##
 Reels have been found by James Marous that are labeled **_Magic Night Part 1, Magic Night Part 2,**_ and **_Magic Night Part 3.**_ No other information is known about these tapes. The tapes from his collection were later damaged and are likely unrecoverable.
 
-## Segment List## 
+##Segment List##
 #**Segment 1**
 ##Magic Night Intro Skit
 ##Magic Medley
@@ -55,4 +55,4 @@ Reels have been found by James Marous that are labeled **_Magic Night Part 1, Ma
 ###The Love You Save
 ###Beat It
 
-##  References ## 
+## References ##

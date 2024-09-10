@@ -11,7 +11,7 @@ gallery = []
 
 **_Chuck E. Cheese Summer Show 2024**_ was a summer show released on April 29, 2024, and ran until July 7th. It features 'I Love Sparkles' and 'Together We've Got It'
 
-##  Show List: ## 
+## Show List: ##
 
 # Intermission 1
 ## Off Road with Chuck E. Episode 3
@@ -51,9 +51,9 @@ gallery = []
 ## Chuck E. Cheese - 'Too many Pigs in the Pool'
 ## KIDZ BOP Kids - 'Cruel Summer'
 
-##  Lives: ## 
+## Lives: ##
 
-* [[Chuck E. Cheese Birthday Extravaganza]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Chuck E. Cheese Birthday Extravaganza Spanish]] (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [[Yuletide Slide]] (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Yuletide Slide]({{< ref "wiki/Yuletide Slide.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
 * CEC Stage Diagnostic (CEC Stage Navori)

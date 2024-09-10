@@ -9,11 +9,11 @@ gallery = []
 +++
 The **Kooser PTT Show** was the animatronic show used at the 2nd Chuck E. Cheese's Pizza Time Theatre location, San Jose, California (1371 Kooser Rd) from it's opening on December 2nd, 1978 until May of 1980, when it would receive the very first Balcony Stage and upgrade to Cyberamics in the process.
 
-##  History ## 
+## History ##
 TODO
 
-##  Design ## 
+## Design ##
 TODO
 
-##  Animatronics Used ## 
+## Animatronics Used ##
 TODO

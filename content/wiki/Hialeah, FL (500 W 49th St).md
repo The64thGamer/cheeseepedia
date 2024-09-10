@@ -7,44 +7,44 @@ tags = [ ]
 contributors = ["AstridMascotFan2005"]
 gallery = []
 +++
-**_Hialeah, FL (500 W 49th St)**_ was a _Pizza Time Theatre_ that opened on December 20, 1982 with a [[Cyberamics Balcony Stage]], which closed around 1985-1986.
+**_Hialeah, FL (500 W 49th St)**_ was a _Pizza Time Theatre_ that opened on December 20, 1982 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), which closed around 1985-1986.
 
-##  History ## 
+## History ##
 History is currently unknown to this location.
 
-##  Gallery ## 
+## Gallery ##
 No pictures have surfaced of this location.
 
-##  Videos ## 
+## Videos ##
 No videos have surfaced of this location.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |}

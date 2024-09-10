@@ -10,11 +10,11 @@ gallery = []
 |||10320 Shops Lane, Store #458 ||| Jacksonville, Florida Originally Opened On January 14, 2016 which to still open to this day.
 
 
-This location should also [[Jacksonville FL, (10320 Shops Lane)]], which
+This location should also [Jacksonville FL, (10320 Shops Lane)]({{< ref "wiki/Jacksonville FL, (10320 Shops Lane).md" >}}), which
 opened in January 2016, and is still open to this day.
 
 
-## History## 
+##History##
 Jacksonville opened on January 14th, 2016 as Chuck E. Cheese in the “Shops Lane”
 In the Chuck E. Cheese This location on the to place.
 On location looks on the A 2021 Model and adding a
@@ -22,7 +22,7 @@ Video Wall due to flood damage. As of July 2023, Jacksonville still has the 2.0 
 and 2021 Model Dance Floor + Video Wall.
 
 
-## Stages## 
+##Stages##
 Originally when the store opened, they had a Chuck E. Live as all other Dance Floor + Video Wall In this place Location In the Chuck E. Cheese In the 2.0 Remodel.
 In the 2021 Model with the addition of a Video Wall.
 {| class=“wikitable”
@@ -40,9 +40,9 @@ In the 2021 Model with the addition of a Video Wall.
 |Still in Use
 |Added in July 2023 after flood damage.
 |}
-## Gallery## 
+##Gallery##
 TODO
 
 
-## Videos## 
+##Videos##
 TODO

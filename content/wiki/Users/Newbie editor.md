@@ -8,7 +8,7 @@ contributors = ["Newbie editor"]
 gallery = []
 +++
 Hey there! I`m newbie! I`m new here, so please remember to say Hi!
-[\2](\1)
+
 My favorite chuck design: 32m Late night Chuck E Cheese. 
 
 My favorite billy bob design: NRAE Billy Bob 'DanceAtronic'

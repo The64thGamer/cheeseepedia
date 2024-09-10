@@ -7,9 +7,9 @@ tags = [ ]
 contributors = ["ILoveChuckECheese"]
 gallery = []
 +++
-Hi! I am a Chuck E. Cheese fan, My local CEC is the [\2](\1). I have been a CEC fan for many years. I am 16 years old.
+Hi! I am a Chuck E. Cheese fan, My local CEC is the . I have been a CEC fan for many years. I am 16 years old.
 
-##  Locations I Have Been To ## 
+## Locations I Have Been To ##
 I have been to 17 different Chuck E. Cheese locations, some more than others.
 {| class='wikitable'
 !Location

@@ -14,7 +14,7 @@ gallery = []
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 **_Chuck E. Cheese Spring Show 2024**_ is the spring show released on April 1, 2024. It features a variety of songs released from 2014-2023. The show features 14 songs with the automatic live being Chuck E. Strut.
 
-##  Show List: ## 
+## Show List: ##
 #**Intermission 1**
 ##Chuck E. Cheese - 'Off Road with Chuck E. Episode 2' (Through April 7)
 #**Skit 1**

@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 Cecstagediag.png|CEC Stage DVD
 </gallery>

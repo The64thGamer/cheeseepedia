@@ -11,7 +11,7 @@ gallery = []
 
 The **Environment** was a showtape that was released in May at Chuck E Cheese's.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Intermission 1**
 ## 8 Minute Countdown
@@ -80,7 +80,7 @@ The **Environment** was a showtape that was released in May at Chuck E Cheese's.
 # **Intermission 7**
 ## Can Can
 
-##  Trivia: ## 
+## Trivia: ##
 Annagrey Labasse is Helen Henny's newest singing voice.
 
 They debut a new 8 Minute Countdown to feature different walkaround skits & cartoons for each minute.

@@ -20,7 +20,7 @@ This show played from September - November 2020.
 
 Due to Covid-19 this store never ended up being played due to stores being shut down. 
 
-##  Show List: ## 
+## Show List: ##
 It is currently unknown the order of the skits in this show, though the skits themselves are known
 
 **Skit 1**

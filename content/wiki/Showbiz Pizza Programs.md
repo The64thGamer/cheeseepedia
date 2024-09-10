@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++
-###  Unknown Year ### 
+### Unknown Year ###
 
 * Showbiz Pizza Program 1
 * Showbiz Pizza Program 2
@@ -28,6 +28,6 @@ gallery = []
 * Showbiz Pizza Program 17
 * Showbiz Pizza Program 18
 
-###  1988 ### 
+### 1988 ###
 
 * Showbiz Pizza Program 11

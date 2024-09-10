@@ -15,9 +15,9 @@ gallery = []
 |dvdcu = y
 |dvdcyber = y
 }}
-**Holiday 2007** was an updated rerelease of [[Holiday 2002]] which played in December 2007. 
+**Holiday 2007** was an updated rerelease of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) which played in December 2007. 
 
-##  Show List: ## 
+## Show List: ##
 # **Intermission 1**
 ## Ken Chuck E. Derby
 ## Super Jasper - 'Canine Snowball'
@@ -27,16 +27,16 @@ gallery = []
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
 # **Intermission 2**
-## [[File:New Graphic.png]] Coke Spot
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
-## [[File:New Graphic.png]] Maya & Miguel
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Maya & Miguel
 ##Holiday VJ Spot - Laura
 # **Segment 2**
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
 # **Intermission 3**
 ## Eddie Coker - 'Happy Holidays'
-##  [[File:New Graphic.png]] Clifford The Big Red Dog
+##  [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Clifford The Big Red Dog
 ## Chuck E.'s Ski Trip
 ##Holiday VJ Spot - Evan
 # [[File:New Graphic.png]] **Segment 3**
@@ -52,7 +52,7 @@ gallery = []
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 
-##  Lives: ## 
+## Lives: ##
 * [[File:New Graphic.png]]Chicken Dance
 *Birthday Star 2001
 *[[File:New Graphic.png]] Birthday Extravaganza 2007
@@ -65,8 +65,8 @@ gallery = []
 *Chuck E. Says 2002
 *Chuck E. Shuffle
 
-##  Trivia: ## 
-*'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from [\2](\1).
+## Trivia: ##
+*'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from .
 **'Chuck E.'s Ski Trip' has been updated with new music.
 *Since the segments are all reused, this show features curtain open and close signals on all stages.
 *Unlike previous rereleases of Holiday 2002, this show does not include 'Boar's Head Carol'.

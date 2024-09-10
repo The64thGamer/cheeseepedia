@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Lelmaster"]
 gallery = []
 +++
-[\2](\1)
+
 Hello! I'm Lelmaster! I've been interested in animatronics since about 2017 when I first found out there were more animatronic bands out there than just Freddy and the band lmao. 
 
 I joined this wiki to move my wiki about Sgt. Singer's to a more animatronic focused wiki page, but I also hope I'll be able to help contribute much more to the wiki in the future!

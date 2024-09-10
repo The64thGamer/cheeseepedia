@@ -9,15 +9,15 @@ gallery = []
 +++
 **Chuck E. Cheese's Party Games** was a game released in 2010 for the Nintendo Wii.
 
-##  Gameplay ## 
-The game takes place at a nondescript [\2](\1) location.
+## Gameplay ##
+The game takes place at a nondescript  location.
 
-##  Playable Characters ## 
+## Playable Characters ##
 
 * Russell (Camping)
 * Tommy (Playing Sports)
 
-##  Differences from the real restaurants ## 
+## Differences from the real restaurants ##
 
 * You must unlock arcade games via a lucky wheel, while in real life at the time, the games can all be played via one token (a 25c value).
 * You earn tokens by making pizzas, while in real life, you get paid in cash from making pizzas.
@@ -31,10 +31,10 @@ The game takes place at a nondescript [\2](\1) location.
 * There is no way you can buy a video game for only 500 tickets in real life, even at the time, where physical tickets still existed.
 * Very few of the artwork as seen in 'Photo Hunt' exists elsewhere, 
 
-##  Reception ## 
+## Reception ##
 The game got a mixed reception upon launch, with some criticizing the liberties the game takes compared to real life Chuck E. Cheese's restaurants, along with the lack of multiplayer support for a so-called 'Party Game' (although online leaderboards were planned to be added, but were scrapped). The game did get a cult following briefly in 2020, due to the COVID-19 pandemic shutting down real life Chuck E. Cheese restaurants.
 
-##  Trivia ## 
+## Trivia ##
 
 * Russell may be based and/or named after Russell, another Boy Scout-type character from the 2009 Disney-Pixar film _Up_.
 * Chuck E.'s name was misspelled 'Check E.' on an unused character profile icon.

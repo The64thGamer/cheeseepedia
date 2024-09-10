@@ -10,9 +10,9 @@ gallery = []
 **_Show 5 2021**_ is the holiday show released November 15th 2021 featuring a variety of holiday songs
 
 This was created with conjunction with the Winter-Winnerland promotion. This show features 7 Songs with 2 of which being new and a live show called Chuck E.'s Yuletide Slide.
-## Corrected Version## 
+##Corrected Version##
 The initial DVD release for Studio C had pacing and timing issues, causing signals to not be synced up with the audio and video. A fixed DVD, labeled 'Corrected Version', was sent out two days later on November 17th, 2021.
-## Show List:## 
+##Show List:##
 
 # **Segment 1**
 ## 'Old Time Rock & Roll'
@@ -54,20 +54,20 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 ## Funimation: 'Braceface'
 ## Countdown 8
 
-## Live Shows:## 
+##Live Shows:##
 #Birthday Show (3stage, Cyberamic, Studio C, Weigi)
 #Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigi)
 #Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigi)
-#[[File:New Graphic.png]] Chuck E.'s Yuletide Slide (3stage, Cyberamic, Studio C,Weigi)
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Chuck E.'s Yuletide Slide (3stage, Cyberamic, Studio C,Weigi)
 #Chuck E.'s Winter Wonder Dance (Studio C, Weigi)
-#[[File:New Graphic.png]] Happy Holiday Dance (New Countdown) (Studio C, Weigi)
-#[[File:New Graphic.png]] Me & My Friends (Holiday) (New Countdown) (Studio C, Weigi)
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Happy Holiday Dance (New Countdown) (Studio C, Weigi)
+#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Me & My Friends (Holiday) (New Countdown) (Studio C, Weigi)
 #[[File:New Graphic.png]] Holly Jolly Dance (New Countdown) (Studio C, Weigi)
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 S52021CV.png|Studio C DVD (Corrected Version)
 </gallery>
-## Official Releases## 
+##Official Releases##
 [https://youtu.be/DZiTeTs8xiI 'Chuck E.’s Yuletide Slide' on YouTube]
 
 [https://www.youtube.com/watch?v=rBLJERfsf5Q 'The Windowsill' on YouTube]
@@ -75,7 +75,7 @@ S52021CV.png|Studio C DVD (Corrected Version)
 [https://open.spotify.com/album/5mQs7BB2torhGNLnNmpJmn 'Chuck E.'s Holiday Party' on Spotify]
 
 [https://music.apple.com/us/album/chuck-e-s-holiday-party-single/1596724627 'Chuck E.'s Holiday Party - Single' on Apple Music]
-## Trivia## 
+##Trivia##
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2021
 |image=Winterwinnerland.png

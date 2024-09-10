@@ -20,7 +20,7 @@ gallery = []
 
 This was created to play from from July & August 2012.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Segment 1**
 ## 'Summertime Groove'
@@ -55,7 +55,7 @@ This was created to play from from July & August 2012.
 ## Closing Time?
 ## Dog Party
 
-##  Lives: ## 
+## Lives: ##
 
 * Birthday (3stage, Cyberamic, Studio C)
 * Spanish Birthday (3stage, Cyberamic, Studio C)
@@ -63,7 +63,7 @@ This was created to play from from July & August 2012.
 * Chuck E.'s March Live (3stage, Cyberamic, Studio C)
 * Happy & U Know It Live (3stage, Cyberamic, Studio C)
 
-##  Trivia: ## 
-'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from [\2](\1)
+## Trivia: ##
+'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from 
 
-The only different between [[Summer 2012]] and Summer 2012 (International) is the 'My Little Pony' intermission was replaced with Amphicar and 'Pound Puppies' was replaced with Closing Time?
+The only different between [Summer 2012]({{< ref "wiki/Summer 2012.md" >}}) and Summer 2012 (International) is the 'My Little Pony' intermission was replaced with Amphicar and 'Pound Puppies' was replaced with Closing Time?

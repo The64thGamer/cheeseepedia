@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["Saan1ty"]
 gallery = []
 +++
-#REDIRECT [[User:Saan1ty/TestPage]]
+#REDIRECT [User:Saan1ty/TestPage]({{< ref "wiki/UserSaan1tyTestPage.md" >}})

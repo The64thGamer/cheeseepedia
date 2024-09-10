@@ -11,26 +11,26 @@ gallery = []
 
 It is located around a few unnamed shopping centers.
 
-It's also not to be confused with [\2](\1) which opened in the Spring of 1991 (most likely around March or April) with a Road Stage and is also open to this day.
+It's also not to be confused with  which opened in the Spring of 1991 (most likely around March or April) with a Road Stage and is also open to this day.
 
-## History## 
-Mississauga (Argentia) opened on January 12th, 2006 as the 22nd Chuck E. Cheese to open in all of Canada, and it's a standalone store. It opened with the 2005 update of the [[2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]].
+##History##
+Mississauga (Argentia) opened on January 12th, 2006 as the 22nd Chuck E. Cheese to open in all of Canada, and it's a standalone store. It opened with the 2005 update of the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}).
 
 Mississauga (Argentia) remained like this until 17 years later in April 2023 when it would receive the 2.0 Remodel meaning not only would another Studio C Beta be gone and another 2021 Model Dance Floor and Video Wall installed, but it would also be the first 2.0 in Canada.
 
 As of August 2023, Mississauga (Argentia) still remains like this with the 2021 Model Dance Floor and Video Wall.
-## Stages## 
+##Stages##
 Mississauga (Argentia) opened with the Studio C Beta, 16m in January 2006.
 
 It was removed in the 2.0 Remodel in April 2023, and replaced with the 2021 Model Dance Floor and Video Wall.
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |??-8? 1-??
 |Destroyed.
 |-
@@ -38,4 +38,4 @@ It was removed in the 2.0 Remodel in April 2023, and replaced with the 2021 Mode
 |??-8? 3-??
 |Destroyed.
 |}
-## Gallery## 
+##Gallery##

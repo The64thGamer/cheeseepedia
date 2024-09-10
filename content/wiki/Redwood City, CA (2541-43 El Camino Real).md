@@ -7,13 +7,13 @@ tags = [ ]
 contributors = ["CorrectorMan","CEC Tinley","Veronancy"]
 gallery = []
 +++
-[\2](\1)
-**_2541-43 El Camino Real**_ is a Chuck E. Cheese's that opened on December 28, 1999 and is still open today with a [\2](\1).
 
-This location is not to be confused with [\2](\1) and two stories.
+**_2541-43 El Camino Real**_ is a Chuck E. Cheese's that opened on December 28, 1999 and is still open today with a .
 
-##  Stages ## 
-Redwood City opened with a [\2](\1). By 2005, the curtains were disabled, in late 2013, Chuck's cap was removed, and by 2022, the bot was no longer programmed. As of July 2023, Redwood City's Alpha still remains like this.
+This location is not to be confused with  and two stories.
+
+## Stages ##
+Redwood City opened with a . By 2005, the curtains were disabled, in late 2013, Chuck's cap was removed, and by 2022, the bot was no longer programmed. As of July 2023, Redwood City's Alpha still remains like this.
 {| class='wikitable'
 |+
 !Stage
@@ -21,35 +21,35 @@ Redwood City opened with a [\2](\1). By 2005, the curtains were disabled, in lat
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |December 1999
 |Still in use
-|Opened on the same day as the [\2](\1) store.
+|Opened on the same day as the  store.
 |}
 
-##  History ## 
-Redwood City opened on December 28, 1999 on top of a Discovery Zone. Just like other stores opening at around the time, it originally had [\2](\1), which included late 90s decor, [\2](\1) stage. It later received [\2](\1), like other stores. In the late 2000s, this location received (interior only) the 2005 update to the [[2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]], which involved removing some 90s decor for new decor, tearing down the showroom walls, added purple walls, and threw out older games for newer games and rides. By the late 2010s, the Skytubes were removed for more rides. As of July 2023, Redwood City remains like this.
+## History ##
+Redwood City opened on December 28, 1999 on top of a Discovery Zone. Just like other stores opening at around the time, it originally had , which included late 90s decor,  stage. It later received , like other stores. In the late 2000s, this location received (interior only) the 2005 update to the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}), which involved removing some 90s decor for new decor, tearing down the showroom walls, added purple walls, and threw out older games for newer games and rides. By the late 2010s, the Skytubes were removed for more rides. As of July 2023, Redwood City remains like this.
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Serial Number
 !Wheareabouts
 |-
-|[[Chuck E. Cheese 32m (Animatronic)]]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |030 (R&D 4698)
 |Currently in use
 |-
-|[[Bird (Animatronic)]]
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
 |Currently in use
 |-
-|[[Pizza Time Clock (Animatronic)]]
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Currently in use
 |-
-|[[Pizza Phone (Animatronic)]]
+|[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
 |Currently in use
 |}

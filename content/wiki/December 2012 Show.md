@@ -21,12 +21,12 @@ gallery = []
 
 This was created to play from December 2, - December 31, 2013.
 
-##  Show List: ## 
+## Show List: ##
 
 # **Song 1** 
 ## 'Deck the Halls'
 # **Intermission 1** 
-## [[File:New Graphic.png]] Veggie Tales - 'Wrapped Myself Up For Christmas'
+## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Veggie Tales - 'Wrapped Myself Up For Christmas'
 ## Chillout 1 
 # **Song 2** 
 ## 'Up on the Housetop'
@@ -71,7 +71,7 @@ This was created to play from December 2, - December 31, 2013.
 ## Dreidel Song
 ## Chillout 9
 
-##  Lives: ## 
+## Lives: ##
 *Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
@@ -81,19 +81,19 @@ This was created to play from December 2, - December 31, 2013.
 
 *Old Mac Donald (Studio C,Weigl)
 *BINGO (Studio C,Weigl)
-## Showtape Scans / Images:## 
+##Showtape Scans / Images:##
 <gallery>
 holiday2013cecstage.jpg|CEC-Stage DVD Scan
 </gallery>
 
-##  Trivia: ## 
+## Trivia: ##
 
-* All songs from this show were redubbed originally in [\2](\1). With them originally coming from [[Holiday 2002]].
-* Despite CEC no longer using Duncan's voice for over a year they decided to use 'Dreidel Song' from [[Chuck E's Holiday Party 1999]]. The footage was not changed nor was the voice cast. 
+* All songs from this show were redubbed originally in . With them originally coming from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}){< ref "wiki/Holiday 2002.md" >}}).
+* Despite CEC no longer using Duncan's voice for over a year they decided to use 'Dreidel Song' from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}). The footage was not changed nor was the voice cast. 
 * This was the final showtape with curtains as the programming for the songs hadn't been touched since 2002. But due to the songs being cut apart some songs only have curtain open and some only have curtain close
 
-* This was the final show with [[Cupid Shuffle]] with this show they decided to reedit the footage to remove the avenger walkaround. Despite also putting a song from 1999 as an intermission. You can tell they all worked together on this.
-* This was also the final show to use the old 1999 Puppets. While the footage was the same from [[Holiday 2002]] they would no longer be seen in any way after this point. 
+* This was the final show with [Cupid Shuffle]({{< ref "wiki/Cupid Shuffle.md" >}}) with this show they decided to reedit the footage to remove the avenger walkaround. Despite also putting a song from 1999 as an intermission. You can tell they all worked together on this.
+* This was also the final show to use the old 1999 Puppets. While the footage was the same from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) they would no longer be seen in any way after this point. 
 
 * The Timecode part of this show is a clip from Sesame Street with the text **Merry Christmas Michael! Thanks for all that you do.'._
 

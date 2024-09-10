@@ -10,9 +10,9 @@ gallery = []
 **500 Old Town Rd** was a Showbiz Pizza Place that opened on October 20, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
 This converted to a Chuck E. Cheese around 1991, and converted to a Studio C Beta and then received 2.0 in December 2021. It is located in the 'Old Towne' Shopping Center. This location is also known as Vestavia since it's located in Vestavia Hills which is a suburb of Birmingham.
-## History## 
+##History##
 Birmingham opened on October 20th, 1982 as ShowBiz Pizza Place in the 'Old Towne' Shopping Center, They would later end up receiving the [https://chuckepedia.com/wiki/1988_Remodel 1988 Remodel] removing old Showbiz decor.<ref>https://youtu.be/5dWwX4Tk65g</ref> In 1991, Birmingham received Concept Unification which removed the Rock-Afire for the 3-Stage. Birmingham underwent another remodel in the Mid-Late 1990's which involved the removal of the Neon Signage, Blue and White Awnings, & some checkers around the store, and added new decor and SkyTubes. In 2011, Birmingham received the 2005 Remodel which removing all 1990's store art, Balcony Seating, Showroom Walls, adding purple walls, and removed the 3-Stage for the Studio C Beta, 32m. In December 2021, Birmingham received the 2.0 remodel which removed the Beta for the Dance Floor. As of January 2023, Birmingham still has the 2.0 Remodel and Dance Floor.
-## Stages## 
+##Stages##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In around 1991, Birmingham would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In 2006<ref>https://youtu.be/wCGEx3_pGgo</ref>, the 3-Stage was removed for the Beta. In December 2021, Birmingham received 2.0 and the Beta was removed for the Dance Floor.
 {| class='wikitable'
 |+
@@ -36,7 +36,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |December 2021
 |Still in use
 |}
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -94,8 +94,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |N/A
 |Destroyed.
 |}
-## Gallery## 
-## Videos## 
+##Gallery##
+##Videos##
 {| class='wikitable'
 !Link
 !Description

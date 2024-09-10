@@ -11,7 +11,7 @@ gallery = []
 
 **_Parkway Parade, Marine Parade, Singapore**_ was a Chuck E. Cheese's Pizza Time Theatre that opened on December 15, 1983 and closed in 1985/1986 (date unknown) with a Balcony Stage. This was the first and only CEC to open in Singapore.
 
-##  Stage ## 
+## Stage ##
 This location had a Balcony Stage. However, further documentation is unknown.
 {| class='wikitable'
 |+
@@ -26,8 +26,8 @@ This location had a Balcony Stage. However, further documentation is unknown.
 |Only Chuck E. Cheese in Singapore.
 |}
 
-##  History ## 
+## History ##
 This location opened on December 15, 1983 in the Parkway Parade shopping mall and had a Balcony Stage. However, there is basically no documentation on this location, other than prints marking its opening or advertisements. The location closed in 1985/1986 for unknown reasons, but it might be due to that it was underperforming or parking problems. It was later split up into multiple businesses. As of July 2023, the businesses are still there.
 
-##  Animatronics ## 
+## Animatronics ##
 TODO

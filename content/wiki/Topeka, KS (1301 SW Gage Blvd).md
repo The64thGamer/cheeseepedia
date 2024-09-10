@@ -7,14 +7,14 @@ tags = [ ]
 contributors = ["RedaCEC","173.216.33.6","64.125.60.2","CEC Tinley","SuperCreamPiper2008","CoolerDude","The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++
-[\2](\1)
+
 **_10510 Metcalf Lane**_ was a _Showbiz Pizza Place_ restaurant located in Overland Park, Kansas.
 
-##  History ## 
+## History ##
 Overland Park, KS opened its doors on December 1st, 1980 as the Second store in Kansas. This was one of 18/19 stores to receive a Beta RockAfire Explosion show, though it was very still unique in several ways. 
 It was closed in 1985-1986. 
 
-##  Stages ## 
+## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, they were the 6th RAE installed, and until closure they kept the 'Beta' bots, which had hollow frames. 
 {| class='wikitable'
 !Stage
@@ -22,13 +22,13 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 !Removed
 !Notes
 |-
-|[\2](\1)
+|
 |December 1980
 |1985-1986
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -79,8 +79,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |Unknown
 |}
 
-## Gallery## 
+##Gallery##
 TODO
 
-## Videos## 
+##Videos##
 TODO

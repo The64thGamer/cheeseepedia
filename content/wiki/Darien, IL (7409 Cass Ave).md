@@ -7,14 +7,14 @@ tags = [ ]
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]
 gallery = []
 +++
-[\2](\1)
+
 **_7409 Cass Ave**_ is a Chuck E. Cheese's located in Darien, Illinois.
 
 
 
 This location opened as a ShowBiz Pizza Place on February 24th, 1981, and is still open today.
 
-##  Stages ## 
+## Stages ##
 Darien opened with The Rock-afire Explosion. Their original show was made in October 1980, however their show was replaced in 1985 with Benton Harbor, MI's show, and April 1982 show. In November 1991, Darien underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band.
 
 Throughout the 1990s and the 2000s, Darien's show was in the average condition for a 3-Stage at the time. However, Darien was in a state of disrepair from around 2009-2011. It was repaired substantially in 2012, and was in pretty good condition, until 2015.

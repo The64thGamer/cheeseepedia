@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["Showbizpizzawiki","2601:5C8:C201:7480:34B3:9875:4579:D72A"]
 gallery = []
 +++
-An official procedure for cylinder rebuilding is documented in the [[ShowBiz Pizza Place Operations Manual]] from 1981.
+An official procedure for cylinder rebuilding is documented in the [ShowBiz Pizza Place Operations Manual]({{< ref "wiki/ShowBiz Pizza Place Operations Manual.md" >}}) from 1981.
 
 #Remove snap ring or spiral ring from top of spool
 #Remove plastic cap and spacer

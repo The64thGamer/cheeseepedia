@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Gallery## 
+##Gallery##
 <gallery>
 bones 2014.jpg
 </gallery>

@@ -11,16 +11,16 @@ gallery = []
 
 This location was the last Showbiz location opened with a Rock-Afire, as Concept Unification would be happening around this time, this location would very shortly after convert to a 3-Stage, which is still there.
 
-##  History ## 
+## History ##
 
-###  Showbiz Pizza Place 1990-1991 or 1992 ### 
+### Showbiz Pizza Place 1990-1991 or 1992 ###
 TODO
 
-###  Chuck E. Cheese's 1991 or 1992-Present ### 
+### Chuck E. Cheese's 1991 or 1992-Present ###
 TODO
 
-##  Stages ## 
-Originally, the store had a Rock-Afire Explosion, the location the stage came from was Surfside Beach, South Carolina, in which that came from [\2](\1). They would have the stage for a short time, until 1991 or 1992, when they would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. As of September 2022, they still have the 3-Stage, and are the last 3-Stage in the state of Virginia, as the Roanoke location received 2.0 in July 2022.
+## Stages ##
+Originally, the store had a Rock-Afire Explosion, the location the stage came from was Surfside Beach, South Carolina, in which that came from . They would have the stage for a short time, until 1991 or 1992, when they would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. As of September 2022, they still have the 3-Stage, and are the last 3-Stage in the state of Virginia, as the Roanoke location received 2.0 in July 2022.
 {| class='wikitable'
 |+
 !Stage
@@ -31,7 +31,7 @@ Originally, the store had a Rock-Afire Explosion, the location the stage came fr
 |Rock-Afire Explosion
 |1990
 |1991 or 1992
-|From [\2](\1)
+|From 
 |-
 |3-Stage
 |1991 or 1992
@@ -39,10 +39,10 @@ Originally, the store had a Rock-Afire Explosion, the location the stage came fr
 |Last in Virginia
 |}
 
-##  Gallery ## 
+## Gallery ##
 TODO: Gallery
 
-##  Videos ## 
+## Videos ##
 TODO: Videos
 {| class='wikitable'
 |+
@@ -63,7 +63,7 @@ TODO: Videos
 |
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 TODO: Animatronics
 {| class='wikitable'
 |+

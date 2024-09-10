@@ -16,7 +16,7 @@ gallery = []
 
 This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 3 programmed Songs with the standard live being Me & My Friends.
 
-##  Show List: ## 
+## Show List: ##
 
 #Intermission 1
 ##KIDZ POP - Dance the Night

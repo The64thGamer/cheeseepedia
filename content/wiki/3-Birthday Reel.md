@@ -13,7 +13,7 @@ gallery = []
 
 **3-Birthday Reel** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1980.
 
-## Show List## 
+##Show List##
 #**Birthday Show 1** 
 ##_Beatles Birthday_
 #**Birthday Show 2** 

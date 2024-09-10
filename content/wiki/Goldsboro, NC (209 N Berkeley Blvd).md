@@ -8,9 +8,9 @@ contributors = ["66.215.38.213","Rexburg090","CorrectorMan","Cheeseclassic","Mat
 gallery = []
 +++
 **_209 N Berkeley Blvd, Store #463**_ is a _Chuck E, Cheese_ in Goldsboro, North Carolina.
-This is the relocation of the [\2](\1) with their [[1-
+This is the relocation of the  with their [[1-
 Stage]].
 
 
-##  History ## 
+## History ##
 Goldsboro (209 N Berkeley Blvd

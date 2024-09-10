@@ -9,10 +9,10 @@ gallery = []
 +++
 TODO:
 
-##  History ## 
+## History ##
 
-##  Design ## 
+## Design ##
 
-##  Gallery ## 
+## Gallery ##
 
-##  References ## 
+## References ##

@@ -21,20 +21,20 @@ This show ran from August 1997 to November 1997.
 | laseraam = y
 }}
 
-## Summary## 
+##Summary##
 The show begins with an intro of Chuck E. Cheese using different forms of transportation. After, Chuck E. and Munch's Make Believe Band singing [https://en.wikipedia.org/wiki/Lets_Twist_Again Let's Twist Again]. At the end, Chuck E. Cheese says that he got all twisted up and he was gonna take a break. 
 
-## Showtape Releases## 
+##Showtape Releases##
 {| class='wikitable'
 !Release Year
 !Showtape
 !Format
 |-
 |1997
-|[[August 1997 Show]]
+|[August 1997 Show]({{< ref "wiki/August 1997 Show.md" >}})
 |3-stage, Cyberamics
 |-
 |1997
-|[[August 1997 Show (AAM)]]
+|[August 1997 Show (AAM)]({{< ref "wiki/August 1997 Show (AAM).md" >}})
 |Awesome Adventure Machine
 |}

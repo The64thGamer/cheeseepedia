@@ -11,4 +11,4 @@ gallery = []
 
 Florence, Ky Pizza Time Theater opened April 1982 undergoing several remodels to eventually become a Chuck E. Cheese.
 
-##  Stages: ## 
+## Stages: ##

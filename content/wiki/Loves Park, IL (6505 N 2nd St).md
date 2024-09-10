@@ -11,12 +11,12 @@ gallery = []
 
 This location had the last Chuck E.'s House from 2008 until June 12, 2022, when they would remove Chuck E.'s House for a Dance Floor and Video Wall as part of the 2.0 remodel.
 
-This location relocated t of the [[Rockford, IL (3600 E State St)]] in October 1988, bringing over with them Loves Park’s Cyberamics.
+This location relocated t of the [Rockford, IL (3600 E State St)]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}}) in October 1988, bringing over with them Loves Park’s Cyberamics.
 
-##  History ## 
+## History ##
 Loves Park opened with Harmony Howlette and The King. Loves Park would later get Madame Oink, and of course Helen who stayed until Loves Park relocated.
 
-##  Stages ## 
+## Stages ##
 Loves Park opened and closed with a Balcony Stage.
 
 When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker Stage, which was the last one to exist before being removed on June 12th, 2022 and sent to the SPT warehouse in Kansas where it currently sits in storage.
@@ -34,39 +34,39 @@ When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker S
 |-
 |}
 
-##  Animatronics ## 
+## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution 
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution
 |-
-|[\2](\1)
+|
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution
 |-
-|[\2](\1)
+|
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution 
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution
 |-
-|[[Warblettes (Cyberamic)]]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |1981
 |Unknown.
 |}
 
-##  Videos ## 
+## Videos ##
 {| class='wikitable'
 |+
 !Link
@@ -86,6 +86,6 @@ When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker S
 |
 |}
 
-##  Gallery ## 
+## Gallery ##
 <gallery>
 </gallery>

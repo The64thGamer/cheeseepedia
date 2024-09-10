@@ -7,7 +7,7 @@ tags = [ ]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Show List:## 
+##Show List:##
 #**Segment 1**
 ##Ricky Skaggs Medley
 #**Segment 2**

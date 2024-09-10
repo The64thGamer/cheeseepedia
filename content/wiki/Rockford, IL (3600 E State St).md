@@ -11,8 +11,8 @@ gallery = []
 
 This location had the last Rocker Stage from 2008 until June 12, 2022, when they would remove the Rocker Stage for a Dance Floor and Video Wall as part of the 2.0 remodel
 
-##  History ## 
+## History ##
 TODO: History
 
-##  Stages ## 
+## Stages ##
 Originally, the store opened with a Rocker Stage, which they would have until June 12, 2022, when they would remove it because of the 2.0 remodel, the stage was saved by corporate as apart of a 'Retro Store' concept.

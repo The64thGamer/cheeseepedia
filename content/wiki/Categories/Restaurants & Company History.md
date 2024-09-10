@@ -7,4 +7,4 @@ tags = [ ]
 contributors = ["The 64th Gamer","ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-#REDIRECT [[:Category:Restaurants, Offices, & Notable Locations]]
+#REDIRECT [:Category:Restaurants, Offices, & Notable Locations]({{< ref "wiki/CategoryRestaurants, Offices, & Notable Locations.md" >}})

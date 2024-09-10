@@ -8,27 +8,27 @@ contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64t
 gallery = []
 +++
 **_96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre (出奇老鼠)_ that opened in December 1982 with a Balcony Stage, which closed in 1988.
-[\2](\1)
+
 This store was the first of Asian Pizza Time Theatres, being franchised by [https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0 Happy World Co., Ltd.]
-## Stages## 
+##Stages##
 Opened with a small balcony stage and a single cabaret act. Balcony dropped Mr. Munch's Magic Madhouse for unknown reasons. A sheet of window-like plastic was put over the characters to prevent kids from climbing onstage. Special Chinese nametags were created. Starting in 1983, special showtapes were created for Hong Kong stores, with all of the characters speaking standardized Chinese.  
 
-###  Cabaret Act ### 
+### Cabaret Act ###
 Opened with a cabaret act, the character present unknown. Special Chinese showtapes were created for the characters, all of them yet to be found.
 
-## History## 
+##History##
 Kowloon opened to the public in December 1982 in the Hilton Towers in East Kowloon. Supporting advertisements ran throughout it's operation, supporting the catchphrase **薄餅樂園開心地，出奇老鼠錫晒你'._ 
 
-### Renovation### 
+###Renovation###
 Between 1986 and 1988, the Hilton Tower shopping complex would go under a huge exterior renovation. It's unknown if the interior was affected. 
 
-### Closure### 
+###Closure###
 Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatres in Hong Kong closing a year later. A large majority of the Pizza Time Theatres were converted into The Wonderful World of Whimsy, a brand created by the Franchisee, [https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0 Happy World Co., Ltd.]
-## Arcade Machines## 
+##Arcade Machines##
 
-* [[Pizza Time Theatre Musical Ferris Wheel]]
+* [Pizza Time Theatre Musical Ferris Wheel]({{< ref "wiki/Pizza Time Theatre Musical Ferris Wheel.md" >}})
 
-## Videos## 
+##Videos##
 {|
 !Link
 !Description
@@ -54,39 +54,39 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 |Footage of ether Aberdeen or Kowloon's balcony stage in an arcade following their closure.
 |1989
 |}
-## Gallery## 
+##Gallery##
 TBD.<gallery>
 </gallery>
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
 !Manufacturing Date
 !Whereabouts
 |-
-|[[Chuck E Cheese (Cyberamic)]]
+|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Guest Star / Helen Henny (Cyberamic)]]
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Mr. Munch (Cyberamic)]]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Pasqually (Cyberamic)]]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Jasper T. Jowls (Cyberamic)]]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|[[Warblettes]]
+|[Warblettes]({{< ref "wiki/Warblettes.md" >}})
 |Unknown
 |Unknown
 |}
-## References## 
+##References##
 TBD.

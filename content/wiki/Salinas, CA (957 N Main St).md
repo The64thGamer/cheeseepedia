@@ -7,21 +7,21 @@ tags = [ ]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_957 N Main St**' _was a Pizza Time Theatre_ that opened in September 1981 (day unknown) with a [[Cyberamics Balcony Stage]], and closed in Summer 1995 (month and day unknown) as a _Chuck E. Cheese's Pizza_, with [[Chuck E.'s House Facade]].
+**_957 N Main St**' _was a Pizza Time Theatre_ that opened in September 1981 (day unknown) with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in Summer 1995 (month and day unknown) as a _Chuck E. Cheese's Pizza_, with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 
-## History## 
+##History##
 TODO
 
 
-## Animatronics## 
+##Animatronics##
 TODO
 
 
 
 
-## Gallery## 
+##Gallery##
 TODO
 
-## Videos## 
+##Videos##
 TODO

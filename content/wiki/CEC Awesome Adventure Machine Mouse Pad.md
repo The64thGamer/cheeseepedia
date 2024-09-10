@@ -7,6 +7,6 @@ tags = [ ]
 contributors = ["BurgersNuggs445"]
 gallery = ["AAM"]
 +++
-Mouse pad that briefly appears in an [\2](\1) intermission.<gallery>
+Mouse pad that briefly appears in an  intermission.<gallery>
 File:AAM Mousepad.png
 </gallery>

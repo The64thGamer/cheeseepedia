@@ -7,77 +7,77 @@ tags = [ ]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{{Stub}} **_Lafayette, LA(3221 Ambassador Caffery Pkwy)**_ was a _ShowBiz Pizza Place_ that opened on November 5th, 1984 with a [\2](\1), and closed in 1994/1995 (day unknown) as a _Showbiz Pizza_ with a [[3-Stage]].
+{{Stub}} **_Lafayette, LA(3221 Ambassador Caffery Pkwy)**_ was a _ShowBiz Pizza Place_ that opened on November 5th, 1984 with a , and closed in 1994/1995 (day unknown) as a _Showbiz Pizza_ with a [3-Stage]({{< ref "wiki/3-Stage.md" >}}){< ref "wiki/3-Stage.md" >}}).
 
-## History## 
+##History##
 TODO
 
-## Stages## 
+##Stages##
 {| class='wikitable'
 !Stages
 !Installed
 !Removed
 |-
-|[\2](\1)
+|
 |November 1984
 |July 1991
 |-
-|[[3-Stage]]
+|[3-Stage]({{< ref "wiki/3-Stage.md" >}})
 |July 1991
 |1994/1995
 |}
 
-## Animatronics## 
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
 !Whereabouts
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[\2](\1)
+|
 |N/A
 |Unknown/Destroyed
 |-
-|[[Wink]]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed
 |}
