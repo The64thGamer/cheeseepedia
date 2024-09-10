@@ -1,11 +1,11 @@
 :root {
   --deep-blue: #1e2c4c;
-  --blue: #6f6fff;
-  --white: #eeebe2;
-  --yellow: #ff9c00;
+  --blue: hsl(160, 55%, 46%);
+  --white: #dbd1b1;
+  --yellow: hsl(37, 76%, 50%);
   --orange: #e75102;
   --deep-orange: #993b08;
-  --brown: #352a27;
+  --brown: #2c2422;
 }
 
 body {
@@ -18,12 +18,14 @@ body {
   max-width: 50vw;
   border-color: var(--yellow);
   border-style: solid;
-  border-width: 2em;
+  border-width: 3em;
   border-radius: 5em;
   padding: 3em;
-  outline-color: var(--brown);
-  outline-width: 0.5em;
+  outline-color: var(--white);
+  outline-width: 1.5em;
   outline-style: solid;
+  box-shadow: 0 0 0 2em var(--brown), inset 0 0 0 0.5em var(--brown);
+  
 }
 
 html{
