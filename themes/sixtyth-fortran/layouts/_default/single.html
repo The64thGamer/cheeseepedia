@@ -1,16 +1,12 @@
 {{ define "main" }}
   {{ $tags := .Params.tags }}
-  {{ $layout := "" }}
+  {{ $layout := "baseArticle" }}
   {{ with $tags }}
     {{ if in . "User" }}
       {{ $layout = "user" }}
-    {{ else if in . "Store" }}
-      {{ $layout = "store" }}
     {{ else }}
       {{ $layout = "baseArticle" }}
     {{ end }}
-  {{ else }}
-    {{ $layout = "baseArticle" }}
   {{ end }}
 
   {{ if $layout }}
