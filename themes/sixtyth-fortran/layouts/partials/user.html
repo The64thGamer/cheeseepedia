@@ -1,9 +1,28 @@
+<h1>{{ .Title | markdownify | safeHTML }}</h1>
+<hr>
+{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+{{ $dateHuman := .Date | time.Format ":date_long" }}
 
-  <h1>{{ .Title | markdownify | safeHTML }}</h1>
-  <hr>
-  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-  {{ $dateHuman := .Date | time.Format ":date_long" }}
-  
-  {{ .Content | markdownify | safeHTML }}
+{{ .Content | markdownify | safeHTML }}
 
-  <strong> | Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+<hr>
+<h2>{{ .Title | markdownify | safeHTML }} contributed to these pages!</h2>
+{{ $currentTitle := .Title }}
+{{ $pages := where .Site.Pages "Section" "wiki" }}
+
+<ul>
+  {{ range $pages }}
+    {{ $page := . }} <!-- Store the current page object in a variable -->
+    {{ with $page.Params.Article.contributors }}
+      {{ $contributors := . }}
+      {{ if in $contributors $currentTitle }}
+        <li><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
+      {{ end }}
+    {{ else }}
+    {{ end }}
+  {{ end }}
+</ul>
+
+
+
+<strong>Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
