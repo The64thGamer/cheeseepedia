@@ -1,7 +1,7 @@
 +++
 title = "Traveler (Magazine)"
 draft = false
-tags = ["Store Fixtures1994/1995 "]
+tags = []
 date = 2023-07-18T09:31:42Z
 
 [Article]

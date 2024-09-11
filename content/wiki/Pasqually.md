@@ -1,7 +1,7 @@
 +++
 title = "Pasqually"
 draft = false
-tags = ["Animatronics (Cyberamic)"]
+tags = []
 date = 2024-05-23T02:42:56Z
 
 [Article]

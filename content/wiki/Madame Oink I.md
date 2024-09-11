@@ -1,7 +1,7 @@
 +++
 title = "Madame Oink I"
 draft = false
-tags = ["Pizza Time Theatre ShowtapesII - Tunnel of Love"]
+tags = ["Showtapes"]
 date = 2023-08-05T18:47:37Z
 
 [Article]

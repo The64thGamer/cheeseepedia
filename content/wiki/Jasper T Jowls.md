@@ -1,7 +1,7 @@
 +++
 title = "Jasper T. Jowls"
 draft = false
-tags = ["Animatronics (Cyberamic)"]
+tags = []
 date = 2024-05-23T03:31:38Z
 
 [Article]

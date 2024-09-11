@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's"
 draft = false
-tags = ["Arcade Games Circus Time"]
+tags = []
 date = 2024-04-23T17:32:34Z
 
 [Article]

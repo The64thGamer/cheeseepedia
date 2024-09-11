@@ -1,7 +1,7 @@
 +++
 title = "Programming"
 draft = false
-tags = [" Software & HardwareAnimatronic  System"]
+tags = []
 date = 2022-04-05T21:38:20Z
 
 [Article]

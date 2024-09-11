@@ -1,7 +1,7 @@
 +++
 title = "Wolf Pack 5"
 draft = false
-tags = ["Showtapes IAAPA 1978 Showtape"]
+tags = []
 date = 2022-08-06T09:12:22Z
 
 [Article]

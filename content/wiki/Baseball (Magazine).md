@@ -1,7 +1,7 @@
 +++
 title = "Baseball (Magazine)"
 draft = false
-tags = ["Store Fixtures1994/1995 "]
+tags = []
 date = 2023-07-15T21:46:19Z
 
 [Article]

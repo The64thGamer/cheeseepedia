@@ -1,7 +1,7 @@
 +++
 title = "Mountain Bike (Magazine)"
 draft = false
-tags = ["Store Fixtures1994/1995 "]
+tags = []
 date = 2023-07-18T07:40:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Confederate Critter Show"
 draft = false
-tags = ["ShowtapesThe "]
+tags = []
 date = 2022-07-15T18:47:43Z
 
 [Article]

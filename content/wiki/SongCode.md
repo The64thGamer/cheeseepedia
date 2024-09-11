@@ -1,7 +1,7 @@
 +++
 title = "SongCode"
 draft = false
-tags = ["Programming Software & Hardware"]
+tags = []
 date = 2021-11-29T20:57:44Z
 
 [Article]

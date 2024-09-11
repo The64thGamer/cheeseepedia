@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Pizza Place"
 draft = false
-tags = [" TicketsGTC Showbiz Skee-Ball 1 Point Ticket V1 (Yellow)"]
+tags = []
 date = 2023-06-26T18:22:08Z
 
 [Article]

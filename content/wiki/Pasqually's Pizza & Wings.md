@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Pizza & Wings"
 draft = false
-tags = [" Menu ItemsFamily Pack (PP&W Menu Item)"]
+tags = []
 date = 2022-07-14T19:59:31Z
 
 [Article]

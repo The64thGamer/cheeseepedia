@@ -1,7 +1,7 @@
 +++
 title = "Show Control And Media Player"
 draft = false
-tags = ["Control System Software"]
+tags = []
 date = 2021-11-29T09:33:48Z
 
 [Article]

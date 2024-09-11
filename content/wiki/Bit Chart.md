@@ -1,7 +1,7 @@
 +++
 title = "Bit Chart"
 draft = false
-tags = ["DocumentsCEC 3-Stage  Document"]
+tags = []
 date = 2021-11-29T04:59:32Z
 
 [Article]

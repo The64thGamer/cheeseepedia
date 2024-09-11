@@ -1,7 +1,7 @@
 +++
 title = "Cupertino, CA (975 S De Anza Blvd)"
 draft = false
-tags = ["Store ListSan Jose / "]
+tags = []
 date = 2023-08-01T15:33:35Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bowling (Magazine)"
 draft = false
-tags = ["Store Fixtures1994/1995 "]
+tags = []
 date = 2023-07-15T20:48:18Z
 
 [Article]

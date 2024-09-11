@@ -1,7 +1,7 @@
 +++
 title = "Beach Bear"
 draft = false
-tags = ["Costumed Characters CEI Walkaround"]
+tags = []
 date = 2024-05-23T17:03:06Z
 
 [Article]
