@@ -27,9 +27,22 @@
 
 <!-- Count of unique contributors -->
 {{ $contributorCount := len $sortedContributors }}
+<ul>
+<li><a href="{{ "/tags/store-list/" | relURL }}">Store List</a></li>
+<li><a href="{{ "/tags/user/" | relURL }}">Users</a></li>
+<li><a href="{{ "/tags/animatronics/" | relURL }}">Animatronics</a></li>
+<li><a href="{{ "/tags/stage-variations/" | relURL }}">Stage Variations</a></li>
+<li><a href="{{ "/tags/animatronic-shows/" | relURL }}">Animatronic Shows</a></li>
+<li><a href="{{ "/tags/employee-wear/" | relURL }}">Employee Wear</a></li>
+<li><a href="{{ "/tags/showtapes/" | relURL }}">Showtapes</a></li>
+<li><a href="{{ "/tags/merchandise/" | relURL }}">Merchandise</a></li>
+<li><a href="{{ "/tags/animatronic-repair-preservation/" | relURL }}">Animatronic Repair &amp; Preservation</a></li>
+<li><a href="{{ "/tags/training-updates-company-media/" | relURL }}">Training, Updates, &amp; Company Media</a></li>
+<li><a href="{{ "/tags/documents/" | relURL }}">Documents</a></li>
+</ul>
 
 <!-- Print the sorted list of contributors -->
-<ul>
+<hr><ul>
 {{ range $sortedContributors }}
   {{- $path := printf "content/wiki/Users/%s.md" .name -}}
   {{- if fileExists $path }}

@@ -24,11 +24,16 @@
 <!-- Count of unique contributors -->
 {{ $contributorCount := len $sortedContributors }}
 
+{{ $count := 0 }}
+{{ range .Site.RegularPages }}
+  {{ with .RenderString .Content }}
+    {{ $count = add $count 1 }}
+  {{ end }}
+{{ end }}
+
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
   <img src="/UI/CEPLogo.png" alt="Logo" style="max-height: 6.5vw;">
   <div class="fun-text">
-    Now at <strong>{{ len .Site.RegularPages }}</strong> articles contributed by <strong>{{ $contributorCount }}</strong> users.
+    Now at <strong>{{ $count }} </strong> articles contributed by <strong>{{ $contributorCount }}</strong> users.
   </div>
 </div>
-
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
