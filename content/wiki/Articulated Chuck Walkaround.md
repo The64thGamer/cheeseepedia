@@ -8,12 +8,12 @@ date = 2022-08-09T19:59:57Z
 contributors = ["ShowbizMidwest","BurgersNuggs445","68.201.38.174","Documentor","The 64th Gamer","OnionMastori"]
 gallery = []
 +++
-
+[[File:ArticulatedChuck .jpg|thumb|The articulated Chuck head paired with the AAM outfit in the August 1997 show.]]
 The articulated Chuck E. walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
-* [August 1996]({{< ref "wiki/August 1996.md" >}})
-* [April 1997]({{< ref "wiki/April 1997.md" >}})
-* [August 1997]({{< ref "wiki/August 1997.md" >}}) 
+* August 1996
+* April 1997
+* August 1997 
 
 During these showtapes, the head was often seen paired with various different outfits, such as the standard AAM outfit, the tuxedo, the yellow sweater, etc.
 

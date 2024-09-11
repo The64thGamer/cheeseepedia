@@ -25,21 +25,21 @@ File:Prototype96Helen.jpg|Prototype 1996 Helen Henny
 This plush was released in a set containing other characters and sizes:
 *[Small Chuck E. Plush (1996)]({{< ref "wiki/Small Chuck E Plush (1996).md" >}})
 *[Large Chuck E. Plush (1996)]({{< ref "wiki/Large Chuck E Plush (1996).md" >}})
-*[Jumbo Chuck E. Plush (1996)]({{< ref "wiki/Jumbo Chuck E Plush (1996).md" >}})
+*Jumbo Chuck E. Plush (1996)
 *[Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
-*[Jumbo Helen Plush (1996)]({{< ref "wiki/Jumbo Helen Plush (1996).md" >}})
+*Jumbo Helen Plush (1996)
 *[Small Munch Plush (1996)]({{< ref "wiki/Small Munch Plush (1996).md" >}})
 *[Large Munch Plush (1996)]({{< ref "wiki/Large Munch Plush (1996).md" >}})
 *[Jumbo Munch Plush (1996)]({{< ref "wiki/Jumbo Munch Plush (1996).md" >}})
 *[Small Jasper Plush (1996)]({{< ref "wiki/Small Jasper Plush (1996).md" >}})
 *[Large Jasper Plush (1996)]({{< ref "wiki/Large Jasper Plush (1996).md" >}})
-*[Jumbo Jasper Plush (1996)]({{< ref "wiki/Jumbo Jasper Plush (1996).md" >}})
+*Jumbo Jasper Plush (1996)
 *[Small Pasqually Plush (1996)]({{< ref "wiki/Small Pasqually Plush (1996).md" >}})
 *[Large Pasqually Plush (1996)]({{< ref "wiki/Large Pasqually Plush (1996).md" >}})
 ##Design##
 The plush had a pretty complex design. It has a cylindrical body with two yellow cylindrical legs. Its arms are long and fuzzy. Its head is rectangular and uses the same fuzzy material as the arms. This plush shares the same beak and eyes with the 1994 CYRK, Inc Helen. The plush's hair is three fuzzy yellow balls placed along the head. Two green ribbons are placed along the pieces of hair on the left and right.  The plush is wearing a green cheerleading outfit with two yellow ribbons covering it. The plush's skirt uses the same green material with a yellow triangular pattern. The plush's shoes are very simple, being fully green with yellow shoelaces. Its tag reads as **'Chuck E. Cheese's** © 1996 ShowBiz Pizza Time, Inc. Made in China'. The back reads as ALL NEW MATERIAL Contents: Polyester Fiber ОН 17389 РА 5081 MA 1340 ME 3658 Dennis Foland, Inc. San Jose, CA'.
 ###Differences Between Smaller Size###
-There are only very minor details that are different between this plush and it's , although the larger version tends to look a lot better.
+There are only very minor details that are different between this plush and it's [smaller size]({{< ref "wiki/Small Helen Plush (1996).md" >}}), although the larger version tends to look a lot better.
 
 ##Gallery##
 <gallery>

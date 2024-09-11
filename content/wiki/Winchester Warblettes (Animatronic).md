@@ -10,10 +10,10 @@ gallery = ["Concept-Art-Warblettes-Photo.jpg|Original","Wincehster_chuck_instore
 +++
 {{Generic|image=Warbbird.png|desc=Picture of the Warblettes from the Four Corners episode.}}
 
-The **_Winchester Warblettes**_ were an animatronic character created for the very first  Pizza Time Theatre in  models in 1980.
+The **_Winchester Warblettes**_ were an animatronic character created for the very first  Pizza Time Theatre in [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). They would be used until the being replaced by the standard [Cyberamic]({{< ref "wiki/Warblettes (Cyberamic).md" >}}) models in 1980.
 
 ##History##
-The Winchester Warblettes were present at opening, along with the rest of Fantasy Forest's characters, and remained until sometime in 1980-1981 when they were replaced by Cyberamic figures, after this we can assume they were sent to  as with the other characters from this location, The current whereabouts of them are unknown but the most likely answer is they were destroyed in the move to the .
+The Winchester Warblettes were present at opening, along with the rest of Fantasy Forest's characters, and remained until sometime in 1980-1981 when they were replaced by Cyberamic figures, after this we can assume they were sent to  Pizza Time Theatre Sunnyvale, CA Corporate Office (Sunnyvale, CA) as with the other characters from this location, The current whereabouts of them are unknown but the most likely answer is they were destroyed in the move to the [SPT office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}).
 
 ##Design##
 TBD 

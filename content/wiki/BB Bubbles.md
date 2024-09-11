@@ -1,7 +1,7 @@
 +++
 title = "B.B. Bubbles"
 draft = false
-tags = []
+tags = ["Animatronics (Cabaret)"]
 date = 2022-09-11T06:49:55Z
 
 [Article]
@@ -20,14 +20,14 @@ gallery = []
 ##Segments:##
 Disclaimer: The segment list is unknown if it is fully finished or not. Many segments are still lost.
 
-*[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) California Medley
+*[[File:New Graphic.png]] California Medley
 *#California Here I Come
 *#26 Miles
 *#Chinatown
 *#Do You Know the Way to San Jose
 *#Hooray for Hollywood
 *#San Fransisco
-*[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Midwestern Medley
+*[[File:New Graphic.png]] Midwestern Medley
 *#Iowa Corn Song
 *#My Old Kentucky Home, Goodnight
 *#Meet Me In Saint Louie
@@ -35,7 +35,7 @@ Disclaimer: The segment list is unknown if it is fully finished or not. Many seg
 *#Can't Get Indiana Off My Mind
 *#Back Home Again in Indiana
 *#Oklahoma
-*[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Southern Medley
+*[[File:New Graphic.png]] Southern Medley
 *#Dixie Land
 *#Carry Me Back to Old Virginny
 *#My Sunny Tennessee

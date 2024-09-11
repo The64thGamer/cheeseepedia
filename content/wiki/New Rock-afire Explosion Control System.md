@@ -8,7 +8,7 @@ date = 2022-08-12T20:52:39Z
 contributors = ["Himitsu","Ls2018-1"]
 gallery = []
 +++
-The **New Rock-afire Explosion Control System** is a control system designed by .
+The **New Rock-afire Explosion Control System** is a control system designed by Creative Engineering Inc. in the early 1990s as the standard control system for use with the New Rock-afire Explosion. It is significantly more technologically advanced than previous Creative Engineering control systems and was designed fully in-house, in contrast to prior systems such as [the one used for the original Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion Control System.md" >}}).
 
 As the hardware and software comprising this system has been unavailable for analysis by knowledgeable persons, some of the information on this page is incomplete or of a speculative nature.
 

@@ -8,13 +8,13 @@ date = 2023-08-01T14:28:57Z
 contributors = ["CorrectorMan","AstridMascotFan2005"]
 gallery = []
 +++
+[[File:Independence.jpg|thumb|Independence's exterior in 2012/2013. (PC: foursquare)]]
+**_18701 E 39th St**_ is a _Chuck E. Cheese's_ that opened on May 2012 (day unknown) and is still open today with a Studio C 2000 (Studio C Beta, 16m). 
 
-**_18701 E 39th St**_ is a _Chuck E. Cheese's_ that opened on May 2012 (day unknown) and is still open today with a . 
-
-This was the relocation of .
+This was the relocation of [Independence, MO (4039 S Noland Rd)]({{< ref "wiki/Independence, MO (4039 S Noland Rd).md" >}}), which opened on October 14, 1980 as a Showbiz Pizza, and closed in May 2012 (day unknown) with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
 ## Stage ##
-Independence has a . Starting with this store, the Beta was mixed with elements of the . The stage remains there today, with minor modifications.
+Independence has a Studio C 2000 (Studio C Beta, 16m). Starting with this store, the Beta was mixed with elements of the Small-Town Studio C (Studio C Cappa). The stage remains there today, with minor modifications.
 {| class='wikitable'
 |+
 !Stage
@@ -22,7 +22,7 @@ Independence has a . Starting with this store, the Beta was mixed with elements 
 !Removed
 !Notes
 |-
-|
+|Studio C 2000 (Studio C Beta, 16m)
 |May 2012
 |Still in use
 |Last Beta in Missouri.

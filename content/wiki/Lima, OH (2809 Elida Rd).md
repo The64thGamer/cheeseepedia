@@ -8,7 +8,7 @@ date = 2022-07-14T20:54:47Z
 contributors = ["Ceclife13","BurgersNuggs445","ThatBoiCydalan"]
 gallery = ["Lima","Lima"]
 +++
-**_Lima, OH (2809 Elida Rd)**_ was a _Chuck E. Cheese's_ located in Lima, Ohio.
+[[File:Lima exterior 2015.png|thumb|Lima Ohio's Chuck E Cheese in 2015]]**_Lima, OH (2809 Elida Rd)**_ was a _Chuck E. Cheese's_ located in Lima, Ohio.
 
 This location opened as a franchise on May 11th, 2009, and was one of two planned franchises by Smiles Food and Fun of Lima LLC and Buckeye Entertainment<ref>https://www.limaohio.com/archive/126082/news-local_news-article_6659d000-eeb7-544b-95ba-ba332e98b9a5-html</ref>.
 ##Stages##

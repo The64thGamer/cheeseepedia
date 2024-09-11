@@ -8,7 +8,7 @@ date = 2022-10-23T04:53:41Z
 contributors = ["Rexburg090","2600:4040:59FC:D100:2883:E8AD:AE08:AFDF","CorrectorMan","Saan1ty","SuperCreamPiper2008"]
 gallery = []
 +++
-**_541 W Hwy 436**_ was a _ShowBiz Pizza Place_ located in Altamonte Springs, Florida.  It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area & the third to open in Florida following the  &  locations). 
+**_541 W Hwy 436**_ was a _ShowBiz Pizza Place_ located in Altamonte Springs, Florida.  It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area & the third to open in Florida following the [Jacksonville]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) & Tampa, FL (1707 E Fowler Ave) (Tampa) locations). 
 
 ## History ##
 Altamonte Springs opened its doors on March 25th, 1981 with the RockAfire Explosion like every other ShowBiz did. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. 
@@ -29,11 +29,11 @@ In Late 2015-Early 2016, the awnings were removed from the building.
 !Installed
 !Removed
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |March 1981
 |1990
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1990
 |1998
 |-

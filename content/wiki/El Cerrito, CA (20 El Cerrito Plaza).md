@@ -8,7 +8,7 @@ date = 2023-12-28T03:35:40Z
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}**_20 El Cerrito Plaza**_ was a _Chuck E. Cheese's_ that opened in 1993 (day and month unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}), and closed in August 2000.
+{{Stub}}**_20 El Cerrito Plaza**_ was a _Chuck E. Cheese's_ that opened in 1993 (day and month unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed in August 2000.
 
 ##History##
 TODO
@@ -32,11 +32,11 @@ TODO
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Unknown 
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Unknown 
 |-

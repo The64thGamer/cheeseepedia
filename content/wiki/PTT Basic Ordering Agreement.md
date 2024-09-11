@@ -10,7 +10,7 @@ gallery = ["92995930","93465182","93344970","92485345","93479717","93570455","93
 +++
 The **_Pizza Time Theatre Early Documents Folder**_ is a partially lost group of early [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), likely dating between 1976-1977.
 
-The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.<ref>[:File:Amazingcitationofgenelandrumdocuments.png]({{< ref "wiki/FileAmazingcitationofgenelandrumdocumentspng.md" >}})</ref>
+The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.<ref>[[:File:Amazingcitationofgenelandrumdocuments.png]]</ref>
 
 ## Gallery ##
 <gallery>

@@ -1,14 +1,14 @@
 +++
 title = "Bradenton, FL (4420 14th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-08T16:16:46Z
 
 [Article]
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = []
 +++
-
+[[File:BradentonBalcony.jpg|thumb|Bradenton’s Balcony Stage in 1981.]]
 **_4420 14th St**_ was a _Pizza Time Theatre_ that opened in October 1981 and closed on June 16th, 1984.
 
 This location is not to be confused with [Bradenton, FL (415 Cortez Rd)]({{< ref "wiki/Bradenton, FL (415 Cortez Rd).md" >}}) or [Bradenton, FL (905 44th Ave)]({{< ref "wiki/Bradenton, FL (905 44th Ave).md" >}}).
@@ -28,7 +28,7 @@ Bradenton opened and closed with a Balcony Stage.
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |October 1981
 |June 1984
 |Animatronics sold at auction.
@@ -49,7 +49,7 @@ Bradenton opened and closed with a Balcony Stage.
 |1981
 |Sold at auction, current status unknown 
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1981
 |Sold at auction, current status unknown 
 |-
@@ -65,7 +65,7 @@ Bradenton opened and closed with a Balcony Stage.
 |1981
 |Sold at auction, current status unknown 
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |1981
 |Sold at auction, current status unknown 
 |-

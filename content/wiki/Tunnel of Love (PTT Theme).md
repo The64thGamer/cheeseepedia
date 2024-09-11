@@ -8,7 +8,7 @@ date = 2021-11-28T21:24:39Z
 contributors = ["The 64th Gamer","JamesLemony","CECMentor"]
 gallery = []
 +++
-The **_Pizza Time Theatre Tunnel of Love Theme**_ was a temporary alteration to the stage and character designs for use in the 1982 [Madame Oink III - Tunnel of Love]({{< ref "wiki/Madame Oink III - Tunnel of Love.md" >}}) showtape.
+The **_Pizza Time Theatre Tunnel of Love Theme**_ was a temporary alteration to the stage and character designs for use in the 1982 Madame Oink III - Tunnel of Love showtape.
 
 ## Stage Design ##
 (A detailed description of the stage props would go here)

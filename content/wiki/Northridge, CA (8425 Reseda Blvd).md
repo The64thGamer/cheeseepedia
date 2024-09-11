@@ -1,7 +1,7 @@
 +++
 title = "Northridge, CA (8425 Reseda Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-10-17T17:21:33Z
 
 [Article]
@@ -47,7 +47,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Currently in Use
 |-
@@ -67,7 +67,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 |Unknown
 |Currently in Use
 |-
-|
+|[Wink (Cyberamic)]({{< ref "wiki/Wink.md" >}})
 |1993?
 |Currently in Use
 |}

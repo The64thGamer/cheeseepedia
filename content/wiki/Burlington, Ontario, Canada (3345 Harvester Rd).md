@@ -1,7 +1,7 @@
 +++
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-27T19:11:57Z
 
 [Article]

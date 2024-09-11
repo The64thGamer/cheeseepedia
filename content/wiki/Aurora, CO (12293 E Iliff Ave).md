@@ -8,10 +8,10 @@ date = 2023-06-09T00:16:02Z
 contributors = ["CorrectorMan","Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ThatBoiCydalan","72.76.251.24","BurgersNuggs445","SuperCreamPiper2008","CoolerDude","CyCGM","Stripes"]
 gallery = []
 +++
-
+[[File:Chuck-e-cheese.jpg|thumb|Aurora, CO's exterior after the 1993 shooting. Dates December 14, 1993.]]
 **_12293 E Iliff Ave**_ was a Showbiz Pizza Place/Chuck E. Cheese's Pizza which opened on January 28, 1981 as a Showbiz Pizza Place with a Rock-afire Explosion, and closed on April 20, 1994 as a Chuck E. Cheese's Pizza with a 3-Stage. This location is very well known because of a shooting that took place on December 14, 1993. 
 
-This location is not to be confused with , which opened on November 2, 1999 with a Studio C Alpha, and is still open with the 2.0 remodel.
+This location is not to be confused with [the current location]({{< ref "wiki/Aurora, CO (14005 E Exposition Ave).md" >}}), which opened on November 2, 1999 with a Studio C Alpha, and is still open with the 2.0 remodel.
 
 ## History ##
 

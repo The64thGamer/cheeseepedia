@@ -19,7 +19,7 @@ Then store would receive the 1993 remodel sometime by 1995-1996 at the earliest,
 
 In 1999, Jacksonville would remodel once again, this time removing the 3-Stage for a Studio C Alpha.
 
-In 2005, Jacksonville would receive the ; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls, and a gameroom expansion in the former Western Auto. It is unknown when they received the Cool Chuck outfit. 
+In 2005, Jacksonville would receive the CEC 2005 Remodel (2005 Remodel); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls, and a gameroom expansion in the former Western Auto. It is unknown when they received the Cool Chuck outfit. 
 
 By 2012, Chuck's Cool Chuck outfit was replaced with the Avenger outfit. Chuck's cap was removed in September 2013. 
 
@@ -28,19 +28,19 @@ In 2014-2015, the Interactive Console & Bluescreen Camera were removed, leaving 
 As of October 2022, Jacksonville still has the 2005 Remodel & Studio C Alpha.
 
 ## Stages ##
-Originally when the store opened, they had a Rock-Afire Explosion, they were the 1st RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. As of October 2022, they still have the Studio C Alpha, with it being the last Animatronic show in the Jacksonville, as  received 2.0 in Early 2020,  closed in 1984 as a _Pizza Time Theatre_ with a , &  never had an animatronic show of any kind.
+Originally when the store opened, they had a Rock-Afire Explosion, they were the 1st RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. As of October 2022, they still have the Studio C Alpha, with it being the last Animatronic show in the Jacksonville, as [6065 Youngerman Circle]({{< ref "wiki/Jacksonville, FL (6065 Youngerman Circle).md" >}}) received 2.0 in Early 2020, Jacksonville, FL (5721 Beach Blvd) (5721 Beach Blvd) closed in 1984 as a _Pizza Time Theatre_ with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), & [10320 Shops Lane]({{< ref "wiki/Jacksonville, FL (10320 Shops Lane).md" >}}) never had an animatronic show of any kind.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |August 1980
 |1991-1992
 |Original bots replaced in 1981.
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |1999
 |
@@ -149,11 +149,11 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |N/A
 |Destroyed
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E Cheese 32m (Animatronic))
 |048
 |In Store
 |-
-|
+|Parrot (Animatronic) (Parrot)
 |N/A
 |In Store
 |-

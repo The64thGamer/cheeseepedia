@@ -40,13 +40,13 @@ Jasper sits on a real speaker while Pasqually uses a folding chair.
 !Whereabouts
 !Notes
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |In Question
 |Good
 |Still Operating
 |As of 09/19/22 Chuck's arms and torso movement are still not working.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Guest Star/ Helen Henny (Cyberamic))
 |Unknown
 |Good
 |Still Operating

@@ -16,5 +16,5 @@ gallery = []
 ##Show List:##
 It is currently unknown the order of the segments in this show, though the segments themselves are known
 
-* 
-* 
+* [[File:New Graphic.png]] [[Dance Contest (Cyberstar Segment)|Dance Contest]]
+* [[File:New Graphic.png]] [[Flirty Dancin (Cyberstar Segment)|Flirty Dancin]]

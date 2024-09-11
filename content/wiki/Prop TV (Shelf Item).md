@@ -17,11 +17,11 @@ The TV's design would vary by location and its picture for the theme of the shel
 
 ###Design Variants###
 <gallery>
-File:Prop tv variant 1.png|Ovalish variant from the .
-File:Prop tv variant 2.png|Second variant from the 
-File:Prop tv variant 3.png|Cyan variant from .
-File:Prop tv variant 4.png|Alternate TV variant from .
-File:Prop tv variant 5.png|Another variant from the .
+File:Prop tv variant 1.png|Ovalish variant from the [Brookfield location]({{< ref "wiki/Brookfield, WI (19125 W Blue Mound Rd).md" >}}).
+File:Prop tv variant 2.png|Second variant from the [Chicago Fullerton location.]({{< ref "wiki/Chicago, IL (1830 W Fullerton Ave).md" >}})
+File:Prop tv variant 3.png|Cyan variant from [East Hanover]({{< ref "wiki/East Hanover, NJ (145 Route 10).md" >}}).
+File:Prop tv variant 4.png|Alternate TV variant from [La Mesa]({{< ref "wiki/La Mesa, CA (5500 Grossmont Center Dr).md" >}}).
+File:Prop tv variant 5.png|Another variant from the [old Dallas Montfort location]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}).
 </gallery>
 
 ###Themes###

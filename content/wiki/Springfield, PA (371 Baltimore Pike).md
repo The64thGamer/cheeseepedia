@@ -8,8 +8,8 @@ date = 2023-09-24T20:53:23Z
 contributors = ["Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-
-**Springfield, PA (371 Baltimore Pike)** is a Chuck E. Cheese’s that opened on November 14, 2012 with a , that opened on 
+[[File:Springfield PA Exterior.jpg|thumb|Springfield’s Exterior (PC: Google Maps)]]
+**Springfield, PA (371 Baltimore Pike)** is a Chuck E. Cheese’s that opened on November 14, 2012 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day. This store was a rebuilt of the [original store]({{< ref "wiki/Springfield, PA (381 Baltimore Pike).md" >}}), that opened on 
 December 4, 1990, and closed on April 15th 2012.
 
 ##Stage##

@@ -15,7 +15,7 @@ gallery = ["IMG","IMG","IMG"]
 The songs featured are 'Do You Love Me' from [RAE Classic Hits]({{< ref "wiki/RAE Classic Hits.md" >}}), and 'Happy Birthday Medley' from [3-Birthday Reel]({{< ref "wiki/3-Birthday Reel.md" >}}).
 
 ## Birthday Promotion ##
-Alongside being able to purchase Record 1 at the gift shop, all birthday parties allowed the birthday kid to choose either this record or  to take a birthday song home with them. To compensate for this, both records were produced at 10x quantity, alongside birthdays bumping from $3.50 per person to $3.65 upon a restaurant receiving their first batch.
+Alongside being able to purchase Record 1 at the gift shop, all birthday parties allowed the birthday kid to choose either this record or Rock-afire Explosion Record 3 (1981) (Rock-afire Explosion Record 3) to take a birthday song home with them. To compensate for this, both records were produced at 10x quantity, alongside birthdays bumping from $3.50 per person to $3.65 upon a restaurant receiving their first batch.
 
 ## Production ##
 The records would be first produced on May 14, 1981 by _QCA Custom Pressings Inc._ in Cincinnati, OH, and sent from Creative Engineering to Brock Hotel Corporation with an enclosed letter.<ref name=':0'>https://youtu.be/ooetqLjPZVk</ref> 

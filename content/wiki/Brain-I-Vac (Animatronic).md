@@ -8,7 +8,7 @@ date = 2022-11-04T03:20:30Z
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++
-
+[[File:Brainivac.png|thumb|478x478px|Brain-I-Vac Animatronic]]
 Brain-I-Vac is one of the animatronic sidekicks for Chuck E. Cheese in the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) Stage.
 
 ## Design ##

@@ -35,7 +35,7 @@ In August 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor
 |August 2021
 |
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor + Video Wall)
 |August 2021
 |Still in use
 |

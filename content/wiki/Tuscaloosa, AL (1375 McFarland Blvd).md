@@ -11,10 +11,10 @@ gallery = ["Screenshot","Cec6.jpg|The"]
 {{Stub}}{{Generic|image=tuscaloosa al cec before closure.png|desc=Exterior before being destroyed by a tornado}}
 **_Tuscaloosa, AL (1375 McFarland Blvd), Store #704**_ was a _Chuck E. Cheese's_ that opened in November 2003 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and closed on April 27th, 2011.
 
-This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with , which opened on August 30th, 2015 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show.
+This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd) (its replacement store), which opened on August 30th, 2015 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show.
 
 ##Stage##
-This store opened with a .
+This store opened with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) stage with a Chuck E. Cheese 16m (Animatronic) (16-movement animatronic).
 
 ##History##
 This store opened in November 2003
@@ -34,11 +34,11 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 *[Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
 *[Chuck E's Duckies]({{< ref "wiki/Chuck E's Duckies.md" >}})
 *Robo-Bop
-*[Skee-Ball]({{< ref "wiki/Skee-Ball.md" >}}) [4 units]
+*Skee-Ball [4 units]
 *Western Train
 *Daytona USA
 *Jurassic Park
-*[Chuck E. Cheese's Hi-Ball]({{< ref "wiki/Chuck E Cheese's Hi-Ball.md" >}})
+*Chuck E. Cheese's Hi-Ball
 
 #####Coin-Action#####
 
@@ -46,10 +46,10 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 
 ####Kiddie####
 
-*[Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]({{< ref "wiki/Chuck E Cheese's Kiddie Coaster Thrill of a Lifetime.md" >}})
-*[Chuck E. Cheese's Photo Ride (1997)]({{< ref "wiki/Chuck E Cheese's Photo Ride (1997).md" >}})
-*[Chuck E. Cheese's Coloring Book]({{< ref "wiki/Chuck E Cheese's Coloring Book.md" >}})
-*[Tik Tak Clock]({{< ref "wiki/Tik Tak Clock.md" >}})
+*Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
+*Chuck E. Cheese's Photo Ride (1997)
+*Chuck E. Cheese's Coloring Book
+*Tik Tak Clock
 *Amutec Space Copter
 
 ##Gallery##

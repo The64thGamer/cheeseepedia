@@ -10,9 +10,9 @@ gallery = []
 +++
 {{Generic|image=RockyCECRetrofit2018.png|desc=Rocky at Gillian's Wonderland (2018?)}}
 
-**_Rocky The Panda**_ is a retrofit of . Rocky is the leader of Rocky & The Railroad Ramblers, an animatronic show near Gillian's train ride.
+**_Rocky The Panda**_ is a retrofit of [Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}}) created by Sally Corp for [Gillian's Wonderland Pier]({{< ref "wiki/Ocean City, NJ (600 Boardwalk).md" >}}). Rocky is the leader of Rocky & The Railroad Ramblers, an animatronic show near Gillian's train ride.
 
-The Bot was first installed in 1992 & was placed right of  & Left of .
+The Bot was first installed in 1992 & was placed right of Bubba (Mr. Munch Retrofit) (Bubba) & Left of Henrietta Hatpin (Helen Henny Retrofit) (Henrietta Hatpin).
 
 ## History ##
 It is unknown currently what PTT or CEC Rocky is from, though he is most likely from a New Jersey Location. In 1992, Gillian's would buy the Animatronics & hire Sally Corp to create cosmetics & Showtapes for them. Rocky was placed on a box near the left side of the stage.

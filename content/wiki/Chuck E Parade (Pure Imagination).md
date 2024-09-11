@@ -8,7 +8,7 @@ date = 2022-02-15T22:17:29Z
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++
-**_Chuck E. Parade (Pure Imagination)**_ is an unreleased live show originally meant to be paired with  .
+**_Chuck E. Parade (Pure Imagination)**_ is an unreleased live show originally meant to be paired with [Concept Unification Premiere]({{< ref "wiki/SPP Concept Unification Premiere.md" >}}) .
 
 This live show was never programmed and Showbiz Pizza Time decided to create and use [Chuck E. Cheese's Live 90]({{< ref "wiki/Chuck E Cheese's Live 90.md" >}}) instead.
 

@@ -8,7 +8,7 @@ date = 2022-09-18T06:23:15Z
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
 gallery = ["Bandera2009-1.jpg|Showroom","Bandera2009-2.jpg|Stage"]
 +++
-**_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002 with a Studio C Beta.
+[[File: Bandera2015remodelexterior.jpg|thumb|381x381px|The current exterior.]]**_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002 with a Studio C Beta.
 
 ##Stages##
 This location opened with a Studio C Beta, the newest stage show for Chuck E. Cheese’s at that time,  featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. The stage would remain in average condition with the Ticket Blaster being moved in front of the blue screen and the light box removed once 2 out of 3 of the original monitors were replaced with newer TVs in the 2010s. In early 2022, most of the animatronics movements would stop functioning, with only 8 out of the 32 movements functional. Notably, the nose cylinder would break at some point, causing the animatronic to have a drooping nose.
@@ -106,7 +106,7 @@ File:Bandera2009-2.jpg|Stage in 2009.
 !Serial
 !Whereabouts
 |-
-|
+|Chuck E. Cheese (32 Movement) (Chuck E Cheese (32 Movement))
 |160
 |In use today
 |}

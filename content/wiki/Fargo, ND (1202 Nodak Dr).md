@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Generic|image=Fargothumbnail.png|desc=Location Exterior, ???}}
 
-**_1202 Nodak Dr**_ was a _Chuck E. Cheese’s_ that opened on February 8, 1984 as a franchised _ShowBiz Pizza Place_ with a [Rock afire Explosion]({{< ref "wiki/Rock afire Explosion.md" >}}).
+**_1202 Nodak Dr**_ was a _Chuck E. Cheese’s_ that opened on February 8, 1984 as a franchised _ShowBiz Pizza Place_ with a Rock afire Explosion.
 ##Stages##
 Orem opened with the Rock afire Explosion in 1984. Unfortunately, there are no photos or videos to exist of Orem with the Rock afire, or as a ShowBiz in general. 
 

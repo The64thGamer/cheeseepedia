@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Circus Time"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2022-01-07T01:29:57Z
 
 [Article]
@@ -16,7 +16,7 @@ A lot of cabinet variants were produced for the original Bimbo machine, with the
 The marquee was completely replaced with a brand new Chuck E. variant, displaying _Chuck E. Cheese's Circus Time_ along the top, a nod to its original circus variant.
 
 ## Audio Tape ##
-
+[[File:bimbo.mp3|none|thumb|The original Bimbo audio from the 8-Track tape]]
 ## Gallery ##
 <gallery>
 18879328_1524052007668474_5206356354029060096_n (1).jpg|Cabinet Picture

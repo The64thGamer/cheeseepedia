@@ -20,25 +20,25 @@ gallery = []
 ##???
 ##Cyberstar Intro
 #**Segment 1**
-##
+##Dance Contest (Cyberstar Segment) (Dance Contest)
 #**Intermission 2**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 2**
-##
+##Flirty Dancin (Cyberstar Segment) (Flirty Dancin)
 #**Intermission 3**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 3**
-##
+##Summer Love (Cyberstar Segment) (Grammys)
 #**Intermission 4**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 4**
-##
+##Summer Safety (Cyberstar Segment) (Michael Jackson)

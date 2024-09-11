@@ -19,16 +19,16 @@ This plush was released in a set containing other characters and sizes:
 
 *[Small Chuck E. Plush (1996)]({{< ref "wiki/Small Chuck E Plush (1996).md" >}})
 *[Large Chuck E. Plush (1996)]({{< ref "wiki/Large Chuck E Plush (1996).md" >}})
-*[Jumbo Chuck E. Plush (1996)]({{< ref "wiki/Jumbo Chuck E Plush (1996).md" >}})
+*Jumbo Chuck E. Plush (1996)
 *[Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
 *[Large Helen Plush (1996)]({{< ref "wiki/Large Helen Plush (1996).md" >}})
-*[Jumbo Helen Plush (1996)]({{< ref "wiki/Jumbo Helen Plush (1996).md" >}})
+*Jumbo Helen Plush (1996)
 *[Small Munch Plush (1996)]({{< ref "wiki/Small Munch Plush (1996).md" >}})
 *[Large Munch Plush (1996)]({{< ref "wiki/Large Munch Plush (1996).md" >}})
 *[Jumbo Munch Plush (1996)]({{< ref "wiki/Jumbo Munch Plush (1996).md" >}})
 *[Small Jasper Plush (1996)]({{< ref "wiki/Small Jasper Plush (1996).md" >}})
 *[Large Jasper Plush (1996)]({{< ref "wiki/Large Jasper Plush (1996).md" >}})
-*[Jumbo Jasper Plush (1996)]({{< ref "wiki/Jumbo Jasper Plush (1996).md" >}})
+*Jumbo Jasper Plush (1996)
 *[Large Pasqually Plush (1996)]({{< ref "wiki/Large Pasqually Plush (1996).md" >}})
 ##Design##
 The plush has a round body with two cylindrical legs connected to it. The plush has boxy arms with mitten-like hands. One arm of the plush tends to be significantly more understuffed than the other. The plush's head has a sunken in chin, a big round nose, two ears that look like a folded circle. It's two eyes are squares that are rounded out at the top with printed black details to represent his eyebrows and pupils. The plush's mustache is nicely shaped but is ruined by the fuzzy material used on the mustache and hair. A red mouth is featured under the mustache. The plush's shoes are nicely detailed with white and black fabric and blue ribbon shoelaces and his pants are black. He has a red striped shirt under his apron. His apron has been made smaller compared to the previously released 1992 and 1994 plushies to make room for his poseable legs. He has a sewn neckerchief that can be untied and removed. He also has a white chef's hat with the same red striped pattern on its brim as it was on his shirt. 

@@ -13,7 +13,7 @@ gallery = []
 This location opened on November 7th, 1982, and closed in October 13th, 1985.
 
 ## History ##
-Benton Harbor opened its doors on November 7th, 1982 in the Pipestone Plaza as the 5th Showbiz Pizza in Michigan (5th after , , , & ). They opened with with the RockAfire Explosion like every other ShowBiz did. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States. After just under three years of operation, the store shut down in October 13th, 1985. After the store closed, the show was sent to  to replace their original animatronics which they had for four years (This was also the show they used for [Concept Unification]({{< ref "wiki/Concept Unification.md" >}})). 
+Benton Harbor opened its doors on November 7th, 1982 in the Pipestone Plaza as the 5th Showbiz Pizza in Michigan (5th after [Southgate]({{< ref "wiki/Southgate, MI (15300 Toledo Rd).md" >}}), [Saginaw]({{< ref "wiki/Saginaw, MI (5105 Bay Rd).md" >}}), Walker, MI (3175 Alpine Ave) (Walker), & [Pontiac]({{< ref "wiki/Pontiac, MI (965 S Opdyke Rd).md" >}})). They opened with with the RockAfire Explosion like every other ShowBiz did. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States. After just under three years of operation, the store shut down in October 13th, 1985. After the store closed, the show was sent to [Darien]({{< ref "wiki/Darien, IL (7409 Cass Ave).md" >}}) to replace their original animatronics which they had for four years (This was also the show they used for [Concept Unification]({{< ref "wiki/Concept Unification.md" >}})). 
 
 ## Gallery ##
 Unfortunately, there are no photos of this location at the moment.

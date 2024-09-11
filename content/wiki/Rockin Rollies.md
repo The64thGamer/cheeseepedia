@@ -15,7 +15,7 @@ The Rockin Rollies was an obscure animatronic pizza place that opened in Sioux F
 ## Locations ##
 
 ### South Dakota ###
-[Sioux Falls, SD (1912 W 41st St)]({{< ref "wiki/Sioux Falls, SD (1912 W 41st St).md" >}})
+Sioux Falls, SD (1912 W 41st St)
 
 ## Trivia ##
 

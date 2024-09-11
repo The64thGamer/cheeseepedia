@@ -8,7 +8,7 @@ date = 2023-07-17T19:17:11Z
 contributors = ["Nostalgia Cow","Ceclife13","ThatBoiCydalan"]
 gallery = []
 +++
-
+[[File:Indian Jowls parody poster.jpg|alt=A picture taken of the Indiana Jowls (Parody Poster) at a location.|thumb|A picture taken of the Indiana Jowls (Parody Poster) at a location.]]
 The **Indian Jowls** was a poster created for Showbiz Pizza and Chuck E Cheese in 1988.
 
 ## History ##

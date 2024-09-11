@@ -11,7 +11,7 @@ gallery = []
 **_3724 Mayfair St**_ is a Chuck E. Cheese's location in Durham, North Carolina. 
 
 ## History ##
-Durham opened on March 7th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}). Like all 1-Stages at the time, Chuck wore his Tuxedo & Derby outfit. In 2006-2007 Durham received the [CEC 2005 Remodel]({{< ref "wiki/CEC 2005 Remodel.md" >}}), which involved the removal of Showroom Walls, 90s Decor, & adding purple walls. It is unknown if Durham ever received the Cool Chuck outfit. By 2011, Chuck's outfit was replaced with the Avenger outfit By 2013, the CRT behind Munch was removed & the Munch's Make Believe Band Sign was repainted purple the moved to where the CRT used to be. Around this time, they removed the Dinner Lights & the extra CRTs that were not in the showroom. Then they replaced Chuck & Pasqually masks with new ones. Then two of the CRTs in the Showroom were replaced with Flatscreen TVs. In September 2013, Chuck's Cap was removed. In around 2015-2016, Jasper's 1993 shirt was replaced with a more modern one along with his mask. Helen's mask was replaced around this time. For a brief period of time in 2021, Jasper's nose fell off. 
+Durham opened on March 7th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Like all 1-Stages at the time, Chuck wore his Tuxedo & Derby outfit. In 2006-2007 Durham received the CEC 2005 Remodel, which involved the removal of Showroom Walls, 90s Decor, & adding purple walls. It is unknown if Durham ever received the Cool Chuck outfit. By 2011, Chuck's outfit was replaced with the Avenger outfit By 2013, the CRT behind Munch was removed & the Munch's Make Believe Band Sign was repainted purple the moved to where the CRT used to be. Around this time, they removed the Dinner Lights & the extra CRTs that were not in the showroom. Then they replaced Chuck & Pasqually masks with new ones. Then two of the CRTs in the Showroom were replaced with Flatscreen TVs. In September 2013, Chuck's Cap was removed. In around 2015-2016, Jasper's 1993 shirt was replaced with a more modern one along with his mask. Helen's mask was replaced around this time. For a brief period of time in 2021, Jasper's nose fell off. 
 
 ## Stages ##
 {| class='wikitable'
@@ -30,11 +30,11 @@ Durham opened on March 7th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}})
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1993
 |In store.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
 |In store.
 |-

@@ -8,3 +8,4 @@ date = 2023-03-01T12:38:14Z
 contributors = ["Studio 18 Ent"]
 gallery = []
 +++
+[[File:CYBER CURTAIN CONTROLBOX.jpg|frame|center|The Curtain Control Box]]

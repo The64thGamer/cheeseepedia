@@ -94,6 +94,6 @@ Kidz Bop - 'Barbie World'
 
 ## Lives: ##
 
-* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [Chuck E. Strut]({{< ref "wiki/Chuck E Strut.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Strut (3-Stage Navori, CEC Stage Navori, Media Navori)

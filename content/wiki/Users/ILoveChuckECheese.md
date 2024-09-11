@@ -8,7 +8,7 @@ date = 2022-10-24T15:30:36Z
 contributors = ["ILoveChuckECheese"]
 gallery = []
 +++
-Hi! I am a Chuck E. Cheese fan, My local CEC is the . I have been a CEC fan for many years. I am 16 years old.
+Hi! I am a Chuck E. Cheese fan, My local CEC is the [Bowling Green, Kentucky (2625 Scottsville Rd)]({{< ref "wiki/Bowling Green, KY (2625 Scottsville Rd).md" >}}). I have been a CEC fan for many years. I am 16 years old.
 
 ## Locations I Have Been To ##
 I have been to 17 different Chuck E. Cheese locations, some more than others.

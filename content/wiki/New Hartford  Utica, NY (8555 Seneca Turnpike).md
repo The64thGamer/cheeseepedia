@@ -1,7 +1,7 @@
 +++
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-02-17T02:35:25Z
 
 [Article]
@@ -12,7 +12,7 @@ gallery = ["Macsway_2009.png|2009","Macsway_2009_(Google_Earth).png|2010","Macsw
 
 {{Generic|image=PTT New Hartford Utica.png|desc=Snippet of an outdoor shot near the location in 1983, from _The Pizza Times_ <ref>http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-3.pdf</ref>.}}
 
-**_New Hartford / Utica, NY (8555 Seneca Turnpike)**_ was a _Pizza Time Theatre_ that opened on December 16, 1982 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}){< ref "wiki/Cyberamics Balcony Stage.md" >}}), which closed on July 29, 1985.
+**_New Hartford / Utica, NY (8555 Seneca Turnpike)**_ was a _Pizza Time Theatre_ that opened on December 16, 1982 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), which closed on July 29, 1985.
 
 The location was a franchise-owned location operated by Pizza Concepts, Ltd. based in Rochester, NY. 
 
@@ -37,7 +37,7 @@ File:Macsway_2009_Google_Earth.png|2011
 !Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |
 |Destroyed
 |-

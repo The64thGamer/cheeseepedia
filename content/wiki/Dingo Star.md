@@ -8,7 +8,7 @@ date = 2022-08-18T05:02:08Z
 contributors = ["Sponch man","2601:600:8F00:4620:5856:C7F4:B277:85AF"]
 gallery = []
 +++
-]
+[[File:Dingo Star Headshot.png|alt=A promotional headshot of Dingo Star created for the Kansas City, Missouri, United States Showbiz Pizza Place location.|thumb|A promotional headshot of Dingo Star created for the Kansas City, Missouri, United States Showbiz Pizza Place location. Source: [http://showbizpizza.com/home.html http://showbizpizza.com/]]]
 **Dingo Star** was a member of the Wolf Pack 5, an animatronic band created by Creative Engineering.<ref>http://www.showbizpizza.com/rae/history/index.html</ref> He was a parody of real life musician [https://en.wikipedia.org/wiki/Ringo_Starr Ringo Star], who played drums for [https://en.wikipedia.org/wiki/The_Beatles The Beatles]. Later on, he would become Dook LaRue in the successor animatronic band, The Rock-afire Explosion.
 
 ## Appearance ##

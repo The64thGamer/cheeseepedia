@@ -1,7 +1,7 @@
 +++
 title = "Guest Star / Helen Henny (Cyberamic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2022-09-07T15:42:43Z
 
 [Article]
@@ -16,7 +16,7 @@ It is a pretty simple figure, having only 8 movements. The Guest Star/ Helen Hen
 TODO: History
 
 ## Movements ##
-The bot features 8 movements in total, being the same amount of movements as the  figure.
+The bot features 8 movements in total, being the same amount of movements as the Chuck E Cheese (Cyberamic) (Chuck E. Cheese Cyberamic) figure.
 {| class='wikitable'
 |+
 !Movement

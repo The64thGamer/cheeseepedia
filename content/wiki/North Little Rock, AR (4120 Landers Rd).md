@@ -8,7 +8,7 @@ date = 2023-01-22T22:41:41Z
 contributors = ["RedaCEC","ChuckECool","Rexburg090","ThatBoiCydalan","CECFayetteville15"]
 gallery = []
 +++
-
+[[File:North Little Rock, AR current exterior.jpg|alt=Phoenix|thumb|North Little Rock, AR exterior ()]]
 **4120 Landers Rd** was a Showbiz Pizza Place that opened on October 27, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
 This location received Concept Unification in 1991-1992, and as of October 2022, they got a dance floor.
@@ -27,17 +27,17 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |October 1983
 |1991-1992
 |
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |August 2019
 |
 |-
-| + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
 |August 2019
 |Still In Use
 |2021 Model. Second 2.0 in Arkansas.

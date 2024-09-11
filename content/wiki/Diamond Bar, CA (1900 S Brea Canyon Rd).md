@@ -1,7 +1,7 @@
 +++
 title = "Diamond Bar, CA (1900 S Brea Canyon Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-11-10T00:16:26Z
 
 [Article]

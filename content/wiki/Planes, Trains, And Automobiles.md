@@ -20,7 +20,7 @@ gallery = []
 ### [https://en.wikipedia.org/wiki/Land_of_Confusion Land of Confusion (LP / 7' Version)]
 ### [https://en.wikipedia.org/wiki/Papa-Oom-Mow-Mow Papa-Oom-Mow-Mow]
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1**
+# **[[File:New Graphic.png]] Segment 1**
 ## Little Red Corvette
 ## The Train Song
 # **Intermission 2**
@@ -30,7 +30,7 @@ gallery = []
 ### [https://en.wikipedia.org/wiki/Marrakesh_Express Marrakesh Express]
 ### [https://en.wikipedia.org/wiki/(Everything_I_Do)_I_Do_It_for_You <nowiki>[Everything I Do] I Do It For You</nowiki>]
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 2**
+# **[[File:New Graphic.png]] Segment 2**
 ## Bicycle Built For Two
 ## Fun, Fun, Fun
 # **Intermission 3**
@@ -39,7 +39,7 @@ gallery = []
 ### [https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World Everybody Wants To Rule The World]
 ### [https://en.wikipedia.org/wiki/Fresh_(Kool_%26_the_Gang_song) Fresh]
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 3**
+# **[[File:New Graphic.png]] Segment 3**
 ## Goin' Sight Seein'
 ## Danger Zone
 # **Intermission 4**

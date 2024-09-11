@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Skipping Rope"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2022-03-01T19:08:08Z
 
 [Article]

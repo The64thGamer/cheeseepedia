@@ -78,12 +78,12 @@ gallery = []
 
 ## Lives: ##
 
-* [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}){< ref "wiki/Birthday Star 01.md" >}})
-* [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}}){< ref "wiki/Havin' A Party 01.md" >}})
-* [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}}){< ref "wiki/If You're Happy and You Know It.md" >}})
-* 
+* [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
+* Havin' A Party 01
+* If You're Happy and You Know It
+* [Me & My Friends]({{< ref "wiki/Me & My Friends (New Countdown).md" >}})
 
 ## Trivia ##
 
-* Chuck E.'s Place is from [January 2004 Show]({{< ref "wiki/January 2004 Show.md" >}}), Jump is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}){< ref "wiki/September 2000 Show.md" >}}), The Muffin Man is from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}), 'Humpty Dumpty' is [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), That's A Deal is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}){< ref "wiki/April 2002 Show.md" >}}), What Up is from [September 2004]({{< ref "wiki/September 2004.md" >}}), I Love the Sunshine is from [Summer 2007 Show]({{< ref "wiki/Summer 2007 Show.md" >}}), CEC Chuck E. Cheese is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), Opposite Day and Colors is from [CEC TV April 2005 Show]({{< ref "wiki/CEC TV April 2005 Show.md" >}}), and No Other Place is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}) 
-* Before [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}), [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}}), and [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}}) a portion of the Birthday Break from [January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}}) plays
+* Chuck E.'s Place is from [January 2004 Show]({{< ref "wiki/January 2004 Show.md" >}}), Jump is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}), The Muffin Man is from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}), 'Humpty Dumpty' is [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), That's A Deal is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), What Up is from [September 2004]({{< ref "wiki/September 2004.md" >}}), I Love the Sunshine is from [Summer 2007 Show]({{< ref "wiki/Summer 2007 Show.md" >}}), CEC Chuck E. Cheese is from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), Opposite Day and Colors is from [CEC TV April 2005 Show]({{< ref "wiki/CEC TV April 2005 Show.md" >}}), and No Other Place is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}) 
+* Before [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}), Havin' A Party 01, and If You're Happy and You Know It a portion of the Birthday Break from [January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}}) plays

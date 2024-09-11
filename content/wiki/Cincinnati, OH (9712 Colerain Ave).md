@@ -1,7 +1,7 @@
 +++
 title = "Cincinnati, OH (9712 Colerain Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-04-07T22:38:49Z
 
 [Article]

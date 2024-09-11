@@ -15,7 +15,7 @@ The ****For a free show... push this button and watch me go!**** was a sign crea
 ##Production##
 This unique sign was used in the cabaret and lounge areas at Pizza Time Theatre locations.
 
-This sign allegedly replaced the  sign and system, although would still retain the same concept in showing guests they could start the show on command.<ref>https://www.worthpoint.com/worthopedia/chuck-cheeses-pizza-time-theatre-1901232498</ref>
+This sign allegedly replaced the '1 Token Starts Our Show' (PTT Signage) ('1 Token Starts Our Show') sign and system, although would still retain the same concept in showing guests they could start the show on command.<ref>https://www.worthpoint.com/worthopedia/chuck-cheeses-pizza-time-theatre-1901232498</ref>
 
 ##Design##
 This sign is a yellow, black, and white beveled rectangle that appears to be encased within the plastic. At the four corners of the sign, holes where the sign could be screwed into a wall can be seen; alongside of a larger hole in the center of the sign that'd be able to start the cabaret or lounge act.  

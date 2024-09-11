@@ -8,7 +8,7 @@ date = 2024-05-23T17:42:55Z
 contributors = ["CECMentor","Livelycheese"]
 gallery = []
 +++
-**_Fatz Geronimo**_ is one of the main characters of the Showbiz Pizza Place franchise, having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}){< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
+**_Fatz Geronimo**_ is one of the main characters of the Showbiz Pizza Place franchise, having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
 ## History ##
 
@@ -16,10 +16,10 @@ gallery = []
 Beach Bear was based off of the character Fats Gorilla the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}). He got his first animatronic in [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}). He would play the keyboard, and occasionally provide vocals. He was a black gorilla with a golden tuxedo.
 
 ### Showbiz Pizza Place ###
-Fatz Geronimo would originally be voiced by Aaron Fechter, before getting replaced by the late Burt Wilson. Fatz acted the oldest and most mature out of the group, and often acted as the band leader. He would often mention his girlfriend Esmeralda, as well as other woman he would flirt with. Fatz would tease his other band members, especially [Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella.md" >}}). He was the creator of [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night.md" >}}), as well as several other shows the band performed. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}), Fatz would be turned into [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}). 
+Fatz Geronimo would originally be voiced by Aaron Fechter, before getting replaced by the late Burt Wilson. Fatz acted the oldest and most mature out of the group, and often acted as the band leader. He would often mention his girlfriend Esmeralda, as well as other woman he would flirt with. Fatz would tease his other band members, especially [Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella.md" >}}). He was the creator of [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night.md" >}}), as well as several other shows the band performed. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Fatz would be turned into [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}). 
 
 ### The New Rock-afire Explosion & Present Day ###
-After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the [New Rock-afire Explosion]({{< ref "wiki/New Rock-afire Explosion.md" >}}). Fatz, like his costars, became a lot skinnier. However, he still had his golden tuxedo. His voice would change, as Burt Wilson was getting older. During the 2000s and 2010s, Aaron Fechter voiced Fatz for a few showtapes, as him and Burt Wilson weren't on good terms till 2019. Burt Wilson returned one last time as Fatz, voicing him in [https://www.youtube.com/watch?v=XQsLX7r2XJ8 The Rock-afire Explosion Sings The MST3K Theme].
+After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the New Rock-afire Explosion. Fatz, like his costars, became a lot skinnier. However, he still had his golden tuxedo. His voice would change, as Burt Wilson was getting older. During the 2000s and 2010s, Aaron Fechter voiced Fatz for a few showtapes, as him and Burt Wilson weren't on good terms till 2019. Burt Wilson returned one last time as Fatz, voicing him in [https://www.youtube.com/watch?v=XQsLX7r2XJ8 The Rock-afire Explosion Sings The MST3K Theme].
 
 ## Animatronics ##
 {| class='wikitable'

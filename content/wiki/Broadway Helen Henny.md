@@ -20,19 +20,19 @@ gallery = []
 **_Madame Oink IV - The Tune Machine**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madame Oink.
 
 ##Segments:##
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Music for Kids
+#[[File:New Graphic.png]] Music for Kids
 ##[https://en.wikipedia.org/wiki/What_Are_Little_Boys_Made_Of%3F What Are Little Boys Made Of?]
 ##[https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel Pop Goes The Weasel]
 ##[https://en.wikipedia.org/wiki/Talk_to_the_Animals Talk to the Animals]
 ##[https://en.wikipedia.org/wiki/Bye_Bye_Birdie Kids - Bye Bye Birdie]
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) 1950's Rock & Roll
+#[[File:New Graphic.png]] 1950's Rock & Roll
 ##[https://en.wikipedia.org/wiki/Rock_Around_the_Clock Rock Around the Clock]
 ##[https://en.wikipedia.org/wiki/Hound_Dog_(song) Hound Dog]
 ##[https://en.wikipedia.org/wiki/Yakkity_Yak Yakkity Yak]
 ##[https://en.wikipedia.org/wiki/Peggy_Sue Peggy Sue]
 ##[https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll Shake, Rattle and Roll]
 ##[https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay][https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll Rock and Roll Is Here to Stay]
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Wonderful World of Swing
+#[[File:New Graphic.png]] Wonderful World of Swing
 ##[https://en.wikipedia.org/wiki/Sentimental_Journey_(song) Sentimental Journey]
 ##[https://en.wikipedia.org/wiki/Boogie_Woogie_Bugle_Boy Boogie Woogie Bugle Boy]
 ##[https://en.wikipedia.org/wiki/In_the_Mood In the Mood]

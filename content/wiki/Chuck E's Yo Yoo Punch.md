@@ -8,7 +8,7 @@ date = 2023-07-14T03:20:37Z
 contributors = ["ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=chuck es yo yoo punch.png|desc=The game at  in 2005.}}
+{{Stub}}{{Generic|image=chuck es yo yoo punch.png|desc=The game at [the Cincinnati (Colerain) location]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) in 2005.}}
 **_Chuck E's Yo Yoo Punch**_ was a redemption game made for _Chuck E. Cheese_ locations in 2000. This game is a branded version of _Yo Yoo Punch_ manufactured by Skee-Ball.<ref>https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html</ref>
 
 ##Gameplay##

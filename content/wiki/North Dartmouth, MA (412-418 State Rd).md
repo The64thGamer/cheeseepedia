@@ -26,11 +26,11 @@ Currently the 1-Stage is in great shape.
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1994
 |In store.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1994
 |In store.
 |-

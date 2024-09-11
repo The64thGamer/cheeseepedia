@@ -1,7 +1,7 @@
 +++
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
-tags = []
+tags = ["Pizza Time Theatre Tokens"]
 date = 2022-12-17T00:56:06Z
 
 [Article]
@@ -10,9 +10,9 @@ gallery = []
 +++
 {{Generic|image=77giltbz.jpg|desc=101 Glint Bronze}}
 
-The **_Pizza Time Theatre Token 101**_ was the first  event for Atari employees.<ref>https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977/page/n1/mode/2up</ref>
+The **_Pizza Time Theatre Token 101**_ was the first [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) token to ever be released, which was first obtainable on May 3rd, 1977 at the Pizza Time Theatre Grand Opening Review (Event) (Pizza Time Theatre Grand Opening Review) event for Atari employees.<ref>https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977/page/n1/mode/2up</ref>
 
-They would be obtainable by the public on May 17th with the opening of first location in  and  tokens.
+They would be obtainable by the public on May 17th with the opening of first location in [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). By 1978, they would be succeeded by the PTT Token 102 (Bz, N) (102 (Bz, N)) and PTT Token 125 (gB, Bz, gBz, N) (125 (gB, Bz, gBz, N)) tokens.
 
 ## Variants ##
 

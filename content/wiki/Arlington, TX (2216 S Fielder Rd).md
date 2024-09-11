@@ -1,7 +1,7 @@
 +++
 title = "Arlington, TX (2216 S Fielder Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-07-18T02:47:42Z
 
 [Article]
@@ -15,5 +15,5 @@ Arlington, TX would open with the Balcony Stage starring Madame Oink and the Aro
 
 ## Cabaret Acts ##
 This location would receive not one, not two, but THREE! cabaret acts. This location would open with Dolli Dimples, The King and the all new (at the time) Beagles! This location would be the very first location to receive the Beagles cabaret 
-
+[[File:16FDAA19-D893-4A99-B272-E4F4E01ED80D.jpg|thumb|Dolli Dimples at the **opening** of the _Arlington Pizza Time Theatre_]]
 act.

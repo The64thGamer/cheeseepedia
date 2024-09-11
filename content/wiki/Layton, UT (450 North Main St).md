@@ -8,7 +8,7 @@ date = 2024-06-22T01:24:43Z
 contributors = ["Cheeseslicez"]
 gallery = []
 +++
-
+[[File:450-N-Main-St-Layton-UT-450-N-Main-St-Photo-1-1-Large.jpg|thumb|280x280px|Layton's Exterior]]
 **450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in June 2020
 
 ## History ##

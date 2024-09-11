@@ -8,7 +8,7 @@ date = 2022-07-10T19:16:38Z
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:DarienExterior.jpg|thumb|200x200px|Exterior of the Darien, IL CEC.]]
 **_7409 Cass Ave**_ is a Chuck E. Cheese's located in Darien, Illinois.
 
 

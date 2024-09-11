@@ -1,20 +1,20 @@
 +++
 title = "Pasqually"
 draft = false
-tags = []
+tags = ["Animatronics (Cyberamic)"]
 date = 2024-05-23T02:42:56Z
 
 [Article]
 contributors = ["Animatronicbrainrot","CECMentor"]
 gallery = []
 +++
-
+[[File:PasquallyRockstar.png|thumb|Pasqually's current design as of 2024.]]
 **_Pasqually**_, full name **_Pasqually Pizza Pieplate**_, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) location in 1977. 
 
 ## History ##
 
 ### Pizza Time Theatre ###
-From as early as 1977, Pasqually was  got introduced, Pasqually now played the accordion. Joe Spano was later replaced by Scott Wilson in 1983.
+From as early as 1977, Pasqually was [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}})'s chef. Originally portrayed by Joe Spano, the early shows would portray Pasqually as a stereotypical yet rough around the edges Italian chef with a snobby personality. Pasqually's original design had a chef hat as well as a long sleeved shirt with a red and white plaid design. He wore a red bandanna and a white apron. He had black curly hair and a big mustache. This design would be used for decades to come. In the first two locations, Pasqually held a plate with pizza as well as a pizza cutter. When the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) got introduced, Pasqually now played the accordion. Joe Spano was later replaced by Scott Wilson in 1983.
 
 ### ShowBiz Pizza Time ###
 

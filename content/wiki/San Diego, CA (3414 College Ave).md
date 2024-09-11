@@ -8,7 +8,7 @@ date = 2022-08-30T16:37:40Z
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005","Caydenpedia"]
 gallery = []
 +++
-**3414 College Ave** is a Chuck E. Cheese's that opened on 12-19-2012 with a .
+**3414 College Ave** is a Chuck E. Cheese's that opened on 12-19-2012 with a Circles Of Light with a Chuck E. Cheese 16m (Animatronic) (16m animatronic).
 
 This location is one of the 5 CEC's in the San Diego area
 

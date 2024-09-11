@@ -17,7 +17,7 @@ In their 1993 Annual Report, ShowBiz Pizza Time announced a growth in revenue bu
 
 At this time, the company finalized [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and adopted the “Chuck E. Cheese’s” name for all locations, partnering with the J. Walter Thompson Agency of Chicago to roll out new and marketing campaigns in February 1994. In the report, the company expressed plans to introduce new games and rides in the fiscal year 1994, along with initiatives to update the guest experience through “a rework and upgrade of our prize merchandise area.” <ref name=':0' />
 
-ShowBiz Pizza Time also introduced many upgrades to the guest experience separate from the remodel initiative, which includes [Kid Check]({{< ref "wiki/Kid Check.md" >}}), [Toddler Zone]({{< ref "wiki/Toddler Zone.md" >}}), and the “phased” packages. However, it should be noted that the introduction and updates of these fixtures were not tied to the remodel initiative, and instead were upgraded on their own or introduced through a new store opening.
+ShowBiz Pizza Time also introduced many upgrades to the guest experience separate from the remodel initiative, which includes Kid Check, Toddler Zone, and the “phased” packages. However, it should be noted that the introduction and updates of these fixtures were not tied to the remodel initiative, and instead were upgraded on their own or introduced through a new store opening.
 
 ## Enhancements ##
 The “CEC 1994 F.Y.I. Training Video” which was given to all locations provided insight on the upcoming changes within new and existing locations.<ref>https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv</ref>
@@ -30,7 +30,7 @@ Most locations that received the remodel dropped the “Chuck E. Cheese’s Pizz
 ### **Interior** ###
 Locations were fitted with subtle rainbow carpeting, theater lighting, and crown molding with indirect rainbow-colored lighting. Wooden signs were introduced within locations to denote areas and attractions, along with an updated décor package which were showcased by spotlights throughout the store.
 
-Wooden signs and décor used in the remodel can be found in [:Category:CEC Art Packages]({{< ref "wiki/CategoryCEC Art Packages.md" >}}), under the following sections:
+Wooden signs and décor used in the remodel can be found in :Category:CEC Art Packages, under the following sections:
 
 * **1993-1996** Décor, Signage, Magazines (Graphic Décor predates the remodel initiative)
 * **1998** Graphic Décor, Signage

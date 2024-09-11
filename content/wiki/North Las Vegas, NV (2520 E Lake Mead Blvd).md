@@ -1,7 +1,7 @@
 +++
 title = "North Las Vegas, NV (2520 E Lake Mead Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-08T06:27:36Z
 
 [Article]
@@ -13,7 +13,7 @@ gallery = []
 This is not to be confused with upcoming [North Las Vegas, NV (755 W. Craig Rd Suite 144)]({{< ref "wiki/North Las Vegas, NV (755 W Craig Rd Suite 144).md" >}}) Chuck E. Cheese which will be opening sometime in 2023 with a 2021 Model Dance Floor + Video Wall as it is around 17 minutes away from the store.
 
 ## History ##
-North Las Vegas opened in October 1982 and closed sometime in 1984 with a .
+North Las Vegas opened in October 1982 and closed sometime in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 The store was then closed in 1984 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for almost 2 years. The show's fate is unknown.
 
@@ -30,7 +30,7 @@ It is unknown where the building was located.
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -42,7 +42,7 @@ It is unknown where the building was located.
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |-
 |[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})

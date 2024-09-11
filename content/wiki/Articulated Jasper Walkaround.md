@@ -8,7 +8,7 @@ date = 2022-08-09T23:14:07Z
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedJasperNews.jpg|thumb|Close-up","ArticulatedJasperGal5k.jpg|thumb|The"]
 +++
-
+[[File:ArticulatedJasper.jpg|thumb|alt=The articulated Jasper head paired with his standard outfit and an acoustic guitar in the August 1996 show.]]
 The articulated Jasper walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
 * August 1996

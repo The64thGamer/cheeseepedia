@@ -21,26 +21,26 @@ gallery = []
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 1**
-##
+#[[File:New Graphic.png]] **Segment 1**
+##Grammys (Cyberstar Segment) (Grammys)
 #**Intermission 2**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 2**
-##
+##Michael Jackson (Cyberstar Segment) (Michael Jackson)
 #**Intermission 3**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 3**
-##
+##Summer Love (Cyberstar Segment) (Summer Love)
 #**Intermission 4**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
 #**Segment 4**
-##
+##Summer Safety (Cyberstar Segment) (Summer Safety)

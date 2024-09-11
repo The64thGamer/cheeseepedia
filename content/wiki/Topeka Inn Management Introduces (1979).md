@@ -8,7 +8,7 @@ date = 2023-08-09T21:39:05Z
 contributors = ["Concordio","The 64th Gamer"]
 gallery = ["Topeka"]
 +++
-
+[[File:Topeka Inn Management Franchise Brochure Page 1.jpg|thumb|Cover.]]
 The **_Topeka Inn Management Introduces... brochure**_ was published in 1979 as a way of informing the public of their recent business endeavor with Pizza Time Theatre Incorporated, which would later be abandoned once Bob Brock discovered the existence of Aaron Fechter. The brochure would go on to state the history of Chuck E. Cheese's Pizza Time Theatre and inform readers on the future of the franchise deal. 
 
 ## History ##

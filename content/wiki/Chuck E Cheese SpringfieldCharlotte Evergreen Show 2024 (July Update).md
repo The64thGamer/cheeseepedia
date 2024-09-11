@@ -67,7 +67,7 @@ gallery = []
 
 ## Lives: ##
 
-* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (CEC Stage Navori, Media Navori)
-* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza (CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Navori, Media Navori)
 * [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (CEC Stage Navori, Media Navori)
-* [Chuck E. Bop]({{< ref "wiki/Chuck E Bop.md" >}}) (CEC Stage Navori, Media Navori)
+* Chuck E. Bop (CEC Stage Navori, Media Navori)

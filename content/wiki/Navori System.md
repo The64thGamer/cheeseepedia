@@ -8,8 +8,8 @@ date = 2022-07-27T02:06:46Z
 contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]
 gallery = []
 +++
- store testing the module with a live show, which broke character positions.]]
-The **_Existing Stage Showtape Networking Module**_ (current official name unknown), is a device that can be attached to the [3-Stage]({{< ref "wiki/3-Stage.md" >}}) (and presumably the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}})) for downloading showtape content through an internet connection.
+[[File:Essnm .png|thumb|441x441px|The [Dallas, TX (7110 S Westmoreland Rd)]({{< ref "wiki/Dallas, TX (7110 S Westmoreland Rd).md" >}}) store testing the module with a live show, which broke character positions.]]
+The **_Existing Stage Showtape Networking Module**_ (current official name unknown), is a device that can be attached to the 3-Stage (and presumably the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}})) for downloading showtape content through an internet connection.
 
 ## Testing ##
 The [Dallas, TX (7110 S Westmoreland Rd)]({{< ref "wiki/Dallas, TX (7110 S Westmoreland Rd).md" >}}) store began testing the unit in either May or June of 2022. It is unclear if this test was a permanent installation, or only tested at certain times.

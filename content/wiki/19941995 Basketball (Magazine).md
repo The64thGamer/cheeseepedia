@@ -1,14 +1,14 @@
 +++
 title = "1994/1995 Basketball (Magazine)"
 draft = false
-tags = []
+tags = ["Store Fixtures"]
 date = 2022-08-28T22:53:29Z
 
 [Article]
 contributors = ["Documentor"]
 gallery = []
 +++
-
+[[File:Basketballposter.jpg|thumb|Basketball magazine poster]]
 The **_Basketball magazine poster**_ was released in stores in 1994 and 1995 alongside numerous other magazine posters.
 
 ## Appearance ##

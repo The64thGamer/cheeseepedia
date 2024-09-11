@@ -1,7 +1,7 @@
 +++
 title = "Surfer's Paradise, Queensland, Australia"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-09-12T16:33:27Z
 
 [Article]

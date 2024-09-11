@@ -9,7 +9,7 @@ contributors = ["Cheeseclassic"]
 gallery = []
 +++
 {{Stub}}
-**_North Wales, PA (1210 Bethlehem Pike)**_ was a _Chuck E. Cheese's_ that opened on December 8, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}){< ref "wiki/2-Stage.md" >}}) and closed on April 15, 2018 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}).
+**_North Wales, PA (1210 Bethlehem Pike)**_ was a _Chuck E. Cheese's_ that opened on December 8, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and closed on April 15, 2018 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
 ##History##
 W.I.P

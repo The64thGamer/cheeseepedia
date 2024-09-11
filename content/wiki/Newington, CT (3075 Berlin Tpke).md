@@ -18,7 +18,7 @@ This location opened up with a Road Stage and was converted to a 1-stage sometim
 !Installed
 !Removed
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |October 29, 1991
 |1995
 |-
@@ -26,7 +26,7 @@ This location opened up with a Road Stage and was converted to a 1-stage sometim
 |1995
 |September 2022
 |-
-||
+||Chuck E. Live Stage (Dance Floor) (Dance Floor + Video Wall)
 |September 2022
 |Still In Use
 |}
@@ -43,11 +43,11 @@ This was one of the five New England locations that was open after 2006 that did
 !Manufacturing date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Destroyed.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Destroyed.
 |-

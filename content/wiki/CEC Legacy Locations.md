@@ -15,12 +15,12 @@ The **_Chuck E. Cheese Retro Store**_ or **_Museum Store**_ (AKA Destination Sto
 
 ## Store Acquisitions ##
 
-* [Slidell, LA (124 North Shore Blvd)]({{< ref "wiki/Slidell, LA (124 North Shore Blvd).md" >}})
+* Slidell, LA (124 North Shore Blvd)
 ** October 22, 2020 - Several posters taken during closing.
 * [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}})
-** June 8, 2022 - [3-Stage]({{< ref "wiki/3-Stage.md" >}}) taken during 2.0 along with store and stage carpet
+** June 8, 2022 - 3-Stage taken during 2.0 along with store and stage carpet
 * [Rockford, IL (3600 E State St)]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}})
-** June 13, 2022 - Entire [Rocker Stage]({{< ref "wiki/Rocker Stage.md" >}}) with animatronics taken during 2.0 remodel
+** June 13, 2022 - Entire Rocker Stage with animatronics taken during 2.0 remodel
 * [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})
 ** July 25, 2022 - Posters taken.
 

@@ -21,7 +21,7 @@ gallery = []
 ##3 Minutes Till Next Show
 ##CEC TV News - Safety
 ##VJ Spot
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1**
+#**[[File:New Graphic.png]] Segment 1**
 ##Soul Man
 ##Gimmie Some Lovin'
 #**Intermission 2**
@@ -33,7 +33,7 @@ gallery = []
 ##CEC TV '93 ID
 ##Helen Henny's Hollywood - New Kids On The Block
 ##VJ Spot
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 2**
+#**[[File:New Graphic.png]] Segment 2**
 ##Mountain Music
 ##Bingo
 #**Intermission 3**
@@ -44,7 +44,7 @@ gallery = []
 ##Guessing Game
 ##Home On The Range
 ##1 Minute Countdown
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 3**
+#**[[File:New Graphic.png]] Segment 3**
 ##Vamos A Bailar
 ##Get On Your Feet
 #**Intermission 4**

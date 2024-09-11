@@ -8,7 +8,7 @@ date = 2022-05-31T00:26:56Z
 contributors = ["Documentor","The 64th Gamer","TrimSafe6859"]
 gallery = []
 +++
-**_Dolli (It's unknown if a name change happened)**_ is a retrofit of [Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}) at _Jungle Jim's International Market_ in Cincinnati, Ohio. 5440 Dixie Hwy, Fairfield, OH 45014
+[[File:Elvis.jpg|thumb|403x403px|Jungle Jim's Elvis]]**_Dolli (It's unknown if a name change happened)**_ is a retrofit of [Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}) at _Jungle Jim's International Market_ in Cincinnati, Ohio. 5440 Dixie Hwy, Fairfield, OH 45014
 
 The bot was located near checkout/cards. It is unknown if Dolli ever worked as the two pieces pictures/videos we have of her exitance show her aired down. She was then removed in 2001. 
 ##Design##

@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Speculative}}
 
-The **_Unnamed Chuck E. Cheese Documentary**_ is an upcoming (or potentially cancelled) documentary detailing Chuck E. Cheese's and its fandom.<ref>[:File:DocumentarycitationCEP.png]({{< ref "wiki/FileDocumentarycitationCEPpng.md" >}})</ref>
+The **_Unnamed Chuck E. Cheese Documentary**_ is an upcoming (or potentially cancelled) documentary detailing Chuck E. Cheese's and its fandom.<ref>[[:File:DocumentarycitationCEP.png]]</ref>
 
 ## Summary ##
 The documentary is cited as going over the general history of Pizza Time Theatre and Chuck E. Cheese's. Additional focus is supposed to be on the notable members of the animatronic community.

@@ -11,17 +11,17 @@ gallery = []
 **_9627 Macleod Trail**_ was a Chuck E. Cheese’s Pizza that opened on August 31, 1991 with a Road Stage, which closed sometime in 1994. 
 
 ## Stages ##
-This location opened up on August 31st, 1991 as of one of two Road Stages installed in Canada (The other is  to replace the store's  and remained there until it's closure.
+This location opened up on August 31st, 1991 as of one of two Road Stages installed in Canada (The other is [Mississauga, Ontario, Canada (4141 Dixie Rd)]({{< ref "wiki/Mississauga, Ontario, Canada (4141 Dixie Rd).md" >}}), which is still operating as of December 2022). This store would remain open for almost 3 years until it closed sometime in 1994. After closure, the stage would be removed and installed at the [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}) to replace the store's Cyberamics Rocker Stage (Rocker Stage) and remained there until it's closure.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |August 1991
 |1994
-|One of two Road Stages installed in Canada. Later reinstalled at  to replace a .
+|One of two Road Stages installed in Canada. Later reinstalled at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}) to replace a Cyberamics Rocker Stage (Rocker Stage).
 |}
 
 ## Animatronics ##
@@ -30,25 +30,25 @@ This location opened up on August 31st, 1991 as of one of two Road Stages instal
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1980s
-|Reused at . Later Unknown.
+|Reused at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}). Later Unknown.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1980's
-|Reused at . Later Unknown.
+|Reused at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}). Later Unknown.
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1980s
-|Reused at . Later Unknown.
+|Reused at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}). Later Unknown.
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1980s
-|Reused at . Later Unknown.
+|Reused at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}). Later Unknown.
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1980s
-|Reused at . Later Unknown.
+|Reused at [2770 32nd Ave]({{< ref "wiki/Calgary, Alberta, Canada (2770 32nd Ave).md" >}}). Later Unknown.
 |}
 
 ## Gallery ##

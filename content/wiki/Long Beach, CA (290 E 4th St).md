@@ -8,13 +8,13 @@ date = 2023-08-05T23:03:50Z
 contributors = ["CorrectorMan"]
 gallery = []
 +++
+[[File:Long beach.jpg|thumb|Long Beach's exterior before closure. (PC: Google Maps)]]
+**_290 E 4th St**_ was a _Chuck E. Cheese's_ that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}).
 
-**_290 E 4th St**_ was a _Chuck E. Cheese's_ that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}}).
-
-This is not to be confused with .
+This is not to be confused with Long Beach, CA (4706 Los Coyotes Diagonal), which opened in 1980 (month and day unknown) and closed in 1984 (month and day unknown) with presumably a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 ## Stage ##
-Long Beach opened with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}}). Unfortunately, due to lack of info, further info is unknown.
+Long Beach opened with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). Unfortunately, due to lack of info, further info is unknown.
 {| class='wikitable'
 |+
 !Stage
@@ -22,11 +22,11 @@ Long Beach opened with a botless [Circles of Light]({{< ref "wiki/Circles of Lig
 !Removed
 !Notes
 |-
-|[Circles of Light]({{< ref "wiki/Circles of Light.md" >}}){< ref "wiki/Circles of Light.md" >}})
+|[Circles of Light]({{< ref "wiki/Circles of Light.md" >}})
 |November 2013
 |June 2020
 |TODO
 |}
 
 ## History ##
-Long Beach opened on November 4, 2013 with a botless [[Circles of Light]]. Unfortunately, very few info is known about this location throughout its history. The location would remain untouched until closure in June 2020 (day unknown) due to COVID-19 and the bankruptcy. As of August 2023, the location is now Gold's Gym.
+Long Beach opened on November 4, 2013 with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). Unfortunately, very few info is known about this location throughout its history. The location would remain untouched until closure in June 2020 (day unknown) due to COVID-19 and the bankruptcy. As of August 2023, the location is now Gold's Gym.

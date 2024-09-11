@@ -8,11 +8,11 @@ date = 2022-07-15T01:15:59Z
 contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]
 gallery = []
 +++
-
+[[File:CEC Star Stage .jpg|alt=Star Stage at Montfort Dallas TX Store|thumb|398x398px|Ray of Sunshine playing on the Star Stage]]
 The Star Stage was a prototype stage show installed in the Dallas TX Montfort Dr. store that was meant to update the Studio C Shows to the current generation.
 
 ## History ##
-In 2009 Chute Gerdeman Retail proposed a brand new show idea for the currently existing Studio C shows. Stating that Studio C's Showroom was outdated and incohesive, Convincing them to remodel the showroom at the Dallas Texas Location in 2010; Spring of 2010 being the earliest evidence of its debut. But due to the controversy with Robert Gotcher, Dept. 18, possibly even Their  controller system, Jeremy Blaido ordered the Show to be trashed in the Fall of 2012 to be replaced with the Circles of Lights show.
+In 2009 Chute Gerdeman Retail proposed a brand new show idea for the currently existing Studio C shows. Stating that Studio C's Showroom was outdated and incohesive, Convincing them to remodel the showroom at the Dallas Texas Location in 2010; Spring of 2010 being the earliest evidence of its debut. But due to the controversy with Robert Gotcher, Dept. 18, possibly even Their [APS]({{< ref "wiki/Animation Programming System.md" >}}) controller system, Jeremy Blaido ordered the Show to be trashed in the Fall of 2012 to be replaced with the Circles of Lights show.
 
 ## Design<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> ##
 
@@ -25,6 +25,6 @@ In 2009 Chute Gerdeman Retail proposed a brand new show idea for the currently e
 
 ## Lighting & Tech<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> ##
 
-* The Stage Show used an updated version of  for Studio C to have compatibility with Widescreen & HD Video, Often seen at the predecessor to the [Studio C HD Weigl Control System]({{< ref "wiki/Studio C HD Weigl Control System.md" >}}). This software would be considered obsolete due to apparently always glitching and breaking during shows.
+* The Stage Show used an updated version of [APS]({{< ref "wiki/Animation Programming System.md" >}}) for Studio C to have compatibility with Widescreen & HD Video, Often seen at the predecessor to the [Studio C HD Weigl Control System]({{< ref "wiki/Studio C HD Weigl Control System.md" >}}). This software would be considered obsolete due to apparently always glitching and breaking during shows.
 * And it being a previous Studio C Beta, they reused most of the lighting for this stage. The only new lighting included color changing LEDs that would shine on Chuck E. during songs.
 * The chair with the 'You're the Star!' signage had a special camera in front of it where an employee would take your photo and display it on the showroom and game room monitors if you were the Birthday Star.

@@ -9,7 +9,7 @@ contributors = ["ThatBoiCydalan","Rexburg090","Emcaacme"]
 gallery = ["Fm1960munch.png|An","Fm"]
 +++
 **_2220 FM 1960**_ was a Chuck E. Cheese's located in Houston, Texas at the corner of FM 1960 and Kuykendahl Rd which opened on June 25th, 1981 as a Showbiz Pizza Place and closed/relocated as a Chuck E Cheese's on August 26th, 2018.
-
+[[File:Abandoned1960HoustonCEC.jpg|thumb|The former 1960 Chuck E. Cheese location as of August 1st, 2022.]]
 
 ## History ##
 
@@ -21,16 +21,16 @@ Sometime around the 90s, this location had went through Concept Unification. Not
 
 Around 2008-2009, this location had received the phase 4 remodel, which marked the end of the 3-Stage as it was removed to make way for a new Studio C Beta 16M movement bot which was apart of the remodel.
 
-Over the years, this location was suffering from many issues, once of which being the crime rate at this location being high and the main issue being in an unsafe area since the place it was in was in an abandoned shopping center. Because of these issues this location was having, this location had planned a relocation to  at North Junction Plaza. Eventually it was decided that this location would be closing, as was originally going to close down around March 2018, but the closure date was delayed a couple of times up to the final date, August 26th, 2018. This location closed their doors for good on August 26th, 2018 and eventually reopened on September 1st, 2018 at . This former CEC still remains abandoned and vacant to this day.
+Over the years, this location was suffering from many issues, once of which being the crime rate at this location being high and the main issue being in an unsafe area since the place it was in was in an abandoned shopping center. Because of these issues this location was having, this location had planned a relocation to Houston, TX (146 FM 1960) (146 FM 1960) at North Junction Plaza. Eventually it was decided that this location would be closing, as was originally going to close down around March 2018, but the closure date was delayed a couple of times up to the final date, August 26th, 2018. This location closed their doors for good on August 26th, 2018 and eventually reopened on September 1st, 2018 at Houston, TX (146 FM 1960) (146 FM 1960). This former CEC still remains abandoned and vacant to this day.
 
 ## Arcade Machines ##
 
 * Alley Roller Classic
-* [CEC Street Hoops]({{< ref "wiki/CEC Street Hoops.md" >}})
-* [Chuck E. Cheese's Boulder's Dozer's]({{< ref "wiki/Chuck E Cheese's Boulder's Dozer's.md" >}})
+* CEC Street Hoops
+* Chuck E. Cheese's Boulder's Dozer's
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
-* [Cyclone Junior]({{< ref "wiki/Cyclone Junior.md" >}})
-* [Penalty Shot Chuck E. Cheese's]({{< ref "wiki/Penalty Shot Chuck E Cheese's.md" >}})
+* Cyclone Junior
+* Penalty Shot Chuck E. Cheese's
 * [Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
 * Pop The Lock
@@ -45,7 +45,7 @@ Over the years, this location was suffering from many issues, once of which bein
 * Strike Zone
 * Milk Jug Toss
 * 2 Minute Drill
-* [Redhot]({{< ref "wiki/Redhot.md" >}})
+* Redhot
 * Crank It!
 * Jam Session
 * NBA Hoops
@@ -75,19 +75,19 @@ Over the years, this location was suffering from many issues, once of which bein
 * Slam A Winner
 * Stack-It
 * Raging Ape
-* [Crossbow Master: Chuck E. Cheese's]({{< ref "wiki/Crossbow Master Chuck E Cheese's.md" >}})
+* Crossbow Master: Chuck E. Cheese's
 * Buzzy Buzzy Bee
 * Nicktoons Racing
 * Jett Rider
 * SpongeBob SquarePants Bikini Bottom Bowling
-* [Chuck E.'s Glider Rider]({{< ref "wiki/Chuck E's Glider Rider.md" >}})
+* Chuck E.'s Glider Rider
 * Dino Pop
 * Chameleon Paradize
 * High Five!
-* [Chuck E.'s Goalie All Star]({{< ref "wiki/Chuck E's Goalie All Star.md" >}})
+* Chuck E.'s Goalie All Star
 * Hittin' Hoops!
-* [Chuck E. Cheese's Photo Ride (2014)]({{< ref "wiki/Chuck E Cheese's Photo Ride (2014).md" >}})
-* [Hammer 2]({{< ref "wiki/Hammer 2.md" >}})
+* Chuck E. Cheese's Photo Ride (2014)
+* Hammer 2
 * Buster Bubbles
 * Zoofari
 
@@ -115,7 +115,7 @@ Over the years, this location was suffering from many issues, once of which bein
 |August 26th, 2018
 |-
 |[https://youtu.be/pENKwPx3BLs Link]
-|'Jasper's Country Classic' from  being performed on 1960's Beta.
+|'Jasper's Country Classic' from Chuck E. Cheese's Show 3 2018 (Show 3 2018) being performed on 1960's Beta.
 |August 26th, 2018
 |-
 |[https://youtu.be/0YEZN2dvgtc Link]

@@ -15,7 +15,7 @@ gallery = []
 
 **_Velas * Rock-afired Song by Coin Bros**_ is a single segment showtape produced for the _[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]._
 
-The song was programmed due to Creative Engineering's previous collaboration with _Coin Bros_ in [Rock-afired for Coin - Sort It Out]({{< ref "wiki/Rock-afired for Coin - Sort It Out.md" >}}), though does not seem to be a direct collaboration this time.
+The song was programmed due to Creative Engineering's previous collaboration with _Coin Bros_ in Rock-afired for Coin - Sort It Out, though does not seem to be a direct collaboration this time.
 
 ## YouTube Descriptions ##
 Description in the standard video:
@@ -30,7 +30,7 @@ Description in the clean video:
  Coin Bros: https://www.youtube.com/channel/UCL-hQzqcp-PD_SOwKo8YNJA
 
 ##Show List:##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Segment** **1**
+#**[[File:New Graphic.png]] Segment** **1**
 ##Velas
 ##Official Releases##
 [https://www.youtube.com/watch?v=J_N_E_NHPu0 Velas * Rock-afired Song by Coin Bros on YouTube]

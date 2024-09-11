@@ -10,15 +10,15 @@ gallery = ["Dook"]
 +++
 {{Animatronic|image=NRAE Dook.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Dook Larue Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+The **_Dook Larue Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
 ## History ##
-This character was produced in 1993 for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}) show.
+This character was produced in 1993 for the New Rock-Afire Explosion show.
 
 The character could be purchased with or without ear movements. It's currently unknown if any were produced with the ear movements.
 
 ## Design ##
-This bot is a standard Mijin mech, the mech has brown eye pieces. The bot is the Dook Larue Character from the  in the smaller Mijjin style, sporting a brand new outfit, consisting of Beige Boots, Purple Overalls, a Green Shirt, and a hat with the colors Pink, Blue, and Purple.
+This bot is a standard Mijin mech, the mech has brown eye pieces. The bot is the Dook Larue Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, sporting a brand new outfit, consisting of Beige Boots, Purple Overalls, a Green Shirt, and a hat with the colors Pink, Blue, and Purple.
 
 The only cosmetic differences between bots are different fabric patches on the Overalls.
 

@@ -8,11 +8,11 @@ date = 2022-10-02T20:04:12Z
 contributors = ["Rexburg090","2600:4040:59FF:B100:6A21:54B1:8912:1DC5","2600:4040:59FF:B100:9C6:388E:A183:C3C5","2601:191:8580:9F90:C584:A34:12A5:5D31","Anastasia.laguardia","RPCEC","The 64th Gamer","2600:4040:59FC:D100:ECC2:5B6C:8C2F:DE4E","216.125.34.66","Blowseborg062","CorrectorMan","Cheeseclassic","2600:4040:5A0E:D900:EDFB:E7F1:4537:4996","CEC Tinley","Jerry CEC","Harchambeault2026"]
 gallery = ["2479329070","Attleboro"]
 +++
-
+[[File:Attleboro Exterior Street View Before 2.0 (PC; Google Maps).png|thumb|Street View of the Exterior before 2.0 (August 2019) (PC: Google Maps)]]
 **Attleboro, MA (287 Washington St)**, is a Chuck E. Cheese's location that opened on October 4th, 1993.
 
 ## History ##
-Attleboro opened October 4th, 1993, in Marketplace Square (Formerly South Attleboro Square), with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}). By 2003, A Sprinkler Room, Up & Down Curtains, &  were added.
+Attleboro opened October 4th, 1993, in Marketplace Square (Formerly South Attleboro Square), with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). By 2003, A Sprinkler Room, Up & Down Curtains, &  were added.
 
 In Fall 2006, Attleboro would remodel to the 2005 Remodel and expand (Which relocated the showroom, rebuilding the stage in the process.
 
@@ -33,7 +33,7 @@ As of October 2022, Attleboro still has the 2.0 Remodel.
 |October 1993
 |November 2019
 |-
-||
+||Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |November 2019
 |Still In Use
 |} 
@@ -45,11 +45,11 @@ As of October 2022, Attleboro still has the 2.0 Remodel.
 !Manufacturing date
 !Status 
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1993
 |Unknown.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
 |Unknown.
 |-

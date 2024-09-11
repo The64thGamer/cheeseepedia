@@ -1,7 +1,7 @@
 +++
 title = "Fishing (Magazine)"
 draft = false
-tags = []
+tags = ["Store Fixtures1994/1995 "]
 date = 2023-07-18T09:18:33Z
 
 [Article]
@@ -14,7 +14,7 @@ Chuck E. 'Big Bass' Cheese
 Describes the One
 That Got Away|text8=hunting the Perfect Pepperoni--- Tactics & Tackle}}
 
-The **Fishing (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the [1990s Major Remodel]({{< ref "wiki/1990s Major Remodel.md" >}}).
+The **Fishing (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 
 ## Design[edit | edit source] ##
 The poster is held in a 20½ in. by 17 in. dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Fisherman (shelf item) which has Chuck E. Cheese in a fishing outfit wearing a red baseball cap, long sleeve lumberjack shirt, jeans, fishing boots, and a bag while holding a fish.

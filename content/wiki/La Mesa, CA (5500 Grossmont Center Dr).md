@@ -37,11 +37,11 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Currently In Use
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Currently In Use
 |-

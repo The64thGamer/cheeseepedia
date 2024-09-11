@@ -32,11 +32,11 @@ Pontiac opened its doors on November 4th, 1982 as the 4th ShowBiz Pizza in Michi
 !Serial
 !Status
 |-
-|
+|[Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |04/82 - 1/07
 |Unknown / Destroyed.
 |-
-|
+|[Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |04/82 - 2/07
 |Owned by a private collector.
 |-
@@ -44,35 +44,35 @@ Pontiac opened its doors on November 4th, 1982 as the 4th ShowBiz Pizza in Michi
 |04/82 - 3/07
 |Unknown / Destroyed.
 |-
-|
+|[Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |04/82 - 4/07
 |Unknown / Destroyed.
 |-
-|
+|[Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |04/82 - 5/07
 |Unknown / Destroyed.
 |-
-|
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |04/82 - 6/07
 |Unknown / Destroyed.
 |-
-|
+|[Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |04/82 - 7/07
 |Unknown / Destroyed.
 |-
-|
+|[Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |04/82 - 8/07
 |Unknown / Destroyed.
 |-
-|
+|[Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |04/82 - 10/07
 |Unknown / Destroyed.
 |-
-|
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |04/82 - 11/07
 |Unknown / Destroyed.
 |-
-|
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown / Destroyed.
 |}

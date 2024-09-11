@@ -14,7 +14,7 @@ This was created to play during summer from April to September 2018. Featuring 6
 
 This show includes new footage of the corporate office MMBB bots performing the song 'In My Pool' replacing the original footage of kids swimming in a pool. This show also includes new skits and intermissions from the domestic show 'Show 3, 2018' which released in the same month.
 ##Show List:##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Skit 1**
+#**[[File:New Graphic.png]]** **Skit 1**
 ##Chuck E. Cheese - 'Fun!'
 #**Intermission 1**
 ##Kabilion - Chloes Closet
@@ -25,10 +25,10 @@ This show includes new footage of the corporate office MMBB bots performing the 
 #**Intermission 2**
 ##Battery Pop  - Om Nom Stories Ep.1
 ##Show Break #1 - Flyover
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Skit 3**
+#**[[File:New Graphic.png]] Skit 3**
 ##Munch´s Make Believe Band - 'In My Pool'
 #**Intermission 3**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Fun Facts with Chuck E. Cheese - 'Spicy Chili'
+##[[File:New Graphic.png]] Fun Facts with Chuck E. Cheese - 'Spicy Chili'
 ##Battery Pop - Charlie Freaks Out - 'Rubix Cube'
 #[[File:New Graphic.png]] **Skit 4**
 ##Chuck E. Cheese - 'More Cheese'

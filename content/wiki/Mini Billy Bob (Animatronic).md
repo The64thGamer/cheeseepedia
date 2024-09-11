@@ -8,7 +8,7 @@ date = 2022-11-05T05:12:04Z
 contributors = ["BurgersNuggs445","CEC Tinley","GallaRBX2"]
 gallery = ["Mini","Minibillybobsmitty1.jpg|Smitty's","Mini","Mini","Mini","Mini","Mini","Mini","Mini","Mini","Mini"]
 +++
-
+[[File:Prototype Mini Billy Bob.png|thumb|337x337px|Prototype Miniature Billy Bob show]]
 The Miniature Billy Bob animatronic was intended to be a computerized doll that was supposed to read, sing, or teach children (similar to the likes of Teddy Ruxpin). The doll was originally supposed to hit markets for 1986 but problems in manufacturing caused it to fall through.
 
 ## History ##

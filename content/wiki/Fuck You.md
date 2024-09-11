@@ -20,12 +20,12 @@ gallery = []
 This was created to play during Feb 27th, 2013 to April 13th, 2013 
 
 ##  Summary##
-The band provides backup vocals for CeeLo Green as he preforms [https://www.youtube.com/watch?v=CAV0XrbEwNc Fuck You] on stage. A parody of this song would release in 2015 on Creative Engineerings official YouTube Channel called “[Poo on You]({{< ref "wiki/Poo on You.md" >}})”.
+The band provides backup vocals for CeeLo Green as he preforms [https://www.youtube.com/watch?v=CAV0XrbEwNc Fuck You] on stage. A parody of this song would release in 2015 on Creative Engineerings official YouTube Channel called “Poo on You”.
 
 ##Show List##
- [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1
+ [[File:New Graphic.png]] Segment 1
 
-*[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Fuck You
+*[[File:New Graphic.png]] Fuck You
 
 ##Trivia##
 *Only Billy Bob, Mitzi, Fatz, and Dook are programmed for this song.

@@ -8,7 +8,7 @@ date = 2022-07-14T22:50:22Z
 contributors = ["BurgersNuggs445","Montfortdog","RPCEC Backup","2600:4040:59FF:B100:9C6:388E:A183:C3C5","Rexburg090","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","ChuckfeldStan","AstridMascotFan2005","CoolerDude"]
 gallery = ["Mobile","Mobile","Chuck","Mobile"]
 +++
-
+[[File:Mobile Alabama May 2022.png|thumb|381x381px|The location as of May 2022]]
 **_710 Downtowner Loop**_ was a _Chuck E. Cheese's_ located in Mobile, Alabama.
 
 This location was known for their tech in the 90s customizing their 3-Stage show and 

@@ -1,7 +1,7 @@
 +++
 title = "El Monte, CA (4567 Peck Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-30T18:47:31Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "National City, CA (1143 Highland Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-03T23:03:42Z
 
 [Article]

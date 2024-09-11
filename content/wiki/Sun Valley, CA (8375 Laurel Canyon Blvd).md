@@ -10,7 +10,7 @@ gallery = []
 +++
 **_8375 Laurel Canyon Blvd i**_s a Chuck E. Cheese that opened in July 1992 (day unknown) as a corporate location with a Road Stage which is still open to this day.
 
-It is located in the Canyon Plaza Shopping Center and is the relocation of the  which opened in July 1980 with a Portrait Stage and closed in July 1992 with Chuck E.'s House facade or the C-Stage.
+It is located in the Canyon Plaza Shopping Center and is the relocation of the [original Sun Valley location]({{< ref "wiki/Sun Valley, CA (8357 Laurel Canyon Blvd).md" >}}) which opened in July 1980 with a Portrait Stage and closed in July 1992 with Chuck E.'s House facade or the C-Stage.
 ##History##
 Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened with the 1988 Remodel including the CU decor, the Blue and White awnings, the checkers around the store, and the Road Stage. Around the mid-late 1990's, Sun Valley replaced their logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some of the checkers, and the removal of the ball pit for SkyTubes. In 2013, Sun Valley remodeled to the 2005 remodel which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, & adding purple walls. Sun Valley still remains like this. Currently, as of February 2023, the location still has the 2005 Remodel and the Road Stage.
 ##Stages##

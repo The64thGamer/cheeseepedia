@@ -1,7 +1,7 @@
 +++
 title = "Citrus Heights, CA (7614 Greenback Lane)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-04T01:15:23Z
 
 [Article]
@@ -9,11 +9,11 @@ contributors = ["Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","ChuckECoo
 gallery = ["Cabaret","CabaretHelen2.jpg|The"]
 +++
 {{Stub}}
-
+[[File:CitrusHeightsGreenbackExterior.jpg|thumb|The Exterior when the store was open]]
 **_7614 Greenback Lane**_ was the eighth _Pizza Time Theatre_ location that opened in January 1980.
 
 ##History##
-The store was the sixth location to open with .
+The store was the sixth location to open with [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}), with them either being on a Shelf or Cyberamics Portrait Stage (Portrait Stage).
 
 The store would open on January 1980 at the _Greenback Plaza._
 
@@ -35,7 +35,7 @@ It is unknown why Citrus Heights (Greenback) closed but one possible reason coul
 |N/A
 |Unknown.
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |N/A
 |Unknown.
 |-
@@ -51,11 +51,11 @@ It is unknown why Citrus Heights (Greenback) closed but one possible reason coul
 |N/A
 |Unknown.
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |N/A
 |Unknown.
 |-
-|
+|[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
 |N/A
 |Unknown.
 |-

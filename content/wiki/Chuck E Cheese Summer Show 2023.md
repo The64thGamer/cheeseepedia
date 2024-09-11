@@ -15,22 +15,22 @@ gallery = []
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 **_Chuck E. Cheese Summer Show 2023**_ is the generic summer show released on June 5, 2023 featuring a variety of songs released from 2016-2023.
 
-This show features 6 songs. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play  until they install the CEC Media Network system.
+This show features 6 songs. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play Chuck E. Cheese Evergreen Show 2023 (Chuck E. Cheese Evergreen 2023 Show) until they install the CEC Media Network system.
 
 ##Show List:##
 
 ###Advertising###
 #**Ad 1**
 ##Ecolab
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Samsung & Food and Drink Combos
+##[[File:New Graphic.png]] Samsung & Food and Drink Combos
 ##Dippin Dots
 #**Ad 2**
 ##CEC Online Store
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) YouTube & Food and Drink Combos
+##[[File:New Graphic.png]] YouTube & Food and Drink Combos
 ##Fundraising and Group Events
 #**Ad 3**
 ##CEC Online Store
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Race World & Food and Drink Combos
+##[[File:New Graphic.png]]Race World & Food and Drink Combos
 ##Ecolab
 #**Ad 4**
 ##Dippin Dots

@@ -1,14 +1,14 @@
 +++
 title = "B.B. Bubbles (Cabaret)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2022-09-22T09:01:15Z
 
 [Article]
 contributors = ["ChuckE1352","JamesLemony","The 64th Gamer","PizzaEntertainmentFanX","CECMentor"]
 gallery = ["79A49F7A-9D7E-4A05-83BE-4E809406AE14.jpg|The","BB"]
 +++
-
+[[File:BB Bubbles.jpg|thumb|Photo of the complete cosmetics, displayed on a stand and powered by a puppeteer ]]
 B. B. Bubbles is a pink elephant character that played as a cabaret act in the Pizza Time Theatre. Much like the other cabaret acts, Dolli Dimples and Artie Antlers, she played the piano/calliope  and sang. She was in stores from 1982 to early 1983, and was rather short lived and retired right before Pizza Time Theatre was bought out by Showbiz Pizza. 
 
 ## Appearance and Variants ##
@@ -21,7 +21,7 @@ The final version of the character features a silver/blue tulle dress with a mat
 
 ## Movements and performance ##
 B.B. Bubbles featured the same movements as the other cabaret characters, as she was a cosmetic retrofit of them. In 1982 stores could purchase an installation package that would change an existing character into B.B.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf</ref> Also available to purchase was a bubble machine to add to her set. One notable change is that Dolli’s breast movement would have to be modified into B.B’s trunk movement. Her head and eyes moved like the other standard cyberamics.
-
+[[File:BB Bubbles1.jpg|thumb|BB Bubbles in a store]]
 <gallery>
 File:79A49F7A-9D7E-4A05-83BE-4E809406AE14.jpg|The prototype BB Bubbles at the Pizza Time Theatre headquarters (credit: Kathy Hopp)
 File:BB 1985.jpg|BB Bubbles at Danvers MA in 1985 (credit: Shiny Happy Jen)

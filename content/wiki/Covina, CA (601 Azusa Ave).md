@@ -1,7 +1,7 @@
 +++
 title = "Covina, CA (601 Azusa Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-13T16:54:02Z
 
 [Article]

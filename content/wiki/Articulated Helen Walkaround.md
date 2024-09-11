@@ -8,7 +8,7 @@ date = 2022-08-09T20:24:25Z
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]
 gallery = ["HelenStrikeItUp.jpg|thumb|The","ArticulatedHelenSequin.jpg|thumb|The","ArticulatedHelenGal5k.jpg|thumb|The"]
 +++
-
+[[File:ArticulatedHenny.jpg|thumb|The articulated Helen head paired with the green cheer dress in the August 1996 show.]]
 The articulated Helen walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
 * August 1996

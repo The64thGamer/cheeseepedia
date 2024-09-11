@@ -1,7 +1,7 @@
 +++
 title = "Anchorage, AK (308 E Northern Lights Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-10-10T15:58:36Z
 
 [Article]

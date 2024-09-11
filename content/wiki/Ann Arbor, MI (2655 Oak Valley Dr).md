@@ -43,7 +43,7 @@ Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. 
 !Whereabouts
 !Notes
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 |Unknown
 |Destroyed
 |Replaced in June 2020
@@ -53,12 +53,12 @@ Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. 
 |Destroyed
 |Came from Muskegon, Michigan, which closed in June 2020.
 |-
-|
+|Parrot (Animatronic) (Bird (Studio C))
 |N/A
 |Destroyed
 |
 |-
-|
+|[Pizza Phone (Studio C)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
 |Destroyed
 |

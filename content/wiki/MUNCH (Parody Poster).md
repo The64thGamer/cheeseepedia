@@ -8,7 +8,7 @@ date = 2023-07-17T20:08:32Z
 contributors = ["Nostalgia Cow","ThatBoiCydalan"]
 gallery = []
 +++
-
+[[File:MUNCH parody poster.jpg|thumb|A picture taken of the poster.]]
 **MUNCH** was a poster created for Showbiz Pizza and Chuck E Cheese's in 1988.
 
 ## History ##

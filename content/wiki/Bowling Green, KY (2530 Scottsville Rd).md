@@ -1,7 +1,7 @@
 +++
 title = "Bowling Green, KY (2530 Scottsville Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-08-29T22:13:53Z
 
 [Article]
@@ -11,7 +11,7 @@ gallery = []
 **2530 Scottsville Rd** was a Chuck E. Cheese's Pizza Time Theatre located in Bowling Green, Kentucky. This location opened on April 17, 1984 and closed in 1986
 
 ## Stages ##
-This location opened with the [Balcony Stage]({{< ref "wiki/Balcony Stage.md" >}}), they never got another stage since the store closed in 1986. There are no public photos of the Bowling Green Pizza Time Theatre except for one single black and white photo of The King.
+This location opened with the Balcony Stage, they never got another stage since the store closed in 1986. There are no public photos of the Bowling Green Pizza Time Theatre except for one single black and white photo of The King.
 
 ## History ##
 The Bowling Green, Kentucky Pizza Time Theatre opened on April 17, 1984 on 2530 Scottsville Road in Bowling Green, at the Old Hickory Building. Not much is known about this location, as it was incredibly short-lived. the store closed in 1986, currently not known what month, but presumed to be in late April- early May.
@@ -45,7 +45,7 @@ On April 27, 2004, 20 years and 10 days after the PTT opened, a new Chuck E. Che
 |Unknown
 |Unknown/Destroyed
 |-
-|[The King]({{< ref "wiki/The King.md" >}})
+|The King
 |Unknown
 |Unknown/Destroyed
 |}

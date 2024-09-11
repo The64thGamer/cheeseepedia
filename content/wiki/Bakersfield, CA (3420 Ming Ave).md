@@ -1,23 +1,23 @@
 +++
 title = "Bakersfield, CA (3420 Ming Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-24T20:23:03Z
 
 [Article]
 contributors = ["CEC Kokomo"]
 gallery = []
 +++
-
-**_3420 Ming Ave**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in December 1981 (day unknown) and closed in 1984 (month and day unknown) with a .
+[[File:Bakersfield ptt.jpg|thumb|The site of the Bakersfield PTT today.]]
+**_3420 Ming Ave**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in December 1981 (day unknown) and closed in 1984 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 This is not to be confused with [Bakersfield, CA (3760 Ming Ave)]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}}), which opened on November 16, 1982 as a Showbiz Pizza and is still open today with 2.0.
 
 ## Stage ##
-Bakersfield opened with a . Not much is known about this stage, and was later auctioned after closure.
+Bakersfield opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Not much is known about this stage, and was later auctioned after closure.
 
 ## History ##
-Bakersfield opened in December 1981 (day unknown) with a . This predated the Bakersfield SPP by 11 months. Nothing is known about this location at all, however. The store would close in 1984 (month and day unknown) due to underperformance. As of today, the store is now part of a TJMaxx. 
+Bakersfield opened in December 1981 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). This predated the Bakersfield SPP by 11 months. Nothing is known about this location at all, however. The store would close in 1984 (month and day unknown) due to underperformance. As of today, the store is now part of a TJMaxx. 
 
 ## Animatronics ##
 {| class='wikitable'
@@ -34,7 +34,7 @@ Bakersfield opened in December 1981 (day unknown) with a . This predated the Bak
 |Unknown
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |Unknown
 |-
@@ -50,7 +50,7 @@ Bakersfield opened in December 1981 (day unknown) with a . This predated the Bak
 |Unknown
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |Unknown
 |-

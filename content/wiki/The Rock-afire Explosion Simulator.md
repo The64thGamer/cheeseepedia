@@ -12,7 +12,7 @@ gallery = []
 |title=Software Demo
 |external = https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo
 }}
-
+[[File:Raesim.jpg|thumb|376x376px|RAE Simulator Logo]]
 The **_Rock-afire Explosion Simulator**_ was a cancelled _Kickstarter_ project for a virtual Rock-afire Explosion band, which allowed users to program and play showtapes in one software. The Kickstarter would launch on October 28, 2020 by its programmer, Ryan Hayes, and would be cancelled on November 26, 2020.
 
 ## Campaign ##

@@ -26,47 +26,47 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 ## Show List: ##
 
 # **Intermission 1**
-## **** Ecolab
-## **** Winter Food and Drink combo
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Ecolab
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Winter Food and Drink combo
 ## YouTube and Music Streaming Spot
 ## Winter Winner-Land Host Spot 1 - (Chuck E. & Helen)
 ## Disney Channel Stars - “Put the Happy in the Holidays'
 # **Skit 1**
 ## Chuck E. & Friends - “The Holiday Party”
 # **Intermission 2**
-## **** Winter Winner-Land Deserts
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Winter Winner-Land Deserts
 ## Hi-Chew
-## **** CEC Online Store
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** CEC Online Store
 ## KIDZ BOP Kids - 'Let It Snow'
 # **Skit 2**
 ## Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
 # **Intermission 3**
-## **** Samsung
-## **** Lanky Box - 'Pizza Song'
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Samsung
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Lanky Box - 'Pizza Song'
 ## Daveed Diggs - 'Puppy for Hanukkah'
 ## Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
 # **Skit 3**
 ## Bella B. & Chuck E. - “Holiday Fiesta”
 # **Intermission 4**
-## ****  Ecolab
-## ****  Winter Food and Drink combo
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]**  Ecolab
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]**  Winter Food and Drink combo
 ## Dippin' Dots
-## **** KIDZ BOP Kids - 'Jingle Bells'
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** KIDZ BOP Kids - 'Jingle Bells'
 # **Skit 4**
 ## Chuck E. & Friends - 'Cookies for Santa'
 # **Intermission 5**
-## **** The Ronnettes - 'Sleigh Ride'
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** The Ronnettes - 'Sleigh Ride'
 ## Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
 ## KIDZ Bop Kids - 'Deck The Halls'
 # **Skit 5**
 ## Helen Henny - 'All I Want For Christmas Is Snow'
 # **Intermission 6**
-## **** CEC Winter App Download
-## **** Winter Food and Drink combo
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** CEC Winter App Download
+## **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** Winter Food and Drink combo
 ## Idina Menzel - “We Wish You the Merriest”
 # **Skit 6**
 ## Chuck E. & Helen - 'Merry Christmastime'
-# **** **Intermission 7**
+# **[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]** **Intermission 7**
 ## Group Events and Fundraisers
 ## Happy Holidays from Hi-Chew
 ## Lanky Box - 'Donut Song'

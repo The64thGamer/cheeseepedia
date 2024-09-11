@@ -8,7 +8,7 @@ date = 2022-01-11T02:07:33Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-
+[[File:SPFPASTEL1.jpg|thumb|386x386px|The main stage.]]
 The **_Pastel Stage**_ is a custom stage for the _Rock-afire Explosion_ seen at an unknown _Showbiz Pizza Fiesta_ location.
 
 ## Design ##
@@ -26,7 +26,7 @@ Rolfe's stage isn't visible in any of the photos, leaving the design and his pot
 The Mitzi seen wears a black sweater instead of the usual white, with no dickie attached. Her pom-poms have blue for the right hand, and white for the left hand. Her skirt is a blue version of her standard skirt, with the same white accents. Its unclear if her pigtail bows are a different color, as most costumes of Mitzi do change them out to a matching color.
 
 ### Billy Bob ###
-The only change to Billy Bob is that of his guitar, which has been replaced with .
+The only change to Billy Bob is that of his guitar, which has been replaced with The King / King Kat (Cabaret) (The King's).
 
 ## Gallery ##
 <gallery>

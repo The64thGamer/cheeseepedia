@@ -1,14 +1,14 @@
 +++
 title = "Mr. Munch Olympics Glass (1980)"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2023-01-04T21:32:19Z
 
 [Article]
 contributors = ["Jonn"]
 gallery = ["MUNCH"]
 +++
-
+[[File:MUNCH OLYMPIC FRONT.png|thumb|Mr Munch Olympics Glass *front*]]
 <gallery>
 File:MUNCH OLYMPIC BACK.png|Mr Munch Olympics Glass *Back*
 </gallery>**Mr. Munch Olympics Glass** was a product sold at Pizza Time Theatre's during the **Summer Olympics of 1980.**

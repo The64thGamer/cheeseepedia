@@ -17,13 +17,13 @@ The Brochure contains info about assets & items Franchisees would get for their 
 ## Contents<ref name=':0' /> ##
 
 ### Front Cover ###
-The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) with a Cigar & Microphone, [Pasqually]({{< ref "wiki/Pasqually.md" >}}), [Jasper T. Jowls]({{< ref "wiki/Jasper T Jowls.md" >}}) playing his Banjo, [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}) eating a pizza, & [The Mopsey Sisters]({{< ref "wiki/The Mopsey Sisters.md" >}}).
+The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) with a Cigar & Microphone, [Pasqually]({{< ref "wiki/Pasqually.md" >}}), [Jasper T. Jowls]({{< ref "wiki/Jasper T Jowls.md" >}}) playing his Banjo, [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}) eating a pizza, & The Mopsey Sisters.
 
 ### Inside Pages ###
 The Inside Pages contain several images with captions. Here's a list of them:
 
 * [Kooser Chuck Walkaround]({{< ref "wiki/Kooser Chuck Walkaround.md" >}}) with text saying 'You got a genuine Chuck E. Cheese<sup>c</sup> costume for promotions, entertainment, & all special occasions.'
-* [Winchester Chuck E. Cheese V2 (Animatronic)]({{< ref "wiki/Winchester Chuck E Cheese V2 (Animatronic).md" >}}), [Kooser Mr. Munch (Animatronic)]({{< ref "wiki/Kooser Mr Munch (Animatronic).md" >}}), [Winchester Jasper T. Jowls (Animatronic)]({{< ref "wiki/Winchester Jasper T Jowls (Animatronic).md" >}}), [Kooser Mopsey Sisters (Animatronic)]({{< ref "wiki/Kooser Mopsey Sisters (Animatronic).md" >}}), [Winchester Foxy Colleen (Animatronic)]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}), & [Winchester Pasqually (Animatronic)]({{< ref "wiki/Winchester Pasqually (Animatronic).md" >}}) with text saying 'The entire star-studded Cyberamic<sup>c</sup> cast of Pizza Time Theatre, The Pizza Time Players, are ready to appear year 'round  at your franchise.'
+* [Winchester Chuck E. Cheese V2 (Animatronic)]({{< ref "wiki/Winchester Chuck E Cheese V2 (Animatronic).md" >}}), [Kooser Mr. Munch (Animatronic)]({{< ref "wiki/Kooser Mr Munch (Animatronic).md" >}}), [Winchester Jasper T. Jowls (Animatronic)]({{< ref "wiki/Winchester Jasper T Jowls (Animatronic).md" >}}), Kooser Mopsey Sisters (Animatronic), [Winchester Foxy Colleen (Animatronic)]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}), & [Winchester Pasqually (Animatronic)]({{< ref "wiki/Winchester Pasqually (Animatronic).md" >}}) with text saying 'The entire star-studded Cyberamic<sup>c</sup> cast of Pizza Time Theatre, The Pizza Time Players, are ready to appear year 'round  at your franchise.'
 * The 1977-1981 Long sized PTT Logo
 * Blueprints
 * Brochures & a tape

@@ -8,12 +8,12 @@ date = 2023-01-30T18:33:09Z
 contributors = ["ChuckEPediaIsTheBest!","ThatBoiCydalan","CorrectorMan","CEC Tinley","Tux Chuck"]
 gallery = []
 +++
-**4703 West Loop 250** was a Chuck E. Cheese's that opened on October 2, 2000 with a [Studio C Beta Prototype]({{< ref "wiki/Studio C Beta Prototype.md" >}}){< ref "wiki/Studio C Beta Prototype.md" >}}){< ref "wiki/Studio C Beta Prototype.md" >}}), which is still open to this day.
+**4703 West Loop 250** was a Chuck E. Cheese's that opened on October 2, 2000 with a [Studio C Beta Prototype]({{< ref "wiki/Studio C Beta Prototype.md" >}}), which is still open to this day.
 
 Midland would be the 4th of 5 Studio C Prototypes to be installed, and was the last from March 2022 when the Athens, Georgia location removed their Beta Prototype for their 2.0 Remodel, until October 18, 2022, when Midland would remove their Studio C Beta Prototype, also for their 2.0 Remodel.
 
 ## History ##
-Midland opened on October 2, 2000 with a [Studio C Beta Prototype]({{< ref "wiki/Studio C Beta Prototype.md" >}}){< ref "wiki/Studio C Beta Prototype.md" >}}), in which Midland was the 4th installed, and the last Beta Prototype installed in the year 2000. Midland did not feature a side TV like Clarksville, Tennessee and Tyler, Texas, or a Pizza Time Clock. 
+Midland opened on October 2, 2000 with a [Studio C Beta Prototype]({{< ref "wiki/Studio C Beta Prototype.md" >}}), in which Midland was the 4th installed, and the last Beta Prototype installed in the year 2000. Midland did not feature a side TV like Clarksville, Tennessee and Tyler, Texas, or a Pizza Time Clock. 
 
 Before their 2.0 Remodel, Midland featured a one of a kind 2005 Avenger Chuck exterior sign that featured a yellow shirt (with a yellow C), green elbow pads, and a red hat, unlike most others, which have a purple shirt and purple and green hat (Paramus, New Jersey also has a unique 2005 Avenger exterior sign, although their's has a red shirt and red and green hat).
 

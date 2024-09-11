@@ -70,7 +70,7 @@ Pasadena received Concept Unification in 1991 which involved the removal of the 
 |
 |}
 ##Gallery##
-
+[[File:Pasadena, TX's exterior after they closed (PC- Google Maps - taken November 2007).png|thumb|This is Pasadena's exterior after they relocated.]]
 
 ##Animatronics##
 {| class='wikitable'

@@ -1,14 +1,14 @@
 +++
 title = "Brampton, Ontario, Canada (50 Kennedy Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-20T15:31:51Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_50 Kennedy Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a  and closed in May 1991 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+**_50 Kennedy Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in May 1991 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 ##History##
 TODO
@@ -59,7 +59,7 @@ TODO
 |Unknown
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |Unknown
 |-

@@ -8,5 +8,5 @@ date = 2023-01-03T21:41:50Z
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-
+[[File:Chuckepedialogo.png|thumb]]
 I LOVE Chuck-E-Pedia it is very informational and very well made.

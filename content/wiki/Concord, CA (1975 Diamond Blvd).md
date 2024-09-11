@@ -1,7 +1,7 @@
 +++
 title = "Concord, CA (1975 Diamond Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-12-17T16:44:52Z
 
 [Article]
@@ -20,7 +20,7 @@ The store was two stories tall, and is notable for having little to no informati
 !Animatronic
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})

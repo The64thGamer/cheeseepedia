@@ -8,4 +8,4 @@ date = 2023-04-13T20:46:05Z
 contributors = ["Rexburg090","2600:4040:5A0E:D900:718E:404C:58AA:C6D7","2600:4040:5A0E:D900:84F9:45E0:83F7:5E32","Captain Cheese IV","ThatBoiCydalan"]
 gallery = []
 +++
-**_755 W. Craig Rd Suite 144, Store #208**_ is a future Chuck E. Cheese located in North Las Vegas, Nevada. This location will be located in part of a former Big Lots that has been subdivided (It will take over the right hand side of the space). This will also be the first Chuck E. Cheese to open in Nevada since the opening of the  location which opened on December 6th, 2010 with a .
+**_755 W. Craig Rd Suite 144, Store #208**_ is a future Chuck E. Cheese located in North Las Vegas, Nevada. This location will be located in part of a former Big Lots that has been subdivided (It will take over the right hand side of the space). This will also be the first Chuck E. Cheese to open in Nevada since the opening of the Las Vegas, NV (350 N Nellis Blvd Suite 100) (Nellis) location which opened on December 6th, 2010 with a Studio C 2000 (Studio C 2000, 16m).

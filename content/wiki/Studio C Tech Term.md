@@ -8,7 +8,7 @@ date = 2022-02-16T02:26:34Z
 contributors = ["The 64th Gamer","GallaRBX","Himitsu"]
 gallery = []
 +++
-
+[[File:Tech term.png|thumb|437x437px|Studio C Tech Term]]
 The **_Studio C Technician Terminal,**_ or 'Studio C Tech Term', is a handheld device used for configuring and testing the [Studio C]({{< ref "wiki/Studio C.md" >}}) programmable movements and lights.
 
 The device can check and switch which programming banks, called DTU's (Digital Terminal Units), allow manual diagnostics for single movements on the show, and 'blind' movements, which will prevent them from receiving data to turn on. This allows movements that break during a performance to not cause further damage until maintenance can occur at a later time.<ref>https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf</ref>

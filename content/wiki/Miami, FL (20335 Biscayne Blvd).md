@@ -13,7 +13,7 @@ gallery = []
 This store opened on the same day as [Lowell, MA (199 Plain St)]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}).
 
 ## History ##
-Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a  in October (Except 's former 2-Stage &  uses a 2-Stage from a closed PTT.) were all 1-Stages. The store would open with the Tuxedo & Derby outfit like every other MMBB stage had at the time. In 2006-2007, Miami (Biscayne) received the 2005 Update of the  which involving building the video wall on the left side wall to the 2-Stage then removing it afterwards. The store would have their Grand Reopening on June 16th, 2022<ref>https://www.sun-sentinel.com/events/#!/details/Chuck-E-Cheese-North-Miami-Reopening/10443769/2022-06-16T17</ref>; The store also participated in the South Florida market-wide Round Up fundraiser for Little Smiles where guests are empowered to round up their purchase to the nearest dollar and donate the difference for the month of June. As of May 2023, Miami (Biscayne) still has the 2021 Model Dance Floor and Video Wall.
+Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This was the 2nd to last new store to open with a 2-Stage as the others after the opening of [Pasadena]({{< ref "wiki/Pasadena, CA (3737 E Foothill Blvd).md" >}}) in October (Except Santiago (Mall Plaza Vespucio), Chile which uses a 2-Stage from a closed PTT, [Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)]({{< ref "wiki/Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9).md" >}}) which used a reused show as well, [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) which uses [Merced]({{< ref "wiki/Merced, CA (721 W Olive Ave).md" >}})'s former 2-Stage & [Virginia Beach, VA]({{< ref "wiki/Virginia Beach, VA (2699 Lishelle Place).md" >}}) uses a 2-Stage from a closed PTT.) were all 1-Stages. The store would open with the Tuxedo & Derby outfit like every other MMBB stage had at the time. In 2006-2007, Miami (Biscayne) received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Balcony Seating, replacing art work, and repainting some of the walls purple. In 2013-2014, Miami (Biscayne) would receive the 2013 Update which involved remodeling the front counter, replacing the dim lighting with bright florescent lighting, and expanding the store, adding more room for games. The store would remain this way until April 2022 when the store would remodel to the 2017 2.0 Remodel Program (2017 2.0 Remodel) which involving building the video wall on the left side wall to the 2-Stage then removing it afterwards. The store would have their Grand Reopening on June 16th, 2022<ref>https://www.sun-sentinel.com/events/#!/details/Chuck-E-Cheese-North-Miami-Reopening/10443769/2022-06-16T17</ref>; The store also participated in the South Florida market-wide Round Up fundraiser for Little Smiles where guests are empowered to round up their purchase to the nearest dollar and donate the difference for the month of June. As of May 2023, Miami (Biscayne) still has the 2021 Model Dance Floor and Video Wall.
 
 ## Stages ##
 {| class='wikitable'
@@ -27,7 +27,7 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a  in Octo
 |April 2022
 |One of  installed in Florida. Fiber Optic Sign and Wink are owned by a Private Collector. Last Public 2-Stage in Florida.
 |-
-| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |April 2022
 |Still In Use
 |2021 Model.
@@ -40,12 +40,12 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a  in Octo
 !Serial Number
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |1992-1993
 |Unknown
 |Destroyed
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1992-1993
 |Unknown
 |Destroyed
@@ -82,7 +82,7 @@ TODO
 !Published Date
 |-
 |[https://youtu.be/Hp1jpf_Vhq4 Link]
-|'Deck the Halls' from [December 2012 Show]({{< ref "wiki/December 2012 Show.md" >}}){< ref "wiki/December 2012 Show.md" >}}) being performed on Miami (Biscayne)'s 2-Stage.
+|'Deck the Halls' from [December 2012 Show]({{< ref "wiki/December 2012 Show.md" >}}) being performed on Miami (Biscayne)'s 2-Stage.
 |December 30, 2013
 |December 30, 2013
 |-

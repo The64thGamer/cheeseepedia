@@ -1,7 +1,7 @@
 +++
 title = "Cincinnati, OH (11400 Princeton Pike)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-04-06T22:33:12Z
 
 [Article]

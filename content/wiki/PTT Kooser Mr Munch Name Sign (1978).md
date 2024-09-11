@@ -8,7 +8,7 @@ date = 2023-08-07T10:27:55Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The Mr. Munch Nameplate was used at the second  in San Jose, California; placed under the newly introduced  where it was used to identify the animatronic.
+The Mr. Munch Nameplate was used at the second [Chuck E. Cheese's Pizza Time Theatre located on 1371 Kooser Road]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) in San Jose, California; placed under the newly introduced Kooser Mr. Munch (Animatronic) (Mr. Munch animatronic) where it was used to identify the animatronic.
 
 ## Production ##
 Although we do not have much specific information on when the name tag was produced, we can theorize it was produced between October 1978 to November 1978 alongside the other name tags in a short timespan due to the simplicity of their design.

@@ -9,7 +9,7 @@ contributors = ["2600:1012:B13A:9D21:BDB0:5F21:77B7:C54B","Chuckstar69","Showbiz
 gallery = []
 +++
 |||||41 W Rand Road, Store #55||3||| is a Chuck E. Cheese that opened on December
-7th, 2015, with a 
+7th, 2015, with a Chuck E. Live Stage ((Dance Floor)  (Dance Floor)
 
 
 ##History##

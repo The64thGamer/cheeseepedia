@@ -13,7 +13,7 @@ gallery = []
 ## History ##
 
 ### Origins & Showbiz Pizza Place ###
-Choo Choo was a direct copy of the character 'Choo Choo' from the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). He would move up and down to the songs, and sat in a log next to [Dook Larue]({{< ref "wiki/Dook Larue.md" >}}). He was only acknowledged once by the band in the [Trivia Night]({{< ref "wiki/Trivia Night.md" >}}) showtape. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}), several Choo Choos would be retrofitted into [Munch Jr.]({{< ref "wiki/Munch Jr.md" >}})
+Choo Choo was a direct copy of the character 'Choo Choo' from the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). He would move up and down to the songs, and sat in a log next to [Dook Larue]({{< ref "wiki/Dook Larue.md" >}}). He was only acknowledged once by the band in the Trivia Night showtape. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), several Choo Choos would be retrofitted into Munch Jr.
 
 ### Present Day ###
 Original parts for Choo Choo would start to be reproduced by Creative Engineering's new employees in 2023.

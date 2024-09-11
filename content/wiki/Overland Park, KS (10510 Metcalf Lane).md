@@ -8,7 +8,7 @@ date = 2023-01-22T19:34:18Z
 contributors = ["RedaCEC","ChuckECool","173.216.33.6","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","64.125.60.2","ShowbizMidwest","ThatBoiCydalan","47.17.236.200","SuperCreamPiper2008"]
 gallery = []
 +++
-
+[[File:Overland Park.png|thumb| () (PC: ??)]]
 **_10510 Metcalf Lane**_ was a _Showbiz Pizza Place_ restaurant located in Overland Park, Kansas.
 
 ## History ##
@@ -19,7 +19,7 @@ Then store would receive the 1993 remodel sometime by the 1990s, complete with: 
 
 In the Early 2000s, Tulsa would remodel once again, this time removing the 3-Stage for a Studio C Beta.
 
-In 2000s, Tulsa would receive the ; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
+In 2000s, Tulsa would receive the CEC 2005 Remodel (2005 Remodel); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
 
 In 2017, Tulsa started their 2.0 Remodel. The stage was removed on 2017.
 
@@ -31,12 +31,12 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 !Removed
 !Notes
 |-
-|
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |September 1980
 |1991-1992
 |Original bots replaced in 1981.
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |2000
 |
@@ -46,7 +46,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |November 2022
 |Last Animatronic show in Tulsa
 |-
-| 
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) 
 |2020
 |Still in Use
 |2019 Model

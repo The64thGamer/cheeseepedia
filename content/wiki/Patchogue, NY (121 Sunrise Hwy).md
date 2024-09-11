@@ -8,7 +8,7 @@ date = 2022-07-15T00:07:32Z
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
 gallery = ["Patchogue-NY-3-Exterior-1.jpg|2009<ref>https://www.zomato.com/long-island/chuck-e-cheeses-patchogue</ref>","Patchogue-NY-3-Exterior-2.jpg.jpg|2012<ref>https://patch.com/img/cdn/users/5713/2012/02/raw/b4fb155b531ba987c811f7e89827241a.jpg</ref>","PatchogueNY-1-StudioC-3.jpg|2022","PatchogueNY-1-StudioC-2.jpg|2022","PatchogueNY-1-StudioC-1.jpg|2022","Patchogue-NY-2.JPG|2022"]
 +++
-
+[[File:Patchogue-NY-4-ExteriorShot.jpg|thumb|381x381px|The Patchogue, NY location in 2018.<ref>Google Maps user-uploaded content</ref>]]
 **_Patchogue, NY (121 Sunrise Highway)**_ is a _Chuck E. Cheese's_ located in Patchogue, NY. The location opened on March 29, 1993.
 ##Stages##
 This location opened with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show. In the early 2000's, the showroom was relocated from the back right-hand corner of the restaurant to the left-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}).
@@ -45,7 +45,7 @@ File:Patchogue-NY-2.JPG|2022
 !Serial
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |
 |
 |-

@@ -1,7 +1,7 @@
 +++
 title = "Brooklyn, NY (8949 Bay Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-07-10T21:23:57Z
 
 [Article]
@@ -28,7 +28,7 @@ Brooklyn opened with a Balcony Stage, which remained up until the store's closur
 |}
 
 ## History ##
-Brooklyn's PTT opened in February 1984 (day unknown) in the Ceasar's Bay Shopping Center, and had a Balcony Stage. Sadly, not much info is known about this location, and few photos exist, but likely no videos. The location closed on April 26, 1987 for unknown reasons, but may be parking problems or leasing issues. As of July 2023, the location is now Bob's Discount Furniture and Mattress Store, just like the  store.
+Brooklyn's PTT opened in February 1984 (day unknown) in the Ceasar's Bay Shopping Center, and had a Balcony Stage. Sadly, not much info is known about this location, and few photos exist, but likely no videos. The location closed on April 26, 1987 for unknown reasons, but may be parking problems or leasing issues. As of July 2023, the location is now Bob's Discount Furniture and Mattress Store, just like the [New London, CT]({{< ref "wiki/New London, CT (389 N Frontage Rd).md" >}}) store.
 
 ## Animatronics ##
 TODO

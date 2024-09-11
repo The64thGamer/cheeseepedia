@@ -10,7 +10,7 @@ gallery = []
 +++
 **_10949 Firestone Blvd i**_s a Chuck E. Cheese that opened in October 29, 1991 as a corporate location with a Road Stage which is still open to this day.
 
-It is located in the Firestone Shopping Center and opened on the same day as [Newington, CT (3075 Berlin Turnpike)]({{< ref "wiki/Newington, CT (3075 Berlin Turnpike).md" >}}). 
+It is located in the Firestone Shopping Center and opened on the same day as Newington, CT (3075 Berlin Turnpike). 
 
 It is known for not allowing guests to film.
 ##History##

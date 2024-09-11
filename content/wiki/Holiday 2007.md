@@ -28,16 +28,16 @@ gallery = []
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
 # **Intermission 2**
-## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Coke Spot
+## [[File:New Graphic.png]] Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
-## [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Maya & Miguel
+## [[File:New Graphic.png]] Maya & Miguel
 ##Holiday VJ Spot - Laura
 # **Segment 2**
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
 # **Intermission 3**
 ## Eddie Coker - 'Happy Holidays'
-##  [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Clifford The Big Red Dog
+##  [[File:New Graphic.png]] Clifford The Big Red Dog
 ## Chuck E.'s Ski Trip
 ##Holiday VJ Spot - Evan
 # [[File:New Graphic.png]] **Segment 3**
@@ -67,7 +67,7 @@ gallery = []
 *Chuck E. Shuffle
 
 ## Trivia: ##
-*'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from .
+*'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from Chuck E's Holiday Party 1999  ( Holiday Party).
 **'Chuck E.'s Ski Trip' has been updated with new music.
 *Since the segments are all reused, this show features curtain open and close signals on all stages.
 *Unlike previous rereleases of Holiday 2002, this show does not include 'Boar's Head Carol'.

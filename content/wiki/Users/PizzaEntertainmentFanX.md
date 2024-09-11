@@ -21,18 +21,18 @@ gallery = []
 * [Kooser Mr. Munch (Animatronic)]({{< ref "wiki/Kooser Mr Munch (Animatronic).md" >}})
 * [Kooser Helen Henny (Animatronic)]({{< ref "wiki/Kooser Helen Henny (Animatronic).md" >}})
 * [Kooser Dolli Dimples (Animatronic)]({{< ref "wiki/Kooser Dolli Dimples (Animatronic).md" >}})
-* [Kooser Applause Board (Animatronic)]({{< ref "wiki/Kooser Applause Board (Animatronic).md" >}})
-* [Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+* Kooser Applause Board (Animatronic)
+* Chuck E Cheese (Cyberamic)
 * [The King / King Kat (Lounge)]({{< ref "wiki/The King  King Kat (Lounge).md" >}})
 * [Dr. Quack (Cyberamic)]({{< ref "wiki/Dr Quack (Cyberamic).md" >}})
-* [Ox Character (Cyberamic)]({{< ref "wiki/Ox Character (Cyberamic).md" >}})
+* Ox Character (Cyberamic)
 * [Beach Bear (Animatronic)]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 * [Fatz Geronimo (Animatronic)]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 * [Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 * [Friendly Freddy (Animatronic)]({{< ref "wiki/Friendly Freddy (Animatronic).md" >}})
-* [Santa Claus (Jingle Bell Jamboree Animatronic)]({{< ref "wiki/Santa Claus (Jingle Bell Jamboree Animatronic).md" >}})
-* [Billy Wilbur (Animatronic)]({{< ref "wiki/Billy Wilbur (Animatronic).md" >}})
-* [Evil Tree (Animatronic)]({{< ref "wiki/Evil Tree (Animatronic).md" >}})
+* Santa Claus (Jingle Bell Jamboree Animatronic)
+* Billy Wilbur (Animatronic)
+* Evil Tree (Animatronic)
 
 ## Favorite Locations ##
 
@@ -42,7 +42,7 @@ gallery = []
 * [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) (The Location of them all)
 * [Northridge, CA (8425 Reseda Blvd)]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) (First retro Store)
 * [Union, NJ (1660 US-22)]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}) (The Last Pizza Time Theater to open)
-* [Kansas City (Antioch), MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City (Antioch), MO (2726 NE Vivion Rd).md" >}}) (Happy 43rd Birthday to Showbiz)
+* Kansas City (Antioch), MO (2726 NE Vivion Rd) (Happy 43rd Birthday to Showbiz)
 * [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) (#savepineville) (Happy 41st)
 * [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) (Awesome Adventure Machine) (Happy 40th birthday to Dallas TX SPP)
 * [Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) (Happy 40th Birthday November 23rd 1983-2023)
@@ -50,7 +50,7 @@ gallery = []
 
 ## Things that are animatronicly cool ##
 
-* 
+* Main Page#Pizza Time Theatre-0 (Pizza Time Theater)
 * Major Magic's
 * Pasqually
 * [Daniel and the Dixie Diggers]({{< ref "wiki/Daniel and the Dixie Diggers.md" >}}) (Glad there here on C E. P)

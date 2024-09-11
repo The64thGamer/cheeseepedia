@@ -13,3 +13,4 @@ Pianocorder Data from Audio gets read at a speed of 4500bits per second which is
 
 After all this Data is read it will then output it to Mosfets and such to control anything requiring a voltage (originally solenoids).
 
+[[File:Pianocorder Biphase.png|thumb|Pianocorder Biphase]]

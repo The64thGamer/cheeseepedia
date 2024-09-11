@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 gallery = []
 +++
 **_Chuck E. Cheese's Pizza Factory**_ is an _[https://en.wikipedia.org/wiki/Easy-Bake_Oven Easy-Bake Oven]_ styled pizza maker released in 1999.
-s-l1600 (43).jpg
+s-l1600 (43).jpg[[File:fghytresdfgg.jpg|400px]]
 ## Gallery ##
 <gallery>
 rnytnytyn.jpg

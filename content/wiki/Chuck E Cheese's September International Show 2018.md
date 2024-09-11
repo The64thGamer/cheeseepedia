@@ -14,7 +14,7 @@ This was created to play during Fall from September to November 2018. Featuring 
 
 This show includes a mix of Skits from 2014 - 2018 and new 'Show Breaks!'. This show also includes 'Pizza Survivor' as an intermission (originally released in September 2002)
 ##Show List:##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Skit 1**
+#**[[File:New Graphic.png]]** **Skit 1**
 ##Chuck E. Cheese - 'Lend A Helping Hand'
 #**Intermission 1**
 ##Jokes from Pasqually - Anchor
@@ -26,12 +26,12 @@ This show includes a mix of Skits from 2014 - 2018 and new 'Show Breaks!'. This 
 #**Intermission 2**
 ##Musings with Mr. Munch - Episode 4
 ##Battery Pop - Charlie Freaks Out - Broccoli
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Show Break #1 - National Parks Time Lapse
+##[[File:New Graphic.png]] Show Break #1 - National Parks Time Lapse
 # **Skit 3**
 ##Helen Henny - 'Gaming Time'
 #**Intermission 3**
 ##Kidz Bop Kids - 'Finesse'
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Fun Facts with Chuck E. Cheese - 'Play'
+##[[File:New Graphic.png]] Fun Facts with Chuck E. Cheese - 'Play'
 ##Kabillion - 'Chloe's Closet'
 #**Skit 4**
 ##Chuck E. Cheese & Munch's Make Believe Band - 'Together We've Got It'

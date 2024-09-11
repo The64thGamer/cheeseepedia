@@ -25,14 +25,14 @@ This plush was released in a set containing other characters and sizes:
 
 *[Small Chuck E. Plush (1996)]({{< ref "wiki/Small Chuck E Plush (1996).md" >}})
 *[Large Chuck E. Plush (1996)]({{< ref "wiki/Large Chuck E Plush (1996).md" >}})
-*[Jumbo Chuck E. Plush (1996)]({{< ref "wiki/Jumbo Chuck E Plush (1996).md" >}})
+*Jumbo Chuck E. Plush (1996)
 *[Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
 *[Large Helen Plush (1996)]({{< ref "wiki/Large Helen Plush (1996).md" >}})
-*[Jumbo Helen Plush (1996)]({{< ref "wiki/Jumbo Helen Plush (1996).md" >}})
+*Jumbo Helen Plush (1996)
 *[Large Munch Plush (1996)]({{< ref "wiki/Large Munch Plush (1996).md" >}})
 *[Jumbo Munch Plush (1996)]({{< ref "wiki/Jumbo Munch Plush (1996).md" >}})
 *[Large Jasper Plush (1996)]({{< ref "wiki/Large Jasper Plush (1996).md" >}})
-*[Jumbo Jasper Plush (1996)]({{< ref "wiki/Jumbo Jasper Plush (1996).md" >}})
+*Jumbo Jasper Plush (1996)
 *[Small Pasqually Plush (1996)]({{< ref "wiki/Small Pasqually Plush (1996).md" >}})
 *[Large Pasqually Plush (1996)]({{< ref "wiki/Large Pasqually Plush (1996).md" >}})
 ##Design##

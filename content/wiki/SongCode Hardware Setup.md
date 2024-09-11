@@ -11,12 +11,12 @@ gallery = []
 The **_PTT Kooser Control System**_ was the special setup used for controlling animatronics at the second ever _Pizza Time Theatre_ location, [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), before its switch to [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) in 1980.
 
 ## CEC Tester ##
-The **_CEC Tester**_ is a small blue device used for controlling animatronics.
+[[File:54ec494d0487b97c40d0e34e5cb7aaf0.png|thumb|326x326px|The CEC Tester]]The **_CEC Tester**_ is a small blue device used for controlling animatronics.
 
-It is unclear if the unit's name was actually CEC Tester, as its only image with a name comes from an early version of showbizpizza.com in the 2000's, in which it is stated as **CEC Tester- This is another type of tester used at CEC. I can't say precisely what it does, but it has manual controls on it.**.<ref></ref> Despite the website having a source able to provide its exclusive image, it is dubious at best if the description of its function is accurate to its true function.
+It is unclear if the unit's name was actually CEC Tester, as its only image with a name comes from an early version of showbizpizza.com in the 2000's, in which it is stated as **CEC Tester- This is another type of tester used at CEC. I can't say precisely what it does, but it has manual controls on it.**.<ref>[[:File:CEC Tester Showbiz Pizza.png|File:CEC Tester Showbiz Pizza.png]]</ref> Despite the website having a source able to provide its exclusive image, it is dubious at best if the description of its function is accurate to its true function.
 
 #### Kooser Footage ####
-In 2017 brand new footage of the Kooser Road location would surface<ref>https://youtu.be/EdKLsomLbtY</ref>, which would provide a glimpse of the device being used at its store. An employee is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, **What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',_ confirming the device is used to control the animatronics.
+[[File:Kooser CEC Tester Footage.png|thumb|The CEC Tester Being Used at the Kooser Location]]In 2017 brand new footage of the Kooser Road location would surface<ref>https://youtu.be/EdKLsomLbtY</ref>, which would provide a glimpse of the device being used at its store. An employee is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, **What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',_ confirming the device is used to control the animatronics.
 
 Between splices of other character footage, the employee can be seen demonstrating to the interviewer him using the unit, alongside pointing outside to either the main showroom or the _Dolli Dimples_ showroom to presumably show a character he is controlling. His main movements are of using the joysticks, suggesting they are the main practical use for controlling the characters.
 

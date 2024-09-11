@@ -8,10 +8,10 @@ date = 2023-08-09T00:22:30Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_Winchester Crusty Nameplate**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on  located in the Town & Country Shopping Center in San Jose, California; placed under the  for the purpose of identifying it.
+The **_Winchester Crusty Nameplate**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) located in the Town & Country Shopping Center in San Jose, California; placed under the [Winchester Crusty animatronic]({{< ref "wiki/Winchester Crusty the Cat V1 (Animatronic).md" >}}) for the purpose of identifying it.
 
 ## Production ##
-Although barely any info about the production of the Winchester nameplates have surfaced, we can speculate that it was produced shortly after opening, as no nameplates are present in some earlier photographs. Production was most likely carried out by the Fantasy Forest Manufacturing Company and was probably shipped with  along with the several other Winchester nameplates, those being Chuck E. Cheese, Jasper T. Jowls, Warblettes, and Helen Hennys nameplates respectively. If production was not carried out by Harold Guldbrandsen's Fantasy Forest Manufacturing Company, it was either produced at Atari or in-house by an employee.
+Although barely any info about the production of the Winchester nameplates have surfaced, we can speculate that it was produced shortly after opening, as no nameplates are present in some earlier photographs. Production was most likely carried out by the Fantasy Forest Manufacturing Company and was probably shipped with [Winchester Helen Henny]({{< ref "wiki/Winchester Helen Henny (Animatronic).md" >}}) along with the several other Winchester nameplates, those being Chuck E. Cheese, Jasper T. Jowls, Warblettes, and Helen Hennys nameplates respectively. If production was not carried out by Harold Guldbrandsen's Fantasy Forest Manufacturing Company, it was either produced at Atari or in-house by an employee.
 
 ## Usage ##
 The only appearance of Crusty The Cat and his respective nameplate was at the first Chuck E. Cheese's Pizza Time Theatre on 370 South Winchester Boulevard, placed under Crusty's nameplate from presumably August 1977 to 1980. Once it had completed its usage, it was probably shipped to Sunnyvale along with the other portrait animatronics or kept in a storage room. The former is most likely the case.

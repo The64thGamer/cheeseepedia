@@ -15,10 +15,10 @@ The system was developed by the the Cyan Engineering subdivision of Atari (also 
 ## Hardware ##
 
 ### PDP-11/70 ###
-The main programming computer would be the _PDP-11/70,_ running the [Winchester Programmer]({{< ref "wiki/Winchester Programmer.md" >}}) software for generating programming data. It is unclear if any terminal was used to program the characters, or to make the software itself. 
+The main programming computer would be the _PDP-11/70,_ running the Winchester Programmer software for generating programming data. It is unclear if any terminal was used to program the characters, or to make the software itself. 
 
 ### TEAC 4-Track Tape Deck ###
-An unnamed TEAC 4-Track tape deck would be used to record audio and programming signals. The [Winchester 4-Track Reel]({{< ref "wiki/Winchester 4-Track Reel.md" >}}) would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. 
+An unnamed TEAC 4-Track tape deck would be used to record audio and programming signals. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. 
 
 Due to the later [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}}) using a TEAC A-2340 Tape Deck, which seemingly recorded only in the _2-track stereo-mode,_ it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 

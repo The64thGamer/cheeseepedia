@@ -15,12 +15,12 @@ This location opened as a ShowBiz Pizza Place on July 18, 1983, and is still ope
 ## History ##
 
 ### ShowBiz ###
-Fresno on West Shaw opened as ShowBiz Pizza Place on July 18, 1983 with the RockAfire Explosion like every other Showbiz Pizza location. This was the 10th Showbiz Pizza store to open in California (2nd to open in the state after , , , , , , , , & ). It was then sold to corporate on October 27th, 1986 along with Oceanside, Bakersfield, Visalia and Escondido.
+Fresno on West Shaw opened as ShowBiz Pizza Place on July 18, 1983 with the RockAfire Explosion like every other Showbiz Pizza location. This was the 10th Showbiz Pizza store to open in California (2nd to open in the state after [Dublin]({{< ref "wiki/Dublin, CA (7590 Amador Valley Blvd).md" >}}), [Bakersfield]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}}), [Pasadena]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}), Montclair, CA (5060 E Montclair Plaza Lane) (Montclair), [Oceanside]({{< ref "wiki/Oceanside, CA (2481 Vista Way).md" >}}), Vallejo, CA (774 Admiral Callaghan Lane) (Vallejo), [Lakewood]({{< ref "wiki/Lakewood, CA (5151 Lakewood Blvd).md" >}}), [Torrance, Pacific Coast Hwy]({{< ref "wiki/Torrance, CA (2821 Pacific Coast Hwy).md" >}}), & [Visalia]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}})). It was then sold to corporate on October 27th, 1986 along with Oceanside, Bakersfield, Visalia and Escondido.
 
 Sadly, there's no documentation of Fresno on West Shaw when it was a Showbiz Pizza despite one exterior photo.
 
 ### Tux Chuck and Cool Chuck Eras ###
-Sometime in 1991-1992, Fresno on West Shaw underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band, complete with all of the characters including extras such as Building, Moon, Wink, Pizzacam, and Munch Jr. Chuck E. wore his signature black tuxedo and red derby hat. Fresno on West Shaw then remodeled to  in around 1994-1995. In 1998, Fresno on West Shaw underwent another remodel which involved the 3-Stage being removed and replaced with a Studio C Alpha.
+Sometime in 1991-1992, Fresno on West Shaw underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band, complete with all of the characters including extras such as Building, Moon, Wink, Pizzacam, and Munch Jr. Chuck E. wore his signature black tuxedo and red derby hat. Fresno on West Shaw then remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) in around 1994-1995. In 1998, Fresno on West Shaw underwent another remodel which involved the 3-Stage being removed and replaced with a Studio C Alpha.
 
 ### Avenger Era ###
 Sometime around 2006-2007, Fresno on West Shaw remodeled to the 2005 Remodel, removing the Showroom Walls, Balcony Seating, and a new exterior. It is unknown of Fresno on West Shaw ever had the Cool Chuck outfit.
@@ -38,17 +38,17 @@ Originally, Bakersfield featured a Rock-Afire Explosion, as all other Showbiz lo
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |July 1983
 |1991-1992
 |10th Showbiz Pizza store to open in California.
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |1999-2000
 |One of 9 Showbiz Pizza stores in California to undergo Concept Unification.
 |-
-|
+|Studio C (1997) (Studio C Alpha)
 |1999-2000
 |Still In Use
 |Located on the same wall as the former 3-Stage.
@@ -80,17 +80,17 @@ TODO
 |January 10, 2019
 |-
 |[https://www.youtube.com/watch?v=OUmcUk7Bkzk Link]
-|'Play All You Can Play' from  being performed on Fresno on West Shaw's Alpha
+|'Play All You Can Play' from Chuck E. Cheese's Show 3 2019 (Show 3 2019) being performed on Fresno on West Shaw's Alpha
 |March 2022
 |March 7, 2022
 |-
 |[https://www.youtube.com/watch?v=zGlHz3_lQ48 Link]
-|'Chuck E's Middle Name' from  being performed on Fresno on West Shaw's Alpha
+|'Chuck E's Middle Name' from Chuck E. Cheese's Show 2 2021 (Show 2 2021) being performed on Fresno on West Shaw's Alpha
 |March 2022
 |March 8, 2022
 |-
 |[https://www.youtube.com/watch?v=7UwegI67L70 Link]
-|'Crochet All Day' from  being performed on Fresno on West Shaw's Alpha.
+|'Crochet All Day' from Chuck E. Cheese's Show 2 2021 (Show 2 2021) being performed on Fresno on West Shaw's Alpha.
 |March 2022
 |March 18, 2022
 |-
@@ -100,7 +100,7 @@ TODO
 |June 25, 2022
 |-
 |[https://www.youtube.com/watch?v=HYDeKQA_7NM Link]
-|'Out of this World' from  being performed on Fresno on West Shaw's Alpha.
+|'Out of this World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Fresno on West Shaw's Alpha.
 |June 2022
 |June 26, 2022
 |}

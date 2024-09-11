@@ -20,7 +20,7 @@ On July 5, 2005, Super Chuck displays and plushies began to get shipped to Chuck
 Super Chuck would be available for guest purchase until the location sold out due to only selling 15,000 out of 48,000 plushies though register.<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-08.pdf</ref>
 
 ##Design##
-Originally, the plush didn't resemble the official art created for Super Chuck. The prototype created in October 2004 went for a Superman inspired appearance, wearing a blue and yellow jumpsuit with a red cape and black eye mask, also having a slide of cheese with a 'C' as an emblem as well.<ref>[:File:Supercec2.jpg]({{< ref "wiki/FileSupercec2jpg.md" >}})</ref>  
+Originally, the plush didn't resemble the official art created for Super Chuck. The prototype created in October 2004 went for a Superman inspired appearance, wearing a blue and yellow jumpsuit with a red cape and black eye mask, also having a slide of cheese with a 'C' as an emblem as well.<ref>[[:File:Supercec2.jpg]]</ref>  
 
 The finalized Super Chuck was based off of the art created for the various advertisements created during 2005. Chuck E. would wear the standard 'avenger' outfit however would wear a yellow belt that gave him the appearance of having a bigger chest. Chuck would also retain the red cape from the prototype and would have black or purple variants of the eye mask released.  
 

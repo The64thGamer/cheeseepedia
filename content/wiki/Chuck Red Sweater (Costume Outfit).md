@@ -8,7 +8,7 @@ date = 2022-10-16T22:59:46Z
 contributors = ["BurgersNuggs445"]
 gallery = ["Sports","ArticulatedTux.jpg|Chuck","CECNewsArticulated.png|Chuck","ArticulatedCoach.jpg|The","ArticulatedGal5k.jpg|The"]
 +++
-
+[[File:ArticulatedChuck .jpg|thumb|The standard AAM walkaround as shown in in the August 1997 show.]]
 The articulated Chuck E. walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irving.
 
 ## Media ##

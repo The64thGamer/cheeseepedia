@@ -1,7 +1,7 @@
 +++
 title = "Cyberamic Clippard Valve Maintenance"
 draft = false
-tags = []
+tags = ["Animatronic Repair & Preservation"]
 date = 2023-02-03T20:35:23Z
 
 [Article]

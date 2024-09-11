@@ -8,7 +8,7 @@ date = 2022-08-09T23:28:50Z
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedPasquallycloseup.jpg|thumb|Close-up","ArticulatedPasquallyDress.jpg|thumb|The"]
 +++
-
+[[File:ArticulatedPasqually.jpg|thumb|The articulated Pasqually head paired with his standard outfit holding a pizza in the August 1997 show.]]
 The articulated Pasqually walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
 * August 1996

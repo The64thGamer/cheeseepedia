@@ -1,7 +1,7 @@
 +++
 title = "Tucson, AZ (8616 E Broadway Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-01T23:48:02Z
 
 [Article]

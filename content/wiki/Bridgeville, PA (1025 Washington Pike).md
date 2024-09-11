@@ -1,7 +1,7 @@
 +++
 title = "Bridgeville, PA (1025 Washington Pike)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-09T18:21:56Z
 
 [Article]

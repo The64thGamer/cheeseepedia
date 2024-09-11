@@ -9,7 +9,7 @@ contributors = ["Poochy867","Rexburg090","Cy's Junk at School","CECMentor","That
 gallery = ["Nanuet-Exterior.jpg|Nanuet","Nanuet"]
 +++
 Nanuet, NY (250 West Route 59) is a Chuck E. Cheese's located in Nanuet, NY
-
+[[File:Nanuet-Exterior.jpg|thumb|Exterior of the store 3/5/23]]
 this store opened as a corporate owned store on December 20th 2003 with a
 
 Studio C Beta 16m.
@@ -18,7 +18,7 @@ Studio C Beta 16m.
 TODO
 
 ## Stages ##
-This store opened housing a [Studio C 2000]({{< ref "wiki/Studio C 2000.md" >}}) (Beta) with a 16 movement Garner Holt Productions Chuck E. Cheese Animatronic wearing the 'Cool Chuck' outfit this outfit would be partially replaced with the 'Avenger Chuck' shirt sometime in the late 2000's - Early 2010's (the hat also being replaced sometime in the early 2010's as well), the curtains became disabled in fall of 2011 and the TV's also got replaced with 3 LG TV's of the same size that they still have to this day. the 'Cool' shorts and rest of the 'Avenger' outfit would be replaced sometime around 2015-16, because of the exterior sign change. the bluescreen and camera were removed sometime in 2013 (replaced with a Ticket Blaster mural) along with the dim lighting, the 'STUDIO C' sign was moved to above the TV's following the removal of the Bluescreen + Camera.
+This store opened housing a Studio C 2000 (Beta) with a 16 movement Garner Holt Productions Chuck E. Cheese Animatronic wearing the 'Cool Chuck' outfit this outfit would be partially replaced with the 'Avenger Chuck' shirt sometime in the late 2000's - Early 2010's (the hat also being replaced sometime in the early 2010's as well), the curtains became disabled in fall of 2011 and the TV's also got replaced with 3 LG TV's of the same size that they still have to this day. the 'Cool' shorts and rest of the 'Avenger' outfit would be replaced sometime around 2015-16, because of the exterior sign change. the bluescreen and camera were removed sometime in 2013 (replaced with a Ticket Blaster mural) along with the dim lighting, the 'STUDIO C' sign was moved to above the TV's following the removal of the Bluescreen + Camera.
 
 ## Gallery ##
 <gallery>

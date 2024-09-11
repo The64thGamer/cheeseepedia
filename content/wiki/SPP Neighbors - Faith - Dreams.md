@@ -19,14 +19,14 @@ Note: It not comfirm to when this show was released but it was sometime between 
 ##Birthday Spectacular
 ##[https://en.wikipedia.org/wiki/Get_on_Your_Feet Get On Your Feet]
 ##Cyberstar Intro
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 1**
+#**[[File:New Graphic.png]]Segment 1**
 ##Neighbors 1
 #**Intermission 2**
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})Segment 2**
+#**[[File:New Graphic.png]]Segment 2**
 ##Neighbors 2
 #**Intermission 3**
 ##???

@@ -72,5 +72,5 @@ Serial #00158 Deck - 2
 
 ## Trivia: ##
 
-* The same intermission music & videos would be used in the [SPP Rolfe & Earl/Bday Wave]({{< ref "wiki/SPP Rolfe & EarlBday Wave.md" >}}) except for Gigi On The Beach 'Please Please Me' which would have been replaced with the Rolfe & Earl Birthday skit for the potential birthday parties while construction was happening with the other two stages. [CEC Neighbors / Dreams]({{< ref "wiki/CEC Neighbors  Dreams.md" >}}) can also be considered to use the same intermission music & videos as it was released around the same time frame.
+* The same intermission music & videos would be used in the [SPP Rolfe & Earl/Bday Wave]({{< ref "wiki/SPP Rolfe & EarlBday Wave.md" >}}) except for Gigi On The Beach 'Please Please Me' which would have been replaced with the Rolfe & Earl Birthday skit for the potential birthday parties while construction was happening with the other two stages. CEC Neighbors / Dreams can also be considered to use the same intermission music & videos as it was released around the same time frame.
 * This show recycles two segments from it's previous showtape [SPP Kids - Tune Machine]({{< ref "wiki/SPP Kids - Tune Machine.md" >}}) that was released earlier this year.

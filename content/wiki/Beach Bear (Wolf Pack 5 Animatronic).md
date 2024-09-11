@@ -8,7 +8,7 @@ date = 2024-06-11T00:26:29Z
 contributors = ["FileFickle"]
 gallery = ["big_bad_barney_bear.png|Pyramid","AntiochBeachBearWP5.jpg|Showbiz","ppbb.png|King's","beachbear_wp5mech.jpg|CEI","bbr.jpg|Under","bb_cei.jpg|Completely"]
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bb_iaapa.png}}Beach Bear was created for the  from the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}).
+{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bb_iaapa.png}}Beach Bear was created for the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) show and debuted at the 1978 IAAPA.  His mask uses the same mold as [Boom Boom Bosco]({{< ref "wiki/Boom Boom Bosco (Animatronic).md" >}}) from the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}).
 
 ## History ##
 TODO

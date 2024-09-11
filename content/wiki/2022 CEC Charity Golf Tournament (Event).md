@@ -8,7 +8,7 @@ date = 2022-05-26T04:05:43Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-
+[[File:2022golf.png|thumb|352x352px|Tournament Logo]]
 The **_2022 CEC Charity Golf Tournament**_ was a multi-round event held on May 10, 2022 at the _Texas Star Golf Course_ (1400 Texas Star Pkwy, Euless, TX 76040) for raising funds towards CEC related charities.
 
 ## Sponsors ##

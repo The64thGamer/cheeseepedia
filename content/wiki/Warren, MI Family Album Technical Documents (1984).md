@@ -1,7 +1,7 @@
 +++
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
-tags = []
+tags = ["Documents"]
 date = 2022-12-17T16:12:18Z
 
 [Article]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Download|title=Family Album Tech Doc|external=https://archive.org/details/family-album-technical-documents-warren-mi}}{{Generic|image=Yuccydoc.png|desc=Page 3}}
 
-The 1984 **_Warren, MI Family Album Technical Documents**_ were a set of handwritten documents by an employee going by 'Jimmie' for controlling the [Family Album]({{< ref "wiki/Family Album.md" >}}) stage show at the [Warren, MI (11555 Engleman Rd)]({{< ref "wiki/Warren, MI (11555 Engleman Rd).md" >}}) Pizza Time Theatre.
+The 1984 **_Warren, MI Family Album Technical Documents**_ were a set of handwritten documents by an employee going by 'Jimmie' for controlling the [Family Album]({{< ref "wiki/Family Album.md" >}}) stage show at the Warren, MI (11555 Engleman Rd) Pizza Time Theatre.
 
 ## Contents ##
 The document is a 7 page manual stapled together at the top left corner.

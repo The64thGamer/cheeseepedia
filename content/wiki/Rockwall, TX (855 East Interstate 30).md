@@ -31,7 +31,7 @@ In The 2.0 Remodel Comes To The Dance Floor And Video Wall For location.
 |October 2017
 |Studio C Alpha Was Removed October 2017.
 |-
-|[Dance Floor]({{< ref "wiki/Dance Floor.md" >}})
+|Dance Floor
 |October 2017
 |Still In Use
 |Added 2.0 Remodel 2021 Model.

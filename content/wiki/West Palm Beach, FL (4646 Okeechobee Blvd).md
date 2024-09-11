@@ -9,13 +9,13 @@ contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Corrector
 gallery = []
 +++
 {{Stub}}
+[[File:WestPalmBeach2ExteriorAfterClosure.jpg|thumb|A photo of the exterior of the store after closure (PC: Yellow Pages).]]
+**_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ in West Palm Beach, Florida. The store opened on December 18, 1990 with a Road Stage (Prototype Road Stage) and closed in December 2004 due to a hurricane.
 
-**_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ in West Palm Beach, Florida. The store opened on December 18, 1990 with a  and closed in December 2004 due to a hurricane.
-
-This is not to be confused with the Pizza Time Theatre on  which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a  or the current location on  which opened on December 26, 2013 with a  and received 2.0 in March 2022, which is still open to this day.
+This is not to be confused with the Pizza Time Theatre on West Palm Beach, FL (2101 Palm Beach Lakes) (2101 Palm Beach Lakes) which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) or the current location on [2471 Okeechobee Blvd]({{< ref "wiki/West Palm Beach, FL (2471 Okeechobee Blvd).md" >}}) which opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}) and received 2.0 in March 2022, which is still open to this day.
 
 ##History##
-West Palm Beach opened on December 18th, 1990 with one of three (Excluding Corporate) Prototype Road Stages (The others being  & ) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown).  In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the dor with 1990's decor.  
+West Palm Beach opened on December 18th, 1990 with one of three (Excluding Corporate) Prototype Road Stages (The others being [Jonesboro]({{< ref "wiki/Jonesboro, GA (335 Upper Riverdale Rd).md" >}}) & [Springfield, PA]({{< ref "wiki/Springfield, PA (381 Baltimore Pike).md" >}})) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown).  In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the dor with 1990's decor.  
 
 In December 2004, the store was closed due to hurricane damage. The store remained vacant for a few years until the building was demolished for a TD Bank in around 2007. As of June 2023, TD Bank still remains on the site.
 
@@ -26,12 +26,12 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 !Removed
 !Notes
 |-
-|
+|[Road Stage Prototype]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |December 1990
 |1991/1992
 |Third Road Stage Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992.
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |1991/1992
 |December 2004
 |Only Road Stage in Georgia.
@@ -49,7 +49,7 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 |Unknown.
 |
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Unknown.
 |

@@ -8,13 +8,13 @@ date = 2023-08-17T00:29:46Z
 contributors = ["CorrectorMan","2600:1012:B11C:86AB:20BA:B121:8DCD:DBB","TheChuckECheeseGuy","CEC Tinley","Cy's Junk at School"]
 gallery = []
 +++
-
-**_9030 Broad St**_, also known as **_Henrico**_, is a _Chuck E. Cheese's_ that opened on March 4, 1999 and is still open today with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}). 
+[[File:Henrico.jpg|thumb|Broad St.'s exterior in 2011.]]
+**_9030 Broad St**_, also known as **_Henrico**_, is a _Chuck E. Cheese's_ that opened on March 4, 1999 and is still open today with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). 
 
 This is not to be confused with [Richmond, VA (10430 Midlothian Turnpike)]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}), which opened on May 1, 1990 and is still open today with the 2.0 remodel, and is in the city limits of **_Bon Air**_.
 
 ## Stage ##
-Henrico opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}). The curtains were disabled years later, and his cap was later removed in 2013. As of August 2023, Henrico remains like this.
+Henrico opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). The curtains were disabled years later, and his cap was later removed in 2013. As of August 2023, Henrico remains like this.
 {| class='wikitable'
 |+
 !Stage
@@ -29,9 +29,9 @@ Henrico opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< r
 |}
 
 ## History ##
-Henrico opened on March 4, 1999 with a  remodel. Barely any information on Henrico exists at this time.
+Henrico opened on March 4, 1999 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) and the [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel. Barely any information on Henrico exists at this time.
 
-In 2008/2009, Henrico received the 2005 update to the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}), which involved removing all 90s decor, showroom walls, balcony seating, added purple walls, and changed the exterior. As of August 2023, Henrico remains operational.
+In 2008/2009, Henrico received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor, showroom walls, balcony seating, added purple walls, and changed the exterior. As of August 2023, Henrico remains operational.
 
 ## Animatronics ##
 {| class='wikitable'

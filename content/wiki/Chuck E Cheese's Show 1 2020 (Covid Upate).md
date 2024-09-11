@@ -57,7 +57,7 @@ This was created to play from December 21, 2020 - June 23, 2020. This show featu
 ## Nigel & Ronnie - 'The Fly'
 # **Skit 5**
 ## Chuck E. & Friends - 'Chuck E.'s Place'
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Intermission 6**
+# **[[File:New Graphic.png]] Intermission 6**
 ## Social Distancing PSA
 ## Welcome Back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
@@ -65,10 +65,10 @@ This was created to play from December 21, 2020 - June 23, 2020. This show featu
 
 ## Lives: ##
 
-* **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
+* **[[File:New Graphic.png]]** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
 ## Trivia: ##
 This show ran for 2 days being the shortest ran show ever. 
 
-All of Intermission 6 were reused for .
+All of Intermission 6 were reused for Chuck E. Cheese's Show 2 2020 (Show 2 2020).

@@ -1,7 +1,7 @@
 +++
 title = "Jackson, MS (5465 I-55)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-20T20:15:47Z
 
 [Article]

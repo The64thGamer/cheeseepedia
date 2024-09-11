@@ -8,7 +8,7 @@ date = 2022-09-13T18:23:44Z
 contributors = ["Rileypaulson","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:1453:805E:C9FE:D729","209.129.28.15","76.167.210.169","CEC Tinley","TheChuckECheeseGuy","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:Sportsarenaskytubes.jpg|thumb|Sports Arena's SkyTubes which have since been removed.]]
 **3146 Sports Arena Blvd** is a Chuck E. Cheese's that opened in Rosecrans Plaza on April 19th, 1993 with a 1-stage.
 
 This location is one of the 5 CEC's in San Diego County.
@@ -29,7 +29,7 @@ This location had the first 1-stage installed in the San Diego area, followed by
 |2003
 |First 1-stage in San Diego county
 |-
-|
+|[Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}})
 |2003
 |Still In Use
 |First 16m Beta in San Diego county
@@ -42,11 +42,11 @@ This location had the first 1-stage installed in the San Diego area, followed by
 !Serial Number
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |
 |Removed 2003
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |
 |Removed 2003
 |-
@@ -62,7 +62,7 @@ This location had the first 1-stage installed in the San Diego area, followed by
 |
 |Removed 2003
 |-
-|
+|Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese, 16m (Studio C))
 |
 |Still In Use
 |}

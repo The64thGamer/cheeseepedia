@@ -8,12 +8,12 @@ date = 2023-07-26T17:23:37Z
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic","ChungusMaster9000","Documentor"]
 gallery = []
 +++
-**_4445 SW 110th Ave**_ was a _Chuck E. Cheese's Pizza_ that opened in September 1990 (day unknown) and closed in January 2003 (day unknown) with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}).
+**_4445 SW 110th Ave**_ was a _Chuck E. Cheese's Pizza_ that opened in September 1990 (day unknown) and closed in January 2003 (day unknown) with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}).
 
-This location relocated to , which opened in January 2003 (day unknown) and is still open with a .
+This location relocated to [4145 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4145 SW 110th Ave).md" >}}), which opened in January 2003 (day unknown) and is still open with a Studio C 2000 (Studio C Beta).
 
 ## Stage ##
-Beaverton's only stage was [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}). There isn't a lot known about this store, but there is footage from around 1996 that exists. After the 2003 closure, the bots fates were unknown.
+Beaverton's only stage was [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). There isn't a lot known about this store, but there is footage from around 1996 that exists. After the 2003 closure, the bots fates were unknown.
 {| class='wikitable'
 |+
 !Stage
@@ -21,14 +21,14 @@ Beaverton's only stage was [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" 
 !Removed
 !Notes
 |-
-|[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}})
+|[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}})
 |September 1990
 |January 2003
 |Last Rocker installed in Oregon.
 |}
 
 ## History ##
-Beaverton opened their second CEC in September 1990 after the closure of the  store in July 1985. The store had a  upon opening. This location received the  remodel around 1997-1999, changing every aspect around the store, removing all elements of the 1988 remodel. Somehow, [[Chuck E.'s House]] remained in the showroom. They then received Phase 3 in the early 2000s, only to close forever in January 2003 and relocate (day unknown). As of July 2023, the store is now part of a Home Depot store.
+Beaverton opened their second CEC in September 1990 after the closure of the [11753 SW Beaverton Hillsdale]({{< ref "wiki/Beaverton, OR (11753 SW Beaverton Hillsdale).md" >}}) store in July 1985. The store had a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) stage, the last one installed in Oregon. They also had the 1986 SPT Remodel Program (1988 remodel) upon opening. This location received the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel around 1997-1999, changing every aspect around the store, removing all elements of the 1988 remodel. Somehow, [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) remained in the showroom. They then received Phase 3 in the early 2000s, only to close forever in January 2003 and relocate (day unknown). As of July 2023, the store is now part of a Home Depot store.
 
 ## Videos and Footage ##
 {| class='wikitable'

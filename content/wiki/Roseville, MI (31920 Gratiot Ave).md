@@ -11,7 +11,7 @@ gallery = []
 **_31920 Gratiot Ave**_ is a Chuck E. Cheese's in Roseville, Michigan.
 
 ##History##
-Roseville opened on April 22nd, 1991 in the Gratiot Center with the Road Stage (First and only one in Michigan) & the . Roseville's first remodel occurred in around 1996 to  with the removal of elements from the 1988 remodel such as the Blue & White Awnings & neon lights  and the conversion of the Road Stage to 2-Stage (Which replaced Helen's mask with a new one at the time). Roseville then remodeled to the  sometime in 2006-2008; which involved the removal of Showroom Walls, Balcony Seating, & adding purple walls. It is unknown of Roseville ever had Cool Chuck. Roseville then got the Avenger outfit in around 2009-2011. Chuck's cap was removed in September 2013. Then Helen got a new mask sometime in Mid-Late 2017.The CRTs were also replaced with Flatscreen TVs in around 2018; this also involved putting flatscreen on the stage which involved the TV & Fabric Optic Chuck E. Cheese sign being switched around (The same was done at  as well). Then in August/September 2021, Roseville started their 2.0 Remodel, which involved the removal of the 2-Stage for a Dance Floor & Video Wall. 
+Roseville opened on April 22nd, 1991 in the Gratiot Center with the Road Stage (First and only one in Michigan) & the CEC 1988 Remodel (1988 Remodel). Roseville's first remodel occurred in around 1996 to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) with the removal of elements from the 1988 remodel such as the Blue & White Awnings & neon lights  and the conversion of the Road Stage to 2-Stage (Which replaced Helen's mask with a new one at the time). Roseville then remodeled to the CEC 2005 Remodel (2005 Remodel) sometime in 2006-2008; which involved the removal of Showroom Walls, Balcony Seating, & adding purple walls. It is unknown of Roseville ever had Cool Chuck. Roseville then got the Avenger outfit in around 2009-2011. Chuck's cap was removed in September 2013. Then Helen got a new mask sometime in Mid-Late 2017.The CRTs were also replaced with Flatscreen TVs in around 2018; this also involved putting flatscreen on the stage which involved the TV & Fabric Optic Chuck E. Cheese sign being switched around (The same was done at [Stafford]({{< ref "wiki/Stafford, TX (11920 Southwest Fwy).md" >}}) as well). Then in August/September 2021, Roseville started their 2.0 Remodel, which involved the removal of the 2-Stage for a Dance Floor & Video Wall. 
 
 As of October 2022, Roseville still has the 2.0 Remodel.
 
@@ -23,7 +23,7 @@ Originally when the store opened, they had a Road Stage, the only one installed 
 !Removed
 !Condition / Notes
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |April 1991
 |1996
 |Only Road Stage in Michigan
@@ -33,7 +33,7 @@ Originally when the store opened, they had a Road Stage, the only one installed 
 |August/September 2021
 |
 |-
-| + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
 |August/September 2021
 |Still In Use
 |2021 Model
@@ -45,11 +45,11 @@ Originally when the store opened, they had a Road Stage, the only one installed 
 !Manufacturing date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Destroyed.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Destroyed. Mask at [Toledo, OH (5455 Airport Hwy)]({{< ref "wiki/Toledo, OH (5455 Airport Hwy).md" >}}).
 |-

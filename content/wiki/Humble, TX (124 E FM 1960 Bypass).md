@@ -8,7 +8,7 @@ date = 2022-09-10T05:06:35Z
 contributors = ["ThatBoiCydalan","The 64th Gamer","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
 gallery = ["HumblePhase3.png|Humble","HumbleFormerStage1.jpg|June","HumbleFormerStage2.jpg|June"]
 +++
-
+[[File:Humble TX 2.0 Exterior.jpg|thumb|Humble's exterior on June 1st, 2022.]]
 **124 E FM 1960 Bypass** is a Chuck E. Cheese's located in Humble, TX that opened on December 16th, 1999 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) and is still open today.
 
 ## History ##

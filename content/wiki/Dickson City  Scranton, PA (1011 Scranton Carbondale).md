@@ -1,7 +1,7 @@
 +++
 title = "Dickson City / Scranton, PA (1011 Scranton Carbondale)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-24T00:56:28Z
 
 [Article]
@@ -66,3 +66,4 @@ This location opened as a Pizza Time Theater before later being turned into a Za
 No Videos Exist at the Moment
 
 ## Photos ##
+[[File:Zach Periwinkles sign being installed.png|thumb|Zach Periwinkles sign being installed]]

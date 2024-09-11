@@ -10,12 +10,12 @@ gallery = ["Promo","V1botnewbwimage.jpg|B&W","Puresexiness.jpg|Broad"]
 +++
 {{Animatronic|unitsProduced=1|releasedate=May 1977|manufacturer=Fantasy Forest|image=WINCHSETERSHOT_2.jpg}}
 
-The **_Winchester Flag Wavers**_ was an animatronic produced by  in May 1977. The Bot was a collection of waving flags that were around the room that were controlled through one animatronic system.
+The **_Winchester Flag Wavers**_ was an animatronic produced by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}) for the [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) on [San Jose, Ca (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) in May 1977. The Bot was a collection of waving flags that were around the room that were controlled through one animatronic system.
 
 The Bot was used from May 1977 up until either Winchester got [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) in 1981, or when the location closed in 1985.
 
 ## History ##
-The Winchester Flag Wavers were installed in May 1977 in the dining area<ref name=':0'>https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf</ref>. They would wave along to the showtapes. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to , or thrown out.
+The Winchester Flag Wavers were installed in May 1977 in the dining area<ref name=':0'>https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf</ref>. They would wave along to the showtapes. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to [Sunnyvale]({{< ref "wiki/Pizza Time Theatre Sunnyvale, CA Corporate Office.md" >}}), or thrown out.
 
 ## Design ##
 The Winchester Flag Wavers had multiple Flag designs listed below:

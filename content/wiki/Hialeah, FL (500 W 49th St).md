@@ -1,7 +1,7 @@
 +++
 title = "Hialeah, FL (500 W 49th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-15T20:02:15Z
 
 [Article]
@@ -25,7 +25,7 @@ No videos have surfaced of this location.
 !Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |Unknown
 |-

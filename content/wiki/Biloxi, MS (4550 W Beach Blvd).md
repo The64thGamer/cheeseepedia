@@ -1,7 +1,7 @@
 +++
 title = "Biloxi, MS (4550 W Beach Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-12-12T20:19:27Z
 
 [Article]

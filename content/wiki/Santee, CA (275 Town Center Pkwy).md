@@ -8,7 +8,7 @@ date = 2023-01-23T14:53:28Z
 contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]
 gallery = []
 +++
-**275 Town Center Parkway** is a future Chuck E. Cheese located in Santee, California, which is a suburb in San Diego's East County. The Santee store may be a possible relocation for the  location, as La Mesa is 15 minutes from the future Santee store. Santee will be the first 2.0 in the San Diego area, and will be the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ( reopened as CEC in July 2022, so they are not new to CEC)
+**275 Town Center Parkway** is a future Chuck E. Cheese located in Santee, California, which is a suburb in San Diego's East County. The Santee store may be a possible relocation for the [La Mesa (5500 Grossmont Center Dr)]({{< ref "wiki/La Mesa, CA (5500 Grossmont Center Dr).md" >}}) location, as La Mesa is 15 minutes from the future Santee store. Santee will be the first 2.0 in the San Diego area, and will be the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ([Fairfield (1027 Oliver Rd)]({{< ref "wiki/Fairfield, CA (1027 Oliver Rd).md" >}}) reopened as CEC in July 2022, so they are not new to CEC)
 
 ## History ##
 

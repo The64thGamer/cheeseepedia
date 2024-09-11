@@ -23,7 +23,7 @@ This poster has been re-released by Creative Engineering after Concept Unificati
 ##Design##
 The poster is a parody of the 1982 film, [https://en.wikipedia.org/wiki/Tootsie Toostie], with Mitzi Mozzarella taking on the role of Michael Dorsey.  
 
-Much like Billy Bob in , Mitzi is also seen in an unusual human-like form, having a more defined body specifically created for this artwork. Specifically looking as if Mitzi's head is superimposed onto the body of the actor pictured in the original, Michael Dorsey.  
+Much like Billy Bob in [Beverly Hills Bob]({{< ref "wiki/Beverly Hills Bob (Parody Poster).md" >}}), Mitzi is also seen in an unusual human-like form, having a more defined body specifically created for this artwork. Specifically looking as if Mitzi's head is superimposed onto the body of the actor pictured in the original, Michael Dorsey.  
 
 Mitzi is seen in the same red dress seen in the original movie poster with a hairstyle more similar to the Michael Dorsey character.<ref>https://en.wikipedia.org/wiki/Tootsie</ref> Behind Mtizi is a large American flag, although the stars are interestingly blue as opposed to the standardized white.  
 ##Gallery##

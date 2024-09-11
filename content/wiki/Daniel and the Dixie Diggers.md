@@ -8,14 +8,14 @@ date = 2023-11-11T21:49:52Z
 contributors = ["BigCtheDataFinder","The 64th Gamer","Wizington"]
 gallery = []
 +++
-
+[[File:DATDD Quintet.jpg|thumb|Daniel and the Dixie Diggers (5-Piece Quintet)]]
 **_Daniel and the Dixie Diggers**_ is a Sally animatronic show, the first of the company's 'Showmation' ensemble shows. It is considered by Sally themselves to be their most popular 'animal band show,' as it was installed in numerous venues across the world since it's inception in 1982. It is also the only show produced by Sally to have the most showtape content ever recorded, as well as the most in configuration options to date. 
 
 ## Historical Background ##
 
 ### Development ###
 In the late 1970's, Sally Unlimited had their beginnings in producing primitive, animated figures of human caricatures. They were often modeled after real people (the namesake of the company, a woman named Sally, was one of the first of these to be modeled after), and were sold upon the request of clients across the U.S.
-
+[[File:Tim Lawrence Sally Portfolio.png|thumb|A portfolio of Tim Lawrence's work for Sally, including the earliest concepts for the Dixie Diggers.]]
 Around that time, ideas about an ensemble cast of characters came about, primarily in the form of anthropomorphic dogs as part of a dixieland jazz band. Tim Lawrence, a designer that was based in Jacksonville at the time and worked for Sally in its early years, would have involvement in designing the earliest concepts of this show. Instruments envisioned for this show included a piano, a trumpet, a banjo, a saxophone, and a trombone. Some of the characters depicted in sketches and maquettes would closely align in design with the characters that would be present in the finalized show. Tim would leave Sally and Jacksonville in 1981 to pursue an animatronic career in California (allegedly AVG Technologies), halfway into the dixieland band's development. Janet Sherman, a former actress known for performing at the St. Augustine Amphitheatre in Jacksonville, joined Sally as the head of soundtrack and script production.<ref>https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend</ref>
 
 It has been debated on who was the first client to request the Dixie Diggers, as two of the first installations would intertwine with each other in terms of timeframes. The current consensus is that _Pizza Pizzazz Funtime Food Emporium_, a family entertainment center in Ohio, was the first to be installed but did not publicly debut until <u>May 28</u>, 1982. The second of these installations, _Mark Twain's Riverboat Playhouse_ in Kendall, FL would ultimately premiere before _Pizza Pizzazz,_ marking the official debut of DATDD to be <u>March 25</u>, 1982.

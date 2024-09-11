@@ -31,7 +31,7 @@ No exact brands of ingredients have been documented, though the ingredients them
 *1 1/2 oz. Marinara Sauce (Or Ranch)
 *Garlic butter
 *Grated Parmesan
-The recipe with pictures can be seen on the _show me the standard_ sheet for the item.<ref></ref>
+The recipe with pictures can be seen on the _show me the standard_ sheet for the item.<ref>[[:File:Rockin pizza set the standard.png|File:Rockin pizza set the standard.png]]</ref>
 #Place parchment on large T&C screen
 #Place individual skin in center of parchment paper.
 #Stretch individual skin to edge of screen.

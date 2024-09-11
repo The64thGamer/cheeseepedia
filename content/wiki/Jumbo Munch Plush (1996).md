@@ -34,9 +34,9 @@ This plush's design is very simple. He has a purple fur-egg shaped body with a y
 
 Its tag reads as **'Chuck E. Cheese's** © 1996 ShowBiz Pizza Time, Inc. Made in China'. The back reads as ALL NEW MATERIAL Contents: Polyester Fiber ОН 17389 РА 5081 MA 1340 ME 3658 Dennis Foland, Inc. San Jose, CA'.
 ###Differences Between Smaller Size###
-There aren't many differences between this plush and it's  except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size. Also the build of the plush is noticeably different between the two.
+There aren't many differences between this plush and it's [smaller size]({{< ref "wiki/Small Munch Plush (1996).md" >}}) except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size. Also the build of the plush is noticeably different between the two.
 
-Comparing it to the plush's , on the other hand, is much harder. They're very close in design. It really all comes down to the build of the plush. The 20' plush has more prominent shoulders, and its left hand on its belly instead of it's waist. 
+Comparing it to the plush's [large size]({{< ref "wiki/Large Munch Plush (1996).md" >}}), on the other hand, is much harder. They're very close in design. It really all comes down to the build of the plush. The 20' plush has more prominent shoulders, and its left hand on its belly instead of it's waist. 
 ##Gallery##
 <gallery>
 File:JUM96MunchBack.jpg|Plush Back

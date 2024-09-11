@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Party Games"
 draft = false
-tags = []
+tags = ["Video Games"]
 date = 2023-02-01T21:38:38Z
 
 [Article]
@@ -11,7 +11,7 @@ gallery = []
 **Chuck E. Cheese's Party Games** was a game released in 2010 for the Nintendo Wii.
 
 ## Gameplay ##
-The game takes place at a nondescript  location.
+The game takes place at a nondescript Chuck E. Cheese's (Chuck E. Cheese) location.
 
 ## Playable Characters ##
 

@@ -1,7 +1,7 @@
 +++
 title = "Classic Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2022-02-26T01:26:18Z
 
 [Article]
@@ -9,7 +9,7 @@ contributors = ["RockafireFan123","The 64th Gamer","2603:900A:1104:3200:9D77:FFF
 gallery = []
 +++
 ## Description ##
-
+[[File:The 'classic stage'.jpg|thumb|744x744px]]
 The 'classic stage' (or 'standard' format for the Rock-afire Explosion) is the most commonly used format for the Rock-afire Explosion stage show. The classic stage was split into three stages, and was later on converted to the Munch's Make Believe Band 3-stages (in most cases). Stage left was used by Billy Bob & Looney Bird, as they joined the other stages in musical numbers, or on their own in special skits and songs. The center stage is what is known as 'The Rock-afire Explosion' - or the band themselves. Consisting of Dook LaRue on drums, Fatz Geronimo on keys, Beach Bear on guitar and Mitzi Mozzarella on vocals, the center stage characters would come out and perform special songs and skits with the other two stages, or on their own. Prop characters are also a key part of the center stage, consisting of Sun, Moon, ChooChoo, Frog and (in the beta RAE days) the owl. Sun and Moon would occasionally help out the band with providing backing vocals and rarely having dialogue in the showtapes.  Stage right consisted of Rolfe DeWolfe and Earl Schmerle, creating the comedic duo known as 'The Rolfe & Earl Show'. Rolfe & Earl would come out and sometimes perform special songs on their own, but mostly performed comedic skits and segments while being heckled by the other band members.
 
 ## Locations ##

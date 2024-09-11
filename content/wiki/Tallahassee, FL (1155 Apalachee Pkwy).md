@@ -1,23 +1,23 @@
 +++
 title = "Tallahassee, FL (1155 Apalachee Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-24T21:13:17Z
 
 [Article]
 contributors = ["CEC Kokomo","CEC Tinley","NintendoCraft"]
 gallery = []
 +++
+[[File:Ptt talahassee.jpg|thumb|Tallahassee's exterior after becoming Dollar Tree.]]
+**_1155 Apalachee Pkwy**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on August 9, 1982 and closed on November 18, 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
-**_1155 Apalachee Pkwy**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on August 9, 1982 and closed on November 18, 1984 with a .
-
-This is not to be confused with .
+This is not to be confused with [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}), which opened on April 7, 1992 and is still open today with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
 ##Stage##
-Tallahassee opened with a . Barely any info is known, and after closure in November 1984, the bots were auctioned.
+Tallahassee opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Barely any info is known, and after closure in November 1984, the bots were auctioned.
 
 ##History##
-Tallahassee opened on August 9, 1982 with a . Nothing is known about Tallahassee's Pizza Time Theatre, however. The location would close on November 18, 1984 due to underperformance.
+Tallahassee opened on August 9, 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Nothing is known about Tallahassee's Pizza Time Theatre, however. The location would close on November 18, 1984 due to underperformance.
 
 ###Post Pizza Time Theatre###
 The location would sit vacant for a period of time before becoming part of a Walgreen's. The Walgreen's would close between 2008 and 2010 and become Dollar Tree. As of August 2023, Dollar Tree sits on the space.
@@ -37,7 +37,7 @@ The location would sit vacant for a period of time before becoming part of a Wal
 |Unknown
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |Unknown
 |-
@@ -53,7 +53,7 @@ The location would sit vacant for a period of time before becoming part of a Wal
 |Unknown
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |Unknown
 |-

@@ -1,7 +1,7 @@
 +++
 title = "Charlotte, NC (4120 E Independence Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-13T01:14:15Z
 
 [Article]
@@ -10,7 +10,7 @@ gallery = []
 +++
 **_4120 E Independence Blvd**_ was a _Pizza Time Theatre_ in Charlotte, North Carolina that opened on March 30th, 1982 and closed in October 1984.
 
-This is not to be confused with the _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_  location (Which was 5-7 minutes from this location) opened in November 1991 with a . It should also not be confused with the _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ on  location as it opened on October 11th, 1982, with the Rock-Afire Explosion which is still open to this day with the 3-Stage.
+This is not to be confused with the _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ [5612 Albemarle Rd]({{< ref "wiki/Charlotte, NC (5612 Albemarle Rd).md" >}}) location (Which was 5-7 minutes from this location) opened in November 1991 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). It should also not be confused with the _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ on [7701 Pineville-Matthews Rd]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) location as it opened on October 11th, 1982, with the Rock-Afire Explosion which is still open to this day with the 3-Stage.
 
 ## History ##
 Charlotte opened with either Harmony Howlette or Madame Oink. Charlotte would later get Helen who stayed until Charlotte Permanently Closed. This was one of two Pizza Time Theatres in North Carolina (And the Carolinas as well as South Carolina only had Showbiz) and was also the 2nd to last Pizza Time Theatre to open in the state.
@@ -25,7 +25,7 @@ Charlotte opened with a Balcony Stage.
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |March 1982
 |October 1984
 |Animatronics sold at auction.
@@ -45,7 +45,7 @@ Charlotte opened with a Balcony Stage.
 |1981/1982
 |Sold at auction, Owned by a Private Collector.
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1981/1982
 |Sold at auction, current status unknown
 |-
@@ -61,7 +61,7 @@ Charlotte opened with a Balcony Stage.
 |1981/1982
 |Sold at auction, current status unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |1981/1982
 |Sold at auction, current status unknown
 |-

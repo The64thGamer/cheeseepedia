@@ -8,8 +8,8 @@ date = 2023-09-20T19:31:02Z
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-
-**_Burlington, NJ (2497 Burlington-Mount Holly Rd)**_ was a Chuck E. Cheese’s that opened on January 31, 2002 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}), and closed on October 2, 2016.
+[[File:Burlington NJ Exterior .jpg|thumb|Burlington’s Exterior]]
+**_Burlington, NJ (2497 Burlington-Mount Holly Rd)**_ was a Chuck E. Cheese’s that opened on January 31, 2002 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and closed on October 2, 2016.
 
 ##Stages##
 {| class='wikitable'

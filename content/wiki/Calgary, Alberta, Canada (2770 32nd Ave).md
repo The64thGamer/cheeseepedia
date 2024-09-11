@@ -10,11 +10,11 @@ gallery = []
 +++
 **2770 32nd Ave** was a Showbiz Pizza that opened on October 30, 1988 with a Rocker Stage, which closed in around October 2003.
 
-This location is a relocation of the .
+This location is a relocation of the Calgary, Alberta, Canada (3320 20th Ave) Pizza Time Theatre which opened in August 1983 and closed in August 1988 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 ##History##
 TODO: History
 ##Stages##
-Originally, the store opened with a Rocker Stage which was one of two installed in Canada (The other was in ), they would then replace it with the Road Stage from the [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location in the Mid 1990's, which they would have until closure.
+Originally, the store opened with a Rocker Stage which was one of two installed in Canada (The other was in [Winnipeg]({{< ref "wiki/Winnipeg, Manitoba, Canada (1931 Pembina Hwy).md" >}})), they would then replace it with the Road Stage from the [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location in the Mid 1990's, which they would have until closure.
 {| class='wikitable'
 |+
 !Stage
@@ -30,7 +30,7 @@ Originally, the store opened with a Rocker Stage which was one of two installed 
 |Road Stage
 |1994-1995
 |October 2003
-|One of two installed in Canada. Originally from the  location
+|One of two installed in Canada. Originally from the [9627 Macleod Trail]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location
 |}
 
 ## Animatronics ##
@@ -41,30 +41,30 @@ Originally, the store opened with a Rocker Stage which was one of two installed 
 !Whereabouts
 !Notes
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1980s
 |Unknown/Unknown
-|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
+|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1980's
 |Unknown/Unknown
-|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}){< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
+|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1980s
 |Unknown/Unknown
-|Original animatronic unknown, replaced with animatronic from [[Calgary, Alberta, Canada (9627 Macleod Trail)]].
+|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1980s
 |Unknown/Unknown
-|Original animatronic unknown, replaced with animatronic from [[Calgary, Alberta, Canada (9627 Macleod Trail)]].
+|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1980s
 |Unknown/Unknown
-|Original animatronic unknown, replaced with animatronic from [[Calgary, Alberta, Canada (9627 Macleod Trail)]].
+|Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}).
 |}
 
 ## Gallery ##

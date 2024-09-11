@@ -10,10 +10,10 @@ gallery = ["Old"]
 +++
 {{Animatronic|image=TV.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_TV**_ was an animatronic produced by _Creative Engineering Inc._ for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+The **_TV**_ was an animatronic produced by _Creative Engineering Inc._ for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
 ##History##
-This character was produced in 1993 for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}) show. 
+This character was produced in 1993 for the New Rock-Afire Explosion show. 
 
 This bot has 2 different versions. 
 

@@ -1,7 +1,7 @@
 +++
 title = "Costa Mesa, CA"
 draft = false
-tags = []
+tags = ["Store List (2300 Harbor Blvd)"]
 date = 2021-12-03T23:05:28Z
 
 [Article]

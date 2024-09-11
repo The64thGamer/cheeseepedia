@@ -36,7 +36,7 @@ gallery = []
 #**Intermission 3**
 ##Tricks For Treats
 ##Comedy Club
-##**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** Fluke Trailer
+##**[[File:New Graphic.png]]** Fluke Trailer
 ##Munch and The Picnic Basket
 ##Comedy Club
 #**Segment 4**

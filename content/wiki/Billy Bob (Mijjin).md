@@ -10,17 +10,17 @@ gallery = ["Nrae","Toyland1.png","Toyland2.png","Mampato.png"]
 +++
 {{Animatronic|image=Nrae billybob.jpg|releasedate=1992|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Billy Bob Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the [Mijins]({{< ref "wiki/Mijins.md" >}}){< ref "wiki/Mijins.md" >}}) show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+The **_Billy Bob Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the Mijins show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
 ##History##
-The character was first produced for the [Mijins]({{< ref "wiki/Mijins.md" >}}) show in 1992. 
+The character was first produced for the Mijins show in 1992. 
 
-This character was later produced in 1993 for the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}){< ref "wiki/New Rock-Afire Explosion.md" >}}) show. 
+This character was later produced in 1993 for the New Rock-Afire Explosion show. 
 
-The character's mech was changed to the standard Mijjin mech in 1993 when the [New Rock-Afire Explosion]({{< ref "wiki/New Rock-Afire Explosion.md" >}}) show was made.
+The character's mech was changed to the standard Mijjin mech in 1993 when the New Rock-Afire Explosion show was made.
 
 ##Design##
-This bot is a standard Mijin mech, the mech has blue eye pieces. The bot is the Billy Bob Character from the  in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.  
+This bot is a standard Mijin mech, the mech has blue eye pieces. The bot is the Billy Bob Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.  
 
 ####Toyland####
 The bot is wearing the normal outfit, along with a Red and Yellow striped Cap, and an Orange Scarf.

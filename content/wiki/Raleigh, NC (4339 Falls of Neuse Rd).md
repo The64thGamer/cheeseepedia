@@ -8,4 +8,4 @@ date = 2023-04-30T16:10:02Z
 contributors = ["Saan1ty"]
 gallery = []
 +++
-#REDIRECT [User:Saan1ty/TestPage]({{< ref "wiki/UserSaan1tyTestPage.md" >}})
+#REDIRECT User:Saan1ty/TestPage

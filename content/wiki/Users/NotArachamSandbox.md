@@ -9,6 +9,6 @@ contributors = ["NotAracham"]
 gallery = []
 +++
 {{mbox
- |image= 
+ |image= [[File:Stub.png|alt=|30x30px]]
  |text = This page is a stub. You can help by expanding it.
 }}

@@ -1,20 +1,20 @@
 +++
 title = "San Diego, CA (6403 El Cajon Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-05-18T15:02:34Z
 
 [Article]
 contributors = ["Rexburg090","CEC Tinley"]
 gallery = []
 +++
-**_6403 El Cajon Blvd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in March 1981 (Date Unknown) and closed in 1984 with a .
+**_6403 El Cajon Blvd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in March 1981 (Date Unknown) and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 
-This location should not be confused with , , or , all which opened in 1981/1982 and is still open, opened on April 19th, 1993, which is also still open, and opened on December 19th, 2012, which is also still open.
+This location should not be confused with San Diego / Mira Mesa, CA (9840 Hibert St) (San Diego / Mira Mesa location), [the Sports Arena location]({{< ref "wiki/San Diego, CA (3146 Sports Arena Blvd).md" >}}), or [the College Avenue location]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), all which opened in 1981/1982 and is still open, opened on April 19th, 1993, which is also still open, and opened on December 19th, 2012, which is also still open.
 
 ## History ##
-San Diego (El Cajon Blvd) would open in March 1981 (Date Unknown) as the first Chuck E. Cheese of any kind in the San Diego area. Not much is known about this store other than having a  throughout it's 3 years of being in business. 
+San Diego (El Cajon Blvd) would open in March 1981 (Date Unknown) as the first Chuck E. Cheese of any kind in the San Diego area. Not much is known about this store other than having a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) throughout it's 3 years of being in business. 
 
 After around 3 years of business, the store would close in 1984 at an unknown date and the whereabouts of the store's show is unknown.
 
@@ -27,7 +27,7 @@ It is unknown what the building is today.
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |March 1981
 |1984
 |One of many installed in California. 1st CEC of any kind in San Diego.
@@ -44,7 +44,7 @@ It is unknown what the building is today.
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -56,7 +56,7 @@ It is unknown what the building is today.
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |-
 |[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})

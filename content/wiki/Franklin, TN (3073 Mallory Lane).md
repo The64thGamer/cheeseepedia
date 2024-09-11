@@ -8,7 +8,7 @@ date = 2022-09-12T15:44:53Z
 contributors = ["CECBowlingGreen","Steven 'CEC' Master","BurgersNuggs445"]
 gallery = []
 +++
-**3073 Mallory Lane** was a Chuck E. Cheese's that opened on December 31, 2000 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}), which is still open to this day
+**3073 Mallory Lane** was a Chuck E. Cheese's that opened on December 31, 2000 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), which is still open to this day
 
 This location received 2.0 in 2019.
 
@@ -16,7 +16,7 @@ This location received 2.0 in 2019.
 TODO: History
 
 ## Stages ##
-Originally, the store had a . As of September 2022, they still have this remodel.
+Originally, the store had a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), with an [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}), they would have it until around June of 2019. they use to have curtains, but were removed sometime between the late 2000's to early-2010's, they replaced where the curtains were with mini walls. in mid 2019, they would receive the 2.0 remodel, removing the Alpha, and replacing it with a Chuck E. Live Stage (Dance Floor) (Dance Floor). As of September 2022, they still have this remodel.
 {| class='wikitable'
 |+
 !Stage
@@ -29,7 +29,7 @@ Originally, the store had a . As of September 2022, they still have this remodel
 |Summer 2019
 |Interactive Console removed in June 2019
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |Summer 2019
 |Still In Use
 |2019 Model
@@ -42,11 +42,11 @@ Originally, the store had a . As of September 2022, they still have this remodel
 !Serial
 !Whereabouts
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32m (Studio C))
 |Unknown
 |Unknown
 |-
-|
+|Parrot (Animatronic) (Bird (Studio C))
 |N/A
 |Unknown
 |}

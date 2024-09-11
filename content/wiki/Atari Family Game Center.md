@@ -17,11 +17,11 @@ The arcades would exclusively house Atari arcade games, built with custom cabine
 ## Locations ##
 Only 5 stores are currently known to have existed, but it is stated that several were produced.<ref name=':0' />
 
-* [San Leandro, CA (E. 14th St. at 155th Ave.)]({{< ref "wiki/San Leandro, CA (E 14th St at 155th Ave).md" >}})
-* [San Jose, CA (2200 Eastridge Loop)]({{< ref "wiki/San Jose, CA (2200 Eastridge Loop).md" >}})
+* San Leandro, CA (E. 14th St. at 155th Ave.)
+* San Jose, CA (2200 Eastridge Loop)
 
-* [Santa Clara, CA (2151 Laurelwood Road)]({{< ref "wiki/Santa Clara, CA (2151 Laurelwood Road).md" >}})
-* [San Jose, CA (925 Blossom Hill Rd)]({{< ref "wiki/San Jose, CA (925 Blossom Hill Rd).md" >}})
-* [Orange, CA (1500 East Village Way)]({{< ref "wiki/Orange, CA (1500 East Village Way).md" >}})
+* Santa Clara, CA (2151 Laurelwood Road)
+* San Jose, CA (925 Blossom Hill Rd)
+* Orange, CA (1500 East Village Way)
 
 ## References ##

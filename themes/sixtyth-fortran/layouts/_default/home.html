@@ -28,8 +28,6 @@
 <!-- Count of unique contributors -->
 {{ $contributorCount := len $sortedContributors }}
 
-Now at {{ len .Site.RegularPages }} articles contributed by {{ $contributorCount }} unique contributors.<hr>
-
 <!-- Print the sorted list of contributors -->
 <ul>
 {{ range $sortedContributors }}

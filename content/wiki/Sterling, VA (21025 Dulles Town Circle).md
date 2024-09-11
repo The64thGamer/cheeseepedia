@@ -31,12 +31,12 @@ From This As On July 2023 There 2.0 Remodel Placed.
 !Removed
 !Notes
 |-
-|
+|Studio C 2000 (Studio C Beta)
 |July 2006
 |July 2023
 |There Was A Removed On July 2023.
 |-
-| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Chuck E. Live Stage (Dance Floor)  (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |July 2023
 |Still In Use
 |2021 Model.

@@ -1,7 +1,7 @@
 +++
 title = "Fontana, CA (17069 Valley Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-15T02:31:17Z
 
 [Article]

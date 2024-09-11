@@ -15,7 +15,7 @@ The **_Beverly Hills Bob**_ was a poster created for Showbiz Pizza and Chuck E. 
 ##Production##
 This poster was one of the few Rock Afire Explosion parody posters released in 1988. Once [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) began this poster would cease production in 1990.
 
-Unlike the , , and  posters, this poster in particular has never been re-released by Creative Engineering at any point after Concept Unification.<ref>https://creativeengineering.bigcartel.com/</ref>
+Unlike the [Mitzie]({{< ref "wiki/Mitzie (Parody Poster).md" >}}), King Fatz (Parody Poster) (King Fatz), and [Pizza Wars]({{< ref "wiki/Pizza Wars (Parody Poster).md" >}}) posters, this poster in particular has never been re-released by Creative Engineering at any point after Concept Unification.<ref>https://creativeengineering.bigcartel.com/</ref>
 
 ##Design##
 The poster is a parody of 1984 [https://en.wikipedia.org/wiki/Beverly_Hills_Cop Beverly Hills Cop], with Billy Bob taking on the role 'Beverly Hills Bob'.  

@@ -58,15 +58,15 @@ gallery = []
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 ## Lives: ##
-* [Chuck E. March 01]({{< ref "wiki/Chuck E March 01.md" >}})
-* [Havin' A Party 01]({{< ref "wiki/Havin' A Party 01.md" >}})
-* [Chuck E. Swing]({{< ref "wiki/Chuck E Swing.md" >}})
+* Chuck E. March 01
+* Havin' A Party 01
+* Chuck E. Swing
 * [Bingo]({{< ref "wiki/Bingo.md" >}})
-* [If You're Happy and You Know It]({{< ref "wiki/If You're Happy and You Know It.md" >}})
-* 
+* If You're Happy and You Know It
+* Chuck E. Shuffle (New Footage)  ( Chuck E. Shuffle)
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
-* [Spanish Birthday 01]({{< ref "wiki/Spanish Birthday 01.md" >}})
+* Spanish Birthday 01
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
-*[New Birthday]({{< ref "wiki/New Birthday.md" >}})
-*[Go Santa Go]({{< ref "wiki/Go Santa Go.md" >}})
+*New Birthday
+*Go Santa Go
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.

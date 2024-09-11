@@ -8,7 +8,7 @@ date = 2023-01-22T19:15:52Z
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]
 gallery = ["JaxAtl01.jpg|Exterior"]
 +++
-
+[[File:Tulsa Memorial CEC.png|thumb| () (PC: ??)]]
 **_7108 S Memorial Dr**_ was a _Showbiz Pizza Place_ restaurant located in Tulsa, Oklahoma.
 
 ## History ##
@@ -19,7 +19,7 @@ Then store would receive the 1993 remodel sometime by the 1990s at the earliest,
 
 In 2000, Tulsa would remodel once again, this time removing the 3-Stage for a Studio C Alpha.
 
-In 2000s, Tulsa would receive the ; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
+In 2000s, Tulsa would receive the CEC 2005 Remodel (2005 Remodel); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
 
 In 2019-2020, Tulsa started their 2.0 Remodel. The stage was removed on 2020.
 
@@ -31,12 +31,12 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 !Removed
 !Notes
 |-
-|
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |September 1980
 |1991-1992
 |Original bots replaced in 1981.
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |2000
 |
@@ -46,7 +46,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |November 2022
 |Last Animatronic show in Tulsa
 |-
-| 
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) 
 |2020
 |Still in Use
 |2019 Model
@@ -154,7 +154,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |0??
 |Destroyed
 |-
-|[Parrot (Animatronic)]({{< ref "wiki/Parrot (Animatronic).md" >}})
+|Parrot (Animatronic)
 |N/A
 |Destroyed
 |-

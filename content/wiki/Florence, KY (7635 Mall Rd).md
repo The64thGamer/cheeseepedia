@@ -1,7 +1,7 @@
 +++
 title = "Florence, KY (7635 Mall Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-03-26T18:10:29Z
 
 [Article]

@@ -8,8 +8,8 @@ date = 2022-10-31T00:02:30Z
 contributors = ["EagleScout610","2600:4040:AD76:D00:9D3F:F911:AA41:4329","SuperCreamPiper2008"]
 gallery = []
 +++
-
-Rocky (Rascals) (Chuck E. Cheese Retrofit) is a retrofitted  cyberamic located at Enchanted Water Safari as part of the Rocky and the Ramblin' Rascals animatronic show. 
+[[File:Rocky (Rascals).jpg|thumb|Rocky in 2007]]
+Rocky (Rascals) (Chuck E. Cheese Retrofit) is a retrofitted Chuck E Cheese (Cyberamic) (Chuck E. Cheese) cyberamic located at Enchanted Water Safari as part of the Rocky and the Ramblin' Rascals animatronic show. 
 
 ## History ##
 The animatronic is believed to have come from the Rochester, Penfield location, which closed in 1996. The animatronic was installed in early 1997.

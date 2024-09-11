@@ -32,6 +32,6 @@ Due to lack of footage or photos of internals, movements can only be inferred. A
 File:dan_choo.jpg|At Americana Amusement Park
 File:dan_19842.png|CEI Warehouse (1984)
 File:dan_1984.png|Ditto
-File:WH_fd_bc.png|With 
+File:WH_fd_bc.png|With [Buddy Crash]({{< ref "wiki/Buddy Crash (Animatronic).md" >}})
 File:fdan2023.jpg|During move to the CEI museum (2023)
 </gallery>

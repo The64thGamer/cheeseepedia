@@ -22,11 +22,11 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Installed
 !Removed
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |May 1983
 |1991-1992
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |Still In Use
 |}

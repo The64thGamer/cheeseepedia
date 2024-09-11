@@ -26,14 +26,14 @@ This show ran from April 1997 to July 1997.
 TODO
 
 ##Show List##
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 1
+#[[File:New Graphic.png]]Segment 1
 ##Whoomp There It Is
 
 #Intermission 1
 ##Virtual Video
 ##'The Worry Song'
 
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 2
+#[[File:New Graphic.png]]Segment 2
 ##Don't Hurry To Worry
 
 #Intermission 2
@@ -41,7 +41,7 @@ TODO
 ##Website Promo
 ##Coke Spot
 
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 3
+#[[File:New Graphic.png]]Segment 3
 ##Car Wash
 
 #Intermission 3

@@ -1,19 +1,19 @@
 +++
 title = "Beaverton, OR (11753 SW Beaverton Hillsdale)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-07-26T18:03:07Z
 
 [Article]
 contributors = ["CorrectorMan","McNugget","The 64th Gamer"]
 gallery = []
 +++
-**_11753 SW Beaverton Hillsdale**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in October 1981 (day unknown) and closed in July 1985 (day unknown) with a . Basically no documentation exists, unlike the other Beaverton locations.
+**_11753 SW Beaverton Hillsdale**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in October 1981 (day unknown) and closed in July 1985 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Basically no documentation exists, unlike the other Beaverton locations.
 
-This location is not to be confused with the  or the  locations, which operated from 1990-2003 and 2003-Today respectively.
+This location is not to be confused with the [4445 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4445 SW 110th Ave).md" >}}) or the [4145 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4145 SW 110th Ave).md" >}}) locations, which operated from 1990-2003 and 2003-Today respectively.
 
 ## Stage ##
-Beaverton's only stage was the . However, any further documentation is unknown.
+Beaverton's only stage was the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). However, any further documentation is unknown.
 {| class='wikitable'
 |+
 !Stage
@@ -21,14 +21,14 @@ Beaverton's only stage was the . However, any further documentation is unknown.
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |October 1981
 |July 1985
 |First CEC in Oregon.
 |}
 
 ## History ##
-This location opened in October 1981 (day unknown) as the first Chuck E. Cheese in Oregon. As most other PTTs at the time, they had the . Unfortunately, basically no documentation exists on this location. The location closed permanently around July 1985 for unknown reasons, but likely due to it underperforming. As of July 2023, the location is now Trader Joe's.
+This location opened in October 1981 (day unknown) as the first Chuck E. Cheese in Oregon. As most other PTTs at the time, they had the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Unfortunately, basically no documentation exists on this location. The location closed permanently around July 1985 for unknown reasons, but likely due to it underperforming. As of July 2023, the location is now Trader Joe's.
 
 ## Animatronics ##
 TODO

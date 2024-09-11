@@ -1,14 +1,14 @@
 +++
 title = "Star Cast Member of the Month 2019 Pin"
 draft = false
-tags = []
+tags = ["Employee Wear"]
 date = 2021-12-04T01:59:21Z
 
 [Article]
 contributors = ["The 64th Gamer","Tux Chuck"]
 gallery = ["S-l1600"]
 +++
-The **_Star Cast Member of the Month 2019 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
+[[File:File:S-l1600 (32).jpg|thumb|301x301px|Front]]The **_Star Cast Member of the Month 2019 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
 ##Design##
 The design is a golden star with _Rockstar Chuck E._ raising his arms in triumph. The year is at the top in purple, while the title is printed onto a white box. The pin is metal, with a gold color. Various parts are painted. The text on the pin says:
 
@@ -21,4 +21,4 @@ File:S-l1600 (32).jpg.jpg|Front
 s-l1600 (34).jpg|Front
 S-l1600 (33).jpg|Back
 </gallery>
-[thumb]({{< ref "wiki/thumb.md" >}})
+thumb

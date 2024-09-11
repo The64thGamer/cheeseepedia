@@ -9,9 +9,9 @@ contributors = ["The 64th Gamer"]
 gallery = []
 +++
 ## Store Appearences ##
-Two stores are confirmed to have had this event, though it is not confirmed if they had previously had Klunk from , , , or .
+Two stores are confirmed to have had this event, though it is not confirmed if they had previously had Klunk from [The Amazing Uncle Klunk Traveling Show]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}), Santa On Stage Show 1983 (Event (Santa On Stage Show 1983), [Santa On Stage Show 1984]({{< ref "wiki/Santa On Stage Show 1984 (Event).md" >}}), or [Country Klunk]({{< ref "wiki/Country Klunk (Event).md" >}}).
 
-* [West Seneca, NY (3525 Seneca St)]({{< ref "wiki/West Seneca, NY (3525 Seneca St).md" >}})<ref name=':0'>https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54</ref>
-* [Amherst, NY (1551 Niagara Falls Blvd)]({{< ref "wiki/Amherst, NY (1551 Niagara Falls Blvd).md" >}})<ref name=':0' />
+* West Seneca, NY (3525 Seneca St)<ref name=':0'>https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54</ref>
+* Amherst, NY (1551 Niagara Falls Blvd)<ref name=':0' />
 
 ## References ##

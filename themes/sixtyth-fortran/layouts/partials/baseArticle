@@ -18,7 +18,7 @@
       {{- end -}}
       {{- if lt (add $index 1) $len }}, {{ end }}
     {{- end -}}  
-  </div>
+  
   <strong> | Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-
+  </div>
 {{ end }}

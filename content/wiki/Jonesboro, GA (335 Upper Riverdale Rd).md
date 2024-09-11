@@ -8,7 +8,7 @@ date = 2023-01-31T16:47:02Z
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]
 gallery = []
 +++
-**Jonesboro, GA (335 Upper Riverdale Rd)** is a Chuck E. Cheese location, it opened in 1990 with a [Road Stage]({{< ref "wiki/Road Stage.md" >}}).
+**Jonesboro, GA (335 Upper Riverdale Rd)** is a Chuck E. Cheese location, it opened in 1990 with a Road Stage.
 
 ## History ##
 In 1998, the stage was converted from a Road Stage to a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).

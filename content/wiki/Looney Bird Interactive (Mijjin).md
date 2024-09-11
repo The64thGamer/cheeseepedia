@@ -20,7 +20,7 @@ It is unknown where CEI sourced the mech for the bot used on the Marvelously Int
 The backup Looney Bird uses a Lite stage Billy Bob mech
 
 ## Design ##
-This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the  in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
+This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
 
 ## Movements ##
 All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.

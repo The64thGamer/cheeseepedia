@@ -13,7 +13,7 @@ gallery = []
 The Antoine Drive Showbiz Pizza Place opened on July 15th 1981, and closed its doors on September 2006 as a Chuck E. Cheese's. 
 
 ## Stage History ##
-The store opened with the Rock Afire Explosion on July 15, 1981, then started  around 1991 which began the process of converting the Rock Afire Explosion to the 3-stage. They would remain like this until September 2006.
+The store opened with the Rock Afire Explosion on July 15, 1981, then started [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) around 1991 which began the process of converting the Rock Afire Explosion to the 3-stage. They would remain like this until September 2006.
 
 ## History ##
 The Antoine Drive Showbiz Pizza Place opened up July 15, 1981 opening in the White Oak Bayou Village Shopping Mall as a Showbiz Pizza. Between 1988 and 1991 when the store would remodel gaining the checkered patterns on the walls, oil paintings and removing much of the Showbiz aesthetic scheme.  

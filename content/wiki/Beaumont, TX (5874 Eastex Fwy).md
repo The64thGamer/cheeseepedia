@@ -1,16 +1,16 @@
 +++
 title = "Beaumont, TX (5874 Eastex Fwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-09T19:55:40Z
 
 [Article]
 contributors = ["Blowseborg062","The 64th Gamer"]
 gallery = []
 +++
-**_5874 Eastex Fwy**_ was a _Pizza Time Theatre_ was a _Pizza Time Theatre_ that opened in 1982 (Month & Day Unknown) & Closed in 1985 (Month & Day Unknown) with a . The store was located in the North Park Plaza.
+**_5874 Eastex Fwy**_ was a _Pizza Time Theatre_ was a _Pizza Time Theatre_ that opened in 1982 (Month & Day Unknown) & Closed in 1985 (Month & Day Unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). The store was located in the North Park Plaza.
 
-This location is not to be confused with the current _Chuck E. Cheese_ location on  which got removed in November 2019 for a , that store still operates to this day.
+This location is not to be confused with the current _Chuck E. Cheese_ location on [Beaumont, TX (4180 Dowlen Rd)]({{< ref "wiki/Beaumont, TX (4180 Dowlen Rd).md" >}}) that opened on June 20th, 2001 with a Studio C 2000 (Studio C 2000, 32m) which got removed in November 2019 for a Chuck E. Live Stage (Dance Floor) (2019 Model Dance Floor), that store still operates to this day.
 
 ## History ##
 Beaumont opened with either Harmony Howlette or Madame Oink; it's unknown if they had any cabaret or lounge characters as there's very little or no documentation of this location. Beaumont would later get Helen until the store's closure. 
@@ -24,7 +24,7 @@ After Beaumont closed in 1985, it's unknown what happened with the store's anima
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |1982
 |1985
 |Whereabouts of Animatronics Unknown.
@@ -44,7 +44,7 @@ After Beaumont closed in 1985, it's unknown what happened with the store's anima
 |1981/1982
 |Unknown.
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1981/1982
 |Unknown.
 |-
@@ -60,7 +60,7 @@ After Beaumont closed in 1985, it's unknown what happened with the store's anima
 |1981/1982
 |Unknown.
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |1981/1982
 |Unknown.
 |-

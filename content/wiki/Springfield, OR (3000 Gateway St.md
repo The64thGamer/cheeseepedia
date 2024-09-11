@@ -11,12 +11,12 @@ gallery = []
 {{Generic|image=SpringfieldOR.jpg|desc=Exterior in September 2011. (PC: Google Maps)}}
 
 
-**_3000 Gateway Street #540**_ was a _Chuck E. Cheese_ that opened sometime in 2007 with a , and closed on September 15, 2014. It was located adjacent to Gateway Mall. 
+**_3000 Gateway Street #540**_ was a _Chuck E. Cheese_ that opened sometime in 2007 with a Studio C 2000 (Studio C Beta, 16m), and closed on September 15, 2014. It was located adjacent to Gateway Mall. 
 
 ## History ##
 
 ### CEC Era (2007-2014) ###
-Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the , which wore the Avenger outfit. Springfield, OR opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and has had them for it's entire existance.
+Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. This store's stage was Studio C 2000 (Studio C Beta, 16m), which wore the Avenger outfit. Springfield, OR opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and has had them for it's entire existance.
 
 On September 15, 2014, the store would be permanently closed. It was likely due to the mall's renovation plans that was scheduled to take place that following year. It is unknown what happened to the animatronics at the previous location.
 

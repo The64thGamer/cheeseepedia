@@ -17,16 +17,16 @@ gallery = []
 
 The show and stage would debut at an unknown Texas store. The characters were rebranded from the Rock-afire Explosion to a band simply called 'Magic'. Character names and Rock-afire shows were still used for the showtape however. 
 
-, , and  would be absent from the show due to them being taken off stage, though most likely their show signals were still being sent due to the re-use of older programming, as seen in other similar instances to removed characters.<ref>https://youtu.be/x9438Sw6fjo</ref>
+[Sun]({{< ref "wiki/Sun (Animatronic).md" >}}), [Moon]({{< ref "wiki/Moon (Animatronic).md" >}}), and Anitoch (Animatronic) (Antioch) would be absent from the show due to them being taken off stage, though most likely their show signals were still being sent due to the re-use of older programming, as seen in other similar instances to removed characters.<ref>https://youtu.be/x9438Sw6fjo</ref>
 ##Summary##
 <tabber>
 |-|Segment List=
 Notably this tape essentially loops its main segments twice, with every other loop containing a Rolfe & Earl skit.
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 1**
+#**[[File:New Graphic.png]]Segment 1**
 ##Pre-Show Skit
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 2**
+#**[[File:New Graphic.png]]Segment 2**
 ##Show Announcement
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 3**
+#**[[File:New Graphic.png]]Segment 3**
 ##???
 #**[[File:New Graphic.png]]Segment 4**
 ##???

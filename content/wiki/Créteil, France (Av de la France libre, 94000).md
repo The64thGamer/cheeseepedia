@@ -23,7 +23,7 @@ This store opened with a Balcony Stage, as all other Pizza Time Theatres did. It
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Unknown
 |-

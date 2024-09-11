@@ -8,12 +8,12 @@ date = 2022-09-13T14:00:14Z
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005"]
 gallery = []
 +++
-**26562 Towne Centre Dr** was a , which is still open to this day
+**26562 Towne Centre Dr** was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on May 30, 2003 with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day
 
 This location received the 2.0 remodel in 2018.
 
 ## Stages ##
-Originally, the store opened with a , they were the 4th location to open with a 16m Beta. they would have this for a couple years, until around 2018 or 2019, when they would undergo the 2.0 remodel, they would remove the stage and replace with the 2017 Model of the . As of September 2022, they still have this remodel.
+Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), they were the 4th location to open with a 16m Beta. they would have this for a couple years, until around 2018 or 2019, when they would undergo the 2.0 remodel, they would remove the stage and replace with the 2017 Model of the Chuck E. Live Stage (Dance Floor) (Dance Floor). As of September 2022, they still have this remodel.
 {| class='wikitable'
 |+
 !Stage
@@ -21,12 +21,12 @@ Originally, the store opened with a , they were the 4th location to open with a 
 !Removed
 !Notes
 |-
-|
+|[Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}})
 |May 2003
 |2018 or 2019
 |4th location to open with 16m Beta
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |2018 or 2019
 |Still In Use
 |2017 Model
@@ -39,7 +39,7 @@ Originally, the store opened with a , they were the 4th location to open with a 
 !Serial Number
 !Whereabouts
 |-
-|
+|Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m (Studio C))
 |Unknown
 |Unknown
 |}

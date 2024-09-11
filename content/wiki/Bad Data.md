@@ -8,7 +8,7 @@ date = 2022-01-07T23:11:58Z
 contributors = ["The 64th Gamer","Frosty126"]
 gallery = []
 +++
-
+[[File:Bad data.png|thumb|325x325px|'BAD DATA' written on a bunch of showtape segments.]]
 **_Bad Data**_ was a term used by _Creative Engineering_ for segments that did not copy programming signals correctly when compiling them all into the tape. 
 
 These can be seen mostly on lists for the segments of 90's showtapes. _Bad Data_ would sometimes describe a whole segment being faulty, while other times describing noticeable defects that could effect the show, such as curtains not working as intended. Outside of _Bad Data_, other defects with the audio and video would occur, which were usually fixed with the same solutions.

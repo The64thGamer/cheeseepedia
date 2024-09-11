@@ -10,7 +10,7 @@ gallery = []
 +++
 **10007 North Nevada Street** is a Chuck E. Cheese that opened in March 2000 with a Studio C Alpha, which is still open to this day.
 
-It is located across from the Northpointe Plaza Shopping Mall and is also the relocation of  which opened on April 14th, 1983 with a Balcony Stage and relocated in March 2000 with a 2-Stage.
+It is located across from the Northpointe Plaza Shopping Mall and is also the relocation of [the original Spokane location]({{< ref "wiki/Spokane, WA (2301 W Wellesley Ave).md" >}}) which opened on April 14th, 1983 with a Balcony Stage and relocated in March 2000 with a 2-Stage.
 
 It is known as the last Chuck E. Cheese to still use the PTT decor as evident by the 80's Chuck E. on an octagonal glass frame which was brought over from the original Spokane location.
 ##History##

@@ -10,7 +10,7 @@ gallery = []
 +++
 **_1235 E Belt Line Rd**_ was a _Showbiz Pizza Place/Chuck E. Cheese_ located which opened on April 29, 1982 with a Rock-Afire Explosion and closed in November 2006 (day unknown).
 
-This is not to be confused with the [Richardson, TX (525 W Arapaho Rd)]({{< ref "wiki/Richardson, TX (525 W Arapaho Rd).md" >}}) Pizza Time Theatre which opened in October 1981 and closed in 1983.
+This is not to be confused with the Richardson, TX (525 W Arapaho Rd) Pizza Time Theatre which opened in October 1981 and closed in 1983.
 ##History##
 Richardson opened its doors on April 29th, 1982 with a Rock-Afire Explosion and was originally and formerly a corporate owned store. This store was known as being the only Showbiz Pizza to be open next to a McDonald's. They would receive the 1988 remodel in the Late 80's removing old SPP decor, adding new decor, and changing Billy Bob's stage backdrop for the 'Showbiz Pizza Campground' backdrop. In 1991, Richardson would undergo Concept Unification which removed the Rock-Afire Explosion for the 3-Stage. In the mid 90's, Richardson would remodel again, getting an exterior remodel, removing old CU decor for newer ones, and new booths. In the Late 90's they would receive the Phase 3 remodel removing the older decor, adding newer decor, removing old booths and games for newer ones, and SkyTubes. They would remain like this until their closure in November 2006. After they closed, they were abandoned for a short time until they were immediately taken over by a 'plaza', a beauty salon, and a car wash. Currently, as of February 2023, the 'plaza', beauty salon, and car wash are still there.
 ##Stages##

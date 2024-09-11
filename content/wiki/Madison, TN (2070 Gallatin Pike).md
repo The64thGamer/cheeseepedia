@@ -8,10 +8,10 @@ date = 2022-07-15T23:11:42Z
 contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","47.17.236.200","9Lol92","CoolerDude"]
 gallery = []
 +++
-
+[[File:Madisonexterior.jpg|thumb|Madison, TN Chuck E. Cheese's exterior as of June 2022.]]
 **2070 Gallatin Pike** is a _Chuck E. Cheese's_ that opened on June 15, 1982 with a Rock-afire Explosion show.
 
-This store would have a strange layout, with a very deep balcony. This store would be one of the last stores to have [pizzacam]({{< ref "wiki/pizzacam.md" >}}) and a colored wink until the 3 stage would be ultimately removed in May of 2022 for the 2.0 remodel. This store is still open to this day as of this article being published.
+This store would have a strange layout, with a very deep balcony. This store would be one of the last stores to have pizzacam and a colored wink until the 3 stage would be ultimately removed in May of 2022 for the 2.0 remodel. This store is still open to this day as of this article being published.
 
 ## Stage ##
 This store opened on June 15th, 1982 with a Rock-afire Explosion, then in 1991(?), the stage was converted through Concept Unification to the 3-stage. The 3-stage would receive over time, the colored wink, and cardboard bricks for [Pasqually]({{< ref "wiki/Pasqually.md" >}}) to sit on. from the Roebuck, Alabama Chuck E. Chesse's. The 3-stage would be maintained well over the years, up until early 2020, where the original technician for the show would leave. This left the show in a limbo state, where they were barely being maintained by someone who wasn't properly experienced. Some examples of the disrepair include: At least one eyelid being broken/missing on every character, Helen's Middle Boa getting lose, which allowed someone to rip off the middle of it, Chuck E's left arm being extremely loose, the prop characters being aired down a lot of the time, Munch being aired down during the stage's final weeks, the colored wink getting juice sprayed on it by a kid, and it never being properly cleaned, Jasper's left shoe being strapped on with orange tape, Jasper, Chuck, Munch, and Helen's mouth not working near the final weeks of the show, Helen's spotlight burning out, and much, much more. The stage would be gutted in May of 2022, to make way for a new Video Wall, and Dance Floor, as a part of the 2.0 remodels.

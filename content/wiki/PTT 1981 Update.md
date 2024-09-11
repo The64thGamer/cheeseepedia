@@ -9,7 +9,7 @@ contributors = ["BurgersNuggs445","Cy's Junk at School","Cheeseclassic"]
 gallery = []
 +++
 The Signage Update for Pizza Time Theatre in 1981.
-
+[[File:1981 PTT.png|thumb|389x389px]]
 
 ## History ##
 In May 1981 It is announced that PTT would be updating all Trademarks. Along with announcing that San Francisco based, S&O Consultants<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf</ref> would be redesigning their logos, exteriors, décor, and signage. 

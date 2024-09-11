@@ -8,7 +8,7 @@ date = 2021-12-09T08:48:51Z
 contributors = ["The 64th Gamer","Nebbytales","Documentor","ShowbizMidwest"]
 gallery = []
 +++
-The **_Rock-afire Serial Tag**_ is a metal tag with a serial code placed on all Rock-afire Explosion animatronics and electronics, which gives info on the piece and when it was produced. 
+[[File:Cei tag.jpg|thumb|357x357px|Creative Engineering Serial Tag]]The **_Rock-afire Serial Tag**_ is a metal tag with a serial code placed on all Rock-afire Explosion animatronics and electronics, which gives info on the piece and when it was produced. 
 
 These tags are usually placed at the hips or near the feet of most animatronics. Fatz's keyboard has it placed on the back of the right leg. Beach Bear and Dook's tag is on the bottom frame base.
 

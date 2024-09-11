@@ -1,7 +1,7 @@
 +++
 title = "Merced, CA (721 W Olive Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-19T23:01:38Z
 
 [Article]
@@ -12,7 +12,7 @@ gallery = []
 **_721 W Olive Ave**_ was a _Pizza Time Theatre_/_Chuck E. Cheese's Pizza_ that opened on April 18th, 1983 and closed in 1995 on an unknown date.
 
 ## History ##
-Merced would open on April 18th, 1983 with Madame Oink. They would later get Helen Henny. It's unknown if Merced had a Lounge act as there's videos and little amount of photos of Merced as a Pizza Time Theatre. The store would then convert the Balcony Stage into Chuck E.'s House Facade. In around April 1992, the store would convert the Chuck E.'s House Facade into the 3rd ever installed 2-Stage which was interestingly a unique Prototype. Not long after, the store was featured in the CEC cast member highlight reel alongside 8 other locations (Merced was one of three in California to be featured in these highlights). This is one of two locations that had Chuck's Red Base (The only other 2-Stage to have it was the  location which closed in December 2005 with their 2-Stage). Sometime in 1995, Merced would close their doors. The show was put in storage for a while until it was sent to the [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}){< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) location where it still operates to this day. Sometime after the store's closure, the building would be replaced with Hometown Buffet which is now closed. In 2022, that building was demolished for Oliver Garden which would open sometime in Early-Mid 2023. As of June 2023, Olive Garden still operates on the site.
+Merced would open on April 18th, 1983 with Madame Oink. They would later get Helen Henny. It's unknown if Merced had a Lounge act as there's videos and little amount of photos of Merced as a Pizza Time Theatre. The store would then convert the Balcony Stage into Chuck E.'s House Facade. In around April 1992, the store would convert the Chuck E.'s House Facade into the 3rd ever installed 2-Stage which was interestingly a unique Prototype. Not long after, the store was featured in the CEC cast member highlight reel alongside 8 other locations (Merced was one of three in California to be featured in these highlights). This is one of two locations that had Chuck's Red Base (The only other 2-Stage to have it was the San Antonio, TX (Walzem / Windcrest) (8220 Windsor Cross) (Windsor Cross) location which closed in December 2005 with their 2-Stage). Sometime in 1995, Merced would close their doors. The show was put in storage for a while until it was sent to the [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) location where it still operates to this day. Sometime after the store's closure, the building would be replaced with Hometown Buffet which is now closed. In 2022, that building was demolished for Oliver Garden which would open sometime in Early-Mid 2023. As of June 2023, Olive Garden still operates on the site.
 
 ## Stages ##
 {| class='wikitable'
@@ -21,7 +21,7 @@ Merced would open on April 18th, 1983 with Madame Oink. They would later get Hel
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |April 1983
 |1989
 |One of many installed in California. 
@@ -43,31 +43,31 @@ Merced would open on April 18th, 1983 with Madame Oink. They would later get Hel
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1982/1983
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |1982/1983
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1982/1983
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1982/1983
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1982/1983
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |-
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |1982/1983
 |Unknown.
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |1982/1983
 |Unknown.
 |-
@@ -83,9 +83,9 @@ Merced would open on April 18th, 1983 with Madame Oink. They would later get Hel
 |1982/1983
 |Unknown.
 |-
-|
+|[Wink (Cyberamic)]({{< ref "wiki/Wink.md" >}})
 |1992
-|Sent to .
+|Sent to [Chesapeake]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}).
 |}
 
 ## Videos ##
@@ -95,6 +95,6 @@ Merced would open on April 18th, 1983 with Madame Oink. They would later get Hel
 !Filming Date
 |-
 |https://youtu.be/mqkHGgMxIKQ?t=94
-|The only known footage of Merced in a brief clip from a CEC cast member highlight reel (The store was featured alongside , , , , , & ) . This footage shows the 2-Stage sometime after conversion from a C-Stage (Chuck E.'s House Facade) featuring no curtains.
+|The only known footage of Merced in a brief clip from a CEC cast member highlight reel (The store was featured alongside [Wilmington, NC]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}), [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}), [Albuquerque, NM (4418 Wyoming Blvd)]({{< ref "wiki/Albuquerque, NM (4418 Wyoming Blvd).md" >}}), [Mesa, AZ (856 S Alma School Rd)]({{< ref "wiki/Mesa, AZ (856 S Alma School Rd).md" >}}), [Dothan]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}}), [Harrisburg]({{< ref "wiki/Harrisburg, PA (3883 Union Deposit Rd).md" >}}), [Erie]({{< ref "wiki/Erie, PA (7200 Peach St).md" >}}), [Tallahassee]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}), & [Tracy]({{< ref "wiki/Tracy, CA (775 W Clover Rd).md" >}})) . This footage shows the 2-Stage sometime after conversion from a C-Stage (Chuck E.'s House Facade) featuring no curtains.
 |Mid 1992
 |}

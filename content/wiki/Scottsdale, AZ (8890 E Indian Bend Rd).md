@@ -8,7 +8,7 @@ date = 2023-07-12T04:59:54Z
 contributors = ["Chuckstar69","2600:4040:5A0E:D900:6500:272E:6953:1FCD","GabrielPennington9864","CorrectorMan","Midwestretail","Chuck E Cheese Fan2003"]
 gallery = []
 +++
-
+[[File:Scottdale sometime in 2000s.png|thumb|Scottsdale Chcuk E. Cheese at some date in the 2000s.]]
  **_8890 E Indian Bend Rd Scottsdale, AZ #85250**_ was a Chuck E. Cheese loacted in Scottsdale, Arizona.
 
 This location opened up as a Chuck E. Cheese in September 1999 and closed in Fall 2009.
@@ -47,7 +47,7 @@ All good things must come to a end when Scottsdale closed in fall 2009 having A 
 |053
 |Originally was at Goodyear AZ before getting 2.0
 |-
-|[Parrot (Animatronic)]({{< ref "wiki/Parrot (Animatronic).md" >}})
+|Parrot (Animatronic)
 |N/A
 |In store.
 |-

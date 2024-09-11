@@ -12,10 +12,10 @@ gallery = ["PanamaCityFLCECExteriorBeforeClosureHQ2.jpg","PanamaCityFLCEC1.jpg",
 **_Panama City, FL (4432 US-98)**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened in May 1986 (day not found yet) and closed in Spring 2007.
 
 ##Stages##
-When this store first opened, it featured a  stage, as all Showbiz locations did. The stage would undergo Concept Unification in 1992. Not much information is known about it's stage, but the condition of the stage had deteriorated by 2006 and was like this up until the store's closure. It is notable this location had kept it's Munch. Jr animatronic and the white carpet throughout the store's entire lifespan.
+When this store first opened, it featured a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage, as all Showbiz locations did. The stage would undergo Concept Unification in 1992. Not much information is known about it's stage, but the condition of the stage had deteriorated by 2006 and was like this up until the store's closure. It is notable this location had kept it's Munch. Jr animatronic and the white carpet throughout the store's entire lifespan.
 
 ##History##
-This location held its grand opening as a Showbiz Pizza Place in May 1986 as the last Showbiz Pizza Place in Florida, featuring the  stage as other Showbiz locations had.
+This location held its grand opening as a Showbiz Pizza Place in May 1986 as the last Showbiz Pizza Place in Florida, featuring the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage as other Showbiz locations had.
 
 Around 1992, this location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and would receive a couple remodels as the years went by.
 
@@ -33,7 +33,7 @@ In 2009, the site of this place would be demolished for a hotel, being complete 
 !Filming Date
 |-
 |https://youtu.be/qAIxKRmBNG8?t=487
-|(Begins at 8:07) Footage of the store's arcade and  stage.
+|(Begins at 8:07) Footage of the store's arcade and [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage.
 |August 1990
 |-
 |https://youtu.be/OFxqkdeSCuA
@@ -41,7 +41,7 @@ In 2009, the site of this place would be demolished for a hotel, being complete 
 |April 9th, 2007
 |-
 |https://youtu.be/NQSBqGwE_9k
-|A kid playing [Chuck E. Cheese's Ripper Ribbit]({{< ref "wiki/Chuck E Cheese's Ripper Ribbit.md" >}}) at this store.
+|A kid playing Chuck E. Cheese's Ripper Ribbit at this store.
 |April 8th, 2007
 |-
 |https://youtu.be/AZftLUYHtZc
@@ -82,47 +82,47 @@ File:PanamaCityFLCEC10.jpg
 !Serial
 !Whereabouts
 |-
-|
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Pasqually the Chef / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[PizzaCam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown
 |-

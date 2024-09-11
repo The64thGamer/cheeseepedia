@@ -22,7 +22,7 @@ Starting October 7th of 2023, the [https://www.roblox.com/games/13743608986/FREE
 To spin the wheel, users must play the game to earn an exclusive currency for the event: Red Tickets. Red tickets are found by destroying Guitar Smashables found throughout the game world. These new Smashables are CEC branded piñatas in the shape of a guitar. As the player levels up, they will be able to destroy the piñatas faster, alongside being able to traverse the game world faster to find them. Users could also obtain Red Tickets by joining the game's Roblox Group during the weekend of October 7-8. This would give them 15,000 tickets, equivalent to 2-3 hours of grinding tickets in-game.
 
 ####Wheel Spinning####
-
+[[File:WheelSpinningPinataSmashlings.png|thumb|300x300px|The Fun Fair wheel during the first event (October 7, 2023)]]
 The wheel takes 500 Red Tickets to spin, and has 10 different prizes.
 
 *Pasqually Piñata Smashling
@@ -38,7 +38,7 @@ The wheel takes 500 Red Tickets to spin, and has 10 different prizes.
 *Free UGC item #2
 
 The wheel is rigged with unknown weights to give each prize a different rarity. Jasper and Pasqually are considered 'Common', Munch is considered 'Uncommon', Helen is considered 'Rare', Chuck E. is considered 'Legendary', and Bella is considered 'Epic'. From in-game play, it seems the Candy Currency is also commonly won, and the UGC items are around the Legendary to Epic range in rarity.
-
+[[File:Weekendugcrunoutsmashlings.png|thumb|The Chuck E. Smashling running out of stock at 10:56am (October 8, 2023)]]
 
 ####Weekend UGC Items####
 Through every weekend from October 7 to December 31, two different Limited UGC items are placed on the wheel. Each UGC item only has 1,500 in stock, and are trade locked for 30 days before they can be sold in the Roblox economy. If its only the first day of the weekend, or if a UGC item has run out on the wheel, the user won't be able to roll the empty space.

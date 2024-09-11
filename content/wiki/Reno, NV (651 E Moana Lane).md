@@ -1,7 +1,7 @@
 +++
 title = "Reno, NV (651 E Moana Lane)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-21T00:47:46Z
 
 [Article]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Generic|image=Zapp's Jan 2022.png|desc=Location after closing, January 2022}}
 
-**_Reno, NV (651 E Moana Lane)**_ was a _Pizza Time Theatre_ that opened in December of 1982 with a Balcony Stage, which closed in 1983 before being reopened as a PTT-owned [Zapp's Bar & Grill]({{< ref "wiki/Zapp's Bar & Grill.md" >}}) restaurant in 1983 and lasting to 1986-1987.
+**_Reno, NV (651 E Moana Lane)**_ was a _Pizza Time Theatre_ that opened in December of 1982 with a Balcony Stage, which closed in 1983 before being reopened as a PTT-owned Zapp's Bar & Grill restaurant in 1983 and lasting to 1986-1987.
 
 ##History##
 
@@ -21,7 +21,7 @@ On May 6th, 1986, Zapp's would host the _Fashion Auction Show_ in collaboration 
 !Animatronic
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})

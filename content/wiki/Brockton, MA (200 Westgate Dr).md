@@ -13,7 +13,7 @@ gallery = []
 ## History ##
 
 ### CEC (Spring 1993-April 2003) ###
-Brockton opened in Spring 1993 (Date Unknown) in the Westgate Mall (Brockton) with a 2-Stage (One of five in Massachusetts). They would be one of the last locations to open with the 1988 Remodel as locations opening after it would receive the 1993 Update to the  in the Mid 1990's with the removal of elements from the 1988 remodel such as the The Blue & White Awnings, checkers around the store, & neon lights. This also changed the logo on the exterior and replacing the small red awnings with larger Red and Yellow ones. The store would then permanently close sometime in April 2003 (Day Unknown) after 9-10 years of operation. 
+Brockton opened in Spring 1993 (Date Unknown) in the Westgate Mall (Brockton) with a 2-Stage (One of five in Massachusetts). They would be one of the last locations to open with the 1988 Remodel as locations opening after it would receive the 1993 Update to the 1994 SPT Repositioning / Remodel Program. The store would receive [it's one and only remodel]({{< ref "wiki/Phase 1 (1994).md" >}}) in the Mid 1990's with the removal of elements from the 1988 remodel such as the The Blue & White Awnings, checkers around the store, & neon lights. This also changed the logo on the exterior and replacing the small red awnings with larger Red and Yellow ones. The store would then permanently close sometime in April 2003 (Day Unknown) after 9-10 years of operation. 
 
 ### Post CEC (Spring 2003-Present) ###
 After it's closure as CEC, it would then become part of a Best Buy store which opened not long after the CEC's closure. Best Buy would remain open until February 27th, 2021 when it would be permanently closed. in Mid May 2021, the store would be reopened as Best Buy outlet. As of March 2023, the space is still Best Buy Outlet.
@@ -37,11 +37,11 @@ After it's closure as CEC, it would then become part of a Best Buy store which o
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1992-1993
 |Unknown/Destroyed
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1992-1993
 |Unknown/Destroyed
 |-

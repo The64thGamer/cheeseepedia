@@ -84,4 +84,5 @@ This location opened with the Rock Afire Explosion 3 stage. it is unknown what h
 At the moment no videos seem to exist.
 
 ## Gallery ##
-
+[[File:Showroom reading.png|thumb|A photo of where the showroom used to be]]
+[[File:Showroomangle2.png|thumb|The showroom at another angle]]

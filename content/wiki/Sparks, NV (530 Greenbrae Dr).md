@@ -1,7 +1,7 @@
 +++
 title = "Sparks, NV (530 Greenbrae Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-04-29T23:49:15Z
 
 [Article]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Stub}}
 
-**_530 Greenbrae Dr**_ was a _Pizza Time Theatre_ that opened on December 20th, 1979 <ref>https://showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf</ref> with a , which closed in 1984.
+**_530 Greenbrae Dr**_ was a _Pizza Time Theatre_ that opened on December 20th, 1979 <ref>https://showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf</ref> with a Cyberamics Portrait Stage (Portrait Stage), which closed in 1984.
 
 The store was the first franchised PTT, and the first PTT outside of California.
 ##History##
@@ -26,7 +26,7 @@ TODO
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown 
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -38,7 +38,7 @@ TODO
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |-
 |[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})

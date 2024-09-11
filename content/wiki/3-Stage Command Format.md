@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","Ls2018-1"]
 gallery = []
 +++
 ##Post-93 Bit Shift##
-In May of 1993, starting with the  EPROM chips to read the shifted data. This would be done to invalidate all previous shows from being played.
+In May of 1993, starting with the [Best of CEC TV 1993]({{< ref "wiki/Best of CEC TV 1993.md" >}}) showtape, the data placed on the tape would be shifted alongside updating the [Cyberamic Control System's]({{< ref "wiki/Cyberamic Control System.md" >}}) EPROM chips to read the shifted data. This would be done to invalidate all previous shows from being played.
 
 The format for this shift was applying an XOR mask to the second byte of the movement controls, being XOR 0x1F. This is the same operation for converting pre-93 signals to post-93, and decoding post-93 signals back.
  Example:

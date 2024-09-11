@@ -8,7 +8,7 @@ date = 2023-01-23T05:09:08Z
 contributors = ["RedaCEC","173.216.33.6","64.125.60.2","CEC Tinley","SuperCreamPiper2008","CoolerDude","The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++
-
+[[File:Overland Park.png|thumb| () (PC: ??)]]
 **_10510 Metcalf Lane**_ was a _Showbiz Pizza Place_ restaurant located in Overland Park, Kansas.
 
 ## History ##
@@ -23,7 +23,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 !Removed
 !Notes
 |-
-|
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |December 1980
 |1985-1986
 |

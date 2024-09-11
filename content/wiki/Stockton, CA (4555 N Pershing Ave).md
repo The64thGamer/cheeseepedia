@@ -1,7 +1,7 @@
 +++
 title = "Stockton, CA (4555 N Pershing Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-12T22:18:27Z
 
 [Article]

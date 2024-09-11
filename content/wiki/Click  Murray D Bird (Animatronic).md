@@ -10,11 +10,11 @@ gallery = ["4b0a08915cbceab3202acedf0b262ad45d933cdcv2","3937e398b779f1e0be8859c
 +++
 {{Animatronic|image=MurrayDbirdThumbnail.png|unitsProduced=40|releasedate=July 14, 1983|finalrelease=July 14, 1983|manufacturer=Creative Engineering}}
 
-**_Click**_ (AKA **_Murray D. Bird**_) was an animatronic produced for  event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
+**_Click**_ (AKA **_Murray D. Bird**_) was an animatronic produced for [The Amazing Uncle Klunk Traveling Show]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}) event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
 
-The animatronic is a large cuckoo clock with Click (Murray D. Bird) on the inside. The clock is intended to be hung up on the Stage Right wall on  left, with the doors being roughly at the same height as Klunk's head.
+The animatronic is a large cuckoo clock with Click (Murray D. Bird) on the inside. The clock is intended to be hung up on the Stage Right wall on [Uncle Klunk's]({{< ref "wiki/Uncle Klunk (Animatronic).md" >}}) left, with the doors being roughly at the same height as Klunk's head.
 ##History##
-Click seems to have been a late addition to , as the  footage of Klunk from early 1983 doesn't have Click on the stage. 
+Click seems to have been a late addition to [The Amazing Uncle Klunk Traveling Show]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}), as the [Save The Colander Telethon]({{< ref "wiki/Save The Colander Telethon (1983).md" >}}) footage of Klunk from early 1983 doesn't have Click on the stage. 
 
 ###Prototype###
 An early version of the bird portion of the animatronic was found in the 2010's. This version lacks a mouth movement, meaning possibly Click was not originally meant to speak- or that he was originally deemed too small to need a mouth movement. On the inside of the animatronic 'This is NOT a standard' is written on the latex, meaning it could have also been a visual prototype that was not meant for any production units.<ref name=':0'>https://youtu.be/-ggn55SEbSU</ref>
@@ -45,7 +45,7 @@ Despite the perceived thin appearance of the bird from expected angles, the inne
 ###Prototype Design###
 The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.<ref name=':0' />
 ##Movements##
-The clock has one continuous movement of the handles going in opposite directions when plugged in. This isn't affected by any [data]({{< ref "wiki/data.md" >}}) signals.
+The clock has one continuous movement of the handles going in opposite directions when plugged in. This isn't affected by any data signals.
 
 It is currently unknown which bits are exactly used for Click's movements. It has been deduced that both are the Top Drawer bits 20 and 36 (1 indexed), but it is unknown which is which.
 

@@ -8,8 +8,8 @@ date = 2023-07-13T01:19:27Z
 contributors = ["CorrectorMan","Chucke.show","Chuckstar69","The 64th Gamer","CEC Tinley","ThatBoiCydalan","Cheeseclassic","PachCEC","AstridMascotFan2005","Cy's Junk at School","Documentor","BenTrainFan2000","Cecnj98","StudioA"]
 gallery = []
 +++
-
-**_600 Promenade Blvd**_ is a Chuck E. Cheese's that opened on February 7, 2000 with a  and is still open today with the stage. This location is known for having the last Interactive Console in existence, as all others have been removed.
+[[File:Bridgewater.jpg|thumb|Bridgewater's exterior as of today. (PC: flickr.com)]]
+**_600 Promenade Blvd**_ is a Chuck E. Cheese's that opened on February 7, 2000 with a Studio C (1997) (Studio C Alpha) and is still open today with the stage. This location is known for having the last Interactive Console in existence, as all others have been removed.
 
 ## Stages ##
 Bridgewater opened with a Studio C Alpha, like all other locations at the time. However, when they received the Ticket Blaster in 2010, the Interactive Console remains behind, although as of today, it has a lot of broken features.
@@ -27,7 +27,7 @@ Bridgewater opened with a Studio C Alpha, like all other locations at the time. 
 |}
 
 ## History ##
-On February 7, 2000, Bridgewater's Chuck E. Cheese's opened to the public. It originally had , which included late 90s decor, . Unfortunately, information on Bridgewater as a 1990s styled store is scarce. In the late 2000s, they received the (interior only) 2003 update to the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}), which involved removing all 90s decor for new decor, removing the showroom walls, painting many walls purple, and slightly changed the counters. Around 2015-2017, the Phase 3 exterior was switched out for a 2015 exterior, which included purple awnings and a Rockstar Chuck logo. The Skytubes were removed not long after as well. As of July 2023, Bridgewater remains operational.
+On February 7, 2000, Bridgewater's Chuck E. Cheese's opened to the public. It originally had [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}), which included late 90s decor, [Skytubes]({{< ref "wiki/Skytubes.md" >}}), and the Studio C (1997) (Studio C Alpha). Unfortunately, information on Bridgewater as a 1990s styled store is scarce. In the late 2000s, they received the (interior only) 2003 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor for new decor, removing the showroom walls, painting many walls purple, and slightly changed the counters. Around 2015-2017, the Phase 3 exterior was switched out for a 2015 exterior, which included purple awnings and a Rockstar Chuck logo. The Skytubes were removed not long after as well. As of July 2023, Bridgewater remains operational.
 
 ## Animatronics ##
 {| class='wikitable'

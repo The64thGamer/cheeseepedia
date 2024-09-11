@@ -1,7 +1,7 @@
 +++
 title = "Phoenix, AZ (4310 W Thomas Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-20T01:54:59Z
 
 [Article]

@@ -8,7 +8,7 @@ date = 2023-07-12T02:17:10Z
 contributors = ["CorrectorMan","47.17.236.200","Caydenpedia","The 64th Gamer","Signal08","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:New bossier city.jpg|thumb|The location not long after opening. (PC: Google Maps)]]
 {{Stub}}
 **_2515 Viking Dr**_ is a Chuck E. Cheese's that opened in May 2013 (day unknown) and is still open today with a Circles of Light, 16M.
 
@@ -23,14 +23,14 @@ Bossier City opened with a Circles of Light, 16M. It was one of many COLs which 
 !Removed
 !Notes
 |-
-|
+|[Circles of Light, 16M]({{< ref "wiki/Circles of Light.md" >}})
 |May 2013
 |Still in use
 |N/A
 |}
 
 ## History ##
-Bossier City opened in May 2013 (day unknown) as the relocation of the , which closed around the same time. It currently has the 2013 update to the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}), which included early Rockstar decor and the COL stage. Not much changed to this location throughout the years, and Bossier City is still in operation to this very day.
+Bossier City opened in May 2013 (day unknown) as the relocation of the [old location]({{< ref "wiki/Bossier City, LA (2001 Airline Dr).md" >}}), which closed around the same time. It currently has the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which included early Rockstar decor and the COL stage. Not much changed to this location throughout the years, and Bossier City is still in operation to this very day.
 
 ## Animatronics ##
 {| class='wikitable'

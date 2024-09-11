@@ -8,7 +8,7 @@ date = 2022-08-05T23:35:20Z
 contributors = ["StudioC","Documentor","CECBowlingGreen","Rexburg090","72.76.251.24","ThatBoiCydalan"]
 gallery = ["2011january17.jpg|January","2012july22.jpg|July","2012august4stoneoak.jpg|August","2016july21.jpg|July","2016auguststoneoak.png|August","December2016.jpg|December","May2017.jpg|May","June2017stoneoak.jpg|June","2017june-2.jpg|June","2017june-3.png|June"]
 +++
-**_San Antonio (Stone Oak), TX (1403 N Loop)**_ was a _Chuck E. Cheese's_ that opened on January 8th, 2002 with a Studio C Beta.
+[[File:stoneoak2017.jpg|thumb|381x381px|The exterior in 2017.]]**_San Antonio (Stone Oak), TX (1403 N Loop)**_ was a _Chuck E. Cheese's_ that opened on January 8th, 2002 with a Studio C Beta.
 
 This location was the first to receive the 2.0 remodel in 2017. 
 ##Stages##
@@ -84,7 +84,7 @@ File:2017june-3.png|June 2017. 2.0 Interior construction
 !Serial
 !Whereabouts
 |-
-|[Chuck E Cheese (Garner Holt)]({{< ref "wiki/Chuck E Cheese (Garner Holt).md" >}})
+|Chuck E Cheese (Garner Holt)
 |Unknown
 |Sent back to SPT Warehouse for parts.
 |-

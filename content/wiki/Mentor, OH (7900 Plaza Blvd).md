@@ -8,8 +8,8 @@ date = 2022-10-17T01:10:05Z
 contributors = ["EagleScout610","Rexburg090","RedaCEC","173.216.33.6","Midwestretail","CEC Tinley","ChuckECool","SuperCreamPiper2008","CECMentor"]
 gallery = ["Mentor","Mentor"]
 +++
-
-**Mentor, OH (7900 Plaza Blvd)** was a Pizza Time Theatre which opened in June 1982 with a . It should not be confused with [Mentor, OH (8000 Plaza Blvd)]({{< ref "wiki/Mentor, OH (8000 Plaza Blvd).md" >}}), which is the current Chuck E. Cheese's location. It would eventually become of the several Pizza Time Theatres rebranded as Marc's Funtime Pizza Palace.
+[[File:Mentor Marc's.jpg|thumb]]
+**Mentor, OH (7900 Plaza Blvd)** was a Pizza Time Theatre which opened in June 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). It should not be confused with [Mentor, OH (8000 Plaza Blvd)]({{< ref "wiki/Mentor, OH (8000 Plaza Blvd).md" >}}), which is the current Chuck E. Cheese's location. It would eventually become of the several Pizza Time Theatres rebranded as Marc's Funtime Pizza Palace.
 
 ## History ##
 
@@ -25,10 +25,10 @@ In 1991, Marc Glassman, owner of the Marc's grocery chain, purchased the Mentor 
 !Animatronic
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |-
-|[Guest Star/ Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star Helen Henny (Cyberamic).md" >}})
+|Guest Star/ Helen Henny (Cyberamic)
 |Unknown
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
@@ -40,10 +40,10 @@ In 1991, Marc Glassman, owner of the Marc's grocery chain, purchased the Mentor 
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |-
-|[The King]({{< ref "wiki/The King.md" >}}) 
+|The King 
 |Unknown
 |-
-|[Dolli Dimples]({{< ref "wiki/Dolli Dimples.md" >}})
+|Dolli Dimples
 |Unknown
 |-
 |Marc (Chuck E. Cheese Retrofit)

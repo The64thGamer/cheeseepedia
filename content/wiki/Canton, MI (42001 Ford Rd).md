@@ -8,11 +8,11 @@ date = 2023-04-16T18:57:19Z
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","216.125.34.66","CorrectorMan","CEC Tinley","ThatBoiCydalan"]
 gallery = ["CantonMIExteriorBefore2005Update.jpg|The","CantonMIExterior2019AugustGoogleMaps.png|Street","CantonMI2StageBeforeRemoval.jpg|The","CantonMIVIdeoWall.jpg|thumb|Part"]
 +++
-
+[[File:CantonMIExterior2022SeptemberGoogleMaps.png|thumb|Street View of the store's Exterior in September 2022 (PC: Google Maps)]]
 **_42001 Ford Rd, Store #80**_ is a _Chuck E. Cheese_ in Canton, Michigan.
 
 ##History##
-Canton opened in an unnamed shopping center with a  which had the checkers around the store, blue & white awnings, and neon signage. The store would remain this way until 1993/1994 when they would receive  of the [1994 SPT Repositioning / Remodel Program]({{< ref "wiki/1994 SPT Repositioning  Remodel Program.md" >}}) which involved removing elements of the 1988 Remodel, converting [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}) into a 2-Stage (Which moved the show from the left side wall to the back wall), and an exterior change.
+Canton opened in an unnamed shopping center with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) (The only one installed in Michigan) on May 3rd, 1988. When the store opened, they had the 1986 SPT Remodel Program (1988 Remodel) which had the checkers around the store, blue & white awnings, and neon signage. The store would remain this way until 1993/1994 when they would receive [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) of the 1994 SPT Repositioning / Remodel Program which involved removing elements of the 1988 Remodel, converting [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) into a 2-Stage (Which moved the show from the left side wall to the back wall), and an exterior change.
 
 ##Stages##
 When Canton first opened, the location opened with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) which was the only one installed in the state which was located on the left side wall. In 1993/1994, it was converted into a [[2-Stage), moving the show to the back wall. They would have the 2-Stage until August 2022 when it was removed for a 2021 Model Dance Floor & Video Wall.
@@ -23,11 +23,11 @@ When Canton first opened, the location opened with [Chuck E.'s House]({{< ref "w
 !Manufacturing date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1980s
 |Unknown.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1980s
 |Unknown.
 |-
@@ -94,12 +94,12 @@ File:CantonMIVIdeoWall.jpg|thumb|Part of the store's Video Wall (3/24/2023) (PC:
 |July 19, 2019
 |-
 |[https://www.youtube.com/watch?v=l8wVKQOz4WI Link]
-|'Dog Days of Summer' from  being performed on Canton's 2-Stage
+|'Dog Days of Summer' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Canton's 2-Stage
 |July/August 2021
 |August 4, 2021
 |-
 |[https://youtu.be/TpyrTITzOV4 Link]
-|'Together We've Got It 2017' from  being performed on Canton's 2-Stage
+|'Together We've Got It 2017' from Chuck E. Cheese's Show 1 2017 (Show 1 2017) being performed on Canton's 2-Stage
 |April/May 2022
 |June 2, 2022
 |-

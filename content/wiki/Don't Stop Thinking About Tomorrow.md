@@ -19,17 +19,17 @@ gallery = []
 **_Don't Stop Thinking About Tomorrow**_ was a show that released in April of 1995 at Chuck E. Cheese's locations. 
 
 ##Show List ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##'Don't Stop Thinking About Tomorrow'
 ##'Food of The Future'
 ##'Hey! Gimme My Lunch!'
 ##Chuck-E-Vision
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1**
+#**[[File:New Graphic.png]]** **Intermission 1**
 ##Sports Bloopers
 ##Chip 'n Dale Rescue Rangers
 ##Chuck E. Spot
 ##America's Funniest Home Videos
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+#**[[File:New Graphic.png]]** **Segment 2**
 ##'Don't Stop Thinking About Tomorrow'
 ##Car-Toon Capers
 ##Deep Sea Adventure

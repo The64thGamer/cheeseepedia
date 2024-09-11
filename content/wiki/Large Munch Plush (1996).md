@@ -27,14 +27,14 @@ This plush was released in a set containing other characters and sizes:
 
 *[Small Chuck E. Plush (1996)]({{< ref "wiki/Small Chuck E Plush (1996).md" >}})
 *[Large Chuck E. Plush (1996)]({{< ref "wiki/Large Chuck E Plush (1996).md" >}})
-*[Jumbo Chuck E. Plush (1996)]({{< ref "wiki/Jumbo Chuck E Plush (1996).md" >}})
+*Jumbo Chuck E. Plush (1996)
 *[Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
 *[Large Helen Plush (1996)]({{< ref "wiki/Large Helen Plush (1996).md" >}})
-*[Jumbo Helen Plush (1996)]({{< ref "wiki/Jumbo Helen Plush (1996).md" >}})
+*Jumbo Helen Plush (1996)
 *[Small Munch Plush (1996)]({{< ref "wiki/Small Munch Plush (1996).md" >}})
 *[Jumbo Munch Plush (1996)]({{< ref "wiki/Jumbo Munch Plush (1996).md" >}})
 *[Large Jasper Plush (1996)]({{< ref "wiki/Large Jasper Plush (1996).md" >}})
-*[Jumbo Jasper Plush (1996)]({{< ref "wiki/Jumbo Jasper Plush (1996).md" >}})
+*Jumbo Jasper Plush (1996)
 *[Small Pasqually Plush (1996)]({{< ref "wiki/Small Pasqually Plush (1996).md" >}})
 *[Large Pasqually Plush (1996)]({{< ref "wiki/Large Pasqually Plush (1996).md" >}})
 ##Design##
@@ -42,7 +42,7 @@ This plush's design is very simple. He has a purple fur-egg shaped body with a y
 
 Its tag reads as **'Chuck E. Cheese's** © 1996 ShowBiz Pizza Time, Inc. Made in China'. The back reads as ALL NEW MATERIAL Contents: Polyester Fiber ОН 17389 РА 5081 MA 1340 ME 3658 Dennis Foland, Inc. San Jose, CA'.
 ###Differences Between Smaller Size###
-There aren't many differences between this plush and it's  except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size.
+There aren't many differences between this plush and it's [smaller size]({{< ref "wiki/Small Munch Plush (1996).md" >}}) except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size.
 ##Gallery##
 <gallery>
 File:LMunch96Back.jpg|Plush Back

@@ -15,6 +15,6 @@ gallery = []
 
 ##Show List:##
 It is currently unknown the order of the segments in this show, though the segments themselves are known
-*
-*
-*
+*Michael Jackson (Cyberstar Segment) (Michael Jackson)
+*Summer Love (Cyberstar Segment) (Summer Love)
+*Summer Safety (Cyberstar Segment) (Summer Safety)

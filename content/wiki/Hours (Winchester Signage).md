@@ -8,7 +8,7 @@ date = 2023-08-24T00:11:53Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_Winchester Hours Signage**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on  located in the Town & Country Shopping Center in San Jose, California; for the sake of informing customers on the operational hours of the restaurant from 1977 to an unknown year. 
+The **_Winchester Hours Signage**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) located in the Town & Country Shopping Center in San Jose, California; for the sake of informing customers on the operational hours of the restaurant from 1977 to an unknown year. 
 
 ## Production ##
 Specific data on the production on the sign is non-existent outside of speculation, however we can assume it was either produced by the Atari sub-division of Warner Communications Incorporated or produced by a contracting company specializing in store signage from possibly January through May 1977.

@@ -8,7 +8,7 @@ date = 2023-02-07T04:00:34Z
 contributors = ["ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","Cy's Junk at School"]
 gallery = ["CECHonoluluHIHindRockAfire.png|1984","CECHonoluluHIHindExterior3.png|2005-2006","CECHonoluluHIHindExteriorNight.png|Exterior","CECHonoluluHIHindPhoto21.png|August","CECHonoluluHIHindPhoto22.png|August","CECHonoluluHIHindPhoto23.png|August","CECHonoluluHIHindPhoto24.png|August","CECHonoluluHIHindPhoto1.png|May","CECHonoluluHIHindPhoto2.png|May","CECHonoluluHIHindPhoto3.png|May","CECHonoluluHIHindPhoto4.png|May","CECHonoluluHIHindPhoto5.png|May","CECHonoluluHIHindPhoto6.png|May","CECHonoluluHIHindPhoto25.png|August","CECHonoluluHIHindPhoto26.png|August","CECHonoluluHIHindExterior2.png|August","CECHonoluluHIHindPhoto7.png|August","CECHonoluluHIHindPhoto8.png|August","CECHonoluluHIHindPhoto9.png|August","CECHonoluluHIHindPhoto10.png|August","CECHonoluluHIHindPhoto11.png|August","CECHonoluluHIHindPhoto12.png|August","CECHonoluluHIHindPhoto13.png|August","CECHonoluluHIHindPhoto14.png|August","CECHonoluluHIHindPhoto15.png|August","CECHonoluluHIHindPhoto16.png|August","CECHonoluluHIHindPhoto17.png|August","CECHonoluluHIHindPhoto18.png|August","CECHonoluluHIHindPhoto19.png|August","CECHonoluluHIHindPhoto20.png|August"]
 +++
-
+[[File:CECHonoluluHIHindExterior.png|thumb|Honolulu (Hind)'s exterior before closure. (Photo taken May 30th, 2008)]]
 **_820 W Hind Dr**_ was a Chuck E. Cheese's located in Honolulu, HI in the Aina Haina Shopping Center which opened on February 15th, 1983 as a Showbiz Pizza Place and closed as a Chuck E. Cheese's sometime around Summer 2009.
 
 ## History ##
@@ -20,7 +20,7 @@ This location opened on February 15th, 1983 as the only Showbiz Pizza Place in H
 In March 1991, this location underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and received a few more remodels over years until it's closure.
 
 ### Closure ###
-In July 2007, the shopping center that this location was in had been sold,<ref>https://www.bizjournals.com/pacific/stories/2007/07/09/story1.html</ref> which eventually led up to multiple anchors in the shopping center closing for redevelopment, including this store, as it was announced in September 2008 that their lease was no longer going to be renewed,<ref>https://www.bizjournals.com/pacific/stories/2008/09/22/story6.html</ref> eventually closing down around Summer 2009 as their lease expired. This store would relocate to , reopening on August 29th, 2009.
+In July 2007, the shopping center that this location was in had been sold,<ref>https://www.bizjournals.com/pacific/stories/2007/07/09/story1.html</ref> which eventually led up to multiple anchors in the shopping center closing for redevelopment, including this store, as it was announced in September 2008 that their lease was no longer going to be renewed,<ref>https://www.bizjournals.com/pacific/stories/2008/09/22/story6.html</ref> eventually closing down around Summer 2009 as their lease expired. This store would relocate to [1199 Dillingham Blvd]({{< ref "wiki/Honolulu, HI (1199 Dillingham Blvd).md" >}}), reopening on August 29th, 2009.
 
 ## Stages ##
 {| class='wikitable'
@@ -29,11 +29,11 @@ In July 2007, the shopping center that this location was in had been sold,<ref>h
 !Installed
 !Removed
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |February 1983
 |March 1991
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |March 1991
 |Summer 2009
 |}

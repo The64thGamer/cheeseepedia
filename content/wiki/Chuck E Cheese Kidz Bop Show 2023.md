@@ -22,17 +22,17 @@ This show is only for locations in Latin America. This show features 7 Songs wit
 
 ##Show List##
 
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 1**
+#[[File:New Graphic.png]] **Intermission 1**
 ##KIDZ BOP 2023 Album Spot
 ##KIDZ BOP Kids - 'Despechá'
 #**Skit 1**
 ##Chuck E. Cheese - 'Let's Have A Party'
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 2**
+#[[File:New Graphic.png]] **Intermission 2**
 ##KIDZ BOP Kids - 'Girl Like Me'
 ##KIDZ BOP Kids - 'KESI Remix'
 #**Skit 2** 
 ##Bella B., Chuck E. and Mike Wolf - 'El Rey Guitarrista'
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Intermission 3**
+#[[File:New Graphic.png]] **Intermission 3**
 ##KIDZ BOP Kids - 'LA FAMA'
 ##KIDZ BOP Kids - 'Tacones Rojos'
 #**Skit 3** 

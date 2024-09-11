@@ -59,10 +59,10 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 #Birthday Show (3stage, Cyberamic, Studio C, Weigi)
 #Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigi)
 #Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigi)
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Chuck E.'s Yuletide Slide (3stage, Cyberamic, Studio C,Weigi)
+#[[File:New Graphic.png]] Chuck E.'s Yuletide Slide (3stage, Cyberamic, Studio C,Weigi)
 #Chuck E.'s Winter Wonder Dance (Studio C, Weigi)
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Happy Holiday Dance (New Countdown) (Studio C, Weigi)
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Me & My Friends (Holiday) (New Countdown) (Studio C, Weigi)
+#[[File:New Graphic.png]] Happy Holiday Dance (New Countdown) (Studio C, Weigi)
+#[[File:New Graphic.png]] Me & My Friends (Holiday) (New Countdown) (Studio C, Weigi)
 #[[File:New Graphic.png]] Holly Jolly Dance (New Countdown) (Studio C, Weigi)
 ##Showtape Scans / Images:##
 <gallery>

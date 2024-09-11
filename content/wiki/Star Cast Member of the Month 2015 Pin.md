@@ -1,14 +1,14 @@
 +++
 title = "Star Cast Member of the Month 2015 Pin"
 draft = false
-tags = []
+tags = ["Employee Wear"]
 date = 2021-12-04T01:41:56Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-The **_Star Cast Member of the Month 2015 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
+[[File:S-l500.jpg|thumb|301x301px|Front]]The **_Star Cast Member of the Month 2015 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
 ##Design##
 The design is similar to the design of the [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) token throughout the years, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
 

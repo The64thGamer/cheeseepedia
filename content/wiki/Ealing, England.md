@@ -1,7 +1,7 @@
 +++
 title = "Ealing, England"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-23T15:03:44Z
 
 [Article]

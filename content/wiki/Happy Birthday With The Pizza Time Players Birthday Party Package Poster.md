@@ -8,7 +8,7 @@ date = 2023-08-13T00:26:17Z
 contributors = ["Concordio"]
 gallery = []
 +++
-
+[[File:Happy birthday with the pizza time players.jpg|thumb|Happy Birthday With The Pizza Time Players Birthday Party Package poster.]]
 The **_Happy Birthday With The Pizza Time Players Birthday Party Package**_ poster was used at Chuck E. Cheese's Pizza Time Theatre locations for the purpose of advertising the Chuck E. Cheese's Birthday Package and the Jasper T. Jowl's Birthday Package.
 
 ## History ##

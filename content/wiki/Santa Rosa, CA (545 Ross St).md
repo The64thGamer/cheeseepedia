@@ -1,7 +1,7 @@
 +++
 title = "Santa Rosa, CA (545 Ross St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-06T21:14:57Z
 
 [Article]

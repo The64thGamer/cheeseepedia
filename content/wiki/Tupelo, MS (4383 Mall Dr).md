@@ -8,12 +8,12 @@ date = 2023-08-15T16:42:13Z
 contributors = ["47.17.236.200","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]
 gallery = []
 +++
-**4383 Mall Dr** was a Chuck E. Cheese's that opened in 2008 with a .
+**4383 Mall Dr** was a Chuck E. Cheese's that opened in 2008 with a Studio C 2000 (Studio C Beta).
 
 To south from the [Jackson, MS (6352 Ridgewood Court Rd)]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}).
 
 ## History ##
-In 2008 will be a Chuck E. Cheese's before grand-opening.  was Chuck E. Cheese's was opened in June of 2009.
+In 2008 will be a Chuck E. Cheese's before grand-opening. [Jackson, MS]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) was Chuck E. Cheese's was opened in June of 2009.
 
 ### Artwork ###
 The Melvin franchise locations received 'Star Stage' Artwork in 2010 that would end up replacing what ever was in the showroom. This caused this locations 'Kids Posters' to have the shortest time displayed in a location.
@@ -27,7 +27,7 @@ Ever since this location opened with the same games from their previous location
 !Installed
 !Removed
 |-
-|
+|Studio C 2000 (Studio C Beta)
 |March 2010
 |Still in Use
 |}

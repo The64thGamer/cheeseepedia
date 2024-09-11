@@ -54,7 +54,7 @@ gallery = []
 
 ## Lives: ##
 
-* [Chuck E. Cheese Birthday Extravaganza]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [Chuck E. Cheese Birthday Extravaganza Spanish]({{< ref "wiki/Chuck E Cheese Birthday Extravaganza Spanish.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
-* [Yuletide Slide]({{< ref "wiki/Yuletide Slide.md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Yuletide Slide (3-Stage Navori, CEC Stage Navori, Media Navori)
 * CEC Stage Diagnostic (CEC Stage Navori)

@@ -8,7 +8,7 @@ date = 2024-05-22T20:54:41Z
 contributors = ["Lelmaster","Rafedreams","Stripes"]
 gallery = ["RafedreamsBurneeImage.jpg|Concept","RafedreamsHowleeImage.jpg|Concept","RafedreamsHowleeWolfImage.jpg|Concept","RafedreamsPumperImage","RafedreamsPumperImage.jpg|Concept","RafedreamsSmarteeImage.jpg|Concept","RafedreamsLogoArt.jpg|Smartee's","RafedreamsSmarteeSundae.jpg|Concept","RafedreamsFireboat.jpg|Concept","rafedreamsNewsArticleSmarteesSuit.png","SmarteesToday.jpg","SmarteesAd.png","SmarteesChristmasAd.png","SmarteesAdNewYears.png"]
 +++
-{{Stub}}Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long opening around October 1st of 1982 and closing around November of 1983. Their main selling point was about how parents could relax and watch television while their kids could play unlimited arcade games.
+{{Stub}}[[File:SmarteesOpeningLogo.png|thumb|Smartee's Pizza Circus Exterior taken sometime around September of 1982]]Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long opening around October 1st of 1982 and closing around November of 1983. Their main selling point was about how parents could relax and watch television while their kids could play unlimited arcade games.
 
 ## Characters (TODO) ##
 

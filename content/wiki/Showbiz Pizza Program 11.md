@@ -8,8 +8,8 @@ date = 2022-01-25T14:19:48Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-
-**_Showbiz Pizza Program 11**_ is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes for stores that had not converted to [Cyberstar]({{< ref "wiki/Cyberstar.md" >}}) yet.
+[[File:Program 11.png|thumb|502x502px|Showbiz Pizza Program 11]]
+**_Showbiz Pizza Program 11**_ is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes for stores that had not converted to Cyberstar yet.
 
 The programs were produced by _Audio Environments Inc.,_ which specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as _Inflight Audio Entertainment_, and each gave the address of AEI Music Network Inc. at the bottom of the label.
 

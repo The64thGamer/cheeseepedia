@@ -16,7 +16,7 @@ This was created with conjunction with the Ryan World Fan Fest. This 'show' ran 
 As this show doesn't have a set order and I am not about to watch 1hr and 30minutes of that just look up 'Ryan's World Fan Fest' on YT!
 
 ## Live Shows: ##
-Technically none but since they never shipped out a Player 2 DVD any live show in  could play. 
+Technically none but since they never shipped out a Player 2 DVD any live show in Chuck E. Cheese's Show 5 2021 (Show 5 2021) could play. 
 
 ## Showtape Scans/Images: ##
 <gallery>

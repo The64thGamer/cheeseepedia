@@ -8,4 +8,5 @@ date = 2022-02-21T04:49:12Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-
+[[File:CCI 000235.jpg|thumb|475x475px|Front Label]]
+[[File:CCI 000240.jpg|thumb|475x475px|Top Label]]

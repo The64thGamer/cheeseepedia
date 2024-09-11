@@ -1,7 +1,7 @@
 +++
 title = "Fairfield, CA (1027 Oliver Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-09-17T01:11:03Z
 
 [Article]
@@ -27,18 +27,18 @@ TODO
 TODO
 
 ## Stages ##
-Originally when the store opened, they had a , sometime in the late 80's/ early 90's, they would receive a [C-Stage]({{< ref "wiki/C-Stage.md" >}}){< ref "wiki/C-Stage.md" >}}), they would have this for a short time, then replacing it with a 2-Stage, in the final years it was known for being very bad condition mechanically, and the store would close on January 5th, 2021. The store would be a 'Gamex Pizza & Arcade' for a short while in 2021, then in July 2022, the store reopened as 'Chuck E. Cheese', having the 2.0 Remodel and a Dance Floor. As of September 2022, they still have the Dance Floor.
+Originally when the store opened, they had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), sometime in the late 80's/ early 90's, they would receive a C-Stage, they would have this for a short time, then replacing it with a 2-Stage, in the final years it was known for being very bad condition mechanically, and the store would close on January 5th, 2021. The store would be a 'Gamex Pizza & Arcade' for a short while in 2021, then in July 2022, the store reopened as 'Chuck E. Cheese', having the 2.0 Remodel and a Dance Floor. As of September 2022, they still have the Dance Floor.
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |1983
 |Unknown
 |-
-|[C-Stage]({{< ref "wiki/C-Stage.md" >}})
+|C-Stage
 |Unknown
 |Unknown
 |-
@@ -46,7 +46,7 @@ Originally when the store opened, they had a , sometime in the late 80's/ early 
 |Unknown
 |2021
 |-
-| + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
 |July 2022
 |Still In Use
 |}

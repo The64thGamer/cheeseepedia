@@ -10,7 +10,7 @@ gallery = []
 +++
 **_3100 Bristol Hwy**_ was a Showbiz Pizza Place that opened on January 1986 with a Rock-Afire Explosion and closed in 2001 with the 3-Stage.
 
-This is not to be confused with [Johnson City, TN (3020 Peoples St)]({{< ref "wiki/Johnson City, TN (3020 Peoples St).md" >}}) which opened on March 17th, 2005 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and is currently getting the 2.0 Remodel.
+This is not to be confused with Johnson City, TN (3020 Peoples St) which opened on March 17th, 2005 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and is currently getting the 2.0 Remodel.
 
 ##History##
 TODO
@@ -23,12 +23,12 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |January 1986
 |1991-1992
 |All Eight ShowBiz locations in Tennessee was converted to stage below.
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |2001
 |One of eight Tennessee locations to get Concept Unification.

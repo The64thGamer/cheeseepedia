@@ -8,7 +8,7 @@ date = 2022-09-15T23:09:23Z
 contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowbizMidwest","216.125.34.66","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988"]
 gallery = []
 +++
-The **Rocker Stage** was a stage format found at Showbiz Pizza and Chuck E. Cheese's Pizza Time Theatre locations from February 1st, 1987 to June 12, 2022. It was the first stage to give Chuck E., Helen, and Jasper legs, while Munch and Pasqually remained half-bodied. This was the first stage to have the house theme, being outside of the house. The Rocker Stage would debut at the  location on February 1st, 1987, and would go extinct at the  location on June 12, 2022, when they would remove it for their 2.0 remodel.
+The **Rocker Stage** was a stage format found at Showbiz Pizza and Chuck E. Cheese's Pizza Time Theatre locations from February 1st, 1987 to June 12, 2022. It was the first stage to give Chuck E., Helen, and Jasper legs, while Munch and Pasqually remained half-bodied. This was the first stage to have the house theme, being outside of the house. The Rocker Stage would debut at the [Arlington, Texas]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) location on February 1st, 1987, and would go extinct at the [Rockford, Illinois]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}}) location on June 12, 2022, when they would remove it for their 2.0 remodel.
 
 ## History ##
 TODO: History

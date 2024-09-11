@@ -29,7 +29,7 @@ This store opened with a Studio C Beta featuring a 16 movement Garner Holt anima
 |April 2024
 |Last complete 90’s remodel
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |April 2024
 |Still In Use
 
@@ -45,7 +45,8 @@ This store opened with a Studio C Beta featuring a 16 movement Garner Holt anima
 |}
 
 ## Gallery ##
-
+[[File:Last Clarksville.jpg|thumb]]
 
 ## YouTube Videos ##
 https://youtu.be/wYva2gUKM1Q?si=mYeeGZaiZJ1P-fpC
+thumb (1100 E State Hwy 131) (thumb)

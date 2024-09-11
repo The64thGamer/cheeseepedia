@@ -8,8 +8,8 @@ date = 2022-07-16T02:31:15Z
 contributors = ["Stripes","168.69.254.249","2600:4041:55C1:D500:6CA3:E2D8:57FD:55A6","CEC Tinley","Cecnj98","Jmv1985","Cy's Junk at School","The 64th Gamer","CECMentor","Harchambeault2026","Moonrock","ThatBoiCydalan","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","AlexisCEC","Captain Cheese IV","Jaxonia"]
 gallery = ["HicksvilleNY-Showroom1.png|2011<ref>https://www.youtube.com/watch?v=QPXuDZLcNy8</ref>"]
 +++
-
-**_Hicksville, NY (Delco Plaza 11-15 Hanover Place)**_ is a _Chuck E. Cheese's_ which opened on January 24, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}) show. 
+[[File:HicksvilleNY-Exterior.jpg|thumb|381x381px|The exterior of the Hicksville, NY location.<ref>https://restaurantguru.com/Chuck-E-Cheese-Hicksville</ref> The logotype sign can is out of the shot and to the right.]]
+**_Hicksville, NY (Delco Plaza 11-15 Hanover Place)**_ is a _Chuck E. Cheese's_ which opened on January 24, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) show. 
 ##Stages##
 This location opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) show, which remains in operation to this day.
 ##History##
@@ -46,7 +46,7 @@ File:HicksvilleNY-Showroom1.png|2011<ref>https://www.youtube.com/watch?v=QPXuDZL
 !Serial
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |
 |Currently in use.
 |-

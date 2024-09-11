@@ -30,7 +30,7 @@ On The Dance Floor Was A 2017 Model.
 |August 2017
 |Studio C Beta Was Removed August 2017.
 |-
-|
+|Chuck E. Live Stage (Dance Floor)  (Dance Floor))
 |August 2017
 |Still In Use
 |Added 2.0 Remodel 2017.

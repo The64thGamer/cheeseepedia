@@ -8,7 +8,7 @@ date = 2023-09-12T01:58:47Z
 contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic"]
 gallery = []
 +++
-
+[[File:Gillians as of today.jpg|thumb|gillian's as of today]]
 []] **Gillian's Wonderland Pier** is a historic amusement park founded in 1929 by David Gillian, who first came to Ocean City in 1914.  It is located near the beginning of the commercial boardwalk on 6th street. Gillians is generally considered to be an institution of Ocean City, with grand openings and pre-season sales for the location historically having drawn crowds multiple blocks long, and employs many local youths during the summer, and in more recent years, many Eastern European workers.-wikipedia  
 
 ##history##

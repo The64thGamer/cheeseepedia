@@ -8,7 +8,7 @@ date = 2022-09-15T04:16:47Z
 contributors = ["EagleScout610","Documentor","Rexburg090","ChuckECool","CEC Tinley","ThatBoiCydalan","Estsproduction","CECMentor","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:Mentor 2022.jpg|thumb|Mentor's Exterior, 2022]]
 **Mentor, OH (8000 Plaza Blvd).** is a Chuck E. Cheese's located across the street from Great Lakes Mall in Mentor OH. It opened as a Pizza Time Theatre, then became one of the 7 Pizza Time Theatres rebranded to Marc's Funtime Pizza Palace. 
 
 ## History ##

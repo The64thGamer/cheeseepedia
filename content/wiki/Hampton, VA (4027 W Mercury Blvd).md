@@ -1,7 +1,7 @@
 +++
 title = "Hampton, VA (4027 W Mercury Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-10T22:44:07Z
 
 [Article]

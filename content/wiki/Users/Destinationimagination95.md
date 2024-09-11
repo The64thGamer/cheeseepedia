@@ -12,13 +12,13 @@ Hello, I'm a fan of Chuck E. Cheese's, particularly 1991-1997 CEC, and animatron
 
 ## Favorite animatronic shows ##
 
-* [Munch's Make Believe Band]({{< ref "wiki/Munch's Make Believe Band.md" >}})
-* [The Rock-Afire Explosion]({{< ref "wiki/The Rock-Afire Explosion.md" >}})
+* Munch's Make Believe Band
+* The Rock-Afire Explosion
 * [Daniel and the Dixie Diggers]({{< ref "wiki/Daniel and the Dixie Diggers.md" >}})
 * Fantasyland Rockin' And Rollin' 50's Show
-* [Bubba Bear and the Badland Band]({{< ref "wiki/Bubba Bear and the Badland Band.md" >}})
-* [Hank & Beau]({{< ref "wiki/Hank & Beau.md" >}})
-* [The Hard Luck Bears]({{< ref "wiki/The Hard Luck Bears.md" >}})
+* Bubba Bear and the Badland Band
+* Hank & Beau
+* The Hard Luck Bears
 * [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}})
 * [https://disney.fandom.com/wiki/Country_Bear_Jamboree Country Bear Jamboree]
 * [https://disney.fandom.com/wiki/Walt_Disney%27s_Enchanted_Tiki_Room Enchanted Tiki Room]
@@ -26,16 +26,16 @@ Hello, I'm a fan of Chuck E. Cheese's, particularly 1991-1997 CEC, and animatron
 ## Favorite Chuck E. Cheese's voice actors and actresses ##
 Chuck E:
 
-* [Duncan Brannan]({{< ref "wiki/Duncan Brannan.md" >}}) 1994-1997
-* [Scott Wilson]({{< ref "wiki/Scott Wilson.md" >}})
-* [Jeff Cosco]({{< ref "wiki/Jeff Cosco.md" >}}) 
+* Duncan Brannan 1994-1997
+* Scott Wilson
+* Jeff Cosco 
 
 Helen:
 
 * Karlisa 'McKinney' Burleson
 * Annagrey 'Labasse' Wiechman
-* [Stephanie Nadolny]({{< ref "wiki/Stephanie Nadolny.md" >}})
-* [Caroline Richardson]({{< ref "wiki/Caroline Richardson.md" >}})
+* Stephanie Nadolny
+* Caroline Richardson
 
 Munch:
 
@@ -45,14 +45,14 @@ Munch:
 
 Jasper:
 
-* [Bob West]({{< ref "wiki/Bob West.md" >}})
-* [Charles Stewart]({{< ref "wiki/Charles Stewart.md" >}})
-* [Reggie Smith]({{< ref "wiki/Reggie Smith.md" >}})
+* Bob West
+* Charles Stewart
+* Reggie Smith
 
 Pasqually: 
 
 * Bob West
-* [Joel McCrary]({{< ref "wiki/Joel McCrary.md" >}})
+* Joel McCrary
 
 ## Favorite Chuck E. Cheese's character outfits and designs. ##
 Chuck E:
@@ -87,8 +87,8 @@ Pasqually:
 ## Favorite Chuck E. Cheese's showtapes and stages. ##
 Stages:
 
-* [3-Stage]({{< ref "wiki/3-Stage.md" >}})
-* [Road Stage]({{< ref "wiki/Road Stage.md" >}})
+* 3-Stage
+* Road Stage
 * [2-Stage]({{< ref "wiki/2-Stage.md" >}})
 * [1-Stage]({{< ref "wiki/1-Stage.md" >}})
 

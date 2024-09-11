@@ -35,7 +35,7 @@ In March 2021, Manassas still has the 2.0 Remodel and Dance Floor + Video Wall.
 |March 2021
 |Studio C Alpha Still has Removed On March 2021.
 |-
-| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Chuck E. Live Stage (Dance Floor)  (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |March 2021
 |Still In Use
 |2021 Model.

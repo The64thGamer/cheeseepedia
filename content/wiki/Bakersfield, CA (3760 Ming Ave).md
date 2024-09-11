@@ -40,11 +40,11 @@ In June 2019, Bakersfield started remodeling to 2.0, which involved the removal 
 !Installed
 !Removed
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |November 16, 1982
 |1991-1992
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |1998
 |-
@@ -52,7 +52,7 @@ In June 2019, Bakersfield started remodeling to 2.0, which involved the removal 
 |1998
 |June 2019
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |June 2019
 |Still In Use
 |}

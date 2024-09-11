@@ -8,7 +8,7 @@ date = 2022-10-16T23:07:46Z
 contributors = ["RockAfire Alex","Rexburg090","2600:4040:59FC:D100:7E92:3569:DE4F:A81F","ShowbizMidwest","RedaCEC","ChuckEPediaIsTheBest!","66.215.38.213","Bowling for Cheese","ChuckfeldStan","ThatBoiCydalan","BurgersNuggs445","Icantbelieveitsnotbutter","Chez","Aubreemasterson","SuperCreamPiper2008","AstridMascotFan2005","Cy's Junk at School","Cecfan15WantsRetromation","ConceptUnification2.0","Documentor","The 64th Gamer","CECMentor","Caydenpedia","UltimatelyFun"]
 gallery = []
 +++
-
+[[File:Extal.jpg|thumb|Altoona location exterior photo taken on July 17, 2022]]
 **3415 Pleasant Valley Blvd** was a Showbiz Pizza place that opened in 1983 with a Rock Afire Explosion this location is still open today with its show.
 
 ## History ##
@@ -103,7 +103,8 @@ This location opened with the Rock Afire Explosion 3 stage, they got Concept Uni
 |}
 
 ## Gallery ##
-
-
-
-
+[[File:Stage.jpg|left|thumb|Wide shot of the 3 stages]]
+[[File:CEI label.jpg|center|thumb|The Creative Engineering label on the back of munches keyboard. (1-1983)]]
+[[File:CECP SIGN.jpg|left|thumb|An old Chuck E Cheese's Pizza sign out front]]
+[[File:Stage left.jpg|center|thumb|an up close of stage left where the MMBB sign is]]
+[[File:Pasqupclose.jpg|left|thumb|An up close image of Pasqually]]

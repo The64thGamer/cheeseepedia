@@ -8,9 +8,9 @@ date = 2023-08-16T01:10:02Z
 contributors = ["47.17.236.200","ThatBoiCydalan"]
 gallery = ["Houston_Northline_Exterior_Construction.jpg|Houston"]
 +++
+[[File:File:HoustonNorthlineCurrentExterior.jpg|thumb|2.0 exterior|349x349px]]
 
-
-**4432 North Fwy** was the Chuck E. Cheese's that opened on 2010 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}){< ref "wiki/Studio C Beta.md" >}}) from the Northline Commons.
+**4432 North Fwy** was the Chuck E. Cheese's that opened on 2010 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) from the Northline Commons.
 
 ## Stages ##
 
@@ -24,7 +24,7 @@ gallery = ["Houston_Northline_Exterior_Construction.jpg|Houston"]
 |2010
 |February/March 2023
 |-
-| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |February/March 2023
 |Still in Use
 |}

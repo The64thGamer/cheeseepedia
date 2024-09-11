@@ -8,16 +8,16 @@ date = 2022-07-24T17:24:45Z
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = ["SpringfieldOH-ShowRoom.jpg|June","SpringfieldOH-Stage.jpg|June","SpringfieldOH-NoBizLikeShowbiz.jpg|June"]
 +++
-
-**_Springfield, OH (2345 Valley Loop Rd)**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}){< ref "wiki/Rock-afire Explosion.md" >}}), which has since been converted into a [3-Stage]({{< ref "wiki/3-Stage.md" >}}){< ref "wiki/3-Stage.md" >}}).
+[[File:SpringfieldOH-Exterior.jpg|thumb|508x508px|Exterior of Springfield, OH on June 22, 2022.]]
+**_Springfield, OH (2345 Valley Loop Rd)**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), which has since been converted into a 3-Stage.
 ##Stages##
-The location opened with a standard [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) stage show. During Concept Unification, the show was converted into a [3-Stage]({{< ref "wiki/3-Stage.md" >}}). The stage is still present and operational, however relying on a limited air compressor and with certain components missing, such as Jasper's hat and various stage props.
+The location opened with a standard [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) stage show. During Concept Unification, the show was converted into a 3-Stage. The stage is still present and operational, however relying on a limited air compressor and with certain components missing, such as Jasper's hat and various stage props.
 ##Arcade Machines##
 *[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 *[Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
 *Sonic Spinner
 *Chuck E.'s All-Star Hoops
-*[Skee Ball]({{< ref "wiki/Skee Ball.md" >}})
+*Skee Ball
 
 ##Gallery##
 <gallery>
@@ -55,7 +55,7 @@ File:SpringfieldOH-NoBizLikeShowbiz.jpg|June 22, 2022
 |-
 |[Looney Bird (Animatronic)]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |
-|Converted to [Pizza Cam]({{< ref "wiki/Pizza Cam.md" >}}), removed/unknown
+|Converted to Pizza Cam, removed/unknown
 |-
 |[Sun (Animatronic)]({{< ref "wiki/Sun (Animatronic).md" >}})
 |
@@ -69,7 +69,7 @@ File:SpringfieldOH-NoBizLikeShowbiz.jpg|June 22, 2022
 |
 |Converted to Munch Jr., removed/unknown
 |-
-|[Anitoch (Animatronic)]({{< ref "wiki/Anitoch (Animatronic).md" >}})
+|Anitoch (Animatronic)
 |
 |Currently in use (as Wink)
 |}

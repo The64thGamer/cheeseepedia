@@ -8,7 +8,7 @@ date = 2022-10-19T02:11:50Z
 contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125.34.66","Estsproduction"]
 gallery = []
 +++
-**Akron, OH (2779 West Market St)** is a Chuck E. Cheese's location that opened on October 15th 1993 with a . Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or [Akron, OH (2511 Romig Rd)]({{< ref "wiki/Akron, OH (2511 Romig Rd).md" >}}), which was a Showbiz Pizza Place.
+**Akron, OH (2779 West Market St)** is a Chuck E. Cheese's location that opened on October 15th 1993 with a [1 Stage]({{< ref "wiki/1-Stage.md" >}}). Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or Akron, OH (2511 Romig Rd), which was a Showbiz Pizza Place.
 
 ## History ##
 Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Theatre posters, **BatMunch** and **Close Encounters of the Bird** , and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. 
@@ -36,15 +36,15 @@ Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Th
 !Manufactured
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1993
 |Removed July 2022, Destroyed
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
 |Removed July 2022, Unknown
 |-
-|
+|Mr. Munch (Cyberamic) (Mr Munch (Cyberamic))
 |1993
 |Removed July 2022, Unknown
 |-
@@ -65,7 +65,7 @@ Akron opened on October 15 1993 with a 1 stage. The store kept two Pizza Time Th
 !Year
 |-
 |https://www.youtube.com/watch?v=gXQU0YjSF7o
-|Footage of the 1 Stage performing  and [Chuck E. March]({{< ref "wiki/Chuck E March.md" >}})
+|Footage of the 1 Stage performing [Chuck E's Variety Show]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) and Chuck E. March
 |2000
 |-
 |https://www.youtube.com/watch?v=o3T5h6_QS2I

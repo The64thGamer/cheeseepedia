@@ -8,7 +8,7 @@ date = 2024-08-15T22:45:44Z
 contributors = ["Caydenpedia"]
 gallery = []
 +++
-
+[[File:SpartanburgCECexterior.jpg|thumb|Spartanburg Chuck E. Cheese's exterior on February 12, 2019.]]
 **_Store #383, 660 Spartan Blvd Ste. 250**_ is a Chuck E. Cheese's in Spartanburg, South Carolina that opened on March 1, 1999 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage and is still open today.
 
 ## History ##

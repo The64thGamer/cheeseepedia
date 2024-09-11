@@ -1,7 +1,7 @@
 +++
 title = "Mini Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2023-02-19T19:06:56Z
 
 [Article]
@@ -34,11 +34,11 @@ File:Strikeandspare.png|Strike and Spare's Mini-Stage.
 !Notes
 !Installation Date
 |-
-|[Anderson, IN (845 E 53rd St)]({{< ref "wiki/Anderson, IN (845 E 53rd St).md" >}})
+|Anderson, IN (845 E 53rd St)
 |First to be replaced
 |1983
 |-
-|[Cullman, AL (210 2nd Ave)]({{< ref "wiki/Cullman, AL (210 2nd Ave).md" >}})
+|Cullman, AL (210 2nd Ave)
 |Only photographed show inside of a Showbiz Pizza.
 |1983
 |}

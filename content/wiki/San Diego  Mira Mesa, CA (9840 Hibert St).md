@@ -1,7 +1,7 @@
 +++
 title = "San Diego / Mira Mesa, CA (9840 Hibert St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-22T20:05:17Z
 
 [Article]
@@ -10,7 +10,7 @@ gallery = []
 +++
 **9840 Hibert St** also known as 'Mira Mesa' as a Chuck E. Cheese's Pizza that opened in 1981 or 1982 (month and day unknown) with a Balcony Stage, which is still open to this day.
 
-This location should not be confused with , , or , all which opened on March 1981 and closed in 1984, opened on April 19th, 1993 and is still open, and opened on December 19th, 2012 which is also still open.
+This location should not be confused with San Diego, CA (6403 Ej Cajon Blvd) (the El Cajon Blvd location), [the Sports Arena location]({{< ref "wiki/San Diego, CA (3146 Sports Arena Blvd).md" >}}), or [the College Avenue location]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), all which opened on March 1981 and closed in 1984, opened on April 19th, 1993 and is still open, and opened on December 19th, 2012 which is also still open.
 
 It is also one of the 5 CEC's in the San Diego area.
 ##History##

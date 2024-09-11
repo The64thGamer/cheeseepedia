@@ -8,7 +8,7 @@ date = 2022-02-08T01:30:23Z
 contributors = ["Documentor","The 64th Gamer","CEC Columbus","Rexburg090","Maddox121","RedaCEC","ThatBoiCydalan","Caydenpedia","Cheeseclassic","SuperCreamPiper2008","Cy's Junk at School","Cecanddisneyfan2004"]
 gallery = []
 +++
-
+[[File:NoImage.jpg|thumb|382x382px|image of macsway]]
 **_Columbus, OH (4284 Macsway Ave)**_ is a _Chuck E. Cheese's_ location running from 1982 to 2020.
 
 
@@ -24,7 +24,7 @@ notable history, but any big events like a car crashing into the building or som
 events should be segmentable using subheaders since there's possibly a lot of history. Feel free to segment stuff like key moments, phases, stage changes, ect
 
 ## Home Videos ##
-gonna be links to pages from , but feel free to just link the direct videos here and we'll sort out the pages later. 'Home Videos' are specifically videos shot on the location **_before**_ YouTube was a thing. Best to note since old camcorder videos are harder to come by, with nowadays there being like a million billion videos of locations being published every single day.
+gonna be links to pages from :Category:Home Video (Category: Home Video), but feel free to just link the direct videos here and we'll sort out the pages later. 'Home Videos' are specifically videos shot on the location **_before**_ YouTube was a thing. Best to note since old camcorder videos are harder to come by, with nowadays there being like a million billion videos of locations being published every single day.
 
 * link to home video
 * link to home video

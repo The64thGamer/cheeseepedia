@@ -15,7 +15,7 @@ Worcester opened August 18th, 1992 in Southwest Commons. The location originally
 
 The stage remained the same until the 2010's rolled around, which is when Helen again got her third mask, and Chuck had the Avenger shirt by this time. In 2013, Chuck got his khakis replaced with the Avenger shorts, the Munch's Make Believe Band sign was removed, and Jasper's banjo was broken in half, being replaced with the 3-Stage cheese guitar. The lift curtains were removed the next year. Worcester would remain mostly the same after this, with the exception of Pasqually's drum being flipped around, and the Ticket Blaster decal placed on the now front side.
 
-In October of 2021, Worcester removed their 2-Stage, to be replaced by the  and Video Wall as part of the remodel to 2.0. The top halves of Chuck E., Helen, and Jasper would be sent to Lowell, replacing their halves. Pasqually's mask would make its way to  to replace their mask. Worcester had their grand reopening ceremony on January 12th, 2022, where Helen Henny would make an appearance. 
+In October of 2021, Worcester removed their 2-Stage, to be replaced by the Chuck E. Live Stage (Dance Floor) (Dance Floor) and Video Wall as part of the remodel to 2.0. The top halves of Chuck E., Helen, and Jasper would be sent to Lowell, replacing their halves. Pasqually's mask would make its way to [North Dartmouth]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}) to replace their mask. Worcester had their grand reopening ceremony on January 12th, 2022, where Helen Henny would make an appearance. 
 
 ## Animatronics ##
 {| class='wikitable'
@@ -24,11 +24,11 @@ In October of 2021, Worcester removed their 2-Stage, to be replaced by the  and 
 !Manufacturing  Date 
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1991-1992
 |Top half at Lowell, operating.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1991-1992
 |Top half at Lowell, operating.
 |-

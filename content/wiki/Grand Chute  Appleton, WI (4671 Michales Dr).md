@@ -13,10 +13,10 @@ gallery = []
 This location was the second store to open with a Studio C stage, after Brookfield, WI (19125 W Bluemound Rd) opened in December 1997. This location received 2.0 in 2019, and closed the next year.
 
 ## History ##
-Grand Chute, also known as Appleton, opened on March 19th, 1998 as a Phase 3 store, with record posters and other posters and signs from the 1990's, and they also had showroom walls. they would have this until sometime in 2019, when they would undergo the 2.0 remodel, this meant removing the animatronic stage and replacing it with a , they would only have this until June of 2020, when they would permanently close because of the COVID-19 pandemic, and CEC Entertainment filing for Chapter 11 Bankruptcy during that time, many other locations would close around the same time. 
+Grand Chute, also known as Appleton, opened on March 19th, 1998 as a Phase 3 store, with record posters and other posters and signs from the 1990's, and they also had showroom walls. they would have this until sometime in 2019, when they would undergo the 2.0 remodel, this meant removing the animatronic stage and replacing it with a Chuck E. Live Stage (Dance Floor) (Dance Floor), they would only have this until June of 2020, when they would permanently close because of the COVID-19 pandemic, and CEC Entertainment filing for Chapter 11 Bankruptcy during that time, many other locations would close around the same time. 
 
 ## Stages ##
-Originally when Grand Chute opened, they had a . They would only have this until June of 2020, when they closed. They were either the second last or third last Alpha in Wisconsin, as Racine received 2.0 in 2019 as well, leaving Brookfield, the very first Studio C Alpha, to be the last in the state of Wisconsin.
+Originally when Grand Chute opened, they had a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage, they also had an interactive console but it would be removed sometime in the early-mid 2010's. In 2019, they would receive the 2.0 remodel, replacing the Alpha with a Chuck E. Live Stage (Dance Floor) (Dance Floor). They would only have this until June of 2020, when they closed. They were either the second last or third last Alpha in Wisconsin, as Racine received 2.0 in 2019 as well, leaving Brookfield, the very first Studio C Alpha, to be the last in the state of Wisconsin.
 {| class='wikitable'
 |+
 !Stage
@@ -27,7 +27,7 @@ Originally when Grand Chute opened, they had a . They would only have this until
 |March 1998
 |2019
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |2019
 |June 2020
 |}
@@ -39,11 +39,11 @@ Originally when Grand Chute opened, they had a . They would only have this until
 !Serial
 !Whereabouts
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32m)
 |005
 |Destroyed
 |-
-|
+|Parrot (Animatronic) (Bird)
 |N/A
 |Destroyed
 |}

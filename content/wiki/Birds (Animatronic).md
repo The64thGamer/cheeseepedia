@@ -10,10 +10,10 @@ gallery = []
 +++
 {{Generic|desc=The Birds seen on the 'Chuck E.'s House' stage at the Irving, TX Showbiz Pizza.|image=Birds.png}}
 
-These one of a kind animatronic Birds were created exclusively for the  for use on their  stage. The manufacturer is unknown.
+These one of a kind animatronic Birds were created exclusively for the [Irving, TX Showbiz Pizza]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) for use on their Chuck E.'s House ('Chuck E.'s House') stage. The manufacturer is unknown.
 
 ## Movement Rosetta ##
-These birds repurpose the mouth and spotlight signals used for the  and .
+These birds repurpose the mouth and spotlight signals used for the [Warblettes]({{< ref "wiki/Warblettes (Cyberamic).md" >}}) and [Flowers]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}}).
 {| class='wikitable'
 |+R12 Rosetta
 !Terminal #

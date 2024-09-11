@@ -8,7 +8,7 @@ date = 2022-09-30T14:54:23Z
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","Blowseborg062","2600:4040:5A0E:D900:BC6D:7734:18F9:173A","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","2600:4040:5A0E:D900:B9F0:1AB4:4E45:7495","2600:4040:5A0E:D900:80EC:F561:38B:60E","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","Documentor"]
 gallery = []
 +++
-**650 Bald Hill Rd** is a Chuck E. Cheese's in Warwick, Rhode Island; In the Midland Commons Shopping Center as a freestanding building. It opened on March 6, 2000 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}}). 
+**650 Bald Hill Rd** is a Chuck E. Cheese's in Warwick, Rhode Island; In the Midland Commons Shopping Center as a freestanding building. It opened on March 6, 2000 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). 
 
 ##History##
 The location opened March 6, 2000 as the first in Rhode Island since the closure of [Warwick, RI (1245 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (1245 Bald Hill Rd).md" >}}) (Which had a 1-Stage) on November 19, 1994 with a Studio C Alpha. This is the first location in New England. 
@@ -45,7 +45,7 @@ When the store opened, they had a Studio C Alpha, which operates to this day.
 !Serial Number
 !Whereabouts
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 |067
 |In Store
 |}

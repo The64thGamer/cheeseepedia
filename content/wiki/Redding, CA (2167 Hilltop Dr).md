@@ -1,7 +1,7 @@
 +++
 title = "Redding, CA (2167 Hilltop Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-12T23:17:57Z
 
 [Article]

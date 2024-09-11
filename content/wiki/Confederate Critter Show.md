@@ -1,14 +1,14 @@
 +++
 title = "Confederate Critter Show"
 draft = false
-tags = []
+tags = ["ShowtapesThe "]
 date = 2022-07-15T18:47:43Z
 
 [Article]
 contributors = ["Charlie Rockit","Sponch man","FileFickle"]
 gallery = []
 +++
-**The Confederate Critter Show** was an early animatronic band created by  in 1977 commissioned by Jim Sidwell Sr. owner of Magic World Kids Park in Pigeon Forge TN. The band was a one-stage, three character show designed to look like the inside of a giant tree stump. The band consisted of three characters: Major Mosby Greyhound III (on piano) a cowardly orange Greyhound that was the butt of all the band’s jokes who still hasn’t fully recovered from the war more so than the rest. General Cornelius Bearpatch (on guitar) who was the leader of the band naturally as the General. He would make sure the show doesn’t run too out of hand, introduce characters, and break up fights. Last, Colonel Stonewall J. Fox (on banjo), he sings about hunting women, and tried to tempt greyhound into drinking moonshine, and starts arguments when he doesn’t want to.  all these characters were dressed as Confederate soldiers who have grown old after the war, but have never forgotten. 
+**The Confederate Critter Show** was an early animatronic band created by Aaron Fechter (Creative Engineering) in 1977 commissioned by Jim Sidwell Sr. owner of Magic World Kids Park in Pigeon Forge TN. The band was a one-stage, three character show designed to look like the inside of a giant tree stump. The band consisted of three characters: Major Mosby Greyhound III (on piano) a cowardly orange Greyhound that was the butt of all the band’s jokes who still hasn’t fully recovered from the war more so than the rest. General Cornelius Bearpatch (on guitar) who was the leader of the band naturally as the General. He would make sure the show doesn’t run too out of hand, introduce characters, and break up fights. Last, Colonel Stonewall J. Fox (on banjo), he sings about hunting women, and tried to tempt greyhound into drinking moonshine, and starts arguments when he doesn’t want to.  all these characters were dressed as Confederate soldiers who have grown old after the war, but have never forgotten. 
 
 Stonewall J. Fox, and Major Mosby were voiced by John Cederberg. It is not known who voiced Cornelius Bearpatch at the time, but it is speculated that Cederberg voiced repeat in the Hard luck Bears’ premier showtape.
 

@@ -1,7 +1,7 @@
 +++
 title = "Sacramento (Florin Mall), CA (7020 Stockton Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-03T21:29:18Z
 
 [Article]
@@ -11,7 +11,7 @@ gallery = []
 {{Stub}}**_7020 Stockton Blvd**_ also known as 'Florin' was the fourth _Pizza Time Theatre_ location that opened on August 14, 1979.
 
 ## History ##
-The store was the second location to open with .
+The store was the second location to open with [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}), with them being on a Cyberamics Portrait Stage (Portrait Stage).
 
 The store would open on August 14, 1979 at the _Florin Mall._
 
@@ -31,7 +31,7 @@ The location would remain open until sometime in 1985 when the store would be cl
 |N/A
 |Unknown.
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |N/A
 |Unknown.
 |-
@@ -47,7 +47,7 @@ The location would remain open until sometime in 1985 when the store would be cl
 |N/A
 |Unknown.
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |N/A
 |Unknown.
 |}

@@ -1,14 +1,14 @@
 +++
 title = "Soccer (Magazine)"
 draft = false
-tags = []
+tags = ["Store Fixtures1994/1995 "]
 date = 2023-07-18T01:27:55Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = []
 +++
-The **Soccer (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the [1990s Major Remodel]({{< ref "wiki/1990s Major Remodel.md" >}}).
+The **Soccer (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 
 {{Art|image=Soccer Chuck poster.jpg|releasedate=1994-1995|manufacturer=ShowBiz Pizza Time Inc.|text1=Soccer JR.|text2=Cup Soccer Competition:|text3=Chuck E Cheese
 Takes on

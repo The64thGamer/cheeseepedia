@@ -8,5 +8,5 @@ date = 2023-08-24T19:53:14Z
 contributors = ["Pizzaman49","Cheeseclassic","CEC Kokomo"]
 gallery = []
 +++
-
+[[File:After closure.png|thumb|After closure PC: Loopnet]]
 **9704 Fondren Road** was a Pizza Time Theater that opened on an unknown date in 1981 with a balcony stage and closed in 1995 with a C stage

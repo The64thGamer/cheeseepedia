@@ -10,10 +10,10 @@ gallery = ["Nov2018grand1.png|Exterior","Nov2018grand2.png|Exterior","Nov2018gra
 +++
 {{Generic|desc=Exterior (December 2023)|image=Exteriorgrandprariedec2023.png}}
 
-**_Grand Prairie, TX (2760 W I-20)**_ is a .
+**_Grand Prairie, TX (2760 W I-20)**_ is a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on September 26, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with a CEC 2018 2.0 Remodel Program (Dance Floor).
 
 ## History ##
-On June 16, 2024, the location would be one of the few test stores for the [CEC Ninja Run]({{< ref "wiki/CEC Ninja Run.md" >}}) play area, with both David McKillips and Mark Kupferman known to have shown up for the event.<ref>https://www.reddit.com/r/chuckecheese/comments/1dhdxvx/the_new_ninja_run_at_grand_prairie_via_david/</ref>
+On June 16, 2024, the location would be one of the few test stores for the CEC Ninja Run play area, with both David McKillips and Mark Kupferman known to have shown up for the event.<ref>https://www.reddit.com/r/chuckecheese/comments/1dhdxvx/the_new_ninja_run_at_grand_prairie_via_david/</ref>
 
 ## Gallery ##
 <gallery>

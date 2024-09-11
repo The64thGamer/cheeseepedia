@@ -9,8 +9,8 @@ contributors = ["66.215.38.213","The 64th Gamer","Cheeseclassic"]
 gallery = []
 +++
 **_15225 W 134th St, Store #96**_ is a Chuck E Cheese that opened on
-May 3 2002 as a corporate Chuck E. Cheese's with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}){< ref "wiki/Studio C Alpha.md" >}})
-show It Pizza To Open in state of Texas and like many 
+May 3 2002 as a corporate Chuck E. Cheese's with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+show It Pizza To Open in state of Texas and like many Chuck E. Live Stage (Dance Floor)  (Dance Floor))
 originally Dance Floor 2017 Model On The 2.0 Remodel 2017.
 
 
@@ -29,7 +29,7 @@ in general.
 |August 2017
 |Studio C Alpha Was Removed August 2017.
 |-
-|
+|Chuck E. Live Stage (Dance Floor)  (Dance Floor))
 |August 2017
 |Still In Use
 |2017 Model.

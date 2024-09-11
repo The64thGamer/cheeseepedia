@@ -9,7 +9,7 @@ contributors = ["Lovemints","2601:600:8F00:9940:60C0:2332:CAB:D81F","The 64th Ga
 gallery = []
 +++
 ## History ##
-
+[[File:Screenshot 2023-01-20 082221.png|thumb|Color photo of original Rick Rat Walkaround]]
 The Rick Rat Walkaround was a rat costume that sparked the idea for Nolan Bushnell's new restaurant after he bought it in 1974. The original costume was ordered by Bushnell at the International Association of Amusement Parks and Attractions convention after he mistaken the suit to be a coyote, which inspired the original name for the restaurant he was creating for Atari, Coyote Pizza. Upon discovering that this was a rat costume, he changed the name to Rick Rat's Pizza. This was later changed to it's final name, Chuck E. Cheese's Pizza Time Theatre, as having a restaurant centered around a rat would seem unappealing to guests.  The name 'Rick Rat' was only a placeholder, and the character was later renamed Chuck E. Cheese.
 
 This costume was never used in any of the Chuck E. Cheese locations, and was only used as the Atari Mascot when the restaurant first opened. 
@@ -26,7 +26,7 @@ The Rick Rat costume had a tan long, pointed snout with a large black nose and l
 The current location of the Rick Rat costume is unknown, and the suit is most likely no longer in existence.
 
 = <small>Other facts</small> =
-
+[[File:Pin of the Rick Rat costume character from Casa Bonita.png|thumb|Pin of the Rick Rat costume character from Casa Bonita]]
 
 * The original costume was used at a restaurant called 'Casa Bonita' in the mid-70's
 * The reason why Bushnell kept the rat costume was because he believed that his company would someday compete head to head with Disney

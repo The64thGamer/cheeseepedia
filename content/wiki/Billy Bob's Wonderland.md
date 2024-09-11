@@ -8,12 +8,12 @@ date = 2023-03-03T00:48:50Z
 contributors = ["Saan1ty","The 64th Gamer","2600:4040:5A0C:5900:7CC4:6BF1:60E3:48C3","Stripes","2600:4040:5A0E:D900:C050:277C:FA95:3797","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]
 gallery = []
 +++
-
-
-**_Billy Bob's Wonderland**_ is a FEC located in Barboursville, West Virginia. They are well-known for being one of the last public places in the US and the world to view . 
+[[File:Billy Bob's Wonderland 2022-06-14.jpg|thumb|Exterior in June 2022. PC: Bella Wood]]
+[[File:Billy Bob's Wonderland East Barboursville.jpg|thumb|The original East Barboursville, WV location in the early 2000s]]
+**_Billy Bob's Wonderland**_ is a FEC located in Barboursville, West Virginia. They are well-known for being one of the last public places in the US and the world to view [the Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}). 
 
 ## History ##
-
+[[File:Ashland KY BBWL.jpg|thumb|The Ashland, KY location in the early 2000s]]
 Billy Bob's Wonderland originally opened in 1989, with the first location being in East Barboursville, which was a fomer Showbiz Pizza Place that rebranded the exterior and interior to avoid [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). They later opened a second location in Ashland, KY, and both locations combined in 2003 to become the larger location they still reside in today at 5 Cracker Barrel Dr, Barboursville, WV 25504.
 
 ## Relationship with Creative Engineering ##

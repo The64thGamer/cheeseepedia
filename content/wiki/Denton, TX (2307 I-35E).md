@@ -1,14 +1,14 @@
 +++
 title = "Denton, TX (2307 I-35E)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-12-28T18:33:14Z
 
 [Article]
 contributors = ["JamesLemony","Rexburg090"]
 gallery = []
 +++
-
+[[File:2307-interstate-35e-denton-tx-76207.jpg|thumb|Outside of the Former Pizza Time Theatre.]]
 **2307 I-35E** was a Pizza Time Theatre that opened in 1983 with a Balcony Stage, which closed in 1984 due to the company's bankruptcy.
 
 This location has very little known history about it, only a little bit of advertising has been found.
@@ -42,7 +42,7 @@ The location would also contain The King. Like the Balcony Stage, it is unknown 
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Unknown
 |-
@@ -66,7 +66,7 @@ The location would also contain The King. Like the Balcony Stage, it is unknown 
 |Unknown
 |Unknown
 |-
-|[The King (Cyberamic)]({{< ref "wiki/The King (Cyberamic).md" >}})
+|The King (Cyberamic)
 |Unknown
 |Unknown
 |}

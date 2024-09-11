@@ -20,7 +20,7 @@ gallery = []
 ###[https://en.wikipedia.org/wiki/Christmas_All_Over_the_World Happy Holidays To You]
 ##Geography Rap - North Pole
 ##CEC-TV Intro
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})**Segment 1**
+#[[File:New Graphic.png]]**Segment 1**
 ##Jingle Bells
 ##Up On The Housetop
 ##Holiday Cheer
@@ -31,7 +31,7 @@ gallery = []
 ###[https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads Christmas In the Caribbean]
 ##Helen Henny's Hollywood - Hay Fever
 ##CEC-TV Intro
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 2**
+#[[File:New Graphic.png]] **Segment 2**
 ##Jolly Old Saint Nicholas
 ##On Christmas Day
 ##Christmas Countdown
@@ -42,7 +42,7 @@ gallery = []
 ###This Time Of The Year (From Ray Charles 'The Spirit of Christmas')
 ##CEC TV News - Holiday News
 ##CEC-TV Intro
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 3**
+#[[File:New Graphic.png]] **Segment 3**
 ##Deck The Halls
 ##O Christmas Tree
 ##We Wish You A Merry Christmas

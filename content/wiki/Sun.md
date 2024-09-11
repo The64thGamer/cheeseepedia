@@ -1,7 +1,7 @@
 +++
 title = "Sun"
 draft = false
-tags = []
+tags = ["Store List Valley, CA (8357 Laurel Canyon Blvd)"]
 date = 2024-05-23T18:15:12Z
 
 [Article]
@@ -13,7 +13,7 @@ gallery = []
 ## History ##
 
 ### Origins & Showbiz Pizza Place ###
-Sun is most commonly depicted with a masculine posh voice courtesy of Burt Wilson, but in the intro segment to the show 'School Days' they are depicted with a feminine voice. Sun was retrofitted into [Building]({{< ref "wiki/Building.md" >}}) during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}){< ref "wiki/Concept Unification.md" >}}).
+Sun is most commonly depicted with a masculine posh voice courtesy of Burt Wilson, but in the intro segment to the show 'School Days' they are depicted with a feminine voice. Sun was retrofitted into Building during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}).
 
 ### Present Day ###
 Original parts for Sun would start to be reproduced by Creative Engineering's new employees in 2023.

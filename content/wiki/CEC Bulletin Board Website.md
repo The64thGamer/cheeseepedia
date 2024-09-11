@@ -8,4 +8,4 @@ date = 2022-09-04T17:57:13Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-[bbs.cecentertainment.com]({{< ref "wiki/bbscecentertainmentcom.md" >}})
+bbs.cecentertainment.com

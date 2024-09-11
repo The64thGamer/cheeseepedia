@@ -8,7 +8,7 @@ date = 2022-07-14T17:28:34Z
 contributors = ["The 64th Gamer","CEC forgotten Location Finder","Stripes"]
 gallery = ["Macsway","Macsway","Macsway"]
 +++
-**_Address goes here in bold italics**_ was a _Chuck E. Cheese's_ located in <city> and <state>.
+[[File:Macsway 2009.png|thumb|381x381px|Your store's Chuck E. Cheese in ______ year, preferably recent.]]**_Address goes here in bold italics**_ was a _Chuck E. Cheese's_ located in <city> and <state>.
 
 Discuss here any quick and important notable information. Such as if it was a Showbiz previously, if it had any big changes, or notable events and news.
 ##Stages##
@@ -62,7 +62,7 @@ The current whereabouts of the store's animatronics, and their serial numbers if
 !Serial
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |123
 |Owned by a Private Collector
 |-

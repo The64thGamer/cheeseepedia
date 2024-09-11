@@ -19,11 +19,11 @@ Hello! I'm **_CorrectorMan**_, a CEC fan from Kokomo, Indiana! My mission is to 
 |April 6, 2004
 |N/A
 |-
-|[Muncie, IN (1611 W McGalliard Rd)]({{< ref "wiki/Muncie, IN (1611 W McGalliard Rd).md" >}})
+|Muncie, IN (1611 W McGalliard Rd)
 |December 23, 2003
 |N/A
 |-
-|[Lafayette, IN (100 S Creasy Lane)]({{< ref "wiki/Lafayette, IN (100 S Creasy Lane).md" >}})
+|Lafayette, IN (100 S Creasy Lane)
 |August 20, 2006
 |October 28, 2020
 |-
@@ -50,17 +50,17 @@ Stores I plan to visit soon:
 |[Omaha, NE (225 N 76th St)]({{< ref "wiki/Omaha, NE (225 N 76th St).md" >}})
 |June 23, 1982 (as SPP)
 |-
-|
+|Cedar Falls, IA (5911 University Ave (Cedar Falls, IA (5911 University Ave #100))
 |August 1, 2001
 |}
 My all time locations: **I ONLY VISITED ONE AND SOME OF THEM ARE CLOSED**
 
-* 
-* 
-* 
-* 
-* 
-*   (all 3)
+* [La Mesa, CA]({{< ref "wiki/La Mesa, CA (5500 Grossmont Center Dr).md" >}})
+* [Cedar Rapids, IA]({{< ref "wiki/Cedar Rapids, IA (170 Collins Rd).md" >}})
+* [West Des Moines, IA]({{< ref "wiki/West Des Moines, IA (1431 22nd St).md" >}})
+* [Towson, MD]({{< ref "wiki/Towson, MD (809 Goucher Blvd).md" >}})
+* [Waldorf, MD]({{< ref "wiki/Waldorf, MD (2928 Festival Way).md" >}})
+* [San]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) [Jose]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}})[, CA]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}) (all 3)
 
 Thank you for reading, and have a great day! :)
 

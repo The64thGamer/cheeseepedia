@@ -8,12 +8,12 @@ date = 2022-10-16T21:10:09Z
 contributors = ["BurgersNuggs445","Rexburg090","Midwestretail","47.17.236.200","CorrectorMan","ShowbizMidwest","Moonrock","AstridMascotFan2005"]
 gallery = ["Jackson","Jackson"]
 +++
-
+[[File:Jackson MS Exterior.jpg|thumb|381x381px|Exterior being finished in 2009]]
 **_6352 Ridgewood Court Rd**_ is a _Chuck E. Cheese's_ that opened in June of 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}).
 
-This is a franchised relocation from [Jackson, MS (5465 I-55)]({{< ref "wiki/Jackson, MS (5465 I-55).md" >}}){< ref "wiki/Jackson, MS (5465 I-55).md" >}}) to Jackson, MS (6352 Ridgewood Court Rd)
+This is a franchised relocation from [Jackson, MS (5465 I-55)]({{< ref "wiki/Jackson, MS (5465 I-55).md" >}}) to Jackson, MS (6352 Ridgewood Court Rd)
 ##Stage##
-This location is the second to last Studio C Beta to be installed with a  and is also speculated to have the oldest Studio C Animatronic on a Studio C Beta. 
+This location is the second to last Studio C Beta to be installed with a Chuck E. Cheese 32m (Animatronic) (32m Animatronic) and is also speculated to have the oldest Studio C Animatronic on a Studio C Beta. 
 
 The Chuck E. Cheese Animatronic was installed incorrectly onto to show which lead to its eyelids being stuck upwards and for the head to be stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and miscellaneous repairs for the Chuck E. Animatronic. 
 
@@ -28,13 +28,13 @@ Ever since this location opened with the same games from their previous location
 
 ##Arcade Machines##
 
-* [Chuck E. Cheese's Photo Ride (1997)]({{< ref "wiki/Chuck E Cheese's Photo Ride (1997).md" >}})
+* Chuck E. Cheese's Photo Ride (1997)
 * [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
 * [Chuck E's Duckies]({{< ref "wiki/Chuck E's Duckies.md" >}})
-* [CEC Street Hoops]({{< ref "wiki/CEC Street Hoops.md" >}})
-* [Monster Truck]({{< ref "wiki/Monster Truck.md" >}})
+* CEC Street Hoops
+* Monster Truck
 
-* [Tik Tak Clock]({{< ref "wiki/Tik Tak Clock.md" >}})
+* Tik Tak Clock
 
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
 

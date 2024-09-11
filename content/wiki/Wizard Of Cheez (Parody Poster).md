@@ -8,7 +8,7 @@ date = 2023-07-17T21:26:45Z
 contributors = ["Nostalgia Cow","BurgersNuggs445","ThatBoiCydalan"]
 gallery = []
 +++
-
+[[File:Wizard Of Cheez poster picture.jpg|thumb|Front picture of the Wizard Of Cheez poster.  ]]
 **Wizard Of Cheez** was a poster for Showbiz Pizza and Chuck E Cheese in 1988.
 
 ## History ##

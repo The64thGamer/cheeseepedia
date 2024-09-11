@@ -8,4 +8,4 @@ date = 2024-05-31T18:09:16Z
 contributors = ["TheMrMeisterr"]
 gallery = []
 +++
-For more information about the show itself, see 
+For more information about the show itself, see [Daniel and the Dixie Diggers.]({{< ref "wiki/Daniel and the Dixie Diggers.md" >}})

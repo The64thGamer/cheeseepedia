@@ -1,7 +1,7 @@
 +++
 title = "Casting a New Latex Mold"
 draft = false
-tags = []
+tags = ["Animatronic Repair & Preservation"]
 date = 2023-03-29T01:33:35Z
 
 [Article]
@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","CEC Tinley","Ls2018-1"]
 gallery = []
 +++
 ## Rock-afire Mask Color Formula ##
-The official formula used for the masks of Rolfe, Dook, Beach Bear, Mitzi, and Billy Bob<ref>[:File:Rockafirepaintcolorrefsheet.png]({{< ref "wiki/FileRockafirepaintcolorrefsheetpng.md" >}})</ref><blockquote>Each color is 2 oz. tubed acrylic to ¼ cup of water
+The official formula used for the masks of Rolfe, Dook, Beach Bear, Mitzi, and Billy Bob<ref>[[:File:Rockafirepaintcolorrefsheet.png]]</ref><blockquote>Each color is 2 oz. tubed acrylic to ¼ cup of water
 
 * Yellow Ochre - ⅓ Cup
 * Cadmium Orange - ⅓ Cup

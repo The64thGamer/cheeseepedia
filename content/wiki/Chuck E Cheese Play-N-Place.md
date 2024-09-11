@@ -69,7 +69,7 @@ According to the debut article in 1983, there were 53 placed into locations. The
 !Opening / Installation Date
 !Removal Date
 |-
-|[Las Vegas, NV (4750 Vegas Dr)]({{< ref "wiki/Las Vegas, NV (4750 Vegas Dr).md" >}})
+|Las Vegas, NV (4750 Vegas Dr)
 |May 16, 1982
 |1985
 |-
@@ -77,11 +77,11 @@ According to the debut article in 1983, there were 53 placed into locations. The
 |1982
 |1984
 |-
-|[Lawton, OK (1048 NW 38th St)]({{< ref "wiki/Lawton, OK (1048 NW 38th St).md" >}})
+|Lawton, OK (1048 NW 38th St)
 |1982
 |1984
 |-
-|[Shreveport, LA (1724 E 70th St)]({{< ref "wiki/Shreveport, LA (1724 E 70th St).md" >}})
+|Shreveport, LA (1724 E 70th St)
 |August 2, 1982
 |May 3, 1987
 |-

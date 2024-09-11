@@ -1,14 +1,14 @@
 +++
 title = "Star Cast Member of the Month 2020 Pin"
 draft = false
-tags = []
+tags = ["Employee Wear"]
 date = 2021-12-04T02:06:04Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-The **_Star Cast Member of the Month 2020 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
+[[File:S-l500 (3).jpg|thumb|301x301px|Front]]The **_Star Cast Member of the Month 2020 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
 ##Design##
 The design is a golden star with _Rockstar Chuck E._ raising his arms in triumph. The year is at the top in purple, while the title is printed onto a white box. The pin is metal, with a black color. All parts on the pin are painted, compensating for the lack of gold metal to be used as the star color. The text on the pin says:
 

@@ -17,7 +17,7 @@ gallery = []
 |dvdcyber=y
 |themestandardptt80s=y|guesthelen=y|labelname=Name on the physical label of the showtape, if its different from the standard title. Only use if needed.|labelname1=additional label names if needed}}
 
-**_Beach Bowzers '91 I**_ is a showtape released for the [Beagles / Beach Bowsers (Lounge)]({{< ref "wiki/Beagles  Beach Bowsers (Lounge).md" >}}) in March of 1991.
+**_Beach Bowzers '91 I**_ is a showtape released for the Beagles / Beach Bowsers (Lounge) in March of 1991.
 ##Production##
 Any details about the showtape's production, its filming locations, its video production, anything, goes in here. Be sure to research that any details put in here are for new segments to the tape, as a lot of segments are reused multiple times over a long period. While dates should be given, writing 'which was x months / days from release' next to it will help with understanding the production leading up to its release.
 
@@ -29,7 +29,7 @@ CEC Shows made in the 2020's also have live streams from their programmer during
 ###File Dates###
 Be sure to categorize this production information under sub headers.
 ##Show List##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
 ##[https://en.wikipedia.org/wiki/Swingin%27_(John_Anderson_song) _Song or Skit Name_]
 ##Song Medley
@@ -37,12 +37,12 @@ Be sure to categorize this production information under sub headers.
 ###[https://en.wikipedia.org/wiki/Walk_Like_an_Egyptian Song Name]
 ###[https://en.wikipedia.org/wiki/Walk_Like_an_Egyptian Song Name]
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+#**[[File:New Graphic.png]]** **Segment 2**
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
 ##[https://en.wikipedia.org/wiki/Swingin%27_(John_Anderson_song) _Song or Skit Name_]
 ##[https://en.wikipedia.org/wiki/Lucille_(Little_Richard_song) _Song or Skit Name_]
 ##Lives:##
-Due to live shows not being ordered in newer discs the same way as normal segments, they are listed separately. Keep in mind that older live shows came on a separate showtape than the main disc, so this is only for live show included inside the showtape. Live shows should link to actual live show pages listed on .
+Due to live shows not being ordered in newer discs the same way as normal segments, they are listed separately. Keep in mind that older live shows came on a separate showtape than the main disc, so this is only for live show included inside the showtape. Live shows should link to actual live show pages listed on :Category:Live Shows (Category:Live Shows).
 *Live Show Name
 *Live Show Name
 *Live Show Name

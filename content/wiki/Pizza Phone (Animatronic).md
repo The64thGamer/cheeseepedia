@@ -8,10 +8,10 @@ date = 2022-10-14T16:20:32Z
 contributors = ["CECBowlingGreen","Rexburg090","2601:240:CD0D:667F:79B8:349E:9505:C933","2601:248:5000:5090:F11C:8C88:9E24:9AD6","The 64th Gamer","Midwestern Jasper T."]
 gallery = ["Back"]
 +++
-
+[[File:Pizza Phone Animatronic from Studio C Alpha.png|thumb|Front of Pizza Phone. Picture Credit to Worthpoint]]
 The **Pizza Phone** is an animatronic figure created by Garner Holt Productions, Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001.
 
-It was only used on the Studio C Alpha stage, and was also used at  on their unique .
+It was only used on the Studio C Alpha stage, and was also used at [Jeddah, Saudi Arabia (Corniche Road)]({{< ref "wiki/Jeddah (Corniche Road), Saudi Arabia.md" >}}) on their unique Studio C Alpha Beta Mix (Studio C Alpha / Beta Mix).
 
 ## History ##
 TODO

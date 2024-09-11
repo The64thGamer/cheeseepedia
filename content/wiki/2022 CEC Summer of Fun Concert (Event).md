@@ -8,7 +8,7 @@ date = 2022-05-24T19:50:15Z
 contributors = ["Documentor","Mousester","The 64th Gamer","Himitsu"]
 gallery = []
 +++
-
+[[File:SoF_SummerConcert_KeyVisual_KB_V2-768x432.jpg|thumb|490x490px]]
 
 **_Chuck E. Cheese Summer of Fun Concert**_ was an event that performed at 5 states originally. Runs around 24 minutes. 
 
@@ -28,13 +28,13 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 ## Show Lineup: ##
 **Note:** Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
 
-# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Dialogue**
+# [[File:New Graphic.png]] **Dialogue**
 ## Introduction for Jessi, Chuck E. and 'DJ Munch'
 # **Song**
 ## Beach Party Bash
-# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Dialogue**
+# [[File:New Graphic.png]] **Dialogue**
 ## Thanking DJ Munch, Jessi getting wanting to see 'Song of Summer' preformed then getting disappointed it's not happening yet, Introduction for Helen & Jasper. 
-# [File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) **Song**
+# [[File:New Graphic.png]] **Song**
 ## Play All You Can Play (Concert Remix)
 # [[File:New Graphic.png]] **Dialogue**
 ## Jessi asking about 'Song of Summer' again and then making weird noises. 

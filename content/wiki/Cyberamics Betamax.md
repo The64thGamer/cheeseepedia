@@ -8,7 +8,7 @@ date = 2023-08-07T18:41:08Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-Starting in January of 1987, the [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) store began testing the first iteration of [Cybervision]({{< ref "wiki/Cybervision.md" >}}) using betamax tapes. This would be done for every tape of that year before Cybervision would make its way to the rest of the stores in early 1988. All the video for these tapes are lost, and assumedly not even in CEC Corporate's possession. Getting footage of Arlington during 1987 may yield new footage of these tapes.
+Starting in January of 1987, the [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) store began testing the first iteration of Cybervision using betamax tapes. This would be done for every tape of that year before Cybervision would make its way to the rest of the stores in early 1988. All the video for these tapes are lost, and assumedly not even in CEC Corporate's possession. Getting footage of Arlington during 1987 may yield new footage of these tapes.
 
 The [Cyberstar Diagnostic Tape]({{< ref "wiki/Cyberstar Diagnostic Tape.md" >}}) for the Rock-afire was also found in a betamax format, meaning it is unclear how many showtapes continued to be produced in the beta format before all stores switched to SVHS. This needs to be researched as well.
 

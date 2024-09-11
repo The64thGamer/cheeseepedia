@@ -8,12 +8,12 @@ date = 2022-12-29T17:04:38Z
 contributors = ["GainerXO","Rexburg090","RedaCEC","ShowbizMidwest","216.125.34.66","CEC Tinley","The 64th Gamer","Cheeseclassic"]
 gallery = []
 +++
-
+[[File:ChuckECheeseTampaRockstarNight.jpg|thumb|554×573px|Store exterior in 2019.]]
 **_14308 Dale Mabry Hwy, Tampa, FL**_ is a store that opened in July 1991 with a Road Stage. This store was the 10th Road Stage constructed, the 4th store to open up as a _Chuck E. Cheese Pizza_ location in the state of Florida. <ref>https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/</ref> 
 ##Stages##
-This store debuted with a finalized version of the  retaining everything that came with a road stage past the couple of prototype stages prior. Mr. Munch & Pasqually's had their PTT movements for the 1st couple of years the store was opened. In 1993 the store would switch out his Pasqually's arms movement for ones resembling Chuck E's while Mr. Munch would retain his movements up until the conversion of the store in 1994.
+This store debuted with a finalized version of the [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) retaining everything that came with a road stage past the couple of prototype stages prior. Mr. Munch & Pasqually's had their PTT movements for the 1st couple of years the store was opened. In 1993 the store would switch out his Pasqually's arms movement for ones resembling Chuck E's while Mr. Munch would retain his movements up until the conversion of the store in 1994.
 
-From 1994 to 2019 they would receive a  The 2-Stage was also planned to be removed for a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) but the plans fell through due to the height of the ceiling causing issues.
+From 1994 to 2019 they would receive a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) to replace their Road Stage alongside all of the parts to give Mr. Munch & Pasqually their 2-Stage arm movements & Jasper's Cheese Guitar. In 2006 with their 2nd major expansion they would receive the Phase 4 update which removed the Phase 3 Sports Shelves surrounding the stage & the extra TV's surrounding it, They would replace Chuck E's Tux Outfit with his Avenger Outfit but Chuck E. & Helen still kept their microphones. They would also receive Helen & Jasper's bots from Lakeland, FL (3558 US Hwy 98) (Lakeland, FL (3558 US Hwy 98)) The 2-Stage was also planned to be removed for a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) but the plans fell through due to the height of the ceiling causing issues.
 
 Post early 2010's they would remove the orange dimmed lighting from the gameroom & showroom, alongside the showroom walls shortly after following the removal of extra TV's hanging on columns outside of the showroom. In late 2011 they would remove the décor surrounding the television on stage replacing it with a generic flat screen Samsung TV, The removal of the showroom walls & balcony seating era was also evident around this time. Sometime in Pre-2012 Munch & Pasqually had their body turns unlocked allowing them to move left & right alongside their heads. In 2013 they removed Chuck E's Avenger Hat & Jasper's Cowboy Hat to fit in more with the branding of Rockstar Era.
 
@@ -32,7 +32,7 @@ The era of animatronics for this store came to an end in August 13, 2019 when th
 !Installed
 !Removed
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |July 1991
 |1994-1995
 |-
@@ -40,14 +40,14 @@ The era of animatronics for this store came to an end in August 13, 2019 when th
 |1994-1995
 |September 2019
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |September 2019
 |Still In Use
 |-
 |}
 
 ## History ##
-**_14308 Dale Mabry Hwy, Tampa, FL**_ was a Corporate Owned Chuck E. Cheese Pizza location that would open up on July 1st, 1991 with Games 91' being the 1st showtape played at the store. This location was located in Paramount Plaza in it's own little area of the plaza surrounded by mini shops to the left & right of the building, the entrance was inside of the plaza with the back of the building being where most of the space is at for the location. In fact this location was only 0.7 miles away from Pizza Time Theatre that opened in Tampa a few years back  & 1.1 miles away from Showbiz Pizza Place that used to be located in  which was besides a Kmart.
+**_14308 Dale Mabry Hwy, Tampa, FL**_ was a Corporate Owned Chuck E. Cheese Pizza location that would open up on July 1st, 1991 with Games 91' being the 1st showtape played at the store. This location was located in Paramount Plaza in it's own little area of the plaza surrounded by mini shops to the left & right of the building, the entrance was inside of the plaza with the back of the building being where most of the space is at for the location. In fact this location was only 0.7 miles away from Pizza Time Theatre that opened in Tampa a few years back Tampa, FL (13210 N Dale Mabry Hwy) (Tampa, FL (13210 N Dale Mabry Hwy)) & 1.1 miles away from Showbiz Pizza Place that used to be located in Tampa, FL (12707 Dale Mabry Hwy) (Tampa, FL (12707 Dale Mabry Hwy)) which was besides a Kmart.
 
 ### Phase Remodels ###
 It's unknown if they ever received the Phase 1 remodel but in 1997 the location received a major expansion in terms of general layout changes & receiving the Phase 2 update with a whole new game section near the back of the store which used to just be storage, a new game package, skytubes, new artwork alongside record posters & sports décor in the showroom, & a bit of an rework of the in-store layout like the showroom wall entrance being moved further up. <ref>https://media.discordapp.net/attachments/1046959790364045313/1047031224595664966/unknown.png?width=414&height=536</ref> Sometime between 2000-2002 they would receive a Phase 3 update which would remove the ball pit for a Toddler Zone area alongside a new game package, this store would retain many of the Phase 2 artwork & design though. This would be followed in 2006 where the store saw it's 2nd major remodel as it updated the store into a Phase 4 removing most of the Phase 2 & Phase 3 artwork and décor for the kids and parody posters etc., the only surviving pieces of artwork includes some of the 2000's postcards posters & the showroom entrance logo. This location would also receive a new game package, curtains being turned off, dimmed lighting being removed from the showroom. In 2012 they would their last significant update in 2011-2012 where they would receive the 2010 remodel which removed the extra TV's outside of the showroom, removal of the showroom walls & balcony seating, the dimmed orangish lighting inside of the building being turned off, & the reduced size of the toddler zone. In 2014-2015 they would completely remove the skytubes & toddler zone for Chuck E's Bumper Cars, finally in 2018 they would change up the layout in the entrance inside of the store to widen up the gameroom & make it more open this however would be reverted back in late 2019 with the 2.0 remodel. In 2017 they were one of the 5 florida test locations for Chuck E. Cheese Menu items to be delivered via UberEats. <ref>https://www.dallasnews.com/business/local-companies/2017/12/21/chuck-e-cheese-s-to-test-delivery-in-north-texas-other-spot-markets/</ref>
@@ -169,11 +169,11 @@ TODO
 !Serial / Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |1991
 |Privately Owned By Grant
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
 |Privately Owned By Grant
 |-
@@ -189,7 +189,7 @@ TODO
 |1991
 |Privately Owned By Grant
 |-
-|
+|Wink (Animatronic) (Wink (Cyberamic))
 |N/A
 |Privately Owned By Grant
 |-

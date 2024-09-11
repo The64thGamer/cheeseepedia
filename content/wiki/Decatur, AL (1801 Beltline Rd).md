@@ -8,7 +8,7 @@ date = 2023-09-30T02:21:46Z
 contributors = ["MFHALSTON","Scofow76","The 64th Gamer","Stripes","AstridMascotFan2005","Caydenpedia"]
 gallery = []
 +++
-)]]**1801 Beltline Road, Store #906** is a Chuck E. Cheese's that opened on December 26, 2005 with a , which is still open to this day.
+[[File:PXL 20230806 161818704.MP (1).jpg|thumb|343x343px|Exterior photo of Decatur taken August 6, 2023. (PC: [[MFHALSTON]])]]**1801 Beltline Road, Store #906** is a Chuck E. Cheese's that opened on December 26, 2005 with a Small-Town Studio C (Studio C Cappa), which is still open to this day.
 
 ## Stages ##
 

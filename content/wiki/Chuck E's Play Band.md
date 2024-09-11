@@ -8,7 +8,7 @@ date = 2023-01-13T19:29:28Z
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-Chuck E.'s Play Band is a wrist band system at  restaurants, used to play games in the restaurants. Chuck E's Play Band was first implemented in 2018, as an alternative to the , which had been in use since late 2016. E-Tickets, introduced in late 2020 during the COVID-19 Pandemic as the replacement to physical paper tickets, are stored on the Play Band's as well.
+Chuck E.'s Play Band is a wrist band system at Chuck E. Cheese's (Chuck E. Cheese) restaurants, used to play games in the restaurants. Chuck E's Play Band was first implemented in 2018, as an alternative to the Chuck E.'s Play Pass (Play Pass), which had been in use since late 2016. E-Tickets, introduced in late 2020 during the COVID-19 Pandemic as the replacement to physical paper tickets, are stored on the Play Band's as well.
 
 ##History##
 TODO

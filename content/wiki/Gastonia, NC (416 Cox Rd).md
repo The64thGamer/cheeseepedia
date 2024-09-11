@@ -8,11 +8,11 @@ date = 2023-06-13T01:45:45Z
 contributors = ["Rexburg090","2600:4040:5A0E:D900:2C39:E2E5:5A32:ADB0","Nerdychucke","Documentor"]
 gallery = ["GastoniaNCKidCheckArea2021.jpg|thumb|A","GastoniaNCOrderingCounter&PrizeCounter2021.jpg|thumb|A","GastoniaNCBeverageArea2021.jpg|thumb|A","GastoniaStudioC2021.jpg|thumb|A"]
 +++
-
+[[File:GastoniaNCExterior2023MayGoogleMaps.png|thumb|Street view of the store's exterior back in May 2023 (PC: Google Maps)]]
 **_416 Cox Rd, Store #635**_ is a Chuck E. Cheese's in Gastonia, North Carolina that opened on November 27th, 2005.
 
 ##History##
-Gastonia opened on November 27th, 2005 with a  in a freestanding building. When the store opened, they had the 2005 Update of the [2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative]({{< ref "wiki/2003 'Cool Chuck' Reconfiguration  Major Remodel Initiative.md" >}}) like all other stores opening at the time. In 2010, Gastonia would receive an expansion which relocated the Showroom to the new part of the store, converting the original Showroom into an expanded Gameroom. This store would become the last Studio C 2000 in North Carolina after [Concord, NC (7970 Lyles Lane)]({{< ref "wiki/Concord, NC (7970 Lyles Lane).md" >}}) would receive the 2.0 Remodel in March 2023.
+Gastonia opened on November 27th, 2005 with a Studio C 2000 (Studio C 2000, 16m) in a freestanding building. When the store opened, they had the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative like all other stores opening at the time. In 2010, Gastonia would receive an expansion which relocated the Showroom to the new part of the store, converting the original Showroom into an expanded Gameroom. This store would become the last Studio C 2000 in North Carolina after [Concord, NC (7970 Lyles Lane)]({{< ref "wiki/Concord, NC (7970 Lyles Lane).md" >}}) would receive the 2.0 Remodel in March 2023.
 
 ##Stages##
 {| class='wikitable'
@@ -21,7 +21,7 @@ Gastonia opened on November 27th, 2005 with a  in a freestanding building. When 
 !Removed
 !Notes
 |-
-|
+|Studio C 2000 (Studio C 2000, 16m)
 |August 2001
 |March 2023
 |One of 3 installed in North Carolina (4 in the Carolinas) (Only 16m Installation in the state).
@@ -32,7 +32,7 @@ Gastonia opened on November 27th, 2005 with a  in a freestanding building. When 
 !Serial Number
 !Whereabouts
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32m (Studio C))
 |N/A
 |In Store.
 |-

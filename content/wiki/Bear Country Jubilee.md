@@ -1,7 +1,7 @@
 +++
 title = "Bear Country Jubilee"
 draft = false
-tags = []
+tags = ["Showtapes Showtape"]
 date = 2023-12-01T01:44:20Z
 
 [Article]

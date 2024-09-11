@@ -8,7 +8,7 @@ date = 2023-08-08T11:19:44Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_1978 Foxy Colleen nameplate**_ was used at the first  located inside the Town and Country Shopping Center in [https://en.wikipedia.org/wiki/San_Jose%2C_California San Jose, California;] placed under the guest star portrait while  was in use to identify the animatronic.
+The **_1978 Foxy Colleen nameplate**_ was used at the first [Chuck E. Cheese's Pizza Time Theatre on 370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) located inside the Town and Country Shopping Center in [https://en.wikipedia.org/wiki/San_Jose%2C_California San Jose, California;] placed under the guest star portrait while [Winchester Foxy Colleen]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}) was in use to identify the animatronic.
 
 ## Production ##
 Not much is known about the production of this nameplate, although we can assume it was made by the Fantasy Forest Manufacturing Company shortly before or after the production of the bot itself, if this is the case, it was most likely produced in a batch with the Kooser nameplates. If not, it was most likely made in-house by Pizza Time Theatre Incorporated. 

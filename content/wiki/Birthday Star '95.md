@@ -12,9 +12,9 @@ Birthday Star '95 was a birthday show produced exclusively for Chuck E. Cheese's
 
 {{Showtape|date=1995|length=3:16|c&r93=C&R|r1293=R12|cusvhs93=3-Stage|laseraam=AAM LaserDisc|lasersc=Studio C LaserDisc|studioc=Studio C DVD|image=birthday 95 screencap.png}}
 
-long-running Birthday Star show and succeeded  The show was produced by Disney-MGM Studios, whom ShowBiz Pizza Time Inc. had outsourced showtape production to in 1994 and uses the then-current voice acting and instrumentation featured in the shows they produced. This was the first birthday show produced from the ground up to be a live show and some elements of the show reflect that. 
+long-running Birthday Star show and succeeded [Birthday Star '92.]({{< ref "wiki/Birthday Star '92.md" >}}) The show was produced by Disney-MGM Studios, whom ShowBiz Pizza Time Inc. had outsourced showtape production to in 1994 and uses the then-current voice acting and instrumentation featured in the shows they produced. This was the first birthday show produced from the ground up to be a live show and some elements of the show reflect that. 
 
-Upon its release in January 1995, it was produced on a videocassette separate from the main showtape usually paired up with whatever live show was currently valid. The two shows would be separated by a 'birthday break', a short intermission designed to give the walk-around performer(s) a rest between performances. Birthday breaks would become a standard practice and would be used for several years until the widespread adoption of DVDs as a show format rendered them obsolete. Speaking of other formats, Birthday Star '95, unlike its predecessor, would see releases on LaserDisc and DVD + Floppy Disk shows as these formats were necessitated by new stage shows such as the  respectively. The show would remain valid under several forms through December 2000 when it was succeeded by [Birthday Star 2001]({{< ref "wiki/Birthday Star 2001.md" >}}).
+Upon its release in January 1995, it was produced on a videocassette separate from the main showtape usually paired up with whatever live show was currently valid. The two shows would be separated by a 'birthday break', a short intermission designed to give the walk-around performer(s) a rest between performances. Birthday breaks would become a standard practice and would be used for several years until the widespread adoption of DVDs as a show format rendered them obsolete. Speaking of other formats, Birthday Star '95, unlike its predecessor, would see releases on LaserDisc and DVD + Floppy Disk shows as these formats were necessitated by new stage shows such as the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) and [Studio C]({{< ref "wiki/Studio C Alpha.md" >}}) respectively. The show would remain valid under several forms through December 2000 when it was succeeded by Birthday Star 2001.
 
 ## Summary ##
 
@@ -36,10 +36,10 @@ The show begins as the curtains fly open and the band exclaims 'Haaaapppyy Birth
 * Ron Schneider - Mr. Mouth
 
 ## Showtape Release ##
-Birthday Star '95 was released in January 1995 alongside the . Unlike all of the existing stage types in stores at the time, the AAM utilized LaserDiscs to play show data and the birthday show was released on LaserDisc alongside the three showtapes that supported it. The show would be released on LaserDisc again with the debut of  at the  location on December 17th, 1997 and would be rolled out to additional locations on the format as Studio C began its first wave of nationwide installations in 1998.
+Birthday Star '95 was released in January 1995 alongside the [January 1995]({{< ref "wiki/January 1995.md" >}}) show. It was initially released on Cyberstar SVHS tapes for the three supported stage types in stores at the time: 3-Stage, C & R (C-Stage and Rocker Stage) and R12 (Road Stage, 1-Stage and 2-Stage). It would remain this way until August 1996 when the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) made its debut at the [Dallas, TX location on Montfort Dr]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}). Unlike all of the existing stage types in stores at the time, the AAM utilized LaserDiscs to play show data and the birthday show was released on LaserDisc alongside the three showtapes that supported it. The show would be released on LaserDisc again with the debut of [Studio C]({{< ref "wiki/Studio C Alpha.md" >}}) at the [Brookfield, WI]({{< ref "wiki/Brookfield, WI (19125 W Blue Mound Rd).md" >}}) location on December 17th, 1997 and would be rolled out to additional locations on the format as Studio C began its first wave of nationwide installations in 1998.
 
 ### 1999 reissue (Birthday Star '99) ###
-Beginning with the release of , Birthday Star '95 would be reissued as Birthday Star '99. This release of the show was identical to that of the previous, however the Mr. Mouth pre-show was removed. The character had been retired in  and as the years went on his introduction became increasingly outdated so it was dropped. Now the show was presented in an identical form to Birthday Star '92 as an isolated song that simply played from beginning to end with no intro or outro. This reissue would be released on Cyberstar SVHS tapes for 3-Stage and R12, (C & R showtapes had been discontinued following , shows were released on 2-3 DVD discs containing audio and video and floppy disks containing signals. Birthday Star '99 would see a release on DVD + Floppy shows as such. It would remain this way until January 2001 when Birthday Star '95/99 were discontinued and invalidated in favor of its successor, Birthday Star 2001.
+Beginning with the release of Terrific Time Travel (Chuck E.'s Terrific Time Travel Revue), Birthday Star '95 would be reissued as Birthday Star '99. This release of the show was identical to that of the previous, however the Mr. Mouth pre-show was removed. The character had been retired in [August 1995]({{< ref "wiki/Destination Imagination.md" >}}) and as the years went on his introduction became increasingly outdated so it was dropped. Now the show was presented in an identical form to Birthday Star '92 as an isolated song that simply played from beginning to end with no intro or outro. This reissue would be released on Cyberstar SVHS tapes for 3-Stage and R12, (C & R showtapes had been discontinued following [Blast From The Past]({{< ref "wiki/Blast From The Past.md" >}}) in January 1998) and on LaserDisc for Studio C. Between April 1999 and August 1999, CEC Entertainment Inc. transitioned all Studio C locations from using LaserDiscs to DVDs. Beginning with Fabulous World Adventure (Chuck E.'s Fabulous World Adventure), shows were released on 2-3 DVD discs containing audio and video and floppy disks containing signals. Birthday Star '99 would see a release on DVD + Floppy shows as such. It would remain this way until January 2001 when Birthday Star '95/99 were discontinued and invalidated in favor of its successor, Birthday Star 2001.
 
 {| class='wikitable'
 |+
@@ -52,11 +52,11 @@ Beginning with the release of , Birthday Star '95 would be reissued as Birthday 
 |3-Stage Post-93, C&R Post 93, R12 Post-93
 |-
 |1996
-| - 
+|[Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine (Show) (AAM).md" >}}) - [August 1997 show]({{< ref "wiki/August 1997 Show.md" >}})
 |AAM LaserDisc
 |-
 |1997
-|
+|[Studio C Premiere]({{< ref "wiki/Studio C Premiere.md" >}}) - [Chuck E.'s Dance Party]({{< ref "wiki/Dance Party 1999.md" >}})
 |Studio C LaserDisc
 |-
 |1999
@@ -64,6 +64,6 @@ Beginning with the release of , Birthday Star '95 would be reissued as Birthday 
 |3-Stage Post-93, R12 Post-93
 |-
 |1999
-|Birthday Star '99 -  - 
+|Birthday Star '99 - Terrific Time Travel (Chuck E.'s Terrific Time Travel Revue) - Chuck E.'s Holiday Party (Chuck E.'s Holiday Party 2000)
 |Studio C LaserDisc, Studio C DVD + Floppy
 |}

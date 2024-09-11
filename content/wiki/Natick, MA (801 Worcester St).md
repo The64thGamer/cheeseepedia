@@ -13,7 +13,7 @@ gallery = []
 The location opened on November 17, 1992 & closed on May 5, 2020 with a 2-Stage.
 
 ## History ##
-Natick opened on  November 17, 1992 with a 2-Stage. Natick's first remodel occurred in the Mid 1990's with the removal of elements from the 1988 remodel such as the Blue & White Awnings & neon lights. In the Early 2000's Chuck's outfit would be replaced with the Cool Chuck outfit. In around 2006, Natick remodeled again to the  which involved the removal of Showroom Walls, Balcony Seating & Showroom Walls. In around 2015/2016, the front entrance was expanded due to part of the complex remodeling, adding more storage space. In May 2020, Natick permanently closed. 
+Natick opened on  November 17, 1992 with a 2-Stage. Natick's first remodel occurred in the Mid 1990's with the removal of elements from the 1988 remodel such as the Blue & White Awnings & neon lights. In the Early 2000's Chuck's outfit would be replaced with the Cool Chuck outfit. In around 2006, Natick remodeled again to the CEC 2005 Remodel (2005 Remodel) which involved the removal of Showroom Walls, Balcony Seating & Showroom Walls. In around 2015/2016, the front entrance was expanded due to part of the complex remodeling, adding more storage space. In May 2020, Natick permanently closed. 
 
 ###Post Closure###
 Not long after closure, The location became office space for Cognex Corporation; repainting the building & gutting the interior and building new office spaces.
@@ -36,11 +36,11 @@ Not long after closure, The location became office space for Cognex Corporation;
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1991-1992
 |Unknown/Destroyed
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1991-1992
 |Unknown/Destroyed
 |-

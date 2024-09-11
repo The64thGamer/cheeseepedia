@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre"
 draft = false
-tags = []
+tags = ["Training, Updates, & Company Media Cashiering"]
 date = 2024-05-12T06:53:10Z
 
 [Article]
@@ -20,7 +20,7 @@ gallery = []
 
 ### 1976 ###
 
-* In early 1976 Atari would start its _Consumer Division_ for development of the Atari VCS, moving its employees to the  and .<ref>https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=moffett</ref>
+* In early 1976 Atari would start its _Consumer Division_ for development of the Atari VCS, moving its employees to the [Sunnyvale, CA Corporate Office]({{< ref "wiki/Atari Consumer Division Sunnyvale, CA Corporate Office.md" >}}) and [Sunnyvale, CA Manufacturing Office]({{< ref "wiki/Atari Consumer Division Sunnyvale, CA Manufacturing Office.md" >}}).<ref>https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=moffett</ref>
 * In May, Gene Landrum of _National Semiconductor_ would do a market study of home video games for the Consumer Division. This would be Gene's first interaction with Nolan Bushnell.<ref>https://archive.org/details/atariincbusiness0000gold/page/198/mode/2up?q=%22gene+landrum%22</ref>
 * Sometime in late Spring, Manny Gerard would meet with Nolan Bushnell to discuss the selling of Atari to _Warner Communications_. Nolan would bring up in the discussions his idea for a family entertainment center, using his rat costume he'd shown off around Atari as the central idea and mascot for the brand. Manny would not take interest in this concept, being more interested in the purchase for Atari's high tech productions.<ref>https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=chuck+e</ref>
 

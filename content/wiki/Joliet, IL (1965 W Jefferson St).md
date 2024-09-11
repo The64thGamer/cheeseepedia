@@ -8,7 +8,7 @@ date = 2022-09-16T17:59:36Z
 contributors = ["ShowbizMidwest","Documentor","ThatBoiCydalan","Rexburg090","CorrectorMan","SuperCreamPiper2008","CoolerDude","Muncho","Cecanddisneyfan2004","AstridMascotFan2005"]
 gallery = []
 +++
-**_1965 W Jefferson St**_ was a _Chuck E. Cheese's_ that opened as a _ShowBiz Pizza Place_ on July 13th, 1983 with a Rock-afire Explosion (Later Munch’s Make Believe Band), which closed in September 2006.
+[[File:JolietCECExterior.jpg|Joliet in the early 2000’s.]]**_1965 W Jefferson St**_ was a _Chuck E. Cheese's_ that opened as a _ShowBiz Pizza Place_ on July 13th, 1983 with a Rock-afire Explosion (Later Munch’s Make Believe Band), which closed in September 2006.
 
 
 ##Stages##
@@ -17,7 +17,7 @@ It started as a Rock-afire, then in 1991 or 1992 became a 3-Stage.
 ###Post Closure###
 As for the building itself, after Joliet closed in September 2006, it was left vacant for 15 years. The exterior remained almost the same, with the only changes being it being painted over. As for the interior, it was mostly gutted, but things such as the showroom walls and the Skytubes letters were left inside. In 2021, as part of the redevelopment of the vacant space next to the CEC, Planet Fitness decided to move in. 
 
-As for the show, it was sent to the  store. Mishawaka installed Joliet’s animatronics on their stage, which performed until 2018 when the stage caught fire and was removed. 
+As for the show, it was sent to the [Mishawaka, Indiana]({{< ref "wiki/Mishawaka, IN (822 W McKinley Ave).md" >}}) store. Mishawaka installed Joliet’s animatronics on their stage, which performed until 2018 when the stage caught fire and was removed. 
 
 ## Gallery ##
 File:JolietSPP.png|Joliet as a ShowBiz Pizza Place in the 1980’s.
@@ -40,23 +40,23 @@ As previously mentioned, the animatronics from Joliet were sent to Mishawaka, IN
 !Serial
 !Whereabouts
 |-
-|[Rolfe DeWolfe/Chuck E. Cheese]({{< ref "wiki/Rolfe DeWolfeChuck E Cheese.md" >}})
+|Rolfe DeWolfe/Chuck E. Cheese
 |10-82 1-23
 |Owned by a Doc Ferdifer.
 |-
-|[Mitzi Mozzarella/Helen Henny]({{< ref "wiki/Mitzi MozzarellaHelen Henny.md" >}})
+|Mitzi Mozzarella/Helen Henny
 |10-82 5-23
 |Owned by a private collector.
 |-
-|[Fatz Geronimo/Mr. Munch]({{< ref "wiki/Fatz GeronimoMr Munch.md" >}})
+|Fatz Geronimo/Mr. Munch
 |10-82 3-23
 |Unknown where he went after the fire.
 |-
-|[Beach Bear/Jasper T. Jowls)]({{< ref "wiki/Beach BearJasper T Jowls).md" >}})
+|Beach Bear/Jasper T. Jowls)
 |10-82 4-23
 |Last seen at the Chicago Kedzie, IL CEC being used as parts. Unknown what happened after Kedzie got Studio C.
 |-
-|[Dook Larue/Pasqually]({{< ref "wiki/Dook LaruePasqually.md" >}})
+|Dook Larue/Pasqually
 |10-82 2-23
 |Unknown where he went after the fire.
 |-

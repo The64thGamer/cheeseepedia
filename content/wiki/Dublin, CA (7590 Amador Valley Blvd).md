@@ -21,14 +21,14 @@ Dublin opened with a Rock-afire Explosion. Not much is known about it, and was r
 !Removed
 !Notes
 |-
-|
+|[The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |April 1982
 |December 1985
 |First Showbiz Pizza in California.
 |}
 
 ## History ##
-Dublin opened on April 21, 1982 as the first Showbiz Pizza Place in California. Not much is known about this location, although there is some footage of it along with the [Pleasanton, CA (5572 Springdale Ave)]({{< ref "wiki/Pleasanton, CA (5572 Springdale Ave).md" >}}) PTT in 1983. Dublin was untouched until its closure in December 1985 (day unknown) for unknown reasons, but likely due to SPP's decline. It became many different businesses and as of July 2023, the building is still vacant.
+Dublin opened on April 21, 1982 as the first Showbiz Pizza Place in California. Not much is known about this location, although there is some footage of it along with the Pleasanton, CA (5572 Springdale Ave) PTT in 1983. Dublin was untouched until its closure in December 1985 (day unknown) for unknown reasons, but likely due to SPP's decline. It became many different businesses and as of July 2023, the building is still vacant.
 
 ## Animatronics ##
 {| class='wikitable'

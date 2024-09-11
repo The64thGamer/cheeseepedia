@@ -1,7 +1,7 @@
 +++
 title = "Manchester, NH (1525 S Willow St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-09T21:26:23Z
 
 [Article]
@@ -12,7 +12,7 @@ gallery = []
 ##Stages##
 When Manchester opened, it housed a Balcony stage. Sometime between 1989 and 1990, they installed a C-Stage. At this time, the Cyberamics were in alright condition. In 1992, during the peak of the 'Tux Chuck' era, the 2-Stage was Installed.
 
-Between the 2000's, a  was installed. The stage housed a  animatronic, which was the most advanced animatronic in the history of CEC. Strangely, the exterior's text kept the Pizza Time Theatre font all the way up to it's Phase 4 remodel in 2006.
+Between the 2000's, a Studio C 2000 (Studio C Beta) was installed. The stage housed a Chuck E. Cheese 16m (Animatronic) (16 movement) animatronic, which was the most advanced animatronic in the history of CEC. Strangely, the exterior's text kept the Pizza Time Theatre font all the way up to it's Phase 4 remodel in 2006.
 {| class='wikitable'
 |+
 !Stage
@@ -31,13 +31,13 @@ Between the 2000's, a  was installed. The stage housed a  animatronic, which was
 |1990's
 |2000's
 |-
-|
+|Studio C 2000 (Studio C Beta, 16M)
 |2000's
 |Still in use
 |}
 ##History##
 ###PTT Era###
-This store opened in August 1982 with a [Balcony Stage]({{< ref "wiki/Balcony Stage.md" >}}), which lasted all the way until around 1991 when the stage was replaced with a [C-Stage]({{< ref "wiki/C-Stage.md" >}}). Sadly, there is no documentation of Manchester as a Pizza Time Theatre or Phase 2.
+This store opened in August 1982 with a Balcony Stage, which lasted all the way until around 1991 when the stage was replaced with a C-Stage. Sadly, there is no documentation of Manchester as a Pizza Time Theatre or Phase 2.
 ###'Chuck E. Cheese's Pizza' Remodel###
 The remodel occured around the early 90's probably around 1991. The store got a new exterior and also got the colorful checkers, and also got the new C-Stage. They also got some new 90's decor like Mount Chuckmore and others. At some point in the mid 90's, they would replace the C-Stage with a 2-Stage. They would remain like this until the late 90's.
 ###Phase 3 Remodel###

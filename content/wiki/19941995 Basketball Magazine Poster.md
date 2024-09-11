@@ -8,7 +8,7 @@ date = 2022-07-15T02:54:30Z
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = []
 +++
-
+[[File:Basketballposter.jpg|thumb|Basketball magazine poster]]
 The **_Basketball magazine poster**_ was released in stores in 1994 and 1995 alongside numerous other magazine posters.
 
 ## Appearance ##

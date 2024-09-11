@@ -8,7 +8,7 @@ date = 2021-11-29T07:07:09Z
 contributors = ["Himitsu","The 64th Gamer","2600:2B00:732F:E700:10A2:7CCE:3A01:108","CEC Tinley","GallaRBX2"]
 gallery = []
 +++
-The **Studio C control system** manages all elements of the animatronic show at [Chuck E Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) locations featuring the [Studio C]({{< ref "wiki/Studio C.md" >}}) show type, in addition to controlling some ancillary equipment such as the [Karaoke]({{< ref "wiki/Karaoke.md" >}}) system (during the period in which it was being used).
+The **Studio C control system** manages all elements of the animatronic show at Chuck E Cheese locations featuring the [Studio C]({{< ref "wiki/Studio C.md" >}}) show type, in addition to controlling some ancillary equipment such as the Karaoke system (during the period in which it was being used).
 
 This system is a major technological departure from the previous show control systems used by the chain, marking a move to using more standard hardware and protocols. It is also the first Chuck E Cheese control system able to seek to arbitrary, frame-addressable locations on the accompanying video.
 

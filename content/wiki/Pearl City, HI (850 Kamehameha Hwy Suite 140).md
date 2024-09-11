@@ -13,10 +13,10 @@ gallery = []
 This is not to be confused with the [Pearl City, HI (98-1258 Kaahumanu St)]({{< ref "wiki/Pearl City, HI (98-1258 Kaahumanu St).md" >}}) Pizza Time Theatre which opened on August 7th, 1982 and closed in 1989 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 ## History ##
-Pearl City would open in December 1994 (Date Unknown) with a 1-Stage with a turntable in an unnamed shopping center. The location would open almost 5 years after the closure of . When the store opened, the store would have the  remodel of the  which removed the Showroom Walls, Balcony Seating, & adding purple walls.  As of March 2023, Pearl City still has the 1-Stage and the 2005 Update.
+Pearl City would open in December 1994 (Date Unknown) with a 1-Stage with a turntable in an unnamed shopping center. The location would open almost 5 years after the closure of [the original location]({{< ref "wiki/Pearl City, HI (98-1258 Kaahumanu St).md" >}}). When the store opened, the store would have the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel of the 1994 SPT Repositioning / Remodel Program. In around 2006-2008, the store would receive the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2003 'Cool Chuck' Major Remodel Initiative) which removed the Showroom Walls, Balcony Seating, & adding purple walls.  As of March 2023, Pearl City still has the 1-Stage and the 2005 Update.
 
 ## Stages ##
-When Pearl City opened, they would receive a 1-Stage with a Turntable. This was the first Cyberamic Stage in Hawaii after the closure of . Back when they first opened, Chuck E would have his Tuxedo & Derby outfit like every other Munch's Make Believe Band stage had at the time. In around the Early-Mid 2000's, The Tuxedo & Derby outfit were replaced with the Cool Chuck outfit which he had until his removal. Sometime in the 2000s, the turntable curtain that Chuck E used was changed from blue to red. Then at some point after that, The turntable design was changed to a black background with a star on it. At an unknown point in time, the Wink was removed for 3 Flatscreen TVs. In September 2013, Chuck's cap was removed. Sometime in 2015-2016, The turntable was turned and the background was replaced with a Flatscreen TV, removing the Chuck E animatronic. As of March 2023, Pearl City still has the 1-Stage but without Chuck E.
+When Pearl City opened, they would receive a 1-Stage with a Turntable. This was the first Cyberamic Stage in Hawaii after the closure of [the original location]({{< ref "wiki/Pearl City, HI (98-1258 Kaahumanu St).md" >}}). Back when they first opened, Chuck E would have his Tuxedo & Derby outfit like every other Munch's Make Believe Band stage had at the time. In around the Early-Mid 2000's, The Tuxedo & Derby outfit were replaced with the Cool Chuck outfit which he had until his removal. Sometime in the 2000s, the turntable curtain that Chuck E used was changed from blue to red. Then at some point after that, The turntable design was changed to a black background with a star on it. At an unknown point in time, the Wink was removed for 3 Flatscreen TVs. In September 2013, Chuck's cap was removed. Sometime in 2015-2016, The turntable was turned and the background was replaced with a Flatscreen TV, removing the Chuck E animatronic. As of March 2023, Pearl City still has the 1-Stage but without Chuck E.
 
 ## Animatronics ##
 {| class='wikitable'
@@ -24,11 +24,11 @@ When Pearl City opened, they would receive a 1-Stage with a Turntable. This was 
 !Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1994
 |Unknown/Destroyed
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1994
 |In Store.
 |-

@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Showtape
 |date=July 1983
-|ceibetacam=y|image=Uncleklunkdiagtape.png}}The **_Uncle Klunk Diagnostic Showtape**_ is a July 1983 diagnostic tape for  using the .
+|ceibetacam=y|image=Uncleklunkdiagtape.png}}The **_Uncle Klunk Diagnostic Showtape**_ is a July 1983 diagnostic tape for [Uncle Klunk]({{< ref "wiki/Uncle Klunk (Animatronic).md" >}}) using the [CEI Betamax]({{< ref "wiki/CEI Betamax.md" >}}) format to display an identical diagnostic video alongside the [animation data]({{< ref "wiki/Data.md" >}}).
 
 The only segment, _Pizza Expert_, was reused from the [Uncle Klunk Showtape]({{< ref "wiki/Uncle Klunk Showtape.md" >}}) bundled in the same package Uncle Klunk was shipped with.
 

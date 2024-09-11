@@ -1,7 +1,7 @@
 +++
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-27T21:09:33Z
 
 [Article]

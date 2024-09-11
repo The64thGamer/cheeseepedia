@@ -10,10 +10,10 @@ gallery = []
 +++
 **_1245 Bald Hill Rd**_ was a Chuck E. Cheese's Pizza location that opened in Late 1990 with a Road Stage.
 
-This is not to be confused with the  which opened on March 6th, 2000 and was the first location in New England to open with Studio C; that store is still operation to this day.  
+This is not to be confused with the [Warwick, RI (1960 Post Rd)]({{< ref "wiki/Warwick, RI (1960 Post Rd).md" >}}) location which opened in June 1984 and closed in Late 1990 with the [Family Album]({{< ref "wiki/Family Album.md" >}}) Stage. This is also not to be confused with the [650 Bald Hill Rd]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}) which opened on March 6th, 2000 and was the first location in New England to open with Studio C; that store is still operation to this day.  
 
 ## History ##
-Warwick opened in the Bald Hill Plaza as a relocation to the  location in Late 1990 with a . This was the first New England location with the Munch's Make Believe Band stage format. The Road Stage would remain until sometime in 1994, when the store was remodeled to the 1992 update to the 1994 SPT Repositioning / Remodel Program; it was replaced with a ). The 1-Stage would remain for a few months until November 19, 1994 when the store was closed permanently and everything was auctioned off in January 1995. Shortly after closure, the space was converted into Hometown Buffet; they closed in Early 2012. in Late 2012, it was converted into Hibachi Grill & Supreme Buffet. As of March 2023, Hibachi Grill & Supreme Buffet still remains in the space.
+Warwick opened in the Bald Hill Plaza as a relocation to the [1960 Post Rd]({{< ref "wiki/Warwick, RI (1960 Post Rd).md" >}}) location in Late 1990 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). This was the first New England location with the Munch's Make Believe Band stage format. The Road Stage would remain until sometime in 1994, when the store was remodeled to the 1992 update to the 1994 SPT Repositioning / Remodel Program; it was replaced with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) with a Turntable (One of two in New England; the other was in [New London]({{< ref "wiki/New London, CT (389 N Frontage Rd).md" >}})). The 1-Stage would remain for a few months until November 19, 1994 when the store was closed permanently and everything was auctioned off in January 1995. Shortly after closure, the space was converted into Hometown Buffet; they closed in Early 2012. in Late 2012, it was converted into Hibachi Grill & Supreme Buffet. As of March 2023, Hibachi Grill & Supreme Buffet still remains in the space.
 
 Sometime after the show was auctioned off, it was retrofitted into The Travelling Theme Park Band. 
 
@@ -24,7 +24,7 @@ Sometime after the show was auctioned off, it was retrofitted into The Travellin
 !Removed
 !Notes
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |Late 1990
 |Early-Mid 1994
 |One of 3 Road Stages in New England. Unknown if it was a Prototype or Finalized Road Stage. Animatronics from an unknown Pizza TIne Theatre that opened in 1981. First MMBB Stage of any kind in New England.

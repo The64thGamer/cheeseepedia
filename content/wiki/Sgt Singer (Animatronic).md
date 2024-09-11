@@ -43,8 +43,8 @@ Current known movements are
 * Body
 
 ## Gallery ##
-
-
+[[File:348578987 496051229323528 5961769661822251617 n.jpg|none|thumb|Promotional image featuring P.T. Bearum (Left), Sgt. Singer (Middle), and Pounce D' Lion (Right)]]
+[[File:SgtSingerFrontBarnyard2.jpg|alt=Image of Sgt. Singer (Barnyard Variant) from the front|none|thumb|324x324px|Image of Sgt. Singer (Barnyard Variant) from the front]]
 <gallery>
 File:348578987 496051229323528 5961769661822251617 n.jpg|Promotional image featuring P.T. Bearum (Left), Sgt. Singer (Middle), and Pounce D' Lion (Right)
 File:SgtSingerFrontBarnyard2.jpg|Image of Sgt. Singer (Barnyard Variant) from the front

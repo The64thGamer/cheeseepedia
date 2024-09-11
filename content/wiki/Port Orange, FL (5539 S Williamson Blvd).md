@@ -8,7 +8,7 @@ date = 2022-09-30T01:17:06Z
 contributors = ["Chouts1","Pench0782","CECBowlingGreen","Studio Cheese","BurgersNuggs445","CorrectorMan","Loud.time","47.17.236.200","76.255.27.153","Captain Cheese IV","AstridMascotFan2005","Cy's Junk at School"]
 gallery = []
 +++
-**5539 S Williamson Blvd** was a Chuck E. Cheese's that opened on December 26, 2013 with a , which was recently hit by Hurricane Ian.
+**5539 S Williamson Blvd** was a Chuck E. Cheese's that opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}), which was recently hit by Hurricane Ian.
 
 ## History ##
 TODO
@@ -37,7 +37,7 @@ When the store opened, they had a Circles of Light, 32M, the bot came from Montf
 !Whereabouts
 !
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 |155
 |Destroyed
 |

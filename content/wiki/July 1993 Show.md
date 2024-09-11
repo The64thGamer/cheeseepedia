@@ -22,7 +22,7 @@ The **_July 1993 Show**_ was the segmented show which played during the summer o
 #**Intermission 1**
 ##Guessing Game
 ##VJ Spot
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##Ball Crawl
 ##Hand Jive
 #**Intermission 2**
@@ -32,7 +32,7 @@ The **_July 1993 Show**_ was the segmented show which played during the summer o
 ##Mailman
 ##VJ Spot
 ##Geography Rap - 'Oceans'
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+#**[[File:New Graphic.png]]** **Segment 2**
 ##Feel The Rhythm
 ##Do You Believe In Magic
 #**Intermission 3**
@@ -42,7 +42,7 @@ The **_July 1993 Show**_ was the segmented show which played during the summer o
 ##VJ Spot
 ##CEC TV Classic ID
 ##1 Minute Countdown
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 3**
+#**[[File:New Graphic.png]]** **Segment 3**
 ##Clock Tells Me (Time for Chuck E.'s Place)
 ##I Feel Good
 #**Intermission 4**

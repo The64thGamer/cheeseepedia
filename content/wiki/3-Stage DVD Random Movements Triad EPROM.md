@@ -8,3 +8,4 @@ date = 2022-07-17T01:08:28Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
+[[File:Dvd eprom.jpg|thumb|420x420px|3-Stage DVD Random Movements EPROM]]

@@ -24,7 +24,7 @@ This was created as an option for international stores that don't celebrate Hall
 ##Show List:##
 
 #**Intermission 1**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
+##[[File:New Graphic.png]]Spanish Safety Message
 ##BTS - 'Lights'
 #**Skit 1**
 ##Jasper & Munch - 'Song Title'
@@ -35,7 +35,7 @@ This was created as an option for international stores that don't celebrate Hall
 #**Skit 2**
 ##Chuck E. Cheese - 'Let's Have A Party'
 #**Intermission 3**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
+##[[File:New Graphic.png]]Spanish Safety Message
 ##Koo Koo Kanga Roo
 ##Juicebox Jukebox - 'Clean it Up'
 #**Skit 3**
@@ -48,7 +48,7 @@ This was created as an option for international stores that don't celebrate Hall
 #**Skit 4**
 ##Jasper T. Jowls - 'Jasper's Country Classic'
 #**Intermission 5**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Spanish Safety Message
+##[[File:New Graphic.png]]Spanish Safety Message
 ##American Authors - 'Best Day of My Life'
 ##Juicebox Jukebox - 'ABC's of You'
 #**Skit 5**

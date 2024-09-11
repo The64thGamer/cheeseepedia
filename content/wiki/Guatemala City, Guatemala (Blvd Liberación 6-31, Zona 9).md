@@ -10,7 +10,7 @@ gallery = ["Macsway","Macsway","Macsway"]
 +++
 {{Generic|image=Zona9ext.jpg|desc=Exterior}}
 
-**_Blvd Liberación 6-31, Zona 9**_ was a franchised _Chuck E. Cheese's_ that opened in 1996 with a  and [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show, and closed in 2016.
+**_Blvd Liberación 6-31, Zona 9**_ was a franchised _Chuck E. Cheese's_ that opened in 1996 with a [3-Stage]({{< ref "wiki/Concept Unification.md" >}}) and [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show, and closed in 2016.
 
 This location in particular appeared to be an anchor store for its own shopping center, 'Chuck E. Cheese's Center', up until 2010. Little information is known about the shopping center this CEC location sat in, or why the center was named after Chuck E. Cheese's.
 ##Stages##
@@ -18,7 +18,7 @@ When Zona 9 first opened, it housed a 3-Stage in it's Chuck E. Cheese's building
 
 The 3-Stage show appeared to never receive any sort of maintenance for its entire run. The only things that were to be done to the show other were a few cosmetic changes from the Cyberamic characters and custom made pieces and giving Chuck E., Helen, and Munch plastic masks.
 
-The 3-Stage animatronics were finally relocated once again to the  location as a static display piece, Pasqually now wearing a walkaround head.
+The 3-Stage animatronics were finally relocated once again to the Concepcion County, Guatemala (Concepcion County) location as a static display piece, Pasqually now wearing a walkaround head.
 ##History##
 ##Arcade Machines##
 Documented machines before closure.
@@ -49,14 +49,14 @@ Documented machines before closure.
 * [https://www.arcade-museum.com/game_detail.php?game_id=20006 Rock N' Moon Rally]
 * [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
 * [Ken Chuck E. Derby]({{< ref "wiki/Ken Chuck E Derby.md" >}})
-* [Chuck E's Marathon Runner]({{< ref "wiki/Chuck E's Marathon Runner.md" >}})
+* Chuck E's Marathon Runner
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
-* [Chuck E. Cheese's Trolly]({{< ref "wiki/Chuck E Cheese's Trolly.md" >}})
-* [Tower of Power]({{< ref "wiki/Tower of Power.md" >}})
-* [Teacup Ride]({{< ref "wiki/Teacup Ride.md" >}})
-* [CEC Power Beat]({{< ref "wiki/CEC Power Beat.md" >}})
-* [Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime]({{< ref "wiki/Chuck E Cheese's Kiddie Coaster Thrill of a Lifetime.md" >}})
-* [Chuck E. Cheese's Photo Ride (1997)]({{< ref "wiki/Chuck E Cheese's Photo Ride (1997).md" >}})
+* Chuck E. Cheese's Trolly
+* Tower of Power
+* Teacup Ride
+* CEC Power Beat
+* Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
+* Chuck E. Cheese's Photo Ride (1997)
 
 ##Videos##
 {| class='wikitable'
@@ -191,7 +191,7 @@ File:Macsway 2009 Google Earth.png|2011
 !Serial / Manufacturing Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Used for parts / Unknown
 |-
@@ -211,33 +211,33 @@ File:Macsway 2009 Google Earth.png|2011
 |Unknown
 |Used for parts / Unknown
 |-
-|[Wink (Animatronic)]({{< ref "wiki/Wink (Animatronic).md" >}}){< ref "wiki/Wink (Animatronic).md" >}})
+|Wink (Animatronic)
 |N/A
 |Unknown
 |-
-|[Wink (Animatronic)]({{< ref "wiki/Wink (Animatronic).md" >}})
+|Wink (Animatronic)
 |N/A
 |Unknown
 |-
-|
+|[Rolfe Dewolfe & Earl Schmerle / Chuck E. Cheese (Animatronic)]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |1-82 1-26
-|On display at  location
+|On display at Concepcion County, Guatemala (Concepcion County) location
 |-
-|
+|[Dook Larue / Pasqually (Animatronic)]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |1-82 2-26
-|On display at  location
+|On display at Concepcion County, Guatemala (Concepcion County) location
 |-
 |[Fatz Geronimo (Animatronic)]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |1-82 3-26
-|On display at  location
+|On display at Concepcion County, Guatemala (Concepcion County) location
 |-
-|
+|[Beach Bear / Jasper T. Jowls (Animatronic)]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |1-82 4-26
-|On display at  location
+|On display at Concepcion County, Guatemala (Concepcion County) location
 |-
-| 
+|[Mitzi Mozzarella / Helen Henny (Animatronic)]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}}) 
 |1-82 5-26
-|On display at  location
+|On display at Concepcion County, Guatemala (Concepcion County) location
 |}
 
 ##References##

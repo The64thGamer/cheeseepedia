@@ -10,7 +10,7 @@ gallery = []
 +++
 **_Show 4 2015**_ released June 15th 2015 featuring two songs
 
-This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from .
+This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from [July 2014]({{< ref "wiki/July 2014 Show.md" >}}).
 
 ## Show List: ##
 **Intermission 1**

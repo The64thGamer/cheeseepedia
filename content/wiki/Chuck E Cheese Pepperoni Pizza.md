@@ -15,7 +15,7 @@ gallery = []
 It is manufactured by Flatlander Foods. They first started being sold in July 2021.
 
 ## Nutrition Facts ##
-
+[[File:CECFrozenPepperoniPizzaNutritionFacts.png|left|frameless|Nutrition Facts]]
 
 
 

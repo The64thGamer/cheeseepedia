@@ -8,14 +8,14 @@ date = 2024-02-05T02:57:14Z
 contributors = ["PizzaEntertainmentFanX"]
 gallery = ["OrwellARobotYouControl.jpg|Showbiz","ShowBizRoboticsRevealedOrwell.jpg|Orwell"]
 +++
-
-Orwell: A Robot You Control (simply known as Orwell) was an animatronic attraction created for  in the mid to late 80's. The bot was a retrofitted . The attraction gave patrons the ability to control the Mech using a control module.
+[[File:OrwellARobotYouControl.jpg|alt=Orwell: A Robot You Control|thumb|345x345px|2 images of Orwell in an Unknown Showbiz Store]]
+Orwell: A Robot You Control (simply known as Orwell) was an animatronic attraction created for [Showbiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) in the mid to late 80's. The bot was a retrofitted [Uncle Klunk or Country Klunk animatronic mech]({{< ref "wiki/Uncle Klunk (Animatronic).md" >}}). The attraction gave patrons the ability to control the Mech using a control module.
 
 ## History ##
 
 ### Concept Art & Origin ###
-
-Orwell was created alongside the other Klunk retrofit, . Orwell's bot was originally ment to be a standing mech in a box with a control module.
+[[File:ShowBizRoboticsRevealedOrwell.jpg|alt=Orwell Concept art|thumb|Concept art of Orwell saying 'Showbiz Robotics Presents: Orwell -A Robot You Control-']]
+Orwell was created alongside the other Klunk retrofit, Uncle Pappy (Animatronic) (Uncle Pappy). Orwell's bot was originally ment to be a standing mech in a box with a control module.
 
 ### In Store ###
 

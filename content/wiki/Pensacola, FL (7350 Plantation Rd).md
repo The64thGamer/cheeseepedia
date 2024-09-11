@@ -31,3 +31,4 @@ On July 31, 2017, the following posters were randomly removed as per request of 
 This store's 2.0 remodel process started the week of July 12, 2018 and was completed in mid August 2018.
 
 ## Gallery ##
+[[File:Pensacola 4 2012 1.jpg|left|thumb|April 2012]]

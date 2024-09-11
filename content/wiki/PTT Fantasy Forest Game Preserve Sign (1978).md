@@ -14,7 +14,7 @@ The first **_Pizza Time Theatre Fantasy Forest Game Preserve**_ sign first appea
 Similar to the smaller, black counterpart, not much is known about the production of the sign. We can theorize it was made between January 1978 through November 1978, although we do not have a definitive answer. 
 
 ## Usage/Releases ##
-
+[[File:AFormulaForSuccessTIM.png|thumb|Alongside an extended view of Winchesters showroom, the sign can be seen to the right.]]
 The only known information about this sign comes from the Topeka Inn Management flyer, before Bob Brock ventured with Creative Engineering. Outside of Kooser, no other instance of this sign is known. 
 
 ## Design ##

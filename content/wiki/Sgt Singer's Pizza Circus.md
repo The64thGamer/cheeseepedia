@@ -8,8 +8,8 @@ date = 2024-01-25T08:47:07Z
 contributors = ["Lelmaster","BigCtheDataFinder"]
 gallery = []
 +++
-
-Sgt. Singer's Pizza Circus (styled as 'Sgt. Singer's Spectacular Star Studded Circus Pizza Show') was a pizza place with at least 4 locations, a Kiddieland location, and multiple travelling shows. The concept was operated by [Nickels and Dimes Incorporated]({{< ref "wiki/Nickels and Dimes Incorporated.md" >}}), who also operated the Tilt arcades. The chain offered pizza, beer, animatronic shows, and arcade games for guests to enjoy. While the exact amount of time the chain was active is unknown, newspaper articles helped to give a rough estimate of March 1, 1982 - August 7, 1991. 
+[[File:348578987 496051229323528 5961769661822251617 n.jpg|alt=Image of the main cast from Sgt. Singer's as Sgt. Striper's Touring Band at The Wild Horse Saloon.|thumb|Image of the main cast from Sgt. Singer's as Sgt. Striper's Touring Band at The Wild Horse Saloon.]]
+Sgt. Singer's Pizza Circus (styled as 'Sgt. Singer's Spectacular Star Studded Circus Pizza Show') was a pizza place with at least 4 locations, a Kiddieland location, and multiple travelling shows. The concept was operated by Nickels and Dimes Incorporated, who also operated the Tilt arcades. The chain offered pizza, beer, animatronic shows, and arcade games for guests to enjoy. While the exact amount of time the chain was active is unknown, newspaper articles helped to give a rough estimate of March 1, 1982 - August 7, 1991. 
 
 ## History ##
 

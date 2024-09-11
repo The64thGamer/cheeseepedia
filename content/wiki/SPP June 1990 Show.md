@@ -22,7 +22,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Nick_of_Time_(song) Nick Of Time]
 ## Cyberstar Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 1**
+# **[[File:New Graphic.png]]Segment 1**
 ## Friends
 # **Intermission 2**
 ## 6 Minute Countdown
@@ -30,7 +30,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Do_You_Remember%3F_(Phil_Collins_song) Do You Remember]
 ## Cyberstar Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}})Segment 2**
+# **[[File:New Graphic.png]]Segment 2**
 ## Rock & Roll Tribute
 # **Intermission 3**
 ## 6 Minute Countdown
@@ -57,7 +57,7 @@ For some stores, this was the last tape used before _Concept Unification_ would 
 ### [https://en.wikipedia.org/wiki/Your_Baby_Never_Looked_Good_in_Blue Your Baby Never Looked Good In Blue]
 ## Cyberstar Intro
 # **Segment 4**
-## 
+## [TV Themes]({{< ref "wiki/TV Themes (Cyberstar Segment).md" >}})
 ### [https://en.wikipedia.org/wiki/Wild,_Wild_West_(The_Escape_Club_song) Wild, Wild West]
 ### [https://en.wikipedia.org/wiki/The_Wild_Wild_West The Wild Wild West Theme Song]
 ### [https://en.wikipedia.org/wiki/Bonanza_(song) Bonanza]

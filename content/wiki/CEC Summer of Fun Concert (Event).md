@@ -1,7 +1,7 @@
 +++
 title = "CEC Summer of Fun Concert (Event)"
 draft = false
-tags = []
+tags = ["Events"]
 date = 2022-02-13T02:15:45Z
 
 [Article]

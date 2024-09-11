@@ -17,6 +17,6 @@ The First Track contains the Showtape Audio Left Channel. This Audio is usually 
 
 The Second Track contains the Showtape Audio Right Channel. This Audio is usually DBX Encoded and requires DBX Decoding.
 
-The Third Track contains  [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}){< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Top Drawer and to play correctly requires a waveshapper.
+The Third Track contains [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Top Drawer and to play correctly requires a waveshapper.
 
-The Fourth Track contains  [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Bottom Drawer and to play correctly requires a waveshapper.
+The Fourth Track contains [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Bottom Drawer and to play correctly requires a waveshapper.

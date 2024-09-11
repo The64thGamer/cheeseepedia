@@ -30,7 +30,7 @@ In November 2014, Methuen began their remodel to the 2013 Update, along with the
 |102
 |In store.
 |-
-|
+|Parrot (Animatronic) (Bird)
 |N/A
 |In store.
 |}

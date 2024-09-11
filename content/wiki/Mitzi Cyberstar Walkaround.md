@@ -12,7 +12,7 @@ gallery = []
 ShowBiz Pizza used the walkaround of Mitzi Mozzarella exclusively in the Cyberstar videos of the late 1980s. Her costume was made by JM Costumers. It appears that a few different versions of her were made. 
 
 ## Different Versions ##
-
+[[File:Beta Mitzi Costume??.jpg|thumb|Beta Cyberstar Mitzi Costume??]]
 The First version was a pretty accurate Mitzi. The way you would be able to see out of the costume was through the eyes and possibly nose and mouth.
 
 The Second version was the one that actually got used. In this version however, Mitzi's face is alot more rounder and her eyes are bigger and blue. Her ears don't stay up like the other one. 

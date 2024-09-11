@@ -9,7 +9,7 @@ contributors = ["Cheeseclassic","Cecnj98"]
 gallery = []
 +++
 {{Stub}}{{Generic|image=Bel Air’s Exterior in 2019.jpg|desc=Exterior, 2019}}
-**Bel Air, MD (5 Bel Air South Pkwy)** is a Chuck E. Cheese’s that open on March 29, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}), and is still open with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
+**Bel Air, MD (5 Bel Air South Pkwy)** is a Chuck E. Cheese’s that open on March 29, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and is still open with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
 
 ## Stages ##
 {| class='wikitable'
@@ -21,7 +21,7 @@ gallery = []
 |March 1993
 |2019
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |2019
 |Still In Use
 |}

@@ -8,7 +8,7 @@ date = 2023-12-24T21:24:33Z
 contributors = ["Cheeseclassic"]
 gallery = ["MiddleTowns"]
 +++
-{{Stub}}{{NoSources}}{{Generic|image=CEC EXTERIOR BEFORE CLOSURE.png|desc=Exterior, 2017}}**_8 Orange Plaza Lane**_ was a _Chuck E. Cheese's_ that opened on December 17, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}){< ref "wiki/Studio C Beta.md" >}}) and closed on October 22, 2017 due to leasing issues.
+{{Stub}}{{NoSources}}{{Generic|image=CEC EXTERIOR BEFORE CLOSURE.png|desc=Exterior, 2017}}**_8 Orange Plaza Lane**_ was a _Chuck E. Cheese's_ that opened on December 17, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed on October 22, 2017 due to leasing issues.
 
 ##Stages##
 {| class='wikitable'

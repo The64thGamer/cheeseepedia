@@ -10,7 +10,7 @@ gallery = ["PlushBackcecyoutooz.png|Plush"]
 +++
 {{MerchItem|manufacturer=Youtooz|color=Red, Yellow, Tan, Black, White, Gray|image=Cecplushfrontyoutooz.png|label1=THE 'E' STANDS FOR ENTERTAINMENT|label2=YOUTOOZ}}
 
-The **_YouTooz Classic Chuck E. Cheese Plush**_ is an upcoming plush of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) in his classic outfit from [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}){< ref "wiki/Pizza Time Theatre.md" >}}).<ref name=':0'>https://www.tiktok.com/@youtooz/video/7388608776221330731</ref>
+The **_YouTooz Classic Chuck E. Cheese Plush**_ is an upcoming plush of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) in his classic outfit from [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}).<ref name=':0'>https://www.tiktok.com/@youtooz/video/7388608776221330731</ref>
 
 ## History ##
 The plush was first announced on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.<ref name=':0' />

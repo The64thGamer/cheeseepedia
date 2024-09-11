@@ -16,7 +16,7 @@ gallery = []
 |cusvhs = y
 }}**_Best of CEC TV 1993**_ was a show which compiled segments and intermissions from 1991-1993.
 
-The show was additionally used  starting from its release in May 1993 until it was replaced by [Chuck E's Variety Show - Best of 1999]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) in January 2000.
+The show was additionally used [as a backup tape]({{< ref "wiki/Emergency Show (Best of 93).md" >}}) starting from its release in May 1993 until it was replaced by [Chuck E's Variety Show - Best of 1999]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) in January 2000.
 ##Show List##
 #**Intermission 1**
 ##6 Minute Countdown

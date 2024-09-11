@@ -1,7 +1,7 @@
 +++
 title = "Akron, OH (1984 Brittain Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-03-27T16:45:50Z
 
 [Article]
@@ -9,7 +9,7 @@ contributors = ["SuperCreamPiper2008","JND"]
 gallery = []
 +++
 {{Stub}} {{Generic|image=Akron.jpg|desc=Akron's Exterior in the Early-Mid 80s.}}
-**_1984 Brittain Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened on May 12, 1982, with a . 
+**_1984 Brittain Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened on May 12, 1982, with a [[Cyberamics Balcony Stage|Balcony Stage] and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
 
 ##History##
 TODO
@@ -35,10 +35,10 @@ TODO
 !Animatronic
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Retrofitted in 1991.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Guest Star/Helen Henny (Cyberamic))
 |Retrofitted in 1991.
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})

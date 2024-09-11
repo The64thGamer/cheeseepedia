@@ -1,14 +1,14 @@
 +++
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-08-04T03:27:06Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]
 gallery = ["MKEBalcony.jpg|Milwaukee’s","MKEshowroompreremodel.jpg|Milwaukee’s","MKEshowroompostremodel.jpg|Milwaukee’s","MKEstageshowroomlightsoff.jpg|Milwaukee’s"]
 +++
-**_2701 S Chase Ave**_ is a _Chuck E. Cheese's_ that opened in April 1983 with a Balcony Stage. 
+[[File:MilwaukeeExteriorSept21.jpg|thumb|Milwaukee in September 2021.]]**_2701 S Chase Ave**_ is a _Chuck E. Cheese's_ that opened in April 1983 with a Balcony Stage. 
 
 Milwaukee was a former _Pizza Time Theatre_, and was the third to open in the state. It was one of the select few stores that got the Cheese E. Street concept, and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. The location is currently still open, and features a 1-Stage with a turntable, and still retains the show room walls and balcony even after remodeling in 2015. 
 ##Stages##
@@ -53,7 +53,7 @@ Currently, Milwaukee still has all of their original Pizza Time Theatre animatro
 !Manufacturing Date 
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |1983
 |In use at current store.
 |-

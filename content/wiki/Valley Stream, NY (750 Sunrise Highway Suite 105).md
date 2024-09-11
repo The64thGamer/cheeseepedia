@@ -13,7 +13,7 @@ gallery = []
 ## History ##
 
 ### CEC 2023-Present ###
-In February 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website that stated 'Chuck E. Cheese New Store' in Valley Stream, NY. It is unknown when the new store will open. This will 3rd CEC in New York to open in the 2020's era after  & . This will be the 2nd new store in New York that has the 2021 2.0 Remodel as well (As Howard Beach's construction started sometime before the COVID-19 Pandemic started)
+In February 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website that stated 'Chuck E. Cheese New Store' in Valley Stream, NY. It is unknown when the new store will open. This will 3rd CEC in New York to open in the 2020's era after [Howard Beach]({{< ref "wiki/Howard Beach, NY (133-35 79th St).md" >}}) & [Yonkers]({{< ref "wiki/Yonkers, NY (1703 Central Park Ave).md" >}}). This will be the 2nd new store in New York that has the 2021 2.0 Remodel as well (As Howard Beach's construction started sometime before the COVID-19 Pandemic started)
 
 ## Stage ##
 When the store opens, they will feature a Chuck E. Live Stage and Video Wall.

@@ -8,7 +8,7 @@ date = 2022-09-15T12:43:05Z
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","216.125.34.66","Documentor","Ceclife13","Chuckstar69"]
 gallery = []
 +++
-The **Galaxy Stage** is a stage format found at the Chuck E. Cheese's location in West Melbourne, Florida, it was installed when the location opened in April 2011. It features a . It is the predecessor to the Circles Of Light stage, which debuted in August 2012.
+The **Galaxy Stage** is a stage format found at the Chuck E. Cheese's location in West Melbourne, Florida, it was installed when the location opened in April 2011. It features a Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m Animatronic). It is the predecessor to the Circles Of Light stage, which debuted in August 2012.
 
 ## History ##
 TODO: History
@@ -32,5 +32,5 @@ The stage design is designed to look like a galaxy, with futuristic buildings an
 
 ## Trivia ##
 
-* The Galaxy Stage is the first stage to run on Studio C HD, with the others being the Circles Of Light, and the .
+* The Galaxy Stage is the first stage to run on Studio C HD, with the others being the Circles Of Light, and the Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage).
 * The Galaxy Stage is a test stage, meaning it is to test a design or concept, the Galaxy Stage was evolved into the Circles Of Light stage, having a similar design, but replacing the galaxy design with just circles that light up.

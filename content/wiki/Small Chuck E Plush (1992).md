@@ -20,12 +20,12 @@ This plush began production in 1992 and ceased production in 1994.
 This plush was released in a set containing other characters and sizes:
 
 *[Small Chuck E. Plush (1992)]({{< ref "wiki/Small Chuck E Plush (1992).md" >}})
-*[Small Helen Plush (1992)]({{< ref "wiki/Small Helen Plush (1992).md" >}})
-*[Large Helen Plush (1992)]({{< ref "wiki/Large Helen Plush (1992).md" >}})
-*[Small Munch Plush (1992)]({{< ref "wiki/Small Munch Plush (1992).md" >}})
-*[Small Jasper Plush (1992)]({{< ref "wiki/Small Jasper Plush (1992).md" >}})
-*[Small Pasqually Plush (1992)]({{< ref "wiki/Small Pasqually Plush (1992).md" >}})
-*[Large Pasqually Plush (1992)]({{< ref "wiki/Large Pasqually Plush (1992).md" >}})
+*Small Helen Plush (1992)
+*Large Helen Plush (1992)
+*Small Munch Plush (1992)
+*Small Jasper Plush (1992)
+*Small Pasqually Plush (1992)
+*Large Pasqually Plush (1992)
 
 ##Design##
 Discuss the design in full, what it looks like, how its used, any text on it, sounds it makes, ect.

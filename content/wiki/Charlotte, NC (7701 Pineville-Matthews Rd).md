@@ -8,12 +8,12 @@ date = 2022-08-04T20:55:28Z
 contributors = ["BigCtheDataFinder","Rexburg090","ChuckECool","SuperCreamPiper2008","71.30.196.66","The 64th Gamer","BurgersNuggs445","71.31.183.205","ShowbizMidwest","Saan1ty","67.197.52.250","ThatBoiCydalan","Caydenpedia","CoolerDude","Animatronicbrainrot","Cy's Junk at School","Documentor","Livelycheese","Sonichacker","CECMentor","Chuckepoggers69","AstridMascotFan2005","Cecanddisneyfan2004","Cheeseclassic","Appatheris","CEC1988","Jaxonia","BenTrainFan2000"]
 gallery = ["PinevilleCU.png|Advertisement","PinevilleReopen.png|Reopening"]
 +++
-**Charlotte, NC (7701 Pineville-Matthews Rd)** was a _ShowBiz Pizza Place_ located in Charlotte, North Carolina. It opened in October 1982 and was the second ShowBiz to open in the Carolinas following [Charleston, South Carolina]({{< ref "wiki/Charleston, South Carolina.md" >}}).
-
+**Charlotte, NC (7701 Pineville-Matthews Rd)** was a _ShowBiz Pizza Place_ located in Charlotte, North Carolina. It opened in October 1982 and was the second ShowBiz to open in the Carolinas following Charleston, South Carolina.
+[[File:PinevilleExterior08.jpg|thumb|The 90's Exterior of Charlotte 'Pineville,' NC (c. August 2008)]]
 
 ## History ##
 Charlotte (Pineville), NC opened its doors on October 11th, 1982 in the Carmel Commons Shopping Center with a Rock-afire Explosion show. It was originally a franchise-owned store, under the ownership of 'Adventure Restaurant Corporation,' which owned other SPP locations in the area during the time. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually recieve the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that Pineville was one of several locations to recieve an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening with the few photos avaliable online and what would remain of the 'Abombination' drop-down sign mechanic slot on Stage Right.
-
+[[File:AdventureRestaurantCorpLogo.png|thumb|300x300px|Adventure Restaurant Corporation was the original franchise owner of the Pineville location.]]
 
 
 In the year 1991, Concept Unification was in full swing and Pineville would be one of a majority of SPP locations to undergo it that year. An advertisement coupon from a newspaper clipping would show that (while not specified) the CU conversion was complete by mid-late 1991 (possibly November) as the coupon's expiration date was December 31st of that year. However, in January 1993, Adventure Restaurant Corp. would shutter the store after just owning it for 10 years. 
@@ -38,7 +38,7 @@ In modern times, Pineville in general would be unchanged since the 2013 expansio
 * A yellow feather boa for Helen's hair and mask/eyelid repaint
 * The return of Munch Jr. as a custom replica and the return of Mr. Munch's hat (originally from Charlotte Albemarle Rd)
 * Mr. Munch being cosmetically and mechanically restored along with added strobe lights to his organ and band sign
-* A custom organ front reading 'CEC' in the style of a custom organ front at [Huntsville, AL]({{< ref "wiki/Huntsville, AL.md" >}})
+* A custom organ front reading 'CEC' in the style of a custom organ front at Huntsville, AL
 * A cosmetic and mechanical repair of Jasper complete with a new, custom shirt pattern design
 * Pasqually's base recieving new, pink glitter trim as well as mechanical adjustments to his arms for more lively 'drumming'
 * The reinstating and repair of the Fiber Optic Star Curtain after not being used for some time

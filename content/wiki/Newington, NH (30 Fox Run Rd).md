@@ -1,7 +1,7 @@
 +++
 title = "Newington, NH (30 Fox Run Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-21T15:38:07Z
 
 [Article]
@@ -12,9 +12,9 @@ gallery = []
 
 It was the second and last Chuck E. Cheese to open in New Hampshire.
 
-After this location closed, the [Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}){< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) location would be the only one left in the state which opened in August 1982 with a Balcony Stage and is still open to this day.
+After this location closed, the [Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) location would be the only one left in the state which opened in August 1982 with a Balcony Stage and is still open to this day.
 ##History##
-Newington opened in August 1983 as a franchise-owned location. It opened with the Balcony Stage and the Lounge room. Newington was then bought by the corporate on February 2nd, 1987 along with  and . Newington later received with the 1988 Remodel in 1989-1990 which included the removal of PTT decor for CU decor, received the Blue and White awnings above the salad bar, the checkers around and outside the store, and the C-Stage replacing the Balcony Stage. Newington's exterior was not changed. Around the early 1990's, they replaced older decor for newer decor, received the Blue and White awnings, checkers around the store, and the removal of the C-Stage for the 2-Stage. In the late 90's Newington received Phase 2 removing older decor for newer decor, removed the Blue and White awnings, and added SkyTubes. Newington remained like this until 2006, when they would receive the 2005 remodel trashing older decor for newer decor, removed all checkers around the store, removed Showroom Walls, Balcony Seating, relocated the stage, and finally changing the exterior after it remained the same after 23 years (although the yellow-red awning when it first opened was removed and had the checkers outside only for it to be replaced by the red-yellow awning). Newington remained like this until their closure on March 31st, 2018. They closed probably due to a lease disagreement. After closure, the store was gutted and remained abandoned for a few months until a furniture store called 'Bernie and Phyl's Furniture' moved into the space. Currently, as of March 2023, Bernie and Phyl's Furniture is still there.
+Newington opened in August 1983 as a franchise-owned location. It opened with the Balcony Stage and the Lounge room. Newington was then bought by the corporate on February 2nd, 1987 along with [Manchester]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) and [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}). Newington later received with the 1988 Remodel in 1989-1990 which included the removal of PTT decor for CU decor, received the Blue and White awnings above the salad bar, the checkers around and outside the store, and the C-Stage replacing the Balcony Stage. Newington's exterior was not changed. Around the early 1990's, they replaced older decor for newer decor, received the Blue and White awnings, checkers around the store, and the removal of the C-Stage for the 2-Stage. In the late 90's Newington received Phase 2 removing older decor for newer decor, removed the Blue and White awnings, and added SkyTubes. Newington remained like this until 2006, when they would receive the 2005 remodel trashing older decor for newer decor, removed all checkers around the store, removed Showroom Walls, Balcony Seating, relocated the stage, and finally changing the exterior after it remained the same after 23 years (although the yellow-red awning when it first opened was removed and had the checkers outside only for it to be replaced by the red-yellow awning). Newington remained like this until their closure on March 31st, 2018. They closed probably due to a lease disagreement. After closure, the store was gutted and remained abandoned for a few months until a furniture store called 'Bernie and Phyl's Furniture' moved into the space. Currently, as of March 2023, Bernie and Phyl's Furniture is still there.
 ##Stages##
 Like all PTT's at the time, Newington opened with a Balcony Stage, one of two in the state (The other being [Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}})).
 
@@ -97,7 +97,7 @@ In the Early-Mid 90's, their C-Stage was replaced with the 2-Stage which remaine
 |The King
 |?
 |Unknown
-|Originally from , then Unknown/Destroyed.
+|Originally from [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}), then Unknown/Destroyed.
 |}
 ##Gallery##
 <gallery>

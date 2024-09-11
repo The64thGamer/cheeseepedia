@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese"
 draft = false
-tags = []
+tags = ["Arcade Games's Circus Time"]
 date = 2023-08-29T02:09:34Z
 
 [Article]
@@ -26,10 +26,10 @@ _But what if he is a rat but you don't call him a rat, I suggested. 'You name it
 And so, the name 'Chuck E. Cheese' came to be <ref>https://www.theatlantic.com/technology/archive/2013/07/chuck-e-cheeses-silicon-valley-startup-the-origins-of-the-best-pizza-chain-ever/277869/</ref>.
 
 ###Pizza Time Theatre###
- variant featured at the San Jose, CA (Winchester) location.]]
+[[File:Winchester_CEC_HD.jpg|thumb|253x253px|Chuck E.'s [[Winchester Chuck E. Cheese V2 (Animatronic)|second design]] variant featured at the San Jose, CA (Winchester) location.]]
 From as early as 1977, Chuck E. was referred to as 'The Big C' <ref>http://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf</ref>. Originally portrayed by John Widelock, early media characterized Chuck E. as a New Jersey-born mouse with a 'street wise' personality.
 
-Chuck E. sported a red and black plaid vest with a red and yellow derby hat, and microphone, as seen on his  iteration. Modifications to his animatronic characterization featured an alternate pattern for the vest, and a cigar, which Chuck held until 1980 when he gave it up as part of the 'Great American Smoke-Out' <ref>http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>.
+Chuck E. sported a red and black plaid vest with a red and yellow derby hat, and microphone, as seen on his Winchester Chuck E. Cheese V1 (Animatronic) (first design) iteration. Modifications to his animatronic characterization featured an alternate pattern for the vest, and a cigar, which Chuck held until 1980 when he gave it up as part of the 'Great American Smoke-Out' <ref>http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>.
 
 Chuck E.'s clothing was further simplified over time into the iconic red vest which matched his red derby hat.
 
@@ -44,13 +44,13 @@ Scott Wilson portrayed Chuck E. in a friendlier fashion and remained through Piz
 ###ShowBiz Pizza Time###
 
 ####Post-Merger####
-
+[[File:201B JPG.png|thumb|194x194px|Chuck E.'s face as featured on tokens produced from 1983 to the early 2000’s <ref>https://www.cectokens.com/type-2</ref>.]]
 Chuck E.'s character was tweaked significantly as the newly merged ShowBiz Pizza Time was looking for its identity. While Chuck E.'s friendlier face was introduced in 1983, this design would be used through the mid-1990's, and even early 2000's on tokens. 
 
 Chuck E. would occasionally be seen next to [Billy Bob]({{< ref "wiki/Billy Bob.md" >}}) in merchandise and promotional material, and his walkaround would be present at ShowBiz Pizza Place locations.
 
 ####Concept Unification####
- retrofit.]]
+[[File:CEC CU Vestavia Hills AL--001.jpg|thumb|293x293px|Chuck E.'s [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) retrofit.]]
 While Chuck E. was always at the center of the Pizza Time Players, [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) provided a path for Chuck E. as the emcee, introducing restaurant patrons to 'Munch’s Make-Believe Band,' in which [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}) was the bandleader.
 
 Chuck E.'s animatronic design was altered to provide him with a full black and gold tuxedo, and red bowtie, along with the iconic red derby hat. His walkaround costume would also include black pants.
@@ -67,11 +67,11 @@ A trademark guideline document prepared in 1994 establishes that his middle name
 ###Chuck E. Cheese's###
 
 ####'Cool Chuck'####
- wardrobe.]]
-
+[[File:Studio_C_1997.jpg|thumb|196x196px|Chuck E.'s [[Studio C (1997)|Studio C]] wardrobe.]]
+[[File:IMG_1834_avenger.jpg|thumb|197x197px|The 'Avenger' costume name on a 2004 suit piece.]]
 1997 was a pivotal time for the soon-to-be CEC Entertainment, who had been focused on creating an animatronic show solely based around Chuck E. – initial experimentation of this idea led itself to the development and testing of the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}), and ultimately, [Studio C]({{< ref "wiki/Studio C.md" >}}).
 
-Chuck E. was a new rodent. Chuck E.'s Studio C debut featured him in a red and black checkered vest and a red cap with the letter 'C' printed on it. The updated Chuck E. animatronic and outfit was designed by Garner Holt. Jeremy Blaido briefly provided his voice to Chuck E. for the . From this point, Duncan Brannan's vocal performance of Chuck E. had shifted towards that of a more youthful and hip sounding mouse.
+Chuck E. was a new rodent. Chuck E.'s Studio C debut featured him in a red and black checkered vest and a red cap with the letter 'C' printed on it. The updated Chuck E. animatronic and outfit was designed by Garner Holt. Jeremy Blaido briefly provided his voice to Chuck E. for the Studio C Premiere (Final Ver) (Studio C Premiere). From this point, Duncan Brannan's vocal performance of Chuck E. had shifted towards that of a more youthful and hip sounding mouse.
 
 2002's 'CEC Star Cast Member Handbook' features similar copy to that of the 1993 'Magical Wardrobe' manual <ref>http://www.showbizpizza.com/info/documents/cec/cec_starcastguide.pdf</ref>, characterizing Chuck E. as the 'champion of kids,' and as having 'street smarts... charisma and appeal.'
 
@@ -80,7 +80,7 @@ Although Chuck E. was redesigned for Studio C, it was inconsistent with how his 
 According to a 2004 vendor tag, and a 2006 Costume Character guide, various looks for Chuck existed including 'Avenger,' 'Chuck Shirt,' and a 'Soccer Outfit.' The 'Avenger' costume was the most common costume used across locations, and so the costume has become synonymous with the era <ref>https://www.showbizpizza.com/info/documents/cec/cec_costumecharacter06.pdf</ref>. However, 'Cool Chuck' first appeared in commercials as early as 1997, predating Studio C <ref>https://www.youtube.com/watch?v=D8SJbqrmbRI</ref> <ref>https://www.youtube.com/watch?v=gOHW6Kyc1hE</ref>.
 
 ####'Rockstar'####
-
+[[File:Tumblr_b213eda4567e81484c4d855806b8014b_4126d1cf_1280.jpg|thumb|199x199px|Chuck E.'s concept art as illustrated by Chris Ayers.]]
 In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press <ref>https://finance.yahoo.com/news/chuck-e-cheese-being-replaced-165852240.html</ref>. Due to declining revenue, CEC Entertainment sought to give Chuck E. a makeover, shrinking him down into a guitar-playing life-size mouse. The initial design was conceptualized by Chris Ayers, which featured a yellow and red shirt, and the new voice of Chuck E. was provided by Jaret Reddick, the lead singer of 'Bowling for Soup.'
 
 Chuck E.'s updated look launched in late-2012, featuring a purple and green shirt akin to the 'Cool Chuck' design.

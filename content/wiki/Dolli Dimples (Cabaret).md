@@ -1,7 +1,7 @@
 +++
 title = "Dolli Dimples (Cabaret)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-05-21T15:18:52Z
 
 [Article]

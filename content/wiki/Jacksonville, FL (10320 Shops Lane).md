@@ -11,7 +11,7 @@ gallery = []
 |||10320 Shops Lane, Store #458 ||| Jacksonville, Florida Originally Opened On January 14, 2016 which to still open to this day.
 
 
-This location should also [Jacksonville FL, (10320 Shops Lane)]({{< ref "wiki/Jacksonville FL, (10320 Shops Lane).md" >}}), which
+This location should also Jacksonville FL, (10320 Shops Lane), which
 opened in January 2016, and is still open to this day.
 
 

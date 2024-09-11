@@ -8,7 +8,7 @@ date = 2023-07-10T17:23:15Z
 contributors = ["CorrectorMan"]
 gallery = []
 +++
-
+[[File:Shawnee.jpg|thumb|The site of the Shawnee location. (PC: Google Maps)]]
 **_12280 Shawnee Mission**_ was a Showbiz Pizza Place that opened on August 19, 1981 and closed on October 13, 1985 with a Rock-afire Explosion. Not very much is known about this location.
 
 ## Stages ##

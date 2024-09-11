@@ -1,7 +1,7 @@
 +++
 title = "Chico, CA (966 East Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-08-04T18:59:09Z
 
 [Article]
@@ -9,7 +9,7 @@ contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu",
 gallery = ["Chico1.jpg|Chuck","Chico2.png|Avenger","Super.png|Super","Unknown","Unk5321nown.png|Fun","Unk12nown.png|Cool","U41nknown.png|Avenger","Screenshot","Counter.jpg|Some","P12.png|Chico","P-1.png|Birthday","O.png|Exterior","Ima1ge0.jpg|Chico","Im241age0.png|The","43062059","1003205","27.png|Helen,"]
 +++
 **_Chico CA (966 East Ave)**_ was a _Chuck E. Cheese's_ that opened on July 1982 with a Balcony stage, and closed on January 11th, 2011.
-
+[[File:Unkn421ow543n.png|thumb|Chico, CA exterior, the date this was taken is currently unknown.]]
 This location was opened on July 1982 as a Pizza Time Theatre, and then lost the rights to continue operating under the Chuck E. Cheese's license in 2011, eventually a few months after, the entire store was closed all together.
 ##Stages##
 The Chico, CA location opened with a balcony stage, and then at an unknown date, the balcony stage was converted in a c stage. At another unknown date, the c stage was converted in a 2 stage. On January 11th, 2011, the store had lost the rights to the Chuck E. Cheese's brand, meaning they could no longer use anything that was associated with Chuck E. Cheese's, so they retrofitted the characters and rid the stage of anything to do with MMBB.

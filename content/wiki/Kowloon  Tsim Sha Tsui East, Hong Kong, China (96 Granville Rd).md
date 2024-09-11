@@ -1,7 +1,7 @@
 +++
 title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-08-05T21:34:23Z
 
 [Article]
@@ -9,7 +9,7 @@ contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64t
 gallery = []
 +++
 **_96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre (出奇老鼠)_ that opened in December 1982 with a Balcony Stage, which closed in 1988.
-
+[[File:HK KOWLOON.png|thumb|Kowloon's exterior in 1986.]]
 This store was the first of Asian Pizza Time Theatres, being franchised by [https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0 Happy World Co., Ltd.]
 ##Stages##
 Opened with a small balcony stage and a single cabaret act. Balcony dropped Mr. Munch's Magic Madhouse for unknown reasons. A sheet of window-like plastic was put over the characters to prevent kids from climbing onstage. Special Chinese nametags were created. Starting in 1983, special showtapes were created for Hong Kong stores, with all of the characters speaking standardized Chinese.  
@@ -65,7 +65,7 @@ TBD.<gallery>
 !Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |Unknown
 |-
@@ -85,7 +85,7 @@ TBD.<gallery>
 |Unknown
 |Unknown
 |-
-|[Warblettes]({{< ref "wiki/Warblettes.md" >}})
+|Warblettes
 |Unknown
 |Unknown
 |}

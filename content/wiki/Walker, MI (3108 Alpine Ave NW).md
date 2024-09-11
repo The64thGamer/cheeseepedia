@@ -10,7 +10,7 @@ gallery = []
 +++
 **_3108 Alpine Ave NW**_ is a was a _Chuck E. Cheese's_ that opened on September 9, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day.
 
-This location is the relocation of the  and closed in 2002 with a .
+This location is the relocation of the Walker, MI (3175 Alpine Ave) location which opened October 26, 1982 with a [Rock Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in 2002 with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 ##History##
 This location opened on September 9th, 2002 in the Green Ridge Square as a relocation from across the street.
 ##Stages##

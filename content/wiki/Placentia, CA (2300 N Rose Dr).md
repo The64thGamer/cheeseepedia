@@ -10,7 +10,7 @@ gallery = []
 +++
 **_2300 N Rose Dr**_ is a Chuck E. Cheese that opened in September 24, 1991 as a corporate location with a Road Stage which is still open to this day.
 
-It is located in the Imperial Plaza Shopping Center. It opened on the same day as the  and the death of Doctor Theodore Seuss (Dr. Seuss). It is one of the three locations to be visited by the no-good youtube channels, Arcade Craniacs and Lyssy Noel.
+It is located in the Imperial Plaza Shopping Center. It opened on the same day as the [original Melrose Park, IL location]({{< ref "wiki/Melrose Park, IL (1315 W North Ave).md" >}}) and the death of Doctor Theodore Seuss (Dr. Seuss). It is one of the three locations to be visited by the no-good youtube channels, Arcade Craniacs and Lyssy Noel.
 ##History##
 Placentia opened on September 24th, 1991 as a corporate-owned location. This location opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990's, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor and SkyTubes. In 2009, Placentia remodeled to the 2005 remodel which involved the removal of the showroom walls, removing older decor for newer decor, new booths, & adding purple walls. Strangely, the brown checkers were added and the logo, text, and awnings were not replaced. Currently, as of February 2023, the location still has the 2005 Remodel and the Road Stage.
 ##Stages##

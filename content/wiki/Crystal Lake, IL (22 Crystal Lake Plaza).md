@@ -1,7 +1,7 @@
 +++
 title = "Crystal Lake, IL (22 Crystal Lake Plaza)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2022-10-21T19:48:59Z
 
 [Article]

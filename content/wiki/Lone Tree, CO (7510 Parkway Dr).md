@@ -8,7 +8,7 @@ date = 2022-07-27T08:06:48Z
 contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","2600:1700:8790:12F0:BD78:36A8:1DEE:9591","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:Littleton, CO 2.0.jpg|thumb|Littleton, CO Chuck E. Cheese in 2022]]
 **_Littleton, CO (7510 Parkway Dr)**_ is a _Chuck E. Cheese's_ that opened on February 15th, 2000 with a Studio C Alpha.
 
 This store is known for it's appearance on the Food Network's _Unwrapped_. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009, and received the 2.0 remodel in 2022.
@@ -38,10 +38,10 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 #### Game Room ####
 
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
-* [CEC Street Hoops]({{< ref "wiki/CEC Street Hoops.md" >}})
+* CEC Street Hoops
 * Down the Clown
 * NBA Hoops
-* [Skee Ball]({{< ref "wiki/Skee Ball.md" >}})
+* Skee Ball
 * Milk Jug Toss
 * Lane Master
 * Water Blast
@@ -49,11 +49,11 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 * Beach Bounce
 * Dog Pounder
 * Rabbids Hollywood
-* [Crossbow Master: Chuck E. Cheese's]({{< ref "wiki/Crossbow Master Chuck E Cheese's.md" >}})
+* Crossbow Master: Chuck E. Cheese's
 * Slam A Winner
 * H2Overdrive
 * Treasure Quest
-* [Redhot]({{< ref "wiki/Redhot.md" >}})
+* Redhot
 * Terminator Salvation
 * Let's Go Jungle
 * Sonic Blast Ball
@@ -62,10 +62,10 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 * Deadstorm Pirates
 * Pixar Cars
 * Afterburner Climax
-* [Chuck E.'s Fun Photos Photo Booth]({{< ref "wiki/Chuck E's Fun Photos Photo Booth.md" >}})
+* Chuck E.'s Fun Photos Photo Booth
 * Paw Patrol
 * Jackpot Extreme
-* [Big Bass Wheel]({{< ref "wiki/Big Bass Wheel.md" >}})
+* Big Bass Wheel
 * Frogger
 * Dizzy Chicken
 * Crossy Road
@@ -82,7 +82,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 * Deep Sea Treasures
 * Harpoon Lagoon
 * Bop 2 Win
-* [Chuck E. Cheese's Fun House]({{< ref "wiki/Chuck E Cheese's Fun House.md" >}})
+* Chuck E. Cheese's Fun House
 * X Games Snow Boarder
 * Spinner Frenzy
 * Whack N Win
@@ -103,12 +103,12 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 * Snowball Toss
 * Music Hit
 * Sweet Reminder
-* [Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)]({{< ref "wiki/Chuck E Cheese's Color Photo Ride (Rockstar, 2019).md" >}})
+* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 * Stuart Little
 * Rock & Ride
 * Sea Wolf
 * Angel Carousel
-* [Teacup Ride]({{< ref "wiki/Teacup Ride.md" >}})
+* Teacup Ride
 * ARKA
 * Cutie Car
 * Ice Age Ice Breaker
@@ -135,7 +135,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 
 * Hat Trick
 * Ticket Troopers
-* [Chuck E. Cheese's Boulder's Dozer's]({{< ref "wiki/Chuck E Cheese's Boulder's Dozer's.md" >}})
+* Chuck E. Cheese's Boulder's Dozer's
 * Smokin' Token Extreme
 * Intermission
 
@@ -168,7 +168,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |2017
 |-
 |[https://youtu.be/gFqRkwuwBEU Link]
-|'Song Title' from  being performed on Littleton's Alpha
+|'Song Title' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |February 19, 2017
 |-
 |[https://youtu.be/WLLuE3NEnfs Link]
@@ -176,31 +176,31 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |April 28, 2017
 |-
 |[https://youtu.be/HCRA9ZJYNko Link]
-|'Trio' from  being performed on Littleton's Alpha
+|'Trio' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Littleton's Alpha
 |April 28, 2017
 |-
 |[https://youtu.be/S1ihOnIFQMk Link]
-|'Chuck E.'s Place' from  being performed on Littleton's Alpha
+|'Chuck E.'s Place' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Littleton's Alpha
 |April 28, 2017
 |-
 |[https://youtu.be/wTWFzO9QbYc Link]
-|20 seconds of an unknown segment from  running on Littleton's Alpha
+|20 seconds of an unknown segment from Chuck E. Cheese's Show 3 2017 (Show 3 2017) running on Littleton's Alpha
 |May 29, 2017
 |-
 |[https://www.youtube.com/watch?v=DgPn1p2rF44&t=37s Link]
-|'Trio' from  being performed on Littleton's Alpha
+|'Trio' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Littleton's Alpha
 |May 29, 2017
 |-
 |[https://youtu.be/zZ7ExqK8c1s Link]
-|'Gamin' Time' from  being performed on Littleton's Alpha
+|'Gamin' Time' from Chuck E. Cheese's Show 3 2016 (Show 3 2016) being performed on Littleton's Alpha
 |May 15, 2019
 |-
 |[https://www.youtube.com/watch?v=8RTYlrhO1fY&t=107s Link]
-|'Gamin' Time' from  being performed on Littleton's Alpha
+|'Gamin' Time' from Chuck E. Cheese's Show 3 2016 (Show 3 2016) being performed on Littleton's Alpha
 |April 13, 2019
 |-
 |[https://www.youtube.com/watch?v=GaJ6MzSFoi0&t=31s Link]
-|'Out of This World' from  being performed on Littleton's Alpha
+|'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |July 30, 2019
 |-
 |[https://youtu.be/GOpnnfV_y1M Link]
@@ -208,7 +208,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |September 27, 2020
 |-
 |[https://youtu.be/9EXn8wJDCss Link]
-|'Sammy the Skateboarding Skeleton' from  being performed on Littleton's Alpha
+|'Sammy the Skateboarding Skeleton' from Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party (Show 3 2020) being performed on Littleton's Alpha
 |October 3, 2020
 |-
 |[https://youtu.be/RVR4obg3o0E Link]
@@ -216,7 +216,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |October 3, 2020
 |-
 |[https://youtu.be/Frlg_PVZDpw Link]
-|'Nobody There' from  being performed on Littleton's Alpha
+|'Nobody There' from Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party (Show 3 2020) being performed on Littleton's Alpha
 |October 3, 2020
 |-
 |[https://youtu.be/xeyasblxlDQ Link]
@@ -224,11 +224,11 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |October 3, 2020
 |-
 |[https://www.youtube.com/watch?v=QfEC1qWyX64&t=27s Link]
-|'Disco Dancing Dinosaur Party' from  being performed on Littleton's Alpha
+|'Disco Dancing Dinosaur Party' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Littleton's Alpha
 |March 10, 2021
 |-
 |[https://youtu.be/_FuhRnnChHs Link]
-|20 seconds of 'Disco Dancing Dinosaur Party' from  being performed on Littleton's Alpha
+|20 seconds of 'Disco Dancing Dinosaur Party' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Littleton's Alpha
 |March 24, 2021
 |-
 |[https://youtu.be/R1DNIosW23Q Link]
@@ -236,71 +236,71 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |April 3, 2021
 |-
 |[https://www.youtube.com/watch?v=oewOqexaSj8&t=161s Link]
-|'Out of This World' from  being performed on Littleton's Alpha
+|'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/Tu9_83N3aEY Link]
-|'Song Title' from  being performed on Littleton's Alpha
+|'Song Title' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/qHw0vfcwqo4 Link]
-|'Chuck E. Cheese is All About Fun!' from  being performed on Littleton's Alpha
+|'Chuck E. Cheese is All About Fun!' from Chuck E. Cheese's Show 3 2018 (Show 3 2018) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/Tf7GVt-wdJA Link]
-|'Song of Summer' from  being interrupted by 'Chuck E.'s Beach Party Bash' on Littleton's Alpha
+|'Song of Summer' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being interrupted by 'Chuck E.'s Beach Party Bash' on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/0GgHcUtYUhQ Link]
-|'Song of Summer' from  being performed on Littleton's Alpha
+|'Song of Summer' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/DZ0TMDANyXM Link]
-|'Dog Days of Summer' from  being performed on Littleton's Alpha
+|'Dog Days of Summer' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/4A_wYd9Kvzg Link]
-|'I Dare You Not To Laugh' from  being performed on Littleton's Alpha
+|'I Dare You Not To Laugh' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://www.youtube.com/watch?v=cHEqpIy3AvI Link]
-|'Let's Be Friends' from  being performed on Littleton's Alpha
+|'Let's Be Friends' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Littleton's Alpha
 |June 3, 2021
 |-
 |[https://youtu.be/2yA7zTZGqyc Link]
-|'Out of This World' from  being performed on Littleton's Alpha
+|'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |June 6, 2021
 |-
 |[https://youtu.be/Da1BodQ-tMQ Link]
-|'DJ Munch Mashup' from  being performed on Littleton's Alpha
+|'DJ Munch Mashup' from Chuck E. Cheese's Show 1 2021 (Show 1 2021) being performed on Littleton's Alpha
 |September 4, 2021
 |-
 |[https://youtu.be/GXC3i8gdjaw Link]
-|'Let's Have a Party' from  being performed on Littleton's Alpha
+|'Let's Have a Party' from Chuck E. Cheese's Show 1 2016 (Show 1 2016) being performed on Littleton's Alpha
 |September 4, 2021
 |-
 |[https://youtu.be/s6zEe20lCgM Link]
-|'The Tail of Jasper T.' from  being performed on Littleton's Alpha
+|'The Tail of Jasper T.' from Chuck E. Cheese's Show 1 2019 (Show 1 2019) being performed on Littleton's Alpha
 |September 4, 2021
 |-
 |[https://youtu.be/W8oIhedL3rI Link]
-|'Ves Al Ratoncito' from  being performed on Littleton's Alpha
+|'Ves Al Ratoncito' from Chuck E. Cheese's Show 2 2019 (Show 2 2019) being performed on Littleton's Alpha
 |September 4, 2021
 |-
 |[https://youtu.be/-eAZEhEyYh4 Link]
-|'Merry Christmastime' from  being performed on Littleton's Alpha
+|'Merry Christmastime' from Chuck E. Cheese's Show 9 2016 (Show 9 2016) being performed on Littleton's Alpha
 |January 2, 2022
 |-
 |[https://youtu.be/U7fLtt5wPU4 Link]
-|'Out of This World' from  being performed on Littleton's Alpha
+|'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
 |June 7, 2022
 |}
 
 ## Gallery ##
-
-
-
-
+[[File:Mural Welcome close up.jpg|none|thumb|July 15, 2022]]
+[[File:Showroom.jpg|none|thumb|July 15, 2022]]
+[[File:Exterior.jpg|none|thumb|July 15, 2022]]
+[[File:Mural.jpg|none|thumb|July 15, 2022]]
 
 ## Animatronics ##
 {| class='wikitable'

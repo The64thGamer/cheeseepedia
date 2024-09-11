@@ -8,7 +8,7 @@ date = 2022-11-02T01:43:47Z
 contributors = ["BurgersNuggs445","LolMarklosthisaccountalready","216.125.34.66","The 64th Gamer","Paskkkk"]
 gallery = []
 +++
-The AAM Chuck E. Cheese Animatronic is the first original animatronic created by Animation World for Showbiz Pizza Time.
+[[File:AAM Alt Pic.png|thumb|525x525px|Close-up of the Animatronic.]]The AAM Chuck E. Cheese Animatronic is the first original animatronic created by Animation World for Showbiz Pizza Time.
 ##History##
 In 1996 the Awesome Adventure Machine Concept officially enters development and the Animatronic is sourced to Animation World for development. The Animatronic wasn't liked very much by Showbiz and would be because It was just about built identical to something Creative Engineering would make and the eyes were at an angle which caused problems during development. But the animatronic would be destroyed sometime after the Fall of 1997 for the Studio C concept. 
 

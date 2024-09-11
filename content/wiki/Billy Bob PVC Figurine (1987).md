@@ -17,7 +17,7 @@ This PVC figurine of Billy Bob would be one of the last new pieces produced of t
 
 ###Set###
 
-* [Fatz PVC Figurine (1987)]({{< ref "wiki/Fatz PVC Figurine (1987).md" >}})
+* Fatz PVC Figurine (1987)
 
 ##Design##
 Specific to this figure, Billy Bob would have eyelashes, no claws on his hands, miss-colored paws, and white claws on his feet.

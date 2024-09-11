@@ -15,4 +15,4 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 Safety Message
 Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
 Disney Channel Stars - “Put the Happy in the Holidays”
- Chuck E. & Friends - “The Holiday Party”
+[[File:New_Graphic.png|thumb|Caption text]] Chuck E. & Friends - “The Holiday Party”

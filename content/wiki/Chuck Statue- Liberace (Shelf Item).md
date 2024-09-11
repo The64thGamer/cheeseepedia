@@ -13,7 +13,7 @@ gallery = ["R23fow4uhwfi2freuhib32erjfouibh3.png|Generic","I0j3e2d3fwi0j2uofijwf
 The **_Chuck Statue- Liberace**_ was a [Artifact Shelves]({{< ref "wiki/Artifact Shelves.md" >}}) item created for Chuck E. Cheese's locations around 1994-1995.
 
 ##Production##
-The statue would be produced by _Peeler Rose Productions_<ref>https://www.facebook.com/peelerrosestudios/photos/pb.100063533323960.-2207520000./861447533887433/?type=3</ref> for the , , , , , , , , and  statues. All the statues shared the same head and hands.
+The statue would be produced by _Peeler Rose Productions_<ref>https://www.facebook.com/peelerrosestudios/photos/pb.100063533323960.-2207520000./861447533887433/?type=3</ref> for the 1990s Major Remodel around 1994-1995, alongside the Chuck Statue- Tux (Shelf Item) (Tux), Chuck Statue- Director (Shelf Item) (Director), Chuck Statue- Coach (Shelf Item) (Coach), Chuck Statue- Baseball (Shelf Item) (Baseball), Chuck Statue- Football (Shelf Item) (Football), Chuck Statue- Hockey (Shelf Item) (Hockey), Chuck Statue- Basketball (Shelf Item) (Basketball), Chuck Statue- Cowboy (Shelf Item) (Cowboy), and [Musician]({{< ref "wiki/Chuck Statue- Musician (Shelf Item).md" >}}) statues. All the statues shared the same head and hands.
 
 The statues were produced with a multitude of materials. The body was a single block of wood glued to a wooden square base- with a half cut egg-shaped section of Styrofoam hot glued to the front stomach area.
 

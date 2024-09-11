@@ -1,7 +1,7 @@
 +++
 title = "Marrero, LA (1951 Ames Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-01T19:05:07Z
 
 [Article]

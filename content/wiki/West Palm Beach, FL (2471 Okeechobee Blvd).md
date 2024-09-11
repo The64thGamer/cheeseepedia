@@ -8,7 +8,7 @@ date = 2022-09-29T17:27:55Z
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","Fartsmeller","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-**2471 Okeechobee Blvd** was a Chuck E. Cheese's that opened on December 26, 2013 with a , which is still open to this day.
+**2471 Okeechobee Blvd** was a Chuck E. Cheese's that opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
 
 This location received 2.0 in March 2022, and kept the COL, but removed the bot.
 
@@ -48,7 +48,7 @@ Originally when the store opened, they had a Circles of Light, 32M, the bot came
 !Whereabouts
 !
 |-
-|
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 |
 |Unknown/ Destroyed
 |

@@ -10,4 +10,4 @@ gallery = []
 +++
 ### Unknown Year ###
 
-* [Wonderful Winter at Chuck E. Cheese's (Unknown PA Location)]({{< ref "wiki/Wonderful Winter at Chuck E Cheese's (Unknown PA Location).md" >}})
+* Wonderful Winter at Chuck E. Cheese's (Unknown PA Location)

@@ -8,7 +8,7 @@ date = 2022-09-26T16:34:15Z
 contributors = ["CECBowlingGreen","BurgersNuggs445"]
 gallery = []
 +++
-. Credit to .]]
+[[File:BowlingGreenTicketBlaster.jpg|thumb|Rockstar Ticket Blaster at [[Bowling Green, KY (2625 Scottsville Rd)|Bowling Green, KY]]. Credit to User:CECBowlingGreen (CECBowlingGreen).]]
 The **Ticket Blaster** is an attraction found at Chuck E. Cheese's locations. It is only able to be used when there is a reserved birthday party. The point of the Ticket Blaster is to grab as many tickets as you can within 30 seconds, as well as possibly getting other things like a 'Magic Ticket'. The Ticket Blaster is still in use to this day, despite CEC getting rid of paper tickets, though some locations have them empty, others have tickets and the other prizes in them.
 
 ## History ##

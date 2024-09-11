@@ -65,7 +65,7 @@ TODO: Original Design, Updated Design #1, Updated Design #2
 |Bot came from Kelso, Washington.
 |-
 |Little Rock, Arkansas, United States
-|
+|[2706 S Shackleford Rd]({{< ref "wiki/Little Rock, AR (2706 S Shackleford Rd).md" >}})
 |2014
 |No Bot
 |Relocation from old store in Little Rock.
@@ -89,10 +89,10 @@ TODO: Original Design, Updated Design #1, Updated Design #2
 |Replaced a 1-Stage, which was sent to Citrus Heights, where it is still in operation.
 |-
 |San Jose, California, United States
-|
+|[2445 Fontaine Road]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}})
 |2018
 |No Bot
-|Very large, replaced Studio C Alpha. 2.0, also has  which was added in Spring 2022. Former PTT.
+|Very large, replaced Studio C Alpha. 2.0, also has Chuck E. Live Stage (Dance Floor) (Dance Floor) which was added in Spring 2022. Former PTT.
 |-
 |Port Orange, Florida, United States
 |5539 S Williamson Blvd

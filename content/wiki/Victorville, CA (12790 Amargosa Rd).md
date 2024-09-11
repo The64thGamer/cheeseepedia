@@ -29,7 +29,7 @@ Was Replace In The 2021 Model In The Video Wall.
 |September 1999
 |April 2022
 |-
-| + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |April 2022
 |Still In Use
 |2021 Model, First 2021 2.0 in Victorville. Installed on Back Wall.

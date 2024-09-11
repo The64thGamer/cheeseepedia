@@ -8,7 +8,7 @@ date = 2024-03-19T23:32:45Z
 contributors = ["Lelmaster","The 64th Gamer"]
 gallery = []
 +++
-
+[[File:Southend Reporter Thu Jul 22 1976 .jpg|thumb|Picture of stage, logo, or other valid substitute.]]
 **Animatronic Show Name** was a show/chain that was around from **starting date** to **ending date** and made by I**mportant Person**. This is a short description of it. Any major facts about the show should also go here.
 
 ## History ##
@@ -50,17 +50,17 @@ Location address, location history, etc..
 !Year
 !Format
 |-
-|[Showtape Name 1]({{< ref "wiki/Showtape Name 1.md" >}})
+|Showtape Name 1
 |DD
 |MM
 |YYYY
-|[Link to page about format]({{< ref "wiki/Link to page about format.md" >}}){< ref "wiki/Link to page about format.md" >}})
+|Link to page about format
 |-
 |Showtape Name 2
 |DD
 |MM
 |YYYY
-|[Link to page about format]({{< ref "wiki/Link to page about format.md" >}})
+|Link to page about format
 |}
 Also put any general information about showtapes here.
 

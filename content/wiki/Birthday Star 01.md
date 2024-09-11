@@ -16,7 +16,7 @@ It is the third edition of the long-running Birthday Star show (not counting the
 
 Upon its release, Birthday Star 2001 was released on three formats for the three main show types in stores at the time. For the 3-Stage and CEC Stage, (R12) versions of the show, it was released on Cyberstar SVHS tapes paired up alongside whatever live show was valid at the time and separated by a birthday break. For the Studio C version of the show, it was released on a DVD + Floppy disk combo and would be queued up on command from the Studio C Manager Panel. In addition to the two main stage types, Birthday Star 2001 was also included in the January 2001 Road Show CD, the first birthday show to do so. Road Shows were live shows that took place outside of the showroom and stores were provided with CD boomboxes to play live shows anywhere in the restaurant. 
 
-In April 2002, it would be joined by a new birthday show written from the ground up simply titled [New Birthday]({{< ref "wiki/New Birthday.md" >}}), the first time since the 1980s in which different birthday shows were valid for play at the same time at Chuck E. Cheese's locations. True to the established longevity of Birthday Star, it would end up outliving New Birthday and would remain valid for play in stores until January 2008 when it was officially replaced by Birthday Extravaganza. As of 2022, it currently holds the record for the single longest-running birthday show, valid non-stop officially for exactly 7 years.
+In April 2002, it would be joined by a new birthday show written from the ground up simply titled New Birthday, the first time since the 1980s in which different birthday shows were valid for play at the same time at Chuck E. Cheese's locations. True to the established longevity of Birthday Star, it would end up outliving New Birthday and would remain valid for play in stores until January 2008 when it was officially replaced by Birthday Extravaganza. As of 2022, it currently holds the record for the single longest-running birthday show, valid non-stop officially for exactly 7 years.
 
 ## Summary ##
 Birthday Star 2001 is a modernized update of Birthday Star '95 and builds on the foundation established by that show. Barring a couple additional lines it is lyrically identical to its predecessor and contains the same time signature and hip-hop styled beat. Instrumentally, however, it goes for a jazz and R&B inspired style akin to the instrumentation of the shows being produced at the time, featuring eclectic drum rolls, crooning organs and bombastic horns throughout. 
@@ -46,7 +46,7 @@ Birthday Star 2001 and New Birthday would remain valid for play well into the 20
 |3-Stage Post-93, R12 Post-93
 |-
 |2001
-| - [CEC Happy Holidays 2007]({{< ref "wiki/CEC Happy Holidays 2007.md" >}}){< ref "wiki/CEC Happy Holidays 2007.md" >}})
+|[January 2001 show]({{< ref "wiki/January 2001 Show.md" >}}) - CEC Happy Holidays 2007
 |Studio C DVD + Floppy
 |-
 |2001
@@ -54,6 +54,6 @@ Birthday Star 2001 and New Birthday would remain valid for play well into the 20
 |Road Show CD
 |-
 |2004
-|[CEC Happy Holidays 2004]({{< ref "wiki/CEC Happy Holidays 2004.md" >}}) - [CEC Happy Holidays 2007]({{< ref "wiki/CEC Happy Holidays 2007.md" >}})
+|CEC Happy Holidays 2004 - CEC Happy Holidays 2007
 |3-Stage DVD, CEC Stage DVD
 |}

@@ -9,7 +9,7 @@ contributors = ["Lelmaster","UTubeTrollPoliceCroat","Ceclife13"]
 gallery = ["gigglebeesTokens.png","gigglebeesTickets.png","OldWilburGigglebees.jpg","NewWilburGigglebees.jpg","MiddleWilburGibblebees.jpg","GigglebeesEntrance.jpg","RoxyServingPizza.jpg"]
 +++
 {{Stub}}
-
+[[File:OldGigglebee'sEntrance.png|thumb|Gigglebee's entrance from 90s ad]]
 Gigglebee's was a chain started by Piccadilly Circus that broke off and became it's own entity. The pizza place offered arcade games, laser tag, bumper cars, and skeeball.<ref>https://hot1047.com/whatever-happened-to-gigglebees-in-sioux-falls/</ref> The main attraction of the restaurant however was the pizza serving animatronics on tracks that could  hold conversations with guests. <ref>https://www.e-flux.com/architecture/workplace/430311/performing-automation/</ref>
 
 ## History ##

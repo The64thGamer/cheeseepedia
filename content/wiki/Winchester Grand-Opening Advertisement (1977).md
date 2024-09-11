@@ -8,7 +8,7 @@ date = 2023-08-14T07:41:59Z
 contributors = ["Concordio"]
 gallery = ["Winchesteradcloseup1.png|Closeup","Winchestercloseup2.png|Closeup"]
 +++
-
+[[File:Winchester Ad.jpg|thumb]]
 The **_Winchester Grand Opening Advertisement**_ was distributed by the Atari sub-division of Warner Communications Incorporated in May 1977, to advertise the new family concept of Chuck E. Cheese's Pizza Time Theatre which would make its debut on 370 South Winchester Boulevard located in the Town & Country Shopping Center in San Jose, California. 
 
 ## History ##

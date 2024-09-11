@@ -8,3 +8,4 @@ date = 2022-09-24T18:35:55Z
 contributors = ["ChuckE1352"]
 gallery = []
 +++
+[[File:Pizza Delivery.jpg|thumb|A photo of the Pizza Delivery ride]]

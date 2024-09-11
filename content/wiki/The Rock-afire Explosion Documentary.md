@@ -10,14 +10,14 @@ gallery = ["TestscreenerDVD1.png|Test","Alamoposter109.png|Alamo","Alamoposter20
 +++
 {{VideoMedia|imageUsedForThumbnail=Raedocbanner1.png|youTubeVideoLink=d1jpWBs0_DI|date=September 27, 2008|length=1:11:37 (2:03:28 w/ Bonus Features)|vhs=y|dvd=y|digital=y|credit1=Brett Whitcomb - Director, Producer, Cinematographer, Editor|credit2=Bradford Thomason - Writer, Music, Editor|credit3=Jason Connell - Producer|credit4=Luke Lukas - Music, Sound|credit5=Darren Lindsay - Graphic Designer|credit6=Mark Keefer - Re-recording Mixer|credit7=Gren Emerson - Opening Montage Editor|credit8=Mark Emerson - Opening Montage Editor|credit9=Andrew Langley - Opening Montage Editor|credit10=Joe Cinocca - Social Media Director|credit11=Patrick Maupin - Production Asistant|credit12=Luke McKibben - Production Assistant|credit13=April Mitchell - Transcriber|credit14=(Cast) Chris Thrash, Aaron Fechter, Travis Schafer, Mike Scherpenberg, Damon E. Breland, Kerry Fechter, Paul Teneyuca, Sandy Thrash|credit15=(Special Thanks) Matthew Blom, Zack Carlson, David Ferguson, Lina Lee}}
 
-**_The Rock-afire Explosion**_ is a documentary released on September 27, 2008<ref>https://www.facebook.com/rockafiremovie/posts/pfbid046jXFcixco2TbNbdn67bFdR5XREBpVPCgFHjUg3doqRCea7WBmCiSTafiuEAtKytl</ref> about the journey of  history with the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), and its subsequent fanbase that formed in the early 2000's.
+**_The Rock-afire Explosion**_ is a documentary released on September 27, 2008<ref>https://www.facebook.com/rockafiremovie/posts/pfbid046jXFcixco2TbNbdn67bFdR5XREBpVPCgFHjUg3doqRCea7WBmCiSTafiuEAtKytl</ref> about the journey of [Creative Engineering's]({{< ref "wiki/Creative Engineering.md" >}}) history with the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), and its subsequent fanbase that formed in the early 2000's.
 
 The film focuses mainly on Aaron Fechter recounting his tenure throughout the company's success, while additionally showcasing Chris Thrash as one of the fans keeping the animatronic band alive in his home. Multiple other fans are interviewed, alongside showtape clips being presented.
 
 ## History ##
 
 ### Original Cut ###
-The documentary would have a test screening on September 18, 2006. This cut contained a different arrangement of the interviews and footage, alongside cut sections that did not make it into the final release. Notably was footage of the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) at the 1978 IAPPA convention.<ref>**[:File:Originaldoccutcitation.png]({{< ref "wiki/FileOriginaldoccutcitationpng.md" >}})**</ref>
+The documentary would have a test screening on September 18, 2006. This cut contained a different arrangement of the interviews and footage, alongside cut sections that did not make it into the final release. Notably was footage of the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) at the 1978 IAPPA convention.<ref>**[[:File:Originaldoccutcitation.png]]**</ref>
 
 A copy of the cut was later given to Damon Breland, whom has given copies to others- though this release is still publicly lost media.
 
@@ -164,7 +164,7 @@ On May 14, 2015, the Kickstarter campaign for the documentary _A Life In Waves,_
 
 The documentary would be uploaded to YouTube unofficially by _Midways & Mai Tais_ on June 23rd, 2015. It would amass over a million views during its lifetime.<ref>https://youtu.be/gTmhS6hcY-A</ref>
 
-On February 1st, 2024, the film would see a limited edition Blu-Ray release with only 2,000 copies. This variant would replace the DVDs original custom designs for scans of the artwork featured on the  and  vinyl records. The contents would remain the same as the DVD version, but now preserving the original digital SD master of the film<ref>https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion</ref>
+On February 1st, 2024, the film would see a limited edition Blu-Ray release with only 2,000 copies. This variant would replace the DVDs original custom designs for scans of the artwork featured on the Rock-afire Explosion Record 2 (1981) (Rock-afire Explosion Record 2) and Rock-afire Explosion Record 4 (1981) (Rock-afire Explosion Record 4) vinyl records. The contents would remain the same as the DVD version, but now preserving the original digital SD master of the film<ref>https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion</ref>
 
 ## Gallery ##
 <gallery>

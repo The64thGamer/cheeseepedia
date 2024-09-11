@@ -8,11 +8,11 @@ date = 2023-05-04T17:36:31Z
 contributors = ["ChuckECool","Bowling for Cheese","Rexburg090","Cecnj98","Cheezy","ThatBoiCydalan"]
 gallery = []
 +++
-
+[[File:Harrisburg's exterior when new..png|thumb|Harrisburg Exterior (1992-1998/1999?)]]
 **_3883 Union Deposit Road i**_s a Chuck E. Cheese that opened in August 1992, as a corporate location with a 2-Stage which is still open to this day.
 It is located in the Union Square Shopping Center.
 
-It should not to be confused with the Pizza Time Theatre  which opened in 1983 and closed in 1988 with a Balcony Stage.
+It should not to be confused with the Pizza Time Theatre Harrisburg, PA (4203-4275 Union Deposit Rd) (location) which opened in 1983 and closed in 1988 with a Balcony Stage.
 ##History##
 Harrisburg opened in August 1992 as a corporate-owned location. Harrisburg opened with the 1992 update of the 1988 Remodel including the CU decor, Record Posters, the ball pit, the Blue and White awnings above the salad bar, the checkers around and outside the store, and the 2-Stage. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some checkers around the store, and the removal of the ball pit for SkyTubes. The 2-Stage was replaced with the Studio C Beta, 32m in 2000/2001. Harrisburg remained like this until in 2006, when they received the 2005 remodel (Phase 4) which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, & adding purple walls. Harrisburg remained like this until they received the 2.0 Remodel in August 2022 removing the Studio C Beta, 32m stage for a Dance Floor and Video Wall. Currently, as of February 2023, Harrisburg still has the 2.0 Remodel and Dance Floor and Video Wall.
 ##Stages##

@@ -19,10 +19,10 @@ gallery = []
 * [Fatz Showtape (Uncle Klunk Install 2 Stg)]({{< ref "wiki/Fatz Showtape (Uncle Klunk Install 2 Stg).md" >}})
 * [Country Night]({{< ref "wiki/Country Night.md" >}})
 
-* [Rock-afire Explosion Record 8 (1983)]({{< ref "wiki/Rock-afire Explosion Record 8 (1983).md" >}})
-* [Rock-afire Explosion Record 9 (1983)]({{< ref "wiki/Rock-afire Explosion Record 9 (1983).md" >}})
-* [Rock-afire Explosion Record 10 (1983)]({{< ref "wiki/Rock-afire Explosion Record 10 (1983).md" >}})
-* [Rock-afire Explosion Record 11 (1983)]({{< ref "wiki/Rock-afire Explosion Record 11 (1983).md" >}})
-* [Rock-afire Explosion Record 12 (1983)]({{< ref "wiki/Rock-afire Explosion Record 12 (1983).md" >}})
-* [Signed Fatz Colander Photograph (1983)]({{< ref "wiki/Signed Fatz Colander Photograph (1983).md" >}})
-* 
+* Rock-afire Explosion Record 8 (1983)
+* Rock-afire Explosion Record 9 (1983)
+* Rock-afire Explosion Record 10 (1983)
+* Rock-afire Explosion Record 11 (1983)
+* Rock-afire Explosion Record 12 (1983)
+* Signed Fatz Colander Photograph (1983)
+* The Colander Gazette - Fall Edition (September 1983) (The Colander Gazette - Fall Edition)

@@ -8,7 +8,7 @@ date = 2023-08-09T16:04:50Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_Winchester Chuck E. Cheese Nameplate**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on  located in the Town & Country Shopping Center in San Jose, California; for the purpose of identifying the  from 1977 to 1980.
+The **_Winchester Chuck E. Cheese Nameplate**_ was only used at the first Chuck E. Cheese's Pizza Time Theatre on [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) located in the Town & Country Shopping Center in San Jose, California; for the purpose of identifying the Winchester Chuck E. Cheese V1 (Animatronic) (Winchester Chuck E. Cheese) from 1977 to 1980.
 
 ## Production ##
 Production of the Winchester nameplates do not have any specific data documented on them outside of speculation, however we can assume Chuck E. Cheese's nameplate was the first produced in the batch of Winchester nameplates due to the significance of the character and was produced by either Fantasy Forest or Atari Incorporated from July to August 1977. If production was not headed by Harold Guldbrandsen's company, it was either produced at Atari Incorporated or in house at store. If production was carried out by Fantasy Forest, it can assumed each Winchester nameplate was sent out alongside the Helen Henny animatronic as earlier photos of the location do not showcase the nameplates. 

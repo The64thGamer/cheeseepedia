@@ -1,14 +1,14 @@
 +++
 title = "Monroeville, PA (3813 William Penn Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-03-18T19:16:23Z
 
 [Article]
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-**_Monroeville, PA (3813 William Penn Hwy)**_ was a _Pizza Time Theatre_ that opened on March 1982 with a , and relocated across the street to its  in March 1993 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}){< ref "wiki/Chuck E's House Facade.md" >}}). This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Pennsylvania.
+**_Monroeville, PA (3813 William Penn Hwy)**_ was a _Pizza Time Theatre_ that opened on March 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and relocated across the street to its [new location]({{< ref "wiki/Monroeville, PA (3800 William Penn Hwy).md" >}}) in March 1993 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Pennsylvania.
 
 ##Stages##
 {| class='wikitable'
@@ -18,7 +18,7 @@ gallery = []
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |March 1982
 |1988-1989
 |One of 9 Balcony Stages in Pennsylvania.
@@ -35,11 +35,11 @@ gallery = []
 !Manufacturer Date
 !Status
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1981/1982
 |Destroyed.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1981/1982
 |Destroyed.
 |-

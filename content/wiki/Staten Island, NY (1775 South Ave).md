@@ -15,5 +15,5 @@ Use On The Mid 2.0 Remodel As On July 2023 On The August 2023 Mid Remodel.
 
 ##Stages##
 1 Stage Location On The Chuck E. Cheese Opened On April 30th 1993 Location Of The Place
-There Is The 1 Stage In This Location Look It Mid 2.0 Remodel [Chuck E. Live Stages Dance Floor]({{< ref "wiki/Chuck E Live Stages Dance Floor.md" >}}) (Dance Floor + Video Wall
+There Is The 1 Stage In This Location Look It Mid 2.0 Remodel Chuck E. Live Stages Dance Floor (Dance Floor + Video Wall
 This Is That 2.0 Remodel.

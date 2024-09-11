@@ -1,7 +1,7 @@
 +++
 title = "Gulliver's Kingdom Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2024-05-18T18:41:23Z
 
 [Article]

@@ -13,7 +13,7 @@ gallery = []
 **Games** is a summer themed showtape that played at Chuck E Cheese's.
 
 ## Theme ##
-This is fourth summer show by Chuck E Cheese's, the previous summer themed shows were [CEC Summertime / TV Westerns]({{< ref "wiki/CEC Summertime  TV Westerns.md" >}}), [CEC Summertime]({{< ref "wiki/CEC Summertime.md" >}}), [CEC Summer Days]({{< ref "wiki/CEC Summer Days.md" >}}). They called the show Games could be a number or reasons like playing skip rope, a baseball game, or just hanging out with others having fun.
+This is fourth summer show by Chuck E Cheese's, the previous summer themed shows were CEC Summertime / TV Westerns, [CEC Summertime]({{< ref "wiki/CEC Summertime.md" >}}), [CEC Summer Days]({{< ref "wiki/CEC Summer Days.md" >}}). They called the show Games could be a number or reasons like playing skip rope, a baseball game, or just hanging out with others having fun.
 
 ## Show List ##
 
@@ -26,7 +26,7 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song) Real Love]
 ## Geography Rap - Japan
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+# **[[File:New Graphic.png]]** **Segment 1**
 ## Summer Fun
 ## Skip Rope Scat
 # **Intermission 2**
@@ -36,7 +36,7 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song) Dreams]
 ## Helen Henny's Hollywood - Honey I Shrunk The Keds
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+# **[[File:New Graphic.png]]** **Segment 2**
 ## Pasqually's Polka
 ## Be A Sport
 
@@ -47,7 +47,7 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album) Let's Stay Together]
 ## CEC TV News - Scoop
 ## CEC-TV Intro
-# **[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 3**
+# **[[File:New Graphic.png]]** **Segment 3**
 ## Home On The Range
 ## Having Fun With You
 # **Intermission 4**

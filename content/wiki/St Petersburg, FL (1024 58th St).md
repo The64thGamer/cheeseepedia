@@ -1,7 +1,7 @@
 +++
 title = "St. Petersburg, FL (1024 58th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-01T20:02:23Z
 
 [Article]

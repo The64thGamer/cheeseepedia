@@ -10,7 +10,7 @@ gallery = ["Cec","Cec"]
 +++
 {{Stub}}{{Generic|image=Chuck-e-cheese-new-hartford-ny.png|desc=Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>}}
 
-**_4631 Commercial Dr**_ was a _Chuck E. Cheese's_ that opened on October 30, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}){< ref "wiki/Studio C Cappa.md" >}}), which closed in June 2020 during a wave of closures due to the company's bankruptcy.
+**_4631 Commercial Dr**_ was a _Chuck E. Cheese's_ that opened on October 30, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which closed in June 2020 during a wave of closures due to the company's bankruptcy.
 
 This location is not to be confused with the _Pizza Time Theatre_ location, [New Hartford / Utica, NY (8555 Seneca Turnpike)]({{< ref "wiki/New Hartford  Utica, NY (8555 Seneca Turnpike).md" >}}), which was open from 1982-1985. 
 

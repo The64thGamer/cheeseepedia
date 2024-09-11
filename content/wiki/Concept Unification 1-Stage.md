@@ -8,11 +8,11 @@ date = 2022-09-11T03:52:46Z
 contributors = ["Documentor","BigCtheDataFinder","The 64th Gamer","ShowbizMidwest","CEC Tinley","ThatBoiCydalan","CorrectorMan","CECMentor","Livelycheese","BurgersNuggs445","Veronancy","AstridMascotFan2005","Caydenpedia","Cy's Junk at School"]
 gallery = []
 +++
-
-The **Concept Unification 1-Stage**, also known as the 'CU 1-Stage', is a stage setup found at three Chuck E. Cheese locations that had the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}){< ref "wiki/Concept Unification Stage.md" >}}){< ref "wiki/Concept Unification Stage.md" >}}) located on the side wall or had to be moved due to the store expanding. 
+[[File:Cu1stage.png|thumb|408x229.5px|The CU 1-Stage in Whitehall, PA circa 2013.]]
+The **Concept Unification 1-Stage**, also known as the 'CU 1-Stage', is a stage setup found at three Chuck E. Cheese locations that had the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) located on the side wall or had to be moved due to the store expanding. 
 
 ##History:##
-In September 2010 with the remodel of the [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) location CEC introduced a brand new stage that would be introduced for stores with the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}){< ref "wiki/Concept Unification Stage.md" >}}) which had to be moved due to store expansion / remodel. This stage would then be installed at two other stores once in 2011 in [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) and lastly with [Columbus, GA (3201 Macon Rd)]({{< ref "wiki/Columbus, GA (3201 Macon Rd).md" >}}) in 2012. 
+In September 2010 with the remodel of the [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) location CEC introduced a brand new stage that would be introduced for stores with the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) which had to be moved due to store expansion / remodel. This stage would then be installed at two other stores once in 2011 in [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) and lastly with [Columbus, GA (3201 Macon Rd)]({{< ref "wiki/Columbus, GA (3201 Macon Rd).md" >}}) in 2012. 
 
 Between the installation of Whitehall and Springfield the backdrop had minor backdrop design changes. Such as changing from night to day, changing the designs of various buildings and replacing some with trees, changing the scale of the imagery shown to be much smaller making the backdrop seem bigger. 
 

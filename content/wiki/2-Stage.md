@@ -1,7 +1,7 @@
 +++
 title = "2-Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2022-09-16T13:29:27Z
 
 [Article]
@@ -127,5 +127,5 @@ TODO: Design
 |Willowdale, Ontario, Canada
 |2452 Sheppard Ave E
 |1990's
-|Former PTT. Opened in 1983 with Balcony Stage, converted to [C-Stage]({{< ref "wiki/C-Stage.md" >}}), then to 2-Stage.
+|Former PTT. Opened in 1983 with Balcony Stage, converted to C-Stage, then to 2-Stage.
 |}

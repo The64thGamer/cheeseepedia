@@ -12,7 +12,7 @@ gallery = ["Sandycec7.png|Exterior","Sandycec4.png|Counters","Sandycec5.png|Stag
 
 **_10535 S. State St**_ was a franchised _Chuck E. Cheese's_ location that opened in 1996 with a 1-Stage, and closed in 2014.
 ##Stages##
-This location received the Cyberamic characters from the  location for use on their 1-Stage. The Cyberamics still utilized a portion of original cosmetic parts before removal.
+This location received the Cyberamic characters from the [Riverside, CA]({{< ref "wiki/Riverside, CA (4033 Chicago Ave).md" >}}) location for use on their 1-Stage. The Cyberamics still utilized a portion of original cosmetic parts before removal.
 
 Once the store closed in 2014, the stage was cleared and a large projector screen was put on the stage.
 ##History##
@@ -67,7 +67,7 @@ File:Allstar1.png|Road sign
 !Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |1981
 |Parts sent to Orem, UT location
 |-
@@ -87,7 +87,7 @@ File:Allstar1.png|Road sign
 |1981
 |Parts sent to Orem, UT location
 |-
-|
+|[Wink (Animated Prop)]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Parts sent to Orem, UT location
 |}

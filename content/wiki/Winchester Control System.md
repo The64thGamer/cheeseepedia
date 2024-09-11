@@ -15,7 +15,7 @@ The system was developed by the the Cyan Engineering subdivision of Atari (also 
 ## Hardware ##
 
 ### TEAC 4-Track Tape Deck ###
-An unnamed TEAC 4-Track tape deck would be used to play back audio and programming signals to the hardware. The [Winchester 4-Track Reel]({{< ref "wiki/Winchester 4-Track Reel.md" >}}) would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. These tapes would be generated on the separate (but still possibly interlinked) [Winchester Hardware Setup]({{< ref "wiki/Winchester Hardware Setup.md" >}}).
+An unnamed TEAC 4-Track tape deck would be used to play back audio and programming signals to the hardware. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. These tapes would be generated on the separate (but still possibly interlinked) [Winchester Hardware Setup]({{< ref "wiki/Winchester Hardware Setup.md" >}}).
 
 Due to the later [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}}) using a [https://en.wikipedia.org/wiki/TASCAM TEAC A-2340 Tape Deck], which seemingly recorded only in the _2-track stereo-mode,_ it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
@@ -27,23 +27,23 @@ The main system was a set of identical boards with a CPU based off the [https://
 
 Each character would receive one of these boards, that being:
 
-* 
-*  
-* 
-* 
+* Winchester Chuck E. Cheese V1 (Animatronic) (Winchester Chuck E. Cheese V1)
+* [Winchester Crusty the Cat V1]({{< ref "wiki/Winchester Crusty the Cat V1 (Animatronic).md" >}}) 
+* [Winchester Pasqually]({{< ref "wiki/Winchester Pasqually (Animatronic).md" >}})
+* Winchester Jasper T. Jowls (Animatronic) (Winchester Jasper T. Jowls)
 
 Additional boards were used for the rest of the controllable lights, props, and side-characters, though it is unclear which were grouped together, or if each had their own board:
 
 * _Lighting_
-* 
-* 
-* 
+* [Winchester Warblettes]({{< ref "wiki/Winchester Warblettes (Animatronic).md" >}})
+* [Winchester Pizza Time Orchestra]({{< ref "wiki/Winchester Pizza Time Orchestra (Animatronic).md" >}})
+* [Winchester Flag Wavers]({{< ref "wiki/Winchester Flag Wavers (Animatronic).md" >}})
 
 #### Clapper Board ####
-The  would be added some time shortly after opening. This addition would likely see the installation of another _6502-Based Controller_ to the system, though the possibility of using unused slots
+The Winchester Clapper Board (Animatronic) (Winchester Clapper Board) would be added some time shortly after opening. This addition would likely see the installation of another _6502-Based Controller_ to the system, though the possibility of using unused slots
 
 #### Guest Stars ####
-Starting on August 12, 1977,  would be added to the lineup. This also has the possibility of another card being added, or more empty slots being taken up. The card would see additional characters hooked up to it over the years, being   and 
+Starting on August 12, 1977, [Winchester Helen Henny]({{< ref "wiki/Winchester Helen Henny (Animatronic).md" >}}) would be added to the lineup. This also has the possibility of another card being added, or more empty slots being taken up. The card would see additional characters hooked up to it over the years, being [Winchester Foxy Colleen]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}})  and Winchester Madame Oink (Animatronic) (Winchester Madame Oink.)
 
 #### V2 Bots ####
 At an unknown point between mid-1977 and 1978, Chuck E. Cheese and Crusty the Cat would be replaced with updated animatronics featuring more movements. It is unclear if any hardware was changed due to this.

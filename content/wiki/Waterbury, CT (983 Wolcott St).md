@@ -1,7 +1,7 @@
 +++
 title = "Waterbury, CT (983 Wolcott St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-09-24T14:04:27Z
 
 [Article]

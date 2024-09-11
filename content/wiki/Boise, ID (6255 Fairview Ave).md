@@ -8,7 +8,7 @@ date = 2022-12-31T18:01:27Z
 contributors = ["Rexburg090","Midwestretail"]
 gallery = ["35149321","Boise3Stage.jpg|thumb|Full","871f922b-825e-40e2-9512-e92e50b33c8b-large16x9","776d6439-8310-4c62-84ee-2f4ac0a83304-medium16x9","Cf698ae5-9c3f-461f-98b9-82a9078a93e7-large16x9"]
 +++
-
+[[File:20211130120341 14701.png|thumb|Exterior before 2.0 Remodel (PC: angelplayground.com)]]
 **_6255 Fairview Ave**_ was a Showbiz Pizza Place that opened on July 1, 1983 (date may not be correct) with a Rock-Afire Explosion.
 
 This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in August 2022.
@@ -25,17 +25,17 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |July 1983
 |Around 1991
 |
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |Around 1991
 |August 2022
 |Last CEC in Idaho
 |-
-| + Video Wall.
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall.
 |August 2022
 |Still In Use
 |2021 Model

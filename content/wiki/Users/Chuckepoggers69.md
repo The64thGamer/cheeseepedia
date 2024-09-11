@@ -9,3 +9,4 @@ contributors = ["Chuckepoggers69"]
 gallery = []
 +++
 Baltimore, MD 5912 Baltimore National Pike.
+[[File:Chuck-e-cheeses-catonsville-0000.jpg|thumb|Exterior before May 2024]]

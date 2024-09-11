@@ -29,7 +29,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |1991-92
 |
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-92
 |2017
 |
@@ -39,7 +39,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |2020
 |From San Antonio Ingram
 |-
-| + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
 |2022
 |Still In Use
 |Store reopening 2022 or 2023

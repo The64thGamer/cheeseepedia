@@ -8,7 +8,7 @@ date = 2022-10-30T01:12:52Z
 contributors = ["Documentor","168.69.254.248","Rexburg090","CEC Tinley"]
 gallery = []
 +++
-
+[[File:Birdies.png|thumb|403x403px|Jungle Jim's Birdies]]
 
 **_The Birdies**_ _was_ a retrofit of [Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}}) at _Jungle Jim's International Market_ in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)
 

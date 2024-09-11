@@ -11,7 +11,7 @@ gallery = []
 {{Showtape|image=Homeyley.png|date=December 1987|showbizreel=y}}**_SPP Homely for Christmas**_ was a four segment Christmas tape released in December of 1987.
 
 ## Production ##
-Segment 1's audio is confirmed to have been recorded in Aaron Fechter's kitchen rather than the studio. <ref name=':0'>[:File:Aaronhomelycomment87.png]({{< ref "wiki/FileAaronhomelycomment87png.md" >}})</ref>
+Segment 1's audio is confirmed to have been recorded in Aaron Fechter's kitchen rather than the studio. <ref name=':0'>[[:File:Aaronhomelycomment87.png]]</ref>
 
 ### Looney Bird's Ave Maria ###
 The original dialogue for Segment 1 was going to have Looney Bird continue to refuse singing, but Rick Bailey, Shalisa Sloan, and Burt Wilson began to ad-lib additional taunting in the scene. Once Burt began voicing Looney Bird's mom in the crowd, Aaron had to pay off the build up with an on the spot rendition of Ave Maria. This causes the additional unscripted laughter and clapping afterwards, before the next take with Billy Bob is spliced in.<ref name=':0' />

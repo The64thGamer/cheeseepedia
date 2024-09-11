@@ -21,7 +21,7 @@ TODO
 TODO
 
 ## Stages ##
-Originally, the store had a Rock-Afire Explosion, the location the stage came from was Surfside Beach, South Carolina, in which that came from . They would have the stage for a short time, until 1991 or 1992, when they would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. As of September 2022, they still have the 3-Stage, and are the last 3-Stage in the state of Virginia, as the Roanoke location received 2.0 in July 2022.
+Originally, the store had a Rock-Afire Explosion, the location the stage came from was Surfside Beach, South Carolina, in which that came from [Park Ridge, Illinois]({{< ref "wiki/Park Ridge, IL (678 N Northwest Hwy).md" >}}). They would have the stage for a short time, until 1991 or 1992, when they would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. As of September 2022, they still have the 3-Stage, and are the last 3-Stage in the state of Virginia, as the Roanoke location received 2.0 in July 2022.
 {| class='wikitable'
 |+
 !Stage
@@ -32,7 +32,7 @@ Originally, the store had a Rock-Afire Explosion, the location the stage came fr
 |Rock-Afire Explosion
 |1990
 |1991 or 1992
-|From 
+|From [Park Ridge, Illinois]({{< ref "wiki/Park Ridge, IL (678 N Northwest Hwy).md" >}})
 |-
 |3-Stage
 |1991 or 1992

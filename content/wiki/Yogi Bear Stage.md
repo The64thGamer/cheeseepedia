@@ -1,7 +1,7 @@
 +++
 title = "Yogi Bear Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2022-07-15T20:17:32Z
 
 [Article]

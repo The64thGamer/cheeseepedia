@@ -8,7 +8,7 @@ date = 2023-10-28T04:34:36Z
 contributors = ["AnthonyRWikis7283","The 64th Gamer"]
 gallery = []
 +++
-
+[[File:Chuck E. Cheese Hospitality Ln Exterior 2023.jpg|thumb|The Exterior of a Chuck E. Cheese in San Bernardino (Hospitality) as of October 1, 2023.]]
 **_777 East Hospitality Lane, Store #375**_ is a _Chuck E. Cheese_ that opened in June 27th, 2003 as a corporate store with a Studio C. Beta and still has the stage to this day.
 
 It should not be confused with the [San Bernardino, CA (955 South E St)]({{< ref "wiki/San Bernardino, CA (955 South E St).md" >}}) location, which opened in December 1981 and closed on June 18, 2020.

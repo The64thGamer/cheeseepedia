@@ -18,11 +18,11 @@ Despite the tape's manufacture date being January 12, 1980, it wouldn't debut at
 <tabber>
 |-|Segment List=
 Notably this tape essentially loops its main segments twice, with every other loop containing a Rolfe & Earl skit.
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment** **1**
+#**[[File:New Graphic.png]]Segment** **1**
 ##Heartaches
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment 2**
+#**[[File:New Graphic.png]]Segment 2**
 ##Roast Beef Sandwich
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})Segment** **3**
+#**[[File:New Graphic.png]]Segment** **3**
 ##Catch-a-Wave
 #**[[File:New Graphic.png]]Segment** **4**
 ##Rolfe and Earl #1 - Hit the Cymbal

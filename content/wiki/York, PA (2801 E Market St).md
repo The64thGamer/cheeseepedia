@@ -23,15 +23,15 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Installed
 !Removed
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |March 1983
 |Around 1991
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |Around 1991
 |September 2018
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |September 2018
 |Still In Use
 |}

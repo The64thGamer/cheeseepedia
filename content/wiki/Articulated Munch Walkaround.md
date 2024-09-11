@@ -8,7 +8,7 @@ date = 2022-08-09T21:31:33Z
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedMunchJacket.jpg|thumb|The","ArticulatedMunchGal5k.jpg|thumb|The"]
 +++
-
+[[File:ArticulatedMunch.jpg|thumb|The articulated Munch head paired with his standard outfit in the August 1997 show.]]
 The articulated Munch walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
 
 * August 1996

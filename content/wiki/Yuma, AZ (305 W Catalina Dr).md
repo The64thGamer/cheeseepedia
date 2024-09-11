@@ -8,10 +8,10 @@ date = 2023-07-08T02:56:13Z
 contributors = ["CorrectorMan","CEC Tinley","AstridMascotFan2005"]
 gallery = []
 +++
-
+[[File:Old yuma.jpg|thumb|Site of the location. (PC: Google Maps)]]
 **_305 W Catalina Dr**_ was a Showbiz Pizza Place that opened on January 30, 1984 (date might not be correct), and closed in the mid-80s (1984-1986, date completely unknown) with a Rock-afire Classic Stage. Not much is known about this location.
 
-This is not to be confused with [Yuma, AZ (1348 S Yuma Palms Pkwy)]({{< ref "wiki/Yuma, AZ (1348 S Yuma Palms Pkwy).md" >}}), which opened on December 29, 2004 and is still open today with the 2.0 remodel.
+This is not to be confused with Yuma, AZ (1348 S Yuma Palms Pkwy), which opened on December 29, 2004 and is still open today with the 2.0 remodel.
 
 ## Stages ##
 This location opened with a Rock-afire Explosion stage. Not much is known about their history, and was removed in the mid-80s when they closed.

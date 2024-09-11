@@ -21,9 +21,9 @@ As mentioned before, _The Beagles_ would be placed in the Lounge at _Pizza Time 
 ## Showtapes ##
 _The Beagles_ have three known showtapes.
 
-[Beagles I]({{< ref "wiki/Beagles I.md" >}})
+Beagles I
 
-[Beagles II]({{< ref "wiki/Beagles II.md" >}})
+Beagles II
 
 [Beagles III]({{< ref "wiki/Beagles III.md" >}})
 
@@ -40,7 +40,7 @@ File:Beagles 2.png|A more standard layout featuring them all in a line.
 
 _The Beach Bowsers_ appeared in the Lounge Room. The fact that they got a new showtape in 1991 suggests they were used in a fair amount of locations still at this point, but they were likely all removed before the 90's ended.
 
-There were 4 members of the band, none of which had names. However, the one with the microphone refers to himself as 'Woody Bowser' in the  Showtape.
+There were 4 members of the band, none of which had names. However, the one with the microphone refers to himself as 'Woody Bowser' in the Beach Bowsers 91 I (Beach Bowsers 91) Showtape.
 
 ## Placement ##
 They are essentially placed in the same layout as _The Beagles_, as they were retrofits.
@@ -48,9 +48,9 @@ They are essentially placed in the same layout as _The Beagles_, as they were re
 ## Showtapes ##
 _The Beach Bowsers_ have two known showtapes.
 
-[Beach Bowsers]({{< ref "wiki/Beach Bowsers.md" >}})
+Beach Bowsers
 
-
+Beach Bowzers 91 I (Beach Bowsers 91)
 
 'Beach Bowsers' (the first one) used recordings of _Beach Boys_ songs along with an intro and outro, much like the _Beagles_ showtapes. The 1991 showtape had covers of _Beach Boys_ songs instead of recordings.
 

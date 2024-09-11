@@ -24,7 +24,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song) Palisades Park]
 ##CEC-TV Intro
 ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##The Future Looks Fun To Me
 ##Tech-No-Rific!
 #**Intermission 2**
@@ -35,7 +35,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/The_Promise_of_a_Future Grazing in the Grass]
 ##CEC-TV Intro
 ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+#**[[File:New Graphic.png]]** **Segment 2**
 ##There's Nothing You Can't Do
 ##Possibilities
 #**Intermission 3**
@@ -45,7 +45,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another One Thing Leads To Another]
 ##CEC-TV Intro
 ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 3**
+#**[[File:New Graphic.png]]** **Segment 3**
 ##Guessing Game
 ##See You Soon My Friend
 #**Intermission 4**

@@ -8,13 +8,13 @@ date = 2022-08-06T11:22:03Z
 contributors = ["Himitsu","Ls2018-1","2603:6011:AC00:A50:D87E:6765:9A50:675","Mr.Noodles","The 64th Gamer","CECMentor"]
 gallery = []
 +++
-
+[[File:Layton Bit Stripper - Green PCB.png|thumb|A finished Layton Bit Stripper]]
 The **Layton Bit Stripper** is an animatronic character controller designed by Layton Sanders in 2018 and available for purchase from [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) beginning in 2019. The controller accepts standard Pianocorder format biphase data as input and can drive any [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) character, with data passthrough to controllers for additional characters. A movement test feature is also available. 30 LEDs show power, per-channel output status, and data sync.
 
 The Layton Bit Stripper is comprised of a custom PCB and what appears to be off-the-shelf power supplies and outer enclosure.
 
 ## Revisions ##
-
+[[File:Layton Bit Stripper Rev. A.2 PCB.png|thumb|Rev. A.2 PCB]]
 At least two revisions of the Layton Bit Stripper are known to exist.
 * **Rev. A.2** - Red PCB, wave shaper bypass switch, 12-pin expansion port footprint, requires both 5V and 24V supplies, two external buttons, resistor networks for LEDs, MCU sticker 'Bitstripper V1.1B'
 * **Unknown rev** - Green PCB, no bypass switch, no expansion port, unpopulated 5V regulator footprint, no external buttons, individual LED resistors, MCU sticker 'Bitstripper V1.0'

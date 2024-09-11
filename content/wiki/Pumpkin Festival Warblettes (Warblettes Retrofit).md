@@ -8,7 +8,7 @@ date = 2022-10-16T02:25:13Z
 contributors = ["Documentor","PizzaEntertainmentFanX"]
 gallery = []
 +++
-
+[[File:Pumpkin Festival Warbs.jpg|thumb|403x403px|Pumpkin Festival Warblettes (2018)]]
 **_Pumpkin Festival Warblettes**_ is a retrofit of [Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}}) at _Burger Farm & Garden Center_ in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
 
 The bot can only be seen when the location has its annual Fall Pumpkin Festival, in which it and other _Pizza Time Theatre_ retrofits will be displayed as props for decoration from the last week of September through the end of October. None of them are hooked up in any way to be movable, with all cylinders and air hoses removed. 

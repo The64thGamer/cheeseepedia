@@ -21,7 +21,7 @@ The tape was produced a year into the show's debut at the park, which originally
 The characters in the tape make reference to their stay at the park, and begin to introduce themselves, each demonstrating their instrument.
 
 ##Segments##
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1
+#[[File:New Graphic.png]] Segment 1
 ##Intro Skit
 ##Unknown Song
 

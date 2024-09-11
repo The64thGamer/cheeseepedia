@@ -1,14 +1,14 @@
 +++
 title = "East Brunswick, NJ (647 NJ-18)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-07-11T01:32:58Z
 
 [Article]
 contributors = ["CorrectorMan","Midwestretail","Cheeseclassic","Tux Chuck"]
 gallery = []
 +++
-
+[[File:East brunswick.jpg|thumb|The location's exterior on opening day.]]
 647 NJ-18 was a Chuck E. Cheese's Pizza Time Theatre that opened on March 5, 1984 and closed in 1986 (month and day unknown) with a Balcony Stage. Not counting modern locations, this was the second-to-last PTT in New Jersey. 
 
 Unfortunately, information on the East Brunswick store is extremely scarce, but we do have a photo of their exterior in 1984, shortly after opening.

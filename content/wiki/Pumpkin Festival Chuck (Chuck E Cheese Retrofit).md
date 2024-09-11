@@ -8,8 +8,8 @@ date = 2022-01-11T20:06:45Z
 contributors = ["The 64th Gamer","Documentor","PizzaEntertainmentFanX"]
 gallery = []
 +++
-
-**_Pumpkin Festival Chuck**_ is a retrofit of [Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}}) at _Burger Farm & Garden Center_ in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
+[[File:09b0a19837d236851290037954d61543.png|thumb|403x403px|Pumpkin Festival Chuck]]
+**_Pumpkin Festival Chuck**_ is a retrofit of Chuck E Cheese (Cyberamic) at _Burger Farm & Garden Center_ in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
 
 The bot can only be seen when the location has its annual Fall Pumpkin Festival, in which it and other _Pizza Time Theatre_ retrofits will be displayed as props for decoration. None of them are hooked up in any way to be movable, and it isn't clear which of their movements still work to this day. 
 

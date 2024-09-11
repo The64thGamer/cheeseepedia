@@ -8,7 +8,7 @@ date = 2023-08-08T15:41:36Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_Winchester Warblettes Nameplate**_ made its first and only appearance at the first Chuck E. Cheese's Pizza Time Theatre on  located in the Town & Country Shopping Center in San Jose, California; where it took the role of identifying the Winchester Warblettes Animatronic. 
+The **_Winchester Warblettes Nameplate**_ made its first and only appearance at the first Chuck E. Cheese's Pizza Time Theatre on [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) located in the Town & Country Shopping Center in San Jose, California; where it took the role of identifying the Winchester Warblettes Animatronic. 
 
 ## Production ##
 Production on the Winchester Warblettes nameplate is almost non-existent outside of speculation, we can assume it was produced between March 1977 through May 1977 in a single batch with all the other Winchester nameplates by either the Fantasy Forest Manufacturing company or Atari Incorporated, most likely the former.

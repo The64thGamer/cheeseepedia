@@ -15,6 +15,6 @@ gallery = []
 
 
 ##Show List:##
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}) **Segment 1**
+#[[File:New Graphic.png]] **Segment 1**
 ##Eve of Destruction
 *

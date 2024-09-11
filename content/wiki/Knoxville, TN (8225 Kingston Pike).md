@@ -30,7 +30,7 @@ in may of 2022 the 1-stage was remove and remodeled into the dance floor
 |-
 !Animatronic!!Serial!!Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})|| ||
+|Chuck E Cheese (Cyberamic)|| ||
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})|| ||
 |-

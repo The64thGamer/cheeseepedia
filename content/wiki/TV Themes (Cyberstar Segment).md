@@ -8,8 +8,8 @@ date = 2022-01-22T22:11:48Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-
-**_TV Themes**_ was a  showtape segment debuting in April of 1990 on the [SPP April 1990 Show]({{< ref "wiki/SPP April 1990 Show.md" >}}){< ref "wiki/SPP April 1990 Show.md" >}}).
+[[File:Adada.png|thumb|385x385px|Scene from the segment]]
+**_TV Themes**_ was a Cyberstar (Term) (Cyberstar) showtape segment debuting in April of 1990 on the [SPP April 1990 Show]({{< ref "wiki/SPP April 1990 Show.md" >}}).
 
 The show focuses on TV show theme songs, with the characters testing their knowledge on their melody. The segment runs for around 8 minutes and 8 seconds.
 

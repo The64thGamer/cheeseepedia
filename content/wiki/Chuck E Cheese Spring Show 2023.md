@@ -36,21 +36,21 @@ TODO
 #**Ad 4**
 ##Craftwork (CEC Online Store)
 #**Ad 5**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) CEC Group Events & Fundraisers
+##[[File:New Graphic.png]] CEC Group Events & Fundraisers
 #**Ad 6**
 ##PPG
 ##Food & Drink Combos
 #**Ad 7**
 ##Craftwork (CEC Online Store)
 #**Ad 8**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Haribo
+##[[File:New Graphic.png]] Haribo
 #**Ad 9**
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
 
 ###Entertainment###
 
-#[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) KIDZ BOP Kids - Kidz Bop Never Stop
+#[[File:New Graphic.png]] KIDZ BOP Kids - Kidz Bop Never Stop
 #**Chuck E. Cheese - 'Let's Have A Party**'
 #[[File:New Graphic.png]] Black Eyed Peas - 'Don't You Worry'
 #**Chuck E. Cheese & Friends - 'In The Future**'

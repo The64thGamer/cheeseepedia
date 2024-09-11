@@ -12,14 +12,14 @@ The **_Four Little Shavers**_ are an animatronic cabaret act used in _Pizza Time
 
 They appeared in 3 locations only, these being the _Pizza Time Theatres_ in _Tampa, Florida_, _San Antonio, Texas_ and _Brandon, Florida_. They were first installed in August 1981 at the _Tampa, Florida_ location. They appeared in a room named the Ice Cream Emporium which was an Ice Cream bar, a concept tested by _Pizza Time Theatre Inc._ at the time. The show was fully phased out of these stores by the mid 1980's. All 3 sets were presumably destroyed, but one set has been discovered, restored and now performs at the _Volo Museum_ in _Illinois._
 
-There were 4 members of this band, Nolan (holding the towel), O'Nolan (holding the cup), Curly (the bald man in the chair) and McNolan (holding the broom). They were similar to the  in terms of mechanisms and general appearance.
+There were 4 members of this band, Nolan (holding the towel), O'Nolan (holding the cup), Curly (the bald man in the chair) and McNolan (holding the broom). They were similar to the Beagles / Beach Bowsers (Lounge) (Beagles/Beach Bowsers) in terms of mechanisms and general appearance.
 
 ## Placement ##
 In the standard installation of the show detailed in the _Pizza Time Theatre Theatrical Standards Manual_, the characters would stand in a line, the order being Nolan, O'Nolan, Curly, McNolan (from left to right) in front of a barber shop themed scene. This featured a desk, bottles, mirrors and a barber pole at the back. However one of the locations had a different design, which had a black and blue backdrop with shelving and bottles painted onto it and a sign reading 'Lou's Place', and had Nolan moved to the far right of the stage.
-
-
-
-
+[[File:Shavers 1.jpg|left|thumb|224x224px|The _Four Little Shavers_ at one of the 3 locations. This is the aforementioned store with the black and blue backdrop.]]
+[[File:Shavers 2.jpg|none|thumb|258x258px|The _Four Little Shavers_ at another location. This set has the usual setup for the show.]]
+[[File:Shavers 3.jpg|left|thumb|164x164px|This location also used the standard setup. However the cosmetics look slightly different suggesting it was probably from the third location.]]
+[[File:Shavers 4.jpg|none|thumb|The _Four Little Shavers_ at the _Volo Museum_ in _Illinois_. It uses a custom stage layout and is the only known set of the characters to still exist.]]
 
 
 
@@ -69,11 +69,11 @@ The known movements on the _Four Little Shavers_ are as follows:
 |
 |
 |}
-Their Body Sway movements are accomplished using the exact same assembly used by the , except with only the middle head used. It starts with them tilted left and the cylinder will push them over so they are tilted to the right. Only Curly has mechanical arms which can move, the other three have tubes that connect to props (e.g. McNolan's arm tubes connect to his broom) which can move about as they move to give the illusion of there being arms.
+Their Body Sway movements are accomplished using the exact same assembly used by the [Warblettes]({{< ref "wiki/Warblettes (Cyberamic).md" >}}), except with only the middle head used. It starts with them tilted left and the cylinder will push them over so they are tilted to the right. Only Curly has mechanical arms which can move, the other three have tubes that connect to props (e.g. McNolan's arm tubes connect to his broom) which can move about as they move to give the illusion of there being arms.
 
 Curly is supposed to have 3 total arm movements but at the Volo Show, only 1 of them seems to be operational (Right Arm Twist). It is possible they are either damaged or this could potentially have been an early version which didn't have these extra movements.
 
-There are no photos of the mechanisms, but it can be safely assumed that they are very similar to the  mechanisms, which there are photos of, since they use the same design and system.
+There are no photos of the mechanisms, but it can be safely assumed that they are very similar to the Beagles / Beach Bowsers (Lounge) (Beagles/Beach Bowsers) mechanisms, which there are photos of, since they use the same design and system.
 
 ## Gallery ##
 <gallery>

@@ -18,7 +18,7 @@ American Pride is a Patriotic themed show that played at Chuck E Cheese's, not t
 ###Birthday Extravaganza
 ##Geography Rap - Australia
 ##CEC-TV Intro
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 1**
+#**[[File:New Graphic.png]] Segment 1**
 ##America The Beautiful
 ##Yankee Doodle
 ##Oh Susanna
@@ -28,7 +28,7 @@ American Pride is a Patriotic themed show that played at Chuck E Cheese's, not t
 ###Birthday Extravaganza
 ##Helen Henny's Hollywood - Lassie
 ##CEC-TV Intro
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 2**
+#**[[File:New Graphic.png]] Segment 2**
 ##Rockin' State
 ##My Country
 ##This Land Is My Land
@@ -37,7 +37,7 @@ American Pride is a Patriotic themed show that played at Chuck E Cheese's, not t
 ###Birthday Extravaganza
 ##CEC-TV News - (Lost Media)
 ##CEC-TV Intro
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Segment 3**
+#**[[File:New Graphic.png]] Segment 3**
 ##Oh I Think My Pride Is Showing Again
 ##You're A Grand Old Flag
 #**Intermission 4**

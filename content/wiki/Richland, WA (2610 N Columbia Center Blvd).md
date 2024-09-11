@@ -1,19 +1,19 @@
 +++
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-07-30T15:03:43Z
 
 [Article]
 contributors = ["Rexburg090","CorrectorMan","2601:601:9C00:9490:6570:B2C8:A6C7:C40C"]
 gallery = []
 +++
-**_2610 N Columbia Center Blvd, Store #222/3047**_ was a _Pizza Time Theatre_/_Chuck E. Cheese's Pizza_/Chuck E. Cheese's that opened on September 30th, 1982 with a  and closed on September 9th, 2018 with a .
+**_2610 N Columbia Center Blvd, Store #222/3047**_ was a _Pizza Time Theatre_/_Chuck E. Cheese's Pizza_/Chuck E. Cheese's that opened on September 30th, 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on September 9th, 2018 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}).
 
-The store would relocate to  (later upgrading to a 2021 Model with a Video Wall) and was the state's very first 2.0 location.
+The store would relocate to [Kennewick, WA (6340 W Rio Grande Ave)]({{< ref "wiki/Kennewick, WA (6340 W Rio Grande Ave).md" >}}) with a 2017 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) (later upgrading to a 2021 Model with a Video Wall) and was the state's very first 2.0 location.
 
 ## History ##
-Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washington State. Like most other Pizza Time Theatres, Richland would have a Balcony Stage. it's unknown what Cabaret Characters Richland had as there are no photos or videos of Richland as a Pizza Time Theatre. In 1989, Richland would receive the 1988 Update of the  installed in the state. They would have that stage for almost 2 years until sometime in Early-Mid 1991 when it was converted into the state's only Road Stage. The store would then receive an update to the  as Washington State's very first 2.0 store.
+Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washington State. Like most other Pizza Time Theatres, Richland would have a Balcony Stage. it's unknown what Cabaret Characters Richland had as there are no photos or videos of Richland as a Pizza Time Theatre. In 1989, Richland would receive the 1988 Update of the 1986 SPT Remodel Program which involved removing the Balcony Stage for one of three Chuck E.'s House Facade (Chuck E.'s House Facades) installed in the state. They would have that stage for almost 2 years until sometime in Early-Mid 1991 when it was converted into the state's only Road Stage. The store would then receive an update to the 1990s Major Remodel in the Mid 1990's. At some point, the dim lights were removed for bright florescent lighting. In 2014-2015, the store would have some of it's walls painted in the colors of the 2015 Remodel. The store would remain this way until September 9, 2018 when the store would be permanently closed for good and would then relocate to [Kennewick]({{< ref "wiki/Kennewick, WA (6340 W Rio Grande Ave).md" >}}) as Washington State's very first 2.0 store.
 
 ## Stages ##
 {| class='wikitable'
@@ -22,7 +22,7 @@ Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washi
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |September 1982
 |1989
 |One of 8 Pizza Time Theatre to open in the state.
@@ -32,7 +32,7 @@ Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washi
 |Early 1991
 |One of three installed in Washington.
 |-
-|
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |Early-Mid 1991
 |Still in Use
 |Only one installed in Washington State. Last Road Stage with Tuxedo & Derby.
@@ -44,7 +44,7 @@ Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washi
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |Unknown
 |Unknown
 |-
@@ -68,7 +68,7 @@ Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washi
 |Unknown
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |N/A
 |Unknown
 |-

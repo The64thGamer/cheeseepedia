@@ -8,7 +8,7 @@ date = 2022-02-25T05:28:28Z
 contributors = ["The 64th Gamer","2600:4040:59F9:8000:E869:B562:197E:4627","168.69.254.246","Thecheesydude"]
 gallery = []
 +++
-**_Sharonville, OH (1429 E Kemper Rd)**_ was a _Showbiz Pizza_ location running from 1981 to 1984.
+[[File:Sharonville Exterior.jpg|thumb|490x490px|Image of Sharonville]]**_Sharonville, OH (1429 E Kemper Rd)**_ was a _Showbiz Pizza_ location running from 1981 to 1984.
 
 The Sharonville, OH Showbiz Pizza Place opened up October 21, 1981. and closed its doors January 8, 1984. became a Night Club, Then on September 8, 1992 reopened as a Chuck E. Cheese's Pizza where it still remains open to this day.
 ##Stages##

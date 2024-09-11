@@ -8,3 +8,4 @@ date = 2022-07-14T21:54:41Z
 contributors = ["RessiduePezzzado","The 64th Gamer"]
 gallery = []
 +++
+[[File:1981uniform.png|thumb|388x388px]]

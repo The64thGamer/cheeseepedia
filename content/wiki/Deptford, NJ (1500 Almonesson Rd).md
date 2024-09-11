@@ -8,7 +8,7 @@ date = 2022-08-06T01:40:58Z
 contributors = ["MM995","Rexburg090","RPCEC","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2","The 64th Gamer","2600:4040:59FC:D100:387D:65E5:2486:4C7","Cecnj98","ShowbizMidwest","2600:4040:AD76:D00:B53D:EF88:79B6:14D8","CEC Tinley","ThatBoiCydalan","Planetpurplediner"]
 gallery = []
 +++
-
+[[File:Deptford Old Exterior.jpg|thumb|Image of Deptford's original exterior in 2013.]]
 **Deptford, NJ (1500 Almonesson Rd)** is a Chuck E. Cheese’s location located in Deptford, New Jersey; in The Court at Deptford shopping center. This location opened on November 12, 1991. 
 
 ## Stages ##
@@ -72,3 +72,4 @@ The store received the 2005 remodel package in 2007. In May 2014, The Court at D
 |}
 
 ## Gallery ##
+[[File:Deptford 2022 Stage View.jpg|left|thumb|View of stage from 2022]]

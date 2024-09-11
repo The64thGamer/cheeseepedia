@@ -1,7 +1,7 @@
 +++
 title = "Studio C Beta"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2022-09-13T13:42:34Z
 
 [Article]

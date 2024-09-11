@@ -19,17 +19,17 @@ gallery = []
 **_Patriotic**_ was a show that released in the summer of 1994 at Chuck E. Cheese's.
 
 ##Show List ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1 - Magic**
+#**[[File:New Graphic.png]]** **Intermission 1 - Magic**
 ##VJ Spot
 ##Charlie Rockit
 ##Joke Pizza Wall
 ##Tricks For Treats
 ##Did You Know?
 ##VJ Spot
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##'Party Place'
 ##'Conga'
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 2 - Dancing**
+#**[[File:New Graphic.png]]** **Intermission 2 - Dancing**
 ##CEC TV '94 ID
 ##State Of The Art Of Computer Animation
 ##Dancin' Fools

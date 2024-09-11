@@ -19,10 +19,10 @@ gallery = []
 **_You're A Star**_ was a show that released in September of 1993 at Chuck E. Cheese's.
 
 ##Show List ##
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 1**
+#**[[File:New Graphic.png]]** **Segment 1**
 ##'I'm So Excited'
 ##'You're A Star'
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Intermission 1**
+#**[[File:New Graphic.png]]** **Intermission 1**
 ##Trivia
 ##'Birthday Star'
 ##Chuck E.'s Zoo View
@@ -34,7 +34,7 @@ gallery = []
 ##Trivia
 ##Ocean Reflections
 ##Trivia
-#**[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})** **Segment 2**
+#**[[File:New Graphic.png]]** **Segment 2**
 ##'Wooly Bully'
 ##'I Fall To Pieces'
 #**[[File:New Graphic.png]]** **Intermission 2**

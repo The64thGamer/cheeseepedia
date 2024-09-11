@@ -8,8 +8,8 @@ date = 2022-10-28T18:59:32Z
 contributors = ["EagleScout610","KPIZZA03","The 64th Gamer","216.125.34.66","Lelmaster","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++
-
-**Winchester Crusty the Cat V1 (Animatronic)** was an animatronic present at the opening of the . It was used until it was replaced by an  animatronic.
+[[File:Crusty V1.png|thumb|V1 Crusty the Cat at the Winchester location]]
+**Winchester Crusty the Cat V1 (Animatronic)** was an animatronic present at the opening of the [San Jose, CA (370 S Winchester Blvd) Pizza Time Theater]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). It was used until it was replaced by an [upgraded Crusty the Cat]({{< ref "wiki/Winchester Crusty the Cat V2 (Animatronic).md" >}}) animatronic.
 
 ## Development ##
 Crusty was the second animatronic built for the Winchester Blvd location after Chuck E. Cheese by Harold Goldbrandsen. His original design called for him to wear a baseball cap to go along with his jersey, which was never implemented on the animatronic
@@ -30,4 +30,4 @@ Sadly, due to no videos of Crusty in store or after his use in the store exist, 
 * Head Turn (Possibly)
 
 ## Replacement ##
-In 1978, Crusty, along with Chuck E. Cheese was upgraded to a more advanced design to fit the style of the rest of the characters, since Chuck E. and Crusty, as previously mentioned, were the earliest models of animatronic. It is unknown what happened to V1 Crusty after he retired. It was assumed he was sent to  with Chuck E, but there are no photos of him there. It is speculated he was destroyed when PTT left the building following bankruptcy.
+In 1978, Crusty, along with Chuck E. Cheese was upgraded to a more advanced design to fit the style of the rest of the characters, since Chuck E. and Crusty, as previously mentioned, were the earliest models of animatronic. It is unknown what happened to V1 Crusty after he retired. It was assumed he was sent to [Sunnyvale]({{< ref "wiki/Pizza Time Theatre Sunnyvale, CA Corporate Office.md" >}}) with Chuck E, but there are no photos of him there. It is speculated he was destroyed when PTT left the building following bankruptcy.

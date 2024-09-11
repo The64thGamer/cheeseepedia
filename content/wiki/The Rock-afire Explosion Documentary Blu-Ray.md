@@ -28,12 +28,12 @@ AGFA AMERICAN GENRE FILM ARCHIVE OCN DISTRIBUTION 72 MINS 1.33:1 OAR Blu-ray Dis
 
 WARNING: THIS COLLECTION IS PROTECTED BY LAW. All unauthorized copying, public performance, exhibition, or broadcasting is prohibited by law. Features, menus, and special features © 2024 American Genre Film Archive. All rights reserved. AMERICANGENREFILM.COM}}
 
-The **_Rock-afire Explosion Documentary Blu-Ray**_ is a 2024 limited edition rerelease of the .
+The **_Rock-afire Explosion Documentary Blu-Ray**_ is a 2024 limited edition rerelease of the [The Rock-afire Explosion Documentary]({{< ref "wiki/The Rock-afire Explosion Documentary.md" >}}) with small additions and an improved video quality over the The Rock-afire Explosion Documentary DVD (prior DVD release).
 
 ## Changes / Additions ##
-The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the  and  vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary _Glow_, and the Rock-afire eventually inspiring the 2014 game series _Five Nights at Freddy's_.
+The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the Rock-afire Explosion Record 2 (1981) (Rock-afire Explosion Record 2) and Rock-afire Explosion Record 4 (1981) (Rock-afire Explosion Record 4) vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary _Glow_, and the Rock-afire eventually inspiring the 2014 game series _Five Nights at Freddy's_.
 
-The film's original digital master would be included on the disc. The disc would now be 33gb.<ref>[:File:Discqualitycontentsraebluraydoc.png]({{< ref "wiki/FileDiscqualitycontentsraebluraydocpng.md" >}})</ref>
+The film's original digital master would be included on the disc. The disc would now be 33gb.<ref>[[:File:Discqualitycontentsraebluraydoc.png]]</ref>
 
 New director commentary from Brett Whitcomb and Bradford Thomason over the film would be included. A new photo gallery of behind the scenes pictures would also be included.
 

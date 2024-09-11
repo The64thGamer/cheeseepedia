@@ -1,14 +1,14 @@
 +++
 title = "San Antonio, TX (8507 McCullough Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-11T21:33:01Z
 
 [Article]
 contributors = ["Gostapua210"]
 gallery = []
 +++
-**San Antonio, TX (8507 McCullough Ave)** was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in August 1981 and closed in 1984 with a . First Pizza Time Theatre in San Antonio.
+**San Antonio, TX (8507 McCullough Ave)** was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in August 1981 and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). First Pizza Time Theatre in San Antonio.
 
 ## Stage ##
 The location had a Balcony Stage, any further documentation is unknown.
@@ -18,7 +18,7 @@ The location had a Balcony Stage, any further documentation is unknown.
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |August 1981
 |1984
 |Whereabouts Unknown. One of many installed in Texas.
@@ -38,7 +38,7 @@ Unfortunately, there is no documentation on this store other than select adverti
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -50,7 +50,7 @@ Unfortunately, there is no documentation on this store other than select adverti
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |-
-|[Waving Flags (Cyberamic)]({{< ref "wiki/Waving Flags (Cyberamic).md" >}})
+|Waving Flags (Cyberamic)
 |Unknown
 |-
 |[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})

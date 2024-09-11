@@ -1,7 +1,7 @@
 +++
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-12T18:17:20Z
 
 [Article]
@@ -31,7 +31,7 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 !Serial / Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
 |Unknown
 |-
@@ -51,7 +51,7 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 |Unknown
 |Unknown
 |-
-|
+|Wink (Animatronic) (Wink (Cyberamic))
 |Unknown
 |Unknown
 |-
@@ -59,7 +59,7 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 |Unknown
 |Unknown
 |-
-|[Clapper Board (Cyberamic)]({{< ref "wiki/Clapper Board (Cyberamic).md" >}})
+|Clapper Board (Cyberamic)
 |Unknown
 |Unknown
 |-

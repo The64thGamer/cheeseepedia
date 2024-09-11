@@ -15,3 +15,4 @@ There is a small section of the spinner that is named 'Instant Pop'. Upon the pl
 
 This is a considered the jackpot and a varying amount of tickets will be awarded to the player.
 
+[[File:1b8481bb-a628-451c-aa8a-620d56b67b18.jpg|thumb]]

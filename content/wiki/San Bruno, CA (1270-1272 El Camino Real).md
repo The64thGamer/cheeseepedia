@@ -28,12 +28,12 @@ In May 2019, San Bruno still has the 2019 model Dance Floor.
 !Removed
 !Notes
 |-
-|[1 Stage]({{< ref "wiki/1 Stage.md" >}})
+|1 Stage
 |May 1994
 |May 2019
 |One of San Bruno California 1 Stage Was Removed On May 2019.
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |May 2019
 |Still In Use
 |2019 Model. In The Dance Floor in San Bruno.
@@ -44,7 +44,7 @@ In May 2019, San Bruno still has the 2019 model Dance Floor.
 San Bruno California opened on May 30, 1994 San Bruno California would originally feature
 the 1 Stage from when it first opened until 1994 when they would
 convert with the removed during way for a 2019 Model
-. As of August 2023, San Bruno still has the 2019 model Dance Floor and the 2.0 Remodel.
+Chuck E. Live Stage (Dance Floor) (Dance Floor). As of August 2023, San Bruno still has the 2019 model Dance Floor and the 2.0 Remodel.
 
 ## Videos ##
 

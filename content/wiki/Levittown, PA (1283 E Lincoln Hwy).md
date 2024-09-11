@@ -8,8 +8,8 @@ date = 2023-09-23T14:04:49Z
 contributors = ["Cheeseclassic","CEC Tinley","Jerry CEC","Caydenpedia","Cecnj98"]
 gallery = []
 +++
-
-**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990 with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}){< ref "wiki/Chuck E's House.md" >}}), and closed on August 25, 2020 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}){< ref "wiki/1-Stage.md" >}}).
+[[File:Levittown’s Exterior .jpg|thumb|Levittown’s Exterior in August 2020, shortly after closure. (PC: LevittownNow.com) ]]
+**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990 with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed on August 25, 2020 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
 ## Stages ##
 {| class='wikitable'
@@ -37,11 +37,11 @@ gallery = []
 !Manufacturing Date
 !Whereabouts
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |N/A
 |Unknown.
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |N/A
 |Unknown.
 |-

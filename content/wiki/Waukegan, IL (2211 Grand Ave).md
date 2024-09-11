@@ -1,7 +1,7 @@
 +++
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-08T15:26:20Z
 
 [Article]
@@ -33,7 +33,7 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 !Manufacturing Date
 !Whereabouts
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |1983
 |Sent to Fairview Heights. Removed in 2019, destroyed. Cosmetics owned by a collector.
 |-

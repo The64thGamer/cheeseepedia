@@ -25,15 +25,15 @@ This plush was released in a set containing other characters and sizes:
 
 *[Small Chuck E. Plush (1996)]({{< ref "wiki/Small Chuck E Plush (1996).md" >}})
 *[Large Chuck E. Plush (1996)]({{< ref "wiki/Large Chuck E Plush (1996).md" >}})
-*[Jumbo Chuck E. Plush (1996)]({{< ref "wiki/Jumbo Chuck E Plush (1996).md" >}})
+*Jumbo Chuck E. Plush (1996)
 *[Small Helen Plush (1996)]({{< ref "wiki/Small Helen Plush (1996).md" >}})
 *[Large Helen Plush (1996)]({{< ref "wiki/Large Helen Plush (1996).md" >}})
-*[Jumbo Helen Plush (1996)]({{< ref "wiki/Jumbo Helen Plush (1996).md" >}})
+*Jumbo Helen Plush (1996)
 *[Small Munch Plush (1996)]({{< ref "wiki/Small Munch Plush (1996).md" >}})
 *[Large Munch Plush (1996)]({{< ref "wiki/Large Munch Plush (1996).md" >}})
 *[Jumbo Munch Plush (1996)]({{< ref "wiki/Jumbo Munch Plush (1996).md" >}})
 *[Large Jasper Plush (1996)]({{< ref "wiki/Large Jasper Plush (1996).md" >}})
-*[Jumbo Jasper Plush (1996)]({{< ref "wiki/Jumbo Jasper Plush (1996).md" >}})
+*Jumbo Jasper Plush (1996)
 *[Small Pasqually Plush (1996)]({{< ref "wiki/Small Pasqually Plush (1996).md" >}})
 *[Large Pasqually Plush (1996)]({{< ref "wiki/Large Pasqually Plush (1996).md" >}})
 ##Design##
@@ -42,7 +42,7 @@ The plush has a cylindrical body with two cylindrical legs. Its arms are curved 
 His hat uses a weird papery material with a red ribbon. He has a red bandana that can be untied and taken off. He's wearing a cow print shirt under his overalls, those overalls feature plastic buttons and a pocket. His shoes are red with white detailing and shoelaces.
 
 ###Differences Between Smaller Size###
-There's little to no difference between this plush and the , but the biggest key difference between this plush and it's smaller size is the eyes. The large Jaspers eyes are more proportionate than the smaller versions eyes.
+There's little to no difference between this plush and the [Small 1996 Jasper]({{< ref "wiki/Small Jasper Plush (1996).md" >}}), but the biggest key difference between this plush and it's smaller size is the eyes. The large Jaspers eyes are more proportionate than the smaller versions eyes.
 ##Gallery##
 <gallery>
 File:Large96JaspBACK.jpg|Plush Back

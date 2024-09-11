@@ -1,7 +1,7 @@
 +++
 title = "West Mifflin, PA (2260 Lebanon Church Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-05-04T21:50:50Z
 
 [Article]
@@ -12,7 +12,7 @@ gallery = []
 
 It was located in an unknown shopping center and was about 16 minutes away from the Kennywood Amusement Park.
 
-When this store received the 1988 remodel, it had a unique logo on the road sign (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the exterior of the  & the road sign of the [https://cheeseepedia.org/wiki/Bridgeville,_PA_(1025_Washington_Pike) original Bridgeville PA] location.
+When this store received the 1988 remodel, it had a unique logo on the road sign (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the exterior of the [Harrisburg]({{< ref "wiki/Harrisburg, PA (3883 Union Deposit Rd).md" >}}) & the road sign of the [https://cheeseepedia.org/wiki/Bridgeville,_PA_(1025_Washington_Pike) original Bridgeville PA] location.
 ##History##
 West Mifflin opened in August 1983 as a franchised-owned location. West Mifflin opened with the Cabaret room, The King, Waving Flags, some other playgrounds like the Tinker Towers, and the Balcony Stage. West Mifflin then received the 1988 remodel in 1989-1990 removing PTT decor for newer decor, removing Tinker Towers and other playground, and converting the Balcony Stage for Chuck E.'s House Facade, otherwise known as the C-Stage. West Mifflin received the 2-Stage around the early 90's. West Mifflin would remain like this until November 24th, 1996 when they would close for unknown reasons. After it closed, West Mifflin became a gym which closed at some point. The building stayed standing for 39 years until it started demolition in Late 2022. Currently, as of May 2023, the building is now demolished.
 ##Stages##

@@ -8,20 +8,20 @@ date = 2023-02-03T15:13:39Z
 contributors = ["Midwestretail","ChuckEPediaIsTheBest!","Rexburg090","ThatBoiCydalan"]
 gallery = ["Roebuckdied.png|Roebuck"]
 +++
+[[File:roebuck2007.png|thumb|Street view of Roebuck, months before closure (October 2007) (PC: Google Maps)]]
+**9325 Parkway East** (also known as **Roebuck**) was a  Showbiz Pizza Place that opened in mid-1983 with a [Rock-afire Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). 
 
-**9325 Parkway East** (also known as **Roebuck**) was a  Showbiz Pizza Place that opened in mid-1983 with a . 
-
-They would be converted, and go through the Concept Unification process in an unknown date, likely early 1991, with the Classic Stage being retrofitted for a [3-Stage]({{< ref "wiki/3-Stage.md" >}}){< ref "wiki/3-Stage.md" >}}). Roebuck would eventually close permanently in 2007 for an unknown reason, with the whole shopping center being demolished for a Walgreen's, which is still open to this day.
+They would be converted, and go through the Concept Unification process in an unknown date, likely early 1991, with the Classic Stage being retrofitted for a 3-Stage. Roebuck would eventually close permanently in 2007 for an unknown reason, with the whole shopping center being demolished for a Walgreen's, which is still open to this day.
 
 This location should not be confused with [Birmingham, AL (500 Old Town Rd)]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}), which opened in 1982, and is still open to this day.
 
-This location should also not be confused with [Birmingham, AL (4647 Hwy 280)]({{< ref "wiki/Birmingham, AL (4647 Hwy 280).md" >}}), which opened in February 2013, and is still open to this day.
+This location should also not be confused with Birmingham, AL (4647 Hwy 280), which opened in February 2013, and is still open to this day.
 
 ##History##
-Birmingham (Roebuck) opened in 1983 on 9325 Parkway East road, as the second Showbiz Pizza Place in Birmingham, after  opened in 1982. That would also make it the 6th Showbiz in Alabama, and the 182nd Showbiz Pizza Place to open in general. Unfortunately, barely any information on Birmingham as a Showbiz Pizza has surfaced, and no video has been found, and merely likely a few pictures. In an unknown date, likely 1991, they would receive Concept Unification, and would have the Classic Stage retrofitted into a 3-Stage. It is unknown if they kept the Showbiz Pizza sign post-CU, or if it was replaced. In the 1990s-2000s, they would remodel to  and  respectively, and they would remain at the location until closure.
+Birmingham (Roebuck) opened in 1983 on 9325 Parkway East road, as the second Showbiz Pizza Place in Birmingham, after [500 Old Town Rd]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}) opened in 1982. That would also make it the 6th Showbiz in Alabama, and the 182nd Showbiz Pizza Place to open in general. Unfortunately, barely any information on Birmingham as a Showbiz Pizza has surfaced, and no video has been found, and merely likely a few pictures. In an unknown date, likely 1991, they would receive Concept Unification, and would have the Classic Stage retrofitted into a 3-Stage. It is unknown if they kept the Showbiz Pizza sign post-CU, or if it was replaced. In the 1990s-2000s, they would remodel to [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) respectively, and they would remain at the location until closure.
 
 ##Stages##
-Originally, when this location opened, they had the standard [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) at every Showbiz Pizza location. In an unknown year, likely 1991, the location would get Concept Unification and would turn the Classic Stage into a [3-Stage]({{< ref "wiki/3-Stage.md" >}}), which would be kept until the location's closing, Uniquely, the Helen at this location would have a green cheerleader outfit in the 1990s, much like [Huntsville, AL (1220 Jordan Lane)]({{< ref "wiki/Huntsville, AL (1220 Jordan Lane).md" >}}), and [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}). Munch Jr. was also likely removed before closure. The stage would also go through an unknown fate after the location closed.
+Originally, when this location opened, they had the standard [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) at every Showbiz Pizza location. In an unknown year, likely 1991, the location would get Concept Unification and would turn the Classic Stage into a 3-Stage, which would be kept until the location's closing, Uniquely, the Helen at this location would have a green cheerleader outfit in the 1990s, much like [Huntsville, AL (1220 Jordan Lane)]({{< ref "wiki/Huntsville, AL (1220 Jordan Lane).md" >}}), and [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}). Munch Jr. was also likely removed before closure. The stage would also go through an unknown fate after the location closed.
 {| class='wikitable'
 |+
 !Stage
@@ -29,12 +29,12 @@ Originally, when this location opened, they had the standard [Classic Stage]({{<
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |1983
 |1991-1992
 |
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991-1992
 |2007
 |}
@@ -46,22 +46,22 @@ Originally, when this location opened, they had the standard [Classic Stage]({{<
 !Removed
 !Notes
 |-
-|
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |October 1982
 |1991
 |5th Showbiz to open in Alabama
 |-
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991
 |Fall 2000
 |One of 7 Showbiz locations in Alabama to undergo Concept Unification
 |-
-|
+|Studio C 2000 (Studio C 2000, 32M)
 |Fall 2000
 |April/May 2016
 |One of first 5 Studio C Betas installed. First 32m bot in Alabama.
 |-
-|
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |April/May 2016
 |Still in Use
 |Replaced with 2021 Model in December 2021.
@@ -77,47 +77,47 @@ Originally, when this location opened, they had the standard [Classic Stage]({{<
 !Serial
 !Whereabouts
 |-
-|
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |1-82 1-25
 |Unknown/Destroyed
 |-
-|
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |???
 |Unknown/Destroyed
 |-
-|
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed
 |-

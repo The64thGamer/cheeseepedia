@@ -1,14 +1,14 @@
 +++
 title = "Fall River, MA (35 Mariano Bishop Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-09-28T20:00:39Z
 
 [Article]
 contributors = ["Cheeseclassic","BigCtheDataFinder"]
 gallery = []
 +++
-**Fall River, MA (35 Mariano Bishop Blvd)** was a Chuck E. Cheese’s that opened in February 1985 with a , and closed in March/April 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}){< ref "wiki/Chuck E's House Facade.md" >}}).
+**Fall River, MA (35 Mariano Bishop Blvd)** was a Chuck E. Cheese’s that opened in February 1985 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in March/April 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 ## Stages ##
 {| class= 'wikitable'
@@ -17,10 +17,10 @@ gallery = []
 !Removed
 !Notes
 |-
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |February 1985 
 |1988-1989
-|Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
+|Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |-
 |[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
 |1988-1989
@@ -35,23 +35,23 @@ gallery = []
 !Manufacturing Date
 !Status
 |-
-|[Chuck E Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|Chuck E Cheese (Cyberamic)
 |Unknown
-|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
+|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
-|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}){< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
+|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
-|Unknown. Originally from [[Danvers, MA (139 Endicott St)]].
+|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
-|Unknown. Originally from [[Danvers, MA (139 Endicott St)]].
+|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
-|Unknown. Originally from [[Danvers, MA (139 Endicott St)]].
+|Unknown. Originally from [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
 |}

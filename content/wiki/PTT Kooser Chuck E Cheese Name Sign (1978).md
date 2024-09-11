@@ -8,7 +8,7 @@ date = 2023-08-07T07:49:37Z
 contributors = ["Concordio"]
 gallery = []
 +++
-The **_1978 Chuck E. Cheese nameplate**_ was first used at the second Chuck E. Cheese's Pizza Time Theatre located on  where it was placed under the  for the purpose of identifying it, a practice seen in the previous store on 
+The **_1978 Chuck E. Cheese nameplate**_ was first used at the second Chuck E. Cheese's Pizza Time Theatre located on [1371 Kooser Road, San Jose, California;]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) where it was placed under the Kooser Chuck E. Cheese (Animatronic) (Kooser Chuck E. Cheese animatronic) for the purpose of identifying it, a practice seen in the previous store on [370 South Winchester Boulevard in San Jose, California.]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}})
 
 ## Production ##
 Although we do not have a specific date, we can theorize it was produced between January 1978 to November 1978, where it was most likely the first nameplate produced in the batch due to the significance of the character. 

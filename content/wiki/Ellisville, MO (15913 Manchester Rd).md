@@ -39,7 +39,7 @@ In 2011 or 2012, Cappa elements were removed and replaced with the Beta elements
 |Studio C Cappa
 |2006-2007
 |2011 or 2012
-|Converted into a Beta like .
+|Converted into a Beta like [Cincinnati, OH, (4394 Eastgate Square Dr)]({{< ref "wiki/Cincinnati, OH (4394 Eastgate Square Dr).md" >}}).
 |-
 |Studio C Beta, 16m
 |2011 or 2012

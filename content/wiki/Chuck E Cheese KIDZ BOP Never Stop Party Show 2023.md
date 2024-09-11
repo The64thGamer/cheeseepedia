@@ -38,8 +38,8 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 
 ###Entertainment###
 #**Ad Break**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})DJ Munch - 'Song Of Summer Remix'
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})KIDZ BOP Bumper 1
+##[[File:New Graphic.png]]DJ Munch - 'Song Of Summer Remix'
+##[[File:New Graphic.png]]KIDZ BOP Bumper 1
 ##KIDZ BOP Kids - 'ABC'
 #**Ad Break**
 ##Chuck E. Cheese & Friends - 'I Love Sparkles!'
@@ -47,7 +47,7 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ##Koo Koo Kangaroo - 'Backyard Swimsuit'
 #**Ad Break**
 ##KIDZ BOP Kids - 'Cuff It'
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}})KIDZ BOP Bumper 2
+##[[File:New Graphic.png]]KIDZ BOP Bumper 2
 ##[[File:New Graphic.png]]KIDZ BOP Kids - 'Unstoppable'
 #**Ad Break**
 ##KIDZ BOP Kids - 'Flowers'

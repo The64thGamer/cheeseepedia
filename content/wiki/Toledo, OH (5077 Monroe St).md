@@ -11,7 +11,7 @@ gallery = []
 **_5077 Monroe St**_, is a Chuck E. Cheese's location in Toledo, Ohio that opened on September 6th, 1993.
 
 ## History ##
-Toledo on Monroe opened on September 6th, 1993 along with the  location with the 1-Stage. The store would then received the 2005 Remodel in around 2006-2007 which included the removal of the Record Posters, Showroom Walls, & Dim Lighting. 
+Toledo on Monroe opened on September 6th, 1993 along with the [5455 Airport Hwy]({{< ref "wiki/Toledo, OH (5455 Airport Hwy).md" >}}) location with the 1-Stage. The store would then received the 2005 Remodel in around 2006-2007 which included the removal of the Record Posters, Showroom Walls, & Dim Lighting. 
 
 In around 2010-2011, the store expanded their gameroom, adding even more games. 
 
@@ -30,7 +30,7 @@ TODO: Stage History
 |2021
 |One of Seven 1-Stages installed in Ohio
 |-
-| + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
 |2021
 |Still In Use
 |First 2021 Model in Ohio

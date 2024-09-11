@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob"
 draft = false
-tags = []
+tags = ["Costumed Characters Kansas City Walkaround"]
 date = 2024-05-23T15:24:13Z
 
 [Article]
@@ -19,7 +19,7 @@ Billy Bob was based off of the character Billy Wilbur from the [Hard Luck Bears]
 Initially, Billy Bob ran Smitty's Super Service Station with his best friend [Looney Bird]({{< ref "wiki/Looney Bird.md" >}}). They created Gasohol, and often referred to it as Goofy Gas. Billy Bob was portrayed as a fun loving and wholesome character, rarely showing signs of anger. He seemed to really care about giving the guests a good performance, and showed care for his co-hosts often. Over time, Billy Bob was shown to have a bit more of an edge to him. He would occasionally show himself as more easy going, and had moments where he would get annoyed or joke around with his bandmates. Billy Bob was voiced by Aaron Fechter, and named after one of [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}})'s artists.
 
 ### The New Rock-afire Explosion ###
-After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the [New Rock-afire Explosion]({{< ref "wiki/New Rock-afire Explosion.md" >}}). Every character was much shorter and skinnier, including Billy Bob. The shows portrayed Billy Bob as a bit older than he once was, as well as a bit snarkier.
+After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the New Rock-afire Explosion. Every character was much shorter and skinnier, including Billy Bob. The shows portrayed Billy Bob as a bit older than he once was, as well as a bit snarkier.
 
 ### Present Day ###
 As of present day Billy Bob remains the same as he was in the Showbiz days. Throughout the 21st century, Billy Bob had a few more showtapes produced, most notably being Billy Bobs Newsblast. Original parts for Billy Bob would start to be reproduced by Creative Engineering's new employees in 2023.

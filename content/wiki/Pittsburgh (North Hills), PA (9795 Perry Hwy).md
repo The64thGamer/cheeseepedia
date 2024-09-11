@@ -28,7 +28,7 @@ Pittsburgh opened with Chuck E.'s House, the 4th one overall. Sadly, not much in
 |}
 
 ## History ##
-Pittsburgh opened on February 24, 1988 with Chuck E.'s House under the name Showbiz Pizza. They had the 1988 update to the [1986 SPT Remodel Program]({{< ref "wiki/1986 SPT Remodel Program.md" >}}), featuring checkers, blue and white awnings, and neon signage. In 1991/1992, the exterior and road sign was changed to read Chuck E. Cheese's Pizza. On July 16, 1994, the location closed for unknown reasons. It was passed off to many businesses, and it is now currently a The Dog Stop location.
+Pittsburgh opened on February 24, 1988 with Chuck E.'s House under the name Showbiz Pizza. They had the 1988 update to the 1986 SPT Remodel Program, featuring checkers, blue and white awnings, and neon signage. In 1991/1992, the exterior and road sign was changed to read Chuck E. Cheese's Pizza. On July 16, 1994, the location closed for unknown reasons. It was passed off to many businesses, and it is now currently a The Dog Stop location.
 
 ## Animatronics ##
 TODO

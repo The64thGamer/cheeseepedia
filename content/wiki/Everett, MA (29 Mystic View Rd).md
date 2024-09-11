@@ -9,3 +9,4 @@ contributors = ["Jacouby","Epicniceperson","Midwestretail","The 64th Gamer","Chu
 gallery = []
 +++
 **Everett, MA (29 Mystic View Rd)** is a Chuck E. Cheese location with a [Studio C]({{< ref "wiki/Studio C.md" >}}) Beta stage.
+[[File:EverretMABetaStage 2021 1.jpg|thumb|alt=A wide shot of Everett, MA Studio C Beta stage|The Everett, MA Studio C Beta stage]]

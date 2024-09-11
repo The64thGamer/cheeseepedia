@@ -11,10 +11,10 @@ gallery = []
 {{Stub}}
 {{Generic|image=Norfolk.png|desc=Norfolk's exterior in 2009.}}
 
-**_920 Military Hwy Norfolk, VA**_ was a _Chuck E. Cheese's_ that opened in 2000 with a , which closed on May 28th, 2015.
+**_920 Military Hwy Norfolk, VA**_ was a _Chuck E. Cheese's_ that opened in 2000 with a Studio C (1997) (Studio C Alpha), which closed on May 28th, 2015.
 
 ##Stages##
-This location featured the standard   installed in locations at the time. This location kept the interactive console till closure.
+This location featured the standard Studio C (1997) (Studio C Alpha)  installed in locations at the time. This location kept the interactive console till closure.
 
 ##History##
 This location opened sometime in 2000.

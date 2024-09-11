@@ -11,12 +11,12 @@ gallery = []
 The Chuck E. Cheese's in Bronx New York Exterior Street, opened on December 12, 2016,**
 
 
-They opened with a [Chuck E. Live Stage Dance Floor]({{< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}){< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}){< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}) (Dance Floor) which opened December 12, 2016
+They opened with a Chuck E. Live Stage Dance Floor (Dance Floor) which opened December 12, 2016
 There Are Bronx New York
 In The Dance Floor Remodel
 
 ## History ##
-Bronx New York opened on December 12, 2016 with the [Chuck E. Live Stage Dance Floor]({{< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}){< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}) (Dance Floor)
+Bronx New York opened on December 12, 2016 with the Chuck E. Live Stage Dance Floor (Dance Floor)
 With The Remodel 2015 Was A Chuck E. Cheese's
 On The location Of The Dance Floor
 In 2015 Model And They 2019 Model There Are Still Remodel.
@@ -28,7 +28,7 @@ In 2015 Model And They 2019 Model There Are Still Remodel.
 !Installed
 !Removed
 |-
-|[Chuck E. Live Stage Dance Floor]({{< ref "wiki/Chuck E Live Stage Dance Floor.md" >}}) (Dance Floor)
+|Chuck E. Live Stage Dance Floor (Dance Floor)
 |December 2016
 |Still In Use
 |2019 Model.

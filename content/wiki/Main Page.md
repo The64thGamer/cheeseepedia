@@ -18,14 +18,14 @@ Hello, and welcome to your new wiki! Thank you for choosing Miraheze for the hos
 You can immediately start working on your wiki or whenever you want.
 
 Need help? No problem! We will help you with your wiki as needed. To start, try checking out these helpful links:
-*  (e.g. navigation, editing, deleting pages, blocking users)
-* 
-* . (Extensions, Skin and Logo/Favicon changes should be done through  for more information.)
+* mw:Special:MyLanguage/Help:Contents (MediaWiki guide) (e.g. navigation, editing, deleting pages, blocking users)
+* meta:Special:MyLanguage/FAQ (Miraheze FAQ)
+* meta:Special:MyLanguage/Request features (Request settings changes on your wiki). (Extensions, Skin and Logo/Favicon changes should be done through Special:ManageWiki on your wiki, see meta:Special:MyLanguage/ManageWiki (ManageWiki) for more information.)
 
 #### I still don't understand X! ####
 Well, that's no problem. Even if something isn't explained in the documentation/FAQ, we are still happy to help you. You can find us here:
-* 
-* On 
+* meta:Special:MyLanguage/Help center (On our own Miraheze wiki)
+* On phab: (Phabricator)
 * On [https://miraheze.org/discord Discord]
 * On IRC in #miraheze on irc.libera.chat ([irc://irc.libera.chat/%23miraheze direct link]; [https://web.libera.chat/?channel=#miraheze webchat])
 

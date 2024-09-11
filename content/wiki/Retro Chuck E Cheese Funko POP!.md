@@ -13,6 +13,6 @@ gallery = []
 Watermarked renders of the figure would be leaked by _popnewws__ on Instagram on April 25, 2023<ref>https://www.instagram.com/p/CreujbMIi7h/</ref>, ahead of the official unveiling. Later that day _dis.trackers_ on Instagram would leak the full renders in high resolution after acquiring it from _popnewws__.<ref>https://www.instagram.com/p/CrevZOApS4n/?utm_source=ig_web_copy_link</ref>
 
 ##Design##
-The design features Avenger Chuck E. Cheese in his complete outfit, shaped in the Funko POP! style. Chuck E. is in a neutral standing pose, with his right arm outstretched to the side, and his left arm holding a Type 4 design token, which began production in 1995 with the  and .
+The design features Avenger Chuck E. Cheese in his complete outfit, shaped in the Funko POP! style. Chuck E. is in a neutral standing pose, with his right arm outstretched to the side, and his left arm holding a Type 4 design token, which began production in 1995 with the CEC Token 401 (B, C, N). The token is modified to have its date at the bottom blanked out and replaced with another stamped dot. Chuck E.'s cap is also facing forward instead of flipped around, a trait generally only shared with the [Chuck 2005]({{< ref "wiki/Chuck 2005 (Costume Head).md" >}}) and [Chuck 2010 Costume Head]({{< ref "wiki/Chuck 2010 (Costume Head).md" >}}).
 ##References##
 <references />

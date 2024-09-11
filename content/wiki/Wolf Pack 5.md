@@ -1,14 +1,14 @@
 +++
 title = "Wolf Pack 5"
 draft = false
-tags = []
+tags = ["Showtapes IAAPA 1978 Showtape"]
 date = 2022-08-06T09:12:22Z
 
 [Article]
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:5856:C7F4:B277:85AF","2601:600:8F00:4620:D027:AECC:77A0:28A6","2601:600:8F00:4620:C903:EF02:AF64:17FF","Zlblosser23","2601:600:8F00:4620:3902:A31E:E72B:8BB1","2601:600:8F00:4620:11C7:DFE6:3B16:E221","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B","2601:600:8F00:9940:C18E:7F13:4433:B4BE","2601:600:8F00:9940:60C0:2332:CAB:D81F","Stripes","Lelmaster"]
 gallery = []
 +++
-
+[[File:Wolf Pack 5 1979 IAAPA Expo.jpg|alt=The Wolf Pack 5 at the 1979 IAAPA Expo.|thumb|The Wolf Pack 5 at the 1979 IAAPA Expo. Source: http://www.showbizpizza.com]]
 **The Wolf Pack 5** was an animatronic band created by Creative Engineering in 1978. The band primarily played song covers in a 50's and 60’s rock and roll style. It was the predecessor to the Rock-afire Explosion.
 
 ## Characters ##
@@ -184,17 +184,17 @@ The Wolf Pack 5 had been expected to be installed at Funtown Mountain in June of
 The Wolf Pack 5 had a variety of showtapes. They are as follows:
 
 
+[**Wolf Pack 5 IAAPA 1978 Showtape**]({{< ref "wiki/Wolf Pack 5 IAAPA 1978 Showtape.md" >}})
 
-
-****
+**Wolf Pack 5 IAAPA 1979 Showtape (Wolf Pack 5 Entertainment 1980 IAAPA 1979 Showtape)**
 
 **[Wolfman Showtape]({{< ref "wiki/Wolfman Showtape.md" >}})**
 
 **[Wolf Pack 5 Showbiz Tape]({{< ref "wiki/Wolf Pack 5 Showbiz Tape.md" >}})**
 
-**[Wolf Skit 1-3]({{< ref "wiki/Wolf Skit 1-3.md" >}})**
+**Wolf Skit 1-3**
 
-
+Wolf 1-3 (**Wolf 1-3**)
 
 
 Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to, but these have not been preserved or discovered as of the time of this writing.

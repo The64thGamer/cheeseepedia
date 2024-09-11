@@ -1,14 +1,14 @@
 +++
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
-tags = []
+tags = ["Promotional Material"]
 date = 2022-04-27T16:21:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","RedaCEC","Pasquallytheplumber"]
 gallery = []
 +++
-
+[[File:Sfdsdfs.jpg|thumb|400x400px|Tabletop Stand]]
 The **_CEC Tabletop Advertisement Stand**_ is a _Coca-Cola_ and _Chuck E. Cheese's_ branded plastic red stand used on tables to advertise Chuck E. Cheese services, products, and promotions.
 
 The stand can hold up to three advertisements, each placed in a curved holder. The stand is designed to make it hard for the ads to be taken out, usually resulting in rips, creases, and tears. Most ads shown outside the stand are usually in this condition. The stands lasted sometime until the late 2000's, though not much is known on when.

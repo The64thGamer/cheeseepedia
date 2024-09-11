@@ -8,7 +8,7 @@ date = 2022-08-04T03:20:32Z
 contributors = ["RPCEC","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","2600:4040:59FF:B100:D026:CA31:AF2F:EBD6","RedaCEC","168.69.254.249"]
 gallery = []
 +++
-
+[[File:RoanokeVAExteriorPostExpansion.jpg|thumb|Roanoke, VA Exterior after 2012 Expansion & Before July 2022 2.0 Remodel]]
 **_4059 Electric Rd**_ is a Chuck E. Cheese's located in Roanoke, Virginia.
 
 

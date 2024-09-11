@@ -1,7 +1,7 @@
 +++
 title = "PTT Birthday Host/Hostess Performance Workbook (1981)"
 draft = false
-tags = []
+tags = ["Documents"]
 date = 2022-12-08T15:37:34Z
 
 [Article]
@@ -12,3 +12,4 @@ gallery = []
 
 The **_Birthday Host/Hostess Performance Workbook**_ is a small employee handbook used for new _Pizza Time Theatre_ hires to study for their Birthday Host review quiz.
 
+[[File:ptt_bdayhostworkbook.pdf|thumb|My PDF]]

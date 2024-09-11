@@ -1,7 +1,7 @@
 +++
 title = "Burnaby, British Columbia, Canada (9898 Government Pl)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-11-16T08:08:42Z
 
 [Article]

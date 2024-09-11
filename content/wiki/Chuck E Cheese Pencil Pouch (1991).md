@@ -8,7 +8,7 @@ date = 2023-04-28T18:48:24Z
 contributors = ["CEC Tinley","The 64th Gamer"]
 gallery = []
 +++
-
+[[File:OIP.jpg 3216.jpg|alt=Picture from the front|thumb]]
 The Chuck E. Cheese pencil pouch was made in 1991 and exited production in 1995.
 
 ## Design ##

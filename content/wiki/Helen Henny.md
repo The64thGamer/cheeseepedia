@@ -1,7 +1,7 @@
 +++
 title = "Helen Henny"
 draft = false
-tags = []
+tags = ["AnimatronicsGuest Star /  (Cyberamic)"]
 date = 2024-05-23T13:08:57Z
 
 [Article]
@@ -21,7 +21,7 @@ Initially, Helen was a guest star. She had long hair, and played the guitar. Not
 Helen's character mostly remained the same throughout the merger, however, like her friends, she became nicer and toned down.
 
 #### Concept Unification & Mid-1990's ####
-During 's outfit.
+During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Helen changed the most out of any character. She was now a much younger woman, wearing a pink and black dress. She still had her black and white hair, however, it was styled in a more modern and hip way. Her new character was inspired by her predecessor, Mitzi Mozzarella. throughout the 90's, she had various outfits. Most notably a few cheerleader suits, in either green or purple. Her hair was also made yellow around this time, but it seemed to alternate similarly to Chuck E. Cheese (Chuck)'s outfit.
 
 ### Chuck E. Cheese's ###
 1997 was a pivotal time for the soon-to-be CEC Entertainment, as they were attempting to paint Chuck himself as a more hip character. This of course meant Chuck E's friends had to adapt to the times as well. Helen got a new voice actor, who portrayed her as slightly younger than she was prior. She would be portrayed as a smart and independent woman. She received two new outfits during this era, those being a red jacket, as well as a pink shirt with a flower.

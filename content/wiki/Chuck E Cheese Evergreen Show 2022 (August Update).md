@@ -14,8 +14,8 @@ This was created with the idea to play between promotional events. Runs from Aug
 
 ##Show List:##
 #**Intermission 1**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Safety Message
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Food & Drink Combos
+##[[File:New Graphic.png]] Safety Message
+##[[File:New Graphic.png]] Food & Drink Combos
 ##CEC YouTube & Music Streaming
 ##“It’s Chuck E!”
 #**Skit 1**
@@ -27,7 +27,7 @@ This was created with the idea to play between promotional events. Runs from Aug
 #**Skit 2**
 ##Chuck E. Cheese - “Crochet All Day”
 #**Intermission 3**
-##[File:New Graphic.png]({{< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}){< ref "wiki/FileNew Graphicpng.md" >}}) Dippin’ Dots
+##[[File:New Graphic.png]] Dippin’ Dots
 ##[[File:New Graphic.png]] Food & Drink Combos
 ##CEC YouTube & Music Streaming
 ##“Oh Helen Henny!”
@@ -73,7 +73,7 @@ This was created with the idea to play between promotional events. Runs from Aug
 EvergreenAugust.png|3-Stage DVD
 </gallery>
 ##Trivia:##
-*'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from , 'Dream Big' is originally from , 'Play All You Can Play' is originally from , 'Jasper's Country Classic' is originally from , 'Keep Drummin_ is originally from , 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from .
+*'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from Chuck E. Cheese's Show 2 2021 (Show 2 2021), 'Dream Big' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016), 'Play All You Can Play' is originally from Chuck E. Cheese's Show 3 2019 (Show 3 2019), 'Jasper's Country Classic' is originally from Chuck E. Cheese's Show 3 2018 (Show 3 2018), 'Keep Drummin_ is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from Chuck E. Cheese's Show 2 2020 (Show 2 2020).
 
-*The Studio C Programming for Keep Drummin' was redone but only for the Animatronic. The programming for the lights was kept the same from .
+*The Studio C Programming for Keep Drummin' was redone but only for the Animatronic. The programming for the lights was kept the same from Chuck E. Cheese's Show 1 2016 (Show 1 2016).
 *John Batiste - “FREEDOM” was replaced with 'Kid Cudi - “Stars In The Sky”

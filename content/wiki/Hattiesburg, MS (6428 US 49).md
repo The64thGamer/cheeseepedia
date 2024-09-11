@@ -8,7 +8,7 @@ date = 2023-07-09T17:24:57Z
 contributors = ["CorrectorMan","Rexburg090","CEC Tinley"]
 gallery = []
 +++
-
+[[File:Hattiesburg.jpg|thumb|The location as of 2023. (PC: Google Maps)]]
 6428 US 49 was a Showbiz Pizza Place that opened on July 26, 1984 and closed in October 1986 (day unknown) with a Rock-afire Explosion. This was the last Showbiz Pizza to open in Mississippi. 
 
 ## Stages ##

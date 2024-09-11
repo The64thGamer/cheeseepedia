@@ -8,7 +8,7 @@ date = 2021-12-04T04:22:04Z
 contributors = ["The 64th Gamer","DerpJobi"]
 gallery = []
 +++
-The **_PTT 3 Years Brass Pin**_ was given to PTT employees for their contributions in the store, to be worn on their lanyard.
+[[File:Ptt3p.jpg|thumb|301x301px|Front]]The **_PTT 3 Years Brass Pin**_ was given to PTT employees for their contributions in the store, to be worn on their lanyard.
 
 The pin was made sometime after 1980, as 1980 has an official 'Three Years' pin, and was the first year employees would be able to receive that pin.
 ##Design##

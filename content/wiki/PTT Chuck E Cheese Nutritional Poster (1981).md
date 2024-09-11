@@ -13,7 +13,7 @@ gallery = []
 The **_Chuck E. Cheese Nutritional Poster**_ was a poster displayed in all [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) restaurants starting some time in 1981.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref>
 
 ## History ##
-The poster's first mention is in the [The Pizza Times (Vol. 1, Issue 2, September 1981)]({{< ref "wiki/The Pizza Times (Vol 1, Issue 2, September 1981).md" >}}), where it is shown to be part of the advertisement package for the _New Sandwich Program._ The poster's art is provided in the article. No public surfacing of the original poster have been found since.
+The poster's first mention is in the The Pizza Times (Vol. 1, Issue 2, September 1981), where it is shown to be part of the advertisement package for the _New Sandwich Program._ The poster's art is provided in the article. No public surfacing of the original poster have been found since.
 
 ## Transcription ##
 <blockquote>Chuck E. Cheese says our pizza is good food!

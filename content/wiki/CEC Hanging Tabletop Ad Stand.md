@@ -1,14 +1,14 @@
 +++
 title = "CEC Hanging Tabletop Ad Stand"
 draft = false
-tags = []
+tags = ["Promotional Material"]
 date = 2022-05-26T02:02:09Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++
-
+[[File:A7398eb7d5dda075beb16a95d5f736f0.png|thumb|411x411px|Complete Stand]]
 The **_CEC Hanging Tabletop Ad Stand**_ is a metal stand used on tables to hold spices and advertise Chuck E. Cheese services, products, and promotions starting in 2006.
 
 The stand could hold an array of advertisements, being able to be flipped through to see each one. Ads also were easily removable without being damaged, unlike the previous tabletop stand design. The bottom rack would hold shakers for Red Peppers, Parmesan Cheese, Salt, and Pepper. The top of the stand was used to clip table number cards, allowing employees to easily see them above the tables.

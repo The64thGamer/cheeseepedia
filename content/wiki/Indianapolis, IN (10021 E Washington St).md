@@ -10,7 +10,7 @@ gallery = []
 +++
 **_10021 E Washington St**_ is a Chuck E. Cheese that opened in December 2011 (day unknown) with the Studio C Beta, and is still open to this day.
 
-It is the relocation of [Indianapolis, IN (8109 E Washington St)]({{< ref "wiki/Indianapolis, IN (8109 E Washington St).md" >}}){< ref "wiki/Indianapolis, IN (8109 E Washington St).md" >}}) which originally opened on June 18, 1982 and closed in December 2011.
+It is the relocation of [Indianapolis, IN (8109 E Washington St)]({{< ref "wiki/Indianapolis, IN (8109 E Washington St).md" >}}) which originally opened on June 18, 1982 and closed in December 2011.
 
 This location is also known for having multiple incidents there.
 ##History##

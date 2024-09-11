@@ -1,7 +1,7 @@
 +++
 title = "Ventura, CA (4714 Telephone Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-13T19:59:52Z
 
 [Article]

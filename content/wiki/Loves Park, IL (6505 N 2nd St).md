@@ -1,7 +1,7 @@
 +++
 title = "Loves Park, IL (6505 N 2nd St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-07T22:14:50Z
 
 [Article]
@@ -50,11 +50,11 @@ When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker S
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution
 |-
-|
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution
 |-
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1981
 |Sent to Rockford and used until June 2022, Collected by SPT Distribution 
 |-
