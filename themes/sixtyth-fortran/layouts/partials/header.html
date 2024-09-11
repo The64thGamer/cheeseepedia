@@ -6,12 +6,10 @@
 {{ range .Site.RegularPages }} <!-- Loop through all regular pages (articles) -->
   {{ with .Params.article.contributors }} <!-- Check if the article has contributors -->
     {{ range . }} <!-- Loop through each contributor -->
-      {{ $key := .}} <!-- Normalize the contributor name -->
-      {{ if not (index $contributorCounts $key) }} <!-- If the contributor is not already in the dictionary -->
-        {{ $contributorCounts = merge $contributorCounts (dict $key 1) }} <!-- Add the contributor with a count of 1 -->
+      {{ if not (index $contributorCounts .) }} <!-- If the contributor is not already in the dictionary -->
+        {{ $contributorCounts = merge $contributorCounts (dict . 1) }} <!-- Add the contributor with a count of 1 -->
       {{ else }}
-        {{ $currentCount := index $contributorCounts $key }}
-        {{ $contributorCounts = merge $contributorCounts (dict $key (add $currentCount 1)) }} <!-- Increment the count -->
+        {{ $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) }} <!-- Increment the count -->
       {{ end }}
     {{ end }}
   {{ end }}

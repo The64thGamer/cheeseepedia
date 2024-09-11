@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <head>
-  {{ partial "head.html" . }}
+  {{ partialCached "head.html" . }}
 </head>
 <body>
   <header>
-    {{ partial "header.html" . }}
+    {{ partialCached "header.html" . }}
   </header>
   <main>
     {{ block "main" . }}{{ end }}
   </main>
   <footer>
-    {{ partial "footer.html" . }}
+    {{ partialCached "footer.html" . }}
   </footer>
 </body>
 </html>

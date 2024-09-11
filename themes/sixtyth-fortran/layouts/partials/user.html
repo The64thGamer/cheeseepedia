@@ -1,12 +1,14 @@
-<h1>{{ .Title | markdownify | safeHTML }}</h1>
+<h1>{{ partialCached "markdownify" .Title }}</h1>
 <hr>
-{{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
-{{ $dateHuman := .Date | time.Format ":date_long" }}
 
-{{ .Content | markdownify | safeHTML }}
+{{ $dateMachine := partialCached "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
+{{ $dateHuman := partialCached "formatDate" (dict "Date" .Date "Format" ":date_long") }}
+
+{{ partialCached "markdownify" .Content }}
 
 <hr>
-<h2>{{ .Title | markdownify | safeHTML }} contributed to these pages!</h2>
+<h2>{{ partialCached "markdownify" .Title }} contributed to these pages!</h2>
+
 {{ $currentTitle := .Title }}
 {{ $pages := where .Site.Pages "Section" "wiki" }}
 
@@ -18,7 +20,6 @@
       {{ if in $contributors $currentTitle }}
         <li><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
       {{ end }}
-    {{ else }}
     {{ end }}
   {{ end }}
 </ul>

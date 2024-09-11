@@ -1,0 +1,25 @@
+<h1>{{ partialCached "markdownify" .Title }}</h1>
+<hr>
+
+{{ $dateMachine := partialCached "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
+{{ $dateHuman := partialCached "formatDate" (dict "Date" .Date "Format" ":date_long") }}
+
+
+{{ partialCached "markdownify" .Content }}
+
+<hr>
+<div class="contributors"><strong>Article Contributed By:</strong>
+  {{- $len := len .Params.article.contributors -}}
+  {{- range $index, $element := .Params.article.contributors -}}
+    {{- $slug := replace $element " " "-" | lower -}}
+    {{- if partialCached "fileExists" (printf "content/wiki/Users/%s.md" $element) }}
+      {{ $userURL := relURL (printf "wiki/users/%s/" $slug) }}
+      <a href="{{ $userURL }}">{{ $element }}</a>
+    {{- else }}
+      {{- $element -}}
+    {{- end }}
+    {{- if lt (add $index 1) $len }}, {{ end }}
+  {{- end }}
+  
+  <strong> | Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+</div>

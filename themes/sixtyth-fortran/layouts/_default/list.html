@@ -1,38 +1,22 @@
 {{ define "main" }}
   <h1>{{ .Title }}</h1>
-  {{ .Content  | replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1">` | markdownify | safeHTML }}
+  {{ .Content | markdownify | safeHTML }}
   {{ range .Pages }}
   <div class="list-page-block">
     <h2><a href="{{ .RelPermalink }}">
       {{ with .LinkTitle }}
-          {{ . | replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1" style="animation: swing 3s ease-out infinite;">` | markdownify | safeHTML }}
+          {{ . | markdownify | safeHTML }}
       {{ else }}
-        {{ with .Params.tumblr }}
-          {{$name := index (.trail) 0 }}
-                {{ with $name.blog.name }}
-                  {{if in . "the-64th-gamer"}}
-                  {{ ":blue_circle: Tumblr Post" | replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1" style="animation: swing 3s ease-out infinite;">` | markdownify | safeHTML}}
-                  {{ else }}
-                  {{ ":repeat: [REBLOG:" | replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1" style="animation: swing 3s ease-out infinite;">` | markdownify | safeHTML}}{{.| replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1" style="animation: swing 3s ease-out infinite;">` | markdownify | safeHTML | truncate 15 "..."}}]
-                  {{end}}
-                {{ else }}
-                  ???
-                {{ end }}      
-        {{ end }}      
+          {{ .Title | markdownify | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
       {{ end }}      
-
     </a></h2> 
       <div class="list-page-summary">
         {{ with .Summary }}
-          {{ . | replaceRE `(:([a-zA-Z0-9_]*):)` `<img class="emoji" src="/Emojis/$2.svg" alt="$1" title="$1">` | markdownify | safeHTML | truncate 150 "..." }}
-      {{ else }}
-      {{ with .Params.tumblr.summary }}
-          {{ . | markdownify | safeHTML | truncate 150 "..."}}
-      {{ else }}
-      (Click to read more...)
-      {{ end }}
-      {{ end }}
-    </div>
+          {{ . | markdownify | safeHTML | truncate 150 "..." }}
+        {{ else }}
+          (Click to read more...)
+        {{ end }}
+      </div>
   </div>
   {{ end }}
 {{ end }}

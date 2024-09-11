@@ -1,15 +1,9 @@
 {{ define "main" }}
-  {{ $tags := .Params.tags }}
   {{ $layout := "baseArticle" }}
-  {{ with $tags }}
+  {{ with .Params.tags }}
     {{ if in . "User" }}
       {{ $layout = "user" }}
-    {{ else }}
-      {{ $layout = "baseArticle" }}
     {{ end }}
   {{ end }}
-
-  {{ if $layout }}
-    {{ partial $layout . }}
-  {{ end }}
+  {{ partial $layout . }}
 {{ end }}
