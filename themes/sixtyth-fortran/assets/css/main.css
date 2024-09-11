@@ -52,8 +52,6 @@ ul {
   inline-size: 40em;
 }
 
-
-
 .list-page-summary {
   margin-left: 3rem;
 }
@@ -66,6 +64,29 @@ ul {
 
 .contributors{
   color: var(--yellow); 
+}
+
+.fun-text{
+  text-align: center;
+  margin: 0;
+  font-size: 1.25em;
+  font-family: "RockoFLF";
+  letter-spacing: .1rem;
+  color: var(--white);
+}
+.fun-text strong{
+  color: var(--yellow);
+  display: inline-block;
+  animation: wave 3s ease-in-out infinite;
+}
+
+@keyframes wave {
+  0%,100% {
+    transform: translateY(-.15em);
+  }
+  50% {
+    transform: translateY(.15em);
+  }
 }
 
 

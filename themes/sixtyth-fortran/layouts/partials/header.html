@@ -1,6 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/UI/CEPLogo.png" alt="Logo" style="max-height: 6.5vw;">
-</div>
 {{ $contributorCounts := dict }} <!-- Initialize an empty dictionary to store contributor counts -->
 
 {{ range .Site.RegularPages }} <!-- Loop through all regular pages (articles) -->
@@ -27,6 +24,11 @@
 <!-- Count of unique contributors -->
 {{ $contributorCount := len $sortedContributors }}
 
-<Center><h3>Now at <strong>{{ len .Site.RegularPages }}</strong> articles contributed by <strong>{{ $contributorCount }}</strong> users.</h3></Center>
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
+  <img src="/UI/CEPLogo.png" alt="Logo" style="max-height: 6.5vw;">
+  <div class="fun-text">
+    Now at <strong>{{ len .Site.RegularPages }}</strong> articles contributed by <strong>{{ $contributorCount }}</strong> users.
+  </div>
+</div>
 
 {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
