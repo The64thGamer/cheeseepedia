@@ -2,52 +2,40 @@
 title = "Alexandria, VA (6301 Richmond Hwy)"
 draft = false
 tags = []
-date = 2023-08-22T23:45:41Z
+date = 2024-06-05T22:22:00Z
 
 [Article]
 contributors = ["66.215.38.213","CEC Kokomo","ThatBoiCydalan","Cecfan2004","Cecanddisneyfan2004"]
-gallery = []
+gallery = ["Alexandria"]
 +++
-**_6301 Richmond Hwy, Store #3120 **_ was a Chuck E Cheese**, Alexandria, Virgina
-opened November 20, 2010 in the look Construction At Chuck E Cheese As Of July 2023 2.0 The Remodel.
+{{Generic|image=AlexandriaVACEC2.0Exterior.png|desc=Exterior as of August 2023}}
+**_6301 Richmond Hwy, Store #75 **_is a _Chuck E. Cheese's_ that opened on November 20, 2010 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and is still open today with the 2.0 remodel.
 
-
-##History##
-Alexandria would open in 2010 If Had A Construction Opened On 2010 Look Up at the Construction
-On Chuck E Cheese There Are Studio C Beta Opened On 2010 And Removed July 2023 Their Are 2.0 Remodel
-To The Chuck E. Live Stage Dance Floor (Dance Floor + Video Wall) In The 2.0 Remodel As August 2023
-Look Up At The 2.0 Remodel.
-
-
-##Stages##
-Originally when the opened, they had a Studio C Beta
-sometime in 2010's, they would receive a Studio C Beta, they would have this for a short
-time, then replacing it with a Studio C Beta In The Removed July 2023 On A Mid 2.0 Remodel
-As Of August 2023 they still have the Dance Floor + Video Wall.
-{|
+This store is the relocation of [Alexandria, VA (6303 Richmond Hwy)]({{< ref "wiki/Alexandria, VA (6303 Richmond Hwy).md" >}}), which opened on September 20, 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed between November  and December 2009 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
+## Stages##
+Originally when they opened, they had a Studio C Beta. They would have the stage until July 2023, when it was removed for a Dance Floor and Video Wall.
+{| class='wikitable'
 |+
 !Stage
-!Installed
+! Installed 
 !Removed
 !Notes
 |-
-|Studio C Beta
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
 |November 2010
 |July 2023
-|Studio C Beta Was Removed On July 2023.
+|Relocation of old store. 
 |-
-|Chuck E. Live Stage Dance Floor (Dance Floor + Video Wall)
+|Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}) 
 |July 2023
 |Still In Use
 |2021 Model.
 |}
 
-##Gallery##
-TODO
+##History##
+Alexandria opened on November 20, 2010 with the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}). Not much info is known about Alexandria in general due to lack of documentation. In July 2023, the store got 2.0, removing the Beta for a Dance Floor and Video Wall. As of August 2023, Alexandria is still open with 2.0.
 
-##Videos##
-TODO
-
-##Trivia##
-Before 2.0 Alexandria, Virgina Studio C Beta Was Removed July 2023 And Their
-2.0 Remodel There Are Dance Floor + Video Wall In The Mid.
+## Gallery ##
+<gallery>
+File:Alexandria va cec 20210619 155132.jpg|Exterior in June 2021 before its 2.0 remodel
+</gallery>

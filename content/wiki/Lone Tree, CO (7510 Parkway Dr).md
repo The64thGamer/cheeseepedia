@@ -2,132 +2,138 @@
 title = "Lone Tree, CO (7510 Parkway Dr)"
 draft = false
 tags = []
-date = 2022-07-27T08:06:48Z
+date = 2024-07-28T14:40:01Z
 
 [Article]
 contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","2600:1700:8790:12F0:BD78:36A8:1DEE:9591","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
-gallery = []
+gallery = ["Littletonpremblueprints.png|Blueprints","Mural","Exterior.jpg|July","Showroom.jpg|July","Mural.jpg|July"]
 +++
-[[File:Littleton, CO 2.0.jpg|thumb|Littleton, CO Chuck E. Cheese in 2022]]
-**_Littleton, CO (7510 Parkway Dr)**_ is a _Chuck E. Cheese's_ that opened on February 15th, 2000 with a Studio C Alpha.
+{{Generic|desc=Lone Tree, CO Chuck E. Cheese in 2022|image=Littleton, CO 2.0.jpg}}
 
-This store is known for it's appearance on the Food Network's _Unwrapped_. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009, and received the 2.0 remodel in 2022.
+**_Lone Tree, CO (7510 Parkway Dr)**_ is a _[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})_ that opened on February 15th, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage.
+
+This store is known for its appearance on the Food Network's _Unwrapped_. This store is also significant for being the 300th Chuck E. Cheese's restaurant when it opened. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009 and received the 2.0 remodel in 2022.
 
 ## Stages ##
-When Littleton opened, they had a Studio C Alpha stage. The interactive elements of the show, Blue Screen camera and Console, were both removed in early 2014. The Apple monitor on the stage also broke around this time. This monitor would eventually get covered with the decal off a token dispenser in November 2020. The animatronic and lighting elements of the show though were kept in peak condition until 2019. August 2019 saw a huge decline in show condition with the curtains breaking and many movements. This rapid deterioration would never stop. By 2021, many more lights and movements were broken including many showroom floods, warp light, multiple arm movements, Chuck's nose, and many more. In Summer 2021, the shows DTUs got set to bank 1, causing the lights to run off Chuck E.'s programming instead of their own. This show stayed in this sad state until it's unfortunate but long overdue removal during the 2.0 remodel in Summer 2022. The show was powered down for the last time on June 7, and stayed powered down until it was removed entirely on June 9. The store now features a 2021 Dance Floor with a Video Wall.
+When Lone Tree opened, it had a Studio C Alpha stage. The interactive elements of the show, the Blue Screen camera and Console, were both removed in early 2014. The Apple monitor on the stage also broke around this time. This monitor would eventually get covered with the decal from a token dispenser in November 2020. The animatronic and lighting elements of the show, however, were kept in peak condition until 2019. August 2019 saw a huge decline in show condition with the curtains and many movements breaking. This rapid deterioration would never stop. By 2021, many more lights and movements were broken including many showroom floods, warp light, multiple arm movements, Chuck's nose, and many more. In Summer 2021, both of the show's Studio C Control System#DTUs (DTUs) got set to bank 1, causing the lights to run off Chuck E.'s programming instead of their own. The show stayed in this sad state until its unfortunate but long overdue removal during the 2.0 remodel in Summer 2022. The show was powered down for the last time on June 7, and stayed powered down until it was removed entirely on June 9. The store now features a 2021 Dance Floor with a Video Wall.
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|Studio C Alpha
+|February 2000
+|June 2022
+|-
+|Dance Floor + Video Wall
+|Summer 2022
+|Still in use.
+|}
 
 ## History ##
 
 ### Pre-CEC ###
-Before this location landing on it's permanent name as Chuck E. Cheese's, it was a few other brands before. It opened in 1994 as a Leaps & Bounds, a chain owned by McDonald's that primarily focused on the play structures. It was intended to compete with Discovery Zone, a major competitor of CEC at the time. The Leaps & Bounds brand was very short lived, as McDonald's realized they were entering a territory they didn't belong in, so the Leaps & Bounds brand merged with Discovery Zone. In 1995, Littleton would now be recognized as a Discovery Zone. Later on, in June 1999, Discovery Zone filed for bankruptcy. CEC Entertainment placed the winning bid in a bankruptcy auction, and got a ton of DZ's assets. Among this was 20 Discovery Zone fun centers. 10 of these would be converted into Chuck E. Cheese's over the next year. Among those 10 was Littleton. it reopened about 6 months later, now a Chuck E. Cheese's pizzeria.
+Before this location landing on its permanent name as Chuck E. Cheese's, it was a few other brands before. It opened in 1994 as a Leaps & Bounds, a chain owned by McDonald's that primarily focused on the play structures. It was intended to compete with Discovery Zone, a major competitor of CEC at the time. The Leaps & Bounds brand was very short lived, as McDonald's realized they were entering a territory they didn't belong in, so the Leaps & Bounds brand merged with Discovery Zone. In 1995, Lone Tree would now be recognized as a Discovery Zone. Later on, in June 1999, Discovery Zone filed for bankruptcy. CEC Entertainment placed the winning bid in a bankruptcy auction, receiving a lot of DZ's assets. Among this was 20 Discovery Zone fun centers. Ten of these would be converted into Chuck E. Cheese's over the next year. Among those ten was Lone Tree. it reopened about six months later, now a Chuck E. Cheese's.
 
 ### Name confusion ###
-Over the years, this store has been called by many names by locals and fans. Some of these are 'Centennial' and 'Highlands Ranch', two of the three cities the store is located on the border of, 'Park Meadows', the mall the store is very close to, and then there's my personal favorite, 'The one next to Krispy Kreme'. The only two official titles though would be Littleton or Lone Tree. Back when it was built, the property was considered to be Littleton. In 1996 though, the city of Lone Tree was incorporated, taking up the space. Due to it being carried down through multiple acquisitions, it's original title has also been carried down. In recent years though, CEC has been attempting to rename it to Lone Tree as that's the city it's been for over 25 years.
+Over the years, this store has been called by many names by locals and fans. Some of these are 'Centennial' and 'Highlands Ranch', two of the three cities the store is located on the border of, and 'Park Meadows', the mall the store is very close to. The only two official titles though would be Littleton or Lone Tree. Back when it was built, the property was considered to be Littleton. In 1996 however, the city of Lone Tree was incorporated, taking up the space. Due to it being carried down through multiple acquisitions, its original title has also been carried down. In recent years, CEC Corporate has been attempting to rename it to Lone Tree as that's the city it's been for over 25 years.
 
 ### 2009 Remodel ###
-In 2009, Littleton received the 2009 update of the 2005 remodel. During this remodel, the store was expanded 3,792 ft² out on the west side of the building. While the tubes did stay during this remodel, they would be replaced with Chuck E.'s Fun House in 2014. The big red awnings on the outside would be removed in late 2019
+In 2009, Lone Tree received the 2009 update of the 2005 remodel. During this remodel, the store was expanded 3,792 ft² out on the west side of the building. While the tubes did stay during this remodel, they would be replaced with Chuck E.'s Fun House in 2014. The big red awnings on the outside would be removed in late 2019.
 
 ### 2.0 Remodel ###
-In 2022, Littleton received the 2.0 remodel. It began on May 23. This remodel originally was planned to be a regular remodel, but they decided to put up a custom Lone Tree mural instead of the 'Party' art.
+In 2022, Lone Tree received the 2.0 remodel. It began on May 23. This remodel originally was planned to be a regular remodel, but they decided to put up a custom Lone Tree mural instead of the 'Party' art.
 
 ## Arcade Machines ##
-This list consists of all machines Littleton was planned to have after the 2.0 remodel. Some of these games were never received though or were replaced.
+This list consists of all machines Lone Tree has as of June 24, 2024. Their game selection has only minorly changed since the 2.0 remodel, with changes consisting of a Hollywood Reels cabinet from the [Englewood, CO (1001 W Hampden Ave)]({{< ref "wiki/Englewood, CO (1001 W Hampden Ave).md" >}}) location's 2.0 remodel replacing their Big Bass Wheel Pro that was damaged beyond repair in December 2022, Comet Catcher, Winner's Wheel, and Hit Music being removed to make room for their Trampoline Zone in March 2024, and CEC Street Hoops, Bop 2 Win, Intermission, Operation, Jackpot Xtreme, and Lane Master being removed to make room for their Ninja Run in June 2024.
 
 ### Play Pass Machines ###
 
 #### Game Room ####
 
+* Hoop It Up
+* Golden Empire 
+* Chuck E. Cheese's Fun House
+* Hop ‘N’ Stack
+* Subway Surfers
+* Tippin’ Bloks
+* Pop It & Win
+* Slam-A-Winner
+* Crossbow Master: Chuck E. Cheese's
+* SpaceWarp 66
+* X Games Snow Boarder
+* Monopoly
+* Super Star
+* Fruit Ninja FX
+* Gear It Up! 
+* Deal or No Deal
+* Dizzy Chicken
+* Frogger 
+* Treasure Quest
+* H2Overdrive
+* Harpoon Lagoon
+* Rockin’ & Rollin’
+* Whack N Win!
+* Deep Sea Treasures
+* Sonic BlastBall
+* Crossy Road
+* Deadstorm Pirates 
+* Terminator Salvation
+* Redhot 
+* Nitro Trucks
+* Spongebob Squarepants Pineapple Arcade
+* Super Bikes 2
+* After Burner Climax
+* Jurassic Park 
+* Jumpin’ Fantasy 
+* Ice Cube
+* Monster Catcher 
+* Paw Patrol 
+* Chuck E.'s Fun Photos Photo Booth
+* Super Monkey Ball Ticket Blitz
+* Let’s Go Jungle!
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
-* CEC Street Hoops
 * Down the Clown
 * NBA Hoops
-* Skee Ball
-* Milk Jug Toss
-* Lane Master
-* Water Blast
-* Baseball Pro
+* Alley Roller Classic 
+* Milk Jug Toss 
+* Water Blast 
+* Spongebob Squarepants Soccer Stars
 * Beach Bounce
 * Dog Pounder
 * Rabbids Hollywood
-* Crossbow Master: Chuck E. Cheese's
-* Slam A Winner
-* H2Overdrive
-* Treasure Quest
-* Redhot
-* Terminator Salvation
-* Let's Go Jungle
-* Sonic Blast Ball
-* Pop It & Win
-* Operation
-* Deadstorm Pirates
-* Pixar Cars
-* Afterburner Climax
-* Chuck E.'s Fun Photos Photo Booth
-* Paw Patrol
-* Jackpot Extreme
-* Big Bass Wheel
-* Frogger
-* Dizzy Chicken
-* Crossy Road
-* Choppy Wood
-* SpongeBob SquarePants Pineapple Arcade
-* Luigi's Mansion Arcade
-* Monster Catcher
-* Subway Surfers
-* Hop 'N' Stack
-* Deal or No Deal
-* Gear It Up!
-* Fruit Ninja FX
-* Wonder Land
-* Deep Sea Treasures
-* Harpoon Lagoon
-* Bop 2 Win
-* Chuck E. Cheese's Fun House
-* X Games Snow Boarder
-* Spinner Frenzy
-* Whack N Win
-* Willy Crash
-* Fast and Furious SuperCars
-* Nitro Trucks
-* ICE Cube
-* Spin-o-Rama
-* Golden Empire
-* Hoop It Up
-* Trolls
-* Super Star
-* Pop the Lock
+* Fishbowl Frenzy
 
 #### Kiddie Room ####
 
-* Rainbow
-* Snowball Toss
-* Music Hit
-* Sweet Reminder
-* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
-* Stuart Little
-* Rock & Ride
-* Sea Wolf
-* Angel Carousel
-* Teacup Ride
-* ARKA
-* Cutie Car
+* Spin O’Rama 
+* Tight Rope
+* Plants Vs. Zombies The Last Stand
 * Ice Age Ice Breaker
-* Bike Rally
-* Rampage
-* City Tour Bus
+* Sea Wolf
+* Robin Hood
+* The Price is Right Shell Game
+* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
+* Chuck E.'s Goalie All Stars
+* Cars
+* Puppy Jump
+* Angel Carousel
+* Chuck E.'s Glider Rider
+* Hungry Chicken 
+* Pirates Hook
 * Nicktoons Nitro
-* Pirate's Hook
+* KC Cobra 
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
-* Puppy Jump 
-* Minions 
+* Giraffe Play 
+* Bike Rally
+* City Tour Bus
+* Arka
+* Spongebob Squarepants Super Striker
+* Cutie Car
+* Stuart Little
+* Bigfoot Crush 
 * Hammerhead
-* Zombie Land Battle
-* Comet Catcher
-* Giraffe Play
-* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
-* Super Monkey Ball Ticket Blitz
-* Tight Rope 
-* KC Cobra
 
 ### Token Action Games ###
 
@@ -137,16 +143,12 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 * Ticket Troopers
 * Chuck E. Cheese's Boulder's Dozer's
 * Smokin' Token Extreme
-* Intermission
-
-#### Kiddie Room ####
-
-* Winner's Wheel
+* Wonder Land
+* Hollywood Reels
 
 ### Other Machines ###
 
 * [Ticket Blaster]({{< ref "wiki/Ticket Blaster.md" >}})
-* [Chill Out Ice Cream Machine]({{< ref "wiki/Chill Out Ice Cream Machine.md" >}})
 
 ## Videos ##
 {| class='wikitable'
@@ -156,7 +158,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 !Filming Date
 |-
 |[https://www.youtube.com/watch?v=HuslrK9OKLc&t=0s Link]
-|Littleton on the Food Network's _Unwrapped_ in HD quality
+|Lone Tree on the Food Network's _Unwrapped_ in HD quality
 |2003
 |-
 |[https://www.youtube.com/watch?v=AlU_pq0uDP4&list=PLfKIrd3cLCn367R7sjBag09bjI280-R_D&index=1 Link]
@@ -168,7 +170,7 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |2017
 |-
 |[https://youtu.be/gFqRkwuwBEU Link]
-|'Song Title' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Littleton's Alpha
+|'Song Title' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Lone Tree's Alpha
 |February 19, 2017
 |-
 |[https://youtu.be/WLLuE3NEnfs Link]
@@ -297,10 +299,13 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 |}
 
 ## Gallery ##
-[[File:Mural Welcome close up.jpg|none|thumb|July 15, 2022]]
-[[File:Showroom.jpg|none|thumb|July 15, 2022]]
-[[File:Exterior.jpg|none|thumb|July 15, 2022]]
-[[File:Mural.jpg|none|thumb|July 15, 2022]]
+<gallery>
+File:Littletonpremblueprints.png|Blueprints
+File:Mural Welcome close up.jpg|July 15, 2022
+File:Exterior.jpg|July 15, 2022
+File:Showroom.jpg|July 15, 2022
+File:Mural.jpg|July 15, 2022
+</gallery>
 
 ## Animatronics ##
 {| class='wikitable'
@@ -309,11 +314,19 @@ This list consists of all machines Littleton was planned to have after the 2.0 r
 !Serial
 !Whereabouts
 |-
-|Chuck E. Cheese (32 Movement)
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |057
-|Unknown, left the store the on July 14.
+|Destroyed on July 14, 2022.
 |-
-|Bird
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
-|Destroyed
+|Destroyed on June 9, 2022.
+|-
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}}) [(Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Destroyed.
+|-
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}}) [(Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Destroyed.
 |}

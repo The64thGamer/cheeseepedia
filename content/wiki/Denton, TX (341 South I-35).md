@@ -2,7 +2,7 @@
 title = "Denton, TX (341 South I-35)"
 draft = false
 tags = []
-date = 2023-02-13T03:57:15Z
+date = 2024-06-09T19:09:17Z
 
 [Article]
 contributors = ["JamesLemony","Cecanddisneyfan2004"]
@@ -50,4 +50,4 @@ File:Denton Oct 2013.jpg|Denton in October 2013.
 </gallery>
 
 ##Videos##
-TODO
+https://www.youtube.com/watch?v=aiubcLo3bCg

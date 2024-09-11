@@ -2,10 +2,10 @@
 title = "Fantasy Forest Victorville, CA Office"
 draft = false
 tags = []
-date = 2023-04-21T16:48:37Z
+date = 2024-02-16T07:00:08Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-Todo: 15367 Tamarack Unit B, Victorville, CA 92892
+text/x-wiki

@@ -2,14 +2,10 @@
 title = "Holiday '93"
 draft = false
 tags = []
-date = 2022-02-11T23:34:33Z
+date = 2023-12-25T18:21:42Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","Saan1ty"]
 gallery = []
 +++
-##Showtape Scans / Images:##
-<gallery>
-IMG_0308.jpg|C&R SVHS Cover
-IMG_0309.jpg|C&R SVHS Tape
-</gallery>
+text/x-wiki

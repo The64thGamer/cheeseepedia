@@ -2,7 +2,7 @@
 title = "Albany, GA (2601 Dawson Rd)"
 draft = false
 tags = []
-date = 2023-08-15T00:51:28Z
+date = 2024-08-08T15:25:16Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Kokomo","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","AstridMascotFan2005"]
@@ -23,7 +23,7 @@ Albany opened with a Small-Town Studio C (Studio C Cappa). Minor modifications w
 |Small-Town Studio C (Studio C Cappa)
 |December 2003
 |July 2023
-|Only Cappa in Georgia. Final show in the state.
+|Only Cappa in Georgia. Last Animatronic of any kind in Georgia before removal.
 |-
 |Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |July 2023
@@ -32,7 +32,7 @@ Albany opened with a Small-Town Studio C (Studio C Cappa). Minor modifications w
 |}
 
 ## History ##
-Albany opened on December 16, 2003 with the Phase 3 remodel and a Small-Town Studio C (Studio C Cappa). Unfortunately, there isn't much info on Albany from around this time. In 2010, Albany received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2003 remodel initiative), removing the dim lighting, added purple walls, added newer decor, and added checkers around the logo around the exterior. Albany would remain like this until July 2023, when Albany received the 2.0 remodel, removing the Small-Town Studio C (Studio C Cappa) for a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). This would remodel would make Georgia bot-less. As of August 2023, Albany is still undergoing this process.
+Albany opened on December 16, 2003 with the Phase 3 remodel and a Small-Town Studio C (Studio C Cappa). Unfortunately, there isn't much info on Albany from around this time. In 2010, Albany received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2003 remodel initiative), removing the dim lighting, added purple walls, added newer decor, and added checkers around the logo around the exterior. Albany would remain like this until July 2023, when Albany received the 2.0 remodel, removing the Small-Town Studio C (Studio C Cappa) for a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). This remodel would make Georgia bot-less. As of late 2023, the remodel has been completed.
 
 ## Animatronics ##
 {| class='wikitable'
@@ -42,6 +42,6 @@ Albany opened on December 16, 2003 with the Phase 3 remodel and a Small-Town Stu
 !Whereabouts
 |-
 |[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
-|N/A
+|807
 |Owned by a private collector.
 |}

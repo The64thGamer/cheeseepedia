@@ -2,25 +2,30 @@
 title = "San Diego / Mira Mesa, CA (9840 Hibert St)"
 draft = false
 tags = ["Store List"]
-date = 2023-02-22T20:05:17Z
+date = 2024-08-05T14:50:12Z
 
 [Article]
 contributors = ["ChuckECool","209.129.28.15","CEC Tinley","Rexburg090","Cheeseclassic","CoolerDude","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++
-**9840 Hibert St** also known as 'Mira Mesa' as a Chuck E. Cheese's Pizza that opened in 1981 or 1982 (month and day unknown) with a Balcony Stage, which is still open to this day.
+**_9840 Hibert St, Store #443**_ is a Chuck E. Cheese's Pizza Time Theatre/Chuck E. Cheese that opened in January 1982 (day unknown) as a Pizza Time Theatre in the Mira Mesa neighborhood of San Diego with a Balcony Stage, which is still open to this day with the 2.0 Remodel.
 
-This location should not be confused with San Diego, CA (6403 Ej Cajon Blvd) (the El Cajon Blvd location), [the Sports Arena location]({{< ref "wiki/San Diego, CA (3146 Sports Arena Blvd).md" >}}), or [the College Avenue location]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), all which opened on March 1981 and closed in 1984, opened on April 19th, 1993 and is still open, and opened on December 19th, 2012 which is also still open.
+This location should not be confused with [the El Cajon Blvd location]({{< ref "wiki/San Diego, CA (6403 El Cajon Blvd).md" >}}), [the Sports Arena location]({{< ref "wiki/San Diego, CA (3146 Sports Arena Blvd).md" >}}), or [the College Avenue location]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), all which opened in March 1981 and closed in 1984, opened on April 19th, 1993, and is still open, and opened on December 19th, 2012, which is also still open.
 
-It is also one of the 5 CEC's in the San Diego area.
+It is also one of 7 Chuck E. Cheese locations in San Diego County.
+
+It is located in the Scripps Ranch Shopping Center.
 ##History##
-San Diego/Mira Mesa opened its doors in 1981 or 1982 as a franchised location. Unfortunately, there is not a lot of information of San Diego/Mira Mesa back then. On October 22nd, 1984, the location was sold to corporate along with 50 other locations. In 1988 or 1989, San Diego/Mira Mesa received the 1988 remodel removing all PTT decor, adding CU decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade In the early 90's, San Diego/Mira Mesa underwent a minor remodel that removed a little decor for newer decor and the removal of Chuck E.'s House Facade for the 2-Stage. Around the Late 90's, the location received the so-called 'Phase 2' remodel removing older 90's decor, adding newer decor, another exterior change, and SkyTubes. San Diego/Mira Mesa would remain like this until 2006 when they received the 2005 remodel removing the Showroom Walls, Balcony Seating, removing the Late 90's and early 2000's decor for newer decor, a new exterior change, and the relocation of the stage. Currently, as of February 2023, the location still has the 2005 remodel and the 2-Stage.
+San Diego/Mira Mesa opened its doors in January 1982 as a franchised location and was apart of the Scripps Ranch Shopping Center which was completed in Fall 1981. Unfortunately, there is not a lot of information of San Diego/Mira Mesa back as a PTT. On October 22nd, 1984, the location was sold to corporate along with 50 other locations. In 1988 or 1989, San Diego/Mira Mesa received the 1988 remodel removing all PTT decor, adding CU decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade. Around the Late 90's, the location received the so-called 'Phase 2' remodel removing older 90's decor, adding newer decor, another exterior change, SkyTubes, and replacing Chuck E.'s House Facade with a 2-stage. San Diego/Mira Mesa would remain like this until 2006 when they received the 2005 remodel removing the Showroom Walls, Balcony Seating, removing the Late 90's and early 2000's decor for newer decor, a new exterior change, and the relocation of the entire showroom. In 2020, after the permanent closure of Vista, CA (1861 University Dr), they received all of their tables, chairs, benches, and booths, and installed them in place of their old furniture. In February 2024, Mira Mesa started it's CEC 2018 2.0 Remodel Program (2.0 Remodel), and had removed it's 2-Stage on February 18, 2024. Currently, as of August 2024, the store remains like this with the 2.0 Remodel.
+
 ##Stages##
 Originally, San Diego/Mira Mesa featured a Balcony Stage. Unfortunately, there are not a lot of photos or videos to exist of San Diego/Mira Mesa with the Balcony Stage, and in general back then.
 
-In 1988-1989, the Balcony Stage was removed for Chuck E.'s House Facade, then called the C-Stage.
+In 1989, the Balcony Stage was removed for Chuck E.'s House Facade, then called the C-Stage.
 
-In the early 90's, Chuck E.'s House Facade was removed for the 2-Stage.
+In 1997, Chuck E.'s House Facade was removed for the 2-Stage.
+
+In February 18, 2024, the 2-Stage was removed due to the 2.0 Remodel.
 {| class='wikitable'
 |+
 !Stage
@@ -28,20 +33,30 @@ In the early 90's, Chuck E.'s House Facade was removed for the 2-Stage.
 !Removed
 !Notes
 |-
-|Balcony Stage
-|1981 or 1982
-|1988-1989
-|
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
+|January 1982
+|1989
+|One of many installed in California.
 |-
-|Chuck E.'s House Facade
-|1988-1989
-|Early 90's
-|
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
+|1989
+|1997
+|One of many installed in California. Received Early 90s Helen cosmetics.
 |-
-|2-Stage
-|Early 90's
-|Still in use
-|
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|1997
+|February 18, 2024 
+|One of many installed in California. Last 2-Stage in the San Diego area. Third to last 2-Stage in California. 
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
+|February 2024
+|Still in Use
+|2019 Model
+|-
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|February 2024
+|Still in Use
+|2021 Model
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -50,29 +65,49 @@ In the early 90's, Chuck E.'s House Facade was removed for the 2-Stage.
 !Serial Number
 !Whereabouts
 |-
-|Chuck E. Cheese (Cyberamic)
-|N/A
-|In store.
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|Unknown
+|Unknown. One of the ears is owned by Cyberstar_Chuck.
 |-
-|Pasqually (Cyberamic)
-|N/A
-|In store.
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
 |-
-|Mr. Munch (Cyberamic)
-|N/A
-|In store.
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
 |-
-|Jasper T. Jowls (Cyberamic)
-|N/A
-|In store.
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
 |-
-|Helen Henny (Cyberamic)
-|N/A
-|In store.
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
+|-
+|Waving Flags (Cyberamic)
+|Unknown.
+|Unknown.
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|Unknown.
+|Unknown.
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
 |N/A
-|In store.
+|Unknown.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|N/A
+|Unknown.
 |}
 ##Gallery##
 

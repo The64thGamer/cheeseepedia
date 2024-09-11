@@ -2,20 +2,20 @@
 title = "Sally at The Piano"
 draft = false
 tags = []
-date = 2023-12-16T05:21:10Z
+date = 2024-06-08T19:09:52Z
 
 [Article]
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
 gallery = ["Sallyrefpiano2.png|NY","Sallypianoref1.png|NY"]
 +++
-{{Generic|image=Sallyatthepianopromoimage.png|desc=Sally Promotional Picture}}
-
 **_Sally at The Piano**_ was a single-animatronic show produced by **_Sally Industries**_ in 1983.
+
+{{AnimatronicShow|image=Sallyatthepianopromoimage.png|years=1983 - Present|status=Operating|numCharacters=1|manufacturer=Sally Corporation (Sally Industries)|businessType=Type of Business: Hotels, Resorts, Piano Bars, Restaurants, Museums}}
 
 ## Summary ##
 The show consisted of Piano Sally (Animatronic) performing songs on a piano. They have an 8 hour showtape consisting of playing the piano and singing.<ref name=':0'>https://nydailynews.newspapers.com/image/487943410/?terms=Sally%20Piano&match=2</ref><ref>https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1</ref>
 
-The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.<ref>https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4</ref><ref name=':1'>https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob</ref> In 1984 the lowest-end option would reduce in price to $21,000.<ref name=':0' />
+The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.<ref name=':3'>https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4</ref><ref name=':1'>https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob</ref> In 1984 the lowest-end option would reduce in price to $21,000.<ref name=':0' />
 
 Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianocorder signals, another for Sally's voice track, and a third track for the animatronic [signals]({{< ref "wiki/Data.md" >}}).
 
@@ -32,7 +32,11 @@ Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianoco
 * Chicago Location
 ** Brief mention in an article.<ref name=':2' />
 * San Francisco Location
-** Article mentions bringing a Sally in 1985 'to entertain at around in bars' in the San Francisco area. Implies the same Sally was then used for trade shows.
+** Article mentions bringing a Sally in 1985 'to entertain at around in bars' in the San Francisco area. Implies the same Sally was then used for trade shows.<ref name=':3' />
+* Wisconsin Dells, WI (105 Broadway)
+** Installed at Wax World of the Stars Museum. Sold on Ebay on January 15, 2007.<ref>https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size</ref>
+* Hokkaido, Japan (13 Izumikawa, Rusutsu-mura, Abuta-gun, Hokkaido 048-1711)
+** Originally installed at the Rusutsu Resort around 1987. Has been paired alongside a repurposed Papa Bear figure from Sally's Berenstain Bears display. Both figures were sent back to Sally's facilities along with [Daniel and the Dixie Diggers]({{< ref "wiki/Daniel and the Dixie Diggers.md" >}}) for refurbishment in 2022. Reinstalled in 2023.
 
 ## Gallery ##
 <gallery>

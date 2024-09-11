@@ -2,13 +2,81 @@
 title = "Chuck E. Cheese's Show 2 2018"
 draft = false
 tags = []
-date = 2022-01-28T13:24:50Z
+date = 2022-10-01T21:24:33Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","74.83.232.137"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese's Show 2 2018
+|image=Show22018.png
+|date=February 26, 2018
+|studioc=y
+|studiochd=y
+|dvdcu=y
+|dvdcyber=y
+}}
+**_Chuck E. Cheese's Show 2 2018**_ released February 26, 2018
+
+This was created to play from February 26, 2018 - April 15, 2018. Featuring 5 songs and a brand new birthday! All 5 songs are reused.
+
+## Show list: ##
+
+# **Skit 1**
+## Happy Birthday, Munch!
+# **Intermission 1**
+## [[File:New Graphic.png]] Miguel feat. Natalia LaFourcade - 'Remember Me'
+## Chuck E. Cheese Fundraisers
+## [[File:New Graphic.png]] Universal Kids - Kody Kapow - 'Birthday Cake'
+# **Skit 2**
+## Mr. Munch & Chuck E. Cheese - 'Purple Planet Point of View'
+# **Intermission 2**
+## [[File:New Graphic.png]] Battery Pop - OmNom Stories Episode 1'
+## [[File:New Graphic.png]] Axwell Ingrosso - 'Sun Is Shining'
+## Chuck E. Cheese's Birthdays - 'Unlimited Games/Play Band'
+## [[File:New Graphic.png]] Ruff Ruff Tweet & Dave - 'Doggy-Birdie-Panda'
+## Carly Rae Jepsen - 'I Really Like You'
+## [[File:New Graphic.png]] Chuck E. Cheese's Made You Smile - 'Tough Day'
+# **Skit 3** 
+## Chuck E. Cheese - 'Dancin' Kitten'
+# **Intermission 3**
+## [[File:New Graphic.png]] Lisa Loeb feat. Craig Robinson - 'Feel What You Feel'
+## Chuck E. Cheese's Buffet
+## [[File:New Graphic.png]] Nick Jonas - 'Home'
+## Chuck E. Cheese's Sensory Sensitive Sundays
+## [[File:New Graphic.png]] Jordan Fisher feat. Lin Manuel Miranda - 'You're Welcome'
+## [[File:New Graphic.png]] Battery Pop - 'Problem Solved'
+# **Skit 4**
+## Chuck E. Cheese & Friends - 'Trio'
+# **Intermission 4** 
+## [[File:New Graphic.png]] Sigrid - 'Strangers'
+## [[File:New Graphic.png]] Universal Kids - Nina's World - 'Festival of Color'
+## Taylor Swift - 'Shake It Off'
+# **Skit 5** 
+## Chuck E. Cheese - 'Rainy Day'
+# [[File:New Graphic.png]] **Intermission 5**
+## Musing with Mr. Munch Episode 3 
+## Chuck E. Cheese's Made You Smile - 'Birthdays'
+## Stevie Wonder feat. Ariana Grande - 'Faith'
+
+## Lives: ##
+*[[File:New Graphic.png]] Birthday Show 2018 (3stage, Cyberamic, Studio C,Weigl)
+*Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
+*Happy Dance (3stage, Cyberamic, Studio C,Weigl)
+*Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
+*The Roll (3stage, Cyberamic, Studio C,Weigl)
+*Chuck E. Says(3stage, Cyberamic, Studio C,Weigl)
+*Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
+*Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 ##Showtape Scans / Images:##
 <gallery>
+Show218Floppy.png|Studio C Floppy
+Show218StdC.png|Studio C DVD
 Discs 2.png|CEC-Stage DVD Scan
 </gallery>
+
+## Trivia: ##
+
+* Happy Birthday, Munch! and Purple Planet Point of View are originally from Chuck E. Cheese's Show 2 2017 (Show 2 2017), Dancin' Kitten is originally from  Chuck E. Cheese's Winter 2015 (Winter 2015), Rainy Day is originally from Chuck E. Cheese's Show 3 2016 (Show 3 2016), Trio is originally from Chuck E. Cheese's Show 3 2017 (Show 3 2017).
+* The Birthday Star Spectacular is complete redone from scratch being the first time CEC created a completely new birthday show since 2015!

@@ -2,7 +2,7 @@
 title = "September 1998"
 draft = false
 tags = []
-date = 2022-03-20T18:36:23Z
+date = 2024-08-26T22:23:09Z
 
 [Article]
 contributors = ["Documentor","Cy's Junk at School"]
@@ -84,3 +84,25 @@ gallery = []
 ## Coca Cola Spot 2
 ## Got Milk Bones?
 ## Bobby Darin - 'Mack The Knife'
+
+## Studio C Show List: ##
+Currently unknown.
+
+## Lives: ##
+**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+
+* Birthday Star 95'
+* Chuck E. March
+* Havin' A Party
+* Chuck E's Fiesta Mexicana
+* Chuck E. Says
+* Chuck E. Shuffle
+* Patriotic Live
+* [[File:New Graphic.png]] Give My Regards to Broadway
+
+**Birthday Break**: Is currently unknown.
+
+## Trivia: ##
+* A majority of the Existing Stages version of this show is intermission-based, with only around 15 minutes of programmed material in total out of the 60 minute runtime of the show.
+* The songs 'Rock Around The Clock', Donald O'Connor - 'Make 'Em Laugh', 'Camptown Races', 'Oh Susanna', 'She'll Be Coming Around The Mountain', 'She'll Be Making a Combo Pizza', and 'Mack The Knife' all have unique footage created for it. 
+* This was the last show produced in the talk host format. Only ever being used on three shows. May 1998, July 1998 and September 1998.

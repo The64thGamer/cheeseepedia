@@ -2,13 +2,10 @@
 title = "September 2000 Show"
 draft = false
 tags = []
-date = 2021-12-14T02:46:11Z
+date = 2023-10-29T01:40:04Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []
 +++
-##Showtape Scans / Images:##
-<gallery>
-september 2000.jpg|Unknown SVHS
-</gallery>
+text/x-wiki

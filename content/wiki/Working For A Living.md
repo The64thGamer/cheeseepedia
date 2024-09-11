@@ -2,7 +2,7 @@
 title = "Working For A Living"
 draft = false
 tags = []
-date = 2022-08-01T07:00:56Z
+date = 2023-05-05T04:14:05Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer"]
@@ -11,10 +11,10 @@ gallery = []
 {{Showtape
 |image=Sept92.png
 |date=September 1992
-||r12 = y
+|r12 = y
 |c&r = y
 |cusvhs = y
-}}
+|labelname=SHOWBIZ Pizza Time, Inc.|labelname1=WORKING FOR A LIVING|labelname2=VALID PLAYDATES: 9/14 - 11/25/92}}
 
 **_Working For A Living**_ was the show that released in September of 1992 at Chuck E. Cheese's. This show changed the intermission format to feature exclusively CEC original content.
 

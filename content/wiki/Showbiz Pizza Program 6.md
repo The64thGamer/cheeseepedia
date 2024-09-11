@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 6"
 draft = false
 tags = []
-date = 2022-01-30T00:20:55Z
+date = 2022-01-30T00:43:49Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -16,24 +16,24 @@ These programs were still produced by _Sight & Sound Entertainment Corporation_,
 It is unknown the showtapes this released alongside.
 *
 ##Song List##
-#9 to 5 (Love To Infinity Radio Mix)
-#Working Man
-#Wichita Lineman (Remastered 2001)
-#America (From 'The Jazz Singer' Soundtrack)
-#Working In The Coal Mine
-#The Wreck of the Old 97
-#Working on the Highway
-#Lady Liberty
-#The Gift
-#Workin’ at the Car Wash Blues
-#Leader of the Band
-#Sing for the Common Man
-#God Bless The U.S.A.
-#Forty Hour Week (For A Livin')
-#Living In The Promiseland
-#I've Been Working on the Railroad
-#American Made
-#Back In The U.S.A. (Hail! Hail! Rock 'N' Roll / Soundtrack Version)
-#Big City
+#[https://en.wikipedia.org/w-iki/Love_to_Infinity 9 to 5 (Love To Infinity Radio Mix)]
+#[https://en.wikipedia.org/wiki/Working_Man_(John_Conlee_song) Working Man]
+#[https://en.wikipedia.org/wiki/Wichita_Lineman Wichita Lineman (Remastered 2001)]
+#[https://en.wikipedia.org/wiki/America_(Neil_Diamond_song) America (From 'The Jazz Singer' Soundtrack)]
+#[https://en.wikipedia.org/wiki/Working_in_the_Coal_Mine Working In The Coal Mine]
+#[https://en.wikipedia.org/wiki/Woody_Guthrie The Wreck of the Old 97]
+#[https://en.wikipedia.org/wiki/Working_on_the_Highway Working on the Highway]
+#[https://en.wikipedia.org/wiki/Orleans_(band) Lady Liberty]
+#[https://en.wikipedia.org/wiki/Ian_Tyson The Gift]
+#[https://en.wikipedia.org/wiki/Workin%27_at_the_Car_Wash_Blues Workin’ at the Car Wash Blues]
+#[https://en.wikipedia.org/wiki/Leader_of_the_Band Leader of the Band]
+#[https://en.wikipedia.org/wiki/Dolly_Parton Sing for the Common Man]
+#[https://en.wikipedia.org/wiki/God_Bless_the_U.S.A. God Bless The U.S.A.]
+#[https://en.wikipedia.org/wiki/40_Hour_Week_(For_a_Livin%27) Forty Hour Week (For A Livin')]
+#[https://en.wikipedia.org/wiki/Living_in_the_Promiseland Living In The Promiseland]
+#[https://en.wikipedia.org/wiki/Pete_Seeger I've Been Working on the Railroad]
+#[https://en.wikipedia.org/wiki/American_Made_(song) American Made]
+#[https://en.wikipedia.org/wiki/Back_in_the_U.S.A. Back In The U.S.A. (Hail! Hail! Rock 'N' Roll / Soundtrack Version)]
+#[https://en.wikipedia.org/wiki/Big_City_(Merle_Haggard_song) Big City]
 ##References##
 <references />

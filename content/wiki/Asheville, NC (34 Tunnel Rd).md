@@ -2,21 +2,22 @@
 title = "Asheville, NC (34 Tunnel Rd)"
 draft = false
 tags = []
-date = 2023-04-01T01:35:36Z
+date = 2023-12-28T03:17:55Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDEA:A756:46D9:2C8B","CharlesTheMech","Cheeseclassic"]
 gallery = []
 +++
-**_34 Tunnel Rd**_ was a Showbiz Pizza Place in Asheville, North Carolina.
+{{Generic|image=Asheville Rae .jpg|desc=Picture of the middle stage taken sometime in the late 80s}}
+**_34 Tunnel Rd**_ was a _ShowBiz Pizza Place_ in Asheville, North Carolina. The store opened on July 20, 1984, with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on March 15, 1996, as a _Chuck E. Cheese's_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
-This is not to be confused with the Asheville, NC (104 River Hills Rd) (current location). which opened on May 6th, 2004 with a Small-Town Studio C.
+This is not to be confused with the Asheville, NC (104 River Hills Rd) (current location). which opened on May 6th, 2004 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}).
 
 ## History ##
-Asheville opened on July 20th, 1984 (3 days before the well known [Wilmington]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}) location opened with a show that's a year older than Asheville's) as the 3rd Showbiz Pizza store in North Carolina (3rd after [Charlotte Pineville-Matthews Rd]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) & [Fayetteville]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}})) as a Franchised store. Asheville originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991 or 1992, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. The store would remain this way until it's permanent closure on March 15th, 1996 due to unknown reasons. Sometime after the store's closure, the building was demolished for Cracker Barrel. On May 6th, 2004, a new CEC opened in the nearby River Hills Shopping Center after a 8 year hiatus. As of March 2023, the Cracker Barrel still stands on the former SPP/CEC site today. 
+Asheville opened on July 20th, 1984 (3 days before the well-known [Wilmington]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}) location opened with a show that's a year older than Asheville's) as the 3rd Showbiz Pizza store in North Carolina (3rd after [Charlotte Pineville-Matthews Rd]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) & [Fayetteville]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}})) as a Franchised store. Asheville originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991 or 1992, when they would receive the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), receiving [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. The store would remain this way until its permanent closure on March 15th, 1996. Sometime after the store's closure, the building was demolished for a Cracker Barrel. On May 6th, 2004, a new CEC opened in the nearby River Hills Shopping Center after an 8-year hiatus. As of March 2023, the Cracker Barrel still stands on the former SPP/CEC site today. 
 
 ## Stages ##
-Originally, Asheville featured a Rock-Afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. It was removed on March 15th, 1996 when the store was closed permanently.
+Originally, Asheville featured a Rock-Afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. It was removed on March 15th, 1996, when the store was closed permanently.
 {| class='wikitable'
 !Stage
 !Installed

@@ -2,13 +2,14 @@
 title = "Omaha, NE (225 N 76th St)"
 draft = false
 tags = []
-date = 2023-05-05T22:07:17Z
+date = 2024-08-26T23:28:28Z
 
 [Article]
 contributors = ["ChuckECool","CorrectorMan","Stripes","Cy's Junk at School"]
 gallery = []
 +++
-**_225 North 76th Street**_ is a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on June 23, 1982 as a corporate location with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion] and is still open to this day as a 2.0 with a Dance Floor and Video Wall.
+[[File:Omaha.jpg|thumb|Omaha's exterior with 2.0. (PC: Google Maps)]]
+**_225 North 76th Street**_ is a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on June 23, 1982 as a corporate location with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day as a 2.0 with a Dance Floor and Video Wall.
 
 It is located in the Heritage Plaza Shopping Center.
 
@@ -31,12 +32,12 @@ In April 2022, Omaha received the 2.0 Remodel, thus removing their 3-Stage for a
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage RockAfire Explosion]
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |June 1982
 |1991
 |3rd and last Showbiz Pizza store to open in Nebraska.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991
 |April 2022
 |One of 2 Showbiz locations in Nebraska to receive Concept Unification.
@@ -53,77 +54,64 @@ In April 2022, Omaha received the 2.0 Remodel, thus removing their 3-Stage for a
 !Serial Number
 !Whereabouts
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
+|[cam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |N/A
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Destroyed.
 |}
-##Videos##
+
+## Videos ##
 {| class='wikitable'
-|+
 !Link
 !Description
-!Date Filmed
-!Date Published
+!Filming Date
+!Publish Date
 |-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
+|[https://www.youtube.com/watch?v=tmS3_dRQchY YouTube]
+|A video showcasing the Chuck E. Cheese animatronic connected to an external controller performing a Rock-afire Explosion segment
+|Unknown
+|April 17, 2024
 |}
-##Gallery##
-<gallery>
-</gallery>

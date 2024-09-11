@@ -2,12 +2,14 @@
 title = "Honolulu, HI (1199 Dillingham Blvd)"
 draft = false
 tags = []
-date = 2024-05-10T22:34:08Z
+date = 2024-08-29T01:23:54Z
 
 [Article]
 contributors = ["JND","CECswag2009"]
 gallery = []
 +++
+{{Generic|desc=Honolulu as of today|image=PIC 1370.jpeg}}
+
 **_Honolulu, HI (1199 Dillingham Blvd)**_  is a Chuck E Cheese’s that opened on August 29, 2009 and is still open today with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). It is a relocation of [Honolulu, HI (820 W Hind Dr)]({{< ref "wiki/Honolulu, HI (820 W Hind Dr).md" >}}), that closed(day unknown) with a 3-stage.
 
 ## History ##
@@ -23,11 +25,11 @@ This location opened with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
 !Serial Number
 !Whereabouts
 |-
-|Studio C 16m
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |N/A
 |Still in use.
 |-
-|Pizza time clock
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Still in use.
 |}

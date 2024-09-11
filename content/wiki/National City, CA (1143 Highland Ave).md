@@ -2,67 +2,97 @@
 title = "National City, CA (1143 Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-02-03T23:03:42Z
+date = 2024-08-01T14:23:40Z
 
 [Article]
 contributors = ["ChuckECool","CEC Tinley","TheChuckECheeseGuy","Chez","CoolerDude","Cheeseclassic","Estsproduction","AstridMascotFan2005"]
 gallery = []
 +++
-**_1143 Highland Ave**_ is a Chuck E. Cheese/Pizza Time Theatre location that opened in May 1982 (Day unknown) with a Balcony Stage which is still open to this day.<ref>https://property.creop.com/12383/</ref>
+{{Generic|image=National city.jpg|desc=National city's exterior.}}
+**_1143 Highland Ave**_ is a _Chuck E. Cheese's Pizza Time Theatre_ that opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and is still open today with a Dance floor.
 
-##Stages##
-When National City opened, it housed a Balcony Stage. Unfortunately, there is only one photo of National City as a PTT and that is the exterior but partial. There are also no videos to exist of National City as a PTT. 
+## Stages ##
+National City opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Unfortunately, there is no information on it during the PTT era. In 1989/1990, the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) was removed for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). In around 1994, [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) was removed for the [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The stage went through minor renovations until 2011, when it got converted into a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). In November 2023, the 1-Stage was removed for the Dance Floor and Video Wall.
 
-Sometime between 1989 and 1990, they installed Chuck E.’s House Facade.
+## History ##
+National City opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Although 1 exterior photo exists, there is basically nothing known about National City during the PTT era.
 
-In the early 90's, the Chuck E.'s House Facade stage was removed and the 2-Stage was Installed.
+In 1989/1990, National City received the ['80s major remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), removing all PTT traces and removed the Balcony Stage for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-In 2011, the 2-Stage was converted into the 1-Stage.
-{| class='wikitable'
-|+
-!Stage
-!Installed
-!Removed
-!Status
-!Notes
-|-
-|Balcony Stage
-|May 1982
-|1988-1989
-|Removed
-|
-|-
-|C-Stage
-|1988-1989
-|Early 90's
-|Removed
-|
-|-
-|2-Stage
-|Early 90's
-|2011
-|Converted
-|One of 2 Pizza Time Theatres to convert a 2-Stage into a 1-Stage. The other is [Pico Rivera, CA (6005 Rosemead Blvd)]({{< ref "wiki/Pico Rivera, CA (6005 Rosemead Blvd).md" >}})
-|-
-|1-Stage
-|2011
-|Still in use
-|Still in use
-|
-|}
+Around 1994, National City received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), removing all 1980s decor and removed [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) for a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). They would later receive Phase [2]({{< ref "wiki/Phase 2 (1997).md" >}})/[3]({{< ref "wiki/Phase 3 (2000).md" >}}) at later dates.
 
-##History##
-National City opened in May 1982 with a [https://chuckepedia.com/wiki/Cyberamics_Balcony_Stage Balcony Stage] and was originally a franchised-owned store until the corporate bought it on October 22, 1984 along with many other locations. They then received the 1988 remodel around 1988-1989 when the stage was replaced with [https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade Chuck E.'s House Facade] and removed older PTT decor and received an exterior change. In the Early 90's, they received Phase 2 which removed some older decor, added decor, got another exterior change, and replaced C-Stage with the 2-Stage. In the Mid to Late 90's they received the Phase 3 remodel which removed the older early 90's decor and added the late 90's/2000's decor, added SkyTubes and Toddler Zone, removed the ball pit, and received another exterior change. In 2007-2008, National City received the 2005 remodel (Phase 4) which removed the Showroom Walls, Balcony Seating, relocated the stage, and received another exterior change. Sometime in 2011, they expanded the store and the 2-Stage was converted into the 1-Stage. Pico Rivera also converted their 2-Stage into the 1-Stage a year prior in 2010. They also have the Pointing Avenger Chuck sign at the back of the store next to a former HomeTown Buffet. It tells you to go to the front side of the store. Currently, as of February 2023, they still have the 1-Stage, the 2005 remodel, and the rare Pointing Chuck sign.
-##Gallery##
-TODO
-##Videos##
+In 2007/2008, National City received the 2005 update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), removing all 90s decor, removing showroom walls, balcony seating, replaced the lighting, and likely relocated the stage. The store would expand in 2011, converting the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) to a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). National City started the 2.0 remodel in November 2023. 
+
+## Videos ##
 {| class='wikitable'
 |+
 !Link
 !Description
 !Filming Date
+!Publish Date
 |-
-|
-|
-|
+|[https://www.youtube.com/watch?v=h8f184b-Ung&ab_channel=CavitySam (41) Chuck E. Cheese- National City (What An Improvement!) - YouTube]
+|A comparison of their stage.
+|March 2009
+|February 14, 2010
+|-
+|[https://www.youtube.com/watch?v=JpTqp0-0Wco&ab_channel=ChuckAround (41) Chuck E. Cheese National city CA store tour - YouTube]
+|Store tour.
+|Fall 2020
+|October 17, 2020
+|}
+
+## Gallery ##
+TODO
+
+## Animatronics ##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|Chuck E Cheese (Cyberamic)
+|Unknown
+|Destroyed
+|-
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Unknown
+|Destroyed
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
+|Destroyed
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown
+|Destroyed
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|Destroyed
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|Unknown
+|Unknown/Destroyed
+|-
+|Waving Flags (Cyberamic)
+|Unknown
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown
+|Unknown/Destroyed
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|Unknown
+|Unknown/Destroyed
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|Unknown
+|Unknown/Destroyed
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|Unknown
+|Destroyed
 |}

@@ -2,43 +2,44 @@
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
 tags = []
-date = 2023-01-24T21:23:50Z
+date = 2024-05-21T11:41:01Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
-gallery = []
+gallery = ["madisonwirae.png|The","Chuck","91e3b345-22ef-4f35-88d6-47cefd9e33a1","Madison","Madison_frame.png|Madison's"]
 +++
-**_438 Grand Canyon Dr**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion].
+{{Generic|image=Madison WI CEC 2.0 Exterior.png|desc=Exterior, August 2022}}
+**_438 Grand Canyon Dr, Store #604**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).
 ##History##
-Madison opened its doors in July 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Madison was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Madison received the Showbiz Pizza Campground upgrade.
+Madison opened its doors on July 7th, 1982 as the third Showbiz Pizza Place in Wisconsin after Milwaukee (Good Hope Rd & S 27th St, both opened a year prior in June 17th and August 27th, 1981, respectively). It was originally and currently a corporate-owned store. Madison originally featured the Rock-Afire Explosion, as all other Showbiz locations did. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Madison was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Madison received the Showbiz Pizza Campground upgrade.
 
-In around 1991, Madison received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Madison received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. Madison remained this way until sometime in 2008-2009 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, got an expansion, and also removing some older 90's decor. In August 2021, they received the 2.0 remodel which removed the 3-Stage for the Dance Floor. As of January 2023, they still have the Dance Floor.
+In August of 1991, Madison received Concept Unification which converted the show to Munch's Make Believe Band, but kept the Showbiz name until 1992. By 1995, Madison received another remodel which involved the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) game package and expanded the exterior. In around the Late 1990's, Madison received the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) game -package which removed some early 90's decor and added new decor and SkyTubes. Madison remained this way until sometime in 2008-2009 when they received the 2005 Remodel which involved removing the Showroom Walls, Balcony Seating, expanded the exterior again, got an expansion, and also removing some older 90's decor. In July 2021, they received the 2.0 remodel which removed the 3-Stage for the Dance Floor. The store's Grand Reopening occurred on August 26th, 2021<ref>https://www.wpr.org/chuck-e-cheese-grand-reopening</ref>. As of January 2023, they still have the Dance Floor.
 ##Stages##
-Madison opened with the Rock afire Explosion in April 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general.
+Madison opened with the Rock afire Explosion in July 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general.
 
-In 1991, Madison received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
+In August of 1991, Madison received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
 
-In August 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
+In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |July 1982
-|1991
-|
+|August 1991
+|3rd Showbiz to open in Wisconsin.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
-|1991
-|August 2021
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|August 1991
+|July 7th, 2021
+|One of three Showbiz Pizza stores in Wisconsin to undergo Concept Unification.
 |-
 |Chuck E. Live Stage (Dance Floor) (Dance Floor + Video Wall)
 |August 2021
 |Still in use
-|
+|2021 Model. 
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -47,56 +48,77 @@ In August 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor
 !Serial
 !Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|10-81 1-14
+|Destroyed
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|10-81 2-14
+|Destroyed
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|10-81 3-14
+|Destroyed
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|10-81 4-14
+|Destroyed
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|10-81 5-14
+|Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|10-81 6-14
+|Destroyed during Concept Unification 
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|10-81 7-14
+|Unknown/Destroyed
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|10-81 8-14
+|Unknown/Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|10-81 10-14
+|Destroyed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|10-81 11-14
+|Destroyed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Wink Wink]
-|N/A
-|Unknown/Destroyed
+|Destroyed
 |}
 ##Gallery##
+<gallery>
+File:madisonwirae.png|The only known photo of the store's RAE. 
+File:Chuck E Cheese's Pizza (crop).jpg|the store's exterior on January 5, 2001 (PC: Try to Love Again).
+File:91e3b345-22ef-4f35-88d6-47cefd9e33a1 d.jpg|Madison's Exterior From Around 2007
+File:Madison Wi 3-Stage.jpg|Madison's 3-Stage before 2.0 Remodel
+File:Madison_frame.png|Madison's road sign, which is the last ShowBiz Pizza Place sign frame to remain intact at a location
+</gallery>
+
 ##Videos##
-TODO
+{| class='wikitable'
+|+
+!Link
+!Description 
+!Filming Date
+|-
+|https://www.youtube.com/watch?v=4HJ4l19111c&list=PLmSugGYlVkI3N43hMGdHVhONQWvJ2nZ-A&index=19
+|Footage of the store in 1995
+|January 22, 1995
+|}
 ##References##
 <references />
+
+## Trivia ##
+*Madison was the 3rd ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)]({{< ref "wiki/Milwaukee, WI (7401 Good Hope Rd).md" >}}) (Opened June 17, 1981) & Milwaukee, WI (4595 S 27th St) (Opened August 27, 1981)
+*Madison was one of three ShowBiz locations in Wisconsin to undergo Concept Unification (The other two being Green Bay & [La Crosse]({{< ref "wiki/La Crosse, WI (4444 State Rd).md" >}})) as Milwaukee, WI (7401 Good Hope Rd) replaced their Rock-afire with a Cyberamics Rocker Stage (Rocker Stage) in June 1988 (Their show would get Concept Unification when the show was installed at [Raleigh]({{< ref "wiki/Raleigh, NC (3501-131 Capital Blvd).md" >}})) and the store would eventually close sometime in 1995 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Milwaukee, WI (4595 S 27th St) & Grand Chute / Appleton, WI (2424 W College Ave) (Appleton) on the other hand were closed by 1986 and never converted into Chuck E. Cheese.

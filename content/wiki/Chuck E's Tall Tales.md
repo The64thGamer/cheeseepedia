@@ -2,21 +2,21 @@
 title = "Chuck E's Tall Tales"
 draft = false
 tags = []
-date = 2022-07-15T18:29:50Z
+date = 2023-07-22T23:56:10Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
 gallery = []
 +++
 {{Showtape
-|image=Talltales.png
-|date=January 1996
+|image=Talltales.jpg
+|date=December 26, 1995
 ||r1293 = y
 |c&r93 = y
 |cusvhs = y
 }}
 
-**_Chuck E.'s Tall Tales**_ was a show that released in January of 1996 at Chuck E. Cheese's locations. 
+**_Chuck E.'s Tall Tales**_ was a show released on December 26, 1995, at Chuck E. Cheese's locations. 
 
 ##Show List ##
 #**[[File:New Graphic.png]]** **Segment 1**

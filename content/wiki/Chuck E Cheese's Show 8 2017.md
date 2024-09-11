@@ -2,13 +2,91 @@
 title = "Chuck E. Cheese's Show 8 2017"
 draft = false
 tags = []
-date = 2021-12-10T13:26:41Z
+date = 2022-10-01T21:08:12Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese's Show 8 2017
+|image=Show92016.png
+|date=November 20, 2017
+|studioc=y
+|studiochd=y
+|dvdcu=y
+|dvdcyber=y
+}}
+**_Chuck E. Cheese's Show 8 2017**_ released November 20, 2017
+
+This was created to play from November 20, 2017 - January 3, 2018. Featuring 7 songs all reused. Also a new Holiday variant for Me & My Friends.
+
+## Show List: ##
+
+# **Skit 1** 
+## Happy Birthday, Pasqually
+# **Intermission 1** 
+## Mariah Carey - 'All I Want For Christmas Is You'
+## CEC Fundraisers
+## [[File:New Graphic.png]] Ferdinand Trailer
+# **Skit 2** 
+## Chuck E. Cheese - 'Let's Play Some Games for the Holidays'
+# **Intermission 2** 
+## [[File:New Graphic.png]] My Little Pony - 'A Hearth's Warming Tail'
+## [[File:New Graphic.png]] Train - 'Shake Up Christmas'
+## Carl Clean 2.0
+# **Skit 3** 
+## Jasper - 'Jasper's Snowman'
+# **Intermission 3** 
+## [[File:New Graphic.png]] Sprout - 'Floogals'
+## [[File:New Graphic.png]] S.N.C. feat. Kristen Bell - 'Text Me Merry Christmas'
+## [[File:New Graphic.png]] Kids Click - 'LadyBug'
+# **Skit 4**
+## Pasqually - 'What Do You Get a Sasquatch for Christmas?'
+# **Intermission 4** 
+## NSYNC - 'Merry Christmas, Happy Holidays'
+## CEC Buffet
+## Cee Lo Green & The Muppets - 'All You Need Is Love'
+## Cheetos Mac Cheesy
+## A Great Big World - 'I Want a Hippopotamus for Christmas'
+## [[File:New Graphic.png]] Kids Click - 'Rocket Monkeys'
+# **Skit 5** 
+## Chuck E. & Helen - 'Merry Christmastime'
+# **Intermission 5** 
+## [[File:New Graphic.png]] Band of Merrymakers - 'Snow, Snow, Snow'
+## [[File:New Graphic.png]] Universal Kids - 'The Noise'
+# **Skit 6** 
+## Chuck E. & Friends - 'Share The Joy'
+# **Intermission 6** 
+## [[File:New Graphic.png]] Kids Click - 'Winx'
+## CEC Birthday TV Spot
+## [[File:New Graphic.png]] Toby Mac - 'Bring On The Holidays'
+# **Skit 7** 
+## Chuck E. & Friends - 'Holiday Medley'
+### Jingle Bells
+### Jolly Old St. Nicholas
+### I Have a Little Dreidel
+### Up On The Housetop
+### Deck the Halls
+### We Wish You a Merry Christmas
+
+## Lives: ##
+*Birthday Show (3stage, Cyberamic, Studio C,Weigl)
+*Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
+*[[File:New Graphic.png]] Me & My Friends (Holiday) (3stage, Cyberamic, Studio C,Weigl)
+*Happy Dance (Holiday) (3stage, Cyberamic, Studio C,Weigl)
+*Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
+*The Roll (3stage, Cyberamic, Studio C,Weigl)
+*Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
+*Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
+##Official Releases: ##
+*[https://www.youtube.com/watch?v=ghAX57U77Cg 'Me & My Friends Holiday Remix' on YouTube]
 ##Showtape Scans / Images:##
 <gallery>
-s-l1600 (23).jpg|CEC-Stage DVD
+Show817Floppy.png|Studio C Floppy
+Show817StdC.png|Studio C DVD
+Discs 3.png|CEC-Stage DVD Scan
 </gallery>
+
+## Trivia: ##
+Happy Birthday, Pasqually, Merry Christmastime, Share The Joy and Holiday Medley all come from Chuck E. Cheese's Show 9 2016 (Show 9 2016), Snowman and What Do You Get a Sasquatch for Christmas? are originally from [Holiday 2014]({{< ref "wiki/Holiday 2014 Show.md" >}}).

@@ -2,43 +2,85 @@
 title = "Towson, MD (809 Goucher Blvd)"
 draft = false
 tags = []
-date = 2022-10-07T03:25:58Z
+date = 2024-07-31T18:05:13Z
 
 [Article]
 contributors = ["Sptparole","Documentor","Rexburg090","ShowbizMidwest","RedaCEC","GainerXO","ThatBoiCydalan","Cecriva","2607:FB91:8A6:D919:7D27:566B:4E8B:D39B","Tux Chuck","AnthonyRWikis7283","AstridMascotFan2005"]
-gallery = []
+gallery = ["310509087","310009621","Towsonstage.jpg|Towson's"]
 +++
-[[File:Towsonoutside.jpg|thumb|Exterior 2005]]
-809 Goucher Blvd opened its doors as a Chuck E Cheese Pizza location in August 1993 with a 1 Stage and closed in Spring 2007 
+{{Stub}}{{Generic|image=Towsonoutside.jpg|desc=Exterior 2005}}
+**_Towson, MD (809 Goucher Blvd)**_ **_Store #79**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf</ref> was a _Chuck E. Cheese's_ located in Towson, Maryland, in a plaza next to Towson Place.
 
-## History ##
-the Towson Chuck E Cheese Location Opened Sometime Around August 1993 Showcasing the 1 Stage With Side Curtains, Green Valences, No Turn Table & The 1988/1993 Remodel, The Store stayed opened up until around Winter 2006-Spring 2007  Still keeping the 1988-1993 Remodel And Keeping the 1 Stage Then the store closed its doors for its final time before the shopping center was rebuilt months after the location closed.
+The location opened its doors as a Chuck E. Cheese’s Pizza location in August 1993 (Date Unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and closed in Spring 2007 (Month & Date currently unknown). 
 
-## Photos ##
-[[File:310509087 1272492183552703 7763105862065164161 n.jpg|thumb|241x241px|Towson's Showroom]]
+##Stages##
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|1-Stage 
+|August 1993
+|Spring 2007
+|}
 
+##History##
+The Towson Location opened sometime around August 1993 with the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) (One of three installed in Maryland, the other being in [Bel Air]({{< ref "wiki/Bel Air, MD (5 Bel Air South Pkwy).md" >}}) & [Waldorf]({{< ref "wiki/Waldorf, MD (2928 Festival Way).md" >}})) with side curtains, a green valance (normally black on 1-Stages), and the 1993 Remodel. The store stayed opened up until around Spring 2007 (Month & Date currently unknown); Keeping the 1993 Remodel the [1-Stage]({{< ref "wiki/1-Stage.md" >}}). The store closed its doors for their final time before the shopping center was demolished and rebuilt months after the location closed.
 
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/XK8Az2zKNsw?t=2871 Link]
+|Towson's location installation mentioned in a CEC TV '93 ID spot
+|September 14, 1993
+|-
+|[https://www.youtube.com/watch?v=lJoeu1z5nnw Link]
+|Towson's 1-Stage shown in a video titled 'The loser pt.3'
+|August 2006
+|}
 
+##Gallery##
+<gallery>
+File:310509087 1272492183552703 7763105862065164161 n.jpg|Towson's Showroom
+File:310009621 647061067024538 7751524243922900311 n.jpg|Towson's Stage
+File:Towsonstage.jpg|Towson's Stage
+</gallery>
 
+##Animatronics##
+{| class='wikitable'
+|+
+! Animatronic
+!Manufacturing Date
+!Whereabouts
+|-
+|Chuck E Cheese (Cyberamic)
+|1992-1993
+|Unknown/Cosmetics sent to [Essex]({{< ref "wiki/Baltimore, MD (8354 Eastern Ave).md" >}})
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+| 1992-1993
+|Unknown/Cosmetics sent to [Essex]({{< ref "wiki/Baltimore, MD (8354 Eastern Ave).md" >}})
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 
-[[File:310009621 647061067024538 7751524243922900311 n.jpg|thumb|219x219px|Towson's Stage]]
-
-
-
-[[File:Towsonstage.jpg|thumb|250x250px|Towson's Stage]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Videos ##
-TODO
+|1992-1993 
+|Unknown/Cosmetics sent to [Essex]({{< ref "wiki/Baltimore, MD (8354 Eastern Ave).md" >}})
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1992-1993
+|Unknown/Cosmetics sent to [Essex]({{< ref "wiki/Baltimore, MD (8354 Eastern Ave).md" >}})
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1992-1993
+| Unknown/Cosmetics sent to [Essex]({{< ref "wiki/Baltimore, MD (8354 Eastern Ave).md" >}})
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1992-1993
+|Unknown 
+|}
+##References##
+<references />

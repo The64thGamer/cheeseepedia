@@ -2,11 +2,11 @@
 title = "Monrovia, CA (558 W Huntington Dr)"
 draft = false
 tags = []
-date = 2024-02-17T01:04:28Z
+date = 2024-07-30T15:27:31Z
 
 [Article]
 contributors = ["Snowbobsuperboi","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-[[File:Chunky.jpg|alt=aaaaaaaaaaa|thumb|The location with the 2015 update. (PC: app.familohq.com)]]
-Monrovia, CA (558 W Huntington Dr) Is a  Chuck e cheese location that opened in 2001 with a Studio C beta And closed in June 2020 Due to bankruptcy.
+{{Stub}}{{Generic|image=Chunky.jpg|alt=aaaaaaaaaaa|desc=The location with the 2015 update. (PC: app.familohq.com)}}
+**_Monrovia, CA (558 W Huntington Dr)**_ was a  _Chuck E. Cheese_ that opened in 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and closed in June 2020.

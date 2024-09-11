@@ -2,27 +2,32 @@
 title = "Covina, CA (601 Azusa Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-02-13T16:54:02Z
+date = 2024-07-07T07:24:54Z
 
 [Article]
 contributors = ["ChuckECool","CorrectorMan","CECcovinaca","Chez","Cheeseclassic","ThatBoiCydalan","Estsproduction","Stripes","Snowbobsuperboi"]
-gallery = []
+gallery = ["Covina","Covina.jpg|Covina's"]
 +++
-**_601 Azusa Ave**_ was a _Pizza Time Theatre_ which opened in August 1980 (day unknown) with a Portrait Stage, which is still open to this day.
+{{Generic|image=Covina's Exterior in 2024.jpg|desc=Covina's exterior in May 2024. (PC: Google Maps)}}
+**_601 Azusa Ave**_ is a _Chuck E. Cheese's_ which opened in August 1980 (day unknown) as a _Pizza Time Theatre_ with a Cyberamics Portrait / Shelf Stage (Portrait Stage), which is still open to this day.
 
 It is known as the second oldest CEC store in the world.
 ##History##
-Covina opened its doors in August 1980 with the Portrait Stage show like every other pre-1981 PTT did. It was also originally a franchised location. In 1981 or 1982, they received a minor remodel involving expanding the store, replacing the logo, and removing the Portrait Stage for the Balcony Stage. On October 22nd, 1984, the location was bought by the corporate along with many other locations.
+Covina opened its doors in August 1980 (day unknown) with the Cyberamics Portrait / Shelf Stage (Portrait Stage) show like every other pre-1981 PTT did. It was also originally a franchised location. In 1981 or 1982, they received a minor remodel involving expanding the store, replacing the logo, and removing the Portrait Stage for the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). On October 22nd, 1984, the location was bought by the corporate along with many other locations.
 
-In either 1989 or 1990, Covina received the 1988 remodel removing the older PTT decor, adding newer decor, and removed the Balcony Stage for Chuck E.'s House Facade.
+In either 1989 or 1990, Covina received the 1988 remodel removing the older PTT decor, adding newer decor, and removed the Balcony Stage for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-In 1991 or 1992, Covina received a major remodel, this time changing the logo and road sign to 'Chuck E. Cheese's Pizza', added checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor. Around 1993 or 1994, the Chuck E.'s House Facade stage was replaced with the 2-Stage.
+In 1991 or 1992, Covina received a major remodel, this time changing the logo and road sign to 'Chuck E. Cheese's Pizza', added checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor. Around 1993 or 1994, the Chuck E.'s House Facade stage was replaced with the [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
 
-Around 1997 or 1998, Covina would receive the so called 'Phase 3' remodel which removed all older 90's decor, added newer decor, and added SkyTubes.
+Around 1997 or 1998, Covina would receive the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel which removed all older 90's decor, added newer decor, and added SkyTubes.
 
 In 2006-2007, Covina received the 2005 remodel removing older decor, removing the Showroom Walls, Balcony Seating, and relocating the stage.
 
-Currently, as of February 2023, the location still has the 2005 Remodel and the 2-Stage. The location also had the last helicopter lights but were removed in August 2022.
+The location also had the last helicopter lights but were removed in August 2022. The Chuck Cyberamic was close to not working but moved a little bit in July 2023. 
+
+In the summer of 2023, the stage was stuck in random mode. This was likely due to a technical error with the Navori system that affected other locations. The location would remain like this until getting the 2.0 remodel. 
+
+In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel), and had removed its 2-Stage in favor for a Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 ##Stages##
 {| class='wikitable'
 !Stage
@@ -30,25 +35,30 @@ Currently, as of February 2023, the location still has the 2005 Remodel and the 
 !Removed
 !Notes
 |-
-|Portrait Stage
+|Cyberamics Portrait / Shelf Stage (Portrait Stage)
 |August 1980
-|1981-1982
-|
+|1981/1982
+|2nd oldest CEC location.
 |-
-|Balcony Stage
-|1981-1982
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
+|1981/1982
 |1989/1990
-|
+|One of many installed in California.
 |-
-|Chuck E.'s House Facade
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
 |1989/1990
 |1993/1994
-|
+|One of many installed in California.
 |-
-|2-Stage
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |1993/1994
-|Still In Use
-|Second oldest Chuck E. Cheese store.
+|December 2023
+|One of many installed in California.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|December 2023
+|Still in Use
+|One of many installed in California, 2021 Model.
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -58,23 +68,23 @@ Currently, as of February 2023, the location still has the 2005 Remodel and the 
 |-
 |Chuck E. Cheese (Cyberamic)
 |N/A
-|In store.
+|Destroyed
 |-
 |Pasqually (Cyberamic)
 |N/A
-|In store.
+|Destroyed
 |-
 |Mr. Munch (Cyberamic)
 |N/A
-|In store.
+|Destroyed
 |-
 |Jasper T. Jowls (Cyberamic)
 |N/A
-|In store.
+|Destroyed
 |-
 |Helen Henny (Cyberamic)
 |N/A
-|In store.
+|Destroyed
 |-
 |Clapper Board
 |N/A
@@ -92,11 +102,14 @@ Currently, as of February 2023, the location still has the 2005 Remodel and the 
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |N/A
-|In store.
+|Destroyed
 |}
-##Gallery##
-(W.I.P)
-##Videos##
-(W.I.P)
+
+## Gallery ##
+<gallery>
+File:Covina exterior.png|Covina 1989 (PC: Youtube)
+File:Covina.jpg|Covina's exterior in 2019. (PC: Google Maps)
+</gallery>
+## References ##

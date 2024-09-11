@@ -2,25 +2,24 @@
 title = "East Hanover, NJ (145 Route 10)"
 draft = false
 tags = []
-date = 2023-08-15T19:51:48Z
+date = 2024-06-25T18:50:37Z
 
 [Article]
 contributors = ["47.17.236.200","CorrectorMan","Cecnj98","CEC New Jersey","Tux Chuck","Cheeseclassic"]
 gallery = []
 +++
-**145 Route 10** Chuck E. Cheese's Pizza that opened on 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day.
-
-This location received the 2.0 remodel in October 2022 to the south of [Edison, NJ (1120 Route 1)]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}) will be get a 2.0 in September/October 2022.
+{{Generic|image=2.0 East Hanover.jpg|desc=2.0 of Exterior}}
+**_145 Route 10**_ is a _Chuck E. Cheese_ that opened on October 31, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day as a 2.0.
 
 ## History ##
 
-East Hanover opened on 1994 as a Chuck E. Cheese's Pizza with a 1-Stage. Due to New Jersey gambling laws, the store opened without any ticket redemption system or skee-ball type games. 
+The building East Hanover occupies was built in 1993 as a two floor multi-store complex building and a parking garage directly behind it. The second floor, unlike the first, has two sides separated by a wall which can be accessed by elevators on both sides of the building (and post 2009, inside the Chuck E Cheese). The AMC Theater next to it was the first store to open in that little plaza in December 1993 and stores opened in the building afterward. The CEC opened as Chuck E. Cheese's Pizza on October 31, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Due to New Jersey's gambling laws, there weren't any ticket redemption for game. According to a former employee, East Hanover had Helen and Jasper walkarounds in the 90's.  
 
-East Hanover remodeled to the update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2009. During the '09 remodel, Chuck E. Cheese's opened a lease on the adjacent storefront, and the wall separating Chuck E. Cheese's and the next-door property was removed, along with the existing merchandise closest. This nearly doubled the unit's square-footage. Tickets and redemption games were also added under the New Jersey Tickets Per Token System. The store was also slotted to receive a used [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage in 2017, presumptively from the [Wilmington, DE (3601 Silverside Rd)]({{< ref "wiki/Wilmington, DE (3601 Silverside Rd).md" >}}) store. This was cancelled upon the announcement of the 2.0 test concept.
+In Mid 2009, around the same time as [Edison, NJ (1120 Route 1)]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}), East Hanover received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (Phase 4 remodel), removing showroom walls, balcony seating, replaced 90s decor with Phase 4 posters and artwork, added purple walls, changed the exterior, and most notably, relocated the 1-Stage and added a second floor to the location. The Golftec that previously occupied the second-floor space CEC took over moved next door prior to the remodel. 
 
-The store was remodeled again to 2.0 in October 2022. The store's of June 2023, East Hanover still has the 2.0 Remodel & 2021 Model Dance Floor + Video Wall.
+It was planned to get a Circles of Lights stage in the mid 2010's similar to Edison but was cancelled upon the announcement of 2.0 in 2017. 
 
-The 2.0 remodel retained East Hanover's existing front doors, cashwrap countertops, salad bars, soda machines, and back-of-house equipment. New paint, signage, ticket blaster, carpeting, and other common 2.0 features were installed.
+Starting in October 2022, the location received the 2.0 remodel, removing the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) for a Dance Floor and Video Wall. As of August 2023, East Hanover remains like this. 
 
 ## Stages ##
 {| class='wikitable'
@@ -31,15 +30,20 @@ The 2.0 remodel retained East Hanover's existing front doors, cashwrap counterto
 !Notes
 |-
 |[1-Stage]({{< ref "wiki/1-Stage.md" >}})
-|1994
+|October 1994
 |October 2022
-|One of six 1-Stages installed in New Jersey. 2nd to be removed, 1st to be removed in a 2.0 remodel, not by a closure like [Paramus, NJ (221 South Dr)]({{< ref "wiki/Paramus, NJ (221 South Dr).md" >}}) back in 2010.
+|One of six in New Jersey. 
 |-
 |Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |October 2022
 |Still In Use
-|2021 Model. Installed the [Wilmington, DE (3601 Silverside Rd)]({{< ref "wiki/Wilmington, DE (3601 Silverside Rd).md" >}}) will be a grand-opening in October 20, 2022.
+|2021 Model. 
 |}
+
+## Gallery ##
+<gallery>
+145-State-Route-10-East-Hanover-NJ-Building-Photo-8-LargeHighDefinition.jpg|East Hanover's exterior until 2009
+</gallery>
 
 ## Animatronics ##
 {| class='wikitable'
@@ -50,7 +54,7 @@ The 2.0 remodel retained East Hanover's existing front doors, cashwrap counterto
 |-
 |Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1993
-|Owned by a private collector. Fur and ears portion of mask at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
+|Owned by a private collector. Fur and ear portion of mask at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
 |-
 |Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
@@ -58,13 +62,13 @@ The 2.0 remodel retained East Hanover's existing front doors, cashwrap counterto
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1993
-|Destroyed. Some of the remains owned by a private collector. 
+|Destroyed. Remains owned by private collector. 
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1993
-|Destroyed. Some of the remains owned by a private collector. Mask at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
+|Destroyed. Remains owned by private collector. Mask at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1993
-|Destroyed. Some of the remains owned by a private collector. Drum set at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
+|Destroyed. Remains owned by private collector. Drum set at [Edison]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}}).
 |}

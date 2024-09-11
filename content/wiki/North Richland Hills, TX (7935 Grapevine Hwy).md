@@ -2,44 +2,116 @@
 title = "North Richland Hills, TX (7935 Grapevine Hwy)"
 draft = false
 tags = []
-date = 2023-01-24T20:54:38Z
+date = 2024-07-29T21:41:12Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]
-gallery = []
+gallery = ["NorthRichlandHillsShowbizPizzaExterior.png|North","Countrycenter2.png","countrycenter4.png","country1.jpg","country2.jpg","country4.jpg|The","stageright1.png|The","stageleft","NorthRichlandHillsExterior2008AprilGoogleMaps.png|Street","NorthRichlandHillsExterior2021FebruaryGoogleMaps.png|Street"]
 +++
-**_7935 Grapevine Hwy**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion].
-##History##
-North Richland Hills opened its doors in April 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that North Richland Hills was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, North Richland Hills received the Showbiz Pizza Campground upgrade.
+{{Generic|image=Richlandhills.jpg|desc=Exterior of the location in 2022 after the awnings were removed.}}
+**_7935 Grapevine Hwy, Store #579**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
 
-In around 1991/1992, North Richland Hills received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, North Richland received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. In 2000, North Richland Hills received the Phase 3 remodel which removed the 3-Stage for the Studio C Alpha. North Richland Hills remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, and received a new exterior and also removing some older 90's decor. Around 2010, they would expand the store, removing more old decor and adding new games and tables. As of January 2023, they still have the Alpha stage and the red poles that were from the store's pre-expansion.
 ##Stages##
-North Richland Hills opened with the Rock afire Explosion in April 1982. Unfortunately, there are no photos or videos to exist of North Richland Hills with the Rock afire, or as a ShowBiz in general.
+North Richland Hills opened with the Rock afire Explosion in April 1982. Unfortunately, there are no photos or videos to exist of North Richland Hills with the Rock afire, or as a ShowBiz in general.  Although very little documentation exists back in the ShowBiz days, it can be determined that North Richland Hills was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. In January 1985, this location tested the one of a kind [Country Stage]({{< ref "wiki/Country Stage.md" >}}). Like many ShowBiz locations in the late 1980s, North Richland Hills received the Showbiz Pizza Campground upgrade.
 
-In the 1990s, North Richland Hills received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
+Around 1991, North Richland Hills received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) which converted the show to Munch's Make Believe Band, also keeping their SPP valance up to when they would receive a Studio C (1997) (Studio C), in 2000.<ref name=':0'>https://texashistory.unt.edu/ark:/67531/metapth796171/m1/?q=Chuck%20e%20Cheese</ref>
 
-In 2000, North Richland Hills removed the 3-Stage for the Studio C Alpha stage.
+The stage would remain until around May 2023 when the stage was removed as the store received the 2.0 remodel. 
 {| class='wikitable'
+|+
 !Stage
 !Installed
 !Removed
-!Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |April 1982
-|1991 or 1992
-|
+|1991
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
-|1991 or 1992
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991
 |2000
-|
 |-
-|Studio C Alpha
+|Studio C (1997) (Studio C Alpha)
 |2000
-|Still in use
-|Later used at the [https://chuckepedia.com/wiki/Wilmington,_DE_(3601_Silverside_Rd) Wilmington, DE] location from 2017 until closure.
+|May 2023
+|-
+|Dance Floor + Video Wall
+|May 2023
+|Still in Use.
 |}
+
+##History##
+North Richland Hills opened its doors in April 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the unification remodel years after it would open.
+
+In the Mid-90s the location would receive another major remodel, at the same time receiving [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). Little is known about this location in the 1990s other than the very few videos that has surfaced onto the internet.<ref name=':0' />
+
+Sometime in 2006/2007, the location received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (Cool Chuck Remodel), later having its front expanded into the preexisting parking spaces in 2010which involved erecting a new facade and awnings.
+
+On July 27th, 2019; Chuck E. Con 2019 would be hosted at the location which was also hosted at the [White Settlement, TX]({{< ref "wiki/White Settlement, TX (7750 Scott St).md" >}}) location the day before.
+
+Between 2019-2021, Bird & the Apple TV were removed for unknown reasons.
+
+Then in around 2021-2022, the awnings were removed from the building.
+
+In May 2023, the stage was removed as this location received the 2.0 remodel.
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://texashistory.unt.edu/ark:/67531/metapth796171/m1/?q=Chuck%20e%20Cheese Link]
+|Family Visit. [Awesome Adventure Machine (Show)]({{< ref "wiki/Awesome Adventure Machine (Show).md" >}}) was playing on that day.
+|August - November 1996
+|April 1, 2023
+|-
+|[https://youtu.be/hbSb8AeE6n8 Link]
+|Everybody Have Fun Tonight ([April 2012 Show]({{< ref "wiki/April 2012 Show.md" >}}))
+|April/June 2012
+|June 4, 2012
+|-
+|[https://www.youtube.com/watch?v=R60RWfe07mk Link]
+|Out of this World from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on North Richland Hills' Alpha during Chuck E Con 2019
+|July 27, 2019
+|July 31, 2019
+|-
+|[https://youtu.be/sTuBneLdi5s?t=277 Link]
+|A clip of the North Richland Hills' Alpha can be soon in this video from Chuck E. Con 2019 as it was the location where Day 2 of the event was hosted.
+|July 27, 2019
+|August 24, 2019
+|-
+|[https://www.youtube.com/watch?v=fxtBILU1aWE Link]
+|'Keep Drummin'  from Chuck E. Cheese's Show 1 2016 (Show 1 2016) being performed on North Richland Hills' Alpha.
+|January 2022
+|January 28, 2022
+|-
+|[https://www.youtube.com/watch?v=uYlmplHWCEI Link]
+|Store Tour of the store from March 2022
+|March 2022
+|March 22, 2022
+|-
+|[https://www.youtube.com/watch?v=o_1h-m57cS8 Link]
+|'Game On' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on North Richland Hills' Alpha.
+|April 2022
+|May 3, 2022
+|}
+##Gallery##
+<gallery>
+File:NorthRichlandHillsShowbizPizzaExterior.png|North Richland Hills' exterior as a Showbiz Pizza Place.
+File:Countrycenter2.png
+File:countrycenter4.png
+File:country1.jpg
+File:country2.jpg
+File:country4.jpg|The Store's Fatz Germonino animatronic
+File:stageright1.png|The Store's Klunk animatronic
+File:stageleft (2).png|The Store's Billy Bob Animatronic
+File:NorthRichlandHillsExterior2008AprilGoogleMaps.png|Street View of the store's Exterior in April 2008 before the expansion (PC: Google Maps)
+File:NorthRichlandHillsExterior2021FebruaryGoogleMaps.png|Street View of the store's Exterior in February 2021 back when they still had awnings (PC: Google Maps)
+</gallery>
+
+
 ##Animatronics##
 {| class='wikitable'
 |+
@@ -47,68 +119,69 @@ In 2000, North Richland Hills removed the 3-Stage for the Studio C Alpha stage.
 !Serial
 !Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|7-81 1-14
+|Unknown/Destroyed
+|-
+| [Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|7-81 2-14
+|Unknown/Destroyed
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}}) 
+|7-81 3-14
+|Unknown/Destroyed 
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|7-81 4-14
+|Unknown/Destroyed
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|7-81 5-14
+|Unknown/Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|7-81 6-14
+|Unknown/Destroyed
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|7-81 7-14
+|Unknown/Destroyed
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|7-81 8-14
+|Unknown/Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|7-81 10-14
+|Unknown/Destroyed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|7-81 11-14
+|Unknown/Destroyed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+| N/A
+|Unknown/Destroyed
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|Unknown
+|Unknown/Destroyed
+|-
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Owned by a Private Collector
+|-
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Wink Wink]
-|N/A
-|Unknown/Destroyed
-|-
-|Chuck E. Cheese (32m bot)
-|N/A
-|In store.
-|-
-|Parrot
-|N/A
-|In store.
-|-
-|Pizza Time Clock
-|N/A
-|In store.
 |}
-##Gallery##
-##Videos##
-TODO
 ##References##
 <references />

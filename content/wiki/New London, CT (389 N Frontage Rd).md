@@ -2,29 +2,19 @@
 title = "New London, CT (389 N Frontage Rd)"
 draft = false
 tags = []
-date = 2023-03-02T23:14:29Z
+date = 2024-04-23T22:37:22Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","Cheeseclassic","Tux Chuck"]
-gallery = []
+gallery = ["NewLondon1StageBeforeClosure.jpg|A"]
 +++
-**_3075 Berlin Turnpike**_ is a Chuck E. Cheese that opened in October 29, 1991 as a corporate store with a Road Stage, which is still open to this day.
-
-This location is the first Chuck E. Cheese opened in Connecticut as just Pizza Time Theatres opened 8 years prior to its opening.
-
-There were no Showbiz Pizzas in Connecticut.
-
-The location opened on the same day as the [Norwalk, CA (10949 Firestone Blvd)]({{< ref "wiki/Norwalk, CA (10949 Firestone Blvd).md" >}}) location.
+{{Generic|image=NewLondonExterior2011AugustGoogleMaps.png|desc=A street view photo of the store's exterior back in August 2011 (PC: Google Maps)}}
+**_389 N Frontage Rd, Store #650**_ was a _Chuck E. Cheese's_ that opened on May 16, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on May 11, 2014, due to leasing issues.
 ##History##
-Newington opened on October 29th, 1991 as the first Chuck E. Cheese in Kansas and as a corporate-owned store. Newington opened with the 1988 remodel and originally featured the Road Stage, the Blue and White Awnings, the CU decor, and the checkers around the store. In the mid 1990s, Newington received a minor remodel removing older CU decor for the Record Posters, Colored Chase Lights, and the removal of the Road Stage for the 1-Stage. In the late 1990's, Newington would receive the 'Phase 3' remodel removing older decor for newer decor, and removing the ball pit for SkyTubes. Newington would remain like this until in 2006-2007 when they received the 2005 remodel (Phase 4) removing older Phase 3 decor for newer decor, removing the Showroom Walls, Balcony Seating, relocating the stage, and expanded to fit in more games and tables. Newington would remain like this until in September 2022, when they would receive the 2.0 remodel, this involved removing the Road Stage and replacing it with a [https://chuckepedia.com/wiki/Chuck_E._Live_Stage_(Dance_Floor) Dance Floor + Video Wall]. Strangely, they kept the original 'Chuck E. Cheese's Pizza' road sign shape when it first opened in December 1990. Currently, as of March 2023, Newington still has the 2.0 remodel and Dance Floor + Video Wall.
+New London opened on May 16th, 1994, as a Chuck E. Cheese's Pizza with a 1-Stage (Which was one of three installed in the state of Connecticut). New London opened with a 1992 or 1993 version of the interior stylings from the 1994 SPT Repositioning / Remodel Program. This was one of two New England locations that had a 1-Stage with a Turntable (The other being the [Warwick]({{< ref "wiki/Warwick, RI (1245 Bald Hill Rd).md" >}}) location which that store closed a few months after it was installed, making it the shortest lasting 1-Stage overall). In the Mid-Late 1990s, New London would receive the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel, removing a couple of pieces of older decor for newer decor and removing the ball pit for SkyTubes. The store would remain this way until its closure on May 11th, 2014, due to leasing issues. In 2018, the building was demolished for a Bob’s Discount Furniture and Mattress Store.
+
+As of April 2024, the site is still Bob’s Discount Furniture and Mattress Store.
 ##Stages##
-Originally, Newington featured a Road Stage.
-
-In the Mid 90's, the Road Stage was replaced with the 1-Stage
-
-In September 2022, Newington would replace their 1-Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was the only Road Stage in Connecticut.
-
-As of March 2023, Newington still has the 2.0 Remodel and Dance Floor + Video Wall.
 {| class='wikitable'
 |+
 !Stage
@@ -32,70 +22,75 @@ As of March 2023, Newington still has the 2.0 Remodel and Dance Floor + Video Wa
 !Removed
 !Notes
 |-
-|Road Stage
-|October 1991
-|Mid 90's
-|1st Chuck E. Cheese in Conneticut. Only Road Stage in Conneticut.
-|-
-|1-Stage
-|Mid 90's
-|September 2022
-|One of 3 1-Stages in Connecticut.
-|-
-|[https://chuckepedia.com/wiki/Chuck_E._Live_Stage_(Dance_Floor) Dance Floor] + Video Wall
-|September 2022
-|Still In Use
-|2021 Model.
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
+|May 1994
+|May 2014
+|One of three 1-Stages in Connecticut. One of two in New England with a Turntable. 
 |}
 ##Animatronics##
 {| class='wikitable'
 |+
-!Animatronic
+! Animatronic
+!Manufacturer Date
 !Serial
 !Whereabouts
 |-
-|Chuck E. Cheese (Cyberamic)
-|N/A
-|Destroyed.
+|[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|1993/1994
+|Unknown
+|Unknown.
 |-
-|Helen Henny (Cyberamic)
-|N/A
-|Destroyed.
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|1993/1994
+| Unknown
+|Unknown. Mask was last seen at [Manchester, CT]({{< ref "wiki/Manchester, CT (82 Buckland St).md" >}}) 
 |-
-|Mr. Munch (Cyberamic)
-|N/A
-|Destroyed.
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1993/1994
+|Unknown
+|Unknown.
 |-
-|Jasper T. Jowls (Cyberamic)
-|N/A
-|Destroyed.
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}}) 
+|1993/1994
+|Unknown
+|Unknown. Mask sent to [North Dartmouth, MA]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}), now unknown.
 |-
-|Pasqually (Cyberamic)
-|N/A
-|Destroyed.
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1993/1994
+|Unknown
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1993/1994
 |N/A
 |Destroyed.
 |}
+
 ##Gallery##
 <gallery>
+File:NewLondon1StageBeforeClosure.jpg|A photo of the store's 1-Stage before the store's closure (PC: Unknown).
 </gallery>
+
 ##Videos##
+TODO
 {| class='wikitable'
 |+
 !Link
 !Description
-!Published/ Filmed Date
+!Filmed Date
+!Published Date
+|-
+|[https://www.youtube.com/watch?v=VTzDoOVLHEQ]Chuck E. Cheese's New London, CT July 1994 Footage 
+|Oldest known footage of the location
+|July 1994
+|Feb 20, 2021
 |-
 |
-|
-|
-|-
 |
 |
 |
 |}
+
 ##Trivia##
-*
-*
+
+* New London was one of two 1-Stages in New England to have the 1-Stage with a Turntable, the other was [Warwick, RI (1245 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (1245 Bald Hill Rd).md" >}}) which installed theirs around a similar time frame as New London (Warwick's however replaced a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) instead of being a new store) and closed a few months later, making that store have the shortest lasting 1-Stage and the first overall to be removed from a store (It was then auctioned off in January 1995; the show was them retrofitted into The Traveling Theme Park Band/Zachary and The Other Singing Groups and as of June 2023, the show remains thus way but it's now restored mechanically). New London however kept theirs until closure with numerous changes made to it over the years.

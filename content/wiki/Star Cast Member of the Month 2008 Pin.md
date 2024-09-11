@@ -2,7 +2,7 @@
 title = "Star Cast Member of the Month 2008 Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 2021-12-04T01:06:01Z
+date = 2021-12-04T01:12:23Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -11,7 +11,7 @@ gallery = []
 [[File:18fb2908d28914a3ce6b33cd66ce5cfd.png|thumb|301x301px|Front]]
 The **_Star Cast Member of the Month 2008 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard.
 ##Design##
-The design is similar to the design of the [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) token at the time, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
+The design is similar to the design of the [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) token at the time, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold color. The text on the pin says:
 
 <code>STAR CAST MEMBER OF THE MONTH • 2008 •</code>
 ##Acquirement##

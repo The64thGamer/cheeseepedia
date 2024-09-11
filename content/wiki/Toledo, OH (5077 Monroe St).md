@@ -2,7 +2,7 @@
 title = "Toledo, OH (5077 Monroe St)"
 draft = false
 tags = []
-date = 2023-01-02T04:39:47Z
+date = 2024-07-16T21:49:29Z
 
 [Article]
 contributors = ["Rexburg090","GainerXO","AstridMascotFan2005"]
@@ -15,10 +15,10 @@ Toledo on Monroe opened on September 6th, 1993 along with the [5455 Airport Hwy]
 
 In around 2010-2011, the store expanded their gameroom, adding even more games. 
 
-The store would then remain this way until they remodeled to 2.0 in 2021
+The store would then remain this way until they remodeled to 2.0 in around Late August 2021.
 
 ## Stages ##
-TODO: Stage History
+W.I.P: Stage History
 {| class='wikitable'
 !Stage
 !Installed
@@ -27,23 +27,27 @@ TODO: Stage History
 |-
 |[1-Stage]({{< ref "wiki/1-Stage.md" >}})
 |September 1993
-|2021
+|September 2021
 |One of Seven 1-Stages installed in Ohio
 |-
 |Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
-|2021
+|September 2021
 |Still In Use
 |First 2021 Model in Ohio
 |}
 
 ## Gallery ##
-TODO
+W.I.P
 
 ## Videos ##
 {| class='wikitable'
 !Link
 !Description
 !Footage Date
+|-
+|https://youtu.be/XK8Az2zKNsw?t=2844
+|Toledo Monroe's location installation mentioned in a CEC TV '93 ID spot. Mentioned as 'North Toledo'.
+|September 14, 1993
 |-
 |https://www.youtube.com/watch?v=Dce57JYbtIw
 |Shows the 1-Stage playing the Holiday 1993 Show and Shows some of the store.

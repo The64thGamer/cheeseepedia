@@ -2,35 +2,37 @@
 title = "Dale City, VA (14085 Shoppers Best Way)"
 draft = false
 tags = []
-date = 2022-09-10T17:38:40Z
+date = 2023-08-19T05:52:32Z
 
 [Article]
 contributors = ["Noahrbxt","CECBowlingGreen","Rexburg090","ShowbizMidwest","216.125.34.66","74.96.197.218"]
 gallery = ["Dale"]
 +++
-## The CEC at 14085 Shoppers Best Way Woodbridge Virginia or 'Dale City' opened on February 15th 1993 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The bots came from an ##
-unknown Cyberamics Rocker Stage (Rocker Stage) as Chuck and Helen had PTT movements and Chuck having latex feet. However the store received 2.0 in 2018 due to an 
+**_14085 Shoppers Best Way, Store #71**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese_ location located in Dale City, Virginia; in the Smoketown Stations Shopping Center. The location opened February 15, 1993, with a 2-Stage, which is still open to this day.
 
-exterior fire.
+This location received the 2.0 remodel in 2018 because of an exterior fire.
 
 ## History ##
-Coming soon
+Dale City opened on February 15th, 1993, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store would be remodeled a few times, until March of 2018, when there was a fire outside the building that damaged the building, forcing them to receive the 2.0 remodel. As of March 2023, the store still has the 2.0 remodel. 
 
 ## Stages ##
-The store opened with a 2 stage that had bots from an unknown Cyberamics Rocker Stage (Rocker Stage). They kept their 2 stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, playpass machines, removal of skytubes and stage, and a nicer interior. Dale city was the last Cyberamic store in northern Virginia and the third to last in the state. The final mmbbs in Virginia are [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) and [Richmond, VA (10430 Midlothian Turnpike)]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}).
+The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, Play Pass machines, removal of [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and stage, and a nicer interior. Dale City was the last Cyberamic store in northern Virginia and the third to last in the state; this was also the last 2-Stage in Virginia that didn't come from a closed store. The final MMBB stage in Virginia was [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) which used animatronics from the [Merced]({{< ref "wiki/Merced, CA (721 W Olive Ave).md" >}}) location that closed in 1995.
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
+!Notes
 |-
-|2 Stage
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |February 1993
 |March 2018
+|One of Five installed in Virginia. Last 2-Stage in Virginia that was not from closed store.
 |-
-|Dance Floor
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |March 2018
-|Still being used
+|Still in Use
+|2017 Model. First 2.0 in Virginia.
 |}
 
 ## Animatronics ##
@@ -41,30 +43,35 @@ The store opened with a 2 stage that had bots from an unknown Cyberamics Rocker 
 !Condition
 !Whereabouts
 |-
-|Chuck
-|Unkown
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|Unknown
 |Poor
-|Destroyed
+|Destroyed.
 |-
-|Helen
-|Unkown
+|Guest Star / Helen Henny (Cyberamic) (Guest Star/ Helen Henny (Cyberamic))
+|Unknown
 |Poor
-|Destroyed
+|Destroyed.
 |-
-|Munch
-|Unkown
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
 |Horrible
-|Destroyed
+|Destroyed.
 |-
-|Jasper
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
 |Okay
-|Destroyed
+|Destroyed.
 |-
-|Pasqually
-|Unkown
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
 |Horrible
-|Destroyed
+|Destroyed.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1992-1993
+|N/A
+|Destroyed.
 |}
 
 = Gallery =
@@ -77,17 +84,16 @@ File:Dale city image1.png|The stage decorated for Christmas
 |+
 !Link
 !Description
+!Date Filmed
 !Date Published
 |-
-|
-|
-|
+|[https://www.youtube.com/watch?v=oN-pNft1Ff8 Link]
+|A clip of 'Party Place' from one of the 1994 shows being performed on Dale City's 2-Stage
+|May-November 1994
+|September 1, 2021
 |-
-|
-|
-|
-|-
-|
-|
-|
+|[https://www.youtube.com/watch?v=vGF3Bx5TjE8 Link]
+|A clip of 'America' from being performed on Dale City's 2-Stage
+|Summer 2000
+|March 13, 2021
 |}

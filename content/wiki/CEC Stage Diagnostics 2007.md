@@ -2,13 +2,14 @@
 title = "CEC Stage Diagnostics 2007"
 draft = false
 tags = []
-date = 2022-06-28T00:10:26Z
+date = 2023-01-31T01:16:07Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]
-gallery = []
+gallery = ["Cecstagediag.png|CEC","2007diagscecnonscan.jpg|CEC"]
 +++
 ##Showtape Scans / Images:##
 <gallery>
-Cecstagediag.png|CEC Stage DVD
+File:Cecstagediag.png|CEC Stage DVD Scan
+File:2007diagscecnonscan.jpg|CEC Stage DVD
 </gallery>

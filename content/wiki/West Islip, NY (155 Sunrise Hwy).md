@@ -2,41 +2,49 @@
 title = "West Islip, NY (155 Sunrise Hwy)"
 draft = false
 tags = []
-date = 2023-09-27T01:01:27Z
+date = 2024-07-12T23:50:08Z
 
 [Article]
 contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
 gallery = ["I"]
 +++
-[[File:West Islip.jpg|thumb|West Islip's exterior.]]
-**_155 Sunrise Hwy**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998 and is still open today with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
+[[File:West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>]]
+**_155 Sunrise Hwy, Store #511**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998.
 
 ## Stage ##
-West Islip opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). The stage went through some minor changes throughout the years, like the curtains being disabled, the change of outfits, and the bot ceasing all programming.
+The West Islip location opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) in 1998. as of July 1st 2024 the Stage was removed and Destroyed.
 
 ## History ##
-West Islip opened on December 10, 1998 with the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel and a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). Unfortunately, not much information on West Islip exists from the 1992 remodel era.
+In the late 2000s, West Islip received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). It is unknown if the location previously had showroom walls, which would have been removed. The exterior was unchanged after the 2005 remodel, sporting the original logo from its opening. 
 
-In the late 2000s, West Islip received the 2005 update to the CEC 2005 Remodel Program, removing all 1990s decor, removing the showroom walls, and added purple walls. The exterior strangely remained the same. The exterior was changed in 2016 due to a minor plaza remodel. West Islip remains like this today.
+The exterior was refreshed in 2016 due to a minor plaza remodel, aligned to that of the CEC 2015 Update Program.
 
-## Videos ##
+on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). and on that Day the [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) was removed and Destroyed.
+
+## Stages ##
 {| class='wikitable'
 |+
-!Link
-!Description
-!Owner
-!Publish Date
+!Stage
+!Installed
+!Removed
+!Notes
 |-
-|[https://www.youtube.com/watch?v=ggiWr51GOSM&ab_channel=CECBros. (11) Chuck E. Cheese Store Tour (West Islip, New York) - YouTube]
-|Store tour from 2016.
-|CEC Bros.
-|January 29, 2016
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+|December 10, 1998
+|July 1 2024
+|N/A
+|-
+|[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}})
+|July 1 2024
+|still in use
+|2021 Model
+|-
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|July 1 2024
+|still in use 
+|2021 Model
+|-
 |}
-
-## Gallery ##
-<gallery>
-File:I don't know what to name this..jpg|Before 2016
-</gallery>
 
 ## Animatronics ##
 {| class='wikitable'
@@ -47,17 +55,48 @@ File:I don't know what to name this..jpg|Before 2016
 |-
 |[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |019 (NO R&D)
-|Currently in use
+|Removed/Destroyed
 |-
 |[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
-|Currently in use
+|Taken by Corporate
 |-
 |[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
-|Currently in use
+|Taken by Corporate 
 |-
 |[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
-|Currently in use
+|Taken by Corporate
 |}
+
+## Videos ##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Publish Date
+|-
+|[https://www.youtube.com/watch?v=ztXtRjrkWN0 Chuck E. Cheese West islip, NY 2001 Footage]
+|Footage of the showroom featuring the [Chuck E. Shuffle]({{< ref "wiki/Chuck E Shuffle.md" >}}) live show.
+|2001
+|-
+|[https://www.youtube.com/watch?v=ggiWr51GOSM&ab_channel=CECBros. (11) Chuck E. Cheese Store Tour (West Islip, New York) - YouTube]
+|Store tour from 2016.
+|January 29, 2016
+|-
+|[https://www.youtube.com/watch?v=wOZaoqokEGQ. STAGE REMOVED! Chuck E. Cheese West Islip, NY 2.0 Update]
+|Video on Studio C Alpha Now replaced by Video.
+|July 1, 2024
+|-
+|[https://youtu.be/YjTHsDeoqcc?si=DnM5ryQscSakaDq-. Chuck E. Cheese West Islip 2.0 Store Tour]
+|video on the stores 2.0 Remodel
+|July 12, 2024
+|}
+
+## Gallery ##
+<gallery>
+File:I don't know what to name this..jpg|Before 2016
+</gallery>
+
+## References ##

@@ -2,12 +2,10 @@
 title = "El Cerrito, CA (10 El Cerrito Plaza)"
 draft = false
 tags = []
-date = 2024-05-12T06:57:35Z
+date = 2024-05-14T17:22:50Z
 
 [Article]
 contributors = ["ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}**_El Cerrito, CA (10 El Cerrito Plaza)**_ was a planned _Pizza Time Theater_ location that was planned to open inside a popular restaurant spot, but was ultimately cancelled due to backlash from local residents.
-
-This store is not to be confused with the [20 El Cerrito Plaza location]({{< ref "wiki/El Cerrito, CA (20 El Cerrito Plaza).md" >}}), which ended up being built and opened in 1993, but closed in July 2000.
+text/x-wiki

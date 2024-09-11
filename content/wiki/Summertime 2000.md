@@ -2,13 +2,10 @@
 title = "Summertime 2000"
 draft = false
 tags = []
-date = 2021-12-10T14:17:35Z
+date = 2023-10-29T01:42:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Ceclife13","BurgersNuggs445"]
 gallery = []
 +++
-##Showtape Scans / Images:##
-<gallery>
-sum00disc.png|Studio C DVD
-</gallery>
+text/x-wiki

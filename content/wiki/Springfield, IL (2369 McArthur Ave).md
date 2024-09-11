@@ -2,101 +2,192 @@
 title = "Springfield, IL (2369 McArthur Ave)"
 draft = false
 tags = []
-date = 2023-01-25T04:52:25Z
+date = 2024-07-26T14:49:06Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","Cecbird","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Tux Chuck","The 64th Gamer","Livelycheese","CECMentor","Veronancy","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","OMMEnterainment"]
-gallery = []
+gallery = ["Springfieledilexterior1992.png|Exterior","SpringfieldPhase3.png|Springfield's","Springfield","Spring2.0.png|The"]
 +++
-**_2369 McArthur Ave**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 22, 1982 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]. It is located in the Town and Country Shopping Center.
-##History##
-Springfield opened its doors on April 22nd, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Springfield received the Showbiz Pizza Campground upgrade.
+{{Generic|image=SpringfieldILExterior2022SeptemberGoogleMaps.png|desc=Street view of the exterior in September 2022 (PC: Google Maps)}}
+**_2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47**_ is a _Chuck E. Cheese’s_ that opened on April 22, 1982, as a corporate owned _ShowBiz Pizza Place_ with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day, with the last [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency (Legacy Location).
 
-In around 1990, Springfield received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Springfield received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor and SkyTubes. Springfield remained this way until sometime in 2008-2009 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In 2011, they received the CU 1-Stage along with [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}), and [Columbus, GA (3201 Macon Rd)]({{< ref "wiki/Columbus, GA (3201 Macon Rd).md" >}}). As of January 2023, they still have the CU 1-Stage.
-##Stages##
-Springfield opened with the Rock afire Explosion in April 1982. Unfortunately, there are some photos but no videos to exist of Springfield with the Rock afire, or as a ShowBiz in general.
-
-In 1990, Springfield received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into the Munch’s Make Believe Band 3-Stage.
-
-In 2011, Springfield removed the 3-Stage for the CU 1-Stage.
+## Stages ##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |April 1982
-|1990
-|
+|1991
+|4th Showbiz Pizza store to open in Illinois.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
-|1990
-|2011
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991
+|Early 2011
+|One of 10 ShowBiz stores in Illinois to undergo Concept Unification.
 |-
-|CU 1-Stage
-|2011
-|Still in use
-|1 of 3 stages like this
+|[CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}})
+|Early 2011
+|Still in Use
+|One of three installed in-store. Last CU 1-Stage in existence. Last Creative Engineering bots in the state and region. Will be kept in-store throughout the 2.0 remodel.
+|-
+|Dance Floor
+|June 15, 2024
+|Still in Use
+|2019 Model.
 |}
+
+##History##
+Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place in Illinois (4th after [Darien]({{< ref "wiki/Darien, IL (7409 Cass Ave).md" >}}), [Bloomingdale]({{< ref "wiki/Bloomingdale, IL (132 E Lake St).md" >}}), [Arlington Heights]({{< ref "wiki/Arlington Heights, IL (955 W Dundee Rd).md" >}})). It was originally and currently a corporate-owned store. Like many other ShowBiz locations, it had a typical ShowBiz layout. Although some little documentation exists back in the ShowBiz days, it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package). Like many ShowBiz locations in the late 1980s, Springfield received the Showbiz Pizza Campground upgrade and the 80s remodel.
+
+In 1991, Springfield received Concept Unification. This converted the show to Munch's Make Believe Band. In around the Mid-Late 90s, Springfield would receive [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) and [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which removed some early 90s decor, added new decor, and added SkyTubes. Springfield remained this way until Early 2011, when they received the 2005 remodel and the [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}). This also included tearing down the Showroom walls & balcony seating, removing 90s decor, expanding the store, adding bright florescent lighting, & adding purple walls. 
+
+On June 11th, 2024, the store would begin its Legacy Store variant of the CEC 2018 2.0 Remodel Program (2.0 Remodel). On June 14th, 2024, Springfield would receive parts from [Whitehall, PA]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}})'s CU-1 Stage and [Laurel, MD]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}})'s 3-Stage from the [SPT Distribution Center]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}). Once the parts arrived, mechanical repairs began taking place on the show. The purple walls would be repainted to white and the Gameroom TVs were installed in the store. The store would also keep the majority of its 2005 remodel art.
+
+On July 3rd, 2024, CEC announced that the Grand Reopening would take place on the 25th.
+
+##Arcade Machines##
+### Skill ###
+
+* Nerf Arcade
+* Monopoly Roll 'N Go
+* Jurassic Park Arcade
+* Birthday Party
+* Jackpot Xtreme
+* Full Tilt
+* Operation
+* Big Bass Wheel Pro
+* Water Blast
+* Milk Jug Toss
+* Kung Fu Panda Dojo Mojo
+* The Simpsons Soccer
+* Slam-A-Winner
+* Fruit Ninja FX
+* NBA Hoops (2 units)
+* Alley Roller Classic (6 units)
+* 2 Minute Drill
+* Spongebob Bikini Bottom Bowling
+* Avengers Coin Pusher (Single)
+* Sky Riders
+* Ice Man
+* Paw Patrol
+* Dead Heat Street Racing (2 units)
+* Mad Wave Motion Theater
+* Terminator Salvation
+* [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+* Frogger
+* Jumpin’ Fantasy
+* SideShow
+* Spongebob Ticket Coaster
+* Redhot
+* Fishbowl Frenzy
+* Deadstorm Pirates
+* Pump Jump
+* Robin Hood
+* Nicktoons Nitro Racing
+* [Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
+
+#### Coin Action ####
+
+* Spongebob Pineapple Arcade
+* The Price is Right Plinko
+* The Simpsons Kooky Carnival
+
+### Kiddie ###
+
+* Chuck E.'s Fun Photos Photo Booth
+* Pirate's Hook
+* Angry Birds Whacker
+* Astro Invasion
+* Space Ship
+* Funny Hamster
+* Dog Pounder
+* Barney Tractor
+* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
+
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://www.youtube.com/watch?v=38Rr581JRHQ Link]
+|A video showcasing the store in 2022.
+|August 3, 2022
+|August 5, 2022
+|-
+|[https://www.youtube.com/watch?v=HEVJ7S8y3r8 Link]
+|A video showcasing the store in 2023.
+|July 27, 2023
+|Aug 2, 2023
+|-
+|[https://www.youtube.com/watch?v=3XBkBaGCgKg Link]
+|A video showcasing the store undergoing the 2.0 remodel in 2024.
+|June 15, 2024
+|June 17, 2024
+|}
+
+## Gallery ##
+<gallery>
+File:Springfieledilexterior1992.png|Exterior (1992)
+File:SpringfieldPhase3.png|Springfield's Phase 3 exterior. (PC: Unknown)
+File:Springfield cu1stage.png|Springfield, IL's CU-1 Stage pre-remodel.
+File:Spring2.0.png|The store's 2.0 remodel showing the Gameroom TVs and purple walls repainted to white. (PC: Oden Hennies/Odens Movie Magic)
+</gallery>
 ##Animatronics##
 {| class='wikitable'
-|+
 !Character
 !Serial
 !Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
-|N/A
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|7-81 1-16
 |In store.
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
-|N/A
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+| 7-81 2-16
 |In store.
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|N/A
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|7-81 3-16
 |In store.
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|N/A
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|7-81 4-16
+|In store. Last Beach Bear guitar in a location.
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|7-81 5-16
 |In store.
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|In store.
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|7-81 6-16
+|Dismantled, parts kept in storage.
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|N/A
-|Unknown/Destroyed
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) 
+|7-81 7-16
+|Head owned by a private collector.
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Unknown/Destroyed
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|7-81 8-16
+|Unknown, possibly destroyed.
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|N/A
-|Unknown/Destroyed
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|7-81 10-16
+|Unknown, possibly destroyed.
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Unknown/Destroyed
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|7-81 11-16
+|Unknown, possibly destroyed.
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
-|Unknown/Destroyed
+|Unknown, possibly destroyed.
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Wink Wink]
-|N/A
-|Unknown/Destroyed
+|Unknown, possibly destroyed.
 |}
-##Gallery##
-##Videos##
-TODO
-##References##
-<references />

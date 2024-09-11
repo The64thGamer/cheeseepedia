@@ -2,24 +2,19 @@
 title = "Tupelo, MS (4383 Mall Dr)"
 draft = false
 tags = []
-date = 2023-08-15T16:42:13Z
+date = 2024-08-02T18:12:39Z
 
 [Article]
 contributors = ["47.17.236.200","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]
 gallery = []
 +++
-**4383 Mall Dr** was a Chuck E. Cheese's that opened in 2008 with a Studio C 2000 (Studio C Beta).
-
-To south from the [Jackson, MS (6352 Ridgewood Court Rd)]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}).
+{{Stub}}{{Generic|image=Tupelo’s Exterior 2021.jpg|desc=Exterior, 2021 (PC: LoopNet)}}
+**4383 Mall Dr** is a _Chuck E. Cheese's_ that opened in April 2008 with a [Studio C Beta, 16M]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day.
 
 ## History ##
-In 2008 will be a Chuck E. Cheese's before grand-opening. [Jackson, MS]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) was Chuck E. Cheese's was opened in June of 2009.
 
 ### Artwork ###
-The Melvin franchise locations received 'Star Stage' Artwork in 2010 that would end up replacing what ever was in the showroom. This caused this locations 'Kids Posters' to have the shortest time displayed in a location.
-
-###New Games###
-Ever since this location opened with the same games from their previous location, they wouldn't receive much or at all new games until around 2019.
+The Melvin franchise locations received 'Star Stage' Artwork in 2010, that would end up replacing what ever was in the showroom. This caused this locations 'Kids Posters' to have the shortest time displayed in a location.
 
 ## Stages ##
 {| class='wikitable'
@@ -28,15 +23,9 @@ Ever since this location opened with the same games from their previous location
 !Removed
 |-
 |Studio C 2000 (Studio C Beta)
-|March 2010
-|Still in Use
+|April 2008
+|Still In Use
 |}
-
-## Gallery ##
-TODO
-
-## Videos ##
-TODO
 
 ## Animatronics ##
 {| class='wikitable'
@@ -45,9 +34,9 @@ TODO
 !Serial
 !Whereabouts
 |-
-|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |Unknown
-|In Store
+|Removed from stage, whereabouts unknown<ref>https://www.youtube.com/watch?v=FlQJsrFg6xk</ref>
 |}
 
 ## Trivia ##

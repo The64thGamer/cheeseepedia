@@ -2,13 +2,94 @@
 title = "Chuck E. Cheese's Show 7 2015"
 draft = false
 tags = []
-date = 2021-12-10T13:11:28Z
+date = 2022-09-27T21:58:12Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Bullseye123"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese's Show 7 2015 
+|image=Show715.png
+|date=November 2nd 2015
+|studioc=y
+|studiochd=y
+|dvdcu=y
+|dvdcyber=y
+}}
+
+**_Show 7 2015**_ released November 2nd 2015 featuring five songs
+
+This was created to play from November 2nd 2015 - December 27th 2015. This show features 5 songs! Which is the most for 2015. 
+
+## Show List: ##
+
+# **Intermission 1** 
+## [[File:New Graphic.png]] One Direction - 'Drag Me Down'
+## CEC Promo - 'Fundraising'
+## [[File:New Graphic.png]] Josh & The Jamtones - 'Great Big World' (Live at Chuck E. Cheese's)
+# **Skit 1** 
+## Chuck E. Cheese - 'Let's Play Some Games'
+# [[File:New Graphic.png]] **Intermission 2** 
+## Pentatonix feat. Tori Kelly - 'Winter Wonderland/Don't Worry Be Happy'
+## Cartoon Network - Adventure Time - 'Once a Year'
+## Bruno Mars - 'Treasure'
+## CEC Promo - 'Mac Cheesy'
+## Train - 'Shake up Christmas'
+# **Skit 2** 
+## Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?'
+# [[File:New Graphic.png]] **Intermission 3** 
+## Ed Sheeran - 'Photograph'
+## Cartoon Network - Teen Titans Go - 'Christmas'
+# **Skit 3** 
+## Jasper T. Jowls - 'Snowman'
+# [[File:New Graphic.png]] **Intermission 4** 
+## Mariah Carey - 'All I Want For Christmas Is You'
+## Josh & The Jamtones - 'Chanukah Time'
+## CEC Promo - 'Party Galaxy App'
+# **Skit 4**
+## Chuck E. & Helen - 'Very Merry Christmas'
+# [[File:New Graphic.png]] **Intermission 5** 
+## American Authors - 'Go Big or Go Home'
+## Cartoon Network - We Bare Bears - 'Feel Good Montage'
+## CEC Promo - 'Birthday Spot'
+## Cartoon Network - Steven Universe - 'Snow'
+# [[File:New Graphic.png]] **Skit 5**
+## Chuck E. & Friends - 'Holiday Medley'
+### Jingle Bells
+### Jolly Old St. Nicholas
+### I Have a Little Dreidel
+### Up On The Housetop
+### Deck the Halls
+### We Wish You a Merry Christmas
+# [[File:New Graphic.png]] **Intermission 6** 
+## Josh & The Jamtones - 'Tailfeather' (Live at Chuck E. Cheese's)
+## Cartoon Network - Gumball Universe - 'Santa'
+## Cee Lo & The Muppets - 'All You Need Is Love'
+## Alvin, The Chipmunks, The Road Chip - 'Pit Stop at CEC' (Film Clip)
+
+## Lives: ##
+
+* Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
+* Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
+* Do The Chuck E. 2015 (3stage, Cyberamic, Studio C,Weigl)
+* Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
+* Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
+* Do The Roll (3stage, Cyberamic, Studio C,Weigl)
+* Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
+* Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
+
 ##Showtape Scans / Images:##
 <gallery>
-sarty.jpg|CEC-Stage DVD
+Show715Studioc.jpg|Studio C DVD
+Holiday15cecstage.png|CEC-Stage DVD
 </gallery>
+
+## Trivia: ##
+
+* The '(Live at Chuck E. Cheese's)' Intermission was filmed at the Natick, MA Chuck E. Cheese's on June 29th 2015.
+* Share The Joy (2014) exists in its entirety on the Studio C SD DVD however the show is programmed to loop back to Intermission 1 before it ever plays.
+* Before 'What Do You Get a Sasquatch for Christmas?' and 'Snowman' feature small clips of the Acts format. 'What Do You Get a Sasquatch for Christmas?' Shows the act from after Munch says 'Look at all this snow out here' and 'Snowman' shows the act from once they're viewing the Snowman.
+
+* Holiday 2015 was reedited and refilmed to fix the errors created by the removal of the act format and changes with certain characters being used. The main shot featuring the whole band singing was refilmed to give Pasqually back his mustache. Along with that all footage showing off Nigel and Betty was removed. The show was completely reedited to remove all footage showing Pasqually with no mustache and all full and up-close shots of Nigel/Betty.
+* This was the final showtape to feature the Department 18 logo on the Showtape DVDs. Starting with Show 1 2016 it was removed and no mention of it has been seen since.

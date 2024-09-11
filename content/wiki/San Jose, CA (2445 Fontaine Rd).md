@@ -2,13 +2,403 @@
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
 tags = ["Store List"]
-date = 2022-08-21T15:39:26Z
+date = 2024-09-07T17:07:38Z
 
 [Article]
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]
-gallery = []
+gallery = ["Toyst1.jpg|Magic","Toyst2.jpg|Magic","Magick.jpg|Magic","CASJOchuckecheese","FontaineExterior1992.png|1992","January","Tully1.png|May","Tully20071.jpg|May","Tully20072.jpg|May","Tully20073.jpg|May","Tully20074.jpg|May","Tully20075.jpg|May","Tully20076.jpg|May","Tully20077.jpg|May","Tully20078.jpg|May","Tully20079.jpg|May","Tully200710.jpg|May","Tully200711.jpg|May","Tully200712.jpg|May","Tully200713.jpg|May","Tully200714.jpg|May","Tully200715.jpg|May","Tully200716.jpg|May","Tully200717.jpg|May","Tully200718.jpg|May","Tully200719.jpg|May","Tully200720.jpg|May","Tully200721.jpg|May","Tully200722.jpg|May","Tully200723.jpg|May","Tully200724.jpg|May","Tully200725.jpg|May","January","Tully200726.jpg|May","Tully200727.jpg|May","Tully200728.jpg|May","Tully200729.jpg|May","Tully200730.jpg|May","Tully200731.jpg|May","Tully200732.jpg|May","Tully200733.jpg|May","Tully200734.jpg|May","Tully200735.jpg|May","Tully200736.jpg|May","Tully200737.jpg|May","Tully200738.jpg|May","Tully200739.jpg|May","Tully200740.jpg|May","Tully200741.jpg|May","Tully200742.jpg|May","Tully200743.jpg|May","Tully200744.jpg|May","Tully200745.jpg|May","Tully200746.jpg|May","Tully200747.jpg|May","Tully200748.jpg|May","Tully200749.jpg|May","Tully200750.jpg|May","Tully200751.jpg|May","Tully200752.jpg|May","Tully200753.jpg|May","Tully200754.jpg|May","Tully200755.jpg|May","Tully200756.jpg|May","Tully200757.jpg|May","Tully200758.jpg|May","Tully200759.jpg|May","Tully200760.jpg|May","Tully200761.jpg|May","Tully200762.jpg|May","Tully200763.jpg|May","Tully200764.jpg|May","Tully200765.jpg|May","Tully200766.jpg|May","Tully200767.jpg|May","Tully200768.jpg|May","Tully200769.jpg|May","Tully200770.jpg|May","Tully200771.jpg|May","Tully200772.jpg|May","Tully200773.jpg|May","Tully200774.jpg|May","Tully200775.jpg|May","Tully200776.jpg|May","Tully200777.jpg|May","Anothernewtullypic1.png|May","Tully200778.jpg|May","Tully200779.jpg|May","Tully200780.jpg|May","Candd.png|Cease","SanJoseTullyExterior.jpg|Exterior","Tullymi23.png|Cyberamic"]
 +++
-**_San Jose (Tully), CA (2445 Fontaine Rd)**_ is a Chuck E. Cheese's location that opened in December of 1981 with a Balcony Stage.
+{{NoSources}}{{Generic|image=Tully20.jpg|desc=Exterior as of August 13, 2021}}
+**_San Jose, CA (2445 Fontaine Rd), Store #206/3001**_ also known as **_Tully Road,**_ is a Chuck E. Cheese location that opened in December of 1981 with a Balcony Stage.
 
-[[File:Tully1.png|thumb|Tully in May 2007]]
-This store is known for being the largest in the country. The building was formerly a Magic Village Toy Store before becoming a Pizza Time Theatre in 1981. It went through multiple remodels and phases before finally receiving the 2.0 remodel in 2018.
+This store is known for being the largest in the United States. The building was formerly the Magic Village Toy Store before becoming a Pizza Time Theatre in 1981. This one-of-a-kind location is also known for having a 30-foot Chuck E. Cheese statue facing toward a neighboring road. 
+
+##Stages##
+When the location opened, it housed a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and then later, Chuck E.'s House Facade (Chuck E.’s House Facade). Lounge / Cabaret acts consisted of The King, Dollie Dimples and the Beagles. The Beagles were initially placed in a display window to entertain guests waiting in line to enter the building, in the mid-eighties they were moved inside the building on the first floor. These cabaret acts would be removed before 1991. This location also had two sets of Warblettes, one rainbow, one black.  
+
+Between 1993 and 1994, the Chuck E.'s House Facade was removed and the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) was Installed. 
+
+In 2001, Studio C (1997) (Studio C) was installed. Because it was one of the last originals installed in a location, the Chuck E. Cheese animatronic received the 'Cool Chuck' outfit. As for the Cyberamic characters, Chuck E. Cheese Cyberamic was put on display at the front entrance of the store, while the other characters were sold off to different people and or parted out for different locations in the area. 
+
+In the 2010s, the [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) and Blue Screen camera were removed. In December 2018 the location was remodeled and received the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) then the largest in the chain Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) in May 2022. 
+
+##History##
+
+### Pizza Time Theatre###
+In 1974, the building opened as Magic Village Toy Store. It featured three giant toy soldiers enclosed in giant display windows. It gained a reputation for being such a large toy store. A local legend about the store told that a girl tragically once died from falling from the store's third floor. Locals said that the ghost of the girl haunts the building to this day.<ref>https://www.facebook.com/hauntedhoneymoon/posts/san-jose-chuck-e-cheese-on-fontaine-roadthe-tullyfontaine-location-has-been-rumo/104722542963702/</ref> It went out of business sometime in the 1970s and briefly became a discotheque before reopening as a PTT in 1981.
+
+The location had a vast kiddie area, being one of the few locations to feature Chuck E.'s Play N' Place and a large under-the-sea themed ball-pit area that featured Chuck E. Cheese's Tinker Towers.
+
+#### Chuck E. Cheese Statue####
+When the location was still Magic Village, it had three giant toy soldiers enclosed in illuminated windows facing toward Tully Rd. These were later salvaged and sent back to the original owner before closing. Having three empty windows, Nolan Bushnell wanted a large Chuck E. Cheese statue to be placed inside one of these windows. 
+
+Before the location opened, artist Jeff Tritel was commissioned to create the 30-foot statue. A smaller bronze desktop prototype was also created for PTT executives. Because Tritel was alone creating the statue, he had to work all day and night. Tritel even had to sleep inside the store to meet ends meet.
+
+The finished statue was of Chuck E. Cheese sitting on a large block of cheese holding a microphone in one hand and waving the other. In the mid-eighties it was discovered that a homeless person was living inside of the cheese the Chuck E. sits on.  When he left one morning the door was secured, his blankets are still within the wooden base. The statue's checker vest was changed to his red vest version, the block of cheese was changed to purple, and the microphone was removed. The base would be changed to green in the 2000s. 
+[[File:Tritel.png|thumb|The 30ft.Chuck E. Cheese statue under construction.]]
+<blockquote>**About twenty five years ago I visited the Pizza Time Theatre (Chuck E. Cheese started out as Pizza Time Theatre) corporate offices looking for work. I had heard that they were working with audio animatronic characters and I thought that I might fit in with their design and engineering staff. Armed with my sculpture portfolio I was brought before their lead engineer and after a brief interview was told that I didn’t have the skill set to be a member of his team._
+
+_However, Pizza Time Theatre had just purchased a new building to be used as a restaurant and training facility and it so happened that on the outside of this building there was (and still is) a 40 foot tall, semi-circular window. The next thing I knew I was sitting down with Nolan Bushnell and the Pizza Time executives and they were asking if I would like to build a 30-foot-tall Chuck E. Cheese for their new building! Never having done anything on this scale before, my answer was a resounding, “SURE, I can do it!”_
+
+_I actually had no idea how; I’d figure that out later. Six months and 5,000 pounds of polyurethane foam and fiberglass later, I had the dubious distinction of building the largest pizza-eating rat in the world along with 8 bronze desktop versions for Nolan and his executives.' -_ Jeff Tritel <ref name=':0' /></blockquote>
+
+####Training Center & Test Kitchen / CEC University####
+Shortly after opening, the store would be the exclusive host of the [PTT Training Center & Test Kitchen]({{< ref "wiki/PTT Training Center & Test Kitchen.md" >}}) program. This would be held on the third floor employee-only area for training employees from other locations as well as future store general managers.  'Hard down' repairs of games would be handled by techs housed on the third floor as well. Trainees spent a week on the third floor learning all about the food product, then spend a week working downstairs in the store. The test kitchen portion would allow Pizza Time Theatre to standardize its menu lineup for 1982, alongside being able to test and refine future menu releases. This program would end in 1984 with the merger of Showbiz Pizza Place and Pizza Time Theatre companies. The location was sold and became a franchise so no further training was done there, though the carved 'Chuck E. University' wooden sign with Chuck wearing a robe and mortar board and holding a rolled certificate of graduation remained mounted outside for a number of years.  Corporate CEC asked for the sign, which was shipped to them, never to be seen again.  With no use for the area, it became a storage area. Plenty of historical items from the location's history would be held here.
+
+####Disney's Cease and Desist ####
+Around the restaurant were several unique murals. Some relocated from one of Pizza Time Theatre's costume departments. One of these murals, 'Royal Order of Rodents', featured characters outside of Pizza Time Theatres ownership. The most notable of these are Mickey and Minnie Mouse. On October 13, 1989, Someone took a photo and sent it to Disney and they sent the location a cease and desist, causing them to remove the mural immediately (Disney is known for their legal department). The mural was meant to be thrown away, but an employee hid it away to prevent its destruction.  During a remodel, the other murals were removed as well and hidden away by the same employee. They are now displayed out of the public eye on the third floor with the cease and desist letter next to the infamous mural.<ref>**Candd.png**</ref>
+
+### Chuck E. Cheese's###
+Roughly around 1991, the location was remodeled into Chuck E. Cheese's Pizza as part of the 1986 SPT Remodel Program. At this time, Fontaine also received customized multi-colored booths and interior décor. In 1992 the location is featured in two pieces of official media from Showbiz Pizza Time's Entertainment Department. The first of which is a tape for employees that summited footage of various live performances.<ref>https://www.youtube.com/watch?v=uP6OTh54A3Y</ref> Then as part of SPT filming in California, they visited the Fontaine location to feature in 'Little Red Corvette'.<ref>https://youtu.be/-aDxlpAqUWs?t=544s</ref> 
+
+In December 2000 the location became one of the last to receive a brand new remodel from the 1994 SPT Repositioning / Remodel Program (1994 SPT Remodel Program). When [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were introduced to this location they originally cut through the wall above the 2-Stage, giving a top-down view of the showroom for people inside, however In 2007 the Toddler Zone from [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}) and the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) would be removed due to a guest lack of interest. In May 2007 fan convention Cheese-Vention 4 is held at this location. Some of the posters, the Photo Ride car, and the store's Chuck E. bot would be added to the windows in front of the store. 
+
+In December 2018, Fontaine started their 2.0 remodel, being completed later in 2019. This would be the final United States location to receive a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show. Some of the store's Phase III art would be left there. Two Ticket Blasters would be placed in front of the COL stage. The store would get a 2021 Model Dance Floor on March 2022.
+
+On March 26, 2023, the Chuck E. Cheese Cyberamic character was discovered to be on display at Revival Collectibles in Grand Ledge, MI. The animatronic isn't for sale as of now.
+
+On December 24th, 2023, it was discovered that the store began installation on a new elevator.
+
+#### Store Number####
+According to chuckecheese.com Fontaine Rd. was **_Store #206**_ in 2009.<ref>https://web.archive.org/web/20090629030426/http://www.chuckecheese.com/locations/results.php?state=CA</ref> It was renumbered to **_Store #3001**_ when Corporate renumbered franchised stores to four-digit numbers in 2010.  The **_#206**_ number would be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location, which opened on February 5, 2024.
+
+#### COVID 19####
+During the Coronavirus pandemic, the location was closed for thirteen months and fears of it permanently closing were high. The property was listed on Loop.Net on October 16, 2020, but taken down at a later date. During this time, a hoax was perpetrated saying that the location was to become a 'gentleman's club'. 
+
+To keep the location afloat, the owner had to sell items held inside the former CEC University center. This included signage, prototypes, and animatronic parts. (It also included the Chuck E. animatronic inside the window.)
+
+##Arcade Machines##
+
+###Skill###
+
+*Monopoly Roll 'N Go
+*Paw Patrol
+*Monster Drop
+*Ticket Time
+*Wack N Win
+* Grand Piano Keys
+*Despicable Me Jelly Lab
+*Chuck E. Cheese's Water Game Fun
+*Fishbowl Frenzy
+*Pull My Finger!
+*Full Tilt
+* Willy Crash
+*Skee Ball (Modern) (Baytek)
+* Wheel of Fortune
+* Space Ballz
+* Speed of Light
+*Quik Drop
+*King Kong of Skull Island VR
+*Virtual Rabbids: The Big Ride
+*Deal Or No Deal
+*Go Ballistic
+* Pearl Fishery
+*Candy Crane House
+*Crossy Road
+*Flappy Tickets
+* Prize Cube (6 player)
+*Ice Man (four 2-player units)
+* Dizzy Chicken
+* Spins Ahoy!
+* Pink Panther Jewel Heist
+* Space Invaders Frenzy
+*Pop The Lock
+*Bop2Win
+*Hero Of Steel (two 2-player units)
+*Robot Storm (two 2-player units)
+*Pac-Man Battle Royale Deluxe
+*Harpoon Lagoon Deluxe
+*Cruisi'n Blast (4 units)
+*Luigi's Mansion Arcade
+*Deadstorm Pirates
+*The Walking Dead
+*Jurassic Park Arcade
+*Zombie Snatcher
+*Monopoly Arcade
+* Halo Fireteam Raven
+* Fruit Ninja FX
+*Minecraft Dungeons Arcade
+*Batman (2013)
+*Nerf Arcade
+*Centipede Chaos
+*Mario Kart Arcade GP DX (4 units)
+*SnoCross
+*Teenage Mutant Ninja Turtles (2017)
+
+####Coin Action####
+*Spongebob Squarepants Pineapple Arcade
+*The Wizard of Oz
+*Ticket Circus
+* Willy Wonka & the Chocolate Factory (6-player)
+*Blackbeard's Bounty
+*Flintstones Quarry Quest
+
+###Kiddie### 
+
+*Teletubbies Carousel
+* Alien Boogey Control
+*KC Corra
+*Galloper's Carosel
+*Shopkins Cutie Car
+*Chuck Wagon
+*Jolly Roger Minions
+
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/Bt2vphYSkPA Link]
+|Fontaine was featured on _Wall $treet Week with Louis Rukeyser._
+|1982
+|-
+|[https://youtu.be/Am9sgyt_S5o Link]
+|Sidewalk Breakers dance battle taking place at the store's showroom.
+|1985
+|-
+|[https://youtu.be/3En_FDae6l0 Link]
+|Footage of the store's Chuck E. Statue and Balcony Stage in the 80s
+|Around 1980s
+|-
+|[https://youtu.be/_sca0jdtcxA Link]
+|Footage of this location's Balcony Stage and children playing at the ball pit.
+| April 20th, 1988
+|-
+|[https://youtu.be/QHIal3IZPUA Link]
+|An exterior shot of this location and footage of the Half Chuck E. animatronic taken from the 1989 documentary film, _The Silicon Valley Story_.
+|1989
+|-
+|[https://youtu.be/srK9ZC2mNNU Link]
+|Children playing at the ball pit and footage of Beagles / Beach Bowsers (Lounge) (The Beagles), [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}), and [Dolly Dimples]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}).
+|1990
+|-
+|[https://www.youtube.com/watch?v=I4NykjOSd8E Link]
+|A quick video of a family's birthday party in the second story The King's lounge room
+|June 8th 1991
+|-
+|[https://vimeo.com/16183194 Link]
+|A family celebrating a birthday, playing games, and some footage of Chuck E.'s House Facade.
+|January-February 1992(?)
+|-
+|[https://youtu.be/uP6OTh54A3Y Link]
+|Footage of Chuck E. LIVE! performing Havin' a Party and Chuck E's Place (1992) from a CEC cast member highlight reel. Chuck E.'s House Facade is also seen in this footage.
+|1992
+|-
+|[https://youtu.be/-aDxlpAqUWs?t=544s Link]
+|Fontaine as featured on Little Red Corvette from the [July 1992 Show]({{< ref "wiki/Planes, Trains, And Automobiles.md" >}}).
+|1992
+|-
+|[https://youtu.be/UrI70U49KpE&t=700s Link]
+|Children playing games and some footage of Fontaine's 2-Stage.
+| January 19th, 1998
+|-
+|[https://youtu.be/eZ-oN8RLnpM&t=725s Link]
+|Family playing games; footage of the Studio C (1997) (Studio C) is seen at 13:01.
+|2005
+|-
+|[https://youtu.be/s8nvwbuQ7Cw Link]
+|Family celebrating a birthday and footage of Chuck E. LIVE! Birthday Star (2001) and the Studio C Alpha.
+|2007
+|-
+|[https://youtu.be/uRgaP721yXo Link]
+|Man celebrating his 30th birthday party at this store. 
+|July 14th, 2010
+|-
+|[https://youtu.be/sWh3ohslhxU&t=87s Link]
+|Family playing the store's arcade games. 
+|June 4th, 2012
+|-
+|[https://youtu.be/g6pUzBq5Ak4 Link]
+|Quick tour of the store in 2012.
+| October 11th, 2012
+|-
+|[https://youtu.be/esGURFFykKQ Link]
+| A store tour of the store in June 2016. 
+|June 30th, 2016
+|-
+|[https://youtu.be/Rc5gTDH7B2U Link]
+| Another tour of the store in October 2016.
+| October 14th, 2016
+|-
+|[https://youtu.be/XZClv9nF7mY Link]
+| A store tour of the store during its 2.0 remodel.
+| January 9th, 2019
+|}
+
+##Gallery##
+<gallery>
+File:Toyst1.jpg|Magic Village 1975 - The Toy Soldiers
+File:Toyst2.jpg|Magic Village 1975 - Plush Toy Department
+File:Magick.jpg|Magic Village 1975  - Future area for Chuck E. Cheese's service areas.
+File:CASJOchuckecheese tritel.jpg|The statue as it originally appeared
+File:FontaineExterior1992.png|1992
+File:January 1998.png|January 1998
+File:Tully1.png|May 2007
+File:Tully20071.jpg|May 2007
+File:Tully20072.jpg|May 2007
+File:Tully20073.jpg|May 2007
+File:Tully20074.jpg|May 2007
+File:Tully20075.jpg|May 2007
+File:Tully20076.jpg|May 2007
+File:Tully20077.jpg|May 2007
+File:Tully20078.jpg|May 2007
+File:Tully20079.jpg|May 2007
+File:Tully200710.jpg|May 2007
+File:Tully200711.jpg|May 2007
+File:Tully200712.jpg|May 2007
+File:Tully200713.jpg|May 2007
+File:Tully200714.jpg|May 2007
+File:Tully200715.jpg|May 2007
+File:Tully200716.jpg|May 2007
+File:Tully200717.jpg|May 2007
+File:Tully200718.jpg|May 2007
+File:Tully200719.jpg|May 2007
+File:Tully200720.jpg|May 2007
+File:Tully200721.jpg|May 2007
+File:Tully200722.jpg|May 2007
+File:Tully200723.jpg|May 2007
+File:Tully200724.jpg|May 2007
+File:Tully200725.jpg|May 2007
+File:January 1998.png|January 1998
+File:Tully200726.jpg|May 2007
+File:Tully200727.jpg|May 2007
+File:Tully200728.jpg|May 2007
+File:Tully200729.jpg|May 2007
+File:Tully200730.jpg|May 2007
+File:Tully200731.jpg|May 2007
+File:Tully200732.jpg|May 2007
+File:Tully200733.jpg|May 2007
+File:Tully200734.jpg|May 2007
+File:Tully200735.jpg|May 2007
+File:Tully200736.jpg|May 2007
+File:Tully200737.jpg|May 2007
+File:Tully200738.jpg|May 2007
+File:Tully200739.jpg|May 2007
+File:Tully200740.jpg|May 2007
+File:Tully200741.jpg|May 2007
+File:Tully200742.jpg|May 2007
+File:Tully200743.jpg|May 2007
+File:Tully200744.jpg|May 2007
+File:Tully200745.jpg|May 2007
+File:Tully200746.jpg|May 2007
+File:Tully200747.jpg|May 2007
+File:Tully200748.jpg|May 2007
+File:Tully200749.jpg|May 2007
+File:Tully200750.jpg|May 2007
+File:Tully200751.jpg|May 2007
+File:Tully200752.jpg|May 2007
+File:Tully200753.jpg|May 2007
+File:Tully200754.jpg|May 2007
+File:Tully200755.jpg|May 2007
+File:Tully200756.jpg|May 2007
+File:Tully200757.jpg|May 2007
+File:Tully200758.jpg|May 2007
+File:Tully200759.jpg|May 2007
+File:Tully200760.jpg|May 2007
+File:Tully200761.jpg|May 2007
+File:Tully200762.jpg|May 2007
+File:Tully200763.jpg|May 2007
+File:Tully200764.jpg|May 2007
+File:Tully200765.jpg|May 2007
+File:Tully200766.jpg|May 2007
+File:Tully200767.jpg|May 2007
+File:Tully200768.jpg|May 2007
+File:Tully200769.jpg|May 2007
+File:Tully200770.jpg|May 2007
+File:Tully200771.jpg|May 2007
+File:Tully200772.jpg|May 2007
+File:Tully200773.jpg|May 2007
+File:Tully200774.jpg|May 2007
+File:Tully200775.jpg|May 2007
+File:Tully200776.jpg|May 2007
+File:Tully200777.jpg|May 2007
+File:Anothernewtullypic1.png|May 2007
+File:Tully200778.jpg|May 2007
+File:Tully200779.jpg|May 2007
+File:Tully200780.jpg|May 2007
+File:Candd.png|Cease & Desist letter from Disney
+File:SanJoseTullyExterior.jpg|Exterior during 2.0 remodel
+File:Tullymi23.png|Cyberamic Chuck E. Cheese animatronic on display at Revival Collections in Grand Ledge, MI.
+</gallery>
+
+##Animatronics##
+{| class='wikitable'
+!Animatronic
+!Serial / Manufacturing date
+!Location
+|-
+|Chuck E Cheese (Cyberamic)
+|1981
+|On display at Revival Collectibles in Grand Ledge, MI
+|-
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|1981 
+|Used for parts
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1981 
+|Used for parts
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1981 
+| Sold to Collector
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1981
+|Unknown
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|1981
+|Unknown
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|1981
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|1981
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|1981
+|Unknown
+|-
+|[Flag Wavers (Cyberamic)]({{< ref "wiki/Flag Wavers (Cyberamic).md" >}})
+|1981 
+|Used for parts
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|N/A
+|Unknown
+|-
+|[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
+|Unknown
+|Unknown
+|-
+|Beagles / Beach Bowsers (Lounge)
+|Unknown
+|Unknown
+|-
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|111 
+| Sold to Collector
+|-
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
+|N/A
+|Unknown
+|}
+##Trivia##
+* Before Franchised CECs were renumbered to four digit numbers in 2010, San Jose (Fontaine) was **_Store #206**_ according to the old chuckecheese.com website from 2009. It was renumbered to **_Store #3001**_ when Corporate renumbered Franchised stores with four digit numbers. The store number will be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location.
+##References##
+
+<references />

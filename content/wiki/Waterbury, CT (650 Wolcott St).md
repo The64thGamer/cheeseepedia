@@ -2,19 +2,19 @@
 title = "Waterbury, CT (650 Wolcott St)"
 draft = false
 tags = []
-date = 2022-10-16T04:54:31Z
+date = 2023-08-28T17:41:19Z
 
 [Article]
 contributors = ["Rexburg090","CECBowlingGreen","73.218.229.96","ChuckfeldStan"]
-gallery = []
+gallery = ["WaterburyPre2005RemodelExterior.jpg|thumb|The"]
 +++
-**_650 Wolcott St**_ was a a Chuck E. Cheese's in Waterbury, Connecticut. It opened September 29, 1992 and closed June 25, 2020. 
+[[File:WaterburyCTExterior2019MayGoogleMaps.png|thumb|Street view of the exterior in May 2019 (PC: Google Maps)]]
+**_650 Wolcott St, Store #463**_ was a _Chuck E. Cheese's_ that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. 
 
-This location should not be confused with [Waterbury, CT (983 Wolcott St)]({{< ref "wiki/Waterbury, CT (983 Wolcott St).md" >}}) which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), this location was the first Chuck E. Cheese's location of any kind in New England. 
+This location should not be confused with [Waterbury, CT (983 Wolcott St)]({{< ref "wiki/Waterbury, CT (983 Wolcott St).md" >}}) which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), that location was the first Chuck E. Cheese's location opened in the New England region. 
 
 ## History ##
-Waterbury opened on September 29, 1992 in Mattatuck Plaza with a 2-Stage (Three months after [Orange]({{< ref "wiki/Orange, CT (82 Boston Post Rd).md" >}}) opened with their 2-Stage which was the first one installed in New England) with the CEC 1988 Remodel (1988 Remodel). In the Mid 1990's, Waterbury received their first remodel which involved removing the checkers around the store, Blue and White Awnings, and Neon Signage. In 2001, Munch's cap was removed. By 2004, they added some of the 1999 posters and replaced the Side to Side curtains were replaced with Up and Down curtains. Waterbury received the CEC 2005 Remodel (2005 Remodel) in 2008. In around June 2011, the Tuxedo & derby was replaced with the Avenger outfit. In the Mid 2010's the Avenger Shirt was replaced with the Rockstar Shirt. On June 25, 2020; Waterbury closed their doors for the final time. 
-
+Waterbury opened on September 29, 1992 in Mattatuck Plaza with a 2-Stage (Three months after [Orange]({{< ref "wiki/Orange, CT (82 Boston Post Rd).md" >}}) opened with their 2-Stage which was the first one installed in New England) with the CEC 1988 Remodel (1988 Remodel). In the mid 1990's, Waterbury remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) which involved removing the checkers around the store, the blue and white awnings, and the neon signage. In the Summer of 2001, Munch's cap was removed. By 2004, they added some of the 1999 décor and in December; they replaced the side to side curtains with the up and down curtains. In April 2005, the Helicopter Light was replaced with the Gemini. Curtains were disabled in July 2005. Helen's cosmetics were replaced in April 2006. Waterbury received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008 which started in January. In around June 2011, the Tuxedo & Derby were replaced with the Avenger outfit (Chuck's derby was however briefly kept until they received the Avenger cap not long after). Waterbury was the last 2-Stage to have the Tuxedo and Derby which were both replaced by July 2011, Pasqually's cosmetics were replaced around the same timeframe. Jasper would receive new cosmetics in December 2011. Waterbury was originally supposed to close in 2013; however, [Meriden]({{< ref "wiki/Meriden, CT (533 S Broad St).md" >}}) was chosen to close instead which ended up happening on May 19th, 2013. In the mid 2010's the Avenger Shirt on the animatronic was replaced with the Rockstar Shirt. The store would be temporarily closed on March 16th, 2020 due to the COVID-19 pandemic. On June 25, 2020; Waterbury closed their doors for the final time, ending the store's almost 28 years of operation. 
 
 Waterbury was one of the five New England locations that was open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}), [North Dartmouth, MA (412-418 State Rd)]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}), [Attleboro, MA (287 Washington St)]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}}), & [Newington, CT (3075 Berlin Tpke)]({{< ref "wiki/Newington, CT (3075 Berlin Tpke).md" >}}).
 
@@ -23,10 +23,12 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 !Stage
 !Installed
 !Removed
+!Notes
 |-
 |[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |September 1992
 |June 2020
+|One of two 2-Stages installed in Connecticut
 |}
 
 ## Animatronics ##
@@ -37,23 +39,23 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 |-
 |Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1992
-|Owned by a Private Collector
+|Owned by a Private Collector.
 |-
 |Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1992
-|Owned by a Private Collector
+|Owned by a Private Collector.
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1992
-|Owned by a Private Collector
+|Owned by a Private Collector.
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1992
-|Owned by a Private Collector
+|Owned by a Private Collector.
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1992
-|Owned by a Private Collector
+|Owned by a Private Collector.
 |-
 |[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1992
@@ -61,7 +63,104 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 |}
 
 ## Gallery ##
-(WIP)
+<gallery>
+File:WaterburyPre2005RemodelExterior.jpg|thumb|The store's exterior before the 2005 Remodel (PC: Unknown) (2000's)
+</gallery>
 
 ## Videos ##
-(WIP)
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://youtu.be/OIxzZWj04f4?t=4 Link]
+|A video showcasing the store, games, and 2-Stage back in October 1994. Oldest confirmed footage currently as of June 2023.
+|October 22, 1994
+|April 20, 2020
+|-
+|[https://youtu.be/Ha4gu_O8Ja4 Link]
+|A video showcasing the store, games, and 2-Stage back in October 1995.
+|October 21, 1995
+|April 27, 2020
+|-
+|[https://youtu.be/8VufUVYcKw0 Link]
+|A clip of 'Born to Wild' from the [September 2004]({{< ref "wiki/September 2004.md" >}}) show at Waterbury. This was not long before they switched to Up and Down curtains.
+|October 2004
+|August 23, 2020
+|-
+|[https://youtu.be/R9NBKixxttA Link]
+|Segment 1 of the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|October 11, 2005
+|September 24, 2020
+|-
+|[https://youtu.be/pAmQT7Tv_14 Link]
+|Segment 2 of the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|October 11, 2005
+|September 26, 2020
+|-
+|[https://youtu.be/cVVjrdy-C_Y Link]
+|Segment 3 of the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|October 11, 2005
+|October 1, 2020
+|-
+|[https://youtu.be/CPiSKkvlU_Y Link]
+|Segment 4 of the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|October 11, 2005
+|October 8, 2020
+|-
+|[https://youtu.be/t4n4SGCXIOw Link]
+|Segment 1 of the [January 2006 Show]({{< ref "wiki/January 2006 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|January 7, 2006
+|February 5, 2021
+|-
+|[https://youtu.be/uqXsEYK-aM8 Link]
+|Segment 2 of the [January 2006 Show]({{< ref "wiki/January 2006 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|January 9, 2006
+|February 15, 2022
+|-
+|[https://youtu.be/Uuh5IQ47iVc Link]
+|Segment 3 of the [January 2006 Show]({{< ref "wiki/January 2006 Show.md" >}}) being performed on Waterbury's 2-Stage.
+|January 9, 2006
+|February 19, 2022
+|-
+|[https://youtu.be/wmApDAs0PvY Link]
+|Store Tour from February 2020. One of the final videos before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/XL8m_WOex-I Link]
+|'Game On' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Waterbury's 2-Stage. One of the final videos before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/HACsLY6PLOw Link]
+|'Play All You Can Play' from Chuck E. Cheese's Show 3 2019 (Show 3 2019) being performed on Waterbury's 2-Stage. One of the final videos of the store before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/b5mkVMwDohk Link]
+|'Disco Dancing Dinosaur Party' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Waterbury's 2-Stage. One of the final videos of the store before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/hq9z0OMekck Link]
+|'Chuck E.'s Place 2017' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Waterbury's 2-Stage. One of the final videos of the store before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/eLhtoOg5EpU Link]
+|'Chuck E.'s Place 2017' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Waterbury's 2-Stage. Dubbed with audio from the 1991 version. One of the final videos of the store before closure.
+|February 29, 2020
+|June 12, 2023
+|-
+|[https://youtu.be/lMy4KTGnf2E Link]
+|'Birthday Star Spectacular' being performed on Waterbury's 2-Stage. One of the final videos of the store before closure.
+|February 29, 2020
+|June 15, 2023
+|-
+|[https://youtu.be/E3M2tEiLdrc Link]
+|Waterbury a little over a year after closure.
+|September 19, 2021
+|September 29, 2022
+|}

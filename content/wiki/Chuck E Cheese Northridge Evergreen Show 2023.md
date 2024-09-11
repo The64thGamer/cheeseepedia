@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Northridge Evergreen Show 2023"
 draft = false
 tags = []
-date = 2023-11-19T01:36:02Z
+date = 2023-11-28T23:19:06Z
 
 [Article]
 contributors = ["Documentor"]
@@ -13,7 +13,7 @@ gallery = []
 |image=Evergreen2023.jpg
 |date=November 11, 2023
 |cybernetwork=y|}}
-**_ Chuck E. Cheese Northridge Evergreen Show 2023**_ is the generic show released on November 11, 2023 - ??? featuring two songs from 2017.
+**_ Chuck E. Cheese Northridge Evergreen Show 2023**_ is the generic show released on November 11, 2023 - November 26, 2023 featuring two songs from 2017.
 
 This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 2 Songs with the standard live being Me & My Friends.
 ##Show List:##

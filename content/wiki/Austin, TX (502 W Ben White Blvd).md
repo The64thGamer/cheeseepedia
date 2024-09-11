@@ -2,31 +2,32 @@
 title = "Austin, TX (502 W Ben White Blvd)"
 draft = false
 tags = []
-date = 2023-05-18T04:19:40Z
+date = 2024-06-08T12:15:28Z
 
 [Article]
 contributors = ["ThatBoiCydalan","CEC Tinley","CorrectorMan","Cecanddisneyfan2004"]
 gallery = ["BenWhiteExteriorAfterClosure.png|The"]
 +++
-{{Stub}}
-[[File:BenWhiteExteriorStreetViewJune2011.png|thumb|The store's exterior in June 2011 (PC: Google Maps)]]
-**_502 W Ben White Blvd, Store #935**_ was a Showbiz Pizza Place/Chuck E. Cheese's which opened on March 24th, 1982 and closed on May 23rd, 2013.
+{{Stub}}{{Generic|image=BenWhiteExteriorStreetViewJune2011.png|desc=The store's exterior in June 2011 (PC: Google Maps)}}
+**_502 W Ben White Blvd, Store #935**_ was a Showbiz Pizza Place/Chuck E. Cheese's which opened on March 24th, 1982, and closed on May 12th, 2013.
 
 ## Stages ##
-This location originally opened on March 24th, 1982 with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage. Not much information is known about it's stage when it was a Showbiz Pizza Place, 
+This location originally opened on March 24th, 1982, with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage. Not much information is known about its stage when it was a Showbiz Pizza Place, 
 
-Around 1991/1992, this location underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the stage into a Munch's Make Believe Band stage. It would undergo a few changes over the years. One of the highlights of this stage which made it unique was that Pasqually's drum had a black background instead of the usual white color.
+Around 1991/1992, this location underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the stage into a Munch's Make-Believe Band stage. It would undergo a few changes over the years. One of the highlights of this stage which made it unique was that Pasqually's drum had a black background instead of the usual white color.
 
-On May 23rd, 2013, after this store's closure, all 5 of the main bots were sent to the [San Antonio, TX (6874 Ingram Rd)]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}}) location before the stage was replaced with a Color of Lights stage in 2014.
+On May 12th, 2013, after this store's closure, all 5 of the main bots were sent to the [San Antonio, TX (6874 Ingram Rd)]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}}) location before the stage was replaced with a Circle of Lights stage in 2014.
 
 ## History ##
-This location opened on March 24th, 1982 as a Showbiz Pizza Place with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage, like many other Showbiz Pizza Place locations. Little documentations exist of this location during it's Showbiz Pizza Place years.
+This location opened on March 24th, 1982, as a Showbiz Pizza Place with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage, like many other Showbiz Pizza Place locations. Little documentations exist of this location during its Showbiz Pizza Place years.
+
+In 1986, Ben White became the very first location to undergo the 1986 SPT Remodel Program.
 
 Around 1991/1992, this store underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and was converted into a Chuck E. Cheese, receiving a few remodels over the years.
 
-On May 23rd, 2013, this location would close down as they relocated to Austin, TX (9811 S I-35) (9811 S I-35), which opened on May 27th, 2013, with the old location becoming vacant.
+On May 12th, 2013, this location would close down as they relocated to Austin, TX (9811 S I-35) (9811 S I-35), which opened on May 27th, 2013, with the old location becoming vacant.
 
-By May 2015, the site of this former location would begin it's redevelopment into a home improvement discount store,<ref>https://www.google.com/maps/@30.2264824,-97.7684598,3a,75y,33.47h,93.18t/data=!3m7!1e1!3m5!1sMS5yG8jXmBh4bEicpFiugw!2e0!5s20150501T000000!7i13312!8i6656</ref> opening by mid-2016, which this building currently remains as today.
+Around February 2015, the site of this former location would begin its redevelopment into a home improvement discount store, having its soft opening around late October 2015,<ref>https://communityimpact.com/austin/news/2015/10/21/austin-habitat-for-humanity-restore/</ref> which the building currently remains as today.
 
 ## Videos ##
 {| class='wikitable'

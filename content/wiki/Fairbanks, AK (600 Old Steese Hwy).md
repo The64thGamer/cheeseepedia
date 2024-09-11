@@ -2,39 +2,37 @@
 title = "Fairbanks, AK (600 Old Steese Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-01-17T20:15:33Z
+date = 2023-07-13T19:15:51Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer","216.125.34.66","Rexburg090","CorrectorMan"]
 gallery = []
 +++
-**600 Old Steese Highway** was a Chuck E. Cheese's Pizza Time Theatre that opened in January 1986 with The Stage, which closed in 1988.
-
-This location was the last Pizza Time Theatre location to open, as well as the last store to open with The Stage (Balcony Stage).
-
-## History ##
-Fairbanks opened in January 1986 as the 2nd Pizza Time Theatre to open in the state of Alaska, the other being Anchorage (which is still open to this day.), with The Stage (aka the Balcony Stage). Fairbanks was the last true Pizza Time Theatre store to open, as Showbiz Pizza Place, Inc. (parent company of the Showbiz Pizza Place chain of FEC's.) acquired Pizza Time Theatre, Inc. (parent company of Pizza Time Theatre.) after they filed for Chapter 11 Bankruptcy in March 1984, and slowly stopped opening new Pizza Time Theatres, as well as new Showbiz Pizza Places. As Fairbanks was the last PTT to open, and that every PTT received a Balcony Stage (except for the PTT's opened between May 1977 and December 1980, which opened with Portrait Stages.), Fairbanks was the last store opened with a Balcony Stage. 
-
-Fairbanks would only be open for a short period, closing sometime in 1988.
+[[File:Fairbanks 2009.jpg|thumb|Fairbank's exterior after 2009. (PC: Google Maps)]]
+**_600 Old Steese Highway**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in January 1986 (day unknown) and closed in 1988 (month and day unknown) with a Balcony Stage. Not much is known about this location, other than 3 videos, and it being the final location to have a Balcony Stage installed.
 
 ## Stages ##
-As with every Pizza Time Theatre, Fairbanks opened with The Stage (aka the Balcony Stage). As stated above, Fairbanks was the last PTT to open, and so was also the last Balcony Stage to be installed. As they opened after 1983 (when Guest Stars were retired), they only featured Helen Henny. It is not known if they had any Cabaret acts.
+Fairbanks opened with a Balcony Stage, being the very last to be installed. However, only a few videos exist, and after the 1988 closure, everything was auctioned off.
 {| class='wikitable'
+|+
 !Stage
 !Installed
 !Removed
-!Note
+!Notes
 |-
-|[The Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
+|Balcony Stage
 |January 1986
 |1988
-|Last Balcony Stage installed
+|Last Balcony ever produced.
 |}
+
+## History ##
+Fairbanks opened in January 1986 (day unknown) with a Balcony Stage. This would be the last CEC location opened for a while, as they wouldn't open another location until 1987. However, only 3 videos are confirmed to be from this location, and they show a good majority of the store. But in 1988 (month and day unknown), the location closed forever for unknown reasons, but it was likely in a bad area. After closure, it became a car dealership named Gene's, which closed by 2009. After closure, it became a church, only for it to close. As of July 2023, the building remains vacant once again. It is unknown if the building is going to be demolished.
 
 ## Animatronics ##
 {| class='wikitable'
 !Animatronics
-!Manufacturing Date
+!Production Date
 !Whereabouts
 |-
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
@@ -53,13 +51,23 @@ As with every Pizza Time Theatre, Fairbanks opened with The Stage (aka the Balco
 |Unknown
 |Unknown
 |-
-|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |Unknown
 |Unknown
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |Unknown
 |Unknown
+|-
+|Waving Flags (Cyberamic)
+|Unknown
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|Unknown
+|Unknown
 |}
-
-## References ##

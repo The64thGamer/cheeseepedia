@@ -2,20 +2,51 @@
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
 tags = ["Store List"]
-date = 2022-08-04T03:27:06Z
+date = 2024-09-08T00:27:03Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]
-gallery = ["MKEBalcony.jpg|Milwaukee’s","MKEshowroompreremodel.jpg|Milwaukee’s","MKEshowroompostremodel.jpg|Milwaukee’s","MKEstageshowroomlightsoff.jpg|Milwaukee’s"]
+gallery = ["MKEBalcony.jpg|Milwaukee’s","MilwaukeeWISouthChaseExterior2014SeptemberGoogleMaps.png|Street","MKEshowroompreremodel.jpg|Milwaukee’s","MKEshowroompostremodel.jpg|Milwaukee’s","MKEstageshowroomlightsoff.jpg|Milwaukee’s","Chaseaveexterior2005.png|Milwaukee’s","IMAGE","KODAK","KODAK"]
 +++
-[[File:MilwaukeeExteriorSept21.jpg|thumb|Milwaukee in September 2021.]]**_2701 S Chase Ave**_ is a _Chuck E. Cheese's_ that opened in April 1983 with a Balcony Stage. 
+{{Generic|image=MilwaukeeExteriorSept21.jpg|desc=Milwaukee before the 2.0 remodel. (September 2021)}}
+**_2701 S Chase Ave, Store #842**_ is a _Chuck E. Cheese's_ that opened in April 1983 as a _Pizza Time Theatre_ with a Balcony Stage. 
 
-Milwaukee was a former _Pizza Time Theatre_, and was the third to open in the state. It was one of the select few stores that got the Cheese E. Street concept, and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. The location is currently still open, and features a 1-Stage with a turntable, and still retains the show room walls and balcony even after remodeling in 2015. 
+Milwaukee was a former _Pizza Time Theatre_ and was the third to open in the state. It was one of the select few stores that got the Cheese E. Street concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel.
+
+Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.  
+
 ##Stages##
-Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath compared to the usual Mr. Munch’s Magic Madhouse. In 1990, Milwaukee received a C-Stage, and in 1994, received a 1-Stage with a turntable, that is still in operation to this very day. Over the years, updates to the show included new masks in 2001 and 2002, and the eventual replacement of Chuck E.’s tuxedo with the Cool Chuck outfit, that is still on the show today. 
-##History##
-As previously mentioned, Milwaukee was one of the first stores to receive and open with Cheese E. Street in their game room. Cheese E. Street was removed by 1995.
-As for cabaret acts, Milwaukee is known to have had The King. There is currently no info on if Milwaukee ever had any other cabaret acts, or when the cabaret itself was removed. 
+Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath compared to Mr. Munch’s usual Magic Madhouse. In 1990, Milwaukee received Chuck E.’s House Facade, and in 1994, received a 1-Stage with a turntable, and received a Dance Floor and Video Wall in 2024. Over the years, updates to the show included new masks in 2001 and 2002, and the replacement of Chuck E.’s tuxedo with the Cool Chuck outfit in 2007. In January 2023, the entire head on Helen and Jasper’s masks were swapped for the ones from [Chicago, IL]({{< ref "wiki/Chicago, IL (1830 W Fullerton Ave).md" >}}) which received 2.0 in August 2022. Milwaukee also had the last Helicopter Light in any store besides the Chuck E. Cheese's Corporate Office (Corporate Offices).  
+
+The stage was unfortunately removed on August 18th, 2024 when they received the refresh.   
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|Balcony Stage
+|April 1983
+|1990
+|-
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
+|1990
+|1994
+|-
+|1-Stage
+|1994
+|August 18th, 2024
+|-
+|Dance Floor/Video Wall
+|August 2024
+|Still in use.
+|}
+
+## History##
+As previously mentioned, Milwaukee was one of the first stores to receive and open Cheese E. Street in their game room. Cheese E. Street was removed by 1995. As for cabaret acts, Milwaukee is known to have had The King. There is currently no info on if Milwaukee ever had any other cabaret acts, or when the lounge itself was removed. 
+
+Milwaukee started the 2.0 remodel on August 18th, 2024. 
+
 ##Videos##
 {| class='wikitable'
 !Link
@@ -23,59 +54,78 @@ As for cabaret acts, Milwaukee is known to have had The King. There is currently
 !Filming Date
 |-
 |https://youtu.be/RG3A0jYMTWM
-|Video showcasing the game room. 
+|Video showcasing the game room.
 |January 20th, 1989
 |-
 |https://youtu.be/rflB41rNzSQ
-|More footage showcasing the game room, and also the interior of Cheese E. Street with a short clip of the show. 
+|More footage showcasing the game room, and also the interior of Cheese E. Street with a short clip of the show.
 |February 11th, 1989
 |-
 |https://youtu.be/T6KTRK8yD90
-|Even more footage showcasing the game room, the exterior of Cheese E. Street, and the show room. 
+|Even more footage showcasing the game room, the exterior of Cheese E. Street, and the show room.
 |April 7th, 1990
-|-
 |}
 
-## Gallery ## 
+##Gallery## 
 <gallery>
 File:MKEBalcony.jpg|Milwaukee’s Balcony Stage.
+File:MilwaukeeWISouthChaseExterior2014SeptemberGoogleMaps.png|Street view of the exterior in September 2014 months before remodel (PC: Google Maps)
 File:MKEshowroompreremodel.jpg|Milwaukee’s show room in the early 2010s, before the remodel in 2015.
 File:MKEshowroompostremodel.jpg|Milwaukee’s show room in 2022, after the remodel in 2015.
-File:MKEstageshowroomlightsoff.jpg|Milwaukee’s stage with all the lights in the show room turned off and all the lights on the stage turned on.
+File:MKEstageshowroomlightsoff.jpg|Milwaukee’s stage with all the lights in the showroom turned off and all the lights on the stage turned on.
+File:Chaseaveexterior2005.png|Milwaukee’s Exterior in 2005.
+File:IMAGE 0.jpeg|The Stage in May 2023.
+File:KODAK EASYSHARE 0000.jpg
+File:KODAK EASYSHARE 004.jpeg
 </gallery>
 
-## Animatronics ##
-Currently, Milwaukee still has all of their original Pizza Time Theatre animatronics. 
+##Animatronics##
 
 {| class='wikitable'
 |+
 !Animatronic
-!Manufacturing Date 
+!Manufacturing Date
 !Whereabouts
 |-
 |Chuck E Cheese (Cyberamic)
-|1983
-|In use at current store.
+|February 1983
+|Destroyed
 |-
 |[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
-|1983
-|In use at current store. 
+|February 1983 
+|Destroyed
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
-|1983
-|In use at current store.
+|February 1983
+|Destroyed
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
-|1983
-|In use at current store.
+|February 1983
+|Destroyed
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
-|1983
-|In use at current store.
+|February 1983
+|Destroyed
 |-
-|
-|
-|
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|1983
+|Unknown
+|-
+|Clapper Board (Cyberamic)
+|1983
+|Unknown
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|1990
+|Unknown
+|-
+|The King / King Kat (Lounge) (The King (Lounge))
+|1983
+|Unknown
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1993
+|Destroyed
 |}
 
 ##References##

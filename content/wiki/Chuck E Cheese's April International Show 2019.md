@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's April International Show 2019"
 draft = false
 tags = []
-date = 2022-10-29T22:17:54Z
+date = 2022-10-29T22:18:12Z
 
 [Article]
 contributors = ["Documentor"]
@@ -15,6 +15,7 @@ gallery = []
 |studioc=y
 |studiochd=y
 |dvdcyber=y
+}}
 
 **_Chuck E. Cheese's April International Show 2019**_
 

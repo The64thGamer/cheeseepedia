@@ -2,24 +2,24 @@
 title = "Orlando (East), FL (449 N Alafaya Trail)"
 draft = false
 tags = []
-date = 2023-06-07T18:27:38Z
+date = 2024-02-06T06:33:09Z
 
 [Article]
 contributors = ["CorrectorMan","Chucke.show","The 64th Gamer"]
-gallery = []
+gallery = ["Eastorlandodecember302021a.png|Ceiling","Eastorlando12302021b.png|Christmas","Eastorlando12302021c.png|Wall","Eastorlando12312021d.png|CEC","EastorlandoJuly252022.png|Chuck","Eastorlandoapril192023.png|Showroom"]
 +++
-[[File:East Orlando before 2.0.jpg|thumb|East Orlando in September 2022. (PC: Google Maps)]]
-**_449 N Alafaya Trail**,_ also known as **_East Orlando**,_ is a Chuck E. Cheese that opened on June 21, 2000 with a Studio C (1997) (Studio C Alpha), and is still operating to this day. This location received the 2.0 remodel in April 2023, receiving a Chuck E. Live Stage (Dance Floor) (Dance Floor) and a [Video Wall]({{< ref "wiki/Video Wall.md" >}}). 
+{{Generic|image=East Orlando before 2.0.jpg|desc=East Orlando in September 2022. (PC: Google Maps)}}
+
+**_Orlando (East), FL (449 N Alafaya Trail)**_ also known as **_East Orlando**,_ is a Chuck E. Cheese that opened on June 21, 2000 with a Studio C (1997) (Studio C Alpha), and is still operating to this day. This location received the 2.0 remodel in April 2023, receiving a Chuck E. Live Stage (Dance Floor) (Dance Floor) and a [Video Wall]({{< ref "wiki/Video Wall.md" >}}). 
 
 This location is not to be confused with the [Orlando, FL (7456 West Colonial Dr)]({{< ref "wiki/Orlando, FL (7456 West Colonial Dr).md" >}}) location, which opened on November 12, 1998 and is still open with the 2.0 remodel, or the [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) location, which opened on July 22, 1981 as a Showbiz Pizza Place, received Concept Unification between 1991 and 1992, and is still open, also with 2.0.
 
 ## History ##
-East Orlando opened on July 21, 2000 with the 1990s Major Remodel (1993 remodel), which included some late '90s and early 2000's décor, Skytubes, and the Studio C Alpha stage. The store remained like this until Fall 2014 when they received the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all of the older décor for newer Rockstar décor, removing the balcony seating, tearing down the Showroom walls, and replacing the dim lighting with brighter, fluorescent lighting. The Studio C Alpha was left behind. Also, this store along with West Orlando and Tampa was known for their contributions by CEC Florida, mostly on their shows. East Orlando began the 2.0 remodel in April 2023, removing/destroying the Studio C Alpha on April 16, 2023 in favor of a Dance Floor and a Video Wall. The store's grand reopening happened on May 17, 2023, which was CEC's 46th anniversary. As of June 2023, East Orlando still has the 2.0 remodel.
+East Orlando opened on June 21, 2000 with the 1990s Major Remodel (1993 remodel), which included some late '90s and early 2000's décor, Skytubes, and the Studio C Alpha stage. The store remained like this until Fall 2014 when they received the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all of the older décor for newer Rockstar décor, removing the balcony seating, tearing down the Showroom walls, and replacing the dim lighting with brighter, fluorescent lighting. The Studio C Alpha was left behind. Also, this store along with West Orlando and Tampa were known for their contributions by CEC Florida, mostly on their shows. East Orlando began the 2.0 remodel in April 2023, removing/destroying the Studio C Alpha on April 16, 2023 in favor of a Dance Floor and a Video Wall. The store's grand reopening happened on May 17, 2023, which was CEC's 46th anniversary. As of June 2023, East Orlando still has the 2.0 remodel.
 
 ## Stages ##
 The store had a Studio C Alpha, which was installed in June 2000 when the store opened. Between the late 2000s and early 2010s, both the Blue Screen and the Interactive Console were removed in favor of the Ticket Blaster, which was installed likely in 2010. The Alpha remained like this until April 16, 2023, when the stage was removed as part of the 2.0 remodel for a Video Wall and Dance Floor. 
 {| class='wikitable'
-|+
 !Stage
 !Installed
 !Removed
@@ -38,7 +38,6 @@ The store had a Studio C Alpha, which was installed in June 2000 when the store 
 
 ## Animatronics ##
 {| class='wikitable'
-|+
 !Animatronic
 !Serial Number
 !Whereabouts
@@ -59,3 +58,13 @@ The store had a Studio C Alpha, which was installed in June 2000 when the store 
 |N/A
 |Destroyed
 |}
+
+## Gallery ##
+<gallery>
+File:Eastorlandodecember302021a.png|Ceiling Decorations (December 30, 2021)
+File:Eastorlando12302021b.png|Christmas Themed Stage (December 30, 2021)
+File:Eastorlando12302021c.png|Wall Art (December 30, 2021)
+File:Eastorlando12312021d.png|CEC Branded MooMoo Arcade (December 30, 2021)
+File:EastorlandoJuly252022.png|Chuck w/ Avenger Attire (July 25, 2022)
+File:Eastorlandoapril192023.png|Showroom (April 19, 2023)
+</gallery>

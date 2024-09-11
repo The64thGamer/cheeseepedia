@@ -2,7 +2,7 @@
 title = "Summertime 2006"
 draft = false
 tags = []
-date = 2023-08-08T03:35:45Z
+date = 2023-08-11T07:37:16Z
 
 [Article]
 contributors = ["Ceclife13","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
@@ -72,3 +72,7 @@ gallery = []
 * Go Santa Go (Studio C)
 
 **Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+
+No USA Version - The Stand Alone Song, 'America', and the 2005 Military Montage intermission do not appear in this show due to some sort of 'controversy' about the subject matter.
+
+Intermissions - As before, the CPMN episode has been changed. 2003 had Episode 3, 2004/2005 had Episode 1, and for this year it is the recent Episode 6.

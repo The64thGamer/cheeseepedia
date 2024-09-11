@@ -2,13 +2,13 @@
 title = "Gulfport, MS (320 Courthouse Rd)"
 draft = false
 tags = []
-date = 2024-03-26T17:53:39Z
+date = 2024-03-26T17:56:13Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{Stub}} **_320 Courthouse Rd**_ was a _ShowBiz Pizza Place_ that opened on November 14th, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on June 30th, 1996 (day unknown) as a _Chuck E Cheese's Pizza_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+{{Stub}} **_320 Courthouse Rd**_ was a _ShowBiz Pizza Place_ that opened on November 14th, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on June 30th, 1996 as a _Chuck E Cheese's Pizza_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
 ##History##
 TODO
@@ -18,14 +18,17 @@ TODO
 !Stages
 !Installed
 !Removed
+!Notes
 |-
 |Rock-afire Explosion
 |November 1983
 |1991-1992
+|1st Showbiz Pizza to open in Missisipi.
 |-
 |3-Stage
 |1991-1992
 |June 1996
+|Only 3-Stage in Missisippi.
 |}
 
 ##Animatronics##

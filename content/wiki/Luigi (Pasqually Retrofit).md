@@ -2,17 +2,32 @@
 title = "Luigi (Pasqually Retrofit)"
 draft = false
 tags = []
-date = 2022-12-18T02:49:22Z
+date = 2023-05-06T02:27:06Z
 
 [Article]
 contributors = ["Documentor"]
 gallery = []
 +++
+{{Generic|image=Luigi.png|desc=Jungle Jim's Luigi.}}
 **_Luigi**_ was a retrofit of PTT Pasqually (Cyberamic) at _Jungle Jim's International Market_ in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)
 
-The bot was originally able to be seen in the 'International Foods' section of the grocery store. He was revealed to the public on September 11, 1995, apart of a 68,000 square foot expansion.
+The animatronic was originally able to be seen in the 'International Foods' section of the grocery store. He was revealed to the public on September 11, 1995, as part of a 68,000 square foot expansion until eventually being removed in 2002-2003.
 
 ## History ##
-Luigi originally came from the [Cincinnati, OH (11400 Princeton Pike)]({{< ref "wiki/Cincinnati, OH (11400 Princeton Pike).md" >}}) Pizza Time Theatre and was bought by Jungle Jim's after the location closed in the Fall of 1984. Luigi was first installed in 1995 in a stand in the Italy section of 'International Foods' his stand was labeled as 'Luigi the Italian Chef' being made all out of wood with a small roof over the Cyberamic. Cosmetically speaking Luigi's mask was reused from when he was at [Cincinnati, OH (11400 Princeton Pike)]({{< ref "wiki/Cincinnati, OH (11400 Princeton Pike).md" >}}) Pizza Time Theatre. His hat was replaced with a much bigger hat that would cover the entire width of his head. For his outfit he wore white shirt with a blue bandana. 
+Luigi originally came from the [Cincinnati, OH (11400 Princeton Pike)]({{< ref "wiki/Cincinnati, OH (11400 Princeton Pike).md" >}}) Pizza Time Theatre and was bought by Jungle Jim's after the location closed in the Fall of 1984. Luigi was first installed in 1995 in a stand in the Italy section of 'International Foods' his stand was labeled as 'Luigi Ristorante No One Cooks Like Luigi ' being made all out of wood with a small roof over the Cyberamic.   
 
-Luigi was replaced between 2002 - 2004 with Pedro who despite seemingly being the same character was a vastly different character mechanically.
+Cosmetically speaking Luigi's mask was reused from when he was at Pizza Time Theatre with the only change being the addition of eyebrows. He wears a chefs hat that is the size of his entire head. His outfit is a white shirt with a blue undershirt with a red handkerchief on top. Luigi would sing songs by Mario Lanza<ref>https://www.youtube.com/watch?v=EQz1McBv0fw</ref> Although it is currently unknown what he sang.  
+
+Luigi was replaced between 2002 - 2003 with Pedro who reused the stand, mask frame and white shirt with the blue undershirt. 
+
+## Lost Media & Unknown information. ##
+The only information related to what Luigi preformed is in an April 2002 article which stated 'At Luigi's Ristorante the crowd is serenaded by tenor Marion Lanza's famous voice'.<ref>https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/</ref> 
+
+As is with the rest of the animatronics installed he most likely had holiday tracks but those are also lost. 
+
+## Gallery ##
+<gallery>
+file:Luigi.png|Promotional image of Luigi
+file:JJRobots2.png|Trio shot originally from the website
+file:Luigi2.png|Profile Luigi shot (Seen in the back)
+</gallery>

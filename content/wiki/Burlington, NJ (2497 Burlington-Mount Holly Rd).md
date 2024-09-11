@@ -2,7 +2,7 @@
 title = "Burlington, NJ (2497 Burlington-Mount Holly Rd)"
 draft = false
 tags = []
-date = 2023-09-20T19:31:02Z
+date = 2023-09-22T18:55:11Z
 
 [Article]
 contributors = ["Cheeseclassic"]
@@ -16,11 +16,10 @@ gallery = []
 !Stage
 !Installed
 !Removed
-!Notes
+|-
 |[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |January 2002
 |October 2016
-|
 |}
 
 ##History##

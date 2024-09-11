@@ -2,21 +2,21 @@
 title = "Fullerton, CA (1841 W Orangethorpe Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-11T20:54:59Z
+date = 2024-08-30T00:31:24Z
 
 [Article]
 contributors = ["CorrectorMan","The 64th Gamer","CEC1988"]
 gallery = []
 +++
-[[File:Old fullerton.jpg|thumb|Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter.]]
-**_1841 W Orangethorpe Ave**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 (day unknown) and closed in 1985 (month and day unknown) with a Portrait Stage. This was the 9th location ever opened.
+{{NoSources}}{{Generic|image=Old fullerton.jpg|desc=Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter.}}
 
-This location is not to be confused with the [Fullerton, CA (1134 S Harbor Blvd)]({{< ref "wiki/Fullerton, CA (1134 S Harbor Blvd).md" >}}) location, which opened on December 17, 1991 with a 3-Stage and closed on November 17, 2020 with a Studio C Beta, 16m.
+**_1841 W Orangethorpe Ave**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 and closed in 1985 with a Portrait Stage. 
+
+This was the 9th location ever opened. It is not to be confused with the [Fullerton, CA (1134 S Harbor Blvd)]({{< ref "wiki/Fullerton, CA (1134 S Harbor Blvd).md" >}}) location, which opened on December 17, 1991 with a 3-Stage and closed on November 17, 2020 with a Studio C Beta, 16m.
 
 ## Stages ##
 Fullerton opened with a Portrait Stage, but we don't know much about it. The location closed in 1985, and the show's fate is unknown.
 {| class='wikitable'
-|+
 !Stage
 !Installed
 !Removed

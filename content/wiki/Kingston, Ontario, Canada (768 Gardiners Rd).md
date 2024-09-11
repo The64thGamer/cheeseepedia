@@ -2,10 +2,24 @@
 title = "Kingston, Ontario, Canada (768 Gardiners Rd)"
 draft = false
 tags = []
-date = 2023-08-16T01:50:15Z
+date = 2024-07-31T18:03:52Z
 
 [Article]
 contributors = ["47.17.236.200","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005"]
 gallery = []
 +++
-**768 Gardiners Rd** is was a Chuck E. Cheese's that opened on January 1, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). This location closed on September 2, 2015. This store was located in RIO CAN.
+{{Generic|image=KingstonExterior2012.png|desc=Kingston's exterior in May 2012 (PC. Google Maps)}}{{NonStandard}}
+
+**_768 Gardiners Rd**_ was a _Chuck E. Cheese's_ that opened on January 1, 2006, with a [Studio C Beta/Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which was the only one installed in Canada. The location opened with the [2005 Update]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and remained like that for all the time it was open. This location closed on September 2, 2015. The store remained abandoned until 2017, when the interior was gutted and was turned into a Coco Fruiti with a CAA (Canadian Automobile Association), also moving into the space. As of May 2024, Coco Fruiti and the CAA (Canadian Automobile Association) are still in the space, with the original CEC design still intact, tho it was repainted in 2023.
+
+{| class='wikitable'
+|+Animatronics
+!Animatronic
+!Whereabouts
+|-
+|Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m)
+|Unknown
+|-
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|Unknown
+|}

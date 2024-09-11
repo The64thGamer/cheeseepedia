@@ -2,7 +2,7 @@
 title = "Sun Valley, CA (8357 Laurel Canyon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-06T02:03:04Z
+date = 2024-06-28T15:42:35Z
 
 [Article]
 contributors = ["CorrectorMan","CECMadison"]
@@ -39,7 +39,7 @@ Sun Valley opened with a Portrait Stage. It would only last 1-2 years, because i
 |}
 
 ## History ##
-Sun Valley opened in July 1980 (day unknown) as the 12th Pizza Time Theatre to open. In 1981/1982, the location would receive a minor remodel, switching out the 1970s exterior sign for the new 1981 logo, and replaced the Portrait Stage with the Balcony Stage. Not much is known about this location, although a few photos might have been found, but no videos. In 1989/1990, they removed the Balcony Stage for Chuck E.'s House Facade. This location apparently did not receive the 1988 remodel, although many other locations in California received it by this point. In July 1992 (day unknown), for unknown reasons (one reason might be that it was behind on remodeling), the location moved to **_8375 Laurel Canyon Blvd**_, which was just a few stores down. As of July 2023, the location has been split up by multiple businesses. 
+Sun Valley opened in July 1980 (day unknown) as the 12th Pizza Time Theatre to open. In 1981/1982, the location would receive a minor remodel, switching out the 1970s exterior sign for the new 1981 logo, and replaced the Portrait Stage with the Balcony Stage. Not much is known about this location, although a few photos might have been found, but no videos. In 1989/1990, they removed the Balcony Stage for Chuck E.'s House Facade. This location apparently did not receive the 1988 remodel, although many other locations in California received it by this point, but recieved the Chuck E Cheese's Pizza sign.  In July 1992 (day unknown), for unknown reasons (one reason might be that it was behind on remodeling), the location moved to **_8375 Laurel Canyon Blvd**_, which was just a few stores down. As of July 2023, the location has been split up by multiple businesses. 
 
 ## Animatronics ##
 TODO

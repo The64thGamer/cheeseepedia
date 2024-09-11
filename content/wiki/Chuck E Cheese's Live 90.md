@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Live 90"
 draft = false
 tags = []
-date = 2022-02-19T01:28:51Z
+date = 2022-06-05T14:30:56Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]
@@ -26,7 +26,7 @@ This was the first officially released live show created for Munch's Make Believ
 
 ##Showtape Releases:##
 {| class='wikitable'
-!Release
+!Release Year
 !Showtape
 !Format
 |-
@@ -41,3 +41,5 @@ This was the first officially released live show created for Munch's Make Believ
 * This live show features no countdown. 
 * The training material for this show features Jeremy Blaido in his first role with the company relating to show production.<ref>https://www.youtube.com/watch?v=7fFr8LQnoC0</ref> 
 * This was the first live show programmed for MMBB stages which at this point would be 3stages and Road Stages.
+
+## References ##

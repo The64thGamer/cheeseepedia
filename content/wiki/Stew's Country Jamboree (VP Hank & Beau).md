@@ -2,15 +2,13 @@
 title = "Stew's Country Jamboree (VP Hank & Beau)"
 draft = false
 tags = []
-date = 2024-07-21T00:03:40Z
+date = 2024-07-21T00:05:23Z
 
 [Article]
 contributors = ["BigCtheDataFinder"]
 gallery = []
 +++
-**_Stew's Country Jamboree**_ is an animatronic show that has been produced by VP Animations, LLC for Stew Leonard's since 2016. The characters and soundtrack originate from Sally Industries' _The Hank and Beau Show_, which was previously installed in two of the chain's locations in the mid-1980's and 1991, respectively. As of 2024, four sets of _Stew's Country Jamboree_ have been constructed by VP and operate at only four of the chain's seven stores.
-
-{{AnimatronicShow|image=Stew's Country Jamboree.png|status=Operating|numCharacters=2|manufacturer=VP Animations, LLC. (Animatronics & Controller Equipment) <br> Sally Corporation (Original Soundtrack)|businessType=Type of Business: Stew Leonard's Supermarkets|years=January 20, 2016 - Present}}
+{{AnimatronicShow|image=Stew's Country Jamboree.png|status=Operating|numCharacters=2|manufacturer=VP Animations, LLC. (Animatronics & Controller Equipment) <br> Sally Corporation (Original Soundtrack)|businessType=Type of Business: Stew Leonard's Supermarkets|years=January 20, 2016 - Present}}**_Stew's Country Jamboree**_ is an animatronic show that has been produced by VP Animations, LLC for Stew Leonard's since 2016. The characters and soundtrack originate from Sally Industries' _The Hank and Beau Show_, which was previously installed in two of the chain's locations in the mid-1980's and 1991, respectively. As of 2024, four sets of _Stew's Country Jamboree_ have been constructed by VP and operate at only four of the chain's seven stores.
 
 ## Historical Background ##
 When Stew Leonard's first implemented animatronics in their initial Norwalk, CT (100 Westport Ave) store (sometime in the mid-late 1980's), they purchased The Hank and Beau Show (_The Hank and Beau Show_) from Sally Industries in Jacksonville, Florida.<ref>https://youtu.be/DqUgmo5Gl_4?si=EJVgwS8sJIUN9VA1&t=2486</ref> Another _Hank and Beau_ was purchased for and installed at the Danbury, CT (99 Federal Rd) store in 1991. Since then, Stew Leonard's did not continue to purchase _Hank and Beau_ shows from Sally. It is currently unknown if Sally continued to provide maintenance services for the Norwalk and Danbury shows up through the 2010's. It should also be noted that the Danbury _Hank and Beau_ was relocated to Yonkers, NY (1 Stew Leonard Dr) in August 2013.

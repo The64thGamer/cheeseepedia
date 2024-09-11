@@ -2,38 +2,136 @@
 title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
 tags = []
-date = 2023-01-23T14:53:28Z
+date = 2023-12-05T19:48:00Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]
-gallery = []
+gallery = ["Santee","Santee","Santee","Santee","Santee","Santee","Santee","Santee","Santee","Santee","Santee","Santee"]
 +++
-**275 Town Center Parkway** is a future Chuck E. Cheese located in Santee, California, which is a suburb in San Diego's East County. The Santee store may be a possible relocation for the [La Mesa (5500 Grossmont Center Dr)]({{< ref "wiki/La Mesa, CA (5500 Grossmont Center Dr).md" >}}) location, as La Mesa is 15 minutes from the future Santee store. Santee will be the first 2.0 in the San Diego area, and will be the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ([Fairfield (1027 Oliver Rd)]({{< ref "wiki/Fairfield, CA (1027 Oliver Rd).md" >}}) reopened as CEC in July 2022, so they are not new to CEC)
+{{Generic|desc=Exterior a few days before opening, September 15th, 2023|image=santee ca 9 15 2023.jpg}}
+**_Santee, CA (275 Town Center Pkwy), Store #207**_ is a Chuck E. Cheese that opened on September 18th, 2023 with a Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). 
 
-## History ##
+This store opened as the fourth 2.0 in the San Diego area (Oceanside is also a suburb of San Diego, which received 2.0 in 2021), and is the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ([Fairfield (1027 Oliver Rd)]({{< ref "wiki/Fairfield, CA (1027 Oliver Rd).md" >}}) reopened as CEC in July 2022, so they are not new to CEC).
 
-### Pre-CEC ???-2023 ###
-Before development on the CEC in Santee started, the space was a Hometown Buffet which, according to Google Maps reviews, closed in 2017. The Hometown Buffet received generally poor reviews, with the restaurant sitting at a 3.0 stars. The store would stay vacant for several years after closing, with a Google Street View from January 2022 still showing the Hometown Buffet sign still on the building.
+##History##
 
-### CEC 2023-Present ###
-In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website that stated 'Chuck E. Cheese New Store' in Santee, CA. An article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set To Open In San Diego' states that the Santee store will open as early as Summer 2023.
+###Pre-CEC 1995-2023###
+Before development on the store started, the space was a Hometown Buffet which presumably closed in 2017. The Hometown Buffet received generally poor reviews online, with the restaurant sitting at 3.0 stars. The store would stay vacant for several years after closing, with a Google Street View from January 2022 still showing the Hometown Buffet sign still on the building.
 
-## Stages ##
-When the store opens, they will feature a Chuck E. Live Stage and Video Wall. The Santee store will be the first 2.0 in San Diego County.
+###CEC 2023-Present ###
+In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website for the store, which around the same month, an article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set to Open in San Diego' would release, discussing about the store and mentioning that the store would open as early as Summer 2023.<ref>https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html</ref> 
+
+By June 2023, the store would begin its conversion process to a Chuck E. Cheese.
+
+On September 18th, 2023, the store had its soft opening. The store had its Grand Opening on October 12th, 2023.
+
+##Arcade Machines##
+
+###Skill###
+
+*Terminator Salvation
+*Crossbow Master: Chuck E. Cheese's
+*Whack N' Win!
+*Batman (x2)
+*[Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+*Full Tilt
+* Jurassic World: Fallen Kingdom
+*Connect 4 Hoops
+*Alley Roller Classic (x4)
+*Skip Time (Active Season Version)
+* Mario & Sonic Olympic Games Tokyo
+*Avengers 1-player Coin Pusher
+*Super Bikes 3 (x2)
+* Nitro Trucks (x2)
+*Nerf Arcade
+*Red Hot
+*Wicked Tuna 2-player
+*NBA Hoops Matrix (w/o marquee)
+*Power Roll
+*Treasure Quest
+*Willy Crash
+*Sky Riders
+*Carnival Cups
+*Despicable Me Jelly Lab
+* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+*Clutch Shoot
+*Tons of Tickets
+*Fast & Furious: SuperCars (x2)
+*Black Hole
+* Monopoly Roll 'N Go
+* Quik Drop
+*Harpoon Lagoon (w/o marquee)
+*Mega Blaster
+*Plinko
+*SpongeBob SquarePants Ticket Coaster
+*Pop the Lock
+*Tight Rope
+*Halo Fireteam Raven (2-player)
+*Hoop it Up
+*Lumber Jack
+*Centipede Chaos
+*Ticket Monster
+*Real Heroes Fire Rescue
+
+###Kiddie### 
+
+*Ice Man
+* NBA Hoop Troop Jr.
+* Bigfoot Crush
+* Angry Birds Whacker
+*Car Tuned Racing
+*Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
+* Kids Craft Cobra
+*Big Bug Blaster
+*KC Cobra (Blue)
+
+##Stages##
+Santee features a Chuck E. Live Stage and Video Wall.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Note
 |-
-|[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) + Video Wall
-|N/A
-|N/A
-|2021 Model, First 2.0 in the San Diego area
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
+|Late August 2023
+|In Store
+|2021 Model
+|-
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|August 2023
+|In Store
+|2021 Model
 |}
 
-## YouTube Videos ##
-TODO
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+|https://youtu.be/xkwpatqGm-Y
+|A tour around the store's exterior progress mid-construction.
+|July 10th, 2023
+|}
 
-## Gallery ##
-TODO
+##Gallery##
+<gallery>
+File:Santee ca 6 24 2023 n1.jpg|6/24/2023
+File:Santee ca 6 24 2023 n2.jpg|6/24/2023
+File:Santee ca 7 3 2023 n2.jpg|7/3/2023
+File:Santee ca 7 3 2023 n3.jpg|7/3/2023
+File:Santee ca 7 3 2023 n4.jpg|7/3/2023
+File:Santee ca 7 3 2023 n5.jpg|7/3/2023
+File:Santee ca 8 3 2023 n1.jpg|Early August 2023
+File:Santee ca 8 3 2023 n2.png|Early August 2023
+File:Santee ca 8 3 2023 n3.jpg|Early August 2023
+File:Santee ca 8 15 2023 n1.jpg|8/15/2023
+File:Santee ca 8 15 2023 n2.jpg|8/15/2023
+File:Santee ca 8 15 2023 n3.jpg|8/15/2023
+</gallery>
+
+##References##
+
+<references />

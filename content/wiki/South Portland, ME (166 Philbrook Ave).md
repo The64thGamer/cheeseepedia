@@ -2,42 +2,53 @@
 title = "South Portland, ME (166 Philbrook Ave)"
 draft = false
 tags = []
-date = 2023-08-15T01:21:00Z
+date = 2023-12-25T13:03:35Z
 
 [Article]
 contributors = ["47.17.236.200","Midwestretail","ThatBoiCydalan","ShowbizMidwest","Cheeseclassic","CEC Tinley"]
-gallery = []
+gallery = ["Maineback.jpg|The"]
 +++
-**_South Portland, ME (166 Philbrook Ave)**_ was a _Chuck E. Cheese's_ that opened on December 17th, 2002 with a Studio C 2000 in The Maine Mall. This location closed on December 16th, 2012. This store was located from the [Newington, NH (30 Fox Run Rd)]({{< ref "wiki/Newington, NH (30 Fox Run Rd).md" >}}) has been closed down.
+{{Generic|desc=Exterior photo, taken in 2012.|image=Maine.jpg}}
+**166 Philbrook Ave, Store #625** was a _Chuck E. Cheese's_ that opened on December 17th, 2002, with a 32m Studio C 2000, and closed on December 16th, 2012, operating for a total of 9 years.
 
+This was the only Chuck E. Cheese's store in Maine, and after it closed, CEC Entertainment has never re-entered Maine in any sort of way. This location was also an outparcel of the Maine Mall.
+## Stages ##
+The only stage this location ever had was a 32m Studio C 2000. They would keep this until they closed. The bot was sent to West Palm Beach, FL, until 2022, when they got 2.0 and the bot was likely destroyed.
 ## History ##
-South Portland opened in December 17, 2002 with a Studio C 2000 (Studio C Beta, 16m) from Phase 3. The parent company for Chuck E. Cheese's was closing down in December 16, 2012 that it's location in South Portland at the Maine Mall. The Pier 1 Imports was closed down before next to the Ulta Beauty. 
+South Portland's CEC opened on December 17th, 2002, as an outparcel, or separate building, of the Maine Mall. This was the first and only Chuck E. Cheese's to operate in Maine, being the most recent state they had entered business into. This store had the new at the time Studio C 2000 with a 32m version of the bot, and the 2000s version of the SPT 1992/1993 Remodel Program with the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) entertainment and game package deal. This store was popular for many years, until 9 years later, when the lease they had signed had nearly been expired. The lease renewal was refused, so the company announced in December 2012 that they would be closing this store permanently. It closed the day before the 10th anniversary, on December 16th, 2012.<ref> https://www.wmtw.com/amp/article/chuck-e-cheese-s-closing-south-portland-location/1993169</ref>
 
-## Stage ##
-{| class='wikitable'
-|+
-!Stage
-!Installed
-!Removed
-!Notes
-|-
-|Studio C 2000 (Studio C Beta, 16m)
-|December 2002
-|December 2012
-|No longer that holds to right with Studio C Beta until the location was located in Slidell, LA (124 North Shore Blvd), until closed down in 2020.
-|}
-
+This store would be abandoned for about a year, before Pier 1 Imports would open a location in the former space. It would remain there until 2020, when Pier 1 Imports permanently closed all of its stores due to COVID-19.<ref> https://www.usatoday.com/story/money/2020/05/19/pier-1-stores-closing-liquidation-coronavirus-covid-19/5221531002/ </ref>The building would remain vacant until early 2023, when Rack Attack Maine opened up on the space. As of August 2023, Rack Attack Maine remains on the space.<ref> https://www.rackattack.com/store/maine/</ref>
 ## Gallery ##
-TODO
-
+<gallery>
+File:Maineback.jpg|The back of the building.
+FIle:Mainevacant.jpg|The store shortly after being vacated.
+</gallery>
 ## Videos ##
 {| class='wikitable'
 |+
 !Link
-!Filming Date
-!Notes
+!Description
+!Filming / Published Date
 |-
 |https://www.youtube.com/watch?v=Lzi-9oLKn78
 |Chuck E. Cheese's closing South Portland location
 |December 11, 2012
+|-
 |}
+## Animatronics ##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|???
+|Sent to West Palm Beach, FL. Removed in 2022, likely destroyed.
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|???
+|Unknown
+|}
+
+## References ##

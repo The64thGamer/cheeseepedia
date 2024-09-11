@@ -2,114 +2,98 @@
 title = "Corpus Christi, TX (5118 S Staples St)"
 draft = false
 tags = ["Store List"]
-date = 2023-01-25T06:25:53Z
+date = 2024-06-18T19:53:46Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","Parum33","173.216.33.6","CEC Tinley","SuperCreamPiper2008","Gostapua210"]
-gallery = []
+gallery = ["CorpusChristi.jpg|The","CorpusChristiExteriorJuly2015.jpg|thumb|The","Corpus","Corpus2.0Construction.jpeg|thumb|Side"]
 +++
-**_5118 S Staples St**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened on April 1983 (day unknown) as a corporate _Pizza Time Theatre_ with a Balcony Stage Show. It is located in an unknown shopping center.
+[[File:Corpus Christi 2.0 Exterior (2022-12-03).jpg|thumb|A photo of the store's 2.0 Exterior on December 3rd, 2022 (PC: Myron Nielson)]]
+**_5118 S Staples St, Store #454**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in April 1983 (day unknown) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in an unnamed shopping center. It is also known as the childhood location of Matt the Franchize since he grew up with this location from its beginnings.
 ##History##
-Corpus Christi opened its doors on April 1983 with a Balcony Stage show. It was originally a franchised-owned store. Like many other Pizza Time Theatre locations, it had a typical PTT layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open which involved the blue and white awnings, and the colorful checkers.
+Corpus Christi opened its doors in April 1983 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy and was bought on October 22, 1984, along with many other locations by the corporate. Like all locations at some point, it remodeled twice in the 1990s to be up to standard.
 
-In the late 80's , Corpus Christi removed the Balcony Stage for the C-Stage and added the late 80's and early 90's decor. Around the Mid 1990's, Corpus Christi received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's and late 80's decor and added SkyTubes,. This remodel also removed the C-Stage for the 2-Stage. Corpus Christi remained this way until October 2003 when they received the Prototype 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, removing all of the older 80's and 90's decor, and received the prototype decor. They also removed the 2-Stage and got the Studio C Beta stage. In 2012, they received the full 2005 remodel which removed the prototype decor for the newer ones. In 2018, the store's front sign was torn off by Hurricane Harvey. Later that year, they received the Phase 5 front sign which they kept until November 2022 when they received the 2.0 remodel and removed the Beta stage for the Dance Floor. Currently, as of January 2023, they still have the 2.0 remodel and Dance 
+In October 2003, Corpus Christi was chosen as the first location to utilize purple walls and prototype art pieces. Along with this they've also received the at the time new Studio C concept. The location would be unchanged for some time until in 2012 when it got the full Phase 4 Remodel and most of the prototype artwork inside the store was removed, the store expanded its game area, and received new seating.
+
+### Hurricane Harvey and Onwards###
+On August 25, 2017, the Corpus Christi location was struck by Hurricane Harvey. The inflicted damage upon the store was mainly on the exterior, as the signage and windows facing the road caved either inwards or shattered. The damage was reported by local news stations on August 26, 2017, most featuring the location's sign on the pavement. The window area where the damage occurred was swiftly given a temporary wall so the location can return to regular store operations in the coming days while the wall was finally finished in 2018, also receiving new signage. 
+
+In October 2022, the location officially remodeled again to CEC's 2.0 remodel removing the Beta for the Dance Floor and Video Wall.
+
+Sometime between mid 2023 and early 2024, this location installed a Trampoline Zone in the back left area of the store.
+
 ##Stages##
-Corpus Christi opened with the Balcony Stage in April 1983. Unfortunately, there are some photos but not a lot videos to exist of Corpus Christi with the Balcony Stage, or as a Pizza Time Theatre in general.
+When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the Chuck E.'s House Facade (C-Stage). This store also received a unique porch area in front of the characters for live performances. This location would also manage to get one of the last 2-Stages installed, being installed in November 1996, three years after the newer [1-Stage]({{< ref "wiki/1-Stage.md" >}}) concept was introduced. 
 
-In the late 80's, Corpus Christi received the C-Stage, removing the Balcony Stage.
-
-In the mid 90's, Corpus Christi remodeled and removed the C-Stage for the 2-Stage.
-
-In the Mid 2000's, Corpus Christi remodeled again and removed the 2-Stage for their Studio C Beta stage.
-
-In November 2022, Corpus Christi received the 2.0 remodel and removed the Beta stage for the Dance Floor.
-{| class='wikitable'
-!Stage
-!Installed
-!Removed
-!Notes
-|-
-|Balcony Stage
-|April 1983
-|Late 80's
-|
-|-
-|C-Stage
-|Late 80's
-|Mid 90's
-|
-|-
-|2-Stage
-|Mid 90's
-|Mid 2000's
-|
-|-
-|Studio C Beta, 16M
-|Mid 2000's
-|November 2022
-|
-|-
-|Dance Floor
-|November 2022
-|Still in use
-|
-|}
+In 2003 the 2-Stage was replaced with the Studio C concept. This store received Studio C 2000, a newer take on the concept. This Studio C Show was later removed in October 2022 when they received the 2.0 remodel and removed their Studio C show for the Dance Floor and Video Wall. 
 ##Animatronics##
 {| class='wikitable'
-|+
 !Character
-!Serial
+!Manufacturing Date
 !Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
-|7-81 1-16
-|In store.
+|[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}}) 
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
-|7-81 2-16
-|In store.
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Unknown
+| Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|7-81 3-16
-|In store.
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|7-81 4-16
-|In store.
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|7-81 5-16
-|In store.
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|Unknown / Destroyed 
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|7-81 6-16
-|Unknown/Destroyed
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|Unknown 
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|7-81 7-16
-|Unknown/Destroyed
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|7-81 8-16
-|Unknown/Destroyed
+|Waving Flags (Cyberamic)
+|Unknown
+|Owned by Matt the Franchisee
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|7-81 10-16
-|Unknown/Destroyed
+|Clapper Board (Cyberamic)
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
-|7-81 11-16
-|Unknown/Destroyed
+|Band Board (Cyberamic)
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
-|N/A
-|Unknown/Destroyed
+|The King / King Kat (Lounge) (The King (Lounge))
+|Unknown
+|Unknown / Destroyed
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
-|N/A
-|Unknown/Destroyed
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|2003
+|Destroyed
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|2003
+|Destroyed
 |}
+
 ##Gallery##
+[https://www.showbizpizza.com/photos/ptt/tx_corpus/index.html 1980's-1996] [https://www.showbizpizza.com/photos/cec/tx_corpus/index.html 2002-2007]
+<gallery>
+File:CorpusChristi.jpg|The store's Balcony Stage
+File:CorpusChristiExteriorJuly2015.jpg|thumb|The store's Exterior in July 2015 (PC: texaswillie on Tripadvisor)
+File:Corpus Christi 2015 Exterior At Night (2021-08-04).jpg|thumb|The store's 2015 Remodel Exterior At Night a year before the 2.0 remodel started (2021-08-04) (PC: Mory Zero on Google Maps)
+File:Corpus2.0Construction.jpeg|thumb|Side exterior during 2.0 remodel (2022-09-28) (PC: Parum33)
+</gallery>
+
 ##Videos##
 TODO
 ##References##

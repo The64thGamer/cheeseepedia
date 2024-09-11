@@ -2,13 +2,13 @@
 title = "Monroeville, PA (3813 William Penn Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-18T19:16:23Z
+date = 2024-03-18T19:26:52Z
 
 [Article]
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-**_Monroeville, PA (3813 William Penn Hwy)**_ was a _Pizza Time Theatre_ that opened on March 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and relocated across the street to its [new location]({{< ref "wiki/Monroeville, PA (3800 William Penn Hwy).md" >}}) in March 1993 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Pennsylvania.
+{{Generic|image=Monroeville PTT Site in 2023.jpg|desc=The site of the former PTT in 2023.}}**_Monroeville, PA (3813 William Penn Hwy)**_ was a _Pizza Time Theatre_ that opened on March 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and relocated across the street to its [new location]({{< ref "wiki/Monroeville, PA (3800 William Penn Hwy).md" >}}) in March 1993 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Pennsylvania.
 
 ##Stages##
 {| class='wikitable'

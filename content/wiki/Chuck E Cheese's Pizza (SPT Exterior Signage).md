@@ -2,18 +2,19 @@
 title = "'Chuck E. Cheese's Pizza' (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 2024-06-27T19:46:38Z
+date = 2024-06-27T19:52:16Z
 
 [Article]
 contributors = ["CECMadison"]
 gallery = ["Preston1990s.jpg|Signage"]
 +++
-{{Art|image=Chucke-cheeses-pizza.svg|releasedate=1987|finalrelease=1995|color=Green, Red, Yellow}}
+{{Art|image=Chucke-cheeses-pizza.svg|releasedate=1987 (marketing)
+Janurary 12th, 1990 (signage)|finalrelease=1995|color=Green, Red, Yellow}}
 
-****Chuck E. Cheese's Pizza**** was exterior signage produced for ShowBiz Pizza Time Inc from around 1987 to 1995 for the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}). 
+****Chuck E. Cheese's Pizza**** was exterior signage produced for ShowBiz Pizza Time Inc from January 12th, 1990 to 1995 for the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}). 
 
 ## Usage ##
-The first known usage of this signage would be at the [Silver Spring, MD (13807 Outlet Dr)]({{< ref "wiki/Silver Spring, MD (13807 Outlet Dr).md" >}}) store after it was one of the first stores to receive the 1988 Remodel as a test in 1987. It would continue to be used afterwards on existing Pizza Time Theater stores, existing showbiz stores that underwent Concept Unification,  and new stores that opened between 1990-1995.
+The first usage of this signage would be at the [Rancho Cucamonga, CA (9339 Foothill Blvd)]({{< ref "wiki/Rancho Cucamonga, CA (9339 Foothill Blvd).md" >}}) store. It would continue to be used afterwards on existing Pizza Time Theater stores, Existing Showbiz stores that underwent Concept Unification,  and new stores that opened between 1990-1995
 ## Variants ##
 There would be a few variants of this signage used throughout its lifespan.
 

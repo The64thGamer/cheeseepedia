@@ -2,7 +2,7 @@
 title = "Emergency Show (Best of 93)"
 draft = false
 tags = []
-date = 2022-07-15T03:11:14Z
+date = 2022-09-10T17:12:47Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer"]
@@ -16,9 +16,12 @@ gallery = []
 |cusvhs = y
 }}
 
-**_Best of CEC TV**_ was a show which compiled segments and intermissions from 1991-1993. The show was used as a backup tape starting from its release in May 1993 until it was replaced by [Chuck E's Variety Show - Best of 1999]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) in January 2000.
+**_Emergency Show (Best of 93)**_ was an emergency backup version of the [Best of CEC TV 1993]({{< ref "wiki/Best of CEC TV 1993.md" >}}), lasting from May 1993 to the [Chuck E's Variety Show - Best of 1999]({{< ref "wiki/Chuck E's Variety Show - Best of 1999.md" >}}) in January 2000. 
 
-##Show List ##
+## Emergency Backup Format ##
+As stated in the [Concept Unification Installation Manual]({{< ref "wiki/Concept Unification Installation Manual.md" >}}), the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
+
+## Show List ##
 #**Intermission 1**
 ##6 Minute Countdown
 ##CEC TV '93 ID
@@ -87,3 +90,4 @@ gallery = []
 *The first show in the Post-93 format, which shifted bits around to stop previous shows from playing.
 *Country Dancin' is mislabeled as Home On The Range 
 *The video for Chuck E.'s Place has been updated with footage from various training videos.
+*The Emergency Show variant removed the pizza countdowns during the intermissions.

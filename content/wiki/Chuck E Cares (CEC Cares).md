@@ -2,10 +2,10 @@
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
 tags = []
-date = 2022-05-26T03:13:18Z
+date = 2022-12-06T04:03:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-[[File:Imagececcare.png|thumb|Charity Logo]]
+text/x-wiki

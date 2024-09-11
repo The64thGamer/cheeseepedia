@@ -2,11 +2,11 @@
 title = "Hesperia, CA (16968 Main St)"
 draft = false
 tags = []
-date = 2023-10-03T22:49:12Z
+date = 2023-10-03T23:25:29Z
 
 [Article]
 contributors = ["2600:1012:B1AA:2DE5:CD92:CD8D:6100:E70E","Cheeseclassic"]
 gallery = []
 +++
-‘’’’’ 16968 Main St, Store #270’’’’’ is a future Chuck E. Cheese located in Hesperia,
-California. This location will be located in a former Kmart.
+**16968 Main St, Store #270** is a future Chuck E. Cheese located in Hesperia,
+California. This location will be located in a former Kmart. When this location opens, it will have the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), featuring a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}).

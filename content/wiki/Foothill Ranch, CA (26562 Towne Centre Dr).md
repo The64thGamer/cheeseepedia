@@ -2,12 +2,14 @@
 title = "Foothill Ranch, CA (26562 Towne Centre Dr)"
 draft = false
 tags = []
-date = 2022-09-13T14:00:14Z
+date = 2024-07-31T15:29:11Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005"]
 gallery = []
 +++
+{{Stub}}
+
 **26562 Towne Centre Dr** was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on May 30, 2003 with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day
 
 This location received the 2.0 remodel in 2018.
@@ -32,18 +34,6 @@ Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C 
 |2017 Model
 |}
 
-## Animatronics ##
-{| class='wikitable'
-|+
-!Animatronic
-!Serial Number
-!Whereabouts
-|-
-|Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m (Studio C))
-|Unknown
-|Unknown
-|}
-
 ## Videos ##
 {| class='wikitable'
 |+
@@ -54,12 +44,15 @@ Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C 
 |https://youtu.be/gp1slCK64k0
 |Store Tour at Foothill Ranch, CA
 |February 13, 2022
+|}
+## Animatronics ##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial
+!Whereabouts
 |-
-|
-|
-|
-|-
-|
-|
-|
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Unknown
 |}

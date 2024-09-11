@@ -2,55 +2,66 @@
 title = "Tulsa, OK (7108 S Memorial Dr)"
 draft = false
 tags = []
-date = 2023-01-22T19:15:52Z
+date = 2023-12-04T13:45:32Z
 
 [Article]
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]
-gallery = ["JaxAtl01.jpg|Exterior"]
+gallery = []
 +++
-[[File:Tulsa Memorial CEC.png|thumb| () (PC: ??)]]
-**_7108 S Memorial Dr**_ was a _Showbiz Pizza Place_ restaurant located in Tulsa, Oklahoma.
+{{Stub}}{{Generic|desc=Exterior in 2019 |image=Chcuk e chhese tulsa 2.0.jpg}}
 
-## History ##
-Tulsa, OK opened its doors on September 15th, 1980 as the first store in Oklahoma. This was one of 18/19 stores to receive a Beta RockAfire Explosion show, though it was very still unique in several ways. 
-In 1991-1992, Concept Unification was in full swing, Replacing the RockAfire Explosion with Munch's Make Believe Band. 
 
-Then store would receive the 1993 remodel sometime by the 1990s at the earliest, complete with: an Obstotron (later SkyTubes); Platinum CD Award posters; Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Chuck signs; 1991 Confetti Portraits; and other misc signage. 
+**_7108 S Memorial Dr**_ was a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on September 15th, 1980, with a Rock-afire Explosion and is still open to this day as a 2.0 store.
 
-In 2000, Tulsa would remodel once again, this time removing the 3-Stage for a Studio C Alpha.
-
-In 2000s, Tulsa would receive the CEC 2005 Remodel (2005 Remodel); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. 
-
-In 2019-2020, Tulsa started their 2.0 Remodel. The stage was removed on 2020.
+It is located in an unnamed shopping center across from the Woodland Hills Mall.
 
 ## Stages ##
-Originally when the store opened, they had a Rock-Afire Explosion, they were the 2nd RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. 
+Originally when the store opened, they had a Rock-Afire Explosion, they were the 2nd RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. It was also one of 19 stores to have the 'Beta' bots. 
+Tulsa would replace their original bots in 1981, as all other 'Beta' shows into the one with solid frames. 
+
+In around 1991 or 1992, Tulsa would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. It is one of 3 Showbiz Pizza stores in Oklahoma to undergo Concept Unification. 
+
+Sometime from Fall 1999-Spring 2000 the 3-Stage was removed for the Studio C Alpha. It was the only Alpha in Oklahoma. Curtains would be disabled in 2005 then enabled again in 2007. The stage would get 2 new flat Screen Tv's in 2011 then later in the year curtains would get disabled again then came back in late 2013 until they would be disabled for good in December 2015. Between January 2013-March 2013 both the Blue Screen and the Interactive console were removed and then the cap would get removed in September 2013
+
+In October 2019, the Studio C Alpha was removed for the 2019 Model Dance Floor and the Video Wall. 
 {| class='wikitable'
+|+
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|The Rock-afire Explosion
 |September 1980
-|1991-1992
-|Original bots replaced in 1981.
+|1991/1992
+|3rd Showbiz Pizza opened. 2nd Rock-afire installed.
 |-
-|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
-|1991-1992
+|3-Stage
+|1991/1992
 |2000
-|
+|One of 3 Showbiz Pizzas in Oklahoma to get Concept Unification.
 |-
-|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
-|2000
-|November 2022
-|Last Animatronic show in Tulsa
+|Studio C Alpha
+|Fall 1999-Spring 2000
+|October 2019
+|Only Alpha in Oklahoma.
 |-
-|Chuck E. Live Stage (Dance Floor) (Dance Floor) 
-|2020
-|Still in Use
-|2019 Model
+|Dance Floor + Video Wall
+|October 2019
+|Still in use
+|2019 model.
 |}
+
+## History ##
+Tulsa opened its doors on September 15th, 1980, as the first store in Oklahoma and the third Showbiz Pizza overall. This was one of 18/19 stores to receive a Beta Rock-afire Explosion show, though it was very still unique in several ways. In 1988-1989, Tulsa received a minor remodel removing some decor, exterior sign change, and the Billy Bob stage change. In 1991-1992, Tulsa received Concept Unification and the 1988 remodel replacing the Rock-afire Explosion with Munch's Make-Believe Band, removing all SPP decor for CEC decor, added Blue and White awnings, checkers, and another exterior and sign change. Around the mid 90's, Tulsa would receive the Phase 2 removing old decor for the Platinum CD Award posters, Mt. Chuckmore, 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West), the Cheese Guitar sign, the 1993 Salad Bar sign, the Beverages and Round Chuck signs, the 1991 Confetti Portraits, and other misc signage. 
+
+Sometime from Fall 1999-2000, Tulsa received the Phase 3 remodel removing the 3-Stage for a Studio C Alpha, removing older decor for newer decor, removed Blue and White awnings, all checkers, and another exterior sign change.
+
+In 2005-2006, Tulsa would receive the 2005 Remodel, removing older decor for newer decor, removing Showroom Walls, Balcony Seating, adding purple walls, added windows by the stage, relocated some parts of the store, and expanded to fit in more games and tables. 
+
+In September 2019, Tulsa would start the 2.0 remodel removing the Alpha stage for the 2019 Model Dance Floor and Video Wall.
+
+Currently, as of May 2023, the location still has the 2019 Model Dance Floor and Video Wall.
 
 ## Animatronics ##
 {| class='wikitable'
@@ -60,117 +71,131 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 |-
 |Beta Rolfe DeWolfe
 |7-80 1-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Dook Larue
 |7-80 2-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Fatz Geronimo
 |7-80 3-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Beach Bear
 |7-80 4-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Mitzi Mozzarella
 |7-80 5-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Billy Bob
 |7-80 6-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Looney Bird
 |7-80 7-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Choo Choo
 |7-80 8-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Sun
 |7-80 10-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Moon
 |7-80 11-2
-|Destroyed
+|Destroyed.
 |-
 |Beta Antioch
 |N/A
-|Destroyed
+|Destroyed.
 |-
 |Chuck E. Cheese / Rolfe DeWolfe
 |4-81 1-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Pasqually / Dook Larue
 |4-81 2-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Mr. Munch / Fatz Geronimo
 |4-81 3-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Jasper T. Jowls / Beach Bear
 |4-81 4-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Helen Henny / Mitzi Mozzarella
 |4-81 5-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Billy Bob
 |4-81 6-1
-|Unknown
+|Unknown/Destroyed.
 |-
 |Pizzacam / Looney Bird
 |4-81 7-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Munch Jr. / Choo Choo
 |4-81 8-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Building / Sun
 |4-81 10-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Moon
 |4-81 11-1
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Antioch
 |N/A
-|Destroyed
+|Unknown/Destroyed.
 |-
 |Wink
 |N/A
-|Destroyed
+|Unknown/Destroyed.
 |-
 |[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |0??
-|Destroyed
+|Destroyed.
 |-
 |Parrot (Animatronic)
 |N/A
-|Destroyed
+|Destroyed.
 |-
 |Clock
 |N/A
-|Destroyed
+|Destroyed.
 |-
 |Pizza Phone
 |N/A
-|Destroyed
+|Destroyed.
 |}
 
 ##Gallery##
-<gallery>
-File:JaxAtl01.jpg|Exterior back when it was ShowBiz Pizza Place (1980). PC: showbizpizza.com
-</gallery>
+TODO
 
 ##Videos##
-TODO
+{| class='wikitable'
+|+
+!Link
+!Description
+!Published Date
+!Date taken
+|-
+|https://www.youtube.com/watch?v=Um6dMZxKOoM&t=29s
+|Chuck E Cheese Rockstar Show 2014
+|October 22, 2014
+|October 22, 2014
+|-
+|https://www.youtube.com/watch?v=6pb9Q5h3Pn4&t=310s
+|Only footage of the 3 stage skip to 6:16
+|June 2, 2022
+|January 2, 1996
+|-

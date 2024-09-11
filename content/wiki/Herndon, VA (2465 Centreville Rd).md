@@ -2,52 +2,45 @@
 title = "Herndon, VA (2465 Centreville Rd)"
 draft = false
 tags = []
-date = 2023-08-19T14:21:03Z
+date = 2024-06-08T12:04:43Z
 
 [Article]
 contributors = ["66.215.38.213","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []
 +++
+{{Stub}}{{Generic|image=Herndon’s Exterior pre-2.0.jpg|desc=Herndon’s Exterior in June 2023, a month before the 2.0 remodel. (PC: Google Maps)}}
 **_2465 Centreville Rd, Store #368**_ is a Chuck E. Cheese's that opened on
-May 19, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and is still open to this day with the 2.0 remodel.
-After 2.0 their bots were sent to the Dance Floor In 2019 Model As Of July 2023 As On August 2023
-location for parts.
+May 19, 1992, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), and is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
 
+## History ##
+Herndon opened on May 19, 1992. At first, they had a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Nothing special is known about it, and stayed up until the location received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in 2007, replacing the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}). It would remain this way until July 2023, when the location received the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), meaning the Studio C was removed for a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}). The location also received a Trampoline Zone. As of September 2023, Herndon remains like this.
 
-## Stages ##
-At first, they had a 2-Stage show. Nothing special is known about it, and is stayed up
-until the 2.0 remodel in July 2023 After the remodel, their bots were sent to Herndon Virgina and
-used for parts to repair their bad-conditioned stage.
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
-!Notes
 |-
-|2-Stage
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |May 1992
-|July 2023
-|Used for parts at Herndon Virgina during 2.0
+|2007
 |-
-|Dance Floor + Video Wall
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
+|2007
+|July 2023
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |July 2023
 |Still In Use
-|2019 Model.
 |}
 
-
-## History ##
-Herndon hosted its grand opening May 19, 1992 with the 1992 update to the 2.0
-Remodel Has A 2-Stage
-On Dance Floor In 2019 Model And Then Video Wall As Of July 2023 the location still remains like this.
-
-
-## Animatronics ##
-TODO
-|-
-## Gallery ##
-TODO
-|-
 ## Videos ##
-TODO
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|https://www.youtube.com/watch?v=4drM9AVe0Qg
+|The stage performing birthday star 2001
+|Unknown
+|}

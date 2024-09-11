@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Summer Show 2024"
 draft = false
 tags = []
-date = 2024-07-20T02:45:20Z
+date = 2024-07-29T15:31:10Z
 
 [Article]
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
@@ -18,7 +18,9 @@ gallery = []
 ## Show List: ##
 
 # Intermission 1 
-## Off Road with Chuck E. Episode 3 
+## Red Nosy Short (5/6-5/23)
+## Memorial Day (60 second Minute of Silence) 5/27 only USA Corp stores Only
+## Off Road with Chuck E. Episode 3
 ## Chuck E. Cheese - 'The Garden Gnome' 
 ## Chuck E. & Friends - 'Fireworks Tonight' 
 ## KIDZ BOP Kids - 'Yes, And'
@@ -27,7 +29,7 @@ gallery = []
 ## Chuck E. & Friends - 'Down the Road' 
 ## Chuck E. & Friends - 'Most Perfect Day'
 # **Intermission 2**
-## Tenacious D - 'Baby One More Time' 
+## Tenacious D - 'Baby One More Time' replaced with Kidzbop Never Stops (5/23 update)
 ## Chuck E. & Bella - 'Bella's Garden' 
 ## Chuck E. Cheese - 'Banana Dog'
 # **Skit 2**
@@ -45,6 +47,8 @@ gallery = []
 ## Chuck E. & Friends - 'Song of Summer' 
 ## Chuck E. & Friends - 'Ves Al Ratoncito'
 # **Intermission 5**
+## DJ Munch - 'Join the Party'
+## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'TQG'
 # **Skit 5**
 ## Chuck E. & Friends - 'Barbara the Barnyard Barber' 
@@ -63,6 +67,6 @@ gallery = []
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
-* Yuletide Slide (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Yuletide Slide (Chuck E. Strut) (3-Stage Navori, CEC Stage Navori, Media Navori)
 * CEC Stage Diagnostic (CEC Stage Navori)
 * 3-Stage Diagnostic (3- Stage Navori)

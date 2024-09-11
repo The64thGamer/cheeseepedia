@@ -2,23 +2,26 @@
 title = "Beaverton, OR (4445 SW 110th Ave)"
 draft = false
 tags = []
-date = 2023-07-26T17:23:37Z
+date = 2024-09-01T22:54:44Z
 
 [Article]
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic","ChungusMaster9000","Documentor"]
 gallery = []
 +++
-**_4445 SW 110th Ave**_ was a _Chuck E. Cheese's Pizza_ that opened in September 1990 (day unknown) and closed in January 2003 (day unknown) with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}).
+{{Stub}}
 
-This location relocated to [4145 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4145 SW 110th Ave).md" >}}), which opened in January 2003 (day unknown) and is still open with a Studio C 2000 (Studio C Beta).
+{{Generic|image=Picture 05-01 1.jpg|desc=The store's exterior in 2001 (PC: showbizpizza.com)}}
+**_4445 SW 110th Ave**_ was a _Chuck E. Cheese's Pizza_ that opened in September 1990 with the [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) stage and closed in August 2002.
 
-## Stage ##
-Beaverton's only stage was [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). There isn't a lot known about this store, but there is footage from around 1996 that exists. After the 2003 closure, the bots fates were unknown.
+This location later closed and relocated to [4145 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4145 SW 110th Ave).md" >}}) with a Studio C 2000 (Studio C Beta).
+
+##Stage##
+Beaverton's only stage was Chuck E.'s House. The location of the animatronic characters are unknown.
 {| class='wikitable'
 |+
 !Stage
-!Installed
-!Removed
+!Installed 
+! Removed
 !Notes
 |-
 |[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}})
@@ -27,10 +30,10 @@ Beaverton's only stage was [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" 
 |Last Rocker installed in Oregon.
 |}
 
-## History ##
-Beaverton opened their second CEC in September 1990 after the closure of the [11753 SW Beaverton Hillsdale]({{< ref "wiki/Beaverton, OR (11753 SW Beaverton Hillsdale).md" >}}) store in July 1985. The store had a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) stage, the last one installed in Oregon. They also had the 1986 SPT Remodel Program (1988 remodel) upon opening. This location received the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel around 1997-1999, changing every aspect around the store, removing all elements of the 1988 remodel. Somehow, [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) remained in the showroom. They then received Phase 3 in the early 2000s, only to close forever in January 2003 and relocate (day unknown). As of July 2023, the store is now part of a Home Depot store.
+##History##
+**_4445 SW 110th Ave**_ is Beaverton's second _Chuck E. Cheese_ store, following [11753 SW Beaverton Hillsdale]({{< ref "wiki/Beaverton, OR (11753 SW Beaverton Hillsdale).md" >}}), which closed in July 1985. The store opened with the [1988 remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) and the Chuck E.'s House stage, the last installed in Oregon. The store would later receive the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel around 1997 to 1999, then Phase 3 in the early 2000's. The store later closed permanently and relocated to 4145 SW 110th Ave. As of July 2023, the land that occupied the store is now part of a Home Depot store.
 
-## Videos and Footage ##
+##Videos and Footage##
 {| class='wikitable'
 |+
 !Link
@@ -44,19 +47,4 @@ Beaverton opened their second CEC in September 1990 after the closure of the [11
 |The live show 'Mony Mony' being played on their stage.
 |1996
 |July 25, 2022
-|-
-|
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|
 |}
-
-## Animatronics ##
-TODO

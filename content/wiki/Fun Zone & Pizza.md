@@ -2,7 +2,7 @@
 title = "Fun Zone & Pizza"
 draft = false
 tags = []
-date = 2024-03-06T13:12:37Z
+date = 2024-08-17T14:55:34Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX","BenTrainFan2000"]
@@ -18,7 +18,9 @@ gallery = []
 The Pizza Time Theatre in Chico California on 966 East Avenue opened in July 1982. The locationed would get the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) in 1993, which added the CEC Pizza logo & New store Decor. The location would gain a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) in 1993 as well.
 
 ### Fun Zone & Pizza ###
-Fun Zone & Pizza was created after Chico Lost it's license to the CEC IP. The location would retrofit its animatronics & replace old CEC Decor with new ones. The company used a dog, cow, & lion as the mascot costumes placed over the bots. The Location would use dollar store items & frozen pizza instead of corporate items. The only location of Fun Zone & Pizza would be Chico, CA as it would close in late 2011.
+Fun Zone & Pizza was created after Chico Lost it's license to the CEC IP. The location would retrofit its animatronics & replace old CEC Decor with new ones (with some allegedly hidden from public view). The company used a dog, cow, & lion as the mascot costumes placed over the bots. The Location would use dollar store items & frozen pizza instead of corporate items. The wall decor also became generic mascot ones though they kept the salad bar sign.
+
+The only location of Fun Zone & Pizza would be Chico, CA as it would close in late 2011 due to unprofitability.
 
 ## Stages ##
 {| class='wikitable'

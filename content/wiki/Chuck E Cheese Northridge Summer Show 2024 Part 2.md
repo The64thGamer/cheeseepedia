@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Northridge Summer Show 2024 Part 2"
 draft = false
 tags = []
-date = 2024-07-20T03:48:06Z
+date = 2024-07-30T23:11:51Z
 
 [Article]
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Showtape|title=Summer Show 2024|image=Sumpt24.png|date=July 8th, 2024|studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 
-**_Chuck E. Cheese Summer Show 2024 Part 2**_ was a another summer show released on July 8, 2024. It features a variety of songs released from 2017-2023. The show features 9 songs.
+**_Chuck E. Cheese Legacy Summer Show 2024 Part 2**_ was an another summer show released on July 8, 2024 and was exclusively played in Northridge until July 28, 2024. It features a variety of songs released from 2017-2023. The show features “Together We’ve Got It” & “I Love Sparkles”  as the only programmed songs in the playlist. This playlist also plays at Hicksville after their Grand Reopening on July 19th.
 
 ## Show List: ##
 
@@ -47,7 +47,7 @@ gallery = []
 ## DJ Munch - 'Play All You Can Play'
 ## Diana Ross ft. Tame Impala - 'Turn Up the Sunshine'
 ## Jasper T. Jowls - 'Dog Days of Summer'
-## Bella B. - 'iA Divertirnos!'
+## Bella B. - 'iA Divertirnos!' (walk around version)
 ## Chuck E. Cheese - 'Too Many Pigs in the Pool'
 ## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
@@ -56,5 +56,9 @@ gallery = []
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
 * [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
-* Chuck E. Strut (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Beach Party Bash  (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
+
+## Trivia ##
+
+* “Most Perfect Day”,”It’s The 70s”, and ”Every Boy, Every Girl” can be used for Manuel Selection at MMBB Legacy Stores.

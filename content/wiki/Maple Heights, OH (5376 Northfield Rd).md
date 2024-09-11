@@ -2,10 +2,10 @@
 title = "Maple Heights, OH (5376 Northfield Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-04T12:49:14Z
+date = 2024-03-09T17:24:39Z
 
 [Article]
 contributors = ["199.197.75.185","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
 +++
-5376 Northfield Rd was a Chuck E. Cheese's Pizza Time Theatre that opened on November 1980 with a Cyberamics Portrait Stage (Portrait Stage) which closed around 1985/1986.
+text/x-wiki

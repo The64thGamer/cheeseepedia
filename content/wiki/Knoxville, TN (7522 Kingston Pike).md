@@ -2,40 +2,10 @@
 title = "Knoxville, TN (7522 Kingston Pike)"
 draft = false
 tags = []
-date = 2023-04-28T19:31:42Z
+date = 2024-08-20T01:44:42Z
 
 [Article]
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
 gallery = []
 +++
-[[File:barboursville.png|thumb|Photo of the front entrance, unknown date.]]
-**_7522 Kingston Pike**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_ that opened on August 23rd, 1982 with a [RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in Summer 1997 with the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
-
-This is not to be confused with the current Chuck E. Cheese's location on [8225 Kingston Pike]({{< ref "wiki/Knoxville, TN (8225 Kingston Pike).md" >}}) which opened on March 23rd, 1998 with one of the last [1-Stages]({{< ref "wiki/1-Stage.md" >}}) installed
-
-## History ##
-Knoxville opened on August 23rd, 1982 as the second Showbiz Pizza Place in Tennessee, after Madison which opened 2 months prior which was June 15th and as a Franchised Store. Knoxville originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. Knoxville would remain this way until it's closure in Summer 1997. It is unknown what happened to the show after the store's closure. Sometime after closure, the store was demolished for Texas Roadhouse. As of April 2023, Texas Roadhouse still sits on the site where the location once stood. However, A [new location]({{< ref "wiki/Knoxville, TN (8225 Kingston Pike).md" >}}) (Now owned by CEC Corporate) would open down the road as freestanding building with a 1-Stage. That location got 2.0 in April/May 2022.
-
-## Stages ##
-{| class='wikitable'
-!Stage
-!Installed
-!Removed
-!Notes
-|-
-|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
-|August 1982
-|1991
-|2nd Showbiz to open in Tennessee.
-|-
-|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
-|1991
-|Summer 1997
-|One of eight Tennessee locations to get Concept Unification.
-|}
-
-## Gallery ##
-TODO
-
-## Videos ##
-No videos currently exist of this location
+text/x-wiki

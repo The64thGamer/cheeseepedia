@@ -2,13 +2,13 @@
 title = "Albany, NY (1440 Central Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-08T13:39:57Z
+date = 2024-05-08T13:40:48Z
 
 [Article]
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_1440 W Ridge Rd**_, was a Chuck E. Cheese's Pizza Time Theater that opened in 1982 (month and day unknown , with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on September 10th, 1995 as a Chuck E. Cheese's with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+**_1440 Central Ave**_, was a Chuck E. Cheese's Pizza Time Theater that opened in 1982 (month and day unknown), with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on September 10th, 1995 as a Chuck E. Cheese's with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 ##History##
 TODO

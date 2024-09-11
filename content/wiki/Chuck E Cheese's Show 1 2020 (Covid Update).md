@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 1 2020 (Covid Update)"
 draft = false
 tags = []
-date = 2022-02-22T20:31:29Z
+date = 2022-07-14T20:05:46Z
 
 [Article]
 contributors = ["Documentor"]
@@ -19,7 +19,7 @@ gallery = []
 }}
 **_Show 1 2020 (Covid Update)**_ was released _on_ June 21, 2020.
 
-This was created to play from December 21, 2020 - June 23, 2020. This show features five songs and the first show to include the Covid Message.  
+This was created to play from June 21, 2020 - June 22, 2020. This show features five songs and the first show to include the Covid Message.  
 ##Show List:##
 
 # **Intermission 1**
@@ -69,6 +69,6 @@ This was created to play from December 21, 2020 - June 23, 2020. This show featu
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
 ## Trivia: ##
-This show ran for 2 days being the shortest ran show ever. 
 
-All of Intermission 6 were reused for Chuck E. Cheese's Show 2 2020 (Show 2 2020).
+* This show ran for only 2 days this being the shortest ran show with signals. The showtape with shortest usage goes to [Ryan's World Fan Fest Watch Party]({{< ref "wiki/Ryan's World Fan Fest Watch Party.md" >}})
+* All of Intermission 6 was reused for Chuck E. Cheese's Show 2 2020 (Show 2 2020).

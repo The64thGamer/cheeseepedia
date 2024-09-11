@@ -2,16 +2,10 @@
 title = "Bandstand II"
 draft = false
 tags = []
-date = 2021-12-06T23:18:01Z
+date = 2022-12-11T04:42:46Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##Showtape Scans / Images:##
-<gallery>
-Product Quality Seal.jpg|Product Quality Seal
-Blank Reel Box.jpg|Reel Case
-Blank Reel Box Inside.jpg|Reel in Case
-Bs2 reel label.jpg|Reel Label
-</gallery>
+text/x-wiki

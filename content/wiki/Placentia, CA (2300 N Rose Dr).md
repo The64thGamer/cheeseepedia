@@ -2,29 +2,40 @@
 title = "Placentia, CA (2300 N Rose Dr)"
 draft = false
 tags = []
-date = 2023-02-27T23:16:52Z
+date = 2024-06-28T20:27:54Z
 
 [Article]
 contributors = ["ChuckECool","216.125.34.66","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic"]
-gallery = []
+gallery = ["PlacentiaRoadStageMidLate1990s.jpg|thumb|The","PlacentiaExteriorBefore2005Update.jpg|The","ChuckE&HelenPlacentiaCA.jpg|Chuck","HelenMunchJasper&PasquallyPlacentiaCA2007.jpg|Helen,","PlacentiaCARoadStage20170916.jpg|The"]
 +++
-**_2300 N Rose Dr**_ is a Chuck E. Cheese that opened in September 24, 1991 as a corporate location with a Road Stage which is still open to this day.
+{{Generic|desc=Street View of the store's Exterior in September 2022 (PC: Google Maps)|image=Placeentia2022SeptemberGoogleMaps.png}}
 
-It is located in the Imperial Plaza Shopping Center. It opened on the same day as the [original Melrose Park, IL location]({{< ref "wiki/Melrose Park, IL (1315 W North Ave).md" >}}) and the death of Doctor Theodore Seuss (Dr. Seuss). It is one of the three locations to be visited by the no-good youtube channels, Arcade Craniacs and Lyssy Noel.
+**_2300 N Rose Dr, Store #442**_ is a _Chuck E. Cheese's Pizza/Chuck E. Cheese_ that opened on September 24, 1991, as a corporate location with a Road Stage and is still open to this day as a 2.0.
+
+It is located in the Imperial Plaza Shopping Center. It opened on the same day as the [Melrose Park, IL (1315 W North Ave)]({{< ref "wiki/Melrose Park, IL (1315 W North Ave).md" >}}) location. It is one of the four locations visited by the 3:00 am YouTube channels, Arcade Craniacs and Lyssy Noel. The others are an unknown Studio C location, Murrieta, CA & [Diamond Bar, CA]({{< ref "wiki/Diamond Bar, CA (1900 S Brea Canyon Rd).md" >}}).
+
 ##History##
-Placentia opened on September 24th, 1991 as a corporate-owned location. This location opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990's, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor and SkyTubes. In 2009, Placentia remodeled to the 2005 remodel which involved the removal of the showroom walls, removing older decor for newer decor, new booths, & adding purple walls. Strangely, the brown checkers were added and the logo, text, and awnings were not replaced. Currently, as of February 2023, the location still has the 2005 Remodel and the Road Stage.
-##Stages##
-Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit.
+Placentia opened on September 24th, 1991, as a corporate-owned location. This location opened with the 1988 Remodel, CU decor, and the Road Stage. Around the mid-late 1990s, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor and SkyTubes. In May 2007, the fan convention Cheese-Vention 4 was held at this location after the attendees were kicked out of the [Fullerton]({{< ref "wiki/Fullerton, CA (1134 S Harbor Blvd).md" >}}) location during their remodel. In 2009, Placentia remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the showroom walls, removing older decor for newer decor, new booths, & adding purple walls. Strangely, the brown checkers were added, and the logo, text, and awnings were not replaced. In the Early 2010s, Placentia was remodeled to the 2010 Update which involved redoing the front counter and Salad Bar. In April 2023, this store began their 2017 2.0 Remodel Program (2.0 Remodel), which involved removing the Road Stage in favor of a 2021 Model Dance Floor + Video Wall. As of May 2023, the location is still open with the 2.0 Remodel and the 2021 Model Dance Floor + Video Wall.
 
-As of February 2023, Placentia still has the Road Stage and 2005 Remodel.
+##Stages##
+Like all Road Stages when they first opened, Chuck wore his Tuxedo & Derby outfit. Also, the stage featured no curtains like any other Road Stage from its first installation. Up and Down curtains were added by the Late 90's. In the Early 2000s, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit.
+
+in April 2023, Placentia began the 2.0 remodel, during this time the Road Stage was removed and replaced with a 2021 Model Dance Floor + Video Wall which was installed on the back wall to the left of the former Road Stage.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
+!Notes
 |-
-|Road Stage
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |September 1991
-|Still In use
+|April 2023
+|7th to Last Road Stage. Installed on the Right Side Wall.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|April 2023
+|Still in store
+|2021 Model. Installed on the Back Wall.
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -32,58 +43,99 @@ As of February 2023, Placentia still has the Road Stage and 2005 Remodel.
 !Manufacturing Date
 !Status
 |-
-|[https://chuckepedia.com/wiki/Chuck_E_Cheese_(Cyberamic) Chuck E. Cheese (Cyberamic)]
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |N/A
-|In Store.
+|Destroyed, Owned by a private collector
 |-
-|[https://chuckepedia.com/wiki/Guest_Star_/_Helen_Henny_(Cyberamic) Helen Henny (Cyberamic)]
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |N/A
-|In Store.
+|Destroyed/Unknown
 |-
-|[https://chuckepedia.com/wiki/Mr._Munch_(Cyberamic) Mr. Munch (Cyberamic)]
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |N/A
-|In Store.
+|Destroyed, Owned by a private collector
 |-
-|[https://chuckepedia.com/wiki/Jasper_T._Jowls_(Cyberamic) Jasper T. Jowls (Cyberamic)]
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |N/A
-|In Store.
+|Destroyed, Owned by a private collector
 |-
-|[https://chuckepedia.com/wiki/Pasqually_(Cyberamic) Pasqually (Cyberamic)]
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |N/A
-|In Store.
+|Destroyed, Owned by a private collector 
 |-
-|Wink
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1991
-|In Store.
+|Destroyed/Unknown
 |}
+
 ##Gallery##
-<gallery>
+[https://www.showbizpizza.com/photos/cec/ca_placentia/index.html 2007]<gallery>
+File:PlacentiaRoadStageMidLate1990s.jpg|thumb|The store's Road Stage in around the 1990's (Probably Mid-Late 90s) (PC: Unknown)
+File:PlacentiaExteriorBefore2005Update.jpg|The store's exterior from before the 2005 remodel back in 2007 (PC: showbizpizza.com)
+File:ChuckE&HelenPlacentiaCA.jpg|Chuck E. & Helen performing a song from the April 2007 show (PC: showbizpizza.com)
+File:HelenMunchJasper&PasquallyPlacentiaCA2007.jpg|Helen, Munch, Jasper, & Pasqually performing a song from the April 2007 show (PC: showbizpizza.com)
+File:PlacentiaCARoadStage20170916.jpg|The store's Road Stage on September 16th, 2017 (PC: Santiago Salvador)
 </gallery>
+
 ##Videos##
-(W.I.P)
 {| class='wikitable'
 !Link
 !Description
 !Filming Date
 !Publish Date
 |-
-|
-|
-|
-|
+|[https://youtu.be/lOkGrhN7kF8?t=11 Link]
+|A video showcasing the store, games, and Road Stage form 1991. Oldest confirmed footage as of June 2023. As of June 2023, this is currently the oldest known footage of Placentia.
+|1993
+|January 14, 2023
 |-
-|
-|
-|
-|
+|[https://youtu.be/qNP3CkRCA0s?t=586 Link]
+|A video of the store during Cheesevention III in May 2007 before the 2005 Update
+|May 2007
+|May 23, 2021
 |-
-|
-|
-|
-|
+|[https://youtu.be/VZXwmknLsgY Link]
+|Family vlog of a birthday party at Placentia. Unfortunately, the animatronics weren't working on day this video was recorded.
+|March 2016
+|March 20, 2016
 |-
-|
-|
-|
-|
+|[https://youtu.be/AmXtwJEV0UI Link]
+|'Join the Party' from [Chuck E. Cheese Summer of Fun 2022 Show]({{< ref "wiki/Chuck E Cheese Summer of Fun 2022 Show.md" >}}) being performed on Placentia's Road Stage.
+|July 19, 2022
+|June 2, 2023
+|-
+|[https://youtu.be/HEBXfA-x5Cw Link]
+|'Disco Dancing Dinosaur Party' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Placentia's Road Stage
+|February 4, 2023
+|February 5, 2023
+|-
+|[https://youtu.be/bhk8XiCG-FQ Link]
+|'Ves Al Ratoncito' from Chuck E. Cheese's Show 2 2019 (Show 2 2019) being performed on Placentia's Road Stage.
+|February 4, 2023
+|March 28, 2023
+|-
+|[https://youtu.be/cC_u7A04Gbc Link]
+|Store Tour from February 2023, a couple of months before the store got the 2.0 Remodel.
+|February 12, 2023
+|February 15, 2023
+|-
+|[https://youtu.be/yDEqFfh8kbE Link]
+|'Join the Party' from [Chuck E. Cheese Summer of Fun 2022 Show]({{< ref "wiki/Chuck E Cheese Summer of Fun 2022 Show.md" >}}) being performed on 
+|February 12, 2023
+|February 15, 2023
+|-
+|[https://youtu.be/1FV84STAqh8 Link]
+|'Trio' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Placentia's Road Stage.
+|February 12, 2023
+|February 18, 2023
+|-
+|[https://youtu.be/gQZ1wx2qwhY Link]
+|A video of the Placentia after the Road Stage was removed with a couple of photos from before removal.
+|April 2023
+|April 22, 2023
+|-
+|[https://youtu.be/2Q1ve3JqWcM Link]
+|Store Tour during the 2.0 Remodel after stage removal.
+|May 2023
+|May 13, 2023
 |}

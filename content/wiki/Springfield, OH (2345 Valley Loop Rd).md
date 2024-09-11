@@ -2,28 +2,126 @@
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
 tags = []
-date = 2022-07-24T17:24:45Z
+date = 2024-07-30T15:22:51Z
 
 [Article]
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
-gallery = ["SpringfieldOH-ShowRoom.jpg|June","SpringfieldOH-Stage.jpg|June","SpringfieldOH-NoBizLikeShowbiz.jpg|June"]
+gallery = ["SpringfieldOH-ShowRoom.jpg|June","SpringfieldOH-Stage.jpg|June","SpringfieldOH-NoBizLikeShowbiz.jpg|June","SpringfieldOH-Exterior.jpg|June"]
 +++
-[[File:SpringfieldOH-Exterior.jpg|thumb|508x508px|Exterior of Springfield, OH on June 22, 2022.]]
-**_Springfield, OH (2345 Valley Loop Rd)**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), which has since been converted into a 3-Stage.
-##Stages##
-The location opened with a standard [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) stage show. During Concept Unification, the show was converted into a 3-Stage. The stage is still present and operational, however relying on a limited air compressor and with certain components missing, such as Jasper's hat and various stage props.
-##Arcade Machines##
+{{Generic|image=Springfield OH 2.0.jpg|desc=Exterior, 2023}}
+**_Springfield, OH (2345 Valley Loop Rd), Store #938**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983.
+## Stages##
+The store opened with a Rock-afire Explosion [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). During [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) the existing show was converted into a [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) / 3-Stage show. It is currently unknown as to when the store got Concept Unification, but it is rumored to be around 1992 due to the color of the valance above the stage. 
+
+Throughout its history as a 3-Stage, the store borrowed parts and props from closed locations in [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) and [Columbus, OH (4284 Macsway Ave)]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}). 
+
+The stage show started removed during the location's 2.0 Remodel at 8:52am on August 10, 2022. This 3-Stage was the last one to exist in Ohio. According to fandom members familiar with the location, the 3-Stage was disposed of behind the store. The fate of the show is unknown, as it was sitting idly in the dumpster for up to a week afterwards. 
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|[Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}})
+|January 1983
+|Early 90s
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|Early 90s
+|August 2022
+|-
+|Dance Floor + Video Wall
+|August-September 2022
+|Still in use.
+|}
+
+##History##
+This location opened along with Muskegon, MI (3524 Green St) and was the 147th store in the company. The store's overall layout was not changed from its opening day layout and architecture, with the exception of new game packages and decor changes throughout its history. 
+
+The store received the '88 Remodel Package on June 28, 1990. This was followed by the 1993 Remodel later in the decade. Between 2010 and 2015, the store would undergo changes to its appearance; art such as the sports decor, planters and hanging stars were removed. 
+
+The showroom's right shelf was removed in December 2014, and left shelf was removed in early 2015. Various walls were also painted purple. The store's appearance stayed consistent until its 2.0 Remodel.
+
+In October 2019, the store received parts from the closed [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) store, which included Jasper's can and Chuck E.'s Avenger outfit, which replaced the existing Cool Chuck outfit. A month or two later, the air compressor lost function and the show remained aired down through the COVID-19 pandemic in 2020. During this period, the store received more parts from the [Columbus, OH (4284 Macsway Ave)]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}) location, which included two building backdrops, Jasper's hat, star bulbs, and the top piece of Munch's organ.
+
+The location would receive a Studio C air compressor in February 2021, which was just enough to power Chuck E.'s movements. In February 2022, the store repaired the original compressor and was able to power the full show. However, 3 weeks after the compressor was repaired, it fell into disrepair. In May 2022, the air compressor issues were somewhat resolved with all characters working again at half-capacity to conserve air. In the following months, the curtains were removed for not being fire-retardant. Wooden walls from the [Columbus, OH (4284 Macsway Ave)]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}) store were used to block the non-functioning [Sun (Animatronic)]({{< ref "wiki/Sun (Animatronic).md" >}}) and [Moon (Animatronic)]({{< ref "wiki/Moon (Animatronic).md" >}}).
+
+The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the location celebrated its Grand Reopening, marking an end of the remodel process. Some decor pieces were taken for what is rumored to be the company's Chuck E. Cheese Retro Store concept.
+
+##Arcade Machines ##
+
+### Skill ###
 *[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+*Harpoon Lagoon
+*Paw Patrol
+*Tons of Tickets
+*Avengers
+*2 Minute Drill
+*Alley Roller Classic
+*Super Bikes 3
+*Black Hole
 *[Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
+*Simpsons Soccer
+*[Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+*Aliens Extermination
+*Fast & Furious SuperCars
+*Crossy Road
+*Sonic Ball Blast
+*Space Warp 66
+*Down the Clown
+*Fishbowl Frenzy
+*Beach Bounce
 *Sonic Spinner
-*Chuck E.'s All-Star Hoops
-*Skee Ball
+*Galaga Assault
+*NBA GameTime
+*Space Invaders Frenzy
+*Jumpin' Fantasy
+*Knock Out Punch
+*Deadstorm Pirates
+*Hoop It Up
+*Drop It Drop It
+
+#### Coin Action ####
+
+* Hollywood Reels
+* Spongebob Pineapple Arcade
+
+### Kiddie ###
+
+* Octonauts (Barnacles)
+* Spongebob Super Striker
+* City Bus Tour
+* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
+* Car Tuned Racing
+* Angry Birds Whacker
+* NBA Hoop Troop Jr.
+* Hit Music
+* Hammer Fun
+* Ducky Splash
+* Wheels on the Bus Ride
+* Bunny Pond
+* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+
+##Decor##
+
+###Former### 
+
+* 1990s No Biz Like Showbiz
+*1991 Flabby Road
+*1991 Pasqually's Italy
+*1992 Salad Bar
+*1993 Ball Park
+*1993 Drive-In
+*1993 Why Our Kids Are Breathing Easier
+*1995 Star Cap Thumb Chuck
+*1995 Vitaminology
 
 ##Gallery##
 <gallery>
 File:SpringfieldOH-ShowRoom.jpg|June 22, 2022
 File:SpringfieldOH-Stage.jpg|June 22, 2022
 File:SpringfieldOH-NoBizLikeShowbiz.jpg|June 22, 2022
+File:SpringfieldOH-Exterior.jpg|June 22, 2022
 </gallery>
 
 ##Animatronics##
@@ -33,45 +131,53 @@ File:SpringfieldOH-NoBizLikeShowbiz.jpg|June 22, 2022
 !Serial
 !Whereabouts
 |-
-|[Rolfe Dewolfe & Earl Schmerle (Animatronic)]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
-|
-|Currently in use (as [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}))
+|Rolfe DeWolfe (Animatronic) (Chuck E. Cheese / Rolfe DeWolfe)
+|7-82 1-10 
+|Destroyed
 |-
-|[Mitzi Mozzarella (Animatronic)]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
-|
-|Currently in use (as [Helen Henny]({{< ref "wiki/Helen Henny.md" >}}))
+|Dook LaRue (Animatronic) (Pasqually / Dook LaRue)
+|7-82 2-10
+|Destroyed
 |-
-|[Fatz Geronimo (Animatronic)]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
-|
-|Currently in use (as [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}))
+|[Mr Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|7-82 3-10 
+|Destroyed
 |-
-|[Beach Bear (Animatronic)]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
-|
-|Currently in use (as [Jasper T. Jowls]({{< ref "wiki/Jasper T Jowls.md" >}}))
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|7-82 4-10 
+|Destroyed
 |-
-|[Dook Larue (Animatronic)]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
-|
-|Currently in use (as [Pasqually]({{< ref "wiki/Pasqually.md" >}}))
+|[Helen Henny / Mitzi Mozzarella ]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|7-82 5-10
+|Destroyed
 |-
-|[Looney Bird (Animatronic)]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
-|
-|Converted to Pizza Cam, removed/unknown
+|[Billy Bob (Animatronic)]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|7-82 6-10
+|Unknown
 |-
-|[Sun (Animatronic)]({{< ref "wiki/Sun (Animatronic).md" >}})
-|
-|Currently in use
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|7-82 7-10 
+|Unknown/Destroyed 
+|-
+|[Munch Jr / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|7-82 8-10
+|Unknown//Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|7-82 10-10 
+|Destroyed
 |-
 |[Moon (Animatronic)]({{< ref "wiki/Moon (Animatronic).md" >}})
-|
-|Currently in use
+|7-82 11-10
+|Destroyed
 |-
-|[Choo Choo (Animatronic)]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
-|
-|Converted to Munch Jr., removed/unknown
+|[Antioch (Animatronic)]({{< ref "wiki/Antioch (Animatronic).md" >}})
+| N/A
+|Unknown
 |-
-|Anitoch (Animatronic)
-|
-|Currently in use (as Wink)
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Unknown
 |}
 
 ##References##

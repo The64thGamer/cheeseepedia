@@ -2,39 +2,32 @@
 title = "Rockwall, TX (855 East Interstate 30)"
 draft = false
 tags = []
-date = 2023-08-25T23:45:23Z
+date = 2024-05-04T22:48:39Z
 
 [Article]
 contributors = ["66.215.38.213","2600:1012:B0CA:2E86:1998:FCE5:1D80:A2BF","The 64th Gamer","Cheeseclassic","Harchambeault2026"]
 gallery = []
 +++
-**_Rockwall, Texas (855 East Interstate 30), Store #99**_ is a Chuck E. Cheese
-in Rockwall Texas_.
+{{Stub}}**_Rockwall, Texas (855 East Interstate 30), Store #99**_ is a _Chuck E. Cheese_ that opened in August 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
+##History##
+TODO
 
-This location opened on January 22, 2003 with a Studio C Alpha and it's still open
-to this day.
-
-
-##History ##
-In The Studio C Alpha Was Removed October 2017 In The Chuck E. Live Stage
-Was Installed October 2017 Their Back
-In The 2.0 Remodel Comes To The Dance Floor And Video Wall For location.
-{| class='wikitable'
+{|class='wikitable'
 !Stage
 !Installed
 !Removed
 ! Notes
 |-
 |[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
-|January 2003
+|August 2001
 |October 2017
-|Studio C Alpha Was Removed October 2017.
+|One of many installed in Texas.
 |-
-|Dance Floor
+|[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}})
 |October 2017
 |Still In Use
-|Added 2.0 Remodel 2021 Model.
+|Formerly 2017 Model, Now 2021 Model.
 |-
 |[Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |June 2023

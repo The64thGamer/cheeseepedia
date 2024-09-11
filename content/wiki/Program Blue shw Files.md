@@ -2,12 +2,14 @@
 title = "Program Blue .shw Files"
 draft = false
 tags = []
-date = 2021-12-06T04:48:33Z
+date = 2022-12-07T22:38:12Z
 
 [Article]
 contributors = ["Himitsu","The 64th Gamer"]
 gallery = []
 +++
+{{Stub}}
+
 **Program Blue .shw** files are a custom, proprietary format used by the [Program Blue]({{< ref "wiki/Program Blue.md" >}}) animatronics control software.
 
 ## Format ##

@@ -2,10 +2,100 @@
 title = "Fresno, CA (7809 N Blackstone Ave)"
 draft = false
 tags = []
-date = 2022-08-17T14:22:54Z
+date = 2024-03-29T14:16:25Z
 
 [Article]
 contributors = ["The 64th Gamer","Rexburg090","2600:4040:5A0E:D900:9CCC:4391:297E:5876","Freddyplayz855","Cheeseclassic"]
-gallery = []
+gallery = ["Cec-fresno.jpg|Store","FesnoBlackstonePre2013RemodelExterior.png|A","FresnoBlackstoneExterior2022AugustGoogleMaps.png|Exterior"]
 +++
-[[File:Cec-fresno.jpg|thumb|Store Blueprint]]
+{{Generic|image=2.0 Fresno Blackstone.jpg|desc=Exterior (2024)}}
+
+**_7809 N Blackstone Ave, Store #364**_ is a Chuck E. Cheese's in Fresno, California. The store is located in a freestanding building in the Villaggio Shopping Center.
+
+This is not to be confused with the _Pizza Time Theatre_ on [5384 N Blackstone Ave]({{< ref "wiki/Fresno, CA (5384 N Blackstone Ave).md" >}}) which opened in July/August 1980 and closed in May 1985 with a Cyberamics Portrait / Shelf Stage (Portrait Stage) which was in an unnamed Shopping Center 9 minutes away.
+
+## History ##
+Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in the Villaggio Shopping Center with a Studio C 2000 (Studio C 2000, 32m). They opened with the 1990s Major Remodel with the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) game package. The store would remain this way until around 2013/2014 when they would remodel to the 2013 update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the 1990s Decor, Must C TV posters, and dim lighting, adding purple walls, bright florescent lighting. In February 2024, they received the 2.0 Remodel, which included a Video Wall, Interactive Dance Floor, repainting of all walls to white, new 2.0 Artwork, the 2.0 Game Package, and an exterior remodel.
+
+## Stages ##
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|Studio C 2000 (Studio C 2000, 32m)
+|September 2002
+|February 2024 
+|One of many installed in California.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|February 2024
+|Still in Use
+|2021 Model 
+|}
+
+## Animatronics ##
+{| class='wikitable'
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32m (Studio C))
+|1??
+|Unknown/Destroyed
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Unknown/Destroyed
+|}
+
+## Gallery ##
+<gallery>
+File:Cec-fresno.jpg|Store Blueprint
+File:FesnoBlackstonePre2013RemodelExterior.png|A photo of the store's Exterior before the 2013 Update (PC: Unknown)
+File:FresnoBlackstoneExterior2022AugustGoogleMaps.png|Exterior (August 2022)
+</gallery>
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/qzPPp2lZwF4?si=lOTQ1oYoKhOL_OFi Link]
+|
+|
+|-
+|[https://youtu.be/EPFlxj1E16k?feature=shared Link]
+|
+|
+|-
+|[https://youtu.be/_PH6qtUAgrk?si=KgdUjxNeZJFyNctS Link]
+|
+|
+|-
+|[https://youtu.be/89ukKysJKmI?si=yh76qreYJoabecP4 Link]
+|
+|
+|-
+|[https://youtu.be/UetiNtv7New?si=1XV6qVBFUeRtnJIZ Link]
+|
+|
+|-
+|[https://youtu.be/amI99xujXeY?si=oJk-RCMsxK4pSC1O Link]
+|
+|
+|-
+|[https://youtu.be/6JPW3yQChRs?si=BMM9G8a_kng0zhbF Link]
+|
+|
+|-
+|[https://youtu.be/sAcYFWEj0dg?si=402lx-ymwszFLSZp Link]
+|
+|
+|-
+|[https://youtu.be/Qnr0eXCmy5A?si=snv3jQzkhWOENeff Link]
+|
+|
+|}

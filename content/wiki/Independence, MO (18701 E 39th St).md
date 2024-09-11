@@ -2,7 +2,7 @@
 title = "Independence, MO (18701 E 39th St)"
 draft = false
 tags = []
-date = 2023-08-01T14:28:57Z
+date = 2024-08-07T17:16:34Z
 
 [Article]
 contributors = ["CorrectorMan","AstridMascotFan2005"]
@@ -25,7 +25,7 @@ Independence has a Studio C 2000 (Studio C Beta, 16m). Starting with this store,
 |Studio C 2000 (Studio C Beta, 16m)
 |May 2012
 |Still in use
-|Last Beta in Missouri.
+|Last Beta in Missouri. Last Animatronic of any kind in the state.
 |}
 
 ## History ##

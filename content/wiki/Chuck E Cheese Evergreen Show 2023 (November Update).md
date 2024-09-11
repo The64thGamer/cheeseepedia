@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Evergreen Show 2023 (November Update)"
 draft = false
 tags = []
-date = 2023-11-27T22:04:09Z
+date = 2023-12-23T01:27:59Z
 
 [Article]
 contributors = ["Cheeseclassic","Documentor"]
@@ -11,13 +11,9 @@ gallery = []
 {{Showtape
 |title =Evergreen Show 2023
 |image=Evergreen2023.jpg
-|date=January 9, 2023
-|studioc=y
-|studiochd=y
-|dvdcu=y
-|dvdcyber=y
+|date=November 1, 2023
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Chuck E. Cheese Evergreen 2023 (November 2023)**_ is a updated version of Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2022.
+**_Chuck E. Cheese Evergreen 2023 (November 2023)**_ is a updated version of the Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2023.
 
 This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
 ##Show List:##
@@ -179,12 +175,10 @@ This was created with the idea to play between promotional events. This show fea
 
 ##Lives:##
 
-* Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
-* Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
-* Me & My Friends (3stage, Cyberamic, Studio C, Weigl, Navori)
-* Happy Dance (Studio C, Weigl)
-* Chuck E. Cha Cha (Studio C, Weigl)
-* Easy Dance (Studio C, Weigl)
-
-##Showtape Scans / Images:##
-TODO
+* Birthday Show 2018 (Navori)
+* Birthday Show 2018 (Spanish) (Navori)
+* Birthday Show 2023 (Navori) (After November 12th)
+* Birthday Show 2023 (Spanish) (Navori) (After November 12th)
+* Me & My Friends (Navori)
+* CEC Stage Diagnostic (Navori)
+* 3-Stage Diagnostic (Navori)

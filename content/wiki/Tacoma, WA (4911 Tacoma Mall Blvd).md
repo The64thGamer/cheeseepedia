@@ -2,28 +2,60 @@
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-01-12T18:17:20Z
+date = 2024-07-30T20:56:57Z
 
 [Article]
 contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","ChuckfeldStan","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","38.49.94.191","CEC Tinley","69.67.86.197","Cecnj98","CorrectorMan","Jonn","SuperCreamPiper2008","Cheeseclassic"]
-gallery = []
+gallery = ["Tacoma.png|Tacoma"]
 +++
-**_4911 Tacoma Mall Blvd, Tacoma, WA**_  is a franchised _Pizza Time Theatre_ that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade.
+[[File:Tacoma, WA.jpg|thumb|Tacoma's exterior in Fall 2018. (PC: Google Maps)]]
+**_4911 Tacoma Mall Blvd, Store #3154/626**_ was a _Pizza Time Theatre_ that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade. It is located right across from the Tacoma Mall.
 ##Stages##
+They originally had a Balcony Stage when first opening, but later in the 1989/1990 they would remodel for the first time and receive the Chuck E.'s House Facade. Helen's cosmetics were replaced by 1992, around the same time, Chuck E's vest and Derby was replaced with the Tuxedo & Derby. They would still have that stage even when remodeling in the late 90's until 2003 when it was replaced by the Studio C 2000 16m. They would keep this even when remodeling to the 2005 remodel in 2011 until June 2022 when they would receive the 2.0 remodel, removing the Studio C 2000 for a Dance Floor and Video Wall.
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
+|November 1983
+|1989/1990
+|One of eight Pizza Time Theatres in Washington State.
+|-
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
+|1989/1990
+|2003
+|One of three installed in Washington State. Last C-Stage to exist. 
+|-
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
+|2003
+|June 2022
+|One of five Studio C 2000s installed in Washington State (one of four 16M betas).
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
+|June 2022
+|Still In Use
+|Second Dance Floor installed in Washington state. 2021 Model.
+|}
+
 ##History##
-###Remodels###
-It is unknown if the location ever had remodeled while it was a Pizza Time Theatre, but it did remodel at a point in time from 1988 to 1991. By the early 90's they remodeled again and remodeled again in the late 90's and remained that way until 2011 when they redid the entire building. From June to August 2022 they would remodel into 2.0. As of 2022 It has received the 2.0 remodel removing the Beta Bot.
+Tacoma opened in November 1983 near the Tacoma Mall with a Balcony Stage and as a franchised location. There are no photos of its exterior as a PTT, but they did have a Chuck E. Cheese statue inside the giant capsule like [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}) and it spun around in circles. They then remodeled to the 1988 Remodel in 1989 or 1990 when they received Chuck E.'s House Facade stage and removed old PTT decor and artwork. They remodeled again in the Mid to Late 90's adding the Skytubes, removing old 90's decor for new ones, and a change to the exterior. Strangely, they kept the Chuck E.'s House Facade stage. Then they remodeled again [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in 2003 which involved the removal of the Chuck E.'s House Facade stage for the Studio C 2000 stage, removed older decor and added new decor. They remained that way until 2011 when they received the 2005 remodel when they removed the Showroom Walls, Balcony Seating, the Chuck E. Cheese's text on the side exterior and the Chuck E. Cheese logo on the giant capsule. Before their 2005 remodel in 2011, they were bought by the corporate on July 5th, 2010, along with [Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). They would remain this way until June 2022 they would receive the 2.0 remodel, removing the Beta for the Dance Floor and Video Wall. Currently, as of January 2023, they still have the 2.0 remodel and the Dance Floor and Video Wall.
 ##Videos##
 {| class='wikitable'
 !Link
 !Description
 !Filming Date
 |-
-|
-|
-|
+|https://youtu.be/fDhgv9QYuLE
+|Footage of Tacoma's Chuck E.'s House Facade in 2003.
+|June 13, 2003
 |}
 ##Gallery##
+<gallery>
+File:Tacoma.png|Tacoma Chuck E. Statue that spun on circles.
+</gallery>
+
 ##Animatronics##
 {| class='wikitable'
 |+
@@ -31,35 +63,39 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 !Serial / Manufacturing Date
 !Whereabouts
 |-
-|Chuck E Cheese (Cyberamic)
-|Unknown
-|Unknown
-|-
-|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
-|Unknown
-|Unknown
-|-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |Unknown
-|Unknown
-|-
-|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
-|Unknwon
-|Unknown
+|Unknown/Destroyed
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |Unknown
-|Unknown
+|Unknown/Destroyed
 |-
-|Wink (Animatronic) (Wink (Cyberamic))
+|Chuck E Cheese (Cyberamic)
 |Unknown
+|Unknown/Destroyed
+|-
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
 |Unknown
+|Unknown/Destroyed
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|Unknown/Destroyed
 |-
 |[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
-|Clapper Board (Cyberamic)
+|Waving Flags (Cyberamic)
+|Unknown
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
 |Unknown
 |Unknown
 |-
@@ -67,7 +103,11 @@ It is unknown if the location ever had remodeled while it was a Pizza Time Theat
 |Unknown
 |Unknown
 |-
-|Chuck E. Cheese (16m, animatronic)
-|
-|
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Destroyed
 |}

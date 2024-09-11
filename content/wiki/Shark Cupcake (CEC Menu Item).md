@@ -2,14 +2,10 @@
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
 tags = []
-date = 2022-08-11T15:51:46Z
+date = 2022-12-06T18:24:35Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{FoodItem
-|title = Strike it Up
-|length = 
-|image=S0f22 SHARK CUPCAKE.jpg
-}}
+text/x-wiki

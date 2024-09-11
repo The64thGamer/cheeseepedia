@@ -2,10 +2,11 @@
 title = "Stripes"
 draft = false
 tags = ["User"]
-date = 2023-12-23T03:07:39Z
+date = 2024-05-27T06:22:33Z
 
 [Article]
 contributors = ["Stripes"]
 gallery = []
 +++
-My sandbox!
+Hi{{Generic|image=Shork.jpg|desc=BLÅHAJ soft toy, shark, 39 ¼'}}
+BLÅHAJ is a soft and cuddly friend.

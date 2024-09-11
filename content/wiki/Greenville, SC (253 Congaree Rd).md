@@ -2,140 +2,126 @@
 title = "Greenville, SC (253 Congaree Rd)"
 draft = false
 tags = []
-date = 2023-02-21T03:41:31Z
+date = 2024-02-03T04:59:44Z
 
 [Article]
 contributors = ["ChuckECool","The 64th Gamer","BigCtheDataFinder"]
-gallery = []
+gallery = ["IMG","IMG","IMG","IMG","IMG"]
 +++
-**_253 Congaree Rd**_ was a _Showbiz Pizza Place_ that opened on February 8th, 1983 (date not confirmed yet) as a franchised location with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion] and is still open to this very day.
+{{Generic|image=Greensvilleaug2023.png|desc=Exterior (August 2023)}}
 
-It is located right across from the Haywood Mall.
+**_Greenville, SC (253 Congaree Rd)**_ was a ShowBiz Pizza Place that opened in February 1983. It was the second ShowBiz to open in South Carolina and remains open as a Chuck E. Cheese's. Greenville is a free-standing store located right across from the Haywood Mall.
+
 ##History##
-Greenville opened its doors on February 8th, 1983 (not confirmed) as the second Showbiz Pizza store in South Carolina. Like many other ShowBiz Pizza locations, it had a typical SPP layout as seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open removing older SPP decor for newer decor, and a slight exterior remodel, and received the Showbiz Pizza Campground upgrade. Unfortunatly there is hardly any documentation of Greenville back then. In 1991, Greenville received Concept Unification removing all SPP decor for newer decor, added an exterior change, and removed the Rock-Afire Explosion band for the 3-Stage. In the early-mid 90's, Greenville underwent a minor remodel removing some decor for newer decor. On September 16th, 1996, Greenville was acquired by the Corporate along with Charleston, Columbia, and a few others. Around 1997 or 1998, the location received the so-called 'Phase 2' remodel removing older 90's decor, adding newer decor, another exterior change, and SkyTubes. Around 2000, their 3-Stage was removed for the Studio C Alpha. Greenville would remain like this until 2006-2007 when they received the 2005 remodel removing the Showroom Walls, Balcony Seating, removing older 2000's decor for newer decor, a new exterior change, and the relocation of the stage. Greenville remained like this until October 2018 when they received the 2.0 remodel, removing the Alpha for the Dance Floor. Strangely, the 2005 Remodel (Phase 4) sign was kept. Currently, as of February 2023, the location still has the 2.0 remodel and the Dance Floor.
+Greenville opened sometime in February 1983 as the second ShowBiz Pizza Place in South Carolina. The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), placed adjacently on the store's rear wall. In the late 80's, Greenville underwent the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), phasing out original ShowBiz Pizza Place decor and signage for that of generalized Showbiz Pizza Time assets.
+
+Sometime in 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, Greenville's operating license was acquired by SPT Corporate along with sister locations [South Charleston]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) & [Columbia]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}}). Around this time, the store would undergo the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}).
+
+The store received the ['Cool Chuck' Major Remodel Initiative]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in the late 2000's, with newer booths, posters, and purple walls. Aside from rotating game packages, Greenville would remain in this state throughout the late 2000's into the 2010's decade. Between September and November 2018, Greenville underwent the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), with infrastructure overhauled and the Studio C Alpha removed. A grand reopening for the store was held on December 5th, 2018. The 2.0. Remodel has been the current iteration of Greenville ever since. 
+
 ##Stages##
-Originally, Greenville featured a Rock-Afire Explosion, as all other Showbiz locations did. Unfortunately, there are no photos or videos to exist of Greenville with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime in 1991. In 2000, Greenville removed their 3-Stage for the Studio C Alpha. In October 2018, Greenville removed the Studio C Alpha for the Dance Floor for their 2.0 remodel.
+Greenville would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) occurred. The Munch's Make Believe Band 3-Stage would then be replaced by a Studio C Alpha in the year 2000, operating until Greenville's 2.0. remodel in October 2018.
 {| class='wikitable'
-|+
 !Stage
 !Intalled
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage RockAfire Explosion]
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |February 1983
 |1991
-|Second Showbiz Pizza store to open in South Carolina.
+|2nd ShowBiz Pizza Place to open in South Carolina.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991
 |2000
-|One of 4 Showbiz locations in South Carolina to receive Concept Unification.
+|One of 4 ShowBiz locations in South Carolina to receive Concept Unification.
 |-
-|Studio C Alpha
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |2000
 |October 2018
 |
 |-
-|Dance Floor + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
 |October 2018
 |Still in Use
-|
+|2017 Model.
 |}
 ##Animatronics##
 {| class='wikitable'
-|+
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|Chuck E. Cheese / Rolfe DeWolfe
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+|Pasqually / Dook Larue
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
+|Mr. Munch / Fatz Geronimo
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
+|[Billy Bob]({{< ref "wiki/Billy Bob.md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
+|Pizzacam / Looney Bird
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
+|Antioch
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown
 |-
-|Chuck E. Cheese (16m, bot)
-|
-|Destroyed
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|N/A
+|Unknown
 |-
-|Parrot
-|
-|Destroyed
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Unknown
 |-
-|Pizza Time Clock
-|
-|Destroyed
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Unknown
 |-
-|Pizza Phone
-|
-|Destroyed
-|}
-##Videos##
-{| class='wikitable'
-|+
-!Link
-!Description
-!Date Filmed
-!Date Published
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
+|[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
+|N/A
+|Unknown
 |}
 ##Gallery##
 <gallery>
+File:IMG 20240202 214253.png|Stage Right (1998)
+File:IMG 20240202 214254.png|Center Stage (1998)
+File:IMG 20240202 214256.png|Stage Left (1998)
+File:IMG 20240202 214257.png|Showroom (1998)
+File:IMG 20240202 214259.png|Showroom (1998)
 </gallery>

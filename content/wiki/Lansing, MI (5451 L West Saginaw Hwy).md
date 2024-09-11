@@ -2,10 +2,93 @@
 title = "Lansing, MI (5451 L West Saginaw Hwy)"
 draft = false
 tags = []
-date = 2023-09-02T18:42:30Z
+date = 2024-07-24T20:30:23Z
 
 [Article]
 contributors = ["Jeff Marks","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE","ShowbizMidwest","Cecfan2004","Cecrocks","AstridMascotFan2005"]
-gallery = []
+gallery = ["Lansing","Kidsworld"]
 +++
-The Lansing, MI Chuck E. Cheese's Opened In June Or July In 1992 With a 2-Stage
+{{Stub}}{{Generic|image=Lansing mi cec exterior.jpg|desc=The store's exterior before the 2.0 remodel}}
+
+
+**_Lansing, MI (5451 L West Saginaw Hwy), Store #326**_ is a _Chuck E. Cheese's Pizza_ that opened on June 16th, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store is located in the Lansing Towne Centre. It opened on the same day as Orange, CT.
+
+##Stages##
+{| class='wikitable'
+!Stage 
+!Installed
+!Removed
+! Notes
+|-
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|June 1992 
+|August 2023
+|One of four 2-Stages installed in Michigan. Last MMBB Stage in the state.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|August 2023
+|Still In Use
+|2021 Model. 
+|}
+
+## History ##
+This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remodel. in The mid 90's, they received the 1993 Remodel which removed the 1988 concept  unification artwork for the record posters and other 1993 artwork, Around 1999/2000, they were supposed to remove the 2 Stage and Replace it with a Studio C Alpha, but it never happened. In 2006/2007, Lansing went under the 2005 Remodel which included the removal of the Showroom walls, balcony seating and strangely, not relocating the stage. On June 25th 2020, Lansing became one of the last MMBB stages in Michigan after Flint Closed. They remained like this until August 2023, when they received the 2.0 remodel, removing the 2 Stage for the Dance Floor, as of September 2023, they still remain like this.
+
+## Videos ##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/6UrOXXhSt4I Link]
+|A fanmade commercial of the store.
+|April 18th, 2010
+|-
+|[https://youtu.be/C2cme1SL_r0 Link] 
+|Various clips of the store's stage in 2010 during a birthday party.
+|April 18th, 2010
+|-
+|[https://youtu.be/v4XXY5m1Oug?t=189 Link]
+|A visit of the store and various clips of the stage.
+|July 31st, 2022
+|}
+
+##Gallery##
+<gallery>
+File:Lansing mi cec exterior before 2005 remodel.jpg|Exterior before the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}).
+File:Kidsworld chuck e.png|Close view of the Chuck E. animatronic on April 18th, 2010
+</gallery>
+
+## Animatronics ##
+{| class='wikitable'
+!Animatronic
+!Manufacturing date
+!Status
+|-
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|1992
+|Destroyed.
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|1992
+|Destroyed. 
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1992
+|Destroyed.
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1992
+|Destroyed.
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1992
+|Destroyed.
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|1992
+|Destroyed.
+|}
+##References##
+<references />

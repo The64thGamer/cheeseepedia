@@ -2,7 +2,7 @@
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
 tags = []
-date = 2022-08-01T18:53:34Z
+date = 2023-07-22T23:56:54Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
@@ -10,13 +10,13 @@ gallery = []
 +++
 {{Showtape
 |image=cecholiday95.png
-|date=December 1995
+|date=November 20, 1995
 ||r1293 = y
 |c&r93 = y
 |cusvhs = y
 }}
 
-**_The Chuck E. Cheese Christmas Special**_ was a show that released in December of 1995 at Chuck E. Cheese's locations. 
+**_The Chuck E. Cheese Christmas Special**_ was released on November 20, 1995, at Chuck E. Cheese's locations. 
 
 ##Show List ##
 #**[[File:New Graphic.png]]** **Segment 1**

@@ -2,13 +2,10 @@
 title = "Around the World with Madam Oink"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = 2021-12-06T23:43:45Z
+date = 2023-01-21T21:00:24Z
 
 [Article]
 contributors = ["The 64th Gamer","JamesLemony"]
 gallery = []
 +++
-## Showtape Scans / Images: ##
-<gallery>
-Mah damn oint.jpg|Reel
-</gallery>
+text/x-wiki

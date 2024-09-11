@@ -2,20 +2,10 @@
 title = "Aurora, CO (634 Peoria St)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-04T14:41:49Z
+date = 2024-05-30T11:20:43Z
 
 [Article]
 contributors = ["CoolerDude"]
 gallery = []
 +++
-TODO:
-
-{{Stub}}
-
-## Stages ##
-
-## History ##
-
-## Animatronics ##
-
-## Gallery ##
+text/x-wiki

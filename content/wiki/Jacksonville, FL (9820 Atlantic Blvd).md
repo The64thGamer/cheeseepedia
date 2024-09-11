@@ -2,166 +2,208 @@
 title = "Jacksonville, FL (9820 Atlantic Blvd)"
 draft = false
 tags = []
-date = 2022-10-23T16:19:48Z
+date = 2024-07-17T21:13:58Z
 
 [Article]
 contributors = ["Rexburg090","Emcaacme","Awesome Dawson Films YT","RedaCEC","SuperCreamPiper2008","ThatBoiCydalan","2600:4040:5A0C:5900:C146:5FEF:315A:1C1B","BurgersNuggs445","64.125.60.2","ShowbizMidwest","ChuckECool","ChuckfeldStan","Agent 5","Stripes","AstridMascotFan2005"]
-gallery = []
+gallery = ["JaxAtl01.jpg|Exterior","SPP","JacksonvilleFLAtlanticExterior90s.png|Exterior","Exterior2022FebruaryGoogleMaps.png|Street"]
 +++
-**_9820 Atlantic Blvd**_ was a _ShowBiz Pizza Place_ restaurant located in Jacksonville, Florida.
+{{Generic|image=JacksonvilleAtlanticFL2.0Exterior.png|desc=Photo of the 2.0 exterior in April 2023 (PC: Chuck E. Cheese Jacksonville)}}
 
-## History ##
-Jacksonville opened its doors on August 14th, 1980 as the 2nd ShowBiz Pizza store (First in Florida) in the Regency Plaza. This was one of six stores to receive a Beta RockAfire Explosion show. In around 1981, they replaced the Beta Rock Afire Explosion with a finalized one. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. 
+**_9820 Atlantic Blvd, Store #62**_ is a _Chuck E. Cheese_ that opened in 1980 with the Rock-A-Fire Explosion.
 
-In 1991-1992, Concept Unification was in full swing, Replacing the RockAfire Explosion with Munch's Make Believe Band. 
-
-Then store would receive the 1993 remodel sometime by 1995-1996 at the earliest, complete with: an Obstotron (later SkyTubes); Platinum CD Award posters; Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Chuck signs; 1991 Confetti Portraits; and other misc signage. 
-
-In 1999, Jacksonville would remodel once again, this time removing the 3-Stage for a Studio C Alpha.
-
-In 2005, Jacksonville would receive the CEC 2005 Remodel (2005 Remodel); removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls, and a gameroom expansion in the former Western Auto. It is unknown when they received the Cool Chuck outfit. 
-
-By 2012, Chuck's Cool Chuck outfit was replaced with the Avenger outfit. Chuck's cap was removed in September 2013. 
-
-In 2014-2015, the Interactive Console & Bluescreen Camera were removed, leaving the Bluescreen behind.
-
-As of October 2022, Jacksonville still has the 2005 Remodel & Studio C Alpha.
+This location is the second-ever Showbiz Pizza Place location and is one of the oldest locations in operation.
 
 ## Stages ##
-Originally when the store opened, they had a Rock-Afire Explosion, they were the 1st RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. They would replace the original bots in 1981, as all other 'Beta' shows. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. As of October 2022, they still have the Studio C Alpha, with it being the last Animatronic show in the Jacksonville, as [6065 Youngerman Circle]({{< ref "wiki/Jacksonville, FL (6065 Youngerman Circle).md" >}}) received 2.0 in Early 2020, Jacksonville, FL (5721 Beach Blvd) (5721 Beach Blvd) closed in 1984 as a _Pizza Time Theatre_ with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), & [10320 Shops Lane]({{< ref "wiki/Jacksonville, FL (10320 Shops Lane).md" >}}) never had an animatronic show of any kind.
+When this location first opened in 1980, it would feature the first Rock-A-Fire Explosion to be viewed publicly. This location would end up replacing their show for the updated, standardized characters in 1981 because the originals apparently had weak or hollow aluminum inside the characters.
+
+In 1991 Jacksonville would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and would keep the original prototype instruments used since opening day.
+
+Jacksonville would receive Studio C (1997) (Studio C) in 1999 and would keep it up to 2022. The Studio C show was continuously updated, as per CEC's request. This included but was not limited to, replacing Chuck E.'s outfit and ridding the stage of its [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) and Bluescreen camera in the 2010s.
+
+On November 19th, 2022 the location would have their Studio C removed in favor of the Chuck E. Live Stage (Dance Floor) (Dance Floor) as part of the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) and later used for parts, the Dance Floor would finally be installed later on.
 {| class='wikitable'
+|+
 !Stage
 !Installed
 !Removed
-!Notes
 |-
-|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|[The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |August 1980
-|1991-1992
-|Original bots replaced in 1981.
+|1991
 |-
 |[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
-|1991-1992
+|1991
 |1999
-|
 |-
 |[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
 |1999
-|Still In Use
-|Last Animatronic show in Jacksonville
+|November 2022
+|-
+|Dance Floor + Video Wall
+|November 2022
+|Still in Use.
 |}
 
-## Animatronics ##
+## History ##
+
+### Showbiz Pizza Place ###
+Jacksonville, FL opened its doors on August 14th, 1980 as the second Showbiz Pizza Place location and the first store in Florida. The Rock-afire Explosion animatronic band made their first public appearance in this store. Crowds were drawn to the showroom, as people were amazed by the high-tech, cheap, family-oriented, and fun entertainment--while also being utterly unaware of the success and impact it would leave for years to come. Showbiz's deal with Creative was only the beginning of its legacy. The imagery of this store and its show were commonly used in ads, postcards, and other promotional materials for Showbiz Pizza Place and Creative Engineering. 
+
+### Acquisition and Remodels ###
+On August 31, 1987, SPP acquired Jacksonville which would later be remodeled in 1991 during the unification of Pizza Time Theatre and Showbiz Pizza locations to be under one appearance. Shortly after, in 1995, the restaurant would be one of 126 stores 1994 SPT Repositioning / Remodel Program (repositioned and remodeled), receiving [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) in the process. With the addition of Studio C, the showroom would require modifications to accommodate for the show. 
+
+In 2005 / 2006 the location would remodel and expand into the neighboring Western Auto shop for extra space for the arcade. In October and November 2022, the location would be remodeled for the final time for CEC 2.0.
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Filming/Published Date
+|-
+|[https://youtu.be/l8klZSSvZcA?si_Ag link]
+|Exterior shot and footage of the 3-Stage and arcade as a ShowBiz Pizza Place.
+|1980s
+|-
+|[https://youtu.be/s5fo6N1S_Ag link]
+|Exterior shot and small footage of the 3-Stage and arcade in 1991.
+|1991
+|-
+|[https://youtu.be/Jy2oq_Y6g4U link]
+|People celebrating a pizza party at this location in 2006.
+|September 26th, 2006
+|-
+|[https://youtu.be/zr6ATMubT2g?si_Ag link]
+|A tour of the location in 2022.
+|March 12th, 2022
+|-
+|[https://www.youtube.com/watch?v=mqb1yMFqkwM_Ag link]
+|A look into the backstage area of the former Studio C Alpha.
+|June 9th, 2022
+|-
+|[https://youtu.be/tuIU9E8Gavg_Ag link]
+|Exterior shot and small footage of the dance floor, backstage, arcade, and bathrooms in 2023.
+|April 1st, 2023
+|}
+## Gallery ##
+<gallery>
+File:JaxAtl01.jpg|Exterior back when it was ShowBiz Pizza Place (1980). PC: showbizpizza.com
+File:SPP Jacksonville.png|Exterior back when it was ShowBiz Pizza Place (1980s).
+File:JacksonvilleFLAtlanticExterior90s.png|Exterior with the 1988 Remodel (1991).
+File:Exterior2022FebruaryGoogleMaps.png|Street View of the exterior before 2.0 in November 2022 (February 2022) (PC: Google Maps)
+</gallery>
+
+## Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
 |Beta Rolfe DeWolfe
-|10-80 1-10
-|Destroyed
+|7-80 1-1
+|Unknown
 |-
-|Beta Dook Larue
-|10-80 2-10
-|Destroyed
+|Beta Dook Larue 
+|7-80 2-1
+|Unknown
 |-
 |Beta Fatz Geronimo
-|10-80 3-10
-|Destroyed
+|7-80 3-1
+| Unknown
 |-
-|Beta Beach Bear
-|10-80 4-10
-|Destroyed
+| Beta Beach Bear
+|7-80 4-1
+|Unknown
 |-
 |Beta Mitzi Mozzarella
-|10-80 5-10
-|Destroyed
+|7-80 5-1 
+|Unknown
 |-
 |Beta Billy Bob
-|10-80 6-10
-|Destroyed
+|7-80 6-1
+|Unknown
 |-
 |Beta Looney Bird
-|10-80 7-10
-|Destroyed
+|7-80 7-1
+|Unknown
 |-
 |Beta Choo Choo
-|10-80 8-10
-|Destroyed
+|7-80 8-1
+|Unknown
 |-
 |Beta Sun
-|10-80 10-10
-|Destroyed
+| 7-80 10-1
+|Unknown
 |-
-|Beta Moon
-|10-80 11-10
-|Destroyed
+| Beta Moon
+|7-80 11-1
+|Unknown
 |-
 |Beta Antioch
 |N/A
-|Destroyed
+|Unknown
 |-
-|Chuck E. Cheese / Rolfe DeWolfe
+| [Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |4-81 1-20
-|Destroyed
+| Destroyed
 |-
-|Pasqually / Dook Larue
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |4-81 2-20
 |Destroyed
 |-
-|Mr. Munch / Fatz Geronimo
+| [Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |4-81 3-20
 |Destroyed
 |-
-|Jasper T. Jowls / Beach Bear
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |4-81 4-20
 |Destroyed
 |-
-|Helen Henny / Mitzi Mozzarella
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |4-81 5-20
 |Destroyed
 |-
-|Billy Bob
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |4-81 6-20
 |Unknown
 |-
-|Pizzacam / Looney Bird
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |4-81 7-20
 |Destroyed
 |-
-|Munch Jr. / Choo Choo
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |4-81 8-20
 |Destroyed
 |-
-|Building / Sun
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |4-81 10-20
 |Destroyed
 |-
-|Moon
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |4-81 11-20
 |Destroyed
 |-
-|Antioch
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Destroyed
 |-
-|Wink
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Destroyed
 |-
-|Chuck E. Cheese 32m (Animatronic) (Chuck E Cheese 32m (Animatronic))
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |048
-|In Store
+|Destroyed
 |-
-|Parrot (Animatronic) (Parrot)
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
-|In Store
+|Destroyed
 |-
-|Clock
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
-|In Store
+|Destroyed
 |-
-|Pizza Phone
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
-|In Store
+|Destroyed
 |}

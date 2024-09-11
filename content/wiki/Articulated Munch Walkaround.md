@@ -2,25 +2,24 @@
 title = "Articulated Munch Walkaround"
 draft = false
 tags = []
-date = 2022-08-09T21:31:33Z
+date = 2024-04-08T02:18:15Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedMunchJacket.jpg|thumb|The","ArticulatedMunchGal5k.jpg|thumb|The"]
 +++
 [[File:ArticulatedMunch.jpg|thumb|The articulated Munch head paired with his standard outfit in the August 1997 show.]]
-The articulated Munch walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
+The articulated Munch walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irvin. This head was used in three different showtapes, those being:
 
 * August 1996
 * April 1997
 * August 1997
 
-During these showtapes, the head was often seen paired with his standard 90’s outfit. However, during an intermission in the August 1997 show, he is seen without clothes other than his green “Lead Of The Band” tie and a black jacket.
+During these showtapes, the head was often seen paired with his standard 90’s outfit. However, during an intermission in the August 1997 show, he is seen without clothes other than his green “Lead of the Band” tie and a black jacket.
 
-In addition, the head was used in the notorious CEC movie, _Chuck E. Cheese In The Galaxy 5000_.<ref> https://youtu.be/LvPDKzSaeyg</ref> During the movie, the head is seen paired with the standard outfit and a yellow hat instead of green.
+In preparation for the Galaxy 5000 movie, the articulated head was refurbished by Billy Bob. In the process, the head was seen paired with the standard outfit and the hat was changed into a yellow color, likely to avoid interfering with the heavy usage of green-screening during production.
 
-The head was destroyed by corporate between the 2000s-2015.
-
+As of 2024, it is unknown of where the head or any other accompanying parts could be.
 
 ##Gallery##
 <gallery>

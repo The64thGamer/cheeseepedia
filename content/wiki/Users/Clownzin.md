@@ -2,7 +2,7 @@
 title = "Clownzin"
 draft = false
 tags = ["User"]
-date = 2024-08-04T03:35:26Z
+date = 2024-08-04T03:40:48Z
 
 [Article]
 contributors = ["Clownzin"]
@@ -12,4 +12,8 @@ im clownzin!
 
 i dont edit stuff on here much but i will edit things sometimes
 
-thats all
+
+
+ive edited so far:
+
+Showbiz Pizza Time Distribution Center photo to be one from may 2024.

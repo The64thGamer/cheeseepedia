@@ -2,12 +2,10 @@
 title = "Dr. Dux Diagnostic King"
 draft = false
 tags = []
-date = 2022-08-02T05:02:43Z
+date = 2024-01-14T19:48:40Z
 
 [Article]
 contributors = ["The 64th Gamer","NoName2000"]
-gallery = ["Dr"]
+gallery = []
 +++
-<gallery>
-File:Dr dux king.jpg
-</gallery>
+text/x-wiki

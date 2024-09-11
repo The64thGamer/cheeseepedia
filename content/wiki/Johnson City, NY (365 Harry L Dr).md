@@ -2,14 +2,45 @@
 title = "Johnson City, NY (365 Harry L Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-07T19:57:08Z
+date = 2024-06-24T13:37:06Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","Newbie editor","Cheeseclassic"]
-gallery = []
+gallery = ["Johnson","Johnson"]
 +++
 {{Generic|image=JohnsonCity.png|desc=Johnson City's exterior as a PTT}}
-**_365 Harry L Drive**_, was a Chuck E. Cheese's Pizza Time Theater that opened on June 7th, 1983, in the Diamond Point Plaza with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on November 17th, 1996, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
+**_365 Harry L Drive**_, was a Chuck E. Cheese's Pizza Time Theater that opened on June 7th, 1983, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on November 17th, 1996, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). It was located in The Small Mall.
 
 ##History##
-WIP
+Johnson City opened on June 7th, 1983, as Pizza Time Theatre with a Balcony Stage It first had the 1981 remodel, which included Cabaret rooms, the Fantasy Forest, and of course the stage itself. it had a cheese crawl stage at some point, probably after the first PTT remodel. Sometime in 1989/1990, the store received the 1988 remodel, which involved uniting some of the rooms and all the counters, replacing all the PTT decor with new decor, and removing the Balcony Stage for Chuck E.'s House Facade. However, they kept the PTT Signage. They would get the 1992 Remodel around 1993, which removed all aspects of the 1988 remodel and involved the removal of the Neon Signage, Blue and White Awnings, and checkers around the store, and removed the Chuck E.'s House Facade for the 2-Stage. But the PTT Signage remained. They remained like this until November 17th, 1996, when they would close. As of July 2023, the store is now multiple businesses.
+
+##Stages##
+Johnson City at first had a Balcony Stage. It only lasted 7/8 years, as sometime in 1989/1990, they received Chuck E.'s House Facade. In 1992, the stage was removed for a 2-Stage.
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|Balcony Stage
+|March 1982
+|1989/1990
+|One of the many installed in New York
+|-
+|Chuck E.'s House Facade
+|1989/1990
+|1992
+|One of 5 installed in New York.
+|-
+|2-Stage
+|1992
+|September 1996
+|One of 4 installed in New York.
+|}
+
+##Gallery##
+<gallery>
+File:Johnson City's 2-Stage.jpg|Johnson City's 2-Stage (PC: Unknown)
+File:Johnson City.jpg|Johnson City's 2-Stage (PC: Unknown)
+</gallery>

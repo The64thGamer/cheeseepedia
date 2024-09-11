@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Charlotte (Pineville) Grand Re-Opening Show"
 draft = false
 tags = []
-date = 2024-07-30T00:51:15Z
+date = 2024-08-02T16:12:32Z
 
 [Article]
 contributors = ["Documentor","Dame0824"]
@@ -12,7 +12,7 @@ gallery = []
 
 **_Chuck E. Cheese Pineville Grand Re-Opening Show**_ is the showtape released on July 19, 2024, to play exclusively for Pineville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
 
-This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm.  After the event it would play [Chuck E. Cheese Summer Show 2024 Part 2]({{< ref "wiki/Chuck E Cheese Summer Show 2024 Part 2.md" >}}) from 7:00pm-closing.
+This show features no intermissions and would play six segments on repeat from around 5:00pm-Closing .  
 
 ## Show List ##
 

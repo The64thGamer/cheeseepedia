@@ -2,15 +2,10 @@
 title = "3-Stage Command Format"
 draft = false
 tags = []
-date = 2022-09-13T23:56:05Z
+date = 2022-09-14T01:36:55Z
 
 [Article]
 contributors = ["The 64th Gamer","Ls2018-1"]
 gallery = []
 +++
-##Post-93 Bit Shift##
-In May of 1993, starting with the [Best of CEC TV 1993]({{< ref "wiki/Best of CEC TV 1993.md" >}}) showtape, the data placed on the tape would be shifted alongside updating the [Cyberamic Control System's]({{< ref "wiki/Cyberamic Control System.md" >}}) EPROM chips to read the shifted data. This would be done to invalidate all previous shows from being played.
-
-The format for this shift was applying an XOR mask to the second byte of the movement controls, being XOR 0x1F. This is the same operation for converting pre-93 signals to post-93, and decoding post-93 signals back.
- Example:
- A movement command, 0x1@ is provided. XOR-ing the second byte, '@', with 0x1F will provide '_', making the new command 0x1_. XOR-ing '_' once again will return it to being '@'.
+text/x-wiki

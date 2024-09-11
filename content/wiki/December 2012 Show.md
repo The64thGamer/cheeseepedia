@@ -2,57 +2,62 @@
 title = "December 2012 Show"
 draft = false
 tags = []
-date = 2022-03-06T21:18:32Z
+date = 2024-03-24T21:23:48Z
 
 [Article]
 contributors = ["Documentor","Montfortdog","John95","Ceclife13","The 64th Gamer","Cy's Junk at School"]
-gallery = []
+gallery = ["2012happyholidaysshowtape.png|CEC-Stage"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's holiday 2013 Show
 |image=Holiday2012.png
-|date=December 2, 2013
+|date=November 26, 2012
 |studioc=y
 |studiochd=y
 |dvdcu=y
 |dvdcyber=y
-}}
+|labelname=Chuck E Cheese Happy Holidays 2012
+*USA VERSION*
+This DVD is only to be played at Chuck E. Cheese's locations with the CEC Stage DVD Show
+Play only during the month of December 20102.
+(C) Copyright 2012 CEC Entertainment Concepts L.P.
+All rights reserved.
+The more you give,
+the more you get.}}
 
-**Holiday Show 2013** is the Holiday show released September 1, 2013, featuring six new songs. and two new lives.
+**December 2012** is the Holiday show released November 26, 2012, featuring the nine songs from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) re-recorded by Jaret Reddick.
 
-This was created to play from December 2, - December 31, 2013.
-
-## Show List: ##
+## Show List ##
 
 # **Song 1** 
 ## 'Deck the Halls'
 # **Intermission 1** 
-## [[File:New Graphic.png]] Veggie Tales - 'Wrapped Myself Up For Christmas'
+## VeggieTales - 'Donuts for Benny'
 ## Chillout 1 
 # **Song 2** 
 ## 'Up on the Housetop'
-# **Intermission 2** 
+# [[File:New Graphic.png]] **Intermission 2** 
 ## Fraggle Rock - 'Traveling Matt 1'
 ## Chillout 2 
 # **Song 3** 
 ## Jolly Old St. Nicholas
-# **Intermission 3** 
-## Ken Chuck E. Derby 
+# [[File:New Graphic.png]] **Intermission 3** 
+## My Little Pony - 'Christmas Pageant'
 ## Chillout 3 
 # **Song 4**
 ## Oh Christmas Tree
-# **Intermission 4** 
-## Larry the Technician - 'Decorating The Tree'
+# [[File:New Graphic.png]] **Intermission 4** 
+## Veggie Tales - 'The 8 Polish Foods of Christmas'
 ## Chillout 4 
 # **Song 5** 
 ## Jingle Bells
 # **Intermission 5** 
-## 'Fraggle Rock' - 'Snow Song'
+## [[File:New Graphic.png]] 'Fraggle Rock' - 'Snow Song'
 ## Chillout 5 
 # **Song 6** 
 ## I Heard the Bells on Christmas Day
-# **Intermission 6** 
-## Fraggle Rock - 'The Bells Of Fraggle Rock'
+# [[File:New Graphic.png]] **Intermission 6** 
+## Pound Puppies - 'Dog Sled Race'
 ## Chillout 6 
 # **Song 7** 
 ## Boars Head Carol
@@ -63,42 +68,37 @@ This was created to play from December 2, - December 31, 2013.
 ## Toyland / March of the Wooden Solider
 # **Intermission 8** 
 ## Baking with Betty - 'Potato Latkes'
-## Play Some Games For The Holidays
-## Chillout 8 
+## [[File:New Graphic.png]] Chillout 8
 # **Song 9** 
 ## We Wish You a Merry Christmas / Here We Come a Wassailing 
-# **Intermission 9** 
-## Super Jasper - 'Cookies for Santa'
-## Dreidel Song
-## Chillout 9
+# **Intermission 9**
 
-## Lives: ##
-*Birthday (3stage, Cyberamic, Studio C,Weigl)
-*Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
-*Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
-*Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-*Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
-*Happy & U Know It  (3stage, Cyberamic, Studio C,Weigl)
+# Super Jasper - 'Cookies for Santa'
+# Dreidel Song
+# Chillout 9
+# CEC TV ID - 'Winter'
 
-*Old Mac Donald (Studio C,Weigl)
-*BINGO (Studio C,Weigl)
-##Showtape Scans / Images:##
+## Lives ##
+*Birthday Program (3stage, Cyberamic, Studio C,Weigl)
+*Spanish Birthday Program (3stage, Cyberamic, Studio C,Weigl)
+*LIVE Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
+*LIVE Happy & U Know It (3stage, Cyberamic, Studio C,Weigl)
+*LIVE Chuck E.'s March (3stage, Cyberamic, Studio C,Weigl)
+
+## Gallery ##
 <gallery>
-holiday2013cecstage.jpg|CEC-Stage DVD Scan
+File:2012happyholidaysshowtape.png|CEC-Stage DVD
 </gallery>
 
-## Trivia: ##
+## Trivia ##
 
-* All songs from this show were redubbed originally in [December 2012]({{< ref "wiki/December 2012 Show.md" >}}). With them originally coming from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}).
-* Despite CEC no longer using Duncan's voice for over a year they decided to use 'Dreidel Song' from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}). The footage was not changed nor was the voice cast. 
-* This was the final showtape with curtains as the programming for the songs hadn't been touched since 2002. But due to the songs being cut apart some songs only have curtain open and some only have curtain close
+* All songs from this show were newly redubbed for this show to replaced Duncan's voice with Jared's. All of the songs originally came from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}).
+** In addition, this is the last holiday show to reuse the songs or segments from Holiday 2002.
+* New footage for 'I Heard The Bells' and 'Boars Head Carol' was produced to replace the old footage from 1999 of Chuck and Helen walkaround around New York and the footage of the 1999 Pasqually Puppet singing. Both were replaced with the same footage being of the avenger Era walkarounds walking around downtown Frisco, TX during the holiday season.
 
-* This was the final show with Cupid Shuffle with this show they decided to reedit the footage to remove the avenger walkaround. Despite also putting a song from 1999 as an intermission. You can tell they all worked together on this.
-* This was also the final show to use the old 1999 Puppets. While the footage was the same from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) they would no longer be seen in any way after this point. 
-
-* The Timecode part of this show is a clip from Sesame Street with the text **Merry Christmas Michael! Thanks for all that you do.'._
+* Despite CEC no longer using Duncan's voice for over a year they decided to use 'Dreidel Song' from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}). The footage was not changed nor was the voice cast.
 
 * Baking with Betty was slightly reeditied to give a VHS scan line effect over any shot with Betty in it. This is because they wouldn't be able to push the footage into 16:9 without cropping out most of the action. 
 
-* 'Play Some Games For The Holidays' is a 30 second ad about downloading the song on their facebook page. Using footage from the commercial. 
-* 'Chillout 8' features B Roll footage that was eventually used in 'Share The Joy' meaning it's possible Share The Joy was filmed in 2013 with all the footage with the walkaround then put into Holiday 2014. That's why it sticks out like a soar thumb compared to the rest of the show video wise.
+* 'Play Some Games For The Holidays' is a 30 second ad about downloading the song on their facebook page. Using footage from the commercial.
+* None of the Live shows were redubbed yet for Rockstar. This was also the final time Chuck E.'s March would ever be used.

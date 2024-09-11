@@ -2,13 +2,14 @@
 title = "Layton, UT (450 North Main St)"
 draft = false
 tags = []
-date = 2024-06-22T01:24:43Z
+date = 2024-06-22T05:05:37Z
 
 [Article]
 contributors = ["Cheeseslicez"]
-gallery = []
+gallery = ["Layton3.jpg|Exterior","Layton1.jpg|Arcade","Layton","Layton5.jpg|Chuck","348s","Layton7.jpg|Counters","Layton8.jpg|Show","Layton9.jpg|Exterior","Screenshot","Layton10.jpg|Arcade"]
 +++
-[[File:450-N-Main-St-Layton-UT-450-N-Main-St-Photo-1-1-Large.jpg|thumb|280x280px|Layton's Exterior]]
+{{Generic|image=LAYTONUT.jpg|desc=Layton in 2019}}
+
 **450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in June 2020
 
 ## History ##
@@ -38,6 +39,19 @@ In June 2020 Layton was one of the 34 locations closed due to Chuck E Cheese dec
  TODO: Videos
 
 ## Gallery ##
- TODO: Gallery
+<gallery>
+File:Layton3.jpg|Exterior on August 17th 2013
+File:Layton1.jpg|Arcade
+File:Layton 4.jpg|SkyTubes
+File:Layton5.jpg|Chuck E Animatronic
+File:348s (1).jpg|Game Room
+File:Layton7.jpg|Counters
+File:Layton8.jpg|Show Room
+File:Layton9.jpg|Exterior on April 17th 2012
+File:Screenshot 2024-06-21 8.22.14 PM.png|Road Sign
+File:Layton10.jpg|Arcade
+</gallery>
 
-## References ##
+## Resources ##
+ T
+__INDEX__

@@ -2,21 +2,25 @@
 title = "FileFickle"
 draft = false
 tags = ["User"]
-date = 2024-01-05T03:18:02Z
+date = 2024-07-25T17:49:56Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["collection.gif|My","pwJB.jpg|The","portrait.jpg|Need","Screenshot"]
+gallery = ["collection.gif|My","pwJB.jpg|The","portrait.jpg|Need","Screenshot","king_dom.jpg|Pure","drakeps.png|TGAAPS","doont.jpg|Don't"]
 +++
+<center><div style='margin: 0 auto; border: none;'>
+[[File:fauxfickle.jpg|left|700px]]
+<center><div>
 I kinda just scrape together random and rare photos from across the web so they can be in one place and properly archived.
 
 ## Enjoyer Of: ##
-
+Animatronics (duh)
 * Bear Country Jubilee
-* Wolf Pack 5
 * PTT Portrait Bots
+* Wolf Pack 5
 * Lost Media
 * Collecting Images
+Art
 
 ## Currently Looking For: ##
 
@@ -24,10 +28,24 @@ I kinda just scrape together random and rare photos from across the web so they 
 * Rare Footage of any animatronic shows
 * Rare Photos
 
+## The Great All-American Pizza Search! ##
+My search for 'The Great All-American Pizza Show!' on Tumblr. I try and make updates every month
+
+[https://www.tumblr.com/fauxfickle/742157669720358912/back-again-with-the-search-for-the-ever-elusive Part 1] [https://www.tumblr.com/fauxfickle/744243026622398464/we-now-return-with-your-regularly-scheduled-and Part 2]
+
+[https://www.tumblr.com/fauxfickle/745048475400552448/welcome-back-with-a-very-impromptu-episode-of-the Part 3] [https://www.tumblr.com/fauxfickle/748407495620542464/another-month-another-info-dump-of-things-you Part 4]
+
+[https://www.tumblr.com/fauxfickle/751664529796218880/welcome-back-to-your-monthly-dose-of-radon Part 5] [https://www.tumblr.com/fauxfickle/754478633128804352/we-now-return-to-your-monthly-fruitless-venture-or Part 6]
+
+[https://www.tumblr.com/fauxfickle/756997832118009856/beep-beep-the-honda-civic-of-lost-media-searches Part 7]
+
 ## Gallery of Shame ##
 <gallery>
 File:collection.gif|My thought process in general
 File:pwJB.jpg|The gay couple
 File:portrait.jpg|Need MOAR photos!
 File:Screenshot 2023-11-05.png|Y O U
+File:king_dom.jpg|Pure vibes man
+File:drakeps.png|TGAAPS
+File:doont.jpg|Don't make me tap the sign...
 </gallery>

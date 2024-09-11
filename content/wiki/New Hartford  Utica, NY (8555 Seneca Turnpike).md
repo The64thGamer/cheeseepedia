@@ -2,11 +2,11 @@
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-17T02:35:25Z
+date = 2024-02-17T02:35:48Z
 
 [Article]
 contributors = ["Stripes"]
-gallery = ["Macsway_2009.png|2009","Macsway_2009_(Google_Earth).png|2010","Macsway_2009_Google_Earth.png|2011"]
+gallery = []
 +++
 {{Stub}}
 
@@ -25,11 +25,7 @@ The location had a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony S
 Construction of the location within the Sangertown Square Mall was recorded as early as November 1982 <ref>https://www.newspapers.com/article/the-buffalo-news-new-hartford-utica-pt/141183105/</ref>.
 
 ### Closure ###
-Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) <ref>https://www.newspapers.com/article/the-buffalo-news-new-hartford-utica-pt/141183653/</ref>.<gallery>
-File:Macsway_2009.png|2009
-File:Macsway_2009_(Google_Earth).png|2010
-File:Macsway_2009_Google_Earth.png|2011
-</gallery>
+Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) <ref>https://www.newspapers.com/article/the-buffalo-news-new-hartford-utica-pt/141183653/</ref>.
 
 ## Animatronics ##
 {| class='wikitable'

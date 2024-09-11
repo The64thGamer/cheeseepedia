@@ -2,7 +2,7 @@
 title = "Waco, TX (5156 W Waco Dr)"
 draft = false
 tags = []
-date = 2023-05-06T03:27:43Z
+date = 2024-05-14T19:41:47Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
@@ -10,22 +10,23 @@ gallery = ["Waco3.png|Front","Waco2.png|Salad","Waco4.png|Play","Waco5.png|Show"
 +++
 {{Generic|image=waco1.png|desc=Waco, TX exterior in the 1980s.}}
 
-**_5156 W Waco Dr.**_ was a _Showbiz Pizza Place_ that opened in 1986 with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in 1992.
+**_5156 W Waco Dr.**_ was a _Showbiz Pizza Place_ that opened in 1986 with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in 1992.
 
-This specific Showbiz Pizza location was the smallest location to ever open and allegedly only had a capacity for just 175 patrons. This location also was coincidentally located within the same shopping center as the current Chuck E. Cheese location that would open in 2002.<ref>https://goo.gl/maps/diVBVVrPQg6HGPoPA</ref>
+This specific Showbiz Pizza location was the smallest location to ever open and allegedly only had a capacity for just 175 patrons. This location also was coincidentally located within the same shopping center as the current Chuck E. Cheese location that would open in 2002.<ref>https://goo.gl/maps/diVBVVrPQg6HGPoPA</ref><ref>[Waco, TX (5106 West Waco Dr)]({{< ref "wiki/Waco, TX (5106 West Waco Dr).md" >}})</ref>
 ##Stages##
 _5156 W Waco Dr._ would be one of the last locations to open with a Rock-Afire Explosion; as Showbiz Pizza Time started to phase out the Rock Afire as early as 1987. The stage would take up most of the back area of the restaurant as the locations size would just barely accommodate it. The location also received the Cybervision update shortly after opening.
 ##History##
-5156 W Waco Dr. opened in 1986 with Showbiz Pizza Time's new rebranded interior design however with a blue and yellow color scheme instead of checkers.<ref>1986 SPT Remodel Program</ref> Post opening, little is known of the location other than the readily available information on [https://www.showbizpizza.com/photos/spp/tx_waco/index.html showbizpizza.com] .
+5156 W Waco Dr. opened in 1986 with Showbiz Pizza Time's new rebranded interior design however with a blue and yellow color scheme.<ref>1986 SPT Remodel Program</ref> Post opening, little is known of the location other than the readily available information on [https://www.showbizpizza.com/photos/spp/tx_waco/index.html showbizpizza.com] .
 
 ### Closure ###
 In 1992 the location would permanently close and later put up for lease for an extended period of time. In 2017 the former Showbiz became 'Smile Doctors Braces'. 
 ##Arcade Machines##
-Identified machines
+Identified machines.
 
 *[https://en.wikipedia.org/wiki/Pac-Man Pac-Man]
 *Skee-Ball
 *[https://www.arcade-museum.com/game_detail.php?game_id=19660 Bozo The Clown Grand Prize Game]
+*TMNT 1989 Arcade Game
 
 ##Gallery##
 <gallery>

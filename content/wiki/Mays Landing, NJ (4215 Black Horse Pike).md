@@ -2,13 +2,14 @@
 title = "Mays Landing, NJ (4215 Black Horse Pike)"
 draft = false
 tags = []
-date = 2023-09-17T21:04:23Z
+date = 2024-08-11T16:09:58Z
 
 [Article]
 contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
-gallery = []
+gallery = ["Mays","Mays"]
 +++
-**_Mays Landing, NJ (4215 Black Horse Pike)**_ is a Chuck E. Cheese's that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day.
+{{Stub}} {{Generic|image=Mays Landing 2.0 (PC- Mikey llagan).jpg|desc=Exterior, July 2024 (PC: Mikey llagan)<ref> https://maps.app.goo.gl/ywKDKaMbgg5dQo95A</ref>}}
+**_Mays Landing, NJ (4215 Black Horse Pike), Store #518**_ is a _Chuck E. Cheese_ that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
 ##Stage##
 {| class='wikitable'
@@ -19,12 +20,17 @@ gallery = []
 |-
 |[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
 |December 2001
-|In Store
+|May 27th, 2024
 |Only 32M Beta in New Jersey
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|May 2024
+|Still in Use
+|2021 Model
 |}
 
 ##History##
-TODO
+On May 26th, 2024, Mays Landing began their [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) renovations. The Studio C Beta and other 2015 fixtures were removed the following night on May 27th. The location reopened in July 2024, and is still open today. 
 
 ##Animatronics##
 {| class='wikitable'
@@ -33,17 +39,57 @@ TODO
 !Whereabouts
 |-
 |Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32m (Studio C))
-|N/A
-|In Store 
+|156
+|Destroyed. Remains owned by NickGT50.<ref><nowiki>https://m.youtube.com/shorts/GQXhQWRWv0A</nowiki></ref>
 |-
 |[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
-|In Store
+|Owned by a Private Collector
 |-
 |}
 
 ##Arcade Machines##
 TODO
 
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|https://youtu.be/YfNCW-3SrGo?si=5AxUoIFAEMiRN4XL
+|Footage of Mays Landing in 2005
+|April 24, 2005
+|-
+|https://youtu.be/hCNgCxTahFU?si=0O0lgc0KnzjNRm5X
+|Footage of Mays Landing during a “Chanukah” Event in 2008
+|December 2008
+|-
+|https://youtu.be/s0_haU7KSCE?si=P6QRvlKOQqoSkknY
+|Cupid Shuffle Live Show in Mays Landing in 2013
+|June 18, 2013
+|-
+|https://youtu.be/d2V7pOWUQu4?si=6LGh2Zk7q7LKmY8l
+|Mays Landing’s Studio C playing the April 2014 Show, Segment 1.
+|Spring 2014
+|-
+|https://youtu.be/MwQoGw8DQp8?si=TK0ghnKydquMRTut
+|Mays Landing’s Studio C playing “My Family”.
+|July 3, 2019
+|-
+|https://youtu.be/vBr27AE3VVw?si=fllpDFX1l_Fqgwz_
+|Store Tour of Mays Landing in December 2020
+|December 26, 2020
+|-
+|https://youtu.be/M5mHyNRsvZA?list=PLq54ycCiI9ZIQX9kAJbFpmrL_FzYQv2vX
+|Chuck E Bop Live Show in Mays Landing's Grand Reopening Event with Balloon Drop fail.
+|July 2024
+|-
+|}
+
+
 ##Gallery##
-TODO
+<gallery>
+File:Mays Landing Exterior .jpg|Exterior in April 2021 (PC: cheesestudioalpha<ref> https://www.instagram.com/p/COTiJveH44b/?igsh=MWFnZTh1M2RhazA0NA##</ref>
+File:Mays Landing 2005.jpg|Exterior, April 2005<ref> https://youtu.be/YfNCW-3SrGo?si=5AxUoIFAEMiRN4XL</ref>
+</gallery>

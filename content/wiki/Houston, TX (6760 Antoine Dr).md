@@ -2,82 +2,115 @@
 title = "Houston, TX (6760 Antoine Dr)"
 draft = false
 tags = []
-date = 2022-12-01T23:07:59Z
+date = 2024-09-07T15:26:54Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","Midwestretail","Pizzaman49","SuperCreamPiper2008","ItzaRob","Saan1ty","ShowbizMidwest","CEC1988"]
-gallery = []
+gallery = ["Stage","Stage","Another","Stage","Antoine","Antoine","AntoineHoustonCECExteriorAsJumpNFiesta.jpg|The","AntoineHoustonCECFormerShowroom.png|Former","Ac.png|After","Mannaantoine.jpg|Manna"]
 +++
-**_Houston, TX (6760 Antoine Drive)**_ was a _Chuck E. Cheese's_ location running from July 15, 1981 to September 2006.
+{{Generic|desc=The store's exterior before closure. (January 18, 2006)|image=Antoine 011806.jpg}}
+**_Houston, TX (6760 Antoine Dr), Store #734**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a ShowBiz Pizza Place location that opened on July 15, 1981 with a Rock Afire Explosion and closed in September 2006 (day unknown) with a 3-Stage.
 
-The Antoine Drive Showbiz Pizza Place opened on July 15th 1981, and closed its doors on September 2006 as a Chuck E. Cheese's. 
+It was located in the White Oak Bayou Village Shopping Mall (formerly Evergreen Center and even earlier, Inwood). 
 
-## Stage History ##
-The store opened with the Rock Afire Explosion on July 15, 1981, then started [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) around 1991 which began the process of converting the Rock Afire Explosion to the 3-stage. They would remain like this until September 2006.
+## Stages ##
+Originally, when the store opened, it featured the Rock Afire Explosion band. In 1991, the location had received [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) which involved the process of converting the Rock-Afire Explosion to the 3-stage. Munch's keyboard also had a unique front. They would keep their stage until September 2006, when they relocated to [Tomball Parkway]({{< ref "wiki/Houston, TX (17780 Tomball Pkwy).md" >}}). The bots were then uniquely auctioned off to private collectors, except for the Jasper bot, who was sent to the [Houston (Weslayan) location]({{< ref "wiki/Houston, TX (5535 Weslayan St).md" >}}), being destroyed after the store's closure.
 
 ## History ##
-The Antoine Drive Showbiz Pizza Place opened up July 15, 1981 opening in the White Oak Bayou Village Shopping Mall as a Showbiz Pizza. Between 1988 and 1991 when the store would remodel gaining the checkered patterns on the walls, oil paintings and removing much of the Showbiz aesthetic scheme.  
+Houston, TX (Antoine) opened on July 15th, 1981 as part of the center it was in. There is hardly any info on the store when it was Showbiz Pizza, but it is known that between 1989-1990, the store would receive the 1988 remodel gaining the checkered patterns on the walls, receive the blue and white awnings above the salad bar, oil paintings and removing much of the Showbiz aesthetic scheme. Including replacing the Smitty's Super Service backdrop with the Showbiz Pizza Campground backdrop.
 
-Soon after around 1991 the store received Concept Unification. In 1993 the store received the 92 remodel. The store looked like this until the early 2000's when it received the Phase 3 Remodel. They would remain like this until they closed and relocated in September 2006 to Tomball Parkway. After closure, the store immediately became different businesses. As of November 2022, the building still stands with multiple businesses filling the former space.
+Soon after around 1991, Houston, TX (Antoine) received Concept Unification. In 1993, the store received [Operation: Thumb Chuck]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) removing Oil Painting decor for the Record Posters. The store looked like this until the late 90's when it received the Phase 2 Remodel removing older decor for newer decor, though the Record Posters stayed, and replacing the ball pit for the [SkyTubes]({{< ref "wiki/Skytubes.md" >}}). In September 2006, the store was closed without warning, [with a replacement store opening a few months later.]({{< ref "wiki/Houston, TX (17780 Tomball Pkwy).md" >}}) Everything from the games, appliances, posters, and even booths and tables, were all auctioned off either before or after the store closed. After everything was auctioned off, the store would close it's doors.
 
-## Videos ##
-{| class='wikitable'
-!Link
-!Description
-!Footage Date
-|-
-|}
+In 2007, a year after its closure, the store would be converted into another place called _Jump N' Fiesta_,<ref>[https://web.archive.org/web/20240518053355/https://www.bizapedia.com/tx/jump-n-fiesta-inc.html https://web.archive.org/web/20240518053355/https://www.bizapediacom/tx/jump-n-fiesta-inc.html]</ref> presumed to be a bouncy house playground center. This anchor would repaint the exterior of the former CEC space to rainbow colors, but kept the store's original awnings intact, and would operate until around 2010. That same year, the space would be converted into a party hall, with its exterior being completely repainted back to white during its conversion, including the intact awnings.
+
+This space of the former CEC would eventually end up being split up into smaller retail space in 2016-2017. It remains this way to this day.
+## Arcade Machines ##
+
+### Identified Machines ###
+
+* Aftershock
+* Double Cheese
+* Wac-A-Munch
+* [Chuck E. Cheese's Grand Slam]({{< ref "wiki/Chuck E Cheese's Grand Slam.md" >}})
+* Total Eclipse
+* Buzzy Buzzy Bee
+* Arctic Thunder
+* Cyclone
+* Coin Circus
+* Bob The Builder
+* Tower of Power
+* Barrel of Fun
+* Chuck E. Cheese's Kooky Konga
+* [Chuck E. Cheese Roll]({{< ref "wiki/Chuck E Cheese Roll.md" >}}) (6 units)
+
 ## Gallery ##
 <gallery>
-
+File:Stage Left of Houston, TX (Antoine) in 2006..jpg|alt=Stage Left Houston, TX (Antoine)|Left of the store's stage post-closure.
+File:Stage Center of Houston, TX (Antoine) in 2006.jpg|alt=Stage Center Houston, TX (Antoine)|Center of the store's stage post-closure.
+File:Another photo of Stage Center in Houston (Antoine).jpg|Another photo of the center stage post-closure.
+File:Stage Right of Houston, TX (Antoine) in 2006.jpg|alt=Stage Right Houston, TX (Antoine)|Right of the store's stage post-closure.
+File:Antoine cec 09.jpg|Right side of the showroom.
+File:Antoine cec 10.jpg|Left side of the showroom.
+File:AntoineHoustonCECExteriorAsJumpNFiesta.jpg|The store's exterior as Jump N' Fiesta (2008)
+File:AntoineHoustonCECFormerShowroom.png|Former showroom area (September 28, 2011)
+File:Ac.png|After closure 2015 Pc: Google Maps
+File:Mannaantoine.jpg|Manna Resale Store, which is one of the businesses that took over the Chuck E. Cheese's space.
 </gallery>
 
-## Animatronics ##
+##Animatronics##
 {| class='wikitable'
 |+
-!Character
-!Status
-!Serial
+!Animatronic
+!Serial Number
+!Whereabouts
 |-
-|Chuck E. Cheese/Rolfe DeWolfe
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|1-81 1-5
+|Owned by Sully G
 |-
-|Helen Henny/ Mitzi Mozzerella
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|1-81 2-5
+|Owned by ItzaRob
 |-
-|Mr Munch/Fatz Geronimo
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|1-81 3-5
+|Owned by a private collector
 |-
-|Jasper T. Jowls/Beach Bear
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|1-81 4-5
+|Sent to [Houston, TX (5535 Weslayan St)]({{< ref "wiki/Houston, TX (5535 Weslayan St).md" >}}), now destroyed<ref>https://www.youtube.com/watch?v=-qtVxFITZ2g&lc=UgxqKNZR9dOHschDzPB4AaABAg</ref>
 |-
-|Pasqually the Chef/Dook LaRue
-|Status: Unknown/Dstroyed
-|Serial: Unknown
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|1-81 5-5
+|Owned by a private collector
 |-
-|Building/Sun
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|1-81 6-5
+|Unknown
 |-
-|Moon
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|1-81 7-5
+|Unknown
 |-
-|Pizzacam/Looney Bird
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|1-81 8-5
+|Unknown
 |-
-|Munch Jr/ Choo Choo
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|1-81 10-5
+|Unknown
 |-
-|Billy Bob
-|Status: Unknown/Destroyed
-|Serial: Unknown
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|1-81 11-5
+|Unknown
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Unknown
 |}
 
 ## References ##

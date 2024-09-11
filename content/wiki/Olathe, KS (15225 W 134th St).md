@@ -2,45 +2,16 @@
 title = "Olathe, KS (15225 W 134th St)"
 draft = false
 tags = []
-date = 2023-08-26T04:19:26Z
+date = 2024-04-05T02:48:32Z
 
 [Article]
 contributors = ["66.215.38.213","The 64th Gamer","Cheeseclassic"]
 gallery = []
 +++
-**_15225 W 134th St, Store #96**_ is a Chuck E Cheese that opened on
-May 3 2002 as a corporate Chuck E. Cheese's with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
-show It Pizza To Open in state of Texas and like many Chuck E. Live Stage (Dance Floor)  (Dance Floor))
-originally Dance Floor 2017 Model On The 2.0 Remodel 2017.
-
-
+{{Stub}}{{Generic|image=Olathe 2.0.jpg|desc=Exterior, 2017 (PC: Terran Blake)}}
+**_15225 W 134th St, Store #96**_ is a _Chuck E. Cheese_ that opened on May 3, 2002 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 ##Stages##
-Olathe, Kansas opened with the Studio C Alpha in 2002. Unfortunately, there are some
-photos but no videos to exist of Olathe Kansas with the Studio C Alpha, Or as a Chuck E. Cheese
-in general.
-{|class='wikitable'
-!Stage
-!Installed
-!Removed
-!Notes
-|-
-|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
-|May 2002
-|August 2017
-|Studio C Alpha Was Removed August 2017.
-|-
-|Chuck E. Live Stage (Dance Floor)  (Dance Floor))
-|August 2017
-|Still In Use
-|2017 Model.
-|}
+Olathe, Kansas opened with the Studio C Alpha in May of 2002, before being replaced by the [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) in August of 2017.
 
-##Animatronics
-{| class='wikitable'
-TODO
-
-##Gallery##
-TODO
-
-##Videos##
+##History##
 TODO

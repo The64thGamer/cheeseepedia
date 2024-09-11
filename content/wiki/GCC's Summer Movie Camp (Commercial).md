@@ -2,7 +2,7 @@
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
 tags = []
-date = 2022-07-15T18:56:45Z
+date = 2022-07-15T18:57:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -13,7 +13,7 @@ The **_General Cinema Corporation's Summer Movie Camp Commercial**_ is a lost Ch
 It is theorized to advertise the free admission to a _General Cinema's_ Summer Movie Camp event with any purchase of a Super Server Meal at CEC, using a similar ad from 2001 in the [CEC Coca-Cola Triple Tabletop Ad Stand]({{< ref "wiki/CEC Coca-Cola Triple Tabletop Ad Stand.md" >}}).
 
 ##35mm Film##
-A 35mm film for the commercial was placed on eBay on July 15, 2022. Its label reads:
+A 35mm film for the commercial was placed on eBay on July 15, 2022<ref>https://www.ebay.com/itm/185501904793?hash=item2b30c66f99:g:aKoAAOSwHvxi0Zh8</ref>. Its label reads:
  GCC's Summer Movie Camp
  'CHUCK-E-CHEESE'
  :30 SCOPE # 8811-B
@@ -23,3 +23,5 @@ File:Cecreelgcc1.jpg
 File:Cecreelgcc2.jpg
 File:Cecreelgcc3.jpg
 </gallery>
+
+## References ##

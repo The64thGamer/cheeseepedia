@@ -2,20 +2,19 @@
 title = "Melrose Park, IL (1315 W North Ave)"
 draft = false
 tags = []
-date = 2023-06-08T14:48:59Z
+date = 2023-12-06T22:40:15Z
 
 [Article]
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ShowbizMidwest","Melrosefool2763","Blowseborg062","SinStar","CEC Illinois","Cheeseclassic"]
-gallery = []
+gallery = ["Right","Interior","Olive","Exterior"]
 +++
-[[File:Melrose Park!.jpg|thumb|Melrose Park's exterior in June 2011, not very long before closure. (PC: Google Maps)]]
-**_1315 W North Ave**_ was a Chuck E. Cheese's Pizza that opened on September 24, 1991 (same day as [Placentia]({{< ref "wiki/Placentia, CA (2300 N Rose Dr).md" >}})) with a Road Stage and closed/relocated to the current location ([1030 Winston Plaza]({{< ref "wiki/Melrose Park, IL (1030 Winston Plaza).md" >}})) in August 2012 (day unknown) with a 2-Stage. They had a very unique exterior, with the Thumb Chuck logo containing the words 'FOOD, FAMILY & FUN'. 
+{{Generic|image=Melrose old park.jpg|desc=Melrose Park's exterior in the 2000s. (PC: Unknown)}}
+**_1315 W North Ave, Store #54**_ was a _Chuck E. Cheese's Pizza_ that opened on September 24, 1991, with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in August 2012 (day unknown) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). 
 
-## History ##
-Melrose Park opened on September 24, 1991 with a Road Stage and the 1988 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the Road Stage itself. One weird thing to note is that the ceiling was very low, so the stage had to be installed on the ground. Melrose Park remained like this until the mid '90s, when they would receive their final change, the 1993 remodel, receiving [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [2]({{< ref "wiki/Phase 2 (1997).md" >}}). This involved removal of the Road Stage for a 2-Stage, removing older décor for newer décor, removing the awnings above the salad bar, replacing the ball pit with the Skytubes, changing the exterior, and refurbishing the counters. In August 2012, the location completed it's final day, and shut its doors for good. The reason is that the owners didn't have enough money to remodel the store, so they relocated so it was easier to remodel. The building remained vacant for a couple of months until the store was demolished in 2013 for Olive Garden. As of June 2023, Olive Garden is still on the space.
+This location relocated to [Melrose Park, IL (1030 Winston Plaza)]({{< ref "wiki/Melrose Park, IL (1030 Winston Plaza).md" >}}), which opened in September 2012 (day unknown) and is still open today with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}). 
 
 ## Stages ##
-Melrose Park contained a Finalized Road Stage, being installed in September 1991. One thing to note about this stage, was that the stage was installed on the ground because the store's ceiling was very low. In the mid '90s, the Road Stage was removed and replaced with the 2-Stage, with the same ceiling problem. By the late 2000s or early 2010s, the curtains were removed from the stage. The 2-Stage would stay there until the August 2012 closure. The fate of their show is unknown.
+Melrose Park opened with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). The stage was installed almost on the ground because the ceiling was low. It didn't last long, as it was replaced with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) by 1994/1995. The stage received minor changes until the 2012 closure. Changes include Pasqually getting a new drum set, Chuck E. receiving the Cool Chuck outfit (later Avenger), Chuck E. getting a new mask by 2008, Helen getting a new mask sometime in the 2000s, Jasper getting a new mask in 2008-2009, and Pasqually getting a new mask in the 2000s.
 {| class='wikitable'
 |+
 !Stage
@@ -23,45 +22,63 @@ Melrose Park contained a Finalized Road Stage, being installed in September 1991
 !Removed
 !Notes
 |-
-|Road Stage
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
 |September 1991
-|Mid '90s
-|Stage installed on the ground.
+|1994/1995
+|One of 2 installed in Illinois.
 |-
-|2-Stage
-|Mid '90s
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|1994/1995
 |August 2012
-|Same issue with the Road Stage.
+|One of 5 installed in Illinois.
 |}
+
+## History ##
+Melrose Park opened on September 24, 1991, with the 1988 remodel and a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). Not much is known about Melrose Park from around this time, however, it is known that Melrose received Record Parody Awards in around 1993.
+
+In 1994/1995, Melrose Park received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), and removed the [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) for a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Melrose also received things duch as shelves and other decor around this time. The location received [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) at later dates. Melrose would receive a new exterior sign and awnings between 1995-1998.
+
+In August 2012 (day unknown), the location relocated to Winston Plaza for bigger space, and because how old the building was. The building would remain vacant for a short period until it was finally torn down for an Olive Garden. As of August 2023, Olive Garden sits on the space.
+
+## Videos ##
+TODO
+
+## Gallery ##
+<gallery>
+File:Right view of exterior.jpg|alt=Right Side Of The Exterior|A Photo of the Right Side of the Exterior
+File:Interior Photo.jpg|A Photo Taken of the interior with the showroom in the background
+File:Olive Garden Being Built.jpg|The location shortly after being demolished and during the construction of Olive Garden.
+File:Exterior After Closing.jpg
+</gallery>
 
 ## Animatronics ##
 {| class='wikitable'
 |+
 !Animatronic
-!Serial Number
+!Manufacturing Date
 !Whereabouts
 |-
 |[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
-|Unknown
-|Unknown
+|1983?
+|Unknown/Destroyed. Mask sent to [West Allis, WI]({{< ref "wiki/West Allis, WI (2990 South 108th Ave).md" >}}).
 |-
-|Guest Star / Helen Henny (Cyberamic) (Guest Star/Helen Henny (Cyberamic))
-|Unknown
-|Unknown
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|1980s
+|Unknown/Destroyed. Mask sent to [West Allis, WI]({{< ref "wiki/West Allis, WI (2990 South 108th Ave).md" >}}).
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
-|Unknown
-|Unknown
+|1980s
+|Unknown/Destroyed.
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
-|Unknown
-|Unknown
+|1980s
+|Unknown/Destroyed. Eyelids seen at [Tinley Park]({{< ref "wiki/Tinley Park, IL (16090 S Harlem Ave).md" >}}) as parts.
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
-|Unknown
-|Unknown
+|1980s
+|Unknown/Destroyed.
 |-
 |[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
-|Unknown
-|Unknown
+|1991
+|Unknown/Destroyed.
 |}

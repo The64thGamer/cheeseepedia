@@ -2,27 +2,158 @@
 title = "Lake Forest, CA (24416 Muirlands Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2022-08-03T01:59:18Z
+date = 2024-07-30T15:33:49Z
 
 [Article]
 contributors = ["TheFantasyForest","The 64th Gamer","Documentor","BurgersNuggs445","75.61.165.219","71.15.155.152","173.216.33.6","38.49.94.191","Bowling for Cheese","Charlesiiikingofengland","Rexburg090","Midwestretail","GabrielPennington9864","ThatBoiCydalan","Ceclife13","Jonn","AstridMascotFan2005"]
-gallery = ["ShowroomLakeForest.png","Checkers.pngFile:04f.jpg","gameroom.png","Ogden91.jpg","Balls.png"]
+gallery = ["Lakeforest80s.png|1990's","ShowroomLakeForest.png|2001","Checkers.png|2001","GameroomLakeForest.png|2001","FullstageLakeForest.png|2001","StageLakeForest.png|2001","Lake","Lfe.png|Exterior"]
 +++
-[[File:Lakeforest1.png|thumb|381x381px|Lake Forest in 2001, months before closure.
-24416 Muirlands Blvd was a Chuck E. Cheese's Pizza Time Theatre located in Lake Forest, California. The location opened on June 1981 in the Forest Ridge Plaza and was a part of a franchised store till closing in 2001.
+{{Generic|image=Lakeforest1.png|desc=Lake Forest's exterior months before closure.}}
 
-## Stages ##
-This store opened in June 1981 with a unique Balcony. It was the last Balcony to ever exist with the store closing in Fall 2001.  It also was the last store with the Bandstand vest, and one of the last stores to have Broadway Helen.
+**_24416 Muirlands Blvd**_ was a franchise owned _Pizza Time Theatre_ that opened in June 1981 with a Cyberamics Portrait / Shelf Stage (Shelf Stage) and closed in Fall 2001.
 
-## History ##
-Lake Forest was well known for being an outdated store within the company. Upon its closing, it was the last with the Balcony, had Broadway Helen, the Clapper Board, Flag Wavers, a PTT Mural on the walls, the 88 remodel checkers and neon, and many PTT signs, a 1995 display sign, and even the PTT Guest Star frame still.
+This location became widely known as 'The Final Pizza Time Theatre' for having various elements from the 1980s still present inside the restaurant, most notably the Cyberamics Portrait / Shelf Stage (Shelf Stage).
+##Stages ##
+This location, opening in 1981, became one of the last Pizza Time Theaters to debut with a shelf show.  
 
-## Gallery ##
-### 2001
+During the 1980s SPT remodels process, the characters were moved closer together and given custom-made staging. This created a stage that resembles a hybrid between the existing shelf show and Chuck E.'s House Facade (C-Stage). Shortly after the changeover, the final cosmetic change documented would be the changing of Helen's red sequin dress to the black and purple standard dress. This store would also end up being the final occasion a Bandstand vest or Applause Board would be utilized in store.  
+
+During the 1990s the showroom became increasingly more decorated, receiving large screen CRTs, custom-made lighting props, merry-go-round horse statues on display, and colorful flags over the retired Flag Wavers' mechanisms.
+### Lounge Acts ###
+During its time as a Pizza Time Theatre, Lake Forest would have three lounge acts in rotation, The King, The Beagles, and The Beach Bowsers. The only videotaped character in the array of lounge acts would be The King, whose last documented appearance would be in June 1990 before being removed shortly after.<ref>https://www.youtube.com/watch?v=JXc_jxsrm3I</ref>
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|Shelf Stage
+|June 1981
+|Fall 2001
+|}
+
+##History ##
+The Lake Forest, California Pizza Time Theatre opened in June 1981 under the FEC, Inc. franchise<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf</ref> and featured a large variety of video-based games as opposed to more physical games. The location would be considered a success by its employees throughout the location's 20-year history.
+
+The location would remodel only once during the 1986 SPT Remodel Program, when both PTT and SPP became one company and would standardize every location under one unified design, although little would change for Lake Forest other than the edition of painted walls. The store kept the general layout of the location until its closure and kept original advertisements relating to Pizza Time Theatre along with its accompanying artwork including a custom-made drawing of Chuck E. Cheese and his friends celebrating a party among various other pieces.
+
+Although the location hadn't received major updates, the franchise was still successful, having received multiple awards for its sales growth. This may also be a direct cause for a local Toyota dealership to sponsor the location.<ref>[[:File:GameroomLakeForest.png]]</ref>
+
+The only updated aspect of the store would be the games package, appearing to have never received [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}), but a condensed [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) package. Lake Forest would only receive new games later on as opposed to new attractions; most likely due to the size of the location. This small remodel would also change the exterior sign around 1997-1998.
+
+### 2001 Footage ###
+In 2001 Robert Gotcher and Jeremy Blaido visited this location and interviewed two cast members of the location. The video would be featured in a 25th-anniversary video created for CEC associates.  
+
+On April 29, 2023 a research group known as 'The Beans' premiered the video for all to see on Youtube.<ref>https://www.youtube.com/watch?v=XZJBBjy8VNk</ref>  
+
+###Closure###
+In 2001 the location would permanently close and relocate to [Laguna Hills, CA]({{< ref "wiki/Laguna Hills, CA (26538-H Moulton Pkwy).md" >}}). Unlike most relocations, the franchisee chose to not reuse any old assets from the original location. The former Pizza Time Theatre has since been remodeled and now has little to no remnants of Chuck E. Cheese's existence besides the presence of the former 'Now Appearing' boxes outside, and the repainted doors intact.
+
+The location's building would be repurposed into several different restaurants over time, the most recent being Bombay Grill, Bar, and Banquet.
+
+##Arcade Machines##
+Identified 2001 Machines.
+
+* Chuck E. Phone
+* Chuck E. Cheese's Trolly
+* [Chuck E's Duckies]({{< ref "wiki/Chuck E's Duckies.md" >}})
+* [Chuck E. Cheese's Circus]({{< ref "wiki/Chuck E Cheese's Circus.md" >}})
+* Cyclone
+* [https://www.arcade-museum.com/game_detail.php?game_id=8784 Ms. Pac-Man/Galaga - Class Of 1981]
+* [https://www.highwaygames.com/arcade-machines/buzzy-buzzy-bee-6071/ Buzzy Buzzy Bee]
+*Ms. Pac Man/Galaga 20th Anniversary
+*Wheel of Fortune
+*Buzzy Buzzy Bee
+
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|https://youtu.be/WH6MDJumlcE
+|Footage of the entire showroom, alongside the Kids segments of the CEC Kids / American Pride showtape playing.
+|April 28, 1990
+|-
+|https://www.youtube.com/watch?v=JXc_jxsrm3I
+|Footage of The King, and a bit of the Lounge Room.
+|June 1990
+|-
+|https://youtu.be/qfQwbI0xNuY
+|Short clip of the animatronics performing.
+|September 19, 1993
+|-
+|https://youtu.be/aV3iIc4ite0
+|Footage of the kiddie and games area.
+|September 24, 1998 
+|-
+|https://youtu.be/XZJBBjy8VNk
+|Video of Robert Gotcher and Jeremy Blaido visiting the location and interviewing their employees.
+|Summer 2001
+|}
+
+##Gallery##
 <gallery>
-File:ShowroomLakeForest.png
-File:Checkers.pngFile:04f.jpg
-File:gameroom.png
-File:Ogden91.jpg
-File:Balls.png
+File:Lakeforest80s.png|1990's
+File:ShowroomLakeForest.png|2001
+File:Checkers.png|2001
+File:GameroomLakeForest.png|2001
+File:FullstageLakeForest.png|2001
+File:StageLakeForest.png|2001
+File:Lake forest 2001.png|2001
+File:Lfe.png|Exterior without signage
 </gallery>
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Manufacturing Date
+!Whereabouts
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|Chuck E Cheese (Cyberamic)
+|1980
+|Unknown
+|-
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[Flag Wavers (Cyberamic)]({{< ref "wiki/Flag Wavers (Cyberamic).md" >}})
+|1980
+|Unknown
+|-
+|[The Beagles / Beach Bowzers (Lounge)]({{< ref "wiki/The Beagles  Beach Bowzers (Lounge).md" >}})
+|Unknown
+|Unknown
+|-
+|[The King / King Kat (Lounge)]({{< ref "wiki/The King  King Kat (Lounge).md" >}})
+|Unknown
+|Privately owned by the location's final technician.
+|}
+
+##References##
+<references />

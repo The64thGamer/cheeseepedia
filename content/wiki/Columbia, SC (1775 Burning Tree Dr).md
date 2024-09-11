@@ -2,43 +2,44 @@
 title = "Columbia, SC (1775 Burning Tree Dr)"
 draft = false
 tags = []
-date = 2023-02-06T17:03:58Z
+date = 2024-02-11T23:57:27Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2603:6081:300:4E87:8160:A970:10A:AF25","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","71.31.183.205","The 64th Gamer","BigCtheDataFinder","174.131.44.53","Chuckstar69"]
-gallery = []
+gallery = ["4094.jpg|Columbia's"]
 +++
-**_1775 Burning Tree Dr**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on June 28, 1983 as a Franchised _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion].
+[[File:Columbia2023.png|thumb|Exterior (December 2023)]]
+**_1775 Burning Tree Dr, Store #967**_ was a ShowBiz Pizza Place that opened on June 28, 1983. It was the fourth ShowBiz to open in South Carolina and remains open as a Chuck E. Cheese's. Columbia is a free-standing store located next to an Exxon gas station.
+
 ##History##
-Columbia opened its doors on June 28th, 1983 with a Rock-afire Explosion show. It was originally a franchised-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open removing older SPP decor for newer SPP decor. Unfortunately, very little documentation exists back in the ShowBiz Pizza era.
+Columbia opened its doors on June 28th, 1983. The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), placed adjacently on the store's rear wall. In the late 80's, Columbia underwent the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), phasing out original ShowBiz Pizza Place decor and signage for that of generalized Showbiz Pizza Time assets.
 
-In around 1991/1992, Columbia received Concept Unification which converted the show to Munch's Make Believe Band and received Phase 2 with a new exterior. Around the Mid-Late 1990's, Columbia received the Phase 3 remodel which removed some early 90's decor and added new decor, SkyTubes and also an exterior change. On September 16th, 1996, the location was sold to corporate along with Charleston, Greenville, and a few others. Columbia remained this way until sometime in 2006-2007 when they received the 2005 Remodel (Phase 4) which involved removing the Showroom Walls, balcony Seating, received another exterior change, relocating the stage, and also removing some older 90's decor. They would also expand the store which included space to fit in more games and tables. Columbia would remain like this until October 2022 when they received 2.0 and removed the 3-Stage for the Dance Floor and Video Wall. As of January 2023, they still have the 2.0 Remodel and the Dance Floor.
+Sometime in 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, Columbia's operating license was acquired by SPT Corporate along with sister locations [South Charleston]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) & [Greenville]({{< ref "wiki/Greenville, SC (253 Congaree Rd).md" >}}). Around this time, the store would undergo the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}).
+
+The store received the ['Cool Chuck' Major Remodel Initiative]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in the late 2000's, with newer booths, posters, and purple walls. Aside from rotating game packages, Columbia would remain in this state throughout the late 2000's into the 2020's decade. In September 2020, the Chuck E, Helen, and Jasper animatronics would be replaced with those from the then-recently closed [Charleston, SC (1610 Sam Rittenburg Blvd)]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) store. On November 1st, 2022, Columbia removed the 3-Stage for the Dance Floor + Video Wall as part of the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), becoming the store's most recent overhaul. 
+
 ##Stages##
-Columbia opened with the Rock afire Explosion in June 1983. Unfortunately, there are hardly photos or videos to exist of Columbia with the Rock afire, or as a ShowBiz in general.
-
-In 1991, Columbia received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into Munch’s Make Believe Band.
-
-In 2022, Columbia removed the 3-Stage for the Studio C Alpha stage.
+Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) occurred. In November 2022, Columbia removed the 3-Stage for a 2021 Model Dance Floor + Video Wall.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |June 1983
 |1991
-|
+|4th ShowBiz Pizza to open in South Carolina.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991
-|October 2022
-|
+|November 2, 2022
+|One of 4 ShowBiz locations in South Carolina to receive Concept Unification.
 |-
-|Dance Floor + Video Wall
-|October 2022
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|November 2022
 |Still in use
-|
+|2021 Model.
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -47,56 +48,57 @@ In 2022, Columbia removed the 3-Stage for the Studio C Alpha stage.
 !Serial
 !Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
-|N/A
-|Destroyed
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|10-82 1-15
+||Unknown; Removed in September 2020.
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
-|N/A
-|Destroyed
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|10-82 2-15
+||Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|N/A
-|Destroyed
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|10-82 3-15
+||Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|N/A
-|Destroyed
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|10-82 4-15
+|Owned by a Private Collector; Removed in September 2020.
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|Destroyed
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|10-82 5-15
+||Owned by a Private Collector; Removed in September 2020.
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|N/A
-|Unknown/Destroyed
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|10-82 6-15
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Unknown/Destroyed
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|10-82 7-15
+|Unknown 
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|N/A
-|Unknown/Destroyed
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|10-82 8-15
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Unknown/Destroyed
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|10-82 10-15
+|Mask sent to [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}). 
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
-|N/A
-|Unknown/Destroyed
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|10-82 11-15
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
-|Unknown/Destroyed
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
-|Destroyed
+|Owned by a Private Collector; Removed in November 2022.
 |}
 ##Gallery##
 <gallery>
+File:4094.jpg|Columbia's 3-Stage with South Charleston's Chuck, Helen, and Jasper figures. (September 2020)
 </gallery>
 ##Videos##
 {| class='wikitable'
@@ -106,18 +108,38 @@ In 2022, Columbia removed the 3-Stage for the Studio C Alpha stage.
 !Filming Date
 !Publish Date
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=zyyrlbjYOFM
+|Store tour of the store after reopening during the COVID-19 Pandemic.
+|June 8, 2020
+|June 8, 2020
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=XZo7EJ-7zYk
+|A look at the store's animatronics almost a year before removal
+|January 22, 2022
+|January 22, 2022
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=fP76kzSFocc
+|Store tour of the store a few months before the 2.0 Remodel
+|May 2022
+|May 16, 2022
+|-
+|https://www.youtube.com/watch?v=SmtvhaepU6c
+|'Down the Road' from [Chuck E. Cheese Summer of Fun 2022 Show]({{< ref "wiki/Chuck E Cheese Summer of Fun 2022 Show.md" >}}) being performed on Columbia's 3-Stage.
+|June 2022
+|June 11, 2022
+|-
+|https://www.youtube.com/watch?v=0ttL7bpW6lQ
+|'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Columbia's 3-Stage.
+|June 2022
+|June 25, 2022
+|-
+|https://www.youtube.com/watch?v=3KSBhTb0TT8
+|'Join the Party' from [Chuck E. Cheese Summer of Fun 2022 Show]({{< ref "wiki/Chuck E Cheese Summer of Fun 2022 Show.md" >}}) being performed on Columbia's 3-Stage.
+|June 2022
+|November 1, 2022
+|-
+|https://www.youtube.com/watch?v=KdKm7QAroQw
+|Store tour of the store after the 2.0 Remodel
+|January 7, 2023
+|January 9, 2023
 |}

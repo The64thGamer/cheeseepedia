@@ -2,32 +2,206 @@
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
 tags = []
-date = 2022-07-10T19:16:38Z
+date = 2024-08-04T16:54:18Z
 
 [Article]
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]
-gallery = []
+gallery = ["Darienmitzi.jpg|A","feb83","2902795436","2901955401","2902782808","50822518408","I-pfpzzmd-X3"]
 +++
-[[File:DarienExterior.jpg|thumb|200x200px|Exterior of the Darien, IL CEC.]]
-**_7409 Cass Ave**_ is a Chuck E. Cheese's located in Darien, Illinois.
+{{Generic|image=DarienExterior.jpg|desc=Darien's Pre 2.0 remodel Exterior.}}
 
+**_7409 Cass Ave, Store #685**_ is a Chuck E. Cheese's located in Darien, Illinois.
 
+This location opened as a ShowBiz Pizza Place on February 24, 1981, and is still open today with the 2.0 remodel.
 
-This location opened as a ShowBiz Pizza Place on February 24th, 1981, and is still open today.
+##Stages##
+Darien opened with The Rock-afire Explosion. Their original show was made in October 1980, however, their show was replaced in 1985 with [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}})'s show, an April 1982 show.
 
-## Stages ##
-Darien opened with The Rock-afire Explosion. Their original show was made in October 1980, however their show was replaced in 1985 with Benton Harbor, MI's show, and April 1982 show. In November 1991, Darien underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band.
+In the late 80s the store would receive the Showbiz Pizza Campground retrofit before undergoing [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in November 1991.
 
-Throughout the 1990s and the 2000s, Darien's show was in the average condition for a 3-Stage at the time. However, Darien was in a state of disrepair from around 2009-2011. It was repaired substantially in 2012, and was in pretty good condition, until 2015.
+Throughout the 1990s and the 2000s, Darien's show was in the average condition for a 3-Stage at the time. However, Darien was in a state of disrepair from around 2009-2011. It was repaired substantially in 2012, and was in pretty good condition, until 2015 when most movements stopped working, and Pasqually notoriously only had about three functional movements during this period.
 
-From 2015-2018, the stage was left to rot. Most movements stopped working, and Pasqually notoriously only had about three functional movements during this period. 
+In late 2019, major repairs on the stage began. Chuck E., Munch, and Jasper were almost fully functional, with Helen and Pasqually slowly improving. But, during this time, the compressor that ran the show began to have major issues. It started breaking down often, and eventually by January 2020, did not work at all.
 
-However, in late 2019, major repairs on the stage began. Chuck E., Munch, and Jasper were almost fully functional, with Helen and Pasqually slowly improving. But, during this time, the compressor that ran the show began to have major issues. It started breaking down often, and eventually by January 2020, did not work at all.
+In January 2020 the show received a Studio C compressor, which could only operate Chuck E. This would cause the rest of the show to be completely unfunctional aside from the lighting.
 
-From January 2020 until June 30th, 2020, the show was using a Studio C compressor, which could only operate Chuck E., with the rest of the characters not receiving any air pressure.
+In June 2020, it was decided by the district managers that Darien would be receiving the Studio C show from the Joliet, IL which remodeled earlier that year. On June 30th, 2020, the center stage characters and backdrops were removed. The same day, Joliet's animatronic and backdrops were installed on the stage. By July 6th, 2020, the new stage was functional. Later that month, curtains were put up on stage left and right, and Chuck E. and Pasqually were removed from their stages. 
 
-In June of 2020, it was decided by the district managers that Darien would be receiving the 16 movement Studio C Beta from the Joliet, Illinois location, which got 2.0 in late 2019. 
+The show would be heavily documented by a cast member that went by the online alias 'showbizpizzafan'. He would also go on to dub the show 'Studio 3' in the comments of one of the first reveals of the stage.<ref>https://media.discordapp.net/attachments/721519925986066433/1121223941986467920/image.png</ref>
 
-On June 30th, 2020, the center stage characters and backdrops were removed. The same day, Joliet's animatronic and backdrops were installed on the stage. By July 6th, 2020, the new stage was functional. Later that month, curtains were put up on stage left and right, and Chuck E. and Pasqually were removed from their stages.
+In June 2023, the CU Beta 16m was removed for the 2021 Dance Floor and Video Wall.
+## History ##
+Darien's Showbiz Pizza Place opened on February 24, 1981, in an unnamed shopping center whose main tenant is currently a Jewel-Osco. They at first had a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) that was produced in October 1980. 
 
-As of 2022, Darien still has the unique Studio C stage setup. Some updates have been made such as the removal of Pasqually's platform, brick wall, and Jasper's guitar spotlight. Chuck E. got the new 'Rockstar' shirt, and remains in decent condition mechanically.
+In the late '80s, they received the 1986 SPT Remodel Program (standard SPT remodel) and shortly after Darien underwent a 1990s Major Remodel (Major Remodel) in the mid '90s, removing older artwork for new artwork, and renovating the store majorly. 
+
+Darien underwent the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008 which involved removing the showroom walls, balcony seating, replacing lighting, and replacing the artwork.
+
+Around 2014, Darien replaced their 90s exterior signage with 2013 signage. Between June 30, 2020, and July 6, 2020, they removed the 3-Stage for the CU 2000 16M (CU Beta 16m). In June 2023, the location received the Refresh package of the 2017 2.0 Remodel Program, removing the CU Beta 16m for the 2021 model Dance Floor and Video Wall. The grand re-opening occurred on August 17th, 2023.
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+! Filming Date
+|-
+|https://www.youtube.com/watch?v=kQGFwftGeS0
+|Beatle's White Album. Filmed very shortly after the show was replaced with Benton Harbor's show.
+|1985
+|-
+|https://www.youtube.com/watch?v=Erg3Eg3d-E8
+|Birthday Party
+|1987
+|-
+|https://www.youtube.com/watch?v=mZw8K_WM1V8
+| Liberty Show
+|1988
+|-
+|https://www.youtube.com/watch?v=qv3mKXDImQQ
+|Features an exterior shot of the building
+|1990/91
+|-
+|https://www.youtube.com/watch?v=Ff3JCFezLSc
+|Not long before CU
+|1991
+|-
+|https://www.youtube.com/watch?v=GG0enHEg-Pg
+|A video from after CU
+|1993
+|-
+|https://www.youtube.com/watch?v=V-ziru7PLxk
+|Store Tour from February 2022
+|February 18, 2022
+|-
+|https://www.youtube.com/watch?v=5swGVUz4eds
+|A closeup of the stage
+|November 22, 2022
+|-
+|https://www.youtube.com/shorts/BOZ0x5b0qHM
+|Chuck E. & Helen at the Grand Reopening outside the store
+|August 17, 2023
+|-
+|https://www.youtube.com/shorts/7pgqOX55iiY
+|Chuck E. & Helen at the Grand Reopening at Kid Check
+|August 17, 2023
+|-
+|https://www.youtube.com/shorts/OOCOXvnG31U
+|Grand Reopening Ceremony
+|August 17, 2023
+|}
+##Gallery##
+<gallery>
+File:Darienmitzi.jpg|A Fan in the Early 80's Dressed as Mitzi
+File:feb83 (1).jpg|400px|Feburary 83
+File:2902795436 84892752a3 o (1) (2).jpg|Feburary 83
+File:2901955401 7972540dc1 o (2).jpg|Feburary 83
+File:2902782808 ed79e5d17c o (1) (1).jpg|New Billy Bob Costume
+File:50822518408 7461f828f1 b (1) (1).jpg|Center Stage 1988
+File:I-pfpzzmd-X3 (1) (1).jpg|Billy Bob and Looney Bird, Late 80's
+</gallery>
+
+##Animatronics##
+{| class='wikitable'
+!Animatronic
+!Serial Code
+!Whereabouts
+|-
+|Rolfe DeWolfe
+|10-80 1-5
+| Unknown / Destroyed
+|-
+|Dook Larue
+|10-80 2-5
+| Unknown / Destroyed
+|-
+|Fatz Geronimo
+|10-80 3-5
+| Unknown / Destroyed
+|-
+|Beach Bear
+|10-80 4-5
+| Unknown / Destroyed
+|-
+|Mitzi Mozzarella
+|10-80 5-5
+| Unknown / Destroyed
+|-
+|Billy Bob
+|10-80 6-5
+| Unknown / Destroyed
+|-
+|Looney Bird
+|10-80 7-5
+| Unknown / Destroyed
+|-
+|Choo Choo
+|10-80 8-5
+| Unknown / Destroyed
+|-
+|Sun
+|10-80 10-5
+| Unknown / Destroyed
+|-
+|Moon
+|10-80 11-5
+| Unknown / Destroyed
+|-
+|Antioch
+|N/A
+| Unknown / Destroyed
+|-
+| [Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}}) 
+|4-82 1-8
+|Owned by a private collector. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}}) 
+|4-82 2-8
+|Owned by Showbiz Midwest. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}}) 
+|4-82 3-8
+|Owned by a private collector. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+| [Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}}) 
+|4-82 4-8
+|Owned by LKD Animatronics. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+| [Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}}) 
+|4-82 5-8
+|Owned by a private collector. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+| [Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}}) 
+|4-82 6-8
+|Unknown / Destroyed. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) 
+|4-82 7-8
+|Owned by Jojo King. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}}) 
+|4-82 8-8
+| Unknown / Destroyed. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}}) 
+|4-82 10-8
+|Owned by a private collector. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}}) 
+|4-82 11-8
+| Unknown / Destroyed. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+| Unknown / Destroyed. Originally from [Benton Harbor, MI]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}).
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Owned by a private collector.
+|-
+| [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Destroyed. Originally from [Joliet, IL (3250 Chicagoland Circle)]({{< ref "wiki/Joliet, IL (3250 Chicagoland Circle).md" >}}).
+|}
+
+## References ##
+<references />

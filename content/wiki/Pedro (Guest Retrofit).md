@@ -2,10 +2,10 @@
 title = "Pedro (Guest Retrofit)"
 draft = false
 tags = []
-date = 2023-01-29T21:25:38Z
+date = 2023-05-16T18:54:15Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","Documentor","CEC Tinley"]
 gallery = []
 +++
-(WIP)
+text/x-wiki

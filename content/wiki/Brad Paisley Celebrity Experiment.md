@@ -2,16 +2,16 @@
 title = "Brad Paisley Celebrity Experiment"
 draft = false
 tags = []
-date = 2021-12-10T17:11:03Z
+date = 2021-12-10T17:11:51Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-**_Brad Paisley Celebrity Experiment**_ is a cancelled single segment showtape that would've featured on the _[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]._{{Showtape
+{{Showtape
 |image=5366522e7a0a5e7fe1bf4cc2e7fca49f.jpg 
 |date=2021
-|digital=y}}
+|digital=y}}**_Brad Paisley Celebrity Experiment**_ is a cancelled single segment showtape that would've featured on the _[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]._
 
 A video detailing the creation of the tape, along with footage used to test the experiments, were released on the _Creative Engineering Premium Service_ on October 7, 2021, titled _The Brad Paisley Experiments._
 

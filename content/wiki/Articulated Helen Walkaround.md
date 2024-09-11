@@ -2,31 +2,35 @@
 title = "Articulated Helen Walkaround"
 draft = false
 tags = []
-date = 2022-08-09T20:24:25Z
+date = 2024-04-08T02:16:53Z
 
 [Article]
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]
-gallery = ["HelenStrikeItUp.jpg|thumb|The","ArticulatedHelenSequin.jpg|thumb|The","ArticulatedHelenGal5k.jpg|thumb|The"]
+gallery = ["ArticulatedHelenSequin.jpg|Helen","Cheerpurp.png|The"]
 +++
-[[File:ArticulatedHenny.jpg|thumb|The articulated Helen head paired with the green cheer dress in the August 1996 show.]]
-The articulated Helen walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
+{{Generic|image=Cheerart.png|desc=Articulated Helen Henny}}
 
-* August 1996
-* April 1997
+The articulated Helen walkaround head was created in 1996 by former Creative Engineering employee, David “Billy Bob” Irving.
+
+## History ##
+The articulated walkaround heads were created by 'Billy Bob' Irving for Showbiz Pizza Time to be used for on-screen appearances from 1996 to 1997.
+
+In preparation for the Galaxy 5000 movie, the articulated head was refurbished by Billy Bob. In the process, Helen's hair became longer and the hairbows are bigger and placed on the top of her hair instead of just above the forehead. Helen's eyeshadow was also changed to purple, likely to avoid interfering with the heavy usage of green-screening during production.
+
+As of 2024, it is unknown of where the head or any other accompanying parts could be.
+
+## Appearance ##
+The walkaround is based off of the standard Helen used in stores from 1994 to then, the only difference being the new articulated head.
+
+## Media ##
+
+* Awesome Adventure Machine (July 1996)
+* 20th Anniversary show (April 1997)
 * August 1997
+* Chuck E. Cheese in the Galaxy 5000.
 
-During these showtapes, the head was often seen paired with the green cheerleader dress. However, in the first segment of the August 1997 show, Helen is seen wearing the 1994 sequin dress.
-
-The head with the green cheer dress was also used in video for the infamous Strike It Up live show. Strike It Up’s video is currently lost, and only a single second of footage exists due to it being in the May 1998 show. 
-
-In addition, the head was used in the notorious CEC movie, _Chuck E. Cheese In The Galaxy 5000_.<ref> https://youtu.be/LvPDKzSaeyg</ref> During the movie, the head is seen paired with the purple cheer dress, purple shoes, and purple bows.
-
-The head was destroyed by corporate between the 2000s-2015.
-
-
-##Gallery##
+## Gallery ##
 <gallery>
-File:HelenStrikeItUp.jpg|thumb|The articulated Helen head paired with the green cheer dress in the infamous lost Strike It Up live show footage.
-File:ArticulatedHelenSequin.jpg|thumb|The articulated Helen head paired with the sequin dress in segment 1 of the August 1997 show (Whoomp! There It Is)
-File:ArticulatedHelenGal5k.jpg|thumb|The articulated Helen head paired with the purple cheer dress in the Galaxy 5000 movie.
+File:ArticulatedHelenSequin.jpg|Helen with sequin dress
+File:Cheerpurp.png|The updated walkaround seen in the Galaxy 5000 Movie
 </gallery>

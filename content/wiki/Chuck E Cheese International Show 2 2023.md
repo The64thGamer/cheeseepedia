@@ -2,21 +2,22 @@
 title = "Chuck E. Cheese International Show 2 2023"
 draft = false
 tags = []
-date = 2023-04-22T02:59:08Z
+date = 2023-12-13T08:58:20Z
 
 [Article]
 contributors = ["Bowling for Cheese","Showbiz Pizza International","The 64th Gamer"]
 gallery = []
 +++
+{{DISPLAYTITLE:Chuck E. Cheese International Show 2 2023}}
 {{Showtape
-|title =Chuck E. Cheese Spring Show 2023
+|title =Chuck E. Cheese International Show 2 2023
 |image=More Plays More Fun.jpg
 |date=April 17, 2023
 |studioc=y
 |studiochd=y
 |dvdcyber=y}}
 
-**_Chuck E. Cheese International Spring Show 2023**_ is the spring show released on April 17, 2023 featuring a variety of songs released from 2017-2020.
+**_Chuck E. Cheese International Show 2 2023**_ is the Spring show released on April 17, 2023 featuring a variety of songs released from 2016-2019.
 This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the [Chuck E. Cheese Kidz Bop Show 2023]({{< ref "wiki/Chuck E Cheese Kidz Bop Show 2023.md" >}}) while Canada and Puerto Rico play the [Chuck E. Cheese Spring Show 2023]({{< ref "wiki/Chuck E Cheese Spring Show 2023.md" >}}) The automatic live is Spring Break Break Dance.
 
 ##Show List:##
@@ -62,3 +63,4 @@ This show is intended for all international locations to play. (Excluding Canada
 *Easy Dance (Cyberamic, Studio C, Weigl)
 *Chuck E. Cha Cha (Studio C, Weigl)
 *Happy Dance (Studio C, Weigl)
+{{DEFAULTSORT:Chuck_E._Cheese_International_Show_2_2023}}

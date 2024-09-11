@@ -2,10 +2,38 @@
 title = "Gostapua210"
 draft = false
 tags = ["User"]
-date = 2023-09-02T20:43:59Z
+date = 2024-08-01T20:17:37Z
 
 [Article]
 contributors = ["Gostapua210"]
 gallery = []
 +++
-satx, if you got any super specific cec/spp questions hit me up on insta or richard.valadez.210@gmail.com
+in San Antonio
+
+**locations visited**:
+
+**San Antonio, TX area:**
+
+Ingram Rd, numerous times in between 2010-2024 **Current Local**
+
+Military Dr, numerous times in between 2014-2022 childhood location
+
+Bandera Rd, January 2017 for a birthday, numerous times in between 2022-2023
+
+Stone Oak area, November 2022
+
+Selma, November 2022
+
+**Dallas, TX area:**Westmoreland Dallas, TX July 2022
+
+Fielder rd Arlington, TX July 2022
+
+Abilene, TX January 2023
+Round Rock, TX March 2024
+
+
+**Misc. Locations:**
+
+South Austin, TX/Ben White relocation March 2023
+
+Corpus Christi, TX March 2023, June 2024, July 2024 former local

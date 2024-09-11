@@ -2,10 +2,28 @@
 title = "Family Album"
 draft = false
 tags = ["Animatronics"]
-date = 2023-06-27T17:47:29Z
+date = 2024-04-03T13:05:08Z
 
 [Article]
 contributors = ["NoName2000","BlackMonkeyEater","Stripes","WalterB","The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++
-Family Album was a rare unused Caberet Test band that was temporally installed at 5 locations during Pizza Time Theatre's bankruptcy period due to a shortage of Balcony Stage animatronics. The show was available at select locations in Michigan, Rhode Island, and Massachusetts. The character's names were different at each location and were chosen through contests. The animatronics were made by Elnicky Enterprises, the same company responsible for the Hot Fudge animatronics that debuted around the same time. The Clawson, MI stage could rotate 360 degrees.
+{{Generic|image=familyaalbum.jpg|desc=The Family Album stage at the Clawson, MI location.}}
+
+**_Family Album**_ is an additional or alternate stage currently known to be installed at six Pizza Time Theatre locations.
+
+The show consisted of a male guitar player, female piano player, and male cello player. Each location was allowed to name the characters. They were manually controlled by a live operator for dialogue and played programmed songs.
+
+## History ##
+The first stage was installed in Clawson in 1983 but was additional to the Balcony Stage, as well as an exclusive Hot Fudge stage. Warwick received a Family Album during a shortage of Cyberamic animatronics in 1984. As a result of this shortage, Danvers completely removed and shipped their Balcony Stage to the Fall River, MA location in 1985 and received a Family Album show as a replacement. Clawson and Warwick had a 360 degree spinning platform stage with rising curtains. The last Family Album was removed from Warwick in 1990. The animatronics were made by _Elnicky Enterprises_. 
+
+## Installed Locations ##
+
+*Warren, MI (11555 Engleman Rd)
+*Ann Arbor, MI (2196 W Stadium Blvd)
+*Okemos, MI (2020 W Grand River Ave)
+*Clawson / Troy, MI (1241 E 14 Mile Rd)
+*[Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}})
+*[Warwick, RI (1960 Post Rd)]({{< ref "wiki/Warwick, RI (1960 Post Rd).md" >}})
+
+*

@@ -2,14 +2,14 @@
 title = "Articulated Pasqually Walkaround"
 draft = false
 tags = []
-date = 2022-08-09T23:28:50Z
+date = 2024-04-08T02:21:06Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedPasquallycloseup.jpg|thumb|Close-up","ArticulatedPasquallyDress.jpg|thumb|The"]
 +++
 [[File:ArticulatedPasqually.jpg|thumb|The articulated Pasqually head paired with his standard outfit holding a pizza in the August 1997 show.]]
-The articulated Pasqually walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
+The articulated Pasqually walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irvin. This head was used in three different showtapes, those being:
 
 * August 1996
 * April 1997
@@ -17,10 +17,9 @@ The articulated Pasqually walkaround head was created in 1996 by a former CEI em
 
 During these showtapes, the head was often seen paired with Pasqually’s standard 90’s outfit.
 
-In addition, the head was the only one to not be used in the notorious CEC movie, _Chuck E. Cheese In The Galaxy 5000_.<ref> https://youtu.be/LvPDKzSaeyg</ref Instead, a live actor dressed up in Pasqually’s outfit is used for the role.
+Interestingly, this was the only articulated walkaround to not be used in the Galaxy 5000 movie. As instead, a live actor dressed up in Pasqually’s outfit was used for the role.
 
-The head was destroyed by corporate between the 2000s-2015.
-
+As of 2024, it is unknown of where the head or any other accompanying parts could be.
 
 ##Gallery##
 <gallery>

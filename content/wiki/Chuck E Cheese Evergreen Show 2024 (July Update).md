@@ -2,16 +2,14 @@
 title = "Chuck E. Cheese Evergreen Show 2024 (July Update)"
 draft = false
 tags = []
-date = 2024-07-29T19:05:31Z
+date = 2024-07-31T02:26:00Z
 
 [Article]
 contributors = ["AstridMascotFan2005","Documentor"]
 gallery = []
 +++
-**_Chuck E. Cheese Evergreen 2024 (July Update)**_ is the generic show released on July 29, 2024. 
-
-{{Showtape|cybernetwork=y|studiocnetwork=y|date=July 29, 2024}}
-
+{{Showtape|title=Evergreen Show 2024 July Update|image=EverJuly24.png|cybernetwork=y|studiocnetwork=y|date=July 29, 2024|3stagenetwork=y}}
+**_Chuck E. Cheese Evergreen 2024 (July Update)**_ is the generic show released on July 29, 2024. It features a variety of songs released from 2014-2023. The show features 8 songs. 
 
 ## Show List ##
 
@@ -21,7 +19,7 @@ gallery = []
 # **Skit 1**
 ## Chuck E. Cheese - 'Chuck E's Middle Name'
 # **Intermission 2**
-## NewJeans 'Bubble Gum'
+## NewJeans - 'Bubble Gum'
 ## KIDZ BOP Kids - 'Houdini'
 ## Chuck E. & Friends - 'Bubble Bubble Pop!'
 ## Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
@@ -47,3 +45,30 @@ gallery = []
 ## Chuck E. & Friends 'Another Chuck E. Day'
 # **Intermission 7**
 ## Inside Out 2- 'The Life of Riley'
+# **Skit 7**
+## Helen Henny - 'Disco Dancing Dinosaur Party'
+# **Intermission 8**
+## Bella B. 'El Rey Guitarrista'
+## DJ Munch - 'Lend a Helping Hand'
+# **Skit 8**
+## Jasper T. Jowls - 'Arizona'
+# **Intermission 9**
+## KIDZ BOP Kids - 'Si No Estás
+## Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
+## DJ Munch - 'Play All You Can Play' 
+## KIDZ BOP Kids - 'Follow Your Heart' 
+## Chuck E. Cheese - 'Snail Marching Band' 
+## Chuck E. Cheese - 'Listen to the Rock'
+## Chuck E. Cheese - 'Mary Had a Rockin' Little Lamb' 
+## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
+
+## Lives: ##
+
+* Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
+* [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
+
+## Trivia ##
+
+* Despite [Billings, MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) removing the animatronics on July 28, 2024 Billings would receive the 3-Stage version of Evergreen 2024 July Update without the Legacy content. This would play for 9 hours as on July 30th the store would begin playing the Main Stage varient.

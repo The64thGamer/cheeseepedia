@@ -2,21 +2,21 @@
 title = "Indiana Jowls (Parody Poster)"
 draft = false
 tags = []
-date = 2023-07-17T19:17:11Z
+date = 2023-07-19T01:37:29Z
 
 [Article]
 contributors = ["Nostalgia Cow","Ceclife13","ThatBoiCydalan"]
 gallery = []
 +++
-[[File:Indian Jowls parody poster.jpg|alt=A picture taken of the Indiana Jowls (Parody Poster) at a location.|thumb|A picture taken of the Indiana Jowls (Parody Poster) at a location.]]
-The **Indian Jowls** was a poster created for Showbiz Pizza and Chuck E Cheese in 1988.
+{{Art|image=Indian Jowls parody poster.jpg|releasedate=1988|text1='If Adventure Has A Name It Must Be Jasper T. Jowls'|text2=INDIANA JOWLS and the TEMPLE OF PIZZA|text3=ShowBiz Parodies presents a Coldnose Companies Production A Terry R. Puppese Film JASPER T. JOWLS In 'Indiana Jowls and the Temple of Pizza' Executive Producers KAY NEIN & DEL MASION Associate Producer PEG O. D. LIDDER Music by HOWEL N. ADDYMOON Screenplay by JIM N. SHEPPARD Story by P. KINEESE Produced by IRIS SETTER Directed by CLARK R. SPANIEL|text4=A ShowBiz Pizza Time Parody Poster Production}}
+**Indiana Jowls** was a poster created for Showbiz Pizza and Chuck E Cheese in 1988.
 
-## History ##
+##History ##
 This poster was one of the many Chuck E Cheese's parody posters released in 1988. It is believed that after 1991, production of this poster and the other Chuck E Cheese's movie parody posters would cease.
 
 Over the years, this poster would become very rare to find in stores nationwide as remodels would occur and the removal of this poster and rest of the movie parody posters. The last location to have this poster was the York, PA location which has underwent the 2.0 remodel in 2018. It is unknown if Guatemala City carried over their poster over to their relocation store along side a few record posters.
 
-## Design ##
-The poster is a parody of the 1984 film, Indiana Jones and the Temple of Doom, with Jasper T. Jowls as Indiana Jones, Harmony Howlett as Willie Scott, and Chuck E. Cheese as Short Round. Also in the poster Pasqually, Mr. Munch, 3 members of the Beagles or Beach Beach Bowsers, and Artie Antlers make an appearance with no significant parody role from the movie.
+##Design##
+The poster is a parody of the 1984 film, Indiana Jones and the Temple of Doom, with Jasper T. Jowls as Indiana Jones, Harmony Howlett as Willie Scott, and Chuck E. Cheese as Short Round. Also in the poster Pasqually, Mr. Munch, 3 members of the Beagles, and Artie Antlers make an appearance with no significant parody role from the movie.
 
 In the top right of the poster there's a quote that reads 'If Adventure Has A Name It Must Be Jasper T. Jowls' which is referenced to the original poster that states 'If Adventure Has A Name It Must Be Indiana Jones'.

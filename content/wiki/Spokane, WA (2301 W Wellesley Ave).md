@@ -2,58 +2,96 @@
 title = "Spokane, WA (2301 W Wellesley Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-27T22:18:31Z
+date = 2024-06-25T18:39:34Z
 
 [Article]
 contributors = ["ChuckECool","CEC Tinley","Rexburg090","199.197.71.213","199.197.73.149","2605:AD80:31:19FD:C84B:E17E:B579:CFBE","CorrectorMan","2601:601:8783:5B10:A563:E33B:15C4:304D","SuperCreamPiper2008","Cecanddisneyfan2004","Cheeseclassic"]
 gallery = []
 +++
-**2301 West Wellesley Avenue** also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983 with Balcony Stage and relocated in March 2000 with a 2-Stage.
+{{Generic|image=SpokanePTTjpeg.jpeg|desc=Spokane’s exterior as a PTT}}
+**_2301 West Wellesley Avenue**_ also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983, with Balcony Stage and relocated in March 2000 with a 2-Stage.
 
-It was located in the Shadle Center but it is unknown what CEC was right next to.
+It was located in the Shadle Center, but it is unknown what CEC was right next to.
 ##History##
-Spokane opened on April 14th, 1983 as part of the center it was in and was franchised. Spokane received the [https://cheeseepedia.org/wiki/CEC_1988_Remodel 1988 Remodel] in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [https://cheeseepedia.org/wiki/2-Stage 2-Stage], the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
-##Stages##
+Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program (1988 Remodel) in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to [10007 N Nevada St]({{< ref "wiki/Spokane, WA (10007 N Nevada St).md" >}}) as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
+
+## Incidents ##
+On September 17, 1984, a man named Dennis E. Archambeault burned down his pizza parlor because of this location. The pizza place, which was called Dimes N Critters, was burned. It happened because someone splashed gasoline and committed arson. The fire was started in the stage area where the animatronics were performing.<ref> https://www.newspapers.com/article/35469431/spokane_chronicle/
+</ref>
+
+## Stages ##
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
+!Notes
 |-
-|Balcony Stage
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |April 1983
 |1989/1990
+|Possibly the 8th Pizza Time Theatre to open in Washington State.
 |-
-|Chuck E.'s House Facade
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
 |1989/1990
 |1993/1994
+|One of three installed in Washington State.
 |-
-|2-Stage
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |1993/1994
 |March 2000
+|Only one Installed in Washington State. Sent to [Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}) to be converted into one of two [Cyberamic 3-Stages]({{< ref "wiki/Cyberamic 3-Stage.md" >}}).
 |}
 ##Animatronics##
 {| class='wikitable'
 |+
 !Animatronic
-!Serial
+!Manufacturing Date
 !Whereabouts
 |-
-|[https://cheeseepedia.org/wiki/Chuck_E._Cheese_32m_(Animatronic) Chuck E. Cheese 32m (Animatronic)]
-|N/A
-|Still in Use
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|Unknown
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
 |-
-|Parrot
-|N/A
-|Still in Use
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Unknown
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
 |-
-|Clock
-|N/A
-|Still in Use
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
 |-
-|Pizza Phone
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|Waving Flags (Cyberamic)
 |N/A
-|Still in Use
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|Unknown
+|Unknown
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink.md" >}})
+|1993/1994
+|Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
 |}
 ##Gallery##
 TODO
@@ -64,9 +102,9 @@ TODO
 !Description
 !Published Date
 |-
-|
-|
-|
+|https://www.youtube.com/watch?v=DqyH5-69L4s
+|footage of the stores 2 stage in 1996 playing the august 1996 show, chuck e shuffle 1994, birthday star 1992 and some of chuck e march 1993.
+|November 5th 2023
 |-
 |
 |
@@ -76,3 +114,5 @@ TODO
 |
 |
 |}
+
+##References##

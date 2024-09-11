@@ -2,15 +2,25 @@
 title = "Chuck E. Cheese's Show 1 2018"
 draft = false
 tags = []
-date = 2022-02-13T20:49:12Z
+date = 2024-06-22T18:43:36Z
 
 [Article]
 contributors = ["Documentor"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese's Show 1 2018
+|image=Show12018.png 
+|date=January 4, 2018
+|studioc=y
+|studiochd=y
+|dvdcu=y
+|dvdcyber=y
+}}
+
 **_Chuck E. Cheese's Show 1 2018**_ released January 4, 2018
 
-This was created to play from November 20, 2017 - January 3, 2018. Featuring 4 songs. 2 new 2 old.
+This was created to play from January 4, 2018 - February 25, 2018. Featuring 4 songs. 2 new 2 old.
 
 ## Show List: ##
 
@@ -55,6 +65,20 @@ This was created to play from November 20, 2017 - January 3, 2018. Featuring 4 s
 *The Roll (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head Shoulders Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
+
+##Showtape Scans / Images: ##
+<gallery>
+Show118Floppy.png|Studio C Floppy
+Show118StdC.png|Studio C DVD
+Show1183stg.png|3-Stage DVD
+</gallery>
+
 ##Official Releases: ##
 *[https://www.youtube.com/watch?v=Z3IZcB7Whik 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' on YouTube]
 *[https://www.youtube.com/watch?v=s6VF6DTQguU 'Bailando' on YouTube]
+##Trivia: ##
+
+* Let's Have a Party is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), and Another Chuck E. Day is originally from Chuck E. Cheese's Show 5 2017 (Show 5 2017).
+* This was the first showtape to feature Bella B. With that showcases her original voice and puppet. The next time Bella would be seen was  Chuck E. Cheese's Show 3 2019 (Show 3 2019).
+
+* This was the final 'Rip It, Win It, Play It' promotional event. The prizes for it we're. Sonic Forces Console Bundle, Fandango Now, Tickets, Play Points, and the grand prize was an 'ultimate gaming center'. Despite not being mentioned in the ad you could also win various Sonic games for various consoles.

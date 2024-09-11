@@ -2,10 +2,10 @@
 title = "Southington, CT (774 Queen St)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-05T20:08:52Z
+date = 2024-04-23T20:45:44Z
 
 [Article]
 contributors = ["Ryys123"]
 gallery = []
 +++
-Alright this page is now getting started
+text/x-wiki

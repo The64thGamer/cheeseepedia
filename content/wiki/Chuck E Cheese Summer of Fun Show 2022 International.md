@@ -2,42 +2,64 @@
 title = "Chuck E. Cheese Summer of Fun Show 2022 International"
 draft = false
 tags = []
-date = 2022-06-26T00:13:46Z
+date = 2022-07-23T23:01:23Z
 
 [Article]
 contributors = ["Documentor","Bowling for Cheese"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese Evergreen Show 2022
+|image=Sumer22.png
+|date=June 2022
+|studioc=y
+|studiochd=y
+|dvdcyber=y
+}}
+
 **_Summer of Fun 2022**_ is the summer show released June 2022.
 
 This was created with conjunction with the Summer of Fun promotion. Runs from June 2022 - August 2022. This song features 6 Songs with the automatic live being Beach Party Bash.
 
 ## Show List: ##
-All that is known is the skits the intermissions are currently lost. The order of the skits is also unknown and the order reflects what was played in the US Show.
 
-**Skit 1** 
+# **Intermission 1**
+## Summer of Fun Bumper - Chuck and Jasper
+## Koo Koo Kangaroo - Backyard Swimsuit ft. Sims
+# **Skit 1**
+## Chuck E. Cheese & Friends - “Song of Summer”
+# **Intermission 2**
+## Safety Message
+## Summer Jokes with Pasqually
+## Kidz Bop - I Gotta Feeling
+## Summer of Fun Bumper - Chuck and Helen
+# **Skit 2**
+## Chuck E. Cheese & Friends - 'Out of This World'
+# **Intermission 3**
+## Kidz Bop - “Cake by the Ocean”
+## 'What Time Is It' High School Musical 2
+## Summer of Fun Bumper - Chuck and Munch
 
-Chuck E. Cheese & Friends - “Song of Summer”
+# **Skit 3**
+## Chuck E. Cheese - 'Down the Road'
+# **Intermission 4**
+## Safety Message
+## Kidz Bop - Heat Waves
+## Milo Manheim - We Own The Summer
+## Kidz Bop - Peaches
 
-**Skit 2** 
-
-Chuck E. Cheese - 'Down the Road'
-
-**Skit 3** 
-
-Jasper T. Jowls - 'Dog Days of Summer'
-
-**Skit 4**
-
-Chuck E. Cheese & Friends - 'Join the Party'
-
-**Skit 5**
-
-Chuck E. Cheese - 'Let's Be Friends'
-
-**Skit 6**
-
-Chuck E. Cheese & Friends - 'Out of This World'
+# **Skit 4**
+## Jasper T. Jowls- 'Dog Days of Summer'
+# **Intermission 5**
+## Kid Cudi - Stars In The Sky
+## Kidz Bop - Better Days
+# **Skit 5**
+## Chuck E. Cheese - 'Let's Be Friends'
+# **Intermission 6**
+## Safety Message
+## Kidz Bop - Uptown Funk
+# **Skit 6**
+## Chuck E. Cheese & Friends - 'Join The Party'
 
 ## Lives: ##
 

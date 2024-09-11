@@ -2,25 +2,23 @@
 title = "Tuscaloosa, AL (1375 McFarland Blvd)"
 draft = false
 tags = []
-date = 2023-10-08T05:02:05Z
+date = 2024-08-26T22:29:49Z
 
 [Article]
 contributors = ["ThatBoiCydalan","Cy's Junk at School"]
-gallery = ["Screenshot","Cec6.jpg|The"]
+gallery = ["Screenshot","Cec6.jpg|The","Tuscaloosa"]
 +++
 {{Stub}}{{Generic|image=tuscaloosa al cec before closure.png|desc=Exterior before being destroyed by a tornado}}
-**_Tuscaloosa, AL (1375 McFarland Blvd), Store #704**_ was a _Chuck E. Cheese's_ that opened in November 2003 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and closed on April 27th, 2011.
-
-This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd) (its replacement store), which opened on August 30th, 2015 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show.
+**_Tuscaloosa, AL (1375 McFarland Blvd), Store #704**_ was a _Chuck E. Cheese's_ that opened in November 2003 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd) (its replacement store), which opened on August 30th, 2015 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show.
 
 ##Stage##
 This store opened with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) stage with a Chuck E. Cheese 16m (Animatronic) (16-movement animatronic).
 
 ##History##
-This store opened in November 2003
+This store opened in November 2003.
 
 ###Tornado Damage###
-On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit the city of Tuscaloosa.
+On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit the city of Tuscaloosa. The entire exterior and parking lot were ripped apart. It is unknown what damage the interior sustained.
 
 ##Arcade Machines##
 
@@ -56,6 +54,7 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 <gallery>
 File:Screenshot 20230716 190907 Instagram.jpg|A shot of the store's arcade days before the store's opening
 File:Cec6.jpg|The store's animatronic
+File:Tuscaloosa AL CEC exterior tornado aftermath.jpg|The aftermath of the store's exterior from being struck by a tornado.
 </gallery>
 
 ##Animatronics##

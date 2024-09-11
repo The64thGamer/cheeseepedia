@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Northridge Summer Show 2024"
 draft = false
 tags = []
-date = 2024-07-20T03:45:20Z
+date = 2024-07-29T15:31:34Z
 
 [Article]
 contributors = ["Documentor","AstridMascotFan2005"]
@@ -56,5 +56,5 @@ gallery = []
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
-* Yuletide Slide (3-Stage Navori, CEC Stage Navori, Media Navori)
+* Yuletide Slide (Chuck E. Strut) (3-Stage Navori, CEC Stage Navori, Media Navori)
 * CEC Stage Diagnostic (CEC Stage Navori)

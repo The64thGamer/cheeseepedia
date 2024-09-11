@@ -2,12 +2,10 @@
 title = "CEC Rock It In Space"
 draft = false
 tags = []
-date = 2021-12-16T17:07:42Z
+date = 2022-07-17T03:24:29Z
 
 [Article]
 contributors = ["The 64th Gamer","DerekCat","Montfortdog"]
 gallery = []
 +++
-TODO:
-
-The last tape to use the 'CEC / SPP / CU' prefix.
+text/x-wiki

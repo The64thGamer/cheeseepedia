@@ -2,14 +2,14 @@
 title = "Rochester, MN (1250 16th St)"
 draft = false
 tags = []
-date = 2023-08-11T21:35:23Z
+date = 2024-01-21T21:07:52Z
 
 [Article]
 contributors = ["CorrectorMan","Cecfan2004","Cheeseclassic"]
 gallery = []
 +++
-[[File:Rochester in 2012.jpg|thumb|Rochester's exterior in 2012. (PC: Google Maps)]]
-**_1250 16th St**_ was a _Chuck E. Cheese's_ that opened on December 14, 2010 and closed in June 2020 (day unknown) with a Studio C 2000 (Studio C Beta, 16m).
+{{Generic|image=Rochester in 2012.jpg|desc=Rochester's exterior in 2012. (PC: Google Maps)}}
+**_1250 16th St**_ was a _Chuck E. Cheese's_ that opened on December 14th 2010 and closed in June 24th 2020 ,with a Studio C 2000 (Studio C Beta, 16m).
 
 ## Stage ##
 Rochester opened with a Studio C 2000 (Studio C Beta, 16m). However, there is barely any documentation, and the Beta was removed after the June 2020 closure.
@@ -27,7 +27,7 @@ Rochester opened with a Studio C 2000 (Studio C Beta, 16m). However, there is ba
 |}
 
 ## History ##
-Rochester opened on December 14, 2010 with a Studio C 2000 (Studio C Beta, 16m) and the 2010 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. This location was notable for keeping the Skytubes up until 2020. However, there isn't much documentation from Rochester other than videos from the YouTuber, 'Cheese E. Chuck'. The location would permanently close in June 2020 (day unknown) due to COVID-19 and the company was also about to go bankrupt. As of August 2023, the building remains vacant, with the avenger logo shape and the awnings still intact.
+Rochester opened on December 14th 2010 with a Studio C 2000 (Studio C Beta, 16m) and the 2010 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. This location was notable for keeping the Skytubes up until 2020. However, there isn't much documentation from Rochester other than videos from the YouTuber, 'Cheese E. Chuck'. The location would permanently close on June 24th 2020. Due to COVID-19 and the company was also about to go bankrupt. As of August 2023, the building remains vacant, with the avenger logo shape and the awnings still intact.
 
 ## Animatronics ##
 {| class='wikitable'

@@ -2,7 +2,7 @@
 title = "Holiday 2007"
 draft = false
 tags = []
-date = 2022-08-14T02:58:49Z
+date = 2022-10-20T17:03:48Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
@@ -40,7 +40,7 @@ gallery = []
 ##  [[File:New Graphic.png]] Clifford The Big Red Dog
 ## Chuck E.'s Ski Trip
 ##Holiday VJ Spot - Evan
-# [[File:New Graphic.png]] **Segment 3**
+# **Segment 3**
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
 # **Intermission 4**
@@ -65,6 +65,13 @@ gallery = []
 *Chuck E. March 2001
 *Chuck E. Says 2002
 *Chuck E. Shuffle
+
+##Showtape Scans / Images:##
+<gallery>
+Holiday07StdC.png|Studio C DVD
+Holiday073stg.jpg|3-Stage DVD
+</gallery>
+
 
 ## Trivia: ##
 *'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from Chuck E's Holiday Party 1999  ( Holiday Party).

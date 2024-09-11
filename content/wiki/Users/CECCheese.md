@@ -2,16 +2,10 @@
 title = "CECCheese"
 draft = false
 tags = ["User"]
-date = 2023-03-04T09:33:39Z
+date = 2023-03-04T09:36:54Z
 
 [Article]
 contributors = ["CECCheese"]
 gallery = []
 +++
-CECCheese on Youtube and Instagram. 
-
-Better known as 'Jackie' In the fan community.
-
-formerly known as 'chuckecheesekid' to long time fans.
-
-Jul Kamen
+wikitext

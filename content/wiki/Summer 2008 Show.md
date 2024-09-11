@@ -2,13 +2,70 @@
 title = "Summer 2008 Show"
 draft = false
 tags = []
-date = 2022-02-11T04:53:34Z
+date = 2024-07-30T13:10:20Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","AstridMascotFan2005"]
 gallery = []
 +++
+{{NonStandard}}
+
+Segment 1
+
+'Best Friend'
+
+'Summertime'
+
+Intermission 1
+
+ETV Spot (Excercise Spot #1)
+
+VeggieTales - Bellybutton
+
+Segment 2
+
+'Livin' Life'
+
+'In the Summertime'
+
+Intermission 2
+
+Bee movie Spot
+
+Go Paint promo
+
+Let's Ski (Blue screen interactive)
+
+ETV Spot (Excercise Spot #2)
+
+The Announcer
+
+Segment 3
+
+'Hot Sauce'
+
+'SPF'
+
+Intermission 3
+
+CEC Birthday promo
+
+Monkey Ninjas - Episode 4
+
+Segment 4
+
+'I Love the Sunshine'
+
+'Chuck E. Cheese'
+
+Intermission 4
+
+PBS Spot
+
+Shrek Spots
+
 ##Showtape Scans / Images:##
 <gallery>
+Sum08V1StdC.jpg|Studio C DVD (Version 1)
 image-445bfb4f-8650-4bf6-b2ba-40a3d41a5a741483429243058453463.jpg|Studio C DVD (Version 2)
 </gallery>

@@ -2,10 +2,10 @@
 title = "SongCode"
 draft = false
 tags = []
-date = 2021-11-29T20:57:44Z
+date = 2023-05-17T16:37:38Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu","CEC Tinley"]
 gallery = []
 +++
-[[File:Song Code hardware.png|thumb]]
+text/x-wiki

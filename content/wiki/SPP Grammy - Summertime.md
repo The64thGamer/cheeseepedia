@@ -2,7 +2,7 @@
 title = "SPP Grammy - Summertime"
 draft = false
 tags = []
-date = 2022-01-23T21:23:53Z
+date = 2022-01-23T21:30:38Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Showtape
 |image=Ddddde.jpg
-|date=April 1990
+|date=August 28, 1988
 |raesvhs=y|showbizreel=y}}
 
 **_SPP Grammy - Summertime**_ is a _Cyberstar_ showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.

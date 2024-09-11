@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 1 2020 (Covid Upate)"
 draft = false
 tags = []
-date = 2022-02-22T02:36:17Z
+date = 2022-02-22T02:50:28Z
 
 [Article]
 contributors = ["Documentor"]
@@ -17,9 +17,9 @@ gallery = []
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Show 1 2020 (Covid Update)**_ was released _on or near_ June 21, 2019.
+**_Show 1 2020 (Covid Update)**_ was released _on_ June 21, 2020.
 
-This was created to play from December 21, 2020 - June 23, 2020. This show features five songs and the first show to include the Covid Message. This show is currently lost and its not known was added at the end of the show (?) mean its not 100% proven if it was on the show. 
+This was created to play from December 21, 2020 - June 23, 2020. This show features five songs and the first show to include the Covid Message.  
 ##Show List:##
 
 # **Intermission 1**

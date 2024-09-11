@@ -2,15 +2,17 @@
 title = "SPT 1992 Remodel Program"
 draft = false
 tags = []
-date = 2023-03-18T22:53:24Z
+date = 2024-06-01T00:44:36Z
 
 [Article]
 contributors = ["Stripes","The 64th Gamer","BurgersNuggs445"]
-gallery = []
+gallery = ["Irving","Irving","Irving","Irving","Irving","Irving","Irving","Irving"]
 +++
-The **1990s Major Remodel** was a company-wide initiative driven by ShowBiz Pizza Time to refresh the Chuck E. Cheese’s brand and increase profits amongst its locations.
+{{Generic|image=Irving TX Remodel-005.jpg|desc=[Artifact Shelves]({{< ref "wiki/Artifact Shelves.md" >}}) and updated showroom booths with planters.}}
 
-This remodel initiative is commonly and incorrectly referred to as [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}), [Phase 2 (1997)]({{< ref "wiki/Phase 2 (1997).md" >}}), and [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}), which were instead game and entertainment packages. 
+The **_SPT 1992 Remodel Program**_ was a company-wide initiative driven by ShowBiz Pizza Time to refresh the Chuck E. Cheese’s brand and increase profits amongst its locations.
+
+This remodel initiative is commonly and incorrectly referred to as [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}), also known as _Operation Thumb Chuck_, [Phase 2 (1997)]({{< ref "wiki/Phase 2 (1997).md" >}}), and [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}), which were instead game and entertainment packages that came with a remodel if it was not already completed. <ref>https://www.showbizpizza.com/info/documents/cec/cec_annualreport2001.pdf</ref><ref>https://www.showbizpizza.com/info/documents/cec/cec_annualreport2002.pdf</ref> 
 
 ## History ##
 In their 1993 Annual Report, ShowBiz Pizza Time announced a growth in revenue but a slump in sales across existing restaurants as opposed to new locations. <ref name=':0'>https://www.showbizpizza.com/info/documents/spt/spt_93annual.pdf</ref>
@@ -20,9 +22,9 @@ At this time, the company finalized [Concept Unification]({{< ref "wiki/Concept 
 ShowBiz Pizza Time also introduced many upgrades to the guest experience separate from the remodel initiative, which includes Kid Check, Toddler Zone, and the “phased” packages. However, it should be noted that the introduction and updates of these fixtures were not tied to the remodel initiative, and instead were upgraded on their own or introduced through a new store opening.
 
 ## Enhancements ##
-The “CEC 1994 F.Y.I. Training Video” which was given to all locations provided insight on the upcoming changes within new and existing locations.<ref>https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv</ref>
+The “CEC 1994 F.Y.I. Video” which was given to all locations provided insight on the upcoming changes within new and existing locations.<ref>https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv</ref>
 
-According to the Director of Design, Doug Hailey, in an interview with Duncan Brannan:<blockquote>The best thing we’ve got going for us now is [that] we’ve moved to a real contemporary look… we’ve gotten a lot brighter, a lot lighter… we’re doing a lot of lighting effects in the store now, it’s a lot more [of] an exciting environment than it was before.</blockquote>According to the Director of Facilities, David Hurst, and an interview with Robert Gotcher:<blockquote>I’m really excited about the opportunities this year to update some of our older stores… it’s been a real challenge of the company to come back this year and invest our money wisely and try to get some growth out of our older stores that have been neglected somewhat over the last few years.</blockquote>
+According to the Director of Design, Doug Hailey, in an interview with Duncan Brannan:<blockquote>The best thing we’ve got going for us now is [that] we’ve moved to a real contemporary look… we’ve gotten a lot brighter, a lot lighter… we’re doing a lot of lighting effects in the store now, it’s a lot more [of] an exciting environment than it was before.</blockquote>According to the Director of Facilities, David Hurst, in an interview with Robert Gotcher:<blockquote>I’m really excited about the opportunities this year to update some of our older stores… it’s been a real challenge of the company to come back this year and invest our money wisely and try to get some growth out of our older stores that have been neglected somewhat over the last few years.</blockquote>
 
 ### **Exterior** ###
 Most locations that received the remodel dropped the “Chuck E. Cheese’s Pizza” logo for the updated “Thumb Chuck” logo, which said “Chuck E. Cheese’s” to align with current branding. Exterior checker patterns over windows were hidden by red awnings which had a yellow border. The lettering for “Chuck E. Cheese’s” was a red and yellow gradient, and the logo fixtures had a vibrant green trim.
@@ -30,7 +32,7 @@ Most locations that received the remodel dropped the “Chuck E. Cheese’s Pizz
 ### **Interior** ###
 Locations were fitted with subtle rainbow carpeting, theater lighting, and crown molding with indirect rainbow-colored lighting. Wooden signs were introduced within locations to denote areas and attractions, along with an updated décor package which were showcased by spotlights throughout the store.
 
-Wooden signs and décor used in the remodel can be found in :Category:CEC Art Packages, under the following sections:
+Wooden signs and décor used in the remodel can be found in :Category:CEC Art Packages (CEC Art Packages), under the following sections:
 
 * **1993-1996** Décor, Signage, Magazines (Graphic Décor predates the remodel initiative)
 * **1998** Graphic Décor, Signage
@@ -43,4 +45,18 @@ In the showroom, new booths and chairs were introduced, which were black with mu
 
 Lastly, the ordering counter, prize counter, beverage selection, and salad bar areas were enhanced to match the overall appearance with wooden signs replacing the previously used neon signs and interior awnings being removed from each section.
 
-## References ##
+## Gallery##
+The below images come from [Irving, TX (3903 W Airport Fwy)]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}).<ref name=':1'>https://www.instagram.com/p/CTTHrg8JmWk/</ref><ref>https://archive.org/details/irving-tx-remodel-001/</ref><gallery>
+File:Irving 2002.png|A picture of a prototype exterior sign.<ref name=':1' />
+File:Irving TX Remodel-001.jpg|Updated prize counter.
+File:Irving TX Remodel-002.jpg|Refreshed beverage selection.
+File:Irving TX Remodel-004.jpg|New parody posters: [1993 Cheese Z Top (CD Award)]({{< ref "wiki/1993 Cheese Z Top (CD Award).md" >}}), 1994 MC Chuckie (CD Award), 1994 It's A Dawg's Life (CD Award)
+File:Irving TX Remodel-012.jpg|Refreshed gameroom with [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}) elements, and indirect rainbow lighting with crown molding.
+File:Irving TX Remodel-013.jpg|Updated gameroom booths and carpeting.
+File:Irving TX Remodel-016.jpg|Updated gameroom with decor spotlights and indirect rainbow lighting.
+File:Irving TX Remodel-017.jpg|Skeeball area with wooden signs.
+</gallery>
+
+##References##
+
+<references />

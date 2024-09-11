@@ -2,36 +2,40 @@
 title = "Orange, CT (82 Boston Post Rd)"
 draft = false
 tags = []
-date = 2022-10-16T05:51:52Z
+date = 2024-04-27T23:15:22Z
 
 [Article]
 contributors = ["Rexburg090","RedaCEC","Cy's Junk at School","Harchambeault2026"]
-gallery = []
+gallery = ["OrangeCT_pre-expansion.jpg|The","OrangeCT_pre-expansion2.jpg|Ditto","OrangeCT_pre-expansion3.jpg|Ditto","OrangeCT_permit.jpg|The"]
 +++
-**_82 Boston Post Rd**_ is a Chuck E. Cheese's in Orange, Connecticut that opened June 16, 1992. 
+**_82 Boston Post Rd, Store #468**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_/_Chuck E. Cheese_ in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. 
 
 This location should not be confused with [Orange, CT (260 Bull Hill Lane)]({{< ref "wiki/Orange, CT (260 Bull Hill Lane).md" >}}) which was a Pizza Time Theatre location that opened in May 1983 and closed in 1985 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), this was one of the last Pizza Time Theatre locations in Connecticut alongside [New Britain, CT (222 E Main St)]({{< ref "wiki/New Britain, CT (222 E Main St).md" >}}).
 
 ## History ##
-Orange opened June 16, 1992 in the Edwards Plaza Shopping Center with the CEC 1988 Remodel (1988 Remodel). The location originally featured a 2-Stage. Unlike many of them at the time, this location had Jasper's banjo, much like Burlington & Worcester around 1-2 months later. This was the first location in New England to receive the 2-Stage. Orange would receive their first remodel in the Mid 1990's which involved removing the checkers around the store, Blue and White Awnings, and Neon Signage. They also replaced the Banjo with the Flying Cheese Guitar wound this time as well. Orange would then receive the CEC 2005 Remodel (2005 Remodel) in Summer 2006 which involved the removal of the 2-Stage, Balcony Seating, & 1990's Decor. This involves the installation of their Studio C Beta (One of two in New England that replaced an existing stage, the other being [Manchester, NH]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) which was a former Pizza Time Theatre, was also a 16m as well) with the Cool Chuck outfit. That involved swapping places with one of the gamerooms. In around the Late 2000's-Early 2010's, they removed the Dinner Lights, Sign above the Kid Check, & add bright florescent lighting. Chuck's Cool Chuck outfit was also replaced with the Avenger outfit around that time. On May 19, 2013, Orange became the last Studio C stage in Connecticut after the closure of [Meriden, CT (533 S Broad St)]({{< ref "wiki/Meriden, CT (533 S Broad St).md" >}}) due to leasing issues. Later in the year, Chuck's cap was removed. In around 2017-2019, Chuck's Avenger outfit was replaced with Rockstar. In 2020, the Skytubes were removed due to COVID-19. In October 2021, Orange started their 2.0 Remodel which involved a major expansion (Which involved relocating the showroom to the new area of the store. Also, according to a cast member, there were talks about expanding the store dating all the way back to 2015-2016). On March 23, 2022, the Studio C Beta was removed for a Dance Floor & Video Wall. Orange had their Grand Opening on May 8th, 2022, with the remodel being complete 3 days later.
+Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened with the 1991 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the 2-Stage itself. Unlike many of them at the time, this location had Jasper's banjo, much like Burlington & Worcester around 1-2 months later. This was the first location in New England to receive the 2-Stage. Orange would receive their first remodel in the Mid 1990's which involved removing the checkers around the store, Blue and White Awnings, and Neon Signage. They also replaced the Banjo with the Flying Cheese Guitar wound this time as well. Orange would then receive the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in August 2006 which involved the removal of the 2-Stage, Balcony Seating, Showroom Walls, & 1990's Decor. This involves the installation of their Studio C Beta (One of two in New England that replaced an existing stage, the other being [Manchester, NH]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) which was a former Pizza Time Theatre, was also a 16m as well) with the Cool Chuck outfit. That involved swapping places with one of the gamerooms (Which involved moving the Showroom to the front of the store and moving the Gameroom to where the old Showroom was). In around the Late 2000's-Early 2010's, they removed the Dinner Lights, Sign above the Kid Check, & add bright florescent lighting. Chuck's Cool Chuck outfit was also replaced with the Avenger outfit around that time. On May 19, 2013, Orange became the last Studio C stage in Connecticut after the closure of [Meriden, CT (533 S Broad St)]({{< ref "wiki/Meriden, CT (533 S Broad St).md" >}}) due to leasing issues. Later in the year, Chuck's cap was removed. In around 2017-2019, Chuck's Avenger outfit was replaced with Rockstar. In 2020, the Skytubes were removed due to COVID-19. In October 2021, Orange started their 2.0 Remodel which involved a major expansion (Which involved relocating the showroom to the new area of the store. Also, according to a cast member, there were talks about expanding the store dating all the way back to 2015-2016). On March 23, 2022, the Studio C Beta was removed for a Dance Floor & Video Wall. Orange had their Grand Reopening on May 8th, 2022, with the remodel being complete 3 days later. As of June 2023, Orange still has the 2.0 Remodel and the 2021 Model Dance Floor + Video Wall.
 
 ##Stages##
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
+!Notes
 |-
 |[2-Stage]({{< ref "wiki/2-Stage.md" >}})
 |June 1992
-|Summer 2006
+|August 2006
+|First 2-Stage to be installed in the New England Region, opened without Curtains which were added sometime later on. One of two 2-Stages installed in Connecticut.
 |-
 |[Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}})
-|Summer 2006
+|August 2006
 |March 2022
+|One of three Betas installed in Connecticut (One of two 16m installations). Last Studio C stage in Connecticut.
 |-
-|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
 |March 2022
-|Still in Use. 2021 Model.
+|Still in Use. 
+|2021 Model. Installed when the store expanded. 
 |}
 
 ## Animatronics ##
@@ -44,39 +48,50 @@ Orange opened June 16, 1992 in the Edwards Plaza Shopping Center with the CEC 19
 |Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1991-1992
 |Unknown
-|Destroyed
+|Destroyed.
 |-
 |[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 |2005-2006
 |N/A
-|Head currently at Manchester NH location.
+|Head sent to [Manchester, NH]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) location prior to remodel, currently unknown. Rest of bot destroyed.
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|2005-2006
+|N/A
+|Destroyed.
 |}
+
 ##Gallery##
-(WIP)
+<gallery>
+File:OrangeCT_pre-expansion.jpg|The space to the right of the location being gutted for the location's expansion during the 2.0 remodel
+File:OrangeCT_pre-expansion2.jpg|Ditto
+File:OrangeCT_pre-expansion3.jpg|Ditto
+File:OrangeCT_permit.jpg|The building permit for the expansion
+</gallery>
 ##Videos##
 (WIP)

@@ -2,13 +2,13 @@
 title = "Wolfman Showtape"
 draft = false
 tags = []
-date = 2023-03-24T17:20:00Z
+date = 2024-05-06T17:04:13Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Showtape|date=March 3, 1980|showbizreel=y|image=Wolfmanshowtapethumbnail.jpg|labelname=}}The **_Wolfman Showtape**_ is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side Wolfman show hosted in the Disco Room.<ref name=':0'>http://www.showbizpizza.com/rae/history/index.html</ref>
+{{Showtape|date=March 3, 1980|showbizreel=y|image=Wolfmanshowtapethumbnail.jpg|labelname=}}The **_Wolfman Showtape**_ is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side [Wolfman Show]({{< ref "wiki/Wolfman Show.md" >}}) hosted in the Electric Room.<ref name=':0'>http://www.showbizpizza.com/rae/history/index.html</ref>
 
 ##Segments##
 10 segments are confirmed for the tape, but no segment or song names have been cited.<ref name=':0' />

@@ -2,12 +2,13 @@
 title = "Choo Choo"
 draft = false
 tags = []
-date = 2024-05-23T18:11:59Z
+date = 2024-05-29T02:18:19Z
 
 [Article]
 contributors = ["CECMentor"]
 gallery = []
 +++
+[[File:Choo_Choo_2.jpg|thumb|Choo Choo's design.]]
 **_Choo Choo**_ is one of the prop characters in the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
 ## History ##

@@ -2,10 +2,10 @@
 title = "CEI Betamax"
 draft = false
 tags = []
-date = 2022-06-05T03:47:30Z
+date = 2024-08-20T13:03:57Z
 
 [Article]
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-TODO: Format used in Rock-afire Explosion shows at Showbiz Pizza Places for video diagnostics. Video would output to external monitor, and signals/audio would somehow bypass the tape deck and feed into the Grey Box. Only 3 tapes are known to have been in this format, the 1981 Diagnostics Tape, [Showbiz Pizza Calibration Video Tape]({{< ref "wiki/Showbiz Pizza Calibration Video Tape.md" >}}), and [Uncle Klunk Diagnostic Tape]({{< ref "wiki/Uncle Klunk Diagnostic Tape.md" >}})
+text/x-wiki

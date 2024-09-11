@@ -2,23 +2,48 @@
 title = "Middle of the Road"
 draft = false
 tags = []
-date = 2022-01-07T16:49:10Z
+date = 2023-08-07T03:38:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Middle","99278C21-BA79-4F05-AED2-F2F811041798.jpg|Creative"]
 +++
-{{Showtape | image = ORSI Show.png
-| date = 1980's
+{{Showtape
+|date=1984
 |showbizreel=y}}
 
-**_Middle of the Road**_ is a never before seen _Rock-afire Explosion_ showtape released sometime in or before 1987.
-
-The tape was most likely created for _Showbiz Pizza Place_, and not other Family Entertainment Centers, as evidence of a copy coming from a Showbiz has been seen.
-
-## Confirmation of Existence ##
-Three current copies of the tape are known to exist. The first two copies are in a private collector's hands, the third copy is in another collector's hands, but was taken from _Billy Bob's Wonder Land_ amongst its other Showbiz tapes. One was seen in the 1987 Creative Engineering promo brochure amongst other tapes.
+**_Middle of the Road**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1984.
+##Segment List##
+#**Segment 1**
+##Jump
+#**Segment 2**
+##I Want a New Drug
+#**Segment 3**
+##Safety Dance
+#**Segment 4**
+##No More Words
+#**Segment 5**
+##Beat It!
+#**Segment 6**
+##Footloose
+#**Segment 7**
+##Tomorrow
+#**Segment 8**
+##Guitarzan
+#**Segment 9**
+##Every Little Thing She Does is Magic
+#**Segment 10**
+##Heartbroke
+#**Segment 11**
+##You've Got a Lover
+#**Segment 12**
+##Highway 40 Blues
+#**Segment 13**
+##Islands in the Stream
+#**Segment 14**
+##Girls Just Wanna Have Fun
+## Showtape Scans / Images##
 <gallery>
-9b54bda7eaa550b129c4e7b137a5cf72.png|Seen in the 1987 CEI promo, third tape from the top.
-gameroom.png|The two privately owned copies
+File:Middle of Road Surplus.jpg|Reel Case Side
+File:99278C21-BA79-4F05-AED2-F2F811041798.jpg|Creative Engineering Documented Show List
 </gallery>

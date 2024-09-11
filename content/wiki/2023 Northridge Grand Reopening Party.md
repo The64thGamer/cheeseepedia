@@ -2,15 +2,17 @@
 title = "2023 Northridge Grand Reopening Party"
 draft = false
 tags = []
-date = 2023-11-12T19:35:48Z
+date = 2024-07-20T00:55:52Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++
+{{Generic|image=Northridge opening thumbnail.png|desc=Showroom During the Event.}}
+
 The **_Northridge Grand Reopening Party**_ was a reopening event on November 10, 2023 for [Northridge, CA (8425 Reseda Blvd)]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) after their CEC 2018 2.0 Remodel Program (CEC 2018 2.0 Remodel) and a celebration for the location now becoming the Munch's Make Believe Band Residency.
 
-The event started at 4pm PST with a press event featuring David McKillips and Nolan Bushnell. From 6pm PST to 8pm PST the store would be open to the public, where it would be at maximum capacity almost the entire event. Logan Carreiro, a special guest, would also be denoted 'Chief Entertainment Officer' at the event and given access to the press event with their family and friends. The Chuck E. Cheese Northridge Nights Show 2023 would also debut at the event.
+The event started at 4pm PST with a press event featuring David McKillips and Nolan Bushnell. From 6pm PST to 8pm PST the store would be open to the public, where it would be at maximum capacity almost the entire event. Logan Carreiro, a special guest, would also be denoted 'Chief Entertainment Officer' at the event and given access to the press event with their family and friends. The [Chuck E. Cheese Northridge Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Northridge Grand Re-Opening Show.md" >}}) would also debut at the event.
 
 ## History ##
 
@@ -41,7 +43,7 @@ During the press event only a couple news reporters were spotted filming and int
 
 Throughout the event the venue would be at maximum capacity. Many Chuck E. Cheese fans would attend bringing in classic merchandise and shirts. Two notable guests would dress up as Chuck in his coach outfit, and one as Jasper in his 90's design.
 
-The Chuck E. Cheese Northridge Nights Show 2023 (Northridge Nights Show) would play on loop for the entire event, alongside one live show being done. A balloon drop would happen during the live. The raffle would start later in the event with Logan picking winners out of a [Ticket Blaster]({{< ref "wiki/Ticket Blaster.md" >}}).
+The [Chuck E. Cheese Northridge Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Northridge Grand Re-Opening Show.md" >}}) would play on loop for the entire event, alongside one live show being done. A balloon drop would happen during the live. The raffle would start later in the event with Logan picking winners out of a [Ticket Blaster]({{< ref "wiki/Ticket Blaster.md" >}}).
 
 ### Stage Troubles ###
 Prior to the event around 3pm PST, technicians were attempting to play the Chuck E. Cheese Northridge Nights Show 2023 (Northridge Nights Show) and having issues with playing a live show. Very noticeably throughout the event Chuck's back head shell was coming off of its hinges, prompting a technician to briefly fix it while the curtains were still up.
@@ -109,3 +111,5 @@ The store had also incorrectly hooked up their microphone into the [Cyberamic Co
 |[https://www.youtube.com/watch?v=CPoF6SAA06o Link]
 |A video by logan of the public opening.
 |}
+
+## References ##

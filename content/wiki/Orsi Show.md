@@ -2,7 +2,7 @@
 title = "Orsi Show"
 draft = false
 tags = []
-date = 2021-11-30T16:28:54Z
+date = 2022-07-21T16:26:45Z
 
 [Article]
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
@@ -13,17 +13,23 @@ gallery = []
 | date = 1983
 |showbizreel=y}}
 
-**_Orsi Show**_ was a custom Italian [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}) showtape for the _[https://en.wikipedia.org/wiki/Italia_in_miniatura Italia in Minitura]_ leisure park.
+**_Orsi Show**_<ref>https://www.youtube.com/watch?v=KX9dh5nJ7cw</ref> was a custom Italian [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}) showtape for the _[https://en.wikipedia.org/wiki/Italia_in_miniatura Italia in Minitura]_ leisure park.
 
-The tape was produced a year into the show's debut at the park, which originally used the English showtape. This would last throughout the show's lifetime, which would end in late 1993.<ref>https://www.parksmania.it/2015/06/16/italia-in-miniatura-il-video-storico-1993-di-orsi-show/</ref>
+According to one article, the tape was produced a year into the show's debut at the park, which originally used the English showtape during its inception<ref>https://youtu.be/ELgAdgwj1_I</ref>. It's debatable as if the show was actually produced in 1983 or was fully utilized for the remainder of the Italia in Miniatura HLB's run as [https://youtu.be/6HJdxnX7a6Y?t=796 footage from 1991 revealed they still ran the original English show.] However, this tape would at least be played up until the show's removal in 1993.<ref>https://www.parksmania.it/2015/06/16/italia-in-miniatura-il-video-storico-1993-di-orsi-show/</ref> As of the present day, the original showtape is confirmed to be lost by the park's owner, making it unknown if a clean copy would ever resurface.<ref>[[:File:Orsi Show Confirmation.png|File:Orsi Show Confirmation.png]]</ref>
 
 ## Summary ##
-The characters in the tape make reference to their stay at the park, and begin to introduce themselves, each demonstrating their instrument.
+Mama Italia (Mama Granbags) silences her children as they cause commotion between each other, proceeding to introduce herself and welcoming guests to Italia in Miniatura. She would then introduce the other characters, who each have different backgrounds in origin (regions of Italy) and demonstrate their respective instruments. They then begin to play 7 well-known Italian classics before becoming united to sing in a chorus for a finale.
 
 ##Segments##
 #[[File:New Graphic.png]] Segment 1
-##Intro Skit
-##Unknown Song
+##Introduction
+##Vitti na'crozza (Repete/Salvatore)
+##O Sole Mio (Billy Wilbur/Gennariello)
+##Quel Mazzolin di Fiori (Pete/Bepi)
+##La società dei Magnaccioni (Billy Bill/Cesarino)
+##O mia bela Madunina (Billy Boy/Gino)
+##Romagna Mia (Billy Bob/Tognàz)
+##[https://youtu.be/ReI4RmaQnDA?t=59 Va pensiero, sull'ali dorate (Everyone)]
 
-## Citation ##
+## References ##
 *

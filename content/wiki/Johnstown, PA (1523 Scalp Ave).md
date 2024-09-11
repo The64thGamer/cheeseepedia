@@ -2,16 +2,16 @@
 title = "Johnstown, PA (1523 Scalp Ave)"
 draft = false
 tags = []
-date = 2023-09-25T01:36:45Z
+date = 2024-08-08T22:55:16Z
 
 [Article]
 contributors = ["RockAfire Alex","Cheeseclassic","CCSilver"]
 gallery = []
 +++
-The Showbiz Pizza Place in Johnstown Pa opened in 1982 with a Rock-Afire Explosion 3 Stage, little info is known about this location except for a few articles.
+**Johnstown, PA (1523 Scalp Ave)** was a Showbiz Pizza Place that opened in 1982 with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}), and closed in 1989. Little info is known about this location except for a few articles.
 
 ## History ##
-The Showbiz Pizza Place in Johnstown Pa opened in 1982 with a Rock-Afire Explosion 3 Stage. It had everything a normal Showbiz Pizza would have to offer. Games, Ball Pit. They did not receive the 1986 remodel wit the Camp Ground Stage. In 1989 the Showbiz Pizza caught fire and closed. They would open a new Chuck E Cheese later in 1993 with a 2 stage.
+Johnstown opened in 1982 with a Rock-Afire Explosion. It had everything a normal Showbiz Pizza would have to offer. They did not receive the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) with the Camp Ground Stage. In 1989, the location caught fire and closed. Consequently, the business would move down the road to the Bel Air Plaza and open **'Showplace Pizza**' in 1989.  Not much is known about [Showplace Pizza]({{< ref "wiki/Johnstown, PA (850 Scalp Ave).md" >}}), other than it kept the Rock-afire Explosion (Presumably from 1523 Scalp Ave) and was most likely created in refusal to undergo Concept Unification. Showplace Pizza would later close in 1994.
 
 ## Videos ##
 {| class='wikitable'

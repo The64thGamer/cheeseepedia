@@ -2,93 +2,122 @@
 title = "Montgomery, AL (2940 E South Blvd)"
 draft = false
 tags = []
-date = 2023-05-01T22:01:36Z
+date = 2024-01-19T21:22:05Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Midwestretail","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []
 +++
-**_2940 East South Blvd, Store #UNKNOWN**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese_ which opened on September 30, 1982 with a Rock-Afire Explosion, and closed in August 2013 with the 3-Stage.
+{{Generic|image=Montgomery.png|desc=Montgomery's exterior, March 2013. (PC: WSFA News)}}
+**_Montgomery, AL (2940 E South Blvd), Store #608**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese_ which opened on September 30, 1982 with a Rock-afire Explosion, and closed in August 2013 with the 3-Stage.
 
+##History##
+Montgomery opened its doors on September 30th, 1982 as the fourth Showbiz Pizza store in Alabama with the Rock-Afire Explosion show like every other Showbiz Pizza. It was originally a corporate-owned location. In 1988-1989, Montgomery received the 1988 remodel removing the older SPP decor, adding newer decor, received a new exterior change, and updated the Billy Bob stage. In 1991, Montgomery received a major remodel, adding checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor, and received Concept Unification removing the Rock-Afire Explosion for the 3-Stage. Montgomery received a minor remodel in the Mid/Late-90's removing older CU decor for the Record Posters, and removing the ball pits in favor of the SkyTubes and Toddler Zone. They would later remove the Showroom Walls and Balcony Seating. Montgomery would remain like this until August 2013 when they would relocate to the Montgomery, AL (1116 Eastdale Mall) (1116 Eastdale Mall) location which is about 16 minutes away from here and opened with a Circles of Light stage. After its closure, the location became abandoned until in 2016 or 2017 when it would become a Bombay Lounge. That didn't last long as it closed around 2021.
+
+Currently, as of March 2023, the location is now abandoned again. It is unknown if the building is going to be demolished.
 ##Stages##
-Originally, Montgomery featured a Rock-Afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage.
+Originally, Montgomery featured a Rock-afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage.
 
 Montgomery would have the 3-Stage until August 2013 when the stage would be removed due to the store relocating.
 {| class='wikitable'
 !Stage
 !Installed
-!Removed
+!Removed 
 !Notes
 |-
-|[https://cheeseepedia.org/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |September 1982
 |1991
 |4th Showbiz Pizza store to open in Alabama.
 |-
-|[https://cheeseepedia.org/wiki/Concept_Unification_Stage 3-Stage]
-|1991
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+| 1991 
 |August 2013
-|One of 7 Showbiz Pizza stores in Alabama to undergo Concept Unification.
+| One of 7 Showbiz Pizza stores in Alabama to undergo Concept Unification.
 |}
-##History##
-Montgomery opened its doors on September 30th, 1982 as the fourth Showbiz Pizza store in Alabama with the Rock-Afire Explosion show like every other Showbiz Pizza. It was originally a corporate-owned location. In 1988-1989, Montgomery received the 1988 remodel removing the older SPP decor, adding newer decor, received a new exterior change, and updated the Billy Bob stage. In 1991, Montgomery received a major remodel, adding checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor, and received Concept Unification removing the Rock-Afire Explosion for the 3-Stage. Montgomery received a minor remodel in the Mid/Late-90's removing older CU decor for the Record Posters, and removing the ball pits in favor of the SkyTubes and Toddler Zone. They would later remove the Showroom Walls and Balcony Seating. Montgomery would remain like this until August 2013 when they would relocate to the [https://cheeseepedia.org/wiki/Arlington_Heights,_IL_(41_W_Rand_Rd) 1116 East Eastdale Mall] location which is about 16 minutes away from here and opened with a Circles of Light stage. After its closure, the location became abandoned until in 2016 or 2017 when it would become a Bombay Lounge. That didn't last long as it closed around 2021.
-
-Currently, as of March 2023, the location is now abandoned again. It is unknown if the building is going to be demolished.
 ##Animatronics##
 {| class='wikitable'
 !Animatronics
 !Serial Number
 !Whereabouts
 |-
-|[https://cheeseepedia.org/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
-|?
+| [Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|1-82 1-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
-|?
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|1-82 2-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|?
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|1-82 3-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|?
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|1-82 4-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|?
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|1-82 5-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|?
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|1-82 6-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|?
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|1-82 7-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|?
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|1-82 8-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Sun_(Animatronic) Building / Sun]
-|?
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|1-82 10-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Moon_(Animatronic) Moon]
-|?
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|1-82 11-18
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Antioch_(Animatronic) Antioch]
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed.
 |}
 ##Gallery##
 (W.I.P)
 ##Videos##
-(W.I.P)
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/FNmGmXdKbmA&t=2066s Link]
+|Footage of the gameroom and [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). Includes _Chuck E. Shuffle 1994_ performance
+|February 8th, 1997
+|-
+|[https://youtu.be/_ExnAOse1dc Link]
+|Birthday Star 1992
+|August 15th, 1998
+|-
+|[https://youtu.be/6yADkAE0GDI Link]
+|Small clip of the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|August 15th, 1998
+|-
+|[https://www.flickr.com/photos/63946722@N03/5825867141/in/photostream/ Link]
+|Store Tour
+|January-April 2011
+|-
+|[https://www.flickr.com/photos/63946722@N03/5826417823/in/photostream/ Link]
+|Clip of Segment 2 of the [January 2011 Show]({{< ref "wiki/January 2011 Show.md" >}}) being performed on the store's stage.
+|January-April 2011
+|}
+
+## Trivia ##
+*Montgomery was one of seven ShowBiz locations in Alabama to be converted into Chuck E. Cheese. The other six are [Mobile]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}),  [Huntsville]({{< ref "wiki/Huntsville, AL (1220 Jordan Lane).md" >}}), [Birmingham]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}), [Birmingham (Roebuck)]({{< ref "wiki/Birmingham, AL (9325 Parkway East).md" >}}), [Dothan]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}}), & [Sheffield]({{< ref "wiki/Sheffield, AL (4700 Hatch Blvd).md" >}}). The other three ShowBiz locations Tuscaloosa, AL (1335 McFarland Blvd) (Tuscaloosa), Cullman, AL (210 2nd Ave) (Cullman), & [Midfield]({{< ref "wiki/Midfield, AL (34 Phillips Dr).md" >}}) closed in December 1985 (Tuscaloosa), & April 1986 (Cullman & Midfield) respectively as they were the only three not to make it to Concept Unification. Midfield's show however ended up undergoing Concept Unification when it was installed at the [Tallahassee]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) location..

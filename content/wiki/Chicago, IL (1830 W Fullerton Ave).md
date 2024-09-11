@@ -2,73 +2,187 @@
 title = "Chicago, IL (1830 W Fullerton Ave)"
 draft = false
 tags = []
-date = 2022-07-22T17:56:12Z
+date = 2024-06-09T19:36:07Z
 
 [Article]
 contributors = ["Chuck E. Cheese's Illinois","The 64th Gamer","ShowbizMidwest","CECBowlingGreen","Rexburg090","ChucksterCheapskates","ChuckECheezeMelrose20062","216.125.34.66","ThatBoiCydalan","2600:1700:3050:8220:58D8:FD12:5216:A60C","CEC Illinois","Tux Chuck","Cecanddisneyfan2004"]
-gallery = ["Chicago"]
+gallery = ["117075909","CEC","Chicago","Chicago","Chuckestare.jpg|Unknown","Chicago","117178710","133119924","331356604","Chicago","331372356","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago","Screenshot","Screenshot","Avenger","Chicago","Chicago","271922968","CEC","Chicago","Chicago","Chicago","Chuck-e-cheese-removes-animatronic-band-8f4f5ed4.jpg|Spring","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago"]
 +++
-**_Chicago, IL (1830 W Fullerton Ave)**_ is a _Chuck E. Cheese's location_ located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from _The Loop_ and being not far from _I-90/I-94_ this location could be considered a flagship. 
+**_For the South Side store see: [Chicago, IL (5030 S Kedzie Ave)]({{< ref "wiki/Chicago, IL (5030 S Kedzie Ave).md" >}})**_{{Generic|image=Chicago Fullerton 2.0 Exterior.jpg|desc=The Store's current exterior}}
+**_Chicago, IL (1830 W Fullerton Ave), Store #687**_ is a _Chuck E. Cheese's_ location located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from _The Loop_ and being not far from _I-90/I-94_ this location could be considered a flagship.  
 
-##**History**##
+##Stages##
+This store had a 1-Stage with side-to-side curtains. They also had the Helicopter Light, but the lights were burned out and it only spun towards the end of the stage's life. It has since been replaced by a 2021 Dance Floor.
+
+Upon it's removal, it was the last 1-Stage ever to feature side-to-side curtains, and the second to last 1-Stage to feature a Helicopter Light. It also was one of, if not the last 1-Stage to have the 'Tempo' Drum Cover for Pasqually.
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
+|September 1993 
+| August 23, 2022
+|One of 2 1-Stages installed in Illinois; was the last 1-Stage, and
+only ever traditional 1-Stage in Illinois.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
+|August 2022
+| Still In Use
+|2021 Model
+|}
+##History##
 Before Chuck E. Cheese's, it is rumored that a Toy Store used to occupy the building.
 
-This location opened back on September 26, 1993 with a 1-Stage show. The store layout and stage was identical to most stores being opened around that time. Despite being located near Downtown Chicago with the skyline in site, the store was really similar to all the other stores including size, because of this, it is not a flagship store.
+This location opened back on September 26, 1993 (Originally numbered 1730 W Fullerton Ave until 2003.) with a 1-Stage show and the SPT 1992/1993 Remodel Program (1992 Remodel.) The store layout and stage were identical to most stores opening around that time. Despite being located near Downtown Chicago with the skyline in site, thus this store was not given the flagship store treatment. Like others stores at the time they went through the same phase packages in the 90s and 2000s. The walkaround Chuck E. at this location also had various outfits from the Basketball outfit to the Red Shirt outfit.
 
-This store went under Phase 4 Remodel in 2009 and the TV behind munch was removed shortly after.
+In the 2000s, the store panted some of their walls green, the reason is unknown but other stores in the area also got the same treatment too. Chuck E's Tuxedo was replaced by the cool chuck outfit, and then received an Avenger Hat later on.
 
-In 2011, Pasqually received a Modern Mask.
+This store received the [2005 remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in 2008/09 and the store was expanded to the right. The TV behind Munch on the stage was removed shortly after alongside Helen's flower on her wrist.
 
-In 2014, the entire store was recarpeted. Chuck's mask from opening day was replaced with the one from the Streamwood, Illinois location.
+In 2011, Pasqually received a Modern Mask, Helen had her hair changed and Chuck E. recived his Avenger Outfit and had his Latex feet replaced. In 2014, the entire store was recarpeted. Chuck's mask was replaced with the one from the Streamwood, Illinois location. Around this time would also be when the games started to decline in matienance as they kept alot of the older games which were starting to age and haven't been switched out yet.
 
-In 2020 Just before the lockdown, Chuck's Mask was replaced again with the one from Skokie, Illinois; Helen and Jasper had their opening day masks replaced with the ones from Skokie. Munch had his lower Jaw replaced with the PTT one.
+In 2016, the Skytubes were removed, and more kiddie games were added to that area, and in June/July 2017 the store switched over to play pass while also getting a new game package. Around this time would also be when the show started to decline as it was more neglected than usual, several misshapes happened like when Chuck's body turn broke and was stuck facing backwards and had his pants down, Pasqually's Mustache falling off, Chuck's Left ear coming loose, and Chuck having his eye turned back. In Early 2018 the store got another new game package installed.
 
-##**Videos**##
+In 2020 just before the lockdown, Helen and Jasper’s masks and Chuck’s snout and jaw were replaced with the ones from Skokie, IL. Munch also had his lower Jaw replaced with a PTT one. The Showroom chairs were also replaced with green benches from Skokie. 
+
+In preparation of the stage's removal Munch's Cap was removed in July of 2022. In August of 2022, the store would receive the 2.0 remodel replacing the 1-Stage with a dance floor, ending its almost 29 Year run. However, parts of the animatronics like the heads and the valves were sent to the [Tinley Park, Illinois]({{< ref "wiki/Tinley Park, IL (16090 S Harlem Ave).md" >}}) and [Milwaukee (Chase), Wisconsin]({{< ref "wiki/Milwaukee, WI (2701 S Chase Ave).md" >}}) locations. As of April 2023, Chicago Fullerton is still open today.
+
+###Infamous Photo ###
+A photo of this location's stage that was originally taken by the Chicago Tribune made its way into mainstream media because of Chuck's Stare. It has been edited and has appeared in clickbait thumbnails, and MatPat's Chuck E. Cheese Food Theory.
+
+##Videos##
 {| class='wikitable'
 !Link
 !Description
-!Filming Date
+!Filming/Upload Date
+|-
+|[https://youtu.be/v-s2EZZ-oxE?si=SxT_QxOZf9zs7gRl link]
+|Earliest known footage of the store playing September 1994 and [B-day 92]({{< ref "wiki/Birthday Star '92.md" >}})
+|Late 1994
 |-
 |[https://www.youtube.com/watch?v=PnSVQHC05c4 link]
 |Show Footage: Birthday Star Extravaganza 2008
 |May 2009
 |-
 |[https://www.youtube.com/watch?v=Ta65luXSFvE link]
-|Show Footage: April 2009
+|Short clip of the end of [April 2009 Segment 4]({{< ref "wiki/April 2009 Show.md" >}})
 |June 18, 2009
 |-
-|[https://www.youtube.com/watch?v=EoOSZVkspMM link]
+|[https://www.youtube.com/watch?v=kP31Pwm9ZbY&t=0s link]
+|Show Footage: Birthday Star 2009
+|January 18, 2011
+|-
+|[https://www.youtube.com/watch?v=EoOSZVkspMM link] 
 |Short clip of the show
 |February 2012
+|-
+|[https://www.instagram.com/p/xvA_DAuqSC/?igshid=MzRlODBiNWFlZA%3D%3D link]
+|Short clip of Dancin' Kitten
+|January 11, 2015
+|-
+|[https://www.instagram.com/p/BRyJKUXDuPf/?igshid=MTc4MmM1YmI2Ng## link]
+|Short clip of Fun for All
+|March 18, 2017
+|-
+|[https://www.youtube.com/watch?v=JONp3NxlZC8 link]
+|never before seen video of Chuck E. Cheese Chicago 1-Stage during the 2.0 remodel behind the stage
+|Filmed: 8\21\22 uploaded:10\26\23
 |}
 
 ##**Gallery**##
 <gallery>
-File:Chicago 1-Stage 2007.jpg|The 1-Stage in 2007
+File:117075909 1126293714409702 3715218217858364573 n.jpg|Earliest known photo of the stage from the 90's
+File:CEC North Chicago front counter.png|The front counter, Salad, and Beverage bar in the 90s.
+File:Chicago Fullerton Phase 3 exterior.jpg|December 2007
+File:Chicago 1-Stage 2007.jpg|December 2007
+File:Chuckestare.jpg|Unknown Year
+File:Chicago Fullerton 2000's.jpg|Unknown Year
+File:117178710 191988299017148 6593618876619240222 n.jpg|Unknown Year
+File:133119924 1274132079635648 1450658418958894907 n.jpg|Unknown Year
+File:331356604 5918595361557774 3134248388026757556 n.webp.jpg|Unknown Year
+File:Chicago Fullerton Birthday party.jpg|Alternate shot, Unknown Year
+File:331372356 864658477942530 7655852735072622840 n.webp.jpg|Unknown Year
+File:Chicago Fullerton showroom front.jpg|Back of showroom without showroom walls, Unknown Year
+File:Chicago fullerton showroom northwest.jpg|Unknown Year
+File:Chicago Fullerton showroom northeast.jpg|Unknown Year
+File:Chicago Fullerton Phase 3 photo ride 2000's.jpg|Unknown Year; Note: Green walls instead of Purple walls
+File:Chicago fulleton chuck e close up 2000's.jpg|Unknown Year
+File:Chicago Fullerton chuck e and helen.jpg|Unknown Year
+File:Screenshot 20200222-095103.png|Unknown Year
+File:Screenshot 20200527-150323.png|Chuck E. in the Gameroom Unknown Year
+File:Avenger at Fullerton.png|Beverage bar area; January 6th, 2008
+File:Chicago Fullerton bots.jpg|Unknown Year
+File:Chicago Fullerton Phase 4 Exterior.jpg|Chicago Fullerton 2005 Remodel in 2017 Note: The sides of the window were repainted black.
+File:271922968 343763477565668 2760914894926621969 n.webp.jpg|Unknown Year, post 2005 Remodel
+File:CEC North Chicago east side 2011.jpg|Chuck E. Costume cira 2011
+File:Chicago stage middle.jpg|Helen, Munch, and Jasper cira December 2012
+File:Chicago 1-Stage 2013.jpg|2013
+File:Chicago 1-Stage Late 2014.jpg|December 2014
+File:Chuck-e-cheese-removes-animatronic-band-8f4f5ed4.jpg|Spring 2017
+File:Chicago 1-Stage during lockdown.jpg|2020, with new masks, TV's, and showroom benches
+File:Chicago 1-Stage Summer 2021.jpg|Summer 2021 decorations
+File:Chicago 1-Stage Summer 2023.jpg|June 2022
+File:Chicago Fullerton Game Area.jpg|Gameroom October 2022
+File:Chicago Fullerton Birthday Area.jpg|Birthday Area October 2022
+File:Chicago Fullerton Birthday Area wideshot.jpg|Wideshot of Birthday Area
+File:Chicago Fullerton Mural.jpg|The Mural in the Birthday area October 2022
 </gallery>
 ##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial
-!Whereabouts
+!Whereabouts 
+!Notes 
 |-
 |Chuck E Cheese (Cyberamic)
+|1304 
+|Destroyed. Entire head and valves sent to [Tinley Park]({{< ref "wiki/Tinley Park, IL (16090 S Harlem Ave).md" >}}).
 |
-|Currently in use.
 |-
-|Guest Star / Helen Henny (Cyberamic)
+|Helen Henny (Cyberamic)
+|Unknown 
+|Destroyed. Entire head sent to [Milwaukee]({{< ref "wiki/Milwaukee, WI (2701 S Chase Ave).md" >}}). Valves sent to Tinley Park.
 |
-|Currently in use.
 |-
 |Mr. Munch (Cyberamic)
+|Unknown
+|Destroyed.
 |
-|Currently in use.
-|-
-|Pasqually (Cyberamic)
-|
-|Currently in use.
 |-
 |Jasper T. Jowls (Cyberamic)
+|1326 
+|Destroyed. Entire head sent to Milwaukee. Shirt, jeans, and shoes sent to Tinley Park.
 |
-|Currently in use.
+|-
+|Pasqually (Cyberamic)
+|Unknown 
+|Destroyed. Entire head sent to Tinley Park.
+|
+|}
+
+## Walkarounds ##
+**Note: This is a W.I.P as not alot of info has surfaced on the specific costume heads, outfits, etc. Thus some of these are speculation unless shown above in photos/videos.**
+{| class='wikitable'
+!Head
+!Outfits & Suits
+!Accessories
+!Whereabouts
+|-
+|Chuck 1993(Costume Head)
+|[Chuck Tux 1 93 (Costume Outfit)]({{< ref "wiki/Chuck Tux 1 93 (Costume Outfit).md" >}}),
+Chuck Basketball/Sports Attire (Costume Outfit), Chuck Long Fur (Costume Suit)
+|Chuck Long Fur Loose Legs (Costume Accessory), [Chuck Long Fur Arms (Costume Accessory)]({{< ref "wiki/Chuck Long Fur Arms (Costume Accessory).md" >}})
+|Unknown
+|-
+|[Chuck 2005 (Costume Head)]({{< ref "wiki/Chuck 2005 (Costume Head).md" >}})
+|[Chuck Avenger 1 Attire (Costume Outfit)]({{< ref "wiki/Chuck Avenger Attire (Costume Outfit).md" >}}), Chuck 01 Attire (Costume Outfit), Red Shirt (Costume Outfit)
+|Avenger Cap (Costume Accessory), Walkaround Shoes (Costume Accessory)
+|Unknown
+|-
+|[Chuck 2014 (Costume Head)]({{< ref "wiki/Chuck 2014 (Costume Head).md" >}})
+|Chuck Rockstar 1 Atire (Costume Outfit)
+|Rockstar shoes (Costume Accessory)
+|In-Store
 |}

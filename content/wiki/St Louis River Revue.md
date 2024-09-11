@@ -2,18 +2,10 @@
 title = "St. Louis River Revue"
 draft = false
 tags = []
-date = 2024-04-16T19:06:08Z
+date = 2024-04-18T20:05:56Z
 
 [Article]
 contributors = ["Lelmaster"]
-gallery = ["St"]
+gallery = []
 +++
-{{Stub}}{{NonStandard}}
-
-## Gallery ##
-<gallery>
-File:St Louis River Revue Birdland Theatre SS Admiral Map.jpg|Map of the S.S. Admiral with Birdland Theatre on the top floor
-</gallery>
-
-## References ##
-https://www.newspapers.com/article/st-louis-post-dispatch-st-louis-river-r/145485755/
+wikitext

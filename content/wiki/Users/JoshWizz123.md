@@ -2,7 +2,7 @@
 title = "JoshWizz123"
 draft = false
 tags = ["User"]
-date = 2023-04-21T02:06:19Z
+date = 2023-04-21T02:56:13Z
 
 [Article]
 contributors = ["JoshWizz123"]
@@ -19,7 +19,7 @@ I'm currently in the process of finding as much info on the Richmond (Midlothian
 
 Locations I've visited
 
-Richmond (Midlothian) (2001-2011, 2013, 2015-2019)
+Richmond (Midlothian) (2001-2011, 2013, 2015-2019, 2022)
 
 Richmond (W. Broad St.) (2007-2008, 2011, 2013, 2018-2019)
 

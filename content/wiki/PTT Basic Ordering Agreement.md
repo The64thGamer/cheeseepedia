@@ -2,15 +2,18 @@
 title = "PTT Basic Ordering Agreement"
 draft = false
 tags = []
-date = 2024-05-20T19:37:14Z
+date = 2024-05-20T21:21:29Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = ["92995930","93465182","93344970","92485345","93479717","93570455","93295663","97558821","93335070"]
 +++
-The **_Pizza Time Theatre Early Documents Folder**_ is a partially lost group of early [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), likely dating between 1976-1977.
+The **_Pizza Time Theatre Basic Ordering Agreement**_ is a partially lost group of early [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), likely dating between 1976-1977.
 
 The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.<ref>[[:File:Amazingcitationofgenelandrumdocuments.png]]</ref>
+
+### Ordering ###
+Notably, all the pages seem to be put together by date. Page 3, while not denoting a specific date, does not give the cat character a name, which was later named sometime by the [The Big Cheese Birthday Show Dialogue Recording Session]({{< ref "wiki/The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976).md" >}}) in October. The only outlier is Page 35, which details the costs of assembling animation hardware for the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) location- though it being of financials may have it as part of a separate financial section of the documents.
 
 ## Gallery ##
 <gallery>

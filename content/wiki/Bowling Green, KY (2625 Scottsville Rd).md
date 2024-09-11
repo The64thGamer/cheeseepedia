@@ -2,12 +2,88 @@
 title = "Bowling Green, KY (2625 Scottsville Rd)"
 draft = false
 tags = []
-date = 2022-08-29T17:42:06Z
+date = 2023-12-08T22:47:33Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","170.185.215.34","CECKentucky","ChuckEPediaIsTheBest!","CECFan2023","SuperCreamPiper2008"]
 gallery = []
 +++
-**2625 Scottsville Rd** was a _Chuck E. Cheese's_ that opened on April 27, 2004 with a Studio C Cappa, which is still open to this day
+[[File:CECBowlingGreenSeptember2022.jpg|thumb|Bowling Green's exterior after their 2.0 Remodel. Taken September 23, 2022. Picture Credit to User:CECBowlingGreen (CECBowlingGreen)]]
 
-This location received the 2.0 remodel in June of 2022, and as of early-mid July, the stage was gone.
+**2625 Scottsville Rd** was a _[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})_ that opened on April 27, 2004 with a Small-Town Studio C, which is still open to this day.
+
+This location received the 2.0 Remodel in June / July 2022. As of February 2023, they are the latest to open and youngest store in Kentucky, being 4 years younger than the second youngest store, [Louisville (2030 S Hurstbourne Pkwy)]({{< ref "wiki/Louisville, KY (2030 S Hurstbourne Pkwy).md" >}}), which opened in January 2000.
+
+## History ##
+On April 27th, 2004, 20 years and 10 days after the PTT in Bowling Green opened, a brand new CEC in Bowling Green opened, this time located at **2625 Scottsville Road** (same street, but technically moved across the street.), as apart of the Greenwood Mall, located right next to the JCPenney. Originally when the store opened, they had the 'Phase 3' Remodel (2004 stores are somewhat like a mix with some 1993 or earlier artwork, and the 1999 posters.) and a Small-Town Studio C, which was the only one installed in Kentucky (Louisville opened in January 2000 with a Studio C, and Lexington received a Studio C 2000, 16M in 2007, though Lexington is now 2.0.). They would have the Skytubes from opening until around late 2015, when they would remove them. The store would stay mostly the same until June of 2022, when they would start the 2.0 Remodel.
+
+### Chuck E. Cheese (2.0) June 2022 - Present ###
+Sometime in June of 2022, the Chuck E. Cheese's in Bowling Green started their 2.0 Remodel, with many changes taking place, including: new white walls with gray stripes, new silhouette character posters and other artwork, TV's around the gameroom, green paint with gray detailing on exterior and new logo, as well as the same on walls inside of the Greenwood Mall, a new white 'Chuck E. Cheese' wordmark, a Dance Floor, removal of the animatronic stage, a Video Wall to go where the stage was, new booths, tables, chairs, and benches, a new red 'awning' on the exterior (where the old red / yellow awning was), circles next to the green on the exterior, tiles on the menu wall, wood flooring by the counters, and relocation of the Ticket Blaster from the area next to the stage to the area by the window on the back wall. As of April 2023, they still have this remodel.
+
+### Other Events ###
+In 2016, a police officer was denied service at the location for carrying their firearm. The officer was wearing a police marked polo shirt. It is believed an employee misunderstood the policy.<ref>https://www.police1.com/family/articles/ky-officer-turned-away-from-chuck-e-cheeses-for-carrying-firearm-hhQ235QFIxkhzHJz/</ref>
+
+## Stages ##
+When the Bowling Green location opened, they had a Small-Town Studio C (18th store opened with one.) with a Chuck E. Cheese 16m (Animatronic) (16M Chuck E. Cheese) animatronic created by Garner Holt Productions, Inc. Originally, the Chuck E. bot wore the 'Cool Chuck' outfit (Red hat with black 'C' on it, blue shirt with yellow 'C' and yellow stripes on it, and tan khaki shorts.), but in the late 2000's / early 2010's, would replace the Cool Chuck shirt with the Avenger shirt, remove the hat, and in 2016 or 2017, would receive the Rockstar outfit (though they would periodically switch between the Avenger shirt and Rockstar shirt until the stage's removal). In early July 2022, the Studio C Cappa would be removed (a TikTok from July 4, 2022 showed the Chuck E. bot gone, but the stage intact.) and replaced with a Chuck E. Live Stage and Video Wall. As of April 2023, they still have the Chuck E. Live Stage and Video Wall.
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|Small-Town Studio C
+|April 2004
+|July 2022
+|18th store opened with Small-Town Studio C. Only Cappa in Kentucky. Second last animatronic stage in Kentucky.
+|-
+|Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) + Video Wall
+|July 2022
+|Still in Use
+|2021 Model 
+|}
+
+## Animatronics ##
+{| class='wikitable'
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16M (Studio C))
+|N/A
+|Destroyed
+|}
+
+## Gallery ##
+<gallery widths='200' heights='200'>
+File:BGDanceFloor.jpg|Bowling Green's Dance Floor on April 6, 2023. Picture Credit to User:CECBowlingGreen (CECBowlingGreen)
+</gallery>
+
+## YouTube Videos ##
+NOTE: TODO
+{| class='wikitable'
+!Video Link
+!Video Title
+!Date Filmed (If Possible)
+!Date Published To YouTube
+!Original Poster
+|-
+|https://youtu.be/Sk3_wpIDC4I
+|I Dare You Not To Laugh • Chuck E. Cheese’s Bowling Green, KY Show 3 2021
+|N/A
+|August 20, 2021
+|Chatty Chuck E!
+|-
+|
+|
+|
+|
+|
+|-
+|
+|
+|
+|
+|
+|}
+
+## References ##

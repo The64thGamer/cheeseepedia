@@ -2,7 +2,7 @@
 title = "CEC Future"
 draft = false
 tags = []
-date = 2022-07-15T19:10:35Z
+date = 2023-03-30T23:35:46Z
 
 [Article]
 contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Documentor"]
@@ -10,7 +10,7 @@ gallery = []
 +++
 {{Showtape|image=Future.png|date=March 14, 1991|r12=y|c&r=y|cusvhs=y}}
 
-**Future** is a showtape that played during March to April 1991 at Chuck E Cheese's.
+**Future** is a showtape that played during March 14 - May 6 1991 at Chuck E Cheese's.
 
 ## Theme ##
 The showtape's theme is about the world of tomorrow, from the newest technology, careers, and music in the future.
@@ -82,13 +82,10 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ##Guessing Game
 ##See You Soon My Friend
 
-## Triva: ##
-The intermission music is the same as [https://decodedocdigitize.miraheze.org/wiki/SPP_Best_Of_3_/_Wave_Bday SPP Best Of 3 / Wave Bday] (except for the last two intermissions)
+## Trivia: ##
 
-This showtape introduced a brand new Chuck E Cheese puppet while the rest of the cast got reworked to be more polished compare to the [https://decodedocdigitize.miraheze.org/wiki/CEC_Jan_%2791 previous showtape] of the same year.
-
-In Guessing Game at the beginning it features a futuristic building named ShowBiz with a space ship passing by, this is the last time CEC uses the name in the shows moving forward.
-
-There's a hidden behind the scenes video of the production of Future called 'The Making of March 1991', it included footage of the voice actors, kid auditions, and the Dallas Symphony that was recording the CEC-TV Intro music.
-
-Concept Unification Premiere Demo plays at the very end of the tape.
+* The intermission music is the same as [https://decodedocdigitize.miraheze.org/wiki/SPP_Best_Of_3_/_Wave_Bday SPP Best Of 3 / Wave Bday] (except for the last two intermissions)
+* This showtape introduced a brand new Chuck E Cheese puppet while the rest of the cast got reworked to be more polished compare to the [https://decodedocdigitize.miraheze.org/wiki/CEC_Jan_%2791 previous showtape] of the same year.
+* In Guessing Game at the beginning it features a futuristic building named ShowBiz with a space ship passing by, this is the last time CEC uses the name in the shows moving forward.
+* There's a hidden behind the scenes video of the production of Future called 'The Making of March 1991', it included footage of the voice actors, kid auditions, and the Dallas Symphony that was recording the CEC-TV Intro music.
+* Concept Unification Premiere Demo plays at the very end of the tape.

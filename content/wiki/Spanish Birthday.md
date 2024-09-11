@@ -2,7 +2,7 @@
 title = "Spanish Birthday"
 draft = false
 tags = []
-date = 2022-07-21T21:38:11Z
+date = 2022-07-21T21:40:06Z
 
 [Article]
 contributors = ["Ceclife13"]
@@ -41,3 +41,5 @@ The show begins with the cast singing and Madame Oink asking Chuck E. who's birt
 |Studio C
 
 |}
+##Live Show Trivia:##
+*Due to this show being reused from a PTT showtape, Madame Oink is featured instead of Helen Henny.

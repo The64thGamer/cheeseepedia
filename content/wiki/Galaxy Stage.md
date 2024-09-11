@@ -2,35 +2,18 @@
 title = "Galaxy Stage"
 draft = false
 tags = []
-date = 2022-09-15T12:43:05Z
+date = 2023-11-22T18:27:10Z
 
 [Article]
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","216.125.34.66","Documentor","Ceclife13","Chuckstar69"]
 gallery = []
 +++
-The **Galaxy Stage** is a stage format found at the Chuck E. Cheese's location in West Melbourne, Florida, it was installed when the location opened in April 2011. It features a Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m Animatronic). It is the predecessor to the Circles Of Light stage, which debuted in August 2012.
+{{Stub}}{{Generic|desc=Galaxy Stage in 2011.|image=Galaxy Stage.png}}
+
+The **_Galaxy Stage**_ was a test stage found at the Chuck E. Cheese's location in [West Melbourne, Florida]({{< ref "wiki/West Melbourne, FL (2250 Coastal Lane).md" >}}) which was installed when the location opened in April 26, 2011 and removed for a 2.0 dance floor on April 9, 2023. It featured a Chuck E. Cheese 16m (Animatronic) (Chuck E. Cheese 16m Animatronic). It is the predecessor to the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage and the first stage to run on Studio C HD.
 
 ## History ##
 TODO: History
 
 ## Design ##
-The stage design is designed to look like a galaxy, with futuristic buildings and spaceships all around, the Chuck E. animatronic stands on a platform with lights on it, there is a small design on the carpet directly in front of the stage, and there is a banner on the ceiling. the large TV in the frame was replaced with a smaller TV in the 2010's
-
-## Current Galaxy Stages ##
-{| class='wikitable'
-|+
-!Location
-!Address
-!Installed
-!Condition / Notes
-|-
-|West Melbourne, Florida, United States
-|2250 Coast Lane
-|April 2011
-|Only Galaxy Stage. 16M animatronic. Rockstar jeans and Avenger shirt.
-|}
-
-## Trivia ##
-
-* The Galaxy Stage is the first stage to run on Studio C HD, with the others being the Circles Of Light, and the Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage).
-* The Galaxy Stage is a test stage, meaning it is to test a design or concept, the Galaxy Stage was evolved into the Circles Of Light stage, having a similar design, but replacing the galaxy design with just circles that light up.
+The backdrop features many futuristic buildings as well as a rocket and a moon. In the center was a large TV in a green frame with four holes on each side, and a button underneath that when pressed would switch the footage shown on it from the showtape to that of a camera above the showroom area. By 2013, the button and camera  were removed and the TV would be replaced with a smaller one while retaining the original frame. On the right side of the stage was Chuck E.'s platform which had one light strip at the top and four at the bottom, as well as windows and purple supports. Behind Chuck E. were four buildings, each with lights. The left side of the stage featured the ticket blaster with a unique green rocket top and a 'Ticket Blaster' sign. Around the stage was carpet which featured green and purple stars and above was a purple banner with green text saying 'Where A Kid Can Be A Kid'.

@@ -2,7 +2,7 @@
 title = "Pastel Stage"
 draft = false
 tags = []
-date = 2022-01-11T02:07:33Z
+date = 2022-01-12T18:09:09Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -10,6 +10,8 @@ gallery = []
 +++
 [[File:SPFPASTEL1.jpg|thumb|386x386px|The main stage.]]
 The **_Pastel Stage**_ is a custom stage for the _Rock-afire Explosion_ seen at an unknown _Showbiz Pizza Fiesta_ location.
+
+It is presumed to have been in one of the two Guadalajara stores, namely the one that is known to have had a The King / King Kat (Cabaret) (King) animatronic, as the King's guitar is seen used on _Billy Bob._
 
 ## Design ##
 The stage features bright pastel colors, with a lot of the standard stage props being repainted to be brighter. Dook and Beach Bear's wood platforms are painted bright blue, while Choo Choo's stump is painted pink. Fatz's organ is painted bright blue, pink, and purple, while keeping the standard organ front in-tact. Dook's drum front is painted with bizarre bright shapes, with a pink rim on the inside of the drum itself. 
@@ -27,6 +29,9 @@ The Mitzi seen wears a black sweater instead of the usual white, with no dickie 
 
 ### Billy Bob ###
 The only change to Billy Bob is that of his guitar, which has been replaced with The King / King Kat (Cabaret) (The King's).
+
+### Dook ###
+Dook is given white gloves, alongside not having his latex belt on.
 
 ## Gallery ##
 <gallery>

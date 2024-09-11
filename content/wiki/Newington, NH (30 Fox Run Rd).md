@@ -2,43 +2,45 @@
 title = "Newington, NH (30 Fox Run Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-03-21T15:38:07Z
+date = 2024-05-26T02:37:42Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","CECCheese","2601:188:CA81:2BE0:D0B6:F932:6925:FFC3","47.17.236.200","CorrectorMan","Cheeseclassic","Tux Chuck","Harchambeault2026"]
-gallery = []
+gallery = ["Exterior,","Newington","Newington's","Pizza","Newington","Newington"]
 +++
-**_30 Fox Run Rd**_ was a _Pizza Time Theatre_ that opened in August 1983 (day unknown) as a franchise location with a Balcony Stage and closed in March 31st, 2018 with a 2-Stage.
-
-It was the second and last Chuck E. Cheese to open in New Hampshire.
-
-After this location closed, the [Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) location would be the only one left in the state which opened in August 1982 with a Balcony Stage and is still open to this day.
+{{Generic|desc=Exterior, 2018.|image=NewingtonNHCECExteriorPreClosure.jpeg}}
+**_Newington, NH (30 Fox Run Rd), Store #471**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre_ that opened in August 1983 and closed on March 31st, 2018.
 ##History##
-Newington opened in August 1983 as a franchise-owned location. It opened with the Balcony Stage and the Lounge room. Newington was then bought by the corporate on February 2nd, 1987 along with [Manchester]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) and [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}). Newington later received with the 1988 Remodel in 1989-1990 which included the removal of PTT decor for CU decor, received the Blue and White awnings above the salad bar, the checkers around and outside the store, and the C-Stage replacing the Balcony Stage. Newington's exterior was not changed. Around the early 1990's, they replaced older decor for newer decor, received the Blue and White awnings, checkers around the store, and the removal of the C-Stage for the 2-Stage. In the late 90's Newington received Phase 2 removing older decor for newer decor, removed the Blue and White awnings, and added SkyTubes. Newington remained like this until 2006, when they would receive the 2005 remodel trashing older decor for newer decor, removed all checkers around the store, removed Showroom Walls, Balcony Seating, relocated the stage, and finally changing the exterior after it remained the same after 23 years (although the yellow-red awning when it first opened was removed and had the checkers outside only for it to be replaced by the red-yellow awning). Newington remained like this until their closure on March 31st, 2018. They closed probably due to a lease disagreement. After closure, the store was gutted and remained abandoned for a few months until a furniture store called 'Bernie and Phyl's Furniture' moved into the space. Currently, as of March 2023, Bernie and Phyl's Furniture is still there.
+Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location. It opened with the Balcony Stage and Dolli Dimples in the Lounge room. 
+
+Sometime in the mid 1980's, Newington would replace Dolli with the Beach Bowzers. Around the same time, Newington was bought by the corporate on February 2nd, 1987, along with [Manchester]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) and [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
+
+Newington later received the 1988 Remodel in 1989. Converting the Balcony Stage into the C-Stage in the process. They also ended up swapping cabaret shows with Danvers, as Danvers would receive the Newington Bowzers, and Newington would receive the Danvers King. They would also keep the PTT Lettering on the exterior with this remodel, which ended up being retained all the way up to the 2005 Remodel.
+
+Around Fall 1996, Newington would receive the 1993 Remodel. Converting the C-Stage into a 2-Stage. The King was removed from the Lounge Room, allegedly making Newington one of the last surviving Kings in a store. The Lounge Room would remain however, as well as The Kings stage (albeit with The Video Velociter in his place). They also put a separate 2-Stage fiber optic sign in the room, making Newington one of the only 1993 Remodels to still utilize the former Lounge Room area in this manner. Skytubes were also added.
+
+In November 2005, Newington would receive the 2005 Remodel. The 2-Stage would remain, and the Skytubes would be downsized and relocated to the back of the store, The Toddler Zone would be placed in the former Lounge Room area, and the Balcony and Showroom walls would be demolished. Around Summer 2008, the 2-Stage would go through a huge cosmetic overhaul. Every character would receive a new mask (except for Jasper), and Chuck E's Tuxedo would be replaced by the Cool Chuck outfit.
+
+In January 2018, it was announced that Planet Fitness, which previously had its headquarters located next to Chuck E. Cheese's, who were also owners of the entire property, sold the property to the furniture store, Bernie and Phyl's. This announcement meant Chuck E. Cheese's would be forced to shut down to make way for the new property. Shortly after the announcement, Newington would close permanently on March 31st, 2018. There were talks of a possible relocation, but unfortunately this never came into fruition. By Summer 2018, the building would be completely gutted, and Bernie and Phyl's would open by 2019.
 ##Stages##
-Like all PTT's at the time, Newington opened with a Balcony Stage, one of two in the state (The other being [Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}})).
-
-In around 1989 or 1990, the Balcony Stage was replaced with Chuck E.'s House Facade or the C-Stage.
-
-In the Early-Mid 90's, their C-Stage was replaced with the 2-Stage which remained at the store until their closure.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[https://chuckepedia.com/wiki/Cyberamics_Balcony_Stage Balcony Stage]
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |August 1983
-|1989/1990
+|1989
 |One of 2 Balcony Stages in New Hampshire.
 |-
-|[https://chuckepedia.com/wiki/Chuck_E.'s_House_Facade Chuck E.'s House Facade]
-|1989/1990
-|Early-Mid 90's
-|One of 2 Chuck E.'s House Facades installed in New Hampshire.
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
+|1989
+|1996
+|One of 2 C-Stages installed in New Hampshire.
 |-
-|2-Stage
-|Early-Mid 90's
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|1996
 |March 2018
 |One of 2 2-Stages in New Hampshire.
 |}
@@ -49,59 +51,76 @@ In the Early-Mid 90's, their C-Stage was replaced with the 2-Stage which remaine
 !Serial Number
 !Status
 |-
-|[https://chuckepedia.com/wiki/Mr._Munch_(Cyberamic) Mr. Munch (Cyberamic)]
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |?
+|Unknown
+|Disassembled for parts. Mask, Cool Chuck Shirt, and Khakis sent to [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}), went unused, now destroyed.
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|?
+|Unknown
+|Disassembled for parts. Mask sent to [Lowell, MA]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}); now unknown.
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|?
+|Unknown
+|Disassembled for parts. Mask sent to [Lowell, MA]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}), now unknown. Keyboard Front sent to [Lowell, MA]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}), now unknown.
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|?
+|Unknown
+|Disassembled for parts. Mask sent to [Attleboro, MA]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}}); now unknown.
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|?
+|Unknown
+|Disassembled for parts. Most of Mask sent to [Natick, MA]({{< ref "wiki/Natick, MA (801 Worcester St).md" >}}), went unused, now destroyed. Drums sent to [Lowell, MA]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}), now unknown.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1996
 |Unknown
 |Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Chuck_E_Cheese_(Cyberamic) Chuck E. Cheese (Cyberamic)]
-|?
-|Unknown
-|Destroyed.
-|-
-|[https://chuckepedia.com/wiki/Jasper_T._Jowls_(Cyberamic) Jasper T. Jowls (Cyberamic)]
-|?
-|Unknown
-|Destroyed.
-|-
-|[https://chuckepedia.com/wiki/Guest_Star_/_Helen_Henny_(Cyberamic) Helen Henny (Cyberamic)]
-|?
-|Unknown
-|Destroyed.
-|-
-|[https://chuckepedia.com/wiki/Pasqually_(Cyberamic) Pasqually (Cyberamic)]
-|?
-|Unknown
-|Destroyed.
-|-
-|[https://chuckepedia.com/wiki/Warblettes_(Cyberamic) Warblettes (Cyberamic)]
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
 |?
 |Unknown
 |Unknown/Destroyed.
 |-
-|Wink
-|?
-|Unknown
-|Destroyed.
-|-
-|[https://chuckepedia.com/wiki/Waving_Flags_(Cyberamic) Waving Flags (Cyberamic)]
+|Waving Flags (Cyberamic)
 |?
 |Unknown
 |Unknown/Destroyed.
 |-
-|[https://chuckepedia.com/wiki/Clapper_Board_(Cyberamic) Clapper Board (Cyberamic)]
+|Clapper Board (Cyberamic)
 |?
 |Unknown
 |Unknown/Destroyed.
 |-
-|The King
+|[Dolli Dimples I]({{< ref "wiki/Dolli Dimples I.md" >}})
 |?
 |Unknown
-|Originally from [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}), then Unknown/Destroyed.
+|Unknown/Destroyed
+|-
+|[The Beagles / Beach Bowzers (Lounge)]({{< ref "wiki/The Beagles  Beach Bowzers (Lounge).md" >}})
+|?
+|Unknown
+|Sent to [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}) in 1989, then Unknown/Destroyed
+|-
+|[The King / King Kat (Lounge)]({{< ref "wiki/The King  King Kat (Lounge).md" >}})
+|?
+|Unknown
+|Originally from [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}), Unknown/Destroyed.
 |}
 ##Gallery##
-<gallery>
+[https://www.showbizpizza.com/photos/cec/nh_newington/index.html 2002]<gallery>
+File:Exterior, 2002.jpg|Exterior, 2002 (PC: showbizpizza.com)
+File:Newington Stage 2002.jpg|The Kings stage with The Video Velociter, 2002 (PC: showbizpizza.com)
+File:Newington's Lounge Room.jpg|Lounge Room, 2002 (PC: showbizpizza.com)
+File:Pizza Wars Poster.jpg|Pizza Wars Artwork, 2002 (PC: showbizpizza.com)
+File:Newington Chuck E. Animatronic 2010s.jpg|The Chuck E. Animatronic in the early 2010s with the rare Cool Chuck outfit.
+File:Newington 2-Stage.png|A photo of the store's 2-Stage on July 22, 2016.
 </gallery>
+
 ##Videos##
 {| class='wikitable'
 !Link
@@ -109,23 +128,28 @@ In the Early-Mid 90's, their C-Stage was replaced with the 2-Stage which remaine
 !Filming Date
 !Publish Date
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=FG-RETRCP1c
+|Newington during the Summer 2005 show. This is the oldest footage of the stage.
+|7/30/2005
+|10/17/2015
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=K1MI6Ow0XX8&t=69s
+|Newington during the May 2011 Show with the Cool Chuck hat.
+|7/29/2011
+|8/1/2011
 |-
-|
-|
-|
-|
+|https://www.youtube.com/shorts/fzZZhO5riBK
+|A part of the Happy Dance being performed with the Munch's Make Believe Band in the background.
+|5/23/2016
+|5/23/2016
 |-
-|
-|
-|
-|
+|https://www.youtube.com/watch?v=sBEOMiEVgKE 
+|'Another Chuck E. Day' from Chuck E. Cheese's Show 5 2017 (Show 5 2017) being performed on Newington's 2-Stage. Chuck E.'s eyes were screwed up.
+|9/21/2017
+|9/21/2017
+|-
+|https://www.youtube.com/watch?v=sBEOMiEVgKE
+|Munch's Make Believe Band saying their final goodbyes before the store's closure.
+|March 2018
+|7/4/2018
 |}

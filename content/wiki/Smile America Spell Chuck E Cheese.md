@@ -2,13 +2,15 @@
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
 tags = []
-date = 2022-12-30T18:38:26Z
+date = 2022-12-31T22:24:13Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-**_Smile America. Spell Chuck E Cheese**_ was a sweepstakes promotion game that ran at select [https://androbot.miraheze.org/wiki/Pizza_Time_Theatre Pizza Time Theatre] locations from June 6th to August 15th of 1983.<ref name=':0'>https://www.newspapers.com/image/899994060/?clipping_id=115040355&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg5OTk5NDA2MCwiaWF0IjoxNjcxNzU5Nzg4LCJleHAiOjE2NzE4NDYxODh9.Y7TKj4VSVA9bK1l-oRkL7v5lYxGrz-IT1nq0BiXcAIM&terms=spell&match=1</ref><ref name=':1'>https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/6/mode/2up?q=sweepstakes</ref>
+{{Generic|image=Hawaiii spell chuck e .png|desc=Sweepstakes Advertisement, Hawaii}}
+
+**_Smile America. Spell Chuck E Cheese**_ was a sweepstakes promotion game that ran at select [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) locations from June 6th to August 15th of 1983.<ref name=':0'>https://www.newspapers.com/image/899994060/?clipping_id=115040355&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg5OTk5NDA2MCwiaWF0IjoxNjcxNzU5Nzg4LCJleHAiOjE2NzE4NDYxODh9.Y7TKj4VSVA9bK1l-oRkL7v5lYxGrz-IT1nq0BiXcAIM&terms=spell&match=1</ref><ref name=':1'>https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/6/mode/2up?q=sweepstakes</ref>
 
 ##Sweepstakes##
 Upon visiting a location and requesting, guests are given a game sheet and a random game piece with a letter on it. Guests are encouraged to continue to return and collect game pieces to eventually spell one of the Pizza Time Players' names on the sheet, similar to Bingo. Winners would receive one of many various prizes, including cash up to $10,000.

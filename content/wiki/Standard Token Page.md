@@ -2,7 +2,7 @@
 title = "Standard: Token Page"
 draft = false
 tags = []
-date = 2023-01-01T19:07:45Z
+date = 2023-01-01T19:08:30Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -28,4 +28,4 @@ If the token has any known error variants, such as a clipped planchet, off-cente
 File:77nb.jpg|Clipped Planchet
 </gallery>
 ##References##
-<references />
+Citations go here.<references />

@@ -2,13 +2,14 @@
 title = "Family Vision 621"
 draft = false
 tags = []
-date = 2023-03-02T16:30:27Z
+date = 2024-01-30T07:26:46Z
 
 [Article]
 contributors = ["The 64th Gamer","DerekCat"]
-gallery = []
+gallery = ["Famvis6212.png|Case","Famvis6213.png|Case"]
 +++
-{{Generic|image=Famvis6211.png|desc=Family vision 621}}**_Family Vision #621**_ was part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984.
+{{Generic|image=Famvis6211.png|desc=Case Front, Tape Front}}**_Family Vision #621**_ was part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984. This specific tape played during the month of April 1989.
+
 ##Video List##
 The tape's total length was around 20 minutes.
 {| class='wikitable'
@@ -30,3 +31,7 @@ The tape's total length was around 20 minutes.
 |}
 
 ## Gallery ##
+<gallery>
+File:Famvis6212.png|Case Back, Tape Front
+File:Famvis6213.png|Case Top
+</gallery>

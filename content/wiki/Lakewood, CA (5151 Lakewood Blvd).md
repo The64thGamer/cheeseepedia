@@ -2,141 +2,134 @@
 title = "Lakewood, CA (5151 Lakewood Blvd)"
 draft = false
 tags = []
-date = 2023-02-23T21:04:00Z
+date = 2024-04-23T03:16:39Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","The 64th Gamer"]
-gallery = []
+gallery = ["Lakewood"]
 +++
-**_5151 Lakewood Blvd**_ is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
+{{Generic|image=Owastaken.jpg|desc=Exterior, 2017}}
+**_5151 Lakewood Blvd, Store #357**_ is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
-This location is located in the Lakewood Shopping Center right next to the Lakewood Center Mall. They would receive Concept Unification in 1991 or 1992, and removed the 3-Stage in 2000 for a Studio C Alpha which is still there.
-##History##
-Lakewood opened on March 23rd, 1983, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it was a Showbiz Pizza. This location had the Rock-Afire Explosion Classic Stage. In 1988 or 1989, Lakewood would receive the 1988 remodel removing older SPP decor for newer decor, and the change to the Billy Bob stage (Showbiz Pizza Campground). Around Early 1991, Lakewood would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, Lakewood would receive either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights.  In the year 2000, Lakewood would receive the so called Phase 3 remodel which marked the end of the 3-Stage as it was replaced by the Studio C Alpha and got a new exterior (Which involved an expansion of the front of the store to make room for more games) and most of the 90s decor was removed and the 2000's decor and SkyTubes was added. In Early 2009, it would undergo the 2005 remodel which involved the expansion of the exterior and store, the removal of the early 2000's posters, and the new decor and booths. Currently, as of February 2023, Lakewood still has the 2005 Remodel and the Studio C Alpha stage and is safe from the 2.0 remodel.
+This location is located in the Lakewood Shopping Center right next to the Lakewood Center Mall. They would receive Concept Unification in 1991 or 1992, and removed the 3-Stage in December of 1998 for a Studio C Alpha, which would also be removed in February 2024 after the location received the 2.0 Remodel
+##History ##
+Lakewood opened on March 23rd, 1983, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it was a Showbiz Pizza. This location had the Rock-Afire Explosion Classic Stage. In 1988 or 1989, Lakewood would receive the 1988 remodel removing older SPP decor for newer decor, and the change to the Billy Bob stage (Showbiz Pizza Campground). Around Early 1991, Lakewood would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, Lakewood would receive either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. In December of 1998 the store's 3-Stage would be replaced by a Studio C Alpha. In the year 2000, Lakewood would receive the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) remodel and got a new exterior (Which involved an expansion of the front of the store to make room for more games) and most of the 90s decor was removed and the 2000's decor and SkyTubes was added. In Early 2009, it would undergo the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the expansion of the exterior and store, the removal of the early 2000's posters, and the new decor and booths. In Late February 2024, the store would receive the CEC 2018 2.0 Remodel Program (2.0 Remodel), where the Studio C Alpha would be removed and replaced with a [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor), with the store hosting its Grand Reopening on April 10, 2024, which is how the store currently sits as to this day.
 ##Stages##
-Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha which is still used to this very day.
+Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha, which would eventually be removed in Late February 2024 in response to the store receiving the 2.0 Remodel.
 {| class='wikitable'
-|+
 !Stage
 !Installed
 !Removed
-!Notes
+! Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |March 1983
 |Early 1991
 |7th Showbiz store to open in California.
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |Early 1991
 |2000
 |One of 9 Showbiz stores in California to get Concept Unification.
 |-
-|[https://chuckepedia.com/wiki/Studio_C_(1997) Studio C Alpha]
-|2000
-|Still in use
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+|December 1998
+|Late February 2024
 |
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
+|Late February 2024
+|In Use
+|2019 Model
+|-
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|Late February 2024
+|In Use
+|2021 Model
 |}
 ##Animatronics##
 {| class='wikitable'
-|+
 !Animatronic
 !Serial Code
 !Whereabouts
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
 |?-8? 1-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+| [Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
 |?-8? 2-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
 |?-8? 3-??
 |Unknwon
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
+| [Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
 |?-8? 4-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
 |?-8? 5-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
 |?-8? 6-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
+| [Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |?-8? 7-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |?-8? 8-??
-|Unknown
+|Unknown 
 |-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
 |?-8? 10-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
 |?-8? 11-??
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Wink Wink]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown
 |-
-|[https://chuckepedia.com/wiki/Chuck_E._Cheese_32m_(Animatronic) Chuck E. Cheese 32m (Animatronic)]
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 |Unknown
-|In store.
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Bird_(Animatronic) Bird (Animatronic)]
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
-|In store.
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Pizza_Time_Clock_(Animatronic) Pizza Time Clock]
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
-|In store.
+|Unknown
 |-
-|[https://chuckepedia.com/wiki/Pizza_Phone_(Animatronic) Pizza Phone]
-|N/A
-|In store.
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
+| N/A
+|Unknown
 |}
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/CjaoK2MI588 link]
+|Employee Christmas dance party in the showroom, ends with two walkarounds dancing.
+|December 25, 1990
+|}
+
 ##Gallery##
 <gallery>
+File:Lakewood ca cec exterior pre 2005 remodel.jpg|The store's exterior before the 2005 remodel.
 </gallery>
-##Videos##
-{| class='wikitable'
-|+Youtube Videos
-!Link
-!Title
-!Description
-!Published Date / Filming Date
-!Credit To
-|-
-|
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|
-|}
-##References##
-TODO

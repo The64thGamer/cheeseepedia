@@ -2,14 +2,14 @@
 title = "Articulated Jasper Walkaround"
 draft = false
 tags = []
-date = 2022-08-09T23:14:07Z
+date = 2024-04-08T02:19:39Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedJasperNews.jpg|thumb|Close-up","ArticulatedJasperGal5k.jpg|thumb|The"]
 +++
-[[File:ArticulatedJasper.jpg|thumb|alt=The articulated Jasper head paired with his standard outfit and an acoustic guitar in the August 1996 show.]]
-The articulated Jasper walkaround head was created in 1996 by a former CEI employee, Billy Bob Irving. This head was used in three different showtapes, those being:
+[[File:ArticulatedJasper.jpg|thumb|The articulated Jasper head paired with his standard outfit and an acoustic guitar in the August 1996 show.]]
+The articulated Jasper walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irvin. This head was used in three different showtapes, those being:
 
 * August 1996
 * April 1997
@@ -17,10 +17,9 @@ The articulated Jasper walkaround head was created in 1996 by a former CEI emplo
 
 During these showtapes, the head was often seen paired with Jasper’s standard 90’s outfit. 
 
-In addition, the head was used in the notorious CEC movie, _Chuck E. Cheese In The Galaxy 5000_.<ref> https://youtu.be/LvPDKzSaeyg</ref> During the movie, the head is seen paired with his standard outfit.
+For preparation of the Galaxy 5000 movie, the articulated head was refurbished by Billy Bob. Notably, this was the only one that didn't see any alterations during the production of the movie.
 
-The head was destroyed by corporate between the 2000s-2015.
-
+As of 2024, it is unknown of where the head or any other accompanying parts could be.
 
 ##Gallery##
 <gallery>

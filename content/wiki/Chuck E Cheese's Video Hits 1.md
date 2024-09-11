@@ -2,18 +2,10 @@
 title = "Chuck E. Cheese's Video Hits 1"
 draft = false
 tags = []
-date = 2022-02-12T05:19:44Z
+date = 2023-11-04T19:03:29Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-[[File:Video hits.jpg|thumb|418x418px|Front Cover]]
-**_Chuck E. Cheese's Video Hits #1**_ is a something something something 2004
-
-## Video List ##
-
-# cheese 
-# sauce
-# milk
-# egg
+text/x-wiki

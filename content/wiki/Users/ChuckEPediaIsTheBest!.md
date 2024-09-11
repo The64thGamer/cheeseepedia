@@ -2,11 +2,10 @@
 title = "ChuckEPediaIsTheBest!"
 draft = false
 tags = ["User"]
-date = 2023-01-03T21:41:50Z
+date = 2023-01-27T21:01:04Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-[[File:Chuckepedialogo.png|thumb]]
-I LOVE Chuck-E-Pedia it is very informational and very well made.
+text/x-wiki

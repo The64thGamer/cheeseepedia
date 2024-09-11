@@ -2,13 +2,14 @@
 title = "Whitby, Ontario, Canada (75 Consumers Dr)"
 draft = false
 tags = []
-date = 2024-06-11T14:02:50Z
+date = 2024-06-25T00:27:56Z
 
 [Article]
 contributors = ["Save phase 5","Cheeseclassic"]
 gallery = []
 +++
-Whitby, Ontario opened in 2001 with Phase 3.  They opened up with a Studio C Alpha stage. It remained that way up until 2014, when it received the 2012 update to the 2003 Cool Chuck Reconfiguration. 
+{{Stub}}{{Generic|image=Whitby's Exterior in June 2021 (PC- Google Maps).jpg|desc=Whitby's Exterior in June 2021 (PC: Google Maps)}}
+**_75 Consumers Dr**_ is an _Chuck E. Cheese's_ that opened on October 12, 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and is still open to this day.
 
 ## Stages ##
 This location, as mentioned before, features a Studio C Alpha stage.  It is still at the location as of May 2024. 

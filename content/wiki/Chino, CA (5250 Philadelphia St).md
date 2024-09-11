@@ -2,42 +2,165 @@
 title = "Chino, CA (5250 Philadelphia St)"
 draft = false
 tags = []
-date = 2023-07-27T19:51:43Z
+date = 2024-09-07T16:35:00Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","Estsproduction","CEC1988","Cecfan15WantsRetromation","The 64th Gamer","CoolerDude"]
-gallery = []
+gallery = ["Chino.jpg|Chino","Chino's","Chino's"]
 +++
-[[File:Chino.jpg|thumb|Chino's exterior before 2.0. (PC: yelp.com)]]
-**_5250 Philadelphia St**_ is a _Showbiz Pizza_ that opened on December 30, 1988 with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is still open today with the 2.0 remodel. 
+{{Generic|image=Chino remodel.jpeg
+|desc=Chino's exterior After 2.0. (PC: yelp.com)}}
+
+**_5250 Philadelphia St**_ is a _Showbiz Pizza_ that opened on December 30, 1988, with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is still open today with the 2.0 remodel. 
 
 ## Stages ##
-Chino opened with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). It lasted for around 6 years, and was replaced by a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) in 1994. Around November 2022, the location received 2.0. As a result, it was replaced by a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
+Chino was supposed to open with a [Rockafire Explosion Stage]({{< ref "wiki/Classic Stage.md" >}}) back in 1987, but plans were dropped due to [the problem with Aaron Fechter and SPT]({{< ref "wiki/Concept Unification.md" >}}), and so it opened with the Chuck E.'s House (Rocker Stage) a Year later. It lasted for around 5.5 years until it was replaced by a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) on May 2nd 1994, they kept it until November 18th 2022, when the location received 2.0. Which replaced the 2 Stage with a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 {| class='wikitable'
-|+
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}})
-|December 1988
-|1994
-|One of 4 Chuck E.'s House stages in California.
+|[Rockafire Explosion Stage]({{< ref "wiki/Classic Stage.md" >}})
+|Never Installed
+|N/A
+|Was going to be one of the few RAE in SoCal
+|-
+|Chuck E.'s House (Rocker Stage)
+|December 30th 1988
+|April 28th 1994
+|First of the 4 Rocker Stages in California.
 |-
 |[2-Stage]({{< ref "wiki/2-Stage.md" >}})
-|1994
-|November 2022
+|May 2nd 1994
+|November 18th 2022
 |One of many installed in California.
 |-
 |Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
-|November 2022
+|November 22nd 2022
 |Still in use
 |2021 Model.
 |}
 
 ## History ##
-Chino opened on December 30, 1988 under the name _Showbiz Pizza_, the 1986 SPT Remodel Program (1988 remodel), and [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). Around 1994, they received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), which involved removing all 1988 remodel elements, removing neon signage, changing the exterior to _Chuck E. Cheese's_, and replaced [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). They later received [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in their respective years. In 2006/2007, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, removing all 90s decor for new decor, removing the showroom walls and balcony seating, added purple walls, downsized the [Skytubes]({{< ref "wiki/Skytubes.md" >}}),  and changed the exterior again. The [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were removed around 2017-2020. Chino remained like this until November 2022, when they would begin the 2017 2.0 Remodel Program (2.0 remodel), removing the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) for a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). As of July 2023, Chino remains like this.
+Chino was Supposed to open in mid 1987 as a Showbiz Pizza Place with SPP Phase 1 and a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) these plans were scrapped due to [a problem with Aaron Fechter and SPT Inc.]({{< ref "wiki/Concept Unification.md" >}}) so thus it was pushed to Opening on Late December the next year. Chino finally opened on December 30, 1988, under the name _Showbiz Pizza_, the 1986 SPT Remodel Program (1988 remodel), and the Chuck E.'s House (Rocker Stage). During April 1994, they received [Operation: Thumb Chuck]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) and [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), which involved removing all 1988 remodel elements, removing neon signage, changing the exterior to _Chuck E. Cheese's Pizza_ like the one in La Mesa, CA, and replaced their Chuck E.'s House (Rocker Stage) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Interestingly They Had the Newer decor before receiving the 2 Stage They later received [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in their respective years. In Summer 1995 they removed the Pizza sign and the PTT style Coach Chuck Logo for the Star Chuck Logo. Around the early 2000’s they replaced All the Bots (except Munch's) masks from the 90’s, around the same time they expanded to a local store that had closed down (where the video wall is now), which meant more games. In 2006, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (Operation: Avenger Chuck) Remodel, removing (almost) all 90s decor for new decor, removing the showroom walls. Adding purple walls, downsizing the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and changing the exterior again for the Avenger Chuck Logo. The [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were removed in August 2019 Chino remained like this until November 18th 2022, when they would begin the 2017 2.0 Remodel Program (2.0 remodel), removing the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) for a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). During early August 2024, Chino Received the new CEC 2018 2.0 Remodel Program (Trampoline Zone) alongside [Huntington Beach, CA]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}), as of Fall 2024 Chino remains like this.
+
+## Trivia ##
+-This Location was meant to be A Showbiz Pizza Place, but these plans were scrapped
+
+- If you look closely at the Phase 4 Exterior, you cam see a label Scar of the **ShowBiz Pizza** Letters 
+
+- Interestingly, The Location never had Balcony Seating, Although many may say so. 
+
+- Many people (Including Myself) thought that the place where the video wall is now was the old Showroom, A video of Chino in 1994 debunked this.  
+
+- Munch Kept his PTT Mask until the 2.0 Remodel. 
+
+- This location had a 'medium' Sized 2-Stage, Kinda Rare to see back before its removal, The Medium sized 2-Stage is now Extinct. 
+
+- This Location had an Original Helicopter light up until its removal 
+
+- The location Never received new parts after 2017 since the bots were in awesome condition before 2020 
+
+- Chino had a 'Make Magic' Sign along with some Phase 3 art, it is unknown if the location still has the Make Magic sign after the 2.0 Remodel.  
 
 ## Animatronics ##
-TODO
+{| class='wikitable'
+!Animatronics
+!Added
+!Removed
+!Whereabouts
+|-
+|[Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|
+|Never Installed
+|-
+|[Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})
+|December 30th  1988
+|November 18th 2022
+|Destroyed/Remains owned by mutiple YouTubers and private collectors.
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|December 30th  1988
+|November 18th 2022
+|Destroyed/Remains owned by mutiple YouTubers and private collectors.
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|December 30th  1988
+|November 18th 2022
+|Destroyed/Remains owned by Mutiple YouTubers And private collectors
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|December 30th  1988
+|November 18th 2022
+|Destroyed/Remains owned by mutiple YouTubers and private collectors.
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|December 30th  1988
+|November 18th 2022
+|Destroyed/Remains owned by mutiple YouTubers private collectors.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|May 1994
+|November 18th 2022
+|Owned by CecFan15 On Youtube
+|}
+## Gallery ##
+<gallery>
+File:Chino.jpg|Chino Before 2.0.
+File:Chino's 2 Stage in 2006.jpeg|Chuck.E. in his Cool Chuck outfit(Summer 2006).
+File:Chino's 2 Stage.jpeg|2-Stage in June 2022 Just a Few Months before 2.0 (PC: CEC1988)
+</gallery>
+
+## References ##

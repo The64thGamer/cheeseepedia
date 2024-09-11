@@ -2,39 +2,45 @@
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-01-27T21:09:33Z
+date = 2024-03-26T01:45:37Z
 
 [Article]
 contributors = ["ChuckECool","47.149.242.216","ShowbizMidwest","CEC Tinley","Rexburg090","Cheeseclassic","Polykirisame","Chez"]
 gallery = []
 +++
-**_5089 E Florence Ave**_ was a [https://chuckepedia.com/wiki/Chuck_E._Cheese's_Pizza_Time_Theatre Chuck E. Cheese's _Pizza Time Theatre_] that opened sometime in 1982 (month and day unknown) with a Balcony Stage, which is still open to this day.
+{{Generic|image=Bell’s Exterior.jpg|desc= Bell's Exterior before 2.0 Remodel (PC: Google Maps)}}
+**_5089 E Florence Ave, Store #446**_ was a Chuck E. Cheese's _Pizza Time Theatre_/_Chuck E. Cheese's_ that opened sometime in 1982 (month and day unknown) with a Balcony Stage, which is still open to this day.
 
 It is located in the Bell Shopping Center.
 ##History##
-Bell opened sometime in 1982. Unfortunately, there is hardly any information when it was a PTT, but we do know they had a Balcony Stage. Bell had the stage and the store unchanged until the late 80's when they received the 1988 remodel. They removed the Balcony Stage for the C-Stage and added the early 90's decor. They would remain like this until their second remodel in the mid-late 90's. They then removed the C-Stage for the 2-Stage and removed the early 90's decor and added new decor and SkyTubes. They would remain like this until the 2005 remodel between 2007-2008 when they removed the Showroom Walls, Balcony Seating, and relocating the 2-Stage. Sometime in 2021, they received the 2.0 carpet. Currently, as of January 2023, they still have the 2-Stage and 2005 remodel and is safe from the 2.0 remodel.
+Bell opened sometime in 1982. Unfortunately, there is hardly any information when it was a PTT, but we do know they had a Balcony Stage. Bell had the stage and the store unchanged until the late 80's when they received the 1988 remodel. They removed the Balcony Stage for the C-Stage and added the early 90's decor. They would remain like this until their second remodel in the mid-late 90's. They then removed the C-Stage for the 2-Stage and removed the early 90's decor and added new decor and SkyTubes. They would remain like this until the 2005 remodel between 2007-2008 when they removed the Showroom walls and Balcony seating. Sometime in 2021, after sustaining a flood from a storm, they received the 2.0 carpet. Currently, as of January 2023, they still have the 2-Stage and 2005 remodel. In the summer of 2023, the stage would be stuck in random mode, possibly due to the Navori system being installed correctly. In October 2023, the stage would be removed for the 2.0 remodel. 
 ##Stages##
-Bell opened with the Balcony Stage in October 1981. Fortunately, there are a lot photos and videos to exist of Bell. Unfortunately however, they do not start filming until they are inside. So, the original exterior of Bell as a PTT is lost.
+Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of photos and videos to exist of Bell. Unfortunately, however, they do not start filming until they are inside. So, the original exterior of Bell as a PTT is lost.
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
 !Notes
 |-
-|Balcony Stage
+|[Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}})
 |1982
-|Late 80's
-|
+|1989/1990
+|One of many in Caifornia.
 |-
-|C-Stage
-|Late 80's
-|Mid 90's
-|
+|[Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
+|1989/1990
+|1993/1994
+|One of many in Caifornia. Looked identical to the one installed at the [Torrance (Prairie)]({{< ref "wiki/Torrance, CA (16920 Prairie Ave).md" >}}) location.
 |-
-|2-Stage
-|Mid 90's
-|Still in use
-|
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|1993/1994
+|October 2023
+|One of many installed in California.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|October 2023
+|Still in Use
+|One of many installed in California. 
 |}
 ##Animatronics##
 {| class='wikitable'
@@ -42,31 +48,56 @@ Bell opened with the Balcony Stage in October 1981. Fortunately, there are a lot
 !Manufacturing Date
 !Status
 |-
-|[https://chuckepedia.com/wiki/Warblettes_(Cyberamic) Warblettes (Cyberamic)]
-|Unknown
-|Unknown
+|Chuck E Cheese (Cyberamic)
+|1981/1982
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Mr._Munch_(Cyberamic) Mr. Munch (Cyberamic)]
-|Unknown
-|In store.
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Jasper_T._Jowls_(Cyberamic) Jasper T. Jowls (Cyberamic)]
-|Unknown
-|In store.
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Chuck_E._Cheese_(Cyberamic) Chuck E. Cheese (Cyberamic)]
-|Unknown
-|In store.
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Guest_Star_/_Helen_Henny_(Cyberamic) Guest Star / Helen Henny (Cyberamic)]
-|Unknown
-|In store.
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
 |-
-|[https://chuckepedia.com/wiki/Pasqually_(Cyberamic) Pasqually (Cyberamic)]
-|Unknown
-|In store.
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
+|-
+|Waving Flags (Cyberamic)
+|1981/1982
+|Unknown.
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
+|-
+|[The King / King Kat (Lounge)]({{< ref "wiki/The King  King Kat (Lounge).md" >}})
+|1981/1982
+|Unknown.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|1981/1982
+|Unknown.
 |}
 ##Gallery##
+[https://www.showbizpizza.com/photos/cec/ca_bell/index.html 2007]
 
 ##Videos##
 {| class='wikitable'
@@ -76,20 +107,50 @@ Bell opened with the Balcony Stage in October 1981. Fortunately, there are a lot
 !Filming Date
 !Pulish Date
 |-
-|
-|
-|
-|
+|[https://www.youtube.com/watch?v=m0c2hEfNwyI Link]
+|Chuck E Cheese's Bell CA From 1991 Featuring the King. 
+|1991
+|May 29, 2022
 |-
-|
-|
-|
-|
+|[https://youtu.be/_i0gRzT2Gbc?t=48 Link]
+|A video showcasing the store, games, and 2-Stage back in 2002
+|2002
+|March 9, 2022
 |-
-|
-|
-|
-|
+|[https://youtu.be/qNP3CkRCA0s Link]
+|A video of the store during Cheesevention III in May 2007 before the 2005 Update.
+|May 2007
+|May 23, 2021
+|-
+|[https://youtu.be/Qmz1-wslFl4 Link]
+|A tour of the Showroom back in 2012
+|March 31, 2012
+|April 1, 2012
+|-
+|[https://youtu.be/f0cYFDLM2fw Link]
+|'Jack and Jill' from [January 2012 Show]({{< ref "wiki/January 2012 Show.md" >}}) being performed on Bell's 2-Stage.
+|March 31, 2012
+|April 5, 2012
+|-
+|[https://youtu.be/INt8JArHcvg Link]
+|'Because We're Friends' from the [Fall 2014 Show]({{< ref "wiki/Fall 2014 Show.md" >}}) being performed on Bell's 2-Stage.
+|May 18, 2015
+|May 23, 2015
+|-
+|[https://youtu.be/7_LcGz23bs4 Link]
+|'Keep Drummin' from Chuck E. Cheese's Show 1 2016 (Show 1 2016) being performed on Bell's 2-Stage
+|January 17, 2022
+|April 14, 2023
+|-
+|[https://youtu.be/nAXNtGiYA5w Link]
+|'Chuck E.'s Middle Name' from Chuck E. Cheese's Show 2 2021 (Show 2 2021) being performed on Bell's 2-Stage
+|January 17, 2022
+|April 15, 2023
+|-
+|[https://youtu.be/92VOy_kPr2w Link]
+|A store tour of Bell in 2022
+|Aug 16, 2022
+|Aug 16, 2022
 |}
 
 ##References##

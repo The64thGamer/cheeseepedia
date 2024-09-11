@@ -2,31 +2,107 @@
 title = "San Antonio, TX (11735 Bandera Rd)"
 draft = false
 tags = []
-date = 2022-09-18T06:23:15Z
+date = 2024-08-09T16:09:11Z
 
 [Article]
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
-gallery = ["Bandera2009-1.jpg|Showroom","Bandera2009-2.jpg|Stage"]
+gallery = ["Bandera2009-1.jpg|Showroom","Banderacurrentshowroom.jpg|Showroom","Bandera2004stage.jpg|Animatronic","Bandera2009-2.jpg|Animatronic","Banderachuckgetswomenunknownyear.png|Animatronic","Banderastageapril2014.jpg|Animatronic","Bandera2004gameroom.jpg|Bandera's"]
 +++
-[[File: Bandera2015remodelexterior.jpg|thumb|381x381px|The current exterior.]]**_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002 with a Studio C Beta.
+{{Generic|image=Bandera2015remodelexterior.jpg|desc=Pre 2.0 Exterior}}
+**_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002, with a Studio C Beta, and is still open to this day.
 
 ##Stages##
-This location opened with a Studio C Beta, the newest stage show for Chuck E. Cheese’s at that time,  featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. The stage would remain in average condition with the Ticket Blaster being moved in front of the blue screen and the light box removed once 2 out of 3 of the original monitors were replaced with newer TVs in the 2010s. In early 2022, most of the animatronics movements would stop functioning, with only 8 out of the 32 movements functional. Notably, the nose cylinder would break at some point, causing the animatronic to have a drooping nose.
+This location opened with a Studio C Beta, the newest stage for Chuck E. Cheese’s at that time, featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. The stage would remain in average condition with the Ticket Blaster being moved in front of the blue screen in 2012, and the light box removed in-between August 2010 and February 2011 after 2 of the original monitors were replaced with smaller TV screens. In early 2022, most of the animatronics movements would stop functioning, with only 8 out of the 32 movements functional. 
 
-##2016 Car Crash##
+In the early 2010s, Bandera would recieve a new mask and avenger shirt for the character. The new mask would cause the characters nose to infamously droop. 
 
-On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. <ref>https://news4sanantonio.com/news/local/woman-crashes-car-into-chuck-e-cheeses-restaurant</ref>
+The stage would be removed on April 1, 2024, in favor of the store receiving the 2.0 Remodel.
 ##History##
-In November 2000, CEC Entertainment would purchase land in San Antonio, Texas described as 'Lot 9, Block 6, County Block 4429, Bandera Exchange', it is unknown if this was the planned location for the Bandera Rd store, [San Antonio (Stone Oak), TX (1403 N Loop)]({{< ref "wiki/San Antonio (Stone Oak), TX (1403 N Loop).md" >}}), or an entirely scrapped store. 
+The land the Bandera Road Chuck E. Cheese's would be built on was purchased in October 2001, with the store opening on April 16th, 2002. After opening, the store would remain untouched aside from the game package changing and the original can lights being replaced with fluorescent lights in February/March 2011. 
 
-The land the Bandera Rd Chuck E. Cheese's would be built on was purchased in October 2001, with the store opening on April 16th, 2002. After opening, the store would remain untouched aside from the game package changing and the original can lights being replaced with flourescent lights in Feburary/March 2011. 
+In the Summer of 2015, the store would receive the 2015 remodel package. This remodel would remove the skytubes and update the stores design to fit with the 'Rockstar' era. 
 
-In Summer 2015, the store recieved the 2015 remodel package. The skytubes would be removed during the remodel. 
+This location is the manager training location for the San Antonio area.<ref>Metairie, LA General Manager</ref>
 
-##Videos##
-TODO: Finish listing videos
+On April 1, 2024, the store would start its 2.0 Remodel, removing the show and animatronic on the same day.  
+
+### 2016 Car Crash ###
+On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. <ref>https://news4sanantonio.com/news/local/woman-crashes-car-into-chuck-e-cheeses-restaurant</ref>
+
+##Stages##
 {| class='wikitable'
-|+
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
+|April 2002
+|April 2024
+|32M Beta
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|April 2024
+|2021 Model
+|Dance Floor originally came from [the Arlington (Fielder) location.]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}})
+|}
+##Animatronics##
+{| class='wikitable'
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|160
+|Unknown/Destroyed
+|}
+
+##Games & Rides ##
+
+### Skill Games ###
+
+* The Price is Right
+* Big Win Super Spin
+* Whack and Win
+* Fishbowl Frenzy
+* Harpoon Lagoon
+* Penalty Kick
+* Sonic Spinner
+* Winners Wheel
+* Treasure Quest
+* Bop 2 Win
+* Terminator Salvation
+* Chuck E's Rubble Bubble
+* Super Star
+* Choppy Wood
+* The Simpsons Kooky Carnival
+* Subway Surfers
+* [The Great Ticket Carnival]({{< ref "wiki/The Great Ticket Carnival.md" >}})
+* Tippin' Bloks
+* Alley Roller
+* NBA Hoops
+* NFL 2 Minute Drill
+* Dog Pounder
+* Teeter Totter Castle
+* Operation
+* Spongebob Squarepants Pinapple Arcade
+* Jurassic Park Arcade
+* ICE Cube Drop Zone
+
+### Kiddie Games/Rides ###
+
+* Whack'em Funky Gators
+* Hungry Chickens
+* [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+* Hammer Fun
+* Magix Floor
+* Astro Invasion
+* Deadstorm Pirates
+* Paw Patrol
+* Jett Rider
+* Chuck E. Cheese's Photo Ride
+##Videos##
+{| class='wikitable'
 !Link
 !Description
 !Date
@@ -34,6 +110,22 @@ TODO: Finish listing videos
 |https://www.youtube.com/watch?v=HQA9WJgwchk
 |Commercial(?) for the store, oldest known footage of the store.
 |April 25th, 2008
+|-
+|https://www.youtube.com/watch?v=2DOdRK8HLa4
+|Home Video
+|August 25th, 2010
+|-
+|https://www.youtube.com/watch?v=wuFvb8OAYAc
+|Home Video
+|February 1st, 2011
+|-
+|https://www.youtube.com/watch?v=H4MERDcwunY
+|Birthday Show preformance
+|February 1st, 2011
+|-
+|https://www.youtube.com/watch?v=lzxT1woG3rI
+|Birthday Show preformance
+|February 1st, 2011
 |-
 |https://www.youtube.com/watch?v=h6NWIPn75kw
 |View of the stage during the Happy Dance live show
@@ -90,27 +182,33 @@ TODO: Finish listing videos
 |https://www.youtube.com/watch?v=BSWCsx7qo20
 |Store Tour
 |October 9th, 2021
+|-
+|https://www.youtube.com/watch?v=db_fKXvwJ8A
+|Studio C Beta reforming Down the Road
+|Junes 27th, 2022
+|-
+|https://www.youtube.com/watch?v=98enq5RM6YE
+|Studio C Beta preforming El Rey Guitarrista
+|September 18th, 2022
+|-
+|https://youtu.be/7nI7kmtQMP4?si=5uKTpMk8VKhLp9HS
+|Birthday Show performance
+|December 22nd, 2022
 |}
 
 ##Gallery##
-TODO: Finish Gallery. 
+ 
 <gallery>
-File:Bandera2009-1.jpg|Showroom in 2009.
-File:Bandera2009-2.jpg|Stage in 2009. 
+File:Bandera2009-1.jpg|Showroom in 2009. 
+File:Banderacurrentshowroom.jpg|Showroom in September 2022. 
+File:Bandera2004stage.jpg|Animatronic in 2004. 
+File:Bandera2009-2.jpg|Animatronic in 2009.
+File:Banderachuckgetswomenunknownyear.png|Animatronic in the early 2010s. 
+File:Banderastageapril2014.jpg|Animatronic in April 2014
+File:Bandera2004gameroom.jpg|Bandera's game room in 2004. 
 </gallery>
 
-##Animatronics##
-{| class='wikitable'
-|+
-!Animatronic
-!Serial
-!Whereabouts
-|-
-|Chuck E. Cheese (32 Movement) (Chuck E Cheese (32 Movement))
-|160
-|In use today
-|}
+*
 
-##Games & Rides##
-TODO
+## References ##
 <references />

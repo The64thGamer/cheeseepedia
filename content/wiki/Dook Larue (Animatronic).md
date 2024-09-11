@@ -2,15 +2,26 @@
 title = "Dook Larue (Animatronic)"
 draft = false
 tags = []
-date = 2024-05-20T16:55:57Z
+date = 2024-08-03T17:40:17Z
 
 [Article]
 contributors = ["CECMentor","Stripes"]
 gallery = []
 +++
+{{Stub}}{{Animatronic|image=DookLarue.png|releasedate=|manufacturer=Creative Engineering|catalogID=}}
+
 The Dook Larue Animatronic (Also the 3-Stage Pasqually Animatronic) was one of the main [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) on August 14th of that year. His character was based off Dingo Starr from the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) animatronic show Creative Engineering had developed.
 
 ## History ##
 Dook Larue animatronics would continue to be produced up until 1983. The January batch would be the last used inside Showbiz Pizza restaurants, and would be kept and stored for future openings, while Creative Engineering would continue to produce bots until June. Now with a surplus of bots, these would need to be sold to other family entertainment centers.
 
-Throughout 1989 to 1992, the Rock-afire Explosion would become _Munch's Make-Believe Band_, or more commonly known as the 3-Stage, through [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). This was a process to rebrand the Rock-afire Characters as their Chuck E. Cheese counterparts due to the expiration of the Rock-afire license for Showbiz Pizza, now Showbiz Pizza Time, Inc. Dook Larue would now become Pasqually_,_ sporting a chef hat, a big mustache, curly hair, and an apron. Dooks ear levers would be removed during this time, as Pasqually did not need them. The only other mechanical change was the lowering of air pressure for his movements, and later diagnostic changes to the air flow in the cylinders. Another process which some stores would also choose not to go forward with. In April of 2001 a major change would come for all 3-Stage bots in stores. Their previously latex masks would now be changed out for furred plastic ones, to reduce costs for the rapidly deteriorating latex. Around this time stores would also be offered the ability to purchase new eyes for their 3-Stage characters, now with smaller pupils and more detailed irises. Store owners were also encouraged to repaint the eyelids with Rust-Oleum Painters Touch spray paint.
+[[File:CEC_CU_Vestavia_Hills_AL--005.jpg|thumb|299x299px|Pasqually Retrofit (Latex Mask)|left]]
+During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Dook Larue would now become Pasqually_,_ sporting a chef hat, a big mustache, curly hair, and an apron. Dooks ear levers would be removed during this time, as Pasqually did not need them. The only other mechanical change was the lowering of air pressure for his movements, and later diagnostic changes to the air flow in the cylinders. Another process which some stores would also choose not to go forward with. In April of 2001 a major change would come for all 3-Stage bots in stores. Their previously latex masks would now be changed out for furred plastic ones, to reduce costs for the rapidly deteriorating latex. Around this time stores would also be offered the ability to purchase new eyes for their 3-Stage characters, now with smaller pupils and more detailed irises. Store owners were also encouraged to repaint the eyelids with Rust-Oleum Painters Touch spray paint.
+
+## Design ##
+The bot is a brown dog in space gear. He has two black gloves, a collar, a logo reading 'D' on his spacesuit, a futuristic hat, and drumsticks. 
+
+## Mechanical Structure ##
+
+### Movements ###
+The bot features 17 movements in total. Those being head turns, a head lift, his ears, his eyelids, his eyes, his feet, his mouth, arm raises, arm movements, a body lean. As stated prior his ears were removed during Concept Unification, as Pasqually didn't need them.

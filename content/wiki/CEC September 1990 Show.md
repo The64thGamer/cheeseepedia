@@ -2,12 +2,10 @@
 title = "CEC September 1990 Show"
 draft = false
 tags = []
-date = 2021-12-16T17:04:16Z
+date = 2023-09-16T20:17:31Z
 
 [Article]
 contributors = ["The 64th Gamer","DerekCat","Documentor","Montfortdog"]
 gallery = []
 +++
-TODO:
-
-Currently the last known Cyberamics tape on reel.
+text/x-wiki

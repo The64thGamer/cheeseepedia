@@ -2,124 +2,137 @@
 title = "Orlando, FL (7419 International Dr)"
 draft = false
 tags = []
-date = 2023-01-25T05:33:03Z
+date = 2024-07-16T16:24:17Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan","108.11.7.204","BurgersNuggs445","AstridMascotFan2005"]
-gallery = []
+gallery = ["Orlando","Orlando"]
 +++
-**_7419 International Dr**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 22, 1981 as a corporate _ShowBiz Pizza Place_ with a [https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]. It is located next to a shopping center and across from Universal Studios Florida.
-##History##
-Orlando opened its doors on July 22nd, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that Orlando was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Orlando received the Showbiz Pizza Campground upgrade.
+{{Generic|image=Orlando (International)'s 2.0 exterior.png|desc=The exterior of Orlando (International) as a 2.0 and at nighttime.}}
+**_7419 International Dr, Store #718**_ also known as ****International**** is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 22, 1981 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). It is located next to an unnamed shopping center and across from Universal Studios Florida and Walt Disney World.
+##Stages ##
+Orlando opened with the Rock afire Explosion in July 1981. Unfortunately, there are no photos or videos to exist of Orlando with the Rock afire, or as a Showbiz in general.
 
-In 1991 or 1992, Orlando received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Orlando received either [https://chuckepedia.com/wiki/Phase_1_(1994) Phase 1] or [https://chuckepedia.com/wiki/Phase_2_(1997) Phase 2] remodel which removed some early 90's decor and added new decor, a change to the exterior, and the addition of SkyTubes. In the early 2000's, Orlando removed their 3-Stage for the Studio C Alpha stage. Orlando remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In September 2021, Orlando received the 2.0 remodel and removed the 3-Stage for the Dance Floor. As of January 2023, they still have the 2.0 remodel and the Dance Floor.
-##Stages##
-Orlando opened with the Rock afire Explosion in July 1981. Unfortunately, there are no photos or videos to exist of Orlando with the Rock afire, or as a ShowBiz in general.
+In 1991 or 1992, Orlando received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into the Munch’s Make Believe Band 3-Stage. It is one of 6 location in Florida to receive Concept Unification and was also featured in music videos from 1995-1996.
 
-In 1991 or 1992, Orlando received [https://chuckepedia.com/wiki/Concept_Unification Concept Unification], converting the Rock afire into the Munch’s Make Believe Band 3-Stage.
+In 1998, Orlando removed the 3-Stage for the Studio C Alpha stage and was one of the first 2 Studio C's in the Orlando area. The other is [Altamonte Springs]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).md" >}}).
 
-In the early 2000's, Orlando removed the 3-Stage for the Studio C Alpha stage.
+In September 2021, Orlando received the 2.0 remodel which involved the removal of the Alpha stage for the Dance Floor. It is the first 2.0 in the Orlando area, and the 7th in Florida.
 
-In September 2021, Orlando received the 2.0 remodel which involves the removal of the Alpha stage for the Dance Floor.
+This location is the 3rd to open in Florida, 2nd to open in the Orlando area, and the 24th overall.
+
 {| class='wikitable'
 !Stage
 !Installed
 !Removed
-!Notes
 |-
-|[https://chuckepedia.com/wiki/Classic_Stage Rock-Afire Explosion]
-|July 1981
-|1991 or 1992
-|
+|[The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|July 1983
+|1991/1992
 |-
-|[https://chuckepedia.com/wiki/Concept_Unification_Stage 3-Stage]
-|1991 or 1992
-|Early 2000's
-|
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|Fall 1989
+|1998
 |-
-|Studio C Alpha
-|Early 2000's
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+|1998
 |September 2021
-|
 |-
-|Dance Floor
+|Dance Floor + Video Wall
 |September 2021
-|Still in use
-|
+|Still in use.
 |}
+
+##History##
+Orlando (International) opened its doors on July 22nd, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Very little documentation exists back when Orlando (International) the Showbiz Pizza .Like many ShowBiz locations in the late 1980s, Orlando received the Showbiz Pizza Campground upgrade.
+
+In 1991 or 1992, Orlando received Concept Unification which converted the show to Munch's Make Believe Band. In around 1994, Orlando received either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor and added new decor, a change to the exterior, and the addition of SkyTubes. In 1998, Orlando removed their 3-Stage for the Studio C Alpha stage. Orlando remained this way until in 2003 when they became one of the first stores to test the 2003 remodel of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In September 2021, Orlando received the 2.0 remodel and removed the Studio C Alpha for the Dance Floor. As of January 2023, they still have the 2.0 remodel and the Dance Floor.
+
+
+On January 3, 2024 a lawsuit was filed against CEC Entertainment over an incident at this location involving an employee sexuallty assaulting a coworker in May 2019. The assaulter allegedly groomed the co-worker in to gaining her trust by giving her rides home and later attempted to force himself on the victim. The victim is seeking $1,000,000 in damages from CEC.<ref>https://www.clickorlando.com/news/local/2024/01/04/former-employee-accuses-orange-county-chuck-e-cheese-in-sex-attack-claims/</ref>
+
 ##Animatronics##
 {| class='wikitable'
 |+
 !Character
 !Serial
-!Status
+! Status
 |-
-|[https://chuckepedia.com/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|1-81 1-7
+|Unknown/Destroyed 
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|1-81 2-7
+|Unknown/Destroyed
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|1-81 3-7
+|Unknown/Destroyed 
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|1-81 4-7
+|Unknown/Destroyed
+|-
+| [Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|1-81 5-7
+|Unknown/Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|1-81 6-7
+|Unknown/Destroyed
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|1-81 7-7
+|Unknown/Destroyed
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|1-81 8-7
+|Unknown/Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|1-81 10-7
+|Unknown/Destroyed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|1-81 11-7
+|Unknown/Destroyed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed
 |-
-|[https://chuckepedia.com/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|N/A
-|Unknown/Destroyed
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}}) 
+|011 
+|Destroyed, Head was sent to Orlando (West), FL (7456 West Colonial Dr) (Orlando (West)), destroyed after West got 2.0.
 |-
-|[https://chuckepedia.com/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 |N/A
-|Unknown/Destroyed
+|Sent to [Bradenton]({{< ref "wiki/Bradenton, FL (905 44th Ave).md" >}}), destroyed after Bradenton got 2.0. 
 |-
-|[https://chuckepedia.com/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Billy_Bob_(Animatronic) Billy Bob]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Moon_(Animatronic) Moon]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Antioch_(Animatronic) Antioch]
-|N/A
-|Unknown/Destroyed
-|-
-|[https://chuckepedia.com/wiki/Wink Wink]
-|N/A
-|Unknown/Destroyed
-|-
-|Chuck E. Cheese (32m, bot)
+| [Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
 |N/A
 |Destroyed
 |-
-|Parrot (Animatronic)
-|N/A
-|Destroyed
-|-
-|Pizza Time Clock
-|N/A
-|Destroyed
-|-
-|Pizza Phone
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 |N/A
 |Destroyed
 |}
 ##Gallery##
-##Videos##
-TODO
+<gallery>
+File:Orlando i drive 3 stage screenshot.jpg|The only known photo of the store's [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+File:Orlando I Drive CEC Exterior During 2.0.jpg|The store's exterior during its CEC 2018 2.0 Remodel Program (2.0 remodel), October 2021
+</gallery>
+
+##Videos ##
+W.I.P
 ##References##
 <references />
+
+##Trivia##
+
+*In 1995-1996, this location alongside Lakeland, FL (3558 US Hwy 98) (Lakeland) was the filming location for the Chuck E. Cheese's scenes for the showtapes.

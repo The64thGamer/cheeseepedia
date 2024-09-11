@@ -2,21 +2,53 @@
 title = "Jonesboro, GA (335 Upper Riverdale Rd)"
 draft = false
 tags = []
-date = 2023-01-31T16:47:02Z
+date = 2024-07-30T23:01:59Z
 
 [Article]
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]
-gallery = []
+gallery = ["Jonesboro"]
 +++
-**Jonesboro, GA (335 Upper Riverdale Rd)** is a Chuck E. Cheese location, it opened in 1990 with a Road Stage.
+**_335 Upper Riverdale Rd, Store #601**_ is a _Chuck E. Cheese_ that opened on November 20, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and is still open to this day.
+
+It is located in the Tara Crossings Shopping Center.
+
+## Stages ##
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Road Stage Prototype]({{< ref "wiki/Cyberamics Road Stage.md" >}})
+|November 1990
+|1991/1992
+|First Road Stage Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992.
+|-
+|[Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}})
+|1991/1992
+|1994/1995
+|Only Road Stage in Georgia.
+|-
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
+|1994/1995
+|2000
+|One of two 1-Stages in Georgia.
+|-
+|Studio C (1997)
+|2000
+|July 2022
+|One of 5 Studio C Alphas in Georgia.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
+|July 2022
+|Still In Use
+|2021 Model
+|}
 
 ## History ##
-In 1998, the stage was converted from a Road Stage to a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
-
-In July 2022, the location got 2.0
+Jonesboro opened its doors on November 20th, 1990, as part of the Tara Crossings Shopping Center as the first location in Georgia since the closures of [Atlanta, GA (2963-A Cobb Pkwy)]({{< ref "wiki/Atlanta, GA (2963-A Cobb Pkwy).md" >}}) & Stone Mountain, GA (5246 Memorial Dr) Pizza Time Theatre locations in 1984 with the very first Road Stage ever produced. Jonesboro also opened with the 1988 Remodel which had the checkers around the store, the Blue and White Awnings, and the CU decor. In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one. Then in 1994/1995, Jonesboro remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) which involved the Road Stage being converted into a 1-Stage. In 2000, Jonesboro remodeled to [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) which involved the removal of most of the 1990's decor (Except a couple record posters), some checkers around the store, and the Blue and White awnings. In around the Late 2000's-Early 2010's, various store decor was removed from the store including the sign above the Kid Check and some of the CRTs in the gameroom. In July 2022, Jonesboro received the 2.0 Remodel which involved the removal of all the store's decor, the Studio C (1997) (Studio C Alpha) stage, Showroom Walls, the last 1997 Studio C Dining sign, and added bright florescent lighting. Currently, as of March 2023, Jonesboro still has the 2.0 Remodel and Dance Floor and Video Wall.
 
 ## Decor ##
-
 ### Current ###
 
 * 2018 Cursive 2.0 entrance sign
@@ -24,8 +56,31 @@ In July 2022, the location got 2.0
 ### Former ###
 
 * 1990s 'No Biz Like Showbiz' clapperboard
+* 1990s Sign above Kid Check
+* 1991 Saturday Night Retriever (Record Poster)
+* 1992 Beverages (Wooden Sign)
+* 1992 Gifts & Prizes (Wooden Sign)
 * 1992 Salad Bar (Wooden Sign)
+* 1993 Ball Park
+* 1993 Cheese Z Top (Record Poster)
+* 1993 Costume Portrait
 * 1993 CU Helen (Girls) (Wooden Sign)
+* 1993 Drive-In
 * 1993 Elvis
+* 1993 M.C. Chuckie (Record Poster)
+* 1993 Men's (Wooden Sign)
+* 1993 Restrooms (Wooden Sign)
+* 1993 Women's (Wooden Sign)
+* 1995 Coach Chuck (Boys) (Wooden Sign)
 * 1995 'Star Thumb Chuck' sign
-* 1997 Studio C Dining sign
+* 1998 Cheesy Television (Must C TV)
+* 1998 ERrr (Must C TV)
+* 1998 Studio Dining Marquee
+
+## Gallery ##
+<gallery>
+File:Jonesboro Protoype Road Stage.jpg|thumb|The store's Road Stage Prototype (1991)
+</gallery>
+
+## References ##
+<references />

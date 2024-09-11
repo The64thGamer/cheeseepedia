@@ -2,13 +2,10 @@
 title = "Studio C Dining Marquee (CEC Signage)"
 draft = false
 tags = []
-date = 2022-09-20T07:58:56Z
+date = 2024-03-19T16:21:24Z
 
 [Article]
 contributors = ["ChuckE1352","BurgersNuggs445","The 64th Gamer","Tux Chuck"]
-gallery = ["44CAA7D6-3AAB-4414-B354-49993FD588EA.jpg|Studio"]
+gallery = []
 +++
-The Studio C dining marquee is a late 90s sign that was placed near the showroom. It went along with the theme of the “Studio C” stage design used with Garner Holt bots. <gallery>
-File:44CAA7D6-3AAB-4414-B354-49993FD588EA.jpg|Studio C Dining sign above entrance to the showroom 
-</gallery>
-[[File:Studio C dining .jpg|thumb|Sign placed above showroom ]]
+text/x-wiki

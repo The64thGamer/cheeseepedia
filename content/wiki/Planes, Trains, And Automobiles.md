@@ -2,15 +2,22 @@
 title = "Planes, Trains, And Automobiles"
 draft = false
 tags = []
-date = 2022-07-19T16:26:06Z
+date = 2023-05-05T04:16:43Z
 
 [Article]
 contributors = ["DerekCat","BurgersNuggs445","The 64th Gamer"]
 gallery = []
 +++
-{{Showtape|image=Planes, Trains, And Automobiles.png|date=July 6, 1992|r12=y|cusvhs=y|c&r=y}}
+{{Showtape|image=Planes, Trains, And Automobiles.png|date=July 6, 1992|r12=y|cusvhs=y|c&r=y|labelname=SHOWBIZ Pizza Time, Inc.|labelname1=PLANES, TRAINS & AUTOMOBILES|labelname2=VALID PLAYDATES: 7/6/92 - 9/13/92}}
 
 **Planes, Trains, And Automobiles** was a show which played during the summer of 1992 at Chuck E. Cheese's.
+
+## Production ##
+
+#### Filming Locations: ####
+
+* The Fontaine, Rd San Jose location was featured in Little Red Corvette.
+* In 'Fun, Fun, Fun', Helen visits the Santa Cruz Boardwalk and Beach.
 
 ## Show List ##
 
@@ -22,7 +29,7 @@ gallery = []
 ## CEC-TV Intro
 # **[[File:New Graphic.png]] Segment 1**
 ## Little Red Corvette
-## The Train Song
+## Train Ride
 # **Intermission 2**
 ## CEC TV News - Triple A
 ## 8 Minute Countdown
@@ -51,7 +58,7 @@ gallery = []
 ## CEC-TV Intro
 # **[[File:New Graphic.png]] Segment 1**
 ## Little Red Corvette
-## The Train Song
+## Train Ride
 # **Intermission 5**
 ## CEC TV News - Triple A
 ## 8 Minute Countdown
@@ -76,4 +83,6 @@ gallery = []
 ## Plane, Train or Automobile
 
 ## Trivia: ##
-This was the last show to use radio songs in the intermission countdowns.
+
+* This was the last show to use radio songs in the intermission countdowns.
+* Home Office's 2-Stage was featured in Train Ride.

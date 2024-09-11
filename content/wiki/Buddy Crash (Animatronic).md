@@ -2,13 +2,13 @@
 title = "Buddy Crash (Animatronic)"
 draft = false
 tags = []
-date = 2024-05-28T23:19:58Z
+date = 2024-05-29T20:31:13Z
 
 [Article]
 contributors = ["FileFickle"]
 gallery = ["WH2003_crash.jpg|At","WH2005_crash.jpg|Ditto","WH_fd_bc.png|With","wm_mask.png|Mask"]
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=crash.jpg}}Buddy Crash was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which would be sold to Morey's Piers and Americana Amusement Park. His mask mold was later reused for the [Wolfman]({{< ref "wiki/The Wolfman (Animatronic).md" >}}) in the [Wolfpack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) and Colonel Stonewall J. Fox in the [Confederate Critter Show]({{< ref "wiki/Confederate Critter Show.md" >}}).
+{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=crash.jpg|unitsProduced=2}}Buddy Crash was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which would be sold to Morey's Piers and Americana Amusement Park. His mask mold was later reused for the [Wolfman]({{< ref "wiki/The Wolfman (Animatronic).md" >}}) in the [Wolfpack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) and Colonel Stonewall J. Fox in the [Confederate Critter Show]({{< ref "wiki/Confederate Critter Show.md" >}}).
 
 ## History ##
 Buddy Crash along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984<ref>https://youtu.be/0l6-6ewuY70?si=GX_FAUIVmPuayYyv&t=1545</ref> and currently resides at the CEI museum.

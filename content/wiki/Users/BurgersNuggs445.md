@@ -2,12 +2,10 @@
 title = "BurgersNuggs445"
 draft = false
 tags = ["User"]
-date = 2022-11-04T20:07:37Z
+date = 2023-12-21T02:47:04Z
 
 [Article]
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++
-I make pages :imp:
-
-if you have a complaint please send it to my discord: Burgers And Nuggets#2037 if you cant message be because we're not in the same server then oh well.
+text/x-wiki

@@ -2,77 +2,70 @@
 title = "North Bergen, NJ (8101 Tonelle Ave)"
 draft = false
 tags = []
-date = 2022-10-21T17:27:40Z
+date = 2024-07-03T19:20:39Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Steven 'CEC' Master","BurgersNuggs445","ThatBoiCydalan","Cecnj98","Cheeseclassic","The 64th Gamer","Cy's Junk at School"]
-gallery = []
+gallery = ["52014594578","NorthBergenVideoWallAlmostComplete.jpg|thumb|Video"]
 +++
-**8101 Tonnelle Ave, North Bergen, NJ 07047** was a Chuck E. Cheese's Pizza that opened on December 20, 1993 with a 1-Stage, which is still open to this day.
+{{Generic|desc=Exterior before 2.0 with 1992 checkers and 2005 signage and awnings (4/15/2022) (PC: RetailRyan on Flickr)|image=52014556816 5726f526b9 4k.jpg}}
 
-This location is currently remodeling to 2.0, removing the 1-Stage, along with Edison (which has already removed the stage), East Hanover (also a 1-Stage), and Wayne (Last Road Stage in New Jersey), for a Dance Floor.
+**_8101 Tonelle Ave, Store #485**_ was a Chuck E. Cheese's Pizza that opened on December 20, 1993 with a 1-Stage, which is still open to this day.
 
-## History ##
-TODO
+The location started their 2.0 Remodel in October 2022, removing the 1-Stage, along with Edison (which has already removed the stage), East Hanover (also a 1-Stage), and Wayne (Last Road Stage in New Jersey), for a Dance Floor. The Grand Reopening occurred on December 20th, 2022.
 
 ## Stages ##
-Originally when the store opened, they had 1-Stage. They would have the 1-Stage for 28 years and 9 months, Until October 2022, when they would start the 2.0 Remodel, they are one of the several New Jersey Existing Stages to receive the 2.0 remodel at this time, including Edison, East Hanover, and Wayne (Edison removed their 1-Stage on October 4th, 2022, East Hanover has a 1-Stage, and Wayne has the last Road Stage in the state). With these 4 locations remodeling, there will only be 3 Existing Stages left in the state, Cherry Hill which is the last 2-Stage in the state, and Deptford and Middletown, which are also both 1-Stages.
+Originally when the store opened, they had the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) which included checkers around the store and a 1-Stage show. North Bergen would receive the CEC 2005 Remodel in 2008, however their exterior still included checkers. They would have the 1-Stage for 28 years and 9 months, until October 2022, when they would start the 2.0 Remodel.
+
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
+|December 1993
+|October 2022
+|One of six 1-Stages installed in New Jersey
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall 
+|October 2022
+|Still In Use
+|2021 Model
+|}
+## Gallery ##
+<gallery>
+File:52014594578 1f1ecdc653 4k.jpg|thumb|Full Stage View (4/15/2022) (PC: RetailRyan on Flickr)
+File:NorthBergenVideoWallAlmostComplete.jpg|thumb|Video Wall nearing completion (11/14/2022) (PC: Bestgamer ever)
+</gallery>
 
 ## Animatronics ##
 {| class='wikitable'
-|+
-!Animatronic
+!Animatronics
 !Manufacturing Date
 !Whereabouts
 |-
-|Chuck E. Cheese (Cyberamic)
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
 |1993
-|Currently in Use. Being removed late October 2022
+|Unknown / Destroyed
 |-
-|Helen Henny (Cyberamic)
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
 |1993
-|Currently in Use. Being removed late October 2022
+|Unknown / Destroyed
 |-
-|Mr. Munch (Cyberamic)
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
 |1993
-|Currently in Use. Being removed late October 2022
+|Unknown / Destroyed
 |-
-|Jasper T. Jowls (Cyberamic)
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
 |1993
-|Currently in Use. Being removed late October 2022
+|Unknown / Destroyed
 |-
-|Pasqually (Cyberamic)
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
 |1993
-|Currently in Use. Being removed late October 2022
+|Unknown / Destroyed
 |-
-|Wink (Cyberamic)
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
 |1993
-|Currently in Use. Being removed late October 2022
-|}
-
-## Gallery ##
-TODO
-
-## Youtube Videos ##
-TODO
-{| class='wikitable'
-!Link
-!Title
-!Published Date / Filming Date
-!Credit To
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
+|Unknown / Destroyed
 |}

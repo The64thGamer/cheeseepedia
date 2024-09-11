@@ -2,25 +2,132 @@
 title = "Classic Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2022-02-26T01:26:18Z
+date = 2024-06-11T05:01:29Z
 
 [Article]
 contributors = ["RockafireFan123","The 64th Gamer","2603:900A:1104:3200:9D77:FFF8:D3FF:9863","64.125.60.2","107.147.190.172","ShowbizMidwest","Bowling for Cheese","Sonichacker","Cheeseclassic","Cy's Junk at School","CECMentor","Livelycheese"]
 gallery = []
 +++
-## Description ##
-[[File:The 'classic stage'.jpg|thumb|744x744px]]
-The 'classic stage' (or 'standard' format for the Rock-afire Explosion) is the most commonly used format for the Rock-afire Explosion stage show. The classic stage was split into three stages, and was later on converted to the Munch's Make Believe Band 3-stages (in most cases). Stage left was used by Billy Bob & Looney Bird, as they joined the other stages in musical numbers, or on their own in special skits and songs. The center stage is what is known as 'The Rock-afire Explosion' - or the band themselves. Consisting of Dook LaRue on drums, Fatz Geronimo on keys, Beach Bear on guitar and Mitzi Mozzarella on vocals, the center stage characters would come out and perform special songs and skits with the other two stages, or on their own. Prop characters are also a key part of the center stage, consisting of Sun, Moon, ChooChoo, Frog and (in the beta RAE days) the owl. Sun and Moon would occasionally help out the band with providing backing vocals and rarely having dialogue in the showtapes.  Stage right consisted of Rolfe DeWolfe and Earl Schmerle, creating the comedic duo known as 'The Rolfe & Earl Show'. Rolfe & Earl would come out and sometimes perform special songs on their own, but mostly performed comedic skits and segments while being heckled by the other band members.
+{{Generic|image=The 'classic stage'.jpg|desc=A promotional photo of the Classic Stage in a Showbiz Pizza Place.}}
 
-## Locations ##
-The classic stage was mostly used at ShowBiz Pizza Place locations in the 1980s, but was later on sold to independent FECs and restaurants on their own terms, licensed by Creative Engineering, Inc. There are a number of classic stages still remaining today, most in private collector's possessions, but that's not to say that they can't be seen in person!
+The **_Classic Rock-afire Stage**_ was the original default stage seen through the Rock-afire's life in _Showbiz Pizza Place_ through the 1980's, and later in various Family Entertainment Centers (FECs) throughout the 90's to early 2000's.
 
-## List of Classic Rock-afire Explosion Stages in Existence / Operation Today ##
+## Design ##
+The stage featured three large stages containing separate visual scenes alongside their animatronic characters. Stage Right, Rolfe's Stage, featured an indoor scene with colorful streamers adorning the back wall. An applause sign hung above the center of the wall, which could light up during the show. A set of pots full of gold casting a rainbow was the main wood cutout piece decorating the stage, along with a Cymbal for Rolfe's animatronic to strike during performances. The floor was initially a brown carpet, before being changed to grey in later updates to the design.
 
-* Smitty's Super Service Station - Little Improv, Mississippi (privately-owned show; contact for viewing)
-* Goofy Gas Fillin' Station - Pendleton, Indiana (privately-owned show; contact for viewing)
-* Scandia Golf & Games - Kelowna, BC (currently non-operational public show)
-* DreamFactory - Degersheim, CH (operational public show)
-* Wolmi Theme Park - Incheon, KR (operational public show)
-* Billy Bob's Wonderland - Barboursville, WV (operational public show)
-* Creative Engineering, Inc. (privately-owned show; contact for viewing)
+Stage Center featured an outdoor scene with an open sky, resembling a forest. Props like the Frog, leaves, Choo-Choo, and in early iterations, the owl, were used to bring the stage's floor to life with nature. The Sun and Moon animatronics appeared on each side of the stage behind the trees, with clouds adoring faces above the characters. These details allowed for a picturesque, almost childlike depiction of the outside. Dook and Beach Bear each performed on cut down stumps, giving more idea to them being a makeshift stage out in the woods. Fatz's keyboard and the Rock-afire sign are a stark contrast to the natural aesthetic, being the most bright and modern pieces of the whole Classic stage.
+
+Stage Left features Billy Bob and Looney bird, being outside _Smitty's Super Service Station_, a recreation of a previous stage used in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). Their stage blends the best with Center Stage, featuring a background sky and leaves. Flooding the stage however are moonshine bottles, along with a 'Goofy Gas' boiler that leads into Looney Bird's blue Oil Drum. A light up gas pump is seen in the back, with the Smitty's wood store cutout prop being the main focus of the stage. The cutout represents the front of the store, with a peek into the inside, which has a car being repaired.
+
+The outside of the stage featured a red curtain spanning across all three sub-stages. Each with banners depicting the character's icons and their signatures. White curtains with gold tassels on the bottom would conceal the stages, before pulling back when a show started. The show was also raised a few feet off the ground, making it just near the height of any tables that would normally block the view. Away from the stage would feature the character spotlights hanging from the ceiling, each pointed at the main cast, excluding Sun and Moon.
+
+## Early Iterations ##
+Early versions of the Rock-afire Explosion featured different masks, different fur, a different organ front, different backdrops, and a different version of the sign. These are commonly referred to as 'Beta' stages due to their rough and incomplete feel. Several of these stages would later get the newer and more standard parts that were used throughout the 80s.
+
+## Klunk Stage ##
+In the summer of 1983, Uncle Klunk replaced Rolfe Dewolfe in various locations. This was temporary however, as Klunk was a rotating character. He was eventually phased out of locations in the mid 80's.
+
+## Santa Stage ##
+The Santa Stage was a retrofit of Uncle Klunks stage, and premiered in the fall of 1983. He would reuse Uncle Klunks mechanism, getting a new outfit and personality to match a typical depiction of Santa Claus.
+
+## Operational Classic Stages ##
+{| class='wikitable'
+!Place
+!Address
+!Availability
+!Condition
+|-
+|[Billy Bob's Wonderland]({{< ref "wiki/Billy Bob's Wonderland.md" >}})
+|5 Cracker Barrel Dr, Barboursville, WV 25504
+|Public
+|Operational, complete.
+|-
+|Creative Engineering, Inc.
+|116 Shriners Club Rd, Pomona Park, FL 32112
+|Privately owned, need contact for viewing.
+|Temporarily Non-Operational. 
+Complete + owns Klunk/Santa
+|-
+|Smitty's Super Service
+|1545 MS-48 E, Sandy Hook, MS 39478
+|Privately owned, need contact for viewing.
+|Operational, complete.
+|-
+|Volo Museum
+|27582 Volo Village Rd, Volo, IL 60073
+|Public
+|Operational, complete.
+|-
+|David Ferguson
+|Pendleton, IN
+|Privately owned
+|Operational. complete + owns Klunk/Santa
+|-
+|John Zerwas
+|Minneapolis, MN
+|Privately owned
+|Operational. complete + owns Klunk/Santa
+|-
+|Jack Turner
+|Independence, MO
+|Privately owned, need contact for viewing.
+|Operational. complete + owns Klunk/Santa
+|-
+|Andrew Lantka
+|Morris, IL
+|Privately owned
+|Operational, complete.
+|-
+|'Mike'
+|Unknown, MO
+|Privately owned
+|Operational, complete.
+|-
+|Chris Giffen
+|York, PA
+|Privately owned
+|Operational, complete.
+|- 
+|Brian Aiken
+|Orlando, FL
+|Privately owned
+|Operational, complete.
+|-
+|Finn
+|Bellingham, WA
+|Privately owned
+|Operational, complete.
+|-
+|Gene Howell
+|Unknown
+|Privately owned
+|Under Restoration, Complete + Owns Klunk/Santa
+|-
+|DreamFactory 
+|Weierwiesstrasse 8, 9113 Degersheim, Switzerland
+|Public
+|Operational, mostly complete
+(missing Looney Bird) + owns Klunk/Santa
+|-
+|Wolmi Theme Park
+|81 Wolmimunhwa-ro, Gaho-dong, Jung-gu, Incheon, South Korea
+|Public
+|Non-functioning, complete.
+|-
+|Gulliver's Kingdom
+|Temple Walk, Matlock Bath DE4 3PG, United Kingdom
+|Public
+|Operational, complete, retrofit.
+|-
+|Gulliver's World
+|Shackleton Cl, Old Hall, Warrington WA5 9YZ, United Kingdom
+|Public.
+|Operational, complete, retrofit.
+|-
+|Gulliver's Land 
+|Livingstone Dr, Milton Keynes MK15 0DT, United Kingdom
+|Private (Restoration planned 2025).
+|Non-functioning, complete, retrofit.
+Awaiting Restoration.
+|}
+*

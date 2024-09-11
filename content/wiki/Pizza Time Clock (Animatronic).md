@@ -2,13 +2,14 @@
 title = "Pizza Time Clock (Animatronic)"
 draft = false
 tags = []
-date = 2022-10-14T17:59:56Z
+date = 2024-05-21T12:49:05Z
 
 [Article]
 contributors = ["CECBowlingGreen","RedaCEC","BurgersNuggs445","Tobsters ;-;","Studio 18 Ent"]
-gallery = []
+gallery = ["Studio","Studio"]
 +++
-The **Pizza Time Clock** is a prop created by Garner Holt Productions, Inc. for Chuck E. Cheese's locations, manufactured from 1997-2012.
+[[File:Pizza time clock.png|thumb|Pizza Time Clock on a Studio C Beta]]
+The **Pizza Time Clock** is a prop created by Animation World, Inc. for Chuck E. Cheese's locations, used from 1997-2005.
 
 The Pizza Time Clock is used on the [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), Studio C Alpha Beta Mix (Studio C Alpha / Beta Mix), [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and [CU Beta 16M]({{< ref "wiki/CU Beta 16M.md" >}}). The design is different on the Beta stages.
 
@@ -37,7 +38,13 @@ The figure features 2 movements in total, as well as 1 light function.
 
 ## Stages Used In ##
 
-* [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}): Installed from 1997-2001, 2012, 2015. 47 left as of October 2022.
-* Studio C Alpha Beta Mix (Studio C Alpha / Beta Mix): Installed from 2000-2001. 1 left as of October 2022.
-* [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}): Installed from 2000-2012. 96 left as of October 2022.
-* [CU Beta 16M]({{< ref "wiki/CU Beta 16M.md" >}}): Installed in July 2020 at Darien, Illinois and October 2020 at Chicago (Kedzie), Illinois. 2 left as of October 2022.
+* [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+* Studio C Alpha Beta Mix (Studio C Alpha / Beta Mix)
+* [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
+* [CU Beta 16M]({{< ref "wiki/CU Beta 16M.md" >}})
+
+## Gallery ##
+<gallery>
+File:Studio c prototype clock. png.png|Pizza Time Clock on Studio C 2000 Prototype
+File:Studio c alpha clock.png|Pizza Time Clock on Studio C Alpha
+</gallery>

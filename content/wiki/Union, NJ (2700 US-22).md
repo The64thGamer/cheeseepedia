@@ -2,20 +2,103 @@
 title = "Union, NJ (2700 US-22)"
 draft = false
 tags = []
-date = 2023-01-31T05:44:42Z
+date = 2024-07-30T13:43:35Z
 
 [Article]
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
-gallery = []
+gallery = ["Unionnew.png|The","Unj4.jpg|Exterior","Unj7.jpg|Exterior","Unj2.jpg|Interior","Unj1.jpg|Interior","Unj3.jpg|Interior","Unj6.jpg|Exterior","Unj5.jpg|Newly","Unj98.png|Dance","1684328940441.jpg|May","1684328947784.jpg|May","1684328950872.jpg|May","1684328946058.jpg|May","1684328880006.jpg|May","1684328781251.jpg|May"]
 +++
-{{Generic|image=Unionnew.png|desc=The future Union location}}
+{{Generic|image=Unj99.png|desc=The location's exterior during its soft opening (May 15, 2023)}}
+**_Union, NJ (2700 US-22), Store #542**_ is _Chuck E. Cheese_ that opened on May 15th, 2023 with a 2019 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
-**_2700 US-22, Store #542**_ is to be a new _Chuck E. Cheese_ location opening in 2023.
+This store is a relocation of [the old Union location]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}), which opened on August 6th, 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in November 2019 with a Studio C 2000 (Studio C 2000, 16m).
 
-## History ##
-This location was a former Petco that relocated in 2019. Shortly, after a Spirit Halloween occupied the space for 2 Halloween seasons.
+## Stages ##
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|Dance Floor + Video Wall
+|May 2023
+|Still in use.
+|}
 
-In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese is coming.
+##History##
+Following the closure announcement of its original location at [1660 US-22]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}) in 2019, plans emerged to relocate the original Union CEC to the Route 22 Retail Center. However, due to COVID-19 and the company falling into bankruptcy in 2020, the plans were put to a halt until 2022. 
+
+This location was a former Petco that relocated in 2019. After the building was vacated, a Spirit Halloween occupied the space for two Halloween seasons.
+
+In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,<ref>https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA##</ref> starting out with completely gutting the interior of the former Petco.
+
+On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan **Dr. EZ_<nowiki/>' being the first guest to step foot inside the location.
+
+The grand opening date for this store was originally set for June 9th, 2023,<ref>https://www.instagram.com/p/CseIhW1r_Vw/?hl=en</ref> but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd. 
+
+The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume [from the Deptford location]({{< ref "wiki/Deptford, NJ (1500 Almonesson Rd).md" >}})<ref>[https://www.youtube.com/watch?v=8b3npxPoLSg https://youtu.be/8b3npxPoLSg]</ref>, and the Mr. Munch and Jasper costumes [from the Princeton location]({{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd).md" >}}). 
+
+In May 2024, the store would receive parts for its Trampoline Zone. 
+
+##Arcade Machines##
+###Skill###
+
+*Quik Drop
+*Carnival Cups
+*Pop The Lock
+*Sonic Blast Ball
+*Halo: Fireteam Raven (2 units)
+*Crossy Road
+*Dicey Jump
+*Wicked Tuna (2P) (2 units)
+*Mega Blaster
+*Full Tilt
+*Centipede Chaos
+*SpaceWarp 66
+*Space Invaders Frenzy
+* Black Hole
+* Transformers Human Alliance
+*Nerf Arcade
+*Ring Toss Jr.
+*Drop It Drop It
+*Alley Roller Classic (5 units)
+*NBA Hoops (2 units)
+*Nitro Trucks (4 units)
+*Eiffel Tower
+*Real Heroes Fire Rescue
+*Ice Man
+*Dodgeball Ultimate Arena
+*Disney Pixars Cars
+*Teenage Mutant Ninja Turtles (2017)
+*Super Bikes 3 (4 units)
+*Batman (2013)
+*Choppy Wood
+*Willy Crash
+*Flying Tickets
+*Harpoon Lagoon
+*H2Overdrive
+*Hoop It Up
+*Hop 'N' Stack
+*Mario & Sonic Olympic Games Tokyo (2 units)
+* Barrel of Monkeys
+* Snowball Toss
+
+###Kiddie###
+
+*Hot Racers
+*Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
+*Chuck E.'s Fun Photos Photo Booth
+*NBA Hoop Troop Jr.
+*Wild Boat
+*KC Cobra
+*Car Tuned Racing
+*[Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+*Octonauts (Peso)
+*Bigfoot Crush
+*Spydero (White)
+*Bug Cruncher
+*Zombie Land Battle
+*Big Bug Blaster
 
 ##Videos##
 {| class='wikitable'
@@ -26,4 +109,48 @@ In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese i
 |https://youtu.be/HFHh8z51elc
 |Exterior of location before construction began.
 |July 29, 2022
+|-
+|https://youtu.be/KAI7eI6Q_v4
+|An interview with the manager of the store with ribbon cutting at the end.
+|June 22nd, 2023
+|-
+|https://youtu.be/k_J_1PjymVw
+|Store Tour
+|May 2024
 |}
+
+##Gallery##
+[https://www.instagram.com/dr.ezofcec/ Spring 2023 Photos' Source]<gallery>
+File:Unionnew.png|The location before construction began
+File:Unj4.jpg|Exterior during construction (March 16, 2023)
+File:Unj7.jpg|Exterior under construction (2023)
+File:Unj2.jpg|Interior during construction (March 16, 2023)
+File:Unj1.jpg|Interior during construction (March 16, 2023)
+File:Unj3.jpg|Interior during construction (March 16, 2023)
+File:Unj6.jpg|Exterior during construction (April 8, 2023)
+File:Unj5.jpg|Newly installed signage (April 8, 2023)
+File:Unj98.png|Dance Floor during the soft opening (May 15, 2023)
+File:1684328940441.jpg|May 15, 2023
+File:1684328947784.jpg|May 15, 2023
+File:1684328950872.jpg|May 15, 2023
+File:1684328946058.jpg|May 15, 2023
+File:1684328880006.jpg|May 15, 2023
+File:1684328781251.jpg|May 15, 2023
+</gallery>
+
+## Walkarounds ##
+{| class='wikitable'
+|+
+!Head
+!Outfit & Suits
+!Accessories
+!Whereabouts
+|-
+|[Chuck 2014 (Costume Head)]({{< ref "wiki/Chuck 2014 (Costume Head).md" >}})
+|Chuck Rockstar Attire 1 (Costume Outfit)
+|None
+|In Use
+|}
+
+##References##
+<references />

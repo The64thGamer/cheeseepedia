@@ -2,13 +2,13 @@
 title = "Port Arthur, TX (3600 FM 365)"
 draft = false
 tags = []
-date = 2023-12-10T16:53:59Z
+date = 2024-04-29T21:27:51Z
 
 [Article]
 contributors = ["Cheeseclassic","SuperCreamPiper2008"]
-gallery = []
+gallery = ["Port"]
 +++
-{{Generic|image=SPP Port Arthur TX.jpg|desc=Exterior, 1980's (PC: showbizpizza.com)}}**_Port Arthur, TX (3600 FM 365)**_ was a _ShowBiz Pizza Place_ that open on January 24, 1985 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in 1994-1995 as a _Chuck E. Cheese's_ with a 3-Stage.
+{{Stub}}{{Generic|image=SPP Port Arthur TX.jpg|desc=Exterior, 1980's (PC: showbizpizza.com)}}**_Port Arthur, TX (3600 FM 365)**_ was a _ShowBiz Pizza Place_ that opened on January 24, 1985 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in September 1994 (day unknown) as a Chuck E. Cheese's _Pizza_ with a 3-Stage.
 
 ##History##
 TODO
@@ -25,7 +25,7 @@ TODO
 |-
 |3-Stage
 |1991-1992
-|1994-1995
+|September 1994
 |}
 
 ##Animatronics##
@@ -82,3 +82,8 @@ TODO
 |N/A
 |Unknown/Destroyed
 |}
+
+##Gallery##
+<gallery>
+File:Port Arthur 3-Stage.jpeg|Their 3-Stage decorated for Christmas.
+</gallery>

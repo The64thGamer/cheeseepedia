@@ -2,10 +2,10 @@
 title = "CEC Bulletin Board Website"
 draft = false
 tags = []
-date = 2022-09-04T17:57:13Z
+date = 2022-09-04T18:05:07Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-bbs.cecentertainment.com
+[https://bbs.cecentertainment.com bbs.cecentertainment.com]

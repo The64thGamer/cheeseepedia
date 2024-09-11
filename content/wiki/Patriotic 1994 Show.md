@@ -2,7 +2,7 @@
 title = "Patriotic 1994 Show"
 draft = false
 tags = []
-date = 2022-07-15T17:23:18Z
+date = 2023-07-22T23:58:22Z
 
 [Article]
 contributors = ["Ceclife13","DerekCat","Documentor"]
@@ -10,13 +10,13 @@ gallery = []
 +++
 {{Showtape
 |image=Cectvj94.jpg
-|date=July 1994
+|date=June 20, 1994
 ||r1293 = y
 |c&r93 = y
 |cusvhs = y
 }}
 
-**_Patriotic**_ was a show that released in the summer of 1994 at Chuck E. Cheese's.
+**_Patriotic**_ was released on June 20, 1994 at Chuck E. Cheese's.
 
 ##Show List ##
 #**[[File:New Graphic.png]]** **Intermission 1 - Magic**
@@ -69,8 +69,9 @@ gallery = []
 ##VJ Spot
 #**[[File:New Graphic.png]]** **Segment 4**
 ##'Party Place (Encore)'
-#**Intermission 5**
+#**Intermission 5 - Magic**
 ##CEC TV '94 ID
+##[https://en.wikipedia.org/wiki/Mind%27s_Eye_(film_series) Beyond The Mind's Eye]
 
 ##Trivia:##
 *Both versions of Party Place are reused from [Spring Break]({{< ref "wiki/Spring Break.md" >}})

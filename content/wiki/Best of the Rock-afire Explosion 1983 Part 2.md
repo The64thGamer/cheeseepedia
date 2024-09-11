@@ -2,7 +2,7 @@
 title = "Best of the Rock-afire Explosion 1983 Part 2"
 draft = false
 tags = []
-date = 2023-08-07T02:59:40Z
+date = 2023-10-27T13:22:34Z
 
 [Article]
 contributors = ["The 64th Gamer","John95"]
@@ -37,3 +37,6 @@ gallery = []
 ##Secret Agent Man
 #**Segment 7**
 ##Tomorrow
+
+##Trivia##
+* Beginning with this show, all future releases of 'Louisiana' remove the intro skit.

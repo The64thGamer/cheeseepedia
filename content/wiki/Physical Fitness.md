@@ -2,15 +2,15 @@
 title = "Physical Fitness"
 draft = false
 tags = []
-date = 2022-07-17T01:16:59Z
+date = 2023-05-05T04:15:49Z
 
 [Article]
 contributors = ["DerekCat","Studio 18 Ent","Ceclife13","The 64th Gamer"]
 gallery = []
 +++
-{{Showtape|image=Physical Fitness.png|date=February 14, 1992|cusvhs=y|c&r=y|r12=y}}
+{{Showtape|image=Physical Fitness.png|date=February 14, 1992|cusvhs=y|c&r=y|r12=y|labelname=260-0214-92 (C) S.P.T., Inc.|labelname1=CU PHYSICAL FIT/BDAY STAR (3 STAGE)|labelname2=SERIAL #00159 DECK - 9|labelname3=02/14/92 Master CYBERSTAR}}
 
-**Physical Fitness** is a showtape that was released in March of 1992 at Chuck E Cheese's locations.
+**Physical Fitness** is a showtape that was released in 1992 at Chuck E Cheese's locations.
 
 ## Show List: ##
 #**Intermission 1**
@@ -80,4 +80,6 @@ gallery = []
 ##Helen Henny's Hollywood - Arnold Schwarzenegger
 
 ## Trivia: ##
-Charlie Rockit makes an appearance during Tighten Up
+
+* Charlie Rockit makes an appearance during Tighten Up
+* This marks the final usage of the original Cyberstar 8 Minute Countdown.

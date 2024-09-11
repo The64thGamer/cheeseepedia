@@ -2,7 +2,7 @@
 title = "Funspot Arcade"
 draft = false
 tags = []
-date = 2024-08-07T02:25:14Z
+date = 2024-09-09T00:16:44Z
 
 [Article]
 contributors = ["The 64th Gamer"]
@@ -10,12 +10,16 @@ gallery = []
 +++
 {{Generic|image=Holidayinnarcademoment.png|desc=The arcade at the Holiday Inn Resort Orlando Suites (2023)}}
 
-The **_Chuck E. Cheese Arcade Management**_ (Unknown official name or subsidiary currently) is a division of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) that manages arcades in hotels across the country.
+**_Funspot Arcarde**_ is a division of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) that manages arcades in hotels and malls across the country, starting in 2022 and continuing to present day.
+
+The concept would be the first time the company focused on a chain of small arcades since 1974 with the [Atari Family Game Center]({{< ref "wiki/Atari Family Game Center.md" >}}) arcades.
 
 ## History ##
 Due to CEC being one of the largest purchasers of arcade games, alongside its training regimen for its staff to work on games, the company would begin pursuing the management of arcades in various hotels. Each deal would be worked out differently, with various designs and sets of machines fit for the hotel they reside in. The employees of the arcade itself are Chuck E. Cheese employees and managed separate from the hotel employees.<ref>[[:File:Ohsocoolsourcepart1.png]]</ref><ref>[[:File:Epicsourcepart2f34tr4tg34tg.png]]</ref> The arcades themselves typically do not use any CEC branding due to its separation from the standard locations.
 
-In May of 2022, the first CEC managed arcade would open at the Holiday Inn Resort Orlando Suites.
+In May of 2022, the first CEC managed arcade would open at the Holiday Inn Resort Orlando Suites.<ref>https://www.facebook.com/HolidayInnResortOrlandoSuitesWaterpark/videos/our-arcade-powered-by-chuck-e-cheese-is-fun-for-the-whole-family-and-guaranteed-/1100560364217769/</ref>
+
+On September 3, 2024, CEC's first press release on an arcade would be held for the [Trumbull, CT (5065 Main St)]({{< ref "wiki/Trumbull, CT (5065 Main St).md" >}}) location. This would be the first instance of a branding for the arcade division, going under 'Funspot Arcade'. CEC would note this as a concept for all ages, being a departure from their usual '3-8' age range.<ref>http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull</ref><ref>https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/</ref><ref>'3-8 age range' quote https://www.reddit.com/r/chuckecheese/comments/1d23ojk/comment/l64qalb/</ref>
 
 ## Known Locations ##
 There are more locations than what is known. It is known one arcade was installed in June of 2023 alongside that month's Orlando store refreshes.
@@ -27,7 +31,7 @@ There are more locations than what is known. It is known one arcade was installe
 !Closing Date
 |-
 |Holiday Inn Resort Orlando Suites
-|Orlando, FL (14500 Continental Gateway)
+|[Orlando, FL (14500 Continental Gateway)]({{< ref "wiki/Orlando, FL (14500 Continental Gateway).md" >}})
 |N/A
 |May 2022
 |N/A
@@ -39,8 +43,16 @@ There are more locations than what is known. It is known one arcade was installe
 |N/A
 |-
 |Springhill Suites
-|Orlando (Unclear if its the Seaworld or Convention Center one) 
+|Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) 
 |???
 |???
 |N/A
+|-
+|Trumbull Mall
+|[Trumbull, CT (5065 Main St)]({{< ref "wiki/Trumbull, CT (5065 Main St).md" >}})
+|Funspot Arcade
+|September 6, 2024
+|N/A
 |}
+
+## References ##

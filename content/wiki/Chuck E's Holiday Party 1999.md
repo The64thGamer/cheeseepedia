@@ -2,11 +2,11 @@
 title = "Chuck E's Holiday Party 1999"
 draft = false
 tags = []
-date = 2022-07-24T18:05:28Z
+date = 2023-01-31T01:15:58Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["Holiday"]
 +++
 {{Showtape
 |title = Chuck E.'s Holiday Party
@@ -17,8 +17,8 @@ gallery = []
 |cusvhs = y
 }}
 
+**_Chuck E.'s Holiday Party 1999**_ released and played during December 1999.
 
-**Chuck E.'s Holiday Party 1999** released and played during December 1999.
 This show is known for being recalled due to one of its intermissions.
 
 ## No Ads Removal ##
@@ -30,7 +30,7 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 ## 'Holly Jolly Christmas'
 ## 'White Christmas'
 # [[File:New Graphic.png]] **Intermission 1**
-## Snowboarding
+## Chuck E.'s Ski Trip
 ## The Durby
 ## Commercial Free Christmas (First release only)
 #[[File:New Graphic.png]] **Segment 2**
@@ -71,7 +71,16 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 
 **Birthday Break**: Holiday Party logo set to music for 3 minutes. This would then lead into the Birthday show.
 
+##Showtape Scans / Images:##
+<gallery>
+Holiday 1999.jpg|3-Stage Front SVHS
+Holiday 1999 Side.jpg|3-Stage Side SVHS
+File:Holiday 2001 SC Disc.jpg|Studio C DVD Scan
+</gallery>
+
 ## Trivia: ##
 
 * This is the first show released for Studio C to not feature Bird in a speaking role.
 *Brian Hagan and Robert Gotcher both make cameos in Big Band Santa.
+
+## References ##

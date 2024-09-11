@@ -2,7 +2,7 @@
 title = "Murray, UT (4425 State St)"
 draft = false
 tags = []
-date = 2023-08-04T22:42:42Z
+date = 2024-06-21T23:45:32Z
 
 [Article]
 contributors = ["CorrectorMan","SuperCreamPiper2008","Cheeseslicez"]
@@ -23,12 +23,12 @@ Murray at first had a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}
 |[The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |March 1983
 |1991
-|TODO
+|One of the 3 installed in Utah
 |-
 |[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 |1991
 |July 1997
-|TODO
+|One of the 2 installed in Utah
 |}
 
 ## History ##

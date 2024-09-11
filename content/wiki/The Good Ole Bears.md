@@ -2,7 +2,7 @@
 title = "The Good Ole Bears"
 draft = false
 tags = []
-date = 2024-08-23T20:09:57Z
+date = 2024-08-23T20:19:06Z
 
 [Article]
 contributors = ["Gussygoose"]
@@ -35,7 +35,7 @@ The bears were relocated to the western world area of the park, with a new gazeb
 
 The bears were practically untouched since the 90s, leaving them to start to deteriorate. Sawdust was caught in all their fur, and they got incredibly sunbleached.
 
-They would remain like this until 2023, when Xan (Looney's Lounge or Mr Wage Maker) would come in and give them a full restoration. 
+They would remain like this until 2023, when instagram user @xan_rockafire_fan would come in and give them a full restoration. 
 
 ## Restoration ##
 The Bears were given a full repaint, refur, new lights, and new shows, which they remain like to this day.

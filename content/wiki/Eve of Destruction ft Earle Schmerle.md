@@ -2,19 +2,10 @@
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
 tags = []
-date = 2021-12-17T15:12:30Z
+date = 2024-05-26T16:44:06Z
 
 [Article]
 contributors = ["The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++
-**_Eve of Destruction ft. Earle Schmerle**_ is a single segment showtape produced for the _[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]._{{Showtape
-|image=winterwinnerland.png 
-|date=June 28, 2013
-|digital=y}}
-
-
-##Show List:##
-#[[File:New Graphic.png]] **Segment 1**
-##Eve of Destruction
-*
+text/x-wiki

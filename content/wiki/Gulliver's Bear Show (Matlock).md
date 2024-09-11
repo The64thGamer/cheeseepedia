@@ -2,29 +2,44 @@
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
 tags = []
-date = 2022-03-01T17:03:46Z
+date = 2024-07-07T20:01:47Z
 
 [Article]
 contributors = ["The 64th Gamer","Nebbytales","Letterstolooneybird"]
-gallery = []
+gallery = ["Screenshot","Image0","IMG"]
 +++
 {{Showtape
-|image=Asdasd.png
-|date=February 14, 1991
-|raesvhs=y|labelname=260-0214-91
-(C) S. P. T. Inc.
-SPP BEST OF#3/WAVE BDAY
-Serial #0054 Deck - 9
-02/14/91 - Master CYBERSTAR}} 
+|image=nearbear.png
+|date=June 7, 1995
+|showbizreel=y}} 
 
-**_SPP Best Of 3 / Wave Bday**_ is one of the last few showtapes released for _Showbiz Pizza Place's_ hosting the _Rock-afire Explosion_.
-
-For some stores, this was the last tape used before _Concept Unification_ would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to _3-Stages._
-
-Despite the later years of _Cyberstar_ being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single _Cyberstar_ segment for stores to have. It was said at this time that due to the _Rock-afire Explosion_ being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The _Best of_ series could be seen as an encouragement of this.
-##
+TODO: Showtape description and history.
 
 ##Showtape Scans / Images:##
 <gallery>
-Screenshot_20220301-111642_Instagram.jpg|Reel
+File:Screenshot 20220301-111642 Instagram.jpg|Reel as of 03/01/2022
+File:Image0 (3).png|The original master SVHS tape.
+File:IMG 20210605 092439 549 1.jpg|Side label of the master tape alongside other CEI masters.
 </gallery>
+
+## Segments ##
+Segment 1
+
+# Una Paloma Blanca
+# Sitting On Top Of The World
+# Ain’t She Sweet
+# Carolina In The Morning
+# Day Trip To Bangor
+# Cotton Fields
+# A Couple Of Swells
+# Anything You Can Do
+# Beautiful Sunday 
+# Around The World
+# I Recall A Gypsy Woman 
+# Lily The Pink
+# When I Need You 
+# All Of Me
+# Won’t You Come Home Bill Bailey
+# In a Shanty In Old Shanty Town 
+# Summer Holiday
+# Ain’t We Got Fun

@@ -2,68 +2,309 @@
 title = "Dallas, TX (13364 Montfort Dr)"
 draft = false
 tags = []
-date = 2022-09-29T17:04:05Z
+date = 2024-08-08T20:08:05Z
 
 [Article]
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
-gallery = []
+gallery = ["DallasTXMontfortExterior2008AprilGoogleMaps.png|Street","DallasTXMontfortStarStage.jpg|A","DallasMontfortCirclesofLightWhenFirstInstalled.png|A","DallasTXMontfortExterior2014AprilGoogleMaps.png|Street"]
 +++
-**13364 Montfort Dr** is a Chuck E. Cheese's that opened on December 21, 2001 with a Studio C Beta, 32m, which is still open to this day
+{{Generic|image=Mft20.png|desc=Montfort Dr. exterior in 2020.}}
 
-This location was a relocation of the [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location, which had the first [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) and [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}), and the second [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). This store currently has a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage.
+**_13364 Montfort Dr, Store #580**_ is a _Chuck E. Cheese's_ that opened on December 21, 2001, with Studio C 2000. The store is a relocation of the [13125 Montfort Dr.]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) Chuck E. Cheese's and is one of the several locations in Texas to be used by CEC Entertainment for testing concepts in locations before debuting in other stores.
+##Stages##
+As the Montfort Dr. Chuck E. Cheese debuted with Studio C 2000, the monitor area would be made smaller for reasons unknown and would have been majorly undocumented throughout its existence.
 
-## History ##
-TODO
+Studio C would be replaced in 2010 with a more refined and short-lived Studio C concept called the [Star Stage]({{< ref "wiki/Star Stage.md" >}}). The concept aimed to be a complex but simple counterpart to Studio C that also bought personality into the showroom.
 
-## Stages ##
-Originally when the store opened, they had a Studio C Beta, 32M, they would have it for a few years, until Spring 2010, when they would get the Star Stage, this was a test stage meant to update the Studio C concept, they would have it until August of 2012, when they would receive the very first Circles of Light stage, they originally had the 32M Chuck E. that was used on the other stages, but they would remove it sometime in the next month (September 2012) and send the bot to the Port Orange, Florida location, and would use the stage platform as a live show spot, then would also remove the platform sometime later. They would also receive the prototype Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage), also known as the Dance Floor, but they would only have it for a short time. As of September 2022, they still have the COL, albeit without the bot.
+The Star Stage would be retired in 2012 and would be replaced with the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) in August. In September of that same year, the Chuck E. animatronic would be removed from the show to have its platform used for live performances. The animatronic would later be reused at the [Port Orange, Florida]({{< ref "wiki/Port Orange, FL (5539 S Williamson Blvd).md" >}}) location on its Circles of Light.
+
+To accompany the Circles of Light show, a dance floor for live performances would be placed in the arcade in 2014.<ref>[Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}})</ref> The concept would later debut once again at the [Plano, TX]({{< ref "wiki/Plano, TX (1604 Preston Rd).md" >}}) store in 2015 as the main attraction in the showroom and would later replace over 300 animatronic shows from 2015 to now. As of current the Circles of Light remains now has the addition of the dance floor due to the store's 2.0 remodel.
 {| class='wikitable'
 |+
 !Stage
 !Installed
 !Removed
-!Notes
 |-
-|Studio C Beta, 32M
+|Studio C Beta
 |December 2001
-|Spring 2010
-|
+|April 2010
 |-
 |Star Stage
-|Spring 2010
+|April 2010
 |August 2012
-|Only Star Stage.
-|-
-|Circles of Light, 32M
-|August 2012
-|September 2012
-|First Circles of Light. Bot Removed in September 2012
 |-
 |Circles of Light
-|September 2012
-|Still In Use
-|
+|August 2012
+|Still in use. 
 |-
-|Chuck E. Live Stage (Dance Floor) (Prototype Chuck E. Live Stage)
-|2014
-|2015
-|First version of the Dance Floor.
+|Dance Floor
+|2014 
+|Still in use.
 |}
 
-## Animatronics ##
+##History##
+
+### Remodels and Phases ###
+The Montfort Dr. Chuck E. Cheese's opened near the now-demolished Valley View Center Mall in a freestanding building on December 21, 2001.
+
+As the store opened in 2001 the location was subject to having the latest games package from the time, Phase III, which reused a few machines from the original [13125 Montfort Dr.]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location and introduced the Toddler Zone and a wider variety of machines.
+
+The store would receive one of the first  2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' Remodels) in 2004 alongside regular game rotations.
+
+In 2011 the store was updated and expanded on its right side. The kiddie area would be moved to the side of the showroom and would have the skills area expanded.
+
+A minor remodel in 2015 replaced the exterior signage and interior artwork with the new 'Rockstar' Chuck E. Cheese design. The remodel also saw the addition of a new games package and repainted walls.
+
+In 2019, two large windows looking in towards the kitchen were added near the restrooms. This can most likely be explained by the first few 2.0 remodels featuring an open kitchen.<ref>https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building</ref>
+
+For May 2023 the Montfort Dr. CEC would completely remodel once again during the ongoing 2017 2.0 Remodel Program (2.0 Remodel Program) and would keep the Circles of Light show.
+
+### Summer Concert Roadshow###
+On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of CEC Entertainment, and Matt Daniel of the Entertainment Department during the 2023 CEC Summer Concert Road Show (Summer Concert Road Show) event. Fans attending would also appear in photos with Mckillps at the event.<ref>[https://www.instagram.com/p/Ctz4DV7p5S-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA## https://www.instagram.com/p/Ctz4DV7p5S]</ref>
+
+##Arcade Machines##
+
+### Identified Phase III Machines<ref>https://www.youtube.com/watch?v=1hQngtiQliI</ref> ###
+
+#### Kiddie ####
+
+* Buzzy Buzzy Bee
+* Junior Whac-A-Mole
+* Toddler Sidewinder
+* Spider Stompin'
+* Junior Cyclone
+* Ely Fly
+* Kiddie Carousel
+* Barney Train Kiddie Ride
+* Bob The Builder Scoop Kiddie Ride
+* Tubbytronic Superdome Kiddie Ride
+* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+* [https://www.arcade-museum.com/game_detail.php?game_id=7847 Frantic Fred]
+* CEC Power Beat
+* Chatty Chuck E.
+* Chuck E. Cheese's Photo Ride (1997)
+
+#### Skills ####
+
+* M&P Amusements Soccer Machine
+* Skee-Ball
+* [https://www.highwaygames.com/arcade-machines/robo-bop-6093/ Robo-Bop]
+* [https://www.arcade-museum.com/game_detail.php?game_id=12700 Dino Dash]
+* [https://www.arcade-museum.com/game_detail.php?game_id=10414 Wave Runner]
+* [https://www.highwaygames.com/arcade-machines/ripper-ribbit-6111/ Ribber Ribbit]
+* [https://www.highwaygames.com/arcade-machines/wheel-fortune-ice-8126/ Wheel Of Fortune]
+* [https://www.arcade-museum.com/game_detail.php?game_id=8262 Jurassic Park]
+* [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}}) 
+* Chuck E's Rubble Bubble
+* Chuck E. Cheese's Coloring Book
+* [Chuck E. Cheese's Memory Match]({{< ref "wiki/Chuck E Cheese's Memory Match.md" >}})
+
+## Videos##
 {| class='wikitable'
-|+
-!Animatronic
-!Serial Number
+!Link
+!Description
+!Filming / Published Date
+|-
+|https://www.youtube.com/watch?v=1hQngtiQliI
+|'Go to Chuck E. Cheese' segment in [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}). The oldest currently known footage of the store. 
+|April 2002
+|-
+|https://www.youtube.com/watch?v=5iiBJA7tkZw
+|'Every Boy Every Girl' segment in [September 2007 Show]({{< ref "wiki/September 2007 Show.md" >}}).
+|2007
+|-
+|https://www.youtube.com/watch?v=HXj8srQSWqQ
+|Star Stage performing Ray of Sunshine. 
+|April-June 2010
+|-
+|https://www.youtube.com/watch?v=ygr2RQgEB6U
+|Star Stage performing This is a Party. 
+|April-June 2010
+|-
+|https://www.youtube.com/watch?v=OUfSmXRwic0
+|Star Stage performing Hey Soul Sister
+|April-June 2010
+|-
+|https://www.youtube.com/watch?v=5kY7VqkCMz4
+|Star Stage performing This is a Party. 
+|April-June 2010
+|-
+|https://www.youtube.com/watch?v=ePH6GL0ew7M
+|Star Stage exclusive skit. 
+|April-June 2010
+|-
+|https://www.youtube.com/watch?v=Ac--FjGY0i4
+|Birthday Show 2009 Performance. Notably, the show cuts off and starts again at 0:24. 
+|February 21, 2012
+|-
+|https://www.youtube.com/watch?v=5mDT1pxrBks
+|Star Stage performing We Got The Beat. 
+|May 2011
+|-
+|https://www.youtube.com/watch?v=bR9sxp9Gfds
+|Circles of Light performing Barbecue. Earliest known Circles of Light footage. 
+|August 30, 2012
+|-
+|https://www.youtube.com/watch?v=vgMA61M1rMc
+|Circles of Light performing Summer Time Groove. Earliest known footage of full Circles of Light setup. 
+|September 5, 2012
+|-
+|https://www.youtube.com/watch?v=cZg20k1laBs
+|Them Bones Live performance
+|October 2012
+|-
+|https://www.youtube.com/watch?v=DlSEsMwMQ0Y
+|Cupid Shuffle Live Show performed on Circles of Light stage. 
+|October 3, 2012. 
+|-
+|https://www.youtube.com/watch?v=OOQsx3u6l9E
+|Follow Me to Fun fan-made music video. 
+|January 8, 2013
+|-
+|https://www.youtube.com/watch?v=pX_gJ1n37WY
+|April 2013 Showtape segment filmed at Montfort.
+|April 2013
+|-
+|https://www.youtube.com/watch?v=dkN3evao4p0
+|That's What Makes You Beautiful live performance on the Circles of Light stage. 
+|June 4, 2013
+|-
+|https://www.youtube.com/watch?v=e-J2_IwSFsg
+|Some kid playing Jumpin' Jackpot
+|February 9, 2014
+|-
+|https://www.youtube.com/watch?v=oG0nZwxY_wM
+|Circles of Light performing Back in Time. 
+|June 17, 2014
+|-
+|https://www.youtube.com/watch?v=sH1wBPqg53I
+|Head Shoulders Knees and Toes Live Show being performed in front of the Circles of Light. 
+|June 17, 2014
+|-
+|https://www.youtube.com/watch?v=9h7dQJ5w7_w
+|Do The Chuck E. Live Show being performed in front of the Circles of Light. 
+|June 17, 2014
+|-
+|https://www.youtube.com/watch?v=8vNIV4Aoadw
+|2017 store tour. 
+|July 15, 2017
+|-
+|https://www.youtube.com/watch?v=xEh1R2nd-TQ
+|Circles of Light performing Chuck E's Place
+|July 18, 2017
+|-
+|https://www.youtube.com/watch?v=qgovgrNIEC0
+|Circles of Light performing Lets Have a Party
+|July 22, 2017
+|-
+|https://www.youtube.com/watch?v=S2RrMwdMNnA
+|Circles of Light performing Gamin' Time
+|July 22, 2017
+|-
+|https://www.youtube.com/watch?v=-NXCzUpSayA
+|Circles of Light performing Out of This World
+|July 25, 2017
+|-
+|https://www.youtube.com/watch?v=T-mmYri9fJI
+|Me & My Friends Live Show being performed in front of the Circles of Light. 
+|July 31, 2017
+|-
+|https://www.youtube.com/watch?v=XKVb2lUOlsc
+|Chuck E. Says Live Show being performed in front of the Circles of Light. 
+|July 31, 2017
+|-
+|https://www.youtube.com/watch?v=c7VpaGifSL0
+|Circles of Lights performing Friendship Never Ends 
+|August 3, 2017
+|-
+|https://www.youtube.com/watch?v=2d-zFUVAu-8
+|2018 store tour. 
+|July 21, 2018
+|-
+|https://www.youtube.com/watch?v=-x_bPR8INrI
+|Birthday Star 2018 performance. 
+|July 21, 2018
+|-
+|https://www.youtube.com/watch?v=__QhtovWYlE
+|Family goes to Montfort. 
+|February 2019
+|-
+|https://www.youtube.com/watch?v=nCYgrhG2E9w
+|2021 store tour. 
+|June 25, 2021
+|-
+|https://www.youtube.com/watch?v=HZAsa-NUx7s
+|July 2021 store tour.  
+|July 5, 2021
+|-
+|https://www.youtube.com/watch?v=Z59-ndjA6WM
+|Circles of Light performing Join the Party
+|August 2022
+|-
+|https://www.youtube.com/watch?v=gIgR_3M_WNw
+|Circles of Light and North Richland Hills Studio C Alpha performing Let's Be Friends
+|July 2022
+|-
+|https://www.instagram.com/reel/Ct0FMtUJHQu/
+|Characters leaving the showroom during the 2023 CEC Summer Concert Road Show (Summer Concert Road Show)
+|June 22, 2023
+|-
+|https://www.instagram.com/reel/Ct0HFYZJ4vT/
+|Song of Summer being performed at the 2023 CEC Summer Concert Road Show (Summer Concert Road Show)
+|June 22, 2023
+|}
+##Gallery##
+<gallery>
+File:DallasTXMontfortExterior2008AprilGoogleMaps.png|Street View of the store's exterior before the 2011 expansion (April 2008)
+File:DallasTXMontfortStarStage.jpg|A photo of the Star Stage at the location in 2011 
+File:DallasMontfortCirclesofLightWhenFirstInstalled.png|A photo of the Circles of Light Stage at the store when it was installed.
+File:DallasTXMontfortExterior2014AprilGoogleMaps.png|Street View of the store's exterior before the 2015 Remodel (April 2014)
+</gallery>
+##Animatronics##
+{| class='wikitable'
+! Animatronic
+!Serial
 !Whereabouts
 |-
 |Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 |155
-|Sent to Port Orange, Florida. Currently In Operation
+| Sent to [Port Orange, Florida]({{< ref "wiki/Port Orange, FL (5539 S Williamson Blvd).md" >}}); Destroyed in building demolition.
+|-
+| [Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+| N/A
+|Destroyed in April 2010
+|-
+| Star Stage Flowers (Animatronic)
+|N/A
+|Destroyed in August 2012
+|-
+|Star Stage Pasqually (Animatronic)
+|N/A
+|Destroyed in August 2012
 |}
 
-## Gallery ##
-TODO
+##Walkarounds##
+{| class='wikitable'
+!Head 
+!Outfits & Suits
+!Accessories
+!Whereabouts
+|-
+|[Chuck 2000 (Costume Head)]({{< ref "wiki/Chuck 2000 (Costume Head).md" >}})
+|Chuck 01 Attire (Costume Outfit)
+|2001 Walkaround Shoes (Costume Accessory)
+|Unknown
+|-
+|[Chuck 2010 (Costume Head)]({{< ref "wiki/Chuck 2010 (Costume Head).md" >}})
+|[Chuck Avenger 1 Attire (Costume Outfit)]({{< ref "wiki/Chuck Avenger Attire (Costume Outfit).md" >}})
+|None
+|Unknown
+|-
+|Chuck 2013 1 (Costume Head)
+|Chuck Rockstar Attire 2 (Costume Outfit)
+|None
+|In-Store?
+|}
 
-## Videos ##
-TODO
+##References##
+<references />

@@ -2,70 +2,119 @@
 title = "ShowBiz Pizza Place"
 draft = false
 tags = []
-date = 2023-06-26T18:22:08Z
+date = 2024-08-22T23:47:14Z
 
 [Article]
 contributors = ["CorrectorMan","RockyRhoad07","Saan1ty","PizzaEntertainmentFanX","The 64th Gamer","DerekCat","Stripes","CEC1988"]
 gallery = []
 +++
-[[File:ShowBiz Pizza Place 1980 Logo.svg|thumb|Showbiz Pizza's logo used from 1980 until the end of Concept Unification. (PC: Wikipedia)]]
-**_Showbiz Pizza Place**_ was a FEC chain that was founded on March 3, 1980 in [Kansas City, Missouri]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}), and was defunct by March 1993 (day unknown) due to [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). Showbiz was known for the Rock-afire Explosion, a band created by Aaron Fechter of Creative Engineering. Showbiz had a total of 248 locations ever opened, with the last one being in [Richmond, Virginia]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}). 
+{{Generic|image=ShowBiz Pizza Place 1980 Logo.svg|desc=ShowBiz Pizza's logo used from March of 1980 to 1986. A modified version of the Pizza Show Biz Logo}}
 
-## Prehistory (1979-1980) ##
-As Pizza Time Theatre began offering franchises, it attracted Robert L. Brock the founder of SPP, and in June 1979, Nolan Bushnell and Brock signed an agreement to open as many of 280 locations in 16 states. In late 1979, he noticed other companies making more advanced animatronics, especially Creative Engineering. By December, Showbiz Pizza Place Inc., giving birth to the Showbiz Pizza name. Months later, the first location opened in Kansas City.
+**_ShowBiz Pizza Place**_ (Later known as **_Showbiz Pizza**_ & originally known as **_Pizza Show Biz**_) (Known In Mexico as **_ShowBiz Pizza Fiesta**_) was a chain of Family Entertainment Centers founded by Robert L. Brock of Topeka Inn Management & Aaron Fechter of [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) in 1980. The FEC opened it's first location on March 3rd 1980 in [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}})  
 
-## Rise of Showbiz (1980-1984/1985) ##
-Instead of the Rock-afire Explosion (which was still in development) they had the Wolf Pack 5, which debuted in 1978 at IAAPA. Instantly after opening, Showbiz Pizza was sued by Nolan Bushnell over a contract breach. The judge ruled in favor of Pizza Time Theatre in March 1980, forcing SPP to pay some profits to them. Showbiz then proceeded to open over 200 locations throughout 1980 and 1984, marking a very successful chain, and ultimately became a rival of Chuck E. Cheese. According to a training video dating 1991, they would open location MILES from each other. By 1983, they were at their peak, but later that year, they began to slow down, and by Q4 1983, Showbiz was forced to close a location for the first time, which was in Abilene, Texas. Between 1984 and 1985, they were forced to close down so many locations. Their only possible decision at this point was to purchase their long time rival, Pizza Time Theatre in May 1985, which declared bankruptcy a year prior on March 28, 1984.
+The FEC would survive through the 1980's after buying out Pizza Time Theatre from 1984 to 1985. The Brand of ShowBiz Pizza would go defunct in 1993 during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) at [Pasadena, CA (3737 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}). The company is currently around today as CEC Entertainment, LLC. 
 
-## Formation of Showbiz Pizza Time Inc. (1986-November 1989) ##
-[[File:ShowBiz Pizza 1989 Logo.svg|thumb|Showbiz Pizza's logo used from 1986 until the end of Concept Unification.]]
-In late 1985, both companies were getting ready to merge. More locations were opened, and by early 1986, Showbiz Pizza Time Inc. was formed. As a result, ties began to sour with SPT and CEI. The CEI 1986 Liberty Tape Party proved this, and as a result, SPT suspended CEI from the entertainment division until Fall 1987. Chuck E. Cheese himself began appearing at restaurants as well. They retrofitted some locations with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and this proved to be popular. As a result, a prototype CU stage was created in 1988/1989, but was rejected by executives. By November 1989, Showbiz Pizza Time Inc. completely cut ties with Creative Engineering, and Concept Unification had begun.
+## History ##
 
-## Concept Unification and Aftermath (November 1989-March 1993/Today) ##
-The first location to receive Concept Unification was [Dallas, TX]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location in November 1989. Concept Unification involved changing the Rock-afire Explosion to the 3-Stage, removing all traces of Showbiz, and changing the place's name to Chuck E. Cheese's Pizza. Over 150 locations were affected, and by March 1993, the final location had reopened as a Chuck E. Cheese's Pizza, ending Showbiz Pizza's 13 year history. By later in 1993, Showbiz Pizza Time Inc. finalized Concept Unification, making the name 'Showbiz Pizza' extinct. The Rock-afire Explosion's story, however, was not over yet. They began to appear in other FECs like Pistol Pete's Pizza, Billy Bob's (which were basically 3-Stages converted back to RAEs), and Billy Bob's Wonderland. Most of these however closed, and Billy Bob's Wonderland has the very last public RAE in operation.
+### Pre-History (1979-1980) ###
+In late 1979, after the opening of [Stockton, CA (4555 N Pershing Ave)]({{< ref "wiki/Stockton, CA (4555 N Pershing Ave).md" >}}), [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) would sign a deal with Topeka Inn Management to open around 285 PTTs by 1984<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf</ref>. The deal would become signed & agreed upon by December 1979, Forming Pizza Show Biz. Somewhere from December 1979 to February 1980, Robert L. Brock (The founder & CEO of TIM) would go to tour [the workshop of Creative Engineering]({{< ref "wiki/Creative Engineering Original Company Building.md" >}}). Bob Brock would immediately decide to cut ties with PTT Inc. & hire Creative Engineering to develop animatronics for a new PTT styled Family Pizza Arcade chain. The first Pizza Show Biz owned PTT in [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}) would be turned into a ShowBiz Pizza Place. ShowBiz corporate would also assign Creative Engineering with 40% of the companies assets & earnings.
 
-## Timeline ##
+### Pre-Merger (1980-1985) ###
+Creative Engineering was working on a new show for ShowBiz Pizza Place but ShowBiz Corporate had very little time to open the location, so Creative would instead install a [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) into the store. The store became a success & ShowBiz planned to open more locations, the first being in [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) with the first ever [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}). Pizza Time Theatre would later sue ShowBiz & Bob Brock for theft of trade secrets & breaking of contracts. While ShowBiz corporate would continue to fight the lawsuit against PTT, Both chains would continue to open locations with ShowBiz replacing their older Beta Animatronics with newer models & start to install new decor stores, ShowBiz would also decide to set their [Head Quarters in Irving Texas]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}). Creative Engineering would also start to develop Gen 2 versions of bots such as 2nd Generation Mitzi Mozzarella (Animatronic) (Mitzi) or 2nd Generation Dook Larue (Animatronic) (Dook). One test would be [Uncle Klunk]({{< ref "wiki/Uncle Klunk (Animatronic).md" >}}), who was a character who would be setup in a store in replacement of Rolfe & would later be removed and set to a new location. Though both chains would survive through the early 80's, The FECs were about to face their biggest challenge, as In 1983, after the over abundance of Video game arcades & low effort consoles, The video game crash would start to happen which heavily effect ShowBiz Pizza Places and would cause them to have to close several locations to get by. ShowBiz & PTT also settled the lawsuit out of court, agreeing to pay PTT a percent of income. In 1984, Pizza Time Theatre would file for Chapter 11 bankruptcy & after a 2 year long process, was bought by ShowBiz Pizza Place.
+
+### Post-Merger (1985-1993) ###
+[[File:ShowBiz Pizza 1989 Logo.svg|thumb|ShowBiz Pizza's logo used from 1986 until the end of Concept Unification.|282x282px]]
+In Late 1985, Pizza Time Theatre became a part of ShowBiz Pizza Place, Forming Showbiz Pizza Time Inc. . The ShowBiz Pizza tagline also went from 'Share The Fun' to 'Where A Kid Can Be A Kid'. ShowBiz Pizza Place would rename to ShowBiz Pizza in 1986, this was to give the Chuck E. Cheese's (CEC) & SPP brands more consistency. Several ShowBiz stores would also open with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) stages. In 1986, Showbiz's Logo would change into a similar one to the Chuck E. Cheese's Pizza logo used at the time. ShowBiz would also start to kick Creative Engineering out of creative control of ShowBiz. ShowBiz started producing its own Showtapes & programmings. Creative would take Showbiz corporate's exclusivity to The Rock A-Fire Explosion, which would make ShowBiz to start producing ShowBiz Pizza Campground stage retrofits as replacements for classic 'Smitty's' stages. ShowBiz also started to created new creative decisions for ShwowBiz stores, One of which was [The 'Yogi Bear Test Stage']({{< ref "wiki/Yogi Bear Stage.md" >}}). The Yogi Bear stage was ShowBiz's first attempt at replacing characters in The Rock A-Fire for other ones (This stage swapping out Billy Bob & Looney Bird for the Hanna Barbera Characters, Yogi Bear & Boo Boo). In 1987/1988, ShowBiz would let Creative produce Showtapes again but still continued to program shows. The only non-CEI related thing to happen from 1985 to 1989 was the creation of ShowBiz Pizza Fiesta in Mexico.
+
+In 1989, Showbiz corporate would go to Creative Engineering & attempted to talk CEI into giving them the license to The RAE. Of Course, CEI would refuse to give them the license & Showbiz would go back to the drawing board to replace all existing SPP/SP RAE shows into new retrofits. Several ideas were though up, but the final choice was to replace all CEI SPP/SP shows into Pizza Time Players/Chuck E. Cheese's Pizza styled shows in a process called [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). Later, The Pizza Time Players would become Munch's Make Believe Band starting at the first CU store on [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}). From 1990 to 1993, ShowBiz stores would be renamed & retrofitted into Chuck E. Cheese's Pizzas. The last store to gain Concept Unification would be at [Pasadena, CA (3765 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}). Even though the ShowBiz Pizza brand would go extinct, The Company would still remain & is still around to this day as CEC Entertainment LLC.
+
+### Aftermath & Legacy (1993-Present) ###
+ShowBiz Pizza's legacy & History would inspire the creation of ShowBiz Pizza.com in 1999, which would be the start of the animatronic fandom on the internet. Creative Engineering still continued to produce Classic & 'New' RAE shows for FECs from 1993 to the mid 2000's, currently CEI only produces showtapes & videos relating to the RAE & CEI hasn't interacted with SPP since 1989. Finally, SPT Inc. would continue to produce new Cyberamic shows until 1997, when they would start to produce Studio C stages. SPT would rename to CEC Entertainment Inc. in 1998 & would later become CEC Entertainment LLC in 2020. CEC Ent would only publicly mention ShowBiz Pizza Place in anniversary Shows like the 25th Anniversary show or the 40 Years of Fun show. SPP Stages have dwindled thanks to Studio C stages, COL, & 2.0, with only 1 remaining in classic form & 1 CU 1-Stage Publicly in stores.
+
+## Stages Used in Stores ##
 {| class='wikitable'
-|+
-!Year
+!Name
+!Installed from
+!Last Removed at
 !Notes
 |-
-|1980
-|Showbiz Pizza Place opens its first location in Kansas City, Missouri.
+|[Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}})
+|Never Installed, [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}})
+|Never Installed
+|Never Installed, would have been installed if location was still a PTT.
 |-
-|1981
-|Locations begin to open in the masses due to them going public.
+|[Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}})
+|March 3rd 1980 at [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}})
+|[Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}})
+|Only 1 Installed. Last Wolf Pack 5 installed at a public location.
 |-
-|1982
-|Showbiz moved its headquarters to Irving, Texas.
+|[Classic Stage]({{< ref "wiki/Classic Stage.md" >}})
+|1980-1993
+|[Pasadena, CA (3765 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}) (Replaced with a 3-Stage)
+|Last Stage type made by CEI. Showbiz Pizza Campground, Klunk Stage, [Yogi Bear Stage]({{< ref "wiki/Yogi Bear Stage.md" >}}), Santa Stage, & Liberty Stage created for some Showtapes.
 |-
-|1983
-|Showbiz closes its first location in Abilene, Texas.
-|-
-|1984
-|Brock Hotel Corporation, the parent company of SPP, begins to purchase Pizza Time Theatre.
-|-
-|1985
-|Same as 1984, but the purchase is complete.
-|-
-|1986
-|PTT and SPP merge into Showbiz Pizza Time Inc., and SPT suspends CEI from making shows.
-|-
-|1987
-|Some locations begin to be replaced with Chuck E. Cheese content.
-|-
+|[Tropical Stage]({{< ref "wiki/Tropical Stage.md" >}})
 |1988
-|SPP only opens 2 locations this year, and a prototype is produced.
+|
+|Retrofit of The Classic Stage.
 |-
-|1989
-|Concept Unification begins, and SPT cuts ties with Creative Engineering.
+|[Country Stage]({{< ref "wiki/Country Stage.md" >}})
+|1983
+|
+|Retrofit of the Classic Stage.
 |-
-|1990
-|Showbiz Pizza's last location opens in Richmond, Virginia.
+|[Pastel Stage]({{< ref "wiki/Pastel Stage.md" >}})
+|1980's
+|
+|ShowBiz Pizza Fiesta Stage.
 |-
-|1991/1992
-|Concept Unification affects over 150 locations and reaches its peak.
+|[Magic Stage Prototype]({{< ref "wiki/Magic Stage Prototype.md" >}})
+|1985/1986
+|
+|Stage was meant as a replacement for RAE shows.
 |-
-|1993
-|Concept Unification reaches its last location, ending their history.
+|Chuck E.'s House (Chuck E.'s House (Rocker Stage))
+|1987-1990
+|[Rockford, IL (3600 E State St)]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}})
+|Only CEC stage used at non-CU ShowBiz stores. Last Store at Rockford was a former ShowBiz Pizza Place.
+|-
+|[Concept Unification Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}})
+|1989 or early 1990
+|[Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}})
+|Short-lived installation before the conversion to the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) and system wide rollout of [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}).
+|-
+|[Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1990-1994
+|Still in Use
+|Last SPP stage in use. Only 4 Left. Last SPP Stage. 2nd CEC Stage used in SPP stores.Only existing SPP exclusive Stage. Only Stage that was used at non former ShowBiz's.
+|-
+|
+|
+|
+|Other Stages were produced for former ShowBiz Stores.
 |}
+
+## FEC's Owned/Created By ShowBiz ##
+{| class='wikitable'
+!Name
+!Founded
+!Defunct
+!Notes
+|-
+|**_ShowBiz Pizza Fiesta**_
+|1984/1985
+|1990's
+|Mexican Branch of SPP stores. Only FEC created by ShowBiz before full merger.
+|-
+|[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) / [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}})
+|1977 (PTT), 1984-1985 (CEC)
+|1984-1985 (PTT), Still Around (CEC)
+|Bought in waves by SPP. Replaced the SPP brand from 1989 to 1993. One of the Last Animatronic FEC's left.
+|-
+|Monterey's
+|
+|
+|
+|}
+
+## References ##

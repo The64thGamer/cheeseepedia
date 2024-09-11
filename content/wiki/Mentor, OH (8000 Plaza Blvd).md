@@ -2,51 +2,95 @@
 title = "Mentor, OH (8000 Plaza Blvd)"
 draft = false
 tags = []
-date = 2022-09-15T04:16:47Z
+date = 2024-06-13T16:48:45Z
 
 [Article]
 contributors = ["EagleScout610","Documentor","Rexburg090","ChuckECool","CEC Tinley","ThatBoiCydalan","Estsproduction","CECMentor","AstridMascotFan2005"]
 gallery = []
 +++
-[[File:Mentor 2022.jpg|thumb|Mentor's Exterior, 2022]]
-**Mentor, OH (8000 Plaza Blvd).** is a Chuck E. Cheese's located across the street from Great Lakes Mall in Mentor OH. It opened as a Pizza Time Theatre, then became one of the 7 Pizza Time Theatres rebranded to Marc's Funtime Pizza Palace. 
+{{Generic|image=Mentor 2022.jpg|desc=Mentor's Exterior, 2022}}
+**_8000 Plaza Blvd, Store #743**_ is a Chuck E. Cheese that opened on July 20, 1998, with a 1-Stage and is still open to this day.  
 
-## History ##
+This location should not be confused with Mentor, OH (7900 Plaza Blvd #170a) which opened in June 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a C-Stage (C-Stage.)Their C-Stage was then retrofitted in 1991 and later got destroyed in 1996.
 
-### Pizza Time Theatre ###
-Mentor opened as a Pizza Time Theatre in the 1980's, and had a balcony stage. It also featured The King, and Doli Dimples. At some point the balcony was converted to a C Stage. 
+##History ##
+Mentor opened on July 20th, 1998. Mentor would be the second to last new store to open with a Cyberamic stage, as Studio C stages were being installed in stores by this point. Mentor opened with the 1993 remodel which included Record Posters and other decor, SkyTubes and Toddler Zone, and the 1-Stage. In 2006, Mentor received the 2005 update to the 2003 remodel removing older decor for newer decor, removing Showroom Walls, removed Toddler Zone, relocated the 1-Stage, and relocated some parts of the store like the kitchen area, salad bar, some games and added newer games, booths, and tables. Mentor expanded in 2009 to fit in more games, booths, and tables. On May 13 2024, Mentor would begin it's CEC 2018 2.0 Remodel Program (2.0 Remodel.)  
 
-### Marc's Funtime Pizza Palace ###
-In the late 80's Marc Glassman, owner of the Marc's grocery chain, purchased the Mentor Pizza Time Theatre when the franchise owner left the area and the store was converted to Marc's Funtime Pizza Palace. Like the other Marc's locations, Mentor location would keep the exisiting stage, but convert the characters. The location would end up closing in 1996.
-
-### Chuck E. Cheese's ###
-Mentor would re-open as a CEC in 1998 up the plaza from its old location. The store would be the last new store to open with a Cyberamic stage, as Studio C Alphas were being installed in stores by this point. The location got the 2005 remodel in 2006, and expanded in 2009. 
-
-## Stage History ##
+##Stages##
+Originally, when this store opened it featured Chuck in his tuxedo suit. It was later replaced with Cool Chuck and currently Avenger clothing. 
 {| class='wikitable'
 |+
 !Stage
-!Years
-!Status
-!
+!Installed
+!Removed
+!Condition
 |-
-|Balcony Stage
-|1980's
-|Converted to C Stage
+|[1-Stage]({{< ref "wiki/1-Stage.md" >}})
+|July 1998
+|May 13, 2023 
+|Good condition until removal. Movements like Chucks eyelids and Munches hands stopped working after a while, along with miscellaneous less noticeable movements such as Jaspers eyes. 
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
+|May, 14 2024
+|Still in Use
 |
 |-
-|C Stage
-|1990's
-|Converted to Marc's Stage
+|Video Wall
+|May 2024
+|Still in Use
 |
+|}
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+!Whereabouts
 |-
-|Marc's Stage
-|1990's-1996
-|Closed in 1996
-|
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|N/A
+|Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
 |-
-|1 Stage
-|1998-Present
-|Operating.
-|
+|Guest Star / Helen Henny (Cyberamic) (Guest Star/Helen Henny (Cyberamic))
+|N/A
+|Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|N/A
+|Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|N/A
+|Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|N/A
+| Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|N/A
+|Removed. Saved by a private collector on May 14, 2024.
+|}
+
+##Gallery##
+[https://www.instagram.com/ohio_cec_mentor/ An account] ran from 2016 to 2018 by Mentors employees, showcasing multiple games, the animatronics, and backstage photos.
+
+##Videos ##
+{| class='wikitable'
+|+
+!Link 
+!Filming Date
+!Publish Date
+|-
+|[https://www.youtube.com/watch?v=2_xjOHmB65A]CEC Up close and Personal with the last originally produced 1-Stage (Mentor, Ohio)
+|November 2022
+|Nov 27, 2022
+|-
+|[https://www.youtube.com/watch?v=b76sk5FaEAs <nowiki>[2]</nowiki>] A tour of the store.
+|August 30, 2022
+|Sep 2, 2023
+|-
+|[https://www.youtube.com/watch?v=aceFZsp4b_A <nowiki>[3]</nowiki>] 'Chuck E.'s Middle Name' performed on Mentors 1-Stage.
+|August 30, 2022
+|Sep 20, 2023
 |}

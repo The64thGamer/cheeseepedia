@@ -2,47 +2,133 @@
 title = "Jasper T. Jowls (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-09-07T16:23:33Z
+date = 2024-06-30T19:10:45Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]
-gallery = []
+gallery = ["Pttcj.jpg|How","Rockjasp.png|1987","Shej.png|1994","Resmechj.png|Restored"]
 +++
-The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's.
-
-It is a pretty simple figure, having only 8 movements. The Chuck E. Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band.
+[[File:Lansjasp.png|thumb|Modern Jasper Cyberamic.]]The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
 
 ## History ##
-TODO: History
+After the second Pizza Time Theatre opening in 1978, it was decided that Fantasy Forest Manufacturing started creating their figures in a specified way as the previous iterations were in different styles. By the time the [Concord, CA]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) location opened in 1979, they have completed their first batch of Cyberamics. 
 
-## Movements ##
-The bot features 8 movements in total
+### Manufacturing ###
+In November of 1983, production of Cyberamics would be ceased, as Pizza Time Theatre was on the brink of bankruptcy. 
+
+When Showbiz Pizza purchased Pizza Time's assets in 1985, they would reuse shows from closed Pizza Time Theatres to save materials while opening new locations. In 1991, they finally outsourced production of Cyberamics to Kinetix Group Inc, later Animation World Inc. 
+
+The final Chuck E. Cheese's location to open when a new set of Cyberamics would end up being [Mentor, Ohio]({{< ref "wiki/Mentor, OH (8000 Plaza Blvd).md" >}}) in 1998.
+
+## Design ##
+As Fantasy Forest simply translated the previous portrait designs into Cyberamic forms, Showbiz Pizza Time would do something much more. 
+
+In 1986 the Jasper Cyberamic would receive its first major costume change designed by Jul Kamen. Jasper is given a larger hat and a new Yellow and Black shirt with patches. This change lasted up until 1990 when Jul Kamen redesigned all of Munch's Make-Believe Band and created the standard Jasper design for all appearances. The new design featured Jasper wearing red shoes, a cow print shirt, and overalls.
+
+The final design to be concepted and used on the Cyberamic would only be used at [one location]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) in 1994, as it was one of the test outfits for a complete outfit overhaul for Munch's Make-Believe Band created by Shelly Atkins. Jasper's design incorporated a long sleeve green shirt, black pants, and boots. For unforeseen reasons this design never made out out of the initial test location.
+
+## Movement Rosetta ##
 {| class='wikitable'
-|+
-!Movement
+|+R12 Rosetta
+!Terminal #
+!Header #2
 |-
-|Mouth
+|TB1, 1-2
+|MOUTH
 |-
-|Head Up
+|TB1, 3-4
+|HEAD L.
 |-
-|Eye Turn Right
+|TB1, 5-6
+|HEAD R.
 |-
-|Eye Turn Left
+|TB1, 7-8
+|HEAD UP
 |-
-|Head Turn Right
+|TB1, 9-10
+|EYES R.
 |-
-|Head Turn Left
+|TB1, 11-12
+|EYELIDS
 |-
-|Guitar Strum
+|TB1, 13-14
+|HAND
+|-
+|TB1, 15-16
+|EYES L.
+|}
+{| class='wikitable'
+|+C & R Rosseta
+!
+!
+!
+!Header 2 $84
+|-
+!
+!LED
+!TB1
+!JASPER 7/6
+|-
+|0
+|1
+|1, 2
+|A  MOUTH
+|-
+|1
+|2
+|3, 4
+|H HEAD L
+|-
+|2
+|3
+|5, 6
+|G HEAD R
+|-
+|3
+|4
+|7, 8
+|P HEAD UP
+|-
+|4
+|5
+|9, 10
+|I  EYES R
+|-
+|5
+|6
+|11, 12
+|N EYELIDS
+|-
+|6
+|7
+|13, 14
+|T HAND
+|-
+|7
+|8
+|15, 16
+|V EYES L
 |}
 
 ## Stages Used In ##
 
-* Portrait Stage: Installed from 1979-1980.Went extinct in 1991 at Odgen, Utah.
-* Balcony Stage: Installed from 1980-1986. Went extinct in 2001 at Lake Forest, CA.
+* Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
+* Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.
 * Rocker Stage: Installed from 1987-1990. Went extinct on June 12, 2022 at Rockford, IL.
-* C-Stage: Installed from 1989-1990?. Went extinct in 2003 at Tacoma, WA.
-* Road Stage: Installed from 1990-1992. 10 left as of September 2022.
-* 2-Stage: Installed from 1992-1993, 1996-1997. 21 left as of September 2022.
-* 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 30 left as of September 2022.
-* Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. 1 left as of September 2022
+* C-Stage: Installed from 1989-1990? Went extinct in 2003 at Tacoma, WA.
+* Road Stage: Installed from 1990-1992. 1 left as of June 2024.
+* 2-Stage: Installed from 1992-1993, 1996-1997. 4 left as of June 2024.
+* 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
+* Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 2023 at Lynnwood, WA.
+
+## Gallery ##
+<gallery>
+File:Pttcj.jpg|How most Jasper Cyberamics looked before 1986
+File:Rockjasp.png|1987 Jul Kamen outfit
+File:Shej.png|1994 Shelly Atkins outfit
+File:Resmechj.png|Restored mechanical skeleton of Jasper
+</gallery>
+
+## Trivia ##
+
+* Originally, Jasper's guitar neck arm was controlled by a cylinder on the guitar neck as opposed to the inside of his arm, this was changed in 1982.

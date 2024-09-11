@@ -2,13 +2,92 @@
 title = "September 2014 Show"
 draft = false
 tags = []
-date = 2021-12-10T13:06:48Z
+date = 2024-09-02T00:18:16Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","MultiMonorail","John95"]
 gallery = []
 +++
+{{Showtape
+|title = Chuck E. Cheese's Summer 2014 Show
+|image=September 2014.png
+|date=September 1st, 2014
+|studioc=y
+|studiochd=y
+|dvdcu=y
+|dvdcyber=y
+}}
+
+**_September 2014**_ is the Fall show released September 1st 2014 featuring six songs
+
+This was created to play from September 1st  - November 16th 2014. This show features Six songs and a new live show Them Bones programmed for non Weigl stores. 
+
+##Show List:##
+
+# [[File:New Graphic.png]] **Skit 1**
+## CEC Music Video - 'Safe & Sound' (Chuck E.)
+# [[File:New Graphic.png]] **Intermission 1**
+## CEC Sketch - 'Justin the Pranker Part 1'
+## Guest Spot - Veggie Tales - 'The Perfect Puppy'
+## CEC Promo - 'Playtime Spot'
+# [[File:New Graphic.png]] **Skit 2**
+## CEC Music Video - 'You Gonna Fly' (Jasper)
+# [[File:New Graphic.png]] **Intermission 2**
+## Guest Spot - Caspar Babypants - 'Stump Hotel'
+## Show Break - 'Flyover'
+## CEC Sketch - 'Justin the Pranker Part 2'
+# [[File:New Graphic.png]] **Skit 3** 
+## CEC Music Video - 'Trouble' (Helen)
+# [[File:New Graphic.png]] **Intermission 3** 
+## Guest Spot - Veggie Tales - 'Together'
+# [[File:New Graphic.png]] **Skit 4**
+## CEC Music Video - 'Maniac' (Chuck E.)
+# [[File:New Graphic.png]] **Intermission 4**
+## Guest Spot - Caspar Babypants - 'Stompy The Bear'
+## CEC Promo - 'Playtime Spot'
+## Show Break 2 - 'Vintage NASA'
+# [[File:New Graphic.png]] **Skit 5**
+## CEC Music Video - 'Best Song Ever' (Chuck E.)
+# [[File:New Graphic.png]] **Intermission 5**
+## CEC Sketch - 'Justin the Pranker Part 3'
+# [[File:New Graphic.png]] **Skit 6**
+## CEC Music Video - 'Because We're Friends'
+# [[File:New Graphic.png]] **Intermission 6**
+## CEC Sketch - 'Coconuts'
+## Show Break 3 - 'NYC Night Drive'
+
+##Live Shows:##
+
+*Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
+*Spanish Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
+*Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
+*Head Shoulders Knees and Toes (3stage, Cyberamic, Studio C,Weigl)
+*Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
+*Happy and You Know It (3stage, Cyberamic, Studio C,Weigl)
+*Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
+*[[File:New Graphic.png]]Them Bones (3stage, Cyberamic, Studio C,Weigl)
+
+##Official Releases:##
+*[https://youtu.be/IXAnFlTVvj8?t=1438 'Because We're Friends' on YouTube] 
+
 ##Showtape Scans / Images:##
 <gallery>
+IMG_20200306_165142_872.jpg|Studio C DVD
 s-l1600 (5ssss).jpg|CEC-Stage DVD
 </gallery>
+
+##Trivia##
+
+* This was the final CEC showtape for the following:
+** To use song covers.
+** To include VeggieTales intermissions.
+** To include a new appearance from Marvin the Technology Guru.
+** To feature the original Rockstar Chuck puppet.
+* Them Bones was programmed for Existing Stages, and Studio C SD stores.
+* The footage for 'Safe and Sound' is reused from [April 2013]({{< ref "wiki/April 2013 Show.md" >}}) originally being used during the song 'Take a Walk'. Though there were originally plans to make unique footage for it featuring the Chuck puppet.
+* The DVD Menu for Existing Stages uses the instrumental for Because We're Friends
+* On the Studio C SD DVD between Do The Chuck E. and _Rockstar Birthday 2014_ 2 minutes and 46 seconds of behind the scenes material for Fall 2014 are shown. This includes behind the scenes footage for Pasqually's shot in _Because We're Friends,_ Munch's up-close shot in _Coconuts,_ and a shot of a scrapped video for _and sound._ 
+* On the Studio C SD DVD after _Rockstar Birthday 2014_ and before _Rockstar Birthday 2014_ a 10 minute and 38 second loop of the CEC TV footage shown between songs in [January 2012]({{< ref "wiki/January 2012 Show.md" >}}) are played. 
+* This was the final show where The Chuck E. Cheese Show (Summer 2014) Was allowed as a generic show.
+* Hidden at the end of the Studio C SD copy of September 2014 'Chaze Theme' plays from [September 2012]({{< ref "wiki/September 2012 Show.md" >}}) with a picture of Matt Daniel and his dog.
+* 'Because We're Friends' were written by Eric Neal.

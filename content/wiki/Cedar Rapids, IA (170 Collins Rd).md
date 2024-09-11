@@ -2,86 +2,138 @@
 title = "Cedar Rapids, IA (170 Collins Rd)"
 draft = false
 tags = []
-date = 2023-05-12T21:57:07Z
+date = 2023-11-15T21:19:40Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]
-gallery = []
+gallery = ["cedarapids1992.png|Cedar"]
 +++
-**_170 Collins Rd NE**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened on November 26, 1981 with a Rock-Afire Explosion, which is still open to this day.
+{{Generic|desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg}}
+**_170 Collins Rd NE, Store #956**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened on November 26, 1981 with a Rock-Afire Explosion, and closed in November 2013.
 
 This converted to a Chuck E. Cheese in 1992, and closed in November 2013.
 
-It was located across from the Lindale Mall.
-
-It was located next to a Kmart along with other businesses.
+It was located next to a Kmart along with other businesses across from the Lindale Mall.
 
 ## Stages ##
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had.
 
-In 1992, Cedar Rapids would undergo Concept Unification, turning the Rock-afire Explosion into Munch's Make Believe Band. It was one of 4 Showbiz Pizzas in Iowa to undergo Concept Unification.
+In 1991, Cedar Rapids would undergo Concept Unification, turning the Rock-afire Explosion into Munch's Make Believe Band. It was one of 4 Showbiz Pizzas in Iowa to undergo Concept Unification.
 
 In November 2013, the location closed and the 3-Stage was removed.
 
 This location is the 3rd Showbiz Pizza to open in Iowa and the 40th Showbiz Pizza overall.
 ##History##
-Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iowa with the Rock-afire Explosion show and was an expansion of the nearby Kmart which originally opened on November 19th, 1970. In 1988-1989, Cedar Rapids would receive a minor remodel removing the old Showbiz decor, adding some newer decor, and the Billy Bob stage layout being changed. Strangely, the exterior sign was not changed. In 1992, Cedar Rapids received Concept Unification and the 1988 Remodel removing older decor for newer decor, added Blue and White awnings, added checkers, received an exterior and sign change, and converted the Rock-afire Explosion band into the 3-Stage. Cedar Rapids underwent the Phase 2 remodel in the late 90's which involved the removal of the Neon Signage, Blue and White Awnings, and all checkers around the store as well as adding SkyTubes and Toddler Zone. On November 18th, 2013, the location closed because there were numerous issues with the surrounding area. The Kmart then closed in December 2013 and so did all of the other businesses. Cedar Rapids would remain abandoned for a few months until the CEC, Kmart, and the businesses were immediately redeveloped into a Hobby Lobby and a few businesses. Currently, as of May 2023, the Hobby lobby and the businesses are still here. 
+Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iowa with the Rock-afire Explosion show and was an expansion of the nearby Kmart which originally opened on November 19th, 1970. In 1988-1989, Cedar Rapids would receive a minor remodel removing the old Showbiz decor, adding some newer decor, and the Billy Bob stage layout being changed. Strangely, the exterior sign was not changed. In 1991, Cedar Rapids received Concept Unification and the 1988 Remodel removing older decor for newer decor, added Blue and White awnings, added checkers, and converted the Rock-afire Explosion band into the 3-Stage. The store remained as Showbiz even after Concept Unification, the sign was replaced sometime afterwards. Cedar Rapids underwent the another remodel in the late 90's which involved the removal of the Neon Signage, Blue and White Awnings, and all checkers around the store as well as adding SkyTubes and Toddler Zone. On November 18th, 2013, the location closed due to not being able to come to an agreement with the shopping center about lease. This store would remain abandoned for a few months until the entire shopping center was immediately redeveloped into a Hobby Lobby and a few businesses. Currently, as of May 2023, the Hobby lobby and the businesses are still here. 
+
+## Arcade Machines ##
+
+### Skill ###
+
+* [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+* H2Overdrive
+* Tippin' Bloks
+* Ticket Troopers
+* Guitar Hero Arcade
+* Deep Sea Treasure
+* CEC Street Hoops
+* After Burner Climax
+* Skee-Ball
+* 2 Minute Drill
+* NBA Hoops
+* Redhot
+* [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+* Buster Bubbles
+* Sega Racing Classic
+* Top Glo
+* Deal or No Deal
+* Jackpot Extreme
+* Raging Ape
+* Extreme Cards
+* Extreme Hunting 2
+* Aliens Extermination
+* Hittin' Hoops!
+* Vortek V3
+* Johnny AppleSpeed
+
+### Kiddie ###
+
+* Barney Train
+* Hungry Froggy
+* [Ken Chuck E. Derby]({{< ref "wiki/Ken Chuck E Derby.md" >}})
+* Chuck E.'s JR. Basketball
+* Dog Pounder
+* Chuck E.'s Glider Rider
+* Chuck E's Ball Blast
+* [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
+* Chuck E. Cheese's Photo Ride (1997)
+* Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
+
+### Coin Action ###
+
+* The Price is Right
+* Chuck E. Cheese's Boulder's Dozer's
+* Smokin Token Extreme
+* Pharaoh's Treasure
+
 ##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
 !Whereabouts
 |-
-|[https://cheeseepedia.org/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_(Animatronic) Chuck E. Cheese / Rolfe DeWolfe]
-|N/A
-|Destroyed.
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|4-81 1-12
+|Sold on eBay, current status unknown.
 |-
-|[https://cheeseepedia.org/wiki/Dook_Larue_(Animatronic) Pasqually / Dook Larue]
-|N/A
-|Destroyed.
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|4-81 2-12
+|Owned by a private collector.
 |-
-|[https://cheeseepedia.org/wiki/Fatz_Geronimo_(Animatronic) Mr. Munch / Fatz Geronimo]
-|N/A
-|Destroyed.
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|4-81 3-12
+|Originally sold to CavitySam / Andrea, but supposedly she never got it shipped. Possibly re-listed for sale. Current status unknown.
 |-
-|[https://cheeseepedia.org/wiki/Beach_Bear_(Animatronic) Jasper T. Jowls / Beach Bear]
-|N/A
-|Destroyed.
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|4-81 4-12
+|Owned by a private collector.
 |-
-|[https://cheeseepedia.org/wiki/Mitzi_Mozzarella_(Animatronic) Helen Henny / Mitzi Mozzarella]
-|N/A
-|Destroyed.
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|4-81 5-12
+|Owned by a private collector.
 |-
-|[https://cheeseepedia.org/wiki/Billy_Bob_(Animatronic) Billy Bob]
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|4-81 6-12
+|Unknown/Destroyed.
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|4-81 7-12
+|Unknown/Destroyed.
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|4-81 8-12
+|Unknown/Destroyed.
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|4-81 10-12
+|Unknown/Destroyed.
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|4-81 11-12
+|Unknown/Destroyed.
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
 |Unknown/Destroyed.
 |-
-|[https://cheeseepedia.org/wiki/Looney_Bird_(Animatronic) Pizzacam / Looney Bird]
-|N/A
-|Destroyed.
-|-
-|[https://cheeseepedia.org/wiki/Choo_Choo_(Animatronic) Munch Jr. / Choo Choo]
+|[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
 |Unknown/Destroyed.
-|-
-|[https://cheeseepedia.org/wiki/Sun_(Animatronic) Building / Sun]
-|N/A
-|Destroyed.
-|-
-|[https://cheeseepedia.org/wiki/Moon_(Animatronic) Moon]
-|N/A
-|Destroyed.
-|-
-|[https://cheeseepedia.org/wiki/Antioch_(Animatronic) Antioch]
-|N/A
-|Unknown/Destroyed.
-|-
-|[https://cheeseepedia.org/wiki/Wink Wink]
-|N/A
-|Destroyed.
 |}
+
 ##Gallery##
 <gallery>
+File:cedarapids1992.png|Cedar Rapids exterior as a Showbiz Pizza. (1992)
 </gallery>
 ##Videos##
 {| class='wikitable'
@@ -90,43 +142,18 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 !Footage Date
 !Upload Date
 |-
-|
-|
-|
-|
+|[https://youtu.be/YF1GSPhhG64 Link]
+|Footage of the stage in 1992.
+|May 7th, 1992
+|September 20th, 2020
 |-
-|
-|
-|
-|
+|[https://youtu.be/l3hV_0uszMI Link]
+|Footage of the stage in 1995
+|March 1995
+|September 15th, 2019
 |-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
-|-
-|
-|
-|
-|
+|[https://youtu.be/fsb9Uu3ivFc Link]
+|A store tour of this location on its last day of operation.
+|November 18th, 2013
+|April 30th, 2015
 |}

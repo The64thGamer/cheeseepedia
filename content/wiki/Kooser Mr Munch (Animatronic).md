@@ -2,27 +2,29 @@
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
 tags = []
-date = 2022-09-19T22:23:35Z
+date = 2023-07-18T17:27:44Z
 
 [Article]
 contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","216.125.34.66","The 64th Gamer"]
-gallery = []
+gallery = ["Kooser","Retynrtvr3c2df345g.png|1979"]
 +++
-[[File:Kooser munch.png|thumb]]
-**Kooser Mr. Munch** was the first iteration of Mr. Munch used at the opening of the [San Jose, CA (1371 Kooser Road)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) Pizza Time Theatre in December 1978. He was replaced by the standard Cyberamic design in May 1980 after the Portrait Show was replaced by the [Balcony Show]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
+{{Generic|image=Kooser Munch.jpg|desc=Munch from the Great All American Pizza Show Franchise brochure}}
 
+**_Kooser Mr. Munch**_ is an animatronic seen at the opening of the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) Pizza Time Theater. He would be used until Kooser upgraded to the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) in May 1980.
+
+## History ##
+After Kooser replaced their Portrait Show with the Balcony Stage, Munch and the other Portrait Bots, aside from Kooser Chuck E. Cheese (Animatronic) (Chuck E), which we have confirmation of, were presumably sent to Sunnyvale. After PTT vacated the building due to bankruptcy, Munch would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
 ## Design ##
-Mr. Munch was placed behind two closed doors, the same way Pasqually was, and would pop out when it was his time to speak in a show. 
+Kooser Munch is a purple monster animatronic that is covered in thick purple fur aside from his yellow stomach, eyebrows, and hair. He has pink eyelids over black eyes, as opposed to the regular eyes Kooser bots had. His arms were attached to two doors that would open when Munch was needed for the show, similar to both versions of Pasqually. 
 
-Munch was a very thin animatronic with thick purple and yellow fur. He had the same metal eyelids used by the other Kooser animatronics. \
+## Movements ##
 
-### Movements ###
-
-* Mouth
 * Eyelids
-* Eye Turn
+* Mouth
 * Doors
-* Right Arm Swing
-
-## Fate ##
-After Kooser upgraded to the Balcony show, Munch's whereabouts were unknown. It's assumed he was moved to [Sunnyvale]({{< ref "wiki/Pizza Time Theatre Sunnyvale, CA Corporate Office.md" >}}), but unlike Kooser Chuck E. Cheese (Animatronic) (Chuck E), there are no pictures of him at Sunnyvale. He is currently presumed to have been destroyed when Sunnyvale relocated to [Texas]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) after PTT's bankruptcy.,
+* Arm Out
+##Gallery##
+<gallery>
+File:Kooser Helen 2.png|Promotional Photo, December 1978.
+File:Retynrtvr3c2df345g.png|1979 Footage
+</gallery>

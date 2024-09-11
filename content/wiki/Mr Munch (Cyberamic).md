@@ -2,23 +2,25 @@
 title = "Mr. Munch (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-09-07T15:58:32Z
+date = 2024-07-07T01:53:28Z
 
 [Article]
 contributors = ["CECBowlingGreen","Jaxon11","CEC Tinley","BoyInCharge55","ShowbizMidwest","CoolerDude","CECMentor","Nerdychucke","Cheeseclassic","Documentor"]
 gallery = []
 +++
-The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's.
+{{Animatronic|image=MunchCyberamic2000.jpg|manufacturer=Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World|releasedate=1979|finalrelease=1998 (Full Bots) 2017 (Parts)}}
 
-It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band, changing his arms to correctly play the keyboard, and stopping his body turns.
+The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s.
+
+It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make-Believe Band, changing his arms to play the keyboard correctly, and stopping his body turns.
 
 ## History ##
-TODO: History
+This animatronic first premiered at the [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) in 1979. The only changes to his look over the years were the addition of a baseball hat that read 'Munch' as well as legs and shoes.
 
 ## Movements ##
-The bot features 8 movements in total.
+The bot features 8-9 movements in total.
 {| class='wikitable'
-|+
+|+C&R
 !Movement
 |-
 |Mouth
@@ -36,15 +38,17 @@ The bot features 8 movements in total.
 |Left Arm
 |-
 |Right Arm
+|-
+|Door (Used in [Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}}))
 |}
 
 ## Stages Used In ##
 
-* Portrait Stage: Installed from 1979-1980.Went extinct in 1991 at Odgen, Utah.
-* Balcony Stage: Installed from 1980-1986. Went extinct in 2001 at Lake Forest, CA.
+* Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
+* Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.
 * Rocker Stage: Installed from 1987-1990. Went extinct on June 12, 2022 at Rockford, IL.
-* C-Stage: Installed from 1989-1990?. Went extinct in 2003 at Tacoma, WA.
-* Road Stage: Installed from 1990-1992. 10 left as of September 2022.
-* 2-Stage: Installed from 1992-1993, 1996-1997. 21 left as of September 2022.
-* 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 30 left as of September 2022.
-* Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. 1 left as of September 2022
+* C-Stage: Installed from 1989-1990? Went extinct in 2003 at Tacoma, WA.
+* Road Stage: Installed from 1990-1992. 1 left as of June 2024.
+* 2-Stage: Installed from 1992-1993, 1996-1997. 4 left as of June 2024.
+* 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
+* Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 2023 at Lynnwood, WA.

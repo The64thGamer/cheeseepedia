@@ -2,13 +2,72 @@
 title = "January 2007"
 draft = false
 tags = []
-date = 2021-12-10T12:54:25Z
+date = 2023-08-11T07:39:12Z
 
 [Article]
 contributors = ["The 64th Gamer","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
 gallery = []
 +++
+Segment 1
+
+'Good Life'
+
+'It's your Thing'
+
+Intermission 1
+
+Coke Spot
+
+Flushed Away Promo 1
+
+Countdown 1
+
+Segment 2
+
+'I Want You To Want Me'
+
+'Right On The Money'
+
+Intermission 2
+
+Sing A Long Guys- Bingo
+
+PBS Spot
+
+Super Jasper
+
+Countdown 2
+
+Segment 3
+
+'Fame'
+
+'Crazy For this Girl'
+
+Intermission 3
+
+Coke Spot 2
+
+VeggieTales
+
+Countdown 3
+
+Segment 4
+
+'Still The One'
+
+'Trash Man'
+
+Intermission 4
+
+Flushed Away Promo 2
+
+Skiing
+
+Countdown 4
+
 ##Showtape Scans / Images:##
 <gallery>
 aaaaasd.jpg|Studio C DVD
+asdddddd.jpg|Studio C DVD
 </gallery>

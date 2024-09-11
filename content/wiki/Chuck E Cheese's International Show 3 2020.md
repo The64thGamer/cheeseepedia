@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's International Show 3 2020"
 draft = false
 tags = []
-date = 2022-10-28T22:31:14Z
+date = 2024-04-03T12:04:00Z
 
 [Article]
 contributors = ["Documentor","Cy's Junk at School"]
@@ -12,14 +12,14 @@ gallery = []
 |image=IntShow320.png
 |date=September 2020
 |studioc=y
-|dvdcu=y
+|studiochd=y
 |dvdcyber=y}}
 
 **_Chuck E. Cheese's International Show 3 2020**_  is the Halloween show released in September 2020, featuring 5 songs.
 
 This show played from September - November 2020.
 
-Due to Covid-19 this store never ended up being played due to stores being shut down. 
+Most Chuck E. Cheese's stores were closed due to restrictions caused by the COVID-19 pandemic. As a result, very few stores (if any) played this show.
 
 ## Show List: ##
 It is currently unknown the order of the skits in this show, though the skits themselves are known

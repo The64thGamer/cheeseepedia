@@ -2,22 +2,30 @@
 title = "Charleston, SC (1610 Sam Rittenburg Blvd)"
 draft = false
 tags = []
-date = 2023-03-29T20:42:40Z
+date = 2024-07-30T13:24:39Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
-gallery = []
+gallery = ["CharlestonSCPhoto1.jpg","CharlestonSCPhoto2.jpg","CharlestonSCPhoto3.jpg","CharlestonSCPhoto4.jpg","CharlestonSCPhoto5.jpg","CharlestonSCPhoto6.jpg","CharlestonSCPhoto7.jpg","CharlestonSCPhoto8.jpg","CharlestonSCPhoto9.jpg","CharlestonSCPhoto10.jpg","CharlestonSCPhoto11.png"]
 +++
-**_1610 Sam Rittenberg Blvd Ste. 103, Store #966**_ was a Showbiz Pizza Place that opened on September 20th, 1982. 
+{{Generic|desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg}}
+
+**_1610 Sam Rittenberg Blvd Ste. 103, Store #966**_ (also known as South Charleston or simply Charleston) was a ShowBiz Pizza Place that opened on September 20th, 1982, and closed on June 18th, 2020 with a 3-Stage. It was the first ShowBiz location to open in South Carolina as well as the first to open in the Carolinas overall.
 
 ##History##
-Charleston opened on September 20th, 1982 as the first Showbiz in South Carolina (And in the Carolinas overall). The store was originally a Franchise store owned by the McBiz Corporation (along with 29 other locations). They would later end up receiving the 1988 Remodel removing the old Showbiz decor, and adding newer decor.  This would be the last thing to happen to the Charleston ShowBiz. In 1991 Charleston  received Concept Unification which removed the Rock-Afire for the 3-Stage and removed all Showbiz decor, & added new decor. The restaurant kept the ShowBiz pizza name on the building until Late 1991. On September 16, 1996 Charleston was bought by Corporate along with Columbia, & Greenville. Between 1993-1994 Charleston received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). The store's 3-Stage is on the right side wall. Charleston also had a rare private party room with Record Posters and other 90s decor. In between 2000 and 2002 Charleston received the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) remodel with replaced all 1 and 2 phase art for phase 3 art. Also in Mid 2000, Charleston stared using plastic masks on all the characters. In 2008 they removed Chuck's Tuxedo and replaced it with the Avenger Outfit. Although the curtains where disabled in 2005 Charleston keep them. During COVID-19 in 2020, Charleston was sadly one of 34 locations to close; in June 2020 (Charleston was closed in June 18th), After 34 years in Charleston, the store would be permanently closed.
+South Charleston opened on September 20th, 1982, as the first ShowBiz in South Carolina (and in the Carolinas overall). The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), its placement being adjacent to the store's right side wall. In the late 80's, South Charleston underwent the 1986 SPT Remodel Program, phasing out original ShowBiz Pizza Place decor and signage for that of generalized Showbiz Pizza Time assets. 
 
-### Crimes ###
-In November 2018 a man was shot in the store's parking lot.
+Sometime in 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, South Charleston's operating license was acquired by SPT Corporate along with sister locations [Columbia]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}}) & [Greenville]({{< ref "wiki/Greenville, SC (253 Congaree Rd).md" >}}). Around this time, the store would undergo the 1990s Major Remodel.
 
-## Stages ##
-Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did.  They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. They would have the show until the store's closure on June 18th, 2020.
+Beginning in the year 2000, South Charleston installed plastic masks on their 3-Stage figures, a common practice seen throughout most locations at the time. Curtains were decommissioned from use in 2005, but were kept as display pieces until the location's closure in 2020. Chuck E.'s tuxedo would be replaced with his 'Avenger' clothing sometime in 2008. At the same time, the store received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. Existing CD Award posters and Wall Sconce Planters would not be trashed, rather being relocated to the location's former Sportsroom Dining section. Aside from rotating game packages, South Charleston would remain in this state throughout the late 2000's into the 2010's decade.
+
+As a result of the COVID-19 Pandemic in 2020, South Charleston was one of 34 CEC locations to permanently close, with its closing date being June 18th of that year. Some of the stage's figures were sent to the nearby Columbia store, while others were obtained by private collectors. Following Columbia's 2017 2.0 Remodel Program (2017 2.0. Remodel Program) initiative in November 2022, three of South Charleston's original figures were trashed and promptly destroyed.
+
+As of 2023, the tenant space where the South Charleston store previously was is still vacant. The building's exterior has been vandalized as of currently, with a label scar from the previous Chuck E. Cheese's signage remaining intact.
+###Crimes###
+In July 2007, a homeless man was arrested, due to other people feeling unsafe by his presence in the strip mall where this store was located. On November 24, 2018, a man was shot and killed in the parking lot.
+## Stages##
+South Charleston would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when the location's show would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). The Munch's Make Believe Band 3-Stage would then remain in use at the store (with minor changes and updates) up until South Charleston's permanent closure on June 18, 2020.
 {| class='wikitable'
 |+
 !Stage
@@ -25,87 +33,129 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 !Removed
 !Notes
 |-
-|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
 |September 1982
 |1991
-|First Showbiz Pizza store in South Carolina (And Carolinas overall).
+|First ShowBiz Pizza store in South Carolina (And Carolinas overall).
 |-
 |[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
-|1991
-|June 2020
-|One of four Showbiz Pizza 
+|1991 
+|June 18, 2020
+|One of four ShowBiz Pizza stores in South Carolina to undergo Concept Unification.
 |}
 
-## Animatronics ##
+##Animatronics##
 {| class='wikitable'
 !Animatronic
 !Serial Number
 !Whereabouts
 !Notes
 |-
-|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
-|1-82 1-10
-|Sent to Columbia SC (Now Destroyed).
-|Bot sent to Columbia SC after closure
+| [Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}}) 
+|1-82 1-10 
+| Sent to Columbia SC (Now Destroyed).
+|Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022.
 |-
-|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}}) 
 |1-82 2-10
 |Owned by a Private Collector
-|Was not sent to Columbia SC after closure
+| Was not sent to Columbia, SC after closure.
 |-
-|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}}) 
 |1-82 3-10
 |Owned by a Private Collector
-|Was not sent to Columbia SC after closure
+| Was not sent to Columbia, SC after closure.
 |-
-|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
-|1-82 4-10
-|Sent to Columbia SC (Now Destroyed).
-|Bot sent to Columbia SC after closure
+| [Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}}) 
+|1-82 4-10 
+| Sent to Columbia SC (Now Destroyed).
+|Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022.
 |-
-|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
-|1-82 5-10
-|Sent to Columbia SC (Now Destroyed).
-|Bot sent to Columbia SC after closure
+| [Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}}) 
+|1-82 5-10 
+| Sent to Columbia SC (Now Destroyed).
+|Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022.
 |-
-|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+| [Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}}) 
 |1-82 6-10
 |Destroyed.
-|Destroyed during Concept Unififccation
+|Destroyed during Concept Unification.
 |-
-|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) 
 |1-82 7-10
-|Owned by a Private Collector
-|Was removed between 2007-2009
+|Unknown
+|Was removed between 2007-2009.
 |-
-|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}}) 
 |1-82 8-10
 |Unknown
-|Was removed between 2001-2003
+|Was removed between 2001-2003.
 |-
-|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}}) 
 |1-82 10-10
-|Owned by a Private Collector
-|Stayed on stage (working) unit it's closure
+|Unknown
+|Was not sent to Columbia, SC after closure.
 |-
-|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}}) 
 |1-82 11-10
-|Sent to Unknown Location
-|Sent to a location but the store is unknown
+|Owned by Private Collector
+|Mouth mechanism and mask intact.
 |-
 |[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
 |N/A
-|Destroyed.
-|Removed and destoyed between 2004-2006
+|Destroyed
+| Destroyed during Concept Unification
 |-
 |[Wink]({{< ref "wiki/Wink.md" >}})
 |N/A
-|Unknown
-|Whereabouts Unknown.
+|Destroyed
+|Destroyed after store closure.
 |}
 
-## Gallery ##
-TODO
+##Gallery##
+<gallery>
+File:CharlestonSCPhoto1.jpg
+File:CharlestonSCPhoto2.jpg
+File:CharlestonSCPhoto3.jpg
+File:CharlestonSCPhoto4.jpg
+File:CharlestonSCPhoto5.jpg
+File:CharlestonSCPhoto6.jpg
+File:CharlestonSCPhoto7.jpg
+File:CharlestonSCPhoto8.jpg
+File:CharlestonSCPhoto9.jpg
+File:CharlestonSCPhoto10.jpg
+File:CharlestonSCPhoto11.png
+</gallery>
 
-## Videos ##
-TODO
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://www.youtube.com/watch?v=SizHQBsYyM8 Link]
+|A video showcasing the store's unique party room.
+|December 24th, 2013
+|September 7, 2014
+|-
+|[https://www.youtube.com/watch?v=8-0NyS8bUNQ Link]
+|'Holiday Medley' from Chuck E. Cheese's Show 9 2016 (Show 9 2016) being performed on S. Charleston's 3-Stage
+|December 2017
+|December 22, 2017
+|-
+|[https://www.youtube.com/watch?v=xk_OF4yiXX8 Link]
+|'Merry Christmastime' from Chuck E. Cheese's Show 9 2016 (Show 9 2016) being performed on S. Charleston's 3-Stage
+|December 2017
+|December 24, 2017
+|-
+|[https://www.youtube.com/watch?v=21vV3-_hsVE Link]
+|A store tour from December 2017.
+|December 2017
+|December 28, 2017
+|-
+|[https://youtu.be/lNgZ6Fm7JjY Link]
+|Store Tour from February 2020. Final footage before store closure.
+|February 23, 2020
+|August 5th, 2023
+|}
