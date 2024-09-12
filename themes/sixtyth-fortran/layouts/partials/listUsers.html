@@ -28,15 +28,17 @@
 
 
 <!-- Print the sorted list of contributors -->
+<div class="contributors">
 <hr><ul>
 {{ range $sortedContributors }}
   {{- $path := printf "content/wiki/Users/%s.md" .name -}}
   {{- if fileExists $path }}
       {{- $slug := replace .name " " "-"| lower  -}}
-      <li><a href="{{ relURL (printf "wiki/users/%s/" $slug) }}">{{ .name }}</a> (+{{ .count }})</li>
+      <li><a href="{{ relURL (printf "wiki/users/%s/" $slug) }}">{{ .name }}</a><sup> (+{{ .count }})</sup></li>
   {{- else }}
-  <li>{{ .name }} (+{{ .count }})</li>
+  <li>{{ .name }}<sup> (+{{ .count }})</sup></li>
   {{- end -}}
 {{ end }}
 </ul>
+</div>
   {{ .Content | markdownify | safeHTML }}

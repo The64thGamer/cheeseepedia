@@ -66,6 +66,10 @@ ul {
   color: var(--yellow); 
 }
 
+.contributors sup{
+  color: var(--white); 
+}
+
 .fun-text{
   text-align: center;
   margin: 0;
