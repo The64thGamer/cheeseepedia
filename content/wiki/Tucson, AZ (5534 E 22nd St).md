@@ -8,4 +8,57 @@ date = 2023-10-03T22:11:55Z
 contributors = ["Rexburg090","Midwestretail","ChuckECool","The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=TusconE22ndExterior (Chuck E Pedia Edit).jpg|desc=Store Exterior (Unknown Date)}}
+
+**_Tucson, AZ (5534 E 22nd St)**_ was a _Pizza Time Theatre_ in Tucson, Arizona that opened in July 15, 1980 with a Cyberamics Portrait / Shelf Stage (Portrait Stage).  
+
+This is not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)]({{< ref "wiki/Tucson, AZ (8616 E Broadway Blvd).md" >}}) Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). This is also not to be confused with the [Tucson, AZ (6130 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6130 E Speedway Blvd).md" >}}) location which opened in April 1995 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and was relocated to [Tucson, AZ (6125 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6125 E Speedway Blvd).md" >}}) in October 2014 with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) and still operates to this day.
+
+##History##
+The store would open on July 15th, 1980 in the _County Fair Shopping Center_ with a Portrait Stage.
+
+This was also the first Chuck E. Cheese of any kind to open in the state of Arizona.
+
+Not much is known about the location other than the one photo of the store's exterior and a photo of the Portrait Stage taken from a memorial website.
+
+The store was then closed in 1987 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for around 7 years. The show's fate is unknown.
+
+The store would become a few businesses or two until the shopping center was redeveloped in 2007. The original Pizza Time Theatre was expanded and redeveloped and is currently part of a Walmart Neighborhood Market.
+
+##Animatronics##
+{| class='wikitable'
+!Animatronic
+!Whereabouts
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown
+|-
+|Chuck E Cheese (Cyberamic)
+|Unknown
+|-
+|[Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
+|Unknown
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|-
+|[Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}})
+|Unknown
+|-
+|Waving Flags (Cyberamic)
+|Unknown
+|-
+|[Applause Board (Cyberamic)]({{< ref "wiki/Applause Board (Cyberamic).md" >}})
+|Unknown
+|-
+|[Drum Board (Cyberamic)]({{< ref "wiki/Drum Board (Cyberamic).md" >}})
+|Unknown
+|}
+
+
+
+
+## References ##

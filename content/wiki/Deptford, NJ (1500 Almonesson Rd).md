@@ -1,7 +1,7 @@
 +++
 title = "Deptford, NJ (1500 Almonesson Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-05-16T05:11:59Z
 
 [Article]

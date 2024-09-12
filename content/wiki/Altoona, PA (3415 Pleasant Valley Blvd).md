@@ -1,7 +1,7 @@
 +++
 title = "Altoona, PA (3415 Pleasant Valley Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-04T00:44:15Z
 
 [Article]

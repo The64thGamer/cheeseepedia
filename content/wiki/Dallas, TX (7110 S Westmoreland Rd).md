@@ -1,7 +1,7 @@
 +++
 title = "Dallas, TX (7110 S Westmoreland Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-16T01:51:25Z
 
 [Article]

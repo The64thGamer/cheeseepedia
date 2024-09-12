@@ -1,7 +1,7 @@
 +++
 title = "Johnstown, PA (850 Scalp Ave)"
 draft = false
-tags = []
+tags = ["Licensed Family Entertainment Center Store List"]
 date = 2024-08-08T22:51:02Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Harold Goldbrandsen Business Card (Ver. A)"
 draft = false
-tags = []
+tags = ["Corporate Documents"]
 date = 2023-04-21T16:57:33Z
 
 [Article]

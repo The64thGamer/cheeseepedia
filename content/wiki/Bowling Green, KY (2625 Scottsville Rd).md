@@ -1,7 +1,7 @@
 +++
 title = "Bowling Green, KY (2625 Scottsville Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-08T22:47:33Z
 
 [Article]

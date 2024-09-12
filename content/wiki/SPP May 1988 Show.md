@@ -1,7 +1,7 @@
 +++
 title = "SPP May 1988 Show"
 draft = false
-tags = []
+tags = ["Cyberstar Segments"]
 date = 2022-01-25T13:22:32Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Salina, KS (2555 Market Place)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-22T23:41:10Z
 
 [Article]

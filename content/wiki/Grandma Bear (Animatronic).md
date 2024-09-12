@@ -1,7 +1,7 @@
 +++
 title = "Grandma Bear (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-05-31T00:03:33Z
 
 [Article]

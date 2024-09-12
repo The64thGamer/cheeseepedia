@@ -1,7 +1,7 @@
 +++
 title = "1998 Chuckfeld (Must C TV)"
 draft = false
-tags = ["Store Fixtures"]
+tags = []
 date = 2023-07-08T16:25:21Z
 
 [Article]

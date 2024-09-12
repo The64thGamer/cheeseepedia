@@ -1,7 +1,7 @@
 +++
 title = "Orlando, FL (7419 International Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-16T16:24:17Z
 
 [Article]

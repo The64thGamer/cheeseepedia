@@ -1,7 +1,7 @@
 +++
 title = "Nanuet, NY (250 West Route 59)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-09T01:17:54Z
 
 [Article]

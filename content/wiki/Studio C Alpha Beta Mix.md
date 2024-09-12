@@ -8,4 +8,4 @@ date = 2023-07-08T19:03:39Z
 contributors = ["Documentor","GuestIsJustBest"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT Studio C 2000 Prototype

@@ -1,7 +1,7 @@
 +++
 title = "Richmond, VA (9030 Broad St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-03T12:23:29Z
 
 [Article]

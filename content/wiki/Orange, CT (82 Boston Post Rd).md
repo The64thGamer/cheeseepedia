@@ -1,7 +1,7 @@
 +++
 title = "Orange, CT (82 Boston Post Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-27T23:15:22Z
 
 [Article]

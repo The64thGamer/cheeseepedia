@@ -1,7 +1,7 @@
 +++
 title = "Paramus, NJ (275 Route 4 West)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-01T14:19:39Z
 
 [Article]

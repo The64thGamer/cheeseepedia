@@ -1,7 +1,7 @@
 +++
 title = "New Games Falling Names (Commercial)"
 draft = false
-tags = []
+tags = ["Commercials"]
 date = 2023-07-04T07:11:04Z
 
 [Article]

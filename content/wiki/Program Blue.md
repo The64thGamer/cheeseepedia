@@ -1,7 +1,7 @@
 +++
 title = "Program Blue"
 draft = false
-tags = []
+tags = ["Programming Software & Hardware"]
 date = 2022-07-15T05:36:53Z
 
 [Article]

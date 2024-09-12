@@ -1,7 +1,7 @@
 +++
 title = "Helen Henny (Lounge)"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-07-08T17:02:00Z
 
 [Article]

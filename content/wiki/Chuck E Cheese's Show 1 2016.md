@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 1 2016"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-09-27T22:01:17Z
 
 [Article]

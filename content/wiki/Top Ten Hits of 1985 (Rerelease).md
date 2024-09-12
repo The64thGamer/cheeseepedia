@@ -1,7 +1,7 @@
 +++
 title = "Top Ten Hits of 1985 (Rerelease)"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-04-08T03:20:39Z
 
 [Article]

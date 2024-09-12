@@ -1,7 +1,7 @@
 +++
 title = "Port Arthur, TX (3600 FM 365)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-29T21:27:51Z
 
 [Article]

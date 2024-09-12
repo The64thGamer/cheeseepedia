@@ -1,11 +1,19 @@
 +++
 title = "Country (PTT Theme)"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2024-05-21T14:45:40Z
 
 [Article]
 contributors = ["The 64th Gamer","Montfortdog","ChuckE1352","2601:584:4100:EB10:8DD1:E599:528F:89F3","Ceclife13","CECMentor"]
 gallery = []
 +++
-text/x-wiki
+The **_Pizza Time Theatre Country Theme**_ was a temporary alteration to the stage and character designs for use in the 1984 [Country Helen]({{< ref "wiki/Country Helen.md" >}}) showtape.
+
+## Stage Design ##
+The stage would have two poles reading 'BOOTHILL' and 'OKAY CORRAL' next to Helen and Munch. A few stages reused props from the Broadway show, as they fit the theme.
+
+## Character Design ##
+Chuck himself would wear a cowboy like outfit, while Jasper would remain the same with a different hat. Helen wore a cowgirl-like outfit, but sometimes retained her bandstand look. Both Pasqually and Mr. Munch kept their bandstand appearances, and it is unknown if any locations tried to make them fit the country theme. 
+
+

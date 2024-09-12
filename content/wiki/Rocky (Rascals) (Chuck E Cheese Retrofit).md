@@ -1,7 +1,7 @@
 +++
 title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 draft = false
-tags = []
+tags = ["Unofficial Retrofits"]
 date = 2024-01-28T15:40:49Z
 
 [Article]

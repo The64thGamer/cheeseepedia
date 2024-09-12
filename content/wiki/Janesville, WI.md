@@ -1,7 +1,7 @@
 +++
 title = "Janesville, WI"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-10T16:32:32Z
 
 [Article]

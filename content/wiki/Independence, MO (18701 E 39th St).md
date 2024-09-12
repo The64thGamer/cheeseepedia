@@ -1,7 +1,7 @@
 +++
 title = "Independence, MO (18701 E 39th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-07T17:16:34Z
 
 [Article]

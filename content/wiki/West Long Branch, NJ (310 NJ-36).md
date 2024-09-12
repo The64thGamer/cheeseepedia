@@ -1,7 +1,7 @@
 +++
 title = "West Long Branch, NJ (310 NJ-36)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-19T20:56:00Z
 
 [Article]

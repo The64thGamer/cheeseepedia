@@ -1,7 +1,7 @@
 +++
 title = "Amherst, NY (4994 Harlem Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-30T15:28:13Z
 
 [Article]

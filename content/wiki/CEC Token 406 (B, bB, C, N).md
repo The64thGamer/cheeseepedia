@@ -1,7 +1,7 @@
 +++
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
-tags = []
+tags = ["Chuck E Cheese's Tokens"]
 date = 2023-04-29T20:11:31Z
 
 [Article]

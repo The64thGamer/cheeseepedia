@@ -1,7 +1,7 @@
 +++
 title = "Best of the Rock-afire Explosion 1983 Part 2"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-10-27T13:22:34Z
 
 [Article]

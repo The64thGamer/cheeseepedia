@@ -1,7 +1,7 @@
 +++
 title = "Buffalo, NY (4408 Milestrip Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-24T16:52:58Z
 
 [Article]

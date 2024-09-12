@@ -1,7 +1,7 @@
 +++
 title = "Chicago, IL (1830 W Fullerton Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-09T19:36:07Z
 
 [Article]

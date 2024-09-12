@@ -1,7 +1,7 @@
 +++
 title = "Hagerstown, MD (17618 Valley Mall Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-24T17:53:39Z
 
 [Article]

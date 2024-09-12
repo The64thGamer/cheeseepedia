@@ -8,4 +8,4 @@ date = 2023-03-03T04:25:58Z
 contributors = ["Rexburg090"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT [New London, CT (389 N Frontage Rd)]({{< ref "wiki/New London, CT (389 N Frontage Rd).md" >}})

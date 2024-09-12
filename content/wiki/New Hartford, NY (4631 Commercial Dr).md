@@ -1,7 +1,7 @@
 +++
 title = "New Hartford, NY (4631 Commercial Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-01-14T05:53:14Z
 
 [Article]

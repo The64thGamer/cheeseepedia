@@ -1,7 +1,7 @@
 +++
 title = "Decatur, AL (1801 Beltline Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-08T15:38:52Z
 
 [Article]

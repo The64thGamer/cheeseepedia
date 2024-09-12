@@ -1,7 +1,7 @@
 +++
 title = "Fort Collins, CO (105 W Prospect Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-23T12:02:22Z
 
 [Article]

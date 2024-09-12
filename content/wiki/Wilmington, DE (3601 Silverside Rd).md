@@ -1,7 +1,7 @@
 +++
 title = "Wilmington, DE (3601 Silverside Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-09T17:40:22Z
 
 [Article]

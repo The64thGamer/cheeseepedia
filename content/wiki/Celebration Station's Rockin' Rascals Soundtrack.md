@@ -1,7 +1,7 @@
 +++
 title = "Celebration Station's Rockin' Rascals Soundtrack"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-08-19T23:54:05Z
 
 [Article]

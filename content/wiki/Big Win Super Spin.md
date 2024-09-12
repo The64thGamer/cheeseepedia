@@ -1,11 +1,19 @@
 +++
 title = "Big Win Super Spin"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2023-07-08T19:32:13Z
 
 [Article]
 contributors = ["Chuck E. Tastic","ChuckEPediaIsTheBest!","GuestIsJustBest","Stripes"]
 gallery = []
 +++
-wikitext
+**Big Win Super Spin** is an arcade game found at Chuck E. Cheese's (Chuck E. Cheese) restaurants, manufactured by ICE.
+
+## Gameplay ##
+To play Big Win Super Spin, a player must insert a token into the token slot (or tap the Chuck E.'s Play Pass (Play Pass) / Chuck E.'s Play Band (Play Band) on the Play Pass reader), after which the player pulls the red lever on the side which makes the lights on the game spin clockwise, afterwards the player will try to aim for a certain spot, for example, the Super Bonus, which differs per location as a possible result of gambling laws in that state / country, by hitting the big red button in the middle, afterwards a spot will light up, determining how many tickets (or E-Tickets, after 2020.) the player has received.
+
+## Design ##
+TODO
+
+

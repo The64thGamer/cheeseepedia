@@ -1,7 +1,7 @@
 +++
 title = "Sensory Sensitive Sundays"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2023-01-13T19:12:55Z
 
 [Article]

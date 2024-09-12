@@ -1,7 +1,7 @@
 +++
 title = "Columbia, SC (1775 Burning Tree Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-02-11T23:57:27Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Brockton, MA (200 Westgate Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-07T14:07:44Z
 
 [Article]

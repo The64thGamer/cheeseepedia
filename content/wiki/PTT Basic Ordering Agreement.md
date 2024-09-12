@@ -1,7 +1,7 @@
 +++
 title = "PTT Basic Ordering Agreement"
 draft = false
-tags = []
+tags = ["Documents"]
 date = 2024-05-20T21:21:29Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Catonsville, MD (5912 Baltimore National Pike)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-18T18:20:35Z
 
 [Article]

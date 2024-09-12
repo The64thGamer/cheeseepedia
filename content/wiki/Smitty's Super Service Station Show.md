@@ -1,7 +1,7 @@
 +++
 title = "Smitty's Super Service Station Show"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-16T17:19:26Z
 
 [Article]

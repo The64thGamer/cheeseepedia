@@ -1,7 +1,7 @@
 +++
 title = "Staten Island, NY (1775 South Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-30T20:51:24Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Half-A-Chuck San Jose Museum Showtape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-21T15:27:39Z
 
 [Article]

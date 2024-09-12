@@ -1,7 +1,7 @@
 +++
 title = "Laguna Hills, CA (26538-H Moulton Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-01-21T20:46:21Z
 
 [Article]

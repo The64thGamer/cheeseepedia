@@ -1,7 +1,7 @@
 +++
 title = "Beach Bear"
 draft = false
-tags = []
+tags = ["Characters"]
 date = 2024-05-28T18:16:32Z
 
 [Article]

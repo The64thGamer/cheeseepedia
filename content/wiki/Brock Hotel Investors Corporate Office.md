@@ -1,7 +1,7 @@
 +++
 title = "Brock Hotel Investors Corporate Office"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2022-03-03T01:13:29Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 3 2021"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2023-07-03T03:13:08Z
 
 [Article]

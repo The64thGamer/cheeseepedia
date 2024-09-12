@@ -1,7 +1,7 @@
 +++
 title = "Kansas City, MO (8809 State Line Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-24T02:34:08Z
 
 [Article]

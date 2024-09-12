@@ -1,7 +1,7 @@
 +++
 title = "Omaha, NE (225 N 76th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-26T23:28:28Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "South Portland, ME (166 Philbrook Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-25T13:03:35Z
 
 [Article]

@@ -6,6 +6,13 @@ date = 2023-03-04T09:36:54Z
 
 [Article]
 contributors = ["CECCheese"]
-gallery = []
+gallery = ["Stars .jpg|thumb"]
 +++
-wikitext
+
+CECCheese on Youtube and Instagram. 
+
+Better known as 'Jackie' In the fan community.
+
+formerly known as 'chuckecheesekid' to long time fans.
+
+Jul Kamen

@@ -1,7 +1,7 @@
 +++
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-07-07T20:01:47Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Tampa, FL (14308 Dale Mabry Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-29T03:52:22Z
 
 [Article]

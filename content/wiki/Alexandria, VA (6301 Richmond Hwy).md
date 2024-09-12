@@ -1,7 +1,7 @@
 +++
 title = "Alexandria, VA (6301 Richmond Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-05T22:22:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Beagles Diagnostics"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-06T23:10:05Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bingo"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-10-17T20:04:42Z
 
 [Article]

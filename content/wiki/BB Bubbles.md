@@ -6,6 +6,41 @@ date = 2022-09-11T06:57:29Z
 
 [Article]
 contributors = ["JamesLemony"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-wikitext
+{{Showtape | title = B.B. Bubbles Showtape
+| image =BB BUBBLES.png 
+| aka = B.B. Bubbles
+| date = November, 1983
+| pttreel = y
+|cabaretBB=y}}
+
+The **_B.B. Bubbles Showtape**_ is a standard Cabaret Showtape used in the 1980's with the character B.B. Bubbles. The showtape is very unfinished and there are only 3 segments known.
+
+##Segments:##
+Disclaimer: The segment list is unknown if it is fully finished or not. Many segments are still lost.
+
+* California Medley
+*#California Here I Come
+*#26 Miles
+*#Chinatown
+*#Do You Know the Way to San Jose
+*#Hooray for Hollywood
+*#San Fransisco
+* Midwestern Medley
+*#Iowa Corn Song
+*#My Old Kentucky Home, Goodnight
+*#Meet Me In Saint Louie
+*#There Is No Place Like Nebraska
+*#Can't Get Indiana Off My Mind
+*#Back Home Again in Indiana
+*#Oklahoma
+* Southern Medley
+*#Dixie Land
+*#Carry Me Back to Old Virginny
+*#My Sunny Tennessee
+*#Do You Know What It Means to Miss New Orleans
+*#Carolina in the Morning
+*#Alabamy Bound
+*#Moon Over Miami / Memphis in June
+*#When The Saints Go Marching In

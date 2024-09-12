@@ -1,7 +1,7 @@
 +++
 title = "Chile / No Show Selector w/ Karaoke End Stage"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-16T17:11:49Z
 
 [Article]

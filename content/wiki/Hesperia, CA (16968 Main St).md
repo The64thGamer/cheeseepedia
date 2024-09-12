@@ -1,7 +1,7 @@
 +++
 title = "Hesperia, CA (16968 Main St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-03T23:25:29Z
 
 [Article]

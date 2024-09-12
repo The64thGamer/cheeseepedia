@@ -1,11 +1,171 @@
 +++
 title = "Honolulu, HI (820 W Hind Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-07T17:11:06Z
 
 [Article]
 contributors = ["ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","Cy's Junk at School"]
-gallery = []
+gallery = [":CECHonoluluHIHindRockAfire.png",":AinaHainaManagementHiring11-10-1982.png",":AinaHainaElectronicGameTechHiring11-11-1982.png"]
 +++
-text/x-wiki
+{{Generic|desc=Honolulu's exterior before closure. (Photo taken May 30th, 2008)|image=CECHonoluluHIHindExterior.png}}
+**_Honolulu, HI (820 W Hind Dr), Store #2024**_, often referred to as **_Aina Haina**_, was a _Showbiz Pizza Place_ located in Honolulu, Hawaii in the Aina Haina Shopping Center that opened on February 15th, 1983 and closed as a _Chuck E. Cheese's_ around Summer 2009.
+
+## Stages ##
+This location in particular had the shortest recorded stage height to be used in a Showbiz Pizza Place location, being the bare minimum of around 10 Inches. On center stage, a small sign on the base of the stage stated 'KAPU' (Hawaiian for 'KEEP OUT') with text below saying '(PLEASE DO NOT TOUCH)'.<ref></ref>
+
+In March 1991, the store underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and also was never subject to hiding the 'In Pizza We Trust' on the Wink, removing the Munch Jr. spot, or replacing the original carpet the show was installed with. The show received the updated 3-Stage cosmetics created by Cowan Costumes but they didn't receive Jasper's until sometime after 2003, even though its initial release was in 1999.
+
+In around 2004-2005, Chuck's Tuxedo & Derby was replaced with the Cool Chuck outfit; which he wore until the store's closure.
+
+By 2006, the condition of the center and right stages had severely worsened, and its condition would remain up until the store's closure.
+
+In 2009 the location closed and relocated to a newer location. The franchise bought over several fixtures as any other relocation would. One of these fixtures also happened to be the Chuck E. Cheese neon sign used on the 3-Stage. It currently sits on display in the merchandise area of the new store.
+## History ##
+820 W Hind Dr. was built in 1950 as a local market, with its space first opening as a Cornet discount store in 1957.<ref>https://www.hawaiistories.com/archives/004748.shtml</ref><ref> https://www.staradvertiser.com/2014/09/19/hawaii-news/rearview-mirror/old-timers-may-still-recall-aina-hainas-village-green/</ref> The store would presumably begin construction in November 1982, based on adverts from November 10-11, 1982,<ref></ref><ref></ref> when the store would begin hiring positions; the space would eventually reopen as the only franchised Showbiz Pizza Place in Hawaii on February 15th, 1983.<ref name=':0'>https://dppweb.honolulu.gov/DPPWeb/Default.aspx?PossePresentation=TaxMapKey&PosseObjectId=247428</ref>
+
+The location would remain as a Showbiz Pizza until undergoing [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), becoming Chuck E. Cheese's Pizza, speculated to be around March 1991.
+
+In 1998 plans to remodel the location were created and was most likely to receive [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) alongside this remodel. This would be the last major remodel that this location would have until its closure.
+
+### Closure ###
+In June 2007, the location's shopping center was sold to a California company, which planned on redeveloping the shopping center.<ref name=':1'>http://the.honoluluadvertiser.com/article/2008/Mar/24/ln/hawaii803240335.html</ref><ref>https://www.bizjournals.com/pacific/stories/2007/07/09/story1.html</ref> This redevelopment led to multiple anchors in the shopping center closing to make way for future redevelopment in the area, including Chuck E. Cheese's, being announced in March 2008 that their lease would no longer be renewed, with their lease set to expire on December 31st, 2008.<ref>https://www.bizjournals.com/pacific/stories/2008/03/10/focus2.html</ref><ref name=':1' /> The announcement of the store's closure upset the franchisee of the location, Wayne Hayami, but would be settled by the time the store's supposed lease expiration date went by, as it was decided that the store would remain open until its relocation finished construction.<ref>https://archives.starbulletin.com/content/20090111_Chuck_Es_still_partying_in_Aina_Haina</ref> The store would eventually close down around May or June 2009 to make way for its relocation at [1199 Dillingham Blvd]({{< ref "wiki/Honolulu, HI (1199 Dillingham Blvd).md" >}}), opening on August 29th, 2009.
+
+##Arcade Machines##
+###Identified Machines###
+*Smashing Drive
+* Daytona USA 2
+*Tokyo Cop
+*Tower of Power
+*Need for Speed: Underground
+*[Rockin-Bowler]({{< ref "wiki/Rockin-Bowler.md" >}})
+* [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
+* Alley Hoops
+*Scat Cats (Skee Ball)
+*Flamin Finger
+*[Chuck E's Duckies]({{< ref "wiki/Chuck E's Duckies.md" >}})
+*[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+*Buzzy Buzzy Bee
+* Wheel of Fortune
+*Dino Dash
+*Bozo’s Grand Prize Game
+*Pump It Up GX
+*[https://www.highwaygames.com/arcade-machines/gorilla-king-8942/ Gorilla King]
+*Neo Geo
+*Chuck E's Rubble Bubble
+*Chuck E. Cheese's Or Bust
+*Barney Train
+*Teletubbies Carousel
+*Clifford the Big Red Dog
+*Horse Carousel (Amutec)
+*Toddler Whac
+
+##Videos ##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Published / Filming date 
+|-
+|[https://youtu.be/8xmfdyXVBR4 Link]
+|A short video of a holiday show being played on the 3-Stage.
+|December 27, 2003
+|-
+|[https://youtu.be/Qe1fJLe5jTw Link]
+|Birthday.
+|September 6, 2006
+|-
+|[https://youtu.be/Q2NS4w7FvI8 Link]
+|Short skit which features various shots of the store's exterior, game room, and animatronics
+|July 17, 2007
+|-
+|[https://youtu.be/GavMYsiL0Jo Link]
+|'Take On Me' video remix
+|January 31, 2008 
+|-
+|[https://youtu.be/SJvh2fjvDCU Link]
+|'Hit Me With Your Best Shot' video remix
+|March 15, 2008
+|-
+|[https://youtu.be/8rlk3TKel9Y Link]
+|'Be Good Johnny' video remix. The Helen and Jasper walkaround scenes were taken from this location.
+|May 3, 2008
+|-
+|[https://youtu.be/8IOT4p02hCQ Link]
+| 'What Up' video remix. The Helen and Jasper walkaround scenes were taken from this location.
+|October 6, 2008
+|-
+|[https://www.instagram.com/p/CTHgCkOH0Ogh6JuVKsSclacx02w3s-BX28KGUA0/?igshid=MzRlODBiNWFlZA## Link]
+|Footage of January 2009 being performed on the store’s stage
+|Q1 2009
+|-
+|[https://youtu.be/ohAxKy3xzVM Link]
+|The location's stage performing a birthday show; notice the stage condition's decline.
+|March 3, 2009
+|-
+|[https://youtu.be/8jKpzgWkUuk Link]
+|Jasper walkaround character playing with the person filming.
+|April 9, 2009
+|}
+
+
+
+
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+! Whereabouts
+|-
+|Chuck E. Cheese / Rolfe DeWolfe
+|7-82 1-12 
+|Destroyed
+|-
+|Pasqually / Dook Larue
+|7-82 2-12
+|Destroyed
+|-
+|Mr. Munch / Fatz Geronimo
+|7-82 3-12
+|Destroyed
+|-
+|Jasper T. Jowls / Beach Bear
+|7-82 4-12
+|Destroyed
+|-
+|Helen Henny / Mitzi Mozzarella
+|7-82 5-12
+|Destroyed
+|-
+|Billy Bob
+|7-82 6-12
+|Unknown
+|-
+|PizzaCam / Looney Bird
+|7-82 7-12
+|Destroyed 
+|-
+|Munch Jr. / Choo Choo
+|7-82 8-12
+|Destroyed
+|-
+|Building / Sun
+|7-82 10-12
+|Destroyed
+|-
+|Moon
+|7-82 11-12
+|Destroyed
+|-
+|Antioch
+|N/A
+|Unknown
+|-
+|Wink
+|N/A
+|Unknown
+|}
+
+##References##
+<references />

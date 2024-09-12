@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s Play Pass"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2023-01-13T19:13:31Z
 
 [Article]

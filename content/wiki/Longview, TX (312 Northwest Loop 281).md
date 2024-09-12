@@ -1,11 +1,13 @@
 +++
 title = "Longview, TX (312 Northwest Loop 281)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-09-23T02:54:30Z
 
 [Article]
 contributors = ["Non-Merch-Master","47.17.236.200"]
-gallery = []
+gallery = ["Longview.jpg|thumb|Longview in 2022"]
 +++
-wikitext
+
+
+**312 Northwest Loop 281** is a Chuck E. Cheese that opened in 2004 with Small-Town Studio C (Small Town Studio C).

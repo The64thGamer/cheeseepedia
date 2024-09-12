@@ -1,7 +1,7 @@
 +++
 title = "Uncle Klunk Diagnostic Tape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-07T03:16:54Z
 
 [Article]

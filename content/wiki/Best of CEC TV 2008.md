@@ -1,7 +1,7 @@
 +++
 title = "Best of CEC TV 2008"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2024-07-30T13:12:26Z
 
 [Article]

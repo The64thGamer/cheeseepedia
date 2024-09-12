@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Northridge Summer Show 2024 Part 2"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-07-30T23:11:51Z
 
 [Article]

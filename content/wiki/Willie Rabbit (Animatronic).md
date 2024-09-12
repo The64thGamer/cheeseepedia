@@ -1,11 +1,56 @@
 +++
 title = "Willie Rabbit (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-02-26T13:23:22Z
 
 [Article]
 contributors = ["PTT1977fan","Tobsters ;-;","2800:A4:1CC9:FB00:5142:68C:2B94:667","The 64th Gamer","Newbie editor","PizzaEntertainmentFanX"]
 gallery = []
 +++
-text/x-wiki
+{{Animatronic|image=Willie The Rabbit thing.png|unitsProduced=1|releasedate=1976|manufacturer=Creative Engineering}}
+**_Willie Rabbit**_ was an animatronic created by [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) in 1976 to advertise _[https://en.wikipedia.org/wiki/Mystery_Fun_House Mystery Fun House]_ in Orlando, Florida. The Bot was placed in a small glass kiosk at the Orlando Airport<ref name=':0'>https://www.youtube.com/watch?v=NMdZ-7nwigo</ref>.
+
+It is unknown the fate of The Bot, though it was most likely either thrown out or sent back to the [CEI R&D Office]({{< ref "wiki/Creative Engineering R&D Office.md" >}}).
+
+## History ##
+
+### Deal with Mystery Fun House & Creative Engineering ###
+In 1976, Creative Engineering would be set to create animatronic advertising for Mystery Fun House in Orlando Florida. The outcome was Willie Rabbit, an animatronic that would tell people at the Orlando Airport to visit Mystery Fun House.
+
+### Creation ###
+Not much is known about the creation of the Bot, though it was probably built in 1976 at [The original CEI corporate office]({{< ref "wiki/Creative Engineering Original Company Building.md" >}}).
+
+### Usage ###
+In 1976, The Bot was placed in a Glass Kiosk reading 'Mystery Fun House' at the Orlando Airport<ref name=':0' />. Only 1 video of the bot has resurfaced, showcasing the bot  moving & speaking some audio. The Bot apparently was programmed to multiple audio tracks that would play at random<ref name=':0' />, unlike most CEI bots which used full showtapes. The bot also seems to have had a coin slot that made Willie move.
+
+The bot remained most likely until the early 80's when it was removed.
+
+### Fate ###
+It is unknown what happened to The Bot as it has never been mentioned by Aaron or appeared in any tour of the building, this most likely means the bot was thrown away either at the airport or at CEI.
+
+## Design ##
+The Bot wore a Red tuxedo with a white patterned undershirt, a black bowtie, a flower, & Glasses. The Bot had bluish gray fur with lighter eyebrows, & a buck-tooth. 
+
+## Movements<ref name=':0' /> ##
+{| class='wikitable'
+|+
+!Movements
+|-
+|Head Left + Body Left
+|-
+|Head Right
+|-
+|Mouth
+|-
+|Right Arm Either Out or In
+|-
+|Left Arm Either Out or In
+|-
+|Ears Wiggle + Eyebrows Raise
+|}
+
+
+
+
+## References ##

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hightops"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2024-04-27T20:39:12Z
 
 [Article]

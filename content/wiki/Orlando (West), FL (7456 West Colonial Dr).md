@@ -1,7 +1,7 @@
 +++
 title = "Orlando (West), FL (7456 West Colonial Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-08T18:58:05Z
 
 [Article]

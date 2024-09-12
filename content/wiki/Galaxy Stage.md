@@ -1,7 +1,7 @@
 +++
 title = "Galaxy Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2023-11-22T18:27:10Z
 
 [Article]

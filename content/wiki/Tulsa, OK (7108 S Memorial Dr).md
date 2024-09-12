@@ -1,7 +1,7 @@
 +++
 title = "Tulsa, OK (7108 S Memorial Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-04T13:45:32Z
 
 [Article]

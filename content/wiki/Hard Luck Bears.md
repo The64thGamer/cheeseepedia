@@ -1,7 +1,7 @@
 +++
 title = "Hard Luck Bears"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-01-28T01:52:07Z
 
 [Article]

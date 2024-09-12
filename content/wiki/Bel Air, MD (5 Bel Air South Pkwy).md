@@ -1,7 +1,7 @@
 +++
 title = "Bel Air, MD (5 Bel Air South Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-14T18:51:51Z
 
 [Article]

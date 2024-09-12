@@ -1,7 +1,7 @@
 +++
 title = "Pasadena, CA (3737 E Foothill Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-03T20:47:54Z
 
 [Article]

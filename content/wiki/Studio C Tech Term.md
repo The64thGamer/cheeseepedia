@@ -1,7 +1,7 @@
 +++
 title = "Studio C Tech Term"
 draft = false
-tags = []
+tags = ["Animatronic Control Hardware & Software"]
 date = 2023-03-22T20:02:13Z
 
 [Article]

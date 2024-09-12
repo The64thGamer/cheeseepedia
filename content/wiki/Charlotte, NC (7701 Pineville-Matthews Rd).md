@@ -1,11 +1,423 @@
 +++
 title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-30T00:51:51Z
 
 [Article]
 contributors = ["BigCtheDataFinder","Rexburg090","ChuckECool","SuperCreamPiper2008","71.30.196.66","The 64th Gamer","BurgersNuggs445","71.31.183.205","ShowbizMidwest","Saan1ty","67.197.52.250","ThatBoiCydalan","Caydenpedia","CoolerDude","Animatronicbrainrot","Cy's Junk at School","Documentor","Livelycheese","Sonichacker","CECMentor","Chuckepoggers69","AstridMascotFan2005","Cecanddisneyfan2004","Cheeseclassic","Appatheris","CEC1988","Jaxonia","BenTrainFan2000"]
-gallery = []
+gallery = ["AdventureRestaurantCorpLogo.png|thumb|272x272px|Adventure Restaurant Corporation was the original franchise owner of the Pineville location.","PinevilleExterior08.jpg|thumb|Pineville's 1996-2012 Exterior (August 2008)|275x275px","Pinevilleduringcenterremodel.png|thumb|The store's exterior while the shopping center remodel was in progress. The old signage would still remain at this point. (February 21, 2012)|277x277px","PINEVILLEposterscan.jpg|thumb|247x247px|Scan of the Grand Reopening poster."]
 +++
-wikitext
+{{NoSources}}
+{{Generic|image=ExteriorJune2024.png|desc=Exterior (June 2024)}}
+**_Charlotte, NC (7701 Pineville-Matthews Rd), Store #64**_ (Commonly referred to as the **_Pineville**_ location) was a [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) store that opened on October 20th, 1982, which is currently operating to this day as a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}). It was the first ShowBiz Pizza to open in the state of North Carolina, and the second to open in the Carolinas overall. 
+
+This location has the last 3-Stage in the state, as well as being the **last** 3-Stage in existence, after [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) was removed for 2.0 on July 28th, 2024.   
+
+In May of 2024, Pineville had been chosen as one of five Chuck E. Cheese locations to be designated as a [CEC Legacy Location]({{< ref "wiki/CEC Legacy Locations.md" >}}), receiving a variant of the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) in June of that year.<ref name=':0'>https://www.reddit.com/r/chuckecheese/comments/1d1iq2g/comment/l5wec8e/</ref> 
+
+## Stages ##
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|October 1982
+|1991
+|First ShowBiz Pizza Place in North Carolina.
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991
+|Still in Use
+|One of six North Carolina ShowBiz stores to undergo Concept Unification. Last 3-Stage in operation and last complete 3-Stage. Preserved in-store following the 2.0 remodel as the company's official 3-stage<ref>https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/</ref>.
+|-
+|Dance Floor
+|June 11th, 2024 
+|Still in Use 
+|
+|-
+|Video Wall
+|June 13th, 2024
+|Still in Use 
+|
+|}
+
+## History ##
+Pineville opened its doors on October 20th, 1982, at the _Carmel Commons Shopping Center_ with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) show, being the second ShowBiz in the Carolinas following [Charleston, SC (1610 Sam Rittenburg Blvd)]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}). It was originally a franchise-owned store, under the ownership of 'Adventure Restaurant Corporation,' which owned other ShowBiz locations in the area during the time. Like many other ShowBiz locations, it had a typical layout seen in many other stores and would eventually receive the 1988 remodel. Although very little documentation exists back in the ShowBiz days, it can be determined that Pineville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening with the few photos available online and what would remain of the 'Abombination' drop-down sign mechanic slot on stage right. Pineville received the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), though it's unclear if their Rock-afire acquired the ShowBiz Pizza Campground update.
+
+
+### Concept Unification ###
+Pineville would be one of a majority of locations to undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991. An advertisement coupon from a newspaper clipping would show that the conversion was complete by mid-late 1991 (possibly November) as the coupon's expiration date was December 31st of that year. However, in January 1993, Adventure Restaurant Corp. would shutter the store after owning it for 10 years. 
+
+### Reopening ###
+This closure would've remained permanent until ShowBiz Pizza Time, Inc. would acquire to license to operate Pineville from its previous franchise owner the same month, thus the location would reopen as a corporate-owned store practically unchanged from how it was at the time and has remained a corporate store since. The corporate reopening would also mark the official rebrand of Pineville from ShowBiz to Chuck E. Cheese's at the same time as former locations were rebranding completely.
+
+### 1990's ###
+In this point of Pineville's operation, the store would receive the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) sometime by 1995 at the earliest, complete with: 
+
+* An Obstotron (later [Skytubes]({{< ref "wiki/Skytubes.md" >}})) 
+* 1991 Platinum CD Award posters (Bad Dog, Saturday Night Retriever, Yellow Submarine Sandwich, I've-Gotta-Da-Pizza and Flabby Road) 
+* Mt. Chuckmore Decor 
+* 1991 Postcard Posters (Pasqually's Italy and Jasper's Wild West)
+* Cheese Guitar Decor 
+* SPT Salad Bar Sign
+* [SPT Beverages Sign]({{< ref "wiki/Beverages (SPT Signage).md" >}}) 
+* Vest Chuck Signage
+* 1991 Confetti Portraits 
+
+Pineville would also receive the black & green-colored booths common to this remodel plan at the time.<ref>https://youtu.be/5MEcoRu445M?t=794</ref>
+
+
+### 2000's ###
+Sometime in the 2000's, the original Munch Jr. would be removed from the 3-Stage and a Toddler Zone would be installed near the showroom. Pineville would receive a general game package mirroring other CECs that included Rollercoaster Tycoon 2 Pinball by Stern, Chuck E.'s Choo Choo, Kiddie Coaster, Rock N' Moon Rally, Chatty Chuck E. out of many. This decade would also be when the location would undergo the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) with newer booths, posters, and purple walls prior to around 2008. However, (between this time and the early 2010's) the 90's exterior would remain along with the early 90's Chuck E. Cheese Roll Skee-Balls, not entirely modernizing the store quite yet. Though, by 2010, Chuck E.'s tuxedo would be replaced with the Avenger attire.
+
+### 2010's ###
+
+Starting in early 2012, the Carmel Commons shopping mall Pineville was located in received a major exterior renovation, repainting the mall from brown to white. This would impact the Pineville store, reconstructing the front of the exterior and finally updating it from the 1998 Cool Chuck sign to the 2004 Avenger Chuck sign, now modernizing the store in full. The store would also expand into a former Carmel Commons tenant, making room for more arcade games and seating. Later in 2013, a number of changes would come to Pineville. The game package would change once again, removing several (including Rollercoaster Tycoon 2 Pinball and the 90's Chuck E. Cheese Rolls) in favor of more simpler games. The stage would see Chuck E.'s eyebrows and triangular base removed unexpectedly (with Pineville's Chuck E. becoming infamous for not having eyebrows for a long period of time this decade) as well as the stage base trim being repainted from brown to black. Pizzacam was removed prior to these updates and his mechanism was placed in storage underneath stage left. Finally, several walls were painted back to white, only keeping existing purple walls in the showroom and front of the store.
+
+### 2020's ###
+
+#### 3-Stage Updates ####
+At the start of the 2020's, the condition of Pineville's 3-Stage began to decline in quality. However, when technician and fellow CEC fan miltondrivewaysignal would step in to work at the location between 2021 and 2022, the show at Pineville would receive multiple updates and fixes never before seen on most 3-Stages. These would include, but are not limited to:
+
+*Newly reinstated eyebrows for Chuck E. as well as a replacement right arm bracket.
+* A repaint given to the base of Chuck E.'s star and Pasqually's backdrop flood cover.
+*A yellow feather boa for Helen's hair and a teal mask/eyelid repaints. In fall of 2023, her mask would be replaced and in 2024 her pigtail movements were fixed after not working for years.
+*The return of Munch Jr. as a custom replica and the return of Mr. Munch's hat (originally from [Albemarle Rd]({{< ref "wiki/Charlotte, NC (5612 Albemarle Rd).md" >}}));
+*Mr. Munch being cosmetically and mechanically restored along with added strobe lights to his organ and band sign.
+*A custom organ front reading 'CEC' in the style of a custom organ front at [Huntsville, AL]({{< ref "wiki/Huntsville, AL (1220 Jordan Lane).md" >}}) and a fresh coat of paint for the organ legs changing them from the traditional silver to white. Also, the organ exhausts were changed from black to orange tubing.
+*A cosmetic and mechanical repair of Jasper complete with a new, custom shirt pattern design and added fur to the mask. In fall of 2023, Jasper would be reverted back to his standard look.
+*Pasqually's base receiving new, pink glitter trim as well as mechanical adjustments to his arms for livelier 'drumming.'
+*A repaint of Helen, Munch, and Jaspers shoes.
+*The reinstating and repair of the Fiber Optic Star Curtain after not being used for some time.
+*Updating the backdrop and overhead floods with bright and colorful LEDs.
+* The replacement of several characters' MAC valve banks with Baomain valve banks.
+*The red and white stripes on the Wink being removed revealing 'In Pizza We Trust' once more.
+*Exchanging the previous blue valance with green valance from the now closed [Charleston, South Carolina]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) location.
+*Avenger Ticket signage being reapplied to some walls throughout the store for display.
+*A garage door motor installed for the Center Stage curtain track.
+**Curtains that were salvaged from [Lynchburg, VA (312 Border St)]({{< ref "wiki/Lynchburg, VA (312 Border St).md" >}}) were installed on Center Stage for a brief period of time before being replaced by generic store-bought curtains moved over from Stage Right and Stage Left.
+*A new, restored mask for the Building character prop taken from the Columbia, SC location (the Building character previously was missing its mask due to age and deterioration).
+*The base of the 3-Stage getting changed from black carpet to wood paneling.<ref>https://www.youtube.com/shorts/clieR0zVmXw?feature=share</ref>
+*Munch Jr's can being spray painted black at the top.
+*The addition of the Pizzacam animatronic from [Laurel, MD]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}), completing the 3-Stage
+*The Stage finally receiving the Jukebox TV topper half
+*The original curtains and curtain motor from the [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) store being installed on July 24, 2024
+
+#### Munch's Make Believe Band Residency & 2.0. Remodel ####
+In May 2024, CEC Entertainment announced Pineville's selection as a [Legacy Location]({{< ref "wiki/CEC Legacy Locations.md" >}}). This included an area where guests and fans alike were able to see art and memorabilia throughout the company’s history. The 2.0 remodel started on June 9th, 2024, with the Dance Floor's installation on June 11th, followed by Video Wall's installation on June 13th.<ref name=':0' /> The Trampoline Zone was assembled and operating by June 19th. 
+
+On June 18th, a [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) animatronic was sent to the location from the [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}) for installation. This animatronic was previously from the [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}) store and had been in storage for 2 years by that point. Pizzacam was meant to be installed prior to opening, but instead was situated in front of the stage due to unspecified electrical issues during the installation attempt. The animatronic was then wheeled into the back hallway, illegally blocking the emergency exit for a short period. An advertising poster was placed in front to block it from public view before it was moved into the tech room. Two days later on June 20th, Pizzacam was officially installed. Mechanical maintenance was conducted between June 20th and July 4th, requiring Pizzacam to be shut off temporarily due to a missing flow control in his head turn.
+
+On July 7th, CEC announced that the grand reopening event at the store is slated to take place on the 26th. On July 10, Mark Kupferman posted an invitation to the Chuck E. Cheese Reddit<ref>https://www.reddit.com/r/chuckecheese/comments/1dzmyxa/official_invite_to_pineville_fan_celebration/</ref>. While for most locations the tagline on the invitation is 'Come See What's New at Chuck E. Cheese', this one said, 'Celebrating the Fans of Pineville'. The invitation also advertised a free poster and pin (like [Northridge, CA]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}})'s event had) and a special performance by Munch's Make-Believe Band. The event is being marketed as a fan celebration, rather than a grand reopening. 
+
+The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) a few days before the grand reopening.
+
+## Arcade Machines ##
+
+### Skill ###
+
+* Redhot
+* Super Monkey Ball Ticket Blitz
+* Bike Rally
+* Jumpin’ Fantasy
+* Big Bass Wheel Pro
+* [Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
+* NBA Hoops (2 units)
+* Crazy Tower
+* Doodle Jump Arcade
+* Choppy Wood
+* Sea Wolf
+* SnoCross X (2 units)
+* Luigi's Mansion Arcade
+* Harpoon Lagoon
+* Mad Wave Motion Theater
+* Monster Drop (2 units)
+* H2Overdrive
+* Alley Roller Classic (5 units)
+* Sideshow
+* Spinner Frenzy
+* Bean Bag Toss
+* Water Blast
+* Launch Code
+* [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+* Sonic Blast Ball
+* Soccer Fortune
+* Terminator Salvation
+* Frogger
+* Treasure Quest
+* Cruis'n Blast (2 units)
+* Fast & Furious: SuperCars (2 units)
+* Strike it Rich!
+* Temple Run
+* Mega Blaster
+* SpongeBob SquarePants Ticket Coaster
+* FGTeeV Out of Time
+* Lumber Jack
+* Black Hole
+* Teenage Mutant Ninja Turtles
+* Tons of Tickets
+* Drop It Drop It
+* Halo Fireteam Raven
+* Crab Rush
+* MotoGP
+
+#### Coin-Action ####
+
+* SpongeBob SquarePants (SEGA)
+* Winners' Toggle
+* The Simpsons Kooky Carnival
+* Wonderland
+* Big Rig Truckin' (Solo)
+
+### Kiddie ###
+
+* Teacup Ride
+* Hit Music
+* Funny Hamster
+* Giraffe Play
+* Cheeky Monkey Football
+* Clifford the Big Red Dog
+* Angel Carousel
+* Spydero
+* Arka Jungle Boat
+* Jett Rider
+* Chuck E. Cheese's Color Photo Ride (Rockstar, 2019; Avenger statue on display at museum section)
+* Minions
+* Hammer 2
+* [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+* Chuck E.'s Goalie All Stars
+* Astro Invasion
+* Rainbow
+* Dog Pounder
+* Chuck E.'s Fun Photos Photo Booth
+* Chuck E. Cheese's Trolley Ride (in museum, not operating)
+* Chuck E. Cheese's Pizza Delivery ride (in museum, not operating)
+
+### Former ###
+
+* CEC Street Hoops
+* Chatty Chuck E.
+* [Chuck E. Cheese Roll]({{< ref "wiki/Chuck E Cheese Roll.md" >}}) (1990's Variant)
+* [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
+* [Chuck E.'s Choo Choo]({{< ref "wiki/Chuck E's Choo Choo.md" >}})
+* Chuck E's Marathon Runner
+* Operation
+* Rock N' Moon Rally
+* Rollercoaster Tycoon 2 Pinball (Stern)
+
+## Videos ##
+{| class='wikitable'
+! Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://youtu.be/5MEcoRu445M Link]
+|A video showcasing the store, games, & 3-Stage in Between January-March 1995 
+|January-March 1995
+|March 31, 2020
+|-
+|[https://youtu.be/sMpH0rHtBzU Link]
+|A slideshow showcasing some of the 3-Stage in 2005
+|2005
+|June 1, 2022
+|-
+|[https://youtu.be/YsZysWmzHKY Link]
+|Some compiliation footage and photos of Charlotte (Pineville)'s 3-Stage.
+|May 20, 2010
+|September 19, 2020
+|-
+|[https://youtu.be/YRraS2vNTSk Link]
+|A vlog where they play Chuck E. Cheese Sakte Universe and then they visit Charlotte (Pineville).
+|July/August 2014
+|August 6, 2014
+|-
+|[https://youtu.be/XLgkd1DoYnw Link]
+|A family vlog where they visit Charlotte (Pineville) and have a birthday party there. 
+|2014
+|September 26, 2018
+|-
+|[https://youtu.be/0Fvj7bbMGvc Link]
+|A vlog where they visit Charlotte (Pineville).
+|August? 2016
+|September 2, 2016
+|-
+|[https://youtu.be/AUz-oEijys4 Link]
+|A family vlog where they visit Charlotte (Pineville). 
+|March 2019
+|March 28, 2019
+|-
+|[https://youtu.be/xqhy_CeeyPE Link]
+|The store featured on the Sets, Streets, & Eats YouTube channel.
+|October 26, 2022
+|November 1, 2022
+|-
+|[https://youtu.be/laOm3LW0o0g Link]
+| Store Tour of the store in December 2022
+|December 2022
+|December 28, 2022
+|-
+|[https://youtu.be/BmwxmsuixQg Link]
+|Store Tour of the Store in March 2023
+|March 8, 2023
+|March 25, 2023
+|-
+|[https://www.youtube.com/shorts/J68W70vU7mE Link]
+|A short clip of 'Ves Al Ratoncito' from Chuck E. Cheese's Show 2 2019 (Show 2 2019) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+|March 8, 2023
+|-
+|[https://www.youtube.com/shorts/3XfNprc93I0 Link]
+|A short clip of 'Stay Positive' from Chuck E. Cheese's Show 2 2021 (Show 2 2021) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+|March 8, 2023
+|-
+|[https://youtu.be/yWE-UwB0O1Q Link]
+|'Join the Party' from [Chuck E. Cheese Summer of Fun 2022 Show]({{< ref "wiki/Chuck E Cheese Summer of Fun 2022 Show.md" >}}) being performed on Charlotte (Pineville)'s 3-Stage
+| March 8, 2023
+| March 25, 2023 
+|-
+| [https://youtu.be/yaO0KJZmnGQ Link]
+|'Trio' from Chuck E. Cheese's Show 3 2017 (Show 3 2017) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+|March 25, 2023 
+|-
+|[https://youtu.be/WMhhamgC08k Link] 
+|'Game On' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+| March 25, 2023
+|-
+|[https://youtu.be/i53yuM08HcU Link] 
+|'Ves Al Ratoncito' from Chuck E. Cheese's Show 2 2019 (Show 2 2019) being performed on Charlotte (Pineville)'s 3-Stage.
+|March 8, 2023
+|March 25, 2023
+|-
+|[https://youtu.be/7u_0pCs8EPA Link]
+|'I Dare You Not To Laugh' from Chuck E. Cheese's Show 3 2021 (Show 3 2021) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+|March 25, 2023
+|-
+|[https://youtu.be/Pi70mEjAgfs Link]
+|'Stay Positive' from Chuck E. Cheese's Show 2 2021 (Show 2 2021) being performed on Charlotte (Pineville)'s 3-Stage
+|March 8, 2023
+|March 25, 2023
+|-
+|[https://youtu.be/ZpsJGBVjrwY Link] 
+|'Disco Dancing Dinosaur Party' from Chuck E. Cheese's Show 1 2020 (Show 1 2020) being performed on Charlotte (Pineville)'s 3-Stage 
+|March 8, 2023
+|March 25, 2023
+|-
+|[https://youtu.be/89IiOuU0FGk Link]
+| 'My Family' from Chuck E. Cheese's Show 3 2019 (Show 3 2019) being performed on Charlotte (Pineville)'s 3-Stage.
+|March 8, 2023 
+| March 25, 2023
+|-
+|[https://www.youtube.com/watch?v=Cvu58WVJ8fs Link]
+|A vlog where they visit Charlotte (Pineville) for a child's birthday party.
+|April 30, 2023
+|April 30, 2023
+|-
+|[https://www.youtube.com/watch?v=5LgCmjOiRWg Link]
+|'Let's Be Friends' from Show 3 2023 being performed on Charlotte (Pineville)'s 3-Stage.
+|July 9, 2023
+|July 17, 2023
+|-
+|[https://www.youtube.com/watch?v=oNBVI6snuYI Link]
+|'Song of Summer' from Show 3 2023 being performed on Charlotte (Pineville)'s 3-Stage
+|Summer 2023
+|April 29, 2024
+|-
+|[https://www.youtube.com/watch?v=QEk0kiKAI18&t Link]
+|A stage tour taken in July 2023
+|July 2023
+|January 6, 2024
+|-
+|[https://youtu.be/BxPmKlhlyn4?si=d5-7_UY5z5F3gW_J Link]
+|A tour of the store in April 2024 by the Sets, Streets, & Eats YouTube channel.
+|April 25, 2024
+|May 5, 2024
+|-
+|[https://www.youtube.com/watch?v=usPzKBvKJfE Link]
+|First YouTube upload of the Legacy 2.0. Remodel.
+|June 11th, 2024
+|June 11th, 2024
+|-
+|[https://www.youtube.com/watch?v=gEoDp0edNfc Link]
+|[Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}})'s Pizzacam at Pineville upon arrival.
+|June 18, 2024
+|June 18, 2024
+|-
+|[https://www.youtube.com/watch?v=l4EklhIpl10 Link]
+|A tour of the store in Summer 2024 by the Sets, Streets, & Eats YouTube channel.
+|Summer 2024
+|July 14, 2024
+|}
+
+
+
+
+
+## Animatronics##
+{| class='wikitable'
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+| 1-82 1-23
+|In store.
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|1-82 2-23
+|In store.
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|1-82 3-23
+|In store.
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|1-82 4-23
+|In store.
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|1-82 5-23 
+|In store. 
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|1-82 6-23
+|Unknown.
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|1-82 7-23
+| Disassembled.
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|10-82 7-40
+|In store. Previously from [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}).<ref>https://www.instagram.com/p/C8XEdGdJUAk/?igsh=MXQyaHAzY21oNXlpMg##</ref>
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|1-82 8-23 
+|Unknown. Custom replica produced in March 2022.
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|1-82 10-23
+|In store. Currently using mask from [Columbia, SC]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}}) location.
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|1-82 11-23
+|In store.
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+| N/A
+| Unknown.
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+| N/A
+|In store.
+|}
+
+## References ##
+<references />

@@ -1,7 +1,7 @@
 +++
 title = "Richardson, TX (1235 E Belt Line Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-01-04T07:38:22Z
 
 [Article]

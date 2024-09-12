@@ -1,7 +1,7 @@
 +++
 title = "La Mirada, CA (15100 Rosecrans Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-28T15:11:01Z
 
 [Article]

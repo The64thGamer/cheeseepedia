@@ -1,11 +1,71 @@
 +++
 title = "Holiday '93"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-12-25T18:21:42Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","Saan1ty"]
 gallery = []
 +++
-text/x-wiki
+{{Showtape
+|image=Happyholidayslogo.jpg
+|date=December 1993
+||r1293 = y
+|c&r93 = y
+|cusvhs = y
+}}
+
+**_Holiday 1993**_ was the segmented show which played during December 1993 and 1994 at Chuck E. Cheese's Pizza stores.
+
+##Show List ##
+#**Intermission 1**
+##3-Minute Countdown
+##Birthday Star (Walk-In)
+##Holiday Cheer
+##CEC TV '93 ID
+#**Segment 1**
+##Santa Claus is Coming To Town
+##Rudolph The Red-Nosed Reindeer
+#**Intermission 2**
+##Manheim Steamroller - Deck The Halls
+##Birthday Star
+##Helen Henny's Hollywood - Rudolph
+##VJ Spot
+##Jingle Bells / Up On The Housetop
+##Birthday Star (Walk-In)
+##3-Minute Countdown
+##Geography Rap - North Pole
+#**Segment 2**
+##Here We Come A Caroling
+##Silver Bells
+#**Intermission 3**
+##Ken Chuck E. Derby Announcement
+##Christmas Countdown
+##Birthday Star
+##Manheim Steamroller - Silent Night
+##Silent Night
+##Ken Chuck E. Derby
+##Birthday Star (Walk-In)
+##3-Minute Countdown
+##VJ Spot
+##Deck The Halls / O Christmas Tree / We Wish You A Merry Christmas
+#**Segment 3**
+##Share The Joy
+##Rockin' Around The Christmas Tree
+#**Intermission 4**
+##Manheim Steamroller - Little Drummer Boy
+##Birthday Star
+##CEC TV News - Holiday Special
+##VJ Spot
+##Ken Chuck E. Derby Announcement
+##Jolly Old Saint Nicolas / On Christmas Day
+##Birthday Star (Walk-In)
+##3-Minute Countdown
+##Ken Chuck E. Derby
+
+##Trivia:##
+*This showtape contains the same songs and intermissions as [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}), just rearranged. It also adds Walk-In Birthday Star.
+*After intermission 4, the tape replays the full show starting at Holiday Cheer. 
+
+##Showtape Scans / Images:##

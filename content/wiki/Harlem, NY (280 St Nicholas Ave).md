@@ -1,7 +1,7 @@
 +++
 title = "Harlem, NY (280 St. Nicholas Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-31T15:39:47Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Lansing, MI (5451 L West Saginaw Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-24T20:30:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Cyberstar Diagnostic Tape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-10-07T17:43:13Z
 
 [Article]

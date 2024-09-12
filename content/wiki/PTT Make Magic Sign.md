@@ -1,7 +1,7 @@
 +++
 title = "PTT Make Magic Sign"
 draft = false
-tags = []
+tags = ["PTT Store Fixtures"]
 date = 2024-05-27T19:34:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Towson, MD (809 Goucher Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-31T18:05:13Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "West Des Moines, IA (1431 22nd St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-08T23:00:56Z
 
 [Article]

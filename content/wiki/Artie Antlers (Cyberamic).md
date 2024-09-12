@@ -1,7 +1,7 @@
 +++
 title = "Artie Antlers (Cyberamic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-05-21T17:19:48Z
 
 [Article]

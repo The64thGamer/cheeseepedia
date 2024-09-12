@@ -1,11 +1,15 @@
 +++
 title = "Chuck 2010 (Costume Head)"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2022-07-15T01:25:53Z
 
 [Article]
 contributors = ["Showtimeinc"]
-gallery = []
+gallery = ["2010CECWALKAROUND.jpg|thumb"]
 +++
-wikitext
+
+This is the last version of the Chuck E. Cheese walkaround before the 2012 redesign. The 2010-2012 short furs added less dense, black plastic to the back of Chucks head, darker short fur, darker shade blue eye screens, as well as making the entire head slightly smaller This is the lightest and smallest version of the Chuck walkaround head.
+
+
+

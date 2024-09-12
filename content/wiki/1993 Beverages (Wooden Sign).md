@@ -1,7 +1,7 @@
 +++
 title = "1993 Beverages (Wooden Sign)"
 draft = false
-tags = ["Store Fixtures"]
+tags = []
 date = 2023-07-08T16:23:26Z
 
 [Article]

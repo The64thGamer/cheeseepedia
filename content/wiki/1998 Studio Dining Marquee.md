@@ -1,7 +1,7 @@
 +++
 title = "1998 Studio Dining Marquee"
 draft = false
-tags = ["Store Fixtures"]
+tags = []
 date = 2023-07-08T16:25:50Z
 
 [Article]

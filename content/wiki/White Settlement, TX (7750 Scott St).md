@@ -1,11 +1,203 @@
 +++
 title = "White Settlement, TX (7750 Scott St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-05-22T13:33:26Z
 
 [Article]
 contributors = ["CECBowlingGreen","Documentor","RedaCEC","Rexburg090","216.125.34.66","CEC Tinley","Steven 'CEC' Master","The 64th Gamer","Caydenpedia","SuperCreamPiper2008","Cecnj98","CECMentor"]
 gallery = []
 +++
-text/x-wiki
+{{NoSources}}{{Generic|image=WhiteSettlementExterior2018DecemberGoogleMaps.png|desc=A street view of the store's exterior back in December 2018 (PC: Google Maps)}}
+**_7750 Scott St, Store #90**_ was a Showbiz Pizza Place that opened on December 29, 1982, with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which closed in 1985.
+
+This location reopened as a Showbiz Pizza (with the CEC characters) on August 6, 1987, with Chuck E.'s House (Chuck E's House), which closed on June 25, 2020, because of the COVID-19 Pandemic and the company bankruptcy that same year.
+
+## History ##
+White Settlement first opened as Showbiz Pizza Place on December 29th, 1982, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) like every other Showbiz at the time. The store then closed sometime in 1985 for unknown reasons. The store would remain vacant for 1-2 years until reopening as Showbiz Pizza (with the CEC characters) on August 6, 1987, when they received Chuck E.'s House. They would then remodel again in February 1992 which removed Chuck E's House for the first 2-Stage. Then they would remodel again in around 1994-1995 to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). In around 2004, they repainted the 2005 Remodel Checkers onto the facade, keeping the Thumb Chuck logo intact. In around 2005, White Settlement would then remodel again to remove the showroom walls, most the 1990s decor (Except the record posters which they kept until their 2020 closure), & Showroom Balcony. In around the Late 2000's-Early 2010's, the dim lighting would be replaced with bright florescent lighting & removed some of the decor. The store would remain this way until they closed on June 25th, 2020, as part of CEC's bankruptcy and the COVID-19 pandemic. After the location's closure, the building's inside would be subject to vandalism. Some walls would be torn down, the counter was turned over, some games, a seating booth, and even the ice cream machine were left in there. This was due to the entrance doors not being locked. Around early 2022, the store was converted into a blood donation center called Freedom Plasma. As of April 2023, Freedom Plasma is still there.
+
+On July 26th, 2019, White Settlement would have hosted Chuck E. Con 2019 which was then hosted at the [North Richland Hills]({{< ref "wiki/North Richland Hills, TX (7935 Grapevine Hwy).md" >}}) location the next day.
+
+## Stages ##
+Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had, they would have this until 1985, when they would close for unknown reasons. On August 6, 1987, the store would reopen as a Showbiz Pizza with Chuck E.'s House, as the period when the store opened was during the time when CEC stores went by the name of Showbiz, despite not having the RAE, they were the 3rd Chuck E.'s House installed, after [Eau Claire]({{< ref "wiki/Eau Claire, WI (2221 Eastridge Center).md" >}}), and [Arlington]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}), as well as being the second modern CEC store to open. They would have Chuck E.'s House for a short time until February 1992, when they would receive the very first 2-Stage, having a different design than the later 2-Stages, with the stages separated into two parts (later ones have just one stage with a TV separating Chuck E. and Helen) a blue valence, 3-Stage buildings, Jasper sitting on a vent from a 3-Stage, Munch having a Road Stage keyboard, and Pasqually keeping his PTT arm movements. They would have the 2-Stage until they closed on June 25, 2020, as part of CEC's Bankruptcy and the COVID-19 Pandemic. The 2-Stage would be completely empty, with all of the props, backdrops, and animatronics gutted.
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|December 1982
+|1985
+|22nd Showbiz Store to open in Texas.
+|-
+|[Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}})
+|August 1987
+|February 1992
+|3rd Chuck E.'s House installed.
+|-
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|February 1992
+|June 2020
+|First ever 2-Stage.
+|}
+
+## Animatronics ##
+{| class='wikitable'
+!Animatronic
+!Serial Number 
+!Whereabouts 
+|-
+|[Rolfe Dewolfe & Earl Schmerle]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|4-82 1-15
+|Unknown.
+|-
+|[Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|4-82 2-15 
+|Unknown.
+|-
+|[Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|4-82 3-15
+| Unknown. 
+|-
+|[Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|4-82 4-15
+|Unknown.
+|-
+|[Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|4-82 5-15
+|Unknown.
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|4-82 6-15
+|Unknown.
+|-
+| [Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|4-82 7-15
+|Unknown.
+|-
+|[Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|4-82 8-15
+|Unknown. 
+|-
+|[Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|4-82 10-15
+| Unknown.
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|4-82 11-15
+|Unknown.
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A 
+|Unknown.
+|-
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|Unknown
+|Destroyed.
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|Unknown
+|Destroyed.
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|Unknown
+|Destroyed.
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|Unknown
+|Destroyed.
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|Unknown
+|Destroyed.
+|-
+|[Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
+|Unknown
+|Unknown.
+|-
+|[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}})
+|Unknown
+|Destroyed.
+|}
+
+
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Filming Date
+! Publish Date
+|-
+|https://www.youtube.com/watch?v=ORdEB1qLjRA
+|Grammy Awards. White Settlement's Rocker Stage was seen in this video. 
+|1988
+|April 25, 2011
+|-
+|https://www.youtube.com/watch?v=ckLqwzSsUs8
+|White Settlement's Rocker Stage and the SPP 1986 Remodel can be seen in this video.
+|October 1988
+|October 20, 2010
+|-
+|https://www.youtube.com/watch?v=JKvLQqk8htU
+|Best Of 1988 (Tune Machine). White Settlement's Rocker Stage was seen in this video. 
+|1989
+|February 1, 2011
+|-
+|https://www.youtube.com/watch?v=RaFEs-JbgDI
+|Best Of 1988 (Tune Machine 2). White Settlement's Rocker Stage was seen in this video. 
+|1989
+|February 1, 2011
+|-
+|https://www.youtube.com/watch?v=CJuJScZYQoE&ab_channel=essuper11
+|Earliest known footage of White Settlement's 2-Stage shortly after being installed. Features LIVE shows Birthday Star '92 and Dance To The Music
+|1992
+|January 8, 2024
+|-
+|https://www.youtube.com/watch?v=Hbv8ur7v9uo
+|'In the Future' from Chuck E. Cheese's Show 3 2015 (Show 3 2015) being performed on some locations. White Settlement was featured in this video.
+|April/May 2015
+|May 15, 2015
+|-
+|https://www.youtube.com/watch?v=HMxdknDTTAE
+|'Trick or Treat' from Chuck E. Cheese's Show 6 2015 (Show 6 2015) being performed on White Settlement's 2-Stage.
+|September/October 2015
+|October 1, 2015
+|-
+|https://www.youtube.com/watch?v=A2elj1yqWv4
+|'Birthday Star Spectacular' being performed on White Settlement's 2-Stage. Footage starts at 4:46.
+|July 22, 2018
+|June 15, 2023
+|-
+|https://www.youtube.com/watch?v=DK0ugn7_L1A
+|White Settlement being announced as a location where Chuck E. Con 2019 would be hosted.
+|July 2019
+|July 19, 2019
+|-
+|https://www.youtube.com/watch?v=OPXu-PTrCmE
+|A vlog filmed during Chuck E. Con 2019 (Thhe store was at the beginning of the blog)
+|July 26, 2019
+|July 29, 2019
+|-
+|https://www.youtube.com/watch?v=y8EpWMPqVn0
+|'Chuck E's Easy Dance' being performed on White Settlement's 2-Stage.
+|July 26, 2019
+|July 31, 2019
+|-
+|https://www.youtube.com/watch?v=mOJHqezU3LU
+|A store tour of the store recorded during Chuck E. Con 2019.
+|July 26, 2019
+|August 21, 2019
+|-
+|[https://youtu.be/sTuBneLdi5s?t=7 https://www.youtube.com/watch?v=sTuBneLdi5s]
+|The store was featured at the beginning of the video. Was a location where Chuck E. Con 2019 was hosted. 
+|July 26, 2019
+|August 24, 2019
+|-
+|https://www.youtube.com/watch?v=olxJDZU0rUM
+|A interior and exterior look of the then abandoned store.
+|January 2021
+|January 8, 2021
+|}

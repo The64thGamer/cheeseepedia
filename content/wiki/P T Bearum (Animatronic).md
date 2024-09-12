@@ -1,7 +1,7 @@
 +++
 title = "P. T. Bearum (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-02-08T20:11:48Z
 
 [Article]

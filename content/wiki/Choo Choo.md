@@ -1,7 +1,7 @@
 +++
 title = "Choo Choo"
 draft = false
-tags = []
+tags = ["Characters"]
 date = 2024-05-29T02:18:19Z
 
 [Article]

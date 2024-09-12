@@ -1,7 +1,7 @@
 +++
 title = "Clapper Board (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
+tags = []
 date = 2024-05-21T17:23:13Z
 
 [Article]

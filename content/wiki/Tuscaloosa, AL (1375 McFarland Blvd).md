@@ -1,7 +1,7 @@
 +++
 title = "Tuscaloosa, AL (1375 McFarland Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-26T22:29:49Z
 
 [Article]

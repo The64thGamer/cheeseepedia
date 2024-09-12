@@ -1,7 +1,7 @@
 +++
 title = "Lynnwood, WA (3717 196th St Suite 100)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-13T17:01:20Z
 
 [Article]

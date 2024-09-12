@@ -1,7 +1,7 @@
 +++
 title = "Chuck 1999 (Costume Head)"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2023-09-16T18:06:52Z
 
 [Article]

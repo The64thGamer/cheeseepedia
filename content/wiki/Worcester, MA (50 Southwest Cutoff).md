@@ -1,11 +1,103 @@
 +++
 title = "Worcester, MA (50 Southwest Cutoff)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-05-26T22:36:22Z
 
 [Article]
 contributors = ["Destinationimagination95","RPCEC Backup","The 64th Gamer","2600:4040:59FF:B100:9C6:388E:A183:C3C5","Rexburg090","Cheeseclassic","YBP123","ThatBoiCydalan"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=Worcester Exterior.jpg|desc=Worcester's Exterior (PC: Google Maps)}}
+**_Worcester, MA (50 Southwest Cutoff), Store #459**_ is a _Chuck E. Cheese_ location that opened in August 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+## History ##
+Worcester opened on August 18th, 1992 in Southwest Commons. The location originally featured a 2-Stage. Unlike many of them at the time, this location had Jasper's banjo, much like Burlington, which opened 2 weeks prior & Orange which opened 2 months and 2 days prior. Sometime from 1995-1997, they changed out their original sign for a Coach Chuck sign. Between 1999-2002, some changes were made to the characters, including Helen and Pasqually getting a new mask and Jasper's shirt, Pasqually's apron, and Helen's dress being replaced. Chuck received the Cool Chuck outfit that year as well, and the stage switched to lift curtains by 2004, which is when they were disabled. That fall, Worcester remodeled to the 2005 Remodel, which made it the first CEC in Massachusetts to get the remodel. 
+
+The stage remained the same until the 2010s rolled around, when Helen again got her third mask, and Chuck had the Avenger shirt by this time. In 2013, Chuck got his khakis replaced with Avenger shorts, the Munch's Make Believe Band sign was removed, and Jasper's banjo was broken in half, being replaced with the 3-Stage cheese guitar. The lift curtains were removed the next year. Worcester would remain mostly the same after this, except for Pasqually's drum being flipped around, and the Ticket Blaster decal placed on the now front side.
+
+In October of 2021, Worcester removed their 2-Stage, to be replaced by the Chuck E. Live Stage (Dance Floor) (Dance Floor) and Video Wall as part of the remodel to 2.0. The top halves of Chuck E., Helen, and Jasper would be sent to [Lowell]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}), replacing their halves. Pasqually's mask would make its way to [North Dartmouth]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}) to replace their mask. Worcester had their grand reopening ceremony on January 12th, 2022, where Helen Henny would make an appearance. 
+##Stages##
+{| class='wikitable'
+|+
+! Stage 
+!Installed
+!Removed
+|-
+|[2-Stage]({{< ref "wiki/2-Stage.md" >}})
+|August 1992
+|October 2021
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + Video Wall
+|October 2021
+|Still In Use 
+|}
+## Animatronics ##
+{| class='wikitable'
+|+
+!Animatronics
+!Manufacturing  Date 
+!Status
+|-
+|Chuck E Cheese (Cyberamic) (Chuck E. Cheese (Cyberamic))
+|1991-1992
+|Top half sent to Lowell, now destroyed.
+|-
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (Cyberamic))
+|1991-1992
+|Top half sent to Lowell, now destroyed.
+|-
+|[Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}})
+|1991-1992
+|Unknown/Destroyed
+|-
+|[Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}})
+|1991-1992
+|Top half sent to Lowell, now destroyed.
+|-
+|[Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}})
+|1991-1992
+|Unknown/Destroyed. Mask sent to North Dartmouth, now unknown.
+|-
+|Wink
+|1991-1992
+|Unknown/Destroyed
+|}
+
+
+(WIP)
+
+## Videos ##
+{| class='wikitable'
+!Link
+!Description
+!Footage Date
+|-
+|[https://www.youtube.com/watch?v=ywd4nlUWKCk YouTube]
+|September 2004 Segment 1 being performed on Worcester's 2-Stage.
+|October 2, 2004
+|-
+|[https://www.youtube.com/watch?v=-8piAp_PTV4 YouTube]
+|September 2004 Segment 2 being performed on Worcester's 2-Stage.
+|October 2, 2004
+|-
+|[https://www.youtube.com/watch?v=U_I06H-3BfE YouTube]
+|September 2004 Segment 3 being performed on Worcester's 2-Stage.
+|October 2, 2004
+|-
+|[https://www.youtube.com/watch?v=PLdl9Ad2tfc YouTube]
+|September 2004 Segment 4 being performed on Worcester's 2-Stage.
+|October 2, 2004
+|-
+|[https://www.youtube.com/watch?v=NaogCaGxEaw YouTube]
+|Footage of the store, the arcade machines, and a small clip of the Cyberamics performing Birthday Star 2015. 
+|February 9, 2016 
+|-
+|[https://www.youtube.com/watch?v=VpgdvoFbdO8 YouTube]
+|Store Tour of Worcester during the 2.0 Remodel.
+|October 20, 2021
+|-
+|[https://www.youtube.com/watch?v=FhFe-KsfS3A&t=27s YouTube]
+|Footage of the store, the arcade machines, and Video Wall almost a year after their 2.0 Remodel.
+|August 29, 2022
+|}

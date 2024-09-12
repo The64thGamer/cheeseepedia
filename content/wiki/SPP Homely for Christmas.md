@@ -1,7 +1,7 @@
 +++
 title = "SPP Homely for Christmas"
 draft = false
-tags = []
+tags = ["Cyberstar Segments"]
 date = 2023-12-20T18:09:40Z
 
 [Article]

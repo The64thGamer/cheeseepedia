@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Créteil Soleil Pin (1984)"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2023-05-16T22:02:43Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Alexandria, LA (1725 Metro Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-04T16:50:47Z
 
 [Article]

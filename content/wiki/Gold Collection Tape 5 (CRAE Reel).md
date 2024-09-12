@@ -1,7 +1,7 @@
 +++
 title = "Gold Collection Tape 5 (CRAE Reel)"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-09-12T23:22:17Z
 
 [Article]

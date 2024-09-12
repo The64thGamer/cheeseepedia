@@ -1,7 +1,7 @@
 +++
 title = "RAE Christmas '81"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-12-26T03:21:35Z
 
 [Article]

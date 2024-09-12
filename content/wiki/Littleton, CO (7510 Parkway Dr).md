@@ -1,7 +1,7 @@
 +++
 title = "Littleton, CO (7510 Parkway Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-11-06T14:21:43Z
 
 [Article]

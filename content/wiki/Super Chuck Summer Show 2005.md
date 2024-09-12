@@ -1,7 +1,7 @@
 +++
 title = "Super Chuck Summer Show 2005"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2023-08-07T20:50:11Z
 
 [Article]

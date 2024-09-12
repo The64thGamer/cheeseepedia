@@ -1,7 +1,7 @@
 +++
 title = "Dallas, TX (13364 Montfort Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-08T20:08:05Z
 
 [Article]

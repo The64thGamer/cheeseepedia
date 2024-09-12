@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 7 2015 (Alternate International Variant)"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-07-31T15:27:55Z
 
 [Article]

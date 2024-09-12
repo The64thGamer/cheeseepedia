@@ -1,7 +1,7 @@
 +++
 title = "San Antonio, TX (6874 Ingram Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-30T00:33:12Z
 
 [Article]

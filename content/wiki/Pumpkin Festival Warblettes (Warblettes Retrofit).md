@@ -8,4 +8,13 @@ date = 2024-02-28T14:57:05Z
 contributors = ["Documentor","PizzaEntertainmentFanX"]
 gallery = []
 +++
-wikitext
+{{Generic|image=Pumpkin Festival Warbs.jpg|desc=The Pumpkin Festival Warblettes Retrofit.}}
+
+**_Pumpkin Festival Warblettes**_ is a retrofit of [Warblettes (Cyberamic)]({{< ref "wiki/Warblettes (Cyberamic).md" >}}) at Burger Farm & Garden Center in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
+
+The bot can only be seen when the location has its annual Fall Pumpkin Festival, in which it and other [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) retrofits will be displayed as props for decoration from the last week of September through the end of October. None of them are hooked up in any way to be movable, with all cylinders and air hoses removed.
+
+The Warblettes are displayed in the 'Hen House' with Helen, often trading positions each year. They sit on haybales next to a chicken coop. Each has a general farmer theme to their outfits, complimenting the decorations.
+
+## Design ##
+The Warblettes are dressed and changed to look like a peasant girl. Their hair might have been removed, but it is unclear due to the bonnet. As for the outfit, The Warblettes now wear a light blue, red, and yellow peasant dress plus a bonnet. Finally, Their hands are the same as the original PTT hands.

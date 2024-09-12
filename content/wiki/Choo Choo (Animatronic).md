@@ -1,7 +1,7 @@
 +++
 title = "Choo Choo (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-05-20T17:46:02Z
 
 [Article]

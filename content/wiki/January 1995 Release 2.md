@@ -1,7 +1,7 @@
 +++
 title = "January 1995 Release 2"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-16T17:10:47Z
 
 [Article]

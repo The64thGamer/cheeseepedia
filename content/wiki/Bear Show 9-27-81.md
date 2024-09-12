@@ -1,7 +1,7 @@
 +++
 title = "Bear Show 9-27-81"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-16T16:58:53Z
 
 [Article]

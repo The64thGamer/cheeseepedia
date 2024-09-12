@@ -1,7 +1,7 @@
 +++
 title = "Mini-stage Skits"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-07T22:50:22Z
 
 [Article]

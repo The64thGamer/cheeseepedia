@@ -1,11 +1,15 @@
 +++
 title = "Summer of Fun Campaign 2004"
 draft = false
-tags = []
+tags = ["Training, Updates, & Company Media"]
 date = 2023-01-31T03:34:12Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+{{Download
+|title=VHS Rip
+|external = https://archive.org/download/summer-of-fun-campaign-2004-franchise-vhs/Summer%20of%20Fun-2.mp4
+}}
+

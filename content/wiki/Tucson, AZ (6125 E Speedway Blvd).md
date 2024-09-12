@@ -1,7 +1,7 @@
 +++
 title = "Tucson, AZ (6125 E Speedway Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-03T12:29:15Z
 
 [Article]

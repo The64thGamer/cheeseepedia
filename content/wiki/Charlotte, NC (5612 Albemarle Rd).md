@@ -1,7 +1,7 @@
 +++
 title = "Charlotte, NC (5612 Albemarle Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-28T14:12:14Z
 
 [Article]

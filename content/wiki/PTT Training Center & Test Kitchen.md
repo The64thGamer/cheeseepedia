@@ -1,7 +1,7 @@
 +++
 title = "PTT Training Center & Test Kitchen"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2022-12-08T16:05:09Z
 
 [Article]

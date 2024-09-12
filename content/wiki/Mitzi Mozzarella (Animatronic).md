@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-08-03T17:38:12Z
 
 [Article]

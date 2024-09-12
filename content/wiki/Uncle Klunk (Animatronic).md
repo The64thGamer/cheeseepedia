@@ -1,7 +1,7 @@
 +++
 title = "Uncle Klunk (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-07-18T00:21:35Z
 
 [Article]

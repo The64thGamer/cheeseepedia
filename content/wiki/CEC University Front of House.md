@@ -1,7 +1,7 @@
 +++
 title = "CEC University: Front of House"
 draft = false
-tags = []
+tags = ["Training, Updates, & Company Media"]
 date = 2022-04-05T17:48:46Z
 
 [Article]

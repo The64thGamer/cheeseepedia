@@ -1,7 +1,7 @@
 +++
 title = "Sally at The Piano"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-06-08T19:09:52Z
 
 [Article]

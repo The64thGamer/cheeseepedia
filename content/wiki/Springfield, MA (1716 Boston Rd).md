@@ -1,7 +1,7 @@
 +++
 title = "Springfield, MA (1716 Boston Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-05T00:09:36Z
 
 [Article]

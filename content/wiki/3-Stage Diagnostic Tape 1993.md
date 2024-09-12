@@ -1,7 +1,7 @@
 +++
 title = "3-Stage Diagnostic Tape 1993"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-17T01:29:14Z
 
 [Article]

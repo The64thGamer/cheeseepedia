@@ -1,7 +1,7 @@
 +++
 title = "Appleton, WI (2424 W College Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-03-26T17:30:54Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Herndon, VA (2465 Centreville Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-08T12:04:43Z
 
 [Article]

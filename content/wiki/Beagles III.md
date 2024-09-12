@@ -1,7 +1,7 @@
 +++
 title = "Beagles III"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-05-03T19:09:53Z
 
 [Article]

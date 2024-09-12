@@ -1,7 +1,7 @@
 +++
 title = "Beaverton, OR (4445 SW 110th Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-01T22:54:44Z
 
 [Article]

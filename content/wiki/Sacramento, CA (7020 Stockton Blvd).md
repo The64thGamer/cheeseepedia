@@ -1,7 +1,7 @@
 +++
 title = "Sacramento, CA (7020 Stockton Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-04T00:58:03Z
 
 [Article]

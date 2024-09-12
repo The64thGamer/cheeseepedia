@@ -1,7 +1,7 @@
 +++
 title = "New Beatles"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-09-12T23:21:58Z
 
 [Article]

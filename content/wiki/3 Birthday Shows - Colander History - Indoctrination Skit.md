@@ -1,11 +1,39 @@
 +++
 title = "3 Birthday Shows - Colander History - Indoctrination Skit"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-10-09T23:59:42Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+{{Showtape
+|date=February 1983
+|showbizreel=y|image=5tryhrgth45trb4eb.jpg}}**_3 Birthday Shows - Colander History - Indoctrination Skit**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on February 7th 1983.<ref>https://www.showbizpizza.com/review/rae/1983_colander.html</ref>
+
+## Special Shows ##
+Alongside being a replacement of the [3-Birthday Reel]({{< ref "wiki/3-Birthday Reel.md" >}}) during the [Crazy Colander Head Night Event]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}), both the Indoctrination show and History of the Colander show could be played by request by any customer. Customers could become aware of the special shows by reading the The Colander Gazette - Vol 1. No. 1 (February 24, 1983) (The Colander Gazette - Vol 1. No. 1). The indoctrination skit was also likely played every Wednesday night.
+
+##Employee Performance##
+The 'Indoctrination' segment would need to be performed with an employee, whom would come out as 'Johnny DeJockimo' (official spelling unknown) to hold up cue cards and interact with Fatz. The [Save The Colander Telethon]({{< ref "wiki/Save The Colander Telethon (1983).md" >}}) has a demonstrative video of the entire segment being performed with Aaron Fechter as the stand-in for Johnny.
+
+##Show List##
+#**Segment 1**
+##Birthday
+
+#**Segment 2**
+##Happy Birthday Medley
+#**Segment 3**
+##Sal's Birthday
+#**Segment 4**
+##Indoctrination
+#**Segment 5**
+##History of the Colander
+
+
+
+
+##References##
+
+<references />

@@ -1,7 +1,7 @@
 +++
 title = "Stew's Country Jamboree (VP Hank & Beau)"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-07-21T00:05:23Z
 
 [Article]

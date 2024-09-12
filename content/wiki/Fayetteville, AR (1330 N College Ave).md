@@ -1,11 +1,123 @@
 +++
 title = "Fayetteville, AR (1330 N College Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-03-18T22:58:56Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","71.31.59.182","CorrectorMan","167.224.250.176","Stripes","Floorplanmuncher"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=FayettevilleARCECOldLocationExterior.png|desc=Exterior before closure. (2009)}}
+
+**_1330 N College Ave, Store #302**_ was a _Showbiz Pizza Place_ that opened on November 1st, 1982 as a franchised location with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in September 2010 (day unknown) with a 3-Stage.
+##History##
+Fayetteville opened its doors on November 1st, 1982 as the first Showbiz Pizza store in Arkansas. Like many other ShowBiz Pizza locations, it had a typical SPP layout as seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open removing older SPP decor for newer decor, and slight exterior remodel. Although some little documentation exists back in the ShowBiz days, it can be determined that Fayetteville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Fayetteville received the Showbiz Pizza Campground upgrade. On October 1st, 1990, Fayetteville was acquired by the Corporate along with [Fort Smith]({{< ref "wiki/Fort Smith, AR (1200 S Waldron Rd).md" >}}). Fayetteville then underwent Concept Unification in around 1991, converting the Rock-Afire Explosion into Munch's Make Believe Band. In 1996, the location received the so-called 'Phase 2' remodel removing older 90's decor, adding newer decor, and SkyTubes. Fayetteville would remain like this until September 2010 when they closed due to issues with parking and lease. After their closure, they then relocated to Fayetteville, AR (2999 N College Ave) (2999 N College Ave), and would remain abandoned before being taken up by a business named Flying Dog Vintage Mall, leaving many remnants of Chuck E. Cheese's, only for that to close. Currently, as of February 2023, the location is now abandoned or taken up by a business.
+##Stages##
+Originally, Fayetteville featured a Rock-Afire Explosion, as all other Showbiz locations did. Unfortunately, there are some photos but no videos to exist of Fayetteville with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime between 1991-1992. In 2010, they removed the 3-Stage for their closure.
+{| class='wikitable'
+|+
+!Stage
+!Intalled
+!Removed
+!Notes
+|-
+|[RockAfire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|October 1982
+|1991
+|First Showbiz Pizza store to open in Arkansas.
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991
+|September 2010
+|One of 4 Showbiz locations in Arkansas to receive Concept Unification.
+|}
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|4-82 1-6
+|Unknown
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|4-82 2-6
+|Unknown
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|4-82 3-6
+|Unknown
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|4-82 4-6
+|Unknown
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|4-82 5-6
+|Unknown
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|4-82 6-6
+|Unknown
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|4-82 7-6
+|Unknown
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|4-82 8-6
+|Unknown
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|4-82 10-6
+|Unknown
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|4-82 11-6
+|Unknown
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Destroyed.
+|}
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Date Filmed
+!Date Published
+!Credit To
+|-
+|[https://youtu.be/1es2PGYEEns Link]
+|Commercial advertising this location as a Showbiz Pizza Place.
+|1983
+|October 1st, 2021
+|
+|-
+|[https://youtu.be/I899WiEWUEA Link]
+|Footage of the animatronics, birthday show, and arcade in 1991.
+|April 3rd, 1991
+|November 26th, 2017
+|
+|-
+|[https://youtu.be/zp_I97Fn0pI Link]
+|(Begins at 27:33) Footage showing an exterior shot, arcade footage, and a small clip of the stage.
+|2009
+|October 12th, 2016
+|
+|-
+|[https://www.youtube.com/watch?v=5SKPzo7ONag&t=54s Link]
+|A Video Documenting about Fayetteville's History 
+|June 10, 2023
+|June 10, 2023
+|Josiah Abner
+|}
+

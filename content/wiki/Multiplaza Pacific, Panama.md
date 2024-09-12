@@ -1,7 +1,7 @@
 +++
 title = "Multiplaza Pacific, Panama"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-01T00:35:38Z
 
 [Article]

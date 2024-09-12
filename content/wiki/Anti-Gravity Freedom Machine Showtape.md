@@ -1,7 +1,7 @@
 +++
 title = "Anti-Gravity Freedom Machine Showtape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-04-15T22:56:06Z
 
 [Article]

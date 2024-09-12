@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Pizza Place Equipment Listing Manual"
 draft = false
-tags = []
+tags = ["Documents"]
 date = 2023-08-15T23:43:56Z
 
 [Article]

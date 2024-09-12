@@ -1,7 +1,7 @@
 +++
 title = "Physical Fitness"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2023-05-05T04:15:49Z
 
 [Article]

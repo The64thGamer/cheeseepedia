@@ -1,7 +1,7 @@
 +++
 title = "Mesa (West), AZ (856 S Alma School Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-03-15T15:42:31Z
 
 [Article]

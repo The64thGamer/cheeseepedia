@@ -8,4 +8,4 @@ date = 2023-07-08T19:01:02Z
 contributors = ["The 64th Gamer","GuestIsJustBest"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT [Navori System]({{< ref "wiki/Navori System.md" >}})

@@ -1,7 +1,7 @@
 +++
 title = "1999 Hockey"
 draft = false
-tags = ["Store Fixtures"]
+tags = []
 date = 2023-07-08T16:26:12Z
 
 [Article]

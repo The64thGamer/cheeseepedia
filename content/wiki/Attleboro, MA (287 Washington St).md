@@ -1,7 +1,7 @@
 +++
 title = "Attleboro, MA (287 Washington St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-05-12T00:34:59Z
 
 [Article]

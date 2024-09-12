@@ -1,7 +1,7 @@
 +++
 title = "Family Album"
 draft = false
-tags = ["Animatronics"]
+tags = ["Animatronic Shows"]
 date = 2024-04-03T13:05:08Z
 
 [Article]

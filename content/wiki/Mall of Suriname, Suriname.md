@@ -1,7 +1,7 @@
 +++
 title = "Mall of Suriname, Suriname"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-01-01T20:25:21Z
 
 [Article]

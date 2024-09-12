@@ -1,11 +1,21 @@
 +++
 title = "Salute to America (PTT Theme)"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2024-05-21T14:48:05Z
 
 [Article]
 contributors = ["Jonn","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=The theme being used in a uknown PTT location..png|desc=The Stage set up at an unknown location.}}
+
+The **_Salute To America Theme**_ was a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) Theme created by [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) for June 1985 & replaced the following months. The Stage theme was for that year's Fourth Of July & was most likely used with the CEC Salute to America Showtape.
+
+## History ##
+The Stage Theme was made for Balcony Stages by SPT in June 1985 for the CEC Salute to America Showtape. The Theme was switched back to the original themes in the following months.
+
+## Design ##
+Mr Munch's and Pasqually's stages had red curtains, with a white circle. Center Stage had a red, white, and blue backdrop to represent the United States Flag's colors, along with stars. Flags were placed all across the stage.
+
+

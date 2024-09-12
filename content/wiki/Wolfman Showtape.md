@@ -1,7 +1,7 @@
 +++
 title = "Wolfman Showtape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-05-06T17:04:13Z
 
 [Article]

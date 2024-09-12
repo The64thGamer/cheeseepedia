@@ -1,7 +1,7 @@
 +++
 title = "Laurel, MD (936 Fairlawn Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-06T02:03:04Z
 
 [Article]

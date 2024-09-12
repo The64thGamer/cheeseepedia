@@ -8,4 +8,18 @@ date = 2024-03-06T16:01:31Z
 contributors = ["StudioC","168.69.254.247","PizzaEntertainmentFanX"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=CowPasquallyFZ&P.png|desc=The Bot in the infamous 'No More Chuck E. Cheese' Video}}
+
+**_Cow**_ (also known as **_The Cow**_) was a retrofit of [Pasqually (Cyberamic)]({{< ref "wiki/Pasqually (Cyberamic).md" >}}) used at the [Fun Zone & Pizza]({{< ref "wiki/Fun Zone & Pizza.md" >}}) on [Chico, CA (966 East Ave)]({{< ref "wiki/Chico, CA (966 East Ave).md" >}}). The bot was retrofitted after the location lost its license to the CEC IP. 
+
+## History ##
+
+### As Pasqually ###
+The bot was originally produced somewhere from 1981 to 1982 & was placed at the Pizza Time Theatre on [Chico, CA (966 East Ave)]({{< ref "wiki/Chico, CA (966 East Ave).md" >}}) in July 1982. The bot had standard PTT attire. In 1993, The bot would gain new CEC styled cosmetics when Chico got their [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The bot also replaced its former arm mechanics for new arm mechanics
+
+### As The Cow ###
+In January 2011, The Chuck E. Cheese's in [Chico, CA]({{< ref "wiki/Chico, CA (966 East Ave).md" >}}) lost its license to run as a CEC, forcing them to change their branding to Fun Zone & Pizza. They converted their Munch's Make Believe Band characters into generic animals, The Cow uses a generic mascot costume instead of the Pasqually Cyberamic ones, though they still had the originally Drum from their [2-Stage]({{< ref "wiki/2-Stage.md" >}}) that had the Spiral Star design. The bot's head had a tin can either over it or replacing its former one.
+
+When Fun Zone & Pizza closed in September 2011, the characters were stripped from their cosmetics and removed and sold in a group for $100. It is unknown if anybody purchased them or where they are today.
+
+

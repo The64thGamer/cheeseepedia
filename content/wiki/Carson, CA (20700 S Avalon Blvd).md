@@ -1,7 +1,7 @@
 +++
 title = "Carson, CA (20700 S Avalon Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-02T05:29:34Z
 
 [Article]

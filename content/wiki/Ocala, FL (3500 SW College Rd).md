@@ -1,7 +1,7 @@
 +++
 title = "Ocala, FL (3500 SW College Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-05T00:54:22Z
 
 [Article]

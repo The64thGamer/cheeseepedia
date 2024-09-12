@@ -1,7 +1,7 @@
 +++
 title = "Salem, OR (3240 Lancaster Dr NE)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-09-02T18:35:07Z
 
 [Article]

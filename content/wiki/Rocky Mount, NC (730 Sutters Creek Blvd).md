@@ -1,7 +1,7 @@
 +++
 title = "Rocky Mount, NC (730 Sutters Creek Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-31T15:48:21Z
 
 [Article]

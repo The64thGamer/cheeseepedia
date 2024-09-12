@@ -8,4 +8,6 @@ date = 2022-12-28T17:47:22Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-wikitext
+TODO:
+
+Seen with the 'Bear Show 9-27-81' tape

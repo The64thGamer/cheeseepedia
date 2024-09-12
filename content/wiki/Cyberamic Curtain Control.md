@@ -1,7 +1,7 @@
 +++
 title = "Cyberamic Curtain Control"
 draft = false
-tags = []
+tags = ["Animatronic Control Hardware & Software"]
 date = 2023-03-01T12:52:46Z
 
 [Article]

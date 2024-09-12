@@ -1,7 +1,7 @@
 +++
 title = "Pastel Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2022-01-12T18:09:09Z
 
 [Article]

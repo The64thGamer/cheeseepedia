@@ -1,7 +1,7 @@
 +++
 title = "Lafayette, LA (3221 Ambassador Caffery Pkwy)"
 draft = false
-tags = []
+tags = ["Licensed Family Entertainment Center Store List"]
 date = 2024-03-26T17:53:13Z
 
 [Article]

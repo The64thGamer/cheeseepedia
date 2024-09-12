@@ -1,7 +1,7 @@
 +++
 title = "Orsi Show"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-07-21T16:26:45Z
 
 [Article]

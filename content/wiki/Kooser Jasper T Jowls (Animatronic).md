@@ -1,7 +1,7 @@
 +++
 title = "Kooser Jasper T. Jowls (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-04-06T23:31:21Z
 
 [Article]

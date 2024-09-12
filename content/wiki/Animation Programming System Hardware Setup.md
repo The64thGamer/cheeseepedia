@@ -1,7 +1,7 @@
 +++
 title = "Animation Programming System Hardware Setup"
 draft = false
-tags = []
+tags = ["Programming Software & Hardware"]
 date = 2023-05-12T20:19:12Z
 
 [Article]

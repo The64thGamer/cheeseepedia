@@ -1,7 +1,7 @@
 +++
 title = "Skytubes"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2023-11-06T21:06:18Z
 
 [Article]

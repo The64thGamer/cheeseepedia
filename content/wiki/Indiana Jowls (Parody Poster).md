@@ -1,7 +1,7 @@
 +++
 title = "Indiana Jowls (Parody Poster)"
 draft = false
-tags = []
+tags = ["Store Fixtures"]
 date = 2023-07-19T01:37:29Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Dublin, OH (2711 Martin Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-06-20T21:40:23Z
 
 [Article]

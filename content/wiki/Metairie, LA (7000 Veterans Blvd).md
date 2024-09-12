@@ -1,7 +1,7 @@
 +++
 title = "Metairie, LA (7000 Veterans Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-29T21:41:45Z
 
 [Article]

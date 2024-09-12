@@ -1,7 +1,7 @@
 +++
 title = "Escondido, CA (624 W Mission Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-23T02:35:35Z
 
 [Article]

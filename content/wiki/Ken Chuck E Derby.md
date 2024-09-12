@@ -1,7 +1,7 @@
 +++
 title = "Ken Chuck E. Derby"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2023-05-22T15:57:55Z
 
 [Article]

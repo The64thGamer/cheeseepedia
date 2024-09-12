@@ -1,7 +1,7 @@
 +++
 title = "Funspot Arcade"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2024-09-09T00:16:44Z
 
 [Article]

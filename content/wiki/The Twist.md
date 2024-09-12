@@ -1,7 +1,7 @@
 +++
 title = "The Twist"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-07-15T03:17:06Z
 
 [Article]

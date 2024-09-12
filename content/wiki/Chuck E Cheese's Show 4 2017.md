@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 4 2017"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-04-17T19:32:33Z
 
 [Article]

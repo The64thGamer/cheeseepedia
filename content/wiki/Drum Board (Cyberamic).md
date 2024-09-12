@@ -1,7 +1,7 @@
 +++
 title = "Drum Board (Cyberamic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-08-25T14:27:06Z
 
 [Article]

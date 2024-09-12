@@ -1,7 +1,7 @@
 +++
 title = "Spanish Birthday"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-07-21T21:40:06Z
 
 [Article]

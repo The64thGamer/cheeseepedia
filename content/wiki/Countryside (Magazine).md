@@ -1,11 +1,18 @@
 +++
 title = "Countryside (Magazine)"
 draft = false
-tags = []
+tags = ["Store Fixtures"]
 date = 2023-07-18T16:05:35Z
 
 [Article]
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+{{Art|image=CountrySide Chuck Poster.jpg|releasedate=1994-1995|manufacturer=ShowBiz Pizza Time Inc.|text1=A 'Slice' of Life Journal----|text2=COUNTRYSIDE|text3=Fine Vines----
+Growing Tomatoes & Peppers|text4=A 'Growing' Dilemma---
+How Ya Gonna Keep 'Em Down on the Farm After They've Seen Chuck E's?}}
+
+The **Countryside (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
+
+## Design ##
+The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Farmer (shelf item) which has Chuck E. Cheese in a farmer outfit with a ranch hat, red bandana, green shirt, blue overalls, a red towel in his overalls pocket, and while a piece of wheat hanging out of his mouth. In the background behind the statue is a cow statue.

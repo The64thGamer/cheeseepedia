@@ -1,7 +1,7 @@
 +++
 title = "Toledo, OH (5455 Airport Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-05T14:42:45Z
 
 [Article]

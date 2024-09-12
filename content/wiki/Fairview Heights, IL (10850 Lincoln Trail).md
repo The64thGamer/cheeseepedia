@@ -1,7 +1,7 @@
 +++
 title = "Fairview Heights, IL (10850 Lincoln Trail)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-09T19:22:39Z
 
 [Article]

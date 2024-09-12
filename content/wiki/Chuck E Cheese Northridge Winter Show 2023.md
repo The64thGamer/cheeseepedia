@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Northridge Winter Show 2023"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-04-04T16:44:34Z
 
 [Article]

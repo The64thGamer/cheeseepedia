@@ -8,4 +8,4 @@ date = 2023-07-08T19:02:40Z
 contributors = ["The 64th Gamer","GuestIsJustBest"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT [Reading, PA (3400 Plaza Dr 3)]({{< ref "wiki/Reading, PA (3400 Plaza Dr 3).md" >}})

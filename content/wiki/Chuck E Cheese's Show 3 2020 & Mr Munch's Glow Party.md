@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 3 2020 & Mr. Munch's Glow Party"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-02-26T17:04:15Z
 
 [Article]

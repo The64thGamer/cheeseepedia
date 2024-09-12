@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Time Corporate Office"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2024-05-16T20:27:35Z
 
 [Article]

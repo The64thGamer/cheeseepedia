@@ -1,7 +1,7 @@
 +++
 title = "Format: Program Blue .shw"
 draft = false
-tags = ["Showtape Formats"]
+tags = []
 date = 2022-04-08T03:09:59Z
 
 [Article]

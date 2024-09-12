@@ -1,7 +1,7 @@
 +++
 title = "Superior, CO (305 Marshall Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-24T14:43:30Z
 
 [Article]

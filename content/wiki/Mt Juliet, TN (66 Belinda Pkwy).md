@@ -1,7 +1,7 @@
 +++
 title = "Mt Juliet, TN (66 Belinda Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-26T21:38:37Z
 
 [Article]

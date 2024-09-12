@@ -1,11 +1,13 @@
 +++
 title = "CU Live"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-02-18T18:57:11Z
 
 [Article]
 contributors = ["The 64th Gamer","71.244.213.235"]
 gallery = []
 +++
-wikitext
+TODO:
+
+The first 3-Stage Live Show.

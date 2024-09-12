@@ -1,7 +1,7 @@
 +++
 title = "Standard: Tabbed Template"
 draft = false
-tags = []
+tags = ["Standards Pages"]
 date = 2023-05-12T20:09:33Z
 
 [Article]

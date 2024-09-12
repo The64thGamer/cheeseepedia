@@ -1,7 +1,7 @@
 +++
 title = "North Wales, PA (1210 Bethlehem Pike)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-30T20:48:30Z
 
 [Article]

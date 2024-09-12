@@ -1,7 +1,7 @@
 +++
 title = "Union, NJ (2700 US-22)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-30T13:43:35Z
 
 [Article]

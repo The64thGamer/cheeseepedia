@@ -1,7 +1,7 @@
 +++
 title = "Dance To The Music"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-06-03T05:41:21Z
 
 [Article]

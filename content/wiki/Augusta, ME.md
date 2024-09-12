@@ -1,7 +1,7 @@
 +++
 title = "Augusta, ME"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-12T04:29:00Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "San Antonio, TX (11735 Bandera Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-09T16:09:11Z
 
 [Article]

@@ -8,4 +8,4 @@ date = 2023-07-08T19:03:21Z
 contributors = ["The 64th Gamer","GuestIsJustBest"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}})

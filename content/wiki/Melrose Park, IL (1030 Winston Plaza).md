@@ -1,11 +1,44 @@
 +++
 title = "Melrose Park, IL (1030 Winston Plaza)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-29T05:07:40Z
 
 [Article]
 contributors = ["Melrosefool2763","CorrectorMan","Midwestern Jasper T."]
-gallery = []
+gallery = ["MelrosePark2012.jpg|thumb|Melrose Park's exterior not long after opening."]
 +++
-wikitext
+
+**_1030 Winston Plaza**_ is a _Chuck E. Cheese's_ that opened in September 2012 (day unknown) and is still open today with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}).
+
+This is the relocation of [Melrose Park, IL (1315 W North Ave)]({{< ref "wiki/Melrose Park, IL (1315 W North Ave).md" >}}), which opened on September 24, 1991 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in August 2012 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
+
+## Stage ##
+Melrose Park currently features a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}). Around 2013, his cap was removed, and on September 19, 2022, the bot ceased programming due to Navori.
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}})
+|September 2012
+|Still in use
+|First Circles of Light in Illinois and last non-Legacy Location Animatronic in Illinois.
+|}
+
+## History ##
+Melrose Park opened in September 2012 as the relocation of the old store on North Avenue. It featured a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) and the 2010 update to the  2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The store remained mainly untouched since opening, besides the removal of the [Skytubes]({{< ref "wiki/Skytubes.md" >}}). As of August 2023, Melrose Park remains like this.
+
+## Animatronics ##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial Number
+!Whereabouts
+|-
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Currently in use
+|}

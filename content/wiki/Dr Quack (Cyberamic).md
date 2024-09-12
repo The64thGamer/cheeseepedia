@@ -1,7 +1,7 @@
 +++
 title = "Dr. Quack (Cyberamic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-05-13T10:40:52Z
 
 [Article]

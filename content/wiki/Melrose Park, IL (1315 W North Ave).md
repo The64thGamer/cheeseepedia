@@ -1,7 +1,7 @@
 +++
 title = "Melrose Park, IL (1315 W North Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-06T22:40:15Z
 
 [Article]

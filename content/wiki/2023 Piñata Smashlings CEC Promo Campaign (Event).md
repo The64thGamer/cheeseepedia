@@ -1,7 +1,7 @@
 +++
 title = "2023 Piñata Smashlings CEC Promo Campaign (Event)"
 draft = false
-tags = []
+tags = ["Events"]
 date = 2024-02-03T02:16:30Z
 
 [Article]

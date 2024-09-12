@@ -1,7 +1,7 @@
 +++
 title = "CEC Roadshow April 2002"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-04-05T17:03:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Dingo Starr (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-06-11T00:09:37Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Levittown, PA (1283 E Lincoln Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-29T01:46:49Z
 
 [Article]

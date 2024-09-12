@@ -1,7 +1,7 @@
 +++
 title = "Racine, WI (5612 Durand Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-28T20:57:19Z
 
 [Article]

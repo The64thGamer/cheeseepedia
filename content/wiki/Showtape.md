@@ -1,7 +1,7 @@
 +++
 title = "Showtape"
 draft = false
-tags = []
+tags = ["Animatronic Repair & Preservation"]
 date = 2022-05-27T00:01:24Z
 
 [Article]

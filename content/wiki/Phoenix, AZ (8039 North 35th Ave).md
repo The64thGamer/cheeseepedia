@@ -1,7 +1,7 @@
 +++
 title = "Phoenix, AZ (8039 North 35th Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-11-22T18:23:47Z
 
 [Article]

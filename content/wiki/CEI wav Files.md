@@ -8,4 +8,16 @@ date = 2023-08-27T13:00:02Z
 contributors = ["BattleXGamer","The 64th Gamer"]
 gallery = []
 +++
-wikitext
+**_CEI .wav Files**_ are .wav files that contain usually between 4 - 6 tracks of audio and [Data]({{< ref "wiki/Data.md" >}}).
+
+These files can also be in other formats such as .wma and .wmv for videos. These are then played through a 5.1 channel USB sound card which connects to some speakers and either a [Grey Box]({{< ref "wiki/Rock-afire Explosion Control System.md" >}}) or a [Layton Bitstripper]({{< ref "wiki/Layton Bit Stripper.md" >}}). The Showtape Audio is also DBX Decoded meaning you don't need a DBX Decoding Box. You will require a waveshaper to use the showtape with a Grey Box or a Layton Bitstripper.
+
+## Formats ##
+Files are formatted two different ways, one with four tracks of audio, and one with six tracks of audio. The formatting for the 4-track .wav is as follows:
+
+# Track #1 contains the show audio. If the track is stereo, it will be the left channel.
+# Track #2  contains the show audio. If the track is stereo, it will be the right channel.
+# Track #3 contains the [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}). This usually contains the Top Drawer Data for the show.
+# Track #4 contains the [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}). This usually contains the Bottom Drawer Data for the show.
+
+The format for a 6 track .wav file is similar to the 4-track .wav. In this format, the contents usually in tracks 3-4 are placed in tracks 5-6, while 3-4 remain unused and silent.

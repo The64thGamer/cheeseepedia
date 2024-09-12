@@ -6,6 +6,7 @@ date = 2023-04-28T13:40:27Z
 
 [Article]
 contributors = ["CECFan2023"]
-gallery = []
+gallery = ["MunchSmile.JPG|thumb|hehehehaw"]
 +++
-text/x-wiki
+
+Hi there. I like Chuck E. Cheese. I also like video games. I also like playing music.

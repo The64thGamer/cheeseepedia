@@ -1,7 +1,7 @@
 +++
 title = "Senior Citizens"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-07T20:18:56Z
 
 [Article]

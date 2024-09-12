@@ -1,7 +1,7 @@
 +++
 title = "Monrovia, CA (558 W Huntington Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-30T15:27:31Z
 
 [Article]

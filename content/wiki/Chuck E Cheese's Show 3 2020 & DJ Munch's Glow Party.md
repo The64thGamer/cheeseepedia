@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-10-13T00:48:08Z
 
 [Article]

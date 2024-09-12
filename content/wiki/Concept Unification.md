@@ -1,7 +1,7 @@
 +++
 title = "Concept Unification"
 draft = false
-tags = ["Training, Updates, & Company Media"]
+tags = ["Restaurants & Company History"]
 date = 2024-08-14T16:02:58Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Everett, MA (29 Mystic View Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-14T02:59:21Z
 
 [Article]

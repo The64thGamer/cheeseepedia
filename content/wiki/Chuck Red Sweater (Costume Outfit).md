@@ -8,4 +8,3 @@ date = 2022-10-16T23:01:47Z
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++
-text/x-wiki

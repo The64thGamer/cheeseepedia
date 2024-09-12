@@ -1,7 +1,7 @@
 +++
 title = "Awesome Adventure Machine"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-05-03T21:14:30Z
 
 [Article]

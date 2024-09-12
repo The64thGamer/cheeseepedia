@@ -1,7 +1,7 @@
 +++
 title = "Raleigh, NC (3501-131 Capitol Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-04-07T02:03:34Z
 
 [Article]

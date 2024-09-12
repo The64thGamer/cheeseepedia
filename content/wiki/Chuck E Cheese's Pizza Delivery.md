@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Pizza Delivery"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2022-09-24T18:35:55Z
 
 [Article]

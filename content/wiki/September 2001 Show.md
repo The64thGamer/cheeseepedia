@@ -1,7 +1,7 @@
 +++
 title = "September 2001 Show"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2023-01-31T01:19:40Z
 
 [Article]

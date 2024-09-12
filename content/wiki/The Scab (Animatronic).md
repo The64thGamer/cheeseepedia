@@ -1,7 +1,7 @@
 +++
 title = "The Scab (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-06-25T18:55:34Z
 
 [Article]

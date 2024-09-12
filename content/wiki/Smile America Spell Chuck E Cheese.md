@@ -1,7 +1,7 @@
 +++
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
-tags = []
+tags = ["Events"]
 date = 2022-12-31T22:24:13Z
 
 [Article]

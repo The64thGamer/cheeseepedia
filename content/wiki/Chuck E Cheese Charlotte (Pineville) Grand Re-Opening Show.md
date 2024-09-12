@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Charlotte (Pineville) Grand Re-Opening Show"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-08-02T16:12:32Z
 
 [Article]

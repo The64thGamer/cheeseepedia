@@ -1,7 +1,7 @@
 +++
 title = "PTT 1980 2 Year Employee Pin"
 draft = false
-tags = []
+tags = ["Employee Wear"]
 date = 2021-12-04T04:41:56Z
 
 [Article]

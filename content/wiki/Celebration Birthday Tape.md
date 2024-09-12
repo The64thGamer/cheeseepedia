@@ -1,7 +1,7 @@
 +++
 title = "Celebration Birthday Tape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-07T02:16:08Z
 
 [Article]

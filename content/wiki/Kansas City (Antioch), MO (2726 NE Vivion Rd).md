@@ -1,7 +1,7 @@
 +++
 title = "Kansas City (Antioch), MO (2726 NE Vivion Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-13T17:48:23Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "YMCA 03"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-02-21T05:15:16Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Manhattan, KS (519 Richards Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-22T22:19:13Z
 
 [Article]

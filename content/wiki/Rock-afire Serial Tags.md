@@ -1,7 +1,7 @@
 +++
 title = "Rock-afire Serial Tags"
 draft = false
-tags = []
+tags = ["Animatronic Repair & Preservation"]
 date = 2023-12-13T18:44:44Z
 
 [Article]

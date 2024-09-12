@@ -8,4 +8,3 @@ date = 2022-09-08T23:32:09Z
 contributors = ["Emcaacme"]
 gallery = []
 +++
-text/x-wiki

@@ -1,7 +1,7 @@
 +++
 title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-12-05T19:48:00Z
 
 [Article]

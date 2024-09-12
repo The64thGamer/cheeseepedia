@@ -1,7 +1,7 @@
 +++
 title = "Pineville, NC (10400 Cadillac St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-11T22:46:08Z
 
 [Article]

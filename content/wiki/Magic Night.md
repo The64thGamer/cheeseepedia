@@ -1,7 +1,7 @@
 +++
 title = "Magic Night"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-08-07T20:14:17Z
 
 [Article]

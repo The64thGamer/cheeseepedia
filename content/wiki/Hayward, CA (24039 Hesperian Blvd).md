@@ -1,11 +1,97 @@
 +++
 title = "Hayward, CA (24039 Hesperian Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-26T02:50:13Z
 
 [Article]
 contributors = ["Coolchuckuser","172.56.153.201","Avenger Chuck","ThatBoiCydalan","97.94.241.121","CECBowlingGreen","GggChuckE999","2600:4040:59FC:D100:D0E3:A0D6:7E91:A58B","Rexburg090","Haywardmaster","66.190.228.225","71.198.179.211","ChuckECool","AstridMascotFan2005","NameisJohn"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=846A381E-B847-42ED-96C3-6CBFD6B3.jpg|desc=Hayward Exterior on 8/14/2022}}
+**Hayward, CA (24039 Hesperian Blvd), Store #363** is a Chuck E. Cheese's that opened on July 24th, 2003 with a [Studio C 2000]({{< ref "wiki/Studio C Beta.md" >}}), which is is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).      
+
+This location should not be confused with [Hayward, CA (24253 Hesperian Blvd)]({{< ref "wiki/Hayward, CA (24253 Hesperian Blvd).md" >}}) which was a Pizza Time Theatre location that opened in April 1981 and closed in Summer 1995.      
+
+It was located next to a Toys 'R' Us that opened on October 24th, 1971 and closed in June of 2018 during the chain's bankruptcy. It would stay vacant for 5 years until in August 2023 when it would take its signage off and officially reopen as World Fine Furniture.      
+
+##Stages ##
+
+###Outfit ###
+The Chuck E. bot originally wore the Cool Chuck outfit (red hat with black 'C' on it, blue shirt with yellow 'C' on it, and khaki shorts) when they opened in 2003 until it was replaced with the Avenger outfit in December 2010-Spring 2011. In September 2013 the Avenger Cap was removed to fit with the new Rockstar look and then in May 2015 the Avenger outfit was replaced by the Rockstar outfit which he wore until the store received the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+###Curtains/Random Movement ###
+The curtains were disabled in late 2005, 2 years after they opened. In early 2013, Random Movements were turned on for the first time.
+
+###Blue Screen ###
+The Blue Screen was replaced by the Ticket Background with the light up Ticket Blaster sign during the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2010 Update) remodel. Before it was replaced, the Blue Screen Camera stopped working around the [January 2012 Show]({{< ref "wiki/January 2012 Show.md" >}}).
+
+###Dark Age (2015-2018)###
+Starting in 2015, the new tech at the time wasn’t really caring for the stage, things like head spinning, air leaks, teeth falling off, and the bot not being aired up were happening. In 2017, the bot was aired down and his teeth were missing for 3 months until it was aired up again. From December 2017-early 2018 the bot's mouth kept opening and shutting randomly while his back was stuck leaning and his mask was slowly falling apart. But things went back to good condition when the tech got fired and Doug become the stage tech in late 2018 and fix and got Chuck E back to working order. Sadly in 2022, Doug passed away, being replaced with a new tech named Ben, who then worked on Chuck E and got him a new mask that didn't have teeth, but teeth were added a month later. On June 24th, 2024, the stage would be removed in favor of a [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor).
+
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
+|July 2003
+|June 24, 2024
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor)
+|June 2024
+|In Use.
+|-
+|[Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|June 2024
+|In Use.
+|}
+
+## History##
+Construction for this location started around late 2002-early 2003, with this location opening on July 24th, 2003 with the 1990s Major Remodel and received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in Spring-Summer 2012.
+
+###Remodels###
+Originally when the store opened, they had the 1990s Major Remodel until they remodeled in Spring-Summer 2012 to the 2010 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which it had until on June 24, 2024, when the store received the CEC 2018 2.0 Remodel Program (2.0 Remodel), removing the stage to replace it with a Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}), which it still has to this day.
+
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+|[https://youtu.be/YMrIMjHsd1E Link]
+| Children playing a basketball arcade game at this store before the store's 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2010 Update).
+|March 9th, 2012
+|-
+|[https://www.youtube.com/watch?v=6mvsVc1QLWM Link]
+|A video showing inside of the Chuck E. Cheese 16m (Animatronic) (16 Movement) bot at the location.
+|May 12th, 2019
+|-
+|[https://www.youtube.com/watch?v=VcWkE3Pq-og Link]
+|A showroom tour in 2019.
+|December 26th, 2019
+|-
+|[https://youtu.be/gEZZkjNtOHI Link]
+|A store tour of this store in 2021 
+|May 17th, 2021 
+|}
+
+
+
+
+##Animatronics##
+{| class='wikitable'
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Pizza Time Clock (Animatronic]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}}))
+|N/A
+|Destroyed
+|}

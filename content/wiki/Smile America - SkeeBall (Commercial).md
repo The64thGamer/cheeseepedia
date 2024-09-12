@@ -1,7 +1,7 @@
 +++
 title = "Smile America - SkeeBall (Commercial)"
 draft = false
-tags = []
+tags = ["Commercials"]
 date = 2023-09-25T00:03:15Z
 
 [Article]

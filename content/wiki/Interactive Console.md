@@ -1,7 +1,7 @@
 +++
 title = "Interactive Console"
 draft = false
-tags = []
+tags = ["Other Software & Hardware"]
 date = 2024-08-27T14:52:44Z
 
 [Article]

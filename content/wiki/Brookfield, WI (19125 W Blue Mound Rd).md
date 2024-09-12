@@ -1,11 +1,79 @@
 +++
 title = "Brookfield, WI (19125 W Blue Mound Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-13T04:35:35Z
 
 [Article]
 contributors = ["ShowbizMidwest","CECBowlingGreen","Destinationimagination95","John95","Rexburg090","216.125.34.66","CEC Tinley","2603:6000:9344:B500:AC2F:85:E7DA:74A","CorrectorMan","ThatBoiCydalan","AstridMascotFan2005","Cheeseopizza24","JND"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=Brookfield1998.jpg|desc=Brookfield, WI Chuck E. Cheese's in February 1998.}}
+**_19125 W Bluemound Road, Store #841**_ is a Chuck E. Cheese's that opened on December 17, 1997, with a Studio C Alpha and is still open to this day undergoing the 2.0 remodel.
+
+This is the relocation of the [Brookfield, WI (2435 N 124th St)]({{< ref "wiki/Brookfield, WI (2435 N 124th St).md" >}}) location, which opened in August 1982 (day unknown) with a Balcony Stage and relocated to this store in late 1997 (month and day unknown) with a 1-Stage.
+
+##Stages##
+Brookfield opened with a Studio C Alpha, the very first of it's kind. In the early-mid 2000s, the Late-Night outfit was replaced with the Cool Chuck outfit. Around when the 2005 remodel came around, they removed the interactive console, the blue screen, the apple TV, installed the ticket blaster, and removed the Cool Chuck outfit for the Avenger outfit. In mid-late 2013, Chuck's cap was removed, and in 2017, their curtains would be disabled. The Stage was removed on August 12th, 2024 for the Dance Floor and the Video Wall 
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+| Studio C Alpha
+| December 1997 
+| August 12, 2024
+|First Alpha ever installed. 
+|-
+| Dance Floor 
+| August 2024
+| Still in use.
+|
+|-
+| Video Wall 
+| August 2024
+| Still in use.
+|
+|}
+
+## History## 
+Brookfield opened on December 17, 1997, with the Phase 2 remodel. This included some late '90s decor, Skytubes, and the very first Studio C Alpha. Brookfield remained like this for many years. In 2012, Brookfield received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2005 remodel), which involved removing all '90s decor for newer decor, removing the showroom walls and balcony seating, changed the exterior, and removed the dim lighting for brighter lighting. They were also on a street called Cheese E. Street. The street sign was removed in Spring 2022, and was sent to a private collector. The 2.0 remodel for this location started on August 12th, 2024, by removing their very first Studio C Alpha stage.
+
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+!Published Date
+|-
+|[https://www.youtube.com/watch?v=BfSpj-PIlZA&t=69s Link]
+|This is segment 2 of the April 2012 show at the Studio C Alpha in Brookfield, Wisconsin. Filmed on 5/25/2012.
+|May 25, 2012
+| June 24, 2012
+|}
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|003 (NO R&D)
+|Destroyed 
+|-
+| Parrot (Animatronic)
+|N/A
+|Destroyed 
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Destroyed 
+|-
+|[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
+|N/A
+|
+|}

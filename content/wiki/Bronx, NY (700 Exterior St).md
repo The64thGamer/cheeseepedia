@@ -1,7 +1,7 @@
 +++
 title = "Bronx, NY (700 Exterior St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-05T02:55:38Z
 
 [Article]

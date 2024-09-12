@@ -1,7 +1,7 @@
 +++
 title = "Overland Park, KS (10510 Metcalf Lane)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-02-06T15:49:56Z
 
 [Article]

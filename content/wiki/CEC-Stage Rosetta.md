@@ -1,7 +1,7 @@
 +++
 title = "CEC-Stage Rosetta"
 draft = false
-tags = []
+tags = ["Programming Software & Hardware"]
 date = 2024-09-01T09:29:52Z
 
 [Article]

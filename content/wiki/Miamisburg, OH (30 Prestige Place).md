@@ -1,7 +1,7 @@
 +++
 title = "Miamisburg, OH (30 Prestige Place)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-31T15:34:46Z
 
 [Article]

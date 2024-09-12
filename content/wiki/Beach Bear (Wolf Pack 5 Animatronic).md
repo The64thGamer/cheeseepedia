@@ -1,7 +1,7 @@
 +++
 title = "Beach Bear (Wolf Pack 5 Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-06-11T00:26:29Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E Cheese's 20th Anniversary (AAM)"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-05-17T04:56:58Z
 
 [Article]

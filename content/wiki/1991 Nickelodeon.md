@@ -8,4 +8,6 @@ date = 2023-01-09T12:12:48Z
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++
-wikitext
+{{Generic|image=Nickelodeon.png|desc=The Nickelodeon seen at the Arlington, TX (fielder) store}}
+
+The Nickelodeon, or Jukebox, is a prop created for Chuck E. Cheese's tables in 1991.

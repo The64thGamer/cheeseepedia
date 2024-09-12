@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-08-26T00:40:27Z
 
 [Article]

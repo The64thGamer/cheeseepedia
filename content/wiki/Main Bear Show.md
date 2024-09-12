@@ -1,7 +1,7 @@
 +++
 title = "Main Bear Show"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-07-07T22:33:10Z
 
 [Article]

@@ -1,11 +1,164 @@
 +++
 title = "Columbus, OH (4284 Macsway Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-30T12:50:13Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Columbus","Rexburg090","Emcaacme","Caydenpedia","CEC Tinley","SuperCreamPiper2008"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|desc=Macsway's exterior after the 2005 remodel not long before closure|image=ColumbusOHMacswayExteriorBeforeClosure.jpg}}
+
+**_4284 Macsway Ave, Store #737**_ was a _Chuck E. Cheese's_ located next to Eastland Mall in Columbus, OH.
+
+This location opened as a Showbiz Pizza Place on January 25, 1982, and closed as a Chuck E. Cheese's on June 18th, 2020. 
+
+## History ##
+Macsway Avenue opened as the fourth Showbiz Pizza Place in Ohio (4th after [Sharonville]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}), [Cincinnati (Colerain)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}), & [Miamisburg]({{< ref "wiki/Miamisburg, OH (30 Prestige Place).md" >}})) with a Rock-afire Explosion show. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Mascway was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many Showbiz locations at the time, this location also had the Statue of Liberty<ref>http://showbizpizza.com/photos/spp/oh_parma/index.html</ref> for a small period of time. Also, like many ShowBiz locations in the late 1980s, Macsway received the Showbiz Pizza Campground upgrade.
+
+In around 1991, Macsway Avenue received Concept Unification which converted the show to Munch's Make-Believe Band (this also included the 1988 Remodel which added Blue & White awnings, three small windows by the Skeeball lanes, and numerous other decor pieces as well). In around the Mid-Late 1990's, Mascway received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor, added new decor, SkyTubes, & an exterior remodel (which also replaced three small windows with three larger ones.
+
+in April 2010, Macsway would remodel to the CEC 2005 Remodel which involved removing 90s decor, showroom walls, balcony seating adding purple walls and bright florescent lighting. Later in the decade, the dinner lights would be removed. 
+
+On June 18th, 2020; Macsway would permanently close their doors for good after 38 years of operation with some parts from the show going to the [Springfield, OH]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}}) location which would receive 2.0 in 2022.
+
+As of February 2023, the building is still vacant.
+
+## Stages ##
+Macsway Avenue opened with a Rock-afire Explosion show and converted to Munch's Make-Believe Band during Concept Unification in the early 1990's. Pizzacam was removed from this location in late 2005, and Munch Jr. was removed at some point before 1997. The Latex masks were replaced with Plastic masks by 2001. The 3-Stage remained in operation until the store closed in 2020.
+
+The animatronics were kept in low-to-average working condition throughout the 2000s, as the technician did bare minimum maintenance on the stage. Some of the lights were wired incorrectly or used the wrong color bulb, and the less-crucial movements/lights would often be disabled instead of repaired (such as Jasper's leg kicks, Munch's foot tap, Pasqually's hi-hat, and the MMBB sign strobe light). 
+
+The condition of the stage began to improve drastically in 2010 when the store hired a new technician. Their first priority was to properly rewire the lighting, and to adjust the speed of movements to match the diagnostic tape. Then, previously disabled movements were repaired/replaced and reactivated. The stage was in near-perfect mechanical condition by 2011, which is when cosmetics began to be replaced. By early 2013, the stage was essentially in mint condition, both functionally and aesthetically. 
+
+Once the store tech ran out of things to fix and replace, they began making custom additions and improvements to the stage. The main additions were:
+
+# MMBB sign was refitted with LED light strips to distribute light more evenly.
+# Every other white light on Chuck's Star was swapped out for blue.
+# LED light strips were attached along the edges of the center stage building backdrops.
+# Pasqually's Drum lights were swapped out for LED strips.
+In 2020, during the store closure, the stage would be demolished during closure, with all of the animatronic characters being stripped for spare parts. But a large chunk of the 3-Stage would be left in-store, from the backdrops to the curtain valance. As of now, it is still left behind mainly untouched, except for a few parts that went to other locations.
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+!Notes:
+|-
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|January 1982
+|1991-1992
+|4th Showbiz to open in Ohio.
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991-1992
+|June 2020
+|One of Four Showbiz locations in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio.
+|}
+
+## Animatronics ##
+{| class='wikitable'
+|+
+!Character
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|N/A
+|Dismantled for parts, left in store.
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|N/A
+|Dismantled for parts, left in store.
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|N/A
+|Dismantled for parts, left in store.
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|N/A
+|Dismantled for parts, left in store.
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|N/A
+|Dismantled for parts, left in store.
+|-
+|[Billy Bob]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|N/A
+|Unknown.
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|N/A
+|Unknown.
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|N/A
+|Unknown.
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|N/A
+|Unknown.
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|N/A
+|Left in store.
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|Unknown.
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Unknown.
+|}
+
+
+[http://showbizpizza.com/photos/spp/oh_parma/index.html 1986]
+
+
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Date Filmed
+!Date Published
+|-
+|[https://www.youtube.com/watch?v=F6Y1G-8zr3Y https://www.youtube.com/watch?v=4xlosPFo58E]
+|A video of Macsway as a Showbiz in 1991.
+|1991
+|March 3, 2022
+|-
+|https://www.youtube.com/watch?v=R3lFT-rWGV8
+|Some footage of Macsway's 3-Stage after the aftershocks of 9/11.
+|October 13, 2001
+|October 7, 2017
+|-
+|https://www.youtube.com/watch?v=rynexaXMzV4
+|Store tour of the store back in 2011. Remastered in 2020
+|April 2011
+|September 21, 2020
+|-
+|https://www.youtube.com/watch?v=hkRuEUFgnpI
+|[May 2011 Show]({{< ref "wiki/May 2011 Show.md" >}}) being performed without compressed air
+|June 2011
+|June 13, 2011
+|-
+|https://www.youtube.com/watch?v=1_n5lancFLU
+|'Fun!' from Chuck E. Cheese's Show 3 2018 (Show 3 2018) being performed on Macsway's 3-Stage.
+|June 15, 2019
+|February 29, 2020
+|-
+|https://www.youtube.com/watch?v=uICQYoMwmro
+|'Cookies For Santa' from Chuck E. Cheese's Show 5 2019 (Show 5 2019) being performed on Macsway's 3-Stage.
+|December 15, 2019
+|December 16, 2020
+|-
+|https://www.youtube.com/watch?v=n09L8exBc5s
+|Footage of the store's interior after closure, with some games and seats left inside, and the remains of Macsway's 3-Stage.
+|June 2020
+|June 20, 2020
+|}
+
+## References ##
+<references />

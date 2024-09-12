@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Happy Holidays Mug (1983)"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2023-03-31T20:45:26Z
 
 [Article]

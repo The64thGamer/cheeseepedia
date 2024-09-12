@@ -1,7 +1,7 @@
 +++
 title = "Rochester, MN (1250 16th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-01-21T21:07:52Z
 
 [Article]

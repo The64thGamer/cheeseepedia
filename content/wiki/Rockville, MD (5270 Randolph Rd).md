@@ -1,7 +1,7 @@
 +++
 title = "Rockville, MD (5270 Randolph Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-11-01T04:25:39Z
 
 [Article]

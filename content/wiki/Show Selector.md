@@ -1,7 +1,7 @@
 +++
 title = "Show Selector"
 draft = false
-tags = []
+tags = ["Animatronic Control Hardware & Software"]
 date = 2024-08-29T00:08:29Z
 
 [Article]

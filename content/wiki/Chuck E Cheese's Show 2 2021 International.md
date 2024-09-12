@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 2 2021 International"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-02-22T20:58:06Z
 
 [Article]

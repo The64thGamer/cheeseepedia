@@ -1,7 +1,7 @@
 +++
 title = "Prototype CEC Baby Lion Plush (2016)"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2023-03-31T20:54:59Z
 
 [Article]

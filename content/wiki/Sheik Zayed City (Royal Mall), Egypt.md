@@ -1,7 +1,7 @@
 +++
 title = "Sheik Zayed City (Royal Mall), Egypt"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-03-29T02:11:05Z
 
 [Article]

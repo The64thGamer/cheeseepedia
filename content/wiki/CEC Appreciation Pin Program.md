@@ -1,7 +1,7 @@
 +++
 title = "CEC Appreciation Pin Program"
 draft = false
-tags = ["Documents"]
+tags = []
 date = 2022-04-17T19:21:23Z
 
 [Article]

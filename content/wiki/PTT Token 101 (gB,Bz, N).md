@@ -8,4 +8,16 @@ date = 2023-09-02T03:30:28Z
 contributors = ["The 64th Gamer","CEC Tinley","2600:6C48:427F:F8C2:15F3:2D0B:8739:2C3E","ShowbizMidwest","2600:6C48:427F:F8C2:1807:59EB:EDEC:92E"]
 gallery = []
 +++
-text/x-wiki
+{{Token|image=77giltbz.jpg|diameter=0.984|obvtext=Pizzatime Theatre, Chuck E. Cheese|revtext=In Pizza We Trust, 25¢ Value, 1977|variety=N/A|var1=Glint Brass|var2=Glint Bronze|var3=Nickel Brass|date=1977}}
+
+The **_Pizza Time Theatre Token 101**_ was the first [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) token to ever be released, which was first obtainable on May 3rd, 1977, at the Pizza Time Theatre Grand Opening Review (Event) (Pizza Time Theatre Grand Opening Review) event for Atari employees.<ref>https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977/page/n1/mode/2up</ref>
+
+They would be obtainable by the public on May 17th with the opening of first location in [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). By 1978, they would be succeeded by the PTT Token 102 (Bz, N) (102 (Bz, N)) and PTT Token 125 (gB, Bz, gBz, N) (125 (gB, Bz, gBz, N)) tokens. 
+
+
+
+
+### Errors ###
+A Glint Brass variant of the token is known to have a clipped planchet, though no images of it have surfaced yet.<ref>https://www.cectokens.com/error-tokens</ref>
+
+## References ##

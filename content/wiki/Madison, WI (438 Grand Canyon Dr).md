@@ -1,7 +1,7 @@
 +++
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-05-21T11:41:01Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Hours (Winchester Signage)"
 draft = false
-tags = []
+tags = ["Store Fixtures"]
 date = 2023-08-24T00:11:53Z
 
 [Article]

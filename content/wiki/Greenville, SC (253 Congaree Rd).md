@@ -1,7 +1,7 @@
 +++
 title = "Greenville, SC (253 Congaree Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-02-03T04:59:44Z
 
 [Article]

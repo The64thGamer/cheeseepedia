@@ -1,7 +1,7 @@
 +++
 title = "CEC Dreams/Kids Showtape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-06T23:28:31Z
 
 [Article]

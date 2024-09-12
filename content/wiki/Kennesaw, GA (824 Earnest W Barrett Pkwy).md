@@ -1,7 +1,7 @@
 +++
 title = "Kennesaw, GA (824 Earnest W Barrett Pkwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-04T17:09:44Z
 
 [Article]

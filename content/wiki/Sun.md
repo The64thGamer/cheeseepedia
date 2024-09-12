@@ -1,7 +1,7 @@
 +++
 title = "Sun"
 draft = false
-tags = []
+tags = ["Characters"]
 date = 2024-05-29T02:20:08Z
 
 [Article]

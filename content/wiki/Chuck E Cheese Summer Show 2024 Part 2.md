@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Summer Show 2024 Part 2"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2024-07-29T18:25:49Z
 
 [Article]

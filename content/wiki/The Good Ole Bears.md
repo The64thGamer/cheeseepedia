@@ -1,7 +1,7 @@
 +++
 title = "The Good Ole Bears"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-08-23T20:19:06Z
 
 [Article]

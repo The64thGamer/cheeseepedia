@@ -1,7 +1,7 @@
 +++
 title = "CEC Summer Days"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-09-03T23:32:54Z
 
 [Article]

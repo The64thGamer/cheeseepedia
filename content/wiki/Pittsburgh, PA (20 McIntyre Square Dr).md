@@ -1,7 +1,7 @@
 +++
 title = "Pittsburgh, PA (20 McIntyre Square Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-11T16:52:26Z
 
 [Article]

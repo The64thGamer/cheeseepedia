@@ -1,7 +1,7 @@
 +++
 title = "Webster, TX (1541 West Bay Area Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-31T15:31:38Z
 
 [Article]

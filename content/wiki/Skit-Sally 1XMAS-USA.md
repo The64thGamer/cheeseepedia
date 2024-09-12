@@ -1,7 +1,7 @@
 +++
 title = "Skit-Sally 1XMAS-USA"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-04-07T23:23:52Z
 
 [Article]

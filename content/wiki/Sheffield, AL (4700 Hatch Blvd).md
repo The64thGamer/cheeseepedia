@@ -1,7 +1,7 @@
 +++
 title = "Sheffield, AL (4700 Hatch Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-01-19T21:13:03Z
 
 [Article]

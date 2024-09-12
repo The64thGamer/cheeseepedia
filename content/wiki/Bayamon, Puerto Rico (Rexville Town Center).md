@@ -1,7 +1,7 @@
 +++
 title = "Bayamon, Puerto Rico (Rexville Town Center)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-12T05:46:36Z
 
 [Article]

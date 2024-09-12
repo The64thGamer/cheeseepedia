@@ -1,7 +1,7 @@
 +++
 title = "Tropical Cleaners"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2023-05-07T01:42:29Z
 
 [Article]

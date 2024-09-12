@@ -1,7 +1,7 @@
 +++
 title = "Sally Unlimited Corporate Office"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2023-11-27T21:11:27Z
 
 [Article]

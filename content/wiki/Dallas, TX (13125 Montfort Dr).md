@@ -1,11 +1,240 @@
 +++
 title = "Dallas, TX (13125 Montfort Dr)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-05T00:38:39Z
 
 [Article]
 contributors = ["Montfortdog","Chouts1","Rexburg090","CECBowlingGreen","Emcaacme","ChuckECool","BurgersNuggs445","RedaCEC","Midwestretail","The 64th Gamer","ShowbizMidwest","GabrielPennington9864","98.122.34.98","120.28.237.125","CorrectorMan","47.223.117.250","2605:AD80:31:19FD:F87A:255:C815:A4AA","SuperCreamPiper2008","CoolerDude","ThatBoiCydalan","AstridMascotFan2005","Caydenpedia","CECMadison","CEC1988","Stripes"]
-gallery = []
+gallery = [":AAM clipping Sept 1996.jpg|AAM Clipping"]
 +++
-wikitext
+{{Generic|image=Dallas, TX (Montfort) exterior (1987-November 1989).png|desc=The exterior after they finished their 1986 remodel.}}
+**_Dallas, TX (13125 Montfort Dr) Store #580**_ was a _Showbiz Pizza Place_ that opened on January 26, 1983, with a Rock-afire Explosion, which closed and relocated in December 2001. 
+
+This store is notable for being the very first store to undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and later the only [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) stage. Throughout the 90s the location was featured in many training tapes and showtapes for Chuck E. Cheese restaurants.
+
+##Stages##
+Shortly after opening, the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) was minorly updated to have a customized backdrop on center stage, then, later on, would also receive 'Showbiz Pizza Campgrounds' before undergoing an early process of [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and receiving the [CU Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}}) as a test show in sometime between 1989 and May 1990<ref>https://www.youtube.com/watch?v=OaBv_EGz7_c</ref>, and later received the finalized 3-Stage in June 1990<ref>https://www.youtube.com/watch?v=nCxuWWzRFmA</ref>.
+
+The 3-Stage would fall into disrepair in the mid-1990s and began being replaced with the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) concept on August 11, 1996. By August 21, which is the initial in-store premiere. The Awesome Adventure Machine is believed to be the next big step for Showbiz Pizza Time into the new millennium.<ref></ref> However, once completed, the show would ultimately end up in operation for only one year due to budget and technical concerns. The concept would be scrapped completely in favor of one of the first Studio C (1997) (Studio C) shows.
+
+Although little is known of the location's Studio C, it has been discovered in January 2023 that the Studio C Chuck animatronic was relocated to [Moreno Valley, CA]({{< ref "wiki/Moreno Valley, CA (23160 Sunnymead Blvd).md" >}}) location post closure. 
+{| class='wikitable'
+|+
+!Stage
+!Installed
+!Removed
+|-
+|[The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|January 1983
+|Sometime in 1989
+|-
+|[Concept Unification Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}})
+|Sometime in 1989
+|June 1990
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|June 1990
+|August 1996
+|-
+|[Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}})
+|August 1996
+|1997/1998
+|-
+|[Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})
+|1997/1998
+|December 2001
+|}
+
+## History##
+The Montfort Showbiz Pizza Place opened on January 26th, 1983 as the 23rd corporate-owned store in the United States. The space the store would occupy initially was a Target Foods that was later converted to a Kroger grocery store, which is located next to Target T-13 (which opened in 1969) After Kroger's closure, the pizza establishment remained mostly unchanged, leaving the former Chuck E. Cheese's exterior as one of the only pieces of evidence of Kroger's existence.<ref>https://i.pinimg.com/474x/46/ff/c5/46ffc50e0012be167c2be29c56d70f9e--retail-signs-vintage-signs.jpg</ref> On November 28, 1983, the location became the first of four SPPs to premiere the Showscan Theater for Showbiz Pizza and Brock Hotel Corp executives.<ref>https://en.wikipedia.org/wiki/Showscan</ref> The concept lasted until the merging of Pizza Time Theatre and Showbiz Pizza Place, with a lack of funding being a possibility.
+
+On October 3, 1988, the location would be unified with CEC under the 1986 SPT Remodel Program (1986 remodel initiative) and would remodel once again around 1993. This would also had the SPP logo flipped upside down. The former Sports Room present inside the Showbiz would be converted into a regular dining space following the first major remodel. The location would also receive [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) in 1995 and [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) upgrades in 1997. It is unknown if they've ever received [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}).
+
+In December 2001, the location relocated to [13364 Montfort Dr]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).md" >}}), a free-standing location closer to a nearby mall, and left the building to be partially redeveloped by Target. The location was empty until 2010-2011 when Target bought the space for office and storage usage. Target would also replace the entrance's red doors with generic white doors and repaint parts of the exterior later on. 
+
+The Showroom and kiddie area was left mostly intact although both areas are being used as storage now. The showroom still has what remains of Studio C, along with the dinner light fixtures still in the ceiling. The rest of the former Chuck E. Cheese's is currently used for Target office space. Currently, there are 2 exterior photos of it as a Showbiz Pizza Place, with Chuck E. Cheese exterior photos being lost media. 
+
+## Arcade Machines##
+Identified 1998 Machines
+*Chuck E's Rubble Bubble
+*[Chuck E. Cheese's Hightops]({{< ref "wiki/Chuck E Cheese's Hightops.md" >}})
+*[https://www.arcade-museum.com/game_detail.php?game_id=7933 Get Bass]
+*[https://www.arcade-museum.com/game_detail.php?game_id=9429 San Francisco Rush The Rock]
+*[https://www.arcade-museum.com/game_detail.php?game_id=9477 Sega Super GT]
+*[https://www.highwaygames.com/arcade-machines/total-eclipse-7762/ Total Eclipse]
+*[https://www.arcade-museum.com/game_detail.php?game_id=10414 Wave Runner]
+
+*Skeeball
+*Chuck E.'s Hoops
+*The Simpsons
+*SEGA Super GT
+*[Chuck E. Cheese's Circus]({{< ref "wiki/Chuck E Cheese's Circus.md" >}})
+*Chuck E. Cheese's Photo Ride
+*Helen Henny Car
+*CEC Power Beat
+*[https://www.highwaygames.com/arcade-machines/moto-frenzy-8497/ Moto Frenzy]
+*[https://www.arcade-museum.com/Videogame/gp-rider Sega GP Rider (2 players)]
+*[https://www.arcade-museum.com/Videogame/ridge-racer Ridge Racer]
+*[https://www.arcade-museum.com/Arcade/teenage-mutant-ninja-turtles-pizza-drop Teenage Mutant Ninja Turtles Pizza Drop]
+*Mean Machine (Whittaker Bros) (1980s)
+*[https://www.arcade-museum.com/Arcade/1-2-pint-frenzy 1/2 Pint Frenzy]
+*Smokin' Token
+*[https://www.arcade-museum.com/Videogame/harley-davidson-l-a-riders Harley Davidson & L.A. Riders]
+*[https://www.arcade-museum.com/Videogame/jurassic-park Jurassic Park (1994)]
+*[Chuck E Cheese's Pow-Air Play]({{< ref "wiki/Chuck E Cheese's Pow-Air Play.md" >}})
+*Chuck E. Cheese's All Star Triple Jam
+*[https://www.arcade-museum.com/Arcade/robo-bop Robo-Bop]
+*[Chuck E. Cheese Roll]({{< ref "wiki/Chuck E Cheese Roll.md" >}})
+*[https://www.arcade-museum.com/game_detail.php?game_id=19716 Cyclone]
+*[https://www.arcade-museum.com/game_detail.php?game_id=19671 Buzzy Buzzy Bee]
+
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Date
+|-
+|https://youtu.be/-18SLJ6EXq0
+|Showscan Feature on KKAS
+|February 4, 1984
+|-
+|https://youtu.be/n1a-okR19Fw
+|Footage of the store as a Showbiz Pizza
+|February 1988
+|-
+|https://youtu.be/WgHL-OZ8ybY
+|Concept Unification Premiere Demo
+|1990
+|-
+|https://youtu.be/AG_S8DtkZug
+|Taking Care Of Business Demo
+|1991
+|-
+|https://youtu.be/92D3qT6j8pI
+|Land Of 1,000 Dances Demo
+|1991
+|-
+|https://youtu.be/MLKH7vdUlns
+|Walking On Sunshine Demo
+|1991
+|-
+|https://youtu.be/Et7dASk23-Y
+|Games 91 and CU Live 90
+|Summer 1991
+|-
+|https://youtu.be/92D3qT6j8pI
+|Havin' A Party/Chuck E.'s Place Demo
+|1992
+|-
+|https://youtu.be/hrbvNxw_xbI
+|Brief location footage featuring the show
+|May 1995
+|-
+|https://youtu.be/0QseidcG-Qo
+|Last known video of the 3-Stage in operation
+|February 1996
+|-
+|https://youtu.be/0zqMGkGV9xc
+|AAM installation
+|August 11, 1996
+|-
+|https://youtu.be/Or8yZUYdvxA
+|Feature in 'Tokens To Ride'
+|1998
+|}
+
+
+
+
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|7-82 1-5
+|Used for parts / Destroyed
+|-
+|[Pasqually / Helen Henny / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|7-82 2-5
+|Used for parts / Destroyed
+|-
+|[Mr. Munch / Pasqually / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|7-82 3-5
+|Used for parts / Destroyed
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|7-82 4-5
+|Used for parts / Destroyed
+|-
+|[Helen Henny / Chuck E. Cheese / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|7-82 5-5
+|Used for parts / Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|7-82 6-5
+|Unknown
+|-
+|[Pizzacam / Mr Munch / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|7-82 7-5
+|Used for parts / Destroyed
+|-
+|[Munch Jr. / Mr Munch / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|7-82 8-5
+|Used for parts / Destroyed
+|-
+|[Building / Mr Munch / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|7-82 10-5
+|Used for parts / Destroyed
+|-
+|[Mr Munch / Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|7-82 11-5
+|Destroyed
+|-
+|[Mr Munch / Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Destroyed
+|-
+|AAM Chuck E. Cheese (Animatronic) (AAM Chuck E. Cheese)
+|N/A
+|Destroyed
+|-
+|[Brain-I-Vac (Animatronic)]({{< ref "wiki/Brain-I-Vac (Animatronic).md" >}})
+|N/A
+|Destroyed 
+|-
+|[O.R.B.I.S (Animatronic)]({{< ref "wiki/ORBIS (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Dusty (Animatronic)]({{< ref "wiki/Dusty (Animatronic).md" >}})
+|N/A
+|Destroyed 
+|-
+|[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|002
+|Sent to [Moreno Valley, CA (23160 Sunnymead Blvd)]({{< ref "wiki/Moreno Valley, CA (23160 Sunnymead Blvd).md" >}}), then destroyed.
+|-
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
+|N/A
+|Destroyed
+|}
+
+##References##
+<references />

@@ -1,7 +1,7 @@
 +++
 title = "Goodyear, AZ (13371 West McDowell Rd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-28T14:34:09Z
 
 [Article]

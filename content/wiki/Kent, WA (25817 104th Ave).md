@@ -1,7 +1,7 @@
 +++
 title = "Kent, WA (25817 104th Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-08-14T03:00:50Z
 
 [Article]

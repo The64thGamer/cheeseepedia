@@ -1,7 +1,7 @@
 +++
 title = "Dale City, VA (14085 Shoppers Best Way)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-08-19T05:52:32Z
 
 [Article]

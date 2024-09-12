@@ -1,7 +1,7 @@
 +++
 title = "Mitzie (Parody Poster)"
 draft = false
-tags = []
+tags = ["Store Fixtures"]
 date = 2023-07-04T07:11:00Z
 
 [Article]

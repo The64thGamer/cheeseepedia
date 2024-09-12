@@ -1,7 +1,7 @@
 +++
 title = "Olathe, KS (15225 W 134th St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-04-05T02:48:32Z
 
 [Article]

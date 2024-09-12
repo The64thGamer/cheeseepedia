@@ -1,7 +1,7 @@
 +++
 title = "Rockin-Bowler"
 draft = false
-tags = []
+tags = ["Arcade Games"]
 date = 2023-07-08T19:35:46Z
 
 [Article]

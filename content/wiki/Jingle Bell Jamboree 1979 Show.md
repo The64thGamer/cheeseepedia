@@ -1,7 +1,7 @@
 +++
 title = "Jingle Bell Jamboree 1979 Show"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-06-15T14:23:07Z
 
 [Article]

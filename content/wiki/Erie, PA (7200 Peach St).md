@@ -1,7 +1,7 @@
 +++
 title = "Erie, PA (7200 Peach St)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-29T21:42:57Z
 
 [Article]

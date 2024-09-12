@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2023-12-27T04:20:06Z
 
 [Article]

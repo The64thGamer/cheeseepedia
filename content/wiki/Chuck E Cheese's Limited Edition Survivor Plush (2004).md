@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Limited Edition Survivor Plush (2004)"
 draft = false
-tags = []
+tags = ["Merchandise"]
 date = 2023-04-23T01:45:00Z
 
 [Article]

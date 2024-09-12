@@ -1,7 +1,7 @@
 +++
 title = "Winchester Control System"
 draft = false
-tags = []
+tags = ["Animatronic Control Hardware & Software"]
 date = 2023-08-14T17:21:19Z
 
 [Article]

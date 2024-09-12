@@ -1,7 +1,7 @@
 +++
 title = "Austin, TX (502 W Ben White Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-08T12:15:28Z
 
 [Article]

@@ -1,11 +1,214 @@
 +++
 title = "Houston, TX (2220 FM 1960)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-10-29T01:17:30Z
 
 [Article]
 contributors = ["ThatBoiCydalan","Rexburg090","Emcaacme"]
 gallery = []
 +++
-text/x-wiki
+{{Stub}}{{Generic|desc=The store's exterior in 2018. (PC: Wikkidpiggz CEC)|image=Fm 1960 CEC 2018.png}}
+**_Houston, TX (2220 FM 1960), Store #32**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's_ which opened on June 25th, 1981 as a Showbiz Pizza Place and closed/relocated as a Chuck E Cheese's on August 26th, 2018.
+
+It originally opened as a Showbiz Pizza Place and was located in the at the corner of FM 1960 and Kuykendahl Rd in the Northgate Shopping Center.
+
+##Stages##
+When this location first opened, it featured [the Rock-afire Explosion stage]({{< ref "wiki/Classic Stage.md" >}}), receiving [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) sometime around 1991/1992.
+
+Around 2009-2010, when the store remodeled again, the stage was replaced with a Studio C 2000 stage featuring a Chuck E. Cheese 16m (Animatronic) (16-movement bot). As the store's closure date neared in August 2018, the animatronic bot would lose his teeth,<ref>https://youtu.be/pENKwPx3BLs</ref> remaining up to the closure of the store.
+
+##History##
+The Northgate Shopping Center was built in 1979<ref>https://www.loopnet.com/Listing/2224-Cypress-Creek-Pkwy-Houston-TX/13523035/</ref> at the corner of FM 1960 and Kuykendahl Road as an addition to a department store next to it.<ref>http://safewayalbertsonstexas.blogspot.com/2016/01/the-mysterious-randalls-at-kuykendahl.html</ref> Showbiz Pizza Place would presumably begin construction sometime after the beginning of 1981 
+
+###Showbiz Pizza###
+This location originally opened as a Showbiz Pizza Place on June 25th, 1981. Like every Showbiz Pizza location, this location featured the Rock-afire Explosion. Like most other Showbiz Pizza stores in the late 1980s, this location would receive the Showbiz Pizza Campground upgrade.
+
+###Chuck E. Cheese's###
+Presumably around 1991/1992, the store would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). Not that much information is known about this store, but had received several changes/remodels on its stage and store over the years.
+
+Around 2009-2010, this location received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, involving some slight downsizing at the back of the store and replacing the 3-Stage for a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) with a 16M movement bot.
+
+Over the years, the store's surrounding area would worsen as its shopping center became more abandoned, causing crime rates at this location to be on the rise. Because of these issues, this location would plan a relocation to the North Junction Plaza, eventually being announced with the closure originally planned around March 2018, but was delayed. This location would close their doors on August 26th, 2018 and reopen their new location on September 1st the same year at Houston, TX (146 FM 1960) (146 FM 1960). To this day, this store still remains abandoned and vacant.
+
+##Arcade Machines ##
+
+###Skill###
+*Alley Roller Classic
+*CEC Street Hoops
+*[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
+* Cyclone Junior
+*Penalty Shot Chuck E. Cheese's
+*[Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
+*[Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
+*Pop The Lock
+* Harpoon Lagoon
+*Reactor
+*Galaga Assault
+*Rollin On 24's
+*The Ghost Hunter
+*Slap Happy
+* Mad Wave Motion Theater
+*Strike Zone
+*Milk Jug Toss
+*2 Minute Drill
+*Redhot
+*Crank It!
+*NBA Hoops
+*Batman
+*H2Overdrive
+* Sonic Spinner
+*Flying Tickets
+*Tower Crane
+* Barrel of Monkeys
+*Water Blast
+*Sideshow
+* Family Bowl 2
+*Raptor's Revenge
+*Robin Hood
+*Deal or No Deal
+*Aliens Extermination Deluxe
+*Super Monkey Ball Ticket Blitz
+*Teeter Totter Castle
+*Doodle Jump Arcade
+*Deep Sea Treasures
+*Slam A Winner
+*Stack-It
+*Raging Ape
+* Crossbow Master: Chuck E. Cheese's
+*Buzzy Buzzy Bee
+* Nicktoons Racing
+* High Five!
+*Hittin' Hoops!
+*Buster Bubbles
+*Zoofari
+
+###Coin Action### 
+
+*Wonder Land
+*The Price is Right Plinko
+*The Simpsons Kooky Carnival
+*Roll For Gold 2
+* Chuck E. Cheese's Boulder's Dozer's
+*Wonder Wheel
+*Spongebob Squarepants
+*Jam Session
+
+###Kiddie###
+
+* Jett Rider
+* Hammer 2
+*Chuck E.'s Goalie All Star
+*SpongeBob SquarePants Bikini Bottom Bowling
+*Chameleon Paradize
+*Chuck E.'s Glider Rider
+
+* Dog Pounder
+* Chuck E. Cheese's Photo Ride (2014)
+*Dino Pop
+
+##Videos##
+{| class='wikitable'
+|+
+!Link
+!Description
+!Filming Date
+|-
+| [https://youtu.be/8-YYQgU7UoM Link]
+|The store's 3-Stage in 1999 featuring _Chuck E. March 1993_
+|March 6th, 1999
+|-
+|[https://youtu.be/_737dJtX6pE Link]
+|A short video showing this location's Studio C Beta stage.
+|June 30th, 2017
+|-
+|[https://youtu.be/Pme3mIDcqMw Link]
+|A store tour of this location 2 months before its closure.
+|June 6th, 2018
+|-
+|[https://youtu.be/Ze69VxCKtQQ Link]
+| Me And My Friends being played at the 1960 location.
+|July 24th, 2018
+|-
+|[https://youtu.be/Ajn97rKKMRg Link]
+|A store tour of this location on the last day of its operation.
+|August 26th, 2018
+|-
+|[https://youtu.be/pENKwPx3BLs Link]
+|'Jasper's Country Classic' from Chuck E. Cheese's Show 3 2018 (Show 3 2018) being performed on 1960's Beta.
+|August 26th, 2018
+|-
+|[https://youtu.be/0YEZN2dvgtc Link]
+|A look into this location abandoned.
+|August 12th, 2021
+|}
+
+##Gallery ##
+
+
+##Animatronics##
+{| class='wikitable'
+|+
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|Chuck E. Cheese/Rolfe DeWolfe
+|1-81 1-4
+|Unknown
+|-
+|Pasqually the Chef/Dook LaRue
+|1-81 2-4
+|Unknown
+|-
+|Mr Munch/Fatz Geronimo
+|1-81 3-4
+|Unknown
+|-
+|Jasper T. Jowls/Beach Bear
+|1-81 4-4
+|Unknown
+|-
+|Helen Henny/ Mitzi Mozzerella
+|1-81 5-4
+|Unknown
+|-
+|Billy Bob
+|1-81 6-4
+|Unknown
+|-
+|Pizzacam/Looney Bird
+|1-81 7-4
+|Unknown
+|-
+|Munch Jr/ Choo Choo
+|1-81 8-4
+|Unknown
+|-
+|Building/Sun
+|1-81 10-4
+|Unknown
+|-
+|Moon
+|1-81 11-4
+|Unknown
+|-
+|Antioch
+|N/A
+|Unknown
+|-
+|Wink
+|N/A
+|Unknown
+|-
+|[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
+|N/A
+|Unknown
+|-
+|[Pizza Time Clock (Animatronic)]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Unknown
+|}
+
+##References##
+<references />

@@ -1,7 +1,7 @@
 +++
 title = "Baltimore (Essex), MD (8354 Eastern Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-28T17:54:31Z
 
 [Article]

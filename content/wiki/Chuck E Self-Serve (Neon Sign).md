@@ -6,6 +6,11 @@ date = 2023-08-08T23:08:00Z
 
 [Article]
 contributors = ["Japserfannumber20","Concordio","74.96.197.218"]
-gallery = []
+gallery = ["Chuck e self serve sign.jpg|thumb|alt=The sign at the fort walton flordia location "]
 +++
-text/x-wiki
+The **_Chuck E. Cheese's Self-Serve Neon Sign**_ was a fixture found at Chuck E. Cheese's Pizza and Showbiz Pizza locations installed during the 1986 Showbiz Pizza Time remodel program.
+
+## Design ##
+The design features Chuck holding a Coca-Cola cup with a speech bubble saying 'Self Serve'. It has various colors such as green, red, white and blue.
+
+

@@ -1,7 +1,7 @@
 +++
 title = "Orlando (East), FL (449 N Alafaya Trail)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-02-06T06:33:09Z
 
 [Article]

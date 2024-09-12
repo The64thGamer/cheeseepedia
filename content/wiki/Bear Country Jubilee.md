@@ -1,7 +1,7 @@
 +++
 title = "Bear Country Jubilee"
 draft = false
-tags = []
+tags = ["Animatronic Shows"]
 date = 2024-08-24T05:19:24Z
 
 [Article]

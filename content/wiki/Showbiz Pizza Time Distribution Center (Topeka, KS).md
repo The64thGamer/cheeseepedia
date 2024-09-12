@@ -1,11 +1,61 @@
 +++
 title = "Showbiz Pizza Time Distribution Center (Topeka, KS)"
 draft = false
-tags = []
+tags = ["Restaurants & Company History"]
 date = 2024-08-31T17:30:00Z
 
 [Article]
 contributors = ["The 64th Gamer","168.69.254.247","CECBowlingGreen","BurgersNuggs445","WalterB","CEC Illinois","Caydenpedia","Animatronicbrainrot","CECMentor","ThatBoiCydalan","NintendoCraft","BenTrainFan2000","AstridMascotFan2005","Clownzin","Livelycheese"]
 gallery = []
 +++
-text/x-wiki
+{{Generic|image=Sptmay2024photobruh.png|desc=Exterior (May 2024)}}
+
+The **_Showbiz Pizza Time Distribution Center: Topeka, Kansas (7215 SW Topeka Blvd)**_, is the Technical Support Department for [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}), opening in an unknown year and being around to present day.
+
+## Function ##
+It is a distribution center that stores all the technical parts of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}). The building houses a parts department, technical support, and refurbishment center. It also serves as an archive, as pieces of vintage signage have been confirmed to be held there.
+
+## Stages ##
+This location also houses multiple full animatronic stages and series of props/art that are or are not being used for parts. This collection began in late 2020 as part of the [CEC Legacy Location Program]({{< ref "wiki/CEC Legacy Locations.md" >}}). 
+
+* Slidell, LA (124 North Shore Blvd)
+** October 22, 2020 - Art taken during closure.
+* Stuart, FL (2400 NW Federal Hwy)
+** March 2022 - Studio C (1997) (Studio C) taken during remodel.
+* [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}})
+** June 8, 2022 - 3-Stage taken during 2.0 along with store and stage carpet. [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) later relocated to [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}), debuted on June 18, 2024.
+* [Rockford, IL (3600 E State St)]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}})
+** June 13, 2022 - Entire Cyberamics Rocker Stage (Rocker Stage) with animatronics taken during remodel.
+* [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})
+** July 25, 2022 - Art taken.
+
+* Murfreesboro, TN  (1720 Old Fort Pkwy)
+** June 2023 - Art taken during remodel.
+* [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}})
+** July 11, 2023 - [2-Stage]({{< ref "wiki/2-Stage.md" >}}) taken during remodel.
+
+* [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}})
+** July 12th, 2023 - Animatronics taken during remodel
+
+* [Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}})
+** July 23rd, 2023 - Animatronics, games, and art taken following closure.
+* In Fall of 2023, around 2 or more sets of [Cyberamic]({{< ref "wiki/Cyberamics.md" >}}) animatronics were taken, but the exact stores are unconfirmed.
+* [Tinley Park, IL (16090 S Harlem Ave)]({{< ref "wiki/Tinley Park, IL (16090 S Harlem Ave).md" >}})
+** November 24, 2023 - Animatronics taken.
+* [Fargo, ND (1202 Nodak Dr)]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}})
+** March 18th, 2024 - Art taken following closure.
+* [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}})
+** May 5, 2024 - Curtains taken during remodel. Sent to [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) in July 2024.
+* [Mentor, OH (8000 Plaza Blvd)]({{< ref "wiki/Mentor, OH (8000 Plaza Blvd).md" >}})
+** May 13, 2024 - Animatronics taken during remodel. (besides [Wink]({{< ref "wiki/Wink (Cyberamic).md" >}})).
+* [Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}})
+** May 13, 2024 - Animatronics taken during remodel.
+* [Charlotte, NC (5612 Albemarle Rd)]({{< ref "wiki/Charlotte, NC (5612 Albemarle Rd).md" >}})
+** June 2, 2024 - Animatronics taken during remodel.
+* [Billings, MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}})
+** July 28, 2024 - Animatronics taken during remodel
+
+
+
+
+## References ##

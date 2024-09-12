@@ -1,7 +1,7 @@
 +++
 title = "North Richland Hills, TX (7935 Grapevine Hwy)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-07-29T21:41:12Z
 
 [Article]

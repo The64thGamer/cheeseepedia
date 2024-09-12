@@ -1,11 +1,157 @@
 +++
 title = "Englewood, CO (1001 W Hampden Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-02-18T22:00:51Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090"]
-gallery = []
+gallery = ["EnglewoodCO2.0Exterior.jpg|thumb|Englewood's exterior after the 2.0 Remodel was complete (PC: Shelly Morgan) (January 2023)"]
 +++
-text/x-wiki
+
+**_1001 W Hampden Ave, Store #721**_ was a Showbiz Pizza Place that opened on July 16, 1981 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
+
+##History ##
+Englewood opened its doors on July 16th, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although very little documentation exists back in the ShowBiz days, it can be determined that Englewood was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Englewood received the Showbiz Pizza Campground upgrade.
+
+In around 1991/1992, Englewood received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, Englewood received either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel which removed some early 90's decor and added new decor, SkyTubes, & an exterior expansion. Sometime in around Early-Mid 2000, Englewood received the Phase 3 remodel which removed the 3-Stage for the Studio C Alpha. Englewood remained this way until sometime in 2009 when they received the 2005 Remodel which involved removing the Showroom Walls, balcony Seating, expanding the back of the store, and also removing some older 90's decor. In October 2022, they received the 2.0 remodel removing the Alpha for the Dance Floor. They were formerly the last non 2.0 store in Colorado but as of January 2023, they still have the 2.0 remodel and dance floor and Colorado is officially considered 'bot-less'.
+## Stages##
+Englewood opened with the Rock afire Explosion in July 1981. Unfortunately, there are some photos but no videos to exist of Englewood with the Rock afire, or as a ShowBiz in general.
+
+In 1991/1992, Englewood received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
+
+Sometime in around Early-Mid 2000, Englewood removed the 3-Stage for the Studio C Alpha stage.
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|July 1981
+|1991 or 1992
+|3rd Showbiz Pizza in Colorado.
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|1991 or 1992
+|Early 2000
+|One of 5 Colorado locations to get Concept Unification
+|-
+|Studio C (1997) (Studio C Alpha)
+|Early 2000
+|November 2022
+|Formerly last animatronic show in Colorado.
+|-
+| Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}})
+|November 2022
+|Still in use
+|2021 Model.
+|}
+
+##Animatronics##
+{| class='wikitable'
+|+
+! Character
+!Serial
+!Status
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|1-81 1-6
+|Unknown/Destroyed
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+| 1-81 2-6
+|Unknown/Destroyed
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|1-81 3-6
+|Unknown/Destroyed
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|1-81 4-6
+|Unknown/Destroyed
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|1-81 5-6
+|Unknown/Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|1-81 6-6
+|Unknown/Destroyed
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|1-81 7-6
+|Unknown/Destroyed
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|1-81 8-6
+|Unknown/Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|1-81 10-6
+|Unknown/Destroyed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|1-81 11-6
+|Unknown/Destroyed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}}) 
+|N/A
+|Unknown/Destroyed
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Unknown/Destroyed 
+|-
+| [Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
+|066
+|Destroyed
+|-
+|[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Pizza Time Clock]({{< ref "wiki/Pizza Time Clock (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}}) 
+|N/A
+|Destroyed 
+|}
+
+[https://www.showbizpizza.com/photos/spp/co_englewood/index.html Englewood as Showbiz Pizza Place]
+
+[https://www.flickr.com/photos/skessler/albums/72157604498713792 Englewood CO before the 2005 Remodel and after removal of 3-Stage]
+
+
+
+##Videos##
+{| class='wikitable'
+!Link
+!Description
+!Date Filmed
+!Date Published
+|-
+|[https://www.youtube.com/watch?v=5a9zLBR99-k Link]
+|A video showcasing the store, games, & 3-Stage in 1993.
+|Sometime in between September-November 1993
+|December 22, 2019
+|-
+|[https://www.youtube.com/watch?v=LoLq6SAIhTc Link]
+|Englewood's Alpha performing 'Chuck E.'s Middle Name' from Chuck E. Cheese's Show 2 2021 (Show 2 2021).
+|September 2022
+|September 9, 2022
+|-
+|[https://www.youtube.com/watch?v=3O18e3hGBh0 Link]
+|Englewood's Alpha performing 'Crochet All Day' from Chuck E. Cheese's Show 2 2021 (Show 2 2021).
+|September 2022
+|September 10, 2022
+|-
+|[https://www.youtube.com/watch?v=phwilcorRWU Link]
+|Englewood 2.0 Progress from start to finish
+|October 2022-January 2023
+|Feb 4, 2023
+|}
+##References##
+<references />

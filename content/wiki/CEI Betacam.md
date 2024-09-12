@@ -8,4 +8,4 @@ date = 2022-12-08T04:08:04Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+#REDIRECT [CEI Betamax]({{< ref "wiki/CEI Betamax.md" >}})

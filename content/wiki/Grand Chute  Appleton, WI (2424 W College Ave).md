@@ -8,4 +8,4 @@ date = 2024-03-26T17:32:13Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-text/x-wiki
+Go to [Appleton, WI (2424 W College Ave)]({{< ref "wiki/Appleton, WI (2424 W College Ave).md" >}})

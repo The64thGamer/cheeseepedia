@@ -1,7 +1,7 @@
 +++
 title = "Fuck You"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2024-04-27T17:37:15Z
 
 [Article]

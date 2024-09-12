@@ -1,11 +1,12 @@
 +++
 title = "Chuck AAM (Costume Outfit)"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2022-08-27T00:40:29Z
 
 [Article]
 contributors = ["Showtimeinc","Documentor"]
-gallery = []
+gallery = ["97 autograph .jpg|thumb"]
 +++
-wikitext
+
+Chuck E’s outfit he premiered with the [Awesome Adventure Machine show]({{< ref "wiki/Awesome Adventure Machine (Show).md" >}}) and [stage concept]({{< ref "wiki/Awesome Adventure Machine.md" >}}). Designed by Shelly Atkins, this outfit features a, bright colorful top, gray shorts, elbow & knee pads, and some unique black shoes.

@@ -1,7 +1,7 @@
 +++
 title = "Rock-afire 1994 Promo"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2021-12-16T17:09:35Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "King I"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2022-01-28T21:24:24Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Mentor, OH (8000 Plaza Blvd)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2024-06-13T16:48:45Z
 
 [Article]

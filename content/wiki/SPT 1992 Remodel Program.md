@@ -1,7 +1,7 @@
 +++
 title = "SPT 1992 Remodel Program"
 draft = false
-tags = []
+tags = ["CEC Phases & Remodels"]
 date = 2024-06-01T00:44:36Z
 
 [Article]

@@ -1,11 +1,49 @@
 +++
 title = "Showbiz Pizza '82 Tape"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-10-07T16:54:16Z
 
 [Article]
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-text/x-wiki
+{{Showtape
+|date=Spring 1982
+|showbizreel=y|image=82tapethumbnail.png}}
+
+**ShowBiz Pizza '82 Tape** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
+
+##Show List##
+#**Segment 1**
+##_Welcome In_
+#**Segment 2**
+##_Music Goes Round and Round_
+#**Segment 3**
+##_Gee, Our 1st Album Commercial_
+#**Segment 4**
+##_Little Sister_
+##_Dragstrip in the Sky_
+#**Segment 5**
+##_Goofy Gas Commercial_
+#**Segment 6**
+##_Goin' Crazy_
+##_My Love Intro Skit_
+##_My Love_
+#**Segment 7**
+##_Hamlet Skit_
+##_You May Be Right_
+#**Segment 8**
+##_Feelings Skit_
+### _Feelings_
+### _You Light Up My Life_
+### _I Can't Get No Satisfaction_
+#**Segment 9**
+##_Crying Skit_
+#**Segment 10**
+##_Satisfaction Medley_
+### _I Can't Get No Satisfaction_
+### _For Your Love_
+### _Born To Be Wild_
+#**Segment 11**
+##_Baseball_

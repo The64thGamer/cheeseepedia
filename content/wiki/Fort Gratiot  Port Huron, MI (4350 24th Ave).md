@@ -1,7 +1,7 @@
 +++
 title = "Fort Gratiot / Port Huron, MI (4350 24th Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-05-16T13:49:03Z
 
 [Article]

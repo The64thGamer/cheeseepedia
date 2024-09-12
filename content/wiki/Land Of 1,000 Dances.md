@@ -1,7 +1,7 @@
 +++
 title = "Land Of 1,000 Dances"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-02-26T21:11:51Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Dook Larue (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2024-08-03T17:40:17Z
 
 [Article]

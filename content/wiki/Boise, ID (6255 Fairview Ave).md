@@ -1,11 +1,106 @@
 +++
 title = "Boise, ID (6255 Fairview Ave)"
 draft = false
-tags = []
+tags = ["Store List"]
 date = 2023-05-10T12:19:22Z
 
 [Article]
 contributors = ["Rexburg090","Midwestretail"]
-gallery = []
+gallery = ["20211130120341 14701.png|thumb|Exterior before 2.0 Remodel (PC: angelplayground.com)"]
 +++
-text/x-wiki
+
+**_6255 Fairview Ave, Store #959**_ was a franchised _Showbiz Pizza Place_ that opened on July 7, 1983 with a Rock-Afire Explosion.
+
+This location received CU in around 1991, and would have the 3-Stage until they received the 2.0 remodel in August 2022.
+
+This location should not be confused with the Boise, ID (10296 W Fairview Ave) Pizza Time Theatre which opened in January 1982 & closed in February 1985 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
+
+## History ##
+Boise opened on July 7th, 1983 as the only Showbiz Pizza store in Idaho. It was originally a franchised-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. They would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification (Which made Chuck E. Cheese come back to Idaho after a 6 year hiatus), where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. On September 16th, 1996, Boise was acquired by Corporate alongside 18 other locations. The Store received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) in around 1996/1997. The store would then remodel again to the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved Showroom Walls, Balcony Seating, removing older 2000's decor for newer decor, & an exterior repaint. In August 2022, they would remodel once again to the 2.0 remodel, removing the 3-Stage for a 2021 Model Dance Floor & Video Wall and moving the Salad Bar to where the Pickup Window used to be (Moving the new pickup Window near where the Salad Bar once was. The store's Grand Reopening occurred on October 26th, 2022 during the Bootacular 2022 event<ref>https://idahonews.com/news/local/chuck-e-cheese-in-boise-to-reopen-on-wednesday</ref>. As of March 2023, they still have the 2.0 Remodel.
+##Stages##
+Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. When the store received Concept Unification, Chuck E wore a Tuxedo & Derby like all the other 3-Stages had when they converted from the RockAfire. In the Early 2000's, Chuck's Tuxedo & Derby would be replaced with the Cool Chuck outfit. In between 2006-2008, Munch's Latex Mask would be replaced with a Plastic one (Jasper's would then be replaced in 2011-2012). Chuck's Cool Chuck cap would be removed in September 2013. In around 2020-2021, Chuck's 3-Stage ears would be replaced with Cyberamic ones. In August 2022, Boise would receive the 2.0 remodel, removing the 3-Stage for a 2021 Model Dance Floor & Video Wall. As of March 2023, they still have the 2021 Model Dance Floor & Video Wall.
+{| class='wikitable'
+!Stage
+!Installed
+!Removed
+!Notes
+|-
+|[Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+|July 1983
+|Around 1991
+|Only Showbiz Pizza store to open in Idaho.
+|-
+|[3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
+|Around 1991
+|August 2022
+|Last CEC in Idaho.
+|-
+|Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
+|August 2022
+|Still In Use
+|2021 Model.
+|}
+
+## Animatronics ##
+{| class='wikitable'
+!Animatronic
+!Serial
+!Whereabouts
+|-
+|[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})
+|?-8? 1-??
+|Destroyed
+|-
+|[Pasqually / Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}})
+|?-8? 2-??
+|Destroyed
+|-
+|[Mr. Munch / Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})
+|?-8? 3-??
+|Destroyed
+|-
+|[Jasper T. Jowls / Beach Bear]({{< ref "wiki/Beach Bear (Animatronic).md" >}})
+|?-8? 4-??
+|Destroyed
+|-
+|[Helen Henny / Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}})
+|?-8? 5-??
+|Destroyed
+|-
+|[Billy Bob]({{< ref "wiki/Billy Bob (Animatronic).md" >}})
+|?-8? 6-??
+|Unknown
+|-
+|[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
+|?-8? 7-??
+|Destroyed
+|-
+|[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
+|?-8? 8-??
+|Destroyed
+|-
+|[Building / Sun]({{< ref "wiki/Sun (Animatronic).md" >}})
+|?-8? 10-??
+|Destroyed
+|-
+|[Moon]({{< ref "wiki/Moon (Animatronic).md" >}})
+|?-8? 11-??
+|Destroyed
+|-
+|[Antioch]({{< ref "wiki/Antioch (Animatronic).md" >}})
+|N/A
+|Destroyed
+|-
+|[Wink]({{< ref "wiki/Wink.md" >}})
+|N/A
+|Destroyed
+|}
+
+
+
+
+## Videos ##
+TODO
+
+## References ##
+<references />

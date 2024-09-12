@@ -1,7 +1,7 @@
 +++
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2023-07-22T23:56:54Z
 
 [Article]

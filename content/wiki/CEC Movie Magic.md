@@ -1,7 +1,7 @@
 +++
 title = "CEC Movie Magic"
 draft = false
-tags = []
+tags = ["Showtapes"]
 date = 2023-05-02T02:29:11Z
 
 [Article]
