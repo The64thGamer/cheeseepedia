@@ -18,6 +18,6 @@ Sports Plus was located in Lake Grove, NY on New Moriches Rd across from the Sou
 
 In June of 2004, Kids Town was replaced with a new indoor roller coaster ride, and The New Rock-afire Explosion show was uninstalled. The fate of the characters resided in the ride as static props along with several other, miscellaneous Halloween props. Later on, they would lose their cosmetics and be displayed as bare mechanisms. The Thriller Coaster would eventually be purchased by an unknown buyer, then later sold on a amusement ride auction site to Clifton Hill Street of Fun in Niagara Falls, NY in 2019. The coaster reopened as Frank' N Coaster in 2020 at House of Frankenstein on the Canadian side of Niagra Falls. 
 
-## Gallery ##
+
 
 ## Videos ##

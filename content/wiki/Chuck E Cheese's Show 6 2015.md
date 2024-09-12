@@ -6,7 +6,7 @@ date = 2024-02-13T00:46:04Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","YoyoandRonnie"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2015 
@@ -25,32 +25,32 @@ This was created to play from September 28, 2015 - November 1, 2015. This show f
 ## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] Fall Out Boy - 'Uma Thurman'
+##  Fall Out Boy - 'Uma Thurman'
 ## CEC Promo - 'Moms Spot'
-## [[File:New Graphic.png]] Josh & The Jamtones - 'Jump Up!' (Live at Chuck E. Cheese's)
-# [[File:New Graphic.png]] **Skit 1**
+##  Josh & The Jamtones - 'Jump Up!' (Live at Chuck E. Cheese's)
+#  **Skit 1**
 ## Chuck E. Cheese & Mr. Munch - 'Trick or Treat' (New)
 # **Intermission 2**
-## [[File:New Graphic.png]] Maddie and Tae - 'Fly'
-## [[File:New Graphic.png]] Cartoon Network - We Bare Bears - 'Breakfast' 
-## [[File:New Graphic.png]] Shawn Mendes - 'I Believe'
-## [[File:New Graphic.png]] CEC Promo - 'Chucktober'
-## [[File:New Graphic.png]] Backstreet Boys - 'Everybody'
-## [[File:New Graphic.png]] CEC Sketch - 'Counting Sheep' (New)
-## [[File:New Graphic.png]] Cartoon Network - Clarence - 'Road Trip' 
-## [[File:New Graphic.png]] Sabrina Carpenter - 'Eyes Wide Open'
-## [[File:New Graphic.png]] Josh & The Jamtones - 'Sloop John B'
+##  Maddie and Tae - 'Fly'
+##  Cartoon Network - We Bare Bears - 'Breakfast' 
+##  Shawn Mendes - 'I Believe'
+##  CEC Promo - 'Chucktober'
+##  Backstreet Boys - 'Everybody'
+##  CEC Sketch - 'Counting Sheep' (New)
+##  Cartoon Network - Clarence - 'Road Trip' 
+##  Sabrina Carpenter - 'Eyes Wide Open'
+##  Josh & The Jamtones - 'Sloop John B'
 ## CEC Promo - 'Birthday'
-## [[File:New Graphic.png]] Kidz Bop - 'Ghostbusters'
-## [[File:New Graphic.png]] Cartoon Network - Gumball Universe - 'Halloween'
-# [[File:New Graphic.png]] **Skit 2**
+##  Kidz Bop - 'Ghostbusters'
+##  Cartoon Network - Gumball Universe - 'Halloween'
+#  **Skit 2**
 ## Chuck E. Cheese and Friends - 'Costume Party' (New)
 # **Intermission 3**
-## [[File:New Graphic.png]] Josh & The Jamtones - 'Rock Steady'
-## [[File:New Graphic.png]] Cartoon Network - We Bare Bears - 'Basketball'
+##  Josh & The Jamtones - 'Rock Steady'
+##  Cartoon Network - We Bare Bears - 'Basketball'
 ## CEC Promo - 'Dads Promo'
-## [[File:New Graphic.png]] Phases - 'I'm In Love With My Life'
-## [[File:New Graphic.png]] Cartoon Network - Steven Universe - 'Steven & The Stevens'
+##  Phases - 'I'm In Love With My Life'
+##  Cartoon Network - Steven Universe - 'Steven & The Stevens'
 
 ## Lives: ##
 
@@ -68,10 +68,7 @@ This was created to play from September 28, 2015 - November 1, 2015. This show f
 *[https://www.youtube.com/watch?v=A1iT8p5XOC8 'Costume Party' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show615StdC.png|Studio C DVD
-chucktober2015cecstage.jpg|CEC-Stage DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,7 +6,7 @@ date = 2024-07-20T00:55:52Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = [":CAO citation.png",":Donovanspecialprogram.png",":November10thconfirmationcitation.png","CEC_Live_Branding_logo.png|thumb|291x291px|Chuck E. Cheese LIVE Announcement promo art."]
 +++
 {{Generic|image=Northridge opening thumbnail.png|desc=Showroom During the Event.}}
 
@@ -17,16 +17,16 @@ The event started at 4pm PST with a press event featuring David McKillips and No
 ## History ##
 
 ### Planned Reopening ###
-On October 12, 2023, CEC Entertainment would send a letter to Logan Carreiro, a kid who had previously petitioned for the company to save its animatronics and had made headlines previously in the year, for an invitation to the store's grand re-opening. He will be flown with all expenses paid to the event to be named the honorary title 'Chuck E. Cheese Chief Animatronic Officer'.<ref name=':02'>[[:File:CAO citation.png]]</ref>
+On October 12, 2023, CEC Entertainment would send a letter to Logan Carreiro, a kid who had previously petitioned for the company to save its animatronics and had made headlines previously in the year, for an invitation to the store's grand re-opening. He will be flown with all expenses paid to the event to be named the honorary title 'Chuck E. Cheese Chief Animatronic Officer'.<ref name=':02'></ref>
 
 The letter also stated that Northridge would be the 'animatronic team's new permanent home', being the first official statement given on Northridge's remodel keeping the animatronics. This would imply CEC would be using the remodel and Logan's honorary title as a PR move to combat the controversy of removing animatronics in the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).<ref name=':02' />
 
-On that same day, Donovan Marcelle, programmer for CEC Corporate, would hold a livestream programming an unknown show segment. This was despite just a month earlier confirming that all showtape programming was to cease due to budget cuts. In this, they would pin a message in the livestream chat saying 'Programming something special..... but what???!!'. This hints toward the possibility of the new programming being for the event, but has not been confirmed officially.<ref>[[:File:Donovanspecialprogram.png]]</ref>
+On that same day, Donovan Marcelle, programmer for CEC Corporate, would hold a livestream programming an unknown show segment. This was despite just a month earlier confirming that all showtape programming was to cease due to budget cuts. In this, they would pin a message in the livestream chat saying 'Programming something special..... but what???!!'. This hints toward the possibility of the new programming being for the event, but has not been confirmed officially.<ref></ref>
 
-On October 14th it would be confirmed by Logan that the grand re-opening event would be taking place on November 10th.<ref>[[:File:November10thconfirmationcitation.png]]</ref>
+On October 14th it would be confirmed by Logan that the grand re-opening event would be taking place on November 10th.<ref></ref>
 
 ### Chuck E. Cheese LIVE Announcement ###
-[[File:CEC_Live_Branding_logo.png|thumb|291x291px|Chuck E. Cheese LIVE Announcement promo art.]]
+
 On October 25th, 2023, CEC would start [https://youtu.be/p0_YhrBEabQ a livestream] and subsequent Facebook Event for a 'Chuck E. Cheese LIVE Announcement'.<ref>https://www.facebook.com/events/s/chuck-e-cheese-live-announceme/1038949547126773/</ref> Its description stated 'Chuck E. Cheese has big news to share with fans young and old.'.
 
 The livestream would start on many platforms, having the characters announce the new plans for the location to become the permanent residency for animatronic characters.  A PopVerse article would also report with more statements and pictures.<ref name=':3'>https://www.thepopverse.com/chuck-e-cheese-five-nights-at-freddys-freddy-munchs-munch-s-make-believe-band-returns</ref> The livestreams itself however had multiple issues with being muted and starting in the middle of the announcement.

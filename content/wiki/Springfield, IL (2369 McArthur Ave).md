@@ -6,7 +6,7 @@ date = 2024-07-26T14:49:06Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","Cecbird","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Tux Chuck","The 64th Gamer","Livelycheese","CECMentor","Veronancy","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","OMMEnterainment"]
-gallery = ["Springfieledilexterior1992.png|Exterior","SpringfieldPhase3.png|Springfield's","Springfield","Spring2.0.png|The"]
+gallery = []
 +++
 {{Generic|image=SpringfieldILExterior2022SeptemberGoogleMaps.png|desc=Street view of the exterior in September 2022 (PC: Google Maps)}}
 **_2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47**_ is a _Chuck E. Cheese’s_ that opened on April 22, 1982, as a corporate owned _ShowBiz Pizza Place_ with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day, with the last [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency (Legacy Location).
@@ -130,13 +130,8 @@ On July 3rd, 2024, CEC announced that the Grand Reopening would take place on th
 |June 17, 2024
 |}
 
-## Gallery ##
-<gallery>
-File:Springfieledilexterior1992.png|Exterior (1992)
-File:SpringfieldPhase3.png|Springfield's Phase 3 exterior. (PC: Unknown)
-File:Springfield cu1stage.png|Springfield, IL's CU-1 Stage pre-remodel.
-File:Spring2.0.png|The store's 2.0 remodel showing the Gameroom TVs and purple walls repainted to white. (PC: Oden Hennies/Odens Movie Magic)
-</gallery>
+
+
 ##Animatronics##
 {| class='wikitable'
 !Character

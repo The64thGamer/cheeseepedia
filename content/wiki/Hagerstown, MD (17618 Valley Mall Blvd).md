@@ -6,7 +6,7 @@ date = 2024-08-24T17:53:39Z
 
 [Article]
 contributors = ["CECswag2009","Cheeseclassic"]
-gallery = ["282AF9D8-6399-4255-BC94-07C96A28D4E0","D11311B0-B380-438D-ABE2-8AADC7264DCF.jpg|Hagerstown's"]
+gallery = []
 +++
 {{Generic|image=E92DDAD4-1F97-48B6-A24F-63B1561559F5.jpg|desc=Exterior before closure.}}
 **_Hagerstown, MD (17618 Valley Mall Blvd), Store #234**_ was a _Chuck E Cheese's_ that opened on July 28, 2005 with a Small-Town Studio C/Studio C Cappa. The Location closed on April 7, 2024 after 18 years of Operation.
@@ -55,8 +55,4 @@ Hagerstown Maryland opened on July 28, 2005 with the 2005 update to the 2003 'Co
 |Unknown, Likely Destroyed After Hagerstown's Closure
 |}
 
-## Gallery ##
-<gallery>
-File:282AF9D8-6399-4255-BC94-07C96A28D4E0 4 5005 c.jpg|Hagerstown's Studio C Cappa in May of 2021                                    (Chuck E Bot wearing Full Rockstar Outfit)
-File:D11311B0-B380-438D-ABE2-8AADC7264DCF.jpg|Hagerstown's Studio C Cappa in August 2013 (Chuck E Bot wearing Avenger Shirt and Shorts, with Red Cool Chuck Cap)
-</gallery>
+

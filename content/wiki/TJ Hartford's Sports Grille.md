@@ -6,7 +6,7 @@ date = 2023-08-18T22:16:58Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["TJLogo2001.png|2001","April","2003tjhlogobw.png|April"]
+gallery = []
 +++
 {{Generic|image=TJH 2003 Logo.png|desc=April 2003 Logo}}
 
@@ -38,11 +38,7 @@ The store would close on February 17, 2008.<ref name=':0' /> The location, its e
 * **_Jon M. Rice**_ - VP of Marketing<ref name=':0' />
 ** Also the VP of Marketing for CEC itself, both lasting till 2005.
 
-## Gallery ##
-<gallery>
-File:TJLogo2001.png|2001 Logo
-File:April 2003 wordmark tjh.png|April 2003 Wordmark
-File:2003tjhlogobw.png|April 2003 Black Logo
-</gallery>
+
+
 
 ## References ##

@@ -6,7 +6,7 @@ date = 2024-07-31T15:34:46Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","CECBowlingGreen","Emcaacme","Rexburg090","Maddox121","71.15.155.152","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ChuckfeldStan","ThatBoiCydalan","AstridMascotFan2005"]
-gallery = ["a2a34b_b8297cfb476a420484d33128d2c1d19d_mv2_d_2048_1624_s_2","image0","6896740446_25e5d1fd23_o","13241128_10154808996153448_655911988942593407_nn.jpg|Original","a2a34b_8939c29db1c2481b9d9ce8b206246738_mv2_d_2048_1636_s_2"]
+gallery = []
 +++
 {{Generic|image=Miamisburg CEC 2.0 Exterior.png|desc=Exterior, August 2023}}
 **_Miamisburg, OH (30 Prestige Place), Store #555**_ was a Showbiz Pizza Place that opened on November 25, 1981 with a Rock-Afire Explosion.
@@ -119,14 +119,8 @@ In October 2022, Miamisburg would remodel to 2.0, removing the Studio C for Danc
 |September 4th, 2022
 |October 22, 2022
 |}
-##Gallery##
-<gallery>
-File:a2a34b_b8297cfb476a420484d33128d2c1d19d_mv2_d_2048_1624_s_2 (1).jpg|Center Stage
-File:image0 (94) (1).jpg|Billy Bob and Looney Bird
-File:6896740446_25e5d1fd23_o (1).jpg|Beach Bear and Mitzi
-File:13241128_10154808996153448_655911988942593407_nn.jpg|Original Billy Bob Walkaround
-File:a2a34b_8939c29db1c2481b9d9ce8b206246738_mv2_d_2048_1636_s_2 (1) (1).jpg|Chuck E. Walkaround
-</gallery>
+
+
 
 ## Animatronics##
 {| class='wikitable'

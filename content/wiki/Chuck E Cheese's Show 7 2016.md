@@ -6,7 +6,7 @@ date = 2024-03-12T00:31:37Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","66.220.208.40","Dame868","Crazy Muzzarino"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -24,48 +24,48 @@ This was created to play from October 3rd, 2016 - October 31st, 2016. This show 
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## CEC Sketch - 'Happy Halloween'
 ## 5 Seconds of Summer - 'Girls Talk Boys'
 ## Floogals - 'Halloween'
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## Chuck E. Cheese, Whatnots - 'Speak Up Stop Bullying' (Billy & The Bully)
 # **Intermission 2**
 ## Rachel Platten - 'Fight Song'
-## [[File:New Graphic.png]] Spacepop - 'Unstoppable'
-## [[File:New Graphic.png]] Lukas Graham - 'Mama Said'
-## [[File:New Graphic.png]] Terrific Trucks - 'Clean Up'
-## [[File:New Graphic.png]] CEC Promo - 'Chucktober'
+##  Spacepop - 'Unstoppable'
+##  Lukas Graham - 'Mama Said'
+##  Terrific Trucks - 'Clean Up'
+##  CEC Promo - 'Chucktober'
 # **Skit 2**
 ## Chuck E. & Friends - 'Costume Party'
 # **Intermission 3**
-## [[File:New Graphic.png]] China Anne McClain - 'Calling All The Monsters'
+##  China Anne McClain - 'Calling All The Monsters'
 ## CEC Promo - 'Buffet'
-## [[File:New Graphic.png]] CEC Sketch - 'Counting Sheep'
-## [[File:New Graphic.png]] OneRepublic - 'Kids'
-## [[File:New Graphic.png]] CEC Promo - 'Mac Cheesy'
-## [[File:New Graphic.png]] CEC Sketch - 'Carl Clean'
+##  CEC Sketch - 'Counting Sheep'
+##  OneRepublic - 'Kids'
+##  CEC Promo - 'Mac Cheesy'
+##  CEC Sketch - 'Carl Clean'
 # **Skit 3**
 ## Chuck E. and Friends - 'Most Epic Mouse'
 # **Intermission 4**
-## [[File:New Graphic.png]] Take the Pledge Stop Bullying
-## [[File:New Graphic.png]] Galantis - 'No Money'
-## [[File:New Graphic.png]] Nina's World - 'Bully'
+##  Take the Pledge Stop Bullying
+##  Galantis - 'No Money'
+##  Nina's World - 'Bully'
 ## Chucktober TV Spot
 ## Casper BabyPants - 'Creatures Under My Bed'
-## [[File:New Graphic.png]] Chuck E. Goes to Washington D.C.
+##  Chuck E. Goes to Washington D.C.
 # **Skit 4**
 ## Chuck E. & Munch - 'Trick or Treat'
 # **Intermission 5**
-## [[File:New Graphic.png]] Fifth Harmony - 'I'm in Love with a Monster'
+##  Fifth Harmony - 'I'm in Love with a Monster'
 ## Josh & The Jamtones - 'Tailfeather (Live at CEC)'
-## [[File:New Graphic.png]] CEC Promo - 'New Cakes/Big Brothers'
+##  CEC Promo - 'New Cakes/Big Brothers'
 
 ## Lives: ##
 
-* [[File:New Graphic.png]] Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
+*  Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday Show (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]] Chuck E.'s Happy Dance (Chucktober) (3stage, Cyberamic, Studio C,Weigl)
+*  Chuck E.'s Happy Dance (Chucktober) (3stage, Cyberamic, Studio C,Weigl)
 * Chuck E.'s Happy Dance (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 * Do The Roll (3stage, Cyberamic, Studio C,Weigl)
@@ -77,9 +77,7 @@ This was created to play from October 3rd, 2016 - October 31st, 2016. This show 
 *[https://www.youtube.com/watch?v=UeatruKr0kY 'Speak Up Stop Bullying' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-show7chucktobercecstage.jpg|CEC-Stage DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 * Jasper got a brand new puppet and Pasqually got a redesigned puppet. 

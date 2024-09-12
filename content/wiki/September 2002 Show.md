@@ -6,7 +6,7 @@ date = 2023-07-20T03:18:35Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = September 2002 Show
@@ -23,37 +23,37 @@ This show featured 4 segments with 8 songs.
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Segment 1** 
+#  **Segment 1** 
 ## [https://en.wikipedia.org/wiki/That%27s_the_Way_(I_Like_It) 'That's The Way (I Like It)']
 ## 'Chase After Your Dreams'
 #**Intermission 1**
 ## CEC TV ID - 'Dancing Food'
-##  [[File:New Graphic.png]]  Pizza Survivor
-##  [[File:New Graphic.png]]  Countdown
+##    Pizza Survivor
+##    Countdown
 ## CEC TV ID - 'Singing Animals'
-# [[File:New Graphic.png]] **Segment 2**
+#  **Segment 2**
 ## [https://en.wikipedia.org/wiki/Living_in_America_(James_Brown_song) 'Living In America']
 ## 'Try It Again'
 # **Intermission 2**
 ##CEC TV ID - 'Blender'
-## [[File:New Graphic.png]] The Tube Explorer - 'Tickets & Prizes'
-## [[File:New Graphic.png]] Countdown
+##  The Tube Explorer - 'Tickets & Prizes'
+##  Countdown
 ## CEC TV ID - 'Janitor'
-# [[File:New Graphic.png]] **Segment 3** 
+#  **Segment 3** 
 ##  [https://en.wikipedia.org/wiki/Shining_Star_(Earth,_Wind_%26_Fire_song) 'Shining Star']
 ## 'Roll The Pizza Dough' (parody of [https://en.wikipedia.org/wiki/Good_Times_Roll 'Good Times Roll'])
 # **Intermission 3**
 ## CEC TV ID - 'Dancing Food'
-##  [[File:New Graphic.png]] Eddie Coker - 'Keep Shining'
-##  [[File:New Graphic.png]] Countdown
+##   Eddie Coker - 'Keep Shining'
+##   Countdown
 ## CEC TV ID - 'Haircut'
-# [[File:New Graphic.png]] **Segment 4** 
+#  **Segment 4** 
 ## [https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song) 'Shout']
 ## [https://en.wikipedia.org/wiki/ABC_(The_Jackson_5_song) 'ABC']
 # **Intermission 4**
 ##CEC TV ID - 'Blender'
-## [[File:New Graphic.png]] Monkey Ninjas - Episode 3
-## [[File:New Graphic.png]]  Countdown (Studio C only)
+##  Monkey Ninjas - Episode 3
+##   Countdown (Studio C only)
 ## CEC TV ID - 'Stars'
 
 ## Lives: ##
@@ -71,17 +71,12 @@ This show featured 4 segments with 8 songs.
 * Chuck E. Says
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
-*[[File:New Graphic.png]] Locomotion
+* Locomotion
 
 **Birthday Break**: September 2002 Show logo with music set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
 ##Showtape Scans / Images:##
-<gallery>
-sdfdfdsfsfd.jpg|Studio C DVD
-2021-08-09_173143.jpg|Studio C Floppy Scan
-t sept 2002.png|3-Stage SVHS Front Label
-sept2002.jpg|3-Stage SVHS Top Label
-</gallery>
+
 
 ## Production ##
 #### Filming Locations: ####

@@ -32,6 +32,3 @@ The **_Celebration Birthday Tape**_ is a Rock-afire Explosion showtape made for 
 #**Birthday 8**
 ##_Birthday Bop_
 ##Showtape Scans / Images##
-<gallery>
-received_1011172793083162.jpeg|Reel Label
-</gallery>

@@ -6,7 +6,7 @@ date = 2023-12-22T22:29:28Z
 
 [Article]
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]
-gallery = ["streamwoodside.jpg|Side","streamwoodgames.jpg|Streamwood's"]
+gallery = []
 +++
 {{Generic|desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg}}
 **_Streamwood, IL (990 S Barrington Rd), Store #59**_ was a _Chuck E. Cheese's_ that opened on March 6th, 1990 originally as a _ShowBiz Pizza_<ref>https://youtu.be/7PC9qMDTWTM?si=7XJl9IRikeI68SZnand</ref> with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed in June 2014 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This location was located right across from the Westview Shopping Center.
@@ -116,12 +116,9 @@ When this store opened in 1990, they had a Chuck E.'s House stage, this was late
 |June 2014
 |One of five 2-Stages installed in Illinois. Fiber Optic Sign owned by a Private Collector.
 |}
-##Gallery##
+
 [http://showbizpizza.com/photos/cec/il_streamwood/index.html 2002]
-<gallery>
-File:streamwoodside.jpg|Side of Streamwood exterior.
-File:streamwoodgames.jpg|Streamwood's gameroom.
-</gallery>
+
 
 ##Videos##
 TODO

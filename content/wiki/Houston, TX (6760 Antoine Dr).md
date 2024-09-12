@@ -6,7 +6,7 @@ date = 2024-09-07T15:26:54Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","Midwestretail","Pizzaman49","SuperCreamPiper2008","ItzaRob","Saan1ty","ShowbizMidwest","CEC1988"]
-gallery = ["Stage","Stage","Another","Stage","Antoine","Antoine","AntoineHoustonCECExteriorAsJumpNFiesta.jpg|The","AntoineHoustonCECFormerShowroom.png|Former","Ac.png|After","Mannaantoine.jpg|Manna"]
+gallery = []
 +++
 {{Generic|desc=The store's exterior before closure. (January 18, 2006)|image=Antoine 011806.jpg}}
 **_Houston, TX (6760 Antoine Dr), Store #734**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a ShowBiz Pizza Place location that opened on July 15, 1981 with a Rock Afire Explosion and closed in September 2006 (day unknown) with a 3-Stage.
@@ -43,19 +43,8 @@ This space of the former CEC would eventually end up being split up into smaller
 * Chuck E. Cheese's Kooky Konga
 * [Chuck E. Cheese Roll]({{< ref "wiki/Chuck E Cheese Roll.md" >}}) (6 units)
 
-## Gallery ##
-<gallery>
-File:Stage Left of Houston, TX (Antoine) in 2006..jpg|alt=Stage Left Houston, TX (Antoine)|Left of the store's stage post-closure.
-File:Stage Center of Houston, TX (Antoine) in 2006.jpg|alt=Stage Center Houston, TX (Antoine)|Center of the store's stage post-closure.
-File:Another photo of Stage Center in Houston (Antoine).jpg|Another photo of the center stage post-closure.
-File:Stage Right of Houston, TX (Antoine) in 2006.jpg|alt=Stage Right Houston, TX (Antoine)|Right of the store's stage post-closure.
-File:Antoine cec 09.jpg|Right side of the showroom.
-File:Antoine cec 10.jpg|Left side of the showroom.
-File:AntoineHoustonCECExteriorAsJumpNFiesta.jpg|The store's exterior as Jump N' Fiesta (2008)
-File:AntoineHoustonCECFormerShowroom.png|Former showroom area (September 28, 2011)
-File:Ac.png|After closure 2015 Pc: Google Maps
-File:Mannaantoine.jpg|Manna Resale Store, which is one of the businesses that took over the Chuck E. Cheese's space.
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

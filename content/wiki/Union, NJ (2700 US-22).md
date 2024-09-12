@@ -6,7 +6,7 @@ date = 2024-07-30T13:43:35Z
 
 [Article]
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
-gallery = ["Unionnew.png|The","Unj4.jpg|Exterior","Unj7.jpg|Exterior","Unj2.jpg|Interior","Unj1.jpg|Interior","Unj3.jpg|Interior","Unj6.jpg|Exterior","Unj5.jpg|Newly","Unj98.png|Dance","1684328940441.jpg|May","1684328947784.jpg|May","1684328950872.jpg|May","1684328946058.jpg|May","1684328880006.jpg|May","1684328781251.jpg|May"]
+gallery = []
 +++
 {{Generic|image=Unj99.png|desc=The location's exterior during its soft opening (May 15, 2023)}}
 **_Union, NJ (2700 US-22), Store #542**_ is _Chuck E. Cheese_ that opened on May 15th, 2023 with a 2019 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
@@ -119,24 +119,8 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 |May 2024
 |}
 
-##Gallery##
-[https://www.instagram.com/dr.ezofcec/ Spring 2023 Photos' Source]<gallery>
-File:Unionnew.png|The location before construction began
-File:Unj4.jpg|Exterior during construction (March 16, 2023)
-File:Unj7.jpg|Exterior under construction (2023)
-File:Unj2.jpg|Interior during construction (March 16, 2023)
-File:Unj1.jpg|Interior during construction (March 16, 2023)
-File:Unj3.jpg|Interior during construction (March 16, 2023)
-File:Unj6.jpg|Exterior during construction (April 8, 2023)
-File:Unj5.jpg|Newly installed signage (April 8, 2023)
-File:Unj98.png|Dance Floor during the soft opening (May 15, 2023)
-File:1684328940441.jpg|May 15, 2023
-File:1684328947784.jpg|May 15, 2023
-File:1684328950872.jpg|May 15, 2023
-File:1684328946058.jpg|May 15, 2023
-File:1684328880006.jpg|May 15, 2023
-File:1684328781251.jpg|May 15, 2023
-</gallery>
+
+[https://www.instagram.com/dr.ezofcec/ Spring 2023 Photos' Source]
 
 ## Walkarounds ##
 {| class='wikitable'

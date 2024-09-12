@@ -6,7 +6,7 @@ date = 2024-08-01T14:28:20Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","Fartsmeller","Cheeseclassic","AstridMascotFan2005"]
-gallery = ["2016.png"]
+gallery = []
 +++
 {{Generic|image=West Palm Beach in April 2022..jpg|desc=West Palm Beach in April 2022. (PC: Google Maps)}}
 **_2471 Okeechobee Blvd, Store #777**_ was a Chuck E. Cheese's that opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
@@ -52,7 +52,4 @@ Originally when the store opened, they had a Circles of Light, 32M, the bot came
 |Unknown/Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:2016.png
-</gallery>
+

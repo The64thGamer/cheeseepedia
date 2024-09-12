@@ -71,7 +71,7 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage
 |Owned by a Private Collector.
 |}
 
-## Gallery ##
+
 TODO
 
 ## Videos ##

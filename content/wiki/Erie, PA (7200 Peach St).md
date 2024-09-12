@@ -6,7 +6,7 @@ date = 2024-07-29T21:42:57Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Chez","CoolerDude","UltimatelyFun","AstridMascotFan2005"]
-gallery = ["EriePhotoRide.png|Erie's"]
+gallery = []
 +++
 **_7200 Peach St, Store #536**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ that opened in July 1992 which is still open to this day. This location is located in the Summit Towne Center. 
 ##History##
@@ -69,10 +69,7 @@ Last 2-Stage in Pennsylvania.
 |Still in Use.
 |
 |}
-##Gallery##
-<gallery>
-File:EriePhotoRide.png|Erie's Unique Photo Ride Car in August 2007 with the 2-Stage in the background showing the Tux outfit on Chuck. (PC: Micheal A. Orlando)
-</gallery><gallery>
-</gallery>
+
+
 ##Videos##
 N/A

@@ -20,5 +20,5 @@ TODO: History
 ## Design ##
 TODO: Design
 
-## Gallery ##
+
 TODO: Gallery

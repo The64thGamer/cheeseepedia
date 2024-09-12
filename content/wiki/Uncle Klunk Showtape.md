@@ -36,6 +36,3 @@ The **_Uncle Klunk Showtape**_ is a Rock-afire Explosion showtape released in Sh
 ##Roast Beef Sandwich
 
 ##Showtape Scans / Images##
-<gallery>
-Klunk Submaster.jpg|Reel Case Side
-</gallery>

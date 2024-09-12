@@ -89,7 +89,7 @@ Montgomery would have the 3-Stage until August 2013 when the stage would be remo
 |N/A
 |Unknown/Destroyed.
 |}
-##Gallery##
+
 (W.I.P)
 ##Videos##
 {| class='wikitable'

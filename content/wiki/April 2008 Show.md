@@ -6,7 +6,7 @@ date = 2024-07-30T13:11:44Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Bowling for Cheese","BurgersNuggs445","71.244.213.235","172.58.159.105","AstridMascotFan2005"]
-gallery = ["April","T&P"]
+gallery = []
 +++
 {{Showtape
 |title = Chuck E. Cheese April 2008
@@ -21,10 +21,7 @@ gallery = ["April","T&P"]
 ## Production ##
 In Segment 1 'Calling The World' the Chuck E. Cheese one of locations featured in the music video is the Atlanta, Georgia Cumberland Blvd location.
 
-In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P hill in Dallas.<gallery>
-File:April 2008 BTS.jpg|Into Action
-File:T&P Hill.png|When I Think of You ft. T&P Hill
-</gallery>
+In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P hill in Dallas.
 
 ### File Dates ###
 * (Studio C) DVD: 2/14/2008
@@ -82,7 +79,3 @@ File:T&P Hill.png|When I Think of You ft. T&P Hill
 # Chuck E. Shuffle 2006
 # Chuck E. Swing
 ##Showtape Scans / Images:##
-<gallery>
-s-l1600 (41).jpg|Studio C DVD
-April08cecstage.jpg|CEC-Stage DVD
-</gallery>

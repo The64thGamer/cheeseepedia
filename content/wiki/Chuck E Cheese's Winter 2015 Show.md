@@ -6,7 +6,7 @@ date = 2024-09-02T01:02:47Z
 
 [Article]
 contributors = ["Documentor","Himitsu","John95"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Winter 2015 Show
@@ -24,41 +24,41 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 
 ##Show List:##
 
-#[[File:New Graphic.png]]**Skit 1** 
+#**Skit 1** 
 ##Music Video - 'Fun For All' (Chuck E.)
 #**Intermission 1** 
-##[[File:New Graphic.png]]Act 1 - 'Wolf in Sheep's Clothing'
-##[[File:New Graphic.png]]Josh and the Jamtones - 'John Jacob'
+##Act 1 - 'Wolf in Sheep's Clothing'
+##Josh and the Jamtones - 'John Jacob'
 ##Sketch - Hard Hat Hank - 'Box'
-##[[File:New Graphic.png]]Act 2 - 'Where Are They Now?'
-#[[File:New Graphic.png]]**Skit 2** 
+##Act 2 - 'Where Are They Now?'
+#**Skit 2** 
 ##Music Video - 'Chasin' Me a Truck' (Jasper)
 #**Intermission 2** 
-##[[File:New Graphic.png]]Josh and the Jamtones - 'Bear Hunt Lodge'
+##Josh and the Jamtones - 'Bear Hunt Lodge'
 ##CEC Social Media Promo
 ##Show Break - 'Driving Time Lapse'
-##[[File:New Graphic.png]]Act 3 - 'We Gotta Get The Band Back Together'
-#[[File:New Graphic.png]]**Skit 3** 
+##Act 3 - 'We Gotta Get The Band Back Together'
+#**Skit 3** 
 ##Music Video - 'Dancin' Kitten' (Chuck E.)
-#[[File:New Graphic.png]]**Intermission 3** 
+#**Intermission 3** 
 ##CEC Live Promo
 ##Josh and the Jamtones - 'Iko Iko'
 ##Act 4 Part 1 - 'Battle of the Bands'
-#[[File:New Graphic.png]]**Skit 4** 
+#**Skit 4** 
 ##Music Video - 'Party With You' (Helen)
 #**Intermission 4** 
-##[[File:New Graphic.png]]Act 4 Part 2 - 'The End'
-##[[File:New Graphic.png]]Josh and the Jamtones - 'Jump Up!'
-##[[File:New Graphic.png]]Sketch - Jokes From Pasqually - 'Bananas'
+##Act 4 Part 2 - 'The End'
+##Josh and the Jamtones - 'Jump Up!'
+##Sketch - Jokes From Pasqually - 'Bananas'
 ##CEC Hash Tag Promo
 ##Show Break - 'City Time Lapse'
-##[[File:New Graphic.png]]Josh and the Jamtones - 'Lighting Lake'
+##Josh and the Jamtones - 'Lighting Lake'
 
 ##Live Shows:##
 
-*[[File:New Graphic.png]]Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
+*Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-*[[File:New Graphic.png]]Do The Chuck E. 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
+*Do The Chuck E. 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
 *Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
 *Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
 *The Chuck E. (Do The Roll) (3stage, Cyberamic, Studio C,Weigl)
@@ -66,10 +66,7 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Win15StdC.png|Studio C DVD 
-winter15cecstage.jpg|CEC-Stage DVD Scan
-</gallery>
+
 
 ##Official Releases##
 

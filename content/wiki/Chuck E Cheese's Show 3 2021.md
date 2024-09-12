@@ -6,7 +6,7 @@ date = 2023-07-03T03:13:08Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Himitsu","Dame868","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 3 2021
@@ -26,11 +26,11 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 
 # **Intermission 1**
 ## Social Distancing Safety Message
-## [[File:New Graphic.png]] Summer of Fun Bumper feat. Chuck E. & Jasper
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Uptown Funk'
-# [[File:New Graphic.png]] **Skit 1**
+##  Summer of Fun Bumper feat. Chuck E. & Jasper
+##  KIDZ BOP Kids - 'Uptown Funk'
+#  **Skit 1**
 ## Chuck E. & Friends - 'Song of Summer'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Marshmello - 'Summer'
 ## Ants Ants Ants - 'Blue'
 ## Summer Fun Pass Promo
@@ -38,31 +38,31 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 ## Chuck E. & Friends - “Out of This World”
 # **Intermission 3**
 ## Social Distancing Safety Message
-## [[File:New Graphic.png]] Danny Weinkauf - 'Ice Cream'
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'I Love It'
-# [[File:New Graphic.png]] **Skit 3**
+##  Danny Weinkauf - 'Ice Cream'
+##  KIDZ BOP Kids - 'I Love It'
+#  **Skit 3**
 ## Jasper T. Jowls - 'Dog Days of Summer'
 # **Intermission 4**
-## [[File:New Graphic.png]]Summer of Fun Bumper Feat. Chuck E. & Helen
-## [[File:New Graphic.png]] Milo Manheim - 'We Own the summer'
+## Summer of Fun Bumper Feat. Chuck E. & Helen
+##  Milo Manheim - 'We Own the summer'
 ## Tails of Friendship with Jasper T. Jowls Episode 3 - 'Ronnie the Unicorn'
 # **Skit 4**
 ## Chuck E. Cheese - 'Chuck E. Cheese is All About Fun!'
 # **Intermission 5**
 ## The Whizpops - 'Sea Turtle'
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Cake by The Ocean'
-# [[File:New Graphic.png]] **Skit 5**
+##  KIDZ BOP Kids - 'Cake by The Ocean'
+#  **Skit 5**
 ## Chuck E. & Helen 'I Dare You Not to Laugh' 
-# [[File:New Graphic.png]] **Intermission 6**
+#  **Intermission 6**
 ## AREA21 - 'La La La'
 ## Summer Jokes from Pasqually
 ## Summer Fun Pass Promo
 # **Skit 6**
 ## Jasper & Munch - 'Song Title'
-# [[File:New Graphic.png]] **Intermission 7**
+#  **Intermission 7**
 ## Summer of Fun Bumper Feat. Munch & Chuck E.
 ## Cody the Dinosaur - 'Cody Goes to the Beach'
-# [[File:New Graphic.png]]**Skit 7**
+# **Skit 7**
 ## Chuck E. Cheese - 'Let's Be Friends
 
 ## Live Shows: ##
@@ -70,7 +70,7 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 # Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 # Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
-# [[File:New Graphic.png]] Chuck E.'s Beach Party Bash (3stage, Cyberamic, Studio C,Weigl)
+#  Chuck E.'s Beach Party Bash (3stage, Cyberamic, Studio C,Weigl)
 
 ## Official Releases: ##
 [https://www.youtube.com/watch?v=T0I3FUyftB0&t 'Chuck E.'s Beach Party Bash' on YouTube]
@@ -88,9 +88,3 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 * During the '[Chuck E. Cheese Summer of Fun Concert Tour]({{< ref "wiki/CEC Summer of Fun Concert (Event).md" >}})' CEC made a duet version of [https://www.youtube.com/watch?v=bTIpWzNSQpk 'Dog Days of Summer'] between Jasper and Helen.
 
 ## Showtape Scans / Images: ##
-<gallery>
-Show321Install.png|Studio C Install CD
-BusinessCard 2021-09-20 170706.jpg|Studio C Floppy Scan
-BBDA8042-098E-4CC4-BEB7-235160B47AB7.png|Studio C DVDs
-ewdcvfvrbtgergergerererf.jpg|Studio C DVD
-</gallery>

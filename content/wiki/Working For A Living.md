@@ -6,7 +6,7 @@ date = 2023-05-05T04:14:05Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Sept92.png
@@ -23,23 +23,23 @@ gallery = []
 ##'Birthday Star'
 ##'Be A Sport'
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 1**
+# **Segment 1**
 ##'The Mailman'
 ##'I've Been Working On The Railroad'
 #**Intermission 2**
-##[[File:New Graphic.png]] CEC TV News - 'Strike'
-##[[File:New Graphic.png]] VJ Spot
+## CEC TV News - 'Strike'
+## VJ Spot
 ##5 Minute Countdown
 ##'Birthday Star'
 ##'Dancing On The Moon'
 ##2 Minute Countdown
 ##Geography Rap - 'Australia'
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 2**
+# **Segment 2**
 ##'Working For A Living'
 ##'Nine-to-Five'
 #**Intermission 3**
-##[[File:New Graphic.png]] VJ Spot
+## VJ Spot
 ##'Possibilites'
 ##'Country Dancin_
 ##4 Minute Countdown
@@ -47,46 +47,46 @@ gallery = []
 ##'Tech-no-Rific'
 ##1 Minute Countdown
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 3**
+# **Segment 3**
 ##'These Hands'
 ##'All My Fuzzy Friends Are Coming Over Tonight' (parody of '[https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight All My Rowdy Friends Are Coming Over Tonight]')
 #**Intermission 4**
 ##Helen Henny's Hollywood - 'Lassie'
-##[[File:New Graphic.png]] VJ Spot
+## VJ Spot
 ##'Rock It Up'
 ##'Birthday Star'
-##[[File:New Graphic.png]] 'What-do-you-want-to Bee'
+## 'What-do-you-want-to Bee'
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 1**
+# **Segment 1**
 ##'The Mailman'
 ##'I've Been Working On The Railroad'
 #**Intermission 5**
-##[[File:New Graphic.png]] VJ Spot
+## VJ Spot
 ##'Old MacDonald'
 ##6 Minute Countdown
 ##'Birthday Star'
 ##'Responsibility'
 ##3 Minute Countdown
-##[[File:New Graphic.png]] VJ Spot
+## VJ Spot
 ##'Alphabetical'
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 2**
+# **Segment 2**
 ##'Working For A Living'
 ##'Nine-to-Five'
 #**Intermission 6**
 ##'Rockin' State'
-##[[File:New Graphic.png]] Geography Rap - 'Mexico'
-##[[File:New Graphic.png]] VJ Spot
+## Geography Rap - 'Mexico'
+## VJ Spot
 ##4 Minute Countdown
 ##'Birthday Star'
 ##'Twinkle, Twinkle'
 ##1 Minute Countdown
 ##CEC TV Classic ID
-#[[File:New Graphic.png]] **Segment 3**
+# **Segment 3**
 ##'These Hands'
 ##'All My Fuzzy Friends Are Coming Over Tonight' (parody of '[https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight All My Rowdy Friends Are Coming Over Tonight]')
 #**Intermission 7**
-##[[File:New Graphic.png]] VJ Spot
+## VJ Spot
 
 ##Trivia:##
 *Most of the intermissions in this show were reused.

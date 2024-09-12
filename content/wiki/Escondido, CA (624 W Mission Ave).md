@@ -6,7 +6,7 @@ date = 2023-12-23T02:35:35Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
-gallery = ["EscondidoCECOldLocationAsShowbizPizzaPlace.jpg|Exterior"]
+gallery = []
 +++
 {{Generic|image=EscondidoCAOldLocationExteriorBeforeClosure.jpg|desc=Exterior taken shortly before closure (2005). PC: LoopNet}}
 **_624 West Mission Avenue, Store #44**_ was a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on August 1st, 1983 as a franchise store with a Rock-Afire Explosion and closed in March 2006 with a 3-Stage.
@@ -96,8 +96,6 @@ Originally when the store opened, they had a Rock-Afire Explosion. In around 199
 |N/A
 |Destroyed
 |}
-##Gallery##
-<gallery>
-File:EscondidoCECOldLocationAsShowbizPizzaPlace.jpg|Exterior as a Showbiz Pizza on it's grand opening (August 1983)
-</gallery>
+
+
 ##References##

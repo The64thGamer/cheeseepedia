@@ -122,8 +122,7 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 |Destroyed.
 |}
 
-<gallery>
-</gallery>
+
 ##Videos##
 {| class='wikitable'
 !Link

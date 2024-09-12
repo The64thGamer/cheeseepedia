@@ -96,7 +96,7 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 |1981/1982
 |Unknown.
 |}
-##Gallery##
+
 [https://www.showbizpizza.com/photos/cec/ca_bell/index.html 2007]
 
 ##Videos##

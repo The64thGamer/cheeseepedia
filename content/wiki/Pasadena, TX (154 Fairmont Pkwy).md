@@ -6,7 +6,7 @@ date = 2024-05-18T21:59:31Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf12349","ShowbizMidwest"]
-gallery = ["Pasadena,"]
+gallery = []
 +++
 {{Stub}}{{Generic|desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg}}
 **_Pasadena, TX (154 Fairmont Pkwy) Store #691**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a Showbiz Pizza Place that opened on June 9, 1982 with a Rock-afire Explosion and closed as a Chuck E. Cheese's in February 2007 (day unknown) with a 3-Stage.
@@ -53,10 +53,8 @@ Pasadena received Concept Unification in 1991 which involved the removal of the 
 |December 16, 2017
 |Early 1992
 |}
-##Gallery##
-<gallery>
-File:Pasadena, TX's exterior after they closed (PC- Google Maps - taken November 2007).png|thumb|This is Pasadena's exterior after they relocated.
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

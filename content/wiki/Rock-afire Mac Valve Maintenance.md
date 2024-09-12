@@ -6,9 +6,9 @@ date = 2023-04-10T01:39:00Z
 
 [Article]
 contributors = ["Showbizpizzawiki","2601:5C8:C201:7480:34B3:9875:4579:D72A"]
-gallery = []
+gallery = ["MAC valve MANUAL .png|thumb"]
 +++
-[[File:MAC valve MANUAL .png|thumb]]
+
 An official procedure for MAC valve rebuilding is documented in the ShowBiz Pizza Place Operations Manual from 1981.
 
 #Remove snap ring or spiral ring from top of spool

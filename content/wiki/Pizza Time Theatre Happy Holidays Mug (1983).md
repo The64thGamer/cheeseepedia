@@ -6,7 +6,7 @@ date = 2023-03-31T20:45:26Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["c23r4f4ct4c34c4rc4r.jpg","c2r4c24r2crc23rcr54r4c.jpg"]
+gallery = []
 +++
 {{Stub}}
 {{Generic|image=5gq345g34t345t35yh4h5645h5y.jpg|desc=Mug Front}}
@@ -19,8 +19,4 @@ The cup is a 3 inch tall glass mug with a metal plaque glued on the front. This 
 
 © 1983 PIZZA TIME THEATRE, INC.</blockquote>
 
-##Gallery##
-<gallery>
-File:c23r4f4ct4c34c4rc4r.jpg
-File:c2r4c24r2crc23rcr54r4c.jpg
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2022-10-01T21:02:43Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 2 2017
@@ -24,31 +24,31 @@ This was created to play from February 27th 2017. - April 9th, 2017. This show f
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## Happy Birthday Munch!
 # **Intermission 1**
-## [[File:New Graphic.png]] Imagine Dragons - 'On Top of the World'
-## [[File:New Graphic.png]] Ruff Ruff Tweet & Dave - 'Magic Show'
+##  Imagine Dragons - 'On Top of the World'
+##  Ruff Ruff Tweet & Dave - 'Magic Show'
 ## CEC Promo - 'Carl Clean'
-# [[File:New Graphic.png]] **Skit 2**
+#  **Skit 2**
 ## Munch & Chuck E. - 'Purple Planet Point of View'
 # **Intermission 2**
-## [[File:New Graphic.png]] Train - 'Play That Song'
-## [[File:New Graphic.png]] Strawberry Shortcake
+##  Train - 'Play That Song'
+##  Strawberry Shortcake
 ## Fun Facts With Chuck E. - 'Favorite Song'
-## [[File:New Graphic.png]] Olivia Holt - 'Phoenix'
-## [[File:New Graphic.png]] CEC Promo - 'Ticket Dance'
+##  Olivia Holt - 'Phoenix'
+##  CEC Promo - 'Ticket Dance'
 # **Skit 3**
 ## Chuck E. & Friends - 'Rainy Day'
 # **Intermission 3**
-## [[File:New Graphic.png]] Marshmello - 'Summer'
+##  Marshmello - 'Summer'
 ## CEC Promo - 'Buffet'
-## [[File:New Graphic.png]] Thomas Rhett - 'Star of the Show'
-## [[File:New Graphic.png]] CEC Birthday TV Spot - 'Fishing'
-## [[File:New Graphic.png]] Secret Agent 23 Skidoo - 'Secret Superhero'
+##  Thomas Rhett - 'Star of the Show'
+##  CEC Birthday TV Spot - 'Fishing'
+##  Secret Agent 23 Skidoo - 'Secret Superhero'
 # **Skit 4**
 ## Chuck E. & Pasqually - 'Keep Drummin_
-# [[File:New Graphic.png]] **Intermission 4**
+#  **Intermission 4**
 ## Flor - 'Hold On'
 ## Caspar Babypants - 'Jellyfish Jones'
 ## CEC Sketch - 'Pizza Plant'
@@ -57,7 +57,7 @@ This was created to play from February 27th 2017. - April 9th, 2017. This show f
 # **Skit 5**
 ## Chuck E. & Friends - 'All For Fun, Fun For All'
 # **Intermission 5**
-## [[File:New Graphic.png]] CEC Promo - 'New Cakes'
+##  CEC Promo - 'New Cakes'
 ## Sigala - 'Easy Love'
 
 ## Lives: ##
@@ -77,11 +77,7 @@ This was created to play from February 27th 2017. - April 9th, 2017. This show f
 *[https://www.youtube.com/watch?v=WQePwcGx65U 'Planet Purple Point of View' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show217Floppy.png|Studio C Floppy
-Show217StdC.png|Studio C DVD
-s-l1600 (14).jpg|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

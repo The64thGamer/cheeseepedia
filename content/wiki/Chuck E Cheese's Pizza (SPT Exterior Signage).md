@@ -6,7 +6,7 @@ date = 2024-06-27T19:52:16Z
 
 [Article]
 contributors = ["CECMadison"]
-gallery = ["Preston1990s.jpg|Signage"]
+gallery = []
 +++
 {{Art|image=Chucke-cheeses-pizza.svg|releasedate=1987 (marketing)
 Janurary 12th, 1990 (signage)|finalrelease=1995|color=Green, Red, Yellow}}
@@ -20,7 +20,4 @@ There would be a few variants of this signage used throughout its lifespan.
 
 The signage would be seen accompanied by two smaller signs next to the main sign which read 'Family' and 'Fun' at the Louisville, KY location.  There were also many unique variants used at some locations during its lifespan.
 
-## Gallery ##
-<gallery>
-File:Preston1990s.jpg|Signage accompanied by the Family & Fun caption.
-</gallery>
+

@@ -114,11 +114,7 @@ gallery = []
 * Happy & U Know It
 
 ##Showtape Scans / Images:##
-<gallery>
-wewerwer.jpg|Studio C DVD
-Holiday10dvd3.png|Studio C DVD 3
-Holiday103stg.jpg|3-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 * All segments in this show are originally from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}})

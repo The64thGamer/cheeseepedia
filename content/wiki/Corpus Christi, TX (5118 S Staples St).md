@@ -6,9 +6,9 @@ date = 2024-06-18T19:53:46Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","Parum33","173.216.33.6","CEC Tinley","SuperCreamPiper2008","Gostapua210"]
-gallery = ["CorpusChristi.jpg|The","CorpusChristiExteriorJuly2015.jpg|thumb|The","Corpus","Corpus2.0Construction.jpeg|thumb|Side"]
+gallery = ["Corpus Christi 2.0 Exterior (2022-12-03).jpg|thumb|A photo of the store's 2.0 Exterior on December 3rd, 2022 (PC: Myron Nielson)"]
 +++
-[[File:Corpus Christi 2.0 Exterior (2022-12-03).jpg|thumb|A photo of the store's 2.0 Exterior on December 3rd, 2022 (PC: Myron Nielson)]]
+
 **_5118 S Staples St, Store #454**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in April 1983 (day unknown) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in an unnamed shopping center. It is also known as the childhood location of Matt the Franchize since he grew up with this location from its beginnings.
 ##History##
 Corpus Christi opened its doors in April 1983 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy and was bought on October 22, 1984, along with many other locations by the corporate. Like all locations at some point, it remodeled twice in the 1990s to be up to standard.
@@ -85,14 +85,9 @@ In 2003 the 2-Stage was replaced with the Studio C concept. This store received 
 |Destroyed
 |}
 
-##Gallery##
+
 [https://www.showbizpizza.com/photos/ptt/tx_corpus/index.html 1980's-1996] [https://www.showbizpizza.com/photos/cec/tx_corpus/index.html 2002-2007]
-<gallery>
-File:CorpusChristi.jpg|The store's Balcony Stage
-File:CorpusChristiExteriorJuly2015.jpg|thumb|The store's Exterior in July 2015 (PC: texaswillie on Tripadvisor)
-File:Corpus Christi 2015 Exterior At Night (2021-08-04).jpg|thumb|The store's 2015 Remodel Exterior At Night a year before the 2.0 remodel started (2021-08-04) (PC: Mory Zero on Google Maps)
-File:Corpus2.0Construction.jpeg|thumb|Side exterior during 2.0 remodel (2022-09-28) (PC: Parum33)
-</gallery>
+
 
 ##Videos##
 TODO

@@ -6,9 +6,9 @@ date = 2024-08-07T00:41:36Z
 
 [Article]
 contributors = ["Aubreemasterson"]
-gallery = []
+gallery = ["Aubree and Helen.jpg|thumb|Me and Avenger Cheerleader Helen Henny during a grand reopening event of the [[Altoona, PA (3415 Pleasant Valley Blvd)|Altoona, PA"]
 +++
-[[File:Aubree and Helen.jpg|thumb|Me and Avenger Cheerleader Helen Henny during a grand reopening event of the [Altoona, PA]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) location on August 6, 2024.]]
+ location on August 6, 2024.]]
 Hey everybody, my name is Aubree, and I am a girl with autism and ADHD who has a good obsession with Chuck E. Cheese. My local location is the [Altoona, PA]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) location, so I go there for any updates and fun. I'm planning to go to more locations in the future.
 
 ## Fun facts ##

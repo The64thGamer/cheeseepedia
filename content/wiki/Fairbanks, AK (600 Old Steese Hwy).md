@@ -6,9 +6,9 @@ date = 2023-07-13T19:15:51Z
 
 [Article]
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer","216.125.34.66","Rexburg090","CorrectorMan"]
-gallery = []
+gallery = ["Fairbanks 2009.jpg|thumb|Fairbank's exterior after 2009. (PC: Google Maps)"]
 +++
-[[File:Fairbanks 2009.jpg|thumb|Fairbank's exterior after 2009. (PC: Google Maps)]]
+
 **_600 Old Steese Highway**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in January 1986 (day unknown) and closed in 1988 (month and day unknown) with a Balcony Stage. Not much is known about this location, other than 3 videos, and it being the final location to have a Balcony Stage installed.
 
 ## Stages ##

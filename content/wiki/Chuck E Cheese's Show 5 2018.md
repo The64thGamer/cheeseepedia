@@ -6,7 +6,7 @@ date = 2022-09-26T01:14:03Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2018
@@ -27,12 +27,12 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 (CEC Stage) DVD: 07/24/18 2:44am - 2:48am
 ## Show List ##
 
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## Kidz Bop - 'Finesse'
 ## Floogals - 'Puppet Theater Part 1'
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## Chuck E. Cheese - 'Lend a Helping Hand'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Andrew McMahon - 'So Close'
 ## Jokes From Pasqually - 'Anchor'
 ## Show Break 1 - 'National Parks Time Lapse'
@@ -41,22 +41,22 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 ## Kids Click - 'Miraculous Tales of Ladybug & Cat Noir'
 # **Skit 2**
 ## Jasper T. Jowls & Chuck E. Cheese - 'Jasper's Country Classic'
-# [[File:New Graphic.png]] **Intermission 3**
+#  **Intermission 3**
 ## Lisa Loeb - 'Ooh Child'
 ## Niall Horan & Maren Morris - 'Seeing Blind'
 ## Show Break 2 - 'Red & Rex'
 ## Ariana Grande - 'No Tears Left To Cry'
 ## Musing with Mr. Munch Episode 4
 ## Floogals - 'Puppet Theater Part 2'
-# [[File:New Graphic.png]] **Skit 3**
+#  **Skit 3**
 ## Pasqually & Armadillo Phil - 'Chuck E. World'
-# [[File:New Graphic.png]] **Intermission 4**
+#  **Intermission 4**
 ## Jessica Sanchez - 'Stronger Together'
 ## Fun Facts with Chuck E. - 'Play'
 ## Charlie Freaks Out - 'Broccoli'
 # **Skit 4**
 ## Chuck E. & Friends - 'Because We're Friends'
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## Britt Nicole - 'Gold'
 ## Small Foot Trailer 
 ## Show Break 3 - 'Night City Time Lapse'
@@ -65,10 +65,10 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
-* [[File:New Graphic.png]] Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
+*  Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 
 * Easy Dance (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]] Easy Dance (Spanish) (3stage, Cyberamic, Studio C,Weigl)
+*  Easy Dance (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 * Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
 
 * Happy Dance (3stage, Cyberamic, Studio C,Weigl)
@@ -86,11 +86,7 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 *[https://www.youtube.com/watch?v=bF_VHJuWyJs 'Chuck E. World' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show518Floppy.png|Studio C Floppy 
-s-l1600 (13).jpg|Studio C Audio Correction DVD
-Show52018cecstage.png|CEC Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,9 +6,9 @@ date = 2024-05-16T15:20:25Z
 
 [Article]
 contributors = ["EagleScout610","Rexburg090","SuperCreamPiper2008"]
-gallery = []
+gallery = ["Middleburg PTT Today.jpg|thumb|The site of the Middleburg Heights PTT Today"]
 +++
-[[File:Middleburg PTT Today.jpg|thumb|The site of the Middleburg Heights PTT Today]]
+
 **Middleburg Heights, OH (6920 W 130th St)** was a Pizza Time Theatre located in Middleburg Heights, OH. It was part of the Southland Shopping Center.
 
 ## History ##
@@ -92,7 +92,4 @@ Marc's Funtime would end up closing before 2003, with the original plaza being d
 |Mid 1990's
 |}
 
-##Gallery##
-<gallery>
-MiddleburgHeightsPTT.jpg|Exterior as a PTT
-</gallery>
+

@@ -65,7 +65,3 @@ PBS Spot
 Shrek Spots
 
 ##Showtape Scans / Images:##
-<gallery>
-Sum08V1StdC.jpg|Studio C DVD (Version 1)
-image-445bfb4f-8650-4bf6-b2ba-40a3d41a5a741483429243058453463.jpg|Studio C DVD (Version 2)
-</gallery>

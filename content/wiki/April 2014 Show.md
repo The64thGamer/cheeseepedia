@@ -75,10 +75,7 @@ This was created to play from April 1st - June 30th 2014.
 *[https://archive.org/details/unlistedcec/Larry+Go+To+The+Store+++Kids+Parody+Song+from+Chuck+E.+Cheese.mp4 'Larry Go To The Store' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-s-l1600 (31aa).jpg|CEC-Stage DVD
-ssssadasdasd.jpg|3-Stage DVD
-</gallery>
+
 
 ##Trivia:##
 

@@ -6,7 +6,7 @@ date = 2022-09-27T21:58:12Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Bullseye123"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -25,12 +25,12 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 ## Show List: ##
 
 # **Intermission 1** 
-## [[File:New Graphic.png]] One Direction - 'Drag Me Down'
+##  One Direction - 'Drag Me Down'
 ## CEC Promo - 'Fundraising'
-## [[File:New Graphic.png]] Josh & The Jamtones - 'Great Big World' (Live at Chuck E. Cheese's)
+##  Josh & The Jamtones - 'Great Big World' (Live at Chuck E. Cheese's)
 # **Skit 1** 
 ## Chuck E. Cheese - 'Let's Play Some Games'
-# [[File:New Graphic.png]] **Intermission 2** 
+#  **Intermission 2** 
 ## Pentatonix feat. Tori Kelly - 'Winter Wonderland/Don't Worry Be Happy'
 ## Cartoon Network - Adventure Time - 'Once a Year'
 ## Bruno Mars - 'Treasure'
@@ -38,23 +38,23 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 ## Train - 'Shake up Christmas'
 # **Skit 2** 
 ## Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?'
-# [[File:New Graphic.png]] **Intermission 3** 
+#  **Intermission 3** 
 ## Ed Sheeran - 'Photograph'
 ## Cartoon Network - Teen Titans Go - 'Christmas'
 # **Skit 3** 
 ## Jasper T. Jowls - 'Snowman'
-# [[File:New Graphic.png]] **Intermission 4** 
+#  **Intermission 4** 
 ## Mariah Carey - 'All I Want For Christmas Is You'
 ## Josh & The Jamtones - 'Chanukah Time'
 ## CEC Promo - 'Party Galaxy App'
 # **Skit 4**
 ## Chuck E. & Helen - 'Very Merry Christmas'
-# [[File:New Graphic.png]] **Intermission 5** 
+#  **Intermission 5** 
 ## American Authors - 'Go Big or Go Home'
 ## Cartoon Network - We Bare Bears - 'Feel Good Montage'
 ## CEC Promo - 'Birthday Spot'
 ## Cartoon Network - Steven Universe - 'Snow'
-# [[File:New Graphic.png]] **Skit 5**
+#  **Skit 5**
 ## Chuck E. & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -62,7 +62,7 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 ### Up On The Housetop
 ### Deck the Halls
 ### We Wish You a Merry Christmas
-# [[File:New Graphic.png]] **Intermission 6** 
+#  **Intermission 6** 
 ## Josh & The Jamtones - 'Tailfeather' (Live at Chuck E. Cheese's)
 ## Cartoon Network - Gumball Universe - 'Santa'
 ## Cee Lo & The Muppets - 'All You Need Is Love'
@@ -80,10 +80,7 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 * Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show715Studioc.jpg|Studio C DVD
-Holiday15cecstage.png|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,7 +6,7 @@ date = 2024-07-29T21:54:32Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:C45C:F043:3504:84FE","ThatBoiCydalan","Midwestretail","ShowbizMidwest","2600:4040:5A0E:D900:6500:272E:6953:1FCD","68.84.199.239","SinStar","Chez","AstridMascotFan2005"]
-gallery = ["TucsonAZSpeedwayExteriorBefore2005Remodel.jpg|A","TucsonAZSpeedwayExterior2013AprilGoogleMaps.png|A"]
+gallery = []
 +++
 {{Generic|image=Speedway2000s.jpg|desc=Picture of this location shortly after a remodel. (PC: burlavin.com)}}
 
@@ -34,13 +34,10 @@ Tucson opened in April 1995 (After an almost 8-year hiatus from the city) with a
 
 After the store closed and moved, the location would remain vacant for a while until a gym called 'Tucson Strength' took over which interestingly kept the exterior intact except for a repaint of the building and changes to the store's interior. 
 
-##Gallery##
+
 [https://www.showbizpizza.com/photos/cec/az_tucson/index.html 1995]
 
-<gallery>
-File:TucsonAZSpeedwayExteriorBefore2005Remodel.jpg|A photo of the store's Exterior from before the 2005 Remodel (PC: geocities.com)
-File:TucsonAZSpeedwayExterior2013AprilGoogleMaps.png|A street view of the store in April 2013 (PC: Google Maps)
-</gallery>
+
 
 ##Videos##
 {| class='wikitable'

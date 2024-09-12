@@ -6,7 +6,7 @@ date = 2024-07-30T15:22:51Z
 
 [Article]
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
-gallery = ["SpringfieldOH-ShowRoom.jpg|June","SpringfieldOH-Stage.jpg|June","SpringfieldOH-NoBizLikeShowbiz.jpg|June","SpringfieldOH-Exterior.jpg|June"]
+gallery = []
 +++
 {{Generic|image=Springfield OH 2.0.jpg|desc=Exterior, 2023}}
 **_Springfield, OH (2345 Valley Loop Rd), Store #938**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983.
@@ -116,13 +116,8 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 *1995 Star Cap Thumb Chuck
 *1995 Vitaminology
 
-##Gallery##
-<gallery>
-File:SpringfieldOH-ShowRoom.jpg|June 22, 2022
-File:SpringfieldOH-Stage.jpg|June 22, 2022
-File:SpringfieldOH-NoBizLikeShowbiz.jpg|June 22, 2022
-File:SpringfieldOH-Exterior.jpg|June 22, 2022
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

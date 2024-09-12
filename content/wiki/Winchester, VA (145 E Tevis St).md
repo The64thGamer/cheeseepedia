@@ -6,14 +6,14 @@ date = 2024-08-29T01:22:04Z
 
 [Article]
 contributors = ["2600:4040:5A0E:D900:9954:A658:F7E0:D25D","2600:4040:5A0E:D900:5A4:D894:F195:E9EC","2600:4040:5A0E:D900:B09D:C664:5942:ACE","BurgersNuggs445","CECswag2009"]
-gallery = []
+gallery = ["71D8B228-4777-4F48-8012-C8B6ACFC2B26 4 5005 c.jpg|thumb","C95A2B6D-8E3F-4827-AE49-0282B4A96C71 4 5005 c.jpg|thumb|The Winchester Location's Grand Opening(Photo From the Winchester Star)"]
 +++
 {{Stub}}
-[[File:71D8B228-4777-4F48-8012-C8B6ACFC2B26 4 5005 c.jpg|thumb]]
+
 **_145 E Tevis St, Store #119**_ is a Chuck E. Cheese's that opened in August 12, 2013 and is still open today with a Circles of Light. It is located in a freestanding building one block south from the Winchester Station Shopping Center.
 ##Stages##
 Winchester opened with a Circles of Light, 16M on August 12th, 2013 in a freestanding building one block south from the Winchester Station Shopping Center. It was one of many COLs which featured a animatronic. The Chuck E Bot wore the Full Avenger Outfit, His Avenger Hat was removed in September 2013, On September 19, 2022, the bot ceased programming. As of July 2023, Winchester remains like this.
-[[File:C95A2B6D-8E3F-4827-AE49-0282B4A96C71 4 5005 c.jpg|thumb|The Winchester Location's Grand Opening(Photo From the Winchester Star)]]
+
 
 ##History##
 Winchester opened in August 2013. It currently has the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which included early Rockstar decor and the COL stage. In July of 2024, Winchester received the Trampoline Zone. Not much else changed to this location throughout the years, and Winchester is still in operation to this very day.

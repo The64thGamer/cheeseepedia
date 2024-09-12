@@ -6,7 +6,7 @@ date = 2023-08-15T19:41:43Z
 
 [Article]
 contributors = ["Bowling for Cheese","John95","2607:FB90:D71D:9CD9:C164:6696:E00B:9C18","12.197.102.229","70.161.136.174","Ceclife13","The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title =Summer Show 2023
@@ -21,15 +21,15 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 ###Advertising###
 #**Ad 1**
 ##Ecolab
-##[[File:New Graphic.png]] Samsung & Food and Drink Combos
+## Samsung & Food and Drink Combos
 ##Dippin Dots
 #**Ad 2**
 ##CEC Online Store
-##[[File:New Graphic.png]] YouTube & Food and Drink Combos
+## YouTube & Food and Drink Combos
 ##Fundraising and Group Events
 #**Ad 3** 
 ##CEC Online Store
-##[[File:New Graphic.png]]Race World & Food and Drink Combos
+##Race World & Food and Drink Combos
 ##Ecolab
 #**Ad 4**
 ##Dippin Dots
@@ -40,15 +40,15 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 #**Ad Break**
 ## Chuck E. & Friends - 'Song Of Summer'
 ##Koo Koo Kangaroo - 'Backyard Swimsuit'
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Made You Look'
+##KIDZ BOP Kids - 'Made You Look'
 #**Ad Break**
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Flowers
-##[[File:New Graphic.png]]Chuck E. & Friends - 'Most Perfect Day'
+##KIDZ BOP Kids - 'Flowers
+##Chuck E. & Friends - 'Most Perfect Day'
 ##Lanky Box - 'The Donut Song'
 #**Ad Break**
 ##Chuck E. Cheese - 'Down The Road'
 ##High School Musical 2 Cast - “What Time is it?”
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Cuff It'
+##KIDZ BOP Kids - 'Cuff It'
 #**Ad Break**
 ##Milo Manheim - “We Own the Summer”
 ##Marshmellow - 'Summer'
@@ -59,7 +59,7 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 ##Chuck E. & Friends - 'Out Of This World'
 #**Ad Break**
 ##Jasper T. Jowls - 'Dog Days Of Summer'
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Golden Hour'
+##KIDZ BOP Kids - 'Golden Hour'
 ##KIDZ BOP Kids - 'Spaceman'
 
 ###Lives:###
@@ -68,7 +68,7 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)
 *3-Stage Diagnostic (Navori)
-*[[File:New Graphic.png]]Beach Party Bash (Navori)
+*Beach Party Bash (Navori)
 
 |-|Show List 6/29 Update=
 ###Advertising###
@@ -78,14 +78,14 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 ##Dippin Dots
 #**Ad 2**
 ##CEC Online Store
-##[[File:New Graphic.png]] Dippin' Dots Summer Crunch & Food and Drink Combos
+## Dippin' Dots Summer Crunch & Food and Drink Combos
 ##Fundraising and Group Events
 #**Ad 3** 
 ##CEC Online Store
 ##Race World & Food and Drink Combos
 ##Ecolab
 #**Ad 4**
-##[[File:New Graphic.png]]Race World: They Win, You Win!
+##Race World: They Win, You Win!
 ##CEC Birthdays & YouTube
 ##Fundraising and Group Events
 
@@ -121,7 +121,7 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)
 *3-Stage Diagnostic (Navori)
-*[[File:New Graphic.png]]Beach Party Bash (Navori)
+*Beach Party Bash (Navori)
 
 |-|Show List 7/21 Update=
 ###Advertising###
@@ -131,42 +131,42 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 ##Dippin Dots
 #**Ad 2**
 ##CEC Birthdays
-##[[File:New Graphic.png]]Race World & Food and Drink Combos
+##Race World & Food and Drink Combos
 ##Fundraising and Group Events
 #**Ad 3**
 ##CEC Online Store
-##[[File:New Graphic.png]]Zigazoo Spot & Food and Drink Combos
+##Zigazoo Spot & Food and Drink Combos
 ##Ecolab
 #**Ad 4**
 ##Race World: They Win, You Win!
-##[[File:New Graphic.png]]KIDZ Bop 2023 Album Spot & YouTube
+##KIDZ Bop 2023 Album Spot & YouTube
 ##Fundraising and Group Events
 
 ###Entertainment###
 #**Ad Break**
 ##Chuck E. & Friends - 'Song Of Summer'
 ##Koo Koo Kangaroo - 'Backyard Swimsuit'
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Made You Look'
+##KIDZ BOP Kids - 'Made You Look'
 #**Ad Break**
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Flowers
+##KIDZ BOP Kids - 'Flowers
 ##Chuck E. & Friends - 'Most Perfect Day'
-##[[File:New Graphic.png]]Chuck E. & Friends - “I Love Sparkles”
+##Chuck E. & Friends - “I Love Sparkles”
 #**Ad Break**
 ##Chuck E. Cheese - 'Down The Road'
 ##High School Musical 2 Cast - “What Time is it?”
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Cuff It'
+##KIDZ BOP Kids - 'Cuff It'
 #**Ad Break**
 ##Milo Manheim - “We Own the Summer”
 ##Marshmellow - 'Summer'
 ##Chuck E. Cheese - 'Let's Be Friends'
 #**Ad Break**
-##[[File:New Graphic.png]]Chuck E. & Friends - “Do Re Mi”
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Sunroof'
+##Chuck E. & Friends - “Do Re Mi”
+##KIDZ BOP Kids - 'Sunroof'
 ##Chuck E. & Friends - 'Out Of This World'
 #**Ad Break**
 ##Jasper T. Jowls - 'Dog Days Of Summer'
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Golden Hour'
-##[[File:New Graphic.png]]KIDZ BOP Kids - 'Spaceman'
+##KIDZ BOP Kids - 'Golden Hour'
+##KIDZ BOP Kids - 'Spaceman'
 
 ###Lives:###
 
@@ -174,7 +174,7 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)
 *3-Stage Diagnostic (Navori)
-*[[File:New Graphic.png]]Beach Party Bash (Navori)
+*Beach Party Bash (Navori)
 </tabber>
 
 ##Trivia:##

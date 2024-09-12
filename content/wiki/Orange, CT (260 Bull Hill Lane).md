@@ -6,7 +6,7 @@ date = 2023-10-07T21:19:58Z
 
 [Article]
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cy's Junk at School"]
-gallery = ["PTT_Balcony_Orange_CT_Bull_Hill_Lane.png|A"]
+gallery = []
 +++
 **_260 Bull Hill Ln**_ is a _Chuck E. Cheese's Pizza Time Theater_ in Orange, Connecticut that opened in May 1983 and closed in 1985. It was located in an unnamed shopping plaza next to a former Kmart store that shares the same address. It was one of the last remaining Pizza Time Theaters in the state of Connecticut by the time it closed.
 
@@ -56,7 +56,4 @@ Orange opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" 
 |Sold at auction, current whereabouts unknown
 |}
 
-## Gallery ##
-<gallery>
-File:PTT_Balcony_Orange_CT_Bull_Hill_Lane.png|A composite image of Orange's Balcony Stage from December 24, 1983
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2024-04-27T23:15:22Z
 
 [Article]
 contributors = ["Rexburg090","RedaCEC","Cy's Junk at School","Harchambeault2026"]
-gallery = ["OrangeCT_pre-expansion.jpg|The","OrangeCT_pre-expansion2.jpg|Ditto","OrangeCT_pre-expansion3.jpg|Ditto","OrangeCT_permit.jpg|The"]
+gallery = []
 +++
 **_82 Boston Post Rd, Store #468**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_/_Chuck E. Cheese_ in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. 
 
@@ -86,12 +86,7 @@ Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened 
 |Destroyed.
 |}
 
-##Gallery##
-<gallery>
-File:OrangeCT_pre-expansion.jpg|The space to the right of the location being gutted for the location's expansion during the 2.0 remodel
-File:OrangeCT_pre-expansion2.jpg|Ditto
-File:OrangeCT_pre-expansion3.jpg|Ditto
-File:OrangeCT_permit.jpg|The building permit for the expansion
-</gallery>
+
+
 ##Videos##
 (WIP)

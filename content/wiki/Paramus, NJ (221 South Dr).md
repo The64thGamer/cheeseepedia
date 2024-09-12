@@ -6,7 +6,7 @@ date = 2024-05-25T15:47:06Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:CDD0:62DE:714:46B2","The 64th Gamer","2600:4040:5A0C:5900:C4A1:9008:FD91:F5FE","Cecnj98","74.102.61.112","Tux Chuck"]
-gallery = ["ParamusNJ1ExteriorWhenNew.png|Store","ParamusNJ1Stage2.jpg|Showroom","ParamusNJ1Stage1.jpg|Showroom","Njparamous2007image1.png|Exterior","Njparamous2007image03.jpg|MMBB","Njparamous2007image04.jpg|Helen","Njparamous2007image05.jpg|Helen","Njparamous2007image06.jpg|Helen","Njparamous2007image09.jpg|1-Stage","Njparamous2007image07.jpg|1-Stage","Njparamous2007image08.jpg|1-Stage","Njparamous2007image2.jpg|Mr.","Njparamous2007image10.jpg|Mr."]
+gallery = []
 +++
 {{Generic|image=ParamusNJ1ExteriorBeforeClosure.jpg|desc=The store's exterior before closure & Demolition (2010) (PC: wikimapia.org)}}
 
@@ -71,22 +71,8 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 |Unknown.
 |}
 
-##Gallery##
-<gallery>
-File:ParamusNJ1ExteriorWhenNew.png|Store Exterior (Unknown Year)<ref>(PC: siteride.com; now defunct)</ref>
-File:ParamusNJ1Stage2.jpg|Showroom (Unknown Year)
-File:ParamusNJ1Stage1.jpg|Showroom (2000's)
-File:Njparamous2007image1.png|Exterior Sign (2007)<ref>http://showbizpizza.com/photos/cec/nj_paramus/index.html</ref>
-File:Njparamous2007image03.jpg|MMBB Sign (2007)
-File:Njparamous2007image04.jpg|Helen Henny (2007)
-File:Njparamous2007image05.jpg|Helen Henny (2007)
-File:Njparamous2007image06.jpg|Helen Henny (2007)
-File:Njparamous2007image09.jpg|1-Stage (2007)
-File:Njparamous2007image07.jpg|1-Stage (2007)
-File:Njparamous2007image08.jpg|1-Stage (2007)
-File:Njparamous2007image2.jpg|Mr. Munch (2007)
-File:Njparamous2007image10.jpg|Mr. Munch (2007)
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

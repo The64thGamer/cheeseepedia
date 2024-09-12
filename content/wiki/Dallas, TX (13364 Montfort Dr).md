@@ -6,7 +6,7 @@ date = 2024-08-08T20:08:05Z
 
 [Article]
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
-gallery = ["DallasTXMontfortExterior2008AprilGoogleMaps.png|Street","DallasTXMontfortStarStage.jpg|A","DallasMontfortCirclesofLightWhenFirstInstalled.png|A","DallasTXMontfortExterior2014AprilGoogleMaps.png|Street"]
+gallery = []
 +++
 {{Generic|image=Mft20.png|desc=Montfort Dr. exterior in 2020.}}
 
@@ -253,13 +253,8 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 |Song of Summer being performed at the 2023 CEC Summer Concert Road Show (Summer Concert Road Show)
 |June 22, 2023
 |}
-##Gallery##
-<gallery>
-File:DallasTXMontfortExterior2008AprilGoogleMaps.png|Street View of the store's exterior before the 2011 expansion (April 2008)
-File:DallasTXMontfortStarStage.jpg|A photo of the Star Stage at the location in 2011 
-File:DallasMontfortCirclesofLightWhenFirstInstalled.png|A photo of the Circles of Light Stage at the store when it was installed.
-File:DallasTXMontfortExterior2014AprilGoogleMaps.png|Street View of the store's exterior before the 2015 Remodel (April 2014)
-</gallery>
+
+
 ##Animatronics##
 {| class='wikitable'
 ! Animatronic

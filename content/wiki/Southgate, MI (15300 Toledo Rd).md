@@ -6,7 +6,7 @@ date = 2024-07-24T21:23:44Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","174.131.44.53","ItAllStartsHereYT","The 64th Gamer"]
-gallery = ["Southgate2018GoogleMapsScreenshot.jpeg|Southgates","AdSouthgate1982.jpg|An","CheckersSouthgatMI.jpg|The"]
+gallery = []
 +++
 {{Generic|desc=Exterior (2018)|image=Southgate2018GoogleMapsScreenshot.jpeg}}
 
@@ -96,12 +96,8 @@ Currently, as of August 2023, Southgate still has their 2019 Model Dance Floor.
 |N/A
 |Owned by a Private Collector.
 |}
-##Gallery##
-<gallery>
-File:Southgate2018GoogleMapsScreenshot.jpeg|Southgates Exterior in 2018
-File:AdSouthgate1982.jpg|An ad promoting the opening of Southgate from 1982
-File:CheckersSouthgatMI.jpg|The checkers on the walls from the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}})
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

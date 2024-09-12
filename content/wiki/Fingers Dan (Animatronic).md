@@ -6,7 +6,7 @@ date = 2024-05-29T21:37:29Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["dan_choo.jpg|At","dan_19842.png|CEI","dan_1984.png|Ditto","WH_fd_bc.png|With","fdan2023.jpg|During"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=fdan.jpg|unitsProduced=2}}Fingers Dan was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Morey's Piers and Americana Amusement Park.
 
@@ -27,11 +27,4 @@ Due to lack of footage or photos of internals, movements can only be inferred. A
 * Right arm
 * Left arm swing
 
-## Gallery ##
-<gallery>
-File:dan_choo.jpg|At Americana Amusement Park
-File:dan_19842.png|CEI Warehouse (1984)
-File:dan_1984.png|Ditto
-File:WH_fd_bc.png|With [Buddy Crash]({{< ref "wiki/Buddy Crash (Animatronic).md" >}})
-File:fdan2023.jpg|During move to the CEI museum (2023)
-</gallery>
+

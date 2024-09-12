@@ -22,11 +22,8 @@ In 2000 with the restructuring of the store the original exit was relocated with
 ##Lost Media & Unknown information.##
 With how few photos/footage exists of Dolli it is currently unknown what she performed, the only evidence she worked is from 'The Jungle Jim Story' which features footage from 1991 of Dolli. Showing that she was at least aired up.<ref>https://youtu.be/wXQxEUeOkok?t=445</ref> 
 
-##Gallery##
-<gallery>
-Dolli.png|How Dolli's stage looked from 1988-2001
-Dolli2.png|Where Dolli was located from 1988-2001
-</gallery>
+
+
 
 ## References ##
 <references />

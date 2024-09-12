@@ -27,4 +27,3 @@ Johnstown opened in 1982 with a Rock-Afire Explosion. It had everything a normal
 |1/7/2021
 |}
 
-## Gallery ##

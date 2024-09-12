@@ -6,7 +6,7 @@ date = 2024-09-04T00:44:15Z
 
 [Article]
 contributors = ["RockAfire Alex","Rexburg090","2600:4040:59FC:D100:7E92:3569:DE4F:A81F","ShowbizMidwest","RedaCEC","ChuckEPediaIsTheBest!","66.215.38.213","Bowling for Cheese","ChuckfeldStan","ThatBoiCydalan","BurgersNuggs445","Icantbelieveitsnotbutter","Chez","Aubreemasterson","SuperCreamPiper2008","AstridMascotFan2005","Cy's Junk at School","Cecfan15WantsRetromation","ConceptUnification2.0","Documentor","The 64th Gamer","CECMentor","Caydenpedia","UltimatelyFun"]
-gallery = ["AltoonaPACECExteriorAsShowbizPizzaPlace.jpg|The","AltoonaPAPre2005RemodelExterior.jpg|Part","Stage.jpg|Wide","CEI","CECP","Stage","Pasqupclose.jpg|Close-up","Altoonalatex.jpeg|Helen","Chuckecheesealtoona2006.jpg|The","Chuckecheesealtoonalogo2009.jpg|Chuck","Extal.jpg|The","Altoona,"]
+gallery = ["Chuckecheesealtoona2003.jpg|thumb|196x196px|A photo of the Altoona, PA, location in 2003."]
 +++
 {{Generic|desc=Altoona location exterior photo taken on the store's reopening on August 6, 2024|image=Extal2.0.jpg}}
 **_Altoona, PA (3415 Pleasant Valley Blvd)**_ **_Store #3165/449**_ was a Showbiz Pizza Place that opened on November 23, 1983, with a Rock-Afire Explosion, and is still open to this day with the 2.0 remodel.
@@ -46,7 +46,7 @@ On March 2, 1983, it was confirmed that Family Restaurant Concepts Inc. proposed
 Evidence shown that in July 1987, due to Showbiz Pizza's merge with Chuck E. Cheese's, the location would be renamed to Chuck E. Cheese's.<ref>(July 1987). [https://drive.google.com/file/d/1abq8A5CWM5qUb6a4veP2I1iHzuaq45Nm/view 'Hey Kids! Same Fun Place, New Name, Chuck E. Cheese Will Soon Replace Showbiz Pizza Place in the Pleasant Valley Shopping Center'].</ref> Around between September and October 1st, 1987, Showbiz Pizza Place was officially renamed to Chuck E. Cheese's,<ref>(September 1987). [https://drive.google.com/file/d/1K2-JgzUqKqz3Nbtpm90b7bAsj4lsw3p2/view 'Altoona Area Merchants: Chuck E. Cheese's'].</ref><ref>(October 1, 1987) '[https://drive.google.com/file/d/1ZBW12kWG5kk0BdInPvMAdq6T7O77vDIn/view NOW OPEN: You Don't Need A Big Reason To Have Fun At Showbiz And Chuck E. Cheese's]'.</ref> though it presumably kept the Showbiz Pizza Place sign until the early '90s. It received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) sometime in 1991 (date unknown), replacing Rock-Afire Explosion with Munch's Make Believe Band. The [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) happened sometime after Concept Unification. Circa. 1996, the Scott Wilson latex mask of the Chuck E. Cheese animatronic was replaced by the Duncan Brannan latex mask. Sometime in the 2000s (officially unknown year: 2000), it became the first animatronic in which its latex mask was replaced by a plastic mask.
 
 ### 2001-2011 ###
-[[File:Chuckecheesealtoona2003.jpg|thumb|196x196px|A photo of the Altoona, PA, location in 2003.]]
+
 The location's entertainment package was updated to [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in the early 2000s (officially unknown year: 2001), which included the installations of the Toddler Zone and the Ticket Muncher. Minor changes occurred after the upgrade. In circa. 2002, Mr. Munch's latex mask was replaced by a plastic mask. Between July 22, 2003, and December 11, 2006, the 'Pizza' logo besides the 'Chuck E. Cheese's' logo was removed at the exterior side of the building. Circa. late 2000s, the circular owning above the entrance door was replaced by a triangular owning. In 2010, the [Ticket Blaster]({{< ref "wiki/Ticket Blaster.md" >}}) was installed into the location.
 
 ### 2011-2024 ###
@@ -86,21 +86,8 @@ Currently, as of August 2024, the location still has the 2.0 Remodel and the Dan
 |May 13, 2024
 |}
 
-## Gallery ##
-<gallery>
-File:AltoonaPACECExteriorAsShowbizPizzaPlace.jpg|The store's exterior as a Showbiz Pizza Place.
-File:AltoonaPAPre2005RemodelExterior.jpg|Part of the store's exterior before it's Phase 4 remodel.
-File:Stage.jpg|Wide shot of the 3-Stage.
-File:CEI label.jpg|The Creative Engineering label on the back of Mr. Munch's organ. (1-1983)
-File:CECP SIGN.jpg|Chuck E Cheese's Pizza sign.
-File:Stage left.jpg|Close-up of Chuck E.'s stage.
-File:Pasqupclose.jpg|Close-up of Pasqually
-File:Altoonalatex.jpeg|Helen and Jasper with their latex masks
-File:Chuckecheesealtoona2006.jpg|The store's exterior (left) in 2006.
-File:Chuckecheesealtoonalogo2009.jpg|Chuck E Cheese's 1998 sign in 2009.
-File:Extal.jpg|The location's exterior on July 17, 2022.
-File:Altoona, PA walkaround characters.jpg|Avenger Cheerleader Helen, Rockstar Chuck, Rockstar Mr. Munch, and Rockstar Jasper in the grand reopening event of the Altoona, PA location on August 6, 2024.
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

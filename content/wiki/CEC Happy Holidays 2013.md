@@ -6,7 +6,7 @@ date = 2023-02-10T16:38:39Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's holiday 2013 Show
@@ -27,7 +27,7 @@ This was created to play from December 2, - December 31, 2013.
 # **Song 1** 
 ## 'Deck the Halls'
 # **Intermission 1** 
-## [[File:New Graphic.png]] Veggie Tales - 'Wrapped Myself Up For Christmas'
+##  Veggie Tales - 'Wrapped Myself Up For Christmas'
 ## Chillout 1 
 # **Song 2** 
 ## 'Up on the Housetop'
@@ -52,7 +52,7 @@ This was created to play from December 2, - December 31, 2013.
 # **Song 6** 
 ## I Heard the Bells on Christmas Day
 # **Intermission 6** 
-## [[File:New Graphic.png]] Fraggle Rock - 'The Bells Of Fraggle Rock'
+##  Fraggle Rock - 'The Bells Of Fraggle Rock'
 ## Chillout 6 
 # **Song 7** 
 ## Boars Head Carol
@@ -83,11 +83,7 @@ This was created to play from December 2, - December 31, 2013.
 *Old Mac Donald (Studio C,Weigl)
 *BINGO (Studio C,Weigl)
 ##Showtape Scans / Images:##
-<gallery>
-holiday2013cecstage.jpg|CEC-Stage DVD Scan
-HapyHolday13Stc.jpg|Studio C DVD
-Holiday13Floppy.jpg|Studio C Floppy
-</gallery>
+
 
 ## Trivia: ##
 

@@ -13,6 +13,6 @@ gallery = []
 ##History##
 ##Stages##
 ##Animatronics##
-##Gallery##
+
 ##Videos##
 ##References##

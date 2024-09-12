@@ -6,7 +6,7 @@ date = 2024-06-01T00:44:36Z
 
 [Article]
 contributors = ["Stripes","The 64th Gamer","BurgersNuggs445"]
-gallery = ["Irving","Irving","Irving","Irving","Irving","Irving","Irving","Irving"]
+gallery = []
 +++
 {{Generic|image=Irving TX Remodel-005.jpg|desc=[Artifact Shelves]({{< ref "wiki/Artifact Shelves.md" >}}) and updated showroom booths with planters.}}
 
@@ -45,17 +45,8 @@ In the showroom, new booths and chairs were introduced, which were black with mu
 
 Lastly, the ordering counter, prize counter, beverage selection, and salad bar areas were enhanced to match the overall appearance with wooden signs replacing the previously used neon signs and interior awnings being removed from each section.
 
-## Gallery##
-The below images come from [Irving, TX (3903 W Airport Fwy)]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}).<ref name=':1'>https://www.instagram.com/p/CTTHrg8JmWk/</ref><ref>https://archive.org/details/irving-tx-remodel-001/</ref><gallery>
-File:Irving 2002.png|A picture of a prototype exterior sign.<ref name=':1' />
-File:Irving TX Remodel-001.jpg|Updated prize counter.
-File:Irving TX Remodel-002.jpg|Refreshed beverage selection.
-File:Irving TX Remodel-004.jpg|New parody posters: [1993 Cheese Z Top (CD Award)]({{< ref "wiki/1993 Cheese Z Top (CD Award).md" >}}), 1994 MC Chuckie (CD Award), 1994 It's A Dawg's Life (CD Award)
-File:Irving TX Remodel-012.jpg|Refreshed gameroom with [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}) elements, and indirect rainbow lighting with crown molding.
-File:Irving TX Remodel-013.jpg|Updated gameroom booths and carpeting.
-File:Irving TX Remodel-016.jpg|Updated gameroom with decor spotlights and indirect rainbow lighting.
-File:Irving TX Remodel-017.jpg|Skeeball area with wooden signs.
-</gallery>
+
+The below images come from [Irving, TX (3903 W Airport Fwy)]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}).<ref name=':1'>https://www.instagram.com/p/CTTHrg8JmWk/</ref><ref>https://archive.org/details/irving-tx-remodel-001/</ref>
 
 ##References##
 

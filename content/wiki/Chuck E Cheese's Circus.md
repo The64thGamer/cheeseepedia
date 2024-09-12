@@ -6,7 +6,7 @@ date = 2024-08-17T15:16:54Z
 
 [Article]
 contributors = ["The 64th Gamer","ThatBoiCydalan","Signal08","BenTrainFan2000"]
-gallery = ["12.jpg|Van","Rtyuytrertghj.jpg|The","2423424.jpg|Van","2354676543.jpg|Van","456543345.jpg|Van","54345654.jpg|Van","23453643.jpg|Van","436543534.jpg|Van","Amutec","Amutec","49033753302","VAN2.png|Van","CircusVanChico.jpg|Van"]
+gallery = []
 +++
 {{Generic|image=Dfghjhgfrew.jpg|desc=Circus Van seen on eBay in 2022.}}**_Chuck E. Cheese's Circus**_ is a coin-operated _Amutec_ _[https://en.wikipedia.org/wiki/Kiddie_ride Kiddie Ride]_ featuring _Chuck E. Cheese_ branding. 
 
@@ -20,22 +20,8 @@ The only listing of this item was put on Craigslist in the first week of 2022, i
 The description read:
  This is a used Chuck E Cheese's Circus Van Coin Operated Kiddie Kiddy Ride. It works but has some condition issues. The decals are pealing, and the head light plastics are broke. There are small chips in the fiberglass and the paint is not perfect. On the side used to be jail bars making an animal cage that had either circus animals or maybe other members from the CEC showbiz showtime pizza time players Band. Could be restored?  Located in Grand Prairie Texas 75050 for pick up from a commercial easy load address. I will assist with shipping, but you book, you pay, and you insure at your risk.
 
-##Gallery##
-<gallery>
-File:12.jpg|Van at CEC Everett, MA in 2001
-File:Rtyuytrertghj.jpg|The van at Interskate Roller Rink in 2018
-File:2423424.jpg|Van from eBay in 2022
-File:2354676543.jpg|Van from eBay in 2022
-File:456543345.jpg|Van from eBay in 2022
-File:54345654.jpg|Van from eBay in 2022
-File:23453643.jpg|Van from eBay in 2022
-File:436543534.jpg|Van from eBay in 2022
-File:Amutec ChildrensDreamMachines i3-F.jpg|Standard Van Flyer by Amutec
-File:Amutec ChildrensDreamMachines i3-B.jpg|Standard Van Flyer by Amutec
-File:49033753302 113fe524a0 b.jpg|Standard Amutec Van in Purple
-File:VAN2.png|Van at CEC Monroe, LA in December 2023
-File:CircusVanChico.jpg|Van in Chico, CA (stripped of CEC branding)
-</gallery>
+
+
 
 ## Owners / Locations##
 {| class='wikitable'

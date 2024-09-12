@@ -6,7 +6,7 @@ date = 2024-06-08T12:15:28Z
 
 [Article]
 contributors = ["ThatBoiCydalan","CEC Tinley","CorrectorMan","Cecanddisneyfan2004"]
-gallery = ["BenWhiteExteriorAfterClosure.png|The"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=BenWhiteExteriorStreetViewJune2011.png|desc=The store's exterior in June 2011 (PC: Google Maps)}}
 **_502 W Ben White Blvd, Store #935**_ was a Showbiz Pizza Place/Chuck E. Cheese's which opened on March 24th, 1982, and closed on May 12th, 2013.
@@ -61,10 +61,8 @@ Around February 2015, the site of this former location would begin its redevelop
 |May 12th, 2013
 |}
 
-## Gallery ##
-[https://www.showbizpizza.com/photos/cec/tx_benwhite/index.html 2005]<gallery>
-File:BenWhiteExteriorAfterClosure.png|The store's exterior after closure.
-</gallery>
+
+[https://www.showbizpizza.com/photos/cec/tx_benwhite/index.html 2005]
 
 ## Animatronics ##
 {| class='wikitable'

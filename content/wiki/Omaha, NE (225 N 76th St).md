@@ -6,9 +6,9 @@ date = 2024-08-26T23:28:28Z
 
 [Article]
 contributors = ["ChuckECool","CorrectorMan","Stripes","Cy's Junk at School"]
-gallery = []
+gallery = ["Omaha.jpg|thumb|Omaha's exterior with 2.0. (PC: Google Maps)"]
 +++
-[[File:Omaha.jpg|thumb|Omaha's exterior with 2.0. (PC: Google Maps)]]
+
 **_225 North 76th Street**_ is a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on June 23, 1982 as a corporate location with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day as a 2.0 with a Dance Floor and Video Wall.
 
 It is located in the Heritage Plaza Shopping Center.

@@ -6,7 +6,7 @@ date = 2024-06-27T01:19:49Z
 
 [Article]
 contributors = ["Rexburg090","CybersorCEI","2600:4040:5A0C:5900:E4CF:886E:C3E2:74B4","Tux Chuck","SuperCreamPiper2008","Estsproduction","TailsFan628","Cheeseclassic"]
-gallery = ["Poughkeepsie","Chuck","Chuck","Poughkeepsie","ChuckE.Cyberamic","Poughkeepsie","Poughkeepsie","Poughkeepsie","Poughkeepsie","Poughkeepsie"]
+gallery = []
 +++
 {{Generic|image= Poughkeepsie's Exterior, August 2023.jpg|desc=Exterior, August 2023 (PC: Google Maps)}}
 **_1895 South Rd, Store #505**_ is a Chuck E. Cheese’s location located in Poughkeepsie, New York; at The Shoppes at South Hills (Formerly South Hills Mall) shopping center. This location opened on December 6, 1993, and is still open to this day as a 2.0.
@@ -69,18 +69,7 @@ Poughkeepsie's Grand Reopening occurred sometime in November/December 2022.
 |Destroyed/Remains owned by Private Collector
 |}
 
-##Gallery##
-<gallery>
-File:Poughkeepsie NY 1stage.jpg|alt=The 1-Stage|left|thumb|353x353px|The 1-Stage
-File:Chuck Mascot1 Poughkeepsie.jpg|center|thumb|208x208px|Their Rockstar Chuck Mascot
-File:Chuck Mascot2 Poughkeepsie.jpg|left|thumb|205x205px|Another picture of Poughkeepsie's mascot.
-File:Poughkeepsie wallart.jpg|center|thumb|209x209px|Wall Art from the Lobby
-File:ChuckE.Cyberamic PoughkeepsieNY.jpg|thumb|268x268px|Chuck E. Cheese during summer
-File:Poughkeepsie Christmas Pasqually.jpg|left|thumb|191x191px|The Pasqually cyberamic from the Poughkeepsie, NY location during Christmas
-File:Poughkeepsie Christmas Jasper.jpg|center|thumb|247x247px|The Jasper cyberamic from the Poughkeepsie, NY location during Christmas
-File:Poughkeepsie Munch Christmas.jpg|thumb|255x255px|The Mr. Munch cyberamic from the Poughkeepsie, NY location during Christmas
-File:Poughkeepsie Helen Christmas.jpg|left|thumb|249x249px|The Helen cyberamic from the Poughkeepsie, NY location during Christmas
-File:Poughkeepsie ChuckE Christmas.jpg|center|thumb|275x275px|The Chuck E. Cheese cyberamic from the Poughkeepsie, NY location during Christmas
-</gallery>
+
+
 ##Videos##
 (WIP)

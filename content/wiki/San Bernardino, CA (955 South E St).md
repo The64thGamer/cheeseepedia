@@ -112,7 +112,7 @@ In June 2020, the location closed due to the bankruptcy and the COVID-19 Pandemi
 |
 |
 |}
-## Gallery ##
+
 
 
 

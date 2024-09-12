@@ -6,9 +6,9 @@ date = 2024-07-22T17:19:55Z
 
 [Article]
 contributors = ["ChuckECool","Midwestretail","Rexburg090","216.125.34.66","CorrectorMan","CECfan","CECguy121012","47.17.236.200","CEC Tinley","CoolerDude","CECFayetteville15"]
-gallery = ["CECWestOrlandowithAwnings.jpg|The"]
+gallery = ["2.0.jpg|thumb|The exterior of the store after the 2.0 remodel"]
 +++
-[[File:2.0.jpg|thumb|The exterior of the store after the 2.0 remodel]]
+
 **_7456 West Colonial Dr, Store #719**_ also known as **_West Orlando**_ is a Chuck E. Cheese that opened on November 12, 1998, as a corporate location with a Studio C Alpha and is still open to this day.
 
 It is located right across from the Highland Lakes Center Mall.
@@ -57,10 +57,8 @@ On November 10, 2007, The location was robbed at gunpoint by 2 masked men, one o
 |N/A
 |Destroyed.
 |}
-##Gallery##
-<gallery>
-File:CECWestOrlandowithAwnings.jpg|The exterior of the store before the removal of the Awnings (PC: varcamp.com)
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 !Link

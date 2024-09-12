@@ -6,7 +6,7 @@ date = 2023-07-19T01:20:32Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Summertime 2003
@@ -20,7 +20,7 @@ gallery = []
 **Summertime 2003** was a showtape released in July 2003 which ran through August 2003.
 
 ## Studio C Show List: ##
-#[[File:New Graphic.png]] **Segment 1** 
+# **Segment 1** 
 ## 'Summertime Groove'
 ## 'Fishin_
 #**Intermission 1** 
@@ -28,25 +28,25 @@ gallery = []
 ##'Boat of Love' / 'We Sail The Ocean Blue'
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
-#[[File:New Graphic.png]] **Segment 2** 
+# **Segment 2** 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
 #**Intermission 2** 
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Dancing Food'
-##[[File:New Graphic.png]] Kool-Aid Spot
+## Kool-Aid Spot
 ##Countdown
-#[[File:New Graphic.png]] **Segment 3** 
+# **Segment 3** 
 ## 'Baseball Diamond Dreams'
 ## 'Dog Jammin_
 # **Intermission 3** 
 ##CEC TV ID - 'Blender'
-##[[File:New Graphic.png]] Super Jasper - 'One Token'
+## Super Jasper - 'One Token'
 ##'America'
 ##CEC TV ID - 'Haircut'
 ## Countdown
-#[[File:New Graphic.png]] **Segment 4** 
+# **Segment 4** 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
 # **Intermission 4** 
@@ -55,7 +55,7 @@ gallery = []
 ##CEC TV ID - 'Dancing Food'
 
 ## Existing Stage Show List: ##
-#[[File:New Graphic.png]] **Segment 1** 
+# **Segment 1** 
 ## 'Summertime Groove'
 ## 'Fishin_
 #**Intermission 1** 
@@ -63,7 +63,7 @@ gallery = []
 ##'Boat of Love' / 'We Sail The Ocean Blue'
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
-#[[File:New Graphic.png]] **Segment 2** 
+# **Segment 2** 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
 #**Intermission 2** 
@@ -71,22 +71,22 @@ gallery = []
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Dancing Food'
 ##Countdown
-#[[File:New Graphic.png]] **Segment 3** 
+# **Segment 3** 
 ## 'Baseball Diamond Dreams'
 ## 'Dog Jammin_
 # **Intermission 3** 
 ##CEC TV ID - 'Blender'
-##[[File:New Graphic.png]] Super Jasper - 'One Token'
+## Super Jasper - 'One Token'
 ##CEC TV ID - 'Haircut'
 ## Countdown
-#[[File:New Graphic.png]] **Segment 4** 
+# **Segment 4** 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock with You'])
 # **Intermission 4** 
 ##CEC TV ID - 'Stars'
 ##Monkey Ninjas - Episode 3
 ## 'America'
-## [[File:New Graphic.png]]  Kool-Aid Spot
+##   Kool-Aid Spot
 ##CEC TV ID - 'Dancing Food'
 
 ## Lives: ##
@@ -105,10 +105,7 @@ gallery = []
 * [YMCA 03]({{< ref "wiki/YMCA 03.md" >}})
 **Birthday Break**: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 ##Showtape Scans / Images:##
-<gallery>
-Document_2021-08-09_180045.jpg|Studio C Floppy Scan
-Document_2021-08-09_151553.jpg|Studio C Floppy Scan (Version 1.2)
-</gallery>
+
 ##Trivia:##
 *'Dog Jammin_ is a remake of a song from [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}) and 'Baseball Diamond Dreams' is a remake of a song from [Spring Break]({{< ref "wiki/Spring Break.md" >}})
 *'America' was originally used as a America  ( live show). In this show programming for Chuck E. has been added and the footage has been changed to stock footage of an American flag. 

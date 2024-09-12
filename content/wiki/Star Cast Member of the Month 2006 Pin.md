@@ -6,9 +6,9 @@ date = 2021-12-04T01:00:21Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["S-l1600 (25).jpg|thumb|301x301px|Front"]
 +++
-[[File:S-l1600 (25).jpg|thumb|301x301px|Front]]
+
 The **_Star Cast Member of the Month 2006 Pin**_ was given to CEC employees for their contributions in the store, to be worn on their lanyard. 
 
 ## Design ##
@@ -19,8 +19,4 @@ The design is similar to the design of the [Chuck E. Cheese's]({{< ref "wiki/Chu
 ## Acquirement ##
 Employees could receive this pin by being the most outstanding cast member out of all employees for the month. Similar to the standard 'Employee of the Month' rewards given at other businesses. This reward was at the manager's discretion, and could even not be given out for the month.
 
-## Gallery ##
-<gallery>
-S-l1600 (25).jpg|Front
-S-l1600 (26).jpg|Back
-</gallery>
+

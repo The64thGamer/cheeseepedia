@@ -6,7 +6,7 @@ date = 2022-03-23T22:04:51Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E.'s Variety Show
@@ -22,35 +22,35 @@ This show was a modified version of the Studio C Premiere (Final Ver) show havin
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Segment 1**
+#  **Segment 1**
 ## Studio C Bumper
 ## Introduction to Swinging Blue Jeans -  'Hippy Hippy Shake'
 ## Swinging Blue Jeans -  'Hippy Hippy Shake'
 ## Introduction to The Show
 ## Introduction to Steve Martin - 'King Tut'
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## Steve Martin - 'King Tut'
 ## Louis Armstrong - 'What A Wonderful World'
-# [[File:New Graphic.png]] **Segment 2**
+#  **Segment 2**
 ## Who's Got My Master Remote
 # **Intermission 2**
 ## Pondwatch
 ## Coca Cola Spot 1
 # **Segment 3**
 ## Larry The Technician - 'Stage Curtains'
-## [[File:New Graphic.png]] NFL's 100 Greatest Follies
-## [[File:New Graphic.png]] Introduction to Tim McGraw - 'I Like It, I Love It'
+##  NFL's 100 Greatest Follies
+##  Introduction to Tim McGraw - 'I Like It, I Love It'
 # **Intermission 3**
-## [[File:New Graphic.png]] Tim McGraw - 'I Like It, I Love It'
+##  Tim McGraw - 'I Like It, I Love It'
 ## Name That Cheese
 # **Segment 4**
-## [[File:New Graphic.png]] Introduction to Go-Go's - 'Our Lips Are Sealed'
-## [[File:New Graphic.png]] Go-Go's - 'Our Lips Are Sealed'
+##  Introduction to Go-Go's - 'Our Lips Are Sealed'
+##  Go-Go's - 'Our Lips Are Sealed'
 ## Chuck E. Cheese News
 # **Intermission 4**
-## [[File:New Graphic.png]] Hanson - 'MmmBop'
+##  Hanson - 'MmmBop'
 ## Will Frye The Nutrition Guy - 'Food Pyramid'
-## [[File:New Graphic.png]] Leann Rimes - 'How Do I Live'
+##  Leann Rimes - 'How Do I Live'
 ## Station Break
 # **Segment 5**
 ## Studio C Bumper
@@ -58,11 +58,11 @@ This show was a modified version of the Studio C Premiere (Final Ver) show havin
 # **Intermission 5**
 ## Chuck E. Cheese's Promo
 ## Coca Cola Spot 2
-## [[File:New Graphic.png]] Announcer
-# [[File:New Graphic.png]] **Segment 6**
+##  Announcer
+#  **Segment 6**
 ## Introduction to Seal - 'Fly Like An Eagle'
 ## Seal - 'Fly Like An Eagle'
-# [[File:New Graphic.png]] **Intermission 6**
+#  **Intermission 6**
 ## Bugs Bunny - 'Ali Baba Bunny'
 ## Jackson Five - 'ABC'
 

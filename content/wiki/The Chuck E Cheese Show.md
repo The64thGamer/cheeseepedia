@@ -6,7 +6,7 @@ date = 2022-09-27T20:58:58Z
 
 [Article]
 contributors = ["Documentor","Himitsu","The 64th Gamer","DerpJobi","ShowbizChuck"]
-gallery = ["Asdfssadfsadfsadf.jpg|CEC"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Summer 2014 Show
@@ -24,41 +24,41 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 
 ## Show List: ##
 
-# [[File:New Graphic.png]]**Skit 1**
+# **Skit 1**
 ## Music Video - 'Friendship Never Ends' (Chuck E.)
-# [[File:New Graphic.png]]**Intermission 1**
+# **Intermission 1**
 ## Sketch - 'Where's Steve Waters'
 ## Sketch - Hard Hat Hank - 'Box'
 ## Show Break 1 - 'Cats'
-# [[File:New Graphic.png]]**Skit 2**
+# **Skit 2**
 ## Music Video - 'Dare To Be You' (Helen)
-# [[File:New Graphic.png]]**Intermission 2**
+# **Intermission 2**
 ## Sketch - 'A Joke From Pasqually'
-# [[File:New Graphic.png]]**Skit 3**
+# **Skit 3**
 ## Music Video - 'Rockin' Robot' (Chuck E.)
-# [[File:New Graphic.png]]**Intermission 3**
+# **Intermission 3**
 ## Sketch - 'Steve Water Auditions'
-# [[File:New Graphic.png]]**Skit 4**
+# **Skit 4**
 ## Music Video - 'Arizona' (Jasper)
-# [[File:New Graphic.png]]**Intermission 4**
+# **Intermission 4**
 ## Show Break 2 - 'City Time Lapse'
-# [[File:New Graphic.png]]**Skit 5**
+# **Skit 5**
 ## Music Video - 'Nobody Knows' (Munch)
-# [[File:New Graphic.png]]**Intermission 5**
+# **Intermission 5**
 ## Show Break 3 - 'Driving Through The City'
 ## Sketch - 'Set Up For The Finale'
-# [[File:New Graphic.png]]**Skit 6**
+# **Skit 6**
 ## Music Video - 'Happy To Be Seeing You' (Chuck E. & The Steve Water Understudies)
-# [[File:New Graphic.png]]**Intermission 6**
+# **Intermission 6**
 ## Sketch - 'Steve Waters Return'
 ## Sketch - Bobby Bear - 'Marlon the Marlin' 
 ## Show Break 4 - 'Hot Air Balloon Journey'
 
 ## Live Shows: ##
 
-* [[File:New Graphic.png]]Rock Star Birthday (2014) (3stage, Cyberamic, Studio C,Weigl)
+* Rock Star Birthday (2014) (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]]Chuck E. Says (2014) (3stage, Cyberamic, Studio C,Weigl)
+* Chuck E. Says (2014) (3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 * Head, Shoulders, Knees and Toes (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
@@ -66,10 +66,7 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 * BINGO (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Sum14StdC.png|Studio C DVD
-File:Asdfssadfsadfsadf.jpg|CEC Stage DVD
-</gallery>
+
 
 ## Official Releases: ##
 *[https://www.youtube.com/watch?v=yDf7J3M0YQc 'Friendship Never Ends' on YouTube]

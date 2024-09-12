@@ -6,7 +6,7 @@ date = 2024-07-11T18:01:25Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","2601:191:8580:9F90:1DD1:B54A:12E:6139","CECCheese","Cheeseclassic","The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E","66.250.190.28","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004"]
-gallery = ["ManchesterNHOldExterior.jpg|alt=ManchesterOld|Manchester","AF1QipOVtC5HFqPhIeGOuVMPdXTy5lS1joKYrKU7qtcs.jpg|Exterior","Manchester","Manchester","Chuck","Screenshot"]
+gallery = []
 +++
 {{Generic|image=Manchester 2.0.jpg|desc=Exterior with 2.0 remodel, April 2024 (PC: dmckill on Instagram)}}
 
@@ -145,14 +145,7 @@ Birthday Extravaganza 1990, Land of 1,000 Dances/Chuck E's Place
 |November 2nd, 2022
 |}
 ##Gallery ##
-<gallery>
-File:ManchesterNHOldExterior.jpg|alt=ManchesterOld|Manchester NH's exterior in the early 2000's, with the Pizza Time Theatre font still being used. The font was retrofitted to feature the red and yellow colors seen on the 1993 remodel exteriors.
-File:AF1QipOVtC5HFqPhIeGOuVMPdXTy5lS1joKYrKU7qtcs.jpg|Exterior with 2005 Remodel in February 2018.
-File:Manchester Studio C with Orange CT Head.jpg|A screenshot from a YouTube video of the store's Studio C in November 2022 after the replacement of Chuck's head from Orange, CT (PC: CECCheese on YouTube).
-File:Manchester Video Wall + Dance Floor.jpg|Manchester's interior as of April 2024 (PC: dmckill on Instagram).
-File:Chuck e cheese manchester nh 2 stage.png|The former 2-Stage in Manchester, NH.
-File:Screenshot (8).png|Another view of the stage with the curtains closed.
-</gallery>
+
 
 ##References##
 

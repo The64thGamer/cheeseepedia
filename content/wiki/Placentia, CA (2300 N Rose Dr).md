@@ -6,7 +6,7 @@ date = 2024-06-28T20:27:54Z
 
 [Article]
 contributors = ["ChuckECool","216.125.34.66","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic"]
-gallery = ["PlacentiaRoadStageMidLate1990s.jpg|thumb|The","PlacentiaExteriorBefore2005Update.jpg|The","ChuckE&HelenPlacentiaCA.jpg|Chuck","HelenMunchJasper&PasquallyPlacentiaCA2007.jpg|Helen,","PlacentiaCARoadStage20170916.jpg|The"]
+gallery = []
 +++
 {{Generic|desc=Street View of the store's Exterior in September 2022 (PC: Google Maps)|image=Placeentia2022SeptemberGoogleMaps.png}}
 
@@ -68,14 +68,8 @@ in April 2023, Placentia began the 2.0 remodel, during this time the Road Stage 
 |Destroyed/Unknown
 |}
 
-##Gallery##
-[https://www.showbizpizza.com/photos/cec/ca_placentia/index.html 2007]<gallery>
-File:PlacentiaRoadStageMidLate1990s.jpg|thumb|The store's Road Stage in around the 1990's (Probably Mid-Late 90s) (PC: Unknown)
-File:PlacentiaExteriorBefore2005Update.jpg|The store's exterior from before the 2005 remodel back in 2007 (PC: showbizpizza.com)
-File:ChuckE&HelenPlacentiaCA.jpg|Chuck E. & Helen performing a song from the April 2007 show (PC: showbizpizza.com)
-File:HelenMunchJasper&PasquallyPlacentiaCA2007.jpg|Helen, Munch, Jasper, & Pasqually performing a song from the April 2007 show (PC: showbizpizza.com)
-File:PlacentiaCARoadStage20170916.jpg|The store's Road Stage on September 16th, 2017 (PC: Santiago Salvador)
-</gallery>
+
+[https://www.showbizpizza.com/photos/cec/ca_placentia/index.html 2007]
 
 ##Videos##
 {| class='wikitable'

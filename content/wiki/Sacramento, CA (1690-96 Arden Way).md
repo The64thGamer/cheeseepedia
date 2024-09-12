@@ -116,9 +116,8 @@ On January 22nd, 2024, the store would remove its 1-Stage in favor of its 2.0 Re
 |
 |Unknown/Destroyed
 |}
-##Gallery##
-<gallery>
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 |+YouTube Videos

@@ -6,7 +6,7 @@ date = 2024-02-07T01:20:47Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["SmileAmericaCommercialGif.gif|thumb|266x266px|Kiddie Dog as seen in the [[Smile America - 'Alice' (Commercial)|Smile America - 'Alice'"]
 +++
 {{Menu Item|image=Kiddiedog1982promo.png|daterelease=1980|price=(1982) $0.99, (1983) $1.29|dateremove=1984|menugroup=Sandwich}}The **_Kiddie Dog**_ was a Pizza Time Theatre menu item introduced in 1980 as a smaller variant of [Jasper's Giant Hot Dog]({{< ref "wiki/Jasper's Giant Hot Dog (PTT Menu Item).md" >}}).
 
@@ -21,6 +21,6 @@ The hot-dog would start at $0.99 in price upon release.<ref>https://www.newspape
 * Hot Dog Bun
 
 The item is served in a woven food basket on top of either deli paper or wax paper. A toppings bar was available which offered onions, piccalilli, horseradish, and mustard.
-[[File:SmileAmericaCommercialGif.gif|thumb|266x266px|Kiddie Dog as seen in the [[Smile America - 'Alice' (Commercial)|Smile America - 'Alice']] Commercial]]
+ Commercial]]
 
 ## References ##

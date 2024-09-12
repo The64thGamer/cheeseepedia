@@ -6,7 +6,7 @@ date = 2023-08-07T03:38:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Middle","99278C21-BA79-4F05-AED2-F2F811041798.jpg|Creative"]
+gallery = []
 +++
 {{Showtape
 |date=1984
@@ -43,7 +43,3 @@ gallery = ["Middle","99278C21-BA79-4F05-AED2-F2F811041798.jpg|Creative"]
 #**Segment 14**
 ##Girls Just Wanna Have Fun
 ## Showtape Scans / Images##
-<gallery>
-File:Middle of Road Surplus.jpg|Reel Case Side
-File:99278C21-BA79-4F05-AED2-F2F811041798.jpg|Creative Engineering Documented Show List
-</gallery>

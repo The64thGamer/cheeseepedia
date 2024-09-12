@@ -6,7 +6,7 @@ date = 2023-02-06T02:38:00Z
 
 [Article]
 contributors = ["JamesLemony"]
-gallery = ["Backdrop.jpg|Backdrop","FloorPiece.jpg|Floor","FrontAssemble.jpg|Front","Clouds.jpg|Cloud"]
+gallery = []
 +++
 The **_Pizza Time Theatre Around the World theme**_ was a temporary alteration to the stage and character designs for use in the 1980 [Around the World with Madam Oink]({{< ref "wiki/Around the World with Madam Oink.md" >}}) showtape.
 
@@ -30,10 +30,4 @@ The **_Pizza Time Theatre Around the World theme**_ was a temporary alteration t
 ##Character Design##
 
 Characters retained normal outfits. 
-##Gallery##
-<gallery>
-File:Backdrop.jpg|Backdrop assembly.
-File:FloorPiece.jpg|Floor piece assembly.
-File:FrontAssemble.jpg|Front assembly of clouds and buildings.
-File:Clouds.jpg|Cloud assembly.
-</gallery>
+

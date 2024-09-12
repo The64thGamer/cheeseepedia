@@ -6,7 +6,7 @@ date = 2023-01-31T01:15:58Z
 
 [Article]
 contributors = ["Ceclife13","The 64th Gamer","Documentor"]
-gallery = ["Holiday"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E.'s Holiday Party
@@ -26,32 +26,32 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 
 ## Existing Show List: ##
 
-# [[File:New Graphic.png]] **Segment 1**
+#  **Segment 1**
 ## 'Holly Jolly Christmas'
 ## 'White Christmas'
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## Chuck E.'s Ski Trip
 ## The Durby
 ## Commercial Free Christmas (First release only)
-#[[File:New Graphic.png]] **Segment 2**
+# **Segment 2**
 ## 'Mele Kalikimaka'
 ## 'Feliz Navidad'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ##Veggietales - 'Oh Santa!'
 ##Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
-# [[File:New Graphic.png]] **Segment 3**
+#  **Segment 3**
 ## '12 Days of Christmas'
 ## 'Dreidel Song'
-#[[File:New Graphic.png]]  **Intermission 3**
+#  **Intermission 3**
 ## Baking With Betty - 'Potato Latkes'
 ##Super Jasper - 'Canine Snowball'
-# [[File:New Graphic.png]] **Segment 4**
+#  **Segment 4**
 ##'Big Band Santa'
 ##'Holiday Medley'
 ###'Jingle Bells'
 ###'Deck The Halls'
 ###'We Wish You A Merry Christmas'
-# [[File:New Graphic.png]] **Intermission 4**
+#  **Intermission 4**
 ## Book Your Party Online Promo (Existing Stages only)
 ## Up On The Housetop
 
@@ -59,7 +59,7 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 **During this time Lives would be on seperate VHS tapes for MMBB based stores.**
 
 * Birthday Star 95'
-* [[File:New Graphic.png]] Rockin' Christmas Eve
+*  Rockin' Christmas Eve
 * Chuck E. March
 * Havin' A Party
 * Chuck E's Fiesta Mexicana
@@ -72,11 +72,7 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 **Birthday Break**: Holiday Party logo set to music for 3 minutes. This would then lead into the Birthday show.
 
 ##Showtape Scans / Images:##
-<gallery>
-Holiday 1999.jpg|3-Stage Front SVHS
-Holiday 1999 Side.jpg|3-Stage Side SVHS
-File:Holiday 2001 SC Disc.jpg|Studio C DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 

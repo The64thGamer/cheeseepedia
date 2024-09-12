@@ -6,9 +6,9 @@ date = 2023-08-24T20:23:03Z
 
 [Article]
 contributors = ["CEC Kokomo"]
-gallery = []
+gallery = ["Bakersfield ptt.jpg|thumb|The site of the Bakersfield PTT today."]
 +++
-[[File:Bakersfield ptt.jpg|thumb|The site of the Bakersfield PTT today.]]
+
 **_3420 Ming Ave**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in December 1981 (day unknown) and closed in 1984 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 This is not to be confused with [Bakersfield, CA (3760 Ming Ave)]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}}), which opened on November 16, 1982 as a Showbiz Pizza and is still open today with 2.0.

@@ -6,7 +6,7 @@ date = 2022-10-20T17:03:48Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Happy Holidays 2007
@@ -28,16 +28,16 @@ gallery = []
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
 # **Intermission 2**
-## [[File:New Graphic.png]] Coke Spot
+##  Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
-## [[File:New Graphic.png]] Maya & Miguel
+##  Maya & Miguel
 ##Holiday VJ Spot - Laura
 # **Segment 2**
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
 # **Intermission 3**
 ## Eddie Coker - 'Happy Holidays'
-##  [[File:New Graphic.png]] Clifford The Big Red Dog
+##   Clifford The Big Red Dog
 ## Chuck E.'s Ski Trip
 ##Holiday VJ Spot - Evan
 # **Segment 3**
@@ -45,7 +45,7 @@ gallery = []
 ## 'I Heard The Bells'
 # **Intermission 4**
 ##Ken Chuck E. Derby
-## [[File:New Graphic.png]] Coke Spot
+##  Coke Spot
 ## Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
 ##Holiday VJ Spot - Laura
 #**Segment 4**
@@ -54,9 +54,9 @@ gallery = []
 
 
 ## Lives: ##
-* [[File:New Graphic.png]]Chicken Dance
+* Chicken Dance
 *Birthday Star 2001
-*[[File:New Graphic.png]] Birthday Extravaganza 2007
+* Birthday Extravaganza 2007
 *BINGO
 *Happy and You Know It
 *Havin' A Party 2001
@@ -67,10 +67,7 @@ gallery = []
 *Chuck E. Shuffle
 
 ##Showtape Scans / Images:##
-<gallery>
-Holiday07StdC.png|Studio C DVD
-Holiday073stg.jpg|3-Stage DVD
-</gallery>
+
 
 
 ## Trivia: ##

@@ -6,9 +6,9 @@ date = 2024-04-08T02:18:15Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
-gallery = ["ArticulatedMunchJacket.jpg|thumb|The","ArticulatedMunchGal5k.jpg|thumb|The"]
+gallery = ["ArticulatedMunch.jpg|thumb|The articulated Munch head paired with his standard outfit in the August 1997 show."]
 +++
-[[File:ArticulatedMunch.jpg|thumb|The articulated Munch head paired with his standard outfit in the August 1997 show.]]
+
 The articulated Munch walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irvin. This head was used in three different showtapes, those being:
 
 * August 1996
@@ -21,8 +21,4 @@ In preparation for the Galaxy 5000 movie, the articulated head was refurbished b
 
 As of 2024, it is unknown of where the head or any other accompanying parts could be.
 
-##Gallery##
-<gallery>
-File:ArticulatedMunchJacket.jpg|thumb|The articulated Munch head paired with fur body + legs, green tie, and black jacket in the August 1997 show.
-File:ArticulatedMunchGal5k.jpg|thumb|The articulated Munch head paired with his standard outfit and a yellow hat in the Galaxy 5000 movie.
-</gallery>
+

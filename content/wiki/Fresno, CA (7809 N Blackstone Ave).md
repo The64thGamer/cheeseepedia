@@ -6,7 +6,7 @@ date = 2024-03-29T14:16:25Z
 
 [Article]
 contributors = ["The 64th Gamer","Rexburg090","2600:4040:5A0E:D900:9CCC:4391:297E:5876","Freddyplayz855","Cheeseclassic"]
-gallery = ["Cec-fresno.jpg|Store","FesnoBlackstonePre2013RemodelExterior.png|A","FresnoBlackstoneExterior2022AugustGoogleMaps.png|Exterior"]
+gallery = []
 +++
 {{Generic|image=2.0 Fresno Blackstone.jpg|desc=Exterior (2024)}}
 
@@ -50,12 +50,8 @@ Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in
 |Unknown/Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Cec-fresno.jpg|Store Blueprint
-File:FesnoBlackstonePre2013RemodelExterior.png|A photo of the store's Exterior before the 2013 Update (PC: Unknown)
-File:FresnoBlackstoneExterior2022AugustGoogleMaps.png|Exterior (August 2022)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

@@ -6,7 +6,7 @@ date = 2023-11-15T21:19:40Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]
-gallery = ["cedarapids1992.png|Cedar"]
+gallery = []
 +++
 {{Generic|desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg}}
 **_170 Collins Rd NE, Store #956**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened on November 26, 1981 with a Rock-Afire Explosion, and closed in November 2013.
@@ -131,10 +131,8 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 |Unknown/Destroyed.
 |}
 
-##Gallery##
-<gallery>
-File:cedarapids1992.png|Cedar Rapids exterior as a Showbiz Pizza. (1992)
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 !Link

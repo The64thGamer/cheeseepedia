@@ -6,9 +6,9 @@ date = 2023-08-28T17:41:19Z
 
 [Article]
 contributors = ["Rexburg090","CECBowlingGreen","73.218.229.96","ChuckfeldStan"]
-gallery = ["WaterburyPre2005RemodelExterior.jpg|thumb|The"]
+gallery = ["WaterburyCTExterior2019MayGoogleMaps.png|thumb|Street view of the exterior in May 2019 (PC: Google Maps)"]
 +++
-[[File:WaterburyCTExterior2019MayGoogleMaps.png|thumb|Street view of the exterior in May 2019 (PC: Google Maps)]]
+
 **_650 Wolcott St, Store #463**_ was a _Chuck E. Cheese's_ that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. 
 
 This location should not be confused with [Waterbury, CT (983 Wolcott St)]({{< ref "wiki/Waterbury, CT (983 Wolcott St).md" >}}) which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), that location was the first Chuck E. Cheese's location opened in the New England region. 
@@ -62,10 +62,8 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 |Unknown
 |}
 
-## Gallery ##
-<gallery>
-File:WaterburyPre2005RemodelExterior.jpg|thumb|The store's exterior before the 2005 Remodel (PC: Unknown) (2000's)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

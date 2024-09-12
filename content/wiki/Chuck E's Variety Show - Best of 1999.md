@@ -6,7 +6,7 @@ date = 2024-04-04T23:34:20Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Ceclife13","John95","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E.'s Variety Show
@@ -32,7 +32,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 2** 
 ## Laugh Tracks
 ## The Announcer
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 3**
 ## Disco Chuck (Parody of [https://en.wikipedia.org/wiki/Disco_Duck Disco Duck])
 # **Intermission 3**
@@ -42,7 +42,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 4**
 ## A Day At The Movies
 ## Drawing Chuck E.
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 5** 
 ## Rockin' Robin
 # **Intermission 5**
@@ -52,7 +52,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 6**
 ## Larry The Technician - 'Introduction 2'
 ## Ratings
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 7**
 ## Hip Mouse (Parody of [https://en.wikipedia.org/wiki/Brick_House_(song) Brick House])
 # **Intermission 7**
@@ -62,7 +62,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 8** 
 ## Super Jasper - 'Jumping the Cadillac Ranch'
 ## Pondwatch 
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 9** 
 ## Chuck E. Town (Parody of [https://en.wikipedia.org/wiki/Funkytown Funky Town])
 # **Intermission 9** 
@@ -72,7 +72,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 10** 
 ## Memories Are Forever
 ## The Virtuoso
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 11**
 ## Cheese Pizza Is Pure Delight (Parody of [https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise Cheeseburger in Paradise])
 ## Boat Of Love 
@@ -80,7 +80,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 11**
 ## Name That Cheese
 ## Larry The Technician - 'Just Hang In There'
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 12**
 ## We All Love Music
 # **Intermission 12**
@@ -89,8 +89,8 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 ## We Are The Same
 # **Intermission 13**
 ## I Like This Game
-## [[File:New Graphic.png]] Baking With Betty - 'Vegetable Medley'
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  Baking With Betty - 'Vegetable Medley'
+##  CEC TV ID - 'Cows'
 ## Book Your Party Online
 
 ## Studio C Show List: ##
@@ -104,7 +104,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 2** 
 ## Laugh Tracks
 ## The Announcer
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 3**
 ## Disco Chuck (Parody of [https://en.wikipedia.org/wiki/Disco_Duck Disco Duck])
 # **Intermission 3**
@@ -114,7 +114,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 4**
 ## A Day At The Movies
 ## Drawing Chuck E.
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 5** 
 ## Rockin' Robin
 # **Intermission 5**
@@ -124,7 +124,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 6**
 ## Larry The Technician - 'Introduction 2'
 ## Ratings
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 7**
 ## Hip Mouse (Parody of [https://en.wikipedia.org/wiki/Brick_House_(song) Brick House])
 # **Intermission 7**
@@ -134,7 +134,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 8** 
 ## Super Jasper - 'Jumping the Cadillac Ranch'
 ## Pondwatch 
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 9** 
 ## Chuck E. Town (Parody of [https://en.wikipedia.org/wiki/Funkytown Funky Town])
 # **Intermission 9** 
@@ -144,7 +144,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 10** 
 ## Memories Are Forever
 ## The Virtuoso
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 11**
 ## Cheese Pizza Is Pure Delight (Parody of [https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise Cheeseburger in Paradise])
 # **Intermission 11**
@@ -154,7 +154,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 ## We Sail The Ocean Blue
 # **Intermission 12**
 ## Larry The Technician - 'Just Hang In There'
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 # **Segment 13**
 ## We All Love Music
 # **Intermission 13**
@@ -164,7 +164,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 # **Intermission 14**
 ## I Like This Game
 ## Baking With Betty - 'Vegetable Medley'
-## [[File:New Graphic.png]] CEC TV ID - 'Cows'
+##  CEC TV ID - 'Cows'
 
 ## Lives: ##
 **During this time Lives would be on seperate VHS tapes for MMBB based stores.**
@@ -185,11 +185,7 @@ Featured 13 segments for Existing and 14 segments for Studio C which use various
 **Birthday Break**: Chuck E.'s Variety Show logo with music set to a 1 minute, 2 minute or 3 minute countdown. This would then lead into the Birthday show.
 
 ##Showtape Scans / Images:##
-<gallery>
-Jan00Floppy.png|Studio C Floppy
-Jan00P1P2.png|Studio C DVD
-Jan00P3.png|Studio C Player 3 DVD
-</gallery>
+
 
 ## Trivia: ##
 

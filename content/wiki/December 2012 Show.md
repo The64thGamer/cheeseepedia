@@ -6,7 +6,7 @@ date = 2024-03-24T21:23:48Z
 
 [Article]
 contributors = ["Documentor","Montfortdog","John95","Ceclife13","The 64th Gamer","Cy's Junk at School"]
-gallery = ["2012happyholidaysshowtape.png|CEC-Stage"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's holiday 2013 Show
@@ -36,27 +36,27 @@ the more you get.}}
 ## Chillout 1 
 # **Song 2** 
 ## 'Up on the Housetop'
-# [[File:New Graphic.png]] **Intermission 2** 
+#  **Intermission 2** 
 ## Fraggle Rock - 'Traveling Matt 1'
 ## Chillout 2 
 # **Song 3** 
 ## Jolly Old St. Nicholas
-# [[File:New Graphic.png]] **Intermission 3** 
+#  **Intermission 3** 
 ## My Little Pony - 'Christmas Pageant'
 ## Chillout 3 
 # **Song 4**
 ## Oh Christmas Tree
-# [[File:New Graphic.png]] **Intermission 4** 
+#  **Intermission 4** 
 ## Veggie Tales - 'The 8 Polish Foods of Christmas'
 ## Chillout 4 
 # **Song 5** 
 ## Jingle Bells
 # **Intermission 5** 
-## [[File:New Graphic.png]] 'Fraggle Rock' - 'Snow Song'
+##  'Fraggle Rock' - 'Snow Song'
 ## Chillout 5 
 # **Song 6** 
 ## I Heard the Bells on Christmas Day
-# [[File:New Graphic.png]] **Intermission 6** 
+#  **Intermission 6** 
 ## Pound Puppies - 'Dog Sled Race'
 ## Chillout 6 
 # **Song 7** 
@@ -68,7 +68,7 @@ the more you get.}}
 ## Toyland / March of the Wooden Solider
 # **Intermission 8** 
 ## Baking with Betty - 'Potato Latkes'
-## [[File:New Graphic.png]] Chillout 8
+##  Chillout 8
 # **Song 9** 
 ## We Wish You a Merry Christmas / Here We Come a Wassailing 
 # **Intermission 9**
@@ -85,10 +85,8 @@ the more you get.}}
 *LIVE Happy & U Know It (3stage, Cyberamic, Studio C,Weigl)
 *LIVE Chuck E.'s March (3stage, Cyberamic, Studio C,Weigl)
 
-## Gallery ##
-<gallery>
-File:2012happyholidaysshowtape.png|CEC-Stage DVD
-</gallery>
+
+
 
 ## Trivia ##
 

@@ -6,7 +6,7 @@ date = 2024-07-28T14:55:30Z
 
 [Article]
 contributors = ["BurgersNuggs445","ThatBoiCydalan","Rexburg090","RedaCEC","CorrectorMan","CEC Tinley","199.197.71.7","Jerry CEC","Saan1ty","AstridMascotFan2005"]
-gallery = ["IrvingCECShowbiz90s.png|As","Irving","Irving","Irving","Irving","Irving","Irving","Irving"]
+gallery = []
 +++
 {{Generic|desc=Irving featured in Blueprint Magazine (2022)|image=Irving 2022.jpg}}
 **_Irving, TX (3903 W Airport Fwy), Store #81**_ is a _Chuck E. Cheese's_ that opened in 1988 under the name Showbiz Pizza with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}).
@@ -133,17 +133,8 @@ In 2015 the location received its third remodel, receiving new art, multicolored
 |September 17, 2021
 |}
 
-##Gallery##
-<gallery>
-File:IrvingCECShowbiz90s.png|As a Showbiz Pizza (1991)
-File:Irving TX Remodel-008.jpg|Lean, Mean, Washing Machine
-File:Irving 2002.png|2002
-File:Irving 2003.png|2003
-File:Irving tx cec rare yellow sweater street sign.jpg|Street sign prior to the ['Cool Chuck' Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) (Unknown Year)
-File:Irving 2006.jpg|CV3 (July, 2006)
-File:Irving 2015.jpg|alt=Exterior photo taken by Ashley Landis.|April 8, 2015
-File:Irving 2022 Showroom.jpg|Showroom (2022)
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

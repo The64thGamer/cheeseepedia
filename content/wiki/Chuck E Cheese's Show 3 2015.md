@@ -6,7 +6,7 @@ date = 2024-05-08T23:53:52Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","MultiMonorail","Cy's Junk at School"]
-gallery = ["33335555.jpg|CEC-Stage","Show315Sc.png|Studio"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 3 2015 Show
@@ -24,38 +24,38 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 
 ## Show List: ##
 
-# [[File:New Graphic.png]]**Intermission 1** 
+# **Intermission 1** 
 ## Carly Rae Jepson - 'I Really Like You'
 ## Decoder Joke 1 
 ## Josh & The Jamtones - 'Bear Hunt: The Final Skit'
-# [[File:New Graphic.png]]**Skit 1** 
+# **Skit 1** 
 ## Chuck E. Cheese - 'Giant Armadillo Named Phil'
 # **Intermission 2** 
-## [[File:New Graphic.png]]Sabrina Carpenter - 'We'll Be The Stars'
-## [[File:New Graphic.png]]Cartoon Network - 'Steven Universe 1'
-## [[File:New Graphic.png]]CEC Promo - 'Reading with Chuck E.'
-## [[File:New Graphic.png]]Taylor Swift & Ed Sheeran - 'Everything Has Changed'
-## [[File:New Graphic.png]]Decoder Joke 2 
-## [[File:New Graphic.png]]Josh & The Jamtones - 'Fill It Up'
-## [[File:New Graphic.png]]Daft Punk & Pharrell Williams - 'Lose Yourself to Dance'
+## Sabrina Carpenter - 'We'll Be The Stars'
+## Cartoon Network - 'Steven Universe 1'
+## CEC Promo - 'Reading with Chuck E.'
+## Taylor Swift & Ed Sheeran - 'Everything Has Changed'
+## Decoder Joke 2 
+## Josh & The Jamtones - 'Fill It Up'
+## Daft Punk & Pharrell Williams - 'Lose Yourself to Dance'
 ## CEC Sketch - 'Pizza Plant'
-## [[File:New Graphic.png]]Cartoon Network - 'Clarence'
-## [[File:New Graphic.png]]'N Sync - 'It's Gonna Be Me'
-## [[File:New Graphic.png]]Josh & The Jamtones - 'Bear Hunt in 60 Seconds'
+## Cartoon Network - 'Clarence'
+## 'N Sync - 'It's Gonna Be Me'
+## Josh & The Jamtones - 'Bear Hunt in 60 Seconds'
 ## CEC Promo - 'Birthdays'
-## [[File:New Graphic.png]]Coldplay - 'Sky Full of Stars
-## [[File:New Graphic.png]]Decoder Joke 3 
-## [[File:New Graphic.png]]Cartoon Network - 'Uncle Grandpa 1'
-# [[File:New Graphic.png]]**Skit 2** 
+## Coldplay - 'Sky Full of Stars
+## Decoder Joke 3 
+## Cartoon Network - 'Uncle Grandpa 1'
+# **Skit 2** 
 ## Chuck E. Cheese - 'In The Future'
 # **Intermission 3** 
 ## Josh & The Jamtones - 'John Jacob'
 ## CEC Promo - 'Fundraiser'
-## [[File:New Graphic.png]]Cartoon Network - 'Steven Universe 2'
-## [[File:New Graphic.png]]One Direction - 'Night Changes'
-## [[File:New Graphic.png]]Decoder Joke 4
-## [[File:New Graphic.png]]Josh & The Jamtones - 'Bear Hunt Trailer'
-## [[File:New Graphic.png]]Cartoon Network - 'Uncle Grandpa 2'
+## Cartoon Network - 'Steven Universe 2'
+## One Direction - 'Night Changes'
+## Decoder Joke 4
+## Josh & The Jamtones - 'Bear Hunt Trailer'
+## Cartoon Network - 'Uncle Grandpa 2'
 
 ## Live Shows: ##
 *Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
@@ -72,10 +72,7 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 *[https://www.youtube.com/watch?v=iOtUrLwhA0A 'In The Future' on YouTube] 
 
 ##Showtape Scans / Images:##
-<gallery>
-File:33335555.jpg|CEC-Stage DVD
-File:Show315Sc.png|Studio C DVD
-</gallery>
+
 
 ## Trivia: ##
 

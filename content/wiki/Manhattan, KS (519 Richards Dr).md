@@ -74,9 +74,8 @@ In 1993, the location closed for unknown reasons.
 |N/A
 |Unknown/Destroyed.
 |}
-##Gallery##
-<gallery>
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 |+

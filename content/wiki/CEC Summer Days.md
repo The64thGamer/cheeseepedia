@@ -6,7 +6,7 @@ date = 2024-09-03T23:32:54Z
 
 [Article]
 contributors = ["DerekCat"]
-gallery = []
+gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++
 To Do:
 
@@ -19,7 +19,7 @@ To Do:
 ### ?
 ### ?
 ## Cyberstar Intro
-# **[[File:New_Graphic.png]]Segment 1**
+# **Segment 1**
 ## [https://en.wikipedia.org/wiki/I%27m_Down I'm Bored (Parody of I'm Down)]
 ## The Chuck E. Cheese Summertime Couch Potato Quiz Skit
 ## [https://en.wikipedia.org/wiki/Get_on_Your_Feet Get on Your Feet]
@@ -40,7 +40,7 @@ To Do:
 ### ?
 ### ?
 ## Cyberstar Intro
-# **[[File:New_Graphic.png]]Segment 2**
+# **Segment 2**
 ## [https://en.wikipedia.org/wiki/Hot_Fun_in_the_Summertime Hot Fun in the Summertime]
 ## Get Up & Go Travel Skit
 ## [https://en.wikipedia.org/wiki/Kokomo_(song) Kokomo]
@@ -60,7 +60,7 @@ To Do:
 ### ?
 ### ?
 ## Cyberstar Intro
-# **[[File:New_Graphic.png]]Segment 3**
+# **Segment 3**
 ## [https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polkadot_Bikini Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini]
 ## Wild Fashions Skit
 ## [https://en.wikipedia.org/wiki/Hip_to_Be_Square Hip To Be Square]

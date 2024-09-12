@@ -9,6 +9,3 @@ contributors = ["The 64th Gamer"]
 gallery = []
 +++
 ##Showtape Scans / Images:##
-<gallery>
-BusinessCard_2021-08-09_164724.jpg|Studio C Floppy Scan
-</gallery>

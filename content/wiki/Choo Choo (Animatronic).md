@@ -6,7 +6,7 @@ date = 2024-05-20T17:46:02Z
 
 [Article]
 contributors = ["CECBowlingGreen","RedaCEC","CEC Tinley","2603:6080:7C06:6500:103E:BBE5:9852:733D","Yes-?!214","The 64th Gamer","CECMentor"]
-gallery = ["Wilmington,"]
+gallery = []
 +++
 {{Animatronic|releasedate=1980|manufacturer=Creative Engineering|image=Choo Choo 2.jpg}}
 
@@ -26,7 +26,4 @@ The last official Munch Jr. in a store was at the Wilmington, North Carolina loc
 |Raise Up
 |}
 
-## Gallery ##
-<gallery>
-File:Wilmington, NC Munch Jr..png|Wilmington, NC Munch Jr. (Store closed in October 2020)
-</gallery>
+

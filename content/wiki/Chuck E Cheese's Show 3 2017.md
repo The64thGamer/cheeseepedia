@@ -6,7 +6,7 @@ date = 2022-02-10T03:32:19Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 3 2017
@@ -24,61 +24,61 @@ This was created to play from April 10th 2017. - May 20th 2017. This show featur
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## 40 Years of Fun - '1970s'
 # **Intermission 2**
-## [[File:New Graphic.png]] Bee Gees - 'Stayin' Alive'
-## [[File:New Graphic.png]] 1977 Pizza Time Theater Montage
-## [[File:New Graphic.png]] Floogals - 'Birthday Cake'
+##  Bee Gees - 'Stayin' Alive'
+##  1977 Pizza Time Theater Montage
+##  Floogals - 'Birthday Cake'
 ## Chef Gregory & Ronnie the Unicorn
 # **Skit 2**
 ## Chuck E. & Friends - 'Remember That Time'
-# [[File:New Graphic.png]] **Intermission 3**
+#  **Intermission 3**
 ## Splash & Bubbles - 'Rhythm of the Reef'
 ## Jo Jo & The Pinecones - 'Breakfast For Dinner'
 ## 40 Years of Fun TV Spot
 ## Showbiz Pizza Cyberstar Intro
-# [[File:New Graphic.png]] **Skit 3**
+#  **Skit 3**
 ## 40 Years of Fun - '1980s'
 # **Intermission 4**
-## [[File:New Graphic.png]] Whitney Houston - 'I Wanna Dance With Somebody'
-## [[File:New Graphic.png]] 1980s Chuck E. Cheese's Pizza Time Theatre Commercial
-## [[File:New Graphic.png]] Musing With Munch: Episode 1
+##  Whitney Houston - 'I Wanna Dance With Somebody'
+##  1980s Chuck E. Cheese's Pizza Time Theatre Commercial
+##  Musing With Munch: Episode 1
 ## Ticket Dance
 # **Skit 4**
 ## Chuck E. & Munch's Make Believe Band - 'Together We've Got It'
 # **Intermission 5**
-## [[File:New Graphic.png]] Secret Agent 23 Skidoo - 'Family Tree'
+##  Secret Agent 23 Skidoo - 'Family Tree'
 ## Buffet
 ## CEC TV 1990s Promo
-#[[File:New Graphic.png]] **Skit 5**
+# **Skit 5**
 ##40 Years of Fun - '1990s'
 # **Intermission 6** 
-## [[File:New Graphic.png]] The Rembrandts - 'I'll Be There For You'
-##[[File:New Graphic.png]] 1990s Chuck E. Cheese's Commercial
+##  The Rembrandts - 'I'll Be There For You'
+## 1990s Chuck E. Cheese's Commercial
 ##Caspar Babypants - 'Mr. Rabbit'
-##CEC Birthday Spot - 'Fishing'[[File:New Graphic.png]]
+##CEC Birthday Spot - 'Fishing'
 #**Skit 6**
 ##Chuck E. & Munch's Make Believe Band - 'Chuck E.'s Place 2017'
-#[[File:New Graphic.png]] **Intermission 7**
+# **Intermission 7**
 ##Ruff Ruff Tweet & Dave - 'Birthday'
 ##Stuffed Crust Pizza Promo
-##CEC TV 2000s Promo[[File:New Graphic.png]]
+##CEC TV 2000s Promo
 #**Skit 7**
 ##40 Years of Fun - '2000s'
-# [[File:New Graphic.png]] **Intermission 8**
+#  **Intermission 8**
 ##Gwen Stefani - 'Sweet Escape'
 ##2000s Chuck E. Cheese's Commercial
 ##SpacePop - 'My Girls'
 ## Jokes From Pasqually - 'Spots'
-#[[File:New Graphic.png]] **Skit 8**
+# **Skit 8**
 ##40 Years of Fun - '2017'
-#[[File:New Graphic.png]] **Intermission 9**
+# **Intermission 9**
 ##Alessia Cara - 'How Far I'll Go' (From Disney's 'Moana')
 ##New Cakes Promo
 ##My Little Pony - 'Friendship Lessons'
 ##Guiness Book Of World Records Part Blowers Promo
-#[[File:New Graphic.png]] **Skit 9**
+# **Skit 9**
 ##Chuck E. & Friends - 'Trio'
 
 ##Lives:## 
@@ -86,7 +86,7 @@ This was created to play from April 10th 2017. - May 20th 2017. This show featur
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
-*[[File:New Graphic.png]] Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
+* Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
 
 *Happy Dance (3stage, Cyberamic, Studio C,Weigl)
 *Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
@@ -100,10 +100,7 @@ This was created to play from April 10th 2017. - May 20th 2017. This show featur
 *[https://www.youtube.com/watch?v=GcMQWJYKTps 'Me & My Friends' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-s-l1600 (37).jpg|CEC-Stage DVD
-adadad.png|Studio C DVD Scan
-</gallery>
+
 
 ##Trivia:##
 

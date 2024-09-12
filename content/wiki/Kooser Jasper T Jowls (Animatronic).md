@@ -6,7 +6,7 @@ date = 2024-04-06T23:31:21Z
 
 [Article]
 contributors = ["EagleScout610","MultiMonorail","The 64th Gamer","216.125.34.66","FileFickle"]
-gallery = ["newspaper_dawg.jpg|Newspaper,","3hg354f24g3f23f24gr32f.png|1979","F324f3g458k7j5h4gf3dfg5h46j.png|1979","Kooser_Jasper.png|Promotional"]
+gallery = []
 +++
 {{Generic|image=Th3g42r3g4g4r23rg.png|desc=1979 Footage}}
 
@@ -26,10 +26,4 @@ Kooser Jasper, like the other Kooser animatronics, is the upgraded version of Wi
 *Hands
 *Head up
 
-##Gallery##
-<gallery>
-File:newspaper_dawg.jpg|Newspaper, 1979
-File:3hg354f24g3f23f24gr32f.png|1979 Footage
-File:F324f3g458k7j5h4gf3dfg5h46j.png|1979 Footage
-File:Kooser_Jasper.png|Promotional Photo, December 1978.
-</gallery>
+

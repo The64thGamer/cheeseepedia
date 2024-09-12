@@ -6,10 +6,6 @@ date = 2023-03-27T01:21:59Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["g344gg433g443g3g4.jpg","24g24g2424g24g4g2.jpg"]
+gallery = []
 +++
-##Gallery##
-<gallery>
-File:g344gg433g443g3g4.jpg
-File:24g24g2424g24g4g2.jpg
-</gallery>
+

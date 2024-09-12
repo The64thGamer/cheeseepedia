@@ -49,7 +49,7 @@ Grand Rapids would have the 3-Stage until sometime in 1999/2000 when the 3-Stage
 |
 |}
 
-## Gallery ##
+
 [https://www.showbizpizza.com/photos/cec/mi_grandrapids/index.html 2001]
 
 ## Animatronics ##

@@ -6,7 +6,7 @@ date = 2024-07-30T13:24:39Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
-gallery = ["CharlestonSCPhoto1.jpg","CharlestonSCPhoto2.jpg","CharlestonSCPhoto3.jpg","CharlestonSCPhoto4.jpg","CharlestonSCPhoto5.jpg","CharlestonSCPhoto6.jpg","CharlestonSCPhoto7.jpg","CharlestonSCPhoto8.jpg","CharlestonSCPhoto9.jpg","CharlestonSCPhoto10.jpg","CharlestonSCPhoto11.png"]
+gallery = []
 +++
 {{Generic|desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg}}
 
@@ -112,20 +112,8 @@ South Charleston would premiere with a Classic Rock-afire Explosion, as other Sh
 |Destroyed after store closure.
 |}
 
-##Gallery##
-<gallery>
-File:CharlestonSCPhoto1.jpg
-File:CharlestonSCPhoto2.jpg
-File:CharlestonSCPhoto3.jpg
-File:CharlestonSCPhoto4.jpg
-File:CharlestonSCPhoto5.jpg
-File:CharlestonSCPhoto6.jpg
-File:CharlestonSCPhoto7.jpg
-File:CharlestonSCPhoto8.jpg
-File:CharlestonSCPhoto9.jpg
-File:CharlestonSCPhoto10.jpg
-File:CharlestonSCPhoto11.png
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

@@ -137,5 +137,5 @@ New Salem opened between 1988-1989 as the relocation of the original Salem locat
 |Destroyed.
 |}
 
-## Gallery ##
+
 TODO

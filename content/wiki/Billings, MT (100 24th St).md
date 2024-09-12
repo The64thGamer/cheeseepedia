@@ -6,7 +6,7 @@ date = 2024-08-09T15:32:12Z
 
 [Article]
 contributors = ["RedaCEC","173.216.33.6","Rexburg090","ChuckEPediaIsTheBest!","71.31.183.205","The 64th Gamer","BoyInCharge55","2600:4040:5A0E:D900:8CA2:C7CC:54BB:380D","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","Documentor","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]
-gallery = ["BillingsMTSPPBillyBobGreetingKids.png|A","BillingsMTPre2015Exterior.jpg|A","BillingsMT3StageJuly312022.jpg|A","BillingsRightStage.jpg|Stage","BillingsCenterStage.jpg|Center","BillingsCenterStage2.jpg|Another","BillingsLeftStage.jpg|Stage","BillingsChuckAnimatronic.jpg|Chuck","BillingsJasperAnimatronic.jpg|Jasper"]
+gallery = []
 +++
 {{Generic|image=BillingsMTExterior2021AugustGoogleMaps.png|desc=Street view of the store's Exterior before the 2.0 remodel (August 2021) (PC: Google Maps)}}
 
@@ -71,18 +71,8 @@ As of August 2024, The remodel is officially completed.
 |Sets, Streets & Eats
 |March 10, 2024
 |}
-##Gallery##
-<gallery>
-File:BillingsMTSPPBillyBobGreetingKids.png|A photo of the store as an SPP (PC: Bob Zellar, Billings Gazette File Photo). This photo shows Billy Bob greeting some children in the showroom.
-File:BillingsMTPre2015Exterior.jpg|A photo of the store's exterior before they remodeled in 2015 (PC: Unknown)
-File:BillingsMT3StageJuly312022.jpg|A photo of the store's 3-Stage on July 31st, 2022, 1-2 months before the store was acquired by Corporate (PC: Rachelle Sutton-Corbett).
-File:BillingsRightStage.jpg|Stage Right on March 10, 2024. (PC: Con Mag)
-File:BillingsCenterStage.jpg|Center Stage on March 10, 2024. (PC: Con Mag)
-File:BillingsCenterStage2.jpg|Another shot of Center Stage on March 10, 2024. (PC: Con Mag)
-File:BillingsLeftStage.jpg|Stage Left on March 10, 2024. (PC: Con Mag)
-File:BillingsChuckAnimatronic.jpg|Chuck E. Cheese animatronic on March 10, 2024. (PC: Con Mag)
-File:BillingsJasperAnimatronic.jpg|Jasper T. Jowls animatronic on February 11, 2024. (PC: Con Mag)
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

@@ -6,7 +6,7 @@ date = 2022-09-14T03:46:59Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 4 2020
@@ -29,13 +29,13 @@ This was created to play during the 'Winter Winner-Land'.  This show played from
 
 # **Intermission 1**
 ## Social Distancing Message
-## [[File:New Graphic.png]] Chuck E. & Helen Winter Winner-Land Spot
-## [[File:New Graphic.png]] Idina Menzel - 'We Wish You the Merriest' ft. Josh Gad
+##  Chuck E. & Helen Winter Winner-Land Spot
+##  Idina Menzel - 'We Wish You the Merriest' ft. Josh Gad
 # **Skit 1**
 ## Chuck E. & Friends - 'Cookies For Santa'
 # **Intermission 2**
-## [[File:New Graphic.png]] Winter Winner-Land Food & Masks Promo
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Santa Tell Me'
+##  Winter Winner-Land Food & Masks Promo
+##  KIDZ BOP Kids - 'Santa Tell Me'
 ## Brady Rhymer - 'Hanukah Rocks'
 # **Skit 2**
 ## Helen Henny - 'All I Want for Christmas is Snow'
@@ -46,19 +46,19 @@ This was created to play during the 'Winter Winner-Land'.  This show played from
 # **Skit 3**
 ## Bella B. - 'Holiday Fiesta'
 # **Intermission 4**
-## [[File:New Graphic.png]] Chuck E. & Munch Winter Winner-Land Spot
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Christmas (Baby Please Come Home)
+##  Chuck E. & Munch Winter Winner-Land Spot
+##  KIDZ BOP Kids - 'Christmas (Baby Please Come Home)
 ## Holiday Musings with Mr. Munch
 # **Skit 4**
 ## Mr. Munch - 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight'
 # **Intermission 5**
-## [[File:New Graphic.png]] The Winter Winner Dance (Every Hour on the Thirty)
+##  The Winter Winner Dance (Every Hour on the Thirty)
 ## Social Distancing Message
 ## Brad Rhymer - 'Can't Sit Still'
-## [[File:New Graphic.png]] Taylor Swift - 'Christmas Tree Farm'
+##  Taylor Swift - 'Christmas Tree Farm'
 # **Skit 5**
 ## Jasper T. Jowls - 'Snowman'
-# [[File:New Graphic.png]] **Intermission 6**
+#  **Intermission 6**
 ## Winter Winner-Land Food & Masks Promo
 ## HiDino - 'Adventure through the Snow'
 ## The Supremes - 'My Favorite Things'
@@ -66,15 +66,15 @@ This was created to play during the 'Winter Winner-Land'.  This show played from
 ## Chuck E. & Helen - 'Merry Christmastime'
 # **Intermission 7**
 ## Social Distancing Message
-## [[File:New Graphic.png]]Chuck E. & Pasqually Winter Winner-Land Spot
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Little Saint Nick'
+## Chuck E. & Pasqually Winter Winner-Land Spot
+##  KIDZ BOP Kids - 'Little Saint Nick'
 # **Skit 7**
 ## Pasqually - 'What Do You Get a Sasquatch for Christmas?'
 # **Intermission 8**
-## [[File:New Graphic.png]] HiDino - 'The Snow Song'
-## [[File:New Graphic.png]] Leslie Odom Jr - 'Please Come Home for Christmas'
+##  HiDino - 'The Snow Song'
+##  Leslie Odom Jr - 'Please Come Home for Christmas'
 ## Juicebox Jukebox - 'Questions for Santa'
-# [[File:New Graphic.png]]**Skit 8**
+# **Skit 8**
 ## Chuck E. & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -87,16 +87,10 @@ This was created to play during the 'Winter Winner-Land'.  This show played from
 
 * Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
-* [[File:New Graphic.png]]Winner Wonder Dance Live (3stage, Cyberamic, Studio C, Weigl)
+* Winner Wonder Dance Live (3stage, Cyberamic, Studio C, Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show420203stg.png|3-Stage DVD
-EEA6E1C9-ACBF-4F63-8A47-3E3BBDD8F97A.png|Studio C DVD
-eeeddd.jpg|Studio C DVD
-ddddssssss.jpg|Studio C Floppy Disc
 
-</gallery>
 
 ##Official Releases##
 

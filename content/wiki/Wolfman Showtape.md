@@ -6,31 +6,31 @@ date = 2024-05-06T17:04:13Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png"]
 +++
 {{Showtape|date=March 3, 1980|showbizreel=y|image=Wolfmanshowtapethumbnail.jpg|labelname=}}The **_Wolfman Showtape**_ is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side [Wolfman Show]({{< ref "wiki/Wolfman Show.md" >}}) hosted in the Electric Room.<ref name=':0'>http://www.showbizpizza.com/rae/history/index.html</ref>
 
 ##Segments##
 10 segments are confirmed for the tape, but no segment or song names have been cited.<ref name=':0' />
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]**Segment 1**
+#**Segment 1**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]**Segment 2**
+#**Segment 2**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]]**Segment 3**
+#**Segment 3**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 4**
+# **Segment 4**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 5**
+# **Segment 5**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 6**
+# **Segment 6**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 7**
+# **Segment 7**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 8**
+# **Segment 8**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 9**
+# **Segment 9**
 ##???
-#[[File:New Graphic.png|link=https://chuckepedia.com/wiki/File:New_Graphic.png]] **Segment 10**
+# **Segment 10**
 ##???
 
 ## References ##

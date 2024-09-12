@@ -6,7 +6,7 @@ date = 2024-08-25T14:27:06Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445"]
-gallery = ["a59d19fd3adf4da872102c05f122dc6c.png|","1661afd1e2276a76bb814e0bc01b3983.png|","Fd428879158dc82fccb1b7e66fde0779.png|"]
+gallery = ["Pizza&pipesbandboard1.png|thumb|269x269px|Mechanical instruments at the Bellevue, Washington ''Pizza & Pipes''","No Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', without the Drum Board.","Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', with simulated Drum Board using the original programming signals."]
 +++
 {{Generic|image=Bandboard.jpg|desc=An original Band Board alongside other PTT animatronics.}}
 
@@ -15,13 +15,13 @@ The **_Drum Board**_ (also known as the **_Band Board**_) is a series of pneumat
 Each pneumatic movement, in which there were 11, would strike its instrument upon activation, meant to bring real instruments to the entertainment experience. Similar to the Clapper Board (Cyberamic) (Clapper Board), [Flag Wavers]({{< ref "wiki/Flag Wavers (Cyberamic).md" >}}), and [Singing Flowers]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}}), it was an effect outside of the main stage, allowing the performance to extend outside the bounds of it.
 
 ## History##
-[[File:Pizza&pipesbandboard1.png|thumb|269x269px|Mechanical instruments at the Bellevue, Washington _Pizza & Pipes_]]
+
 The initial inspiration for the Drum Board would be between 1970-1971, when Nolan Bushnell would visit the local _Pizza & Pipes_ restaurant in Redwood City for inspiration on his burgeoning arcade restaurant concept. While the visit mainly inspired the need to have entertainment alongside the food, the mechanically operated instruments would later make their way into the first two [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) stores on [Winchester Blvd]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and [Kooser Rd]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}). Then dubbed the [Pizza Time Orchestra]({{< ref "wiki/Winchester Pizza Time Orchestra (Animatronic).md" >}}), it was seen on a shelf beside Jasper T. Jowls amongst random objects.<ref>https://www.si.edu/media/NMAH/NMAH-AC1498_Transcript_NolanBushnell.pdf</ref>
 
 When the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) was created, the showroom dropped its filled shelves and placed the Drum Board on a raised platform near Pasqually, opposite to the Warblettes_._ 
 
 ###Usage in Showtapes###
-The Drum Board was highly used in the initial few years of showtapes, being used in almost every single song. This lessened over each tape, reducing from the main instrumental to just additional sound effects. The last showtape to produce new Drum Board programming was  Madame Oink III - 'Tunnel of Love'. [Skit-Oink 3 Tunnel/Love W/XMAS]({{< ref "wiki/Skit-Oink 3 TunnelLove WXMAS.md" >}}) was a rerelease of Oink III that included a new Christmas segment. This segment notably has no Drum Board usage, making it the first segment to stop new programming for the board. Due to re-use of older segments, the last showtape to ever use the Drum Board was [Madame Oink IV - The Tune Machine]({{< ref "wiki/Madame Oink IV - The Tune Machine.md" >}}).[[File:No Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', without the Drum Board.]][[File:Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', with simulated Drum Board using the original programming signals.]]
+The Drum Board was highly used in the initial few years of showtapes, being used in almost every single song. This lessened over each tape, reducing from the main instrumental to just additional sound effects. The last showtape to produce new Drum Board programming was  Madame Oink III - 'Tunnel of Love'. [Skit-Oink 3 Tunnel/Love W/XMAS]({{< ref "wiki/Skit-Oink 3 TunnelLove WXMAS.md" >}}) was a rerelease of Oink III that included a new Christmas segment. This segment notably has no Drum Board usage, making it the first segment to stop new programming for the board. Due to re-use of older segments, the last showtape to ever use the Drum Board was [Madame Oink IV - The Tune Machine]({{< ref "wiki/Madame Oink IV - The Tune Machine.md" >}}).
 ##Internals##
 
 ###Movement Rosetta###
@@ -131,9 +131,4 @@ And the bottom level held auxiliary instruments and pans.
 * Tambourine
 * Triangle
 
-##Gallery##
-<gallery>
-File:a59d19fd3adf4da872102c05f122dc6c.png|
-File:1661afd1e2276a76bb814e0bc01b3983.png|
-File:Fd428879158dc82fccb1b7e66fde0779.png|
-</gallery>
+

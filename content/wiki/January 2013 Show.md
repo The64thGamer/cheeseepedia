@@ -6,7 +6,7 @@ date = 2023-08-11T08:01:04Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","John95","Ceclife13","RedaCEC","172.58.159.105","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
-gallery = ["Asdwfwfewef.jpg|CEC-Stage","Aaascwew.jpg|CEC-Stage","IMG","Jan13Disc3.png|Studio"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = First Quarter 2013
@@ -24,46 +24,46 @@ This was created to play from from January - March 2013.
 
 ## Show List: ##
 
-# [[File:New Graphic.png]]  **Song 1**
+#   **Song 1**
 ## Workin' For The Weekend
 # **Intermission 1**
-## [[File:New Graphic.png]] Veggietales - 'Happy Toothday'
-## [[File:New Graphic.png]]  Chillout 1 - Circle of Life
+##  Veggietales - 'Happy Toothday'
+##   Chillout 1 - Circle of Life
 ## CEC TV ID - 'Animals'
 
-# [[File:New Graphic.png]] **Song 2**
+#  **Song 2**
 ## Need a New Wheel (Parody of [https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song) Head Over Heels])
 # **Intermission 2**
-## [[File:New Graphic.png]] Fraggle Rock - 'Pass It On'
+##  Fraggle Rock - 'Pass It On'
 ## Chillout 2 - 'Electro Space'
 ## CEC TV ID - 'Gumball Machine'
 
-#  [[File:New Graphic.png]] **Song 3**
+#   **Song 3**
 ## Crocodile Rock
 # **Intermission 3**
-## [[File:New Graphic.png]] My Little Pony - 'Winter Wrap Up'
-## [[File:New Graphic.png]] Super Jasper - 'Break the Record'
+##  My Little Pony - 'Winter Wrap Up'
+##  Super Jasper - 'Break the Record'
 ## Chillout 3 - 'Rock Climbing'
 ## CEC TV ID - 'Digestion' 
 
-# [[File:New Graphic.png]]  **Song 4**
+#   **Song 4**
 ## Sing a Song
 # **Intermission 4**
-## [[File:New Graphic.png]] Tim & the Space Cadets - 'Super Hero'
+##  Tim & the Space Cadets - 'Super Hero'
 ## Chillout 4 - 'Underwater'
 ## CEC TV ID - 'Digital Blue'
 
-#  [[File:New Graphic.png]] **Song 5**
+#   **Song 5**
 ## Everybody Wants To Rule The World
 # **Intermission 5**
-## [[File:New Graphic.png]] Pajanimals - 'Super Squacky'
+##  Pajanimals - 'Super Squacky'
 ## Chillout 5 - 'Time Lapse'
 ## CEC TV ID - 'Pizza Fan'
 
-# [[File:New Graphic.png]]  **Song 6**
+#   **Song 6**
 ## Pizza Oven (Parody of [https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song) Evil Women])
 # **Intermission 6**
-## [[File:New Graphic.png]] Pound Puppies - 'McLeash'
+##  Pound Puppies - 'McLeash'
 ## Hard Hat Hank - 'Door Frame'
 ## Chillout 6 - 'Water Fly Over'
 ## CEC TV ID - 'Skee-Ball'
@@ -71,15 +71,15 @@ This was created to play from from January - March 2013.
 # **Song 7**
 ## Come On Let's Go
 # **Intermission 7**
-##  [[File:New Graphic.png]] Dreamworks - 'Rise of the Guardians'
+##   Dreamworks - 'Rise of the Guardians'
 ## Chillout 7 - 'Desert'
 ## CEC TV ID - 'Break Dance'
 
-# [[File:New Graphic.png]]  **Song 8**
+#   **Song 8**
 ## Get Down On It
 # **Intermission 8**
-## [[File:New Graphic.png]] Aquabats - 'Super Magic Power Man'
-## [[File:New Graphic.png]] Chillout 8 - 'Night Drive'
+##  Aquabats - 'Super Magic Power Man'
+##  Chillout 8 - 'Night Drive'
 ## CEC TV ID - 'Bridge'
 
 ## Studio C DVD 3: ##
@@ -105,12 +105,7 @@ This was created to play from from January - March 2013.
 * Happy And You Know It (3stage, Cyberamic, Studio C, Weigl)
 * Old MacDonald (Studio C, Weigl)<br />
 ##Showtape Scans / Images:##
-<gallery>
-File:Asdwfwfewef.jpg|CEC-Stage DVD
-File:Aaascwew.jpg|CEC-Stage DVD
-File:IMG 20200306 165146 978.jpg|3-Stage DVD
-File:Jan13Disc3.png|Studio C DVD 3
-</gallery>
+
 
 ## Trivia: ##
 

@@ -35,7 +35,7 @@ Originally when the store opened, they had a Studio C 2000. They got the 2.0 Rem
 |2019 Model.
 |}
 
-## Gallery ##
+
 TODO
 
 ## Videos ##

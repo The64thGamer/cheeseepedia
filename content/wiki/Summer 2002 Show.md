@@ -6,7 +6,7 @@ date = 2023-07-19T01:30:27Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = ["Summer","2021-08-09"]
+gallery = []
 +++
 {{Showtape
 |title = Summer 2002 Show
@@ -93,7 +93,3 @@ gallery = ["Summer","2021-08-09"]
 
 **Birthday Break**: Same Birthday Break as seen in [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}). Set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 ##Showtape Scans / Images:##
-<gallery>
-File:Summer 2002 SC DVD.jpg|Studio C DVD Scan
-File:2021-08-09 180323.jpg|Studio C Floppy Disk Scan
-</gallery>

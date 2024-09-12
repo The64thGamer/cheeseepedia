@@ -6,7 +6,7 @@ date = 2024-04-23T03:16:39Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","The 64th Gamer"]
-gallery = ["Lakewood"]
+gallery = []
 +++
 {{Generic|image=Owastaken.jpg|desc=Exterior, 2017}}
 **_5151 Lakewood Blvd, Store #357**_ is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
@@ -129,7 +129,4 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |December 25, 1990
 |}
 
-##Gallery##
-<gallery>
-File:Lakewood ca cec exterior pre 2005 remodel.jpg|The store's exterior before the 2005 remodel.
-</gallery>
+

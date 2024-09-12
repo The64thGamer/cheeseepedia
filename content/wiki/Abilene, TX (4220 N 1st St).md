@@ -6,9 +6,9 @@ date = 2024-07-30T13:44:43Z
 
 [Article]
 contributors = ["CEC Kokomo","CEC Tinley","AstridMascotFan2005"]
-gallery = []
+gallery = ["Abilene's PTT.jpg|thumb|The site of the Abilene Pizza Time Theatre in 2013."]
 +++
-[[File:Abilene's PTT.jpg|thumb|The site of the Abilene Pizza Time Theatre in 2013.]]
+
 **_4220 N 1st St**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on November 23, 1981, and closed in 1984 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 This is not to be confused with [Abilene, TX (1874 S Clack St)]({{< ref "wiki/Abilene, TX (1874 S Clack St).md" >}}), which opened on October 7, 1982, and closed in late 1983 with [The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) or the Abilene, TX (4310 Buffalo Gap Rd) (current store) which opened on November 8, 2005, and is still open today with a Small-Town Studio C (Studio C Cappa).

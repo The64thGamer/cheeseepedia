@@ -6,7 +6,7 @@ date = 2022-01-23T21:30:38Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png"]
 +++
 {{Showtape
 |image=Ddddde.jpg
@@ -21,7 +21,7 @@ gallery = []
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#[[File:New Graphic.png]] **Segment 1**
+# **Segment 1**
 ##Grammys (Cyberstar Segment) (Grammys)
 #**Intermission 2**
 ##???

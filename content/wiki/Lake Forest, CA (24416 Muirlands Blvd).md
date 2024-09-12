@@ -6,7 +6,7 @@ date = 2024-07-30T15:33:49Z
 
 [Article]
 contributors = ["TheFantasyForest","The 64th Gamer","Documentor","BurgersNuggs445","75.61.165.219","71.15.155.152","173.216.33.6","38.49.94.191","Bowling for Cheese","Charlesiiikingofengland","Rexburg090","Midwestretail","GabrielPennington9864","ThatBoiCydalan","Ceclife13","Jonn","AstridMascotFan2005"]
-gallery = ["Lakeforest80s.png|1990's","ShowroomLakeForest.png|2001","Checkers.png|2001","GameroomLakeForest.png|2001","FullstageLakeForest.png|2001","StageLakeForest.png|2001","Lake","Lfe.png|Exterior"]
+gallery = [":GameroomLakeForest.png"]
 +++
 {{Generic|image=Lakeforest1.png|desc=Lake Forest's exterior months before closure.}}
 
@@ -37,7 +37,7 @@ The Lake Forest, California Pizza Time Theatre opened in June 1981 under the FEC
 
 The location would remodel only once during the 1986 SPT Remodel Program, when both PTT and SPP became one company and would standardize every location under one unified design, although little would change for Lake Forest other than the edition of painted walls. The store kept the general layout of the location until its closure and kept original advertisements relating to Pizza Time Theatre along with its accompanying artwork including a custom-made drawing of Chuck E. Cheese and his friends celebrating a party among various other pieces.
 
-Although the location hadn't received major updates, the franchise was still successful, having received multiple awards for its sales growth. This may also be a direct cause for a local Toyota dealership to sponsor the location.<ref>[[:File:GameroomLakeForest.png]]</ref>
+Although the location hadn't received major updates, the franchise was still successful, having received multiple awards for its sales growth. This may also be a direct cause for a local Toyota dealership to sponsor the location.<ref></ref>
 
 The only updated aspect of the store would be the games package, appearing to have never received [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}), but a condensed [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) package. Lake Forest would only receive new games later on as opposed to new attractions; most likely due to the size of the location. This small remodel would also change the exterior sign around 1997-1998.
 
@@ -92,17 +92,8 @@ Identified 2001 Machines.
 |Summer 2001
 |}
 
-##Gallery##
-<gallery>
-File:Lakeforest80s.png|1990's
-File:ShowroomLakeForest.png|2001
-File:Checkers.png|2001
-File:GameroomLakeForest.png|2001
-File:FullstageLakeForest.png|2001
-File:StageLakeForest.png|2001
-File:Lake forest 2001.png|2001
-File:Lfe.png|Exterior without signage
-</gallery>
+
+
 ##Animatronics##
 {| class='wikitable'
 |+

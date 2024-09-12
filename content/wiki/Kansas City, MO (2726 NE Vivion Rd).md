@@ -6,7 +6,7 @@ date = 2024-06-21T16:34:43Z
 
 [Article]
 contributors = ["RedaCEC","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","CorrectorMan","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Saan1ty"]
-gallery = ["AntiochWolfpack5stage.jpg|The","AntiochBeachBearWP5.jpg|The","AntiochDingoStar.jpg|the","Antioch'sWolfman.jpg|Antioch's","Antioch'sFats.jpg|Antioch's","Antioch'sMini.jpg|Antioch's","Showbizwolfpack5.png|Antioch's","AntiochExteriorSign2005.jpg|Antioch's","Antioch's3-Stage2005.jpg|Antioch's","Antioch'sTheaterRoom2005.jpg|Antioch's","Kansas"]
+gallery = []
 +++
 {{Generic|image=antioch2007.jpg|desc= Antioch's Exterior In 2005 (PC:showbizpizza.com)}}
 
@@ -243,23 +243,8 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 |May 8th, 1997
 |}
 
-##Gallery##
-<gallery>
-File:AntiochWolfpack5stage.jpg|The Wolf Pack 5 Stage<ref>https://www.showbizpizza.com/photos/spp/mo_antioch/index.html</ref>, 1980.
-File:AntiochBeachBearWP5.jpg|The Store's WP5 Beach Bear<ref>https://www.showbizpizza.com/photos/spp/mo_antioch/index.html</ref>, 1980.
-File:AntiochDingoStar.jpg|the Store's Dingo Star, 1980.
-File:Antioch'sWolfman.jpg|Antioch's Wolfman Bot, 1980
-File:Antioch'sFats.jpg|Antioch's Fats Bot, 1980
-File:Antioch'sMini.jpg|Antioch's Mini Bot, 1980
-File:Showbizwolfpack5.png|Antioch's WP5 Show<ref>https://www.showbizpizza.com/info/promo/spp/spp_80franchise-wp5.pdf</ref>, 1980
-File:AntiochExteriorSign2005.jpg|Antioch's Exterior Sign<ref>https://www.showbizpizza.com/photos/cec/mo_antioch/index.html</ref>, 2005.
-File:Antioch's3-Stage2005.jpg|Antioch's 3-Stage, 2005
-File:Antioch'sTheaterRoom2005.jpg|Antioch's Theater Room, 2005
-File:Kansas City Exterior after closure .jpg|Antioch after closure, June 2008
 
-</gallery><gallery>
 
-</gallery>
 
 ##References##
 <references />

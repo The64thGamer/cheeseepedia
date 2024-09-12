@@ -6,9 +6,9 @@ date = 2023-02-01T20:55:54Z
 
 [Article]
 contributors = ["Showtimeinc","ChuckfeldStan"]
-gallery = []
+gallery = ["Showbizchuck91.jpg|thumb|1991 Showbiz Chuck walkaround head"]
 +++
-[[File:Showbizchuck91.jpg|thumb|1991 Showbiz Chuck walkaround head]]
+
 The 1991 update to the Showbiz Chuck E Cheese walk around head saw a few updates compared to its 90 counter part. The ears are shaped smaller and more narrow, smaller teeth that are now sculpted to the head, and a red bowtie. This new style head went into production as early as Feb of 1991.
 
 ## Trivia ##

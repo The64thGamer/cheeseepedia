@@ -94,5 +94,5 @@ Rockville opened with a 32 movement bot Studio C 2000 (Studio C) . Just like Fre
 |August 20, 2022
 |}
 
-## Gallery ##
+
 TODO

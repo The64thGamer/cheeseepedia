@@ -6,7 +6,7 @@ date = 2023-11-13T13:38:14Z
 
 [Article]
 contributors = ["BurgersNuggs445","Rexburg090","ChuckECool","The 64th Gamer","ThatBoiCydalan","CorrectorMan","76.169.103.193","CEC Tinley","SuperCreamPiper2008"]
-gallery = ["Simi","Sv1.jpg|Video","Sv4.jpg|Flags","Sv3.jpg|Chuck","Sv2.jpg|Original","SimiValleyCECPostClosure.png|Exterior"]
+gallery = []
 +++
 {{Generic|image=Simivalleyoutside.jpg|desc=Simi Valley in May 2007 during the CheeseVention 4 visit, and a little over than a year before closure.}}
 
@@ -43,15 +43,8 @@ Simi Valley first remodeled with the 1986 SPT Remodel Program in 1990, which inv
 |May 2007
 |}
 
-##Gallery##
-<gallery>
-File:Simi valley exterior but better.png|Exterior, January 1981
-File:Sv1.jpg|Video Velocitor (May 2007)
-File:Sv4.jpg|Flags over the showroom walls (May 2007)
-File:Sv3.jpg|Chuck E.'s House (May 2007)
-File:Sv2.jpg|Original character portraits (May 2007)
-File:SimiValleyCECPostClosure.png|Exterior after the store's closure (December 2008)
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

@@ -6,7 +6,7 @@ date = 2024-04-02T12:13:58Z
 
 [Article]
 contributors = ["PachCEC","Cheeseclassic"]
-gallery = ["San","San","San"]
+gallery = []
 +++
 {{Generic|image=San Salvador’s Exterior.jpeg|desc=San Salvador, ES’ exterior in 2022.}}
 **_San Salvador, ES (503 Carretera Panamericana)**_  is a _Chuck E. Cheese_ that opened on April 13, 2021 in the Multiplaza Mall in the country’s capital city, San Salvador.
@@ -36,9 +36,4 @@ The location opened with what is presumed to be a 2019 [Chuck E. Live Stage (Dan
 |First in El Salvador
 |}
 
-## Gallery ##
-<gallery>
-File:San Salvador’s Dance Floor.jpeg|San Salvador’s Dance Floor
-File:San Salvador’s Gameroom.jpeg|San Salvador’s Gameroom
-File:San Salvador’s Booths.jpeg|San Salvador’s Booths
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2023-12-23T01:27:59Z
 
 [Article]
 contributors = ["Cheeseclassic","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title =Evergreen Show 2023
@@ -19,12 +19,12 @@ This was created with the idea to play between promotional events. This show fea
 ##Show List:##
 
 #**Intermission 1**
-##[[File:New Graphic.png]] KIDZ BOP Kids-'Cupid'
+## KIDZ BOP Kids-'Cupid'
 #**Skit 1**
 ##Chuck E. & Friends - 'Most Perfect Day'
 ##Chuck E. & Friends - 'Ves El Ratoncito'
 #**Intermission 2**
-##[[File:New Graphic.png]] KIDZ BOP Kids - 'Flowers'
+## KIDZ BOP Kids - 'Flowers'
 ## CEC Silly Songs - 'Unicorn, Unicorn'
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'Cuff It'
@@ -36,7 +36,7 @@ This was created with the idea to play between promotional events. This show fea
 ## Helen Henny - 'Game On!'
 ## Bella B. - 'El Rey Guitarrista'
 # **Intermission 4**
-##[[File:New Graphic.png]] KIDZ POP Kids - 'River'
+## KIDZ POP Kids - 'River'
 #**Skit 4**
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
 #**Intermission 5** 
@@ -52,7 +52,7 @@ This was created with the idea to play between promotional events. This show fea
 #**Skit 6**
 ##Chuck E. Cheese & Friends - 'Stay Positive'
 #**Intermission 7**
-##[[File:New Graphic.png]] KIDZ Pop Kids - 'TRUSTFALL'
+## KIDZ Pop Kids - 'TRUSTFALL'
 #**Skit 7**
 ## Chuck E. & Friends - 'I Dare You Not to Laugh'
 ## Chuck E. Cheese - 'Let's Have a Party'
@@ -62,40 +62,40 @@ This was created with the idea to play between promotional events. This show fea
 ### Advertising ###
 
 # **Ad 1**
-## [[File:New Graphic.png]] Ecolab
+##  Ecolab
 # **Ad 2**
 ## Dippin Dots
 # **Ad 3** 
 ## Samsung
 ## Food & Drink Combos
 # **Ad 4**
-## [[File:New Graphic.png]] CEC Online Store
+##  CEC Online Store
 # **Ad 5**
 ## CEC Group Events & Fundraisers
 # **Ad 6** 
-## [[File:New Graphic.png]] PPG
+##  PPG
 ## Food & Drink Combos
 # **Ad 7**
-## [[File:New Graphic.png]] Ecolab
+##  Ecolab
 # **Ad 8**
 ## Dippin Dots
 # **Ad 9**
 ## CEC YouTube & Music Streaming
 ## Food & Drink Combos
 # **Ad 10**
-## [[File:New Graphic.png]] CEC Online Store
+##  CEC Online Store
 # **Ad 11**
 ## CEC Group Events & Fundraisers
 # **Ad 12**
-## [[File:New Graphic.png]] CEC Birthdays
+##  CEC Birthdays
 ## CEC YouTube & Music Streaming
 
 ### Entertainment ###
 
-# [[File:New Graphic.png]] KIDZ BOP Kids- 'About That Time'
+#  KIDZ BOP Kids- 'About That Time'
 # **Chuck E. & Friends - 'Join the Party**'
-# [[File:New Graphic.png]] Coldplay - 'Humankind'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'Late Night Talkin_
+#  Coldplay - 'Humankind'
+#  KIDZ BOP Kids - 'Late Night Talkin_
 # Lanky Box - 'The Donut Song'
 # **Chuck E. Cheese & Friends - 'Stay Positive**'
 # **Chuck E. & Friends - 'Trio**'
@@ -105,53 +105,53 @@ This was created with the idea to play between promotional events. This show fea
 # **Helen Henny - 'Disco Dancing Dinosaur Party**'
 # Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
 # **Helen Henny - 'Game On!**'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'Meet Me at our Spot.'
+#  KIDZ BOP Kids - 'Meet Me at our Spot.'
 # Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'As It Was.'
+#  KIDZ BOP Kids - 'As It Was.'
 # **Chuck E. Cheese & Friends - 'My Family**'
 # **Chuck E. Cheese & Friends - 'Ves Al Ratoncito**'
 # **Chuck E. Cheese & Helen Henny - 'I Dare You Not to Laugh**'
-# [[File:New Graphic.png]] Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
+#  Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
 
 ## Navori Media Stages Show List: ##
 
 ### Advertising ###
 
 # **Ad 1**
-## [[File:New Graphic.png]] Ecolab
+##  Ecolab
 # **Ad 2**
 ## Dippin Dots
 # **Ad 3** 
 ## Samsung
 ## Food & Drink Combos
 # **Ad 4**
-## [[File:New Graphic.png]] CEC Online Store
+##  CEC Online Store
 # **Ad 5**
 ## CEC Group Events & Fundraisers
 # **Ad 6** 
-## [[File:New Graphic.png]] PPG
+##  PPG
 ## Food & Drink Combos
 # **Ad 7**
-## [[File:New Graphic.png]] Ecolab
+##  Ecolab
 # **Ad 8**
 ## Dippin Dots
 # **Ad 9**
 ## CEC YouTube & Music Streaming
 ## Food & Drink Combos
 # **Ad 10**
-## [[File:New Graphic.png]] CEC Online Store
+##  CEC Online Store
 # **Ad 11**
 ## CEC Group Events & Fundraisers
 # **Ad 12**
-## [[File:New Graphic.png]] CEC Birthdays
+##  CEC Birthdays
 ## CEC YouTube & Music Streaming
 
 ### Entertainment ###
 
-# [[File:New Graphic.png]] KIDZ BOP Kids- 'About That Time'
+#  KIDZ BOP Kids- 'About That Time'
 # Chuck E. & Friends - 'Join the Party'
-# [[File:New Graphic.png]] Coldplay - 'Humankind'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'Late Night Talkin_
+#  Coldplay - 'Humankind'
+#  KIDZ BOP Kids - 'Late Night Talkin_
 # Lanky Box - 'The Donut Song'
 # Chuck E. Cheese & Friends - 'Stay Positive'
 # Chuck E. & Friends - 'Trio'
@@ -161,14 +161,14 @@ This was created with the idea to play between promotional events. This show fea
 # Helen Henny - 'Disco Dancing Dinosaur Party'
 # Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
 # Helen Henny - 'Game On!'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'Meet Me at our Spot.'
+#  KIDZ BOP Kids - 'Meet Me at our Spot.'
 # Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
-# [[File:New Graphic.png]] KIDZ BOP Kids - 'As It Was.'
+#  KIDZ BOP Kids - 'As It Was.'
 # Chuck E. Cheese & Friends - 'My Family'
 # KIDZ BOP Kids - 'Levitating'
 # Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
 # Chuck E. Cheese & Helen Henny - 'I Dare You Not to Laugh'
-# [[File:New Graphic.png]] Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
+#  Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
 # Chuck E. Cheese & Friends - El Rey Guitarrista
 # Kid Cudi - Stars in The Sky
 # Chuck E. Cheese & Friends - Play All You Can Play

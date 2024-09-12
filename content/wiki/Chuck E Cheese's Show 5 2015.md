@@ -6,7 +6,7 @@ date = 2024-02-13T00:45:53Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:5C6F:DDAF:264D:FF62","YoyoandRonnie"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2015 
@@ -25,31 +25,31 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 ## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] American Authors - 'Best Day Of My Life'
+##  American Authors - 'Best Day Of My Life'
 ## CEC Promo - 'School Fundraiser'
 ## Josh & The Jamtones - 'Iko Iko'
-## [[File:New Graphic.png]] Chuck E. Cheese & Helen Henny - 'It's A Date' (New)
-## [[File:New Graphic.png]] Rachel Platten - 'Fight Song'
-## [[File:New Graphic.png]] Cartoon Network - Clarence - 'New Dog'
-## [[File:New Graphic.png]] Silentó - Watch Me (Whip/Nae Nae)
-## [[File:New Graphic.png]] CEC Promo - 'Moms Spot'
+##  Chuck E. Cheese & Helen Henny - 'It's A Date' (New)
+##  Rachel Platten - 'Fight Song'
+##  Cartoon Network - Clarence - 'New Dog'
+##  Silentó - Watch Me (Whip/Nae Nae)
+##  CEC Promo - 'Moms Spot'
 # **Skit 1**
 ## Chuck E. Cheese - 'All For Fun, Fun For All' (Animatronic/Lights Segment)
 # **Intermission 2**
-## [[File:New Graphic.png]] Bea Miller - 'Fire N' Gold'
-## [[File:New Graphic.png]] CEC Sketch-'Pasqually's Brother' (New)
-## [[File:New Graphic.png]] Cartoon Network - Gumball Universe - 'Gym Band'
-## [[File:New Graphic.png]] Owl City featuring Aloe Blacc- 'Verge'
+##  Bea Miller - 'Fire N' Gold'
+##  CEC Sketch-'Pasqually's Brother' (New)
+##  Cartoon Network - Gumball Universe - 'Gym Band'
+##  Owl City featuring Aloe Blacc- 'Verge'
 ## Josh & The Jamtones - 'Everybody Dance'
 ## CEC Promo - 'Birthdays'
-## [[File:New Graphic.png]] R5 - 'All Night'
-## [[File:New Graphic.png]] Cartoon Network - Steven Universe - 'Look At This Place'
-## [[File:New Graphic.png]] Chuck E. Cheese - 'Most Epic Mouse' (New)
+##  R5 - 'All Night'
+##  Cartoon Network - Steven Universe - 'Look At This Place'
+##  Chuck E. Cheese - 'Most Epic Mouse' (New)
 ## Josh & The Jamtones - 'Hokey Pokey'
-## [[File:New Graphic.png]] Cartoon Network - Clarence - 'Water Park'
-## [[File:New Graphic.png]] CEC Promo - 'Dads Spot'
-## [[File:New Graphic.png]] The Black Keys - 'Gold On The Ceiling'
-## [[File:New Graphic.png]] Cartoon Network - Steven Universe - 'The Crystal Gems'
+##  Cartoon Network - Clarence - 'Water Park'
+##  CEC Promo - 'Dads Spot'
+##  The Black Keys - 'Gold On The Ceiling'
+##  Cartoon Network - Steven Universe - 'The Crystal Gems'
 # **Skit 2**
 ## Chuck E. Cheese - 'Dancin' Kitten' (Animatronic/Lights Segment)
 
@@ -68,11 +68,7 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 *[https://www.youtube.com/watch?v=wAeX6TupeVo 'It's A Date' on YouTube] 
 
 ##Showtape Scans / Images:##
-<gallery>
-show5cecstage.jpg|CEC-Stage DVD Scan
-f7974c35018a0b4c54a487ea0639d62c.png|Studio C DVD Scan
-Show515install.png|Studio C Installation Disc
-</gallery>
+
 
 ## Trivia: ##
 

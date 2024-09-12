@@ -8,6 +8,3 @@ date = 2022-10-01T17:46:55Z
 contributors = ["Documentor"]
 gallery = []
 +++
-<gallery>
-FruitGummy.jpg|Front
-</gallery>

@@ -6,7 +6,7 @@ date = 2023-11-22T18:46:34Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","SuperCreamPiper2008"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = August 1997 Show
@@ -26,27 +26,27 @@ This was the last Awesome Adventure Machine showtape.
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Segment 1** 
+#  **Segment 1** 
 ## Walk The Dinosaur
-# [[File:New Graphic.png]]**Intermission 1** 
+# **Intermission 1** 
 ##  Pink Panther - 'The Pink Flea'
-# [[File:New Graphic.png]] **Segment 2** 
+#  **Segment 2** 
 ## Sharp Dressed Mouse (Parody of [https://en.wikipedia.org/wiki/Sharp_Dressed_Man Sharp Dressed Man])
-# [[File:New Graphic.png]]**Intermission 2**
+# **Intermission 2**
 ## CEC TV News - 'The Tater'
 ##Virtual Video
-#[[File:New Graphic.png]] **Segment 3** 
+# **Segment 3** 
 ## Secret Agent Man
-#[[File:New Graphic.png]] **Intermission 3**
+# **Intermission 3**
 ##Pink Panther - 'In The Pink'
-#[[File:New Graphic.png]] **Segment 4**
+# **Segment 4**
 ##I Like It Like That
-#[[File:New Graphic.png]]**Intermission 4**
+#**Intermission 4**
 ## CEC TV News - 'Deep Thoughts'
 ##Dancing
-#[[File:New Graphic.png]] **Segment 5**
+# **Segment 5**
 ##Deep Freeze
-#[[File:New Graphic.png]] **Intermission 5**
+# **Intermission 5**
 ##Pink Panther - 'Pink Sphinx'
 ##Lives:##
 Live show VHS tapes introduced with August 1997

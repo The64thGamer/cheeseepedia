@@ -6,9 +6,9 @@ date = 2024-05-28T18:16:32Z
 
 [Article]
 contributors = ["CECMentor"]
-gallery = []
+gallery = ["high quality beach bear.png|thumb|Beach Bear's design as of 2024."]
 +++
-[[File:high quality beach bear.png|thumb|Beach Bear's design as of 2024.]]
+
 **_Beach Bear**_ is one of the main characters of the Showbiz Pizza Place franchise, having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
 ## History ##

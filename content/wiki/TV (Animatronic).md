@@ -6,7 +6,7 @@ date = 2023-12-28T17:31:41Z
 
 [Article]
 contributors = ["GallaRBX2"]
-gallery = ["Old"]
+gallery = []
 +++
 {{Animatronic|image=TV.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
@@ -40,10 +40,8 @@ All movements are on the Bottom Drawer. This bot only has 4 movements.
 |Rabbit Ears Bottom Right
 |}
 
-##Gallery##
-<gallery>
-File:Old TV.png
-</gallery>
+
+
 
 ##References##
 <references />

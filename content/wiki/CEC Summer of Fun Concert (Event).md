@@ -6,9 +6,9 @@ date = 2022-05-15T16:28:17Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = []
+gallery = ["SoF_SummerConcert_KeyVisual_KB_V2-768x432.jpg|thumb|490x490px","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-[[File:SoF_SummerConcert_KeyVisual_KB_V2-768x432.jpg|thumb|490x490px]]
+
 
 **_Chuck E. Cheese Summer of Fun Concert**_ was an event that performed at 5 states originally. Runs around 24 minutes. 
 
@@ -28,29 +28,29 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 ## Show Lineup: ##
 **Note:** Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
 
-# [[File:New Graphic.png]] **Dialogue**
+#  **Dialogue**
 ## Introduction for Jessi, Chuck E. and 'DJ Munch'
 # **Song**
 ## Beach Party Bash
-# [[File:New Graphic.png]] **Dialogue**
+#  **Dialogue**
 ## Thanking DJ Munch, Jessi getting wanting to see 'Song of Summer' preformed then getting disappointed it's not happening yet, Introduction for Helen & Jasper. 
-# [[File:New Graphic.png]] **Song**
+#  **Song**
 ## Play All You Can Play (Concert Remix)
-# [[File:New Graphic.png]] **Dialogue**
+#  **Dialogue**
 ## Jessi asking about 'Song of Summer' again and then making weird noises. 
-# [[File:New Graphic.png]] **Song**
+#  **Song**
 ## Dog Days of Summer (Concert Remix)
-# [[File:New Graphic.png]] **Dialogue**
+#  **Dialogue**
 ## DJ Munch, Helen, Jasper, Jessi question what will happen. Jessi annoys Chuck again about Song of Summer, Part where they ask about Birthdays this month, this summer, then this year, How to do the Chuck E. Cheese's Birthday Song
 # **Song**
-## [[File:New Graphic.png]] Chuck E. Cheese's Birthday Song (Concert Remix)
+##  Chuck E. Cheese's Birthday Song (Concert Remix)
 ## Happy Birthday
-## [[File:New Graphic.png]] Happy Birthday (Spanish) (Concert Remix)
-# [[File:New Graphic.png]] **Dialogue**
+##  Happy Birthday (Spanish) (Concert Remix)
+#  **Dialogue**
 ## Jessi annoys Chuck E. for the 4th time about 'Song of Summer' because Chuck is sad if he sings the song the fun of summer will end. 
-# [[File:New Graphic.png]] **Song**
+#  **Song**
 ## Song of Summer (Concert Remix)
-# [[File:New Graphic.png]] **Dialogue**
+#  **Dialogue**
 ## Thanks for being here! (While Song of Summer instrumental is playing)
 
 ##Videos##

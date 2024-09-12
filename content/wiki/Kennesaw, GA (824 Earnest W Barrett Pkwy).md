@@ -6,9 +6,9 @@ date = 2024-08-04T17:09:44Z
 
 [Article]
 contributors = ["Plvtyp","CECBowlingGreen","Rexburg090","VXSpooky","AstridMascotFan2005"]
-gallery = []
+gallery = ["CEC KennesawGA.jpg|thumb|Exterior, 2024"]
 +++
-[[File:CEC KennesawGA.jpg|thumb|Exterior, 2024]]
+
 **_824 Earnest W Barrett Pkwy**_ is a _Chuck E. Cheese's_ that opened on November 19, 1999 with a Studio C Alpha and is still open with the 2.0 remodel.
 
 ## History ##

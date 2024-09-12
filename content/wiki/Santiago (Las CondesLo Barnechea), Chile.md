@@ -58,7 +58,7 @@ Originally when the store opened, they had a 1-Stage, which also had a turntable
 |Currently in Use
 |}
 
-## Gallery ##
+
 TODO
 
 ## Youtube Videos ##

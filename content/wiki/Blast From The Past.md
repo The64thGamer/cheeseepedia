@@ -6,7 +6,7 @@ date = 2023-07-26T04:53:42Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","RedaCEC","2600:1009:B173:9FF8:285C:6515:8181:3706","2601:2C6:4B7F:1C80:D1A6:9AE7:CEEE:9F76"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Cectv1994.jpg
@@ -21,7 +21,7 @@ gallery = []
 ##Show List ##
 #**Intermission 1**
 ##CEC TV '94 ID
-##**[[File:New Graphic.png]]** VJ Spot
+##**** VJ Spot
 #**Segment 1**
 ##'Route 66'
 #**Intermission 2**
@@ -29,20 +29,20 @@ gallery = []
 ##Pondwatch
 ##Coke Spot
 ##The Ballgame
-##**[[File:New Graphic.png]]** VJ Spot
+##**** VJ Spot
 #**Segment 2**
 ##'Wooly Bully'
 #**Intermission 3**
 ##Will Frye The Nutrition Guy
 ##CEC TV News - 'Particle Travel'
 ##Larry The Technician
-##**[[File:New Graphic.png]]** VJ Spot
+##**** VJ Spot
 #**Segment 3**
 ##'Turn The Beat Around'
 #**Intermission 4**
 ##Director's Cut
 ##CEC TV '94 ID
-##**[[File:New Graphic.png]]** VJ Spot
+##**** VJ Spot
 #**Segment 4**
 ##'Mountain Music'
 ##'BINGO'
@@ -61,11 +61,11 @@ gallery = []
 ##Spring Cleaning
 ##Munch and The Picnic Basket
 ##Charlie Rockit - 'Camping'
-##**[[File:New Graphic.png]]** VJ Spot
+##**** VJ Spot
 #**Segment 6**
 ##'I Feel Good'
 #**Intermission 7**
-##**[[File:New Graphic.png]]** Fun at CEC
+##**** Fun at CEC
 ##CEC TV News - 'Traffic Report”
 
 ##Trivia:##

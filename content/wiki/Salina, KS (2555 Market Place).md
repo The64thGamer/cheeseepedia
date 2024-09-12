@@ -6,7 +6,7 @@ date = 2023-12-22T23:41:10Z
 
 [Article]
 contributors = ["Cheeseclassic","The 64th Gamer"]
-gallery = ["Salina's","ClosurePicture.png|ShowBiz"]
+gallery = []
 +++
 {{Generic|image=Salina SPP Now.jpg|desc=Site of the Salina SPP in June 2022.}}
 **_2555 Market Place**_ was a _ShowBiz Pizza Place_ that opened on September 10, 1981 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on January 8, 1984.<ref>https://www.newspapers.com/article/the-salina-journal/56832763/</ref><ref name=':0'>https://www.newspapers.com/article/the-salina-journal-showbiz-pizza-salina/32791643/</ref>
@@ -82,10 +82,7 @@ By January of 1984 the store would be reduced to 20 employees from its opening 8
 |N/A
 |Unknown/Destroyed
 |}
-##Gallery##
-<gallery>
-File:Salina's Rock-afire Explosion .jpg|Rock-afire Explosion main stage w/ ShowBiz Employee, taken during Press Media Event (Between September 7-9th, 1981)
-File:ClosurePicture.png|ShowBiz employee cleaning front doors the day after closure (January 9th, 1984)
-</gallery>
+
+
 
 ## References ##

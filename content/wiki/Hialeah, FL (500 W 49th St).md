@@ -13,7 +13,7 @@ gallery = []
 ## History ##
 History is currently unknown to this location.
 
-## Gallery ##
+
 No pictures have surfaced of this location.
 
 ## Videos ##

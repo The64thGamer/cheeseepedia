@@ -6,7 +6,7 @@ date = 2022-12-08T16:05:09Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Signagetullytraining.jpg|thumb|Wardrobe Department signage in Tully's 3rd floor.","Saladbar82report.png|thumb|Promotional Photo of the New Salad Bar.<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982.pdf</ref>","Sanjosetestkitchenpart2image.png|thumb|Test Kitchen w/ Food Standards Staff. Left to Right, Alyce Birdsall, Linda Sako, Jeanie Sorensen, Jan McGlliard, and Susan Bridwell<ref name=':2'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf</ref>"]
 +++
 {{Generic|desc=Promotional photo for the test kitchen from the PTT 1982 Annual Report<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982.pdf</ref>|image=Tully_Test_Kitchen_1982.png}}
 
@@ -24,7 +24,7 @@ The programs would take place entirely within the third floor employee section l
 When entering the upper floor from the stairway (the elevator was used for freight hauling exclusively), the main office will be entered. This is presumed to be the stated study and audio visual lab of the training center. All adjacent rooms are the individual classrooms for training, with the farthest north-west room being the test kitchen. The training conference room would be located back on the second floor, labeled #53 on page 30 of the blueprints.
 
 ###Decoration###
-[[File:Signagetullytraining.jpg|thumb|Wardrobe Department signage in Tully's 3rd floor.]]
+
 Adorning the upper floor was a large amount of custom, hand painted Pizza Time Theatre signage, sent from a Wardrobe Department<ref>https://www.tapatalk.com/groups/retro_pizza_zone/the-really-big-epic-ptt-find-and-trip-t4727.html</ref> of presumably the Pizza Time Theatre Milpitas, CA Cyberamic Manufacturing Center. It is unclear if this signage was sent during the store's opening, or if this later added to the training area. This includes:
 
 *Madame Oink, Jasper, & Pasqually eating at a table
@@ -52,7 +52,7 @@ The Test Kitchen would be the starting ground for the standardization of previou
 By June of 1982, a variety of ingredients for existing products would be reevaluated and changed up. These would be listed as meats, salad bar condiments, salad dressings, sandwich breads, dough mixes, tomato products, and pizza spices<ref name=':0'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-2.pdf</ref>. Changes to the preparation methods for previous products are also listed, though it is unclear what exactly what changed in the standardization process.
 
 ###Salad Bar Program###
-[[File:Saladbar82report.png|thumb|Promotional Photo of the New Salad Bar.<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982.pdf</ref>]]
+
 Starting in June of 1982, a new Salad Bar (PTT Menu Item) (Salad Bar) program, complete with an PTT Salad Bar Manual (1982) (eighty-page manual), would be tested in the North Bay district after development in the Test Kitchen. This would be done to maximize consistency and presentation of the salad bar. The new bar would include 25-40 ingredients depending on the store size, alongside new small wares and bowls. The manual detailed layouts, ingredients, small wares, and other preparation with step by step instructions and pictures. The new program also emphasized awareness on purchasing and preparing fresh produce.
 
 During its extensive testing, increases in salad sales and reductions in costs were noted. A new character would be introduced to promote the salad bar program as it made its way to all stores, being Roy L. Rabbit. This rollout to all stores would be planned to start in January of 1983, but was delayed to February, and wrapped up by the summer.<ref name=':1'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-2.pdf</ref><ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf</ref>
@@ -76,7 +76,7 @@ Additional standardization of menu ingredients would be made by making deals wit
 Referenced as early as June 1982, a 'proprietary dessert concept' would be in the works at the Test Kitchen.<ref name=':0' /> This would become the new sundae package to replace the previous Soft Frozen Yogurt (PTT Menu Item) (Soft Frozen Yogurt) menu item housed at stores. In early 1983 the new package would be sent to all stores, consisting of a new set of 3 sundae flavors in a universal cup design (Chocolate Sundae Cup (PTT Menu Item) (Chocolate Sundae Cup), Butterscotch Sundae Cup (PTT Menu Item) (Butterscotch Sundae Cup), and Strawberry Sundae Cup (PTT Menu Item) (Strawberry Sundae Cup)). This cup also included a coin slot on the top lid, allowing it to be taken home and used as a PTT branded token bank.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf</ref>
 
 ##Staff##
-[[File:Sanjosetestkitchenpart2image.png|thumb|Test Kitchen w/ Food Standards Staff. Left to Right, Alyce Birdsall, Linda Sako, Jeanie Sorensen, Jan McGlliard, and Susan Bridwell<ref name=':2'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf</ref>]]
+
 Most of the staff and staffing positions for the programs are undocumented. The Training Center likely had an entire team of instructors, though they may have been part-time positions for current staff at the San Jose when training was needed.
 
 The Test Kitchen Staff had the Product Research & Development team, with the only named employee being _Jeanie Sorensen_ as the team's manager, presumably hired during its opening. The Test Kitchen staff worked closely with the Food Standards Department of Pizza Time Theatre, where several staff members have been named.<ref name=':2' />

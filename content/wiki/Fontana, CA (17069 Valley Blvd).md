@@ -6,7 +6,7 @@ date = 2023-11-09T14:52:28Z
 
 [Article]
 contributors = ["Snowbobsuperboi","The 64th Gamer","Cheeseclassic","ThatBoiCydalan"]
-gallery = ["Screenshot","Fontana’s"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Exterior, 2023.jpg|desc=Exterior, June 2023}}
 **_Fontana, CA (17069 Valley Blvd), Store #445**_ was a _Pizza Time Theatre_ that opened in November 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). 
@@ -66,8 +66,4 @@ Fontana opened in November 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics 
 |August 1990
 |}
 
-## Gallery ##
-<gallery>
-File:Screenshot 2023-11-08 200420.png|alt=king|King animatronic (PC: Youtube)
-File:Fontana’s Exterior before 2.0.jpg|Exterior with 2005 Remodel.
-</gallery>
+

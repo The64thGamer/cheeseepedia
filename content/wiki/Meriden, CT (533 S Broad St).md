@@ -6,9 +6,9 @@ date = 2023-07-29T15:41:17Z
 
 [Article]
 contributors = ["CorrectorMan"]
-gallery = ["Meriden's"]
+gallery = ["Meriden the day they closed.jpg|thumb|Meriden's exterior presumably from the day they closed. (PC: chuckecheeseshows)"]
 +++
-[[File:Meriden the day they closed.jpg|thumb|Meriden's exterior presumably from the day they closed. (PC: chuckecheeseshows)]]
+
 **_533 S Broad St**_ was a _Chuck E. Cheese's_ that opened on January 30, 2002 and closed on May 19, 2013 with a Studio C 2000 (Studio C Beta, 32m).
 
 ## Stage ##
@@ -69,10 +69,8 @@ Meriden opened on January 30, 2002 with the [Phase 3]({{< ref "wiki/Phase 3 (200
 |May 19, 2013
 |}
 
-## Gallery ##
-<gallery>
-File:Meriden's beta.jpg|Meriden's Studio C Beta.
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

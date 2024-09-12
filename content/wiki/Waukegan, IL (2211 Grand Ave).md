@@ -36,7 +36,7 @@ Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 
 ##History##
 Not much is known about Waukegan other than the facts previously stated. It can be assumed that their lounge act was The King, like most new PTTs at the time. Waukegan closed in January 1997, followed by an auction on January 25th. Their show was sent to Fairview Heights, Illinois, where it was installed and used up until Fairview Heights got 2.0 in 2019.
 
-## Gallery ##
+
 
 It is unknown if there are photos of the location.
 

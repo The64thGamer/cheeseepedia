@@ -6,7 +6,7 @@ date = 2024-06-21T17:43:34Z
 
 [Article]
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","Documentor","Pasquallytheplumber","2601:282:4000:98D0:E07B:BD53:BBD1:CA91","Cy's Junk at School"]
-gallery = ["Studio","Spring","Spring23Floppy.png|Studio","Spring23CD.png|Studio","3t4t42324t4t.jpg|CEC","Spring233Stage.jpg|3-Stage","Spring23NewsletterFront.jpg|Newsletter","234t24t24t24t.jpg|Newsletter"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title =Chuck E. Cheese Spring Show 2023
@@ -28,32 +28,32 @@ This is the final physical show to be released in the domestic market due to the
 ## Ecolab
 ## Food & Drink Combos
 ## CEC YouTube & Music Streaming
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'KIDZ BOP Never Stop'
+##  KIDZ BOP Kids - 'KIDZ BOP Never Stop'
 # **Skit 1**
 ## Chuck E. Cheese - 'Let's Have A Party'
 # **Intermission 2**
 ## CEC Online Store
 ## Samsung
-## [[File:New Graphic.png]] Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
+##  Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
 # **Skit 2** 
 ## Chuck E. Cheese & Friends - 'In the Future'
 # **Intermission 3**
 ## CEC Group Events & Fundraisers
 ## Food & Drink Combos
 ## Dippin' Dots
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Break My Heart'
+##  KIDZ BOP Kids - 'Break My Heart'
 # **Skit 3** 
 ## Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
 # **Intermission 4**
 ## CEC Birthdays
 ## CEC YouTube & Music Streaming
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Sunroof'
+##  KIDZ BOP Kids - 'Sunroof'
 # **Skit 4**
 ## Jasper T. Jowls - 'The Tail of Jasper T.'
 # **Intermission 5**
 ## LankyBox - 'Pizza Song'
-## [[File:New Graphic.png]] Haribo Goldbears
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Space Man'
+##  Haribo Goldbears
+##  KIDZ BOP Kids - 'Space Man'
 # **Skit 5**
 ## Helen Henny - 'Gamin' Time'
 # **Intermission 6** 
@@ -66,7 +66,7 @@ This is the final physical show to be released in the domestic market due to the
 # **Intermission 7**
 ## Katy Perry - 'Never Really Over'
 ## PPG
-## [[File:New Graphic.png]] KIDZ BOP Kids - 'Hold Me Closer'
+##  KIDZ BOP Kids - 'Hold Me Closer'
 # **Skit 7**
 ## Chuck E. Cheese - 'Lend A Helping Hand'
 
@@ -97,28 +97,28 @@ This is the final physical show to be released in the domestic market due to the
 #**Ad 10**
 ##CEC Online Store
 #**Ad 11**
-##[[File:New Graphic.png]] Haribo Goldbears
+## Haribo Goldbears
 #**Ad 12**
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
 
 ###Entertainment###
 
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'KIDZ BOP Never Stop'
+# KIDZ BOP Kids - 'KIDZ BOP Never Stop'
 #Chuck E. Cheese - 'Let's Have A Party'
-#[[File:New Graphic.png]] Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
+# Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
 #Chuck E. Cheese & Friends - 'In The Future'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Break My Heart'
+# KIDZ BOP Kids - 'Break My Heart'
 #Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Sunroof'
+# KIDZ BOP Kids - 'Sunroof'
 #Jasper T. Jowls - 'The Tail Of Jasper T.'
 #LankyBox - 'Pizza Song'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Spaceman'
+# KIDZ BOP Kids - 'Spaceman'
 #Helen Henny - 'Gamin' Time'
 #LankyBox - 'Donut Song'
 #Chuck E. Cheese - 'Crochet All Day'
 #Katy Perry - 'Never Really Over'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Hold Me Closer'
+# KIDZ BOP Kids - 'Hold Me Closer'
 #Chuck E. Cheese - 'Lend A Helping Hand'
 #KIDZ BOP Kids - 'As It Was'
 #Chuck E., Munch, & Bella - 'Play All You Can Play'
@@ -150,7 +150,7 @@ This is the final physical show to be released in the domestic market due to the
 #**Ad 10**
 ##CEC Online Store
 #**Ad 11**
-##[[File:New Graphic.png]] Haribo Goldbears
+## Haribo Goldbears
 #**Ad 12**
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
@@ -159,19 +159,19 @@ This is the final physical show to be released in the domestic market due to the
 
 #KIDZ BOP Kids - 'Late Night Talking'
 #**Chuck E. Cheese - 'Let's Have A Party**'
-#[[File:New Graphic.png]] Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
+# Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
 #**Chuck E. Cheese & Friends - 'In The Future**'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Break My Heart'
+# KIDZ BOP Kids - 'Break My Heart'
 #**Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name**'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Sunroof'
+# KIDZ BOP Kids - 'Sunroof'
 #**Jasper T. Jowls - 'The Tail Of Jasper T.**'
 #LankyBox - 'Pizza Song'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Spaceman'
+# KIDZ BOP Kids - 'Spaceman'
 #**Helen Henny - 'Gamin' Time**'
 #LankyBox - 'Donut Song'
 #**Chuck E. Cheese - 'Crochet All Day**'
 #Katy Perry - 'Never Really Over'
-#[[File:New Graphic.png]] KIDZ BOP Kids - 'Hold Me Closer'
+# KIDZ BOP Kids - 'Hold Me Closer'
 #**Chuck E. Cheese - 'Lend A Helping Hand**'
 #KIDZ BOP Kids - 'As It Was'
 #Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
@@ -187,16 +187,7 @@ This is the final physical show to be released in the domestic market due to the
 * Happy Dance (Studio C, Weigl)
 
 ## Showtape Scans / Images ##
-<gallery>
-File:Studio C DVD 1.jpg|Studio C Player 1 DVD
-File:Spring Show 2023 Studio C DVD 2.jpg|Studio C Player 2 DVD
-File:Spring23Floppy.png|Studio C Floppy
-File:Spring23CD.png|Studio C CD
-File:3t4t42324t4t.jpg|CEC Stage DVD
-File:Spring233Stage.jpg|3-Stage DVD
-File:Spring23NewsletterFront.jpg|Newsletter Front
-File:234t24t24t24t.jpg|Newsletter Back
-</gallery>
+
 
 ##Trivia##
 

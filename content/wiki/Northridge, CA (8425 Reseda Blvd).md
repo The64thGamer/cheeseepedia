@@ -6,12 +6,12 @@ date = 2024-08-27T23:05:53Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","Rexburg090","Jonn","CorrectorMan","ThatBoiCydalan","47.17.236.200","The 64th Gamer","64.150.3.152","Cheeseclassic","Documentor","CoolerDude","ShowbizMidwest","AstridMascotFan2005","PizzaEntertainmentFanX","CECMentor","Cecanddisneyfan2004","Caydenpedia","CEC1988"]
-gallery = ["Northridgepics180s.png|Dolli","Northridgepics280s.png|Chuck","Northridge's","Northridge's","Eth432f4ere23r4eg.jpg|SPT","NorthridgeCEC2Stage.jpeg|Official","NorthridgeCAwithliftcutians.png|The"]
+gallery = [":Mmbbfacebookcomment2.png"]
 +++
 {{Generic|desc=Exterior in November 2023. (PC: Side Eye Cat)|image=Northridge2.0.png}}
 **_Northridge, CA (8425 Reseda Blvd, Store #451)**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in September 1981<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref> with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), which is still open to this day.
 
-The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and 'all legacy Chuck E. Cheese nostalgia'<ref>[[:File:Mmbbfacebookcomment2.png]]</ref>. The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this<ref>https://www.chuckecheese.com/northridge-residency/</ref>.
+The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and 'all legacy Chuck E. Cheese nostalgia'<ref></ref>. The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this<ref>https://www.chuckecheese.com/northridge-residency/</ref>.
 
 ## Stages ##
 Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres had. They would have the Balcony Stage for several years, until the late 80's or early 90's, when they would convert to Chuck E.'s House Facade, they would have it for a very short time, when in 1993, they would convert to a 2-Stage. Only major cosmetical changes to happen prior to 2011 was the replacement of the tuxedo with Cool Chuck sometime during the 2000s. In 2011, the [Lancaster, CA (44650 Valley Central Way)]({{< ref "wiki/Lancaster, CA (44650 Valley Central Way).md" >}}) location would relocate and with that, all of their animatronics would be sent to Northridge to replace their original 1981 PTT Cyberamics. They now have 1990s Cyberamics which are much sturdier than the originals and having cosmetics in much better shape. Despite Northridge getting the 2.0 remodel the stage's TV would be replaced by August 15th, 2023 and was also kept to become the 'permanent home of the Chuck E. Cheese animatronic gang'. Chuck E's outfit would be replaced with the Rockstar shirt on October 26th the same year, followed by the stage receiving lift curtains from [the Huntington Beach location]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}) on November 5th.
@@ -201,16 +201,8 @@ CEC would announce in October of 2023 that Northridge would now be the Munch's M
 |In store.
 |}
 
-## Gallery ##
-<gallery>
-File:Northridgepics180s.png|Dolli Dimples (1980's)<ref>https://www.reddit.com/r/chuckecheese/comments/11g96qs/i_came_across_some_vintage_pictures_of_me_at_the/</ref>
-File:Northridgepics280s.png|Chuck E. Walkaround (1980's)<ref>https://www.reddit.com/r/chuckecheese/comments/11g96qs/i_came_across_some_vintage_pictures_of_me_at_the/</ref>
-File:Northridge's exterior in 1988 PC- @ajkruse1797.png|Northridge's exterior in (1988)<ref>(PC: @ajkruse1797 )</ref>
-File:Northridge's exterior.jpg|Exterior (2020's)
-File:Eth432f4ere23r4eg.jpg|SPT Parody Awards being hidden behind arcade machines (2023)
-File:NorthridgeCEC2Stage.jpeg|Official Grand Re-Opening Promotional Photo (November 2, 2023)
-File:NorthridgeCAwithliftcutians.png|The first photo taken with the lift curtains.
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

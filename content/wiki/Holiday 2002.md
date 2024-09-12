@@ -6,7 +6,7 @@ date = 2023-08-16T22:15:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","Cy's Junk at School"]
-gallery = ["Holiday","BusinessCard","2021-08-09","BusinessCard"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Happy Holidays 2002
@@ -23,29 +23,29 @@ gallery = ["Holiday","BusinessCard","2021-08-09","BusinessCard"]
 ## Studio C Show List: ##
 # **Intermission 1**
 ## Countdown (1995 Holiday footage)
-## [[File:New Graphic.png]]Holiday VJ Spot - Michael
-#  [[File:New Graphic.png]]**Segment 1**
+## Holiday VJ Spot - Michael
+#  **Segment 1**
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  [[File:New Graphic.png]]**Segment 2**
+#  **Segment 2**
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
 # **Intermission 3**
 ##Countdown ('Holly Jolly Christmas' footage)
-## [[File:New Graphic.png]]Holiday VJ Spot - Evan
-# [[File:New Graphic.png]] **Segment 3**
+## Holiday VJ Spot - Evan
+#  **Segment 3**
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
 # **Intermission 4**
-##  [[File:New Graphic.png]]Eddie Coker - 'Happy Holidays'
+##  Eddie Coker - 'Happy Holidays'
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
-## [[File:New Graphic.png]]Holiday VJ Spot - Laura
-# [[File:New Graphic.png]] **Segment 4**
+## Holiday VJ Spot - Laura
+#  **Segment 4**
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
@@ -53,30 +53,30 @@ gallery = ["Holiday","BusinessCard","2021-08-09","BusinessCard"]
 # **Intermission 1**
 ## Ken Chuck E. Derby
 ## Countdown (1995 Holiday footage)
-## [[File:New Graphic.png]]Holiday VJ Spot - Michael
-#  [[File:New Graphic.png]]**Segment 1**
+## Holiday VJ Spot - Michael
+#  **Segment 1**
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  [[File:New Graphic.png]]**Segment 2**
+#  **Segment 2**
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
 # **Intermission 3**
-##  [[File:New Graphic.png]]Eddie Coker - 'Happy Holidays'
+##  Eddie Coker - 'Happy Holidays'
 ##Countdown ('Holly Jolly Christmas' footage)
-## [[File:New Graphic.png]]Holiday VJ Spot - Evan
-# [[File:New Graphic.png]] **Segment 3**
+## Holiday VJ Spot - Evan
+#  **Segment 3**
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
 # **Intermission 4**
 ##Ken Chuck E. Derby
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
-## [[File:New Graphic.png]]Holiday VJ Spot - Laura
-# [[File:New Graphic.png]] **Segment 4**
+## Holiday VJ Spot - Laura
+#  **Segment 4**
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
@@ -92,16 +92,11 @@ gallery = ["Holiday","BusinessCard","2021-08-09","BusinessCard"]
 * Spanish Birthday 01
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
-*  [[File:New Graphic.png]] Go Santa Go
+*   Go Santa Go
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
 ##Showtape Scans / Images:##
-<gallery>
-File:Holiday 2002 Studio C DVD.jpg|Studio C DVD Scan
-File:BusinessCard 2021-08-09 174411.jpg|Studio C Floppy Scan
-File:2021-08-09 174125.jpg|Studio C Floppy Scan (Version B)
-File:BusinessCard 2021-08-09 174815.jpg|Studio C Floppy Scan (Final Version)
-</gallery>
+
 ## Trivia: ##
 *There are 3 floppy disc versions for this show. Version B adds an EDIT.COM file not in the original floppy. It is currently unknown what it does. It is also unknown if the Final Version has any major changes.
 * The intros to the Ken Chuck E. Derby intermissions reused from [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}) were rerecorded at the last minute due to issues with the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1993 versions of these intermissions are hidden on the Studio C DVDs with updated music.

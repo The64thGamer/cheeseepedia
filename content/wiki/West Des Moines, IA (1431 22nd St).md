@@ -140,7 +140,7 @@ Originally when the store opened, West Des Moines had a Rock-afire Explosion. It
 |Unknown / Destroyed
 |}
 
-## Gallery ##
+
 TODO
 
 ## YouTube Videos ##

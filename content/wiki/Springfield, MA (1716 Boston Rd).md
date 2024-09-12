@@ -6,9 +6,9 @@ date = 2024-09-05T00:09:36Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FC:D100:28E1:300A:D18D:A58E","2600:4040:59FC:D100:61B5:7557:4774:8CDC","ChuckECool","ShowbizMidwest","Cecnj98","138.229.239.64","Cheeseclassic","Bullseye123","CEC1988"]
-gallery = ["SpringfieldMAExterior2003.jpg|Exterior","SpringfieldMAShowroomCurtainsClosed2003.jpg|Showroom","SpringfieldMACenterStage2003.jpg|Center","SpringfieldMAStageRight2003.jpg|Stage","SpringfieldMAStageLeft2003.jpg|thumb|Stage","SpringfieldMAFullStage2003.jpg|thumb|Full","SpringfieldMAGameroom12003.jpg|thumb|View","SpringfieldMAPizzacam.jpg|thumb|Pizzacam","SpringfieldMASmallGameroom2003.jpg|thumb|The"]
+gallery = ["Sct-chuck-cheesejpg-8943ce5de063be12.jpg|thumb|Exterior in 2010 before closure (PC: Michael S. Gordon / The Republican)"]
 +++
-[[File:Sct-chuck-cheesejpg-8943ce5de063be12.jpg|thumb|Exterior in 2010 before closure (PC: Michael S. Gordon / The Republican)]]
+
 
 **_1716 Boston Rd, Store #476**_ was a _ShowBiz Pizza Place_ restaurant located in Springfield, Massachusetts. It closed on June 18, 2020.
 
@@ -120,18 +120,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 |Destroyed. Originally from [Burlington, MA]({{< ref "wiki/Burlington, MA (10 Wall St).md" >}}).
 |}
 
-##Gallery##
-<gallery>
-File:SpringfieldMAExterior2003.jpg|Exterior before 2005 Remodel (2003) (PC: showbizpizza.com)
-File:SpringfieldMAShowroomCurtainsClosed2003.jpg|Showroom with Curtains Closed (2003) (PC: showbizpizza.com)
-File:SpringfieldMACenterStage2003.jpg|Center Stage (2003) (PC: showbizpizza.com)
-File:SpringfieldMAStageRight2003.jpg|Stage Right (2003) (PC: showbizpizza.com)
-File:SpringfieldMAStageLeft2003.jpg|thumb|Stage Left (2003) (PC: showbizpizza.com)
-File:SpringfieldMAFullStage2003.jpg|thumb|Full Stage (2003) (PC: showbizpizza.com)
-File:SpringfieldMAGameroom12003.jpg|thumb|View of part of the Gameroom (2003) (PC: showbizpizza.com)
-File:SpringfieldMAPizzacam.jpg|thumb|Pizzacam (2003) (PC: showbizpizza.com)
-File:SpringfieldMASmallGameroom2003.jpg|thumb|The Small Gameroom that used to be at the front of the store (2003) (PC: showbizpizza.com)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

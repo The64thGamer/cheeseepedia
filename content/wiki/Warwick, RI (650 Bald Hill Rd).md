@@ -6,7 +6,7 @@ date = 2024-08-11T01:41:05Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","Blowseborg062","2600:4040:5A0E:D900:BC6D:7734:18F9:173A","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","2600:4040:5A0E:D900:B9F0:1AB4:4E45:7495","2600:4040:5A0E:D900:80EC:F561:38B:60E","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","Documentor"]
-gallery = ["T1RM4R0UM4STUS5PU24VDKYA1ED3HDUQQQ5N2BSU1S0ZWHYO.jpg|Chuck","Warwick","Warwick","Warwick"]
+gallery = []
 +++
 {{Generic|image=Warwick10sExterior.jpg|desc=Warwick's Exterior before the 2.0 remodel (2023) (PC: Jeff Foxx)}}
 **_650 Bald Hill Rd, Store #645**_ is a _Chuck E. Cheese's_ located in the Midland Commons Shopping Center in Warwick, Rhode Island, as a freestanding building. It opened on March 6, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
@@ -81,13 +81,8 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 |None
 |In Use
 |}
-##Gallery##
-<gallery>
-File:T1RM4R0UM4STUS5PU24VDKYA1ED3HDUQQQ5N2BSU1S0ZWHYO.jpg|Chuck E Performing in his Late Night Tuxedo (PC: Justyna S.) (2/9/2011)
-File:Warwick Original Exterior (12-30-2011).jpg|Exterior Entrance before the 2005 Remodel (PC: Kino D) (12/30/2011)
-File:Warwick Exterior 2017.jpg|Exterior Entrance back in 2017 (PC: Percy B) (6/26/2017)
-File:Warwick Trampoline Zone Pre-Setup.jpg|Warwick's trampoline prior to setup (PC: CEC Warwick on YouTube) (4/26/2024)
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

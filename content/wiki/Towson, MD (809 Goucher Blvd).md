@@ -6,7 +6,7 @@ date = 2024-07-31T18:05:13Z
 
 [Article]
 contributors = ["Sptparole","Documentor","Rexburg090","ShowbizMidwest","RedaCEC","GainerXO","ThatBoiCydalan","Cecriva","2607:FB91:8A6:D919:7D27:566B:4E8B:D39B","Tux Chuck","AnthonyRWikis7283","AstridMascotFan2005"]
-gallery = ["310509087","310009621","Towsonstage.jpg|Towson's"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Towsonoutside.jpg|desc=Exterior 2005}}
 **_Towson, MD (809 Goucher Blvd)**_ **_Store #79**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf</ref> was a _Chuck E. Cheese's_ located in Towson, Maryland, in a plaza next to Towson Place.
@@ -43,12 +43,8 @@ The Towson Location opened sometime around August 1993 with the [1-Stage]({{< re
 |August 2006
 |}
 
-##Gallery##
-<gallery>
-File:310509087 1272492183552703 7763105862065164161 n.jpg|Towson's Showroom
-File:310009621 647061067024538 7751524243922900311 n.jpg|Towson's Stage
-File:Towsonstage.jpg|Towson's Stage
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

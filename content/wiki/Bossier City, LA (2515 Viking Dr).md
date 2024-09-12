@@ -6,7 +6,7 @@ date = 2024-08-09T21:00:34Z
 
 [Article]
 contributors = ["CorrectorMan","47.17.236.200","Caydenpedia","The 64th Gamer","Signal08","Cheeseclassic","AstridMascotFan2005"]
-gallery = ["MiSSING.png|This"]
+gallery = []
 +++
 {{Generic|image=New bossier city.jpg|desc=Pre 2.0 Exterior. (PC: Google Maps)}}
 {{NoSources}}
@@ -51,7 +51,4 @@ Bossier City opened before the 2013 remodel was finalized, which is why a lot of
 |Removed from stage; unknown
 |}
 
-##Gallery##
-<gallery>
-File:MiSSING.png|This picture was taken 12/28/23.
-</gallery>
+

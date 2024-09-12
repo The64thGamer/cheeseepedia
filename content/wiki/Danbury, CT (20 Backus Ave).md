@@ -45,10 +45,8 @@ After the store permanently closed, the bot was sent to [Wilmington, NC (4389 Ol
 |N/A
 |Sent to Wilmington, NC, unused. After Wilmington's closure, it was saved by a Private Collector.
 |}
-## Gallery ##
-<gallery>
-Bev-Max-SportsClips20BackusAve.png|Google Street View of 20 Backus Ave after the CEC's closure
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

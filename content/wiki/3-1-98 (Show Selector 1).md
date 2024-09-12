@@ -9,9 +9,7 @@ contributors = ["The 64th Gamer","Letterstolooneybird"]
 gallery = []
 +++
 ##Showtape Scans / Images:##
-<gallery>
-ss1 3198.png
-</gallery>
+
 
 ## [https://www.worthpoint.com/worthopedia/creative-engineering-rockafire-1895904689 Segments] ##
 

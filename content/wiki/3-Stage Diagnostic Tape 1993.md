@@ -330,11 +330,7 @@ Munch, Jr. Raise
 Flower Mouth
 *
 ##Showtape Scans / Images:##
-<gallery>
-VHS-1.jpg|SVHS Tape Scan
-image0.jpg|SVHS Tape
-fwfwfewefwewgrg.png|SVHS Tape
-</gallery>
+
 
 ## Trivia: ##
 

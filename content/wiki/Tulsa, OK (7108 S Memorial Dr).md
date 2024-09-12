@@ -178,7 +178,7 @@ Currently, as of May 2023, the location still has the 2019 Model Dance Floor and
 |Destroyed.
 |}
 
-##Gallery##
+
 TODO
 
 ##Videos##

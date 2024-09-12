@@ -6,7 +6,7 @@ date = 2024-07-07T07:24:54Z
 
 [Article]
 contributors = ["ChuckECool","CorrectorMan","CECcovinaca","Chez","Cheeseclassic","ThatBoiCydalan","Estsproduction","Stripes","Snowbobsuperboi"]
-gallery = ["Covina","Covina.jpg|Covina's"]
+gallery = []
 +++
 {{Generic|image=Covina's Exterior in 2024.jpg|desc=Covina's exterior in May 2024. (PC: Google Maps)}}
 **_601 Azusa Ave**_ is a _Chuck E. Cheese's_ which opened in August 1980 (day unknown) as a _Pizza Time Theatre_ with a Cyberamics Portrait / Shelf Stage (Portrait Stage), which is still open to this day.
@@ -107,9 +107,6 @@ In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel)
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Covina exterior.png|Covina 1989 (PC: Youtube)
-File:Covina.jpg|Covina's exterior in 2019. (PC: Google Maps)
-</gallery>
+
+
 ## References ##

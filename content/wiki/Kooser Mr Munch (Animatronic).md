@@ -6,7 +6,7 @@ date = 2023-07-18T17:27:44Z
 
 [Article]
 contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","216.125.34.66","The 64th Gamer"]
-gallery = ["Kooser","Retynrtvr3c2df345g.png|1979"]
+gallery = []
 +++
 {{Generic|image=Kooser Munch.jpg|desc=Munch from the Great All American Pizza Show Franchise brochure}}
 
@@ -23,8 +23,4 @@ Kooser Munch is a purple monster animatronic that is covered in thick purple fur
 * Mouth
 * Doors
 * Arm Out
-##Gallery##
-<gallery>
-File:Kooser Helen 2.png|Promotional Photo, December 1978.
-File:Retynrtvr3c2df345g.png|1979 Footage
-</gallery>
+

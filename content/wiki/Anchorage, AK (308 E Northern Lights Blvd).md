@@ -68,7 +68,7 @@ This store was the first to open in the state of Alaska, opening in 1982 (month 
 |June 8th 2006
 |}
 
-## Gallery ##
+
 TODO
 
 ## Animatronics ##

@@ -6,7 +6,7 @@ date = 2022-09-27T22:01:17Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -24,13 +24,13 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## 5 Seconds of Summer - 'Hey Everybody'
 ## CEC Promo - 'Rip It, Win It'
 ## Caspar Babypants - 'My Flea Has Dogs'
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## Chuck E. Cheese & Pasqually - 'Keep Drummin' (New)
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## LOCASH - 'I Love This Life'
 ## Cartoon Network - We Bare Bears - 'Jean Jacket'
 ## Meghan Trainor - 'Better When I'm Dancin'
@@ -38,30 +38,30 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 # **Skit 2**
 ## Chuck E. & Friends - 'Giant Armadillo Named Phil'
 # **Intermission 3**
-## [[File:New Graphic.png]] Kidz Bop - 'Make Some Noise'
+##  Kidz Bop - 'Make Some Noise'
 ## CEC Sketch - Helen Henny's Hollywood - 'Sean's Pen'
-## [[File:New Graphic.png]] Cartoon Network - Clarence - 'Lunch'
-## [[File:New Graphic.png]] Pentatonix - 'Cheerleader'
+##  Cartoon Network - Clarence - 'Lunch'
+##  Pentatonix - 'Cheerleader'
 ## CEC Promo - 'Birthdays'
-## [[File:New Graphic.png]] Sara Bareilles - 'Brave'
-## [[File:New Graphic.png]] Cartoon Network - Steven Universe - 'Guitar Dad'
-# [[File:New Graphic.png]] **Skit 3**
+##  Sara Bareilles - 'Brave'
+##  Cartoon Network - Steven Universe - 'Guitar Dad'
+#  **Skit 3**
 ## Chuck E. Cheese - 'Let's Have a Party' (New)
 # **Intermission 4**
-## [[File:New Graphic.png]] Caspar Babypants - 'The Creatures Under My Bed'
+##  Caspar Babypants - 'The Creatures Under My Bed'
 ## CEC Promo - 'Fundraisers' 
-## [[File:New Graphic.png]] CEC Sketch - Jokes From Pasqually - 'Bees'
-## [[File:New Graphic.png]] Daft Punk - 'Around The World'
-## [[File:New Graphic.png]] Cartoon Network - Teen Titans Go - 'Robins Sandwich'
+##  CEC Sketch - Jokes From Pasqually - 'Bees'
+##  Daft Punk - 'Around The World'
+##  Cartoon Network - Teen Titans Go - 'Robins Sandwich'
 # **Skit 4**
 ## Chuck E. Cheese - 'Most Epic Mouse'
 
 ## Lives: ##
 
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]] Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
+*  Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]] Chuck E.'s Happy Dance (3stage, Cyberamic, Studio C,Weigl)
+*  Chuck E.'s Happy Dance (3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 * Do The Roll (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
@@ -75,10 +75,7 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 *[https://www.youtube.com/watch?v=iwYqTQmF_wM 'Let's Have a Party' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show116CECstage.png|Studio C DVD
-s-l1600 (19).jpg|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

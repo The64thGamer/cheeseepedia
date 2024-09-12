@@ -6,10 +6,10 @@ date = 2023-01-03T19:02:36Z
 
 [Article]
 contributors = ["167.102.161.204","RedaCEC"]
-gallery = []
+gallery = ["Gigi Gator.jpg|thumb|"]
 +++
-[[File:Gigi Gator.jpg|thumb|]]
+
 Allison Alligator/ Gigi Gator, is a Mr. Munch retrofit made by Mechanical Displays, Inc. for the 'Traveling Theme Park Band' show.
 
-## Gallery ##
+
 TBA

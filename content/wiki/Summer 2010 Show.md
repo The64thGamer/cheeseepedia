@@ -81,11 +81,7 @@ This show played from July - August 31, 2010.
 ## Pajanimals - 'Stick To The Plan'
 ## CEC TV ID - 'Aquarium'
 ##Showtape Scans / Images:##
-<gallery>
-uuuufff.jpg|3-Stage DVD
-Sum10.jpg|3-Stage DVD (Alternate Design?)
-sssddd.jpg|Studio C DVD
-</gallery>
+
 ##Lives: ##
 * Birthday 2009 (3stage, Cyberamic, Studio C)
 *Chuck E. Says (3stage, Cyberamic, Studio C)

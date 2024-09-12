@@ -6,7 +6,7 @@ date = 2024-07-24T20:30:23Z
 
 [Article]
 contributors = ["Jeff Marks","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE","ShowbizMidwest","Cecfan2004","Cecrocks","AstridMascotFan2005"]
-gallery = ["Lansing","Kidsworld"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Lansing mi cec exterior.jpg|desc=The store's exterior before the 2.0 remodel}}
 
@@ -54,11 +54,8 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 |July 31st, 2022
 |}
 
-##Gallery##
-<gallery>
-File:Lansing mi cec exterior before 2005 remodel.jpg|Exterior before the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}).
-File:Kidsworld chuck e.png|Close view of the Chuck E. animatronic on April 18th, 2010
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

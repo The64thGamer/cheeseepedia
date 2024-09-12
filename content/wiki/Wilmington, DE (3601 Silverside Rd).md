@@ -100,7 +100,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Destroyed
 |}
 
-## Gallery ##
+
 TODO: Gallery
 
 ## Videos ##

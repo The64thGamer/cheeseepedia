@@ -6,7 +6,7 @@ date = 2024-04-21T23:36:32Z
 
 [Article]
 contributors = ["Rexburg090","CEC Tinley","73.227.134.239","The 64th Gamer"]
-gallery = ["Burlingtion","g2g4werfg43g234wg.png|(2004-2007)","67k678ik678k6k5.png|(2004-2007)","23d23234567678.png|(2004-2007)","67rinm867uin7un53tw.png|(2004-2007)","yugjnvcbtfgfgbntyj.png|(2004-2007)","wyb4b3xe23xe2x3.png|(2004-2007)","3x2z3e234rc23xx32e.png|(2004-2007)","2wx2wszx3edfc45v3fc54v.png|(2004-2007)","654v4312sdx3ex234rdf.png|(2004-2007)","324cr34rq3qv.png|(2004-2007)","34qtv343x3ex3x2.png|(2004-2007)","3tv5ytyyyyyyy.png|(2004-2007)","nmj786n653b3.jpg|(2004-2007)","356rthg445.jpg|(2004-2007)","w4ybn4nb4y.jpg|(2004-2007)","w5ytbn345yn.jpg|(2004-2007)","ybn4wyty4.jpg|(2004-2007)","45wnytgywr65345654.jpg|(2004-2007)","dfg3f4r4v2t5ybn245.jpg|(2004-2007)","7i8n58i90pm90opll.jpg|(2004-2007)"]
+gallery = []
 +++
 {{Generic|image=CEC bur.jpg|desc=Exterior (Unknown Year)}}
 
@@ -77,30 +77,8 @@ Finally on July 16th, 2017, Burlington was permanently closed and it’s now a X
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Burlingtion 1990s.png|Chuck E. Walkaround (1990's)
-File:g2g4werfg43g234wg.png|(2004-2007)
-File:67k678ik678k6k5.png|(2004-2007)
-File:23d23234567678.png|(2004-2007)
-File:67rinm867uin7un53tw.png|(2004-2007)
-File:yugjnvcbtfgfgbntyj.png|(2004-2007)
-File:wyb4b3xe23xe2x3.png|(2004-2007)
-File:3x2z3e234rc23xx32e.png|(2004-2007)
-File:2wx2wszx3edfc45v3fc54v.png|(2004-2007)
-File:654v4312sdx3ex234rdf.png|(2004-2007)
-File:324cr34rq3qv.png|(2004-2007)
-File:34qtv343x3ex3x2.png|(2004-2007)
-File:3tv5ytyyyyyyy.png|(2004-2007)
-File:nmj786n653b3.jpg|(2004-2007)
-File:356rthg445.jpg|(2004-2007)
-File:w4ybn4nb4y.jpg|(2004-2007)
-File:w5ytbn345yn.jpg|(2004-2007)
-File:ybn4wyty4.jpg|(2004-2007)
-File:45wnytgywr65345654.jpg|(2004-2007)
-File:dfg3f4r4v2t5ybn245.jpg|(2004-2007)
-File:7i8n58i90pm90opll.jpg|(2004-2007)
-</gallery>
+
+
 
 
 ## Videos ##

@@ -6,7 +6,7 @@ date = 2024-07-08T17:02:00Z
 
 [Article]
 contributors = ["JamesLemony","PizzaEntertainmentFanX","FileFickle","The 64th Gamer","CECMadison"]
-gallery = ["Cabaret","CabaretHelen2.jpg|Citrus","hhlounge.png|Nolan"]
+gallery = []
 +++
 {{Animatronic|image=Cabaret Helen.jpg|unitsProduced=2 Currently Confirmed|releasedate=1979|finalrelease=1980|manufacturer=Pizza Time Theatre}}
 
@@ -38,11 +38,7 @@ The bot features 8 movements in total.
 |-
 |Hands
 |}
-<gallery>
-File:Cabaret HelenH.jpg|Huntington Beach, CA
-File:CabaretHelen2.jpg|Citrus Heights, CA
-File:hhlounge.png|Nolan Bushnell with Helen
-</gallery>
+
 
 ##Known Locations##
 {| class='wikitable'

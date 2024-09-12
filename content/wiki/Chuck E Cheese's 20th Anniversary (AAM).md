@@ -6,7 +6,7 @@ date = 2024-05-17T04:56:58Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Aamshowscreen.jpg|date=April 1, 1997|laseraam=y|d1 name=Showtape Recording FLACs|d1 download=https://archive.org/details/awesome-adventure-machine-april-1997-flacs}}
@@ -17,21 +17,21 @@ The **_Chuck E Cheese's 20th Anniversary Show (AAM Version)**_ was a modified ve
 _Brian Hagan_, programmer for the showtape and later Studio Manager of CEC Entertainment, would record the show's major segments as an archival recording of the stage, being the only footage known of the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}). The footage would be recorded on a Sony Hi8 camcorder with the video fed to a Sony Betacam SP video recorder. The audio was recorded directly to the Betacam SP deck from the Laserdisc source, making it the only known copy of the original audio- as Brian recounts all AAM showtape discs being thrown out.<ref>https://youtu.be/3ynDO4UGEqk</ref>
 
 ##Show List##
-#[[File:New Graphic.png]] **Segment 1**
+# **Segment 1**
 ##Dolby Surround Trailer 
 ##Whoomp! (There It Is)
-#[[File:New Graphic.png]] **Intermission 1**
+# **Intermission 1**
 ##The Worry Song
-#[[File:New Graphic.png]] **Segment 2**
+# **Segment 2**
 ##Dolby Surround Trailer 
 ##Don't Hurry To Worry
-#[[File:New Graphic.png]] **Segment 3**
+# **Segment 3**
 ##Dolby Surround Trailer
 ##Car Wash
-#[[File:New Graphic.png]] **Segment 4**
+# **Segment 4**
 ##Dolby Surround Trailer
 ##Oh Yeah!
-#[[File:New Graphic.png]] **Segment 5**
+# **Segment 5**
 ##Dolby Surround Trailer 
 ##Every Boy / Every Girl 20th Anniversary Theme Song
 

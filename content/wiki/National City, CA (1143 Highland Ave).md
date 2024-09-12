@@ -42,7 +42,7 @@ In 2007/2008, National City received the 2005 update to the [CEC 2005 Remodel Pr
 |October 17, 2020
 |}
 
-## Gallery ##
+
 TODO
 
 ## Animatronics ##

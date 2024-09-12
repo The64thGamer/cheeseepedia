@@ -6,7 +6,7 @@ date = 2023-03-22T19:56:51Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer"]
-gallery = ["PM1.jpg|Pumpkin","Pumpkin","PM2.png|Head"]
+gallery = []
 +++
 {{Generic|desc=Pumpkin Festival Munch|image=Pumpkin Festival Munch.jpg}}
 
@@ -20,9 +20,4 @@ The display for Munch has changed several times, but for most years has been sit
 ## Design ##
 Munch is changed to look like a Pumpkin. Notably, his entire body and mask are now orange, with black triangles added where his yellow nostrils were and a stem was added at the top of the mask, Munch used to wear glasses but those since were removed most likely due to being destroyed, his hands were replaced with green hands to replicate the green pumpkins are seen with. A long green vine was warped up originally around his head although now is warped around his neck.
 
-## Gallery ##
-<gallery>
-File:PM1.jpg|Pumpkin Festival Munch in 2006 seen with the glasses.
-File:Pumpkin Festival Munch.jpg|Full body shot (2018)
-File:PM2.png|Head mech of Pumpkin Festival Munch (2019)
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2023-12-06T22:40:15Z
 
 [Article]
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ShowbizMidwest","Melrosefool2763","Blowseborg062","SinStar","CEC Illinois","Cheeseclassic"]
-gallery = ["Right","Interior","Olive","Exterior"]
+gallery = []
 +++
 {{Generic|image=Melrose old park.jpg|desc=Melrose Park's exterior in the 2000s. (PC: Unknown)}}
 **_1315 W North Ave, Store #54**_ was a _Chuck E. Cheese's Pizza_ that opened on September 24, 1991, with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in August 2012 (day unknown) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). 
@@ -43,13 +43,8 @@ In August 2012 (day unknown), the location relocated to Winston Plaza for bigger
 ## Videos ##
 TODO
 
-## Gallery ##
-<gallery>
-File:Right view of exterior.jpg|alt=Right Side Of The Exterior|A Photo of the Right Side of the Exterior
-File:Interior Photo.jpg|A Photo Taken of the interior with the showroom in the background
-File:Olive Garden Being Built.jpg|The location shortly after being demolished and during the construction of Olive Garden.
-File:Exterior After Closing.jpg
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

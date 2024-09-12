@@ -6,7 +6,7 @@ date = 2024-08-16T13:42:44Z
 
 [Article]
 contributors = ["Rexburg090","CECBowlingGreen","Rileypaulson","Polykirisame","ChuckECool","209.129.28.15","173.216.33.6","Cecbird","76.167.210.169","167.224.250.176","Chuckstar69","174.243.178.17","SuperCreamPiper2008","Cheeseclassic","JND","CoolerDude","Veronancy","AstridMascotFan2005"]
-gallery = ["VISALIA","DSC01538.jpg|Visalia's","Cecvisiala.png|Picture","Visalia","Visalia","Visalia","Visalia"]
+gallery = []
 +++
 {{Generic|image=Visalia_exterior_2.0.PNG|desc=Visalia's exterior in February 2024. (PC: SpeedyoGamerGioLeo)}}
 **_4345 W Noble Ave, Store #43**_ was a Showbiz Pizza Place that opened on May 2, 1983 with a Rock-afire Explosion, which is still open to this day with the 2.0 remodel.
@@ -100,16 +100,8 @@ Originally when the store opened, they had a [Rock-Afire Explosion]({{< ref "wik
 |N/A
 |Destroyed / Thrown Away
 |}
-##Gallery##
-<gallery>
-File:VISALIA SPP.jpg|Visalia's Rock-afire Explosion.
-File:DSC01538.jpg|Visalia's 3-Stage (Center Stage) (August 2021).
-File:Cecvisiala.png|Picture from the store's Photo Ride car showing the tables walled off with caution tape. (PC: Sherry Ferreira)
-File:Visalia chuck.png|Visalia, CA's Chuck animatronic on January 15th 2024. (PC: VeroNancy)
-File:Visalia helen.png|Visalia, CA's Helen animatronic on January 15th 2024. (PC: VeroNancy)
-File:Visalia munch.png|Visalia, CA's Munch animatronic on January 15th 2024. (PC: VeroNancy)
-File:Visalia jasper.png|Visalia, CA's Jasper animatronic on January 15th 2024. (PC: VeroNancy)
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

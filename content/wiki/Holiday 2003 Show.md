@@ -94,6 +94,3 @@ gallery = []
 *Go Santa Go
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 ##Showtape Scans / Images:##
-<gallery>
-BusinessCard_2021-08-09_182104.jpg|Studio C Floppy Scan (Version 1.03)
-</gallery>

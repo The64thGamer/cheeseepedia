@@ -6,7 +6,7 @@ date = 2023-06-18T04:06:30Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=April2002.jpg
@@ -17,41 +17,41 @@ gallery = []
 **_January 2004 Show**_ is a showtape released in January 2004 which ran through March 2004. 
 
 ##Show List:##
-# **[[File:New Graphic.png]]** **Segment 1**
+# **** **Segment 1**
 ## [https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song) 'Sing A Song']
 ## [https://en.wikipedia.org/wiki/Somebody%27s_Watching_Me 'Somebody's Watching Me']
 #**Intermission 1**
 ## CEC TV ID - 'Marquee'
-## **[[File:New Graphic.png]]** Coke Groove
-##**[[File:New Graphic.png]]** Veggietales - 'Boids'
+## **** Coke Groove
+##**** Veggietales - 'Boids'
 ## Countdown - 'Home With A Range'
 ##CEC TV ID - 'Cows'
-# **[[File:New Graphic.png]]** **Segment 2**
+# **** **Segment 2**
 ## [https://en.wikipedia.org/wiki/Who_Put_the_Bomp_(in_the_Bomp,_Bomp,_Bomp) 'Who Put The Bomp']
 ## [https://en.wikipedia.org/wiki/Breakout_(Swing_Out_Sister_song) 'Breakout']
 #**Intermission 2**
 ## CEC TV ID - 'Parachute'
-## **[[File:New Graphic.png]]** More Fun Spot
-## **[[File:New Graphic.png]]** Eddie Coker - 'Play With Me'
+## **** More Fun Spot
+## **** Eddie Coker - 'Play With Me'
 ## Eddie Coker - 'Happy One'
 ## Countdown - 'Where is Chuck E.' / 'The More We Get Together'
 ##CEC TV ID - 'Dancing Food'
-# **[[File:New Graphic.png]]** **Segment 3**
+# **** **Segment 3**
 ## [https://en.wikipedia.org/wiki/I%27m_Walkin%27 'I'm Walkin_]
 ## [https://en.wikipedia.org/wiki/September_(Earth,_Wind_%26_Fire_song) 'September']
 # **Intermission 3**
 ## CEC TV ID - 'Pool Plug'
-## **[[File:New Graphic.png]]** Coke Groove
-## **[[File:New Graphic.png]]** Tube Explorer - 'The Coolest'
+## **** Coke Groove
+## **** Tube Explorer - 'The Coolest'
 ## Countdown - 'Pizza Cabana'
 ## CEC TV ID - 'Blender'
-# **[[File:New Graphic.png]]** **Segment 4**
+# **** **Segment 4**
 ## [https://en.wikipedia.org/wiki/Ain%27t_That_a_Shame 'Ain't That A Shame']
 ## 'Chuck E.'s Place'
 # **Intermission 4**
 ## CEC TV ID - 'Sunrise'
-## **[[File:New Graphic.png]]** More Fun Spot
-## **[[File:New Graphic.png]]** Monkey Ninjas - Episode 5
+## **** More Fun Spot
+## **** Monkey Ninjas - Episode 5
 ## CEC TV ID - 'Rocketship'
 ## Lives: ##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
@@ -66,13 +66,11 @@ gallery = []
 * Havin' A Party 01
 * If You're Happy and You Know It
 * Go Santa Go
-* **[[File:New Graphic.png]]** Let's Groove
+* **** Let's Groove
 **Birthday Break**: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-2021-08-09_175646.jpg|Studio C Floppy Scan
-</gallery>
+
 
 ## Production ##
 ### File Dates ###

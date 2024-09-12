@@ -6,7 +6,7 @@ date = 2024-06-16T01:31:10Z
 
 [Article]
 contributors = ["The 64th Gamer","CEC Washington","Documentor","BurgersNuggs445","Ceclife13","Dame0824"]
-gallery = ["April","April","April","April","April"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 **Spring / April 2012** is the spring show released April 2012, featuring eight new songs
 
@@ -31,38 +31,38 @@ Segment three starts with Chuck E. introducing the band. Then Helen talks about 
 Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
 
 ##Show List##
-#**[[File:New Graphic.png]]** **Segment 1** 
+#**** **Segment 1** 
 ##[https://en.wikipedia.org/wiki/Party_Rock_Anthem 'Party Rock Anthem']
 ##[https://en.wikipedia.org/wiki/The_Final_Countdown_(song) 'The Final Countdown']
 #**Intermission 1**
-##[[File:New Graphic.png]]Hard Hat Hank - 'Door Frame'
-##[[File:New Graphic.png]]Fraggle Rock - 'The Friendship Song'
-##[[File:New Graphic.png]]Magic Ticket Spot
+##Hard Hat Hank - 'Door Frame'
+##Fraggle Rock - 'The Friendship Song'
+##Magic Ticket Spot
 ##Chillout - 'Animals'
 ##CEC TV ID - 'Rocketship'
-#**[[File:New Graphic.png]]Segment 2**
+#**Segment 2**
 ##[https://en.wikipedia.org/wiki/Everybody_Have_Fun_Tonight 'Everybody Have Fun Tonight']
 ##[https://en.wikipedia.org/wiki/Camouflage_(Brad_Paisley_song) 'Camouflage']
 #**Intermission 2** 
-##[[File:New Graphic.png]]VeggieTales - 'Bubble Rap'
-##[[File:New Graphic.png]]The Dirty Sock Funtime Band - 'Love It'
+##VeggieTales - 'Bubble Rap'
+##The Dirty Sock Funtime Band - 'Love It'
 ##Chillout - 'Flying'
 ##CEC TV ID - 'Astronaut'
-#**[[File:New Graphic.png]]** **Segment 3** 
+#**** **Segment 3** 
 ##[https://en.wikipedia.org/wiki/Love_Story_(Taylor_Swift_song) 'Love Story']
 ##'Pizza Oven' (Parody of [https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song) 'Evil Woman'])
 #**Intermission 3**
-##[[File:New Graphic.png]]Fraggle Rock - 'Gonna Have Fun Tonight'
+##Fraggle Rock - 'Gonna Have Fun Tonight'
 ##Fundraising Spot
 ##Chillout - 'Shopping Cart'
 ##CEC TV ID - 'Blue'
-#**[[File:New Graphic.png]]Segment 4** 
+#**Segment 4** 
 ##'I Need A New Wheel' (Parody of [https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song) 'Head Over Heels'])
 ##[https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song) 'Best of My Love']
 #**Intermission 4**
 ##CEC TV ID - 'Color The Numbers'
-##[[File:New Graphic.png]]Fraggle Rock - 'Wembley & the Gorgs'
-##[[File:New Graphic.png]]The Dirty Sock Funtime Band - 'Rest Stop'
+##Fraggle Rock - 'Wembley & the Gorgs'
+##The Dirty Sock Funtime Band - 'Rest Stop'
 ##Monkey Ninjas - Episode 6
 ##Chillout - 'Green Room'
 ##CEC TV ID - 'Marx Bros'
@@ -86,20 +86,11 @@ In 'Party Rock' The Break Dancing Teddy Bear is seen in areas not included in th
 * All segments that were not on location was shot at MPS Studios in Dallas, TX.
 * I Need A New Wheel -  Birds Fort Trail Park, E Las Colinas Blvd Irving, TX
 
-### Gallery ###
-<gallery>
-File:April 2012 BTS1.jpg|Chuck E. with The Break Dancing Teddy Bear (Alowicious Dimpleton)
-File:April 2012 BTS2.jpg|I Need A New Wheel
-File:April 2012 BTS3.jpg|Marvin The Technology Guru
-File:April 2012 BTS4.jpg|The Break Dancing Teddy Bear playing a Keytar
-File:April 2012 BTS5.jpg|I Need A New Wheel
-</gallery>
+##
+
 
 ##Showtape Scans / Images##
-<gallery>
-Spring12DVD.png|Studio C DVD
-wsxwsxwsxwsx.jpg|3-Stage DVD
-</gallery>
+
 ##Trivia##
 *All of the chillouts are reused. 'Shopping Cart' is from April 2005, 'Flying' and 'Green Room' are from September 2006, and 'Animals' is from September 2011.
 *This would be the last show released with Duncan Brannan as the voice of Chuck E. Cheese and Larry the Technician.

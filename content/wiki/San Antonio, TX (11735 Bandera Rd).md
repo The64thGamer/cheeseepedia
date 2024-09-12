@@ -6,7 +6,7 @@ date = 2024-08-09T16:09:11Z
 
 [Article]
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
-gallery = ["Bandera2009-1.jpg|Showroom","Banderacurrentshowroom.jpg|Showroom","Bandera2004stage.jpg|Animatronic","Bandera2009-2.jpg|Animatronic","Banderachuckgetswomenunknownyear.png|Animatronic","Banderastageapril2014.jpg|Animatronic","Bandera2004gameroom.jpg|Bandera's"]
+gallery = []
 +++
 {{Generic|image=Bandera2015remodelexterior.jpg|desc=Pre 2.0 Exterior}}
 **_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002, with a Studio C Beta, and is still open to this day.
@@ -196,17 +196,9 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 |December 22nd, 2022
 |}
 
-##Gallery##
+
  
-<gallery>
-File:Bandera2009-1.jpg|Showroom in 2009. 
-File:Banderacurrentshowroom.jpg|Showroom in September 2022. 
-File:Bandera2004stage.jpg|Animatronic in 2004. 
-File:Bandera2009-2.jpg|Animatronic in 2009.
-File:Banderachuckgetswomenunknownyear.png|Animatronic in the early 2010s. 
-File:Banderastageapril2014.jpg|Animatronic in April 2014
-File:Bandera2004gameroom.jpg|Bandera's game room in 2004. 
-</gallery>
+
 
 *
 

@@ -6,9 +6,9 @@ date = 2024-07-15T17:19:37Z
 
 [Article]
 contributors = ["ArtieAntlers","The 64th Gamer","RPCEC","Rexburg090","RedaCEC","ChuckECool","CEC Tinley","CECswag2009"]
-gallery = ["Front2.jpg|Showbiz","Showbizyearbook.jpg|Showbiz","Street.jpg|Showbiz","Rockafire.jpg|The","Rockafire2.jpg|The","Walkaround.jpg|Chuck","Insideshowroom.jpg|Inside","Skytubes.jpg|SkyTubes","Entrancedoors.jpg|Doors","Liveshow.jpg|Chuck","Dining.jpg|Dining","Helenperforms.jpg|Helen","Chuckecheese.jpg|Chuck","Closed.jpg|After","Closed2.jpg|After"]
+gallery = ["Littlerockbuilding.jpg|thumb|Little Rock Chuck E. Cheese in ~2013."]
 +++
-[[File:Littlerockbuilding.jpg|thumb|Little Rock Chuck E. Cheese in ~2013.]]
+
 **_10901 N Rodney Parham Rd, Store #303**_ was a Chuck E. Cheese's located in Little Rock, Arkansas. 
 
 This location opened as a ShowBiz Pizza Place on December 22nd, 1982, and closed as a Chuck E. Cheese's on April 19th, 2014. 
@@ -114,24 +114,8 @@ Very long after Little Rock's closure, both it and the Kmart next door were comp
 |December 2013
 |}
 
-## Gallery ##
-<gallery>
-File:Front2.jpg|Showbiz storefront (1980s)
-File:Showbizyearbook.jpg|Showbiz mentioned in yearbook (1980s)
-File:Street.jpg|Showbiz sign (1980s)
-File:Rockafire.jpg|The Rockafire (1980s)
-File:Rockafire2.jpg|The Rockafire (1980s)
-File:Walkaround.jpg|Chuck E. walkaround (1990s)
-File:Insideshowroom.jpg|Inside the showroom (2010s)
-File:Skytubes.jpg|SkyTubes (2010s)
-File:Entrancedoors.jpg|Doors (2010s)
-File:Liveshow.jpg|Chuck performing (2010s)
-File:Dining.jpg|Dining family (2010s)
-File:Helenperforms.jpg|Helen singing (2010s)
-File:Chuckecheese.jpg|Chuck E. animatronic (2010s)
-File:Closed.jpg|After closure (May 2014)
-File:Closed2.jpg|After closure (May 2014)
-</gallery>
+
+
 
 ## Animatronics ##
 This store has closed. The whereabouts of the animatronics are uncertain. It is unknown whether they were destroyed, used for parts, sent to other stores, or saved by a third party.

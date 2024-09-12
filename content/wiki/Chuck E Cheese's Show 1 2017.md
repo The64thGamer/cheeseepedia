@@ -6,7 +6,7 @@ date = 2022-09-26T01:01:03Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -25,39 +25,39 @@ This was created to play from January 3rd, 2017 - February 26th, 2017. This show
 ## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] Spencer Ludwig - 'Diggy'
-## [[File:New Graphic.png]] Secret Agent 23 Skidoo - 'Pillowfort Pillowfight'
+##  Spencer Ludwig - 'Diggy'
+##  Secret Agent 23 Skidoo - 'Pillowfort Pillowfight'
 ## Chef Gregory Part 1 
-## [[File:New Graphic.png]] 'Rip It, Win It' TV Spot (USA Only)
-# [[File:New Graphic.png]] **Skit 1**
+##  'Rip It, Win It' TV Spot (USA Only)
+#  **Skit 1**
 ## Munch's Make Believe Band - 'Together We've Got It'
 # **Intermission 2**
 ## Chef Gregory Part 2 
-## [[File:New Graphic.png]] Blake Shelton - 'Friends'
-## [[File:New Graphic.png]] Josh & The Jamtones - 'Monkey Man'
-## [[File:New Graphic.png]] Ingrid Michaelson - 'Still the One'
-## [[File:New Graphic.png]] Skylanders Video Game Trailer
-## [[File:New Graphic.png]] Thomas Edison's Secret Lab - 'Pizza Song'
+##  Blake Shelton - 'Friends'
+##  Josh & The Jamtones - 'Monkey Man'
+##  Ingrid Michaelson - 'Still the One'
+##  Skylanders Video Game Trailer
+##  Thomas Edison's Secret Lab - 'Pizza Song'
 # **Skit 2**
 ## Munch's Make Believe Band - 'Song Title'
 # **Intermission 3**
-## [[File:New Graphic.png]] Avicii - 'The Nights'
-## [[File:New Graphic.png]] SpacePop - 'Start Something Big'
-## [[File:New Graphic.png]] Terrific Trucks - 'Car Crush'
-## [[File:New Graphic.png]] Alicia Keys - 'Blended Family'
+##  Avicii - 'The Nights'
+##  SpacePop - 'Start Something Big'
+##  Terrific Trucks - 'Car Crush'
+##  Alicia Keys - 'Blended Family'
 ## Buffet Promo 
-## [[File:New Graphic.png]] Michael & The Rockness Monsters - 'Pirate Song'
-# [[File:New Graphic.png]] **Skit 3**
+##  Michael & The Rockness Monsters - 'Pirate Song'
+#  **Skit 3**
 ## Chuck E. & Friends - 'Remember That Time'
 # **Intermission 4**
-## [[File:New Graphic.png]] Fergie - 'Clumsy'
-## [[File:New Graphic.png]] CEC Birthday T.V. Spot
-## [[File:New Graphic.png]] Fun Facts with Chuck E. - 'Bears'
+##  Fergie - 'Clumsy'
+##  CEC Birthday T.V. Spot
+##  Fun Facts with Chuck E. - 'Bears'
 ## CEC Fundraising Promo 
-## [[File:New Graphic.png]] Caspar Babypants - 'Googly Eyes' 
+##  Caspar Babypants - 'Googly Eyes' 
 # **Skit 4**
 ## Chuck E. Cheese - 'Your Birthdays Are Special'
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## Lunch Money Lewis - 'Ain't Too Cool'
 ## Michael & The Rockness Monster - 'Cosmic Vacation'
 ## My Little Pony - 'Party Pony Cheese'
@@ -79,11 +79,7 @@ This was created to play from January 3rd, 2017 - February 26th, 2017. This show
 
 
 ##Showtape Scans / Images:##
-<gallery>
-Show117dvd.jpg|Studio C DVD
-Show117Floppy.png|Studio C Floppy
-s-l1600 (25r).jpg|CEC-Stage DVD
-</gallery>
+
 
 ##Trivia:## 
 

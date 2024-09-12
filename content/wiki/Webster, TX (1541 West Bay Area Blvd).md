@@ -6,7 +6,7 @@ date = 2024-07-31T15:31:38Z
 
 [Article]
 contributors = ["Nostalgia Cow","ThatBoiCydalan","AstridMascotFan2005"]
-gallery = ["CEC"]
+gallery = []
 +++
 {{Generic|desc=Exterior|image=Webster texas.jpg}}**_Webster, TX (1541 West Bay Area Blvd), Store #592**_ is a Chuck E Cheese's location that opened on March 15, 1993, being the 2nd location in the Houston Texas area to open under the new 'Chuck E Cheese's Pizza' brand.
 
@@ -62,7 +62,4 @@ In July - August 2019, Webster, Texas would received the 'Chuck E Cheese's 2.0' 
 | https://youtu.be/IQLV-Ioi45o|| The final days of the location before the 2.0 remodel was finished. This is known as the last footage of the show ever recorded.  || August 21, 2019
 |}
 
-## Gallery ##
-<gallery>
-File:CEC webster before 2005 remodel.png|The store's exterior before receiving the 2005 remodel. (2004)
-</gallery>
+

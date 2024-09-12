@@ -6,7 +6,7 @@ date = 2024-07-06T20:39:37Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = [":Rickyrat75time.png",":PROTO LAYOUT.jpg"]
 +++
 {{Generic|image=Logo1979ptt.png|desc=Logo (1979)}}
 
@@ -54,7 +54,7 @@ gallery = []
 
 #### November ####
 * Just before the November IAAPA show, it would be stated Nolan's Coyote Pizza idea would be close to being greenlit for development at Atari.<ref name=':1' />
-* Nolan attends the _56th Annual IAAPA Convention._ At the event he would purchase a [generic rat costume]({{< ref "wiki/Rick Rat Walkaround.md" >}}) from a costuming company to be shipped to the Atari offices later. Nolan would believe this costume to be of a coyote.<ref name=':0'>http://www.showbizpizza.com/history/index.html</ref><ref>A June 1975 photo confirms he had to have acquired it in '74. [[:File:Rickyrat75time.png]]</ref> It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped, as other variants of the costume didn't have the rat tail or buck teeth- also being referred to by their owners as a coyote.<ref>[Rick Rat Walkaround]({{< ref "wiki/Rick Rat Walkaround.md" >}})</ref>
+* Nolan attends the _56th Annual IAAPA Convention._ At the event he would purchase a [generic rat costume]({{< ref "wiki/Rick Rat Walkaround.md" >}}) from a costuming company to be shipped to the Atari offices later. Nolan would believe this costume to be of a coyote.<ref name=':0'>http://www.showbizpizza.com/history/index.html</ref><ref>A June 1975 photo confirms he had to have acquired it in '74. </ref> It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped, as other variants of the costume didn't have the rat tail or buck teeth- also being referred to by their owners as a coyote.<ref>[Rick Rat Walkaround]({{< ref "wiki/Rick Rat Walkaround.md" >}})</ref>
 
 #### Winter ####
 
@@ -92,7 +92,7 @@ gallery = []
 
 #### August ####
 
-* On the 2nd, a set of building plans for the first restaurant would be written. The restaurant would be labeled as 'The Big Cheese', and as a 'Pizza Cabaret'.<ref>[[:File:PROTO LAYOUT.jpg]]</ref>
+* On the 2nd, a set of building plans for the first restaurant would be written. The restaurant would be labeled as 'The Big Cheese', and as a 'Pizza Cabaret'.<ref></ref>
 * Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.<ref name=':3' /> Atari opens the _Restaurant Operating Division_ of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the _Atari Consumer Division_.<ref>https://archive.org/details/atariincbusiness0000gold/page/326/mode/2up?q=%22Restaurant+Operating%22</ref><ref>http://www.showbizpizza.com/history/index.html</ref>
 
 #### September ####

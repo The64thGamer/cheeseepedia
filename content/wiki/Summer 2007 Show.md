@@ -90,10 +90,7 @@ This show played from July - August 2007.
 * Sammy Davenport - Music Director
 
 ##Showtape Scans / Images:##
-<gallery>
-2022-04-15_14-52.jpg|Studio C DVD Scan
-Sum073stg.jpg|3-Stage DVD
-</gallery>
+
 
 ## Trivia ##
 

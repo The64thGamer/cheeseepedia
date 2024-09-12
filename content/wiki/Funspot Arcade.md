@@ -6,7 +6,7 @@ date = 2024-09-09T00:16:44Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = [":Ohsocoolsourcepart1.png",":Epicsourcepart2f34tr4tg34tg.png"]
 +++
 {{Generic|image=Holidayinnarcademoment.png|desc=The arcade at the Holiday Inn Resort Orlando Suites (2023)}}
 
@@ -15,7 +15,7 @@ gallery = []
 The concept would be the first time the company focused on a chain of small arcades since 1974 with the [Atari Family Game Center]({{< ref "wiki/Atari Family Game Center.md" >}}) arcades.
 
 ## History ##
-Due to CEC being one of the largest purchasers of arcade games, alongside its training regimen for its staff to work on games, the company would begin pursuing the management of arcades in various hotels. Each deal would be worked out differently, with various designs and sets of machines fit for the hotel they reside in. The employees of the arcade itself are Chuck E. Cheese employees and managed separate from the hotel employees.<ref>[[:File:Ohsocoolsourcepart1.png]]</ref><ref>[[:File:Epicsourcepart2f34tr4tg34tg.png]]</ref> The arcades themselves typically do not use any CEC branding due to its separation from the standard locations.
+Due to CEC being one of the largest purchasers of arcade games, alongside its training regimen for its staff to work on games, the company would begin pursuing the management of arcades in various hotels. Each deal would be worked out differently, with various designs and sets of machines fit for the hotel they reside in. The employees of the arcade itself are Chuck E. Cheese employees and managed separate from the hotel employees.<ref></ref><ref></ref> The arcades themselves typically do not use any CEC branding due to its separation from the standard locations.
 
 In May of 2022, the first CEC managed arcade would open at the Holiday Inn Resort Orlando Suites.<ref>https://www.facebook.com/HolidayInnResortOrlandoSuitesWaterpark/videos/our-arcade-powered-by-chuck-e-cheese-is-fun-for-the-whole-family-and-guaranteed-/1100560364217769/</ref>
 

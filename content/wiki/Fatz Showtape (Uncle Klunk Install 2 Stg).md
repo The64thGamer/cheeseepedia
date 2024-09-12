@@ -35,6 +35,3 @@ gallery = []
 ##'You May Be Right'
 
 ##Showtape Scans / Images##
-<gallery>
-Klunk Installation Submaster.jpg|Reel Case Side (Submaster)
-</gallery>

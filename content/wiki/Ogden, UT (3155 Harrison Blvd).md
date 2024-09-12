@@ -6,7 +6,7 @@ date = 2024-03-16T19:40:01Z
 
 [Article]
 contributors = ["Pench0782","Puppetpals","The 64th Gamer","2600:1008:B10F:A3F2:6496:8108:4444:2936","Krimet Hetgrof"]
-gallery = ["05ddd.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","06d.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","04f.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","16cccc.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","Ogden91.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","Balls.png|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>","ParisCafe","Imagetgggg.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>","219803","Imagefffffffffffffffffffffffffffffffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>","Imageffffffffffffffffffffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>","Imagefffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>","Imagefff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>"]
+gallery = ["ParisCafe 2012.png|thumb|Paris Cafe during renovation efforts around the kitchen, 2012. Arcade collection is revealed.|287x287px"]
 +++
 {{Generic|desc=Ogden Utah in 1991, weeks before closure.|image=Ogden91.jpg}}
 
@@ -20,7 +20,7 @@ Ogden, Utah would open with a portrait show with Cyberamics, starring Foxy Colle
 When Ogden opened, the Cabaret act was housed by 2nd gen Dolli Dimples. Sometime near 1987, the Cabaret act would be filled by King. The wareabouts of other Cabaret acts are unknown. Sometime around 1987, the King would be replaced with a standalone TV until Ogden's closure. 
 
 ##History##
-[[File:ParisCafe 2012.png|thumb|Paris Cafe during renovation efforts around the kitchen, 2012. Arcade collection is revealed.|287x287px]]
+
 Prior to Ogden's opening, a franchise agreement was settled by Rocky Mountain Development Corp. and Pizza Time Theatre, Inc. to open a store in a 8000 square feet section of Harrison Plaza. Contractor Joseph Bauman worked with plans made by architect Ronald D. Hales, AIA, of Ogden to concept the store. When Ogden opened, it could seat 3,230 guests throughout the entire facility. The Pizza Time Theatre would premiere with Foxy Colleen's 'Showboat' showtape and Dolli Dimple's current showtape at the time.<ref>https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/</ref>
 
 In 1987, the store began to cheap out on some aspects. All shows were turned off and the King was replaced with a television monitor. Arcade Machines were breaking down and lighting fixtures burned out/  
@@ -49,22 +49,8 @@ _No video(s) from the PTT era have been found._
 |Local band plays in the Paris Cafe, nothing notable relating to PTT is shown.
 |2012
 |}
-##Gallery##
-<gallery>
-File:05ddd.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:06d.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:04f.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:16cccc.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:Ogden91.jpg|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:Balls.png|1991<ref>http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</ref>
-File:ParisCafe 2012.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:Imagetgggg.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:219803 427858340654704 705813277 of.jpg|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:Imagefffffffffffffffffffffffffffffffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:Imageffffffffffffffffffffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:Imagefffff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-File:Imagefff.png|2012-2014<ref>https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</ref>
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

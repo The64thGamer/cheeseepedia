@@ -6,7 +6,7 @@ date = 2021-12-09T09:22:03Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png"]
 +++
 {{Showtape
 |image=Velas thumbail.jpg 
@@ -30,7 +30,7 @@ Description in the clean video:
  Coin Bros: https://www.youtube.com/channel/UCL-hQzqcp-PD_SOwKo8YNJA
 
 ##Show List:##
-#**[[File:New Graphic.png]] Segment** **1**
+#** Segment** **1**
 ##Velas
 ##Official Releases##
 [https://www.youtube.com/watch?v=J_N_E_NHPu0 Velas * Rock-afired Song by Coin Bros on YouTube]

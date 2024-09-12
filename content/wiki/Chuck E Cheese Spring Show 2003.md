@@ -6,7 +6,7 @@ date = 2023-01-31T01:22:20Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=April03.jpg
@@ -20,32 +20,32 @@ In this show, Chuck E.'s good friend Dr. Googleplex has discovered the secret to
 
 ##Show List:##
 #**Intermission 1**
-## **[[File:New Graphic.png]]** Tube Explorer - 'Minute Maid'
+## **** Tube Explorer - 'Minute Maid'
 ## Countdown - 'Clementine'
-# **[[File:New Graphic.png]]** **Segment 1**
+# **** **Segment 1**
 ## [https://en.wikipedia.org/wiki/I%27ve_Got_the_Music_in_Me 'I've Got The Music In Me']
 ## [https://en.wikipedia.org/wiki/Live_It_Up_(Marshall_Dyllon_song) 'Live It Up']
 #**Intermission 2**
 ## CEC TV ID - 'Janitor'
-## **[[File:New Graphic.png]]** Eddie Coker - 'Give It Away'
-##**[[File:New Graphic.png]]** [https://en.wikipedia.org/wiki/Italian_Street_Song 'Italian Street Song']
+## **** Eddie Coker - 'Give It Away'
+##**** [https://en.wikipedia.org/wiki/Italian_Street_Song 'Italian Street Song']
 ## Countdown - 'Oh Susanna'
-# **[[File:New Graphic.png]]** **Segment 2**
+# **** **Segment 2**
 ## [https://en.wikipedia.org/wiki/Just_One_Look_(song) 'Just One Look']
 ## [https://en.wikipedia.org/wiki/Please_Mr._Postman 'Please Mr. Postman']
 ## [https://en.wikipedia.org/wiki/Let%27s_Go_(The_Cars_song) 'Let's Go']
 #**Intermission 3**
 ## CEC TV ID - 'Blender'
-## **[[File:New Graphic.png]]** Clifford The Big Red Dog
+## **** Clifford The Big Red Dog
 ## Countdown - 'Jack & Jill'
-# **[[File:New Graphic.png]]** **Segment 3**
+# **** **Segment 3**
 ## [https://en.wikipedia.org/wiki/Pop_Muzik 'Pop Muzik']
 ## [https://en.wikipedia.org/wiki/Shake_It_Up_(The_Cars_song) 'Shake It Up']
 # **Intermission 4**
 ## CEC TV ID - 'Couch'
-## **[[File:New Graphic.png]]** PBS Kids Promo
-## **[[File:New Graphic.png]]** 'Who Framed Roger Rabbit?' DVD Promo
-## **[[File:New Graphic.png]]** [https://en.wikipedia.org/wiki/I_Love_a_Piano 'I Love A Piano']
+## **** PBS Kids Promo
+## **** 'Who Framed Roger Rabbit?' DVD Promo
+## **** [https://en.wikipedia.org/wiki/I_Love_a_Piano 'I Love A Piano']
 ## Lives: ##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
@@ -59,14 +59,11 @@ In this show, Chuck E.'s good friend Dr. Googleplex has discovered the secret to
 * Havin' A Party 01
 * If You're Happy and You Know It
 * Go Santa Go
-* **[[File:New Graphic.png]]** [YMCA 03]({{< ref "wiki/YMCA 03.md" >}})
+* **** [YMCA 03]({{< ref "wiki/YMCA 03.md" >}})
 **Birthday Break**: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-2021-08-09_180820.jpg|Studio C Floppy Scan
-aba222.jpg|3-Stage SVHS
-</gallery>
+
 
 ## Production ##
 ### Credits ###

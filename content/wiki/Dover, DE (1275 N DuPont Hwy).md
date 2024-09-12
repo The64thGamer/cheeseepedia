@@ -6,7 +6,7 @@ date = 2024-03-28T01:29:06Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","Cheeseclassic"]
-gallery = ["Dover.jpg|Dover's"]
+gallery = []
 +++
 {{Generic|image=Dover Exterior, October 2023.jpg|desc=Exterior, October 2023}}
 **_1275 N DuPont Hwy**_ is a _Chuck E. Cheese's_ that opened on December 27, 2002, with a Small-Town Studio C Prototype and is still open today with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
@@ -51,7 +51,4 @@ Dover opened on December 27, 2002, as the last of 3 Small-Town Studio C Prototyp
 |Unknown/Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Dover.jpg|Dover's exterior after receiving bits of the 2005 update. (PC: simon.com)
-</gallery>
+

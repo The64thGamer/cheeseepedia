@@ -6,7 +6,7 @@ date = 2023-11-22T18:23:47Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","Rileypaulson","Rexburg090","ThatBoiCydalan","Cheeseclassic","SuperCreamPiper2008","Chez"]
-gallery = ["Phoenix,","PhoenixAZ35thCECExterior1995Remodel.jpg|Exterior","Phoenix,","Phoenixduring2.0.jpg|The","Phoenixgameroomduring2.0.jpg|Interior","PhoenixDecember2022.png|The"]
+gallery = []
 +++
 {{Generic|desc=The current exterior.|image=Phoenixexterior2023.png}}
 **_Phoenix, AZ (8039 North 35th Ave)**_ **_Store #621**_ was a Showbiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day.
@@ -98,15 +98,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Removed, Unknown
 |}
 
-##Gallery##
-<gallery>
-File:Phoenix, AZ (1995).jpg|alt=This is Phoenix's exterior in 1995.|Phoenix, AZ (1995)
-File:PhoenixAZ35thCECExterior1995Remodel.jpg|Exterior in 2005/2006 before remodeling to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2005 Remodel).
-File:Phoenix, AZ current exterior.jpg|The exterior before 2.0
-File:Phoenixduring2.0.jpg|The exterior during 2.0
-File:Phoenixgameroomduring2.0.jpg|Interior during 2.0
-File:PhoenixDecember2022.png|The 3-stage in December 2022
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

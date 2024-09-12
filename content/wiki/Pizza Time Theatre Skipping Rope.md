@@ -8,9 +8,4 @@ date = 2022-03-01T19:08:08Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Gallery ##
-<gallery>
-qwererrwerfgrew.jpg
-erwfgwrqwrfgrwrfg.jpg
-wqefgewrfqf.jpg
-</gallery>
+

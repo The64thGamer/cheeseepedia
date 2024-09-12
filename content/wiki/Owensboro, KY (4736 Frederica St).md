@@ -85,7 +85,7 @@ In 1991, they received Concept Unification which turned the Rock-afire Explosion
 |N/A
 |Unknown/Destroyed.
 |}
-##Gallery##
+
 TODO
 ##Youtube Videos##
 TODO

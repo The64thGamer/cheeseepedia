@@ -127,7 +127,3 @@ Pajanimals - 'Stick To The Plan'
 
 CEC TV ID - 'Aquarium'
 ##Showtape Scans / Images:##
-<gallery>
-uuuufff.jpg|3-Stage DVD
-sssddd.jpg|Studio C DVD
-</gallery>

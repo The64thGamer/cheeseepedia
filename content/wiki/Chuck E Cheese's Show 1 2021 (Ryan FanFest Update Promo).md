@@ -6,7 +6,7 @@ date = 2022-02-23T19:54:06Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Himitsu"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)
@@ -33,7 +33,7 @@ This was created with the idea to play between promotional events and would play
 #**Intermission 2**
 ## Katy Perry - “Never Really Over”
 ## Ben Rudnick  - “I Got a New Friend”
-## **[[File:New Graphic.png]]**  Ryan’s World - “FanFest”
+## ****  Ryan’s World - “FanFest”
 # **Skit 2**
 ## Chuck E. & Friends - “Ves Al Ratoncito”
 # **Intermission 3**
@@ -56,7 +56,7 @@ This was created with the idea to play between promotional events and would play
 # **Intermission 6**
 ## Kelly Rowland - “Crown”
 ## Musing with Mr. Munch Ep1
-## **[[File:New Graphic.png]]** Ryan’s World - “FanFest” 
+## **** Ryan’s World - “FanFest” 
 # **Skit 6**
 ## Chuck E. & Friends - 'My Family'
 # **Intermission 7**
@@ -81,6 +81,3 @@ This was created with the idea to play between promotional events and would play
 # Easy Dance (New Countdown) (Studio C, Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-dddsdwadqwweawsefwsaef.jpg|Studio C Floppy
-</gallery>

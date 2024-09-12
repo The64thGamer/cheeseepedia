@@ -6,7 +6,7 @@ date = 2024-05-29T20:31:13Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["WH2003_crash.jpg|At","WH2005_crash.jpg|Ditto","WH_fd_bc.png|With","wm_mask.png|Mask"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=crash.jpg|unitsProduced=2}}Buddy Crash was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which would be sold to Morey's Piers and Americana Amusement Park. His mask mold was later reused for the [Wolfman]({{< ref "wiki/The Wolfman (Animatronic).md" >}}) in the [Wolfpack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) and Colonel Stonewall J. Fox in the [Confederate Critter Show]({{< ref "wiki/Confederate Critter Show.md" >}}).
 
@@ -28,10 +28,4 @@ Due to lack of footage or photos of internals, movements can only be inferred. A
 * Left elbow
 * Right elbow
 
-## Gallery ##
-<gallery>
-File:WH2003_crash.jpg|At CEI's warehouse (2003)
-File:WH2005_crash.jpg|Ditto (2005)
-File:WH_fd_bc.png|With Fingers Dan
-File:wm_mask.png|Mask
-</gallery>
+

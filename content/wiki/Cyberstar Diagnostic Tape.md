@@ -27,9 +27,6 @@ One rip of the tape is dated 1986, despite the Cyberstar name not being coined u
 ##PROPS
 ##LIGHTS
 ##Showtape Scans / Images##
-<gallery>
-heheaheaaaaaaaa.png|Betamax Tape (Front)
-rgtftrfgb.png|Betamax Case (Front)
-</gallery>
+
 
 ## References ##

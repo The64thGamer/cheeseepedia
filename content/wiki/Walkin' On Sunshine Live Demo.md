@@ -8,7 +8,4 @@ date = 2022-06-03T05:48:45Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##Gallery##
-<gallery>
-livedemo walkin parade.png|SVHS Tape (Front, Bottom)
-</gallery>
+

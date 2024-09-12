@@ -6,7 +6,7 @@ date = 2024-04-27T17:37:15Z
 
 [Article]
 contributors = ["StudioC","The 64th Gamer","Documentor","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png"]
 +++
 {{Showtape
 |image=Fuckyou.png
@@ -21,7 +21,7 @@ This was created to play during Feb 27th, 2013 to April 13th, 2013.
 The band provides backup vocals for CeeLo Green as he preforms [https://en.wikipedia.org/wiki/Fuck_You_(CeeLo_Green_song) Fuck You] on stage.
 
 ##Show List##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##[https://en.wikipedia.org/wiki/Fuck_You_(CeeLo_Green_song) Fuck You]
 
 

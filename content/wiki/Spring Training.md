@@ -6,7 +6,7 @@ date = 2024-05-26T16:54:26Z
 
 [Article]
 contributors = ["The 64th Gamer","DerekCat","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape|image=Spring Training.png|date=March 1993|cusvhs=y|c&r=y|r12=y}}
 
@@ -22,7 +22,7 @@ gallery = []
 ##The Mailman
 ##2 Minutes Till Next Show
 ##Bicycle Built For Two
-#**[[File:New Graphic.png]] Segment 1**
+#** Segment 1**
 ##Roll With It
 ##Good Love
 #**Intermission 2**
@@ -35,7 +35,7 @@ gallery = []
 ##[https://en.wikipedia.org/wiki/Every_Little_Thing_(Jeff_Lynne_song) Jeff Lynne - Every Little Thing]
 ##CEC TV '93 ID
 ##VJ Spot
-#**[[File:New Graphic.png]] Segment 2**
+#** Segment 2**
 ##Take Me Out To The Ballgame
 #**Intermission 3**
 ##Save Us From Extinction
@@ -46,7 +46,7 @@ gallery = []
 ##CEC TV Classic ID
 ##VJ Spot
 ##1 Minute Countdown
-#**[[File:New Graphic.png]] Segment 3**
+#** Segment 3**
 ##In The Still Of The Night
 ##Midnight Special
 #**Intermission 4**
@@ -57,7 +57,7 @@ gallery = []
 ##4 Minutes Till Next Show
 ##CEC TV News - Munch For President
 ##VJ Spot
-#**[[File:New Graphic.png]] Segment 1**
+#** Segment 1**
 ##Roll With It
 ##Good Love
 #**Intermission 5**
@@ -69,7 +69,7 @@ gallery = []
 ##CEC TV '93 ID
 ##[https://en.wikipedia.org/wiki/The_Motown_Song Rod Stewart - The Motown Song (with The Temptations)]
 ##VJ Spot
-#**[[File:New Graphic.png]] Segment 2**
+#** Segment 2**
 ##Take Me Out To The Ballgame
 #**Intermission 6**
 ##Alphabetical
@@ -77,7 +77,7 @@ gallery = []
 ##3 Minutes Till Next Show
 ##Pasqually's Polka
 ##CEC TV '93 ID
-#**[[File:New Graphic.png]] Segment 3**
+#** Segment 3**
 ##In The Still Of The Night
 ##Midnight Special
 #**Intermission 7**

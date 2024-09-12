@@ -6,7 +6,7 @@ date = 2023-06-29T04:41:50Z
 
 [Article]
 contributors = ["Documentor","172.58.159.105","Ceclife13","Dame868"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2018
@@ -29,18 +29,18 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 
 # **Skit 1**
 ## Chuck E. Cheese & Friends - 'Share The Joy'
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## Oddbods - 'Gift Thief'
 ## Mariah Carey - 'Oh Santa!'
 ## Nina's World - 'Favorite Thing about Christmas'
 # **Skit 2**
 ## Chuck E. Cheese & Helen - 'Merry Christmas Time'
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Littlest Pet Shop - 'Call of the Wild Retreat'
 ## Asher Angel - 'Snow Globe Wonderland'
-# [[File:New Graphic.png]] **Skit 3**
+#  **Skit 3**
 ## Helen Henny - 'All I Want for Christmas'
-# [[File:New Graphic.png]] **Intermission 3**
+#  **Intermission 3**
 ## Lindsey Stirling - 'Dance of the Sugar Plum Fairy'
 ## Fun Facts with Chuck E. - 'Santa Claus'
 ## Monster High Ghoul Squad - 'Snowball Fight'
@@ -49,7 +49,7 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 ## Brady Rhymer - 'Hanukkah Rocks'
 # **Skit 4**
 ## Pasqually - 'What Do You Get a Sasquatch for Christmas?'
-# [[File:New Graphic.png]] **Intermission 4**
+#  **Intermission 4**
 ## Littlest Pet Shop - 'Classy & Refined'
 ## Kidz Bop - 'Go Christmas'
 # **Skit 5**
@@ -60,16 +60,16 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 ### Up On The Housetop
 ### Deck the Halls
 ### We Wish You a Merry Christmas
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## Shaman's Quest - 'Flight of the Penguin's'
 ## Reliant K - 'Sleigh Ride'
 ## Oddbods - 'Decorating'
 ## Jokes from Pasqually - 'Jokes for the Holidays'
 ## 98 Degrees - 'Season of Love'
 ## PacMan - 'Ho Ho Woah!'
-# [[File:New Graphic.png]] **Skit 6**
+#  **Skit 6**
 ## Chuck E. Cheese, Jungle & Jangle - 'Holiday Traditions'
-# [[File:New Graphic.png]] **Intermission 6**
+#  **Intermission 6**
 ## Oddbods - 'Season of Giving'
 ## Kit 'N Kate - 'The Gift'
 ## Show Break - 'Holiday Season'
@@ -97,11 +97,7 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 *[https://www.youtube.com/watch?v=jMruMSvharA 'Holly Jolly Dance' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show718Floppy.png|Studio C Floppy
-Show82017studioc.jpg|Studio C DVD
-Show718ReplaceStdC.jpg|Studio C Replacement Disc
-</gallery>
+
 
 ## Trivia: ##
 

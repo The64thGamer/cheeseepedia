@@ -6,7 +6,7 @@ date = 2024-08-27T14:51:39Z
 
 [Article]
 contributors = ["CorrectorMan","Chucke.show","Chuckstar69","The 64th Gamer","CEC Tinley","ThatBoiCydalan","Cheeseclassic","PachCEC","AstridMascotFan2005","Cy's Junk at School","Documentor","BenTrainFan2000","Cecnj98","StudioA"]
-gallery = ["Outside","Outside","Bridgewater.jpg|Bridgewater's","CECInteractiveConsoleBridgewaterNJSaved.png|The"]
+gallery = []
 +++
 {{Generic|image=Bridgewater after closure, April 8, 2024 (PC- dr.ezofcec).jpg|desc=Bridgewater after closure, April 8, 2024 (PC: dr.ezofcec)}}
 **_600 Promenade Blvd, Store #512**_ was a Chuck E. Cheese's that opened on February 7, 2000, with a Studio C (1997) (Studio C Alpha) and closed on April 7, 2024.<ref>https://patch.com/new-jersey/bridgewater/amp/31709779/chuck-e-cheese-to-permanently-close-in-bridgewater</ref> This location was known for having the last Interactive Console in existence.
@@ -32,13 +32,8 @@ In the late 2000s, they received the 2005 update to the 2003 'Cool Chuck' Reconf
 
 In December 2016, the Skytubes were trashed and replaced with a Giraffe Ride. Around late 2018, the Phase 3 exterior and awnings were removed for the updated Phase 5 logo and purple awnings. This would leave the Princeton store being the last store in NJ with the Thumb Chuck exterior until it's 2.0 remodel in 2024. On March 19, 2024, news would spread around about the location's closure in April. The location closed permanently on April 7, 2024 and the last interactive console in the world was removed (having been salvaged by a former employee), marking it's extinction. 
 
-## Gallery ##
-<gallery>
-File:Outside Building .jpg|The exterior before the exterior change.
-File:Outside Logo.jpg|A closer look at the logo.
-File:Bridgewater.jpg|Bridgewater's exterior on April 1st, 2024. (PC: flickr.com)
-File:CECInteractiveConsoleBridgewaterNJSaved.png|The interactive console being salvaged (post-closure).
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

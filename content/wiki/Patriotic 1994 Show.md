@@ -6,7 +6,7 @@ date = 2023-07-22T23:58:22Z
 
 [Article]
 contributors = ["Ceclife13","DerekCat","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Cectvj94.jpg
@@ -19,17 +19,17 @@ gallery = []
 **_Patriotic**_ was released on June 20, 1994 at Chuck E. Cheese's.
 
 ##Show List ##
-#**[[File:New Graphic.png]]** **Intermission 1 - Magic**
+#**** **Intermission 1 - Magic**
 ##VJ Spot
 ##Charlie Rockit
 ##Joke Pizza Wall
 ##Tricks For Treats
 ##Did You Know?
 ##VJ Spot
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##'Party Place'
 ##'Conga'
-#**[[File:New Graphic.png]]** **Intermission 2 - Dancing**
+#**** **Intermission 2 - Dancing**
 ##CEC TV '94 ID
 ##State Of The Art Of Computer Animation
 ##Dancin' Fools
@@ -42,10 +42,10 @@ gallery = []
 ##Munch Learns To Dance
 ##Did You Know?
 ##VJ Spot
-#**[[File:New Graphic.png]]** **Segment 2**
+#**** **Segment 2**
 ##'Be True To Your School'
 ##'School Days'
-#**[[File:New Graphic.png]]** **Intermission 3 - School**
+#**** **Intermission 3 - School**
 ##CEC TV '94 ID
 ##Kidsongs
 ##VJ Spot
@@ -55,10 +55,10 @@ gallery = []
 ##Joke Pizza Wall
 ##Did You Know?
 ##VJ Spot
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##'Good For Me'
 ##'Act Naturally'
-#**[[File:New Graphic.png]]** **Intermission 4 - Movies**
+#**** **Intermission 4 - Movies**
 ##CEC TV '94 ID
 ##State Of The Art Of Computer Animation
 ##VJ Spot
@@ -67,7 +67,7 @@ gallery = []
 ##Joke Pizza Wall
 ##Did You Know?
 ##VJ Spot
-#**[[File:New Graphic.png]]** **Segment 4**
+#**** **Segment 4**
 ##'Party Place (Encore)'
 #**Intermission 5 - Magic**
 ##CEC TV '94 ID

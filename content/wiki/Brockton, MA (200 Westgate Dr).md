@@ -6,7 +6,7 @@ date = 2024-04-07T14:07:44Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:1158:165B:CC1C:7F0E","ThatBoiCydalan","SuperCreamPiper2008"]
-gallery = ["BrocktonMAExteriorEarly90sUncropped.jpg|An","BrocktonMAOrderingCounter1993.jpg|A"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Brockton2003.png|desc=The store's exterior in 2003 before closure.}}
 **_200 Westgate Dr, Store #473**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_weekly-2001-09.pdf</ref> was a _Chuck E. Cheese's Pizza_ that opened in Spring 1993 (Date Unknown) and closed in April 2003 (Day Unknown). It was located in the Westgate Mall (Brockton).
@@ -63,12 +63,8 @@ After it's closure as CEC, it would then become part of a Best Buy store which o
 |Unknown/Destroyed 
 |}
 
-## Gallery##
-<gallery>
-File: BrocktonMAExteriorEarly90s.jpg| The store's exterior from when it first opened (1994) (PC: Unknown)
-File:BrocktonMAExteriorEarly90sUncropped.jpg|An uncropped photo of the store's exterior when it first opened
-File:BrocktonMAOrderingCounter1993.jpg|A press photo of the store's ordering counter from the year it opened (PC: Brockton Enterprise/enterprisenews.com)
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

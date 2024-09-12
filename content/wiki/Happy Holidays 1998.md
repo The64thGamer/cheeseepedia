@@ -6,7 +6,7 @@ date = 2022-07-22T21:29:20Z
 
 [Article]
 contributors = ["Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Holiday98.png
@@ -18,13 +18,13 @@ gallery = []
 **_Happy Holidays 1998**_ was a Christmas themed show that released in December of 1998 at Chuck E. Cheese's. The show reused segments from CEC Xmas 1991 Show  ( Holiday 1991) and Holiday Special 1992  ( Holiday 1992)._
 
 ##Show List##
-#**[[File:New Graphic.png]]** **Intermission 1**
+#**** **Intermission 1**
 ##4 Minute Countdown
 ###Gloria Estefan: 'This Christmas'
 #**Segment 1**
 ##'Here We Come A Caroling'
 ##'Silver Bells'
-#**[[File:New Graphic.png]]** **Intermission 2**
+#**** **Intermission 2**
 ##4 Minute Countdown
 ###Dave Valentin: 'Santa Claus is Coming To Town'
 ###Coke Spot

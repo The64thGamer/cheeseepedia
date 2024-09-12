@@ -6,7 +6,7 @@ date = 2023-01-31T01:20:13Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
-gallery = ["April","2021-08-09","Ceeeecteeev.jpg|3-Stage"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=cectv2005.jpg
@@ -14,49 +14,49 @@ gallery = ["April","2021-08-09","Ceeeecteeev.jpg|3-Stage"]
 |studioc=y
 |cusvhs93=y|r1293=y}}**_CEC TV April 2005 Show**_ is a showtape that released in April 2005 and played until the end of June 2005. 
 ##Show List:##
-# **[[File:New Graphic.png]]** **Segment 1**
+# **** **Segment 1**
 ## [https://en.wikipedia.org/wiki/Free_Ride_(song) 'Free Ride']
 ## [https://en.wikipedia.org/wiki/Splish_Splash_(song) 'Splish Splash']
 #**Intermission 1**
-##  **[[File:New Graphic.png]]** CEC TV ID - 'Singing Fish'
-##  **[[File:New Graphic.png]]** Minute Maid Spot
-##  **[[File:New Graphic.png]]** VeggieTales - 'Sport Utility Vehicle (SUV)'
-##  **[[File:New Graphic.png]]** Countdown 1 (Shopping Cart)
+##  **** CEC TV ID - 'Singing Fish'
+##  **** Minute Maid Spot
+##  **** VeggieTales - 'Sport Utility Vehicle (SUV)'
+##  **** Countdown 1 (Shopping Cart)
 ## Charlie Rockit - 'Charlie Chorebot'
 ## CEC TV ID - 'Chuck E. Skateboarding'
 ## Countdown 2 ('Hip Mouse' footage)
-# **[[File:New Graphic.png]]** **Segment 2**
+# **** **Segment 2**
 ## 'Pollution Is Crazy' (parody of [https://en.wikipedia.org/wiki/She_Drives_Me_Crazy 'She Drives Me Crazy'])
 ## 'Opposite Day'
 #**Intermission 2**
-##  **[[File:New Graphic.png]]**  CEC TV ID - 'Astronaut'
-##  **[[File:New Graphic.png]]** NASA Footage
+##  ****  CEC TV ID - 'Astronaut'
+##  **** NASA Footage
 ## Pasqually's Polka Minute
 ## Countdown 3 ('Ace In The Hole' footage)
 ## Chuck E.'s Zoo View
 ## CEC TV ID - 'Cell Tower'
-##  **[[File:New Graphic.png]]** Countdown 4 (Workout Time)
-# **[[File:New Graphic.png]]** **Segment 3**
+##  **** Countdown 4 (Workout Time)
+# **** **Segment 3**
 ## [https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun 'Girls Just Wanna Have Fun']
 ## 'Colors'
 # **Intermission 3**
-##  **[[File:New Graphic.png]]** CEC TV ID - 'Fireworks'
-##  **[[File:New Graphic.png]]** Coke Spot
+##  **** CEC TV ID - 'Fireworks'
+##  **** Coke Spot
 ## VeggieTales - 'Belly Button'
 ## Countdown 5 ('Jump Shout Boogie' footage)
 ## Super Jasper - 'Resist The Temptation'
 ## CEC TV ID - 'NBC Chime'
 ## Countdown 6 ('Do You Love Me' footage)
-# **[[File:New Graphic.png]]** **Segment 4**
+# **** **Segment 4**
 ## [https://en.wikipedia.org/wiki/Disco_Inferno 'Disco Inferno']
 ## [https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song) 'Stand By Me']
 # **Intermission 4**
-## **[[File:New Graphic.png]]** CEC TV ID - 'Color The Numbers'
+## **** CEC TV ID - 'Color The Numbers'
 ## Pizza Survivor
 ## Charlie Rockit - 'Cooler Downer'
-##  **[[File:New Graphic.png]]** Super Chuck Summer Promo
+##  **** Super Chuck Summer Promo
 ## CEC TV ID - 'Falling Apple'
-##  **[[File:New Graphic.png]]** Countdown 7 ('I Heard It Through The Grapevine' footage)
+##  **** Countdown 7 ('I Heard It Through The Grapevine' footage)
 ## Lives: ##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 
@@ -71,16 +71,12 @@ gallery = ["April","2021-08-09","Ceeeecteeev.jpg|3-Stage"]
 * Havin' A Party 01
 * If You're Happy and You Know It
 * Go Santa Go
-*  **[[File:New Graphic.png]]**  [Nobody But Me]({{< ref "wiki/Nobody But Me.md" >}})
+*  ****  [Nobody But Me]({{< ref "wiki/Nobody But Me.md" >}})
 
 **Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-File:April 05 Studio C Disc.jpg|Studio C DVD Scan
-File:2021-08-09 153542.jpg|Studio C Floppy Scan
-File:Ceeeecteeev.jpg|3-Stage SVHS
-</gallery>
+
 ## Production ##
 ### Credits ###
 

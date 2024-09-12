@@ -6,7 +6,7 @@ date = 2024-08-22T23:34:49Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","216.125.34.66","Cecnj98","CorrectorMan","The 64th Gamer","ThatBoiCydalan","CEC Tinley","Cheeseclassic","Stripes","BigCtheDataFinder","CoolerDude","CEC1988"]
-gallery = ["40bc88992e624838642675fb9887606e.jpg|Springfield's"]
+gallery = [":Springfield.png|Springfield.png - Cheese-E-Pedia (cheeseepedia.org)"]
 +++
 {{Generic|image=Old Springfield.jpg|desc=Springfield in March 2012, right before closure. (PC: Google Maps)}}
 **_Springfield, PA (381 Baltimore Pike), Store #529**_ was a _Celebration Station_ that opened on December 15th, 1984, closing around February 1989. The location then became a _Chuck E. Cheese's Pizza_ that opened on December 4th, 1990, which closed on April 15th, 2012. In November 2012, the Chuck E. Cheese's was relocated to [Springfield, PA (371 Baltimore Pike)]({{< ref "wiki/Springfield, PA (371 Baltimore Pike).md" >}}), built just blocks away from where the previous location once stood at Stoney Creek East Plaza. The original building has since been demolished. 
@@ -21,7 +21,7 @@ Just one year after the closure of Celebration Station, Showbiz Pizza Time, Inc.
 
 Sometime in the mid 1990's, Springfield underwent the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}), removing fixtures from the previous remodel and replacing the Road Stage with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). As a high-level balcony seating surrounded the walls of the showroom (a product of the Celebration Station), unique record posters were fabricated by Corman and Associates especially for Springfield, with parody art and discs being separated to a poster each. By the 2000's, Chuck E.'s Tuxedo & Derby were replaced with the Cool Chuck outfit, with Jasper's PTT mask being replaced outright, and the lift curtains removed entirely. By Summer 2009, the Cool Chuck clothing was replaced with the Avenger outfit, and the Cyberamic Chuck E. was strangely given walkaround Chuck E. ears. 
 
-Springfield, PA in its original location was meant to undergo the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) sometime after being rolled out store-wide. However, this plan didn't materialize, due to the small space of the building (resulting from its placement within the Stoney Creek East Plaza and previous tenant of Celebration Station). As early as 2011, plans were made to completely redevelop the site of the location. The current Chuck E. Cheese's in Springfield, PA permanently closed on April 15th, 2012, in favor of constructing an all-new store just blocks away from the previous space. [Springfield, PA (371 Baltimore Pike)]({{< ref "wiki/Springfield, PA (371 Baltimore Pike).md" >}}) opened on November 14th, 2012, accommodating for the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and installing a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage with a [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}) instead of relocating the existing Cyberamics 2-Stage. The previous building in Stoney Creek East was demolished soon after. The only remnant of the building being there is a color disfigurement in the tiling on the right side of Franklin Mint Federal Credit Union.<ref>[[:File:Springfield.png|File:Springfield.png - Cheese-E-Pedia (cheeseepedia.org)]]</ref> 
+Springfield, PA in its original location was meant to undergo the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) sometime after being rolled out store-wide. However, this plan didn't materialize, due to the small space of the building (resulting from its placement within the Stoney Creek East Plaza and previous tenant of Celebration Station). As early as 2011, plans were made to completely redevelop the site of the location. The current Chuck E. Cheese's in Springfield, PA permanently closed on April 15th, 2012, in favor of constructing an all-new store just blocks away from the previous space. [Springfield, PA (371 Baltimore Pike)]({{< ref "wiki/Springfield, PA (371 Baltimore Pike).md" >}}) opened on November 14th, 2012, accommodating for the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and installing a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage with a [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}) instead of relocating the existing Cyberamics 2-Stage. The previous building in Stoney Creek East was demolished soon after. The only remnant of the building being there is a color disfigurement in the tiling on the right side of Franklin Mint Federal Credit Union.<ref></ref> 
 
 ##Stages ##
 {| class='wikitable'
@@ -124,10 +124,8 @@ Springfield, PA in its original location was meant to undergo the [CEC 2005 Remo
 |Added when converted to finalized Road Stage
 |}
 
-## Gallery ##
-<gallery>
-File:40bc88992e624838642675fb9887606e.jpg|Springfield's Celebration Station Grand Opening Advertisement (1984)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

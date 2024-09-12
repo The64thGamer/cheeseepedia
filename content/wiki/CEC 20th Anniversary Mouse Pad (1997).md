@@ -6,8 +6,5 @@ date = 2022-10-19T01:42:18Z
 
 [Article]
 contributors = ["StudioC"]
-gallery = ["1997chuckecheesemousepad.jpg|Front"]
+gallery = []
 +++
-<gallery>
-File:1997chuckecheesemousepad.jpg|Front
-</gallery>

@@ -6,7 +6,7 @@ date = 2023-08-27T13:38:38Z
 
 [Article]
 contributors = ["Concordio","2607:FB91:8AD:5A4A:AC39:C397:E1B3:659F"]
-gallery = ["Kooserhelenplate.png|Seen","Helen","4K","4K","Kooserhelenplate2.png|Ditto,","ColoredKooser.jpg|Seen"]
+gallery = []
 +++
 The **_1978 Helen Henny Name Sign**_ made its only appearance at the second Chuck E. Cheese's Pizza Time Theatre located on [1371 Kooser Road]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) in the Blossom Hill Shopping Center in San Jose, California; where it took the role of identifying the Kooser Helen Henny animatronic from November 1978 to May, 1980.
 
@@ -30,15 +30,8 @@ The Kooser Helen Henny Nameplate was only used at the 1371 Kooser Road location 
 ## Design ##
 Helen Hennys nameplate used a rounded, brown wooden board as a base with the yellow text 'HELEN HENNY' placed directly in the center of the board, enclosed in a thin border of the same color with supporting bolts on each side of the text.  
 
-## Gallery ##
-<gallery>
-File:Kooserhelenplate.png|Seen in the 1978 Kooser Opening Promotional Brochure, published on 12/4/78, closeup.
-File:Helen Henny seen in Real People.png|Seen in the 'Real People' 1979 Chuck E. Cheese's Pizza Time Theatre broadcast.
-File:4K Scan Kooser Showroom.png|Seen in the 1978 Kooser Opening Promotional Brochure.
-File:4K Scan Kooser Showroom 2.png|Seen in the 1978 Kooser Opening Promotional Brochure showroom shot.
-File:Kooserhelenplate2.png|Ditto, although seen in the RePlay Magazine February 1979 Issue, page 19.
-File:ColoredKooser.jpg|Seen in an alternative colored take of the Kooser showroom shot in the Irving, Texas Corporate Office.
-</gallery>
+
+
 
 ## References ##
 

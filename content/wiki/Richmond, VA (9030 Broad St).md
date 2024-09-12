@@ -6,9 +6,9 @@ date = 2024-04-03T12:23:29Z
 
 [Article]
 contributors = ["CorrectorMan","2600:1012:B11C:86AB:20BA:B121:8DCD:DBB","TheChuckECheeseGuy","CEC Tinley","Cy's Junk at School"]
-gallery = []
+gallery = ["Henrico.jpg|thumb|Broad St.'s exterior in 2011."]
 +++
-[[File:Henrico.jpg|thumb|Broad St.'s exterior in 2011.]]
+
 **_9030 Broad St**_, also known as **_Henrico**_, is a _Chuck E. Cheese's_ that opened on March 4, 1999, and is still open today with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). 
 
 This is not to be confused with [Richmond, VA (10430 Midlothian Turnpike)]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}), which opened on May 1, 1990, and is still open today with the 2.0 remodel, and is in the city limits of **_Bon Air**_.

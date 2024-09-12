@@ -6,7 +6,7 @@ date = 2024-07-30T15:35:53Z
 
 [Article]
 contributors = ["Emcaacme","RedaCEC","The 64th Gamer","AstridMascotFan2005"]
-gallery = ["i-rdXjW8c-X3","readingpashow.jpg","Showroom","Showroomangle2.png|thumb|The"]
+gallery = []
 +++
 **_3400 Plaza Dr**_ was a Showbiz Pizza place that opened on December 6, 1982 and closed in early 1988. This location is often overshadowed by other Pennsylvania stores, thus making it more obscure. 
 
@@ -35,13 +35,8 @@ After this store closed, Major Magic's All Star Pizza Revue took over. Everythin
 ## Videos ##
 At the moment no videos seem to exist.
 
-## Gallery ##
-<gallery>
-File:i-rdXjW8c-X3 (1) (1).jpg
-File:readingpashow.jpg
-File:Showroom reading.png|thumb|A photo of where the showroom used to be
-File:Showroomangle2.png|thumb|The showroom at another angle
-</gallery>
+
+
 ## Animatronics ##
 {| class='wikitable'
 |+

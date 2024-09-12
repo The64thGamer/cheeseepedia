@@ -6,7 +6,7 @@ date = 2023-05-12T20:19:12Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Cyber","APS","Remodeled","Remodeled","Remodeled","Remodeled","Unknown"]
+gallery = []
 +++
 {{Generic|image=Remodeled Studio-011.jpg|desc=APS Hardware for the 3-Stage & Cyberamics in 2001}}
 
@@ -20,13 +20,4 @@ It is currently unclear what the original hardware is, though the keyboard shown
 ### 2001 Setup ###
 (TODO: Examine and detail setup)
 
-## Gallery ##
-<gallery>
-File:Cyber aps setup.jpg|1991
-File:APS in use.png|1991
-File:Remodeled Studio-009.jpg|2001
-File:Remodeled Studio-010.jpg|2001
-File:Remodeled Studio-011.jpg|2001
-File:Remodeled Studio-008.jpg|2001
-File:Unknown (8).png|December 2014
-</gallery>
+

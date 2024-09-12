@@ -6,8 +6,5 @@ date = 2022-10-19T21:15:59Z
 
 [Article]
 contributors = ["StudioC"]
-gallery = ["Frontjukeboxjamcup.jpg|Front"]
+gallery = []
 +++
-<gallery>
-File:Frontjukeboxjamcup.jpg|Front
-</gallery>

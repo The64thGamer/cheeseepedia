@@ -6,9 +6,9 @@ date = 2023-01-01T04:28:14Z
 
 [Article]
 contributors = ["Documentor","RedaCEC"]
-gallery = []
+gallery = ["Pumpkin Festival Jasper.jpg|thumb|403x403px|Pumpkin Festival Jasper"]
 +++
-[[File:Pumpkin Festival Jasper.jpg|thumb|403x403px|Pumpkin Festival Jasper]]
+
 **_Pumpkin Festival Jasper**_ is a retrofit of [Jasper T. Jowls (Cyberamic)]({{< ref "wiki/Jasper T Jowls (Cyberamic).md" >}}) at _Burger Farm & Garden Center_ in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
 
 The bot can only be seen when the location has its annual Fall Pumpkin Festival, in which it and other _Pizza Time Theatre_ retrofits will be displayed as props for decoration from the last week of September through the end of October. None of them are hooked up in any way to be movable, with all cylinders and air hoses removed.

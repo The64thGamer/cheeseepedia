@@ -6,9 +6,9 @@ date = 2024-08-08T15:25:16Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Kokomo","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","AstridMascotFan2005"]
-gallery = []
+gallery = ["Albany, GA.jpg|thumb|Albany's exterior before receiving the 2.0 remodel. (PC: Google Maps)"]
 +++
-[[File:Albany, GA.jpg|thumb|Albany's exterior before receiving the 2.0 remodel. (PC: Google Maps)]]
+
 **_2601 Dawson Rd**_ is a _Chuck E. Cheese's_ that opened on December 16, 2003 with a Small-Town Studio C (Studio C Cappa) and is still open today with the 2.0 remodel.
 
 ## Stages ##

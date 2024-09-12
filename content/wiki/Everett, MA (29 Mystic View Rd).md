@@ -43,7 +43,7 @@ As of August 2024, Everett remains like this with the 2.0 remodel.
 |
 |}
 
-##Gallery##
+
 [https://www.showbizpizza.com/photos/cec/ma_everett/index.html 2001-2002]
 
 MassLive Promotional Photo (June 2024) <ref>https://www.masslive.com/entertainment/2024/06/only-2-mass-chuck-e-cheeses-still-have-animatronics-but-thats-about-to-change.html</ref>

@@ -59,7 +59,7 @@ Pembroke Pines opened on September 11th, 1991, as a corporate-owned location. Pe
 |
 |}
 
-## Gallery ##
+
 W.I.P
 
 ##Animatronics##

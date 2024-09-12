@@ -9,6 +9,3 @@ contributors = ["The 64th Gamer"]
 gallery = []
 +++
 ##Showtape Scans / Images:##
-<gallery>
-Special Christmas Shows.jpg|Reel Case (Side)
-</gallery>

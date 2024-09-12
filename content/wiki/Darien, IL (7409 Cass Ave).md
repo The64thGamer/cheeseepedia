@@ -6,7 +6,7 @@ date = 2024-08-04T16:54:18Z
 
 [Article]
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]
-gallery = ["Darienmitzi.jpg|A","feb83","2902795436","2901955401","2902782808","50822518408","I-pfpzzmd-X3"]
+gallery = []
 +++
 {{Generic|image=DarienExterior.jpg|desc=Darien's Pre 2.0 remodel Exterior.}}
 
@@ -89,16 +89,8 @@ Around 2014, Darien replaced their 90s exterior signage with 2013 signage. Betwe
 |Grand Reopening Ceremony
 |August 17, 2023
 |}
-##Gallery##
-<gallery>
-File:Darienmitzi.jpg|A Fan in the Early 80's Dressed as Mitzi
-File:feb83 (1).jpg|400px|Feburary 83
-File:2902795436 84892752a3 o (1) (2).jpg|Feburary 83
-File:2901955401 7972540dc1 o (2).jpg|Feburary 83
-File:2902782808 ed79e5d17c o (1) (1).jpg|New Billy Bob Costume
-File:50822518408 7461f828f1 b (1) (1).jpg|Center Stage 1988
-File:I-pfpzzmd-X3 (1) (1).jpg|Billy Bob and Looney Bird, Late 80's
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

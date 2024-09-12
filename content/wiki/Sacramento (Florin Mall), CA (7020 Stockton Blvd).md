@@ -6,7 +6,7 @@ date = 2024-08-24T17:50:53Z
 
 [Article]
 contributors = ["Rexburg090","ChuckECool","CEC Tinley","The 64th Gamer","FileFickle","AstridMascotFan2005","CECswag2009"]
-gallery = ["ScottNelsonPicturePTT.png|thumb|Florin's","florin_masks.jpg|Newspaper","Florin","sunglasses.png|Dolli"]
+gallery = []
 +++
 {{Generic|image=squinty.png|desc=The Store's Cyberamic Chuck E. Cheese}}
 
@@ -84,13 +84,8 @@ The store would be held for auction on December 14, 1985 at 10AM. It is unknown 
 |Unknown.
 |}
 
-## Gallery ##
-<gallery>
-File:ScottNelsonPicturePTT.png|thumb|Florin's 1980 Manager Scott Nelson, pictured at the opening of [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}).
-File:florin_masks.jpg|Newspaper ad for Halloween masks (October 1979)
-File:Florin manager ad 1981.png|Job Posting (November 9th, 1981)
-File:sunglasses.png|Dolli Dimples
-</gallery>
+
+
 
 ## Videos ##
 At the moment, only one video exists of this location.

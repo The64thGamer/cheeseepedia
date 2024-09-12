@@ -6,7 +6,7 @@ date = 2024-08-15T23:25:44Z
 
 [Article]
 contributors = ["Namejadenrealv4","Cheeseclassic","ThatBoiCydalan","Caydenpedia","Chuckatronics","Cecnj98","CEC Knoxville","AstridMascotFan2005"]
-gallery = ["Middletown"]
+gallery = []
 +++
 {{Generic|image=Middletown Exterior.jpg|desc=Middletown's Exterior (PC: Google Maps)}}
 **_Middletown Township, NJ (1107 Route 35), Store #480**_ is a Chuck E. Cheese's that opened on July 25th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day.
@@ -135,7 +135,4 @@ On July 31st, 2024, the location of this store had it's grand reopening event.
 *Whack'em Funky Gaters
 *Pig Out!
 
-##Gallery##
-<gallery>
-File:Middletown NJ 1-Stage.jpg
-</gallery>
+

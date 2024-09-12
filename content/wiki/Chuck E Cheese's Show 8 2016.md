@@ -6,7 +6,7 @@ date = 2022-09-28T21:49:15Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -25,7 +25,7 @@ This was created to play from November 1st, 2016 - November 20th, 2016. This sho
 ## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] CEC Sketch - 'Thanksgiving'
+##  CEC Sketch - 'Thanksgiving'
 ## Meghan Trainor - 'Better When I'm Dancin_
 ## CEC Sketch - 'Chef Gregory Part 1'
 # **Skit 1** 
@@ -33,15 +33,15 @@ This was created to play from November 1st, 2016 - November 20th, 2016. This sho
 # **Intermission 2** 
 ## Shakira - 'Try Everything'
 ## CEC Sketch - 'Chef Gregory Part 2'
-## [[File:New Graphic.png]] Nina's World - 'Thanksgiving'
-## [[File:New Graphic.png]] Simple Plan - 'Singing In The Rain'
-## [[File:New Graphic.png]] Space Pop - 'Heart of a Warrior'
+##  Nina's World - 'Thanksgiving'
+##  Simple Plan - 'Singing In The Rain'
+##  Space Pop - 'Heart of a Warrior'
 # **Skit 2** 
 ## Helen Henny - 'Dream Big'
 # **Intermission 3** 
 ## Janet Jackson - 'Escapade'
 ## CEC Promo - 'Buffet'
-## [[File:New Graphic.png]] Floogals - 'Table Tennis'
+##  Floogals - 'Table Tennis'
 ## Calvin Harris feat. Rihanna - 'This is What You Came For'
 ## CEC Birthday T.V. Spot
 # **Skit 3**
@@ -55,8 +55,8 @@ This was created to play from November 1st, 2016 - November 20th, 2016. This sho
 # **Skit 4**
 ## Chuck E. Cheese - 'Happy To Be Seeing You'
 # **Intermission 5**
-## [[File:New Graphic.png]] Terrific Trucks - 'Recycling'
-## [[File:New Graphic.png]] CEC Spot - 'Mac Cheesy'
+##  Terrific Trucks - 'Recycling'
+##  CEC Spot - 'Mac Cheesy'
 ## Justin Timberlake - 'Can't Stop the Feeling'
 
 ## Lives: ##
@@ -72,11 +72,7 @@ This was created to play from November 1st, 2016 - November 20th, 2016. This sho
 * Head Shoulders Knees Toes (Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show816Floppy.png|Studio C Floppy Disc
-Show816StdC.png|Studio C DVD
-s-l1600 (18).jpg|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

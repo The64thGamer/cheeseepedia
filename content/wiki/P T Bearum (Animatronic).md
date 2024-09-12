@@ -6,7 +6,7 @@ date = 2024-02-08T20:11:48Z
 
 [Article]
 contributors = ["Lelmaster"]
-gallery = ["348578987"]
+gallery = []
 +++
 {{Generic|image=PTBearum.png|desc=P.T. Bearum at Wild Horse Saloon in Idlewild Park.}}**P.T. Bearum** was an animatronic made by **Creative Presentations** for **Craig Singer** to be used in his restaurant chain called [Sgt. Singer's Pizza Circus]({{< ref "wiki/Sgt Singer's Pizza Circus.md" >}}). He would play along with **Sgt. Singer** and **Pounce D' Lion** on the main stage of the restaurant.
 
@@ -43,10 +43,8 @@ Current known movements are unknown, but based on limited info these were probab
 * Right Arm
 * Body
 
-## Gallery ##
-<gallery>
-File:348578987 496051229323528 5961769661822251617 n.jpg|Promotional image featuring P.T. Bearum (Left), Sgt. Singer (Middle), and Pounce D' Lion (Right) (Circus Variant)
-</gallery>
+
+
 
 *
 

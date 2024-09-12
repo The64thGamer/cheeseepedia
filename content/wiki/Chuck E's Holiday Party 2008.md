@@ -37,6 +37,3 @@ gallery = []
 ## 5 Minute Countdown
 
 ##Showtape Scans / Images:##
-<gallery>
-jjjjjjjjjjj.jpg|3-Stage DVD
-</gallery>

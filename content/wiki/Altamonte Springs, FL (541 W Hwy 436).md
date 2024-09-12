@@ -6,9 +6,9 @@ date = 2023-11-15T21:34:53Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FC:D100:2883:E8AD:AE08:AFDF","CorrectorMan","Saan1ty","SuperCreamPiper2008"]
-gallery = ["AltamonteSpringsSPP.png|The","altamontesprings1988remodel.png|Exterior"]
+gallery = ["Altamonte Springs.jpg|thumb|Altamonte Spring's exterior as of 2023. (PC: Google Maps)"]
 +++
-[[File:Altamonte Springs.jpg|thumb|Altamonte Spring's exterior as of 2023. (PC: Google Maps)]]
+
 **_541 W Hwy 436, Store #681**_ was a _ShowBiz Pizza Place_ located in Altamonte Springs, Florida.  It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area & the third to open in Florida following the [Jacksonville]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) & Tampa, FL (1707 E Fowler Ave) (Tampa) locations). 
 
 ## History ##
@@ -119,11 +119,8 @@ In November/December 2022, Altamonte Springs received the 2.0 Remodel, which inv
 |N/A
 |Destroyed
 |}
-## Gallery ##
-(W.I.P)<gallery>
-File:AltamonteSpringsSPP.png|The exterior of Altamonte Springs in 1981 when it was a Showbiz Pizza Place.
-File:altamontesprings1988remodel.png|Exterior with the 1988 remodel (1989).
-</gallery>
+
+(W.I.P)
 
 ## Videos ##
 (W.I.P)

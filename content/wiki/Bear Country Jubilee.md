@@ -6,7 +6,7 @@ date = 2024-08-24T05:19:24Z
 
 [Article]
 contributors = ["FileFickle","Lelmaster","Documentor","BigCtheDataFinder"]
-gallery = ["PwJB.jpg|Pierre","Fdan.jpg|Fingers","Chet","Crash.jpg|Buddy","Bosco.jpg|Boom","Beatrice","Bcj1.jpg|Bear","Stgecntr2.png|Four","Dan","Yeeyee.jpg|Chet","Beatrice2.jpg|Beatrice","Americana99.png|Americana","BCJ","Screenshot","Americana","BCJ"]
+gallery = []
 +++
 {{AnimatronicShow|image=BCJ Concept Art.png|businessType=Type of Business: Amusement Parks|years=1978 - 1999|status=Closed|numCharacters=7|manufacturer=Creative Engineering, Inc.}}
 
@@ -31,67 +31,13 @@ The most unusual, yet interesting addition to Morey's installation at this time 
 
 Similarly to Americana's installation, Morey's BCJ fell under disrepair in its final years, even after the 1981 updates. At the end of the 1984 operating season, the entirety of the _Bear Country Jubilee_, as well as the additional Fats and Granbags animatronics, were sent back to Creative Engineering.<ref>https://youtu.be/0l6-6ewuY70?si=FXtBU7r9Yfgwl762&t=1545</ref> It was when the show arrived back in Orlando that CEI completely refurbished the characters and upgraded the technology to the [Rock-afire Explosion Control System]({{< ref "wiki/Rock-afire Explosion Control System.md" >}}), replacing the show's original Tone Decoder Control System from 1978. Although the show was restored, it was ultimately never sold to another client and thus sat unused in Creative Engineering's facilities from then on. In 2022, the characters and props were relocated to the all-new [Creative Engineering Workshop]({{< ref "wiki/Creative Engineering Workshop.md" >}}) in Crescent City, where they are to be stored until the future development of a [Creative Engineering Museum]({{< ref "wiki/Creative Engineering Museum.md" >}}) occurs.
 
-## Gallery ##
+
 
 ### (LeSourdsville Lake) Americana Amusement Park ###
-<gallery>
-File:PwJB.jpg|Pierre Le Bear & Waldo (CEI, 1978)
-File:Fdan.jpg|Fingers Dan (CEI, 1978)
-File:Chet f.jpg|Chet Faddikins (CEI, 1978)
-File:Crash.jpg|Buddy Crash (CEI, 1978)
-File:Bosco.jpg|Boom Boom Bosco (CEI, 1978)
-File:Beatrice stage.jpg|Beatrice (1978, Digital Colorization)
-File:Bcj1.jpg|Bear Country Jubilee at Americana
-File:Stgecntr2.png|Four Seasoned Bears at Americana
-File:Dan choo.jpg|Fingers Dan at Americana
-File:Yeeyee.jpg|Chet at Americana
-File:Beatrice2.jpg|Beatrice at Americana
-File:Americana99.png|Americana BCJ Theater Building (1999)
-File:BCJ stage.jpg|BCJ Theater Abandoned
-File:Screenshot 2023-11-30 185338.png|Americana BCJ Theater Building (2018)
-File:Americana inside.png|BCJ Theater Abandoned (2018)
-File:BCJ footage.gif|GIF of Center Stage (Four Seasoned Bears)
-</gallery>
+
 
 ### Morey's Pier ###
-<gallery>
-File:Morey stglft.jpg|Pierre / Pete & Waldo / Repeat (1984)
-File:Morey stgcntr.jpg|The Four Seasoned Bears (1984)
-File:Morey stgrght.jpg|Beatrice / Mama Granbags (1984)
-File:Ratzo.jpg|Ratzo (1984)
-File:MP Gorilla & Granbags.jpg|Country Fats & Granbags (1984)
-File:Americana exterior.jpg|Friendly Freddy in the Opera House Window
-File:Morey's pier.jpg|Pierre Le Bear Billboard (1978)
-File:Morey's pier2.jpg|Beheaded Pierre Le Bear Billboard (1983)
-File:Morey's pier3.jpg|Beheaded Pierre Le Bear Billboard (1983)
-File:Morey's pier slide.jpg|Aerial View of Morey's Pier (Opera House located on the right end of the slides)
-File:Morey's pier4.png|Pierre & Waldo Sign
-File:Dan 1984.png|Fingers Dan arriving in disrepair at CEI (1984)
-File:Dan 19842.png|Fingers Dan arriving in disrepair at CEI (1984)
-File:Stagem.png|Restored Four Seasoned Bears at CEI (1990s)
-File:WH2001 chet.jpg|Chet Faddikins (2001)
-File:WH2003 pierre.jpg|Mortimer & Pierre Le Bear (2003)
-File:WH2003 crash.jpg|Buddy Crash (2003)
-File:WH gram.jpg|Beatrice (2003)
-File:WH2005 pierre.jpg|Pierre Le Bear (2005)
-File:WH2005 w&b.jpg|Buford & Waldo (2005)
-File:WH2005 chet.jpg|Chet Faddikins (2005)
-File:WH2005 crash.jpg|Buddy Crash (2005)
-File:WH2005 gram.jpg|Beatrice (2005)
-File:WH pierre.png|Pierre Le Bear
-File:WH waldo.png|Waldo
-File:WH fd bc.png|Mortimer, Buford, Prop Bear, Fingers Dan, & Buddy Crash
-File:WH xchet.jpg|Chet Faddikins
-File:WH bosco.jpg|Boom Boom Bosco
-File:WH gram2.jpg|Beatrice
-File:Not choo.png|Prop Bear & Buford
-File:Skunk.png|Prop Skunk
-File:Gorm beaver.png|Prop Beaver
-File:Raccoon.png|Prop Racoon
-File:Proto choo.png|Piano & Bear Prop (2023)
-File:Fdan2023.jpg|Fingers Dan (2023)
-File:Last seen.png|Boom Boom Bosco (2023)
-</gallery>
+
 
 ## Videos ##
 {| class='wikitable'

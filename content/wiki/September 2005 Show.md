@@ -6,7 +6,7 @@ date = 2024-09-01T00:13:48Z
 
 [Article]
 contributors = ["The 64th Gamer","RedaCEC","Ceclife13","Documentor","John95"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = September 2005 Show
@@ -22,39 +22,39 @@ gallery = []
 **September 2005 Show** was a showtape released in September 2005 which ran through November 2005. It was the last showtape to feature curtain signals for existing stages.
 
 ## Show List: ##
-#[[File:New Graphic.png]] **Segment 1** 
+# **Segment 1** 
 ## [https://en.wikipedia.org/wiki/Crocodile_Rock 'Crocodile Rock']
 ## [https://en.wikipedia.org/wiki/Forever_Your_Girl_(song) 'Forever Your Girl']
 #**Intermission 1** 
 ##CEC TV ID - 'Parachute'
-##[[File:New Graphic.png]] Blockbuster Spot
-##[[File:New Graphic.png]] VeggieTales - 'Pizza Angel'
+## Blockbuster Spot
+## VeggieTales - 'Pizza Angel'
 ## Fundraising Spot
-##[[File:New Graphic.png]] Countdown (Roller-Skating)
-#[[File:New Graphic.png]] **Segment 2** 
+## Countdown (Roller-Skating)
+# **Segment 2** 
 ## [https://en.wikipedia.org/wiki/Who_Can_It_Be_Now%3F 'Who Can It Be Now?']
 ##[https://en.wikipedia.org/wiki/Mayberry_(song) 'Mayberry']
 #**Intermission 2** 
 ##CEC TV Classic ID
 ## Spring Cleaning
-##[[File:New Graphic.png]] Teenage Mutant Ninja Turtles
+## Teenage Mutant Ninja Turtles
 ##Countdown ('Ease On Down The Road' footage)
-#[[File:New Graphic.png]] **Segment 3** 
+# **Segment 3** 
 ## [https://en.wikipedia.org/wiki/I_Love_a_Rainy_Night 'I Love A Rainy Night']
 ## 'Might Take Some Time'
 # **Intermission 3** 
 ##CEC TV ID - 'Marquee'
-##[[File:New Graphic.png]] Robots DVD Promo
-##[[File:New Graphic.png]] Monkey Ninjas - Episode 6
+## Robots DVD Promo
+## Monkey Ninjas - Episode 6
 ## Countdown (Kaleidoscope)
-#[[File:New Graphic.png]] **Segment 4** 
+# **Segment 4** 
 ## [https://en.wikipedia.org/wiki/Back_Home_Again_(John_Denver_album) 'Grandma's Feather Bed']
 ## 'Homework'
 # **Intermission 4** 
 ##CEC TV ID - 'Astronaut'
-##[[File:New Graphic.png]] Teenage Mutant Ninja Turtles
-##[[File:New Graphic.png]] Kidz Bop - 'Since U Been Gone'
-##[[File:New Graphic.png]] Play-Doh Spot
+## Teenage Mutant Ninja Turtles
+## Kidz Bop - 'Since U Been Gone'
+## Play-Doh Spot
 ##Countdown ('Footloose' footage)
 
 ## Lives: ##
@@ -69,18 +69,12 @@ gallery = []
 * Havin' A Party 01
 * If You're Happy and You Know It
 * Go Santa Go
-* **[[File:New Graphic.png]]**  Old MacDonald
+* ****  Old MacDonald
 ## Production ##
 ### File Dates ###
 *(Studio C) DVD: 8/23/2005
 ##Showtape Scans / Images:##
-<gallery>
-sept053stgdvd.png|3-Stage DVD
-asdfrweqwsdvfr.jpg|Studio C DVD
-2021-08-09_182904.jpg|Studio C Floppy Scan
-SeptVerson2.png|Studio C DVD (Version 2) Scan
-2021-08-09_181146.jpg|Studio C Floppy (Version 2) Scan
-</gallery>
+
 
 ##Trivia:##
 *Chuck's curtains close during 'Mayberry' on the existing stages.

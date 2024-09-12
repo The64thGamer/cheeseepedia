@@ -6,9 +6,9 @@ date = 2024-07-30T20:56:57Z
 
 [Article]
 contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","ChuckfeldStan","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","38.49.94.191","CEC Tinley","69.67.86.197","Cecnj98","CorrectorMan","Jonn","SuperCreamPiper2008","Cheeseclassic"]
-gallery = ["Tacoma.png|Tacoma"]
+gallery = ["Tacoma, WA.jpg|thumb|Tacoma's exterior in Fall 2018. (PC: Google Maps)"]
 +++
-[[File:Tacoma, WA.jpg|thumb|Tacoma's exterior in Fall 2018. (PC: Google Maps)]]
+
 **_4911 Tacoma Mall Blvd, Store #3154/626**_ was a _Pizza Time Theatre_ that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade. It is located right across from the Tacoma Mall.
 ##Stages##
 They originally had a Balcony Stage when first opening, but later in the 1989/1990 they would remodel for the first time and receive the Chuck E.'s House Facade. Helen's cosmetics were replaced by 1992, around the same time, Chuck E's vest and Derby was replaced with the Tuxedo & Derby. They would still have that stage even when remodeling in the late 90's until 2003 when it was replaced by the Studio C 2000 16m. They would keep this even when remodeling to the 2005 remodel in 2011 until June 2022 when they would receive the 2.0 remodel, removing the Studio C 2000 for a Dance Floor and Video Wall.
@@ -51,10 +51,8 @@ Tacoma opened in November 1983 near the Tacoma Mall with a Balcony Stage and as 
 |Footage of Tacoma's Chuck E.'s House Facade in 2003.
 |June 13, 2003
 |}
-##Gallery##
-<gallery>
-File:Tacoma.png|Tacoma Chuck E. Statue that spun on circles.
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

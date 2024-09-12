@@ -6,7 +6,7 @@ date = 2024-09-08T14:31:27Z
 
 [Article]
 contributors = ["CorrectorMan","ThatBoiCydalan","Cecnj98","JND","AstridMascotFan2005","CEC crab"]
-gallery = ["Gaithersburg","IMG","IMG"]
+gallery = []
 +++
 {{Generic|image=Tech-24-foodservice-technologies-inc-chuck-e-cheese-restaurant-c (1).jpg|desc=Gaithersburg's exterior. (PC: thebluebook.com)}}
 **_516 N Frederick Ave, Store #401**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in March 1983 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in June 2020 (day unknown) with a Studio C 2000 (Studio C Beta, 16m).
@@ -65,12 +65,8 @@ In late 2005, Gaithersburg would remodel once again to the 2005 update to the 20
 |1996?
 |}
 
-##Gallery##
-<gallery>
-File:Gaithersburg md cec exterior pre 2005 remodel.png|The store's exterior presumably in 1996 before the 2005 remodel.
-File:IMG 1960.jpeg|Balcony Stage in March 1989
-File:IMG 5079.jpeg|Rare photo of the pizza verse wheel 1990s
-</gallery>
+
+
 
 ##Animatronics##
 W.I.P

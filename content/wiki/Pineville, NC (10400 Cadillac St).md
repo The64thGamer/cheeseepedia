@@ -6,7 +6,7 @@ date = 2024-06-11T22:46:08Z
 
 [Article]
 contributors = ["BigCtheDataFinder"]
-gallery = ["20190418","20190418","20190418","20190418","20190418","20190418","20190418","20190418","20190418"]
+gallery = []
 +++
 {{Generic|image=FuntasticksCharlotteExterior.png|desc=Pineville's exterior as 'Funtasticks Charlotte' prior to demolition (2018-2020)}}
 
@@ -85,18 +85,8 @@ As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabout
 * Transformers Human Alliance
 * Wonder Wheel
 
-## Gallery ##
-<gallery>
-File:20190418 140321.jpg|Pineville Stage + Showroom (April 18th, 2019)
-File:20190418 140657.jpg|Pineville Stage + Showroom (April 18th, 2019)
-File:20190418 140348.jpg|Pineville Show Lighting Bar (April 18th, 2019)
-File:20190418 140353.jpg|DATDD Valance & Curtain Track (April 18th, 2019)
-File:20190418 140411.jpg|Pineville DATDD Backdrops (April 18th, 2019)
-File:20190418 140425.jpg|DATDD Theater Backdrop (April 18th, 2019)
-File:20190418 140357.jpg|Jethro Valance & Curtain Track (April 18th, 2019)
-File:20190418 140403.jpg|Cake Cooler on Jethro's Stage (April 18th, 2019)
-File:20190418 140649.jpg|Pineville Balcony Seating (April 18th, 2019)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

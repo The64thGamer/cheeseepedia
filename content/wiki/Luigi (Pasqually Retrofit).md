@@ -25,9 +25,4 @@ The only information related to what Luigi preformed is in an April 2002 article
 
 As is with the rest of the animatronics installed he most likely had holiday tracks but those are also lost. 
 
-## Gallery ##
-<gallery>
-file:Luigi.png|Promotional image of Luigi
-file:JJRobots2.png|Trio shot originally from the website
-file:Luigi2.png|Profile Luigi shot (Seen in the back)
-</gallery>
+

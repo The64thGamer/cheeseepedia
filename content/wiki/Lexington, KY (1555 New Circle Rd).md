@@ -6,7 +6,7 @@ date = 2024-07-16T01:28:06Z
 
 [Article]
 contributors = ["CECBowlingGreen","Chouts1","Rexburg090","ChuckECool","ThatBoiCydalan","SuperCreamPiper2008","CoolerDude","CECswag2009"]
-gallery = ["LexingtonStage.png|Shot"]
+gallery = []
 +++
 {{Generic|desc=A shot of the store’s current exterior (PC: Jonathan Martin)|image=LexingtonKYCEC2.0Exterior.jpeg}}
 **1555 New Circle Rd, Store #963** was a Showbiz Pizza Place that opened on December 1, 1983 with a Rock-Afire Explosion, which is still open to this day.
@@ -133,7 +133,4 @@ Originally, Lexington had a Rock-Afire Explosion, as all other Showbiz Pizza Pla
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:LexingtonStage.png|Shot from the center stage. (PC: Corman and Associates)
-</gallery>
+

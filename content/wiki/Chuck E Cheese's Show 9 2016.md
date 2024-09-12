@@ -6,7 +6,7 @@ date = 2022-09-26T00:56:05Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Mousester"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -24,41 +24,41 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Skit 1** 
+#  **Skit 1** 
 ## Pasqually's Birthday
 # **Intermission 1** 
-## [[File:New Graphic.png]] Band of Merrymakers - 'Snow, Snow, Snow'
-## [[File:New Graphic.png]] Nina's World - 'Holidays'
+##  Band of Merrymakers - 'Snow, Snow, Snow'
+##  Nina's World - 'Holidays'
 ## Carl Clean
 # **Skit 2** 
 ## Chuck E. Cheese - 'Let's Play Some Games for the Holidays'
 # **Intermission 2** 
-## [[File:New Graphic.png]] A Great Big World - 'I Want A Hippopotamus For Christmas'
-## [[File:New Graphic.png]] Yu-Gi-Oh! - 'Astral's Observation'
+##  A Great Big World - 'I Want A Hippopotamus For Christmas'
+##  Yu-Gi-Oh! - 'Astral's Observation'
 ## Josh & The Jamtones - 'Chanukah Time'
-## [[File:New Graphic.png]] Coldplay - 'Christmas Lights'
-## [[File:New Graphic.png]] Skylanders Netflix Trailer
-## [[File:New Graphic.png]] Thomas's Edison's Secret Lab - 'Christmas on the Moon'
-# [[File:New Graphic.png]] **Skit 3** 
+##  Coldplay - 'Christmas Lights'
+##  Skylanders Netflix Trailer
+##  Thomas's Edison's Secret Lab - 'Christmas on the Moon'
+#  **Skit 3** 
 ## Chuck E. & Helen - 'Merry Christmastime'
 # **Intermission 3**
-## [[File:New Graphic.png]] NSYNC - 'Merry Christmas, Happy Holidays'
+##  NSYNC - 'Merry Christmas, Happy Holidays'
 ## Buffet Promo 
-## [[File:New Graphic.png]] Dot - 'Holidays'
-## [[File:New Graphic.png]] Pentatonix - 'Winter Wonderland/Don't Worry Be Happy'
+##  Dot - 'Holidays'
+##  Pentatonix - 'Winter Wonderland/Don't Worry Be Happy'
 ## Birthday Commercial
-## [[File:New Graphic.png]] Secret Agent 23 Skidoo - 'Young Soul'
+##  Secret Agent 23 Skidoo - 'Young Soul'
 # **Skit 4** 
 ## Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
 # **Intermission 4** 
-## [[File:New Graphic.png]] Run D.M.C. - 'Christmas In Hollis'
-## [[File:New Graphic.png]] Casper Babypants - '12 Days Of Christmas'
-## [[File:New Graphic.png]] Chuck E. Cheese Commercial - 'Faucet'
-## [[File:New Graphic.png]] Friend Talking With Jasper - 'Pasqually Interview'
+##  Run D.M.C. - 'Christmas In Hollis'
+##  Casper Babypants - '12 Days Of Christmas'
+##  Chuck E. Cheese Commercial - 'Faucet'
+##  Friend Talking With Jasper - 'Pasqually Interview'
 ## CEC Fundraising Promo
-## [[File:New Graphic.png]] Thomas's Edison's Secret Lab - 'Wormhole At The North Pole'
+##  Thomas's Edison's Secret Lab - 'Wormhole At The North Pole'
 ## Mariah Carey - 'All I Want for Christmas Is You'
-# [[File:New Graphic.png]] **Skit 5**
+#  **Skit 5**
 ## Chuck E. & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -67,16 +67,16 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
 ### Deck the Halls
 ### We Wish You a Merry Christmas
 # **Intermission 5**
-## [[File:New Graphic.png]] Ruff Ruff Tweet & Dave - 'Ice Skating'
+##  Ruff Ruff Tweet & Dave - 'Ice Skating'
 ## Mac Cheesy Promo
 ## Cee Lo & The Muppets - 'All You Need Is Love'
-# [[File:New Graphic.png]] **Skit 6**
+#  **Skit 6**
 ## Chuck E. & Friends - 'Share The Joy'
 
 ## Lives: ##
 * Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
-* [[File:New Graphic.png]] Happy Dance (Holiday) (3stage, Cyberamic, Studio C,Weigl)
+*  Happy Dance (Holiday) (3stage, Cyberamic, Studio C,Weigl)
 * Happy Dance (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 * Do The Roll (3stage, Cyberamic, Studio C,Weigl)
@@ -90,11 +90,7 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
 *[https://archive.org/details/unlistedcec/Holiday+Medley+++Chuck+E.+Cheese+Holiday+Songs+for+Kids.mp4 'Holiday Medley' on Archive.org]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show916Studioc.jpg|Studio C DVD
-Show916Floppy.png|Studio C Floppy
-s-l1600 (6123).jpg|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 * 'Let's Play Some Games for the Holidays' and 'Share The Joy' are originally from [Holiday 2014]({{< ref "wiki/Holiday 2014 Show.md" >}}). 

@@ -6,7 +6,7 @@ date = 2023-09-16T15:52:41Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","BurgersNuggs445","74.123.35.108"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Jan95.png
@@ -25,46 +25,46 @@ Validation Code: 01091
 **_January 1995**_ was a show that released in January of 1995 at Chuck E. Cheese's locations. 
 
 ##Show List ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##'Go Chuck E. Go'
 ##Game Plan
 ##Secret Handshake
 ##'Go Chuck E. Go'
 #**Intermission 1**
-##[[File:New Graphic.png]] The Pagemaster Trailer
+## The Pagemaster Trailer
 ##Did You Know?
 ##VJ Spot
 ##'Party Place'
-##[[File:New Graphic.png]] Bonkers
-#**[[File:New Graphic.png]]** **Segment 2**
+## Bonkers
+#**** **Segment 2**
 ##'Peter Pepperoni'
 ##Chuck E. Cheese Video Olympics
 ##'Go Chuck E. Go'
-#**[[File:New Graphic.png]]** **Intermission 2**
+#**** **Intermission 2**
 ##Rookie of The Year Trailer
 ##Doug - 'Killer Tofu'
 ##The Flintstones Trailer
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##'Meet The Band'
 ##Friends Out There
 ##The Chuck E. Cheese School of Pizza Eating Etiquette
 ##'Peter Pepperoni'
-#**[[File:New Graphic.png]]** **Intermission 3**
+#**** **Intermission 3**
 ##The Sandlot Trailer
 ##Disney's Aladdin Trailer
 ##America's Funniest Home Videos
-#**[[File:New Graphic.png]]** **Segment 4**
+#**** **Segment 4**
 ##Current Edition with 'Mouth'
 ##'It Takes A Team'
 ##Chuck E.'s Old Act
 ##Teamwork In The Kitchen
 ##'Go Chuck E. Go'
-#**[[File:New Graphic.png]]** **Intermission 4**
+#**** **Intermission 4**
 ##The Jungle Book Trailer
 ##The Flintstones - 'Bedrock Twist'
-#**[[File:New Graphic.png]]** **Segment 5**
+#**** **Segment 5**
 ##The Chuck E. Cheese Workout
-#**[[File:New Graphic.png]]** **Intermission 5**
+#**** **Intermission 5**
 ##Goof Troop - 'Gotta Be Gettin' Goofy'
 ##America's Funniest Home Videos
 ##Garfield

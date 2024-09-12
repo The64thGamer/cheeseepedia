@@ -6,8 +6,5 @@ date = 2022-08-16T21:49:00Z
 
 [Article]
 contributors = ["StudioC"]
-gallery = ["Chuckingcheese.png"]
+gallery = []
 +++
-<gallery>
-File:Chuckingcheese.png
-</gallery>

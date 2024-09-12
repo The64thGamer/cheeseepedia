@@ -6,7 +6,7 @@ date = 2024-08-27T14:52:44Z
 
 [Article]
 contributors = ["BurgersNuggs445","The 64th Gamer","CECBowlingGreen","SniffCEC","CEC Tinley","CorrectorMan","GuestIsJustBest","Stripes","Documentor","BenTrainFan2000"]
-gallery = ["Interactive","1997","1998","1998","1999","CECInteractiveConsoleBridgewaterNJSaved.png|The"]
+gallery = ["Screensaver.png|thumb|The screensaver at the Burbank, CA location.","Studio C Windows Kiosk.png|thumb|352x352px|The software closed out of on the console."]
 +++
 {{Download|external=https://archive.org/compress/studio-c-interactive-console-1999/formats=ZIP&file=/studio-c-interactive-console-1999.zip|title=1999 Interactive Console Software}}{{Generic|image=Studio C Activities.png|desc=Studio C Activities}}
 The **_Studio C Interactive Console**_ was an element included with the [Studio C]({{< ref "wiki/Studio C.md" >}}) Alpha Stages as a way to make the show more of an interactive experience.
@@ -22,7 +22,7 @@ Another monitor was a video feed of the showroom that had two buttons and a joys
 Below the monitors were buttons with sound effects and voices of Chuck E. Cheese characters. One of these buttons also controlled an animated boom mic above Chuck E.'s stage.
 
 ## Software/Hardware ##
-[[File:Screensaver.png|thumb|The screensaver at the Burbank, CA location.]]
+
 The first few Interactive Consoles ran the Flintstones Matching game instead of having the standard Master Control Center.
 
 The 1998 the 1999 versions of the Master Control Center had run off Windows 95 in kiosk mode and were controlled with 2 buttons and a track ball, basically a glorified mouse. They also included screensavers that read 'Chuck E. Cheese's' while it scrolled across the screen.
@@ -42,7 +42,7 @@ Entering the gallery, you can see Andy Warhol inspired pop art and two photos of
 A dance floor is shown with the Chuck E. 3D model dancing on it, you were able to choose from a few different dances for him with discs that were on the sides of the screens.
 
 ### 1999 ###
-[[File:Studio C Windows Kiosk.png|thumb|352x352px|The software closed out of on the console.]]This version resembled more of the website at the time, running off of shockwave flash and even reusing some assets from the website. This version had more activities opposed to the five the older version offered.
+This version resembled more of the website at the time, running off of shockwave flash and even reusing some assets from the website. This version had more activities opposed to the five the older version offered.
 
 ###### Funstation: ######
 This is the area where six flash games resided. These were: BB-Roll, Pizza Jigsaw, Chuck E. Jigsaw, Safety Match, Joke Studio, & the Paint Studio.
@@ -53,12 +53,4 @@ Movie Studio included the at the time latest Studio C videos. The videos even ca
 ###### Pizza World: ######
 This was an information section with things like Birthdays, E-Cards, and Tokens. You were also able to learn more about Munch's Make Believe Band if you really wanted too with this option.
 
-## Gallery ##
-<gallery>
-File:Interactive Console Chuck E. Cheese Model.png|The 3D Model seen in the 1998 Master Control.
-File:1997 Console.png|1997 Console with the 1999 Master Control Center
-File:1998 Console Flintstones.jpg|1998 Console with the Flintstones Arcade
-File:1998 Console Standard.jpg|Standard 1998 Console
-File:1999 Console.jpg|Standard 1999 Console
-File:CECInteractiveConsoleBridgewaterNJSaved.png|The interactive console in Bridgewater, NJ being salvaged by Showbiz Pizza Time Bros (post-closure)
-</gallery>
+

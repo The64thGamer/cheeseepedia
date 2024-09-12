@@ -6,9 +6,9 @@ date = 2023-12-08T22:47:33Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","170.185.215.34","CECKentucky","ChuckEPediaIsTheBest!","CECFan2023","SuperCreamPiper2008"]
-gallery = []
+gallery = ["CECBowlingGreenSeptember2022.jpg|thumb|Bowling Green's exterior after their 2.0 Remodel. Taken September 23, 2022. Picture Credit to [[User:CECBowlingGreen|CECBowlingGreen"]
 +++
-[[File:CECBowlingGreenSeptember2022.jpg|thumb|Bowling Green's exterior after their 2.0 Remodel. Taken September 23, 2022. Picture Credit to User:CECBowlingGreen (CECBowlingGreen)]]
+]]
 
 **2625 Scottsville Rd** was a _[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})_ that opened on April 27, 2004 with a Small-Town Studio C, which is still open to this day.
 
@@ -53,7 +53,7 @@ When the Bowling Green location opened, they had a Small-Town Studio C (18th sto
 |Destroyed
 |}
 
-## Gallery ##
+
 <gallery widths='200' heights='200'>
 File:BGDanceFloor.jpg|Bowling Green's Dance Floor on April 6, 2023. Picture Credit to User:CECBowlingGreen (CECBowlingGreen)
 </gallery>

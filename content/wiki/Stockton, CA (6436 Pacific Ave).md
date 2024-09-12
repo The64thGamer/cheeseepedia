@@ -6,9 +6,9 @@ date = 2023-07-20T02:29:17Z
 
 [Article]
 contributors = ["CorrectorManBackup"]
-gallery = []
+gallery = ["New Stockton.jpg|thumb|The location's exterior prior to 2.0. (PC: usarestaurants.info)"]
 +++
-[[File:New Stockton.jpg|thumb|The location's exterior prior to 2.0. (PC: usarestaurants.info)]]
+
 **_6436 Pacific Ave**_ is a Chuck E. Cheese's that opened on September 6, 2005 with a Studio C Beta, 16M, and is still open today with the 2.0 remodel.
 
 This location is not to be confused with [Stockton, CA (4555 N Pershing Ave)]({{< ref "wiki/Stockton, CA (4555 N Pershing Ave).md" >}}), which opened in October 1979 (day unknown) with a Shelf Stage and closed in December 1998 (day unknown) with a 2-Stage.

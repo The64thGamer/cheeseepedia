@@ -74,11 +74,7 @@ This show played from September 2011 - November 24, 2011.
 * Old MacDonald (Live) (3stage, Cyberamic, Studio C)
 
 ##Showtape Scans / Images:##
-<gallery>
-wedfwwerfttttt.jpg|Studio C DVD
-22222222.jpg|3-Stage DVD
-Sept11cecstage.jpg|CEC Stage DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,7 +6,7 @@ date = 2024-09-07T16:35:00Z
 
 [Article]
 contributors = ["CorrectorMan","CEC Tinley","Estsproduction","CEC1988","Cecfan15WantsRetromation","The 64th Gamer","CoolerDude"]
-gallery = ["Chino.jpg|Chino","Chino's","Chino's"]
+gallery = []
 +++
 {{Generic|image=Chino remodel.jpeg
 |desc=Chino's exterior After 2.0. (PC: yelp.com)}}
@@ -156,11 +156,7 @@ Chino was Supposed to open in mid 1987 as a Showbiz Pizza Place with SPP Phase 1
 |November 18th 2022
 |Owned by CecFan15 On Youtube
 |}
-## Gallery ##
-<gallery>
-File:Chino.jpg|Chino Before 2.0.
-File:Chino's 2 Stage in 2006.jpeg|Chuck.E. in his Cool Chuck outfit(Summer 2006).
-File:Chino's 2 Stage.jpeg|2-Stage in June 2022 Just a Few Months before 2.0 (PC: CEC1988)
-</gallery>
+
+
 
 ## References ##

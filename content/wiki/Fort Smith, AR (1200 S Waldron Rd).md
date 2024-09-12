@@ -168,7 +168,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |N/A
 |Unknown
 |}
-##Gallery##
+
 
 ##Videos ##
 {| class='wikitable'

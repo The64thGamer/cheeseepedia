@@ -6,9 +6,5 @@ date = 2022-07-15T03:17:09Z
 
 [Article]
 contributors = ["ArtieAntlers"]
-gallery = ["Helenpurse.jpg|Blue","Openpurse.jpg|Blue"]
+gallery = []
 +++
-<gallery>
-File:Helenpurse.jpg|Blue purse closed
-File:Openpurse.jpg|Blue purse open
-</gallery>

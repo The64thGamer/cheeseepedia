@@ -6,7 +6,7 @@ date = 2023-06-29T04:30:27Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Mousester","Dame868"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 7 2015 
@@ -22,37 +22,37 @@ gallery = []
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Intermission 1** 
+#  **Intermission 1** 
 ## Justin Timberlake - 'Can't Stop the Feeling'
 ## CEC Sketch - 'Carl Clean'
 ## Casper Babypants - 'Pretty Crabby'
-# [[File:New Graphic.png]] **Skit 1** 
+#  **Skit 1** 
 ## Chuck E. & Friends - 'Song Title'
 # **Intermission 2** 
-## [[File:New Graphic.png]] Meghan Trainor - 'Me Too'
-## [[File:New Graphic.png]] Fraggle Rock - 'Wembley & the Gorgs'
-## [[File:New Graphic.png]] Sofia Carson - 'Love is the Name'
-## [[File:New Graphic.png]] Ice Age 'Collison Course' Trailer
+##  Meghan Trainor - 'Me Too'
+##  Fraggle Rock - 'Wembley & the Gorgs'
+##  Sofia Carson - 'Love is the Name'
+##  Ice Age 'Collison Course' Trailer
 ## Josh & The Jamtones - 'Vamos a la Playa'
-# [[File:New Graphic.png]] **Skit 2**
+#  **Skit 2**
 ## Helen Henny - 'Dream Big'
 # **Intermission 3** 
-## [[File:New Graphic.png]] Ne-Yo - 'Friend Like Me'
+##  Ne-Yo - 'Friend Like Me'
 ## CEC Promo - 'Buffet'
-## [[File:New Graphic.png]] Alessia Cara - 'Wild Things'
+##  Alessia Cara - 'Wild Things'
 ## CEC Promo - 'Birthdays'
-## [[File:New Graphic.png]] Casper Babypants - 'Too Dirty To Love'
-# [[File:New Graphic.png]] **Skit 3**
+##  Casper Babypants - 'Too Dirty To Love'
+#  **Skit 3**
 ## Chuck E. & Jasper - 'Nothing Like A Walk'
 # **Intermission 4**
-## [[File:New Graphic.png]] American Authors - 'Go Big Or Go Home'
-## [[File:New Graphic.png]] Fraggle Rock - 'Fun is Here to Stay'
+##  American Authors - 'Go Big Or Go Home'
+##  Fraggle Rock - 'Fun is Here to Stay'
 ## CEC Food Truck Promo
-## [[File:New Graphic.png]] Fun Facts with CEC - 'Yawning'
-## [[File:New Graphic.png]] CEC Promo - 'Out of This World Fun'
-# [[File:New Graphic.png]] **Skit 4**
+##  Fun Facts with CEC - 'Yawning'
+##  CEC Promo - 'Out of This World Fun'
+#  **Skit 4**
 ## Chuck E. & Friends - 'Out of This World'
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## Josh & The Jamtones - 'Clap It'
 ## Janet Jackson - 'Escapade'
 ## CEC TV Bumper (Animals)
@@ -68,7 +68,7 @@ gallery = []
 * Do The Chuck E. (3stage, Cyberamic, Studio C, Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C, Weigl)
 * Head Shoulders Knees Toes (Studio C, Weigl)
-* [[File:New Graphic.png]] Chuck E.'s Happy Dance (Spanish) (Studio C, Weigl)
+*  Chuck E.'s Happy Dance (Spanish) (Studio C, Weigl)
 
 ##Official Releases:##
 *[https://www.youtube.com/watch?v=rno52PZCT8Q 'Song Title' on YouTube]
@@ -77,10 +77,7 @@ gallery = []
 *[https://www.youtube.com/watch?v=pZtesSQ7Ank 'Out of This World' on YouTube]
 
 ##Showtape Scans / Images:##
-<gallery>
-Show516StdC.png|Studio C DVD
-125428117.73500001_DVD_Art.png|CEC-Stage DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,9 +6,9 @@ date = 2022-04-17T19:21:23Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Pin preciation.jpg|thumb|472x472px|Appreciation Pin Program Flyer"]
 +++
-[[File:Pin preciation.jpg|thumb|472x472px|Appreciation Pin Program Flyer]]
+
 The **_CEC Appreciation Pin Program**_ flyer was a printed sheet hung up in stores starting in 2019 that detailed the various pins employees can receive for good work on the job.
 
 The selection of pins are grouped into four categories, _Certification Pins, Achievement and Appreciation Pins, District Manager/ Area Director Pins,_ and _Elite Pins._ Thirty one pins in total are listed and described. At the bottom seven cast members are shown whom have collected a substantial amount of pins. These are:

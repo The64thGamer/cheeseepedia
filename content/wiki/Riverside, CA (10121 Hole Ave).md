@@ -6,9 +6,9 @@ date = 2023-09-16T21:15:07Z
 
 [Article]
 contributors = ["TheChuckECheeseGuy"]
-gallery = []
+gallery = ["Riverside (Hole).jpg|thumb|The site of the Hole avenue location."]
 +++
-[[File:Riverside (Hole).jpg|thumb|The site of the Hole avenue location.]]
+
 **_10121 Hole Ave**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in either 1981 or 1982 and would close in mid-1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 ## Stage ##

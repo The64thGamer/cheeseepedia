@@ -6,9 +6,9 @@ date = 2024-06-30T19:09:23Z
 
 [Article]
 contributors = ["CECBowlingGreen","BoyInCharge55","107.147.190.172","ShowbizMidwest","JasperLover","62.10.181.250","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]
-gallery = []
+gallery = ["HighQualityPasqually.png|thumb|Modern Pasqually Cyberamic. Photo taken by Nerdy Chuck E."]
 +++
-[[File:HighQualityPasqually.png|thumb|Modern Pasqually Cyberamic. Photo taken by Nerdy Chuck E.]]
+
 The **Pasqually Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's.
 
 It is a pretty simple figure, having only 8 movements. The Pasqually Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band.

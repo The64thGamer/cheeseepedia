@@ -16,5 +16,5 @@ TODO:
 ## Design ##
 TODO:
 
-## Gallery ##
+
 TODO:

@@ -6,7 +6,7 @@ date = 2024-09-04T03:59:21Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ChuckEPediaIsTheBest!","StarToday77","Saan1ty","Cheeseclassic","SuperCreamPiper2008","Caydenpedia","PizzaEntertainmentFanX","CEC1988","The 64th Gamer","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
-gallery = ["Cabaret","HuntingtonBeachPhase","Huntington"]
+gallery = []
 +++
 {{Generic|image=HuntingtonBeachExterior2018AprilGoogleMaps.png|thumb|desc=Street view of the exterior in April 2018 (PC: Google Maps)}}
 **_15511 Edwards St, Store #406**_ is the fifth [Chuck E. Cheese's _Pizza Time Theatre_]({{< ref "wiki/Pizza Time Theatre.md" >}}) location, opening on October 6, 1979, and is currently the oldest operating CEC in the world.
@@ -103,12 +103,8 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 |Mid 1990's
 |In Store.
 |}
-##Gallery##
-<gallery>
-File:Cabaret HelenH.jpg|The store's Cabaret Helen Animatronic
-File:HuntingtonBeachPhase 3.jpg|Huntington Beach's exterior before the 2005 Remodel. (2000's)
-File:Huntington Beach CA exterior 2000s but closer.jpg|An up closer photo of the store's exterior before the 2005 Remodel.
-</gallery>
+
+
 
 ##Videos ##
 {| class='wikitable'

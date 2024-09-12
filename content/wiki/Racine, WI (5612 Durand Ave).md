@@ -56,9 +56,8 @@ Racine opened on January 2nd, 2001 in a freestanding building in the Regency Mal
 |Destroyed
 |}
 
-##Gallery##
-<gallery>
-</gallery>
+
+
 
 ##Videos##
 TODO

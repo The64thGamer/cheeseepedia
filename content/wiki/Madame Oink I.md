@@ -6,7 +6,7 @@ date = 2023-08-14T17:22:08Z
 
 [Article]
 contributors = ["The 64th Gamer","WalterB"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Madame oink 1978.jpg
@@ -19,19 +19,19 @@ The tape came with the installation of [Winchester Madame Oink]({{< ref "wiki/Wi
 It is unknown what the exact order of the segments were on the original tape, as they were uncovered on D2-Tape outside of the standard showtape format.
 
 The **_Madame Oink Birthday**_ was later found on the 'Pizza Time (Birthday 8-TR)' (November 13, 1978) ('Pizza Time (Birthday 8-TR)') 8-Track tape amongst other songs.
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#Frere Jaques
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#Thank Heaven for Little Boys
 *#Baby Face
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#You Only Hurt the Ones You Love
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#Paris Songs
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#Three Ladies
-***[[File:New Graphic.png]]** **Segment**
+***** **Segment**
 *#Money Money (Crusty Version)
 
-***[[File:New Graphic.png]] Birthday**
+*** Birthday**
 *#Madame Oink I Birthday

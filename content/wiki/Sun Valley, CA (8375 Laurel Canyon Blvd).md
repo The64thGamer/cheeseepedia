@@ -6,7 +6,7 @@ date = 2024-07-28T23:11:58Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","Cheeseclassic","CyberstarProductions1000","CoolerDude","Stripes","The 64th Gamer","Studio 18 Ent","Caydenpedia","AstridMascotFan2005"]
-gallery = ["SunValleyExteriorBefore2013Update.jpg|The","SunValleyRoadStageMay2017.png|The"]
+gallery = []
 +++
 {{NoSources}}{{Generic|image=SunValleyExterior2019AprilGoogleMaps.png|desc=Exterior, April 2019 (PC: Google Maps)}}
 **_8375 Laurel Canyon Blvd, Store #418**_ is a _Chuck E. Cheese_ that opened in July 1992 (day unknown) with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open to this day with their 2.0 Remodel.
@@ -79,11 +79,8 @@ Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened 
 |December 18, 2022
 |}
 
-## Gallery ##
-<gallery>
-File:SunValleyExteriorBefore2013Update.jpg|The Store's Exterior before the 2013 Update (PC: Google)
-File:SunValleyRoadStageMay2017.png|The Store's Road Stage in May 2017 (PC: Angela Ramirez).
-</gallery>
+
+
 ## Animatronics ##
 {| class='wikitable'
 !Animatronic

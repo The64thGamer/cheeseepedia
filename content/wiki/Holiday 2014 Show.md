@@ -6,7 +6,7 @@ date = 2022-09-27T21:34:39Z
 
 [Article]
 contributors = ["Documentor","Himitsu"]
-gallery = ["Holiday2014Studioc.jpg|Studio"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Holiday 2014 Show
@@ -24,31 +24,31 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 
 ## Show List: ##
 
-# [[File:New Graphic.png]]**Skit 1**
+# **Skit 1**
 ## Music Video 1 - 'Let's Play Some Games' (Chuck E.)
-# [[File:New Graphic.png]]**Intermission 1**
+# **Intermission 1**
 ## Act 1
-# [[File:New Graphic.png]]**Skit 2**
+# **Skit 2**
 ## Music Video 2 - 'What Do You Get a Sasquatch for Christmas?' (Pasqually)
-# [[File:New Graphic.png]]**Intermission 2**
+# **Intermission 2**
 ## Social Media Promo
 ## Show Break 1 - 'Deck the Halls'
 ## Act 2 
-# [[File:New Graphic.png]]**Skit 3**
+# **Skit 3**
 ## Music Video 3 - 'Snowman' (Jasper)
-# [[File:New Graphic.png]]**Intermission 3**
+# **Intermission 3**
 ## Show Break 2 - 'Rudolph'
 ## Act 3 
-# [[File:New Graphic.png]]**Skit 4**
+# **Skit 4**
 ## Music Video - 'Very Merry Christmas' (Chuck E. & Helen)
-# [[File:New Graphic.png]]**Intermission 4**
+# **Intermission 4**
 ## Paddington Bear Trailer
 ## Show Break 3 - 'Jolly Old Saint Nicholas'
 ## Act 4
 ## Social Media Promo
 ## Show Break 4 - 'Oh Christmas Tree'
 ## Act 5 
-# [[File:New Graphic.png]]**Skit 5**
+# **Skit 5**
 ## Music Video 5 - 'Holiday Medley' (All Characters)
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -57,12 +57,12 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 ### Deck the Halls
 ### We Wish You a Merry Christmas
 
-# [[File:New Graphic.png]]**Intermission 5**
+# **Intermission 5**
 ## Hard Hat Hank - 'Holiday Special'
 ## Show Break 5 - 'Toyland'
-# [[File:New Graphic.png]]**Skit 6**
+# **Skit 6**
 ## Music Video 6 - 'Share the Joy' (All Characters)
-# [[File:New Graphic.png]]**Intermission 6**
+# **Intermission 6**
 ## Show Break 6 - 'Classic Christmas'
 
 ## Live Shows: ##
@@ -77,11 +77,7 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 * Them Bones (Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Holiday14StdC2.png|Studio C DVD
-File:Holiday2014Studioc.jpg|Studio C DVD
-Holiday14cecstage.png|CEC-Stage DVD
-</gallery>
+
 
 ##Official Releases##
 

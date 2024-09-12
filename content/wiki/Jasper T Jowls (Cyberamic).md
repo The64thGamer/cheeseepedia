@@ -6,9 +6,9 @@ date = 2024-06-30T19:10:45Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]
-gallery = ["Pttcj.jpg|How","Rockjasp.png|1987","Shej.png|1994","Resmechj.png|Restored"]
+gallery = ["Lansjasp.png|thumb|Modern Jasper Cyberamic."]
 +++
-[[File:Lansjasp.png|thumb|Modern Jasper Cyberamic.]]The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
+The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
 
 ## History ##
 After the second Pizza Time Theatre opening in 1978, it was decided that Fantasy Forest Manufacturing started creating their figures in a specified way as the previous iterations were in different styles. By the time the [Concord, CA]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) location opened in 1979, they have completed their first batch of Cyberamics. 
@@ -121,13 +121,8 @@ The final design to be concepted and used on the Cyberamic would only be used at
 * 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
 * Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 2023 at Lynnwood, WA.
 
-## Gallery ##
-<gallery>
-File:Pttcj.jpg|How most Jasper Cyberamics looked before 1986
-File:Rockjasp.png|1987 Jul Kamen outfit
-File:Shej.png|1994 Shelly Atkins outfit
-File:Resmechj.png|Restored mechanical skeleton of Jasper
-</gallery>
+
+
 
 ## Trivia ##
 

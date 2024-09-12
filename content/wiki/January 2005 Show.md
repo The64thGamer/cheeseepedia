@@ -6,7 +6,7 @@ date = 2024-09-01T00:24:44Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","Bullseye123","John95","RedaCEC"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Jan05555.jpg
@@ -15,32 +15,32 @@ gallery = []
 |cusvhs93=y|r1293=y}}**_January 2005 Show**_ is the first show produced in 2005. This show was used to promote CEC's Winter 1-derland.
 ##Show List:##
 
-# **[[File:New Graphic.png]]** **Segment 1**
+# **** **Segment 1**
 ## [https://en.wikipedia.org/wiki/Old_Time_Rock_and_Roll 'Old Time Rock & Roll']
 ## 'Chores'
 #**Intermission 1**
-##  **[[File:New Graphic.png]]** Coke Spot 1
-## **[[File:New Graphic.png]]**  VeggieTales: 'Larry Sings The Blues'
-## **[[File:New Graphic.png]]** CEC TV ID - 'Radio Towers'
-## **[[File:New Graphic.png]]**  Countdown 1
-##  **[[File:New Graphic.png]]** Football
-##  **[[File:New Graphic.png]]** The Tube Explorer - 'Ticket Splash'
+##  **** Coke Spot 1
+## ****  VeggieTales: 'Larry Sings The Blues'
+## **** CEC TV ID - 'Radio Towers'
+## ****  Countdown 1
+##  **** Football
+##  **** The Tube Explorer - 'Ticket Splash'
 ## Countdown 2
-# **[[File:New Graphic.png]]** **Segment 2**
+# **** **Segment 2**
 ## [https://en.wikipedia.org/wiki/All_for_You_(Sister_Hazel_song) 'All For You']
 ## 'Keep It Groovin_
 #**Intermission 2**
-##  **[[File:New Graphic.png]]**  Funimation: 'Marvin The Tap-Dancing Horse'
-## **[[File:New Graphic.png]]**  Hockey (Studio C only)
-## **[[File:New Graphic.png]]** CEC TV ID - 'NBC Chime'
+##  ****  Funimation: 'Marvin The Tap-Dancing Horse'
+## ****  Hockey (Studio C only)
+## **** CEC TV ID - 'NBC Chime'
 ## Countdown 3
-##  **[[File:New Graphic.png]]** Winter 1-derland Spot
+##  **** Winter 1-derland Spot
 ## Eddie Coker: 'I Believe'
-##  **[[File:New Graphic.png]]** Countdown 4
-# **[[File:New Graphic.png]]** **Segment 3**
+##  **** Countdown 4
+# **** **Segment 3**
 ## 'Mailman'
 ## [https://en.wikipedia.org/wiki/Jump5 'Wonderful']
-# **[[File:New Graphic.png]]** **Intermission 3**
+# **** **Intermission 3**
 ## Coke Spot 2
 ## VeggieTales: 'Schoolhouse Polka'
 ## 'CEC TV ID - 'Falling Apple'
@@ -48,19 +48,19 @@ gallery = []
 ## CEC TV News - 'Winter 1derland'
 ## Funimation: 'Connie The Cow'
 ## Countdown 6
-# **[[File:New Graphic.png]]** **Segment 4**
+# **** **Segment 4**
 ## 'Ranchin_ (parody of [https://en.wikipedia.org/wiki/You_Should_Be_Dancing 'You Should Be Dancing']
 ## [https://en.wikipedia.org/wiki/Blue_Suede_Shoes 'Blue Suede Shoes']
 # **Intermission 4**
-## **[[File:New Graphic.png]]** Funimation: 'Marvin The Tap-Dancing Horse'
-##**[[File:New Graphic.png]]**  Skateboarding
-## **[[File:New Graphic.png]]** CEC TV ID - 'Chuck E. Skateboarding'
-## **[[File:New Graphic.png]]** Countdown 7
-## **[[File:New Graphic.png]]** Firehouse
-##**[[File:New Graphic.png]]**  Funimation: 'Braceface'
-## **[[File:New Graphic.png]]** Countdown 8
+## **** Funimation: 'Marvin The Tap-Dancing Horse'
+##****  Skateboarding
+## **** CEC TV ID - 'Chuck E. Skateboarding'
+## **** Countdown 7
+## **** Firehouse
+##****  Funimation: 'Braceface'
+## **** Countdown 8
 ## Coke Spot 3 (Studio C only)
-## **[[File:New Graphic.png]]** Funimation: 'Elliot Moose' (Studio C only)
+## **** Funimation: 'Elliot Moose' (Studio C only)
 
 ## Lives: ##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
@@ -82,11 +82,7 @@ gallery = []
 **Birthday Break**: January 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-Cecjan2005.png|Studio C DVD
-Ccc5.png|Studio C DVD
-2021-08-09_154154.jpg|Studio C Floppy Scan
-</gallery>
+
 
 ## Production ##
 ### Credits ###

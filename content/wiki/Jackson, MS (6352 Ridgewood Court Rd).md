@@ -6,9 +6,9 @@ date = 2024-08-16T13:02:19Z
 
 [Article]
 contributors = ["BurgersNuggs445","Rexburg090","Midwestretail","47.17.236.200","CorrectorMan","ShowbizMidwest","Moonrock","AstridMascotFan2005"]
-gallery = ["Jackson","Jackson"]
+gallery = ["Jackson MS Exterior.jpg|thumb|Exterior being finished in 2009"]
 +++
-[[File:Jackson MS Exterior.jpg|thumb|Exterior being finished in 2009]]
+
 **_6352 Ridgewood Court Rd, Store #3011**_ is a _Chuck E. Cheese's_ that opened in June of 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and still open to this day with the 2.0 remodel.
 
 This is a franchised relocation from [Jackson, MS (5465 I-55)]({{< ref "wiki/Jackson, MS (5465 I-55).md" >}}) to Jackson, MS (6352 Ridgewood Court Rd).
@@ -103,11 +103,8 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 |September 18, 2022
 |}
 
-##Gallery##
-<gallery>
-File:Jackson MS Animatronic2.jpg|June 23, 2012
-File:Jackson MS Animatronic.jpg|January 31, 2013
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

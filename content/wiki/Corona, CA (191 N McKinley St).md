@@ -6,7 +6,7 @@ date = 2024-08-09T16:02:11Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","168.69.254.249","CEC Tinley","The 64th Gamer","2605:AD80:31:19FD:B57E:48C6:6471:3CA","Chez","Stripes","SuperCreamPiper2008","Caydenpedia","AstridMascotFan2005","CECMadison"]
-gallery = ["CoronaCAExteriorWhenNew.png|The","CoronaExteriorBefore2005Update.jpg|The","Conornaexterior2007.png|Store's","Coronaside2007.png|Store's","Corona2007.png|Pasqually","Coronahelen2007.png|Helen","Coronajasper2007.png|Jasper","Coronamunch2007.png|Munch","Cyberamicsunitcorona2007.png|[[Cyberamic","CoronaExterior2019JanuaryGoogleMaps.png|Exterior","CoronaRoadStageJanuary2023.jpg|The","Nov2023exteriorcoronaca.png|Exterior"]
+gallery = []
 +++
 {{NoSources}}{{Generic|desc=Exterior (June 2024)|image=Jun2024exteriorcoronaca.jpg}}
 
@@ -70,21 +70,8 @@ In February 2024, Corona would start their 2.0 remodel and would remove their Ro
 |N/A
 |Destroyed.<ref name=':0' />
 |}
-##Gallery##
-<gallery>
-File:CoronaCAExteriorWhenNew.png|The Store's Exterior around when the store first opened (PC: Unknown)
-File:CoronaExteriorBefore2005Update.jpg|The Store's Exterior before receiving the 2005 Update (PC: infogroup)
-File:Conornaexterior2007.png|Store's Exterior (April-July 2007)
-File:Coronaside2007.png|Store's Exterior (April-July 2007)
-File:Corona2007.png|Pasqually (April-July 2007)
-File:Coronahelen2007.png|Helen (April-July 2007)
-File:Coronajasper2007.png|Jasper (April-July 2007)
-File:Coronamunch2007.png|Munch (April-July 2007)
-File:Cyberamicsunitcorona2007.png|[Cyberamic Control System]({{< ref "wiki/Cyberamic Control System.md" >}}) playing [April 2007 Show]({{< ref "wiki/April 2007 Show.md" >}}) (April-July 2007)
-File:CoronaExterior2019JanuaryGoogleMaps.png|Exterior (January 2019)
-File:CoronaRoadStageJanuary2023.jpg|The Store's Road Stage as of January 23rd, 2023  (PC: Ti Ti)
-File:Nov2023exteriorcoronaca.png|Exterior (November 2023)
-</gallery>
+
+
 
 ##Videos##
 (W.I.P)

@@ -6,9 +6,9 @@ date = 2023-05-10T17:55:43Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = ["Jjsign94.png|How","Front.jpg|Front","JJ","Signback.jpg|Back"]
+gallery = ["JJ RAE Sign back.jpg|thumb|403x403px|Jungle Jim's RAE Sign (Back)"]
 +++
-[[File:JJ RAE Sign back.jpg|thumb|403x403px|Jungle Jim's RAE Sign (Back)]]
+
 **_RAE Sign Retrofit**_ is a retrofit of The RAE Sign at _Jungle Jim's International Market_ in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)
 
 The sign can be seen in front of the in the 'Cheese Shop' section of the grocery store. The sign is hung from the ceiling faces the 'Big Cheese' with the sign on the front stating 'GROCERIES' With a giant yellow arrow above it. The sign on the back reads 'Thru Beer & Wine'. It features no use other than being for display. 
@@ -18,10 +18,4 @@ The RAE Sign was originally installed at the [Sharonville, OH (1429 E Kemper Rd)
 
 The sign was then relocated in 2004 to where it is currently located with it receiving a complete make over to remove all references to it being originally in the hot sauce section. the front of the sign was replaced with a solid red reading the word 'GROCERIES' the back of the sign had a sign added on being white reading 'Thru Beer & Wine'. the pole that supported the sign was cut and lighting loop was removed. As of June 2022 it is still being used for display.
 
-##Gallery##
-<gallery>
-File:Jjsign94.png|How the RAE Sign looked from 1995 - 2004
-File:Front.jpg|Front of the RAE Sign
-File:JJ RAE Sign back.jpg|Back of the RAE Sign.
-File:Signback.jpg|Back of the sign showing the sign mount and the shape of the RAE Sign.
-</gallery>
+

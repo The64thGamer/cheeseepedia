@@ -6,7 +6,7 @@ date = 2024-08-25T14:26:47Z
 
 [Article]
 contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]
-gallery = ["Pizza&pipesbandboard1.png|Mechanical"]
+gallery = []
 +++
 {{Stub}}{{Animatronic|image=WINCHSETERSHOT_2.jpg|unitsProduced=1|releasedate=May, 1977|manufacturer=Fantasy Forest}}
 
@@ -17,9 +17,7 @@ The initial inspiration for the Drum Board would be between 1970-1971, when Nola
 
 The setup appeared in the [1979 PTT Franchise Brochure]({{< ref "wiki/PTT Franchise Brochure (1979).md" >}}), were they are referred as Drums & 'Noisemakers'. They were either removed when the store received [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) or when it store closed in February of 1985.<ref>https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf</ref>
 
-## Gallery ##
-<gallery>
-File:Pizza&pipesbandboard1.png|Mechanical instruments at the Bellevue, Washington _Pizza & Pipes_
-</gallery>
+
+
 
 ## References ##

@@ -39,4 +39,3 @@ The Studio C Beta was removed with the 2.0 Remodel in April 2023, and replaced w
 |N/A
 |Destroyed.
 |}
-##Gallery##

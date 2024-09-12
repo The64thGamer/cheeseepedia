@@ -6,7 +6,7 @@ date = 2024-07-17T21:13:58Z
 
 [Article]
 contributors = ["Rexburg090","Emcaacme","Awesome Dawson Films YT","RedaCEC","SuperCreamPiper2008","ThatBoiCydalan","2600:4040:5A0C:5900:C146:5FEF:315A:1C1B","BurgersNuggs445","64.125.60.2","ShowbizMidwest","ChuckECool","ChuckfeldStan","Agent 5","Stripes","AstridMascotFan2005"]
-gallery = ["JaxAtl01.jpg|Exterior","SPP","JacksonvilleFLAtlanticExterior90s.png|Exterior","Exterior2022FebruaryGoogleMaps.png|Street"]
+gallery = []
 +++
 {{Generic|image=JacksonvilleAtlanticFL2.0Exterior.png|desc=Photo of the 2.0 exterior in April 2023 (PC: Chuck E. Cheese Jacksonville)}}
 
@@ -85,13 +85,8 @@ In 2005 / 2006 the location would remodel and expand into the neighboring Wester
 |Exterior shot and small footage of the dance floor, backstage, arcade, and bathrooms in 2023.
 |April 1st, 2023
 |}
-## Gallery ##
-<gallery>
-File:JaxAtl01.jpg|Exterior back when it was ShowBiz Pizza Place (1980). PC: showbizpizza.com
-File:SPP Jacksonville.png|Exterior back when it was ShowBiz Pizza Place (1980s).
-File:JacksonvilleFLAtlanticExterior90s.png|Exterior with the 1988 Remodel (1991).
-File:Exterior2022FebruaryGoogleMaps.png|Street View of the exterior before 2.0 in November 2022 (February 2022) (PC: Google Maps)
-</gallery>
+
+
 
 ## Animatronics##
 {| class='wikitable'

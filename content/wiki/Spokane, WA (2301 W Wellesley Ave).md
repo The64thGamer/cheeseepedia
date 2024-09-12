@@ -93,7 +93,7 @@ On September 17, 1984, a man named Dennis E. Archambeault burned down his pizza 
 |1993/1994
 |Sent to the now closed, [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). 
 |}
-##Gallery##
+
 TODO
 ##Videos##
 {| class='wikitable'

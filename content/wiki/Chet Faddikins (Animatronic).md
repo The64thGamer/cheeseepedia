@@ -6,7 +6,7 @@ date = 2024-05-30T23:20:59Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["yeeyee.jpg|At","morey_stgcntr.jpg|At","stagem.png|At","WH2001_chet.jpg|2001","WH2005_chet.jpg|2005","WH_xchet.jpg|"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=chet_f.jpg|unitsProduced=2}}Chet Faddikins was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Morey's Piers and Americana Amusement Park. He is most likely a parody of country rock guitarist, Chet Atkins.
 
@@ -31,12 +31,4 @@ Due to lack of footage or photos of internals, movements can only be inferred. A
 * Body lean back
 * Strum
 * Fret slide
-## Gallery ##
-<gallery>
-File:yeeyee.jpg|At Americana Amusement Park
-File:morey_stgcntr.jpg|At Morey's Piers
-File:stagem.png|At CEI warehouse (1984)
-File:WH2001_chet.jpg|2001
-File:WH2005_chet.jpg|2005
-File:WH_xchet.jpg|
-</gallery>
+

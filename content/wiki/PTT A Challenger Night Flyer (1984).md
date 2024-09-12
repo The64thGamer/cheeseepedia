@@ -6,7 +6,7 @@ date = 2023-06-03T19:33:22Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Challenger"]
+gallery = []
 +++
 {{Generic|image=PTT Challenger Flyer 1.png|desc=Flyer Outside}}
 
@@ -75,7 +75,4 @@ EL MONTE
 
 PHONE: (818) 350--6881</blockquote>
 
-## Gallery ##
-<gallery>
-File:Challenger Night Flyer 2.png|Flyer Inside
-</gallery>
+

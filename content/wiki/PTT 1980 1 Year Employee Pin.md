@@ -6,9 +6,9 @@ date = 2021-12-04T04:43:49Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Pppppt.jpg|thumb|301x301px|Front"]
 +++
-[[File:Pppppt.jpg|thumb|301x301px|Front]]The **_PTT 1980 1 Year Employee Pin**_ was given to PTT employees in 1980 for their contributions in the store, to be worn on their lanyard.
+The **_PTT 1980 1 Year Employee Pin**_ was given to PTT employees in 1980 for their contributions in the store, to be worn on their lanyard.
 
 The pin was made in 1980, and presumably for only that year. Making it the earliest known employee pin.
 ##Design##
@@ -17,9 +17,4 @@ The is a solid brass circular pin. Engraved is Chuck E. Cheese with his arms out
 <code>1 YEAR</code>
 ##Acquirement##
 Employees could receive this pin after being an employee at Pizza Time Theatre for 1 consecutive year.
-##Gallery##
-<gallery>
-Pppppt.jpg|Front
-243424.jpg|Front
-1213123132.jpg|Back
-</gallery>
+

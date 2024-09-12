@@ -6,7 +6,7 @@ date = 2022-10-01T17:07:12Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","CyCGM"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 2 2020
@@ -57,7 +57,7 @@ This was created to play from June 21, 2020 - June 23, 2020. This show features 
 ## Nigel & Ronnie - 'The Fly'
 # **Skit 5**
 ## Chuck E. & Friends - 'Chuck E.'s Place'
-# **[[File:New Graphic.png]] Intermission 6**
+# ** Intermission 6**
 ## Social Distancing PSA
 ## Welcome Back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
@@ -65,7 +65,7 @@ This was created to play from June 21, 2020 - June 23, 2020. This show features 
 
 ## Lives: ##
 
-* **[[File:New Graphic.png]]** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
+* **** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
 ## Trivia: ##

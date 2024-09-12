@@ -72,7 +72,7 @@ Originally, when this store opened it featured Chuck in his tuxedo suit. It was 
 |Removed. Saved by a private collector on May 14, 2024.
 |}
 
-##Gallery##
+
 [https://www.instagram.com/ohio_cec_mentor/ An account] ran from 2016 to 2018 by Mentors employees, showcasing multiple games, the animatronics, and backstage photos.
 
 ##Videos ##

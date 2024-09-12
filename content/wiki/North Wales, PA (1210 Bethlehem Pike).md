@@ -32,5 +32,5 @@ W.I.P
 |
 |}
 
-##Gallery##
+
 W.I.P

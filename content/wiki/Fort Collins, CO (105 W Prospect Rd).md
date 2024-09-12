@@ -94,7 +94,7 @@ Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion
 |Unknown.
 |}
 
-## Gallery ##
+
 [https://www.showbizpizza.com/photos/cec/co_ftcollins/index.html   Fort Collins in 1999]
 
 ## Videos ##

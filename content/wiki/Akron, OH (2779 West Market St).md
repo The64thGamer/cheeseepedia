@@ -6,9 +6,9 @@ date = 2024-01-23T13:15:34Z
 
 [Article]
 contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125.34.66","Estsproduction"]
-gallery = ["AkronOHExteriorBeforeLogoChange.png|Akron's","AkronOH1-Stage1232019.jpg|thumb|Akron's","AkronOHExteriorBefore2.0Remodel.jpg|Akron's","AkronOHVideoWall1172023.jpg|thumb|Akron's"]
+gallery = ["Akron 2.0 Exterior.jpg|thumb|Akron's exterior as of October 2022"]
 +++
-[[File:Akron 2.0 Exterior.jpg|thumb|Akron's exterior as of October 2022]]
+
 **_2779 West Market St, Store #553**_ is a Chuck E. Cheese's location in Akron, Ohio that opened on October 25th, 1993, with a [1 Stage]({{< ref "wiki/1-Stage.md" >}}). Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or Akron, OH (2511 Romig Rd), which was a Showbiz Pizza Place.
 
 ## History ##
@@ -66,13 +66,8 @@ Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza 
 |Removed July 2022, Unknown
 |}
 
-## Gallery ##
-<gallery>
-File:AkronOHExteriorBeforeLogoChange.png|Akron's Exterior before the logo was changed to the one they had before 2.0 (2000's) (PC: Zomato)
-File:AkronOH1-Stage1232019.jpg|thumb|Akron's 1-Stage during Birthday Star Spectacular (12/3/2019) (PC: Tanise Scott)
-File:AkronOHExteriorBefore2.0Remodel.jpg|Akron's Exterior before the 2.0 Remodel (6/8/2022) (PC: RetailRyan on Flickr)
-File:AkronOHVideoWall1172023.jpg|thumb|Akron's Dance Floor + Video Wall (1-17-2023) (PC: Noelle Pratt)
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

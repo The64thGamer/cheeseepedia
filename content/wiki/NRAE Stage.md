@@ -34,5 +34,5 @@ Some stages would feature a shorter stage that allowed for Karaoke, This stage w
 ## Early Iterations ##
 TODO:
 
-## Gallery ##
+
 *

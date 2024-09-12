@@ -1040,7 +1040,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |September 19, 2022
 |}
 
-##Gallery##
+
 {| class='wikitable'
 !Link
 !Description

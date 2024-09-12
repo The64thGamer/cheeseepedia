@@ -6,7 +6,7 @@ date = 2024-09-08T18:33:31Z
 
 [Article]
 contributors = ["Documentor","Mousester","CECBowlingGreen","RedaCEC","SuperCreamPiper2008","ChuckECool","ThatBoiCydalan","2600:4040:5A0E:D900:ACE2:E035:4385:1E5C","CEC Tinley","Rexburg090","2600:4040:5A0E:D900:536:4D5F:5C9C:EB38","Caydenpedia","2600:4040:5A0E:D900:BC79:7D2C:188E:B2DB","Cyberamics"]
-gallery = ["Florence05outside.png|Florences","Florencefrontofstore.png|The","Florencerightwall.png|The","FlorenceToddlerZone.png|The","Florence7.png|More","FlorenceMenu.png|Menu","Florence5.png|Full","Florence8.png|Last","Lastphoto.jpg|Last","Stage","FlorenceGrandReopening.jpg|Florence"]
+gallery = []
 +++
 {{Generic|image=CECFlorence2.0exterior.jpg|desc=Florence's Exterior (2022) PC: Joshua}}
 **_Florence, Ky (7635 Mall Rd) #212/112**_ originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).<ref>https://www.newspapers.com/article/the-cincinnati-post/99572685/</ref> and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
@@ -74,7 +74,7 @@ In 1997-1998 they would receive [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md
 
 Between 1995 - 1998 Florence, Ky would receive the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) this would involve painting over the checkers, removing the neon signage, installing new artwork, recarpeting the store, keeping the old booths, keeping the oil paintings, and keeping the booths.
 
-In 2002-2003, Florence would receive an updated art package along with the  [2-Stage]({{< ref "wiki/2-Stage.md" >}}) from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}).<ref name=':0' /> The artwork they received is [CEC Warhol - Tri (CEC Décor)]({{< ref "wiki/CEC Warhol - Tri (CEC Décor).md" >}}), 'F.R.I.E.N.D.Z' (Must C TV Award),  [['The C Files' (Must C TV Award)]], 'CWO' (Must C TV Award), 'ERrr' (Must C TV Award), 'Cheesy Television' (Must C TV Award) [Ice Hockey (CEC Décor)]({{< ref "wiki/Ice Hockey (CEC Décor).md" >}}), Soccer (CEC Décor), and Toddler Zone Fire Truck (CEC Décor). Two of the CD Awards were relocated to the other side of the Show Room where the other two CD Awards already were located. During this update they would replace all of the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) booths with the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) booths and wood paneling was also updated to be up to modern standards.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0012.png</ref>
+In 2002-2003, Florence would receive an updated art package along with the  [2-Stage]({{< ref "wiki/2-Stage.md" >}}) from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}).<ref name=':0' /> The artwork they received is [CEC Warhol - Tri (CEC Décor)]({{< ref "wiki/CEC Warhol - Tri (CEC Décor).md" >}}), 'F.R.I.E.N.D.Z' (Must C TV Award),  'The C Files' (Must C TV Award), 'CWO' (Must C TV Award), 'ERrr' (Must C TV Award), 'Cheesy Television' (Must C TV Award) [Ice Hockey (CEC Décor)]({{< ref "wiki/Ice Hockey (CEC Décor).md" >}}), Soccer (CEC Décor), and Toddler Zone Fire Truck (CEC Décor). Two of the CD Awards were relocated to the other side of the Show Room where the other two CD Awards already were located. During this update they would replace all of the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) booths with the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) booths and wood paneling was also updated to be up to modern standards.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0012.png</ref>
 
 On August 25, 2008, the store became a corporate-owned location. With this the store number would change from Store #212 to Store #112
 
@@ -159,20 +159,8 @@ On August 29, 2024 Florence would install its Trampoline Zone. Around this time 
 |-
 |}
 
-##Gallery##
-<gallery>
-File:Florence05outside.png|Florences Exterior in 2005<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0008.png/</ref>
-File:Florencefrontofstore.png|The Gameroom next to the entrance of the store <ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0012.png/</ref>
-File:Florencerightwall.png|The right wall of the Gameroom.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0011.png</ref>
-File:FlorenceToddlerZone.png|The Toddler Zone.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0004.png</ref>
-File:Florence7.png|More Gameroom.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0022.png</ref>
-File:FlorenceMenu.png|Menu at Florence.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0015.png</ref>
-File:Florence5.png|Full Stage shot in 2005.<ref>https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0013.png</ref>
-File:Florence8.png|Last known photo of Chuck E.'s House Helen. Taken March 2000.<ref>https://www.instagram.com/p/Cb_BmWqPxny/</ref>
-File:Lastphoto.jpg|Last known photo of the 2-Stage at Florence. Taken March 27, 2022.
-File:Stage after removal.jpg|Florence after day 1 of stage removal. Taken March 31, 2022.
-File:FlorenceGrandReopening.jpg|Florence Grand Re-Opening Brochure 
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

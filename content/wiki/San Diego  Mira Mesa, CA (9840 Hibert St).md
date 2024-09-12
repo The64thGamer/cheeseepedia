@@ -109,7 +109,7 @@ In February 18, 2024, the 2-Stage was removed due to the 2.0 Remodel.
 |N/A
 |Unknown.
 |}
-##Gallery##
+
 
 ##Videos##
 TODO

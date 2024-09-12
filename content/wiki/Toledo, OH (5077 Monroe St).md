@@ -36,7 +36,7 @@ W.I.P: Stage History
 |First 2021 Model in Ohio
 |}
 
-## Gallery ##
+
 W.I.P
 
 ## Videos ##

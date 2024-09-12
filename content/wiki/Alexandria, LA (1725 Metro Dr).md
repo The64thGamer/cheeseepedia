@@ -6,9 +6,9 @@ date = 2024-08-04T16:50:47Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisneyfan2004","Thecheesymanfromschool","The 64th Gamer","AstridMascotFan2005"]
-gallery = ["AlexandriaLAExterior2008FebruaryGoogleMaps.png|Street","AlexandriaLAStudioCBeforeRemoval.jpg|The","Chuck","Screenshot","Chuck","Chuck","Screenshot","Screenshot","Screenshot"]
+gallery = ["AlexandriaLAExterior2021DecemberGoogleMaps.png|thumb|Street view of the exterior before the 2.0 remodel (December 2021) (PC: Google Maps)"]
 +++
-[[File:AlexandriaLAExterior2021DecemberGoogleMaps.png|thumb|Street view of the exterior before the 2.0 remodel (December 2021) (PC: Google Maps)]]
+
 **_1725 Metro Dr, Store #48**_ was a Showbiz Pizza Place that opened in June 27, 1983 with the Rock-Afire Explosion, and is still open to this day.
 
 ##Stages ##
@@ -64,17 +64,7 @@ Alexandria opened on June 27th, 1983 as the 5th Showbiz Pizza store to open in L
 |}
 
 ##Gallery ##
-<gallery>
-File:AlexandriaLAExterior2008FebruaryGoogleMaps.png|Street view of the exterior in February 2008 before they expanded (PC: Google Maps)
-File:AlexandriaLAStudioCBeforeRemoval.jpg|The store's Studio C performing 'Dream Big' from Chuck E. Cheese's Show 5 2016 (Show 5, 2016) almost 6 years before removal for Dance Floor + Video Wall (PC: Andrew Hubbard) (11/17/2016)
-File:Chuck e cheese alexandria la 3 stage.png|Stage Right and a little of Center Stage of the 3 Stage in the 2000s, (Chuck E.'s Bowtie is Missing)
-File:Screenshot (10).png|Helen in the 2000s
-File:Chuck e cheese alexandria la 3 stage .png|Munch in the 2000s with the CU Organ Front
-File:Chuck e cheese alexandria la .png|Jasper in the 2000s
-File:Screenshot (13).png|Pasqually in the 2000s
-File:Screenshot (14).png|Chuck E. a little bit before the conversion
-File:Screenshot (15).png|Jasper, Pasqually and a little bit of Munch's organ in the 2000s
-</gallery>
+
 
 ##Animatronics##
 {| class='wikitable'

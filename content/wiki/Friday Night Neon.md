@@ -6,7 +6,7 @@ date = 2022-04-03T01:40:01Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Friday Night Neon
@@ -25,26 +25,26 @@ This was created to play from August 21, 2017. - October 1, 2017 then was extend
 ## Show List: ##
 
 # **Intermission 1** 
-## [[File:New Graphic.png]]DJ Chuck E. Skit 1
-## [[File:New Graphic.png]]Junior Senior - 'Move Your Feet'
+## DJ Chuck E. Skit 1
+## Junior Senior - 'Move Your Feet'
 ## Bruno Mars - 'Treasure'
 ## Justin Timberlake - 'Can't Stop This Feeling!'
 ## Calvin Harris feat. Rihanna - 'This Is What You Came For'
 ## Kool & The Gang - 'Celebration'
 ## Fergie - 'Clumsy'
 ## Coldplay - 'Adventure Of A Lifetime'
-## [[File:New Graphic.png]]Janet Jackson - 'Miss You Much'
+## Janet Jackson - 'Miss You Much'
 ## Silento - 'Watch Me (Whip/Nae Nae)'
 # **Intermission 2** 
-## [[File:New Graphic.png]]DJ Chuck E. Skit 2 
-## [[File:New Graphic.png]]Patti Labelle - 'New Attitude' 
+## DJ Chuck E. Skit 2 
+## Patti Labelle - 'New Attitude' 
 ## A-Ha - 'Take On Me'
-## [[File:New Graphic.png]]Dead Or Alive - 'You Spin Me Round (Like A Record)'
-## [[File:New Graphic.png]]Capital Cities - 'Safe And Sound'
-## [[File:New Graphic.png]]Daft Punk - 'One More Time'
-## [[File:New Graphic.png]]Meghan Trainor - 'Me Too'
+## Dead Or Alive - 'You Spin Me Round (Like A Record)'
+## Capital Cities - 'Safe And Sound'
+## Daft Punk - 'One More Time'
+## Meghan Trainor - 'Me Too'
 ## The Black Keys - 'Gold On The Ceiling'
-## [[File:New Graphic.png]]Marshmello - 'Summer'
+## Marshmello - 'Summer'
 
 ## Lives: ##
 
@@ -63,9 +63,7 @@ This was created to play from August 21, 2017. - October 1, 2017 then was extend
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Screenshot202022-02-1020182513.png|CEC-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

@@ -6,7 +6,7 @@ date = 2024-05-31T00:39:05Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["morey_stglft.jpg|Morey's","WH2003_pierre.jpg|2003","WH2005_pierre.jpg|2005","WH_pierre.png|"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=pierrebcj.jpg|unitsProduced=2}}Pierre LeBear was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Morey's Piers and Americana Amusement Park. His mech was later reused for Pete Thornsberry in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}).
 
@@ -29,10 +29,4 @@ Due to his mech being reused for the Hard Luck Bears, we have a better idea of h
 * Left elbow
 * Right elbow
 
-## Gallery ##
-<gallery>
-File:morey_stglft.jpg|Morey's Piers
-File:WH2003_pierre.jpg|2003
-File:WH2005_pierre.jpg|2005
-File:WH_pierre.png|
-</gallery>
+

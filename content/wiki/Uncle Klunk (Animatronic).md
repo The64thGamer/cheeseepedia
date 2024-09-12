@@ -6,13 +6,13 @@ date = 2024-07-18T00:21:35Z
 
 [Article]
 contributors = ["Avabeckley"]
-gallery = []
+gallery = ["Klunk.jpg|thumb|Uncle Klunk Animatronic"]
 +++
 Please note this page is not finished yet:
 
 
 Uncle Klunk was traveling animatronic produced by Creative Engineering Inc. as part of the  [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) animatronics. He was designed to travel between store locations, temporary replacing [Rolfe and Earl]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}}) on stage right. 
-[[File:Klunk.jpg|thumb|Uncle Klunk Animatronic]]
+
 TODO: Keep writing.
 
 ## History ##

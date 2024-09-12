@@ -6,7 +6,7 @@ date = 2024-04-20T14:47:44Z
 
 [Article]
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
-gallery = ["Burlington"]
+gallery = []
 +++
 {{Generic|desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png}}
 
@@ -80,10 +80,8 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 |Unknown
 |Unknown
 |}
-##Gallery##
-<gallery>
-File:Burlington C-Stage.png|Burlington's C-Stage on closing day.
-</gallery>
+
+
 
 ##References##
 <references />

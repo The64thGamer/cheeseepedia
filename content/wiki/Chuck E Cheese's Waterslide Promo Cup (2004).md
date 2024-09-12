@@ -8,10 +8,5 @@ date = 2022-10-19T20:34:56Z
 contributors = ["Documentor"]
 gallery = []
 +++
-##Gallery##
 
-<gallery>
-Waterslidecup1.jpg
-Waterslidecup2.jpg
-Waterslidecup3.jpg
-</gallery>
+

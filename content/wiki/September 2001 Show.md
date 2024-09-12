@@ -6,7 +6,7 @@ date = 2023-01-31T01:19:40Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","BurgersNuggs445","RedaCEC"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = CEC Chuck E. Cheese TV
@@ -33,57 +33,57 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 
 ## Show Tape: ##
 
-# [[File:New Graphic.png]] **Segment 1** 
+#  **Segment 1** 
 ## [https://en.wikipedia.org/wiki/Boogie_Shoes 'Boogie Shoes']
 ## [https://en.wikipedia.org/wiki/Everlasting_Love 'Everlasting Love']
 # **Intermission 1**
-## [[File:New Graphic.png]] VeggieTales - 'His Cheeseburger'
-## [[File:New Graphic.png]] Skateboarding
-## [[File:New Graphic.png]] Store Intro - 'Orlando FL, CEC'
+##  VeggieTales - 'His Cheeseburger'
+##  Skateboarding
+##  Store Intro - 'Orlando FL, CEC'
 ## CEC TV ID - 'Couch'
-# [[File:New Graphic.png]]  **Segment 2**
+#   **Segment 2**
 ## [https://en.wikipedia.org/wiki/Louie_Louie 'Louie Louie']
 ## [https://en.wikipedia.org/wiki/How_Sweet_It_Is_(To_Be_Loved_by_You) 'How Sweet It Is (To Be Loved By You']
 # **Intermission 2**
-## [[File:New Graphic.png]] CEC TV ID - 'Marx Bros'
-## [[File:New Graphic.png]] Eddie Coker - 'I Believe'
-## [[File:New Graphic.png]] Store Intro - 'Spokane WA, CEC'
+##  CEC TV ID - 'Marx Bros'
+##  Eddie Coker - 'I Believe'
+##  Store Intro - 'Spokane WA, CEC'
 ## CEC TV ID - 'Rocketship'
 ## Ski-Time (Studio C only)
-# [[File:New Graphic.png]] **Segment 3** 
+#  **Segment 3** 
 ## 'Paper or Plastic' (Parody of [https://en.wikipedia.org/wiki/Paperback_Writer 'Paperback Writer'])
 ## [https://en.wikipedia.org/wiki/Do_You_Love_Me 'Do You Love Me?']
 # **Intermission 3**
-## [[File:New Graphic.png]] Amphicar
-## [[File:New Graphic.png]] Baking With Betty - 'Mad Cows'
-## [[File:New Graphic.png]] Store Intro - 'Spokane WA, CEC'
+##  Amphicar
+##  Baking With Betty - 'Mad Cows'
+##  Store Intro - 'Spokane WA, CEC'
 ## CEC TV ID - 'Cows'
-# [[File:New Graphic.png]] **Segment 4** 
+#  **Segment 4** 
 ## [https://en.wikipedia.org/wiki/I_Can_Help 'I Can Help']
 ## [https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song) 'My Girl']
 #**Intermission 4**
-## [[File:New Graphic.png]]  VeggieTales - 'My Share'
-## [[File:New Graphic.png]] VeggieTales - Jonah Movie Trailer
-## [[File:New Graphic.png]] Sing-Along Guys - 'Old MacDonald'
-## [[File:New Graphic.png]] Store Intro - 'Spokane WA, CEC'
-## [[File:New Graphic.png]] CEC TV ID - 'Rocket Racer'
+##   VeggieTales - 'My Share'
+##  VeggieTales - Jonah Movie Trailer
+##  Sing-Along Guys - 'Old MacDonald'
+##  Store Intro - 'Spokane WA, CEC'
+##  CEC TV ID - 'Rocket Racer'
 ## Underwater Adventure (Studio C only)
 
 ## Lives: ##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 
 * Chuck E. Says
-* [[File:New Graphic.png]] Chuck E. Shuffle (New Footage)
+*  Chuck E. Shuffle (New Footage)
 * Chuck E. March 01
 * Havin' a Party 01
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
-*[[File:New Graphic.png]] Spanish Birthday 01
+* Spanish Birthday 01
 * Chuck E. Swing
 * Rockin' Christmas Eve
 * [Bingo]({{< ref "wiki/Bingo.md" >}})
 * [Patriotic Live 00]({{< ref "wiki/Patriotic Live 00.md" >}})
 * If You're Happy & You Know It
-* [[File:New Graphic.png]] What I Like About You 01
+*  What I Like About You 01
 
 **Birthday Break**: The September 2001 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
@@ -109,12 +109,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 * Brian Hagan - Show Programmer
 
 ##Showtape Scans / Images:##
-<gallery>
-eyemage.jpg|3-Stage SVHS Front Label
-spingbap.jpg|3-Stage SVHS Top Label
-BusinessCard_2021-08-09_152216.jpg|Studio C Floppy Scan
-2021-08-09_151921.jpg|Studio C Floppy Scan (Version 2)
-</gallery>
+
 
 ##Trivia##
 *This is the last CEC show Brian Hagan was involved in.

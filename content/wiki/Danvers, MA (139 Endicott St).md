@@ -6,7 +6,7 @@ date = 2024-06-08T21:07:26Z
 
 [Article]
 contributors = ["Destinationimagination95","Rexburg090","RedaCEC","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","The 64th Gamer","Dakaraimoore1203","NativeNew Yorker","CECMentor","Moonrock"]
-gallery = ["BB","DanversMAKingAnimatronic.jpg|A","DanversMAChuckEsHouse.jpg|A","DanversExterior1990.jpg|A","DanversMAExteriorBefore2005Remodel.jpg|thumb|A","DanversMA2Stage25thAnniversary.jpg|thumb|A"]
+gallery = []
 +++
 {{Generic|desc=Street View of the store's exterior in September 2018 (PC: Google Maps)|image=DanversMAExterior2018SeptemberGoogleMaps.png}}
 
@@ -114,17 +114,10 @@ For the purpose of main 5, it will contain info on Chuck E.'s House show, with t
 |
 |}
 
-## Gallery ##
+
 [http://showbizpizza.com/photos/ptt/ma_danvers/index.html 1980's], [http://showbizpizza.com/photos/cec/ma_danvers/index.html 2002]
 , [http://showbizpizza.com/photos/cec/ma_danvers_cv1/index.html 2004], [http://showbizpizza.com/photos/cec/ma_danvers_cv2/index.html 2005]
-<gallery>
-File:BB 1985.jpg|The store's Cabaret B.B. Bubbles Animatronic (1985)
-File:DanversMAKingAnimatronic.jpg|A photo of the store's King Animatronic before being sent to Newington NH (PC: showbizpizza.com)
-File:DanversMAChuckEsHouse.jpg|A photo of the store's Chuck E.'s House (PC: showbizpizza.com)
-File:DanversExterior1990.jpg|A photo of the store's Exterior in 1990 (PC: Unknown)
-File:DanversMAExteriorBefore2005Remodel.jpg|thumb|A photo of the store's exterior before they received the 2005 Update (PC: showbizpizza.com)
-File:DanversMA2Stage25thAnniversary.jpg|thumb|A photo of the store's 2-Stage during CEC's 25th Anniversary back in 2002 (PC: showbizpizza.com)
-</gallery>
+
 
 ## Videos ##
 {| class='wikitable'

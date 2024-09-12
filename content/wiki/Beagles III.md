@@ -6,7 +6,7 @@ date = 2023-05-03T19:09:53Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Beagles","Screenshot","Screenshot"]
+gallery = []
 +++
 {{Showtape | image = NoImage.jpg
 | date = October 22, 1985
@@ -25,8 +25,3 @@ CABARET TAPE
 *October 24, 1985 (0A)
 
 ##Showtape Scans / Images:##
-<gallery>
-File:Beagles 3.jpg|Reel Case
-File:Screenshot 2023-05-03 140316.png|'CEC Beagles III' Reel Case
-File:Screenshot 2023-05-03 140252.png| 'CEC Beagles III' Reel Front 
-</gallery>

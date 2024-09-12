@@ -6,7 +6,7 @@ date = 2024-07-07T20:01:47Z
 
 [Article]
 contributors = ["The 64th Gamer","Nebbytales","Letterstolooneybird"]
-gallery = ["Screenshot","Image0","IMG"]
+gallery = []
 +++
 {{Showtape
 |image=nearbear.png
@@ -16,11 +16,7 @@ gallery = ["Screenshot","Image0","IMG"]
 TODO: Showtape description and history.
 
 ##Showtape Scans / Images:##
-<gallery>
-File:Screenshot 20220301-111642 Instagram.jpg|Reel as of 03/01/2022
-File:Image0 (3).png|The original master SVHS tape.
-File:IMG 20210605 092439 549 1.jpg|Side label of the master tape alongside other CEI masters.
-</gallery>
+
 
 ## Segments ##
 Segment 1

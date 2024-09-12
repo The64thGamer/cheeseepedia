@@ -6,7 +6,7 @@ date = 2024-07-29T16:11:54Z
 
 [Article]
 contributors = ["BurgersNuggs445","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ThatBoiCydalan","Rexburg090","CEC Tinley","CorrectorMan","Tux Chuck","TailsFan628","AstridMascotFan2005"]
-gallery = ["Sandycec7.png|Exterior","Sandycec4.png|Counters","Sandycec5.png|Stage","Sandycec3.png|Arcade","Sandycec2.png|Stage","Sandycec1.png|Showroom","Sandyc.png|Chuck","Sandycec.png|Showroom","Allstar1.png|Road","SandyUTExterior2009.png|Exterior"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=sandycec6.png|desc=Exterior on September 7, 2006 via Geocache}}
 
@@ -63,19 +63,8 @@ By the Fall of 2014, the location closed and was turned into an expansion of the
 |July 2022
 |}
 
-##Gallery##
-<gallery>
-File:Sandycec7.png|Exterior in 2012
-File:Sandycec4.png|Counters
-File:Sandycec5.png|Stage Show
-File:Sandycec3.png|Arcade
-File:Sandycec2.png|Stage Show
-File:Sandycec1.png|Showroom
-File:Sandyc.png|Chuck E. animatronic
-File:Sandycec.png|Showroom
-File:Allstar1.png|Road sign
-File:SandyUTExterior2009.png|Exterior on April 26th, 2009
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

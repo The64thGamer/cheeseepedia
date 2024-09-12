@@ -6,7 +6,7 @@ date = 2024-02-06T06:33:09Z
 
 [Article]
 contributors = ["CorrectorMan","Chucke.show","The 64th Gamer"]
-gallery = ["Eastorlandodecember302021a.png|Ceiling","Eastorlando12302021b.png|Christmas","Eastorlando12302021c.png|Wall","Eastorlando12312021d.png|CEC","EastorlandoJuly252022.png|Chuck","Eastorlandoapril192023.png|Showroom"]
+gallery = []
 +++
 {{Generic|image=East Orlando before 2.0.jpg|desc=East Orlando in September 2022. (PC: Google Maps)}}
 
@@ -59,12 +59,4 @@ The store had a Studio C Alpha, which was installed in June 2000 when the store 
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Eastorlandodecember302021a.png|Ceiling Decorations (December 30, 2021)
-File:Eastorlando12302021b.png|Christmas Themed Stage (December 30, 2021)
-File:Eastorlando12302021c.png|Wall Art (December 30, 2021)
-File:Eastorlando12312021d.png|CEC Branded MooMoo Arcade (December 30, 2021)
-File:EastorlandoJuly252022.png|Chuck w/ Avenger Attire (July 25, 2022)
-File:Eastorlandoapril192023.png|Showroom (April 19, 2023)
-</gallery>
+

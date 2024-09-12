@@ -46,7 +46,7 @@ TODO
 |
 |
 |}
-##Gallery##
+
 TODO
 
 ##Animatronics##

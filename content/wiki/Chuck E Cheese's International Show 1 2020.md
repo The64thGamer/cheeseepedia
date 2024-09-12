@@ -55,6 +55,3 @@ gallery = []
 ##Showbreak 4 - UNKNOWN
 ##CEC TV ID - 'Prize Machine'
 ##Showtape Scans / Images:##
-<gallery>
-IntShow12020.png|CEC-Stage DVD
-</gallery>

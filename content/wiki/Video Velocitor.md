@@ -13,7 +13,7 @@ The Video Velocitor was a prop that was used to fill in the store's former Loung
 ## History ##
 TODO:
 
-## Gallery ##
+
 TODO:
 
 ## Trivia ##

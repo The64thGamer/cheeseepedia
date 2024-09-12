@@ -6,7 +6,7 @@ date = 2024-08-31T22:16:54Z
 
 [Article]
 contributors = ["47.17.236.200","Cheeseclassic","CEC Kokomo","Signal08","AthensEpic","Documentor","AstridMascotFan2005"]
-gallery = ["Newgameroom.png|The","Stagewithbot.png|Monroe's","Cec2.png|Studio"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Monroe’s Exterior in 2020 (Courtesy- LoopNet.).jpg|desc=Exterior, 2020 (PC: LoopNet)}}
 **_3731 Pecanland Mall Dr**_ was a _Chuck E. Cheese's_ that opened in July 9, 2011 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in August 2024 (Unknown Day), after 13 years in operation.
@@ -29,12 +29,8 @@ Monroe opened with a Studio C Beta. They never received 2.0.
 ## History ##
 Monroe opened in 2011. In May 2021, Monroe reopened after being closed in January 2021. Featuring an almost different selection of Arcade Games.In Late 2023, Monroe completely replaced its coins with cards followed by the removal of the animatronic from the stage. They never received the 2.0 remodel and closed on July 2024 (Unknown Day).  
 
-## Gallery ##
-<gallery>
-File:Newgameroom.png|The Gameroom in October 2023.
-File:Stagewithbot.png|Monroe's stage with its Chuck E Cheese animatronic.
-File:Cec2.png|Studio C Animatronic Missing
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

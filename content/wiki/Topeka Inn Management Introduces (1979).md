@@ -6,7 +6,7 @@ date = 2023-08-09T22:04:08Z
 
 [Article]
 contributors = ["Concordio","The 64th Gamer"]
-gallery = ["Topeka","Topeka"]
+gallery = []
 +++
 {{Generic|image=Topeka Inn Management Franchise Brochure Page 1.jpg|desc=Front Cover}}
 
@@ -17,8 +17,4 @@ The brochure would go on to state the history of Chuck E. Cheese's Pizza Time Th
 ##History##
 Around 1979, Pizza Time Theatre Incorporated headed by Nolan Bushnell, signed a co-development deal with Topeka Inn Management, a leader in the lodging and food industry, headed by Bob Brock. Shortly after Topeka Inn Management would form a division of their company to suite this new deal titled Pizza Show-Biz Incorporated, which would shortly after publish a brochure with their newly formed deal with Pizza Time Theatre Incorporated, which would speak the benefits of the 2 companies collaborating.
 
-##Gallery##
-<gallery>
-File:Topeka Inn Management Brochure Page 2.jpg|Page 1 & 2
-File:Topeka Inn Management Brochure Page 3.jpg|Page 3 & 4
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2023-08-07T02:15:16Z
 
 [Article]
 contributors = ["The 64th Gamer","2607:FB91:143E:AC71:15A1:789:C2FC:4924","BurgersNuggs445","Ceclife13"]
-gallery = ["Holiday","BusinessCard"]
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E.'s Holiday Party
@@ -46,7 +46,7 @@ gallery = ["Holiday","BusinessCard"]
 ###'We Wish You A Merry Christmas'
 #**Intermission 4**
 ##Up On The Housetop
-## [[File:New Graphic.png]] Shirt Painting (Existing Stages only)
+##  Shirt Painting (Existing Stages only)
 ##Lives:##
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 * Chuck E. Says
@@ -54,7 +54,7 @@ gallery = ["Holiday","BusinessCard"]
 * Chuck E. March 01
 * Havin' a Party 01
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
-*[[File:New Graphic.png]] Spanish Birthday 01
+* Spanish Birthday 01
 * Chuck E. Swing
 * Rockin' Christmas Eve
 * [Bingo]({{< ref "wiki/Bingo.md" >}})
@@ -62,7 +62,3 @@ gallery = ["Holiday","BusinessCard"]
 * If You're Happy & You Know It
 
 ##Showtape Scans / Images:##
-<gallery>
-File:Holiday 2001 SC Disc.jpg|Studio C DVD Scan
-File:BusinessCard 2021-08-09 180521.jpg|Studio C Floppy Scan
-</gallery>

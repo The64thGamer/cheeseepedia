@@ -105,8 +105,3 @@ DVD #3 is a DVD used for Studio C showtapes when the main show is too big to fea
 
 
 ##Showtape Scans / Images:##
-<gallery>
-eeeee.jpg|3-Stage DVD
-werfegggggggggggg.jpg|Studio C DVD
-January2009dvd3.jpg|Studio C DVD 3
-</gallery>

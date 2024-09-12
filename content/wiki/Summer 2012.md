@@ -66,11 +66,7 @@ This was created to play from from July 1 - August 31, 2012.
 * Happy & U Know It Live (3stage, Cyberamic, Studio C)
 
 ##Showtape Scans / Images##
-<gallery>
-Summer12StdC.png|Studio C DVD
-Summer12Floppy.jpg|Studio C Floppy
-Sum123stg.jpg|3-Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from [Summertime 2000]({{< ref "wiki/Summertime 2000.md" >}}), 'In My Pool' 'Goin' On a Picnic' and “Barbecue” are originally from [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}), 'SPF' and 'Summertime' is originally from '[Summer 2007.]({{< ref "wiki/Summer 2007 Show.md" >}})

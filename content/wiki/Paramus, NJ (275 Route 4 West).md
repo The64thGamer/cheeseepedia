@@ -6,7 +6,7 @@ date = 2024-08-01T14:19:39Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0C:5900:CDD0:62DE:714:46B2","168.69.254.248","2600:4040:5A0C:5900:C4A1:9008:FD91:F5FE","2600:1012:B13A:9D21:BDB0:5F21:77B7:C54B","CorrectorMan","47.17.236.200","CEC New Jersey","2601:84:8A01:5260:28FA:C03F:3920:4A9A","The 64th Gamer","Cheeseclassic","AstridMascotFan2005"]
-gallery = ["Phase","ParamusextNovember2022.png|Exterior","Constructionsignmay2023.png|Construction","Paramusexteriorjuly2023.png|Exterior","ParamusbetastageJuly2023.png|Showroom","Extoctober2023paramus.png|Exterior","Showroomoct2023paramusnj.png|Showroom"]
+gallery = []
 +++
 {{Generic|image=Paramusexteriorsept2023.png|desc=Exterior, September 2023 (PC: The Jersey Mouse)}}
 
@@ -54,16 +54,8 @@ When Paramus (275 Route 4 West) opened, they housed a Studio C Beta, 16m (One of
 |Unknown/Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Phase 3 Paramus.jpg|Exterior (Unknown Capture Date)
-File:ParamusextNovember2022.png|Exterior (November 2022)
-File:Constructionsignmay2023.png|Construction Sign (May 2023)
-File:Paramusexteriorjuly2023.png|Exterior (July 2023)
-File:ParamusbetastageJuly2023.png|Showroom (July 2023)
-File:Extoctober2023paramus.png|Exterior (October 2023)
-File:Showroomoct2023paramusnj.png|Showroom (October 2023)
-</gallery>
+
+
 
 ## Videos ##
 More will be added soon

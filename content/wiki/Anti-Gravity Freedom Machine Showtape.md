@@ -6,7 +6,7 @@ date = 2024-04-15T22:56:06Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New_Graphic.png"]
 +++
 {{Showtape|image=AGFMshowtapecover.png|date=January 9-12, 1997|aka=AGFM Showtape|nrae=y}}
 
@@ -17,7 +17,7 @@ The tape only features [Billy Bob (Mijjin)]({{< ref "wiki/Billy Bob (Mijjin).md"
 ## Show List ##
 Only a few segments are known from footage of the tape's broadcast. It is unclear if there are more segments not seen.<ref name=':0' />
 
-# **[[File:New_Graphic.png]]** **Segment 1**
+# **** **Segment 1**
 ## Demonstration of the AGFM Skit
 ## [https://en.wikipedia.org/wiki/Howdy_Doody AGFM Theme Song (Parody of Howdy Doody Theme)]
 

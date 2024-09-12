@@ -6,7 +6,7 @@ date = 2024-07-29T03:24:00Z
 
 [Article]
 contributors = ["ChuckECool","ThatBoiCydalan","Documentor","CECMadison","Cecnj98"]
-gallery = ["Fairfax"]
+gallery = []
 +++
 {{Generic|image=Fairfax VA CEC exterior.jpg|desc=Exterior, 2021}}
 **_Fairfax, VA (9404 Main St), Store #84**_ is a _Showbiz Pizza Place_/_Chuck E. Cheese in Fairfax Virginia_.
@@ -120,10 +120,8 @@ In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wa
 |Unknown
 |Destroyed.
 |}
-##Gallery##
-<gallery>
-File:Fairfax VA CEC exterior as Showbiz.png|Exterior as a Showbiz Pizza Place, 1987.
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

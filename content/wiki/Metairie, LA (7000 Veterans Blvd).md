@@ -6,7 +6,7 @@ date = 2024-07-29T21:41:45Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","To Fast","66.250.190.24","AstridMascotFan2005"]
-gallery = ["MetairieLAShowbizPizzaPlaceStreetSign.png|A"]
+gallery = []
 +++
 {{Generic|image=MetairieLACECExterior2018.jpg|desc=The store's exterior in 2018 before replacing the Avenger Chuck E sign. (PC: Veronica Lopez)}}
 **_Metarie, LA (7000 Veterans Memorial Blvd),**_ **_Store #716**_ was a _Showbiz Pizza/Chuck E. Cheese_ that opened on June 24, 1981 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on March 17, 2024 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage.
@@ -114,10 +114,8 @@ In 2000, Metairie removed the 3-Stage, it was soon replaced with a Studio C Alph
 |N/A
 |Unknown
 |}
-##Gallery##
-<gallery>
-File:MetairieLAShowbizPizzaPlaceStreetSign.png|A bit of the store's street sign as a Showbiz Pizza Place seen behind the Metairie Bank sign on April 14th, 1988.<ref>https://www.nola.com/news/business/veterans-boulevard-vintage-photos-from-marsh-to-major-thoroughfare/article_c792224f-6428-5c26-90e7-5c30f9e0715a.html</ref>
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

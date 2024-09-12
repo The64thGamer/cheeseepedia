@@ -67,7 +67,3 @@ Skiing
 Countdown 4
 
 ##Showtape Scans / Images:##
-<gallery>
-aaaaasd.jpg|Studio C DVD
-asdddddd.jpg|Studio C DVD
-</gallery>

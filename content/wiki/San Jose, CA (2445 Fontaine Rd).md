@@ -6,7 +6,7 @@ date = 2024-09-07T17:07:38Z
 
 [Article]
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]
-gallery = ["Toyst1.jpg|Magic","Toyst2.jpg|Magic","Magick.jpg|Magic","CASJOchuckecheese","FontaineExterior1992.png|1992","January","Tully1.png|May","Tully20071.jpg|May","Tully20072.jpg|May","Tully20073.jpg|May","Tully20074.jpg|May","Tully20075.jpg|May","Tully20076.jpg|May","Tully20077.jpg|May","Tully20078.jpg|May","Tully20079.jpg|May","Tully200710.jpg|May","Tully200711.jpg|May","Tully200712.jpg|May","Tully200713.jpg|May","Tully200714.jpg|May","Tully200715.jpg|May","Tully200716.jpg|May","Tully200717.jpg|May","Tully200718.jpg|May","Tully200719.jpg|May","Tully200720.jpg|May","Tully200721.jpg|May","Tully200722.jpg|May","Tully200723.jpg|May","Tully200724.jpg|May","Tully200725.jpg|May","January","Tully200726.jpg|May","Tully200727.jpg|May","Tully200728.jpg|May","Tully200729.jpg|May","Tully200730.jpg|May","Tully200731.jpg|May","Tully200732.jpg|May","Tully200733.jpg|May","Tully200734.jpg|May","Tully200735.jpg|May","Tully200736.jpg|May","Tully200737.jpg|May","Tully200738.jpg|May","Tully200739.jpg|May","Tully200740.jpg|May","Tully200741.jpg|May","Tully200742.jpg|May","Tully200743.jpg|May","Tully200744.jpg|May","Tully200745.jpg|May","Tully200746.jpg|May","Tully200747.jpg|May","Tully200748.jpg|May","Tully200749.jpg|May","Tully200750.jpg|May","Tully200751.jpg|May","Tully200752.jpg|May","Tully200753.jpg|May","Tully200754.jpg|May","Tully200755.jpg|May","Tully200756.jpg|May","Tully200757.jpg|May","Tully200758.jpg|May","Tully200759.jpg|May","Tully200760.jpg|May","Tully200761.jpg|May","Tully200762.jpg|May","Tully200763.jpg|May","Tully200764.jpg|May","Tully200765.jpg|May","Tully200766.jpg|May","Tully200767.jpg|May","Tully200768.jpg|May","Tully200769.jpg|May","Tully200770.jpg|May","Tully200771.jpg|May","Tully200772.jpg|May","Tully200773.jpg|May","Tully200774.jpg|May","Tully200775.jpg|May","Tully200776.jpg|May","Tully200777.jpg|May","Anothernewtullypic1.png|May","Tully200778.jpg|May","Tully200779.jpg|May","Tully200780.jpg|May","Candd.png|Cease","SanJoseTullyExterior.jpg|Exterior","Tullymi23.png|Cyberamic"]
+gallery = ["Tritel.png|thumb|The 30ft.Chuck E. Cheese statue under construction."]
 +++
 {{NoSources}}{{Generic|image=Tully20.jpg|desc=Exterior as of August 13, 2021}}
 **_San Jose, CA (2445 Fontaine Rd), Store #206/3001**_ also known as **_Tully Road,**_ is a Chuck E. Cheese location that opened in December of 1981 with a Balcony Stage.
@@ -35,7 +35,7 @@ When the location was still Magic Village, it had three giant toy soldiers enclo
 Before the location opened, artist Jeff Tritel was commissioned to create the 30-foot statue. A smaller bronze desktop prototype was also created for PTT executives. Because Tritel was alone creating the statue, he had to work all day and night. Tritel even had to sleep inside the store to meet ends meet.
 
 The finished statue was of Chuck E. Cheese sitting on a large block of cheese holding a microphone in one hand and waving the other. In the mid-eighties it was discovered that a homeless person was living inside of the cheese the Chuck E. sits on.  When he left one morning the door was secured, his blankets are still within the wooden base. The statue's checker vest was changed to his red vest version, the block of cheese was changed to purple, and the microphone was removed. The base would be changed to green in the 2000s. 
-[[File:Tritel.png|thumb|The 30ft.Chuck E. Cheese statue under construction.]]
+
 <blockquote>**About twenty five years ago I visited the Pizza Time Theatre (Chuck E. Cheese started out as Pizza Time Theatre) corporate offices looking for work. I had heard that they were working with audio animatronic characters and I thought that I might fit in with their design and engineering staff. Armed with my sculpture portfolio I was brought before their lead engineer and after a brief interview was told that I didn’t have the skill set to be a member of his team._
 
 _However, Pizza Time Theatre had just purchased a new building to be used as a restaurant and training facility and it so happened that on the outside of this building there was (and still is) a 40 foot tall, semi-circular window. The next thing I knew I was sitting down with Nolan Bushnell and the Pizza Time executives and they were asking if I would like to build a 30-foot-tall Chuck E. Cheese for their new building! Never having done anything on this scale before, my answer was a resounding, “SURE, I can do it!”_
@@ -227,101 +227,8 @@ To keep the location afloat, the owner had to sell items held inside the former 
 | January 9th, 2019
 |}
 
-##Gallery##
-<gallery>
-File:Toyst1.jpg|Magic Village 1975 - The Toy Soldiers
-File:Toyst2.jpg|Magic Village 1975 - Plush Toy Department
-File:Magick.jpg|Magic Village 1975  - Future area for Chuck E. Cheese's service areas.
-File:CASJOchuckecheese tritel.jpg|The statue as it originally appeared
-File:FontaineExterior1992.png|1992
-File:January 1998.png|January 1998
-File:Tully1.png|May 2007
-File:Tully20071.jpg|May 2007
-File:Tully20072.jpg|May 2007
-File:Tully20073.jpg|May 2007
-File:Tully20074.jpg|May 2007
-File:Tully20075.jpg|May 2007
-File:Tully20076.jpg|May 2007
-File:Tully20077.jpg|May 2007
-File:Tully20078.jpg|May 2007
-File:Tully20079.jpg|May 2007
-File:Tully200710.jpg|May 2007
-File:Tully200711.jpg|May 2007
-File:Tully200712.jpg|May 2007
-File:Tully200713.jpg|May 2007
-File:Tully200714.jpg|May 2007
-File:Tully200715.jpg|May 2007
-File:Tully200716.jpg|May 2007
-File:Tully200717.jpg|May 2007
-File:Tully200718.jpg|May 2007
-File:Tully200719.jpg|May 2007
-File:Tully200720.jpg|May 2007
-File:Tully200721.jpg|May 2007
-File:Tully200722.jpg|May 2007
-File:Tully200723.jpg|May 2007
-File:Tully200724.jpg|May 2007
-File:Tully200725.jpg|May 2007
-File:January 1998.png|January 1998
-File:Tully200726.jpg|May 2007
-File:Tully200727.jpg|May 2007
-File:Tully200728.jpg|May 2007
-File:Tully200729.jpg|May 2007
-File:Tully200730.jpg|May 2007
-File:Tully200731.jpg|May 2007
-File:Tully200732.jpg|May 2007
-File:Tully200733.jpg|May 2007
-File:Tully200734.jpg|May 2007
-File:Tully200735.jpg|May 2007
-File:Tully200736.jpg|May 2007
-File:Tully200737.jpg|May 2007
-File:Tully200738.jpg|May 2007
-File:Tully200739.jpg|May 2007
-File:Tully200740.jpg|May 2007
-File:Tully200741.jpg|May 2007
-File:Tully200742.jpg|May 2007
-File:Tully200743.jpg|May 2007
-File:Tully200744.jpg|May 2007
-File:Tully200745.jpg|May 2007
-File:Tully200746.jpg|May 2007
-File:Tully200747.jpg|May 2007
-File:Tully200748.jpg|May 2007
-File:Tully200749.jpg|May 2007
-File:Tully200750.jpg|May 2007
-File:Tully200751.jpg|May 2007
-File:Tully200752.jpg|May 2007
-File:Tully200753.jpg|May 2007
-File:Tully200754.jpg|May 2007
-File:Tully200755.jpg|May 2007
-File:Tully200756.jpg|May 2007
-File:Tully200757.jpg|May 2007
-File:Tully200758.jpg|May 2007
-File:Tully200759.jpg|May 2007
-File:Tully200760.jpg|May 2007
-File:Tully200761.jpg|May 2007
-File:Tully200762.jpg|May 2007
-File:Tully200763.jpg|May 2007
-File:Tully200764.jpg|May 2007
-File:Tully200765.jpg|May 2007
-File:Tully200766.jpg|May 2007
-File:Tully200767.jpg|May 2007
-File:Tully200768.jpg|May 2007
-File:Tully200769.jpg|May 2007
-File:Tully200770.jpg|May 2007
-File:Tully200771.jpg|May 2007
-File:Tully200772.jpg|May 2007
-File:Tully200773.jpg|May 2007
-File:Tully200774.jpg|May 2007
-File:Tully200775.jpg|May 2007
-File:Tully200776.jpg|May 2007
-File:Tully200777.jpg|May 2007
-File:Anothernewtullypic1.png|May 2007
-File:Tully200778.jpg|May 2007
-File:Tully200779.jpg|May 2007
-File:Tully200780.jpg|May 2007
-File:Candd.png|Cease & Desist letter from Disney
-File:SanJoseTullyExterior.jpg|Exterior during 2.0 remodel
-File:Tullymi23.png|Cyberamic Chuck E. Cheese animatronic on display at Revival Collections in Grand Ledge, MI.
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

@@ -6,7 +6,7 @@ date = 2023-01-31T01:23:06Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","John95","RedaCEC"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese Show
@@ -22,7 +22,7 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 
 ## Show Tape: ##
 
-# [[File:New Graphic.png]] **Segment 1** 
+#  **Segment 1** 
 ## [https://en.wikipedia.org/wiki/Help!_(song) 'Help!']
 ## [https://en.wikipedia.org/wiki/Can%27t_Buy_Me_Love 'Can't Buy Me Love']
 # **Intermission 1**
@@ -30,15 +30,15 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 ## VeggieTales - 'The Hairbrush Song'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Marx Bros'
-# [[File:New Graphic.png]]  **Segment 2**
+#   **Segment 2**
 ## 'First Impression'
 ## 'Just Being Me'
 # **Intermission 2**
 ## CEC TV ID - 'Pool Plug'
-## [[File:New Graphic.png]] Super Jasper - 'Arm Wrestling'
+##  Super Jasper - 'Arm Wrestling'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Abstract'
-# [[File:New Graphic.png]] **Segment 3** 
+#  **Segment 3** 
 ## 'Dreamin_
 ## 'Rockin' Grandma'
 # **Intermission 3**
@@ -46,12 +46,12 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 ## VeggieTales - 'I Love My Lips'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Couch'
-# [[File:New Graphic.png]] **Segment 4** 
+#  **Segment 4** 
 ## [https://en.wikipedia.org/wiki/Eight_Days_a_Week 'Eight Days A Week']
 ## [https://en.wikipedia.org/wiki/All_You_Need_Is_Love 'All You Need Is Love']
 # **Intermission 4**
 ## CEC TV ID - 'Marquee'
-## [[File:New Graphic.png]] Baking With Betty - 'Baking With Joyce'
+##  Baking With Betty - 'Baking With Joyce'
 ## CEC TV ID - 'Haircut'
 
 ## Lives: ##
@@ -73,11 +73,7 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 **Birthday Break**: CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-image0 (8).jpg|Studio C DVD Scan
-BusinessCard_2021-08-09_175844.jpg|Studio C Floppy Scan
-aggaaa.jpg|3-Stage SVHS
-</gallery>
+
 
 
 ## Production ##

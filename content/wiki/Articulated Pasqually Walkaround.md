@@ -6,9 +6,9 @@ date = 2024-04-08T02:21:06Z
 
 [Article]
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
-gallery = ["ArticulatedPasquallycloseup.jpg|thumb|Close-up","ArticulatedPasquallyDress.jpg|thumb|The"]
+gallery = ["ArticulatedPasqually.jpg|thumb|The articulated Pasqually head paired with his standard outfit holding a pizza in the August 1997 show."]
 +++
-[[File:ArticulatedPasqually.jpg|thumb|The articulated Pasqually head paired with his standard outfit holding a pizza in the August 1997 show.]]
+
 The articulated Pasqually walkaround head was created in 1996 by former CEI employee, David “Billy Bob” Irvin. This head was used in three different showtapes, those being:
 
 * August 1996
@@ -21,8 +21,4 @@ Interestingly, this was the only articulated walkaround to not be used in the Ga
 
 As of 2024, it is unknown of where the head or any other accompanying parts could be.
 
-##Gallery##
-<gallery>
-File:ArticulatedPasquallycloseup.jpg|thumb|Close-up of the articulated Pasqually head in the August 1997 show.
-File:ArticulatedPasquallyDress.jpg|thumb|The articulated Pasqually head paired with a dress in the August 1997 show.
-</gallery>
+

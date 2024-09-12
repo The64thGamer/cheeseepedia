@@ -6,7 +6,7 @@ date = 2024-07-24T16:52:58Z
 
 [Article]
 contributors = ["JupiterMutt","Goofgahgoo","The 64th Gamer","216.125.34.66","ThatBoiCydalan","98.118.148.186","AstridMascotFan2005"]
-gallery = ["Buffalo1.jpg|Studio"]
+gallery = []
 +++
 {{Generic|desc=Buffalo’s exterior signage as of August 2022.|image=Buffalo, NY Exterior.jpg}}
 **_Buffalo, NY (4408 Milestrip Rd), Store #516**_ is a _Chuck E. Cheese's_ that opened in May 2000 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). This location was previously one of the three former _Discovery Zone_ locations in the Buffalo area. The store expanded between 2009-2011 and received the 2.0 remodel in 2022.
@@ -150,10 +150,8 @@ Buffalo began their 2.0 remodel in July 2022. Its initial start date was back in
 *Roll For Gold 2
 * Price is Right Coin Pusher
 
-##Gallery##
-<gallery>
-File:Buffalo1.jpg|Studio C Alpha stage in 2021
-</gallery>
+
+
 ##Animatronics ##
 {| class='wikitable'
 |+

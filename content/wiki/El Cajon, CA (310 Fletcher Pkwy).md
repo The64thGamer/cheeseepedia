@@ -70,5 +70,5 @@ El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Food
 |Unknown.
 |}
 
-## Gallery ##
+
 TODO

@@ -17,5 +17,5 @@ W.I.P
 ##History##
 W.I.P
 
-##Gallery##
+
 W.I.P

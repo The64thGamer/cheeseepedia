@@ -6,6 +6,5 @@ date = 2022-04-25T22:35:58Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = []
+gallery = ["Cecballpit.png|thumb"]
 +++
-[[File:Cecballpit.png|thumb]]

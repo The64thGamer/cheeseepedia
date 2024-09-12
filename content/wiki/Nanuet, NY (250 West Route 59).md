@@ -6,7 +6,7 @@ date = 2024-09-09T01:17:54Z
 
 [Article]
 contributors = ["Poochy867","Rexburg090","Cy's Junk at School","CECMentor","ThatBoiCydalan","The 64th Gamer","Moonrock","Livelycheese","Veronancy","AstridMascotFan2005","CoolerDude","CECswag2009","BenTrainFan2000","Caydenpedia","Paskkkk","Stripes","TailsFan628"]
-gallery = ["Nanuet-Exterior.jpg|Nanuet","Nanuet","Studiocnanuet.png|Nanuet's"]
+gallery = []
 +++
 {{Generic|image=Nanuet-Exterior.jpg|desc=Exterior of the store (March 5, 2023)}}**_Nanuet, NY (250 West Route 59), Store #849**_ is a Chuck E. Cheese's that opened on December 20th, 2003 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) Chuck E. Cheese 16m (Animatronic) (16m), and is still open to this day. 
 
@@ -40,12 +40,8 @@ This store opened housing a Studio C 2000 (Beta) with a 16 movement Garner Holt 
 |2019 model
 |}
 
-## Gallery ##
-<gallery>
-File:Nanuet-Exterior.jpg|Nanuet Exterior (March 2023)
-File:Nanuet Exterior 2014 ish.jpg|Nanuet Exterior Before the Exterior Remodel
-File:Studiocnanuet.png|Nanuet's Studio C Beta & 2019 model dance floor. (June 2024)
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

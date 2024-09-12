@@ -32,7 +32,7 @@ Bronx opened on December 26, 2013 with a [Circles of Light]({{< ref "wiki/Circle
 |Currently the 2017 Model, has the 2015 Model ceiling fixtures.
 |}
 
-## Gallery ##
+
 TODO
 ## Videos ##
 TODO

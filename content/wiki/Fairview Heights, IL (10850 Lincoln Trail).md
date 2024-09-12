@@ -6,7 +6,7 @@ date = 2024-06-09T19:22:39Z
 
 [Article]
 contributors = ["CorrectorMan","Rexburg090","ShowbizMidwest","CEC Tinley","Caydenpedia","Cheeseclassic","Cecanddisneyfan2004"]
-gallery = ["Fairview","Fairview"]
+gallery = []
 +++
 {{Generic|image=Fairview before 2.0.jpg|desc=Fairview's exterior prior to 2.0.}}
 **_10850 Lincoln Trail, Store #916**_ is a _Showbiz Pizza_/_Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_/_Chuck E.Cheese_ that opened on May 23, 1984, with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open today with the 2.0 remodel.
@@ -120,11 +120,8 @@ At first, Fairview Heights had a RAE stage, as it was a Showbiz at the time. Aro
 |-
 |}
 
-##Gallery##
-<gallery>
-File:Fairview before phase 4.jpg|Fairview’s exterior before receiving the 2005 update. (PC: dexknows.com)
-File:Fairview stage.jpg|Fairview's stage.
-</gallery>
+
+
 
 ##Videos## 
 https://www.youtube.com/watch?v=gJZJlJW9xRY

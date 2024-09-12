@@ -6,7 +6,7 @@ date = 2024-07-16T01:35:02Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","CorrectorMan","CEC Tinley","Cecnj98","ThatBoiCydalan","Cheeseclassic"]
-gallery = ["WestPalmBeach2ExteriorAfterClosure.jpg|A"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Westpalmbeachwhenopen.jpg|desc=Exterior, Year Unknown (PC: Unknown)}}
 **_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheeses_ in West Palm Beach, Florida. The store opened on December 18, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in December 2004 due to a hurricane.
@@ -104,10 +104,8 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 * Big Mouth (2 players) (Meltec)
 * Kiddie Pattie Cake
 
-## Gallery ##
-<gallery>
-File:WestPalmBeach2ExteriorAfterClosure.jpg|A photo of the exterior of the store after closure (PC: Yellow Pages).
-</gallery>
+
+
 ## Videos ##
 {| class='wikitable'
 !Link

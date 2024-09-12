@@ -124,10 +124,8 @@ TODO
 |
 |}
 
-## Gallery ##
-TODO
-<gallery>
 
-</gallery>
+TODO
+
 
 ##References##

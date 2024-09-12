@@ -6,9 +6,9 @@ date = 2024-06-21T23:45:32Z
 
 [Article]
 contributors = ["CorrectorMan","SuperCreamPiper2008","Cheeseslicez"]
-gallery = []
+gallery = ["Murray.jpg|thumb|The site of the Murray Chuck E. Cheese as of today."]
 +++
-[[File:Murray.jpg|thumb|The site of the Murray Chuck E. Cheese as of today.]]
+
 **_4425 State St**_ was a _Showbiz Pizza Place_ that opened on March 17, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in July 1997 (day unknown) with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
 ## Stages ##

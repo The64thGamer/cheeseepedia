@@ -6,7 +6,7 @@ date = 2024-07-28T17:28:22Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowbizMidwest","170.185.215.34","Documentor","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
-gallery = ["WilmingtonNCExteriorPre2005Update.png|The"]
+gallery = []
 +++
 {{Generic|image=WilmingtonNCExterior2019MarchGoogleMaps.png|desc=Street View of the store's Exterior in March 2019 (PC: Google Maps)}}
 **_4389 Oleander Dr, Store #210/2070**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ that opened on July 23, 1984, with a Rock-Afire Explosion, which closed October 13, 2020.
@@ -109,11 +109,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |From [Danbury, CT (20 Backus Ave)]({{< ref "wiki/Danbury, CT (20 Backus Ave).md" >}}); Never used, owned by a private collector.
 |}
 
-## Gallery ##
-<gallery>
-File: WilmingtonNCShowbizExterior.jpeg|thumb|The store’s exterior as a Showbiz Pizza Place in April 1991 (PC: L Treinmeyer)
-File:WilmingtonNCExteriorPre2005Update.png|The store's Exterior before receiving the 2005 Update (PC: Loopnet)
-</gallery>
+
+
 
 ## YouTube Videos ##
 {| class='wikitable'

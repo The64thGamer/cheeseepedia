@@ -6,7 +6,7 @@ date = 2024-08-05T15:05:37Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","ThatBoiCydalan","SuperCreamPiper2008","AstridMascotFan2005"]
-gallery = []
+gallery = ["Circles Of Light Mt. Juliet.jpg|left|thumb|Mt. Juliet's Circles Of Light stage on May 31, 2022 Credit to CECBowlingGreen"]
 +++
 {{Generic|desc=Mt. Juliet's exterior. (PC: Google Maps)|image=Mt. Juliet, TN.jpg}}
 **_60 Belinda Parkway, Store #672**_ is a Chuck E. Cheese's that opened on December 15th, 2014 with a Circles Of Light, which is still open to this day
@@ -27,5 +27,4 @@ Mt. Juliet opened with the Circles Of Light stage, being the very first and only
 
 
 
-## Gallery ##
-[[File:Circles Of Light Mt. Juliet.jpg|left|thumb|Mt. Juliet's Circles Of Light stage on May 31, 2022 Credit to CECBowlingGreen]]
+

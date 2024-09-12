@@ -8,7 +8,4 @@ date = 2022-04-05T17:39:45Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##Gallery##
-<gallery>
-RockstarBdayTraining14.jpg
-</gallery>
+

@@ -6,7 +6,7 @@ date = 2022-04-07T23:23:52Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape | image = Sallysashay lg.jpg
 | date = 1979
@@ -17,25 +17,25 @@ gallery = []
 **_Skit-Sally 1XMAS-USA**_ is a Pizza Time Theatre showtape featuring the guest star _Sally Sashay_.
 
 ##Segments:##
-#**[[File:New Graphic.png]] Segment 1**
+#** Segment 1**
 ##Strolling Through The Park One Day
 ##Jeepers Creepers
 ##Them There Eyes
 ##Beautiful, Beautiful Brown Eyes
 ##Five Foot Two Eyes Of Blue
-#**[[File:New Graphic.png]] Segment 2**
+#** Segment 2**
 ##Medley of the South
 ###Cotton Fields
 ###Pick a Bale of Cotton
 ###Crawdad Song
 ###Thank God I'm a Country Dog
-#**[[File:New Graphic.png]] Segment 3**
+#** Segment 3**
 ##Rock Around The Clock
 ##Long Tall Sally
 ##Splish Splash
 ##Stupid Cupid
 ##Good Golly Miss Molly
-#**[[File:New Graphic.png]] Segment 4**
+#** Segment 4**
 ##When It Rains, It Pours Medley
 ###It's Raining
 ###It's Pouring
@@ -52,7 +52,7 @@ gallery = []
 ##Cheer - Trumpets
 #**Special 2**
 ##Pasqually's Chuck E. Intro
-#**[[File:New Graphic.png]]Special 3**
+#**Special 3**
 ##Christmas Medley
 ###Silver Bells
 ###Fa-La-La
@@ -63,25 +63,25 @@ gallery = []
 ###We Wish You a Merry Christmas
 #**Special 4**
 ##Diagnostics
-#**[[File:New Graphic.png]] Segment 5**
+#** Segment 5**
 ##Hard Days Night
 ##Hound Dog
 ##Puppy Love
-#**[[File:New Graphic.png]] Segment 6**
+#** Segment 6**
 ##Americana Medley
 ###Yankee Doodle Dandy
 ###Dixie
 ###Grand Old Flag
-#**[[File:New Graphic.png]] Segment 7**
+#** Segment 7**
 ##Rock-A-Bye Your Baby (With a Dixie Melody)
-#**[[File:New Graphic.png]] Segment 8**
+#** Segment 8**
 ##Salute to the Great American Railroad Medley
 ###On The Atchison
 ###Topeka and The Sante Fe
 ###Casey Jones
 ###Rock Island Line
 ###Wabash Cannonball
-#**[[File:New Graphic.png]] Segment 9**
+#** Segment 9**
 ##Ladies' Medley
 ###If You Knew Susie
 ###Clementine
@@ -89,7 +89,7 @@ gallery = []
 ###Oh Suzanna
 ###She's Too Fat For Me
 ###Goodbye Ladies
-#**[[File:New Graphic.png]] Segment 10**
+#** Segment 10**
 ##Mr. Sandman
 ##Dream Lover
 ##American Lullaby

@@ -6,7 +6,7 @@ date = 2024-05-02T01:01:28Z
 
 [Article]
 contributors = ["CECBowlingGreen","Ceclife13","Rexburg090","JamesLemony","RessiduePezzzado","Pench0782","ChuckEPediaIsTheBest!","BurgersNuggs445","216.125.34.66","38.49.94.191","Charlesiiikingofengland","CorrectorMan","Saan1ty","Mecha","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Midwestretail","Documentor"]
-gallery = ["Mr","Jasper","Chuck","Madam","Pasqually.jpg|Maple","Chuck","BalconyNameplatePortrait","Concord","16cccc.jpg|Another","Helen1.jpg|[[Simi","Citrusheights.png|The"]
+gallery = []
 +++
 {{Generic|image=Ogden1.jpg|desc=Ogden, Utah's Portrait Show. This would be taken during its inoperable state.}}
 
@@ -40,20 +40,8 @@ The stage would undergo one specific change in which several locations received 
 * Band Board (Cyberamic)
 * [Flag Wavers (Cyberamic)]({{< ref "wiki/Flag Wavers (Cyberamic).md" >}})
 
-## Gallery ##
-<gallery>
-File:Mr Munch.jpg|[Maple Heights, Ohio's]({{< ref "wiki/Maple Heights, OH (5376 Northfield Rd).md" >}}) Mr. Munch
-File:Jasper T.jpg|Maple Heights, Ohio's Jasper T. Jowls
-File:Chuck E 1.jpg|Maple Heights, Ohio's Chuck E. Cheese
-File:Madam Oink.jpg|Maple Heights, Ohio's Guest Star
-File:Pasqually.jpg|Maple Heights, Ohio's Pasqually
-File:Chuck E2.jpg|[Huntington Beach, California's]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}) Chuck E. Cheese
-File:BalconyNameplatePortrait .png|An unknown location with Balcony nameplates
-File:Concord 84.png|The Portrait Stage on [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}})
-File:16cccc.jpg|Another Picture of the Portrait Stage on [Ogden, UT (3155 Harrison Blvd)]({{< ref "wiki/Ogden, UT (3155 Harrison Blvd).md" >}})
-File:Helen1.jpg|[Simi Valley, CA (71 Tierra Rejada Rd)]({{< ref "wiki/Simi Valley, CA (71 Tierra Rejada Rd).md" >}})'s Guest Star
-File:Citrusheights.png|The Portrait Stage on [Citrus Heights, CA (7614 Greenback Lane)]({{< ref "wiki/Citrus Heights, CA (7614 Greenback Lane).md" >}}) ?
-</gallery>
+
+
 ##Known Installations##
 {| class='wikitable'
 !Location

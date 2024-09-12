@@ -6,7 +6,7 @@ date = 2022-07-15T18:57:17Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Cecreelgcc1.jpg","Cecreelgcc2.jpg","Cecreelgcc3.jpg"]
+gallery = []
 +++
 The **_General Cinema Corporation's Summer Movie Camp Commercial**_ is a lost Chuck E. Cheese's commercial advertising the 2001 Summer Movie Camp deal at select movie theatre locations.
 
@@ -18,10 +18,6 @@ A 35mm film for the commercial was placed on eBay on July 15, 2022<ref>https://w
  'CHUCK-E-CHEESE'
  :30 SCOPE # 8811-B
  Produced by Filmack Studios
-<gallery>
-File:Cecreelgcc1.jpg
-File:Cecreelgcc2.jpg
-File:Cecreelgcc3.jpg
-</gallery>
+
 
 ## References ##

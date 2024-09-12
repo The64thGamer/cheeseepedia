@@ -6,9 +6,9 @@ date = 2024-02-11T23:57:27Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2603:6081:300:4E87:8160:A970:10A:AF25","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","71.31.183.205","The 64th Gamer","BigCtheDataFinder","174.131.44.53","Chuckstar69"]
-gallery = ["4094.jpg|Columbia's"]
+gallery = ["Columbia2023.png|thumb|Exterior (December 2023)"]
 +++
-[[File:Columbia2023.png|thumb|Exterior (December 2023)]]
+
 **_1775 Burning Tree Dr, Store #967**_ was a ShowBiz Pizza Place that opened on June 28, 1983. It was the fourth ShowBiz to open in South Carolina and remains open as a Chuck E. Cheese's. Columbia is a free-standing store located next to an Exxon gas station.
 
 ##History##
@@ -96,10 +96,8 @@ Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz lo
 |N/A
 |Owned by a Private Collector; Removed in November 2022.
 |}
-##Gallery##
-<gallery>
-File:4094.jpg|Columbia's 3-Stage with South Charleston's Chuck, Helen, and Jasper figures. (September 2020)
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 |+

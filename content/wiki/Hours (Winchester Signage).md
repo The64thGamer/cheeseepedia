@@ -19,7 +19,7 @@ The fixture would be used on the main entrance of the 370 South Winchester Boule
 ## Design ##
 Data on the design of the fixture is scarce, however it can be made out that the text is yellow, and the main base of the sign is potentially black. We can fill out what the hours text displayed from the 1977 Pizza Time Theatre Program brochure, the hours being from _11:00 AM to 12:00 PM_ on Tuesdays thru Thursdays, _11:00 AM to 2:00 AM_ on Friday and Saturday, and _3:00 PM thru 12:00_ PM on Sunday. 
 
-## Gallery ##
+
 TO:DO
 
 ## References ##

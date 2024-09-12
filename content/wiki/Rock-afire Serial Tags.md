@@ -6,7 +6,7 @@ date = 2023-12-13T18:44:44Z
 
 [Article]
 contributors = ["The 64th Gamer","Nebbytales","Documentor","ShowbizMidwest"]
-gallery = []
+gallery = ["Fffwfwfewfwewfeewf.jpg|thumb|412x412px|A Billy Bob Walkaround tag for the CEI edition, denoting the number '229'. Though likely a production number, CEI did not create the original walkaround line for Showbiz, making the number's meaning up for debate.","Jnkjnjn.png|thumb|316x316px|Prop Sticker"]
 +++
 {{Generic|image=Cei tag.jpg|desc=Creative Engineering Serial Tag}}
 
@@ -25,7 +25,7 @@ A Rock-afire serial code would look like this:
 *The fourth number would be the _batch number_ for that month. A batch refers to a single Rock-afire Explosion band, meaning each character would have the same batch number at any given store. Batches for a month were always in multiples of five, and would most commonly be produced in _January, April, July,_ and _October._
 
 ## Serial Keys ##
-[[File:Fffwfwfewfwewfeewf.jpg|thumb|412x412px|A Billy Bob Walkaround tag for the CEI edition, denoting the number '229'. Though likely a production number, CEI did not create the original walkaround line for Showbiz, making the number's meaning up for debate.]]
+
 {| class='wikitable'
 !Serial Key
 !Item
@@ -80,7 +80,7 @@ A Rock-afire serial code would look like this:
 |}
 
 ## Other Product Numbers ##
-[[File:Jnkjnjn.png|thumb|316x316px|Prop Sticker]]Product Number on back of tree prop.Some props have a sticker placed on them denoting their production number. This does not give batch number or year info, though could be discerned through the context of its store and product number compared to other items. The text reads:
+Product Number on back of tree prop.Some props have a sticker placed on them denoting their production number. This does not give batch number or year info, though could be discerned through the context of its store and product number compared to other items. The text reads:
  **№ ______**
  **PROPERTY OF CREATIVE ENGINEERING, INC.**
  This equipment is leased and owned by Creative Engineering,

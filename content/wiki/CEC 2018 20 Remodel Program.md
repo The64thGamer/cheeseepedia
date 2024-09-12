@@ -6,7 +6,7 @@ date = 2024-07-03T20:37:23Z
 
 [Article]
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic"]
-gallery = ["Chuck-E.-Cheese-3.jpg|Showroom","Chuck-E.-Cheese-2.jpg|Dining","Sfsjfhjfargfkahkfg.jpg|Counters","Hgldjghlshlgf.jpg|Shot"]
+gallery = [":CECFlagshipMuralsCitation.png"]
 +++
 {{Generic|image=Stoneoak2017.jpg|desc=The first 2.0 Remodel at [San Antonio, Texas (1403 N Loop)]({{< ref "wiki/San Antonio (Stone Oak), TX (1403 N Loop).md" >}})}}The **CEC 2.0 Remodel** is a remodel of Chuck E. Cheese's (Chuck E. Cheese) restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new Chuck E. Live Stage (Dance Floor) (Dance Floor) concept that gives a walkaround characters a dedicated space to perform.
 
@@ -38,7 +38,7 @@ The Showroom, Now called the Birthday Area, is surrounded by artwork of the main
 ### Remodels Packages ###
 Initially, locations that were eligible for this remodel got one of three packages: Gold, Silver, or Bronze. The Gold and Silver packages never left the first few remodeled stores from 2017 to 2018. In 2021 a Video Wall was added to the existing Dance Floor and started to roll out at new remodeled locations while existing remodeled locations kept their previous Dance Floor set up.
 
-During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.<ref>[[:File:CECFlagshipMuralsCitation.png]]</ref> Although [[Grand Prairie, TX (2760 W I-20)|Grand Prairie]] and [Humble, TX]({{< ref "wiki/Humble, TX (124 E FM 1960 Bypass).md" >}}) aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
+During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.<ref></ref> Although [Grand Prairie]({{< ref "wiki/Grand Prairie, TX (2760 W I-20).md" >}}) and [Humble, TX]({{< ref "wiki/Humble, TX (124 E FM 1960 Bypass).md" >}}) aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
 
 The new 'refresh' package is designed as a low-cost option for remodels. This remodel package is used for most Chuck E Cheese locations from 2023 onward, as it is a cheaper and faster alternative to a full remodel. These remodels are done by the company, instead of another company such as Parkway Construction, as using another company is more expensive and is a slower process. These remodels do not receive new booths, lighting changes, a restroom remodel, or tiles behind the menu board. Depending on the store, no new floor tiles by the counter are added, unless they are older tiles that need changing.
 {| class='wikitable'
@@ -114,13 +114,8 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 |Limited
 |}
 
-## Gallery ##
-<gallery>
-File:Chuck-E.-Cheese-3.jpg|Showroom - San Antonio (2017)
-File:Chuck-E.-Cheese-2.jpg|Dining area - San Antonio (2017)
-File:Sfsjfhjfargfkahkfg.jpg|Counters - San Antonio (2017)
-File:Hgldjghlshlgf.jpg|Shot of the open kitchen - San Antonio (2017)
-</gallery>
+
+
 
 ##Mural locations##
 

@@ -22,7 +22,7 @@ Cape Girardeau would get [Concept Unification]({{< ref "wiki/Concept Unification
 
 This store would close permanently without warning in 1998, and they would later be taken over by a Goodwill, with the exterior remaining likely the same. The shopping center the Chuck E. Cheese's was in would go through a massive exterior renovation in 2014-2015, redoing the exterior entirely. Goodwill remains open today.
 
-##Gallery##
+
 TODO
 
 ##Animatronics##

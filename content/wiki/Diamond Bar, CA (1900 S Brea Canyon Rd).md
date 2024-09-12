@@ -6,7 +6,7 @@ date = 2024-09-02T15:57:26Z
 
 [Article]
 contributors = ["The 64th Gamer","Rexburg090","Pench0782","RedaCEC","168.69.254.249","CEC Tinley","2605:AD80:31:19FD:8073:1F5D:F0B1:2BE2","Chuckstar69","CoolerDude","CEC1988"]
-gallery = ["DiamondBarExterior2022MayGoogleMaps.png|Street","DiamondBar1-StageJune2019.png|1-Stage"]
+gallery = []
 +++
 {{NoSources}}{{Generic|image=DiamondBarExterior2018FebruaryGoogleMaps.png|desc=Exterior Before Closure (February 2018)|d1 download=https://archive.org/download/ptt-diamond-bar-plans|d1 name=Building Plans (1982)}}
 
@@ -86,10 +86,7 @@ Diamond Bar opened sometime in 1983 with a Balcony Stage<ref>https://edocs.diamo
 |Owned by User:CEC1988 (CEC1988)
 |}
 
-## Gallery ##
-<gallery>
-File:DiamondBarExterior2022MayGoogleMaps.png|Street View of Diamond Bar's Exterior before demolition (May 2022).
-File:DiamondBar1-StageJune2019.png|1-Stage in June 2019 (PC: David Orellana)
-</gallery>
+
+
 
 ## References ##

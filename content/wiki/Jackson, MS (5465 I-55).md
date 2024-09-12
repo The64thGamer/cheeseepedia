@@ -6,7 +6,7 @@ date = 2024-01-02T02:54:17Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
-gallery = ["Jackson","Jackson","Jackson","Jackson","Jackson","Jsms.png"]
+gallery = []
 +++
 {{Generic|desc=The store's exterior on March 11, 2005 (PC: Unknown)|image=Jackson MS 2005.jpg}}
 **_5465 I-55, Store #213**_ was a _Pizza Time Theatre_ that opened in August 1982 as part of the Melvin franchise. This location opened as the first Mississippi Chuck E. Cheese's and would later be relocated to [6352 Ridgewood Court Rd]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) in June 2009.
@@ -71,15 +71,8 @@ Ticket Troopers
 |November 2000
 |}
 
-##Gallery##
-<gallery>
-File:Jackson MS A.jpg
-File:Jackson MS 2000s.jpg
-File:Jackson MS C.jpg
-File:Jackson MS D.jpg
-File:Jackson MS F.jpg
-File:Jsms.png
-</gallery>
+
+
 
 ##Animatronics##
 {| class='wikitable'

@@ -99,10 +99,7 @@ The show played from January 2011 - April 2011.
 *Dancin' (All Night Long) (3stage, Cyberamic, Studio C)
 
 ##Showtape Scans / Images:##
-<gallery>
-gtyhujjyj.jpg|Studio C DVD
-7463a7cfe035b4a43acfa235c186b00e.png|3-Stage DVD Scan
-</gallery>
+
 
 ##Trivia:## 
 

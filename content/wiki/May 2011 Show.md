@@ -6,7 +6,7 @@ date = 2023-09-30T06:13:04Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","Mousester","Chuck E. Cheese's Illinois","John95","73.160.122.78","2600:1012:B0C4:B739:21B2:F5EC:1E22:8C14","2600:1012:B048:26A9:90B0:716A:6B8B:88A"]
-gallery = ["Word","May","May","May","May","May","May","May"]
+gallery = []
 +++
 {{Showtape
 |title = May 2011 
@@ -83,23 +83,10 @@ The **May 2011 Show** was the spring & summer show released after the previous s
 *Studio C Floppy: 4/14/2011 to 4/15/2011
 
 ###Production Gallery###
-<gallery>
-File:Word Up BTS.jpg|Filming 'Word Up' at MPS Studios.
-File:May 2011 BTS 7.jpg|Behind the scenes of 'I Ran' at Bishop Lynch High School.
-File:May 2011 BTS 5.jpg|Behind the scenes of 'I Ran' at Bishop Lynch High School.
-File:May 2011 BTS 2.jpg|Filming 'The Weekend' at Bishop Lynch High School.
-File:May 2011 BTS 3.jpg|Filming at the Grapevine CEC.
-File:May 2011 BTS.jpg|Unused shot of the characters in front of the DeLorean.
-File:May 2011 BTS 4.jpg|Behind the scenes at the Grapevine CEC.
-File:May 2011 BTS 6.jpg|Filming 'Walk the Dinosaur' at MPS Studios
-</gallery>
+
 
 ##Showtape Scans / Images: ##
-<gallery>
-s-l1600 (42).jpg|Studio C DVD
-ewfdgbrewv.jpg|Studio C Floppy
-scannnn.png|Studio C Floppy Scan
-</gallery>
+
 
 ##Trivia##
 *This is the first of two shows (originally three) where Robert Gotcher provides the voice for Jasper following Jeremy Blaido's brief departure from the role. Previously, Robert has been Jasper's speaking voice for [Environment '92]({{< ref "wiki/Environment '92.md" >}}).

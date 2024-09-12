@@ -6,7 +6,7 @@ date = 2024-06-09T19:36:07Z
 
 [Article]
 contributors = ["Chuck E. Cheese's Illinois","The 64th Gamer","ShowbizMidwest","CECBowlingGreen","Rexburg090","ChucksterCheapskates","ChuckECheezeMelrose20062","216.125.34.66","ThatBoiCydalan","2600:1700:3050:8220:58D8:FD12:5216:A60C","CEC Illinois","Tux Chuck","Cecanddisneyfan2004"]
-gallery = ["117075909","CEC","Chicago","Chicago","Chuckestare.jpg|Unknown","Chicago","117178710","133119924","331356604","Chicago","331372356","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago","Screenshot","Screenshot","Avenger","Chicago","Chicago","271922968","CEC","Chicago","Chicago","Chicago","Chuck-e-cheese-removes-animatronic-band-8f4f5ed4.jpg|Spring","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago","Chicago"]
+gallery = []
 +++
 **_For the South Side store see: [Chicago, IL (5030 S Kedzie Ave)]({{< ref "wiki/Chicago, IL (5030 S Kedzie Ave).md" >}})**_{{Generic|image=Chicago Fullerton 2.0 Exterior.jpg|desc=The Store's current exterior}}
 **_Chicago, IL (1830 W Fullerton Ave), Store #687**_ is a _Chuck E. Cheese's_ location located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from _The Loop_ and being not far from _I-90/I-94_ this location could be considered a flagship.  
@@ -92,43 +92,7 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 |}
 
 ##**Gallery**##
-<gallery>
-File:117075909 1126293714409702 3715218217858364573 n.jpg|Earliest known photo of the stage from the 90's
-File:CEC North Chicago front counter.png|The front counter, Salad, and Beverage bar in the 90s.
-File:Chicago Fullerton Phase 3 exterior.jpg|December 2007
-File:Chicago 1-Stage 2007.jpg|December 2007
-File:Chuckestare.jpg|Unknown Year
-File:Chicago Fullerton 2000's.jpg|Unknown Year
-File:117178710 191988299017148 6593618876619240222 n.jpg|Unknown Year
-File:133119924 1274132079635648 1450658418958894907 n.jpg|Unknown Year
-File:331356604 5918595361557774 3134248388026757556 n.webp.jpg|Unknown Year
-File:Chicago Fullerton Birthday party.jpg|Alternate shot, Unknown Year
-File:331372356 864658477942530 7655852735072622840 n.webp.jpg|Unknown Year
-File:Chicago Fullerton showroom front.jpg|Back of showroom without showroom walls, Unknown Year
-File:Chicago fullerton showroom northwest.jpg|Unknown Year
-File:Chicago Fullerton showroom northeast.jpg|Unknown Year
-File:Chicago Fullerton Phase 3 photo ride 2000's.jpg|Unknown Year; Note: Green walls instead of Purple walls
-File:Chicago fulleton chuck e close up 2000's.jpg|Unknown Year
-File:Chicago Fullerton chuck e and helen.jpg|Unknown Year
-File:Screenshot 20200222-095103.png|Unknown Year
-File:Screenshot 20200527-150323.png|Chuck E. in the Gameroom Unknown Year
-File:Avenger at Fullerton.png|Beverage bar area; January 6th, 2008
-File:Chicago Fullerton bots.jpg|Unknown Year
-File:Chicago Fullerton Phase 4 Exterior.jpg|Chicago Fullerton 2005 Remodel in 2017 Note: The sides of the window were repainted black.
-File:271922968 343763477565668 2760914894926621969 n.webp.jpg|Unknown Year, post 2005 Remodel
-File:CEC North Chicago east side 2011.jpg|Chuck E. Costume cira 2011
-File:Chicago stage middle.jpg|Helen, Munch, and Jasper cira December 2012
-File:Chicago 1-Stage 2013.jpg|2013
-File:Chicago 1-Stage Late 2014.jpg|December 2014
-File:Chuck-e-cheese-removes-animatronic-band-8f4f5ed4.jpg|Spring 2017
-File:Chicago 1-Stage during lockdown.jpg|2020, with new masks, TV's, and showroom benches
-File:Chicago 1-Stage Summer 2021.jpg|Summer 2021 decorations
-File:Chicago 1-Stage Summer 2023.jpg|June 2022
-File:Chicago Fullerton Game Area.jpg|Gameroom October 2022
-File:Chicago Fullerton Birthday Area.jpg|Birthday Area October 2022
-File:Chicago Fullerton Birthday Area wideshot.jpg|Wideshot of Birthday Area
-File:Chicago Fullerton Mural.jpg|The Mural in the Birthday area October 2022
-</gallery>
+
 ##Animatronics##
 {| class='wikitable'
 !Animatronic

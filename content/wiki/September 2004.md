@@ -6,7 +6,7 @@ date = 2024-08-15T02:54:59Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13","68.115.107.230","Hollyb","Documentor","John95","BurgersNuggs445"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's September 2004 Show
@@ -25,7 +25,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of [https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science 'She Blinded Me With Science'] and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<ref>https://youtu.be/iGoWidEOlbc</ref> 
 
 ## Show List: ##
-#  [[File:New Graphic.png]]**Segment 1**
+#  **Segment 1**
 ## 'Born To Be Wild'
 ## 'Pepperoni' (parody of [https://en.wikipedia.org/wiki/My_Sharona 'My Sharona'])
 # **Intermission 1**
@@ -34,20 +34,20 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ##Countdown ('Twinkle, Twinkle')
 ##Clowns Making A Sandwich
 ##Countdown ('Rockin' Robin' footage)
-## [[File:New Graphic.png]] Sprite Spot
+##  Sprite Spot
 ##Countdown ('Rock Around The Clock' footage)
 #  **Segment 2**
 ## 'Go To Chuck E. Cheese' (Parody of [https://en.wikipedia.org/wiki/Turning_Japanese 'Turning Japanese'])
-##[[File:New Graphic.png]] 'Do Ya'
+## 'Do Ya'
 #**Intermission 2**
 ##CEC TV ID - 'Couch'
 ## Ratings
 ## Drawing Chuck E.
 ## Countdown ('Chuck E. Town' footage)
-## [[File:New Graphic.png]] Fundraising Spot
+##  Fundraising Spot
 ## Baking With Betty - 'Vegetable Medley'
 ##Countdown ('Old MacDonald')
-# [[File:New Graphic.png]] **Segment 3**
+#  **Segment 3**
 ## 'What A Wonderful World'
 ## 'Smile'
 # **Intermission 3**
@@ -57,7 +57,7 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ## Larry The Technician
 ## Coke Spot
 ## Countdown
-# [[File:New Graphic.png]] **Segment 4**
+#  **Segment 4**
 ## 'What Up'
 ## 'I Want My Chuck E. Cheese' (parody of [https://en.wikipedia.org/wiki/Money_for_Nothing_(song) 'Money For Nothing'])
 # **Intermission 4**
@@ -83,10 +83,7 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 **Birthday Break**: April 2004 show logo set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
 ##Showtape Scans / Images:##
-<gallery>
-sssssssssss.jpg|Studio C DVD
-2021-08-09_172427.jpg|Studio C Floppy Scan
-</gallery>
+
 ## Trivia: ##
 
 ### Reused Items ###

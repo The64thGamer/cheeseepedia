@@ -6,7 +6,7 @@ date = 2024-05-14T04:16:49Z
 
 [Article]
 contributors = ["The 64th Gamer","74.137.220.26"]
-gallery = ["Chucktokenpop1.png|POP!","Chucktokenpop2.png|Box","Chucktokenpop3.png|Box","Cecfunkophysicalbox.png|Figure"]
+gallery = []
 +++
 {{MerchItem|image=Retro CEC Funko Pop.png|color=Grey, Purple, Green|label1=Funko™ POP!® AD ICONS Chuck E. Cheese's© 186|label2=RETRO CHUCK E. CHEESE™ VINYL FIGURE / FIGURINE EN VINYLE FIGURA DE VINIL|manufacturer=Funko Inc.|label3=WARNING: CHOKING HAZARD. Small parts. Not suitable for children under 36 months.|label4=AVERTISSEMENT : DANGER D'ÉTOUFFEMENT. Petites pièces. Ne convient pas aux enfants de moins de 36 mois.|label5=ADVERTENCIA: PELIGRO DE ASFIXIA. Partes Pequeñas. No apto para niños menores de 36 meses.|label6=POP!® AD ICONS 186  Chuck E. Cheese's© Where A Kid Can Be A Kid©|label7=PSSST! © 2023 CEC Entertainment Concepts, L.P. All Rights Reserved. chuckecheese.com FUNKO. POP™ and FUNKO™ are trademarks of Funko, LLC|label8=DOWNLOAD THE FUNKO APP Download on the App Store. Get it on Google Play.|releasedate=June 6, 2023|price=$12.90|removedate=Late 2023-Early 2024}}The **_Retro Chuck E. Cheese (186) Funko POP!**_ is a **_POP! Ad Icons**_ Funko POP! featuring Chuck E. Cheese in his Avenger style and attire, released on June 6, 2023.
 ##Production##
@@ -19,13 +19,8 @@ The item would stop being sold on the Funko website sometime in late 2023 to ear
 ##Design##
 The design features Avenger Chuck E. Cheese in his complete outfit, shaped in the Funko POP! style. Chuck E. is in a neutral standing pose, with his right arm outstretched to the side, and his left arm holding a Type 4 design token, which began production in 1995 with the CEC Token 401 (B, C, N). The token is modified to have its date at the bottom blanked out and replaced with another stamped dot. Chuck E.'s cap is also facing forward instead of flipped around, a trait generally only shared with the [Chuck 2005]({{< ref "wiki/Chuck 2005 (Costume Head).md" >}}) and [Chuck 2010 Costume Head]({{< ref "wiki/Chuck 2010 (Costume Head).md" >}}).
 
-## Gallery ##
-<gallery>
-File:Chucktokenpop1.png|POP! Render
-File:Chucktokenpop2.png|Box Front Render
-File:Chucktokenpop3.png|Box Back Render
-File:Cecfunkophysicalbox.png|Figure in Box
-</gallery>
+
+
 
 ##References##
 <references />

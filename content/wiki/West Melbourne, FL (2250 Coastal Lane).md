@@ -6,9 +6,9 @@ date = 2024-08-12T16:14:10Z
 
 [Article]
 contributors = ["CECBowlingGreen","ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","CECswag2009","AstridMascotFan2005"]
-gallery = []
+gallery = ["West Melbourne.jpg|thumb|West Melbourne in December 2018. (PC: Google Maps)"]
 +++
-[[File:West Melbourne.jpg|thumb|West Melbourne in December 2018. (PC: Google Maps)]]
+
 **_2250 Coastal Lane, Store #699**_ is a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on April 26, 2011 with the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}}), which is still open to this day.
 
 The Galaxy Stage is a test stage that was only installed in this location, and was the predecessor to the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage.
@@ -31,7 +31,7 @@ This location opened with the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}})
 |Unknown, Likely Destroyed or Used for Parts
 |}
 
-##Gallery##
+
 TODO
 
 ##Videos##

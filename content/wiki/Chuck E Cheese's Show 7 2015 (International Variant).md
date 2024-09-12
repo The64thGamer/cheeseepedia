@@ -13,6 +13,3 @@ TODO:
 This was the final unique international show produced for 3-stage.
 
 ##Showtape Scans / Images:##
-<gallery>
-sarty.jpg|CEC-Stage DVD
-</gallery>

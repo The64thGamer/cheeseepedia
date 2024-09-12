@@ -6,7 +6,7 @@ date = 2024-09-01T02:14:13Z
 
 [Article]
 contributors = ["Documentor","CECBowlingGreen","Rexburg090","RedaCEC","216.125.34.66","Studio 18 Ent","CEC Tinley","Chuckatronics","ThatBoiCydalan","The 64th Gamer","CoolerDude"]
-gallery = ["CECEastgate2021.jpg|","Chuck","Eastgate2005Aerial.png|Aerial","EastgateGrandReopening.jpg|Eastgate"]
+gallery = []
 +++
 {{Generic|image=EastgateExterior2024.png|desc=Image of Eastgate's current exterior (2024).}}
 **_Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102**_ is a _Chuck E. Cheese's Pizza_ that opened June 17, 1990 with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
@@ -95,13 +95,8 @@ On April 8, 2024, Eastgate would begin its [CEC 2018 2.0 Remodel Program]({{< re
 |Destroyed; Remains owned by a Private Collector 
 |}
 
-## Gallery ##
-<gallery>
-File:CECEastgate2021.jpg| Exterior from 2015 - 2024 after plaza renovations and prior to the exterior renovations with 2.0 
-File:Chuck E. Cheese Eastgate (Pre-2015 exterior).png|Exterior before 2015 plaza remodel
-File:Eastgate2005Aerial.png|Aerial photo of the exterior in 2005 with Phase 4 Checker Pattern
-File:EastgateGrandReopening.jpg|Eastgate Grand Re-Opening Brochure
-</gallery>
+
+
 
 ## Videos ## 
 TODO

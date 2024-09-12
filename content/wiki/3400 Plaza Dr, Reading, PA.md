@@ -6,7 +6,7 @@ date = 2023-01-01T17:33:27Z
 
 [Article]
 contributors = ["RockAfire Alex","Emcaacme","ShowbizMidwest","Rexburg090","RedaCEC"]
-gallery = ["i-rdXjW8c-X3","readingpashow.jpg","Showroom","Showroomangle2.png|thumb|The"]
+gallery = []
 +++
 **_3400 Plaza Dr**_ was a Showbiz Pizza place that opened on December 6, 1982 and closed in early 1988. There is little to no information about this place except stories from old employees and the online archived record.
 
@@ -86,13 +86,4 @@ This location opened with the Rock Afire Explosion. it is unknown what happened 
 ## Videos ##
 At the moment no videos seem to exist.
 
-## Gallery ##
-<gallery>
-File:i-rdXjW8c-X3 (1) (1).jpg
 
-File:readingpashow.jpg
-
-File:Showroom reading.png|thumb|A photo of where the showroom used to be
-
-File:Showroomangle2.png|thumb|The showroom at another angle
-</gallery>

@@ -6,7 +6,7 @@ date = 2024-07-25T17:48:46Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["PlushBackcecyoutooz.png|Plush","Backproductdesignyoutoozchucka.png|Plush","Parodyposteryoutoozad.png|Youtooz","Advertimageyoutoozplushmoment.png|Promotional","Youtoozartvectorchuck.png|Promotional","Ytsitechuck1.png|Promotional","Ytsitechuck2.png|Promotional","Ytsitechuck3.png|Promotional","Ytsitechuck4.png|Promotional","yuui78tr8i8.png|Promotional","6i6i6riugiyr.png|Promotional"]
+gallery = []
 +++
 {{MerchItem|manufacturer=Youtooz|color=Red, Yellow, Tan, Black, White, Gray|image=Cecplushfrontyoutooz.png|label1=THE 'E' STANDS FOR ENTERTAINMENT|label2=YOUTOOZ|dimensions=9”|price=$29.99|releasedate=July 23rd, 2024|removedate=July 30th, 2024}}
 
@@ -26,20 +26,8 @@ On July 19th Youtooz would announce the plush to be dropping on July 23rd at 3pm
 ## Design ##
 The design features Chuck E. Cheese in his classic [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) red vest, yellow shirt, and red derby hat attire. His shirt features two black buttons and a bowtie. On the back of the vest features yellow lettering saying 'THE <nowiki>_E_</nowiki> STANDS FOR ENTERTAINMENT'. His notable rat tail is present as well. The plush is posed sitting down in a neutral position, with Chuck smiling and his eyelids half closed.
 
-## Gallery ##
-<gallery>
-File:PlushBackcecyoutooz.png|Plush Back
-File:Backproductdesignyoutoozchucka.png|Plush Back<ref>https://x.com/youtooz/status/1813267994941805021</ref>
-File:Parodyposteryoutoozad.png|Youtooz _Shrek_ parody poster, featuring Chuck E. Cheese.
-File:Advertimageyoutoozplushmoment.png|Promotional Image
-File:Youtoozartvectorchuck.png|Promotional Art
-File:Ytsitechuck1.png|Promotional Image
-File:Ytsitechuck2.png|Promotional Image
-File:Ytsitechuck3.png|Promotional Image
-File:Ytsitechuck4.png|Promotional Image
-File:yuui78tr8i8.png|Promotional Image
-File:6i6i6riugiyr.png|Promotional Image
-</gallery>
+
+
 
 </gallery>
 

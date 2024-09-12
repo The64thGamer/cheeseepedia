@@ -6,7 +6,7 @@ date = 2024-06-03T12:49:23Z
 
 [Article]
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","71.15.155.152","Rexburg090","ChuckECool","216.125.34.66","2605:AD80:31:19FD:2D14:C6C4:8C3D:9911","76.167.210.169","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Chez","JND","Moonrock"]
-gallery = ["LaMesaExteriorLeftSide2021OctoberGoogleMaps.png|Street","IMG","PIC","PIC","PIC"]
+gallery = []
 +++
 {{Generic|image=LaMesaExterior2021OctoberGoogleMaps.png|desc=Street view of the exterior in October 2021 (PC: Google Maps)}}
 **_5500 Grossmont Center Dr, Store #405**_ is a _Chuck E. Cheese's Pizza_ that opened on August 2, 1993 with a 1-Stage, which is still open to this day.
@@ -286,14 +286,8 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 ##Past Games ##
 TODO
 
-## Gallery##
-<gallery>
-File:LaMesaExteriorLeftSide2021OctoberGoogleMaps.png|Street View of the left hand side of the building in October 2021 (PC: Google Maps)
-File:IMG 1374.jpeg|Animatronics in the mid 90s
-File:PIC 1375.jpeg|Tux Chuck
-File:PIC 1377.jpeg|Decor in 2010
-File:PIC 1378.jpeg|1-Stage
-</gallery>
+
+
 
 ##Videos ##
 TODO

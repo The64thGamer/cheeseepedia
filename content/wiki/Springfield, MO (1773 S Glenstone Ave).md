@@ -6,9 +6,9 @@ date = 2023-11-14T23:16:08Z
 
 [Article]
 contributors = ["CorrectorMan","Chez"]
-gallery = []
+gallery = ["Old springfield mo ptt.jpg|thumb|The site of the former Pizza Time Theatre before a repaint. (PC: Google Maps)"]
 +++
-[[File:Old springfield mo ptt.jpg|thumb|The site of the former Pizza Time Theatre before a repaint. (PC: Google Maps)]]
+
 **_1773 S Glenstone Ave**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on April 20, 1982 and closed on December 31, 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). 
 
 This is not to be confused with [Springfield, MO (3500-A S Glenstone Ave)]({{< ref "wiki/Springfield, MO (3500-A S Glenstone Ave).md" >}}), which opened on January 10, 1994 and is still open today with a 2.0 remodel.

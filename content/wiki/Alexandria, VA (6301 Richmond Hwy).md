@@ -6,7 +6,7 @@ date = 2024-06-05T22:22:00Z
 
 [Article]
 contributors = ["66.215.38.213","CEC Kokomo","ThatBoiCydalan","Cecfan2004","Cecanddisneyfan2004"]
-gallery = ["Alexandria"]
+gallery = []
 +++
 {{Generic|image=AlexandriaVACEC2.0Exterior.png|desc=Exterior as of August 2023}}
 **_6301 Richmond Hwy, Store #75 **_is a _Chuck E. Cheese's_ that opened on November 20, 2010 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and is still open today with the 2.0 remodel.
@@ -35,7 +35,4 @@ Originally when they opened, they had a Studio C Beta. They would have the stage
 ##History##
 Alexandria opened on November 20, 2010 with the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}). Not much info is known about Alexandria in general due to lack of documentation. In July 2023, the store got 2.0, removing the Beta for a Dance Floor and Video Wall. As of August 2023, Alexandria is still open with 2.0.
 
-## Gallery ##
-<gallery>
-File:Alexandria va cec 20210619 155132.jpg|Exterior in June 2021 before its 2.0 remodel
-</gallery>
+

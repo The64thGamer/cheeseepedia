@@ -6,7 +6,7 @@ date = 2024-06-14T23:31:17Z
 
 [Article]
 contributors = ["RedaCEC","ChuckECool","Rexburg090","ThatBoiCydalan","CECFayetteville15"]
-gallery = ["North","North"]
+gallery = []
 +++
 {{Generic|desc=Street view of the exterior in May 2022 (PC: Google Maps)|image=Exterior2022MayGoogleMaps.png}}
 
@@ -53,11 +53,8 @@ On March 8, 2021, 32-Year old Christina Clay was shot and killed outside of the 
 ## Videos ##
 
 TODO
-## Gallery ##
-<gallery>
-File:North Little Rock exterior before 2.0 remodel (PC- Google Maps, June 2019).png|thumb|This is the exterior of North Little Rock before their 2.0 remodel.
-File:North Little Rock during 2.0 remodel (PC- Google Maps, August 2019).png|thumb|This is North Little Rock's exterior during their 2.0 remodel in August 2019.
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

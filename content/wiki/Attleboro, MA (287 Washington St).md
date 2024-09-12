@@ -6,7 +6,7 @@ date = 2024-05-12T00:34:59Z
 
 [Article]
 contributors = ["Rexburg090","2600:4040:59FF:B100:6A21:54B1:8912:1DC5","2600:4040:59FF:B100:9C6:388E:A183:C3C5","2601:191:8580:9F90:C584:A34:12A5:5D31","Anastasia.laguardia","RPCEC","The 64th Gamer","2600:4040:59FC:D100:ECC2:5B6C:8C2F:DE4E","216.125.34.66","Blowseborg062","CorrectorMan","Cheeseclassic","2600:4040:5A0E:D900:EDFB:E7F1:4537:4996","CEC Tinley","Jerry CEC","Harchambeault2026"]
-gallery = ["2479329070","Attleboro","Attleboro"]
+gallery = []
 +++
 {{Generic|image=Attleboro Exterior Street View Before 2.0 (PC; Google Maps).png|desc=Street View of the Exterior before 2.0 (August 2019) (PC: Google Maps)}}**_287 Washington St, Store #464**_ is a _Chuck E. Cheese's Pizza_ that opened on October 4th, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and is still open today with the 2.0 remodel.
 ##History##
@@ -83,12 +83,8 @@ In October 2019, Attleboro started 2.0, removing the 1-Stage on November 11, 201
 |1993
 |Destroyed
 |}
-##Gallery##
-<gallery>
-File:2479329070 eb2d4c202e o.jpg|Attleboro's 1-Stage back when it had lift curtains. (PC: Russ Glasson on Flickr) (4/12/2008).
-File:Attleboro Exterior Street View 2.0 (PC; Google Maps).png|Street View of Attleboro's Exterior after the 2.0 remodel (June 2021) (PC: Google Maps)
-File:Attleboro 2.0 Showroom (PC; Google Maps).png|Attleboro MA Showroom (January 2022) (PC: Limonada's World)
-</gallery>
+
+
 ##Videos##
 {| class='wikitable'
 !Link

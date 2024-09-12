@@ -6,11 +6,11 @@ date = 2024-05-30T22:58:18Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["Arg-6-50-trans.gif|right","Arg-4-50-trans.gif|right"]
 +++
 {{NoSources}}
 ## Welcome ##
-[[File:Arg-6-50-trans.gif|right]][[File:Arg-4-50-trans.gif|right]]I'm The 64th Gamer, creator of the RR Engine, a showtape archivist, and enthusiast.<blockquote>Total Wiki Changes Made: **{{#cscore:The 64th Gamer|changes}}**</blockquote>
+I'm The 64th Gamer, creator of the RR Engine, a showtape archivist, and enthusiast.<blockquote>Total Wiki Changes Made: **{{#cscore:The 64th Gamer|changes}}**</blockquote>
 
 ### Stuff That Is Neat ###
 

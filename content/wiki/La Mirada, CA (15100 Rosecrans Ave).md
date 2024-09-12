@@ -6,9 +6,9 @@ date = 2024-07-28T15:11:01Z
 
 [Article]
 contributors = ["Cheeseclassic","Chuckeindiana","AstridMascotFan2005"]
-gallery = []
+gallery = ["La Mirada Exterior.jpg|thumb|La Mirada's exterior before the 2.0 remodel. PC: (tripadvisor.co.uk)"]
 +++
-[[File:La Mirada Exterior.jpg|thumb|La Mirada's exterior before the 2.0 remodel. PC: (tripadvisor.co.uk)]]
+
 **_La Mirada, CA (15100 Rosecrans Ave)**_ is a _Chuck E. Cheese's Pizza_ that opened on February 25, 1992 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open with the 2.0 remodel.
 
 ## Stages ##
@@ -48,7 +48,7 @@ In 2006/2007, La Mirada received the [CEC 2005 Remodel Program]({{< ref "wiki/CE
 |2023
 |}
 
-## Gallery ##
+
 TODO
 
 ## Animatronics ##

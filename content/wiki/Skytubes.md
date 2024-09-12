@@ -6,7 +6,7 @@ date = 2023-11-06T21:06:18Z
 
 [Article]
 contributors = ["BurgersNuggs445","EagleScout610","Pizza nostalgia","The 64th Gamer","CECBowlingGreen","Chouts2","CorrectorMan","ChuckfeldStan","Rexburg090","Snowbobsuperboi","Pasquallytheplumber","SuperCreamPiper2008"]
-gallery = []
+gallery = ["Chuck E.'s ClubHouse.jpg|thumb|Chuck E.'s ClubHouse in the Sumter, SC location"]
 +++
 {{Generic|image=Skytube Pic.png|desc=A typical Phase 3 style SkyTubes structure}}
 
@@ -21,7 +21,7 @@ This competition between CEC and Discovery lead to a major rebrand in 1994, [Pha
 
 ### Iteration ###
 In 2000, The SkyTubes were redesigned once more as part of [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}). The tubes, which had been entirely suspended from the ceiling from their inception, were now supported by foam-padded support beams bolted to the floor. The abstract sphere and cube shaped vehicles were replaced/supported by foam-padded 'monkey cages' and white and yellow race cars adorned with various parody stickers of popular brands. The downsized ballpits were completely removed from SkyTube installations at this point, allowing them to truly come into their own
-[[File:Chuck E.'s ClubHouse.jpg|thumb|Chuck E.'s ClubHouse in the Sumter, SC location]]
+
 When Chuck E. Cheese's began opening downsized small-town stores in 2003, they did not install any SkyTubes in these locations as their sprawling layouts would have taken too much space in these 6-8K square feet stores. Instead, Chuck E. Cheese's and Soft Play developed a new play structure tailor made for these smaller locations called 'Chuck E.'s Clubhouse'. These structures were similar to SkyTubes but had a more condensed layout and different play elements. Clubhouses had a more colorful and cartoony monkey cage and a train instead of a racecar. The cloudy-sky textured 'SkyTubes' letters were replaced with a fiberglass sign featuring Chuck E. Cheese on a BMX bike welcoming guests into his clubhouse.  
 
 Chuck E.'s Clubhouses were installed in every small-town location through 2006 when the small-town store project was discontinued. Full-size Chuck E. Cheese's locations would continue to receive the 2000 SkyTubes design, though these layouts would be slightly downsized over time. CEC would continue to install new SkyTubes layouts into new and remodeling locations until early 2013 when the company decided to discontinue new SkyTubes structures in favor of new play structures. 

@@ -6,7 +6,7 @@ date = 2024-08-26T22:38:46Z
 
 [Article]
 contributors = ["Chouts1","Pench0782","CECBowlingGreen","Studio Cheese","BurgersNuggs445","CorrectorMan","Loud.time","47.17.236.200","76.255.27.153","Captain Cheese IV","AstridMascotFan2005","Cy's Junk at School"]
-gallery = ["Port","Port","Port","Port"]
+gallery = []
 +++
 {{Generic|image=Port Orange.jpg|desc=Store Exterior}}
 
@@ -28,13 +28,8 @@ Port Orange was severely damaged from the effects of Hurricane Ian. The ceiling 
 
 The location is being rebuilt and is projected to reopen in late 2024 on the existing property with the 2.0 remodel.  
 
-##Gallery##
-<gallery>
-File:Port Orange Panoramic.jpg|thumb|9/24/21
-File:Port Orange 9-23-22.png|thumb|9/23/22
-File:Port Orange store after Hurricane Ian.jpg|thumb|9/30/22
-File:Port Orange store after Hurricane Ian (close up).jpg|thumb|9/30/22
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

@@ -40,7 +40,7 @@ Superior was closed for the CEC 2018 2.0 Remodel Program (2.0 Remodel). The Stud
 ##Arcade Machines##
 TODO
 
-##Gallery##
+
 TODO
 
 ##References##

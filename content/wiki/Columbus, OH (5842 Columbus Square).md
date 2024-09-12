@@ -86,7 +86,7 @@ In December 1991, the location was purchased by Marc Glassman and removed all PT
 |N/A
 |Unknown/Destroyed.
 |}
-##Gallery##
+
 No photos exist.
 
 ##Videos##

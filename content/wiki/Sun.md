@@ -6,9 +6,9 @@ date = 2024-05-29T02:20:08Z
 
 [Article]
 contributors = ["CECMentor"]
-gallery = []
+gallery = ["RAE_Sun.jpeg|thumb|Suns design."]
 +++
-[[File:RAE_Sun.jpeg|thumb|Suns design.]]
+
 **_Sun**_ is one of the prop characters in the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
 ## History ##

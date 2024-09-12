@@ -6,7 +6,7 @@ date = 2024-02-03T02:16:30Z
 
 [Article]
 contributors = ["The 64th Gamer","CoolerDude"]
-gallery = ["Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Screenshot","Promosmashlingsart1.png|Promo","Promosmashlingsart2.png|Promo","Promosmashart3.png|Promo","Promosmashart4.png|Promo","Promosmashart6.png|Promo","Cecpromoart7.png|Promo","Seconditemsetpromo.png|Promo"]
+gallery = ["WheelSpinningPinataSmashlings.png|thumb|300x300px|The Fun Fair wheel during the first event (October 7, 2023)","Weekendugcrunoutsmashlings.png|thumb|The Chuck E. Smashling running out of stock at 10:56am (October 8, 2023)","Cecsmashlingcard.png|thumb|199x199px|Chuck E. Smashling Card Prototype"]
 +++
 {{Speculative}}{{Generic|image=Promoeventpicturesmashlings.png|desc=Promo Header}}
 
@@ -21,7 +21,7 @@ Starting October 7th of 2023, the [https://www.roblox.com/games/13743608986/FREE
 To spin the wheel, users must play the game to earn an exclusive currency for the event: Red Tickets. Red tickets are found by destroying Guitar Smashables found throughout the game world. These new Smashables are CEC branded piñatas in the shape of a guitar. As the player levels up, they will be able to destroy the piñatas faster, alongside being able to traverse the game world faster to find them. The Fun Fair also has trampolines, that when jumped on, reward the user with about 500 tickets every 5 mins. Users could also obtain Red Tickets by joining the game's Roblox Group during the weekend of October 7-8. This would give them 15,000 tickets, equivalent to 2-3 hours of grinding tickets in-game.
 
 ### Wheel Spinning ###
-[[File:WheelSpinningPinataSmashlings.png|thumb|300x300px|The Fun Fair wheel during the first event (October 7, 2023)]]
+
 The wheel takes 500 Red Tickets to spin, and has 10 different prizes.
 
 *Pasqually Piñata Smashling
@@ -38,7 +38,7 @@ The wheel takes 500 Red Tickets to spin, and has 10 different prizes.
 
 The wheel is rigged with unknown weights to give each prize a different rarity. Jasper and Pasqually are considered 'Common', Munch is considered 'Uncommon', Helen is considered 'Rare', Chuck E. is considered 'Legendary', and Bella is considered 'Epic'. From in-game play, it seems the Candy Currency is also commonly won, and the UGC items are around the Legendary to Epic range in rarity.
 ### Weekend UGC Items ###
-[[File:Weekendugcrunoutsmashlings.png|thumb|The Chuck E. Smashling running out of stock at 10:56am (October 8, 2023)]]Through every weekend from October 7 to December 31, two different Limited UGC items are placed on the wheel. Each UGC item only has 1,500 in stock, and are trade locked for 30 days before they can be sold in the Roblox economy. If its only the first day of the weekend, or if a UGC item has run out on the wheel, the user won't be able to roll the empty space.
+Through every weekend from October 7 to December 31, two different Limited UGC items are placed on the wheel. Each UGC item only has 1,500 in stock, and are trade locked for 30 days before they can be sold in the Roblox economy. If its only the first day of the weekend, or if a UGC item has run out on the wheel, the user won't be able to roll the empty space.
 
 UGC items are unlocked at 1pm EST each day of the weekend. The UGC items will usually run out before 11am of the next day.
 
@@ -61,7 +61,7 @@ Unreleased UGCs:
 All of the In-game Smashlings won at the prize wheel function exactly like standard Smashlings in the game, being used in the players party to increase their power level. Duplicates won at the wheel can be combined to level up the Smashling, which can change their appearance from Basic to Bronze, Silver, Gold, and Bubblegum.
 
 ## CEC In-Store Event ##
-[[File:Cecsmashlingcard.png|thumb|199x199px|Chuck E. Smashling Card Prototype]]
+
 The current plans for the in-store event haven't been announced in detail. It is claimed there will be '...a range of exciting events, including product sampling weekends and an opportunity for fans to design their own Piñata Smashlings character.' Both product samplings have dates, but it is unknown when the character design portion of the event will take place.<ref name=':0' />
 
 ### Product Samplings ###
@@ -69,55 +69,8 @@ On October 21, participating CEC Stores will give away 100,000 Piñata Smashling
 
 From November 11-12, the Piñata Smashlings CEC Starter Pack (2023) (Piñata Smashlings CEC Starter Pack) will be available at participating locations. This pack is known to include Chuck E. Cheese as card #6.<ref>https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/</ref>
 
-## Gallery ##
-<gallery>
-File:Screenshot 2023-10-07 170723.png|Chuck E. Cheese's Fun Fair from a distance.
-File:Screenshot 2023-10-07 170639.png|A Guitar Smashable
-File:Screenshot 2023-10-07 170644.png|Destroying a Guitar Smashable
-File:Screenshot 2023-10-07 170647.png|Destroying a Guitar Smashable
-File:Screenshot 2023-10-07 170606.png|Getting 15K Red Tickets for joining the Smashlings Roblox Group
-File:Screenshot 2023-10-07 170338.png|CEC Branded cloth in the Fun Fair
-File:Screenshot 2023-10-07 170201.png|CEC Fun Fair Area
-File:Screenshot 2023-10-07 170103.png|Teleport Pads found around the map to teleport to the Fun Fair
-File:Screenshot 2023-10-07 170108.png|Teleport prompt
-File:Screenshot 2023-10-07 180435.png|CEC Branded tables in the Fun Fair
-File:Screenshot 2023-10-07 165647.png|Fun Fair Announcement
-File:Screenshot 2023-10-07 165644.png|'Free UGC' Icon in GUI
-File:Screenshot 2023-10-08 113131.png|Game Icon (October 7, 2023)
-File:Screenshot 2023-10-08 113140.png|Main Page (October 7, 2023)
-File:Screenshot 2023-10-07 165635.png|Update Notification
-File:Screenshot 2023-10-07 165631.png|Update Notification
-File:Screenshot 2023-10-07 191311.png|The CEC Red Ticket dropped from Guitar Smashables
-File:Screenshot 2023-10-07 171608.png|CEC Themed loading screen
-File:Screenshot 2023-10-07 170554.png|A user having CEC Smashlings in their party.
-File:Screenshot 2023-10-07 171431.png|A user having Gold variants in their party.
-File:Screenshot 2023-10-07 170951.png|Winning Pasqually from the Wheel
-File:Screenshot 2023-10-07 170927.png|Winning Jasper T. Jowls from the Wheel
-File:Screenshot 2023-10-07 170913.png|Winning Mr. Munch from the Wheel
-File:Screenshot 2023-10-07 171005.png|Winning Helen Henny from the Wheel
-File:Screenshot 2023-10-07 180142.png|Winning Chuck E. Cheese from the Wheel
-File:Screenshot 2023-10-07 181509.png|Winning Bella B. from the Wheel
-File:Screenshot 2023-10-07 193530.png|Winning a Free UGC from the Wheel
-File:Screenshot 2023-10-07 195319.png|Free UGC from the wheel in the Roblox Inventory
-File:Screenshot 2023-10-07 171259.png|Pasqually and Jasper in the Collection Menu
-File:Screenshot 2023-10-07 171308.png|Mr. Munch in the Collection Menu
-File:Screenshot 2023-10-07 171315.png|Helen Henny in the Collection Menu
-File:Screenshot 2023-10-07 180351.png|Chuck E. Cheese in the Collection Menu
-File:Screenshot 2023-10-07 185132.png|Bella B in the Collection Menu
-File:Screenshot 2023-10-07 171249.png|Pasqually's Description
-File:Screenshot 2023-10-07 171256.png|Jasper T. Jowls' Description
-File:Screenshot 2023-10-07 171305.png|Mr Munch's Description
-File:Screenshot 2023-10-07 171313.png|Helen Henny's Description
-File:Screenshot 2023-10-07 180340.png|Chuck E. Cheese's Description
-File:Screenshot 2023-10-07 185140.png|Bella B.'s Description
-File:Promosmashlingsart1.png|Promo Art
-File:Promosmashlingsart2.png|Promo Art
-File:Promosmashart3.png|Promo Art
-File:Promosmashart4.png|Promo Art
-File:Promosmashart6.png|Promo Art
-File:Cecpromoart7.png|Promo Art
-File:Seconditemsetpromo.png|Promo Art
-</gallery>
+
+
 
 ## References ##
 <references />

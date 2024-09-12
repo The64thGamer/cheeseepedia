@@ -40,10 +40,8 @@ Starting in October 2022, the location received the 2.0 remodel, removing the [1
 |2021 Model. 
 |}
 
-## Gallery ##
-<gallery>
-145-State-Route-10-East-Hanover-NJ-Building-Photo-8-LargeHighDefinition.jpg|East Hanover's exterior until 2009
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

@@ -6,7 +6,7 @@ date = 2024-08-16T16:07:13Z
 
 [Article]
 contributors = ["ChuckECool","216.125.34.66","CEC Tinley","CEC Hialeah","ShowbizMidwest","Cheeseclassic","Stripes","AstridMascotFan2005","The 64th Gamer","CEC1988","ThatBoiCydalan","Jaxonia"]
-gallery = ["Hialeah","Hialeah","Hialeah’s","HialeahMid90s","Hialeah","Aerial","CEC","CEC","Hialeah's","Exterior,","Back","Hialeah’s","Hialeah's","Hialeah's","Hialeah","Hialeah","Hialeah's","Hialeah's","Hialeah's","Exterior,","Hialeah","Hialeah's","Hialeah","Hialeah","Hialeah","Hialeah"]
+gallery = []
 +++
 {{Generic|image=Hialeah As of July 2023.jpg|desc=Exterior, July 2023 (PC: CEC Hialeah)}}
 **_3805 W 20th Ave, Store #424**_ is a _Chuck E. Cheese_ that opened on April 2, 1991, as a corporate location with a Road Stage, which is still open to this day with the 2.0 remodel.
@@ -108,39 +108,12 @@ W.I.P
 |Remember That Time being showed on the video wall
 |04-26-2024
 |}
-##Gallery##
+
 [https://photos.app.goo.gl/kfAdhwSRHrMrziRy8 Phase 4 Hialeah (2011)]
 
 [https://www.catchmyparty.com/photos/1279723 Hialeah Showroom (2013)]
 
-[https://photos.app.goo.gl/3PZ9NTZu5Eo73VJP9 Hialeah 2.0 (January 2022)]<gallery>
-File:Hialeah Road Stage - 1992.png|Road Stage, 1992 
-File:Hialeah Exterior Satelite Image in 1994 (Google Earth Pro).png|Exterior, 1994 (Black and White Satellite Imagery)
-File:Hialeah’s Road Stage in 1994 (Proof that Helen’s Box was originally Blue) PC- CEC Hialeah.jpg|Hialeah’s Road Stage in 1994 (Proof that Helen’s Box was originally Blue) PC: CEC Hialeah
-File:HialeahMid90s (1994-96).png|1994-1996
-File:Hialeah Exterior Satelite Image in 1999 (Google Earth Pro).png|Exterior, 1999 (Black and White Satellite Imagery)
-File:Aerial photo of the back of exterior with Coach Chuck .jpg|Back of the Exterior, Late 1990s or Early-Mid 2000s (**Aerial photo of the back of exterior with Coach Chuck)**
-File:CEC Hialeah 2004 (Google Earth Pro).png|Exterior, 2004 (Satellite Image of the Exterior with the red awnings)
-File:CEC Hialeah in 2005.jpg|Exterior, 2005
-File:Hialeah's Road Stage in 2005. (Curtains were around at that time).png|Hialeah's Road Stage in 2005. (Curtains were around at that time)
-File:Exterior, October 2008 (Google Maps).jpg|Exterior, October 2008 (Purple Awnings were received before the extension of the store.)
-File:Back of the Exterior, October 2009 (Google Maps).png|Back of the Exterior, October 2009 (China Buffet sign removed)
-File:Hialeah’s Road Stage in 2011.png|**Hialeah’s Road Stage in 2011 (Helen's Pink Box)**
-File:Hialeah's Road Stage in 2011. (Munch, Jasper, and Pasqually).png|Hialeah's Road Stage in 2011. (Jasper still has the old mask)
-File:Hialeah's Location in 2012 .jpg|**Hialeah's Road Stage in 2012. (Before Chuck's Cool Chuck outfit was replaced with the Avenger outfit)**
-File:Hialeah Chuck E wearing Avenger Outfit.png|Road Stage Chuck, October 2012 (Chuck E is wearing the Avenger Outfit)
-File:Hialeah Exterior, November 2012.png|Exterior, November 2012
-File:Hialeah's Gameroom 2013 (2).png|Gameroom, early 2013 (2)
-File:Hialeah's Gameroom in 2013..png|Gameroom, Early 2013
-File:Hialeah's Gameroom 2013 (3).png|Gameroom, Early 2013 (3)
-File:Exterior, April 2013 (Google Maps).png|Exterior, April 2013 (Purple Awnings Modification is almost completed)
-File:Hialeah Road Stage - July 2013.png|Road Stage, July 2013 (Helen, Munch, Jasper and Pasqually)
-File:Hialeah's Road Stage in 2018..png|Hialeah's Road Stage in the late 2010s (with Neon Lights).
-File:Hialeah before 2.0 remodel .png|Exterior, November 2021 (before the 2.0 remodel)
-File:Hialeah during the 2.0 remodel (November 2021).png|The Store during the 2.0 Remodel on November 2021. (Road Stage is being Removed)
-File:Hialeah Exterior, January 2022.jpg|Exterior, January 2022 (With the Purple Awnings)
-File:Hialeah Exterior (May 15, 2024).png|Exterior, May 2024 (Part of the Exterior is white)
-</gallery>
+[https://photos.app.goo.gl/3PZ9NTZu5Eo73VJP9 Hialeah 2.0 (January 2022)]
 
 ## Animatronics ##
 {| class='wikitable'

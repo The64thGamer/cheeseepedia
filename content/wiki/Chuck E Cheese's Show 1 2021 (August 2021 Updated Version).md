@@ -6,7 +6,7 @@ date = 2023-08-19T23:40:56Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","Himitsu"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 1 2021 (Covid Update Promo)
@@ -25,7 +25,7 @@ This was created with the idea to play between promotional events. This show fea
 ##Show List:##
 
 #**Intermission 1**
-##[[File:New Graphic.png]]Social Distancing Safety Message
+##Social Distancing Safety Message
 ##Juicebox Jukebox - “The ABC’s of You”
 ##KIDZ BOP Kids - “Say So”
 #**Skit 1**
@@ -36,7 +36,7 @@ This was created with the idea to play between promotional events. This show fea
 #**Skit 2**
 ##Chuck E. & Friends - “Ves Al Ratoncito”
 #**Intermission 3**
-##[[File:New Graphic.png]]Social Distancing Safety Message
+##Social Distancing Safety Message
 ##The Whizpops! - “Sea Turtle”
 ##KIDZ BOP Kids - “The Git Up”
 #**Skit 3**
@@ -47,7 +47,7 @@ This was created with the idea to play between promotional events. This show fea
 #**Skit 4**
 ##Chuck E. Cheese - 'Lend a Helping Hand'
 #**Intermission 5**
-##[[File:New Graphic.png]]Social Distancing Safety Message
+##Social Distancing Safety Message
 ##Juicebox Jukebox - “Clean it Up”
 ##KIDZ BOP Kids - “Blinding Lights”
 #**Skit 5**
@@ -58,7 +58,7 @@ This was created with the idea to play between promotional events. This show fea
 #**Skit 6**
 ##Chuck E. & Friends - 'My Family'
 #**Intermission 7**
-##[[File:New Graphic.png]]Social Distancing Safety Message
+##Social Distancing Safety Message
 ##Rockalingua - “Las Partes Del Cuerpo”
 ##KIDZ BOP Kids - “Wings”
 #**Skit 7**
@@ -74,18 +74,11 @@ This was created with the idea to play between promotional events. This show fea
 #Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 #Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 #Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
-#[[File:New Graphic.png]]Chuck E. Cha Cha (New Countdown) (3stage, Cyberamic, Studio C, Weigl)
-#[[File:New Graphic.png]]Happy Dance (New Countdown) (Studio C, Weigl)
-#[[File:New Graphic.png]]Me & My Friends (New Countdown) (Studio C, Weigl)
-#[[File:New Graphic.png]]Easy Dance (New Countdown) (Studio C, Weigl)
+#Chuck E. Cha Cha (New Countdown) (3stage, Cyberamic, Studio C, Weigl)
+#Happy Dance (New Countdown) (Studio C, Weigl)
+#Me & My Friends (New Countdown) (Studio C, Weigl)
+#Easy Dance (New Countdown) (Studio C, Weigl)
 
 ## Trivia: ##
 The update to the 'Social Distancing Safety Message' only adds a section about face coverings.
 ##Showtape Scans / Images: ##
-<gallery>
-2021-10-28 181508.jpg|Studio C Floppy Scan
-Show121AugP1P2.jpg|Studio C DVD
-Show121AugInstall.jpg|Studio C Install DVD
-Show121AugCECStage.png|CEC Stage DVD
-Show12021Aug3stg.png|3-Stage DVD
-</gallery>

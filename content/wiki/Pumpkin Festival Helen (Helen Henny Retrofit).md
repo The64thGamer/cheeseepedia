@@ -6,9 +6,9 @@ date = 2022-12-07T19:13:04Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = []
+gallery = ["Pumpkin Festival Helen.jpg|thumb|403x403px|Pumpkin Festival Colerain"]
 +++
-[[File:Pumpkin Festival Helen.jpg|thumb|403x403px|Pumpkin Festival Colerain]]
+
 
 **_Pumpkin Festival Helen**_ is a retrofit of [Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}}) at _Burger Farm & Garden Center_ in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)
 

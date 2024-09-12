@@ -6,7 +6,7 @@ date = 2022-02-22T20:58:06Z
 
 [Article]
 contributors = ["Documentor","Himitsu"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 1 2021 (Covid Update Promo)
@@ -24,12 +24,12 @@ Show 2 2021 is the spring show released May 2021 featuring a variety of songs. T
 ## Safety Message 
 ## Ants Ants Ants - 'Pin Wheel'
 ## KIDZ BOP Kids - 'Paradise'
-# [[File:New Graphic.png]]**Skit 1**
+# **Skit 1**
 ## Chuck E. & Friends - 'Chuck E.'s Middle Name'
 # **Intermission 2**
 ## HiDino - 'King of Dinosaur'
 ## BTS - 'Dynamite' 
-# [[File:New Graphic.png]]**Skit 2**
+# **Skit 2**
 ## Chuck E. & Friends - 'Stay Positive'
 # **Intermission 3**
 ## Safety Message
@@ -48,7 +48,7 @@ Show 2 2021 is the spring show released May 2021 featuring a variety of songs. T
 ## Safety Message
 ## Danny Weinkauf - 'Tricycle' 
 ## One Republic - 'Recuse Me'
-# [[File:New Graphic.png]]**Skit 5**
+# **Skit 5**
 ## Chuck E. Cheese - 'Crochet All Day'
 # **Intermission 6**
 ## Video W/ Helen & Jasper
@@ -61,4 +61,4 @@ Show 2 2021 is the spring show released May 2021 featuring a variety of songs. T
 # Birthday Show (Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) ( Cyberamic, Studio C, Weigl)
 # Birthday Show (Live at Home) (Cyberamic, Studio C,Weigl)
-# [[File:New Graphic.png]]Chuck E.'s Spring Break Break Dance (Cyberamic, Studio C,Weigl)
+# Chuck E.'s Spring Break Break Dance (Cyberamic, Studio C,Weigl)

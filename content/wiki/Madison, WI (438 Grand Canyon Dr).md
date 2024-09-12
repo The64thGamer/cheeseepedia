@@ -6,7 +6,7 @@ date = 2024-05-21T11:41:01Z
 
 [Article]
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
-gallery = ["madisonwirae.png|The","Chuck","91e3b345-22ef-4f35-88d6-47cefd9e33a1","Madison","Madison_frame.png|Madison's"]
+gallery = []
 +++
 {{Generic|image=Madison WI CEC 2.0 Exterior.png|desc=Exterior, August 2022}}
 **_438 Grand Canyon Dr, Store #604**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).
@@ -96,14 +96,8 @@ In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 |N/A
 |Destroyed
 |}
-##Gallery##
-<gallery>
-File:madisonwirae.png|The only known photo of the store's RAE. 
-File:Chuck E Cheese's Pizza (crop).jpg|the store's exterior on January 5, 2001 (PC: Try to Love Again).
-File:91e3b345-22ef-4f35-88d6-47cefd9e33a1 d.jpg|Madison's Exterior From Around 2007
-File:Madison Wi 3-Stage.jpg|Madison's 3-Stage before 2.0 Remodel
-File:Madison_frame.png|Madison's road sign, which is the last ShowBiz Pizza Place sign frame to remain intact at a location
-</gallery>
+
+
 
 ##Videos##
 {| class='wikitable'

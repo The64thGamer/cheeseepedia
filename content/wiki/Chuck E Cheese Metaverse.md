@@ -6,9 +6,9 @@ date = 2022-04-10T20:31:16Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Chuck E Verse Mark.png|thumb|320x320px|''Chuck E. Verse'' Mark"]
 +++
-[[File:Chuck E Verse Mark.png|thumb|320x320px|_Chuck E. Verse_ Mark]]
+
 The **_Chuck E. Cheese Metaverse**_ (Also called the **_Chuck E. Verse)**_ is a potentially in-development metaverse application, which could appear on mobile, PC, or VR devices.
 
 ## Description ##

@@ -6,7 +6,7 @@ date = 2024-07-31T15:48:21Z
 
 [Article]
 contributors = ["Caydenpedia","ThatBoiCydalan","AstridMascotFan2005"]
-gallery = ["RockyMountoldexterior.jpg|thumb|300x300px|The","RockyMountoldstage.jpg|thumb|226x226px|The","RockyMountPosters.jpg|thumb|3"]
+gallery = []
 +++
 {{Generic|image=RockyMountcurrentexterior.jpg|desc=Photo of the current exterior in October 2023. (PC: Carlos Angel Perez on Google Maps)}}**_730 Sutters Creek Blvd, Store #387**_ is a _Chuck E. Cheese_ location in Rocky Mount, North Carolina. 
 
@@ -36,12 +36,8 @@ Rocky Mount opened in December 2003 in the Rocky Mount Towne Centre on Sutters C
 
 In the spring of 2023, Rocky Mount they started their 2.0 remodel. In April 2023, their Studio C Cappa would be taken out and replaced with the [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Chuck E. Live Dance Floor). Rocky Mount still remains in their 2.0 remodel today. The current whereabouts of Rocky Mount's bot are now unknown.
 
-## Gallery ##
-<gallery>
-File:RockyMountoldexterior.jpg|thumb|300x300px|The store's old exterior in February 2023, two months before their 2.0 remodel. (PC: Ms. knight on Google Maps)
-File:RockyMountoldstage.jpg|thumb|226x226px|The store's Studio C Cappa in June 2017. (PC: Tiffany Tobin on Google Maps.)
-File:RockyMountPosters.jpg|thumb|3 of 7 Rocky Mount's former showroom posters in July 2021. (PC: The Celestial Nomad on Google Maps.)|221x221px
-</gallery>
+
+
 ## Animatronics ##
 {| class='wikitable'
 !Animatronic

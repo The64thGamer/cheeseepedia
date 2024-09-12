@@ -64,9 +64,5 @@ Similar to what would become [Studio C]({{< ref "wiki/Studio C.md" >}}) showtape
 #**Segment 13**
 ##Sal's Birthday
 ##Showtape Scans / Images:##
-<gallery>
-Sfddweweff.png|Front Label
-ae915f3bcc21ee17d77155151153a647.png|Front Label
-2d87e859ecb5a28014b5a5ba09430b43.png|Back Label
-</gallery>
+
 *

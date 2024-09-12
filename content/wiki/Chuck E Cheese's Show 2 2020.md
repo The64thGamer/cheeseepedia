@@ -6,7 +6,7 @@ date = 2023-08-19T23:30:27Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","Mousester"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 2 2020
@@ -30,37 +30,37 @@ Of the four songs. two were new and two were reused. Additionally, the Birthday 
 ## Social Distancing PSA
 ## Welcome back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
-## **[[File:New Graphic.png]]** Fun Facts with Chuck E. Cheese 'Dreams'
-# **[[File:New Graphic.png]] Skit 1**
+## **** Fun Facts with Chuck E. Cheese 'Dreams'
+# ** Skit 1**
 ## Bella B. & Mike Wolf - 'El Rey Guitarrista' 
 # **Intermission 2**
-## **[[File:New Graphic.png]]** Universal Kids - 'Norman Picklestripes'
+## **** Universal Kids - 'Norman Picklestripes'
 ## KIDZ BOP Kids - 'Havana'
-## **[[File:New Graphic.png]]** Video Chat with Chuck E, Helen and Jasper
+## **** Video Chat with Chuck E, Helen and Jasper
 ## Social Distancing PSA
-## **[[File:New Graphic.png]]** Devon Gilfillian - 'Unchained'
+## **** Devon Gilfillian - 'Unchained'
 ## Wheel of Whatever - 'Oven Mitt Art'
 # **Skit 2**
 ## Chuck E. & Friends - 'My Family'
 # **Intermission 3**
-## **[[File:New Graphic.png]]** Universal Kids - 'Remy & Roo'
-## **[[File:New Graphic.png]]** Chris Stapleton - 'Second One To Know'
-## **[[File:New Graphic.png]]** Video Chat with Chuck E. & Bella
+## **** Universal Kids - 'Remy & Roo'
+## **** Chris Stapleton - 'Second One To Know'
+## **** Video Chat with Chuck E. & Bella
 ## Social Distancing PSA
-## **[[File:New Graphic.png]]** Universal Kids - 'American Ninja Warrior Jr'
+## **** Universal Kids - 'American Ninja Warrior Jr'
 ## Louis the Child Ft. Drew Love - 'Free'
-# **[[File:New Graphic.png]] Skit 3**
+# ** Skit 3**
 ## Chuck E. & Friends - 'Barbra the Barnyard Barber'
 # **Intermission 4**
 ## Kelly Rowland - 'Crown'
-## **[[File:New Graphic.png]]** Universal Kids - 'Remy & Roo'
-## **[[File:New Graphic.png]]** Gift Shop Guru - 'Dinosaur Pets'
+## **** Universal Kids - 'Remy & Roo'
+## **** Gift Shop Guru - 'Dinosaur Pets'
 # **Skit 4**
 ## Chuck E. & Friends - 'Out of This World'
 # **Intermission 4**
 ## Social Distancing PSA
-## **[[File:New Graphic.png]]** Video Chat with Nigel & Ronnie
-## **[[File:New Graphic.png]]** KIDZ BOP Kids - 'Friends'
+## **** Video Chat with Nigel & Ronnie
+## **** KIDZ BOP Kids - 'Friends'
 
 ## Live Shows: ##
 
@@ -68,12 +68,7 @@ Of the four songs. two were new and two were reused. Additionally, the Birthday 
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-A79D4C2F-125A-451D-9DAA-07A04C7B22CA.png|Studio C DVD + Software Upgrade DVD
-vrveferfer.jpg|Studio C DVD
-ffgetryjuthgrfeds.jpg|Studio C Floppy Disc
-Show220cecstage.png|CEC Stage DVD
-</gallery>
+
 
 ##Official Releases##
 

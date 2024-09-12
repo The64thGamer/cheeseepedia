@@ -6,7 +6,7 @@ date = 2024-07-24T01:17:30Z
 
 [Article]
 contributors = ["CECBowlingGreen","Documentor","Rexburg090","Studio 18 Ent","ChuckEPediaIsTheBest!","ChuckECool","Midwestretail","CEC Tinley","AstridMascotFan2005","ThatBoiCydalan","Cyberamics","Cheeseclassic","CECswag2009"]
-gallery = ["LouisvilleMidRe.jpg|Louisville","Louisville08.jpg|Photo","NewspaperClipping.jpg|A"]
+gallery = []
 +++
 {{Generic|image=louisville.jpg|desc=Louisville's exterior in the 2010s. (PC: CityFeet)}}
 **_2030 South Hurstbourne Parkway, Store #111**_ is a Chuck E. Cheese's that opened on January 2, 2000, with a Studio C (1997), which is still open to this day.
@@ -53,12 +53,8 @@ In 2011, this store would remodel to the [2005 Remodel]({{< ref "wiki/CEC 2005 R
 |A video showcasing the bot in April 2022 after the lights were fixed.
 |November 16, 2023
 |}
-## Gallery ##
-<gallery>
-File:LouisvilleMidRe.jpg|Louisville mid remodel (04/08/24)
-File:Louisville08.jpg|Photo of the Studio C in 2008 (03/05/08).
-File:NewspaperClipping.jpg|A newspaper clipping of the Garner Holt animatronic around opening.
-</gallery>
+
+
 ## Animatronics ##
 {| class='wikitable'
 |+

@@ -6,7 +6,7 @@ date = 2024-07-15T13:32:30Z
 
 [Article]
 contributors = ["CECBowlingGreen","216.125.34.66","ChuckECool","CEC Tinley","47.17.236.200","Noahrbxt","2600:1700:B6B0:1790:DD25:B858:FAC0:3E84","Captain Cheese IV","Cheeseclassic"]
-gallery = ["2021.png|Jasper"]
+gallery = []
 +++
 {{Generic|image=FredericksburgVA EXT.jpg|desc=Fredericksburg's 2.0 exterior taken shortly after reopening on August 3, 2021}}
 **1280 Central Park Blvd, Fredericksburg, VA 22401** is a _Chuck E. Cheese_ that opened on July 23, 2021, with a Dance Floor and Video Wall, which is still open to this day.
@@ -59,10 +59,8 @@ Originally when the store opened, they had a Studio C Alpha, they would have it 
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:2021.png|Jasper on Fredericksburg's TV
-</gallery>
+
+
 ## Videos\Footage ##
 TODO
 {| class='wikitable'

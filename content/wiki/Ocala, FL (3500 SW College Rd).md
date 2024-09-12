@@ -6,7 +6,7 @@ date = 2023-10-05T00:54:22Z
 
 [Article]
 contributors = ["The 64th Gamer","47.17.236.200","NintendoCraft","2600:4040:24D1:BB00:142E:FB0A:A083:3F49"]
-gallery = ["Ocala"]
+gallery = []
 +++
 **3500 SW College Rd** was a _Chuck E. Cheese's_ that opened in April 26, 2005 as a corporate location with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and is still open to this day.
 
@@ -34,10 +34,8 @@ Originally, when the store opened, the location had a Studio C Cappa stage like 
 |2021 Model
 |}
 
-## Gallery ##
-<gallery>
-File:Ocala FL Blueprints 1.png|Blueprints during remodel, 2021
-</gallery>
+
+
 
 ## Videos ##
 TODO

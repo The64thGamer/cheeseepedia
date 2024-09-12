@@ -81,7 +81,3 @@ PBS Spot 2
 CEC TV Old Movie
 
 ##Showtape Scans / Images:##
-<gallery>
-ssssadasdasdddd.jpg|Studio C DVD
-IMG_0121.png|Studio C DVD
-</gallery>

@@ -6,7 +6,7 @@ date = 2024-06-11T05:14:10Z
 
 [Article]
 contributors = ["Saan1ty","The 64th Gamer","2600:4040:5A0C:5900:7CC4:6BF1:60E3:48C3","Stripes","2600:4040:5A0E:D900:C050:277C:FA95:3797","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]
-gallery = ["Billy","Ashland"]
+gallery = []
 +++
 {{Generic|desc=Exterior of the Barboursville location, June 14, 2022|image=Billy Bob's Wonderland 2022-06-14.jpg}}
 
@@ -22,8 +22,4 @@ Billy Bob's Wonderland had three shows, coming from three locations, Ashland, KY
 
 The Rock-afire Explosion at Billy Bob's Wonderland was known for being in extremely poor condition until 2021 when it was fully restored by their show technician, Braylon Giles. As of 2024, the show remains in decent condition, with most of the issues stemming from the imitation parts and cosmetics. Giles no longer maintains the show.
 
-##Gallery##
-<gallery>
-File:Billy Bob's Wonderland East Barboursville.jpg|The original East Barboursville location
-File:Ashland KY BBWL.jpg|The Ashland, Kentucky location
-</gallery>
+

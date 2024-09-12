@@ -6,7 +6,7 @@ date = 2024-08-23T20:19:06Z
 
 [Article]
 contributors = ["Gussygoose"]
-gallery = []
+gallery = ["Goodbears1.png|left|thumb|309x309px|Picture From ITV taken around installation","Imagebears.png|thumb|Vintage Photo ","The beres.png|thumb|Image taken after the restoration (creds to reminaprod)","Bears2.png|left|thumb|Image used as stock image"]
 +++
 ## Info ##
 The Good Ole Bears were created by a UK company called Golding Leisure, who specialised in animatronic shows and theming for theme parks.
@@ -52,8 +52,7 @@ The Bears were given a full repaint, refur, new lights, and new shows, which the
 ## Other Notes ##
 There was also some merchandise and mascot costumes made of Fred for American Adventure but I won't get into those, someone else can add em if they like.
 
-## Gallery ##
-[[File:Goodbears1.png|left|thumb|309x309px|Picture From ITV taken around installation]]
-[[File:Imagebears.png|thumb|Vintage Photo ]]
-[[File:The beres.png|thumb|Image taken after the restoration (creds to reminaprod)]]
-[[File:Bears2.png|left|thumb|Image used as stock image]]
+
+
+
+

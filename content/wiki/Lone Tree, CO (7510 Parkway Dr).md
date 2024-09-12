@@ -6,7 +6,7 @@ date = 2024-07-28T14:40:01Z
 
 [Article]
 contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","2600:1700:8790:12F0:BD78:36A8:1DEE:9591","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
-gallery = ["Littletonpremblueprints.png|Blueprints","Mural","Exterior.jpg|July","Showroom.jpg|July","Mural.jpg|July"]
+gallery = []
 +++
 {{Generic|desc=Lone Tree, CO Chuck E. Cheese in 2022|image=Littleton, CO 2.0.jpg}}
 
@@ -298,14 +298,8 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 |June 7, 2022
 |}
 
-## Gallery ##
-<gallery>
-File:Littletonpremblueprints.png|Blueprints
-File:Mural Welcome close up.jpg|July 15, 2022
-File:Exterior.jpg|July 15, 2022
-File:Showroom.jpg|July 15, 2022
-File:Mural.jpg|July 15, 2022
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

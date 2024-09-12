@@ -6,7 +6,7 @@ date = 2024-07-28T14:12:14Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","216.125.34.66","168.69.254.249","CEC Tinley","Saan1ty","ThatBoiCydalan","174.131.44.53","Chuckstar69","67.197.52.250","Chez","Caydenpedia","Appatheris","PachCEC","Cheeseclassic","AstridMascotFan2005","RavensFlock4L"]
-gallery = ["CharlotteNCAlbemarleRdPre2005RemodelExterior.jpg|The","CharlotteNCAlbemarleRdRoadStageApril2022.jpg|The","CharlotteNCAlbemarleRdExterior2022OctoberGoogleMaps.png|A","Albemarle"]
+gallery = []
 +++
 {{Generic|image=Albemarle 2.0 Exterior.png|desc=The store's current exterior. (PC: CEC Denver)}}
 
@@ -142,13 +142,8 @@ Charlotte then began their CEC 2018 2.0 Remodel Program (2.0 Remodel), obtaining
 |1991
 |Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
 |}
-##Gallery##
-[https://www.flickr.com/photos/ryanrules/albums/72157718998472949 2021]<gallery>
-File:CharlotteNCAlbemarleRdPre2005RemodelExterior.jpg|The store's exterior before the 2005 Remodel (PC: http://listings.homestead.com/)
-File:CharlotteNCAlbemarleRdRoadStageApril2022.jpg|The Store's Road Stage of April 2022 (PC: Sharon Doggett)
-File:CharlotteNCAlbemarleRdExterior2022OctoberGoogleMaps.png|A Street View of the store's exterior in October 2022 before its shopping plaza repaint. (PC: Google Maps)
-File:Albemarle Road Stage July 9, 2023.jpg|The road stage in July 2023. (PC: saan1ty)
-</gallery>
+
+[https://www.flickr.com/photos/ryanrules/albums/72157718998472949 2021]
 ##Videos##
 {| class='wikitable'
 !Link

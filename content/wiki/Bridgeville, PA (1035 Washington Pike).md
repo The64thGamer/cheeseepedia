@@ -6,9 +6,9 @@ date = 2023-06-13T17:08:42Z
 
 [Article]
 contributors = ["Bowling for Cheese","Rexburg090","CorrectorMan"]
-gallery = ["BridgevilleExteriorJuly2022.png|Bridgeville's"]
+gallery = ["2.0FINISHEDEXBRIDGEVILLE.jpg|thumb|Bridgeville's 2.0 exterior."]
 +++
-[[File:2.0FINISHEDEXBRIDGEVILLE.jpg|thumb|Bridgeville's 2.0 exterior.]]
+
 **_1035 Washington Pike, Store #535**_ is a _Chuck E. Cheese's_ that opened in Q4 2002 with a Studio C 2000 and is a relocation of [Bridgeville, PA (1025 Washington Pike)]({{< ref "wiki/Bridgeville, PA (1025 Washington Pike).md" >}}). This location underwent the 2017 2.0 Remodel Program (2.0 Remodel) in 2022.
 
 ##Stages##
@@ -88,10 +88,8 @@ On September 22nd, 2022 this location began the 2017 2.0 Remodel Program (2.0 Re
 * Big Bass Wheel 
 * Cars 2
 
-##Gallery##
-<gallery>
-File:BridgevilleExteriorJuly2022.png|Bridgeville's exterior before the 2.0 Remodel (July 2022)
-</gallery>
+
+
 
 ##Videos##
 TODO

@@ -73,6 +73,4 @@ Old Salem opened on January 1st, 1984, as the 3rd and last Pizza Time Theatre to
 |N/A
 |Unknown/Destroyed.
 |}
-##Gallery##
-<gallery>
-</gallery>
+

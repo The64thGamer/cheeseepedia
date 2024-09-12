@@ -6,7 +6,7 @@ date = 2023-07-22T23:56:10Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Talltales.jpg
@@ -19,32 +19,32 @@ gallery = []
 **_Chuck E.'s Tall Tales**_ was a show released on December 26, 1995, at Chuck E. Cheese's locations. 
 
 ##Show List ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##'Little Red Riding Hood'
-#**[[File:New Graphic.png]]** **Intermission 1**
+#**** **Intermission 1**
 ##Little Nemo
 ##America's Funniest Pets
-#**[[File:New Graphic.png]]** **Segment 2**
+#**** **Segment 2**
 ##'The Ugly Duckling'
-#**[[File:New Graphic.png]]** **Intermission 2**
+#**** **Intermission 2**
 ##Princess and The Goblin
 ##Fantasy Fly-By
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##'Sleeping Beauty'
-#**[[File:New Graphic.png]]** **Intermission 3**
+#**** **Intermission 3**
 ##Rapunzel
 ##America's Funniest Pets
-#**[[File:New Graphic.png]]** **Segment 4**
+#**** **Segment 4**
 ##'Chicken Licken'
-#**[[File:New Graphic.png]]** **Intermission 4**
+#**** **Intermission 4**
 ##Magic Voyage
 ##Techno Dreams
-#**[[File:New Graphic.png]]** **Segment 5**
+#**** **Segment 5**
 ##'Hansel and Gretel'
-#**[[File:New Graphic.png]]** **Intermission 5**
+#**** **Intermission 5**
 ##Tuneland Starring Howie Mandel
 ##Food Frolics
-#**[[File:New Graphic.png]]** **Segment 6**
+#**** **Segment 6**
 ##'Outro'
 
 

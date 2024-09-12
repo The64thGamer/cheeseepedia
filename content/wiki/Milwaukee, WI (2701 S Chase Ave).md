@@ -6,7 +6,7 @@ date = 2024-09-08T00:27:03Z
 
 [Article]
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]
-gallery = ["MKEBalcony.jpg|Milwaukee’s","MilwaukeeWISouthChaseExterior2014SeptemberGoogleMaps.png|Street","MKEshowroompreremodel.jpg|Milwaukee’s","MKEshowroompostremodel.jpg|Milwaukee’s","MKEstageshowroomlightsoff.jpg|Milwaukee’s","Chaseaveexterior2005.png|Milwaukee’s","IMAGE","KODAK","KODAK"]
+gallery = []
 +++
 {{Generic|image=MilwaukeeExteriorSept21.jpg|desc=Milwaukee before the 2.0 remodel. (September 2021)}}
 **_2701 S Chase Ave, Store #842**_ is a _Chuck E. Cheese's_ that opened in April 1983 as a _Pizza Time Theatre_ with a Balcony Stage. 
@@ -66,18 +66,8 @@ Milwaukee started the 2.0 remodel on August 18th, 2024.
 |April 7th, 1990
 |}
 
-##Gallery## 
-<gallery>
-File:MKEBalcony.jpg|Milwaukee’s Balcony Stage.
-File:MilwaukeeWISouthChaseExterior2014SeptemberGoogleMaps.png|Street view of the exterior in September 2014 months before remodel (PC: Google Maps)
-File:MKEshowroompreremodel.jpg|Milwaukee’s show room in the early 2010s, before the remodel in 2015.
-File:MKEshowroompostremodel.jpg|Milwaukee’s show room in 2022, after the remodel in 2015.
-File:MKEstageshowroomlightsoff.jpg|Milwaukee’s stage with all the lights in the showroom turned off and all the lights on the stage turned on.
-File:Chaseaveexterior2005.png|Milwaukee’s Exterior in 2005.
-File:IMAGE 0.jpeg|The Stage in May 2023.
-File:KODAK EASYSHARE 0000.jpg
-File:KODAK EASYSHARE 004.jpeg
-</gallery>
+ 
+
 
 ##Animatronics##
 

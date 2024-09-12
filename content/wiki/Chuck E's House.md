@@ -6,7 +6,7 @@ date = 2024-09-05T23:57:41Z
 
 [Article]
 contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowbizMidwest","216.125.34.66","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988"]
-gallery = ["Draw1.png|Corman","Draw2.png|Corman","Draw3.png|Corman","Draw4.png|Corman","Rockcons.png|Jul","12ft.png|12'","106.png|10'6'"]
+gallery = []
 +++
 {{Generic|image=rocker.png|desc=The original Rocker Stage in Arlington, TX.}}
 
@@ -54,16 +54,8 @@ The 10' 6' Home was the smallest of the two variants. The design was very simila
 * [Singing Flowers (Cyberamic)]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}})
 * [Birds (Animatronic)]({{< ref "wiki/Birds (Animatronic).md" >}}) (Irving Only)
 
-## Gallery ##
-<gallery>
-File:Draw1.png|Corman And Associates Concept Art
-File:Draw2.png|Corman And Associates Concept Art
-File:Draw3.png|Corman And Associates Concept Art
-File:Draw4.png|Corman And Associates Concept Art
-File:Rockcons.png|Jul Kamen Concept Art
-File:12ft.png|12' design plan
-File:106.png|10'6' design plan
-</gallery>
+
+
 
 ##Known Stages Installed##
 {| class='wikitable'

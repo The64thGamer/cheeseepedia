@@ -6,9 +6,9 @@ date = 2024-09-01T02:18:17Z
 
 [Article]
 contributors = ["Documentor","The 64th Gamer","RPCEC Backup","ChuckECool","RedaCEC","Rexburg090","216.125.34.66","2600:4040:AD76:D00:385D:200:9695:9AFC","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest","AstridMascotFan2005"]
-gallery = ["SharonvilleSPPCenter.jpg|Center","SharonvilleSPPleft.png|Billy","1993","Sharonville2004.jpg|Chuck","SharonvilleSeptember2006.jpg|The","2009sharon.png|The","SharonvilleStage1","SharonvillePasqually","SharonvilleInterior1.jpg|Two","Sharonville1030.jpg|The","SharonvilleGrandReopening2019.jpg|Brochure","Sharonville2.0showroom.jpg|The"]
+gallery = ["SharonvilleExterior2022.png|thumb|285x285px|Sharonville's Exterior (2023)"]
 +++
-[[File:SharonvilleExterior2022.png|thumb|285x285px|Sharonville's Exterior (2023)]]
+
 **_Sharonville, OH (1429 E Kemper Rd) #738**_ originally opened up October 21, 1981 as a Showbiz Pizza Place<ref>https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</ref> and then closing its doors January 8, 1984.<ref>https://www.newspapers.com/article/the-cincinnati-post/121527379/</ref> The store would then re-open on September 8, 1992 as a Chuck E. Cheese's Pizza still open to this day now as a Chuck E. Cheese.<ref>https://www.newspapers.com/image/101812397/</ref> 
 
 ##Stages##
@@ -139,21 +139,8 @@ On August 12, 2024 Sharonville would begin its 'Entertainment Upgrade' throughou
 |-
 |}
 
-## Gallery ##
-<gallery>
-File:SharonvilleSPPCenter.jpg|Center Stage of the RAE in 1982 <ref>https://www.instagram.com/p/BnWhSmHH2uT//</ref>
-File:SharonvilleSPPleft.png|Billy Bob and Looney Bird 1982<ref>https://www.instagram.com/p/BnWiry5nFfM//</ref>
-File:1993 Sharonville.jpg|Exterior soon after opening (June 29, 1993)<ref>https://wedge1.hcauditor.org/view/re/6080021000100/2023/images/</ref>
-File:Sharonville2004.jpg|Chuck E. Cheese during a performance. Earliest known Cool Chuck photo <ref>https://www.instagram.com/p/B4tVIm3H6ef/</ref>
-File:SharonvilleSeptember2006.jpg|The 2-Stage (2006)
-File:2009sharon.png|The 2-Stage during a Birthday (2009)
-File:SharonvilleStage1 .jpg|Jasper & Pasqually (May 4, 2019)
-File:SharonvillePasqually .jpg|Pasqually (May 4, 2019)
-File:SharonvilleInterior1.jpg|Two piece of art from the 2005 remodel. (May 4, 2019)
-File:Sharonville1030.jpg|The Animatronics Prepping for removal. (October 30, 2019)
-File:SharonvilleGrandReopening2019.jpg|Brochure promoting the Grand Re-Opening event 
-File:Sharonville2.0showroom.jpg|The Showroom after the 2.0 Remodel. (December 12, 2019)
-</gallery>
+
+
 
 ## Animatronics: ##
 {| class='wikitable'

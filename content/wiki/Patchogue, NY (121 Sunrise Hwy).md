@@ -6,7 +6,7 @@ date = 2024-07-09T04:59:18Z
 
 [Article]
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
-gallery = ["Patchogue-NY-3-Exterior-1.jpg|Side","Patchogue-NY-3-Exterior-2.jpg.jpg|Front","Patchoguessideexterior2015.png|Patchogue","Cecpatchoguefrontexterior2015.png|Patchogue","Patchogue-NY-4-ExteriorShot.jpg|Front","Cec","5A6047FA-783E-4F2F-AB54-79D1DF034BF7.jpg|Studio","PatchogueNY-1-StudioC-3.jpg|Studio","PatchNov2023-1.jpg|Patchogue's","PatchNov2023-3.jpg|November","Trampolinezone","Patchogue","Patchogues","Patchogue","Patchogues","Patchogues","Patchogues"]
+gallery = []
 +++
 {{Generic|image=2023-09-16.jpg|thumb|381x381px|desc=The Patchogue, NY location in 2023.<ref>Google Maps user-uploaded content, picture taken by CEC BUT IN NY.</ref> (PC: CEC BUT IN NY)}}
 
@@ -209,26 +209,8 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 |May 12, 2024
 |}
 
-##Gallery##
-<gallery>
-File:Patchogue-NY-3-Exterior-1.jpg|Side Exterior in 2009<ref>https://www.zomato.com/long-island/chuck-e-cheeses-patchogue</ref>
-File:Patchogue-NY-3-Exterior-2.jpg.jpg|Front Exterior in 2012<ref>https://patch.com/img/cdn/users/5713/2012/02/raw/b4fb155b531ba987c811f7e89827241a.jpg</ref>
-File:Patchoguessideexterior2015.png|Patchogue Side Exterior in 2015<ref>https://www.youtube.com/watch?v=nEX2SIb4z1I&t=1370s</ref>
-File:Cecpatchoguefrontexterior2015.png|Patchogue Front Exterior in 2015<ref>https://www.youtube.com/watch?v=nEX2SIb4z1I&t=1370s</ref>
-File:Patchogue-NY-4-ExteriorShot.jpg|Front Exterior in 2018<ref>Google Maps user-uploaded content</ref>
-File:Cec studioCangle1.jpg|Patchogue's Studio C 2023
-File:5A6047FA-783E-4F2F-AB54-79D1DF034BF7.jpg|Studio C Beta Full Stage 2023
-File:PatchogueNY-1-StudioC-3.jpg|Studio C Setup
-File:PatchNov2023-1.jpg|Patchogue's Side Exterior
-File:PatchNov2023-3.jpg|November 2023
-File:Trampolinezone patchogue.jpg|Trampoline Zone (May 2024)
-File:Patchogue gameroom2024.jpg|Patchogue's Gameroom 2024 (Angle 1)
-File:Patchogues gameroom2.jpg|Patchogue's Gameroom 2024 (Angle 2)
-File:Patchogue showroom2024.jpg|Patchogue's Showroom 2024
-File:Patchogues bevbarandsaladbar.jpg|Patchogue's Salad and Beverage Bar 2024
-File:Patchogues cashregisterandmerchcounter.jpg|Patchogue's Cash and Merch Counter 2024
-File:Patchogues kidcheckentrance.jpg|Patchogue's Entrance 2024
-</gallery>
+
+
 
 ##References##
 

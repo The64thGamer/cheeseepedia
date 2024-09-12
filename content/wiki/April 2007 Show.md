@@ -6,7 +6,7 @@ date = 2023-08-11T07:40:24Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445","RedaCEC","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=Apr07.png
@@ -24,29 +24,29 @@ This show has a small story in which Pasqually gains a concussion and believes t
 
 ##Show List##
 
-# **[[File:New Graphic.png]] Segment 1**
+# ** Segment 1**
 ## 'Get Down On It'
 ## 'Listen To The Music'
-# **[[File:New Graphic.png]] Intermission 1**
+# ** Intermission 1**
 ## Veggietales - 'Belly Button'
 ## Juggling
-# **[[File:New Graphic.png]] Segment 2**
+# ** Segment 2**
 ## 'China Grove'
 ## 'I've Been Everywhere'
 # **Intermission 2**
-## **[[File:New Graphic.png]]** Artist Spotlight
+## **** Artist Spotlight
 ## Coke Spot
 ## Skydiving
-# **[[File:New Graphic.png]] Segment 3**
+# ** Segment 3**
 ## 'Celebration'
 ## 'You'll Never Find'
-# **[[File:New Graphic.png]] Intermission 3**
+# ** Intermission 3**
 ## VeggieTales - 'I Love My Lips'
 ## Skateboarding
-# **[[File:New Graphic.png]] Segment 4**
+# ** Segment 4**
 ## 'Is It Love?'
 ## 'Wrapped Up In You'
-# **[[File:New Graphic.png]] Intermission 4**
+# ** Intermission 4**
 ## PBS Spot
 ## Maya & Miguel
 ## Minute Maid Spot
@@ -94,10 +94,7 @@ Sammy Davenport - Music Director
 * China Grove is shot in the downtown area of Dallas, Texas.
 
 ##Showtape Scans / Images:##
-<gallery>
-wewwewerw.jpg|Studio C DVD
-werwerwrwr.jpg|Studio C DVD
-</gallery>
+
 ##Trivia:##
 *Rob Gotcher and Michael Hill are seen working at the Movie Theatre in 'Listen To The Music'
 *This show was scripted by Matt Daniel

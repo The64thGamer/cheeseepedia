@@ -21,7 +21,7 @@ TODO
 
 
 
-##Gallery##
+
 TODO
 
 ##Videos##

@@ -6,7 +6,7 @@ date = 2024-06-02T13:40:40Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","MultiMonorail","Cheeseclassic"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Summer 2014 Show
@@ -24,35 +24,35 @@ This was created to play from September 1st  - November 16th 2014. This show fea
 
 ##Show List:##
 
-# [[File:New Graphic.png]] **Skit 1**
+#  **Skit 1**
 ## CEC Music Video - [https://en.m.wikipedia.org/wiki/Safe_and_Sound_(Capital_Cities_song) 'Safe & Sound'] (Chuck E.)
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## CEC Sketch - 'Justin the Pranker Part 1'
 ## Guest Spot - Veggie Tales - 'The Perfect Puppy'
 ## CEC Promo - 'Playtime Spot'
-# [[File:New Graphic.png]] **Skit 2**
+#  **Skit 2**
 ## CEC Music Video - [https://en.m.wikipedia.org/wiki/You_Gonna_Fly 'You Gonna Fly'] (Jasper)
-# [[File:New Graphic.png]] **Intermission 2**
+#  **Intermission 2**
 ## Guest Spot - Caspar Babypants - 'Stump Hotel'
 ## Show Break - 'Flyover'
 ## CEC Sketch - 'Justin the Pranker Part 2'
-# [[File:New Graphic.png]] **Skit 3** 
+#  **Skit 3** 
 ## CEC Music Video - [https://en.m.wikipedia.org/wiki/I_Knew_You_Were_Trouble 'I Knew You Were Trouble'] (Helen)
-# [[File:New Graphic.png]] **Intermission 3** 
+#  **Intermission 3** 
 ## Guest Spot - Veggie Tales - 'Together'
-# [[File:New Graphic.png]] **Skit 4**
+#  **Skit 4**
 ## CEC Music Video - [https://en.m.wikipedia.org/wiki/Maniac_(Michael_Sembello_song) 'Maniac'] (Chuck E.)
-# [[File:New Graphic.png]] **Intermission 4**
+#  **Intermission 4**
 ## Guest Spot - Caspar Babypants - 'Stompy The Bear'
 ## CEC Promo - 'Playtime Spot'
 ## Show Break 2 - 'Vintage NASA'
-# [[File:New Graphic.png]] **Skit 5**
+#  **Skit 5**
 ## CEC Music Video - [https://en.m.wikipedia.org/wiki/Best_Song_Ever 'Best Song Ever']
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## CEC Sketch - 'Justin the Pranker Part 3'
-# [[File:New Graphic.png]] **Skit 6**
+#  **Skit 6**
 ## CEC Music Video - 'Because We're Friends'
-# [[File:New Graphic.png]] **Intermission 6**
+#  **Intermission 6**
 ## CEC Sketch - 'Coconuts'
 ## Show Break 3 - 'NYC Night Drive'
 
@@ -65,16 +65,13 @@ This was created to play from September 1st  - November 16th 2014. This show fea
 *Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 *Happy and You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
-*[[File:New Graphic.png]]Them Bones (3stage, Cyberamic, Studio C,Weigl)
+*Them Bones (3stage, Cyberamic, Studio C,Weigl)
 
 ##Official Releases:##
 *[https://youtu.be/IXAnFlTVvj8?t=1438 'Because We're Friends' on YouTube] 
 
 ##Showtape Scans / Images:##
-<gallery>
-Fall14StdC.png|Studio C DVD
-s-l1600 (5ssss).jpg|CEC-Stage DVD
-</gallery>
+
 
 ##Trivia##
 

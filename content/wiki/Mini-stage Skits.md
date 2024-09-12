@@ -6,7 +6,7 @@ date = 2023-08-07T22:50:22Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = ["Tape"]
+gallery = []
 +++
 {{Showtape
 |date=1983
@@ -27,6 +27,3 @@ gallery = ["Tape"]
 #**Segment 7**
 ##Space Man
 ##Showtape Scans / Images##
-<gallery>
-File:Tape reel mini stage skits.png|Reel
-</gallery>

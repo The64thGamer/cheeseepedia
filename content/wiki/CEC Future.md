@@ -6,7 +6,7 @@ date = 2023-03-30T23:35:46Z
 
 [Article]
 contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape|image=Future.png|date=March 14, 1991|r12=y|c&r=y|cusvhs=y}}
 
@@ -24,7 +24,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song) Palisades Park]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##The Future Looks Fun To Me
 ##Tech-No-Rific!
 #**Intermission 2**
@@ -35,7 +35,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/The_Promise_of_a_Future Grazing in the Grass]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 2**
+#**** **Segment 2**
 ##There's Nothing You Can't Do
 ##Possibilities
 #**Intermission 3**
@@ -45,7 +45,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another One Thing Leads To Another]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##Guessing Game
 ##See You Soon My Friend
 #**Intermission 4**
@@ -57,7 +57,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/Don%27t_Stop_(Fleetwood_Mac_song) Don't Stop Thinking About Tomorrow]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##The Future Looks Fun To Me
 ##Tech-No-Rific!
 #**Intermission 5**
@@ -68,7 +68,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/The_Loco-Motion The Locomotion (By Little Eva)]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 2**
+#**** **Segment 2**
 ##There's Nothing You Can't Do
 ##Possibilities
 #**Intermission 6**
@@ -78,7 +78,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ###[https://en.wikipedia.org/wiki/We_Are_the_World We Are The World]
 ##CEC-TV Intro
 ##
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##Guessing Game
 ##See You Soon My Friend
 

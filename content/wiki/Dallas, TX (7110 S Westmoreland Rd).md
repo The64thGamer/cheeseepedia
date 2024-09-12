@@ -94,7 +94,7 @@ In 1991, the store received [Concept Unification]({{< ref "wiki/Concept Unificat
 |N/A
 |Destroyed
 |}
-##Gallery##
+
 [http://showbizpizza.com/photos/cec/tx_dallasredbird/index.html 2007]
 
 ##Videos##

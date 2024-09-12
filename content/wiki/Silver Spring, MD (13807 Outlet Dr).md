@@ -6,7 +6,7 @@ date = 2024-07-29T21:31:01Z
 
 [Article]
 contributors = ["PachDaChuckster","Rexburg090","Bowling for Cheese","2600:4040:2FEC:E600:DDD2:FA95:6DC0:70D8","CEC Tinley","BurgersNuggs445","ChuckECool","Cecnj98","CorrectorMan","PachCEC","AstridMascotFan2005"]
-gallery = ["Silver","Chuck","Skee-Ball","Silver","Silver","Silver","Enterprise"]
+gallery = []
 +++
 {{Generic|image=Sshq.png|desc=Chuck E. Cheese's exterior around 2011}}
 
@@ -157,16 +157,8 @@ Published: February 22, 2014
 |July 11th, 2018
 |}
 
-##Gallery##
-<gallery>
-File:Silver Spring 2-Stage.jpg|thumb|The 2-Stage that was used in the location
-File:Chuck E. Bot in Silver Spring.jpg|thumb|Chuck E. Bot
-File:Skee-Ball at Silver Spring.jpg|thumb|Skee-Ball at Silver Spring
-File:Silver Spring Game Room.jpg|thumb|Game Room
-File:Silver Spring Showroom.jpg|thumb|Showroom at the Silver Spring Location
-File:Silver Spring Street Hoops.jpg|thumb|The Street Hoops game at the Silver Spring location
-File:Enterprise that replaced CEC in Silver Spring.jpg|thumb|The current view of the location
-</gallery>
+
+
 ##Animatronics ##
 {| class='wikitable'
 |+

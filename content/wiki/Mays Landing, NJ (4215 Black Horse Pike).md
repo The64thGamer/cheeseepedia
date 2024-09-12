@@ -6,7 +6,7 @@ date = 2024-08-11T16:09:58Z
 
 [Article]
 contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
-gallery = ["Mays","Mays"]
+gallery = []
 +++
 {{Stub}} {{Generic|image=Mays Landing 2.0 (PC- Mikey llagan).jpg|desc=Exterior, July 2024 (PC: Mikey llagan)<ref> https://maps.app.goo.gl/ywKDKaMbgg5dQo95A</ref>}}
 **_Mays Landing, NJ (4215 Black Horse Pike), Store #518**_ is a _Chuck E. Cheese_ that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
@@ -88,8 +88,4 @@ TODO
 |}
 
 
-##Gallery##
-<gallery>
-File:Mays Landing Exterior .jpg|Exterior in April 2021 (PC: cheesestudioalpha<ref> https://www.instagram.com/p/COTiJveH44b/?igsh=MWFnZTh1M2RhazA0NA##</ref>
-File:Mays Landing 2005.jpg|Exterior, April 2005<ref> https://youtu.be/YfNCW-3SrGo?si=5AxUoIFAEMiRN4XL</ref>
-</gallery>
+

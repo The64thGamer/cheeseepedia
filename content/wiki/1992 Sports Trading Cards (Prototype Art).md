@@ -6,7 +6,7 @@ date = 2023-01-15T14:18:27Z
 
 [Article]
 contributors = ["BurgersNuggs445"]
-gallery = ["Unknown"]
+gallery = []
 +++
 **Sports Trading Cards** was a prototype art piece created for few locations in 1992.
 
@@ -28,7 +28,4 @@ Exact measurements are unknown, these are educated guesses
 *With Base: 6' (Feet)
 *Without Base: 5' (Feet)
 
-##Gallery##
-<gallery>
-File:Unknown (24).png|Bottom half at the SPT Support Center (2014)
-</gallery>
+

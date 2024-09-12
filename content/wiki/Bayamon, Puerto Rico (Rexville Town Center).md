@@ -6,12 +6,12 @@ date = 2024-06-12T05:46:36Z
 
 [Article]
 contributors = ["Mozilla FireFox 1967"]
-gallery = []
+gallery = ["Bayamon1.jpg|thumb|Bayamón's exterior taken on March 26, 2023"]
 +++
 **167 Rexville Town Center KM 17.6, Bayamón, 00956, Puerto Rico** is a _Chuck E. Cheese's_ that opened in June 2003 that opened with the [Cool Chuck remodel]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) and a Studio C 2002 that is still open to this day under franchisee management.
 
 ## History ##
-[[File:Bayamon1.jpg|thumb|Bayamón's exterior taken on March 26, 2023]]
+
 
 ###### Opening ######
 In June 2003, almost 20 years after the Bayamón Pizza Time Theater in Santa Rosa Plaza opened in November/December of 1983, a brand-new CEC opened in Bayamón, this time located at the then-recently built Rexville Town Center under a completely different franchisee than the one that opened the PTTs in San Juan and Bayamón back in 1983. The store opened with the Cool Chuck remodel, which contained poster withs from mostly 1998-2001, as well as some posters from 1993-1995, and a Studio C Beta which included a [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}) produced by Garner Holt Productions that was just starting to roll out to new stores.
@@ -74,7 +74,7 @@ The only changes the stage has received are removing the blue screen and its cam
 * 'Cheesy Television' (Must C TV Award)
 * 'ERrr' (Must C TV Award)
 * 'F.R.I.E.N.D.Z' (Must C TV Award)
-* [['The C Files' (Must C TV Award)]]
+* 'The C Files' (Must C TV Award)
 * 'CWO' (Must C TV Award)
 * [Name That Cheese (CEC Décor)]({{< ref "wiki/Name That Cheese (CEC Décor).md" >}})
 * [CEC Warhol - Tri (CEC Décor)]({{< ref "wiki/CEC Warhol - Tri (CEC Décor).md" >}})

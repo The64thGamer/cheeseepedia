@@ -6,7 +6,7 @@ date = 2024-04-06T18:49:50Z
 
 [Article]
 contributors = ["Documentor","74.83.232.137","The 64th Gamer","Pasquallytheplumber","Dame868","2603:8001:D300:5785:C477:A97A:F8CA:C011","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese Evergreen Show 2022
@@ -29,47 +29,47 @@ This was created with the idea to play between promotional events. Runs from Jan
 
 # **Intermission 1**
 ## Safety Message
-## [[File:New Graphic.png]] Katy Perry - “Electric”
+##  Katy Perry - “Electric”
 ## “It’s Chuck E!”
 # **Skit 1**
 ##Chuck E. & Friends - 'Chuck E.'s Middle Name'
-#[[File:New Graphic.png]] **Intermission 2**
+# **Intermission 2**
 ##KIDZ BOP Kids - “Telepatía”
 ##Kidloom - “A Funny Band”
 #**Skit 2**
 ##Chuck E. Cheese - “Crochet All Day”
 #**Intermission 3**
 ##Safety Message
-##[[File:New Graphic.png]] Koo Koo Kanga Roo - “My Jam”
+## Koo Koo Kanga Roo - “My Jam”
 ##“Oh Helen Henny!”
 #**Skit 3**
 ##Helen Henny - “Dream Big”
 #**Intermission 4**
 ##Danny Weinkauf - “Tricycle”
-## [[File:New Graphic.png]] KIDZ BOP Kids - “Levitating”
+##  KIDZ BOP Kids - “Levitating”
 ##“He’s Mr. Munch”
 #**Skit 4**
 ##Chuck E., Munch & Bella - “Play All You Can Play”
 #**Intermission 5** 
 ## Safety Message
-##[[File:New Graphic.png]] John Batiste - “FREEDOM”
+## John Batiste - “FREEDOM”
 ##“Jasper T. Jowls”
 #**Skit 5**
 ##Jasper & Chuck E. - “Jasper’s Country Classic”
 #**Intermission 6**
 ##No School Today - “Marsupial'
-##[[File:New Graphic.png]] KIDZ BOP Kids - “Driver License”
+## KIDZ BOP Kids - “Driver License”
 ##“Pasqually”
 #**Skit 6**
 ## Chuck E. & Pasqually - “Keep Drummin”
 #**Intermission 7**
 ##Safety Message
-##[[File:New Graphic.png]] Andy Grammer - “Lease on Life”
+## Andy Grammer - “Lease on Life”
 #**Skit 7**
 ##Chuck E. Cheese - “Barbara the Barnyard Barber”
 #**Intermission 8**
 ##Ants, Ants, Ants - “Pinwheel”
-## [[File:New Graphic.png]] KIDZ BOP Kids - “Goosebumps'
+##  KIDZ BOP Kids - “Goosebumps'
 ##YouTube and Music Streaming Spot
 #**Skit 8**
 ##Chuck E. & Mike Wolf - “El Rey Guitarrista”
@@ -87,10 +87,7 @@ This was created with the idea to play between promotional events. Runs from Jan
 *Easy Dance (Studio C, Weigl)
 
 ## Showtape Scans / Images: ##
-<gallery>
-R23FR234R3434R.jpg|Studio C DVD
-everween.jpg|3-Stage DVD
-</gallery>
+
 
 ##Trivia:##
 

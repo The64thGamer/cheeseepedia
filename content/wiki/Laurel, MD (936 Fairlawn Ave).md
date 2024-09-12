@@ -6,7 +6,7 @@ date = 2024-07-06T02:03:04Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","168.69.254.249","2600:4040:AD76:D00:385D:200:9695:9AFC","2600:4040:AD76:D00:E180:A181:2FB5:B681","ThatBoiCydalan","Caydenpedia","PachCEC","Stripes","CECMentor","Cheeseclassic","ShowbizMidwest","Cecnj98","Documentor"]
-gallery = ["50984391692"]
+gallery = []
 +++
 {{Generic|image=Laurel MD CEC Exterior 2.0.png|desc=Exterior, June 2022}}
 **_936 Fairlawn Ave, Store #87**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on October 27, 1982 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) which is still open to this day. It is located in the Laurel Shopping Center. It was also one of the last locations to have a blue plastic masked Pizzacam before the 2.0 remodel. It is also known as the only Showbiz Pizza in Maryland.
@@ -102,10 +102,8 @@ In June 2022, Laurel received 2.0 and removed the 3-Stage for the Dance Floor al
 https://www.instagram.com/p/C8XEdGdJUAk/?igsh=MXQyaHAzY21oNXlpMg##</ref>
 |}
 
-##Gallery##
-<gallery>
-File:50984391692 e4fa260299 o.jpg|Laurel's stage in February 2021. (PC: RetailRyan on Flickr)
-</gallery>
+
+
 
 ##Videos##
 TODO

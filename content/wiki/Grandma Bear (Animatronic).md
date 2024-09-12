@@ -6,7 +6,7 @@ date = 2024-05-31T00:03:33Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["beatrice2.jpg|Americana","morey_stgrght.jpg|Morey's","WH_gram.jpg|(2003)","WH2005_gram.jpg|(2005)","gmbclaws.jpg|Claws","bmask.jpg|Mask"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=beatrice_stage.jpg|unitsProduced=2}}Grandma Bear/Beatrice was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which would be sold to Morey's Piers and Americana Amusement Park. Her mask mold and mech was later reused for Little Queenie in the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}).
 
@@ -35,12 +35,4 @@ Due to her mech being reused for the Wolf Pack 5, we have a better idea of her m
 * Body lean
 * Torso right
 
-## Gallery ##
-<gallery>
-File:beatrice2.jpg|Americana Amusement Park
-File:morey_stgrght.jpg|Morey's Piers
-File:WH_gram.jpg|(2003)
-File:WH2005_gram.jpg|(2005)
-File:gmbclaws.jpg|Claws
-File:bmask.jpg|Mask
-</gallery>
+

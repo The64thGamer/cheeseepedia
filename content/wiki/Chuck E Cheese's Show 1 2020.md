@@ -6,7 +6,7 @@ date = 2024-04-06T18:44:41Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","Ceclife13","Mousester","GallaRBX2","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 2 2020
@@ -24,37 +24,37 @@ gallery = []
 
 # **Intermission 1**
 ## Fun Songs - 'It's Chuck E.'
-## **[[File:New Graphic.png]]** KIDZ BOP Kids - 'Sorry Not Sorry'
-## **[[File:New Graphic.png]]** Discovery Familia - Doki - 'Expression 80's'
-# **[[File:New Graphic.png]] Skit 1**
+## **** KIDZ BOP Kids - 'Sorry Not Sorry'
+## **** Discovery Familia - Doki - 'Expression 80's'
+# ** Skit 1**
 ## Helen Henny's - 'Game On!'
 # **Intermission 2**
-## **[[File:New Graphic.png]]** Universal Kids - 'Power Birds 1'
-## **[[File:New Graphic.png]]** Andy Grammer - 'She'd Say'
+## **** Universal Kids - 'Power Birds 1'
+## **** Andy Grammer - 'She'd Say'
 ## Fun Songs - 'Oh Helen Henny'
-## **[[File:New Graphic.png]]** Panic! At the Disco - 'Into The Unknown'
-## **[[File:New Graphic.png]]** Tails of Friendship Ep3, - 'Pink Frosted Donuts'
+## **** Panic! At the Disco - 'Into The Unknown'
+## **** Tails of Friendship Ep3, - 'Pink Frosted Donuts'
 # **Skit 2**
 ## Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
 # **Intermission 3**
-## **[[File:New Graphic.png]]** Universal Kids - 'Floogals'
-## **[[File:New Graphic.png]]** Dandy Aridi - 'Let Go'
+## **** Universal Kids - 'Floogals'
+## **** Dandy Aridi - 'Let Go'
 ## Fun Songs - 'Oh Oh Oh Pasqually'
-## **[[File:New Graphic.png]]** Matt Nathanson - 'Modern Love:
-## **[[File:New Graphic.png]]** Universal Kids - 'American Ninja Warrior Jr'
+## **** Matt Nathanson - 'Modern Love:
+## **** Universal Kids - 'American Ninja Warrior Jr'
 ## Fun Songs - 'Unicorn, Unicorn!'
 # **Skit 3**
 ## Chuck E. & Friends - 'Play All You Can Play'
 # **Intermission 4**
-## **[[File:New Graphic.png]]** MOTi - 'Just Don't Know It Yet'
-## **[[File:New Graphic.png]]** Universal Kids - 'Power Birds 2'
+## **** MOTi - 'Just Don't Know It Yet'
+## **** Universal Kids - 'Power Birds 2'
 ## Fun Songs - 'He's Mr. Munch'
-# **[[File:New Graphic.png]]Skit 4**
+# **Skit 4**
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
 # **Intermission 5**
 ## Fun Songs - 'Jasper T. Jowls'
 ## JD McCary - 'Keep In Touch'
-## **[[File:New Graphic.png]]** Nigel & Ronnie - 'The Fly'
+## **** Nigel & Ronnie - 'The Fly'
 # **Skit 5**
 ## Chuck E. & Friends - 'Chuck E.'s Place'
 
@@ -75,12 +75,7 @@ gallery = []
 * Happy and You Know It (Studio C, Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show120cd.png|Studio C Install CD
-C976AA9D-D595-45F1-96F2-BE4B8C1BDB76.png|Studio C DVD
-Show120.png|CEC Stage DVD
-Show120203stg.png|3-Stage DVD
-</gallery>
+
 
 ##Official Releases##
 

@@ -6,7 +6,7 @@ date = 2024-05-26T02:37:42Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","CECCheese","2601:188:CA81:2BE0:D0B6:F932:6925:FFC3","47.17.236.200","CorrectorMan","Cheeseclassic","Tux Chuck","Harchambeault2026"]
-gallery = ["Exterior,","Newington","Newington's","Pizza","Newington","Newington"]
+gallery = []
 +++
 {{Generic|desc=Exterior, 2018.|image=NewingtonNHCECExteriorPreClosure.jpeg}}
 **_Newington, NH (30 Fox Run Rd), Store #471**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre_ that opened in August 1983 and closed on March 31st, 2018.
@@ -111,15 +111,8 @@ In January 2018, it was announced that Planet Fitness, which previously had its 
 |Unknown
 |Originally from [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}), Unknown/Destroyed.
 |}
-##Gallery##
-[https://www.showbizpizza.com/photos/cec/nh_newington/index.html 2002]<gallery>
-File:Exterior, 2002.jpg|Exterior, 2002 (PC: showbizpizza.com)
-File:Newington Stage 2002.jpg|The Kings stage with The Video Velociter, 2002 (PC: showbizpizza.com)
-File:Newington's Lounge Room.jpg|Lounge Room, 2002 (PC: showbizpizza.com)
-File:Pizza Wars Poster.jpg|Pizza Wars Artwork, 2002 (PC: showbizpizza.com)
-File:Newington Chuck E. Animatronic 2010s.jpg|The Chuck E. Animatronic in the early 2010s with the rare Cool Chuck outfit.
-File:Newington 2-Stage.png|A photo of the store's 2-Stage on July 22, 2016.
-</gallery>
+
+[https://www.showbizpizza.com/photos/cec/nh_newington/index.html 2002]
 
 ##Videos##
 {| class='wikitable'

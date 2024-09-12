@@ -6,9 +6,9 @@ date = 2023-09-30T03:46:16Z
 
 [Article]
 contributors = ["Rexburg090","CorrectorMan","2601:601:9C00:9490:6570:B2C8:A6C7:C40C"]
-gallery = []
+gallery = ["Richland.jpg|thumb|Richland's exterior. (PC: Google Maps)"]
 +++
-[[File:Richland.jpg|thumb|Richland's exterior. (PC: Google Maps)]]
+
 **_2610 N Columbia Center Blvd, Store #222/3047**_ was a _Pizza Time Theatre_/_Chuck E. Cheese's Pizza_/Chuck E. Cheese's that opened on September 30th, 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on September 9th, 2018 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}).
 
 The store would relocate to [Kennewick, WA (6340 W Rio Grande Ave)]({{< ref "wiki/Kennewick, WA (6340 W Rio Grande Ave).md" >}}) with a 2017 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) (later upgrading to a 2021 Model with a Video Wall) and was the state's very first 2.0 location.
@@ -86,7 +86,7 @@ Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washi
 |Unknown
 |}
 
-## Gallery ##
+
 TODO
 
 ## Videos ##

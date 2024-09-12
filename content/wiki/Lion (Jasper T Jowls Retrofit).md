@@ -6,7 +6,7 @@ date = 2024-08-17T14:59:24Z
 
 [Article]
 contributors = ["StudioC","2603:9000:A500:1DBD:39A1:BCF1:A5A5:D5F6","Saan1ty","PizzaEntertainmentFanX","BenTrainFan2000"]
-gallery = ["FZ&P"]
+gallery = []
 +++
 {{Generic|image=Fpplion.png|desc=The Bot In the infamous 'No More Chuck E. Cheese' Video.}}
 
@@ -56,7 +56,4 @@ When Fun Zone & Pizza closed in September 2011, the characters were stripped fro
 |Removed when retrofitted
 |}
 
-## Gallery ##
-<gallery>
-File:FZ&P 2-Stage.png|The Lion in a broad View of the stage's left stage.
-</gallery>
+

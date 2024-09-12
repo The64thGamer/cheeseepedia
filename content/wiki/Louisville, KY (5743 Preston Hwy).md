@@ -6,7 +6,7 @@ date = 2024-07-30T15:19:01Z
 
 [Article]
 contributors = ["Midwestretail","ChuckECool","Rexburg090","SuperCreamPiper2008","The 64th Gamer","ItzaRob","Krimet Hetgrof","Documentor","CoolerDude","PachCEC","JND","Jaxonia","AstridMascotFan2005"]
-gallery = ["Uh3u34uyh345yuh4545huw45h4w35h4w5h4.png|Balcony","6j6jw56jw645wj6wj4j6wj6j6w6jw46wwthrth5r.png|The","Rehn4j4j45j43h3hy3yh.png|C-Stage","53jhnj4h35h53435h.jpg|C-Stage","Wrhtj6e35yuh456je.jpg|C-Stage","H46hj46jwj646wj.jpg|C-Stage","F4gh34h3h.jpg|Arcade","Rtyhj45er456rkj45j.jpg|Drinks","W646jw4w6j4w6j46jw.jpg|Arcade","457j5j6346uj43j3.jpg|Prize","Rebkbjne","J445uh465jr.jpg|The","G34fgdgj546jbg.jpg|Animatronics","J45645j45j45j3.jpg|Animatronics","Gh435h4h34hreg.jpg|Switch","Ihrebgejhrgbjerhgb.jpg|Switch","PIC"]
+gallery = []
 +++
 {{Generic|image=Preston1990s.jpg|desc=Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)}}
 
@@ -64,26 +64,8 @@ In November 1997, this store closed permanently. It is unknown why exactly the s
 |1993
 |March 12, 2024
 |}
-## Gallery ##
-<gallery>
-File:Uh3u34uyh345yuh4545huw45h4w35h4w5h4.png|Balcony Stage (1980s)
-File:6j6jw56jw645wj6wj4j6wj6j6w6jw46wwthrth5r.png|The King (1980s)
-File:Rehn4j4j45j43h3hy3yh.png|C-Stage (1990s)
-File:53jhnj4h35h53435h.jpg|C-Stage (1990s)
-File:Wrhtj6e35yuh456je.jpg|C-Stage (1990s)
-File:H46hj46jwj646wj.jpg|C-Stage (1990s)
-File:F4gh34h3h.jpg|Arcade (1990s)
-File:Rtyhj45er456rkj45j.jpg|Drinks & Salad Bar (1990s)
-File:W646jw4w6j4w6j46jw.jpg|Arcade (1990s)
-File:457j5j6346uj43j3.jpg|Prize Counter (1990s)
-File:Rebkbjne rkbjne.jpg|Prize Counter (1990s)
-File:J445uh465jr.jpg|The King (1990s)
-File:G34fgdgj546jbg.jpg|Animatronics (January 13, 2024)
-File:J45645j45j45j3.jpg|Animatronics (January 13, 2024)
-File:Gh435h4h34hreg.jpg|Switch Box (January 13, 2024)
-File:Ihrebgejhrgbjerhgb.jpg|Switch Box (January 13, 2024)
-File:PIC 1373.jpeg|Exterior in 1993 (Pic: The CEC Gal)
-</gallery>
+
+
 ## Animatronics ##
 {| class='wikitable'
 !Animatronic

@@ -6,9 +6,9 @@ date = 2024-07-12T23:50:08Z
 
 [Article]
 contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
-gallery = ["I"]
+gallery = ["West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>"]
 +++
-[[File:West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>]]
+
 **_155 Sunrise Hwy, Store #511**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998.
 
 ## Stage ##
@@ -94,9 +94,7 @@ on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel P
 |July 12, 2024
 |}
 
-## Gallery ##
-<gallery>
-File:I don't know what to name this..jpg|Before 2016
-</gallery>
+
+
 
 ## References ##

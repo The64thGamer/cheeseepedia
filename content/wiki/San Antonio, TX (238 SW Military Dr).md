@@ -6,9 +6,9 @@ date = 2024-07-13T01:47:54Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","CEC Tinley","Stripes","Gostapua210"]
-gallery = ["Exterior2007DecemberGoogleMaps.png|thumb|Street","SanAntionioMilitaryDr2StageJanuary2008.jpg|thumb|The","SanAntonioMilitaryShowroomJanuary2008.jpg|thumb|The","SanAntionioTXMilitaryFullStage2011.jpg|thumb|The","SanAntionioTXMilitaryFullStage2012.jpg|thumb|The","SanAntonioMilitaryExteriorBefore2.0Remodel.jpg|thumb|The"]
+gallery = ["SanAntonioMilitaryDrExterior2019AprilGoogleMaps.png|thumb|Street view of the exterior in April 2019 (PC: Google Maps)"]
 +++
-[[File:SanAntonioMilitaryDrExterior2019AprilGoogleMaps.png|thumb|Street view of the exterior in April 2019 (PC: Google Maps)]]
+
 **_238 SW Military Dr, Store #417**_ was a Pizza Time Theatre that opened in September 1981 (day unknown) with a Balcony Stage and is still open to this day.
 
 It is located next to many businesses, all were formerly a Kmart (Which in turn was a former Globe Discount City) which opened on October 19th, 1978, and closed April 13th, 2003. 
@@ -110,16 +110,9 @@ Originally when the store opened, they had a Balcony Stage like most PTT locatio
 |N/A
 |Unknown
 |}
-##Gallery##
+
 [https://www.showbizpizza.com/photos/cec/tx_military/index.html 2002-2004]
-<gallery>
-File:Exterior2007DecemberGoogleMaps.png|thumb|Street view of the store's exterior in December 2007 before the 2005 Remodel (PC: Google Maps)
-File:SanAntionioMilitaryDr2StageJanuary2008.jpg|thumb|The store's 2-Stage back in January 2008. It was relocated into a new part of the store during the 2005 Remodel.
-File:SanAntonioMilitaryShowroomJanuary2008.jpg|thumb|The store's Showroom back in January 2008. During the 2005 Remodel, this was replaced with more games as it was a lot smaller before then.
-File:SanAntionioTXMilitaryFullStage2011.jpg|thumb|The store's 2-Stage after the 2005 Remodel and before the Cool Chuck outfit was replaced with the Avenger outfit (6/17/2011) (PC: Cheri G on Foursquare)
-File:SanAntionioTXMilitaryFullStage2012.jpg|thumb|The store's 2-Stage after the 2005 Remodel and after the Cool Chuck outfit was replaced with the Avenger outfit (4/16/2012) (PC: Jaysyn L on Foursquare)
-File:SanAntonioMilitaryExteriorBefore2.0Remodel.jpg|thumb|The store's exterior before the 2.0 Remodel
-</gallery>
+
 
 ##References##
 <references />

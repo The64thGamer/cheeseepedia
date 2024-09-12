@@ -6,7 +6,7 @@ date = 2024-05-14T19:41:47Z
 
 [Article]
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
-gallery = ["Waco3.png|Front","Waco2.png|Salad","Waco4.png|Play","Waco5.png|Show"]
+gallery = []
 +++
 {{Generic|image=waco1.png|desc=Waco, TX exterior in the 1980s.}}
 
@@ -28,13 +28,8 @@ Identified machines.
 *[https://www.arcade-museum.com/game_detail.php?game_id=19660 Bozo The Clown Grand Prize Game]
 *TMNT 1989 Arcade Game
 
-##Gallery##
-<gallery>
-File:Waco3.png|Front area with the prize and ordering areas combined.
-File:Waco2.png|Salad Bar
-File:Waco4.png|Play Area
-File:Waco5.png|Show Room
-</gallery>
+
+
 
 ##Animatronics##
 The Rock-Afire Explosion from this location are thought to be reused from a previously closed store, as Creative Engineering has since parted with Showbiz Pizza Time by the locations debut. The characters' serials or whereabouts are currently unknown.

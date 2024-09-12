@@ -6,7 +6,7 @@ date = 2023-08-11T07:37:16Z
 
 [Article]
 contributors = ["Ceclife13","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Summertime 2006
@@ -35,7 +35,7 @@ gallery = []
 ##'Havin' Fun at The Beach'
 #**Intermission 2** 
 ##CEC TV ID - 'Janitor'
-##[[File:New Graphic.png]]  Arthur's Missing Pal DVD Promo
+##  Arthur's Missing Pal DVD Promo
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
 ##Countdown
@@ -52,7 +52,7 @@ gallery = []
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
 # **Intermission 4** 
 ## Cinemark Summer Movie Clubhouse Spot
-##[[File:New Graphic.png]] Saving Shiloh DVD Promo
+## Saving Shiloh DVD Promo
 ##CEC TV ID - 'Haircut'
 ##Monkey Ninjas - Episode 6
 ##CEC TV ID - 'Singing Animals'

@@ -6,7 +6,7 @@ date = 2024-06-25T18:40:28Z
 
 [Article]
 contributors = ["FileFickle","MrKingoDingoBingo"]
-gallery = ["fred1.jpg|Friendly","fred22.jpg|","fred3.jpg|","fred4.jpg|Freddy","fredmagix.jpg|","cei_gore.png|Internal","fredcu.jpg|Ditto","General_Cornelius_Bearpatch_black_and_white.jpg|"]
+gallery = ["Fred2.png|thumb|304x304px","Fred.png|thumb|346x346px"]
 +++
 {{Animatronic|releasedate=1977|manufacturer=Creative Engineering|image=friedfreddy.png}}
 
@@ -29,19 +29,10 @@ TODO
 * Left leg raise
 * Right leg raise
 
-## Gallery ##
-[[File:Fred2.png|thumb|304x304px]]
-<gallery>
-File:fred1.jpg|Friendly Freddy at the IAAPA (1977)
-File:fred22.jpg|
-File:fred3.jpg|
-File:fred4.jpg|Freddy with Dracula
-File:fredmagix.jpg| Freddy at Magic World Kid's Park (1977)
-File:cei_gore.png|Internal Mechanisms (1977)
-File:fredcu.jpg|Ditto
-File:General_Cornelius_Bearpatch_black_and_white.jpg| Being converted into 'General Cornelius Bearpatch' for the [Confederate Critter Show]({{< ref "wiki/Confederate Critter Show.md" >}}) (1978)
-</gallery>
-[[File:Fred.png|thumb|346x346px]]
+
+
+
+
 
 ## Footage ##
 {| class='wikitable'

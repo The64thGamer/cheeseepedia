@@ -6,7 +6,7 @@ date = 2024-07-15T17:18:31Z
 
 [Article]
 contributors = ["Rexburg090","Midwestretail","ThatBoiCydalan","CECswag2009"]
-gallery = ["PortGratiotMIExteriorBeforeClosure.jpg||Another","FortGratiotSmallTownStudioC.jpg|A"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=FortGratiotMIExterior2004.png|desc=A photo of the store's exterior not long after opening (PC; thetimesherald.com).}}
 **_4350 24th Ave, Store #700**_ was a Chuck E. Cheese's in Fort Gratiot / Port Huron, MI. The store opened on July 8th, 2004 with a Small-Town Studio C. The store closed on July 14th, 2014 after 10 years of Operation.
@@ -37,11 +37,8 @@ The store opened on July 8th, 2004 with the Small-Town Studio C & the Cool Chuck
 |Unknown
 |Unknown, Likely Destroyed Or Used for Parts
 |}
-##Gallery##
-<gallery>
-File:PortGratiotMIExteriorBeforeClosure.jpg||Another photo of the store's Exterior (PC: Lorie Harding)
-File:FortGratiotSmallTownStudioC.jpg|A photo of the store's Small-Town Studio C (9/19/2011) (PC: ᴡ Labadie)
-</gallery>
+
+
 
 ##Videos##
 ##References##

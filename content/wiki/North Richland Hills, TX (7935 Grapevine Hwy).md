@@ -6,7 +6,7 @@ date = 2024-07-29T21:41:12Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]
-gallery = ["NorthRichlandHillsShowbizPizzaExterior.png|North","Countrycenter2.png","countrycenter4.png","country1.jpg","country2.jpg","country4.jpg|The","stageright1.png|The","stageleft","NorthRichlandHillsExterior2008AprilGoogleMaps.png|Street","NorthRichlandHillsExterior2021FebruaryGoogleMaps.png|Street"]
+gallery = []
 +++
 {{Generic|image=Richlandhills.jpg|desc=Exterior of the location in 2022 after the awnings were removed.}}
 **_7935 Grapevine Hwy, Store #579**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
@@ -97,19 +97,8 @@ In May 2023, the stage was removed as this location received the 2.0 remodel.
 |April 2022
 |May 3, 2022
 |}
-##Gallery##
-<gallery>
-File:NorthRichlandHillsShowbizPizzaExterior.png|North Richland Hills' exterior as a Showbiz Pizza Place.
-File:Countrycenter2.png
-File:countrycenter4.png
-File:country1.jpg
-File:country2.jpg
-File:country4.jpg|The Store's Fatz Germonino animatronic
-File:stageright1.png|The Store's Klunk animatronic
-File:stageleft (2).png|The Store's Billy Bob Animatronic
-File:NorthRichlandHillsExterior2008AprilGoogleMaps.png|Street View of the store's Exterior in April 2008 before the expansion (PC: Google Maps)
-File:NorthRichlandHillsExterior2021FebruaryGoogleMaps.png|Street View of the store's Exterior in February 2021 back when they still had awnings (PC: Google Maps)
-</gallery>
+
+
 
 
 ##Animatronics##

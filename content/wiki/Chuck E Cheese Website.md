@@ -6,13 +6,13 @@ date = 2022-09-05T21:30:34Z
 
 [Article]
 contributors = ["The 64th Gamer","BurgersNuggs445"]
-gallery = []
+gallery = ["Chuckecheesesite 2022.png|thumb|366x366px|chuckecheese.com in 2022","Cec fun net screenshot.jpg|thumb|284x284px|The earliest screenshot of chuckecheese.com"]
 +++
-[[File:Chuckecheesesite 2022.png|thumb|366x366px|chuckecheese.com in 2022]]
+
 [https://www.chuckecheese.com/ **_chuckecheese.com**_], also known originally as **_Chuck E.'s Fun Net,**_ would be the company's first website and online presence, created on February 2, 1996.
 
 ## History ##
-[[File:Cec fun net screenshot.jpg|thumb|284x284px|The earliest screenshot of chuckecheese.com]]
+
 TODO: History of changes, advertisements in showtapes, ect.
 
 ### Redirect Site ###

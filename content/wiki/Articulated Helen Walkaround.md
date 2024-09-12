@@ -6,7 +6,7 @@ date = 2024-04-08T02:16:53Z
 
 [Article]
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]
-gallery = ["ArticulatedHelenSequin.jpg|Helen","Cheerpurp.png|The"]
+gallery = []
 +++
 {{Generic|image=Cheerart.png|desc=Articulated Helen Henny}}
 
@@ -29,8 +29,4 @@ The walkaround is based off of the standard Helen used in stores from 1994 to th
 * August 1997
 * Chuck E. Cheese in the Galaxy 5000.
 
-## Gallery ##
-<gallery>
-File:ArticulatedHelenSequin.jpg|Helen with sequin dress
-File:Cheerpurp.png|The updated walkaround seen in the Galaxy 5000 Movie
-</gallery>
+

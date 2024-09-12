@@ -6,7 +6,7 @@ date = 2023-05-02T02:29:11Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape | title = CEC Movie Magic
 | date =December 19, 1986
@@ -16,7 +16,7 @@ gallery = []
 **_CEC Movie Magic**_ is a show consisting of three 15 minute segments which released on December 19, 1986. It was the first show to use Cybervision.  
 ##Segments:##
 It is currently unclear if the known segment list is the exact order from the showtape.
-*[[File:New Graphic.png]] Movie Magic
+* Movie Magic
 **[https://en.wikipedia.org/wiki/Hooray_for_Hollywood Hooray for Hollywood]
 **[https://en.wikipedia.org/wiki/Ghostbusters_(song) Ghostbusters]
 **[https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song) Back In Time]
@@ -27,7 +27,7 @@ It is currently unclear if the known segment list is the exact order from the sh
 ***[https://en.wikipedia.org/wiki/Over_the_Rainbow Somewhere Over The Rainbow]
 ***[https://en.wikipedia.org/wiki/The_Wiz_(soundtrack) I'm A Mean Ole Lion]
 ***[https://en.wikipedia.org/wiki/The_Wiz_(soundtrack) Don't You Bring Me No Bad News]
-*[[File:New Graphic.png]] TV Themes
+* TV Themes
 **[https://en.wikipedia.org/wiki/Mister_Ed _Mister Ed_ theme]
 **[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) _Flipper_ theme]
 **[https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood_(TV_series) 'The Adventures of Robin Hood' theme]
@@ -57,7 +57,7 @@ It is currently unclear if the known segment list is the exact order from the sh
 **[https://en.wikipedia.org/wiki/Funeral_March_of_a_Marionette Funeral March of a Marionette]
 **[https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series) 'The Twilight Zone' theme]
 **[https://en.wikipedia.org/wiki/Howdy_Doody 'Howdy Doody' theme]
-*[[File:New Graphic.png]] History of Rock and Roll Part 2 
+* History of Rock and Roll Part 2 
 **1965 Songs Medley
 ***[https://en.wikipedia.org/wiki/Help!_(song) Help!]
 ***[https://en.wikipedia.org/wiki/I_Can%27t_Help_Myself_(Sugar_Pie_Honey_Bunch) I Can't Help Myself (Sugar Pie Honey Bunch)]

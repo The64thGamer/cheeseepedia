@@ -6,7 +6,7 @@ date = 2024-02-03T04:59:44Z
 
 [Article]
 contributors = ["ChuckECool","The 64th Gamer","BigCtheDataFinder"]
-gallery = ["IMG","IMG","IMG","IMG","IMG"]
+gallery = []
 +++
 {{Generic|image=Greensvilleaug2023.png|desc=Exterior (August 2023)}}
 
@@ -117,11 +117,4 @@ Greenville would premiere with a Classic Rock-afire Explosion, as other ShowBiz 
 |N/A
 |Unknown
 |}
-##Gallery##
-<gallery>
-File:IMG 20240202 214253.png|Stage Right (1998)
-File:IMG 20240202 214254.png|Center Stage (1998)
-File:IMG 20240202 214256.png|Stage Left (1998)
-File:IMG 20240202 214257.png|Showroom (1998)
-File:IMG 20240202 214259.png|Showroom (1998)
-</gallery>
+

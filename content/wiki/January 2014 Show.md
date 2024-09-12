@@ -6,7 +6,7 @@ date = 2023-08-16T21:57:47Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","Himitsu","CyCGM","RedaCEC","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's First Quarter2014 Show
@@ -24,36 +24,36 @@ This was created to play from January 1st - March 31st 2014.
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Segment 1**
+#  **Segment 1**
 ##- 'She Loves You'
-#[[File:New Graphic.png]] **Intermission 1** 
+# **Intermission 1** 
 ## - Transformers Recuse Bots (USA Only)
 ## - Helen Henny's Hollywood - 'Sean's Pen'
 ## - Show Break 1
 ##CEC TV ID 'Break Dance'
 
-#[[File:New Graphic.png]] **Segment 2**
+# **Segment 2**
 ##- 'Good Vibrations
 ##- 'Rock N' Roll All Nite'
-#[[File:New Graphic.png]] **Intermission 2** 
+# **Intermission 2** 
 ##- My Little Pony (USA Only)
 ##- Cloudy With A Chance of Meatballs 2 Promo
 ##- CEC Live Promo
 ##- Show Break 2
 ##- CEC TV ID 'Couch'
 
-#[[File:New Graphic.png]] **Segment 3**
+# **Segment 3**
 ## - 'I Want Crazy'
-#[[File:New Graphic.png]] **Intermission 3**
+# **Intermission 3**
 ##- Littlest Pet Shop (USA Only)
 ##- Baking with Betty - 'Topas'
 ##- Show Break 3
 ##CEC TV ID - 'Skeeball'
 
-#[[File:New Graphic.png]]**Segment 4**
+#**Segment 4**
 ##- 'Carry On Wayward Son'
 ##- 'I Melt With You'
-#[[File:New Graphic.png]] **Intermission 4**
+# **Intermission 4**
 ##- Kittens In The Kitchen Wearing Mittens
 ##- Cloudy With A Chance of Meatballs 2 Trailer
 ##- Chill Out 4
@@ -72,9 +72,7 @@ This was created to play from January 1st - March 31st 2014.
 *Old Mac Donald Live (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-s-l1600 (12).jpg|CEC-Stage DVD
-</gallery>
+
 
 ##Trivia:##
 

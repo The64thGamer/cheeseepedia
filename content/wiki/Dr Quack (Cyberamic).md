@@ -6,7 +6,7 @@ date = 2024-05-13T10:40:52Z
 
 [Article]
 contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]
-gallery = ["Dr"]
+gallery = []
 +++
 {{Generic|image=Dr Quack Thumbnail.png|desc=Dr. Quack}}
 
@@ -21,9 +21,7 @@ It is unclear when Dr. Quack appeared at the Simi Valley location, though it wou
 
 Going off of what we know about the showtape, it can be assumed that this cabaret act was aimed toward younger and preschool-age kids, as opposed to other cabaret acts which were aimed at a general audience.
 
-## Gallery ##
-<gallery>
-File:Dr quack.png|Alternate Photo
-</gallery>
+
+
 
 ## References ##

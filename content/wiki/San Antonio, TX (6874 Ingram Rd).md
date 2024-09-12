@@ -6,7 +6,7 @@ date = 2024-08-30T00:33:12Z
 
 [Article]
 contributors = ["ChuckECool","RedaCEC","Rexburg090","2607:FB90:EDA3:D81D:29F5:B7AF:8C7E:4B46","Gostapua210","Cheeseclassic","CECMadison"]
-gallery = ["451460510","452560190","Screenshot","Screenshot","Screenshot","Screenshot","Source-","16057216"]
+gallery = []
 +++
 {{Generic|image=Screenshot 20240614-190458.png|desc=Exterior in June 2024}}
 **_6874 Ingram Rd, Store #98**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on June 10, 1981 as a corporate _Showbiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Oldest operating store in Texas after the closure of Arlington, TX (2216 S Fielder Rd)
@@ -119,30 +119,13 @@ In April 2024, San Antonio added the video wall and upgraded to a 2021 model Dan
 |N/A
 |Unknown/Destroyed
 |}
-##Gallery##
+
 [https://www.showbizpizza.com/photos/spp/tx_sanantonio/index.html 1980's (Unknown Year)]
 
 [https://www.showbizpizza.com/photos/spp/tx_ingram/index.html 1987]
 [https://www.showbizpizza.com/photos/cec/tx_ingram/index.html 1996-2007]
 
-<gallery>
 
-File:451460510 1888924078291668 1173398623717494852 n.jpg|thumb|Circles of Light
-
-File:452560190 492803950001654 5592881915018934951 n.jpg|thumb|phase 3 exterior
-
-File:Screenshot 2024-07-12 9.37.54 AM.png|thumb|December 2013
-
-File:Screenshot 2024-07-12 9.35.41 AM.png|thumb|July 2012
-
-File:Screenshot 20240706-140000.png|stage behind circles of light after removal of bots
-
-File:Screenshot 20240706-135935.png|animatronics behind circles of light before removal
-
-File:Source- foursquare.jpg|Ingram's 3-stage in 2013 after the Ben White bot swap
-
-File:16057216 83seKeuz7CZm93q80keh644XaZ9rYQ6K6EdbvdTVomA.jpg|Pasqually's stage with better look at the wood paneling
-</gallery>
 ##Videos##
 {| class='wikitable'
 |+

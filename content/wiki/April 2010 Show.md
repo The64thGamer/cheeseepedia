@@ -93,11 +93,7 @@ This show played from April - June 2010.
 ## The Zula Patrol - 'Hey!, I'm A Butterfly'
 
 ##Showtape Scans / Images:##
-<gallery>
-erfeferferf.jpg|3-Stage DVD
-April10StudioC.png|Studio C DVD
-April10DVD3.png|Studio C DVD 3
-</gallery>
+
 
 ## Lives: ##
 

@@ -6,7 +6,7 @@ date = 2024-07-27T21:03:02Z
 
 [Article]
 contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu","StudioC","MultiMonorail","CyCGM","The 64th Gamer","201.75.170.163","RedaCEC","2601:243:815:C6A:2442:4566:5334:C792","Rexburg090","2600:1004:B182:AFA6:E06A:952D:A175:4BF0","Midwestretail","CEC Tinley","CorrectorMan","Saan1ty","PizzaEntertainmentFanX","Cy's Junk at School","Cheeseclassic","AstridMascotFan2005"]
-gallery = ["Screenshot","Img.jpg|Chico","Screenshot","P12.png|Chico","43062059","Unk12nown.png|Cool","Unknown","Counter.jpg|Some","1003205","Chico2.png|Avenger","Super.png|Super","Chico1.jpg|Chuck","U41nknown.png|Avenger","27.png|Helen,","P-1.png|Birthday","Im241age0.png|The","Image0-85.png|Some","O.png|Exterior","Ima421ge.jpg|Another","Unk5321nown.png|Fun","Ima1ge0.jpg|Chico","Im241age.jpg|Chico","Image","Image","Image","Image","Dino.png|Photo","Dog.png|Photo","Lion.png|Photo","Cow.png|Photo"]
+gallery = []
 +++
 {{Generic|image=Unkn421ow543n.png|desc=Chico, CA exterior, September 2010, still with the SPT 1992 Remodel exterior.}}**_Chico, California, 966 East Ave, Store #230/3039**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in July 1982 with a Balcony stage and closed on January 11th, 2011 as the only [Fun Zone & Pizza]({{< ref "wiki/Fun Zone & Pizza.md" >}}).
 ##Stages##
@@ -119,39 +119,8 @@ After the franchisee left the location for good, the store became a seasonal Hal
 |The vacant building 4 years later
 |2015
 |}
-##Gallery##
-<gallery>
-File:Screenshot 20211030-133622 Chrome.jpg|Chico's balcony stage
-File:Img.jpg|Chico PTT ad
-File:Screenshot 2022-08-06 005644.png|Chico PTT ad for the Salad Bar
-File:P12.png|Chico as a Pizza Time Theatre
-File:43062059 2118022421555415 396322333486219264 n.png|The King at Chico
-File:Unk12nown.png|Cool Chuck walkaround, presumably taken sometime in the 90s
-File:Unknown 1 1.png|Some of the Gameroom
-File:Counter.jpg|Some of the main counters
-File:1003205 557054194358564 205067494 n.png|Walkaround with a 90s vest
-File:Chico2.png|Avenger walkaround in the showroom
-File:Super.png|Super Chuck in the showroom
-File:Chico1.jpg|Chuck E. Cyberamic
-File:U41nknown.png|Avenger walkaround and animatronics
-File:27.png|Helen, Munch, and Jasper
-File:P-1.png|Birthday photo taken inside the showroom
-File:Im241age0.png|The Gameroom
-File:Image0-85.png|Some of the Gameroom and Showroom
-File:O.png|Exterior from presumably 2011
-File:Ima421ge.jpg|Another exterior photo of Chico
-File:Unk5321nown.png|Fun Zone & Pizza exterior
-File:Ima1ge0.jpg|Chico being demolished
-File:Im241age.jpg|Chico as it stands today
-File:Image 2022-08-06 003222196.png|Chico yelp review 1
-File:Image 2022-08-06 003418086.png|Chico yelp review 2
-File:Image 2022-08-06 003456393.png|Chico yelp review 3
-File:Image 2022-08-06 003542832.png|Chico yelp review 4
-File:Dino.png|Photo of the Dinosaur costume used at the location on the Facebook marketplace
-File:Dog.png|Photo of the Dog costume used at the location on the Facebook marketplace
-File:Lion.png|Photo of the Lion costume used at the location on the Facebook marketplace
-File:Cow.png|Photo of the Cow costume used at the location on the Facebook marketplace
-</gallery>
+
+
 ##Animatronics##
 {| class='wikitable'
 |+

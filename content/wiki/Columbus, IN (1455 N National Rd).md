@@ -38,9 +38,7 @@ The Columbus, Indiana location opened in December 2004 as a Phase 3 store with a
 |Unknown.
 |}
 
-## Gallery ##
-<gallery> 
-File: Columbus, Indiana after closure .jpg|Exterior after closure (PC: @slacking.packing)
-</gallery>
+
+
 ## References ##
 <references />

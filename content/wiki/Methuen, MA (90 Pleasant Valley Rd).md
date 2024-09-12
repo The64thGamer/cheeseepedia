@@ -6,7 +6,7 @@ date = 2024-08-18T21:46:45Z
 
 [Article]
 contributors = ["Destinationimagination95","Rexburg090","Harchambeault2026","CECCheese","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
-gallery = ["Methuen","MassLive"]
+gallery = []
 +++
 {{Generic|image=Methuen Exterior before 2.0.jpg|desc=Exterior, April 2024 (PC: dmckill on Instagram)}}
 **_90 Pleasant Valley Rd, Store #752**_ is a _Chuck E. Cheese's_ location that opened on August 28th, 2000. It's located in a shopping plaza called 'The Loop'.
@@ -70,11 +70,8 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 |Unknown, Likely Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:Methuen Studio C Alpha (January 2001).jpg|A screenshot from a YouTube video of the store's Studio C Alpha back in January 2001 (PC: chuckecheeseshows on YouTube)
-File:MassLive Promotional Photo of Methuen's Studio C Alpha.jpg|MassLive Promotional Photo (June 2024)<ref>https://www.masslive.com/entertainment/2024/06/only-2-mass-chuck-e-cheeses-still-have-animatronics-but-thats-about-to-change.html</ref>
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

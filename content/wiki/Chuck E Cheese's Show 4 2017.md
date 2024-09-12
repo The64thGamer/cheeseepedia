@@ -6,7 +6,7 @@ date = 2024-04-17T19:32:33Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","2600:6C46:4A00:A2F:5510:397C:1D6D:FD70","Ceclife13","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show  2017
@@ -26,41 +26,41 @@ This was created to play from June 19, 2017. - August 20, 2017. This show featur
 ## Show List: ##
 
 # **Intermission 1**
-## [[File:New Graphic.png]] Kool & The Gang - 'Celebration' (1970s)
+##  Kool & The Gang - 'Celebration' (1970s)
 ## CEC Promo - 'Carl Clean'
-## [[File:New Graphic.png]] Sprout - 'Ollie and Moon'
+##  Sprout - 'Ollie and Moon'
 # **Skit 1**
 ## Chuck E. Cheese - 'Let's Have A Party'
 # **Intermission 2**
-## [[File:New Graphic.png]] Electrical Light Orchestra - 'Mr. Blue Sky' (1970s)
-## [[File:New Graphic.png]] Jim Henson - 'Splash & Bubbles'
-## [[File:New Graphic.png]] CEC Sketch - 'Fun Check'
-## [[File:New Graphic.png]] CEC Promo - TV Spot - 'Summer of Fun'
-## [[File:New Graphic.png]] Lionel Richie - 'Dancing On The Ceiling' (1980s)
+##  Electrical Light Orchestra - 'Mr. Blue Sky' (1970s)
+##  Jim Henson - 'Splash & Bubbles'
+##  CEC Sketch - 'Fun Check'
+##  CEC Promo - TV Spot - 'Summer of Fun'
+##  Lionel Richie - 'Dancing On The Ceiling' (1980s)
 ## CEC Promo - 'Ticket Dance'
 # **Skit 2**
 ## Chuck E. Cheese & Friends - 'Friendship Never Ends'
 # **Intermission 3**
-## [[File:New Graphic.png]] a-ha - 'Take On Me' (1980s)
+##  a-ha - 'Take On Me' (1980s)
 ## CEC Promo - 'Buffet'
-## [[File:New Graphic.png]] Backstreet Boys - 'I Want It That Way' (1990s)
-## [[File:New Graphic.png]] CEC Promo  - Birthday TV Spot - 'Cotton Candy'
-## [[File:New Graphic.png]] Spin Doctors - 'Two Princes' (1990s)
-## [[File:New Graphic.png]] Discovery Family - 'My Little Pony Friendship Is Magic'
+##  Backstreet Boys - 'I Want It That Way' (1990s)
+##  CEC Promo  - Birthday TV Spot - 'Cotton Candy'
+##  Spin Doctors - 'Two Princes' (1990s)
+##  Discovery Family - 'My Little Pony Friendship Is Magic'
 # **Skit 3**
 ## Chuck E. Cheese & Friends - 'Chuck E.'s Place'
 # **Intermission 4**
-## [[File:New Graphic.png]] Kelly Clarkson - 'Since U Been Gone' (2000s)
+##  Kelly Clarkson - 'Since U Been Gone' (2000s)
 ## CEC Promo - TV Spot - 'Fundraisers'
-## [[File:New Graphic.png]] Vanessa Carlton - 'A Thousand Miles' (2000s)
-## [[File:New Graphic.png]] Battery Pop - 'Super Pets'
-## [[File:New Graphic.png]] Taylor Swift - 'I'm Only Me When I'm With You' (2010s)
-## [[File:New Graphic.png]] Space Pop - 'Have A Good Time'
+##  Vanessa Carlton - 'A Thousand Miles' (2000s)
+##  Battery Pop - 'Super Pets'
+##  Taylor Swift - 'I'm Only Me When I'm With You' (2010s)
+##  Space Pop - 'Have A Good Time'
 # **Skit 4**
 ## Chuck E. Cheese & Friends - 'Out Of This World' 
 # **Intermission 5**
-## [[File:New Graphic.png]] Sabrina Carpenter - 'Thumbs' (2010s)
-## [[File:New Graphic.png]] CEC Promo - 'Sensory Sensitive Sundays'
+##  Sabrina Carpenter - 'Thumbs' (2010s)
+##  CEC Promo - 'Sensory Sensitive Sundays'
 ## 1990s Munch Countdown 
 # **Skit 5**
 ## Helen Henny - 'Gamin' Time'
@@ -80,12 +80,7 @@ This was created to play from June 19, 2017. - August 20, 2017. This show featur
 * The Roll (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show417Floppy.png|Studio C Floppy
-Show417StdC.png|Studio C DVD
-s-l1600 (fs2).jpg|CEC-Stage DVD
-Show 4 2017 DVD menu.png|3-Stage DVD menu
-</gallery>
+
 
 ## Trivia: ##
 

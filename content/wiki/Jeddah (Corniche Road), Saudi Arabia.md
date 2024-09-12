@@ -6,10 +6,10 @@ date = 2024-07-30T13:19:13Z
 
 [Article]
 contributors = ["Bowling for Cheese","CECBowlingGreen","BurgersNuggs445","RockyRhoad07","ThatBoiCydalan","Tux Chuck","AstridMascotFan2005"]
-gallery = []
+gallery = ["JeddahCornch2018Exterior.png|thumb|Jeddah's exterior in 2018.","CECCornicheRoad Vandalized.png|thumb|Chuck E. Cheese's (Corniche Road), abandoned and severely vandalized in October 2022 (PC: Mahmoud Alhashem - Google Maps)"]
 +++
 **_Jeddah CornIche Road**_ was a _Chuck E. Cheese's_ that opened on December 12th, 2001, with the Jeddah Studio C Prototype, which closed in July of 2019.
-[[File:JeddahCornch2018Exterior.png|thumb|Jeddah's exterior in 2018.]]
+
 This location was the first location in Saudi Arabia and was known as the world's largest Chuck E. Cheese location until closing in 2019.
 
 ## Stage ##
@@ -38,7 +38,7 @@ CEC Airport was a kiddie coaster with Chuck E. Cheese a theme. It featured speci
 Chuck E. Cheese Raceway was a Chuck E. Cheese themed Bumper Cars with unique artwork.
 
 ## Post-Closing ##
-[[File:CECCornicheRoad Vandalized.png|thumb|Chuck E. Cheese's (Corniche Road), abandoned and severely vandalized in October 2022 (PC: Mahmoud Alhashem - Google Maps)]]
+
 Ever since July 2019 the building was abandoned with no care from the franchise owner nor the property owner. Since then the building has been prone to severe vandalism.  Lots of unique items left behind such as the CEC Raceway artwork, CEC Airport Sign, and Stage props have been destroyed by vandals. Sometime around early 2023, the site of this former store was demolished, which is what it sits as today.
 
 ## Animatronics ##

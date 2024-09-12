@@ -6,7 +6,7 @@ date = 2024-08-03T17:42:03Z
 
 [Article]
 contributors = ["The 64th Gamer","2601:406:4100:F180:24E6:DD36:BF9D:8F3","CEC Tinley","Cy's Junk at School","Animatronicbrainrot","CECMentor","Livelycheese","Stripes"]
-gallery = ["Photo","Photo","tumblr_nmotvfJh7H1u5kjdeo5_1280.jpg","tumblr_nmotvfJh7H1u5kjdeo6_1280.jpg","vxLri48.jpg","wlmSr3N.jpg","Gold","IMG_5155.JPG","photobeach.jpg","ellCnrr.jpg","fER8IwiJiAkQAAAABJRU5ErkJggg.png","Photo","2967917365_71dbe72961_k.jpg","37752313_10214995282173289_9174491383426187264_n.jpg","IMG_5151.JPG","IMG_5152.JPG","IMG_5153.PNG","IMG_5154.JPG","IMG_5156.PNG","IMG_5158.PNG","IMG_5159.JPG","IMG_5160.JPG","IMG_5162.JPG"]
+gallery = ["CEC CU Vestavia Hills AL--004.jpg|thumb|299x299px|Jasper T. Jowls Retrofit (Latex Mask)|left"]
 +++
 {{Animatronic|image=high quality beach bear.png|releasedate=Official release date after coming out of prototyping.|manufacturer=Creative Engineering|catalogID=## ## 04 ##}}
 
@@ -27,7 +27,7 @@ The next Beach Bear to be developed would be sent to Tampa, FL (1707 E Fowler Av
 
 Beach Bear animatronics would continue to be produced up until 1983. The January batch would be the last used inside Showbiz Pizza restaurants, and would be kept and stored for future openings, while Creative Engineering would continue to produce bots until June. Now with a surplus of bots, these would need to be sold to other family entertainment centers. Outside of attempting to sell the Rock-afire Explosion show on its own, in November of 1984 the Moon Rockers Stage would debut at the _IAAPA_ expo in Orlando, Florida. This changed all the characters to have new cosmetics in an alien setting. Beach Bear's was notably the only mech known to be changed, where a wooden board was bolted to the front of his head to support the giant latex mask of his new character, _Quasar._
 
-In 1990 one last batch of bots would known to be produced. It isn't clear if Beach Bear was part of this batch, as the only known bots would wind up at Hillwood Strike & Spare in 2003, that being a Billy Bob, Mitzi, Fatz, and Looney Bird, the standard [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) character selection. The Mini Stage in general meant that slightly fewer Beach Bears were produced compared to others, though only by a few.[[File:CEC CU Vestavia Hills AL--004.jpg|thumb|299x299px|Jasper T. Jowls Retrofit (Latex Mask)|left]]During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Beach Bear would now become _Jasper T. Jowls,_ a country singing hound dog, wearing his overalls, along with a cow-print shirt, a cowboy hat, and holding now a cheese themed guitar. The stump and surfboard would become an aluminum cylinder with painted vents facing outward. None of Beach Bear's cosmetics would survive the transition, outside some stores deciding to keep his Guitar, or having him use Billy Bob's, due to him being taken off the stage and used for spare parts going forward. The only mechanical change outside of the lowering of air pressure for his movements, and later diagnostic changes to the air flow in the cylinders, was the swapping for his blue eyes with Rolfe's brown eyes. Another process which some stores would also choose not to go forward with.
+In 1990 one last batch of bots would known to be produced. It isn't clear if Beach Bear was part of this batch, as the only known bots would wind up at Hillwood Strike & Spare in 2003, that being a Billy Bob, Mitzi, Fatz, and Looney Bird, the standard [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) character selection. The Mini Stage in general meant that slightly fewer Beach Bears were produced compared to others, though only by a few.During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Beach Bear would now become _Jasper T. Jowls,_ a country singing hound dog, wearing his overalls, along with a cow-print shirt, a cowboy hat, and holding now a cheese themed guitar. The stump and surfboard would become an aluminum cylinder with painted vents facing outward. None of Beach Bear's cosmetics would survive the transition, outside some stores deciding to keep his Guitar, or having him use Billy Bob's, due to him being taken off the stage and used for spare parts going forward. The only mechanical change outside of the lowering of air pressure for his movements, and later diagnostic changes to the air flow in the cylinders, was the swapping for his blue eyes with Rolfe's brown eyes. Another process which some stores would also choose not to go forward with.
 
 In April of 2001 a major change would come for all Jasper bots in stores. Their previously latex masks would now be changed out for furred plastic ones, to reduce costs for the rapidly deteriorating latex. Around this time stores would also be offered the ability to purchase new eyes for their 3-Stage characters, now with smaller pupils and more detailed irises. Store owners were also encouraged to repaint the eyelids with Rust-Oleum Painters Touch spray paint, with Jasper's color being code #1977, a deep brown color. The choice of color may be a reference to the opening year of the first Chuck E. Cheese's location, however it is unknown if this was intentional.
 
@@ -99,29 +99,4 @@ All of its movement bits start at the beginning of the Grey Box bottom drawer. N
 ##Parts##
 <blockquote>TODO: Standardized parts section, use older versions of this page to gather the image galleries and info for the parts.</blockquote>
 
-##Gallery##
-<gallery>
-File:Photo Jun 10, 10 57 01 PM.jpg
-File:Photo Mar 17, 12 08 53 PM.jpg
-File:tumblr_nmotvfJh7H1u5kjdeo5_1280.jpg
-File:tumblr_nmotvfJh7H1u5kjdeo6_1280.jpg
-File:vxLri48.jpg
-File:wlmSr3N.jpg
-File:Gold reef city Beach Bear.jpg
-File:IMG_5155.JPG
-File:photobeach.jpg
-File:ellCnrr.jpg
-File:fER8IwiJiAkQAAAABJRU5ErkJggg.png
-File:Photo Mar 17, 2 25 33 PM.jpg
-File:2967917365_71dbe72961_k.jpg
-File:37752313_10214995282173289_9174491383426187264_n.jpg
-File:IMG_5151.JPG
-File:IMG_5152.JPG
-File:IMG_5153.PNG
-File:IMG_5154.JPG
-File:IMG_5156.PNG
-File:IMG_5158.PNG
-File:IMG_5159.JPG
-File:IMG_5160.JPG
-File:IMG_5162.JPG
-</gallery>
+

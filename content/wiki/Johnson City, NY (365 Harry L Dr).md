@@ -6,7 +6,7 @@ date = 2024-06-24T13:37:06Z
 
 [Article]
 contributors = ["SuperCreamPiper2008","Newbie editor","Cheeseclassic"]
-gallery = ["Johnson","Johnson"]
+gallery = []
 +++
 {{Generic|image=JohnsonCity.png|desc=Johnson City's exterior as a PTT}}
 **_365 Harry L Drive**_, was a Chuck E. Cheese's Pizza Time Theater that opened on June 7th, 1983, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on November 17th, 1996, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). It was located in The Small Mall.
@@ -39,8 +39,4 @@ Johnson City at first had a Balcony Stage. It only lasted 7/8 years, as sometime
 |One of 4 installed in New York.
 |}
 
-##Gallery##
-<gallery>
-File:Johnson City's 2-Stage.jpg|Johnson City's 2-Stage (PC: Unknown)
-File:Johnson City.jpg|Johnson City's 2-Stage (PC: Unknown)
-</gallery>
+

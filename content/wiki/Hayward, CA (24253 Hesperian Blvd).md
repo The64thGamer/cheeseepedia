@@ -16,7 +16,7 @@ TODO
 ##Animatronics##
 TODO
 
-##Gallery##
+
 TODO
 
 ##Videos##

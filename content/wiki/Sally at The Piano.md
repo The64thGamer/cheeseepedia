@@ -6,7 +6,7 @@ date = 2024-06-08T19:09:52Z
 
 [Article]
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
-gallery = ["Sallyrefpiano2.png|NY","Sallypianoref1.png|NY"]
+gallery = []
 +++
 **_Sally at The Piano**_ was a single-animatronic show produced by **_Sally Industries**_ in 1983.
 
@@ -38,10 +38,7 @@ Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianoco
 * Hokkaido, Japan (13 Izumikawa, Rusutsu-mura, Abuta-gun, Hokkaido 048-1711)
 ** Originally installed at the Rusutsu Resort around 1987. Has been paired alongside a repurposed Papa Bear figure from Sally's Berenstain Bears display. Both figures were sent back to Sally's facilities along with [Daniel and the Dixie Diggers]({{< ref "wiki/Daniel and the Dixie Diggers.md" >}}) for refurbishment in 2022. Reinstalled in 2023.
 
-## Gallery ##
-<gallery>
-File:Sallyrefpiano2.png|NY Daily Section (Jan 13, 1984)
-File:Sallypianoref1.png|NY Daily Section (Jan 14, 1984)
-</gallery>
+
+
 
 ## References ##

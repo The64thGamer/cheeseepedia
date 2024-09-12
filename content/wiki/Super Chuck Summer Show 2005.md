@@ -6,7 +6,7 @@ date = 2023-08-07T20:50:11Z
 
 [Article]
 contributors = ["The 64th Gamer","Ceclife13"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Super Chuck Summer Show 2005
@@ -26,7 +26,7 @@ gallery = []
 ## 'Summertime Groove'
 ## 'Fishin_
 #**Intermission 1** 
-##[[File:New Graphic.png]]  Super Chuck Summer VJ Spot
+##  Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Blender'
 ##Wildlife
 ##Coke Groove
@@ -35,7 +35,7 @@ gallery = []
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
 #**Intermission 2** 
-##[[File:New Graphic.png]]  Super Chuck Summer VJ Spot
+##  Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
@@ -44,7 +44,7 @@ gallery = []
 ## 'Baseball Diamond Dreams'
 ## 'Dog Jammin_
 # **Intermission 3** 
-##[[File:New Graphic.png]] Super Chuck Summer VJ Spot
+## Super Chuck Summer VJ Spot
 ##Super Jasper - 'One Token'
 ##CEC TV ID - 'Stars'
 ##Coke Groove
@@ -54,12 +54,12 @@ gallery = []
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
 # **Intermission 4** 
 ## Cinemark Summer Movie Clubhouse Spot
-##[[File:New Graphic.png]] Super Chuck Summer VJ Spot
+## Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Haircut'
 ##Monkey Ninjas - Episode 1
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
-##[[File:New Graphic.png]] Military Montage
+## Military Montage
 ##'America'
 
 ## Lives: ##
@@ -80,10 +80,6 @@ gallery = []
 **Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 ##Showtape Scans / Images:##
-<gallery>
-abaaaa.jpg|3-Stage SVHS
-Summer_05_Studio_C.jpg|Studio C DVD Scan
-2021-08-09_181001.jpg|Studio C Floppy Scan
-</gallery>
+
 ##Trivia:##
 *The original show logo for the segments has been replaced with one featuring Super Chuck.

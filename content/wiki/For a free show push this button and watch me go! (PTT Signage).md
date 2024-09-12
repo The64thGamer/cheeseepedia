@@ -6,7 +6,7 @@ date = 2023-06-29T20:41:33Z
 
 [Article]
 contributors = ["BurgersNuggs445"]
-gallery = ["Watchme1.jpg|Worthpoint","Watchme2.jpg|Worthpoint"]
+gallery = []
 +++
 {{Art|image=watchme.jpg|text1=For a free show...|text2=push this button|text3=and watch me go!|dimensions=11.5 x 7.5}}
 
@@ -19,11 +19,8 @@ This sign allegedly replaced the '1 Token Starts Our Show' (PTT Signage) ('1 Tok
 
 ##Design##
 This sign is a yellow, black, and white beveled rectangle that appears to be encased within the plastic. At the four corners of the sign, holes where the sign could be screwed into a wall can be seen; alongside of a larger hole in the center of the sign that'd be able to start the cabaret or lounge act.  
-##Gallery##
-<gallery>
-File:Watchme1.jpg|Worthpoint listing
-File:Watchme2.jpg|Worthpoint listing
-</gallery>
+
+
 
 ##References##
 <references />

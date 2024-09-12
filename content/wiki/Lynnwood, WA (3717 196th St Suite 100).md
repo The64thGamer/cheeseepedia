@@ -6,7 +6,7 @@ date = 2024-06-13T17:01:20Z
 
 [Article]
 contributors = ["RPCEC","Rexburg090","BurgersNuggs445","2601:601:9C00:2F00:9C96:A6ED:38FA:77E5","ShowbizMidwest","CorrectorMan","70.161.136.174","ThatBoiCydalan","CorrectorManBackup","Documentor","2601:601:8681:3C90:3C3A:42E8:651:C038","Ceclife13","ChuckfeldStan","Midwestretail","JKC5","74.82.228.91","2601:601:8783:5B10:A563:E33B:15C4:304D","The ChuckSter","TheRealWFan","2601:601:9C00:9490:547E:D076:77B8:C865","Caydenpedia","CECMentor","AstridMascotFan2005"]
-gallery = ["FVtty3dw.jpg|Exterior","DQ9viB1I.jpg|Chuck","1zrU5-ss.png|Center","CBpInnBI.jpg|Pasqually's","Lynnwoodexterior.jpg|Lynnwood's","ClosedLynnwoodexterior.jpg|Lynnwood's","Lynnwoodclosednote.png|The"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=LynnwoodWAExteriorStreetViewOctober2018.png|desc=Google Street View October 2018}}
 **_3717 196th St Suite 100, Store #3173/624**_ was a _Showbiz Pizza Place/Chuck E. Cheese's_ located in Lynnwood, Washington that opened in August 1986, and closed on July 23rd, 2023.
@@ -44,16 +44,8 @@ At an unknown point in time, the store received the standard 1986 SPT remodel an
 This location closed permanently on July 23rd, 2023, after 32 years in operation as a Chuck E. Cheese and 37 years in operation overall, including their operation as a Showbiz Pizza. The most likely reason why the location closed because the store's lease was up, and the owners of the building wanted to demolish the building so they could construct new condos on the property. After closure, it appeared that management was making an effort to clear out the building, as many boxes in the showroom and game areas were seen.<ref>https://youtu.be/65moOuaAWd8</ref> On August 20, 2023, the animatronic characters and pieces artwork were loaded onto a Penske truck. Some artwork was saved and sent to the SPT Distribution Warehouse/Corporate, as some were destroyed and thrown into the dumpsters. 
 The building was completely gutted on August 23. It is unknown if the Phase 3 awnings will be removed. Currently, as of March 2024, the building is still standing. It's likely the building will not be torn down now because it also houses another tenant aside from the former Chuck E. Cheese, Slater Insurance School. It is possible that when that business' lease runs out and they close their good, the building will finally be demolished.
 
-## Gallery##
-<gallery>
-File:FVtty3dw.jpg|Exterior during the evening.
-File:DQ9viB1I.jpg|Chuck E Cheese wearing a 2005 Christmas Scarf.
-File:1zrU5-ss.png|Center Stage Decorated for Christmas.
-File:CBpInnBI.jpg|Pasqually's stage.
-File:Lynnwoodexterior.jpg|Lynnwood's exterior on July 23, 2022, a whole year before they closed.
-File:ClosedLynnwoodexterior.jpg|Lynnwood's exterior after closure in September 2023, two months after they closed.
-File:Lynnwoodclosednote.png|The note saying that Lynnwood is closed and the closest CEC locations nearby. Taken on October 25, 2023.
-</gallery>
+
+
 
 ## Arcade Machines ##
 • Chuck E. Cheese's Sketch Book

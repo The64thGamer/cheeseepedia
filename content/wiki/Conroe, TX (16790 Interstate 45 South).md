@@ -72,7 +72,7 @@ Originally when the store opened, they had a Studio C Beta. They got the 2.0 Rem
 * 1998 Name That Cheese
 * 2005 8 Kids Posters
 
-## Gallery ##
+
 TODO
 
 ## YouTube Videos ##

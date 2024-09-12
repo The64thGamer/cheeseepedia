@@ -8,7 +8,4 @@ date = 2022-04-05T17:39:40Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##Gallery##
-<gallery>
-bones 2014.jpg
-</gallery>
+

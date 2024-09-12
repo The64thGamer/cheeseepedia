@@ -6,6 +6,5 @@ date = 2024-08-14T02:47:32Z
 
 [Article]
 contributors = ["The 64th Gamer"]
-gallery = []
+gallery = ["Roadshow2010momentbruh.png|thumb"]
 +++
-[[File:Roadshow2010momentbruh.png|thumb]]

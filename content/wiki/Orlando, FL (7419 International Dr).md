@@ -6,7 +6,7 @@ date = 2024-07-16T16:24:17Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan","108.11.7.204","BurgersNuggs445","AstridMascotFan2005"]
-gallery = ["Orlando","Orlando"]
+gallery = []
 +++
 {{Generic|image=Orlando (International)'s 2.0 exterior.png|desc=The exterior of Orlando (International) as a 2.0 and at nighttime.}}
 **_7419 International Dr, Store #718**_ also known as ****International**** is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 22, 1981 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). It is located next to an unnamed shopping center and across from Universal Studios Florida and Walt Disney World.
@@ -122,11 +122,8 @@ On January 3, 2024 a lawsuit was filed against CEC Entertainment over an inciden
 |N/A
 |Destroyed
 |}
-##Gallery##
-<gallery>
-File:Orlando i drive 3 stage screenshot.jpg|The only known photo of the store's [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
-File:Orlando I Drive CEC Exterior During 2.0.jpg|The store's exterior during its CEC 2018 2.0 Remodel Program (2.0 remodel), October 2021
-</gallery>
+
+
 
 ##Videos ##
 W.I.P

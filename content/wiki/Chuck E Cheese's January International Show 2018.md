@@ -6,7 +6,7 @@ date = 2022-10-26T05:34:27Z
 
 [Article]
 contributors = ["ElWarlos35"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 #
 **_Chuck E. Cheese's International Show 1, 2018**_ 
@@ -21,7 +21,7 @@ This show introduces a new character to the band. A hispanic bunny called Bella 
 ##Musings with Mr. Munch - Episode 1
 ##Show Break 1
 ##Jokes from Pasqually - 'Gorilas'
-#[[File:New Graphic.png]] **Skit 2**
+# **Skit 2**
 ##Pasqually The Chef - 'LoopinsBoopinFakinDoopinFloppenLoopen Funnin´s Day'
 #**Intermission 2**
 ##Fun Facts with Chuck E. Cheese - 'Full Moon'
@@ -30,9 +30,9 @@ This show introduces a new character to the band. A hispanic bunny called Bella 
 #**Skit 3**
 ##Chuck E. & Friends - 'Song Title'
 #**Intermission 3**
-##[[File:New Graphic.png]]  CEC Sketch - 'Steve Waters Journey'
+##  CEC Sketch - 'Steve Waters Journey'
 ##CEC Sketch - Helen Henny´s Hollywood
-#[[File:New Graphic.png]] **Skit 4**
+# **Skit 4**
 ##Hellen Henny & Bella The Bunny 'Bailando'
 #**Intermission 4**
 ##CEC Sketch - Counting Sheep

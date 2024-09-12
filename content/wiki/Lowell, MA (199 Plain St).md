@@ -6,7 +6,7 @@ date = 2024-04-29T20:25:30Z
 
 [Article]
 contributors = ["The 64th Gamer","Destinationimagination95","2601:191:8580:9F90:C584:A34:12A5:5D31","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","CECCheese","2601:188:CA81:2BE0:C052:73A9:2EC:7C11","BurgersNuggs445","2601:188:CA81:2BE0:D10E:7D00:6DA4:6E76","50.206.240.150","2601:188:CA81:2BE0:911F:66E2:226F:D1FE","Cheeseclassic","Slussier1","YBP123","Harchambeault2026"]
-gallery = ["LowellExterior2002.jpg|A","LowellMA1Stage2002.jpg|A","Lowell1StageEarly2012.jpg|A","Lowell1StageAugust2017.jpg|A","Rats","Stars","Lowell’s","Lowell","Lowell","Lowellexterior.png|Exterior","Lowell","Trampoline.png|Photo","Lowell"]
+gallery = []
 +++
 {{Generic|image=Lowell 2.0.jpg|desc=Exterior, November 2023 (PC: destinationimagination95)}}
 
@@ -87,22 +87,8 @@ On April 24, 2024, the store would receive the trampolines. Then on April 25, 20
 |Destroyed
 |}
 
-## Gallery ##
-<gallery>
-File:LowellExterior2002.jpg|A photo of the store's exterior back in 2001 (PC: showbizpizza.com)
-File:LowellMA1Stage2002.jpg|A photo of the store's 1-Stage back in 2001 (PC: showbizpizza.com)
-File:Lowell1StageEarly2012.jpg|A screenshot from a YouTube video of the store's 1-Stage back in Early 2012 before they relocated the Showroom (PC: chuckecheeseshows on YouTube)
-File:Lowell1StageAugust2017.jpg|A photo of the store's 1-Stage on August 28th, 2017 (PC: Alicia on Google Maps)
-File:Rats in lowes.jpg|Two mice peeking out of one of the back room doors. Lowell has had rodent issues since 2001.
-File:Stars .jpg|The Rare Five Character Name Stars at Lowell, Circa 2011. Staten Island was the only other location known to have them.
-File:Lowell’s 2.0 Interior .jpg|Lowell's 2.0 Interior as of September 2023 (PC: ceccheese on Instagram).
-File:Lowell former stage area.png|Screenshot of Lowell's Interior in October 2023 from Google Maps.
-File:Lowell 1 stage.jpg|Lowell's 1-Stage in Late 2021 after Lowell's original Chuck, Helen, and Jasper top halves was replaced with Worcester's top halves.
-File:Lowellexterior.png|Exterior with 2005 Remodel.
-File:Lowell Ma Phase 3 Photo.png|A outside picture of Lowell's entrance while being phase 3.
-File:Trampoline.png|Photo Of Lowell's Trampolines
-File:Lowell Trampoline Photo -2.png|Inside of Lowell's trampoline
-</gallery>
+
+
 
 ## Videos ##
 {| class='wikitable'

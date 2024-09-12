@@ -6,7 +6,7 @@ date = 2023-07-22T23:56:54Z
 
 [Article]
 contributors = ["Ceclife13","Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |image=cecholiday95.png
@@ -19,7 +19,7 @@ gallery = []
 **_The Chuck E. Cheese Christmas Special**_ was released on November 20, 1995, at Chuck E. Cheese's locations. 
 
 ##Show List ##
-#**[[File:New Graphic.png]]** **Segment 1**
+#**** **Segment 1**
 ##'Jingle Bells'
 ##'Deck The Halls'
 ##'We Wish You A Happy New Year'
@@ -27,34 +27,34 @@ gallery = []
 ##'On This Day of Christmas'
 ##'Up On The Rooftop'
 ##'Jingle Bells'
-#**[[File:New Graphic.png]]** **Intermission 1**
+#**** **Intermission 1**
 ##'Good King Wenceslas'
 ##'Jingle Bells'
-#**[[File:New Graphic.png]]** **Segment 2**
+#**** **Segment 2**
 ##'Holly Jolly Christmas'
 ##'Toyland'
 ##'Run Run Rudolph'
-#**[[File:New Graphic.png]]** **Intermission 2**
+#**** **Intermission 2**
 ##'O Christmas Tree'
 ##'It Came Upon A Midnight Clear'
-#**[[File:New Graphic.png]]** **Segment 3**
+#**** **Segment 3**
 ##'We Wish You A Merry Christmas'
 ##Restaurant Christmas Dinner
 ##'We Wish You A Merry Christmas'
-#**[[File:New Graphic.png]]** **Intermission 3**
+#**** **Intermission 3**
 ##'Joy To The World'
-#**[[File:New Graphic.png]]** **Segment 4**
+#**** **Segment 4**
 ##'Jolly Old Saint Nicholas'
 ##Current Edition Christmas Special
 ##'Jolly Old Saint Nicholas'
-#**[[File:New Graphic.png]]** **Intermission 4**
+#**** **Intermission 4**
 ##'God Rest Ye Merry Gentlemen'
 ##'Silent Night'
-#**[[File:New Graphic.png]]** **Segment 5**
+#**** **Segment 5**
 ##'We Wish You A Merry Christmas'
 ##The Night Before Christmas
 ##'We Wish You A Merry Christmas'
-#**[[File:New Graphic.png]]** **Intermission 5**
+#**** **Intermission 5**
 ##'Deck The Halls'
 
 

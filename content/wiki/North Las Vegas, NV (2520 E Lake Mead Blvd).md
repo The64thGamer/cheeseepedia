@@ -50,5 +50,5 @@ The store was then closed in 1984 for unknown reasons (though it may have been u
 |Unknown
 |}
 
-## Gallery ##
+
 No photos nor videos currently exist of this location.

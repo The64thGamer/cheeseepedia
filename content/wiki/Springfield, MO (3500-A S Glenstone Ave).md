@@ -6,9 +6,9 @@ date = 2024-07-30T13:17:39Z
 
 [Article]
 contributors = ["CorrectorMan","Landon animatronics","CEC Kokomo","Cheeseclassic","TheChuckECheeseGuy","Documentor","AstridMascotFan2005"]
-gallery = []
+gallery = ["Springfield mo.jpg|thumb|Springfield's exterior. (PC: tumblr.com)"]
 +++
-[[File:Springfield mo.jpg|thumb|Springfield's exterior. (PC: tumblr.com)]]
+
 **_3500-A S Glenstone Ave**_ is a _Chuck E. Cheese's Pizza_ that opened on January 10, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and is still open today, with the CEC 2018 2.0 Remodel Program (2.0 remodel).
 
 ## Stage ##

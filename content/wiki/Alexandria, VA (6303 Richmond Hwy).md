@@ -6,7 +6,7 @@ date = 2024-06-24T21:28:37Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Blowseborg062","2600:4040:24D1:BB00:A9A4:F270:3B61:E925","Cecfan2004","2600:4040:5A0E:D900:B859:6530:9910:AF4C","96.5.110.34","Jazzdancr40","Cecanddisneyfan2004","Cheeseclassic"]
-gallery = ["E2DD5A4D-014A-4DDE-9E9C-7271BE65D155.jpg|Alexandria's","Chuck","CEC"]
+gallery = []
 +++
 {{Generic|image=Alexandria va cec old.png|desc=Exterior shortly before closure, November 2009<ref>https://www.flickr.com/photos/mobycat/4126270152/in/photostream/</ref>}}
 **_6303 Richmond Hwy, Store #72**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on September 20, 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed between November and December 2009 (day unknown), with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
@@ -99,12 +99,8 @@ Alexandria opened on September 20th, 1982, with the Balcony Stage. Alexandria th
 |1992-1993
 |Sent to Chesapeake, Now at SPT.
 |}
-##Gallery##
-<gallery>
-File:E2DD5A4D-014A-4DDE-9E9C-7271BE65D155.jpg|Alexandria's PTT and the Kmart in the 1980's
-File:Chuck E Cheese Alexandria VA 2000's.jpg|Part of the store's 2-Stage in mid to late 2000's.
-File:CEC Alexandria Va 2 Stage.jpg|The store's 2-Stage on random mode.
-</gallery>
+
+
 
 ##Videos##
 TODO

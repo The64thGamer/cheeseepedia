@@ -6,10 +6,10 @@ date = 2024-07-25T17:49:56Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["collection.gif|My","pwJB.jpg|The","portrait.jpg|Need","Screenshot","king_dom.jpg|Pure","drakeps.png|TGAAPS","doont.jpg|Don't"]
+gallery = ["fauxfickle.jpg|left|700px"]
 +++
 <center><div style='margin: 0 auto; border: none;'>
-[[File:fauxfickle.jpg|left|700px]]
+
 <center><div>
 I kinda just scrape together random and rare photos from across the web so they can be in one place and properly archived.
 
@@ -40,12 +40,3 @@ My search for 'The Great All-American Pizza Show!' on Tumblr. I try and make upd
 [https://www.tumblr.com/fauxfickle/756997832118009856/beep-beep-the-honda-civic-of-lost-media-searches Part 7]
 
 ## Gallery of Shame ##
-<gallery>
-File:collection.gif|My thought process in general
-File:pwJB.jpg|The gay couple
-File:portrait.jpg|Need MOAR photos!
-File:Screenshot 2023-11-05.png|Y O U
-File:king_dom.jpg|Pure vibes man
-File:drakeps.png|TGAAPS
-File:doont.jpg|Don't make me tap the sign...
-</gallery>

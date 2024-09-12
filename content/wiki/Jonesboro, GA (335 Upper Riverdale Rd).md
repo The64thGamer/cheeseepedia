@@ -6,7 +6,7 @@ date = 2024-07-30T23:01:59Z
 
 [Article]
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]
-gallery = ["Jonesboro"]
+gallery = []
 +++
 **_335 Upper Riverdale Rd, Store #601**_ is a _Chuck E. Cheese_ that opened on November 20, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and is still open to this day.
 
@@ -77,10 +77,8 @@ Jonesboro opened its doors on November 20th, 1990, as part of the Tara Crossings
 * 1998 ERrr (Must C TV)
 * 1998 Studio Dining Marquee
 
-## Gallery ##
-<gallery>
-File:Jonesboro Protoype Road Stage.jpg|thumb|The store's Road Stage Prototype (1991)
-</gallery>
+
+
 
 ## References ##
 <references />

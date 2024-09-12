@@ -6,7 +6,7 @@ date = 2022-10-01T21:24:33Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor","74.83.232.137"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 2 2018
@@ -26,42 +26,42 @@ This was created to play from February 26, 2018 - April 15, 2018. Featuring 5 so
 # **Skit 1**
 ## Happy Birthday, Munch!
 # **Intermission 1**
-## [[File:New Graphic.png]] Miguel feat. Natalia LaFourcade - 'Remember Me'
+##  Miguel feat. Natalia LaFourcade - 'Remember Me'
 ## Chuck E. Cheese Fundraisers
-## [[File:New Graphic.png]] Universal Kids - Kody Kapow - 'Birthday Cake'
+##  Universal Kids - Kody Kapow - 'Birthday Cake'
 # **Skit 2**
 ## Mr. Munch & Chuck E. Cheese - 'Purple Planet Point of View'
 # **Intermission 2**
-## [[File:New Graphic.png]] Battery Pop - OmNom Stories Episode 1'
-## [[File:New Graphic.png]] Axwell Ingrosso - 'Sun Is Shining'
+##  Battery Pop - OmNom Stories Episode 1'
+##  Axwell Ingrosso - 'Sun Is Shining'
 ## Chuck E. Cheese's Birthdays - 'Unlimited Games/Play Band'
-## [[File:New Graphic.png]] Ruff Ruff Tweet & Dave - 'Doggy-Birdie-Panda'
+##  Ruff Ruff Tweet & Dave - 'Doggy-Birdie-Panda'
 ## Carly Rae Jepsen - 'I Really Like You'
-## [[File:New Graphic.png]] Chuck E. Cheese's Made You Smile - 'Tough Day'
+##  Chuck E. Cheese's Made You Smile - 'Tough Day'
 # **Skit 3** 
 ## Chuck E. Cheese - 'Dancin' Kitten'
 # **Intermission 3**
-## [[File:New Graphic.png]] Lisa Loeb feat. Craig Robinson - 'Feel What You Feel'
+##  Lisa Loeb feat. Craig Robinson - 'Feel What You Feel'
 ## Chuck E. Cheese's Buffet
-## [[File:New Graphic.png]] Nick Jonas - 'Home'
+##  Nick Jonas - 'Home'
 ## Chuck E. Cheese's Sensory Sensitive Sundays
-## [[File:New Graphic.png]] Jordan Fisher feat. Lin Manuel Miranda - 'You're Welcome'
-## [[File:New Graphic.png]] Battery Pop - 'Problem Solved'
+##  Jordan Fisher feat. Lin Manuel Miranda - 'You're Welcome'
+##  Battery Pop - 'Problem Solved'
 # **Skit 4**
 ## Chuck E. Cheese & Friends - 'Trio'
 # **Intermission 4** 
-## [[File:New Graphic.png]] Sigrid - 'Strangers'
-## [[File:New Graphic.png]] Universal Kids - Nina's World - 'Festival of Color'
+##  Sigrid - 'Strangers'
+##  Universal Kids - Nina's World - 'Festival of Color'
 ## Taylor Swift - 'Shake It Off'
 # **Skit 5** 
 ## Chuck E. Cheese - 'Rainy Day'
-# [[File:New Graphic.png]] **Intermission 5**
+#  **Intermission 5**
 ## Musing with Mr. Munch Episode 3 
 ## Chuck E. Cheese's Made You Smile - 'Birthdays'
 ## Stevie Wonder feat. Ariana Grande - 'Faith'
 
 ## Lives: ##
-*[[File:New Graphic.png]] Birthday Show 2018 (3stage, Cyberamic, Studio C,Weigl)
+* Birthday Show 2018 (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 *Happy Dance (3stage, Cyberamic, Studio C,Weigl)
 *Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
@@ -70,11 +70,7 @@ This was created to play from February 26, 2018 - April 15, 2018. Featuring 5 so
 *Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 ##Showtape Scans / Images:##
-<gallery>
-Show218Floppy.png|Studio C Floppy
-Show218StdC.png|Studio C DVD
-Discs 2.png|CEC-Stage DVD Scan
-</gallery>
+
 
 ## Trivia: ##
 

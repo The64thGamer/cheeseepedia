@@ -6,7 +6,7 @@ date = 2024-06-22T05:05:37Z
 
 [Article]
 contributors = ["Cheeseslicez"]
-gallery = ["Layton3.jpg|Exterior","Layton1.jpg|Arcade","Layton","Layton5.jpg|Chuck","348s","Layton7.jpg|Counters","Layton8.jpg|Show","Layton9.jpg|Exterior","Screenshot","Layton10.jpg|Arcade"]
+gallery = []
 +++
 {{Generic|image=LAYTONUT.jpg|desc=Layton in 2019}}
 
@@ -38,19 +38,8 @@ In June 2020 Layton was one of the 34 locations closed due to Chuck E Cheese dec
 ## Videos ##
  TODO: Videos
 
-## Gallery ##
-<gallery>
-File:Layton3.jpg|Exterior on August 17th 2013
-File:Layton1.jpg|Arcade
-File:Layton 4.jpg|SkyTubes
-File:Layton5.jpg|Chuck E Animatronic
-File:348s (1).jpg|Game Room
-File:Layton7.jpg|Counters
-File:Layton8.jpg|Show Room
-File:Layton9.jpg|Exterior on April 17th 2012
-File:Screenshot 2024-06-21 8.22.14 PM.png|Road Sign
-File:Layton10.jpg|Arcade
-</gallery>
+
+
 
 ## Resources ##
  T

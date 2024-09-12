@@ -6,7 +6,7 @@ date = 2024-04-23T22:37:22Z
 
 [Article]
 contributors = ["ChuckECool","Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","Cheeseclassic","Tux Chuck"]
-gallery = ["NewLondon1StageBeforeClosure.jpg|A"]
+gallery = []
 +++
 {{Generic|image=NewLondonExterior2011AugustGoogleMaps.png|desc=A street view photo of the store's exterior back in August 2011 (PC: Google Maps)}}
 **_389 N Frontage Rd, Store #650**_ was a _Chuck E. Cheese's_ that opened on May 16, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on May 11, 2014, due to leasing issues.
@@ -66,10 +66,8 @@ As of April 2024, the site is still Bob’s Discount Furniture and Mattress Stor
 |Destroyed.
 |}
 
-##Gallery##
-<gallery>
-File:NewLondon1StageBeforeClosure.jpg|A photo of the store's 1-Stage before the store's closure (PC: Unknown).
-</gallery>
+
+
 
 ##Videos##
 TODO

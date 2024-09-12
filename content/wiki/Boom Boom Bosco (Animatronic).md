@@ -6,7 +6,7 @@ date = 2024-05-29T21:03:47Z
 
 [Article]
 contributors = ["FileFickle"]
-gallery = ["WH_bosco.jpg|At","last_seen.png|Loaded","bbb_m.png|At"]
+gallery = []
 +++
 {{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=bosco.jpg|unitsProduced=2}}Boom Boom Bosco was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Americana Amusement Park and Morey's Piers. His mask mold was later reused for Beach Bear in the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}).
 
@@ -28,9 +28,4 @@ Due to lack of footage or photos of internals, movements can only be inferred. A
 * Strum
 * Body lean
 
-## Gallery ##
-<gallery>
-File:WH_bosco.jpg|At CEI warehouse
-File:last_seen.png|Loaded onto trailer, heading for the CEI museum (2023)
-File:bbb_m.png|At museum (11/28/2023)
-</gallery>
+

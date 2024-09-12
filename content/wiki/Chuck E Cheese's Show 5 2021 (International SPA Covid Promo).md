@@ -6,7 +6,7 @@ date = 2024-07-28T18:32:42Z
 
 [Article]
 contributors = ["Documentor","Himitsu","Showbiz Pizza International","Cy's Junk at School"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 5 2021
@@ -25,14 +25,14 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 
 # **Intermission 1** 
 ## Spanish Safety Message
-##**[[File:New Graphic.png]]**Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
+##****Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
 ##Disney Channel Stars - “Put the Happy in the Holidays”
-#**[[File:New Graphic.png]] Skit 1** 
+#** Skit 1** 
 ##Chuck E. & Friends - “The Holiday Party”
 #**Intermission 2**
-##**[[File:New Graphic.png]]**Winter Winner-Land Menu Spot
+##****Winter Winner-Land Menu Spot
 ##HiDino - “The Snow Song”
-##**[[File:New Graphic.png]]**Winter Winner-land Filling Screens
+##****Winter Winner-land Filling Screens
 #**Skit 2**
 ##Helen Henny - “All I Want for Christmas is Snow”
 #**Intermission 3** 
@@ -42,10 +42,10 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 #**Skit 3** 
 ##Bella B. & Chuck E. - “Holiday Fiesta”
 #**Intermission 4**
-##**[[File:New Graphic.png]]**Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
+##****Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
 ##KIDZ BOP Kids - “Let It Snow”
 ##Tails of Friendship - “Munch’s first Christmas”
-#**[[File:New Graphic.png]] Skit 4**
+#** Skit 4**
 ##Munch & Munch - “The Windowsill”
 #**Intermission 5**
 ##Spanish Safety Message
@@ -54,16 +54,16 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 #**Skit 5**
 ##Chuck E., Jingle & Jangle - “Holiday Traditions”
 #**Intermission 6** 
-##**[[File:New Graphic.png]]**Every Kid’s a Winner Spot
+##****Every Kid’s a Winner Spot
 ##HiDino - “Adventure Through the Snow”
 ##Daveed Diggs - “Puppy for Hanukkah”
 #**Skit 6**
 ##Chuck E. & Helen - “Merry Christmastime”
 #**Intermission 7**
 ##Spanish Safety Message
-##**[[File:New Graphic.png]]**Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
+##****Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
 ##KIDZ BOP Kids & Barbie - “Deck The Halls”
-##**[[File:New Graphic.png]]**Winter Winner-land Filling Screens
+##****Winter Winner-land Filling Screens
 #**Skit 7**
 ##Chuck E. & Friends - “Holiday Medley”
 ### Jingle Bells
@@ -82,11 +82,11 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 #Birthday Show (Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
 #Birthday Show (Live at Home) (Cyberamic, Studio C, Weigl)
-#[[File:New Graphic.png]] Chuck E.'s Yuletide Slide (Cyberamic, Studio C, Weigl)
+# Chuck E.'s Yuletide Slide (Cyberamic, Studio C, Weigl)
 #Chuck E.'s Winter Wonder Dance (Studio C, Weigl)
-# [[File:New Graphic.png]] Happy Holiday Dance (Studio C, Weigl)
-#[[File:New Graphic.png]] Me & My Friends (Holiday) (Studio C, Weigl)
-#[[File:New Graphic.png]] Holly Jolly Dance (Studio C, Weigl)
+#  Happy Holiday Dance (Studio C, Weigl)
+# Me & My Friends (Holiday) (Studio C, Weigl)
+# Holly Jolly Dance (Studio C, Weigl)
 #Chuck E. Cha Cha (Studio C, Weigl)
 
 ##Official Releases##

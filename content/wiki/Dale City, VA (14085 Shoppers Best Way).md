@@ -6,7 +6,7 @@ date = 2023-08-19T05:52:32Z
 
 [Article]
 contributors = ["Noahrbxt","CECBowlingGreen","Rexburg090","ShowbizMidwest","216.125.34.66","74.96.197.218"]
-gallery = ["Dale"]
+gallery = []
 +++
 **_14085 Shoppers Best Way, Store #71**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese_ location located in Dale City, Virginia; in the Smoketown Stations Shopping Center. The location opened February 15, 1993, with a 2-Stage, which is still open to this day.
 
@@ -75,9 +75,7 @@ The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 whe
 |}
 
 = Gallery =
-<gallery>
-File:Dale city image1.png|The stage decorated for Christmas
-</gallery>
+
 
 ## Videos ##
 {| class='wikitable'

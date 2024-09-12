@@ -6,7 +6,7 @@ date = 2022-09-26T01:13:10Z
 
 [Article]
 contributors = ["Documentor"]
-gallery = []
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 4 2018
@@ -23,34 +23,34 @@ This was created to play from June 26, 2018 -  July 29, 2018. Featuring 4 reused
 
 ## Show List: ##
 
-# [[File:New Graphic.png]] **Intermission 1**
+#  **Intermission 1**
 ## The Revivalists - 'Wish I Knew You'
 ## Floogals - 'Training Wheels'
 # **Skit 1**
 ## Chuck E. Cheese & Friends - 'Giant Armadillo Named, Phil'
 # **Intermission 2**
-## [[File:New Graphic.png]] Kids Click - 'Pac Man'
-## [[File:New Graphic.png]] Alex Aiono - 'Doesn't Get Better
+##  Kids Click - 'Pac Man'
+##  Alex Aiono - 'Doesn't Get Better
 ## Show Break - 'Underwater'
-## [[File:New Graphic.png]] My Little Pony - 'Photos'
-## [[File:New Graphic.png]] Olivia Holt - 'Phoenix'
+##  My Little Pony - 'Photos'
+##  Olivia Holt - 'Phoenix'
 # **Skit 2**
 ## Pasqually The Chef - 'It's The 70s'
 # **Intermission 3**
-## [[File:New Graphic.png]] Lisa Loeb - 'In My Room'
-## [[File:New Graphic.png]] Andy Grammer - 'Give Love'
+##  Lisa Loeb - 'In My Room'
+##  Andy Grammer - 'Give Love'
 ## Show Break - 'Time Lapse in the City'
-## [[File:New Graphic.png]] Asher Angel - 'Getaway'
+##  Asher Angel - 'Getaway'
 # **Skit 3**
 ## Chuck E. Cheese - 'Your Birthdays Are Special'
 # **Intermission 4**
-## [[File:New Graphic.png]] Jessie Baylin - 'It's the Summertime'
-## [[File:New Graphic.png]] Secret Ingredient Slime - 'Beach Day'
+##  Jessie Baylin - 'It's the Summertime'
+##  Secret Ingredient Slime - 'Beach Day'
 ## Show Break - 'Beach Flyover'
 # **Skit 4**
 ## Chuck E. Cheese & Friends - 'Out of This World'
 # **Intermission 5**
-## [[File:New Graphic.png]] Imagine Dragons - 'On Top of the World'
+##  Imagine Dragons - 'On Top of the World'
 ## Fun Facts With Chuck E. - 'Math'
 ## Show Break - 'Over Land & Sea'
 # **Skit 5**
@@ -70,11 +70,7 @@ This was created to play from June 26, 2018 -  July 29, 2018. Featuring 4 reused
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show418Floppy.png|Studio C Floppy
-Show42018StudioCdvd.png|Studio C DVD
-Show420183stage.png|3Stage DVD
-</gallery>
+
 
 ## Trivia: ##
 

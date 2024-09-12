@@ -6,7 +6,7 @@ date = 2023-01-10T08:11:44Z
 
 [Article]
 contributors = ["BurgersNuggs445"]
-gallery = ["Corpusframe.png|2003"]
+gallery = []
 +++
 {{Generic|image=Quad.jpg|desc=2005 Release}}
 
@@ -22,7 +22,4 @@ The art was re-released in 2003 with white frames accompanying each picture. In 
 
 
 
-## Gallery ##
-<gallery>
-File:Corpusframe.png|2003 Release at the Corpus Christi, TX Location.
-</gallery>
+

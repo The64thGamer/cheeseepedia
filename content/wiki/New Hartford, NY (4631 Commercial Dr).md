@@ -6,7 +6,7 @@ date = 2024-01-14T05:53:14Z
 
 [Article]
 contributors = ["Stripes"]
-gallery = ["Cec","Cec"]
+gallery = []
 +++
 {{Stub}}{{Generic|image=Chuck-e-cheese-new-hartford-ny.png|desc=Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>}}
 
@@ -35,11 +35,8 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 |July 27, 2021
 |}
 
-## Gallery ##
-<gallery>
-File:Cec nhny ext1.jpg|Exterior post closure, 2023
-File:Cec nhny ext 2.jpg|Exterior post closure, 2023
-</gallery>
+
+
 
 ## Animatronics ##
 {| class='wikitable'

@@ -104,8 +104,7 @@ Originally, Sheffield featured a Rock-Afire Explosion, as all other Showbiz loca
 |Aug 21, 2021
 |}
 
-<gallery>
-</gallery>
+
 
 ## Trivia ##
 *Sheffield was the tenth and last ShowBiz Pizza Place to open in Alabama.

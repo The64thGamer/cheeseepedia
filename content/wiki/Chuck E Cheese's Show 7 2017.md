@@ -6,7 +6,7 @@ date = 2022-10-01T21:07:40Z
 
 [Article]
 contributors = ["The 64th Gamer","Documentor"]
-gallery = ["Show7cecstage2017.jpg|CEC-Stage","Show7sleeve.jpg|CEC-Stage"]
+gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 {{Showtape
 |title = Chuck E. Cheese's Show 6 2017
@@ -26,42 +26,42 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 
 # **Intermission 1** 
 ## CEC Sketch - 'Thanksgiving'
-## [[File:New Graphic.png]] Carly Rae Jepsen - 'Cut To The Feeling'
+##  Carly Rae Jepsen - 'Cut To The Feeling'
 ## CEC Fundraiser Spot
 # **Skit 1** 
 ## Helen Henny - 'Dream Big'
 # **Intermission 2** 
-## [[File:New Graphic.png]] My Little Pony - 'The Perfect Pear'
+##  My Little Pony - 'The Perfect Pear'
 ## Spencer Ludwig - 'Diggy'
-## [[File:New Graphic.png]] Splash & Bubbles - 'Hangin' With Friends'
+##  Splash & Bubbles - 'Hangin' With Friends'
 # **Skit 2** 
 ## Mr. Munch - 'Nobody Knows'
-# [[File:New Graphic.png]] **Intermission 3** 
+#  **Intermission 3** 
 ## Universal Kids - 'The Noise'
 ## Echosmith - 'Right Now'
 ## Angry Birds - 'Change'
 # **Skit 3** 
 ## Munch & Jasper - 'If Everyone We're Chuck E.' (USA Cooperate Locations Only)
 # **Intermission 4** 
-## [[File:New Graphic.png]] Saving Forever - 'Million Ways'
+##  Saving Forever - 'Million Ways'
 ## CEC Buffet Spot
-## [[File:New Graphic.png]] Keith Urban feat. Carrie Underwood - 'The Fighter'
-## [[File:New Graphic.png]] Walk The Moon - 'One Foot'
-## [[File:New Graphic.png]] CEC Mac Cheesy Spot
-## [[File:New Graphic.png]] Winx - 'Hands Off Kiko'
+##  Keith Urban feat. Carrie Underwood - 'The Fighter'
+##  Walk The Moon - 'One Foot'
+##  CEC Mac Cheesy Spot
+##  Winx - 'Hands Off Kiko'
 # **Skit 4**
 ## Chuck E. Cheese & Friends - 'Every Boy, Every Girl'
 # **Intermission 5**
 ## Weekday Express Spot
-## [[File:New Graphic.png]] Alicia Keys - 'Blended Family'
-## [[File:New Graphic.png]] Universal Kids - 'Top Chef Jr'
+##  Alicia Keys - 'Blended Family'
+##  Universal Kids - 'Top Chef Jr'
 # **Skit 5**
 ## Chuck E. & Helen - 'It's A Date'
 # **Intermission 6** 
-## [[File:New Graphic.png]] Zakstorm - 'Crazy Skeleton'
+##  Zakstorm - 'Crazy Skeleton'
 ## Jokes From Pasqually - 'Ten-Tackles'
-## [[File:New Graphic.png]] CEC Birthday Spot
-## [[File:New Graphic.png]] Grace VanderWaal - 'Dancing In The Moonlight'
+##  CEC Birthday Spot
+##  Grace VanderWaal - 'Dancing In The Moonlight'
 # **Skit 6** 
 ## Chuck E. & Friends - 'Trio'
 
@@ -83,12 +83,7 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 * Happy Dance (Spanish) (Studio C,Weigl)
 
 ##Showtape Scans / Images:##
-<gallery>
-Show717Floppy.png|Studio C Floppy
-Show717StdC.png|Studio C DVD
-File:Show7cecstage2017.jpg|CEC-Stage DVD Scan
-File:Show7sleeve.jpg|CEC-Stage DVD Sleeve From Kooser, San Jose Store
-</gallery>
+
 
 ## Trivia:##
 

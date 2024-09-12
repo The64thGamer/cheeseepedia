@@ -6,8 +6,8 @@ date = 2023-03-01T12:52:46Z
 
 [Article]
 contributors = ["Studio 18 Ent"]
-gallery = []
+gallery = ["CYBER CURTAIN CONTROLBOX.jpg|thumb|right|The Curtain Control"]
 +++
-[[File:CYBER CURTAIN CONTROLBOX.jpg|thumb|right|The Curtain Control]]
+
 The **Cyberamic Curtain Control** is a device used for [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and [2-Stages]({{< ref "wiki/2-Stage.md" >}}) at Chuck E Cheese resturaunts. The device is used for operating the stage curtains and the turntable on the **1-Stage**, when manually diagnosing the show.<br>
 There are 3 buttons on the box, Open, Close, and Stop. The Stop button can be used to emergency stop the curtains if there is a problem with the show and, at the end of the day when shutting off the show. This button is unique in which, when used the button will automatically lock and it needs to be twisted to unlock.
