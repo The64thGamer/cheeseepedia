@@ -14,9 +14,9 @@ body {
   font-family: "Aleo";
   font-size: 1em;
   line-height: 1.5; 
-  margin: 1rem;
-  margin: auto;
-  max-width: 40vw;
+  margin: 0 auto;
+  max-width: 45em;
+  min-width: 30em;
   border-color: var(--yellow);
   border-style: solid;
   border-width: 3em;
