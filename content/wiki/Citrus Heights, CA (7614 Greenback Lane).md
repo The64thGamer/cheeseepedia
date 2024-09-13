@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-03-26T18:48:54Z
 
 [Article]
+pageThumbnailFile = "Citrus Exterior Thing.png|The Location's Exterior in the early 1980's. (PC: David Antonio)"
 contributors = ["Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","ChuckECool","CEC Tinley","CorrectorMan","Concordio","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
 +++
-{{Generic|image=Citrus Exterior Thing.png|desc=The Location's Exterior in the early 1980's. (PC: David Antonio)}}
-**_7614 Greenback Lane**_ was a Chuck E. Cheese's Pizza Time Theatre that opened on December 26, 1979<ref name=':3'>https://www.newspapers.com/image/621236015</ref> and closed in January 1985<ref name=':2'>https://www.newspapers.com/image/622575854</ref> with a Cyberamics Portrait / Shelf Stage (Portrait Stage)<ref name=':0'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf</ref>. This was the 8th PTT ever opened.
+
+<b><i>7614 Greenback Lane</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened on December 26, 1979<ref name=':3'>https:<i>www.newspapers.com/image/621236015</ref> and closed in January 1985<ref name=':2'>https:</i>www.newspapers.com/image/622575854</ref> with a Cyberamics Portrait / Shelf Stage (Portrait Stage)<ref name=':0'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf</ref>. This was the 8th PTT ever opened.
 
 This location is not to be confused with [Citrus Heights, CA (6251 Sunrise Blvd)]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}}), which is a Chuck E. Cheese that opened as a [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) & is still open today with the CEC 2018 2.0 Remodel Program (2.0 Remodel) & a Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage).
 
-## Stages ##
+<h2> Stages </h2>
 Citrus Heights opened with a Portrait Stage, but we only have one photo showing a bit of it. After the location's closure, the [Animatronics]({{< ref "wiki/Cyberamics.md" >}}) were sold in the store's auction.
 {| class='wikitable'
 |+
@@ -28,10 +29,10 @@ Citrus Heights opened with a Portrait Stage, but we only have one photo showing 
 |8th Chuck E. Cheese location ever opened.
 |}
 
-##History##
-7614 Greenback lane opened on December 26, 1979  with a Portrait Stage. The location's manager was Dave Wright<ref name=':0' />. The location possibly had the [Animatronics]({{< ref "wiki/Cyberamics.md" >}}) one one wall<ref name=':0' /><ref name=':4'>https://www.youtube.com/watch?v=kTjiYIOs1pw&t=970s (Contains an Interview with a person who went to the store & worked at [Citrus Heights, CA (6251 Sunrise Blvd)]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}}))</ref>. the location had a [Lounge Helen Henny]({{< ref "wiki/Helen Henny (Lounge).md" >}})<ref name=':0' />. The Location had a sale for Large Pizzas that would also give you a Rat tales comic book & Some tokens<ref name=':3' />. The location had Sally Sashay as their guest star along with a [Dolli Dimples cabaret act]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}). In 1980, The location appeared in a Channel 40 local Sacramento news broadcast<ref name=':1'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>. The Store would be chosen to be the filming location of [Pizza Time Theatre's TV commercials]({{< ref "wiki/Pizza Time Theatre 1979 Spot (Commercial).md" >}}) along with [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}})<ref name=':1' />. In August 1981, People selected from several locations, including Citrus, were put into a contest<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref>. In 1981/1982, they received a minor remodel, removing some older décor for newer décor, and possibly replaced the exterior sign with the new logo along with new events like teen night & adding new Guest Stars<ref name=':4' />. The location closed in January 1985 for unknown reasons with an auction also being held on January 12th 1985. It is unknown why Citrus Heights (Greenback) closed but one possible reason could be competition from the [Showbiz Pizza Place on 6251 Sunrise Blvd]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}}) which was only 3 minutes away. Another possible reason is that it may had been under-performing, a reason for many closures around this time. The site is now a Save on Cleaners.
+<h2>History</h2>
+7614 Greenback lane opened on December 26, 1979  with a Portrait Stage. The location's manager was Dave Wright<ref name=':0' />. The location possibly had the [Animatronics]({{< ref "wiki/Cyberamics.md" >}}) one one wall<ref name=':0' /><ref name=':4'>https:<i>www.youtube.com/watch?v=kTjiYIOs1pw&t=970s (Contains an Interview with a person who went to the store & worked at [Citrus Heights, CA (6251 Sunrise Blvd)]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}}))</ref>. the location had a [Lounge Helen Henny]({{< ref "wiki/Helen Henny (Lounge).md" >}})<ref name=':0' />. The Location had a sale for Large Pizzas that would also give you a Rat tales comic book & Some tokens<ref name=':3' />. The location had Sally Sashay as their guest star along with a [Dolli Dimples cabaret act]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}). In 1980, The location appeared in a Channel 40 local Sacramento news broadcast<ref name=':1'>https:</i>www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>. The Store would be chosen to be the filming location of [Pizza Time Theatre's TV commercials]({{< ref "wiki/Pizza Time Theatre 1979 Spot (Commercial).md" >}}) along with [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}})<ref name=':1' />. In August 1981, People selected from several locations, including Citrus, were put into a contest<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref>. In 1981/1982, they received a minor remodel, removing some older décor for newer décor, and possibly replaced the exterior sign with the new logo along with new events like teen night & adding new Guest Stars<ref name=':4' />. The location closed in January 1985 for unknown reasons with an auction also being held on January 12th 1985. It is unknown why Citrus Heights (Greenback) closed but one possible reason could be competition from the [Showbiz Pizza Place on 6251 Sunrise Blvd]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}}) which was only 3 minutes away. Another possible reason is that it may had been under-performing, a reason for many closures around this time. The site is now a Save on Cleaners.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -121,7 +122,7 @@ Citrus Heights opened with a Portrait Stage, but we only have one photo showing 
 
 
 
-##Videos##
+<h2>Videos</h2>
 No Videos have been fully confirmed to be from Citrus Heights.
 
-##References##
+<h2>References</h2>

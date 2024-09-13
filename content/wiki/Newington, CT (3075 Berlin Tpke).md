@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-04-23T22:44:01Z
 
 [Article]
+pageThumbnailFile = "15218887162 85dbc9e948 o.jpg|2005 Remodel Exterior before 2.0 (PC: Mike Mozart on Flickr)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","2600:4040:59FF:B100:19F1:35A6:8ACE:60DD","69.67.86.48","Cecnj98","EVDofficial","Cy's Junk at School","Ryys123","Cheeseclassic","CyCGM"]
 gallery = []
 +++
-{{Generic|image=15218887162 85dbc9e948 o.jpg|desc=2005 Remodel Exterior before 2.0 (PC: Mike Mozart on Flickr)}}
-**_3075 Berlin Tpke, Store #470**_ is a Chuck E. Cheese’s location located in Newington, Connecticut. This location opened on October 29, 1991, as the sister store to [Norwalk, CA (10949 Firestone Blvd)]({{< ref "wiki/Norwalk, CA (10949 Firestone Blvd).md" >}}). 
 
-##Stages##
+<b><i>3075 Berlin Tpke, Store #470</b></i> is a Chuck E. Cheese’s location located in Newington, Connecticut. This location opened on October 29, 1991, as the sister store to [Norwalk, CA (10949 Firestone Blvd)]({{< ref "wiki/Norwalk, CA (10949 Firestone Blvd).md" >}}). 
+
+<h2>Stages</h2>
 This location opened up on October 29, 1991, as the first location in Connecticut since the closures of [New Britain, CT (222 E Main St)]({{< ref "wiki/New Britain, CT (222 E Main St).md" >}}) & [Orange, CT (260 Bull Hill Lane)]({{< ref "wiki/Orange, CT (260 Bull Hill Lane).md" >}}) in 1985 with a Road Stage and was converted to a 1-Stage sometime in 1995. The 1-Stage is different than normal 1-Stages as it has the 2-stage props (which was the only one of its kind in New England as the other 1-Stages in New England has the finalized design). In January 2011, the Tuxedo & Derby was replaced with the Avenger outfit. Chuck's cap was removed in September 2013. The Munch’s Make Believe Band sign was removed in around 2016. The sign was never replaced after that. The Avenger outfit would be replaced by the Rockstar outfit in March 2018. Munch's hat was removed around July 2022. It remained this way until they received the 2.0 Remodel.
 {| class='wikitable'
 |+
@@ -35,12 +36,12 @@ This location opened up on October 29, 1991, as the first location in Connecticu
 |Still In Use
 |Currently the only stage type in Connecticut as of installation date.
 |}
-##History##
+<h2>History</h2>
 The store received the 2005 remodel package in the Fall of 2005. In August 2022, they started their 2.0 Remodel which removed the 1-Stage and placed the Video Wall on the right side wall where some of the 2005 remodel posters once stood.
 
 This was one of the five New England locations that were open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}), [North Dartmouth, MA (412-418 State Rd)]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}), [Waterbury, CT (650 Wolcott St)]({{< ref "wiki/Waterbury, CT (650 Wolcott St).md" >}}), & [Attleboro, MA (287 Washington St)]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}}).
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -75,7 +76,7 @@ This was one of the five New England locations that were open after 2006 that di
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Links
 !Description

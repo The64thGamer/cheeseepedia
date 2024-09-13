@@ -8,13 +8,13 @@ date = 2024-07-31T15:29:11Z
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}
 
-**26562 Towne Centre Dr** was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on May 30, 2003 with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day
+
+<b>26562 Towne Centre Dr</b> was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on May 30, 2003 with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day
 
 This location received the 2.0 remodel in 2018.
 
-## Stages ##
+<h2> Stages </h2>
 Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), they were the 4th location to open with a 16m Beta. they would have this for a couple years, until around 2018 or 2019, when they would undergo the 2.0 remodel, they would remove the stage and replace with the 2017 Model of the Chuck E. Live Stage (Dance Floor) (Dance Floor). As of September 2022, they still have this remodel.
 {| class='wikitable'
 |+
@@ -34,7 +34,7 @@ Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C 
 |2017 Model
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -45,7 +45,7 @@ Originally, the store opened with a [Studio C Beta, 16m]({{< ref "wiki/Studio C 
 |Store Tour at Foothill Ranch, CA
 |February 13, 2022
 |}
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-06-18T21:52:16Z
 
 [Article]
+pageThumbnailFile = "thumb|image=HuntsvilleALExterior2023JanuaryGoogleMaps.png"
 contributors = ["CECBowlingGreen","Rexburg090","ChuckfeldStan","2600:1004:B18F:1005:A935:501B:2CAD:B83C","168.69.254.242","Bowling for Cheese","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","2600:2B00:794A:BC00:2E:1EBD:C3B4:3E8A","168.69.254.249","The 64th Gamer","174.131.44.53","Chuckstar69","MFHALSTON","199.197.93.68","CyCGM","ThatBoiCydalan","SuperCreamPiper2008","Documentor","CECMentor","Animatronicbrainrot","Livelycheese"]
 gallery = []
 +++
-{{Generic|thumb|image=HuntsvilleALExterior2023JanuaryGoogleMaps.png|desc=Street View of the store's Exterior in January 2023 (PC: Google Maps)}}
-**_1220 Jordan Lane, Store #705**_ was a Showbiz Pizza Place that opened on June 8, 1982 with a Rock-Afire Explosion, which is still open to this day.
+
+<b><i>1220 Jordan Lane, Store #705</b></i> was a Showbiz Pizza Place that opened on June 8, 1982 with a Rock-Afire Explosion, which is still open to this day.
 
 This location received Concept Unification in the early 90's, and had many custom things added to the stage, as well as having the last Pizzacam animatronic until it was reinstated at [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) in June 2024.
 
-##History##
+<h2>History</h2>
 Huntsville opened on June 8th, 1982 as the 2nd Showbiz Pizza Place in Alabama (2nd after [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}) with a Rock-afire Explosion show. It was originally and currently, a corporate owned store. They would later end up receiving the 1986 SPT Remodel Program (1988 Remodel) removing the old Showbiz decor, and adding newer decor. In 1991, Huntsville received Concept Unification which removed the Rock-afire for the 3-Stage and removed all Showbiz decor, added new decor, and a change to the exterior. Huntsville underwent another remodel in 1996/1997 which involved the removal of the Neon Signage, Blue and White Awnings, some checkers around the store, and another exterior change. In 2001-2002, Huntsville would undergo a minor remodel which involved the removal of the Balcony Seating & the Showroom Walls. In 2006-2007, Huntsville received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removed all 1990's store art, dim lighting and adding purple walls. In around 2011-2012, Huntsville received the 2010 Update which involved redoing the front counter, repainting the exterior, adding another set of Emergency Exit Doors to the exterior, and expanding the store. As of March 2023, Huntsville has the 2.0 remodel. 
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-afire Explosion, and they got a Billy Bob interactive at a unknown date. later it would receive concept unification during 1991. There has been many additions to the stage through the years, such as Munch's organ getting a custom front, Jasper keeping Beach Bear's guitar (painted red, white, and blue), Helen having her cheerleader outfit and yellow hair (it was changed to her normal dress and hair in 2022), Pasqually having a custom bass drum head, as well as adding a tom-tom drum in 2022, Moon being painted white with an American flag on top (Huntsville is known for NASA). Pizzacam had custom black plastic cosmetics, and a metal emblem on the back that states that the Huntsville location has the first black plastic Pizzacam instead of the standard latex cosmetics. Building was removed in 2021, but his spotlight remained functional. The Wink was painted red white and blue. Sometime in 2022, the lights on the organ legs were changed to red, yellow, and green. They were the last 3-Stage in the state of Alabama. On March 29th, 2023 the 3-Stage was removed with it being replaced with a 2021 Model Dance Floor.
 {| class='wikitable'
 |+
@@ -46,7 +47,7 @@ Originally when the store opened, they had a Rock-afire Explosion, and they got 
 |2021 Model. Also, this is the first Corporate store to remodel to 2.0 not because of damage to the store ([Birmingham]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}) got 2.0 because of flood damage and Sheffield was remodeled to 2.0 under the choice of the store's Franchisee). 2nd location to undergo a full 2.0 exterior remodel (Sheffield yet again kept the logo from it's previous remodel) 
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -105,7 +106,7 @@ Originally when the store opened, they had a Rock-afire Explosion, and they got 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -302,7 +303,7 @@ Originally when the store opened, they had a Rock-afire Explosion, and they got 
 |March 29, 2023
 |March 29, 2023
 |}
-##Trivia##
+<h2>Trivia</h2>
 
 *Huntsville was the second Showbiz Pizza Place in Alabama with Mobile opening less than 4 months earlier.
 *Huntsville was one of seven Showbiz locations in Alabama to be converted into Chuck E. Cheese. The other six are [Mobile]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}), [Montgomery]({{< ref "wiki/Montgomery, AL (2940 E South Blvd).md" >}}), [Birmingham]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}), [Birmingham (Roebuck)]({{< ref "wiki/Birmingham, AL (9325 Parkway East).md" >}}), [Dothan]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}}), & [Sheffield]({{< ref "wiki/Sheffield, AL (4700 Hatch Blvd).md" >}}). The other three locations, Tuscaloosa, AL (1335 McFarland Blvd) (Tuscaloosa), Cullman, AL (210 2nd Ave) (Cullman), & [Midfield]({{< ref "wiki/Midfield, AL (34 Phillips Dr).md" >}}) closed in December 1985.

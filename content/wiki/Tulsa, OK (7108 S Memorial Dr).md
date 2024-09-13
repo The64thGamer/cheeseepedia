@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-12-04T13:45:32Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior in 2019 |image=Chcuk e chhese tulsa 2.0.jpg"
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Stub}}{{Generic|desc=Exterior in 2019 |image=Chcuk e chhese tulsa 2.0.jpg}}
 
 
-**_7108 S Memorial Dr**_ was a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on September 15th, 1980, with a Rock-afire Explosion and is still open to this day as a 2.0 store.
+
+<b><i>7108 S Memorial Dr</b></i> was a <i>Showbiz Pizza Place/Chuck E. Cheese</i> that opened on September 15th, 1980, with a Rock-afire Explosion and is still open to this day as a 2.0 store.
 
 It is located in an unnamed shopping center across from the Woodland Hills Mall.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, they were the 2nd RAE installed, and originally had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. It was also one of 19 stores to have the 'Beta' bots. 
 Tulsa would replace their original bots in 1981, as all other 'Beta' shows into the one with solid frames. 
 
@@ -52,7 +53,7 @@ In October 2019, the Studio C Alpha was removed for the 2019 Model Dance Floor a
 |2019 model.
 |}
 
-## History ##
+<h2> History </h2>
 Tulsa opened its doors on September 15th, 1980, as the first store in Oklahoma and the third Showbiz Pizza overall. This was one of 18/19 stores to receive a Beta Rock-afire Explosion show, though it was very still unique in several ways. In 1988-1989, Tulsa received a minor remodel removing some decor, exterior sign change, and the Billy Bob stage change. In 1991-1992, Tulsa received Concept Unification and the 1988 remodel replacing the Rock-afire Explosion with Munch's Make-Believe Band, removing all SPP decor for CEC decor, added Blue and White awnings, checkers, and another exterior and sign change. Around the mid 90's, Tulsa would receive the Phase 2 removing old decor for the Platinum CD Award posters, Mt. Chuckmore, 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West), the Cheese Guitar sign, the 1993 Salad Bar sign, the Beverages and Round Chuck signs, the 1991 Confetti Portraits, and other misc signage. 
 
 Sometime from Fall 1999-2000, Tulsa received the Phase 3 remodel removing the 3-Stage for a Studio C Alpha, removing older decor for newer decor, removed Blue and White awnings, all checkers, and another exterior sign change.
@@ -63,7 +64,7 @@ In September 2019, Tulsa would start the 2.0 remodel removing the Alpha stage fo
 
 Currently, as of May 2023, the location still has the 2019 Model Dance Floor and Video Wall.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -181,7 +182,7 @@ Currently, as of May 2023, the location still has the 2019 Model Dance Floor and
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

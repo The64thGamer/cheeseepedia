@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-06-03T12:49:23Z
 
 [Article]
+pageThumbnailFile = "LaMesaExterior2021OctoberGoogleMaps.png|Street view of the exterior in October 2021 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","71.15.155.152","Rexburg090","ChuckECool","216.125.34.66","2605:AD80:31:19FD:2D14:C6C4:8C3D:9911","76.167.210.169","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Chez","JND","Moonrock"]
 gallery = []
 +++
-{{Generic|image=LaMesaExterior2021OctoberGoogleMaps.png|desc=Street view of the exterior in October 2021 (PC: Google Maps)}}
-**_5500 Grossmont Center Dr, Store #405**_ is a _Chuck E. Cheese's Pizza_ that opened on August 2, 1993 with a 1-Stage, which is still open to this day.
+
+<b><i>5500 Grossmont Center Dr, Store #405</b></i> is a <i>Chuck E. Cheese's Pizza</i> that opened on August 2, 1993 with a 1-Stage, which is still open to this day.
 
 This location is the last location that still says 'Chuck E. Cheese's Pizza' on the building, and the second-to-last to have the text at all, with [Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) having the logo on the sidewalk sign.
 
-This store is possibly a relocation of [El Cajon, CA (310 Fletcher Pkwy)]({{< ref "wiki/El Cajon, CA (310 Fletcher Pkwy).md" >}}) _Pizza Time Theatre_, as it was only 10 minutes away from La Mesa's CEC. That store opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1993 (Possibly a few weeks or so before La Mesa's opening) with a Chuck E.'s House Facade (Chuck E.'s House Facade (C-Stage)) which was next to Kmart (The building was demolished for Home Depot sometime after Kmart closed in 2004).
+This store is possibly a relocation of [El Cajon, CA (310 Fletcher Pkwy)]({{< ref "wiki/El Cajon, CA (310 Fletcher Pkwy).md" >}}) <i>Pizza Time Theatre</i>, as it was only 10 minutes away from La Mesa's CEC. That store opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1993 (Possibly a few weeks or so before La Mesa's opening) with a Chuck E.'s House Facade (Chuck E.'s House Facade (C-Stage)) which was next to Kmart (The building was demolished for Home Depot sometime after Kmart closed in 2004).
 
 With the acquiring and future redevelopment of Grossmont Center (The mall the La Mesa CEC is a part of) by a real estate firm in 2021, the La Mesa store may close by 2025. The sign fell off on November 2022 and was replaced with a reproduced version of the sign very recently.
 
-## History##
+<h2> History</h2>
 La Mesa opened on August 2, 1993 with the 1988 remodel and a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). They received [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) not long after in likely 1995/1996. La Mesa stayed like this for many years. Around 2018/2019, some 1993 remodel decor was thrown away and replaced with 2005 remodel artwork, which caused controversy. As of September 2023, La Mesa's stage remained though non-operational. The location will possibly close before 2025.
 
-##Stages##
+<h2>Stages</h2>
 La Mesa opened with a 1-Stage, which is still there to this day, but is in very poor condition, with some videos in 2022 show the character cables for Munch, Jasper, and Pasqually being switched. 
 {| class='wikitable'
 |+
@@ -35,7 +36,7 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 |Very poor condition 
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -63,7 +64,7 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 |Currently In Use 
 |}
 
-## Current Games##
+<h2> Current Games</h2>
 {| class='wikitable'
 |+
 !Game
@@ -283,14 +284,14 @@ La Mesa opened with a 1-Stage, which is still there to this day, but is in very 
 |Kiddie area 
 |}
 
-##Past Games ##
+<h2>Past Games </h2>
 TODO
 
 
 
 
-##Videos ##
+<h2>Videos </h2>
 TODO
 
-##References##
+<h2>References</h2>
 <references />

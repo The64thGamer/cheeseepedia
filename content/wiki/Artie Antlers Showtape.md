@@ -11,80 +11,80 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 {{Showtape
 |image=Artieant.jpg
 |date=1980
-|pttreel=y|d1 name=Reel w/ Signals|d1 download=https://archive.org/download/artie-antlers/Artie%20Antlers.wav|credit1=Artie Antlers VA- Jim Cunningham|credit2=Pianist - Unknown}}The **_Artie Antlers Showtape**_ is a showtape released for the [Artie Antlers]({{< ref "wiki/Artie Antlers (Cabaret).md" >}}) Cabaret show in 1980.
-##Show List##
-#**** **Segment 1**
+|pttreel=y|d1 name=Reel w/ Signals|d1 download=https://archive.org/download/artie-antlers/Artie%20Antlers.wav|credit1=Artie Antlers VA- Jim Cunningham|credit2=Pianist - Unknown}}The <b><i>Artie Antlers Showtape</b></i> is a showtape released for the [Artie Antlers]({{< ref "wiki/Artie Antlers (Cabaret).md" >}}) Cabaret show in 1980.
+<h2>Show List</h2>
+#<b></b> <b>Segment 1</b>
 ##Romance Without Finance is a Nuisance
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##Java Juice
 ##Everybody Eats When They Come to My House
-#**** **Segment** **3**
+#<b></b> <b>Segment</b> <b>3</b>
 ##Oh Susannah
 ##Razzmatazz
-#**** **Segment** **4**
+#<b></b> <b>Segment</b> <b>4</b>
 ##The Joint is Jumpin'
-#**** **Segment** **5**
+#<b></b> <b>Segment</b> <b>5</b>
 ##Get Loose
 ##Goofus
-#**** **Segment** **6**
+#<b></b> <b>Segment</b> <b>6</b>
 ##I'm a Ding-Dong Daddy (From Dumas)
-#**** **Segment** **7**
+#<b></b> <b>Segment</b> <b>7</b>
 ##Barney Google
-#**** **Segment** **8**
+#<b></b> <b>Segment</b> <b>8</b>
 ##A Chicken Ain't Nothin' But a Bird
-#**** **Segment** **9**
+#<b></b> <b>Segment</b> <b>9</b>
 ##Bessie
-#**** **Segment** **10**
+#<b></b> <b>Segment</b> <b>10</b>
 ##Sad Sap Sucker
 ##Don't Let it Bother You
-#**** **Segment** **11**
+#<b></b> <b>Segment</b> <b>11</b>
 ##Great Balls of Fire
-#**** **Segment** **12**
+#<b></b> <b>Segment</b> <b>12</b>
 ##Tiptoe Through the Tulips
 ##Tea for Two
 ##Rock Around the Clock
-#**** **Segment** **13**
+#<b></b> <b>Segment</b> <b>13</b>
 ##Be Kind to Your Web Footed Friends
 ##Three Little Fishes
-#**** **Segment** **14**
+#<b></b> <b>Segment</b> <b>14</b>
 ##Yankee Doodle Dandy
 ##Dixie
 ##Grand Old Flag
-#**Segment** **15**
+#<b>Segment</b> <b>15</b>
 ##Romance Without Finance is a Nuisance
-#**Segment** **16**
+#<b>Segment</b> <b>16</b>
 ##Java Juice
 ##Everybody Eats When They Come to My House
-#**Segment** **17**
+#<b>Segment</b> <b>17</b>
 ##Oh Susannah
 ##Razzmatazz
-#**Segment** **18**
+#<b>Segment</b> <b>18</b>
 ##The Joint is Jumpin'
-#**Segment** **19**
+#<b>Segment</b> <b>19</b>
 ##Get Loose
 ##Goofus
-#**Segment 20**
+#<b>Segment 20</b>
 ##I'm a Ding-Dong Daddy (From Dumas)
-#**Segment 21**
+#<b>Segment 21</b>
 ##A Chicken Ain't Nothin' But a Bird
-#**Segment 22**
+#<b>Segment 22</b>
 ##Bessie
-#**Segment 23**
+#<b>Segment 23</b>
 ##Sad Sap Sucker
 ##Don't Let it Bother You
-#**Segment 24**
+#<b>Segment 24</b>
 ##Tiptoe Through the Tulips
 ##Tea for Two
 ##Rock Around the Clock
-#**Segment 25**
+#<b>Segment 25</b>
 ##Be Kind to Your Web Footed Friends
 ##Three Little Fishes
-#**Segment 26**
+#<b>Segment 26</b>
 ##Barney Google
 
-## Production ##
-Jim Cunningham, a band member of _The High Time Octet_<ref>https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet</ref>, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. <ref>http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html</ref>
+<h2> Production </h2>
+Jim Cunningham, a band member of <i>The High Time Octet</i><ref>https:<i>www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet</ref>, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. <ref>http:</i>www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html</ref>
 
-Jim states the pianist for the sessions was someone who had done work with the _Pointer Sisters_. Although 12 separate pianists have been credited under the Pointer Sisters by 1980, this could potentially be Tom Salisbury or William 'Smitty' Smith for their longer lasting and more recent work at the time for the band.<ref>https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits</ref><ref>https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith</ref>
+Jim states the pianist for the sessions was someone who had done work with the <i>Pointer Sisters</i>. Although 12 separate pianists have been credited under the Pointer Sisters by 1980, this could potentially be Tom Salisbury or William 'Smitty' Smith for their longer lasting and more recent work at the time for the band.<ref>https:<i>www.allmusic.com/artist/tom-salisbury-mn0000063612/credits</ref><ref>https:</i>en.wikipedia.org/wiki/William_%22Smitty%22_Smith</ref>
 
-## References ##
+<h2> References </h2>

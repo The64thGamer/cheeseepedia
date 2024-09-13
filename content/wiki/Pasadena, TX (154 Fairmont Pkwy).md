@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-05-18T21:59:31Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf12349","ShowbizMidwest"]
 gallery = []
 +++
-{{Stub}}{{Generic|desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg}}
-**_Pasadena, TX (154 Fairmont Pkwy) Store #691**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a Showbiz Pizza Place that opened on June 9, 1982 with a Rock-afire Explosion and closed as a Chuck E. Cheese's in February 2007 (day unknown) with a 3-Stage.
+
+<b><i>Pasadena, TX (154 Fairmont Pkwy) Store #691</b></i><ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a Showbiz Pizza Place that opened on June 9, 1982 with a Rock-afire Explosion and closed as a Chuck E. Cheese's in February 2007 (day unknown) with a 3-Stage.
 
 It was located in the Fairmont Junction shopping center. The store would be relocated to Pasadena, TX (5075 Fairmont Pkwy) (5075 Fairmont Pkwy) which opened with a Studio C 2000 (Studio C 2000, 16m); that store is still operating to this day.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-afire Explosion, as all other Showbiz locations did. They would have it for a few years until 1991, when they would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), this was the process used to turn the RAE into the CEC characters. They would have this until their closure in February 2007. Unfortunately, there are videos but hardly any photos of Pasadena, TX as a Showbiz Pizza or of their exterior.
 {| class='wikitable'
 |+
@@ -31,11 +32,11 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 | February 2007
 |One of 17 Showbiz stores in Texas to undergo Concept Unification.
 |}
-##History##
+<h2>History</h2>
 Pasadena opened as a corporate-owned Showbiz Pizza Place on June 9th, 1982. This was the 11th Showbiz Pizza Place in Texas (After [San Antonio Ingram]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}}), [Houston FM 1960]({{< ref "wiki/Houston, TX (2220 FM 1960).md" >}}), [Houston Antoine]({{< ref "wiki/Houston, TX (6760 Antoine Dr).md" >}}), [Houston Memorial]({{< ref "wiki/Houston, TX (14637 Memorial Dr).md" >}}), [Austin Burnet]({{< ref "wiki/Austin, TX (8038 Burnet Rd).md" >}}), Fort Worth, TX (5014 Trail Lake Dr) (Fort Worth Trail Lake Dr), [Austin Ben White]({{< ref "wiki/Austin, TX (502 W Ben White Blvd).md" >}}), [North Richland Hills]({{< ref "wiki/North Richland Hills, TX (7935 Grapevine Hwy).md" >}}), [Richardson]({{< ref "wiki/Richardson, TX (1235 E Belt Line Rd).md" >}}), & [Houston Bellfort]({{< ref "wiki/Houston, TX (7735 W Bellfort Ave).md" >}})). Sadly, there is hardly any documentation of Pasadena when it was a Showbiz Pizza. They would receive the 1988 remodel a few years later removing old Showbiz decor for newer decor.
 
 Pasadena received Concept Unification in 1991 which involved the removal of the Rock-afire Explosion for the 3-Stage, removal of all SPP decor for newer decor, and a change to the exterior. In the Mid-Late 90's, they received the Phase 2 remodel which removes early 90's decor, added newer decor and SkyTubes. This also applies to the exterior. They would remain like this until their closure in February 2007 (day unknown) when the store Pasadena, TX (5075 Fairmont Pkwy) (relocated down the street.) It is unknown why they relocated, but could be assumed that the shopping center the location was in was abandoned and it was the only one open. After closure, they were abandoned for a year being filled by multiple businesses until they all closed to become a Dollar Tree. Currently, as of February 2023, the location is still a Dollar Tree.
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -56,7 +57,7 @@ Pasadena received Concept Unification in 1991 which involved the removal of the 
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -111,5 +112,5 @@ Pasadena received Concept Unification in 1991 which involved the removal of the 
 |N/A
 |Unknown
 |}
-##References##
+<h2>References</h2>
 <references />

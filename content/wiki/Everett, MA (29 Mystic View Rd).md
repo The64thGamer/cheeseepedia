@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-08-14T02:59:21Z
 
 [Article]
+pageThumbnailFile = "EverretMABetaStage 2021 1.jpg|Everett's Studio C Beta, 32M before removal."
 contributors = ["Jacouby","Epicniceperson","Midwestretail","The 64th Gamer","Chuckstar69","Harchambeault2026","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=EverretMABetaStage 2021 1.jpg|desc=Everett's Studio C Beta, 32M before removal.}}
-**_29 Mystic View Road #02149**_ is a Chuck E. Cheese's which opened on June 19, 2001, with a [Studio C Beta, 32M]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel). Everett is the only 32M Beta in New England, as all other Betas in the region were / are 16M Betas. 
+
+<b><i>29 Mystic View Road #02149</b></i> is a Chuck E. Cheese's which opened on June 19, 2001, with a [Studio C Beta, 32M]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel). Everett is the only 32M Beta in New England, as all other Betas in the region were / are 16M Betas. 
 
 This location is likely a relocation of [West Roxbury, MA (1665 VFW Pkwy)]({{< ref "wiki/West Roxbury, MA (1665 VFW Pkwy).md" >}}), which closed in June 2001 with a [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}).
 
-## History ##
+<h2> History </h2>
 This location originally opened up with Phase 3 and had the Cool Chuck '01 outfit before getting the Avenger outfit sometime in the early 2010s. The hat would be removed in September 2013. Then, in November 2014, along with [Methuen, MA (90 Pleasant Valley Rd)]({{< ref "wiki/Methuen, MA (90 Pleasant Valley Rd).md" >}}), they would remodel to the 2013 update of 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative and the location was never the same after. 
 
 According to Chuck E. Cheese CEO David Mckillips on an Instagram post in April 2024, along with [Manchester, NH]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}), Everett was said to install the Trampoline Zone, which was fully setup by early May. On July 8, 2024, the store would receive the CEC 2018 2.0 Remodel Program (2.0 Remodel), removing its show on the same day.
 
 As of August 2024, Everett remains like this with the 2.0 remodel.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -48,7 +49,7 @@ As of August 2024, Everett remains like this with the 2.0 remodel.
 
 MassLive Promotional Photo (June 2024) <ref>https://www.masslive.com/entertainment/2024/06/only-2-mass-chuck-e-cheeses-still-have-animatronics-but-thats-about-to-change.html</ref>
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 ! Link
@@ -69,10 +70,10 @@ MassLive Promotional Photo (June 2024) <ref>https://www.masslive.com/entertainme
 |-
 |}
 
-## References ##
+<h2> References </h2>
 <references />
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

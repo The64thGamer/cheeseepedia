@@ -14,9 +14,9 @@ CU INSTALLATION TRAINING TAPE
 Serial #2888 Deck - 3
 12/01/91 - Master #5}}
 
-The **_Concept Unification Installation Tape**_ was a 1991 training tape sent with the [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) package as a visual medium for demonstrating the Concept Unification Process.
+The <b><i>Concept Unification Installation Tape</b></i> was a 1991 training tape sent with the [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) package as a visual medium for demonstrating the Concept Unification Process.
 
-## Contents ##
+<h2> Contents </h2>
 The video shows the Concept Unification process step-by-step. Most of the video is comprised of reference clips showing what the stage should look like as the steps are being performed.
 
 The video covers:
@@ -38,11 +38,11 @@ The video covers:
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * The tape uses four stock music tracks throughout its duration:
-** 'Port of Mystery' by Yanni (_Keys to Imagination_, 1986)
-** 'Galadriel' by Spyro Gyra (_Spyro Gyra_, 1977)
+** 'Port of Mystery' by Yanni (<i>Keys to Imagination</i>, 1986)
+** 'Galadriel' by Spyro Gyra (<i>Spyro Gyra</i>, 1977)
 *** This song is repeated at the very end of the tape.
-** 'The Glide' by Oregon (_Crossing_, 1985)
-** 'Cascade' by Spyro Gyra (_Spyro Gyra_, 1977)
+** 'The Glide' by Oregon (<i>Crossing</i>, 1985)
+** 'Cascade' by Spyro Gyra (<i>Spyro Gyra</i>, 1977)

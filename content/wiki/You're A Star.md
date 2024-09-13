@@ -16,19 +16,19 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_You're A Star**_ was a show that released in September of 1993 at Chuck E. Cheese's.
+<b><i>You're A Star</b></i> was a show that released in September of 1993 at Chuck E. Cheese's.
 
-## Production ##
+<h2> Production </h2>
 
-#### Filming Locations: ####
+<h2>== Filming Locations: </h2>==
 
 * For segment one, The Studios at Los Colinas, the studio used for sets in the 1993 shows, is shown beyond the sets for the first time.
 
-##Show List ##
-#**** **Segment 1**
+<h2>Show List </h2>
+#<b></b> <b>Segment 1</b>
 ##'I'm So Excited'
 ##'You're A Star'
-#**** **Intermission 1**
+#<b></b> <b>Intermission 1</b>
 ##Trivia
 ##'Birthday Star'
 ##Chuck E.'s Zoo View
@@ -40,10 +40,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Trivia
 ##Ocean Reflections
 ##Trivia
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Wooly Bully'
 ##'I Fall To Pieces'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##Trivia
 ##'Birthday Star'
 ##Acrobats
@@ -53,25 +53,25 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##CEC TV '93 ID
 ##'Birthday Star (Walk-In)'
 ##Trivia
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Fun Check'
 ##'Vacation'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##Trivia
 ##'Birthday Star'
 ##CEC TV News Flash
 ##Larry The Technician - 'Munch's Hat'
 ##CEC TV '93 ID
 ##Surfing
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'We Want To Say Thank You'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##VJ Spot
 ##Trivia
 ##'Birthday Star (Walk-In)'
 ##Trivia
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 *Starting with this show, Birthday Star (Walk-In) is included as an option.
 *Dick Frank, former CEO of CEC Entertainment, makes a cameo in Wooly Bully inside of Frank's Barber Shop.

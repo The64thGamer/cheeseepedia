@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-09-08T18:33:31Z
 
 [Article]
+pageThumbnailFile = "CECFlorence2.0exterior.jpg|Florence's Exterior (2022) PC: Joshua"
 contributors = ["Documentor","Mousester","CECBowlingGreen","RedaCEC","SuperCreamPiper2008","ChuckECool","ThatBoiCydalan","2600:4040:5A0E:D900:ACE2:E035:4385:1E5C","CEC Tinley","Rexburg090","2600:4040:5A0E:D900:536:4D5F:5C9C:EB38","Caydenpedia","2600:4040:5A0E:D900:BC79:7D2C:188E:B2DB","Cyberamics"]
 gallery = []
 +++
-{{Generic|image=CECFlorence2.0exterior.jpg|desc=Florence's Exterior (2022) PC: Joshua}}
-**_Florence, Ky (7635 Mall Rd) #212/112**_ originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).<ref>https://www.newspapers.com/article/the-cincinnati-post/99572685/</ref> and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
+
+<b><i>Florence, Ky (7635 Mall Rd) #212/112</b></i> originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).<ref>https://www.newspapers.com/article/the-cincinnati-post/99572685/</ref> and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
 
 The Florence, KY Pizza Time Theatre opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008.
 
-##Stages##
-The store opened with the [Balcony Stage]({{< ref "wiki/Classic Stage.md" >}}) with Madame Oink being the first guest star playing [Around the World with Madam Oink]({{< ref "wiki/Around the World with Madam Oink.md" >}}) also featured The King / King Kat (Cyberamic) (The King) in the Lounge both debuting on April 19, 1982<ref>https://www.newspapers.com/article/the-cincinnati-enquirer/32415087/</ref>. The location would then receive Harmony Howlette in 1982<ref>https://www.newspapers.com/article/the-courier-journal/32427085/</ref> and finally [Helen Henny]({{< ref "wiki/Helen Henny.md" >}}) in 1983.  
+<h2>Stages</h2>
+The store opened with the [Balcony Stage]({{< ref "wiki/Classic Stage.md" >}}) with Madame Oink being the first guest star playing [Around the World with Madam Oink]({{< ref "wiki/Around the World with Madam Oink.md" >}}) also featured The King / King Kat (Cyberamic) (The King) in the Lounge both debuting on April 19, 1982<ref>https:<i>www.newspapers.com/article/the-cincinnati-enquirer/32415087/</ref>. The location would then receive Harmony Howlette in 1982<ref>https:</i>www.newspapers.com/article/the-courier-journal/32427085/</ref> and finally [Helen Henny]({{< ref "wiki/Helen Henny.md" >}}) in 1983.  
 
-Between 1988-1989 Florence would receive the [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}); Around this time the The King / King Kat (Cyberamic) (The King) would also be removed.  in 2000 Helen would receive brand new cosmetics replacing her Pizza Time Theatre look for the newer 90s Cosmetics. The animatronic flowers would also be removed around this time<ref>https://www.instagram.com/p/CcGxjQavlow</ref><ref>https://www.youtube.com/watch?v=WFkViBxFxlc</ref>.    
+Between 1988-1989 Florence would receive the [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}); Around this time the The King / King Kat (Cyberamic) (The King) would also be removed.  in 2000 Helen would receive brand new cosmetics replacing her Pizza Time Theatre look for the newer 90s Cosmetics. The animatronic flowers would also be removed around this time<ref>https:<i>www.instagram.com/p/CcGxjQavlow</ref><ref>https:</i>www.youtube.com/watch?v=WFkViBxFxlc</ref>.    
 
-Between 2002-2003 Florence would replace the [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) with [2-Stage]({{< ref "wiki/2-Stage.md" >}}) from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}).<ref name=':0'>https://www.instagram.com/p/Cb-4_qpPOAK/</ref> Hampton, VA was owned by Family Entertainment Centers of Virginia, Inc<ref>https://www.newspapers.com/article/daily-press-hampton-va-king/147663084/</ref>, which relocated in May 2002<ref>https://www.newspapers.com/image/274161568/</ref>. The Wink and MMBB Curtains were not installed most likely due to damage during shipping. 
+Between 2002-2003 Florence would replace the [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) with [2-Stage]({{< ref "wiki/2-Stage.md" >}}) from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}).<ref name=':0'>https:<i>www.instagram.com/p/Cb-4_qpPOAK/</ref> Hampton, VA was owned by Family Entertainment Centers of Virginia, Inc<ref>https:</i>www.newspapers.com/article/daily-press-hampton-va-king/147663084/</ref>, which relocated in May 2002<ref>https://www.newspapers.com/image/274161568/</ref>. The Wink and MMBB Curtains were not installed most likely due to damage during shipping. 
 
 Despite curtains being disabled in 2005 Florence would continue to use them for live shows and birthdays.  
 
@@ -57,8 +58,8 @@ On March 31, 2022 Florence's 2-Stage was removed for its new CEC 2018 2.0 Remode
 |April 2022
 |Still In Use
 |}
-##History ##
-The Florence, KY location was opened on April 19, 1982 by The Bernstein Restaurant Group. '...play some 60 video games at the resturant. There also will be a ski-ball lane to play and hydraulic rides, such as a carousel and a helocopter, for children to ride.' 'The dining room will feature a puppet show. The puppets are electronic and are activated by computer tape. 'The shows last about seven or eight minutes,' said Bernstein'. <ref>https://www.newspapers.com/article/the-cincinnati-post/99572685/</ref> Despite a May 1982 article stating 'computer-controlled robots with names such as Dolli Dimples and the Beagles entertain youngsters.' <ref>https://www.newspapers.com/article/the-courier-journal/38825040/</ref> There is no photographic proof they existed and this is the only article referencing them.  
+<h2>History </h2>
+The Florence, KY location was opened on April 19, 1982 by The Bernstein Restaurant Group. '...play some 60 video games at the resturant. There also will be a ski-ball lane to play and hydraulic rides, such as a carousel and a helocopter, for children to ride.' 'The dining room will feature a puppet show. The puppets are electronic and are activated by computer tape. 'The shows last about seven or eight minutes,' said Bernstein'. <ref>https:<i>www.newspapers.com/article/the-cincinnati-post/99572685/</ref> Despite a May 1982 article stating 'computer-controlled robots with names such as Dolli Dimples and the Beagles entertain youngsters.' <ref>https:</i>www.newspapers.com/article/the-courier-journal/38825040/</ref> There is no photographic proof they existed and this is the only article referencing them.  
 
 In July 1984 while the parent company Pizza Time Theatre was declaring bankruptcy Jim Berenstain stated 'Chuck E. Cheese is not dead. We're in business and planning to stay,'. <ref>https://www.newspapers.com/article/the-cincinnati-enquirer/38804479/</ref> 
 
@@ -90,7 +91,7 @@ On March 14, 2022, Florence would begin its [CEC 2018 2.0 Remodel Program]({{< r
 
 On August 29, 2024 Florence would install its Trampoline Zone. Around this time the store would also receive an updated game package 
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -108,7 +109,7 @@ On August 29, 2024 Florence would install its Trampoline Zone. Around this time 
 |November 27, 2020.
 |-
 |[https://www.youtube.com/watch?v=ogqxTtE77Rs Link]
-|Footage of Florence during January 2005 singing 'Keep It Groovin_
+|Footage of Florence during January 2005 singing 'Keep It Groovin''
 |January 2005
 |January 25, 2018
 |-
@@ -162,7 +163,7 @@ On August 29, 2024 Florence would install its Trampoline Zone. Around this time 
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing Date
@@ -232,5 +233,5 @@ On August 29, 2024 Florence would install its Trampoline Zone. Around this time 
 |February 1982
 |Destroyed. Originally from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}). Removed in March 2022.
 |}
-##References##
+<h2>References</h2>
 <references />

@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-05-21T11:41:01Z
 
 [Article]
+pageThumbnailFile = "Madison WI CEC 2.0 Exterior.png|Exterior, August 2022"
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|image=Madison WI CEC 2.0 Exterior.png|desc=Exterior, August 2022}}
-**_438 Grand Canyon Dr, Store #604**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).
-##History##
+
+<b><i>438 Grand Canyon Dr, Store #604</b></i> is a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on July 7, 1982 as a corporate <i>ShowBiz Pizza Place</i> with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).
+<h2>History</h2>
 Madison opened its doors on July 7th, 1982 as the third Showbiz Pizza Place in Wisconsin after Milwaukee (Good Hope Rd & S 27th St, both opened a year prior in June 17th and August 27th, 1981, respectively). It was originally and currently a corporate-owned store. Madison originally featured the Rock-Afire Explosion, as all other Showbiz locations did. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Madison was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Madison received the Showbiz Pizza Campground upgrade.
 
 In August of 1991, Madison received Concept Unification which converted the show to Munch's Make Believe Band, but kept the Showbiz name until 1992. By 1995, Madison received another remodel which involved the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) game package and expanded the exterior. In around the Late 1990's, Madison received the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) game -package which removed some early 90's decor and added new decor and SkyTubes. Madison remained this way until sometime in 2008-2009 when they received the 2005 Remodel which involved removing the Showroom Walls, Balcony Seating, expanded the exterior again, got an expansion, and also removing some older 90's decor. In July 2021, they received the 2.0 remodel which removed the 3-Stage for the Dance Floor. The store's Grand Reopening occurred on August 26th, 2021<ref>https://www.wpr.org/chuck-e-cheese-grand-reopening</ref>. As of January 2023, they still have the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Madison opened with the Rock afire Explosion in July 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general.
 
 In August of 1991, Madison received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
@@ -41,7 +42,7 @@ In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 |Still in use
 |2021 Model. 
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -99,7 +100,7 @@ In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -110,9 +111,9 @@ In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 |Footage of the store in 1995
 |January 22, 1995
 |}
-##References##
+<h2>References</h2>
 <references />
 
-## Trivia ##
+<h2> Trivia </h2>
 *Madison was the 3rd ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)]({{< ref "wiki/Milwaukee, WI (7401 Good Hope Rd).md" >}}) (Opened June 17, 1981) & Milwaukee, WI (4595 S 27th St) (Opened August 27, 1981)
 *Madison was one of three ShowBiz locations in Wisconsin to undergo Concept Unification (The other two being Green Bay & [La Crosse]({{< ref "wiki/La Crosse, WI (4444 State Rd).md" >}})) as Milwaukee, WI (7401 Good Hope Rd) replaced their Rock-afire with a Cyberamics Rocker Stage (Rocker Stage) in June 1988 (Their show would get Concept Unification when the show was installed at [Raleigh]({{< ref "wiki/Raleigh, NC (3501-131 Capital Blvd).md" >}})) and the store would eventually close sometime in 1995 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Milwaukee, WI (4595 S 27th St) & Grand Chute / Appleton, WI (2424 W College Ave) (Appleton) on the other hand were closed by 1986 and never converted into Chuck E. Cheese.

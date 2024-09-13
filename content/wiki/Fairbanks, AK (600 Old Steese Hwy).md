@@ -9,9 +9,9 @@ contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer","216.125.34.66","Rexbur
 gallery = ["Fairbanks 2009.jpg|thumb|Fairbank's exterior after 2009. (PC: Google Maps)"]
 +++
 
-**_600 Old Steese Highway**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in January 1986 (day unknown) and closed in 1988 (month and day unknown) with a Balcony Stage. Not much is known about this location, other than 3 videos, and it being the final location to have a Balcony Stage installed.
+<b><i>600 Old Steese Highway</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened in January 1986 (day unknown) and closed in 1988 (month and day unknown) with a Balcony Stage. Not much is known about this location, other than 3 videos, and it being the final location to have a Balcony Stage installed.
 
-## Stages ##
+<h2> Stages </h2>
 Fairbanks opened with a Balcony Stage, being the very last to be installed. However, only a few videos exist, and after the 1988 closure, everything was auctioned off.
 {| class='wikitable'
 |+
@@ -26,10 +26,10 @@ Fairbanks opened with a Balcony Stage, being the very last to be installed. Howe
 |Last Balcony ever produced.
 |}
 
-## History ##
+<h2> History </h2>
 Fairbanks opened in January 1986 (day unknown) with a Balcony Stage. This would be the last CEC location opened for a while, as they wouldn't open another location until 1987. However, only 3 videos are confirmed to be from this location, and they show a good majority of the store. But in 1988 (month and day unknown), the location closed forever for unknown reasons, but it was likely in a bad area. After closure, it became a car dealership named Gene's, which closed by 2009. After closure, it became a church, only for it to close. As of July 2023, the building remains vacant once again. It is unknown if the building is going to be demolished.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronics
 !Production Date

@@ -9,48 +9,48 @@ contributors = ["The 64th Gamer","Documentor","Ceclife13","BurgersNuggs445"]
 gallery = ["Summertime00.png|thumb|Summertime 2000 ","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 
-**_Summertime 2000**_ was a showtape that released July 2000 and ran until September 2000. 
+<b><i>Summertime 2000</b></i> was a showtape that released July 2000 and ran until September 2000. 
 
 Featured 3 segments with songs themed around Summertime and America.
 
-## History ##
+<h2> History </h2>
 
-#### Filming Locations ####
+<h2>== Filming Locations </h2>==
 
 * 'Summertime' and 'Good Ol' Summertime' are filmed at the Fort Worth Japanese & Botanical Gardens
 * The lake in 'Row Your Boat' is White Rock Creek in Dallas, Texas.
 
-## Show Segments ##
+<h2> Show Segments </h2>
 
-#  **Segment 1** 
+#  <b>Segment 1</b> 
 ## 'Summertime'
 ## 'Fun, Fun, Fun'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ##  Kids Karaoke Spot (Studio C only)
 ##  For The Birds
 ##  Time To Fly! (Studio C only)
 ##  Store Intro - 'Brick NJ, CEC'
 ## CEC TV ID - 'Rocketship'
-#   **Segment 2**
+#   <b>Segment 2</b>
 ## 'Celebrate America'
 ## 'America'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Kids Karaoke Spot (Studio C only)
 ##  Chuck E.'s Home Movies at The Beach
 ## CEC TV ID - 'Cows'
 ##  Store Intro - 'Brick NJ, CEC'
-#  **Segment 3** 
+#  <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'Local Pizza Cabana' (Parody of [https://en.wikipedia.org/wiki/Copacabana_(song) 'Copacabana'])
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  Kids Karaoke Spot (Studio C only)
 ##  At The Zoo
 ## CEC TV ID - 'Rocketship'
 ##  Store Intro - 'Brick NJ, CEC'
 ## Book Your Party Online Promo
 
-## Lives ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * Chuck E. Says
 * Chuck E. Shuffle
@@ -67,11 +67,11 @@ Featured 3 segments with songs themed around Summertime and America.
 * Give My Regards to Broadway (Existing Stages only)
 
 
-**Birthday Break**: Summertime logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: Summertime logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The Brick, NJ Chuck E. Cheese is featured in a store intro.

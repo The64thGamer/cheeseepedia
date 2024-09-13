@@ -18,15 +18,15 @@ gallery = []
 | laseraam = y
 }}
 
-**_The Twist**_ is a live show that was released in August 1997. 
+<b><i>The Twist</b></i> is a live show that was released in August 1997. 
 
 This show ran from August 1997 to November 1997. 
 
 
-##Summary##
+<h2>Summary</h2>
 The show begins with an intro of Chuck E. Cheese using different forms of transportation. After, Chuck E. and Munch's Make Believe Band singing [https://en.wikipedia.org/wiki/Lets_Twist_Again Let's Twist Again]. At the end, Chuck E. Cheese says that he got all twisted up and he was gonna take a break. 
 
-##Showtape Releases##
+<h2>Showtape Releases</h2>
 {| class='wikitable'
 !Release Year
 !Showtape

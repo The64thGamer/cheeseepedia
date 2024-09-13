@@ -10,71 +10,71 @@ gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++
 To Do:
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## Cyberstar Intro
-# **Segment 1**
+# <b>Segment 1</b>
 ## [https://en.wikipedia.org/wiki/I%27m_Down I'm Bored (Parody of I'm Down)]
 ## The Chuck E. Cheese Summertime Couch Potato Quiz Skit
 ## [https://en.wikipedia.org/wiki/Get_on_Your_Feet Get on Your Feet]
 
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## It's Showtime!
-# **Video 1**
+# <b>Video 1</b>
 ## ?
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## Cyberstar Intro
-# **Segment 2**
+# <b>Segment 2</b>
 ## [https://en.wikipedia.org/wiki/Hot_Fun_in_the_Summertime Hot Fun in the Summertime]
 ## Get Up & Go Travel Skit
 ## [https://en.wikipedia.org/wiki/Kokomo_(song) Kokomo]
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## It's Showtime!
-# **Video 2**
+# <b>Video 2</b>
 ## ?
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## Cyberstar Intro
-# **Segment 3**
+# <b>Segment 3</b>
 ## [https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polkadot_Bikini Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini]
 ## Wild Fashions Skit
 ## [https://en.wikipedia.org/wiki/Hip_to_Be_Square Hip To Be Square]
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 8 Minute Countdown
 ### ?
 ### Birthday Extravaganza
 ### ?
 ### ?
 ## It's Showtime!
-# **Video 3**
+# <b>Video 3</b>
 ## ?
 
-## Music Videos (Unknown Placements) ##
+<h2> Music Videos (Unknown Placements) </h2>
 
 * [https://en.wikipedia.org/wiki/Opposites_Attract Opposites Attract (?)]
 * [https://en.wikipedia.org/wiki/You_Got_It_(The_Right_Stuff) You Got It (The Right Stuff)]

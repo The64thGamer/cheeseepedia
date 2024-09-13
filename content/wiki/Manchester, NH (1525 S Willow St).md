@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-09-10T23:10:28Z
 
 [Article]
+pageThumbnailFile = "Manchester 2.0.jpg|Exterior with 2.0 remodel, April 2024 (PC: dmckill on Instagram)"
 contributors = ["ChuckECool","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","2601:191:8580:9F90:1DD1:B54A:12E:6139","CECCheese","Cheeseclassic","The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E","66.250.190.28","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004","CEC1988"]
 gallery = []
 +++
-{{Generic|image=Manchester 2.0.jpg|desc=Exterior with 2.0 remodel, April 2024 (PC: dmckill on Instagram)}}
 
-**_Manchester, NH (1525 S Willow St), Store #472**_ is a Chuck E. Cheese's Pizza Time Theatre location that opened in August 1982 (Day unknown). This store is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
+
+<b><i>Manchester, NH (1525 S Willow St), Store #472</b></i> is a Chuck E. Cheese's Pizza Time Theatre location that opened in August 1982 (Day unknown). This store is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
 
 It is located in the South Willow Plaza Center. 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |+
 ! Stage
@@ -46,7 +47,7 @@ It is located in the South Willow Plaza Center.
 |Still In Use
 |2021 model. Last CEC in New Hampshire.
 |}
-##History##
+<h2>History</h2>
 Manchester opened in August 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), It is currently the oldest Chuck E. Cheese's location in New England.
 
 Manchester housed the Balcony Stage from 1982 until 1989 when they would receive the 1988 Remodel and convert the Balcony into the [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). They also featured The King in the Cabaret Room. They Also had Dolli Dimples.   
@@ -67,11 +68,11 @@ In September 2023, Manchester started its 2.0 remodel. The Studio C Beta stage w
 
 In April 2024, according to Chuck E. Cheese CEO David Mckillips on Instagram, Manchester, along with [Everett, MA]({{< ref "wiki/Everett, MA (29 Mystic View Rd).md" >}}), were confirmed to get Trampoline Zones. It is expected to be installed and ready to go by May 4th. 
 
-##Trivia##
+<h2>Trivia</h2>
 - This location has the 2.0 PTT Logo, like Northridge's, its not at the front of the store though, it is at the Back (?)
 - This location also has the 'Make Magic' Sign even after the 2.0 remodel
    
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic 
 !Manufactuer Date
@@ -133,7 +134,7 @@ In April 2024, according to Chuck E. Cheese CEO David Mckillips on Instagram, Ma
 |N/A
 |Unknown
 |}
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -153,9 +154,9 @@ Birthday Extravaganza 1990, Land of 1,000 Dances/Chuck E's Place
 |Studio C Beta 16M in it's current state, with Orange CT's Head. 
 |November 2nd, 2022
 |}
-##Gallery ##
+<h2>Gallery </h2>
 
 
-##References##
+<h2>References</h2>
 
 <references />

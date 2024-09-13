@@ -18,44 +18,44 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_July 2014**_ is the Generic Summer show released July 1st 2014 featuring six songs
+<b><i>July 2014</b></i> is the Generic Summer show released July 1st 2014 featuring six songs
 
 This was created to play from July 1st - August 31st 2014. This show features Six songs and a new live show Chuck E. Says and a 'more fun version' of Rock star Birthday.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Music Video - 'Friendship Never Ends' (Chuck E.)
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Sketch - 'Where's Steve Waters'
 ## Sketch - Hard Hat Hank - 'Box'
 ## Show Break 1 - 'Cats'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Music Video - 'Dare To Be You' (Helen)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Sketch - 'A Joke From Pasqually'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Music Video - 'Rockin' Robot' (Chuck E.)
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Sketch - 'Steve Water Auditions'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Music Video - 'Arizona' (Jasper)
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Sketch - 'Pizza Plant'
 ## Show Break 2 - 'City Time Lapse'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Music Video - 'Nobody Knows' (Munch)
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Show Break 3 - 'Driving Through The City'
 ## Sketch - 'Set Up For The Finale'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Music Video - 'Happy To Be Seeing You' (Chuck E. & The Steve Water Understudies)
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Sketch - 'Steve Waters Return'
 ## Sketch - Bobby Bear - 'Marlon the Marlin' 
 ## Show Break 4 - 'Hot Air Balloon Journey'
 
-## Live Shows ##
+<h2> Live Shows </h2>
 
 * Rock Star Birthday (2014) (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -69,7 +69,7 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 
 
 
-## Official Releases ##
+<h2> Official Releases </h2>
 *[https://www.youtube.com/watch?v=yDf7J3M0YQc 'Friendship Never Ends' on YouTube]
 *[https://www.youtube.com/watch?v=vek_B492nvE 'Dare To Be You' on YouTube]
 *[https://www.youtube.com/watch?v=2vhdbPPgoP0 'Rockin' Robot' on YouTube]
@@ -77,11 +77,11 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 *[https://youtu.be/IXAnFlTVvj8?t=765 'Nobody Knows' on YouTube]
 *[https://youtu.be/IXAnFlTVvj8?t=970 'Happy To Be Seeing You' on YouTube]
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * July 2014 is known as 'The Chuck E. Cheese Show' on show newsletters.
 
-* Show Break 1 - 'Cats' was stolen from [https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991 Cory Williams Vimeo Page]. <ref>https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/</ref>
+* Show Break 1 - 'Cats' was stolen from [https:<i>vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991 Cory Williams Vimeo Page]. <ref>https:</i>newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/</ref>
 * Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'<ref>https://www.youtube.com/watch?v=RhmUnk454MA</ref>
 
 * This show was originally created as a generic show to be played during times when the meant to be played is broken. Due to the lawsuit this was dropped during Fall 2014.
@@ -94,4 +94,4 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 * Rock Star Birthday was redubbed to replace John Bowens Munch voice with Chris Hills.
 * The Live Show countdown for this show is the Cyberstar countdown from the 80s.
 
-## References ##
+<h2> References </h2>

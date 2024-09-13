@@ -8,12 +8,12 @@ date = 2023-08-08T21:21:05Z
 contributors = ["Cecbird","CEC Tinley","Totalrockafirenerd","Blowseborg062","2600:4040:5A0E:D900:55AD:4390:7236:1EE8"]
 gallery = []
 +++
-**_965 S Opdyke Rd**_ was a _ShowBiz Pizza Place_ located in Pontiac, Michigan that opened on November 4, 1982, with a Rock-afire classic stage and closed on January 8, 1984.
+<b><i>965 S Opdyke Rd</b></i> was a <i>ShowBiz Pizza Place</i> located in Pontiac, Michigan that opened on November 4, 1982, with a Rock-afire classic stage and closed on January 8, 1984.
 
-## History ##
+<h2> History </h2>
 Pontiac opened its doors on November 4th, 1982, as the 4th ShowBiz Pizza in Michigan. They opened with a Rock-afire Explosion like every other ShowBiz did. It had a typical SPP layout seen in many other stores across the United States. After a little under two years of operation, the store permanently closed on January 8, 1984.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -27,7 +27,7 @@ Pontiac opened its doors on November 4th, 1982, as the 4th ShowBiz Pizza in Mich
 |4th ShowBiz Pizza store in Michigan.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Character
@@ -82,5 +82,5 @@ Pontiac opened its doors on November 4th, 1982, as the 4th ShowBiz Pizza in Mich
 
 N/A
 
-## Videos ##
+<h2> Videos </h2>
 N/A

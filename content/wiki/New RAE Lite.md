@@ -5,14 +5,15 @@ tags = ["Stage Variations"]
 date = 2024-05-17T01:46:54Z
 
 [Article]
+pageThumbnailFile = "mini fake question mark.png|No known photos of the real stage variant exist. This is similar to what it would've looked like"
 contributors = ["GallaRBX2"]
 gallery = []
 +++
-{{Generic|image=mini fake question mark.png|desc=No known photos of the real stage variant exist. This is similar to what it would've looked like}}
 
-The **_New Rock-afire Lite Stage**_ was a stage designed in the 90s, designed as a cheaper alternative to the New Rock-afire Explosion stage, with only 2 stages instead of 3.
 
-## Design ##
+The <b><i>New Rock-afire Lite Stage</b></i> was a stage designed in the 90s, designed as a cheaper alternative to the New Rock-afire Explosion stage, with only 2 stages instead of 3.
+
+<h2> Design </h2>
 The stage features two stages containing separate visual scenes alongside their animatronic characters, and a turntable on stage center.  
 
 Stage Center features a turntable, with three smaller turntables. There is a character on each smaller turntable, the characters featured are Billy Bob, Mitzi, and Fatz. On the wall behind the turntable, is various props and lighting effects. There are 4 big speakers on the stage, which have movements on them. There is an organ, EQ equipment, horns, and 2 levers across the walls. Above the organ are 4 Neon music notes that light up. at the back of the stage are 2 neon signs that say 'Rock-afire' and 'Explosion'. There are also various plastic half spheres of different sizes and colors placed on the back wall, and plastic music notes, along with a White circle, a lightning bolt, a star, and a heart, all of which have lights pointed at them.

@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-04-29T20:25:30Z
 
 [Article]
+pageThumbnailFile = "Lowell 2.0.jpg|Exterior, November 2023 (PC: destinationimagination95)"
 contributors = ["The 64th Gamer","Destinationimagination95","2601:191:8580:9F90:C584:A34:12A5:5D31","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","CECCheese","2601:188:CA81:2BE0:C052:73A9:2EC:7C11","BurgersNuggs445","2601:188:CA81:2BE0:D10E:7D00:6DA4:6E76","50.206.240.150","2601:188:CA81:2BE0:911F:66E2:226F:D1FE","Cheeseclassic","Slussier1","YBP123","Harchambeault2026"]
 gallery = []
 +++
-{{Generic|image=Lowell 2.0.jpg|desc=Exterior, November 2023 (PC: destinationimagination95)}}
 
-**_ Lowell, MA (199 Plain St), Store #457**_, is a _Chuck E. Cheese_ location that opened on May 27th, 1993, and is still around today with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). It is located in the Meadow Brook Center.
+
+<b><i> Lowell, MA (199 Plain St), Store #457</b></i>, is a <i>Chuck E. Cheese</i> location that opened on May 27th, 1993, and is still around today with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). It is located in the Meadow Brook Center.
 
 This store opened on the same day as [Miami, FL (20335 Biscayne Blvd)]({{< ref "wiki/Miami, FL (20335 Biscayne Blvd).md" >}}).
 
-## History ##
+<h2> History </h2>
 Lowell opened May 27th, 1993, in Meadow Brook Center, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Kinetix Group Inc. produced the Show. All 5 opening day masks were from [Corporate's]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) Road Stage, designed by Jul Kamen. 
 
 Lowell would be the first 1-Stage to have a blank brick wall for Pasqually, as the other early 1-Stages would feature the 'Pasqually's Amateur Hour' Art. Lowell also features minor differences in the cityscape backdrops that were changed for later versions, such as the edges of the far corners of the buildings being all green instead of the standard red that most 1-Stages would receive. 
@@ -90,7 +91,7 @@ On April 24, 2024, the store would receive the trampolines. Then on April 25, 20
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

@@ -8,7 +8,7 @@ date = 2023-08-23T13:38:33Z
 contributors = ["Concordio"]
 gallery = []
 +++
-## About Me ##
+<h2> About Me </h2>
 I'm Concord. I joined the CEC fandom around 2017 for a short time, then joined again around August 2021.
 
 Fairly knowledgeable on 1970s arcade games. Atari is my personal favorite company. Feel free to talk to me about any concerns with my pages. I have a passion for writing and decided to contribute to the wiki to combine my writing passion with my passion for Pizza Time Theatre.
@@ -16,7 +16,7 @@ Fairly knowledgeable on 1970s arcade games. Atari is my personal favorite compan
 
 I don't really touch any CEC history past 1986, I mostly stick from 1977 to 1981.  
   
-## Merchandise ##
+<h2> Merchandise </h2>
 I own too much merch for my own good. I'll state the notable examples:
 
 # 1977 Pizza Time Theatre token
@@ -27,7 +27,7 @@ I own too much merch for my own good. I'll state the notable examples:
 # Coinbanks (1980 Jasper coinbank, 1981 Jasper coinbank, 1981 Chuck E. Cheese coinbank.)
 # 1979 Pizza Time Theatre frisbee. 
 
-## CEC Locations I've Visted ##
+<h2> CEC Locations I've Visted </h2>
 
 # Middletown, New York
 # East Hanover, New Jersey
@@ -40,9 +40,9 @@ I own too much merch for my own good. I'll state the notable examples:
 
 I've also been to a few others but it was so long ago that I can't recall the exact locations.
 
-## Pages I've Written ##
+<h2> Pages I've Written </h2>
 
-### Signage ###
+<h2>= Signage </h2>=
 
 # [PTT Skee-Ball Points Sign (1978)]({{< ref "wiki/PTT Skee-Ball Points Sign (1978).md" >}})
 # [PTT Fantasy Forest Game Preserve Sign (1978)]({{< ref "wiki/PTT Fantasy Forest Game Preserve Sign (1978).md" >}})
@@ -51,9 +51,9 @@ I've also been to a few others but it was so long ago that I can't recall the ex
 # [PTT Winchester Restrooms Sign]({{< ref "wiki/PTT Winchester Restrooms Sign.md" >}})
 # [PTT Winchester Game Room Rules Sign]({{< ref "wiki/PTT Winchester Game Room Rules Sign.md" >}})
 
-### Nameplates ###
+<h2>= Nameplates </h2>=
 
-#### Winchester ####
+<h2>== Winchester </h2>==
 
 # [PTT Winchester Chuck E. Cheese Name Sign (1977)]({{< ref "wiki/PTT Winchester Chuck E Cheese Name Sign (1977).md" >}})
 # [PTT Winchester Crusty Name Sign (1977)]({{< ref "wiki/PTT Winchester Crusty Name Sign (1977).md" >}})
@@ -63,7 +63,7 @@ I've also been to a few others but it was so long ago that I can't recall the ex
 # [PTT Madam Oink Name Sign (1978)]({{< ref "wiki/PTT Madam Oink Name Sign (1978).md" >}})
 # [PTT Winchester Foxy Colleen Name Sign (1978)]({{< ref "wiki/PTT Winchester Foxy Colleen Name Sign (1978).md" >}})
 
-#### Kooser ####
+<h2>== Kooser </h2>==
 
 # [PTT Kooser Chuck E. Cheese Name Sign (1978)]({{< ref "wiki/PTT Kooser Chuck E Cheese Name Sign (1978).md" >}})
 # [PTT Kooser Mr. Munch Name Sign (1978)]({{< ref "wiki/PTT Kooser Mr Munch Name Sign (1978).md" >}})

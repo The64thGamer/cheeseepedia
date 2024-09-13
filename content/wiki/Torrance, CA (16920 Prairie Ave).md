@@ -9,12 +9,12 @@ contributors = ["ChuckECool","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","Pasquall
 gallery = ["TorranceCAPrairie2.0Exterior .jpg|thumb|A photo of the store's 2.0 Exterior (February 2023) (PC: CEC Torrance)"]
 +++
 
-**_16920 Prairie Ave, Store #465**_ also known as 'Prairie' was a Chuck E. Cheese's Pizza Time Theatre that opened on 1983 (month and day currently unknown).
+<b><i>16920 Prairie Ave, Store #465</b></i> also known as 'Prairie' was a Chuck E. Cheese's Pizza Time Theatre that opened on 1983 (month and day currently unknown).
 
 This location should not be confused with [Torrance, CA (2821 Pacific Coast Hwy)]({{< ref "wiki/Torrance, CA (2821 Pacific Coast Hwy).md" >}}) as it opened on March 24, 1983, as a Showbiz Pizza Place and is still open to this day. It is also known for having a PTT and a SPP within the same city.
-##History##
+<h2>History</h2>
 Torrance (Prairie) opened in 1983 and originally had a Balcony Stage and was a franchised owned store until October 22, 1984, when it was bought by the corporate. Torrance (Prairie) would receive the 1988 remodel in 1989 or 1990 removing the Balcony Stage for Chuck E.'s House Facade. In the Early 90's, the Chuck E.'s House stage was removed for the 2-Stage. In the Late 90's, Torrance (Prairie) received the Phase 3 Remodel which removed older 90's decor, added newer decor, and SkyTubes. Torrance (Prairie) received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008-2009 which removed the Showroom Walls, Balcony Seating, and somehow, keep the Phase 3 exterior. Torrance (Prairie) remained like this until January 2023 when they received the 2.0 Remodel removing the 2-Stage for the Dance Floor and Video Wall because of it being on the list and of the exterior logo sign suffering from old age. The store's Grand Reopening was on March 2nd, 2023, and Helen Henny and Mr. Munch made guest appearances. Currently, as of March 2023, they still have the 2.0 remodel and Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres did. Unfortunately, there were not many photos or videos of Torrance (Prairie) back then. They would have it for a few years until 1989/1990, when they would receive a C-Stage (Chuck E.'s House Facade), they would have it for a short time until the mid 1990's, when they would receive a 2-Stage. They would have the 2-Stage for many years, until January 2023, when they would remove the 2-Stage for a Dance Floor and Video Wall, as a part of the 2.0 Remodel. Currently, as of February 2023, they still have the Dance Floor and Video Wall.
 {| class='wikitable'
 |+
@@ -43,7 +43,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 |Still In Use
 |2019 Model
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -105,7 +105,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

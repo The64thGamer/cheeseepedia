@@ -18,67 +18,67 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 1 2021**_ also known as the 'Evergreen show' is the generic show released January 4, 2021 featuring a variety of songs released from 2016-2020
+<b><i>Show 1 2021</b></i> also known as the 'Evergreen show' is the generic show released January 4, 2021 featuring a variety of songs released from 2016-2020
 
 This was created with the idea to play between promotional events. This show features 8 Songs. 7 Reused and 1 new. Originally played January 4, 2021 - February 28, 2021 then after Chuck E. Cheese's Show 2 2021 (Show 2 2021) played again from April 26, 2021 - May 30, 2021.  
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Social Distancing Safety Message
 ## Juicebox Jukebox - “The ABC’s of You”
 ## KIDZ BOP Kids - “Say So”
-#**Skit 1**
+#<b>Skit 1</b>
 ##Chuck E. Cheese - “Another Chuck E. Day”
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##Katy Perry - “Never Really Over”
 ##Ben Rudnick  - “I Got a New Friend”
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. & Friends - “Ves Al Ratoncito”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Social Distancing Safety Message
 ##The Whizpops! - “Sea Turtle”
 ## KIDZ BOP Kids - “The Git Up”
-#**Skit 3**
+#<b>Skit 3</b>
 ##Jasper T. Jowls - “The Tail of Jasper T.”
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Zedd, Maren Morris, Grey - “The Middle”
 ##Jokes from Pasqually - “Anchor”
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E. Cheese - 'Lend a Helping Hand'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Social Distancing Safety Message
 ## Juicebox Jukebox - “Clean it Up”
 ## KIDZ BOP Kids - “Blinding Lights”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E. Cheese - 'Let's Have a Party'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Kelly Rowland - “Crown”
 ##Musing with Mr. Munch Ep1
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. & Friends - 'My Family'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Social Distancing Safety Message
 ##Rockalingua - “Las Partes Del Cuerpo”
 ## KIDZ BOP Kids - “Wings”
-#**Skit 7**
+#<b>Skit 7</b>
 ##Pasqually & A Giant Armadillo Named, Phil - “Chuck E. World”
-# **Intermission 8**
+# <b>Intermission 8</b>
 ##Danny Weinkauf - “The Moon is Made of Cheese”
 ##Pink Panda - “People (Get Together)”
-# **Skit 8**
+# <b>Skit 8</b>
 ##DJ Munch - 'DJ Munch'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 *Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * DJ Munch was originally filmed in October 2019, wasn't released until September 2020 on YouTube then put into Show 1 2021. 
 * For stores that have Studio C or Weigl updated live shows were included but couldn't be played.

@@ -15,9 +15,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 | pttreel = y
 |cabaretBB=y}}
 
-The **_B.B. Bubbles Showtape**_ is a standard Cabaret Showtape used in the 1980's with the character B.B. Bubbles. The showtape is very unfinished and there are only 3 segments known.
+The <b><i>B.B. Bubbles Showtape</b></i> is a standard Cabaret Showtape used in the 1980's with the character B.B. Bubbles. The showtape is very unfinished and there are only 3 segments known.
 
-##Segments:##
+<h2>Segments:</h2>
 Disclaimer: The segment list is unknown if it is fully finished or not. Many segments are still lost.
 
 * California Medley

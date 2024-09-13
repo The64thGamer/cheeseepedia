@@ -17,60 +17,60 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |cusvhs = y
 }}
 
-**Best of CEC TV 2003** released January 2003 and ran until April 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
+<b>Best of CEC TV 2003</b> released January 2003 and ran until April 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
 
 This show is made up of songs and intermissions reused from various 2000 - 2002 showtapes.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## [https://en.wikipedia.org/wiki/Larger_than_Life_(song) 'Larger Than Life']
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## The Tube Explorer
 ## WFW Babysitter
 ## CEC TV ID - 'Janitor'
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Chuck E.' (Parody of [https://en.wikipedia.org/wiki/(You_Drive_Me)_Crazy '(You Drive Me) Crazy' ])
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## CEC TV ID - 'Cows'
 ## Eddie Coker - 'I Believe'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Paper or Plastic' (Parody of [https://en.wikipedia.org/wiki/Paperback_Writer 'Paperback Writer'])
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## CEC TV ID - Marx Bros
 ## Baking With Betty - 'Trail Mix'
 ## Super Jasper - 'Resist The Temptation'
 ## CEC TV ID - 'Rocket'
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Drinkin' A Coca-Cola (Parody of [https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca 'Livin' La Vida Loca'])
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Monkey Ninjas - Episode 2
-# **Segment 5** 
+# <b>Segment 5</b> 
 ## 'Jump'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## CEC TV ID - 'Haircut'
 ##  Sing-a-long Guys Bloopers
 ## Pasqually's Polka Minute
-# **Segment 6**
+# <b>Segment 6</b>
 ## 'CEC Chuck E. Cheese'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## CEC TV ID - 'Couch'
 ## Amphicar
-# **Segment 7**
+# <b>Segment 7</b>
 ## 'Humpty Dumpty'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## CEC TV ID - 'Singing Animals'
 ## 'The Muffin Man'
 ## Closing Time?
 ## CEC TV ID - 'Blender'
-# **Segment 8**
+# <b>Segment 8</b>
 ## 'That's A Deal'
-# **Intermission 8** 
+# <b>Intermission 8</b> 
 ## Wildlife
 ##  Skydiving (Studio C only)
 
-## Lives: ##
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on seperate VHS tapes for MMBB based stores.</b>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
@@ -84,13 +84,13 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 * If You're Happy and You Know It
 * Go Santa Go
 
-**Birthday Break**: CEC TV text with music set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: CEC TV text with music set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 *Most of the songs and intermissions in this show are reused. 
 **'The Muffin Man' is reused from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}). 
 **'Wildlife' is reused from [Summertime 2000]({{< ref "wiki/Summertime 2000.md" >}}). 

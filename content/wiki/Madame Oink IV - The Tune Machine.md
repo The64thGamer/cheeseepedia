@@ -17,9 +17,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |guestoink = y
 }}
 
-**_Madame Oink IV - The Tune Machine**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madame Oink.
+<b><i>Madame Oink IV - The Tune Machine</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madame Oink.
 
-##Segments:##
+<h2>Segments:</h2>
 # Music for Kids
 ##[https://en.wikipedia.org/wiki/What_Are_Little_Boys_Made_Of%3F What Are Little Boys Made Of?]
 ##[https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel Pop Goes The Weasel]
@@ -31,7 +31,7 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##[https://en.wikipedia.org/wiki/Yakkity_Yak Yakkity Yak]
 ##[https://en.wikipedia.org/wiki/Peggy_Sue Peggy Sue]
 ##[https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll Shake, Rattle and Roll]
-##[https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay][https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll Rock and Roll Is Here to Stay]
+##[https:<i>en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay][https:</i>en.wikipedia.org/wiki/Shake,_Rattle_and_Roll Rock and Roll Is Here to Stay]
 # Wonderful World of Swing
 ##[https://en.wikipedia.org/wiki/Sentimental_Journey_(song) Sentimental Journey]
 ##[https://en.wikipedia.org/wiki/Boogie_Woogie_Bugle_Boy Boogie Woogie Bugle Boy]
@@ -84,6 +84,6 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##[https://en.wikipedia.org/wiki/We_Need_a_Little_Christmas We Need a Little Christmas]
 ##[https://en.wikipedia.org/wiki/White_Christmas_(film) White Christmas]
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * This is the last show to feature reused segments with programming for the [Drum Board]({{< ref "wiki/Drum Board (Cyberamic).md" >}}). After this show, the Drum Board would be left unused and would subsequently be removed in many locations.

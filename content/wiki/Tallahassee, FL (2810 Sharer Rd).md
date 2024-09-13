@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-09-04T03:56:20Z
 
 [Article]
+pageThumbnailFile = "TallahasseeExt2021.jpg|Tallahassee's exterior in 2021"
 contributors = ["CorrectorMan","Rexburg090","ThatBoiCydalan","174.131.44.53","2600:1702:190:D20:E0CF:308:10E2:1EB4","2600:1012:B1AF:7538:30D5:B962:3FA:B29","Caydenpedia","Saan1ty","Cheeseclassic","The 64th Gamer","TailsFan628","CoolerDude","Documentor","Cy's Junk at School","AstridMascotFan2005","UltimatelyFun","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = [":Tallahassehelenserialtag1.png"]
 +++
-{{NoSources}}{{Generic|image=TallahasseeExt2021.jpg|desc=Tallahassee's exterior in 2021}}
-**_2810 Sharer Rd, Store #232/680**_ is a _Chuck E. Cheese's Pizza_ location that opened on April 7, 1992 with a 3-Stage and is still in operation to this very day.  
+
+<b><i>2810 Sharer Rd, Store #232/680</b></i> is a <i>Chuck E. Cheese's Pizza</i> location that opened on April 7, 1992 with a 3-Stage and is still in operation to this very day.  
 
 Up until 2024, this location had not seen a major remodel since the mid-to-late 1990s. Before remodeling, they had a Phase 5 exterior, but they had a Phase 3 exterior inside. Despite having a 3-Stage, this location was not a former Showbiz Pizza, just like [Fullerton, CA]({{< ref "wiki/Fullerton, CA (1134 S Harbor Blvd).md" >}})'s store when they opened a year earlier in December 1991. 
 
-## Stages ##
+<h2> Stages </h2>
 Tallahassee was allegedly supposed to open with a Road Stage, however it ended up opening with a 3-Stage. Despite opening with one, this location was never a SPP, as they opened in 1992. Around 1996, Chuck E's mask was replaced with the newer latex mask. At some point in the 2000s, all the characters received plastic masks. Between 2019 and 2021, Chuck E's teeth fell out. By 2023, the stage was in poor condition, as most movements were poorly adjusted and the cosmetics were largely tattered and dirty, with Jasper barely moving apart from his eyes and hands and Pasqually having a hole in his mask right above his right eye. The stage was removed on May 5th, 2024. This removal would mean no more MBBB Animatronic Stages in Florida. 2 months later, The curtains would be sent to the [Charlotte, NC]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) for their 3-Stage, and would be used starting at the reopening as a Legacy Store. 
 {| class='wikitable'
 !Stage
@@ -37,12 +38,12 @@ Tallahassee was allegedly supposed to open with a Road Stage, however it ended u
 |
 |}
 
-## History ##
+<h2> History </h2>
 Tallahassee opened on April 7, 1992 with a 3-Stage from a SPP location that closed or received a different show. It originally featured the 1988 remodel, which included checkers, blue and white awnings, and red awnings on the exterior. After opening, the location was featured in the Chuck E Cheese Live Show Highlight Film along with 8 other stores (It was the only one in Florida to be featured). In 1994-1996, they received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) of the 1990s Major Remodel, which involved removing all elements of the 1988 remodel, removed most of the checkers, changed the logo to Thumb Chuck, removed the 'Pizza' lettering on the exterior, and changed the showroom. They would later receive [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) game packages in their respective years. On December 29th, 2007; Tallahassee would be bought by CEC Corporate. Tallahassee remained like this until 2015-2017, when the exterior sign was changed to a standard 2015 remodel sign. The sign was quickly worn down and was in poor condition. On May 5, 2024, the 3-Stage was removed due to the 2.0 Remodel. 2 days later, they installed the Dance Floor followed by the installation of the video wall on May 8th. Later on during the remodel, the location would receive new booths that are similar to the ones used in the [ Cool Chuck remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). Presumably, these will be used in all full remodels and new locations going forward. As of August 2024, Tallahassee remains operational with the 2.0 remodel. 
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Teenage Mutant Ninja Turtles (2017)
 * Harpoon Lagoon
@@ -68,14 +69,14 @@ Tallahassee opened on April 7, 1992 with a 3-Stage from a SPP location that clos
 * Disney Pixar Cars
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 
-### Coin Action ###
+<h2>= Coin Action </h2>=
 
 * Hollywood Reels
 * Chuck E. Cheese's Boulder's Dozer's
 * Spongebob Squarepants
 * Wonder Wheel
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Angel Carousel
 * Hammer Froggie
@@ -91,7 +92,7 @@ Tallahassee opened on April 7, 1992 with a 3-Stage from a SPP location that clos
 * Hammer Fun
 * Chuck E. Cheese's Train
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -149,7 +150,7 @@ Tallahassee opened on April 7, 1992 with a 3-Stage from a SPP location that clos
 |Likely destroyed.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

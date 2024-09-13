@@ -8,11 +8,11 @@ date = 2024-04-20T17:01:04Z
 contributors = ["Synthpuppy","Chuck E Cheese Fan2003","SuperCreamPiper2008"]
 gallery = []
 +++
-**_9898 Government Place**_ or **_9898 Gatineau Place**_  was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1995 (month and day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). It was in a 2-story building.
+<b><i>9898 Government Place</b></i> or <b><i>9898 Gatineau Place</b></i>  was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1995 (month and day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). It was in a 2-story building.
 
-##History##
+<h2>History</h2>
 TODO
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -29,7 +29,7 @@ TODO
 |1995
 |One of the 4 installed in Canada.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -72,7 +72,7 @@ TODO
 |Unknown
 |}
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

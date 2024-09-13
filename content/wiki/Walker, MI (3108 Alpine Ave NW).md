@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-15T07:45:20Z
 
 [Article]
+pageThumbnailFile = "Walker mi current exterior.jpg|Exterior, 2022"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:78C5:9394:61FA:63C0","Midwestretail","ThatBoiCydalan","Chuck E Cheese Fan2003","Documentor","Captain Cheese IV"]
 gallery = []
 +++
-{{Generic|image=Walker mi current exterior.jpg|desc=Exterior, 2022}}
-**_3108 Alpine Ave NW, Store #828**_ is a was a _Chuck E. Cheese's_ that opened on September 9, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day.
+
+<b><i>3108 Alpine Ave NW, Store #828</b></i> is a was a <i>Chuck E. Cheese's</i> that opened on September 9, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day.
 
 This location is the relocation of the [Walker, MI (3175 Alpine Ave NW)]({{< ref "wiki/Walker, MI (3175 Alpine Ave NW).md" >}}) location which opened October 26, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in 2002 with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
-##History##
+<h2>History</h2>
 This location opened on September 9th, 2002 in the Green Ridge Square as a relocation from across the street.
-##Stages##
+<h2>Stages</h2>
 This location opened with a Studio C Beta, the newest stage show for Chuck E. Cheese’s at that time, featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. The location would have their Studio C Beta until 2018, when they remodeled to 2.0 and removed the Beta for a 2017 model Dance Floor.
 {| class='wikitable'
 !Stage
@@ -32,7 +33,7 @@ This location opened with a Studio C Beta, the newest stage show for Chuck E. Ch
 |Still In Use
 |2017 Model. One of first two 2.0s in Michigan
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -56,7 +57,7 @@ This location opened with a Studio C Beta, the newest stage show for Chuck E. Ch
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

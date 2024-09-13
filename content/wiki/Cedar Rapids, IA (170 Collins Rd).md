@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-11-15T21:19:40Z
 
 [Article]
+pageThumbnailFile = "desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg}}
-**_170 Collins Rd NE, Store #956**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened on November 26, 1981 with a Rock-Afire Explosion, and closed in November 2013.
+
+<b><i>170 Collins Rd NE, Store #956</b></i> was a Showbiz Pizza Place/Chuck E. Cheese that opened on November 26, 1981 with a Rock-Afire Explosion, and closed in November 2013.
 
 This converted to a Chuck E. Cheese in 1992, and closed in November 2013.
 
 It was located next to a Kmart along with other businesses across from the Lindale Mall.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had.
 
 In 1991, Cedar Rapids would undergo Concept Unification, turning the Rock-afire Explosion into Munch's Make Believe Band. It was one of 4 Showbiz Pizzas in Iowa to undergo Concept Unification.
@@ -23,12 +24,12 @@ In 1991, Cedar Rapids would undergo Concept Unification, turning the Rock-afire 
 In November 2013, the location closed and the 3-Stage was removed.
 
 This location is the 3rd Showbiz Pizza to open in Iowa and the 40th Showbiz Pizza overall.
-##History##
+<h2>History</h2>
 Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iowa with the Rock-afire Explosion show and was an expansion of the nearby Kmart which originally opened on November 19th, 1970. In 1988-1989, Cedar Rapids would receive a minor remodel removing the old Showbiz decor, adding some newer decor, and the Billy Bob stage layout being changed. Strangely, the exterior sign was not changed. In 1991, Cedar Rapids received Concept Unification and the 1988 Remodel removing older decor for newer decor, added Blue and White awnings, added checkers, and converted the Rock-afire Explosion band into the 3-Stage. The store remained as Showbiz even after Concept Unification, the sign was replaced sometime afterwards. Cedar Rapids underwent the another remodel in the late 90's which involved the removal of the Neon Signage, Blue and White Awnings, and all checkers around the store as well as adding SkyTubes and Toddler Zone. On November 18th, 2013, the location closed due to not being able to come to an agreement with the shopping center about lease. This store would remain abandoned for a few months until the entire shopping center was immediately redeveloped into a Hobby Lobby and a few businesses. Currently, as of May 2023, the Hobby lobby and the businesses are still here. 
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
 * H2Overdrive
@@ -56,7 +57,7 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 * Vortek V3
 * Johnny AppleSpeed
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Barney Train
 * Hungry Froggy
@@ -69,14 +70,14 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 * Chuck E. Cheese's Photo Ride (1997)
 * Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
 
-### Coin Action ###
+<h2>= Coin Action </h2>=
 
 * The Price is Right
 * Chuck E. Cheese's Boulder's Dozer's
 * Smokin Token Extreme
 * Pharaoh's Treasure
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -133,7 +134,7 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

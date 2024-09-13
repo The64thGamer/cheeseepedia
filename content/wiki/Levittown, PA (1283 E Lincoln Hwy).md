@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-06-29T01:46:49Z
 
 [Article]
+pageThumbnailFile = "Levittown’s Exterior .jpg|Levittown’s Exterior in August 2020, shortly after closure. (PC: LevittownNow.com)"
 contributors = ["Cheeseclassic","CEC Tinley","Jerry CEC","Caydenpedia","Cecnj98"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Levittown’s Exterior .jpg|desc=Levittown’s Exterior in August 2020, shortly after closure. (PC: LevittownNow.com)}}
-**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990, with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed on August 25, 2020, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
-## History ##
+<b>Levittown, PA (1283 E Lincoln Hwy)</b> was a Chuck E. Cheese's that opened on August 7, 1990, with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed on August 25, 2020, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
+
+<h2> History </h2>
 This location opened in August 1990 with Chuck E's House, also known as the Rocker Stage. Levittown was actually one of the last ten locations to open with the Rocker Stage after Concept Unification began in fall 1989 and before the Road Stage began installation in fall 1990. Around 1993 or 1994, the Rocker Stage was replaced by the [1-Stage]({{< ref "wiki/1-Stage.md" >}}), whose installations were in full swing by 1993. 
 
 Between May 2007 and November 2008, Levittown received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative remodel, removing showroom walls, replacing Parody Posters with Phase 4 artwork, and replacing older wall decor for newer wall decor, installing fluorescent lighting, and diminishing the Skytubes. They kept this remodel and the stage until August 25, 2020, when they closed permanently possibly due to corporate financial troubles after the bankruptcy caused by the COVID-19 pandemic. The former location is now an Aspen Dental as of 2022. Levittown is now left without a Chuck E. Cheese for the first time since the 80's, and it's unknown if they will ever return to Levittown with a new store.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -32,7 +33,7 @@ Between May 2007 and November 2008, Levittown received the 2005 update to the 20
 |August 2020
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -64,7 +65,7 @@ Between May 2007 and November 2008, Levittown received the 2005 update to the 20
 |Unknown.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Links

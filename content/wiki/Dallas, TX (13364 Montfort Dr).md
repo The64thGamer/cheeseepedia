@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-08-08T20:08:05Z
 
 [Article]
+pageThumbnailFile = "Mft20.png|Montfort Dr. exterior in 2020."
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
 gallery = []
 +++
-{{Generic|image=Mft20.png|desc=Montfort Dr. exterior in 2020.}}
 
-**_13364 Montfort Dr, Store #580**_ is a _Chuck E. Cheese's_ that opened on December 21, 2001, with Studio C 2000. The store is a relocation of the [13125 Montfort Dr.]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) Chuck E. Cheese's and is one of the several locations in Texas to be used by CEC Entertainment for testing concepts in locations before debuting in other stores.
-##Stages##
+
+<b><i>13364 Montfort Dr, Store #580</b></i> is a <i>Chuck E. Cheese's</i> that opened on December 21, 2001, with Studio C 2000. The store is a relocation of the [13125 Montfort Dr.]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) Chuck E. Cheese's and is one of the several locations in Texas to be used by CEC Entertainment for testing concepts in locations before debuting in other stores.
+<h2>Stages</h2>
 As the Montfort Dr. Chuck E. Cheese debuted with Studio C 2000, the monitor area would be made smaller for reasons unknown and would have been majorly undocumented throughout its existence.
 
 Studio C would be replaced in 2010 with a more refined and short-lived Studio C concept called the [Star Stage]({{< ref "wiki/Star Stage.md" >}}). The concept aimed to be a complex but simple counterpart to Studio C that also bought personality into the showroom.
@@ -42,9 +43,9 @@ To accompany the Circles of Light show, a dance floor for live performances woul
 |Still in use.
 |}
 
-##History##
+<h2>History</h2>
 
-### Remodels and Phases ###
+<h2>= Remodels and Phases </h2>=
 The Montfort Dr. Chuck E. Cheese's opened near the now-demolished Valley View Center Mall in a freestanding building on December 21, 2001.
 
 As the store opened in 2001 the location was subject to having the latest games package from the time, Phase III, which reused a few machines from the original [13125 Montfort Dr.]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location and introduced the Toddler Zone and a wider variety of machines.
@@ -59,14 +60,14 @@ In 2019, two large windows looking in towards the kitchen were added near the re
 
 For May 2023 the Montfort Dr. CEC would completely remodel once again during the ongoing 2017 2.0 Remodel Program (2.0 Remodel Program) and would keep the Circles of Light show.
 
-### Summer Concert Roadshow###
-On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of CEC Entertainment, and Matt Daniel of the Entertainment Department during the 2023 CEC Summer Concert Road Show (Summer Concert Road Show) event. Fans attending would also appear in photos with Mckillps at the event.<ref>[https://www.instagram.com/p/Ctz4DV7p5S-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA## https://www.instagram.com/p/Ctz4DV7p5S]</ref>
+<h2>= Summer Concert Roadshow</h2>=
+On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of CEC Entertainment, and Matt Daniel of the Entertainment Department during the 2023 CEC Summer Concert Road Show (Summer Concert Road Show) event. Fans attending would also appear in photos with Mckillps at the event.<ref>[https:<i>www.instagram.com/p/Ctz4DV7p5S-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA== https:</i>www.instagram.com/p/Ctz4DV7p5S]</ref>
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-### Identified Phase III Machines<ref>https://www.youtube.com/watch?v=1hQngtiQliI</ref> ###
+<h2>= Identified Phase III Machines<ref>https://www.youtube.com/watch?v=1hQngtiQliI</ref> </h2>=
 
-#### Kiddie ####
+<h2>== Kiddie </h2>==
 
 * Buzzy Buzzy Bee
 * Junior Whac-A-Mole
@@ -84,7 +85,7 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 * Chatty Chuck E.
 * Chuck E. Cheese's Photo Ride (1997)
 
-#### Skills ####
+<h2>== Skills </h2>==
 
 * M&P Amusements Soccer Machine
 * Skee-Ball
@@ -99,7 +100,7 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 * Chuck E. Cheese's Coloring Book
 * [Chuck E. Cheese's Memory Match]({{< ref "wiki/Chuck E Cheese's Memory Match.md" >}})
 
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -255,7 +256,7 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 |}
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 ! Animatronic
 !Serial
@@ -278,7 +279,7 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 |Destroyed in August 2012
 |}
 
-##Walkarounds##
+<h2>Walkarounds</h2>
 {| class='wikitable'
 !Head 
 !Outfits & Suits
@@ -301,5 +302,5 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 |In-Store?
 |}
 
-##References##
+<h2>References</h2>
 <references />

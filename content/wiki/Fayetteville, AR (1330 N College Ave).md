@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-03-18T22:58:56Z
 
 [Article]
+pageThumbnailFile = "FayettevilleARCECOldLocationExterior.png|Exterior before closure. (2009)"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","71.31.59.182","CorrectorMan","167.224.250.176","Stripes","Floorplanmuncher"]
 gallery = []
 +++
-{{Generic|image=FayettevilleARCECOldLocationExterior.png|desc=Exterior before closure. (2009)}}
 
-**_1330 N College Ave, Store #302**_ was a _Showbiz Pizza Place_ that opened on November 1st, 1982 as a franchised location with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in September 2010 (day unknown) with a 3-Stage.
-##History##
+
+<b><i>1330 N College Ave, Store #302</b></i> was a <i>Showbiz Pizza Place</i> that opened on November 1st, 1982 as a franchised location with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in September 2010 (day unknown) with a 3-Stage.
+<h2>History</h2>
 Fayetteville opened its doors on November 1st, 1982 as the first Showbiz Pizza store in Arkansas. Like many other ShowBiz Pizza locations, it had a typical SPP layout as seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open removing older SPP decor for newer decor, and slight exterior remodel. Although some little documentation exists back in the ShowBiz days, it can be determined that Fayetteville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Fayetteville received the Showbiz Pizza Campground upgrade. On October 1st, 1990, Fayetteville was acquired by the Corporate along with [Fort Smith]({{< ref "wiki/Fort Smith, AR (1200 S Waldron Rd).md" >}}). Fayetteville then underwent Concept Unification in around 1991, converting the Rock-Afire Explosion into Munch's Make Believe Band. In 1996, the location received the so-called 'Phase 2' remodel removing older 90's decor, adding newer decor, and SkyTubes. Fayetteville would remain like this until September 2010 when they closed due to issues with parking and lease. After their closure, they then relocated to Fayetteville, AR (2999 N College Ave) (2999 N College Ave), and would remain abandoned before being taken up by a business named Flying Dog Vintage Mall, leaving many remnants of Chuck E. Cheese's, only for that to close. Currently, as of February 2023, the location is now abandoned or taken up by a business.
-##Stages##
+<h2>Stages</h2>
 Originally, Fayetteville featured a Rock-Afire Explosion, as all other Showbiz locations did. Unfortunately, there are some photos but no videos to exist of Fayetteville with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime between 1991-1992. In 2010, they removed the 3-Stage for their closure.
 {| class='wikitable'
 |+
@@ -32,7 +33,7 @@ Originally, Fayetteville featured a Rock-Afire Explosion, as all other Showbiz l
 |September 2010
 |One of 4 Showbiz locations in Arkansas to receive Concept Unification.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -87,7 +88,7 @@ Originally, Fayetteville featured a Rock-Afire Explosion, as all other Showbiz l
 |N/A
 |Destroyed.
 |}
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

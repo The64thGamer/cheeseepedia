@@ -5,10 +5,11 @@ tags = ["Arcade Games"]
 date = 2024-05-26T20:32:18Z
 
 [Article]
+pageThumbnailFile = "ChuckEsGrandSlamImage.png|The arcade machine at the [[Commack, NY (2115 Jericho Turnpike)"
 contributors = ["ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=ChuckEsGrandSlamImage.png|desc=The arcade machine at the [Commack, NY location]({{< ref "wiki/Commack, NY (2115 Jericho Turnpike).md" >}}) in 2005 (PC: CEC BUT IN NY)}}
-**_Chuck E. Cheese's Grand Slam**_ is an arcade game made for _Chuck E. Cheese's_ locations released at an unknown date.
+
+<b><i>Chuck E. Cheese's Grand Slam</b></i> is an arcade game made for <i>Chuck E. Cheese's</i> locations released at an unknown date.
 
 

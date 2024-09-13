@@ -8,20 +8,20 @@ date = 2024-05-23T14:42:36Z
 contributors = ["EagleScout610","2600:6C60:0:4A97:C24:AA16:E41:40B","The 64th Gamer","KPIZZA03","BurgersNuggs445","SonicFazbear","2600:6C44:97F:D312:FD2A:F6C4:46CE:6792","208.103.68.197","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++
-{{Animatronic|image=Crusty_version2.jpg|unitsProduced=1|releasedate=Summer 1978|finalrelease=Only One Released|manufacturer=Fantasy forest}}
-The **_Winchester Crusty the Cat V2**_ **_Animatronic**_ was an animatronic created by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}) for [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) in Summer 1978 based on the character, Crusty the Cat. The bot was a replacement of the [original Crusty bot]({{< ref "wiki/Winchester Crusty the Cat V1 (Animatronic).md" >}}) used at [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). It used the [Winchester Control System]({{< ref "wiki/Winchester Control System.md" >}}) for store movement & [Winchester Hardware Setup]({{< ref "wiki/Winchester Hardware Setup.md" >}}) for programming.
+
+The <b><i>Winchester Crusty the Cat V2</b></i> <b><i>Animatronic</b></i> was an animatronic created by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}) for [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) in Summer 1978 based on the character, Crusty the Cat. The bot was a replacement of the [original Crusty bot]({{< ref "wiki/Winchester Crusty the Cat V1 (Animatronic).md" >}}) used at [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}). It used the [Winchester Control System]({{< ref "wiki/Winchester Control System.md" >}}) for store movement & [Winchester Hardware Setup]({{< ref "wiki/Winchester Hardware Setup.md" >}}) for programming.
 
 The bot was used until Winchester replaced their [Fantasy Forest Portrait show]({{< ref "wiki/Winchester PTT Show.md" >}}) for a Cyberamics Portrait / Shelf Stage (Cyberamics Portrait show) in 1981.
 
-## History ##
+<h2> History </h2>
 After the creation of the [1978 Winchester Madam Oink bot]({{< ref "wiki/Winchester Madam Oink (Animatronic).md" >}}) & [1977 Helen Henny bot]({{< ref "wiki/Winchester Helen Henny (Animatronic).md" >}}), PTT requested Fantasy Forest Manufacturing to update the Early Winchester Chuck E. Cheese V1 (Animatronic) (Chuck E. Cheese) & Crusty bots to have more movements. The bot was seen in an Australian broadcasting segment in 1979, which is the only footage of the bot at Winchester. Once the Winchester Blvd. location upgraded their show to standard [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) in 1981, The V2 Crusty bot was relocated to the [Pizza Time Theatre Sunnyvale, CA Corporate Office]({{< ref "wiki/Pizza Time Theatre Sunnyvale, CA Corporate Office.md" >}}).
 
 Once Pizza Time Theatre went bankrupt, Paul Linden of SPT's Entertainment Department acquired the Crusty animatronic and was thought to be a prototype animatronic that never ended up in a location. In 2011 the Crusty animatronic was discovered once again and later bought by Travis Schafer in 2012. The bot is currently in storage in Travis Schafer's archive.
 
-## Cosmetic Design ##
+<h2> Cosmetic Design </h2>
 Crusty is a black cat with white fur patches, wearing a blue and yellow baseball uniform reading 'Swingers 13'; to fit his theming he also held a red baseball bat in his right hand The animatronics eyes and hands are nearly identical to it's accompanying Winchester Chuck E. Cheese V2 (Animatronic) (Chuck E. Cheese Animatronic), with the exception of color and eyes being more detailed.
 
-## Movements ##
+<h2> Movements </h2>
 The majority of the animatronic's mechanics were built onto the fiberglass body, leaving a mostly empty interior. As for cylinders, it appears that a majority of the head used small single acting cylinders for certain movements. The metal base Crusty was built on was bought up to an angle so it could come out of the frame more. An additional note, the body turns dictated the movement of the left arm like the future Cyberamics.
 {| class='wikitable'
 |+

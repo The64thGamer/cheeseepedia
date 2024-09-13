@@ -13,12 +13,12 @@ gallery = []
 |image=Evergreen2023.jpg
 |date=November 11, 2023
 |cybernetwork=y|}}
-**_ Chuck E. Cheese Northridge Evergreen Show 2023**_ is the generic show released on November 11, 2023 - November 26, 2023 featuring two songs from 2017.
+<b><i> Chuck E. Cheese Northridge Evergreen Show 2023</b></i> is the generic show released on November 11, 2023 - November 26, 2023 featuring two songs from 2017.
 
 This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 2 Songs with the standard live being Me & My Friends.
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Jasper T. Jowls - “Wash the Bus”
 ## KIDZ BOP Kids - “Made You Look”
 ## Chuck E. & Friends - “Water Buffalo”
@@ -29,9 +29,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ## Chuck E. Cheese - “Banana Dog”
 ## KIDZ BOP Kids - “Sunroof”
 ## KIDZ BOP Kids - “golden hour”
-# **Skit 1**
+# <b>Skit 1</b>
 ## Munch’s Make Believe Band - “It’s the 70s'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. Cheese - “Do Re Mi”
 ## KIDZ BOP Kids - “abc”
 ## Bella B., Chuck E. & Mike Wolf - “El Rey Guitarrista”
@@ -43,20 +43,20 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ## KIDZ BOP Kids - “TRUSTFALL”
 ## KIDZ BOP Kids - “Space Man”
 ## KIDZ BOP Kids - “Cupid”
-# **Skit 2**
+# <b>Skit 2</b>
 ## Munch’s Make Believe Band - “Every Boy, Every Girl 2017”
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Helen Henny - “Disco Dancing Dinosaur Party”
 ## KIDZ BOP Kids - “Karma”
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
 * Me & My Friends (Navori)
 * CEC Stage Diagnostic (Navori)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 'It's the 70s' & 'Every Boy, Every Girl' are both originally from [Chuck E. Cheese's Show 5 2017]({{< ref "wiki/Chuck E Cheese's Show 5 2017.md" >}}). 
 
 Despite being the main attraction of Northridge the animatronics only preform two songs per show rotation.

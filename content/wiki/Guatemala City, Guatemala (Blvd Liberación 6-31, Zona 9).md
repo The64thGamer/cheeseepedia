@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-09-01T07:41:05Z
 
 [Article]
+pageThumbnailFile = "Exterior-of-zona-9-s.jpg|Exterior of Zona 9"
 contributors = ["BurgersNuggs445","ChuckECool","Rexburg090","168.69.254.246","2601:840:8701:1300:918E:726B:26A3:574E","Melrosefool2763","Saan1ty","Caydenpedia","AstridMascotFan2005","Showbiz Pizza International"]
 gallery = []
 +++
-{{Generic|image=Exterior-of-zona-9-s.jpg|desc=Exterior of Zona 9}}
 
-**_ Blvd Liberación 6-31, Zona 9, Store #2140**_ was a franchised _Chuck E. Cheese's_ that opened in 1996 with a [3-Stage]({{< ref "wiki/Concept Unification.md" >}}) and [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show and closed in 2016.
+
+<b><i> Blvd Liberación 6-31, Zona 9, Store #2140</b></i> was a franchised <i>Chuck E. Cheese's</i> that opened in 1996 with a [3-Stage]({{< ref "wiki/Concept Unification.md" >}}) and [2-Stage]({{< ref "wiki/2-Stage.md" >}}) show and closed in 2016.
 
 This location, in particular, appeared to be an anchor store for its own shopping center, 'Chuck E. Cheese's Center'. The center formerly had a red and yellow color scheme much like the awnings over the CEC building. Later on, the color scheme was updated to purple and red before becoming a plain brown color in 2010.
 
 Little information is known about the history of the shopping center this CEC location sat in, or why the center was named after Chuck E. Cheese's.
-##Stages##
+<h2>Stages</h2>
 When Zona 9 first opened, it housed a 3-Stage in its Chuck E. Cheese's building and a 2-Stage in a separate event area in the shopping center. It is speculated that the 2-Stage show came from a closed location in the United States, however, evidence is limited. Once the event area was retired, the Cyberamic characters' parts were later reused on the 3-Stage show.
 
 This location also had secondary stages built onto both of the show stages. These secondary stages would be used for events, birthdays, and live shows. 
@@ -38,20 +39,20 @@ The 3-Stage animatronics were finally relocated once again to the Concepcion Cou
 |200?
 |}
 
-##History##
+<h2>History</h2>
 This location is relocated from its previous [Ave La Reforma 7-62]({{< ref "wiki/Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9).md" >}}) location in 1996, taking various assets such as art, games, and the 3-Stage. Although this location was remodeled at some point, it was a very minor remodel, it only changed the exterior into a standardized look and only painted select walls purple with two pieces of Avenger Chuck E. artwork being provided. This also meant the absence of wall details being added on and the continued use of booths and lighting used since opening.
 
 In 2013 Zona 9's showroom was repainted for a short period of time to red and green before being repainted white as it was before.
 
-### 2010 Downsizing ###
+<h2>= 2010 Downsizing </h2>=
 For unknown reasons, in 2010, the space that housed the 2-Stage was closed and taken over by a Guatemalan gym chain, Scandinavia Gym.<ref>https://directorio.guatemala.com/listado/scandinavia-gym-zona-9.html</ref> This would also mark the end of the 'Chuck E. Cheese Center' era, as it was no longer used to identify the shopping center from that point forward.
 
-### Closure ###
+<h2>= Closure </h2>=
 In the spring of 2016, the shopping center's stores were permanently closed for a future shopping center and superstore. The center began demolition in April 2016 and was fully demolished by January 2017.<ref>https://goo.gl/maps/27Bh7obvAPtjtfav8</ref> 
 
 The 3-Stage characters, pieces of artwork, and arcade games from this Chuck E. Cheese's were later relocated to the new Concepcion County, Guatemala (Concepcion County) location.
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 Identified machines before closure.
 
 * Crazy 8's
@@ -91,7 +92,7 @@ Identified machines before closure.
 * Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
 * Chuck E. Cheese's Photo Ride (1997)
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -213,7 +214,7 @@ Identified machines before closure.
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -285,5 +286,5 @@ Identified machines before closure.
 |Unknown.
 |}
 
-##References##
+<h2>References</h2>
 <references />

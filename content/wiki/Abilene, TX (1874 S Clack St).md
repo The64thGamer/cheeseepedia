@@ -9,13 +9,13 @@ contributors = ["CorrectorMan","Rexburg090","CEC Kokomo","Caydenpedia"]
 gallery = ["Abilene SPP.jpg|thumb|The site of the SPP."]
 +++
 
-**_1874 S Clack St**_ was a Showbiz Pizza Place that opened on October 7, 1982 and closed in late 1983 (month and day unknown) with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). This location is known as the very first Showbiz Pizza to close.
+<b><i>1874 S Clack St</b></i> was a Showbiz Pizza Place that opened on October 7, 1982 and closed in late 1983 (month and day unknown) with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). This location is known as the very first Showbiz Pizza to close.
 
 Unfortunately, documentation on the Abilene store falls into extreme scarcity, and no photos or videos have been found as of 2023.
 
 This is not to be confused with the Pizza Time Theatre on [4220 N 1st St]({{< ref "wiki/Abilene, TX (4220 N 1st St).md" >}}) that opened on November 23rd, 1981 and closed in 1984 (month and day unknown) in the former Kmart Foods space (The Kmart would then close in 2000 and relocate across the street) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) or the current Chuck E. Cheese's location on Abilene, TX (4310 Buffalo Gap Rd) (4310 Buffalo Gap Rd) that opened on November 8th, 2005 with a Small-Town Studio C and is still operating to this day.
 
-## Stages ##
+<h2> Stages </h2>
 Abilene opened with a Rock-afire Explosion. After the location's closure in 1983, their show was later sent to [Whitehall, PA]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) for their grand opening in December. Abilene's show went under Concept Unification in around 1991, retrofitting the Rock-afire Explosion to Munch's Make Believe Band. In September 2010, their 3-Stage would be removed for the first [Concept Unification 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}). In July 2023, Whitehall received the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), resulting in the removal of their CU 1-Stage. Whitehall's CU 1-Stage would be salvaged by corporate, and is now at the [Showbiz Pizza Time Distribution Center]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}).
 {| class='wikitable'
 |+
@@ -30,10 +30,10 @@ Abilene opened with a Rock-afire Explosion. After the location's closure in 1983
 |Show sent to [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) after closure.
 |}
 
-## History ##
+<h2> History </h2>
 Abilene opened on October 7, 1982 with a Rock-afire Explosion [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). Sadly, very little information on Abilene's Showbiz Pizza is extremely hard to find, so no videos or photos have resurfaced as of today. In Late 1983 (month and day unknown, likely November), the location closed after a little over a year of operation. The building remains vacant today or has been taken up by a business. One notable thing about the location is that their stage was sent to the soon to be opened [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) store, which would have their opening in December. As of July 2023, that store still operates under the CEC banner, and is currently getting the 2.0 remodel as of July 12.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

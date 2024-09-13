@@ -5,11 +5,12 @@ tags = ["Store List"]
 date = 2024-08-03T18:56:29Z
 
 [Article]
+pageThumbnailFile = "RockfordIL2.0Exterior.png|A photo of Rockford IL's 2.0 exterior. (August 2022)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan","ShowbizMidwest","Rexburg090","Awesome Dawson Films YT","RedaCEC","BurgersNuggs445","216.125.34.66","CorrectorMan","2600:4040:5A0E:D900:9C7A:2F9A:EB08:9D7F","Cheeseclassic","CECMentor","Chuck E theatre"]
 gallery = []
 +++
-{{Generic|image=RockfordIL2.0Exterior.png|desc=A photo of Rockford IL's 2.0 exterior. (August 2022)}}
-**_3600 E State St, Store #960**_ was a _ShowBiz Pizza_ that opened on October 30, 1988, with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and is still open to this day as a _Chuck E. Cheese_ with the CEC 2018 2.0 Remodel Program (2.0 remodel).
+
+<b><i>3600 E State St, Store #960</b></i> was a <i>ShowBiz Pizza</i> that opened on October 30, 1988, with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and is still open to this day as a <i>Chuck E. Cheese</i> with the CEC 2018 2.0 Remodel Program (2.0 remodel).
 
 This location had the last [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) from May 2008 until June 12, 2022, when they would remove Chuck E.'s House for a Dance Floor and Video Wall as part of the 2.0 remodel.
 
@@ -17,15 +18,15 @@ This location is a relocation of the [Loves Park, IL (6505 N 2nd St)]({{< ref "w
 
 The location was formerly owned by McBiz Corp, formerly owners of a few Showbiz Pizza Places, and Showbiz Pizza Time Inc. acquired the location on September 16, 1996.
 
-## History ##
+<h2> History </h2>
 
-### Celebration Station (June 1982 - late '80s) ###
+<h2>= Celebration Station (June 1982 - late '80s) </h2>=
 Before opening in 1988, this location was originally a Celebration Station that opened in June 1982. Not much is known about Rockford's Celebration Station, other than it closed in the late '80s. In 1988, McBiz Corp purchased the space, and conversion into a CEC began.
 
-### Chuck E. Cheese's (October 30, 1988 - present) ###
+<h2>= Chuck E. Cheese's (October 30, 1988 - present) </h2>=
 By the Fall of 1988, the conversion was completed, and was ready to open. The store finally opened on October 30, 1988 with a Chuck E.'s House (Rocker Stage) and the 1988 remodel, and the restaurant was named 'ShowBiz Pizza'. The location received its first remodel in the mid-late '90s, which involved renaming the space to just 'Chuck E. Cheese's', refurbishing the showroom, received either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}), removed the checkers around the store, removing some early '90s artwork for mid-late '90s artwork, and changed and redid the counters. The Rocker Stage was left behind and repainted. On September 16, 1996, the store was acquired by Corporate. Sometime in the late 90s, Rockford would receive Must C TV posters. In 2008/2009, the location received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 1990s artwork for 'Phase 4' artwork, removing the balcony seating and the showroom walls, replacing the dim lighting with bright lighting, and generally making the space more open. The Rocker Stage was repainted once again, but was still left behind. In May 2008, the [Simi Valley, CA]({{< ref "wiki/Simi Valley, CA (71 Tierra Rejada Rd).md" >}}) location closed down, marking Rockford as the last Chuck E.'s House in a store. In mid-2022, the location began the 2017 2.0 Remodel Program (2.0 remodel), removing the last Chuck E.'s House/Rocker Stage on June 12, 2022, marking it's extinction, repainting a ton of walls, and replaced all Phase 4 artwork with 2.0 artwork. The location reopened in August 2022, and is still open today.
 
-## Stages ##
+<h2> Stages </h2>
 Originally, the store opened with Chuck E.'s House, they would have the last PTT vest until 2009, when they replaced it with the Avenger outfit. 
 
 Chuck E.'s House was finally removed on June 12, 2022, as a part of the 2.0 remodel. The show was dismantled and was collected by the SPT Distribution. The bots still reside there today.
@@ -47,7 +48,7 @@ Chuck E.'s House was finally removed on June 12, 2022, as a part of the 2.0 remo
 |2021 model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -79,7 +80,7 @@ Chuck E.'s House was finally removed on June 12, 2022, as a part of the 2.0 remo
 |Unknown.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

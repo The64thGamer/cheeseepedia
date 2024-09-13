@@ -11,7 +11,7 @@ gallery = ["PEFX Profile.png|alt=1 use Image, I don't know what i'm saying|thumb
 <blockquote>Hello, It's Pizza Entertainment Fan X (Or Ximatronic)</blockquote>I'm a fan of animatronics, CEC, & more.
 
 
-## Favorite Animatronics ##
+<h2> Favorite Animatronics </h2>
 
 * [Winchester Chuck E. Cheese V1 (Animatronic)]({{< ref "wiki/Winchester Chuck E Cheese V1 (Animatronic).md" >}})
 * [Winchester Crusty the Cat V2 (Animatronic)]({{< ref "wiki/Winchester Crusty the Cat V2 (Animatronic).md" >}})
@@ -34,7 +34,7 @@ gallery = ["PEFX Profile.png|alt=1 use Image, I don't know what i'm saying|thumb
 * Santa Claus (Jingle Bell Jamboree Animatronic)
 * Billy Wilbur (Animatronic)
 
-## Favorite Locations ##
+<h2> Favorite Locations </h2>
 
 * [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) (R.I.P Kooser)
 * [Huntington Beach, CA (15511 Edwards St)]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}) (Happy 43rd Birthday)
@@ -48,7 +48,7 @@ gallery = ["PEFX Profile.png|alt=1 use Image, I don't know what i'm saying|thumb
 * [Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) (Happy 40th Birthday November 23rd 1983-2023) (Going there eventually)
 * [Kansas City, MO (8809 State Line Rd)]({{< ref "wiki/Kansas City, MO (8809 State Line Rd).md" >}}) (Peter Piper's Pizza) (Why is it so close to the first SPP)
 
-## Things that are animatronicly cool ##
+<h2> Things that are animatronicly cool </h2>
 
 * Main Page#Pizza Time Theatre-0 (Pizza Time Theater)
 * Major Magic's
@@ -61,9 +61,9 @@ gallery = ["PEFX Profile.png|alt=1 use Image, I don't know what i'm saying|thumb
 * [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) (Favorite is either Beach Bear, or Fatz)
 * [Family Album]({{< ref "wiki/Family Album.md" >}})
 
-## Some other things ##
+<h2> Some other things </h2>
 Cheese E. Pedia is very good, I like Cheese E. Pedia.
 
-## Things to do ##
+<h2> Things to do </h2>
 
 * Get Info on CEC, SPP, & CEI Retrofits.

@@ -8,15 +8,15 @@ date = 2022-12-06T23:55:34Z
 contributors = ["BattleXGamer","The 64th Gamer"]
 gallery = []
 +++
-## Grey Box ##
+<h2> Grey Box </h2>
 The Grey Box is a animatronic controller which contained parts from the Pianocorder with some modification from Creative Engineering. It as suggested uses [Pianocorder Biphase]({{< ref "wiki/Pianocorder Data Format.md" >}}) as a input to then control a Rock Afire Explosion.
 
-### I/O ###
+<h2>= I/O </h2>=
 2x Data input (RCA Jack I presume)
 
 Character output connector (Centronics Connector)
 
-### Hardware Breakdown ###
+<h2>= Hardware Breakdown </h2>=
 6x Pianocorder Driver Boards
 
 2x Pianocorder Playback Boards

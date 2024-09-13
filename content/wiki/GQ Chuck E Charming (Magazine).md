@@ -14,7 +14,7 @@ Debate
 Continues|text3=Pizza or Hamburger:
 What the Congnizanti Are Saying|text4=Chuck E. Charming|text5=Chuck E. Cheese with a Saucy Style All His Own}}
 
-The **GQ Chuck E. Charming (Magazine) was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.**
+The <b>GQ Chuck E. Charming (Magazine) was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.</b>
 
-## Design ##
+<h2> Design </h2>
 The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Tux & Red Derby (shelf item) which has Chuck E. Cheese in a classic red derby and black tuxedo outfit with a magic stick on his left hand. This poster is a parody of the New York based  Men GQ magazine's.

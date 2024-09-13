@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2024-07-31T18:03:52Z
 
 [Article]
+pageThumbnailFile = "KingstonExterior2012.png|Kingston's exterior in May 2012 (PC. Google Maps)"
 contributors = ["47.17.236.200","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=KingstonExterior2012.png|desc=Kingston's exterior in May 2012 (PC. Google Maps)}}{{NonStandard}}
 
-**_768 Gardiners Rd**_ was a _Chuck E. Cheese's_ that opened on January 1, 2006, with a [Studio C Beta/Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which was the only one installed in Canada. The location opened with the [2005 Update]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and remained like that for all the time it was open. This location closed on September 2, 2015. The store remained abandoned until 2017, when the interior was gutted and was turned into a Coco Fruiti with a CAA (Canadian Automobile Association), also moving into the space. As of May 2024, Coco Fruiti and the CAA (Canadian Automobile Association) are still in the space, with the original CEC design still intact, tho it was repainted in 2023.
+
+<b><i>768 Gardiners Rd</b></i> was a <i>Chuck E. Cheese's</i> that opened on January 1, 2006, with a [Studio C Beta/Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which was the only one installed in Canada. The location opened with the [2005 Update]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) and remained like that for all the time it was open. This location closed on September 2, 2015. The store remained abandoned until 2017, when the interior was gutted and was turned into a Coco Fruiti with a CAA (Canadian Automobile Association), also moving into the space. As of May 2024, Coco Fruiti and the CAA (Canadian Automobile Association) are still in the space, with the original CEC design still intact, tho it was repainted in 2023.
 
 {| class='wikitable'
 |+Animatronics

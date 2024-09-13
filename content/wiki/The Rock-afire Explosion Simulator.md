@@ -5,18 +5,19 @@ tags = ["Programming Software & Hardware"]
 date = 2023-11-02T16:16:15Z
 
 [Article]
+pageThumbnailFile = "Raesim.jpg|RAE Simulator Logo"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-{{Generic|image=Raesim.jpg|desc=RAE Simulator Logo|d1 download=https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo|d1 name=Software Demo}}
-The **_Rock-afire Explosion Simulator**_ was a cancelled _Kickstarter_ project for a virtual Rock-afire Explosion band<ref>https://www.kickstarter.com/projects/hayesgames/the-rock-afire-explosion-simulator/description</ref>, which allowed users to program and play showtapes in one software. 
+
+The <b><i>Rock-afire Explosion Simulator</b></i> was a cancelled <i>Kickstarter</i> project for a virtual Rock-afire Explosion band<ref>https://www.kickstarter.com/projects/hayesgames/the-rock-afire-explosion-simulator/description</ref>, which allowed users to program and play showtapes in one software. 
 
 The Kickstarter would launch on October 28, 2020 by its programmer, Ryan Hayes, and would be cancelled on November 26, 2020.
 
-## Campaign ##
+<h2> Campaign </h2>
 The campaign would start with the launch of the Kickstarter page, alongside a video on the Creative Engineering YouTube Channel promoting the project.<ref>https://www.youtube.com/watch?v=OuK-x3H_mJI</ref> The project asked for a $27,350, and planned the software's development to conclude by July 2021.
 
-### Pledges ###
+<h2>= Pledges </h2>=
 Ten different pledging tiers were given, which ranged from $3 to $2,500. 
 
 * $3 - Name listed in the credits
@@ -45,7 +46,7 @@ Ten different pledging tiers were given, which ranged from $3 to $2,500.
 ** Digital copy of the software
 ** Name in credits
 
-### Funding ###
+<h2>= Funding </h2>=
 Throughout its month long campaign, it would raise $1,140 from 41 backers, with the maximum pledge being of the $80 tier.
 
-## References ##
+<h2> References </h2>

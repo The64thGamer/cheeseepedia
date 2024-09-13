@@ -9,9 +9,9 @@ contributors = ["CorrectorMan","Lexdoes","Caydenpedia"]
 gallery = ["Bellevue.jpg|thumb|Bellevue's exterior as of 2023. (PC: Google Maps)"]
 +++
 
-**_2239 148th Ave**_ is a _Chuck E. Cheese's_ that opened around February 1996 (day unknown) and is still open today with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
+<b><i>2239 148th Ave</b></i> is a <i>Chuck E. Cheese's</i> that opened around February 1996 (day unknown) and is still open today with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
-## Stage ##
+<h2> Stage </h2>
 Bellevue opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which they still have to this day. It is rumored this stage came from the now closed [Milwaukee, WI (7401 Good Hope Rd)]({{< ref "wiki/Milwaukee, WI (7401 Good Hope Rd).md" >}}) store. They at first had the tuxedo outfit, later the Cool Chuck outfit. The curtains were disabled sometime in the 2005 time period, and later completely removed all together. Chuck E. later got the Avenger outfit, removing the cap by the end of 2013.
 {| class='wikitable'
 |+
@@ -26,10 +26,10 @@ Bellevue opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which they stil
 |Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]({{< ref "wiki/Milwaukee, WI (7401 Good Hope Rd).md" >}}).
 |}
 
-## History ##
+<h2> History </h2>
 Bellevue opened sometime in or around February 1996 (day unknown). with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and the [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel. Unfortunately, there isn't much info on Bellevue from around this time. In 2008/2009, Bellevue received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved the removal of 90s decor, showroom walls, balcony seating, and the addition of purple walls and an exterior change. As of March 2024, Bellevue remains like this.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -54,7 +54,7 @@ Bellevue opened sometime in or around February 1996 (day unknown). with a [1-Sta
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

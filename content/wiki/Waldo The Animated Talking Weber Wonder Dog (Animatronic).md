@@ -8,10 +8,10 @@ date = 2024-02-27T05:06:04Z
 contributors = ["Lelmaster","Newbie editor"]
 gallery = []
 +++
-{{Stub}}{{NonStandard}}{{Animatronic|image=RoastARamaWaldo.png|manufacturer=Creative Presentations Inc}}
-The Waldo animatronic was an animatronic produced for **Weber** by **Creative Presentations Inc** _sometime_ _around 1978_ to be used in promotional shows advertising Weber Grills.
 
-## Movements<ref>https://www.newspapers.com/article/the-capital-times-cpi-waldo-show/141756976/</ref> ##
+The Waldo animatronic was an animatronic produced for <b>Weber</b> by <b>Creative Presentations Inc</b> <i>sometime</i> <i>around 1978</i> to be used in promotional shows advertising Weber Grills.
+
+<h2> Movements<ref>https://www.newspapers.com/article/the-capital-times-cpi-waldo-show/141756976/</ref> </h2>
 
 * Head
 * Nose
@@ -23,4 +23,4 @@ The Waldo animatronic was an animatronic produced for **Weber** by **Creative Pr
 
 
 
-##References##
+<h2>References</h2>

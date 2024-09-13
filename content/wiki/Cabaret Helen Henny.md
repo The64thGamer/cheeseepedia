@@ -15,43 +15,43 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 | pttreel = y}}
 
 
-**_Cabaret Helen Henny**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Helen Henny.
+<b><i>Cabaret Helen Henny</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Helen Henny.
 
-##Segments:##
+<h2>Segments:</h2>
 Disclaimer: The segment list is currently incomplete, as it is unclear the original order of special and birthday tapes within the original showtape reel.
 
-*  **Segment 1**
+*  <b>Segment 1</b>
 *#How Ya Gonna Keep 'Em Down on That Farm?
-* **Segment 2**
+* <b>Segment 2</b>
 *#If I Knew You Were Coming, I'd Have Baked a Cake
 *#Hollywood Chicken Coop
 *#Twinkle, Twinkle, Hollywood Star
-* **Segment 3**
+* <b>Segment 3</b>
 *#If I Knew You Were Coming, I'd Have Baked a Cake (DISCO)
 *#Hollywood Chicken Coop
 *#Twinkle, Twinkle, Hollywood Star
-* **Segment 4**
+* <b>Segment 4</b>
 *#Mairzy Doats
 *#Do-Re-Mi (Doe a Deer)
-* **Segment 5**
+* <b>Segment 5</b>
 *#Somewhere Over the Rainbow
 *#I Wanna Be Loved by You
 *#I Get a Kick Out of You
-* **Segment 6**
+* <b>Segment 6</b>
 *#Hooray for Hollywood
 *#You Oughta Be in Pictures
 *#Hooray for Hollywood (Reprise)
-* **Segment 7**
+* <b>Segment 7</b>
 *#Too Marvelous for Words
 *#Zing! Went the Strings of my Heart
-* **Segment 8**
+* <b>Segment 8</b>
 *#Wild About Chuck E.
 *#Meet Me in St. Louis
 *#Waltz Me Around Again Willie
-* **Segment 9**
+* <b>Segment 9</b>
 *#Nobody Here but Us Chickens
-* **Segment 10**
+* <b>Segment 10</b>
 *#Hollywood Chicken Coop
 *#Rootin' for a Rooster
-* **Birthday 1**
+* <b>Birthday 1</b>
 *#Happy Birthday

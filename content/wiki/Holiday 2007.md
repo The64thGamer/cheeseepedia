@@ -16,44 +16,44 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu = y
 |dvdcyber = y
 }}
-**Holiday 2007** was an updated rerelease of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) which played in December 2007. 
+<b>Holiday 2007</b> was an updated rerelease of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) which played in December 2007. 
 
-## Show List: ##
-# **Intermission 1**
+<h2> Show List: </h2>
+# <b>Intermission 1</b>
 ## Ken Chuck E. Derby
 ## Super Jasper - 'Canine Snowball'
 ##Veggietales - 'Oh Santa!'
 ## Holiday VJ Spot - Michael
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
 ##  Maya & Miguel
 ##Holiday VJ Spot - Laura
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Eddie Coker - 'Happy Holidays'
 ##   Clifford The Big Red Dog
 ## Chuck E.'s Ski Trip
 ##Holiday VJ Spot - Evan
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Ken Chuck E. Derby
 ##  Coke Spot
 ## Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
 ##Holiday VJ Spot - Laura
-#**Segment 4**
+#<b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 
-## Lives: ##
+<h2> Lives: </h2>
 * Chicken Dance
 *Birthday Star 2001
 * Birthday Extravaganza 2007
@@ -66,11 +66,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 *Chuck E. Says 2002
 *Chuck E. Shuffle
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 *'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from Chuck E's Holiday Party 1999  ( Holiday Party).
 **'Chuck E.'s Ski Trip' has been updated with new music.
 *Since the segments are all reused, this show features curtain open and close signals on all stages.

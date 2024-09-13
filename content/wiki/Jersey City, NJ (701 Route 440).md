@@ -5,13 +5,14 @@ tags = []
 date = 2024-07-30T13:36:41Z
 
 [Article]
+pageThumbnailFile = "Jersey City NJ Exterior.jpeg|Jersey City after finishing it's 2.0 remodel on July 2, 2024. (PC: Dr. EZ of CEC 2)"
 contributors = ["Cheeseclassic","Captain Cheese IV","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Jersey City NJ Exterior.jpeg|desc=Jersey City after finishing it's 2.0 remodel on July 2, 2024. (PC: Dr. EZ of CEC 2)}}
-**_Jersey City, NJ (701 Route 440)**_ is a _Chuck E. Cheese's_ that opened on November 3, 2014, with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), and is still open to this day with the 2.0 remodel and the previously mentioned Circle of Light stage.
 
-## Stages ##
+<b><i>Jersey City, NJ (701 Route 440)</b></i> is a <i>Chuck E. Cheese's</i> that opened on November 3, 2014, with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), and is still open to this day with the 2.0 remodel and the previously mentioned Circle of Light stage.
+
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-08-31T22:16:54Z
 
 [Article]
+pageThumbnailFile = "Monroe’s Exterior in 2020 (Courtesy- LoopNet.).jpg|Exterior, 2020 (PC: LoopNet)"
 contributors = ["47.17.236.200","Cheeseclassic","CEC Kokomo","Signal08","AthensEpic","Documentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Monroe’s Exterior in 2020 (Courtesy- LoopNet.).jpg|desc=Exterior, 2020 (PC: LoopNet)}}
-**_3731 Pecanland Mall Dr**_ was a _Chuck E. Cheese's_ that opened in July 9, 2011 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in August 2024 (Unknown Day), after 13 years in operation.
+
+<b><i>3731 Pecanland Mall Dr</b></i> was a <i>Chuck E. Cheese's</i> that opened in July 9, 2011 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in August 2024 (Unknown Day), after 13 years in operation.
 
 The Chuck E. Cheese Animatronic was installed incorrectly onto to show which led to its eyelids being stuck upwards and the head being stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and miscellaneous repairs for the Chuck E. Animatronic.
 
-## Stages ##
+<h2> Stages </h2>
 Monroe opened with a Studio C Beta. They never received 2.0.
 {| class='wikitable'
 |+
@@ -26,13 +27,13 @@ Monroe opened with a Studio C Beta. They never received 2.0.
 |July 2024
 |}
 
-## History ##
+<h2> History </h2>
 Monroe opened in 2011. In May 2021, Monroe reopened after being closed in January 2021. Featuring an almost different selection of Arcade Games.In Late 2023, Monroe completely replaced its coins with cards followed by the removal of the animatronic from the stage. They never received the 2.0 remodel and closed on July 2024 (Unknown Day).  
 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

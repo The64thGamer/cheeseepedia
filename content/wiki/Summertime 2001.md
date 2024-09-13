@@ -16,71 +16,71 @@ gallery = []
 |r1293 = y
 |cusvhs = y
 }}
-**_Summertime 2001**_ was released in July 2001 and ran through September 2001.
+<b><i>Summertime 2001</b></i> was released in July 2001 and ran through September 2001.
 
 This show featured 4 segments with 8 songs.
 
-## Existing Show List: ##
+<h2> Existing Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Summertime'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## 'For The Birds'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Cookie)
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Celebrate America'
 ## 'America'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Chuck E.'s Home Movies at The Beach
 ## CEC TV ID - 'Cows'
 ## Store Intro - 'Brick, NJ' (Steve)
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'Local Pizza Cabana'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## 'At The Zoo'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Abby)
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Don't Hurry to Worry'
 ## 'Row Your Boat'
 
-## Studio C Show List: ##
+<h2> Studio C Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Summertime'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## 'Let's Take Flight!'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - Brick, NJ' (Abby)
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Celebrate America'
 ## 'America'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## 'At The Zoo'
 ## Water Skiing
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'Local Pizza Cabana'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## 'For The Birds'
 ## Chuck E.'s Home Movies at the Beach
 ## CEC TV ID - 'Cows'
 ## CEC TV ID - 'Brick, NJ' (Steve)
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Don't Hurry to Worry'
 ## 'Row Your Boat'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## 'Ocean of Fish'
 ## 'Time To Fly'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Cookie)
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Birthday
 * CEC Shuffle
 * CEC Says
@@ -94,9 +94,9 @@ This show featured 4 segments with 8 songs.
 * If You're Happy and You Know It
 * Patriotic Live 2000 (Patriotic Medley)
 
-**Birthday Break**: Same Birthday Break as seen in [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}). Set to a 1 minute, 2-minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: Same Birthday Break as seen in [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}). Set to a 1 minute, 2-minute countdown. This would then lead into the Birthday show.
 
-## Trivia: ##
+<h2> Trivia: </h2>
 The footage from 'Don't Hurry to Worry' is originally from the [Chuck E Cheese's 20th Anniversary]({{< ref "wiki/Chuck E Cheese's 20th Anniversary.md" >}}) with the footage being re-edited to sync better up with the new audio recorded. <ref>https://youtu.be/-4s6eWFx5Ig</ref>
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

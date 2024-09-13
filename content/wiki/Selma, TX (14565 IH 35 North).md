@@ -8,12 +8,12 @@ date = 2023-05-05T11:52:15Z
 contributors = ["Tuxchucke","Rexburg090","2600:4040:5A0E:D900:BD57:E007:3395:7DE2"]
 gallery = []
 +++
-**_14564 I-35 N, Store #583**_ known as **'Selma**' is a Chuck E. Cheese's that opened on December 13th, 2005 with a Studio C Beta.
+<b><i>14564 I-35 N, Store #583</b></i> known as <b>'Selma</b>' is a Chuck E. Cheese's that opened on December 13th, 2005 with a Studio C Beta.
 
-## History ##
+<h2> History </h2>
 Selma opened on December 13th, 2005 as a relocation of the [Windcrest]({{< ref "wiki/San Antonio, TX (8220 Windsor Cross).md" >}}) location. When the store opened, they had a Studio C 2000 (Studio C 2000, 16m) and the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. In the Late 2000's-Early 2010's, certain pieces of decor were removed. In July 2017, Selma would become one of the first 7 CECs to receive the 2017 2.0 Remodel Program which involved the Studio C being removed for a 2017 Model Dance Floor. As of April 2023, Selma still has the 2017 Model Dance Floor and 2.0 Remodel.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -31,7 +31,7 @@ Selma opened on December 13th, 2005 as a relocation of the [Windcrest]({{< ref "
 |2017 Model. One of first 7 to get the 2.0 Remodel.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

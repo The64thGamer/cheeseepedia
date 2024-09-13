@@ -8,9 +8,9 @@ date = 2024-07-15T19:42:49Z
 contributors = ["SuperCreamPiper2008","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++
-**_Oklahoma City, OK (7601 S Walker Ave), Store #888**_ is a _Chuck E. Cheese's_ that opened in May 2005 (day unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and is open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+<b><i>Oklahoma City, OK (7601 S Walker Ave), Store #888</b></i> is a <i>Chuck E. Cheese's</i> that opened in May 2005 (day unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and is open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -29,10 +29,10 @@ gallery = []
 |Still In Use.
 |}
 
-## History ##
+<h2> History </h2>
 W.I.P
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

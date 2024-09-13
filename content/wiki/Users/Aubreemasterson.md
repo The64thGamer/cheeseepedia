@@ -11,14 +11,14 @@ gallery = ["Aubree and Helen.jpg|thumb|Me and Avenger Cheerleader Helen Henny du
  location on August 6, 2024.]]
 Hey everybody, my name is Aubree, and I am a girl with autism and ADHD who has a good obsession with Chuck E. Cheese. My local location is the [Altoona, PA]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}) location, so I go there for any updates and fun. I'm planning to go to more locations in the future.
 
-## Fun facts ##
+<h2> Fun facts </h2>
 
 * 17-years-old
 * April 25th is my birthday (Birthday message? I prefer the ['92 Birthday Star song]({{< ref "wiki/Birthday Star '92.md" >}}) and the 'New Birthday' song, the one that goes 'Na na-na na!').
 * Tux and Avenger eras are my favorites (I also enjoy the PTT era, but mainly the one with Broadway Helen).
 * Presumably first went there when I was two in February 2010.
 * I went there a lot between 2011-2013.
-* Besides Chuck E. Cheese, I also enjoy _Winx Club_, _South Park_, _Clone High_, _6teen_, _Total Drama_, the Muppets (and Muppet Babies), _Kim Possible_, Disney stuff, etc.
+* Besides Chuck E. Cheese, I also enjoy <i>Winx Club</i>, <i>South Park</i>, <i>Clone High</i>, <i>6teen</i>, <i>Total Drama</i>, the Muppets (and Muppet Babies), <i>Kim Possible</i>, Disney stuff, etc.
 * I have a really good (and probably the most accurate) voice impression on Karlisa McKinney's Helen Henny (though my natural voice sounds like Annagrey Labasse's Helen Henny).
 * I LUV THE COMMERCIALS WITH CARTOON AVENGER CHUCK!!!!
 * I grew up with it at the end of the Avenger era and the Rockstar era.

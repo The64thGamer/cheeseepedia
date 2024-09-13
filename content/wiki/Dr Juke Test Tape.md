@@ -13,35 +13,35 @@ gallery = []
 |date=1983
 |lasercei=y}}
 
-The **_Dr. Juke Test Tape**_ was an unreleased showtape testing the [Dr. Juke]({{< ref "wiki/Dr Juke.md" >}}) show selector concept.  
+The <b><i>Dr. Juke Test Tape</b></i> was an unreleased showtape testing the [Dr. Juke]({{< ref "wiki/Dr Juke.md" >}}) show selector concept.  
 
 The tape was the only of its kind using the [CEI LaserDisc]({{< ref "wiki/CEI LaserDisc.md" >}}) format, where during the showtape segments the video contained PCM adaptor audio for the showtapes, and the LaserDisc audio tracks contained show control data.  
 
 Similar to what would become [Studio C]({{< ref "wiki/Studio C.md" >}}) showtapes, programs outside the segments were placed on the disc, allowing software to control animated segments while a show was waiting to be selected. 
-##Show List:##
-#**Intermission 1**
+<h2>Show List:</h2>
+#<b>Intermission 1</b>
 ##Dr. Juke Show Selection
 ##Uncle Klunk Cartoon
-#**Segment 1**
+#<b>Segment 1</b>
 ##Music Goes Round
-#**Segment 2**
+#<b>Segment 2</b>
 ##My Boyfriend's Back
-#**Segment 3**
+#<b>Segment 3</b>
 ##Unchained Melody
 ##Too Shy
-#**Segment 4**
+#<b>Segment 4</b>
 ##Elvis Medley
-#**Segment 5**
+#<b>Segment 5</b>
 ##Baseball
-#**Segment 6**
+#<b>Segment 6</b>
 ##Big Time Hollywood Agent Skit
-#**Segment 7**
+#<b>Segment 7</b>
 ##Framed
-#**Segment 8**
+#<b>Segment 8</b>
 ##Louisiana
-#**Segment 9**
+#<b>Segment 9</b>
 ##Child of the Rock
-#**Segment 10**
+#<b>Segment 10</b>
 ##Abbey Road Medley
 ###You Never Give Me Your Money
 ###Sun King
@@ -52,17 +52,17 @@ Similar to what would become [Studio C]({{< ref "wiki/Studio C.md" >}}) showtape
 ###Carry That Weight
 ###The End
 ###Her Majesty
-#**Segment 11**
+#<b>Segment 11</b>
 ##Annie Medley
 ###Tomorrow
 ###Maybe
-#**Segment 12**
+#<b>Segment 12</b>
 ##Birthday Medley
 ###Sixteen Candles
 ###Mr. Postman
 ###Having a Party
-#**Segment 13**
+#<b>Segment 13</b>
 ##Sal's Birthday
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 *

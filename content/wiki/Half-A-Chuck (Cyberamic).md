@@ -8,15 +8,15 @@ date = 2024-05-11T15:10:45Z
 contributors = ["CoolerDude","Newbie editor"]
 gallery = []
 +++
-The **Half-A-Chuck Cyberamic** was a modified King animatronic that was installed in the San Jose Foothill Collage Electronic Museum.
+The <b>Half-A-Chuck Cyberamic</b> was a modified King animatronic that was installed in the San Jose Foothill Collage Electronic Museum.
 
-{{Animatronic|image=Half-A-Chuck.jpg|unitsProduced=1|releasedate=1982}}
 
-## History ##
 
-## Design ##
+<h2> History </h2>
+
+<h2> Design </h2>
 The animatronic wore the regular Chuck E. Cheese Cyberamic outfit at the time with the Yellow Checker vest and had walkaround legs and feet. The animatronic itself was cut in half revealing the mech. 
 
 
 
-## References ##
+<h2> References </h2>

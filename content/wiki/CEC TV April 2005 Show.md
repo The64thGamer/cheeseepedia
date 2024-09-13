@@ -12,53 +12,53 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |image=cectv2005.jpg
 |date=April 2005
 |studioc=y
-|cusvhs93=y|r1293=y}}**_CEC TV April 2005 Show**_ is a showtape that released in April 2005 and played until the end of June 2005. 
-##Show List:##
-# **** **Segment 1**
+|cusvhs93=y|r1293=y}}<b><i>CEC TV April 2005 Show</b></i> is a showtape that released in April 2005 and played until the end of June 2005. 
+<h2>Show List:</h2>
+# <b></b> <b>Segment 1</b>
 ## [https://en.wikipedia.org/wiki/Free_Ride_(song) 'Free Ride']
 ## [https://en.wikipedia.org/wiki/Splish_Splash_(song) 'Splish Splash']
-#**Intermission 1**
-##  **** CEC TV ID - 'Singing Fish'
-##  **** Minute Maid Spot
-##  **** VeggieTales - 'Sport Utility Vehicle (SUV)'
-##  **** Countdown 1 (Shopping Cart)
+#<b>Intermission 1</b>
+##  <b></b> CEC TV ID - 'Singing Fish'
+##  <b></b> Minute Maid Spot
+##  <b></b> VeggieTales - 'Sport Utility Vehicle (SUV)'
+##  <b></b> Countdown 1 (Shopping Cart)
 ## Charlie Rockit - 'Charlie Chorebot'
 ## CEC TV ID - 'Chuck E. Skateboarding'
 ## Countdown 2 ('Hip Mouse' footage)
-# **** **Segment 2**
+# <b></b> <b>Segment 2</b>
 ## 'Pollution Is Crazy' (parody of [https://en.wikipedia.org/wiki/She_Drives_Me_Crazy 'She Drives Me Crazy'])
 ## 'Opposite Day'
-#**Intermission 2**
-##  ****  CEC TV ID - 'Astronaut'
-##  **** NASA Footage
+#<b>Intermission 2</b>
+##  <b></b>  CEC TV ID - 'Astronaut'
+##  <b></b> NASA Footage
 ## Pasqually's Polka Minute
 ## Countdown 3 ('Ace In The Hole' footage)
 ## Chuck E.'s Zoo View
 ## CEC TV ID - 'Cell Tower'
-##  **** Countdown 4 (Workout Time)
-# **** **Segment 3**
+##  <b></b> Countdown 4 (Workout Time)
+# <b></b> <b>Segment 3</b>
 ## [https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun 'Girls Just Wanna Have Fun']
 ## 'Colors'
-# **Intermission 3**
-##  **** CEC TV ID - 'Fireworks'
-##  **** Coke Spot
+# <b>Intermission 3</b>
+##  <b></b> CEC TV ID - 'Fireworks'
+##  <b></b> Coke Spot
 ## VeggieTales - 'Belly Button'
 ## Countdown 5 ('Jump Shout Boogie' footage)
 ## Super Jasper - 'Resist The Temptation'
 ## CEC TV ID - 'NBC Chime'
 ## Countdown 6 ('Do You Love Me' footage)
-# **** **Segment 4**
+# <b></b> <b>Segment 4</b>
 ## [https://en.wikipedia.org/wiki/Disco_Inferno 'Disco Inferno']
 ## [https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song) 'Stand By Me']
-# **Intermission 4**
-## **** CEC TV ID - 'Color The Numbers'
+# <b>Intermission 4</b>
+## <b></b> CEC TV ID - 'Color The Numbers'
 ## Pizza Survivor
 ## Charlie Rockit - 'Cooler Downer'
-##  **** Super Chuck Summer Promo
+##  <b></b> Super Chuck Summer Promo
 ## CEC TV ID - 'Falling Apple'
-##  **** Countdown 7 ('I Heard It Through The Grapevine' footage)
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+##  <b></b> Countdown 7 ('I Heard It Through The Grapevine' footage)
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
@@ -71,14 +71,14 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * Havin' A Party 01
 * If You're Happy and You Know It
 * Go Santa Go
-*  ****  [Nobody But Me]({{< ref "wiki/Nobody But Me.md" >}})
+*  <b></b>  [Nobody But Me]({{< ref "wiki/Nobody But Me.md" >}})
 
-**Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-## Production ##
-### Credits ###
+<h2> Production </h2>
+<h2>= Credits </h2>=
 
 * Duncan Brannan - Chuck E. Cheese Voice Actor
 * Annagrey Wiechman - Helen Henny Voice Actress
@@ -90,10 +90,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * Ryan Hollingsworth - Production Specialist
 * Sammy Davenport - Music Director
 
-### File Dates ###
+<h2>= File Dates </h2>=
 *(Studio C) DVD: 3/8/2005
 
-##Trivia##
+<h2>Trivia</h2>
 *Most of the intermissions in this show are reused
 **The two Charlie Rockit intermissions, 'Chuck E.'s Zoo View' and the footage in countdown 7 are reused from [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}). 
 ** The music in countdown 7 first appeared in [January 1995]({{< ref "wiki/January 1995.md" >}}).

@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2023-10-09T00:51:51Z
 
 [Article]
+pageThumbnailFile = "desc=A front view of the store's exterior before closure.|image=FullExteriorBeforeClosure.jpg"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","RedaCEC","CorrectorMan"]
 gallery = []
 +++
-{{Stub}}{{Generic|desc=A front view of the store's exterior before closure.|image=FullExteriorBeforeClosure.jpg}}
-**_St. Louis, MO (2805 Target Dr)**_ **_Store #741**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-03.pdf</ref> was a _Chuck E. Cheese's_ that opened on September 30, 1981 with a Rock-afire Explosion show and closed in Spring 2006.
+
+<b><i>St. Louis, MO (2805 Target Dr)</b></i> <b><i>Store #741</b></i><ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-03.pdf</ref> was a <i>Chuck E. Cheese's</i> that opened on September 30, 1981 with a Rock-afire Explosion show and closed in Spring 2006.
 This store would have a strange layout, with a very weird exterior. This store became different businesses later during its lifespan.
 
-## Stage##
+<h2> Stage</h2>
 This store opened on September 30th, 1981 with a Rock-afire Explosion, then in 1991, the stage was converted through Concept Unification to the 3-stage. The 3-stage would be maintained well over the years, up until early 2006. The bots were either destroyed or sent to another location for spare parts.
 {| class='wikitable'
 |+
@@ -29,21 +30,21 @@ This store opened on September 30th, 1981 with a Rock-afire Explosion, then in 1
 | Spring 2006
 |}
 
-##History##
+<h2>History</h2>
 
-###Showbiz Pizza###
+<h2>=Showbiz Pizza</h2>=
 There is little to no documentation of this store when it was a Showbiz Pizza, however we do know they had a Rock-afire explosion show, and a sports room and a kiddie area that would later be removed and converted.
 
-### Chuck E. Cheese's Pizza Remodel###
+<h2>= Chuck E. Cheese's Pizza Remodel</h2>=
 This remodel would happen sometime in 1991, and would involve the Concept Unification conversion of the store, this revolves around the removal of the sports room, the removal of Showbiz signage around the store, and the conversion of the exterior.
 
-###'Phase 2' Remodel. ###
+<h2>='Phase 2' Remodel. </h2>=
 The date this remodel started is around the late 90's. This was around the time of the removal of the older Concept Unification artwork, checkers around the store, and some changes to the stage. They would remain like this until their closure in Spring 2006.
 
-###After Closure###
+<h2>=After Closure</h2>=
 After they closed in Spring 2006, they were abandoned for a little bit as they were taken over by a 'Shoe Warehouse'. The store failed miserably only to close a few months later. The store then became a weird store and then replaced by Deja Vu cafe around 2013. The café closed around 2020. Sometime in 2022, the building was converted into Phoenix restaurant and bar with the former 'Shoe Warehouse/Chuck E. Cheese' sign possibly recycled and repainted.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -102,7 +103,7 @@ After they closed in Spring 2006, they were abandoned for a little bit as they w
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -114,5 +115,5 @@ After they closed in Spring 2006, they were abandoned for a little bit as they w
 |August 13th, 1991
 |}
 
-##References##
+<h2>References</h2>
 <references />

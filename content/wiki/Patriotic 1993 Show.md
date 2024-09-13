@@ -16,26 +16,26 @@ gallery = []
 |cusvhs = y
 }}
 
-The **_Patriotic 1993 Show**_ was the final rerelease of [CEC American Pride]({{< ref "wiki/CEC American Pride.md" >}}) which replaced all of the intermissions. 
+The <b><i>Patriotic 1993 Show</b></i> was the final rerelease of [CEC American Pride]({{< ref "wiki/CEC American Pride.md" >}}) which replaced all of the intermissions. 
 
-##Show List ##
-#**Intermission 1**
+<h2>Show List </h2>
+#<b>Intermission 1</b>
 ##'My Daddy's Daddy'
 ##VJ Spot
-#**Segment 1**
+#<b>Segment 1</b>
 ##'America The Beautiful / Yankee Doodle / Oh Susanna'
 ##'Children of America'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##'Tech-no-Rific'
 ##'Birthday Star'
 ##CEC TV '93 ID
 ##'One World'
 ##VJ Spot
 ##CEC TV News - 'Safety'
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Rockin' State'
 ##'My Country / This Land Is Your Land'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##'Skip Rope Skat'
 ##'Birthday Star'
 ##'Alphabetical'
@@ -43,41 +43,41 @@ The **_Patriotic 1993 Show**_ was the final rerelease of [CEC American Pride]({{
 ##2 Minute Countdown
 ##VJ Spot
 ##CEC TV '93 ID
-#**Segment 3**
+#<b>Segment 3</b>
 ##'Oh I Think My Pride is Showing Again'
 ##'Grand Old Flag'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##'Don't Ever Give Up'
 ##'Birthday Star'
 ##'BINGO'
 ##Helen Henny's Hollywood - 'New Kids On The Block'
 ##CEC TV '93 ID
 ##1 Minute Countdown
-#**Segment 4**
+#<b>Segment 4</b>
 ##'America The Beautiful / Yankee Doodle / Oh Susanna'
 ##'Children of America'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##'If You're Happy and You Know It'
 ##'Birthday Star'
 ##'Responsibility'
 ##3 Minute Countdown
 ##Geography Rap - 'Oceans'
 ##VJ Spot
-#**Segment 5**
+#<b>Segment 5</b>
 ##'Rockin' State'
 ##'My Country / This Land Is Your Land'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##'Dem Bones'
 ##6 Minute Countdown
 ##'Birthday Star'
 ##'Rock It Up'
 ##CEC TV '93 ID
 ##'Bicycle Built For Two'
-#**Segment 6**
+#<b>Segment 6</b>
 ##'Oh I Think My Pride is Showing Again'
 ##'Grand Old Flag'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##'Be A Sport'
 ##CEC TV Classic ID
 
-##Trivia:##
+<h2>Trivia:</h2>

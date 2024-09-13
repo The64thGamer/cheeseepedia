@@ -5,14 +5,15 @@ tags = []
 date = 2023-07-15T01:25:17Z
 
 [Article]
+pageThumbnailFile = "Irving TX Remodel-005.jpg|[[Artifact Shelves]] and updated showroom booths with planters."
 contributors = ["The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","Ceclife13"]
 gallery = []
 +++
-{{Generic|image=Irving TX Remodel-005.jpg|desc=[Artifact Shelves]({{< ref "wiki/Artifact Shelves.md" >}}) and updated showroom booths with planters.}}The **_Artifact Shelves**_ were unique shelves featured in stores that received the 1990s Major Remodel.
+The <b><i>Artifact Shelves</b></i> were unique shelves featured in stores that received the 1990s Major Remodel.
 
 Artifact Shelves consisted of retro and pop-culture décor, framing Chuck E. as part of pop-culture history and fame. These shelves were placed on both sides of the stage and had various themes, with sometimes each side having a different one.
 
-### Themes ###
+<h2>= Themes </h2>=
 
 * Hollywood
 * Broadway
@@ -21,7 +22,7 @@ Artifact Shelves consisted of retro and pop-culture décor, framing Chuck E. as 
 * Wild West
 * TV
 
-## Shelves ##
+<h2> Shelves </h2>
 {| class='wikitable'
 !Store
 !Date Recieved

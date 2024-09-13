@@ -5,17 +5,18 @@ tags = []
 date = 2023-11-07T23:29:22Z
 
 [Article]
+pageThumbnailFile = "Pizza Party USA Center Stage.png|Pizza Party USA Center Stage"
 contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|image=Pizza Party USA Center Stage.png|desc=Pizza Party USA Center Stage}}
 
-**_(2908 S Broad St)**_ was an Pizza Party USA that opened in the late 1990's with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).<ref>https://www.youtube.com/watch?v=eTY3GuEOTX4</ref> It closed at an unknown date.
 
-## History ##
+<b><i>(2908 S Broad St)</b></i> was an Pizza Party USA that opened in the late 1990's with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}).<ref>https://www.youtube.com/watch?v=eTY3GuEOTX4</ref> It closed at an unknown date.
+
+<h2> History </h2>
 The store would be opened by Gana Garner sometime in the late 1990's with a Rock-afire Explosion, sometime before or in 1997. After only a few years of operation it would fall into disrepair. Once the location finally closed, the Rock-afire Explosion was sent back to [Creative Engineering]({{< ref "wiki/Creative Engineering R&D Office.md" >}}).
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -30,4 +31,4 @@ The store would be opened by Gana Garner sometime in the late 1990's with a Rock
 |1997
 |}
 
-## References ##
+<h2> References </h2>

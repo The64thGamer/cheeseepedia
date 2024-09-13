@@ -17,43 +17,43 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 1 2019**_ was first released on December 31, 2018, and was intended to be played until March 31, 2019. The show featured four songs, of which two were new and two reused.
+<b><i>Chuck E. Cheese's Show 1 2019</b></i> was first released on December 31, 2018, and was intended to be played until March 31, 2019. The show featured four songs, of which two were new and two reused.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Janet Jackson - 'Made For Now'
 ## American Ninja Warriors Junior
-# **Skit 1**
+# <b>Skit 1</b>
 ## Pasqually - 'loppinsboopinfakindoopinfloppenloopenfunnin's Day'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Jungle Book
 ##  Ahmad Abdul - 'Coming Home'
 ## Show Break 1 - 'Night City'
 ##  Fun Facts with Chuck E. - 'Vacuum'
 ##  Max & Harvey - 'Trade Hearts'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Jasper T. Jowls - 'Tail of Jasper T.'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Barbie Dreamtopia
 ##  Alessia Cara - 'Trust My Lonely'
 ## Show Break 2 - 'Red & Rex'
 ##  Imagine Dragons - 'Zero'
 ##  Nina's World
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. Cheese - 'Lend a Helping Hand'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Mamma Mia! Here We Go Again - 'Dancing Queen'
 ## Pac Man
 ## Show Break 3 - 'National Parks'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Helen Henny - 'Nice Enough'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Niall Horan - 'Finally Free'
 ## Jokes from Pasqually - 'Early Bird'
 ##  Maddie Poppe - 'Going Going Gone'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -72,13 +72,13 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * The Roll (Studio C,Weigl)
 * Head Shoulders Knees & Toes (Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=8gZcVqxd5sQ 'The Tail of Jasper T.' on YouTube]
 *[https://www.youtube.com/watch?v=IL_6JHT6mm0 'Nice Enough' on YouTube]
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' is originally from Chuck E. Cheese's Show 1 2018 (Show 1 2018), and 'Lend a Helping Hand' is originally from Chuck E. Cheese's Show 5 2018 (Show 5 2018).
 * The filming for 'All I Want for Christmas is Snow' and 'Holiday Traditions' happened at the same time that 'The Tail of Jasper T.' was filmed. This is why 'The Tail of Jasper T.' uses the same band and town set.

@@ -12,28 +12,28 @@ gallery = []
 |date=February 1985
 |showbizreel=y}}
 
-**Top 10 Hits of 1985** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1985.
+<b>Top 10 Hits of 1985</b> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1985.
 
-##Segment List##
-#**Segment 1**
-##_Music Goes Round and Round_
-#**Segment 2**
-##_When Will I Be Loved_
-#**Segment 3**
-##_Get Ready_
-#**Segment 4**
-##_Desperado_
-#**Segment 5**
-##_Born To Run_
-#**Segment 6**
-##_Elvira_
-#**Segment 7**
-##_Beach Boys Medley_
-###_Good Vibrations_
-###_Barbara Ann_
-#**Segment 8**
-##_Gloria_
-#**Segment 9**
-##_Louisiana_
-#**Segment 10**
-##_One On One_
+<h2>Segment List</h2>
+#<b>Segment 1</b>
+##<i>Music Goes Round and Round</i>
+#<b>Segment 2</b>
+##<i>When Will I Be Loved</i>
+#<b>Segment 3</b>
+##<i>Get Ready</i>
+#<b>Segment 4</b>
+##<i>Desperado</i>
+#<b>Segment 5</b>
+##<i>Born To Run</i>
+#<b>Segment 6</b>
+##<i>Elvira</i>
+#<b>Segment 7</b>
+##<i>Beach Boys Medley</i>
+###<i>Good Vibrations</i>
+###<i>Barbara Ann</i>
+#<b>Segment 8</b>
+##<i>Gloria</i>
+#<b>Segment 9</b>
+##<i>Louisiana</i>
+#<b>Segment 10</b>
+##<i>One On One</i>

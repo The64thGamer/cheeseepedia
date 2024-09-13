@@ -18,46 +18,46 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 5 2016**_ was released on June 27th, 2016 and was played through August 21st, 2016. This show featured four new songs.
+<b><i>Chuck E. Cheese's Show 5 2016</b></i> was released on June 27th, 2016 and was played through August 21st, 2016. This show featured four new songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Intermission 1** 
+#  <b>Intermission 1</b> 
 ## Justin Timberlake - 'Can't Stop the Feeling'
 ## CEC Sketch - 'Carl Clean'
 ## Casper Babypants - 'Pretty Crabby'
-#  **Skit 1** 
+#  <b>Skit 1</b> 
 ## Chuck E. & Friends - 'Song Title'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  Meghan Trainor - 'Me Too'
 ##  Fraggle Rock - 'Wembley & the Gorgs'
 ##  Sofia Carson - 'Love is the Name'
 ##  Ice Age 'Collison Course' Trailer
 ## Josh & The Jamtones - 'Vamos a la Playa'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Helen Henny - 'Dream Big'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  Ne-Yo - 'Friend Like Me'
 ## CEC Promo - 'Buffet'
 ##  Alessia Cara - 'Wild Things'
 ## CEC Promo - 'Birthdays'
 ##  Casper Babypants - 'Too Dirty To Love'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. & Jasper - 'Nothing Like A Walk'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  American Authors - 'Go Big Or Go Home'
 ##  Fraggle Rock - 'Fun is Here to Stay'
 ## CEC Food Truck Promo
 ##  Fun Facts with CEC - 'Yawning'
 ##  CEC Promo - 'Out of This World Fun'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Chuck E. & Friends - 'Out of This World'
-#  **Intermission 5**
+#  <b>Intermission 5</b>
 ## Josh & The Jamtones - 'Clap It'
 ## Janet Jackson - 'Escapade'
 ## CEC TV Bumper (Animals)
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show 2016 (3stage, Cyberamic, Studio C, Weigl)
 * Spanish Birthday 2016 (3stage, Cyberamic, Studio C, Weigl)
@@ -70,16 +70,16 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * Head Shoulders Knees Toes (Studio C, Weigl)
 *  Chuck E.'s Happy Dance (Spanish) (Studio C, Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=rno52PZCT8Q 'Song Title' on YouTube]
 *[https://www.youtube.com/watch?v=43SBoyuF6tI 'Dream Big' on YouTube] 
 *[https://www.youtube.com/watch?v=XW97rGDfJec 'Nothing Like A Walk' on YouTube]
 *[https://www.youtube.com/watch?v=pZtesSQ7Ank 'Out of This World' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Despite having a live show called 'Spanish Birthday 2016', CEC never produced a Spanish version of Birthday 2016. 
 * After two years, a CEC TV Bumper (singing animals bumper) was once again put into the show after 'Escapade'. It depicts three animals singing 'Ba ba dum, C, E, C, TV' with a newly edited CEC TV logo in the corner featuring Rockstar Chuck's head.

@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-12-23T02:00:11Z
 
 [Article]
+pageThumbnailFile = "DearbornMI2015RemodelExterior.jpg|Dearborn's Exterior as of December 29, 2020 (PC: Detrioter Girl)"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","ChuckfeldStan","Stripes"]
 gallery = []
 +++
-{{Generic|image=DearbornMI2015RemodelExterior.jpg|desc=Dearborn's Exterior as of December 29, 2020 (PC: Detrioter Girl)}}
-**_24399 Michigan Ave, Store #359**_ was a Showbiz Pizza Place that opened on December 21, 1982 with a Rock-Afire Explosion, which is still open to this day.
+
+<b><i>24399 Michigan Ave, Store #359</b></i> was a Showbiz Pizza Place that opened on December 21, 1982 with a Rock-Afire Explosion, which is still open to this day.
 
 This was converted to a Chuck E. Cheese's Pizza around 1991 thanks to [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and converted to a Studio C Alpha in 2015. It opened on the same day as [Evansville, IN (559 N Green River Rd)]({{< ref "wiki/Evansville, IN (559 N Green River Rd).md" >}}).
-##History##
+<h2>History</h2>
 Dearborn opened on December 21st, 1982 as the 8th ShowBiz Pizza store in Michigan (6th after [Southgate, MI (15300 Toledo Rd)]({{< ref "wiki/Southgate, MI (15300 Toledo Rd).md" >}}), [Saginaw, MI (5105 Bay Rd)]({{< ref "wiki/Saginaw, MI (5105 Bay Rd).md" >}}), Walker, MI (3175 Alpine Ave), [Pontiac, MI (965 S Opdyke Rd)]({{< ref "wiki/Pontiac, MI (965 S Opdyke Rd).md" >}}), [Benton Harbor, MI (1956 Pipestone Rd)]({{< ref "wiki/Benton Harbor, MI (1956 Pipestone Rd).md" >}}), Jackson, MI (1050 W Argyle St), and [Flint, MI (3489 Miller Rd)]({{< ref "wiki/Flint, MI (3489 Miller Rd).md" >}}).) with a Rock-afire Explosion show. It was originally and currently, a corporate owned store. They would later end up receiving the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) removing the old Showbiz decor, and adding newer decor. In 1991, Dearborn received Concept Unification which removed the Rock-Afire for the 3-Stage and removed all Showbiz decor, added new decor, and a change to the exterior. Dearborn underwent another remodel in the Late 90's which involved the removal of the Neon Signage, Blue and White Awnings, some checkers around the store, another exterior change, and the installation of the SkyTubes. In May 2015, Dearborn received the 2015 Remodel which removed all 1990's store art, Balcony Seating, Showroom Walls, another change to the exterior, adding purple walls, and the removal of the 3-Stage for the Studio C Alpha from [Plano, TX (1604 Preston Rd)]({{< ref "wiki/Plano, TX (1604 Preston Rd).md" >}}). In August 2023, the store would begin its 2.0 remodel and removed the show, which the store remains currently remodeling as of today.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In around 1991, Dearborn would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In April 2015, the 3-Stage was removed for the Alpha from Plano, TX. The stage would then be removed in August 2023.
 {| class='wikitable'
 |+
@@ -43,7 +44,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | In Use
 |
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

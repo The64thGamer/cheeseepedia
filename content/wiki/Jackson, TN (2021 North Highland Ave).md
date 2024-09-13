@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-08-21T03:06:39Z
 
 [Article]
+pageThumbnailFile = "JacksonTNCECExterior.jpg|A photo of the store's exterior as of today."
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","GabrielPennington9864","AstridMascotFan2005","9Lol92"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=JacksonTNCECExterior.jpg|desc=A photo of the store's exterior as of today.}}
-**_2021 N Highland Ave, Store #667**_ is a Chuck E. Cheese's that opened on July 29, 2003, with a Studio C Cappa V1, which is still open to this day.
+
+<b><i>2021 N Highland Ave, Store #667</b></i> is a Chuck E. Cheese's that opened on July 29, 2003, with a Studio C Cappa V1, which is still open to this day.
 
 This location was the second store to open with a Studio C Cappa, with it also being the V1 Cappa, which was only installed in 6 other locations. As of August 17 2024, the store has the only Studio C Cappa V1 in the world and in Tennessee.
 
 It was originally planned to be opened at 50 Old Hickory Blvd in the former Looney Bird's, but never happened.
 
-## Stage ##
+<h2> Stage </h2>
 Originally, when the store opened, they had a Studio C Cappa V1, which was only installed in 7 locations. As of August 17, 2024, they still have the Cappa V1, with it being the only animatronic in Tennessee and in the world. The animatronic is rarely used but still sits like a statue on the stage.
 {| class='wikitable'
 !Stage
@@ -29,12 +30,12 @@ Originally, when the store opened, they had a Studio C Cappa V1, which was only 
 |V1 Cappa, Last Animatronic of any kind in Tennessee. 
 |}
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Black Hole
 * Monopoly Roll 'N Go
@@ -77,7 +78,7 @@ TODO
 * Tower Crane
 * Corvette Dragster
 
-#### Coin-Action ####
+<h2>== Coin-Action </h2>==
 
 * Deep Sea Treasure
 * The Price is Right Plinko
@@ -85,7 +86,7 @@ TODO
 * Wonderland
 * Winners' Toggle
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 * Hammer Fun
@@ -103,7 +104,7 @@ TODO
 * Ducky Splash
 * NBA Hoop Troop Jr.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -133,7 +134,7 @@ TODO
 
 TODO
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial

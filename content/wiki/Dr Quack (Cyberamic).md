@@ -5,14 +5,15 @@ tags = ["Animatronics"]
 date = 2024-05-13T10:40:52Z
 
 [Article]
+pageThumbnailFile = "Dr Quack Thumbnail.png|Dr. Quack"
 contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|image=Dr Quack Thumbnail.png|desc=Dr. Quack}}
 
-**_Dr. Quack**_<ref name=':0'>https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjkyMTMzMDE4LCJleHAiOjE2OTIyMTk0MTh9.sZ63cVihlDlWAUGEF2XDqAWUdyLOh6zMKGWrWlSc1Rw</ref> is a lost Cyberamic Cabaret test character that debuted at the [Simi Valley, CA (71 Tierra Rejada Rd)]({{< ref "wiki/Simi Valley, CA (71 Tierra Rejada Rd).md" >}}) location in 1980.
 
-## History ##
+<b><i>Dr. Quack</b></i><ref name=':0'>https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjkyMTMzMDE4LCJleHAiOjE2OTIyMTk0MTh9.sZ63cVihlDlWAUGEF2XDqAWUdyLOh6zMKGWrWlSc1Rw</ref> is a lost Cyberamic Cabaret test character that debuted at the [Simi Valley, CA (71 Tierra Rejada Rd)]({{< ref "wiki/Simi Valley, CA (71 Tierra Rejada Rd).md" >}}) location in 1980.
+
+<h2> History </h2>
 The animatronic is only known to have played the [Dr. Quack Showtape]({{< ref "wiki/Dr Quack Showtape.md" >}}), and the only pictures of the robot have been of its appearances inside the [Pizza Time Theatre Sunnyvale, CA Corporate Office]({{< ref "wiki/Pizza Time Theatre Sunnyvale, CA Corporate Office.md" >}}) Costume Department.
 
 Both photos have notable differences between them. One design depicts the character with ginger hair, alongside having a blue ascot. The other has the ascot removed and instead has curly dark brown hair. The other design's picture also has the irises removed from the mech, making it unclear if the other design had the same eye color. It is unknown which design is the first, or which appeared at the Simi Valley location.
@@ -24,4 +25,4 @@ Going off of what we know about the showtape, it can be assumed that this cabare
 
 
 
-## References ##
+<h2> References </h2>

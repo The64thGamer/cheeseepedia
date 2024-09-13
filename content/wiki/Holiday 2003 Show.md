@@ -17,70 +17,70 @@ gallery = []
 |cusvhs = y
 }}
 
-**Holiday 2003 Show** is a rerelease of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) which played throughout December 2003. 
+<b>Holiday 2003 Show</b> is a rerelease of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) which played throughout December 2003. 
 
-## Studio C Show List: ##
-# **Intermission 1**
+<h2> Studio C Show List: </h2>
+# <b>Intermission 1</b>
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#**Segment 2**
+#<b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Eddie Coker - 'Happy Holidays'
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Existing Show List: ##
-# **Intermission 1**
+<h2> Existing Show List: </h2>
+# <b>Intermission 1</b>
 ## Ken Chuck E. Derby
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Eddie Coker - 'Happy Holidays'
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Ken Chuck E. Derby
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Chuck E. March 01
 * Havin' A Party 01
 * Chuck E. Swing
@@ -92,5 +92,5 @@ gallery = []
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
 *Go Santa Go
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
-##Showtape Scans / Images:##
+<b>Birthday Break</b>: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<h2>Showtape Scans / Images:</h2>

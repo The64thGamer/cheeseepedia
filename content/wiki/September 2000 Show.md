@@ -17,50 +17,50 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 |dlStudioCDVD1=https://archive.org/download/april-2008-studio-c/September%202000%20Studio%20C.iso}}
 
-**September 2000 Show** (AKA **_The Chuck E. Cheese Show**_) was a show that released in September 2000 and ran through November 2000. 
+<b>September 2000 Show</b> (AKA <b><i>The Chuck E. Cheese Show</b></i>) was a show that released in September 2000 and ran through November 2000. 
 
 This show featured 4 segments with 8 songs.
 
-## Show Tape: ##
+<h2> Show Tape: </h2>
 
-#  **Segment 1** 
+#  <b>Segment 1</b> 
 ## Behind The Video
 ## 'Chuck E.' (Parody of [https://en.wikipedia.org/wiki/(You_Drive_Me)_Crazy '(You Drive Me) Crazy'])
 ## 'Drinkin' A Coca-Cola'(Parody of [https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca 'Livin' La Vida Loca'])
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Eddie Coker - 'The Words'
 ##  Flyball
 ##  Store Intro - 'Springfield MO, CEC'
 ## CEC TV ID - 'Rocketship'
-#   **Segment 2**
+#   <b>Segment 2</b>
 ## 'Jump'
 ## [https://en.wikipedia.org/wiki/Good_Vibrations 'Good Vibrations']
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Veggietales - 'Larry-Boy Theme Song'
 ##  Football
 ##  Store Intro - 'Springfield MO, CEC'
 ## CEC TV ID - 'Cows'
-#  **Segment 3** 
+#  <b>Segment 3</b> 
 ## [https://en.wikipedia.org/wiki/Only_in_My_Dreams 'Only In My Dreams']
 ## [https://en.wikipedia.org/wiki/Big_Tent_Revival 'I Can Count On You']
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Eddie Coker - 'Nine Inch Whales'
 ##  Ski Time (Studio C only)
 ## Ocean (Studio C only)
 ##  Store Intro - 'Springfield MO, CEC'
 ## CEC TV ID - 'Rocketship'
-#  **Segment 4** 
+#  <b>Segment 4</b> 
 ## [https://en.wikipedia.org/wiki/Howard_Johnson_(lyricist) 'M.O.T.H.E.R.']
 ## 'No Other Place'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  VeggieTales - 'I Love My Duck'
 ##  Closing Time?
 ##  Store Intro - 'Springfield MO, CEC'
 ## CEC TV ID - 'Cows'
 ## Book Your Party Online Promo
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * Chuck E. Says
 * [Chuck E. Shuffle]({{< ref "wiki/Chuck E Shuffle.md" >}})
@@ -76,19 +76,19 @@ This show featured 4 segments with 8 songs.
 * If You're Happy & You Know It
 *  Limbo Rock
 
-**Birthday Break**: The CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: The CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
 
 
 
-## Production ##
-#### Filming Locations: ####
+<h2> Production </h2>
+<h2>== Filming Locations: </h2>==
 
 * The Store Intros and 'No Other Place' were filmed at [Springfield, MO (3500-A S Glenstone Ave)]({{< ref "wiki/Springfield, MO (3500-A S Glenstone Ave).md" >}}).
 * 'Closing Time?' was filmed at [Irving, TX (3903 W Airport Fwy)]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) in early 2000.
 * 'Flyball' was filmed at a Texas Heat dog show
 
-##Trivia##
+<h2>Trivia</h2>
 *Various members of the entertainment department appear in this show
 **Duncan Brannan is the cast member in 'Closing Time?'
 **Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video'

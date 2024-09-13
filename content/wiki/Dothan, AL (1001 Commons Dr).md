@@ -9,11 +9,11 @@ contributors = ["TailsFan628","Tux Chuck"]
 gallery = ["CEC dothan 12 11 23.jpg|thumb|The store as it appeared on December 11th, 2023 at 12:45 PM","CEC dothan stage.jpg|thumb|371x371px|The unique stage setup seen at the store."]
 +++
 
-**_1001 Commons Dr, Dothan, AL 36303**_ was a _Chuck E. Cheese's_ that opened on August 19th, 2004, with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) stage.
+<b><i>1001 Commons Dr, Dothan, AL 36303</b></i> was a <i>Chuck E. Cheese's</i> that opened on August 19th, 2004, with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) stage.
 
 This store is not to be confused with the [Dothan, AL (3400 Ross Clark Circle)]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}}) location, which closed in April of 1998.
 
-##Stages##
+<h2>Stages</h2>
 
 The store opened with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) stage. The stage was formerly a standard Cappa stage, however, it was remodeled at some point between Late 2017 and Late 2018, removing the bluescreen and the TVs to the left of Chuck's stage and replacing it with a blue wall with 3 flatscreen TVs with LED backlighting and a CEC emblem which is also backlit. The wall to the right of Chuck was also painted green. The Chuck E. animatronic no longer moves most likely due to the end to Studio C programming in 2022 but is in decent cosmetical condition.
 {| class='wikitable'
@@ -26,10 +26,10 @@ The store opened with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) s
 |In store.
 |}
 
-##History##
+<h2>History</h2>
 The store opened on August 19th, 2004, presumably right around the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative was beginning to be rolled out. Because of this, this store got a few features of that remodel such as the red neon lights lining the top of the building and the lack of showroom walls. Despite the timing, the exterior signage still used the 90s 'thumbs up' logo and the red/yellow gradient text. In addition to this, the store art mostly consists of Phase 3 pieces, such as the Must C TV pieces, the sporting equipment, the stars and the sports magazines and the 1999 postcards. Later on, the store received some of the Phase 4 pieces such as the 'King of Cool' pieces and the watercolor piece. The store has mostly remained the same since opening day, and according to the employees, is set to receive the 2.0 remodel at some point in 2024.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Video
@@ -56,7 +56,7 @@ The store opened on August 19th, 2004, presumably right around the 2003 'Cool Ch
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts
@@ -65,5 +65,5 @@ The store opened on August 19th, 2004, presumably right around the 2003 'Cool Ch
 |In store. No movement.
 |}
 
-##References##
+<h2>References</h2>
 citations go here automatically if you use them in the editor

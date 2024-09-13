@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-06-08T12:04:43Z
 
 [Article]
+pageThumbnailFile = "Herndon’s Exterior pre-2.0.jpg|Herndon’s Exterior in June 2023, a month before the 2.0 remodel. (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Herndon’s Exterior pre-2.0.jpg|desc=Herndon’s Exterior in June 2023, a month before the 2.0 remodel. (PC: Google Maps)}}
-**_2465 Centreville Rd, Store #368**_ is a Chuck E. Cheese's that opened on
+
+<b><i>2465 Centreville Rd, Store #368</b></i> is a Chuck E. Cheese's that opened on
 May 19, 1992, with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), and is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
 
-## History ##
+<h2> History </h2>
 Herndon opened on May 19, 1992. At first, they had a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Nothing special is known about it, and stayed up until the location received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in 2007, replacing the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}). It would remain this way until July 2023, when the location received the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), meaning the Studio C was removed for a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}). The location also received a Trampoline Zone. As of September 2023, Herndon remains like this.
 
 {| class='wikitable'
@@ -34,7 +35,7 @@ Herndon opened on May 19, 1992. At first, they had a [2-Stage]({{< ref "wiki/2-S
 |Still In Use
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

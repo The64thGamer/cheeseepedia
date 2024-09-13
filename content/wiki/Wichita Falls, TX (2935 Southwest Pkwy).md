@@ -8,14 +8,14 @@ date = 2023-10-07T13:58:45Z
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0E:D900:1416:BDEB:5C72:A1A6"]
 gallery = []
 +++
-**_2935 Southwest Pkwy, Store #309**_ was a Showbiz Pizza Place that opened on September 22, 1982 with a Rock-afire Explosion, which is still open to this day.
+<b><i>2935 Southwest Pkwy, Store #309</b></i> was a Showbiz Pizza Place that opened on September 22, 1982 with a Rock-afire Explosion, which is still open to this day.
 
 This converted to a Chuck E. Cheese in September 1991, and then received 2.0 in Early 2020 (One of 7 locations to get 2.0 around that time).
 
 It opened on the same day as [Mishawaka, IN (822 W McKinley Ave)]({{< ref "wiki/Mishawaka, IN (822 W McKinley Ave).md" >}}).
-##History##
+<h2>History</h2>
 Wichita Falls opened on September 22nd, 1982 as the 17th ShowBiz Pizza store in Texas with a Rock-afire Explosion show. It was originally and currently, a corporate owned store. They would later end up receiving the [1988 Remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) removing the old Showbiz decor, and adding newer decor. In September 1991, Wichita Falls received Concept Unification which removed the Rock-Afire for the 3-Stage and removed all Showbiz decor, added new decor, and a change to the exterior. Wichita Falls underwent another remodel in the Late 90's which involved the removal of the Neon Signage, Blue and White Awnings, some checkers around the store, and strangely, keeping the Concept Unification exterior. In 2009-2010, Wichita Falls received the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) which removed all 1990's store art, Balcony Seating, Showroom Walls, another minor change to the exterior, and adding purple walls. In Early 2020, Wichita Falls received the 2.0 remodel which removed the 3-Stage for the Dance Floor. As of January 2023, Wichita Falls still has the 2.0 Remodel and 2019 Model Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In around 1991, Wichita Falls would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In Early 2020, Wichita Falls received 2.0 and the Alpha was removed for the 2019 Model Dance Floor.
 {| class='wikitable'
 |+
@@ -39,7 +39,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Still in use
 |2019 Model. One of 7 locations to remodel to 2.0 in 2020.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -95,7 +95,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -173,6 +173,6 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |September 30, 2019
 |}
 
-## References ##
+<h2> References </h2>
 <references />
 *

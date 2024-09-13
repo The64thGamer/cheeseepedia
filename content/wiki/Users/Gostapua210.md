@@ -10,11 +10,11 @@ gallery = []
 +++
 in San Antonio
 
-**locations visited**:
+<b>locations visited</b>:
 
-**San Antonio, TX area:**
+<b>San Antonio, TX area:</b>
 
-Ingram Rd, numerous times in between 2010-2024 **Current Local**
+Ingram Rd, numerous times in between 2010-2024 <b>Current Local</b>
 
 Military Dr, numerous times in between 2014-2022 childhood location
 
@@ -24,7 +24,7 @@ Stone Oak area, November 2022
 
 Selma, November 2022
 
-**Dallas, TX area:**Westmoreland Dallas, TX July 2022
+<b>Dallas, TX area:</b>Westmoreland Dallas, TX July 2022
 
 Fielder rd Arlington, TX July 2022
 
@@ -32,7 +32,7 @@ Abilene, TX January 2023
 Round Rock, TX March 2024
 
 
-**Misc. Locations:**
+<b>Misc. Locations:</b>
 
 South Austin, TX/Ben White relocation March 2023
 

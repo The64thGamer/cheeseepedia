@@ -8,14 +8,14 @@ date = 2024-07-31T23:24:30Z
 contributors = ["DerekCat"]
 gallery = []
 +++
-{{Showtape|date=February 1987|showbizreel=y}}
+
 
 The SPP Westerns - Movies - R&R is a corporate showtape released for ShowBiz Pizza Place.
 
-## Showbiz Pizza Program ##
+<h2> Showbiz Pizza Program </h2>
 This showtape would used the [Showbiz Pizza Program 4]({{< ref "wiki/Showbiz Pizza Program 4.md" >}}) tape for the background music.
 
-## Family Vision ##
+<h2> Family Vision </h2>
 According to the SPT Franchise News #30 'Entertainment News' section this Family Vision tape would have been sent to participating stores along with the showtape, and background music tape. It would have contain two country/western videos, along with the new Dot Derby which was produced only for ShowBiz Pizza Place. <ref>http://www.showbizpizza.com/info/documents/spt/spt_franchisenews30.pdf</ref>
 
 It is currently unknown the order of the videos in this Family Vision tape, though the video themselves are known.<ref>https://www.youtube.com/watch?v=Dlwu_T6Rzvk&ab_channel=NickWinship</ref>
@@ -40,7 +40,7 @@ It is currently unknown the order of the videos in this Family Vision tape, thou
 |4:19
 |https://www.youtube.com/watch?v=xhdEF-_0fq4
 |}
-## Show List: ##
+<h2> Show List: </h2>
 # Segment 1 (Westerns)
 ## Westerns Intro Announcement
 ## [https://en.wikipedia.org/wiki/F_Troop F-Troop Theme]
@@ -78,5 +78,5 @@ It is currently unknown the order of the videos in this Family Vision tape, thou
 ### [https://en.wikipedia.org/wiki/I_Get_Around I Get Around]
 ### [https://en.wikipedia.org/wiki/Fun,_Fun,_Fun Fun, Fun, Fun]
 
-## References ##
+<h2> References </h2>
 <references />

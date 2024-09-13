@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-03-24T02:06:08Z
 
 [Article]
+pageThumbnailFile = "Champaign, IL PTT Showbiz Exterior.jpg|Champaign's exterior before closure."
 contributors = ["CEC Kokomo","Saan1ty","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=Champaign, IL PTT Showbiz Exterior.jpg|desc=Champaign's exterior before closure.}}
-**_1036 Bloomington Rd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in December 1990 as a _ShowBiz Pizza_ with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-## History ##
+<b><i>1036 Bloomington Rd</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in December 1990 as a <i>ShowBiz Pizza</i> with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+
+<h2> History </h2>
 Champaign opened in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). However, almost nothing is known about the store at all. The store would get the 1988 remodel and [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) in 1989, and rename the store to ShowBiz Pizza in progress. The store closed in December 1990 for unknown reasons. The store would become many businesses, but today, it remains a 'Bargain Bins' discount store.
 
 The building itself still has some remains of when it used to be open- one of the colored checkers can still be seen on the wall under another layer of plaster, and the 'Now Showing' box remains to this day, although boarded up.
@@ -19,7 +20,7 @@ The building itself still has some remains of when it used to be open- one of th
 
 
 
-## Stages and Animatronics ##
+<h2> Stages and Animatronics </h2>
 The [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) was kept up until 1989, when they retrofitted it to [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). The stage would only last a year, as they would close in December 1990.
 {| class='wikitable'
 !Stage

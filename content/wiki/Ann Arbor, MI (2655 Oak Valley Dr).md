@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2023-10-01T16:38:30Z
 
 [Article]
+pageThumbnailFile = "561225750 5issIJ-c1EpGt4Y4orLFjHYadlz2eRHN4mO mb-a6Q.jpg|Exterior, October 2019"
 contributors = ["CECBowlingGreen","Rexburg090","2600:1700:8790:12F0:F567:8EFC:9DB6:7416","76.218.16.5","Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=561225750 5issIJ-c1EpGt4Y4orLFjHYadlz2eRHN4mO mb-a6Q.jpg|desc=Exterior, October 2019}}
-**2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020.
+
+<b>2655 Oak Valley Dr, Store #334</b> was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020.
 
 This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M.
 
 Also, this location should not be confused with Ann Arbor, MI (2196 W Stadium Blvd) which was a Pizza Time Theatre location that opened on December 30, 1981 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1985 with the Family Album.
 
-##History ##
+<h2>History </h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. animatronic. they would have the stage until they closed, but in June 2020, they replaced their 32M figure with a 16M figure which came from the Muskegon, Michigan (Muskegon had one of the original 7 'V1' Studio C Cappas), which closed in June 2020. As of October 2022, they have been the only Studio C Alpha to feature a 16M character (Alphas normally have the 32M character). they would have the 'Studio C Alpha, 16M' for only 5-6 months, when they would close on December 2nd, 2020, possibly of the COVID-19 Pandemic, and the financial situation of CEC Entertainment, Chuck E. Cheese's parent company.
 {| class='wikitable'
 |+
@@ -34,7 +35,7 @@ Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. 
 |-
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -63,15 +64,15 @@ Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. 
 |
 |}
 
-## Arcade Machines##
+<h2> Arcade Machines</h2>
 
-###Identified Machines:###
+<h2>=Identified Machines:</h2>=
 Buzzy Buzzy Bee
 
-##Gallery ##
+<h2>Gallery </h2>
 TODO
 
-##Youtube Videos##
+<h2>Youtube Videos</h2>
 TODO
 {| class='wikitable'
 !Link

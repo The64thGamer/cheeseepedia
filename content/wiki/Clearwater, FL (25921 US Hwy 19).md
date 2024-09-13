@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-29T16:06:48Z
 
 [Article]
+pageThumbnailFile = "2024-06-05.jpg|Exterior in 2024."
 contributors = ["ChuckfeldStan","CorrectorMan","ShowbizMidwest","ThatBoiCydalan","TuxChuckisNo1","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=2024-06-05.jpg|desc=Exterior in 2024.}}
-**_25921 US Hwy 19, Store #436**_ is a _Chuck E. Cheese's_ that opened as a Chuck E. Cheese’s Pizza on July 21st, 1992 with a Road Stage and is still open with the 2.0 remodel.
 
-##History##
+<b><i>25921 US Hwy 19, Store #436</b></i> is a <i>Chuck E. Cheese's</i> that opened as a Chuck E. Cheese’s Pizza on July 21st, 1992 with a Road Stage and is still open with the 2.0 remodel.
+
+<h2>History</h2>
 Not to be confused with 2539 Countryside Blvd, which was a Pizza Time Theatre. Clearwater opened on July 21, 1992, with the second to last brand new Road Stage installed. In Fall 2000, Clearwater was chosen to test a brand new Studio C variant, and received one of, if not the first, Studio C Beta stage.
 
-##Stages##
+<h2>Stages</h2>
 Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a Studio C 2000 (Studio C Beta). Clearwater’s Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater’s Beta also featured a unique, one of a kind bluescreen, which read “CEC Studio” at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign.
 At some point, Chuck E.’s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism. 
 Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the Avenger outfit in 2012, however, they kept the original red hat.
@@ -37,9 +38,9 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the 
 |Still in use.
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-### Skill###
+<h2>= Skill</h2>=
 
 * Deadstorm Pirates
 *Spongebob Squarepants Pineapple Arcade
@@ -91,7 +92,7 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the 
 *Slam-A-Winner
 *Fast & Furious SuperCars
 
-####Coin Action####
+<h2>==Coin Action</h2>==
 
 *Jam Session
 *Hat Trick
@@ -99,7 +100,7 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the 
 *Wonderland
 *The Price is Right
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Arka Jungle Boat
 *Octonauts (Barnicles)
@@ -122,7 +123,7 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the 
 *Pirate's Hook
 *Generic Police Car Ride
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -153,9 +154,9 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the 
 |Destroyed
 |}
 
-##Decor##
+<h2>Decor</h2>
 
-###Former###
+<h2>=Former</h2>=
 
 *1998 Chuck E. Pop Arts (3 Big)
 *1998 Chuck E. Portrait

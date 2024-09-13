@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-06-25T18:33:03Z
 
 [Article]
+pageThumbnailFile = "Screenshot 2024-01-10 082428.png|Exterior before closure."
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","CEC Tinley","Chez","The 64th Gamer","Snowbobsuperboi","Cheeseclassic"]
 gallery = []
 +++
-{{NoSources}}
-{{Generic|image=Screenshot 2024-01-10 082428.png|desc=Exterior before closure.}}
-**_955 South E St, Store #415**_ also known as 'Southeast' was a _Pizza Time Theatre/Chuck E. Cheese_ that opened in December 1981 (day not found) as a franchise _Pizza Time Theatre_ with a Balcony Stage and closed on June 18, 2020, with a 2-Stage.
+
+
+<b><i>955 South E St, Store #415</b></i> also known as 'Southeast' was a <i>Pizza Time Theatre/Chuck E. Cheese</i> that opened in December 1981 (day not found) as a franchise <i>Pizza Time Theatre</i> with a Balcony Stage and closed on June 18, 2020, with a 2-Stage.
 
 It should not be confused with the [San Bernardino, CA (777 E Hospitality Lane)]({{< ref "wiki/San Bernardino, CA (777 E Hospitality Lane).md" >}}) location which opened on June 27th, 2003, with a Studio C Beta, 16m and is still open to this day.
 
-##History##
+<h2>History</h2>
 San Bernardino opened its doors in December 1981 with a Balcony Stage show. It was originally a franchised-owned store. Like many other Pizza Time Theatre locations, it had a typical PTT layout seen in many other stores across the United States. Very little documentation exists back in the Pizza Time Theatre days. San Bernardino remained like this until they would receive the 1988 remodel in 1988-1989 removing PTT decor for the CU decor, and the removal of the Balcony Stage for the C-Stage.
 
 In the Early 90's (Around 1991 or 1992 or 1993), San Bernardino received a major remodel which renamed the restaurant and repainted the exterior, added newer decor, the removal of the lounge and other guest characters including the King, the renaming of 'The Theater' to 'Showroom', removed the Waving Flags, and the removal of C-Stage for the 2-Stage. In the Late 90's, San Bernardino received the Phase 2 remodel which removed the older 90's decor for newer decor, re-done the exterior again, renamed the store again, and added SkyTubes replacing the ball pit. San Bernardino remained this way until sometime in Early-Mid 2007 when they received the 2005 Remodel which involved removing the Showroom Walls, Balcony Seating, received a new exterior, expanding the store, relocating the stage, and also removing some older 90's decor. San Bernardino remained like this until June 18th, 2020, when it would close as part of the many listed stores for the bankruptcy. Currently, as of March 2023, the location is still abandoned.
-##Stages##
+<h2>Stages</h2>
 San Bernardino opened with the Balcony Stage in December 1981. Unfortunately, there are no photos or no videos to exist of San Bernardino with the Balcony Stage, or as a PTT in general. The only one photo is the outside, but it is turned away and has Chuck E. playing his drums next to a Burger King that closed somewhere between the mid-late 90's and became a Jose's Mexican Food Restaurant. 
 
 In 1988/1989, San Bernardino removed their Balcony Stage for, the C-Stage or Chuck E.'s House Facade.
@@ -47,7 +48,7 @@ In June 2020, the location closed due to the bankruptcy and the COVID-19 Pandemi
 |June 2020
 |One of many installed in California.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Serial
@@ -97,7 +98,7 @@ In June 2020, the location closed due to the bankruptcy and the COVID-19 Pandemi
 |N/A
 |Owned by a private collector.
 |}
-##Videos##
+<h2>Videos</h2>
 
 {| class='wikitable'
 !Link

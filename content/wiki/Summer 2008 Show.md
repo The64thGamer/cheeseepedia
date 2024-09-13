@@ -8,7 +8,7 @@ date = 2024-07-30T13:10:20Z
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","AstridMascotFan2005"]
 gallery = []
 +++
-{{NonStandard}}
+
 
 Segment 1
 
@@ -64,4 +64,4 @@ PBS Spot
 
 Shrek Spots
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

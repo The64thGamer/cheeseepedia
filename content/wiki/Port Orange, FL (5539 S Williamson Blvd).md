@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-08-26T22:38:46Z
 
 [Article]
+pageThumbnailFile = "Port Orange.jpg|Store Exterior"
 contributors = ["Chouts1","Pench0782","CECBowlingGreen","Studio Cheese","BurgersNuggs445","CorrectorMan","Loud.time","47.17.236.200","76.255.27.153","Captain Cheese IV","AstridMascotFan2005","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|image=Port Orange.jpg|desc=Store Exterior}}
 
-**_5539 S Williamson Blvd**_ was a Chuck E. Cheese's that opened on December 26, 2013, and closed on September 29, 2022, with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). A new location scheduled to be built on the site of the former location will reopen in late 2024 with the 2.0 remodel.
 
-##Stages##
+<b><i>5539 S Williamson Blvd</b></i> was a Chuck E. Cheese's that opened on December 26, 2013, and closed on September 29, 2022, with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). A new location scheduled to be built on the site of the former location will reopen in late 2024 with the 2.0 remodel.
+
+<h2>Stages</h2>
 When the store opened, they had a Circles of Light, 32M, the animatronic came from the [Dallas, Texas Montfort Dr]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).md" >}}) location; which was originally removed in September 2012. The robot had 16M legs and therefore no foot tap movement when it was installed in Port Orange. 
 
-## History##
+<h2> History</h2>
 A Chuck E. Cheese's restaurant had not existed in Volusia County, the Daytona Beach metro area, since the Daytona Beach Pizza Time Theatre closed in 1983. When considering a new unit in the area, CEC Entertainment executives reviewed studies that claimed that the City of Port Orange was the fastest developing suburbia in Florida. Regardless of the much more sizeable population in Daytona Beach, CEC Entertainment elected to build a unit in Port Orange.  
 
 This location opened on December 26, 2013. An early Phase 5 store, it received Rockstar-era art but lots of Avenger-era regulatory signage, previously used equipment, and games.  
@@ -31,7 +32,7 @@ The location is being rebuilt and is projected to reopen in late 2024 on the exi
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -91,7 +92,7 @@ The location is being rebuilt and is projected to reopen in late 2024 on the exi
 |February 7, 2023
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic

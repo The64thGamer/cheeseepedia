@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-07-16T01:35:02Z
 
 [Article]
+pageThumbnailFile = "Westpalmbeachwhenopen.jpg|Exterior, Year Unknown (PC: Unknown)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","CorrectorMan","CEC Tinley","Cecnj98","ThatBoiCydalan","Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Westpalmbeachwhenopen.jpg|desc=Exterior, Year Unknown (PC: Unknown)}}
-**_4646 Okeechobee Blvd, Store #432**_ was a _Chuck E. Cheese's Pizza_/_Chuck E. Cheeses_ in West Palm Beach, Florida. The store opened on December 18, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in December 2004 due to a hurricane.
+
+<b><i>4646 Okeechobee Blvd, Store #432</b></i> was a <i>Chuck E. Cheese's Pizza</i>/<i>Chuck E. Cheeses</i> in West Palm Beach, Florida. The store opened on December 18, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in December 2004 due to a hurricane.
 
 This is not to be confused with the Pizza Time Theatre on West Palm Beach, FL (2101 Palm Beach Lakes) (2101 Palm Beach Lakes) which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) or the current location on [2471 Okeechobee Blvd]({{< ref "wiki/West Palm Beach, FL (2471 Okeechobee Blvd).md" >}}) which opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}) and received 2.0 in March 2022, which is still open to this day.
 
-##History##
+<h2>History</h2>
 West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corporate) Prototype Road Stages (The others being [Jonesboro]({{< ref "wiki/Jonesboro, GA (335 Upper Riverdale Rd).md" >}}) & [Springfield, PA]({{< ref "wiki/Springfield, PA (381 Baltimore Pike).md" >}})) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown). They opened with the 1988 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the Prototype Road Stage itself.  
 
 In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the decor with 1990's decor. The store then received another remodel in the Mid-Late 1990s which involved removing elements from the 1988 Update and replacing them with new decor from that time and the exterior signage was replaced which was the store's final remodel.   
 
 In December 2004, the store was closed due to hurricane damage. The store remained vacant for a few years until the building was demolished for a TD Bank in around 2007. As of June 2023, TD Bank still remains on the site.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -38,7 +39,7 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 |One of many Road Stages in Florida.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturer Date
@@ -76,9 +77,9 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 |Added when converted to finalized Road Stage
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Identified Machines ###
+<h2>= Identified Machines </h2>=
 
 * [https://www.arcade-museum.com/game_detail.php?game_id=19671 Buzzy Buzzy Bee]
 * [Chuck E Cheese's Pow-Air Play]({{< ref "wiki/Chuck E Cheese's Pow-Air Play.md" >}}) (1996 unit)
@@ -106,7 +107,7 @@ In December 2004, the store was closed due to hurricane damage. The store remain
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

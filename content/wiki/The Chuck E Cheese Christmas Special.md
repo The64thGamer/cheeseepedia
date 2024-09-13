@@ -16,10 +16,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_The Chuck E. Cheese Christmas Special**_ was released on November 20, 1995, at Chuck E. Cheese's locations. 
+<b><i>The Chuck E. Cheese Christmas Special</b></i> was released on November 20, 1995, at Chuck E. Cheese's locations. 
 
-##Show List ##
-#**** **Segment 1**
+<h2>Show List </h2>
+#<b></b> <b>Segment 1</b>
 ##'Jingle Bells'
 ##'Deck The Halls'
 ##'We Wish You A Happy New Year'
@@ -27,38 +27,38 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##'On This Day of Christmas'
 ##'Up On The Rooftop'
 ##'Jingle Bells'
-#**** **Intermission 1**
+#<b></b> <b>Intermission 1</b>
 ##'Good King Wenceslas'
 ##'Jingle Bells'
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Holly Jolly Christmas'
 ##'Toyland'
 ##'Run Run Rudolph'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##'O Christmas Tree'
 ##'It Came Upon A Midnight Clear'
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'We Wish You A Merry Christmas'
 ##Restaurant Christmas Dinner
 ##'We Wish You A Merry Christmas'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##'Joy To The World'
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'Jolly Old Saint Nicholas'
 ##Current Edition Christmas Special
 ##'Jolly Old Saint Nicholas'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##'God Rest Ye Merry Gentlemen'
 ##'Silent Night'
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##'We Wish You A Merry Christmas'
 ##The Night Before Christmas
 ##'We Wish You A Merry Christmas'
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##'Deck The Halls'
 
 
-##Trivia:##
-*The intermission music in this show comes from an album called _Contempory Christmas_ by Ron Roy.
+<h2>Trivia:</h2>
+*The intermission music in this show comes from an album called <i>Contempory Christmas</i> by Ron Roy.
 *Santa's voice actor, Ron Schneider, previously voiced Mr Mouth.
 *'Run Run Rudolph' is sung by Munch, but was programmed to Jasper. This song was also used as a live show, which also includes the error.

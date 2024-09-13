@@ -5,29 +5,30 @@ tags = ["Store List"]
 date = 2024-06-07T03:39:17Z
 
 [Article]
+pageThumbnailFile = "PlanoTXCEC2.0Exterior.png|Exterior of the newly remodeled Plano, TX store."
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","BurgersNuggs445","74.96.197.218","CoolerDude"]
 gallery = []
 +++
-{{Generic|image=PlanoTXCEC2.0Exterior.png|desc=Exterior of the newly remodeled Plano, TX store.}}
-**_1604 Preston Rd, Store #950**_ is a _Chuck E. Cheese's_ that opened in May 1998 with Studio C (1997) (Studio C) and is currently open as of 2023.
+
+<b><i>1604 Preston Rd, Store #950</b></i> is a <i>Chuck E. Cheese's</i> that opened in May 1998 with Studio C (1997) (Studio C) and is currently open as of 2023.
 
 This location installed the first Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) in 2015 and would later become the standard for all newly remodeled stores during the 2017 2.0 Remodel Program (2.0 Remodel initiative).
 
 This store was shown in several commercials in the 2000s, 2010s, and 2020s along with [Irving, TX]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}).
-##Stages##
+<h2>Stages</h2>
 Plano, TX is one of the first stores to debut with the new Studio C (1997) (Studio C) concept in 1998. Despite its significance the stage shows while it was at the Plano, TX store would go undocumented during the rise of animatronic connoisseurs throughout the 2000s. 
 
 The Studio C show would be removed during a remodel in 2015 and sent to [Dearborn, MI]({{< ref "wiki/Dearborn, MI (24399 Michigan Ave).md" >}}) to replace their 3-Stage show. The Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) would replace Plano's Studio C in the May of 2015 and would later be updated once in 2019 and once more during the store's 2022 remodel. The remodel would set the Dance Floor into the ground and would remove the six monitors above the Dance Floor and to feature the [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
-##History##
+<h2>History</h2>
 Plano, Texas's Chuck E. Cheese's opened on May 4, 1998, as one of the first newly designed standalone stores in the company after [Concept Unification.]({{< ref "wiki/Concept Unification.md" >}})
 
 The store featured some of the first 1998 parody pieces created based on the Studio C concept. This included the Andy Warhol-inspired headshots of Chuck E. Cheese<ref>[1998 Chuck E. Pop Art (Quad)]({{< ref "wiki/1998 Chuck E Pop Art (Quad).md" >}})</ref> and 'Must C TV' awards, which were parodies of at the time popular media.<ref>:Category:Store Fixtures#1998-12</ref>
 
-###Media###
+<h2>=Media</h2>=
 The store is regularly featured in cast member training material and show material. The store would begin to be prominently featured in shows during the 40 Years of Fun event throughout 2017.<ref>https://www.youtube.com/watch?v=bDB0G3F4kuU</ref>
 
-###Remodels & Concepts###
+<h2>=Remodels & Concepts</h2>=
 In 2004 the store would receive one of the first 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' remodels), also being one of few locations to have gotten an early version of the 'Cool Chuck' logo that had green as opposed to red on the cap of Chuck E.
 
 The store's kiddie area would also be changed to feature unique art on the windows that depicted toddler versions of the Chuck E. Cheese mascots playing in a tree. The art would be removed during the 2015 remodel.
@@ -36,7 +37,7 @@ In 2015 the location was the first to receive vibrant multi-colored walls, a rem
 
 In December 2022 the Plano, TX store remodeled for the third time during the 2017 2.0 Remodel Program (2.0 Remodel initiative) and would reopen on Thursday, February 23.<ref>https://planomagazine.com/chuck-e-cheese-reopening/</ref>
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -66,7 +67,7 @@ In December 2022 the Plano, TX store remodeled for the third time during the 201
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -89,5 +90,5 @@ In December 2022 the Plano, TX store remodeled for the third time during the 201
 |Sent to [Dearborn, MI]({{< ref "wiki/Dearborn, MI (24399 Michigan Ave).md" >}}), currently Unknown.
 |}
 
-##References##
+<h2>References</h2>
 <references />

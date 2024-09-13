@@ -9,9 +9,9 @@ contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisney
 gallery = ["AlexandriaLAExterior2021DecemberGoogleMaps.png|thumb|Street view of the exterior before the 2.0 remodel (December 2021) (PC: Google Maps)"]
 +++
 
-**_1725 Metro Dr, Store #48**_ was a Showbiz Pizza Place that opened in June 27, 1983 with the Rock-Afire Explosion, and is still open to this day.
+<b><i>1725 Metro Dr, Store #48</b></i> was a Showbiz Pizza Place that opened in June 27, 1983 with the Rock-Afire Explosion, and is still open to this day.
 
-##Stages ##
+<h2>Stages </h2>
 Originally, when the store opened on June 27, 1983, they had a Rock-Afire Explosion like every other SPP location. Unfortunately, there are no photos or videos to exist of Alexandria as a SPP.
 
 In 1991 or 1992, they would receive Concept Unification and remove the Rock-Afire Explosion for the 3-Stage.
@@ -46,10 +46,10 @@ In February 2022, they received the 2.0 remodel and removed the Cappa for the Da
 |Still in Use
 |2021 Model.
 |}
-##History##
+<h2>History</h2>
 Alexandria opened on June 27th, 1983 as the 5th Showbiz Pizza store to open in Louisiana. It was originally and currently a corporate owned location. Unfortunately, there isn't much documentation of Alexandria as a Showbiz. Around the Late 80's, Alexandria would receive the 1988 remodel, removing old SPP decor and adding newer decor. In 1991 or 1992, Alexandria received Concept Unification and removed all older SPP decor and added CEC decor, and a new change to the exterior and sign renaming it as 'Chuck E. Cheese's Pizza'. Alexandria also received the 1993 Remodel. In the mid to late 1990's, Alexandria added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights, and removed older decor. In the Late 90's, Alexandria received the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel removing older decor, adding newer decor, received another exterior change this time renaming the sign and exterior to 'Chuck E. Cheese's', and adding SkyTubes. Somewhere in April 2009, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom walls, Balcony Seating, relocating the stage, and remodeling the exterior (Which was an expansion), removing the 3-Stage for a Studio C Cappa, and got a road sign change. Alexandria would remain like this until February 2022 when they received the 2.0 Remodel removing the Beta for the Dance Floor and Video Wall. Currently, as of February 2023, they still have the 2.0 remodel and the Dance Floor.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -63,10 +63,10 @@ Alexandria opened on June 27th, 1983 as the 5th Showbiz Pizza store to open in L
 |July 25, 2017
 |}
 
-##Gallery ##
+<h2>Gallery </h2>
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -129,5 +129,5 @@ Alexandria opened on June 27th, 1983 as the 5th Showbiz Pizza store to open in L
 |N/A
 |Destroyed
 |}
-##References##
+<h2>References</h2>
 <references />

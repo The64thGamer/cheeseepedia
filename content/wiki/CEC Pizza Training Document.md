@@ -5,18 +5,19 @@ tags = ["Documents"]
 date = 2023-05-04T12:15:59Z
 
 [Article]
+pageThumbnailFile = "fwefwewfef23f23f2f.png|All Three Pages"
 contributors = ["The 64th Gamer","CEC Tinley"]
 gallery = []
 +++
-{{Generic|image=fwefwewfef23f23f2f.png|desc=All Three Pages}}
 
-The **_CEC Pizza Training Document**_ was a document consisting of 3 laminated pages used for training on pizza making, released at an unknown point around the 2000's.
+
+The <b><i>CEC Pizza Training Document</b></i> was a document consisting of 3 laminated pages used for training on pizza making, released at an unknown point around the 2000's.
 
 The document goes over each step in making a standard pizza, not specific to any variant with toppings. It would be hung on the wall of the kitchen during its use.<ref>https://www.ebay.com/itm/304837044496</ref>
 
-## Transcription ##
+<h2> Transcription </h2>
 
-### Mixing & Bunning ###
+<h2>= Mixing & Bunning </h2>=
 
 # Measure water - use 70-80° water. Adjust to get finished dough temp 76-82°
 # Add water to mixing bowl. [NO Cold Bowls!]
@@ -32,7 +33,7 @@ The document goes over each step in making a standard pizza, not specific to any
 # Place in rack and move into walkin (DON'T COVER). Dough must be bunned and refrigerated within 30 minutes. [You can cover trays w/ butcher paper if the buns dry out in your store]
 # After ENTIRE rack reaches 42°, cover the entire rack. Refrigerate a MINIMUM OF 6 HOURS prior to rolling out.
 
-### Rolling, Panning, & Proofing ###
+<h2>= Rolling, Panning, & Proofing </h2>=
 
 # Remove buns from walkin and warm-up for 20 minutes. 
 # Remove bun w/ spatula and flatten with palm of your hand, keeping in round shape
@@ -46,7 +47,7 @@ The document goes over each step in making a standard pizza, not specific to any
 # Adjust the skin so the edge of the crust is 1/4' BELOW the edge of the pan. Run your finger around lip of crust to remove any air bubbles
 # Cover w/ separator and place onto proofing rack or oven
 
-### Topping & Baking ###
+<h2>= Topping & Baking </h2>=
 Use ONLY FULLY PROOFED CRUSTS! They should have the following 5 identifiers.
 
 # 2-3 times original thickness
@@ -73,4 +74,4 @@ QUALITY IDENTIFIERS
 
 
 
-## References ##
+<h2> References </h2>

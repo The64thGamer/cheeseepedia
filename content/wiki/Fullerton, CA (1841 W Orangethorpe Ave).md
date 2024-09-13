@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-08-30T00:31:24Z
 
 [Article]
+pageThumbnailFile = "Old fullerton.jpg|Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter."
 contributors = ["CorrectorMan","The 64th Gamer","CEC1988"]
 gallery = []
 +++
-{{NoSources}}{{Generic|image=Old fullerton.jpg|desc=Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter.}}
 
-**_1841 W Orangethorpe Ave**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 and closed in 1985 with a Portrait Stage. 
+
+<b><i>1841 W Orangethorpe Ave</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 and closed in 1985 with a Portrait Stage. 
 
 This was the 9th location ever opened. It is not to be confused with the [Fullerton, CA (1134 S Harbor Blvd)]({{< ref "wiki/Fullerton, CA (1134 S Harbor Blvd).md" >}}) location, which opened on December 17, 1991 with a 3-Stage and closed on November 17, 2020 with a Studio C Beta, 16m.
 
-## Stages ##
+<h2> Stages </h2>
 Fullerton opened with a Portrait Stage, but we don't know much about it. The location closed in 1985, and the show's fate is unknown.
 {| class='wikitable'
 !Stage
@@ -28,8 +29,8 @@ Fullerton opened with a Portrait Stage, but we don't know much about it. The loc
 |9th CEC location ever opened.
 |}
 
-## History ##
+<h2> History </h2>
 Fullerton opened in March 1980 (day unknown) with a Portrait Stage. Sadly, not much information is known about this location, other than a ceremony photo marking the grand opening. In 1981/1982, the exterior sign was possibly replaced. But in 1985 (month and day unknown), the location closed permanently, mainly because it wasn't performing well. As of today, the location is now home to BWON Shabu & BBQ.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 TODO

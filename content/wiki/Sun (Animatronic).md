@@ -8,10 +8,10 @@ date = 2024-07-28T16:35:52Z
 contributors = ["CECBowlingGreen","2607:9880:1BF8:100:D92C:9888:F80C:291B","Rexburg090","ShowbizMidwest","CEC Tinley","2607:9880:1BF8:100:141D:4A55:4180:A301","2607:9880:1BF7:FFCB:B9C2:88C7:4F9E:9E85","Hauntingstudios","CECMentor","Sonichacker","AstridMascotFan2005"]
 gallery = []
 +++
-{{Animatronic|releasedate=1980|manufacturer=Creative Engineering|image=RAE_Sun.jpeg}}
-The **Sun Animatronic** (Also the Building Animatronic) is a figure created by Creative Engineering Inc. for Showbiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are raising from behind the backdrop and opening its mouth. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Sun was retrofitted into Building.
 
-## Movements ##
+The <b>Sun Animatronic</b> (Also the Building Animatronic) is a figure created by Creative Engineering Inc. for Showbiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are raising from behind the backdrop and opening its mouth. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Sun was retrofitted into Building.
+
+<h2> Movements </h2>
 The Sun features 2 movements, being its head raise, and mouth. The raise mechanism has a spring within the pole attaching the Sun to the raise block, this allows for a bouncing effect.
 {| class='wikitable'
 |+
@@ -26,7 +26,7 @@ It is notable that early Sun mechanisms used to have a body turn, however this w
 
 
 
-## Current Sun Animatronics ##
+<h2> Current Sun Animatronics </h2>
 {| class='wikitable'
 !Place
 !Address
@@ -121,7 +121,7 @@ It is notable that early Sun mechanisms used to have a body turn, however this w
 
 *
 
-## Current Building Animatronic ##
+<h2> Current Building Animatronic </h2>
 {| class='wikitable'
 |+
 |Place

@@ -13,53 +13,53 @@ gallery = []
 |image=MMBBNorthridge.png
 |date=July 19, 2024
 |cybernetwork=y}}
-**_Chuck E. Cheese Hicksville Grand Re-Opening Show**_ is the showtape released on July 19, 2024, to play exclusively for Hicksville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
+<b><i>Chuck E. Cheese Hicksville Grand Re-Opening Show</b></i> is the showtape released on July 19, 2024, to play exclusively for Hicksville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
 
 This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm CT.  After the event it would play Northridge’s Summer Show part 2 from 7:00pm-closing. 
 
-##Show List##
+<h2>Show List</h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 10 Minute Countdown
 ## Munch's Make Believe Band - 'Together We've Got It'
-# **Segment 2**
+# <b>Segment 2</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Chuck E. Cheese & Mr. Munch - “Rockin’ Robot”
 ## Munch’s Make Believe Band - “Fun For All”
 ## Chuck E. Cheese - “Dancin’ Kitten”
-# **Segment 3**
+# <b>Segment 3</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Munch’s Make Believe Band - “In The Future”
 ## Chuck E. Cheese - “Let’s Have A Party”
 ## Pasqually the Chef - “Keep Drummin’”
-# **Segment 4**
+# <b>Segment 4</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Chuck E. & Friends - “Giant Armadillo Named Phil”
 ## Helen Henny - “Dream Big”
 ## Munch’s Make Believe Band - “Another Chuck E. Day”
-# **Segment 5**
+# <b>Segment 5</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Munch’s Make Believe Band - “Chuck E,’s Place 2017”
 ## Munch’s Make Believe Band - “Every Boy, Every Girl 2017”
 ## Paaqually The Chef- “It’s the 70s”
-# **Segment 6**
+# <b>Segment 6</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Chuck E. Cheese - “Lend A Helping Hand”
 ## Jasper T. Jowls - “Tail of Jasper T.”
 ## Chuck E. Cheese  & Friends-“My Family”
-# **Segment 7**
+# <b>Segment 7</b>
 ## Next Show Starts Soon
 ## Munch's Make Believe Band Logo Intro
 ## Helen Henny - “Game On!”
 ## Chuck E. & Friends - “Most Perfect Day”
 ## Chuck E. & Friends - “I Love Sparkles”
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday Show (Navori)
 * Birthday Show (Spanish) (Navori)
@@ -68,7 +68,7 @@ This show features no intermissions and would play six segments on repeat from a
 * Beach Party Bash (Navori)
 * CEC Stage Diagnostic (Navori)
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * This show is nearly identical to [Chuck E. Cheese Northridge Grand Re-Opening Show]({{< ref "wiki/Chuck E Cheese Northridge Grand Re-Opening Show.md" >}}) but with Segment 1 relocated to after Segment 4
 * The countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

@@ -8,7 +8,7 @@ date = 2024-05-08T14:48:08Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_1540 E College Ave**_, was a Chuck E. Cheese's Pizza Time Theater that opened on March 28th, 1983, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on February 29th, 1992 as a Chuck E. Cheese's Pizza with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+<b><i>1540 E College Ave</b></i>, was a Chuck E. Cheese's Pizza Time Theater that opened on March 28th, 1983, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on February 29th, 1992 as a Chuck E. Cheese's Pizza with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-##History##
+<h2>History</h2>
 TODO

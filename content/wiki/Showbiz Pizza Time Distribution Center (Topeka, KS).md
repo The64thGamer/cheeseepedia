@@ -5,17 +5,18 @@ tags = ["Restaurants & Company History"]
 date = 2024-08-31T17:30:00Z
 
 [Article]
+pageThumbnailFile = "Sptmay2024photobruh.png|Exterior (May 2024)"
 contributors = ["The 64th Gamer","168.69.254.247","CECBowlingGreen","BurgersNuggs445","WalterB","CEC Illinois","Caydenpedia","Animatronicbrainrot","CECMentor","ThatBoiCydalan","NintendoCraft","BenTrainFan2000","AstridMascotFan2005","Clownzin","Livelycheese"]
 gallery = []
 +++
-{{Generic|image=Sptmay2024photobruh.png|desc=Exterior (May 2024)}}
 
-The **_Showbiz Pizza Time Distribution Center: Topeka, Kansas (7215 SW Topeka Blvd)**_, is the Technical Support Department for [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}), opening in an unknown year and being around to present day.
 
-## Function ##
+The <b><i>Showbiz Pizza Time Distribution Center: Topeka, Kansas (7215 SW Topeka Blvd)</b></i>, is the Technical Support Department for [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}), opening in an unknown year and being around to present day.
+
+<h2> Function </h2>
 It is a distribution center that stores all the technical parts of [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}). The building houses a parts department, technical support, and refurbishment center. It also serves as an archive, as pieces of vintage signage have been confirmed to be held there.
 
-## Stages ##
+<h2> Stages </h2>
 This location also houses multiple full animatronic stages and series of props/art that are or are not being used for parts. This collection began in late 2020 as part of the [CEC Legacy Location Program]({{< ref "wiki/CEC Legacy Locations.md" >}}). 
 
 * Slidell, LA (124 North Shore Blvd)
@@ -58,4 +59,4 @@ This location also houses multiple full animatronic stages and series of props/a
 
 
 
-## References ##
+<h2> References </h2>

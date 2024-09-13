@@ -8,16 +8,16 @@ date = 2023-05-31T23:04:08Z
 contributors = ["DerekCat","Studio 18 Ent","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-{{Showtape|image=Games.png|date=July 9, 1991|r12=y|c&r=y|cusvhs=y}}
 
-**Games** is a summer themed showtape that played at Chuck E Cheese's.
 
-## Theme ##
+<b>Games</b> is a summer themed showtape that played at Chuck E Cheese's.
+
+<h2> Theme </h2>
 This is fourth summer show by Chuck E Cheese's, the previous summer themed shows were CEC Summertime / TV Westerns, [CEC Summertime]({{< ref "wiki/CEC Summertime.md" >}}), [CEC Summer Days]({{< ref "wiki/CEC Summer Days.md" >}}). They called the show Games could be a number or reasons like playing skip rope, a baseball game, or just hanging out with others having fun.
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Bo_Diddley_(Bo_Diddley_song) Bo Diddley]
 ### [https://en.wikipedia.org/wiki/Daydream_(The_Lovin%27_Spoonful_song) Daydream]
@@ -26,30 +26,30 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song) Real Love]
 ## Geography Rap - Japan
 ## CEC-TV Intro
-# **** **Segment 1**
+# <b></b> <b>Segment 1</b>
 ## Summer Fun
 ## Skip Rope Scat
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song) Real Love]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song) Dreams]
 ## Helen Henny's Hollywood - Honey I Shrunk The Keds
 ## CEC-TV Intro
-# **** **Segment 2**
+# <b></b> <b>Segment 2</b>
 ## Pasqually's Polka
 ## Be A Sport
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/The_Heart_of_Rock_%26_Roll The Heart of Rock and Roll (Album Version)]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album) Let's Stay Together]
 ## CEC TV News - Scoop
 ## CEC-TV Intro
-# **** **Segment 3**
+# <b></b> <b>Segment 3</b>
 ## Home On The Range
 ## Having Fun With You
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/I_Get_Around I Get Around]
 ### [https://en.wikipedia.org/wiki/Music!_Music!_Music! Music! Music! Music!]
@@ -57,10 +57,10 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Forever_Your_Girl Forever Your Girl]
 ## Geography Rap - Japan
 ## CEC-TV Intro
-# **** **Segment 1**
+# <b></b> <b>Segment 1</b>
 ## Summer Fun
 ## Skip Rope Scat
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin%27_on_My_Head Raindrops Keep Falling on my Head]
 ### [https://en.wikipedia.org/wiki/You_Might_Think You Might Think]
@@ -68,10 +68,10 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Invisible_Touch Invisible Touch]
 ## Helen Henny's Hollywood - Honey I Shrunk The Keds
 ## CEC-TV Intro
-# **** **Segment 2**
+# <b></b> <b>Segment 2</b>
 ## Pasqually's Polka
 ## Be A Sport
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/You_Should_Be_Dancing You Should Be Dancing]
 ### Birthday Extravaganza
@@ -79,11 +79,11 @@ This is fourth summer show by Chuck E Cheese's, the previous summer themed shows
 ### [https://en.wikipedia.org/wiki/Don%27t_Be_Cruel Don't Be Cruel]
 ## CEC TV News - Scoop
 ## CEC-TV Intro
-# **** **Segment 3**
+# <b></b> <b>Segment 3</b>
 ## Home On The Range
 ## Having Fun With You
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Entertainment/Parts & Tech Support Dept Promo is a hidden video at the very end of the tape.
 * This uses the same intermission music as SPP Best of 5 (except for the last two intermissions)

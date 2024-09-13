@@ -18,32 +18,32 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 4 2021**_ is the Halloween show released September 20, 2021 featuring a variety of Halloween songs
+<b><i>Show 4 2021</b></i> is the Halloween show released September 20, 2021 featuring a variety of Halloween songs
 
-This was created with conjunction with the _Halloween Boo-tacular_ promotion. This show featured a unique Day and Night cycle. The day show had four Songs, two of which being new. The night show had no songs with programming. Both day and night shows had a live show called _Chuck E.'s Haunted House Party._
+This was created with conjunction with the <i>Halloween Boo-tacular</i> promotion. This show featured a unique Day and Night cycle. The day show had four Songs, two of which being new. The night show had no songs with programming. Both day and night shows had a live show called <i>Chuck E.'s Haunted House Party.</i>
 
-## Production ##
+<h2> Production </h2>
 
-###File Dates###
+<h2>=File Dates</h2>=
 (CEC Stage) Finalized Night DVD: 09/30/21 6:51pm - 6:56pm
 
 (CEC Stage) Finalized  Day DVD: 09/30/21 6:29pm - 6:34pm
-## Day & Night Shows ##
+<h2> Day & Night Shows </h2>
 Two separate showtapes were bundled for Show 4 on existing stages. One being called the 'Day Show', which was to run from 11am to 6pm. At 6pm, employees would swap out the disc for the 'Night Show', which would run until closing hours.
 
-## Corrected Version ##
-Due to a computer crash while creating the DVD for Existing Stages, the programming for the new songs (_Halloween Night, Gotta be Halloween and Haunted House Party_) had to be delayed till the problem was fixed. The new DVD was shipped out on October 2nd 2021.
+<h2> Corrected Version </h2>
+Due to a computer crash while creating the DVD for Existing Stages, the programming for the new songs (<i>Halloween Night, Gotta be Halloween and Haunted House Party</i>) had to be delayed till the problem was fixed. The new DVD was shipped out on October 2nd 2021.
 
-## Day Show List: ##
+<h2> Day Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
 ##  Boo-Tacular Bumper 1
 ## KIDZ BOP Kids - 'This is Halloween'
 ##  Boo-Tacular Menu
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese - 'Halloween Night'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Chupa Chupas
 ## Magic with Sara - 'Los Monstruos' 
 ## Koo Koo Kanga Roo - 'Monster Moves'
@@ -52,9 +52,9 @@ Due to a computer crash while creating the DVD for Existing Stages, the programm
 ## Safety Message
 ##  Boo-Tacular Bumper 2
 ## China Anne McClain - 'Calling All The Monsters'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Nobody There'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Juicebox Jukebox - 'Happy Halloween'
 ## Jonas Blue - 'I See Love'
 ## CEC Silly Song - 'Ballerina Ghost'
@@ -63,22 +63,22 @@ Due to a computer crash while creating the DVD for Existing Stages, the programm
 ## Sara Lovell - 'Tell Me Who's The Monster'
 ## KIDZ BOP Kids - 'Ghostbusters'
 ##  Boo-Tacular Menu
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. Cheese & Helen Henny - 'It's Gotta Be Halloween'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ##  Chupa Chupas
 ##  Boo-Tacular Bumper 3
 ## Caspar Babypants - 'The Creature Under My Bed'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Be Yourself'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ##  Boo-Tacular Halloween Weekend
 ## KIDZ BOP Kids - 'Halloween Party'
 ##  Chuck E. Cheese YouTube & Music Streaming.
 
-## Night Show List: ##
+<h2> Night Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Chupa Chupas
 ## Safety Message
 ##  Boo-Tacular Bumper 1
@@ -86,39 +86,39 @@ Due to a computer crash while creating the DVD for Existing Stages, the programm
 ## Koo Koo Kanga Roo - 'Glitter'
 ## Chuck E. Cheese - 'Pumpkins In My Pockets'
 
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  Boo-Tacular Menu
 ## Justin Bieber - 'Baby'
 ## KIDZ BOP Kids - 'Kings and Queens'
 ## China Anne McClain - 'Calling All The Monsters'
 
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Boo-Tacular Halloween Weekend
 ## Safety Message
 ##  Boo-Tacular Bumper 2
 ## KIDZ BOP Kids - 'Disturbia'
 ## Koo Koo Kanga Roo - 'Monster Moves'
 ## Daft Punk - 'Around the World'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Chupa Chupas
 ## Chuck E. Cheese - 'Sammy the Skateboarding Skeleton'
 ## KIDZ BOP Kids - 'Blinding Lights'
 ## KIDZ BOP Kids - 'This is Halloween'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Boo-Tacular Menu
 ## Safety Message
 ## Boo-Tacular Bumper 3
 ## Mr. C Man - 'Cha Cha Slide'
 ## BTS - 'Dynamite'
 ## Chuck E. Cheese - 'Bootastic Dance'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Boo-Tacular Halloween Weekend
 ## KIDZ BOP Kids - Uptown Funk'
 ## Martis - 'Keep It Low'
 ## KIDZ BOP Kids - 'Ghostbusters'
 ##  Chuck E. Cheese YouTube & Music Streaming.
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 # Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -129,15 +129,15 @@ Due to a computer crash while creating the DVD for Existing Stages, the programm
 #  Spooky Dance (New Countdown) (3stage, Cyberamic, Studio C, Weigl)
 #  Werewolf-Zomba-Franken Conga (New Countdown) (Studio C, Weigl)
 
-## Official Releases: ##
+<h2> Official Releases: </h2>
 [https://www.youtube.com/watch?v=SCiNT8g1NII 'Chuck E.’s Haunted House Party' on YouTube]
 
 [https://www.youtube.com/watch?v=N63mejSlHpg 'Halloween Night' on YouTube]
 
 [https://www.youtube.com/watch?v=Z_NYT04alAk 'Gotta Be Halloween' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia ##
+<h2> Trivia </h2>
 The Day & Night system created for the show was a result of the CEC Marketing Team. The way the system works is different for the two main types Existing and Studio C. For Existing stages the Day & Night DVDs were separate while for Studio C based systems would automatically switch from Day to Night at 6pm.

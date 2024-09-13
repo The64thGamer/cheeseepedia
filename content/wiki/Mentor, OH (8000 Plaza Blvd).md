@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-06-13T16:48:45Z
 
 [Article]
+pageThumbnailFile = "Mentor 2022.jpg|Mentor's Exterior, 2022"
 contributors = ["EagleScout610","Documentor","Rexburg090","ChuckECool","CEC Tinley","ThatBoiCydalan","Estsproduction","CECMentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Mentor 2022.jpg|desc=Mentor's Exterior, 2022}}
-**_8000 Plaza Blvd, Store #743**_ is a Chuck E. Cheese that opened on July 20, 1998, with a 1-Stage and is still open to this day.  
+
+<b><i>8000 Plaza Blvd, Store #743</b></i> is a Chuck E. Cheese that opened on July 20, 1998, with a 1-Stage and is still open to this day.  
 
 This location should not be confused with Mentor, OH (7900 Plaza Blvd #170a) which opened in June 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a C-Stage (C-Stage.)Their C-Stage was then retrofitted in 1991 and later got destroyed in 1996.
 
-##History ##
+<h2>History </h2>
 Mentor opened on July 20th, 1998. Mentor would be the second to last new store to open with a Cyberamic stage, as Studio C stages were being installed in stores by this point. Mentor opened with the 1993 remodel which included Record Posters and other decor, SkyTubes and Toddler Zone, and the 1-Stage. In 2006, Mentor received the 2005 update to the 2003 remodel removing older decor for newer decor, removing Showroom Walls, removed Toddler Zone, relocated the 1-Stage, and relocated some parts of the store like the kitchen area, salad bar, some games and added newer games, booths, and tables. Mentor expanded in 2009 to fit in more games, booths, and tables. On May 13 2024, Mentor would begin it's CEC 2018 2.0 Remodel Program (2.0 Remodel.)  
 
-##Stages##
+<h2>Stages</h2>
 Originally, when this store opened it featured Chuck in his tuxedo suit. It was later replaced with Cool Chuck and currently Avenger clothing. 
 {| class='wikitable'
 |+
@@ -40,7 +41,7 @@ Originally, when this store opened it featured Chuck in his tuxedo suit. It was 
 |Still in Use
 |
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -75,7 +76,7 @@ Originally, when this store opened it featured Chuck in his tuxedo suit. It was 
 
 [https://www.instagram.com/ohio_cec_mentor/ An account] ran from 2016 to 2018 by Mentors employees, showcasing multiple games, the animatronics, and backstage photos.
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 |+
 !Link 

@@ -16,35 +16,35 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_Awesome Adventure Machine**_ was a show that released in August of 1996 at Chuck E. Cheese's locations. 
+<b><i>Awesome Adventure Machine</b></i> was a show that released in August of 1996 at Chuck E. Cheese's locations. 
 
-##Show List ##
-#**** **Intermission 1**
+<h2>Show List </h2>
+#<b></b> <b>Intermission 1</b>
 ##Chuck E. Cheese Club
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##'Are You Ready For This?'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##Planets Song
 ##Chuck E. Cheese Club
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Silicon Valley Showdown'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##Chuck E. Cheese Club
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Turn The Beat Around'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##Liquid Images
 ##Chuck E. Cheese Club
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'It's A Jungle Out There'
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##Chuck E. Cheese Club
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##'Walk Like An Egyptian'
-#**** **Intermission 6**
+#<b></b> <b>Intermission 6</b>
 ##Chuck E. Cheese Club
 ##Message from CEC
 
-##Trivia:##
+<h2>Trivia:</h2>
 *The first Awesome Adventure Machine showtape.
 *Wick Letterback, a character who later appears in many 2000s showtapes, makes his first appearance in the background of the Chuck E. Cheese Club intermissions.

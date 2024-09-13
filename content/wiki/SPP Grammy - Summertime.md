@@ -13,34 +13,34 @@ gallery = ["New Graphic.png"]
 |date=August 28, 1988
 |raesvhs=y|showbizreel=y}}
 
-**_SPP Grammy - Summertime**_ is a _Cyberstar_ showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
+<b><i>SPP Grammy - Summertime</b></i> is a <i>Cyberstar</i> showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
 
-##Show List:##
-#**Intermission 1**
+<h2>Show List:</h2>
+#<b>Intermission 1</b>
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-# **Segment 1**
+# <b>Segment 1</b>
 ##Grammys (Cyberstar Segment) (Grammys)
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#**Segment 2**
+#<b>Segment 2</b>
 ##Michael Jackson (Cyberstar Segment) (Michael Jackson)
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#**Segment 3**
+#<b>Segment 3</b>
 ##Summer Love (Cyberstar Segment) (Summer Love)
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##???
 ##Birthday Spectacular
 ##???
 ##Cyberstar Intro
-#**Segment 4**
+#<b>Segment 4</b>
 ##Summer Safety (Cyberstar Segment) (Summer Safety)

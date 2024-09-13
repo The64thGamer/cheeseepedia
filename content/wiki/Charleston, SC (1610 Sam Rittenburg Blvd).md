@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-07-30T13:24:39Z
 
 [Article]
+pageThumbnailFile = "desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg}}
 
-**_1610 Sam Rittenberg Blvd Ste. 103, Store #966**_ (also known as South Charleston or simply Charleston) was a ShowBiz Pizza Place that opened on September 20th, 1982, and closed on June 18th, 2020 with a 3-Stage. It was the first ShowBiz location to open in South Carolina as well as the first to open in the Carolinas overall.
 
-##History##
+<b><i>1610 Sam Rittenberg Blvd Ste. 103, Store #966</b></i> (also known as South Charleston or simply Charleston) was a ShowBiz Pizza Place that opened on September 20th, 1982, and closed on June 18th, 2020 with a 3-Stage. It was the first ShowBiz location to open in South Carolina as well as the first to open in the Carolinas overall.
+
+<h2>History</h2>
 South Charleston opened on September 20th, 1982, as the first ShowBiz in South Carolina (and in the Carolinas overall). The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), its placement being adjacent to the store's right side wall. In the late 80's, South Charleston underwent the 1986 SPT Remodel Program, phasing out original ShowBiz Pizza Place decor and signage for that of generalized Showbiz Pizza Time assets. 
 
 Sometime in 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, South Charleston's operating license was acquired by SPT Corporate along with sister locations [Columbia]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}}) & [Greenville]({{< ref "wiki/Greenville, SC (253 Congaree Rd).md" >}}). Around this time, the store would undergo the 1990s Major Remodel.
@@ -22,9 +23,9 @@ Beginning in the year 2000, South Charleston installed plastic masks on their 3-
 As a result of the COVID-19 Pandemic in 2020, South Charleston was one of 34 CEC locations to permanently close, with its closing date being June 18th of that year. Some of the stage's figures were sent to the nearby Columbia store, while others were obtained by private collectors. Following Columbia's 2017 2.0 Remodel Program (2017 2.0. Remodel Program) initiative in November 2022, three of South Charleston's original figures were trashed and promptly destroyed.
 
 As of 2023, the tenant space where the South Charleston store previously was is still vacant. The building's exterior has been vandalized as of currently, with a label scar from the previous Chuck E. Cheese's signage remaining intact.
-###Crimes###
+<h2>=Crimes</h2>=
 In July 2007, a homeless man was arrested, due to other people feeling unsafe by his presence in the strip mall where this store was located. On November 24, 2018, a man was shot and killed in the parking lot.
-## Stages##
+<h2> Stages</h2>
 South Charleston would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when the location's show would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). The Munch's Make Believe Band 3-Stage would then remain in use at the store (with minor changes and updates) up until South Charleston's permanent closure on June 18, 2020.
 {| class='wikitable'
 |+
@@ -44,7 +45,7 @@ South Charleston would premiere with a Classic Rock-afire Explosion, as other Sh
 |One of four ShowBiz Pizza stores in South Carolina to undergo Concept Unification.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -115,7 +116,7 @@ South Charleston would premiere with a Classic Rock-afire Explosion, as other Sh
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

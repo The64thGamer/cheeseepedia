@@ -25,60 +25,60 @@ All rights reserved.
 The more you give,
 the more you get.}}
 
-**December 2012** is the Holiday show released November 26, 2012, featuring the nine songs from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) re-recorded by Jaret Reddick.
+<b>December 2012</b> is the Holiday show released November 26, 2012, featuring the nine songs from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) re-recorded by Jaret Reddick.
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Song 1** 
+# <b>Song 1</b> 
 ## 'Deck the Halls'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## VeggieTales - 'Donuts for Benny'
 ## Chillout 1 
-# **Song 2** 
+# <b>Song 2</b> 
 ## 'Up on the Housetop'
-#  **Intermission 2** 
+#  <b>Intermission 2</b> 
 ## Fraggle Rock - 'Traveling Matt 1'
 ## Chillout 2 
-# **Song 3** 
+# <b>Song 3</b> 
 ## Jolly Old St. Nicholas
-#  **Intermission 3** 
+#  <b>Intermission 3</b> 
 ## My Little Pony - 'Christmas Pageant'
 ## Chillout 3 
-# **Song 4**
+# <b>Song 4</b>
 ## Oh Christmas Tree
-#  **Intermission 4** 
+#  <b>Intermission 4</b> 
 ## Veggie Tales - 'The 8 Polish Foods of Christmas'
 ## Chillout 4 
-# **Song 5** 
+# <b>Song 5</b> 
 ## Jingle Bells
-# **Intermission 5** 
+# <b>Intermission 5</b> 
 ##  'Fraggle Rock' - 'Snow Song'
 ## Chillout 5 
-# **Song 6** 
+# <b>Song 6</b> 
 ## I Heard the Bells on Christmas Day
-#  **Intermission 6** 
+#  <b>Intermission 6</b> 
 ## Pound Puppies - 'Dog Sled Race'
 ## Chillout 6 
-# **Song 7** 
+# <b>Song 7</b> 
 ## Boars Head Carol
-# **Intermission 7** 
+# <b>Intermission 7</b> 
 ## Fraggle Rock - 'Traveling Matt 2'
 ## Chillout 7 
-# **Song 8** 
+# <b>Song 8</b> 
 ## Toyland / March of the Wooden Solider
-# **Intermission 8** 
+# <b>Intermission 8</b> 
 ## Baking with Betty - 'Potato Latkes'
 ##  Chillout 8
-# **Song 9** 
+# <b>Song 9</b> 
 ## We Wish You a Merry Christmas / Here We Come a Wassailing 
-# **Intermission 9**
+# <b>Intermission 9</b>
 
 # Super Jasper - 'Cookies for Santa'
 # Dreidel Song
 # Chillout 9
 # CEC TV ID - 'Winter'
 
-## Lives ##
+<h2> Lives </h2>
 *Birthday Program (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday Program (3stage, Cyberamic, Studio C,Weigl)
 *LIVE Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
@@ -88,7 +88,7 @@ the more you get.}}
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * All songs from this show were newly redubbed for this show to replaced Duncan's voice with Jared's. All of the songs originally came from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}).
 ** In addition, this is the last holiday show to reuse the songs or segments from Holiday 2002.

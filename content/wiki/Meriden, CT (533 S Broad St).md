@@ -9,9 +9,9 @@ contributors = ["CorrectorMan"]
 gallery = ["Meriden the day they closed.jpg|thumb|Meriden's exterior presumably from the day they closed. (PC: chuckecheeseshows)"]
 +++
 
-**_533 S Broad St**_ was a _Chuck E. Cheese's_ that opened on January 30, 2002 and closed on May 19, 2013 with a Studio C 2000 (Studio C Beta, 32m).
+<b><i>533 S Broad St</b></i> was a <i>Chuck E. Cheese's</i> that opened on January 30, 2002 and closed on May 19, 2013 with a Studio C 2000 (Studio C Beta, 32m).
 
-## Stage ##
+<h2> Stage </h2>
 Meriden's only stage was a Studio C 2000 (Studio C Beta, 32m). Around 2009-2011, the curtains were disabled, and by 2011, Chuck received the Avenger shirt. The stage would remain like this until closure in 2013.
 {| class='wikitable'
 |+
@@ -26,10 +26,10 @@ Meriden's only stage was a Studio C 2000 (Studio C Beta, 32m). Around 2009-2011,
 |Bot sent to Naples, FL (1000 Immokalee Rd) after closure.
 |}
 
-## History ##
+<h2> History </h2>
 Meriden opened on January 30, 2002 with the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) remodel and a Studio C Beta. Unfortunately, not much is known about this location, other than a few videos that were taken throughout Meriden's history. Meriden was left untouched until May 19, 2013, when they would permanently close due to leasing issues. The building sat vacant for a short period until it was gutted and was split up between a GMC shop and PetSmart. As of July 2023, they are still there.
 
-## Videos and Footage ##
+<h2> Videos and Footage </h2>
 {| class='wikitable'
 |+
 !Link
@@ -72,7 +72,7 @@ Meriden opened on January 30, 2002 with the [Phase 3]({{< ref "wiki/Phase 3 (200
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

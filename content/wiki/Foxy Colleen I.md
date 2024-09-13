@@ -11,6 +11,6 @@ gallery = []
 {{Showtape
 |image=1978-Foxy-Colleen.jpg
 |date=October 1978
-|pttreel=y}}**_Foxy Colleen I**_ is a currently lost _Pizza Time Theatre_ showtape that debuted at the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) in October of 1978.
-##History##
+|pttreel=y}}<b><i>Foxy Colleen I</b></i> is a currently lost <i>Pizza Time Theatre</i> showtape that debuted at the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) in October of 1978.
+<h2>History</h2>
 The confirmation of this showtapes existence is from the installation of [Winchester Foxy Colleen (Animatronic)]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}) at the Winchester location In October of 1978. The showtape would run until Madame Oink II replaced it in May of 1979.

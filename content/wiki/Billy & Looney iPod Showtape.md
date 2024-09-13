@@ -8,142 +8,142 @@ date = 2024-06-09T01:37:01Z
 contributors = ["Documentor","The 64th Gamer","YBP123"]
 gallery = []
 +++
-The **_Billy & Looney Showtape**_ was a showtape created in 2006 for what Creative Engineering called the _Chris Thrash Controller,_ which is an iPod based controller to play shows for a [Billy Bob]({{< ref "wiki/Billy Bob.md" >}}) and [Looney Bird]({{< ref "wiki/Looney Bird.md" >}}) animatronic. <ref>https://www.youtube.com/watch?v=P9phDrePjCA</ref>
+The <b><i>Billy & Looney Showtape</b></i> was a showtape created in 2006 for what Creative Engineering called the <i>Chris Thrash Controller,</i> which is an iPod based controller to play shows for a [Billy Bob]({{< ref "wiki/Billy Bob.md" >}}) and [Looney Bird]({{< ref "wiki/Looney Bird.md" >}}) animatronic. <ref>https://www.youtube.com/watch?v=P9phDrePjCA</ref>
 
-##Show List##
+<h2>Show List</h2>
 
-* **Track 1**
+* <b>Track 1</b>
 ** 3 Little Fishies
-* **Track 2**
+* <b>Track 2</b>
 ** A Little Bit Wrong
-* **Track 3**
+* <b>Track 3</b>
 ** Abbey Road
-* **Track 4**
+* <b>Track 4</b>
 ** Album Promotion
-* **Track 5**
+* <b>Track 5</b>
 ** All My Lovin
-* **Track 6**
+* <b>Track 6</b>
 ** Baseball
-* **Track 7**
+* <b>Track 7</b>
 ** Blackbird
-* **Track 8**
+* <b>Track 8</b>
 ** Book Parties in Advance
-* **Track 9**
+* <b>Track 9</b>
 ** Brady Bunch
-* **Track 10**
+* <b>Track 10</b>
 ** Buddy Holly Medley
-* **Track 11**
+* <b>Track 11</b>
 ** Bug out of Selector Skit
-* **Track 12**
+* <b>Track 12</b>
 ** CountryBear
-* **Track 13**
+* <b>Track 13</b>
 ** Daydream Believer
-* **Track 14**
+* <b>Track 14</b>
 ** Everythings Beautiful-Call to Granny
-* **Track 15**
+* <b>Track 15</b>
 ** Friends in Low Places
-* **Track 16**
+* <b>Track 16</b>
 ** Funky Chicken
-* **Track 17**
+* <b>Track 17</b>
 ** Ghost Busters
-* **Track 18**
+* <b>Track 18</b>
 ** Goofy Gas Skit
-* **Track 19**
+* <b>Track 19</b>
 ** Goofy Gas
-* **Track 20**
+* <b>Track 20</b>
 ** Grandmas Feather Bed
-* **Track 21**
+* <b>Track 21</b>
 ** Happy Birthday
-* **Track 22**
+* <b>Track 22</b>
 ** Happy Together
-* **Track 23**
+* <b>Track 23</b>
 ** Herman the Worm
-* **Track 24**
+* <b>Track 24</b>
 ** Hollar it up Here Skit
-* **Track 25**
+* <b>Track 25</b>
 ** In December
-* **Track 26**
+* <b>Track 26</b>
 ** Jimmy Crack Corn
-* **Track 27**
+* <b>Track 27</b>
 ** John Jacob Jingleheimer Schmitt
-* **Track 28**
+* <b>Track 28</b>
 ** Little Arrows
-* **Track 29**
+* <b>Track 29</b>
 ** Loose Wheel
-* **Track 30**
+* <b>Track 30</b>
 ** Man in the Mirror
-* **Track 31**
+* <b>Track 31</b>
 ** Mandate from the People Skit
-* **Track 32**
+* <b>Track 32</b>
 ** Mockingbird
-* **Track 33**
+* <b>Track 33</b>
 ** Mr Bass Man
-* **Track 34**
+* <b>Track 34</b>
 ** Mrs Robinson
-* **Track 35**
+* <b>Track 35</b>
 ** Oh Dawn
-* **Track 36**
+* <b>Track 36</b>
 ** Olympic Skit - Loose Wheel
-* **Track 37**
+* <b>Track 37</b>
 ** On The Road Again
-* **Track 38**
+* <b>Track 38</b>
 ** Our House
-* **Track 39**
+* <b>Track 39</b>
 ** Poetry in Motion
-* **Track 40**
+* <b>Track 40</b>
 ** Rain on the Roof
-* **Track 41**
+* <b>Track 41</b>
 ** Roast Beef Sandwich and Skit
-* **Track 42**
+* <b>Track 42</b>
 ** Rocky Raccoon
-* **Track 43**
+* <b>Track 43</b>
 ** Safety Dance
-* **Track 44**
+* <b>Track 44</b>
 ** Satisfaction
-* **Track 45**
+* <b>Track 45</b>
 ** Show Selector Demo
-* **Track 46**
+* <b>Track 46</b>
 ** Simple Simon Says
-* **Track 47**
+* <b>Track 47</b>
 ** Skit - Billy Bob Crying to Looney
-* **Track 48**
+* <b>Track 48</b>
 ** Skit - Feelings - You Light up my Life
-* **Track 49**
+* <b>Track 49</b>
 ** Smittys Super Service Station
-* **Track 50**
+* <b>Track 50</b>
 ** Swingin
-* **Track 51**
+* <b>Track 51</b>
 ** Tune Machine
-* **Track 52**
+* <b>Track 52</b>
 ** Water Under the Bridge
-* **Track 53**
+* <b>Track 53</b>
 ** We Wish You a Merry Christmas
-* **Track 54**
+* <b>Track 54</b>
 ** White Album Showtape
-* **Track 55**
+* <b>Track 55</b>
 ** Yakketty Yak
-* **Track 56**
+* <b>Track 56</b>
 ** Your Mother Should Know
 
-## Production ##
+<h2> Production </h2>
 
-### DBX Decodes ###
+<h2>= DBX Decodes </h2>=
 While most songs were DBX decoded due to the controller's lack of a need for a DBX box, some had this step accidentally skipped, and sound worse as a result. Due to both channels being merged to fit the showtape format, alongside peaks in the audio, attempts to decode the songs as they are won't be as fruitful.
 
-* _Album Promotion_
-* _Baseball_
-* _Funky Chicken_
-* _Goofy Gas Skit_
-* _Goofy Gas_
-* _Mrs Robinson_
-* _Rain on the Roof_
-* _Roast Beef Sandwich and Skit_
-* _Safety Dance_
-* _Satisfaction_
-* _Show Selector Demo_
-* _Skit - Billy Bob Crying to Looney_
-* _Skit - Feelings - You Light up my Life_
-* _Smittys Super Service Station_
+* <i>Album Promotion</i>
+* <i>Baseball</i>
+* <i>Funky Chicken</i>
+* <i>Goofy Gas Skit</i>
+* <i>Goofy Gas</i>
+* <i>Mrs Robinson</i>
+* <i>Rain on the Roof</i>
+* <i>Roast Beef Sandwich and Skit</i>
+* <i>Safety Dance</i>
+* <i>Satisfaction</i>
+* <i>Show Selector Demo</i>
+* <i>Skit - Billy Bob Crying to Looney</i>
+* <i>Skit - Feelings - You Light up my Life</i>
+* <i>Smittys Super Service Station</i>
 
-## References ##
+<h2> References </h2>
 <references />

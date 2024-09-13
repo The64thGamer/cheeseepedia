@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-09-11T02:48:03Z
 
 [Article]
+pageThumbnailFile = "Screenshot 20240614-190458.png|Exterior in June 2024"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","2607:FB90:EDA3:D81D:29F5:B7AF:8C7E:4B46","Gostapua210","Cheeseclassic","CECMadison"]
 gallery = []
 +++
-{{Generic|image=Screenshot 20240614-190458.png|desc=Exterior in June 2024}}
-**_6874 Ingram Rd, Store #98**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on June 10, 1981 as a corporate _Showbiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Oldest operating store in Texas after the closure of Arlington, TX (2216 S Fielder Rd)
-##History##
+
+<b><i>6874 Ingram Rd, Store #98</b></i> is a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on June 10, 1981 as a corporate <i>Showbiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Oldest operating store in Texas after the closure of Arlington, TX (2216 S Fielder Rd)
+<h2>History</h2>
 San Antonio (Ingram) opened its doors in June 10th, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. It was also the first ever Showbiz Pizza to open in the state of Texas, and like many other Showbiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the Showbiz days, it's possible that San Antonio (Ingram) was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many Showbiz Pizza locations in the late 1980's, San Antonio (Ingram) received the Showbiz Pizza Campground upgrade.
 
 In 1991, San Antonio (Ingram) received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid-Late 1990's, San Antonio (Ingram) received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor, added new decor, SkyTubes, & received a new exterior. San Antonio (Ingram) remained this way until sometime in 2006-2007 when they received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Showroom Walls, Balcony Seating, an exterior repaint. They also received a minor expansion around 2012. Sometime between 2011-2013, the original Showbiz speakers were removed and patched up and replaced with newer speakers that were mounted to the ceiling on both sides of the stage, also around that time, the carpeting on the front of the stage was replaced with white wood paneling. They then received the Circles of Light stage in April 2014 replacing the 3-Stage and the stage was now behind it. They then received the 2.0 Remodel in July 2017 as one of the first of 7 2.0's removing the Circles of Light stage for a 2017 model Dance Floor (This also involved relocating the showroom to the right side wall as well). In April 2024, San Antonio upgraded to the 2021 version of the 2.0 remodel.
 
-##Stages##
+<h2>Stages</h2>
 San Antonio opened with the Rock afire Explosion in 1981. Unfortunately, there are some photos but no videos to exist of San Antonio with the Rock afire, or as a Showbiz Pizza in general.
 
 In 1991, San Antonio received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
@@ -64,7 +65,7 @@ In April 2024, San Antonio added the video wall and upgraded to a 2021 model Dan
 |
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -126,7 +127,7 @@ In April 2024, San Antonio added the video wall and upgraded to a 2021 model Dan
 [https://www.showbizpizza.com/photos/cec/tx_ingram/index.html 1996-2007]
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -340,5 +341,5 @@ In April 2024, San Antonio added the video wall and upgraded to a 2021 model Dan
 |August 10th, 2023
 |}
 
-##References##
+<h2>References</h2>
 <references />

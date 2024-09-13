@@ -8,16 +8,16 @@ date = 2023-11-15T18:27:37Z
 contributors = ["The 64th Gamer","Tux Chuck"]
 gallery = []
 +++
-{{MerchItem|image=1 a327ee3a2d1a7a25144c28678e3fdc2f.jpg|releasedate=1985|manufacturer=B.O.O. Music|label1=Chuck E. Cheese's|color=Black|label2=Side A|label3=Words & Music by: Joe Ajhar|label4=BJ-1985|label5=I'm Da Greatest (2:13)|label6=B.O.O. Music|label7=B.O.O. Jingles, 1751 Brookhurst, Medford, OR 97504|dimensions=7 in.}}
 
-**_Chuck E. Cheese's - I'm Da Greatest / Biggest Fan**_ is a Chuck E. Cheese labeled record sung by Joseph G. Ajhar and published by B.O.O. Music in 1985.
 
-## Release ##
+<b><i>Chuck E. Cheese's - I'm Da Greatest / Biggest Fan</b></i> is a Chuck E. Cheese labeled record sung by Joseph G. Ajhar and published by B.O.O. Music in 1985.
+
+<h2> Release </h2>
 It is currently unknown if these records were ever released in any Pizza Time Theatre locations, though is possibly the case in a select few franchise locations in the Pacific Northwest, or even just a single store from that area. Franchise locations during the time had leeway to run their stores to their owner's discretion, and an unauthorized record using the CEC trademark was possible.<ref>https://youtu.be/25qUFx6jm-s</ref>
 
 This release was later followed up by the Chuck E. Cheese & The Ratkateers (1985) (Chuck E. Cheese & The Ratkateers) cassette, though it is unknown if the cassette was ever released.
 
-## Transcripts ##
+<h2> Transcripts </h2>
 
 <tabber>
 |-|I'm Da Greatest=
@@ -129,4 +129,4 @@ You're gonna find out I'm your biggest fan
 
 
 
-## References ##
+<h2> References </h2>

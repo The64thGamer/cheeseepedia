@@ -15,60 +15,60 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |studioc=y
 |dvdcu=y
 |dvdcyber=y
-}}**_Best of CEC TV 2008**_ is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.
+}}<b><i>Best of CEC TV 2008</b></i> is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.
 
 
-### File Dates ###
+<h2>= File Dates </h2>=
 * (Existing Stage) DVD: 8/11/2008
 
-## Show List ##
-# **Segment 1**
+<h2> Show List </h2>
+# <b>Segment 1</b>
 ## VJ Spot
 ## 'Go To Chuck E. Cheese'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC TV ID 'Pool Plug'
 ## Monkey Ninjas - Episode 5
 ## Sing-along Guys - 'BINGO'
-# **Segment 2**
-## 'Keep It Groovin_
-# **Intermission 2**
+# <b>Segment 2</b>
+## 'Keep It Groovin''
+# <b>Intermission 2</b>
 ## CEC TV ID 'Sunrise'
 ## Exercise TV Spot
 ## Wow Wow Wubbzy Spot
-# **Segment 3**
+# <b>Segment 3</b>
 ## VJ Spot
 ##'Opposite Day'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## CEC TV ID 'Marx Bros'
 ## Kung Fu Panda Spot
 ## Shrek The Halls Spot
 ## Super Jasper - 'Staring Contest'
 ## CEC Birthday Promo
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Trashman'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC TV ID 'Radio Towers'
 ##Skateboarding
 ##Exercise TV Spot
-# **Segment 5**
+# <b>Segment 5</b>
 ## VJ Spot
 ## 'What Up'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## CEC TV ID - 'Parachute'
 ## Veggietales - 'Biscuit of Zazzamarandabo'
 ##Time To Skydive
 ##CEC Fundraising Promo
-#**Segment 6**
+#<b>Segment 6</b>
 ##'Chuck E.'s Place'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##CEC TV ID - 'Stars'
 ##Martha Speaks Spot
 ##Firehouse
-#**Segment 7**
+#<b>Segment 7</b>
 ##VJ Spot
 ##'First Impression'
 ##'Just Being Me'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##CEC TV ID - 'Falling Apple'
 ##CEC TV Artist Spotlight: Sara Hickman - 'Always A Saint'
 ##CEC PBS Kids Spot
@@ -77,7 +77,7 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 
 
 
-## Lives ##
+<h2> Lives </h2>
 # 2min BDAY
 # 5min BDAY
 # BINGO
@@ -91,9 +91,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 # Old MacDonald
 # Storytime With Chuck E.
 
-## Trivia ##
+<h2> Trivia </h2>
 *The VJ spots in this show feature Matt Daniel. The VJ spot in Segment 5 is interesting as 'Going On A Diet', a cut song from [September 2004]({{< ref "wiki/September 2004.md" >}}), can be heard in the background.
 *Most of the songs in this show use single versions which don't include intro dialogue or the ending applause.
 *A Generic Version of Best of 2008 with a different lineup is rumored to exist presumably it is the same lineup with the adverts removed. 
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

@@ -9,16 +9,16 @@ contributors = ["The 64th Gamer","Frosty126"]
 gallery = ["Bad data.png|thumb|325x325px|'BAD DATA' written on a bunch of showtape segments."]
 +++
 
-**_Bad Data**_ was a term used by _Creative Engineering_ for segments that did not copy programming signals correctly when compiling them all into the tape. 
+<b><i>Bad Data</b></i> was a term used by <i>Creative Engineering</i> for segments that did not copy programming signals correctly when compiling them all into the tape. 
 
-These can be seen mostly on lists for the segments of 90's showtapes. _Bad Data_ would sometimes describe a whole segment being faulty, while other times describing noticeable defects that could affect the show, such as curtains not working as intended. Outside of _Bad Data_, other defects with the audio and video would occur, which were usually fixed with the same solutions.
+These can be seen mostly on lists for the segments of 90's showtapes. <i>Bad Data</i> would sometimes describe a whole segment being faulty, while other times describing noticeable defects that could affect the show, such as curtains not working as intended. Outside of <i>Bad Data</i>, other defects with the audio and video would occur, which were usually fixed with the same solutions.
 
-Oddly, some show listings will have a segment listed, crossed out, and the correct one written beside it. It is unclear if these were similar _Bad Data_ incidents, a change of plans, or an initial incorrect documentation of the segment used.
+Oddly, some show listings will have a segment listed, crossed out, and the correct one written beside it. It is unclear if these were similar <i>Bad Data</i> incidents, a change of plans, or an initial incorrect documentation of the segment used.
 
-## Fixes ##
+<h2> Fixes </h2>
 
-#### Replacement ####
-Songs have been seen to be replaced after a _Bad Data_ segment is found. Sometimes this is with the same showtape, other times this is with a different showtape.
+<h2>== Replacement </h2>==
+Songs have been seen to be replaced after a <i>Bad Data</i> segment is found. Sometimes this is with the same showtape, other times this is with a different showtape.
 
-#### Skipping ####
+<h2>== Skipping </h2>==
 In a similar manner, the same or a different song would be placed after it to make up for the empty spot. It is unclear if the bad segments were ever removed from the tape, or if they were skipped over using the computer running the show.

@@ -8,27 +8,27 @@ date = 2024-07-23T12:36:07Z
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","Jerry CEC","Retrocam","Dolphinpilot"]
 gallery = ["Exterior2022NovemberGoogleMaps.png|thumb|Street View of the store's Exterior in November 2022 (PC: Google Maps)"]
 +++
-{{Stub}}
 
-**_1027 Oliver Rd, Store #3066**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in 1983 (Date is unknown), and closed on January 5, 2021
 
-This store reopened on July 12, 2022, as _Chuck E. Cheese**, Store #204**_ with the 2.0 remodel.
+<b><i>1027 Oliver Rd, Store #3066</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened in 1983 (Date is unknown), and closed on January 5, 2021
 
-##History##
+This store reopened on July 12, 2022, as <i>Chuck E. Cheese<b>, Store #204</b></i> with the 2.0 remodel.
 
-###PTT 1983-1993/1994###
+<h2>History</h2>
+
+<h2>=PTT 1983-1993/1994</h2>=
 Fairfield would open in 1983 (Month and Day Unknown) as a Pizza Time Theatre with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) like most others store at the time. They opened with either Madame Oink or Helen Henny as the guest star. It is unknown what Cabaret characters this location had. The store would remain this way until around 1989/1990, when they would replace the Balcony with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) and remodel the store to the 1986 SPT Remodel Program (1988 Remodel).
 
-###Chuck E. Cheese's 1990's-2021###
+<h2>=Chuck E. Cheese's 1990's-2021</h2>=
 In 1993/1994 the store converted Chuck E.'s House Facade into a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), however the rest of the store supposedly would stay in the 1988 remodel including the [Applause Board]({{< ref "wiki/Applause Board (Cyberamic).md" >}}) until the late 90's when they finally got the artifact shelves, record posters and the 1993 exterior. The Jasper bot kept it's Chuck E.'s House Facade (C-Stage) straw hat through the 90's. The store would remain this way until 2009/2010 when they would receive the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Showroom Walls, Balcony Seating, 1990's decor, adding bright lighting, and repainting the building. At some point in the final years of the 2-Stage, there was a 1-Stage fiber optic sign placed between the TV and Helen. Sometime in the 2010's, the Helen bot would completely break down and then utlimately the rest of the stage stopped working for unknown reasons either due to a system issue or poor management. The store would remain this way until it first closed on January 5, 2021.
 
-###Gamex Pizza & Arcade 2021###
+<h2>=Gamex Pizza & Arcade 2021</h2>=
 After closure, it became Gamex Pizza & Arcade, keeping the exterior and interior untouched meanwhile removing all traces of Chuck E. Cheese. The store also carried over most of it's games from it's closure as well. After a few months, Gamex Pizza & Arcade would permanently close.
 
-###Reopening as Chuck E. Cheese July 2022-Present###
+<h2>=Reopening as Chuck E. Cheese July 2022-Present</h2>=
 Sometime in Early 2022, construction would start the conversion back to Chuck E. Cheese, this time as a Corporate owned 2.0 store. This also removed the extra prize counter the store had before it was closed as CEC for the first time. On July 12th, 2022; Fairfield would reopen as a Corporate location with a 2021 Model Dance Floor & Video Wall, the area where the 2-Stage used to be was replaced with booths. 
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), sometime in 1989/1990, they would receive a C-Stage, they would have this for a short time, then replacing it with a 2-Stage, in the final years it was known for being very bad condition mechanically, and the store would close on January 5th, 2021. The store would be a 'Gamex Pizza & Arcade' for a short while in 2021, then in July 2022, the store reopened as 'Chuck E. Cheese', having the 2.0 Remodel and a Dance Floor. As of September 2022, they still have the Dance Floor.
 {| class='wikitable'
 |+
@@ -58,7 +58,7 @@ Originally when the store opened, they had a [Balcony Stage]({{< ref "wiki/Cyber
 |2021 Model.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -113,7 +113,7 @@ Originally when the store opened, they had a [Balcony Stage]({{< ref "wiki/Cyber
  
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Links
 !Description
@@ -132,5 +132,5 @@ Originally when the store opened, they had a [Balcony Stage]({{< ref "wiki/Cyber
 |-
 |}
 
-##Trivia##
+<h2>Trivia</h2>
 *Before Fairfield closed for the first time on January 5th, 2021; they had 2 prize counters. It was reduced to just 1 when they reopened as a 2.0 store.

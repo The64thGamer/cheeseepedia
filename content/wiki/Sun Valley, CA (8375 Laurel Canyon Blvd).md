@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-28T23:11:58Z
 
 [Article]
+pageThumbnailFile = "SunValleyExterior2019AprilGoogleMaps.png|Exterior, April 2019 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","Cheeseclassic","CyberstarProductions1000","CoolerDude","Stripes","The 64th Gamer","Studio 18 Ent","Caydenpedia","AstridMascotFan2005"]
 gallery = []
 +++
-{{NoSources}}{{Generic|image=SunValleyExterior2019AprilGoogleMaps.png|desc=Exterior, April 2019 (PC: Google Maps)}}
-**_8375 Laurel Canyon Blvd, Store #418**_ is a _Chuck E. Cheese_ that opened in July 1992 (day unknown) with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open to this day with their 2.0 Remodel.
+
+<b><i>8375 Laurel Canyon Blvd, Store #418</b></i> is a <i>Chuck E. Cheese</i> that opened in July 1992 (day unknown) with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open to this day with their 2.0 Remodel.
 
 It is located in the Canyon Plaza Shopping Center and is the relocation of the [original Sun Valley location]({{< ref "wiki/Sun Valley, CA (8357 Laurel Canyon Blvd).md" >}}) which opened in July 1980 with a Portrait Stage and closed in July 1992 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-##Stages##
+<h2>Stages</h2>
 Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Lift curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit.
 In November 2023, Sun Valley's Road Stage was removed for the Video Wall. Sun Valley's animatronics were sent to the [Northridge]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) location for spare parts on their [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
 {| class='wikitable'
@@ -33,10 +34,10 @@ In November 2023, Sun Valley's Road Stage was removed for the Video Wall. Sun Va
 |2024
 |Still in Use.
 |}
-##History##
-Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened with the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), including the CU decor, the Blue and White awnings, the checkers around the store, and the Road Stage. Around the mid-late 1990's, Sun Valley replaced their logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some of the checkers, and the removal of the ball pit for SkyTubes. In Summer 2014, Sun Valley remodeled to the 2013 update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), which involved the removal of the showroom walls, removing older decor for newer decor, new booths, adding purple walls, & removing the little lounge seating area<ref>https://youtu.be/Wd55XIltEW0?t=173</ref><ref>https://youtu.be/Wd55XIltEW0?t=213</ref><ref>https://youtu.be/Wd55XIltEW0?t=218</ref><ref>https://youtu.be/Wd55XIltEW0?t=221</ref> in the game room for more games minus the balcony seating. In November 2023, Sun Valley started its [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). Sometime after, the store removed its Road Stage. Sun Valley's animatronics were sent to the [Northridge]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) location for spare parts on their [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store would not get the Dance Floor  until later in 2024. They also addded the Video Wall to the store and kept it's 2013 [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) booths, seats, and it's balcony seating. The Trampoline Zone was added and some new games.
+<h2>History</h2>
+Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened with the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), including the CU decor, the Blue and White awnings, the checkers around the store, and the Road Stage. Around the mid-late 1990's, Sun Valley replaced their logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some of the checkers, and the removal of the ball pit for SkyTubes. In Summer 2014, Sun Valley remodeled to the 2013 update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), which involved the removal of the showroom walls, removing older decor for newer decor, new booths, adding purple walls, & removing the little lounge seating area<ref>https:<i>youtu.be/Wd55XIltEW0?t=173</ref><ref>https:</i>youtu.be/Wd55XIltEW0?t=213</ref><ref>https:<i>youtu.be/Wd55XIltEW0?t=218</ref><ref>https:</i>youtu.be/Wd55XIltEW0?t=221</ref> in the game room for more games minus the balcony seating. In November 2023, Sun Valley started its [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). Sometime after, the store removed its Road Stage. Sun Valley's animatronics were sent to the [Northridge]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) location for spare parts on their [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store would not get the Dance Floor  until later in 2024. They also addded the Video Wall to the store and kept it's 2013 [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) booths, seats, and it's balcony seating. The Trampoline Zone was added and some new games.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -81,7 +82,7 @@ Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -111,5 +112,5 @@ Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened 
 |1992
 |Destroyed
 |}
-##References##
+<h2>References</h2>
 <references />

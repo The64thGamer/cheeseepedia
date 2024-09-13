@@ -18,19 +18,19 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 4 2015**_ released June 15th 2015 featuring two songs
+<b><i>Show 4 2015</b></i> released June 15th 2015 featuring two songs
 
 This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from [July 2014]({{< ref "wiki/July 2014 Show.md" >}}).
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Ester Dean - 'Crazy Youngsters'
 ##  CEC Promo - 'Triple Play'
 ##  Josh & The Jamtones - 'I Love Your Face'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese - 'Friendship Never Ends'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Meghan Trainor - 'My Lips Are Moving'
 ##  Cartoon Network - Gumball Universe - 'Planets'
 ##  Mumford & Sons - 'Hopeless Warrior'
@@ -44,16 +44,16 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
 ## CEC Promo - 'Birthdays'
 ##  Fitz and the Tantrums - 'The Walker'
 ##  Cartoon Network - Gumball Universe - 'Imaginary Friends'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Helen Henny - 'Dare to Be You'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Josh & The Jamtones - 'U & I'
 ##  Cartoon Network - Clarence - 'Vending Machine'
 ##  Justice - 'D.A.N.C.E'
 ##  Josh & The Jamtones - 'Jump Up!'
 ##  Cartoon Network - Steven Universe - 'Lapis Lazuli'
 
-## Live Show: ##
+<h2> Live Show: </h2>
 
 *Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -64,9 +64,9 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 * 'Friendship Never Ends' and 'Dare to Be You' are originally from [July 2014]({{< ref "wiki/July 2014 Show.md" >}})

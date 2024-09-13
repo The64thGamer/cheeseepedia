@@ -5,31 +5,32 @@ tags = ["Store List"]
 date = 2024-03-02T07:03:39Z
 
 [Article]
+pageThumbnailFile = "Fresno CA Shaw 2.0 Exterior.png|Exterior on February 20th, 2024 (PC: the object in roblox)"
 contributors = ["Rexburg090","ChuckECool","ThatBoiCydalan","ChuckfeldStan"]
 gallery = []
 +++
-{{Generic|image=Fresno CA Shaw 2.0 Exterior.png|desc=Exterior on February 20th, 2024 (PC: the object in roblox)}}
-**_Fresno, CA (3117 W Shaw Ave), Store #42**_ was a _Showbiz Pizza Place_ that opened on July 18, 1983 inside the Times Square Shopping Center with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-##History##
+<b><i>Fresno, CA (3117 W Shaw Ave), Store #42</b></i> was a <i>Showbiz Pizza Place</i> that opened on July 18, 1983 inside the Times Square Shopping Center with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-### ShowBiz###
+<h2>History</h2>
+
+<h2>= ShowBiz</h2>=
 Fresno on West Shaw opened as ShowBiz Pizza Place on July 18, 1983 with the Rock-afire Explosion like every other Showbiz Pizza location. This was the 10th Showbiz Pizza store to open in California (2nd to open in the state after [Dublin]({{< ref "wiki/Dublin, CA (7590 Amador Valley Blvd).md" >}}), [Bakersfield]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}}), [Pasadena]({{< ref "wiki/Pasadena, CA (3765 E Foothill Blvd).md" >}}), Montclair, CA (5060 E Montclair Plaza Lane) (Montclair), [Oceanside]({{< ref "wiki/Oceanside, CA (2481 Vista Way).md" >}}), Vallejo, CA (774 Admiral Callaghan Lane) (Vallejo), [Lakewood]({{< ref "wiki/Lakewood, CA (5151 Lakewood Blvd).md" >}}), [Torrance, Pacific Coast Hwy]({{< ref "wiki/Torrance, CA (2821 Pacific Coast Hwy).md" >}}), & [Visalia]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}})). It was then sold to corporate on October 27th, 1986 along with Oceanside, Bakersfield, Visalia and Escondido.
 
 Sadly, there's no documentation of Fresno on West Shaw when it was a Showbiz Pizza despite one exterior photo.
 
-###Tux Chuck and Cool Chuck Eras###
+<h2>=Tux Chuck and Cool Chuck Eras</h2>=
 Sometime in 1991-1992, Fresno on West Shaw underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band, complete with all of the characters including extras such as Building, Moon, Wink, Pizzacam, and Munch Jr. Chuck E. wore his signature black tuxedo and red derby hat. Fresno on West Shaw then remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) in around 1994-1995. In 1998, Fresno on West Shaw underwent another remodel which involved the 3-Stage being removed and replaced with a Studio C Alpha.
 
-###Avenger Era###
+<h2>=Avenger Era</h2>=
 Sometime around 2006-2007, Fresno on West Shaw remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, removing the Showroom Walls, Balcony Seating, and a new exterior. It is unknown of Fresno on West Shaw ever had the Cool Chuck outfit.
 
 It's unknown when Fresno on West Shaw got the Avenger outfit. Chuck's cap was removed in 2013.
 
-###Present Day ###
-In around 2014-2016, The Interactive Console was removed. The exterior was repainted along with the rest of the plaza in 2014-2015. Around February of 2024, the store would receive the CEC 2018 2.0 Remodel Program (2.0 Remodel), receiving the _Refresh_ version, removing their stage and adding a Chuck E. Live Stage (Dance Floor) (Dance Floor), which is how the store remains as of March 2024.
+<h2>=Present Day </h2>=
+In around 2014-2016, The Interactive Console was removed. The exterior was repainted along with the rest of the plaza in 2014-2015. Around February of 2024, the store would receive the CEC 2018 2.0 Remodel Program (2.0 Remodel), receiving the <i>Refresh</i> version, removing their stage and adding a Chuck E. Live Stage (Dance Floor) (Dance Floor), which is how the store remains as of March 2024.
 
-##Stages##
+<h2>Stages</h2>
 Originally, Fresno featured a Rock-Afire Explosion, as all other Showbiz locations did, in around 1991, Fresno would undergo Concept Unification, turning the RAE into the 3-Stage. Fresno would have the 3-Stage until 1999-2000, when they would receive one of the first Studio Cs in California (Which was a Studio C Alpha). The store would eventually remove its stage in February 2024 in favor of receiving the 2.0 Remodel 
 {| class='wikitable'
 !Stage
@@ -63,7 +64,7 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other Showbiz locatio
 |2021 Model
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -133,9 +134,9 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other Showbiz locatio
 |N/A
 |Unknown/Destroyed
 |}
-##Galley##
+<h2>Galley</h2>
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description 
@@ -183,5 +184,5 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other Showbiz locatio
 |June 26, 2022
 |}
 
-##References##
+<h2>References</h2>
 <references />

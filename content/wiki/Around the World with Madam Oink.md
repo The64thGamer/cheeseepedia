@@ -14,21 +14,21 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 | date = November 7, 1980
 | pttreel = y}}
 
-**_Around the World with Madam Oink**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madam Oink
+<b><i>Around the World with Madam Oink</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madam Oink
 
-##Segments:##
+<h2>Segments:</h2>
 Disclaimer: The majority of segments were either reused from past shows or were part of the Classic 1978-1980 show.
 
-* **I Feel Pretty**
+* <b>I Feel Pretty</b>
 *#I Feel Pretty
 *#Hawaiian Wedding Song
-* **I've Got the World on a String**
+* <b>I've Got the World on a String</b>
 *#I've Got the World on a String
 *#When You're Smiling
 *#Love Makes the World Go Round
-***Jasper's Texas Show**
+*<b>Jasper's Texas Show</b>
 *#Long Tall Texan, The Yellow Hound of Texas
-* **Around the World Songs**
+* <b>Around the World Songs</b>
 *#England Swings
 *#Arrivederci Roma
 *#April in Paris
@@ -37,42 +37,42 @@ Disclaimer: The majority of segments were either reused from past shows or were 
 *#Rio De Janeiro
 *#Bali Ha'i
 *#This Land Is Your Land
-* **Beyond the Blue Horizon**
+* <b>Beyond the Blue Horizon</b>
 *#Beyond the Blue Horizon
 *#Where the Boys Are
 *#It's a Big Wide Wonderful World
-***Western Heartbroken Songs**
+*<b>Western Heartbroken Songs</b>
 *#Red River Valley
 *#Why Don't You Love Me (Like You Used to Do) 
 *#Howlin' at the Moon
 *#If I Had as Much Money (As You Don't Love Me) 
-***Lady of Oink 1**
+*<b>Lady of Oink 1</b>
 *#Lady of Oink
 *#I'm a Conservative
 *#You Must've Been a Beautiful Piglet
 *#C'est Magnifique
 *#She's Too Fat for Me
-***Lady of Oink 2**
+*<b>Lady of Oink 2</b>
 *#Lady of Oink
 *#Thank Heaven for Little Boys
 *#Baby Face
-***Roots in the Country**
+*<b>Roots in the Country</b>
 *#Roots in the Country
-***Lady of Oink 3**
+*<b>Lady of Oink 3</b>
 *#Lady of Oink 
 *#Ah, Paree (Paris)
 *#I Love Paris
 *#Ta-rah-rah Boom-de-ay
-***Money, Money**
+*<b>Money, Money</b>
 *#Money, Money
 
-***Birthday One, Honey, Bun**
-***Happy Birthday, Happy Birthday Baby**
-***Birthday Chant / Song**
-***Cheer - Trumpets**
-***Pasqually's Chuck E. Intro**
+*<b>Birthday One, Honey, Bun</b>
+*<b>Happy Birthday, Happy Birthday Baby</b>
+*<b>Birthday Chant / Song</b>
+*<b>Cheer - Trumpets</b>
+*<b>Pasqually's Chuck E. Intro</b>
 
-*  **Christmas Medley**
+*  <b>Christmas Medley</b>
 #Sliver Bells
 #Fa La La (Deck the Halls)
 #The Christmas Song

@@ -8,20 +8,20 @@ date = 2023-03-11T06:15:26Z
 contributors = ["The 64th Gamer","Montfortdog"]
 gallery = []
 +++
-##Show List:##
-#**Segment 1**
+<h2>Show List:</h2>
+#<b>Segment 1</b>
 ##Fall at Your Feet
-#**Segment 2**
+#<b>Segment 2</b>
 ##Turn It On, Turn It Up, Turn Me Loose
-#**Segment 3**
+#<b>Segment 3</b>
 ##???
-#**Segment 4**
+#<b>Segment 4</b>
 ##Jump
-#**Segment 5**
+#<b>Segment 5</b>
 ##??? (Intro)
-#**Segment 6**
+#<b>Segment 6</b>
 ##This Old Man
-#**Segment 7**
+#<b>Segment 7</b>
 ##Grammys
-#**Segment 8**
+#<b>Segment 8</b>
 ##Material Girl

@@ -17,79 +17,79 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**September 1998** released September 1998 and ran until December 1998.
+<b>September 1998</b> released September 1998 and ran until December 1998.
 
-## Existing Show List: ##
+<h2> Existing Show List: </h2>
 
-#  **Skit 1** 
+#  <b>Skit 1</b> 
 ## Chuck E Cheese - International Mouse Of Mystery
 ## Introduction to Elvis Presley - 'Jailhouse Rock'
-#  **Intermission 1** 
+#  <b>Intermission 1</b> 
 ## Elvis Presley - 'Jailhouse Rock'
-#  **Skit 2** 
+#  <b>Skit 2</b> 
 ## Introduction to Bill Haley & The Comets - 'Rock Around The Clock'
-#  **Intermission 2** 
+#  <b>Intermission 2</b> 
 ## Bill Haley & The Comets - 'Rock Around The Clock'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## The Band is Taking a Break/Drink some Coca Cola
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Studio C Bumper
 ##  I Like This Game
 ##  Coca Cola Spot 1 
 ##  Announcer 
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Introduction to Mary Chapin Carpenter - 'Down At The Twist & Shout'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Mary Chapin Carpenter - 'Down At The Twist & Shout'
-#  **Skit 5**
+#  <b>Skit 5</b>
 ## Introduction to Muppets - 'Hey A Movie!'
-#  **Intermission 5** 
+#  <b>Intermission 5</b> 
 ## Muppets - 'Hey A Movie!'
-#  **Skit 6**
+#  <b>Skit 6</b>
 ## Introduction to Donald O'Connor - 'Make 'Em Laugh'
-#  **Intermission 6** 
+#  <b>Intermission 6</b> 
 ## Donald O'Connor - 'Make 'Em Laugh'
-#  **Skit 7**
+#  <b>Skit 7</b>
 ## Introduction to NFL Goes Motown - 'Do You Love Me'
 ## NFL Goes Motown - 'Do You Love Me'
 ## Introduction to Road Runner - 'Lickety Splat'
-#  **Intermission 7**
+#  <b>Intermission 7</b>
 ## Road Runner - 'Lickety Splat'
-#  **Skit 8** 
+#  <b>Skit 8</b> 
 ## Introduction to Jump 'N The Saddle - 'Curly Shuffle'
-#  **Intermission 8** 
+#  <b>Intermission 8</b> 
 ## Jump 'N The Saddle - 'Curly Shuffle'
-#  **Skit 9**
+#  <b>Skit 9</b>
 ## Camptown Races
 ## Oh Susanna
 ## She'll Be Coming Around The Mountain
 ## She'll Be Making a Combo Pizza (Parody of [https://en.wikipedia.org/wiki/She%27ll_Be_Coming_%27Round_the_Mountain She'll Be Coming Around The Mountain])
 ## Introduction to Big Todd And The Monsters - 'Resignation Superman'
-#  **Intermission 9** 
+#  <b>Intermission 9</b> 
 ## Big Todd And The Monsters - 'Resignation Superman'
-#  **Skit 10** 
+#  <b>Skit 10</b> 
 ## Introduction to Nat King Cole - 'Unforgettable'
-#  **Intermission 10** 
+#  <b>Intermission 10</b> 
 ## Nat King Cole - 'Unforgettable'
-#  **Skit 11**
+#  <b>Skit 11</b>
 ## Introduction to Larry The Technician 
 ## Paula Abdul - 'Opposites Attract'
 ## Will Frye The Nutrition Guy - 'The Pizza'
 ## Introduction to Backstreet Boys - 'As Long As You Love Me'
-#  **Intermission 11**
-## Backstreet Boys - 'As Long As You Love Me_
-#  **Skit 12**
+#  <b>Intermission 11</b>
+## Backstreet Boys - 'As Long As You Love Me''
+#  <b>Skit 12</b>
 ## NFL Rocks - 'Toy Of The World - Max Version'
-#  **Intermission 12**
+#  <b>Intermission 12</b>
 ## Coca Cola Spot 2
 ## Got Milk Bones?
 ## Bobby Darin - 'Mack The Knife'
 
-## Studio C Show List: ##
+<h2> Studio C Show List: </h2>
 Currently unknown.
 
-## Lives: ##
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on seperate VHS tapes for MMBB based stores.</b>
 
 * Birthday Star 95'
 * Chuck E. March
@@ -100,9 +100,9 @@ Currently unknown.
 * Patriotic Live
 *  Give My Regards to Broadway
 
-**Birthday Break**: Is currently unknown.
+<b>Birthday Break</b>: Is currently unknown.
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * A majority of the Existing Stages version of this show is intermission-based, with only around 15 minutes of programmed material in total out of the 60 minute runtime of the show.
 * The songs 'Rock Around The Clock', Donald O'Connor - 'Make 'Em Laugh', 'Camptown Races', 'Oh Susanna', 'She'll Be Coming Around The Mountain', 'She'll Be Making a Combo Pizza', and 'Mack The Knife' all have unique footage created for it. 
 * This was the last show produced in the talk host format. Only ever being used on three shows. May 1998, July 1998 and September 1998.

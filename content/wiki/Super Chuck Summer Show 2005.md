@@ -19,40 +19,40 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293=y
 |credit1= Robert Gotcher - Director |credit2= Michael Hill - Production Coordinator |credit3= Ryan Hollingsworth - Production Specialist}} 
 
-**Super Chuck Summer Show 2005** was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with new and revised intermissions promoting 2005 Super Chuck Summer (Event)  ( Super Chuck Summer). It is supposedly the first show to release on the DVD format for Existing Stages.
+<b>Super Chuck Summer Show 2005</b> was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with new and revised intermissions promoting 2005 Super Chuck Summer (Event)  ( Super Chuck Summer). It is supposedly the first show to release on the DVD format for Existing Stages.
 
-## Show List: ##
-#**Segment 1** 
+<h2> Show List: </h2>
+#<b>Segment 1</b> 
 ## 'Summertime Groove'
-## 'Fishin_
-#**Intermission 1** 
+## 'Fishin''
+#<b>Intermission 1</b> 
 ##  Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Blender'
 ##Wildlife
 ##Coke Groove
 ## Countdown
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##  Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
 ##Countdown
-#**Segment 3** 
+#<b>Segment 3</b> 
 ## 'Baseball Diamond Dreams'
-## 'Dog Jammin_
-# **Intermission 3** 
+## 'Dog Jammin''
+# <b>Intermission 3</b> 
 ## Super Chuck Summer VJ Spot
 ##Super Jasper - 'One Token'
 ##CEC TV ID - 'Stars'
 ##Coke Groove
 ## Countdown
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Cinemark Summer Movie Clubhouse Spot
 ## Super Chuck Summer VJ Spot
 ##CEC TV ID - 'Haircut'
@@ -62,8 +62,8 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ## Military Montage
 ##'America'
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
@@ -77,9 +77,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * If You're Happy and You Know It
 * Go Santa Go
 
-**Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-##Trivia:##
+<h2>Trivia:</h2>
 *The original show logo for the segments has been replaced with one featuring Super Chuck.

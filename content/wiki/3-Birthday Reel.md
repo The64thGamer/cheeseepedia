@@ -12,15 +12,15 @@ gallery = []
 |date=1980
 |showbizreel=y|image=3birthdayreelthumbnail.png}}
 
-**3-Birthday Reel** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1980.
+<b>3-Birthday Reel</b> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1980.
 
-##Show List##
-#**Birthday Show 1** 
-##_Beatles Birthday_
-#**Birthday Show 2** 
-##_Happy Birthday Medley_
-###_Parodies of Sixteen Candles_
-###_Mr. Postman_
-###_Having a Party_
-#**Birthday Show 3** 
-##_Sal's Birthday_
+<h2>Show List</h2>
+#<b>Birthday Show 1</b> 
+##<i>Beatles Birthday</i>
+#<b>Birthday Show 2</b> 
+##<i>Happy Birthday Medley</i>
+###<i>Parodies of Sixteen Candles</i>
+###<i>Mr. Postman</i>
+###<i>Having a Party</i>
+#<b>Birthday Show 3</b> 
+##<i>Sal's Birthday</i>

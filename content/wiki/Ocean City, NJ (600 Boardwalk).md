@@ -5,32 +5,33 @@ tags = ["RockyRailroad"]
 date = 2024-08-12T21:18:53Z
 
 [Article]
+pageThumbnailFile = "Gillian's Front Exterior 2021.png|Gillian's Wonderland Pier, 2021."
 contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=Gillian's Front Exterior 2021.png|desc=Gillian's Wonderland Pier, 2021.}}
 
-**_Ocean City, NJ (600 Boardwalk)**_ is the first **_Gillian's Wonderland Pier**_ that was founded in 1929 by **_David Gillian**_ as a historic amusement park. The place contains a retrofitted [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) known as **_Rocky & The Railroad Ramblers**_. 
 
-## History ##
+<b><i>Ocean City, NJ (600 Boardwalk)</b></i> is the first <b><i>Gillian's Wonderland Pier</b></i> that was founded in 1929 by <b><i>David Gillian</b></i> as a historic amusement park. The place contains a retrofitted [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) known as <b><i>Rocky & The Railroad Ramblers</b></i>. 
+
+<h2> History </h2>
 Gillian's Wonderland Pier was founded in 1929 by David Gillian in Ocean City, New Jersey as a small amusement park. The park had multiple attractions, mainly the Ferris wheel & Carousel. David gave up ownership to Bob & Roy Gillian in 1957. Gillian's Fun-deck was turned into a water park somewhere after 1987. Gillian's would expand to Sea isle city, New Jersey as Gillian's Funland.
 
 On August 9, 2024, Gillian's owner and Ocean City Mayor, Jay Gillian, announced Gillian's would close permanently after the 2024 season.<ref>https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</ref>
 
-### Rocky & The Railroad Ramblers ###
+<h2>= Rocky & The Railroad Ramblers </h2>=
 
-#### Classic Version (1992-2001) ####
+<h2>== Classic Version (1992-2001) </h2>==
 Rocky & The Railroad Ramblers was bought from an unknown Pizza Time Theatre in either 1992 or 1993. Gillian's would hire Sally Corp to retrofit the mechs. The bots were placed in the upstairs area next to the train ride. The area would have a barrier surrounding the stage, some boxes & other props, and a roof set. The area also had a sign at the bottom with Text stating stuff about the characters, establishment date, & the price of the show. The show would take $1.00 per song. The area had 5 animatronics from left to right, Bubba (Mr. Munch), Rocky (Chuck E. Cheese), Henrietta Hatpin (Guest Star / Helen Henny), Hank (Jasper), & Antonio (Pasqually). The area's roof had a sign saying 'Shipment Receiving'.
 
 Sally Corp would create a showtape for the show. The area would be renamed to 'The Man & Dog Show' in 1995 or 1996. The flowers would be moved in 1997. the area gained some new accessories in 1998.
 
-#### Revised Version (2001-2015) ####
+<h2>== Revised Version (2001-2015) </h2>==
 The area would go under heavy remodeling in around mid to late 2002. The Showtape made for Enchated Forest's Rocky & The Rambling Rascals' was given to Gillian's in 1998 & replaced the originally fully by 2005. The characters got new cosmetics, & most old props were either replaced or removed. The Boxes & Barrels also were painted to be more colorful in the mid 2000's. The version would remain the same until 2015. The show was in heavy disrepair by 2011.
 
-#### Legacy Version (2015-Present) ####
+<h2>== Legacy Version (2015-Present) </h2>==
 In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky & The Railroad Ramblers. The area would turn 30 years old in 2022. 
 
-## Stages ##
+<h2> Stages </h2>
 this is every animatronic stage Gillian's have had.
 {| class='wikitable'
 |+
@@ -55,7 +56,7 @@ this is every animatronic stage Gillian's have had.
 |Based on the 90's version of the show.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Name
@@ -89,4 +90,4 @@ this is every animatronic stage Gillian's have had.
 |Retrofit of [Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}}).
 |}
 
-## References ##
+<h2> References </h2>

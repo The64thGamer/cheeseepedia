@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-09-01T03:08:45Z
 
 [Article]
+pageThumbnailFile = "Augusta's exterior before 2.0.jpg|Exterior Before 2.0 Remodel"
 contributors = ["ChuckECool","2600:4040:5A0C:5900:C4A1:9008:FD91:F5FE","2607:FB90:B3A1:A3B9:9D72:CA5C:53EE:75C1","Rexburg090","216.125.34.66","ThatBoiCydalan","CorrectorMan","2600:4040:5A0E:D900:64A7:FBC4:2848:821","2607:FB90:7398:A78:D4FD:68AE:8BF1:530D","162.40.201.9","Documentor","174.131.44.53","Ceclife13","Tux Chuck","Caydenpedia","The 64th Gamer","Livelycheese","Veronancy","Casimar"]
 gallery = []
 +++
-{{Generic|image=Augusta's exterior before 2.0.jpg|desc=Exterior Before 2.0 Remodel}}
 
-**_3435 Wrightsboro Road, Store #939**_ is a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on July 14, 1982, with a Rock-Afire Explosion and is still open to this day with it's 2.0 remodel.
+
+<b><i>3435 Wrightsboro Road, Store #939</b></i> is a <i>Showbiz Pizza Place/Chuck E. Cheese</i> that opened on July 14, 1982, with a Rock-Afire Explosion and is still open to this day with it's 2.0 remodel.
 
 It was known for having 1 of 3 Yogi Bear test stages. [Colorado Springs, CO (5156 N Academy Blvd)]({{< ref "wiki/Colorado Springs, CO (5156 N Academy Blvd).md" >}}) and [Omaha, NE (225 N 76th St)]({{< ref "wiki/Omaha, NE (225 N 76th St).md" >}}) also received this stage.
-##History##
+<h2>History</h2>
 Augusta opened its doors on July 14th, 1982 as the 6th Showbiz Pizza store in store in Georgia. It opened with the Rock-Afire Explosion band. Augusta received a very minor remodel in 1987 where some SPP decor was removed for newer decor though some remained, and the stage was heavily changed. Billy Bob was replaced with Yogi Bear and Looney Bird was replaced with Boo-Boo. On October 13th, 1991, Augusta received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and fully received the 1988 remodel removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and removed the Rock-Afire Explosion, including the Yogi Bear test stage for the 3-Stage. The store would receive the 1993 remodel sometime by the Mid 90's removing older CU decor for Record Posters and removing the Blue and White awnings above the salad bar. In the Late 90's, Augusta received another remodel, changing the exterior, removed older decor for newer decor, and replaced the ball pit with SkyTubes. August would remain like this until 2006-2007 when they would receive the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removing Showroom Walls, expanding to the left of the former space, replacing the older pointing Chuck for the newer one, and received an exterior remodel. Then in 2010-2012, Augusta would remodel again to the 2010 Update which involved redoing the front end of the store including relocating the Salad Bar from the back to the store to closer to the ordering counter and redoing the entryway. On April 25th, 2023, this location had started their 2.0 remodel, removing the stage in the morning of that day. In April 2023, Augusta started their 2.0 remodel. The store's Grand Reopening took place on June 1st, 2023<ref>https://theaugustapress.com/chuck-e-cheese-completes-market-remodel-in-augusta/</ref>. As of November 2023, Augusta still has the 2.0 Remodel & the 2021 Model Dance Floor + Video Wall. 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the Billy Bob stage was replaced with Yogi Bear. On October 13th, 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. Their compressor had burst sometime around February/March 2023 and would remain that way until the stage's removal on the morning of April 25th, 2023. As of June 2023, Augusta still has the 2.0 Remodel & the 2021 Model Dance Floor + Video Wall. 
 {| class='wikitable'
 !Stage
@@ -44,9 +45,9 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 |2021 Model.
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Quik Drop
 * Tight Rope
@@ -117,7 +118,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 * Monster Drop
 * Pigs Might Fly
 
-### Coin Action ###
+<h2>= Coin Action </h2>=
 
 * Wonderland
 * Jam Session
@@ -130,7 +131,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 * Deep Freeze
 * Winners' Wheel
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Barney
 * Dog Pounder
@@ -154,7 +155,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 * Super Big Rig
 * Hungry Froggy
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -217,7 +218,7 @@ Organ owned by a private collector.
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -232,5 +233,5 @@ Organ owned by a private collector.
 |3/28/23
 |}
 
-## References ##
+<h2> References </h2>
 <references />

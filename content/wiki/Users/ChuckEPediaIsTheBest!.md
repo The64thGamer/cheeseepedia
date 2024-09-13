@@ -10,14 +10,14 @@ gallery = ["SwagCEC.jpg|thumb|yesssssssss"]
 +++
 Hi, I like editing Chuck-E-Pedia. I have made several google spreadhsheets because I can, plus it's learning how to use it. 
 
-## Things I Like ##
+<h2> Things I Like </h2>
 
 * Chuck E. Cheese because why would I be here lmao
 * My family
 * music
 * good people
 
-## Things I Don't Like ##
+<h2> Things I Don't Like </h2>
 
 
 * bad people

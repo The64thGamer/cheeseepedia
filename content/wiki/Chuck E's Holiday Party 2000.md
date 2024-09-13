@@ -17,38 +17,38 @@ gallery = []
 |cusvhs = y
 |dlStudioCKaraokeFloppy=https://archive.org/download/studio-c-holiday-2000-show-update-karaoke-version/rip.IMA}}
 
-**_Chuck E's Holiday Party 2000**_ was a rerelease of [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}) for the 2000 holiday season. 
+<b><i>Chuck E's Holiday Party 2000</b></i> was a rerelease of [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}) for the 2000 holiday season. 
 
-##Existing Show List:##
-#**Segment 1**
+<h2>Existing Show List:</h2>
+#<b>Segment 1</b>
 ##'Holly Jolly Christmas'
 ##'White Christmas'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Chuck E.'s Ski Trip
 ##The Durby
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Mele Kalikimaka'
 ##'Feliz Navidad'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Veggietales - 'Oh Santa!'
 ##Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
-#**Segment 3**
+#<b>Segment 3</b>
 ##'12 Days of Christmas'
 ##'Dreidel Song'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Baking With Betty - 'Potato Latkes'
 ##Super Jasper - 'Canine Snowball'
-#**Segment 4**
+#<b>Segment 4</b>
 ##'Big Band Santa'
 ##'Holiday Medley'
 ###'Jingle Bells'
 ###'Deck The Halls'
 ###'We Wish You A Merry Christmas'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Book Your Party Online Promo (Existing Stages only)
 ##Up On The Housetop
-##Lives:##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2>Lives:</h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 *Chuck E. Says
 *Chuck E. Shuffle
 *Chuck E. March
@@ -62,4 +62,4 @@ gallery = []
 *Patriotic Live 2000
 *Happy and You Know It
 *Give My Regards to Broadway (Existing Stages only)
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

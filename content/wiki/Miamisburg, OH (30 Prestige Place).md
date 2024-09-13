@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-07-31T15:34:46Z
 
 [Article]
+pageThumbnailFile = "Miamisburg CEC 2.0 Exterior.png|Exterior, August 2023"
 contributors = ["The 64th Gamer","Documentor","CECBowlingGreen","Emcaacme","Rexburg090","Maddox121","71.15.155.152","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ChuckfeldStan","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Miamisburg CEC 2.0 Exterior.png|desc=Exterior, August 2023}}
-**_Miamisburg, OH (30 Prestige Place), Store #555**_ was a Showbiz Pizza Place that opened on November 25, 1981 with a Rock-Afire Explosion.
+
+<b><i>Miamisburg, OH (30 Prestige Place), Store #555</b></i> was a Showbiz Pizza Place that opened on November 25, 1981 with a Rock-Afire Explosion.
 
 This location received CU in the early 1990's, and would then replace the 3-Stage with a Studio C Beta in 2001 and had it until they got 2.0 in October 2022.
 
 As of January 2023, they still have the 2.0 Remodel.
 
-## Stages##
+<h2> Stages</h2>
 
 The store opened with the Rock Afire Explosion on November 25, 1981, then started [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) in around 1991/1992 which began the process of converting the Rock Afire Explosion to the 3-stage.
 
@@ -55,7 +56,7 @@ In early October of 2022, the store converted to a 2.0, with the Studio C Beta b
 |Still In Use
 |2021 Model
 |}
-##History ##
+<h2>History </h2>
 Miamisburg opened on November 25th, 1981 as the 3rd ShowBiz Pizza store in Ohio (3rd after [Sharonville]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}) & [Cincinnati Colerain]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}})) with a Rock-afire Explosion show. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Miamisburg was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Miamisburg received the Showbiz Pizza Campground upgrade.
 
 In around 1991, Miamisburg received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid 1990's, Miamisburg received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor, added new decor, SkyTubes, and an exterior remodel. 
@@ -66,28 +67,28 @@ The store would remove it's [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and the T
 
 In October 2022, Miamisburg would remodel to 2.0, removing the Studio C for Dance Floor + Video Wall.
 
-## Decor##
+<h2> Decor</h2>
 
-### Current (2.0) ###
+<h2>= Current (2.0) </h2>=
 
-### Former (Showbiz) ###
+<h2>= Former (Showbiz) </h2>=
 
-### Former (Original Phase Trilogy) ###
+<h2>= Former (Original Phase Trilogy) </h2>=
 
 * 1990 Chuck E. Cheese's Pizza Hours of Operation
 * 1998 3 Big Pop Arts
 * 1998 4 Small Pop Arts
 * 2001 Pasqually's Italy
 
-### Former (Phase 4) ###
+<h2>= Former (Phase 4) </h2>=
 
 * 2005 8 Kids Posters
 * 2005 Restrooms (Blue Sign)
 * 2005 Salad Farm Chuck E.
 
-### Former (Phase 5) ###
+<h2>= Former (Phase 5) </h2>=
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description 
@@ -122,7 +123,7 @@ In October 2022, Miamisburg would remodel to 2.0, removing the Studio C for Danc
 
 
 
-## Animatronics##
+<h2> Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic 
@@ -186,10 +187,10 @@ In October 2022, Miamisburg would remodel to 2.0, removing the Studio C for Danc
 | Destroyed
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Miamisburg was the 3rd Showbiz Pizza location to open in Ohio after [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}) (Opened October 21st, 1981) & [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) (Opened November 11th 1981).
 * Miamisburg was one of four ShowBiz locations in Ohio to undergo Concept Unification (The other three being [Cincinnati Colerain]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}), [Columbus Macsway]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}), & [Springfield]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})) as Sharonville closed January 8th, 1984 and reopened years later on September 8th, 1992 as a Chuck E. Cheese's Pizza with one of two [2-Stages]({{< ref "wiki/2-Stage.md" >}}) in Ohio ([North Olmsted, OH (26104 Great Northern Sh)]({{< ref "wiki/North Olmsted, OH (26104 Great Northern Sh).md" >}}) being the other). Columbus, OH (2044 Crown Plaza Dr), [Cincinnati, OH (3365 Highland Ave)]({{< ref "wiki/Cincinnati, OH (3365 Highland Ave).md" >}}), Columbus, OH (2210 E Dublin Granville Rd), Akron, OH (2511 Romig Rd)  on the other hand were closed by December 1985 as Showbiz and were never converted into Chuck E. Cheese. 
 
-## References ##
+<h2> References </h2>
 <references />

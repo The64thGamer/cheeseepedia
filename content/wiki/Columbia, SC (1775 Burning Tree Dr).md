@@ -9,16 +9,16 @@ contributors = ["ChuckECool","Rexburg090","2603:6081:300:4E87:8160:A970:10A:AF25
 gallery = ["Columbia2023.png|thumb|Exterior (December 2023)"]
 +++
 
-**_1775 Burning Tree Dr, Store #967**_ was a ShowBiz Pizza Place that opened on June 28, 1983. It was the fourth ShowBiz to open in South Carolina and remains open as a Chuck E. Cheese's. Columbia is a free-standing store located next to an Exxon gas station.
+<b><i>1775 Burning Tree Dr, Store #967</b></i> was a ShowBiz Pizza Place that opened on June 28, 1983. It was the fourth ShowBiz to open in South Carolina and remains open as a Chuck E. Cheese's. Columbia is a free-standing store located next to an Exxon gas station.
 
-##History##
+<h2>History</h2>
 Columbia opened its doors on June 28th, 1983. The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), placed adjacently on the store's rear wall. In the late 80's, Columbia underwent the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), phasing out original ShowBiz Pizza Place decor and signage for that of generalized Showbiz Pizza Time assets.
 
 Sometime in 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, Columbia's operating license was acquired by SPT Corporate along with sister locations [South Charleston]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) & [Greenville]({{< ref "wiki/Greenville, SC (253 Congaree Rd).md" >}}). Around this time, the store would undergo the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}).
 
 The store received the ['Cool Chuck' Major Remodel Initiative]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in the late 2000's, with newer booths, posters, and purple walls. Aside from rotating game packages, Columbia would remain in this state throughout the late 2000's into the 2020's decade. In September 2020, the Chuck E, Helen, and Jasper animatronics would be replaced with those from the then-recently closed [Charleston, SC (1610 Sam Rittenburg Blvd)]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}) store. On November 1st, 2022, Columbia removed the 3-Stage for the Dance Floor + Video Wall as part of the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), becoming the store's most recent overhaul. 
 
-##Stages##
+<h2>Stages</h2>
 Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) occurred. In November 2022, Columbia removed the 3-Stage for a 2021 Model Dance Floor + Video Wall.
 {| class='wikitable'
 !Stage
@@ -41,7 +41,7 @@ Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz lo
 |Still in use
 |2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -98,7 +98,7 @@ Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz lo
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

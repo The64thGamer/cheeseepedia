@@ -18,18 +18,18 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 2 2015**_  released March 16th 2015 featuring two songs
+<b><i>Show 2 2015</b></i>  released March 16th 2015 featuring two songs
 
 This was created to play from March 16th 2015 - April 19th 2015. This show features two songs and marked the change of a new era for shows.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Anna Kendrick - 'Cups'
 ## CEC Promo - 'Chuck E. Club'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese - 'Because We're Friends' 
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Katy Perry - 'This Is How We Do'
 ## CEC Promo - 'Fundraisers'
 ## Josh & The Jamtones - 'Death Valley of Cornfield of Doom'
@@ -43,16 +43,16 @@ This was created to play from March 16th 2015 - April 19th 2015. This show featu
 ## Bridgit Mendler - 'Ready or Not'
 ## Josh & The Jamtones - 'Bear Hunt Trailer #2' 
 ## CEC Promo - 'New Food'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Rockin' Robot'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Josh & The Jamtones - 'Everybody Dance'
 ## OK Go - 'I Won't Let You Down'
 ## CEC Promo - 'Big Brothers, Big Sisters'
 ## Josh & The Jamtones - 'Tailfeathers'
 ## Taylor Swift - 'Shake it Off'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. 2015 (New Countdown) (3stage, Cyberamic, Studio C,Weigl)
@@ -62,11 +62,11 @@ This was created to play from March 16th 2015 - April 19th 2015. This show featu
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This show started a new era for CEC content. The animatronic programmed skits were now one-off skits with no acts.
 * This is the final time Baking with Betty would ever be used in a showtape. 

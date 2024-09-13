@@ -8,22 +8,22 @@ date = 2023-06-23T15:03:35Z
 contributors = ["ChuckfeldStan"]
 gallery = []
 +++
-## History ##
+<h2> History </h2>
 TODO
 
-## Stages ##
+<h2> Stages </h2>
 TODO
 
-## Arcade Games & Rides ##
+<h2> Arcade Games & Rides </h2>
 
-### Current ###
+<h2>= Current </h2>=
 
 * Jett Rider
 * Photo Chuck E. (Rockstar)
 
-## Decor ##
+<h2> Decor </h2>
 
-### Former ###
+<h2>= Former </h2>=
 
 * 1998 Chuck E. Pop Art (4 Small)
 * 1998 Chuck E. Portrait

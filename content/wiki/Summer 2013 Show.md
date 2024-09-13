@@ -18,43 +18,43 @@ gallery = ["New Graphic.png"]
 |dvdcyber=y
 }}
 
-**_Summer 2013**_ is the summer show released July 2013, featuring eight songs.
+<b><i>Summer 2013</b></i> is the summer show released July 2013, featuring eight songs.
 
 This was created to play from from July - August 31, 2013.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Summertime Groove'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC TV ID - 'Simplistic Heads'
 ## Summer Safety With Steve Waters - 'Wear Sunscreen'
 ## Show Break 1 
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'In My Pool' (Parody of [https://en.wikipedia.org/wiki/In_My_Room In My Room])
 ## 'Summertime'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## CEC TV ID - 'Digestion'
 ## Hard Hat Hank - 'Surprises'
 ## CEC Live Promo
 ## Show Break 2 
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## “Goin’ on a Picnic”
 ## “Barbecue”
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## CEC TV ID - '1950s Astronauts' 
 ## Summer Safety With Steve Waters - 'Leave Bricks on the Beach'
 ## Show Break 3 
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'SPF'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Super Jasper - 'Break the Record'
 ## CEC Live Promo
 ## Show Break 3 
 
-## Lives: ##
+<h2> Lives: </h2>
 *Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
@@ -63,10 +63,10 @@ This was created to play from from July - August 31, 2013.
 * Happy And You Know It (3stage, Cyberamic, Studio C,Weigl)
 *  Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from [Summertime 2000]({{< ref "wiki/Summertime 2000.md" >}}), 'In My Pool' 'Goin' On a Picnic' and “Barbecue” are originally from [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}), 'SPF' and 'Summertime' is originally from '[Summer 2007.]({{< ref "wiki/Summer 2007 Show.md" >}}) With Jared redubbing Duncans voice being the only change from [Summer 2012]({{< ref "wiki/Summer 2012.md" >}}).
 * This was the final show to feature Super Jasper.

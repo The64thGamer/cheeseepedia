@@ -52,11 +52,11 @@ All Rights Reserved
 
 MADE IN CHINA|label4=CHUCK E. CHEESE'S ®}}
 
-**_Talking Chuck E.**_ was a singular prototype toy created in 1997 by _Streets Player Holdings Corporation_.  
+<b><i>Talking Chuck E.</b></i> was a singular prototype toy created in 1997 by <i>Streets Player Holdings Corporation</i>.  
 
 The plush was able to play music by squeezing its right hand. Powering the unit required 3 'AA' batteries which were included with the box. 
 
-## Condition ##
+<h2> Condition </h2>
 The current only known prototype unit has its battery compartment shattered. Due to this, it is unknown what audio the plush would play when powered on.
 
 

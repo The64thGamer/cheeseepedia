@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-08-09T16:09:11Z
 
 [Article]
+pageThumbnailFile = "Bandera2015remodelexterior.jpg|Pre 2.0 Exterior"
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Bandera2015remodelexterior.jpg|desc=Pre 2.0 Exterior}}
-**_San Antonio, TX (11735 Bandera Rd)**_ is a Chuck E. Cheese's that opened on April 16th, 2002, with a Studio C Beta, and is still open to this day.
 
-##Stages##
+<b><i>San Antonio, TX (11735 Bandera Rd)</b></i> is a Chuck E. Cheese's that opened on April 16th, 2002, with a Studio C Beta, and is still open to this day.
+
+<h2>Stages</h2>
 This location opened with a Studio C Beta, the newest stage for Chuck E. Cheese’s at that time, featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. The stage would remain in average condition with the Ticket Blaster being moved in front of the blue screen in 2012, and the light box removed in-between August 2010 and February 2011 after 2 of the original monitors were replaced with smaller TV screens. In early 2022, most of the animatronics movements would stop functioning, with only 8 out of the 32 movements functional. 
 
 In the early 2010s, Bandera would recieve a new mask and avenger shirt for the character. The new mask would cause the characters nose to infamously droop. 
 
 The stage would be removed on April 1, 2024, in favor of the store receiving the 2.0 Remodel.
-##History##
+<h2>History</h2>
 The land the Bandera Road Chuck E. Cheese's would be built on was purchased in October 2001, with the store opening on April 16th, 2002. After opening, the store would remain untouched aside from the game package changing and the original can lights being replaced with fluorescent lights in February/March 2011. 
 
 In the Summer of 2015, the store would receive the 2015 remodel package. This remodel would remove the skytubes and update the stores design to fit with the 'Rockstar' era. 
@@ -26,10 +27,10 @@ This location is the manager training location for the San Antonio area.<ref>Met
 
 On April 1, 2024, the store would start its 2.0 Remodel, removing the show and animatronic on the same day.  
 
-### 2016 Car Crash ###
+<h2>= 2016 Car Crash </h2>=
 On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. <ref>https://news4sanantonio.com/news/local/woman-crashes-car-into-chuck-e-cheeses-restaurant</ref>
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -46,7 +47,7 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 |2021 Model
 |Dance Floor originally came from [the Arlington (Fielder) location.]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}})
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -57,9 +58,9 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 |Unknown/Destroyed
 |}
 
-##Games & Rides ##
+<h2>Games & Rides </h2>
 
-### Skill Games ###
+<h2>= Skill Games </h2>=
 
 * The Price is Right
 * Big Win Super Spin
@@ -89,7 +90,7 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 * Jurassic Park Arcade
 * ICE Cube Drop Zone
 
-### Kiddie Games/Rides ###
+<h2>= Kiddie Games/Rides </h2>=
 
 * Whack'em Funky Gators
 * Hungry Chickens
@@ -101,7 +102,7 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 * Paw Patrol
 * Jett Rider
 * Chuck E. Cheese's Photo Ride
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -202,5 +203,5 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 
 *
 
-## References ##
+<h2> References </h2>
 <references />

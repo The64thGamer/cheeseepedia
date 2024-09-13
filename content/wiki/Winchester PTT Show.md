@@ -5,21 +5,22 @@ tags = ["Animatronic Shows"]
 date = 2023-11-03T19:12:38Z
 
 [Article]
+pageThumbnailFile = "376A15C2-BF19-415B-84DD-4D4EA2E73F82.jpg|San Jose, CA (370 S Winchester Blvd) Showroom"
 contributors = ["PokeTogeKiss","BackroomsWanderer49","Lil uzi vert","The 64th Gamer","BlackMonkeyEater","Stripes"]
 gallery = []
 +++
-{{Generic|image=376A15C2-BF19-415B-84DD-4D4EA2E73F82.jpg|desc=San Jose, CA (370 S Winchester Blvd) Showroom}}
 
-The **_Winchester Pizza Time Theatre Show**_ was a set of animatronics built exclusively for the first Pizza Time Theatre location at [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and used from May 17th, 1977 to sometime between 1980 and 1981 when they were replaced with [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}).
+
+The <b><i>Winchester Pizza Time Theatre Show</b></i> was a set of animatronics built exclusively for the first Pizza Time Theatre location at [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) and used from May 17th, 1977 to sometime between 1980 and 1981 when they were replaced with [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}).
 
 The show consisted of the main characters and moving props placed along the bannisters of the showroom, with the [Warblettes]({{< ref "wiki/Winchester Warblettes (Animatronic).md" >}}) hung below the ceiling.
 
-## History ##
+<h2> History </h2>
 All characters were produced by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}), mainly by its owner Harold Goldbrandsen. Fantasy Forest was previously a mascot costume manufacturer, making the Winchester show their first animatronic products created.
 
 Atari's Cyan Engineering (also known as the Grass Valley Team) would handle the creation of the [Winchester Control System]({{< ref "wiki/Winchester Control System.md" >}}), headed by Larry Emmons and Gary Waters.<ref>https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre</ref>
 
-## Animatronics ##
+<h2> Animatronics </h2>
 The Chuck E. Cheese Proof of Concept Prototype (Animatronic) (Chuck E. Cheese Proof of Concept Prototype) was initially built as a concept piece for the location, but was never intended to be used inside the building.
 
 The main animatronics and their locations were:
@@ -44,4 +45,4 @@ Additional guest characters would appear on the west side of the showroom.
 * [Winchester Madam Oink]({{< ref "wiki/Winchester Madam Oink (Animatronic).md" >}}) (February, 1978)
 * [Winchester Foxy Colleen]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}) (October, 1978)
 
-## References ##
+<h2> References </h2>

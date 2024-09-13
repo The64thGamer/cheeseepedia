@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-07-30T15:19:01Z
 
 [Article]
+pageThumbnailFile = "Preston1990s.jpg|Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)"
 contributors = ["Midwestretail","ChuckECool","Rexburg090","SuperCreamPiper2008","The 64th Gamer","ItzaRob","Krimet Hetgrof","Documentor","CoolerDude","PachCEC","JND","Jaxonia","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Preston1990s.jpg|desc=Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)}}
 
-**_5743 Preston Hwy**_ was a _Chuck E. Cheese's Pizza Time Theatre/Chuck E. Cheese's Pizza_ that opened on July 31, 1982, with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on November 8th, 1997, with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) stage. It was located in/across from an unnamed shopping center. This was the first location in Louisville, and the second in Kentucky overall.
 
-## Stages ##
+<b><i>5743 Preston Hwy</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre/Chuck E. Cheese's Pizza</i> that opened on July 31, 1982, with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed on November 8th, 1997, with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) stage. It was located in/across from an unnamed shopping center. This was the first location in Louisville, and the second in Kentucky overall.
+
+<h2> Stages </h2>
 When this store opened, they would have a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), which would in turn be replaced with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). It was removed when they closed in November 1997.
 {| class='wikitable'
 |+
@@ -29,7 +30,7 @@ When this store opened, they would have a [Balcony Stage]({{< ref "wiki/Cyberami
 |November 1997
 |}
 
-## History ##
+<h2> History </h2>
 The building Chuck E. Cheese's Pizza Time Theatre was housed in opened as an Alpha 2 Cinema on October 6th, 1971. When this cinema closed on March 25th, 1982, work on the conversion from a cinema to Chuck E. Cheese's Pizza Time Theatre would begin in the coming months.
 
 On July 31, 1982, a new Chuck E. Cheese opened in Louisville with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and many features. This store was notably very small, with not much space. Regardless of this, the store would outlast the 1984 bankruptcy and would continue to get customers.
@@ -42,7 +43,7 @@ In the mid-late 1990s, the store would go through some extra minor changes, such
 
 In November 1997, this store closed permanently. It is unknown why exactly the store closed, but guesses include lease, lack of customers or money, or more. The store would be vacated shortly after, with pieces being dismantled and sent to other stores. After the store closed, Hollywood Video and Verizon Wireless would take over the space. When Hollywood Video went defunct in 2010, it would become a Hibbett Sports. The Verizon Wireless also closed and was replaced by MetroPCS/Metro by T-Mobile. The building is still intact to this day, although the facade is redone.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -66,7 +67,7 @@ In November 1997, this store closed permanently. It is unknown why exactly the s
 |}
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

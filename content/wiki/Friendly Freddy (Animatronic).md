@@ -8,14 +8,14 @@ date = 2024-06-25T18:40:28Z
 contributors = ["FileFickle","MrKingoDingoBingo"]
 gallery = ["Fred2.png|thumb|304x304px","Fred.png|thumb|346x346px"]
 +++
-{{Animatronic|releasedate=1977|manufacturer=Creative Engineering|image=friedfreddy.png}}
+
 
 Friendly Freddy was Creative Engineering's first fully animated animatronic character, built in 1977. He's a guitar playing black bear wearing jean shorts, scarf, and coonskin hat.
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Movements ##
+<h2> Movements </h2>
 
 * Mouth
 * Left eyelid raise
@@ -34,7 +34,7 @@ TODO
 
 
 
-## Footage ##
+<h2> Footage </h2>
 {| class='wikitable'
 |+
 !Link

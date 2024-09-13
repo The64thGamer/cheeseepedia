@@ -12,42 +12,42 @@ gallery = []
 |date=Spring 1982
 |showbizreel=y|image=Springshowsthumbnail.png}}
 
-**_Spring Shows '82**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
+<b><i>Spring Shows '82</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
 
-##Show List##
-#**Segment 1**
-##_Crying Skit_
-#**Segment 2**
-##_Come for the Pizza Commercial_
-##_Roncho Ad Skit_
-#**Segment 3**
-##_Feelings Skit_
-###_Feelings_
-###_You Light Up My Life_
-###_I Can't Get No Satisfaction_
-#**Segment 4**
-##_Gee, Our 1st Album Commercial_
-#**Segment 5**
-##_Goin' Crazy_
-##_My Love Intro Skit_
-##_My Love_
-#**Segment 6**
-##_Goofy Gas Commercial_
-#**Segment 7**
-##_Hamlet Skit_
-##_You May Be Right_
-#**Segment 8**
-##_Baseball_
-#**Segment 9**
-##_Little Sister_
-#**Segment 10**
-##_Music Goes Round and Round_
-#**Segment 11**
-##_Requests from the Audience - Show Selector Skit_
-#**Segment 12**
-##_Satisfaction Medley_
-###_I Can't Get No Satisfaction_
-###_For Your Love_
-###_Born To Be Wild_
-#**Segment 13**
-##_Welcome In_
+<h2>Show List</h2>
+#<b>Segment 1</b>
+##<i>Crying Skit</i>
+#<b>Segment 2</b>
+##<i>Come for the Pizza Commercial</i>
+##<i>Roncho Ad Skit</i>
+#<b>Segment 3</b>
+##<i>Feelings Skit</i>
+###<i>Feelings</i>
+###<i>You Light Up My Life</i>
+###<i>I Can't Get No Satisfaction</i>
+#<b>Segment 4</b>
+##<i>Gee, Our 1st Album Commercial</i>
+#<b>Segment 5</b>
+##<i>Goin' Crazy</i>
+##<i>My Love Intro Skit</i>
+##<i>My Love</i>
+#<b>Segment 6</b>
+##<i>Goofy Gas Commercial</i>
+#<b>Segment 7</b>
+##<i>Hamlet Skit</i>
+##<i>You May Be Right</i>
+#<b>Segment 8</b>
+##<i>Baseball</i>
+#<b>Segment 9</b>
+##<i>Little Sister</i>
+#<b>Segment 10</b>
+##<i>Music Goes Round and Round</i>
+#<b>Segment 11</b>
+##<i>Requests from the Audience - Show Selector Skit</i>
+#<b>Segment 12</b>
+##<i>Satisfaction Medley</i>
+###<i>I Can't Get No Satisfaction</i>
+###<i>For Your Love</i>
+###<i>Born To Be Wild</i>
+#<b>Segment 13</b>
+##<i>Welcome In</i>

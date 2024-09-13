@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-04-23T22:39:37Z
 
 [Article]
+pageThumbnailFile = "Harlingen TX.jpg|Harlingen’s Exterior (PC: Janeth Arteima on Google Maps)"
 contributors = ["2601:280:5D02:1010:2C80:8709:FE91:257D","Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Harlingen TX.jpg|desc=Harlingen’s Exterior (PC: Janeth Arteima on Google Maps)}}
-**_Harlingen, TX (2815 W Expressway 83), Store #864**_ is a Chuck E. Cheese's that opened on September 10th, 2012 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-##History##
+<b><i>Harlingen, TX (2815 W Expressway 83), Store #864</b></i> is a Chuck E. Cheese's that opened on September 10th, 2012 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<h2>History</h2>
 Harlingen opened on September 10th, 2012 with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), featuring  a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) with a [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}).
 
 This store is well known for the YouTuber, Studio Sid, who visits the location for Store Tours, and interacting with Chuck E. and the animatronic.

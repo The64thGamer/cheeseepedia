@@ -11,45 +11,45 @@ gallery = []
 {{Showtape
 |image=rr93.png
 |date=December 17, 1993
-|betamax=y}}**_Celebration Station's Rockin' Rascals Soundtrack**_ was a showtape produced specifically for the Celebration Station in Knoxville, TN. The showtape covers mostly songs from the 1950s - 1960s. The full showtape can be heard [https://www.youtube.com/playlist?list=PLIhpiXmoRr0jbDr5fvXBW7RFMkMAkS8FG here].
+|betamax=y}}<b><i>Celebration Station's Rockin' Rascals Soundtrack</b></i> was a showtape produced specifically for the Celebration Station in Knoxville, TN. The showtape covers mostly songs from the 1950s - 1960s. The full showtape can be heard [https://www.youtube.com/playlist?list=PLIhpiXmoRr0jbDr5fvXBW7RFMkMAkS8FG here].
 
-## Production and Cast ##
+<h2> Production and Cast </h2>
 The tape was produced by Mangum-Alford Recording Studios in Jacksonville, Florida by Janet Sherman. Hurricane Hound, Major Moose, Calvin Cat, and Purrscilla Purr were voiced by Scott (Anon), Bob Moseley, Rocky Morris, and Debbie Bailey Ryder respectively.
 
 On trumpet, drums, lead guitar, bass guitar, and acoustic guitar were Gary Smith, Jeff Tippins, Kevin Banks, Lawrence Buckner, and Scott Tinesley respectively. Keys and arrangements were done by Kenny Levine.
 
-## Segments ##
-# **_Segment 1**_
+<h2> Segments </h2>
+# <b><i>Segment 1</b></i>
 My Boyfriend's Back
-# **_Segment 2**_
+# <b><i>Segment 2</b></i>
 Celebration
-# **_Segment 3**_
+# <b><i>Segment 3</b></i>
 La Bamba
-# **_Segment 4**_
+# <b><i>Segment 4</b></i>
 At The Hop
-# **_Segment 5**_
+# <b><i>Segment 5</b></i>
 Twist N' Shout
-# **_Segment 6**_
+# <b><i>Segment 6</b></i>
 Wooly Bully
-# **_Segment 7**_
+# <b><i>Segment 7</b></i>
 Quarter to Three
-# **_Segment 8**_
+# <b><i>Segment 8</b></i>
 Good Day Sunshine
-# **_Segment 9**_
+# <b><i>Segment 9</b></i>
 My Guy
-# **_Segment 10**_
+# <b><i>Segment 10</b></i>
 It's Still Rock N' Roll To Me
-# **_Segment 11**_
+# <b><i>Segment 11</b></i>
 Rock N' Roll Music
-# **_Segment 12**_
+# <b><i>Segment 12</b></i>
 Rock Around the Clock
-# **_Segment 13**_
+# <b><i>Segment 13</b></i>
 The Future's So Bright, I Gotta Wear Shades
-# **_Segment 14**_
+# <b><i>Segment 14</b></i>
 Rock N' Roll is Here To Stay
-# **_Segment 15**_
+# <b><i>Segment 15</b></i>
 Celebration Birthday
-# **_Segment 16**_
+# <b><i>Segment 16</b></i>
 Beatles Birthday
-# **_Segment 17**_
+# <b><i>Segment 17</b></i>
 Bedrock/Birthday Hullabaloo

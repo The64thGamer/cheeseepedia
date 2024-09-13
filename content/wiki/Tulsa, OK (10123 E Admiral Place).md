@@ -9,14 +9,14 @@ contributors = ["Chuckstar69"]
 gallery = ["Ptt tulsa 2022.png|thumb|Thr site of the former ptt as of right now. (PC: Google Maps)"]
 +++
 
-**_10123 E Admiral Place**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 and closed in 1985 with a Balcony Stage and unknown cabaret/lounge acts. Very little is known about the location, mainly because it was either undocumented, or short lived.
+<b><i>10123 E Admiral Place</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 and closed in 1985 with a Balcony Stage and unknown cabaret/lounge acts. Very little is known about the location, mainly because it was either undocumented, or short lived.
 
 This location is not to be confused with the [Tulsa, OK (7108 S Memorial Dr)]({{< ref "wiki/Tulsa, OK (7108 S Memorial Dr).md" >}}) which opened on September 15, 1980 as a Showbiz Piazza Place, Received Concept Unification in 1991, and is still open today with the 2.0 remodel. 
 
-##History##
+<h2>History</h2>
 Not much is currently known about this location, other than it opened in 1982 with a Balcony stage in the Mingo marketplace shopping center. it closed in 1985, the building would become various businesses over the years and as of July 2023 it is currently abandoned
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 Only a half of the arcade machines are known at this location  
 * Donkey Kong
 * Pacman
@@ -31,5 +31,5 @@ Only a half of the arcade machines are known at this location
   
 TODO
 
-##Videos##
+<h2>Videos</h2>
 TODO

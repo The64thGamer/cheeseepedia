@@ -12,38 +12,38 @@ gallery = []
 |date=Spring 1982
 |showbizreel=y|image=82tapethumbnail.png}}
 
-**ShowBiz Pizza '82 Tape** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
+<b>ShowBiz Pizza '82 Tape</b> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
 
-##Show List##
-#**Segment 1**
-##_Welcome In_
-#**Segment 2**
-##_Music Goes Round and Round_
-#**Segment 3**
-##_Gee, Our 1st Album Commercial_
-#**Segment 4**
-##_Little Sister_
-##_Dragstrip in the Sky_
-#**Segment 5**
-##_Goofy Gas Commercial_
-#**Segment 6**
-##_Goin' Crazy_
-##_My Love Intro Skit_
-##_My Love_
-#**Segment 7**
-##_Hamlet Skit_
-##_You May Be Right_
-#**Segment 8**
-##_Feelings Skit_
-### _Feelings_
-### _You Light Up My Life_
-### _I Can't Get No Satisfaction_
-#**Segment 9**
-##_Crying Skit_
-#**Segment 10**
-##_Satisfaction Medley_
-### _I Can't Get No Satisfaction_
-### _For Your Love_
-### _Born To Be Wild_
-#**Segment 11**
-##_Baseball_
+<h2>Show List</h2>
+#<b>Segment 1</b>
+##<i>Welcome In</i>
+#<b>Segment 2</b>
+##<i>Music Goes Round and Round</i>
+#<b>Segment 3</b>
+##<i>Gee, Our 1st Album Commercial</i>
+#<b>Segment 4</b>
+##<i>Little Sister</i>
+##<i>Dragstrip in the Sky</i>
+#<b>Segment 5</b>
+##<i>Goofy Gas Commercial</i>
+#<b>Segment 6</b>
+##<i>Goin' Crazy</i>
+##<i>My Love Intro Skit</i>
+##<i>My Love</i>
+#<b>Segment 7</b>
+##<i>Hamlet Skit</i>
+##<i>You May Be Right</i>
+#<b>Segment 8</b>
+##<i>Feelings Skit</i>
+### <i>Feelings</i>
+### <i>You Light Up My Life</i>
+### <i>I Can't Get No Satisfaction</i>
+#<b>Segment 9</b>
+##<i>Crying Skit</i>
+#<b>Segment 10</b>
+##<i>Satisfaction Medley</i>
+### <i>I Can't Get No Satisfaction</i>
+### <i>For Your Love</i>
+### <i>Born To Be Wild</i>
+#<b>Segment 11</b>
+##<i>Baseball</i>

@@ -5,19 +5,20 @@ tags = ["PTT Store Fixtures"]
 date = 2024-02-07T02:45:22Z
 
 [Article]
+pageThumbnailFile = "CEC Nutritioonal poster.png|Poster Low Res Scan"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=CEC Nutritioonal poster.png|desc=Poster Low Res Scan}}
 
-The **_Chuck E. Cheese Nutritional Poster**_ was a poster displayed in all [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) restaurants starting some time in 1981.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref>
+
+The <b><i>Chuck E. Cheese Nutritional Poster</b></i> was a poster displayed in all [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) restaurants starting some time in 1981.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</ref>
 
 The piece discusses the nutritional value of the [Big C's Combo]({{< ref "wiki/Big C's Combo (PTT Menu Item).md" >}}) pizza.
 
-## History ##
-The poster's first mention is in the The Pizza Times (Vol. 1, Issue 2, September 1981), where it is shown to be part of the advertisement package for the _New Sandwich Program._ The poster's art is provided in the article. No public surfacing of the original poster have been found since.
+<h2> History </h2>
+The poster's first mention is in the The Pizza Times (Vol. 1, Issue 2, September 1981), where it is shown to be part of the advertisement package for the <i>New Sandwich Program.</i> The poster's art is provided in the article. No public surfacing of the original poster have been found since.
 
-## Transcription ##
+<h2> Transcription </h2>
 <blockquote>Chuck E. Cheese says our pizza is good food!
 
 Just one slice of a large 'Big C Combo' pizza has:
@@ -63,4 +64,4 @@ The four basic food groups are well represented in our 'Big C Combo' pizza. Two 
 
 Nutritional Evaluation of Pizza Time Theatre Inc's 'Big C Combo' pizza was prepared by a Registered ??????? who is a Member of the American Dietetic Association</blockquote>
 
-## References ##
+<h2> References </h2>

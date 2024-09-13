@@ -16,74 +16,74 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 |d1 download=https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|d1 name=Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)}}
 
-The **_July 1993 Show**_ was the segmented show which played during the summer of 1993 at Chuck E. Cheese's.
+The <b><i>July 1993 Show</b></i> was the segmented show which played during the summer of 1993 at Chuck E. Cheese's.
 
-## Production ##
+<h2> Production </h2>
 During development, the show was originally going to be set for May of 1993, but was delayed to July.<ref name=':0'>https://youtu.be/teR6WipX_5s</ref>
 
-### Cut Song ###
-The original version of **Segment 2** was to start with _Do You Believe In Magic,_ followed by the cut song _Pasqually Come Home_. The final version has _Feel the Rhythm_ as the beginning song, which has transitional dialogue into _Do You Believe In Magic_ not present in the cut version.<ref name=':0' />
+<h2>= Cut Song </h2>=
+The original version of <b>Segment 2</b> was to start with <i>Do You Believe In Magic,</i> followed by the cut song <i>Pasqually Come Home</i>. The final version has <i>Feel the Rhythm</i> as the beginning song, which has transitional dialogue into <i>Do You Believe In Magic</i> not present in the cut version.<ref name=':0' />
 
-##Show List ##
-#**Intermission 1**
+<h2>Show List </h2>
+#<b>Intermission 1</b>
 ##Guessing Game
 ##VJ Spot
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##Ball Crawl
 ##Hand Jive
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Twinkle Twinkle
 ##CEC TV '93 ID
 ##Birthday Star
 ##Mailman
 ##VJ Spot
 ##Geography Rap - 'Oceans'
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##Feel The Rhythm
 ##Do You Believe In Magic
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##These Hands
 ##Birthday Star
 ##Midnight Special
 ##VJ Spot
 ##CEC TV Classic ID
 ##1 Minute Countdown
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##Clock Tells Me (Time for Chuck E.'s Place)
 ##I Feel Good
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Train Ride
 ##Birthday Star
 ##CEC TV Classic ID
 ##Home On The Range
 ##Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
 ##1 Minute Countdown
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##Ball Crawl
 ##Hand Jive
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Rock It Up
 ##Birthday Star
 ##Possibilities
 ##3 Minute Countdown
 ##What-Do-You-Want-To Bee
 ##VJ Spot
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##Feel The Rhythm
 ##Do You Believe In Magic
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Take Me Out To The Ballgame
 ##Birthday Star
 ##2 Minute Countdown
 ##Vamos A Bailar
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##Clock Tells Me (Time for Chuck E.'s Place)
 ##I Feel Good
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Dancing On The Moon
 ##VJ Spot
 
-##Trivia##
+<h2>Trivia</h2>
 *This was the last show to use the intermission format started with [Working For A Living]({{< ref "wiki/Working For A Living.md" >}})
 
-## References ##
+<h2> References </h2>

@@ -10,52 +10,52 @@ gallery = []
 +++
 TODO: The final Betamax Cyberstar tape released for Cyberamics
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Segment 1**
+# <b>Segment 1</b>
 ## Jingle Bells
 ## Sleigh Ride
 ## Rudolph the Red-Nosed Reindeer
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Video 1**
+# <b>Video 1</b>
 ## Looney Tunes - Unknown
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Segment 2**
+# <b>Segment 2</b>
 ## Santa Claus is Coming to Town
 ## Twas The Night Before Christmas
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Video 2**
+# <b>Video 2</b>
 ## Looney Tunes - Unknown
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Segment 3**
+# <b>Segment 3</b>
 ## Twelve Days of Christmas
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 8 Minute Countdown
 ### ?
 ### ?
 ### [https://en.wikipedia.org/wiki/Christmas_All_Over_the_World Happy Holidays To You]
 ## It's Showtime!
-# **Video 3**
+# <b>Video 3</b>
 ## [https://en.wikipedia.org/wiki/Fast_and_Furry-ous Looney Tunes - Fast and Furry-ous]
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## 8 Minute Countdown
 ## It's Showtime!
-# **Segment 4**
+# <b>Segment 4</b>
 ## The Christmas Song (Chestnuts Roasting on an Open Fire)
 ## We Wish You a Merry Christmas
 ## Winter Wonderland
 ## Have Yourself a Merry Little Christmas
 ## We Need a Little Christmas
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

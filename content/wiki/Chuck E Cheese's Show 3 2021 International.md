@@ -17,48 +17,48 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 3 2021 International**_ is the Summer show released July 16th 2021 featuring a variety of Summer songs
+<b><i>Show 3 2021 International</b></i> is the Summer show released July 16th 2021 featuring a variety of Summer songs
 
 This show features 6 Songs with 4 of which being new and a live show called Chuck E.'s Beach Party Bash.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
 ## Ants Ants Ants - 'Blue'
 ## KIDZ BOP Kidz - 'Friends'
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Chuck E. & Friends - 'Song of Summer'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## KIDZ BOP Kids - 'Uptown Funk'
 ## Tails of Friendship - 'Ronnie the Unicorn'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Let's Be Friends'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Safety Message
 ## Danny Weinkauf - 'ICE CREAM'
 ## KIDZ BOP Kids - 'I Love It'
-# **Skit 3** 
+# <b>Skit 3</b> 
 ## Helen Henny -  'Disco Dancing Dinosaur Party'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Milo Manheim - 'We Own the Summer'
 ## Summer Jokes From Pasqually
 ## KIDZ BOP Kids - 'Cake By The Ocean'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Jasper T. Jowls - 'Dog Days of Summer'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Safety Message
 ## Chris Stapleton - 'Second One To Know'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'Out of This World'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## KIDZ BOP Kidz - 'I Like It'
 ## Milo the Dinosaur
 ## AREA 21 - 'LA LA LA'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Helen - 'I Dare You Not To Laugh'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 #Birthday Show (Cyberamic, Studio C, Weigl)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
 #Birthday Show (Live at Home) (Cyberamic, Studio C,Weigl)

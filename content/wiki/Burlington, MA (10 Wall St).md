@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-04-21T23:36:32Z
 
 [Article]
+pageThumbnailFile = "CEC bur.jpg|Exterior (Unknown Year)"
 contributors = ["Rexburg090","CEC Tinley","73.227.134.239","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=CEC bur.jpg|desc=Exterior (Unknown Year)}}
 
-**_10 Wall St, Store #488**_ was a Chuck E. Cheeses in Burlington, Massachusetts. The location opened August 4, 1992, and closed July 16, 2017. The store was located in an unnamed plaza.
 
-## History ##
+<b><i>10 Wall St, Store #488</b></i> was a Chuck E. Cheeses in Burlington, Massachusetts. The location opened August 4, 1992, and closed July 16, 2017. The store was located in an unnamed plaza.
+
+<h2> History </h2>
 Burlington opened in an unnamed plaza on August 4th, 1992; almost two months after [Orange]({{< ref "wiki/Orange, CT (82 Boston Post Rd).md" >}}) & two weeks before Worcester. This was the second 2-Stage installed in the New England region and first in Massachusetts. Unlike many of them at the time, this location had Jasper's banjo, much like Orange, which opened almost 2 months prior & Worcester which opened 2 weeks later. 
 
 In 1994/1995, They received a remodel and got the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) game package, adding the Thumb Chuck exterior they had until closing.  
@@ -33,7 +34,7 @@ On June 26th, 2017, the store announced that they would close due to leasing iss
 
 Finally on July 16th, 2017, Burlington was permanently closed and it’s now a X Golf center. 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -46,7 +47,7 @@ Finally on July 16th, 2017, Burlington was permanently closed and it’s now a X
 |One of Five installed in Massachusetts. Parts of the store's show sent to [Springfield, MA (1716 Boston Rd)]({{< ref "wiki/Springfield, MA (1716 Boston Rd).md" >}}) to convert their [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) into one of two [Cyberamic 3-Stages]({{< ref "wiki/Cyberamic 3-Stage.md" >}}), now Destroyed.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronics
 !Manufacturing Date
@@ -81,5 +82,5 @@ Finally on July 16th, 2017, Burlington was permanently closed and it’s now a X
 
 
 
-## Videos ##
+<h2> Videos </h2>
 (WIP)

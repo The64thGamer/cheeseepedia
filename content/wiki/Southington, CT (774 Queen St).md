@@ -8,9 +8,9 @@ date = 2024-04-23T20:45:44Z
 contributors = ["Ryys123"]
 gallery = ["PTT Newspaper Southington Opening.jpg|thumb|This is a Newspaper where Southington, CT Opens at 774 Queen Street."]
 +++
-**774 Queen Street** was a Chuck E. Cheese's Pizza Time Theatre in Southington, CT that opened in July 1983 and closed in 1985. It used to be in the ShopRite Plaza (Where it used to be called Edwards Plaza). It was in the corner of the plaza (where it's now a JOANN).
+<b>774 Queen Street</b> was a Chuck E. Cheese's Pizza Time Theatre in Southington, CT that opened in July 1983 and closed in 1985. It used to be in the ShopRite Plaza (Where it used to be called Edwards Plaza). It was in the corner of the plaza (where it's now a JOANN).
 
-## Stages ##
+<h2> Stages </h2>
 Southington opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
 {| class='wikitable'
 |+
@@ -23,7 +23,7 @@ Southington opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage
 |1985
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 |Animatronics

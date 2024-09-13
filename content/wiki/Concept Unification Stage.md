@@ -5,34 +5,35 @@ tags = ["Stage Variations"]
 date = 2024-09-13T01:51:36Z
 
 [Article]
+pageThumbnailFile = "Laurel3Stage.jpg|The 3-Stage in Laurel, MD (removed in June 2022)."
 contributors = ["ShowbizMidwest","Montfortdog","Maddox121","The 64th Gamer","Store556.","ThatBoiCydalan","Documentor","Rileypaulson","CECBowlingGreen","Rexburg090","Noahrbxt","2603:6011:5901:C300:8CAA:5C5E:450A:823E","Ceclife13","2600:4040:129B:6C00:56D:E38A:6B2C:5AF0","ChuckEPediaIsTheBest!","Epicniceperson","Stripes","107.147.190.172","ShowbizChuck","64.125.60.2","CECFan2023","2600:1702:190:D20:4569:B2A:AB67:1967","BoyInCharge55","JamesLemony","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CyCGM","PizzaEntertainmentFanX","CECMentor","Livelycheese","Cecanddisneyfan2004","AstridMascotFan2005","Cy's Junk at School","CECLover"]
 gallery = []
 +++
-{{Generic|image=Laurel3Stage.jpg|desc=The 3-Stage in Laurel, MD (removed in June 2022).}}
-The **_Concept Unification Stage**_ (Also known as the **_3-Stage**_) is a stage originally created during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) as a retrofit of all [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) shows that replaced all cosmetics with Chuck E. Cheese cosmetics.  
 
-##History##
+The <b><i>Concept Unification Stage</b></i> (Also known as the <b><i>3-Stage</b></i>) is a stage originally created during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) as a retrofit of all [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) shows that replaced all cosmetics with Chuck E. Cheese cosmetics.  
 
-### Concept Unification ###
+<h2>History</h2>
+
+<h2>= Concept Unification </h2>=
 After the failed execution of the [Concept Unification Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}}), Showbiz Corporate decided that the design of the Stage should remain similar to the Rock-afire Explosion. Cosmetics for the characters were provided by Diversified Designs, and props were produced by Corman & Associates<ref>https://archive.org/details/concept-unification-installation-manual</ref>.  
 
-The first 3-Stage was installed at [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) in June 1990. Five more test shows followed that year, at the [Phoenix, AZ (8039 North 35th Ave)]({{< ref "wiki/Phoenix, AZ (8039 North 35th Ave).md" >}}), [Arlington, TX (3200 Justiss Dr)]({{< ref "wiki/Arlington, TX (3200 Justiss Dr).md" >}}), Mesa (West), AZ (856 S Alma School Rd), [Altamonte Springs, FL (541 W Hwy 436)]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).md" >}}), and [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) locations. A recorded demo of the stage in action was provided to stores at the end of [SPP Christmas '90]({{< ref "wiki/SPP Christmas '90.md" >}}), though informal sources cite 1989 incorrectly<ref>https://www.youtube.com/watch?v=WgHL-OZ8ybY</ref>. In 1991, stores were given the [Concept Unification Installation Manual]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) and guidance tape to undergo the conversion process<ref>https://archive.org/details/concept-unification</ref>. Generally, Concept Unification lasted from 1991-1993 with 152 [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) shows being converted.
+The first 3-Stage was installed at [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) in June 1990. Five more test shows followed that year, at the [Phoenix, AZ (8039 North 35th Ave)]({{< ref "wiki/Phoenix, AZ (8039 North 35th Ave).md" >}}), [Arlington, TX (3200 Justiss Dr)]({{< ref "wiki/Arlington, TX (3200 Justiss Dr).md" >}}), Mesa (West), AZ (856 S Alma School Rd), [Altamonte Springs, FL (541 W Hwy 436)]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).md" >}}), and [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) locations. A recorded demo of the stage in action was provided to stores at the end of [SPP Christmas '90]({{< ref "wiki/SPP Christmas '90.md" >}}), though informal sources cite 1989 incorrectly<ref>https:<i>www.youtube.com/watch?v=WgHL-OZ8ybY</ref>. In 1991, stores were given the [Concept Unification Installation Manual]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) and guidance tape to undergo the conversion process<ref>https:</i>archive.org/details/concept-unification</ref>. Generally, Concept Unification lasted from 1991-1993 with 152 [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) shows being converted.
 
-### Post-Concept Unification ###
+<h2>= Post-Concept Unification </h2>=
 3-Stage shows have been prime targets for removal since the mid-1990s. In August 1996, the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) was installed at the Dallas Montfort location to be installed directly on top of a 3-Stage<ref>https://www.youtube.com/watch?v=0zqMGkGV9xc</ref>. [Studio C]({{< ref "wiki/Studio C.md" >}}) was tested in 1997, and officially rolled out in 1998. Between 1998 and 2000, 27 3-Stages were removed and replaced with [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) shows. The trend of replacing existing stages continued through the 2000s as 17 shows were replaced with [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). In the 2010s, [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) replaced 3 of the shows. Between 2017 and 2024, 35 were replaced with the [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
 
-Although 3-Stages were seen as obsolete and considered lower priority after the mid 1990s, plastic cosmetics were made by Cowan Costumes to replace existing latex masks, hands, feet, and shoes<ref>https://archive.org/details/munch-mask-retro-document/</ref><ref>https://archive.org/details/3-stage-mask-prototype-scans/</ref>. Replacement cosmetics for prop characters were never manufactured, so characters such as [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) and [Munch Jr.]({{< ref "wiki/Choo Choo (Animatronic).md" >}}) were commonly removed from shows in the 2000s.
+Although 3-Stages were seen as obsolete and considered lower priority after the mid 1990s, plastic cosmetics were made by Cowan Costumes to replace existing latex masks, hands, feet, and shoes<ref>https:<i>archive.org/details/munch-mask-retro-document/</ref><ref>https:</i>archive.org/details/3-stage-mask-prototype-scans/</ref>. Replacement cosmetics for prop characters were never manufactured, so characters such as [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) and [Munch Jr.]({{< ref "wiki/Choo Choo (Animatronic).md" >}}) were commonly removed from shows in the 2000s.
 
 Due to the CEC 2.0 Remodel initiative, 3-Stage shows have vanished rapidly from stores. As of July 28, 2024, only one store retains a complete 3-Stage show, and another has the [Concept Unification 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}). 2024 saw the removal of four 3-Stages in [Visalia, CA (4345 W Noble Ave)]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}}), [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}), [Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}}), and [Billings, MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}}). The sole remaining 3-Stage still in existence, [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}), has been kept in-store following the 2.0 remodel as the company's official preservation of the CU 3-Stage<ref>https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html</ref>.
 
-##Design##
+<h2>Design</h2>
 
-###Stage Left ###
+<h2>=Stage Left </h2>=
 Stage Left features [Pasqually]({{< ref "wiki/Dook Larue (Animatronic).md" >}}) on a raised pedestal with a drum set, the bass drum containing a flood light. The original plexiglass replacement for the drum front was orange, with a swirl pattern and stars. However, this was varied upon installations. Behind Pasqually is a brick-wall backdrop which reads 'Pasqually's Amateur Hour' and has top and bottom molding with a center keystone. Depending on a location's configuration, if the control room was located on Stage Left, a partial wall was built to support the backdrop.
 
 Next to Pasqually is [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}), inside a speaker box. Early installations also contained a [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) which were later removed. Pizzacam was removed from many stages in the 2000s. The last originally installed Pizzacam, at the Huntsville, AL (1220 Jordan Lane) store, was removed in March 2023. On June 18, 2024, the Pizzacam animatronic that was at [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}) until 2022 was reinstalled at [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) as part of their [CEC Legacy]({{< ref "wiki/CEC Legacy Locations.md" >}}) renovations.
 
-###Center Stage###
+<h2>=Center Stage</h2>=
 Center Stage features [Helen Henny]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}}), [Mr. Munch]({{< ref "wiki/Mr Munch.md" >}}), and [Jasper T. Jowls]({{< ref "wiki/Beach Bear (Animatronic).md" >}}) in front of a city backdrop, lined with flower boxes. More than one [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) were placed on early installations, but later removed. At the center of the stage is the 'Munch's Make Believe Band' sign which lights up in various configurations. Behind the building backdrop is a fiber-optic curtain which simulates a starry sky.
 
 Helen is on the left of the stage, with [Building]({{< ref "wiki/Sun (Animatronic).md" >}}) rising behind her. To her right is [Munch Jr.]({{< ref "wiki/Choo Choo (Animatronic).md" >}}), who peeks out of a metal can. At the center of the stage is organ-playing Mr. Munch. Jasper is on the right of the stage and sits on a large metal can with his guitar. [Moon]({{< ref "wiki/Moon (Animatronic).md" >}}) rises behind Jasper.
@@ -43,27 +44,27 @@ In 1994, the spotlight for Munch Jr. was reconfigured to become the 'Gobo' light
 
 Prop characters had been subject to removal since the early 2000s. The last original Munch Jr. was removed in October 2020, although the character was reinstalled at the [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}) location in 2022<ref>https://www.youtube.com/shorts/zhSxUG5K118</ref> in the form of a fan-made project. The Charlotte location also has Building and Moon.
 
-###Stage Right###
+<h2>=Stage Right</h2>=
 Stage Right features [Chuck E. Cheese]({{< ref "wiki/Chuck E Cheese.md" >}}) atop a black speckled triangular platform, in front of a star-shaped light and black rain curtain backdrop. To the right of the star, a red neon sign affixed to the backdrop flashes 'Chuck E. Cheese' and is located above a 50' Pioneer monitor designed to look like a jukebox with a flashing top piece.
 
 Many locations with the 3-Stage shows removed the triangular platform to be able to easily access the trap door underneath.
 
-## Stage Effects ##
+<h2> Stage Effects </h2>
 The 3-Stage had a variety of show effects that would be added and removed over the years, with most stopping by the late 2000's.
 
-### Curtains ###
+<h2>= Curtains </h2>=
 Curtains would continue to be used until September of 2005, where stores would disable their curtains, leaving all three open at all times. The last showtape to program new segments with curtain signals was the [September 2005 Show]({{< ref "wiki/September 2005 Show.md" >}}), though reused segments and live shows with curtain signals would continue to appear up until the [January 2014 Show]({{< ref "wiki/January 2014 Show.md" >}}).
 
-### Munch Jr. Spotlight / Gobo Light ###
+<h2>= Munch Jr. Spotlight / Gobo Light </h2>=
 During the 3-Stage's first few years, the original Antioch spotlight used for the Rock-afire would instead be pointed at Munch Jr. This changed with the [September '94]({{< ref "wiki/September '94.md" >}}) show, where stores added a gobo to the spotlight reading 'The Chuck E. Cheese Show', and pointed it at the center stage. This gobo light would then be used going forward for the introduction of showtape segments, no longer being used for Munch Jr. The last showtape to program new segments with gobo signals was the [September 2005 Show]({{< ref "wiki/Super Chuck Summer Show 2005.md" >}}), though reused segments and live shows with gobo signals would continue to appear up until the [January 2014 Show]({{< ref "wiki/January 2014 Show.md" >}}).
 
-### House Lights ###
+<h2>= House Lights </h2>=
 The house lights were a programmable signal for controlling the showroom lights, allowing the entire room to dim. This function would remain unused until [CEC American Pride]({{< ref "wiki/CEC American Pride.md" >}}) which used up the original bit number for Billy Bobs Body Lean. This would originally reuse the bit associated with Billy Bobs Body Lean. be Despite this being a newly installed effect for the 3-Stage, it wouldn't go used until some time between the [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}) show and the [July 1993 Show]({{< ref "wiki/July 1993 Show.md" >}}). During its usage, the lights would only dim once a programmed segment would start, and were never programmed in any special way outside of this function. The lights would stop being programmed for new segments after the [September 2006 Show]({{< ref "wiki/September 2006 Show.md" >}}).
 
-### Flower ###
+<h2>= Flower </h2>=
 The [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) was a special effect only tested in a few Texas stores after the debut of the 3-Stage. Its only movement is its mouth, which used up the original bit number for Dook's left ear movement, going unused when Concept Unification converted him to Pasqually. Its earliest known appearance being programmed in a showtape is the [CEC Rock It In Space]({{< ref "wiki/CEC Rock It In Space.md" >}}) show, and its last known is the [Awesome Adventure Machine (Show)]({{< ref "wiki/Awesome Adventure Machine (Show).md" >}}).  though reused segments and live shows with flower signals would continue to appear up until the [January 2006 Show]({{< ref "wiki/January 2006 Show.md" >}}).
 
-## Character Conversions ##
+<h2> Character Conversions </h2>
 {| class='wikitable'
 |+Cosmetic Changes Made During Concept Unification
 !Rock-afire Explosion Character
@@ -109,7 +110,7 @@ The [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) was
 
 
 
-##Current 3-Stage##
+<h2>Current 3-Stage</h2>
 {| class='wikitable'
 |+
 !Store
@@ -121,7 +122,7 @@ The [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) was
 |Very good condition. Munch's organ reads 'CEC' and has an uncovered Wink. Features all prop characters. Has original side curtains and green valance. Last 3-Stage in a Chuck E. Cheese location. One of five animatronic stages to remain intact, those being the [Northridge, CA]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) [2-Stage]({{< ref "wiki/2-Stage.md" >}}), [Nanuet, NY]({{< ref "wiki/Nanuet, NY (250 West Route 59).md" >}}) [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), [Springfield, IL]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}), and [Hicksville, NY]({{< ref "wiki/Hicksville, NY (Delco Plaza 11-15 Hanover Place).md" >}}) [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 |}
 
-## Former 3-Stages ##
+<h2> Former 3-Stages </h2>
 Note: Contains only confirmed installations, and may not be in order.
 {| class='wikitable'
 |+
@@ -891,5 +892,5 @@ Note: Contains only confirmed installations, and may not be in order.
 |Third and last 3-Stage installed in a new Chuck E. Cheese's location. Transferred the Guatemala City (Ave La Reforma) location. Was in Very Poor Condition. Chuck had homemade 'Cool Chuck' outfit, Jasper & Pasqually had latex masks, Pasqually had a Red & White checkered apron and a plain white drumfront, the stage had wood tiling and tiled floors, Wink had 'In Pizza We Trust' slogan, and stage had 2-Stage CEC neon sign. 3-Stage animatronics and some props from this stage were relocated to the new Concepcion County, Guatemala location in November 2016 as on-display pieces, where they remain today.
 |}
 
-## References ##
+<h2> References </h2>
 <references />

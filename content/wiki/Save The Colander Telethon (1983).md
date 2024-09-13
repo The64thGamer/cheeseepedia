@@ -8,26 +8,26 @@ date = 2024-03-06T20:23:32Z
 contributors = ["The 64th Gamer"]
 gallery = ["Colandertelethonaaronactor.png|thumb|266x266px|Aaron Fechter demonstrating the live performance employees will need to do during the 'History of the Colander' special show.","Colanderinstallationsegment.png|thumb|265x265px|Measurement of the character eyeline to the colander during the colander installation portion of the tape."]
 +++
-{{VideoMedia|imageUsedForThumbnail=Savethecolandertelethon.png|youTubeVideoLink=C0dD4y_D9kM|length=01:23:48|betamax=y|date=1983}}
 
-The **_Save The Colander Telethon**_ is a video tape sent to ShowBiz Pizza Place stores in February of 1983 with their [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) package.
+
+The <b><i>Save The Colander Telethon</b></i> is a video tape sent to ShowBiz Pizza Place stores in February of 1983 with their [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) package.
 
 The tape is 01:23:48 long, and mostly contains the telethon segment, while also containing a colander installation tape for the animatronic characters during the event.
 
-## Fake Event ##
+<h2> Fake Event </h2>
 Despite the telethon obviously not being live when it was sent as a video tape to ShowBiz Stores, reuploads of the event online decades later without proper context would not give the joke away to viewers, causing them to possibly believe it was live until the very end of the tape where Aaron Fechter spells it out.
 
 Without prior knowledge of the event, the only way to guess before the end that the telethon wasn't live is realizing the scripted final segment of missing one store from the pledges.
 
-## Summary ##
+<h2> Summary </h2>
 
-The **_Save The Colander Telethon**_ is a simulated telethon that pretends to be gathering pledges from ShowBiz Pizza Place stores across the country live for their support to make the [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) event a reality.
+The <b><i>Save The Colander Telethon</b></i> is a simulated telethon that pretends to be gathering pledges from ShowBiz Pizza Place stores across the country live for their support to make the [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) event a reality.
 
 In actuality, the event was already confirmed to be happening, and stores that received this tape also received all promo items needed for the event. The tape's true purpose is to hype up stores for the event by showcasing the Colander-head movement, alongside demonstrations of the upcoming [Crazy Colander Head Night]({{< ref "wiki/Crazy Colander Head Night.md" >}}) showtape songs, and demonstrations of the [Colander History and Indoctrination]({{< ref "wiki/3 Birthday Shows - Colander History - Indoctrination Skit.md" >}}) that employees will perform with guests.
 
 The event would physically take place in Creative Engineering, with the audience comprising entirely of Creative Engineering employees. All of them would receive a signed character photo after the event.
 
-### Contents Summary ###
+<h2>= Contents Summary </h2>=
 The tape opens with the event's main song, 'Strain Your Brain'. This is then followed up by an introduction to a fake celebrity guest, being Lawrence Welk- actually played by Fatz's voice actor Burt Wilson. Lawrence Welk was an obsession of Burt, whom would often reference him in Rock-afire Explosion showtapes when writing them.<ref>http://www.showbizpizza.com/rae/characters/fatz.html</ref>
 
 The tape then shows various departments and behind the scenes looks at Creative Engineering. Notably the 2nd Generation Beach Bear Prototype (Animatronic) (2nd Generation Beach Bear Prototype) can be seen during this segment. Next the first fake total pledge count is revealed to be 3, and Aaron Fechter goes into explaining the telethon to viewers. After this, a tape of the 'History of the Colander' segment is shown with Aaron as the demonstrative employee stand-in. After this the second restaurant total is brought up to 89.
@@ -40,7 +40,7 @@ Next the audience takes the Colander-head oath, a demonstration for when employe
 
 Lastly is the colander installation portion of the tape. This section shows what tools will be needed, installation of Billy Bob's colander, and proper measurements for the rest of the characters.
 
-## Contents ##
+<h2> Contents </h2>
 
 * 00:00 - 'Strain Your Brain'
 * 04:39 - Telethon Introduction by Jeff Howell.
@@ -77,4 +77,4 @@ Lastly is the colander installation portion of the tape. This section shows what
 * 1:22:57 - Installation Outro
 * 1:23:38 - Looney Tunes Gag Outro
 
-## References ##
+<h2> References </h2>

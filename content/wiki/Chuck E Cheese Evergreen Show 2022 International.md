@@ -17,48 +17,48 @@ gallery = []
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Evergreen Show 2022 International**_ is the generic show released January 3, 2022.
+<b><i>Evergreen Show 2022 International</b></i> is the generic show released January 3, 2022.
 
 This was created with the idea to play between promotional events. Runs from January 3, 2022 to  Existing/SD: March 12, 2022 Weigl: March 15, 2022. This song features 6 Songs with the automatic live being Me & My Friends.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Safety Message
 ## KIDZ Bop Kids - 'Telepatía'
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Helen Henny - 'Game On!'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Kidloom - 'A Funny Band'
 ## Tails of Friendship with Jasper T. Jowls - Episode #1
 ## KIDZ Bop Kids - 'Reggatón Lento'
-# **Skit 2** 
-## Chuck E. & Pasqually - 'Keep Drummin_
-# **Intermission 2** 
+# <b>Skit 2</b> 
+## Chuck E. & Pasqually - 'Keep Drummin''
+# <b>Intermission 2</b> 
 ## Safety Message
 ## Dany Weinkauf - 'Tricycle'
 ## Kidz Bop Kids - 'Levitating'
-# **Skit 3**
+# <b>Skit 3</b>
 ## DJ Munch - 'DJ Munch Mashup'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Juicebox Jukebox - 'Shh, Apes!'
 ## One Republic - 'Recuse Me'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Rockin' Robot'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Safety Message
 ## Danny Weinkauf - 'Marsupial'
 ## Kidz Bop - 'Drivers License'
-# **Skit 5** 
+# <b>Skit 5</b> 
 ## Chuck E. & Friends - 'It's The 70s'
-# **Intermission 5** 
+# <b>Intermission 5</b> 
 ## Andy Grammer - 'Lease On Life'
 ## Ants Ants Ants - 'Pinwheel'
 ## Kidz Bop Kids - 'Goosebumps'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Friends - 'Chuck E.'s Middle Name'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

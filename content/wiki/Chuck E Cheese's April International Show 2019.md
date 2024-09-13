@@ -17,92 +17,92 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's April International Show 2019**_
+<b><i>Chuck E. Cheese's April International Show 2019</b></i>
 
 This was created to play from April to June 2019. Featuring 5/6, 2 songs are new with 3/4 being reused.
 
 This show had a different show list for Existing/SD and HD this would only effect the order for everything past Intermission 5.
 
-## Existing/Studio C SD Show List: ##
+<h2> Existing/Studio C SD Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Tails of Friendship with Jasper T. Jowls Episode 1
 ## Kabillion - 'The OddBods'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## YouTube Promo 1
 ## Barbie Blogs - “Favorite Fashion And Hairstyles”
 ## Post Malone feat. Swea Lee - 'Sunflower'
 ## “Kitten In The Kitchen Wearing Mittens”
 ## CEC TV ID - “Singin Animals”
 ## Mr. Munch 1 Minute Countdown (Retro)
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Dancin' Kitten'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Fun Facts With Chuck E. Cheese - 'Math'
 ## Universal Kids - 'Nina’s World'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. Cheese - 'More Cheese'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## YouTube Promo 2
 ## Kabillion - 'The OddBods'
 ## New Hope Club - “Good Day”
 ## Musings With Mr. Munch Ep.1
 ## Mr. Munch 1 Minute Countdown (Retro)
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Barbie Blogs - “Finger Tutting”
 ## Universal Kids - 'Nina’s World'
 ## Show Break 1
 ## CEC TV ID - Claw Machine
-# **Skit 5**
+# <b>Skit 5</b>
 ## Jasper & Chuck E. - 'Nothing Like a Walk'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## YouTube Promo 3
 ## Show Break 2
 ## CEC TV ID - 'Skydiving Cheese'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Helen - 'It's A Date'
 
-## Studio C HD Show List: ##
+<h2> Studio C HD Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Tails of Friendship with Jasper T. Jowls Episode 1
 ## Kabillion - 'The OddBods'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## YouTube Promo 1
 ## Barbie Blogs - “Favorite Fashion And Hairstyles”
 ## Post Malone feat. Swea Lee - 'Sunflower'
 ## “Kitten In The Kitchen Wearing Mittens”
 ## CEC TV ID - “Singin Animals”
 ## Mr. Munch 1 Minute Countdown (Retro)
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Dancin' Kitten'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Fun Facts With Chuck E. Cheese - 'Math'
 ## Universal Kids - 'Nina’s World'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. Cheese - 'More Cheese'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## YouTube Promo 2
 ## Kabillion - 'The OddBods'
 ## New Hope Club - “Good Day”
 ## Musings With Mr. Munch Ep.1
 ## Mr. Munch 1 Minute Countdown (Retro)
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Barbie Blogs - “Finger Tutting”
 ## Universal Kids - 'Nina’s World'
 ## Show Break 1
 ## CEC TV ID - Claw Machine
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## YouTube Promo 3
 ## Show Break 2
 ## CEC TV ID - 'Skydiving Cheese'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Jasper & Chuck E. - 'Nothing Like a Walk'

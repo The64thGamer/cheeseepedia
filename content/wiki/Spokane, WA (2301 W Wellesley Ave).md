@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-06-25T18:39:34Z
 
 [Article]
+pageThumbnailFile = "SpokanePTTjpeg.jpeg|Spokane’s exterior as a PTT"
 contributors = ["ChuckECool","CEC Tinley","Rexburg090","199.197.71.213","199.197.73.149","2605:AD80:31:19FD:C84B:E17E:B579:CFBE","CorrectorMan","2601:601:8783:5B10:A563:E33B:15C4:304D","SuperCreamPiper2008","Cecanddisneyfan2004","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=SpokanePTTjpeg.jpeg|desc=Spokane’s exterior as a PTT}}
-**_2301 West Wellesley Avenue**_ also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983, with Balcony Stage and relocated in March 2000 with a 2-Stage.
+
+<b><i>2301 West Wellesley Avenue</b></i> also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983, with Balcony Stage and relocated in March 2000 with a 2-Stage.
 
 It was located in the Shadle Center, but it is unknown what CEC was right next to.
-##History##
+<h2>History</h2>
 Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program (1988 Remodel) in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to [10007 N Nevada St]({{< ref "wiki/Spokane, WA (10007 N Nevada St).md" >}}) as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
 
-## Incidents ##
+<h2> Incidents </h2>
 On September 17, 1984, a man named Dennis E. Archambeault burned down his pizza parlor because of this location. The pizza place, which was called Dimes N Critters, was burned. It happened because someone splashed gasoline and committed arson. The fire was started in the stage area where the animatronics were performing.<ref> https://www.newspapers.com/article/35469431/spokane_chronicle/
 </ref>
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -42,7 +43,7 @@ On September 17, 1984, a man named Dennis E. Archambeault burned down his pizza 
 |March 2000
 |Only one Installed in Washington State. Sent to [Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}) to be converted into one of two [Cyberamic 3-Stages]({{< ref "wiki/Cyberamic 3-Stage.md" >}}).
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -95,7 +96,7 @@ On September 17, 1984, a man named Dennis E. Archambeault burned down his pizza 
 |}
 
 TODO
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -115,4 +116,4 @@ TODO
 |
 |}
 
-##References##
+<h2>References</h2>

@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-09-08T00:27:03Z
 
 [Article]
+pageThumbnailFile = "MilwaukeeExteriorSept21.jpg|Milwaukee before the 2.0 remodel. (September 2021)"
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]
 gallery = []
 +++
-{{Generic|image=MilwaukeeExteriorSept21.jpg|desc=Milwaukee before the 2.0 remodel. (September 2021)}}
-**_2701 S Chase Ave, Store #842**_ is a _Chuck E. Cheese's_ that opened in April 1983 as a _Pizza Time Theatre_ with a Balcony Stage. 
 
-Milwaukee was a former _Pizza Time Theatre_ and was the third to open in the state. It was one of the select few stores that got the Cheese E. Street concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel.
+<b><i>2701 S Chase Ave, Store #842</b></i> is a <i>Chuck E. Cheese's</i> that opened in April 1983 as a <i>Pizza Time Theatre</i> with a Balcony Stage. 
+
+Milwaukee was a former <i>Pizza Time Theatre</i> and was the third to open in the state. It was one of the select few stores that got the Cheese E. Street concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel.
 
 Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.  
 
-##Stages##
+<h2>Stages</h2>
 Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath compared to Mr. Munch’s usual Magic Madhouse. In 1990, Milwaukee received Chuck E.’s House Facade, and in 1994, received a 1-Stage with a turntable, and received a Dance Floor and Video Wall in 2024. Over the years, updates to the show included new masks in 2001 and 2002, and the replacement of Chuck E.’s tuxedo with the Cool Chuck outfit in 2007. In January 2023, the entire head on Helen and Jasper’s masks were swapped for the ones from [Chicago, IL]({{< ref "wiki/Chicago, IL (1830 W Fullerton Ave).md" >}}) which received 2.0 in August 2022. Milwaukee also had the last Helicopter Light in any store besides the Chuck E. Cheese's Corporate Office (Corporate Offices).  
 
 The stage was unfortunately removed on August 18th, 2024 when they received the refresh.   
@@ -42,12 +43,12 @@ The stage was unfortunately removed on August 18th, 2024 when they received the 
 |Still in use.
 |}
 
-## History##
+<h2> History</h2>
 As previously mentioned, Milwaukee was one of the first stores to receive and open Cheese E. Street in their game room. Cheese E. Street was removed by 1995. As for cabaret acts, Milwaukee is known to have had The King. There is currently no info on if Milwaukee ever had any other cabaret acts, or when the lounge itself was removed. 
 
 Milwaukee started the 2.0 remodel on August 18th, 2024. 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -69,7 +70,7 @@ Milwaukee started the 2.0 remodel on August 18th, 2024.
  
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 
 {| class='wikitable'
 |+
@@ -118,4 +119,4 @@ Milwaukee started the 2.0 remodel on August 18th, 2024.
 |Destroyed
 |}
 
-##References##
+<h2>References</h2>

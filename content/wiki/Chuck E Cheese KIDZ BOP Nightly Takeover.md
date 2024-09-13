@@ -8,13 +8,13 @@ date = 2024-07-29T17:03:36Z
 contributors = ["Documentor","Dame0824","The 64th Gamer","ThatBoiCydalan"]
 gallery = []
 +++
-{{Showtape|title=Summer Show 2024|image=Kidzbopnightofnights.png|date=July 8th, 2024|studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
+
 
 Chuck E. Cheese KIDZ BOP Nightly Takeover is the night summer show released July 8, 2024.
 
 This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuck E. Cheese. This showtape features 0 programmed CEC songs. This show runs from 6pm to closing, the [Chuck E. Cheese Summer Show 2024 Part 2]({{< ref "wiki/Chuck E Cheese Summer Show 2024 Part 2.md" >}}) will play outside the timeframe for this show. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
 # KIDZ BOP Kids - 'Havana' 
 # KIDZ BOP Kids - 'Uptown Funk' 
@@ -48,7 +48,7 @@ This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuc
 # KIDZ BOP Kids - 'Padam Padam' 
 # Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)

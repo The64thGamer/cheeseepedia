@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-07-14T03:29:29Z
 
 [Article]
+pageThumbnailFile = "Manchester CT 2.0 Exterior.jpg|Exterior, November 2023 (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FC:D100:C1F2:3ADD:2F05:25C2","216.125.34.66","Harchambeault2026","Cheeseclassic","Jaxonia"]
 gallery = []
 +++
-{{Generic|image=Manchester CT 2.0 Exterior.jpg|desc=Exterior, November 2023 (PC: Google Maps)}}
-**_82 Buckland St, Store #467**_ is a Chuck E. Cheese's location in Manchester, Connecticut that opened on July 12th, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). 
 
-## History ##
+<b><i>82 Buckland St, Store #467</b></i> is a Chuck E. Cheese's location in Manchester, Connecticut that opened on July 12th, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). 
+
+<h2> History </h2>
 Manchester opened July 12th, 1993, in the Shoppes at Burr Corners (Formerly the Plaza at Burr Corners), with a 1-Stage with the Tuxedo & Derby and the [1993 Remodel]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). In the late 1990s, the exterior received its first update which involved repainting the building, replacing the logo with the Thumb Chuck logo, replacing the lettering, and adding red and yellow awnings to cover the checkers they had when they opened. In around 2003-2004, Chuck's Tuxedo & Derby was replaced with the Cool Chuck outfit.
 
 By 2007, Jasper & Pasqually received new masks. In Early 2010, Chuck's mask was replaced with a newer one, which had had until sometime in 2017-2018 in when it was replaced for one last time.
@@ -25,7 +26,7 @@ As of January 2023, Manchester still has the 2.0 Remodel.
 
 On January 16, 2020, the store held its Grand Reopening. As of January 2023, Manchester still has the 2.0 Remodel.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 ! Stage
 !Installed
@@ -45,7 +46,7 @@ On January 16, 2020, the store held its Grand Reopening. As of January 2023, Man
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -57,22 +58,22 @@ On January 16, 2020, the store held its Grand Reopening. As of January 2023, Man
 |September 14, 1993
 |December 6, 2020
 |-
-|[https://www.youtube.com/watch?v=y_Sig-hwt1A https://youtu.be/y_Sig-hwt1A]
+|[https:<i>www.youtube.com/watch?v=y_Sig-hwt1A https:</i>youtu.be/y_Sig-hwt1A]
 |Footage of Cyberamics performing September 2004 Segment 3 'What A Wonderful World'/'Smile'. 
 |October 2nd, 2004
 |December 28, 2012
 |-
-|[https://www.youtube.com/watch?v=OwG1EBoB9nc https://youtu.be/OwG1EBoB9nc]
+|[https:<i>www.youtube.com/watch?v=OwG1EBoB9nc https:</i>youtu.be/OwG1EBoB9nc]
 |Extra Footage from the video above. Recorded on the same date as the above video.
 |October 2nd, 2004
 |August 29, 2020
 |-
-|[https://www.youtube.com/watch?v=8Z0LS279fG4 https://youtu.be/8Z0LS279fG4]
+|[https:<i>www.youtube.com/watch?v=8Z0LS279fG4 https:</i>youtu.be/8Z0LS279fG4]
 |An update of Manchester's 2.0 Remodel before their grand reopening.
 |December 26, 2019
 |December 26, 2019
 |-
-|[https://www.youtube.com/watch?v=ZnBryNr3exY https://www.youtu.be/ZnBryNr3exY]
+|[https:<i>www.youtube.com/watch?v=ZnBryNr3exY https:</i>www.youtu.be/ZnBryNr3exY]
 |Family Fun Vlog where they visit Manchester.
 |March 2023
 |March 19, 2023

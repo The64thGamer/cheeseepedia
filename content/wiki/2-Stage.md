@@ -5,27 +5,28 @@ tags = ["Stage Variations"]
 date = 2024-09-12T01:08:41Z
 
 [Article]
+pageThumbnailFile = "2-Stage Pic 90s.jpg"
 contributors = ["CECBowlingGreen","ShowbizMidwest","129.222.82.23","EagleScout610","Rexburg090","The 64th Gamer","Jaxon11","Noahrbxt","BurgersNuggs445","216.125.34.66","2600:4040:5A0C:5900:C45C:F043:3504:84FE","ThatBoiCydalan","CorrectorMan","Agent 5","Cheeseclassic","Chez","Slussier1","Saan1ty","AstridMascotFan2005","Stripes","CEC1988","Caydenpedia"]
 gallery = []
 +++
-{{Generic|image=2-Stage Pic 90s.jpg}}The **_2-Stage**_ is a stage format found at [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage (Rocker Stage) had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
+The <b><i>2-Stage</b></i> is a stage format found at [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage (Rocker Stage) had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
 
-## History ##
+<h2> History </h2>
 The 2-Stage was created in 1992 to unify all Chuck E.'s House Facade (C-Stage) and [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) locations to one setup and to be consistent with [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and the company's future plans.
 
 The first 2-Stage was installed at the [White Settlement, TX]({{< ref "wiki/White Settlement, TX (7750 Scott St).md" >}}) location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
 
-## Design ##
+<h2> Design </h2>
 The 2-Stage has had multiple different design variations.
 
-### Prototypes ###
+<h2>= Prototypes </h2>=
 [White Settlement, TX's]({{< ref "wiki/White Settlement, TX (7750 Scott St).md" >}}) 2-Stage had 3-Stage buildings and Jasper's can, a solid blue valance, and a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) Munch organ.
 
 [San Antonio, TX's]({{< ref "wiki/San Antonio, TX (8220 Windsor Cross).md" >}}) and [Merced, CA's]({{< ref "wiki/Merced, CA (721 W Olive Ave).md" >}}) (Later at [Chesapeake, VA]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}})) 2-Stages, like White Settlement, also had [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) buildings. Chuck also stood on top of a red platform.
 
 [Herndon, VA's]({{< ref "wiki/Herndon, VA (2465 Centreville Rd).md" >}}) 2-Stage had unique buildings that no other 2-Stage had.
 
-### Standard ###
+<h2>= Standard </h2>=
 The standard 2-Stage design also went through several changes over the years. For starters, there are three different overall stage lengths. 24', 26', and 28'. Depending on the length of the stage, it could have as little as two buildings or as many as four.
 
 Some earlier 2-Stages had a bevel in between Chuck and Helen, where the TV and fiber optic CEC sign are however, they stopped doing this early on into development,
@@ -37,7 +38,7 @@ There were several smaller changes such as the valance varying from green, blue,
 
 
 
-## Current 2-Stages ##
+<h2> Current 2-Stages </h2>
 Current Total Remaining: 4
 {| class='wikitable'
 |+
@@ -67,7 +68,7 @@ Current Total Remaining: 4
 |Former PTT. Opened in 1983 with Balcony Stage, converted to C-Stage, then to 2-Stage. Only 2-Stage outside of the United States. Jasper Has Rare PTT Mask
 |}
 
-## Former 2-Stages ##
+<h2> Former 2-Stages </h2>
 W.I.P
 Note: Contains only confirmed installations, and may not be in order.
 {| class='wikitable'

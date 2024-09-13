@@ -18,91 +18,91 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y}}
 
-**_Chuck E. Cheese Spring Show 2023**_ is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
+<b><i>Chuck E. Cheese Spring Show 2023</b></i> is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
 
 This is the final physical show to be released in the domestic market due to the upcoming installation of the [Navori System]({{< ref "wiki/Navori System.md" >}}) in all domestic stores. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
-##Physical Release Show List##
+<h2>Physical Release Show List</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Ecolab
 ## Food & Drink Combos
 ## CEC YouTube & Music Streaming
 ##  KIDZ BOP Kids - 'KIDZ BOP Never Stop'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese - 'Let's Have A Party'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## CEC Online Store
 ## Samsung
 ##  Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Chuck E. Cheese & Friends - 'In the Future'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## CEC Group Events & Fundraisers
 ## Food & Drink Combos
 ## Dippin' Dots
 ##  KIDZ BOP Kids - 'Break My Heart'
-# **Skit 3** 
+# <b>Skit 3</b> 
 ## Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC Birthdays
 ## CEC YouTube & Music Streaming
 ##  KIDZ BOP Kids - 'Sunroof'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Jasper T. Jowls - 'The Tail of Jasper T.'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## LankyBox - 'Pizza Song'
 ##  Haribo Goldbears
 ##  KIDZ BOP Kids - 'Space Man'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Helen Henny - 'Gamin' Time'
-# **Intermission 6** 
+# <b>Intermission 6</b> 
 ## Dippin' Dots
 ## Food & Drink Combos
 ## Ecolab
 ## LankyBox - 'Donut Song'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. Cheese - 'Crochet All Day'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Katy Perry - 'Never Really Over'
 ## PPG
 ##  KIDZ BOP Kids - 'Hold Me Closer'
-# **Skit 7**
+# <b>Skit 7</b>
 ## Chuck E. Cheese - 'Lend A Helping Hand'
 
-##Navori Main Stage Show List##
+<h2>Navori Main Stage Show List</h2>
 
-###Advertising###
-#**Ad 1**
+<h2>=Advertising</h2>=
+#<b>Ad 1</b>
 ##Ecolab
-#**Ad 2**
+#<b>Ad 2</b>
 ##Samsung
 ##Food & Drink Combos
-#**Ad 3**
+#<b>Ad 3</b>
 ##Dippin' Dots
-#**Ad 4**
+#<b>Ad 4</b>
 ##CEC Online Store
-#**Ad 5**
+#<b>Ad 5</b>
 ##Updated CEC Group Events & Fundraisers
-#**Ad 6**
+#<b>Ad 6</b>
 ##PPG
 ##Food & Drink Combos
-#**Ad 7**
+#<b>Ad 7</b>
 ##Ecolab
-#**Ad 8**
+#<b>Ad 8</b>
 ##Dippin' Dots
-#**Ad 9**
+#<b>Ad 9</b>
 ##CEC YouTube & Music Streaming
 ##Food & Drink Combos
-#**Ad 10**
+#<b>Ad 10</b>
 ##CEC Online Store
-#**Ad 11**
+#<b>Ad 11</b>
 ## Haribo Goldbears
-#**Ad 12**
+#<b>Ad 12</b>
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
 
-###Entertainment###
+<h2>=Entertainment</h2>=
 
 # KIDZ BOP Kids - 'KIDZ BOP Never Stop'
 #Chuck E. Cheese - 'Let's Have A Party'
@@ -123,60 +123,60 @@ This is the final physical show to be released in the domestic market due to the
 #KIDZ BOP Kids - 'As It Was'
 #Chuck E., Munch, & Bella - 'Play All You Can Play'
 
-##Navori CEC Stage Show List##
+<h2>Navori CEC Stage Show List</h2>
 
-### Advertising ###
-#**Ad 1**
+<h2>= Advertising </h2>=
+#<b>Ad 1</b>
 ##Ecolab
-#**Ad 2**
+#<b>Ad 2</b>
 ##Samsung
 ##Food & Drink Combos
-#**Ad 3**
+#<b>Ad 3</b>
 ##Dippin' Dots
-#**Ad 4**
+#<b>Ad 4</b>
 ##CEC Online Store
-#**Ad 5**
+#<b>Ad 5</b>
 ##CEC Group Events & Fundraisers
-#**Ad 6**
+#<b>Ad 6</b>
 ##PPG
 ##Food & Drink Combos
-#**Ad 7**
+#<b>Ad 7</b>
 ##Ecolab
-#**Ad 8**
+#<b>Ad 8</b>
 ##Dippin' Dots
-#**Ad 9**
+#<b>Ad 9</b>
 ##CEC YouTube & Music Streaming
 ##Food & Drink Combos
-#**Ad 10**
+#<b>Ad 10</b>
 ##CEC Online Store
-#**Ad 11**
+#<b>Ad 11</b>
 ## Haribo Goldbears
-#**Ad 12**
+#<b>Ad 12</b>
 ##CEC Birthdays
 ##CEC YouTube & Music Streaming
 
-###Entertainment###
+<h2>=Entertainment</h2>=
 
 #KIDZ BOP Kids - 'Late Night Talking'
-#**Chuck E. Cheese - 'Let's Have A Party**'
+#<b>Chuck E. Cheese - 'Let's Have A Party</b>'
 # Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
-#**Chuck E. Cheese & Friends - 'In The Future**'
+#<b>Chuck E. Cheese & Friends - 'In The Future</b>'
 # KIDZ BOP Kids - 'Break My Heart'
-#**Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name**'
+#<b>Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name</b>'
 # KIDZ BOP Kids - 'Sunroof'
-#**Jasper T. Jowls - 'The Tail Of Jasper T.**'
+#<b>Jasper T. Jowls - 'The Tail Of Jasper T.</b>'
 #LankyBox - 'Pizza Song'
 # KIDZ BOP Kids - 'Spaceman'
-#**Helen Henny - 'Gamin' Time**'
+#<b>Helen Henny - 'Gamin' Time</b>'
 #LankyBox - 'Donut Song'
-#**Chuck E. Cheese - 'Crochet All Day**'
+#<b>Chuck E. Cheese - 'Crochet All Day</b>'
 #Katy Perry - 'Never Really Over'
 # KIDZ BOP Kids - 'Hold Me Closer'
-#**Chuck E. Cheese - 'Lend A Helping Hand**'
+#<b>Chuck E. Cheese - 'Lend A Helping Hand</b>'
 #KIDZ BOP Kids - 'As It Was'
 #Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
 
-##Lives##
+<h2>Lives</h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
@@ -186,13 +186,13 @@ This is the final physical show to be released in the domestic market due to the
 * Chuck E. Cha Cha (Studio C, Weigl)
 * Happy Dance (Studio C, Weigl)
 
-## Showtape Scans / Images ##
+<h2> Showtape Scans / Images </h2>
 
 
-##Trivia##
+<h2>Trivia</h2>
 
 * Stores running on the Navori system received bonus videos from Chuck E. Cheese Evergreen Show 2023 (Evergreen 2023); Main Stages recieved As It Was, Play All You Can Play and a second CEC Online Store spot, and CEC Stages received As It Was, Little Bitty Kitty Cat, a second CEC Online Store spot, and Late Night Talking in place of KIDZ BOP Never Stop.
 * Studio C Install CDs and CEC Stage DVDs for this show are blank unlabeled discs with the show name and format stamped onto them. This is because the label maker used to print the disc labels broke partway through production.
 * This is the last show to include a newsletter for store employees.
 
-## References ##
+<h2> References </h2>

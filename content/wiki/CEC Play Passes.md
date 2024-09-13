@@ -8,16 +8,16 @@ date = 2023-03-22T19:51:20Z
 contributors = ["CECBowlingGreen","The 64th Gamer"]
 gallery = []
 +++
-{{Stub}}
 
-The **_Play Pass**_ is the current form of playing games at Chuck E. Cheese locations. 
+
+The <b><i>Play Pass</b></i> is the current form of playing games at Chuck E. Cheese locations. 
 
 It was created in 2016 to replace tokens as tokens are easy to lose and the Play Pass is a card. 
 
-## History ##
+<h2> History </h2>
 TODO: History
 
-## Design ##
+<h2> Design </h2>
 TODO: Design
 
 

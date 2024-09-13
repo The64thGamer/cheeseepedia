@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-10-03T22:11:55Z
 
 [Article]
+pageThumbnailFile = "TusconE22ndExterior (Chuck E Pedia Edit).jpg|Store Exterior (Unknown Date)"
 contributors = ["Rexburg090","Midwestretail","ChuckECool","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=TusconE22ndExterior (Chuck E Pedia Edit).jpg|desc=Store Exterior (Unknown Date)}}
 
-**_Tucson, AZ (5534 E 22nd St)**_ was a _Pizza Time Theatre_ in Tucson, Arizona that opened in July 15, 1980 with a Cyberamics Portrait / Shelf Stage (Portrait Stage).  
+
+<b><i>Tucson, AZ (5534 E 22nd St)</b></i> was a <i>Pizza Time Theatre</i> in Tucson, Arizona that opened in July 15, 1980 with a Cyberamics Portrait / Shelf Stage (Portrait Stage).  
 
 This is not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)]({{< ref "wiki/Tucson, AZ (8616 E Broadway Blvd).md" >}}) Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). This is also not to be confused with the [Tucson, AZ (6130 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6130 E Speedway Blvd).md" >}}) location which opened in April 1995 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and was relocated to [Tucson, AZ (6125 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6125 E Speedway Blvd).md" >}}) in October 2014 with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) and still operates to this day.
 
-##History##
-The store would open on July 15th, 1980 in the _County Fair Shopping Center_ with a Portrait Stage.
+<h2>History</h2>
+The store would open on July 15th, 1980 in the <i>County Fair Shopping Center</i> with a Portrait Stage.
 
 This was also the first Chuck E. Cheese of any kind to open in the state of Arizona.
 
@@ -25,7 +26,7 @@ The store was then closed in 1987 for unknown reasons (though it may have been u
 
 The store would become a few businesses or two until the shopping center was redeveloped in 2007. The original Pizza Time Theatre was expanded and redeveloped and is currently part of a Walmart Neighborhood Market.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts
@@ -61,4 +62,4 @@ The store would become a few businesses or two until the shopping center was red
 
 
 
-## References ##
+<h2> References </h2>

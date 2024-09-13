@@ -8,4 +8,4 @@ date = 2024-01-15T17:31:39Z
 contributors = ["CoolerDude"]
 gallery = []
 +++
-**_Brawn In The USA**_ was a parody award created by Corman and Associates and released for _Chuck E. Cheese's_ stores receiving the SPT 1992/1993 Remodel Program in 1993.
+<b><i>Brawn In The USA</b></i> was a parody award created by Corman and Associates and released for <i>Chuck E. Cheese's</i> stores receiving the SPT 1992/1993 Remodel Program in 1993.

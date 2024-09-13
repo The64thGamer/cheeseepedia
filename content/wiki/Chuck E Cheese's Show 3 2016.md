@@ -18,17 +18,17 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 3 2016**_ originally released on March 28th, 2016 and intended to play through May 22nd, featured four new original songs as well as a new birthday show.
+<b><i>Chuck E. Cheese's Show 3 2016</b></i> originally released on March 28th, 2016 and intended to play through May 22nd, featured four new original songs as well as a new birthday show.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  OK GO - 'Upside Down and Inside Out'
 ## CEC Buffet Spot
 ##  Nickelodeon - 'Spongebob Squarepants Remix'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. & Friends - 'Rainy Day' (New)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Cassadee Pope - 'I Am Invincible'
 ##  Fun Facts with Chuck E. - 'Favorite Foods' (New)
 ## Caspar Babypants - 'Stompy The Bear'
@@ -36,9 +36,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##  Gwen Stefani - 'Make Me Like You'
 ##  Dell/Golden Ticket Spot
 ##  Nickelodeon - 'Paw Patrol'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Helen Henny - 'Gamin' Time' (New)
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Avicii - 'Wake Me Up'
 ##  Fun Facts with Chuck E. - 'Maths'
 ## Josh & The Jamtones - 'Tailfeather
@@ -48,19 +48,19 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##  One Direction - 'History'
 ##  Fun Facts with Chuck E. - 'Outer Space' (New)
 ##  Caspar Babypants - 'Mr. Rabbit'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. & Friends - 'Cowboy's Life For Me' (New)
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## NYC CEC Food Truck Video
 ##  Jokes from Pasqually - 'Soccer' (New)
 ##  Nickelodeon - 'Dora & Friends'
 ##  Owl City - 'Fireflies'
 ##  Fun Facts with Chuck E. - 'Favorite Songs' (New)
 ##  Nickelodeon - 'Shimmer & The Shine'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Chuck E. Cheese - 'Your Birthdays Are Special' (New)
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 *  Chuck E. Birthday 2016 (3stage, Cyberamic, Studio C,Weigl)
 * Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
@@ -72,15 +72,15 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
 * Head Shoulders Knees Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=ojPIcksgx3Y 'Rainy Day' on YouTube]
 *[https://www.youtube.com/watch?v=6SN_dp1T3Dg 'Gamin' Time' on YouTube] 
 *[https://www.youtube.com/watch?v=dDGMBVwXDCg 'Cowboy's Life For Me' on YouTube]
 *[https://www.youtube.com/watch?v=J5Z1VKo9phU 'Your Birthdays Are Special' on YouTube]
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * This show debuted new character puppets for Helen and Munch; these puppets matched the Rockstar character designs more so than  previous puppets. 
 * Longtime Helen Henny voice actor Annagrey Labasse was replaced by Caroline Richardson in this show.
 * Birthday 2016 was the first birthday show to have the animatronics programmed during the countdown.

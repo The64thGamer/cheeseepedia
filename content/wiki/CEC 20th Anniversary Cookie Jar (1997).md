@@ -20,16 +20,16 @@ LICENSEE K&L ENTERPRISES
 Made in China 
 DESIGNED BY Clay Art|price=$110 + $7 shipping|unitsProduced=1,977|manufacturer=K&L; Enterprises}}
 
-The **_Chuck E. Cheese's 20th Anniversary Licensed Commemorative Limited Edition Cookie Jar**_ was a licensed product created exclusively for online purchase in _1997_.
+The <b><i>Chuck E. Cheese's 20th Anniversary Licensed Commemorative Limited Edition Cookie Jar</b></i> was a licensed product created exclusively for online purchase in <i>1997</i>.
 
-## Production##
+<h2> Production</h2>
 During the 20th anniversary for Chuck E. Cheese's, SPT introduced various promotional items though out the year of 1997. 
 
 K&L enterprises obtained the license to create ceramic products for Showbiz Pizza Time and released this cookie jar as one of the first limited releases of a Chuck E. Cheese's product. 
 
-The cookie jar had a production of 1,977 units for sale via mailing K&L enterprises cash or calling one of their offices.<ref>https://web.archive.org/web/19971024092345/http://www.chuckecheese.com/</ref> 
+The cookie jar had a production of 1,977 units for sale via mailing K&L enterprises cash or calling one of their offices.<ref>https:<i>web.archive.org/web/19971024092345/http:</i>www.chuckecheese.com/</ref> 
 
-##Design##
+<h2>Design</h2>
 The cookie jar is based off of Chuck E. Cheese's 'Tuxedo Era', with Chuck E. holding a large cake reading 'Chuck E. Cheese's 20th Anniversary' on the front and a small pile of tokens on the top.
 
 The cookie jar is accessed by Chuck E.'s head being removed, revealing the hallow inside of the figure to allow for maximum storage.
@@ -37,6 +37,6 @@ The cookie jar is accessed by Chuck E.'s head being removed, revealing the hallo
 
 
 
-##References##
+<h2>References</h2>
 
 <references />

@@ -18,63 +18,63 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Evergreen Show 2022**_ is the generic show released January 3, 2022 featuring a variety of songs released from 2016-2021
+<b><i>Evergreen Show 2022</b></i> is the generic show released January 3, 2022 featuring a variety of songs released from 2016-2021
 
 This was created with the idea to play between promotional events. Runs from January 3, 2022 to March 6, 2022. This song features 8 Songs with the automatic live being Me & My Friends.  
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD: 12/12/21 3:19pm - 3:23pm
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
 ##  Katy Perry - “Electric”
 ## “It’s Chuck E!”
-# **Skit 1**
+# <b>Skit 1</b>
 ##Chuck E. & Friends - 'Chuck E.'s Middle Name'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##KIDZ BOP Kids - “Telepatía”
 ##Kidloom - “A Funny Band”
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. Cheese - “Crochet All Day”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Safety Message
 ## Koo Koo Kanga Roo - “My Jam”
 ##“Oh Helen Henny!”
-#**Skit 3**
+#<b>Skit 3</b>
 ##Helen Henny - “Dream Big”
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Danny Weinkauf - “Tricycle”
 ##  KIDZ BOP Kids - “Levitating”
 ##“He’s Mr. Munch”
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E., Munch & Bella - “Play All You Can Play”
-#**Intermission 5** 
+#<b>Intermission 5</b> 
 ## Safety Message
 ## John Batiste - “FREEDOM”
 ##“Jasper T. Jowls”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Jasper & Chuck E. - “Jasper’s Country Classic”
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##No School Today - “Marsupial'
 ## KIDZ BOP Kids - “Driver License”
 ##“Pasqually”
-#**Skit 6**
+#<b>Skit 6</b>
 ## Chuck E. & Pasqually - “Keep Drummin”
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Safety Message
 ## Andy Grammer - “Lease on Life”
-#**Skit 7**
+#<b>Skit 7</b>
 ##Chuck E. Cheese - “Barbara the Barnyard Barber”
-#**Intermission 8**
+#<b>Intermission 8</b>
 ##Ants, Ants, Ants - “Pinwheel”
 ##  KIDZ BOP Kids - “Goosebumps'
 ##YouTube and Music Streaming Spot
-#**Skit 8**
+#<b>Skit 8</b>
 ##Chuck E. & Mike Wolf - “El Rey Guitarrista”
 
-## Lives:##
+<h2> Lives:</h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -86,13 +86,13 @@ This was created with the idea to play between promotional events. Runs from Jan
 *Chuck E. Cha Cha (Studio C, Weigl)
 *Easy Dance (Studio C, Weigl)
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 * This is the first domestic show to use the Evergreen format in which the same generic show would run in between seasonal and promotional events.
-* 'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from Chuck E. Cheese's Show 2 2021 (Show 2 2021), 'Dream Big' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016), 'Play All You Can Play' is originally from Chuck E. Cheese's Show 3 2019 (Show 3 2019), 'Jasper's Country Classic' is originally from Chuck E. Cheese's Show 3 2018 (Show 3 2018), 'Keep Drummin_ is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from Chuck E. Cheese's Show 2 2020 (Show 2 2020).
+* 'Chuck E.'s Middle Name' and 'Crochet All Day' is originally from Chuck E. Cheese's Show 2 2021 (Show 2 2021), 'Dream Big' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016), 'Play All You Can Play' is originally from Chuck E. Cheese's Show 3 2019 (Show 3 2019), 'Jasper's Country Classic' is originally from Chuck E. Cheese's Show 3 2018 (Show 3 2018), 'Keep Drummin'' is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), 'Barbara the Barnyard Barber' and 'El Rey Guitarrista' are originally from Chuck E. Cheese's Show 2 2020 (Show 2 2020).
 * The Studio C Programming for Keep Drummin' was redone but only for the Animatronic. The programming was changed & added the gemini for Pasqually's Drumo solo all other lighting was kept the same from Chuck E. Cheese's Show 1 2016 (Show 1 2016).
 
 *Several parts of this show are reused from Chuck E. Cheese's Show 2 2021 (Show 2 2021) Such as the Skits 'Jasper's Country Classic', 'Crochet All Day', 'Chuck E.'s Middle Name' and 'El Rey Guitarrista' along with that three intermissions were reused from Chuck E. Cheese's Show 2 2021 (Show 2 2021) those being Danny “Tricycle”, Ants Ants Ants “Pinwheel” and No School Today “Marsupial”

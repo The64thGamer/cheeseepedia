@@ -8,13 +8,13 @@ date = 2023-10-16T19:19:54Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{MerchItem|image=Colandermembershipcard.png|price=Free|releasedate=March 1, 1983|removedate=March 31, 1983|color=Red, Yellow|label1=The colander-head carrying this card is an 'Official Card Carrying Colander-head'|label2=RULES: 1. Obey all rules . . . 2. There are no rules . . .|label3=* [signature] *|label4=FATZ-Colander-head ★'Grand Pooba'★}}
 
-The **_Colander Head Club Membership Card**_ was a special card produced for contributing patrons of the [Crazy Colander Head Night Event]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) during the month of March 1983.
+
+The <b><i>Colander Head Club Membership Card</b></i> was a special card produced for contributing patrons of the [Crazy Colander Head Night Event]({{< ref "wiki/Crazy Colander Head Night (Event).md" >}}) during the month of March 1983.
 
 The card could be used to win prizes on Wednesday nights during the event if also wearing a colander to the restaurant.
 
-## Obtainability ##
+<h2> Obtainability </h2>
 The card was obtainable by fulfilling multiple criteria from March 1st - 31st of 1983.<ref>The Colander Gazette - Vol 1. No. 1 (February 24, 1983) (The Colander Gazette - Vol 1. No. 1)</ref>
 
 # Attend a ShowBiz Pizza Place wearing a colander on your head, encouraged to be customized and decorated but not required.
@@ -26,4 +26,4 @@ A ShowBiz employee would then hand you the card. Patrons could then return each 
 
 
 
-## References ##
+<h2> References </h2>

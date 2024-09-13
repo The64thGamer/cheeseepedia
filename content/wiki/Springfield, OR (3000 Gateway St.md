@@ -5,25 +5,26 @@ tags = []
 date = 2024-09-12T23:28:29Z
 
 [Article]
+pageThumbnailFile = "SpringfieldOR.jpg|Exterior in September 2011. (PC: Google Maps)"
 contributors = ["Detourenterprises","Documentor"]
 gallery = []
 +++
-{{DISPLAYTITLE:Springfield, OR (3000 Gateway St)}}
-{{Generic|image=SpringfieldOR.jpg|desc=Exterior in September 2011. (PC: Google Maps)}}
 
-**_3000 Gateway Street #540**_ was a _Chuck E. Cheese_ that opened December 13, 2007, as a tenant of Gateway Mall. It closed on September 14, 2014.  
 
-## History ##
 
-### CEC Era (2007-2014) ###
+<b><i>3000 Gateway Street #540</b></i> was a <i>Chuck E. Cheese</i> that opened December 13, 2007, as a tenant of Gateway Mall. It closed on September 14, 2014.  
+
+<h2> History </h2>
+
+<h2>= CEC Era (2007-2014) </h2>=
 Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). This store's stage was [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which wore the Avenger outfit. Springfield, OR opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and has had them for its entire existence.
 
 On September 14, 2014, the store would be permanently closed. It was likely due to the mall's renovation plans that was scheduled to take place that following year. It is unknown what happened to the animatronics at this location, although it was most likely taken back to the SPT distribution center.
 
-### Post-CEC Era (2014-Present) ###
+<h2>= Post-CEC Era (2014-Present) </h2>=
 After the store permanently closed, the location along with several other buildings would be completely demolished for the mall renovation. Today, a Rack Room Shoes as well as a relocated Oregon Sports sits in the site of the former space.
 
-## Stages ##
+<h2> Stages </h2>
 The location opened with a Studio C 2000 (Studio C Beta, 16m), which would be kept until the store’s closure in 2014. After closing the TV Portion of the Studio C Beta would be sent to [Miamisburg, OH (30 Prestige Place)]({{< ref "wiki/Miamisburg, OH (30 Prestige Place).md" >}}).
 {| class='wikitable'
 |+
@@ -36,7 +37,7 @@ The location opened with a Studio C 2000 (Studio C Beta, 16m), which would be ke
 |September 2014
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
 * Deep Sea Treasures
 * Hungry Froggy
@@ -61,7 +62,7 @@ The location opened with a Studio C 2000 (Studio C Beta, 16m), which would be ke
 * Angel Carousel
 * Barney Train Ride
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronics
@@ -76,4 +77,3 @@ The location opened with a Studio C 2000 (Studio C Beta, 16m), which would be ke
 |N/A
 |Unknown
 |}
-{{DEFAULTSORT:Springfield, OR (3000 Gateway St)}}

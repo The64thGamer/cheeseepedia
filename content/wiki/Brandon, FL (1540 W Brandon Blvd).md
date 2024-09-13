@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2023-10-26T03:34:16Z
 
 [Article]
+pageThumbnailFile = "Brandon 2020.png|Exterior, June 14, 2020"
 contributors = ["CECBowlingGreen","2600:4040:59FF:B100:9C6:388E:A183:C3C5","BurgersNuggs445","173.216.33.6","Rexburg090","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","The 64th Gamer","CorrectorMan","ThatBoiCydalan","John95"]
 gallery = []
 +++
-{{Generic|image=Brandon 2020.png|desc=Exterior, June 14, 2020}}
-**_1540 W Brandon Blvd, Store #420**_ was a franchised _Pizza Time Theatre_ that opened in August 1981 with a Balcony show. This store is the fifth ever Pizza Time Theatre to open in the state of Florida.
-##Stages##
+
+<b><i>1540 W Brandon Blvd, Store #420</b></i> was a franchised <i>Pizza Time Theatre</i> that opened in August 1981 with a Balcony show. This store is the fifth ever Pizza Time Theatre to open in the state of Florida.
+<h2>Stages</h2>
 This store debuted with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) with guest character Harmony Howlette. They would receive the Madam Oink in the spring of 1982 and Helen Henny guests later on. 
 
 Between 1989 to 1990 they'd retrofit their Balcony Stage to the Chuck E.'s House Facade (C-Stage) and would be replaced by a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) in a 90s remodel, but still used select original cosmetics.  
@@ -23,32 +24,32 @@ For the majority of 2020, the show just stopped working until September of 2020 
 
 The Cabaret debuted with [Dolli Dimples]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}). 
 
-###Cabaret & Lounge###
+<h2>=Cabaret & Lounge</h2>=
 The cabaret of this location debuted with [Dolli Dimples]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}). At an unknown point in time the store would removed the cabaret area entirely.
 
 Brandon, FL's lounge area originally had Beagles / Beach Bowsers (Lounge) (Beagles), but later replaced it with The King / King Kat (Lounge) (The King) in January 1982. At an unknown period, they received the Beagles / Beach Bowsers (Lounge) (Beach Bowsers), which stayed in the area until they remodeled in the 1990s. In the 2000s, possibly 2002, they converted a corner of the room into a Blue Screen area. It's unknown why they did this but it was a good addition of the Studio C concept into a 2-Stage store, but in 2011 they removed the area in place of two monitors and seating.
 
 'Helens Hangout' was the party area that debuted with its 2.0 remodel. The remodel turned their former lounge area into a smaller version of the showroom that was nearby. It had a video wall, even complete with seating and character posters. The only difference was that there was no dance floor.
-##History##
-**_1540 W Brandon Blvd, Brandon, FL**_ was originally a franchised Pizza Time Theatre that opened in August 1981. Like many Pizza Time theatres, this one was located in the same shopping plaza as a K-Mart and was in the former K-Mart Foods section of the building, so the building had a canopy over the front of the building until it's eventual remodel. This store was one of the three stores to have an ice cream emporium in 1982. Exact details are unknown but its common knowledge that in each one there was an animatronic Barber Shop Quartet called [The Four Little Shavers]({{< ref "wiki/Four Little Shavers (Ice Cream Emporium).md" >}}).  This was one of the few that survived PTT's bankruptcy and was bought on October 22, 1984, along with many other locations by Corporate. 
+<h2>History</h2>
+<b><i>1540 W Brandon Blvd, Brandon, FL</b></i> was originally a franchised Pizza Time Theatre that opened in August 1981. Like many Pizza Time theatres, this one was located in the same shopping plaza as a K-Mart and was in the former K-Mart Foods section of the building, so the building had a canopy over the front of the building until it's eventual remodel. This store was one of the three stores to have an ice cream emporium in 1982. Exact details are unknown but its common knowledge that in each one there was an animatronic Barber Shop Quartet called [The Four Little Shavers]({{< ref "wiki/Four Little Shavers (Ice Cream Emporium).md" >}}).  This was one of the few that survived PTT's bankruptcy and was bought on October 22, 1984, along with many other locations by Corporate. 
 
-###Remodels###
+<h2>=Remodels</h2>=
 It is unknown if the location ever had remodeled while it was a Pizza Time Theatre, but it did remodel at a point in time from 1988 to 1991. By 1994, they remodeled again to [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) and remained that way until 2011 when they remodeled to the latest iteration of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' Remodel). The remodel caused two pieces of art to go extinct in the United States: 1992 Giant Pizza Mirror (Giant Pizza Mirror) and Munch w/ Empire State Building. It was also during this remodel that the only known surviving copy of [Artie Antlers' showtape reel]({{< ref "wiki/Artie Antlers Showtape.md" >}}) was discovered which previously came from the Tampa, FL (2363 Fowler Ave) location.
 
 The building remained untouched remodel-wise until 2020 when the shopping plaza the store sat was remodeled. The original exteriors within the center was demolished and rebuilt to fit the plaza's standards.
 
 From April to May 2021 they would remodel into 2.0 which was an interior-only remodel. The store's grand reopening was on June 3, 2021. The remodel made this the first location to have a mural and the second location to have a video wall. Because of Brandon's size, multiple pieces of art had to be remade to accommodate for its size. As of 2022, this is the only location as of now to have two video walls and 'Helens Hangout'.
 
-###Crime###
+<h2>=Crime</h2>=
 Brandon was always prone to having crime happen in their location. In 2015 and 2016 combined, the deputies were called 54 times. The crimes ranged from fights to robberies, and thefts. 
 
 The latest to have occurred was on September 24, 2022, when a car crashed into the front of the building with gunfire following. The local Sheriff, Hillsborough County Sheriff's Office, has said that there has not been any evidence of anyone being shot. Four suspects were taken into custody. 
 
 Afterward, CEC stated this: 'We are aware of the incident that occurred on Saturday, September 24, at our Brandon, FL location, where a vehicle crashed into our storefront.  We want to assure our guests that we take great measures to protect the experience children and families have in our venues. The safety of our guests and employees is our number one priority.  The General Manager onsite and our team members acted quickly to alert local authorities and secure medical attention for those involved.  We are thankful for the dedicated service of community law enforcement and the swift actions of our alert team members and security. We are cooperating with the police during their ongoing investigation and cannot offer additional details at this time.' 
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Crazy Tower
 *Spin O' Rama
@@ -121,7 +122,7 @@ Afterward, CEC stated this: 'We are aware of the incident that occurred on Satur
 *Deadstorm Pirates
 *ICE Cube
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 * Soccer Fortune
 * Hat Trick
@@ -130,7 +131,7 @@ Afterward, CEC stated this: 'We are aware of the incident that occurred on Satur
 * Intermission
 * Deep Freeze
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Fetch the Vet
 *Astro Invasion
@@ -156,7 +157,7 @@ Afterward, CEC stated this: 'We are aware of the incident that occurred on Satur
 *Comet Catcher
 *Rock 'N' Roll Coaster
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing Date
@@ -231,7 +232,7 @@ Afterward, CEC stated this: 'We are aware of the incident that occurred on Satur
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -334,5 +335,5 @@ Afterward, CEC stated this: 'We are aware of the incident that occurred on Satur
 |June 9, 2023
 |}
 
-##References##
+<h2>References</h2>
 <references />

@@ -5,14 +5,15 @@ tags = ["Stage Variations"]
 date = 2024-09-09T12:06:14Z
 
 [Article]
+pageThumbnailFile = "Circles_Of_Light_Mt._Juliet.jpg|Mt. Juliet Tennessee's Circles of Light."
 contributors = ["CECBowlingGreen","ShowbizMidwest","Showbiz Pizza International","The 64th Gamer","Bowling for Cheese","ThatBoiCydalan","CEC Tinley","Rexburg090","2600:4040:5A0E:D900:FDB5:151E:48EA:B339","GabrielPennington9864","CECgamer","Caydenpedia","BenTrainFan2000","Cheeseslicez","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Circles_Of_Light_Mt._Juliet.jpg|desc=Mt. Juliet Tennessee's Circles of Light.}}The **_Circles Of Light**_ is a stage format found at Chuck E. Cheese's locations which either opened with the stage or replaced a previous stage from August 2012 to 2021. 
+The <b><i>Circles Of Light</b></i> is a stage format found at Chuck E. Cheese's locations which either opened with the stage or replaced a previous stage from August 2012 to 2021. 
 
 It is an upgrade to the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}}), which debuted in 2011 at the [West Melbourne, Florida]({{< ref "wiki/West Melbourne, FL (2250 Coastal Lane).md" >}}) location. there are 3 variants, a 32M version, a 16M version, and a version with no animatronic, with the no animatronic version being more common, As of September 2022, there are 88 Circles of Lights stages left, 39 in the United States, and 50 in Chile, Guatemala, Saudi Arabia, United Arab Emirates, Trinidad & Tobago, Peru, Panama, Mexico, Columbia, Honduras, and Costa Rica.
 
-## History ##
+<h2> History </h2>
 In early 2012, Weigl Control, a electronics manufacturer, became a Vendor Partner with CEC Entertainment, Inc. in order to help with a new show concept to modernize its long time [Studio C]({{< ref "wiki/Studio C.md" >}}) series of stages.
 
 Circles of Light was introduced to Chuck E. Cheese's locations starting in August 2012 as the replacement for the then almost 12-year old [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) show. CEC was planning for the fifth iteration of the main stage attraction when Weigl was asked to engage in the conversation. A major priority was to evolve the technology to allow for more advanced programming and control.
@@ -25,21 +26,21 @@ Since the Chuck E. Cheese Halloween Boo-Tacular Show 2022, Circles of Light show
 
 As of August 2024, 82 Circles of Light stages remain in the United States, South America, and the Middle East. 27 of the remaining COLs have Live Stages installed and the location in Kapolei, HI is the only COL/Live Stage combo with an animatronic due to the location's long construction process starting around 2015/2016, and ending in October 2018.
 
-## Designs ##
+<h2> Designs </h2>
 
-### Original Design (August 2012 - December 2012) ###
-The original design of the Circles of Light stage debuted at the Dallas, Texas (13364 Montfort Dr) location in August 2012. It featured a 32m or 16m Chuck E. bot (32m at Montfort) on a platform with a barrier with lights on it. There were many circles that lit up (hence the name _Circles of Light._), with a large circle behind Chuck E, which had a line vertically going through the middle. 7 locations had this design installed, and 3 are still in operation, though Montfort does not have the Chuck E. bot.
+<h2>= Original Design (August 2012 - December 2012) </h2>=
+The original design of the Circles of Light stage debuted at the Dallas, Texas (13364 Montfort Dr) location in August 2012. It featured a 32m or 16m Chuck E. bot (32m at Montfort) on a platform with a barrier with lights on it. There were many circles that lit up (hence the name <i>Circles of Light.</i>), with a large circle behind Chuck E, which had a line vertically going through the middle. 7 locations had this design installed, and 3 are still in operation, though Montfort does not have the Chuck E. bot.
 
-### Updated Design (December 2012 - October 2014) ###
+<h2>= Updated Design (December 2012 - October 2014) </h2>=
 This design was the second version to come out, it debuted at the San Diego, California (3414 College Ave) location in December 2012. The large circle from the previous design was changed to a large circle with multiple lines going horizontally through the circle. It featured a 32m or 16m Chuck E. bot, or no bot at all.
 
-### Updated Design #2 (November 2014 - October 2021) ###
+<h2>= Updated Design #2 (November 2014 - October 2021) </h2>=
 This design was the third design to come out, it debuted in November 2014 at [Jersey City, NJ (701 Route 440)]({{< ref "wiki/Jersey City, NJ (701 Route 440).md" >}}). This design removed the large circle and replaced it with multiple circles like what is seen on the left side of the stage.
 
-### Updated Design #3 (February 2023) ###
+<h2>= Updated Design #3 (February 2023) </h2>=
 The third and final design of the Circles of Light debuted at the Trinidad & Tobago location in The Falls at Westmall in February 2023. This design was cut down to only a video screen with the left and right circles on the side, very similar to the [Video Wall]({{< ref "wiki/Video Wall.md" >}}) but with small aspects of the Circles of Light. From July 2023 onward, future international CEC locations would receive the Video Wall.
 
-## Variants ##
+<h2> Variants </h2>
 
 * 32M COL
 * 16M COL
@@ -49,7 +50,7 @@ The third and final design of the Circles of Light debuted at the Trinidad & Tob
 
 TODO
 
-## Current Circles Of Light Stages with the Animatronic ##
+<h2> Current Circles Of Light Stages with the Animatronic </h2>
 Current Total Remaining: 10
 {| class='wikitable'
 |+
@@ -120,7 +121,7 @@ Current Total Remaining: 10
 |Also has Dance Floor. Last store to open with animatronic. Franchised Location.
 |}
 
-## Current Circle of Lights Stages without the Animatronic. ##
+<h2> Current Circle of Lights Stages without the Animatronic. </h2>
 {| class='wikitable'
 |+
 !Location
@@ -591,7 +592,7 @@ Current Total Remaining: 10
 |No Bot
 |
 |}
-## Trivia ##
+<h2> Trivia </h2>
 
 * Circles of Light programming has ended as of September 19, 2022, as the Chuck E. Cheese Halloween Boo-Tacular 2022 Show (Chuck E. Cheese Halloween Boo-Tacular Show 2022) has started playing, this also applies to [Studio C]({{< ref "wiki/Studio C.md" >}}) stages ([Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), [Beta]({{< ref "wiki/Studio C Beta.md" >}}), [Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), Studio C Alpha Beta Mix (Alpha / Beta Mix)) and the [Galaxy Stage]({{< ref "wiki/Galaxy Stage.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor) (For the ones with the COL light up posters and washers.)
 * They were a total of 5 32M COLs installed: Dallas, Texas (Montfort) (Removed bot in September 2012), Naples, Florida, Port Orange, Florida (which was destroyed by Hurricane Ian in September 2022), West Palm Beach, Florida (Which received 2.0 in March 2022 and removed the bot), and Chandler, Arizona (which received 2.0 in March 2023). As of May 2023, only Naples has it.

@@ -5,22 +5,23 @@ tags = ["Animatronic Repair & Preservation"]
 date = 2023-09-03T04:52:18Z
 
 [Article]
+pageThumbnailFile = "ClippardPTTboard.png|All 8 Clippard valves on the board."
 contributors = ["2600:1017:B4C2:66B9:B43D:350E:1D57:D87A","The 64th Gamer","ShowbizMidwest","47.12.120.189"]
 gallery = ["Clippard ring and disc.png|thumb|200x200px|Valve Ring & Disc.","Clippard solder point.png|thumb|238x238px|The solder points for the valves on the board.","Clippard open valve.png|thumb|226x226px|An opened valve."]
 +++
-{{Generic|image=ClippardPTTboard.png|desc=All 8 Clippard valves on the board.}}
 
-Cyberamics manufactured by Pizza Time Theatre, Inc came with valves from _Clippard_, specifically the **_Clippard EVO-3M-24 3-Way Elec. Valve.**_ Each animatronic has a pair of 8 valves on their board, identified by their bright yellow cap.
 
-## Purchasing New Valves ##
-This valve, as of 2023, can be found for around $20-40 each from various venders and resellers.<ref>https://aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/</ref> Clippard is also still producing these valves and can be bought directly from them.<ref>https://www.clippard.com/part/EVO-3M-12</ref>
+Cyberamics manufactured by Pizza Time Theatre, Inc came with valves from <i>Clippard</i>, specifically the <b><i>Clippard EVO-3M-24 3-Way Elec. Valve.</b></i> Each animatronic has a pair of 8 valves on their board, identified by their bright yellow cap.
 
-## Identifying Bad Valves ##
+<h2> Purchasing New Valves </h2>
+This valve, as of 2023, can be found for around $20-40 each from various venders and resellers.<ref>https:<i>aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/</ref> Clippard is also still producing these valves and can be bought directly from them.<ref>https:</i>www.clippard.com/part/EVO-3M-12</ref>
+
+<h2> Identifying Bad Valves </h2>
 # Connect the valves up to air and have 28 PSI of air going into the valves.
 # Track the wires of the valves you wish to test down to the bottom of the valve board and apply 24V DC to the valves.
 # If the valve is not making a clicking sound, it is most likely dead. However if the valve is releasing a small amount of air, or staying activated after power is removed, it may just be a clogged valve.
 
-## Valve Clogging ##
+<h2> Valve Clogging </h2>
 
 There’s two different reasons that could cause a valve to be clogged:
 
@@ -36,7 +37,7 @@ There’s two different reasons that could cause a valve to be clogged:
 
 If the valve is still releasing a small amount of air even after these fixes, then the valve is going bad, and will need to be replaced.
 
-## Replacing a Valve ##
+<h2> Replacing a Valve </h2>
 
 # The valve will need to be opened. Twist the silver ring that goes around the valve to the left and hold the top of the valve in place.
 # Remove the thin silver ring and thin disc on the inside of the valve. Hold onto them as they will be reused.
@@ -48,7 +49,7 @@ If the valve is still releasing a small amount of air even after these fixes, th
 # Solder the two wires to the board in place of where the old valve was.
 # Transfer the muffler from the old valve over to the new valve.
 
-## Replacing a Valve Seal ##
+<h2> Replacing a Valve Seal </h2>
 
 Sometimes near the bottom of a valve, the seal may go bad and begin to leak.
 
@@ -65,4 +66,4 @@ Sometimes near the bottom of a valve, the seal may go bad and begin to leak.
 
 Run the valve with air to ensure the seal doesn't have any further leaks, and that the process was completed successfully.
 
-## References ##
+<h2> References </h2>

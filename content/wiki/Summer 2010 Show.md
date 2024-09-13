@@ -17,24 +17,24 @@ gallery = []
 |dvdcyber=y
 }}
 
-**Summer 2010** is the summer show released July 2010. Featuring  4 songs some from [April 2010]({{< ref "wiki/April 2010 Show.md" >}}) and 2 segments from [Summer 2007]({{< ref "wiki/Summer 2007 Show.md" >}}) .
+<b>Summer 2010</b> is the summer show released July 2010. Featuring  4 songs some from [April 2010]({{< ref "wiki/April 2010 Show.md" >}}) and 2 segments from [Summer 2007]({{< ref "wiki/Summer 2007 Show.md" >}}) .
 
 This show played from July - August 31, 2010.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Best Friends'
 ## 'Summertime'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Backstage Pass - 'Kicking Daisies'
 ## CEC TV ID - 'Movie Refreshments'
 ## The Zula Patrol - 'The Canyon'
 ## Sound Splosion -  Anna Margaret - 'Something About The Sunshine'
 ## CEC TV ID - 'Parachute'
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'Ain't Nothing Wrong With That'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Ralph's World - 'Gotta Be Good'
 ## Prada*G - 'Dance Masters'
 ## Trivia - 'Smallest Birds'
@@ -43,35 +43,35 @@ This show played from July - August 31, 2010.
 ## Word World - 'Runaway O'
 ## CEC TV ID - 'Pizza Parachute'
 ## VeggieTales - 'Song of the Cebu'Busytown Mysteries - 'The Cheese Car Chomp Mystery'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Ray of Sunshine'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Fun Facts - 'Emperor Penguins' 
 ## Noonbory & The Super 7 - 'A Honey Of A Tale'
 ## Wild Animal Baby - 'A Tall Tail'
 ## Dan Zanes - 'Rock Island Line'
 ## Pocoyo - 'The Big Sneeze'
 ## Will & Dewitt - 'My New Boots'
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Soul Sista'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Fun Facts - 'Porcupines Float in Water'
 ## Dive Olly Dive! - 'Everyone Makes Mistakes'
 ## Cast of Camp Rock 2 - 'It's On'
 ## Flash Gordon 
-# **Segment 5**
+# <b>Segment 5</b>
 ## 'It's Magic'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Animal Atlas - 'Animals And Us'
 ## Joe Jonas and Demi Lovato - 'Make A Wave'
 ## Wow Wow Wubbzy! - 'Come Play With Me'
 ## Fun Facts - 'First Coast to Coast Telephone'
 ## The Zone - 'Amateur Skateboarder'
 ## The Dirty Sock Funtime Band
-# **Segment 6**
+# <b>Segment 6</b>
 ## 'Livin' Life'
 ## 'In The Summertime'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Backstage Pass - Sophie - 'Care Bears On Fire'
 ## Pocoyo - 'Umbrella Umbrella'
 ## Sid The Science Kid - 'Don't Forget The Leaves'
@@ -80,9 +80,9 @@ This show played from July - August 31, 2010.
 ## The Zone - 'Amateur Kiteboarder'
 ## Pajanimals - 'Stick To The Plan'
 ## CEC TV ID - 'Aquarium'
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-##Lives: ##
+<h2>Lives: </h2>
 * Birthday 2009 (3stage, Cyberamic, Studio C)
 *Chuck E. Says (3stage, Cyberamic, Studio C)
 *Chuck E. March (3stage, Cyberamic, Studio C)
@@ -94,7 +94,7 @@ This show played from July - August 31, 2010.
 *Story Time with Chuck E. (3stage, Cyberamic, Studio C)
 *Dancin' (All Night Long) (3stage, Cyberamic, Studio C)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Segment 1, and Segment 6 are reused from [Summer 2007]({{< ref "wiki/Summer 2007 Show.md" >}}), 'Ain't Nothing Wrong With That', 'Ray of Sunshine', 'Soul Sista', and 'It's Magic' are reused from [April 2010]({{< ref "wiki/April 2010 Show.md" >}}).
 * No puppet footage was reused for the Studio C version.

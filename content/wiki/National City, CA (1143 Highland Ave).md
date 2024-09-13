@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-08-01T14:23:40Z
 
 [Article]
+pageThumbnailFile = "National city.jpg|National city's exterior."
 contributors = ["ChuckECool","CEC Tinley","TheChuckECheeseGuy","Chez","CoolerDude","Cheeseclassic","Estsproduction","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=National city.jpg|desc=National city's exterior.}}
-**_1143 Highland Ave**_ is a _Chuck E. Cheese's Pizza Time Theatre_ that opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and is still open today with a Dance floor.
 
-## Stages ##
+<b><i>1143 Highland Ave</b></i> is a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and is still open today with a Dance floor.
+
+<h2> Stages </h2>
 National City opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Unfortunately, there is no information on it during the PTT era. In 1989/1990, the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) was removed for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). In around 1994, [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) was removed for the [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The stage went through minor renovations until 2011, when it got converted into a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). In November 2023, the 1-Stage was removed for the Dance Floor and Video Wall.
 
-## History ##
+<h2> History </h2>
 National City opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Although 1 exterior photo exists, there is basically nothing known about National City during the PTT era.
 
 In 1989/1990, National City received the ['80s major remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), removing all PTT traces and removed the Balcony Stage for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
@@ -23,7 +24,7 @@ Around 1994, National City received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >
 
 In 2007/2008, National City received the 2005 update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), removing all 90s decor, removing showroom walls, balcony seating, replaced the lighting, and likely relocated the stage. The store would expand in 2011, converting the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) to a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). National City started the 2.0 remodel in November 2023. 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -45,7 +46,7 @@ In 2007/2008, National City received the 2005 update to the [CEC 2005 Remodel Pr
 
 TODO
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

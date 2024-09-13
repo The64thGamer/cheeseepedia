@@ -9,11 +9,11 @@ contributors = ["ChuckECool","Saan1ty","Rexburg090","Caydenpedia","CEC1988","Che
 gallery = ["PicoRivera2.0.png|thumb|The exterior after getting 2.0 (PC: Bunbunboy8)"]
 +++
 
-**_6005 Rosemead Blvd, Store #440**_ was a _Pizza Time Theatre_ that opened sometime in 1982 (month and day unknown) with a Balcony Stage, which is still open as a _Chuck E. Cheese_ with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
-##History##
+<b><i>6005 Rosemead Blvd, Store #440</b></i> was a <i>Pizza Time Theatre</i> that opened sometime in 1982 (month and day unknown) with a Balcony Stage, which is still open as a <i>Chuck E. Cheese</i> with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+<h2>History</h2>
 Pico Rivera opened sometime in 1982. Unfortunately, there is hardly any information about when it was a PTT, but they had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Pico Rivera had the stage and the store unchanged until the late 80s when they received the 1988 remodel. They removed the Balcony Stage for the [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) and added new decor. They would remain like this until their second remodel in the mid-late 90's. They then removed the C-Stage for the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) removed the 1988 Remodel decor and added new decor and SkyTubes. They would remain like this until the installation of the 2005 update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative between 2008-2009 when they removed the Showroom Walls, Balcony Seating, and relocated the 2-Stage. In 2010, the 2-Stage was converted into a 1-Stage. In March 2024, Pico Rivera began their CEC 2018 2.0 Remodel Program (2.0 Remodel), removing their 1-Stage not long after for a 2021 Model Dance Floor. The store would also receive the Trampoline Zone Package. As of April 2024, Pico Rivera still has the Chuck E. Live Stage (Dance Floor) (2021 Model Dance Floor) and [Video Wall.]({{< ref "wiki/Video Wall.md" >}}) 
 
-##Stages##
+<h2>Stages</h2>
 Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hardly any photos or videos to exist of Pico Rivera.
 {| class='wikitable'
 !Stage
@@ -46,7 +46,7 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |Still in Use
 |One of many installed in California. 2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -99,7 +99,7 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -117,5 +117,5 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |March 2024
 |March 10, 2024
 |}
-##References##
+<h2>References</h2>
 <references />

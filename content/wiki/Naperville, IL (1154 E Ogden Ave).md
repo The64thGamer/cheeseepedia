@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-06-04T03:43:59Z
 
 [Article]
+pageThumbnailFile = "desc=Front shot of the store's entrance in 2014 (PC: NCTV17)|image=NapervilleILCECOldLocationExterior.jpeg"
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0C:5900:B015:4E62:36E4:7B06","72.76.251.24","ThatBoiCydalan","Tux Chuck","Scubasteve7","CoolerDude"]
 gallery = []
 +++
-{{Generic|desc=Front shot of the store's entrance in 2014 (PC: NCTV17)|image=NapervilleILCECOldLocationExterior.jpeg}}
-**_Naperville, IL (1154 E Ogden Ave), Store #97**_ was a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 4, 1983, as a Corporate _Showbiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on March 1, 2015, with a Studio C Alpha.
+
+<b><i>Naperville, IL (1154 E Ogden Ave), Store #97</b></i> was a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on April 4, 1983, as a Corporate <i>Showbiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on March 1, 2015, with a Studio C Alpha.
 
 It should not be confused with the [new Naperville location]({{< ref "wiki/Naperville, IL (509 Illinois Rte 59).md" >}}) which opened on March 9th, 2015, with the Circles of Light stage and is still open to this day.
 
-##History##
+<h2>History</h2>
 Naperville opened its doors on April 4th, 1983, with a Rock-afire Explosion show. It was originally a corporate-owned store. Like many other Showbiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it opened in 1988-1989 removing older SPP decor for newer SPP decor and changing the Billy Bob stage. Unfortunately, very little documentation exists back in the ShowBiz Pizza era.
 
 In around 1991, Naperville received Concept Unification which converted the show to Munch's Make-Believe Band with a new exterior and removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, and added checkers around and outside the store. By the Mid 1990's, Naperville received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor and added new decor, added SkyTubes in place of the ball pit, and also an exterior change. The 3-Stage was removed for the Studio C Alpha in 2000. Naperville remained this way until sometime in 2006 when they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (Which was an interior only remodel) which involved removing the Showroom Walls, Balcony Seating, and also removing some older 90's decor. Naperville would remain like this until March 1st, 2015, when they relocated to the Illinois Route 59 location for unknown reasons, probably due to parking or lease issues. After relocation, the building would be cleared out and all the exterior signage would be taken down including the road sign and the awnings. After the awnings were removed, the checkers and some of the former paint job would be revealed. Th building itself would remain abandoned for a few months until in 2016 when they would become a HomeWerks house renovating/furniture store. As of March 2024, the HomeWerks is still here.
-##Stages##
+<h2>Stages</h2>
 Naperville opened with the Rock afire Explosion in April 1983. Unfortunately, there are hardly photos or videos to exist of Naperville with the Rock afire, or as a Showbiz in general.
 
 In 1991, Naperville received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make-Believe Band.
@@ -46,7 +47,7 @@ The store relocated in March 2015.
 |March 2015
 |One of 4 Alphas in Illinois.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -119,7 +120,7 @@ The store relocated in March 2015.
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

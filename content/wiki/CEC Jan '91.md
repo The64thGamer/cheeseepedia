@@ -14,80 +14,80 @@ CEC JAN 91 / WAVE BDAY
 Serial #0054 Deck - 9
 12/10/90 - Master CYBERSTAR}}
 
-**_January 1991 Show**_ also known as **_Friends**_ was released to all Chuck E. Cheese's locations in the beginnning of 1991. It was Nancy Lenehan's final show as Helen Henny, along being the final showtape to feature any music videos until they reintroduce them beliefly in [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}) to [Spring Training]({{< ref "wiki/Spring Training.md" >}}).
+<b><i>January 1991 Show</b></i> also known as <b><i>Friends</b></i> was released to all Chuck E. Cheese's locations in the beginnning of 1991. It was Nancy Lenehan's final show as Helen Henny, along being the final showtape to feature any music videos until they reintroduce them beliefly in [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}) to [Spring Training]({{< ref "wiki/Spring Training.md" >}}).
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Hot_Diggity_(Dog_Ziggity_Boom) Hot Diggity (Dog Ziggity Boom)]
 ### [https://en.wikipedia.org/wiki/Happy_Together_(song) Happy Together]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/After_Eight_(album) Puttin On The Ritz]
 ## Cyberstar Intro
-# ** Segment 1**
+# <b> Segment 1</b>
 ## A World Of Ways To Say Hi
 ## Treat 'Em Like You Wanna Be Treated
 ## Stand By Your Friends
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/When_I_Think_of_You When I Think Of You]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Yakety_Yak Yakety Yak]
 ### [https://en.wikipedia.org/wiki/Mony_Mony_(album) Mony Mony]
 ## It's Showtime!
-# **Video 1**
+# <b>Video 1</b>
 ## [https://en.wikipedia.org/wiki/Shooting_Rubberbands_at_the_Stars Edie Brickell & The New Bohemians - Love Like We Do]
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Rock_the_Boat_(The_Hues_Corporation_song) Rock The Boat]
 ### [https://en.wikipedia.org/wiki/The_Love_You_Save The Love You Save]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_(album) Do You Believe In Magic]
 ## Cyberstar Intro
-# ** Segment 2**
+# <b> Segment 2</b>
 ## Whoops, Wow, Who Me?
 ## We're Proud To Be Unique
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/(Your_Love_Keeps_Lifting_Me)_Higher_and_Higher Higher & Higher (By Jackie Wilson)]
 ### [https://en.wikipedia.org/wiki/25_or_6_to_4 25 or 6 to 4]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Calypso_(album) Banana Boat Song (Day-O)]
 ## It's Showtime!
-# **Video 2**
+# <b>Video 2</b>
 ## [https://en.wikipedia.org/wiki/Tomorrow_(A_Better_You,_Better_Me) Quincy Jones Feat Tevin Campbell - Tomorrow]
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Calypso_(album) Banana Boat Song (Day-O)]
 ### [https://en.wikipedia.org/wiki/Hasten_Down_the_Wind That'll Be the Day]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/Shop_Around Shop Around]
 ## Cyberstar Intro
-# ** Segment 3**
+# <b> Segment 3</b>
 ## You're A Winner
 ## Chuck E's Place
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 8 Minute Countdown
 ### [https://en.wikipedia.org/wiki/The_Love_You_Save The Love You Save]
 ### [https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_(album) Do You Believe In Magic]
 ### Birthday Extravaganza
 ### [https://en.wikipedia.org/wiki/(Your_Love_Keeps_Lifting_Me)_Higher_and_Higher Higher & Higher (By Jackie Wilson)]
 ## It's Showtime!
-# **Video 3**
+# <b>Video 3</b>
 ## [https://en.wikipedia.org/wiki/Club_at_the_End_of_the_Street Elton John - Club At The End Of The Street]
 
-##Production##
+<h2>Production</h2>
 
-#### Filming Locations: ####
+<h2>== Filming Locations: </h2>==
 * The Arlington, TX (2216 S Fielder Rd) location was featured in Chuck E's Place.
 
-#### The Puppets: ####
+<h2>== The Puppets: </h2>==
 
 * TO DO:
-###APS Files###
+<h2>=APS Files</h2>=
 The show was a part of the [1990-1992 APS Floppy Cases]({{< ref "wiki/1990-1992 APS Floppy Cases.md" >}}), being the third tape known to be made using APS.
-####Floppy Disk Labels####
+<h2>==Floppy Disk Labels</h2>==
  'JAN 91' #1 .APS files
  'JAN 91' #2
  'JAN 91' #3
@@ -111,7 +111,7 @@ The show was a part of the [1990-1992 APS Floppy Cases]({{< ref "wiki/1990-1992 
  3-STAGE
  January, 1991 Show
  11-90 #90-11
-####Files####
+<h2>==Files</h2>==
 This table excludes entries for the [CEC Christmas '90 / Wave Bday]({{< ref "wiki/CEC Christmas '90  Wave Bday.md" >}}) show. 
 {| class='wikitable'
 |+Road Stage Floppy
@@ -210,9 +210,9 @@ This table excludes entries for the [CEC Christmas '90 / Wave Bday]({{< ref "wik
 |(3-S)'WINNERS'
 |'CHUCK E'S PLACE'
 |}
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * It's Showtime! bumper which was introduced back in 1988, along with the Cyberstar Intro retires in favor for the new animated intro for CEC-TV debuting in [CEC Future]({{< ref "wiki/CEC Future.md" >}}).
 * Chuck E's Place would be reused in the future starting with the live show Land of 1000 Dances 1991, and most famously Havin' A Party in 1992.

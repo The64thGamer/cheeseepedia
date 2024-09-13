@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-06-18T18:20:35Z
 
 [Article]
+pageThumbnailFile = "Chuck-e-cheeses-catonsville-0000.jpg|Exterior before May 2024"
 contributors = ["Chuckepoggers69","Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Chuck-e-cheeses-catonsville-0000.jpg|desc=Exterior before May 2024}}
-**_Catonsville, MD (5912 Baltimore National Pike)**_ is a _Chuck E. Cheese_ that opened on February 25, 1992 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-## History ##
+<b><i>Catonsville, MD (5912 Baltimore National Pike)</b></i> is a <i>Chuck E. Cheese</i> that opened on February 25, 1992 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<h2> History </h2>
 This location opened February of 1992 with a Road Stage, 
 In the mid 1990s they would replace the stage with a 2-Stage most likely salvaging the animatronics from the Road Stage,
 They also most likely got a remodel during this time, and probably got a remodel in the early 2000s.
@@ -20,7 +21,7 @@ By 2007, the location had already received the [CEC 2005 Remodel Program]({{< re
 
 In May 2024, they began the 2.0 Remodel in the interior and later the exterior by May 26th, 2024.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |-
 !Stage

@@ -18,61 +18,61 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 3 2021**_ is the Summer show released May 31, 2021.
+<b><i>Show 3 2021</b></i> is the Summer show released May 31, 2021.
 
 This was created with conjunction with the Summer of Fun promotion and would play from May 31, 2021 - August 29, 2021. This show features 7 Songs with 4 of which being new and 3 being reused and a live show called Chuck E.'s Beach Party Bash.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Social Distancing Safety Message
 ##  Summer of Fun Bumper feat. Chuck E. & Jasper
 ##  KIDZ BOP Kids - 'Uptown Funk'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. & Friends - 'Song of Summer'
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Marshmello - 'Summer'
 ## Ants Ants Ants - 'Blue'
 ## Summer Fun Pass Promo
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - “Out of This World”
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Social Distancing Safety Message
 ##  Danny Weinkauf - 'Ice Cream'
 ##  KIDZ BOP Kids - 'I Love It'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Jasper T. Jowls - 'Dog Days of Summer'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Summer of Fun Bumper Feat. Chuck E. & Helen
 ##  Milo Manheim - 'We Own the summer'
 ## Tails of Friendship with Jasper T. Jowls Episode 3 - 'Ronnie the Unicorn'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Chuck E. Cheese is All About Fun!'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## The Whizpops - 'Sea Turtle'
 ##  KIDZ BOP Kids - 'Cake by The Ocean'
-#  **Skit 5**
+#  <b>Skit 5</b>
 ## Chuck E. & Helen 'I Dare You Not to Laugh' 
-#  **Intermission 6**
+#  <b>Intermission 6</b>
 ## AREA21 - 'La La La'
 ## Summer Jokes from Pasqually
 ## Summer Fun Pass Promo
-# **Skit 6**
+# <b>Skit 6</b>
 ## Jasper & Munch - 'Song Title'
-#  **Intermission 7**
+#  <b>Intermission 7</b>
 ## Summer of Fun Bumper Feat. Munch & Chuck E.
 ## Cody the Dinosaur - 'Cody Goes to the Beach'
-# **Skit 7**
+# <b>Skit 7</b>
 ## Chuck E. Cheese - 'Let's Be Friends
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 # Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 # Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 #  Chuck E.'s Beach Party Bash (3stage, Cyberamic, Studio C,Weigl)
 
-## Official Releases: ##
+<h2> Official Releases: </h2>
 [https://www.youtube.com/watch?v=T0I3FUyftB0&t 'Chuck E.'s Beach Party Bash' on YouTube]
 
 [https://www.youtube.com/watch?v=66zh0I4FBsY 'Song of Summer' on YouTube]
@@ -83,8 +83,8 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 
 [https://www.youtube.com/watch?v=0tRcjY7rEHY 'Let's Be Friends' on YouTube]
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * During the '[Chuck E. Cheese Summer of Fun Concert Tour]({{< ref "wiki/CEC Summer of Fun Concert (Event).md" >}})' CEC made a duet version of [https://www.youtube.com/watch?v=bTIpWzNSQpk 'Dog Days of Summer'] between Jasper and Helen.
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>

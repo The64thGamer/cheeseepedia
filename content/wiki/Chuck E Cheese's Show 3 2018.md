@@ -17,48 +17,48 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 3 2018**_ released April 16, 2018
+<b><i>Chuck E. Cheese's Show 3 2018</b></i> released April 16, 2018
 
 This was created to play from April 16, 2018 - June 25, 2018. Featuring 5 songs and a brand new live show! 4 songs are new with 1 being reused.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Skit 1** 
+#  <b>Skit 1</b> 
 ## 'Happy Birthday, Helen Henny!'
-#  **Intermission 1** 
+#  <b>Intermission 1</b> 
 ## Zedd, Maren Morris, Grey - 'The Middle'
 ## Floogals -  'Flowers'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Helen Henny - 'Dream Big'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  Battery Pop - 'OmNom Stories Episode 2'
 ##  Coco Jones - 'Holla At The DJ'
 ## Chuck E. Cheese's Birthday - 'Unlimited Games/Play Band'
 ##  Nina's World - 'Star Amigos'
 ##  Alice Merton - 'No Roots'
 ##  Chuck E. Cheese's More Cheese Rewards
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. Cheese - 'More Cheese'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Lisa Loeb - 'Wiggle'
 ## Chuck E. Cheese's Buffet
 ## DJ Snake, Luav - 'A Different Way'
 ##  Chuck E. Cheese's Fun-Ticket-Tastic
 ##  Ocean Park Standoff - 'Lost Boys'
 ##  Battery Pop - 'Charlie Freaks Out - Rubix Cube'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Chuck E. Cheese & Jasper T. Jowls - 'Jasper's Country Classic'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Marlon Roudette - 'Ultra Love'
 ## UPTV - Birthday at Chuck E. Cheese's
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese & Friends - 'Fun!'
-#  **Intermission 5**
+#  <b>Intermission 5</b>
 ## Fun Facts with Chuck E. Cheese - 'Chili's'
 ## Chuck E. Cheese's - Made You Smile (More Cheese)
 ## Jillian Jacqueline - 'Somebody'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show 2018 (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -69,15 +69,15 @@ This was created to play from April 16, 2018 - June 25, 2018. Featuring 5 songs 
 * Chuck E. Says(3stage, Cyberamic, Studio C,Weigl)
 * Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-##Official Releases: ##
+<h2>Official Releases: </h2>
 *[https://www.youtube.com/watch?v=E0flNZ9VcvQ 'More Cheese' on YouTube]
 *[https://www.youtube.com/watch?v=euwhsCCD6rc 'Fun!' on YouTube]
 *[https://www.youtube.com/watch?v=TY_LztKVp0Y 'Jasper's Country Classic' on YouTube]
 *[https://www.youtube.com/watch?v=wYGFavrntbM 'Easy Dance' on YouTube]
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Dream Big was originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016).
 * For April Fools day 2018 CEC Created 'Munch's Make Believe Bands Farewell Tour' Which on April 1, 2018 CEC released an album where three of the songs featured on the show were released early. Those being 'More Cheese', 'Jasper's Country Classic' and 'Easy Dance'. Easy Dance was hidden after 'Your Birthdays Are Special'

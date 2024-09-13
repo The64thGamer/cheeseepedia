@@ -13,7 +13,7 @@ The Dragon, is a Earl retrofit made by Jim Cox<ref>https://www.flickr.com/photos
 
 The cosmetics have a wire-frame base underneath to support the shape of the cosmetics, covering this is a blue painted rubber layer, it appears to have shading applied to a blue base, this rubber mask is then connected to a full body with wings and a tail.
 
-The mask was sculpted in clay and was made using the wireframe and sculpting over the mechanism<ref>https://www.flickr.com/photos/32305248@N03/3022354239/</ref>, however what the mask mold was made from is currently unknown, possibly urethane rubber as another retrofit by Jim Cox had a mold made using that material. <ref>https://www.flickr.com/photos/32305248@N03/3022343565/</ref>
+The mask was sculpted in clay and was made using the wireframe and sculpting over the mechanism<ref>https:<i>www.flickr.com/photos/32305248@N03/3022354239/</ref>, however what the mask mold was made from is currently unknown, possibly urethane rubber as another retrofit by Jim Cox had a mold made using that material. <ref>https:</i>www.flickr.com/photos/32305248@N03/3022343565/</ref>
 
 To support the mechanism having missing cylinders, a wooden block was put around the arm twist, a wooden rod put at the head tilt down where the cylinder would once be and a metal bracket put from the bottom of the head to the top of where the arm would start (now the base of the mechanism) this was to ensure nothing would slip and move when unintended. (It is also possible that the eye positioning was spread more apart, however it is hard to tell with limited resources).
 

@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-06-22T05:05:37Z
 
 [Article]
+pageThumbnailFile = "LAYTONUT.jpg|Layton in 2019"
 contributors = ["Cheeseslicez"]
 gallery = []
 +++
-{{Generic|image=LAYTONUT.jpg|desc=Layton in 2019}}
 
-**450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in June 2020
 
-## History ##
+<b>450 N Main St</b> was a Chuck E Cheese's opened in 2008 (day Unknown) with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and closed in June 2020
+
+<h2> History </h2>
 Layton opened as a phase 4 store and had little to no changes during it's lifespan. This store has little to no documentation, and few photos. After 2017 Layton and Salt Lake City were the only 2 Chuck E Cheese's in the state of Utah. Layton opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) but they were removed later on. 
 
-## Stages ##
+<h2> Stages </h2>
 As previously stated this location opened with a Studio C Beta with a 16m bot and it's whereabouts are unknown as of today
 {| class='wikitable'
 |+
@@ -32,15 +33,15 @@ As previously stated this location opened with a Studio C Beta with a 16m bot an
 |Unknown/Destroyed
 |}
 
-## Post Closure ##
+<h2> Post Closure </h2>
 In June 2020 Layton was one of the 34 locations closed due to Chuck E Cheese declaring for Chapter 11 bankruptcy. The building would be gutted and stripped of all Chuck E Cheese branding although the road sign remained until 2021 when the building was turned into a Young Automotive group. The road sign was repainted with the Young Automotive Group logo. After Layton closed it left Salt Lake City as the only CEC in the state of Utah 
 
-## Videos ##
+<h2> Videos </h2>
  TODO: Videos
 
 
 
 
-## Resources ##
+<h2> Resources </h2>
  T
 __INDEX__

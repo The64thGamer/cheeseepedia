@@ -11,11 +11,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 {{Showtape
 |image=Per posal .jpg 
 |date=September 23, 2012
-|digital=y}}**_The Proposal / Automobile**_ was a custom _Rock-afire Explosion_ showtape made as a performance for a fan's marriage proposal.
+|digital=y}}<b><i>The Proposal / Automobile</b></i> was a custom <i>Rock-afire Explosion</i> showtape made as a performance for a fan's marriage proposal.
 
-The fan, Tony, worked together with _Creative Engineering_ to create the show, in which he would perform alongside pre-recorded lines from Billy Bob and Looney Bird about losing his engagement ring, before finding it and proposing to his then-girlfriend, Sam. This would be done during a tour of the Creative Engineering building on September 23, 2012, in which Sam agreed to Tony's proposal.
+The fan, Tony, worked together with <i>Creative Engineering</i> to create the show, in which he would perform alongside pre-recorded lines from Billy Bob and Looney Bird about losing his engagement ring, before finding it and proposing to his then-girlfriend, Sam. This would be done during a tour of the Creative Engineering building on September 23, 2012, in which Sam agreed to Tony's proposal.
 
-## Decision Tree ##
+<h2> Decision Tree </h2>
 Unlike a standard showtape, each segment was part of a large decision tree. A website was made that had each decision link to a specific page, in which the segment's audio and signals would play automatically upon loading.
 
 Below is the original dialogue text to be acted out, unaltered. Green highlights marked the options officially picked during the show. Weirdly, in segment 4, option 1 happens, but afterwards is changed to then pick option 3, making the only moment in the decision tree where multiple options are selected.
@@ -308,56 +308,56 @@ Below is the original dialogue text to be acted out, unaltered. Green highlights
 |
 |}
 
-## Show List ##
+<h2> Show List </h2>
 The official ordering of the shows, along with the official segment names
 
-# ** Segment 1**
+# <b> Segment 1</b>
 ## Marriage Proposal
 ### [https://en.wikipedia.org/wiki/Tracyanne_Campbell Automobile]
-# ** Segment 2**
+# <b> Segment 2</b>
 ## Check if Sam's OK
-# **** **Segment 3**
+# <b></b> <b>Segment 3</b>
 ## How Many Whops
-# **** **Segment 4**
+# <b></b> <b>Segment 4</b>
 ## Standing Right Here
-# **** **Segment 5**
+# <b></b> <b>Segment 5</b>
 ## Are You Sure
-# **** **Segment 6**
+# <b></b> <b>Segment 6</b>
 ## Tony Has Something to Ask
-# **** **Segment 7**
+# <b></b> <b>Segment 7</b>
 ## Can Tony Have a New Grill
-# **** **Segment 8**
+# <b></b> <b>Segment 8</b>
 ## Get Ring Out-One Knee
-# **** **Segment 9**
+# <b></b> <b>Segment 9</b>
 ## Got Ring Don't Ya
-# **** **Segment 10**
+# <b></b> <b>Segment 10</b>
 ## Check Pockets
-# **** **Segment 11**
+# <b></b> <b>Segment 11</b>
 ## Think What Did You Do
-# **** **Segment 12**
+# <b></b> <b>Segment 12</b>
 ## Ring Found-Tony Proposes
-# **** **Segment 13**
+# <b></b> <b>Segment 13</b>
 ## Celebration and Music
-# **** **Segment 14**
+# <b></b> <b>Segment 14</b>
 ## Check Your ID
-# **** **Segment 15**
+# <b></b> <b>Segment 15</b>
 ## OK Tony-Sam
-# **** **Segment 16**
+# <b></b> <b>Segment 16</b>
 ## Sittin Down
-# **** **Segment 17**
+# <b></b> <b>Segment 17</b>
 ## Told Sam Talking Bear
-# **** **Segment 18**
+# <b></b> <b>Segment 18</b>
 ## No the Wit
-# **** **Segment 19**
+# <b></b> <b>Segment 19</b>
 ## Having Good Time So Far
-# **** **Segment 20**
+# <b></b> <b>Segment 20</b>
 ## Never Ask A Woman's Age
-# **** **Segment 21**
+# <b></b> <b>Segment 21</b>
 ## Sam's Funny-You're Lucky
-# **** **Segment 22**
+# <b></b> <b>Segment 22</b>
 ## Check if Sam's OK
 
-## Official Releases ##
+<h2> Official Releases </h2>
 
 * [https://www.youtube.com/watch?v=TRy_JiGuBzk Marriage Proposal- The Rock-afire Explosion- 'Automobile']
 * [https://www.youtube.com/watch?v=Vrl5zmNIeV4 How to get the ring from Looney Bird- 'The Proposal']

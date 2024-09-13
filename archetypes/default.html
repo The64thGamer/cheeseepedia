@@ -1,9 +1,13 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"
-date = {{ .Date }}
-draft = false
-tags = []
+title = "{{ replace .Name "-" " " | title }}" #page title
+date = {{ .Date }}          #Date of latest contribution
+draft = false               #Keep false, true hides it from compiling
+tags = []                   #Categories -> ["Showtape"] -> ["User","Meta"]
 
 [Article]
-contributors = []
+pageThumbnailFile = ""      #The main picture -> "link|description" -> "what.jpg|A cool image (2023)"
+startDate = ""              #When was this made/opened/started?
+endDate = ""                #When did it stop/close/end production?
+gallery = []                #Keep all pictures here -> ["what1.jpg|A cool image (2023)", "what2.png|A bad image (2024)"]
+contributors = []           #Insert your username in here! Keep spelling consistent! -> ["Contrib1","Contrib2","Contrib3"]
 +++

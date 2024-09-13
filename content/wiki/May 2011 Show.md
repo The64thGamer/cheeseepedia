@@ -17,16 +17,16 @@ gallery = []
 |dvdcyber=y
 }}
 
-The **May 2011 Show** was the spring & summer show released after the previous show, January 2011. It featured eight new songs, and ran until August 2011.
+The <b>May 2011 Show</b> was the spring & summer show released after the previous show, January 2011. It featured eight new songs, and ran until August 2011.
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##CEC TV ID - 'Fireworks'
-#**Segment 1**
+#<b>Segment 1</b>
 ##'Word Up'
 ##'I Ran (So Far Away)'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ## Backstage Pass - 'Chad Blashford'
 ##Fun Facts - 'Snails can sleep for three years'
 ##CEC TV ID - 'Family Heads'
@@ -42,10 +42,10 @@ The **May 2011 Show** was the spring & summer show released after the previous s
 ##Quaker Chewy Chocolate Chip
 ##Wow Wow Wubbzy! - 'Fly Us To The Moon'
 ##CEC TV ID - 'Filling In The Colors'
-#**Segment 2**
+#<b>Segment 2</b>
 ##'We Got the Beat'
 ##'Don't You Wanna Share'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Shout Factory - 'Dennis the Menace DVD'
 ##The Zone - 'Le Petit Cirque'
 ##The Baby Grands - 'Robots'
@@ -54,10 +54,10 @@ The **May 2011 Show** was the spring & summer show released after the previous s
 ##The Zula Patrol - 'Day for Night'
 ##Trivia - 'What do jellyfish use to sting?'
 ##CEC TV ID - 'Sinking to the bottom of a pool'
-#**Segment 3** 
+#<b>Segment 3</b> 
 ##'Walk the Dinosaur'
 ##'The Place to Be'
-#**Intermission 4** 
+#<b>Intermission 4</b> 
 ##Pearlie - 'Bongo Boy'
 ##Yo Gabba Gabba!
 ## CEC TV ID - 'Rocketship'
@@ -67,28 +67,28 @@ The **May 2011 Show** was the spring & summer show released after the previous s
 ##Wow Wow Wubbzy! - 'Fly Us To The Moon'
 ## Backstage Pass - 'Singer/Pianist'
 ##VeggieTales - 'The Ballad of Little Joe'
-#**Segment 4** 
+#<b>Segment 4</b> 
 ## 'The Weekend'
 ##'Never a Long Goodbye'
-# **Intermission 5**  
+# <b>Intermission 5</b>  
 ## Dole Juice Promo
 ##The Zone - 'Yo Yo Professional'
 ##Shelldon - 'Pass It Along'
 
-##Production ##
+<h2>Production </h2>
 
-###File Dates ###
+<h2>=File Dates </h2>=
 *Studio C DVD: 4/6/2011
 
 *Studio C Floppy: 4/14/2011 to 4/15/2011
 
-###Production Gallery###
+<h2>=Production Gallery</h2>=
 
 
-##Showtape Scans / Images: ##
+<h2>Showtape Scans / Images: </h2>
 
 
-##Trivia##
+<h2>Trivia</h2>
 *This is the first of two shows (originally three) where Robert Gotcher provides the voice for Jasper following Jeremy Blaido's brief departure from the role. Previously, Robert has been Jasper's speaking voice for [Environment '92]({{< ref "wiki/Environment '92.md" >}}).
 *Prior to landing on Robert, Duncan Brannan was considered to become Jasper's new voice. Duncan had previously done Jasper's singing in [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}) and voiced him for [Chuck E's Magical Holiday Celebration]({{< ref "wiki/Chuck E's Magical Holiday Celebration.md" >}}), [Chuck E's Jukebox Jam Show]({{< ref "wiki/Chuck E's Jukebox Jam Show.md" >}}) and a brief bit of dialogue during 'Sharp Dressed Mouse' in the [August 1997 Show]({{< ref "wiki/August 1997 Show.md" >}}).
 *During segment four, a character named 'Jiggawatt' (played by Matt Daniel) is introduced for the purpose of creating song mashups. His name is a reference to 'Jigowatt' from [https://en.wikipedia.org/wiki/Back_to_the_Future Back to the Future] . After this show 'Jiggawatt' is never seen or mentioned again.

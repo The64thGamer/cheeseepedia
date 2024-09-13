@@ -8,16 +8,16 @@ date = 2023-02-15T06:46:17Z
 contributors = ["Emcaacme","The 64th Gamer","RPCEC","2600:4040:59FF:B100:1C33:ADF4:C21F:6EF0","Rexburg090"]
 gallery = ["Winter Park Rockafire Explosion.jpg|thumb|381x381px|A picture of Winter Park, FL featured on the back of the 'Gee Our 1st Album!' cover"]
 +++
-**Orlando / Winter Park, FL (1300 Lee Rd)** was one of three Showbiz Pizza Places located in the Orlando, Florida area.
+<b>Orlando / Winter Park, FL (1300 Lee Rd)</b> was one of three Showbiz Pizza Places located in the Orlando, Florida area.
 
 Though this location was short lived, it is notable for its appearance in promotional material for Showbiz Pizza Place and news coverage.
 
-## History ##
+<h2> History </h2>
 Orlando / Winter Park, FL (1300 Lee Rd) opened on April 27, 1982 as the 63rd Showbiz Pizza store. This store was quite standard, and featured much of the same entertainment, like the Rock-afire Explosion. Aaron and other employees of Creative Engineering Inc. would frequently visit this location whenever a new show was released to obtain feedback from the customers watching the show. Promos and CEI news videos also used footage from the store. It was the nearest Showbiz Pizza to the '47 W Jefferson St' Creative Engineering Building. After just under two years of operation, the store shut down on January 8th, 1984. Comparatively, this location did not last nearly as long as the other Orlando stores,  [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) and [Altamonte Springs, FL (541 W Hwy 436)]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).md" >}}). 
 
-### Post Closure ###
+<h2>= Post Closure </h2>=
 After this location closed, their Rock-afire Explosion show and several of the stores entertainment assets were saved and stored by Showbiz Corporate. Then, on November 5th 1984, the [Lafayette, LA (3221 Ambassador Caffery Pkwy)]({{< ref "wiki/Lafayette, LA (3221 Ambassador Caffery Pkwy).md" >}}) store opened, and the assets were recycled from Winter Park and used in this new store, including their Rock-afire Explosion show. That store closed in January 1995 as a Chuck E Cheese's Pizza with a Munch's Make Believe Band [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) and was later converted back to a RockAfire Explosion. 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -68,7 +68,7 @@ After this location closed, their Rock-afire Explosion show and several of the s
 |N/A
 |Sent to Lafayette, now unknown.
 |}
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

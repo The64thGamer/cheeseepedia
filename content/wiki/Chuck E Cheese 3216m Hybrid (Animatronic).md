@@ -5,9 +5,10 @@ tags = ["Animatronics"]
 date = 2024-02-28T02:07:56Z
 
 [Article]
+pageThumbnailFile = "32 movement with 16 movement head.jpg|An Image of the Bot"
 contributors = ["Bowling for Cheese","PizzaEntertainmentFanX"]
 gallery = []
 +++
-{{Generic|image=32 movement with 16 movement head.jpg|desc=An Image of the Bot}}
 
-The **_Chuck E. Cheese 32 / 16 Movement Hybrid**_ is an animatronic found at the [Pittsburgh, Pennsylvania]({{< ref "wiki/Pittsburgh, PA (20 McIntyre Square Dr).md" >}}) Chuck E. Cheese's store. The Bot has Chuck E. Cheese 32m (Animatronic) (the standard 32 movement lower half) with the head mech being replaced with Chuck E. Cheese 16m (Animatronic) (a 16 movement head mech) which came from the [Leominster, MA store]({{< ref "wiki/Leominster, MA (132 Sacks Blvd).md" >}}). The original head was discarded for parts. They simply removed the original head and installed the new one with no modifications made to the bot to install it.
+
+The <b><i>Chuck E. Cheese 32 / 16 Movement Hybrid</b></i> is an animatronic found at the [Pittsburgh, Pennsylvania]({{< ref "wiki/Pittsburgh, PA (20 McIntyre Square Dr).md" >}}) Chuck E. Cheese's store. The Bot has Chuck E. Cheese 32m (Animatronic) (the standard 32 movement lower half) with the head mech being replaced with Chuck E. Cheese 16m (Animatronic) (a 16 movement head mech) which came from the [Leominster, MA store]({{< ref "wiki/Leominster, MA (132 Sacks Blvd).md" >}}). The original head was discarded for parts. They simply removed the original head and installed the new one with no modifications made to the bot to install it.

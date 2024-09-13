@@ -18,64 +18,64 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 2 2020**_ was the Summer show released June 23, 2020 and featured four songs. It as the first CEC show in over 30 years to have no live shows.
+<b><i>Show 2 2020</b></i> was the Summer show released June 23, 2020 and featured four songs. It as the first CEC show in over 30 years to have no live shows.
 
 This show was created to play after stores went through the staggered re-openings from the COVID-19 lockdown from June 23, 2020 - August 31, 2020.
 
 Of the four songs. two were new and two were reused. Additionally, the Birthday Show was modified to account for the lack of a costumed Chuck E. Cheese.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Social Distancing PSA
 ## Welcome back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
-## **** Fun Facts with Chuck E. Cheese 'Dreams'
-# ** Skit 1**
+## <b></b> Fun Facts with Chuck E. Cheese 'Dreams'
+# <b> Skit 1</b>
 ## Bella B. & Mike Wolf - 'El Rey Guitarrista' 
-# **Intermission 2**
-## **** Universal Kids - 'Norman Picklestripes'
+# <b>Intermission 2</b>
+## <b></b> Universal Kids - 'Norman Picklestripes'
 ## KIDZ BOP Kids - 'Havana'
-## **** Video Chat with Chuck E, Helen and Jasper
+## <b></b> Video Chat with Chuck E, Helen and Jasper
 ## Social Distancing PSA
-## **** Devon Gilfillian - 'Unchained'
+## <b></b> Devon Gilfillian - 'Unchained'
 ## Wheel of Whatever - 'Oven Mitt Art'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'My Family'
-# **Intermission 3**
-## **** Universal Kids - 'Remy & Roo'
-## **** Chris Stapleton - 'Second One To Know'
-## **** Video Chat with Chuck E. & Bella
+# <b>Intermission 3</b>
+## <b></b> Universal Kids - 'Remy & Roo'
+## <b></b> Chris Stapleton - 'Second One To Know'
+## <b></b> Video Chat with Chuck E. & Bella
 ## Social Distancing PSA
-## **** Universal Kids - 'American Ninja Warrior Jr'
+## <b></b> Universal Kids - 'American Ninja Warrior Jr'
 ## Louis the Child Ft. Drew Love - 'Free'
-# ** Skit 3**
+# <b> Skit 3</b>
 ## Chuck E. & Friends - 'Barbra the Barnyard Barber'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Kelly Rowland - 'Crown'
-## **** Universal Kids - 'Remy & Roo'
-## **** Gift Shop Guru - 'Dinosaur Pets'
-# **Skit 4**
+## <b></b> Universal Kids - 'Remy & Roo'
+## <b></b> Gift Shop Guru - 'Dinosaur Pets'
+# <b>Skit 4</b>
 ## Chuck E. & Friends - 'Out of This World'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Social Distancing PSA
-## **** Video Chat with Nigel & Ronnie
-## **** KIDZ BOP Kids - 'Friends'
+## <b></b> Video Chat with Nigel & Ronnie
+## <b></b> KIDZ BOP Kids - 'Friends'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 * Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 * [https://www.youtube.com/watch?v=R5ssh20uUG8 'Barbra the Barnyard Barber' on YouTube]
 * [https://www.youtube.com/watch?v=HkO-UIx8auE 'El Rey Guitarrista' on YouTube]
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'My Family' is originally from Chuck E. Cheese's Show 3 2019 (Show 3 2019) and 'Out of This World' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016). 
 * This show is different from the originally planned Show 2 2020. The original new content CEC had planned for Show 2 2020 would have included a new Birthday show and two new songs ( 'Chuck E.'s Middle Name' and 'El Rey Guitarrista').  Two new Silly Songs were planned: 'Barbara the Barnyard Barber' and 'Get a Chuck E. Hug'. <ref>https://www.instagram.com/p/B8rbpKtnRzH/</ref>

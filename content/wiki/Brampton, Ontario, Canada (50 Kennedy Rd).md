@@ -8,11 +8,11 @@ date = 2024-04-20T15:31:51Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_50 Kennedy Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in May 1991 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+<b><i>50 Kennedy Rd</b></i> is a Chuck E. Cheese's Pizza Time Theater that opened in October 1984 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in May 1991 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
-##History##
+<h2>History</h2>
 TODO
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -29,7 +29,7 @@ TODO
 |May 1991
 |One of the 4 installed in Canada.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date

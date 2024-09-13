@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-08-05T00:38:39Z
 
 [Article]
+pageThumbnailFile = "Dallas, TX (Montfort) exterior (1987-November 1989).png|The exterior after they finished their 1986 remodel."
 contributors = ["Montfortdog","Chouts1","Rexburg090","CECBowlingGreen","Emcaacme","ChuckECool","BurgersNuggs445","RedaCEC","Midwestretail","The 64th Gamer","ShowbizMidwest","GabrielPennington9864","98.122.34.98","120.28.237.125","CorrectorMan","47.223.117.250","2605:AD80:31:19FD:F87A:255:C815:A4AA","SuperCreamPiper2008","CoolerDude","ThatBoiCydalan","AstridMascotFan2005","Caydenpedia","CECMadison","CEC1988","Stripes"]
 gallery = [":AAM clipping Sept 1996.jpg|AAM Clipping"]
 +++
-{{Generic|image=Dallas, TX (Montfort) exterior (1987-November 1989).png|desc=The exterior after they finished their 1986 remodel.}}
-**_Dallas, TX (13125 Montfort Dr) Store #580**_ was a _Showbiz Pizza Place_ that opened on January 26, 1983, with a Rock-afire Explosion, which closed and relocated in December 2001. 
+
+<b><i>Dallas, TX (13125 Montfort Dr) Store #580</b></i> was a <i>Showbiz Pizza Place</i> that opened on January 26, 1983, with a Rock-afire Explosion, which closed and relocated in December 2001. 
 
 This store is notable for being the very first store to undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and later the only [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) stage. Throughout the 90s the location was featured in many training tapes and showtapes for Chuck E. Cheese restaurants.
 
-##Stages##
-Shortly after opening, the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) was minorly updated to have a customized backdrop on center stage, then, later on, would also receive 'Showbiz Pizza Campgrounds' before undergoing an early process of [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and receiving the [CU Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}}) as a test show in sometime between 1989 and May 1990<ref>https://www.youtube.com/watch?v=OaBv_EGz7_c</ref>, and later received the finalized 3-Stage in June 1990<ref>https://www.youtube.com/watch?v=nCxuWWzRFmA</ref>.
+<h2>Stages</h2>
+Shortly after opening, the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) was minorly updated to have a customized backdrop on center stage, then, later on, would also receive 'Showbiz Pizza Campgrounds' before undergoing an early process of [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and receiving the [CU Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}}) as a test show in sometime between 1989 and May 1990<ref>https:<i>www.youtube.com/watch?v=OaBv_EGz7_c</ref>, and later received the finalized 3-Stage in June 1990<ref>https:</i>www.youtube.com/watch?v=nCxuWWzRFmA</ref>.
 
 The 3-Stage would fall into disrepair in the mid-1990s and began being replaced with the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) concept on August 11, 1996. By August 21, which is the initial in-store premiere. The Awesome Adventure Machine is believed to be the next big step for Showbiz Pizza Time into the new millennium.<ref></ref> However, once completed, the show would ultimately end up in operation for only one year due to budget and technical concerns. The concept would be scrapped completely in favor of one of the first Studio C (1997) (Studio C) shows.
 
@@ -46,8 +47,8 @@ Although little is known of the location's Studio C, it has been discovered in J
 |December 2001
 |}
 
-## History##
-The Montfort Showbiz Pizza Place opened on January 26th, 1983 as the 23rd corporate-owned store in the United States. The space the store would occupy initially was a Target Foods that was later converted to a Kroger grocery store, which is located next to Target T-13 (which opened in 1969) After Kroger's closure, the pizza establishment remained mostly unchanged, leaving the former Chuck E. Cheese's exterior as one of the only pieces of evidence of Kroger's existence.<ref>https://i.pinimg.com/474x/46/ff/c5/46ffc50e0012be167c2be29c56d70f9e--retail-signs-vintage-signs.jpg</ref> On November 28, 1983, the location became the first of four SPPs to premiere the Showscan Theater for Showbiz Pizza and Brock Hotel Corp executives.<ref>https://en.wikipedia.org/wiki/Showscan</ref> The concept lasted until the merging of Pizza Time Theatre and Showbiz Pizza Place, with a lack of funding being a possibility.
+<h2> History</h2>
+The Montfort Showbiz Pizza Place opened on January 26th, 1983 as the 23rd corporate-owned store in the United States. The space the store would occupy initially was a Target Foods that was later converted to a Kroger grocery store, which is located next to Target T-13 (which opened in 1969) After Kroger's closure, the pizza establishment remained mostly unchanged, leaving the former Chuck E. Cheese's exterior as one of the only pieces of evidence of Kroger's existence.<ref>https:<i>i.pinimg.com/474x/46/ff/c5/46ffc50e0012be167c2be29c56d70f9e--retail-signs-vintage-signs.jpg</ref> On November 28, 1983, the location became the first of four SPPs to premiere the Showscan Theater for Showbiz Pizza and Brock Hotel Corp executives.<ref>https:</i>en.wikipedia.org/wiki/Showscan</ref> The concept lasted until the merging of Pizza Time Theatre and Showbiz Pizza Place, with a lack of funding being a possibility.
 
 On October 3, 1988, the location would be unified with CEC under the 1986 SPT Remodel Program (1986 remodel initiative) and would remodel once again around 1993. This would also had the SPP logo flipped upside down. The former Sports Room present inside the Showbiz would be converted into a regular dining space following the first major remodel. The location would also receive [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) in 1995 and [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) upgrades in 1997. It is unknown if they've ever received [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}).
 
@@ -55,7 +56,7 @@ In December 2001, the location relocated to [13364 Montfort Dr]({{< ref "wiki/Da
 
 The Showroom and kiddie area was left mostly intact although both areas are being used as storage now. The showroom still has what remains of Studio C, along with the dinner light fixtures still in the ceiling. The rest of the former Chuck E. Cheese's is currently used for Target office space. Currently, there are 2 exterior photos of it as a Showbiz Pizza Place, with Chuck E. Cheese exterior photos being lost media. 
 
-## Arcade Machines##
+<h2> Arcade Machines</h2>
 Identified 1998 Machines
 *Chuck E's Rubble Bubble
 *[Chuck E. Cheese's Hightops]({{< ref "wiki/Chuck E Cheese's Hightops.md" >}})
@@ -89,7 +90,7 @@ Identified 1998 Machines
 *[https://www.arcade-museum.com/game_detail.php?game_id=19716 Cyclone]
 *[https://www.arcade-museum.com/game_detail.php?game_id=19671 Buzzy Buzzy Bee]
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -148,7 +149,7 @@ Identified 1998 Machines
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -236,5 +237,5 @@ Identified 1998 Machines
 |Destroyed
 |}
 
-##References##
+<h2>References</h2>
 <references />

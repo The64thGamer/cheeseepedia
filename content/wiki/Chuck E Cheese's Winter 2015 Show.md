@@ -18,35 +18,35 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Winter 2015**_ is the Winter show released December 29th 2014 featuring six songs
+<b><i>Winter 2015</b></i> is the Winter show released December 29th 2014 featuring six songs
 
 This was created to play from December 29th 2014 - March 15th 2015. This show features four songs with a new live called Do the Chuck E. (2015) and a new Birthday called Chuck E.'s Birthday 2015 Show.
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Skit 1** 
+#<b>Skit 1</b> 
 ##Music Video - 'Fun For All' (Chuck E.)
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##Act 1 - 'Wolf in Sheep's Clothing'
 ##Josh and the Jamtones - 'John Jacob'
 ##Sketch - Hard Hat Hank - 'Box'
 ##Act 2 - 'Where Are They Now?'
-#**Skit 2** 
+#<b>Skit 2</b> 
 ##Music Video - 'Chasin' Me a Truck' (Jasper)
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##Josh and the Jamtones - 'Bear Hunt Lodge'
 ##CEC Social Media Promo
 ##Show Break - 'Driving Time Lapse'
 ##Act 3 - 'We Gotta Get The Band Back Together'
-#**Skit 3** 
+#<b>Skit 3</b> 
 ##Music Video - 'Dancin' Kitten' (Chuck E.)
-#**Intermission 3** 
+#<b>Intermission 3</b> 
 ##CEC Live Promo
 ##Josh and the Jamtones - 'Iko Iko'
 ##Act 4 Part 1 - 'Battle of the Bands'
-#**Skit 4** 
+#<b>Skit 4</b> 
 ##Music Video - 'Party With You' (Helen)
-#**Intermission 4** 
+#<b>Intermission 4</b> 
 ##Act 4 Part 2 - 'The End'
 ##Josh and the Jamtones - 'Jump Up!'
 ##Sketch - Jokes From Pasqually - 'Bananas'
@@ -54,7 +54,7 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 ##Show Break - 'City Time Lapse'
 ##Josh and the Jamtones - 'Lighting Lake'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 *Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -65,10 +65,10 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 *[https://www.youtube.com/watch?v=3KTrZvABYls 'Fun For All' on YouTube]
 *[https://www.youtube.com/watch?v=j5zSOiFPMUo 'Chasin' Me a Truck' on YouTube]
@@ -78,7 +78,7 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 *[https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Band+%E2%80%93+Part+2+++Chuck+E.+Cheese%E2%80%99s.mp4 'Act 2' on Archive.org]
 *[https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Band+%E2%80%93+Part+3+++Chuck+E.+Cheese%E2%80%99s.mp4 'Act 3' on Archive.org]
 
-##Trivia:##
+<h2>Trivia:</h2>
 * This was the final CEC showtape for the following:
 ** To use the act format originally introduced in Summer 2014.
 ** To feature Mike Manly, Corby, Hard Hat Hank and Zoey, though the latter two through reused material.

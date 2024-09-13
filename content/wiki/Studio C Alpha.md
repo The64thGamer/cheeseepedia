@@ -5,43 +5,44 @@ tags = ["Stage Variations"]
 date = 2024-09-09T13:49:11Z
 
 [Article]
+pageThumbnailFile = "Studio-C Plano.png|Studio 'C' in Plano, TX (1999/2000)"
 contributors = ["ShowbizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","170.185.215.34","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","174.243.128.180","Cheeseclassic","Documentor","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia"]
 gallery = [":StudioCFanNameCitation.png",":Screenshot 20230101-144027 Messages.png"]
 +++
-{{Generic|image=Studio-C Plano.png|desc=Studio 'C' in Plano, TX (1999/2000)}}
-The **_Studio C (1997)**_ stage _(also known as **Studio C Alpha** by fans_<ref></ref>) is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002, 2012 and 2015, and is still around to this day. 
+
+The <b><i>Studio C (1997)</b></i> stage <i>(also known as <b>Studio C Alpha</b> by fans</i><ref></ref>) is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002, 2012 and 2015, and is still around to this day. 
 
 It was the first widely installed stage to have just 1 main animatronic character, being Chuck E. Cheese himself.
-##History##
+<h2>History</h2>
 
-###Corman & Associates ###
+<h2>=Corman & Associates </h2>=
 Corman & Associates' one of many concepts presented the concept as a 'Talent Show', with Chuck E. getting a suit and glasses. The rest of the band were strictly on screens, as CEC wanted to move the audience's attention away from a show with multiple characters, to a show with a more interactive experience. As the concept became revised, Corman settled on a Late-Night talk show i.e., Tonight show, David Letterman. This concept kept features like the Chroma Key and lighting. 
 
-### Prototyping###
+<h2>= Prototyping</h2>=
 The first prototype was created by Corman & Associates for the [Showbiz Pizza Time's Entertainment Department]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) in 1997. The prototype had an acute difference in appearance to the standard stage, with an entirely different cityscape, desk, chroma key area, and Interactive console area. 
 
 Chuck E.'s area had two additional shelves with books, statues, artifacts; and curtains over the window leading to the cityscape. The desk lights were all solid colors instead of a gradient and the desk itself was all one color. 
 
 The main monitor opted for individual bulbs as opposed to tube lighting. Directly under it was the Interactive Console, which when it made it to the first 5 initial locations, had [https://www.arcade-museum.com/game_detail.php?game_id=7848 Fred Flintstones Memory Match] before getting its own dedicated software. Next to the monitor area was the chroma key stage, which initially a stage with a larger camera, and a green screen. 
 
-###Finalization###
+<h2>=Finalization</h2>=
 The first prototype stage began construction at Corman in 1997 and was installed in [Showbiz Pizza Time's Entertainment Department]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}).  
 
 Shortly after, being revealed to a select few of managers on October 3, 1997, The first locations to have Studio 'C' were the [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) and [Brookfield, WI (19125 W Blue Mound Rd)]({{< ref "wiki/Brookfield, WI (19125 W Blue Mound Rd).md" >}}) locations, Brookfield being the first to open with the show in December 1997, and the North Dallas, TX store being the first to have replaced an existing show. 
 
 Even after the concept was finalized minor improvements were done to keep Studio 'C' a low maintenance attraction. This included but not limited to bluescreen revisions, Interactive console revisions, and the removal of effects. 
 
-### Nomenclature ###
+<h2>= Nomenclature </h2>=
 The community refers to the show as 'Studio C Alpha' -- the origin of the community name was coined by Jenn Waitt using the Greek 'Alpha' to insinuate 'the first'.
 
 What one of the designers from Corman and Associates who has done work creating a majority of the Studio 'C' stages has said in response to the question on whether Studio 'C' Stages had names or not has been a point of debate.<blockquote>'To my knowledge there were no specific names assigned to each revision. Once 'Studio C' name was established, we used it for the duration and each revision was mainly identified by date of revision. Even after production began there were revisions based on function, cost, etc.'<ref></ref></blockquote>It's theorized that Corman may have been more closely related in in the planning states than exacted, as 'Stage 2002', an internal name used on the installation documents for this show made it on to the building plans for the stage much after it was out of the testing phase.
 
-##Design##
+<h2>Design</h2>
 
-###Overview###
+<h2>=Overview</h2>=
 As the [previous stage concept]({{< ref "wiki/Awesome Adventure Machine.md" >}}) introduced a single animatronic, Studio C would follow in its footsteps. Chuck E. is featured as a Late-Night talk show host and again, his friends are put onto monitors around the showroom. In Chuck E.'s area, he's seen with a new partner, [Bird]({{< ref "wiki/Bird (Animatronic).md" >}}), he is used to interact with Chuck E. directly and to announce shows, later on he would also take up backup vocals during songs. 
 
-###Features ###
+<h2>=Features </h2>=
 The stage is designed to be as interactive as possible, having a live Chroma Key and various animated props such as a [Pizza Phone]({{< ref "wiki/Pizza Phone (Animatronic).md" >}}), Clock, and Boom-Mic.
 
 Front and center of the stage show was the [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}), a computer with various elements and activities such as Spy-Cams, sound effect buttons, and a computer running windows with special software created for CEC.
@@ -53,13 +54,13 @@ Another feature was displaying the birthday star's name and age on the TVs, last
 
 
 
-##Animatronics Used##
+<h2>Animatronics Used</h2>
 
 *Chuck E. Cheese 32m (Animatronic) (Chuck E. Cheese 32M (Studio C))
 *[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
 *[Pizza Phone (Animatronic)]({{< ref "wiki/Pizza Phone (Animatronic).md" >}})
 
-##Current Studio C Alphas##
+<h2>Current Studio C Alphas</h2>
 Current Total Remaining: 7
 {| class='wikitable'
 |+
@@ -96,5 +97,5 @@ Current Total Remaining: 7
 |Operational. Good condition. Currently wearing Rockstar outfit with Shoes. Only Studio C Alpha in Canada and only outside of the United States.
 |}
 
-## References ##
+<h2> References </h2>
 <references />

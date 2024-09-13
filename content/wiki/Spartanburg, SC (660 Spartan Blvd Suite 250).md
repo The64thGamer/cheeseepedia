@@ -9,12 +9,12 @@ contributors = ["Caydenpedia"]
 gallery = ["SpartanburgCECexterior.jpg|thumb|Spartanburg Chuck E. Cheese's exterior on February 12, 2019."]
 +++
 
-**_Store #383, 660 Spartan Blvd Ste. 250**_ is a Chuck E. Cheese's in Spartanburg, South Carolina that opened on March 1, 1999 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage and is still open today.
+<b><i>Store #383, 660 Spartan Blvd Ste. 250</b></i> is a Chuck E. Cheese's in Spartanburg, South Carolina that opened on March 1, 1999 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage and is still open today.
 
-## History ##
+<h2> History </h2>
 Spartanburg opened on March 1, 1999 as a Chuck E. Cheese's in the Westgate Crossing Mall. They would open with the 1998 update to the 1992 remodel and the new-at-the-time Studio C Alpha stage. In 2013, the store received an exterior renovation and possibly the 2013 update to the 2005 Cool Chuck remodel, along with two new pieces from the 2013 remodel update. Sometime in the 2010s, the original bluescreen was replaced with the Ticket Blaster decal. In September 2022, the Studio C Alpha ceased programming due to CEC corporate no longer programming new shows for Studio C stages, leaving Spartanburg's Alpha to operate in random movements only. As of now, the store remains like this.
 
-## Stages ##
+<h2> Stages </h2>
 Since the store's opening in March 1999, Spartanburg has had a Studio C Alpha. It was the second Alpha installed in the Carolinas, after the Fayetteville, North Carolina location opened with the stage 4 months earlier in November 1998. As of now, Spartanburg's Alpha is the last Studio C Alpha left in the Carolinas, after Fayetteville, NC received the 2.0 remodel in September 2023. It is also the oldest operating Studio C Alpha left in operation, after the Studio C Alpha at the Brookfield, Wisconsin location was removed for their 2.0 remodel in August 2024.
 {| class='wikitable'
 |+
@@ -29,7 +29,7 @@ Since the store's opening in March 1999, Spartanburg has had a Studio C Alpha. I
 |Second Studio C Alpha installed in the Carolinas. One of 2 Alphas installed in South Carolina. One of 4 Alphas installed in the Carolinas. Last Studio C in the Carolinas as of September 2023 and oldest Studio C Alpha stage in operation as of August 2024.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -56,6 +56,6 @@ Since the store's opening in March 1999, Spartanburg has had a Studio C Alpha. I
 
 [https://www.flickr.com/photos/ryanrules/albums/72177720300043023/]
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Spartanburg is the smallest Chuck E. Cheese location with a Studio C Alpha, as it's about the size of a Small-town CEC store, predicting the concept by 3 years. It's most likely due to this location being in a shopping mall.

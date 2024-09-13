@@ -9,14 +9,14 @@ contributors = ["Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","ChuckECo
 gallery = ["MemphisTNAustinPeayExterior.jpg|thumb|A photo of the store's exterior when it was open"]
 +++
 
-**_3268 Austin Peay Hwy, Store #971**_ also known as 'Austin Peay' was a _Showbiz Pizza/Chuck E. Cheese_ that opened on August 7, 1983 as a franchised _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on April 1st, 2013 with the 3-Stage. It was located in the Austin Peay Plaza.
+<b><i>3268 Austin Peay Hwy, Store #971</b></i> also known as 'Austin Peay' was a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on August 7, 1983 as a franchised <i>ShowBiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on April 1st, 2013 with the 3-Stage. It was located in the Austin Peay Plaza.
 
 This was one of the handful of Showbiz locations that was located next to a Kmart (That location originally opened on August 15th, 1974, and relocated on August 1st, 1995 to a larger Supercenter on August 7th, 1995 which closed in December 2016, the Supercenter location is now a U-Haul).
-##History##
+<h2>History</h2>
 Memphis (Austin Peay) opened its doors on August 7th, 1983  as the 7th Showbiz Pizza Place in Tennessee.  originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. It was originally a franchised-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Fortunately, some documentation exists back in the ShowBiz days. Like many ShowBiz locations in the late 1980s, Memphis (Austin Peay) received the Showbiz Pizza Campground upgrade. On September 16, 1996, the store was acquired by Corporate alongside 18 other locations including the other location on [Hickory Hill]({{< ref "wiki/Memphis, TN (3649 Hickory Hill Rd).md" >}}).
 
 In around the Mid-Late 1990's, Memphis (Austin Peay) received another remodel which removed some early 90's decor and added new decor and SkyTubes. Memphis (Austin Peay) remained this way until April 2013, when they closed permanently. After their closure they would remain abandoned for a couple years until in 2017 when a CitiTrends moved in. Currently, as of July 2023, they still exist.
-##Stages##
+<h2>Stages</h2>
 Memphis (Austin Peay) originally featured a Rock-Afire Explosion, as all other Showbiz locations did. Unfortunately, there are no photos or videos to exist of Memphis (Hickory Hill) with the Rock afire, or as a ShowBiz in general.
 
 In 1991, Memphis (Austin Peay) received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the RockAfire Explosion into Munch’s Make Believe Band.
@@ -38,7 +38,7 @@ In April 2013, Memphis (Austin Peay) removed the 3-Stage due to closure.
 |October 2020
 |Underwent Concept Unification like every other Showbiz in Tennessee.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -95,7 +95,7 @@ In April 2013, Memphis (Austin Peay) removed the 3-Stage due to closure.
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
-##References##
+<h2>References</h2>
 <references />

@@ -8,15 +8,15 @@ date = 2024-06-09T00:59:23Z
 contributors = ["FileFickle"]
 gallery = []
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=monke.png}}Fats Gorilla was created for the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) show and debuted at the 1978 IAAPA. He is a parody of rhythm and blues musician, Fats Domino. His mech was later reused for Billy Bill in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}).
+Fats Gorilla was created for the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) show and debuted at the 1978 IAAPA. He is a parody of rhythm and blues musician, Fats Domino. His mech was later reused for Billy Bill in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}).
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Design ##
+<h2> Design </h2>
 Fats is a gorilla that plays an upright piano. He wore a sparkling tuxedo with varying colors depending on location, a bow tie, and white undershirt
 
-## Movements ##
+<h2> Movements </h2>
 
 * Mouth
 * Head turn

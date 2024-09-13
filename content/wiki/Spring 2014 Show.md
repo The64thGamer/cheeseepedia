@@ -18,49 +18,49 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Spring 2014**_ is the Spring show released April 1st 2014 featuring eight songs from a variety of years. 
+<b><i>Spring 2014</b></i> is the Spring show released April 1st 2014 featuring eight songs from a variety of years. 
 
 This was created to play from April 1st - June 30th 2014. 
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Segment 1**
+#<b>Segment 1</b>
 ##- 'Shake Your Grove Thing'
 ## - 'My Karate Kid'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ## -Littlest Pet Shop (USA Only)
 ## -Hard Hat Hank 'Nu-cu-lar'
 ## -Show Break 1
 ## -CEC TV ID 'Bridge'
 
-#**Segment 2**
+#<b>Segment 2</b>
 ##- 'Larry Go To The Store'
 ##- 'Everybody Have Fun Tonight'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ## - Veggie Tales 'Asteroid Cowboys'
 ## - Marvin The Technology Guro - 'Beards'
 ## - Show Break 2
 ## CEC TV ID - 'Crane Game'
 
-#**Segment 3**
+#<b>Segment 3</b>
 ##- 'It's Tricky'
 ## - 'Back in Time'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ## - Transformers Rescue Bots (USA Only)
 ## - Chuck E. Cheese Cast Member Remix
 ## - Show Break 3
 ## CEC TV ID - 'Pizza Parachute' 
-# **Segment 4**
+# <b>Segment 4</b>
 ## - 'Good Time'
 ##- 'Final Countdown'
 
-#**Intermission 4**
+#<b>Intermission 4</b>
 ## - My Little Pony, Friendship is Magic (USA Only)
 ## - Bobby Bear
 ## - Show Break 4
 ## CEC TV ID - 'Monster'
 
-##Live Shows:## 
+<h2>Live Shows:</h2> 
 
 *Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -70,14 +70,14 @@ This was created to play from April 1st - June 30th 2014.
 *Happy & You Know It Live (3stage, Cyberamic, Studio C,Weigl)
 *BINGO Live (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://archive.org/details/unlistedcec/My+Karate+Kid+++Chuck+E.+Cheese+Cartoon+Songs+for+Kids.mp4 'My Karate Kid' on YouTube]
 *[https://archive.org/details/unlistedcec/Larry+Go+To+The+Store+++Kids+Parody+Song+from+Chuck+E.+Cheese.mp4 'Larry Go To The Store' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 * This is the final showtape to be created with the puppets being used only between songs for Studio C
 * The Studio C Puppet backdrops for this show are the Studio C curtains.

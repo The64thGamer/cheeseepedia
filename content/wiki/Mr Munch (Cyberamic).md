@@ -8,16 +8,16 @@ date = 2024-07-07T01:53:28Z
 contributors = ["CECBowlingGreen","Jaxon11","CEC Tinley","BoyInCharge55","ShowbizMidwest","CoolerDude","CECMentor","Nerdychucke","Cheeseclassic","Documentor"]
 gallery = []
 +++
-{{Animatronic|image=MunchCyberamic2000.jpg|manufacturer=Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World|releasedate=1979|finalrelease=1998 (Full Bots) 2017 (Parts)}}
 
-The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s.
+
+The <b>Mr. Munch Cyberamic</b> is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s.
 
 It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make-Believe Band, changing his arms to play the keyboard correctly, and stopping his body turns.
 
-## History ##
+<h2> History </h2>
 This animatronic first premiered at the [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) in 1979. The only changes to his look over the years were the addition of a baseball hat that read 'Munch' as well as legs and shoes.
 
-## Movements ##
+<h2> Movements </h2>
 The bot features 8-9 movements in total.
 {| class='wikitable'
 |+C&R
@@ -42,7 +42,7 @@ The bot features 8-9 movements in total.
 |Door (Used in [Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}}))
 |}
 
-## Stages Used In ##
+<h2> Stages Used In </h2>
 
 * Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.

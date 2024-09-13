@@ -10,29 +10,29 @@ gallery = []
 +++
 {{Showtape
 |date=1985
-|showbizreel=y|image=Ouinw24iojw2rnji23rjnoi.png}}**_Show Selector 'Select-A-Show**** is an unreleased Rock-afire Explosion Show Selector showtape from 1985.
-##Segment List##
-#**Segment 1**
+|showbizreel=y|image=Ouinw24iojw2rnji23rjnoi.png}}<b><i>Show Selector 'Select-A-Show</b></i>' is an unreleased Rock-afire Explosion Show Selector showtape from 1985.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Blinded By Science
-#**Segment 2**
-##_Land Down Under_
-#**Segment 3**
-##_Talking in Your Sleep_
-#**Segment 4**
-##_Bangin' on the Drum_
-#**Segment 5**
-##_Our Lips Are Sealed_
-#**Segment 6**
-##_Abracadabra_
-#**Segment 7**
-##_Have To Believe In Magic_
-#**Segment 8**
+#<b>Segment 2</b>
+##<i>Land Down Under</i>
+#<b>Segment 3</b>
+##<i>Talking in Your Sleep</i>
+#<b>Segment 4</b>
+##<i>Bangin' on the Drum</i>
+#<b>Segment 5</b>
+##<i>Our Lips Are Sealed</i>
+#<b>Segment 6</b>
+##<i>Abracadabra</i>
+#<b>Segment 7</b>
+##<i>Have To Believe In Magic</i>
+#<b>Segment 8</b>
 ##Every Little Thing She Does
-#**Segment 9**
-##_Michael Jackson Tribute_
-#**Segment 10**
-##_Elvira_
-#**Segment 11**
-##_I Will_
-#**Segment 12**
-##_Talk To You Later_
+#<b>Segment 9</b>
+##<i>Michael Jackson Tribute</i>
+#<b>Segment 10</b>
+##<i>Elvira</i>
+#<b>Segment 11</b>
+##<i>I Will</i>
+#<b>Segment 12</b>
+##<i>Talk To You Later</i>

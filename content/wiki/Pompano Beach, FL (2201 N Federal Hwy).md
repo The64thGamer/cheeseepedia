@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2023-07-07T21:20:20Z
 
 [Article]
+pageThumbnailFile = "Pompano beach fl cec exterior 2023-06-22.jpg|Exterior, June 22nd, 2023 (PC: Sıla Yılmaz)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Pompano beach fl cec exterior 2023-06-22.jpg|desc=Exterior, June 22nd, 2023 (PC: Sıla Yılmaz)}}
-**_Pompano Beach, FL (2201 N Federal Hwy), Store #789**_ is a _Chuck E. Cheese's_ that opened on November 17, 2014 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
+
+<b><i>Pompano Beach, FL (2201 N Federal Hwy), Store #789</b></i> is a <i>Chuck E. Cheese's</i> that opened on November 17, 2014 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
 
 This location received the 2.0 Remodel in February 2022, keeping the COL, being the only location to completely keep the stage (West Palm Beach got 2.0 in March 2022, but they removed the 32M Chuck E. Bot).
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Circles of Light with no Chuck E. bot, which they still have. Pompano Beach received 2.0 in February 2022, but for some reason kept the COL, but also added a Dance Floor, which is also strange as it is the 2019 Model, not the 2021 Model, as most 2.0's got at the time and continuing today. As of September 2022, they still have the Circles of Light and 2019 Dance Floor.
 {| class='wikitable'
 |+
@@ -36,9 +37,9 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 |2019 Model
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Robin Hood
 *Gum Drop
@@ -82,7 +83,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 *Jackpot Xtreme
 *[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 
-###Coin Action###
+<h2>=Coin Action</h2>=
 
 *Birthday Party
 *Hat Trick
@@ -91,7 +92,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 *Smokin Token Extreme
 *Hollywood Reels
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Ducky Splash
 *Dog Pounder
@@ -114,7 +115,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

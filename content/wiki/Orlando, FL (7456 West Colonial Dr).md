@@ -9,15 +9,15 @@ contributors = ["ChuckECool","Midwestretail","Rexburg090","216.125.34.66","Corre
 gallery = ["2.0.jpg|thumb|The exterior of the store after the 2.0 remodel"]
 +++
 
-**_7456 West Colonial Dr, Store #719**_ also known as **_West Orlando**_ is a Chuck E. Cheese that opened on November 12, 1998, as a corporate location with a Studio C Alpha and is still open to this day.
+<b><i>7456 West Colonial Dr, Store #719</b></i> also known as <b><i>West Orlando</b></i> is a Chuck E. Cheese that opened on November 12, 1998, as a corporate location with a Studio C Alpha and is still open to this day.
 
 It is located right across from the Highland Lakes Center Mall.
-##History##
+<h2>History</h2>
 Orlando (West) opened on November 12th, 1998, as a corporate-owned location. Orlando (West) opened with the Studio C Alpha stage and also featured, some checkers around the store, and some late 90's decor, Toddler Zone, and SkyTubes. Orlando (West) remained like this until in 2006-2007, when they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the showroom walls, removing older decor for newer decor, & adding purple walls. In around the Mid-Late 2010's, the purple and red awnings were removed from the building. Sometime in 2021, Chuck's head was replaced with the head from the [7419 International Dr]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) location after they got the 2.0 Remodel. On April 17th, 2023, West Orlando would start their 2017 2.0 Remodel Program (2.0 Remodel) which involves the removal of the Studio C Alpha for a 2021 Model Dance Floor & Video Wall; making all Orlando stores botless, a day after Orlando, FL (449 N Alafaya Trail) (East Orlando) removed theirs a day earlier. The store's Grand Reopening took place on May 18th, 2023; just a day after Orlando, FL (449 N Alafaya Trail) (East Orlando)'s Grand Reopening which was on CEC's 46th Anniversary.
 
 Originally, when the store opened, the location had a Studio C Alpha stage like every other store opening at the time until it was removed on April 17th, 2023, for a 2021 Model Dance Floor & Video Wall.
 
-### Armed Robbery ###
+<h2>= Armed Robbery </h2>=
 On November 10, 2007, The location was robbed at gunpoint by 2 masked men, one of them armed with an AK-47, it happened around closing time, a manager unlocked the front door to let a woman in claiming to have forgot her wallet in the restaurant, but this was a set up, after she left, both men charged in and forced all employees into the managers office to empty the safe, the men got away with an unknown amount of cash and were never caught.
 {| class='wikitable'
 !Stage
@@ -35,7 +35,7 @@ On November 10, 2007, The location was robbed at gunpoint by 2 masked men, one o
 |Still In Use
 |2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -59,7 +59,7 @@ On November 10, 2007, The location was robbed at gunpoint by 2 masked men, one o
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -67,7 +67,7 @@ On November 10, 2007, The location was robbed at gunpoint by 2 masked men, one o
 !Publish Date
 |-
 |https://www.youtube.com/watch?v=hi-tKbKz-_0
-|Footage of the robbery featured on an episode of Tru Tv's _Most Shocking_
+|Footage of the robbery featured on an episode of Tru Tv's <i>Most Shocking</i>
 |November 10, 2007
 |August 11, 2021
 |-

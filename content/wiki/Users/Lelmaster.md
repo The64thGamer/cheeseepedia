@@ -14,11 +14,11 @@ gallery = ["PediaFlavorIconRight.png|frameless|left|100px","Lel thumbsup.png|lef
 |style='vertical-align: center;| 
 
 | style='vertical-align: top; background-color: #172441; padding: 5px 5px; border-radius: 10px; font-size:16px;' | 
-<center><h2>**My Contributions**</h2></center>
+<center><h2><b>My Contributions</b></h2></center>
 {|
 |  ||
-<blockquote>Total Wiki Changes Made: **{{#cscore:Lelmaster|changes}}**</blockquote>
-<blockquote>Unique Pages Edited: **{{#cscore:Lelmaster|pages}}**</blockquote>
+<blockquote>Total Wiki Changes Made: <b></b></blockquote>
+<blockquote>Unique Pages Edited: <b></b></blockquote>
 |}
 |style='vertical-align: center;| 
 |}</div><br>

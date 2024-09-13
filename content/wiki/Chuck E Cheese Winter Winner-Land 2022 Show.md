@@ -20,59 +20,59 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 
 
 
-**_Chuck E. Cheese Winter Winner-Land**_ was the holiday show originally released on November 21, 2022 and was played through January 8, 2023. The show was creation in conjunction with the Winter Winner-land promotion.
+<b><i>Chuck E. Cheese Winter Winner-Land</b></i> was the holiday show originally released on November 21, 2022 and was played through January 8, 2023. The show was creation in conjunction with the Winter Winner-land promotion.
 
 This show features seven Holiday songs, of which all were reused. The automatic live show is, 'Chuck E.'s Yuletide Slide'.
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Intermission 1**
-## **** Ecolab
-## **** Winter Food and Drink combo
+# <b>Intermission 1</b>
+## <b></b> Ecolab
+## <b></b> Winter Food and Drink combo
 ## YouTube and Music Streaming Spot
 ## Winter Winner-Land Host Spot 1 - (Chuck E. & Helen)
 ## Disney Channel Stars - “Put the Happy in the Holidays'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - “The Holiday Party”
-# **Intermission 2**
-## **** Winter Winner-Land Deserts
+# <b>Intermission 2</b>
+## <b></b> Winter Winner-Land Deserts
 ## Hi-Chew
-## **** CEC Online Store
+## <b></b> CEC Online Store
 ## KIDZ BOP Kids - 'Let It Snow'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
-# **Intermission 3**
-## **** Samsung
-## **** Lanky Box - 'Pizza Song'
+# <b>Intermission 3</b>
+## <b></b> Samsung
+## <b></b> Lanky Box - 'Pizza Song'
 ## Daveed Diggs - 'Puppy for Hanukkah'
 ## Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
-# **Skit 3**
+# <b>Skit 3</b>
 ## Bella B. & Chuck E. - “Holiday Fiesta”
-# **Intermission 4**
-## ****  Ecolab
-## ****  Winter Food and Drink combo
+# <b>Intermission 4</b>
+## <b></b>  Ecolab
+## <b></b>  Winter Food and Drink combo
 ## Dippin' Dots
-## **** KIDZ BOP Kids - 'Jingle Bells'
-# **Skit 4**
+## <b></b> KIDZ BOP Kids - 'Jingle Bells'
+# <b>Skit 4</b>
 ## Chuck E. & Friends - 'Cookies for Santa'
-# **Intermission 5**
-## **** The Ronnettes - 'Sleigh Ride'
+# <b>Intermission 5</b>
+## <b></b> The Ronnettes - 'Sleigh Ride'
 ## Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
 ## KIDZ Bop Kids - 'Deck The Halls'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Helen Henny - 'All I Want For Christmas Is Snow'
-# **Intermission 6**
-## **** CEC Winter App Download
-## **** Winter Food and Drink combo
+# <b>Intermission 6</b>
+## <b></b> CEC Winter App Download
+## <b></b> Winter Food and Drink combo
 ## Idina Menzel - “We Wish You the Merriest”
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Helen - 'Merry Christmastime'
-# **** **Intermission 7**
+# <b></b> <b>Intermission 7</b>
 ## Group Events and Fundraisers
 ## Happy Holidays from Hi-Chew
 ## Lanky Box - 'Donut Song'
 ## The Temptations - 'Rudolph The Red-Nosed Reindeer'
-# **Skit 7**
+# <b>Skit 7</b>
 ## Chuck E. & Friends - “Holiday Medley”
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -81,7 +81,7 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 ### Deck the Halls
 ### We Wish You a Merry Christmas
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
@@ -95,6 +95,6 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * First Studio C show to feature 'random lights'.

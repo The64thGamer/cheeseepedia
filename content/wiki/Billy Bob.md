@@ -9,23 +9,23 @@ contributors = ["CECMentor"]
 gallery = ["Higher quality Billy Bob.png|thumb|Billy Bobs design as of 2024."]
 +++
 
-**_Billy Bob**_, full name **_Billy Bob Brockali**_, is the mascot of the Showbiz Pizza Place franchise, having made his debut as a mascot at [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}).
+<b><i>Billy Bob</b></i>, full name <b><i>Billy Bob Brockali</b></i>, is the mascot of the Showbiz Pizza Place franchise, having made his debut as a mascot at [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}).
 
-## History ##
+<h2> History </h2>
 
-### Origins ###
+<h2>= Origins </h2>=
 Billy Bob was based off of the character Billy Wilbur from the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). He borrowed his voice, and had a similar appearance. He was used as the mascot of Showbiz Pizza, and got his first animatronic in [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}). He was a brown bear with overalls, holding a wooden guitar. He was a member of the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}).
 
-### Showbiz Pizza Place ###
+<h2>= Showbiz Pizza Place </h2>=
 Initially, Billy Bob ran Smitty's Super Service Station with his best friend [Looney Bird]({{< ref "wiki/Looney Bird.md" >}}). They created Gasohol, and often referred to it as Goofy Gas. Billy Bob was portrayed as a fun loving and wholesome character, rarely showing signs of anger. He seemed to really care about giving the guests a good performance, and showed care for his co-hosts often. Over time, Billy Bob was shown to have a bit more of an edge to him. He would occasionally show himself as more easy going, and had moments where he would get annoyed or joke around with his bandmates. Billy Bob was voiced by Aaron Fechter, and named after one of [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}})'s artists.
 
-### The New Rock-afire Explosion ###
+<h2>= The New Rock-afire Explosion </h2>=
 After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the New Rock-afire Explosion. Every character was much shorter and skinnier, including Billy Bob. The shows portrayed Billy Bob as a bit older than he once was, as well as snarkier.
 
-### Present Day ###
+<h2>= Present Day </h2>=
 As of present day Billy Bob remains the same as he was in the Showbiz days. Throughout the 21st century, Billy Bob had a few more showtapes produced, most notably being Billy Bobs Newsblast. Original parts for Billy Bob would start to be reproduced by Creative Engineering's new employees in 2023.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Types

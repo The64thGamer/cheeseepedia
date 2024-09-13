@@ -5,15 +5,16 @@ tags = ["Stage Variations"]
 date = 2024-08-08T02:25:30Z
 
 [Article]
+pageThumbnailFile = "Scan_20210926_3.jpg|Portland, OR Pizza Time Theatre"
 contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","173.216.33.6","BurgersNuggs445","JamesLemony","Rexburg090","ShowbizMidwest","216.125.34.66","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","Documentor","TestAccount6777","Stripes"]
 gallery = []
 +++
-{{Generic|image=Scan_20210926_3.jpg|desc=Portland, OR Pizza Time Theatre}}****Chuck E.'s House Facade' (C-Stage)**_ was a prefabricated false front which, when applied over an existing [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), transforms it into a house.<ref>https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf</ref>
+<b></b>Chuck E.'s House Facade' (C-Stage)<i></i>' was a prefabricated false front which, when applied over an existing [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), transforms it into a house.<ref>https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf</ref>
 
-## History ##
+<h2> History </h2>
 'Chuck E.’s House Facade' supposedly debuted at the [Windsor Cross]({{< ref "wiki/San Antonio, TX (8220 Windsor Cross).md" >}}) location in 1988-1989 and went extinct in 2003 when the [Tacoma, WA]({{< ref "wiki/Tacoma, WA (4911 Tacoma Mall Blvd).md" >}}) location replaced the facade for Studio C. The Facade would end up becoming the last stage created with the Pizza Time Players positioning-- as the next stage to be produced, the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}), introduced Munch's Make-Believe Band.
 
-## Design ##
+<h2> Design </h2>
 This stage kept the same concept as the Balcony Stage; however, it was now themed to be a house-like setting. 
 
 Behind four of the characters sat horizontal siding with windows with lighting behind a pane. The base of which the characters and windows sat had a wall of horizontal siding or railing in front of the original Balcony Stage front with lattice directly under it. 
@@ -22,7 +23,7 @@ The faux valence of the stage became a shingled roof with popcorn lights above M
 
 Some installations had a live stage instead of the lattice (some had the distinct 'C', and some didn't). It featured checkered flooring, fencing, and steps to get up.  
 
-## Known Installations ##
+<h2> Known Installations </h2>
 {| class='wikitable'
 !Location
 !Condition / Notes
@@ -420,6 +421,6 @@ Some installations had a live stage instead of the lattice (some had the distinc
 |1993/1994
 |}
 
-##References##
+<h2>References</h2>
 
 <references />

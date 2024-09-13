@@ -8,18 +8,18 @@ date = 2022-05-08T19:40:21Z
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++
-**Summer 2010** is the summer show released June 2010. Featuring 8 songs some from [April 2010]({{< ref "wiki/April 2010 Show.md" >}}) and some from [Summer 2007]({{< ref "wiki/Summer 2007 Show.md" >}}) .
+<b>Summer 2010</b> is the summer show released June 2010. Featuring 8 songs some from [April 2010]({{< ref "wiki/April 2010 Show.md" >}}) and some from [Summer 2007]({{< ref "wiki/Summer 2007 Show.md" >}}) .
 
 This show played from June - September 2010.
 
-## Show List: ##
-**Segment 1** 
+<h2> Show List: </h2>
+<b>Segment 1</b> 
 
 'Best Friends'
 
 'Summertime'
 
-**Intermission 1** 
+<b>Intermission 1</b> 
 
 Backstage Pass - 'Kicking Daisies'
 
@@ -31,11 +31,11 @@ Sound Splosion -  Anna Margaret - 'Something About The Sunshine'
 
 CEC TV ID - 'Parachute'
 
-**Segment 2** 
+<b>Segment 2</b> 
 
 'Ain't Nothing Wrong With That'
 
-**Intermission 2**
+<b>Intermission 2</b>
 
 Ralph's World - 'Gotta Be Good'
 
@@ -53,11 +53,11 @@ CEC TV ID - 'Pizza Parachute'
 
 VeggieTales - 'Song of the Cebu'Busytown Mysteries - 'The Cheese Car Chomp Mystery'
 
-**Segment 3** 
+<b>Segment 3</b> 
 
 'Ray of Sunshine'
 
-**Intermission 3** 
+<b>Intermission 3</b> 
 
 Fun Facts - 'Emperor Penguins' 
 
@@ -71,11 +71,11 @@ Pocoyo - 'The Big Sneeze'
 
 Will & Dewitt - 'My New Boots'
 
-**Segment 4** 
+<b>Segment 4</b> 
 
 'Soul Sista'
 
-**Intermission 4** 
+<b>Intermission 4</b> 
 
 Fun Facts - 'Porcupines Float in Water'
 
@@ -85,11 +85,11 @@ Cast of Camp Rock 2 - 'It's On'
 
 Flash Gordon 
 
-**Segment 5** 
+<b>Segment 5</b> 
 
 'It's Magic'
 
-**Intermission 5** 
+<b>Intermission 5</b> 
 
 Animal Atlas - 'Animals And Us'
 
@@ -103,13 +103,13 @@ The Zone - 'Amateur Skateboarder'
 
 The Dirty Sock Funtime Band
 
-**Segment 6** 
+<b>Segment 6</b> 
 
 'Livin' Life'
 
 'In The Summertime'
 
-**Intermission 6** 
+<b>Intermission 6</b> 
 
 Backstage Pass - Sophie - 'Care Bears On Fire'
 
@@ -126,4 +126,4 @@ The Zone - 'Amateur Kiteboarder'
 Pajanimals - 'Stick To The Plan'
 
 CEC TV ID - 'Aquarium'
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

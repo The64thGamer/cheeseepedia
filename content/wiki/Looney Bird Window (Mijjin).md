@@ -8,19 +8,19 @@ date = 2023-12-28T18:13:59Z
 contributors = ["GallaRBX2","The 64th Gamer"]
 gallery = []
 +++
-{{Animatronic|image=Window Looney.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Looney Bird Window Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-##History##
+The <b><i>Looney Bird Window Mijjin</b></i> was an animatronic produced by <i>Creative Engineering Inc.</i> for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+
+<h2>History</h2>
 This character was produced in 1993 for the New Rock-Afire Explosion show. 
 
 The character's mech reuses neck parts from the Prototype Mijjin Mechs.
 
-##Design##
+<h2>Design</h2>
 This bot is the head of a Standard Mijjin mech, with the neck of a Prototype Mijjin mech, and a custom plate for mounting to the stage. The mech has green eye pieces. The bot is the Looney Bird Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, This bot is only the head, as it would appear in the window on Beach Bear's stage.  
 
-##Movements##
+<h2>Movements</h2>
 All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos.
 
 This bot's servo movements are tied to the servo movements for the [Looney Bird Labratory]({{< ref "wiki/Looney Bird Labratory (Mijjin).md" >}}) bot. 
@@ -63,5 +63,5 @@ This bot's servo movements are tied to the servo movements for the [Looney Bird 
 
 
 
-##References##
+<h2>References</h2>
 <references />

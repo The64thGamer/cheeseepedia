@@ -8,39 +8,39 @@ date = 2024-02-09T15:41:00Z
 contributors = ["PizzaEntertainmentFanX"]
 gallery = ["ShowBizRoboticsRevealedOrwell.jpg|alt=Orwell Concept art|thumb|Concept art of Orwell saying 'Showbiz Robotics Presents: Orwell -A Robot You Control-'"]
 +++
-{{Stub}}{{Animatronic|unitsProduced=1|releasedate=Unknown 1980's|manufacturer=Showbiz Pizza Time Inc.|image=OrwellARobotYouControl.jpg}}
+
 Orwell: A Robot You Control (Also, simply known as Orwell) was an animatronic attraction created for [Showbiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) in the mid to late 80's. The bot was a retrofitted [Uncle Klunk or Country Klunk animatronic mech]({{< ref "wiki/Uncle Klunk (Animatronic).md" >}}) That gave patrons the ability to control the Mech using a control module.
 
 Orwell was the first Showbiz bot to be produced by Chuck E. Cheese's (Corporate Showbiz) & not Creative Engineering Inc..
 
-## History ##
+<h2> History </h2>
 
-### Concept Art & Origin ###
+<h2>= Concept Art & Origin </h2>=
 
 Orwell's bot was originally meant to be a standing mech in a box with a control module. It's unknown if this would have been a Klunk retrofit or new mech.
 
-### In Store ###
+<h2>= In Store </h2>=
 
-#### Beta/Cosmetic less Version ####
+<h2>== Beta/Cosmetic less Version </h2>==
 Orwell was originally a bare Klunk mech that was installed in the gameroom of an unknown Showbiz store. He would be given a token before speaking some lines. His mechanisms could be controlled using a control module.
 
 Here's a transcript of Beta Orwell's Audio<blockquote>Orwell: 'Hello, My name is Orwell. I am here to obey Your every command. I have been programmed so you control my movements by pushing the buttons in front of you. I'm ready, when You are.'</blockquote>
 
-#### Final/Split Body Version ####
+<h2>== Final/Split Body Version </h2>==
 The Final Version of Orwell had a different voice & Split Body Country Klunk cosmetics. During Orwell's run, an odd pin was created saying, 'I PUSHED ORWELL'S BUTTONS'.
 
-### Fate ###
+<h2>= Fate </h2>=
 The bot was most likely either sold or destroyed at an unknown time.
 
-## Design ##
+<h2> Design </h2>
 
-### Beta/Cosmetic Less Version ###
+<h2>= Beta/Cosmetic Less Version </h2>=
 The Beta version of Orwell is a bare Klunk mech with no cosemtics. The bot is in a black box.
 
-### Final/Split Body Version ###
+<h2>= Final/Split Body Version </h2>=
 The Final version of Orwell is a split Country Klunk bot. The bot remained in the black box.
 
-## Movements ##
+<h2> Movements </h2>
 
 * Head Turn (Left & Right)
 * Head Raise

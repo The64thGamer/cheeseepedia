@@ -12,7 +12,7 @@ gallery = []
 |title =Northridge Evergreen Show 2024
 |date=January 2, 2024
 |cybernetwork=y|}}
-**_ Chuck E. Cheese Northridge Evergreen Show 2024**_ is the generic show released on January 2, 2024 and was played until March 31, 2024.
+<b><i> Chuck E. Cheese Northridge Evergreen Show 2024</b></i> is the generic show released on January 2, 2024 and was played until March 31, 2024.
 
 This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 3 programmed songs with the standard live being Me & My Friends.
 
@@ -49,7 +49,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 ##KIDZ POP - TRUSTFALL
 ##Chuck E. Cheese - Lend A Helping Hand
 
-###Lives:###
+<h2>=Lives:</h2>=
 *Birthday Show (Navori)
 *Birthday Show (Spanish) (Navori)
 *CEC Stage Diagnostic (Navori)

@@ -9,12 +9,12 @@ contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]
 gallery = ["CEC Star Stage .jpg|alt=Star Stage at Montfort Dallas TX Store|thumb|398x398px|Ray of Sunshine playing on the Star Stage"]
 +++
 
-The **_Star Stage**_ was a prototype stage show installed in the [Dallas, TX (13364 Montfort Dr)]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).md" >}}) store that was meant to update the Studio C Shows to the current generation.
+The <b><i>Star Stage</b></i> was a prototype stage show installed in the [Dallas, TX (13364 Montfort Dr)]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).md" >}}) store that was meant to update the Studio C Shows to the current generation.
 
-## History ##
+<h2> History </h2>
 In 2009 [https://www.chutegerdeman.com/ Chute Gerdeman Retail] proposed a brand-new show idea for the currently existing Studio C shows. Stating that Studio C's Showroom was outdated and incohesive, convincing them to remodel the showroom at the Dallas Texas Location in 2010. The demise of the show was due to the internal controversy with Robert Gotcher and Jeremy Blaido at the time. Once Robert was fired, Jeremy ordered the show to be removed in 2012.
 
-## Design<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> ##
+<h2> Design<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> </h2>
 
 * Red, Green, Yellow, & Purple would become the primary colors for this showroom remodel.
 * The 5 Main Characters get brand new wall art for the showroom, having a 3D effect on them to seem as if they're popping out of the picture frame.
@@ -23,13 +23,13 @@ In 2009 [https://www.chutegerdeman.com/ Chute Gerdeman Retail] proposed a brand-
 * On the side includes the Ticket Blaster, Video Screens, and a cartoon Fiberglass chair with the sign 'You're the Star!' over it.
 * To fit the theme of being the star of the show, many stars are featured throughout the walls and stage.
 
-## Lighting & Tech<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> ##
+<h2> Lighting & Tech<ref>https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf</ref> </h2>
 
 * The Stage Show used an updated version of [APS]({{< ref "wiki/Animation Programming System.md" >}}) for Studio C to have compatibility with Widescreen & HD Video, Often seen as the predecessor to the [Studio C HD Weigl Control System]({{< ref "wiki/Studio C HD Weigl Control System.md" >}}). This software would be considered obsolete due to apparently always glitching and breaking during shows.
 * And it being a previous Studio C Beta, they reused most of the lighting for this stage. The only new lighting included color changing LEDs that would shine on Chuck E. during songs.
 * The chair with the 'You're the Star!' signage had a special camera in front of it where a Cast Member would take your photo and display it on the showroom and game room monitors if you were the Birthday Star.
 
-## Photos ##
+<h2> Photos </h2>
 
 
-## References ##
+<h2> References </h2>

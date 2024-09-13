@@ -8,12 +8,12 @@ date = 2024-05-31T13:38:23Z
 contributors = ["The 64th Gamer","Montfortdog","CECBowlingGreen","Documentor","CoolerDude","CECMentor"]
 gallery = ["CECEntOutside.png|thumb|231x231px|View of the outside of the building. (PC: Google Maps)"]
 +++
-The **Chuck E. Cheese's Corporate Office** is the current headquarters used by CEC Entertainment. They moved into the building in July 2015, after moving from the old [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}). The building is located at 1707 Market Pl Blvd #200, Irving, TX 75063, in the Lennar DFW Division Office.
+The <b>Chuck E. Cheese's Corporate Office</b> is the current headquarters used by CEC Entertainment. They moved into the building in July 2015, after moving from the old [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}). The building is located at 1707 Market Pl Blvd #200, Irving, TX 75063, in the Lennar DFW Division Office.
 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 Refers to the Programming Studio in the Entertainment Department
 {| class='wikitable'
 |+

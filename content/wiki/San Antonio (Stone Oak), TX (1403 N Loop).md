@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-05-25T21:51:39Z
 
 [Article]
+pageThumbnailFile = "Stoneoak2017.jpg|The exterior in 2017."
 contributors = ["StudioC","Documentor","CECBowlingGreen","Rexburg090","72.76.251.24","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=Stoneoak2017.jpg|desc=The exterior in 2017.}}
-**_San Antonio (Stone Oak), TX (1403 N Loop), Store #565**_ was a _Chuck E. Cheese's_ that opened on January 8th, 2002 with a Studio C Beta.
+
+<b><i>San Antonio (Stone Oak), TX (1403 N Loop), Store #565</b></i> was a <i>Chuck E. Cheese's</i> that opened on January 8th, 2002 with a Studio C Beta.
 
 This store is notable for being the first location to receive the 2.0 remodel in 2017. 
-##Stages##
+<h2>Stages</h2>
 This location opened with a Studio C Beta, featuring the 32-movement Chuck E. Cheese animatronic. created by Garner Holt. The show would remain in good condition for most of its life, the character's head up movement would be stuck for its last few months of operation. It's worth noting that in 2009, the character would get the 'Avenger' shorts and shirt while keeping the hat from the 'Cool Chuck' outfit. In late 2017, Studio C would be removed and replaced with the first 2.0 version of the [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}), which would later be updated to the 2021 Model version around May of 2024, alongside an installation of a [Video Wall]({{< ref "wiki/Video Wall.md" >}}) around the same time.
-##History ##
+<h2>History </h2>
 Not much from this location's early years is known or documented. In July 2007 Stone Oak would undergo the 2005 remodel while keeping the original recessed can lighting and exterior. In late 2011 or early 2012, the exterior was updated to match the 2005 remodel exterior. The original recessed can lights would be upgraded to fluorescents in November 2013. 
 
 In June 2017 Stone Oak would begin a remodel which at the time was completely unknown in what it was and how it would eventually become the future of the company. This remodel would involve completely renovating the exterior and interior into a brand new concept now known as 2.0. The grand reopening for the first 2.0 store happened on August 9, 2017.<ref>https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building</ref> Around July of 2022, the TVs on the bio decals would be removed and replaced with bio posters being installed on top of the original bio decals. This would be kept that way until May of 2024, when CEC decided to renovate all early 2.0-remodeled stores in the San Antonio area to receive a 2021 Model Dance Floor and [Video Wall]({{< ref "wiki/Video Wall.md" >}}), including this store, which is how the store sits as of today.
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -70,7 +71,7 @@ In June 2017 Stone Oak would begin a remodel which at the time was completely un
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic

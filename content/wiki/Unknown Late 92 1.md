@@ -8,10 +8,10 @@ date = 2022-04-12T13:15:22Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-##Show List:##
-#**Segment 1**
+<h2>Show List:</h2>
+#<b>Segment 1</b>
 ##Ricky Skaggs Medley
-#**Segment 2**
+#<b>Segment 2</b>
 ##Girls Just Wanna Have Fun
-#**Segment 3**
+#<b>Segment 3</b>
 ##Jump

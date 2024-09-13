@@ -9,9 +9,9 @@ contributors = ["CECBowlingGreen","CEC Tinley"]
 gallery = ["CECHotWheels2000Front.jpg|thumb|Chuck E. Cheese Exclusive 'Sweet 16 II™️' Hot Wheels car from 2000."]
 +++
 
-The **Chuck E. Cheese's Hot Wheels Sweet 16 II** is a Hot Wheels car made exclusively for Chuck E. Cheese's location in 2000. These were sold at the prize counter.
+The <b>Chuck E. Cheese's Hot Wheels Sweet 16 II</b> is a Hot Wheels car made exclusively for Chuck E. Cheese's location in 2000. These were sold at the prize counter.
 
-## Design ##
+<h2> Design </h2>
 The design of the box is the hot wheels logo from 2000 and the Chuck E Cheese logo under it. Near the car a fire decal that shoots up to the logo. The car itself is a Hot Wheels sweet 16 II with a yellow paint job. The fire design is also on the car with the Chuck E Cheese logo near the back tires.
 
 

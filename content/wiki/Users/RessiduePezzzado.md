@@ -10,4 +10,4 @@ gallery = ["Tallyhall photoByBrianAppio.jpg|thumb|605x605px|tally"]
 +++
 
 
-## Pizza Time Theatre is pretty cool ##
+<h2> Pizza Time Theatre is pretty cool </h2>

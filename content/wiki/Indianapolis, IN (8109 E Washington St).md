@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2023-10-29T05:21:42Z
 
 [Article]
+pageThumbnailFile = "IndianapolisWashingtonCECOldLocationExteriorFullShot.png|Exterior, 2011"
 contributors = ["ChuckECool","RedaCEC","Midwestretail","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=IndianapolisWashingtonCECOldLocationExteriorFullShot.png|desc=Exterior, 2011}}
-**_8109 E Washington St, Store #714**_ also known as **_Washington**_ was a Showbiz Pizza Place that opened on June 18, 1982 with a Rock-Afire Explosion, and closed on December 2011 with a 3-Stage.
+
+<b><i>8109 E Washington St, Store #714</b></i> also known as <b><i>Washington</b></i> was a Showbiz Pizza Place that opened on June 18, 1982 with a Rock-Afire Explosion, and closed on December 2011 with a 3-Stage.
 
 This location is located near what looks to be a Former Target which was a former Ayr-Way until they moved to the Washington Square Mall in 1999. They would receive Concept Unification in 1991 or 1992, and closed on December 19, 2011 due to it being one of the last businesses in the nearly dead shopping center and then relocated to [10021 E Washington St]({{< ref "wiki/Indianapolis, IN (10021 E Washington St).md" >}}) with a Studio C 2000 (Studio C 2000, 16M) later that same month which is still operating to this day. 
 
-##History##
+<h2>History</h2>
 8109 E Washington St opened on June 18th, 1982 and had a Rock-Afire Explosion like every other Showbiz. Around 1991 or 1992, they would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, They would receive either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights.  In the late 90's, they received the Phase 3 remodel which got a new exterior and most of the early 90s decor was removed and the late 90's and 2000's decor and SkyTubes were added. Washington was a unique store because of the very uncommon (at the time) Chuck E. Cheese's Pizza sign. They would remain like this until their closure in December 2011 because they were located in an abandoned shopping center and it did not bring enough business and then relocated to [10021 E Washington St]({{< ref "wiki/Indianapolis, IN (10021 E Washington St).md" >}}) with a Studio C 2000 (Studio C 2000, 16M) later that same month. After they closed, they remained vacant for a few years until a party room business named 'Elegance' moved in.
 
-### Post-Closure ###
+<h2>= Post-Closure </h2>=
 After Elegance Salon de Eventos moved into the former space, it was unknown whether or not any remnants from the old Chuck E. Cheese remained, but it was soon discovered that many Chuck E. Cheese remnants were left behind, and were incorporated into the new space. Many things remained, such as fading door signs, and old wall paneling from the Chuck E. Cheese. Other remnants include red doors, and the salad bar area reused. The most important remnant, however, is how the old 3-Stage was left behind as a stage for party hosts to use. As of Feburary 2023, Elegance still has these.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion like every other Showbiz location. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this stage until their closure in December 2011 due to it being in an abandoned shopping center.
 {| class='wikitable'
 |+
@@ -38,7 +39,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |December 2011
 |One of 7 Showbiz stores in Indiana to get Concept Unification. 2nd to Last 3-Stage in Indiana
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -95,13 +96,13 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |}
 
 
-###Chuck E. Cheese###
+<h2>=Chuck E. Cheese</h2>=
 
 
-###Elegance Salon de Eventos<ref>https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html</ref>###
+<h2>=Elegance Salon de Eventos<ref>https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html</ref></h2>=
 
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -113,5 +114,5 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |1995
 |}
 
-##References##
+<h2>References</h2>
 <references />

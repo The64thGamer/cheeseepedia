@@ -18,42 +18,42 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**Fall Show 2013** is the Fall show released September 1, 2013, featuring six new songs. and two new lives. 
+<b>Fall Show 2013</b> is the Fall show released September 1, 2013, featuring six new songs. and two new lives. 
 
 This was created to play from September 1st - December 1, 2013.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Segment 1** 
+#  <b>Segment 1</b> 
 ## 'Tricky'
-#  **Intermission 1** 
+#  <b>Intermission 1</b> 
 ## 'Fraggle Rock 'Wembley & The Grogs'
 ## Chill Out 1 
-#  **Segment 2** 
+#  <b>Segment 2</b> 
 ## 'Good Time'
 ## 'Eye Of The Tiger'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  Hard Hat Hank - 'Time Machine'
 ##  'Free Birds' Promo
 ## CEC Live Promo
 ##  Chill Out 2 
-#  **Segment 3** 
+#  <b>Segment 3</b> 
 ## 'Home'
-#  **Intermission 3** 
+#  <b>Intermission 3</b> 
 ## Tim & The Space Cadets - '2nd Grade Show'
 ## Veggietales - 'Stilts & Kilts'
 ## Chill Out 3 
-#  **Segment 4** 
+#  <b>Segment 4</b> 
 ## '1985'
 ## 'Cars'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ##  Marvin The Tech Guru - 'Beards'
 ##  Pajanimals - 'Pajamarama Bounce'
 ##  'Free Birds' Trailer 
 ## CEC Live Promo
 ##  Chill Out 4
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -65,11 +65,11 @@ This was created to play from September 1st - December 1, 2013.
 * Happy & U Know It (3stage, Cyberamic, Studio C,Weigl)
 * BINGO (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
-* While this show was to begin playing on September 1st, stores with Existing Stages wouldn't receive the show until after the 6th and those with Studio C/Weigl stages wouldn't get it until after the 13th. According to Matt Daniel, this was due to issues with the 3rd party agreement for the film _Free Birds_ due to their in-store cross promotion not beginning until the 16th. There were also technical issues with the Studio C/Weigl version.
+* While this show was to begin playing on September 1st, stores with Existing Stages wouldn't receive the show until after the 6th and those with Studio C/Weigl stages wouldn't get it until after the 13th. According to Matt Daniel, this was due to issues with the 3rd party agreement for the film <i>Free Birds</i> due to their in-store cross promotion not beginning until the 16th. There were also technical issues with the Studio C/Weigl version.
 * With the newsletter to this show had stores remove Chuck E.'s hat to update the animatronic show to look more accurate to the current design of Chuck. 
 * Marvin The Tech Guru - 'Beards' was programmed for Studio C/ Weigl based stores and was part of segment 4 while it was an unprogrammed intermission for stores with Existing Stages. When it was reused for [April 2014]({{< ref "wiki/April 2014 Show.md" >}}), it was an intermission for all stages and lacked the programming.

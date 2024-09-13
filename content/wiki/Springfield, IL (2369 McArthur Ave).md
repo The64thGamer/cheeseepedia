@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-07-26T14:49:06Z
 
 [Article]
+pageThumbnailFile = "SpringfieldILExterior2022SeptemberGoogleMaps.png|Street view of the exterior in September 2022 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","Cecbird","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Tux Chuck","The 64th Gamer","Livelycheese","CECMentor","Veronancy","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","OMMEnterainment"]
 gallery = []
 +++
-{{Generic|image=SpringfieldILExterior2022SeptemberGoogleMaps.png|desc=Street view of the exterior in September 2022 (PC: Google Maps)}}
-**_2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47**_ is a _Chuck E. Cheese’s_ that opened on April 22, 1982, as a corporate owned _ShowBiz Pizza Place_ with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day, with the last [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency (Legacy Location).
 
-## Stages ##
+<b><i>2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47</b></i> is a <i>Chuck E. Cheese’s</i> that opened on April 22, 1982, as a corporate owned <i>ShowBiz Pizza Place</i> with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and is still open to this day, with the last [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency (Legacy Location).
+
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -39,7 +40,7 @@ gallery = []
 |2019 Model.
 |}
 
-##History##
+<h2>History</h2>
 Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place in Illinois (4th after [Darien]({{< ref "wiki/Darien, IL (7409 Cass Ave).md" >}}), [Bloomingdale]({{< ref "wiki/Bloomingdale, IL (132 E Lake St).md" >}}), [Arlington Heights]({{< ref "wiki/Arlington Heights, IL (955 W Dundee Rd).md" >}})). It was originally and currently a corporate-owned store. Like many other ShowBiz locations, it had a typical ShowBiz layout. Although some little documentation exists back in the ShowBiz days, it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package). Like many ShowBiz locations in the late 1980s, Springfield received the Showbiz Pizza Campground upgrade and the 80s remodel.
 
 In 1991, Springfield received Concept Unification. This converted the show to Munch's Make Believe Band. In around the Mid-Late 90s, Springfield would receive [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) and [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which removed some early 90s decor, added new decor, and added SkyTubes. Springfield remained this way until Early 2011, when they received the 2005 remodel and the [CU 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}). This also included tearing down the Showroom walls & balcony seating, removing 90s decor, expanding the store, adding bright florescent lighting, & adding purple walls. 
@@ -48,8 +49,8 @@ On June 11th, 2024, the store would begin its Legacy Store variant of the CEC 20
 
 On July 3rd, 2024, CEC announced that the Grand Reopening would take place on the 25th.
 
-##Arcade Machines##
-### Skill ###
+<h2>Arcade Machines</h2>
+<h2>= Skill </h2>=
 
 * Nerf Arcade
 * Monopoly Roll 'N Go
@@ -89,13 +90,13 @@ On July 3rd, 2024, CEC announced that the Grand Reopening would take place on th
 * Nicktoons Nitro Racing
 * [Pop It for Gold]({{< ref "wiki/Pop It for Gold.md" >}})
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 * Spongebob Pineapple Arcade
 * The Price is Right Plinko
 * The Simpsons Kooky Carnival
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Chuck E.'s Fun Photos Photo Booth
 * Pirate's Hook
@@ -107,7 +108,7 @@ On July 3rd, 2024, CEC announced that the Grand Reopening would take place on th
 * Barney Tractor
 * Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -132,7 +133,7 @@ On July 3rd, 2024, CEC announced that the Grand Reopening would take place on th
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Serial

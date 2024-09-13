@@ -9,11 +9,11 @@ contributors = ["CECBowlingGreen","Rexburg090","ChuckECool","2600:4040:59FC:D100
 gallery = ["EdisonNJ 2.0 Exterior.jpg|thumb|Edison's 2.0 exterior"]
 +++
 
-**_1120 Route 1, Store #487**_ was a Chuck E. Cheese's Pizza that opened on September 20th, 1993, with a 1-Stage, which is still open to this day.
+<b><i>1120 Route 1, Store #487</b></i> was a Chuck E. Cheese's Pizza that opened on September 20th, 1993, with a 1-Stage, which is still open to this day.
 
 This location received the 2.0 remodel in September-October 2022. It is located in the Edison Woods Shopping Center.
 
-## History ##
+<h2> History </h2>
 Edison opened on September 20, 1993, as a Chuck E. Cheese's Pizza in the Edison Woods Shopping Center with a 1-Stage. Due to New Jersey gambling laws, the store opened without any ticket redemption system or skee-ball type games. 
 
 Edison remodeled to the update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in September of 2009. During the '09 remodel, Chuck E. Cheese's opened a lease on the adjacent storefront, and the wall separating Chuck E. Cheese's and the next-door property was removed, along with the existing merchandise closest. This nearly doubled the unit's square-footage. Tickets and redemption games were also added under the New Jersey Tickets Per Token System.
@@ -30,7 +30,7 @@ The 2.0 remodel retained Edison's existing front doors, cashwrap countertops, sa
 
 Edison still has the Amutec Horse Carousel ride that has been in the store since it opened in 1993. 
 
-## Stages ##
+<h2> Stages </h2>
 The store had a 1-stage upon opening until its removal on October 5, 2022, after the Dance Floor was installed and activated. The entertainment control system was one of the first to come pre-installed with the Navori receiver. The Video Wall was installed on October 12th, 2022. The new showroom was moved to where the Alley Roller Classic games previously resided. As of June 2023, Edison still has their 2021 Model Dance Floor + Video Wall.
 
 Initially, the 1-stage had draw curtains which were replaced by lift curtains in 2001. 
@@ -55,7 +55,7 @@ Very first set of Cyberamics produced by Animation World.
 |2021 Model. Installed where Alley Rollers used to be. First 2.0 Store In New Jersey. Signature store with mural. 
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -98,7 +98,7 @@ Drum set sent to Staten Island, NY (1775-P South Ave) (Staten Island) in 2022; d
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -201,5 +201,5 @@ Drum set sent to Staten Island, NY (1775-P South Ave) (Staten Island) in 2022; d
 |June 28, 2023
 |}
 
-## References ##
+<h2> References </h2>
 <references />

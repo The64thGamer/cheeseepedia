@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-03-29T14:16:25Z
 
 [Article]
+pageThumbnailFile = "2.0 Fresno Blackstone.jpg|Exterior (2024)"
 contributors = ["The 64th Gamer","Rexburg090","2600:4040:5A0E:D900:9CCC:4391:297E:5876","Freddyplayz855","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=2.0 Fresno Blackstone.jpg|desc=Exterior (2024)}}
 
-**_7809 N Blackstone Ave, Store #364**_ is a Chuck E. Cheese's in Fresno, California. The store is located in a freestanding building in the Villaggio Shopping Center.
 
-This is not to be confused with the _Pizza Time Theatre_ on [5384 N Blackstone Ave]({{< ref "wiki/Fresno, CA (5384 N Blackstone Ave).md" >}}) which opened in July/August 1980 and closed in May 1985 with a Cyberamics Portrait / Shelf Stage (Portrait Stage) which was in an unnamed Shopping Center 9 minutes away.
+<b><i>7809 N Blackstone Ave, Store #364</b></i> is a Chuck E. Cheese's in Fresno, California. The store is located in a freestanding building in the Villaggio Shopping Center.
 
-## History ##
+This is not to be confused with the <i>Pizza Time Theatre</i> on [5384 N Blackstone Ave]({{< ref "wiki/Fresno, CA (5384 N Blackstone Ave).md" >}}) which opened in July/August 1980 and closed in May 1985 with a Cyberamics Portrait / Shelf Stage (Portrait Stage) which was in an unnamed Shopping Center 9 minutes away.
+
+<h2> History </h2>
 Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in the Villaggio Shopping Center with a Studio C 2000 (Studio C 2000, 32m). They opened with the 1990s Major Remodel with the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) game package. The store would remain this way until around 2013/2014 when they would remodel to the 2013 update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the 1990s Decor, Must C TV posters, and dim lighting, adding purple walls, bright florescent lighting. In February 2024, they received the 2.0 Remodel, which included a Video Wall, Interactive Dance Floor, repainting of all walls to white, new 2.0 Artwork, the 2.0 Game Package, and an exterior remodel.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -35,7 +36,7 @@ Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in
 |2021 Model 
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -53,7 +54,7 @@ Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

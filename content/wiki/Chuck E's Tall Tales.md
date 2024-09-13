@@ -16,38 +16,38 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_Chuck E.'s Tall Tales**_ was a show released on December 26, 1995, at Chuck E. Cheese's locations. 
+<b><i>Chuck E.'s Tall Tales</b></i> was a show released on December 26, 1995, at Chuck E. Cheese's locations. 
 
-##Show List ##
-#**** **Segment 1**
+<h2>Show List </h2>
+#<b></b> <b>Segment 1</b>
 ##'Little Red Riding Hood'
-#**** **Intermission 1**
+#<b></b> <b>Intermission 1</b>
 ##Little Nemo
 ##America's Funniest Pets
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'The Ugly Duckling'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##Princess and The Goblin
 ##Fantasy Fly-By
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Sleeping Beauty'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##Rapunzel
 ##America's Funniest Pets
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'Chicken Licken'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##Magic Voyage
 ##Techno Dreams
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##'Hansel and Gretel'
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##Tuneland Starring Howie Mandel
 ##Food Frolics
-#**** **Segment 6**
+#<b></b> <b>Segment 6</b>
 ##'Outro'
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 *One of the animations in Techno Dreams was also used in Birthday Star 1995
 *The phone number on the Tuneland promo leads is now a menu for an adult website<ref>https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg</ref>

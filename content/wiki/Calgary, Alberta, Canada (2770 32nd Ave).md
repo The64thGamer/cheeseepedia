@@ -8,12 +8,12 @@ date = 2024-08-20T21:59:52Z
 contributors = ["Rexburg090","2600:4040:59FC:D100:65D0:8FF3:C057:50A1","RedaCEC","2600:4040:59FC:D100:3CF9:29EB:DEC:BC8A","216.125.34.66","CEC Tinley","Cheeseclassic","Douggaming"]
 gallery = []
 +++
-**_2770 32nd Ave**_ was a pizza time theatre that opened on August 18, 1988, with Chuck E.'s House. The store closed in around October 2003 with a used Road Stage.
+<b><i>2770 32nd Ave</b></i> was a pizza time theatre that opened on August 18, 1988, with Chuck E.'s House. The store closed in around October 2003 with a used Road Stage.
 
 This location is a relocation of the Calgary, Alberta, Canada (3320 20th Ave) Pizza Time Theatre which opened in August 1983 and closed in August 1988 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). It's also not to be confused with the [Calgary, Alberta, Canada (2612 32nd St)]({{< ref "wiki/Calgary, Alberta, Canada (2612 32nd St).md" >}}) location that opened on August 15, 2006, which still operates today with a Studio C 2000 Chuck E. Cheese 16m (Animatronic) (16m).
-##History##
+<h2>History</h2>
 Calgary, Alberta, Canada on 2770 32nd Ave opened on August 18th, 1988, as the relocation of the Calgary, Alberta, Canada (3320 20th Ave) (3320 20th Ave) Pizza Time Theatre (Which was just outside the Sunridge Mall) which closed earlier in the month. They opened with the 1988 remodel like most stores at the time. The store would remain this way until around 1994-1995 when they would receive [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) (Which involved the removal of elements from the 1988 remodel such as The Blue & White Awnings, checkers around the store, neon lights, & Chuck E.'s House being replaced with a used Road Stage from the [9627 Macleod Trail]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location which closed in 1994). In 1999-2000, they received the 1999 Pop Chuck posters & couple other things. It would remain this way until the store's closure in October of 2003,
-##Stages##
+<h2>Stages</h2>
 Originally, the store opened with Chuck E.'s House which was one of two installed in Canada (The other was in [Winnipeg]({{< ref "wiki/Winnipeg, Manitoba, Canada (1931 Pembina Hwy).md" >}}) which opened on April 30th, 1990), they would then replace it with the Road Stage from the [Calgary, Alberta, Canada (9627 Macleod Trail)]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location in the Mid 1990's, which they would have until closure in October 2003.
 {| class='wikitable'
 |+
@@ -33,7 +33,7 @@ Originally, the store opened with Chuck E.'s House which was one of two installe
 |One of two installed in Canada. Originally from the [9627 Macleod Trail]({{< ref "wiki/Calgary, Alberta, Canada (9627 Macleod Trail).md" >}}) location.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -69,7 +69,7 @@ Originally, the store opened with Chuck E.'s House which was one of two installe
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Title
@@ -82,6 +82,6 @@ Originally, the store opened with Chuck E.'s House which was one of two installe
 |October 8, 2003
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Calgary 32nd Ave was the only CEC to ever get a used Road Stage from a closed location as it was Franchised at the time, they received it and most Road Stages that were being removed were either removed altogether or converted into a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) or a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This is also the only case of this ever happening.

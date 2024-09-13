@@ -9,11 +9,11 @@ contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys1
 gallery = ["Waterbury2019.png|thumb|Google Street View of the building in May 2019."]
 +++
 
-**Waterbury, CT (983 Wolcott St)** was a Pizza Time Theatre that opened in April 1982 and closed in 1984. It was at auction before everything was thrown out. This location is not to be confused with the [Waterbury, CT (650 Wolcott St)]({{< ref "wiki/Waterbury, CT (650 Wolcott St).md" >}}) location, which opened on September 29, 1992, and closed on June 25, 2020. This location was the first in the New England region. It was located in the 2 Brothers Plaza. It had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), with only a few photos of it. 
+<b>Waterbury, CT (983 Wolcott St)</b> was a Pizza Time Theatre that opened in April 1982 and closed in 1984. It was at auction before everything was thrown out. This location is not to be confused with the [Waterbury, CT (650 Wolcott St)]({{< ref "wiki/Waterbury, CT (650 Wolcott St).md" >}}) location, which opened on September 29, 1992, and closed on June 25, 2020. This location was the first in the New England region. It was located in the 2 Brothers Plaza. It had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), with only a few photos of it. 
 
 As of March 2024, the location is a Goodwill Waterbury Store & Donation Station.
 
-## Stages ##
+<h2> Stages </h2>
 Waterbury opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) which stayed until closure. The animatronics are unknown to what happened with them after closure.
 {| class='wikitable'
 |+
@@ -26,7 +26,7 @@ Waterbury opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.m
 |1984
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 |Animatronics
@@ -58,5 +58,5 @@ Waterbury opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.m
 |Unknown
 |}
 
-##References##
+<h2>References</h2>
 [https://www.showbizpizza.com/photos/ptt/ct_waterbury/index.html  Waterbury PTT Gallery]

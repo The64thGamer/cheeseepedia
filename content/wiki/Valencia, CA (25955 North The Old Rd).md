@@ -8,18 +8,18 @@ date = 2024-04-05T14:43:36Z
 contributors = ["Chez","Saan1ty"]
 gallery = ["Stevensonranchremodel.jpg|thumb|Current store exterior"]
 +++
-{{Stub}}
 
-**_25955 North The Old Rd**_ is a Chuck E. Cheese location in Valencia, California.
+
+<b><i>25955 North The Old Rd</b></i> is a Chuck E. Cheese location in Valencia, California.
 
 The Chuck E. Cheese in Valencia, CA (also known as Stevenson Ranch) opened on March 4, 1998, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). It was one of the last 1-stages installed. It should not be confused with the [Valencia, CA (23154 Valencia Blvd)]({{< ref "wiki/Valencia, CA (23154 Valencia Blvd).md" >}}), which was a Pizza Time Theatre/Chuck E Cheese that opened April 1983 and closed February 1996.
 
-## History ##
+<h2> History </h2>
 Stevenson Ranch opened on March 4, 1998 with a 1-Stage.
 
 The 1-Stage would remain until January 2023, when the store would receive the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}), removing the 1-Stage in favor of a dance floor and video wall. The animatronics would be sent to the [Pasadena, CA]({{< ref "wiki/Pasadena, CA (3737 E Foothill Blvd).md" >}}) location, which would have its stage and animatronics removed in their remodel in February 2024.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts
@@ -43,7 +43,7 @@ The 1-Stage would remain until January 2023, when the store would receive the [C
 |Unknown/destroyed
 |}
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -64,5 +64,5 @@ The 1-Stage would remain until January 2023, when the store would receive the [C
 
 WIP
 
-## Videos ##
+<h2> Videos </h2>
 WIP

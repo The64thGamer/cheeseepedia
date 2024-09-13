@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-08-04T23:26:42Z
 
 [Article]
+pageThumbnailFile = "Akron.jpg|Akron's Exterior in the Early-Mid 80s."
 contributors = ["SuperCreamPiper2008","JND"]
 gallery = []
 +++
-{{Stub}} {{Generic|image=Akron.jpg|desc=Akron's Exterior in the Early-Mid 80s.}}
-**_1984 Brittain Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened on May 12, 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
+ 
+<b><i>1984 Brittain Rd</b></i> is a Chuck E. Cheese's Pizza Time Theater that opened on May 12, 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -32,7 +33,7 @@ TODO
 |One of 5 installed in Ohio. 
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -44,7 +45,7 @@ TODO
 |1990
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

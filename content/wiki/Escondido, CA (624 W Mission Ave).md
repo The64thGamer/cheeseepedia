@@ -5,26 +5,27 @@ tags = ["Store List"]
 date = 2023-12-23T02:35:35Z
 
 [Article]
+pageThumbnailFile = "EscondidoCAOldLocationExteriorBeforeClosure.jpg|Exterior taken shortly before closure (2005). PC: LoopNet"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
 gallery = []
 +++
-{{Generic|image=EscondidoCAOldLocationExteriorBeforeClosure.jpg|desc=Exterior taken shortly before closure (2005). PC: LoopNet}}
-**_624 West Mission Avenue, Store #44**_ was a _Showbiz Pizza Place/Chuck E. Cheese_ that opened on August 1st, 1983 as a franchise store with a Rock-Afire Explosion and closed in March 2006 with a 3-Stage.
+
+<b><i>624 West Mission Avenue, Store #44</b></i> was a <i>Showbiz Pizza Place/Chuck E. Cheese</i> that opened on August 1st, 1983 as a franchise store with a Rock-Afire Explosion and closed in March 2006 with a 3-Stage.
 
 This location was notable for being the believed location that was featured in a viral video of a kid punching Chuck E.
 
 It should not be confused with the Escondido, CA (1411 Valley Pkwy) (Valley Parkway Pizza Time Theatre) location which opened in November 1982 and closed on May 20th, 1984 with a Balcony Stage. It should also not be confused with the [current location]({{< ref "wiki/Escondido, CA (1126 W Valley Pkwy).md" >}}) which opened on January 3rd, 2007 with a Studio C Beta, 16m and is still open to this day receiving 2.0 in 2022.
-##History ##
+<h2>History </h2>
 
-### Pre CEC (May 2, 1968-1983) ###
+<h2>= Pre CEC (May 2, 1968-1983) </h2>=
 The site that would eventually house the Escondido Showbiz Pizza Place (Later Chuck E. Cheese) opened on May 2nd, 1968 in the Kmart Foods space next to Kmart. Kmart Foods would close when they went out of business. It's unknown what occupied there afterwards but it closed sometime before 1983. Construction for the upcoming Showbiz Pizza Place would start not long afterwards.
 
-### Showbiz & Chuck E. Cheese (August 1st, 1983-March 2006)###
+<h2>= Showbiz & Chuck E. Cheese (August 1st, 1983-March 2006)</h2>=
 Escondido opened its doors on August 1st, 1983 as the 11th Showbiz Pizza store in store in California. It opened with the Rock-Afire Explosion and was originally a franchised-owned store until October 27th, 1986 when the location was sold to corporate along with [Visalia]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}}), [Bakersfield]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}}), [Fresno]({{< ref "wiki/Fresno, CA (3117 W Shaw Ave).md" >}}), and [Oceanside]({{< ref "wiki/Oceanside, CA (2481 Vista Way).md" >}}). Escondido received bits of the 1988 Remodel in 1988-1989 where some SPP decor was removed for newer decor though some remained, and the Billy Bob stage was changed. In 1991, Escondido received Concept Unification and fully received the 1988 remodel removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and removed the Rock-Afire Explosion for the 3-Stage. The store would receive the 1993 remodel sometime by the Mid 90's removing older CU decor for Record Posters, and removing the Blue and White awnings above the salad bar. In the Late 90's, Escondido received another remodel, changing the exterior, removed older decor for newer decor, and replaced the ball pit with SkyTubes. It was then featured on America's Funniest Home Videos in 2004. Escondido would remain like this until March 2006 when they would close down. 
 
-###Post Closure (March 2006-Present)###
+<h2>=Post Closure (March 2006-Present)</h2>=
 After closure, the store was abandoned for a few weeks until it's entire shopping center's demolition to make way for the Lowe's to be built on top of it. Currently, as of March 2023, the Lowe's is still there.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion. In around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. It would remain until the store closed.
 {| class='wikitable'
 !Stage
@@ -42,7 +43,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In around 199
 |March 2006
 | One of 8 Showbiz stores in California to undergo Concept Unification.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -98,4 +99,4 @@ Originally when the store opened, they had a Rock-Afire Explosion. In around 199
 |}
 
 
-##References##
+<h2>References</h2>

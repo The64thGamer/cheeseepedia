@@ -18,49 +18,49 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 2 2017**_ released February 27th 2017.
+<b><i>Chuck E. Cheese's Show 2 2017</b></i> released February 27th 2017.
 
 This was created to play from February 27th 2017. - April 9th, 2017. This show features five songs. two new and three reused. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Happy Birthday Munch!
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Imagine Dragons - 'On Top of the World'
 ##  Ruff Ruff Tweet & Dave - 'Magic Show'
 ## CEC Promo - 'Carl Clean'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Munch & Chuck E. - 'Purple Planet Point of View'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Train - 'Play That Song'
 ##  Strawberry Shortcake
 ## Fun Facts With Chuck E. - 'Favorite Song'
 ##  Olivia Holt - 'Phoenix'
 ##  CEC Promo - 'Ticket Dance'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Rainy Day'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Marshmello - 'Summer'
 ## CEC Promo - 'Buffet'
 ##  Thomas Rhett - 'Star of the Show'
 ##  CEC Birthday TV Spot - 'Fishing'
 ##  Secret Agent 23 Skidoo - 'Secret Superhero'
-# **Skit 4**
-## Chuck E. & Pasqually - 'Keep Drummin_
-#  **Intermission 4**
+# <b>Skit 4</b>
+## Chuck E. & Pasqually - 'Keep Drummin''
+#  <b>Intermission 4</b>
 ## Flor - 'Hold On'
 ## Caspar Babypants - 'Jellyfish Jones'
 ## CEC Sketch - 'Pizza Plant'
 ## Michael & The Rockness Monsters - 'Fisherman'
 ## SpacePop - 'Not Your Average Girls'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'All For Fun, Fun For All'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  CEC Promo - 'New Cakes'
 ## Sigala - 'Easy Love'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -72,14 +72,14 @@ This was created to play from February 27th 2017. - April 9th, 2017. This show f
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Happy Dance (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=SAr42HjD4xU 'Happy Birthday Munch!' on YouTube]
 *[https://www.youtube.com/watch?v=WQePwcGx65U 'Planet Purple Point of View' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This is the only Happy Birthday skit to have a completely new recorded line in it being at the end when Munch says 'Oh, Thanks guys'
 * The exterior shot and internitor footage for 'Purple Planet Point of View' were filmed at the Plano, Tx CEC. 

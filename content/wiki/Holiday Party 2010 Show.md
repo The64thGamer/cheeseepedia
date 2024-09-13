@@ -17,16 +17,16 @@ gallery = []
 |dvdcyber=y
 }}
 
-**Chuck E.'s Holiday Party 2010** released and played during December 2010.
+<b>Chuck E.'s Holiday Party 2010</b> released and played during December 2010.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC TV Snowing
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Holly Jolly Christmas'
 ## 'White Christmas'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Backstage Pass - Burnham - 'Catch Me If You Can'
 ## Fun Facts - 'Chameleons'
 ## CEC TV ID - 'Cows'
@@ -39,10 +39,10 @@ gallery = []
 ## Word World - 'Happy Holidays WordFriends' 1
 ## Wow Wow Wubbzy! - 'O' Figgity Fig Tree' 1 
 ## Yo Gabba Gabba - 'Drawing a Snowman'
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Mele Kalikimaka'
 ## 'Feliz Navidad'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Fun Facts -  'Goldfish'
 ## CEC TV ID - 'Radio Tower'
 ## Yo Gabba Gabba - 'It's Winter Time!'
@@ -50,23 +50,23 @@ gallery = []
 ## Dive Olly Dive! - 'Uma Under The Weather'
 ## Shout Factory - 'The Johnny Cash Christmas Special 1977'
 ## Fun Facts - 'Ostrich'
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## '12 Days of Christmas'
 ## 'Dreidel Song'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC TV ID - 'NBC Chime'
 ## Wow Wow Wubbzy! - 'O' Figgity Fig Tree' 2
 ## Fun Facts - 'Sneeze'
 ## CEC TV ID - 'Singing Janitor' 
 ## Sid the Science Kid - 'The Sticker Chart' 2
 ## VeggieTales - 'Saint Nicholas A Story of Joyful Giving' 2
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Big Band Santa'
 ## 'Holiday Medley'
 ### 'Jingle Bells'
 ### 'Deck The Halls'
 ### 'We Wish You A Merry Christmas'
-# **Intermission 5** 
+# <b>Intermission 5</b> 
 ## CEC TV ID - 'Falling Apple'
 ## Trivia - 'Frosty The Snowman'
 ## The Zone - 'Pro Snowboarding'
@@ -77,7 +77,7 @@ gallery = []
 ## CEC TV Wintery Forest
 ## Gustafer Yellowgold - 'Getting in a Tree Top'
 
-## Studio C DVD #3 ##
+<h2> Studio C DVD #3 </h2>
 #16 Movement Diagnostics
 #32 Movement Diagnostics
 #Light Diagnostics
@@ -100,7 +100,7 @@ gallery = []
 #10 Minutes of CEC TV logo
 
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * B-day Program
 * Spanish B-day Program
@@ -113,9 +113,9 @@ gallery = []
 * Chuck E. Says
 * Happy & U Know It
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * All segments in this show are originally from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}})
 * This would mark the final time [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}) would be reissued.

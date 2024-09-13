@@ -8,12 +8,12 @@ date = 2023-12-10T17:14:06Z
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}**_Myrtle Beach, SC (615 Lake Arrowhead Rd)**_ was a _ShowBiz Pizza Place_ that open on June 13, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a _Chuck E. Cheese's_ with a 3-Stage on October 26, 1997.
+<b><i>Myrtle Beach, SC (615 Lake Arrowhead Rd)</b></i> was a <i>ShowBiz Pizza Place</i> that open on June 13, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a <i>Chuck E. Cheese's</i> with a 3-Stage on October 26, 1997.
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stages
 !Installed
@@ -28,7 +28,7 @@ TODO
 |October 1997
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

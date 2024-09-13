@@ -23,5 +23,5 @@ Tune Machine 1
 Tune Machine 2
 
 5-15-89
-## Trivia ##
+<h2> Trivia </h2>
 * This is the only known showtape released for the [Concept Unification Prototype Stage]({{< ref "wiki/Concept Unification Prototype Stage.md" >}}).

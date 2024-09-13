@@ -16,18 +16,18 @@ gallery = []
 |cusvhs = y
 }}
 
-**_Holiday 1993**_ was the segmented show which played during December 1993 and 1994 at Chuck E. Cheese's Pizza stores.
+<b><i>Holiday 1993</b></i> was the segmented show which played during December 1993 and 1994 at Chuck E. Cheese's Pizza stores.
 
-##Show List ##
-#**Intermission 1**
+<h2>Show List </h2>
+#<b>Intermission 1</b>
 ##3-Minute Countdown
 ##Birthday Star (Walk-In)
 ##Holiday Cheer
 ##CEC TV '93 ID
-#**Segment 1**
+#<b>Segment 1</b>
 ##Santa Claus is Coming To Town
 ##Rudolph The Red-Nosed Reindeer
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Manheim Steamroller - Deck The Halls
 ##Birthday Star
 ##Helen Henny's Hollywood - Rudolph
@@ -36,10 +36,10 @@ gallery = []
 ##Birthday Star (Walk-In)
 ##3-Minute Countdown
 ##Geography Rap - North Pole
-#**Segment 2**
+#<b>Segment 2</b>
 ##Here We Come A Caroling
 ##Silver Bells
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Ken Chuck E. Derby Announcement
 ##Christmas Countdown
 ##Birthday Star
@@ -50,10 +50,10 @@ gallery = []
 ##3-Minute Countdown
 ##VJ Spot
 ##Deck The Halls / O Christmas Tree / We Wish You A Merry Christmas
-#**Segment 3**
+#<b>Segment 3</b>
 ##Share The Joy
 ##Rockin' Around The Christmas Tree
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Manheim Steamroller - Little Drummer Boy
 ##Birthday Star
 ##CEC TV News - Holiday Special
@@ -64,8 +64,8 @@ gallery = []
 ##3-Minute Countdown
 ##Ken Chuck E. Derby
 
-##Trivia:##
+<h2>Trivia:</h2>
 *This showtape contains the same songs and intermissions as [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}), just rearranged. It also adds Walk-In Birthday Star.
 *After intermission 4, the tape replays the full show starting at Holiday Cheer. 
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

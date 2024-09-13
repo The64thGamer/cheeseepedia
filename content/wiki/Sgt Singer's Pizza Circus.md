@@ -8,81 +8,81 @@ date = 2024-06-29T06:35:29Z
 contributors = ["Lelmaster","BigCtheDataFinder"]
 gallery = ["Circus Band 2014 Promo.png|thumb|Sgt. Striper's Circus Band, as distributed by Okamoto Amusements of Japan."]
 +++
-{{AnimatronicShow|image=Sgt. Striper's Review.png|businessType=Type of Business: Pizza Places, Amusement Parks|status=Closed|numCharacters=3 to 6|manufacturer=Creative Presentations Inc|years=Roughly February 28, 1982 ~ August 7, 1991}}
-
-**_Sgt. Singer's Pizza Circus**_ (styled as **_Sgt. Singer's Spectacular Star Studded Circus Pizza Show**_) was a chain of family entertainment centers that were best known for their animatronic bands manufactured by Creative Presentations and their massive arcade selections.  
-
-## History ##
 
 
-### _Nickels and Dimes Incorporated_ ###
-_Nickels and Dimes Incorporated_ (NDI) is an entertainment company founded by Craig Singer sometime around 1972 in Carrollton, Texas.<ref>https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated</ref> NDI was best known as the operator of _Tilt_ arcades and _Gold Mine_ arcades throughout the 1970's and 1980's. 
+<b><i>Sgt. Singer's Pizza Circus</b></i> (styled as <b><i>Sgt. Singer's Spectacular Star Studded Circus Pizza Show</b></i>) was a chain of family entertainment centers that were best known for their animatronic bands manufactured by Creative Presentations and their massive arcade selections.  
 
-### **_Sgt. Singer's Spectacular Star Studded Circus Pizza Show**_ ###
-Taking a page from the recent successes of _Chuck E. Cheese's Pizza Time Theatre_ and _ShowBiz Pizza Place_, Craig Singer established **_Sgt. Singer's Spectacular Star Studded Circus Pizza Show**_ in Pasadena, Texas by 1982.<ref name=':1'>http://allincolorforaquarter.blogspot.com/2013/06/brides-of-chuck-e-pizza-time-theatres.html</ref> Although unconfirmed, newspapers mark early operations of the chain to be around March 1, 1982. Likewise to competitors, the establishment offered pizza, beer, arcade games, and animatronic shows as the main attraction. Animatronics for _Sgt. Singer's_ were manufactured by Creative Presentations, Inc. of Schaumburg, Illinois.
+<h2> History </h2>
 
-### _Sgt. Striper's_ and the Closure of _Sgt. Singer's Pizza Circus_ ###
-Despite its moderate success as a small regional chain, NDI ultimately shifted its focus back to standard arcades. This meant _Sgt. Singer's_ was now an afterthought to the company, leading to the discontinuation of new locations. Creative Presentations, left with an abundant stock of unused shows, retained all rights to the characters and began selling their stock to other clients. The band, now rebranded as **_Sgt. Striper's Review**_, was sold to be versatile in theme. These various themes included:
 
-* Circus Band (Sgt. Striper's Circus Band) (Distributed by Okamoto Amusements in Japan<ref name=':0'>https://web.archive.org/web/20110524063531/http://www.okamotos.co.jp/cotarog/sonota.pdf</ref>)
+<h2>= <i>Nickels and Dimes Incorporated</i> </h2>=
+<i>Nickels and Dimes Incorporated</i> (NDI) is an entertainment company founded by Craig Singer sometime around 1972 in Carrollton, Texas.<ref>https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated</ref> NDI was best known as the operator of <i>Tilt</i> arcades and <i>Gold Mine</i> arcades throughout the 1970's and 1980's. 
+
+<h2>= <b><i>Sgt. Singer's Spectacular Star Studded Circus Pizza Show</b></i> </h2>=
+Taking a page from the recent successes of <i>Chuck E. Cheese's Pizza Time Theatre</i> and <i>ShowBiz Pizza Place</i>, Craig Singer established <b><i>Sgt. Singer's Spectacular Star Studded Circus Pizza Show</b></i> in Pasadena, Texas by 1982.<ref name=':1'>http://allincolorforaquarter.blogspot.com/2013/06/brides-of-chuck-e-pizza-time-theatres.html</ref> Although unconfirmed, newspapers mark early operations of the chain to be around March 1, 1982. Likewise to competitors, the establishment offered pizza, beer, arcade games, and animatronic shows as the main attraction. Animatronics for <i>Sgt. Singer's</i> were manufactured by Creative Presentations, Inc. of Schaumburg, Illinois.
+
+<h2>= <i>Sgt. Striper's</i> and the Closure of <i>Sgt. Singer's Pizza Circus</i> </h2>=
+Despite its moderate success as a small regional chain, NDI ultimately shifted its focus back to standard arcades. This meant <i>Sgt. Singer's</i> was now an afterthought to the company, leading to the discontinuation of new locations. Creative Presentations, left with an abundant stock of unused shows, retained all rights to the characters and began selling their stock to other clients. The band, now rebranded as <b><i>Sgt. Striper's Review</b></i>, was sold to be versatile in theme. These various themes included:
+
+* Circus Band (Sgt. Striper's Circus Band) (Distributed by Okamoto Amusements in Japan<ref name=':0'>https:<i>web.archive.org/web/20110524063531/http:</i>www.okamotos.co.jp/cotarog/sonota.pdf</ref>)
 * Sgt. Striper's Beach Bums (Also distributed by Okamoto Amusements in Japan)
 * Sgt. Striper's Country Western Show
 
-By this point in time, the _Sgt. Singer's Pizza Circus_ chain had officially been defunct, with the final store's speculated closure to be August 7, 1991.
+By this point in time, the <i>Sgt. Singer's Pizza Circus</i> chain had officially been defunct, with the final store's speculated closure to be August 7, 1991.
 
-## Characters ##
+<h2> Characters </h2>
 
-### Sgt. Singer / Sgt. Striper ###
+<h2>= Sgt. Singer / Sgt. Striper </h2>=
 (Voiced by Mark Brink) A tiger on acoustic guitar who fearlessly, 'leads his troops,' in a menagerie of musical entertainment. The character's name was initially named after creator, Craig Singer, before being renamed Sgt. Striper for wide distribution.<ref>https://www.youtube.com/watch?v=b_L3v3LnhPk</ref>
 
-### P.T. Bearum / Libby Beara'ce ###
-(Voiced by Lee Pelty) Bearum enjoys 'tinkling on his keys' with his western piano. His original name is a pun on that of American showman and politician, [https://en.wikipedia.org/wiki/P._T._Barnum **P**hineas **T**aylor Barnum], who was best known for founding the [https://en.wikipedia.org/wiki/Ringling_Bros._and_Barnum_%26_Bailey_Circus Barnum & Bailey Circus]. Similarly to Sgt. Singer and Pounce D'Lion, Bearum was later renamed to Libby Beara'ce (pronounced _li·behr·**aa**·chee)_, a pun on American pianist and actor, [https://en.wikipedia.org/wiki/Liberace Liberace]. 
+<h2>= P.T. Bearum / Libby Beara'ce </h2>=
+(Voiced by Lee Pelty) Bearum enjoys 'tinkling on his keys' with his western piano. His original name is a pun on that of American showman and politician, [https:<i>en.wikipedia.org/wiki/P._T._Barnum <b>P</b>hineas <b>T</b>aylor Barnum], who was best known for founding the [https:</i>en.wikipedia.org/wiki/Ringling_Bros._and_Barnum_%26_Bailey_Circus Barnum & Bailey Circus]. Similarly to Sgt. Singer and Pounce D'Lion, Bearum was later renamed to Libby Beara'ce (pronounced <i>li·behr·<b>aa</b>·chee)</i>, a pun on American pianist and actor, [https://en.wikipedia.org/wiki/Liberace Liberace]. 
 
-### Pounce D' Lion / Richard D. Lionhearted ###
+<h2>= Pounce D' Lion / Richard D. Lionhearted </h2>=
 (Originally voiced by Dennis Kelly, and later by Larry Moran) Pounce is a lion who jams on an electric guitar. Despite the origins behind his original name (a pun on Spanish conquistador, [https://en.wikipedia.org/wiki/Juan_Ponce_de_Le%C3%B3n Juan Ponce de León]) Pounce spoke in a British accent provided by Larry Moran (his second voice). Similarly to Sgt. Singer and P.T. Bearum, Pounce was later renamed to Richard D. Lionhearted, due to Creative Presentations selling Sgt. Striper's shows to other clients.
 
-### Dolly Porker ###
+<h2>= Dolly Porker </h2>=
 (Voiced by Martha Webster) Dolly is a picky piggy who can be very particular with her venue of performance. Her name is a pun on [https://en.wikipedia.org/wiki/Dolly_Parton Dolly Parton], though doesn't resemble her namesake besides that. She has been said to have been placed on Stage Right.
 
-### Pete and Repete ###
+<h2>= Pete and Repete </h2>=
 Not to be confused with Creative Engineering's Pete Thornsberry and Repeat Thornsberry of the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}), Pete (an elephant) and Repete (a mouse) were supposedly a comedic duo on Stage Left. Not much information is known about these two, though it's possible that they were retrofitted versions of Patty the Piano-Playing Pachyderm and Mortimer D. Mouse from CPI's Animal Crackers (which was used in the Decatur, GA store).<ref name=':1' />
 
-## Stage Composition ##
+<h2> Stage Composition </h2>
 Although stage documentation is obscure, it is confirmed that Sgt. Singer's used at least a 3-Stage configuration (similar to other animatronic shows at the time). Center Stage included P. T. Bearum (Animatronic) (P.T. Bearum), Sgt. Singer (Animatronic) (Sgt. Singer), and Pounce D' Lion (Animatronic) (Pounce D' Lion). Stage Right allegedly contained Dolly Porker (Animatronic) (Dolly Porker) (though it is currently unconfirmed), while Stage Left supposedly included Pete and Repete. 
 
 When Creative Presentations began to sell off the remaining Sgt. Singer's stock, the previous arrangement of characters was reduced to just the aforementioned three characters on Center Stage (Bearum, Singer, and Pounce). One Sgt. Singer figure was paired with Purrscilla Purr and Big Bear from [Celebration Station's W.O.O.F. Radio]({{< ref "wiki/Celebration Station's WOOF Radio.md" >}}) for a show installation at [https://en.wikipedia.org/wiki/Mirapolis Mirapolis] (a defunct theme park in France). 
 
-## Installed Locations ##
+<h2> Installed Locations </h2>
 
-### Courdimanche ###
+<h2>= Courdimanche </h2>=
 
 * Mirapolis - 95800 Courdimanche, France (Sgt. Singer Only) 
 
-### Florida ###
+<h2>= Florida </h2>=
 
-* Miami, FL (1601 Biscayne Boulevard) as **Sgt. Singer's Kiddieland**
+* Miami, FL (1601 Biscayne Boulevard) as <b>Sgt. Singer's Kiddieland</b>
 
-### Georgia ###
+<h2>= Georgia </h2>=
 
 * Decatur, GA (4649 Memorial Dr)
 
-### Pennsylvania ###
+<h2>= Pennsylvania </h2>=
 
-* Idlewild Park - Ligonier, PA (2574 Lincoln Hwy) as **Sgt. Striper's Three-Piece Touring Band**
+* Idlewild Park - Ligonier, PA (2574 Lincoln Hwy) as <b>Sgt. Striper's Three-Piece Touring Band</b>
 
-### Texas ###
+<h2>= Texas </h2>=
 
 * Dallas, TX (11829 Abrams Road)
 * Pasadena, TX (Room 201, 171 Pasadena Town Square Mall)
 * Houston (Galleria), TX (5015 Westheimer Rd)
 
-## Current Whereabouts ##
-Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japanese-based Okamoto Amusements purchased 3 Sgt. Striper shows (and one The Ape-Ology's (Ape-Ology's) show) to be leased by Japanese theme parks. Okamoto offered the Circus Band, Beach Bums, and Barnyard Band show variants.<ref name=':0' /> At least two of these shows had been rediscovered and were said to have been sold in 2023.<ref>https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA##</ref>
+<h2> Current Whereabouts </h2>
+Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japanese-based Okamoto Amusements purchased 3 Sgt. Striper shows (and one The Ape-Ology's (Ape-Ology's) show) to be leased by Japanese theme parks. Okamoto offered the Circus Band, Beach Bums, and Barnyard Band show variants.<ref name=':0' /> At least two of these shows had been rediscovered and were said to have been sold in 2023.<ref>https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==</ref>
 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -97,10 +97,10 @@ Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japa
 |July 22, 1990
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
-* The _Sgt. Singer's_ store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire & the B.O.Y.S, Patty Pachyderm & Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.<ref>https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</ref>
+* The <i>Sgt. Singer's</i> store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire & the B.O.Y.S, Patty Pachyderm & Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.<ref>https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</ref>
 * During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to Showbiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.<ref>https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</ref>
 
-## References ##
+<h2> References </h2>
 <references />

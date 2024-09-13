@@ -16,11 +16,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293 = y
 |cusvhs = y
 }}
-**September 2001 Show** was a show that released in September 2001 and ran through November 2001. 
+<b>September 2001 Show</b> was a show that released in September 2001 and ran through November 2001. 
 
 This show featured 4 segments with 8 songs.
 
-## Version 2 ##
+<h2> Version 2 </h2>
 A version 2 of the floppy disc + DVD for Studio C was sent out, which added the 'What I Like About You' live show, alongside removing the diagnostics audio.
 
 When inserting the upgrade floppy, a message would appear on the screen saying:
@@ -31,37 +31,37 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
  ENJOY THE SHOW!
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER
 
-## Show Tape: ##
+<h2> Show Tape: </h2>
 
-#  **Segment 1** 
+#  <b>Segment 1</b> 
 ## [https://en.wikipedia.org/wiki/Boogie_Shoes 'Boogie Shoes']
 ## [https://en.wikipedia.org/wiki/Everlasting_Love 'Everlasting Love']
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  VeggieTales - 'His Cheeseburger'
 ##  Skateboarding
 ##  Store Intro - 'Orlando FL, CEC'
 ## CEC TV ID - 'Couch'
-#   **Segment 2**
+#   <b>Segment 2</b>
 ## [https://en.wikipedia.org/wiki/Louie_Louie 'Louie Louie']
 ## [https://en.wikipedia.org/wiki/How_Sweet_It_Is_(To_Be_Loved_by_You) 'How Sweet It Is (To Be Loved By You']
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  CEC TV ID - 'Marx Bros'
 ##  Eddie Coker - 'I Believe'
 ##  Store Intro - 'Spokane WA, CEC'
 ## CEC TV ID - 'Rocketship'
 ## Ski-Time (Studio C only)
-#  **Segment 3** 
+#  <b>Segment 3</b> 
 ## 'Paper or Plastic' (Parody of [https://en.wikipedia.org/wiki/Paperback_Writer 'Paperback Writer'])
 ## [https://en.wikipedia.org/wiki/Do_You_Love_Me 'Do You Love Me?']
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Amphicar
 ##  Baking With Betty - 'Mad Cows'
 ##  Store Intro - 'Spokane WA, CEC'
 ## CEC TV ID - 'Cows'
-#  **Segment 4** 
+#  <b>Segment 4</b> 
 ## [https://en.wikipedia.org/wiki/I_Can_Help 'I Can Help']
 ## [https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song) 'My Girl']
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##   VeggieTales - 'My Share'
 ##  VeggieTales - Jonah Movie Trailer
 ##  Sing-Along Guys - 'Old MacDonald'
@@ -69,8 +69,8 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 ##  CEC TV ID - 'Rocket Racer'
 ## Underwater Adventure (Studio C only)
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * Chuck E. Says
 *  Chuck E. Shuffle (New Footage)
@@ -85,11 +85,11 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 * If You're Happy & You Know It
 *  What I Like About You 01
 
-**Birthday Break**: The September 2001 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: The September 2001 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
-## Production<ref>https://www.showbizpizza.com/info/documents/cec/cec_dept18-2001-09.pdf</ref> ##
+<h2> Production<ref>https://www.showbizpizza.com/info/documents/cec/cec_dept18-2001-09.pdf</ref> </h2>
 
-### Filming Locations ###
+<h2>= Filming Locations </h2>=
 
 * All segments that not shot on location was shot at Mercury Studios in Irving, TX.
 * Boogie Shoes - Finish Line In Irving, TX Mall
@@ -97,7 +97,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 * Paper Or Plastic - Unknown Whole Foods Location in Irving, TX
 * Louie Louie - Griggs Park (2200 Hugo St, Dallas, TX 75204)
 
-### Credits ###
+<h2>= Credits </h2>=
 
 * Production Studio - Mercury Studios
 * Duncan Brannan - Chuck E. Cheese Voice Actor
@@ -108,14 +108,14 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 * Sammy Davenport - Music Director
 * Brian Hagan - Show Programmer
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia##
+<h2>Trivia</h2>
 *This is the last CEC show Brian Hagan was involved in.
 *This show features cameos from various members of the entertainment department
 **Jeremy Blaido and Robert Gotcher appear in 'Sing-Along Guys'
 **Brian Hagan, Brent Gray, and Matt Daniel appear in 'Paper or Plastic'. Matt also makes a cameo in 'Boogie Shoes'.
 
-## References ##
+<h2> References </h2>
 <references />

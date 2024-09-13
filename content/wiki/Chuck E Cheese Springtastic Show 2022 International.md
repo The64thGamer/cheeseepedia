@@ -17,49 +17,49 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Spring-Tastic Show 2022 International**_ is the spring show released March 12 (For existing/ Studio C SD) and March 15 (For Weigl), 2022 featuring a variety of songs released from 2016-2021
+<b><i>Spring-Tastic Show 2022 International</b></i> is the spring show released March 12 (For existing/ Studio C SD) and March 15 (For Weigl), 2022 featuring a variety of songs released from 2016-2021
 
 This was created to play during the Spring-Tastic Celebration Promotion. Runs from March 12/15, 2022 to April 2022. This song features 6 Songs with a reedit of Spring Break Break Dance as the automatic live.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Safety Message
 ## HiDino - 'King of Dinosaurs'
 ## KIDZ BOP Kids - “Stay”
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E., Munch & Bella - “Play All You Can Play” 
-# **Intermission 2**  
+# <b>Intermission 2</b>  
 ## KIDZ BOP Kids - “Call Me Maybe” 
 ## Keith Urban - “Out the Cage” 
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Chuck E.'s Place' 
-# **Intermission 3**  
+# <b>Intermission 3</b>  
 ## Safety Message 
 ## “Unicorn, Unicorn!” 
 ## BTS - 'Dynamite' 
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Rainy Day' 
-# **Intermission 4**  
+# <b>Intermission 4</b>  
 ## Stephanie Beatriz, Olga Merediz - “The Family Madrigal” 
 ## KIDZ BOP Kids - “The Git Up” 
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Dancin' Kitten' 
-# **Intermission 5**  
+# <b>Intermission 5</b>  
 ## Safety Message  
 ## KIDZ BOP Kids - “Butter” 
 ## Musing With Mr. Munch #8 
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese - 'Billy & The Bully' 
-# **Intermission 6**  
+# <b>Intermission 6</b>  
 ## KIDZ BOP Kids - “Blinding Lights” 
 ## HiDino - 'Planet Song' 
 ## KIDZ BOP Kids - 'Say So' 
 ## YouTube & Music Streaming 
-# **Skit 6**
+# <b>Skit 6</b>
 ## Barbara The Barnyard Barber
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
@@ -70,5 +70,5 @@ This was created to play during the Spring-Tastic Celebration Promotion. Runs fr
 * Easy Dance (Cyberamic, Studio C, Weigl)
 * Happy Dance (Studio C, Weigl)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 'Rainy Day' was reprogrammed keeping the original lighting programming but redone to change Chuck and Birds movements.

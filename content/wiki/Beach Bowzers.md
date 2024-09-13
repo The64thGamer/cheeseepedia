@@ -8,27 +8,27 @@ date = 2024-07-23T22:28:32Z
 contributors = ["The 64th Gamer","CoolerDude"]
 gallery = []
 +++
-## Show List ##
+<h2> Show List </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## Surfin' U.S.A.
-# **Segment 2**
+# <b>Segment 2</b>
 ## Surfin' Safari
-# **Segment 3**
+# <b>Segment 3</b>
 ## Little Honda
-# **Segment 4**
+# <b>Segment 4</b>
 ## Little Deuce Coupe
-# **Segment 5**
+# <b>Segment 5</b>
 ## In My Room
-# **Segment 6**
+# <b>Segment 6</b>
 ## I Get Around
-# **Segment 7**
+# <b>Segment 7</b>
 ## Help Me, Rhonda
-# **Segment 8**
+# <b>Segment 8</b>
 ## Hawaii
-# **Segment 9**
+# <b>Segment 9</b>
 ## Fun, Fun, Fun
-# **Segment 10**
+# <b>Segment 10</b>
 ## Don't Worry Baby
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>

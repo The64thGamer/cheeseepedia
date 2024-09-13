@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-08-05T12:43:20Z
 
 [Article]
+pageThumbnailFile = "Davenport after closure, April 8 2024 (PC- rileypaulson13).jpg|Davenport after closure, April 8 2024. (PC:WQAD News 8)"
 contributors = ["ChuckECool","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","ShowbizMidwest","162.40.201.9","Documentor","Cheeseclassic","CoolerDude"]
 gallery = []
 +++
-{{Generic|image=Davenport after closure, April 8 2024 (PC- rileypaulson13).jpg|desc=Davenport after closure, April 8 2024. (PC:WQAD News 8)}}
-**_903 E Kimberly Rd**_ was a _ShowBiz Pizza Place_ that opened on February 25, 1981 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on April 7, 2024 as a _Chuck E. Cheese_.<ref>https://www.kwqc.com/2024/04/07/davenport-chuck-e-cheese-close-sunday/?outputType=amp</ref> It was  located in the Old Town Shopping Center.
-##History##
+
+<b><i>903 E Kimberly Rd</b></i> was a <i>ShowBiz Pizza Place</i> that opened on February 25, 1981 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on April 7, 2024 as a <i>Chuck E. Cheese</i>.<ref>https://www.kwqc.com/2024/04/07/davenport-chuck-e-cheese-close-sunday/?outputType=amp</ref> It was  located in the Old Town Shopping Center.
+<h2>History</h2>
 Davenport opened its doors in February 25th, 1981 with a Rock-afire Explosion show. Davenport was originally a corporate-owned store before becoming franchised in 1984, and later became a corporate-owned store again in 1996. It was the second ShowBiz Pizza Place in the state of Iowa. Davenport would eventually receive the 80s Remodel between 1988-1990. Although very little documentation exists back in the ShowBiz days, it can be determined that Davenport was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Davenport received the ShowBiz Pizza Campground upgrade.
 
 In April 1991, Davenport received Concept Unification which converted the show to Munch's Make Believe Band. On September 16, 1996, the location was sold to corporate along with [West Des Moines]({{< ref "wiki/West Des Moines, IA (1431 22nd St).md" >}}), Cedar Falls, and Cedar Rapids. In 1997, Davenport would receive a remodel which removed the late 80s decor and added new decor and SkyTubes. Davenport remained this way until sometime in 2006-2007 when they received the 00s Remodel which involved removing the Showroom walls, balcony seating, and received a new exterior. Davenport would receive another exterior remodel in 2018 when the shopping center received a major remodel. Davenport received the 2.0 Remodel in September 2019 which caused the removal of the 3-Stage for the Dance Floor.
 
 On April 7, 2024, Davenport closed permanently after 43 years of operation.
 
-##Stages##
+<h2>Stages</h2>
 Davenport opened with the Rock-afire Explosion in February 1981. Unfortunately, there are not much photos but no videos to exist of Davenport with the Rock-afire, or as a ShowBiz in general.
 
 In April 1991, Davenport received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock-afire into Munch’s Make Believe Band.
@@ -48,7 +49,7 @@ In September 2019, Davenport started the 2.0 Remodel, removing the 3-Stage and a
 |2019 Model. First 2.0 in Iowa.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -106,14 +107,14 @@ In September 2019, Davenport started the 2.0 Remodel, removing the 3-Stage and a
 
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
 
-## Games (W.i.p) ##
+<h2> Games (W.i.p) </h2>
 
-##### Showbiz Pizza #####
+<h2>=</h2> Showbiz Pizza <h2>=</h2>
 
 * Dragon's Lair
 
-##References##
+<h2>References</h2>
 <references />

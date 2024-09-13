@@ -12,26 +12,26 @@ gallery = []
 |date=1983
 |image=Rolfeearldiagsthumbnail.png|ceibetacam=y}}
 
-The **_ShowBiz Pizza Calibration Video Tape**_ was a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1983.
+The <b><i>ShowBiz Pizza Calibration Video Tape</b></i> was a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1983.
 
 The show was formatted on [CEI Betamax]({{< ref "wiki/CEI Betamax.md" >}}), allowing employees to place a TV in front of the stage to compare the movements of their stage to the diagnostics.
-##Show List##
+<h2>Show List</h2>
 It is unknown the order of the segments as they took place in the tape.
-***Segment**
+*<b>Segment</b>
 *#Rubber Biscuit
-***Segment**
+*<b>Segment</b>
 *#Goofy Gas
-***Segment**
+*<b>Segment</b>
 *#Fire
-***Segment**
+*<b>Segment</b>
 *#Born to Run
-***Segment**
+*<b>Segment</b>
 *#No Bloom In Frank Skit
-***Segment**
+*<b>Segment</b>
 *#Pretty Woman
-***Segment**
+*<b>Segment</b>
 *#Tribute To Frank Sinatra
-***Segment 8**
+*<b>Segment 8</b>
 *#Looney Bird Diagnostics
-***Segment 9**
+*<b>Segment 9</b>
 *#Billy Bob Diagnostics

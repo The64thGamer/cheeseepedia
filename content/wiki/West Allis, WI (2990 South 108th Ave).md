@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-05-10T18:17:14Z
 
 [Article]
+pageThumbnailFile = "West Allis 2.0 Exterior.jpg|Exterior, June 2023 (PC: Donovan Waege)"
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","CEC Tinley","2600:4040:5A0E:D900:E54C:6C9A:5291:7CF1","Cheeseclassic","Estsproduction","WindowsDylan"]
 gallery = []
 +++
-{{Generic|image=West Allis 2.0 Exterior.jpg|desc=Exterior, June 2023 (PC: Donovan Waege)}}
-**_2990 South 108th Ave, Store #843**_ is a _Chuck E. Cheese_ that opened in December 1981 (day not found) as a franchised _Pizza Time Theatre_ with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). It is located in the Southtown Shopping Center.
 
-##History##
+<b><i>2990 South 108th Ave, Store #843</b></i> is a <i>Chuck E. Cheese</i> that opened in December 1981 (day not found) as a franchised <i>Pizza Time Theatre</i> with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). It is located in the Southtown Shopping Center.
+
+<h2>History</h2>
 West Allis opened its doors in December 1981 as the first Chuck E. Cheese of any kind in Wisconsin; as an expansion of the shopping center it is in with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy. Like all locations at some point, West Allis received the 1988 remodel in 1989-1990 and removed older PTT decor for newer decor, and the removal of the Balcony Stage for Chuck E.'s House. In the Early 90's, West Allis received a major remodel adding newer decor, replacing older decor, removal of the lounge, and the renaming of the store. In 1994, West Allis received a very minor remodel removing some decor for the Record Posters and other decor, and the removal of Chuck E.'s House for the 1-Stage, and also the removal of the King. West Allis was then bought by the corporate on December 20th, 1998, along with [Milwaukee]({{< ref "wiki/Milwaukee, WI (2701 S Chase Ave).md" >}}), [Brookfield]({{< ref "wiki/Brookfield, WI (19125 W Blue Mound Rd).md" >}}), and 3 others. In around 2000-2002, the exterior logo was replaced with the 2000 Thumb Chuck logo<ref>https://s3.amazonaws.com/gs-geo-images/c631e7da-19c1-454a-bdd3-ce927d0eab88_l.jpg</ref>. In May-June 2007, West Allis received the 2005 remodel removing all older decor for newer decor, removing the Showroom Walls, Balcony Seating, relocation the stage, and strangely, the removal of the Toddler Zone. West Allis remained like this until August 2021, when they received the 2.0 remodel and removed the 1-Stage for the Dance Floor + Video Wall. Interestingly, the 'Open' sign during West Allis' 2.0 remodel was actually unique as it said about getting 'more fun'. Currently, as of March 2023, West Allis still has the 2.0 Remodel and Dance Floor and Video Wall.
-##Stages##
+<h2>Stages</h2>
 Originally, when this store opened, they had a Balcony Stage.
 
 Sometime between 1989 and 1990, the location installed Chuck E.’s House, otherwise known as the Rocker Stage. 
@@ -49,7 +50,7 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 |2021 Model.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -105,7 +106,7 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
-##References##
+<h2>References</h2>
 <references />

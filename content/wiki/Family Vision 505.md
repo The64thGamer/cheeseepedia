@@ -5,20 +5,21 @@ tags = []
 date = 2024-07-31T23:16:24Z
 
 [Article]
+pageThumbnailFile = "Weewow.png|Family vision 505"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++
-{{Generic|image=Weewow.png|desc=Family vision 505}}
 
-**_Family Vision #505**_ was part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984. This specific tape played during the month of October 1986.<ref>https://youtu.be/dyyf25jJNcQ?t=950</ref>
 
-## Video List ##
+<b><i>Family Vision #505</b></i> was part of a collection of monthly [Family Vision]({{< ref "wiki/Family Vision.md" >}}) Betamax tapes released to <i>Showbiz Pizza Place</i> stores starting in 1984. This specific tape played during the month of October 1986.<ref>https://youtu.be/dyyf25jJNcQ?t=950</ref>
+
+<h2> Video List </h2>
 The tape's total length was 33 minutes and 21 seconds.
 {| class='wikitable'
 !Title
 !Subtitle
 !Length
-!**Link**
+!<b>Link</b>
 |-
 |Sylvester & Porky
 |'Claws for Alarm'
@@ -33,7 +34,7 @@ The tape's total length was 33 minutes and 21 seconds.
 |Tweety & Sylvester
 |'The Jet Cage'
 |6:37
-|[https://www.youtube.com/watch?v=nDurei0DdMo&ab_channel=PepperInc. https://www.youtube.com/watch?v=nDurei0DdMo]
+|[https:<i>www.youtube.com/watch?v=nDurei0DdMo&ab_channel=PepperInc. https:</i>www.youtube.com/watch?v=nDurei0DdMo]
 |-
 |Pattilabelle
 |'Oh People'
@@ -51,5 +52,5 @@ The tape's total length was 33 minutes and 21 seconds.
 |https://www.youtube.com/watch?v=h2WMwISL3Tw
 |}
 
-## References ##
+<h2> References </h2>
 <references />

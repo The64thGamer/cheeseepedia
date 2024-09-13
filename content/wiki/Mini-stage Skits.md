@@ -10,20 +10,20 @@ gallery = []
 +++
 {{Showtape
 |date=1983
-|showbizreel=y}}**_Mini-stage Skits**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations featuring the [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) in 1983.
-##Segment List##
-#**Segment 1**
+|showbizreel=y}}<b><i>Mini-stage Skits</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations featuring the [Mini Stage]({{< ref "wiki/Mini Stage.md" >}}) in 1983.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Mickey
-#**Segment 2**
+#<b>Segment 2</b>
 ##Buddy Holly
-#**Segment 3**
+#<b>Segment 3</b>
 ##Walkin' the Dog
-#**Segment 4**
+#<b>Segment 4</b>
 ##When Will I Be Loved
-#**Segment 5**
+#<b>Segment 5</b>
 ##On The Road Again
-#**Segment 6**
+#<b>Segment 6</b>
 ##Rubber Biscuit
-#**Segment 7**
+#<b>Segment 7</b>
 ##Space Man
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>

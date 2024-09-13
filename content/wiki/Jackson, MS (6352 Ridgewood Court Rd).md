@@ -9,10 +9,10 @@ contributors = ["BurgersNuggs445","Rexburg090","Midwestretail","47.17.236.200","
 gallery = ["Jackson MS Exterior.jpg|thumb|Exterior being finished in 2009"]
 +++
 
-**_6352 Ridgewood Court Rd, Store #3011**_ is a _Chuck E. Cheese's_ that opened in June of 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and still open to this day with the 2.0 remodel.
+<b><i>6352 Ridgewood Court Rd, Store #3011</b></i> is a <i>Chuck E. Cheese's</i> that opened in June of 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and still open to this day with the 2.0 remodel.
 
 This is a franchised relocation from [Jackson, MS (5465 I-55)]({{< ref "wiki/Jackson, MS (5465 I-55).md" >}}) to Jackson, MS (6352 Ridgewood Court Rd).
-##Stages##
+<h2>Stages</h2>
 This location was the second to last Studio C Beta to be installed with a Chuck E. Cheese 32m (Animatronic) (32m Animatronic) and was also speculated to have the oldest Studio C Animatronic on a Studio C Beta. 
 
 The Chuck E. Cheese Animatronic was installed incorrectly with many movements reversed or hooked up to the wrong valve, making the eyelids being stuck upwards and for the head to be stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and small miscellaneous repairs for the Chuck E. Animatronic. 
@@ -31,24 +31,24 @@ The Chuck E. Cheese Animatronic was installed incorrectly with many movements re
 |Still in use
 |}
 
-##History##
+<h2>History</h2>
 In June of 2009, the Melvin franchise permanently closed their [Jackson, MS (5465 I-55)]({{< ref "wiki/Jackson, MS (5465 I-55).md" >}}) location and had relocated most of the assets to the Ridgewood Court location. 
 
-### Artwork ###
+<h2>= Artwork </h2>=
 The Melvin franchise locations received 'Star Stage' Artwork in 2010 that would end up replacing what ever was in the showroom. This caused this locations 'Kids Posters' to have the shortest time displayed in a location.
 
-###New Games###
+<h2>=New Games</h2>=
 Ever since this location opened with the same games from their previous location, they wouldn't receive much or at all new games until around 2019.
 
-### **Stage** ###
+<h2>= <b>Stage</b> </h2>=
 In 2023, the bot was removed along with every other bot in a store owned by the Melvin franchise. The stage remains like this without the bot until July 2024, which it was sadly removed for the 2.0 remodel. 
 
-### 2.0 ###
+<h2>= 2.0 </h2>=
 As of August 2024, Jackson remains like this with the 2.0 remodel
 
 
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
 * Chuck E. Cheese's Photo Ride (1997)
 * [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
@@ -60,7 +60,7 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 
 * [Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -106,7 +106,7 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -118,7 +118,7 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 |Unknown (probably destroyed)
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * This locations Studio C Beta had curtains but they were never on their tracks to begin with.
 * A 'B' Inspection grade is featured at the front counter at this location.

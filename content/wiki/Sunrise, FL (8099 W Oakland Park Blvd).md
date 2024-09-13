@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-30T13:31:21Z
 
 [Article]
+pageThumbnailFile = "Exterior Sunrise (2024).jpg|Exterior in April 2024."
 contributors = ["ChuckECool","Rexburg090","216.125.34.66","CEC Tinley","ThatBoiCydalan","Stripes","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Exterior Sunrise (2024).jpg|desc=Exterior in April 2024.}}
-**_8099 Oakland Park Blvd, Store #434**_ is a Chuck E. Cheese that opened on April 16, 1991, as a corporate location with a Road Stage which is still open to this day.
+
+<b><i>8099 Oakland Park Blvd, Store #434</b></i> is a Chuck E. Cheese that opened on April 16, 1991, as a corporate location with a Road Stage which is still open to this day.
 
 It is strangely located in the Park North Plaza and is one of the few CEC's to be located in a park.
-##History##
+<h2>History</h2>
 Sunrise opened on April 16th, 1991, as a corporate-owned location. Sunrise opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990s, Sunrise replaced their logo with Coach Chuck and removed older 90's decor for newer decor and the removal of the ball pit for SkyTubes. In Early 2007, Sunrise remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, & adding purple walls. Sunrise remained like this until June 2022 when they received the 2.0 remodel and removed the Road Stage for the Dance Floor. Currently, as of August 2023, the location still has the 2.0 Remodel and the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit.
 
 The stage was removed in June 2022 for the 2.0 Remodel and Dance Floor.
@@ -34,9 +35,9 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 |Still in use
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Sonic Blast Ball
 *Pop The Lock
@@ -70,12 +71,12 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 *Rampage
 *Chuck E. Cheese's Fun House
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 *Spongebob Pineapple Arcade
 *Deep Sea Treasure
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Alien Boogey Patrol
 *Chuck E.'s Goalie All Stars
@@ -91,7 +92,7 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 *Angel Carousel
 *Hit Music
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -123,7 +124,7 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -131,7 +132,7 @@ As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 !Publish Date
 |-
 |[https://youtu.be/mRUkfhqceYQ Link]
-|The store's stage showcased in _The Future for Chuck E. Cheese_ demo performing American Pride 1991
+|The store's stage showcased in <i>The Future for Chuck E. Cheese</i> demo performing American Pride 1991
 |1991
 |July 24th, 2021
 |-

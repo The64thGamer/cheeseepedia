@@ -8,17 +8,17 @@ date = 2023-12-28T18:13:58Z
 contributors = ["GallaRBX2","The 64th Gamer"]
 gallery = []
 +++
-{{Animatronic|image=PromoLooney.png|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Looney Bird Labratory Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-## History ##
+The <b><i>Looney Bird Labratory Mijjin</b></i> was an animatronic produced by <i>Creative Engineering Inc.</i> for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+
+<h2> History </h2>
 This character was produced in 1993 for the New Rock-Afire Explosion show, with less movements than standard Mijjins.
 
-## Design ##
+<h2> Design </h2>
 This bot is a Standard Mijjin mech with less movements, the mech has green eye pieces. The bot is the Looney Bird Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, now with a body. This character is only seen wearing a Lab Coat.
 
-## Movements ##
+<h2> Movements </h2>
 All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos.
 
 Looney Bird Window's servo movements are linked to this character.
@@ -106,5 +106,5 @@ Knee Bend
 
 
 
-## References ##
+<h2> References </h2>
 <references />

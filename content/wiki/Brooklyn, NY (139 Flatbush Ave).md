@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-08-16T20:24:45Z
 
 [Article]
+pageThumbnailFile = "BK Exterior.jpg|Brooklyn's exterior from 2004 to 2015"
 contributors = ["2600:4040:AD76:D00:CCCB:85BF:4F98:EB5","Cecnj98","ThatBoiCydalan","CorrectorMan","BurgersNuggs445","47.17.236.200"]
 gallery = []
 +++
-{{Generic|image=BK Exterior.jpg|desc=Brooklyn's exterior from 2004 to 2015}}
-**_Brooklyn, NY (139 Flatbush Ave), Store #522**_ is a Chuck E. Cheese's in the Atlantic Terminal mall that opened in 2004 with a Studio C 2000 and still operates to this day with the 2.0 remodel and Dance Floor. 
 
-## Stages ##
+<b><i>Brooklyn, NY (139 Flatbush Ave), Store #522</b></i> is a Chuck E. Cheese's in the Atlantic Terminal mall that opened in 2004 with a Studio C 2000 and still operates to this day with the 2.0 remodel and Dance Floor. 
+
+<h2> Stages </h2>
 As the store opened with Studio C 2000, Chuck E.'s stage, like other NYC area stores like Bronx and Harlem, had a rope barrier onstage to block kids from tampering with the animatronic as early as 2011. In 2014 this would be replaced with a barrier from the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage. Otherwise the stage otherwise went unchanged aside from the prop removals mandated by corporate and the removal of the fixtures above the main screens.
 
-##History##
+<h2>History</h2>
 On July 22, 2004 Chuck E. Cheese's opened on the second floor of the Atlantic Terminal shopping mall with the [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}) games package alongside unique signage specific to this location.
 
 This location was also one of the few locations to have the signage of Chuck E. pointing towards the entrance, which was later retrofitted to have Rockstar Chuck E.'s head.
@@ -23,7 +24,7 @@ The Brooklyn CEC failed a health inspection in June 2006 causing the store to te
 
 Early on into 2023, remodeled once again under the 2.0 remodel initiative and had its grand re-opening in April. This store also received the first Trampoline Zone which appears to be the new SkyTubes replacement.<ref>https://www.youtube.com/watch?v=mr4xq-W54d8</ref>
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -41,4 +42,4 @@ Early on into 2023, remodeled once again under the 2.0 remodel initiative and ha
 
 
 
-## References ##
+<h2> References </h2>

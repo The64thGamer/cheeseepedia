@@ -8,28 +8,28 @@ date = 2023-02-02T22:36:51Z
 contributors = ["ChuckfeldStan"]
 gallery = []
 +++
-## Actors ##
+<h2> Actors </h2>
 
 * Unknown as Pasqually (Suit)
 * Bob West as Pasqually (Voice)
 
-## Instructions ##
+<h2> Instructions </h2>
 
 * Mixing & Bunning the Dough
 ** Fill the Water Bucket (70*-80* F)
 ** Measure the Dough (76*-82* F)
 *** If dough is more than 82* F, use colder water (70*-72* F)
-**** Pasqually suggests using ice cubes to cool down the water.
-***** Melt completely and store it up.
+<b></b> Pasqually suggests using ice cubes to cool down the water.
+<b></b>* Melt completely and store it up.
 *** If dough is less than 76* F, use warmer water
 ** Put bucket on the scale
 *** 50 lb sack: 23 1/2 lbs water
 *** 25 lb sack: 11 3/4 lbs water
 *** Scoop out extra water until you get to exactly the right weight.
 *** It's easier to take excess water out than to have to add more.
-**** Adding more water requires repeating the water temperature step (70*-80* F) again.
+<b></b> Adding more water requires repeating the water temperature step (70*-80* F) again.
 ** Pour water into the bowl and add one bag of dough into the water.
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Pasqually's voice interestingly more resembles the voice of Nintendo character 'Mario' more than in any showtape.

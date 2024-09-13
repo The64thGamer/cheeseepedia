@@ -13,18 +13,18 @@ gallery = ["New Graphic.png"]
 |date=February 27th, 2013
 |digital=y|Downloads=}}
 
-**_Fuck You**_ (also known as **_Forget You**_ in the radio edit) is a song written by [https://en.wikipedia.org/wiki/CeeLo_Green CeeLo Green] and was programmed for the _CeeLo Green is LOBERACE_ concert in Las Vegas, Nevada
+<b><i>Fuck You</b></i> (also known as <b><i>Forget You</b></i> in the radio edit) is a song written by [https://en.wikipedia.org/wiki/CeeLo_Green CeeLo Green] and was programmed for the <i>CeeLo Green is LOBERACE</i> concert in Las Vegas, Nevada
 
 This was created to play during Feb 27th, 2013 to April 13th, 2013.
 
-##Summary##
+<h2>Summary</h2>
 The band provides backup vocals for CeeLo Green as he preforms [https://en.wikipedia.org/wiki/Fuck_You_(CeeLo_Green_song) Fuck You] on stage.
 
-##Show List##
-#**** **Segment 1**
+<h2>Show List</h2>
+#<b></b> <b>Segment 1</b>
 ##[https://en.wikipedia.org/wiki/Fuck_You_(CeeLo_Green_song) Fuck You]
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 * Only Billy Bob, Mitzi, Fatz, and Dook are programmed for this song.
 * A parody of this song would release in 2015 on Creative Engineering's official YouTube Channel called “Poo on You”.

@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-10-13T00:31:38Z
 
 [Article]
+pageThumbnailFile = "Sterling’s Exterior in August 2023.jpg|Exterior, 2023 (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Sterling’s Exterior in August 2023.jpg|desc=Exterior, 2023 (PC: Google Maps)}}
-**_21025 Dulles Town Circle, Store #379**_ is a Chuck E. Cheese that opened on July 6th, 2006 with the Studio C Beta, and is still open with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<b><i>21025 Dulles Town Circle, Store #379</b></i> is a Chuck E. Cheese that opened on July 6th, 2006 with the Studio C Beta, and is still open with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Stages ##
+<h2> Stages </h2>
 Originally, the location featured a Studio C Beta. They would keep the stage until July 2023, due to their 2.0 remodel. They would replaced it with the Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 {| class='wikitable'
 !Stage

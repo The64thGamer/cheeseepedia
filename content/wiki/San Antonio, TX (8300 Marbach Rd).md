@@ -8,11 +8,11 @@ date = 2024-07-30T20:27:02Z
 contributors = ["CorrectorManBackup","Rexburg090","BurgersNuggs445","CEC Kokomo","Gostapua210","CECMadison"]
 gallery = []
 +++
-{{Stub}}
 
-**_8300 Marbach Rd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in 1983 and closed in February 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
-## Stage ##
+<b><i>8300 Marbach Rd</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in 1983 and closed in February 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
+
+<h2> Stage </h2>
 The location had a Balcony Stage, any further documentation is unknown.
 {| class='wikitable'
 !Stage
@@ -25,10 +25,10 @@ The location had a Balcony Stage, any further documentation is unknown.
 |February 1984
 |Whereabouts Unknown. One of many installed in Texas.
 |}
-##History##
+<h2>History</h2>
 Unfortunately, there is no documentation on this store other than select advertisements. The location closed in February 1984 for reasons unknown, maybe for underperforming or competition from other San Antonio stores. It was later vacated and sold to many other businesses, and as of today, it is now El Bucanero, a Mexican restaurant. 
 
-## Animatronics##
+<h2> Animatronics</h2>
 {| class='wikitable'
 !Animatronic 
 !Whereabouts

@@ -8,27 +8,27 @@ date = 2023-12-28T18:14:02Z
 contributors = ["GallaRBX2","The 64th Gamer"]
 gallery = []
 +++
-{{Animatronic|image=Nrae billybob.jpg|releasedate=1992|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Billy Bob Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the Mijjins show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-##History##
+The <b><i>Billy Bob Mijjin</b></i> was an animatronic produced by <i>Creative Engineering Inc.</i> for the Mijjins show in 1992 <ref>https:<i>www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref> and the New Rock-Afire Explosion in 1993. <ref>https:</i>www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+
+<h2>History</h2>
 The character was first produced for the Mijjins show in 1992. 
 
 This character was later produced in 1993 for the New Rock-Afire Explosion show. 
 
 The character's mech was changed to the standard Mijjin mech in 1993 when the New Rock-Afire Explosion show was made.
 
-##Design##
+<h2>Design</h2>
 This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Billy Bob Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.  
 
-####Toyland####
+<h2>==Toyland</h2>==
 The bot is wearing the normal outfit, along with a Red and Yellow striped Cap, and an Orange Scarf.
 
-####Mampato Let's Fun####
+<h2>==Mampato Let's Fun</h2>==
 The bot is wearing a Yellow Button-Up Shirt and Blue Shorts.
 
-##Movements##
+<h2>Movements</h2>
 All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 {| class='wikitable'
 |+Top Drawer
@@ -117,5 +117,5 @@ All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 
 
 
-##References##
+<h2>References</h2>
 <references />

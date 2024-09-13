@@ -17,42 +17,42 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 7 2018**_ released November 5, 2018
+<b><i>Chuck E. Cheese's Show 7 2018</b></i> released November 5, 2018
 
 This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 songs. 2 new songs and 2 reused.
 
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD:10/26/18 4:54pm - 4:59pm
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese & Friends - 'Share The Joy'
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Oddbods - 'Gift Thief'
 ## Mariah Carey - 'Oh Santa!'
 ## Nina's World - 'Favorite Thing about Christmas'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese & Helen - 'Merry Christmas Time'
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Littlest Pet Shop - 'Call of the Wild Retreat'
 ## Asher Angel - 'Snow Globe Wonderland'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Helen Henny - 'All I Want for Christmas'
-#  **Intermission 3**
+#  <b>Intermission 3</b>
 ## Lindsey Stirling - 'Dance of the Sugar Plum Fairy'
 ## Fun Facts with Chuck E. - 'Santa Claus'
 ## Monster High Ghoul Squad - 'Snowball Fight'
 ## In Real Life - 'I'll Be Home for Christmas'
 ## Musing with Mr. Munch - 'Episode 6 (The Holidays)'
 ## Brady Rhymer - 'Hanukkah Rocks'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Pasqually - 'What Do You Get a Sasquatch for Christmas?'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Littlest Pet Shop - 'Classy & Refined'
 ## Kidz Bop - 'Go Christmas'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -60,21 +60,21 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 ### Up On The Housetop
 ### Deck the Halls
 ### We Wish You a Merry Christmas
-#  **Intermission 5**
+#  <b>Intermission 5</b>
 ## Shaman's Quest - 'Flight of the Penguin's'
 ## Reliant K - 'Sleigh Ride'
 ## Oddbods - 'Decorating'
 ## Jokes from Pasqually - 'Jokes for the Holidays'
 ## 98 Degrees - 'Season of Love'
 ## PacMan - 'Ho Ho Woah!'
-#  **Skit 6**
+#  <b>Skit 6</b>
 ## Chuck E. Cheese, Jungle & Jangle - 'Holiday Traditions'
-#  **Intermission 6**
+#  <b>Intermission 6</b>
 ## Oddbods - 'Season of Giving'
 ## Kit 'N Kate - 'The Gift'
 ## Show Break - 'Holiday Season'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -91,15 +91,15 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 * Head Shoulders Knees & Toes (Studio C, Weigl)
 * Happy Dance (Spanish) (Studio C, Weigl)
 
-##Official Releases: ##
+<h2>Official Releases: </h2>
 *[https://www.youtube.com/watch?v=z16oHQuv0Ko 'All I Want for Christmas is Snow' on YouTube]
 *[https://www.youtube.com/watch?v=GWWVhCUFHyw 'Holiday Traditions' on YouTube]
 *[https://www.youtube.com/watch?v=jMruMSvharA 'Holly Jolly Dance' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Merry Christmastime, Share The Joy and Holiday Medley all come from Chuck E. Cheese's Show 9 2016 (Show 9 2016), and What Do You Get a Sasquatch for Christmas? is originally from [Holiday 2014]({{< ref "wiki/Holiday 2014 Show.md" >}}).
 * Jangle is done by Matt Daniel. It's unknown who does Jingle's voice.

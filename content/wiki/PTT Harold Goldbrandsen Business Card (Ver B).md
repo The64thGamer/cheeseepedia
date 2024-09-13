@@ -5,13 +5,14 @@ tags = ["Corporate Documents"]
 date = 2024-02-16T06:59:20Z
 
 [Article]
+pageThumbnailFile = "Haroldcardverb.png|Business Card"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Haroldcardverb.png|desc=Business Card}}The **_PTT Harold Goldbrandsen Business Card (Ver. B)**_ is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
+The <b><i>PTT Harold Goldbrandsen Business Card (Ver. B)</b></i> is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
 
 The card lists the [Fantasy Forest Victorville, CA Office]({{< ref "wiki/Fantasy Forest Victorville, CA Office.md" >}}) as the address rather than the Pizza Time Theatre offices.
-##Transcription##
+<h2>Transcription</h2>
 <blockquote>Chuck E.
 
 Cheese's

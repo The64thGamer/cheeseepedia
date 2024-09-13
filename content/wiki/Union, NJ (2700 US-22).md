@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-30T13:43:35Z
 
 [Article]
+pageThumbnailFile = "Unj99.png|The location's exterior during its soft opening (May 15, 2023)"
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Unj99.png|desc=The location's exterior during its soft opening (May 15, 2023)}}
-**_Union, NJ (2700 US-22), Store #542**_ is _Chuck E. Cheese_ that opened on May 15th, 2023 with a 2019 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
+
+<b><i>Union, NJ (2700 US-22), Store #542</b></i> is <i>Chuck E. Cheese</i> that opened on May 15th, 2023 with a 2019 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
 This store is a relocation of [the old Union location]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}), which opened on August 6th, 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in November 2019 with a Studio C 2000 (Studio C 2000, 16m).
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -25,23 +26,23 @@ This store is a relocation of [the old Union location]({{< ref "wiki/Union, NJ (
 |Still in use.
 |}
 
-##History##
+<h2>History</h2>
 Following the closure announcement of its original location at [1660 US-22]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}) in 2019, plans emerged to relocate the original Union CEC to the Route 22 Retail Center. However, due to COVID-19 and the company falling into bankruptcy in 2020, the plans were put to a halt until 2022. 
 
 This location was a former Petco that relocated in 2019. After the building was vacated, a Spirit Halloween occupied the space for two Halloween seasons.
 
-In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,<ref>https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA##</ref> starting out with completely gutting the interior of the former Petco.
+In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,<ref>https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA==</ref> starting out with completely gutting the interior of the former Petco.
 
-On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan **Dr. EZ_<nowiki/>' being the first guest to step foot inside the location.
+On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan <i>'Dr. EZ</i><nowiki/>' being the first guest to step foot inside the location.
 
 The grand opening date for this store was originally set for June 9th, 2023,<ref>https://www.instagram.com/p/CseIhW1r_Vw/?hl=en</ref> but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd. 
 
-The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume [from the Deptford location]({{< ref "wiki/Deptford, NJ (1500 Almonesson Rd).md" >}})<ref>[https://www.youtube.com/watch?v=8b3npxPoLSg https://youtu.be/8b3npxPoLSg]</ref>, and the Mr. Munch and Jasper costumes [from the Princeton location]({{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd).md" >}}). 
+The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume [from the Deptford location]({{< ref "wiki/Deptford, NJ (1500 Almonesson Rd).md" >}})<ref>[https:<i>www.youtube.com/watch?v=8b3npxPoLSg https:</i>youtu.be/8b3npxPoLSg]</ref>, and the Mr. Munch and Jasper costumes [from the Princeton location]({{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd).md" >}}). 
 
 In May 2024, the store would receive parts for its Trampoline Zone. 
 
-##Arcade Machines##
-###Skill###
+<h2>Arcade Machines</h2>
+<h2>=Skill</h2>=
 
 *Quik Drop
 *Carnival Cups
@@ -83,7 +84,7 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 * Barrel of Monkeys
 * Snowball Toss
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Hot Racers
 *Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
@@ -100,7 +101,7 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 *Zombie Land Battle
 *Big Bug Blaster
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -122,7 +123,7 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 
 [https://www.instagram.com/dr.ezofcec/ Spring 2023 Photos' Source]
 
-## Walkarounds ##
+<h2> Walkarounds </h2>
 {| class='wikitable'
 |+
 !Head
@@ -136,5 +137,5 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 |In Use
 |}
 
-##References##
+<h2>References</h2>
 <references />

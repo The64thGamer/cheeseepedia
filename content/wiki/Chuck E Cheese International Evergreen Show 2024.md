@@ -13,10 +13,10 @@ gallery = []
 |date=January 3, 2024
 |studioc=True|studiochd=True|dvdcyber=True|
 |}}
-**_Chuck E. Cheese International Evergreen Show 2024**_ is the generic show released on January 3, 2024. It features a variety of songs released from 2016-2023.
+<b><i>Chuck E. Cheese International Evergreen Show 2024</b></i> is the generic show released on January 3, 2024. It features a variety of songs released from 2016-2023.
 
 This was created with the idea of playing between promotional events. This show features 6 Songs with the automatic live being Me & My Friends.
-## Show List: ##
+<h2> Show List: </h2>
 
 #Intermission 1
 ##KIDZ POP - Dance the Night

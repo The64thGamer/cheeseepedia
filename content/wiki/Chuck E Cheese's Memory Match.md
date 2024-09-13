@@ -13,61 +13,61 @@ gallery = ["Memory Match Cabinet.jpg|thumb|The original 1993 cabinet design","Up
 |file = Cecmatch.zip
 }}
 
-**_Chuck E. Cheese's Memory Match**_ is a custom arcade game by _[https://coastalamusements.com/ Coastal Amusements]_ made for [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) locations in 1993. 
+<b><i>Chuck E. Cheese's Memory Match</b></i> is a custom arcade game by <i>[https://coastalamusements.com/ Coastal Amusements]</i> made for [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) locations in 1993. 
 
-The game is a standard design arcade cabinet for the time, with artwork of the main Chuck E. cast all around the sides. The game is displayed on a CRT monitor, with two speakers using mono audio output. The control panel consists of nine numbered buttons, which can light up during gameplay. The game required tokens to play, and would dispense tickets at the end of a session. The game used _HAR MadMax hardware_,   
+The game is a standard design arcade cabinet for the time, with artwork of the main Chuck E. cast all around the sides. The game is displayed on a CRT monitor, with two speakers using mono audio output. The control panel consists of nine numbered buttons, which can light up during gameplay. The game required tokens to play, and would dispense tickets at the end of a session. The game used <i>HAR MadMax hardware</i>,   
 
 The cabinet would also see a Spanish release, replacing the Memory Match logo on the control board for a set of instructions.  
 
-##Gameplay##
+<h2>Gameplay</h2>
 The game is a standard memory matching game. Instead of matching 2 hidden objects on the same board however, you only need to match one to the current character on-screen, giving the player double the chances of a correct choice. Nine buttons are available for the player, each to pick which character curtain to unveil. The game dispenses tickets based on how many matches can be made before the time runs out.
-##Updated Cabinet ##
+<h2>Updated Cabinet </h2>
 Around 2000-2001, new cabinets produced would contain updated artwork to match the current branding at the time. 
 
 The marquee, monitor plexi, and control panel would update Chuck E.'s design to the current style, while leaving the rest of the characters the same. All logos and branding were also changed to match the current style. The control panel would see additional changes, scaling up the character artwork, and moving the copyrighted text towards the buttons, removing the '1992' artwork copyright date seen on the original cabinet. 
 
-## Flintstones ##
-_[https://coastalamusements.com/ Coastal Amusements]_ would later use the cabinet and software as their base for the _Fred Flintstone's Memory Match_ machine in 1994. Coincidentally, or due to relations between the companies, the Flintstone's game would appear on the 1997 _Studio C Console_ for the left and right monitors. Oddly, the only footage of this shows the language in Chinese, whether due to a mismatched rom, or a specific change by a store technician.
+<h2> Flintstones </h2>
+<i>[https://coastalamusements.com/ Coastal Amusements]</i> would later use the cabinet and software as their base for the <i>Fred Flintstone's Memory Match</i> machine in 1994. Coincidentally, or due to relations between the companies, the Flintstone's game would appear on the 1997 <i>Studio C Console</i> for the left and right monitors. Oddly, the only footage of this shows the language in Chinese, whether due to a mismatched rom, or a specific change by a store technician.
 
 
-##Voices##
+<h2>Voices</h2>
 All characters are voiced in the game, commenting briefly on the player's actions. Chuck E. also reminds the player to take out their tickets at the end of the game. Scott Wilson, the voice of Chuck E. Cheese at the time, voices all male characters in the game, filling in Bob West's role for Jasper T. Jowls and Pasqually. Helen Henny is voiced by Karisa Mckinney, her current voice actress at the time.
 
 
-##ROMs##
+<h2>ROMs</h2>
 
-####Main CPU Program ROM#### 
+<h2>==Main CPU Program ROM</h2>== 
 
-*_prog0.104_ - Program 0
-*_prog1.103_ - Program 1
+*<i>prog0.104</i> - Program 0
+*<i>prog1.103</i> - Program 1
 
-####Audio CPU Program ROM#### 
+<h2>==Audio CPU Program ROM</h2>== 
 
-*_prog.102_
+*<i>prog.102</i>
 
-####Art ROMs#### 
+<h2>==Art ROMs</h2>== 
 
-*_art-rom.123_
-*_art-rom.127_
-*_art-rom.125_
+*<i>art-rom.123</i>
+*<i>art-rom.127</i>
+*<i>art-rom.125</i>
 
-####BSMT2000 Sample ROMs#### 
+<h2>==BSMT2000 Sample ROMs</h2>== 
 
-*_arom0_
-*_arom1_
-*_arom2_
-*_arom3_
+*<i>arom0</i>
+*<i>arom1</i>
+*<i>arom2</i>
+*<i>arom3</i>
 
-####Palette ROMs#### 
+<h2>==Palette ROMs</h2>== 
 
-*_0.144_
-*_0.145_
+*<i>0.144</i>
+*<i>0.145</i>
 
-##ROM Strings##
-All _arom_ ROMs contain a string leftover from the toolset used to create them.<pre>
+<h2>ROM Strings</h2>
+All <i>arom</i> ROMs contain a string leftover from the toolset used to create them.<pre>
 C:\SOUND\TOOLS\MAKEROM.EXE
 cheese.spc
-</pre>_prog.102_ contains system information<pre>MAD MAX Sound\Novelty Game Operating System
+</pre><i>prog.102</i> contains system information<pre>MAD MAX Sound\Novelty Game Operating System
 rev. 2.0
 2-18-92
 </pre>A set of strings can be found in the ROMs, which are mainly used in the debug menu. <pre>
@@ -236,14 +236,14 @@ Press test button to accept.
 Press center button to cancel.
 </pre>
 
-## Technical ##
+<h2> Technical </h2>
 The graphics hardware is capable of 8bpp RGB655 color from any one of 256 palettes in ROM. Palettes are selected per-image. Most, if not all blitter palette select writes appear to be from $00891e and $0089b8 which are in cases in a jumptable in the routine at $00881a. Tracing code execution back from the function which calls this ($0087b0) may lead to code which looks up images from an image table, which would be useful for automatic programmatic dumping of images. If there is no table, it would be a case of needing to observe every single image (or find the relevant code) to determine the proper palette to use. Most of the available palette space in the ROMs is unused.
 
 Audio is handled by a BSMT2000 DSP. Data in the audio ROMs is stored in signed 8-bit PCM format at a nominal sample rate of 12kHz.
-##Parts / Cabinet ##
+<h2>Parts / Cabinet </h2>
 
 
-## Owners / Locations ##
+<h2> Owners / Locations </h2>
 {| class='wikitable'
 !Location / Owner
 !Address

@@ -8,14 +8,14 @@ date = 2023-04-22T20:53:21Z
 contributors = ["ToadEatSock","The 64th Gamer"]
 gallery = []
 +++
-{{MerchItem|image=Mr. Munch 15” CST Plush Full shot.jpg|color=Purple, Yellow|label1=Mr. Munch Pizza Time Theatre, Inc|label2=Handcrafted By California Stuffed Toys Los Angeles, CA Contents: Synthetic Fibers and/or Shredded foam PA. 173 Made in Taiwan}}
 
-The **_Mr. Munch 15” CST Plush**_ was a handcrafted plush produced for Pizza Time Theatre Inc in the early 1980s.
 
-##Production##
+The <b><i>Mr. Munch 15” CST Plush</b></i> was a handcrafted plush produced for Pizza Time Theatre Inc in the early 1980s.
+
+<h2>Production</h2>
 California Stuffed Toys was the second manufacturer for Pizza Time Theatre plush items. This plush along with others in its set had a limited production time only lasting for about a year and have become quite scarce.
 
-###Set###
+<h2>=Set</h2>=
 This plush was released in a set that contained other characters and in other sizes including:
 
 *Chuck E. Cheese 9' CST Plush
@@ -32,11 +32,11 @@ Puppets of the 15' Plush also exist
 *Jasper T. Jowls CST Hand Puppet
 *Mr. Munch 9' CST Hand Puppet
 
-##Design##
+<h2>Design</h2>
 This plush uses a magenta fur base with orange fur detailing on his feet, chest and eyebrows. His hair uses a fuzzy yellow material that is easy to be manipulated. He has a rectangular body and legs that can be put in a sitting and standing position.  He has two stubby arms with thumbs. His head is round and has a set of felt teeth. 
 
 This plush's eyes have a complicated construction. His iris and pupils are made from the same plastic ball. The blue iris is hollowed out for the black pupil. These eyes give the illusion that his eyes are looking at you. Surrounding those plastic eyes is a piece of white felt to replicate the white in his eyes. A pink piece of felt is used for the eye lids. The plush is stuffed with synthetic fibers and shredded foam. 
 
-The plush's tag reads **Mr. Munch Pizza Time Theatre, Inc** The back of the tag reads as **Handcrafted By California Stuffed Toys Los Angeles, CA Contents: Synthetic Fibers and/or Shredded foam PA. 173 Made in Taiwan'._
+The plush's tag reads <b>Mr. Munch Pizza Time Theatre, Inc</b> The back of the tag reads as <i>'Handcrafted By California Stuffed Toys Los Angeles, CA Contents: Synthetic Fibers and/or Shredded foam PA. 173 Made in Taiwan'.</i>
 
 

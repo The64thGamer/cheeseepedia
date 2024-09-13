@@ -11,23 +11,23 @@ gallery = []
 {{Showtape | image = NoImage.jpg
 | date = September 21, 1981
 | labelname = 7 Shows Special 092181
-|showbizreel=y}}**_7 Shows Special**_ is a _Rock-afire Explosion_ showtape created in September of 1981, with no current info on what segments it contained.
+|showbizreel=y}}<b><i>7 Shows Special</b></i> is a <i>Rock-afire Explosion</i> showtape created in September of 1981, with no current info on what segments it contained.
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## ???
-# **Segment 2**
+# <b>Segment 2</b>
 ## ???
-# **Segment 3**
+# <b>Segment 3</b>
 ## ???
-# **Segment 4**
+# <b>Segment 4</b>
 ## ???
-# **Segment 5**
+# <b>Segment 5</b>
 ## ???
-# **Segment 6**
+# <b>Segment 6</b>
 ## ???
-# **Segment 7**
+# <b>Segment 7</b>
 ## ???
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

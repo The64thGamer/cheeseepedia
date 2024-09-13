@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-09-04T21:16:27Z
 
 [Article]
+pageThumbnailFile = "CEC Plaza Oeste Chile.jpg|Plaza Oeste's exterior in the 13th of January, 2011"
 contributors = ["HavinAParty","Showbiz Pizza International","CEC Tinley","Cheeseclassic","ThatBoiCydalan","Paskkkk"]
 gallery = []
 +++
-{{Generic|image=CEC Plaza Oeste Chile.jpg|desc=Plaza Oeste's exterior in the 13th of January, 2011}}
-**_Plaza Oeste, Chile**_ is a _Chuck E. Cheese's_ which opened on January 2, 2011, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) show. This store is set to close on September 30, 2024 due to its relocation.
 
-## History ##
+<b><i>Plaza Oeste, Chile</b></i> is a <i>Chuck E. Cheese's</i> which opened on January 2, 2011, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) show. This store is set to close on September 30, 2024 due to its relocation.
+
+<h2> History </h2>
 Plaza Oeste, opened on January 2nd, 2011, with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). This was the third Chuck E. Cheese's location that opened in Chile. The store layout was identical to most stores being opened around that time with the exception of their stage, being a 1-Stage that was formerly used in Mall Plaza Vespucio, a store that opened in 1996 and closed in 2000, the bots are also from the [Penfield / Rochester, NY (1614 Penfield Rd)]({{< ref "wiki/Penfield  Rochester, NY (1614 Penfield Rd).md" >}}) location, which closed on September 16, 1996.
 
 This was one of the last stores to host [Chuck E. Cheese's Memory Match]({{< ref "wiki/Chuck E Cheese's Memory Match.md" >}}) for a while before being removed. 
@@ -24,7 +25,7 @@ In December 2019, the location fixed its exterior including lights, paint and th
 
 In 2021, the store received 2.0 art and painted a couple of  purple walls white.
 
-## Stage ##
+<h2> Stage </h2>
 The store has a Unique 1-Stage, which has been operating since opening. Chuck E's shorts and Munch's piano front were missing when the store opened but were installed in the following month. The stage uses a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) backdrop but is missing Chuck E's Star, Wink, the Munch's Make-Believe Band sign, Pasqually's text on the wall, helicopter light/gemini and curtains. It also has custom bricks for Pasqually's brick wall and the planters. 
 
 Jasper sits on a real speaker while Pasqually uses a folding chair.
@@ -41,7 +42,7 @@ In 2017, the rest of the spotlights were removed leaving only the Live show floo
 
 In May of 2019, the Cyberstar stopped recognizing the signals because of the DVD player being replaced causing the show to be in random mode indefinitely at the time. In December of 2019 the show finally started to work but now the Cyberstar presents glitches such as applying the signals to the wrong character or having a broken random mode. 
 
-## Animatronics: ##
+<h2> Animatronics: </h2>
 {| class='wikitable'
 |+
 !Animatronic

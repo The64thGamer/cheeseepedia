@@ -5,40 +5,41 @@ tags = ["Arcade Games"]
 date = 2023-11-06T21:06:18Z
 
 [Article]
+pageThumbnailFile = "Skytube Pic.png|A typical Phase 3 style SkyTubes structure"
 contributors = ["BurgersNuggs445","EagleScout610","Pizza nostalgia","The 64th Gamer","CECBowlingGreen","Chouts2","CorrectorMan","ChuckfeldStan","Rexburg090","Snowbobsuperboi","Pasquallytheplumber","SuperCreamPiper2008"]
 gallery = ["Chuck E.'s ClubHouse.jpg|thumb|Chuck E.'s ClubHouse in the Sumter, SC location"]
 +++
-{{Generic|image=Skytube Pic.png|desc=A typical Phase 3 style SkyTubes structure}}
 
-The **_SkyTubes**_ are an attraction installed in Chuck E. Cheese's restaurants produced by Soft Play between 1994 and 2013. 
+
+The <b><i>SkyTubes</b></i> are an attraction installed in Chuck E. Cheese's restaurants produced by Soft Play between 1994 and 2013. 
 
 These are bright, multi-colored tubes that kids can crawl around in, with slides and formerly ball pits. The company made multiple redesigns and variants of the tubes until they stopped production in 2013, however the majority of SkyTubes installations would continue to entertain guests until 2020 when they were removed company wide amidst the Covid-19 pandemic.
-##History##
+<h2>History</h2>
 In the early 1990s [https://en.wikipedia.org/wiki/Discovery_Zone Discovery Zone] was posing a serious threat to Chuck E. Cheese's Pizza's market share in the family entertainment center marketplace. The chain was well-known for its elaborate colorful play structures designed and marketed for the 7-12 year old demographic that CEC had been neglecting up to this point. With this ever growing conflict, CEC began to install more tubes and slides into their Ball Crawls to directly compete with Discovery Zone.  
 
-### Creation ###
+<h2>= Creation </h2>=
 This competition between CEC and Discovery lead to a major rebrand in 1994, [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). Part of Phase 1 would completely revamp the original 'Ball Crawl' concept, upgrading the existing tubes that coincided with it to become the 'Sky Crawl', a more extreme approach to the existing concept. New play elements were added along with corresponding sound effects that could be triggered with IR sensors such as when a kid piloted a circular UFO or slid down the tube slide. During [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}), the Sky Crawl was renamed to 'SkyTubes', as the concept became more refined and finalized. The ball pits were reduced in size to small square pits as opposed to the large sprawling pits inherited from the Ball Crawls.
 
-### Iteration ###
+<h2>= Iteration </h2>=
 In 2000, The SkyTubes were redesigned once more as part of [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}). The tubes, which had been entirely suspended from the ceiling from their inception, were now supported by foam-padded support beams bolted to the floor. The abstract sphere and cube shaped vehicles were replaced/supported by foam-padded 'monkey cages' and white and yellow race cars adorned with various parody stickers of popular brands. The downsized ballpits were completely removed from SkyTube installations at this point, allowing them to truly come into their own
 
 When Chuck E. Cheese's began opening downsized small-town stores in 2003, they did not install any SkyTubes in these locations as their sprawling layouts would have taken too much space in these 6-8K square feet stores. Instead, Chuck E. Cheese's and Soft Play developed a new play structure tailor made for these smaller locations called 'Chuck E.'s Clubhouse'. These structures were similar to SkyTubes but had a more condensed layout and different play elements. Clubhouses had a more colorful and cartoony monkey cage and a train instead of a racecar. The cloudy-sky textured 'SkyTubes' letters were replaced with a fiberglass sign featuring Chuck E. Cheese on a BMX bike welcoming guests into his clubhouse.  
 
 Chuck E.'s Clubhouses were installed in every small-town location through 2006 when the small-town store project was discontinued. Full-size Chuck E. Cheese's locations would continue to receive the 2000 SkyTubes design, though these layouts would be slightly downsized over time. CEC would continue to install new SkyTubes layouts into new and remodeling locations until early 2013 when the company decided to discontinue new SkyTubes structures in favor of new play structures. 
 
-### Replacements ###
+<h2>= Replacements </h2>=
 Between 2013-2015, Chuck E. Cheese's began experimenting with new play structures to replace the SkyTubes in all of their locations. Select locations would either receive Chuck E.'s Fun House, [Chuck E.'s Laser Challenge]({{< ref "wiki/Chuck E's Laser Challenge.md" >}}) or Chuck E.'s Bumper Cars in addition to or in place of the SkyTubes. These play structures ultimately wouldn't see a company wide rollout, although locations that had them installed still operated them through the end of the 2010s. Throughout the decade, Chuck E. Cheese's would randomly remove certain SkyTubes structures for one reason or another, but the tubes remained actively supported by the parts department. 
 
-### Removal ###
+<h2>= Removal </h2>=
 On March 17th, 2020, Chuck E. Cheese temporarily closed all of their locations for games and dine-in due to the Covid-19 pandemic. This included the indefinite closure of all SkyTubes and the play structures built to replace them. When Chuck E. Cheese began reopening their stores in June, these play structures remained closed as they would be a high point of contact for germs and viruses to spread. 
 
 At the same time, Chuck E. Cheese began socially distancing their games to ensure guest safety, though the lack of space due to infrastructure such as these play structures resulted in games being moved to awkward spots such as in the showroom. To combat this and not knowing when they would be safe to operate again, Chuck E. Cheese made the executive decision to remove all play elements and structures in their corporate locations, including the SkyTubes, to better socially distance the games in their restaurant. 
 
 All remaining structures in the contiguous United States were destroyed and removed in mid-October 2020. As of 2023, select international franchises still have operational SkyTubes in their stores as CEC's decision did not affect their franchise locations.
 
-## Pieces ##
+<h2> Pieces </h2>
 
-### Curves ###
+<h2>= Curves </h2>=
 
 * Curve, Single Window (Yellow, Blue)
 * Curve, Triple Window (Blue, Pink, Red)
@@ -47,7 +48,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Sharp Curve, Double Slit Windows (Blue, Pink)
 * Corner, Large Windows (Green)
 
-### Straight Tubes ###
+<h2>= Straight Tubes </h2>=
 
 * Tube, Large Window (Green, Yellow)
 * Tube, Double Window (Blue, Green, Purple)
@@ -55,7 +56,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Ball Tube (Pink)
 * Geometric Window Tube (Yellow)
 
-### T-Junctions ###
+<h2>= T-Junctions </h2>=
 
 * T Junction, Double Window (Green, Pink, Yellow, Turquoise, Blue, Purple)
 * T Junction, Large Window (Blue)
@@ -64,7 +65,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Short T Junction, (Green, Pink, Yellow, Purple, Blue)
 * Half Circle T Junction, (Blue, Green, Pink)
 
-### Elevation ###
+<h2>= Elevation </h2>=
 
 * Long Slope, No Window (Purple, Turquoise, Green, Yellow)
 * Short Slope, Single Window (Green, Yellow, Pink)
@@ -78,7 +79,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Climbing T-Junction (Pink, Yellow)
 * Vertical Climbing Tube (Turquoise)
 
-### End Pieces ###
+<h2>= End Pieces </h2>=
 
 * Window End-Piece (Yellow, Pink, Green)
 * Race Car End-Piece
@@ -92,12 +93,12 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Wooden Cage End-Piece (Purple & Green)
 * Large Windowed Ball End-Piece (Purple)
 
-### Square End Pieces ###
+<h2>= Square End Pieces </h2>=
 
 * Tapered Window Square End-Piece (Green, Black)
 * Geometric Window Square End Piece (Yellow Turquoise)
 
-### Decorations & Other ###
+<h2>= Decorations & Other </h2>=
 
 * Train Wheels
 * Structural Support Cone (Purple, Blue)
@@ -106,7 +107,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Avenger Climbing Structure Cover
 * Coach Climbing Structure Cover
 
-### Signage ###
+<h2>= Signage </h2>=
 
 * 'Sky Crawl' Sign
 * 'Skytubes' Logo
@@ -115,7 +116,7 @@ All remaining structures in the contiguous United States were destroyed and remo
 * Cloud with Chuck E. inside (Prototype)
 * 'Chuck E. Cheese's Playhouse' Marquee (Prototype)
 
-## Known Installations ##
+<h2> Known Installations </h2>
 All removed unless noted
 {| class='wikitable'
 |+

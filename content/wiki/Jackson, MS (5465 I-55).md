@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-01-02T02:54:17Z
 
 [Article]
+pageThumbnailFile = "desc=The store's exterior on March 11, 2005 (PC: Unknown)|image=Jackson MS 2005.jpg"
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
 gallery = []
 +++
-{{Generic|desc=The store's exterior on March 11, 2005 (PC: Unknown)|image=Jackson MS 2005.jpg}}
-**_5465 I-55, Store #213**_ was a _Pizza Time Theatre_ that opened in August 1982 as part of the Melvin franchise. This location opened as the first Mississippi Chuck E. Cheese's and would later be relocated to [6352 Ridgewood Court Rd]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) in June 2009.
 
-##Stages##
+<b><i>5465 I-55, Store #213</b></i> was a <i>Pizza Time Theatre</i> that opened in August 1982 as part of the Melvin franchise. This location opened as the first Mississippi Chuck E. Cheese's and would later be relocated to [6352 Ridgewood Court Rd]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}}) in June 2009.
+
+<h2>Stages</h2>
 This location debuted with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), one of two in the state, the other being in [Biloxi, MS.]({{< ref "wiki/Biloxi, MS (4550 W Beach Blvd).md" >}}) This location also had the Beagles as a lounge act when they were a Pizza Time Theatre, it is unknown when this act was removed.
 
 Sometime around 1990, the stage was retrofitted with the Chuck E.'s House Facade (C-Stage), and throughout the 1990s, most of the cosmetics would be replaced with updated variants. This would also be one of the final locations to have the façade installation as CEC pushed Studio C (1997) (Studio C) to new stores in the late 1990s.
 
 In around March 1999, the former Balcony Stage would be demolished, and Studio C would be installed in an empty wall next to the former stage area. In 1999, their C-Stage was replaced by Studio C (1997) (Studio C) which remained at the store until relocation. The Chuck E. Cheese animatronic on this Studio C kept its original Late-Night inspired outfit until its relocation in June 2009.
-## History##
+<h2> History</h2>
 Besides the opening of the location, very little is known about this location as a Pizza Time Theatre, other than the fact that before 1991 the location would remodel for the first time as part of unifying Pizza Time Theatre and Showbiz Pizza Place.<ref>1986 SPT Remodel Program</ref><ref>[Concept Unification]({{< ref "wiki/Concept Unification.md" >}})</ref> The location would remodel for the second and final time in early 1999, most likely receiving [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) in the process. 
 
 In the 2000s the store would receive its final games package, [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}). This would intergrade the new toddler zone near the Skytubes, which would be made smaller during this package. 
@@ -26,7 +27,7 @@ In June 2009 this location would relocate to [6352 Ridgewood Court Rd]({{< ref "
 
 Around March 2023, the store's red doors have been replaced with automatic sliding doors and the awning above the entrance has been removed. 
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 Identified Machines
 
 [Chuck E. Cheese's Super Shot]({{< ref "wiki/Chuck E Cheese's Super Shot.md" >}})
@@ -51,7 +52,7 @@ Buzzy Buzzy Bee
 
 Ticket Troopers
 
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -74,7 +75,7 @@ Ticket Troopers
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -153,7 +154,7 @@ Ticket Troopers
 |Relocated to [6352 Ridgewood Court Rd]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}})
 |}
 
-##Walkarounds##
+<h2>Walkarounds</h2>
 {| class='wikitable'
 ! Head
 ! Outfits & Suits
@@ -176,5 +177,5 @@ Ticket Troopers
 |Attire at [6352 Ridgewood Court Rd]({{< ref "wiki/Jackson, MS (6352 Ridgewood Court Rd).md" >}})
 |}
 
-##References##
+<h2>References</h2>
 <references />

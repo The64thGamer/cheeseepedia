@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2023-11-09T14:52:28Z
 
 [Article]
+pageThumbnailFile = "Exterior, 2023.jpg|Exterior, June 2023"
 contributors = ["Snowbobsuperboi","The 64th Gamer","Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Exterior, 2023.jpg|desc=Exterior, June 2023}}
-**_Fontana, CA (17069 Valley Blvd), Store #445**_ was a _Pizza Time Theatre_ that opened in November 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). 
 
-##Stages##
+<b><i>Fontana, CA (17069 Valley Blvd), Store #445</b></i> was a <i>Pizza Time Theatre</i> that opened in November 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and is still open to this day with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). 
+
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -44,10 +45,10 @@ Last PTT in California.
 |Still in Use
 |One of many installed in California, 2021 Model.
 |}
-## History ##
+<h2> History </h2>
 Fontana opened in November 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), which was to the right of the entrance. In 1988/89, they got the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), retrofitting the Balcony Stage to [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). Later in 1994/95, they received the SPT 1992/1993 Remodel Program, and got a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Then in late 2006, they received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), relocated the showroom, and got a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}). In April 2023, they received the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) removing the Studio C for a Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}). As of October 2023, Fontana remains like this.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

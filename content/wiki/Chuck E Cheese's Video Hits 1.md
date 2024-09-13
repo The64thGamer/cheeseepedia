@@ -42,72 +42,72 @@ Brent Gray|labelname3=CHUCK E. CHEESE'S® VIDEO HITS
 DVD VIDEO
 Produced by Dept 18 Productions}}
 
-**_Chuck E. Cheese's Video Hits #1**_ was a DVD given to CEC Corporate employees in September 2003 consisting of various showtape segments from the previous few years.
+<b><i>Chuck E. Cheese's Video Hits #1</b></i> was a DVD given to CEC Corporate employees in September 2003 consisting of various showtape segments from the previous few years.
 
 The DVD itself is dated September 8, 2003. A second Video Hits DVD was never produced.
 
-## Video List ##
+<h2> Video List </h2>
 The main playlist features songs from September 2000 to September 2001. The songs are all in stereo, unlike their showtape counterparts.
 {| class='wikitable'
 !Song
 !Showtape Origin
 |-
-|_Party Place_
+|<i>Party Place</i>
 | [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-| _Chuck E._
+| <i>Chuck E.</i>
 |[September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}})
 |-
-|_Paper or Plastic_
+|<i>Paper or Plastic</i>
 |[September 2001 Show]({{< ref "wiki/September 2001 Show.md" >}})
 |-
-|_Be My Friend_
+|<i>Be My Friend</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-| _Humpty Dumpty_
+| <i>Humpty Dumpty</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-|_Combo #5_
+|<i>Combo #5</i>
 |[January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}}) 
 |-
-|_Drinkin' a Coca-Cola_
+|<i>Drinkin' a Coca-Cola</i>
 |[September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}})
 |-
-|_Larger Than Life_
+|<i>Larger Than Life</i>
 |[January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}})
 |-
-|_Dinner_
+|<i>Dinner</i>
 |January 2002
 |-
-|_No Other Place_
+|<i>No Other Place</i>
 |[September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}})
 |}
-'Scratch Tracks' featured rough cuts of songs from the [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}) showtape sung by _Jeremy Blaido_, the voice of Jasper T. Jowls at the time.
+'Scratch Tracks' featured rough cuts of songs from the [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}) showtape sung by <i>Jeremy Blaido</i>, the voice of Jasper T. Jowls at the time.
 {| class='wikitable'
 !Song
 !Showtape Origin
 |-
-|_Humpty Dumpty_
+|<i>Humpty Dumpty</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-|_3 Little Investors_
+|<i>3 Little Investors</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-|_Little Red Riding Hood_
+|<i>Little Red Riding Hood</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |-
-|_Row Your Boat_
+|<i>Row Your Boat</i>
 |[Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})
 |}
-'Bonus Videos' featured two videos. _Sing-A-Long Guys_ used uncut footage different from the one seen in the showtape, and _Survival_ was not featured on any showtape, presumed to be a scrapped intermission.
+'Bonus Videos' featured two videos. <i>Sing-A-Long Guys</i> used uncut footage different from the one seen in the showtape, and <i>Survival</i> was not featured on any showtape, presumed to be a scrapped intermission.
 {| class='wikitable'
 !Song
 !Showtape Origin
 |-
-|_Sing-A-Long Guys_
+|<i>Sing-A-Long Guys</i>
 |[September 2001 Show]({{< ref "wiki/September 2001 Show.md" >}})
 |-
-|_Survival_
+|<i>Survival</i>
 |No Showtape Origin
 |}
 

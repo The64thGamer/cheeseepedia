@@ -18,50 +18,50 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 7 2016**_ released October 3rd, 2016 featuring four songs
+<b><i>Chuck E. Cheese's Show 7 2016</b></i> released October 3rd, 2016 featuring four songs
 
 This was created to play from October 3rd, 2016 - October 31st, 2016. This show features four songs and a new variant to a live show!
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## CEC Sketch - 'Happy Halloween'
 ## 5 Seconds of Summer - 'Girls Talk Boys'
 ## Floogals - 'Halloween'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese, Whatnots - 'Speak Up Stop Bullying' (Billy & The Bully)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Rachel Platten - 'Fight Song'
 ##  Spacepop - 'Unstoppable'
 ##  Lukas Graham - 'Mama Said'
 ##  Terrific Trucks - 'Clean Up'
 ##  CEC Promo - 'Chucktober'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Costume Party'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  China Anne McClain - 'Calling All The Monsters'
 ## CEC Promo - 'Buffet'
 ##  CEC Sketch - 'Counting Sheep'
 ##  OneRepublic - 'Kids'
 ##  CEC Promo - 'Mac Cheesy'
 ##  CEC Sketch - 'Carl Clean'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. and Friends - 'Most Epic Mouse'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Take the Pledge Stop Bullying
 ##  Galantis - 'No Money'
 ##  Nina's World - 'Bully'
 ## Chucktober TV Spot
 ## Casper BabyPants - 'Creatures Under My Bed'
 ##  Chuck E. Goes to Washington D.C.
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Munch - 'Trick or Treat'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Fifth Harmony - 'I'm in Love with a Monster'
 ## Josh & The Jamtones - 'Tailfeather (Live at CEC)'
 ##  CEC Promo - 'New Cakes/Big Brothers'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 *  Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday Show (3stage, Cyberamic, Studio C,Weigl)
@@ -73,14 +73,14 @@ This was created to play from October 3rd, 2016 - October 31st, 2016. This show 
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head Shoulders Knees Toes (Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=UeatruKr0kY 'Speak Up Stop Bullying' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * Jasper got a brand new puppet and Pasqually got a redesigned puppet. 
 * The Birthday show was modified with this show. The announcer for the Birthday show was replaced with the 2015 Birthday announcer footage and the final minute was reused completely from Birthday 2015 with the Birthday 2016 Countdown being added. The 'Party Promise' was removed and replaced with time allowed for employees to list the names and ages of the birthday guests and lastly all footage using the puppets were reshot.
 * This show featured a brand new generic countdown featuring Donovan in front of the Green Room set.
-* 'Billy & The Bully' has a unique title card saying **Chuck E. Cheese's Presents** which is only seen on Studio C/Weigl versions. It also is the first show to introduce the [Whatnots]({{< ref "wiki/Whatnots.md" >}}), replacing the store bought puppets like Hard Hat Hank.
+* 'Billy & The Bully' has a unique title card saying <b>Chuck E. Cheese's Presents</b> which is only seen on Studio C/Weigl versions. It also is the first show to introduce the [Whatnots]({{< ref "wiki/Whatnots.md" >}}), replacing the store bought puppets like Hard Hat Hank.

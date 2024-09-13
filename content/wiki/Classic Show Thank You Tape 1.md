@@ -13,24 +13,24 @@ gallery = []
 |date=1990's
 |showbizreel=y}}
 
-**_Classic Show Thank You Tape 1**_ is a standard _Thank You_ tape provided for _Rock-afire Explosion_ shows in the 90's.
+<b><i>Classic Show Thank You Tape 1</b></i> is a standard <i>Thank You</i> tape provided for <i>Rock-afire Explosion</i> shows in the 90's.
 
-##Show List:##
-#**Segment 1**
+<h2>Show List:</h2>
+#<b>Segment 1</b>
 ##Herman The Worm
-#**Segment 2**
+#<b>Segment 2</b>
 ##Pierce-a-phobia
-#**Segment 3**
+#<b>Segment 3</b>
 ##Gatorland 1
-#**Segment 4**
+#<b>Segment 4</b>
 ##Gatorland 2
-#**Segment 5**
+#<b>Segment 5</b>
 ##Gatorland 3
-#**Segment 6**
+#<b>Segment 6</b>
 ##Name Change
-#**Segment 7**
+#<b>Segment 7</b>
 ##Think For Yourself
-#**Segment 8**
+#<b>Segment 8</b>
 ##Wipies
-#**Segment 9**
+#<b>Segment 9</b>
 ##Power Blew

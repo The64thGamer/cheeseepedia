@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-03-27T16:58:02Z
 
 [Article]
+pageThumbnailFile = "Flagstaffptt.png|Boardman's Exterior in the Mid-Late 80s."
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{{Stub}} {{Generic|image=Flagstaffptt.png|desc=Boardman's Exterior in the Mid-Late 80s.}}
-**_813 Boardman Poland Rd**_ is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
+ 
+<b><i>813 Boardman Poland Rd</b></i> is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and was purchased in December 1991 with a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). 
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -32,7 +33,7 @@ TODO
 |One of 5 installed in Ohio. 
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

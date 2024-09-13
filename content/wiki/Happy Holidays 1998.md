@@ -15,49 +15,49 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |cusvhs = y
 }}
 
-**_Happy Holidays 1998**_ was a Christmas themed show that released in December of 1998 at Chuck E. Cheese's. The show reused segments from CEC Xmas 1991 Show  ( Holiday 1991) and Holiday Special 1992  ( Holiday 1992)._
+<b><i>Happy Holidays 1998</b></i> was a Christmas themed show that released in December of 1998 at Chuck E. Cheese's. The show reused segments from CEC Xmas 1991 Show  ( Holiday 1991) and Holiday Special 1992  ( Holiday 1992).''
 
-##Show List##
-#**** **Intermission 1**
+<h2>Show List</h2>
+#<b></b> <b>Intermission 1</b>
 ##4 Minute Countdown
 ###Gloria Estefan: 'This Christmas'
-#**Segment 1**
+#<b>Segment 1</b>
 ##'Here We Come A Caroling'
 ##'Silver Bells'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##4 Minute Countdown
 ###Dave Valentin: 'Santa Claus is Coming To Town'
 ###Coke Spot
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Jingle Bells'
 ##'Up On The Housetop'
 ##'Holiday Cheer'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##4 Minute Countdown
 ###David Benoit: 'Carol of The Bells'
-#**Segment 3**
+#<b>Segment 3</b>
 ##'Share The Joy and The Spirit of The Season'
 ##'Rockin' Around The Christmas Tree'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##5 Minute Countdown
 ###Natalie Cole: 'The Christmas Song'
 ###Coke Spot
-#**Segment 4**
+#<b>Segment 4</b>
 ##'Jolly Old Saint Nicholas'
 ##'On Christmas Day'
 ##'Christmas Countdown'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##4 Minute Countdown
 ###Daryl Steurmer: 'Little Drummer Boy'
-#**Segment 5**
+#<b>Segment 5</b>
 ##'Deck The Halls'
 ##'O' Christmas Tree'
 ##'We Wish You A Merry Christmas'
 ##'Share The Joy and The Spirit of The Season'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Tom Scott: 'Have Yourself a Merry Little Christmas'
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 *This show was not released on Studio C. [September 1998]({{< ref "wiki/September 1998.md" >}}) would continue to play through the holidays.
 *A 'Happy Holidays 1998' logo was added to all of the segments.

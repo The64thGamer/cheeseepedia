@@ -16,94 +16,94 @@ gallery = ["New Graphic.png"]
 |cusvhs = y
 }}
 
-**Chuck E.'s Jukebox Jam Show**_ was a compilation show that released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various 1992 - 1995 shows.
+<b>Chuck E.'s Jukebox Jam Show</b>'' was a compilation show that released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various 1992 - 1995 shows.
 
-##Show List ##
-#**Segment 1**
+<h2>Show List </h2>
+#<b>Segment 1</b>
 ##'Party Place'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Charlie Rockit - 'Baseball'
 ##Comedy Club
 ##Did You Know?
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Baseball Diamond Dreams'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##The Ballgame
 ##CEC Sports
 ##Comedy Club
-#**Segment 3**
+#<b>Segment 3</b>
 ##'Take Me Out To The Ballgame'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Tricks For Treats
 ##Comedy Club
-##**** Fluke Trailer
+##<b></b> Fluke Trailer
 ##Munch and The Picnic Basket
 ##Comedy Club
-#**Segment 4**
+#<b>Segment 4</b>
 ##'The Midnight Special'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Charlie Rockit - 'Waterskiing'
 ##Chuck E.'s Big Bowling Date
 ##Comedy Club
-#**Segment 5**
+#<b>Segment 5</b>
 ##'Ball Crawl'
 ##'Hand Jive
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Spring Cleaning
 ##Trivia Intro
 ##Trivia
 ##Trivia
-#**Segment 6**
+#<b>Segment 6</b>
 ##'Peter Pepperoni'
 ##Chuck E. Cheese Video Olympics
 ##'Go Chuck E. Go'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Comedy Club
 ##Charlie Rockit - 'Spring Cleaning'
 ##Laugh Tracks
-#**Segment 7**
+#<b>Segment 7</b>
 ##'I Won't Give Up'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Charlie Rockit - 'Picnic'
 ##Jasper Learns To Dance
 ##Munch Learns To Dance
-#**Segment 8**
+#<b>Segment 8</b>
 ##'Rock It Up'
-#**Intermission 8**
+#<b>Intermission 8</b>
 ##the Teacher's Pest
 ##Pasqually Learns To Dance
 ##Trivia
 ##Trivia
-#**Segment 9**
+#<b>Segment 9</b>
 ##'Freeze Frame'
-#**Intermission 9**
+#<b>Intermission 9</b>
 ##Charlie Rockit - 'Cooler Downer'
 ##A Game of Horseshoes
 ##Did You Know?
-#**Segment 10**
+#<b>Segment 10</b>
 ##'The Clock Tells Me (Time For Chuck E.'s Place)'
-#**Intermission 10**
+#<b>Intermission 10</b>
 ##Rock It With Charlie - 'UFP'
 ##Trivia
 ##Trivia
 ##A Day At The Movies
-#**Segment 11**
+#<b>Segment 11</b>
 ##'Train Ride'
-#**Intermission 11**
+#<b>Intermission 11</b>
 ##Rock It With Charlie - 'Fan Mail'
 ##Trivia
 ##The Virtuoso
-#**Segment 12**
+#<b>Segment 12</b>
 ##'Vamos A Bailar'
-#**Intermission 12**
+#<b>Intermission 12</b>
 ##Trivia
 ##Larry The Technician - 'Technical Difficulties'
 ##Charlie Rockit - 'Charlie Chorebot'
 ##Larry The Technician - 'Munch's Hat'
 ##Trivia
-#**Segment 13**
+#<b>Segment 13</b>
 ##'Party Place (Encore)'
-##Trivia:##
+<h2>Trivia:</h2>
 *All of the segments include newly recorded intros and outros as well as the Jukebox Jam logo.
 *Munch, Jasper, and Pasqually are all voiced by Duncan Brannan for this show.
 *'Freeze Frame' has different footage in this show which is reused from July 1994.

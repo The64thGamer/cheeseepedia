@@ -16,39 +16,39 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |r1293 = y
 |cusvhs = y}}
 
-**_Chuck E's Holiday Party 2001**_ was a rerelease of [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}) for the 2001 holiday season. It replaces the 'Book Your Party Online' promo with a new intermission in the Existing Stage version.
+<b><i>Chuck E's Holiday Party 2001</b></i> was a rerelease of [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}) for the 2001 holiday season. It replaces the 'Book Your Party Online' promo with a new intermission in the Existing Stage version.
 
 
-##Show List:##
-#**Segment 1**
+<h2>Show List:</h2>
+#<b>Segment 1</b>
 ##'Holly Jolly Christmas'
 ##'White Christmas'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Chuck E.'s Ski Trip
 ##The Durby
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Mele Kalikimaka'
 ##'Feliz Navidad'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Veggietales - 'Oh Santa!'
 ##Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
-#**Segment 3**
+#<b>Segment 3</b>
 ##'12 Days of Christmas'
 ##'Dreidel Song'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Baking With Betty - 'Potato Latkes'
 ##Super Jasper - 'Canine Snowball'
-#**Segment 4**
+#<b>Segment 4</b>
 ##'Big Band Santa'
 ##'Holiday Medley'
 ###'Jingle Bells'
 ###'Deck The Halls'
 ###'We Wish You A Merry Christmas'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Up On The Housetop
 ##  Shirt Painting (Existing Stages only)
-##Lives:##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2>Lives:</h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Chuck E. Says
 * Chuck E. Shuffle (New Footage)
 * Chuck E. March 01
@@ -61,4 +61,4 @@ gallery = ["New Graphic.png","New Graphic.png"]
 * [Patriotic Live 00]({{< ref "wiki/Patriotic Live 00.md" >}})
 * If You're Happy & You Know It
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

@@ -10,19 +10,19 @@ gallery = []
 +++
 Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for many years. I am 16 years old and I am male.
 
-##Favorite Animatronic Shows##
+<h2>Favorite Animatronic Shows</h2>
 
 *Munch's Make Believe Band
 *The Rock-Afire Explosion (I sort of like it)
 
-##Favorite 'Era' Of CEC##
+<h2>Favorite 'Era' Of CEC</h2>
 
 #Rockstar
 # Avenger
 #Tux
 #PTT
 
-##Favorite Stage##
+<h2>Favorite Stage</h2>
 
 # [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}})
 #[Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}})
@@ -33,7 +33,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 #[1-Stage]({{< ref "wiki/1-Stage.md" >}}) (La Mesa's stage condition was bad so thats why so low)
 #Chuck E. Live Stage (Dance Floor) (Dance Floor) (I like the 2021 Models better, the older ones suck)
 
-## All Chuck E. Cheese Stages I Have Seen And Their Totals##
+<h2> All Chuck E. Cheese Stages I Have Seen And Their Totals</h2>
 
 * [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) (2)
 *[1-Stage]({{< ref "wiki/1-Stage.md" >}}) (1)
@@ -44,7 +44,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 * [Circles Of Light]({{< ref "wiki/Circles of Light.md" >}}) (3, one being a 16M COL))
 *Chuck E. Live Stage (Dance Floor) (Dance Floor) (5)
 
-## Locations I Have Been To And Their Current Stage ##
+<h2> Locations I Have Been To And Their Current Stage </h2>
 I have been to 17 different Chuck E. Cheese locations, 11 are currently 2.0 and 5 are not 2.0 💀
 
 Wisconsin:
@@ -83,7 +83,7 @@ California:
 *[San Diego (College Ave.)]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), Circles Of Light, 16m (Went on June 19, 2022)
 *[Foothill Ranch]({{< ref "wiki/Foothill Ranch, CA (26562 Towne Centre Dr).md" >}}), Dance Floor (Went in June 2022)
 
-##Things I Like About CEC ##
+<h2>Things I Like About CEC </h2>
 
 *The animatronics
 *The games
@@ -91,20 +91,20 @@ California:
 *2.0 (The newer ones, the older ones are garbage)
 *Dance Floor (I like the designs on the 2021 Models
 
-##Things I Like ##
+<h2>Things I Like </h2>
 
 *Going to Chuck E. Cheese
 *Playing video games
 *Music
 
-##Things I Don't Like##
+<h2>Things I Don't Like</h2>
 
 *School/homework
 * Waking up early
 *The winter season
 *All the CEC's near me being 2.0
 
-##Facts About Me##
+<h2>Facts About Me</h2>
 
 * My birthday is on September 24
 *I was born in California, but I only lived there when I was a baby

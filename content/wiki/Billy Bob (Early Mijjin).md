@@ -8,17 +8,17 @@ date = 2024-02-22T17:00:03Z
 contributors = ["GallaRBX2","The 64th Gamer","Newbie editor"]
 gallery = []
 +++
-{{Animatronic|image=Billy Bob Earlty.png|releasedate=1992|finalrelease=1992|manufacturer=Creative Engineering|unitsProduced=1}}
 
-The **_Billy Bob Mijjin**_ was an animatronic prototype produced by _Creative Engineering Inc._ for the Mijjins show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref>
 
-##History##
+The <b><i>Billy Bob Mijjin</b></i> was an animatronic prototype produced by <i>Creative Engineering Inc.</i> for the Mijjins show in 1992 <ref>https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</ref>
+
+<h2>History</h2>
 The character was produced for the Mijjins show in 1992. Only one bot is known to have been made. 
 
-##Design##
+<h2>Design</h2>
 This bot is a Prototype Mijjin mech, the mech has blue eye pieces. This mech has the flippers instead of hands. The bot is the Billy Bob Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.  
 
-##Movements##
+<h2>Movements</h2>
 Official bitchart or drawer is unknown. Eyes and eyelids are controlled by servos.
 {| class='wikitable'
 |+
@@ -80,5 +80,5 @@ Official bitchart or drawer is unknown. Eyes and eyelids are controlled by servo
 
 
 
-##References##
+<h2>References</h2>
 <references />

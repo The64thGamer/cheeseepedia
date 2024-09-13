@@ -8,14 +8,14 @@ date = 2024-03-15T15:41:08Z
 contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","66.250.190.24","Tux Chuck"]
 gallery = []
 +++
-**_1273 Lombardi Access Rd, Store #319**_ was a Showbiz Pizza Place that opened on October 28, 1982, as a corporate store with a Rock-afire Explosion, which is still open to this day.
+<b><i>1273 Lombardi Access Rd, Store #319</b></i> was a Showbiz Pizza Place that opened on October 28, 1982, as a corporate store with a Rock-afire Explosion, which is still open to this day.
 
 This location received Concept Unification somewhere in 1991, then received one of the first Studio C Beta, 32m's in the Fall of 2000 along with [Birmingham, AL (500 Old Town Rd)]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}), [Oceanside, CA (2481 Vista Way)]({{< ref "wiki/Oceanside, CA (2481 Vista Way).md" >}}), [Clearwater, FL (25921 US Hwy 19)]({{< ref "wiki/Clearwater, FL (25921 US Hwy 19).md" >}}), & [Overland Park, KS (10510 Metcalf Lane)]({{< ref "wiki/Overland Park, KS (10510 Metcalf Lane).md" >}}) then received 2.0 in September 2021.
 
-## History ##
+<h2> History </h2>
 Green Bay opened on October 28th, 1982 as the fourth Showbiz Pizza Place in Wisconsin, after Madison which opened 3 months prior which is July 7th & Milwaukee (Good Hope Rd & S 27th St, both opened a year prior in June 17th and August 27th, 1981, respectively) and as a corporate-owned store. Green Bay originally featured the Rock-afire Explosion, as all other Showbiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. In the mid 1990s, Green Bay received a minor remodel removing older CU decor for the Record Posters and Colored Chase Lights. In the year of Fall 2000, they would receive the Phase 3 remodel replacing the 3-Stage with a Studio C Beta, 32m, removing older decor for newer decor, and adding SkyTubes. Green Bay would receive the 2005 remodel in 2008-2009 removing older decor for newer decor, and removed the Showroom Walls. The Toddler Zone was also removed during this remodel. Green Bay would remain like this until September 2021, when they would receive the 2.0 remodel, this involved removing the Studio C Beta, 32m stage and replacing it with a Chuck E. Live Stage (Dance Floor) (Dance Floor + Video Wall). The store's Grand Reopening was on November 10th, 2021<ref>https://www.wearegreenbay.com/news/local-news/ne-wisconsins-only-chuck-e-cheese-to-reopen-after-getting-remodeled/</ref>. As of March 2023, Green Bay still has the 2.0 remodel and Dance Floor + Video Wall.
 
-## Stages ##
+<h2> Stages </h2>
 Originally, Green Bay featured a Rock-afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. 
 
 Green Bay would have the 3-Stage until the Fall of 2000, when they would receive one of the first Studio C Betas (along with [Birmingham, AL (500 Old Town Rd)]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}})).
@@ -55,7 +55,7 @@ As of March 2023, Green Bay still has the 2.0 Remodel and Dance Floor + Video Wa
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -122,7 +122,7 @@ As of March 2023, Green Bay still has the 2.0 Remodel and Dance Floor + Video Wa
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -138,10 +138,10 @@ As of March 2023, Green Bay still has the 2.0 Remodel and Dance Floor + Video Wa
 |Filmed in 1998 and 1999
 |}
 
-## References ##
+<h2> References </h2>
 <references />
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Green Bay was the 4th ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)]({{< ref "wiki/Milwaukee, WI (7401 Good Hope Rd).md" >}}) (Opened June 17, 1981), Milwaukee, WI (4595 S 27th St) (Opened August 27, 1981), & [Madison, WI (438 Grand Canyon Dr)]({{< ref "wiki/Madison, WI (438 Grand Canyon Dr).md" >}}) (Opened July 7, 1982).
 * Green Bay was one of three ShowBiz locations in Wisconsin to undergo Concept Unification (The other two being Madison & [La Crosse]({{< ref "wiki/La Crosse, WI (4444 State Rd).md" >}})) as Milwaukee, WI (7401 Good Hope Rd) replaced their Rock-afire with a Cyberamics Rocker Stage (Rocker Stage) in June 1988 (Their show would get Concept Unification when the show was installed at [Raleigh]({{< ref "wiki/Raleigh, NC (3501-131 Capital Blvd).md" >}})) and the store would eventually close sometime in 1995 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Milwaukee, WI (4595 S 27th St) & [Appleton]({{< ref "wiki/Appleton, WI (2424 W College Ave).md" >}}) on the other hand were closed by 1986 and never converted into Chuck E. Cheese.

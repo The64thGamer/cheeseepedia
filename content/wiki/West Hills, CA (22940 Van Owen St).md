@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-07-28T23:03:40Z
 
 [Article]
+pageThumbnailFile = "West Hills Exterior.jpg|West Hill's Exterior in 2019. (PC: Google Maps)"
 contributors = ["ChuckECool","Carl525","216.125.34.66","Cheeseclassic","Stripes","ThatBoiCydalan","Estsproduction","CoolerDude","CEC1988","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=West Hills Exterior.jpg|desc=West Hill's Exterior in 2019. (PC: Google Maps)}}
-**_22940 Van Owen St, Store #461**_ is a Chuck E. Cheese that opened on June 23, 1992, as a corporate location with a Road Stage which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel)
+
+<b><i>22940 Van Owen St, Store #461</b></i> is a Chuck E. Cheese that opened on June 23, 1992, as a corporate location with a Road Stage which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel)
 
 It is located in the Fallbrook Center Shopping Center.
 
-##History##
+<h2>History</h2>
 West Hills opened on June 23rd, 1992 as a corporate-owned location. West Hills opened with the 1988 Remodel including the CU decor, the ball pit, the Blue and White awnings above the salad bar, the checkers around and outside the store, and the Road Stage. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor, the Blue and White awnings, some checkers around the store, and the removal of the ball pit for SkyTubes. West Hills remained like this until in 2006, when they received the [2005 Remodel]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, & adding purple walls. West Hills still remains like this. On February 12, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Remodel), removing the Road Stage on the same day, which is how the location currently stands as of today.
-##Stages##
+<h2>Stages</h2>
 Like all Road Stages at the time, Chuck wore his Tuxedo & Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. Up and Down curtains were later removed.
 
 On February 12, 2024 West Hills would remove its Road Stage in favor of its 2.0 Remodel
@@ -32,7 +33,7 @@ On February 12, 2024 West Hills would remove its Road Stage in favor of its 2.0 
 |February 2024
 |Still in use. 
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -63,7 +64,7 @@ On February 12, 2024 West Hills would remove its Road Stage in favor of its 2.0 
 |Destroyed
 |}
 
-##Videos##
+<h2>Videos</h2>
 
 {| class='wikitable'
 !Link

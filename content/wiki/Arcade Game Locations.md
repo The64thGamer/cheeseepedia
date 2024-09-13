@@ -8,7 +8,7 @@ date = 2022-11-29T21:50:30Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Pizza Time Theatre ##
+<h2> Pizza Time Theatre </h2>
 {| class='wikitable'
 !Cabinet
 !Location / Owner
@@ -51,7 +51,7 @@ gallery = []
 |
 |}
 
-##Showbiz Pizza Place##
+<h2>Showbiz Pizza Place</h2>
 {| class='wikitable'
 !Cabinet
 !Location / Owner
@@ -74,7 +74,7 @@ gallery = []
 |
 |}
 
-##Chuck E Cheese's##
+<h2>Chuck E Cheese's</h2>
 {| class='wikitable'
 !Cabinet
 !Location / Owner

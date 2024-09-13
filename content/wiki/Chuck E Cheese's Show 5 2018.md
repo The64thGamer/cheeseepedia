@@ -17,51 +17,51 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 5 2018**_ released July 30, 2018
+<b><i>Chuck E. Cheese's Show 5 2018</b></i> released July 30, 2018
 
 This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 songs. 2 new songs and 2 reused.
 
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD: 07/24/18 2:44am - 2:48am
-## Show List ##
+<h2> Show List </h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Kidz Bop - 'Finesse'
 ## Floogals - 'Puppet Theater Part 1'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese - 'Lend a Helping Hand'
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Andrew McMahon - 'So Close'
 ## Jokes From Pasqually - 'Anchor'
 ## Show Break 1 - 'National Parks Time Lapse'
 ## My Little Pony - 'Fundamentals of Magic'
 ## Tritonal - 'Out of My Mind feat. Riley Clemmons'
 ## Kids Click - 'Miraculous Tales of Ladybug & Cat Noir'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Jasper T. Jowls & Chuck E. Cheese - 'Jasper's Country Classic'
-#  **Intermission 3**
+#  <b>Intermission 3</b>
 ## Lisa Loeb - 'Ooh Child'
 ## Niall Horan & Maren Morris - 'Seeing Blind'
 ## Show Break 2 - 'Red & Rex'
 ## Ariana Grande - 'No Tears Left To Cry'
 ## Musing with Mr. Munch Episode 4
 ## Floogals - 'Puppet Theater Part 2'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Pasqually & Armadillo Phil - 'Chuck E. World'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Jessica Sanchez - 'Stronger Together'
 ## Fun Facts with Chuck E. - 'Play'
 ## Charlie Freaks Out - 'Broccoli'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Friends - 'Because We're Friends'
-#  **Intermission 5**
+#  <b>Intermission 5</b>
 ## Britt Nicole - 'Gold'
 ## Small Foot Trailer 
 ## Show Break 3 - 'Night City Time Lapse'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
@@ -81,14 +81,14 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 * Old McDonald (Studio C,Weigl)
 * Do The Chuck E. (Studio C,Weigl)
 
-##Official Releases: ##
+<h2>Official Releases: </h2>
 *[https://www.youtube.com/watch?v=XLw9GwGFhOE 'Lend a Helping Hand' on YouTube]
 *[https://www.youtube.com/watch?v=bF_VHJuWyJs 'Chuck E. World' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Jasper's Country Classic' was originally from Chuck E. Cheese's Show 3 2018 (Show 3 2018). and 'Because We're Friends' was originally from [Fall 2014]({{< ref "wiki/September 2014 Show.md" >}}).
 * Easy Dance (Spanish) and Birthday Star 2018 (Spanish) were created for this show.

@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-09-03T14:02:17Z
 
 [Article]
+pageThumbnailFile = "Salt Lake.CEC.jpg|Exterior on February 18, 2019"
 contributors = ["Cheeseslicez","AstridMascotFan2005","CECswag2009","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=Salt Lake.CEC.jpg|desc=Exterior on February 18, 2019}}
-**389 W 1830 South** is a Chuck E Cheese's opened on July 22nd 2013, and is still open today with the 2.0 remodel, and was the only Chuck E Cheese left in the state of Utah before Riverdale, UT (4095 Riverdale Rd) (Riverdale)’s opening in 2024.
 
-This location is **not** a relocation of Salt Lake City, UT (3344 South 1300) which was a pizza time theatre location opened in 1981, and closed sometime in the 1980s
+<b>389 W 1830 South</b> is a Chuck E Cheese's opened on July 22nd 2013, and is still open today with the 2.0 remodel, and was the only Chuck E Cheese left in the state of Utah before Riverdale, UT (4095 Riverdale Rd) (Riverdale)’s opening in 2024.
 
-## History ##
+This location is <b>not</b> a relocation of Salt Lake City, UT (3344 South 1300) which was a pizza time theatre location opened in 1981, and closed sometime in the 1980s
+
+<h2> History </h2>
 SLC opened with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) with a 16m bot in October 2022 the bot would stop being supported.
 
 In July 2024 Salt Lake City would begin undergoing the 2.0 remodel and is to be replacing the 16m bot and the COL Stage with a dance floor and video wall. This remodel would make Utah offically bot-less.  
 
 As of August 2024, the remodel has been near completed. 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -47,7 +48,7 @@ As of August 2024, the remodel has been near completed.
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

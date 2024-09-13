@@ -14,63 +14,63 @@ gallery = []
 |raesvhs=y|labelname=11/15/89 - Master HI-FI
 (C) 1989 S.P.T. CYBERSTAR}}
 
-**_SPP Christmas- '89 / Wave Bday**_ was a rerelease of  SPP Homely for Christmas (SPP Homely For Christmas '88) in December 1989.
+<b><i>SPP Christmas- '89 / Wave Bday</b></i> was a rerelease of  SPP Homely for Christmas (SPP Homely For Christmas '88) in December 1989.
 
 The tape featured the Concept Unification Premiere Demo hidden at the end of the tape, not normally seen in regular playback but available for store employees to watch.<ref>https://youtu.be/LEhPFhcc7T8</ref>
 
-##Show List##
-#**Intermission 1**
+<h2>Show List</h2>
+#<b>Intermission 1</b>
 ##6 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas The Christmas Song]
 ###Birthday Spectacular
 ###[https://en.wikipedia.org/wiki/Merry_Christmas_(Johnny_Mathis_album) Sleigh Ride]
 ##Cyberstar Intro
-#**Segment 1**
+#<b>Segment 1</b>
 ##Homely For Christmas 1
 ###[https://en.wikipedia.org/wiki/That_Christmas_Feeling No Place Like Home]
 ###[https://en.wikipedia.org/wiki/Jingle_Bell_Rock Jingle Bell Rock]
 ###[https://en.wikipedia.org/wiki/Please_Come_Home_for_Christmas Please Come Home For Christmas]
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##6 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album I Saw Mommy Kissing Santa Claus]
 ###[https://en.wikipedia.org/wiki/The_Andy_Williams_Christmas_Album Its The Most Wonderful Time of the Year]
 ###Birthday Spectacular
 ###[https://en.wikipedia.org/wiki/A_Crystal_Christmas Have Yourself A Merry Little Christmas]
 ##Cyberstar Intro
-#**Segment 2**
+#<b>Segment 2</b>
 ##Homely For Christmas 2
 ###[https://en.wikipedia.org/wiki/Joy_to_the_World Joy to the World]
 ###[https://en.wikipedia.org/wiki/O_Holy_Night Oh Holy Night]
 ###[https://en.wikipedia.org/wiki/The_Little_Drummer_Boy Little Drummer Boy]
 ###[https://en.wikipedia.org/wiki/White_Christmas_(song) White Christmas]
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##6 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Here_Comes_Santa_Claus Here Comes Santa Claus]
 ###[https://en.wikipedia.org/wiki/The_Perry_Como_Christmas_Album Toyland]
 ###Birthday Spectacular
 ###[https://en.wikipedia.org/wiki/A_Chipmunk_Christmas The Chipmunk Song (A Chipmuck Christmas Version)]
 ##It's Showtime!
-#**Video 1**
+#<b>Video 1</b>
 ##[https://en.wikipedia.org/wiki/A_Fresh_Aire_Christmas Mannheim Steamroller - The Little Drummer Boy]
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##6 Minute Countdown
 ###Rockin' Around The Christmas Tree (From The Forester Sisters 'A Christmas Card')
 ###[https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album) Silver Bells]
 ###Birthday Spectacular
 ###Blue Christmas (From Warner Bros 'A Christmas Tradition')
 ##Cyberstar Intro
-#**Segment 3**
+#<b>Segment 3</b>
 ##Homely For Christmas 3
 ###[https://en.wikipedia.org/wiki/Little_Saint_Nick Little Saint Nick]
 ###[https://en.wikipedia.org/wiki/Run_Rudolph_Run Run Run Rudolph]
 ###[https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town Santa Claus Is Comin' to Town]
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##6 Minute Countdown
 ###[https://en.wikipedia.org/wiki/White_Christmas_(song) White Christmas]
 ###Birthday Spectacular
 ###[https://en.wikipedia.org/wiki/Goin%27_Home_for_Christmas Rudolph the Red-Nosed Reindeer]
 ##Cyberstar Intro
-#**Segment 4**
+#<b>Segment 4</b>
 ##Homely For Christmas 4
 ###Sleigh Ride Medley
 ####[https://en.wikipedia.org/wiki/Home_for_the_Holidays_(song) (There's No Place Like) Home for the Holidays]
@@ -81,15 +81,15 @@ The tape featured the Concept Unification Premiere Demo hidden at the end of the
 ####[https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector Sleigh Ride (Reprise)]
 ###[https://en.wikipedia.org/wiki/Winter_Wonderland Winter Wonderland]
 ###[https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas We Wish You A Merry Christmas]
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##6 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Christmas_Portrait The First Snowfall]
 ###Birthday Spectacular
 ###[https://en.wikipedia.org/wiki/Christmas_(Kenny_Rogers_album) My Favorite Things]
 ##It's Showtime!
-#**Video 2**
+#<b>Video 2</b>
 ##[https://en.wikipedia.org/wiki/A_Claymation_Christmas_Celebration California Raisins - Rudolph the Red-Nosed Reindeer]
-#**Hidden Video**
+#<b>Hidden Video</b>
 ##Concept Unification Premiere Demo  
 
-## References ##
+<h2> References </h2>

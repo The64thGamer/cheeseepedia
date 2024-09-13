@@ -15,16 +15,16 @@ gallery = []
 |studioc=y
 |dvdcu=y
 |dvdcyber=y
-}}**_September 2011**_ is the fall show released September 2011. Featuring new 8 songs.
+}}<b><i>September 2011</b></i> is the fall show released September 2011. Featuring new 8 songs.
 
 This show played from September 2011 - November 24, 2011.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'You Make My Dreams'
-## 'Workin' for a Livin_
-# **Intermission 1** 
+## 'Workin' for a Livin''
+# <b>Intermission 1</b> 
 ## CEC TV ID - 'CEC TV Sitting on a couch'
 ## Veggie Tales - 'Helping Hand'
 ## Quaker Chewy Bar Spot
@@ -32,10 +32,10 @@ This show played from September 2011 - November 24, 2011.
 ## Chuck E. Live Spot
 ## Countdown 1
 ## CEC TV ID - 'Marquee'
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Bang the Drum All Day'
 ## 'Come On Let's Go'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## CEC TV ID - 'Breakdance'
 ## Kung Fu Panda 
 ## Monkey Ninjas Ep. 1 
@@ -43,10 +43,10 @@ This show played from September 2011 - November 24, 2011.
 ## PBS Kids Spot 
 ## Countdown 2 
 ## CEC TV ID - 'Singing Animals'
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Hip To Be Square'
 ## 'New Shoes'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## CEC TV ID - 'Digestion'
 ## Veggie Tales - 'Listen'
 ## Logan Robert Gladden Interview 
@@ -54,10 +54,10 @@ This show played from September 2011 - November 24, 2011.
 ## CEC TV 90s Intro
 ## CEC TV RETRO - 'Geography Rap - Australia'
 ## Countdown 3 
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Funky Town'
 ## 'Keep Your Head Up'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## CEC TV ID - 'Pizza Fan'
 ## Veggie Tales - 'Astonishing Wigs'
 ## Monkey Ninjas Ep. 2
@@ -65,7 +65,7 @@ This show played from September 2011 - November 24, 2011.
 ## Countdown 4
 ## CEC TV ID - 'NBC Chime'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Bday Program (3stage, Cyberamic, Studio C)
 * Spanish Bday (3stage, Cyberamic, Studio C)
@@ -73,10 +73,10 @@ This show played from September 2011 - November 24, 2011.
 * Happy & U Know It (Live) (3stage, Cyberamic, Studio C)
 * Old MacDonald (Live) (3stage, Cyberamic, Studio C)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * September 2011 was shot in 5 days according to a behind the scenes video.<ref>https://www.youtube.com/watch?v=XN6-ayiwhPM</ref>
 * This is the final show for the following:

@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-06-23T12:02:22Z
 
 [Article]
+pageThumbnailFile = "Fort Collins’s Exterior in May 2018 (PC- Google Maps).jpg|Fort Collins' Exterior in May 2018 (PC: Google Maps)"
 contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","CEC Tinley","Caydenpedia","CECFayetteville15"]
 gallery = []
 +++
-{{Generic|image=Fort Collins’s Exterior in May 2018 (PC- Google Maps).jpg|desc=Fort Collins' Exterior in May 2018 (PC: Google Maps)}}
-**_105 W Prospect Rd, Store #865 <ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf</ref>**_ was a _ShowBiz Pizza Place_ that opened on February 9, 1982, with a [Rock-aifre Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a _Chuck E. Cheese's_ on April 13th, 2020, with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
-## History ##
+<b><i>105 W Prospect Rd, Store #865 <ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf</ref></b></i> was a <i>ShowBiz Pizza Place</i> that opened on February 9, 1982, with a [Rock-aifre Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a <i>Chuck E. Cheese's</i> on April 13th, 2020, with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+
+<h2> History </h2>
 Fort Collins opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) as a Showbiz Pizza and would stay like that until getting [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991. Fort Collins underwent the SPT 1992/1993 Remodel Program in 1992. In July 2005, Fort Collins was one of the locations that won CEC Entertainment's Making Magic Awards. Between 2006 and 2007, Fort Collins remodeled to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), which removed the showroom walls, balcony seating, and old decor for new ones. Fort Collins remained like this until they closed due to COVID-19 and the bankruptcy.
 
-### Eye Injury Incident ###
+<h2>= Eye Injury Incident </h2>=
 In 2005, a child who was looking for an older sibling, ran into a wall and injured his eye. The staff called 911 right away. While waiting for them to arrive, the manager gave the child a free Chuck E. plush. After the paramedics left, the family stayed to make sure he was okay. When they ran out of tokens, the manager gave them a handful of free tokens.<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf</ref>
 
-### Closure ###
+<h2>= Closure </h2>=
 Fort Collins was one of the first three locations to permanently close due to the COVID-19 in early 2020, along with [Diamond Bar, CA (1900 S Brea Canyon Rd)]({{< ref "wiki/Diamond Bar, CA (1900 S Brea Canyon Rd).md" >}}) and [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}). It was originally going to be a hotel, but plans were cancelled. The exterior sign would left up on the building, similar to [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}) and [Wilmington, NC]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}). The location was vacant until Spirit Halloween moved in the space but keeping the store's sign and awnings intact. In 2021, the store was completely gutted, and the sign and awnings were taken down. In November of the same year, an AutoZone moved into the former CEC. As of September 2023, AutoZone is still operational and open to this day.
 
-## Stages ##
+<h2> Stages </h2>
 Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion, like many other Showbiz Pizza Places during the early-to-mid 1980s. In 1991, the Classic Stage went under the Concept Unification process, and retrofitted the Rock-afire band into Munch's Make Believe Band, and changing it into a 3-Stage. This stage would remain at this store until they closed. The stage assets and parts would be thrown out, along with the store's wall art, but Chuck E's mask was obtained by a Fort Collins pizza restaurant named Totally 80s Pizza.
 {| class='wikitable'
 !Stage
@@ -39,7 +40,7 @@ Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion
 |To do.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -97,7 +98,7 @@ Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion
 
 [https://www.showbizpizza.com/photos/cec/co_ftcollins/index.html   Fort Collins in 1999]
 
-## Videos ##
+<h2> Videos </h2>
 To do.
 
-## References ##
+<h2> References </h2>

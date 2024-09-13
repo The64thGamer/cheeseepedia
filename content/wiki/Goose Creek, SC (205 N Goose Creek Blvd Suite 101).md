@@ -8,11 +8,11 @@ date = 2024-05-29T04:47:30Z
 contributors = ["Lelmaster"]
 gallery = []
 +++
-{{Stub}}{{NonStandard}}
+
 
 Berkeley Square Shopping center was home to Track Stars, which was a restaurant similar in concept to [Gigglebee's]({{< ref "wiki/Gigglebee's.md" >}}) and shared the same animatronics.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
 * Out Ru
 * Duper Monaco GP
@@ -44,7 +44,7 @@ Berkeley Square Shopping center was home to Track Stars, which was a restaurant 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

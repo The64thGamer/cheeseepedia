@@ -13,11 +13,11 @@ gallery = []
 |image=Spring24.png
 |date=April 1, 2024
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Chuck E. Cheese Spring Show 2024**_ was a spring show released on April 1, 2024, and was run until April 28. Features 'Together We've Got it' and 'Every Boy, Every Girl'. Chuck E. Strut makes its debut with this show. 
+<b><i>Chuck E. Cheese Spring Show 2024</b></i> was a spring show released on April 1, 2024, and was run until April 28. Features 'Together We've Got it' and 'Every Boy, Every Girl'. Chuck E. Strut makes its debut with this show. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Chuck E. Cheese - 'Off Road with Chuck E. Episode 2' (Through April 7)
 ## Off Road with Chuck E Episode 3 after April 7
 ## Chuck E. Cheese - 'Most Perfect Day'
@@ -31,9 +31,9 @@ gallery = []
 ## Chcuk E. & Friends - 'Remember That Time'
 ## Silly Song - 'Little Bitty Kitty Cat'
 ## Kidz Pop - 'Tatto'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'Together We've Got It'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. Cheese - 'Listen to the Rock!'
 ## Helen Henny - 'Game On!'
 ## Chuck E. Cheese - 'Lend A Helping Hand'
@@ -49,14 +49,14 @@ gallery = []
 ## Chuck E. Cheese & Jasper T. Jowls - 'Nothing Like A Walk'
 ## Kidz Bop - 'If We Ever Broke Up'
 ## Chuck E. & Friends - 'Play All You Can Play'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Every Boy, Every Girl'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Chuck E. Cheese - 'Crochet All Day'
 ## Chuck E. & Friends - 'Water Buffalo'
 ## Kidz Bop - 'Barbie World'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)

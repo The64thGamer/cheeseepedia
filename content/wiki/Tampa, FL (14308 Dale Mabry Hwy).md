@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2023-12-29T03:52:22Z
 
 [Article]
+pageThumbnailFile = "ChuckECheeseTampaRockstarNight.jpg|Exterior, 2019"
 contributors = ["GainerXO","Rexburg090","RedaCEC","ShowbizMidwest","216.125.34.66","CEC Tinley","The 64th Gamer","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=ChuckECheeseTampaRockstarNight.jpg|desc=Exterior, 2019}}
-**_14308 Dale Mabry Hwy, Store #430**_ is a _Chuck E. Cheese_ that opened in July 1991 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). This store was the 10th Road Stage constructed, the 4th store to open up as a _Chuck E. Cheese's Pizza_ location in the state of Florida.<ref>https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/</ref>
+
+<b><i>14308 Dale Mabry Hwy, Store #430</b></i> is a <i>Chuck E. Cheese</i> that opened in July 1991 with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). This store was the 10th Road Stage constructed, the 4th store to open up as a <i>Chuck E. Cheese's Pizza</i> location in the state of Florida.<ref>https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/</ref>
 
 This location should not be confused with Tampa, FL (13210 N Dale Mabry Hwy) (13210 N Dale Mabry Hwy) which was a Pizza Time Theatre location that opened in August 1981 and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) & Tampa, FL (12707 Dale Mabry Hwy) (12707 Dale Mabry Hwy) which opened as a Showbiz Pizza Place on November 24th, 1981, and closed in August of 1986.  
-##Stages##
+<h2>Stages</h2>
 This store debuted with a finalized version of the [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) retaining everything that came with a road stage past the couple of prototype stages prior. Mr. Munch & Pasqually's had their PTT movements for the 1st couple of years the store was opened. In 1993 the store would switch out his Pasqually's arms movement for ones resembling Chuck E's while Mr. Munch would retain his movements up until the conversion of the store in 1994.
 
 From 1994 to 2019 they would receive a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) to replace their Road Stage alongside all of the parts to give Mr. Munch & Pasqually their 2-Stage arm movements & Jasper's Cheese Guitar. In 2006 with their 2nd major expansion, they would receive the Phase 4 update which removed the Phase 3 Sports Shelves surrounding the stage & the extra TV's surrounding it, they would replace Chuck E's Tux Outfit with his Avenger Outfit, but Chuck E. & Helen still kept their microphones. They would also receive the Jasper animatronic from Lakeland, FL (3558 US Hwy 98) (Lakeland, FL (3558 US Hwy 98)) in 2006. The 2-Stage was also planned to be removed for a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) but the plans fell through due to the height of the ceiling causing issues.
@@ -21,12 +22,12 @@ Post early 2010's they would remove the orange dimmed lighting from the gameroom
 
 In Late 2014-Late 2016 the show had following into a deep state of disrepair with barely any of the animatronics working at all with Munch being in the best condition (only lacking his hand movements & his left eye color being faded out) while Chuck E. & Helen being in the worst condition during that time, the show was still better than Brandon, FL (The only other 2-Stage in Florida & closest location next to it) but it wasn't much of a competition since both were below average around that time. On March 23, 2016, the brief time Grant came by the store he reenabled the curtains for Chuck E's stage, being able to use them for live shows in the near future. Munch still had his body turn function unlocked & it would remain this way for the rest of stage's life.
 
-### Stage Repair/Additions ###
+<h2>= Stage Repair/Additions </h2>=
 On August 26, 2016, Grant joined as Assistant Tech for the gameroom & showroom, and he started to repair up the show to make it at least functional again. By December 18, 2016, Munch & Jasper Mechs were operational again with only a few hiccups (Munch's left hand was raised up too high & Jasper's right-hand movement was a bit stiff, his spotlight needed to be fix) alongside some progress towards the other 3 animatronics with Pasqually being the next most operational as his head turn was static & arms movements being stiff. Helen did receive a rare nametag patch on her dress. The stage also received a revamp in terms of the lights being more functional & neon strips being added to the city background to make it stand out. March 23, 2017, Helen's head down, head turn, body turn started to function properly again, on April 29, 2017, she received blonde hair + a repaint to make her resemble her Cheerleader Outfit hair color, Neon strips were added to the Chuck E Cheese Sign Area, MMBB Sign, Munch's Organ, Pasqually's bass drum, & The Wink. May 11, 2017, Jasper's mech became near functional again (Jasper only lacking his spotlight), the other 4 characters seeing more improvements towards their mechs with only Munch's needing to be tweaked & Pasqually still lacking his head turn. 2 weeks later on May 25, 2017, Munch & Pasqually became fully functional properly, Jasper regaining his spotlight & Chuck E's eyes can move back & forth again. July 19, 2017, Chuck E re-received his Avenger Hat & his right-hand swing was functional again. The dual hanging disco ball lights were now functioning + general improvements towards the lighting, August 10, 2017, Helen's arm swing movements were fixed, Oct 10, 2017, Chuck E. & Helen got new eye turns & eyelids. Nov 2, 2017, Helen & Jasper were completely repaired after a year of barely functioning, Dec 24, 2017, Chuck E. got his left-hand swing repaired which placed the whole band back into complete operation baring some cylinder & air pressure adjustments to be made, Pasqually's body turn was unlocked again prior towards pre-2012. During certain live shows custom use of the curtains are used to start or end shows with them working up until March 2019 13 years after they've stopped being programmed for shows.
 
 This was one of the more notable stages in terms of Cyberamics with the number of custom designs/adjustments added towards the stage to give it more of a flare as an appealing viewing experience. This 2-stage featuring plenty of Neon Strips surrounding the background & instruments on the stage that would glow-up during segments of the show shows, they would expand the color of the MMBB giving it the option to have a neon effect during some custom programing. This stage was also known for its custom decorations, re-additions of old stuff from past eras, and for Its expansive seasonal decorations that would mostly show up for Christmas. They even removed the Cyberamics Helen from stage once for Live Show Contest, but she was brought right back after the end of the day.
 
-### 2.0 Stage Remodel ###
+<h2>= 2.0 Stage Remodel </h2>=
 The era of animatronics for this store came to an end in August 13, 2019, when the 2.0 remodel started to happen, with the animatronics being removed shortly afterwards on the night of August 28, 2019. The animatronics were saved instead of being destroyed like most others during the 2.0 process. The grand re-opening for the location happened on October 3rd where Rockstar Chuck E. was present to greet the folks on that day alongside a giant inflatable Chuck E. outside the building. This location had the standardized 2019 2.0 design with it retaining mostly all of the 2.0 art, fixtures, menu, & etc. The Chuck E. Live Stage is however notable for having a custom arrangement of TV's surrounding the stage with one TV on each end, and two TVs in the middle on each side.
 {| class='wikitable'
 |+
@@ -56,16 +57,16 @@ The era of animatronics for this store came to an end in August 13, 2019, when t
 |Added in April 2023.
 |}
 
-## History ##
-**_14308 Dale Mabry Hwy, Tampa, FL**_ was a Corporate Owned Chuck E. Cheese Pizza location that would open up on July 1st, 1991, with Games 91' being the 1st showtape played at the store. This location was located in Paramount Plaza in its own little area of the plaza surrounded by mini shops to the left & right of the building, the entrance was inside of the plaza with the back of the building being where most of the space is at for the location. In fact, this location was only 0.7 miles away from Pizza Time Theatre that opened in Tampa a few years back Tampa, FL (13210 N Dale Mabry Hwy) (Tampa, FL (13210 N Dale Mabry Hwy)) & 1.1 miles away from Showbiz Pizza Place that used to be located in Tampa, FL (12707 Dale Mabry Hwy) (Tampa, FL (12707 Dale Mabry Hwy)) which was besides a Kmart.
+<h2> History </h2>
+<b><i>14308 Dale Mabry Hwy, Tampa, FL</b></i> was a Corporate Owned Chuck E. Cheese Pizza location that would open up on July 1st, 1991, with Games 91' being the 1st showtape played at the store. This location was located in Paramount Plaza in its own little area of the plaza surrounded by mini shops to the left & right of the building, the entrance was inside of the plaza with the back of the building being where most of the space is at for the location. In fact, this location was only 0.7 miles away from Pizza Time Theatre that opened in Tampa a few years back Tampa, FL (13210 N Dale Mabry Hwy) (Tampa, FL (13210 N Dale Mabry Hwy)) & 1.1 miles away from Showbiz Pizza Place that used to be located in Tampa, FL (12707 Dale Mabry Hwy) (Tampa, FL (12707 Dale Mabry Hwy)) which was besides a Kmart.
 
-### Phase Remodels ###
-In 1991 the store 1st opened with a pretty standardized layout at the time with a Ball Bath & checker pattern designs on the walls. In 1994 the location received the Phase 1 update which included Kid Check, Skytubes, & new artwork alongside record posters & sports décor in the showroom. Then in 1997 a major expansion in terms of general layout changes & receiving the Phase 2 update with a whole new game section near the back of the store which used to just be storage, a new game package, & a bit of a rework of the in-store layout like the showroom wall entrance being moved further up. <ref>https://media.discordapp.net/attachments/1046959790364045313/1047031224595664966/unknown.png?width=414&height=536</ref> Sometime between 2000-2002 they would receive a Phase 3 update which would remove the ball pit for a Toddler Zone area alongside a new game package, this store would retain many of the Phase 2 artwork & design though. This would be followed in 2006 where the store saw its 2nd major remodel as it updated the store into a Phase 4 removing most of the Phase 2 & Phase 3 artwork and décor for the kids and parody posters etc., the only surviving pieces of artwork includes some of the 2000's postcards posters & the showroom entrance logo. This location would also receive a new game package, curtains being turned off, dimmed lighting being removed from the showroom. In 2012 they would their last significant update in 2011-2012 where they would receive the 2010 remodel which removed the extra TV's outside of the showroom, removal of the showroom walls & balcony seating, the dimmed orangish lighting inside of the building being turned off, & the reduced size of the toddler zone. In 2014-2015 they would completely remove the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) & Toddler Zone for Chuck E's Bumper Cars, finally in 2018 they would change up the layout in the entrance inside of the store to widen up the gameroom & make it more open this however would be reverted back in late 2019 with the 2.0 remodel. In 2017 they were one of the 5 Florida test locations for Chuck E. Cheese Menu items to be delivered via UberEats. <ref>https://www.dallasnews.com/business/local-companies/2017/12/21/chuck-e-cheese-s-to-test-delivery-in-north-texas-other-spot-markets/</ref>
+<h2>= Phase Remodels </h2>=
+In 1991 the store 1st opened with a pretty standardized layout at the time with a Ball Bath & checker pattern designs on the walls. In 1994 the location received the Phase 1 update which included Kid Check, Skytubes, & new artwork alongside record posters & sports décor in the showroom. Then in 1997 a major expansion in terms of general layout changes & receiving the Phase 2 update with a whole new game section near the back of the store which used to just be storage, a new game package, & a bit of a rework of the in-store layout like the showroom wall entrance being moved further up. <ref>https:<i>media.discordapp.net/attachments/1046959790364045313/1047031224595664966/unknown.png?width=414&height=536</ref> Sometime between 2000-2002 they would receive a Phase 3 update which would remove the ball pit for a Toddler Zone area alongside a new game package, this store would retain many of the Phase 2 artwork & design though. This would be followed in 2006 where the store saw its 2nd major remodel as it updated the store into a Phase 4 removing most of the Phase 2 & Phase 3 artwork and décor for the kids and parody posters etc., the only surviving pieces of artwork includes some of the 2000's postcards posters & the showroom entrance logo. This location would also receive a new game package, curtains being turned off, dimmed lighting being removed from the showroom. In 2012 they would their last significant update in 2011-2012 where they would receive the 2010 remodel which removed the extra TV's outside of the showroom, removal of the showroom walls & balcony seating, the dimmed orangish lighting inside of the building being turned off, & the reduced size of the toddler zone. In 2014-2015 they would completely remove the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) & Toddler Zone for Chuck E's Bumper Cars, finally in 2018 they would change up the layout in the entrance inside of the store to widen up the gameroom & make it more open this however would be reverted back in late 2019 with the 2.0 remodel. In 2017 they were one of the 5 Florida test locations for Chuck E. Cheese Menu items to be delivered via UberEats. <ref>https:</i>www.dallasnews.com/business/local-companies/2017/12/21/chuck-e-cheese-s-to-test-delivery-in-north-texas-other-spot-markets/</ref>
 
-### 2.0 Store Remodel ###
+<h2>= 2.0 Store Remodel </h2>=
 On October 3rd the location reopened with CEC 2.0 Remodel which removed everything from Phase 3-4 to make the restaurant appear sleeker & more modern with new artwork resembling a more basic but standard design. The layout for the store didn't really change asides the dance floor now facing east instead of north unlike the 2-stage, the arcade machines & rides being more spaced out, the store's entrance reverting back to its 2010 remodel layout. In April 2023, the 2019 model Dance Floor was replaced with a 2021 model and a Video Wall was added.
 
-## Arcade Machines & Rides ##
+<h2> Arcade Machines & Rides </h2>
 * Please keep in mind most of guess dates are a general estimate on when they got removed/installed from a location & this section might be updated later for more accurate information. However, all of the games listed below has shown up in this location, so the games listed here are accurate with proof for around half of them coming at a future date.
 {| class='wikitable'
 !Arcade Machine/Ride
@@ -80,11 +81,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1991
 |1997
 |-
-|**_Alleyroller**_
+|<b><i>Alleyroller</b></i>
 |2015
 |Still In Use
 |-
-|**_Aliens Extermination**_
+|<b><i>Aliens Extermination</b></i>
 |2017
 |Still In Use
 |-
@@ -100,7 +101,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2013
 |-
-|**_Barney Tractor Ride**_
+|<b><i>Barney Tractor Ride</b></i>
 |2021
 |Still In Use
 |-
@@ -108,7 +109,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2015
 |-
-|**_Big Bass Wheel**_
+|<b><i>Big Bass Wheel</b></i>
 |2009
 |Still In Use
 |-
@@ -116,11 +117,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2000
 |2009
 |-
-|**_[Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})**_
+|<b><i>[Big Win Super Spin]({{< ref "wiki/Big Win Super Spin.md" >}})</b></i>
 |2010
 |Still In Use
 |-
-|**_Black Hole**_
+|<b><i>Black Hole</b></i>
 |2018
 |Still In Use
 |-
@@ -128,7 +129,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2013
 |-
-|**_Bop 2 Win**_
+|<b><i>Bop 2 Win</b></i>
 |2017
 |Still In Use
 |-
@@ -160,11 +161,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2013
 |2017
 |-
-|**_Cars Arcade**_
+|<b><i>Cars Arcade</b></i>
 |2019
 |Still In Use
 |-
-|**_Carousel Ride**_
+|<b><i>Carousel Ride</b></i>
 |2002
 |Still In Use
 |-
@@ -188,7 +189,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2014
 |-
-|**_Chuck E.'s Air Hockey (2017)**_
+|<b><i>Chuck E.'s Air Hockey (2017)</b></i>
 |2019
 |Still In Use
 |-
@@ -252,11 +253,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2014
 |-
-|**_Chuck E. Cheese's Photo Ride (2014)**_ 
+|<b><i>Chuck E. Cheese's Photo Ride (2014)</b></i> 
 |2014
 |Still In Use
 |-
-|**_[Chuck E's Pop It For Gold]({{< ref "wiki/Pop It for Gold.md" >}})**_
+|<b><i>[Chuck E's Pop It For Gold]({{< ref "wiki/Pop It for Gold.md" >}})</b></i>
 |2004
 |Still In Use
 |-
@@ -280,7 +281,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2015
 |-
-|**_[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})**_
+|<b><i>[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})</b></i>
 |2005
 |Still In Use
 |-
@@ -312,11 +313,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2015
 |2018
 |-
-|**_Crossbow Master: Chuck E. Cheese's**_
+|<b><i>Crossbow Master: Chuck E. Cheese's</b></i>
 |2015
 |Still In Use
 |-
-|**_Crossy Road**_
+|<b><i>Crossy Road</b></i>
 |2017
 |Still In Use
 |-
@@ -332,23 +333,23 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2010
 |-
-|**_Deadstorm Pirates**_
+|<b><i>Deadstorm Pirates</b></i>
 |2016
 |Still In Use
 |-
-|**_Deal Or No Deal**_
+|<b><i>Deal Or No Deal</b></i>
 |2009
 |Still In Use
 |-
-|**_Deep Freeze**_
+|<b><i>Deep Freeze</b></i>
 |2001
 |Still In Use
 |-
-|**_Deep Sea Treasure**_
+|<b><i>Deep Sea Treasure</b></i>
 |2015
 |Still In Use
 |-
-|**_Dinosaur Catcher**_
+|<b><i>Dinosaur Catcher</b></i>
 |2018
 |Still In Use
 |-
@@ -356,15 +357,15 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2003
 |2013
 |-
-|**_Dino Pop**_
+|<b><i>Dino Pop</b></i>
 |2015
 |Still In Use
 |-
-|**_Dog Pounder**_
+|<b><i>Dog Pounder</b></i>
 |2010
 |Still In Use
 |-
-|**_Down The Clown**_
+|<b><i>Down The Clown</b></i>
 |2016
 |Still In Use
 |-
@@ -376,7 +377,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2003
 |2015
 |-
-|**_Eiffel Tower**_
+|<b><i>Eiffel Tower</b></i>
 |2018
 |Still In Use
 |-
@@ -392,11 +393,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2009
 |2013
 |-
-|**_Fast & Furious Super Cars**_
+|<b><i>Fast & Furious Super Cars</b></i>
 |2011
 |Still In Use
 |-
-|**_Fishbowl Frenzy**_
+|<b><i>Fishbowl Frenzy</b></i>
 |2018
 |Still In Use
 |-
@@ -420,7 +421,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2011
 |-
-|**_Frogger (2012)**_
+|<b><i>Frogger (2012)</b></i>
 |2013
 |Still In Use
 |-
@@ -432,11 +433,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2004
 |2013
 |-
-|**_Funny Hamsters**_
+|<b><i>Funny Hamsters</b></i>
 |2018
 |Still In Use
 |-
-|**_Funhouse Photos**_
+|<b><i>Funhouse Photos</b></i>
 |2013
 |Still In Use
 |-
@@ -460,7 +461,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2000
 |-
-|**_Generic Green Jeep Ride**_
+|<b><i>Generic Green Jeep Ride</b></i>
 |2018
 |Still In Use
 |-
@@ -468,7 +469,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2009
 |2014
 |-
-|**_Generic London Bus Ride**_
+|<b><i>Generic London Bus Ride</b></i>
 |2022
 |Still In Use
 |-
@@ -484,7 +485,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1991
 |1996
 |-
-|**_Generic Red Car Ride**_
+|<b><i>Generic Red Car Ride</b></i>
 |2018
 |Still In Use
 |-
@@ -500,11 +501,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1991
 |1993
 |-
-|**_Generic Submarine Ride**_
+|<b><i>Generic Submarine Ride</b></i>
 |2018
 |Still In Use
 |-
-|**_Generic Van Ride**_
+|<b><i>Generic Van Ride</b></i>
 |2014
 |Still In Use
 |-
@@ -512,11 +513,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2009
 |2013
 |-
-|**_Get Hooked**_
+|<b><i>Get Hooked</b></i>
 |2015
 |Still In Use
 |-
-|**_Goal Line Rush**_
+|<b><i>Goal Line Rush</b></i>
 |2018
 |Still In Use
 |-
@@ -524,19 +525,19 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2003
 |2010
 |-
-|**_Golden Empire**_
+|<b><i>Golden Empire</b></i>
 |2016
 |Still In Use
 |-
-|**_Guitar Hero Arcade**_
+|<b><i>Guitar Hero Arcade</b></i>
 |2009
 |Still In Use
 |-
-|**_H2Overdrive**_
+|<b><i>H2Overdrive</b></i>
 |2019
 |Still In Use
 |-
-|**_Hammer 2**_
+|<b><i>Hammer 2</b></i>
 |2009
 |Still In Use
 |-
@@ -548,7 +549,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2015
 |2017
 |-
-|**_Hat Tricks**_
+|<b><i>Hat Tricks</b></i>
 |2015
 |Still In Use
 |-
@@ -576,19 +577,19 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2000
 |-
-|**_Hollywood Reels**_
+|<b><i>Hollywood Reels</b></i>
 |2015
 |Still In Use
 |-
-|**_Ice Age Arcade**_
+|<b><i>Ice Age Arcade</b></i>
 |2017
 |Still In Use
 |-
-|**_Ice Cube Claw Machine**_
+|<b><i>Ice Cube Claw Machine</b></i>
 |2018
 |Still In Use
 |-
-|**_Jett Rider**_
+|<b><i>Jett Rider</b></i>
 |2011
 |Still In Use
 |-
@@ -600,7 +601,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1991
 |1997
 |-
-|**_Jumbo Jackpot**_
+|<b><i>Jumbo Jackpot</b></i>
 |2014
 |Still In Use
 |-
@@ -612,11 +613,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1996
 |2001
 |-
-|**_Jurassic Park Arcade (2015)**_
+|<b><i>Jurassic Park Arcade (2015)</b></i>
 |2018
 |Still In Use
 |-
-|**_Justice League Whacker**_
+|<b><i>Justice League Whacker</b></i>
 |2018
 |Still In Use
 |-
@@ -628,11 +629,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2015
 |2018
 |-
-|**_Let's Go Jungle**_
+|<b><i>Let's Go Jungle</b></i>
 |2006
 |Still In Use
 |-
-|**_Marathon Runners**_
+|<b><i>Marathon Runners</b></i>
 |2011
 |Still In Use
 |-
@@ -652,11 +653,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2010
 |2017
 |-
-|**_NBA Hoops**_
+|<b><i>NBA Hoops</b></i>
 |2015
 |Still In Use
 |-
-|**_NBA Hoop Troops**_
+|<b><i>NBA Hoop Troops</b></i>
 |2020
 |Still In Use
 |-
@@ -664,31 +665,31 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2009
 |2018
 |-
-|**_Nicktoons Racing**_
+|<b><i>Nicktoons Racing</b></i>
 |2005
 |Still In Use
 |-
-|**_Operation**_
+|<b><i>Operation</b></i>
 |2015
 |Still In Use
 |-
-|**_Paw Patrol Wheel Spin**_
+|<b><i>Paw Patrol Wheel Spin</b></i>
 |2018
 |Still In Use
 |-
-|**_Pharaoh’s Treasure**_
+|<b><i>Pharaoh’s Treasure</b></i>
 |2016
 |Still In Use
 |-
-|**_Pirate Hook**_
+|<b><i>Pirate Hook</b></i>
 |2018
 |Still In Use
 |-
-|**_Pop The Lock**_
+|<b><i>Pop The Lock</b></i>
 |2018
 |Still In Use
 |-
-|**_Raceway**_
+|<b><i>Raceway</b></i>
 |2015
 |Still In Use
 |-
@@ -704,11 +705,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2017
 |-
-|**_Reactor**_
+|<b><i>Reactor</b></i>
 |2016
 |Still In Use
 |-
-|**_Robin Hood**_
+|<b><i>Robin Hood</b></i>
 |2015
 |Still In Use
 |-
@@ -716,7 +717,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1996
 |2011
 |-
-|**_Rock'N Moon Rally**_
+|<b><i>Rock'N Moon Rally</b></i>
 |2007
 |Still In Use
 |-
@@ -724,11 +725,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1996
 |2003
 |-
-|**_Rockin Rollin**_
+|<b><i>Rockin Rollin</b></i>
 |2020
 |Still In Use
 |-
-|**_Redhot (Roll For Gold 2)**_
+|<b><i>Redhot (Roll For Gold 2)</b></i>
 |2019
 |Still In Use
 |-
@@ -740,7 +741,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2000
 |2011
 |-
-|**_Sea Wolf**_
+|<b><i>Sea Wolf</b></i>
 |2007
 |Still In Use
 |-
@@ -748,7 +749,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1996
 |2010
 |-
-|**_Slam-A-Winner**_
+|<b><i>Slam-A-Winner</b></i>
 |2009
 |Still In Use
 |-
@@ -756,7 +757,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2008
 |-
-|**_Smokin' Token Extreme**_
+|<b><i>Smokin' Token Extreme</b></i>
 |2015
 |Still In Use
 |-
@@ -764,7 +765,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2004
 |2010
 |-
-|**_Sonic The Hedgehog Drop**_
+|<b><i>Sonic The Hedgehog Drop</b></i>
 |2018
 |Still In Use
 |-
@@ -780,7 +781,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |2012
 |-
-|**_Spin-Rama**_
+|<b><i>Spin-Rama</b></i>
 |2019
 |Still In Use
 |-
@@ -788,7 +789,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2012
 |2015
 |-
-|**_Stack-It**_
+|<b><i>Stack-It</b></i>
 |2010
 |Still In Use
 |-
@@ -796,15 +797,15 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1999
 |2006
 |-
-|**_Subway Surfers**_
+|<b><i>Subway Surfers</b></i>
 |2017
 |Still In Use
 |-
-|**_Super Bikes 3**_
+|<b><i>Super Bikes 3</b></i>
 |2019
 |Still In Use
 |-
-|**_Super Star**_
+|<b><i>Super Star</b></i>
 |2020
 |Still In Use
 |-
@@ -812,7 +813,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1998
 |2006
 |-
-|**_Surf's Up**_
+|<b><i>Surf's Up</b></i>
 |2020
 |Still In Use
 |-
@@ -824,7 +825,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1996
 |1997
 |-
-|**_Teeter Totter Castle**_
+|<b><i>Teeter Totter Castle</b></i>
 |2015
 |Still In Use
 |-
@@ -836,7 +837,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2003
 |2011
 |-
-|**_Teenage Mutant Ninja Turtles (2012)**_
+|<b><i>Teenage Mutant Ninja Turtles (2012)</b></i>
 |2019
 |Still In Use
 |-
@@ -852,15 +853,15 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1997
 |1999
 |-
-|**_The Price Is Right**_
+|<b><i>The Price Is Right</b></i>
 |2013
 |Still In Use
 |-
-|**_The Revenge Of Hammerhead**_
+|<b><i>The Revenge Of Hammerhead</b></i>
 |2017
 |Still In Use
 |-
-|**_The Simpsons Kooky Carnival**_
+|<b><i>The Simpsons Kooky Carnival</b></i>
 |2013
 |Still In Use
 |-
@@ -876,15 +877,15 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2014
 |2019
 |-
-|**_Tight Rope**_
+|<b><i>Tight Rope</b></i>
 |2021
 |Still In Use
 |-
-|**_Tippin' Blocks**_
+|<b><i>Tippin' Blocks</b></i>
 |2015
 |Still In Use
 |-
-|**_Transformers Human Alliance**_
+|<b><i>Transformers Human Alliance</b></i>
 |2018
 |Still In Use
 |-
@@ -912,7 +913,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2002
 |2009
 |-
-|**_Water Blast**_
+|<b><i>Water Blast</b></i>
 |2003
 |Still In Use
 |-
@@ -924,11 +925,11 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |1991
 |2009
 |-
-|**_Whack N' Win**_
+|<b><i>Whack N' Win</b></i>
 |2018
 |Still In Use
 |-
-|**_Winner Wheel**_
+|<b><i>Winner Wheel</b></i>
 |2014
 |Still In Use
 |-
@@ -940,7 +941,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2012
 |2018
 |-
-|**_Wonder Wheel**_
+|<b><i>Wonder Wheel</b></i>
 |1997
 |Still In Use
 |-
@@ -949,7 +950,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |2006
 |}
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -1052,7 +1053,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |Birthday Party (August 29, 2003)
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -1084,4 +1085,4 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |Owned by a Private Collector.
 |}
 
-## References ##
+<h2> References </h2>

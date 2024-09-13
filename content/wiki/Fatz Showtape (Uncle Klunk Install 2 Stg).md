@@ -12,26 +12,26 @@ gallery = []
 |date=July 1983
 |showbizreel=y}}
 
-**_Fatz Showtape**_ (aka **_Klunk Installation Tape**_, not to be confused by the SPP Uncle Klunk Pre-Installation (1983) (SPP Uncle Klunk Pre-Installation) and SPP Uncle Klunk Installation (1983) (SPP Uncle Klunk Installation) training tapes) is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July of 1983.
+<b><i>Fatz Showtape</b></i> (aka <b><i>Klunk Installation Tape</b></i>, not to be confused by the SPP Uncle Klunk Pre-Installation (1983) (SPP Uncle Klunk Pre-Installation) and SPP Uncle Klunk Installation (1983) (SPP Uncle Klunk Installation) training tapes) is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July of 1983.
 
-##Segment List##
-#**Segment 1** 
+<h2>Segment List</h2>
+#<b>Segment 1</b> 
 ##'Banana Hill'
-#**Segment 2** 
+#<b>Segment 2</b> 
 ##'School Days'
-#**Segment 3** 
+#<b>Segment 3</b> 
 ##'Music Goes Round and Round'
-#**Segment 4** 
+#<b>Segment 4</b> 
 ##'Mr. Bass Man'
-#**Segment 5** 
+#<b>Segment 5</b> 
 ##'Louisiana'
-#**Segment 6** 
+#<b>Segment 6</b> 
 ##'My Gal is Red Hot'
-#**Segment 7** 
+#<b>Segment 7</b> 
 ##'Rubber Biscuit'
-#**Segment 8** 
+#<b>Segment 8</b> 
 ##'Elvira'
-#**Segment 9** 
+#<b>Segment 9</b> 
 ##'You May Be Right'
 
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>

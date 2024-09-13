@@ -18,57 +18,57 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 5 2021**_ was the holiday show originally released on November 15, 2021 and was played through January 2, 2022. The show was creation in conjunction with the Winter-Winnerland promotion. 
+<b><i>Show 5 2021</b></i> was the holiday show originally released on November 15, 2021 and was played through January 2, 2022. The show was creation in conjunction with the Winter-Winnerland promotion. 
 
 This show features seven Holiday songs, of which two were new and five reused. Additionally, a new live show, 'Chuck E.'s Yuletide Slide', was introduced in this show.
 
-## Corrected Version ##
+<h2> Corrected Version </h2>
 The initial DVD release for Studio C had pacing and timing issues, causing signals not be synced up with the audio and video. A fixed DVD, labeled 'Corrected Version', was sent out two days later on November 17, 2021.
 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
-## **** Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
-##**** Disney Channel Stars - “Put the Happy in the Holidays”
-#** Skit 1**
+## <b></b> Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
+##<b></b> Disney Channel Stars - “Put the Happy in the Holidays”
+#<b> Skit 1</b>
 ##Chuck E. & Friends - “The Holiday Party”
-#**Intermission 2**
-## **** Winter Winner-Land Menu Spot
-## **** HiDino - “The Snow Song”
+#<b>Intermission 2</b>
+## <b></b> Winter Winner-Land Menu Spot
+## <b></b> HiDino - “The Snow Song”
 ##Ryan’s World Fan Fest Watch Party
-#**Skit 2**
+#<b>Skit 2</b>
 ##Helen Henny - “All I Want for Christmas is Snow”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Safety Message
 ## Holiday Musing with Mr. Munch
-##**** Ella Fitzgerald - “Frosty the Snowman”
-#**Skit 3**
+##<b></b> Ella Fitzgerald - “Frosty the Snowman”
+#<b>Skit 3</b>
 ##Bella B. & Chuck E. - “Holiday Fiesta”
-#**Intermission 4**
-##**** Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
+#<b>Intermission 4</b>
+##<b></b> Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
 ##KIDZ BOP Kids - “Let It Snow”
 ##Tails of Friendship - “Munch’s first Christmas”
-#** Skit 4**
+#<b> Skit 4</b>
 ##Munch & Munch - “The Windowsill”
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Safety Message
 ##Brady Rhymer - “Hanukkah Rocks”
 ##Idina Menzel - “We Wish You the Merriest”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E., Jingle & Jangle - “Holiday Traditions”
-#**** **Intermission 6**
+#<b></b> <b>Intermission 6</b>
 ##Every Kid’s a Winner Spot
 ##HiDino - “Adventure Through the Snow”
 ##Daveed Diggs - “Puppy for Hanukkah”
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. & Helen - “Merry Christmastime”
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Safety Message
-## **** Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
-##**** KIDZ BOP Kids & Barbie - “Deck The Halls”
-##**** Ryan’s World Galaxy Explorers
-#**Skit 7**
+## <b></b> Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
+##<b></b> KIDZ BOP Kids & Barbie - “Deck The Halls”
+##<b></b> Ryan’s World Galaxy Explorers
+#<b>Skit 7</b>
 ##Chuck E. & Friends - “Holiday Medley”
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -76,12 +76,12 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 ### Up On The Housetop
 ### Deck the Halls
 ### We Wish You a Merry Christmas
-#**Intermission 8**
-##**** The Juicebox Jukebox -Thankful”
+#<b>Intermission 8</b>
+##<b></b> The Juicebox Jukebox -Thankful”
 ##Asher Angel - “Snow Globe Wonderland”
 ##YouTube and Music Streaming Spot
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -92,16 +92,16 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 * Me & My Friends (Holiday) (New Countdown) (Studio C, Weigl)
 * Holly Jolly Dance (New Countdown) (Studio C, Weigl)
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 * [https://youtu.be/DZiTeTs8xiI 'Chuck E.’s Yuletide Slide' on YouTube]
 * [https://www.youtube.com/watch?v=rBLJERfsf5Q 'The Windowsill' on YouTube]
 * [https://www.youtube.com/watch?v=htsMsIHUKQo 'Chuck E.'s Holiday Party' on YouTube]
 
-##Trivia##
+<h2>Trivia</h2>
 
 * Chuck E. & Friends - “The Holiday Party” was written by Eric Neal as a request from Matt Daniel. Neal, enjoying old school hip-hop, created the song in a similar vein to [https://en.wikipedia.org/wiki/So_What%27cha_Want 'So What'Cha Want'] by the Beastie Boys.
 * Munch & Munch - “The Windowsill” was also written by Matt Daniel as a new Munch song. The song was a nod to [https://en.wikipedia.org/wiki/Baby,_It%27s_Cold_Outside Baby It's Cold Outside]. Matt Daniel's idea for the song was for Munch to struggle with his conscience in song, an idea that he had been considering for several years. A member of the entertainment department eventually came up with theming the song around the holidays, and with a new Munch puppet being created around the same time, Matt went ahead with the creation of the song.

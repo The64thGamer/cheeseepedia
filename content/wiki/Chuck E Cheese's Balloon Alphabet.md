@@ -8,7 +8,7 @@ date = 2023-01-29T17:49:12Z
 contributors = ["ChuckE1352","The 64th Gamer"]
 gallery = []
 +++
-**_Chuck E. Cheese’s Balloon Alphabet**_ was a game developed by UFO interactive games. It was released on September 20th, 2011, and was available for purchase on the App Store for ¢99.
+<b><i>Chuck E. Cheese’s Balloon Alphabet</b></i> was a game developed by UFO interactive games. It was released on September 20th, 2011, and was available for purchase on the App Store for ¢99.
 
 The official description of the game read:<blockquote>“GUESS THE LETTERS!
 

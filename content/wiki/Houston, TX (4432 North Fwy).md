@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-04-26T23:20:20Z
 
 [Article]
+pageThumbnailFile = "HoustonNorthlineCurrentExterior.jpg|The store's exterior as of today."
 contributors = ["47.17.236.200","ThatBoiCydalan"]
 gallery = ["Houston Northline Exterior Construction.jpg|thumb|Construction of the location in September 2009."]
 +++
-{{Generic|image=HoustonNorthlineCurrentExterior.jpg|desc=The store's exterior as of today.}}
-**_Houston, TX (4432 North Fwy), Store #790**_, also referred to as **_Northline**_, is a _Chuck E. Cheese's_ that opened in November 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) stage.
 
-##Stage##
+<b><i>Houston, TX (4432 North Fwy), Store #790</b></i>, also referred to as <b><i>Northline</b></i>, is a <i>Chuck E. Cheese's</i> that opened in November 2009 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) stage.
+
+<h2>Stage</h2>
 When the store first opened, it featured a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) stage with a Chuck E. Cheese 16m (Animatronic) (16-movement bot).
 
 The bot would have its cap removed around September 2013.
@@ -22,11 +23,11 @@ The show would go into Random Movements mode in September 2022 as a result of th
 
 The stage would eventually be removed in February 2023 in favor of the store receiving the 2.0 remodel.
 
-##History##
+<h2>History</h2>
 
 With the decline of the Northline Mall, plans emerged in 2005 to redevelop in the mall into an open air shopping center with multiple anchors, which began construction in 2007 with demolition of the original mall. CEC Entertainment would then apply to the plaza redevelopment in 2009, beginning construction later that same year.
 
-The store would then open its doors on November 27th, 2009, coincidentally on the same day when its shopping center hosted an event of meeting Santa Claus.<ref>https://web.archive.org/web/20100628025805/http://www.northlinecommons.com/newsevents.htm</ref>
+The store would then open its doors on November 27th, 2009, coincidentally on the same day when its shopping center hosted an event of meeting Santa Claus.<ref>https:<i>web.archive.org/web/20100628025805/http:</i>www.northlinecommons.com/newsevents.htm</ref>
 
 During its operation, the shopping center would also host Halloween costume contests every year at this store.
 
@@ -34,11 +35,11 @@ The [Skytubes]({{< ref "wiki/Skytubes.md" >}}) would be removed around mid-June 
 
 Sometime around mid-April 2018, nearly the entirety of the store's walls would be repainted to the 2015 CEC Remodel Program (2015 Remodel)'s color scheme. This would be the store's last major remodel besides some additional game packages before receiving the 2017 2.0 Remodel Program (2.0 Remodel).
 
-Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.0 Remodel), receiving the _Refresh_ version as apart of the company spending $6.8 million to renovate all their Houston locations<ref>https://communityimpact.com/houston/cy-fair-cypress/business/2023/07/20/chuck-e-cheese-invests-68m-to-upgrade-houston-locations/</ref>. This began with removing the posters and the store's stage; the store would later receive a Trampoline Zone in December 2023, alongside other stores in the Houston Area.
+Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.0 Remodel), receiving the <i>Refresh</i> version as apart of the company spending $6.8 million to renovate all their Houston locations<ref>https://communityimpact.com/houston/cy-fair-cypress/business/2023/07/20/chuck-e-cheese-invests-68m-to-upgrade-houston-locations/</ref>. This began with removing the posters and the store's stage; the store would later receive a Trampoline Zone in December 2023, alongside other stores in the Houston Area.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Black Hole
 * Lil' Ticket Monsters
@@ -104,7 +105,7 @@ Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.
 * Rockin' & Rollin' 
 * Monsterous (ICE)
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 * Birthday Party
 * Wheel 'M In Xtreme
@@ -113,7 +114,7 @@ Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.
 * Crazy Typhoon
 * Roll for Gold 2
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Pig Out!
 * Bigfoot Crush
@@ -142,7 +143,7 @@ Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 
 {| class='wikitable'
 |+
@@ -159,5 +160,5 @@ Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.
 |Unknown/Destroyed
 |}
 
-##References##
+<h2>References</h2>
 <references />

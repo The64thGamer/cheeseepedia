@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-08-07T02:44:43Z
 
 [Article]
+pageThumbnailFile = "Princeton exterior 5-21-2019.jpg|Exterior of Chuck E. Cheese's in Princeton, NJ in 2019"
 contributors = ["The 64th Gamer","Cecnj98","Pasquallytheplumber","Rexburg090","ThatBoiCydalan","Cecanddisneyfan2004","AstridMascotFan2005"]
 gallery = ["Princeton Studio C 11-02-2022.jpg|thumb|'Keep Drummin'' playing on Princeton's Studio C Alpha on November 2nd, 2022","Princeton showroom back 2006.png|thumb|A view of Princeton's showroom in December 2006. The SkyTubes and Toddler Zone can be seen partially obscured by the showroom walls. The former would be downsized and relocated in the 2008 remodel and the latter would be removed altogether.","Princeton september 2012 showroom.png|thumb|View of Princeton's gameroom and showroom taken in September 2012 as it appeared post remodel"]
 +++
-{{Generic|image=Princeton exterior 5-21-2019.jpg|desc=Exterior of Chuck E. Cheese's in Princeton, NJ in 2019}}
-**_Princeton, NJ (520 Nassau Park Blvd), Store #510**_ _(referred to officially as West Windsor)_ is a _Chuck E. Cheese's_ location that opened on October 17th, 2001 with a Studio C Alpha. 
+
+<b><i>Princeton, NJ (520 Nassau Park Blvd), Store #510</b></i> <i>(referred to officially as West Windsor)</i> is a <i>Chuck E. Cheese's</i> location that opened on October 17th, 2001 with a Studio C Alpha. 
 
 Not counting Pizza Time Theaters, Princeton was the 11th Chuck E. Cheese's to open in the state of New Jersey and the 3rd to have installed Studio C. Since its opening in 2001, updates to the restaurant have been few and far in between. In the fall of 2008, the store received the 2005 remodel which brought new paint and artwork, downsized and relocated SkyTubes, the removal of showroom walls and the replacement of most of the booths. In the summer of 2013, Princeton removed the blue screen camera, interactive console and CRT TVs among other minor changes to the stage and saw its most elaborate game package since the store opened, replacing many original games with new ones from the 2010 and 2013 game packages. In October 2015, the rear projection monitors to the sides of the stages were replaced with flatscreen TVs and in late 2017, the curtains were disabled. The most recent change to the game selection was a minor game package in 2018, and in October 2020 the SkyTubes were removed alongside all corporate locations that still had them in service. As of June 2, 2024, this store has received the 2.0 refresh.
 
-## Stages ##
+<h2> Stages </h2>
 Princeton opened in October 2001 with a Studio C Alpha. By this time, Chuck E. Cheese's had begun installing the updated and downscaled Studio C Beta stages in new locations. Princeton's stage would be the second to last new Studio C Alpha installed in a new location (third to last if you count the store in Jeddah, Saudi Arabia), behind only its sister location in Burlington, NJ which opened in January 2002. Both stores having their Alphas installed so late was the result of opening delays. 
 
 The stage was a standard Studio C Alpha design of the early 2000s. Chuck E. and Bird were produced in the 4599 batch and the former has a serial number of 124. The stage saw little to no changes to its props, cosmetics and equipment until early 2009 when Chuck E. would receive his then-newly available Avenger outfit. It is currently unknown if Princeton ever installed his Cool Chuck outfit. Shortly afterwards, the rear projection monitor in the center would be replaced with an overhead Epson projector aligned to fit in the parameters of the light-up border. The Robocolor and Roboscan were removed at an unknown point in the late 2000s, however the controller for the latter still remains installed on the show rack. 
@@ -22,7 +23,7 @@ Sometime in July 2013, the stage would receive its most elaborate refurbishment 
 
 Coinciding with the release of [Fall Show 2013]({{< ref "wiki/Fall Show 2013.md" >}}) that September, Princeton removed Chuck E.'s hat from the animatronic as was standard procedure. From there, the stage wouldn't see any major updates until October 2015 when the rear projection TVs to the left and right of the stage were replaced with 26' flatscreen TVs. Chuck E's Avenger shirt was replaced with a new Rockstar shirt in 2016, though he still wears his Avenger shorts. In late 2017, Princeton disabled their curtains permanently citing a lack of available parts and that other Studio C stores had disabled theirs. Rather than disabling them in the show computer, however, the curtain signal was blinded using the Tech Term, and Princeton wouldn't enable random movements on their stage until September 15th, 2022. This was four days before the launch of the Chuck E. Cheese Halloween Boo-Tacular 2022 Show (Chuck E. Cheese Halloween Boo-Tacular 2022 show), the first Studio C showtape not to contain programming synced to video. On May 24th, 2023, Princeton launched the CEC Media Network using a combination of the Show Control Player and Studio C CyberStar for show operations. The stage would be removed on the night of June 2nd, 2024, as the store received the 2.0 remodel, alongside the rest of the unremodeled stores in the New Jersey area.
 
-## History ##
+<h2> History </h2>
 In 1995, the Nassau Park Pavilion shopping center in West Windsor, NJ opened to the public. Occupying about 500,000 square feet of farmland behind Mercer Mall adjacent to Route 1 South, opening tenants such as Walmart, Best Buy and Sam's Club quickly drew in shoppers and revenue. To capitalize on the growing retail development along the highway, a second phase expansion was approved and began construction in 1997 and Chuck E. Cheese's was one of the original tenants slated for this new expansion. The CEC was slated to occupy a 10,125 sq ft building built between Dick's Sporting Goods and Panera Bread. Originally the store was scheduled to open in March of 2001, however the opening would be delayed to July and ultimately wouldn't be ready to open until October. It is unknown why the store's opening was delayed either time, though it is worth noting that both the Chuck E. Cheese's in Bridgewater and Burlington had similar delays.  
 
 Opening on October 17th, the Chuck E. Cheese's in Princeton had an atypical layout compared to other stores of that time period. The store has a Kid Check lane that 'zig-zagged' as opposed to being a straight hallway. The order counter is located northeast of Kid Check with the salad bar situated to its right facing the showroom and the prize counter to its left facing the game room. To the left of Kid Check was the game room; the Super Shot and Skee-Ball lanes were situated against the side wall with the other games scattered in front of them. To the right of Kid Check was the kiddie room and Toddler Zone with the SkyTubes sprawled out suspended from the ceiling. Across from the Toddler Zone was the showroom which occupies the entire back section of the store. The stage was built against the back wall of the building between the Chuck E. Room and the tech room; the tech room access is to the left of Chuck E's stage. Between the left wall of the showroom and the beverage bar is a hallway with the restrooms on the left side and the Chuck E. Room to the right. The L-shaped layout is similar in design to those of stores opened between 1989 and 1994. The store is also built smaller than the average CEC of the time; the average store was about 12,000 sq ft whereas the Princeton location was barely larger than 10,000 sq ft. Its building being squished between two other retail spaces also prevents the store from expanding.  
@@ -33,7 +34,7 @@ Following Princeton's major remodel in 2008, most of the store's updates over th
 
 The grand reopening event of this location is happening on August 15, 2024.<ref>[https://www.youtube.com/channel/UCT51H7zhGxVfuuUvY3lGX4w/community?lb=UgkxkB0DrbCoAiUNCQCGWrqtEIN6iVpqoOb7 Chuck E Entertainment's YT Post]</ref> 
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 This is a list of every game and ride at the Princeton location as of May 2023:
 
 * After Burner Climax
@@ -83,7 +84,7 @@ This is a list of every game and ride at the Princeton location as of May 2023:
 * Tippin' Blocks
 * Water Park Adventure
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -101,7 +102,7 @@ This is a list of every game and ride at the Princeton location as of May 2023:
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

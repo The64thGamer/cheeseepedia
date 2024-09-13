@@ -8,9 +8,9 @@ date = 2024-05-04T22:48:39Z
 contributors = ["66.215.38.213","2600:1012:B0CA:2E86:1998:FCE5:1D80:A2BF","The 64th Gamer","Cheeseclassic","Harchambeault2026"]
 gallery = []
 +++
-{{Stub}}**_Rockwall, Texas (855 East Interstate 30), Store #99**_ is a _Chuck E. Cheese_ that opened in August 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+<b><i>Rockwall, Texas (855 East Interstate 30), Store #99</b></i> is a <i>Chuck E. Cheese</i> that opened in August 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-##History##
+<h2>History</h2>
 TODO
 
 {|class='wikitable'

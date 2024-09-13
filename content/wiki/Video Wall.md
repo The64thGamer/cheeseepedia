@@ -5,17 +5,18 @@ tags = []
 date = 2024-09-09T12:07:43Z
 
 [Article]
+pageThumbnailFile = "CantonMIVideoWall.jpg|The Video Wall at the [[Canton, MI (42001 Ford Rd)"
 contributors = ["ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","ThatBoiCydalan","74.96.197.218","Blowseborg062","66.215.38.213","Slussier1","CoolerDude","Cheeseclassic","AnthonyRWikis7283","Caydenpedia","Documentor","Harchambeault2026","Stripes","Cecanddisneyfan2004","AlexisCEC","AstridMascotFan2005","CEC1988"]
 gallery = []
 +++
-{{Generic|image=CantonMIVideoWall.jpg|desc=The Video Wall at the [Canton, Michigan location]({{< ref "wiki/Canton, MI (42001 Ford Rd).md" >}})}}
-The **Video Wall** (Also known as the Jumbotron by some.) is an entertainment option found at Chuck E. Cheese's (Chuck E. Cheese) restaurants. It was first installed in March 2021 at the [Manassas, VA (7730 Stream Walk Ln)]({{< ref "wiki/Manassas, VA (7730 Stream Walk Ln).md" >}}) location. 
+
+The <b>Video Wall</b> (Also known as the Jumbotron by some.) is an entertainment option found at Chuck E. Cheese's (Chuck E. Cheese) restaurants. It was first installed in March 2021 at the [Manassas, VA (7730 Stream Walk Ln)]({{< ref "wiki/Manassas, VA (7730 Stream Walk Ln).md" >}}) location. 
 
 The Video Walls are installed in present day 2.0 remodels alongside the 2021 Model Dance Floor (some stores receive 2019 Dance Floors instead), with some stores (like [Howard Beach, New York]({{< ref "wiki/Howard Beach, NY (133-35 79th St).md" >}}), which did not open with one, as they were planning to open in 2020, before 2021 2.0's started being installed & [Kennewick, Washington]({{< ref "wiki/Kennewick, WA (6340 W Rio Grande Ave).md" >}}) which was the first 2018 2.0 to receive a Video Wall and kept the old big red piece which would house the TVs; which has 12 TVs throughout the store instead of the usual 9 {Including Video Wall} for 2021 2.0s), later receiving one. 
 
 The Video Walls bear a resemblance to the large TV screen featured on the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) stage, and may or may not be the same model.
 
-## Early Concepts / Predecessors (1987-2019) ##
+<h2> Early Concepts / Predecessors (1987-2019) </h2>
 A concept of a video wall put into Chuck E. Cheese's restaurants first originated back in 1987. In pages 14 and 15 of the 1987 ShowBiz Pizza Time, Inc. Project Status Report (Entertainment '87), it discusses an idea for a video wall. Part of a project titled 'Surprises', the 1987 video wall concept consisted of a bank of 9 to 26 inch video monitors which would play tape footage or a live camera.<ref>https://showbizpizza.com/info/documents/spt/spt_87entertainment.pdf</ref> The cost of a prototype would've been $41,000, which would be around $112,001.46 today in 2024. This would've reduced prominence to the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) that SPT was installing in Chuck E. Cheese's restaurants at the time. This would be the first time that CEC would not put the spotlight on animatronics as the main entertainment. But the 1987 video wall concept seemed to have not gone past the planning stages, as it was never installed in a Showbiz Pizza Place location nor a Chuck E. Cheese's location.
 
 The video wall concept would be revisited in 1996, and would be visually integrated into the short-lived [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) test show at [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}), with the design of two large video monitors and the left and right stages along with an animatronic. This was the first time a video screen-esque setup show was integrated onto a CEC stage. But the AAM test show was scrapped by late 1997, marking the end of a video screen in locations for now.
@@ -34,12 +35,12 @@ In August 2019, [Philadelphia, PA (9175 Roosevelt Blvd)]({{< ref "wiki/Philadelp
 
 In October 2019, [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}) replaced its [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) during their fall 2019 2.0 remodel with 2 small TV's on the 3-Stage's former spot, along with 2 character bio posters of Chuck E. Cheese and Helen Henny near them. This setup was more of a TV wall than an actual Video Wall. This would be seen as mediocre by many due to only having the art of 2 characters in the area and then having two screens between. However, the lackluster setup was fixed when Mobile received the Video Wall in June 2023.
 
-## Now (2021-present) ##
+<h2> Now (2021-present) </h2>
 Finally, in March 2021, the finalized 2.0 video wall made its debut at the remodeled [Manassas, VA]({{< ref "wiki/Manassas, VA (7730 Stream Walk Ln).md" >}}) location, after 34 years of early ideas and predecessors.
 
 When 2.0 Remodels started being installed, the only TV's in the store were the 6 small TV's mounted on the ceiling directly above the Dance Floor. This would change in 2021 when 2.0 Remodels were updated to include a large screen embedded into the wall where the character biographies are seen.
 
-## Current Video Walls ##
+<h2> Current Video Walls </h2>
 Note: Contains only confirmed installations, and may not be in order.
 {| class='wikitable'
 |+

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-31T18:05:13Z
 
 [Article]
+pageThumbnailFile = "Towsonoutside.jpg|Exterior 2005"
 contributors = ["Sptparole","Documentor","Rexburg090","ShowbizMidwest","RedaCEC","GainerXO","ThatBoiCydalan","Cecriva","2607:FB91:8A6:D919:7D27:566B:4E8B:D39B","Tux Chuck","AnthonyRWikis7283","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Towsonoutside.jpg|desc=Exterior 2005}}
-**_Towson, MD (809 Goucher Blvd)**_ **_Store #79**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf</ref> was a _Chuck E. Cheese's_ located in Towson, Maryland, in a plaza next to Towson Place.
+
+<b><i>Towson, MD (809 Goucher Blvd)</b></i> <b><i>Store #79</b></i><ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf</ref> was a <i>Chuck E. Cheese's</i> located in Towson, Maryland, in a plaza next to Towson Place.
 
 The location opened its doors as a Chuck E. Cheese’s Pizza location in August 1993 (Date Unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and closed in Spring 2007 (Month & Date currently unknown). 
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |+
 !Stage
@@ -25,10 +26,10 @@ The location opened its doors as a Chuck E. Cheese’s Pizza location in August 
 |Spring 2007
 |}
 
-##History##
+<h2>History</h2>
 The Towson Location opened sometime around August 1993 with the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) (One of three installed in Maryland, the other being in [Bel Air]({{< ref "wiki/Bel Air, MD (5 Bel Air South Pkwy).md" >}}) & [Waldorf]({{< ref "wiki/Waldorf, MD (2928 Festival Way).md" >}})) with side curtains, a green valance (normally black on 1-Stages), and the 1993 Remodel. The store stayed opened up until around Spring 2007 (Month & Date currently unknown); Keeping the 1993 Remodel the [1-Stage]({{< ref "wiki/1-Stage.md" >}}). The store closed its doors for their final time before the shopping center was demolished and rebuilt months after the location closed.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -46,7 +47,7 @@ The Towson Location opened sometime around August 1993 with the [1-Stage]({{< re
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 ! Animatronic
@@ -78,5 +79,5 @@ The Towson Location opened sometime around August 1993 with the [1-Stage]({{< re
 |1992-1993
 |Unknown 
 |}
-##References##
+<h2>References</h2>
 <references />

@@ -18,14 +18,14 @@ gallery = []
 | laseraam = y
 }}
 
-**_Get Ready**_ is a live show released on April 1st, 1997.
+<b><i>Get Ready</b></i> is a live show released on April 1st, 1997.
 
 This show ran from April 1997 - July 1997.
 
-##Summary##
+<h2>Summary</h2>
 The live show begins with an announcer introducing Chuck E. Cheese following up with Chuck E. Cheese singing [https://en.wikipedia.org/wiki/Get_Ready_(The_Temptations_song) 'Get Ready'] the show ends with audience participation followed by Chuck E. Cheese saying he'll be back in a little while
 
-##Showtape Releases##
+<h2>Showtape Releases</h2>
 {| class='wikitable'
 !Release Year
 !Showtape

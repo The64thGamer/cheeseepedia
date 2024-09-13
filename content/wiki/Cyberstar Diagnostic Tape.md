@@ -12,12 +12,12 @@ gallery = []
 |date=1988
 |image=Cyberstardiagnosticsthumbnail.png|showbizbetamax=y|length=1:21:25}}
 
-The **_Cyberstar Diagnostic Tape**_ (AKA **_Cyberstar Character Adjust Tape**_) is a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1988.
+The <b><i>Cyberstar Diagnostic Tape</b></i> (AKA <b><i>Cyberstar Character Adjust Tape</b></i>) is a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1988.
 
 One rip of the tape is dated 1986, despite the Cyberstar name not being coined until 1988. It is unclear if this 1986 tape has the 'Cyberstar' name on it, or if the 1988 version was merely a rerelease.<ref>https://youtu.be/u__HQ2SXR-8</ref>
 
-##Show List##
-#**Segment 1**
+<h2>Show List</h2>
+#<b>Segment 1</b>
 ##BILLY BOB & LOONEY BIRD
 ##MITZI MOZZARELLA
 ##BEACH BEAR
@@ -26,7 +26,7 @@ One rip of the tape is dated 1986, despite the Cyberstar name not being coined u
 ##ROLFE DE WOLFE & EARL SCHMERLE
 ##PROPS
 ##LIGHTS
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>
 
 
-## References ##
+<h2> References </h2>

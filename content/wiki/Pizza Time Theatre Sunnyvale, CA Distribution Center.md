@@ -12,4 +12,4 @@ TODO:
 
 914 Caribbean Drive, Sunnyvale, CA<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf</ref>
 
-## Refrences ##
+<h2> Refrences </h2>

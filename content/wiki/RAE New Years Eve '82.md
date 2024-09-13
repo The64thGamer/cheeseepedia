@@ -12,35 +12,35 @@ gallery = []
 |date=December 1982
 |showbizreel=y|image=Newyears82thumbnail.png}}
 
-**_New Years Eve '82**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
+<b><i>New Years Eve '82</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
 
-##Show List##
-#**Segment 1**
-##_New Years Intro Skit_
-##_Satisfaction Medley_
-###_I Can't Get No Satisfaction_
-###_For Your Love_
-###_Born To Be Wild_
-#**Segment 2**
-##_Earl Lang Xyme Skit_
-##_Tomorrow_
-###_Tomorrow_
-###_Maybe_
-#**Segment 3**
-##_Rock-afire Resolutions Skit_
-##_Abbey Road Medley_
-###_You Never Give Me Your Money_
-###_Sun King_
-###_Mean Mr. Mustard_
-###_Polythene Pam_
-###_She Came In Through The Bathroom Window_
-###_Golden Slumbers_
-###_Carry That Weight_
-###_The End_
-###_Her Majesty_
-#**Segment 4**
-##_When the Saints Go Marching In_
-##_Banana Hill_ (Live)
-##_Mitzi's Joke_
-##_Old Lang Xyme_
-##_Music Goes Round and Round_
+<h2>Show List</h2>
+#<b>Segment 1</b>
+##<i>New Years Intro Skit</i>
+##<i>Satisfaction Medley</i>
+###<i>I Can't Get No Satisfaction</i>
+###<i>For Your Love</i>
+###<i>Born To Be Wild</i>
+#<b>Segment 2</b>
+##<i>Earl Lang Xyme Skit</i>
+##<i>Tomorrow</i>
+###<i>Tomorrow</i>
+###<i>Maybe</i>
+#<b>Segment 3</b>
+##<i>Rock-afire Resolutions Skit</i>
+##<i>Abbey Road Medley</i>
+###<i>You Never Give Me Your Money</i>
+###<i>Sun King</i>
+###<i>Mean Mr. Mustard</i>
+###<i>Polythene Pam</i>
+###<i>She Came In Through The Bathroom Window</i>
+###<i>Golden Slumbers</i>
+###<i>Carry That Weight</i>
+###<i>The End</i>
+###<i>Her Majesty</i>
+#<b>Segment 4</b>
+##<i>When the Saints Go Marching In</i>
+##<i>Banana Hill</i> (Live)
+##<i>Mitzi's Joke</i>
+##<i>Old Lang Xyme</i>
+##<i>Music Goes Round and Round</i>

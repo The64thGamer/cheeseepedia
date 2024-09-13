@@ -5,16 +5,17 @@ tags = []
 date = 2022-12-08T21:46:21Z
 
 [Article]
+pageThumbnailFile = "Jan 2000 floppy files.png|Files from the January 2000 Floppy Disk"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-{{Generic|image=Jan 2000 floppy files.png|desc=Files from the January 2000 Floppy Disk}}
 
-The **_Studio C File Formats**_ are a collection of different files found in the [Studio C Floppy Disk]({{< ref "wiki/Studio C 3x DVD + Floppy.md" >}}) that are used for showtape signals and playback for [Studio C]({{< ref "wiki/Studio C.md" >}}).
+
+The <b><i>Studio C File Formats</b></i> are a collection of different files found in the [Studio C Floppy Disk]({{< ref "wiki/Studio C 3x DVD + Floppy.md" >}}) that are used for showtape signals and playback for [Studio C]({{< ref "wiki/Studio C.md" >}}).
 
 Files usually must be extracted by running a .exe file embedded in the floppy disk.
 
-## .CEC ##
+<h2> .CEC </h2>
 This file type contains control data for show segments. TODO more info on overall format.
 {| class='wikitable'
 |+CEC control commands
@@ -81,12 +82,12 @@ Digital channel commands are encoded into a printable ASCII range of 0x30~0x3F (
 |Channel number within bank
 |}
 
-## .CCF ##
-Always named **CYBRSTAR.CCF** and also referred to as an 'MBP command file' and a 'Synhorst MCF file' (meanings unknown), this file defines subroutines that can be called from the show segment's CEC file. The subroutines are themselves abstractions around primitive functions provided by the main Cyberstar 2000 application. [To put into programming terms, what Cyberstar 2000 exposes to CCFs is akin to a standard library, the CCF files themselves are like a library written for developers' convenience, and the CEC files are the final application.][Maybe this is a poor comparison? Is it insane to compare CCFs to a bytecode VM?]
+<h2> .CCF </h2>
+Always named <b>CYBRSTAR.CCF</b> and also referred to as an 'MBP command file' and a 'Synhorst MCF file' (meanings unknown), this file defines subroutines that can be called from the show segment's CEC file. The subroutines are themselves abstractions around primitive functions provided by the main Cyberstar 2000 application. [To put into programming terms, what Cyberstar 2000 exposes to CCFs is akin to a standard library, the CCF files themselves are like a library written for developers' convenience, and the CEC files are the final application.][Maybe this is a poor comparison? Is it insane to compare CCFs to a bytecode VM?]
 
 As a practical example, the CEC file for a particular show will contain a call to a CCF subroutine to set up the LDP. This CCF subroutine would accept parameters for the LDP number and location on the disc. It would then use those parameters to call basic functions in Cyberstar 2000 to send serial commands to the LDP and set the LDP search flag.
 
-CCF files can be edited using the **EED.EXE** application.
+CCF files can be edited using the <b>EED.EXE</b> application.
 {| class='wikitable'
 |+CCF instruction format
 !Offset (hex)
@@ -328,7 +329,7 @@ TODO: document CCF string table
 |
 |}
 
-## DPC50 communication ##
+<h2> DPC50 communication </h2>
 Communication with the DPC50 board occurs through dual-port RAM. Overall comms structure appears to be based around updating a block of data and then writing a command. Further analysis is required to determine if there is any kind of mutex locking taking place.
 {| class='wikitable'
 |+DPC50 shared memory map

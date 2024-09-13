@@ -19,38 +19,38 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |r1293=y
 |credit1= Robert Gotcher - Director |credit2= Michael Hill - Production Coordinator |credit3= Ryan Hollingsworth - Production Specialist}} 
 
-**Summertime 2006** was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with intermission changes.
+<b>Summertime 2006</b> was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with intermission changes.
 
-## Show List: ##
-#**Segment 1** 
+<h2> Show List: </h2>
+#<b>Segment 1</b> 
 ## 'Summertime Groove'
-## 'Fishin_
-#**Intermission 1** 
+## 'Fishin''
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Blender'
 ##Wildlife
 ##Coke Groove
 ## Countdown
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##CEC TV ID - 'Janitor'
 ##  Arthur's Missing Pal DVD Promo
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
 ##Countdown
-#**Segment 3** 
+#<b>Segment 3</b> 
 ## 'Baseball Diamond Dreams'
-## 'Dog Jammin_
-# **Intermission 3** 
+## 'Dog Jammin''
+# <b>Intermission 3</b> 
 ##Super Jasper - 'One Token'
 ##CEC TV ID - 'Stars'
 ##Coke Groove
 ## Countdown
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Cinemark Summer Movie Clubhouse Spot
 ## Saving Shiloh DVD Promo
 ##CEC TV ID - 'Haircut'
@@ -58,7 +58,7 @@ gallery = ["New Graphic.png","New Graphic.png"]
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
 
-## Lives: ##
+<h2> Lives: </h2>
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}) (3stage, Cyberamic, Studio C)
 * Spanish Birthday 01 (3stage, Cyberamic, Studio C)
 * New Birthday (3stage, Cyberamic, Studio C)
@@ -71,7 +71,7 @@ gallery = ["New Graphic.png","New Graphic.png"]
 * If You're Happy & You Know It (3stage, Cyberamic, Studio C)
 * Go Santa Go (Studio C)
 
-**Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
 No USA Version - The Stand Alone Song, 'America', and the 2005 Military Montage intermission do not appear in this show due to some sort of 'controversy' about the subject matter.
 

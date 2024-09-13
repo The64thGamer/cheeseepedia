@@ -9,11 +9,11 @@ contributors = ["ShowbizMidwest","BurgersNuggs445"]
 gallery = ["OIP.jpg|thumb|240x179px|The Studio C 3-Stage/Beta 16M 3-Stage in Darien, IL."]
 +++
 
-The **_Studio C 3-Stage**_, or better known as the **_Studio 3**_, is the stage setup found at the Darien, IL and Chicago (Kedzie), IL locations.
+The <b><i>Studio C 3-Stage</b></i>, or better known as the <b><i>Studio 3</b></i>, is the stage setup found at the Darien, IL and Chicago (Kedzie), IL locations.
 
-## History ##
+<h2> History </h2>
 
 
-## Design ##
+<h2> Design </h2>
 
 

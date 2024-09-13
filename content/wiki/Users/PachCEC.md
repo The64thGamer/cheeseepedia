@@ -10,27 +10,27 @@ gallery = ["PachCEC Logo.jpg|thumb","Lake of Bays sunset.jpg|thumb|Sunset on the
 +++
 <blockquote>“We’re glad to have you here, Pach!”  - Literally no one ever in the whole entire universe</blockquote>
 
-## What’s up cool kids! ##
+<h2> What’s up cool kids! </h2>
  What’s up? I’m Pach. I like adding pictures and adding info  
 of locations. My favourite CEC era is Tux Chuck.
 
-###### PLEASE TALK ABOUT ME IN THE DISCUSSION TAB!I love hearing constructive criticism and hearing what you all think of me. Please just keep it family-friendly and respectful. ######
+<h2>=</h2>= PLEASE TALK ABOUT ME IN THE DISCUSSION TAB!I love hearing constructive criticism and hearing what you all think of me. Please just keep it family-friendly and respectful. <h2>=</h2>=
 
-## Where am I from? ##
+<h2> Where am I from? </h2>
 I was born in the Muskoka area of Ontario, Canada. My family and I moved to Maryland in 2015. I love both of my homelands dearly. Here’s a picture right on the Lake of Bays, a 5 minute walk from my Canadian home. My ancestry is Croatian! Go Hrvatska!
 
-## When was I born? ##
+<h2> When was I born? </h2>
 I was born on November 20, 2006. I am 17 years old and a Senior in High School
 
-## What do I do for a living, What are my hobbies? ##
+<h2> What do I do for a living, What are my hobbies? </h2>
 I work at the Chuck E. Cheese in <nowiki>REDACTED</nowiki> and I play AA hockey. I hope to be a Catholic Priest one day and I LOVE all things Chuck E. Cheese’s!
 
-## I forgot what I was gonna say… ##
+<h2> I forgot what I was gonna say… </h2>
 Uhh, I’ll remember later.
 
 Oh yeah, now I remember.
 
-## Locations I have visited ##
+<h2> Locations I have visited </h2>
 [Silver Spring, MD (13807 Outlet Dr)]({{< ref "wiki/Silver Spring, MD (13807 Outlet Dr).md" >}})
 
 [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}})
@@ -47,7 +47,7 @@ Oh yeah, now I remember.
 
 [Alexandria, VA (6301 Richmond Hwy)]({{< ref "wiki/Alexandria, VA (6301 Richmond Hwy).md" >}}) (i think im not sure)
 
-## Pages I have created/contributed to greatly ##
+<h2> Pages I have created/contributed to greatly </h2>
 [Silver Spring, MD (13807 Outlet Dr)]({{< ref "wiki/Silver Spring, MD (13807 Outlet Dr).md" >}})
 
 [Largo, MD (1100 Shoppers Way)]({{< ref "wiki/Largo, MD (1100 Shoppers Way).md" >}})
@@ -58,7 +58,7 @@ Oh yeah, now I remember.
 
 [San Salvador, ES (503 Carretera Panamericana)]({{< ref "wiki/San Salvador, ES (503 Carretera Panamericana).md" >}})
 
-## General Announcement ##
+<h2> General Announcement </h2>
 Uhh, hey. I think I speak for all the fandom when I say we gotta stop the complete banter, toxicity and um…NSFW stuff?? To say the least. Believe it or not, it’s kinda frowned upon. Let’s make our fandom the “best of the band!” and have it stand out as a beacon of unity and friendship.
  a
 

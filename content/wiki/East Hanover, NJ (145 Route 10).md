@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-06-25T18:50:37Z
 
 [Article]
+pageThumbnailFile = "2.0 East Hanover.jpg|2.0 of Exterior"
 contributors = ["47.17.236.200","CorrectorMan","Cecnj98","CEC New Jersey","Tux Chuck","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=2.0 East Hanover.jpg|desc=2.0 of Exterior}}
-**_145 Route 10**_ is a _Chuck E. Cheese_ that opened on October 31, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day as a 2.0.
 
-## History ##
+<b><i>145 Route 10</b></i> is a <i>Chuck E. Cheese</i> that opened on October 31, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day as a 2.0.
+
+<h2> History </h2>
 
 The building East Hanover occupies was built in 1993 as a two floor multi-store complex building and a parking garage directly behind it. The second floor, unlike the first, has two sides separated by a wall which can be accessed by elevators on both sides of the building (and post 2009, inside the Chuck E Cheese). The AMC Theater next to it was the first store to open in that little plaza in December 1993 and stores opened in the building afterward. The CEC opened as Chuck E. Cheese's Pizza on October 31, 1994, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Due to New Jersey's gambling laws, there weren't any ticket redemption for game. According to a former employee, East Hanover had Helen and Jasper walkarounds in the 90's.  
 
@@ -21,7 +22,7 @@ It was planned to get a Circles of Lights stage in the mid 2010's similar to Edi
 
 Starting in October 2022, the location received the 2.0 remodel, removing the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) for a Dance Floor and Video Wall. As of August 2023, East Hanover remains like this. 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -43,7 +44,7 @@ Starting in October 2022, the location received the 2.0 remodel, removing the [1
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

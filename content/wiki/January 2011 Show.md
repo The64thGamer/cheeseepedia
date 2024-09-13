@@ -17,19 +17,19 @@ gallery = []
 |dvdcyber=y
 }}
 
-**January 2011** is the winter/spring show released January 2011 and featured eight new songs.
+<b>January 2011</b> is the winter/spring show released January 2011 and featured eight new songs.
 
 The show played from January 2011 - April 2011.
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##Chillout 1
 ##Ladies & Gentlemen It's Showtime!
-#**Segment 1**
+#<b>Segment 1</b>
 ##'Party In The USA'
 ##'Dancin' In The Sun'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Backstage Pass - 'Cody Simpson'
 ##Fun Facts - 'Sound Travels Faster in Water'
 ## CEC TV ID - 'CEC TV Watching a Movie'
@@ -42,10 +42,10 @@ The show played from January 2011 - April 2011.
 ##CEC TV ID - 'Chuck Skateboarding'
 ##Chillout 2
 ##Ladies & Gentlemen It's Showtime!
-#**Segment 2** 
+#<b>Segment 2</b> 
 ##'Perfect Day'
 ##'Imagination'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##Fun Facts - 'Starfish Don't Have Brains'
 ##CEC TV ID - 'Sunrise'
 ## Wow Wow Wubbzy! - 'All Bottled Up'
@@ -56,10 +56,10 @@ The show played from January 2011 - April 2011.
 ## Shout Factory! - 'Leave It To Beaver'
 ##Chillout 3
 ##Ladies & Gentlemen It's Showtime!
-#**Segment 3**
+#<b>Segment 3</b>
 ##'1,2,3,4'
 ## 'Cleaning Up My Room'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##CEC TV ID - 'Janitor'
 ## Yo Gabba Gabba!
 ##The Zone - 'Racing'
@@ -72,10 +72,10 @@ The show played from January 2011 - April 2011.
 ##VeggieTales - 'Silly Songs with Larry'
 ##Chillout 4
 ##Ladies & Gentlemen It's Showtime!
-#**Segment 4**
+#<b>Segment 4</b>
 ##'Baby'
 ##'On The Brightside'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Trivia - 'Giant Pandas'
 ##Animal Atlas - 'Animal Passport'
 ## Fun Facts - 'Cricket Ears'
@@ -85,7 +85,7 @@ The show played from January 2011 - April 2011.
 ## Wow Wow Wubbzy! -
 ## 'All Bottled Up' The Zone - 'Snowboarding'
 
-##Lives##
+<h2>Lives</h2>
 
 *Birthday 2009 (3stage, Cyberamic, Studio C)
 *Chuck E. Says (3stage, Cyberamic, Studio C)
@@ -98,10 +98,10 @@ The show played from January 2011 - April 2011.
 *Story Time with Chuck E. (3stage, Cyberamic, Studio C)
 *Dancin' (All Night Long) (3stage, Cyberamic, Studio C)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:## 
+<h2>Trivia:</h2> 
 
 *This is the first show to feature the 'Ladies & Gentlemen It's Showtime!' intro. The intro was programmed for the next and subsequent showtapes, and is based on the  '[https://en.wikipedia.org/wiki/Saturday_Night_Live Saturday Night Live]' intro,
 *The start of Segment 1 references the song 'Party Place', originally from [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}})

@@ -8,7 +8,7 @@ date = 2023-03-21T02:39:08Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Cylinder Rebuilding ##
+<h2> Cylinder Rebuilding </h2>
 An official procedure for cylinder rebuilding is documented in the ShowBiz Pizza Place Operations Manual from 1981.<blockquote>
 # Remove front or rear face of cylinder
 # Remove piston

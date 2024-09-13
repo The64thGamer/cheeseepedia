@@ -44,12 +44,12 @@ INCLUDES: SELECTED CUT
 
 'Every Boy, Every Girl'}}
 
-**_It's Chuck E. Time!**_ was a prototype toy created in 1997 by _Streets Player Holdings Corporation_. There are only two known prototype units to exist. 
+<b><i>It's Chuck E. Time!</b></i> was a prototype toy created in 1997 by <i>Streets Player Holdings Corporation</i>. There are only two known prototype units to exist. 
 
-## Cassette ##
-Featured in the prototype is a rerelease of the [Chuck E. Cheese's Awesome Tune Tracks]({{< ref "wiki/Chuck E Cheese's Awesome Tune Tracks.md" >}}) cassette with some cut songs_._ Removed from this release is _Hokey Pokey - Brave Combo, Chuck E.'s Fiesta Mexicana, Turn The Beat Around, Walk Like An Egyptian,_ and _Macarena._ With a new addition of _Every Boy, Every Girl._
+<h2> Cassette </h2>
+Featured in the prototype is a rerelease of the [Chuck E. Cheese's Awesome Tune Tracks]({{< ref "wiki/Chuck E Cheese's Awesome Tune Tracks.md" >}}) cassette with some cut songs<i>.</i> Removed from this release is <i>Hokey Pokey - Brave Combo, Chuck E.'s Fiesta Mexicana, Turn The Beat Around, Walk Like An Egyptian,</i> and <i>Macarena.</i> With a new addition of <i>Every Boy, Every Girl.</i>
 
-**Cassette List**
+<b>Cassette List</b>
 
 * 'It's a Jungle Out There'
 * 'Chuck E. Says'

@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-06-25T18:22:44Z
 
 [Article]
+pageThumbnailFile = "PIC 1350.jpeg|Location’s exterior before getting demolished (PC: CyberstarChuck)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:8DCA:CD64:28F2:3E21","CEC Tinley","ChuckECool","JND","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=PIC 1350.jpeg|desc=Location’s exterior before getting demolished (PC: CyberstarChuck)}}
-**_310 Fletcher Pkwy**_ was a _Pizza Time Theatre_ in El Cajon, California. The store opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in July 1993 (Possibly a few weeks or so before La Mesa's opening) with a Chuck E.'s House Facade (Chuck E.'s House Facade (C-Stage)).
+
+<b><i>310 Fletcher Pkwy</b></i> was a <i>Pizza Time Theatre</i> in El Cajon, California. The store opened in May 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in July 1993 (Possibly a few weeks or so before La Mesa's opening) with a Chuck E.'s House Facade (Chuck E.'s House Facade (C-Stage)).
 
 It's possible that this store relocated to [La Mesa, CA (5500 Grossmont Center Dr)]({{< ref "wiki/La Mesa, CA (5500 Grossmont Center Dr).md" >}}) which is about 10 minutes away from the location.
 
-## History ##
+<h2> History </h2>
 El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Foods Space with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) as a franchised location. This was one of many installed in California and was the 2nd or 3rd Pizza Time Theatre to open in the San Diego area. On October 22nd, 1984, El Cajon was bought out by Corporate along with 50 other locations. El Cajon then received the 1988 Remodel in 1989-1990 converting the Balcony Stage to a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}), added Blue and White awnings, removed older decor for newer decor, and checkers. The store would remain this way until they closed sometime in 1993 (Possibly around July as the store is not that far from La Mesa and was in the same area). Sometime after that, the store was gutted and became part of the expansion of the neighboring Kmart store which would remain open until 2004 when it closed. Not long after it closed, the building was demolished for a Home Depot which opened around 2005-2006. Currently, as of May 2023, Home Depot still sits on the site and is still open to this day.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Intalled
@@ -34,7 +35,7 @@ El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Food
 |One of many installed in California.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

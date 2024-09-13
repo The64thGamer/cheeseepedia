@@ -8,21 +8,21 @@ date = 2023-12-28T18:14:01Z
 contributors = ["GallaRBX2","The 64th Gamer"]
 gallery = []
 +++
-{{Animatronic|image=Interactive Bird.jpg|releasedate=1998|finalrelease=1998|manufacturer=Creative Engineering|unitsProduced=2}}
 
-The **_Looney Bird Interactive Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the Marvelously Interactive Animation show in 1998
 
-## History ##
+The <b><i>Looney Bird Interactive Mijjin</b></i> was an animatronic produced by <i>Creative Engineering Inc.</i> for the Marvelously Interactive Animation show in 1998
+
+<h2> History </h2>
 This character was produced in 1998 for the Marvelously Interactive Animation show.
 
 It is unknown where CEI sourced the mech for the bot used on the Marvelously Interactive Animation show, but it's possibly a Billy Bob.
 
 The backup Looney Bird uses a Lite stage Billy Bob mech
 
-## Design ##
+<h2> Design </h2>
 This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
 
-## Movements ##
+<h2> Movements </h2>
 All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 
 Unlike the Looney Bird Labratory bot, this bot has all standard movements.
@@ -115,5 +115,5 @@ This character is suspected to run off of NRAE Mitzi bits.
 
 
 
-## References ##
+<h2> References </h2>
 <references />

@@ -18,51 +18,51 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 4 2016**_ released May 23th 2016 featuring four songs
+<b><i>Chuck E. Cheese's Show 4 2016</b></i> released May 23th 2016 featuring four songs
 
 This was created to play from May 23th, 2016 - June 26th, 2016. This show features five songs and one new programmed promo.  
 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Silento - 'Watch Me (Whip/Nae Nae)'
 ## CEC Promo - 'Buffet'
 ## Chef Gregory Video Part 1 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'In The Future'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Demi Lovato - 'Let It Go'
 ## Chef Gregory Video Part 2
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Happy Birthday, Helen
-#  **Intermission 3**
+#  <b>Intermission 3</b>
 ## One Direction - 'History'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Mr. Munch - 'Nobody Knows'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Coldplay - 'Adventure of a Lifetime'
 ## CEC Sketch - 'Pizza Plant'
 ## Josh & The Jamtones - 'Bear Hunt'
 ## Walk The Moon - 'Different Colors'
 ## CEC Promo - 'Birthdays'
 ## Caspar Babypants - 'I Found You'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Jasper T. Jowls - 'Arizona'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Sigala - 'Easy Love'
 ## Josh & The Jamtones - 'Sloop John B'
 
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Helen - 'Gamin' Time'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Chuck E. Cheese Food Truck Video
 ## CEC Sketch - Jokes From Pasqually - 'Monkeys'
 ## Caspar Babypants - 'Bird in an Airplane Suit'
 ## Carly Rae Jepson - 'I Really Like You'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Friends - 'Party With You'
 
-##Lives:##
+<h2>Lives:</h2>
 
 *Chuck E. Birthday 2016 (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -74,10 +74,10 @@ This was created to play from May 23th, 2016 - June 26th, 2016. This show featur
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head Shoulders Knees Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 *Happy Birthday, Helen reuses Dialogue from 'Gamin' Time' when she says 'Thanks, Chuck E.'
 *'In The Future' is originally from Chuck E. Cheese's Show 2 2015 (Show 2 2015), 'Nobody Knows' is originally from [Summer 2014]({{< ref "wiki/July 2014 Show.md" >}}), 'Arizona' is originally from [Summer 2014]({{< ref "wiki/July 2014 Show.md" >}}), 'Gamin' Time' is originally from Chuck E. Cheese's Show 3 2016 (Show 3 2016), and 'Party With You' is originally from Chuck E. Cheese's Winter 2015 (Winter 2015)

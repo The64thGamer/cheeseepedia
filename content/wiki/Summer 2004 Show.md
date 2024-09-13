@@ -17,42 +17,42 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293=y
 |credit1= Robert Gotcher - Director |credit2= Matt Daniel - Production Coordinator, VJ |credit3= Ryan Hollingsworth - Production Specialist, Hank Howdy}} 
 
-**Summer 2004 Show** was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with new and revised intermissions.
+<b>Summer 2004 Show</b> was a rerelease of [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}) with new and revised intermissions.
 
-## Show List: ##
-#**Segment 1** 
+<h2> Show List: </h2>
+#<b>Segment 1</b> 
 ## 'Summertime Groove'
-## 'Fishin_
-#**Intermission 1** 
+## 'Fishin''
+#<b>Intermission 1</b> 
 ##  Summer of Fun VJ Spot
 ##CEC TV ID - 'Blender'
 ##Wildlife
 ##Coke Groove
 ## Countdown
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##  Summer of Fun VJ Spot
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Rocket Racer'
 ## Kool-Aid Spot
 ##Countdown
-#**Segment 3** 
+#<b>Segment 3</b> 
 ## 'Baseball Diamond Dreams'
-## 'Dog Jammin_
-# **Intermission 3** 
+## 'Dog Jammin''
+# <b>Intermission 3</b> 
 ## Summer of Fun VJ Spot
 ##Super Jasper - 'One Token'
 ##'America'
 ##CEC TV ID - 'Stars'
 ##Coke Groove
 ## Countdown
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Cinemark Summer Movie Clubhouse Spot
 ## Summer of Fun VJ Spot
 ##CEC TV ID - 'Haircut'
@@ -60,8 +60,8 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
@@ -75,5 +75,5 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * If You're Happy and You Know It
 * Go Santa Go
 
-**Birthday Break**: April 2004 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
-##Showtape Scans / Images:##
+<b>Birthday Break</b>: April 2004 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<h2>Showtape Scans / Images:</h2>

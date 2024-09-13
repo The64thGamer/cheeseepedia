@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-07-29T18:12:31Z
 
 [Article]
+pageThumbnailFile = "Oremthumbnail.png|Exterior, 2016"
 contributors = ["ShowbizMidwest","The 64th Gamer","Rexburg090","Bombocec","CorrectorMan","174.131.44.53","Ceclife13","ThatBoiCydalan","Cheeseclassic","Cheeseslicez"]
 gallery = []
 +++
-{{NoSources}}{{Generic|image=Oremthumbnail.png|desc=Exterior, 2016}}
 
-**_40 E Center St, Store #2034**_ was a _Chuck E. Cheese's_ that opened on August 31, 1983, as a _ShowBiz Pizza Place_ with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which closed on July 30, 2017, as a _Chuck E. Cheese's_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
-##Stages##
+
+<b><i>40 E Center St, Store #2034</b></i> was a <i>Chuck E. Cheese's</i> that opened on August 31, 1983, as a <i>ShowBiz Pizza Place</i> with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which closed on July 30, 2017, as a <i>Chuck E. Cheese's</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+<h2>Stages</h2>
 Orem opened with the Rock-afire Explosion in 1983. Unfortunately, there are no photos or videos to exist of Orem with the Rock afire, or as a ShowBiz in general. 
 
 In June 1991, Orem received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock-afire into Munch’s Make Believe Band, which they would keep until closure in 2017.
@@ -38,14 +39,14 @@ In 2015, the condition of the stage had gotten worse. Pasqually barely moved, an
 |July 2017
 |}
 
-##Post Closure##
+<h2>Post Closure</h2>
 In 2017, it was announced the Orem store would be closing after 34 years of operation. The owner was fighting cancer, and there was also mold all over the walls in the storage rooms. On July 30, 2017, Orem closed its doors for the final time. However, for their stage, that wouldn’t be the end.
 
 The owners of the [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}), and [Fargo, ND]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}}) locations ultimately ended up purchasing Orem’s show. Chuck E., Munch, Jasper, and Pasqually were sent to Billings, and Helen, Building, and Moon were sent to Fargo. Billings still uses the three characters they recieved for parts to this day, whereas Fargo no longer has their 3-Stage, and the Orem characters they had were saved by a collector.
 
 The building would be completely gutted and turned into Downeast Home & Clothing, which still operates to this day.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -69,7 +70,7 @@ The building would be completely gutted and turned into Downeast Home & Clothing
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Character
@@ -125,4 +126,4 @@ The building would be completely gutted and turned into Downeast Home & Clothing
 |Unknown/Destroyed
 |}
 
-##References##
+<h2>References</h2>

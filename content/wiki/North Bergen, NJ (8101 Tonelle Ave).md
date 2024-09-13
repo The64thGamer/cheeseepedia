@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-03T19:20:39Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior before 2.0 with 1992 checkers and 2005 signage and awnings (4/15/2022) (PC: RetailRyan on Flickr)|image=52014556816 5726f526b9 4k.jpg"
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Steven 'CEC' Master","BurgersNuggs445","ThatBoiCydalan","Cecnj98","Cheeseclassic","The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|desc=Exterior before 2.0 with 1992 checkers and 2005 signage and awnings (4/15/2022) (PC: RetailRyan on Flickr)|image=52014556816 5726f526b9 4k.jpg}}
 
-**_8101 Tonelle Ave, Store #485**_ was a Chuck E. Cheese's Pizza that opened on December 20, 1993 with a 1-Stage, which is still open to this day.
+
+<b><i>8101 Tonelle Ave, Store #485</b></i> was a Chuck E. Cheese's Pizza that opened on December 20, 1993 with a 1-Stage, which is still open to this day.
 
 The location started their 2.0 Remodel in October 2022, removing the 1-Stage, along with Edison (which has already removed the stage), East Hanover (also a 1-Stage), and Wayne (Last Road Stage in New Jersey), for a Dance Floor. The Grand Reopening occurred on December 20th, 2022.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) which included checkers around the store and a 1-Stage show. North Bergen would receive the CEC 2005 Remodel in 2008, however their exterior still included checkers. They would have the 1-Stage for 28 years and 9 months, until October 2022, when they would start the 2.0 Remodel.
 
 {| class='wikitable'
@@ -36,7 +37,7 @@ Originally when the store opened, they had the [SPT 1992 Remodel Program]({{< re
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronics
 !Manufacturing Date

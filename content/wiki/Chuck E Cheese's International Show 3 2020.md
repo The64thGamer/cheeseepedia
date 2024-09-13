@@ -15,31 +15,31 @@ gallery = []
 |studiochd=y
 |dvdcyber=y}}
 
-**_Chuck E. Cheese's International Show 3 2020**_  is the Halloween show released in September 2020, featuring 5 songs.
+<b><i>Chuck E. Cheese's International Show 3 2020</b></i>  is the Halloween show released in September 2020, featuring 5 songs.
 
 This show played from September - November 2020.
 
 Most Chuck E. Cheese's stores were closed due to restrictions caused by the COVID-19 pandemic. As a result, very few stores (if any) played this show.
 
-## Show List: ##
+<h2> Show List: </h2>
 It is currently unknown the order of the skits in this show, though the skits themselves are known
 
-**Skit 1**
+<b>Skit 1</b>
 
 CEC Music Video - 'I Didn't Need to be Afraid'
 
-**Skit 2**
+<b>Skit 2</b>
 
 CEC Music Video - 'Be Yourself'
 
-**Skit 3**
+<b>Skit 3</b>
 
 CEC Music Video - 'Nobody There'
 
-**Skit 4**
+<b>Skit 4</b>
 
 CEC Music Video - 'Sammy the Skateboarding Skeleton'
 
-**Skit 5** 
+<b>Skit 5</b> 
 
-CEC Music Video - _Pumpkin Patch'
+CEC Music Video - ''Pumpkin Patch'

@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-04-20T14:47:44Z
 
 [Article]
+pageThumbnailFile = "desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png"
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png}}
 
-**_3345 Harvester Rd**_ was a Chuck E. Cheese's Pizza Time Theatre (Chuck E. Cheese's _Pizza Time Theatre_) that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+
+<b><i>3345 Harvester Rd</b></i> was a Chuck E. Cheese's Pizza Time Theatre (Chuck E. Cheese's <i>Pizza Time Theatre</i>) that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland, Australia]({{< ref "wiki/Surfer's Paradise, Queensland, Australia.md" >}}), which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
-##History##
+<h2>History</h2>
 Burlington opened on October 15th 1981 as the second international location and first CEC/PTT location in Canada. Unfortunately, there is hardly any information as there are only 2 photos in existence, the arcade games (interior is partial), and the exterior. We do know they had a Balcony Stage. They had the stage and the store unchanged until the late 80's when they received the 1988 remodel. They would remain like this until their closure on October 27th, 1991 for unknown reasons. After they closed, they were abandoned for a few years until an adult bar/casino took over. Currently, as of January 2023, the building is still the adult bar/casino.
-##Stages##
+<h2>Stages</h2>
 Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they removed the Balcony Stage for a Chuck E.'s House Facade. Unfortunately, there are some photos but no videos to exist of Burlington.
 
 {| class='wikitable'
@@ -34,7 +35,7 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 |October 1991
 |One of the 3 installed in Canada.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -83,5 +84,5 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 
 
 
-##References##
+<h2>References</h2>
 <references />

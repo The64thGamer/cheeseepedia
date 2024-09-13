@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-08-30T00:51:51Z
 
 [Article]
+pageThumbnailFile = "ExteriorJune2024.png|Exterior (June 2024)"
 contributors = ["BigCtheDataFinder","Rexburg090","ChuckECool","SuperCreamPiper2008","71.30.196.66","The 64th Gamer","BurgersNuggs445","71.31.183.205","ShowbizMidwest","Saan1ty","67.197.52.250","ThatBoiCydalan","Caydenpedia","CoolerDude","Animatronicbrainrot","Cy's Junk at School","Documentor","Livelycheese","Sonichacker","CECMentor","Chuckepoggers69","AstridMascotFan2005","Cecanddisneyfan2004","Cheeseclassic","Appatheris","CEC1988","Jaxonia","BenTrainFan2000"]
 gallery = ["AdventureRestaurantCorpLogo.png|thumb|272x272px|Adventure Restaurant Corporation was the original franchise owner of the Pineville location.","PinevilleExterior08.jpg|thumb|Pineville's 1996-2012 Exterior (August 2008)|275x275px","Pinevilleduringcenterremodel.png|thumb|The store's exterior while the shopping center remodel was in progress. The old signage would still remain at this point. (February 21, 2012)|277x277px","PINEVILLEposterscan.jpg|thumb|247x247px|Scan of the Grand Reopening poster."]
 +++
-{{NoSources}}
-{{Generic|image=ExteriorJune2024.png|desc=Exterior (June 2024)}}
-**_Charlotte, NC (7701 Pineville-Matthews Rd), Store #64**_ (Commonly referred to as the **_Pineville**_ location) was a [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) store that opened on October 20th, 1982, which is currently operating to this day as a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}). It was the first ShowBiz Pizza to open in the state of North Carolina, and the second to open in the Carolinas overall. 
 
-This location has the last 3-Stage in the state, as well as being the **last** 3-Stage in existence, after [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) was removed for 2.0 on July 28th, 2024.   
+
+<b><i>Charlotte, NC (7701 Pineville-Matthews Rd), Store #64</b></i> (Commonly referred to as the <b><i>Pineville</b></i> location) was a [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) store that opened on October 20th, 1982, which is currently operating to this day as a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}). It was the first ShowBiz Pizza to open in the state of North Carolina, and the second to open in the Carolinas overall. 
+
+This location has the last 3-Stage in the state, as well as being the <b>last</b> 3-Stage in existence, after [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) was removed for 2.0 on July 28th, 2024.   
 
 In May of 2024, Pineville had been chosen as one of five Chuck E. Cheese locations to be designated as a [CEC Legacy Location]({{< ref "wiki/CEC Legacy Locations.md" >}}), receiving a variant of the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) in June of that year.<ref name=':0'>https://www.reddit.com/r/chuckecheese/comments/1d1iq2g/comment/l5wec8e/</ref> 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -44,17 +45,17 @@ In May of 2024, Pineville had been chosen as one of five Chuck E. Cheese locatio
 |
 |}
 
-## History ##
-Pineville opened its doors on October 20th, 1982, at the _Carmel Commons Shopping Center_ with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) show, being the second ShowBiz in the Carolinas following [Charleston, SC (1610 Sam Rittenburg Blvd)]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}). It was originally a franchise-owned store, under the ownership of 'Adventure Restaurant Corporation,' which owned other ShowBiz locations in the area during the time. Like many other ShowBiz locations, it had a typical layout seen in many other stores and would eventually receive the 1988 remodel. Although very little documentation exists back in the ShowBiz days, it can be determined that Pineville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening with the few photos available online and what would remain of the 'Abombination' drop-down sign mechanic slot on stage right. Pineville received the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), though it's unclear if their Rock-afire acquired the ShowBiz Pizza Campground update.
+<h2> History </h2>
+Pineville opened its doors on October 20th, 1982, at the <i>Carmel Commons Shopping Center</i> with a [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) show, being the second ShowBiz in the Carolinas following [Charleston, SC (1610 Sam Rittenburg Blvd)]({{< ref "wiki/Charleston, SC (1610 Sam Rittenburg Blvd).md" >}}). It was originally a franchise-owned store, under the ownership of 'Adventure Restaurant Corporation,' which owned other ShowBiz locations in the area during the time. Like many other ShowBiz locations, it had a typical layout seen in many other stores and would eventually receive the 1988 remodel. Although very little documentation exists back in the ShowBiz days, it can be determined that Pineville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening with the few photos available online and what would remain of the 'Abombination' drop-down sign mechanic slot on stage right. Pineville received the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), though it's unclear if their Rock-afire acquired the ShowBiz Pizza Campground update.
 
 
-### Concept Unification ###
+<h2>= Concept Unification </h2>=
 Pineville would be one of a majority of locations to undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991. An advertisement coupon from a newspaper clipping would show that the conversion was complete by mid-late 1991 (possibly November) as the coupon's expiration date was December 31st of that year. However, in January 1993, Adventure Restaurant Corp. would shutter the store after owning it for 10 years. 
 
-### Reopening ###
+<h2>= Reopening </h2>=
 This closure would've remained permanent until ShowBiz Pizza Time, Inc. would acquire to license to operate Pineville from its previous franchise owner the same month, thus the location would reopen as a corporate-owned store practically unchanged from how it was at the time and has remained a corporate store since. The corporate reopening would also mark the official rebrand of Pineville from ShowBiz to Chuck E. Cheese's at the same time as former locations were rebranding completely.
 
-### 1990's ###
+<h2>= 1990's </h2>=
 In this point of Pineville's operation, the store would receive the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) sometime by 1995 at the earliest, complete with: 
 
 * An Obstotron (later [Skytubes]({{< ref "wiki/Skytubes.md" >}})) 
@@ -70,16 +71,16 @@ In this point of Pineville's operation, the store would receive the [SPT 1992 Re
 Pineville would also receive the black & green-colored booths common to this remodel plan at the time.<ref>https://youtu.be/5MEcoRu445M?t=794</ref>
 
 
-### 2000's ###
+<h2>= 2000's </h2>=
 Sometime in the 2000's, the original Munch Jr. would be removed from the 3-Stage and a Toddler Zone would be installed near the showroom. Pineville would receive a general game package mirroring other CECs that included Rollercoaster Tycoon 2 Pinball by Stern, Chuck E.'s Choo Choo, Kiddie Coaster, Rock N' Moon Rally, Chatty Chuck E. out of many. This decade would also be when the location would undergo the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) with newer booths, posters, and purple walls prior to around 2008. However, (between this time and the early 2010's) the 90's exterior would remain along with the early 90's Chuck E. Cheese Roll Skee-Balls, not entirely modernizing the store quite yet. Though, by 2010, Chuck E.'s tuxedo would be replaced with the Avenger attire.
 
-### 2010's ###
+<h2>= 2010's </h2>=
 
 Starting in early 2012, the Carmel Commons shopping mall Pineville was located in received a major exterior renovation, repainting the mall from brown to white. This would impact the Pineville store, reconstructing the front of the exterior and finally updating it from the 1998 Cool Chuck sign to the 2004 Avenger Chuck sign, now modernizing the store in full. The store would also expand into a former Carmel Commons tenant, making room for more arcade games and seating. Later in 2013, a number of changes would come to Pineville. The game package would change once again, removing several (including Rollercoaster Tycoon 2 Pinball and the 90's Chuck E. Cheese Rolls) in favor of more simpler games. The stage would see Chuck E.'s eyebrows and triangular base removed unexpectedly (with Pineville's Chuck E. becoming infamous for not having eyebrows for a long period of time this decade) as well as the stage base trim being repainted from brown to black. Pizzacam was removed prior to these updates and his mechanism was placed in storage underneath stage left. Finally, several walls were painted back to white, only keeping existing purple walls in the showroom and front of the store.
 
-### 2020's ###
+<h2>= 2020's </h2>=
 
-#### 3-Stage Updates ####
+<h2>== 3-Stage Updates </h2>==
 At the start of the 2020's, the condition of Pineville's 3-Stage began to decline in quality. However, when technician and fellow CEC fan miltondrivewaysignal would step in to work at the location between 2021 and 2022, the show at Pineville would receive multiple updates and fixes never before seen on most 3-Stages. These would include, but are not limited to:
 
 *Newly reinstated eyebrows for Chuck E. as well as a replacement right arm bracket.
@@ -106,7 +107,7 @@ At the start of the 2020's, the condition of Pineville's 3-Stage began to declin
 *The Stage finally receiving the Jukebox TV topper half
 *The original curtains and curtain motor from the [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) store being installed on July 24, 2024
 
-#### Munch's Make Believe Band Residency & 2.0. Remodel ####
+<h2>== Munch's Make Believe Band Residency & 2.0. Remodel </h2>==
 In May 2024, CEC Entertainment announced Pineville's selection as a [Legacy Location]({{< ref "wiki/CEC Legacy Locations.md" >}}). This included an area where guests and fans alike were able to see art and memorabilia throughout the company’s history. The 2.0 remodel started on June 9th, 2024, with the Dance Floor's installation on June 11th, followed by Video Wall's installation on June 13th.<ref name=':0' /> The Trampoline Zone was assembled and operating by June 19th. 
 
 On June 18th, a [Pizzacam]({{< ref "wiki/Looney Bird (Animatronic).md" >}}) animatronic was sent to the location from the [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}) for installation. This animatronic was previously from the [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}) store and had been in storage for 2 years by that point. Pizzacam was meant to be installed prior to opening, but instead was situated in front of the stage due to unspecified electrical issues during the installation attempt. The animatronic was then wheeled into the back hallway, illegally blocking the emergency exit for a short period. An advertising poster was placed in front to block it from public view before it was moved into the tech room. Two days later on June 20th, Pizzacam was officially installed. Mechanical maintenance was conducted between June 20th and July 4th, requiring Pizzacam to be shut off temporarily due to a missing flow control in his head turn.
@@ -115,9 +116,9 @@ On July 7th, CEC announced that the grand reopening event at the store is slated
 
 The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) a few days before the grand reopening.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Redhot
 * Super Monkey Ball Ticket Blitz
@@ -164,7 +165,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 * Crab Rush
 * MotoGP
 
-#### Coin-Action ####
+<h2>== Coin-Action </h2>==
 
 * SpongeBob SquarePants (SEGA)
 * Winners' Toggle
@@ -172,7 +173,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 * Wonderland
 * Big Rig Truckin' (Solo)
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Teacup Ride
 * Hit Music
@@ -196,7 +197,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 * Chuck E. Cheese's Trolley Ride (in museum, not operating)
 * Chuck E. Cheese's Pizza Delivery ride (in museum, not operating)
 
-### Former ###
+<h2>= Former </h2>=
 
 * CEC Street Hoops
 * Chatty Chuck E.
@@ -208,7 +209,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 * Rock N' Moon Rally
 * Rollercoaster Tycoon 2 Pinball (Stern)
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 ! Link
 !Description
@@ -360,7 +361,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 
 
 
-## Animatronics##
+<h2> Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -396,7 +397,7 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 |-
 |[Pizzacam / Looney Bird]({{< ref "wiki/Looney Bird (Animatronic).md" >}})
 |10-82 7-40
-|In store. Previously from [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}).<ref>https://www.instagram.com/p/C8XEdGdJUAk/?igsh=MXQyaHAzY21oNXlpMg##</ref>
+|In store. Previously from [Laurel, MD (936 Fairlawn Ave)]({{< ref "wiki/Laurel, MD (936 Fairlawn Ave).md" >}}).<ref>https://www.instagram.com/p/C8XEdGdJUAk/?igsh=MXQyaHAzY21oNXlpMg==</ref>
 |-
 |[Munch Jr. / Choo Choo]({{< ref "wiki/Choo Choo (Animatronic).md" >}})
 |1-82 8-23 
@@ -419,5 +420,5 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 |In store.
 |}
 
-## References ##
+<h2> References </h2>
 <references />

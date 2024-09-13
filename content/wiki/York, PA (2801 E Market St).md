@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-10-14T07:35:41Z
 
 [Article]
+pageThumbnailFile = "YorkExterior2019AugustGoogleMaps.png|Street view of the 2.0 Exterior in August 2019 (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","2600:1000:B121:ABC9:C9EB:5E25:4E91:B8F0","2600:4040:59FF:B100:D026:CA31:AF2F:EBD6","CorrectorMan","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=YorkExterior2019AugustGoogleMaps.png|desc=Street view of the 2.0 Exterior in August 2019 (PC: Google Maps)}}
-**_2801 E Market St, Store #965**_ was a Showbiz Pizza Place that opened on March 4, 1983 with a Rock-Afire Explosion. This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in September 2018. As of September 2022, they still have the 2.0 Remodel.
+
+<b><i>2801 E Market St, Store #965</b></i> was a Showbiz Pizza Place that opened on March 4, 1983 with a Rock-Afire Explosion. This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in September 2018. As of September 2022, they still have the 2.0 Remodel.
 
 This location is not to be confused with [York, PA (351 Loucks Rd)]({{< ref "wiki/York, PA (351 Loucks Rd).md" >}}), which opened on August 23, 1983 and closed on February 19, 1984 with a Balcony Stage.
 
-##History##
+<h2>History</h2>
 TODO
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. In September 2018, they remodeled to 2.0, removing the 3-Stage for a 2017 Model Dance Floor.
 {| class='wikitable'
 |+
@@ -39,7 +40,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Still In Use 
 |2017 Model
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -98,5 +99,5 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 
 
-## Videos##
+<h2> Videos</h2>
 TODO

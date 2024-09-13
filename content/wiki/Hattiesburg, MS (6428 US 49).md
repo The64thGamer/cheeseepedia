@@ -9,9 +9,9 @@ contributors = ["CorrectorMan","Rexburg090","CEC Tinley"]
 gallery = ["Hattiesburg.jpg|thumb|The location as of 2023. (PC: Google Maps)"]
 +++
 
-**_6428 US 49**_ was a Showbiz Pizza Place that opened on July 26, 1984, and closed in October 1986 (day unknown) with a Rock-afire Explosion. This was the last Showbiz Pizza to open in Mississippi. 
+<b><i>6428 US 49</b></i> was a Showbiz Pizza Place that opened on July 26, 1984, and closed in October 1986 (day unknown) with a Rock-afire Explosion. This was the last Showbiz Pizza to open in Mississippi. 
 
-## Stages ##
+<h2> Stages </h2>
 Hattiesburg opened on July 26, 1984, with a Rock-afire Explosion. Not much is known about this stage and was removed in 1986 and has an unknown fate.
 {| class='wikitable'
 |+
@@ -26,10 +26,10 @@ Hattiesburg opened on July 26, 1984, with a Rock-afire Explosion. Not much is kn
 |Final Showbiz Pizza to open in Mississippi.
 |}
 
-## History ##
+<h2> History </h2>
 Hattiesburg opened on July 26, 1984, with a Rock-afire Explosion. This was confirmed to be the last Showbiz Pizza to open in Mississippi. Unfortunately, information on Hattiesburg's SPP is extremely scarce. However, we recently found Hattiesburg's closing date, which was sometime in October 1986. It is unknown why they closed, but it may be that they have been underperforming. Multiple businesses have taken up the space, and as of now, it is a bar named 'Señor Frog Cantina'.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

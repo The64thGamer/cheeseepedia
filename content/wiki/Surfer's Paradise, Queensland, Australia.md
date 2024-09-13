@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-03-15T13:33:45Z
 
 [Article]
+pageThumbnailFile = "CHARLIECHEESES.jpg|The Store's Exterior, May 1981"
 contributors = ["CECBowlingGreen","Pench0782","BurgersNuggs445","CEC Tinley","CorrectorMan","PizzaEntertainmentFanX"]
 gallery = []
 +++
-{{Generic|image=CHARLIECHEESES.jpg|desc=The Store's Exterior, May 1981}}
 
-**_2 Cavill Avenue**_ was a [Charlie Cheese's Pizza Playhouse]({{< ref "wiki/Charlie Cheese's Pizza Playhouse.md" >}}) that opened in March 1981 with a Portrait Stage & closed in 1982. This location is not to be confused with [Carina, Queensland (1151 Creek Rd)]({{< ref "wiki/Carina, Queensland, Australia.md" >}}) which opened after the closure of Cavill or [???, Australia]({{< ref "wiki/, Australia.md" >}}) which is set to open in spring or summer of 2024.
+
+<b><i>2 Cavill Avenue</b></i> was a [Charlie Cheese's Pizza Playhouse]({{< ref "wiki/Charlie Cheese's Pizza Playhouse.md" >}}) that opened in March 1981 with a Portrait Stage & closed in 1982. This location is not to be confused with [Carina, Queensland (1151 Creek Rd)]({{< ref "wiki/Carina, Queensland, Australia.md" >}}) which opened after the closure of Cavill or [???, Australia]({{< ref "wiki/, Australia.md" >}}) which is set to open in spring or summer of 2024.
 
 This was the very first location outside of the United States, and the first of almost 3 Chuck E. Cheese stores in Australia.
 
-## Stage ##
+<h2> Stage </h2>
 Cavill opened with one of the last [Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}}) with the Stage having balcony elements, decor, & a Cheese Crawl. Cavill also opened with Dolli DImples as their one & only Cabaret act.
 {| class='wikitable'
 |+
@@ -29,13 +30,13 @@ Cavill opened with one of the last [Cyberamics Portrait / Shelf Stage]({{< ref "
 |Balcony & Portrait Hybrid.
 |}
 
-## History ##
+<h2> History </h2>
 In 1981, After PTT went public, plans were made to develop international locations, a location was set to open in Australia.  The location was in a entertainment venue called 'Grundy's Paradise Centre' in Surfer's Paradise, Queensland. The location had a Balcony styled Shelf Stage, Dolli Dimples as the Cabaret act, and Madame Oink as the guest star. The Showtape used was probably either [Around the World with Madam Oink]({{< ref "wiki/Around the World with Madam Oink.md" >}}) or Madame Oink III - 'Tunnel of Love'. The location would be featured on an Australian News Broadcast in 1981 & another the same year. The Location closed in 1982 & was relocated to [Creek Road in Carina, Queensland]({{< ref "wiki/Carina, Queensland, Australia.md" >}}).
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 TODO: Add a list of every confirmed arcade & ride used at the store.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -79,7 +80,7 @@ TODO: Add a list of every confirmed arcade & ride used at the store.
 |
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

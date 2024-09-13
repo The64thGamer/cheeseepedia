@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-05-14T19:41:47Z
 
 [Article]
+pageThumbnailFile = "waco1.png|Waco, TX exterior in the 1980s."
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
 gallery = []
 +++
-{{Generic|image=waco1.png|desc=Waco, TX exterior in the 1980s.}}
 
-**_5156 W Waco Dr.**_ was a _Showbiz Pizza Place_ that opened in 1986 with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in 1992.
+
+<b><i>5156 W Waco Dr.</b></i> was a <i>Showbiz Pizza Place</i> that opened in 1986 with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in 1992.
 
 This specific Showbiz Pizza location was the smallest location to ever open and allegedly only had a capacity for just 175 patrons. This location also was coincidentally located within the same shopping center as the current Chuck E. Cheese location that would open in 2002.<ref>https://goo.gl/maps/diVBVVrPQg6HGPoPA</ref><ref>[Waco, TX (5106 West Waco Dr)]({{< ref "wiki/Waco, TX (5106 West Waco Dr).md" >}})</ref>
-##Stages##
-_5156 W Waco Dr._ would be one of the last locations to open with a Rock-Afire Explosion; as Showbiz Pizza Time started to phase out the Rock Afire as early as 1987. The stage would take up most of the back area of the restaurant as the locations size would just barely accommodate it. The location also received the Cybervision update shortly after opening.
-##History##
+<h2>Stages</h2>
+<i>5156 W Waco Dr.</i> would be one of the last locations to open with a Rock-Afire Explosion; as Showbiz Pizza Time started to phase out the Rock Afire as early as 1987. The stage would take up most of the back area of the restaurant as the locations size would just barely accommodate it. The location also received the Cybervision update shortly after opening.
+<h2>History</h2>
 5156 W Waco Dr. opened in 1986 with Showbiz Pizza Time's new rebranded interior design however with a blue and yellow color scheme.<ref>1986 SPT Remodel Program</ref> Post opening, little is known of the location other than the readily available information on [https://www.showbizpizza.com/photos/spp/tx_waco/index.html showbizpizza.com] .
 
-### Closure ###
+<h2>= Closure </h2>=
 In 1992 the location would permanently close and later put up for lease for an extended period of time. In 2017 the former Showbiz became 'Smile Doctors Braces'. 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 Identified machines.
 
 *[https://en.wikipedia.org/wiki/Pac-Man Pac-Man]
@@ -31,8 +32,8 @@ Identified machines.
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 The Rock-Afire Explosion from this location are thought to be reused from a previously closed store, as Creative Engineering has since parted with Showbiz Pizza Time by the locations debut. The characters' serials or whereabouts are currently unknown.
 
-##References##
+<h2>References</h2>
 <references />

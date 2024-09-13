@@ -8,10 +8,10 @@ date = 2023-08-07T20:37:28Z
 contributors = ["DerekCat"]
 gallery = []
 +++
-This [Family Vision]({{< ref "wiki/Family Vision.md" >}}) tape has no official number, but it played in November 1987 as part of a collection of monthly Family Vision Betamax tapes released to _ShowBiz Pizza Place_ stores starting in 1984.
+This [Family Vision]({{< ref "wiki/Family Vision.md" >}}) tape has no official number, but it played in November 1987 as part of a collection of monthly Family Vision Betamax tapes released to <i>ShowBiz Pizza Place</i> stores starting in 1984.
 
-## Video List ##
-The tape's total length and videos used are completely unknown, only a few videos were discovered from home movies.<ref>https://youtu.be/jjCyYAj8KAI?t=1015</ref><ref>https://youtu.be/QD2ozsdSTNI?t=1107</ref>
+<h2> Video List </h2>
+The tape's total length and videos used are completely unknown, only a few videos were discovered from home movies.<ref>https:<i>youtu.be/jjCyYAj8KAI?t=1015</ref><ref>https:</i>youtu.be/QD2ozsdSTNI?t=1107</ref>
 {| class='wikitable'
 !Title
 !Subtitle
@@ -30,5 +30,5 @@ The tape's total length and videos used are completely unknown, only a few video
 |???
 |}
 
-## References ##
+<h2> References </h2>
 <references />

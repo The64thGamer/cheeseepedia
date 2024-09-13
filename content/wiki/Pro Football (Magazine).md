@@ -13,7 +13,7 @@ Bowl
 XXV
 Preview|text6=Plain Vs. Pepperoni}}
 
-The **Pro Football (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
+The <b>Pro Football (Magazine)</b> was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 
-## Design ##
+<h2> Design </h2>
 The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Football (shelf item) which has Chuck E. Cheese in a 1920's pro football uniform with Chuck E. wearing a red shirt with red & white sleeves and brown pants with also carrying his leather helmet and a football.

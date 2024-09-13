@@ -8,17 +8,17 @@ date = 2023-02-08T06:58:29Z
 contributors = ["BattleXGamer"]
 gallery = ["BMC Sample.png|thumb|What Biphase Mark Code looks like","Bmc should look like.png|thumb|259x259px|All the audio files needed","FFMpeg TXT File.png|thumb|198x198px|An Example of what the file should look like"]
 +++
-### History ###
+<h2>= History </h2>=
 
 The History behind why Biphase Mark Code was made is pretty simple, Biphase mark coding (BMC) was developed to address a difficulty in traditional digital signals. Like a traditional digital signal, one bit is transmitted for each clock cycle. Unlike a traditional digital signal, between each bit a transition in polarity (from high to low or low to high) occurs. In order to transmit a “1” value, a transition also occurs after half a clock cycle (a clock cycle can also be referred to as a cell). This fixed the issue of clock rates being out of sync between the transmitter and receiver.
 
-### What is BMC used for ###
+<h2>= What is BMC used for </h2>=
 Biphase Mark Code is used in Network Systems as it allows them to use 1 cable for transmitting and 1 for receiving instead of 2 for both because BMC has Clock Recovery abilities and doesn't require the need for a seperate wire for the clock itself. [TODO: Add more to this]
 
 
 Biphase Mark Code was also used in the [Pianocorder System]({{< ref "wiki/Pianocorder Data Format.md" >}}) which is the sole reason this page exists. The use of BMC for the pianocorder turned out to be very handy as all the pianocorder has to do is detect the edges, sync bit and also waveshape the signal to then be able to make suitable outputs.
 
-### How to Encode BMC ###
+<h2>= How to Encode BMC </h2>=
 To Encode BMC (Biphase Mark Code) via Digital Encoding you would want to make roughly around 4 - 6 Audio Files.
 
 
@@ -47,7 +47,7 @@ When you come across a 1 check to see if the clock was high or low. If the clock
 After generating the txt make sure to save it in the same folder with the biphase audio files. You then want to navigate to it in either Command Prompt or Terminal and run the following command to then create the biphase sequence and export it to wav.
  ffmpeg -f concat -i (insert txt name here).txt output.wav
 
-### Decoding BMC ###
+<h2>= Decoding BMC </h2>=
 Decoding BMC (Biphase Mark Code) is a hard task for many to comprehend even writing code to do so. It makes sense as to write code for decoding this type of Biphase you would more than likely have to write it for the system you are trying to decode the biphase of. This part of this page is more of a general theory as I still need to figure out the code behind it to help everyone.
 
 

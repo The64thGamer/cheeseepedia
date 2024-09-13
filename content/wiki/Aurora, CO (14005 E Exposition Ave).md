@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-04-01T15:09:23Z
 
 [Article]
+pageThumbnailFile = "2022-09-17.jpg|The store's exterior"
 contributors = ["2601:280:5D02:1010:A126:7380:DB58:557B","Edboys99","The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","ChuckfeldStan","CEC Tinley","CoolerDude"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=2022-09-17.jpg|desc=The store's exterior}}
-**_Aurora, CO (14005 E Exposition Ave), Store #710**_ is a Chuck E. Cheese that opened on November 2nd, 1999, with Studio C (1997) (Studio C).
+
+<b><i>Aurora, CO (14005 E Exposition Ave), Store #710</b></i> is a Chuck E. Cheese that opened on November 2nd, 1999, with Studio C (1997) (Studio C).
 
 This store is not to be confused with the former store on [12293 E Iliff Ave]({{< ref "wiki/Aurora, CO (12293 E Iliff Ave).md" >}}), most notable for being the site of the 1993 Aurora shooting, that closed on April 20th, 1994, with a 3-Stage and also shouldn't be confused with [634 Peoria St]({{< ref "wiki/Aurora, CO (634 Peoria St).md" >}}) which opened in 1982 and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 The location itself is located in the Aurora City Square shopping center.
 
-## Stages ##
+<h2> Stages </h2>
 When it first opened, the store had the Studio C Alpha stage. The Alpha stage would remain until it would be replaced by a 2019 Model Dance Floor and later, the video wall.
 
-##History##
+<h2>History</h2>
 The store opened on November 2nd, 1999, as a relocation of the [12293 E Iliff Ave]({{< ref "wiki/Aurora, CO (12293 E Iliff Ave).md" >}}) location. The location itself was a few miles away from said location. When it opened, the store had a Studio C Alpha with a 32m bot along with the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) , and the Studio C Art Package. The store also had a pointing Chuck sign in the breezeway. The bot's outfit would change over the years from the Late Night outfit to the Cool Chuck outfit, and the Avenger outfit.
 
 Sometime in 2009, Aurora underwent the 2005 version of [Phase 4]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), which would remove all 90s decor and showroom walls, and redid the exterior replacing the Cool Chuck logo with the Avenger logo. The Alpha stage would also be changed slightly. The interactive consoles were removed and the blue screen. The blue screen was replaced by the ticket backdrop. In either 2013 or 2014, the bot would get the Rockstar outfit. The store didn't change much during the 2010s aside for new carpet, and new games.
@@ -27,7 +28,7 @@ In 2019, the store would start it's 2.0 remodel and soon, the Alpha stage was ri
 
 As of April 2024, the store still has the 2019 Model Dance Floor and Video Wall.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic

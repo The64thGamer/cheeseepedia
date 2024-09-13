@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2023-11-21T17:10:56Z
 
 [Article]
+pageThumbnailFile = "Justiss hq.png|Exterior (Early 1990's)"
 contributors = ["RedaCEC","ChuckEPediaIsTheBest!","ChuckECool","BurgersNuggs445","Midwestretail","Rexburg090","CorrectorMan","Saan1ty","SuperCreamPiper2008","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Justiss hq.png|desc=Exterior (Early 1990's)}}
 
-**_3200 Justiss Drive, Store #859**_ was a _Showbiz Pizza Place/Chuck E. Cheese's Pizza_ that opened on July 21, 1982 with a Rock-Afire Explosion, and closed in Summer 2001 with a 3-Stage. It was located east of the Six Flags Mall.
 
-##History##
+<b><i>3200 Justiss Drive, Store #859</b></i> was a <i>Showbiz Pizza Place/Chuck E. Cheese's Pizza</i> that opened on July 21, 1982 with a Rock-Afire Explosion, and closed in Summer 2001 with a 3-Stage. It was located east of the Six Flags Mall.
+
+<h2>History</h2>
 3200 Justiss Drive opened on July 21st, 1982 as a Showbiz Pizza Place, later Chuck E. Cheese's In around the 1990's. This location received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) and [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) game package upgrades in their respective years and remodeled only twice as it was a Chuck E. Cheese's Pizza. It is unknown if they ever remodeled to the 1990s remodel, but evidence shows they may have.
 
 They would remain unchanged after until their closure in the Summer of 2001. Later on the property was sold and converted into a night club once in the 2000s, a rodeo club in the mid-2000s, and another night club in 2020. This location is regularly confused with [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) due to many similarities to each other. The closure reason was due to the fact they wanted to relocate to a new store in Grand Prairie, and that Six Flags Mall was dying, as the area in the following years would close most of it's businesses.
 
 Despite this store being sold to several businesses the past 22 years they have been closed, many remnants of the store would be left behind. This includes things like wood paneling, the walls from where the 3-stage was placed and gutted, the walls as a whole, and the black and white tiles at the counters. The exterior is also intact, despite the entrance being expanded and changed out.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion like every other Showbiz location. In 1990, they would become the third ever location to undergo Concept Unification, the process used to convert the RAE characters into the Chuck E. Cheese characters. This was one 17 Showbiz Pizza stores in Texas to receive Concept Unification. 
 {| class='wikitable'
 !Stage
@@ -35,7 +36,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |Summer 2001
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Code
@@ -92,7 +93,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 
 
-##YouTube Videos##
+<h2>YouTube Videos</h2>
 {| class='wikitable'
 !Link
 !Description

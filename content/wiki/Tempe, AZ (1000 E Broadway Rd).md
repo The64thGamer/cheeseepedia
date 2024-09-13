@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-07-26T15:21:05Z
 
 [Article]
+pageThumbnailFile = "1998.15.191.jpeg|Exterior while it was still open."
 contributors = ["JND"]
 gallery = []
 +++
-{{Generic|image=1998.15.191.jpeg|desc=Exterior while it was still open.}}
 
-**_Tempe, AZ(1000 E Broadway Rd)**_ was a _Pizza Time Theater_ that opened in June 1981 and closed on December 24, 1984.
 
-## History ##
+<b><i>Tempe, AZ(1000 E Broadway Rd)</b></i> was a <i>Pizza Time Theater</i> that opened in June 1981 and closed on December 24, 1984.
+
+<h2> History </h2>
 Tempe opened in 1981 and was a regular PTT. It had Harmony Howlett, Madame Oink and Helen Henny throughout its lifespan. It also had Dolli Dimples as a cabaret. The location would remain the same throughout its lifespan, closing right after the bankruptcy.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 |Animatronics
@@ -47,7 +48,7 @@ Tempe opened in 1981 and was a regular PTT. It had Harmony Howlett, Madame Oink 
 |Unkown.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 |Link

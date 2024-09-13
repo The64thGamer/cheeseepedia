@@ -8,14 +8,14 @@ date = 2023-05-04T18:48:17Z
 contributors = ["ChuckECool","Rexburg090","CEC Tinley"]
 gallery = []
 +++
-**_9175 Roosevelt Blvd, Store #437**_ also known as 'Roosevelt' is a _Pizza Time Theatre/Chuck E. Cheese_ that opened on August 8, 1982, as a franchised _Pizza Time Theatre_ with a Balcony Stage Show and is still open to this day. 
+<b><i>9175 Roosevelt Blvd, Store #437</b></i> also known as 'Roosevelt' is a <i>Pizza Time Theatre/Chuck E. Cheese</i> that opened on August 8, 1982, as a franchised <i>Pizza Time Theatre</i> with a Balcony Stage Show and is still open to this day. 
 
 It is located in the Northeast Shopping Center.
 
 It should not be confused with [Philadelphia, PA (9 Snyder Ave)]({{< ref "wiki/Philadelphia, PA (9 Snyder Ave).md" >}}) which opened 10 years, 1 month, and a week later on September 15th, 1992.
-##History##
+<h2>History</h2>
 Philadelphia (Roosevelt) opened its doors on August 8th, 1982, in the Northeast Shopping Center with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location. In the Late 80's, Philadelphia (Roosevelt) would receive the 1988 remodel and removed older decor for newer decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade. The location was then bought by the corporate (company) on June 26th, 1989. In 1993/1994, Philadelphia (Roosevelt) would receive another remodel, this time another change to the exterior, older decor removed for newer ones, and Chuck E.'s House Facade being removed for the 2-Stage. In the Late 90's, they would receive yet another remodel, which changed the exterior again, and added Skytubes. In 2006-2007, Philadelphia (Roosevelt) would remodel to the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, removing the Showroom Walls, Balcony Seating, another exterior change, and the relocation of the show. In August 2019, the store was temporally closed due to flood damage, that would cause the 2-Stage to be removed for a 2019 model Dance Floor and a Circles of Light Monitor due to the low ceiling height as they didn't make Video Walls at the time. They stayed like this until 2021, when the location received the 2.0 remodel. Currently, as of February 2023, they still have the 2.0 remodel and the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 When Philadelphia (Roosevelt) opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are no videos or photos to exist of Philadelphia (Roosevelt) back then. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the Chuck E.'s House Facade (C-Stage). This location would get a 2-Stage installed in the mid 90's.
 
 In August 2019, the 2-Stage was destroyed in a flood, and then their 2-Stage was removed for the Dance Floor and COL Monitor due to the low celling height.
@@ -49,7 +49,7 @@ In 2021, they received the 2.0 remodel, keeping the Dance Floor & COL Monitor.
 |2019 Model. Has a COL TV Monitor.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -118,7 +118,7 @@ In 2021, they received the 2.0 remodel, keeping the Dance Floor & COL Monitor.
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
-##References##
+<h2>References</h2>
 <references />

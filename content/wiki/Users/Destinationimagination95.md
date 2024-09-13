@@ -10,7 +10,7 @@ gallery = []
 +++
 Hello, I'm a fan of Chuck E. Cheese's, particularly 1991-1997 CEC, and animatronics. I'm 18 years old, and male. 
 
-## Favorite animatronic shows ##
+<h2> Favorite animatronic shows </h2>
 
 * Munch's Make Believe Band
 * The Rock-Afire Explosion
@@ -23,7 +23,7 @@ Hello, I'm a fan of Chuck E. Cheese's, particularly 1991-1997 CEC, and animatron
 * [https://disney.fandom.com/wiki/Country_Bear_Jamboree Country Bear Jamboree]
 * [https://disney.fandom.com/wiki/Walt_Disney%27s_Enchanted_Tiki_Room Enchanted Tiki Room]
 
-## Favorite Chuck E. Cheese's voice actors and actresses ##
+<h2> Favorite Chuck E. Cheese's voice actors and actresses </h2>
 Chuck E:
 
 * Duncan Brannan 1994-1997
@@ -54,7 +54,7 @@ Pasqually:
 * Bob West
 * Joel McCrary
 
-## Favorite Chuck E. Cheese's character outfits and designs. ##
+<h2> Favorite Chuck E. Cheese's character outfits and designs. </h2>
 Chuck E:
 
 * Tuxedo
@@ -84,7 +84,7 @@ Pasqually:
 
 * PTT/90s Pasqually outfit
 
-## Favorite Chuck E. Cheese's showtapes and stages. ##
+<h2> Favorite Chuck E. Cheese's showtapes and stages. </h2>
 Stages:
 
 * 3-Stage
@@ -146,7 +146,7 @@ Showtapes:
 * [Fall Show 2013]({{< ref "wiki/Fall Show 2013.md" >}})
 * [January 2014 Show]({{< ref "wiki/January 2014 Show.md" >}})
 
-## Other interests/hobbies ##
+<h2> Other interests/hobbies </h2>
 
 * Drawing
 * Puppetry

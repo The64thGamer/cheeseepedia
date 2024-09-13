@@ -17,16 +17,16 @@ gallery = []
 |dvdcyber=y
 }}
 
-**Happy Holiday 2011** is the holiday show released November 25, 2011 which features all the segments originally from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}). 
+<b>Happy Holiday 2011</b> is the holiday show released November 25, 2011 which features all the segments originally from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}). 
 
 This show played from November 25, 2011 - January 1, 2012.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## CEC TV ID - 'Rocket Racers'
 ## Skee Ball Game Spot
 ## Dinosaur Train - 'Dinosaurs In The Snow'
@@ -35,20 +35,20 @@ This show played from November 25, 2011 - January 1, 2012.
 ## Pocoyo Intro
 ## Countdown 1
 ## CEC TV ID - 'Snow Blizzard'
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## CEC TV ID - 'NBC Chime'
 ## A Veggie Tales Christmas Party
 ## CEC TV 90s Intro
 ## CEC TV Retro - 'CEC TV News - Holiday Edition'
 ## Countdown 2
 ## CEC TV ID - '50s Astronauts'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##CEC TV ID - 'Cow Abduction'
 ## Sid the Science Kid
 ## Chuck E. Live! Spot
@@ -56,10 +56,10 @@ This show played from November 25, 2011 - January 1, 2012.
 ##CEC TV ID - 'Fireworks'
 ## Larry The Tech Holiday Edition
 ## Countdown 3
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC TV ID - 'Monster'
 ## Kung Fu Panda 2 Spot
 ## Fraggle Rock - 'The Bells of Fraggle Rock'
@@ -68,7 +68,7 @@ This show played from November 25, 2011 - January 1, 2012.
 ## Countdown 4
 ## CEC TV ID - 'Cell Tower'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Program (3stage, Cyberamic, Studio C)
 * Spanish Birthday Program (3stage, Cyberamic, Studio C)
@@ -78,9 +78,9 @@ This show played from November 25, 2011 - January 1, 2012.
 * Happy & U Know It Live (3stage, Cyberamic, Studio C)
 * Old Mac Donald Live (3stage, Cyberamic, Studio C)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * A snow effect is added to the 'NBC Chime', 'Cow Abduction' and 'Cell Tower' CEC TV IDs.
 * The 'Ladies & Gentlemen It's Showtime' Intro is not programmed in this show.

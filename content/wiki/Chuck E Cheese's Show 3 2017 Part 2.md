@@ -18,73 +18,73 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 3 2017 Part 2**_ released May 21st 2017.
+<b><i>Chuck E. Cheese's Show 3 2017 Part 2</b></i> released May 21st 2017.
 
 This was created to play from May 21st 2017. - June 18th 2017. This show was a reissue of Chuck E. Cheese's Show 3 2017 (Show 3 2017) to remove any reference to the Guiness World Record and adding Helen's Birthday skit. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## 40 Years of Fun - '1970s'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Bee Gees - 'Stayin' Alive'
 ## 1977 Pizza Time Theater Montage
 ## Floogals - 'Birthday Cake'
 ## Chef Gregory & Ronnie the Unicorn
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Remember That Time'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Splash & Bubbles - 'Rhythm of the Reef'
 ## Jo Jo & The Pinecones - 'Breakfast For Dinner'
 ## 40 Years of Fun TV Spot
 ## Showbiz Pizza Cyberstar Intro
-# **Skit 3**
+# <b>Skit 3</b>
 ## 40 Years of Fun - '1980s'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Whitney Houston - 'I Wanna Dance With Somebody'
 ## 1980s Chuck E. Cheese's Pizza Time Theatre Commercial
 ## Musing With Munch: Episode 1
 ## Ticket Dance
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Munch's Make Believe Band - 'Together We've Got It'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Secret Agent 23 Skidoo - 'Family Tree'
 ## Buffet
 ## CEC TV 1990s Promo
-# **Skit 5**
+# <b>Skit 5</b>
 ## 40 Years of Fun - '1990s'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## The Rembrandts - 'I'll Be There For You'
 ## 1990s Chuck E. Cheese's Commercial
 ## Caspar Babypants - 'Mr. Rabbit'
 ## CEC Birthday Spot - 'Fishing'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Munch's Make Believe Band - 'Chuck E.'s Place 2017'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Ruff Ruff Tweet & Dave - 'Birthday'
 ## Stuffed Crust Pizza Promo
 ## CEC TV 2000s Promo
-# **Skit 7**
+# <b>Skit 7</b>
 ## 40 Years of Fun - '2000s'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## Gwen Stefani - 'Sweet Escape'
 ## 2000s Chuck E. Cheese's Commercial
 ## SpacePop - 'My Girls'
 ## Jokes From Pasqually - 'Spots'
-# **Skit 8**
+# <b>Skit 8</b>
 ## 40 Years of Fun - '2017'
-# **Intermission 9**
+# <b>Intermission 9</b>
 ## Alessia Cara - 'How Far I'll Go' (From Disney's 'Moana')
-# **Skit 9**
+# <b>Skit 9</b>
 ## Happy Birthday, Helen
-# **Intermission 10**
+# <b>Intermission 10</b>
 ## New Cakes Promo
 ## My Little Pony - 'Friendship Lessons'
 ## 1990s Munch Countdown
-# **Skit 10**
+# <b>Skit 10</b>
 ## Chuck E. & Friends - 'Trio'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
@@ -97,15 +97,15 @@ This was created to play from May 21st 2017. - June 18th 2017. This show was a r
 * Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=bDB0G3F4kuU 'Chuck E.'s Place' on YouTube]
 *[https://www.youtube.com/watch?v=14WzM9vJfR0 'Trio' on YouTube]
 *[https://www.youtube.com/watch?v=GcMQWJYKTps 'Me & My Friends' on YouTube]
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Remember That Time' and 'Together We've Got It' are both from Chuck E. Cheese's Show 1 2017 (Show 1 2017). Helen's Birthday is originally from Chuck E. Cheese's Show 4 2016 (Show 4 2016)
 * 'Chuck E.'s Place 2017' is a modern remake of the [January 1991]({{< ref "wiki/CEC Jan '91.md" >}}) version of the song.

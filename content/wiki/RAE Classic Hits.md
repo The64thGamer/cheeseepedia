@@ -12,22 +12,22 @@ gallery = []
 |date=1981
 |showbizreel=y|image=Classichitsthumbnail.jpg}}
 
-**RAE Classic Hits** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1981.
-##Segment List##
+<b>RAE Classic Hits</b> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1981.
+<h2>Segment List</h2>
 It is unclear the original order that the segments were played in.
-***Segment 1**
+*<b>Segment 1</b>
 *#Beatles Medley
-***Segment 2**
+*<b>Segment 2</b>
 *#Catch A Wave
-***Segment 3**
+*<b>Segment 3</b>
 *#Do You Love Me
-***Segment 4**
+*<b>Segment 4</b>
 *#Heartaches
-***Segment 5**
+*<b>Segment 5</b>
 *#My Boy Lollipop
-***Segment 6**
+*<b>Segment 6</b>
 *#Rolfe Earl Skit (Hit the Cymbal)
-***Segment 7**
+*<b>Segment 7</b>
 *#Rolfe Earl Skit w Billy Bob
-***Segment 8**
+*<b>Segment 8</b>
 *#School Days

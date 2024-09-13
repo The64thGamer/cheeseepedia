@@ -15,21 +15,21 @@ gallery = []
 (C) S. P. T. Inc.
 SPP BEST OF#3/WAVE BDAY
 Serial #0054 Deck - 9
-02/14/91 - Master CYBERSTAR|d1 download=https://archive.org/download/spp-best-of-3-wave-bday/SPP%20Best%20of%20%233%20%26%20Wave%20BDAY.mp4|d1 name=VHS Rip (Missing Signals)}}**_SPP Best Of 3 / Wave Bday**_ is one of the last few showtapes released for _Showbiz Pizza Place's_ hosting the _Rock-afire Explosion_.
+02/14/91 - Master CYBERSTAR|d1 download=https://archive.org/download/spp-best-of-3-wave-bday/SPP%20Best%20of%20%233%20%26%20Wave%20BDAY.mp4|d1 name=VHS Rip (Missing Signals)}}<b><i>SPP Best Of 3 / Wave Bday</b></i> is one of the last few showtapes released for <i>Showbiz Pizza Place's</i> hosting the <i>Rock-afire Explosion</i>.
 
-For some stores, this was the last tape used before _Concept Unification_ would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to _3-Stages._
+For some stores, this was the last tape used before <i>Concept Unification</i> would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to <i>3-Stages.</i>
 
-Despite the later years of _Cyberstar_ being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single _Cyberstar_ segment for stores to have. It was said at this time that due to the _Rock-afire Explosion_ being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The _Best of_ series could be seen as an encouragement of this.
+Despite the later years of <i>Cyberstar</i> being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single <i>Cyberstar</i> segment for stores to have. It was said at this time that due to the <i>Rock-afire Explosion</i> being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The <i>Best of</i> series could be seen as an encouragement of this.
 
-##Show List:##
-#**Intermission 1**
+<h2>Show List:</h2>
+#<b>Intermission 1</b>
 ##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Help_Me,_Rhonda _Help Me, Rhonda_]
-###[https://en.wikipedia.org/wiki/Every_Little_Thing_She_Does_Is_Magic _Every Little Thing She Does Is Magic_]
+###[https://en.wikipedia.org/wiki/Help_Me,_Rhonda <i>Help Me, Rhonda</i>]
+###[https://en.wikipedia.org/wiki/Every_Little_Thing_She_Does_Is_Magic <i>Every Little Thing She Does Is Magic</i>]
 ###Birthday Spectacular
-###[https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song) _Palisades Park_]
+###[https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song) <i>Palisades Park</i>]
 ##Cyberstar Intro
-#**Segment 1**
+#<b>Segment 1</b>
 ## Tune Machine 1
 ### [https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song) Our House]
 ### Tune Machine Malfunction Skit
@@ -38,38 +38,38 @@ Despite the later years of _Cyberstar_ being mostly re-used segments from earlie
 #### [https://en.wikipedia.org/wiki/Hang_On_Sloopy Hang on Sloopy]
 #### [https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy Doo Wah Diddy]
 
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Straight_Up_(Paula_Abdul_song) _Straight Up_]
+###[https://en.wikipedia.org/wiki/Straight_Up_(Paula_Abdul_song) <i>Straight Up</i>]
 ###Birthday Spectacular
-###_[https://en.wikipedia.org/wiki/Stand_(R.E.M._song) Stand]_
-###_[https://en.wikipedia.org/wiki/The_Promise_of_a_Future Grazing In The Grass]_
+###<i>[https://en.wikipedia.org/wiki/Stand_(R.E.M._song) Stand]</i>
+###<i>[https://en.wikipedia.org/wiki/The_Promise_of_a_Future Grazing In The Grass]</i>
 ##Cyberstar Intro
-#**Segment 2**
+#<b>Segment 2</b>
 ## Tune Machine 2
 ### [https://en.wikipedia.org/wiki/Coconut_(song) (Lime in the) Coconut]
 ### Looney Fixes Tune Machine Skit
 ### [https://en.wikipedia.org/wiki/True_Confessions_(album) Venus]
 
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##8 Minute Countdown
-###_[https://en.wikipedia.org/wiki/Silly_Love_Songs Silly Love Songs]_
+###<i>[https://en.wikipedia.org/wiki/Silly_Love_Songs Silly Love Songs]</i>
 ###Birthday Spectacular
-###_[https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another One Thing Leads to Another]_
+###<i>[https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another One Thing Leads to Another]</i>
 ##Cyberstar Intro
-#**Segment 3**
+#<b>Segment 3</b>
 ##Bach to Rock
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##8 Minute Countdown
-###_[https://en.wikipedia.org/wiki/The_Lonely_Bull The Lonely Bull (El Solo Toro)]_
-###_[https://en.wikipedia.org/wiki/Put_Yourself_in_My_Shoes Put Yourself In My Shoes]_
+###<i>[https://en.wikipedia.org/wiki/The_Lonely_Bull The Lonely Bull (El Solo Toro)]</i>
+###<i>[https://en.wikipedia.org/wiki/Put_Yourself_in_My_Shoes Put Yourself In My Shoes]</i>
 ###Birthday Spectacular
-###_[https://en.wikipedia.org/wiki/Sugar_Shack Sugar Shack]_
-###_[https://en.wikipedia.org/wiki/Don%27t_Stop_(Fleetwood_Mac_song) Don't Stop]_
+###<i>[https://en.wikipedia.org/wiki/Sugar_Shack Sugar Shack]</i>
+###<i>[https://en.wikipedia.org/wiki/Don%27t_Stop_(Fleetwood_Mac_song) Don't Stop]</i>
 ##Cyberstar Intro
-#**Segment 4**
+#<b>Segment 4</b>
 ##Olympics
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The intermission music is the same as [https://decodedocdigitize.miraheze.org/wiki/CEC_Future CEC Future] (except it's missing two intermission from that show)

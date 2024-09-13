@@ -18,19 +18,19 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 3 2015**_ released April 20th 2015 featuring two songs
+<b><i>Show 3 2015</b></i> released April 20th 2015 featuring two songs
 
 This was created to play from April 20th 2015 - June 14th 2015. This show features two new songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Carly Rae Jepson - 'I Really Like You'
 ## Decoder Joke 1 
 ## Josh & The Jamtones - 'Bear Hunt: The Final Skit'
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Chuck E. Cheese - 'Giant Armadillo Named Phil'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Sabrina Carpenter - 'We'll Be The Stars'
 ## Cartoon Network - 'Steven Universe 1'
 ## CEC Promo - 'Reading with Chuck E.'
@@ -46,9 +46,9 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 ## Coldplay - 'Sky Full of Stars
 ## Decoder Joke 3 
 ## Cartoon Network - 'Uncle Grandpa 1'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Chuck E. Cheese - 'In The Future'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Josh & The Jamtones - 'John Jacob'
 ## CEC Promo - 'Fundraiser'
 ## Cartoon Network - 'Steven Universe 2'
@@ -57,7 +57,7 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 ## Josh & The Jamtones - 'Bear Hunt Trailer'
 ## Cartoon Network - 'Uncle Grandpa 2'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 *Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Do The Chuck E. 2015 (3stage, Cyberamic, Studio C,Weigl)
@@ -67,13 +67,13 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://youtu.be/IXAnFlTVvj8?t=2314 'Giant Armadillo Named Phill' on YouTube] 
 *[https://www.youtube.com/watch?v=iOtUrLwhA0A 'In The Future' on YouTube] 
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * There was a new promotion that ran with this show. When purchasing a 'Chuck E. Cheese's Value Deal' you would be given red glasses that the 'Decoder Joke' intermissions would have a 'Super Secret Decoder Joke, Use your Glasses to unlock the secret code and laugh away!' The jokes in order were 'What Did the Buffalo say to his son as he was leaving?' 'Bison' Joke 2 was 'What's orange and sounds like a parrot?' 'A Carrot' Joke 3 was 'Why don't monsters eat clowns' 'They taste funny' and the final joke is 'What do you call a sleeping pizza' 'Pizzzza'

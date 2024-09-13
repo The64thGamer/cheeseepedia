@@ -8,9 +8,9 @@ date = 2023-12-02T17:08:45Z
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys123"]
 gallery = []
 +++
-**_222 E Main Street**_ was a Pizza Time Theater in New Britain, Connecticut that opened in July 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1985. At the entrance, It had a Rat Hole for the Kids to experience going in.
+<b><i>222 E Main Street</b></i> was a Pizza Time Theater in New Britain, Connecticut that opened in July 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1985. At the entrance, It had a Rat Hole for the Kids to experience going in.
 
-## Stages ##
+<h2> Stages </h2>
 When they were opened, they only had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). After closure, the bots were either destroyed, sent to another location, or placed in storage.
 {| class='wikitable'
 |+
@@ -23,7 +23,7 @@ When they were opened, they only had a [Balcony Stage]({{< ref "wiki/Cyberamics 
 |1985
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 |Animatronics  

@@ -9,13 +9,13 @@ contributors = ["Concordio","The 64th Gamer"]
 gallery = ["Pizza Time Theatre Memo Pad.png|thumb|Personalized memo-pad for Pizza Time Theatre Incorporated employee Jack Campbell."]
 +++
 
-The **_Pizza Time Theatre Memo Pads**_ were given out to corporate employees from presumably 1980 to an unknown year.
+The <b><i>Pizza Time Theatre Memo Pads</b></i> were given out to corporate employees from presumably 1980 to an unknown year.
 
-## History ##
+<h2> History </h2>
 The Pizza Time Theatre Memo-Pads were handed out to corporate employees with personalized text depending on the employee it was handed out to. We can presume these were handed out from 1980 to 1984 at the very most.
 
-## Design ##
+<h2> Design </h2>
 The corporate memo pads used a yellow piece of paper as a base with the Chuck E. Cheese character at the top, with 'A (Employee Name) MEMO' written on a design similar to the Pizza Time Theatre logo seen at the [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) store. In the top right corner, 5 holes were cut out to make it look like Swiss Cheese, which Pizza Time Theatre Incorporated used quite frequently in their designs.
 
-## References ##
+<h2> References </h2>
 https://www.showbizpizza.com/info/documents/ptt/ptt_corp-memos.pdf

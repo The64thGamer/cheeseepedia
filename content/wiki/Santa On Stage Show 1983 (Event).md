@@ -8,7 +8,7 @@ date = 2023-12-15T20:25:46Z
 contributors = ["The 64th Gamer"]
 gallery = ["Klunkinstalls2.png|thumb|252x252px|Map of confirmed Klunk installations for this event.",":Nov1983preselectionletter.png",":Fort Worth Star Telegram Sun Dec 4 1983 .jpg",":Illinoissantapicturesa.jpg",":Pensacolaclipsanta.jpg",":NorthRichlandHillsCountryKlunk.png",":SpringfieldOHKlunkVAlves.png"]
 +++
-## Store Appearances ##
+<h2> Store Appearances </h2>
 
 Klunks would be confirmed to have traveled from their original locations to new locations during this event, though it is unknown how many new stores received them.<ref></ref>
 
@@ -48,7 +48,7 @@ Six stores would be confirmed to have kept Klunk from the previous [Amazing Uncl
 * [West Des Moines, IA (1431 22nd St)]({{< ref "wiki/West Des Moines, IA (1431 22nd St).md" >}})<ref>https://www.newspapers.com/image/130775534/?terms=%22Santa%20on%20Stage%22%20%22ShowBiz%22&match=1</ref>
 * [North Richland Hills, TX (7935 Grapevine Hwy)]({{< ref "wiki/North Richland Hills, TX (7935 Grapevine Hwy).md" >}})<ref>Country Klunk tape filmed there. </ref>
 
-### Unconfirmed Stores ###
+<h2>= Unconfirmed Stores </h2>=
 Two stores had some sort of Klunk part discovered at their location. Springfield with Klunk valves, and Davenport with a Klunk arm. This confirms Klunk was present at their store at some point, but it is unknown which event(s) he was used in. Davenport does mention potentially receiving a Klunk for 1983 however.<ref name=':0'>https://www.newspapers.com/image/665684553/?clipping_id=55395460&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjY2NTY4NDU1MywiaWF0IjoxNjk2OTcwNDk0LCJleHAiOjE2OTcwNTY4OTR9.sClG1OZrf2KnRIxRDXP7BAdtVpv1p4YKdgIgIRQHA4Q</ref>
 
 * [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})<ref>Store had Klunk Valves under the stage.</ref>
@@ -58,4 +58,4 @@ The Farmington Hills, MI (29955 Orchard Lake Rd) store also could have had Klunk
 
 
 
-## References ##
+<h2> References </h2>

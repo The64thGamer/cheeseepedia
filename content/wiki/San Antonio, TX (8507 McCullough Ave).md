@@ -8,9 +8,9 @@ date = 2024-07-11T21:33:01Z
 contributors = ["Gostapua210"]
 gallery = []
 +++
-**San Antonio, TX (8507 McCullough Ave)** was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in August 1981 and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). First Pizza Time Theatre in San Antonio.
+<b>San Antonio, TX (8507 McCullough Ave)</b> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in August 1981 and closed in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). First Pizza Time Theatre in San Antonio.
 
-## Stage ##
+<h2> Stage </h2>
 The location had a Balcony Stage, any further documentation is unknown.
 {| class='wikitable'
 !Stage
@@ -24,10 +24,10 @@ The location had a Balcony Stage, any further documentation is unknown.
 |Whereabouts Unknown. One of many installed in Texas.
 |}
 
-## History ##
+<h2> History </h2>
 Unfortunately, there is no documentation on this store other than select advertisements. The location closed in 1984 for reasons unknown, maybe for underperforming or competition from other San Antonio stores. The address now belongs to The Martini Club and various other businesses.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts

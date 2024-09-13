@@ -5,28 +5,29 @@ tags = ["Store List"]
 date = 2023-12-22T22:29:28Z
 
 [Article]
+pageThumbnailFile = "desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg}}
-**_Streamwood, IL (990 S Barrington Rd), Store #59**_ was a _Chuck E. Cheese's_ that opened on March 6th, 1990 originally as a _ShowBiz Pizza_<ref>https://youtu.be/7PC9qMDTWTM?si=7XJl9IRikeI68SZnand</ref> with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed in June 2014 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This location was located right across from the Westview Shopping Center.
+
+<b><i>Streamwood, IL (990 S Barrington Rd), Store #59</b></i> was a <i>Chuck E. Cheese's</i> that opened on March 6th, 1990 originally as a <i>ShowBiz Pizza</i><ref>https://youtu.be/7PC9qMDTWTM?si=7XJl9IRikeI68SZnand</ref> with [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}), and closed in June 2014 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This location was located right across from the Westview Shopping Center.
 
 This location is notable for being featured in a 2007 semi-viral video where the 2-Stage animatronics pretend to have a shootout.
 
-##History##
-###ShowBiz Pizza & CEC (March 1990-June 2014)###
+<h2>History</h2>
+<h2>=ShowBiz Pizza & CEC (March 1990-June 2014)</h2>=
 Streamwood had its grand opening on March 6th, 1990, and was built right across from the recently opened Westview Shopping Center. This store opened as a ShowBiz Pizza with the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}), with the stage being [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). It is currently unknown when the Streamwood location rebranded as a Chuck E. Cheese's. Unfortunately, no photos or videos of Streamwood from back then have surfaced, and it is unknown if any exist. At an unknown date, this store would receive a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), replacing the Chuck E.'s House stage it had opened with. They would also later receive the SPT 1992/1993 Remodel Program (1993 Remodel), getting new signage with Coach Chuck in a star cap. They would keep this remodel until they would close. This store would also likely receive the Phase 1, 2, and 3 game packages.
 
 In June 2014, this store would close permanently, and would relocate to the larger [1000 S Barrington Rd]({{< ref "wiki/Streamwood, IL (1000 S Barrington Rd).md" >}}) store in the Westview Shopping Center across from the old store.
 
-###Post CEC (June 2014-Present)###
+<h2>=Post CEC (June 2014-Present)</h2>=
 After the old store moved, the building would remain vacant for a few months, until a furniture store would take the space over, repainting the roof a grey color. The red doors used when the building was Chuck E. Cheese's would remain on the building. Sometime in 2017, the furniture store would permanently close, leaving the building yet again vacant.
 
 As of April 2023, the original building is completely gone, and was demolished for a Andigo Credit Union drive-thru bank, later becoming a Consumer's Credit Union. The bank remains to this day.
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Strike Zone
 *CEC Street Hoops
@@ -44,12 +45,12 @@ As of April 2023, the original building is completely gone, and was demolished f
 *Super Monkey Ball Ticket Blitz
 *Redhot
 
-###Coin Action###
+<h2>=Coin Action</h2>=
 
 *Hat Trick
 *Smokin' Token Extreme
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Angel Carousel
 *Hammer 2
@@ -62,7 +63,7 @@ As of April 2023, the original building is completely gone, and was demolished f
 *Arka Jungle Boat
 *Hammerhead
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -98,7 +99,7 @@ As of April 2023, the original building is completely gone, and was demolished f
 |Owned by a Private Collector.
 |}
 
-##Stages##
+<h2>Stages</h2>
 When this store opened in 1990, they had a Chuck E.'s House stage, this was later replaced by the 2-Stage.
 {| class='wikitable'
 !Stage
@@ -120,7 +121,7 @@ When this store opened in 1990, they had a Chuck E.'s House stage, this was late
 [http://showbizpizza.com/photos/cec/il_streamwood/index.html 2002]
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
 
-##References##
+<h2>References</h2>

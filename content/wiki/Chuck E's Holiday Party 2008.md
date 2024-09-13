@@ -8,7 +8,7 @@ date = 2024-07-30T13:12:48Z
 contributors = ["The 64th Gamer","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","Documentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{NonStandard}}
+
 # Segment 1
 ## 'Holly Jolly Christmas'
 ## 'White Christmas'
@@ -36,4 +36,4 @@ gallery = []
 ## 'Up On The Housetop'
 ## 5 Minute Countdown
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

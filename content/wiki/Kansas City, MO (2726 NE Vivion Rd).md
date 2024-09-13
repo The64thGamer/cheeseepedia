@@ -5,16 +5,17 @@ tags = []
 date = 2024-06-21T16:34:43Z
 
 [Article]
+pageThumbnailFile = "antioch2007.jpg| Antioch's Exterior In 2005 (PC:showbizpizza.com)"
 contributors = ["RedaCEC","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","CorrectorMan","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Saan1ty"]
 gallery = []
 +++
-{{Generic|image=antioch2007.jpg|desc= Antioch's Exterior In 2005 (PC:showbizpizza.com)}}
 
-**_2726 NE Vivion Rd**_, **_Store #82**_<ref>https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a _[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})_ that opened as the first _[ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}})_ on March 2nd, 1980<ref name=':0'>https://www.showbizpizza.com/info/documents/spp/spp_memos_80.pdf</ref><ref>https://www.showbizpizza.com/info/articles/spp/spp_80kansascity.pdf</ref>, and closed in Spring 2007 as a _Chuck E. Cheese's_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). It is commonly referred to by fans as 'Antioch.'
+
+<b><i>2726 NE Vivion Rd</b></i>, <b><i>Store #82</b></i><ref>https:<i>www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</ref> was a <i>[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})</i> that opened as the first <i>[ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}})</i> on March 2nd, 1980<ref name=':0'>https:</i>www.showbizpizza.com/info/documents/spp/spp_memos_80.pdf</ref><ref>https://www.showbizpizza.com/info/articles/spp/spp_80kansascity.pdf</ref>, and closed in Spring 2007 as a <i>Chuck E. Cheese's</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). It is commonly referred to by fans as 'Antioch.'
 
 This location is not to be confused with the [current location]({{< ref "wiki/Kansas City, MO (9196 N Skyview Ave).md" >}}), which opened on August 4, 2008 and is still open today with the 2.0 remodel.
 
-##History##
+<h2>History</h2>
 The store would post job listings during February & March 1980.
 
 Kansas City (Antioch) opened in the Antioch Shopping Center on March 2nd, 1980 with a [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) show. Differences to the WP5 show were made for the store, such as the use of the SPP logo on Dingo's Drum front, & changing Queenie to Mini Mozzarella. 
@@ -23,7 +24,7 @@ In April 1980, ShowBiz corporate wanted to replace the Wolf Pack 5 show or possi
 
 In 1981, the Wolf Pack 5 Show was shipped to the [Creative Engineering R&D Office]({{< ref "wiki/Creative Engineering R&D Office.md" >}}) and was replaced with the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}). The Store received the [1988 Remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) in the late '80s, which involved removing and replacing the artwork, renaming the restaurant to ShowBiz Pizza, added checkers inside and outside the store, and receiving the Showbiz Pizza Campground Upgrade. In 1991/1992, Kansas City received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), keeping the 1988 remodel, renaming the restaurant to Chuck E. Cheese's Pizza, replacing ShowBiz decor for CEC decor, and retrofitting the Rock-afire Explosion into Munch's Make Believe Band. In the early 90s, the store got the [SPT 1992 Remodel]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). The store later received [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}) as well, which added the 'Chuck E. Cheese's' - Letters / Thumb Logo (Star Cap) (SPT Exterior Signage) ('Cool Chuck' Star Cap Exterior logo), new decor, and new merchandise. The store possibly received [Phase 2 (1997)]({{< ref "wiki/Phase 2 (1997).md" >}}) in 1997. Their show would receive plastic masks in the late 90s and early 2000s. Kansas City would close in Spring 2007 for unknown reasons, but likely that Antioch Center, the mall it was in, was entirely abandoned, and Chuck E. Cheese's was the only thing that was left. The location was left abandoned along with the rest of the mall for 5 years until it was demolished beginning in January 2012. As of June 2023, a different shopping center takes its place.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store first opened as a Showbiz Pizza Place, they had the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}), later, the Rock-afire [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). When they got Concept Unification, they kept the stage. It remained at the location until the Spring 2007 closure.
 {| class='wikitable'
 |+
@@ -31,7 +32,7 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 !Installed
 ! Removed
 |-
-|[Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}})<ref name=':0' /><ref>https://www.youtube.com/watch?v=UsVA1GIrXU8</ref><ref>https://www.showbizpizza.com/info/promo/spp/spp_80franchise-wp5.pdf</ref>
+|[Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}})<ref name=':0' /><ref>https:<i>www.youtube.com/watch?v=UsVA1GIrXU8</ref><ref>https:</i>www.showbizpizza.com/info/promo/spp/spp_80franchise-wp5.pdf</ref>
 |March 1980
 |1981
 |-
@@ -48,7 +49,7 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 |Spring 2007
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Name
@@ -204,7 +205,7 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 |Retrofitted in 1991/1992.
 |}
 
-## Mascot Costumes ##
+<h2> Mascot Costumes </h2>
 {| class='wikitable'
 |+
 !Head
@@ -223,7 +224,7 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 |Unknown
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -246,5 +247,5 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 
 
 
-##References##
+<h2>References</h2>
 <references />

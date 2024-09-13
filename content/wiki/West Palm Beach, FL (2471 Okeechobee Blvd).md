@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-08-01T14:28:20Z
 
 [Article]
+pageThumbnailFile = "West Palm Beach in April 2022..jpg|West Palm Beach in April 2022. (PC: Google Maps)"
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","Fartsmeller","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=West Palm Beach in April 2022..jpg|desc=West Palm Beach in April 2022. (PC: Google Maps)}}
-**_2471 Okeechobee Blvd, Store #777**_ was a Chuck E. Cheese's that opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
+
+<b><i>2471 Okeechobee Blvd, Store #777</b></i> was a Chuck E. Cheese's that opened on December 26, 2013 with a [Circles of Light, 32M]({{< ref "wiki/Circles of Light.md" >}}), which is still open to this day.
 
 This location received 2.0 in March 2022, and kept the COL, but removed the bot.
 
-This is not to be confused with the West Palm Beach, FL (2101 Palm Beach Lakes) _Pizza Time Theatre_ which opened in December 1982 and closed sometime in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and [West Palm Beach, FL (4646 Okeechobee Blvd)]({{< ref "wiki/West Palm Beach, FL (4646 Okeechobee Blvd).md" >}}) _Chuck E. Cheese's Pizza_ which opened on December 18th, 1990 with a [Road Stage Prototype]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in December 2004 with a finalized Road Stage.
+This is not to be confused with the West Palm Beach, FL (2101 Palm Beach Lakes) <i>Pizza Time Theatre</i> which opened in December 1982 and closed sometime in 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and [West Palm Beach, FL (4646 Okeechobee Blvd)]({{< ref "wiki/West Palm Beach, FL (4646 Okeechobee Blvd).md" >}}) <i>Chuck E. Cheese's Pizza</i> which opened on December 18th, 1990 with a [Road Stage Prototype]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in December 2004 with a finalized Road Stage.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Circles of Light, 32M, the bot came from South Portland, Maine, which closed in 2012, that location was also the only location in Maine. West Palm Beach would have the COL, 32M for several years, until March of 2022, when they would undergo the 2.0 remodel, except this one was different than others, as they would keep the COL, but remove the animatronic, while also putting in a Dance Floor. As of September 2022, they still have the Circles of Light and Dance Floor.
 {| class='wikitable'
 |+
@@ -40,7 +41,7 @@ Originally when the store opened, they had a Circles of Light, 32M, the bot came
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

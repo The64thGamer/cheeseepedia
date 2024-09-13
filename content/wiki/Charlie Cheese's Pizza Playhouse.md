@@ -5,20 +5,21 @@ tags = ["Restaurants & Company History"]
 date = 2024-03-14T17:50:49Z
 
 [Article]
+pageThumbnailFile = "Charlie Cheese's Pizza Playhouse Logo.png|Charlie Cheese's Pizza Playhouse Logo from March 1981 until 1982"
 contributors = ["CECBowlingGreen","The 64th Gamer","RessiduePezzzado","Pench0782","CorrectorMan","Tux Chuck","PizzaEntertainmentFanX"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Charlie Cheese's Pizza Playhouse Logo.png|desc=Charlie Cheese's Pizza Playhouse Logo from March 1981 until 1982}}
 
-**_Charlie Cheese's Pizza Playhouse**_ was the Australian branch of Chuck E. Cheese's Pizza Time Theatre locations, which operated from March 1981 up until round 1984 to 1986. 
 
-## History ##
+<b><i>Charlie Cheese's Pizza Playhouse</b></i> was the Australian branch of Chuck E. Cheese's Pizza Time Theatre locations, which operated from March 1981 up until round 1984 to 1986. 
+
+<h2> History </h2>
 In 1981, PTT opened there first Charlie Cheese's in [Surfer's Paradise, Queensland, Australia (2 Cavil Avenue)]({{< ref "wiki/Surfer's Paradise, Queensland, Australia.md" >}}) with a [Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}}). The name was changed from Chuck to Charles due to Chuck meaning 'Throw Up' in Australian. The Cavil Location closed in 1982 & another one opened the same year in [Carina, Queensland, Australia (1151 Creek Road)]({{< ref "wiki/Carina, Queensland, Australia.md" >}}) with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).The location closed around 1984 to 1986 making Charlie Cheese's defunct.
 
-##Merchandise ##
+<h2>Merchandise </h2>
 
 
-##Locations##
+<h2>Locations</h2>
 {| class='wikitable'
 |+
 !Location
@@ -40,11 +41,11 @@ In 1981, PTT opened there first Charlie Cheese's in [Surfer's Paradise, Queensla
 |Balcony Stage
 |}
 
-## Stages Used in Stores ##
+<h2> Stages Used in Stores </h2>
 {| class='wikitable'
 |+
 !Name
-!**First Installed**
+!<b>First Installed</b>
 !Last Removed
 !Notes
 |-

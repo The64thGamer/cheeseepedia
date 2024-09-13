@@ -12,23 +12,23 @@ gallery = []
 |date=July 1, 1985
 |showbizreel=y}}
 
-The **_Celebration Birthday Tape**_ is a Rock-afire Explosion showtape made for ShowBiz Pizza Place locations on July 1, 1985.
+The <b><i>Celebration Birthday Tape</b></i> is a Rock-afire Explosion showtape made for ShowBiz Pizza Place locations on July 1, 1985.
 
-## Segment List ##
-#**Birthday 1**
-##_Mickey's Birthday_
-#**Birthday 2**
-##_No Birthday_
-#**Birthday 3**
-##_Three Dog Night Celebration_
-#**Birthday 4**
-##_Stevie's Birthday_
-#**Birthday 5**
-##_Rare Earth Celebration_
-#**Birthday 6**
-##_Celebrate Good Times_
-#**Birthday 7**
+<h2> Segment List </h2>
+#<b>Birthday 1</b>
+##<i>Mickey's Birthday</i>
+#<b>Birthday 2</b>
+##<i>No Birthday</i>
+#<b>Birthday 3</b>
+##<i>Three Dog Night Celebration</i>
+#<b>Birthday 4</b>
+##<i>Stevie's Birthday</i>
+#<b>Birthday 5</b>
+##<i>Rare Earth Celebration</i>
+#<b>Birthday 6</b>
+##<i>Celebrate Good Times</i>
+#<b>Birthday 7</b>
 ##Jazz B-Day
-#**Birthday 8**
-##_Birthday Bop_
-##Showtape Scans / Images##
+#<b>Birthday 8</b>
+##<i>Birthday Bop</i>
+<h2>Showtape Scans / Images</h2>

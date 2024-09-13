@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-09-04T03:59:21Z
 
 [Article]
+pageThumbnailFile = "HuntingtonBeachExterior2018AprilGoogleMaps.png|thumb"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ChuckEPediaIsTheBest!","StarToday77","Saan1ty","Cheeseclassic","SuperCreamPiper2008","Caydenpedia","PizzaEntertainmentFanX","CEC1988","The 64th Gamer","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = []
 +++
-{{Generic|image=HuntingtonBeachExterior2018AprilGoogleMaps.png|thumb|desc=Street view of the exterior in April 2018 (PC: Google Maps)}}
-**_15511 Edwards St, Store #406**_ is the fifth [Chuck E. Cheese's _Pizza Time Theatre_]({{< ref "wiki/Pizza Time Theatre.md" >}}) location, opening on October 6, 1979, and is currently the oldest operating CEC in the world.
+
+<b><i>15511 Edwards St, Store #406</b></i> is the fifth [Chuck E. Cheese's <i>Pizza Time Theatre</i>]({{< ref "wiki/Pizza Time Theatre.md" >}}) location, opening on October 6, 1979, and is currently the oldest operating CEC in the world.
 
 The former oldest was [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}), which closed in June 2020 as one of the 61 locations closed in 2020. It is also the last location to have been from the 70's after Kooser's closure.
-##History##
+<h2>History</h2>
 Huntington Beach opened on October 6th, 1979. Unfortunately, information on the Huntington location during its time as a PTT is scarce with not even any newspapers from the 70's being found of the location, but it is known that they had a Portrait Stage and a Cabaret Helen Henny.
 
 Huntington remained unchanged until 1989/1990 when it received the 1988 remodel, where the Portrait Stage was replaced with Chuck E.'s House Facade, early 90's decor was added, and the Cabaret Helen Henny was removed. 
@@ -26,7 +27,7 @@ In November 2023, Huntington Beach would remove the curtains on their 2-Stage. T
 During May-June 2024 the stage would decrease even more in operation, Chuck. E’s left eyelid(from viewer’s perspective) would be removed, his Head moving up wouldn’t work, and most of the air flow in him would not enter certain places, like his torso. Helen’s Eyelids would be removed for repairs, and her mouth stopped functioning. Munch is the only perfect one in operation. Jasper cannot move his head up, and his eye is wonky, Pasqually lost the back of his head and mouth moving.
 Huntington Beach would receive the CEC 2018 2.0 Remodel Program (Trampoline Zone) alongside [Chino, CA]({{< ref "wiki/Chino, CA (5250 Philadelphia St).md" >}}) around this time. In August 2024, most of the problems mentioned would be fixed. The animatronics will be staying until this locations relocation later this year.
 
-##Stages##
+<h2>Stages</h2>
 Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, there are some photos but hardly any videos to exist of Huntington Beach during its PTT/CECP Era.
 {| class='wikitable'
 !Stage
@@ -49,7 +50,7 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 |Still in use
 |One of many installed in California. One of two 2-Stage's operating in California.
 |-
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -106,7 +107,7 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 
 
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -138,5 +139,5 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 |June 22nd, 2024
 |June 22nd, 2024
 |}
-##References##
+<h2>References</h2>
 <references />

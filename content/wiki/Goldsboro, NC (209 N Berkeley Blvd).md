@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-07-18T17:57:17Z
 
 [Article]
+pageThumbnailFile = "Chuck E. Cheese Goldsboro.png|Front Exterior of Store"
 contributors = ["66.215.38.213","Rexburg090","CorrectorMan","Cheeseclassic","Matchafather","Jaxonia"]
 gallery = []
 +++
-{{Generic|image=Chuck E. Cheese Goldsboro.png|desc=Front Exterior of Store}}
-**_209 N Berkeley Blvd, Store #386**_ is a _Chuck E. Cheese's_/_Chuck E. Cheese_ in Goldsboro, North Carolina. 
+
+<b><i>209 N Berkeley Blvd, Store #386</b></i> is a <i>Chuck E. Cheese's</i>/<i>Chuck E. Cheese</i> in Goldsboro, North Carolina. 
 
 The store opened on September 19th, 2003, with a Studio C Cappa V2 in the Ashley Plaza Strip Mall. It is still open today with the 2.0 Remodel as of 2024. It is located along an Ashley Furniture Store and a now closed phone repair shop.
-## History ##
+<h2> History </h2>
 
-### Pre CEC (1977-2001) ###
+<h2>= Pre CEC (1977-2001) </h2>=
 Ashley Plaza would open in June 1977, the space where the Goldsboro Chuck E. Cheese currently resides was originally a Revco Discount Drug Store, in the 1990's, it would close and become a CVS/Pharmacy. CVS would remain open until 2001 when the store would close for good.
 
-### CEC (September 19, 2003-Present) ###
+<h2>= CEC (September 19, 2003-Present) </h2>=
 Goldsboro opened on September 19th, 2003, in the Ashley Plaza with a Small-Town Studio C , this was the first Studio C Cappa store to open in the state of North Carolina. When the store opened, this was one of the 7 locations to have the Small-Town Studio C V1. Its neighboring tenants included a Save-A-Lot (now Ashley Furniture Store), K- Mart, and Shoe Show. Around October 2013, the store would then receive the 2013 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved replacing the dim lighting with bright lighting, an exterior remodel, adding purple walls, and replacing store art. The store also received an expansion during this time, in which the neighboring tenant Shoe Show had relocated within the Plaza and the wall separating Chuck E. Cheese and Shoe Show was knocked down. Expanding the game room adding 30 player positions, as well as adding a tech room and birthday closet. The store's exterior was later repainted alongside the rest of plaza. July 19th, 2023 Goldsboro started their 2.0 Remodel and their Studio C would removed shortly after on August 2nd, 2023. The Dance Floor was installed following the removal of the Studio C on August 2nd, 2023, the Video Wall was installed shortly after on August 3rd, 2023. 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -37,7 +38,7 @@ Goldsboro opened on September 19th, 2003, in the Ashley Plaza with a Small-Town 
 |Still in use
 |In-floor dance floor installed, located in old kiddie area.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing date
@@ -57,5 +58,5 @@ Goldsboro opened on September 19th, 2003, in the Ashley Plaza with a Small-Town 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 TODO

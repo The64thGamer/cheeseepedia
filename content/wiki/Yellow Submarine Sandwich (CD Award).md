@@ -9,12 +9,12 @@ contributors = ["CoolerDude"]
 gallery = ["YSS.png|thumb"]
 +++
 
-Yellow Submarine Sandwich was a parody award created by Corman and Associates and released for _Chuck E. Cheese's_ stores receiving the SPT 1992/1993 Remodel Program in 1993.
+Yellow Submarine Sandwich was a parody award created by Corman and Associates and released for <i>Chuck E. Cheese's</i> stores receiving the SPT 1992/1993 Remodel Program in 1993.
 
-## Production ##
+<h2> Production </h2>
 TODO:
 
-## Design ##
+<h2> Design </h2>
 TODO:
 
 

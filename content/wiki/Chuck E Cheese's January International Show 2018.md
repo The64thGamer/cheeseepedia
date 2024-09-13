@@ -9,44 +9,44 @@ contributors = ["ElWarlos35"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
 #
-**_Chuck E. Cheese's International Show 1, 2018**_ 
+<b><i>Chuck E. Cheese's International Show 1, 2018</b></i> 
 
 This was created to play from January to April 2018. Featuring 6,  2 songs are new with 4 being reused.
 
 This show introduces a new character to the band. A hispanic bunny called Bella and also includes a remade version of the 2014 Intermission 'Steve Waters Journey'
-##Show List:##
-#**Skit 1**
+<h2>Show List:</h2>
+#<b>Skit 1</b>
 ##Chuck E. Cheese - 'Let's Have A Party'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Musings with Mr. Munch - Episode 1
 ##Show Break 1
 ##Jokes from Pasqually - 'Gorilas'
-# **Skit 2**
+# <b>Skit 2</b>
 ##Pasqually The Chef - 'LoopinsBoopinFakinDoopinFloppenLoopen Funnin´s Day'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Fun Facts with Chuck E. Cheese - 'Full Moon'
 ##Show Break 2
 ##Mr. Munch 1 Minute Countdown (Retro)
-#**Skit 3**
+#<b>Skit 3</b>
 ##Chuck E. & Friends - 'Song Title'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##  CEC Sketch - 'Steve Waters Journey'
 ##CEC Sketch - Helen Henny´s Hollywood
-# **Skit 4**
+# <b>Skit 4</b>
 ##Hellen Henny & Bella The Bunny 'Bailando'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##CEC Sketch - Counting Sheep
 ##CEC Sketch - Pizza Plant
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E. Cheese & Friends - 'Cowboys Life'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Jokes from Pasqually - 'Spots'
 ##Fun facts with Chuck E. Cheese - 'Bears'
 ##Show Break 3 
 ##Mr. Munch 1 Minute Countdown (Retro)
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. Cheese & Friends - 'Party With You'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Show Break 4
 ##Bobby Bear - 'Tuxedo'
 ##Fun facts with Chuck E. Cheese - 'Music'

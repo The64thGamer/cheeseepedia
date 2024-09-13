@@ -9,18 +9,18 @@ contributors = ["TheChuckECheeseGuy","ShowbizMidwest","CECMentor"]
 gallery = ["Site of daytona beach ptt.jpg|thumb|The site of the location via Google Maps."]
 +++
 
-**_1300 W International Sp**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in January 1982 and closed in 1984 with a Balcony Stage. 
+<b><i>1300 W International Sp</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in January 1982 and closed in 1984 with a Balcony Stage. 
 
-##Stages##
-Daytona Beach opened and closed with a Balcony Stage. However, very little is known about Daytona Beach, and after the 1984 closure, the bots were auctioned, just like every PTT that closed around that time. The bots were purchased and stored away in Palatka, Florida, for 35 years, before being discovered. The Balcony and Dolli are now owned by collectors, and The King and the Four Little Shavers were restored and are now at the _Volo Museum (Volo Auto Museum)_ in Volo, Illinois.
+<h2>Stages</h2>
+Daytona Beach opened and closed with a Balcony Stage. However, very little is known about Daytona Beach, and after the 1984 closure, the bots were auctioned, just like every PTT that closed around that time. The bots were purchased and stored away in Palatka, Florida, for 35 years, before being discovered. The Balcony and Dolli are now owned by collectors, and The King and the Four Little Shavers were restored and are now at the <i>Volo Museum (Volo Auto Museum)</i> in Volo, Illinois.
 
-###Cabaret & Lounge###
+<h2>=Cabaret & Lounge</h2>=
 Daytona Beach opened with the [Four Little Shavers]({{< ref "wiki/Four Little Shavers (Ice Cream Emporium).md" >}}), Dolli Dimples, and The King.<ref> https://www.newspapers.com/article/the-orlando-sentinel/132950614/</ref> 
 
-##History##
+<h2>History</h2>
 Daytona Beach opened in January 1982 with a Balcony Stage and the 1981 remodel. Unfortunately, not much information is known about this store at all. The store would later close in 1984 due to underperformance and the bankruptcy. The site would be passed down to multiple businesses, until finally becoming a Sky Zone Trampoline Park in 2016, along with a mall redevelopment. As of September 2023, the Sky Zone is still operational.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing Date

@@ -12,10 +12,10 @@ gallery = []
 |title =Evergreen Show 2024
 |date=January 2, 2024
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Chuck E. Cheese Evergreen 2024**_ is the generic show released on January 2, 2024 and was played in stores until March 31, 2024. It features a variety of songs released from 2016-2023.
+<b><i>Chuck E. Cheese Evergreen 2024</b></i> is the generic show released on January 2, 2024 and was played in stores until March 31, 2024. It features a variety of songs released from 2016-2023.
 
 This was created with the idea of playing between promotional events. This show features 12 Songs (10 songs for existing stages) with the automatic live being Me & My Friends.
-## Show List: ##
+<h2> Show List: </h2>
 
 #Intermission 1
 ##Off Road with Chuck E -Episode 1 (1/31-3/13)

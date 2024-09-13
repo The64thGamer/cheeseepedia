@@ -8,7 +8,7 @@ date = 2023-10-11T21:04:54Z
 contributors = ["The 64th Gamer"]
 gallery = ["Updatedklunk3map.png|thumb|275x275px|Map of confirmed Klunk installations for this event.",":Kedziesigninstallationproof.png",":NorthRichlandHillsCountryKlunk.png",":SpringfieldOHKlunkVAlves.png"]
 +++
-##Store Appearances##
+<h2>Store Appearances</h2>
 Map of confirmed Klunk installations for this event.Two stores are confirmed to have hosted the event, though it is unknown if Kedzie received a traveling Klunk, or obtained one from Farmington Hills, MI (29955 Orchard Lake Rd) with all the other animatronics they obtained from their closure.
 
 *[Fresno, CA (3117 W Shaw Ave)]({{< ref "wiki/Fresno, CA (3117 W Shaw Ave).md" >}})<ref>https://www.newspapers.com/image/705063965/?terms=%22Uncle%20Klunk%22&match=1</ref>
@@ -21,7 +21,7 @@ Six stores are inferred to have held this event due to hosting the [Santa On Sta
 *Minneapolis, MN (5939 John Martin Dr)<ref name=':14' />
 *Bloomington, MN (7989 Southtown Dr)<ref name=':14' />
 *[North Richland Hills, TX (7935 Grapevine Hwy)]({{< ref "wiki/North Richland Hills, TX (7935 Grapevine Hwy).md" >}})<ref name=':1'>Country Klunk tape filmed there. </ref>
-###Unconfirmed Stores###
+<h2>=Unconfirmed Stores</h2>=
 Due to evidence that [Chicago, IL (5030 S Kedzie Ave)]({{< ref "wiki/Chicago, IL (5030 S Kedzie Ave).md" >}}) installed their sign mech for [Country Klunk]({{< ref "wiki/Country Klunk.md" >}}) in 1985, a store that wasn't open until November 1, 1984, stores that have sign mechs installed do not confirm whether they had received Klunk in 1983, or at a later time. These stores are currently unconfirmed due to this:
 
 * [Dallas, TX (7110 S Westmoreland Rd)]({{< ref "wiki/Dallas, TX (7110 S Westmoreland Rd).md" >}})

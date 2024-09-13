@@ -8,17 +8,17 @@ date = 2023-12-28T18:13:56Z
 contributors = ["GallaRBX2","The 64th Gamer"]
 gallery = []
 +++
-{{Animatronic|image=CEI Beach Bear 1.jpg|releasedate=1993|finalrelease=1995|manufacturer=Creative Engineering}}
 
-The **_Beach Bear Mijjin**_ was an animatronic produced by _Creative Engineering Inc._ for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
 
-## History ##
+The <b><i>Beach Bear Mijjin</b></i> was an animatronic produced by <i>Creative Engineering Inc.</i> for the New Rock-Afire Explosion in 1993. <ref>https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</ref>
+
+<h2> History </h2>
 This character was produced in 1993 for the New Rock-Afire Explosion show.
 
-## Design ##
+<h2> Design </h2>
 This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Beach Bear Character from the [Rock-Afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) in the smaller Mijjin style, wearing Plaid Shorts, and a T-Shirt. The Shorts and T-Shirt design varies between Beach Bear bots.
 
-## Movements ##
+<h2> Movements </h2>
 All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos.
 {| class='wikitable'
 |+Top Drawer
@@ -107,5 +107,5 @@ All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servo
 
 
 
-## References ##
+<h2> References </h2>
 <references />

@@ -5,13 +5,14 @@ tags = ["Stage Variations"]
 date = 2024-08-23T03:55:33Z
 
 [Article]
+pageThumbnailFile = "Cu1stage.png|Whitehall, PA 2013"
 contributors = ["Documentor","BigCtheDataFinder","The 64th Gamer","ShowbizMidwest","CEC Tinley","ThatBoiCydalan","CorrectorMan","CECMentor","Livelycheese","BurgersNuggs445","Veronancy","AstridMascotFan2005","Caydenpedia","Cy's Junk at School"]
 gallery = [":Cecshowz.png"]
 +++
-{{Generic|image=Cu1stage.png|desc=Whitehall, PA 2013}}
-The **Concept Unification 1-Stage**, known commonly as the 'CU 1-Stage', is a stage setup found at three Chuck E. Cheese locations that had the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) moved from a side wall or had to be moved due to the store expanding.
 
-##History##
+The <b>Concept Unification 1-Stage</b>, known commonly as the 'CU 1-Stage', is a stage setup found at three Chuck E. Cheese locations that had the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) moved from a side wall or had to be moved due to the store expanding.
+
+<h2>History</h2>
 In September 2010 with the remodel of the [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}}) location CEC Entertainment introduced a brand-new stage that would be introduced for stores with the [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) which had to be moved due to store expansion / remodel. This stage would then be installed at two other stores once in 2011 in [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) and lastly with [Columbus, GA (3201 Macon Rd)]({{< ref "wiki/Columbus, GA (3201 Macon Rd).md" >}}) in late 2011.
 
 Between the installation of Whitehall and Springfield the backdrop had minor backdrop design changes. Such as changing from night to daytime, changing the designs of various buildings and replacing some with trees, changing the scale of the imagery shown to be much smaller making the backdrop seem bigger. The [Wink]({{< ref "wiki/Wink.md" >}}), [Moon]({{< ref "wiki/Moon (Animatronic).md" >}}), [Building]({{< ref "wiki/Sun (Animatronic).md" >}}), and [Munch Jr.]({{< ref "wiki/Choo Choo (Animatronic).md" >}}) animatronics were also scrapped during this process. Pasquallys drum base was removed as well.
@@ -22,19 +23,19 @@ On April 23, 2023, the 'CU 1-Stage' in [Columbus, GA (3201 Macon Rd)]({{< ref "w
 
 On May 24, 2024 it was announced that the CU 1-Stage in Springfield, IL would be kept in-store throughout the 2.0 remodel and preserved as the company's official CU-1 Stage<ref>https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html</ref>.  
 
-### Nomenclature ###
+<h2>= Nomenclature </h2>=
 Despite having 'Chuck E.'s Make Believe Band' written on the valence, the CEC community created a name for this stage: the 'CU 1-Stage'. 
 
 In 2011, the community referred to this stage as 'Chuck E.'s Make Believe Band'; the new name put directly above the characters that was formerly 'Munch's Make Believe Band'.<ref></ref><ref>https://www.youtube.com/watch?v=dZAohaEg3xk</ref>
 
-The 'CU 1-Stage handle comes from when the YouTube user [https://www.youtube.com/@Biffer1995 Biffer1995] frequented the [Springfield, IL]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) location. The stage was first referred to in the descriptions of some videos as 'The new CU stage with 3-bots on a 1 stage'<ref>https://www.youtube.com/watch?v=LZsvTJTk8ek</ref> then evolved into the 'CU 1-Stage', first seen in a video titled 'Chuck E Cheese CU 1 stage walk through'.<ref>https://www.youtube.com/watch?v=MXCw_4PAtsY</ref>
+The 'CU 1-Stage handle comes from when the YouTube user [https:<i>www.youtube.com/@Biffer1995 Biffer1995] frequented the [Springfield, IL]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}) location. The stage was first referred to in the descriptions of some videos as 'The new CU stage with 3-bots on a 1 stage'<ref>https:</i>www.youtube.com/watch?v=LZsvTJTk8ek</ref> then evolved into the 'CU 1-Stage', first seen in a video titled 'Chuck E Cheese CU 1 stage walk through'.<ref>https://www.youtube.com/watch?v=MXCw_4PAtsY</ref>
 
-##Design:##
+<h2>Design:</h2>
 The CU 1-Stage at Whitehall, PA featured the text 'Chuck E.'s Make Believe Band' on top and a backdrop featuring a cityscape and park at night with three flat-screen TVs in front of it. The backdrop features Chuck, Helen, Munch, Jasper & Pasqually at various positions around the banner. Helen & Munch bouncing on the ground, Chucks face being on top of a building, Jasper flying around on an airplane, and Pasqually on a billboard for his pizza. On the floor towards the backdrop was a small black wall which would hide the floor floods, with the ceiling floods and Jasper’s guitar spotlight hidden behind the 'Chuck E.'s Make Believe Band' valance.
 
 The differences between Whitehall, PA, Springfield, IL and Columbus, GA is the backdrop was redone slightly with the night setting at Whitehall becoming day at Springfield and Columbus and all the assets being shuffled around to fit better with the size of the stage. Whitehall also kept the Wink’s spotlight, and had it angled at the valance.
 
-## Current CU 1-Stages ##
+<h2> Current CU 1-Stages </h2>
 {| class='wikitable'
 |+
 !Place
@@ -53,7 +54,7 @@ The differences between Whitehall, PA, Springfield, IL and Columbus, GA is the b
 |Operational, in great condition. Originally used for programming new shows at [Chuck E. Cheese's Corporate Office]({{< ref "wiki/Chuck E Cheese's Corporate Office.md" >}}) until mid 2023. Converted from an original 3-Stage instead of using the Chuck E.'s Make Believe Band design. Oldest Concept Unification show in existence currently, being converted in 1990 at the [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) as a 3-Stage.
 |}
 
-##Former CU 1-Stages##
+<h2>Former CU 1-Stages</h2>
 {| class='wikitable'
 !Place
 !Installed

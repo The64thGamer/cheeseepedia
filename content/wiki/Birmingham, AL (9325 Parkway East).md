@@ -5,11 +5,12 @@ tags = ["Store List"]
 date = 2023-06-26T00:09:17Z
 
 [Article]
+pageThumbnailFile = "desc=Street view of Roebuck, months before closure (October 2007) (PC: Google Maps)|image=Roebuck2007.png"
 contributors = ["Midwestretail","ChuckEPediaIsTheBest!","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|desc=Street view of Roebuck, months before closure (October 2007) (PC: Google Maps)|image=Roebuck2007.png}}
-**_9325 Parkway East, Store #372**_ (also known as **_Roebuck**_) was a  Showbiz Pizza Place that opened in May 1983 with a [Rock-afire Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). 
+
+<b><i>9325 Parkway East, Store #372</b></i> (also known as <b><i>Roebuck</b></i>) was a  Showbiz Pizza Place that opened in May 1983 with a [Rock-afire Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). 
 
 They would be converted, and go through the Concept Unification process in an unknown date, likely early 1991, with the Classic Stage being retrofitted for a 3-Stage. Roebuck would eventually close permanently in 2007 for an unknown reason, with the whole shopping center being demolished for a Walgreen's, which is still open to this day.
 
@@ -17,13 +18,13 @@ This location should not be confused with [Birmingham, AL (500 Old Town Rd)]({{<
 
 This location should also not be confused with Birmingham, AL (4647 Hwy 280), which opened in February 2013, and is still open to this day.
 
-##History##
+<h2>History</h2>
 Birmingham (Roebuck) opened in May 1983 on 9325 Parkway East Rd, as the second Showbiz Pizza Place in Birmingham, after [500 Old Town Rd]({{< ref "wiki/Birmingham, AL (500 Old Town Rd).md" >}}) opened in 1982. That would also make it the 6th Showbiz in Alabama, and the 182nd Showbiz Pizza Place to open in general. Unfortunately, barely any information on Birmingham as a Showbiz Pizza has surfaced, and no video has been found, and merely likely a few pictures. In an unknown date, likely 1991, they would receive Concept Unification, and would have the Classic Stage retrofitted into a 3-Stage. It is unknown if they kept the Showbiz Pizza sign post-CU, or if it was replaced. In the 1990s-2000s, they would remodel to [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) respectively, and they would remain at the location until closure.
 
-###Closure###
+<h2>=Closure</h2>=
 In late 2007, the Roebuck Chuck E. Cheese closed permanently, after 24 years in operation in the area. The reason, to this day is still unknown, but the likely answer is that the shopping center it was in was practically abandoned by that point and the Chuck E. Cheese was the only thing left open. In early 2008, demolition began after the closure. The entire shopping center was demolished by early 2008 and Chuck E. Cheese was repurposed. Construction finished in mid 2008, when a Walgreen's opened in the space.
 
-##Stages##
+<h2>Stages</h2>
 Originally, when this location opened, they had the standard [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) at every Showbiz Pizza location. In an unknown year, likely 1991, the location would get Concept Unification and would turn the Classic Stage into a 3-Stage, which would be kept until the location's closing, Uniquely, the Helen at this location would have a green cheerleader outfit in the 1990s, much like [Huntsville, AL (1220 Jordan Lane)]({{< ref "wiki/Huntsville, AL (1220 Jordan Lane).md" >}}), and [Mobile, AL (710 Downtowner Loop)]({{< ref "wiki/Mobile, AL (710 Downtowner Loop).md" >}}). Munch Jr. was also likely removed before closure. The stage would also go through an unknown fate after the location closed.
 {| class='wikitable'
 |+
@@ -43,7 +44,7 @@ Originally, when this location opened, they had the standard [Classic Stage]({{<
 |One of 7 Showbiz stores in Alabama to undergo Concept Unification. Colored Wink and Pasqually Seat Bricks sent to Madison, TN (2070 Gallatin Pike)
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -101,7 +102,7 @@ Originally, when this location opened, they had the standard [Classic Stage]({{<
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

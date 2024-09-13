@@ -9,11 +9,11 @@ contributors = ["Plvtyp","CECBowlingGreen","Rexburg090","VXSpooky","AstridMascot
 gallery = ["CEC KennesawGA.jpg|thumb|Exterior, 2024"]
 +++
 
-**_824 Earnest W Barrett Pkwy**_ is a _Chuck E. Cheese's_ that opened on November 19, 1999 with a Studio C Alpha and is still open with the 2.0 remodel.
+<b><i>824 Earnest W Barrett Pkwy</b></i> is a <i>Chuck E. Cheese's</i> that opened on November 19, 1999 with a Studio C Alpha and is still open with the 2.0 remodel.
 
-## History ##
+<h2> History </h2>
 TODO
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Studio C Alpha. They would have it for about 20 years, until November of 2019, when they received the 2.0 remodel. The 'Showroom' was relocated to a different corner of the location, and games now fill the old section where the stage was. 
 {| class='wikitable'
 !Stage
@@ -33,7 +33,7 @@ Originally when the store opened, they had a Studio C Alpha. They would have it 
 |Still In Use
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -49,40 +49,40 @@ Originally when the store opened, they had a Studio C Alpha. They would have it 
 |Destroyed
 |}
 
-## Arcade Machines & Rides ##
+<h2> Arcade Machines & Rides </h2>
 NOTE: This list is incomplete.
 
-* _Alley Roller_
-* _Big Bass Wheel_
-* _Big Win Super Spin_
-* _Black Hole_
-* _Cars Arcade_
-* _Chuck E. Cheese's Birthday Party_
-* _Chuck E. Cheese's Photo Ride (2014)_
-* _Chuck E. Cheese's Sketch Book_
-* _Chuck E.'s Fun Photos_
-* _Crossy Roads_
-* _Floppy Tickets_
-* _Gum Drop_
-* _Jett Rider_
-* _Jurassic Park Arcade (2015)_
-* _Minion Whacker_
-* _Monopoly_
-* _Monster Catcher_
-* _Monster Drop_
-* _NBA Hoops_
-* _Quik Drop_
-* _Rabbids Hollywood_
-* _Slam A Winner_
-* _Sonic The Hedgehog Drop_
-* _SpongeBob SquarePants Jellyfishing_
-* _Teenage Mutant Ninja Turtles (2012)_
-* _Terminator Salvation_
-* _The Price Is Right Plinko_
-* _The Simpsons Soccer_
-* _Tippin' Bloks_
-* _Water Blast_
-* _Whack 'N Win_
+* <i>Alley Roller</i>
+* <i>Big Bass Wheel</i>
+* <i>Big Win Super Spin</i>
+* <i>Black Hole</i>
+* <i>Cars Arcade</i>
+* <i>Chuck E. Cheese's Birthday Party</i>
+* <i>Chuck E. Cheese's Photo Ride (2014)</i>
+* <i>Chuck E. Cheese's Sketch Book</i>
+* <i>Chuck E.'s Fun Photos</i>
+* <i>Crossy Roads</i>
+* <i>Floppy Tickets</i>
+* <i>Gum Drop</i>
+* <i>Jett Rider</i>
+* <i>Jurassic Park Arcade (2015)</i>
+* <i>Minion Whacker</i>
+* <i>Monopoly</i>
+* <i>Monster Catcher</i>
+* <i>Monster Drop</i>
+* <i>NBA Hoops</i>
+* <i>Quik Drop</i>
+* <i>Rabbids Hollywood</i>
+* <i>Slam A Winner</i>
+* <i>Sonic The Hedgehog Drop</i>
+* <i>SpongeBob SquarePants Jellyfishing</i>
+* <i>Teenage Mutant Ninja Turtles (2012)</i>
+* <i>Terminator Salvation</i>
+* <i>The Price Is Right Plinko</i>
+* <i>The Simpsons Soccer</i>
+* <i>Tippin' Bloks</i>
+* <i>Water Blast</i>
+* <i>Whack 'N Win</i>
 
-## Videos ##
+<h2> Videos </h2>
 TODO

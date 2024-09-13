@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-02-01T03:28:32Z
 
 [Article]
+pageThumbnailFile = "El Cerrito exterior in 1994.png|Exterior, 1994"
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=El Cerrito exterior in 1994.png|desc=Exterior, 1994}}
-**_20 El Cerrito Plaza**_ was a _Chuck E. Cheese's_ that opened in 1993 (day and month unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on July 19th, 2000.
 
-##History##
+<b><i>20 El Cerrito Plaza</b></i> was a <i>Chuck E. Cheese's</i> that opened in 1993 (day and month unknown) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on July 19th, 2000.
+
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |+
 !Stage
@@ -28,7 +29,7 @@ TODO
 |One of many installed in California. 
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -40,7 +41,7 @@ TODO
 |June 12th, 1994
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date

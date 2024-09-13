@@ -5,24 +5,25 @@ tags = ["Stage Variations"]
 date = 2024-08-16T13:12:38Z
 
 [Article]
+pageThumbnailFile = "2017 Dance Floor.jpg|2017 '2.0' Dance Floor"
 contributors = ["CECBowlingGreen","StudioC","Documentor","JupiterMutt","BurgersNuggs445","ThatBoiCydalan","RPCEC Backup","The 64th Gamer","Rexburg090","2600:4040:59FF:B100:D026:CA31:AF2F:EBD6","Montfortdog","Rileypaulson","74.215.183.217","Bowling for Cheese","Ceclife13","170.185.215.34","ChuckECool","Jaxon11","Awesome Dawson Films YT","LolMarklosthisaccountalready","ChuckEPediaIsTheBest!","Pasquallytheplumber","107.147.190.172","2600:4040:5A0E:D900:ACE2:E035:4385:1E5C","CECFan2023","CEC Tinley","2600:1012:B118:73B6:8090:26D1:BC66:4B13","120.28.234.89","66.215.38.213","47.44.4.69","2600:4040:5A0E:D900:FDB5:151E:48EA:B339","GabrielPennington9864","120.28.237.238","CorrectorMan","120.28.232.65","76.167.210.169","Icantbelieveitsnotbutter","Chuckstar69","23.240.225.241","2600:1012:B13A:9D21:BDB0:5F21:77B7:C54B","Blowseborg062","47.17.236.200","74.96.197.218","2600:1012:B126:67C2:DCEA:934B:FC40:89D0","2600:1012:B1A6:8EC5:5DA0:69B4:6055:449D","CEC New Jersey","Noahrbxt","2600:4040:5A0E:D900:25A3:F41D:7576:730D","131.239.108.226","2600:1012:B0C8:7C9E:F050:61DB:BC37:701","174.243.128.180","Cheeseclassic","2603:8000:5B01:4BB9:35BC:773F:8085:9147","2600:1012:B11C:86AB:20BA:B121:8DCD:DBB","2603:8000:5B01:4BB9:477C:1120:A905:CF91","2600:1012:B1AB:5E73:6CF1:4963:5032:E51F","2603:6080:7C06:6500:6DE8:BCB7:B886:2C49","2600:1012:B0CD:D26E:11C8:ED3F:9AE7:7161","2603:8000:5B01:4BB9:8EB0:F8C3:231E:724","2600:1012:B059:7C1F:D3F:27C0:1A83:191","2603:8000:5B01:4BB9:E191:CBCD:2846:32FB","2600:1012:B1AF:7538:30D5:B962:3FA:B29","2600:1012:B31A:F222:F5A0:E0CD:624E:D1CF","2600:1012:B1C7:3791:FDAE:AD41:9F39:4AE6","2603:8000:5B01:4BB9:892:20AF:D915:72A5","SuperCreamPiper2008","Harchambeault2026","AstridMascotFan2005","AlexisCEC"]
 gallery = []
 +++
-{{Generic|image=2017 Dance Floor.jpg|desc=2017 '2.0' Dance Floor}}The **_Chuck E. Live Stage (Dance Floor)**_ is a stage format that is currently being installed in Chuck E. Cheese locations. Installations started in 2015 and have continued into the present day as part of the '2.0' remodel. As of October 2023, there are over 300 Dance Floors.
-##History##
-###Prototype COL Dance Floor###
+The <b><i>Chuck E. Live Stage (Dance Floor)</b></i> is a stage format that is currently being installed in Chuck E. Cheese locations. Installations started in 2015 and have continued into the present day as part of the '2.0' remodel. As of October 2023, there are over 300 Dance Floors.
+<h2>History</h2>
+<h2>=Prototype COL Dance Floor</h2>=
 In 2014 the [Dallas, TX (13364 Montfort Dr)]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).md" >}}) location received a prototype Dance Floor in the game room. This version of the Dance Floor was created to be a separate stage for live shows outside the showroom. The prototype consisted of a small Dance Floor with a red border that could display simple color patterns and a miniature Circles of Lights wall. The miniature COL wall featured a light-up 'CHUCK E. LIVE!' sign, a segmented display used for counting down the time until the next live show, a flat-screen TV, and a small cannon that could shoot out tickets.
-###2015 Model###
+<h2>=2015 Model</h2>=
 The first real iteration of the Chuck E. Live Stage was first introduced at the [Plano, TX (1604 Preston Rd)]({{< ref "wiki/Plano, TX (1604 Preston Rd).md" >}}) location in May of 2015. Unlike the prototype, this would sit in the showroom as the main stage. The Dance Floor itself would be a larger version of the prototype with a similar red border. Replacing the prototype's COL wall was a ceiling fixture that served the same purpose, retaining the live show countdown. One side of the fixture featured a 'CHUCK E. LIVE!' light-up sign while the other had a light-up sign saying 'Happy Birthday!', with both sides having three TVs and a singular 'Circle of Light'. Also included were the COL's flood lights and Chuck E silhouette wall lights. These Dance Floors were constructed by Corman and Associates.
-###2017 Model###
+<h2>=2017 Model</h2>=
 With the start of '2.0' remodels in 2017, the Dance Floors were updated. These new Dance Floors, first installed at the [San Antonio (Stone Oak), TX (1403 N Loop)]({{< ref "wiki/San Antonio (Stone Oak), TX (1403 N Loop).md" >}}) location, replaced the slim red frame with a wide blue frame. The ceiling fixture was changed to have gold stars saying, 'You're A Star' and 'Hi-Five', as well as a big red piece that would house the TVs. The only lighting remaining would be the floodlights. After the first few installations, the stars were discontinued, and soon after the fixture as a whole was reduced to a simple circle of six TVs mounted to the ceiling.
-###2019 Model###
+<h2>=2019 Model</h2>=
 In 2019 alongside the remodel of [San Bruno, CA (1270-1272 El Camino Real)]({{< ref "wiki/San Bruno, CA (1270-1272 El Camino Real).md" >}}), the Dance Floors were updated to have a screen that could display interactive graphics on it. The floodlights and six TVs saw no changes. The floor started with just the generic pre-installed programs displayed on it, such as an interactable koi pond, but starting with [Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party]({{< ref "wiki/Chuck E Cheese's Show 3 2020 & DJ Munch's Glow Party.md" >}}) it would receive custom graphics and programs relating to the current media playing in the store.
-###2021 Model###
+<h2>=2021 Model</h2>=
 Starting in March 2021 with [Manassas, VA (7730 Stream Walk Ln)]({{< ref "wiki/Manassas, VA (7730 Stream Walk Ln).md" >}}), the Dance Floors were updated once again to completely remove the frame, leaving only the interactive display. This design discontinues the use of floodlights and moves the ceiling TVs to the game room. A [Video Wall]({{< ref "wiki/Video Wall.md" >}}) now sits directly behind the Dance Floor as part of the character wall. The installation of this version of the Dance Floor required a hole to be dug into the foundation of a store; locations that aren't allowed to do this simply use the 2019 Dance Floor with the [Video Wall]({{< ref "wiki/Video Wall.md" >}}) instead, as it can be installed above ground.
 
 
-##Current Dance Floors##
+<h2>Current Dance Floors</h2>
 Note: Contains only confirmed installations, and may not be in order.
 {| class='wikitable'
 |+

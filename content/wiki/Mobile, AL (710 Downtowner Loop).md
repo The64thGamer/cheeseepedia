@@ -9,8 +9,8 @@ contributors = ["BurgersNuggs445","Montfortdog","RPCEC Backup","2600:4040:59FF:B
 gallery = ["Mobile Alabama May 2022.png|thumb|381x381px|The location as of May 2022",":Coming-soon-3-14-82.jpg",":Freddyatmobile.png",":Fiyah.png"]
 +++
 
-**_710 Downtowner Loop, Store #560,**_ was a _Showbiz Pizza Place_ that opened on February 10, 1982, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
-##Stages##
+<b><i>710 Downtowner Loop, Store #560,</b></i> was a <i>Showbiz Pizza Place</i> that opened on February 10, 1982, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}})
+<h2>Stages</h2>
 This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band. 
 
 Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by Showbiz Pizza Time in 1996 and relocating to Dallas, Texas<ref>https://www.youtube.com/watch?v=5mqJMsr_PLU</ref>. The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996.
@@ -50,31 +50,31 @@ The showroom would be called mediocre by many due to only having the art of Chuc
 |Still in use.
 |}
 
-##History##
+<h2>History</h2>
 
-### Showbiz Pizza Advertisements ###
+<h2>= Showbiz Pizza Advertisements </h2>=
 Before Showbiz Pizza opened in Mobile an advertisement was run in the local newspapers that advertised Showbiz coming soon to Mobile, Alabama.<ref></ref> This advertisement would be subject to an infamous edit over 35 years later that depicted Freddy Fazbear from Five Nights At Freddy's in the place of Billy Bob, this time advertising Freddy Fazbear's Pizza.<ref></ref>
 
-On February 10, 1982 _the_ Mobile Showbiz Pizza opened to the public and was located near the competing Pizza Time Theatre at Mobile, AL (4685 Airport Blvd) (_4685 Airport Blvd_).  When the Pizza Time Theatre closed permanently in February 1984, Showbiz Pizza ran advertisements that say that they'd honor guest's PTT tokens and or coupons at their location.
+On February 10, 1982 <i>the</i> Mobile Showbiz Pizza opened to the public and was located near the competing Pizza Time Theatre at Mobile, AL (4685 Airport Blvd) (<i>4685 Airport Blvd</i>).  When the Pizza Time Theatre closed permanently in February 1984, Showbiz Pizza ran advertisements that say that they'd honor guest's PTT tokens and or coupons at their location.
 
-### Remodels ###
+<h2>= Remodels </h2>=
 Sometime during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) the location was remodeled for the first time during the 1986 SPT Remodel Program in 1991. The location was remodeled once again in 1996 during the 1994 SPT Repositioning / Remodel Program (1994 SPT Repositioning Initiative) and also received [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}). Afterwards, the store received [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}) in-around their respective dates.
 
 In 2005 the location is updated during the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (2003 'Cool Chuck' Remodel Initiative). In April 2010 store's skills area and entrance is expanded, taking over existing parking spaces in front of the building. During expansion, a temporary entrance was made between the skills and kiddie area, which had most of its games moved out of the way.
 
 This location began to remodel in October of 2019, first painting the exterior white and then removing the 3-Stage. The rest of the interior was finished before 2020 and the exterior wasn't finished until a few months after the fact, most likely due to COVID19.
 
-### July 22, 2023 Fire ###
+<h2>= July 22, 2023 Fire </h2>=
 On July 22, a fire allegedly started in the building.<ref></ref>
 
-### Misc. ###
+<h2>= Misc. </h2>=
 
 * When the store was remodeled in 2005 they received [CEC Pop-Art]({{< ref "wiki/CEC Warhol - Quad (CEC Décor).md" >}}) but was missing the fourth one that was supposed to come with it ever since.
 
 * On May 19, 2011, a Geocache named 'Chuck E Cheese Geo to JAPAN' is created with the intent of sending a Chuck E. Cheese plushie location to Japan. On June 7, 2011, the Plush toy was last seen in a photo with the Chuck E. Cheese walkaround at the Mobile, AL Chuck E. Cheese's.<ref>https://www.geocaching.com/track/details.aspx?id=3534246</ref>
 * Sometime around June 2023, the store's street sign was removed.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -104,7 +104,7 @@ On July 22, a fire allegedly started in the building.<ref></ref>
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial 
@@ -159,7 +159,7 @@ On July 22, a fire allegedly started in the building.<ref></ref>
 |Destroyed
 |}
 
-## Walkarounds ##
+<h2> Walkarounds </h2>
 {| class='wikitable'
 |+
 !Head
@@ -183,4 +183,4 @@ On July 22, a fire allegedly started in the building.<ref></ref>
 |Unknown
 |}
 
-## References ##
+<h2> References </h2>

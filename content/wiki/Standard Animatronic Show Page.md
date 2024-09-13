@@ -8,40 +8,40 @@ date = 2024-05-26T20:13:19Z
 contributors = ["Lelmaster","The 64th Gamer"]
 gallery = []
 +++
-{{AnimatronicShow|manufacturer=Name of the robot manufacturer.|numCharacters=Number of characters in the show.|status=Status of the show (Open, Closed, Operating, Etc.)|yearsUnsure=Rough Date Range (Month, DD, YYYY - Month, DD, YYYY)|years=Month, DD, YYYY - Month, DD, YYYY|imageCaption=Caption for an image|business=Type of business show was made for (Pizza Place, Ice Cream Parlour, Amusement Park, Etc.)|image=Southend Reporter Thu Jul 22 1976 .jpg|businessType=Type of Business: Type of business show was made for (Pizza Place, Ice Cream Parlour, Amusement Park, Etc.)}}
-**_Animatronic Show Name**_ was a show/chain that was around from **starting date** to **ending date** and made by I**mportant Person**. This is a short description of it. Any major facts about the show should also go here.
 
-## History ##
+<b><i>Animatronic Show Name</b></i> was a show/chain that was around from <b>starting date</b> to <b>ending date</b> and made by I<b>mportant Person</b>. This is a short description of it. Any major facts about the show should also go here.
+
+<h2> History </h2>
 This part of the page should start with how the show came to be, and then have several sub sections for different notable eras for the show such as new versions of the show, different stages, or major events like openings, closings, and relocations.
 
-### History Event 1 ###
+<h2>= History Event 1 </h2>=
 Info about first major event and following info up to just before second event
 
-### History Event 2 ###
+<h2>= History Event 2 </h2>=
 Info about the second major event and info up to just before third event
 
-## Characters ##
+<h2> Characters </h2>
 This section should list out the characters of the show and give a description and significant information about each character. It should look similar to the history section.
 
-### Character 1 ###
+<h2>= Character 1 </h2>=
 Info about character 1
 
-### Character 2 ###
+<h2>= Character 2 </h2>=
 Info about character 2
 
-## Stage Composition ##
+<h2> Stage Composition </h2>
 This section should give a detailed description of where characters stood in the show, the props the stage used, and any other information about the stage layout generally used.
 
-## Installed Locations ##
+<h2> Installed Locations </h2>
 This section should go more into detail about stages and their locations. Information about how different stages differed such as layouts, character cosmetics, or different or missing characters should be listed here.
 
-### Stage 1 ###
+<h2>= Stage 1 </h2>=
 Location address, location specific history, and location specifics such as missing characters, specific type of stage, and such.
 
-### Stage 2 ###
+<h2>= Stage 2 </h2>=
 Location address, location history, etc.
 
-## Showtapes ##
+<h2> Showtapes </h2>
 {| class='wikitable'
 !Show Name / Label Name
 !Day
@@ -63,16 +63,16 @@ Location address, location history, etc.
 |}
 Also put any general information about showtapes here.
 
-## Current Whereabouts ##
+<h2> Current Whereabouts </h2>
 General information about where the show or specific animatronics should be put here unless show has been scrapped.
 
-### Show 1 ###
+<h2>= Show 1 </h2>=
 Information about whereabouts of show as a whole
 
-### Animatronic 1 (Show 2) ###
+<h2>= Animatronic 1 (Show 2) </h2>=
 Information for specific animatronics if they are separated from a show.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -87,7 +87,7 @@ Information for specific animatronics if they are separated from a show.
 |Unknown
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 Fun information about a show or other relevant information about the show.
 
 * Fun fact 1
@@ -96,5 +96,5 @@ Fun information about a show or other relevant information about the show.
 
 Photos of show, animatronics in the show, and other relevant pictures
 
-## References ##
+<h2> References </h2>
 Links and citations from page to find information sources and back up information given.

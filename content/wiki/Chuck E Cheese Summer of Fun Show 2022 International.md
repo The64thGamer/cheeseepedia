@@ -17,51 +17,51 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Summer of Fun 2022**_ is the summer show released June 2022.
+<b><i>Summer of Fun 2022</b></i> is the summer show released June 2022.
 
 This was created with conjunction with the Summer of Fun promotion. Runs from June 2022 - August 2022. This song features 6 Songs with the automatic live being Beach Party Bash.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Summer of Fun Bumper - Chuck and Jasper
 ## Koo Koo Kangaroo - Backyard Swimsuit ft. Sims
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese & Friends - “Song of Summer”
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Safety Message
 ## Summer Jokes with Pasqually
 ## Kidz Bop - I Gotta Feeling
 ## Summer of Fun Bumper - Chuck and Helen
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese & Friends - 'Out of This World'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Kidz Bop - “Cake by the Ocean”
 ## 'What Time Is It' High School Musical 2
 ## Summer of Fun Bumper - Chuck and Munch
 
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. Cheese - 'Down the Road'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Safety Message
 ## Kidz Bop - Heat Waves
 ## Milo Manheim - We Own The Summer
 ## Kidz Bop - Peaches
 
-# **Skit 4**
+# <b>Skit 4</b>
 ## Jasper T. Jowls- 'Dog Days of Summer'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Kid Cudi - Stars In The Sky
 ## Kidz Bop - Better Days
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese - 'Let's Be Friends'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Safety Message
 ## Kidz Bop - Uptown Funk
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. Cheese & Friends - 'Join The Party'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show ( Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

@@ -9,9 +9,9 @@ contributors = ["EagleScout610","Rexburg090","66.29.207.170","2600:4040:59FC:D10
 gallery = ["North Olmsted 2.0 Exterior.jpg|thumb|North Olmsted after the 2.0 Remodel in 2018"]
 +++
 
-**North Olmsted, OH (26104 Great Northern Sh)** is a Chuck E. Cheese's location that opened on January 19, 1993 with a 2-Stage and still open to this day with the 2.0 remodel. It is not to be mistaken for the Pizza Time Theatre turned Marc's Funtime Pizza Place located at [23333 Lorain Rd, North Olmsted OH]({{< ref "wiki/North Olmsted, OH (23333 Lorain Rd).md" >}}).
+<b>North Olmsted, OH (26104 Great Northern Sh)</b> is a Chuck E. Cheese's location that opened on January 19, 1993 with a 2-Stage and still open to this day with the 2.0 remodel. It is not to be mistaken for the Pizza Time Theatre turned Marc's Funtime Pizza Place located at [23333 Lorain Rd, North Olmsted OH]({{< ref "wiki/North Olmsted, OH (23333 Lorain Rd).md" >}}).
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -35,7 +35,7 @@ gallery = ["North Olmsted 2.0 Exterior.jpg|thumb|North Olmsted after the 2.0 Rem
 |Still in use
 |}
 
-## History ##
+<h2> History </h2>
 When North Olmsted opened it featured a [2 Stage]({{< ref "wiki/2-Stage.md" >}}) with the showroom in the right corner of the store. The front section of the store featured the gameroom, and the kitchen was across from the showroom. In 2004, North Olmsted underwent a remodel. This would see the 2-Stage, balcony seating, and showroom walls removed. The showroom was moved across the store to the front left gameroom and would feature a [V3 Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). The original showroom was converted to a secondary gameroom. In August 2017, North Olmsted, along with the [Parma, OH]({{< ref "wiki/Parma, OH (7601 W Ridgewood Rd).md" >}}) store, would undergo the 2015 Remodel. The remodel is speculated to have been ordered by the two store's shared GM but has never been confirmed. Unlike Parma, it would keep its original 2004 exterior. In December 2018, North Olmsted would become the first store in Ohio to receive the 2.0 remodel. The showroom would be relocated once again, this time back to its original location in the right corner of the store. The store would also expand into the vacant store space next door to create a 3rd gameroom. On August 2024, North Olmsted's showroom received the Video Wall. 
 
 

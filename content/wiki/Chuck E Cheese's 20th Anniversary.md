@@ -18,14 +18,14 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |
 }}
 
-**_Chuck E Cheese's 20th Anniversary**_ was a showtape released on April 1st, 1997 to celebrate the 20th anniversary of Chuck E. Cheese's. 
+<b><i>Chuck E Cheese's 20th Anniversary</b></i> was a showtape released on April 1st, 1997 to celebrate the 20th anniversary of Chuck E. Cheese's. 
 
 This show ran from April 1997 to July 1997. 
 
-##Summary##
+<h2>Summary</h2>
 TODO
 
-##Show List##
+<h2>Show List</h2>
 #Segment 1
 ##Whoomp There It Is
 
@@ -63,11 +63,11 @@ TODO
 ##Chitty Chitty Bang Bang
 ##Virtual Video
 
-##Lives##
+<h2>Lives</h2>
 Live show VHS tapes introduced with April 1997
 *Macarena
 *Get Ready
 
 
-##Trivia##
+<h2>Trivia</h2>
 TODO

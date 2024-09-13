@@ -8,13 +8,13 @@ date = 2023-09-25T21:15:37Z
 contributors = ["47.17.236.200","The 64th Gamer","ChuckfeldStan","CorrectorMan","CEC New Jersey","Cheeseclassic"]
 gallery = []
 +++
-**1816 E Gun Hill Rd** is Chuck E. Cheese's that opened on February 2, 2003 with a Studio C 2000 (Studio C Beta) in front of The Home Depot. This location got a 2.0 sign in 2021.
+<b>1816 E Gun Hill Rd</b> is Chuck E. Cheese's that opened on February 2, 2003 with a Studio C 2000 (Studio C Beta) in front of The Home Depot. This location got a 2.0 sign in 2021.
 
-## History ##
+<h2> History </h2>
 
 The Chuck E. Cheese's in Bronx, NY (1816 E Gun Hill Rd) was opened on February 2, 2003 will be a Phase 3 Sign with a Studio C Beta the store would receive the 2010 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative; keeping the store's exterior as is, In around 2016, the store would remodel once again; yet again, the store's exterior would remain untouched. Albeit, the sign was removed during the COVID-19 Pandemic. In 2021, when the location reopened, the original Avenger Chuck E. sign was replaced with a 2.0 sign, which was likely because of deterioration.
 
-## Stages ##
+<h2> Stages </h2>
 
 {| class='wikitable'
 !Stage
@@ -30,10 +30,10 @@ The Chuck E. Cheese's in Bronx, NY (1816 E Gun Hill Rd) was opened on February 2
 |Still in Use
 |}
 
-## Videos ##
+<h2> Videos </h2>
 TODO
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-24T20:30:23Z
 
 [Article]
+pageThumbnailFile = "Lansing mi cec exterior.jpg|The store's exterior before the 2.0 remodel"
 contributors = ["Jeff Marks","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE","ShowbizMidwest","Cecfan2004","Cecrocks","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Lansing mi cec exterior.jpg|desc=The store's exterior before the 2.0 remodel}}
 
 
-**_Lansing, MI (5451 L West Saginaw Hwy), Store #326**_ is a _Chuck E. Cheese's Pizza_ that opened on June 16th, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store is located in the Lansing Towne Centre. It opened on the same day as Orange, CT.
 
-##Stages##
+<b><i>Lansing, MI (5451 L West Saginaw Hwy), Store #326</b></i> is a <i>Chuck E. Cheese's Pizza</i> that opened on June 16th, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store is located in the Lansing Towne Centre. It opened on the same day as Orange, CT.
+
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage 
 !Installed
@@ -31,10 +32,10 @@ gallery = []
 |2021 Model. 
 |}
 
-## History ##
+<h2> History </h2>
 This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remodel. in The mid 90's, they received the 1993 Remodel which removed the 1988 concept  unification artwork for the record posters and other 1993 artwork, Around 1999/2000, they were supposed to remove the 2 Stage and Replace it with a Studio C Alpha, but it never happened. In 2006/2007, Lansing went under the 2005 Remodel which included the removal of the Showroom walls, balcony seating and strangely, not relocating the stage. On June 25th 2020, Lansing became one of the last MMBB stages in Michigan after Flint Closed. They remained like this until August 2023, when they received the 2.0 remodel, removing the 2 Stage for the Dance Floor, as of September 2023, they still remain like this.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -57,7 +58,7 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing date
@@ -87,5 +88,5 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 |1992
 |Destroyed.
 |}
-##References##
+<h2>References</h2>
 <references />

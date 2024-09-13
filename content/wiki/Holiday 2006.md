@@ -19,45 +19,45 @@ gallery = []
 |cusvhs = y
 }}
 
-**Holiday 2006** is a rerelease of [Holiday 2004]({{< ref "wiki/Holiday 2004.md" >}}) which played throughout December 2006.
+<b>Holiday 2006</b> is a rerelease of [Holiday 2004]({{< ref "wiki/Holiday 2004.md" >}}) which played throughout December 2006.
 
-## Show List: ##
-# **Intermission 1**
+<h2> Show List: </h2>
+# <b>Intermission 1</b>
 ## Ken Chuck E. Derby
 ## Funimation: 'Santa Claus Bros.'
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##'Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Eddie Coker - 'Happy Holidays'
 ##Funimation: 'A Wobots Christmas'
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Ken Chuck E. Derby
 ##Coke Spot
 ##Funimation: 'Connie The Cow'
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives: ##
+<h2> Lives: </h2>
 * Chuck E. March 01
 * Havin' A Party 01
 * Chuck E. Swing
@@ -69,4 +69,4 @@ gallery = []
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
 *Go Santa Go
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.

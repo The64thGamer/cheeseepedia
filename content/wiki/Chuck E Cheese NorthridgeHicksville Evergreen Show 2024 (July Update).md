@@ -8,12 +8,12 @@ date = 2024-08-05T21:00:40Z
 contributors = ["AstridMascotFan2005","Documentor","Dame0824"]
 gallery = []
 +++
-{{Showtape|title=Evergreen Show 2024 July Update|image=EverJuly24.png|cybernetwork=y|date=July 29, 2024}}
-**_Chuck E. Cheese Evergreen 2024 (July Update)**_
-**Chuck E. Cheese Evergreen 2024 (July Update)** is the generic show released on July 29, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
 
-## Show List ##
-# **Intermission 1**
+<b><i>Chuck E. Cheese Evergreen 2024 (July Update)</b></i>
+<b>Chuck E. Cheese Evergreen 2024 (July Update)</b> is the generic show released on July 29, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
+
+<h2> Show List </h2>
+# <b>Intermission 1</b>
 ## Zigazoo Star Showcase - 'DJ Munch'
 ## Off Road with Chuck E. - Episode 4
 ## Munch’s Make Believe Band - 'Chuck E's Middle Name'
@@ -26,9 +26,9 @@ gallery = []
 ## Pasqually - 'It's the 70s'
 ## Ryan's World The Movie Trailer
 ## Chuck E. Cheese - 'Water Buffalo'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Munch’s Make Believe Band - “Every Boy, Every Girl 2017”
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. & Friends - 'Stay Positive'
 ## KIDZ BOP Kids - 'Is It Over Now?
 ## Helen & Bella B. - 'Bailando'
@@ -40,9 +40,9 @@ gallery = []
 ## Bella B. 'El Rey Guitarrista'
 ## DJ Munch - 'Lend a Helping Hand'
 ## Jasper T. Jowls - 'Arizona'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - “Most Perfect Day”
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## KIDZ BOP Kids - 'Si No Estás
 ## Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
 ## DJ Munch - 'Play All You Can Play' 
@@ -52,7 +52,7 @@ gallery = []
 ## Chuck E. Cheese - 'Mary Had a Rockin' Little Lamb' 
 ## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Navori, Media Navori)

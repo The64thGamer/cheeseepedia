@@ -8,7 +8,7 @@ date = 2023-07-08T19:32:11Z
 contributors = ["ChuckETasticAlt","GuestIsJustBest","Stripes"]
 gallery = ["1996 Model .jpg|thumb|1996 Model","Air Hockey 1996.png|thumb|2006 Model"]
 +++
-## Gameplay ##
+<h2> Gameplay </h2>
 
 
 Chuck E's Pow-air Play is a Standard Air Hockey Machine, It can be found at Some Chuck E. Cheese Locations and is typically located in the Toddler Zone, The game is simple, 2 players (One on each side) is battle each other in a standard air hockey match, the first player to reach the score limit wins the game. Both players win the same amount of tickets which vary by location, There are 2 models commonly seen in Chuck E. Cheese Locations.

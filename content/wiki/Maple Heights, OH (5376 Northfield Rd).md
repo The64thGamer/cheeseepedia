@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-03-09T17:24:39Z
 
 [Article]
+pageThumbnailFile = "Maple Heights Ohio CEC PTT Exterior.png|The exterior in 1980"
 contributors = ["199.197.75.185","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
 +++
-{{Generic|image=Maple Heights Ohio CEC PTT Exterior.png|desc=The exterior in 1980}}
-**_5376 Northfield Rd**_ was a _[Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}})_ that opened in November 1980 with a Cyberamics Portrait / Shelf Stage (Cyberamics Portrait Stage), and closed in June 1985<ref>https://www.newspapers.com/image/156706667</ref>.
 
-## Stages ##
+<b><i>5376 Northfield Rd</b></i> was a <i>[Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}})</i> that opened in November 1980 with a Cyberamics Portrait / Shelf Stage (Cyberamics Portrait Stage), and closed in June 1985<ref>https://www.newspapers.com/image/156706667</ref>.
+
+<h2> Stages </h2>
 The Main Stage was most likely always a portrait stage while Dolli Dimples was set up in the locations cabaret or lounge room.
 {| class='wikitable'
 |+
@@ -21,17 +22,17 @@ The Main Stage was most likely always a portrait stage while Dolli Dimples was s
 !Notes
 |-
 ![Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}})
-!**November 1980**
+!<b>November 1980</b>
 !1985/1986
 !First PTT in Ohio. First Portrait Stage in Ohio. Had Madame Oink as the guest star.
 |}
 
-## History ##
+<h2> History </h2>
 Maple Heights opened sometime in November 1980 with a Portrait Stage, and was the 19th PTT to open and the first PTT in Ohio. Unfortunately, information on Maple Heights is scarce, and basically no info on Maple Heights can be found anywhere, but there is one video of most likely Maple Heights, showing the exterior, Showroom, & Lounge / Cabaret Room.
 
 The location would close sometime in June 1985 For unknown reasons, but likely because it was underperforming. The location would hold an auction near the same time. After closure, the location was split up into multiple businesses. The Place is currently mostly vacant with almost no PTT remnants left. 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -40,12 +41,12 @@ The location would close sometime in June 1985 For unknown reasons, but likely b
 !Notes
 |-
 |https://www.youtube.com/watch?v=JSZ6SJDCuvc
-|**_Possible**_ Footage of the exterior, Showroom, & Lounge
+|<b><i>Possible</b></i> Footage of the exterior, Showroom, & Lounge
 |1980
 |Only current footage of the store. First footage found of the store.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -128,4 +129,4 @@ The location would close sometime in June 1985 For unknown reasons, but likely b
 
 
 
-## References ##
+<h2> References </h2>

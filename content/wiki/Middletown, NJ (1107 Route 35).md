@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-08-15T23:25:44Z
 
 [Article]
+pageThumbnailFile = "Middletown Exterior.jpg|Middletown's Exterior (PC: Google Maps)"
 contributors = ["Namejadenrealv4","Cheeseclassic","ThatBoiCydalan","Caydenpedia","Chuckatronics","Cecnj98","CEC Knoxville","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Middletown Exterior.jpg|desc=Middletown's Exterior (PC: Google Maps)}}
-**_Middletown Township, NJ (1107 Route 35), Store #480**_ is a Chuck E. Cheese's that opened on July 25th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day.
 
-## History ##
+<b><i>Middletown Township, NJ (1107 Route 35), Store #480</b></i> is a Chuck E. Cheese's that opened on July 25th, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), which is still open to this day.
+
+<h2> History </h2>
 Middletown opened as part of the Middletown Marketplace strip center in July 1994. They opened with the 1-Stage with a turntable. Middletown's 1-Stage was one of six installed in New Jersey, and was the last operating 1-Stage in the state. It's possible that they did receive the Phase 1, Phase 2, and Phase 3 game packages at one point. They would also receive a Thumb Cool Chuck sign at some point in the mid-to-late '90s. Between August 2007 and January 2011, they received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) (Phase 4), renovating the store by updating the exterior with the Thumb Avenger Chuck sign, new wall decor. Around September 2016, the Middletown Marketplace would get a major exterior overhaul, renovating the exterior to the entire strip center. As a result, the Middletown Chuck E. Cheese's would also see an major exterior renovation, getting rid of the Phase 4 Avenger Chuck sign in favor of the new at the time 2015 Waving Rockstar Chuck sign as a result. The interior would not impacted by this, only the exterior. On June 2, 2024, the store would begin its 2.0 Remodel, removing the stage that night.
 
 On July 31st, 2024, the location of this store had it's grand reopening event.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |+
 !Stage
@@ -40,7 +41,7 @@ On July 31st, 2024, the location of this store had it's grand reopening event.
 |
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -67,9 +68,9 @@ On July 31st, 2024, the location of this store had it's grand reopening event.
 |Destroyed
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Deadstorm Pirates
 *Spongebob Bikini Bottom Bowling
@@ -112,11 +113,11 @@ On July 31st, 2024, the location of this store had it's grand reopening event.
 *Panning for Gold
 *Centipede Chaos (Standup)
 
-####Coin Action####
+<h2>==Coin Action</h2>==
 
 *Roll For Gold 2
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Hot Racers
 *Astro Invasion

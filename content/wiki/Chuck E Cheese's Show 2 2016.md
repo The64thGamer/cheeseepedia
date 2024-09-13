@@ -18,26 +18,26 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 2 2016**_ released February 29th 2016 featuring four songs
+<b><i>Chuck E. Cheese's Show 2 2016</b></i> released February 29th 2016 featuring four songs
 
 This was created to play from February 29th, 2016 - March 27th, 2016. This show features 4 songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Coldplay - 'Adventures of Lifetime'
 ## CEC Promo - 'Buffet'
 ## Chef Gregory Part 1
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'In The Future'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Demi Lovato - 'Let It Go'
 ##  Chef Gregory Part 2
 ## Pharrell Williams - 'Happy'
 ## CEC Promo - 'Chuck E. Live'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Mr. Munch - 'Nobody Knows'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Skyler Stecker - 'Crazy Beautiful'
 ## CEC Sketch - 'Coconuts'
 ## Josh  & The Jamtones - 'Bear Hunt'
@@ -46,17 +46,17 @@ This was created to play from February 29th, 2016 - March 27th, 2016. This show 
 ##  Caspar Babypants - 'I Found You'
 ##  Sigala - 'Easy Love'
 ## Josh & The Jamtones - 'Sloop John B'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Helen - 'It's A Date'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Chuck E. Cheese Food Truck Video
 ## CEC Sketch - Jokes From Pasqually - 'Monkeys'
 ##  Caspar Babypants - 'Bird In An Airplane Suit'
 ## Taylor Swift - 'Shake It Off'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Friends - 'Because We're Friends'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 * Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
@@ -68,12 +68,12 @@ This was created to play from February 29th, 2016 - March 27th, 2016. This show 
 * Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
 * Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
-* For Existing stages only after 'Because We're Friends' would play the final few seconds of the _Bobby Bear & Three Mice' during the 90s Wink part. 
+* For Existing stages only after 'Because We're Friends' would play the final few seconds of the ''Bobby Bear & Three Mice' during the 90s Wink part. 
 * This was the final showtape to use Chuck E. Birthday 2015. 
 
 * 'It's A Date' is now programmed for the US stores.

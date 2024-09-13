@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-10-30T12:50:13Z
 
 [Article]
+pageThumbnailFile = "desc=Macsway's exterior after the 2005 remodel not long before closure|image=ColumbusOHMacswayExteriorBeforeClosure.jpg"
 contributors = ["The 64th Gamer","CEC Columbus","Rexburg090","Emcaacme","Caydenpedia","CEC Tinley","SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|desc=Macsway's exterior after the 2005 remodel not long before closure|image=ColumbusOHMacswayExteriorBeforeClosure.jpg}}
 
-**_4284 Macsway Ave, Store #737**_ was a _Chuck E. Cheese's_ located next to Eastland Mall in Columbus, OH.
+
+<b><i>4284 Macsway Ave, Store #737</b></i> was a <i>Chuck E. Cheese's</i> located next to Eastland Mall in Columbus, OH.
 
 This location opened as a Showbiz Pizza Place on January 25, 1982, and closed as a Chuck E. Cheese's on June 18th, 2020. 
 
-## History ##
+<h2> History </h2>
 Macsway Avenue opened as the fourth Showbiz Pizza Place in Ohio (4th after [Sharonville]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}), [Cincinnati (Colerain)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}), & [Miamisburg]({{< ref "wiki/Miamisburg, OH (30 Prestige Place).md" >}})) with a Rock-afire Explosion show. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, it can be determined that Mascway was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many Showbiz locations at the time, this location also had the Statue of Liberty<ref>http://showbizpizza.com/photos/spp/oh_parma/index.html</ref> for a small period of time. Also, like many ShowBiz locations in the late 1980s, Macsway received the Showbiz Pizza Campground upgrade.
 
 In around 1991, Macsway Avenue received Concept Unification which converted the show to Munch's Make-Believe Band (this also included the 1988 Remodel which added Blue & White awnings, three small windows by the Skeeball lanes, and numerous other decor pieces as well). In around the Mid-Late 1990's, Mascway received the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor, added new decor, SkyTubes, & an exterior remodel (which also replaced three small windows with three larger ones.
@@ -25,7 +26,7 @@ On June 18th, 2020; Macsway would permanently close their doors for good after 3
 
 As of February 2023, the building is still vacant.
 
-## Stages ##
+<h2> Stages </h2>
 Macsway Avenue opened with a Rock-afire Explosion show and converted to Munch's Make-Believe Band during Concept Unification in the early 1990's. Pizzacam was removed from this location in late 2005, and Munch Jr. was removed at some point before 1997. The Latex masks were replaced with Plastic masks by 2001. The 3-Stage remained in operation until the store closed in 2020.
 
 The animatronics were kept in low-to-average working condition throughout the 2000s, as the technician did bare minimum maintenance on the stage. Some of the lights were wired incorrectly or used the wrong color bulb, and the less-crucial movements/lights would often be disabled instead of repaired (such as Jasper's leg kicks, Munch's foot tap, Pasqually's hi-hat, and the MMBB sign strobe light). 
@@ -57,7 +58,7 @@ In 2020, during the store closure, the stage would be demolished during closure,
 |One of Four Showbiz locations in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Character
@@ -117,14 +118,14 @@ In 2020, during the store closure, the stage would be demolished during closure,
 [http://showbizpizza.com/photos/spp/oh_parma/index.html 1986]
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
 !Date Filmed
 !Date Published
 |-
-|[https://www.youtube.com/watch?v=F6Y1G-8zr3Y https://www.youtube.com/watch?v=4xlosPFo58E]
+|[https:<i>www.youtube.com/watch?v=F6Y1G-8zr3Y https:</i>www.youtube.com/watch?v=4xlosPFo58E]
 |A video of Macsway as a Showbiz in 1991.
 |1991
 |March 3, 2022
@@ -160,5 +161,5 @@ In 2020, during the store closure, the stage would be demolished during closure,
 |June 20, 2020
 |}
 
-## References ##
+<h2> References </h2>
 <references />

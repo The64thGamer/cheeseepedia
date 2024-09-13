@@ -9,14 +9,14 @@ contributors = ["Pinkerton agent","2600:4040:59FF:B100:5D36:6534:BC25:7503","260
 gallery = ["Chuck-e-cheeses-skokie-0005.jpg|thumb|Skokie's Exterior before their 2.0 remodel (PC: familiohq)"]
 +++
 
-**_7142 Carpenter Rd, Store #456**_ is a _Chuck E Cheese's_ in Skokie, Illinois, it opened on August 20, 1991, with a Road Stage in the Village Crossing Shopping Center. 
+<b><i>7142 Carpenter Rd, Store #456</b></i> is a <i>Chuck E Cheese's</i> in Skokie, Illinois, it opened on August 20, 1991, with a Road Stage in the Village Crossing Shopping Center. 
 
-## History ##
+<h2> History </h2>
 Skokie opened on August 20, 1991, with one of two Road Stages in Illinois, the other being [Melrose Park, IL (1315 W North Ave)]({{< ref "wiki/Melrose Park, IL (1315 W North Ave).md" >}}) which opened a month and four days after Skokie. It was one of the very first tenants opened at Village Crossing. They opened with the 1988 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the Road Stage itself. 
 
 Skokie received their first remodel presumably in 1994, converting the Road Stage into a 2-Stage; replacing Helen's mask with a new one made at the time, and expanded the left side of the restaurant with Skee-Ball and several new games. This store was featured in the song “How Sweet It Is” from the second segment of the [September 2001 Show]({{< ref "wiki/September 2001 Show.md" >}}). In the Early 2000's, The Tuxedo & Derby was replaced with the Cool Chuck outfit with his red cap. They then received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2007, removing the Showroom Walls, Balcony Seating, 90s themed store art, & the addition of purple walls. Sometime after that, the wood paneling on the stage was painted grey like the paneling around the rest of the store. In 2009, Jasper’s PTT mask was replaced. Helen got a new mask in 2010. In 2011, the Cool Chuck outfit was replaced with the Avenger outfit (However, Chuck still retrained his red cap). in September 2013, the red cap was finally removed. In around 2012-2014, the dim lighting was replaced with bright florescent lighting, which included the removal of the red dinner lights that used to be above the tables in the gameroom. Then in 2019, Skokie remodeled to 2.0, removing the 2-Stage and adding a 2019 model Dance Floor. The Grand Reopening occurred on November 12th, 2019<ref>https://www.facebook.com/events/521450461985448/permalink/521450471985447/?comment_id=541469496650211</ref>.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -40,7 +40,7 @@ Skokie received their first remodel presumably in 1994, converting the Road Stag
 |2019 Model.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -75,7 +75,7 @@ Skokie received their first remodel presumably in 1994, converting the Road Stag
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -101,5 +101,5 @@ Skokie received their first remodel presumably in 1994, converting the Road Stag
 |Some of the store's 2.0 Remodel progress being documented. 
 |October-November 2019
 |}
-## References ##
+<h2> References </h2>
 <references />

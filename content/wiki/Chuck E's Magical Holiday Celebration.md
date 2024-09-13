@@ -16,10 +16,10 @@ gallery = []
 |cusvhs = y
 }}
 
-**_Chuck E.'s Magical Holiday Celebration**_ was a show that released in December of 1996 and also played in December 1997 at Chuck E. Cheese's locations. 
+<b><i>Chuck E.'s Magical Holiday Celebration</b></i> was a show that released in December of 1996 and also played in December 1997 at Chuck E. Cheese's locations. 
 
-##Show List ##
-#**Segment 1**
+<h2>Show List </h2>
+#<b>Segment 1</b>
 ##'Jingle Bells'
 ##'Deck The Halls'
 ##'We Wish You A Happy New Year'
@@ -27,36 +27,36 @@ gallery = []
 ##'On This Day of Christmas'
 ##'Up On The Rooftop'
 ##'Jingle Bells'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##'Good King Wenceslas'
 ##'Jingle Bells'
-#**Segment 2**
+#<b>Segment 2</b>
 ##'Holly Jolly Christmas'
 ##'Toyland'
 ##'Run Run Rudolph'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##'O Christmas Tree'
 ##'It Came Upon A Midnight Clear'
-#**Segment 3**
+#<b>Segment 3</b>
 ##'We Wish You A Merry Christmas'
 ##Restaurant Christmas Dinner
 ##'We Wish You A Merry Christmas'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##'Joy To The World'
-#**Segment 4**
+#<b>Segment 4</b>
 ##'Jolly Old Saint Nicholas'
 ##Current Edition Christmas Special
 ##'Jolly Old Saint Nicholas'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##'God Rest Ye Merry Gentlemen'
 ##'Silent Night'
-#**Segment 5**
+#<b>Segment 5</b>
 ##'We Wish You A Merry Christmas'
 ##The Night Before Christmas
 ##'We Wish You A Merry Christmas'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##'Deck The Halls'
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 *This show is the same as [The Chuck E. Cheese Christmas Special]({{< ref "wiki/The Chuck E Cheese Christmas Special.md" >}}), just with new intros and outros.

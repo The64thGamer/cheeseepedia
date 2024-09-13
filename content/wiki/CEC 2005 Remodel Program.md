@@ -5,26 +5,27 @@ tags = ["CEC Phases & Remodels"]
 date = 2023-10-08T17:33:35Z
 
 [Article]
+pageThumbnailFile = "Grape.jpg|Grapevine, TX's remodeled exterior"
 contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","2603:8001:8001:F591:1C61:406F:F346:AE32"]
 gallery = []
 +++
-{{Generic|image=Grape.jpg|desc=Grapevine, TX's remodeled exterior}}
 
-The **'Cool Chuck' Major Remodel Initiative** is a remodel of CEC restaurants that began in 2003 and since stopped in 2015.
 
-## History ##
+The <b>'Cool Chuck' Major Remodel Initiative</b> is a remodel of CEC restaurants that began in 2003 and since stopped in 2015.
+
+<h2> History </h2>
 CEC Entertainment began testing exterior and interior enhancements alongside with game rotations in 2003 in the Dallas-Fort Worth area. The initiative officially left testing in 2005 then would become the standard appearance for locations until 2015. 
 
-## Enhancements ##
+<h2> Enhancements </h2>
 This remodel mainly enhanced and expanded the game rooms and gave locations an overall vibrant look. These enhancements would range in costs from $225,000 to $400,000
 
-### Exterior ###
+<h2>= Exterior </h2>=
 Exteriors for most locations that remodeled to this received a brown checkered pattern and purple awnings. For 2003 to 2005, the signage was originally the same however Chuck E. was given a slight change from his Thumb Chuck design to now wear a Purple sweater, while the letters remained the same. In 2005 the exterior signage changed the letters into solid red and the Thumb Chuck was changed to the new 'Cool Chuck' logo designed by Peeler Rose.
 
-### Interior ###
+<h2>= Interior </h2>=
 The game room in most cases were expanded, some remodels sacrificing space from the showroom. The wall separating the Showroom from the game room was also removed to open up the environment. Fluorescent lighting replaced existing ceiling lighting, select walls were painted Purple (#7f87b2), and new fixtures like signage and artwork was introduced.
 
-### Updates ###
+<h2>= Updates </h2>=
 {| class='wikitable'
 |+
 !Item

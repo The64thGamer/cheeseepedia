@@ -8,12 +8,12 @@ date = 2023-08-07T04:33:40Z
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","Rexburg090","CEC Tinley","ThatBoiCydalan","167.224.250.176"]
 gallery = []
 +++
-**_1200 S Waldron Rd, Store #301**_ was a Showbiz Pizza Place that opened in 1988 (month and day unknown) with a Rock-Afire Explosion, and is still open to this day.
+<b><i>1200 S Waldron Rd, Store #301</b></i> was a Showbiz Pizza Place that opened in 1988 (month and day unknown) with a Rock-Afire Explosion, and is still open to this day.
 
 It is located in the Central Mall Shopping Center. It is also the 2nd to last Showbiz Pizza to open.
-##History##
+<h2>History</h2>
 Fort Smith opened in 1988 and had a Rock-Afire Explosion like every other Showbiz. It was also the 2nd to last location to open and was originally a franchised location until October 1st, 1990, when it was bought by corporate along with [Fayetteville, AR (1330 N College Ave)]({{< ref "wiki/Fayetteville, AR (1330 N College Ave).md" >}}). Around 1991 or 1992, they would receive Concept Unification and receive some decor, remove Showbiz Pizza decor, and a new exterior. In the Mid 1990's, They would receive either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. They would remain like this until 2005-2006 when they received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom walls, Balcony Seating, and 90s decor. They would remain like this until they received the 2.0 remodel in August 2018 removing the 3-Stage for the Dance Floor. Strangely, they kept the 2005 Update booths.  As of January 2023, they still have the 2.0 remodel and the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion like every other Showbiz location, but possibly came from a closed Showbiz. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this until October 2018 when they received the 2.0 remodel and removed the 3-Stage for the Dance Floor.
 {| class='wikitable'
 |+
@@ -38,9 +38,9 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |2017 Model. First 2.0 in Arkansas.
 |}
 
-## Arcade Machine ##
+<h2> Arcade Machine </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 * Ice Age: Ice Breaker
@@ -89,12 +89,12 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 * Cruisi'n Blast
 * Water Blast
 
-### Coin Action ###
+<h2>= Coin Action </h2>=
 
 * Winners' Wheel
 * The Price Is Right
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Bunny Pond
 * Dog Pounder
@@ -113,7 +113,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 * Jett Rider
 * Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -170,7 +170,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |}
 
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -186,4 +186,4 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |Josiah Abner
 |}
 
-##References##
+<h2>References</h2>

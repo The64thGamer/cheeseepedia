@@ -12,41 +12,41 @@ gallery = []
 |date=June 1983
 |showbizreel=y}}
 
-**_Country Night**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in June 1983.
+<b><i>Country Night</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in June 1983.
 
-##Segment List##
-#**Segment 1** 
+<h2>Segment List</h2>
+#<b>Segment 1</b> 
 ##'Monkeyman Chewing Tobacco Skit'
 ##'Redneck Friend'
-#**Segment 2** 
+#<b>Segment 2</b> 
 ##'Country Bird Songs Skit'
 ##'Country Medley' 
 ###'Come On In'
 ###'Heaven's Just a Sin Away'
 ###'Good Hearted Woman'
-###'Hey Good Lookin_
+###'Hey Good Lookin''
 ###'Looking For Love In All The Wrong Places'
 ###'Proud To Be A Rebel'
 ###'Act Naturally'
 ###'Mountain Music'
-#**Segment 3**
+#<b>Segment 3</b>
 ##'Jackson Intro Skit'
 ##'Jackson'
-#**Segment 4**
+#<b>Segment 4</b>
 ##'You Never Even Call Me By My Name'
-#**Segment 5**
+#<b>Segment 5</b>
 ##'Dixie Down Intro Skit'
 ##'The Night They Drove Old Dixie Down'
-#**Segment 6**
+#<b>Segment 6</b>
 ##'Presidential Skit'
 ##'Guitarzan'
-#**Segment 7**
+#<b>Segment 7</b>
 ##'Desperado'
-#**Segment 8**
+#<b>Segment 8</b>
 ##'Stranded In The Jungle'
-#**Segment 9**
+#<b>Segment 9</b>
 ##'Swingin Intro Skit'
 ##'Swingin'
-#**Segment 10**
+#<b>Segment 10</b>
 ##'Sixteen Tons Intro Skit'
 ##'Sixteen Tons'

@@ -17,18 +17,18 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_September 2004 Show**_ is the show that released September 2004 and played until the end of November 2004. 
+<b><i>September 2004 Show</b></i> is the show that released September 2004 and played until the end of November 2004. 
 
 This show was the first released with Robert Gotcher as Director of Entertainment. The show is also known to have a lost song on it, which was removed sometime before its final release.
 
-## Going On a Diet ##
-A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of [https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science 'She Blinded Me With Science'] and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<ref>https://youtu.be/iGoWidEOlbc</ref> 
+<h2> Going On a Diet </h2>
+A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of [https:<i>en.wikipedia.org/wiki/She_Blinded_Me_with_Science 'She Blinded Me With Science'] and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<ref>https:</i>youtu.be/iGoWidEOlbc</ref> 
 
-## Show List: ##
-#  **Segment 1**
+<h2> Show List: </h2>
+#  <b>Segment 1</b>
 ## 'Born To Be Wild'
 ## 'Pepperoni' (parody of [https://en.wikipedia.org/wiki/My_Sharona 'My Sharona'])
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##CEC TV '93 ID 
 ## Super Jasper - 'Staring Contest'
 ##Countdown ('Twinkle, Twinkle')
@@ -36,10 +36,10 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ##Countdown ('Rockin' Robin' footage)
 ##  Sprite Spot
 ##Countdown ('Rock Around The Clock' footage)
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Go To Chuck E. Cheese' (Parody of [https://en.wikipedia.org/wiki/Turning_Japanese 'Turning Japanese'])
 ## 'Do Ya'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##CEC TV ID - 'Couch'
 ## Ratings
 ## Drawing Chuck E.
@@ -47,20 +47,20 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ##  Fundraising Spot
 ## Baking With Betty - 'Vegetable Medley'
 ##Countdown ('Old MacDonald')
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'What A Wonderful World'
 ## 'Smile'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##CEC TV ID - 'Sunrise'
 ##  Flyball
 ## Countdown ('Midnight Special')
 ## Larry The Technician
 ## Coke Spot
 ## Countdown
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'What Up'
 ## 'I Want My Chuck E. Cheese' (parody of [https://en.wikipedia.org/wiki/Money_for_Nothing_(song) 'Money For Nothing'])
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##CEC TV ID - 'Marx Bros'
 ##Singing Cowboy
 ##Countdown ('Ease On Down The Road' footage)
@@ -68,8 +68,8 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ##Countdown ('Save Us From Extinction' footage)
 
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 *Birthday 2002
 *Birthday Star 2001
 *Spanish Birthday 2001
@@ -80,20 +80,20 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 *Happy and You Know It
 *BINGO
 *Chuck E. Says 2002
-**Birthday Break**: April 2004 show logo set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: April 2004 show logo set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
-### Reused Items ###
+<h2>= Reused Items </h2>=
 *The show logos are reused from September 2000.
 *This show features countdowns which use footage or intermissions from previous shows. Interestingly enough, the first, fifth and sixth countdowns  have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
 *The footage for 'Born to Be Wild' is reused from 'Living in America' from September 2002. 
 *'Go to Chuck E. Cheese' is reused from April 2002.
 *Clowns Making a Sandwich (reused from August 1999) has added background music for this show.
 
-### Show Specifics ###
+<h2>= Show Specifics </h2>=
 *Chuck's curtains close during 'Smile' on all versions of the show.
 *Chuck is programmed during the Fundraising spot and the reused Larry the Technician intermission on all versions of the show.
 *Munch Jr. is programmed during 'Pepperoni', ' Go to Chuck E. Cheese' and 'I Want My Chuck E. Cheese'.

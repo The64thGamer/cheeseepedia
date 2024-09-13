@@ -9,11 +9,11 @@ contributors = ["CorrectorMan","Jaxonia"]
 gallery = ["San jose or what.jpg|thumb|The site of the former PTT. (PC: Google Maps)"]
 +++
 
-**_975 S De Anza Blvd**_, location in the boundaries in **_San Jose**_, was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 (month and day unknown) and closed in May 1983 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
+<b><i>975 S De Anza Blvd</b></i>, location in the boundaries in <b><i>San Jose</b></i>, was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 (month and day unknown) and closed in May 1983 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 This location is not to be confused with Cupertino, CA (19805 Stevens Creek Blvd), which opened on November 15, 2006, and is still open today with a Studio C 2000 (Studio C Beta). 
 
-## Stage ##
+<h2> Stage </h2>
 San Jose/Cupertino opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). This particular stage never received a Helen Henny, as they closed before the Summer 1983 showtape. However, there is basically no documentation, and after closure, their fate is currently unknown.
 {| class='wikitable'
 |+
@@ -28,10 +28,10 @@ San Jose/Cupertino opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcon
 |N/A
 |}
 
-## History ##
+<h2> History </h2>
 San Jose/Cupertino opened in 1982 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Unfortunately, there is basically no documentation on this store anywhere. The location would close in May 1983 (day unknown) for unknown reasons, but likely due to it underperforming or their lease expiring. As of August 2023, the location is now part of a Home Depot.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

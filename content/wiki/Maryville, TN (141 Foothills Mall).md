@@ -8,12 +8,12 @@ date = 2024-01-23T22:23:02Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_141 Foothills Mall**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_ that opened on March 3rd, 1983, as a Showbiz Pizza store with a Rock-afire Explosion and closed in 1995 (Unknown Month and Day) with a 3-Stage.
+<b><i>141 Foothills Mall</b></i> was a <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese's Pizza</i> that opened on March 3rd, 1983, as a Showbiz Pizza store with a Rock-afire Explosion and closed in 1995 (Unknown Month and Day) with a 3-Stage.
 
-## History ##
+<h2> History </h2>
 Maryville opened on March 3rd, 1983 as the Fifth Showbiz Pizza Place in Tennessee. It opened as a Franchised store. It opened with the mall too. Maryville originally featured the Rock-afire Explosion, as all other Showbiz locations did. they would have it for a few years, until 1991, when they received Concept Unification replacing the Rock-afire Explosion for Munch's Make Believe Band but kept the Showbiz name and they got the [1988 Remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) sometime later. They would remain this way until the store was permanently closed in 1995 for unknown reasons. After closure, it became a Gym called Workout Anytime. As of December 2023, the Workout Anytime is still there.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did.  In 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. The store would remain this way until closure in 1995.
 
 {| class='wikitable'
@@ -34,7 +34,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |-
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

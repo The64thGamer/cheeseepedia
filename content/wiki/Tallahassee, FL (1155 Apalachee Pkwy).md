@@ -9,20 +9,20 @@ contributors = ["CEC Kokomo","CEC Tinley","NintendoCraft"]
 gallery = ["Ptt talahassee.jpg|thumb|Tallahassee's exterior after becoming Dollar Tree."]
 +++
 
-**_1155 Apalachee Pkwy**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened on August 9, 1982, and closed on November 18, 1984, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
+<b><i>1155 Apalachee Pkwy</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened on August 9, 1982, and closed on November 18, 1984, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
 This is not to be confused with [Tallahassee, FL (2810 Sharer Rd)]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}), which opened on April 7, 1992, and is still open today.
 
-##Stage##
+<h2>Stage</h2>
 Tallahassee opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Barely any info is known, and after closure in November 1984, the bots were auctioned.
 
-##History##
+<h2>History</h2>
 Tallahassee opened on August 9, 1982, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Nothing is known about Tallahassee's Pizza Time Theatre, however. The location would close on November 18, 1984, due to underperformance.
 
-###Post Pizza Time Theatre###
+<h2>=Post Pizza Time Theatre</h2>=
 The location would sit vacant for a period of time before becoming part of a Walgreen's. The Walgreen's would close between 2008 and 2010 and become Dollar Tree. As of August 2023, Dollar Tree sits on the space.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic

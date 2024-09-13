@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-09-02T00:10:48Z
 
 [Article]
+pageThumbnailFile = "Phase 3 exterior.jpg|Crystal Lake in 2001."
 contributors = ["Melrosefool2763","ShowbizMidwest","ThatBoiCydalan","CEC Tinley","Slussier1","Cheeseclassic","MasterMike","Midwestern Jasper T.","CEC1988","Documentor"]
 gallery = []
 +++
-{{Generic|image=Phase 3 exterior.jpg|desc=Crystal Lake in 2001.}}
-**_4725 Northwest Highway, Store #053**_ is a _Chuck E. Cheese's_ that opened on October 16th, 2000, with a Studio C Alpha and currently has the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-##Stages##
+<b><i>4725 Northwest Highway, Store #053</b></i> is a <i>Chuck E. Cheese's</i> that opened on October 16th, 2000, with a Studio C Alpha and currently has the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<h2>Stages</h2>
 Crystal Lake opened with a Studio C Alpha. It has stayed mostly the same over the years, but some things have been changed/removed. Chuck received the Cool Chuck outfit sometime in the mid 2000s, and Avenger in 2010. He later got the Avenger hat a year later. The bluescreen was removed in 2014, and the interactive console was removed in early 2015. The Apple TV was removed in 2018, due to the CRT TV not working. The gemini was replaced with a different light after it stopped working in 2019. Curtains were disabled in late 2016. The stage was removed on August 25th, 2024 and replaced with a video wall and dance floor.
 
-##History##
+<h2>History</h2>
 Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C Alpha. The store itself would be unchanged until Summer 2014, when Crystal Lake would receive the 2013 update to the 2005 remodel. As of today, Crystal Lake is in the middle of remodelling for 2.0, which started on August 25, 2024, and will end in Early September 2024. They removed their stage on August 25th, 2024.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Zombie Snatcher
 * Tight Rope
@@ -57,12 +58,12 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 * Disney Crossy Road
 * Monster Catcher
 
-#### Coin-Action ####
+<h2>== Coin-Action </h2>==
 
 * Rockin' & Rollin'
 * Hat Trick
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Angel Carousel
 * Shopkins Cutie Car
@@ -75,7 +76,7 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 * Bike Rally
 * Jett Rider
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -98,7 +99,7 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

@@ -9,9 +9,9 @@ contributors = ["CorrectorMan","Landon animatronics","CEC Kokomo","Cheeseclassic
 gallery = ["Springfield mo.jpg|thumb|Springfield's exterior. (PC: tumblr.com)"]
 +++
 
-**_3500-A S Glenstone Ave**_ is a _Chuck E. Cheese's Pizza_ that opened on January 10, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and is still open today, with the CEC 2018 2.0 Remodel Program (2.0 remodel).
+<b><i>3500-A S Glenstone Ave</b></i> is a <i>Chuck E. Cheese's Pizza</i> that opened on January 10, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and is still open today, with the CEC 2018 2.0 Remodel Program (2.0 remodel).
 
-## Stage ##
+<h2> Stage </h2>
 Springfield opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Around the early 2000s, Chuck received the Cool Chuck outfit. In 2005, the curtains were permanently disabled. Around the late 2000s, Chuck received his Avenger outfit, but his cap was removed in late 2013. In October 2023, Springfield’s stage was removed.
 {| class='wikitable'
 |+
@@ -31,10 +31,10 @@ Springfield opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Around the e
 |
 |}
 
-## History ##
+<h2> History </h2>
 Springfield opened on January 10, 1994 with the 1992 interior stylings from the 1986 SPT Remodel Program (1988 remodel) and a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Around 1995/1996, the location received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), removing all 1988 remodel elements, and changed the exterior. They later received [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in their respective years. Springfield remained like this until 2006/2007, when they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor for new decor, removed the showroom walls and balcony seating, added purple walls, and expanded. In around the late 2010s, the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were removed. In October 2023 Springfield, MO would begin its 2.0 refresh. As of July 2024, Springfield remains like this with the 2.0 remodel and the Dance Floor with the Video Wall.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronics

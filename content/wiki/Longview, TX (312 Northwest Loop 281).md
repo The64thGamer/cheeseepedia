@@ -10,4 +10,4 @@ gallery = ["Longview.jpg|thumb|Longview in 2022"]
 +++
 
 
-**312 Northwest Loop 281** is a Chuck E. Cheese that opened in 2004 with Small-Town Studio C (Small Town Studio C).
+<b>312 Northwest Loop 281</b> is a Chuck E. Cheese that opened in 2004 with Small-Town Studio C (Small Town Studio C).

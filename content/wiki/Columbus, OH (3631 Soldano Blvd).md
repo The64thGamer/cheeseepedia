@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-04-24T20:47:13Z
 
 [Article]
+pageThumbnailFile = "Exterior, 2019.png|Exterior, 2019"
 contributors = ["Saan1ty","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=Exterior, 2019.png|desc=Exterior, 2019}}
-{{Stub}}
 
-**_Columbus, OH (3631 Soldano Blvd)**_ is a Chuck E. Cheese that opened on November 24, 1992, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). It is still open today with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
+
+
+<b><i>Columbus, OH (3631 Soldano Blvd)</b></i> is a Chuck E. Cheese that opened on November 24, 1992, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). It is still open today with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
 It was the second location to install a 1-Stage and would keep the stage until its remodel in 2022.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -33,7 +34,7 @@ It was the second location to install a 1-Stage and would keep the stage until i
 |2021 Model.
 |}
 
-## History ##
+<h2> History </h2>
 Columbus (Soldano) would open up on November 24, 1992 with the second 1-Stage ever installed. They were also one of the first stores to open with the  [1990s remodel]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). The store would basically stay the same throughout the 90s, although would get Coach signage at some point within the decade.
 
 In 2006, Soldano would recieve the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), changing out all 90s decor for newer decor, and getting new signage and lettering on the exterior. They would expand in 2011, pushing more space into the back of the store, which relocated the stage to the new back wall of the store.
@@ -45,7 +46,7 @@ As of 2024, the store still remains in this form.
 
 WIP
 
-## Videos ##
+<h2> Videos </h2>
 WIP
 {| class='wikitable'
 !Link

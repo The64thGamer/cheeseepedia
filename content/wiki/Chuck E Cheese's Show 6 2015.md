@@ -18,19 +18,19 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 6 2015**_ released September 28, 2015 featuring two songs
+<b><i>Show 6 2015</b></i> released September 28, 2015 featuring two songs
 
 This was created to play from September 28, 2015 - November 1, 2015. This show features two new songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Fall Out Boy - 'Uma Thurman'
 ## CEC Promo - 'Moms Spot'
 ##  Josh & The Jamtones - 'Jump Up!' (Live at Chuck E. Cheese's)
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese & Mr. Munch - 'Trick or Treat' (New)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Maddie and Tae - 'Fly'
 ##  Cartoon Network - We Bare Bears - 'Breakfast' 
 ##  Shawn Mendes - 'I Believe'
@@ -43,16 +43,16 @@ This was created to play from September 28, 2015 - November 1, 2015. This show f
 ## CEC Promo - 'Birthday'
 ##  Kidz Bop - 'Ghostbusters'
 ##  Cartoon Network - Gumball Universe - 'Halloween'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Chuck E. Cheese and Friends - 'Costume Party' (New)
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Josh & The Jamtones - 'Rock Steady'
 ##  Cartoon Network - We Bare Bears - 'Basketball'
 ## CEC Promo - 'Dads Promo'
 ##  Phases - 'I'm In Love With My Life'
 ##  Cartoon Network - Steven Universe - 'Steven & The Stevens'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -63,14 +63,14 @@ This was created to play from September 28, 2015 - November 1, 2015. This show f
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl) <br />
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=NpnmfMFN7S8 'Trick or Treat' on YouTube]
 *[https://www.youtube.com/watch?v=A1iT8p5XOC8 'Costume Party' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The 'Jump Up!' (Live at Chuck E. Cheese's)' Intermission was filmed at the Natick, MA Chuck E. Cheese's on June 29, 2015.
 * The Chucktober promo featured an instrumental for 'Trick or Treat'

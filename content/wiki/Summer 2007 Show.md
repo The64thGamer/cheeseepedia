@@ -17,46 +17,46 @@ gallery = []
 |dvdcu=y
 |dvdcyber=y}}
 
-**Summer 2007 Show** is the summer show released in July 2007, featuring 8 new songs. 
+<b>Summer 2007 Show</b> is the summer show released in July 2007, featuring 8 new songs. 
 
 This show played from July - August 2007.
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Segment 1** 
+#<b>Segment 1</b> 
 ##'Best Friend'
 ##'Summertime'
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Couch'
 ##Coke Spot #1
 ##VeggieTales - 'The Pirates Who Don't Do Anything'
-#**Segment 2** 
+#<b>Segment 2</b> 
 ##'Livin Life'
 ##'In The Summertime'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##CEC TV ID - 'Singing Fish'
 ##Go-Paint Promo
 ##Let's Ski!!!
 ##CEC TV ID - 'Cows'
 ##The Announcer
-#**Segment 3** 
+#<b>Segment 3</b> 
 ##'Hot Sauce' (Parody of [https://en.wikipedia.org/wiki/Hot_Stuff_(Donna_Summer_song) Hot Stuff])
 ##'SPF'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##CEC TV ID - 'Barber'
 ##Coke Spot #2
 ##Monkey Ninjas Ep. 4
-#**Segment 4** 
+#<b>Segment 4</b> 
 ##'I Love the Sunshine'
 ##'Chuck E. Cheese' (Parody of [https://en.wikipedia.org/wiki/I_Feel_for_You I Feel for You])
-#**Intermission 4** 
+#<b>Intermission 4</b> 
 ##CEC TV ID - 'Blue'
 ##PBS Spot
 ##Clifford
 ##Chuck E. Sunrise
 
-##Lives:##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2>Lives:</h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 
 * New Birthday
 * Birthday Star 2001 
@@ -71,15 +71,15 @@ This show played from July - August 2007.
 * Jumpin’ 
 * Old MacDonald
 
-**Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
-## Production ##
+<h2> Production </h2>
 
-### Filming Locations ###
+<h2>= Filming Locations </h2>=
 
 * Summertime is filmed at [https://www.nrh2o.com/ NRH2O Family Water Park]
 
-### Credits ###
+<h2>= Credits </h2>=
 
 * Production Studio - MPS Studios
 * Duncan Brannan - Chuck E. Cheese Voice Actor
@@ -89,10 +89,10 @@ This show played from July - August 2007.
 * Earl Fisher - Pasqually Voice Actor
 * Sammy Davenport - Music Director
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Birthday Extravaganza 07 (Birthday Star Extravaganza 2007) is featured exclusively on Studio C discs and was re-edited since the April 2007 Show. Currently unknown if it was playable.
 

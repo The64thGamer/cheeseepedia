@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-06-08T21:07:26Z
 
 [Article]
+pageThumbnailFile = "desc=Street View of the store's exterior in September 2018 (PC: Google Maps)|image=DanversMAExterior2018SeptemberGoogleMaps.png"
 contributors = ["Destinationimagination95","Rexburg090","RedaCEC","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","The 64th Gamer","Dakaraimoore1203","NativeNew Yorker","CECMentor","Moonrock"]
 gallery = []
 +++
-{{Generic|desc=Street View of the store's exterior in September 2018 (PC: Google Maps)|image=DanversMAExterior2018SeptemberGoogleMaps.png}}
 
-**_Danvers, MA (139 Endicott St, Store #478)**_, was a _Pizza Time Theatre_ store that opened on April 24, 1983, as a franchised store, and closed April 15th, 2020 as a corporate location. 
+
+<b><i>Danvers, MA (139 Endicott St, Store #478)</b></i>, was a <i>Pizza Time Theatre</i> store that opened on April 24, 1983, as a franchised store, and closed April 15th, 2020 as a corporate location. 
 
 This location would be notorious in the early 2000's for contributions to the location itself by Jenn Waitt, and her friend Jay Hubbard, and also had a largely documented history throughout its 37-year run, before its eventual closure. 
 
-## History ##
-Danvers opened in April 24th, 1983, in Endicott Plaza, franchised by Tom Saltsman, and like many PTTs, featured the Balcony Stage upon opening. Their first guest star was Madame Oink, and a few months later, Helen Henny would replace her. Danvers was also one of the first locations to utilize [Cheese E. Street]({{< ref "wiki/Cheese E Street.md" >}}). In the Cabaret, B.B Bubbles would be their first act, along with The King. In February 1985, Danvers removed their Balcony Stage, which would be sent to Fall River, Massachusetts for that store's opening. In addition, B.B Bubbles took her final bow at the store and was removed. In place of the Balcony Stage was the Family Album. The names of the characters at the store were _Nadine_ ('Dee-Dee'), _Randy_ (the leader), and _Tommy-John_ (or 'TJ'). On February 2nd, 1987, Danvers was bought by corporate. 
+<h2> History </h2>
+Danvers opened in April 24th, 1983, in Endicott Plaza, franchised by Tom Saltsman, and like many PTTs, featured the Balcony Stage upon opening. Their first guest star was Madame Oink, and a few months later, Helen Henny would replace her. Danvers was also one of the first locations to utilize [Cheese E. Street]({{< ref "wiki/Cheese E Street.md" >}}). In the Cabaret, B.B Bubbles would be their first act, along with The King. In February 1985, Danvers removed their Balcony Stage, which would be sent to Fall River, Massachusetts for that store's opening. In addition, B.B Bubbles took her final bow at the store and was removed. In place of the Balcony Stage was the Family Album. The names of the characters at the store were <i>Nadine</i> ('Dee-Dee'), <i>Randy</i> (the leader), and <i>Tommy-John</i> (or 'TJ'). On February 2nd, 1987, Danvers was bought by corporate. 
 
 In March 1988, Danvers would remove the Family Album, receive a new set of animatronics, build a temporary Balcony stage in front of the old Family Album, and begin construction on Chuck E.'s House, which was completed in April. In July 1989, The King was removed, to be traded with Newington, NH's Beach Bowzers. The store also underwent a remodel that summer, which featured The Beach Bowzers in the relocated Cabaret. Cheese E. Street was also removed at this time. Chuck E.'s House would remain mostly the same throughout the years, with some cosmetic updates such as a new Jasper shirt in the early 1990s. 
 
@@ -29,7 +30,7 @@ In August 2013, Danvers would host one more Cheesevention, notably being the deb
 
 On April 15th, 2020, in the early weeks of the COVID-19 pandemic, Danvers would close their doors, reason being their lease expired in late 2019, and for whatever reason, the store did not renew. The store was open for takeout prior to the closure date. A majority of stuff was cleared out through April 29th, and then the store was left abandoned, leaving the exterior intact. Despite this closure, it would not be recognized by many until June, when CEC Entertainment filed for bankruptcy, and it along with other stores closed the past 2 months were listed on articles. The store would remain untouched until March 2021, where some more stuff got cleared out, and finally in June, the interior began to be gutted. The exterior had the awnings removed by July 12th, and the signage was removed July 18th. By August, the exterior finally went down, revealing the original PTT exterior underneath, before it too was demolished. As of December 2021, the store is now MB Spirits, a chain of Market Basket. 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 For the purpose of main 5, it will contain info on Chuck E.'s House show, with the original show in notes. Cabaret acts and Family Album also included.
 {| class='wikitable'
 |+
@@ -115,11 +116,11 @@ For the purpose of main 5, it will contain info on Chuck E.'s House show, with t
 |}
 
 
-[http://showbizpizza.com/photos/ptt/ma_danvers/index.html 1980's], [http://showbizpizza.com/photos/cec/ma_danvers/index.html 2002]
-, [http://showbizpizza.com/photos/cec/ma_danvers_cv1/index.html 2004], [http://showbizpizza.com/photos/cec/ma_danvers_cv2/index.html 2005]
+[http:<i>showbizpizza.com/photos/ptt/ma_danvers/index.html 1980's], [http:</i>showbizpizza.com/photos/cec/ma_danvers/index.html 2002]
+, [http:<i>showbizpizza.com/photos/cec/ma_danvers_cv1/index.html 2004], [http:</i>showbizpizza.com/photos/cec/ma_danvers_cv2/index.html 2005]
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 ! Description
@@ -221,5 +222,5 @@ For the purpose of main 5, it will contain info on Chuck E.'s House show, with t
 |April 25, 2020
 |April 27, 2020
 |}
-##References##
+<h2>References</h2>
 TODO

@@ -8,13 +8,13 @@ date = 2023-08-19T17:29:14Z
 contributors = ["ChuckECool","2600:4040:5A0E:D900:5A4:D894:F195:E9EC","ShowbizMidwest","2600:4040:5A0E:D900:CCCD:680A:FFDE:C3FC","2600:4040:5A0E:D900:CDB4:1FA4:B0AB:5F13"]
 gallery = []
 +++
-**_711 Coliseum Blvd, Store #946**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on May 19, 1982 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
+<b><i>711 Coliseum Blvd, Store #946</b></i> is a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on May 19, 1982 as a corporate <i>ShowBiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
 
-##History##
+<h2>History</h2>
 Fort Wayne opened its doors on May 19th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. It was also the third Showbiz Pizza in the state of Indiana. Like many other Showbiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would receive the 1988 remodel in 1989-1990 removing older SPP decor for newer decor, and an exterior change. Unfortunately, very little documentation exists back when it was a Showbiz Pizza. Like many ShowBiz locations in the late 1980s, Fort Wayne received the Showbiz Pizza Campground upgrade.
 
 In around 1991/1992, Fort Wayne received Concept Unification which converted the show to Munch's Make Believe Band. In around the Mid 1990's, Fort Wayne received the 1992 Major Remodel with the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) Game Package which removed some early 90's decor, added new decor, & received a new exterior. In 1998, Fort Wayne received the 'Phase 2' remodel removing the 3-Stage for the Studio C Alpha, older decor removed for newer decor, and SkyTubes. Fort Wayne remained this way until sometime in 2006-2007 when they received the 2005 Remodel which involved removing the Showroom Walls, Balcony Seating, and an exterior repaint. Fort Wayne would remain this way until they received the 2.0 Remodel in October 2022 removing the Studio C Alpha stage for a 2021 model Dance Floor. Currently, as of August 2023, Fort Wayne still has the 2.0 remodel and the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Fort Wayne opened with the Rock afire Explosion in May 1982. Unfortunately, there are some photos but no videos to exist of Fort Wayne with the Rock afire, or as a ShowBiz in general.
 
 In 1991-1992, Fort Wayne received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make Believe Band.
@@ -48,7 +48,7 @@ In October 2022, Fort Wayne started the 2.0 Remodel, removing the Studio C Alpha
 |Still In Use
 |2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -122,7 +122,7 @@ In October 2022, Fort Wayne started the 2.0 Remodel, removing the Studio C Alpha
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -169,5 +169,5 @@ TODO
 |September 10, 2022
 |September 18, 2022
 |}
-##References##
+<h2>References</h2>
 <references />

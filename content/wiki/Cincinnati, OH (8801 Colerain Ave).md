@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-08-11T23:52:58Z
 
 [Article]
+pageThumbnailFile = "ColerainsExterior2023.jpg|Colerain Exterior (2023)"
 contributors = ["Documentor","The 64th Gamer","CEC Columbus","Rexburg090","Maddox121","RedaCEC","ThatBoiCydalan","Caydenpedia","Cheeseclassic","SuperCreamPiper2008","Cy's Junk at School","Cecanddisneyfan2004"]
 gallery = []
 +++
-{{Generic|image=ColerainsExterior2023.jpg|desc=Colerain Exterior (2023)}}
-**_8801 Colerain Ave, Store #561**_ was a _Chuck E. Cheese's_ location that opened on November 11, 1981<ref>https://www.newspapers.com/article/the-cincinnati-enquirer-cincinnati-coler/32796793/</ref>, as a _ShowBiz Pizza Place_ with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a _Chuck E. Cheese's_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) on September 22, 2019.
 
-##Stages##
-The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on November 11, 1981. They would receive Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref>https://www.newspapers.com/image/103319155/</ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref>https://www.newspapers.com/image/101720183/</ref> In the late 1980s the Rock Afire Explosion would receive the Showbiz Pizza Campground.   
+<b><i>8801 Colerain Ave, Store #561</b></i> was a <i>Chuck E. Cheese's</i> location that opened on November 11, 1981<ref>https://www.newspapers.com/article/the-cincinnati-enquirer-cincinnati-coler/32796793/</ref>, as a <i>ShowBiz Pizza Place</i> with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a <i>Chuck E. Cheese's</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) on September 22, 2019.
+
+<h2>Stages</h2>
+The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on November 11, 1981. They would receive Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref>https:<i>www.newspapers.com/image/103319155/</ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref>https:</i>www.newspapers.com/image/101720183/</ref> In the late 1980s the Rock Afire Explosion would receive the Showbiz Pizza Campground.   
 
 Colerain started [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) on April 28, 1991<ref>October 2023 image in the Gallery that shows an employee written message.</ref>, which began the process of converting the Rock Afire Explosion to the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). Concept Unification would be completed in May 1991. In the late 1990s Munch Jr would be removed from the 3-Stage with photos from the early 90s showing him fairly worn out.    
 
@@ -37,10 +38,10 @@ In the 2010s the stage would see more removals and minor updates. In 2011 Chuck 
 |-
 |}  
 
-##History##
+<h2>History</h2>
 The Colerain Ave Showbiz Pizza Place opened up November 11, 1981 opening in front of the former Gold Circle Mall as the 2nd Showbiz Pizza Store in Ohio (2nd after [Sharonville]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}})). The store featured 'The Show Room, Sports Room, 60 Arcade games, a merry-go-round, and 'a magic cave'.' Fun Fact Colerain had unique showroom walls which unlike normal stores had an entrance in the middle of the wall. In 1982 apart of support for the Bengals getting into Super Bowl XVI Showbiz Pizza ran a promotion at Colerain & [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}). The event would happen January 24th in which you'd watch the event on a 'Wide Screen TV' and also bring in cans of soup in return 'Four Free Game Tokens and the soup goes to charity'. <ref>https://www.newspapers.com/image/100430208/?match=1</ref>   
 
-In 1985 two events were held at the Showbiz one being the Greater Cincinnati Youth for Christ hosted a social on March 31st & June 16th from 8-11pm. The event was titled 'Night Light' which featured Pizza Buffet, Live Music from the Willoughby-Wilson Band.<ref>https://www.newspapers.com/image/101319173</ref> <ref>https://www.newspapers.com/image/101750853/</ref>The other event hosted was a 'Teen Dance' even which was a charity event to benefit the Muscular Dystrophy Association which would take place on July 12th.<ref>https://www.newspapers.com/image/101380480/</ref>
+In 1985 two events were held at the Showbiz one being the Greater Cincinnati Youth for Christ hosted a social on March 31st & June 16th from 8-11pm. The event was titled 'Night Light' which featured Pizza Buffet, Live Music from the Willoughby-Wilson Band.<ref>https:<i>www.newspapers.com/image/101319173</ref> <ref>https:</i>www.newspapers.com/image/101750853/</ref>The other event hosted was a 'Teen Dance' even which was a charity event to benefit the Muscular Dystrophy Association which would take place on July 12th.<ref>https://www.newspapers.com/image/101380480/</ref>
 
 By 1987 Showbiz Pizza Place & Pizza Time Theatre had merged together with the ads beginning to reflect that. Since by that point every other SPP & PTT in the area had closed only Colerain & [Florence, KY (7635 Mall Rd)]({{< ref "wiki/Florence, KY (7635 Mall Rd).md" >}}) would be the only stores to show on these ads.<ref>https://www.newspapers.com/image/102005274/</ref>
 
@@ -62,11 +63,11 @@ In 1996 they would receive [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}
 
 Between 1997 - 1999 they would then receive [Phase 2 (1997)]({{< ref "wiki/Phase 2 (1997).md" >}}) this would be when they'd redesign the prize counter & a new game package.  
 
-Lastly between 2001 - 2002 they would receive [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}) with the Toddler Zone installed near the right side of the restaurant by the Show Room Walls. <ref>https://decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:CECcolerain019.jpg</ref>They'd also receive two new pieces of art. That being Big City (2001 Postcard) which was installed on the left wall of the Salad Bar <ref>https://decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:2009.png</ref>& Toddler Zone Sandbox (CEC Décor) which was installed next to the new Toddler Zone.<ref>https://decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:CECcolerain018.jpg</ref> 
+Lastly between 2001 - 2002 they would receive [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}) with the Toddler Zone installed near the right side of the restaurant by the Show Room Walls. <ref>https:<i>decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:CECcolerain019.jpg</ref>They'd also receive two new pieces of art. That being Big City (2001 Postcard) which was installed on the left wall of the Salad Bar <ref>https:</i>decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:2009.png</ref>& Toddler Zone Sandbox (CEC Décor) which was installed next to the new Toddler Zone.<ref>https://decodedocdigitize.miraheze.org/wiki/Cincinnati,_OH_(8801_Colerain_Ave)#/media/File:CECcolerain018.jpg</ref> 
 
 In 2006 the store would receive a minor update which would revolve replacing all the booths in the showroom with the new [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) booths. They would also around the same time install a single [Red CEC Tickets (CEC Décor)]({{< ref "wiki/Red CEC Tickets (CEC Décor).md" >}}) near the entrance on the left wall. 
 
-During Summer 2009 the store would receive the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). During the remodel they'd receive a new game package and expand the store from 10,200 sq ft to 10,406 sq ft.<ref>https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</ref><ref>https://www.loopnet.com/property/8801-colerain-ave-cincinnati-oh-45251/39061-5100093002700/</ref>
+During Summer 2009 the store would receive the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). During the remodel they'd receive a new game package and expand the store from 10,200 sq ft to 10,406 sq ft.<ref>https:<i>www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</ref><ref>https:</i>www.loopnet.com/property/8801-colerain-ave-cincinnati-oh-45251/39061-5100093002700/</ref>
 
 In Winter 2014 the store would receive another Game Package replacing/removing several older games such as Tower of Power & Chuck E. Cheese's Photo Ride (1997). The Photo Ride being replaced with Chuck E. Cheese's Photo Ride (2014)
 
@@ -78,11 +79,11 @@ The Toddler Zone fence was removed in late 2017. Leaving a more open environment
 
 Colerain would receive another Game Package in August 2018. At the same time the animatronic show would see increased maintenance which it hadn't seen since 2016.  
 
-On September 22, 2019, Colerain would close after 38 years due to the owner of the property increasing rent on the lease and CEC Entertainment no longer seeing reason to keep the store open.  After closing some pieces of art were sent to [4394 Eastgate Square Dr]({{< ref "wiki/Cincinnati, OH (4394 Eastgate Square Dr).md" >}}). The posters sent over were _Grand Marshal of Games' (CEC Décor) (Grand Marshal of Games)', _Ambassador of Fun' (CEC Décor) (Ambassador of Fun)' and two ['Red CEC Tickets']({{< ref "wiki/Red CEC Tickets (CEC Décor).md" >}}), Along with several showroom chairs, the Kid Check stand, & Parts of arcade games such as 'Simpson Soccer' and 'Pop It for Gold'. The Parts computer was sent to [Lima, OH (2809 Elida Rd)]({{< ref "wiki/Lima, OH (2809 Elida Rd).md" >}}), Various show parts and the ended up being sent to [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}}) along with all of the showroom booths being sent to replace the original Black & Green booths from the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). An unused roll of carpet, Train Ride Statue, Tik Tak Chuck Statue, One of the [CEC Warhol - Quad (CEC Décor)]({{< ref "wiki/CEC Warhol - Quad (CEC Décor).md" >}}) posters, 'Good Behavior Guideline' sign, & The menus would end up at [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}). The unused roll of carpet, 'Good Behavior Guideline' sign & Menus would be thrown out two weeks after arriving due to [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}) receiving 2.0. Games were split between the Dumpster, Storage, and other stores in the area.    
+On September 22, 2019, Colerain would close after 38 years due to the owner of the property increasing rent on the lease and CEC Entertainment no longer seeing reason to keep the store open.  After closing some pieces of art were sent to [4394 Eastgate Square Dr]({{< ref "wiki/Cincinnati, OH (4394 Eastgate Square Dr).md" >}}). The posters sent over were <i>Grand Marshal of Games' (CEC Décor) (Grand Marshal of Games)', </i>Ambassador of Fun' (CEC Décor) (Ambassador of Fun)' and two ['Red CEC Tickets']({{< ref "wiki/Red CEC Tickets (CEC Décor).md" >}}), Along with several showroom chairs, the Kid Check stand, & Parts of arcade games such as 'Simpson Soccer' and 'Pop It for Gold'. The Parts computer was sent to [Lima, OH (2809 Elida Rd)]({{< ref "wiki/Lima, OH (2809 Elida Rd).md" >}}), Various show parts and the ended up being sent to [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}}) along with all of the showroom booths being sent to replace the original Black & Green booths from the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). An unused roll of carpet, Train Ride Statue, Tik Tak Chuck Statue, One of the [CEC Warhol - Quad (CEC Décor)]({{< ref "wiki/CEC Warhol - Quad (CEC Décor).md" >}}) posters, 'Good Behavior Guideline' sign, & The menus would end up at [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}). The unused roll of carpet, 'Good Behavior Guideline' sign & Menus would be thrown out two weeks after arriving due to [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}) receiving 2.0. Games were split between the Dumpster, Storage, and other stores in the area.    
 
 As of 2024 the property is for sale with talks being to re-use the space for a local restaurant / local restaurant chain. With the stage being possibly re-used for future developments.   
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description 
@@ -308,7 +309,7 @@ As of 2024 the property is for sale with talks being to re-use the space for a l
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -368,6 +369,6 @@ As of 2024 the property is for sale with talks being to re-use the space for a l
 |Intact during cleanout, currently unknown 
 |}
 
-##References##
+<h2>References</h2>
 
 <references />

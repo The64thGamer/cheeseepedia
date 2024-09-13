@@ -13,145 +13,145 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |image=Evergreen2023.jpg
 |date=November 1, 2023
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Chuck E. Cheese Evergreen 2023 (November 2023)**_ is a updated version of the Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2023.
+<b><i>Chuck E. Cheese Evergreen 2023 (November 2023)</b></i> is a updated version of the Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2023.
 
 This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1**
+#<b>Intermission 1</b>
 ## KIDZ BOP Kids-'Cupid'
-#**Skit 1**
+#<b>Skit 1</b>
 ##Chuck E. & Friends - 'Most Perfect Day'
 ##Chuck E. & Friends - 'Ves El Ratoncito'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ## KIDZ BOP Kids - 'Flowers'
 ## CEC Silly Songs - 'Unicorn, Unicorn'
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'Cuff It'
-#**Skit 2**
+#<b>Skit 2</b>
 ## Chuck E. & Friends - 'I Love Sparkles'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## KIDZ BOP Kids - 'abc'
-#**Skit 3** 
+#<b>Skit 3</b> 
 ## Helen Henny - 'Game On!'
 ## Bella B. - 'El Rey Guitarrista'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## KIDZ POP Kids - 'River'
-#**Skit 4**
+#<b>Skit 4</b>
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
-#**Intermission 5** 
+#<b>Intermission 5</b> 
 ## VeeFriends - 'Analysis Paralysis/Rare Robot'
 ## Chuck E. Cheese - 'Banana Dog'
 ## KIDZ BOP Kids - 'Unstoppable'
-#**Skit 5**
+#<b>Skit 5</b>
 ## Chuck E. & Friends - 'Trio'
 ## Chuck E. & Friends - 'Join The Party'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## KIDZ BOP Kids - 'Karma'
 ## Chuck E. Cheese - 'Mary Had A Rockin' Little Lamb'
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. Cheese & Friends - 'Stay Positive'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ## KIDZ Pop Kids - 'TRUSTFALL'
-#**Skit 7**
+#<b>Skit 7</b>
 ## Chuck E. & Friends - 'I Dare You Not to Laugh'
 ## Chuck E. Cheese - 'Let's Have a Party'
 
-## Navori Existing Stages Show List: ##
+<h2> Navori Existing Stages Show List: </h2>
 
-### Advertising ###
+<h2>= Advertising </h2>=
 
-# **Ad 1**
+# <b>Ad 1</b>
 ##  Ecolab
-# **Ad 2**
+# <b>Ad 2</b>
 ## Dippin Dots
-# **Ad 3** 
+# <b>Ad 3</b> 
 ## Samsung
 ## Food & Drink Combos
-# **Ad 4**
+# <b>Ad 4</b>
 ##  CEC Online Store
-# **Ad 5**
+# <b>Ad 5</b>
 ## CEC Group Events & Fundraisers
-# **Ad 6** 
+# <b>Ad 6</b> 
 ##  PPG
 ## Food & Drink Combos
-# **Ad 7**
+# <b>Ad 7</b>
 ##  Ecolab
-# **Ad 8**
+# <b>Ad 8</b>
 ## Dippin Dots
-# **Ad 9**
+# <b>Ad 9</b>
 ## CEC YouTube & Music Streaming
 ## Food & Drink Combos
-# **Ad 10**
+# <b>Ad 10</b>
 ##  CEC Online Store
-# **Ad 11**
+# <b>Ad 11</b>
 ## CEC Group Events & Fundraisers
-# **Ad 12**
+# <b>Ad 12</b>
 ##  CEC Birthdays
 ## CEC YouTube & Music Streaming
 
-### Entertainment ###
+<h2>= Entertainment </h2>=
 
 #  KIDZ BOP Kids- 'About That Time'
-# **Chuck E. & Friends - 'Join the Party**'
+# <b>Chuck E. & Friends - 'Join the Party</b>'
 #  Coldplay - 'Humankind'
-#  KIDZ BOP Kids - 'Late Night Talkin_
+#  KIDZ BOP Kids - 'Late Night Talkin''
 # Lanky Box - 'The Donut Song'
-# **Chuck E. Cheese & Friends - 'Stay Positive**'
-# **Chuck E. & Friends - 'Trio**'
+# <b>Chuck E. Cheese & Friends - 'Stay Positive</b>'
+# <b>Chuck E. & Friends - 'Trio</b>'
 # KIDZ BOP Kids - 'We Don't Talk About Bruno'
 # Lanky Box - 'The Pizza Song'
 # Koo Koo Kangaroo - 'Glitter'
-# **Helen Henny - 'Disco Dancing Dinosaur Party**'
+# <b>Helen Henny - 'Disco Dancing Dinosaur Party</b>'
 # Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-# **Helen Henny - 'Game On!**'
+# <b>Helen Henny - 'Game On!</b>'
 #  KIDZ BOP Kids - 'Meet Me at our Spot.'
 # Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
 #  KIDZ BOP Kids - 'As It Was.'
-# **Chuck E. Cheese & Friends - 'My Family**'
-# **Chuck E. Cheese & Friends - 'Ves Al Ratoncito**'
-# **Chuck E. Cheese & Helen Henny - 'I Dare You Not to Laugh**'
+# <b>Chuck E. Cheese & Friends - 'My Family</b>'
+# <b>Chuck E. Cheese & Friends - 'Ves Al Ratoncito</b>'
+# <b>Chuck E. Cheese & Helen Henny - 'I Dare You Not to Laugh</b>'
 #  Chuck E. Cheese - 'Mary Had a Rockin' Lamb.'
 
-## Navori Media Stages Show List: ##
+<h2> Navori Media Stages Show List: </h2>
 
-### Advertising ###
+<h2>= Advertising </h2>=
 
-# **Ad 1**
+# <b>Ad 1</b>
 ##  Ecolab
-# **Ad 2**
+# <b>Ad 2</b>
 ## Dippin Dots
-# **Ad 3** 
+# <b>Ad 3</b> 
 ## Samsung
 ## Food & Drink Combos
-# **Ad 4**
+# <b>Ad 4</b>
 ##  CEC Online Store
-# **Ad 5**
+# <b>Ad 5</b>
 ## CEC Group Events & Fundraisers
-# **Ad 6** 
+# <b>Ad 6</b> 
 ##  PPG
 ## Food & Drink Combos
-# **Ad 7**
+# <b>Ad 7</b>
 ##  Ecolab
-# **Ad 8**
+# <b>Ad 8</b>
 ## Dippin Dots
-# **Ad 9**
+# <b>Ad 9</b>
 ## CEC YouTube & Music Streaming
 ## Food & Drink Combos
-# **Ad 10**
+# <b>Ad 10</b>
 ##  CEC Online Store
-# **Ad 11**
+# <b>Ad 11</b>
 ## CEC Group Events & Fundraisers
-# **Ad 12**
+# <b>Ad 12</b>
 ##  CEC Birthdays
 ## CEC YouTube & Music Streaming
 
-### Entertainment ###
+<h2>= Entertainment </h2>=
 
 #  KIDZ BOP Kids- 'About That Time'
 # Chuck E. & Friends - 'Join the Party'
 #  Coldplay - 'Humankind'
-#  KIDZ BOP Kids - 'Late Night Talkin_
+#  KIDZ BOP Kids - 'Late Night Talkin''
 # Lanky Box - 'The Donut Song'
 # Chuck E. Cheese & Friends - 'Stay Positive'
 # Chuck E. & Friends - 'Trio'
@@ -173,7 +173,7 @@ This was created with the idea to play between promotional events. This show fea
 # Kid Cudi - Stars in The Sky
 # Chuck E. Cheese & Friends - Play All You Can Play
 
-##Lives:##
+<h2>Lives:</h2>
 
 * Birthday Show 2018 (Navori)
 * Birthday Show 2018 (Spanish) (Navori)

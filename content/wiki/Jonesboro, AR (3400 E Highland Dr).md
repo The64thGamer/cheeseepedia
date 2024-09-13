@@ -5,24 +5,25 @@ tags = ["Store List"]
 date = 2023-05-19T18:24:35Z
 
 [Article]
+pageThumbnailFile = "JonesboroARExterior2011JanuaryGoogleMaps.jpg|Street view of the exterior in June 2011 (PC: Google Maps)"
 contributors = ["Awesome Dawson Films YT","ChuckECool","ThatBoiCydalan","CEC Tinley"]
 gallery = []
 +++
-{{Generic|image=JonesboroARExterior2011JanuaryGoogleMaps.jpg|desc=Street view of the exterior in June 2011 (PC: Google Maps)}}
 
-**_Jonesboro, AR (3400 E Highland Dr), Store #668**_ is a _Chuck E. Cheese_ that opened on December 19, 2005, with a Studio C Beta Cappa Mix and is still open to this day. This location is the only location in the Northeast Arkansas area. The store received the 2.0 remodel in 2022.
+
+<b><i>Jonesboro, AR (3400 E Highland Dr), Store #668</b></i> is a <i>Chuck E. Cheese</i> that opened on December 19, 2005, with a Studio C Beta Cappa Mix and is still open to this day. This location is the only location in the Northeast Arkansas area. The store received the 2.0 remodel in 2022.
 
 It is (currently was) located across from 'The Mall at Turtle Creek'.
 
-##Stages##
+<h2>Stages</h2>
 Jonesboro opened with a Studio C Beta Cappa Mix stage, and Phase 4. From 2005 to (at the latest) 2012, the Chuck E. animatronic wore his 'Cool Chuck' outfit. This would later be replaced by the 'Avenger' outfit, which remained on the animatronic up until its removal. Throughout its years of operation, the animatronic would remain in great condition, with its only problems rising in April 2022 with it unnaturally turning its head 270 degrees around. Its final day of full operation was September 9, 2022, as that evening after closing it would be dismantled and removed.
 
-##History##
+<h2>History</h2>
 Jonesboro opened on December 19th, 2005, as a corporate-owned store. It opened with the 2005 remodel and the Studio C Beta Cappa Mix.
 
 Jonesboro remained like this from opening until they began their 2.0 remodel in late August 2022 removing the Beta Cappa Mix for the Dance Floor. Currently, as of March 2023, Jonesboro still has the 2.0 remodel and Dance Floor.
 
-## Games & Rides##
+<h2> Games & Rides</h2>
 *Drop It Drop It
 *Tippin’ Bloks
 *Avengers Coin Pusher (Single)
@@ -72,7 +73,7 @@ Jonesboro remained like this from opening until they began their 2.0 remodel in 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 ! Animatronic 

@@ -5,16 +5,17 @@ tags = ["Events"]
 date = 2023-11-01T22:20:23Z
 
 [Article]
+pageThumbnailFile = "Monthofgratitudebannerlogo.png|Logo"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Monthofgratitudebannerlogo.png|desc=Logo}}
 
-**_CEC Month of Gratitude 2023**_ is an employees only event lasting throughout November of 2023.
+
+<b><i>CEC Month of Gratitude 2023</b></i> is an employees only event lasting throughout November of 2023.
 
 The event provides specific benefits for cast members throughout the month. CEC Corporate marketed this as a way to say thank you to cast members, releasing an official statement and video by David McKillips and other corporate leaders.
 
-## Benefits ##
+<h2> Benefits </h2>
 Employees benefit from multiple perks during the month, mainly being discounts and 3 raffles.
 
 * Employee discount on food is increased from 50% to 100%. It is unknown the limitations and quantities of free food served.

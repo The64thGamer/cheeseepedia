@@ -9,10 +9,10 @@ contributors = ["Documentor"]
 gallery = ["Basketballposter.jpg|thumb|Basketball magazine poster"]
 +++
 
-The **_Basketball magazine poster**_ was released in stores in 1994 and 1995 alongside numerous other magazine posters.
+The <b><i>Basketball magazine poster</b></i> was released in stores in 1994 and 1995 alongside numerous other magazine posters.
 
-## Appearance ##
+<h2> Appearance </h2>
 The poster features a magazine-esque photograph of a Chuck E. Cheese statue wearing a Bulls basketball uniform. The title reads, 'Collector's Edition: Spicing Up the Playoffs! Sports Mirror Basketball'.
 
-## Size/Dimensions ##
+<h2> Size/Dimensions </h2>
 Exact dimensions unknown. Poster is small.

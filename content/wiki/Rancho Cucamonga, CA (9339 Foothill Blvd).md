@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-08-22T23:28:35Z
 
 [Article]
+pageThumbnailFile = "Rancho Cucamonga.png|Exterior After 2.0, Unknown Year"
 contributors = ["ChuckECool","The 64th Gamer","CEC Tinley","Snowbobsuperboi","SuperCreamPiper2008","CEC1988"]
 gallery = []
 +++
-{{Generic|image=Rancho Cucamonga.png|desc=Exterior After 2.0, Unknown Year}}
 
-**_9339 Foothill Boulevard, Store #59**_ is a Chuck E. Cheese's Pizza/Chuck E. Cheese's that opened on March 21st, 1990, with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is still open to this day as a 2.0. 
+
+<b><i>9339 Foothill Boulevard, Store #59</b></i> is a Chuck E. Cheese's Pizza/Chuck E. Cheese's that opened on March 21st, 1990, with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is still open to this day as a 2.0. 
 
 This location is located in the Foothill Village Shopping Center.
-##History##
-###CEC (March 1990-June 2014)###
+<h2>History</h2>
+<h2>=CEC (March 1990-June 2014)</h2>=
 According to a Youtube comment, Rancho Cucamonga was Robbed before opening its doors. But there currently is no evidence to suggest this. Rancho Cucamonga held its grand opening on March 21st, 1990, and was built as one of the tenants of the Foothill Village shopping center. This store opened with the 1988 remodel and game package, with the stage being [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) or, the Rocker Stage. Unfortunately, no photos or videos of Rancho Cucamonga from back then have surfaced, and it is unknown if any exist. Sometime in the Mid-1990's, this store would receive a [2-Stage]({{< ref "wiki/2-Stage.md" >}}), replacing the Chuck E.'s House stage it had opened with. They would also later receive the 1993 Remodel, getting new signage with Coach Chuck in a star cap. They would keep this remodel until around 2006 or 2007, when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removed all older decor, replaced it with newer decor, purple walls, Showroom Walls being destroyed, exterior changes, relocating the stage, and relocating the salad bar and some games.
 
 Rancho Cucamonga remained like this until 2019 when they would receive the 2.0 Remodel, removing the 2-Stage for a Dance Floor. Currently, as of October 2023, the Dance Floor is still there, but it was upgraded in 2022 and also added a Video Wall.
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -52,7 +53,7 @@ Rancho Cucamonga remained like this until 2019 when they would receive the 2.0 R
 |Unknown.
 |Destroyed.
 |}
-##Stages##
+<h2>Stages</h2>
 When this store opened in 1990, they had a Chuck E.'s House stage, this was later replaced by the 2-Stage, and then the Dance Floor and Video Wall.
 {| class='wikitable'
 !Stage
@@ -78,5 +79,5 @@ When this store opened in 1990, they had a Chuck E.'s House stage, this was late
 
 
 
-## Fun Facts ##
+<h2> Fun Facts </h2>
 The Store Still has the 'Make Magic, Otherwise We're Just Another Pizza Place!' sign.

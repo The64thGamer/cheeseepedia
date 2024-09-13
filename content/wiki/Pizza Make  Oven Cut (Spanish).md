@@ -13,7 +13,7 @@ gallery = []
 (Spanish)
 CHUCK E. CHEESE'S UNIVERSITY}}
 
-**_Pizza Make / Oven Cut (Spanish)**_ is a Spanish dubbed variant of the Pizza Make / Oven Cut training video released in 1994.
+<b><i>Pizza Make / Oven Cut (Spanish)</b></i> is a Spanish dubbed variant of the Pizza Make / Oven Cut training video released in 1994.
 
 This was part of a set of updated training videos developed for 1994.
 

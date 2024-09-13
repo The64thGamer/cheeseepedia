@@ -18,70 +18,70 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |credit1=Duncan Brannan - Voice of Chuck E. Cheese |credit2=Annagrey Wiechman - Voice of Helen Henny |credit3=John Bowen - Voice of Mr. Munch |credit4=Jeremy Blaido - Director, Voice of Jasper, Mike Manley, Larry, Backup Singer|credit5=Earl Fisher - Voice of Pasqually The Chef |credit6= Robert Gotcher - Production Manager, Backup Singer|credit7= Matt Daniel - Production Coordinator, Backup Singer |credit8= Eddie Coker - Lead Singer 'Happy Holidays'
 |credit9=Sammy Davenport - Music Director}}
 
-**Happy Holidays 2002** is the holiday show released and played through December 2002. This show would also play in 2003 as the [Holiday 2003 Show]({{< ref "wiki/Holiday 2003 Show.md" >}}).
+<b>Happy Holidays 2002</b> is the holiday show released and played through December 2002. This show would also play in 2003 as the [Holiday 2003 Show]({{< ref "wiki/Holiday 2003 Show.md" >}}).
 
-## Studio C Show List: ##
-# **Intermission 1**
+<h2> Studio C Show List: </h2>
+# <b>Intermission 1</b>
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Eddie Coker - 'Happy Holidays'
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Existing Show List: ##
-# **Intermission 1**
+<h2> Existing Show List: </h2>
+# <b>Intermission 1</b>
 ## Ken Chuck E. Derby
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Eddie Coker - 'Happy Holidays'
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Ken Chuck E. Derby
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Chuck E. March 01
 * Havin' A Party 01
 * Chuck E. Swing
@@ -93,11 +93,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
 *   Go Santa Go
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<b>Birthday Break</b>: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-## Trivia: ##
+<h2> Trivia: </h2>
 *There are 3 floppy disc versions for this show. Version B adds an EDIT.COM file not in the original floppy. It is currently unknown what it does. It is also unknown if the Final Version has any major changes.
 * The intros to the Ken Chuck E. Derby intermissions reused from [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}) were rerecorded at the last minute due to issues with the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1993 versions of these intermissions are hidden on the Studio C DVDs with updated music.
 *The countdowns and some songs reuse footage from [Holiday Special 1992]({{< ref "wiki/Holiday Special 1992.md" >}}), [The Chuck E. Cheese Christmas Special]({{< ref "wiki/The Chuck E Cheese Christmas Special.md" >}}) and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}).

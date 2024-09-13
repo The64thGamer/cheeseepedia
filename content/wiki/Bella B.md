@@ -9,12 +9,12 @@ contributors = ["CECMentor"]
 gallery = ["BellaB.png|thumb|468x468px|Bella's design as of 2024."]
 +++
 
-**_Bella B.**_ is one of the main characters of the Chuck E. Cheese's franchise, making her debut in the 2018 song 'Bailando.' She is the newest member in Munch's Make Believe Band.
+<b><i>Bella B.</b></i> is one of the main characters of the Chuck E. Cheese's franchise, making her debut in the 2018 song 'Bailando.' She is the newest member in Munch's Make Believe Band.
 
-## History ##
+<h2> History </h2>
 
-### Chuck E. Cheese's ###
+<h2>= Chuck E. Cheese's </h2>=
 On January 18th, 2018, Bella made her debut in the song 'Bailando', and was presented as a new girl in town that was friends with [Helen Henny]({{< ref "wiki/Helen Henny.md" >}}). She was originally intended to be a one-off character, as corporate had ordered Matt Daniel to create a Spanish speaking character to educate children on the language. Bella would not appear again until over a year later. On June 28th, 2019, Chuck E. Cheese released the song 'Play All You Can Play.' The song's music video would completely redesign Bella, making her a parody of the musician [https://en.wikipedia.org/wiki/Cardi_B Cardi B]. In November of 2019, it was revealed that Bella had a family. She now wore yellow overalls and was shown to be a much different character than her original appearance. In 2022, Bella would receive her first CGI renders. In 2023, a Bella costume was created. Throughout the 2020's Bella would continue to be included as part of Munch's Make Believe Band. In several shows she mentions that she loves to dance and tend her garden. Bella has been shown to play the guitar, as well as the tambourine in promotional material.
 
-### Merchandise & Art ###
+<h2>= Merchandise & Art </h2>=
 Bella commonly appears on clothing and had her first plush made in 2023. The only art of Bella currently being used in stores is the trampoline signs.

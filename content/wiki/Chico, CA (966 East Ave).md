@@ -5,11 +5,12 @@ tags = ["Store List"]
 date = 2024-07-27T21:03:02Z
 
 [Article]
+pageThumbnailFile = "Unkn421ow543n.png|Chico, CA exterior, September 2010, still with the SPT 1992 Remodel exterior."
 contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu","StudioC","MultiMonorail","CyCGM","The 64th Gamer","201.75.170.163","RedaCEC","2601:243:815:C6A:2442:4566:5334:C792","Rexburg090","2600:1004:B182:AFA6:E06A:952D:A175:4BF0","Midwestretail","CEC Tinley","CorrectorMan","Saan1ty","PizzaEntertainmentFanX","Cy's Junk at School","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Unkn421ow543n.png|desc=Chico, CA exterior, September 2010, still with the SPT 1992 Remodel exterior.}}**_Chico, California, 966 East Ave, Store #230/3039**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in July 1982 with a Balcony stage and closed on January 11th, 2011 as the only [Fun Zone & Pizza]({{< ref "wiki/Fun Zone & Pizza.md" >}}).
-##Stages##
+<b><i>Chico, California, 966 East Ave, Store #230/3039</b></i> was a <i>Chuck E. Cheese's Pizza Time Theatre</i> that opened in July 1982 with a Balcony stage and closed on January 11th, 2011 as the only [Fun Zone & Pizza]({{< ref "wiki/Fun Zone & Pizza.md" >}}).
+<h2>Stages</h2>
 The Chico, CA location opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) with Harmony Howlette, Madame Oink, and Helen Henny guest stars over the course of its decade run. 
 
 Chico would also house The King for a period of time, it is unknown when the character was removed.
@@ -40,7 +41,7 @@ After the location's second closure, the animatronics would possibly end up bein
 |January 2011
 |}
 
-##History##
+<h2>History</h2>
 Chico opened July 1982 as a Pizza Time Theatre, and making it out through PTT's bankruptcy. In 1993 the location would remodel, possibly for the first and only time, and would receive at least two different game packages throughout the years.  
 
 During the last few years of Chico operating under the Chuck E. Cheese's brand, the animatronics had little to no maintenance and only certain movements would operate correctly. A common rumor is that they had stopped using prizes from CEC corporate and instead replaced them with dollar store toys; It's also been said that they served frozen pizza they had gotten from a nearby vendor. 
@@ -53,7 +54,7 @@ During closure, the store sold everything from the store decor, arcade machines,
 
 
 After the franchisee left the location for good, the store became a seasonal Halloween store at some point before becoming vacant once again in 2015.<ref>https://youtu.be/JLdBhKEfmbI</ref> The location was finally demolished in 2016 and replaced with DaVita Dialysis center. In 2019, Fun Zone's generic mascot costumes would show up on Facebook market place and would be sold for an unknown amount.
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 *Dance Dance Revolution Extreme (Bootleg cabinet)
 *Jurassic Park (1994)
 * Daytona USA
@@ -77,7 +78,7 @@ After the franchisee left the location for good, the store became a seasonal Hal
 *Dunk N’ Alien 
 *Dinospin 
 *Goin’ Fishin’ / Fishin’ Fun
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -121,7 +122,7 @@ After the franchisee left the location for good, the store became a seasonal Hal
 |}
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -202,5 +203,5 @@ After the franchisee left the location for good, the store became a seasonal Hal
 |2011
 |Unknown
 |}
-##References##
+<h2>References</h2>
 <references />

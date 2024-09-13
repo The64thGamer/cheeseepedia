@@ -5,15 +5,16 @@ tags = ["Animatronic Repair & Preservation"]
 date = 2024-06-22T19:35:20Z
 
 [Article]
+pageThumbnailFile = "Road Stage Bit Chart.png|[[Cyberamics Road Stage]] Bit Chart"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-{{Generic|image=Road Stage Bit Chart.png|desc=[Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) Bit Chart}}
 
-A **_Bit Chart**_ refers to a physical or digital chart describing the names given to a list of numbers representing _animation bits_. 
 
-## Description ##
-Each bit represents a character movement, light, or special effect, which can either be in an on or off state. The numbers on the chart correlate with the same list used in the animatronic software, allowing store techs to identify, test, and troubleshoot the animatronic systems. These charts can sometimes be separated into two sections, usually referred to as the **_Top Drawer**_ and **_Bottom Drawer**_. 
+A <b><i>Bit Chart</b></i> refers to a physical or digital chart describing the names given to a list of numbers representing <i>animation bits</i>. 
+
+<h2> Description </h2>
+Each bit represents a character movement, light, or special effect, which can either be in an on or off state. The numbers on the chart correlate with the same list used in the animatronic software, allowing store techs to identify, test, and troubleshoot the animatronic systems. These charts can sometimes be separated into two sections, usually referred to as the <b><i>Top Drawer</b></i> and <b><i>Bottom Drawer</b></i>. 
 
 Bits are usually grouped by character, but otherwise are indeterminately placed in the chart. The [Cyberamic Control System]({{< ref "wiki/Cyberamic Control System.md" >}}) grouped bits by 'Character Cards', which were circuit boards controlling a single character or set of lights that could be swapped out. Charts don't always reveal all show control available however, such as in the Studio C control system, which is capable of controlling DMX lighting and other ancillary devices not listed on the standard bit chart.
 

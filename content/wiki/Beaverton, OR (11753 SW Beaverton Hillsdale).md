@@ -8,11 +8,11 @@ date = 2024-04-15T01:27:06Z
 contributors = ["CorrectorMan","McNugget","The 64th Gamer"]
 gallery = []
 +++
-**_11753 SW Beaverton Hillsdale**_ was a Chuck E. Cheese's Pizza Time Theatre that opened in October 1981 (day unknown) and closed in July 1985 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Basically no documentation exists, unlike the other Beaverton locations.
+<b><i>11753 SW Beaverton Hillsdale</b></i> was a Chuck E. Cheese's Pizza Time Theatre that opened in October 1981 (day unknown) and closed in July 1985 (day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Basically no documentation exists, unlike the other Beaverton locations.
 
 This location is not to be confused with the [4445 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4445 SW 110th Ave).md" >}}) or the [4145 SW 110th Ave]({{< ref "wiki/Beaverton, OR (4145 SW 110th Ave).md" >}}) locations, which operated from 1990-2003 and 2003-Today respectively.
 
-## Stage ##
+<h2> Stage </h2>
 Beaverton's only stage was the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). However, any further documentation is unknown.
 {| class='wikitable'
 |+
@@ -32,10 +32,10 @@ Beaverton's only stage was the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony 
 |Confirmed by photos taken between 1981 and 1983
 |}
 
-## History ##
+<h2> History </h2>
 This location opened in October 1981 (day unknown) as the first Chuck E. Cheese in Oregon. As most other PTTs at the time, they had the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). Unfortunately, basically no documentation exists on this location. The location closed permanently around July 1985 for unknown reasons, but likely due to it underperforming. As of July 2023, the location is now Trader Joe's. 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 TODO
 
 

@@ -8,12 +8,12 @@ date = 2023-09-25T19:45:33Z
 contributors = ["Nebbytales","The 64th Gamer","Documentor","Himitsu","Rileypaulson","RedaCEC","2A00:23C7:D7A1:7101:DF8:1917:863B:CE87"]
 gallery = []
 +++
-**This page is slowly being dismantled and its info spread into each individual showtape page. Do not add any more info to this page, instead keep it inside the trivia section of the showtape page. If you take something from this page, be sure to delete it from the table, that way this page can be deleted as soon as possible once its usefulness is done.**
+<b>This page is slowly being dismantled and its info spread into each individual showtape page. Do not add any more info to this page, instead keep it inside the trivia section of the showtape page. If you take something from this page, be sure to delete it from the table, that way this page can be deleted as soon as possible once its usefulness is done.</b>
 
 
 Throughout the years, a number of stock music has been used in showtapes as instrumentals for songs, and background music for intermissions.
 
-## Chuck E. Cheese's ##
+<h2> Chuck E. Cheese's </h2>
 (WIP)
 
 {| class='wikitable'
@@ -32,7 +32,7 @@ Throughout the years, a number of stock music has been used in showtapes as inst
 |Prime Cuts Volume One
 |Andy Quin
 |-
-|_Dance Up!_
+|<i>Dance Up!</i>
 |94 YMCA Countdown
 |Pop, Rock And Dance
 |Richard Myhill
@@ -403,32 +403,32 @@ Throughout the years, a number of stock music has been used in showtapes as inst
 |Warner Chappell PM
 |}
 
-## Rock-afire Explosion ##
+<h2> Rock-afire Explosion </h2>
 
-### Showbiz Era ###
+<h2>= Showbiz Era </h2>=
 The earliest documented is in the 1984 Senior Citizen Show, with the second earliest being the 1984 Santa Show - often called 'Uncle Santa'.
 
 
-During the Classical music skit in the 5th segment (Ballroom Dancing), Fatz plays a complex piano piece called _Ballade No. 4 in F Minor, Op. 52._ It has since been found to be a recording from _Bella Davidovich._ Interestingly, Fatz says 'Hey, this guy's good!', which breaks the fourth wall of him actually playing it.
+During the Classical music skit in the 5th segment (Ballroom Dancing), Fatz plays a complex piano piece called <i>Ballade No. 4 in F Minor, Op. 52.</i> It has since been found to be a recording from <i>Bella Davidovich.</i> Interestingly, Fatz says 'Hey, this guy's good!', which breaks the fourth wall of him actually playing it.
 
-Segment 4 of the same showtape (Startin' Something, Swingin' (Futuristic)) also utilises background audio while the Sun and Moon are joking about Lawrence Welk. The song playing in the background is called _[https://youtu.be/b6B0KNs7iSs?t=144 The Starlit Hour]_.
+Segment 4 of the same showtape (Startin' Something, Swingin' (Futuristic)) also utilises background audio while the Sun and Moon are joking about Lawrence Welk. The song playing in the background is called <i>[https://youtu.be/b6B0KNs7iSs?t=144 The Starlit Hour]</i>.
 
-The Uncle Santa showtape contained the song instrumentals of _Holly Jolly Christmas_ and _Jingle Jingle Jingle_. These were taken from the _Rudolph [https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(soundtrack) The Red Nosed Reindeer Soundtrack]_ album which was recorded by the _Decca Concert Orchestra_. The second Santa segment also used _Holly Jolly Christmas_ as the background music. The first segment also used an extract from John Klein's _Christmas Sound Spectacular Medley_ which contained the cover of _Santa Claus Is Coming To Town_.
+The Uncle Santa showtape contained the song instrumentals of <i>Holly Jolly Christmas</i> and <i>Jingle Jingle Jingle</i>. These were taken from the <i>Rudolph [https://en.wikipedia.org/wiki/Rudolph_the_Red-Nosed_Reindeer_(soundtrack) The Red Nosed Reindeer Soundtrack]</i> album which was recorded by the <i>Decca Concert Orchestra</i>. The second Santa segment also used <i>Holly Jolly Christmas</i> as the background music. The first segment also used an extract from John Klein's <i>Christmas Sound Spectacular Medley</i> which contained the cover of <i>Santa Claus Is Coming To Town</i>.
 
-In Segment 1 of the 1987 _Homely For Christmas_ showtape, a selection of songs from Act 1 of the _Nutcracker Ballet by Sir Charles Mackerras & London Symphony Orchestra_ was used, that being _Act 1 Scene 2 (March)_ and _Act 1 Scene 5 (Scene and Grandfather's Dance)_.
+In Segment 1 of the 1987 <i>Homely For Christmas</i> showtape, a selection of songs from Act 1 of the <i>Nutcracker Ballet by Sir Charles Mackerras & London Symphony Orchestra</i> was used, that being <i>Act 1 Scene 2 (March)</i> and <i>Act 1 Scene 5 (Scene and Grandfather's Dance)</i>.
 
 
-In the song 'Venus' in the _Tune Machine 2_ showtape, a sample from [https://en.wikipedia.org/wiki/Living_in_America_(James_Brown_song) James Brown's _Living In America_] was used, of which the moon is programmed to say.
+In the song 'Venus' in the <i>Tune Machine 2</i> showtape, a sample from [https://en.wikipedia.org/wiki/Living_in_America_(James_Brown_song) James Brown's <i>Living In America</i>] was used, of which the moon is programmed to say.
 
-### 90's Era ###
-In the 1990's CEI used karaoke tracks made by _Midifine Systems_, _BFM Hits_, and other unknown sources for their shows. These were especially used for their karaoke stages, in which a participant could sing along to the lyrics displayed on a video screen.
+<h2>= 90's Era </h2>=
+In the 1990's CEI used karaoke tracks made by <i>Midifine Systems</i>, <i>BFM Hits</i>, and other unknown sources for their shows. These were especially used for their karaoke stages, in which a participant could sing along to the lyrics displayed on a video screen.
 
 Some companies shared tracks for certain songs, meaning some artists stated may be inaccurate.
 {| class='wikitable'
 !Song Title
 !Studio
 |-
-|_ABC_
+|<i>ABC</i>
 |DKKaraoke
 |-
 |Ace In The Hole
@@ -642,33 +642,33 @@ Some companies shared tracks for certain songs, meaning some artists stated may 
 |Mirosław Czyżykiewicz / Hadrian Filip Tabęcki / Jacek Bończyk
 |}
 
-### Hannah Banana ###
+<h2>= Hannah Banana </h2>=
 While producing the Hannah Banana Showtapes, CEI also used pre-made instrumentals to use as background music along with versions of RAE Showtapes without the vocals as removed in the multitracks:
 {| class='wikitable'
 !Song Title
 !Studio
 |-
-|_...Baby One More Time_
+|<i>...Baby One More Time</i>
 |
 |-
-|_I Will Survive (Karaoke Version)_
-|_Studio Sound Group_
+|<i>I Will Survive (Karaoke Version)</i>
+|<i>Studio Sound Group</i>
 |-
-|_If I Fall You're Going Down with Me (Karaoke Version)_
-|_Musical Creations Studio Musicians (Karaoke)/SBI Audio Karaoke_
+|<i>If I Fall You're Going Down with Me (Karaoke Version)</i>
+|<i>Musical Creations Studio Musicians (Karaoke)/SBI Audio Karaoke</i>
 |-
-|_If You Can Do Anything Else (Instrumental)_
-|_The Hit Crew_
+|<i>If You Can Do Anything Else (Instrumental)</i>
+|<i>The Hit Crew</i>
 |-
-|_Like The Way I Do (As Made Famous By Melissa Etheridge)_
-|_Super Diva All-stars_
+|<i>Like The Way I Do (As Made Famous By Melissa Etheridge)</i>
+|<i>Super Diva All-stars</i>
 |-
-|_Walkin' After Midnight (Originally Performed by Patsy Cline) [Karaoke Version]_ 
-|_BFM Hits_
+|<i>Walkin' After Midnight (Originally Performed by Patsy Cline) [Karaoke Version]</i> 
+|<i>BFM Hits</i>
 |}
 
-### YouTube Era ###
-Instrumentals continued to be used in showtapes produced for the _[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]/_
+<h2>= YouTube Era </h2>=
+Instrumentals continued to be used in showtapes produced for the <i>[https://www.youtube.com/channel/UCjhqAaWA7JZtxm3Mof3KJcA Creative Engineering YouTube channel]/</i>
 {| class='wikitable'
 !Song Title
 !Studio
@@ -682,20 +682,20 @@ Instrumentals continued to be used in showtapes produced for the _[https://www.y
 |Electric Guitar 1
 |Michael Bacich
 |-
-|_Eve Of Destruction_
-|_DKKaraoke_
+|<i>Eve Of Destruction</i>
+|<i>DKKaraoke</i>
 |-
-|_Firework_
-|_The Hit Crew_
+|<i>Firework</i>
+|<i>The Hit Crew</i>
 |-
-|_Greatest Love of All (Karaoke Version)_
-|_Ameritz Music Ltd_
+|<i>Greatest Love of All (Karaoke Version)</i>
+|<i>Ameritz Music Ltd</i>
 |-
-|_Hips Don't Lie_
-|_Karaoke Version, Originally Performed by Shakira - Latin Band_
+|<i>Hips Don't Lie</i>
+|<i>Karaoke Version, Originally Performed by Shakira - Latin Band</i>
 |-
-|_I Gotta Feeling (In the Style of Black Eyed Peas) [Karaoke Version]_
-|_Karaoke - Ameritz_
+|<i>I Gotta Feeling (In the Style of Black Eyed Peas) [Karaoke Version]</i>
+|<i>Karaoke - Ameritz</i>
 |-
 |Lucky Day
 |Michael Bacich
@@ -712,11 +712,11 @@ Instrumentals continued to be used in showtapes produced for the _[https://www.y
 |Splat
 |[http://www.sound-effects-library.com/ www.sound-effects-library.com]
 |-
-|_당근쏭_ 
-|_Various Artists - 최신 TV 인기 유아동요 베스트 80_
+|<i>당근쏭</i> 
+|<i>Various Artists - 최신 TV 인기 유아동요 베스트 80</i>
 |-
-|_우유송 Instrumental_
-|_a-jang.com_
+|<i>우유송 Instrumental</i>
+|<i>a-jang.com</i>
 |}
 *
 

@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-07-11T23:10:52Z
 
 [Article]
+pageThumbnailFile = "FargoND2.0Exterior.png|A photo of the exterior after the 2.0 remodel (PC: Chuck E. Cheese)"
 contributors = ["RedaCEC","ChuckECool","Rexburg090","2605:AD80:31:11FD:CCCF:AFE5:7BDD:2B22","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","2600:387:B:3:0:0:0:2B","Bombocec","The 64th Gamer","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","CEC Tinley","CoolerDude","ThatBoiCydalan","AnthonyRWikis7283","Cheeseclassic","PachCEC","Tux Chuck","UltimatelyFun"]
 gallery = []
 +++
-{{NoSources}}{{Generic|image=FargoND2.0Exterior.png|desc=A photo of the exterior after the 2.0 remodel (PC: Chuck E. Cheese)}}
 
-**_1202 Nodak Dr, Store #2068/209**_ was a _Chuck E. Cheese’s_ that opened on February 8, 1984, as a franchised _ShowBiz Pizza Place_ with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on March 18, 2024<ref> https://www.valleynewslive.com/2024/03/18/chuck-e-cheese-fargo-permanently-closes-with-little-no-warning/?outputType=amp</ref>
-##History##
+
+<b><i>1202 Nodak Dr, Store #2068/209</b></i> was a <i>Chuck E. Cheese’s</i> that opened on February 8, 1984, as a franchised <i>ShowBiz Pizza Place</i> with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed on March 18, 2024<ref> https://www.valleynewslive.com/2024/03/18/chuck-e-cheese-fargo-permanently-closes-with-little-no-warning/?outputType=amp</ref>
+<h2>History</h2>
 1202 Nodak Dr Fargo ND, was a Chuck E. Cheese franchise store, owned by Great Plains Associates along with its sister store, [Billings MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) before it was bought out by Chuck E. Cheese Corporate in late 2022. Opening as a Showbiz Pizza Place on February 8th, 1984. Fargo was one of 7 stores planned by Great Plains Associates. With other locations planned to be in, Bismarck, ND. Grand Forks, ND, Duluth, MN, Winnipeg, MB, and Saint Paul, MN. Due to the cost of opening stores, only Fargo and Billings were opened. While they kept the licensing to build in the other areas, they never had any plans to build. Just to keep “competition” away from the area.
 
 The location participated in [The Amazing Uncle Klunk Traveling Show]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}) and an unknown Santa event- though likely the [Santa On Stage Show 1983]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}) event.<ref>Testimony from Fargo's General Manager, whom was around to witness the events.</ref>
@@ -26,7 +27,7 @@ In 2022 Fargo's franchise owners sold out to corporate after years of stubbornne
 
 On the night of December 5th, 2022, Fargo's stage would be ripped out and destroyed in exchange for the 2021 Model Dance Floor and Video Wall. The store art wasn't taken out leaving the Phase 4 walls, posters, and the Phase 2 Confetti posters near the bathrooms. The store celebrated their grand reopening on December 28th, 2022<ref>https://www.inforum.com/business/chuck-e-cheese-to-reopen-soon-in-south-fargo</ref>. This location kept the 'Chuck E Cheese's' sign from Phase 4 until the location closed. The location would permanently close abruptly on March 18th, 2024, leaving many without a job. The nearest store is St. Cloud, MN.
 
-##Stages ##
+<h2>Stages </h2>
 Fargo opened with the Rock afire Explosion in 1984. Unfortunately, there are hardly any photos or videos to exist of Fargo with the Rock afire, or as a ShowBiz in general. But there is a photo of its original exterior. 
 
 In October 1991, Fargo received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into Munch’s Make-Believe Band.
@@ -56,7 +57,7 @@ On March 18th, 2024, the store would permanently close.
 |Received 2.0 shortly after being bought out by Corporate. 2021 Model.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -115,7 +116,7 @@ On March 18th, 2024, the store would permanently close.
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -130,10 +131,10 @@ On March 18th, 2024, the store would permanently close.
 |March 19, 2024
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
-* Before Corporate renumbered Franchised locations to four-digit store numbers in 2010, Fargo's current store number (**_209**_) was used for the [Fayetteville, NC (511 North McPherson Church Rd)]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}}) location; In 2010, it was renumbered to **_Store #3212**_ which they still have to this day. It's unknown if Fargo had a three-digit store number before 2010.
+* Before Corporate renumbered Franchised locations to four-digit store numbers in 2010, Fargo's current store number (<b><i>209</b></i>) was used for the [Fayetteville, NC (511 North McPherson Church Rd)]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}}) location; In 2010, it was renumbered to <b><i>Store #3212</b></i> which they still have to this day. It's unknown if Fargo had a three-digit store number before 2010.
 * In the 80's Fargo and Billings did a franchise remodel, replacing carpet and painting over the iconic orange ShowBiz wall stripes with a blue palette. 
 
-##References##
+<h2>References</h2>
 <references />

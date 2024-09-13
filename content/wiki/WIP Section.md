@@ -8,7 +8,7 @@ date = 2023-06-20T12:33:09Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Systems ##
+<h2> Systems </h2>
 Audio Animatronic Tape System
 
 Audio Animatronic Camshaft System

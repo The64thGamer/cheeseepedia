@@ -5,29 +5,30 @@ tags = ["Store List"]
 date = 2024-06-04T19:35:10Z
 
 [Article]
+pageThumbnailFile = "Wacocec.png|Waco, TX Chuck E. Cheese's in 2014"
 contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","130.45.91.68"]
 gallery = []
 +++
-{{Generic|image=Wacocec.png|desc=Waco, TX Chuck E. Cheese's in 2014}}
 
-**_5106 West Waco Dr, Store #856**_ was a _Chuck E. Cheese_ that opened in 2002 with a Small-town Studio C Prototype.
+
+<b><i>5106 West Waco Dr, Store #856</b></i> was a <i>Chuck E. Cheese</i> that opened in 2002 with a Small-town Studio C Prototype.
 
 This location also was coincidentally located within the same shopping center as the former Showbiz Pizza Place that closed 10 years prior. <ref>https://goo.gl/maps/diVBVVrPQg6HGPoPA</ref>
-##Stages##
+<h2>Stages</h2>
 Waco's Studio C would debut without an animatronic or blue screen, the show room would rather have a make-shift light show that would play video features on the three monitors over a CEC marquee. 
 
 In 2003 the setup received Chuck E.'s stage and later would be relocated further back into the restaurant, as a remodel expanded the area.
 
 During October 2022 the Studio C would be destroyed during Waco's 2.0 remodel. 
-##History##
+<h2>History</h2>
 This location opened on June 24, 2002 as Chuck E. Cheese's Buffet, a prototype 6,100 SF buffet that rids the animatronics and play areas.<ref>https://www.whitehutchinson.com/news/lenews/2002/09/article103.shtml</ref> The concept eventually was phased out during its first remodel, when an expanded arcade area and purple walls were added. The locations size would nearly double as they've received both the skills area and kiddie area.
 
 In October 2022, the Waco location would undergo its 2017 2.0 Remodel Program (2.0 remodel).
 
-### 'Local Chuck E. Cheese Mascot'###
+<h2>= 'Local Chuck E. Cheese Mascot'</h2>=
 During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood outside of the establishment looking through the windows, upset about not being able to work. This would be the second time of having local news' attention--as on September 6, 2019 Kade received a tattoo of a vintage Chuck E. Cheese's logo on his right shoulder as a birthday present.<ref>https://www.kwtx.com/content/news/Local-Chuck-E-Cheese-mascot-lets-Chuck-E-get-under-his-skin-559610631.html</ref>
 
-##Videos ##
+<h2>Videos </h2>
 {| class='wikitable'
 ! Link
 !Description
@@ -57,7 +58,7 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 |'Chuck E.'s Easy Dance'
 |July 31, 2019
 |-
-|[https://youtu.be/PQlvmW1QQ5k lhttps://youtu.be/PQlvmW1QQ5k]
+|[https:<i>youtu.be/PQlvmW1QQ5k lhttps:</i>youtu.be/PQlvmW1QQ5k]
 | Store Tour
 |October 9, 2021
 |}
@@ -65,7 +66,7 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 
 
 
-##Animatronic##
+<h2>Animatronic</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -77,5 +78,5 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 |Unknown
 |}
 
-## References##
+<h2> References</h2>
 <references />

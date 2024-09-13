@@ -8,6 +8,6 @@ date = 2023-01-04T21:06:26Z
 contributors = ["Jonn"]
 gallery = ["CHUCK E. OLYMPIC.png|thumb|Chuck E. Cheese Olympic Glass *front*"]
 +++
-**Chuck E. Cheese Olympics Glass** was a product sold at Pizza Time Theatre's during the **Summer Olympics of 1980.**
+<b>Chuck E. Cheese Olympics Glass</b> was a product sold at Pizza Time Theatre's during the <b>Summer Olympics of 1980.</b>
 
 This glass shows Chuck E. doing sports. He has a yellow shirt saying 'PTT'. Behind Chuck E. is the the Pizza Time Theatre logo. Next to Chuck E.'s legs there is text saying 'Chuck E. Cheese'

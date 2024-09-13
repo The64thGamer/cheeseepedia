@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-09-13T01:41:39Z
 
 [Article]
+pageThumbnailFile = "Wilmington’s Exterior.jpg|thumb"
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","47.17.236.200","CorrectorMan","Cheeseclassic","Caydenpedia"]
 gallery = []
 +++
-{{Generic|image=Wilmington’s Exterior.jpg|thumb|desc=Wilmington’s Exterior (PC: Patch)}}
-**_3601 Silverside Rd**_ was a _ShowBiz Pizza Place_ that opened on March 3, 1983, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a _Chuck E. Cheese's_ on October 12, 2020.
 
-This location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in the early 1990's and replaced the 3-Stage with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) from [San Antonio, TX (6874 Ingram Rd)]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}}) in 2017. This location reopened as a _Chuck E. Cheese_ on October 2, 2022, with a Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}), which is still open to this day.
+<b><i>3601 Silverside Rd</b></i> was a <i>ShowBiz Pizza Place</i> that opened on March 3, 1983, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed as a <i>Chuck E. Cheese's</i> on October 12, 2020.
 
-## History ##
+This location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in the early 1990's and replaced the 3-Stage with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) from [San Antonio, TX (6874 Ingram Rd)]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}}) in 2017. This location reopened as a <i>Chuck E. Cheese</i> on October 2, 2022, with a Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}), which is still open to this day.
+
+<h2> History </h2>
 TODO: History
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In the early 1990's, the store would undergo Concept Unification, turning the RAE into Munch's Make-Believe Band. On September 16th, 1996, the store was bought out by Corporate. They would have the 3-Stage until September 2017, when they would receive the Circles of Light stage from San Antonio, TX (6874 Ingram Dr) because of a faulty sprinkler system; damaging the 3-Stage and causing its removal. They would have the COL stage until October 12, 2020, when they would close because of the COVID-19 pandemic. On October 2nd, 2022, they reopened the store as a 2.0 with a Dance Floor.
 {| class='wikitable'
 !Stage
@@ -45,7 +46,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |2021 Model. First 2.0 in Delaware.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Code
@@ -103,7 +104,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 TODO: Gallery
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -115,6 +116,6 @@ TODO: Gallery
 |January 6, 1996
 |July 2, 2020
 |}
-## Trivia ##
+<h2> Trivia </h2>
 
 * This was the only Showbiz Pizza Place location to ever open in the state of Delaware.

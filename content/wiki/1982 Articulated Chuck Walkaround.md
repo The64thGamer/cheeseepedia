@@ -11,11 +11,11 @@ gallery = ["Shafton Chuck E..png|thumb|The Shafton Inc. Articulated Chuck E. Che
 
 The 1982 Advertisement Campaign for Pizza Time Theatre introduced the first articulated head for Chuck E. Cheese onto televisions throughout the nation from 1982 to 1991. The remote-controlled head has been a concept that has predated that of technology Disney would develop throughout the 80's up to today for their costumes.
 
-## Design ##
+<h2> Design </h2>
 The walkaround originally wore a checkered vest with the rat tail pinned to it and a derby without the Pizza Time Theatre name. And is also one of the only Pizza Time Theatre walkarounds to also have paws.
 
 
-The head (along with Mr. Munch, Jasper, and Pasqually articulated heads created for Pizza Time Theatre commercials at the time) was manufactured by now-defunct Shafton Inc. of North Hollywood, CA.<ref>http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf</ref> The company has been known for other costumes and special effects for its lifetime, notably for Dreamworks, Universal, Warner Bros, and Sesame Workshop.<ref>http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html</ref>
+The head (along with Mr. Munch, Jasper, and Pasqually articulated heads created for Pizza Time Theatre commercials at the time) was manufactured by now-defunct Shafton Inc. of North Hollywood, CA.<ref>http:<i>showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf</ref> The company has been known for other costumes and special effects for its lifetime, notably for Dreamworks, Universal, Warner Bros, and Sesame Workshop.<ref>http:</i>www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html</ref>
 
 
 In 1984, the costume was updated to have a new derby and vest to reflect on slight updates to Chuck E's general design. In 1986, the costume would make yet another appearance but with white gloves substituting for his regular paws. This would mark the final appearance of the costume in this form before being placed in temporary retirement for about 5 years.
@@ -45,5 +45,5 @@ Known commercials featured in:
 *Wanna Be Me (Commercial)
 *Alien Family (Commercial)
 
-## References ##
+<h2> References </h2>
 <references />

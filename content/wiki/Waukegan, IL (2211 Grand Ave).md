@@ -8,9 +8,9 @@ date = 2023-05-27T01:14:15Z
 contributors = ["ShowbizMidwest","2600:1004:B18F:1005:A935:501B:2CAD:B83C","Rexburg090","CEC Tinley"]
 gallery = []
 +++
-**_2211 Grand Ave**_ was a _Pizza Time Theatre_ that opened in Early 1983 with a Balcony Stage and closed as a Chuck E. Cheese’s Pizza in January 1997 with a 2-Stage.
+<b><i>2211 Grand Ave</b></i> was a <i>Pizza Time Theatre</i> that opened in Early 1983 with a Balcony Stage and closed as a Chuck E. Cheese’s Pizza in January 1997 with a 2-Stage.
 
-##Stages##
+<h2>Stages</h2>
 Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 1994, Waukegan would receive a 2-Stage, this being their final stage.
 {| class='wikitable'
 !Stage
@@ -33,14 +33,14 @@ Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 
 |January 1997
 |One of five 2-Stages installed in Illinois. Show sent to Fairview Heights to be converted into a 1-Stage.
 |}
-##History##
+<h2>History</h2>
 Not much is known about Waukegan other than the facts previously stated. It can be assumed that their lounge act was The King, like most new PTTs at the time. Waukegan closed in January 1997, followed by an auction on January 25th. Their show was sent to Fairview Heights, Illinois, where it was installed and used up until Fairview Heights got 2.0 in 2019.
 
 
 
 It is unknown if there are photos of the location.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 After Waukegan closed in January 1997, their show was excluded from the auction. This was because it was sent to Fairview Heights, Illinois to replace their 3-Stage in 1997-2005.
 {| class='wikitable'
 |+
@@ -97,4 +97,4 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 |Unknown.
 |}
 
-##References##
+<h2>References</h2>

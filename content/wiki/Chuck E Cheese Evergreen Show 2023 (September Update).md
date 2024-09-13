@@ -13,45 +13,45 @@ gallery = []
 |image=Evergreen2023.jpg
 |date=September 5, 2023
 |studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Chuck E. Cheese Evergreen 2023**_ is the generic show released on September 5, 2023 - October 1, 202. featuring a variety of songs released from 2017-2022.
+<b><i>Chuck E. Cheese Evergreen 2023</b></i> is the generic show released on September 5, 2023 - October 1, 202. featuring a variety of songs released from 2017-2022.
 
 This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP - 'Made You Look' 
 ## KIDZ BOP - 'Flowers'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'Most Perfect Day'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. & Bella - 'Bella's Garden'
 ## KIDZ BOP - 'CUFF IT'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'I Love Sparkles!'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Chuck E. & Friends - 'Water Buffalo'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Ves Al Ratoncito'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Chuck E. Cheese - 'Banana Dog'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Do Re Mi'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## KIDZ BOP - 'Sunroof' 
 ## Silly Song - 'Little Bitty Kitty Cat'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Helen Henny - 'Game On!'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## KIDZ BOP - 'golden hour' 
-# **Skit 6**
+# <b>Skit 6</b>
 ## Bella B. & Mike Wolf - 'El Rey Guitarrista'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Silly Song - 'Unicorn, Unicorn' 
 ## KIDZ BOP - 'Space Man'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show 2018 (Navori)
 * Birthday Show 2018 (Spanish) (Navori)

@@ -8,30 +8,30 @@ date = 2022-09-24T00:17:09Z
 contributors = ["The 64th Gamer","DerekCat","2600:4040:59FF:B100:1784:1CE9:BC49:B682"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-{{Showtape|date=September 1994|cusvhs93=y|c&r93=y|r1293=y|image=September 1994 Show.png}}
+
 
 The September 1994 Show is a showtape that played during the autumn season at Chuck E. Cheese's.
 
-## Show List ##
-#**** **Intermission 1 - Outdoors**
+<h2> Show List </h2>
+#<b></b> <b>Intermission 1 - Outdoors</b>
 ##Charlie Rockit
 ##Joke Pizza
 ##A Game of Horseshoes
 ##Did You Know?
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##Party Place
 ##Surfing USA
-#**** **Intermission 2 - Sports**
+#<b></b> <b>Intermission 2 - Sports</b>
 ##CEC TV '94 ID
 ##Battle At Durango
 ##Charlie Rockit
 ##Comedy Club
 ##Laugh Tracks
 ##Did You Know?
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##Ol' Time Rock-N-Roll
 ##Hound Dog
-#**** **Intermission 3 - Music**
+#<b></b> <b>Intermission 3 - Music</b>
 ##CEC TV '94 ID
 ##[https://en.wikipedia.org/wiki/Odyssey_Productions State-Of-The-Art Computer Animation]
 ##Charlie Rockit
@@ -39,19 +39,19 @@ The September 1994 Show is a showtape that played during the autumn season at Ch
 ##The Virtuoso
 ##Joke Pizza
 ##Did You Know?
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##It Takes Two
 ##Silvery Moon
-#**** **Intermission 4 - Friends**
+#<b></b> <b>Intermission 4 - Friends</b>
 ##CEC TV '94 ID
 ##Cubs Kittens & Other Wild Babies
 ##Charlie Rockit
 ##Chuck E's Big Bowling Date
 ##Joke Pizza 
 ##Did You Know?
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##Party Place Encore
-#**** **Intermission 5 - Outdoors**
+#<b></b> <b>Intermission 5 - Outdoors</b>
 ##CEC TV '94 ID
 ##Natural States
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

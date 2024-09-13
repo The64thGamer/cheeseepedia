@@ -9,16 +9,16 @@ contributors = ["The 64th Gamer","CECBowlingGreen"]
 gallery = ["Cecspotify.png|thumb|319x319px|Chuck E. Cheese's Verified Spotify Page, 2022."]
 +++
 
-The **_Chuck E. Cheese Spotify**_ is the account hosted on the _Spotify_ music streaming platform, under just _[https://open.spotify.com/artist/3wCpqOuRzCsyXmAwCCzqxB Chuck E. Cheese]._
+The <b><i>Chuck E. Cheese Spotify</b></i> is the account hosted on the <i>Spotify</i> music streaming platform, under just <i>[https://open.spotify.com/artist/3wCpqOuRzCsyXmAwCCzqxB Chuck E. Cheese].</i>
 
 It was launched around late 2019, and the first release of music on the account was a Christmas album titled 'Happ-E. Holidays'. They have released several more albums and EPs (EPs are like albums, but are shorter than normal albums), the most recent being 'If Everyday Was Halloween' in October 2022.
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Discography ##
+<h2> Discography </h2>
 
-### Albums ###
+<h2>= Albums </h2>=
 
 * Happ-E. Holidays (2019)
 * Songs in the Key of E. (2020)
@@ -28,13 +28,13 @@ TODO
 * Music, Friends, & Fun for All! (2022)
 * Summer of Fun Concert Tour (Live!) (2022)
 
-### Singles & EPs ###
+<h2>= Singles & EPs </h2>=
 
 * Halloween Boo-Tacular Party! (2021)
 * Chuck E.'s Holiday Party (2021)
 * If Every Day Was Halloween (2022)
 
-## Account Statistics ##
+<h2> Account Statistics </h2>
 
 * 12,214 Monthly Listeners as of October 19, 2022.
 * With 147,505 streams, the most streamed song on the CEC Spotify is currently 'Me & My Friends', which was a Live Show originally released in 2017, and released to the Spotify account in 2020, on the album 'Songs in the Key of E.'.

@@ -18,37 +18,37 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Holiday 2014**_ is the Holiday show released November 17th 2014 featuring six songs
+<b><i>Holiday 2014</b></i> is the Holiday show released November 17th 2014 featuring six songs
 
 This was created to play from November 17th 2014 - December 28th 2014. This show features Six songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Music Video 1 - 'Let's Play Some Games' (Chuck E.)
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Act 1
-# **Skit 2**
+# <b>Skit 2</b>
 ## Music Video 2 - 'What Do You Get a Sasquatch for Christmas?' (Pasqually)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Social Media Promo
 ## Show Break 1 - 'Deck the Halls'
 ## Act 2 
-# **Skit 3**
+# <b>Skit 3</b>
 ## Music Video 3 - 'Snowman' (Jasper)
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Show Break 2 - 'Rudolph'
 ## Act 3 
-# **Skit 4**
+# <b>Skit 4</b>
 ## Music Video - 'Very Merry Christmas' (Chuck E. & Helen)
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Paddington Bear Trailer
 ## Show Break 3 - 'Jolly Old Saint Nicholas'
 ## Act 4
 ## Social Media Promo
 ## Show Break 4 - 'Oh Christmas Tree'
 ## Act 5 
-# **Skit 5**
+# <b>Skit 5</b>
 ## Music Video 5 - 'Holiday Medley' (All Characters)
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -57,15 +57,15 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 ### Deck the Halls
 ### We Wish You a Merry Christmas
 
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Hard Hat Hank - 'Holiday Special'
 ## Show Break 5 - 'Toyland'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Music Video 6 - 'Share the Joy' (All Characters)
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Show Break 6 - 'Classic Christmas'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 * Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
@@ -76,10 +76,10 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 * Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
 * Them Bones (Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 *[https://www.youtube.com/watch?v=n993FiRBloE 'Let's Play Some Games' on YouTube]
 *[https://www.youtube.com/watch?v=lkj4R2qqkEU 'What Do You Get a Sasquatch for Christmas?' on YouTube]
@@ -93,7 +93,7 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 *[https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Holidays+%E2%80%93+Part+4+++Chuck+E.+Cheese%E2%80%99s.mp4 'Act 4' on Archive.org]
 *[https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Holidays+%E2%80%93+Part+5+++Chuck+E.+Cheese%E2%80%99s.mp4 'Act 5' on Archive.org]
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The Show Break Audio for 'Deck the Halls', 'Jolly Old Saint Nichols's', 'Oh Christmas Tree' and 'Toyland' all use the instrumentals in full from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}). 
 * The Social Media Promos use instrumentals from Holiday Party 99' Social Media Promo 1 uses 'Big Band Santa' and Social Media Promo 2 uses 'Jingle Bells'

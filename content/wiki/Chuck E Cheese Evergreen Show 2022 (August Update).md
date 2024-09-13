@@ -18,63 +18,63 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Evergreen Show 2022 August Update**_ is the generic show released on August 29, 2022 featuring a variety of songs released from 2016-2021
+<b><i>Evergreen Show 2022 August Update</b></i> is the generic show released on August 29, 2022 featuring a variety of songs released from 2016-2021
 
 This was created with the idea to play between promotional events. Runs from August 29, 2022 to September 18, 2022 & November 1, 2022 to November 20, 2022. This song features 8 Songs with the automatic live being Me & My Friends.
 
-## Show List ##
+<h2> Show List </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
 ## Food & Drink Combos
 ## CEC YouTube & Music Streaming
 ## “It’s Chuck E!”
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'Chuck E.'s Middle Name'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Katy Perry - “Electric”
 ## KIDZ BOP Kids - “Telepatía”
 ## Kid Cudi - “Stars In The Sky”
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - “Crochet All Day”
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Dippin’ Dots
 ## Food & Drink Combos
 ## CEC YouTube & Music Streaming
 ## “Oh Helen Henny!”
-# **Skit 3**
+# <b>Skit 3</b>
 ## Helen Henny - “Dream Big”
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Danny Weinkauf - “Tricycle”
 ## KIDZ BOP Kids - “Levitating”
 ## “He’s Mr. Munch”
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E., Munch & Bella - “Play All You Can Play”
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Safety Message
 ## Food & Drink Combos
 ## Dippin’ Dots
 ## “Jasper T. Jowls”
-# **Skit 5**
+# <b>Skit 5</b>
 ## Jasper & Chuck E. - “Jasper’s Country Classic”
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## No School Today - “Marsupial'
 ## Koo Koo Kanga Roo - “You Are the Best”
 ## “Pasqually”
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Pasqually - “Keep Drummin”
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## KIDZ BOP Kids - “Uptown Funk”
 ## Andy Grammer - “Lease on Life”
-# **Skit 7**
+# <b>Skit 7</b>
 ## Chuck E. Cheese - “Barbara the Barnyard Barber”
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## Ants, Ants, Ants - “Pinwheel”
 ## KIDZ BOP Kids - “Goosebumps'
-# **Skit 8**
+# <b>Skit 8</b>
 ## Chuck E. & Mike Wolf - “El Rey Guitarrista”
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -88,6 +88,6 @@ This was created with the idea to play between promotional events. Runs from Aug
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * This is the last Evergreen show to include programming signals for Studio C-based systems. Starting with Chuck E. Cheese Evergreen Show 2023 (Evergreen 2023), all programming signals for these systems would be stripped and would only include curtain open/close signals and random movements.

@@ -8,18 +8,18 @@ date = 2023-07-19T10:49:34Z
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++
-{{MerchItem|image=Bbpvc1.png|releasedate=1987|dimensions=3.2in|label1=BILLY BOB|removedate=1991/1992*}}
 
-The 1987 **_Billy Bob PVC Figurine**_ was a an redemption item produced for prize counters in _1987._
 
-##Production##
+The 1987 <b><i>Billy Bob PVC Figurine</b></i> was a an redemption item produced for prize counters in <i>1987.</i>
+
+<h2>Production</h2>
 This PVC figurine of Billy Bob would be one of the last new pieces produced of the character while being under Showbiz Pizza Time.
 
-###Set###
+<h2>=Set</h2>=
 
 * Fatz PVC Figurine (1987)
 
-##Design##
+<h2>Design</h2>
 Specific to this figure, Billy Bob would have eyelashes, no claws on his hands, miss-colored paws, and white claws on his feet.
 
 Billy Bob is also seen supported by his guitar standing on a white base with his name written in red at the front of it.

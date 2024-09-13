@@ -17,36 +17,36 @@ SKIT-DOLLI II CAB #2
 WO# 1201922100 WO QTY 169
 BUILT BY: AH DATE 2-18-1983}}
 
-**_Dolli Dimples II**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Dolli Dimples.
+<b><i>Dolli Dimples II</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Dolli Dimples.
 
 This showtape would be the second of two Dolli Dimples showtapes. Released in November 1982, this showtape starred Lady Bianca as the voice actor. Lady Bianca had voiced Sally Sashay in the past at Pizza Time Theatre.  
 
-##Segments:##
-* **Segment 1**
+<h2>Segments:</h2>
+* <b>Segment 1</b>
 *#Fever
-* **Segment 2**
+* <b>Segment 2</b>
 *#Rock-A-Bye Pasqually
-* **Segment 3**
+* <b>Segment 3</b>
 *#Come On Get Happy
-* **Segment 4**
+* <b>Segment 4</b>
 *#Take Me Out to the Ballgame
-* **Segment 5**
+* <b>Segment 5</b>
 *#Tea For Two
-* **Segment 6**
+* <b>Segment 6</b>
 *#Beautiful Baby
-* **Segment 7**
+* <b>Segment 7</b>
 *#Heart Belongs to Daddy
-* **Segment 8**
+* <b>Segment 8</b>
 *#I've Got Rhythm
-* **Segment 9**
+* <b>Segment 9</b>
 *#Mr. Sandman
-* **Segment 10**
+* <b>Segment 10</b>
 *#You do Something to Me
-* **Segment 11**
+* <b>Segment 11</b>
 *#Ain't Nobody's Business
-* **Segment 12**
+* <b>Segment 12</b>
 *#Jeepers Creepers
-* **Segment 13**
+* <b>Segment 13</b>
 *#Don't Fence Me In
 
 

@@ -15,86 +15,86 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |studioc=y
 |dvdcu=y
 |dvdcyber=y
-}}**April 2009 Show** was a show released in April of 2009 and featured eight songs.
+}}<b>April 2009 Show</b> was a show released in April of 2009 and featured eight songs.
 
 This was created to play during April, May and June of 2009.
 
-## Production ##
-The _Pizza Parachute_ and _Jawbreaker_ CEC TV ID's were created by Joel Apel.<ref>https://vimeo.com/50793292</ref>
+<h2> Production </h2>
+The <i>Pizza Parachute</i> and <i>Jawbreaker</i> CEC TV ID's were created by Joel Apel.<ref>https://vimeo.com/50793292</ref>
 
-## Studio C Show List: ##
-# **Segment 1** 
+<h2> Studio C Show List: </h2>
+# <b>Segment 1</b> 
 ## 'On Top of The World'
 ## 'Where Did Your Heart Go Missing?'
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Sports'
 ## Coke Spot
 ## CEC News - 'The Tater'
 ## CEC TV ID - Color The Numbers
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'Super Chuck E.'
 ## 'Pocket Full of Sunshine'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ## CEC TV ID - Pizza Parachute
 ##  VeggieTales - 'Sneeze If You Need To'
 ## Chillout 1 - 'Eight Days A Week' Footage
 ##PBS Spot
 ##CEC TV ID - 'Movie Refreshments'
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Year 3000'
 ## 'I Need A Holiday'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  CEC TV ID - Skeeball
 ## Alvin & The Chipmunks
 ##Storytime With Chuck E.
 ##CEC TV ID - Cell Tower
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'You Are My Friend'
-## 'I'm Shakin_
-# **Intermission 4** 
+## 'I'm Shakin''
+# <b>Intermission 4</b> 
 ## CEC TV ID - Jawbreaker
 ## Coke Spot
 ##Bluescreen Time
 ## Chillout 2 - Landscapes
 ##CEC TV ID - 'Light-Up Marquee'
 
-## Existing Show List: ##
-# **Segment 1** 
+<h2> Existing Show List: </h2>
+# <b>Segment 1</b> 
 ## 'On Top of The World'
 ## 'Where Did Your Heart Go Missing?'
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Sports'
 ## Coke Spot
 ## CEC News - 'The Tater'
 ## CEC TV ID - Color The Numbers
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'Super Chuck E.'
 ## 'Pocket Full of Sunshine'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ## CEC TV ID - Pizza Parachute
 ##  VeggieTales - 'Sneeze If You Need To'
 ##PBS Spot
 ##CEC TV ID - 'Movie Refreshments'
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Year 3000'
 ## 'I Need A Holiday'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  CEC TV ID - Skeeball
 ## Alvin & The Chipmunks
 ##Storytime With Chuck E.
 ## Chillout 1 - 'Eight Days A Week' Footage
 ##CEC TV ID - Cell Tower
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'You Are My Friend'
-## 'I'm Shakin_
-# **Intermission 4** 
+## 'I'm Shakin''
+# <b>Intermission 4</b> 
 ## CEC TV ID - Jawbreaker
 ## Coke Spot
 ## CEC TV Artist Spotlight: Sean Kingston 'Take You There'
 ## Chillout 2 - Landscapes
 ##CEC TV ID - 'Light-Up Marquee'
 
-## Lives: ##
+<h2> Lives: </h2>
 All live shows except 'Dancin' All Night Long' were on a separate DVD from the main show.
 * Birthday 2008 (3stage, Cyberamic, Studio C)
 *   Dancin' All Night Long (3stage, Cyberamic, Studio C)
@@ -108,16 +108,16 @@ All live shows except 'Dancin' All Night Long' were on a separate DVD from the m
 * Chuck E. Says (3stage, Cyberamic, Studio C)
 * Chuck E. Shuffle (3stage, Cyberamic, Studio C)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
-*The original artists behind 'I'm Shakin_, Rooney, visited a CEC location during the time this show was playing in order to hear their song being covered.<ref>https://youtu.be/wzM8V_eEpiY</ref>
+<h2>Trivia:</h2>
+*The original artists behind 'I'm Shakin'', Rooney, visited a CEC location during the time this show was playing in order to hear their song being covered.<ref>https://youtu.be/wzM8V_eEpiY</ref>
 *'Super Chuck E.' was originally a road show in 2005 though it has been slightly altered for this show.
 *The CEC News intermission and most of the footage for 'Super Chuck E.' was reused from August 1997. They seem to have been taken from a master copy of the show as they are in much higher quality than the original show.
 *Originally in segment 2, Chuck E. called former president George W. Bush. This was cut for an unknown reason.
 *This show uses footage of the 3-Stage characters instead of the puppets on Studio C.
 *This show was scripted by Duncan Brannan
 
-## References ##
+<h2> References </h2>
 <references />

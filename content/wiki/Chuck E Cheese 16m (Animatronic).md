@@ -8,14 +8,14 @@ date = 2023-07-04T00:35:06Z
 contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","CorrectorMan"]
 gallery = []
 +++
-The **Chuck E. Cheese 16m Animatronic** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 2002-2012, and was created to make animatronics more cost efficient.
+The <b>Chuck E. Cheese 16m Animatronic</b> is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 2002-2012, and was created to make animatronics more cost efficient.
 
-## History ##
+<h2> History </h2>
 Some time from 2001 to 2002, Garner is consulted by CEC to reduce costs on their animatronics. Eventually, a compromise was reached as to where they would remove half of the movements of the existing Chuck E. Animatronic to practically cost half the price.  
 
 The figures were manufactured from 2002 to 2012 until their contract came to an end, making this the last animatronics CEC would ever use. 
 
-## Mechanical Structure ##
+<h2> Mechanical Structure </h2>
 
 The bot features 16 movements in total, hence the name, with the majority being in the head. The mech is presumed to be identical to the 32m bot, but with some cylinders missing, such as the head tilts, eyebrow mechs (they were apart of the head shell), foot tap, ear mechs, eyelid up, body side bends, wrist turns, arm outs, and arm forwards.
 {| class='wikitable'
@@ -71,7 +71,7 @@ The bot features 16 movements in total, hence the name, with the majority being 
 | EYE TURN RIGHT
 |}
 
-## Stages Used In ##
+<h2> Stages Used In </h2>
 
 * [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}): Animatronic Installed in one location, June 2020 - November 2020. 
 * [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}): Installed from 2003-2012

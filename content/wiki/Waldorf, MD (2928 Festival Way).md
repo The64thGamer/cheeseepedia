@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-06-04T03:35:37Z
 
 [Article]
+pageThumbnailFile = "desc=Waldorf's exterior in the 2000's|image=Waldorf exterior.jpg"
 contributors = ["Cecnj98","ThatBoiCydalan","CorrectorMan","CEC Tinley","Cheeseclassic","Saan1ty","Chuckepoggers69"]
 gallery = []
 +++
-{{Generic|desc=Waldorf's exterior in the 2000's|image=Waldorf exterior.jpg}}
-**_2928 Festival Way, Store #92**_ was a _Chuck E. Cheese's Pizza_ that operated from March 24, 1992, to May 24, 2012. Waldorf is known as the first store to open with a 1-Stage around the test period early in 1992. 
 
-## Stages ##
+<b><i>2928 Festival Way, Store #92</b></i> was a <i>Chuck E. Cheese's Pizza</i> that operated from March 24, 1992, to May 24, 2012. Waldorf is known as the first store to open with a 1-Stage around the test period early in 1992. 
+
+<h2> Stages </h2>
 When Waldorf opened, Showbiz Pizza Time Inc. decided to test a new stage called a 1-Stage. It was first installed in this store, and remained there until 2000, when it got replaced with a Studio C Alpha. In May 2012, the location closed and took the Alpha to 3241 Plaza Way.
 {| class='wikitable'
 |+
@@ -31,12 +32,12 @@ When Waldorf opened, Showbiz Pizza Time Inc. decided to test a new stage called 
 |Brought to [Waldorf, MD (3241 Plaza Way)]({{< ref "wiki/Waldorf, MD (3241 Plaza Way).md" >}}).
 |}
 
-## History ##
+<h2> History </h2>
 Waldorf opened on March 24, 1992 with a test 1-Stage. Their 1-Stage was similar to early 1-Stages such as [Columbus, OH (Soldano)]({{< ref "wiki/Columbus, OH (3631 Soldano Blvd).md" >}}) or [Lancaster, CA]({{< ref "wiki/Lancaster, CA (44650 Valley Central Way).md" >}}). In the mid 90's, they received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) of the 1994 SPT Repositioning / Remodel Program. They received [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}) in 2000 and removed the first 1-Stage ever for a Studio C (1997) (Studio C Alpha). 
 
 In 2012, they decided to relocate to a [bigger location]({{< ref "wiki/Waldorf, MD (3241 Plaza Way).md" >}}) after 20 years of operation. Surprisingly enough, they relocated the entire stage when they moved, and the new location became the last Chuck E. Cheese's location to open with an Alpha (and second to last Alpha installed in any store beat by [Dearborn, MI (24399 Michigan Ave)]({{< ref "wiki/Dearborn, MI (24399 Michigan Ave).md" >}})).
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Character
@@ -84,7 +85,7 @@ In 2012, they decided to relocate to a [bigger location]({{< ref "wiki/Waldorf, 
 |Sent to new[Waldorf, MD (3241 Plaza Way)]({{< ref "wiki/Waldorf, MD (3241 Plaza Way).md" >}}) store. Removed in Late 2023.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

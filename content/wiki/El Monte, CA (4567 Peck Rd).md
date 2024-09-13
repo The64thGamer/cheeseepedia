@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-06-13T20:41:39Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior and plaza sign of El Monte, unknown date.|image=Elmonte.png"
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","The 64th Gamer","SuperCreamPiper2008","CEC Knoxville"]
 gallery = []
 +++
-{{NoSources}}{{Generic|desc=Exterior and plaza sign of El Monte, unknown date.|image=Elmonte.png}}
 
-**_4567 Peck Rd, Store #428**_ was a Pizza Time Theatre that opened in 1982 (month and day unknown) with a Balcony Stage and closed in June 2020.
 
-## Stages ##
+<b><i>4567 Peck Rd, Store #428</b></i> was a Pizza Time Theatre that opened in 1982 (month and day unknown) with a Balcony Stage and closed in June 2020.
+
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installation Date
@@ -35,17 +36,17 @@ gallery = []
 |One of many installed in California.
 |}
 
-##History##
-###Pizza Time Theatre###
+<h2>History</h2>
+<h2>=Pizza Time Theatre</h2>=
 Unfortunately, there is no documentation as a Pizza Time Theatre. But they did have a Balcony Stage.
 
-###Chuck E. Cheese's Pizza Remodel###
+<h2>=Chuck E. Cheese's Pizza Remodel</h2>=
 It happened around the Late 80's, when they removed the Balcony Stage for the C-Stage and added some decor and games. In the Mid 90's, the C-Stage was removed for the 2-Stage.
 
-###'Phase 3' Remodel.###
+<h2>='Phase 3' Remodel.</h2>=
 It happened around the Late 90's when they removed old decor and added new decor and SkyTubes. They would remain like this until their closure in June 2020. In 2022, it became a Dollar Tree.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Serial

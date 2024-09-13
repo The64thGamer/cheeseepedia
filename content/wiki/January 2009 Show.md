@@ -8,12 +8,12 @@ date = 2024-07-31T18:11:17Z
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","Agent 5","AstridMascotFan2005"]
 gallery = []
 +++
-{{NonStandard}}
 
-**January 2009 Show** was a show released in January of 2009 and featured eight songs.
+
+<b>January 2009 Show</b> was a show released in January of 2009 and featured eight songs.
 
 This was created to play from January-March 2009. 
-## Production##
+<h2> Production</h2>
 Studio C DVD 3: 12/17/08 9:39am - 9:42am
 
 Show schedule
@@ -66,7 +66,7 @@ ETV Spot (Exercise Spot #2)
 
 Longboarding
 
-## Studio C DVD #3 ##
+<h2> Studio C DVD #3 </h2>
 DVD #3 is a DVD used for Studio C showtapes when the main show is too big to feature all lives. So a third DVD is installed with the show to bring the normal amount. 
 
 * Studio C Diagnostics
@@ -104,4 +104,4 @@ DVD #3 is a DVD used for Studio C showtapes when the main show is too big to fea
 * The Tortoise and the Hare
 
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

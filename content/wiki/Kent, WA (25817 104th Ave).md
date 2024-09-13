@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-08-14T03:00:50Z
 
 [Article]
+pageThumbnailFile = "Kent.jpg|Kent's exterior before the 2.0 remodel. (PC: usarestaurants.info)"
 contributors = ["CorrectorMan","ThatBoiCydalan","CEC1988","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Kent.jpg|desc=Kent's exterior before the 2.0 remodel. (PC: usarestaurants.info)}}
-**_25817 104th Ave, Store #306**_ is a _Chuck E. Cheese's_ that opened in May 1998 (day unknown) with a Studio C (1997) (Studio C Alpha), and is still open today with the 2.0 Remodel
 
-## Stage ##
+<b><i>25817 104th Ave, Store #306</b></i> is a <i>Chuck E. Cheese's</i> that opened in May 1998 (day unknown) with a Studio C (1997) (Studio C Alpha), and is still open today with the 2.0 Remodel
+
+<h2> Stage </h2>
 Kent has a Studio C Alpha stage, which hasn't seen major modifications since opening, for example the curtains being disabled, Chuck's cap being removed, and when Studio C ceased programming in late 2022.
 
 That was, Until July 21st, 2024 when they removed the Bot for the Video Wall and the Dance Floor.
@@ -38,10 +39,10 @@ That was, Until July 21st, 2024 when they removed the Bot for the Video Wall and
 |
 |}
 
-## History ##
+<h2> History </h2>
 Kent opened in May of 1998 (day unknown) with a Studio C (1997) (Studio C Alpha) stage and the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel. Unfortunately, information on Kent in general is scarce, despite still being open. Between 2008 and 2010, Kent received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor for new decor, tearing down showroom walls and balcony seating, adding purple walls, and changed the exterior. Around the mid-late 2010s, the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were thrown out. In July 2024 The location Started its 2.0 remodel, removing the stage.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -65,7 +66,7 @@ Kent opened in May of 1998 (day unknown) with a Studio C (1997) (Studio C Alpha)
 |Unknown/Destroyed
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

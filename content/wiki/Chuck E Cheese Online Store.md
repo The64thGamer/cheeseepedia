@@ -9,21 +9,21 @@ contributors = ["CECBowlingGreen","170.185.215.34","Documentor","BurgersNuggs445
 gallery = ["CEC Online Store Homepage.png|thumb|CEC Online Store Homepage. Current as of October 13, 2022."]
 +++
 
-The **Chuck E. Cheese Online Store** is the online store for the Chuck E. Cheese brand, it was originally launched in 2002, relaunched in 2020 , and currently sells clothing and toys with the CEC characters on it.
+The <b>Chuck E. Cheese Online Store</b> is the online store for the Chuck E. Cheese brand, it was originally launched in 2002, relaunched in 2020 , and currently sells clothing and toys with the CEC characters on it.
 
 The current domain name is [https://shop.chuckecheese.com/ shop.chuckecheese.com]
 
-## History ##
+<h2> History </h2>
 In 2002 'Chuck E's E-Shop', domain name store.chuckecheese,com, is created with the purpose to sell plushies, wears, and toys. 
 
 In fall of 2004 the website was relocated and rebuilt onto shop.chuckecheese.com, where it got a more organized layout and more variety in items. In late 2006 the store is shut down for 14 years until in 2020 when the domain became active again, this time to fit in much like the main website.
 
-## Products Sold ##
+<h2> Products Sold </h2>
 Note: Current as of October 13, 2022.
 
-### Clothing ###
+<h2>= Clothing </h2>=
 
-#### Adult Apparel ####
+<h2>== Adult Apparel </h2>==
 
 * Official Chuck E. Tee - Vintage White (Adult)
 * Official Chuck E. Tee - Gold (Adult)
@@ -44,13 +44,13 @@ Note: Current as of October 13, 2022.
 * Tonal Chuck E. Tee - Vintage White (Adult)
 * Tonal Chuck E. Tee - Heather Grey (Adult)
 
-#### Bootacular 2022 Adult Apparel ####
+<h2>== Bootacular 2022 Adult Apparel </h2>==
 
 * Bootacular Chuck E. Face Tee - Black (Adult)
 * Skeleton Music Tee - Black (Adult)
 * Bootacular Skeleton Gamer Tee - Black (Adult)
 
-#### Youth Apparel ####
+<h2>== Youth Apparel </h2>==
 
 * Chuck E. Bunch Tee - Navy (Youth)
 * Chuck E. Bunch Tee - Red (Youth)
@@ -70,7 +70,7 @@ Note: Current as of October 13, 2022.
 * Sporty Chuck E. Tee - White (Youth)
 * Sporty Chuck E. Tee - Red (Youth)
 
-#### Bootacular 2022 Youth Apparel ####
+<h2>== Bootacular 2022 Youth Apparel </h2>==
 
 * Bootacular Chuck E. Face Tee - Black (Youth)
 * Bootacular Chuck E. Tee - Black (Youth)
@@ -87,7 +87,7 @@ Note: Current as of October 13, 2022.
 * Trick or Treat Tee - Black (Youth)
 * Trick or Treat Tee - Grey (Youth)
 
-#### Toddler Apparel ####
+<h2>== Toddler Apparel </h2>==
 
 * Bootacular Chuck E. Face Tee - Black (Toddler)
 * Bootacular Chuck E. Face Tee - Orange (Toddler)
@@ -106,9 +106,9 @@ Note: Current as of October 13, 2022.
 * Bootacular Web Tee - Orange (Toddler)
 * Trick or Treat Tee - Black (Toddler)
 
-### Toys & Collectibles ###
+<h2>= Toys & Collectibles </h2>=
 
-#### Plushes ####
+<h2>== Plushes </h2>==
 
 * Chuck E. Cheese 'Big Head' Plush Stuffed Toy
 * Helen Henny 'Big Head' Plush Stuffed Toy
@@ -117,7 +117,7 @@ Note: Current as of October 13, 2022.
 * Mr. Munch Plush Stuffed Toy
 * Small Chuck E. Cheese Plush Ball
 
-#### Other Items ####
+<h2>== Other Items </h2>==
 
 * Chuck E. Cheese Toy Set
 * Collectible Chuck E. Cheese Ears Cup with Straw and Lid - Purple

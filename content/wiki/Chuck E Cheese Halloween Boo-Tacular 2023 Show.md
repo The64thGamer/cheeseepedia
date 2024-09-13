@@ -8,49 +8,49 @@ date = 2023-11-27T21:51:29Z
 contributors = ["Cheeseclassic","Bowling for Cheese"]
 gallery = []
 +++
-{{Showtape|image=Bootacularevent.png|date=October 2, 2023| studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
-**_Halloween Boo-Tacular 2023**_ was a Fall show released on October 2, 2023.
+
+<b><i>Halloween Boo-Tacular 2023</b></i> was a Fall show released on October 2, 2023.
 This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from October 2, 2023 - October 31, 2023. This show features 7 songs with the automatic live being Haunted House Party.
 
-## Show List: ##
-# ** Intermission 1 **
+<h2> Show List: </h2>
+# <b> Intermission 1 </b>
 ## Boo-Tacular Bumper feat. Chuck E. & Helen
 ## KIDZ BOP - 'This is Halloween'
-# ** Skit 1 **
+# <b> Skit 1 </b>
 ## Helen Henny - 'Witches Crew'
-# ** Intermission 2 **
+# <b> Intermission 2 </b>
 ## Koo Koo Kanga Roo - 'Monster Moves' 
-# ** Skit 2 **
+# <b> Skit 2 </b>
 ## Chuck E. Cheese - 'Halloween Night'
-# ** Intermission 3 **
+# <b> Intermission 3 </b>
 ## KIDZ BOP - 'Halloween Party!'
 ## Boo-Tacular Bumper feat. Jasper & Munch
-# ** Skit 3 **
+# <b> Skit 3 </b>
 ## Chuck E. Cheese - 'If Every Day Was Halloween' 
-# ** Intermission 4 **
+# <b> Intermission 4 </b>
 ## China Anne McClain - 'Calling All The Monsters' 
-# ** Skit 4 **
+# <b> Skit 4 </b>
 ##Chuck E. & Friends - 'Gotta Be Halloween'
-# ** Intermission 5 **
+# <b> Intermission 5 </b>
 ## Blippi  - 'Halloween'
 ## Boo-Tacular Bumper feat. Bella & Pasqually
 ## KIDZ BOP - 'Ghostbusters'
-# ** Skit 5 **
+# <b> Skit 5 </b>
 ## Jasper T. Jowls - 'Howl-O-Ween'
-# ** Intermission 6 **
+# <b> Intermission 6 </b>
 ## KIDZ BOP - 'Disturbia'
-# ** Skit 6 **
+# <b> Skit 6 </b>
 ## Chuck E. Cheese - 'Pumpkin Patch'
-# ** Intermission 7 **
+# <b> Intermission 7 </b>
 ## Juicebox Jukebox - 'Happy Halloween'
-# ** Skit 7 **
+# <b> Skit 7 </b>
 ## Chuck E. & Friends - 'Pumpkins in My Pockets'
-# ** Intermission 8 **
+# <b> Intermission 8 </b>
 ## KIDZ BOP - 'Thunder'
 ## High School Musical The Musical The Series - 'Nightmares Come to Life'
 ## KIDZ BOP - 'Bones'
 
-##Lives:##
+<h2>Lives:</h2>
 
 * Birthday Show
 * Birthday Show (Spanish)

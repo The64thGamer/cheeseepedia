@@ -8,15 +8,15 @@ date = 2023-07-20T06:19:41Z
 contributors = ["Rexburg090","2600:4040:5A0E:D900:4505:91DB:C51E:9D03","Tindersmainac200"]
 gallery = ["GrapevineTXExterior2022DecemberGoogleMaps.png|thumb|Street view of the store exterior back in December 2022 (PC: Google Maps)"]
 +++
-{{Stub}}
 
 
-**_2755 E Grapevine Mills Circle, Store #854**_ is a _Chuck E. Cheese's_ that opened on May 21st, 2002 with a Studio C 2000 (Studio C 2000, 32m). They received the 2.0 remodel in November 2022. it is located in a freestanding building in the Grapevine Mills.
 
-## History ##
+<b><i>2755 E Grapevine Mills Circle, Store #854</b></i> is a <i>Chuck E. Cheese's</i> that opened on May 21st, 2002 with a Studio C 2000 (Studio C 2000, 32m). They received the 2.0 remodel in November 2022. it is located in a freestanding building in the Grapevine Mills.
+
+<h2> History </h2>
 Grapevine opened on May 21st, 2002 in a freestanding building located within the Grapevine Mills. This was one of 21 Studio C 2000<nowiki/>s installed in Texas. When the store opened, they had the 1990s Major Remodel with Late 90s'-Early 2000's art pieces. Not long after, the store would be featured in 'That's The Way (I Like It)' from Segment 1 of the [September 2002 Show]({{< ref "wiki/September 2002 Show.md" >}}). The store would receive the 2003 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative not long afterwards, keeping the Must C TV Posters, adding some store art, and some other minor changes related to the update. In the Early-Mid 2010's, the Skytubes would be removed for Chuck E's Speed Way (A Modified version of the Bumper Cars that are Go-Karts)<ref>https://media-cdn.tripadvisor.com/media/photo-s/07/27/01/49/go-karts.jpg</ref> and was one of the few stores to test it. In 2015, Grapevine would receive a major interior remodel which involved replacing the ordering counters for more modern ones, replacing the booths & tables with Green & Blue Booths and Tables, moving the Salad Bar towards the Showroom, and replacing the carpet. For a few years in the 2010's, they also tested the Ice Cream Bar. This was one of the few stores that also had Chuck E's Fun House as well (Grapevine's would replace the old Speed Way). On July 20, 2018, Grapevine is visited by CEC fans in Chuck E. Con 2018 alongside [Arlington, TX]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}). In 2020, Chuck E.'s Funhouse would be removed due to the COVID-19 pandemic. In November 2022, Grapevine would remodel to the 2.0 Remodel, removing the Studio C for a 2021 Model Dance Floor + Video Wall but keeping the booths and most other elements from their 2015 Remodel. Grapevine's Grand Reopening would occur on December 15th, 2022 . As of May 2023, Grapevine still has the 2021 Model Dance Floor + Video Wall. 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -34,7 +34,7 @@ Grapevine opened on May 21st, 2002 in a freestanding building located within the
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -52,8 +52,8 @@ Grapevine opened on May 21st, 2002 in a freestanding building located within the
 
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
 
-## References ##
+<h2> References </h2>
 <references />

@@ -9,11 +9,11 @@ contributors = ["CorrectorMan","CEC Tinley"]
 gallery = ["Lake Mead.jpg|thumb|Lake Mead's exterior after they finished 2.0. (PC: bippermedia.com)"]
 +++
 
-**_7381 W Lake Mead Blvd**_, also known as **_Lake Mead**_, is a _Chuck E. Cheese's_ that opened on December 31, 1998, with a Studio C (1997) (Studio C Alpha) and is still open today with the 2.0 remodel. 
+<b><i>7381 W Lake Mead Blvd</b></i>, also known as <b><i>Lake Mead</b></i>, is a <i>Chuck E. Cheese's</i> that opened on December 31, 1998, with a Studio C (1997) (Studio C Alpha) and is still open today with the 2.0 remodel. 
 
 This location is not to be confused with the many other locations in Las Vegas.
 
-## Stages ##
+<h2> Stages </h2>
 Upon opening, Lake Mead had a Studio C (1997) (Studio C Alpha) stage. Around 2005, the curtains were disabled, and then possibly removed. In 2013, Chuck's cap was removed. On April 1, 2022, the stage was removed for a 2021 Model Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 {| class='wikitable'
 |+
@@ -33,13 +33,13 @@ Upon opening, Lake Mead had a Studio C (1997) (Studio C Alpha) stage. Around 200
 |2021 Model.
 |}
 
-## History ##
+<h2> History </h2>
 Lake Mead opened on December 31, 1998 with the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel, which included late 90s decor, [Skytubes]({{< ref "wiki/Skytubes.md" >}}), and the Studio C (1997) (Studio C Alpha) stage. Lake Mead remained like this for many years until the late 2000s, when they remodeled the interior to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing most 90s decor for new decor, removed the showroom walls and balcony seating, added purple walls, and other minor changes. In March 2022, Lake Mead began the 2.0 remodel, removing the Alpha by April 1. As of July 2023, Lake Mead remains like this.
 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

@@ -8,21 +8,21 @@ date = 2024-05-21T16:29:24Z
 contributors = ["Helly","Ls2018","ShowbizMidwest","CECMentor"]
 gallery = ["Curly Mech.png|none|thumb|232x232px|The mech of Curly (the one on the chair)"]
 +++
-The **_Four Little Shavers**_ are an animatronic cabaret act used in _Pizza Time Theatre_ restaurants.
+The <b><i>Four Little Shavers</b></i> are an animatronic cabaret act used in <i>Pizza Time Theatre</i> restaurants.
 
-They appeared in 5 known locations, these being the _Pizza Time Theatres_ in _Tampa (Carrollwood), Florida_, _San Antonio, Texas_, _Brandon, Florida_, _Clearwater, Florida_<ref> https://www.newspapers.com/article/tampa-bay-times/38822127/</ref>, and _Daytona Beach, Florida_.<ref> https://www.newspapers.com/article/the-orlando-sentinel/132950614/</ref>  They were first installed in August 1981 at the _Tampa (Carrollwood), Florida_ location. They appeared in a room named the Ice Cream Emporium which was an Ice Cream bar, a concept tested by _Pizza Time Theatre Inc._ at the time. The show was fully phased out of these stores by the mid 1980's. All 5 sets were presumed to be destroyed, but one set has been discovered, restored and now performs at the _Volo Museum (Volo Auto Museum)_ in _Volo, Illinois._
+They appeared in 5 known locations, these being the <i>Pizza Time Theatres</i> in <i>Tampa (Carrollwood), Florida</i>, <i>San Antonio, Texas</i>, <i>Brandon, Florida</i>, <i>Clearwater, Florida</i><ref> https:<i>www.newspapers.com/article/tampa-bay-times/38822127/</ref>, and <i>Daytona Beach, Florida</i>.<ref> https:</i>www.newspapers.com/article/the-orlando-sentinel/132950614/</ref>  They were first installed in August 1981 at the <i>Tampa (Carrollwood), Florida</i> location. They appeared in a room named the Ice Cream Emporium which was an Ice Cream bar, a concept tested by <i>Pizza Time Theatre Inc.</i> at the time. The show was fully phased out of these stores by the mid 1980's. All 5 sets were presumed to be destroyed, but one set has been discovered, restored and now performs at the <i>Volo Museum (Volo Auto Museum)</i> in <i>Volo, Illinois.</i>
 
 There were 4 members of this band, Nolan (holding the towel), O'Nolan (holding the cup), Curly (the bald man in the chair) and McNolan (holding the broom). They were similar to the Beagles / Beach Bowsers (Lounge) (Beagles/Beach Bowsers) in terms of mechanisms and general appearance.
 
-## Placement ##
-In the standard installation of the show detailed in the _Pizza Time Theatre Theatrical Standards Manual_, the characters would stand in a line, the order being Nolan, O'Nolan, Curly, McNolan (from left to right) in front of a barber shop themed scene. This featured a desk, bottles, mirrors and a barber pole at the back. However one of the locations had a different design, which had a black and blue backdrop with shelving and bottles painted onto it and a sign reading 'Lou's Place', and had Nolan moved to the far right of the stage.
+<h2> Placement </h2>
+In the standard installation of the show detailed in the <i>Pizza Time Theatre Theatrical Standards Manual</i>, the characters would stand in a line, the order being Nolan, O'Nolan, Curly, McNolan (from left to right) in front of a barber shop themed scene. This featured a desk, bottles, mirrors and a barber pole at the back. However one of the locations had a different design, which had a black and blue backdrop with shelving and bottles painted onto it and a sign reading 'Lou's Place', and had Nolan moved to the far right of the stage.
 
 
-## Showtapes ##
-No showtapes have been found yet for the _Four Little Shavers._ However the _Theatrical Standards Manual_ details that they would sing songs from the _Buffalo Bills_ and some other Barber Shop Groups.
+<h2> Showtapes </h2>
+No showtapes have been found yet for the <i>Four Little Shavers.</i> However the <i>Theatrical Standards Manual</i> details that they would sing songs from the <i>Buffalo Bills</i> and some other Barber Shop Groups.
 
-## Movements ##
-The known movements on the _Four Little Shavers_ are as follows:
+<h2> Movements </h2>
+The known movements on the <i>Four Little Shavers</i> are as follows:
 {| class='wikitable'
 |+Movements
 !Curly

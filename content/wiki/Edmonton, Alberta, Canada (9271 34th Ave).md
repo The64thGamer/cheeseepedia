@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-08-22T21:22:50Z
 
 [Article]
+pageThumbnailFile = "EdmontonNow.png|The location's exterior in June 2015. (PC: Sean Bliss)"
 contributors = ["2001:56A:FCA0:5600:1D1C:6C9E:37C5:10B9","ChuckEPediaIsTheBest!","216.125.34.66","Cheeseclassic","CyCGM","CoolerDude"]
 gallery = []
 +++
-{{Generic|image=EdmontonNow.png|desc=The location's exterior in June 2015. (PC: Sean Bliss)}}
 
-**9271 34th Avenue** was a Chuck E. Cheese's Pizza Time Theatre that opened in November 1985 with a Balcony Stage, which closed in 1995.
+
+<b>9271 34th Avenue</b> was a Chuck E. Cheese's Pizza Time Theatre that opened in November 1985 with a Balcony Stage, which closed in 1995.
 
 This store was the second last Balcony Stage store to open, as well as the second last PTT to open, both being before [Fairbanks, Alaska (600 Old Steese Hwy)]({{< ref "wiki/Fairbanks, AK (600 Old Steese Hwy).md" >}}), which opened in January 1986.
 
 Edmonton would be the last Balcony Stage, being replaced in 1993 with a 2-Stage.
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they featured a Balcony Stage. Edmonton's Balcony was the second last installed in a new store, with Edmonton also being the second last new PTT to open. They would have it until a time frame of between. The 2-Stage would not last very long, as they would permanently close in 1995.
 {| class='wikitable'
 !Stage
@@ -38,7 +39,7 @@ Originally when the store opened, they featured a Balcony Stage. Edmonton's Balc
 |Only 2-Stage to directly replace Balcony Stage
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -69,7 +70,7 @@ Originally when the store opened, they featured a Balcony Stage. Edmonton's Balc
 |Unknown
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

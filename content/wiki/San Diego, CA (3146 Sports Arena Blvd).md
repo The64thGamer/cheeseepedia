@@ -5,31 +5,32 @@ tags = ["Store List"]
 date = 2024-07-13T18:35:14Z
 
 [Article]
+pageThumbnailFile = "Sandgoext.png|Sports Arena Blvd's exterior in 2022"
 contributors = ["Rileypaulson","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:1453:805E:C9FE:D729","209.129.28.15","76.167.210.169","CEC Tinley","TheChuckECheeseGuy","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Sandgoext.png|desc=Sports Arena Blvd's exterior in 2022}}
 
-**_3146 Sports Arena Blvd, Store #441**_ is a _Chuck E. Cheese's_ located in Rosecrans Plaza that opened on April 19, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
+
+<b><i>3146 Sports Arena Blvd, Store #441</b></i> is a <i>Chuck E. Cheese's</i> located in Rosecrans Plaza that opened on April 19, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
 This location should not be confused with [the El Cajon Blvd location]({{< ref "wiki/San Diego, CA (6403 El Cajon Blvd).md" >}}), San Diego / Mira Mesa, CA (9840 Hibert St) (San Diego Hilbert St / Mira Mesa location), or [the College Avenue location]({{< ref "wiki/San Diego, CA (3414 College Ave).md" >}}), all which opened in March 1981 and closed in 1984, opened in 1981/1982, and is still open, and opened on December 19th, 2012, which is also still open.
 
 Rosecrans Plaza was formerly Glasshouse Square, which is considered to be one of San Diego's haunted areas by few.
-## Stages##
+<h2> Stages</h2>
 This location opened with one of the first 1-Stages, being one of the first to resemble what it would look finalized. This stage had prototype elements such as the black valence and 'Live Amateur Hour' prop.
 
 In early to mid-2004, this location received a Studio C 2000 stage with a 16 movement CEC Animatronic. The animatronic rapidly declined in condition beginning in the early 2010's and would end up becoming nearly static on some occasions.
 
 On June 13th, 2023, Studio C was removed and replaced with the dance floor and video wall, which are still there to this day.
-##History##
+<h2>History</h2>
 Before becoming a CEC, it was originally a locally owned arcade called 'Yellow Brick Road.' The arcade eventually closed in 1992 and CEC swiftly took over the space. Despite opening in 1993 this location opened with a 1992 version of the interior stylings from the 1994 SPT Repositioning / Remodel Program.<ref>https://www.sandiegohaunted.com/glasshouse-square-sports-arena-history/</ref>
 
-### Remodels ###
+<h2>= Remodels </h2>=
 This location only received only one of their two remodels in 2006, which moved their Studio C from the left side wall back corner to the right side wall.  In July 2010, they expanded behind the right side wall and relocated the showroom and Studio C to the new area.<ref>https://opendsd.sandiego.gov/Web/Approvals/Details/721274</ref> The store began the 2.0 remodel in May 2023 and completed in July 2023. After completion, 14 games new games were installed, with most of the token games being removed.
-###2021 S.W.A.T. Incident ###
+<h2>=2021 S.W.A.T. Incident </h2>=
 On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a suspect in front of the location to take a male into custody for a failed armed robbery at the next door Subway. The man had hostages but they escaped unharmed.<ref>https://twitter.com/SanDiegoPD/status/1349861773373915137</ref>
 
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -96,7 +97,7 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 |February 13, 2023
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -136,7 +137,7 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 |Destroyed (removed on 6/13/2023)
 |}
 
-## Games ##
+<h2> Games </h2>
 {| class='wikitable'
 |+
 !Game
@@ -535,5 +536,5 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 |Small gameroom
 |}
 
-##References##
+<h2>References</h2>
 <references />

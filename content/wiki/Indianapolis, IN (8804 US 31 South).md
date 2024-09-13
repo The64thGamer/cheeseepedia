@@ -10,12 +10,12 @@ gallery = ["Exterior2011AugustGoogleMaps.png|thumb|Street View of Greenwood's Ex
 +++
 
 
-**_8804 US 31 South, Store #346**_ also known as **_Greenwood**_ is a Showbiz Pizza Place that opened on November 10, 1982 with a Rock-Afire Explosion, which is still open to this day.
+<b><i>8804 US 31 South, Store #346</b></i> also known as <b><i>Greenwood</b></i> is a Showbiz Pizza Place that opened on November 10, 1982 with a Rock-Afire Explosion, which is still open to this day.
 
 This location is located in the Greenwood Shopping Center. They would receive Concept Unification in 1991 or 1992, and removed the 3-Stage in 2000 for a Studio C Alpha which was removed for a Dance Floor in late 2019.
-##History##
+<h2>History</h2>
 8804 US 31 South opened on November 10th, 1982, as part of an expansion of the shopping center it was in, as it used to be just one building that opened in the late 1960s - early 1970s. The Showbiz opened next to a Frank's Nursery & Crafts. This location had the RockAfire Explosion Classic Stage. Around 1991, they would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, They would receive either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights.  In the year 2000, they would received the Phase 3 remodel which marked the end of the 3-Stage. It was replaced by the Studio C Alpha and got a new exterior (Which involved an expansion of the front of the store to make room for more games) and most of the 90s decor was removed and the 2000's decor and SkyTubes was added. In September 2010, it would undergo the 2005 remodel which involved the exterior, the removal of the early 2000's posters, and the new decor. In August 2019, they would undergo the 2.0 remodel removing the Alpha for the Dance Floor.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha which was used until September 2019 when it would undergo the 2.0 remodel for the Dance Floor. They still have the Dance Floor to this very day. The Alpha that was used at this location had a special panel with a different font on it. 
 {| class='wikitable'
 |+
@@ -44,7 +44,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 |Still In Use
 |2019 Model. 
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -118,7 +118,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 
 
 
-##YouTube Videos##
+<h2>YouTube Videos</h2>
 {| class='wikitable'
 |+YouTube Videos
 !Link
@@ -146,5 +146,5 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 |Chuck E. Greenwood Productions 2005
 |}
 
-##Referneces##
+<h2>Referneces</h2>
 TODO

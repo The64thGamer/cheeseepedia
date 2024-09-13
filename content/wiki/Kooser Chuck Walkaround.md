@@ -5,11 +5,12 @@ tags = ["Costumed Characters"]
 date = 2024-02-05T02:15:17Z
 
 [Article]
+pageThumbnailFile = "Early chuck.png|The Costume as seen in the 1978 Kooser Rd promotional postcard."
 contributors = ["Jaxon11","RessiduePezzzado","NoName2000","The 64th Gamer"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Early chuck.png|desc=The Costume as seen in the 1978 Kooser Rd promotional postcard.}}
 
-The **_Prototype Chuck Walkaround**_ was a walkaround costume that would first appear at the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) location alongside the [Jasper T. Jowls Early Walkaround]({{< ref "wiki/Jasper T Jowls Early Walkaround.md" >}}) and Munch Early Walkaround.
+
+The <b><i>Prototype Chuck Walkaround</b></i> was a walkaround costume that would first appear at the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) location alongside the [Jasper T. Jowls Early Walkaround]({{< ref "wiki/Jasper T Jowls Early Walkaround.md" >}}) and Munch Early Walkaround.
 
 This costume was used at the location from 1978-1981 before being phased out by the standard 1981 costume. The costume is most famous for being in plenty of PTT promotional material throughout the late 70s early 80s. it was most used in grand opening advertisements, postcards, and sports events.

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-06-01T00:41:48Z
 
 [Article]
+pageThumbnailFile = "49bfdc70f6b06bc93d5dc403ee376365 -united-states-oregon-multnomah-county-portland-chuck-e-cheese-503-774-7000htm.jpg|Portland, OR's exterior before closing"
 contributors = ["CEC PDX","173.216.33.6","Rexburg090","CEC Tinley","Cecbird","CorrectorMan","Stripes"]
 gallery = []
 +++
-{{Generic|image=49bfdc70f6b06bc93d5dc403ee376365 -united-states-oregon-multnomah-county-portland-chuck-e-cheese-503-774-7000htm.jpg|desc=Portland, OR's exterior before closing}}
-**_9120 SE Powell Blvd, Store #3014/660**_, was a Chuck E. Cheese's location that opened on November 19, 1982, with a Balcony Stage, later closing in October 2020 with a 2-Stage.
 
-##History##
+<b><i>9120 SE Powell Blvd, Store #3014/660</b></i>, was a Chuck E. Cheese's location that opened on November 19, 1982, with a Balcony Stage, later closing in October 2020 with a 2-Stage.
+
+<h2>History</h2>
 Portland opened on November 19th, 1982, as a Franchised Pizza Time Theatre. Portland would then remodel to the 1986 SPT Remodel Program (1988 Remodel) in around 1989/1990 which converted the Balcony Stage to [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) (Keeping the Balcony Stage nameplates in the process). In around 1994, Portland would receive a minor remodel which involved converting [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) into a 2-Stage. In around 1997, Portland would receive [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) of the 1994 SPT Repositioning / Remodel Program which involved the showroom being redone and removing all traces of the 1988 Remodel, the store's showroom would receive a major remodel around this time. In around Mid-Late 2007, Portland would remodel again to the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The store would remain this way until October 12th, 2020, when the store closed after almost 38 years of operation. As of April 2023, the location is still a vacant building.
-##Stages##
+<h2>Stages</h2>
 When Portland opened, it housed a Balcony Stage like most other Pizza Time Theatre at the time. Sometime in 1989/1990, they converted the Balcony Stage into Chuck E.’s House Facade (Keeping the Balcony Stage nameplates in the process). In around 1994, the 2-Stage was installed. By 2008, Helen's Early 90s Mask, Jasper's PTT mask, and some other older cosmetics were replaced by newer ones. They would keep the 2-Stage until October 12th, 2020, when the store was permanently closed.   
 {| class='wikitable'
 |+
@@ -34,7 +35,7 @@ When Portland opened, it housed a Balcony Stage like most other Pizza Time Theat
 |October 2020
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -91,7 +92,7 @@ When Portland opened, it housed a Balcony Stage like most other Pizza Time Theat
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -129,6 +130,6 @@ When Portland opened, it housed a Balcony Stage like most other Pizza Time Theat
 |April 16, 2020
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Portland had Munch and Jasper walkaround costumes from the 1990s up until 2014 when the store was acquired by Corporate. These costumes were transferred to the Vancouver, WA location where they reside today.

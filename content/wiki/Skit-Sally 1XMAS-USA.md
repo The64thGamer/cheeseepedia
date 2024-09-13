@@ -14,45 +14,45 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 | pttreel = y
 |guestsally=y}}
 
-**_Skit-Sally 1XMAS-USA**_ is a Pizza Time Theatre showtape featuring the guest star _Sally Sashay_.
+<b><i>Skit-Sally 1XMAS-USA</b></i> is a Pizza Time Theatre showtape featuring the guest star <i>Sally Sashay</i>.
 
-##Segments:##
-#** Segment 1**
+<h2>Segments:</h2>
+#<b> Segment 1</b>
 ##Strolling Through The Park One Day
 ##Jeepers Creepers
 ##Them There Eyes
 ##Beautiful, Beautiful Brown Eyes
 ##Five Foot Two Eyes Of Blue
-#** Segment 2**
+#<b> Segment 2</b>
 ##Medley of the South
 ###Cotton Fields
 ###Pick a Bale of Cotton
 ###Crawdad Song
 ###Thank God I'm a Country Dog
-#** Segment 3**
+#<b> Segment 3</b>
 ##Rock Around The Clock
 ##Long Tall Sally
 ##Splish Splash
 ##Stupid Cupid
 ##Good Golly Miss Molly
-#** Segment 4**
+#<b> Segment 4</b>
 ##When It Rains, It Pours Medley
 ###It's Raining
 ###It's Pouring
 ###Raindrops Keep Falling on My Head
 ###Rhythm Of The Rain
 ###Rockin' Pneumonia and the Boogie Woogie Flu
-#**Birthday 1**
+#<b>Birthday 1</b>
 ##Birthday Chant / Song
-#**Birthday 2**
+#<b>Birthday 2</b>
 ##Birthday One, Honey Bun
-#**Birthday 3**
+#<b>Birthday 3</b>
 ##Happy Birthday, Happy Birthday Baby
-#**Special 1**
+#<b>Special 1</b>
 ##Cheer - Trumpets
-#**Special 2**
+#<b>Special 2</b>
 ##Pasqually's Chuck E. Intro
-#**Special 3**
+#<b>Special 3</b>
 ##Christmas Medley
 ###Silver Bells
 ###Fa-La-La
@@ -61,27 +61,27 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###Jingle Bells
 ###Jingle Bell Rock
 ###We Wish You a Merry Christmas
-#**Special 4**
+#<b>Special 4</b>
 ##Diagnostics
-#** Segment 5**
+#<b> Segment 5</b>
 ##Hard Days Night
 ##Hound Dog
 ##Puppy Love
-#** Segment 6**
+#<b> Segment 6</b>
 ##Americana Medley
 ###Yankee Doodle Dandy
 ###Dixie
 ###Grand Old Flag
-#** Segment 7**
+#<b> Segment 7</b>
 ##Rock-A-Bye Your Baby (With a Dixie Melody)
-#** Segment 8**
+#<b> Segment 8</b>
 ##Salute to the Great American Railroad Medley
 ###On The Atchison
 ###Topeka and The Sante Fe
 ###Casey Jones
 ###Rock Island Line
 ###Wabash Cannonball
-#** Segment 9**
+#<b> Segment 9</b>
 ##Ladies' Medley
 ###If You Knew Susie
 ###Clementine
@@ -89,16 +89,16 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###Oh Suzanna
 ###She's Too Fat For Me
 ###Goodbye Ladies
-#** Segment 10**
+#<b> Segment 10</b>
 ##Mr. Sandman
 ##Dream Lover
 ##American Lullaby
-#**Segment 11**
+#<b>Segment 11</b>
 ##Working Medley
 ###Workin' on the Chain Gang
 ###Sixteen Songs
 ###I've Been Workin' on the Railroad
-#**Segment 12**
+#<b>Segment 12</b>
 ##Pizza Time Theatre Intro Medley
 ###Pizza Time Theatre Song
 ###Roots in the Country, That's Amore

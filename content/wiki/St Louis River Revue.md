@@ -9,49 +9,49 @@ contributors = ["Lelmaster"]
 gallery = ["St. Louis River Revue Stage Left and Middle.png|thumb|Picture of the Birdland Band and Louie Wails"]
 +++
 
-{{Stub}}The Saint Louis River Revue is a show created by Landmark Entertainment Group for the SS Admiral entertainment complex, owned by Six Flags at the time. It was located in the Birdland Theater, which was created for this show. Ted King produced this soundtrack as well as providing the voices to characters Mudbank McGee (singer of Jambalaya) along with the Scatbird, Louie Wails was voiced by [https://en.wikipedia.org/wiki/Lewis_Arquette Lewis Arquette], and Beth Lawrence brought the voice to the character that sings Proud Mary. The animatronics were produced by Creative Presentations Inc. This show’s premise was the musical hits of Saint Louis performed by a large cast of birds.<ref>https://youtu.be/3ZllmEWgUoQ</ref>
+The Saint Louis River Revue is a show created by Landmark Entertainment Group for the SS Admiral entertainment complex, owned by Six Flags at the time. It was located in the Birdland Theater, which was created for this show. Ted King produced this soundtrack as well as providing the voices to characters Mudbank McGee (singer of Jambalaya) along with the Scatbird, Louie Wails was voiced by [https:<i>en.wikipedia.org/wiki/Lewis_Arquette Lewis Arquette], and Beth Lawrence brought the voice to the character that sings Proud Mary. The animatronics were produced by Creative Presentations Inc. This show’s premise was the musical hits of Saint Louis performed by a large cast of birds.<ref>https:</i>youtu.be/3ZllmEWgUoQ</ref>
 
-## Characters ##
+<h2> Characters </h2>
 
-### Louis Wails ###
+<h2>= Louis Wails </h2>=
 The leader of the show. They stood on the right stage and played the trumpet.
 
-### Dr. Tweet ###
+<h2>= Dr. Tweet </h2>=
 Leader of Dr. Tweet's Birdland Band. They were on the middle stage and played the trombone.
 
-### Tom Tom Tommy ###
+<h2>= Tom Tom Tommy </h2>=
 Tom Tom Tommy was the drummer of the Birdland Band, sitting in the middle stage.
 
-### Little Jimmy ###
+<h2>= Little Jimmy </h2>=
 Little Jimmy was the clarinet player of the Birdland Band, sitting on middle stage.
 
-### Hot Licks Hansen ###
+<h2>= Hot Licks Hansen </h2>=
 Hot Licks Hansen was the piano player of the Birdland Band, playing on the middle stage.
 
-### Mudbank McGee ###
+<h2>= Mudbank McGee </h2>=
 Mudbank McGee played the banjo and sang 'Jambalaya' before being yelled at by his wife off stage.
 
-### The Chickadees ###
+<h2>= The Chickadees </h2>=
 Three white birds similar to the Sun Bonnets from the Country Bear Jamboree. Towards the end of the show 3 smaller ones also pop up that look similar to them.
 
-### Dominique Dubois ###
+<h2>= Dominique Dubois </h2>=
 Dubois stood on the left stage and would sing Proud Mary at the end of the show. They are also a parody of Tina Turner.
 
-### Scatbird ###
+<h2>= Scatbird </h2>=
 Scatbird pops out of the proscenium of the Birdland Theater to interrupt the show a lot, and also to sing 'Scat Singin's Where It's At'.
 
-### Charlie Shades ###
+<h2>= Charlie Shades </h2>=
 Charlie Shades stood on the left stage and sang 'Minnie The Moocher'
 
-## Scrapped Characters ##
+<h2> Scrapped Characters </h2>
 
-### Benny Beak ###
+<h2>= Benny Beak </h2>=
 Benny Beak would have been the trombone player of the Birdland Band, likely making Dr. Tweet play the trumpet.
 
-### Unnamed Turkey Lady ###
+<h2>= Unnamed Turkey Lady </h2>=
 Not much info is available, but they were likely similar to Fifi La Mue from The Great Texas Longhorn Revue.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -69,5 +69,5 @@ Not much info is available, but they were likely similar to Fifi La Mue from The
 
 
 
-## References ##
+<h2> References </h2>
 https://youtu.be/b_L3v3LnhPk?t=242

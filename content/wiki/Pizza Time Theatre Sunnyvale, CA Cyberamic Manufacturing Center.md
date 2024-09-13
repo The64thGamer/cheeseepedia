@@ -12,4 +12,4 @@ TODO:
 
 310 Carribean Drive, Sunnyvale, CA<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf</ref>
 
-## References ##
+<h2> References </h2>

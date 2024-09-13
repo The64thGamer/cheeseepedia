@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-08-17T13:24:12Z
 
 [Article]
+pageThumbnailFile = "girardeaucec.jpg|The Showbiz Pizza/Chuck E. Cheese's as a Goodwill, taken before a massive exterior renovation. (PC: Foursquare)"
 contributors = ["Midwestretail"]
 gallery = []
 +++
-{{Generic|image=girardeaucec.jpg|desc=The Showbiz Pizza/Chuck E. Cheese's as a Goodwill, taken before a massive exterior renovation. (PC: Foursquare)}}
 
-**_250 S Silver Springs Rd**_ was a _Showbiz Pizza Place/Chuck E. Cheese's_ that opened on July 1st, 1983 with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}), and closed in 1998 (day and month unknown) with a 3-Stage. This was one of 17 Showbiz Pizza stores in Missouri, and one of many to get Concept Unification in the early 1990s. It was located in an unnamed shopping center.
 
-##Stages##
+<b><i>250 S Silver Springs Rd</b></i> was a <i>Showbiz Pizza Place/Chuck E. Cheese's</i> that opened on July 1st, 1983 with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}), and closed in 1998 (day and month unknown) with a 3-Stage. This was one of 17 Showbiz Pizza stores in Missouri, and one of many to get Concept Unification in the early 1990s. It was located in an unnamed shopping center.
+
+<h2>Stages</h2>
 This store opened on July 1st, 1983 with a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) and the Rock-afire Explosion. They would get Concept Unification in the early 1990s, and would keep the converted 3-Stage until it was removed when they closed in 1998.
 
-##History##
+<h2>History</h2>
 This store had it's grand opening on July 1st, 1983 as the 12th Showbiz Pizza Place in Missouri to open. This store opened with most features, decorations, and style the other stores in the state had. They had a [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) with the Rock-afire Explosion on the stage. Little information on the Rock-afire at this store has been found, as with this store in itself.
 
 Cape Girardeau would get [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) sometime between 1990-1992, and would convert the [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}) into the 3-Stage with new cosmetics, fixtures, and Munch's Make Believe Band. Not much information exists of this era either.
@@ -25,7 +26,7 @@ This store would close permanently without warning in 1998, and they would later
 
 TODO
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

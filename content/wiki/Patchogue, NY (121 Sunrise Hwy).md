@@ -5,33 +5,34 @@ tags = ["Store List"]
 date = 2024-07-09T04:59:18Z
 
 [Article]
+pageThumbnailFile = "2023-09-16.jpg|thumb"
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
 gallery = []
 +++
-{{Generic|image=2023-09-16.jpg|thumb|381x381px|desc=The Patchogue, NY location in 2023.<ref>Google Maps user-uploaded content, picture taken by CEC BUT IN NY.</ref> (PC: CEC BUT IN NY)}}
 
-**_Patchogue, NY (121 Sunrise Hwy), Store #496,**_ is a _Chuck E. Cheese_ that opened on March 29, 1993 and is still in operation to this very day.
 
-##History##
-### 1987-1994 ###
+<b><i>Patchogue, NY (121 Sunrise Hwy), Store #496,</b></i> is a <i>Chuck E. Cheese</i> that opened on March 29, 1993 and is still in operation to this very day.
 
-After the closures of Commack, NY (6137 Jericho Turnpike) in 1987 and [Levittown, NY (3046 Hempstead Turnpike)]({{< ref "wiki/Levittown, NY (3046 Hempstead Turnpike).md" >}}) in 1989, the Patchogue location was the first to open on Long Island as a _Chuck E. Cheese's_ location with post-[Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) branding. 
+<h2>History</h2>
+<h2>= 1987-1994 </h2>=
+
+After the closures of Commack, NY (6137 Jericho Turnpike) in 1987 and [Levittown, NY (3046 Hempstead Turnpike)]({{< ref "wiki/Levittown, NY (3046 Hempstead Turnpike).md" >}}) in 1989, the Patchogue location was the first to open on Long Island as a <i>Chuck E. Cheese's</i> location with post-[Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) branding. 
 
 The Patchogue location opened with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and was decorated in line with the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). Based on home videos and images of the location in the 1990s and early 2000s, it is believed that the store had not fully utilized the whole footprint of the location -- the building was not built to specification as some company-owned locations were and was previously another restaurant <ref>https://www.newspapers.com/article/newsday-nassau-edition-patchogue-cec/141181115/</ref>. 
 
 Upon entering, games could be seen to the left and right, with the entrance in the center. Based on home video footage, the games on the left side included air hockey and a Skee-Ball setup <ref>https://www.youtube.com/watch?v=lSmh1V2Yevs</ref>. The showroom was on the right side, towards the back, as was standard. However, in comparison to modern day, the showroom is artificially pushed forward and was flush with the existing bathrooms; the games collection in front was smaller as a result, to accommodate for showroom walls and balcony seating. 
 
-### 2004-2023 ###
+<h2>= 2004-2023 </h2>=
 
 Sometime between 2004 and 2005, the showroom was dismantled and relocated to the left side of the entrance with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) replacing the existing stage. The location received games and decor from [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}), and also updated the prize area, service counter, salad bar, and beverage station with modern fixtures for the period. At this point, the gameroom expanded into the original showroom and was also pushed back farther into the unused space, wrapping around the bathrooms. A similar renovation occurred at the [Commack, NY (2115 Jericho Turnpike)]({{< ref "wiki/Commack, NY (2115 Jericho Turnpike).md" >}}) location around the same time, but without an expansion.  
 
 The location remained mostly untouched until the rollout of the CEC 2015 Update Program. For an extended period before the update (from at least 2012), the location did not have awnings. Additionally, an image from 2012 (before the removal) reveals that the location did have tiles across the facade. The sign on the right-hand side of the building included the word 'Pizza' until the update. 
 
-### 2.0 Remodel###
+<h2>= 2.0 Remodel</h2>=
 
 on August 21st 2023 The store began its [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) update and received the 2019 model of the [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}). Notably, the showroom has been relocated back to where it was originally. In May 2024, the store received the Trampoline Zone to replace booths and Kiddie games it was placed in the back wall of the Toddler Zone where the former 'Studio C' Stage was.
 
-##Stages ##
+<h2>Stages </h2>
 This location opened with a 2-Stage show. In the early 2000's, the showroom was relocated from the back right-hand corner of the restaurant to the left-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a Studio C Beta. In September 2023, the show was removed replaced by the 2019 Model of the Chuck E. Live Stage (Dance Floor).
 {| class='wikitable'
 !Stage
@@ -59,7 +60,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 |Still in use
 |2021 Model
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -72,7 +73,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 |1992/1993
 |Unknown
 |-
-|Guest Star / Helen Henny (Cyberamic) (Helen Henny (**Cyberamic**))
+|Guest Star / Helen Henny (Cyberamic) (Helen Henny (<b>Cyberamic</b>))
 |Unknown
 |1992/1993
 |Unknown
@@ -103,9 +104,9 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 |Destroyed
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 * Carnival Cups
 * Power Drop
 * Lumber Jack
@@ -159,7 +160,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 * Snow Cross (2 units)
 * Fast N Furious Super Cars (2 units)
 
-### Coin-Action ###
+<h2>= Coin-Action </h2>=
 * Birthday Party
 * Winner's Wheel
 * Intermission
@@ -167,7 +168,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 * Golden Empire
 * Roll for Gold 2
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Wild Boat
 * Alien Patrol
@@ -186,7 +187,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 * Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 * Bike Rally
 
-#### Videos ####
+<h2>== Videos </h2>==
 {| class='wikitable'
 !Link
 !Description
@@ -212,6 +213,6 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 
 
 
-##References##
+<h2>References</h2>
 
 <references />

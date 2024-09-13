@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2024-04-07T23:03:58Z
 
 [Article]
+pageThumbnailFile = "CEC EXTERIOR BEFORE CLOSURE.png|Exterior, 2017"
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=CEC EXTERIOR BEFORE CLOSURE.png|desc=Exterior, 2017}}**_8 Orange Plaza Lane**_ was a _Chuck E. Cheese's_ that opened on December 17, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and closed on October 22, 2017 due to leasing issues.<ref> https://dailyvoice.com/new-york/northorange/news/chuck-e-cheese-in-wallkill-set-to-close-sunday/724569/</ref><ref> https://www.recordonline.com/story/business/2017/10/18/chuck-e-cheese-s-closing/18263962007/</ref>
+<b><i>8 Orange Plaza Lane</b></i> was a <i>Chuck E. Cheese's</i> that opened on December 17, 2002 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and closed on October 22, 2017 due to leasing issues.<ref> https:<i>dailyvoice.com/new-york/northorange/news/chuck-e-cheese-in-wallkill-set-to-close-sunday/724569/</ref><ref> https:</i>www.recordonline.com/story/business/2017/10/18/chuck-e-cheese-s-closing/18263962007/</ref>
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -23,10 +24,10 @@ gallery = []
 |Single Screen Beta
 |}
 
-##History##
+<h2>History</h2>
 TODO
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 Not all Arcade Machines present in this store have been identified.
 * Marshmellow Spinning Cup
 * Horse Ride
@@ -38,7 +39,7 @@ Not all Arcade Machines present in this store have been identified.
 * Johnny Apple Speed
 * Photo Ride With Chuck E Cheese
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -59,7 +60,7 @@ Not all Arcade Machines present in this store have been identified.
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 TODO
 
-##References##
+<h2>References</h2>

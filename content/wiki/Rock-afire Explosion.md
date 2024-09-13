@@ -5,19 +5,20 @@ tags = ["Animatronic Shows"]
 date = 2024-08-03T17:34:34Z
 
 [Article]
+pageThumbnailFile = "RockafireclassicHDscan.png|Show Stage (Unknown Year)"
 contributors = ["The 64th Gamer","Newbie editor","CECMentor","Stripes"]
 gallery = []
 +++
-{{Generic|image=RockafireclassicHDscan.png|desc=Show Stage (Unknown Year)}}
 
-The **_Rock-afire Explosion**_ was an animatronic show created by [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) for [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) from 1980 to 1983, which would be used in its restaurants until ShowBiz Pizza Time started [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) from 1990 to 1992.
+
+The <b><i>Rock-afire Explosion</b></i> was an animatronic show created by [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) for [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) from 1980 to 1983, which would be used in its restaurants until ShowBiz Pizza Time started [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) from 1990 to 1992.
 
 Most remaining Rock-afire shows were turned into Chuck E. Cheese 3-Stage (3-Stages), which are also being dwindled down due to the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).Creative Engineering would continue to use its spare shows to sell to family entertainment centers as-is, [retrofitted]({{< ref "wiki/Moonrockers.md" >}}), or with new additions such as video and karaoke throughout the 80's and 90's.
 
-## History ##
+<h2> History </h2>
 The Rock-afire Explosion would first be developed in April of 1980, before debuting at the [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) on August 14th of that year. The characters were based off the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) animatronic show Creative Engineering had previously developed.
 
-## Operational Rock-afire Explosion Shows ##
+<h2> Operational Rock-afire Explosion Shows </h2>
 {| class='wikitable'
 !Place
 !Address

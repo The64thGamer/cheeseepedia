@@ -8,11 +8,11 @@ date = 2024-07-14T03:36:06Z
 contributors = ["ChuckECool","Rexburg090","Chuckstar69","CEC Tinley","SuperCreamPiper2008","Jaxonia"]
 gallery = []
 +++
-**_6817 NW Expressway (Store #889),**_ also known as 'Expressway' was a _Showbiz Pizza Place_ that opened on January 27, 1982, with a Rock-Afire Explosion and is still open to this day.
-##History##
+<b><i>6817 NW Expressway (Store #889),</b></i> also known as 'Expressway' was a <i>Showbiz Pizza Place</i> that opened on January 27, 1982, with a Rock-Afire Explosion and is still open to this day.
+<h2>History</h2>
 Oklahoma City (Expressway) opened on January 27th, 1982, with a Rock-Afire Explosion stage. This was the 3rd Showbiz Pizza Place in Oklahoma (After [Tulsa]({{< ref "wiki/Tulsa, OK (7108 S Memorial Dr).md" >}}) & the [Walker (Towne South)]({{< ref "wiki/Oklahoma City, OK (7605 S Walker Ave).md" >}}) location). Oklahoma City (Expressway) would then receive the 1988 remodel remodeling the exterior, and removing older SPP decor for newer decor, and the change to the Billy Bob stage. In 1991, Oklahoma City (Expressway) would receive Concept Unification which removed all SPP decor for CEC decor, an exterior change now saying, 'Chuck E. Cheese's Pizza', and the conversion of the Rock-Afire Explosion for the 3-Stage. In the Mid-90's, the older decor was removed for newer decor. In the Late 90's, Oklahoma City (Expressway) received the Phase 2 remodel removing the older 90's decor, adding newer decor, and the addition of SkyTubes. In 2006, Oklahoma City (Expressway) received the 2005 Phase 4 remodel removing all older decor including Record Posters, and the addition of newer decor, another exterior remodel, and the removal of the 3-Stage for the Studio C Beta, 16m. They also expanded the store during this remodel. At some point between 2010-2011, Oklahoma City (Expressway) would expand again to fit in more games and tables. Oklahoma City (Expressway) would remain like this until the Fall of 2021 when they received the 2.0 remodel and removed all Phase 4 artwork for 2.0 artwork, another exterior change, and the removal of the Studio C Beta for the Dance Floor and Video Wall. Currently, as of March 2023, the location still has the 2.0 remodel and the Dance Floor and Video Wall.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. Unfortunately, there are no exterior and interior photos or videos of Oklahoma City (Expressway) when it was Showbiz.
 
 In 2006, the 3-Stage was removed for the Studio C Beta stage.
@@ -47,7 +47,7 @@ In Fall 2021, the Studio C Beta was removed for the Dance Floor and Video Wall.
 |}
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -112,7 +112,7 @@ In Fall 2021, the Studio C Beta was removed for the Dance Floor and Video Wall.
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link

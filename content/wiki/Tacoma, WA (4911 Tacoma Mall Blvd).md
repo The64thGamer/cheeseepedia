@@ -9,8 +9,8 @@ contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","Chu
 gallery = ["Tacoma, WA.jpg|thumb|Tacoma's exterior in Fall 2018. (PC: Google Maps)"]
 +++
 
-**_4911 Tacoma Mall Blvd, Store #3154/626**_ was a _Pizza Time Theatre_ that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade. It is located right across from the Tacoma Mall.
-##Stages##
+<b><i>4911 Tacoma Mall Blvd, Store #3154/626</b></i> was a <i>Pizza Time Theatre</i> that opened in November 1983 (day unknown) with a Balcony show. This store was known as the last Chuck E. Cheese to house a Chuck E.'s House Facade. It is located right across from the Tacoma Mall.
+<h2>Stages</h2>
 They originally had a Balcony Stage when first opening, but later in the 1989/1990 they would remodel for the first time and receive the Chuck E.'s House Facade. Helen's cosmetics were replaced by 1992, around the same time, Chuck E's vest and Derby was replaced with the Tuxedo & Derby. They would still have that stage even when remodeling in the late 90's until 2003 when it was replaced by the Studio C 2000 16m. They would keep this even when remodeling to the 2005 remodel in 2011 until June 2022 when they would receive the 2.0 remodel, removing the Studio C 2000 for a Dance Floor and Video Wall.
 {| class='wikitable'
 !Stage
@@ -39,9 +39,9 @@ They originally had a Balcony Stage when first opening, but later in the 1989/19
 |Second Dance Floor installed in Washington state. 2021 Model.
 |}
 
-##History##
+<h2>History</h2>
 Tacoma opened in November 1983 near the Tacoma Mall with a Balcony Stage and as a franchised location. There are no photos of its exterior as a PTT, but they did have a Chuck E. Cheese statue inside the giant capsule like [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}) and it spun around in circles. They then remodeled to the 1988 Remodel in 1989 or 1990 when they received Chuck E.'s House Facade stage and removed old PTT decor and artwork. They remodeled again in the Mid to Late 90's adding the Skytubes, removing old 90's decor for new ones, and a change to the exterior. Strangely, they kept the Chuck E.'s House Facade stage. Then they remodeled again [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) in 2003 which involved the removal of the Chuck E.'s House Facade stage for the Studio C 2000 stage, removed older decor and added new decor. They remained that way until 2011 when they received the 2005 remodel when they removed the Showroom Walls, Balcony Seating, the Chuck E. Cheese's text on the side exterior and the Chuck E. Cheese logo on the giant capsule. Before their 2005 remodel in 2011, they were bought by the corporate on July 5th, 2010, along with [Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}). They would remain this way until June 2022 they would receive the 2.0 remodel, removing the Beta for the Dance Floor and Video Wall. Currently, as of January 2023, they still have the 2.0 remodel and the Dance Floor and Video Wall.
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -54,7 +54,7 @@ Tacoma opened in November 1983 near the Tacoma Mall with a Balcony Stage and as 
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic

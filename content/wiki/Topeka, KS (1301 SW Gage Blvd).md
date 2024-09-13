@@ -5,31 +5,32 @@ tags = ["Store List"]
 date = 2024-08-16T12:43:44Z
 
 [Article]
+pageThumbnailFile = "Topeka_Bobs.jpg|Bob Brock and the Billy Bob mascot character outside of the Topeka Showbiz Pizza."
 contributors = ["RedaCEC","173.216.33.6","64.125.60.2","CEC Tinley","SuperCreamPiper2008","CoolerDude","The 64th Gamer","BurgersNuggs445"]
 gallery = [":Hotair.png"]
 +++
-{{Generic|image=Topeka_Bobs.jpg|desc=Bob Brock and the Billy Bob mascot character outside of the Topeka Showbiz Pizza.}}
 
-**_Topeka, KS (1301 SW Gage Blvd)**_ was a Showbiz Pizza Place that opened on December 1st, 1980 as the second store in Kansas, and closed between 1985 and 1986.
+
+<b><i>Topeka, KS (1301 SW Gage Blvd)</b></i> was a Showbiz Pizza Place that opened on December 1st, 1980 as the second store in Kansas, and closed between 1985 and 1986.
 
 The location opened as a franchise, likely under the ownership of Topeka Inn Management, but was later acquired by SPP on February 25, 1985.
 
-## Stage ##
+<h2> Stage </h2>
 The Topeka Showbiz Pizza was the 6th store to receive the in-development (Beta) variant of the [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) show.  
 
 After the closure, the animatronics were sold off in an auction and later repurchased by Creative Engineering. 
-## History ##
+<h2> History </h2>
 In 1984 this Showbiz Pizza, among others, received a 'Noteworthy' rating on their second quarter (1984) quality assurance evaluations.<ref>https://showbizpizza.com/info/documents/spp/spp_bulletin04.pdf</ref>
 
 It is also worth noting that the Billy Bob hot air balloon may have visited this Showbiz during its heyday.<ref></ref><ref>http://ltairway.com/fleet.htm</ref> 
 
 Between the years of 1985 and 1986, this Showbiz Pizza permanently closed and the building would be occupied by several different businesses over the years, the last of which being Sun Resorts Tanning and Fitness<ref>https://maps.app.goo.gl/Fkur2DWRY8DwdLrC9</ref>.   
 
-A more notable tenant of the former Showbiz, 'The Vintage', was popular among local politicians and was the unfortunate site of a fight between [https://en.wikipedia.org/wiki/Westboro_Baptist_Church Westboro Baptist Church] and counter protesters over the hiring of a gay waitress in the mid 1990s. <ref>https://www.ksnt.com/news/local-news/crews-tearing-down-former-vintage-restaurant-for-1-25m-gas-station-project/</ref><ref name=':0'>https://www.ksnt.com/news/local-news/remember-the-vintage-city-votes-to-tear-the-now-vacant-building-down/1639596204/</ref>  
+A more notable tenant of the former Showbiz, 'The Vintage', was popular among local politicians and was the unfortunate site of a fight between [https:<i>en.wikipedia.org/wiki/Westboro_Baptist_Church Westboro Baptist Church] and counter protesters over the hiring of a gay waitress in the mid 1990s. <ref>https:</i>www.ksnt.com/news/local-news/crews-tearing-down-former-vintage-restaurant-for-1-25m-gas-station-project/</ref><ref name=':0'>https://www.ksnt.com/news/local-news/remember-the-vintage-city-votes-to-tear-the-now-vacant-building-down/1639596204/</ref>  
 
 The building was unanimously voted on by the city to be demolished in 2018, and two years later, between April and June of 2020, a majority of the building was demolished. As of current, an Amoco gas station is now in the place of the former Showbiz Pizza Place.<ref name=':0' /><ref>https://maps.app.goo.gl/8LDaHHArJXmbV31P9</ref>
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 Machines identified in [https://www.showbizpizza.com/info/promo/spp/spp_81franchise.pdf 1981 Franchise brochure]
 
 * Whack-A-Mole
@@ -51,7 +52,7 @@ Additional Machines identified in [https://www.youtube.com/watch?v=5_nqw97cCN4 O
 * [https://www.arcade-museum.com/Videogame/frogger Frogger]
 * Billy Bob Merry Go Round
 
-## Video ##
+<h2> Video </h2>
 {| class='wikitable'
 |+
 !Link
@@ -66,7 +67,7 @@ Additional Machines identified in [https://www.youtube.com/watch?v=5_nqw97cCN4 O
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -117,4 +118,4 @@ Additional Machines identified in [https://www.youtube.com/watch?v=5_nqw97cCN4 O
 |Unknown
 |}
 
-## References ##
+<h2> References </h2>

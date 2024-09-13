@@ -18,58 +18,58 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 1 2021**_ also known as the 'Evergreen show' is the generic show released November 1st 2021 featuring a variety of songs released from 2016-2019
+<b><i>Show 1 2021</b></i> also known as the 'Evergreen show' is the generic show released November 1st 2021 featuring a variety of songs released from 2016-2019
 
 This was created with the idea to play between promotional events. This show features 8 Songs and an update to the 'Social Distancing Safety Message' 
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Social Distancing Safety Message
 ##Juicebox Jukebox - “The ABC’s of You”
 ##KIDZ BOP Kids - “Say So”
-#**Skit 1**
+#<b>Skit 1</b>
 ##Chuck E. Cheese - “Another Chuck E. Day”
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Katy Perry - “Never Really Over”
 ##Ben Rudnick  - “I Got a New Friend”
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. & Friends - “Ves Al Ratoncito”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Social Distancing Safety Message
 ##The Whizpops! - “Sea Turtle”
 ##KIDZ BOP Kids - “The Git Up”
-#**Skit 3**
+#<b>Skit 3</b>
 ##Jasper T. Jowls - “The Tail of Jasper T.”
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Zedd, Maren Morris, Grey - “The Middle”
 ##Jokes from Pasqually - “Anchor”
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E. Cheese - 'Lend a Helping Hand'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Social Distancing Safety Message
 ##Juicebox Jukebox - “Clean it Up”
 ##KIDZ BOP Kids - “Blinding Lights”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E. Cheese - 'Let's Have a Party'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Kelly Rowland - “Crown”
 ##Musing with Mr. Munch Ep1
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. & Friends - 'My Family'
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Social Distancing Safety Message
 ##Rockalingua - “Las Partes Del Cuerpo”
 ##KIDZ BOP Kids - “Wings”
-#**Skit 7**
+#<b>Skit 7</b>
 ##Pasqually & A Giant Armadillo Named, Phil - “Chuck E. World”
-#**Intermission 8**
+#<b>Intermission 8</b>
 ##Danny Weinkauf - “The Moon is Made of Cheese”
 ##Pink Panda - “People (Get Together)”
-#**Skit 8**
+#<b>Skit 8</b>
 ##DJ Munch - 'DJ Munch'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 #Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 #Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -79,6 +79,6 @@ This was created with the idea to play between promotional events. This show fea
 #Me & My Friends (New Countdown) (Studio C, Weigl)
 #Easy Dance (New Countdown) (Studio C, Weigl)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 The update to the 'Social Distancing Safety Message' only adds a section about face coverings.
-##Showtape Scans / Images: ##
+<h2>Showtape Scans / Images: </h2>

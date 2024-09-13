@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2023-11-01T04:25:39Z
 
 [Article]
+pageThumbnailFile = "Rockville.jpg|Rockville's exterior in Summer 2016. PC: Frey Sure on Google Maps"
 contributors = ["ChuckEPediaIsTheBest!","Rexburg090","Cecnj98","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=Rockville.jpg|desc=Rockville's exterior in Summer 2016. PC: Frey Sure on Google Maps}}
-**_5270 Randolph Road, Store #531**_ was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on August 20, 2002 with a [Studio C Beta, 32M]({{< ref "wiki/Studio C Beta.md" >}}) and closed on October 29th, 2023
+
+<b><i>5270 Randolph Road, Store #531</b></i> was a [Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}}) that opened on August 20, 2002 with a [Studio C Beta, 32M]({{< ref "wiki/Studio C Beta.md" >}}) and closed on October 29th, 2023
 
 This is not to be confused with the [Rockville, MD (855 Rockville Pike)]({{< ref "wiki/Rockville, MD (855 Rockville Pike).md" >}}) Pizza Time Theatre which opened in May 1981 and closed in 1985 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
-## History ##
+<h2> History </h2>
 Rockville opened on August 20, 2002 with a 32 movement Studio C 2000. They were the second Maryland CEC to open with Studio C. They received the [Phase 3 (2000)]({{< ref "wiki/Phase 3 (2000).md" >}}) remodel and installed fluorescent lighting in 2011. They were rumored to be relocating in 2022 to the other side of the shopping plaza for a bigger space but plans were canceled. In March 2023, it was announced that they would relocate to [5238 Nicholson Ln]({{< ref "wiki/Kensington, MD (5238 Nicholson Ln).md" >}}), which the store would eventually close on October 29th, 2023
 
-## Stages ##
+<h2> Stages </h2>
 Rockville opened with a 32 movement bot Studio C 2000 (Studio C) . Just like Frederick, MD, this Beta has one screen instead of the usual three screen Beta. Chuck wore the cool chuck outfit with the red cap, blue shirt and khakis until the late 2000's when he received the avenger outfit. Chuck E's cap was removed in late 2013 for the new rockstar look and he received jeans in August 2017. They also removed the CRT TV and lighting above in 2018. The stage was removed in October 2023 in favor of the store’s closure.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -35,7 +36,7 @@ Rockville opened with a 32 movement bot Studio C 2000 (Studio C) . Just like Fre
 |Unknown
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

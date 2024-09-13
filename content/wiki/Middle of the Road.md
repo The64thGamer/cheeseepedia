@@ -12,34 +12,34 @@ gallery = []
 |date=1984
 |showbizreel=y}}
 
-**_Middle of the Road**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1984.
-##Segment List##
-#**Segment 1**
+<b><i>Middle of the Road</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1984.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Jump
-#**Segment 2**
+#<b>Segment 2</b>
 ##I Want a New Drug
-#**Segment 3**
+#<b>Segment 3</b>
 ##Safety Dance
-#**Segment 4**
+#<b>Segment 4</b>
 ##No More Words
-#**Segment 5**
+#<b>Segment 5</b>
 ##Beat It!
-#**Segment 6**
+#<b>Segment 6</b>
 ##Footloose
-#**Segment 7**
+#<b>Segment 7</b>
 ##Tomorrow
-#**Segment 8**
+#<b>Segment 8</b>
 ##Guitarzan
-#**Segment 9**
+#<b>Segment 9</b>
 ##Every Little Thing She Does is Magic
-#**Segment 10**
+#<b>Segment 10</b>
 ##Heartbroke
-#**Segment 11**
+#<b>Segment 11</b>
 ##You've Got a Lover
-#**Segment 12**
+#<b>Segment 12</b>
 ##Highway 40 Blues
-#**Segment 13**
+#<b>Segment 13</b>
 ##Islands in the Stream
-#**Segment 14**
+#<b>Segment 14</b>
 ##Girls Just Wanna Have Fun
-## Showtape Scans / Images##
+<h2> Showtape Scans / Images</h2>

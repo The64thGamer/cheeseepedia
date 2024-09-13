@@ -5,16 +5,17 @@ tags = ["Store Fixtures"]
 date = 2023-07-08T16:26:46Z
 
 [Article]
+pageThumbnailFile = "2005redticketsign.jpg|Red Ticket Sign"
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++
-{{Stub}} 
+ 
 
-{{Generic|image=2005redticketsign.jpg|desc=Red Ticket Sign}}
 
-**_The Red Ticket sign**_ was released in stores in 2005 alongside numerous other Avenger Chuck E. Cheese posters and signage. 
 
-## Appearance ##
+<b><i>The Red Ticket sign</b></i> was released in stores in 2005 alongside numerous other Avenger Chuck E. Cheese posters and signage. 
+
+<h2> Appearance </h2>
 The sign features Avenger Chuck E. Cheese in the middle of a red ticket that reads, 'EVERYONE'S A WINNER!' The Red Ticket sign is often paired with another, forming a sort of 'pyramid' that looks like bending tickets.
-## Size/Dimensions ##
+<h2> Size/Dimensions </h2>
 42 x 23 (Length, width in inches)

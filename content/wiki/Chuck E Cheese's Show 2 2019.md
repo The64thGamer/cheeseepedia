@@ -17,22 +17,22 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=Jh
 }}
-**_Chuck E. Cheese's Show 2 2019**_ released April 1, 2019
+<b><i>Chuck E. Cheese's Show 2 2019</b></i> released April 1, 2019
 
 This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 2 new songs and 2 reused. Plus a brand new live!
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD: 03/17/19 6:16pm - 6:20pm
-##Show List:##
+<h2>Show List:</h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Post Malone feat. Swea Lee - 'Sunflower'
 ## American Ninja Warrior Junior
 ## Kabillion - 'Oddbods'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  YouTube Promo 1
 ##  Alesso - 'Remedy'
 ##  Kabillion - 'Barbie'
@@ -40,9 +40,9 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
 ## Fun Facts With Chuck E. - 'Math'
 ##  Louis The Child With Max - 'Dear Sense'
 ##  Nina's World
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese & Friends - 'Fun!'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  YouTube Promo 2
 ##  Kabillion - 'Oddbods'
 ##  New Hope Club - 'Good Day'
@@ -50,21 +50,21 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
 ##  Jonas Blue, Liam Payne, Lennon Stella - 'Polaroid'
 ##  American Ninja Warrior Junior
 ##  Kit 'N Kate - 'The Big Bouquet'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  YouTube Promo 3
 ##  Switchfoot - 'All I Need'
 ## Counting Sheep
 ##  Kabillion - 'Barbie'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Helen Henny - 'Gamin' Time'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  YouTube Promo 4
 ## Zedd, Maren Morris, Grey - 'The Middle'
 ##  Tails of Friendship with Jasper T. Jowls
 
-##Lives:##
+<h2>Lives:</h2>
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 * Chuck E. Cha Cha (3stage, Cyberamic, Studio C,Weigl)
@@ -79,14 +79,14 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
 *Happy Dance (Spanish) (Studio C, Weigl)
 *Chuck E. Says (Studio C, Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=G1Qwq3V6_DM 'Ves Al Ratoncito' on YouTube]
 *[https://archive.org/details/unlistedcec/Laughter+Is+The+Best+Medicine+++Chuck+E.+Cheese+Songs.mp4 'Laughter Is The Best Medicine' on Archive.org]
 *[https://www.youtube.com/watch?v=R-WrVcUPauY 'Chuck E. Cha Cha' on YouTube]
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Fun!' is originally from Chuck E. Cheese's Show 3 2018 (Show 3 2018) and 'Gamin' Time is originally from Chuck E. Cheese's Show 3 2016 (Show 3 2016).
 * Chuck E. Cha Cha was filmed at Plano, TX

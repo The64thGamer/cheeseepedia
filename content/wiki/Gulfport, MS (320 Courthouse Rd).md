@@ -8,12 +8,12 @@ date = 2024-03-26T17:56:13Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{{Stub}} **_320 Courthouse Rd**_ was a _ShowBiz Pizza Place_ that opened on November 14th, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on June 30th, 1996 as a _Chuck E Cheese's Pizza_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+ <b><i>320 Courthouse Rd</b></i> was a <i>ShowBiz Pizza Place</i> that opened on November 14th, 1983 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on June 30th, 1996 as a <i>Chuck E Cheese's Pizza</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stages
 !Installed
@@ -31,7 +31,7 @@ TODO
 |Only 3-Stage in Missisippi.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

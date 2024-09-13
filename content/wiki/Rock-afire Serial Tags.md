@@ -5,26 +5,27 @@ tags = ["Animatronic Repair & Preservation"]
 date = 2023-12-13T18:44:44Z
 
 [Article]
+pageThumbnailFile = "Cei tag.jpg|Creative Engineering Serial Tag"
 contributors = ["The 64th Gamer","Nebbytales","Documentor","ShowbizMidwest"]
 gallery = ["Fffwfwfewfwewfeewf.jpg|thumb|412x412px|A Billy Bob Walkaround tag for the CEI edition, denoting the number '229'. Though likely a production number, CEI did not create the original walkaround line for Showbiz, making the number's meaning up for debate.","Jnkjnjn.png|thumb|316x316px|Prop Sticker"]
 +++
-{{Generic|image=Cei tag.jpg|desc=Creative Engineering Serial Tag}}
 
-The **_Rock-afire Serial Tag**_ is a metal tag with a serial code placed on all Rock-afire Explosion animatronics and electronics, which gives info on the piece and when it was produced. 
+
+The <b><i>Rock-afire Serial Tag</b></i> is a metal tag with a serial code placed on all Rock-afire Explosion animatronics and electronics, which gives info on the piece and when it was produced. 
 
 These tags are usually placed at the hips or near the feet of most animatronics. Fatz's keyboard has it placed on the back of the right leg. Beach Bear and Dook's tag is on the bottom frame base.
 
-## Serial Information ##
+<h2> Serial Information </h2>
 The main information is a set of numbers pressed into the metal, creating a four number serial code. Certain tags between 1980 and 1981 would additionally have a smaller print production number pressed, though usually being the only number on the tag. It is unclear what the production number means, as none of the ones uncovered line up with any sort of knowledge on animatronics or characters produced. Because of the closure of all Showbiz Pizza Place's, serial codes are now useful for tracking which store an animatronic came from, or identifying the ownership history of a particular bot.
 
 A Rock-afire serial code would look like this:
  10-81 12-16
 *The first number is the month the bot was produced. This is for the main robot frame, as cosmetics would usually take longer to produce. This is why dates on the tag and marks on the body shells/cosmetics can be mismatched.
 *The second number is the year of production.
-*The third number is the _serial key_, which would determine what type of animatronic or equipment the serial code is describing. In the case of the example above, this would be the serial key for Fatz's keyboard.
-*The fourth number would be the _batch number_ for that month. A batch refers to a single Rock-afire Explosion band, meaning each character would have the same batch number at any given store. Batches for a month were always in multiples of five, and would most commonly be produced in _January, April, July,_ and _October._
+*The third number is the <i>serial key</i>, which would determine what type of animatronic or equipment the serial code is describing. In the case of the example above, this would be the serial key for Fatz's keyboard.
+*The fourth number would be the <i>batch number</i> for that month. A batch refers to a single Rock-afire Explosion band, meaning each character would have the same batch number at any given store. Batches for a month were always in multiples of five, and would most commonly be produced in <i>January, April, July,</i> and <i>October.</i>
 
-## Serial Keys ##
+<h2> Serial Keys </h2>
 
 {| class='wikitable'
 !Serial Key
@@ -79,15 +80,15 @@ A Rock-afire serial code would look like this:
 |Billy Bob Walk-Around
 |}
 
-## Other Product Numbers ##
+<h2> Other Product Numbers </h2>
 Product Number on back of tree prop.Some props have a sticker placed on them denoting their production number. This does not give batch number or year info, though could be discerned through the context of its store and product number compared to other items. The text reads:
- **№ ______**
- **PROPERTY OF CREATIVE ENGINEERING, INC.**
+ <b>№ ______</b>
+ <b>PROPERTY OF CREATIVE ENGINEERING, INC.</b>
  This equipment is leased and owned by Creative Engineering,
  Inc., Orlando, FL 32801. It may not be sold, subleased or removed
  from premises where originally installed.
 
-## Batches ##
+<h2> Batches </h2>
 {| class='wikitable' style='text-align:center;'
 |-
 !Serial Code
@@ -204,7 +205,7 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |4-81 #-9
 | style='vertical-align:bottom; text-align:left;' |Tampa, FL (12707 Dale Mabry Hwy)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Miamisburg, OH (30 Prestige Place)]({{< ref "wiki/Miamisburg, OH (30 Prestige Place).md" >}})
 |-
 |4-81 #-11
@@ -363,7 +364,7 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |1-82 #-3
 | style='vertical-align:bottom; text-align:left;' |Tuscaloosa, AL (1335 McFarland Blvd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Atlanta, GA (2990 Cumberland Blvd)]({{< ref "wiki/Atlanta, GA (2990 Cumberland Blvd).md" >}})
 |-
 |1-82 #-9
@@ -516,13 +517,13 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |7-82 #-7
 | style='vertical-align:bottom; text-align:left;' |Albuquerque, NM (11016 Montgomery Blvd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Parkersburg, WV (3500 Murdoch Ave)]({{< ref "wiki/Parkersburg, WV (3500 Murdoch Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Montclair, CA (5060 E Montclair Plaza Lane)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Portage, MI (6700 S Westnedge Ave)
 |-
 |7-82 #-10
@@ -582,7 +583,7 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |10-82 #-4
 | style='vertical-align:bottom; text-align:left;' |[Springfield, MA (1716 Boston Rd)]({{< ref "wiki/Springfield, MA (1716 Boston Rd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Anderson, IN (845 E 53rd St)
 |-
 |7-82 #-18
@@ -594,100 +595,100 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |10-82 #-2
 | style='vertical-align:bottom; text-align:left;' |Mt. Prospect, IL (1500 S Elmhurst Rd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |West Seneca, NY (3525 Seneca St)
 |-
 |10-82 #-1
 | style='vertical-align:bottom; text-align:left;' |[Naperville, IL (1154 E Ogden Ave)]({{< ref "wiki/Naperville, IL (1154 E Ogden Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Hackensack, NJ (450 Hackensack Ave)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Normal, IL (1503 E College Ave)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Richmond, VA (???? Midlothian Turnpike)
 |-
 |4-82 #-10
 | style='vertical-align:bottom; text-align:left;' |[Visalia, CA (4345 W Noble Ave)]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Antioch, TN (5312 Hickory Hollow Lane)]({{< ref "wiki/Antioch, TN (5312 Hickory Hollow Lane).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Mary Esther, FL (321 Mary Esther Blvd)]({{< ref "wiki/Mary Esther, FL (321 Mary Esther Blvd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Logansport, IN (3900 E Market St)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Birmingham (Roebuck), AL (9325 Parkway East)]({{< ref "wiki/Birmingham, AL (9325 Parkway East).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Johnstown, PA (1523 Scalp Ave)]({{< ref "wiki/Johnstown, PA (1523 Scalp Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Appleton, WI (2424 W College Ave)]({{< ref "wiki/Appleton, WI (2424 W College Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Matteson, IL (106 Town Center Rd)]({{< ref "wiki/Matteson, IL (106 Town Center Rd).md" >}})
 |-
 |10-82 #-18
 | style='vertical-align:bottom; text-align:left;' |[Roanoke, VA (4059 Electric Rd)]({{< ref "wiki/Roanoke, VA (4059 Electric Rd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Cullman, AL (210 2nd Ave)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Grand Rapids, MI (3671 28th St)]({{< ref "wiki/Grand Rapids, MI (3671 28th St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Watchung, NJ (1515 US-22)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Joplin, MO (1230 E 7th St)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Myrtle Beach, SC (615 Lake Arrowhead Rd)]({{< ref "wiki/Myrtle Beach, SC (615 Lake Arrowhead Rd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Carrollton, TX (1927 E Belt Line Rd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Alexandria, LA (1725 Metro Dr)]({{< ref "wiki/Alexandria, LA (1725 Metro Dr).md" >}})
 |-
 |10-82 #-15
 | style='vertical-align:bottom; text-align:left;' |[Columbia, SC (1775 Burning Tree Dr)]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Cape Girardeau, MO (250 S Silver Springs Rd)]({{< ref "wiki/Cape Girardeau, MO (250 S Silver Springs Rd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Boise, ID (6255 Fairview Ave)]({{< ref "wiki/Boise, ID (6255 Fairview Ave).md" >}})
 |-
 |10-82 #-23
 | style='vertical-align:bottom; text-align:left;' |[Joliet, IL (1965 W Jefferson St)]({{< ref "wiki/Joliet, IL (1965 W Jefferson St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Fresno, CA (3117 W Shaw Ave)]({{< ref "wiki/Fresno, CA (3117 W Shaw Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Pleasant Hills, PA (593 Clairton Blvd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Escondido, CA (624 W Mission Ave)]({{< ref "wiki/Escondido, CA (624 W Mission Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Citrus Heights, CA (6251 Sunrise Blvd)]({{< ref "wiki/Citrus Heights, CA (6251 Sunrise Blvd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Memphis, TN (3268 Austin Peay Hwy)]({{< ref "wiki/Memphis, TN (3268 Austin Peay Hwy).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |New Orleans, LA (3071 Gentilly Blvd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Manhattan, KS (519 Richards Dr)]({{< ref "wiki/Manhattan, KS (519 Richards Dr).md" >}})
 |-
 |10-82 #-33
@@ -699,10 +700,10 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |10-82 #-29
 | style='vertical-align:bottom; text-align:left;' |[Orem, UT (40 E Center St)]({{< ref "wiki/Orem, UT (40 E Center St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Akron, OH (2511 Romig Rd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Albany, GA (2504 Archwood Dr)
 |-
 |10-82 #-35
@@ -711,37 +712,37 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |10-82 #-36
 | style='vertical-align:bottom; text-align:left;' |[Phoenix, AZ (8039 North 35th Ave)]({{< ref "wiki/Phoenix, AZ (8039 North 35th Ave).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Gulfport, MS (320 Courthouse Rd)]({{< ref "wiki/Gulfport, MS (320 Courthouse Rd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Virginia Beach, VA (2699 Lishelle Place)]({{< ref "wiki/Virginia Beach, VA (2699 Lishelle Place).md" >}})
 |-
 |1-83 #-2
 | style='vertical-align:bottom; text-align:left;' |[Altoona, PA (3415 Pleasant Valley Blvd)]({{< ref "wiki/Altoona, PA (3415 Pleasant Valley Blvd).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Lexington, KY (1555 New Circle Rd)]({{< ref "wiki/Lexington, KY (1555 New Circle Rd).md" >}})
 |-
 |1-82 #-12
 | style='vertical-align:bottom; text-align:left;' |[Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Fairfax, VA (9404 Main St)]({{< ref "wiki/Fairfax, VA (9404 Main St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Dothan, AL (3400 Ross Clark Circle)]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Yuma, AZ (305 W Catalina Dr)]({{< ref "wiki/Yuma, AZ (305 W Catalina Dr).md" >}})
 |-
 |1-83 #-5
 | style='vertical-align:bottom; text-align:left;' |[Fargo, ND (1202 Nodak Dr)]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Roseville, MN (2100 Snelling Ave)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Fairview Heights, IL (10850 Lincoln Trail)]({{< ref "wiki/Fairview Heights, IL (10850 Lincoln Trail).md" >}})
 |-
 |1-83 #-8
@@ -750,22 +751,22 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |1-82 #-1
 | style='vertical-align:bottom; text-align:left;' |[Wilmington, NC (4389 Oleander Dr)]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Hattiesburg, MS (6428 US 49)]({{< ref "wiki/Hattiesburg, MS (6428 US 49).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Sheffield, AL (4700 Hatch Blvd)]({{< ref "wiki/Sheffield, AL (4700 Hatch Blvd).md" >}})
 |-
 |1-83 #-10
 | style='vertical-align:bottom; text-align:left;' |[Billings, MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Miami, FL (19191 S Dixie Hwy)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Mesa (West), AZ (856 S Alma School Rd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |St. Joseph, MO (1617 Cross St)
 |-
 |1-83 #-12
@@ -777,10 +778,10 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |7-81 #-17
 | style='vertical-align:bottom; text-align:left;' |[Lafayette, LA (3221 Ambassador Caffery Pkwy)]({{< ref "wiki/Lafayette, LA (3221 Ambassador Caffery Pkwy).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Port Arthur, TX (3600 FM 365)]({{< ref "wiki/Port Arthur, TX (3600 FM 365).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Cherry Hill, NJ (1660 N Kings Hwy)]({{< ref "wiki/Cherry Hill, NJ (1660 N Kings Hwy).md" >}})
 |-
 |7-81 #-9
@@ -789,49 +790,49 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 |4-82 #-23
 | style='vertical-align:bottom; text-align:left;' |Surfside Beach, SC (900 US-17 BUS)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Owensboro, KY (4736 Frederica St)]({{< ref "wiki/Owensboro, KY (4736 Frederica St).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Johnson City, TN (3100 Bristol Hwy)]({{< ref "wiki/Johnson City, TN (3100 Bristol Hwy).md" >}})
 |-
 |1-82 #-26
 | style='vertical-align:bottom; text-align:left;' |Guatemala City, Guatemala
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Panama City, FL (4432 US-98)]({{< ref "wiki/Panama City, FL (4432 US-98).md" >}})
 |-
 |1-82 #-17
 | style='vertical-align:bottom; text-align:left;' |[Lynnwood, WA (3717 196th St Suite 100)]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Guadalajara, Mexico
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Satelite, Mexico City, Mexico
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Universidad, Mexico City, Mexico
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Huntington/Barboursville, WV (3419 US Rt. 60)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Waco, TX (5156 W Waco Dr)]({{< ref "wiki/Waco, TX (5156 W Waco Dr).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Clarksburg, WV (290 Emily Dr)
 |-
 |1-82 #-7
 | style='vertical-align:bottom; text-align:left;' |[Midfield, AL (34 Phillips Dr)]({{< ref "wiki/Midfield, AL (34 Phillips Dr).md" >}})
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |Seattle, WA (3605 34th St South)
 |-
 |1-81 #-2
 | style='vertical-align:bottom; text-align:left;' |Raleigh, NC (3501-131 Capitol Blvd)
 |-
-|**???**
+|<b>???</b>
 | style='vertical-align:bottom; text-align:left;' |[Fort Smith, AR (1200 S Waldron Rd #148)]({{< ref "wiki/Fort Smith, AR (1200 S Waldron Rd).md" >}})
 |-
 |4-82 #-23

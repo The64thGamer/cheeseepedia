@@ -8,23 +8,23 @@ date = 2023-08-07T01:54:11Z
 contributors = ["DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-{{Showtape|image=Jan93.png|date=January 1993|c&r=y|r12=y|cusvhs=y}}
 
-**January 1993 Show** was the show that released in January of 1993 at Chuck E. Cheese's locations.
 
-##Show List:##
+<b>January 1993 Show</b> was the show that released in January of 1993 at Chuck E. Cheese's locations.
 
-#**Intermission 1**
+<h2>Show List:</h2>
+
+#<b>Intermission 1</b>
 ##Geography Rap - Mexico
 ##3 Minute Countdown
 ##Birthday Star
 ##3 Minutes Till Next Show
 ##CEC TV News - Safety
 ##VJ Spot
-#** Segment 1**
+#<b> Segment 1</b>
 ##Soul Man
 ##Gimmie Some Lovin'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Goin' Sight Seein'
 ##6 Minute Countdown
 ##6 Minutes Till Next Show
@@ -33,10 +33,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##CEC TV '93 ID
 ##Helen Henny's Hollywood - New Kids On The Block
 ##VJ Spot
-#** Segment 2**
+#<b> Segment 2</b>
 ##Mountain Music
 ##Bingo
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##VJ Spot
 ##7 Minute Countdown
 ##7 Minutes Till Next Show
@@ -44,10 +44,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Guessing Game
 ##Home On The Range
 ##1 Minute Countdown
-#** Segment 3**
+#<b> Segment 3</b>
 ##Vamos A Bailar
 ##Get On Your Feet
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##[https://en.wikipedia.org/wiki/Itsy_Bitsy_Spider Little Richard - Itsy Bitsy Spider]
 ##8 Minutes Till Next Show
 ##CEC TV News - Triple A
@@ -57,10 +57,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##1 Minute Countdown
 ##CEC TV '93 ID
 ##VJ Spot
-#** Segment 1**
+#<b> Segment 1</b>
 ##Soul Man
 ##Gimmie Some Lovin'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##VJ Spot
 ##[https://en.wikipedia.org/wiki/Tomorrow_(A_Better_You,_Better_Me) Quincy Jones Featuring Tevin Campbell - Tomorrow (A Better You A Better Me)]
 ##Birthday Star
@@ -68,10 +68,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##3 Minutes Till Next Show
 ##Dem Bones
 ##VJ Spot
-#** Segment 2**
+#<b> Segment 2</b>
 ##Mountain Music
 ##Bingo
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##8 Minute Countdown
 ##8 Minutes Till Next Show
 ##What Do You Want To Bee?
@@ -80,9 +80,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##1 Minutes Till Next Show
 ##1 Minute Countdown
 ##CEC TV '93 ID
-#** Segment 3**
+#<b> Segment 3</b>
 ##Vamos A Bailar
 ##Get On Your Feet
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##My Good Name
 ##Tokens For Good Grades Promo

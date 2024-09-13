@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-08-01T22:30:56Z
 
 [Article]
+pageThumbnailFile = "Spokaneexterior2021oct.png|Exterior (October 2021)"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","CEC Tinley","Caydenpedia","The 64th Gamer","JND"]
 gallery = []
 +++
-{{Generic|image=Spokaneexterior2021oct.png|desc=Exterior (October 2021)}}
 
-**_10007 North Nevada Street, Store #202/#3167/#343**_ is a Chuck E. Cheese that opened in March 2000 with a Studio C Alpha, which is still open to this day.
+
+<b><i>10007 North Nevada Street, Store #202/#3167/#343</b></i> is a Chuck E. Cheese that opened in March 2000 with a Studio C Alpha, which is still open to this day.
 
 It is located across from the Northpointe Plaza Shopping Mall and is also the relocation of the [Spokane, WA (2301 W Wellesley Ave)]({{< ref "wiki/Spokane, WA (2301 W Wellesley Ave).md" >}}) which opened on April 14th, 1983, with a Balcony Stage and relocated in March 2000 with a 2-Stage.
 
 It is known as one of the two last Chuck E Cheese's (the other one being Toronto, Ontario (Toronto, Willowdale Ontario)) to still use the PTT decor as evident by the 80's Chuck E. on an octagonal glass frame which was brought over from the original Spokane location.
-##History##
+<h2>History</h2>
 Spokane opened in March 2000 with a Studio C Alpha and the Phase 3 Remodel. At some point in 2008-2009, Spokane received the 2005 remodel removing the Showroom Walls, removing older decor for newer decor, and relocating the stage. Currently, as of April 2023, the location still has the 2005 remodel and the Studio C Alpha stage. It is expected to receive the 2.0 Remodel sometime in the near future, most likely in 2024. As of now, Spokane is the last remaining Phase 3-themed Chuck E. Cheese location left operating in Washington State, after the permanent closure of the [Lynnwood, WA]({{< ref "wiki/Lynnwood, WA (3717 196th St Suite 100).md" >}}) location on July 23, 2023. It is rumored that they will save the PTT window.
-##Stages##
+<h2>Stages</h2>
 The store originally opened with a [https://cheeseepedia.org/wiki/Studio_C_(1997) Studio C (1997)], being the second Studio C stage in the state, and is one of 3 Alphas in the state of Washington.
 {| class='wikitable'
 |+
@@ -29,7 +30,7 @@ The store originally opened with a [https://cheeseepedia.org/wiki/Studio_C_(1997
 |March 2000
 |Still in Use
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -54,7 +55,7 @@ The store originally opened with a [https://cheeseepedia.org/wiki/Studio_C_(1997
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

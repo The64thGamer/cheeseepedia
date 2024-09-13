@@ -5,16 +5,17 @@ tags = ["Stage Variations"]
 date = 2024-09-05T23:57:41Z
 
 [Article]
+pageThumbnailFile = "rocker.png|The original Rocker Stage in Arlington, TX."
 contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowbizMidwest","216.125.34.66","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988"]
 gallery = []
 +++
-{{Generic|image=rocker.png|desc=The original Rocker Stage in Arlington, TX.}}
 
-**Chuck E.'s House,** also known as the **Rocker Stage,** was a Cyberamic stage setup that was installed in existing and new locations between 1987 and 1990.  
+
+<b>Chuck E.'s House,</b> also known as the <b>Rocker Stage,</b> was a Cyberamic stage setup that was installed in existing and new locations between 1987 and 1990.  
 
 It was the first stage that utilized full-bodied Chuck E, Helen, and Jasper Cyberamics. Meanwhile, Munch and Pasqually remained as half-bodied figures. It was also the first new CEC stage to be created after the 1985 Showbiz Pizza Time, Inc. merger and the Second to last stage to follow the Pizza Time Players format. 
 
-##History##
+<h2>History</h2>
 In 1986, new stage concepts were created to introduce full-bodied Cyberamics in Showbiz Pizza Time's current and future locations. The original premise was a general store that allowed for Chuck E, Jasper, and Helen to be given legs. Munch and Pasqually would be mounted upon barrels, not unlike the final product.<ref>http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</ref> This premise would eventually be retooled into a house structure, retaining the original Pizza Time Players character placements, and with the addition of foliage.  
 
 The stage was designed by SPT Director of Entertainment, Jul Kamen. Corman and Associates would fabricate the house in two sizes:   
@@ -30,7 +31,7 @@ In 1989, [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}})
 
 Since SPT had decided to streamline Cyberamic stages by introducing the Cyberamics Road Stage  (Road Stage), [2-Stage]({{< ref "wiki/2-Stage.md" >}}), and [1-Stage]({{< ref "wiki/1-Stage.md" >}}), it has led to the gradual removal of Rocker Stages over time. This could be due to these succeeding stages utilizing the Munch's Make Believe Band format under [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). The introduction of Studio C afterwards would also be a factor in Rocker Stage removals (but not as common). By 2008, only one Rocker Stage would remain, located at the Rockford, IL store. After 14 years of being the final installation left and after almost 34 years in total operation, Rockford's stage was ultimately removed on June 12, 2022 as part of the 2017 2.0 Remodel Program. 
 
-##Design ##
+<h2>Design </h2>
 The stage was designed to be a front of a house with a large porch in the center and a large roof overhead. Two windows would border the left and right sides of the porch. All installations included various pieces of foliage surrounding the house, with some even featuring animated butterflies and birds.
 
 On the porch, Chuck E, Helen, and Jasper would all be situated out front. Jasper sat in a rocking chair (where the Rocker nickname originated from) with Helen originally seated on a swing. When the 'Mitzi-fied' Helen redesign was rolled out during CU, stores that upgraded their Helen figures primarily switched her position to standing. This also meant the reinstatement of Helen's standard Cyberamic arm pieces, as they were absent to accommodate the swing feature.
@@ -39,12 +40,12 @@ Inside the two large windows were Munch on the left and Pasqually on the right. 
 
 Eventually, remaining Rockers would remove their foliage, vines, and Singing Flowers. This resulted in only the house itself and the main characters being left intact. These also may have endured repaints that were unique to certain installations, at times becoming drastically different from standard Rocker or House Façade color schemes.
 
-### Sizes ###
+<h2>= Sizes </h2>=
 The 12' Home was the largest of the two variants. Characteristics that were exclusive to this version included an American flag directly above Chuck E. (in certain installations), faux dormer windows above Helen and Jasper, as well as a tall stage height in general. These would mainly be installed in larger location types as a result. 
 
 The 10' 6' Home was the smallest of the two variants. The design was very similar to that of the 12' version, but with a small arch above Chuck E. and the absence of the faux dormer windows above Helen and Jasper. These were very common in locations, especially those that were of a smaller type.
 
-## Animatronics Used ##
+<h2> Animatronics Used </h2>
 
 * Chuck E Cheese (Cyberamic)
 * [Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -57,7 +58,7 @@ The 10' 6' Home was the smallest of the two variants. The design was very simila
 
 
 
-##Known Stages Installed##
+<h2>Known Stages Installed</h2>
 {| class='wikitable'
 !Location
 !Condition / Notes
@@ -195,5 +196,5 @@ The 10' 6' Home was the smallest of the two variants. The design was very simila
 |Early-Mid 1994
 |}
 
-## References ##
+<h2> References </h2>
 <references />

@@ -9,10 +9,10 @@ contributors = ["Documentor","The 64th Gamer","RPCEC Backup","ChuckECool","RedaC
 gallery = ["SharonvilleExterior2022.png|thumb|285x285px|Sharonville's Exterior (2023)"]
 +++
 
-**_Sharonville, OH (1429 E Kemper Rd) #738**_ originally opened up October 21, 1981 as a Showbiz Pizza Place<ref>https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</ref> and then closing its doors January 8, 1984.<ref>https://www.newspapers.com/article/the-cincinnati-post/121527379/</ref> The store would then re-open on September 8, 1992 as a Chuck E. Cheese's Pizza still open to this day now as a Chuck E. Cheese.<ref>https://www.newspapers.com/image/101812397/</ref> 
+<b><i>Sharonville, OH (1429 E Kemper Rd) #738</b></i> originally opened up October 21, 1981 as a Showbiz Pizza Place<ref>https:<i>www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</ref> and then closing its doors January 8, 1984.<ref>https:</i>www.newspapers.com/article/the-cincinnati-post/121527379/</ref> The store would then re-open on September 8, 1992 as a Chuck E. Cheese's Pizza still open to this day now as a Chuck E. Cheese.<ref>https://www.newspapers.com/image/101812397/</ref> 
 
-##Stages##
-The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on October 21, 1981. They would receive Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref><nowiki>https://www.newspapers.com/image/103319155/</nowiki></ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref><nowiki>https://www.newspapers.com/image/101720183/</nowiki></ref> On January 8, 1984 the store would cease operations removing the Rock-afire Explosion.   
+<h2>Stages</h2>
+The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on October 21, 1981. They would receive Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref><nowiki>https:<i>www.newspapers.com/image/103319155/</nowiki></ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref><nowiki>https:</i>www.newspapers.com/image/101720183/</nowiki></ref> On January 8, 1984 the store would cease operations removing the Rock-afire Explosion.   
 
 On September 8, 1992 the store would re-open as a Chuck E. Cheese's Pizza now featuring a 2-Stage  
 
@@ -58,8 +58,8 @@ On August 12, 2024 Sharonville would install [Video Wall]({{< ref "wiki/Video Wa
 |2021 Model
 |}  
 
-##History##
-The Sharonville, OH Showbiz Pizza Place opened up October 21, 1981 as the 1st Showbiz Pizza Store in Ohio. The store featured The Rock Afire Explosion, '60 New Games, Billy Bob's Oven-Fresh Pizza, Sandwiches, Salad Bar!' & more. <ref>https://www.newspapers.com/image/103183555/</ref> In 1982 apart of support for the Bengals getting into Super Bowl XVI Showbiz Pizza ran a promotion at Sharonville, OH & [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}).<ref>https://www.newspapers.com/image/100430208/?match=1</ref> The event would happen January 24th in which you'd watch the event on a 'Wide Screen TV' and also bring in cans of soup in return 'Four Free Game Tokens and the soup goes to charity'. 
+<h2>History</h2>
+The Sharonville, OH Showbiz Pizza Place opened up October 21, 1981 as the 1st Showbiz Pizza Store in Ohio. The store featured The Rock Afire Explosion, '60 New Games, Billy Bob's Oven-Fresh Pizza, Sandwiches, Salad Bar!' & more. <ref>https:<i>www.newspapers.com/image/103183555/</ref> In 1982 apart of support for the Bengals getting into Super Bowl XVI Showbiz Pizza ran a promotion at Sharonville, OH & [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}).<ref>https:</i>www.newspapers.com/image/100430208/?match=1</ref> The event would happen January 24th in which you'd watch the event on a 'Wide Screen TV' and also bring in cans of soup in return 'Four Free Game Tokens and the soup goes to charity'. 
 
 On January 8, 1984 the Showbiz Pizza Place would close as 'part of a series of 40 closings and sales designed to trim operations in 'over-saturated' markets.<ref>https://www.newspapers.com/article/the-cincinnati-post/121527379/</ref> 
 
@@ -67,7 +67,7 @@ In 1985 a night club named 'Sneaker's' (also known as Sneaker's Nite Club) would
 
 In 1987 'Sneakers of Cincinnati' would close due to failing to pay rent. An auction would be held on December 29, 1987 at 10:00am. Some of the items sold were 'Doors, rug, telephones, broken chairs, store bus, records, mike stand, sander, jars, heavy duty Sawz-all, 3 backgammon boards & dice, 2 malt makers, 18 unit locker, 4 chairs, volleyball, display cases, trivia pursuit game, 2 large rolls of drapery fabric'.<ref>https://www.newspapers.com/image/102188782/</ref>
 
-The property would sit vacant until January 1991 when the property would be put up for sale with it being advertised as **'TRI-COUNTY** 1429 E. Kemper, formerly Sneakers Nite Club, 10,000+ S.F. on 1.66 acres, F.F. & E. included Excellent retail opportunity in heart of Tri-County'.<ref>https://www.newspapers.com/image/103065384/?terms=%221429%20E%20Kemper%22%20&match=1</ref> later that year in August 1991 'Showbiz Pizza Time, Inc' would purchase the property for $675,000<ref>https://www.newspapers.com/image/102106249/?terms=%221429%20E%20Kemper%22%20&match=1</ref>
+The property would sit vacant until January 1991 when the property would be put up for sale with it being advertised as <b>'TRI-COUNTY</b> 1429 E. Kemper, formerly Sneakers Nite Club, 10,000+ S.F. on 1.66 acres, F.F. & E. included Excellent retail opportunity in heart of Tri-County'.<ref>https:<i>www.newspapers.com/image/103065384/?terms=%221429%20E%20Kemper%22%20&match=1</ref> later that year in August 1991 'Showbiz Pizza Time, Inc' would purchase the property for $675,000<ref>https:</i>www.newspapers.com/image/102106249/?terms=%221429%20E%20Kemper%22%20&match=1</ref>
 
 On September 8, 1992 the Sharonville, OH Chuck E. Cheese's Pizza would open. The store was one of the first to receive [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) and also obtain the [2-Stage]({{< ref "wiki/2-Stage.md" >}}). It would retain the layout of the Showbiz Pizza Place but with changes done by Sneakers of Cincinnati such as installing a walkway into the kitchen on the left of was originally the Salad Bar. This would mean the Food Tray would be installed in the kitchen instead of out front for any guest to access. [Louisville, KY (5743 Preston Hwy)]({{< ref "wiki/Louisville, KY (5743 Preston Hwy).md" >}}) would begin showing up on the advertisements despite not being nearby to other locations on said advertisements. The store is removed in November 1997 after closing.<ref>https://www.newspapers.com/image/101919542/</ref>
 
@@ -95,11 +95,11 @@ On October 8, 2019 Sharonville started it's 2.0 remodel with the stage removed o
 
 November 30, 2019 would mark another new game package for Sharonville. One of the new rides was Chuck E. Cheese's Color Photo Ride (Avenger, 2019) which was a manufacturing error leading to brand new Avenger Chuck statues being installed in 2019. When replacing the bathroom doors one of the doors was saved and reused for doors for the control room.<ref>https://youtu.be/eRjHjw41hfE</ref>   
 
-The Grand Re-Opening would take place on December 12, 2019<ref>https://youtu.be/OGzY4lbWz9M</ref> with the remodel being fully finalized in January 2020. For a brief time in 2020 photos of the exterior pre and post 2.0 were installed on the control room doors.  In February 2020 the Train Ride Statue from [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) was put as display on the Prize Counter. Then in late 2020 the Tik Tak Chuck statue replaced the Train Ride Statue.<ref>https://youtu.be/eRjHjw41hfE</ref>The statue would be removed sometime in 2022.
+The Grand Re-Opening would take place on December 12, 2019<ref>https:<i>youtu.be/OGzY4lbWz9M</ref> with the remodel being fully finalized in January 2020. For a brief time in 2020 photos of the exterior pre and post 2.0 were installed on the control room doors.  In February 2020 the Train Ride Statue from [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) was put as display on the Prize Counter. Then in late 2020 the Tik Tak Chuck statue replaced the Train Ride Statue.<ref>https:</i>youtu.be/eRjHjw41hfE</ref>The statue would be removed sometime in 2022.
 
 On August 12, 2024 Sharonville would begin its 'Entertainment Upgrade' throughout the week this would involve installing [Video Wall]({{< ref "wiki/Video Wall.md" >}}), Upgrading the Dance Floor to the 2021 Model, replacement of old 'Character Portrait' posters with new posters to fit the new size limitations, and new games. Then on August 27, 2024 Sharonville would install its Trampoline Zone.  
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -142,7 +142,7 @@ On August 12, 2024 Sharonville would begin its 'Entertainment Upgrade' throughou
 
 
 
-## Animatronics: ##
+<h2> Animatronics: </h2>
 {| class='wikitable'
 |+
 !Character
@@ -222,4 +222,4 @@ On August 12, 2024 Sharonville would begin its 'Entertainment Upgrade' throughou
 |Unknown/Destroyed
 |}
 
-## References ##
+<h2> References </h2>

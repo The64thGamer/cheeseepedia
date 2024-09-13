@@ -5,14 +5,15 @@ tags = ["Corporate Documents"]
 date = 2023-04-21T16:57:33Z
 
 [Article]
+pageThumbnailFile = "Haroldcardvera.png|Business Card"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Haroldcardvera.png|desc=Business Card}}
 
-The **_PTT Harold Goldbrandsen Business Card (Ver. A)**_ is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
 
-## Transcription ##
+The <b><i>PTT Harold Goldbrandsen Business Card (Ver. A)</b></i> is a company business card made for Harold Goldbrandsen for his role as Director of R&D: Entertainment Systems.
+
+<h2> Transcription </h2>
 <blockquote>CHUCK E. CHEESE'S
 
 Pizza Time

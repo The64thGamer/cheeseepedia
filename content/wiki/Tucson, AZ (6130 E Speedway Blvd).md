@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-29T21:54:32Z
 
 [Article]
+pageThumbnailFile = "Speedway2000s.jpg|Picture of this location shortly after a remodel. (PC: burlavin.com)"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:C45C:F043:3504:84FE","ThatBoiCydalan","Midwestretail","ShowbizMidwest","2600:4040:5A0E:D900:6500:272E:6953:1FCD","68.84.199.239","SinStar","Chez","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Speedway2000s.jpg|desc=Picture of this location shortly after a remodel. (PC: burlavin.com)}}
 
-**_6130 E Speedway Blvd, Store #217/3197**_ was a Chuck E. Cheese's location in Tucson, Arizona. The store opened in April 1995 as a standalone building in the Monterey Village Shopping Center with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and was relocated to [Tucson, AZ (6125 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6125 E Speedway Blvd).md" >}}) in October 2014 with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) and still operates to this day.
+
+<b><i>6130 E Speedway Blvd, Store #217/3197</b></i> was a Chuck E. Cheese's location in Tucson, Arizona. The store opened in April 1995 as a standalone building in the Monterey Village Shopping Center with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and was relocated to [Tucson, AZ (6125 E Speedway Blvd)]({{< ref "wiki/Tucson, AZ (6125 E Speedway Blvd).md" >}}) in October 2014 with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) and still operates to this day.
 
 This is not to be confused with the [Tucson, AZ (5534 E 22nd St)]({{< ref "wiki/Tucson, AZ (5534 E 22nd St).md" >}}) Pizza Time Theatre that opened July 15th, 1980, and closed in 1987 with a Portrait Stage. This is also not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)]({{< ref "wiki/Tucson, AZ (8616 E Broadway Blvd).md" >}}) Pizza Time Theatre that opened on May 4th, 1981, and closed in 1983 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
-## Stages ##
+<h2> Stages </h2>
 When this store opened in 1995, they opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). They would keep this 1-Stage until closure. It was the only one in Arizona and had a turntable until closure.
 {| class='wikitable'
 |+
@@ -27,7 +28,7 @@ When this store opened in 1995, they opened with a [1-Stage]({{< ref "wiki/1-Sta
 |October 2014
 |}
 
-## History##
+<h2> History</h2>
 Before the store's development began, the store was a movie theater called Cineworld 4 Theatre which opened on May 5th, 1971, and was closed around October 1994<ref>http://cinematreasures.org/theaters/28610</ref> with the conversion to CEC starting not long after its closure.
 
 Tucson opened in April 1995 (After an almost 8-year hiatus from the city) with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) with a turntable. This was Arizona's only 1-Stage. In around the Mid 2000's the store would receive an exterior repaint and a minor remodel. It would remain this way until the store's closure in October 2014 (After almost 20 years of operation, outlasting both of the city's Pizza Time Theatre stores) when it relocated across the street to [6125 E Speedway Blvd]({{< ref "wiki/Tucson, AZ (6125 E Speedway Blvd).md" >}}) with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}) which still operates to this day, albeit without the bot.
@@ -39,7 +40,7 @@ After the store closed and moved, the location would remain vacant for a while u
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -47,7 +48,7 @@ After the store closed and moved, the location would remain vacant for a while u
 !Published Date
 |-
 |https://www.youtube.com/shorts/nvOiUIhRtv4
-|Clip of the store's 1-Stage performing _What Makes You Beautiful_ in the [April 2013 Show]({{< ref "wiki/April 2013 Show.md" >}})
+|Clip of the store's 1-Stage performing <i>What Makes You Beautiful</i> in the [April 2013 Show]({{< ref "wiki/April 2013 Show.md" >}})
 |April-June 2013 
 |September 20, 2021
 |-
@@ -57,9 +58,9 @@ After the store closed and moved, the location would remain vacant for a while u
 |August 6, 2014
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Slam-A-Winner
 *Xtreme Cards
@@ -83,13 +84,13 @@ After the store closed and moved, the location would remain vacant for a while u
 *Pull My Finger!
 *Deal Or No Deal
 
-###Coin Action###
+<h2>=Coin Action</h2>=
 
 *Jam Session
 *Chuck E. Cheese's Boulder's Dozer's
 *Chuck E's Rubble Bubble
 
-###Kiddie### 
+<h2>=Kiddie</h2>= 
 
 *Jett Rider
 *Chuck E. Cheese's Photo Ride (1997)
@@ -105,7 +106,7 @@ After the store closed and moved, the location would remain vacant for a while u
 *Monster Truck
 *Amutec Fire Engine
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing date
@@ -135,5 +136,5 @@ After the store closed and moved, the location would remain vacant for a while u
 |1994
 |Destroyed
 |}
-##References##
+<h2>References</h2>
 <references />

@@ -13,9 +13,9 @@ gallery = []
 | image = blackpool_PB.jpg
 | date = 1982
 |showbizreel=y}}
-The **_HLB UK Blackpool Custom Tape**_ was a custom showtape produced by and for Blackpool Pleasure Beach in Blackpool, Lancashire, England. 
+The <b><i>HLB UK Blackpool Custom Tape</b></i> was a custom showtape produced by and for Blackpool Pleasure Beach in Blackpool, Lancashire, England. 
 
-## Summary ##
+<h2> Summary </h2>
 The HLB UK showtape follows a very similar plot to the 1979 IAAPA, with the boys playing 'loud music' while their Grandmother is away. Each character is given new names, with all the Hard Luck Bears being based off different regions of the UK. They're names include:
 
 * Grandma (Mama Granbags)
@@ -28,7 +28,7 @@ The HLB UK showtape follows a very similar plot to the 1979 IAAPA, with the boys
 * Bullet (Pete Thornsberry)
 * Gun (Repeat Thornsberry)
 
-## Segments ##
+<h2> Segments </h2>
 
 # Intro
 # Teddy Bears Picnic

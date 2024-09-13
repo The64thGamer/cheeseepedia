@@ -14,78 +14,78 @@ gallery = []
 |date=July 18, 2024
 |studiocnetwork=y}}
 
-**_Chuck E. Cheese Nanuet 2000s Throwback Thursday Show**_ is a showtape released on July 18, 2024, to play exclusively for the Throwback Thursday event only at [Nanuet, NY (250 West Route 59)]({{< ref "wiki/Nanuet, NY (250 West Route 59).md" >}}). The show features a variety of songs released from 2000-2007.
+<b><i>Chuck E. Cheese Nanuet 2000s Throwback Thursday Show</b></i> is a showtape released on July 18, 2024, to play exclusively for the Throwback Thursday event only at [Nanuet, NY (250 West Route 59)]({{< ref "wiki/Nanuet, NY (250 West Route 59).md" >}}). The show features a variety of songs released from 2000-2007.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC TV ID - 'Couch'
 ## 'Ratings' 
 ## 'Drawing Chuck E.'
 ## CEC TV ID - 'Marx Bros'
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Chuck E.'s Place'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 'The Lonesome Cowboy'
 ## CEC TV ID - 'Cows'
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'Jump'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 'Amphicar'
 ## CEC TV ID - 'Skateboarding'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'The Muffin Man'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 'WFW Babysitter'
 ## CEC TV ID - 'Janitor'
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Humpty Dumpty'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 'Baking with Betty - Letters'
 ## CEC TV ID - 'Singing Fish'
-# **Segment 5**
+# <b>Segment 5</b>
 ## 'That's A Deal'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 'Super Jasper - Resist the Temptation'
 ## Chuck E. Sunrise
-# **Segment 6**
+# <b>Segment 6</b>
 ## 'What Up'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## 'Monkey Ninjas - Episode 2'
 ## CEC TV ID - 'Rocketship'
-# **Segment 7**
+# <b>Segment 7</b>
 ## 'I Love the Sunshine'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## 'Pasqually's Polka Minute'
 ## CEC TV ID - 'Singing Animals'
-# **Segment 8**
+# <b>Segment 8</b>
 ## 'CEC Chuck E. Cheese'
-# **Intermission 9**
+# <b>Intermission 9</b>
 ## 'Baking with Betty - Trail Mix'
 ## CEC TV ID - 'Bubble Kids'
-# **Segment 9**
+# <b>Segment 9</b>
 ## 'Opposite Day'
-# **Intermission 10**
+# <b>Intermission 10</b>
 ## 'Super Jasper - Waterfall'
 ## CEC TV ID - 'Cell Tower'
-# **Segment 10**
+# <b>Segment 10</b>
 ## 'Colors'
-# **Intermission 11**
+# <b>Intermission 11</b>
 ## 'Wildlife'
 ## CEC TV ID - 'Blender'
-# **Segment 11**
+# <b>Segment 11</b>
 ## 'No Other Place'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Havin' A Party 01
 * If You're Happy and You Know It
 * [Me & My Friends]({{< ref "wiki/Me & My Friends (New Countdown).md" >}})
 
-## Trivia ##
+<h2> Trivia </h2>
 
-* _Chuck E.'s Place_ is from the [January 2004 Show]({{< ref "wiki/January 2004 Show.md" >}}), _Jump_ is from the [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}), _The Muffin Man_ is from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}), _Humpty Dumpty_ is from [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), _That's A Deal_ is from the [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), _What Up_ is from the [September 2004 Show]({{< ref "wiki/September 2004.md" >}}), _I Love the Sunshine_ is from the [Summer 2007 Show]({{< ref "wiki/Summer 2007 Show.md" >}}), _CEC Chuck E. Cheese_ is from the [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), _Opposite Day_ and _Colors_ are from the [April 2005 Show]({{< ref "wiki/CEC TV April 2005 Show.md" >}}), and _No Other Place_ is from the [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}).
-* The only 2010s-era song or segment featured in this show is the live show _Me & My Friends_.
+* <i>Chuck E.'s Place</i> is from the [January 2004 Show]({{< ref "wiki/January 2004 Show.md" >}}), <i>Jump</i> is from the [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}), <i>The Muffin Man</i> is from [Just for Kids Show 2000]({{< ref "wiki/Just for Kids Show 2000.md" >}}), <i>Humpty Dumpty</i> is from [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), <i>That's A Deal</i> is from the [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), <i>What Up</i> is from the [September 2004 Show]({{< ref "wiki/September 2004.md" >}}), <i>I Love the Sunshine</i> is from the [Summer 2007 Show]({{< ref "wiki/Summer 2007 Show.md" >}}), <i>CEC Chuck E. Cheese</i> is from the [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}), <i>Opposite Day</i> and <i>Colors</i> are from the [April 2005 Show]({{< ref "wiki/CEC TV April 2005 Show.md" >}}), and <i>No Other Place</i> is from the [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}).
+* The only 2010s-era song or segment featured in this show is the live show <i>Me & My Friends</i>.
 * Before [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}}), Havin' A Party 01 and If You're Happy and You Know It, a portion of the Birthday Break from [January 2001 Show]({{< ref "wiki/January 2001 Show.md" >}}) plays.
 * Despite all of the songs being programmed in their respective shows, this show continues to have no programming for Studio C, with the animatronic being set to random movements at all times.

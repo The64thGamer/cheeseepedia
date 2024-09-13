@@ -5,15 +5,16 @@ tags = ["Showtape Formats"]
 date = 2024-08-20T13:03:57Z
 
 [Article]
+pageThumbnailFile = "Ceibetamaxplayer.png|TV and Betamax player wheeled out in the showroom for diagnostics."
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Ceibetamaxplayer.png|desc=TV and Betamax player wheeled out in the showroom for diagnostics.}}
-The **_CEI Betamax**_ format was a format used in Rock-afire Explosion shows at Showbiz Pizza Places for video diagnostics.
+
+The <b><i>CEI Betamax</b></i> format was a format used in Rock-afire Explosion shows at Showbiz Pizza Places for video diagnostics.
 
 Video would output to an external monitor on the diagnostics cart, and signals/audio would be fed directly into the Grey Box via a long cable. 
 
-## Tapes ##
+<h2> Tapes </h2>
 Only a few tapes are known to have been in this format:
 
 * Billy Bob Diagnostic Tape

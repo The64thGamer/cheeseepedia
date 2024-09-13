@@ -17,47 +17,47 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**January 1999 (Terrific Time Travel)** released January 1999 and ran until April 1999.
+<b>January 1999 (Terrific Time Travel)</b> released January 1999 and ran until April 1999.
 
 Featured five segments featuring eight new songs and a remake from 1991!
 
-## Existing Show List: ##
+<h2> Existing Show List: </h2>
 
-#  **Segment 1 (1950s)**
+#  <b>Segment 1 (1950s)</b>
 ## Rockin' Robin
 ## Yakkity Yak
-#  **Intermission 1 (1950s)**
+#  <b>Intermission 1 (1950s)</b>
 ## Frank Sinatra - 'I've Got A Crush On You'
 ## Count Basie & His Orchestra - 'One O'Clock Jump'
 ## Station Wagon Of The Future
-#  **Segment 2 (1960s)**
+#  <b>Segment 2 (1960s)</b>
 ## Tokens To Ride (Parody of '[https://en.wikipedia.org/wiki/Ticket_to_Ride_(song) Ticket To Ride]')
 ## Stay
-#  **Intermission 2 (1960s)**
+#  <b>Intermission 2 (1960s)</b>
 ## Temptations - 'My Girl'
 ## Beatles In Dutch
-#  **Segment 3 (1970s)**
+#  <b>Segment 3 (1970s)</b>
 ## Disco Chuck (Parody of '[https://en.wikipedia.org/wiki/Disco_Duck Disco Duck]')
 ## Knock On Wood
-#  **Intermission 3 (1970s)**
+#  <b>Intermission 3 (1970s)</b>
 ## Earth Wind & Fire - 'Getaway'
-#  **Segment 4 (1980s)**
+#  <b>Segment 4 (1980s)</b>
 ## Let's Hear It For The Boy
 ## Safety Pin (Parody of '[https://en.wikipedia.org/wiki/The_Safety_Dance The Safety Dance]')
-#  **Intermission 4 (1980s)**
+#  <b>Intermission 4 (1980s)</b>
 ## The Kinks - 'Come Dancing'
-#  **Segment 5 (1990s)**
+#  <b>Segment 5 (1990s)</b>
 ## The Future Looks Fun To Me
-#  **Intermission 5 (1990s)**
+#  <b>Intermission 5 (1990s)</b>
 ## Garth Brooks - 'The River'
 ## Randy Newman & Lyle Lovett - 'You've Got A Friend In Me'
 ## Amy Grant - 'Takes A Little Time'
 
-## Studio C Show List ##
-**This show is currently unknown**
+<h2> Studio C Show List </h2>
+<b>This show is currently unknown</b>
 
-## Lives: ##
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on seperate VHS tapes for MMBB based stores.</b>
 
 * Birthday Star 95'
 *  Lean On Me
@@ -72,14 +72,14 @@ Featured five segments featuring eight new songs and a remake from 1991!
 * Patriotic Live
 * Give My Regards to Broadway
 
-**Birthday Break**: Is currently unknown.
+<b>Birthday Break</b>: Is currently unknown.
 
-## Production ##
+<h2> Production </h2>
 
-### Filming Loations ###
+<h2>= Filming Loations </h2>=
 Rockin' Robin was filmed at the [https://www.fortworthzoo.org/ Fort Worth Zoo].
 
-### Credits ###
+<h2>= Credits </h2>=
 
 * Brian Hagan & Brent Gray - Show Programmer
 * Stokes Group - Video Editing
@@ -91,7 +91,7 @@ Rockin' Robin was filmed at the [https://www.fortworthzoo.org/ Fort Worth Zoo].
 
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * Duncan Brannan's voice for Chuck E. started to change slightly, getting a bit lower than how it sounded in past years.
 * This was the last show to have Duncan Brannan as Munch. Duncan also voices Pasqually for this show.
 * This was the first show to have Jeremy Blaido take over for director of entertainment, as well as being the first show he voices Jasper.  

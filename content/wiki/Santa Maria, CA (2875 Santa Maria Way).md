@@ -8,14 +8,14 @@ date = 2024-05-02T01:37:16Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-**_2875 Santa Maria Way**_ _ was a Pizza Time Theatre_ that opened on May 4th, 1982 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in Summer 1995 (month and day unknown) as a _Chuck E. Cheese's Pizza_, with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
+<b><i>2875 Santa Maria Way</b></i> <i> was a Pizza Time Theatre</i> that opened on May 4th, 1982 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in Summer 1995 (month and day unknown) as a <i>Chuck E. Cheese's Pizza</i>, with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 
-##History##
+<h2>History</h2>
 TODO
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 TODO
 
 
@@ -24,5 +24,5 @@ TODO
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 TODO

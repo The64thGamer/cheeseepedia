@@ -8,13 +8,13 @@ date = 2024-03-26T01:29:20Z
 contributors = ["Cheeseclassic","SuperCreamPiper2008","The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++
-{{NoSources}}
 
-**_Pasadena, CA (3765 E Foothill Blvd)**_ was a _ShowBiz Pizza Place_ which opened on December 15, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in October 1993, as a _Chuck E. Cheese's Pizza_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). The store relocated to [Pasadena, CA (3737 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3737 E Foothill Blvd).md" >}}), which is still open to this day.
+
+<b><i>Pasadena, CA (3765 E Foothill Blvd)</b></i> was a <i>ShowBiz Pizza Place</i> which opened on December 15, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in October 1993, as a <i>Chuck E. Cheese's Pizza</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). The store relocated to [Pasadena, CA (3737 E Foothill Blvd)]({{< ref "wiki/Pasadena, CA (3737 E Foothill Blvd).md" >}}), which is still open to this day.
 
 This location is known for being the last ShowBiz Pizza location to undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}).
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stages
 !Installed
@@ -32,7 +32,7 @@ This location is known for being the last ShowBiz Pizza location to undergo [Con
 |One of 9 Showbiz Pizza stores in California to undergo Concept Unification. Last Showbiz to convert into a Chuck E Cheese. One of the first 3-Stages to be removed.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

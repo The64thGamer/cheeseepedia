@@ -5,26 +5,27 @@ tags = ["Store List"]
 date = 2024-08-20T01:44:42Z
 
 [Article]
+pageThumbnailFile = "Barboursville.png|thumb"
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
 gallery = []
 +++
-{{Generic|image=Barboursville.png|thumb|Exterior as A Showbiz Pizza}}
 
-**_7522 Kingston Pike**_ was the second _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_ that opened in Tennessee on August 23rd, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in Summer 1997 with the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+
+<b><i>7522 Kingston Pike</b></i> was the second <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese's Pizza</i> that opened in Tennessee on August 23rd, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) and closed in Summer 1997 with the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
 This location relocated to the [8225 Kintgston Pike]({{< ref "wiki/Knoxville, TN (8225 Kingston Pike).md" >}}) location.
 
-## Stages ##
+<h2> Stages </h2>
 Originally, Knoxville featured a Rock-Afire Explosion, as all other Showbiz locations did, it was the second to be installed in the state of Tennessee. In 1991, the location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) and was removed in Summer 1997 due to the closure of the location. It is unknown what happened to the show after the store's closure.
 
-## History ##
+<h2> History </h2>
 Knoxville opened on August 23rd, 1982 as the second Showbiz Pizza Place in Tennessee, opening two months after the [Madison]({{< ref "wiki/Madison, TN (2070 Gallatin Pike).md" >}}) location. Knoxville originally featured the Rock-Afire Explosion, as all other Showbiz locations did. 
 
 In 1991 the location would remodel for the first time under the newly formed 1986 SPT Remodel Program. The location would remain this way until it's closure in Summer 1997.
 
 After closure, the store was demolished for Texas Roadhouse. As of April 2023, Texas Roadhouse still sits on the site where the location once stood. However, a new location<ref>[Knoxville, TN (8225 Kingston Pike)]({{< ref "wiki/Knoxville, TN (8225 Kingston Pike).md" >}})</ref> would open down the road as freestanding building with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -80,5 +81,5 @@ After closure, the store was demolished for Texas Roadhouse. As of April 2023, T
 |Unknown.
 |}
 
-## References ##
+<h2> References </h2>
 <references />

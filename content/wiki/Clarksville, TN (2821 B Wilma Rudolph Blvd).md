@@ -8,14 +8,14 @@ date = 2023-06-10T02:47:59Z
 contributors = ["CECBowlingGreen","CorrectorMan"]
 gallery = []
 +++
-**2821 B Wilma Rudolph Blvd** was a Chuck E. Cheese's that opened on February 22, 2001 with a Studio C Prototype, which is still open to this day.
+<b>2821 B Wilma Rudolph Blvd</b> was a Chuck E. Cheese's that opened on February 22, 2001 with a Studio C Prototype, which is still open to this day.
 
 This location received the 2.0 remodel in 2019.
 
-## History ##
+<h2> History </h2>
 TODO: History
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Studio C Prototype, this was a rare stage, being installed in only 5 locations, with Clarksville being the last to be installed. They were the first Prototype to get the 2.0 Remodel in August / September 2019, being replaced with the Dance Floor. As of October 2022, they still have this remodel, as well as the Studio C Prototype going extinct at Midland, Texas on October 18, 2022.
 {| class='wikitable'
 |+
@@ -35,7 +35,7 @@ Originally when the store opened, they had a Studio C Prototype, this was a rare
 |First Studio C 2000 Prototype removed for 2.0.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -54,5 +54,5 @@ Originally when the store opened, they had a Studio C Prototype, this was a rare
 
 TODO
 
-## YouTube Videos ##
+<h2> YouTube Videos </h2>
 TODO

@@ -18,42 +18,42 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_January 2014**_ is the Spring show released January 1st 2014 featuring six songs.
+<b><i>January 2014</b></i> is the Spring show released January 1st 2014 featuring six songs.
 
 This was created to play from January 1st - March 31st 2014.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Segment 1**
+#  <b>Segment 1</b>
 ##- 'She Loves You'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## - Transformers Recuse Bots (USA Only)
 ## - Helen Henny's Hollywood - 'Sean's Pen'
 ## - Show Break 1
 ##CEC TV ID 'Break Dance'
 
-# **Segment 2**
+# <b>Segment 2</b>
 ##- 'Good Vibrations
 ##- 'Rock N' Roll All Nite'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##- My Little Pony (USA Only)
 ##- Cloudy With A Chance of Meatballs 2 Promo
 ##- CEC Live Promo
 ##- Show Break 2
 ##- CEC TV ID 'Couch'
 
-# **Segment 3**
+# <b>Segment 3</b>
 ## - 'I Want Crazy'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##- Littlest Pet Shop (USA Only)
 ##- Baking with Betty - 'Topas'
 ##- Show Break 3
 ##CEC TV ID - 'Skeeball'
 
-#**Segment 4**
+#<b>Segment 4</b>
 ##- 'Carry On Wayward Son'
 ##- 'I Melt With You'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##- Kittens In The Kitchen Wearing Mittens
 ##- Cloudy With A Chance of Meatballs 2 Trailer
 ##- Chill Out 4
@@ -61,7 +61,7 @@ This was created to play from January 1st - March 31st 2014.
 ## - Show Break 4
 ##- CEC TV ID 'UFO'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 *Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -71,10 +71,10 @@ This was created to play from January 1st - March 31st 2014.
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Old Mac Donald Live (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 *The Studio C Puppets backdrop goes back to the old 2000s look.
 

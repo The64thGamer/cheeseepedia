@@ -9,14 +9,14 @@ contributors = ["ChuckECool","Rexburg090","Tux Chuck"]
 gallery = ["Exterior2018SeptemberGoogleMaps.png|thumb|Street view of the exterior in September 2018 (PC: Google Maps)"]
 +++
 
-**_10021 E Washington St, Store #714**_ is a Chuck E. Cheese that opened in December 2011 (day unknown) with the Studio C Beta and is still open to this day.
+<b><i>10021 E Washington St, Store #714</b></i> is a Chuck E. Cheese that opened in December 2011 (day unknown) with the Studio C Beta and is still open to this day.
 
 It is the relocation of [Indianapolis, IN (8109 E Washington St)]({{< ref "wiki/Indianapolis, IN (8109 E Washington St).md" >}}) which originally opened on June 18, 1982, and closed in December 2011.
 
 This location is also known for having multiple incidents there.
-##History##
+<h2>History</h2>
 Indianapolis opened in December 2011 as the relocation of [Indianapolis, IN (8109 E Washington St)]({{< ref "wiki/Indianapolis, IN (8109 E Washington St).md" >}}). It is located about 4 minutes away from the original location. It opened with the 2005 Remodel and the Studio C Beta, 16m which as of February 2023, they still have the 2005 remodel and the Studio C Beta, 16m.
-##Stages##
+<h2>Stages</h2>
 The store opened with the Studio C Beta, 16m stage in December 2011 which is still in use today.
 {| class='wikitable'
 |+
@@ -30,7 +30,7 @@ The store opened with the Studio C Beta, 16m stage in December 2011 which is sti
 |Still in use
 |Last Animatronic Show in Indianapolis.
 |}
-##Animatronic##
+<h2>Animatronic</h2>
 {| class='wikitable'
 |+
 !Character
@@ -47,7 +47,7 @@ The store opened with the Studio C Beta, 16m stage in December 2011 which is sti
 |}
 
 TODO
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -60,5 +60,5 @@ TODO
 |Unkown
 |Jun 15, 2022
 |}
-##Trivia##
+<h2>Trivia</h2>
 *As of February 2023, this is the last location in Indianapolis to have an animatronic show as the rest of the locations in the area have 2.0 with Dance Floor.

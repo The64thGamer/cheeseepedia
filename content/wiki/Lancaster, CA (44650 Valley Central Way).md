@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2023-11-12T04:49:54Z
 
 [Article]
+pageThumbnailFile = "Lancaster CA before closure.jpg|Exterior before closure."
 contributors = ["Cheeseclassic","Tux Chuck"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Lancaster CA before closure.jpg|desc=Exterior before closure.}}
-**_Lancaster, CA (44650 Valley Central Way)**_ was a _Chuck E. Cheese's_ that open on March 8, 1993 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and closed on March 11, 2011. The store relocated to Lancaster, CA (44410 Valley Central Way), which is still open to this day.
 
-##Stage##
+<b><i>Lancaster, CA (44650 Valley Central Way)</b></i> was a <i>Chuck E. Cheese's</i> that open on March 8, 1993 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and closed on March 11, 2011. The store relocated to Lancaster, CA (44410 Valley Central Way), which is still open to this day.
+
+<h2>Stage</h2>
 {| class='wikitable'
 |+
 !Stage
@@ -25,7 +26,7 @@ gallery = []
 |One of many installed in California. Animatronics sent to Northridge, CA after closure.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 ! Animatronic
@@ -64,7 +65,7 @@ gallery = []
 |Unknown/Destroyed
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !

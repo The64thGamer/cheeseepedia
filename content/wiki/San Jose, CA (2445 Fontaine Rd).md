@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-09-07T17:07:38Z
 
 [Article]
+pageThumbnailFile = "Tully20.jpg|Exterior as of August 13, 2021"
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]
 gallery = ["Tritel.png|thumb|The 30ft.Chuck E. Cheese statue under construction."]
 +++
-{{NoSources}}{{Generic|image=Tully20.jpg|desc=Exterior as of August 13, 2021}}
-**_San Jose, CA (2445 Fontaine Rd), Store #206/3001**_ also known as **_Tully Road,**_ is a Chuck E. Cheese location that opened in December of 1981 with a Balcony Stage.
+
+<b><i>San Jose, CA (2445 Fontaine Rd), Store #206/3001</b></i> also known as <b><i>Tully Road,</b></i> is a Chuck E. Cheese location that opened in December of 1981 with a Balcony Stage.
 
 This store is known for being the largest in the United States. The building was formerly the Magic Village Toy Store before becoming a Pizza Time Theatre in 1981. This one-of-a-kind location is also known for having a 30-foot Chuck E. Cheese statue facing toward a neighboring road. 
 
-##Stages##
+<h2>Stages</h2>
 When the location opened, it housed a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and then later, Chuck E.'s House Facade (Chuck E.’s House Facade). Lounge / Cabaret acts consisted of The King, Dollie Dimples and the Beagles. The Beagles were initially placed in a display window to entertain guests waiting in line to enter the building, in the mid-eighties they were moved inside the building on the first floor. These cabaret acts would be removed before 1991. This location also had two sets of Warblettes, one rainbow, one black.  
 
 Between 1993 and 1994, the Chuck E.'s House Facade was removed and the [2-Stage]({{< ref "wiki/2-Stage.md" >}}) was Installed. 
@@ -22,34 +23,34 @@ In 2001, Studio C (1997) (Studio C) was installed. Because it was one of the las
 
 In the 2010s, the [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) and Blue Screen camera were removed. In December 2018 the location was remodeled and received the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) then the largest in the chain Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage) in May 2022. 
 
-##History##
+<h2>History</h2>
 
-### Pizza Time Theatre###
+<h2>= Pizza Time Theatre</h2>=
 In 1974, the building opened as Magic Village Toy Store. It featured three giant toy soldiers enclosed in giant display windows. It gained a reputation for being such a large toy store. A local legend about the store told that a girl tragically once died from falling from the store's third floor. Locals said that the ghost of the girl haunts the building to this day.<ref>https://www.facebook.com/hauntedhoneymoon/posts/san-jose-chuck-e-cheese-on-fontaine-roadthe-tullyfontaine-location-has-been-rumo/104722542963702/</ref> It went out of business sometime in the 1970s and briefly became a discotheque before reopening as a PTT in 1981.
 
 The location had a vast kiddie area, being one of the few locations to feature Chuck E.'s Play N' Place and a large under-the-sea themed ball-pit area that featured Chuck E. Cheese's Tinker Towers.
 
-#### Chuck E. Cheese Statue####
+<h2>== Chuck E. Cheese Statue</h2>==
 When the location was still Magic Village, it had three giant toy soldiers enclosed in illuminated windows facing toward Tully Rd. These were later salvaged and sent back to the original owner before closing. Having three empty windows, Nolan Bushnell wanted a large Chuck E. Cheese statue to be placed inside one of these windows. 
 
 Before the location opened, artist Jeff Tritel was commissioned to create the 30-foot statue. A smaller bronze desktop prototype was also created for PTT executives. Because Tritel was alone creating the statue, he had to work all day and night. Tritel even had to sleep inside the store to meet ends meet.
 
 The finished statue was of Chuck E. Cheese sitting on a large block of cheese holding a microphone in one hand and waving the other. In the mid-eighties it was discovered that a homeless person was living inside of the cheese the Chuck E. sits on.  When he left one morning the door was secured, his blankets are still within the wooden base. The statue's checker vest was changed to his red vest version, the block of cheese was changed to purple, and the microphone was removed. The base would be changed to green in the 2000s. 
 
-<blockquote>**About twenty five years ago I visited the Pizza Time Theatre (Chuck E. Cheese started out as Pizza Time Theatre) corporate offices looking for work. I had heard that they were working with audio animatronic characters and I thought that I might fit in with their design and engineering staff. Armed with my sculpture portfolio I was brought before their lead engineer and after a brief interview was told that I didn’t have the skill set to be a member of his team._
+<blockquote><i>'About twenty five years ago I visited the Pizza Time Theatre (Chuck E. Cheese started out as Pizza Time Theatre) corporate offices looking for work. I had heard that they were working with audio animatronic characters and I thought that I might fit in with their design and engineering staff. Armed with my sculpture portfolio I was brought before their lead engineer and after a brief interview was told that I didn’t have the skill set to be a member of his team.</i>
 
-_However, Pizza Time Theatre had just purchased a new building to be used as a restaurant and training facility and it so happened that on the outside of this building there was (and still is) a 40 foot tall, semi-circular window. The next thing I knew I was sitting down with Nolan Bushnell and the Pizza Time executives and they were asking if I would like to build a 30-foot-tall Chuck E. Cheese for their new building! Never having done anything on this scale before, my answer was a resounding, “SURE, I can do it!”_
+<i>However, Pizza Time Theatre had just purchased a new building to be used as a restaurant and training facility and it so happened that on the outside of this building there was (and still is) a 40 foot tall, semi-circular window. The next thing I knew I was sitting down with Nolan Bushnell and the Pizza Time executives and they were asking if I would like to build a 30-foot-tall Chuck E. Cheese for their new building! Never having done anything on this scale before, my answer was a resounding, “SURE, I can do it!”</i>
 
-_I actually had no idea how; I’d figure that out later. Six months and 5,000 pounds of polyurethane foam and fiberglass later, I had the dubious distinction of building the largest pizza-eating rat in the world along with 8 bronze desktop versions for Nolan and his executives.' -_ Jeff Tritel <ref name=':0' /></blockquote>
+<i>I actually had no idea how; I’d figure that out later. Six months and 5,000 pounds of polyurethane foam and fiberglass later, I had the dubious distinction of building the largest pizza-eating rat in the world along with 8 bronze desktop versions for Nolan and his executives.' -</i> Jeff Tritel <ref name=':0' /></blockquote>
 
-####Training Center & Test Kitchen / CEC University####
+<h2>==Training Center & Test Kitchen / CEC University</h2>==
 Shortly after opening, the store would be the exclusive host of the [PTT Training Center & Test Kitchen]({{< ref "wiki/PTT Training Center & Test Kitchen.md" >}}) program. This would be held on the third floor employee-only area for training employees from other locations as well as future store general managers.  'Hard down' repairs of games would be handled by techs housed on the third floor as well. Trainees spent a week on the third floor learning all about the food product, then spend a week working downstairs in the store. The test kitchen portion would allow Pizza Time Theatre to standardize its menu lineup for 1982, alongside being able to test and refine future menu releases. This program would end in 1984 with the merger of Showbiz Pizza Place and Pizza Time Theatre companies. The location was sold and became a franchise so no further training was done there, though the carved 'Chuck E. University' wooden sign with Chuck wearing a robe and mortar board and holding a rolled certificate of graduation remained mounted outside for a number of years.  Corporate CEC asked for the sign, which was shipped to them, never to be seen again.  With no use for the area, it became a storage area. Plenty of historical items from the location's history would be held here.
 
-####Disney's Cease and Desist ####
-Around the restaurant were several unique murals. Some relocated from one of Pizza Time Theatre's costume departments. One of these murals, 'Royal Order of Rodents', featured characters outside of Pizza Time Theatres ownership. The most notable of these are Mickey and Minnie Mouse. On October 13, 1989, Someone took a photo and sent it to Disney and they sent the location a cease and desist, causing them to remove the mural immediately (Disney is known for their legal department). The mural was meant to be thrown away, but an employee hid it away to prevent its destruction.  During a remodel, the other murals were removed as well and hidden away by the same employee. They are now displayed out of the public eye on the third floor with the cease and desist letter next to the infamous mural.<ref>**Candd.png**</ref>
+<h2>==Disney's Cease and Desist </h2>==
+Around the restaurant were several unique murals. Some relocated from one of Pizza Time Theatre's costume departments. One of these murals, 'Royal Order of Rodents', featured characters outside of Pizza Time Theatres ownership. The most notable of these are Mickey and Minnie Mouse. On October 13, 1989, Someone took a photo and sent it to Disney and they sent the location a cease and desist, causing them to remove the mural immediately (Disney is known for their legal department). The mural was meant to be thrown away, but an employee hid it away to prevent its destruction.  During a remodel, the other murals were removed as well and hidden away by the same employee. They are now displayed out of the public eye on the third floor with the cease and desist letter next to the infamous mural.<ref><b>Candd.png</b></ref>
 
-### Chuck E. Cheese's###
-Roughly around 1991, the location was remodeled into Chuck E. Cheese's Pizza as part of the 1986 SPT Remodel Program. At this time, Fontaine also received customized multi-colored booths and interior décor. In 1992 the location is featured in two pieces of official media from Showbiz Pizza Time's Entertainment Department. The first of which is a tape for employees that summited footage of various live performances.<ref>https://www.youtube.com/watch?v=uP6OTh54A3Y</ref> Then as part of SPT filming in California, they visited the Fontaine location to feature in 'Little Red Corvette'.<ref>https://youtu.be/-aDxlpAqUWs?t=544s</ref> 
+<h2>= Chuck E. Cheese's</h2>=
+Roughly around 1991, the location was remodeled into Chuck E. Cheese's Pizza as part of the 1986 SPT Remodel Program. At this time, Fontaine also received customized multi-colored booths and interior décor. In 1992 the location is featured in two pieces of official media from Showbiz Pizza Time's Entertainment Department. The first of which is a tape for employees that summited footage of various live performances.<ref>https:<i>www.youtube.com/watch?v=uP6OTh54A3Y</ref> Then as part of SPT filming in California, they visited the Fontaine location to feature in 'Little Red Corvette'.<ref>https:</i>youtu.be/-aDxlpAqUWs?t=544s</ref> 
 
 In December 2000 the location became one of the last to receive a brand new remodel from the 1994 SPT Repositioning / Remodel Program (1994 SPT Remodel Program). When [Skytubes]({{< ref "wiki/Skytubes.md" >}}) were introduced to this location they originally cut through the wall above the 2-Stage, giving a top-down view of the showroom for people inside, however In 2007 the Toddler Zone from [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}) and the [Skytubes]({{< ref "wiki/Skytubes.md" >}}) would be removed due to a guest lack of interest. In May 2007 fan convention Cheese-Vention 4 is held at this location. Some of the posters, the Photo Ride car, and the store's Chuck E. bot would be added to the windows in front of the store. 
 
@@ -59,17 +60,17 @@ On March 26, 2023, the Chuck E. Cheese Cyberamic character was discovered to be 
 
 On December 24th, 2023, it was discovered that the store began installation on a new elevator.
 
-#### Store Number####
-According to chuckecheese.com Fontaine Rd. was **_Store #206**_ in 2009.<ref>https://web.archive.org/web/20090629030426/http://www.chuckecheese.com/locations/results.php?state=CA</ref> It was renumbered to **_Store #3001**_ when Corporate renumbered franchised stores to four-digit numbers in 2010.  The **_#206**_ number would be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location, which opened on February 5, 2024.
+<h2>== Store Number</h2>==
+According to chuckecheese.com Fontaine Rd. was <b><i>Store #206</b></i> in 2009.<ref>https:<i>web.archive.org/web/20090629030426/http:</i>www.chuckecheese.com/locations/results.php?state=CA</ref> It was renumbered to <b><i>Store #3001</b></i> when Corporate renumbered franchised stores to four-digit numbers in 2010.  The <b><i>#206</b></i> number would be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location, which opened on February 5, 2024.
 
-#### COVID 19####
+<h2>== COVID 19</h2>==
 During the Coronavirus pandemic, the location was closed for thirteen months and fears of it permanently closing were high. The property was listed on Loop.Net on October 16, 2020, but taken down at a later date. During this time, a hoax was perpetrated saying that the location was to become a 'gentleman's club'. 
 
 To keep the location afloat, the owner had to sell items held inside the former CEC University center. This included signage, prototypes, and animatronic parts. (It also included the Chuck E. animatronic inside the window.)
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
-###Skill###
+<h2>=Skill</h2>=
 
 *Monopoly Roll 'N Go
 *Paw Patrol
@@ -125,7 +126,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 *SnoCross
 *Teenage Mutant Ninja Turtles (2017)
 
-####Coin Action####
+<h2>==Coin Action</h2>==
 *Spongebob Squarepants Pineapple Arcade
 *The Wizard of Oz
 *Ticket Circus
@@ -133,7 +134,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 *Blackbeard's Bounty
 *Flintstones Quarry Quest
 
-###Kiddie### 
+<h2>=Kiddie</h2>= 
 
 *Teletubbies Carousel
 * Alien Boogey Control
@@ -143,7 +144,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 *Chuck Wagon
 *Jolly Roger Minions
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -151,7 +152,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 !Filming Date
 |-
 |[https://youtu.be/Bt2vphYSkPA Link]
-|Fontaine was featured on _Wall $treet Week with Louis Rukeyser._
+|Fontaine was featured on <i>Wall $treet Week with Louis Rukeyser.</i>
 |1982
 |-
 |[https://youtu.be/Am9sgyt_S5o Link]
@@ -167,7 +168,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 | April 20th, 1988
 |-
 |[https://youtu.be/QHIal3IZPUA Link]
-|An exterior shot of this location and footage of the Half Chuck E. animatronic taken from the 1989 documentary film, _The Silicon Valley Story_.
+|An exterior shot of this location and footage of the Half Chuck E. animatronic taken from the 1989 documentary film, <i>The Silicon Valley Story</i>.
 |1989
 |-
 |[https://youtu.be/srK9ZC2mNNU Link]
@@ -230,7 +231,7 @@ To keep the location afloat, the owner had to sell items held inside the former 
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing date
@@ -304,8 +305,8 @@ To keep the location afloat, the owner had to sell items held inside the former 
 |N/A
 |Unknown
 |}
-##Trivia##
-* Before Franchised CECs were renumbered to four digit numbers in 2010, San Jose (Fontaine) was **_Store #206**_ according to the old chuckecheese.com website from 2009. It was renumbered to **_Store #3001**_ when Corporate renumbered Franchised stores with four digit numbers. The store number will be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location.
-##References##
+<h2>Trivia</h2>
+* Before Franchised CECs were renumbered to four digit numbers in 2010, San Jose (Fontaine) was <b><i>Store #206</b></i> according to the old chuckecheese.com website from 2009. It was renumbered to <b><i>Store #3001</b></i> when Corporate renumbered Franchised stores with four digit numbers. The store number will be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location.
+<h2>References</h2>
 
 <references />

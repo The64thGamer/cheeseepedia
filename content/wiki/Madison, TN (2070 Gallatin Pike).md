@@ -5,38 +5,39 @@ tags = ["Store List"]
 date = 2024-08-20T12:30:26Z
 
 [Article]
+pageThumbnailFile = "desc=Madison, TN Chuck E. Cheese's exterior as of June 2022.|image=Madisonexterior.jpg"
 contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","47.17.236.200","9Lol92","CoolerDude"]
 gallery = []
 +++
-{{Generic|desc=Madison, TN Chuck E. Cheese's exterior as of June 2022.|image=Madisonexterior.jpg}}
 
-**_2070 Gallatin Pike, Store #68**_ was the first Showbiz Pizza Place in Tennessee that opened on June 15, 1982 with a Rock-afire Explosion. It is still open to this day.
+
+<b><i>2070 Gallatin Pike, Store #68</b></i> was the first Showbiz Pizza Place in Tennessee that opened on June 15, 1982 with a Rock-afire Explosion. It is still open to this day.
 
 Madison received CU in 1991 or 1992, and would receive a Black Plastic Pizzacam in the mid 2010's. They would also have a Colored Wink, and would be the second last Colored Wink and the 4th last Pizzacam, before receiving 2.0 in April / May 2022. Madison was also the last 3-Stage in Tennessee at the time of removal.
 
 It is located in an unnamed shopping center next to the Rivergate Mall.
 
-## Stage ##
+<h2> Stage </h2>
 Madison opened on June 15th, 1982 with a Rock-afire Explosion, then in 1991, the stage was converted through Concept Unification to the 3-stage. The 3-stage would receive over time, the colored wink, and cardboard bricks for Pasqually to sit on from the [Birmingham, Alabama (Roebuck)]({{< ref "wiki/Birmingham, AL (9325 Parkway East).md" >}}) location which closed in November 2007. The 3-stage would be maintained well over the years, up until early 2020, where the original technician for the show would leave after 38 years. This left the show in a limbo state, where they were barely being maintained by someone who wasn't properly experienced. Some examples of the disrepair include: At least one eyelid being broken/missing on every character, Helen's Middle Boa getting loose, which allowed someone to rip off the middle of it, Chuck E's left arm being extremely loose, the prop characters being aired down a lot of the time, Munch being aired down during the stage's final weeks which was also during the 2.0 Remodel, the colored wink getting juice sprayed on it by a kid, and it never being properly cleaned, Jasper's left shoe being strapped on with orange tape, Jasper, Chuck, Munch, and Helen's mouth not working near the final weeks of the show, Helen's spotlight burning out, and much, much more. The stage would be gutted in May of 2022, to make way for a new Video Wall, and Dance Floor, as a part of the 2.0 remodels.
 
-## History ##
+<h2> History </h2>
 
-### Showbiz Pizza ###
+<h2>= Showbiz Pizza </h2>=
 Madison opened its doors on June 15th, 1982 as the 1st Showbiz Pizza store in Tennessee. Madison originally featured the Rock-afire Explosion, as all other Showbiz locations did, and a sports room that would later be removed during the 1988 Remodel. Like many Showbiz locations in the late 1980s, Madison received the Showbiz Pizza Campground upgrade. It is unknown if Madison remodeled when it was Showbiz.
 
-###Chuck E. Cheese's Pizza Remodel###
+<h2>=Chuck E. Cheese's Pizza Remodel</h2>=
 This remodel would happen sometime in 1991, and would involve the Concept Unification conversion of the store, the removal of the sports room for more space, adding newer decor replacing SPP decor, Blue and White awnings above the salad bar, adding checkers, removing some games for newer ones, and the conversion of the exterior.
 
-###Mid 1990's Remodel.###
+<h2>=Mid 1990's Remodel.</h2>=
 The date this remodel started is unknown though it most likely started around the mid 90's. We do know that when this remodel occurred, the entrance to the store was moved (as shown by the original blueprints from the Showbiz/CEC conversion), and the other 2 showroom entrances were removed, one being replaced by an elevator for people in wheelchairs, and the other being demolished completely. The exterior also changed al well removing the checkers and changing the logo to the Cool Chuck logo. In the Late 90's, SkyTubes and Toddler Zone were added and more older decor were removed for newer ones. 
 
-###2005 Update ###
+<h2>=2005 Update </h2>=
 This remodel, known as the 2005 Update to the '2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative' started sometime in Early 2007, which painted over the white walls with purple, removing shelves, removing older decor for newer decor, replacing the older games with newer ones, and removing the Toddler Zone. This remodel would stay until April 2022. In 2021, Madison received an exterior change to compensate with the mall's exterior renovation. Surprisingly, the Showroom Walls and Balcony Seating were still kept during the remodel.
 
-### 2.0 Remodel###
+<h2>= 2.0 Remodel</h2>=
 This remodel would begin in April of 2022, and construction would end in June 2022 with the Grand Reopening on the 22nd<ref>https://davidsoncountysource.com/newly-remodeled-chuck-e-cheese-in-madison-celebrates-grand-reopening/</ref>. The major changes were a new game package, the removal of the 3-Stage, a video wall, and a interactive dance floor. This remodel is still there as of May 2023. 
 
-##Animatronics ##
+<h2>Animatronics </h2>
 {| class='wikitable'
 |+
 !Character
@@ -95,7 +96,7 @@ This remodel would begin in April of 2022, and construction would end in June 20
  
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -471,7 +472,7 @@ TODO
 |This footage is an overview of the stage
 |-
 |https://youtu.be/5dhSB9CXiik
-|This footage shows the band playing 'Keep Drummin_
+|This footage shows the band playing 'Keep Drummin''
 |-
 |https://youtu.be/jlNy63CX-yk
 |This footage shows the band playing 'Keep Drummin'
@@ -504,6 +505,6 @@ TODO
 |This video shows the history and documentation of Madison.
 |}
 
-##References##
+<h2>References</h2>
 
 <references />

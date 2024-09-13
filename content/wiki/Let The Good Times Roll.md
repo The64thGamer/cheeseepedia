@@ -16,18 +16,18 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_Let The Good Times Roll**_ was a show that released in January of 1994 at Chuck E. Cheese's.
+<b><i>Let The Good Times Roll</b></i> was a show that released in January of 1994 at Chuck E. Cheese's.
 
-##Show List ##
-#**** **Intermission 1**
+<h2>Show List </h2>
+#<b></b> <b>Intermission 1</b>
 ##Trivia Intro
 ##Trivia
 ##'Birthday Star'
 ##Hockey's Greatest Hits
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##'Route 66'
 ##'I Heard It Through The Grapevine'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##Michael Jordon - Come Fly With Me
 ##'Birthday Star'
 ##Trivia
@@ -36,10 +36,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##VJ Spot
 ##'Birthday Star (Walk-In)'
 ##Trivia
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Achy Breaky Heart'
 ##'Proud Mary'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##Chuck E.'s Zoo View
 ##'Birthday Star'
 ##Trivia
@@ -50,23 +50,23 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Smoke Free Promo
 ##Jaspardy
 ##CEC TV '94 ID
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Freeze Frame'
-##'Dog Jammin_
-#**** **Intermission 4**
+##'Dog Jammin''
+#<b></b> <b>Intermission 4</b>
 ##Charlie Rockit - 'Cooler Downer'
 ##'Birthday Star'
 ##CEC TV '94 ID
 ##CEC Special Report
 ##VJ Spot
 ##Snow Daze - A Season of Shredding
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'When You're Here'
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##Trivia
 ##'Birthday Star (Walk-In)'
 
-##Trivia:##
+<h2>Trivia:</h2>
 *The Betacam masters for I Heard It Through The Grapevine were reused in [January 2009 Show]({{< ref "wiki/January 2009 Show.md" >}}) DVD #3.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

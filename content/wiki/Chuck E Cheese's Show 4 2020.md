@@ -18,63 +18,63 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 4 2020**_ is the holiday show released November 3, 2020 featuring a variety of holiday songs released from 2014 - 2019
+<b><i>Show 4 2020</b></i> is the holiday show released November 3, 2020 featuring a variety of holiday songs released from 2014 - 2019
 
 This was created to play during the 'Winter Winner-Land'.  This show played from November 3, 2020 - January 3, 2021. It  features 7 Songs all being reused and a live modified from 2019 to enforce Covid guidelines. 
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD: 10/31/20 7:01pm - 7:04pm
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Social Distancing Message
 ##  Chuck E. & Helen Winter Winner-Land Spot
 ##  Idina Menzel - 'We Wish You the Merriest' ft. Josh Gad
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'Cookies For Santa'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Winter Winner-Land Food & Masks Promo
 ##  KIDZ BOP Kids - 'Santa Tell Me'
 ## Brady Rhymer - 'Hanukah Rocks'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Helen Henny - 'All I Want for Christmas is Snow'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Social Distancing Message
 ## Holiday Jokes from Pasqually
 ## Asher Angel - 'Snow Globe Wonderland'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Bella B. - 'Holiday Fiesta'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Chuck E. & Munch Winter Winner-Land Spot
 ##  KIDZ BOP Kids - 'Christmas (Baby Please Come Home)
 ## Holiday Musings with Mr. Munch
-# **Skit 4**
+# <b>Skit 4</b>
 ## Mr. Munch - 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  The Winter Winner Dance (Every Hour on the Thirty)
 ## Social Distancing Message
 ## Brad Rhymer - 'Can't Sit Still'
 ##  Taylor Swift - 'Christmas Tree Farm'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Jasper T. Jowls - 'Snowman'
-#  **Intermission 6**
+#  <b>Intermission 6</b>
 ## Winter Winner-Land Food & Masks Promo
 ## HiDino - 'Adventure through the Snow'
 ## The Supremes - 'My Favorite Things'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Helen - 'Merry Christmastime'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Social Distancing Message
 ## Chuck E. & Pasqually Winter Winner-Land Spot
 ##  KIDZ BOP Kids - 'Little Saint Nick'
-# **Skit 7**
+# <b>Skit 7</b>
 ## Pasqually - 'What Do You Get a Sasquatch for Christmas?'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ##  HiDino - 'The Snow Song'
 ##  Leslie Odom Jr - 'Please Come Home for Christmas'
 ## Juicebox Jukebox - 'Questions for Santa'
-# **Skit 8**
+# <b>Skit 8</b>
 ## Chuck E. & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -83,21 +83,21 @@ This was created to play during the 'Winter Winner-Land'.  This show played from
 ### Deck the Halls
 ### We Wish You a Merry Christmas
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 * Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 * Winner Wonder Dance Live (3stage, Cyberamic, Studio C, Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 *[https://www.youtube.com/watch?v=xo60iAjY0QE 'Chuck E.’s Winner Wonder Dance' on YouTube]
 *[https://www.youtube.com/watch?v=hI0CY8BuHOw 'Holiday Medley' on YouTube]
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * 'Cookies For Santa', 'Holiday Fiesta' and 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight' are originally from Chuck E. Cheese's Show 5 2019 (Show 5 2019), 'Snowman' and 'What Do You Get a Sasquatch for Christmas?' from [Holiday 2014]({{< ref "wiki/Holiday 2014 Show.md" >}}) and 'Merry Christmastime' and 'Holiday Medley' from Chuck E. Cheese's Show 9 2016 (Show 9 2016)
 * Snowman had Helens voice replaced with Carolina Richardsons and removed the line 'What American dog doesn't love to frolic in the snow'

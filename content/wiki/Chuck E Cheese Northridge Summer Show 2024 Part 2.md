@@ -8,13 +8,13 @@ date = 2024-07-30T23:11:51Z
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
 gallery = []
 +++
-{{Showtape|title=Summer Show 2024|image=Sumpt24.png|date=July 8th, 2024|studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 
-**_Chuck E. Cheese Legacy Summer Show 2024 Part 2**_ was an another summer show released on July 8, 2024 and was exclusively played in Northridge until July 28, 2024. It features a variety of songs released from 2017-2023. The show features “Together We’ve Got It” & “I Love Sparkles”  as the only programmed songs in the playlist. This playlist also plays at Hicksville after their Grand Reopening on July 19th.
 
-## Show List: ##
+<b><i>Chuck E. Cheese Legacy Summer Show 2024 Part 2</b></i> was an another summer show released on July 8, 2024 and was exclusively played in Northridge until July 28, 2024. It features a variety of songs released from 2017-2023. The show features “Together We’ve Got It” & “I Love Sparkles”  as the only programmed songs in the playlist. This playlist also plays at Hicksville after their Grand Reopening on July 19th.
 
-# **Intermission 1**
+<h2> Show List: </h2>
+
+# <b>Intermission 1</b>
 ## Zigazoo Star Showcase 'Play All You Can Play'
 ## Off Road with Chuck E. - Episode 4
 ## Chuck E. & Friends - 'The Garden Gnome'
@@ -22,9 +22,9 @@ gallery = []
 ## KIDZ BOP Kids - 'Houdini'
 ## Chuck E. & Friends - 'Bubble Bubble Pop!'
 ## Chuck E. Cheese - 'Down the Road'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'I Love Sparkles'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## KIDZ BOP Kids - 'KIDZ BOP Never Stop'
 ## Chuck E. & Bella - 'Bella's Garden'
 ## Chuck E. Cheese - 'Water Buffalo'
@@ -38,9 +38,9 @@ gallery = []
 ## Summer Concert Roadshow - 'Song of Summer'
 ## Bella B. & Mike Wolf - 'El Rey Guitarrista'
 ## DJ Munch - 'Lend a Helping Hand'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Chuck E. & Friends - 'Together We've Got It'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'Si No Estas'
 ## Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -51,7 +51,7 @@ gallery = []
 ## Chuck E. Cheese - 'Too Many Pigs in the Pool'
 ## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
@@ -59,6 +59,6 @@ gallery = []
 * Beach Party Bash  (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * “Most Perfect Day”,”It’s The 70s”, and ”Every Boy, Every Girl” can be used for Manuel Selection at MMBB Legacy Stores.

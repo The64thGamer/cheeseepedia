@@ -18,11 +18,11 @@ SKIT TAPE-BROADWAY HELEN HENNY
 WO# 1901768200 WO QTY:
 BUILT BY: REB DATE:}}
 
-**_Broadway Helen Henny**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Helen Henny. 
+<b><i>Broadway Helen Henny</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Helen Henny. 
 
 This would be the last guest star showtape as Pizza Time Theatre's bankruptcy would occur after release.
 
-##Segments:##
+<h2>Segments:</h2>
 # On Broadway Number
 ##All Aboard for Broadway / Give My Regards to Broadway
 ##There's a Broken Heart for Every Light on Broadway

@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-08-16T13:42:44Z
 
 [Article]
+pageThumbnailFile = "Visalia_exterior_2.0.PNG|Visalia's exterior in February 2024. (PC: SpeedyoGamerGioLeo)"
 contributors = ["Rexburg090","CECBowlingGreen","Rileypaulson","Polykirisame","ChuckECool","209.129.28.15","173.216.33.6","Cecbird","76.167.210.169","167.224.250.176","Chuckstar69","174.243.178.17","SuperCreamPiper2008","Cheeseclassic","JND","CoolerDude","Veronancy","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Visalia_exterior_2.0.PNG|desc=Visalia's exterior in February 2024. (PC: SpeedyoGamerGioLeo)}}
-**_4345 W Noble Ave, Store #43**_ was a Showbiz Pizza Place that opened on May 2, 1983 with a Rock-afire Explosion, which is still open to this day with the 2.0 remodel.
+
+<b><i>4345 W Noble Ave, Store #43</b></i> was a Showbiz Pizza Place that opened on May 2, 1983 with a Rock-afire Explosion, which is still open to this day with the 2.0 remodel.
 
 This store underwent [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) around 1991, and was known for having the last [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) in California.
 
-## History ##
+<h2> History </h2>
 Visalia opened May 2, 1983 as ShowBiz Pizza Place in the Mineral King Plaza, They would later end up receiving the [1988 Remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}).<ref>https://youtu.be/5dWwX4Tk65g</ref> In 1991, Visalia's animatronics received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). Visalia underwent another remodel in the Mid-Late 1990's which involved the removal of the Neon Signage, Blue and White Awnings, & checkers around the store. In 2006, Visalia received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removing all 1990's store art, Balcony Seating, Showroom Walls, & adding purple walls. In 2014, Visalia received the 2010 Update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). In February 2024, Visalia started its 2.0 refresh remodel, and have since removed its 3-Stage. As of April 2024, Visalia still has the Dance Floor and Video Wall and the refresh remodel.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), as all other Showbiz locations had. In around 1991, the store would undergo Concept Unification, turning the RAE into [Munch's Make Believe Band]({{< ref "wiki/Concept Unification Stage.md" >}}). In 2004<ref>https://youtu.be/wCGEx3_pGgo</ref>, Chuck's Tux & Derby were replaced with the Cool Chuck outfit & also received 3-Stage Jasper shoes; Not long after, Moon and Pizzacam were removed. Chuck's cap was removed in September 2013. On February 4, 2024, the 3-Stage was removed.
 {| class='wikitable'
 |+
@@ -46,7 +47,7 @@ Originally when the store opened, they had a [Rock-Afire Explosion]({{< ref "wik
 |2021 Model
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -103,7 +104,7 @@ Originally when the store opened, they had a [Rock-Afire Explosion]({{< ref "wik
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

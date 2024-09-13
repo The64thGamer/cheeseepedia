@@ -5,25 +5,26 @@ tags = ["Stage Variations"]
 date = 2024-05-21T14:35:38Z
 
 [Article]
+pageThumbnailFile = "Ministage.jpg|Mini-Stage at Cullman, AL."
 contributors = ["BurgersNuggs445","Emcaacme","Montfortdog","216.185.74.218","204.101.16.199","BigCtheDataFinder","The 64th Gamer","CECMentor"]
 gallery = []
 +++
-{{Generic|image=Ministage.jpg|desc=Mini-Stage at Cullman, AL.}}The **_Mini Rock-afire Explosion Stage**_ was a four-piece character show, initially created for smaller _ShowBiz Pizza Place_ restaurants, that was also installed in several family entertainment centers and other venues throughout the 1990's and 2000's.
+The <b><i>Mini Rock-afire Explosion Stage</b></i> was a four-piece character show, initially created for smaller <i>ShowBiz Pizza Place</i> restaurants, that was also installed in several family entertainment centers and other venues throughout the 1990's and 2000's.
 
-## History ##
-To introduce the Rock-afire Explosion in locations with a smaller footprint and with ease of installation, ShowBiz Pizza proposed to Creative Engineering the concept of condensed show setups, limiting the amount of characters present to a total of four. Aaron Fechter disagreed with the idea, believing the Rock-afire was at its highest variety and entertainment capacity with all characters present. Despite this belief, Aaron and CEI would oblige to this request. As a result, five selected _ShowBiz Pizza Place_ locations would test the Mini Stage in the year 1983.
+<h2> History </h2>
+To introduce the Rock-afire Explosion in locations with a smaller footprint and with ease of installation, ShowBiz Pizza proposed to Creative Engineering the concept of condensed show setups, limiting the amount of characters present to a total of four. Aaron Fechter disagreed with the idea, believing the Rock-afire was at its highest variety and entertainment capacity with all characters present. Despite this belief, Aaron and CEI would oblige to this request. As a result, five selected <i>ShowBiz Pizza Place</i> locations would test the Mini Stage in the year 1983.
 
 In November 1983, Jim Parrish, the Director of Development and Executive Vice President of ShowBiz, wrote a memo to CEI regarding the Mini Stage. Parrish, Bob Brock, and other executives came to the conclusion that Aaron's initial beliefs over the condensed show were correct. In the memo, Parrish requested for the five existing locations with a Mini Stage to be converted into [Classic Stages]({{< ref "wiki/Classic Stage.md" >}}) beginning with the Anderson, IN store. This request was ultimately not realized, with the Mini Stage locations closing permanently by the time of the Showbiz Pizza Time, Inc. merger. Although the setup would be discontinued within ShowBiz locations, Parrish asked Aaron about the possibility for retrofitting stocks of four-piece shows, with the intention to sell the Mini Stage to other venues without using the Rock-afire characters. This proposition could've inspired the creation of the [Moonrockers]({{< ref "wiki/Moonrockers.md" >}}), as that was a Classic Show condensed to a single stage of four main characters (though not using the same character configuration as the Mini Stage), intended for use by venues that were not affiliated with ShowBiz. Following the decision to eliminate the Mini Stage in all locations, CEI's programming requirements for ShowBiz would be simplified, meaning all priorities were shifted to only focus on the Classic Rock-afire once more.<ref>https://www.showbizpizza.com/info/documents/spp/spp_83_ministage.pdf</ref> 
 
 After the merger between ShowBiz and Pizza Time Theatre, contracts between Creative Engineering and Showbiz Pizza Time were reworked into what became the '1987 Settlement License Agreement.' The new contract revoked ShowBiz's exclusive license to use the Rock-afire characters, thus granting CEI the ownership of unsold shows purchased by SPT with the ability to sell remaining stock for use in other venues.<ref>https://youtu.be/x9438Sw6fjo?si=MeiMoFJZaFEtGS7W</ref> It was around this time that production on the Mini Stage would be renewed, per the request of new clients (see 'Known Installations'). Some of these new installations were similar to Mini Stages seen in ShowBiz (albeit not identical), while others were given custom theming depending on the venue (an example being [Bear-A-Dice]({{< ref "wiki/Bear-A-Dice Stage.md" >}})).
 
-## Design ##
+<h2> Design </h2>
 Four Rock-afire characters (Mitzi Mozzerella, Fatz Geronimo, Billy Bob Brockali, and Looney Bird) are present on one-stage instead of the typical three-stages. This show is one of two Creative Engineering productions to include Singing Flowers (similar to the [Singing Flowers]({{< ref "wiki/Singing Flowers (Cyberamic).md" >}}) that were developed for Chuck E. Cheese's stages). The backdrop behind Mitzi and Fatz contains a unique mountain range with a rounded tree cutout in the ShowBiz version. Installations in Fun Time Pizza replace the mountains with a standard Center Stage treeline, while Hillwood Strike and Spare only features the rounded tree cutout. Billy Bob and Looney Bird's setting is Smitty's Super Service Station, as identical to the Classic Stage. However, new enhancements to the Smitty's set included a 'Used and Abused Tars (Tires)' sign cutout, as well as a new 'Goofy Gas' decal on the Smitty's gas pump. A standard frog prop would be retrofitted into a 'Bad Frog' prop, complete with bushy eyebrows, detailed scales, a spiked collar, and was chained to the Used and Abused Tars sign (it should be noted that Bad Frog was replaced with a standard frog prop in Hillwood's installation). The flooring for the stage itself was also unique, as there seemed to be a dirt road underneath Mitzi and Fatz, exclusive to ShowBiz's Mini Stage. Billy Bob and Looney Bird's set uses the standard Rock-afire grass underneath them, which was later applied to the entire stage for later installations (thereby eliminating the dirt road flooring).
 
 
 
 
-## Known Installations ##
+<h2> Known Installations </h2>
 {| class='wikitable'
 |+
 !Store
@@ -53,12 +54,12 @@ Four Rock-afire characters (Mitzi Mozzerella, Fatz Geronimo, Billy Bob Brockali,
 |-
 |Tweetsie Railroad
 |Blowing Rock, NC
-|A Mini Stage set that would receive an exclusive showtape (under the name **_Tweetsie Railroad Hootenanny Hoedown**_) which contained both custom dialogue and reused Rock-afire songs. New outfits for the characters were also present in this setup. After decommissioning the show, the characters were all moved to Tweetsie Railroad's storage facilities. However, Mitzi and Billy Bob's mechanisms became utilized for the 'Freaky Forest' attraction, as part of Tweetsie's yearly 'Ghost Train' event.
+|A Mini Stage set that would receive an exclusive showtape (under the name <b><i>Tweetsie Railroad Hootenanny Hoedown</b></i>) which contained both custom dialogue and reused Rock-afire songs. New outfits for the characters were also present in this setup. After decommissioning the show, the characters were all moved to Tweetsie Railroad's storage facilities. However, Mitzi and Billy Bob's mechanisms became utilized for the 'Freaky Forest' attraction, as part of Tweetsie's yearly 'Ghost Train' event.
 |Approximately 1994
 |-
 |Okefenokee Swamp Park
 |Waycross, GA
-|This installation is very notable, as it is officially referred to as the **_Okefenokee Bear Revue**._ Mitzi and Fatz were given custom outfits, along with modified Pete Thornsberry and Billy Bill masks from the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}) (the same types also used for the Gulliver's Rock-afire retrofits) respectively. Billy Bob's traditional overalls were replaced with darker blue overalls with patchwork, while Looney Bird's oil drum was repainted to a light brown color. This show, like the Tweetsie Railroad installation, was given [a custom showtape]({{< ref "wiki/Bear Review Showtape.md" >}}) featuring newly recorded skits intertwined with reused Rock-afire songs, though with every character renamed except for Billy Bob. This show was also notable for its control system eventually being reworked by [https://www.sallydarkrides.com/ Sally Corporation] at some point during its lifetime. It has been said the characters were oppositely rewired from the previous controller's configuration to become compatible with Sally's system. Around 2018, the entire show would be acquired by [https://www.youtube.com/@connorleschinsky/videos Connor Leschinsky], restoring the characters back into an operational state after SBNO at the Swamp Park.
+|This installation is very notable, as it is officially referred to as the <b><i>Okefenokee Bear Revue</b>.</i> Mitzi and Fatz were given custom outfits, along with modified Pete Thornsberry and Billy Bill masks from the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}) (the same types also used for the Gulliver's Rock-afire retrofits) respectively. Billy Bob's traditional overalls were replaced with darker blue overalls with patchwork, while Looney Bird's oil drum was repainted to a light brown color. This show, like the Tweetsie Railroad installation, was given [a custom showtape]({{< ref "wiki/Bear Review Showtape.md" >}}) featuring newly recorded skits intertwined with reused Rock-afire songs, though with every character renamed except for Billy Bob. This show was also notable for its control system eventually being reworked by [https:<i>www.sallydarkrides.com/ Sally Corporation] at some point during its lifetime. It has been said the characters were oppositely rewired from the previous controller's configuration to become compatible with Sally's system. Around 2018, the entire show would be acquired by [https:</i>www.youtube.com/@connorleschinsky/videos Connor Leschinsky], restoring the characters back into an operational state after SBNO at the Swamp Park.
 |2000
 |-
 |Hillwood Strike N' Spare
@@ -67,5 +68,5 @@ Four Rock-afire characters (Mitzi Mozzerella, Fatz Geronimo, Billy Bob Brockali,
 |2003
 |}
 
-## References ##
+<h2> References </h2>
 <references />

@@ -8,23 +8,23 @@ date = 2023-12-24T02:01:55Z
 contributors = ["ChuckfeldStan","CEC Tinley","The 64th Gamer","ChuckECheeseFan2007"]
 gallery = []
 +++
-{{NoSources}}
 
-**_Chuck E. Cheese's Party Games**_ was a game released in 2010 for the Nintendo Wii.
 
-## Gameplay ##
+<b><i>Chuck E. Cheese's Party Games</b></i> was a game released in 2010 for the Nintendo Wii.
+
+<h2> Gameplay </h2>
 The game takes place at a nondescript Chuck E. Cheese's (Chuck E. Cheese) location.
 
-### Playable Characters ###
+<h2>= Playable Characters </h2>=
 * Russell (Camping)
 * Tommy (Playing Sports)
 
-## Differences from the real restaurants ##
+<h2> Differences from the real restaurants </h2>
 
 * You must unlock arcade games via a lucky wheel, while in real life at the time, the games can all be played via one token (a 25c value).
 * You earn tokens by making pizzas, while in real life, you get paid in cash from making pizzas.
 * The playable character is a child, in real life, you must be at least sixteen to work at a Chuck E. Cheese in the United States.
-* Due to licensing issues, all the arcade games either use generic themes or the 'Munch's Make-Believe Band' IP, unlike the restaurants, which also have licensed games from popular franchises like _Jurassic Park, Mario Kart, Fast and Furious, Teenage Mutant Ninja Turtles_, etc.
+* Due to licensing issues, all the arcade games either use generic themes or the 'Munch's Make-Believe Band' IP, unlike the restaurants, which also have licensed games from popular franchises like <i>Jurassic Park, Mario Kart, Fast and Furious, Teenage Mutant Ninja Turtles</i>, etc.
 * The kid owns a Chuck E. Cheese TV. These TVs do not exist in real life.
 * The uniforms displayed in the intro look more like security cop uniforms, compared to real life, which have uniforms more similar to an amusement park ride operator.
 * The restaurant takes place in what looks to be a dome, no real-life restaurant takes place inside a dome.
@@ -33,12 +33,12 @@ The game takes place at a nondescript Chuck E. Cheese's (Chuck E. Cheese) locati
 * There is no way you can buy a video game for only 500 tickets in real life, even at the time, where physical tickets still existed.
 * Very few of the artwork as seen in 'Photo Hunt' exists elsewhere, 
 
-## Reception ##
+<h2> Reception </h2>
 The game got a mixed reception upon launch, with some criticizing the liberties the game takes compared to real life Chuck E. Cheese's restaurants, along with the lack of multiplayer support for a so-called 'Party Game' (although online leaderboards were planned to be added but were scrapped). The game did get a cult following briefly in 2020, due to the COVID-19 pandemic shutting down real life Chuck E. Cheese restaurants.
 
-## Trivia ##
+<h2> Trivia </h2>
 
-* Russell may be based and/or named after Russell, another Boy Scout-type character from the 2009 Disney-Pixar film _Up_.
+* Russell may be based and/or named after Russell, another Boy Scout-type character from the 2009 Disney-Pixar film <i>Up</i>.
 * Chuck E.'s name was misspelled 'Check E.' on an unused character profile icon.
 * The game was originally going to have online leaderboard support via either Nintendo Wi-Fi Connection or UFO Interactive's Wii servers, but that was scrapped.
 * As indicated by some unused leaderboard icons, this game was originally planned to also be released in Europe, Japan, South Korea and China, these plans were likely scrapped because there are no Chuck E. Cheese's locations in those areas.

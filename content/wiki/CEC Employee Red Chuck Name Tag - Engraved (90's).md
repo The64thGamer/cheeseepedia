@@ -5,12 +5,13 @@ tags = ["Employee Wear"]
 date = 2023-04-27T22:44:52Z
 
 [Article]
+pageThumbnailFile = "b4yb4y5b4y5byb5yb2.png|Unmarked Name Tag"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=b4yb4y5b4y5byb5yb2.png|desc=Unmarked Name Tag}}
-The **_CEC Employee Red Chuck Name Tag - Engraved**_ is a name tag given to employees during the 1990's.
-##Engraved Names##
+
+The <b><i>CEC Employee Red Chuck Name Tag - Engraved</b></i> is a name tag given to employees during the 1990's.
+<h2>Engraved Names</h2>
 The currently known names engraved into the tags:
 *Gina
 *Patricia

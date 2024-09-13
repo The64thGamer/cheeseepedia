@@ -16,17 +16,17 @@ gallery = []
 |studiochd=y
 |dvdcu=y
 |dvdcyber=y
-}}The **_April 2008 Show**_ is a showtape released in April 2008 for Studio C, Cyberamics, and 3-Stage. 
+}}The <b><i>April 2008 Show</b></i> is a showtape released in April 2008 for Studio C, Cyberamics, and 3-Stage. 
 
-## Production ##
+<h2> Production </h2>
 In Segment 1 'Calling The World' the Chuck E. Cheese one of locations featured in the music video is the Atlanta, Georgia Cumberland Blvd location.
 
 In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P hill in Dallas.
 
-### File Dates ###
+<h2>= File Dates </h2>=
 * (Studio C) DVD: 2/14/2008
 
-## Show List ##
+<h2> Show List </h2>
 # Segment 1
 ## Calling The World
 ## Into Action
@@ -64,7 +64,7 @@ In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P hill in Dallas.
 ## Hi-C Time Lapse Drawing
 ## CEC TV ID
 
-## Lives ##
+<h2> Lives </h2>
 # Birthday 2 Minutes
 # Birthday 5 Minutes
 # BINGO
@@ -78,4 +78,4 @@ In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P hill in Dallas.
 # Old MacDonald
 # Chuck E. Shuffle 2006
 # Chuck E. Swing
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>

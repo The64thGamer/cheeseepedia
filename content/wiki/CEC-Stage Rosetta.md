@@ -8,16 +8,16 @@ date = 2024-09-01T09:29:52Z
 contributors = ["The 64th Gamer","Ceclife13","ShowbizMidwest","Documentor","CEC Tinley","Bullseye123"]
 gallery = []
 +++
-**_CEC-Stage Rosetta**_ was a special software created by _Dave Philipson_ in 1997 used to translate programming from the 3-Stage to the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) stage.
+<b><i>CEC-Stage Rosetta</b></i> was a special software created by <i>Dave Philipson</i> in 1997 used to translate programming from the 3-Stage to the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) stage.
 
-This was done to reduce unneeded programming of characters across both stages and began use in the [August 1997]({{< ref "wiki/August 1997 Show.md" >}}) showtape. The name _CEC-Stage Rosetta_ was used as the software could be described as 'Translating' the programming information from the 3-Stage [Bit Chart]({{< ref "wiki/Bit Chart.md" >}}) to the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) equivalent bits.
+This was done to reduce unneeded programming of characters across both stages and began use in the [August 1997]({{< ref "wiki/August 1997 Show.md" >}}) showtape. The name <i>CEC-Stage Rosetta</i> was used as the software could be described as 'Translating' the programming information from the 3-Stage [Bit Chart]({{< ref "wiki/Bit Chart.md" >}}) to the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) equivalent bits.
 
-## Conversion Process ##
+<h2> Conversion Process </h2>
 The conversion process can be reverse engineered by comparing multiple showtapes' signals from both stages. Given this, showtapes where signal data is lost or private for CEC-Stage can be recreated from the official conversion chart, assuming no bugs or additional programming wasn't added in the official release.
 
-Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bit Chart]({{< ref "wiki/Bit Chart.md" >}}) format. Other Cyberamic stages before the creation of the _CEC-Stage Rosetta_ software would be using the bits for different purposes. 
+Bits will be named and numbered by their conversion to the <b><i>Road, 1 + 2</b></i> [Bit Chart]({{< ref "wiki/Bit Chart.md" >}}) format. Other Cyberamic stages before the creation of the <i>CEC-Stage Rosetta</i> software would be using the bits for different purposes. 
 
-### Top Drawer ###
+<h2>= Top Drawer </h2>=
 {| class='wikitable'
 !Group
 !3ST Bit
@@ -159,9 +159,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |Right Arm
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |20
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -180,16 +180,16 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |23
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |24
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -271,16 +271,16 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |Left Arm
 |Yes
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |36
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |37
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -355,9 +355,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |48
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -411,9 +411,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |Head Right
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |56
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -460,9 +460,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |63
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -474,9 +474,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |65
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -509,9 +509,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |70
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -643,7 +643,7 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |}
 
-### Bottom Drawer ###
+<h2>= Bottom Drawer </h2>=
 {| class='wikitable'
 !Group
 !3ST Bit
@@ -918,14 +918,14 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |39
 |
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |40
 |
 |
@@ -953,142 +953,142 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |44
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |45
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |46
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |47
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |48
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |49
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |50
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |51
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |52
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |53
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |54
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |55
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |56
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |57
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |58
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |59
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |60
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |61
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |62
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |63
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |
@@ -1100,9 +1100,9 @@ Bits will be named and numbered by their conversion to the **_Road, 1 + 2**_ [Bi
 |Dimmer
 |
 |-
-|_(Unused)_
+|<i>(Unused)</i>
 |65
-|_(Unused)_
+|<i>(Unused)</i>
 |
 |
 |

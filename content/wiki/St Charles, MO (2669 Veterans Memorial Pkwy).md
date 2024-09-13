@@ -8,11 +8,11 @@ date = 2024-06-24T18:25:55Z
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","GabrielPennington9864","Stripes","OMMEnterainment"]
 gallery = []
 +++
-**_2669 Veterans Memorial Pkwy, Store #948**_ was a _Showbiz Pizza Place_ which opened on October 27, 1982 with a Rock-Afire Explosion, which is still open to this day.
+<b><i>2669 Veterans Memorial Pkwy, Store #948</b></i> was a <i>Showbiz Pizza Place</i> which opened on October 27, 1982 with a Rock-Afire Explosion, which is still open to this day.
 
 St. Charles received CU in 1991 or 1992, a Studio C Alpha in 1998-1999, and 2.0 in October 2022. It is also one of the many Showbiz Pizzas to open next to a Kmart [This Kmart, which is store number #3068 closed in January 1998].
 
-##History##
+<h2>History</h2>
 St. Charles opened its doors on October 27th, 1982 with the Rock-Afire Explosion like every other Showbiz did. Like many other Showbiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open.
 
 In either 1991 or 1992, They received Concept Unification. Then in around the Mid 1990's the store would receive the [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel, complete with: an Obstotron (later SkyTubes); 1991 Platinum CD Award posters (Flabby Road, Brawn in the USA, Cheese Z Top, Vitaminology, & Saturday Night Retriever); Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Coach Chuck signs; 1991 Confetti Portraits; and other misc signage.
@@ -24,7 +24,7 @@ In around 2008, St. Charles would remodel to the 2005 remodel; removing the 90's
 In around 2012, Chuck's outfit was replaced with the Avenger outfit. Chuck's cap would be removed in September 2013. In 2014-2015, the removed the Interactive Console, & Bluescreen Camera. Not long after that, they disabled the curtains.
 
 In October 2022, St. Charles received the 2.0 Remodel, which involved the removal of the Studio C Alpha for the Dance Floor and Video Wall. Currently, as of January 2023, they still have the 2.0 and the Dance Floor. This location, unlike many others, features 2 video walls, then the regular 1 video wall in the show room/party area. The location would also feature a mural, displaying the Chuck E. Cheese characters, doing things in the St. Louis area.
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -51,7 +51,7 @@ In October 2022, St. Charles received the 2.0 Remodel, which involved the remova
 |Still In Use
 |2021 Model. First 2021 2.0 Store in Missouri.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

@@ -8,12 +8,12 @@ date = 2024-09-02T17:59:22Z
 contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-{{Showtape|image=Usa93.jpg|date=May 7, 1991|cusvhs=y|r12=y|c&r=y}}
 
-**American Pride** is a Patriotic themed show that played at Chuck E Cheese's, not to be confused with [CEC American Pride / Neighbors]({{< ref "wiki/CEC American Pride  Neighbors.md" >}}) it is the very first Munch's Make Believe Bands Patriotic showtape.
 
-##Show List##
-#**Intermission 1**
+<b>American Pride</b> is a Patriotic themed show that played at Chuck E Cheese's, not to be confused with [CEC American Pride / Neighbors]({{< ref "wiki/CEC American Pride  Neighbors.md" >}}) it is the very first Munch's Make Believe Bands Patriotic showtape.
+
+<h2>Show List</h2>
+#<b>Intermission 1</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Good_Vibrations Good Vibrations]
 ###Birthday Extravaganza
@@ -21,12 +21,12 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###[https://en.wikipedia.org/wiki/Those_Lazy-Hazy-Crazy_Days_of_Summer_(song) Those Lazy, Hazy, Crazy Days Of Summer]
 ##Geography Rap - Australia
 ##CEC-TV Intro
-#** Segment 1**
+#<b> Segment 1</b>
 ##America The Beautiful
 ##Yankee Doodle
 ##Oh Susanna
 ##Children Of America
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Uptown_Girl Uptown Girl]
 ###Birthday Extravaganza
@@ -34,11 +34,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###[https://en.wikipedia.org/wiki/I%27m_Walkin%27 I'm Walkin']
 ##Helen Henny's Hollywood - Lassie
 ##CEC-TV Intro
-#** Segment 2**
+#<b> Segment 2</b>
 ##Rockin' State
 ##My Country
 ##This Land Is My Land
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Walkin%27_After_Midnight Walkin' After Midnight]
 ###[https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me) I Wanna Dance with Somebody]
@@ -46,10 +46,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###[https://en.wikipedia.org/wiki/Hit_the_Road_Jack Hit the Road Jack]
 ##CEC-TV News - Pasqually's Phone Call
 ##CEC-TV Intro
-#** Segment 3**
+#<b> Segment 3</b>
 ##Oh I Think My Pride Is Showing Again
 ##You're A Grand Old Flag
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Sussudio Sussudio]
 ###Birthday Extravaganza
@@ -57,12 +57,12 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###[https://en.wikipedia.org/wiki/Rock%27n_Me Rock'n Me]
 ##Geography Rap - Australia
 ##CEC-TV Intro
-#** Segment 1**
+#<b> Segment 1</b>
 ##America The Beautiful
 ##Yankee Doodle
 ##Oh Susanna
 ##Children Of America
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Rock%27n_Me Rock'n Me]
 ###Birthday Extravaganza
@@ -70,11 +70,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ###[https://en.wikipedia.org/wiki/Little_Darlin%27 Little Darlin' (By The Diamonds)]
 ##Helen Henny's Hollywood - Lassie
 ##CEC-TV Intro
-#** Segment 2**
+#<b> Segment 2</b>
 ##Rockin' State
 ##My Country
 ##This Land Is My Land
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##8 Minute Countdown
 ###[https://en.wikipedia.org/wiki/Peppermint_Twist Peppermint Twist]
 ###[https://en.wikipedia.org/wiki/Walk,_Don%27t_Run_(instrumental) Walk, Don't Run]
@@ -82,11 +82,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ### [https://en.wikipedia.org/wiki/Walk_of_Life Walk of Life]
 ##CEC-TV News - Pasqually's Phone Call
 ##CEC-TV Intro
-#** Segment 3**
+#<b> Segment 3</b>
 ##Oh I Think My Pride Is Showing Again
 ##You're A Grand Old Flag
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The intermission music is the same as [SPP Best of 4]({{< ref "wiki/SPP Best Of 4.md" >}}).
 * The first show to introduce the CEC-TV Specials (Geography Rap, Helen Henny's Hollywood, CEC-TV News), all of them except this specific CEC-TV News which doesn't get reused in future shows.

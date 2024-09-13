@@ -9,19 +9,19 @@ contributors = ["TheChuckECheeseGuy","CEC Tinley"]
 gallery = ["Newark.jpg|thumb|Newark's exterior not long after it got 2.0. (PC: Google Maps)"]
 +++
 
-**_39839 Mowry School Rd**_ is a _Chuck E. Cheese's_ that opened on August 5, 1997, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and is still open today with the 2.0 remodel.
+<b><i>39839 Mowry School Rd</b></i> is a <i>Chuck E. Cheese's</i> that opened on August 5, 1997, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and is still open today with the 2.0 remodel.
 
-## Stages ##
+<h2> Stages </h2>
 Newark opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). Around the early 2000s-time frame, the Tuxedo outfit was replaced with the Cool Chuck outfit. Apparently, the turntable lasted until around the mid-2010s. In 2005, just like every other MMBB stage, the curtains were disabled. Chuck later got his Avenger and Rockstar outfits in similar time frames. The stage would last until December 2018, when it was removed for a Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
-## History ##
+<h2> History </h2>
 Newark opened on August 5, 1997 with the [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) remodel and a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), one of the last ever installed. Unfortunately, not much information is known about Newark from around this time.
 
 In 2007/2008, Newark received the 2005 update to the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}), which removed all 90s decor, removed showroom walls and balcony seating, replaced the lighting, and received a complete exterior remodel. During the 2005 remodel era, the store was featured on numerous stock images of CEC.
 
 In the later months of 2018, Newark would begin the 2.0 remodel, removing the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) for a Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). The remodel would also cause the removal of the dome that was on top of the building from opening in 1997. As of October 2023, Newark still has the 2.0 remodel.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -48,7 +48,7 @@ In the later months of 2018, Newark would begin the 2.0 remodel, removing the [1
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

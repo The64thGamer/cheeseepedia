@@ -9,13 +9,13 @@ contributors = ["The 64th Gamer"]
 gallery = ["Shoosh6.png|thumb|502x502px|Showbiz Pizza Program 6"]
 +++
 
-**_Showbiz Pizza Program 6**_ is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.
+<b><i>Showbiz Pizza Program 6</b></i> is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.
 
-These programs were still produced by _Sight & Sound Entertainment Corporation_, however the company would be merged into _Audio Environments Inc.,_ rebranding as _AEI Music_. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as _Inflight Audio Entertainment_, and each gave the address of AEI Music Network Inc. at the bottom of the label.
-##Releases##
+These programs were still produced by <i>Sight & Sound Entertainment Corporation</i>, however the company would be merged into <i>Audio Environments Inc.,</i> rebranding as <i>AEI Music</i>. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as <i>Inflight Audio Entertainment</i>, and each gave the address of AEI Music Network Inc. at the bottom of the label.
+<h2>Releases</h2>
 It is unknown the showtapes this released alongside.
 *
-##Song List##
+<h2>Song List</h2>
 #[https://en.wikipedia.org/w-iki/Love_to_Infinity 9 to 5 (Love To Infinity Radio Mix)]
 #[https://en.wikipedia.org/wiki/Working_Man_(John_Conlee_song) Working Man]
 #[https://en.wikipedia.org/wiki/Wichita_Lineman Wichita Lineman (Remastered 2001)]
@@ -35,5 +35,5 @@ It is unknown the showtapes this released alongside.
 #[https://en.wikipedia.org/wiki/American_Made_(song) American Made]
 #[https://en.wikipedia.org/wiki/Back_in_the_U.S.A. Back In The U.S.A. (Hail! Hail! Rock 'N' Roll / Soundtrack Version)]
 #[https://en.wikipedia.org/wiki/Big_City_(Merle_Haggard_song) Big City]
-##References##
+<h2>References</h2>
 <references />

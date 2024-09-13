@@ -9,19 +9,19 @@ contributors = ["CECBowlingGreen","RPCEC Backup","Midlo tech","Rexburg090","Noah
 gallery = ["Richmond's New Exterior.jpg|thumb|Richmond months after they completed their 2.0 remodel. (PC: Google Maps)"]
 +++
 
-**_10430 Midlothian Turnpike, Store #652**_ is a Chuck E. Cheese restaurant that opened as a Showbiz Pizza on May 1, 1990, with a Rock-Afire Explosion, which is still open to this day.
+<b><i>10430 Midlothian Turnpike, Store #652</b></i> is a Chuck E. Cheese restaurant that opened as a Showbiz Pizza on May 1, 1990, with a Rock-Afire Explosion, which is still open to this day.
 
 This location is notable for being the last Showbiz Pizza location to open, as Concept Unification would be happening around this time, this location would very shortly after convert to a 3-Stage in Fall 1992, which was removed in January 2023. Richmond was the 10th last 3-Stage.
 
-## History ##
+<h2> History </h2>
 
-### Showbiz Pizza Place 1990-Fall 1992 ###
+<h2>= Showbiz Pizza Place 1990-Fall 1992 </h2>=
 The location would open on May 1, 1990, as the very last Showbiz Pizza Place location with a Rock-afire Explosion show. This location would end up receiving Concept Unification around August to September of 1992.
 
-### Chuck E. Cheese's Fall 1992-Present ###
+<h2>= Chuck E. Cheese's Fall 1992-Present </h2>=
 The location would become a Chuck E. Cheese's Pizza location around August to September 1992. It is currently unknown when exactly this location received the Phase 1, Phase 2, and Phase 3 remodels, however the store would receive the 2005 Avenger redesign between 2005-2006.  The location would receive 2.0 in January 2023.
 
-## Stages ##
+<h2> Stages </h2>
 Originally, the store had a Rock-Afire Explosion, the location the stage came from was Surfside Beach, South Carolina, in which that came from [Park Ridge, Illinois]({{< ref "wiki/Park Ridge, IL (678 N Northwest Hwy).md" >}}). They would have the stage for a short time, until 1992, when they would undergo Concept Unification, turning the RAE into Munch's Make-Believe Band. Their 3-Stage had the MMBB logo from the Road and 2-Stages. In 2017, their Pizzacam was repaired by Connor L who replaced the cosmetics with new ones but was removed after the Tolomatic was considered unrepairable with the cosmetics being returned as of a result. In January 2023, the 3-Stage was removed as part of their 2.0 remodel. It was formerly the last 3-Stage in the state of Virginia, after Roanoke received 2.0 in July 2022.
 {| class='wikitable'
 |+
@@ -49,7 +49,7 @@ Originally, the store had a Rock-Afire Explosion, the location the stage came fr
 
 TODO: Gallery
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -70,7 +70,7 @@ Chuck E. Cheese's Show 4 2015 (Show 4 2015)
 |10/3/2015
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 
 {| class='wikitable'
 |+

@@ -13,8 +13,8 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |date=September 1988
 |raesvhs=y|showbizreel=y}}
 
-**_SPP September 1988 Show**_ is a _Cyberstar_ showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
-##Show List:##
+<b><i>SPP September 1988 Show</b></i> is a <i>Cyberstar</i> showtape released near the end of the Rock-afire Explosion's use in Showbiz Pizza Place.
+<h2>Show List:</h2>
 It is currently unknown the order of the segments in this show, though the segments themselves are known
 
 *  Dance Contest (Cyberstar Segment) (Dance Contest)

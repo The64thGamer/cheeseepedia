@@ -16,20 +16,20 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**_Patriotic**_ was released on June 20, 1994 at Chuck E. Cheese's.
+<b><i>Patriotic</b></i> was released on June 20, 1994 at Chuck E. Cheese's.
 
-##Show List ##
-#**** **Intermission 1 - Magic**
+<h2>Show List </h2>
+#<b></b> <b>Intermission 1 - Magic</b>
 ##VJ Spot
 ##Charlie Rockit
 ##Joke Pizza Wall
 ##Tricks For Treats
 ##Did You Know?
 ##VJ Spot
-#**** **Segment 1**
+#<b></b> <b>Segment 1</b>
 ##'Party Place'
 ##'Conga'
-#**** **Intermission 2 - Dancing**
+#<b></b> <b>Intermission 2 - Dancing</b>
 ##CEC TV '94 ID
 ##State Of The Art Of Computer Animation
 ##Dancin' Fools
@@ -42,10 +42,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Munch Learns To Dance
 ##Did You Know?
 ##VJ Spot
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Be True To Your School'
 ##'School Days'
-#**** **Intermission 3 - School**
+#<b></b> <b>Intermission 3 - School</b>
 ##CEC TV '94 ID
 ##Kidsongs
 ##VJ Spot
@@ -55,10 +55,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Joke Pizza Wall
 ##Did You Know?
 ##VJ Spot
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Good For Me'
 ##'Act Naturally'
-#**** **Intermission 4 - Movies**
+#<b></b> <b>Intermission 4 - Movies</b>
 ##CEC TV '94 ID
 ##State Of The Art Of Computer Animation
 ##VJ Spot
@@ -67,12 +67,12 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 ##Joke Pizza Wall
 ##Did You Know?
 ##VJ Spot
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'Party Place (Encore)'
-#**Intermission 5 - Magic**
+#<b>Intermission 5 - Magic</b>
 ##CEC TV '94 ID
 ##[https://en.wikipedia.org/wiki/Mind%27s_Eye_(film_series) Beyond The Mind's Eye]
 
-##Trivia:##
+<h2>Trivia:</h2>
 *Both versions of Party Place are reused from [Spring Break]({{< ref "wiki/Spring Break.md" >}})
 *Act Naturally was filmed at Disney MGM Studios

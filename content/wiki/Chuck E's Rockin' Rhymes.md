@@ -16,59 +16,59 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293 = y
 |cusvhs = y
 }}
-**_Chuck E's Rockin' Rhymes (April 2001)**_ released April 2001 and ran through June 2001.
+<b><i>Chuck E's Rockin' Rhymes (April 2001)</b></i> released April 2001 and ran through June 2001.
 
 The show is notable for having only one song per segment (similar to Chuck E's Variety Show), as well as prominently featuring the Studio C puppets in the main show footage.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## Party Place
-#   **Intermission 1**
+#   <b>Intermission 1</b>
 ##VeggieTales - 'We're Vikings'
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## Humpty Dumpty
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Eddie Coker - 'The Dog'
 ## Store Intro - 'Spokane, WA'
 ## CEC TV ID - 'Couch'
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## Sharing
-#  **Intermission 3**
+#  <b>Intermission 3</b>
 ## The Wiggles - 'Get Ready to Wiggle'
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## Little Red Riding Hood
-#   **Intermission 4**
+#   <b>Intermission 4</b>
 ##Super Jasper - 'Resisting Temptation'
 ## Store Intro - 'Sendero, Chile'
 ## CEC TV ID - 'Couch'
-#  **Segment 5**
+#  <b>Segment 5</b>
 ## Think Happy
-#   **Intermission 4**
+#   <b>Intermission 4</b>
 ##VeggieTales - 'Larry's High Silk Hat'
-#  **Segment 6**
+#  <b>Segment 6</b>
 ## Jack & Jill
-#   **Intermission 6**
+#   <b>Intermission 6</b>
 ##Eddie Coker - 'Mrs. Gillafrudnick'
 ## Store Intro - 'Orlando, FL'
 ## CEC TV ID - 'Couch'
-#  **Segment 7**
+#  <b>Segment 7</b>
 ## Be My Friend
-#   **Intermission 7**
+#   <b>Intermission 7</b>
 ##The Wiggles - 'Do the Monkey'
-#  **Segment 8**
+#  <b>Segment 8</b>
 ## The Three Little Investors
-#  **Intermission 8**
+#  <b>Intermission 8</b>
 ##  Chuck E. Goes Ballooning
 ## Store Intro - 'Spokane, WA'
 ## CEC TV ID - 'Couch'
 
-## Production ##
+<h2> Production </h2>
 * Loren Soman created the CEC TV 3D bumper seen after the first segment.<ref>https://vimeo.com/33748276</ref>
-* The working title for this show was 'The Just for Kids Show II'.<ref>https://web.archive.org/web/20030213002625/http://rock_afire.tripod.com/jasper/cecmodern/2001_april.html</ref>
+* The working title for this show was 'The Just for Kids Show II'.<ref>https:<i>web.archive.org/web/20030213002625/http:</i>rock_afire.tripod.com/jasper/cecmodern/2001_april.html</ref>
 * The footage for 'Be My Friend' was filmed at the Orlando, FL (I-Drive) and Dallas, TX (Monfort) locations.
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 During this time Lives would be on separate VHS tapes for MMBB based stores.
 * Chuck E. Says
@@ -84,7 +84,7 @@ During this time Lives would be on separate VHS tapes for MMBB based stores.
 * [Patriotic Live 00]({{< ref "wiki/Patriotic Live 00.md" >}})
 * If You're Happy & You Know It
 
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>
 
 
-## References ##
+<h2> References </h2>

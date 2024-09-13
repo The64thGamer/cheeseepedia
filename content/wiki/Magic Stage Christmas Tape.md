@@ -13,38 +13,38 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |date=November 1985
 |showbizreel=y}}
 
-**_Magic Stage Christmas Tape**_ was a unique showtape created for the [Magic Stage Prototype]({{< ref "wiki/Magic Stage Prototype.md" >}}) in November of 1985.
+<b><i>Magic Stage Christmas Tape</b></i> was a unique showtape created for the [Magic Stage Prototype]({{< ref "wiki/Magic Stage Prototype.md" >}}) in November of 1985.
 
 The show and stage would debut at an unknown Texas store. The characters were rebranded from the Rock-afire Explosion to a band simply called 'Magic'. Character names and Rock-afire shows were still used for the showtape however. An uncredited announcer is used exclusively for the tape to introduce the band. 
 
 [Sun]({{< ref "wiki/Sun (Animatronic).md" >}}), [Moon]({{< ref "wiki/Moon (Animatronic).md" >}}), and Anitoch (Animatronic) (Antioch) would be absent from the show due to them being taken off stage, though most likely their show signals were still being sent due to the re-use of older programming, as seen in other similar instances to removed characters.<ref>https://youtu.be/x9438Sw6fjo</ref>
 
-## Audio ##
-The tape's audio was found on a cassette from an undisclosed source and released to the public in 2023.<ref>https://youtu.be/2xwOGvgn25A</ref> The given audio has no breaks between show segments, despite the _Pre-Show Skit_ referencing a 2 minute gap until the _Show Announcement_ segment. It is unclear if the breaks were removed to fit the audio onto the cassette, or if the showtape also did not have these breaks between segments.
+<h2> Audio </h2>
+The tape's audio was found on a cassette from an undisclosed source and released to the public in 2023.<ref>https://youtu.be/2xwOGvgn25A</ref> The given audio has no breaks between show segments, despite the <i>Pre-Show Skit</i> referencing a 2 minute gap until the <i>Show Announcement</i> segment. It is unclear if the breaks were removed to fit the audio onto the cassette, or if the showtape also did not have these breaks between segments.
 
 The original reel audio alongside [Data]({{< ref "wiki/Data.md" >}}) for the shows are still lost media.
 
-##Summary##
+<h2>Summary</h2>
 The tape starts with an announcer reminding Billy Bob that the show is starting in 2 minutes. At the start of the show the announcer introduces the band 'Magic', a collaboration between ShowBiz Pizza Place and 'Good Times Everywhere'. The rest of the tape consists of Christmas segments used in previous year's showtapes.
 
 <tabber>
 |-|Segment List=
-#**Segment 1**
+#<b>Segment 1</b>
 ##Pre-Show Skit
-#**Segment 2**
+#<b>Segment 2</b>
 ##Show Announcement
-#**Segment 3**
+#<b>Segment 3</b>
 ##Silent Night
-#**Segment 4**
+#<b>Segment 4</b>
 ##In December
-#**Segment 5**
+#<b>Segment 5</b>
 ##Fire
 ##My Girl
-#**Segment 6**
+#<b>Segment 6</b>
 ##If Every Day Were Like Christmas
-#**Segment 7**
+#<b>Segment 7</b>
 ##Elvira
-#**Segment 8**
+#<b>Segment 8</b>
 ##Disco Christmas (ShowBiz Edit)
 ###Joy To The World
 ###Rudolph The Red Nose Reindeer
@@ -57,18 +57,18 @@ The tape starts with an announcer reminding Billy Bob that the show is starting 
 |-|Transcriptions=
 {{#tag:tabber|
 Pre-Show Skit=
-**Announcer:**
+<b>Announcer:</b>
 
 Uh- Billy Bob- this is a two-minute call. Don't forget that you need to get ready and tuned up for the next show, okay?
- {{!}}-{{!}}
+ -
 Show Announcement=
-**[Drums roll, then electric synth music plays]**
+<b>[Drums roll, then electric synth music plays]</b>
 
 
-**Announcer:**
+<b>Announcer:</b>
 
 Ladies and gentlemen, boys and girls... ShowBiz Pizza Place in conjunction with Good Times Everywhere is proud to present a musical group which has been assembled from across the country. A group whose background is as diverse as its musical ability. After exhaustive negotiations, ShowBiz is pleased to present eight immensely talented performers known as 'Magic'. Without further ado let's bring these kids to the stage with a big ShowBiz welcome for our salute to Good Times!
 }}
 </tabber>
-##References##
+<h2>References</h2>
 <references />

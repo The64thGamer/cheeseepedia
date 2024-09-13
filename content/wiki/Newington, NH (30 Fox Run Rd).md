@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2024-05-26T02:37:42Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior, 2018.|image=NewingtonNHCECExteriorPreClosure.jpeg"
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","CECCheese","2601:188:CA81:2BE0:D0B6:F932:6925:FFC3","47.17.236.200","CorrectorMan","Cheeseclassic","Tux Chuck","Harchambeault2026"]
 gallery = []
 +++
-{{Generic|desc=Exterior, 2018.|image=NewingtonNHCECExteriorPreClosure.jpeg}}
-**_Newington, NH (30 Fox Run Rd), Store #471**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre_ that opened in August 1983 and closed on March 31st, 2018.
-##History##
+
+<b><i>Newington, NH (30 Fox Run Rd), Store #471</b></i> was a <i>Chuck E. Cheese's</i> <i>Pizza Time Theatre</i> that opened in August 1983 and closed on March 31st, 2018.
+<h2>History</h2>
 Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location. It opened with the Balcony Stage and Dolli Dimples in the Lounge room. 
 
 Sometime in the mid 1980's, Newington would replace Dolli with the Beach Bowzers. Around the same time, Newington was bought by the corporate on February 2nd, 1987, along with [Manchester]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) and [Danvers, MA]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}).
@@ -22,7 +23,7 @@ Around Fall 1996, Newington would receive the 1993 Remodel. Converting the C-Sta
 In November 2005, Newington would receive the 2005 Remodel. The 2-Stage would remain, and the Skytubes would be downsized and relocated to the back of the store, The Toddler Zone would be placed in the former Lounge Room area, and the Balcony and Showroom walls would be demolished. Around Summer 2008, the 2-Stage would go through a huge cosmetic overhaul. Every character would receive a new mask (except for Jasper), and Chuck E's Tuxedo would be replaced by the Cool Chuck outfit.
 
 In January 2018, it was announced that Planet Fitness, which previously had its headquarters located next to Chuck E. Cheese's, who were also owners of the entire property, sold the property to the furniture store, Bernie and Phyl's. This announcement meant Chuck E. Cheese's would be forced to shut down to make way for the new property. Shortly after the announcement, Newington would close permanently on March 31st, 2018. There were talks of a possible relocation, but unfortunately this never came into fruition. By Summer 2018, the building would be completely gutted, and Bernie and Phyl's would open by 2019.
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -44,7 +45,7 @@ In January 2018, it was announced that Planet Fitness, which previously had its 
 |March 2018
 |One of 2 2-Stages in New Hampshire.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -114,7 +115,7 @@ In January 2018, it was announced that Planet Fitness, which previously had its 
 
 [https://www.showbizpizza.com/photos/cec/nh_newington/index.html 2002]
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

@@ -17,41 +17,41 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |labelname1=Studio C
 Valid April 1st - June 30th, 2007}}
 
-**_April 2007**_ is a showtape released on April 1, 2007 that was valid up to June 30, 2007.
+<b><i>April 2007</b></i> is a showtape released on April 1, 2007 that was valid up to June 30, 2007.
 
-##Summary##
+<h2>Summary</h2>
 This show has a small story in which Pasqually gains a concussion and believes that he's one of the other band members throughout the show, the rest of the band members try to have Pasqually to remember who he is while he's in delusion.
 
-##Show List##
+<h2>Show List</h2>
 
-# ** Segment 1**
+# <b> Segment 1</b>
 ## 'Get Down On It'
 ## 'Listen To The Music'
-# ** Intermission 1**
+# <b> Intermission 1</b>
 ## Veggietales - 'Belly Button'
 ## Juggling
-# ** Segment 2**
+# <b> Segment 2</b>
 ## 'China Grove'
 ## 'I've Been Everywhere'
-# **Intermission 2**
-## **** Artist Spotlight
+# <b>Intermission 2</b>
+## <b></b> Artist Spotlight
 ## Coke Spot
 ## Skydiving
-# ** Segment 3**
+# <b> Segment 3</b>
 ## 'Celebration'
 ## 'You'll Never Find'
-# ** Intermission 3**
+# <b> Intermission 3</b>
 ## VeggieTales - 'I Love My Lips'
 ## Skateboarding
-# ** Segment 4**
+# <b> Segment 4</b>
 ## 'Is It Love?'
 ## 'Wrapped Up In You'
-# ** Intermission 4**
+# <b> Intermission 4</b>
 ## PBS Spot
 ## Maya & Miguel
 ## Minute Maid Spot
 
-##Lives:##
+<h2>Lives:</h2>
 *New Birthday
 *[Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 *Spanish Birthday 01
@@ -64,9 +64,9 @@ This show has a small story in which Pasqually gains a concussion and believes t
 *If You're Happy & You Know It
 *Jumpin'
 *Old Mcdonald
-##Production##
+<h2>Production</h2>
 
-### Dept. 18 Productions ###
+<h2>= Dept. 18 Productions </h2>=
 Robert Gotcher - Director
 
 Michael Hill - Studio Coordinator, Animatronic Programmer
@@ -87,14 +87,14 @@ Earl Fisher - Pasqually Voice Actor
 
 Sammy Davenport - Music Director
 
-###Filming Locations###
+<h2>=Filming Locations</h2>=
 
 * Everything not on location is shot at [https://www.mpsfilm.com/ MPS Studios].
 * 'Listen To The Music' was filmed at the Granada Movie Theater in Dallas, Texas.
 * China Grove is shot in the downtown area of Dallas, Texas.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-##Trivia:##
+<h2>Trivia:</h2>
 *Rob Gotcher and Michael Hill are seen working at the Movie Theatre in 'Listen To The Music'
 *This show was scripted by Matt Daniel

@@ -15,10 +15,10 @@ gallery = []
 
 TODO: Showtape description and history.
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Segments ##
+<h2> Segments </h2>
 Segment 1
 
 # Una Paloma Blanca

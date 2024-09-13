@@ -8,12 +8,12 @@ date = 2024-08-05T14:42:45Z
 contributors = ["Moonrock","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}
-**_Toledo, OH (5455 Airport Hwy), Store #554**_ is a _Chuck E. Cheese's_ that opened on September 6th, 1993 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). It still exists as of today, in good condition except for Helen's beak.
+
+<b><i>Toledo, OH (5455 Airport Hwy), Store #554</b></i> is a <i>Chuck E. Cheese's</i> that opened on September 6th, 1993 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}). It still exists as of today, in good condition except for Helen's beak.
 
 This store is notable for being featured in a 2011 video where a Chuck E walkaround's head fell off during a Cupid Shuffle live show.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -27,10 +27,10 @@ This store is notable for being featured in a 2011 video where a Chuck E walkaro
 |Last MMBB Stage in Ohio.
 |}
 
-## History ##
+<h2> History </h2>
 W.I.P
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -42,7 +42,7 @@ W.I.P
 |October 17, 2011
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

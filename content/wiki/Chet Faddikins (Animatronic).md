@@ -8,15 +8,15 @@ date = 2024-05-30T23:20:59Z
 contributors = ["FileFickle"]
 gallery = []
 +++
-{{Animatronic|releasedate=1978|manufacturer=Creative Engineering|image=chet_f.jpg|unitsProduced=2}}Chet Faddikins was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Morey's Piers and Americana Amusement Park. He is most likely a parody of country rock guitarist, Chet Atkins.
+Chet Faddikins was created for the [Bear Country Jubilee]({{< ref "wiki/Bear Country Jubilee.md" >}}) which was sold to Morey's Piers and Americana Amusement Park. He is most likely a parody of country rock guitarist, Chet Atkins.
 
-## History ##
+<h2> History </h2>
 Chet Faddikins along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984<ref>https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s</ref> and currently resides at the CEI museum.
 
-## Design ##
+<h2> Design </h2>
 In his design for Americana Amusement Park, he had gray fur with a white stomach, and wore a blue vest with yellow flowers and stars. At an unknown date, this was switched to a blue bandana and cowboy hat. At Morey's Piers, he had all white fur and wore just a yellow bandana around his neck. He's a large bear that plays the guitar on center stage.
 
-## Movements ##
+<h2> Movements </h2>
 Due to lack of footage or photos of internals, movements can only be inferred. All that is known is that he along with the rest of the bots in the show had very limited movement.
 
 * Mouth

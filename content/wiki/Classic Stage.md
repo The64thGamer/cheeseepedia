@@ -5,32 +5,33 @@ tags = ["Stage Variations"]
 date = 2024-06-11T05:01:29Z
 
 [Article]
+pageThumbnailFile = "The 'classic stage'.jpg|A promotional photo of the Classic Stage in a Showbiz Pizza Place."
 contributors = ["RockafireFan123","The 64th Gamer","2603:900A:1104:3200:9D77:FFF8:D3FF:9863","64.125.60.2","107.147.190.172","ShowbizMidwest","Bowling for Cheese","Sonichacker","Cheeseclassic","Cy's Junk at School","CECMentor","Livelycheese"]
 gallery = []
 +++
-{{Generic|image=The 'classic stage'.jpg|desc=A promotional photo of the Classic Stage in a Showbiz Pizza Place.}}
 
-The **_Classic Rock-afire Stage**_ was the original default stage seen through the Rock-afire's life in _Showbiz Pizza Place_ through the 1980's, and later in various Family Entertainment Centers (FECs) throughout the 90's to early 2000's.
 
-## Design ##
+The <b><i>Classic Rock-afire Stage</b></i> was the original default stage seen through the Rock-afire's life in <i>Showbiz Pizza Place</i> through the 1980's, and later in various Family Entertainment Centers (FECs) throughout the 90's to early 2000's.
+
+<h2> Design </h2>
 The stage featured three large stages containing separate visual scenes alongside their animatronic characters. Stage Right, Rolfe's Stage, featured an indoor scene with colorful streamers adorning the back wall. An applause sign hung above the center of the wall, which could light up during the show. A set of pots full of gold casting a rainbow was the main wood cutout piece decorating the stage, along with a Cymbal for Rolfe's animatronic to strike during performances. The floor was initially a brown carpet, before being changed to grey in later updates to the design.
 
 Stage Center featured an outdoor scene with an open sky, resembling a forest. Props like the Frog, leaves, Choo-Choo, and in early iterations, the owl, were used to bring the stage's floor to life with nature. The Sun and Moon animatronics appeared on each side of the stage behind the trees, with clouds adoring faces above the characters. These details allowed for a picturesque, almost childlike depiction of the outside. Dook and Beach Bear each performed on cut down stumps, giving more idea to them being a makeshift stage out in the woods. Fatz's keyboard and the Rock-afire sign are a stark contrast to the natural aesthetic, being the most bright and modern pieces of the whole Classic stage.
 
-Stage Left features Billy Bob and Looney bird, being outside _Smitty's Super Service Station_, a recreation of a previous stage used in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). Their stage blends the best with Center Stage, featuring a background sky and leaves. Flooding the stage however are moonshine bottles, along with a 'Goofy Gas' boiler that leads into Looney Bird's blue Oil Drum. A light up gas pump is seen in the back, with the Smitty's wood store cutout prop being the main focus of the stage. The cutout represents the front of the store, with a peek into the inside, which has a car being repaired.
+Stage Left features Billy Bob and Looney bird, being outside <i>Smitty's Super Service Station</i>, a recreation of a previous stage used in the [Hard Luck Bears]({{< ref "wiki/Hard Luck Bears.md" >}}). Their stage blends the best with Center Stage, featuring a background sky and leaves. Flooding the stage however are moonshine bottles, along with a 'Goofy Gas' boiler that leads into Looney Bird's blue Oil Drum. A light up gas pump is seen in the back, with the Smitty's wood store cutout prop being the main focus of the stage. The cutout represents the front of the store, with a peek into the inside, which has a car being repaired.
 
 The outside of the stage featured a red curtain spanning across all three sub-stages. Each with banners depicting the character's icons and their signatures. White curtains with gold tassels on the bottom would conceal the stages, before pulling back when a show started. The show was also raised a few feet off the ground, making it just near the height of any tables that would normally block the view. Away from the stage would feature the character spotlights hanging from the ceiling, each pointed at the main cast, excluding Sun and Moon.
 
-## Early Iterations ##
+<h2> Early Iterations </h2>
 Early versions of the Rock-afire Explosion featured different masks, different fur, a different organ front, different backdrops, and a different version of the sign. These are commonly referred to as 'Beta' stages due to their rough and incomplete feel. Several of these stages would later get the newer and more standard parts that were used throughout the 80s.
 
-## Klunk Stage ##
+<h2> Klunk Stage </h2>
 In the summer of 1983, Uncle Klunk replaced Rolfe Dewolfe in various locations. This was temporary however, as Klunk was a rotating character. He was eventually phased out of locations in the mid 80's.
 
-## Santa Stage ##
+<h2> Santa Stage </h2>
 The Santa Stage was a retrofit of Uncle Klunks stage, and premiered in the fall of 1983. He would reuse Uncle Klunks mechanism, getting a new outfit and personality to match a typical depiction of Santa Claus.
 
-## Operational Classic Stages ##
+<h2> Operational Classic Stages </h2>
 {| class='wikitable'
 !Place
 !Address

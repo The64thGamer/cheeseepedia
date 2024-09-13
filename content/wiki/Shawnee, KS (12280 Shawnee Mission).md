@@ -9,9 +9,9 @@ contributors = ["CorrectorMan"]
 gallery = ["Shawnee.jpg|thumb|The site of the Shawnee location. (PC: Google Maps)"]
 +++
 
-**_12280 Shawnee Mission**_ was a Showbiz Pizza Place that opened on August 19, 1981 and closed on October 13, 1985 with a Rock-afire Explosion. Not very much is known about this location.
+<b><i>12280 Shawnee Mission</b></i> was a Showbiz Pizza Place that opened on August 19, 1981 and closed on October 13, 1985 with a Rock-afire Explosion. Not very much is known about this location.
 
-## Stages ##
+<h2> Stages </h2>
 Shawnee opened in 1981 with a Rock-afire Explosion show. Unfortunately, information on the store is scarce, and was removed in 1985 due to closure.
 {| class='wikitable'
 |+
@@ -26,10 +26,10 @@ Shawnee opened in 1981 with a Rock-afire Explosion show. Unfortunately, informat
 |Second SPP in Kansas.
 |}
 
-## History ##
+<h2> History </h2>
 Shawnee opened on August 19, 1981 as a Showbiz Pizza Place with a Rock-afire Explosion. Sadly, information on Shawnee's Showbiz is scarce, and very, very few photos exist, but we are sure no videos exist. On October 13, 1985, the location closed for unknown reasons, but likely due to underperformance. Many businesses took up the space, but the store that currently holds this address is a DVD store named Vintage Stock.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

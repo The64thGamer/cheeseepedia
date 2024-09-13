@@ -5,34 +5,35 @@ tags = ["Store List"]
 date = 2024-06-11T22:46:08Z
 
 [Article]
+pageThumbnailFile = "FuntasticksCharlotteExterior.png|Pineville's exterior as 'Funtasticks Charlotte' prior to demolition (2018-2020)"
 contributors = ["BigCtheDataFinder"]
 gallery = []
 +++
-{{Generic|image=FuntasticksCharlotteExterior.png|desc=Pineville's exterior as 'Funtasticks Charlotte' prior to demolition (2018-2020)}}
 
-**_Pineville, NC (10400 Cadillac St)**_ was a _Celebration Station_ that opened around May 1991 with a Daniel and the Dixie Diggers + Jethro P. Hogg (Daniel and the Dixie Diggers Trio + Jethro P. Hogg) show, closing by June 3rd, 2005. Pineville, along with the South Houston, TX (6767 Southwest Fwy), North Houston, TX (180 W Rankin Rd), and Knoxville, TN (400 N Peters Rd) Celebration Stations were sold off by Whiteco and rebranded as _Zuma Fun Center_ locations in June 2005. The Pineville location then switched through several different owners before demolition in 2022.
 
-## History ##
+<b><i>Pineville, NC (10400 Cadillac St)</b></i> was a <i>Celebration Station</i> that opened around May 1991 with a Daniel and the Dixie Diggers + Jethro P. Hogg (Daniel and the Dixie Diggers Trio + Jethro P. Hogg) show, closing by June 3rd, 2005. Pineville, along with the South Houston, TX (6767 Southwest Fwy), North Houston, TX (180 W Rankin Rd), and Knoxville, TN (400 N Peters Rd) Celebration Stations were sold off by Whiteco and rebranded as <i>Zuma Fun Center</i> locations in June 2005. The Pineville location then switched through several different owners before demolition in 2022.
 
-### Celebration Station (1991-2005) ###
+<h2> History </h2>
+
+<h2>= Celebration Station (1991-2005) </h2>=
 The Pineville Celebration Station opened sometime in May 1991, and was the first to publicly unveil Sally's Daniel and the Dixie Diggers Trio show. The exterior was uniquely built, as Pineville was one of three locations (the others being Baton Rouge, LA (10111 Gwenadele Ave) and Oklahoma City, OK (509 Westline Dr)) to receive the short-lived 'cabin' design. As both locations were constructed at the same time from each other, Pineville and Oklahoma City shared identical exterior designs and mirrored store layouts. Pineville would also be the second Celebration Station to open with outdoor activities (after Baton Rouge in 1989), featuring miniature golf courses, bumper boats, go-karts, and batting cages. Other outdoor attractions, such as the Miner Mike kiddie coaster by Wisdom Rides, the Rio Grande Old Western Train by [https://en.wikipedia.org/wiki/Zamperla Zamperla], and small amusement park flat rides were added by Whiteco later on.
 
 Although there is not much documentation of the Celebration Station era, it is certain that common store features of the time, including Harry's Clubhouse and Dixie Diner, were implemented at Pineville at some point during Whiteco's ownership. A Wurlitzer 1050 One More Time CD Jukebox that has been recovered from the Pineville store was continually renewed for public use by the [https://jukeboxlicense.org/index.html Jukebox License Office] up until at least 2005 (prior to Pineville's sale).
 
-### Zuma Fun Center (2005-2012) ###
-In June 2005, Pineville, along with the South Houston, TX (6767 Southwest Fwy), North Houston, TX (180 W Rankin Rd), and Knoxville, TN (400 N Peters Rd) Celebration Stations were sold off by Whiteco and rebranded as _Zuma Fun Center_ locations the same month. Pineville and Knoxville could have been the first two stores to rebrand, as both locations were removed from the Celebration Station website on June 4th, 2005 (whilst the two Houston stores remained temporarily). At first, no major changes have been made aside from removing all mentions of _Celebration Station_ (including in the soundtracks for Daniel and the Dixie Diggers and Jethro P. Hogg). Most Celebration Station equipment and furnishings remained intact at Pineville during this time.
+<h2>= Zuma Fun Center (2005-2012) </h2>=
+In June 2005, Pineville, along with the South Houston, TX (6767 Southwest Fwy), North Houston, TX (180 W Rankin Rd), and Knoxville, TN (400 N Peters Rd) Celebration Stations were sold off by Whiteco and rebranded as <i>Zuma Fun Center</i> locations the same month. Pineville and Knoxville could have been the first two stores to rebrand, as both locations were removed from the Celebration Station website on June 4th, 2005 (whilst the two Houston stores remained temporarily). At first, no major changes have been made aside from removing all mentions of <i>Celebration Station</i> (including in the soundtracks for Daniel and the Dixie Diggers and Jethro P. Hogg). Most Celebration Station equipment and furnishings remained intact at Pineville during this time.
 
 Similarly to the Celebration Station era, there is not much documentation or anything notable in the early years of Zuma's ownership of Pineville. However, at the same time as the other three rebranded stores, Daniel and the Dixie Diggers with Jethro P. Hogg were removed from the Pineville Zuma Fun Center between 2010 and 2011, with only the furnished stage (backdrops, props, curtains, and valances) remaining. Albeit unconfirmed, the removal of Sally's animatronics store-wide could've been the result of a later-imposed mandate by Zuma management, as Knoxville's Rockin' Rascals and the three DATDD Trio + Jethro sets (including Pineville's) faced major disrepair prior to removal from the fun centers. The stages were mainly unused from that point onward.
 
 Animatronic maintenance wasn't the only problem for the Pineville Zuma Fun Center. Upkeep on cleanliness, food quality, as well as arcade and attraction maintenance faltered under Zuma's ownership, generating a negative reputation toward the Pineville location by visiting guests. While the other three Zuma locations operated decently and were more well-received (only by a slight margin, though), Pineville was the only Zuma Fun Center to be sold off to another operator, in this case being Adventure Holdings, LLC (operators of the Adventure Landing chain of family entertainment centers).
 
-### Adventure Landing (2012-2018) ###
+<h2>= Adventure Landing (2012-2018) </h2>=
 COMING SOON!
 
-### Funtasticks Charlotte (2018-2020) ###
+<h2>= Funtasticks Charlotte (2018-2020) </h2>=
 COMING SOON!
 
-## Stages ##
+<h2> Stages </h2>
 Despite being the first location to open with a Sally Industries Daniel and the Dixie Diggers Trio with Jethro P. Hogg, Pineville's show was actually the second set built. The first DATDD Trio + Jethro set for Celebration Station was built for the Oklahoma City, OK (509 Westline Dr) location, but didn't premiere until June 28th, 1991. As these two sets of shows were the earliest built, the Dixie Diggers backdrops were detailed and colored differently to later locations. Daniel and Scratchmo retained their dark-shaded mask paints common to the 80's Quintet shows, though Scratchmo was later given a tan mask paint by the 2000's, resembling the later 90's coloring of Scratchmo's face that has since been adopted by Sally to this day. Daniel's dark-shaded mask was left unchanged during the show's entire lifespan.
 {| class='wikitable'
 !Stage
@@ -48,7 +49,7 @@ Despite being the first location to open with a Sally Industries Daniel and the 
 |<nowiki>Sally CS Show #2 | First DATDD Trio + Jethro P. Hogg set to publicly premiere at a Celebration Station. First DATDD Trio + Jethro P. Hogg installation in North Carolina.</nowiki>
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabouts of each individual character are unknown. However, disassembled parts of Pineville's animatronics and equipment (including the head mechanism of Daniel T. Bones) were listed on eBay. It can be implied that upon removal, the animatronics were 'destroyed,' with only a handful of pieces salvaged by former Zuma staff. Additional animatronic parts for Pineville were kept in a fishing tackle box long past the show removal, which has since been given to a private collector prior to the building's demolition in 2022.
 {| class='wikitable'
 !Animatronic
@@ -72,7 +73,7 @@ As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabout
 |Unknown/Destroyed
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
 * Claim Jumper
 * Colorama
@@ -88,7 +89,7 @@ As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabout
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -103,4 +104,4 @@ As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabout
 |July 24, 2017
 |}
 
-## References ##
+<h2> References </h2>

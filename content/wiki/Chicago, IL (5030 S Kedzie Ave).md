@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-09-01T18:06:30Z
 
 [Article]
+pageThumbnailFile = "1ae685f9eda7314000add44afe4bd9a7 -united-states-illinois-cook-county-chicago-199638-chuck-e-cheeseshtm.jpg|Current Exterior of the store"
 contributors = ["CECBowlingGreen","ShowbizMidwest","Rexburg090","ChuckECool","CorrectorMan","2600:1700:3050:8220:199D:8719:E29A:46C7","CEC Illinois","CEC Tinley","CoolerDude","Midwestern Jasper T.","Chuck e cheese repairs","The 64th Gamer"]
 gallery = []
 +++
-**_For the North Side location, see: [Chicago, IL (1830 W Fullerton Ave)]({{< ref "wiki/Chicago, IL (1830 W Fullerton Ave).md" >}})**_{{Generic|image=1ae685f9eda7314000add44afe4bd9a7 -united-states-illinois-cook-county-chicago-199638-chuck-e-cheeseshtm.jpg|desc=Current Exterior of the store}}
+<b><i>For the North Side location, see: [Chicago, IL (1830 W Fullerton Ave)]({{< ref "wiki/Chicago, IL (1830 W Fullerton Ave).md" >}})</b></i>
 
-**Chicago, IL (5030 S Kedzie Ave)** is a former Showbiz Pizza Place that opened on November 1, 1984 and is still open to this day. It opened with a Rock-Afire Explosion.
+<b>Chicago, IL (5030 S Kedzie Ave)</b> is a former Showbiz Pizza Place that opened on November 1, 1984 and is still open to this day. It opened with a Rock-Afire Explosion.
 
 This location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991 or 1992, a [CU Beta 16M]({{< ref "wiki/CU Beta 16M.md" >}}) in 2020, and a video wall and dance floor on August 25, 2024.
 
 It is located next to a few businesses and a former Kmart.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had The Rock-Afire Explosion. Kedzie’s show was reused from the Farmington Hills, MI (29955 Orchard Lake Rd) (Farmington Hills, MI) location which closed the same year, until late 1991, when they would undergo the process known as Concept Unification. They would have the 3-Stage for many years, until November 2020, when they would receive the 16M Studio C Chuck E. Bot, and Studio C Beta swirl backdrop and light up mirrors from Lafayette, Indiana, which had closed at the time. The reason for the replacement was because the 3-Stage is very hard to maintain, and with parts being hard to find, they replaced the stage. On August 25th, 2024 they removed the CU Beta 16M Stage.
 {| class='wikitable'
 |+
@@ -46,7 +47,7 @@ Originally when the store opened, they had The Rock-Afire Explosion. Kedzie’s 
 |
 |}
 
-## History ##
+<h2> History </h2>
 Chicago (Kedzie) opened next to Kmart on November 1st, 1984 which opened nearly 2 years prior on November 18th, 1982 with the Rock-Afire Explosion band. Chicago (Kedzie) would stay the same until when they received the 1988 Remodel in 1991 removing older SPP decor for CU and other decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and still keeping the Rock-Afire Explosion band.
 
 At some point in Late 1991, Chicago (Kedzie) would undergo Concept Unification removing the Rock-Afire Explosion for the 3-Stage and changing the exterior. Sometime in 1993-1994, Chicago (Kedzie) would undergo a minor remodel removing CU decor for Record Posters. In the Late 90's, Chicago (Kedzie) would receive the Phase 2 remodel changing the exterior, removing all decor for newer decor including some Record Posters, removal of the Blue and White awnings above the salad bar which also relocated, and the removal of the ball pit for SkyTubes and Toddler Zone.
@@ -55,7 +56,7 @@ Chicago (Kedzie) remained like this until around 2012 when they would receive th
 
 In November 2020, the show heavily malfunctioned to the point that all 3-Stage characters were destroyed and replaced by a Studio C Cappa Chuck E. bot from the now closed Lafayette, IN (100 S Creasy Lane) location making it a CU Beta 16M, a Studio C Cappa + 3-Stage mix. On August 25, 2024, Kedzie received the 2.0 remodel with the video wall and dance floor.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Links
@@ -115,7 +116,7 @@ Uploaded: June 4, 2012
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

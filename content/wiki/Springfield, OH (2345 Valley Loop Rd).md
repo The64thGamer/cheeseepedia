@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2024-07-30T15:22:51Z
 
 [Article]
+pageThumbnailFile = "Springfield OH 2.0.jpg|Exterior, 2023"
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Springfield OH 2.0.jpg|desc=Exterior, 2023}}
-**_Springfield, OH (2345 Valley Loop Rd), Store #938**_ is a _Chuck E. Cheese's_, formerly a _Showbiz Pizza Place_, that opened on January 12, 1983.
-## Stages##
+
+<b><i>Springfield, OH (2345 Valley Loop Rd), Store #938</b></i> is a <i>Chuck E. Cheese's</i>, formerly a <i>Showbiz Pizza Place</i>, that opened on January 12, 1983.
+<h2> Stages</h2>
 The store opened with a Rock-afire Explosion [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). During [Concept Unification]({{< ref "wiki/Concept Unification Installation Manual.md" >}}) the existing show was converted into a [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) / 3-Stage show. It is currently unknown as to when the store got Concept Unification, but it is rumored to be around 1992 due to the color of the valance above the stage. 
 
 Throughout its history as a 3-Stage, the store borrowed parts and props from closed locations in [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) and [Columbus, OH (4284 Macsway Ave)]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}). 
@@ -35,7 +36,7 @@ The stage show started removed during the location's 2.0 Remodel at 8:52am on Au
 |Still in use.
 |}
 
-##History##
+<h2>History</h2>
 This location opened along with Muskegon, MI (3524 Green St) and was the 147th store in the company. The store's overall layout was not changed from its opening day layout and architecture, with the exception of new game packages and decor changes throughout its history. 
 
 The store received the '88 Remodel Package on June 28, 1990. This was followed by the 1993 Remodel later in the decade. Between 2010 and 2015, the store would undergo changes to its appearance; art such as the sports decor, planters and hanging stars were removed. 
@@ -48,9 +49,9 @@ The location would receive a Studio C air compressor in February 2021, which was
 
 The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the location celebrated its Grand Reopening, marking an end of the remodel process. Some decor pieces were taken for what is rumored to be the company's Chuck E. Cheese Retro Store concept.
 
-##Arcade Machines ##
+<h2>Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 *[Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 *Harpoon Lagoon
 *Paw Patrol
@@ -81,12 +82,12 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 *Hoop It Up
 *Drop It Drop It
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 * Hollywood Reels
 * Spongebob Pineapple Arcade
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Octonauts (Barnacles)
 * Spongebob Super Striker
@@ -102,9 +103,9 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 * Bunny Pond
 * [Air Hockey]({{< ref "wiki/Air Hockey.md" >}})
 
-##Decor##
+<h2>Decor</h2>
 
-###Former### 
+<h2>=Former</h2>= 
 
 * 1990s No Biz Like Showbiz
 *1991 Flabby Road
@@ -119,7 +120,7 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -175,4 +176,4 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 |Unknown
 |}
 
-##References##
+<h2>References</h2>

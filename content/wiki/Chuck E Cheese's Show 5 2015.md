@@ -18,13 +18,13 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 5 2015**_ released August 10th 2015 featuring two songs
+<b><i>Show 5 2015</b></i> released August 10th 2015 featuring two songs
 
 This was created to play from August 10th 2015 - September 27th 2015. This show features two songs and two new songs which weren't programmed yet. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  American Authors - 'Best Day Of My Life'
 ## CEC Promo - 'School Fundraiser'
 ## Josh & The Jamtones - 'Iko Iko'
@@ -33,9 +33,9 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 ##  Cartoon Network - Clarence - 'New Dog'
 ##  Silentó - Watch Me (Whip/Nae Nae)
 ##  CEC Promo - 'Moms Spot'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese - 'All For Fun, Fun For All' (Animatronic/Lights Segment)
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Bea Miller - 'Fire N' Gold'
 ##  CEC Sketch-'Pasqually's Brother' (New)
 ##  Cartoon Network - Gumball Universe - 'Gym Band'
@@ -50,10 +50,10 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 ##  CEC Promo - 'Dads Spot'
 ##  The Black Keys - 'Gold On The Ceiling'
 ##  Cartoon Network - Steven Universe - 'The Crystal Gems'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Dancin' Kitten' (Animatronic/Lights Segment)
 
-## Lives: ##
+<h2> Lives: </h2>
 *Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Do The Chuck E. 2015 (3stage, Cyberamic, Studio C,Weigl)
@@ -63,14 +63,14 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 *Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 *Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=yyObPwz5SMc 'Most Epic Mouse' on YouTube] 
 *[https://www.youtube.com/watch?v=wAeX6TupeVo 'It's A Date' on YouTube] 
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'All For Fun, Fun For All' and 'Dancin' Kitten' are originally from Chuck E. Cheese's Winter 2015 (Winter 2015)
 * 'Most Epic Mouse' and 'It's A Date' were originally not programmed due to the move at corporate. They were programmed by Show 72015 International. They would then appear in the US stores with Chuck E. Cheese's Show 1 2016 (Show 1 2016) for 'Most Epic Mouse' and Chuck E. Cheese's Show 2 2016 (Show 2 2016) for 'It's A Date'

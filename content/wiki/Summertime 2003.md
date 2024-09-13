@@ -17,80 +17,80 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293=y
 |credit1=Duncan Brannan - Voice of Chuck E. Cheese |credit2=Annagrey Wiechman - Voice of Helen Henny |credit3=John Bowen - Voice of Mr. Munch |credit4=Jeremy Blaido - Director, Voice of Jasper, Mike Manley |credit5=Earl Fisher - Voice of Pasqually The Chef |credit6= Robert Gotcher - Production Manager|credit7= Matt Daniel - Production Coordinator |credit8= Sammy Davenport - Music Director}} 
 
-**Summertime 2003** was a showtape released in July 2003 which ran through August 2003.
+<b>Summertime 2003</b> was a showtape released in July 2003 which ran through August 2003.
 
-## Studio C Show List: ##
-# **Segment 1** 
+<h2> Studio C Show List: </h2>
+# <b>Segment 1</b> 
 ## 'Summertime Groove'
-## 'Fishin_
-#**Intermission 1** 
+## 'Fishin''
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Blender'
 ##'Boat of Love' / 'We Sail The Ocean Blue'
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Dancing Food'
 ## Kool-Aid Spot
 ##Countdown
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Baseball Diamond Dreams'
-## 'Dog Jammin_
-# **Intermission 3** 
+## 'Dog Jammin''
+# <b>Intermission 3</b> 
 ##CEC TV ID - 'Blender'
 ## Super Jasper - 'One Token'
 ##'America'
 ##CEC TV ID - 'Haircut'
 ## Countdown
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock With You'])
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ##CEC TV ID - 'Stars'
 ##Monkey Ninjas - Episode 3
 ##CEC TV ID - 'Dancing Food'
 
-## Existing Stage Show List: ##
-# **Segment 1** 
+<h2> Existing Stage Show List: </h2>
+# <b>Segment 1</b> 
 ## 'Summertime Groove'
-## 'Fishin_
-#**Intermission 1** 
+## 'Fishin''
+#<b>Intermission 1</b> 
 ##CEC TV ID - 'Blender'
 ##'Boat of Love' / 'We Sail The Ocean Blue'
 ##CEC TV ID - 'Singing Animals'
 ## Countdown
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'In My Pool' (parody of [https://en.wikipedia.org/wiki/In_My_Room 'In My Room'])
 ##'Havin' Fun at The Beach'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##CEC TV ID - 'Janitor'
 ## Baking With Betty - 'Letters'
 ##CEC TV ID - 'Dancing Food'
 ##Countdown
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Baseball Diamond Dreams'
-## 'Dog Jammin_
-# **Intermission 3** 
+## 'Dog Jammin''
+# <b>Intermission 3</b> 
 ##CEC TV ID - 'Blender'
 ## Super Jasper - 'One Token'
 ##CEC TV ID - 'Haircut'
 ## Countdown
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## [https://raffi.fandom.com/wiki/Going_On_a_Picnic 'Picnic']
 ## 'Barbeque' (parody of  [https://en.wikipedia.org/wiki/Rock_with_You 'Rock with You'])
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ##CEC TV ID - 'Stars'
 ##Monkey Ninjas - Episode 3
 ## 'America'
 ##   Kool-Aid Spot
 ##CEC TV ID - 'Dancing Food'
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
 * New Birthday
@@ -103,11 +103,11 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * If You're Happy and You Know It
 * Go Santa Go
 * [YMCA 03]({{< ref "wiki/YMCA 03.md" >}})
-**Birthday Break**: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
-##Showtape Scans / Images:##
+<b>Birthday Break</b>: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<h2>Showtape Scans / Images:</h2>
 
-##Trivia:##
-*'Dog Jammin_ is a remake of a song from [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}) and 'Baseball Diamond Dreams' is a remake of a song from [Spring Break]({{< ref "wiki/Spring Break.md" >}})
+<h2>Trivia:</h2>
+*'Dog Jammin'' is a remake of a song from [Let The Good Times Roll]({{< ref "wiki/Let The Good Times Roll.md" >}}) and 'Baseball Diamond Dreams' is a remake of a song from [Spring Break]({{< ref "wiki/Spring Break.md" >}})
 *'America' was originally used as a America  ( live show). In this show programming for Chuck E. has been added and the footage has been changed to stock footage of an American flag. 
 *'Boat of Love' and 'We Sail The Ocean Blue' are reused from [August 1999]({{< ref "wiki/August 1999.md" >}}). They do not have programming in this show.
 *'Baking With Betty' is reused from [April 2002 Show]({{< ref "wiki/April 2002 Show.md" >}}) and 'Monkey Ninjas' is reused from [September 2002 Show]({{< ref "wiki/September 2002 Show.md" >}})

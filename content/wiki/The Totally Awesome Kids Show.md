@@ -20,44 +20,44 @@ San Antonio
 Playdates: April 22 - Aug 96 
 Stage Type: C Stage|credit1=Duncan Brannan - Voice of Chuck E. Cheese, Mr. Munch|credit2=Bob West - Voice of Jasper T. Jowls, Pasqually The Chef, Mr. Munch|credit3=Doug Teel - Singing Voice of Mr. Munch|credit4=Cathy Turner - Singing Voice of Helen Henny}}
 
-**_The Totally Awesome Kids Show**_ was a show that released April 22, 1996 at Chuck E. Cheese's locations. It was the last showtape to be entirely produced by Disney.
+<b><i>The Totally Awesome Kids Show</b></i> was a show that released April 22, 1996 at Chuck E. Cheese's locations. It was the last showtape to be entirely produced by Disney.
 
-##Show List##
-#**** **Segment 1**
+<h2>Show List</h2>
+#<b></b> <b>Segment 1</b>
 ##'I'm Gettin' Around'
 ##'Travelin' First Class'
-#**** **Intermission 1**
+#<b></b> <b>Intermission 1</b>
 ##Thrillseekers - 'Waterskiing'
 ##Sports Bloopers
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'I'm Gettin' Around'
-##'Rollin_
-#**** **Intermission 2**
+##'Rollin''
+#<b></b> <b>Intermission 2</b>
 ##Thrillseekers - 'Surfing'
 ##Sports Bloopers
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'I'm Gettin' Around'
 ##'Pick 'Em Up and Put 'Em Down'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##Thrillseekers - 'Skateboarding'
 ##Sports Bloopers
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##'I'm Gettin' Around'
 ##'I'm Gettin' Started'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##Thrillseekers - 'Sailboarding'
 ##Sports Bloopers
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##'I'm Gettin' Around'
 ##'Don't Drive Me Wacky'
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##Thrillseekers - 'Freestyle Biking'
 ##Sports Bloopers
 
-##Production##
-####Filming Locations:####
+<h2>Production</h2>
+<h2>==Filming Locations:</h2>==
 *The ending of Segment 5 was filmed at [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}).
-##Trivia:##
+<h2>Trivia:</h2>
 *The skateboarding footage in 'Thrillseekers' was previously used for 'Roll With It' in [Spring Training]({{< ref "wiki/Spring Training.md" >}}).
 *On the Cyberamic Version of the show the One Stage curtains are programed to open and close, after and before the Two Stage Curtains.
 

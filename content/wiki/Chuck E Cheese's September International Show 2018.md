@@ -8,45 +8,45 @@ date = 2022-10-26T20:34:19Z
 contributors = ["ElWarlos35"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-**_Chuck E. Cheese's International September Show 2018**_
+<b><i>Chuck E. Cheese's International September Show 2018</b></i>
 
 This was created to play during Fall from September to November 2018. Featuring 6 Skits, 2 skits are new with 4 being reused.
 
 This show includes a mix of Skits from 2014 - 2018 and new 'Show Breaks!'. This show also includes 'Pizza Survivor' as an intermission (originally released in September 2002)
-##Show List:##
-#**** **Skit 1**
+<h2>Show List:</h2>
+#<b></b> <b>Skit 1</b>
 ##Chuck E. Cheese - 'Lend A Helping Hand'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Jokes from Pasqually - Anchor
 ##Kabillion - Sabrina: Secrets of a teenage witch
 ##CECTV ID - Singing Animals
 ##Mr. Munch 1 Minute Countdown (Retro)
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. & Friends - 'Giant Armadillo Named Phil'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Musings with Mr. Munch - Episode 4
 ##Battery Pop - Charlie Freaks Out - Broccoli
 ## Show Break #1 - National Parks Time Lapse
-# **Skit 3**
+# <b>Skit 3</b>
 ##Helen Henny - 'Gaming Time'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Kidz Bop Kids - 'Finesse'
 ## Fun Facts with Chuck E. Cheese - 'Play'
 ##Kabillion - 'Chloe's Closet'
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E. Cheese & Munch's Make Believe Band - 'Together We've Got It'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ## CEC Short - Red & Rex
 ##Kabillion - Sabrina: Secrets Of A Teenage Witch
 ##Mr. Munch 1 Minute Countdown (Retro)
-#**** **Skit 5**
+#<b></b> <b>Skit 5</b>
 ##Pasqually The Chef & Giant Armadillo Named Phil - 'Chuck E. World'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Battery Pop - Secret Ingredient Slime
 ##CEC Short - Pizza Survivor
 ## Show Break #2 - Night City Time Lapse
-# **Skit 6**
+# <b>Skit 6</b>
 ##Chuck E. & Friends - 'Because We're Friends' (New Programming for Studio C HD/SD)
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Kabillion - Chloe's Closet
 ##Show Break #3 - Underwater

@@ -8,8 +8,8 @@ date = 2023-08-09T15:58:14Z
 contributors = ["66.215.38.213","Blowseborg062"]
 gallery = []
 +++
-**_9121 North Fwy, Store #566**_ is a _Chuck E. Cheese_ location in Fort Worth, Texas; in the Court at Fort Worth shopping center. This location opened on June 6th, 2016.
-## Stages ##
+<b><i>9121 North Fwy, Store #566</b></i> is a <i>Chuck E. Cheese</i> location in Fort Worth, Texas; in the Court at Fort Worth shopping center. This location opened on June 6th, 2016.
+<h2> Stages </h2>
 When the location opened, they opened with the 2015 Model Dance Floor. The store would then upgrade to the 2021 Model Dance Floor during their 2.0 Remodel in May 2023; adding a Video Wall. As of August 2023, Fort Worth (North Fwy) still has the 2021 Model Dance Floor & Video Wall
 {| class='wikitable'
 |+
@@ -32,5 +32,5 @@ When the location opened, they opened with the 2015 Model Dance Floor. The store
 
 TODO
 
-## Videos ##
+<h2> Videos </h2>
 TODO

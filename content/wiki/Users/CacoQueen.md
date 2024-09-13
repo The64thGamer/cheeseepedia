@@ -8,10 +8,10 @@ date = 2024-07-20T16:22:06Z
 contributors = ["CacoQueen"]
 gallery = []
 +++
-{{NoSources}}
-## Howdy! :3 ##
+
+<h2> Howdy! :3 </h2>
 I'm Athena, but you can call me Caco. I don't edit often since source editing scares me but I'm always willing to talk about my hyperfixations on Discord!
-### My Favs ###
+<h2>= My Favs </h2>=
 
 * Favorite PTT Location: [Arlington, TX]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}})
 * Favorite SPP Location: [Jacksonville, FL]({{< ref "wiki/Tacoma, WA (4911 Tacoma Mall Blvd).md" >}})
@@ -22,7 +22,7 @@ I'm Athena, but you can call me Caco. I don't edit often since source editing sc
 * Favorite RAE Character: [Mitzi]({{< ref "wiki/Tacoma, WA (4911 Tacoma Mall Blvd).md" >}}) (she's literally me) 
 * Favorite Disney Character: Alice (if you hate her you will go to hell)
 
-### Other Stuff I'm Into ###
+<h2>= Other Stuff I'm Into </h2>=
 
 * Doctor Who
 * Godzilla

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2023-12-06T22:40:15Z
 
 [Article]
+pageThumbnailFile = "Melrose old park.jpg|Melrose Park's exterior in the 2000s. (PC: Unknown)"
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ShowbizMidwest","Melrosefool2763","Blowseborg062","SinStar","CEC Illinois","Cheeseclassic"]
 gallery = []
 +++
-{{Generic|image=Melrose old park.jpg|desc=Melrose Park's exterior in the 2000s. (PC: Unknown)}}
-**_1315 W North Ave, Store #54**_ was a _Chuck E. Cheese's Pizza_ that opened on September 24, 1991, with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in August 2012 (day unknown) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). 
+
+<b><i>1315 W North Ave, Store #54</b></i> was a <i>Chuck E. Cheese's Pizza</i> that opened on September 24, 1991, with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and closed in August 2012 (day unknown) with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). 
 
 This location relocated to [Melrose Park, IL (1030 Winston Plaza)]({{< ref "wiki/Melrose Park, IL (1030 Winston Plaza).md" >}}), which opened in September 2012 (day unknown) and is still open today with a [Circles of Light, 16m]({{< ref "wiki/Circles of Light.md" >}}). 
 
-## Stages ##
+<h2> Stages </h2>
 Melrose Park opened with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). The stage was installed almost on the ground because the ceiling was low. It didn't last long, as it was replaced with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) by 1994/1995. The stage received minor changes until the 2012 closure. Changes include Pasqually getting a new drum set, Chuck E. receiving the Cool Chuck outfit (later Avenger), Chuck E. getting a new mask by 2008, Helen getting a new mask sometime in the 2000s, Jasper getting a new mask in 2008-2009, and Pasqually getting a new mask in the 2000s.
 {| class='wikitable'
 |+
@@ -33,20 +34,20 @@ Melrose Park opened with a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" 
 |One of 5 installed in Illinois.
 |}
 
-## History ##
+<h2> History </h2>
 Melrose Park opened on September 24, 1991, with the 1988 remodel and a [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}). Not much is known about Melrose Park from around this time, however, it is known that Melrose received Record Parody Awards in around 1993.
 
 In 1994/1995, Melrose Park received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}), and removed the [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) for a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). Melrose also received things duch as shelves and other decor around this time. The location received [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) at later dates. Melrose would receive a new exterior sign and awnings between 1995-1998.
 
 In August 2012 (day unknown), the location relocated to Winston Plaza for bigger space, and because how old the building was. The building would remain vacant for a short period until it was finally torn down for an Olive Garden. As of August 2023, Olive Garden sits on the space.
 
-## Videos ##
+<h2> Videos </h2>
 TODO
 
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

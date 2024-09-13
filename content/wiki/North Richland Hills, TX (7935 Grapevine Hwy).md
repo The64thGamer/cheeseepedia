@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-07-29T21:41:12Z
 
 [Article]
+pageThumbnailFile = "Richlandhills.jpg|Exterior of the location in 2022 after the awnings were removed."
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Richlandhills.jpg|desc=Exterior of the location in 2022 after the awnings were removed.}}
-**_7935 Grapevine Hwy, Store #579**_ is a _Showbiz Pizza/Chuck E. Cheese_ that opened on April 7, 1982 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
 
-##Stages##
+<b><i>7935 Grapevine Hwy, Store #579</b></i> is a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on April 7, 1982 as a corporate <i>ShowBiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}).
+
+<h2>Stages</h2>
 North Richland Hills opened with the Rock afire Explosion in April 1982. Unfortunately, there are no photos or videos to exist of North Richland Hills with the Rock afire, or as a ShowBiz in general.  Although very little documentation exists back in the ShowBiz days, it can be determined that North Richland Hills was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. In January 1985, this location tested the one of a kind [Country Stage]({{< ref "wiki/Country Stage.md" >}}). Like many ShowBiz locations in the late 1980s, North Richland Hills received the Showbiz Pizza Campground upgrade.
 
 Around 1991, North Richland Hills received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) which converted the show to Munch's Make Believe Band, also keeping their SPP valance up to when they would receive a Studio C (1997) (Studio C), in 2000.<ref name=':0'>https://texashistory.unt.edu/ark:/67531/metapth796171/m1/?q=Chuck%20e%20Cheese</ref>
@@ -40,7 +41,7 @@ The stage would remain until around May 2023 when the stage was removed as the s
 |Still in Use.
 |}
 
-##History##
+<h2>History</h2>
 North Richland Hills opened its doors in April 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the unification remodel years after it would open.
 
 In the Mid-90s the location would receive another major remodel, at the same time receiving [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). Little is known about this location in the 1990s other than the very few videos that has surfaced onto the internet.<ref name=':0' />
@@ -55,7 +56,7 @@ Then in around 2021-2022, the awnings were removed from the building.
 
 In May 2023, the stage was removed as this location received the 2.0 remodel.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -101,7 +102,7 @@ In May 2023, the stage was removed as this location received the 2.0 remodel.
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -172,5 +173,5 @@ In May 2023, the stage was removed as this location received the 2.0 remodel.
 |N/A
 |Unknown/Destroyed
 |}
-##References##
+<h2>References</h2>
 <references />

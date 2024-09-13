@@ -9,8 +9,8 @@ contributors = ["Montfortdog","The 64th Gamer","AnimatronicStudios","Pupper","Ls
 gallery = ["2.0 exterior night.jpg|thumb|2.0 exterior (partial)|349x349px"]
 +++
 
-**_Pensacola, FL (7350 Plantation Rd)**_ was a Showbiz Pizza Place that opened on December 6, 1981 with a Rock-Afire Explosion.
-## Stages ##
+<b><i>Pensacola, FL (7350 Plantation Rd)</b></i> was a Showbiz Pizza Place that opened on December 6, 1981 with a Rock-Afire Explosion.
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until September 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. 
 
 Between 1995 and 1999, Pensacola received the rare custom cheerleader Helen outfit.
@@ -25,7 +25,7 @@ In July 2018, they received a dance floor along with the 2.0 remodel.
 
 Around May 2023, the existing dance floor was replaced with a brand-new recessed model. A large video wall was also added along with new character posters.
 
-## History ##
+<h2> History </h2>
 This store opened as a franchised Showbiz Pizza Place owned by Wellington Development of Florida on December 6, 1981. Then on August 31, 1987, Pensacola was bought back by corporate.
 
 In August of 1991, Pensacola received their first remodel, with white walls, checkers, a relocated ordering counter, and showroom walls with -then-new for Showbiz- windows. 
@@ -42,7 +42,7 @@ On July 31, 2017, the following posters were randomly removed as per request of 
 
 This store's 2.0 remodel process started the week of July 12, 2018 and was completed in mid August 2018.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -61,7 +61,7 @@ This store's 2.0 remodel process started the week of July 12, 2018 and was compl
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

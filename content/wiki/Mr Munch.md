@@ -5,44 +5,45 @@ tags = ["Characters"]
 date = 2024-06-04T13:03:46Z
 
 [Article]
+pageThumbnailFile = "William afton if he liked hamburgers.png|Mr. Munches design as of 2024."
 contributors = ["Herzognate","ChuckEPediaIsTheBest!","216.125.34.66","JasperLover","PizzaEntertainmentFanX","The 64th Gamer","SuperCreamPiper2008","CECMentor"]
 gallery = ["Kooser Munch 1.jpg|alt=|thumb|256x256px|The original design of Mr. Munch.","Kooser Skeeball 1978.png|alt=Chuck E. Playing Skeeball|thumb|Image of an early corporate only Munch costume."]
 +++
-{{Generic|image=William afton if he liked hamburgers.png|desc=Mr. Munches design as of 2024.}}
 
-**_Mr. Munch**_ is one of the main characters of the Chuck E. Cheese's franchise, making his debut at the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) location in 1978.
 
-## History ##
+<b><i>Mr. Munch</b></i> is one of the main characters of the Chuck E. Cheese's franchise, making his debut at the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) location in 1978.
 
-### Origins ###
-Mr. Munch was first thought up by _Michael M. Hatcher_, director of entertainment for Pizza Time Theatre, wanted the 'Pizza Time Players' to include a monster character. The team decided to cut an already existing character. Crusty the Cat was replaced by Mr. Munch. Early sketches were created by Debbie Barton, containing versions with different color combinations. Eventually Munch was decided to be a shaggy, purple alien with yellow hair. 
+<h2> History </h2>
 
-### Pizza Time Theatre ###
-Mr. Munch officially debuted to the public along with the opening of the second [Chuck E. Cheese's Pizza Time Theatre in San Jose California on Kooser Rd]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from [Pasqually's]({{< ref "wiki/Pasqually.md" >}}) kitchen. He sings, laughs and scares people'<ref>https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</ref>. Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars & Chuck E. Cheese (Chuck) himself. Mr. Munch was voiced by Scott Wilson_._
-#### Post-Merger ####
+<h2>= Origins </h2>=
+Mr. Munch was first thought up by <i>Michael M. Hatcher</i>, director of entertainment for Pizza Time Theatre, wanted the 'Pizza Time Players' to include a monster character. The team decided to cut an already existing character. Crusty the Cat was replaced by Mr. Munch. Early sketches were created by Debbie Barton, containing versions with different color combinations. Eventually Munch was decided to be a shaggy, purple alien with yellow hair. 
+
+<h2>= Pizza Time Theatre </h2>=
+Mr. Munch officially debuted to the public along with the opening of the second [Chuck E. Cheese's Pizza Time Theatre in San Jose California on Kooser Rd]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from [Pasqually's]({{< ref "wiki/Pasqually.md" >}}) kitchen. He sings, laughs and scares people'<ref>https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</ref>. Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars & Chuck E. Cheese (Chuck) himself. Mr. Munch was voiced by Scott Wilson<i>.</i>
+<h2>== Post-Merger </h2>==
 After [Showbiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) bought the rights to the Chuck E. Cheese's IP, Munch was changed alongside the rest of the cast. Munch would become a pizza loving, kind & well meaning, singer.
 
-### Munch's Make Believe Band ###
+<h2>= Munch's Make Believe Band </h2>=
 
-#### Concept Unification ####
+<h2>== Concept Unification </h2>==
 During the Late 80's to early 90's, after a fallout with Creative Engineering, all Showbiz Pizza Places would be rebranded to Chuck E. Cheese's Pizzas in a remodel called [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). Munch replaced Fatz Geronimo, who inspired Munches new character. Munch was now a much heavier character, and had a smoother voice. He wore a hat and generally seemed a lot younger and smarter than he previously was. He would become the leader of the newly named band, 'Munch's Make Believe Band.'
 
-#### Chuck E. Cheese's ####
+<h2>== Chuck E. Cheese's </h2>==
 
 As the late 90's approached, Chuck and his friends would become much hipper characters. Munch was voiced by John Bowen starting 1999. In official art, Munch would lose his hat, and wore an orange shirt, sometimes alongside shorts.
 
-#### 'Rockstar' ####
+<h2>== 'Rockstar' </h2>==
 In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press. Due to declining revenue, CEC Entertainment sought to give Chuck E. a makeover, shrinking him down into a guitar-playing life-size mouse. Initially, Chuck's friends remained the same until 2014. Munch was given a redesign. His character would now receive a new voice actor, Chris Hill. Munches voice was inspired by his original Pizza Time Theatre appearance, speaking in a gravely and rough voice. Over time Munches character would begin to focus on his origins from 'Planet Purple' as well as his new DJ persona.
 
-## Trivia ##
+<h2> Trivia </h2>
 
-### Rat Tales ###
+<h2>= Rat Tales </h2>=
 Mr. Munch would appear in the official Chuck E. Cheese's Pizza Time Theatre comic 'Rat Tales' in 1979. He is from a mysterious pizza planet & speaks an unknown language. He helps Chuck & Jasper stop the arcade machine from taking over the restaurant.
 
-### Chuck E. Cheese In The Galaxy 5000 ###
+<h2>= Chuck E. Cheese In The Galaxy 5000 </h2>=
 Mr. Munch would appear in the official Chuck E. Cheese's movie 'Chuck E. Cheese In The Galaxy 5000.' He would use  He would help Chuck E. & the gang beat the 'X-Pilots' in the Race to get the money to help Charlie Rockit. He was voiced by Chris Sabat.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Types
@@ -71,4 +72,4 @@ Mr. Munch would appear in the official Chuck E. Cheese's movie 'Chuck E. Cheese 
 |Destroyed.
 |}
 
-## References ##
+<h2> References </h2>

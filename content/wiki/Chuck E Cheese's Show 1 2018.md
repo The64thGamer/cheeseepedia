@@ -18,44 +18,44 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 1 2018**_ released January 4, 2018
+<b><i>Chuck E. Cheese's Show 1 2018</b></i> released January 4, 2018
 
 This was created to play from January 4, 2018 - February 25, 2018. Featuring 4 songs. 2 new 2 old.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  DJ Snake, Luav - 'A Different Way'
 ##  CEC Promo - 'Rip It, Win It, Play It'
 ## Carly Rae Jepson - 'Cut To The Feeling'
-#  **Skit 1** 
+#  <b>Skit 1</b> 
 ## Pasqually - 'Loopins-Boopin-Fakin-Doopin-Floppen-Loopen-Funnin's Day'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  Sonic Forces
 ## Keith Urban & Carrie Underwood - 'The Fighter'
 ##  Nina's World - 'Everything Store'
 ##  Sofia Carson - 'Love Is The Name'
 ##  DC Super Pets - 'Farm'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Chuck E. Cheese - 'Let's Have a Party'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  Phillip Phillips - 'Home'
 ##  Floogals - 'Umbrella'
 ##  RAC feat. Rivers Cuomo - 'I Still Wanna Know'
 ##  Life Style List - 'Birthdays at Chuck E. Cheese's'
 ## Bridget Mendler - 'Ready or Not'
 ##  DC Super Pets - 'Squirrel'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Helen and introducing, Bella - 'Bailando'
-#  **Intermission 4** 
+#  <b>Intermission 4</b> 
 ## MisterWives - 'Our Own House'
 ## Nina's World - 'Necklace'
 ## Oh Wonder - 'Ultralife'
 ## Chuck E. Cheese's Birthday - 'Just Tap'
 ## Taylor Swift - 'You Belong With Me'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Another Chuck E. Day'
-## Lives: ##
+<h2> Lives: </h2>
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
 *Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
@@ -66,13 +66,13 @@ This was created to play from January 4, 2018 - February 25, 2018. Featuring 4 s
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head Shoulders Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images: ##
+<h2>Showtape Scans / Images: </h2>
 
 
-##Official Releases: ##
+<h2>Official Releases: </h2>
 *[https://www.youtube.com/watch?v=Z3IZcB7Whik 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' on YouTube]
 *[https://www.youtube.com/watch?v=s6VF6DTQguU 'Bailando' on YouTube]
-##Trivia: ##
+<h2>Trivia: </h2>
 
 * Let's Have a Party is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), and Another Chuck E. Day is originally from Chuck E. Cheese's Show 5 2017 (Show 5 2017).
 * This was the first showtape to feature Bella B. With that showcases her original voice and puppet. The next time Bella would be seen was  Chuck E. Cheese's Show 3 2019 (Show 3 2019).

@@ -17,58 +17,58 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Show 1 2020 (Covid Update)**_ was released _on or near_ June 21, 2020
+<b><i>Show 1 2020 (Covid Update)</b></i> was released <i>on or near</i> June 21, 2020
 
 This was created to play from June 21, 2020 - June 23, 2020. This show features five songs and the first show to include the Covid Message. This show is currently lost and its not known was added at the end of the show (?) mean its not 100% proven if it was on the show. 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Fun Songs - 'It's Chuck E.'
 ## KIDZ BOP Kids - 'Sorry Not Sorry'
 ## Discovery Familia - Doki - 'Expression 80's'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Helen Henny's - 'Game On!'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Universal Kids - 'Power Birds 1'
 ## Andy Grammer - 'She'd Say'
 ## Fun Songs - 'Oh Helen Henny'
 ## Panic! At the Disco - 'Into The Unknown'
 ## Tails of Friendship Ep3, - 'Pink Frosted Donuts'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Universal Kids - 'Floogals'
 ## Dandy Aridi - 'Let Go'
 ## Fun Songs - 'Oh Oh Oh Pasqually'
 ## Matt Nathanson - 'Modern Love:
 ## Universal Kids - 'American Ninja Warrior Jr'
 ## Fun Songs - 'Unicorn, Unicorn!'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Play All You Can Play'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## MOTi - 'Just Don't Know It Yet'
 ## Universal Kids - 'Power Birds 2'
 ## Fun Songs - 'He's Mr. Munch'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Fun Songs - 'Jasper T. Jowls'
 ## JD McCary - 'Keep In Touch'
 ## Nigel & Ronnie - 'The Fly'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'Chuck E.'s Place'
-# ** Intermission 6**
+# <b> Intermission 6</b>
 ## Social Distancing PSA
 ## Welcome Back to CEC Spot
 ## American Authors - 'Bring It On Home' ft. Phillip Phillips
 ## Louis the Child Ft. Drew Love - 'Free'
 
-## Lives: ##
+<h2> Lives: </h2>
 
-* **** Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
+* <b></b> Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 This show ran for 2 days being the shortest ran show ever. 
 
 All of Intermission 6 were reused for Chuck E. Cheese's Show 2 2020 (Show 2 2020).

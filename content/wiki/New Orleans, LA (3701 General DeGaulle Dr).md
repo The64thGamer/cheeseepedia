@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-10-27T23:13:56Z
 
 [Article]
+pageThumbnailFile = "new orleans cec 2.0 exterior.jpg|Exterior, March 2023"
 contributors = ["ChuckECool","ShowbizMidwest","Montfortdog","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=new orleans cec 2.0 exterior.jpg|desc=Exterior, March 2023}}
-**_3701 General Degaulle Dr, Store #684**_ was a Showbiz Pizza Place that opened on February 23, 1981 with a Rock-Afire Explosion, which is still open to this day.
+
+<b><i>3701 General Degaulle Dr, Store #684</b></i> was a Showbiz Pizza Place that opened on February 23, 1981 with a Rock-Afire Explosion, which is still open to this day.
 
 This location converted to a Chuck E. Cheese around 1991, and received 2.0 in 2023. It is located in the Cypress Plaza Shopping Center and was the 10th Showbiz Pizza to open.
-##History##
+<h2>History</h2>
 New Orleans opened on February 23rd, 1981 as the 1st ShowBiz Pizza store in Louisiana with a Rock-afire Explosion show.  It is located next to 3 hotels and it was also a franchised location. They would later end up receiving the 1988 Remodel removing the old Showbiz decor, and adding newer decor. In 1991, New Orleans received Concept Unification which removed the Rock-Afire for the 3-Stage, removing all Showbiz Pizza decor for the new decor, and a change to the exterior. New Orleans underwent another remodel in the Late 90's removing older decor, another exterior change, and added SkyTubes. In Mid 2006-Early 2007, New Orleans received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removed all 1990's store art, Balcony Seating, Showroom Walls, an exterior remodel, and adding purple walls. In February 2023, the store would start their 2.0 Remodel. The show was removed the night of March 7, 2023.
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. In around 1991, New Orleans would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. 
 {| class='wikitable'
 |+
@@ -38,7 +39,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |Still In Use.
 |2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -95,7 +96,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

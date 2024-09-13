@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2024-08-07T02:47:56Z
 
 [Article]
+pageThumbnailFile = "desc=Brick's exterior as of June 2023. (PC: Google Maps)|image=Brick.jpg"
 contributors = ["2600:4040:9D71:FF00:B45C:1B27:330B:967","ChuckECool","Rexburg090","216.125.34.66","CorrectorMan","ThatBoiCydalan","2600:4040:AD76:D00:71C8:18A8:B611:3111","2601:81:8500:E190:B87D:4702:21FD:7D83","2601:81:8500:E190:981F:1D53:1E1E:FC08","CoolerDude","Documentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|desc=Brick's exterior as of June 2023. (PC: Google Maps)|image=Brick.jpg}}
-**_56 Chambers Bridge Rd, Store #482**_ is a Chuck E. Cheese that opened on January 19, 1993, with a 2-Stage and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<b><i>56 Chambers Bridge Rd, Store #482</b></i> is a Chuck E. Cheese that opened on January 19, 1993, with a 2-Stage and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
 It is located in the Brick Plaza Shopping Center.
-##History##
+<h2>History</h2>
 Brick opened on January 19th, 1993, as an expansion at the Brick Plaza Shopping Center with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). It opened with the 1992 update of the 1988 remodel which has checkers around the store, the Blue and White awnings, ad some Record Posters and decor. The store would receive its first remodel around the Late 1990's which included the removal of the Ball Crawl for the Sky Tubes and the changing of the exterior logo. Brick would remain this way until 2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta, 16m. In around the Late 2000s-Early 2010s, a few elements from the 2005 update were removed which included the Dinner Lights and the sign above Kid Check. In 2013/2014, Brick replaced their exterior sign with the Rockstar logo. The store's exterior was remodeled in 2015 when the Brick Plaza Shopping Center underwent a major remodel. Sometime around May 2024, the store would receive its CEC 2018 2.0 Remodel Program (2.0 Remodel), removing the stage for a Chuck E. Live Stage (Dance Floor) (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
 
 On July 25th, 2024, the location of this store had it's grand reopening event.
 
-##Stages##
+<h2>Stages</h2>
 When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxedo & Derby was replaced with the Cool Chuck outfit. In 2007, the 2-Stage was removed for the Studio C Beta, 16m. Chuck's Cap was removed in September 2013. The stage would be removed around May of 2024 when the store received its 2.0 remodel.
 {| class='wikitable'
 !Stage
@@ -46,9 +47,9 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 |
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * High Five!
 * Hoop it Up
@@ -80,11 +81,11 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 * Barrel of Monkeys
 * After Burner Climax
 
-#### Coin Action ####
+<h2>== Coin Action </h2>==
 
 * Deep Sea Treasure
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Jett Rider
 * Dinosaur Catcher
@@ -102,7 +103,7 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -123,7 +124,7 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 |-
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -159,5 +160,5 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 |Unknown
 |}
 
-##References##
+<h2>References</h2>
 TODO

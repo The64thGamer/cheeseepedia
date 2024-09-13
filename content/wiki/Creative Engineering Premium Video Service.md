@@ -5,35 +5,36 @@ tags = ["Restaurants & Company History"]
 date = 2023-08-24T15:19:24Z
 
 [Article]
+pageThumbnailFile = "PremiumServiceStart.png|Aaron Fechter discussing the PVS in a video: 'Subscription Channel Idea' on May 12, 2017."
 contributors = ["The 64th Gamer","GallaRBX2"]
 gallery = []
 +++
-{{Generic|image=PremiumServiceStart.png|desc=Aaron Fechter discussing the PVS in a video: 'Subscription Channel Idea' on May 12, 2017.}}
 
-The **_Creative Engineering Premium Video Service**_ was a video subscription service started by _Creative Engineering Inc._ on May 15th, 2017, and still runs to this day.
+
+The <b><i>Creative Engineering Premium Video Service</b></i> was a video subscription service started by <i>Creative Engineering Inc.</i> on May 15th, 2017, and still runs to this day.
 
 The service allowed subscribers to see behind the scenes content from the main Creative Engineering YouTube channel, usually in longer-form videos with minimal editing. Video length could run from a few minutes to almost an hour, with length between videos going between twice a day, to months apart. As the service grew in subscriptions, the premium content would become the main focus of the channel, leaving public videos to come out far less often than before.
 
-## Subscription ##
+<h2> Subscription </h2>
 Users subscribe to the video service by a purchase of a year's worth of videos through the Creative Engineering eBay account.<ref>https://www.ebay.com/itm/153434591769?hash=item23b96a1219:g:OrMAAOSw9fpbVUSw</ref> The subscription is $72.00, being equal to a six dollar a month payment. Once paid, the user is sent an email welcoming them to the service, while also being added to an email list that is automatically sent emails for Premium content. 
 
 Premium videos would be sent by email as an unlisted link on the Creative Engineering YouTube channel, or sometimes on a burner YouTube channel. The email would also usually contain a message to the subscribers about the video's contents, separate from the description of the video itself. Certain emails were also sent as a way of communicating with the subscribers, unrelated to video contents being published. This would sometimes be the only way Creative Engineering would announce something to fans, making some info only available to the wider community through speaking with Premium subscribers.
 
 This system meant that members who subscribed later than the launch date wouldn't have access to any previous Premium Video Service videos. This would be resolved by having members pay $1 per each video of the backlog they wanted to access. Since there was no catalog for members to look back at, they either had to email CEI asking what was available, or ask other Premium Video Service members. Currently it is unknown if the $1 per video backlog service is still available.
 
-## Early History ##
+<h2> Early History </h2>
 TODO:
 
 * Service started with Bear-A-Dise videos gaining popularity, leading to the creation of Premium.
 * First video mentioning the premium channel.<ref>https://youtu.be/NXTDy5_3nGA</ref>
 * Early history and posting.
 
-### Video Leaks ###
+<h2>= Video Leaks </h2>=
 TODO:
 
 Describe the early abundance of video leaks, and the continued efforts of Creative Engineering to find the leakers, by means of sending groups of subscribers separate emails that had videos of differing watermarks, allowing him to narrow down a leak by its watermark until the person was caught.
 
-## Backlog ##
+<h2> Backlog </h2>
  Due to the ongoing nature of the Creative Engineering Premium Service, and per the rules of the wiki, no links to videos, pictures of videos, emails sent out with videos, or any other such content shall be documented. Only the documentation of a videos existence and date of release shall be provided, as to archive the volatile and limited info on the existence of the service's backlog. 
  
  A one month wait shall be enforced for the documentation of any new premium video, as to conceal any yet to be announced information that Creative Engineering would like to keep timed to its Premium subscribers.
@@ -43,7 +44,7 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 !Month
 !Year
 |-
-|Jack Milinak Tour Part I ** The Rock-afire Explosion ** Showbiz Pizza
+|Jack Milinak Tour Part I <b> The Rock-afire Explosion </b> Showbiz Pizza
 |15
 | May
 |2017
@@ -53,7 +54,7 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |June
 |2017
 |-
-|New Rock-afire Show! ** Oh Nancy!** Advanced Premium Subscriber
+|New Rock-afire Show! <b> Oh Nancy!</b> Advanced Premium Subscriber
 |1
 |July
 |2017
@@ -73,7 +74,7 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |July
 |2017
 |-
-|** Austin and Bill ** Bear-A-Dise ** Fatz Song
+|<b> Austin and Bill </b> Bear-A-Dise ** Fatz Song
 |11
 |July 
 |2017
@@ -208,12 +209,12 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |April
 |2018
 |-
-|Kansas City RAE ** Part V ** Getting To Work
+|Kansas City RAE <b> Part V </b> Getting To Work
 |1
 |May
 |2018
 |-
-|Kansas City RAE ** Part VI ** The Organ and Mitzi
+|Kansas City RAE <b> Part VI </b> The Organ and Mitzi
 |2
 |May
 |2018
@@ -233,7 +234,7 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |May
 |2018
 |-
-|Kansas City RAE ** Part VIII ** Fatz' Valves
+|Kansas City RAE <b> Part VIII </b> Fatz' Valves
 |7
 |May
 |2018
@@ -1258,4 +1259,4 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |March
 |2023
 |}
-## References ##
+<h2> References </h2>

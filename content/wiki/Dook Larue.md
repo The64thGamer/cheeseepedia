@@ -9,20 +9,20 @@ contributors = ["CECMentor"]
 gallery = ["DookLarue.png|thumb|Dooks design as of 2024."]
 +++
 
-**_Dook Larue**_ is one of the main characters of the Showbiz Pizza Place franchise, having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
+<b><i>Dook Larue</b></i> is one of the main characters of the Showbiz Pizza Place franchise, having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
-## History ##
+<h2> History </h2>
 
-### Origins ###
+<h2>= Origins </h2>=
 Dook Larue was based off of the character Dingo Starr from the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}). Initially, Dook had a more contemporary and casual look during the early days of the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}). He later got a spacesuit, and claimed that he wanted to go to space in the Trivia Night showtape. He got his first animatronic in [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}). He was the drummer and one of the lead vocalists of the band.
 
-### Showbiz Pizza Place ###
+<h2>= Showbiz Pizza Place </h2>=
 Dook was always voiced by Duke Chauppetta, being one of the only characters to have the same voice actor since the beginning. He was a dimwitted and slower character, and often didn't understand jokes or quips the other band members made at him or each other. in 1983, Creative Engineering was testing second generation animatronics. Dook and [Mitzi Mozzarella]({{< ref "wiki/Mitzi Mozzarella.md" >}}) would get new animatronics made, but they were never mass produced. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) Dook was retrofitted into [Pasqually]({{< ref "wiki/Pasqually.md" >}}). 
 
-### The New Rock-afire Explosion & Present Day ###
+<h2>= The New Rock-afire Explosion & Present Day </h2>=
 After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the New Rock-afire Explosion. Every character was changed, including Dook. Dook was now portrayed as a bit younger, and was called the Junkyard dog. He lived in a doghouse, and had toys placed around his stage. Original parts for Dook would start to be reproduced by Creative Engineering's new employees in 2023. Aaron Fechter has taken interest in repairing and using one of the second generation Dook animatronics, and has tested him throughout the decades.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Types

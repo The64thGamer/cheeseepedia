@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-29T17:37:10Z
 
 [Article]
+pageThumbnailFile = "ExteriorBrentwoodCA.png|Brentwood's exterior in December 2022, prior to 2.0."
 contributors = ["Veronancy","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=ExteriorBrentwoodCA.png|desc=Brentwood's exterior in December 2022, prior to 2.0.}}
-**_Brentwood, CA (6061 Lone Tree Way), Store #783**_ is a _Chuck E. Cheese_ that opened on May 27th, 2007, with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is currently operating today with their 2.0 refresh which they received in February 2024.
 
-## History ##
+<b><i>Brentwood, CA (6061 Lone Tree Way), Store #783</b></i> is a <i>Chuck E. Cheese</i> that opened on May 27th, 2007, with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is currently operating today with their 2.0 refresh which they received in February 2024.
+
+<h2> History </h2>
 Brentwood opened on May 27th, 2007, with the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, and a Studio C Beta, 16m. This location had Skytubes and a mix of phase 3 and 4 artwork. The location would stay relatively the same, besides getting new game packages and the removal of the Skytubes. On September 19th, 2022, their Studio C animatronic ceased programming and started to only move in random movements. In February 2024, Brentwood would get the 2.0 refresh, removing their stage and replacing it with a 2021 Model Dance Floor and Video Wall. They would also receive the Trampoline Zone during their refresh, the first in the Bay Area to do so. This location is also notable for having the last Chuck E. Cheese's School Bus ride. Sometime before the stage's removal, they replaced his snout with a repro.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -33,7 +34,7 @@ Brentwood opened on May 27th, 2007, with the 2005 update to the 2003 'Cool Chuck
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -52,7 +53,7 @@ Brentwood opened on May 27th, 2007, with the 2005 update to the 2003 'Cool Chuck
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

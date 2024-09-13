@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-08-07T12:44:38Z
 
 [Article]
+pageThumbnailFile = "Brade.png |Bradenton's exterior pre-2.0 remodel."
 contributors = ["ShowbizMidwest","WalterB","CEC Tinley","2600:4040:5A0E:D900:80EC:F561:38B:60E","AstridMascotFan2005","CoolerDude"]
 gallery = []
 +++
-{{NonStandard}}{{Generic|image=Brade.png |desc=Bradenton's exterior pre-2.0 remodel.|d1 download=|d1 name=}}
 
-**905 44th Ave W, Store #720** is a _Chuck E. Cheese’s_ that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. 
+
+<b>905 44th Ave W, Store #720</b> is a <i>Chuck E. Cheese’s</i> that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. 
 
 This is not to be confused with the Pizza Time Theatre on [4420 14th St]({{< ref "wiki/Bradenton, FL (4420 14th St).md" >}}) which opened in October 1981 and closed on June 16th, 1984 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and the Showbiz Pizza Place on [415 Cortez Rd]({{< ref "wiki/Bradenton, FL (415 Cortez Rd).md" >}}) which opened on March 25th, 1982, and closed in 1985/1986 (Unknown Day & Month) with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). 
 
-## History ##
+<h2> History </h2>
 Bradenton opened on March 3rd, 1999, with a Studio C Alpha. Bradenton would remodel to the 2005 Remodel in February 2012 removing older decor for newer decor, removing showroom walls, etc.
 
 Currently, as of today, they have the 2.0 Remodel with the 2021 Model Dance Floor and Video Wall.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Studio C Alpha. In April 2023, they remodeled to 2.0 and got the 2021 Model of Dance Floor and Video wall. As of today, they still have the Dance Floor.
 In 2002, Bradenton got an entire new mask for Chuck, which is very uncommon for Studio C stores. The snout, head shell, and fur was replaced, but retained the original ears and eyebrows. When Bradenton received the new mask, the fur was not trimmed, making it so that the tech had to do it himself, resulting in the fur not looking correct. 
 In the mid 2000’s, Bradenton received the Cool Chuck outfit, and Bird got custom fur and feathers, making him fluffier and more colorful than usual. In 2010, Bradenton received the full Avenger outfit.
@@ -44,7 +45,7 @@ After the Orlando I-Drive store remodeled, Bradenton would receive and install t
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -66,7 +67,7 @@ After the Orlando I-Drive store remodeled, Bradenton would receive and install t
 
 TODO
 
-## Videos\Footage ##
+<h2> Videos\Footage </h2>
 TODO
 {| class='wikitable'
 !Link

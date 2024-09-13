@@ -5,12 +5,13 @@ tags = ["Store List"]
 date = 2024-07-16T16:24:17Z
 
 [Article]
+pageThumbnailFile = "Orlando (International)'s 2.0 exterior.png|The exterior of Orlando (International) as a 2.0 and at nighttime."
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan","108.11.7.204","BurgersNuggs445","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Orlando (International)'s 2.0 exterior.png|desc=The exterior of Orlando (International) as a 2.0 and at nighttime.}}
-**_7419 International Dr, Store #718**_ also known as ****International**** is a _Showbiz Pizza/Chuck E. Cheese_ that opened on July 22, 1981 as a corporate _ShowBiz Pizza Place_ with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). It is located next to an unnamed shopping center and across from Universal Studios Florida and Walt Disney World.
-##Stages ##
+
+<b><i>7419 International Dr, Store #718</b></i> also known as <b></b>International<b></b> is a <i>Showbiz Pizza/Chuck E. Cheese</i> that opened on July 22, 1981 as a corporate <i>ShowBiz Pizza Place</i> with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). It is located next to an unnamed shopping center and across from Universal Studios Florida and Walt Disney World.
+<h2>Stages </h2>
 Orlando opened with the Rock afire Explosion in July 1981. Unfortunately, there are no photos or videos to exist of Orlando with the Rock afire, or as a Showbiz in general.
 
 In 1991 or 1992, Orlando received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), converting the Rock afire into the Munch’s Make Believe Band 3-Stage. It is one of 6 location in Florida to receive Concept Unification and was also featured in music videos from 1995-1996.
@@ -43,7 +44,7 @@ This location is the 3rd to open in Florida, 2nd to open in the Orlando area, an
 |Still in use.
 |}
 
-##History##
+<h2>History</h2>
 Orlando (International) opened its doors on July 22nd, 1981 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Very little documentation exists back when Orlando (International) the Showbiz Pizza .Like many ShowBiz locations in the late 1980s, Orlando received the Showbiz Pizza Campground upgrade.
 
 In 1991 or 1992, Orlando received Concept Unification which converted the show to Munch's Make Believe Band. In around 1994, Orlando received either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel which removed some early 90's decor and added new decor, a change to the exterior, and the addition of SkyTubes. In 1998, Orlando removed their 3-Stage for the Studio C Alpha stage. Orlando remained this way until in 2003 when they became one of the first stores to test the 2003 remodel of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Showroom Walls, balcony Seating, received a new exterior, and also removing some older 90's decor. In September 2021, Orlando received the 2.0 remodel and removed the Studio C Alpha for the Dance Floor. As of January 2023, they still have the 2.0 remodel and the Dance Floor.
@@ -51,7 +52,7 @@ In 1991 or 1992, Orlando received Concept Unification which converted the show t
 
 On January 3, 2024 a lawsuit was filed against CEC Entertainment over an incident at this location involving an employee sexuallty assaulting a coworker in May 2019. The assaulter allegedly groomed the co-worker in to gaining her trust by giving her rides home and later attempted to force himself on the victim. The victim is seeking $1,000,000 in damages from CEC.<ref>https://www.clickorlando.com/news/local/2024/01/04/former-employee-accuses-orange-county-chuck-e-cheese-in-sex-attack-claims/</ref>
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Character
@@ -125,11 +126,11 @@ On January 3, 2024 a lawsuit was filed against CEC Entertainment over an inciden
 
 
 
-##Videos ##
+<h2>Videos </h2>
 W.I.P
-##References##
+<h2>References</h2>
 <references />
 
-##Trivia##
+<h2>Trivia</h2>
 
 *In 1995-1996, this location alongside Lakeland, FL (3558 US Hwy 98) (Lakeland) was the filming location for the Chuck E. Cheese's scenes for the showtapes.

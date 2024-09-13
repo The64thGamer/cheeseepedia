@@ -8,12 +8,12 @@ date = 2024-03-26T17:53:13Z
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{{Stub}} **_3221 Ambassador Caffery Pkwy**_ was a _ShowBiz Pizza Place_ that opened on November 5th, 1984 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in January 1995 (day unknown) as a _Showbiz Pizza_ with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
+ <b><i>3221 Ambassador Caffery Pkwy</b></i> was a <i>ShowBiz Pizza Place</i> that opened on November 5th, 1984 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in January 1995 (day unknown) as a <i>Showbiz Pizza</i> with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}).
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stages
 !Installed
@@ -28,7 +28,7 @@ TODO
 |January 1995
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

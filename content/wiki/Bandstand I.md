@@ -15,9 +15,9 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 | pttreel = y
 |guesthelen=y|themebroadway=y}}
 
-**_Bandstand 1**_ is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. Since the show was released right after Broadway Helen Henny, the show recycled the Broadway backdrop. 
+<b><i>Bandstand 1</b></i> is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. Since the show was released right after Broadway Helen Henny, the show recycled the Broadway backdrop. 
 
-##Segments:##
+<h2>Segments:</h2>
 Disclaimer: The segment list is currently incomplete, as it is unclear the original order of special and birthday tapes within the original showtape reel.
 
 * 1980s Video Hits

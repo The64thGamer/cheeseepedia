@@ -10,7 +10,7 @@ gallery = []
 +++
 TODO:
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * This is the first CEC showtape where Disney was completely involved with the showtape's production.
 ** Looking closely at 'Party Place' in particular, you can see it was filmed at Disney-MGM Studios' Streets of America, Bay Lake, Disney's Fort Wilderness Campgrounds and the mascots on stage scenes were likely filmed at Disney Village's Pleasure Island.

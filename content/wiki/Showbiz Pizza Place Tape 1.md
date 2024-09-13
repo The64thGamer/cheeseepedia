@@ -11,16 +11,16 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 {{Showtape
 |image=Showbiztape1thumbnail.png
 |date=January 12, 1980
-|showbizreel=y}}**_Showbiz Pizza Place Tape 1**_ was the first ever showtape produced for _Showbiz Pizza Place's_ hosting the _Rock-afire Explosion_.
+|showbizreel=y}}<b><i>Showbiz Pizza Place Tape 1</b></i> was the first ever showtape produced for <i>Showbiz Pizza Place's</i> hosting the <i>Rock-afire Explosion</i>.
 
 Despite the tape's manufacture date being January 12, 1980, it wouldn't debut at a ShowBiz Pizza Place store until July of that year.<ref>https://www.showbizpizza.com/review/rae/1980_spptape1.html</ref>
 
-##Summary##
+<h2>Summary</h2>
 This tape would be the introduction of the Rock-afire Explosion to first time ShowBiz Pizza customers and staff at the opening of the first stores. Each segment focuses on a main character and sets up their archetype and situation on stage.
 
 Heartaches sets up Dook's emotional singing, but doesn't include any dialogue. 
 
-Roast Beef Sandwich introduces Billy Bob and Looney Bird running _Smitty's Super Service Station_ and their solution to the 1979 Oil Crisis<ref name=':0'>https://en.wikipedia.org/wiki/1979_oil_crisis</ref> with _Gas-O-Hol._ This scenario presents Billy Bob's caring personality, and shows Looney Bird's drunken craziness through his use of drinking the Gas-O-Hol. 
+Roast Beef Sandwich introduces Billy Bob and Looney Bird running <i>Smitty's Super Service Station</i> and their solution to the 1979 Oil Crisis<ref name=':0'>https://en.wikipedia.org/wiki/1979_oil_crisis</ref> with <i>Gas-O-Hol.</i> This scenario presents Billy Bob's caring personality, and shows Looney Bird's drunken craziness through his use of drinking the Gas-O-Hol. 
 
 Catch-A-Wave introduces Beach Bear's surfing personality and his goofy voice. 
 
@@ -33,122 +33,122 @@ Mitzi makes zero appearances in this tape outside backup singing, making a prope
 <tabber>
 |-|Segment List=
 Notably this tape essentially loops its main segments twice, with every other loop containing a Rolfe & Earl skit.
-#**Segment** **1**
+#<b>Segment</b> <b>1</b>
 ##Heartaches
-#**Segment 2**
+#<b>Segment 2</b>
 ##Roast Beef Sandwich
-#**Segment** **3**
+#<b>Segment</b> <b>3</b>
 ##Catch-a-Wave
-#**Segment** **4**
+#<b>Segment</b> <b>4</b>
 ##Rolfe and Earl #1 - Hit the Cymbal
-#**Segment** **5**
+#<b>Segment</b> <b>5</b>
 ##School Days
-#**Segment** **6**
+#<b>Segment</b> <b>6</b>
 ##Heartaches
-#**Segment** **7**
+#<b>Segment</b> <b>7</b>
 ##Roast Beef Sandwich
-#**Segment** **8**
+#<b>Segment</b> <b>8</b>
 ##Catch-a-Wave
-#**Segment** **9**
+#<b>Segment</b> <b>9</b>
 ##School Days
 |-|Transcriptions=
 {{#tag:tabber|
 Heartaches=
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Here we go again
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Yip-dip-dip-dip-wueb-wueb-wueb-bum-bum-bum-bum-bo-bo-bo-bo
 
 Dim-bdim-buh-bum-bum-bum-bum-bum heartaches 
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heart-
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 -aches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heart-
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 -aches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Yip-dip-dip-dip-wueb-wueb-wueb-bum-bum-bum-bum-bo-bo-bo-bo
 
 Dim-bdim-buh-bum-bum-bum-bum-bum heartaches 
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches, heartaches 
 
@@ -165,75 +165,75 @@ It doesn't matter how my heart breaks
 I could be happy with someone new, but my heart aches for-
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Yip-dip-dip-dip-wueb-wueb-wueb-bum-bum-bum-bum-bo-bo-bo-bo
 
 Dim-bdim-buh-bum-bum-bum-bum-bum heartaches 
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Woah-oh-o-oh-o-oh-o-ohh yea
 
 
-**Fatz: (spoken)**
+<b>Fatz: (spoken)</b>
 
 Y'know, my love for you meant only heartache
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches, heart-aches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches, heart-aches
 
 Ahh
 
 
-**Fatz: (Spoken and singing)**
+<b>Fatz: (Spoken and singing)</b>
 
 I can't believe your love is just a burnin' memory
 
 Yo-bo-bo-bo-bo-bum
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-dim
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Heartaches
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Dim-dim-dim-doh
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 It doesn't matter how my ha-ha-ha-ha-ha-heart breaks
 
 I could be happy with someone new, but my heart aches for-
 
 
-**Fatz: (singing)**
+<b>Fatz: (singing)</b>
 
 Yip-dip-dip-dip-wueb-wueb-wueb-bum-bum-bum-bum-bo-bo-bo-bo
 
@@ -242,7 +242,7 @@ Dim-bdim-buh-bum-bum-bum-bum-bum
 Heartaches 
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Di-di-di-dum
 
@@ -260,15 +260,15 @@ Heart-aches, heart
 
 Heart-aches, heartaches
 
- {{!}}-{{!}}
+ -
 Roast Beef Sandwich=
-**[Banjo jingle plays for 20s]**
+<b>[Banjo jingle plays for 20s]</b>
 
 
-**[Banjo and piano plays quietly over speech]**
+<b>[Banjo and piano plays quietly over speech]</b>
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Howdy folks, I'm Billy Bob. That's three B's, two L's, a I, a Y, and a O. (laughs)
 
@@ -281,102 +281,102 @@ Cause, as you can see, I'm making up a new fangled formula down here on the floo
 Yeah its made of lots of good stuff and its in this little container and its gets all boiled up n' everything, and it comes out this long tube...
 
 
-**[Billy Bob plays his guitar strings higher then lower in pitch while explaining]**
+<b>[Billy Bob plays his guitar strings higher then lower in pitch while explaining]</b>
 
 
 All the way down into this barrel, and I call it Gas-O-Hol. Yeah, we can use it in our car, or drink it!
 
 
-**Billy Bob & Looney Bird: (singing)**
+<b>Billy Bob & Looney Bird: (singing)</b>
 
 And havin' such a wonderful day
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Hey there Looney Bird! (excitedly)
 
 
-**Looney Bird:**
+<b>Looney Bird:</b>
 
 Hey there Billy Bob! (screaming)
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Folks, I'd like ya to meet my friend here, this here's the Looney Bird!
 
 
-**[Billy Bob twangs his guitar in a high pitch]**
+<b>[Billy Bob twangs his guitar in a high pitch]</b>
 
 
 I can't afford a watchdog, so Looney Bird here moved in to watch over my secret formula! 
 
 
-**[Another guitar twang]**
+<b>[Another guitar twang]</b>
 
 
 How much Gas-O-Hol we got so far Looney Bird?
 
 
-**Looney Bird:**
+<b>Looney Bird:</b>
 
 Just a minute Billy Bob I'll go check and see!
 
 
-**[Another guitar twang]**
+<b>[Another guitar twang]</b>
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Here's probably gonna measure real accurate like exactly how much Gas-O-Hol we got.
 
 
-**[Guitar twangs in a worrying fashion]**
+<b>[Guitar twangs in a worrying fashion]</b>
 
 
 [Elongated slurping noises made by Looney Bird]
 
 
-**[Guitar twangs drunkenly]**
+<b>[Guitar twangs drunkenly]</b>
 
 
-**Looney Bird:**
+<b>Looney Bird:</b>
 
 We ain't got too much yet Billy Bob. (worried)
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Oh dear.
 
 
-**Looney Bird:**
+<b>Looney Bird:</b>
 
 I guess you better put on some more corn squeezin's huh Billy Bob?
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 Yeah I guess I better. I just hope the Looney Bird don't become some kinda Gas-O-Holic.
 
 Hey Looney Bird, its time for your favorite part of the show! (excitedly)
 
 
-**Looney Bird:**
+<b>Looney Bird:</b>
 
 You mean its time to go already-?
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 No! I mean its time to get down and get funky- sort of.
 
 
-**[Song: Roast Beef Sandwich begins playing]**
+<b>[Song: Roast Beef Sandwich begins playing]</b>
 
 
-**Billy Bob: (singing)**
+<b>Billy Bob: (singing)</b>
 
 Roast beef sandwich and a- pizza
 
@@ -395,7 +395,7 @@ All the fellas and the chicks gettin' calories and kicks
 Eating roast beef sandwich and a- pizza
 
 
-**Billy Bob & Looney Bird: (singing)**
+<b>Billy Bob & Looney Bird: (singing)</b>
 
 Chompin' to the music of the jukebox
 
@@ -406,7 +406,7 @@ Chompin' to the music of the jukebox cause
 We're havin' such a wonderful time
 
 
-**Billy Bob: (singing)**
+<b>Billy Bob: (singing)</b>
 
 Just eating roast beef sandwich and a- pizza
 
@@ -419,10 +419,10 @@ How the kids at school will go
 For a roast beef sandwich and a- pizza
 
 
-**[Guitar solo]**
+<b>[Guitar solo]</b>
 
 
-**Billy Bob & Looney Bird: (singing)**
+<b>Billy Bob & Looney Bird: (singing)</b>
 
 Chompin' to the music of the jukebox
 
@@ -433,60 +433,60 @@ Hand it down and drop it in the jukebox cause
 We're havin' such a wonderful time
 
 
-**Billy Bob: (singing)**
+<b>Billy Bob: (singing)</b>
 
 Just eating roast beef sandwich and a- pizza
 
 Roast beef sandwich and a- pizza
 
-**Billy Bob With Looney Bird:(singing)**
+<b>Billy Bob With Looney Bird:(singing)</b>
 
 Its terrific, its the most
 
 And its happenin' coast-to-coast
 
-**Billy Bob: (singing)**
+<b>Billy Bob: (singing)</b>
 
 Eating roast beef sandwich and a- pizza
 
 
-**[Song ends]**
+<b>[Song ends]</b>
 
 
-**Billy Bob:**
+<b>Billy Bob:</b>
 
 So long everybody! See you next time!
 
 
-**[Banjo jingle plays for 20s]**
+<b>[Banjo jingle plays for 20s]</b>
 
 
- {{!}}-{{!}}
+ -
 Catch-a-Wave=
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 
-**Beach Bear: (singing)**
+<b>Beach Bear: (singing)</b>
 
 Don't be afraid to try the greatest sport around!
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave
 
 Catch a wave
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 If you don't you best not put it down
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 You paddle out turn around and raise
 
@@ -495,31 +495,31 @@ And baby that's all there is to the coastline craze
 You gotta-
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 Oo-aa-oo-aa-oo-aa-oo-aa
 
 
-**Beach Bear: (singing)**
+<b>Beach Bear: (singing)</b>
 
 Not just a fad cause it's been going on so long!
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave
 
 Catch a wave
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 They said it wouldn't last too long
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 They'll eat their words with a fork and spoon
 
@@ -528,7 +528,7 @@ And watch 'em they'll hit the road and all be surfin' soon
 And when they-
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
@@ -538,31 +538,31 @@ Oo-aa-oo-aa-oo-aa-oo-aa
 
 [Guitar Solo]
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 Oo-aa-oo-aa-oo-aa-oo-aa
 
 
-**Beach Bear: (singing)**
+<b>Beach Bear: (singing)</b>
 
 So take a tip from a top-notch surfer bear!
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave
 
 Catch a wave
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 But don't you treat it like a toy!
 
 
-**Dook: (singing)**
+<b>Dook: (singing)</b>
 
 Just get away from the shady turf
 
@@ -571,45 +571,45 @@ And baby go catch some rays on the sunny surf
 And when you-
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 Way up high, up on top of the world (Oo-aa-oo-aa-oo-aa-oo-aa)
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 Way up high, up on top of the world (Oo-aa-oo-aa-oo-aa-oo-aa)
 
 
-**All: (singing)**
+<b>All: (singing)</b>
 
 Catch a wave and you're sittin' on top of the world!
 
 
-**Mitzi: (singing)**
+<b>Mitzi: (singing)</b>
 
 Way up high, up on top of the world (Oo-aa-oo-aa-oo-aa-oo-aa)
 
 
- {{!}}-{{!}}
+ -
 Rolfe and Earl #1 - Hit the Cymbal=
 
- {{!}}-{{!}}
+ -
 School Days=
 
 }}
 </tabber>
 
-##References##
+<h2>References</h2>
 
 <references />

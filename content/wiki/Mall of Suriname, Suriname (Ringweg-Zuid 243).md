@@ -9,14 +9,14 @@ contributors = ["CECBowlingGreen","RedaCEC","CorrectorMan","Tux Chuck"]
 gallery = ["Suriname after opening in November 2022..jpg|thumb|Suriname after opening in November 2022. (PC: Google Maps)"]
 +++
 
-**VR4G+P7G, Ringweg-Zuid, Paramaribo, Suriname** is a Chuck E. Cheese that opened on September 22, 2022, with a Dance Floor and Video Wall, which is still open to this day.
+<b>VR4G+P7G, Ringweg-Zuid, Paramaribo, Suriname</b> is a Chuck E. Cheese that opened on September 22, 2022, with a Dance Floor and Video Wall, which is still open to this day.
 
 This location is the very first location in the country of Suriname, which is in South America. They are sub-franchised by Yay! Entertainment and Blue Falcon N.V, who also own the two locations in Trinidad & Tobago.<ref>https://www.stabroeknews.com/2021/12/07/news/guyana/chuck-e-cheese-for-guyana/</ref>
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Stage ##
+<h2> Stage </h2>
 As the store is new, they have a Dance Floor with a Video Wall. Their Dance Floor is the 2021 Model.
 {| class='wikitable'
 |+
@@ -34,7 +34,7 @@ As the store is new, they have a Dance Floor with a Video Wall. Their Dance Floo
 
 TODO
 
-## YouTube Videos ##
+<h2> YouTube Videos </h2>
 TODO
 {| class='wikitable'
 !Link
@@ -58,4 +58,4 @@ TODO
 |
 |}
 
-## References ##
+<h2> References </h2>

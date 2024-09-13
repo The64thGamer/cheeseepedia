@@ -11,15 +11,15 @@ gallery = []
 {{Showtape
 |image=Ererfewef333.png|date=1993|cusvhs93=y}}
 
-**_3-Stage Diagnostics Tape 1993**_ was a diagnostics tape released just two years after the initial Concept Unification Diagnostics Tape 1, as the original was no longer usable during the 1993 showtape conversion of signals.
+<b><i>3-Stage Diagnostics Tape 1993</b></i> was a diagnostics tape released just two years after the initial Concept Unification Diagnostics Tape 1, as the original was no longer usable during the 1993 showtape conversion of signals.
 
-Multiple things from the _Showbiz Pizza Time_ corporate office show can be seen changed between each tape. Chuck and Helen's masks are different, Munch's organ cover was changed from the early sunrise design to the standard design, Jasper's guitar was changed from the original Beach Bear guitar to the cheese guitar, and Pasqually's drum front changing from the orange swirl design to the blue explosion design.
+Multiple things from the <i>Showbiz Pizza Time</i> corporate office show can be seen changed between each tape. Chuck and Helen's masks are different, Munch's organ cover was changed from the early sunrise design to the standard design, Jasper's guitar was changed from the original Beach Bear guitar to the cheese guitar, and Pasqually's drum front changing from the orange swirl design to the blue explosion design.
 
 The [CU Flower (Animatronic)]({{< ref "wiki/CU Flower (Animatronic).md" >}}) also makes an appearance in the tape, being shown on Pasqually's stage.
-##Diagnostics List:##
+<h2>Diagnostics List:</h2>
 Movements are repeated 10 times while lights and curtains are only done once. This is in order of how the movements are shown in the Diagnostics tape not in order of the bits.
 
-**Chuck E. Cheese**
+<b>Chuck E. Cheese</b>
 
 Mouth
 
@@ -55,7 +55,7 @@ Body Right
 
 Body Lean
 
-**Pasqually**
+<b>Pasqually</b>
 
 Mouth
 
@@ -79,7 +79,7 @@ High Hat
 
 Body Lean
 
-**Munch**
+<b>Munch</b>
 
 Mouth
 
@@ -107,7 +107,7 @@ Foot Tap
 
 Body Lean
 
-**Main Props**
+<b>Main Props</b>
 
 Building Mouth (Building Up is also activated)
 
@@ -117,9 +117,9 @@ Moon Mouth (Moon Up is also activated)
 
 Moon Up
 
-**Dual Pressure**
+<b>Dual Pressure</b>
 
-**Curtains**
+<b>Curtains</b>
 
 Stage Right Close
 
@@ -133,7 +133,7 @@ Stage Left Close
 
 Stage Left Open
 
-**Spot Lights**
+<b>Spot Lights</b>
 
 Chuck E. Spot
 
@@ -157,7 +157,7 @@ Wink Spot
 
 Guitar Spot
 
-**Stage Right Lights**
+<b>Stage Right Lights</b>
 
 CEC Neon
 
@@ -173,7 +173,7 @@ Amber Floods
 
 Red Floods
 
-**Center Stage Lights**
+<b>Center Stage Lights</b>
 
 Fiber Optic Stars
 
@@ -223,7 +223,7 @@ Amber Over-Head
 
 Red Over-Head
 
-**Stage Left Lights**
+<b>Stage Left Lights</b>
 
 Red Backdrop
 
@@ -241,11 +241,11 @@ Amber Floods
 
 Red Floods
 
-**Helicopter Lights**
+<b>Helicopter Lights</b>
 
 Helicopter Light
 
-**Jasper**
+<b>Jasper</b>
 
 Mouth
 
@@ -275,7 +275,7 @@ Left + Right Leg Raise
 
 Body Lean
 
-**Helen Henny**
+<b>Helen Henny</b>
 
 Mouth
 
@@ -305,7 +305,7 @@ Body Right
 
 Body Lean
 
-**Camera Man**
+<b>Camera Man</b>
 
 Mouth (Head Raise is also activated until Head Raise is tested)
 
@@ -317,22 +317,22 @@ Head Right
 
 Head Raise
 
-**Wink Mech**
+<b>Wink Mech</b>
 
 Wink
 
-**Munch, Jr.**
+<b>Munch, Jr.</b>
 
 Munch, Jr. Raise
 
-**Flowers**
+<b>Flowers</b>
 
 Flower Mouth
 *
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This showtape was released as a result of a brand new Eprom being released. This rendered any show prior to July 1993, including CU Diagnostics Tape 1, impossible to play.
 * Despite being used by this point Live Floods don't appear in this tape.

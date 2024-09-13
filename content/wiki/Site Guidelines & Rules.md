@@ -8,7 +8,7 @@ date = 2024-08-17T03:37:11Z
 contributors = ["The 64th Gamer","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2"]
 gallery = []
 +++
-## Rules ##
+<h2> Rules </h2>
 Standard wiki rules, breaking any will result in an immediate ban with no questions asked.
 
 * No vandalism of pages, removal of important (or in general any) info, or any edits to main pages without admin permission.
@@ -20,25 +20,25 @@ Standard wiki rules, breaking any will result in an immediate ban with no questi
 ** Creation of a page to dump in a gallery of photos is fine, as long as it eventually gets proper writing and formatting.
 ** Noting what was changed is required, and important changes must be given sources or discussed with Admins for approval.
 ** Changes must be described when pushing any contribution to the wiki.
-* No uploading of _Creative Engineering Premium Service_ videos or screenshots. Documenting info on them is fine.
+* No uploading of <i>Creative Engineering Premium Service</i> videos or screenshots. Documenting info on them is fine.
 * No harassment of staff, previous employees, corporate workers, or any other associated figures with any of the documented companies to obtain information.
 * No pictures of stolen objects or leaking of private info. This includes sensitive company and store documents.
 
-## Writing Guidelines ##
+<h2> Writing Guidelines </h2>
 
 * Use the :Category: Standards Pages as guides to creating pages in each section of the wiki. If a category doesn't have a standards page, just use general formatting in-line with the rest of the wiki.
 
 * Category pages should sort items by year. Items with unknown years should be at the top under the label 'Unknown Year'. These labels should use the 'Sub-Heading 1' font size, unless the list is long enough to need to be further subcategorized, in which case the labels should use 'Heading', while the needed categories use 'Sub-Heading 1'.
-* Every page should start off with the page's name in **_bold italics.**_ The first sentence should give a brief description of the item, and the years it was used in. After this single sentence a new paragraph must be started if more details are to be described. Only a single paragraph at maximum should be at the top of a page, anything further should then be separated by a header.
-* Every page should include a right-side main image when possible- using the Template:Generic infobox as it uses the photo for embeds of the article, and when the item has multiple photos, or is complex enough to need multiple photos to visually describe in full, a _Gallery_ section should be created near the mid-to-bottom part of the page.
+* Every page should start off with the page's name in <b><i>bold italics.</b></i> The first sentence should give a brief description of the item, and the years it was used in. After this single sentence a new paragraph must be started if more details are to be described. Only a single paragraph at maximum should be at the top of a page, anything further should then be separated by a header.
+* Every page should include a right-side main image when possible- using the Template:Generic infobox as it uses the photo for embeds of the article, and when the item has multiple photos, or is complex enough to need multiple photos to visually describe in full, a <i>Gallery</i> section should be created near the mid-to-bottom part of the page.
 * All things dealing with Creative Engineering should be labeled as by Creative Engineering, not Aaron Fechter. Despite Aaron being the sole employee of Creative Engineering to current day, things could change in the future, whether he brings on new official employees, or gives up the brand to a new owner. It is best to keep the formatting consistent, and have anything Fechter has made be listed as 'by Creative Engineering'.
 * The same applies to the names of brands based on their time period. CEC Entertainment Corp was once Showbiz Pizza Time Inc., which was also once separately Showbiz Pizza Inc. and Pizza Time Theatre Inc.. Creative Engineering is also notably separate from Showbiz Pizza Place, as they were a licensee, not a subsidiary.
 * Pictures should attempt to blur faces of customers and guests where possible without blurring any possibly important details around them. Its not strictly prohibited to upload unblurred photos, but it is encouraged they be blurred- and to update other photos to include blurring later on.
 
-### New Pages & Categories ###
-New pages must be listed under a _Category Page._ For example, a user cannot link to a new page for a showtape on a page without also creating that link in the :Category: All Showtapes category. New categories for the [Main Page]({{< ref "wiki/Main Page.md" >}}) are not to be made by users. If a user would like to suggest a category, or feel they have a new page that doesn't fall under any of the current categories, they may contact the admins.
+<h2>= New Pages & Categories </h2>=
+New pages must be listed under a <i>Category Page.</i> For example, a user cannot link to a new page for a showtape on a page without also creating that link in the :Category: All Showtapes category. New categories for the [Main Page]({{< ref "wiki/Main Page.md" >}}) are not to be made by users. If a user would like to suggest a category, or feel they have a new page that doesn't fall under any of the current categories, they may contact the admins.
 
-### Separation of Companies ###
+<h2>= Separation of Companies </h2>=
 The wiki covers 4 main companies in its topics (alongside many minor companies), this being Pizza Time Theatre, Showbiz Pizza Place, Creative Engineering, and Chuck E. Cheese's. There may be some confusion into which company a topic should be put under:
 
 * Anything Showbiz Pizza Place published related to the Rock-afire Explosion goes under SPP categories and not CEI. This includes everything from their inception up until [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}). CEI endeavors with the RAE that was unrelated to SPP go under CEI, such as the 1986 Mini Billy Bobs, IAPPA trade shows, FEC licensing, or anything done after Concept Unification. 

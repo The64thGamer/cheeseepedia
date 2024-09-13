@@ -12,27 +12,27 @@ gallery = []
 |date=December 1982
 |showbizreel=y|image=AfterChristmasThumbnail.png}}
 
-The **_After Christmas Showtape**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
+The <b><i>After Christmas Showtape</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in December 1982.
 
-##Segment List##
-#**Segment 1** 
+<h2>Segment List</h2>
+#<b>Segment 1</b> 
 ##Get Ready
 ##Red Hot
-#**Segment 2** 
+#<b>Segment 2</b> 
 ##Fire
 ##My Girl
-#**Segment 3**
+#<b>Segment 3</b>
 ##When Will I Be Loved
 ##On the Road Again
-#**Segment 4**
+#<b>Segment 4</b>
 ##Gloria
-#**Segment 5**
+#<b>Segment 5</b>
 ##Rubber Biscuit
-#**Segment 6**
+#<b>Segment 6</b>
 ##Secret Agent Man
-#**Segment 7**
+#<b>Segment 7</b>
 ##Spaceman
-#**Segment 8**
+#<b>Segment 8</b>
 ##Framed
-#**Segment 9**
+#<b>Segment 9</b>
 ##Joke Box Skit

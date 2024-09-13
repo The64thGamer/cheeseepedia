@@ -41,35 +41,35 @@ Chuck E. Cheese's|label4=Turn The Beat Around • Walk Like An Egyptian • Chuc
 2 RHINO
 Chuck E. Cheese's}}
 
-**_Chuck E. Cheese's Awesome Tune Tracks**_ is a cassette tape created in 1996 by Showbiz Pizza Time.
+<b><i>Chuck E. Cheese's Awesome Tune Tracks</b></i> is a cassette tape created in 1996 by Showbiz Pizza Time.
 
-##Production##
+<h2>Production</h2>
 Shortly after the premiere of the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}), Showbiz Pizza Time briefly partnered with [https://en.wikipedia.org/wiki/Rhino_Entertainment Rhino Entertainment] to produce a cassette tape. 
 
-###Scrapped Content###
+<h2>=Scrapped Content</h2>=
 Originally 'Are you Ready for This?', and 'Strike It Up' was meant to be included but was 'scrapped due to limited space on the tape'.<ref>https://www.youtube.com/watch?v=ZIWfW5xvfhE</ref>
 
-The audio was modified for both songs compared to the showtape version. For 'Are you Ready for This?' it features new never before seen dialogue and removing the 'Robot Cheese Slicers' bit and replacing it with more dialogue.<ref>https://www.youtube.com/watch?v=ZIWfW5xvfhE</ref> '[Strike It Up]({{< ref "wiki/Strike It Up.md" >}})' had the intro removed and outro removed.<ref>https://www.youtube.com/watch?v=m8fIhTmFtkk</ref>
+The audio was modified for both songs compared to the showtape version. For 'Are you Ready for This?' it features new never before seen dialogue and removing the 'Robot Cheese Slicers' bit and replacing it with more dialogue.<ref>https:<i>www.youtube.com/watch?v=ZIWfW5xvfhE</ref> '[Strike It Up]({{< ref "wiki/Strike It Up.md" >}})' had the intro removed and outro removed.<ref>https:</i>www.youtube.com/watch?v=m8fIhTmFtkk</ref>
 
 The cassette was also to be re-released in 1997 with a poseable [It's Chuck E. Time!]({{< ref "wiki/It's Chuck E Time!.md" >}}) figure, but it fell through for an unknown reason. The tape included the tracks: It's A Jungle Out There, Chuck E. Says, Silicon Valley Showdown, and Every Boy Every Girl.
 
-##Track List##
+<h2>Track List</h2>
 
-###Side One###
+<h2>=Side One</h2>=
 
 *It's A Jungle Out There
 *Hokey Pokey - Brave Combo
 *Silicon Valley Showdown
 *Chuck E.'s Fiesta Mexicana
 
-###Side Two###
+<h2>=Side Two</h2>=
 
 *Turn The Beat Around
 *Walk Like An Egyptian
 *Chuck E. Says
 *Macarena
 
-##Design##
+<h2>Design</h2>
 The front of the cassette's box contains art of Chuck E. Cheese specifically created for this cassette release, with the Chuck E. Cheese's lettering being above it. The front has the Awesome Tune Tracks logo and has the Brave Combo feature under it inside of a bubble.
 
 The box is a gradient going from light blue to dark blue. One boy is leaning on top of a snare drum with sticks in his hands with the other near him lying on a skateboard with a prop guitar used in stores through out the 1990s, and finally a girl is seen behind Chuck E. with a microphone and pom-pom.
@@ -79,6 +79,6 @@ The back of the box and cassette are the track lists included inside.
 
 
 
-##References##
+<h2>References</h2>
 
 <references />

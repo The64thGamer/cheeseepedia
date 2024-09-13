@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-09-03T16:38:50Z
 
 [Article]
+pageThumbnailFile = "desc=A photo of Panama City's exterior before closure. (PC: LoopNet)|image=PanamaCityFLCECExteriorBeforeClosureHQ1.jpg"
 contributors = ["ThatBoiCydalan","RQBtv","Midwestretail","ShowbizMidwest","CorrectorMan","CEC Tinley"]
 gallery = []
 +++
-{{Stub}}{{Generic|desc=A photo of Panama City's exterior before closure. (PC: LoopNet)|image=PanamaCityFLCECExteriorBeforeClosureHQ1.jpg}}
-**_Panama City, FL (4432 US-98)**_ was a Showbiz Pizza Place/Chuck E. Cheese that opened on May 7, 1986, and closed in Spring 2007.
 
-##Stages##
+<b><i>Panama City, FL (4432 US-98)</b></i> was a Showbiz Pizza Place/Chuck E. Cheese that opened on May 7, 1986, and closed in Spring 2007.
+
+<h2>Stages</h2>
 When this store first opened, it featured a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage, as all Showbiz locations did. The stage would undergo Concept Unification in June 1991. Not much information is known about its stage, but the condition of it had reportedly deteriorated by 2006 and would not be repaired by the location's closure the following year. It is notable that this location kept its Munch Jr. animatronic throughout its entire lifespan.
 {| class='wikitable'
 |+
@@ -32,7 +33,7 @@ When this store first opened, it featured a [Rock-afire Explosion]({{< ref "wiki
 |}
 
 
-##History##
+<h2>History</h2>
 In June 1985, a restaurant called the Frontier Club that sat on the site closed, and the property was sold to Dr. Palep Rao, a local gastroenterologist and Showbiz franchisee, who also owned the [Tallahassee]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}) store. The restaurant, modeled after an Amish barn, was subsequently razed.
 
 Construction of the store began in late 1985, concluding in February 1986, and the first ads for the location were printed in April 1986, teasing a May opening. It held its grand opening as a Showbiz Pizza Place on May 7, 1986 as the last Showbiz Pizza Place to open in Florida, and featured the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) stage.
@@ -45,7 +46,7 @@ In April 2006, the store would add a roof to the front entrance. This would be t
 
 In December 2007, Dr. Rao sold the property to a hospitality group, who began demolition of the store in January 2008. Construction on the hotel that sits on the site began in April 2008 and concluded in 2009.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -57,7 +58,7 @@ In December 2007, Dr. Rao sold the property to a hospitality group, who began de
 |August 1990
 |-
 |https://youtu.be/OFxqkdeSCuA
-|Footage of animatronics performing Chuck E. LIVE! _If You're Happy and You Know It 2000_ in 2007.
+|Footage of animatronics performing Chuck E. LIVE! <i>If You're Happy and You Know It 2000</i> in 2007.
 |April 9th, 2007
 |-
 |https://youtu.be/NQSBqGwE_9k
@@ -77,13 +78,13 @@ In December 2007, Dr. Rao sold the property to a hospitality group, who began de
 |March 25th, 2007
 |-
 |https://youtu.be/_Z6VVcviU40
-|Footage of animatronics performing Chuck E. LIVE! _If You're Happy and You Know It 2000_ in 2006. This video has no audio.
+|Footage of animatronics performing Chuck E. LIVE! <i>If You're Happy and You Know It 2000</i> in 2006. This video has no audio.
 |December 17th, 2006
 |}
 
 
 
-##Animatronics ##
+<h2>Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial

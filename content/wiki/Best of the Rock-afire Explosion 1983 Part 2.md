@@ -12,9 +12,9 @@ gallery = []
 |date=March 1983
 |showbizreel=y}}
 
-**_Best of the Rock-afire Explosion 1983 Part 2**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March 1983.
-##Segment List##
-#**Segment 1**
+<b><i>Best of the Rock-afire Explosion 1983 Part 2</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March 1983.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Abbey Road Medley
 ###You Never Give Me Your Money
 ###Sun King
@@ -25,18 +25,18 @@ gallery = []
 ###Carry That Weight
 ###The End
 ###Her Majesty
-#**Segment 2**
+#<b>Segment 2</b>
 ##Child of the Rock
-#**Segment 3**
+#<b>Segment 3</b>
 ##Framed
-#**Segment 4**
+#<b>Segment 4</b>
 ##Goofy Gas
-#**Segment 5**
+#<b>Segment 5</b>
 ##Louisiana
-#**Segment 6**
+#<b>Segment 6</b>
 ##Secret Agent Man
-#**Segment 7**
+#<b>Segment 7</b>
 ##Tomorrow
 
-##Trivia##
+<h2>Trivia</h2>
 * Beginning with this show, all future releases of 'Louisiana' remove the intro skit.

@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-12-28T20:57:19Z
 
 [Article]
+pageThumbnailFile = "Racine2.0.jpg|Exterior after 2.0. PC: The Journal Times"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++
-{{Generic|image=Racine2.0.jpg|desc=Exterior after 2.0. PC: The Journal Times}}
-**_5612 Durand Ave**_ is a _Chuck E. Cheese’s_ that opened on January 2nd, 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). They received the 2.0 remodel in 2019. It's located in a freestanding building in the Regency Mall.
 
-##History##
+<b><i>5612 Durand Ave</b></i> is a <i>Chuck E. Cheese’s</i> that opened on January 2nd, 2001 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). They received the 2.0 remodel in 2019. It's located in a freestanding building in the Regency Mall.
+
+<h2>History</h2>
 Racine opened on January 2nd, 2001 in a freestanding building in the Regency Mall with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) with the 2000s update of the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}). This was one of 3 Alphas installed in Wisconsin. In 2019 they received the 2.0 remodel removing the Studio C Alpha for a 2019 Model Dance Floor. Its grand opening was on December 10th, 2019. As of November 2023, they remain like this.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -32,7 +33,7 @@ Racine opened on January 2nd, 2001 in a freestanding building in the Regency Mal
 |2019 Model. One of 2 Wisconsin locations to get the 2019 2.0 Remodel.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -59,8 +60,8 @@ Racine opened on January 2nd, 2001 in a freestanding building in the Regency Mal
 
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
 
-##References##
+<h2>References</h2>
 <references />

@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-08-22T15:39:08Z
 
 [Article]
+pageThumbnailFile = "CEC Fayetteville October 26th.png|Exterior, October 26, 2023"
 contributors = ["GallaRBX","GallaRBX2","174.106.101.119","ThatBoiCydalan","Rexburg090","2600:4040:59FC:D100:CD3A:8B5C:9FAB:6B91","The 64th Gamer","ChuckECool","CEC Tinley","2601:584:4100:EB10:8DD1:E599:528F:89F3","Ceclife13","Saan1ty","2603:6080:7C06:6500:6DE8:BCB7:B886:2C49","Cheeseclassic","2600:1012:B1AF:7538:30D5:B962:3FA:B29","CoolerDude","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|image=CEC Fayetteville October 26th.png|desc=Exterior, October 26, 2023}}
 
-**_511 North McPherson Church Rd, Store #209/3212**_ is a _Chuck E. Cheese's_ that opened in November 1998 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
+
+<b><i>511 North McPherson Church Rd, Store #209/3212</b></i> is a <i>Chuck E. Cheese's</i> that opened in November 1998 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
 
 It opened as a Showbiz in August 1983 and got Concept Unification in 1991. It got turned back into a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) sometime after and got rebranded as 'Billy Bob's'. It closed in 1995 and reopened in November 1998 with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
-##Stages##
+<h2>Stages</h2>
 This location opened as a ShowBiz Pizza Place with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). The location received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991. 
 
-This location closed as a Chuck E. Cheese's Pizza on an unknown date. After this, the location was acquired by an FEC named _Billy Bob's_. The 3-Stage at the location underwent reverse Concept Unification and was reverted to a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Billy Bob's closed in 1995/1996.
+This location closed as a Chuck E. Cheese's Pizza on an unknown date. After this, the location was acquired by an FEC named <i>Billy Bob's</i>. The 3-Stage at the location underwent reverse Concept Unification and was reverted to a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Billy Bob's closed in 1995/1996.
 
 This location re-opened as a Chuck E. Cheese's in 1998. The show was completely replaced by a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}), which was the first Studio C of any kind in the Carolinas. The show was removed on September 18th, 2023, for the 2.0 Remodel.
 {| class='wikitable'
@@ -50,7 +51,7 @@ This location re-opened as a Chuck E. Cheese's in 1998. The show was completely 
 |Still In Use
 |2021 Model.
 |}
-##History##
+<h2>History</h2>
 This location opened as a Showbiz Pizza Place in August 1983 and got Concept Unification in 1991. The [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) show got turned back into a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) sometime after. This location closed in 1995. While it was closed the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) got removed and replaced with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).  It reopens in November 1998 with the new [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) show. 
 
 Later on when this location got the Rockstar Chuck costume, they would use Avenger Chuck costume parts sometimes. 
@@ -61,9 +62,9 @@ This location closed during Covid-19 and reopened in October 2020. When reopenin
 
 On October 26th, the store would have it's grand reopening, with Pasqually making an appearance at the store.
 
-###Phases###
+<h2>=Phases</h2>=
 Fayetteville NC opened in November 1998 as a Phase 3 location. This location later got Phase 4 in 2011 with an expansion to the front of the store. This location got 2.0 in September and reopened in October.
-###Stage Changes ###
+<h2>=Stage Changes </h2>=
 1991: Concept Unification happens.
 
 it gets turned back into a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) sometime afterwards.
@@ -88,7 +89,7 @@ The C Building was also removed from the cityscape on September 16th.
 
 Chuck was removed September 18th, 2023, along with the rest of the stage.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 ! Description
@@ -183,7 +184,7 @@ known footage of the Fayetteville, NC show.
 |Dog Days of Summer. Some of the last footage before removal.
 |September 16, 2023
 |-
-|[https://www.youtube.com/watch?v=HOnKNFQA5qk https://www.youtube.com/watch?v=HOnKNFQA5q]
+|[https:<i>www.youtube.com/watch?v=HOnKNFQA5qk https:</i>www.youtube.com/watch?v=HOnKNFQA5q]
 |Let's Be Friends. Some of the last footage before removal.
 |September 16, 2023
 |-
@@ -199,7 +200,7 @@ known footage of the Fayetteville, NC show.
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 Fayetteville, NC started as a Showbiz Pizza Place that got Concept Unification in 1991. sometime after it got turned back into the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) before closing in 1995. When it reopened in November 1998 the [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) had been removed and replaced with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). The serials for the 3-Stage bots are still unknown, along with what happened to them between 1995 and 1998. The show has been removed as of September 18th 2023.
 {| class='wikitable'
 |+
@@ -294,6 +295,6 @@ Fayetteville, NC started as a Showbiz Pizza Place that got Concept Unification i
 |
 |}
 
-## Trivia ##
+<h2> Trivia </h2>
 
-* Before Franchised CECs were renumbered to four digit numbers in 2010, Fayetteville was **_Store #209**_ according to the old chuckecheese.com website from 2009. It was renumbered to **_Store #3212**_ when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Fargo, ND]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}}) location after it was bought out by Corporate.
+* Before Franchised CECs were renumbered to four digit numbers in 2010, Fayetteville was <b><i>Store #209</b></i> according to the old chuckecheese.com website from 2009. It was renumbered to <b><i>Store #3212</b></i> when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Fargo, ND]({{< ref "wiki/Fargo, ND (1202 Nodak Dr).md" >}}) location after it was bought out by Corporate.

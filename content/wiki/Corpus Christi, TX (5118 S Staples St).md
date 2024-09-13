@@ -9,24 +9,24 @@ contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs4
 gallery = ["Corpus Christi 2.0 Exterior (2022-12-03).jpg|thumb|A photo of the store's 2.0 Exterior on December 3rd, 2022 (PC: Myron Nielson)"]
 +++
 
-**_5118 S Staples St, Store #454**_ is a _Pizza Time Theatre/Chuck E. Cheese_ that opened in April 1983 (day unknown) as a franchised _Pizza Time Theatre_ with a Balcony Stage Show. It is located in an unnamed shopping center. It is also known as the childhood location of Matt the Franchize since he grew up with this location from its beginnings.
-##History##
+<b><i>5118 S Staples St, Store #454</b></i> is a <i>Pizza Time Theatre/Chuck E. Cheese</i> that opened in April 1983 (day unknown) as a franchised <i>Pizza Time Theatre</i> with a Balcony Stage Show. It is located in an unnamed shopping center. It is also known as the childhood location of Matt the Franchize since he grew up with this location from its beginnings.
+<h2>History</h2>
 Corpus Christi opened its doors in April 1983 with a Balcony Stage. It was originally a franchised-owned Pizza Time Theatre location, being one of the few that survived PTT's bankruptcy and was bought on October 22, 1984, along with many other locations by the corporate. Like all locations at some point, it remodeled twice in the 1990s to be up to standard.
 
 In October 2003, Corpus Christi was chosen as the first location to utilize purple walls and prototype art pieces. Along with this they've also received the at the time new Studio C concept. The location would be unchanged for some time until in 2012 when it got the full Phase 4 Remodel and most of the prototype artwork inside the store was removed, the store expanded its game area, and received new seating.
 
-### Hurricane Harvey and Onwards###
+<h2>= Hurricane Harvey and Onwards</h2>=
 On August 25, 2017, the Corpus Christi location was struck by Hurricane Harvey. The inflicted damage upon the store was mainly on the exterior, as the signage and windows facing the road caved either inwards or shattered. The damage was reported by local news stations on August 26, 2017, most featuring the location's sign on the pavement. The window area where the damage occurred was swiftly given a temporary wall so the location can return to regular store operations in the coming days while the wall was finally finished in 2018, also receiving new signage. 
 
 In October 2022, the location officially remodeled again to CEC's 2.0 remodel removing the Beta for the Dance Floor and Video Wall.
 
 Sometime between mid 2023 and early 2024, this location installed a Trampoline Zone in the back left area of the store.
 
-##Stages##
+<h2>Stages</h2>
 When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the Chuck E.'s House Facade (C-Stage). This store also received a unique porch area in front of the characters for live performances. This location would also manage to get one of the last 2-Stages installed, being installed in November 1996, three years after the newer [1-Stage]({{< ref "wiki/1-Stage.md" >}}) concept was introduced. 
 
 In 2003 the 2-Stage was replaced with the Studio C concept. This store received Studio C 2000, a newer take on the concept. This Studio C Show was later removed in October 2022 when they received the 2.0 remodel and removed their Studio C show for the Dance Floor and Video Wall. 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -86,10 +86,10 @@ In 2003 the 2-Stage was replaced with the Studio C concept. This store received 
 |}
 
 
-[https://www.showbizpizza.com/photos/ptt/tx_corpus/index.html 1980's-1996] [https://www.showbizpizza.com/photos/cec/tx_corpus/index.html 2002-2007]
+[https:<i>www.showbizpizza.com/photos/ptt/tx_corpus/index.html 1980's-1996] [https:</i>www.showbizpizza.com/photos/cec/tx_corpus/index.html 2002-2007]
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
-##References##
+<h2>References</h2>
 <references />

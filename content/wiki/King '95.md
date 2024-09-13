@@ -13,23 +13,23 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 | pttreel = y
 | labelname=KING '95.|labelname1=5.5 VER. CAB. CS-0045|labelname2=AS OF 7/95}}
 
-**_King '95**_ was the final cabaret showtape produced, as well as the only cabaret showtape to be produced by Disney.
+<b><i>King '95</b></i> was the final cabaret showtape produced, as well as the only cabaret showtape to be produced by Disney.
 
-##Segments:##
+<h2>Segments:</h2>
 It is currently unclear if the known segment list is the exact order from the showtape.
-# **Segment 1**
+# <b>Segment 1</b>
 ##Go Chuck E. Go
-# **Segment 2**
+# <b>Segment 2</b>
 ##Party Place
-# **Segment 3**
+# <b>Segment 3</b>
 ##Chuck E. Shuffle
-# **Segment 4**
+# <b>Segment 4</b>
 ##Baseball Diamond Dreams
-# **Segment 5**
+# <b>Segment 5</b>
 ##I Won't Give Up
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-##Trivia:##
+<h2>Trivia:</h2>
 * All of the songs in this show are from previous CEC showtapes with some lyrics changed to better fit The King. 'Party Place' and 'Baseball Diamond Dreams' are from [Spring Break]({{< ref "wiki/Spring Break.md" >}}), 'Chuck E. Shuffle' was originally a Chuck E. Shuffle  (live show), 'Go Chuck E. Go' is from [January 1995]({{< ref "wiki/January 1995.md" >}}) and 'I Won't Give Up' is from [Don't Stop Thinking About Tomorrow]({{< ref "wiki/Don't Stop Thinking About Tomorrow.md" >}}).
 * This showtape is one of the last to be released as a reel-to-reel tape. A majority of locations had already converted to SVHS format for Cyberamic shows.
 * As this is the last cabaret showtape, it is likely that stores were instructed to play this tape until further notice. As a result, this show would continue for several months up until all Cabaret acts were removed from locations.

@@ -8,14 +8,14 @@ date = 2023-01-24T12:23:34Z
 contributors = ["RockAfire Alex","Rexburg090","ChuckEPediaIsTheBest!"]
 gallery = []
 +++
-**_1011 Scranton Carbondale**_ was a Chuck E. Cheese's Pizza Time Theatre in Dickson City / Scranton, PA that opened in August 1983 and closed in 1984.
+<b><i>1011 Scranton Carbondale</b></i> was a Chuck E. Cheese's Pizza Time Theatre in Dickson City / Scranton, PA that opened in August 1983 and closed in 1984.
 
 It should not be confused with [Dickson City, PA (1003 Commerce Blvd)]({{< ref "wiki/Dickson City, PA (1003 Commerce Blvd).md" >}}), which is the current Chuck E. Cheese's location.
 
-## History ##
+<h2> History </h2>
 This location opened as a Pizza Time Theater in August 1983 and then closed in 1984. The location was later converted into a Zach Periwinkles. After Zach Periwinkles closed as well as the next door Kmart the entire building was turned into DEFY a trampoline amusement center.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -34,7 +34,7 @@ This location opened as a Pizza Time Theater in August 1983 and then closed in 1
 |Animatronics shipped to to Gillian's Wonderland Pier in 1992 which it still remains to this day as Rocky & the Railroad Ramblers.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -74,7 +74,7 @@ This location opened as a Pizza Time Theater in August 1983 and then closed in 1
 |Retrofitted, Head currently currently at Gillian's Wonderland Pier. Rest of Animatronic unknown.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 No Videos Exist at the Moment
 
-## Photos ##
+<h2> Photos </h2>

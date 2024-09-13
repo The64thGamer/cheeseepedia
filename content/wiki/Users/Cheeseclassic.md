@@ -10,11 +10,11 @@ gallery = []
 +++
 Hello, i’m Cheeseclassic, also known as @studiocheesealpha at Instagram. Contributor of Cheese-E-Pedia since August 2023.
 
-## Locations Visited ##
+<h2> Locations Visited </h2>
 * [Mays Landing, NJ (4215 Black Horse Pike)]({{< ref "wiki/Mays Landing, NJ (4215 Black Horse Pike).md" >}})
 * [Whitehall, PA (1000 Lehigh Valley Mall)]({{< ref "wiki/Whitehall, PA (1000 Lehigh Valley Mall).md" >}})
 
-## Locations that I Want to Visit! ## 
+<h2> Locations that I Want to Visit! </h2> 
 * [Northridge, CA (8425 Reseda Blvd)]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}})
 * [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}})
 * [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}})

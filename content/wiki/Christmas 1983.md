@@ -12,9 +12,9 @@ gallery = []
 |date=November 1983
 |showbizreel=y}}
 
-**_Christmas 1983**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
-##Segment List##
-#**Segment 1**
+<b><i>Christmas 1983</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Disco Christmas
 ###Joy To The World
 ###Rudolph The Red Nose Reindeer
@@ -25,32 +25,32 @@ gallery = []
 ###Here Comes Santa Claus
 ###Jingle Bells
 ###Hallelujah
-#**Segment 2**
+#<b>Segment 2</b>
 ##When Will I Be Loved
 ##On The Road Again
-#**Segment 3**
+#<b>Segment 3</b>
 ##Rubber Biscuit
-#**Segment 4**
+#<b>Segment 4</b>
 ##12 Days Of Christmas (Rolfe and Earl Version)
-#**Segment 5**
+#<b>Segment 5</b>
 ##Spaceman
-#**Segment 6**
+#<b>Segment 6</b>
 ##Secret Agent Man
-#**Segment 7**
+#<b>Segment 7</b>
 ##Silent Night (Dook Version)
-#**Segment 8**
+#<b>Segment 8</b>
 ##Feliz Navidad (Rolfe and Earl Version)
-#**Segment 9**
+#<b>Segment 9</b>
 ##Happy Together
 ##Elvira
-#**Segment 10**
+#<b>Segment 10</b>
 ##Gloria
-#**Segment 11**
+#<b>Segment 11</b>
 ##Night Before Christmas (Rolfe and Earl Version)
-#**Segment 12**
+#<b>Segment 12</b>
 ##Fire
 ##My Girl
-#**Segment 13**
+#<b>Segment 13</b>
 ##In December
-#**Segment 14**
+#<b>Segment 14</b>
 ##Framed

@@ -12,27 +12,27 @@ gallery = []
 |date=July 1983
 |showbizreel=y}}
 
-The **_Uncle Klunk Showtape**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1983.
+The <b><i>Uncle Klunk Showtape</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1983.
 
-##Segment List##
-#**Segment 1**
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Klunk Skit - Dueling Contest
-#**Segment 2**
+#<b>Segment 2</b>
 ##Funeral For a Friend
 ##Love Lies Bleeding
-#**Segment 3**
+#<b>Segment 3</b>
 ##Klunk Skit - Pizza Expert
-#**Segment 4**
+#<b>Segment 4</b>
 ##Banana Hill Dedication Skit
 ##Banana Hill
-#**Segment 5**
+#<b>Segment 5</b>
 ##Klunk Skit - Dial an Argument
-#**Segment 6**
+#<b>Segment 6</b>
 ##My Woman My Woman My Wife Intro Skit
 ##My Woman My Woman My Wife
-#**Segment 7**
+#<b>Segment 7</b>
 ##Klunk Skit - Random Number
-#**Segment 8**
+#<b>Segment 8</b>
 ##Roast Beef Sandwich
 
-##Showtape Scans / Images##
+<h2>Showtape Scans / Images</h2>

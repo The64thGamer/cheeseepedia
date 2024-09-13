@@ -16,69 +16,69 @@ gallery = []
 |r1293 = y
 |cusvhs = y
 }}
-**_Summer 2002 Show**_ was a rerelease of [Summertime 2001]({{< ref "wiki/Summertime 2001.md" >}}). This show is the same as the previous release with the exception of Segment 2, which was edited to remove footage of the World Trade Center.
+<b><i>Summer 2002 Show</b></i> was a rerelease of [Summertime 2001]({{< ref "wiki/Summertime 2001.md" >}}). This show is the same as the previous release with the exception of Segment 2, which was edited to remove footage of the World Trade Center.
 
-## Existing Show List: ##
+<h2> Existing Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Summertime'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## 'For The Birds'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Cookie)
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Celebrate America'
 ## 'America'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Chuck E.'s Home Movies At The Beach
 ## CEC TV ID - 'Cows'
 ## Store Intro - 'Brick, NJ' (Steve)
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'Local Pizza Cabana'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## 'At The Zoo'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Abby)
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Don't Hurry To Worry'
 ## 'Row Your Boat'
 
-## Studio C Show List: ##
+<h2> Studio C Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Summertime'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## 'Let's Take Flight!'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - Brick, NJ' (Abby)
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Celebrate America'
 ## 'America'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## 'At The Zoo'
 ## Water Skiing
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Good Old Summertime'
 ## 'Local Pizza Cabana'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## 'For The Birds'
 ## Chuck E.'s Home Movies At The Beach
 ## CEC TV ID - 'Cows'
 ## CEC TV ID - 'Brick, NJ' (Steve)
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Don't Hurry To Worry'
 ## 'Row Your Boat'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## 'Ocean of Fish'
 ## 'Time To Fly'
 ## CEC TV ID - 'Rocketship'
 ## Store Intro - 'Brick, NJ' (Cookie)
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Chuck E. Says
 * [Chuck E. Shuffle]({{< ref "wiki/Chuck E Shuffle.md" >}})
 * Chuck E. March 01
@@ -91,5 +91,5 @@ gallery = []
 * [Patriotic Live 00]({{< ref "wiki/Patriotic Live 00.md" >}})
 * If You're Happy & You Know It
 
-**Birthday Break**: Same Birthday Break as seen in [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}). Set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
-##Showtape Scans / Images:##
+<b>Birthday Break</b>: Same Birthday Break as seen in [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}). Set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+<h2>Showtape Scans / Images:</h2>

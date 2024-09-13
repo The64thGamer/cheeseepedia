@@ -9,13 +9,13 @@ contributors = ["ArtieAntlers","The 64th Gamer","RPCEC","Rexburg090","RedaCEC","
 gallery = ["Littlerockbuilding.jpg|thumb|Little Rock Chuck E. Cheese in ~2013."]
 +++
 
-**_10901 N Rodney Parham Rd, Store #303**_ was a Chuck E. Cheese's located in Little Rock, Arkansas. 
+<b><i>10901 N Rodney Parham Rd, Store #303</b></i> was a Chuck E. Cheese's located in Little Rock, Arkansas. 
 
 This location opened as a ShowBiz Pizza Place on December 22nd, 1982, and closed as a Chuck E. Cheese's on April 19th, 2014. 
 
 This store began as a Showbiz Pizza Place, and even after its conversion into a Chuck E. Cheese's, it kept many of its Showbiz elements. It was one of few post-Showbiz stores to have kept the wood paneled walls bordering the 3-stage, all the way up to its closure, which gave it a distinct look.
 
-## Stages ##
+<h2> Stages </h2>
 This location had a 3-stage that began as a Rock-afire Explosion. In around 1991, the stage was converted into a Munch's Make-Believe Band, complete with all of the characters including extras such as Building, Moon, Wink, Pizzacam, and possibly even Munch Jr. Pizzacam was only present for a short time and was likely removed sometime in the early 2000s. After Concept Unification in the 90s, all of the characters had latex masks, and Chuck E. wore his signature black tuxedo and red derby hat. The latex masks were all replaced by plastic masks in 2003 or earlier. In the 2000s, Chuck E.'s tux and derby were replaced by a red cap with a black 'C', a blue shirt with a yellow 'C', and khaki shorts (Cool Chuck outfit). The stage had working curtains up until curtains were no longer programmed. The Munch's Make-Believe Band sign was not constantly present, nor was Jasper's hat.
 {| class='wikitable'
 |+
@@ -35,21 +35,21 @@ This location had a 3-stage that began as a Rock-afire Explosion. In around 1991
 |Underwent Concept Unification just like the others in the state.
 |}
 
-## History ##
+<h2> History </h2>
 
-### Showbiz ###
+<h2>= Showbiz </h2>=
 This store originally began as a Showbiz Pizza Place on December 22nd, 1982. They opened with the Rock-afire Explosion like every other Showbiz Pizza Stores, years down the road; they would receive things such as the Showbiz Pizza Campground upgrade and the 1986 SPT Remodel Program (1988 Remodel). 
 
-### Tux Chuck, Coach Chuck, and Cool Chuck Eras ###
+<h2>= Tux Chuck, Coach Chuck, and Cool Chuck Eras </h2>=
 They received Concept Unification in 1991. The interior and exterior of this store was what some might describe as having been 'Phase 3'. Over the years, It included numerous artworks from the 1991, 1993-1996, and 1998 art packages. Aside from games, pop art posters, and an Avenger Chuck menu topper, Avenger Chuck artwork was never implemented. The store featured both striped and plain red booth cushions, with striped booth cushions at all tables outside of the showroom. The 'Toddler Zone' area with kiddie rides contained SkyTubes. The store was acquired by Corporate alongside [North Little Rock]({{< ref "wiki/North Little Rock, AR (4120 Landers Rd).md" >}}) on January 30th, 1998. 
 
-### Closure ###
+<h2>= Closure </h2>=
 This store closed on April 19, 2014, in favor of a new store in [Little Rock at 2706 S Shackleford Rd, Little Rock, AR 72205]({{< ref "wiki/Little Rock, AR (2706 S Shackleford Rd).md" >}}), which is still open to this day. The relocated store has a Circle of Lights stage with no animatronic. It is unknown what happened to the animatronics at the previous location.
 
-### Present Day ###
+<h2>= Present Day </h2>=
 Very long after Little Rock's closure, both it and the Kmart next door were completely stripped. The Chuck E. Cheese's side remains unused and empty, but the Kmart side is now Premier Gastroenterology, a medical clinic.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
 * Chuck E.'s Duckies
 * Chuck E. Cheese's Sketch Book
@@ -86,7 +86,7 @@ Very long after Little Rock's closure, both it and the Kmart next door were comp
 * Pop It & Win
 * Fireball
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -117,7 +117,7 @@ Very long after Little Rock's closure, both it and the Kmart next door were comp
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 This store has closed. The whereabouts of the animatronics are uncertain. It is unknown whether they were destroyed, used for parts, sent to other stores, or saved by a third party.
 {| class='wikitable'
 |+
@@ -174,5 +174,5 @@ This store has closed. The whereabouts of the animatronics are uncertain. It is 
 |Unknown, Likely Destroyed Or Used for Parts
 |}
 
-## Walkarounds ##
+<h2> Walkarounds </h2>
 Coming Soon...

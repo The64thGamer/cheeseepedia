@@ -5,22 +5,23 @@ tags = ["Documents"]
 date = 2023-05-04T12:12:08Z
 
 [Article]
+pageThumbnailFile = "Bdayhostembedthumbnail.png|Document Cover"
 contributors = ["The 64th Gamer","CEC Tinley"]
 gallery = []
 +++
-{{Download|file=ptt_bdayhostworkbook.pdf|title=Birthday Host Workbook}}{{Generic|image=Bdayhostembedthumbnail.png|desc=Document Cover}}
 
-The 1981 **_Birthday Host/Hostess Performance Workbook**_ is a small employee handbook used for new _Pizza Time Theatre_ hires to study for their Birthday Host review quiz.
 
-## Contents ##
+The 1981 <b><i>Birthday Host/Hostess Performance Workbook</b></i> is a small employee handbook used for new <i>Pizza Time Theatre</i> hires to study for their Birthday Host review quiz.
+
+<h2> Contents </h2>
 The workbook is a short four-page document covering instructions and a list of questions to study and answer.
 
-### Workbook Instructions ###
+<h2>= Workbook Instructions </h2>=
 The first section notes the procedure of the Birthday Host review quiz, stating a score of 80 or above is required to pass for full employment, though retakes of the quiz can be made at the manager's discretion. The manager is also stated to have discretion over discontinuing employment if the quiz is failed multiple times. 
 
 The section ends with advice on studying, such as reading the PTT Birthday Host/Hostess Performance Manual (1981) (Birthday Host/Hostess Performance Manual), reading the workbook itself, and asking the manager or training supervisor for help.
 
-### Study Questions ###
+<h2>= Study Questions </h2>=
 The rest of the book details multiple quiz questions, with blank spots for filling out answers. These are:
 
 # What is included in the Chuck E. Cheese Birthday Package?

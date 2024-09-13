@@ -8,14 +8,14 @@ date = 2024-04-27T23:15:22Z
 contributors = ["Rexburg090","RedaCEC","Cy's Junk at School","Harchambeault2026"]
 gallery = []
 +++
-**_82 Boston Post Rd, Store #468**_ is a _Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_/_Chuck E. Cheese_ in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. 
+<b><i>82 Boston Post Rd, Store #468</b></i> is a <i>Chuck E. Cheese's Pizza</i>/<i>Chuck E. Cheese's</i>/<i>Chuck E. Cheese</i> in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. 
 
 This location should not be confused with [Orange, CT (260 Bull Hill Lane)]({{< ref "wiki/Orange, CT (260 Bull Hill Lane).md" >}}) which was a Pizza Time Theatre location that opened in May 1983 and closed in 1985 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), this was one of the last Pizza Time Theatre locations in Connecticut alongside [New Britain, CT (222 E Main St)]({{< ref "wiki/New Britain, CT (222 E Main St).md" >}}).
 
-## History ##
+<h2> History </h2>
 Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened with the 1991 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the 2-Stage itself. Unlike many of them at the time, this location had Jasper's banjo, much like Burlington & Worcester around 1-2 months later. This was the first location in New England to receive the 2-Stage. Orange would receive their first remodel in the Mid 1990's which involved removing the checkers around the store, Blue and White Awnings, and Neon Signage. They also replaced the Banjo with the Flying Cheese Guitar wound this time as well. Orange would then receive the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in August 2006 which involved the removal of the 2-Stage, Balcony Seating, Showroom Walls, & 1990's Decor. This involves the installation of their Studio C Beta (One of two in New England that replaced an existing stage, the other being [Manchester, NH]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}}) which was a former Pizza Time Theatre, was also a 16m as well) with the Cool Chuck outfit. That involved swapping places with one of the gamerooms (Which involved moving the Showroom to the front of the store and moving the Gameroom to where the old Showroom was). In around the Late 2000's-Early 2010's, they removed the Dinner Lights, Sign above the Kid Check, & add bright florescent lighting. Chuck's Cool Chuck outfit was also replaced with the Avenger outfit around that time. On May 19, 2013, Orange became the last Studio C stage in Connecticut after the closure of [Meriden, CT (533 S Broad St)]({{< ref "wiki/Meriden, CT (533 S Broad St).md" >}}) due to leasing issues. Later in the year, Chuck's cap was removed. In around 2017-2019, Chuck's Avenger outfit was replaced with Rockstar. In 2020, the Skytubes were removed due to COVID-19. In October 2021, Orange started their 2.0 Remodel which involved a major expansion (Which involved relocating the showroom to the new area of the store. Also, according to a cast member, there were talks about expanding the store dating all the way back to 2015-2016). On March 23, 2022, the Studio C Beta was removed for a Dance Floor & Video Wall. Orange had their Grand Reopening on May 8th, 2022, with the remodel being complete 3 days later. As of June 2023, Orange still has the 2.0 Remodel and the 2021 Model Dance Floor + Video Wall.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -38,7 +38,7 @@ Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened 
 |2021 Model. Installed when the store expanded. 
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronics
 !Manufacturing Date
@@ -88,5 +88,5 @@ Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened 
 
 
 
-##Videos##
+<h2>Videos</h2>
 (WIP)

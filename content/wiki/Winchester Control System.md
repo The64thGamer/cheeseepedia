@@ -8,21 +8,21 @@ date = 2023-08-14T17:21:19Z
 contributors = ["The 64th Gamer","CEC Tinley","WalterB"]
 gallery = []
 +++
-The **_Pizza Time Theatre Winchester Control System**_ was the system used to control the animatronics exclusively at the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) from May 1977 to sometime between 1980 and 1981.
+The <b><i>Pizza Time Theatre Winchester Control System</b></i> was the system used to control the animatronics exclusively at the [San Jose, CA (370 S Winchester Blvd)]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) from May 1977 to sometime between 1980 and 1981.
 
-The system was developed by the Cyan Engineering subdivision of Atari (also known as the _Grass Valley Team_), headed by Larry Emmons and Gary Waters<ref>https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre</ref>
+The system was developed by the Cyan Engineering subdivision of Atari (also known as the <i>Grass Valley Team</i>), headed by Larry Emmons and Gary Waters<ref>https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre</ref>
 
-## Hardware ##
+<h2> Hardware </h2>
 
-### TEAC 4-Track Tape Deck ###
+<h2>= TEAC 4-Track Tape Deck </h2>=
 An unnamed TEAC 4-Track tape deck would be used to play back audio and programming signals to the hardware. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. These tapes would be generated on the separate (but still possibly interlinked) [Winchester Hardware Setup]({{< ref "wiki/Winchester Hardware Setup.md" >}}).
 
-Due to the later [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}}) using a TEAC A-2340 Tape Deck, which seemingly recorded only in the _2-track stereo-mode,_ it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
+Due to the later [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}}) using a TEAC A-2340 Tape Deck, which seemingly recorded only in the <i>2-track stereo-mode,</i> it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
-### Unnamed Decoding Box ###
-Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central _minicomputer_ controlling the system<ref>https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre</ref>, meaning the decoding device was only there for decoding and streaming.
+<h2>= Unnamed Decoding Box </h2>=
+Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central <i>minicomputer</i> controlling the system<ref>https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre</ref>, meaning the decoding device was only there for decoding and streaming.
 
-### 6502-Based Controllers ###
+<h2>= 6502-Based Controllers </h2>=
 The main system was a set of identical boards with a CPU based off the MOS Technology 6502 Microprocessor. These boards would intercept the programming and timecode data, and process it for their individual outputs.
 
 Each character would receive one of these boards, that being:
@@ -34,18 +34,18 @@ Each character would receive one of these boards, that being:
 
 Additional boards were used for the rest of the controllable lights, props, and side-characters, though it is unclear which were grouped together, or if each had their own board:
 
-* _Lighting_
+* <i>Lighting</i>
 * [Winchester Warblettes]({{< ref "wiki/Winchester Warblettes (Animatronic).md" >}})
 * [Winchester Pizza Time Orchestra]({{< ref "wiki/Winchester Pizza Time Orchestra (Animatronic).md" >}})
 * [Winchester Flag Wavers]({{< ref "wiki/Winchester Flag Wavers (Animatronic).md" >}})
 
-#### Clapper Board ####
-The Winchester Clapper Board (Animatronic) (Winchester Clapper Board) would be added some time shortly after opening. This addition would likely see the installation of another _6502-Based Controller_ to the system, though the possibility of using unused slots
+<h2>== Clapper Board </h2>==
+The Winchester Clapper Board (Animatronic) (Winchester Clapper Board) would be added some time shortly after opening. This addition would likely see the installation of another <i>6502-Based Controller</i> to the system, though the possibility of using unused slots
 
-#### Guest Stars ####
+<h2>== Guest Stars </h2>==
 Starting on August 12, 1977, [Winchester Helen Henny]({{< ref "wiki/Winchester Helen Henny (Animatronic).md" >}}) would be added to the lineup. This also has the possibility of another card being added, or more empty slots being taken up. The card would see additional characters hooked up to it over the years, being [Winchester Foxy Colleen]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}) and [Winchester Madam Oink. ￼]({{< ref "wiki/Winchester Madam Oink (Animatronic).md" >}})
 
-#### V2 Bots ####
+<h2>== V2 Bots </h2>==
 At an unknown point between mid-1977 and 1978, Chuck E. Cheese and Crusty the Cat would be replaced with updated animatronics featuring more movements. It is unclear if any hardware was changed due to this.
 
-## References ##
+<h2> References </h2>

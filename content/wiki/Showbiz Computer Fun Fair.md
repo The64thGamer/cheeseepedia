@@ -5,14 +5,15 @@ tags = ["Arcade Games"]
 date = 2024-06-02T20:23:08Z
 
 [Article]
+pageThumbnailFile = "Showbiz computer fun fair.jpg|The ShowBiz Computer Fun Fair Cabinet"
 contributors = ["ChuckE1352","The 64th Gamer"]
 gallery = [":Showbiz computer.jpg"]
 +++
-{{Generic|image=Showbiz computer fun fair.jpg|desc=The ShowBiz Computer Fun Fair Cabinet}}
 
-The **_ShowBiz Computer Fun Fair**_ was an arcade machine present in [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) restaurants sometime around 1982-1983.<ref>https://uspto.report/TM/73414137</ref><ref>https://www.newspapers.com/article/the-record/81680985/</ref>
 
-## Description ##
+The <b><i>ShowBiz Computer Fun Fair</b></i> was an arcade machine present in [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) restaurants sometime around 1982-1983.<ref>https:<i>uspto.report/TM/73414137</ref><ref>https:</i>www.newspapers.com/article/the-record/81680985/</ref>
+
+<h2> Description </h2>
 The Computer Fun Fair was a coin-operated timed experience where the user could play 5 different games until their given play-session ran out of time.<ref></ref> The selection was titled 'Billy Bob's Crazy Computer Games', with each having a labeled skill level.
 
 # 6 Double Games (All)
@@ -23,18 +24,18 @@ The Computer Fun Fair was a coin-operated timed experience where the user could 
 
 Users could also check the time they had remaining from this screen.
 
-#### The Talking Machine ####
+<h2>== The Talking Machine </h2>==
 This game would allow users to type in any word they wanted for the game to speak back to them. A filter list was created to prevent users from putting swear words into the prompt, reportedly either notifying 'I can't say that' or 'Billy Bob can't say that'.<ref name=':0' /><ref name=':1' />
 
-### Technical ###
-The Fun Fair was a modified Apple II computer fit inside a large cabinet with a custom keyboard. The game software was loaded on two 5-1/4' floppy drives.<ref name=':1'>https://www.facebook.com/photo.php?fbid=10156031959290554&id=242019870553&set=a.307884760553&mibextid=xfxF2i&rdid=J4jHaQlvhYAnSQfe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F8kbdKNDoaTU9RjzF%2F%3Fmibextid%3DxfxF2i</ref> Its voice capability was likely through the [https://en.wikipedia.org/wiki/Echo_II_(expansion_card) Echo II Voice Card].<ref name=':0' />
+<h2>= Technical </h2>=
+The Fun Fair was a modified Apple II computer fit inside a large cabinet with a custom keyboard. The game software was loaded on two 5-1/4' floppy drives.<ref name=':1'>https:<i>www.facebook.com/photo.php?fbid=10156031959290554&id=242019870553&set=a.307884760553&mibextid=xfxF2i&rdid=J4jHaQlvhYAnSQfe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F8kbdKNDoaTU9RjzF%2F%3Fmibextid%3DxfxF2i</ref> Its voice capability was likely through the [https:</i>en.wikipedia.org/wiki/Echo_II_(expansion_card) Echo II Voice Card].<ref name=':0' />
 
 It is noted that the filter list for the Talking Machine game was updated multiple times as users found ways to get around the filter, meaning the software has multiple versions out there.<ref name=':0' />
 
-## History ##
+<h2> History </h2>
 The game was produced by [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}}), with some unknown involvement in the design process by [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}).<ref name=':0' /> The game would also be featured in a lost commercial from the era.<ref name=':1' />
 
 
 
 
-## References ##
+<h2> References </h2>

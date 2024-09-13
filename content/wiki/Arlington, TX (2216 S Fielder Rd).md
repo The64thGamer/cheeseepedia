@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-06-01T06:20:52Z
 
 [Article]
+pageThumbnailFile = "desc=Arlington, TX exterior after closure in March 2024|image=Arlingtonpostclosure.png"
 contributors = ["SmileAmericaCEC","Rexburg090","Pench0782","BurgersNuggs445","ChuckECool","47.223.109.42","The 64th Gamer","RedaCEC","Ceclife13","47.223.110.141","JamesLemony","2600:4040:5A0C:5900:6C05:1E64:2661:48A5","Saan1ty","Midwestretail","CEC Tinley","Steven 'CEC' Master","CorrectorMan","72.76.251.24","ThatBoiCydalan","Stripes","199.197.89.221","Cheeseclassic","CoolerDude","CyCGM","Cy's Junk at School","Tux Chuck","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = [":Screenshot 2024-03-17 10.12.13 PM.png"]
 +++
-{{Generic|desc=Arlington, TX exterior after closure in March 2024|image=Arlingtonpostclosure.png}}
-**_Arlington, TX (2216 S Fielder Rd), Store #416,** was_ a _Pizza Time Theatre_ that opened in October 1980 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed on March 17, 2024, after nearly 44 years in operation.<ref></ref>
+
+<b><i>Arlington, TX (2216 S Fielder Rd), Store #416,</b> was</i> a <i>Pizza Time Theatre</i> that opened in October 1980 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed on March 17, 2024, after nearly 44 years in operation.<ref></ref>
 
 The location was the first Pizza Time Theatre to be opened in the state of Texas and would regularly be visited by CEC for various media and training purposes.
 
-This location was commonly confused with the [3200 Justiss Dr.]({{< ref "wiki/Arlington, TX (3200 Justiss Dr).md" >}}) location, which opened as a _Showbiz Pizza Place._
-##Stages ##
-Arlington Fielder would be the first location to open with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), with Madam Oink as the guest character_._ When the stage was installed, there was a hole in the back of the stage that led to the play area. It was unknown if the right-side entrance was there at the time or if there was another entrance in another room. This location's final guest character was in 1984 when Helen Henny would become a permanent addition to the Pizza Time Players.  
+This location was commonly confused with the [3200 Justiss Dr.]({{< ref "wiki/Arlington, TX (3200 Justiss Dr).md" >}}) location, which opened as a <i>Showbiz Pizza Place.</i>
+<h2>Stages </h2>
+Arlington Fielder would be the first location to open with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), with Madam Oink as the guest character<i>.</i> When the stage was installed, there was a hole in the back of the stage that led to the play area. It was unknown if the right-side entrance was there at the time or if there was another entrance in another room. This location's final guest character was in 1984 when Helen Henny would become a permanent addition to the Pizza Time Players.  
 
 On February 1, 1987, Arlington Fielder would also become the first location to utilize [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}). It was worth noting that the stage and showroom area was not against a perimeter wall yet as the play area was still behind the stage.
 Around 1988 they got the [1988 Remodel]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) and dropped the Pizza Time Theatre name for Showbiz Pizza along with [Irving]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}), and [Chino]({{< ref "wiki/Chino, CA (5250 Philadelphia St).md" >}}).
@@ -27,7 +28,7 @@ In 1997, Chuck E.'s House was replaced by a [2-Stage]({{< ref "wiki/2-Stage.md" 
 In 2019, the location received parts from the [Irving, TX]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) [1-Stage]({{< ref "wiki/1-Stage.md" >}}) after that location received its 2.0 remodel. 
 
 Around November 5th of 2022, Arlington's 2-Stage was observed to be mostly empty. On November 6, 2022, the [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor) were completely installed.
-###Cabaret/Lounge Acts###
+<h2>=Cabaret/Lounge Acts</h2>=
 Arlington Fielder opened with [Dolli Dimples]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}}) in the cabaret and had prototype Beagles animatronics in the lounge. The Beagles were replaced with The King at some point. It was unknown when each act would be removed or replaced.
 {| class='wikitable'
 !Stage
@@ -66,8 +67,8 @@ Arlington Fielder opened with [Dolli Dimples]({{< ref "wiki/Dolli Dimples (Cabar
 |Used in the Chuck E. Cheese's University, sent to the [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location for final installation
 |}
 
-##History##
-This location _was_ the 16th Pizza Time Theatre location to ever open, and the very first in the state of Texas. On opening day, this store had a large ceremony; Nolan Bushnell made a surprise appearance, according to a local journalist who interviewed him at the event. 
+<h2>History</h2>
+This location <i>was</i> the 16th Pizza Time Theatre location to ever open, and the very first in the state of Texas. On opening day, this store had a large ceremony; Nolan Bushnell made a surprise appearance, according to a local journalist who interviewed him at the event. 
 
 The store would remodel for the first time around 1986 as part of unifying Pizza Time Theatre and Showbiz Pizza Place; shortly after, in 1991, the location would receive one of the first new art packages that would eventually inspire a future to remodel in the 1990s which leaned in heavily with this parody theming. The next remodel occurred sometime in 2003 during the initial testing phases of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' Major Remodel Initiative).
 
@@ -79,7 +80,7 @@ In October 2022, the Arlington store began its 2.0 Remodel, this remodel in part
 
 Fielder would permanently close on March 17, 2024, after nearly 44 years in operation due to problems with increased lease after the center the store was in went under new ownership.  
 
-### Play Area ###
+<h2>= Play Area </h2>=
 Behind the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) sat a play area upon opening. this play area eventually would evolve into a Chuck E. Cheese Play-N-Place (Chuck E's Play-N-Place) featuring a mini rollercoaster, Dolli's Descent, and various other things. Children were able to access the play area through a hole on the back of the stage. 
 
 With the installation of Chuck E.'s House, elements would be removed from the play area and an entrance would open up on the right side of the stage. 
@@ -88,17 +89,17 @@ In the early to mid 1990's they would open up the other side of the play area ma
 
 In 1997 when they installed the 2-Stage they would remove the play area and push back the stage into the former space along with creating more dining space.
 
-###Failed Concepts###
+<h2>=Failed Concepts</h2>=
 This store was also the first to test the live Chuck E. Cheese performance concept; using a somewhat articulated Chuck E. Cheese head specially made for the performance where its mouth would be articulated<ref name=':0'>https://showbizpizza.com/info/documents/spt/spt_87entertainment.pdf</ref>.
 
 The location would start to test 'Surprises' around 1987. Surprises were animatronics placed around the store that would have a sensor that would activate it, making it tell a joke, pun, or compliment.  At the same time, a showroom remodel was being considered that would completely overhaul the general effect it would give. The concept for this was called 'Chuck E.'s Town Square', where the showroom would be transformed into a miniature town square with buildings.<ref name=':0' /> It was unknown if the concept made it to Arlington or not due to how undocumented it was. 
 
-###Chuck E. Cheese University###
+<h2>=Chuck E. Cheese University</h2>=
 A little to known fact about this location was that this store houses a back room known as 'Chuck E. Cheese's University” where managers and technicians from around the country would be trained. For technicians, a full [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) would be placed back there to train them, while higher-ups watched through a one-way mirror. Later on, this room would house the [Awesome Adventure Machine stage]({{< ref "wiki/Awesome Adventure Machine.md" >}}) to be finalized and programmed before making its way to the [Dallas Montfort, TX]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location.<ref>https://www.youtube.com/watch?v=5mqJMsr_PLU</ref> As of now this room was still within the location, however, it was used for storage.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * Ghostbusters
 * Alley Roller Classic
@@ -139,7 +140,7 @@ A little to known fact about this location was that this store houses a back roo
 * Space Warp 66
 * Sonic Ball Blast
 
-### Coin Action ###
+<h2>= Coin Action </h2>=
 
 * SpongeBob Pineapple Arcade
 * Wonderland
@@ -148,7 +149,7 @@ A little to known fact about this location was that this store houses a back roo
 * Jam Session
 * The Simpsons Kooky Karnival
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Dog Pounder
 * Chuck E.'s Glider Rider
@@ -163,7 +164,7 @@ A little to known fact about this location was that this store houses a back roo
 * Trophy Truck
 * Spydero
 
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -185,7 +186,7 @@ A little to known fact about this location was that this store houses a back roo
 |Video Showcasing the store, games, and Rocker Stage with the Swing Helen with 90's Cosmetics.
 |1996
 |-
-|[https://www.youtube.com/watch?v=4F0fTdIM62Q&list=LL&index=28&t=312s https://www.youtube.com/watch?v=4F0fTdIM62Q&lwast=LL&index=28&t=312s]
+|[https:<i>www.youtube.com/watch?v=4F0fTdIM62Q&list=LL&index=28&t=312s https:</i>www.youtube.com/watch?v=4F0fTdIM62Q&lwast=LL&index=28&t=312s]
 |Chuck E. Shuffle and Birthday Star '99
 |2000
 |-
@@ -209,7 +210,7 @@ A little to known fact about this location was that this store houses a back roo
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing Date
@@ -332,5 +333,5 @@ A little to known fact about this location was that this store houses a back roo
 |Used in the Chuck E. Cheese University, sent to the [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location and subsequently destroyed
 |}
 
-##References##
+<h2>References</h2>
 <references />

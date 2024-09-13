@@ -9,17 +9,17 @@ contributors = ["CECMentor"]
 gallery = ["Antioch.png|thumb|Antioch's design."]
 +++
 
-**_Antioch**_ is one of the prop characters in the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
+<b><i>Antioch</b></i> is one of the prop characters in the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}), having made his debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
-## History ##
+<h2> History </h2>
 
-### Origins & Showbiz Pizza Place ###
+<h2>= Origins & Showbiz Pizza Place </h2>=
 Antioch was originally referred to as the Birthday Spider, and held a cake in-between his hands. Over time, he would become [Fatz Geronimo]({{< ref "wiki/Fatz Geronimo (Animatronic).md" >}})'s pet spider. He would pop down occasionally and speak to Fatz in a garbled language that only they could understand. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Antioch would be destroyed. Antioch was named after the first Showbiz Pizza Place location in [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}).
 
-### Present Day ###
+<h2>= Present Day </h2>=
 Original parts for Antioch would start to be reproduced by Creative Engineering's new employees in 2023. 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Types

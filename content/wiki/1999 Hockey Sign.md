@@ -8,10 +8,10 @@ date = 2022-12-28T17:47:45Z
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = ["Hockeysign.jpg|thumb|Hockey sign"]
 +++
-The **_Hockey sign**_ was released in stores in 1999 alongside numerous other Cool/Avenger Chuck E. Cheese posters and signage.
+The <b><i>Hockey sign</b></i> was released in stores in 1999 alongside numerous other Cool/Avenger Chuck E. Cheese posters and signage.
 
-## Appearance ##
+<h2> Appearance </h2>
 The sign features Cool/Avenger Chuck E. Cheese and Mr. Munch playing a game of hockey in a stadium. In the background is a large crowd and a few other hockey players.
 
-## Size/Dimensions ##
+<h2> Size/Dimensions </h2>
 Exact dimensions unknown. Poster is medium-sized.

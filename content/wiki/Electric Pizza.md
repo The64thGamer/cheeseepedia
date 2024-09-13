@@ -5,22 +5,23 @@ tags = ["Arcade Games"]
 date = 2023-04-30T18:26:47Z
 
 [Article]
+pageThumbnailFile = "desc=Electric Pizza Cabinet|image=Electric Pizza Closeup.jpg"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++
-{{Generic|desc=Electric Pizza Cabinet|image=Electric Pizza Closeup.jpg}}
 
-**_Electric Pizza**_ is an obscure _Pizza Time Theatre_ arcade game from the early days of the company.
+
+<b><i>Electric Pizza</b></i> is an obscure <i>Pizza Time Theatre</i> arcade game from the early days of the company.
 
 Only a few of the cabinets were ever produced, and allegedly the only one ever seen was possibly a hand-built prototype. The gameplay presumably consists of pressing the 3 colored buttons seen on the machine and hand cranking its wheel. These would most likely be done per instructions on-screen, or mashed as hard as possible. The objective of the game would be to create a pizza. There is no ticket dispenser on the machine, meaning it most likely scored the player on how well their pizza was made. A high score board is also likely to have been displayed.
 
-## eBay Listing ##
-The only proof of the existence of this machine was from an eBay Listing<ref>http://www.ebay.com/itm/Rare-Chuck-E-Cheese-Electric-Pizza-Arcade-Game-/190847574335?pt=LH_DefaultDomain_0&hash=item2c6f66e13f#ht_874wt_1141</ref> from 2013. The seller, _crazyforet_<ref>https://www.ebay.com/usr/crazyforet?_trksid=p2047675.l2559</ref>, put up a listing with a starting bid of $250, and $200 shipping. The sale ended on June 4, 2013 with no bids. It was relisted later on at a lower starting bid, ending with only a single bid on July 8, 2013, for $199<ref>https://www.ebay.com/itm/190864511131?ViewItem=&item=190864511131#cvip_desc</ref>. The cabinet was located in Napa, California, possibly meaning it came from a nearby _Pizza Time Theatre_ location.
+<h2> eBay Listing </h2>
+The only proof of the existence of this machine was from an eBay Listing<ref>http:<i>www.ebay.com/itm/Rare-Chuck-E-Cheese-Electric-Pizza-Arcade-Game-/190847574335?pt=LH_DefaultDomain_0&hash=item2c6f66e13f#ht_874wt_1141</ref> from 2013. The seller, <i>crazyforet</i><ref>https:</i>www.ebay.com/usr/crazyforet?_trksid=p2047675.l2559</ref>, put up a listing with a starting bid of $250, and $200 shipping. The sale ended on June 4, 2013 with no bids. It was relisted later on at a lower starting bid, ending with only a single bid on July 8, 2013, for $199<ref>https://www.ebay.com/itm/190864511131?ViewItem=&item=190864511131#cvip_desc</ref>. The cabinet was located in Napa, California, possibly meaning it came from a nearby <i>Pizza Time Theatre</i> location.
 
-#### Archive of the condition:<ref name=':0' /> ####
+<h2>== Archive of the condition:<ref name=':0' /> </h2>==
 <pre>“In good decent condition, Bottom edge has some deteration (particle board)Size: 45' tall x 19' wide x 18' wide”</pre>
 
-#### Archive of the description:<ref name=':0'>https://www.worthpoint.com/worthopedia/chuck-cheese-electric-pizza-arcade-459660834</ref> ####
+<h2>== Archive of the description:<ref name=':0'>https://www.worthpoint.com/worthopedia/chuck-cheese-electric-pizza-arcade-459660834</ref> </h2>==
 <pre>Attn: Chuck E. Cheese Collectors
 
 I have had this game in storage for many, many years.  
@@ -38,10 +39,10 @@ I am guessing $200.00 to cover expenses.
 If actual shipping cost is less, I will refund the difference. 
 I do not want to make money on shipping expense.</pre>
 
-## Parts / Cabinet ##
+<h2> Parts / Cabinet </h2>
 
 
-## Owners / Locations ##
+<h2> Owners / Locations </h2>
 {| class='wikitable'
 !Location / Owner
 !Address
@@ -53,4 +54,4 @@ I do not want to make money on shipping expense.</pre>
 |Working
 |Owner purchased machine on July 8, 2013 from eBay.
 |}
-## References ##
+<h2> References </h2>

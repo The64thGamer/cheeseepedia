@@ -22,62 +22,62 @@ Playdates: Jan 2 - April 10.
 Validation Code: 01091
 |credit1=Duncan Brannan - Voice of Chuck E. Cheese |credit2=Stephanie Nadolny - Voice of Helen Henny |credit3=Doug Teel - Voice of Mr. Munch |credit4=Reggie Smith - Voice of Jasper |credit5=Joel McCrary - Voice of Pasqually The Chef |credit6= Ron Schneider - Writer, Voice of Mr. Mouth <ref>https://youtu.be/JGPhPDRzQvY?t=2228</ref> |credit7= Jeff Palmer - Producer, Director}}
 
-**_January 1995**_ was a show that released in January of 1995 at Chuck E. Cheese's locations. 
+<b><i>January 1995</b></i> was a show that released in January of 1995 at Chuck E. Cheese's locations. 
 
-##Show List ##
-#**** **Segment 1**
+<h2>Show List </h2>
+#<b></b> <b>Segment 1</b>
 ##'Go Chuck E. Go'
 ##Game Plan
 ##Secret Handshake
 ##'Go Chuck E. Go'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ## The Pagemaster Trailer
 ##Did You Know?
 ##VJ Spot
 ##'Party Place'
 ## Bonkers
-#**** **Segment 2**
+#<b></b> <b>Segment 2</b>
 ##'Peter Pepperoni'
 ##Chuck E. Cheese Video Olympics
 ##'Go Chuck E. Go'
-#**** **Intermission 2**
+#<b></b> <b>Intermission 2</b>
 ##Rookie of The Year Trailer
 ##Doug - 'Killer Tofu'
 ##The Flintstones Trailer
-#**** **Segment 3**
+#<b></b> <b>Segment 3</b>
 ##'Meet The Band'
 ##Friends Out There
 ##The Chuck E. Cheese School of Pizza Eating Etiquette
 ##'Peter Pepperoni'
-#**** **Intermission 3**
+#<b></b> <b>Intermission 3</b>
 ##The Sandlot Trailer
 ##Disney's Aladdin Trailer
 ##America's Funniest Home Videos
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##Current Edition with 'Mouth'
 ##'It Takes A Team'
 ##Chuck E.'s Old Act
 ##Teamwork In The Kitchen
 ##'Go Chuck E. Go'
-#**** **Intermission 4**
+#<b></b> <b>Intermission 4</b>
 ##The Jungle Book Trailer
 ##The Flintstones - 'Bedrock Twist'
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##The Chuck E. Cheese Workout
-#**** **Intermission 5**
+#<b></b> <b>Intermission 5</b>
 ##Goof Troop - 'Gotta Be Gettin' Goofy'
 ##America's Funniest Home Videos
 ##Garfield
 
-## Production ##
+<h2> Production </h2>
 
-### Filming Locations ###
+<h2>= Filming Locations </h2>=
 
 * Interior shots of Chuck E. Cheese's were shot at the [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).md" >}}) location.
 
-##Trivia:##
+<h2>Trivia:</h2>
 *This show featured the first appearance of Mr. Mouth. 
-*_Did You Know_ and _Party Place_ were both reused from [September '94]({{< ref "wiki/September '94.md" >}}).
+*<i>Did You Know</i> and <i>Party Place</i> were both reused from [September '94]({{< ref "wiki/September '94.md" >}}).
 *This show reveals Pasqually's full name of Pasqually P. Pieplate.
 * One of the kids interviewed in Segment 2 is named Jeff Palmer. This is a reference to the producer and director of the show.
 * Part of the song 'Go Chuck E. Go' is played in four segments at the same time.

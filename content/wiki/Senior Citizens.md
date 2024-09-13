@@ -12,37 +12,37 @@ gallery = []
 |date=March 1984
 |showbizreel=y}}
 
-**_Senior Citizens**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March of 1984.
+<b><i>Senior Citizens</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in March of 1984.
 
-## Revision ##
-A tape called **_Senion Citizens (Revised)**_ released at some point that has unknown changes to the tape.<ref>http://www.showbizpizza.com/review/rae/1984_senior.html</ref>
+<h2> Revision </h2>
+A tape called <b><i>Senion Citizens (Revised)</b></i> released at some point that has unknown changes to the tape.<ref>http://www.showbizpizza.com/review/rae/1984_senior.html</ref>
 
-##Segment List##
-#**Segment 1**
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##World's Fair Intro Skit
 ##1984 World's Fair
 ##They All Asked For You (At The Audubon Zoo)
-#**Segment 2**
+#<b>Segment 2</b>
 ##Grandparents Skit
 ##Grandma's Feather Bed
-#**Segment 3**
+#<b>Segment 3</b>
 ##Retro Medley
-###_Your Mother Should Know_
-###_Cheek To Cheek_
-###_Puttin' On The Ritz_
+###<i>Your Mother Should Know</i>
+###<i>Cheek To Cheek</i>
+###<i>Puttin' On The Ritz</i>
 ##Young At Heart (New Style)
-#**Segment 4**
+#<b>Segment 4</b>
 ##Startin' Something (Old Style)
 ##Swingin (Future Style)
-#**Segment 5**
+#<b>Segment 5</b>
 ##Classical Disco Skit
 ##Ballroom Dancing
-#**Segment 6**
+#<b>Segment 6</b>
 ##Studder Too Much
 ##American Trilogy
-#**Segment 7**
+#<b>Segment 7</b>
 ##Radio Skit
-##_Boogie Woogie Bugle Boy_
-##_Five Guys Named Moe_
+##<i>Boogie Woogie Bugle Boy</i>
+##<i>Five Guys Named Moe</i>
 
-## References ##
+<h2> References </h2>

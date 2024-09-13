@@ -5,19 +5,20 @@ tags = ["Store List"]
 date = 2023-09-17T22:12:16Z
 
 [Article]
+pageThumbnailFile = "Ks20.png|The location's exterior in 2022"
 contributors = ["66.215.38.213","BurgersNuggs445","2600:4040:24D1:BB00:B5E4:E2DB:4365:D286","Cecfan2004","ThatBoiCydalan","Cheeseclassic","2601:244:4000:9630:3D61:2AF6:D0B9:120"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Ks20.png|desc=The location's exterior in 2022}}
-**_Kansas City, MO (9196 N Skyview Ave), Store #747**_ is a _Chuck E. Cheese's_ that opened on August 4, 2008, with a Studio C 2000, 16M. This store is a relocation of the [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}) location which opened on March 3rd, 1980, with the only [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) in a Showbiz location and closed in the Spring of 2007 with a 3-Stage.  
 
-##Stage##
+<b><i>Kansas City, MO (9196 N Skyview Ave), Store #747</b></i> is a <i>Chuck E. Cheese's</i> that opened on August 4, 2008, with a Studio C 2000, 16M. This store is a relocation of the [Kansas City, MO (2726 NE Vivion Rd)]({{< ref "wiki/Kansas City, MO (2726 NE Vivion Rd).md" >}}) location which opened on March 3rd, 1980, with the only [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}) in a Showbiz location and closed in the Spring of 2007 with a 3-Stage.  
+
+<h2>Stage</h2>
 The bot had the Cool Chuck Outfit at the time of the store's opening and then switched to Avenger between 2010-2011, keeping the Cool Chuck cap and khaki shorts. Nothing much happened to this location other than it opening and the outfit changes to the animatronic. In Spring 2013, the blue screen and the camera were both removed, but the Studio C Logo was left intact. In Summer 2013, Kansas City received a brand-new Rockstar Mascot Costume, alongside most other locations, replacing the Avenger Mascot which has been there since opening. They would remain like this until Fall 2013, When the bot's cap was removed. The location would remain the same until August 2017, when it would undergo the 2017 2.0 Remodel Program, removing the show for a 2017 Model [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}), which it remains as of today.
 
-##History##
+<h2>History</h2>
 TODO
 
-## Animatronic ##
+<h2> Animatronic </h2>
 {| class='wikitable'
 !Animatronics
 !Manufacturing Date

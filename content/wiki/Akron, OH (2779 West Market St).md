@@ -9,16 +9,16 @@ contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125
 gallery = ["Akron 2.0 Exterior.jpg|thumb|Akron's exterior as of October 2022"]
 +++
 
-**_2779 West Market St, Store #553**_ is a Chuck E. Cheese's location in Akron, Ohio that opened on October 25th, 1993, with a [1 Stage]({{< ref "wiki/1-Stage.md" >}}). Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or Akron, OH (2511 Romig Rd), which was a Showbiz Pizza Place.
+<b><i>2779 West Market St, Store #553</b></i> is a Chuck E. Cheese's location in Akron, Ohio that opened on October 25th, 1993, with a [1 Stage]({{< ref "wiki/1-Stage.md" >}}). Like North Olmsted and Mentor, it should not be confused with [Akron, OH (1984 Brittain Rd)]({{< ref "wiki/Akron, OH (1984 Brittain Rd).md" >}}), which was a Pizza Time Theatre or Akron, OH (2511 Romig Rd), which was a Showbiz Pizza Place.
 
-## History ##
-### Pre-CEC ###
+<h2> History </h2>
+<h2>= Pre-CEC </h2>=
 Akron's A&P would open its doors on January 23rd, 1963, and closed on December 23rd, 1972. Then in Spring 1973, it became Craft-N-Flower World, which would remain open until it's closure sometime in fall 1992. Construction of the building as CEC would start shortly after.
 
-### CEC ###
-Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza Time Theatre posters, **BatMunch** and **Close Encounters of the Bird Kind**, and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. The store's Grand Reopening took place on October 5th, 2022.
+<h2>= CEC </h2>=
+Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza Time Theatre posters, <b>BatMunch</b> and <b>Close Encounters of the Bird Kind</b>, and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. The store's Grand Reopening took place on October 5th, 2022.
 
-## Stage History ##
+<h2> Stage History </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -34,7 +34,7 @@ Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza 
 |In Use
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -69,7 +69,7 @@ Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

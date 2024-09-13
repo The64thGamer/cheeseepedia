@@ -18,51 +18,51 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 6 2016**_ released August 22nd, 2016 featuring four songs
+<b><i>Chuck E. Cheese's Show 6 2016</b></i> released August 22nd, 2016 featuring four songs
 
 This was created to play from August 22nd, 2016 - October 2nd, 2016. This show features four songs.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## CEC Promo - 'Happy Birthday, Jasper!'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Simple Plans - 'Singing In The Rain'
 ## CEC Promo - 'Chef Gregory Part 1'
 ## Caspar Babypants - 'My Flea Has Dogs' 
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Jasper - 'Nothing Like A Walk'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Shakira - 'Try Everything'
 ## CEC Promo - 'Chef Gregory Part 2'
 ##  David Guetta feat. Zara Larsson - 'That One's For You'
 ##  Space Pop - 'Start Something Big'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Cowboy's Life For Me'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Katy Perry - 'Rise'
 ## CEC Promo - 'Buffet'
 ##  Fun Facts With Chuck E. - 'Cardiff Giant'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## CEC Promo - 'Happy Birthday, Jasper!'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Calvin Harris feat. Rihanna - 'This is What You Came For'
 ## CEC Promo - Birthday Commercial(Magic Ticket)
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese - 'Let's Have A Party'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  The 1975 - 'The Sound'
 ##  Fraggle Rock - 'Party Saturday Night'
 ## CEC Promo - 'Fundraising'
 ##  Jokes From Pasqually - 'Biggest Fan'
 ##  Thomas Edison's Space Lab - 'The Pizza Song'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. Cheese - 'Rockin' Robot'
-#  **Intermission 6**
+#  <b>Intermission 6</b>
 ## Josh & The Jamtones - 'Everybody Dance'
 ## Of Monster & Men - 'Little Talks'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show 2016 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday 2016 (3stage, Cyberamic, Studio C,Weigl)
@@ -77,10 +77,10 @@ This was created to play from August 22nd, 2016 - October 2nd, 2016. This show f
 
 * Head Shoulders Knees Toes (Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Happy Birthday, Jasper reuses dialogue from segment 2 of January 2006 right after 'Driving My Life Away' ends when he says 'Aw, Thanks, Thanks a lot folks!'.
 * 'Nothing Like A Walk' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2015), 'Cowboy's Life For Me' is originally from [Show 3 2016]({{< ref "wiki/July 2014 Show.md" >}}), 'Let's Have a Party' is originally from Chuck E. Cheese's Show 1 2016 (Show 1 2016), and 'Rockin' Robot' is originally from [Summer 2014]({{< ref "wiki/July 2014 Show.md" >}}).

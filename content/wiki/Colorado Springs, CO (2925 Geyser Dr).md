@@ -8,11 +8,11 @@ date = 2023-07-13T03:47:49Z
 contributors = ["216.227.26.243"]
 gallery = []
 +++
-**2925 Geyser Dr** is a Chuck E. Cheese's that opened on May 21, 2007 with a 16-M Studio C Beta.
+<b>2925 Geyser Dr</b> is a Chuck E. Cheese's that opened on May 21, 2007 with a 16-M Studio C Beta.
 
-##History##
-##Stages##
-##Animatronics##
+<h2>History</h2>
+<h2>Stages</h2>
+<h2>Animatronics</h2>
 
-##Videos##
-##References##
+<h2>Videos</h2>
+<h2>References</h2>

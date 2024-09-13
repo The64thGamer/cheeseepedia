@@ -9,9 +9,9 @@ contributors = ["EagleScout610","The 64th Gamer","Rexburg090","CEC Tinley","Conc
 gallery = ["ParmaAfterRemodel.jpg|thumb|Parma's exterior as of May 2024"]
 +++
 
-**_Parma, OH (Store #101) (7601 W Ridgewood Rd)**_ opened on November 26th, 1999, in the plaza for The Shoppes at Parma and is still open to this day with the 2.0 remodel.
+<b><i>Parma, OH (Store #101) (7601 W Ridgewood Rd)</b></i> opened on November 26th, 1999, in the plaza for The Shoppes at Parma and is still open to this day with the 2.0 remodel.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -27,7 +27,7 @@ gallery = ["ParmaAfterRemodel.jpg|thumb|Parma's exterior as of May 2024"]
 |Still in Use.
 |}
 
-## History ##
+<h2> History </h2>
 In 1999, the Discovery Zone located in Parma OH closed as part of their bankruptcy and was one of the 13 locations reopened as a Chuck E. Cheese's, featuring a [Studio C Alpha.]({{< ref "wiki/Studio C Alpha.md" >}}) 
 
 The store would remain practically untouched, save for Chuck's Late-Night outfit being replaced in 2008, the relocation of the [Sky Tubes]({{< ref "wiki/Skytubes.md" >}}) from the front gameroom to the back gameroom in 2012, the disabling of the curtains in 2016 and the removal of the [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) and Blue Screen camera in 2016 and 2014, respectively, until 2016,
@@ -38,10 +38,10 @@ The interior of the store would keep its 1999 appearance until August 2017 when 
 
 Parma began the CEC 2018 2.0 Remodel Program (2.0 remodel) on May 12th 2024. The [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) was destroyed on the first night of the remodel. The balcony seating and showroom walls would be kept during the remodel. 
 
-## Fight ##
+<h2> Fight </h2>
 On March 9th, 2015, several patrons began attacking kitchen staff over a game malfunctioning. The police were called, and charges were filed.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -66,7 +66,7 @@ On March 9th, 2015, several patrons began attacking kitchen staff over a game ma
 |}
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -78,7 +78,7 @@ On March 9th, 2015, several patrons began attacking kitchen staff over a game ma
 |2012
 |-
 |https://www.youtube.com/watch?v=xoz1bYDZq3o
-|The Studio C Performing _Friendship Never Ends_ before the 2015 remodel
+|The Studio C Performing <i>Friendship Never Ends</i> before the 2015 remodel
 |2017
 |-
 |https://www.youtube.com/watch?v=gjrBUdMDo2A

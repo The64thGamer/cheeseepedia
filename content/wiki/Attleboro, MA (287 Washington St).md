@@ -5,11 +5,12 @@ tags = ["Store List"]
 date = 2024-05-12T00:34:59Z
 
 [Article]
+pageThumbnailFile = "Attleboro Exterior Street View Before 2.0 (PC; Google Maps).png|Street View of the Exterior before 2.0 (August 2019) (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:6A21:54B1:8912:1DC5","2600:4040:59FF:B100:9C6:388E:A183:C3C5","2601:191:8580:9F90:C584:A34:12A5:5D31","Anastasia.laguardia","RPCEC","The 64th Gamer","2600:4040:59FC:D100:ECC2:5B6C:8C2F:DE4E","216.125.34.66","Blowseborg062","CorrectorMan","Cheeseclassic","2600:4040:5A0E:D900:EDFB:E7F1:4537:4996","CEC Tinley","Jerry CEC","Harchambeault2026"]
 gallery = []
 +++
-{{Generic|image=Attleboro Exterior Street View Before 2.0 (PC; Google Maps).png|desc=Street View of the Exterior before 2.0 (August 2019) (PC: Google Maps)}}**_287 Washington St, Store #464**_ is a _Chuck E. Cheese's Pizza_ that opened on October 4th, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and is still open today with the 2.0 remodel.
-##History##
+<b><i>287 Washington St, Store #464</b></i> is a <i>Chuck E. Cheese's Pizza</i> that opened on October 4th, 1993, with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and is still open today with the 2.0 remodel.
+<h2>History</h2>
 Attleboro opened October 4th, 1993, in Marketplace Square (formerly South Attleboro Square), with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) and an early version of the [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}) remodel. They later received [Phase II]({{< ref "wiki/Phase 2 (1997).md" >}}) and [Phase III]({{< ref "wiki/Phase 3 (2000).md" >}}) at later dates.
 
 In Fall 2006, Attleboro would remodel to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor, removing the showroom walls and balcony seating, added purple walls, changed the exterior, and expanded.
@@ -17,7 +18,7 @@ In Fall 2006, Attleboro would remodel to the 2005 update to the 2003 'Cool Chuck
 Attleboro began the 2.0 remodel in October 2019, removing the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) for a 2019 model Dance Floor and Video Wall, and their grand reopening was on January 7, 2020. As of August 2023, Attleboro remains like this.
 
 Around the same time of Methuen having half of their Trampoline Zone set up, which was April 20, 2024, Attleboro started installing one in their store. It is the second after [Methuen]({{< ref "wiki/Methuen, MA (90 Pleasant Valley Rd).md" >}}) in New England in Massachusetts.
-##Stages##
+<h2>Stages</h2>
 Attleboro opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}).
 
 Around 2003, A sprinkler room, up & down Curtains, and a new kitchen entrance were added. 
@@ -52,7 +53,7 @@ In October 2019, Attleboro started 2.0, removing the 1-Stage on November 11, 201
 |Still In Use
 |First 2.0 in New England. 2019 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -85,7 +86,7 @@ In October 2019, Attleboro started 2.0, removing the 1-Stage on November 11, 201
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

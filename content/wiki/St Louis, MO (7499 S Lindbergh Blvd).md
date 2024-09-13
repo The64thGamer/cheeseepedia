@@ -8,12 +8,12 @@ date = 2023-12-15T01:12:58Z
 contributors = ["Cheeseclassic"]
 gallery = []
 +++
-**_St. Louis, MO (7499 S Lindbergh Blvd)**_ was a _ShowBiz Pizza Place_ that open on March 28, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in April 1999 as a _Chuck E. Cheese's_ with a 3-Stage.
+<b><i>St. Louis, MO (7499 S Lindbergh Blvd)</b></i> was a <i>ShowBiz Pizza Place</i> that open on March 28, 1982 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed in April 1999 as a <i>Chuck E. Cheese's</i> with a 3-Stage.
 
-##History##
+<h2>History</h2>
 TODO
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stages
 !Installed
@@ -31,7 +31,7 @@ TODO
 |One of six ShowBiz Pizza stores in Missouri to undergo Concept Unification.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

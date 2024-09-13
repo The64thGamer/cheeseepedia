@@ -16,59 +16,59 @@ gallery = []
 |dvdcu=y
 |dvdcyber=y
 }}
-**_September 2010**_ was the fall show released September 1, 2010 and played through November 30th. 
+<b><i>September 2010</b></i> was the fall show released September 1, 2010 and played through November 30th. 
 
 Eight songs were featured, with some coming from previous shows (including songs from 2000-2003, 2005, and 2009). 
-## Show List ##
+<h2> Show List </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Roll The Pizza Dough'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Backstage Pass - 'Hanson'
 ## Yo Gabba Gabba!
 ## Fun Facts - 'Gorillas'
 ## The Zone - 'Drifting'
 ## CEC TV ID - 'Parachute'
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'Mailman'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## CEC TV ID - 'Arcade Crane Machine'
 ## Sound Splosion - Ralph's World - 'My Magic Trick'
 ## Animal Atlas - 'Animal Passport'
 ## Trivia - 'Continent' 
 ## CEC TV ID - 'Pizza Parachute'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'No Other Place'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Yo Gabba Gabba
 ## How to Train Your Dragon DVD Ad
 ## Caspar Babypants - '$9.99'
 ## Wow Wow Wubbzy! - 'Everyone in Wuzzleburg is Excited to Learn! Learn! Learn!'
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Our Mouse'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Fun Facts - 'Bats'
 ## Backstage Pass - 'Dan Zanes'
 ## Noonbory & The Super 7 - 'A Honey Of A Tale'
 ## Sid The Science Kid - 'Don't Forget The Leaves'
-# **Segment 5**
+# <b>Segment 5</b>
 ## 'Dinner'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Fun Facts - 'Lobsters Have Teeth in Their Stomachs'
 ## CEC TV ID - 'Skee Ball'
 ## Dive Olly Dive! - 'Uma Under The Weather!'
 ## Shout Factory DVD - 'Leave It To Beaver'
-# **Segment 6**
+# <b>Segment 6</b>
 ## 'Three Little Investors'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## CEC TV ID - 'Cell Tower'
 ## Wow Wow Wubbzy! - 'Everyone in Wuzzleburg is Excited to Learn! Learn! Learn!'
 ## CEC TV ID - 'Astronaut' 
 ## Fun Facts - 'Largest Man-Made Lake'
 ## 1 Minute 'Til Next Show Countdown
-# **Segment 7**
+# <b>Segment 7</b>
 ## 'Little Bit Of 80's'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Sound Splosion - 'Yo Gabba Gabba'
 ## Backstage Pass - 'Shelby Cobra'
 ## Sid The Science Kid - 'Don't Forget The Leaves'
@@ -77,13 +77,13 @@ Eight songs were featured, with some coming from previous shows (including songs
 ## Caspar Babypants - 'Rocks and Flowers'
 ## CEC TV ID - 'Jawbreaker'
 ## Trivia - 'Capital of Mexico'
-# **Segment 8**
+# <b>Segment 8</b>
 ## 'Think Happy'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## Pajanimals - 'Jiggle, Jumble, Jump
 ## 'CEC TV ID - 'Movie Refreshments'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday 2009 (3stage, Cyberamic, Studio C)
 * Chuck E. Says (3stage, Cyberamic, Studio C)
@@ -99,10 +99,10 @@ Eight songs were featured, with some coming from previous shows (including songs
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * 'No Other Place' is from [September 2000 Show]({{< ref "wiki/September 2000 Show.md" >}}), 'Three Little Investors' and 'Think Happy' is from [Chuck E's Rockin' Rhymes]({{< ref "wiki/Chuck E's Rockin' Rhymes.md" >}}), 'Dinner' is from January 2002, 'Roll The Pizza Dough' is from [September 2002]({{< ref "wiki/September 2002 Show.md" >}}), 'Our Mouse' is from [September 2003]({{< ref "wiki/September 2003 Show.md" >}}), and 'Little Bit Of 80's' is originally from [January 2009]({{< ref "wiki/January 2009 Show.md" >}}).
 * The original description of the now deleted 'Little Bit Of 80's' video on the official CEC YouTube channel in 2011 read, 'From Chuck E. Cheese's September 2010 Show, this is 'Little Bit Of 80s.' The Matt Daniel cut.'; the cut in question includes additional retro footage.
 * The song used during '1 Minute 'Til Next Show Countdown' was originally used in [Chuck E Cheese's 20th Anniversary (AAM)]({{< ref "wiki/Chuck E Cheese's 20th Anniversary (AAM).md" >}}). The track is titled 'Future Tech'.<ref>Showtape Stock Music</ref>
 
-## References ##
+<h2> References </h2>

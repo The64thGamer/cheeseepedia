@@ -5,21 +5,22 @@ tags = ["Store List"]
 date = 2024-01-14T05:53:14Z
 
 [Article]
+pageThumbnailFile = "Chuck-e-cheese-new-hartford-ny.png|Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>"
 contributors = ["Stripes"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Chuck-e-cheese-new-hartford-ny.png|desc=Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>}}
 
-**_4631 Commercial Dr**_ was a _Chuck E. Cheese's_ that opened on October 30, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which closed in June 2020 during a wave of closures due to the company's bankruptcy.
 
-This location is not to be confused with the _Pizza Time Theatre_ location, [New Hartford / Utica, NY (8555 Seneca Turnpike)]({{< ref "wiki/New Hartford  Utica, NY (8555 Seneca Turnpike).md" >}}), which was open from 1982-1985. 
+<b><i>4631 Commercial Dr</b></i> was a <i>Chuck E. Cheese's</i> that opened on October 30, 2006 with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}), which closed in June 2020 during a wave of closures due to the company's bankruptcy.
 
-## Stages ##
+This location is not to be confused with the <i>Pizza Time Theatre</i> location, [New Hartford / Utica, NY (8555 Seneca Turnpike)]({{< ref "wiki/New Hartford  Utica, NY (8555 Seneca Turnpike).md" >}}), which was open from 1982-1985. 
+
+<h2> Stages </h2>
 The location opened with the 'V3' variant of the [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). The stage remained intact until the location's closure.
 
 The animatronic had its eyebrows and hat removed at some point during its history.
 
-## Videos ##
+<h2> Videos </h2>
 
 {| class='wikitable'
 !Link
@@ -38,7 +39,7 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -49,4 +50,4 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 |Partially owned by a private collector, otherwise destroyed<ref>https://www.reddit.com/r/Animatronics/comments/ocnpop/pick_up_from_chuck_e_cheese_what_animatronic_was/</ref>.
 |}
 
-## References ##
+<h2> References </h2>

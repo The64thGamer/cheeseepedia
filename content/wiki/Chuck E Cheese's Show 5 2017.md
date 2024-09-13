@@ -18,54 +18,54 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 5 2017**_ released  August 21, 2017.
+<b><i>Chuck E. Cheese's Show 5 2017</b></i> released  August 21, 2017.
 
 This was created to play from August 21, 2017. - October 1, 2017. This show featured six songs, four brand new and two reused. This would be the final show to mention the 40 Years of Fun promotion.  
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Jasper's Birthday
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## Calvin Harris, Pharrell, Katy Perry & Big Sean - 'Feels'
 ## CEC Promo - 'Carl Clean Part 2'
 ## Sprout - 'Kody Kapow'
-#  **Skit 2**
+#  <b>Skit 2</b>
 ## Chuck E. Cheese & Friends - 'It's the 70s' 
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## Shawn Mendes - 'There's Nothing Holding Me Back'
 ## CEC Promo - 'Lifestyle Daytime Spot'
 ## Jax Jones - 'You Don't Know Me'
 ## Fun Facts with Chuck E. - 'Full Moon'
 ## Kids Click - 'Pac Man'
 ## Cartoon Network - 'Ticket Dance'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. Cheese - 'Another Chuck E. Day'
-#  **Intermission 3**
+#  <b>Intermission 3</b>
 ## New Hope Club - 'Fixed'
 ## Jokes from Pasqually - 'Early Bird gets the Perm'
 ## Zedd feat. Alessia Cara - 'Stay'
 ## Birthday Commercial - 'All Birthday, Golden Ticket'
 ## Kids Click - 'Max Steel'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Munch & Jasper - 'If Everyone We're Chuck E.'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## Katy Perry - 'Chained to the Rhythm'
 ## Musing with Mr. Munch - 'Episode 2'
 ## Discovery Channel Family - 'My Little Pony, Friendship is Magic' 
 ## Jim Henson - 'Splash & Bubbles' 
 ## Macklemore feat. Skylar Grey - 'Glorious'  
 ## Kids Click - 'Angry Birds' 
-#  **Skit 5**
+#  <b>Skit 5</b>
 ## Chuck E. Cheese & Friends - 'Every Boy, Every Girl 2017' 
-#  **Intermission 5**
+#  <b>Intermission 5</b>
 ## Robin Schulz, David Guetta & Cheat Codes - 'Shed a Light' 
 ## CEC Promo - 'Fundraiser' 
 ## 99 Soul feat. Destiny's Child & Brandy - 'The Girl is Mine' 
-# **Skit 6**
+# <b>Skit 6</b>
 ## Jasper & Chuck E. - 'There's Nothing Like a Walk' 
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -75,18 +75,18 @@ This was created to play from August 21, 2017. - October 1, 2017. This show feat
 *Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
 *The Roll (3stage, Cyberamic, Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=CY6ZN92HMtc 'It's the 70s' on YouTube]
 *[https://www.youtube.com/watch?v=JZS2wbUVkRE 'Another Chuck E. Day' on YouTube]
 *[https://www.youtube.com/watch?v=D5k3rlBCUgQ 'Every Boy, Every Girl 2017' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 * Jasper's Birthday is originally from Chuck E. Cheese's Show 6 2016 (Show 6 2016) and 'Nothing Like a Walk' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016).
 * This would be the final show to mention the 40 Years of Fun promotion. 
 * One of the background puppets in 'It's the 70s' reuses the eyes of the 2013 Helen puppet.
-* The footage filmed at Chuck E. Cheese during _Every Boy Every Girl_ was filmed at [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}). It was originally shot in 2012 for the [Fall 2012 Show]({{< ref "wiki/Fall 2012 Show.md" >}}).
+* The footage filmed at Chuck E. Cheese during <i>Every Boy Every Girl</i> was filmed at [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}). It was originally shot in 2012 for the [Fall 2012 Show]({{< ref "wiki/Fall 2012 Show.md" >}}).
 * Carl Clean Part 2 is Carl Clean but updated to provide more info and also make it have more comedy featuring a character called 'Dan' whose the opposite of Carl Clean.

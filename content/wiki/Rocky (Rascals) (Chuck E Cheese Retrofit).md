@@ -11,10 +11,10 @@ gallery = ["Rocky (Rascals).jpg|thumb|Rocky in 2007"]
 
 Rocky (Rascals) (Chuck E. Cheese Retrofit) is a retrofitted Chuck E Cheese (Cyberamic) (Chuck E. Cheese) cyberamic located at Enchanted Water Safari as part of the Rocky and the Ramblin' Rascals animatronic show. 
 
-## History ##
+<h2> History </h2>
 The animatronic is believed to have come from the Greece/Rochester, NY location, which closed in 1996. The animatronic was installed in early 1997.
 
-## Design ##
+<h2> Design </h2>
 Rocky, as mentioned, is a retrofitted Chuck E. Cheese. His snout and nose have been painted gray, with his teeth being replaced by custom buck teeth. Whiskers were also added to his muzzle. His ears were replaced by long bunny ears, changing him from a mouse to a rabbit. He sometimes wears a small cowboy hat on top of his head. Sometime in 2016 sunglasses were added to his outfit to hide his damaged eye mechanism.
 
 His body reuses Chuck E’s body fur, and he now wears a green cowboy vest, red bandana and no pants. His hands have black paw prints added to them. Instead of feet, he wears black cowboy boots.

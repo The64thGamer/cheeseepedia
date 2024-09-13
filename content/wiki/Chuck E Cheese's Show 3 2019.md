@@ -17,20 +17,20 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 3 2019**_ released July 1, 2019
+<b><i>Chuck E. Cheese's Show 3 2019</b></i> released July 1, 2019
 
 This was created to play from July 1,  - September 1, 2019. Featuring 4 songs. 2 new songs and 2 reused. 
 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##'It's Chuck E.'
 ##Marshmello Featuring. Bastille - 'Happier'
 ##Norman Picklestripes - 'Happy Baking!'
 ##Barbie Vlog - 'What Type of Song are you?'
-# **Skit 1**
+# <b>Skit 1</b>
 ##Chuck E. Cheese & Friends - 'My Family'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##YouTube Promo 1
 ## Kelly Rowland - 'Crown'
 ## RockALingua - 'Las Partes Del Cuerpo'
@@ -39,9 +39,9 @@ This was created to play from July 1,  - September 1, 2019. Featuring 4 songs. 2
 ## Odd Bods - 'Desert Island'
 ## Jax Jones, Years & Years - 'Play'
 ## Floogals - 'Ice Cub'
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. Cheese & Friends - 'Out of This World'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Barbie Vlog - 'Draw My Life'
 ##Unicorn, Unicorn
 ##X Ambassadors - 'Boom'
@@ -50,22 +50,22 @@ This was created to play from July 1,  - September 1, 2019. Featuring 4 songs. 2
 ##Kidz Bop - 'Havana'
 ##American Ninja Warrior Jr.
 ##The Whizpops - 'Sea Turtle'
-# **Skit 3**
+# <b>Skit 3</b>
 ##Chuck E., Mr. Munch & Bella - 'Play All You Can Play'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##YouTube Promo 2
 ## Not Ur Girlfrenz - 'No One Asked You Anyways'
 ## 'Little Bitty Kitty Cat'
 ## Odd bods - 'Basket Ball'
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E. Cheese - 'Rockin' Robot'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ## Cups for a Cause (At Participating Locations)
 ##Carrie Underwood - 'Love Wins' (Studio C SD Only)
 ## Nigel & Ronnie - 'Episode 1. Hide & Seek'
 ## Show Break - 'Office Friends'
 
-##Lives:##
+<h2>Lives:</h2>
 
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -83,14 +83,14 @@ This was created to play from July 1,  - September 1, 2019. Featuring 4 songs. 2
 * Head Shoulders Knees & Toes (Studio C,Weigl)
 * Bingo (Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=23CwFbHaUUw 'My Family' on YouTube]
 *[https://www.youtube.com/watch?v=RJf8cv2L8As 'Play All You Can Play' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 *'Out of This World' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016) and 'Rockin' Robot' is originally from [The Chuck E. Cheese Show]({{< ref "wiki/The Chuck E Cheese Show.md" >}}).
 * Show Break - 'Office Friends' reuses the footage of 'Is It Love' from [April 2007]({{< ref "wiki/April 2007 Show.md" >}}) 'Is This Love'

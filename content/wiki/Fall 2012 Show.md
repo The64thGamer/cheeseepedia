@@ -18,51 +18,51 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**Fall 2012** is the Fall show released September 1, 2012, featuring six new songs. and two new lives.
+<b>Fall 2012</b> is the Fall show released September 1, 2012, featuring six new songs. and two new lives.
 
 This was created to play from September 1, 2012 - December 2012.
 
-## Show List: ##
-#  **Segment 1** 
+<h2> Show List: </h2>
+#  <b>Segment 1</b> 
 ## [https://en.m.wikipedia.org/wiki/Don%27t_You_(Forget_About_Me)  'Don't You Forget About Me']
 ## [https://en.m.wikipedia.org/wiki/You_Spin_Me_Round_(Like_a_Record) 'You Spin Me Round']
-#  **Intermission 1** 
+#  <b>Intermission 1</b> 
 ## The Aquabats - 'Burger Rain'
 ## Say Cheese It's Funner
 ## Chillout 1 
-#  **Segment 2** 
+#  <b>Segment 2</b> 
 ## [https://en.m.wikipedia.org/wiki/Life_Is_a_Highway  'Life Is A Highway']
 ## [https://en.m.wikipedia.org/wiki/Sparks_Fly_(song)  'Sparks Fly']
-#  **Intermission 2** 
+#  <b>Intermission 2</b> 
 ## Hard Hat Hank - 'Surprises'
 ## VeggieTales - 'Supper Hero'
 ## Chillout 2 
-#  **Segment 3** 
+#  <b>Segment 3</b> 
 ## [https://en.m.wikipedia.org/wiki/Shake_Your_Groove_Thing 'Shake Your Groove Thing']
 ## 'Karate Kid'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ##  The Aquabats - 'Science'
 ## Ratings
 ##  Chillout 3 
-#  **Segment 4** 
+#  <b>Segment 4</b> 
 ## 'Larry Go To The Store'
 ## [https://en.m.wikipedia.org/wiki/This_Is_How_We_Do_It 'This Is How We Do It']
-#  **Intermission 4** 
+#  <b>Intermission 4</b> 
 ## Veggietales - 'The League of Incredible Vegetables'
 ## Rescue Bots - 'Rock Slide'
 ## Chillout 4 
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Cupid Shuffle Live (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This was the first showtape to feature [https://en.wikipedia.org/wiki/Jaret_Reddick Jaret Reddick] as the voice of Chuck E. Cheese. 
 * All the live shows for Fall 2012 still use Duncan's voice. 

@@ -8,14 +8,14 @@ date = 2022-10-17T13:42:42Z
 contributors = ["CECBowlingGreen"]
 gallery = []
 +++
-**Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea** is a Chuck E. Cheese's that opened in Fall 1994 with a 1-Stage, which is still open to this day.
+<b>Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea</b> is a Chuck E. Cheese's that opened in Fall 1994 with a 1-Stage, which is still open to this day.
 
 This location was the first location opened in the country of Chile, as well as being the oldest currently. They are also the only other 1-Stage outside of the United States, with [Plaza Oeste]({{< ref "wiki/Santiago (Plaza Oeste), Chile.md" >}}), which is also in Chile, being the other.
 
-## History ##
+<h2> History </h2>
 TODO
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a 1-Stage, which also had a turntable, though it would be removed later on. Currently as of October 2022, they still have the 1-Stage, where Chuck E. wears his Avenger outfit with his hat, the animatronics are also in poor condition, and there is also no Wink. Lo Barnechea is one of two 1-Stages outside the United States, with [Santiago (Plaza Oeste)]({{< ref "wiki/Santiago (Plaza Oeste), Chile.md" >}}), which is also in Chile, being the other.
 {| class='wikitable'
 |+
@@ -30,7 +30,7 @@ Originally when the store opened, they had a 1-Stage, which also had a turntable
 |Poor Condition. 1 of 2 1-Stages outside the U.S.A.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -61,7 +61,7 @@ Originally when the store opened, they had a 1-Stage, which also had a turntable
 
 TODO
 
-## Youtube Videos ##
+<h2> Youtube Videos </h2>
 TODO
 {| class='wikitable'
 !Link

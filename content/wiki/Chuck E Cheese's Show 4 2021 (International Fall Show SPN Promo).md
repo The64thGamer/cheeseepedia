@@ -17,49 +17,49 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 4 2021 International Fall Show**_ is the generic fall show released October 15th 2021 featuring a variety of songs from 2016-2019
+<b><i>Show 4 2021 International Fall Show</b></i> is the generic fall show released October 15th 2021 featuring a variety of songs from 2016-2019
 
 This was created as an option for international stores that don't celebrate Halloween. 
 
-##Show List:##
+<h2>Show List:</h2>
 
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Spanish Safety Message
 ##BTS - 'Lights'
-#**Skit 1**
+#<b>Skit 1</b>
 ##Jasper & Munch - 'Song Title'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##KIDZ BOP Kids - 'Dance Monkey'
 ##Musing With Mr. Munch Ep4
 ##KIDZ BOP Kids - 'Kings and Queens'
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. Cheese - 'Let's Have A Party'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Spanish Safety Message
 ##Koo Koo Kanga Roo
 ##Juicebox Jukebox - 'Clean it Up'
-#**Skit 3**
+#<b>Skit 3</b>
 ##Helen Henny - 'Dream Big
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Martis - 'Keep It Low'
 ##Jokes from Pasqually - 'Early Bird'
 ##Silly Songs - Unicorn!, Unicorn!
 ##X Ambassador - 'BOOM'
-#**Skit 4**
+#<b>Skit 4</b>
 ##Jasper T. Jowls - 'Jasper's Country Classic'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Spanish Safety Message
 ##American Authors - 'Best Day of My Life'
 ##Juicebox Jukebox - 'ABC's of You'
-#**Skit 5**
+#<b>Skit 5</b>
 ##Jasper T. Jowls - 'Nothing Like a Walk'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Post Malone Ft. Swae Lee - 'Sunflower'
 ##Nigel & Ronnie Ep3 - 'The Fly'
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. & Friends - 'My Family'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 #Birthday Show (Cyberamic, Studio C, Weigl)
 #Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
@@ -69,10 +69,10 @@ This was created as an option for international stores that don't celebrate Hall
 #Happy Dance (New Countdown) (Studio C, Weigl)
 #Me & My Friends (New Countdown) (Studio C, Weigl)
 
-## Showtape Scans / Images: ##
+<h2> Showtape Scans / Images: </h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 *This was created as an option for international stores that don't celebrate Halloween.
 *The floppy disc for this show was accidentally sent to the Jacksonville Florida location instead of the Show 5, 2021.

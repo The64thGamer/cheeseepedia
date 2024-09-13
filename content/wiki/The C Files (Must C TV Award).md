@@ -8,15 +8,15 @@ date = 2023-07-18T22:48:32Z
 contributors = ["Nostalgia Cow","BurgersNuggs445"]
 gallery = []
 +++
-The **'The C Files' (Must C TV Award)** was a poster created for Chuck E. Cheese in 1998.
+The <b>'The C Files' (Must C TV Award)</b> was a poster created for Chuck E. Cheese in 1998.
 
-{{Art|image=The C Files posters.jpg|releasedate=1998|manufacturer=Corman & Associates|text1=THE C FILES}}
 
-## Design ##
+
+<h2> Design </h2>
 This poster features a parody of the TV Show 'The X Files' which has Chuck E. in a detective outfit while holding a flashlight, Helen is depicted screaming and running, and also Jasper is seen running away. On top of the poster is 2 aliens spaceship invading earth with one of them about the abduct Helen or Jasper.
 
-## Size/Dimensions ##
+<h2> Size/Dimensions </h2>
 Like the other 'Must C TV' posters, this was made larger than actual TV posters, so it'd be cheaper and easier to retrofit the Phase 2 'record posters' with them.
 
-## Reception ##
+<h2> Reception </h2>
 The poster originally received generally positive reception upon release, however, as time passed, it began to get a more negative reception, with many critics of the Original Phase Trilogy using this as a literal poster child for showing how dated pre-2005 Chuck E. Cheese's stores are. Nowadays, it does have a cult following, either due to how absurd the poster is, or due to the 90s nostalgia boom.

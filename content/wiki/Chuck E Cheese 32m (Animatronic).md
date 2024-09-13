@@ -5,19 +5,20 @@ tags = ["Animatronics"]
 date = 2024-08-13T19:16:22Z
 
 [Article]
+pageThumbnailFile = "Studio C 1997.jpg|One of the two prototype Animatronics with the 'Black Widow Tux'."
 contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","Destinationimagination95","CEC Denver","GallaRBX2","ShowbizMidwest","71.15.155.152","Rexburg090","RedaCEC","The 64th Gamer","ChuckfeldStan","ChuckEPediaIsTheBest!","Midwestretail","Pasquallytheplumber","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = ["Naples, FL Studio C COL Serial.jpg|thumb|416x416px|Meriden, CT's Serial. Now at the Naples, FL location. PC: Mozilla FireMosquito"]
 +++
-{{Generic|image=Studio C 1997.jpg|desc=One of the two prototype Animatronics with the 'Black Widow Tux'.}}
 
-The **_Chuck E. Cheese 32m Animatronic**_ is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}) was created in 2002 to replace this animatronic due to it's cost.
 
-## History##
+The <b><i>Chuck E. Cheese 32m Animatronic</b></i> is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}) was created in 2002 to replace this animatronic due to it's cost.
+
+<h2> History</h2>
 After the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.md" >}}) concept failed, the one animatronic show concept was still being considered. Soon enough, Showbiz reached out to a few manufactures one being Creative Presentations. But being unable to help Showbiz, they suggested that they contacted Garner Holt.<ref>https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</ref>
 
 In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese animatronics, the first appearance being on October 3rd, 1997 for an invite only event at the [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) and a hand-full of locations. In February 1998 Chuck E. was unveiled at the 1998 CEC General Managers Las Vegas Convention (Event) (General Managers Convention). 160 of these Chuck E. Animatronics were placed in locations by the year 2000 and later ended production in 2001, only finishing one batch that year.
 
-## Internals##
+<h2> Internals</h2>
 {| class='wikitable'
 |+DTU #1
 !Bit #
@@ -120,7 +121,7 @@ In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese anim
 |32
 |FOOT TAP
 |}
-##Known Serial Numbers##
+<h2>Known Serial Numbers</h2>
 
 
 {| class='wikitable'
@@ -513,18 +514,18 @@ In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese anim
 
 
 
-##Stages Used In##  
+<h2>Stages Used In</h2>  
 
 *Studio C (1997) (Studio C Alpha): Installed from 1997-2002, 2012, 2015. 8 left as of August 2024
 *Studio C Prototype (Studio C Alpha/Beta Mix): Installed from 2000-2001. None left as of October 2022
 *Studio C 2000 (Studio C Beta, 32m): Installed from 2000-2003, 2009, 2019. 1 left as of August 2024
 *[Circles Of Light, 32m]({{< ref "wiki/Circles of Light.md" >}}): Installed from 2012, 2013, 2015. 1 left as of August 2024
 
-##Trivia ##
+<h2>Trivia </h2>
 
 *The prototype animatronic had wrists that turned 180 degrees. This was considered unnatural so they changed it to just 90 degrees.
 *Figures made in 1997 had wire in their hands so that they were able to have their fingers bent to hold things.
 *The Garner Holt website in the late 1990s to early 2000s erroneously stated that the animatronic had 33 movements.
 
-##References##
+<h2>References</h2>
 <references />

@@ -8,7 +8,7 @@ date = 2024-06-26T20:56:30Z
 contributors = ["FileFickle"]
 gallery = []
 +++
-{{Animatronic|image=drums.png|unitsProduced=1|releasedate=December, 1978|manufacturer=Fantasy Forest}}The Kooser Pizza Time Orchestra was an animatronic produced by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}) in 1978 for the 2nd Pizza Time Theatre at [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}).
+The Kooser Pizza Time Orchestra was an animatronic produced by [Fantasy Forest]({{< ref "wiki/Fantasy Forest.md" >}}) in 1978 for the 2nd Pizza Time Theatre at [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}).
 
-## History ##
+<h2> History </h2>
 The orchestra debuted at the opening of the Kooser Rd location. It had a very similar appearance to [Winchester's orchestra]({{< ref "wiki/Winchester Pizza Time Orchestra (Animatronic).md" >}}), although it was housed on a small shelf between Chuck and Jasper instead of all around the show room. It is unknown if the orchestra remained in use after Kooser had the [balcony stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) installed or was replaced with the [Drum Board]({{< ref "wiki/Drum Board (Cyberamic).md" >}}).

@@ -8,12 +8,12 @@ date = 2022-09-19T19:09:07Z
 contributors = ["CECBowlingGreen"]
 gallery = []
 +++
-**Studio C HD** is a system used for controlling the Galaxy Stage, Circles of Light, and Chuck E. Live Stage (Dance Floor), it utilizes USB sticks and SD cards to install show data instead of DVD's.
+<b>Studio C HD</b> is a system used for controlling the Galaxy Stage, Circles of Light, and Chuck E. Live Stage (Dance Floor), it utilizes USB sticks and SD cards to install show data instead of DVD's.
 
-## History ##
+<h2> History </h2>
 TODO: History
 
-## Stages Used In ##
+<h2> Stages Used In </h2>
 
 * Galaxy Stage
 * Circles of Light

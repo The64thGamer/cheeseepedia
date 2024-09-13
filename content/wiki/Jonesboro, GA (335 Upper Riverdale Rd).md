@@ -8,11 +8,11 @@ date = 2024-07-30T23:01:59Z
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]
 gallery = []
 +++
-**_335 Upper Riverdale Rd, Store #601**_ is a _Chuck E. Cheese_ that opened on November 20, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and is still open to this day.
+<b><i>335 Upper Riverdale Rd, Store #601</b></i> is a <i>Chuck E. Cheese</i> that opened on November 20, 1990, with a [Prototype Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and is still open to this day.
 
 It is located in the Tara Crossings Shopping Center.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -45,15 +45,15 @@ It is located in the Tara Crossings Shopping Center.
 |2021 Model
 |}
 
-## History ##
+<h2> History </h2>
 Jonesboro opened its doors on November 20th, 1990, as part of the Tara Crossings Shopping Center as the first location in Georgia since the closures of [Atlanta, GA (2963-A Cobb Pkwy)]({{< ref "wiki/Atlanta, GA (2963-A Cobb Pkwy).md" >}}) & Stone Mountain, GA (5246 Memorial Dr) Pizza Time Theatre locations in 1984 with the very first Road Stage ever produced. Jonesboro also opened with the 1988 Remodel which had the checkers around the store, the Blue and White Awnings, and the CU decor. In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one. Then in 1994/1995, Jonesboro remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) which involved the Road Stage being converted into a 1-Stage. In 2000, Jonesboro remodeled to [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) which involved the removal of most of the 1990's decor (Except a couple record posters), some checkers around the store, and the Blue and White awnings. In around the Late 2000's-Early 2010's, various store decor was removed from the store including the sign above the Kid Check and some of the CRTs in the gameroom. In July 2022, Jonesboro received the 2.0 Remodel which involved the removal of all the store's decor, the Studio C (1997) (Studio C Alpha) stage, Showroom Walls, the last 1997 Studio C Dining sign, and added bright florescent lighting. Currently, as of March 2023, Jonesboro still has the 2.0 Remodel and Dance Floor and Video Wall.
 
-## Decor ##
-### Current ###
+<h2> Decor </h2>
+<h2>= Current </h2>=
 
 * 2018 Cursive 2.0 entrance sign
 
-### Former ###
+<h2>= Former </h2>=
 
 * 1990s 'No Biz Like Showbiz' clapperboard
 * 1990s Sign above Kid Check
@@ -80,5 +80,5 @@ Jonesboro opened its doors on November 20th, 1990, as part of the Tara Crossings
 
 
 
-## References ##
+<h2> References </h2>
 <references />

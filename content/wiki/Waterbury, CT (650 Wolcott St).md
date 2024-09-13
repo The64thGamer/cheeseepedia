@@ -9,16 +9,16 @@ contributors = ["Rexburg090","CECBowlingGreen","73.218.229.96","ChuckfeldStan"]
 gallery = ["WaterburyCTExterior2019MayGoogleMaps.png|thumb|Street view of the exterior in May 2019 (PC: Google Maps)"]
 +++
 
-**_650 Wolcott St, Store #463**_ was a _Chuck E. Cheese's_ that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. 
+<b><i>650 Wolcott St, Store #463</b></i> was a <i>Chuck E. Cheese's</i> that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. 
 
 This location should not be confused with [Waterbury, CT (983 Wolcott St)]({{< ref "wiki/Waterbury, CT (983 Wolcott St).md" >}}) which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), that location was the first Chuck E. Cheese's location opened in the New England region. 
 
-## History ##
+<h2> History </h2>
 Waterbury opened on September 29, 1992 in Mattatuck Plaza with a 2-Stage (Three months after [Orange]({{< ref "wiki/Orange, CT (82 Boston Post Rd).md" >}}) opened with their 2-Stage which was the first one installed in New England) with the CEC 1988 Remodel (1988 Remodel). In the mid 1990's, Waterbury remodeled to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) which involved removing the checkers around the store, the blue and white awnings, and the neon signage. In the Summer of 2001, Munch's cap was removed. By 2004, they added some of the 1999 décor and in December; they replaced the side to side curtains with the up and down curtains. In April 2005, the Helicopter Light was replaced with the Gemini. Curtains were disabled in July 2005. Helen's cosmetics were replaced in April 2006. Waterbury received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008 which started in January. In around June 2011, the Tuxedo & Derby were replaced with the Avenger outfit (Chuck's derby was however briefly kept until they received the Avenger cap not long after). Waterbury was the last 2-Stage to have the Tuxedo and Derby which were both replaced by July 2011, Pasqually's cosmetics were replaced around the same timeframe. Jasper would receive new cosmetics in December 2011. Waterbury was originally supposed to close in 2013; however, [Meriden]({{< ref "wiki/Meriden, CT (533 S Broad St).md" >}}) was chosen to close instead which ended up happening on May 19th, 2013. In the mid 2010's the Avenger Shirt on the animatronic was replaced with the Rockstar Shirt. The store would be temporarily closed on March 16th, 2020 due to the COVID-19 pandemic. On June 25, 2020; Waterbury closed their doors for the final time, ending the store's almost 28 years of operation. 
 
 Waterbury was one of the five New England locations that was open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}), [North Dartmouth, MA (412-418 State Rd)]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}}), [Attleboro, MA (287 Washington St)]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}}), & [Newington, CT (3075 Berlin Tpke)]({{< ref "wiki/Newington, CT (3075 Berlin Tpke).md" >}}).
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -31,7 +31,7 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 |One of two 2-Stages installed in Connecticut
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronics
 !Manufacturing Date
@@ -65,7 +65,7 @@ Waterbury was one of the five New England locations that was open after 2006 tha
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

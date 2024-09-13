@@ -5,13 +5,14 @@ tags = ["Licensed Family Entertainment Center Store List"]
 date = 2024-07-23T17:27:38Z
 
 [Article]
+pageThumbnailFile = "PhoenixPTT.jpeg"
 contributors = ["JND","Letterstolooneybird","Cheeseclassic"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=PhoenixPTT.jpeg}}
-**_Phoenix, AZ (4130 W Thomas Rd)**_  was a _Pizza Time Theatre_ that opened somewhere in 1983 and closed in 1985. The building would later become a _Pistol Pete’s Pizza_ that featured a Rock-Afire Explosion. This location is not to be confused with [Phoenix, AZ (8039 North 35th Ave)]({{< ref "wiki/Phoenix, AZ (8039 North 35th Ave).md" >}}), that opened on October 28th, 1983 with the Rock-afire explosion and is still open today.
 
-## Stages ##
+<b><i>Phoenix, AZ (4130 W Thomas Rd)</b></i>  was a <i>Pizza Time Theatre</i> that opened somewhere in 1983 and closed in 1985. The building would later become a <i>Pistol Pete’s Pizza</i> that featured a Rock-Afire Explosion. This location is not to be confused with [Phoenix, AZ (8039 North 35th Ave)]({{< ref "wiki/Phoenix, AZ (8039 North 35th Ave).md" >}}), that opened on October 28th, 1983 with the Rock-afire explosion and is still open today.
+
+<h2> Stages </h2>
 This location first opened as a Chuck E. Cheese’s Pizza Time Theatre with a Balcony Stage. 
 
 After the Pizza Time Theatre closed, the building was turned into a Pistol Pete’s Pizza with a [Classic Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). 
@@ -33,7 +34,7 @@ After the Pizza Time Theatre closed, the building was turned into a Pistol Pete�
 |
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 This location opened up with Madame Oink and had the Tune Machine showtape. Like every other location, she eventually got replaced with broadway helen until its closure. They also had the king for a short time.
 {| class='wikitable'
 |+
@@ -123,7 +124,7 @@ This location opened up with Madame Oink and had the Tune Machine showtape. Like
 |Unknown
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

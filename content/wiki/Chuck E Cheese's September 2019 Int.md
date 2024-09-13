@@ -16,56 +16,56 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |studiochd=y
 |dvdcyber=y
 }}
-**_September 2019 International**_ also known as the 'September international show 2019' is the generic fall show released September 2019 for international stores only. 
+<b><i>September 2019 International</b></i> also known as the 'September international show 2019' is the generic fall show released September 2019 for international stores only. 
 
 Featuring a variety of songs released from 2014-2019. This show features 6 Songs
 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E., Munch, & Bella B. - 'Play All You Can Play'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Universal Kids - 'Waldo'
 ## Kabillion - 'Barbie' 
 ## Countdown - 'Is It Love'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Pasqually - 'Cat Sitting' 
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. Cheese YouTube Promo 
 ## BTS - 'Lights' 
 ## 1 Min Countdown
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Friendship Never Ends' 
 
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Universal Kids - 'Norman Pickle Stripes' 
 ## Jax Jones - 'Years & Years' 
 ## Kabillion - 'Oddbods' 
 
-# **Skit 4**
+# <b>Skit 4</b>
 ## Helen & Bella B. - 'Bailando' 
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Kabillion - 'Barbie Draw My Life' 
 ## Unicorn!, Unicorn!, Unicorn!
 ## X Ambassadors - 'Boom' 
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'My Family' 
 
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Universal Kids - 'Norman Pickle Stripes'
 ## KIDZ BOP Kids - 'Havana'
 ## 1 Min Countdown
 
-# **Skit 6**
+# <b>Skit 6</b>
 ## Jasper T. Jowls  -  'Jaspers Country Classic'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Little Bitty Kitty Cat
 ## Kabillion - 'Oddbods' 
 ## Kabillion - 'Barbie' 
 ## Nigel & Ronnie Ep 1 
 ## Jung - 'Still Kids'
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 * Birthday Show (Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
@@ -76,5 +76,5 @@ Featuring a variety of songs released from 2014-2019. This show features 6 Songs
 * Werewolf-Zomba-Franken-Conga (Cyberamic, Studio C, Weigl)
 * Me & My Friends (Cyberamic, Studio C, Weigl)
 
-##Trivia:##
+<h2>Trivia:</h2>
 This show is designed to play in international markets due to the fact most don't celebrate Halloween. That is why most of this show lacks any mention of the season minus Werewolf-Zomba-Franken-Conga.

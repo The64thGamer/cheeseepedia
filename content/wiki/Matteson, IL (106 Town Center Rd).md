@@ -5,27 +5,28 @@ tags = ["Store List"]
 date = 2024-08-14T14:00:24Z
 
 [Article]
+pageThumbnailFile = "desc=The exterior in February 2019|image=Matteson.jpg"
 contributors = ["ChuckECool","ShowbizMidwest","BurgersNuggs445","Rexburg090","CorrectorMan","Melrosefool2763","ThatBoiCydalan","AstridMascotFan2005","CoolerDude"]
 gallery = []
 +++
-{{Stub}}{{Generic|desc=The exterior in February 2019|image=Matteson.jpg}}
-**_106 Town Center Road, Store #73**_ was a _Showbiz Pizza Place_ that opened on May 23, 1983 with a Rock-afire Explosion and closed on June 18, 2020 with the Circles of Light stage.
-##Stages##
+
+<b><i>106 Town Center Road, Store #73</b></i> was a <i>Showbiz Pizza Place</i> that opened on May 23, 1983 with a Rock-afire Explosion and closed on June 18, 2020 with the Circles of Light stage.
+<h2>Stages</h2>
 This location debuted with the [Rock-Afire explosion]({{< ref "wiki/Classic Stage.md" >}}) in 1983 and received [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) in 1991. The 3-Stage at this particular location kept its SPP valance and was in excellent condition for the time before being set ablaze in February 2015. Their 3-Stage would end up being replaced with the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show prior before reopening. As for the animatronics, They were sent to the [Darien, IL]({{< ref "wiki/Darien, IL (7409 Cass Ave).md" >}}) location for parts.
 
-##History##
+<h2>History</h2>
 Matteson opened on May 23, 1983, with a Rock-afire Explosion. Not much changed until the late 80s, when Matteson received the 80s remodel. Matteson would undergo Concept Unification in 1991 and would receive a remodel between 1992 and 1993. Not much would change at Matteson until 2009, when they received the 00’s remodel and also expanded into a vacant portion at the front of the building (towards the right when facing the store). Matteson would remain this way until February 22, 2015, when a fire broke out and caused significant damage to the stage and showroom. Matteson would then receive a slight remodel, replacing all artwork with 2013 art and removing the 3-Stage in favor of a Circles of Light without an animatronic. Matteson would permanently close on June 18, 2020.
 
-###Remodels###
+<h2>=Remodels</h2>=
 Matteson would remodel for the first time sometime in the late 80’s. They would remodel again around 1992/1993. In 2009, Matteson would receive the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). In February 2015 due to a fire starting inside of the building the location would remodel for the final time, receiving new artwork and the Circles of Light in the process.<ref>https://twitter.com/capturednews/status/569435761281531904</ref>
 
-###MLB Controversy###
+<h2>=MLB Controversy</h2>=
 In 2019 a 9-year-old girl who visited the location felt hurt about a taunting voice clip, 'Hey, there's always Softball!'. This caused her to write a letter to the MLB, who licensed the machine. Chuck E. Cheese's response was to turn off the audio for the arcade game in all locations from that point forward “to support everyone’s love of play.”<ref>https://chicago.suntimes.com/2019/2/21/18382900/9-year-old-girl-gets-chuck-e-cheese-to-remove-softball-taunts-from-mlb-game</ref>
 
-###COVID 19 Closing###
+<h2>=COVID 19 Closing</h2>=
 On June 18, 2020, this location would be permanently closed due to CEC Entertainment's bankruptcy; along with 33 other locations throughout 2020. The Circles of Light show, booths, and various arcade games would be left inside of the building. This location is still vacant as of 2024.<ref>https://www.youtube.com/watch?v=dSSeDCBrX5Y</ref>
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -43,7 +44,7 @@ On June 18, 2020, this location would be permanently closed due to CEC Entertain
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronics
 !Serial Number
@@ -98,5 +99,5 @@ On June 18, 2020, this location would be permanently closed due to CEC Entertain
 |Destroyed in fire.
 |}
 
-##References##
+<h2>References</h2>
 <references />

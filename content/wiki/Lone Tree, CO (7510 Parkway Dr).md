@@ -5,16 +5,17 @@ tags = []
 date = 2024-07-28T14:40:01Z
 
 [Article]
+pageThumbnailFile = "desc=Lone Tree, CO Chuck E. Cheese in 2022|image=Littleton, CO 2.0.jpg"
 contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","2600:1700:8790:12F0:BD78:36A8:1DEE:9591","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|desc=Lone Tree, CO Chuck E. Cheese in 2022|image=Littleton, CO 2.0.jpg}}
 
-**_Lone Tree, CO (7510 Parkway Dr)**_ is a _[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})_ that opened on February 15th, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage.
 
-This store is known for its appearance on the Food Network's _Unwrapped_. This store is also significant for being the 300th Chuck E. Cheese's restaurant when it opened. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009 and received the 2.0 remodel in 2022.
+<b><i>Lone Tree, CO (7510 Parkway Dr)</b></i> is a <i>[Chuck E. Cheese's]({{< ref "wiki/Chuck E Cheese's.md" >}})</i> that opened on February 15th, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) stage.
 
-## Stages ##
+This store is known for its appearance on the Food Network's <i>Unwrapped</i>. This store is also significant for being the 300th Chuck E. Cheese's restaurant when it opened. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009 and received the 2.0 remodel in 2022.
+
+<h2> Stages </h2>
 When Lone Tree opened, it had a Studio C Alpha stage. The interactive elements of the show, the Blue Screen camera and Console, were both removed in early 2014. The Apple monitor on the stage also broke around this time. This monitor would eventually get covered with the decal from a token dispenser in November 2020. The animatronic and lighting elements of the show, however, were kept in peak condition until 2019. August 2019 saw a huge decline in show condition with the curtains and many movements breaking. This rapid deterioration would never stop. By 2021, many more lights and movements were broken including many showroom floods, warp light, multiple arm movements, Chuck's nose, and many more. In Summer 2021, both of the show's Studio C Control System#DTUs (DTUs) got set to bank 1, causing the lights to run off Chuck E.'s programming instead of their own. The show stayed in this sad state until its unfortunate but long overdue removal during the 2.0 remodel in Summer 2022. The show was powered down for the last time on June 7, and stayed powered down until it was removed entirely on June 9. The store now features a 2021 Dance Floor with a Video Wall.
 {| class='wikitable'
 |+
@@ -31,26 +32,26 @@ When Lone Tree opened, it had a Studio C Alpha stage. The interactive elements o
 |Still in use.
 |}
 
-## History ##
+<h2> History </h2>
 
-### Pre-CEC ###
+<h2>= Pre-CEC </h2>=
 Before this location landing on its permanent name as Chuck E. Cheese's, it was a few other brands before. It opened in 1994 as a Leaps & Bounds, a chain owned by McDonald's that primarily focused on the play structures. It was intended to compete with Discovery Zone, a major competitor of CEC at the time. The Leaps & Bounds brand was very short lived, as McDonald's realized they were entering a territory they didn't belong in, so the Leaps & Bounds brand merged with Discovery Zone. In 1995, Lone Tree would now be recognized as a Discovery Zone. Later on, in June 1999, Discovery Zone filed for bankruptcy. CEC Entertainment placed the winning bid in a bankruptcy auction, receiving a lot of DZ's assets. Among this was 20 Discovery Zone fun centers. Ten of these would be converted into Chuck E. Cheese's over the next year. Among those ten was Lone Tree. it reopened about six months later, now a Chuck E. Cheese's.
 
-### Name confusion ###
+<h2>= Name confusion </h2>=
 Over the years, this store has been called by many names by locals and fans. Some of these are 'Centennial' and 'Highlands Ranch', two of the three cities the store is located on the border of, and 'Park Meadows', the mall the store is very close to. The only two official titles though would be Littleton or Lone Tree. Back when it was built, the property was considered to be Littleton. In 1996 however, the city of Lone Tree was incorporated, taking up the space. Due to it being carried down through multiple acquisitions, its original title has also been carried down. In recent years, CEC Corporate has been attempting to rename it to Lone Tree as that's the city it's been for over 25 years.
 
-### 2009 Remodel ###
+<h2>= 2009 Remodel </h2>=
 In 2009, Lone Tree received the 2009 update of the 2005 remodel. During this remodel, the store was expanded 3,792 ft² out on the west side of the building. While the tubes did stay during this remodel, they would be replaced with Chuck E.'s Fun House in 2014. The big red awnings on the outside would be removed in late 2019.
 
-### 2.0 Remodel ###
+<h2>= 2.0 Remodel </h2>=
 In 2022, Lone Tree received the 2.0 remodel. It began on May 23. This remodel originally was planned to be a regular remodel, but they decided to put up a custom Lone Tree mural instead of the 'Party' art.
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 This list consists of all machines Lone Tree has as of June 24, 2024. Their game selection has only minorly changed since the 2.0 remodel, with changes consisting of a Hollywood Reels cabinet from the [Englewood, CO (1001 W Hampden Ave)]({{< ref "wiki/Englewood, CO (1001 W Hampden Ave).md" >}}) location's 2.0 remodel replacing their Big Bass Wheel Pro that was damaged beyond repair in December 2022, Comet Catcher, Winner's Wheel, and Hit Music being removed to make room for their Trampoline Zone in March 2024, and CEC Street Hoops, Bop 2 Win, Intermission, Operation, Jackpot Xtreme, and Lane Master being removed to make room for their Ninja Run in June 2024.
 
-### Play Pass Machines ###
+<h2>= Play Pass Machines </h2>=
 
-#### Game Room ####
+<h2>== Game Room </h2>==
 
 * Hoop It Up
 * Golden Empire 
@@ -105,7 +106,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 * Rabbids Hollywood
 * Fishbowl Frenzy
 
-#### Kiddie Room ####
+<h2>== Kiddie Room </h2>==
 
 * Spin O’Rama 
 * Tight Rope
@@ -135,9 +136,9 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 * Bigfoot Crush 
 * Hammerhead
 
-### Token Action Games ###
+<h2>= Token Action Games </h2>=
 
-#### Game Room ####
+<h2>== Game Room </h2>==
 
 * Hat Trick
 * Ticket Troopers
@@ -146,11 +147,11 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 * Wonder Land
 * Hollywood Reels
 
-### Other Machines ###
+<h2>= Other Machines </h2>=
 
 * [Ticket Blaster]({{< ref "wiki/Ticket Blaster.md" >}})
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -158,7 +159,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 !Filming Date
 |-
 |[https://www.youtube.com/watch?v=HuslrK9OKLc&t=0s Link]
-|Lone Tree on the Food Network's _Unwrapped_ in HD quality
+|Lone Tree on the Food Network's <i>Unwrapped</i> in HD quality
 |2003
 |-
 |[https://www.youtube.com/watch?v=AlU_pq0uDP4&list=PLfKIrd3cLCn367R7sjBag09bjI280-R_D&index=1 Link]
@@ -301,7 +302,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 
 
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

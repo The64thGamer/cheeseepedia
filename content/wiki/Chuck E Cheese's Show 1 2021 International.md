@@ -17,53 +17,53 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 1 2021 International**_ was released January 4, 2021 featuring a variety of songs released from 2016-2021
+<b><i>Show 1 2021 International</b></i> was released January 4, 2021 featuring a variety of songs released from 2016-2021
 
 Unlike the US shows this was not created as a generic show but was instead just a normal show and would play from January 4, 2021 - May , 2021. This show features 6 Songs. 5 reused and 1 new. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message
 ##  KIDZ BOP Kids - 'Say So'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## DJ Munch - 'DJ Munch'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Katy Perry - 'Never Really Over'
 ## Jokes From Pasqually - 'Anchor'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Pasqually the Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Safety Message
 ## The Whizpops - 'Sea Turtle'
 ##  KIDZ BOP Kids - 'The Git Up'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Helen & Bella B. - 'Bailando'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Musing with Mr. Munch Ep1
 ##  KIDZ BOP Kids - 'Blinding Lights'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese, Mr. Munch feat Bella B. - 'Play All You Can Play'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Safety Message
 ## Rockalingua - Las Partes del Cuerpo' 
 ##  KIDZ BOP Kids - 'Wings'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'Cowboys Life For Me'
-#  **Intermission 6**
+#  <b>Intermission 6</b>
 ## Juicebox Jukebox - 'The ABC's of You'
 ## KIDZ BOP Kids - 'Call Me Maybe'
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. Cheese - 'More Cheese'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Video Call w/ Bella B.
 ##  KIDZ BOP Kids - 'Truth Hurts'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl)
 * Birthday Show (Live at Home) (3stage, Cyberamic, Studio C,Weigl)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 Cowboy's Life For Me was reprogrammed for Studio C in this show, leaving the light programming the same as it was originally.

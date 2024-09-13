@@ -9,9 +9,9 @@ contributors = ["Rexburg090","2600:4040:59FC:D100:2883:E8AD:AE08:AFDF","Correcto
 gallery = ["Altamonte Springs.jpg|thumb|Altamonte Spring's exterior as of 2023. (PC: Google Maps)"]
 +++
 
-**_541 W Hwy 436, Store #681**_ was a _ShowBiz Pizza Place_ located in Altamonte Springs, Florida.  It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area & the third to open in Florida following the [Jacksonville]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) & Tampa, FL (1707 E Fowler Ave) (Tampa) locations). 
+<b><i>541 W Hwy 436, Store #681</b></i> was a <i>ShowBiz Pizza Place</i> located in Altamonte Springs, Florida.  It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area & the third to open in Florida following the [Jacksonville]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}) & Tampa, FL (1707 E Fowler Ave) (Tampa) locations). 
 
-## History ##
+<h2> History </h2>
 Altamonte Springs opened its doors on March 25th, 1981 with the RockAfire Explosion like every other ShowBiz did. Like many other ShowBiz locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. 
 
 In the year 1990, They received Concept Unification and Altamonte Springs would be one of five locations to test the concept that year. Then in around the Mid 1990's the store would receive the 1993 remodel, complete with: an Obstotron (later SkyTubes); 1991 Platinum CD Award posters (Flabby Road, Brawn in the USA, Cheese Z Top, Vitaminology, & Saturday Night Retriever); Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Coach Chuck signs; 1991 Confetti Portraits; and other misc signage.
@@ -26,7 +26,7 @@ In Late 2015-Early 2016, the awnings were removed from the building.
 
 In November/December 2022, Altamonte Springs received the 2.0 Remodel, which involved the removal of the Studio C Alpha, Record Posters. This was the last location in the Orlando area with Record posters. The store's grand reopening was January 19th, 2023.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -49,7 +49,7 @@ In November/December 2022, Altamonte Springs received the 2.0 Remodel, which inv
 |Still In Use
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -122,5 +122,5 @@ In November/December 2022, Altamonte Springs received the 2.0 Remodel, which inv
 
 (W.I.P)
 
-## Videos ##
+<h2> Videos </h2>
 (W.I.P)

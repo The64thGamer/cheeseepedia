@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-07-17T21:13:58Z
 
 [Article]
+pageThumbnailFile = "JacksonvilleAtlanticFL2.0Exterior.png|Photo of the 2.0 exterior in April 2023 (PC: Chuck E. Cheese Jacksonville)"
 contributors = ["Rexburg090","Emcaacme","Awesome Dawson Films YT","RedaCEC","SuperCreamPiper2008","ThatBoiCydalan","2600:4040:5A0C:5900:C146:5FEF:315A:1C1B","BurgersNuggs445","64.125.60.2","ShowbizMidwest","ChuckECool","ChuckfeldStan","Agent 5","Stripes","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=JacksonvilleAtlanticFL2.0Exterior.png|desc=Photo of the 2.0 exterior in April 2023 (PC: Chuck E. Cheese Jacksonville)}}
 
-**_9820 Atlantic Blvd, Store #62**_ is a _Chuck E. Cheese_ that opened in 1980 with the Rock-A-Fire Explosion.
+
+<b><i>9820 Atlantic Blvd, Store #62</b></i> is a <i>Chuck E. Cheese</i> that opened in 1980 with the Rock-A-Fire Explosion.
 
 This location is the second-ever Showbiz Pizza Place location and is one of the oldest locations in operation.
 
-## Stages ##
+<h2> Stages </h2>
 When this location first opened in 1980, it would feature the first Rock-A-Fire Explosion to be viewed publicly. This location would end up replacing their show for the updated, standardized characters in 1981 because the originals apparently had weak or hollow aluminum inside the characters.
 
 In 1991 Jacksonville would undergo [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), and would keep the original prototype instruments used since opening day.
@@ -45,17 +46,17 @@ On November 19th, 2022 the location would have their Studio C removed in favor o
 |Still in Use.
 |}
 
-## History ##
+<h2> History </h2>
 
-### Showbiz Pizza Place ###
+<h2>= Showbiz Pizza Place </h2>=
 Jacksonville, FL opened its doors on August 14th, 1980 as the second Showbiz Pizza Place location and the first store in Florida. The Rock-afire Explosion animatronic band made their first public appearance in this store. Crowds were drawn to the showroom, as people were amazed by the high-tech, cheap, family-oriented, and fun entertainment--while also being utterly unaware of the success and impact it would leave for years to come. Showbiz's deal with Creative was only the beginning of its legacy. The imagery of this store and its show were commonly used in ads, postcards, and other promotional materials for Showbiz Pizza Place and Creative Engineering. 
 
-### Acquisition and Remodels ###
+<h2>= Acquisition and Remodels </h2>=
 On August 31, 1987, SPP acquired Jacksonville which would later be remodeled in 1991 during the unification of Pizza Time Theatre and Showbiz Pizza locations to be under one appearance. Shortly after, in 1995, the restaurant would be one of 126 stores 1994 SPT Repositioning / Remodel Program (repositioned and remodeled), receiving [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) in the process. With the addition of Studio C, the showroom would require modifications to accommodate for the show. 
 
 In 2005 / 2006 the location would remodel and expand into the neighboring Western Auto shop for extra space for the arcade. In October and November 2022, the location would be remodeled for the final time for CEC 2.0.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -88,7 +89,7 @@ In 2005 / 2006 the location would remodel and expand into the neighboring Wester
 
 
 
-## Animatronics##
+<h2> Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number

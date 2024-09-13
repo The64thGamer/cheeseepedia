@@ -8,26 +8,26 @@ date = 2024-06-30T19:10:45Z
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]
 gallery = ["Lansjasp.png|thumb|Modern Jasper Cyberamic."]
 +++
-The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
+The <b>Jasper T. Jowls Cyberamic</b> is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
 
-## History ##
+<h2> History </h2>
 After the second Pizza Time Theatre opening in 1978, it was decided that Fantasy Forest Manufacturing started creating their figures in a specified way as the previous iterations were in different styles. By the time the [Concord, CA]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) location opened in 1979, they have completed their first batch of Cyberamics. 
 
-### Manufacturing ###
+<h2>= Manufacturing </h2>=
 In November of 1983, production of Cyberamics would be ceased, as Pizza Time Theatre was on the brink of bankruptcy. 
 
 When Showbiz Pizza purchased Pizza Time's assets in 1985, they would reuse shows from closed Pizza Time Theatres to save materials while opening new locations. In 1991, they finally outsourced production of Cyberamics to Kinetix Group Inc, later Animation World Inc. 
 
 The final Chuck E. Cheese's location to open when a new set of Cyberamics would end up being [Mentor, Ohio]({{< ref "wiki/Mentor, OH (8000 Plaza Blvd).md" >}}) in 1998.
 
-## Design ##
+<h2> Design </h2>
 As Fantasy Forest simply translated the previous portrait designs into Cyberamic forms, Showbiz Pizza Time would do something much more. 
 
 In 1986 the Jasper Cyberamic would receive its first major costume change designed by Jul Kamen. Jasper is given a larger hat and a new Yellow and Black shirt with patches. This change lasted up until 1990 when Jul Kamen redesigned all of Munch's Make-Believe Band and created the standard Jasper design for all appearances. The new design featured Jasper wearing red shoes, a cow print shirt, and overalls.
 
 The final design to be concepted and used on the Cyberamic would only be used at [one location]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) in 1994, as it was one of the test outfits for a complete outfit overhaul for Munch's Make-Believe Band created by Shelly Atkins. Jasper's design incorporated a long sleeve green shirt, black pants, and boots. For unforeseen reasons this design never made out out of the initial test location.
 
-## Movement Rosetta ##
+<h2> Movement Rosetta </h2>
 {| class='wikitable'
 |+R12 Rosetta
 !Terminal #
@@ -110,7 +110,7 @@ The final design to be concepted and used on the Cyberamic would only be used at
 |V EYES L
 |}
 
-## Stages Used In ##
+<h2> Stages Used In </h2>
 
 * Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.
@@ -124,6 +124,6 @@ The final design to be concepted and used on the Cyberamic would only be used at
 
 
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Originally, Jasper's guitar neck arm was controlled by a cylinder on the guitar neck as opposed to the inside of his arm, this was changed in 1982.

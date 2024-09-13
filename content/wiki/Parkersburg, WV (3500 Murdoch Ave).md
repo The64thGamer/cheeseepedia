@@ -9,17 +9,17 @@ contributors = ["ChuckECool","Emcaacme","Midwestretail","Rexburg090","Saan1ty","
 gallery = ["parkersburg.jpg|thumb|Parkersburg's exterior in the 1990s. (PC: showbizpizza.com)"]
 +++
 
-**_3500 Murdoch Ave**_ was a Franchised _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_ that opened in 1983 (day and month unknown) and closed in 1998 (day and month unknown), after 15 years in operation. This store would have a unique exterior with a unique Chuck E. Cheese logo, which would be kept until they closed.
-##History##
-###Showbiz Pizza Era (1983-Early 1990s)###
+<b><i>3500 Murdoch Ave</b></i> was a Franchised <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese's Pizza</i> that opened in 1983 (day and month unknown) and closed in 1998 (day and month unknown), after 15 years in operation. This store would have a unique exterior with a unique Chuck E. Cheese logo, which would be kept until they closed.
+<h2>History</h2>
+<h2>=Showbiz Pizza Era (1983-Early 1990s)</h2>=
 This store would host its grand opening in 1983 as the 1st Showbiz Pizza Store in West Virginia, where the store would have the Rock-afire Explosion, featuring the [Classic Stage]({{< ref "wiki/Classic Stage.md" >}}). They had many of the same features that every Showbiz location had at the time. This would include many arcade games, wood paneling, and a play-place. Their Rock-afire Explosion show was one of several to have a custom outfit for Mitzi in 1986/87. Strangely, this store had some unique Chuck E. Cheese and Fatz Geronimo posters, being seen in some footage.
-###CEC Era (Early 1990s-1998)###
+<h2>=CEC Era (Early 1990s-1998)</h2>=
 In March 1991, Parkersburg would remodel to a Chuck E. Cheese's Pizza, which involved the removal of the Rock-afire Explosion, and the addition of the 3-Stage. This would be the only Showbiz in West Virginia to undergo Concept Unification. The exterior sign was replaced with a very weird one. This remodel involved also adding new games, redoing the interior, and getting new fixtures. It is unknown if they would ever receive the Phase 2 (1997 (Phase 2), or [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) game packages during this store's lifetime.
-###Post-CEC Era (1998-Present)###
+<h2>=Post-CEC Era (1998-Present)</h2>=
 After the store closed, the building would stay vacant for a while until it was redone and used by a few businesses. Currently, the old building is a business called WorkForce West Virginia.
 
 Rex Donahue, the franchise owner of all of the West Virginia Showbiz Pizza Place locations, kept the show. The characters are in storage and are now being used for parts at [Billy Bob's Wonderland]({{< ref "wiki/Billy Bob's Wonderland.md" >}}) in Barboursville, WV.
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -36,7 +36,7 @@ Rex Donahue, the franchise owner of all of the West Virginia Showbiz Pizza Place
 |1998
 |Only West Virginia location to receive Concept Unification.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial

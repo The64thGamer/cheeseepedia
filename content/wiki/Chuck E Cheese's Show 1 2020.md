@@ -18,47 +18,47 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 1 2020**_ was the winter show that was released on December 30, 2019, and played through March 29, 2020. This show featured five songs, of which two were new and 3 reused. 
+<b><i>Show 1 2020</b></i> was the winter show that was released on December 30, 2019, and played through March 29, 2020. This show featured five songs, of which two were new and 3 reused. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Fun Songs - 'It's Chuck E.'
-## **** KIDZ BOP Kids - 'Sorry Not Sorry'
-## **** Discovery Familia - Doki - 'Expression 80's'
-# ** Skit 1**
+## <b></b> KIDZ BOP Kids - 'Sorry Not Sorry'
+## <b></b> Discovery Familia - Doki - 'Expression 80's'
+# <b> Skit 1</b>
 ## Helen Henny's - 'Game On!'
-# **Intermission 2**
-## **** Universal Kids - 'Power Birds 1'
-## **** Andy Grammer - 'She'd Say'
+# <b>Intermission 2</b>
+## <b></b> Universal Kids - 'Power Birds 1'
+## <b></b> Andy Grammer - 'She'd Say'
 ## Fun Songs - 'Oh Helen Henny'
-## **** Panic! At the Disco - 'Into The Unknown'
-## **** Tails of Friendship Ep3, - 'Pink Frosted Donuts'
-# **Skit 2**
+## <b></b> Panic! At the Disco - 'Into The Unknown'
+## <b></b> Tails of Friendship Ep3, - 'Pink Frosted Donuts'
+# <b>Skit 2</b>
 ## Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
-# **Intermission 3**
-## **** Universal Kids - 'Floogals'
-## **** Dandy Aridi - 'Let Go'
+# <b>Intermission 3</b>
+## <b></b> Universal Kids - 'Floogals'
+## <b></b> Dandy Aridi - 'Let Go'
 ## Fun Songs - 'Oh Oh Oh Pasqually'
-## **** Matt Nathanson - 'Modern Love:
-## **** Universal Kids - 'American Ninja Warrior Jr'
+## <b></b> Matt Nathanson - 'Modern Love:
+## <b></b> Universal Kids - 'American Ninja Warrior Jr'
 ## Fun Songs - 'Unicorn, Unicorn!'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Play All You Can Play'
-# **Intermission 4**
-## **** MOTi - 'Just Don't Know It Yet'
-## **** Universal Kids - 'Power Birds 2'
+# <b>Intermission 4</b>
+## <b></b> MOTi - 'Just Don't Know It Yet'
+## <b></b> Universal Kids - 'Power Birds 2'
 ## Fun Songs - 'He's Mr. Munch'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Fun Songs - 'Jasper T. Jowls'
 ## JD McCary - 'Keep In Touch'
-## **** Nigel & Ronnie - 'The Fly'
-# **Skit 5**
+## <b></b> Nigel & Ronnie - 'The Fly'
+# <b>Skit 5</b>
 ## Chuck E. & Friends - 'Chuck E.'s Place'
 
-## Live Shows: ##
+<h2> Live Shows: </h2>
 
 * Birthday Star Spectacular 2018 (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Star Spectacular Spanish 2018 (3stage, Cyberamic, Studio C,Weigl)
@@ -74,15 +74,15 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 * Head Shoulders Knees and Toes (Studio C, Weigl)
 * Happy and You Know It (Studio C, Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Official Releases##
+<h2>Official Releases</h2>
 
 * [https://www.youtube.com/watch?v=mBGD_-LbBJs 'Game On' on YouTube]
 * [https://www.youtube.com/watch?v=daBaq2zk2Rs 'Disco Dancing Dinosaur Party' on YouTube]
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day' is originally from Chuck E. Cheese's Show 1 2018 (Show 1 2018), 'Play All You Can Play' is originally from Chuck E. Cheese's Show 3 2019 (Show 3 2019), and 'Chuck E's Place' is originally from Chuck E. Cheese's Show 3 2017 (Show 3 2017).
 * Chuck E.'s Place had its intro cut from the show due to it being related to the 40th Years of Fun promotion. Strangely, the 'Wink' jingle was also kept for Studio C locations despite those locations not having a Wink.

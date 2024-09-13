@@ -8,11 +8,11 @@ date = 2024-07-29T15:31:34Z
 contributors = ["Documentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{Showtape|title=Summer Show 2024|image=Summer2024image.png|date=April 29th, 2024|studiochdnetwork=y|studiocnetwork=y|cybernetwork=y|3stagenetwork=y}}
 
-**_Chuck E. Cheese Summer Show 2024**_ was a summer show released on April 29, 2024, and ran until July 7th. It features 'I Love Sparkles' and 'Together We've Got It'
 
-## Show List: ##
+<b><i>Chuck E. Cheese Summer Show 2024</b></i> was a summer show released on April 29, 2024, and ran until July 7th. It features 'I Love Sparkles' and 'Together We've Got It'
+
+<h2> Show List: </h2>
 
 # Intermission 1
 ## Off Road with Chuck E. Episode 3
@@ -20,9 +20,9 @@ gallery = []
 ## Chuck E. & Friends - 'Fireworks Tonight'
 ## KIDZ BOP Kids - 'Yes, And'
 ## Chuck E. & Helen - 'I Dare You Not to Laugh'
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. & Friends - 'I Love Sparkes'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## Chuck E. & Friends - 'Down the Road'
 ## Chuck E. & Friends - 'Most Perfect Day'
 ## Tenacious D - 'Baby One More Time'
@@ -38,9 +38,9 @@ gallery = []
 ## Chuck E. & Friends - 'Song of Summer'
 ## Chuck E. & Friends - 'Ves Al Ratoncito'
 ## DJ Munch - 'Join the Party'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Together We've Got It'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Jasper T. Jowls - 'Wash the Bus'
 ## KIDZ BOP Kids - 'TQG'
 ## Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -52,7 +52,7 @@ gallery = []
 ## Chuck E. Cheese - 'Too many Pigs in the Pool'
 ## KIDZ BOP Kids - 'Cruel Summer'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)

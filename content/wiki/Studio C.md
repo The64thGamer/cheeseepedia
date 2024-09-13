@@ -5,30 +5,31 @@ tags = ["Animatronic Shows"]
 date = 2024-08-12T22:08:08Z
 
 [Article]
+pageThumbnailFile = "Studio-C Plano.png|Studio 'C' (1997) in Plano, TX (1999/2000)"
 contributors = ["The Nonfictional Explainer","Sponch man","Himitsu","The 64th Gamer","Chouts1","CECBowlingGreen","BurgersNuggs445","Stripes","Jaxon11","Documentor","Mr afton","Ceclife13","EagleScout610","AstridMascotFan2005","ItaintObeeezy","Avabeckley","Livelycheese"]
 gallery = []
 +++
-{{Generic|image=Studio-C Plano.png|desc=Studio 'C' (1997) in Plano, TX (1999/2000)}}
 
-The **Studio C** concept is a stage concept found at Chuck E. Cheese's locations that opened from 1997-2012, or replaced a previous stage. Starting with the Studio C (1997), which was installed from 1997-2002 2012 & 2015, then Studio C 2000,which was installed from 2000-2012,then the Small-Town Studio C, which was installed from 2003-2006.
-##History##
+
+The <b>Studio C</b> concept is a stage concept found at Chuck E. Cheese's locations that opened from 1997-2012, or replaced a previous stage. Starting with the Studio C (1997), which was installed from 1997-2002 2012 & 2015, then Studio C 2000,which was installed from 2000-2012,then the Small-Town Studio C, which was installed from 2003-2006.
+<h2>History</h2>
 In 1997 the Awesome Adventure Machine is considered a failure among Showbiz and is mostly scrapped as a concept. But one of the concepts from this that survived is the one Animatronic entertainment. Showbiz consult several different clients to create Animatronics for the new generation  and ultimately landed on Garner Holt Productions. GHP (Garner Holt Productions) created the [Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}}), [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}), [Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}}), and some of the props for the shows.
-##Design##
+<h2>Design</h2>
 The regular Studio C show contains one Chuck E. Animatronic and video monitors.
-##Tech##
-###Animatronics###
+<h2>Tech</h2>
+<h2>=Animatronics</h2>=
 *[Chuck E. Cheese 32m (Animatronic)]({{< ref "wiki/Chuck E Cheese 32m (Animatronic).md" >}})
 *[Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}})
 *[Bird (Animatronic)]({{< ref "wiki/Bird (Animatronic).md" >}})
-###Hardware###
+<h2>=Hardware</h2>=
 *[Studio C Tech Term]({{< ref "wiki/Studio C Tech Term.md" >}}) - Device used for testing DTUs in Studio C.
 *[Studio C Control System]({{< ref "wiki/Studio C Control System.md" >}}) - The base control system most Studio C shows before 2012 run off of.
 *[Studio C HD Weigl Control System]({{< ref "wiki/Studio C HD Weigl Control System.md" >}}) - Introduced in the summer of 2012 with the [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) show
 *CEC Showtape Networking Module - Newest device sent out to replace all Studio C systems by October 2022.
-###Software###
+<h2>=Software</h2>=
 *[Cyberstar 2000]({{< ref "wiki/Cyberstar 2000.md" >}}) -
 *Studio C Interactive Software
-##Stages##
+<h2>Stages</h2>
 *Studio C (1997): 8 left as of August 2024
 *Studio C 2000 Prototype: Extinct as of July 2024
 *Studio C 2000: 30 left as of August 2024

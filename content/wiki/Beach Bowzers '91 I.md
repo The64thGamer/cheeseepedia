@@ -13,10 +13,10 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |date=March, 1991
 |cabaretshow=y|pttreel=y}}
 
-**_Beach Bowzers '91 I**_ is a showtape released for the Beagles / Beach Bowsers (Lounge) in March of 1991.
-##Production##
+<b><i>Beach Bowzers '91 I</b></i> is a showtape released for the Beagles / Beach Bowsers (Lounge) in March of 1991.
+<h2>Production</h2>
 
-### Master Tape ###
+<h2>= Master Tape </h2>=
 The Master SVHS Tape for the show contains no signals, and states '3/11/91' during its intro, likely the date it was mastered. This date matches up with the APS modified dates for its files, which usually correspond to when programming was finished. Due to it being one of the few shows of the time to not contain any video, custom video is provided stating throughout:
  ELEMENT
  MASTER
@@ -24,10 +24,10 @@ The Master SVHS Tape for the show contains no signals, and states '3/11/91' duri
  
  SONG (Song Number)
 
-### APS Files ###
+<h2>= APS Files </h2>=
 The show was a part of the [1990-1992 APS Floppy Cases]({{< ref "wiki/1990-1992 APS Floppy Cases.md" >}}), being split across two tapes. Other unrelated files are amongst the disks, such as the Road Stage random movements, [Birthday Star '92]({{< ref "wiki/Birthday Star '92.md" >}}) live for C&R and Road Stages, and the TV intro segment for both Cyberamics and 3-Stage.
 
-#### Floppy Disk Label ####
+<h2>== Floppy Disk Label </h2>==
 The labels on the two floppies the files appear in states
  .APS files
  BEACH BOWZERS #1
@@ -49,7 +49,7 @@ The labels on the two floppies the files appear in states
  *TVINTRO.HLF
  TVINTRO.3ST disk #91-5
 
-#### Files ####
+<h2>== Files </h2>==
 {| class='wikitable'
 !File Name
 !Size (bytes)
@@ -129,27 +129,27 @@ The labels on the two floppies the files appear in states
 |2:40
 |}
 
-##Show List##
-#**** **Segment 1**
+<h2>Show List</h2>
+#<b></b> <b>Segment 1</b>
 ##[https://en.wikipedia.org/wiki/California_Girls California Girls]
-#**** **Segment 2**
-##_[https://en.wikipedia.org/wiki/Little_Deuce_Coupe_(song) Little Deuce Coupe]_
-#**** **Segment 3**
+#<b></b> <b>Segment 2</b>
+##<i>[https://en.wikipedia.org/wiki/Little_Deuce_Coupe_(song) Little Deuce Coupe]</i>
+#<b></b> <b>Segment 3</b>
 ##[https://en.wikipedia.org/wiki/Surfer_Girl_(song) Surfer Girl]
-#**** **Segment 4**
+#<b></b> <b>Segment 4</b>
 ##[https://en.wikipedia.org/wiki/Help_Me,_Rhonda Help Me, Rhonda]
-#**** **Segment 5**
+#<b></b> <b>Segment 5</b>
 ##[https://en.wikipedia.org/wiki/Do_You_Want_to_Dance Do You Want to Dance]
-#**** **Segment 6**
+#<b></b> <b>Segment 6</b>
 ##[https://en.wikipedia.org/wiki/I_Get_Around I Get Around]
-#**** **Segment 7**
+#<b></b> <b>Segment 7</b>
 ##[https://en.wikipedia.org/wiki/Surf_City_(song) Surf City]
-#**** **Segment 8**
+#<b></b> <b>Segment 8</b>
 ##[https://en.wikipedia.org/wiki/Barbara_Ann Barbara Ann]
-#**** **Segment 9**
+#<b></b> <b>Segment 9</b>
 ##[https://en.wikipedia.org/wiki/Surfin%27_U.S.A. Surfin' U.S.A.]
-#**** **Segment 10**
+#<b></b> <b>Segment 10</b>
 ##[https://en.wikipedia.org/wiki/Fun,_Fun,_Fun Fun, Fun, Fun]
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 *

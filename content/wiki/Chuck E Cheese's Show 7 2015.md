@@ -18,43 +18,43 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 7 2015**_ released November 2nd 2015 featuring five songs
+<b><i>Show 7 2015</b></i> released November 2nd 2015 featuring five songs
 
 This was created to play from November 2nd 2015 - December 27th 2015. This show features 5 songs! Which is the most for 2015. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ##  One Direction - 'Drag Me Down'
 ## CEC Promo - 'Fundraising'
 ##  Josh & The Jamtones - 'Great Big World' (Live at Chuck E. Cheese's)
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Chuck E. Cheese - 'Let's Play Some Games'
-#  **Intermission 2** 
+#  <b>Intermission 2</b> 
 ## Pentatonix feat. Tori Kelly - 'Winter Wonderland/Don't Worry Be Happy'
 ## Cartoon Network - Adventure Time - 'Once a Year'
 ## Bruno Mars - 'Treasure'
 ## CEC Promo - 'Mac Cheesy'
 ## Train - 'Shake up Christmas'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?'
-#  **Intermission 3** 
+#  <b>Intermission 3</b> 
 ## Ed Sheeran - 'Photograph'
 ## Cartoon Network - Teen Titans Go - 'Christmas'
-# **Skit 3** 
+# <b>Skit 3</b> 
 ## Jasper T. Jowls - 'Snowman'
-#  **Intermission 4** 
+#  <b>Intermission 4</b> 
 ## Mariah Carey - 'All I Want For Christmas Is You'
 ## Josh & The Jamtones - 'Chanukah Time'
 ## CEC Promo - 'Party Galaxy App'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Helen - 'Very Merry Christmas'
-#  **Intermission 5** 
+#  <b>Intermission 5</b> 
 ## American Authors - 'Go Big or Go Home'
 ## Cartoon Network - We Bare Bears - 'Feel Good Montage'
 ## CEC Promo - 'Birthday Spot'
 ## Cartoon Network - Steven Universe - 'Snow'
-#  **Skit 5**
+#  <b>Skit 5</b>
 ## Chuck E. & Friends - 'Holiday Medley'
 ### Jingle Bells
 ### Jolly Old St. Nicholas
@@ -62,13 +62,13 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 ### Up On The Housetop
 ### Deck the Halls
 ### We Wish You a Merry Christmas
-#  **Intermission 6** 
+#  <b>Intermission 6</b> 
 ## Josh & The Jamtones - 'Tailfeather' (Live at Chuck E. Cheese's)
 ## Cartoon Network - Gumball Universe - 'Santa'
 ## Cee Lo & The Muppets - 'All You Need Is Love'
 ## Alvin, The Chipmunks, The Road Chip - 'Pit Stop at CEC' (Film Clip)
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -79,10 +79,10 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 * Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
 * Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * The '(Live at Chuck E. Cheese's)' Intermission was filmed at the Natick, MA Chuck E. Cheese's on June 29th 2015.
 * Share The Joy (2014) exists in its entirety on the Studio C SD DVD however the show is programmed to loop back to Intermission 1 before it ever plays.

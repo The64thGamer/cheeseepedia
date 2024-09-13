@@ -5,23 +5,24 @@ tags = ["Store List"]
 date = 2024-03-14T04:30:42Z
 
 [Article]
+pageThumbnailFile = "Harrisburg's exterior when new..png|Harrisburg Exterior (1992-1998/1999?)"
 contributors = ["ChuckECool","Bowling for Cheese","Rexburg090","Cecnj98","Cheezy","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=Harrisburg's exterior when new..png|desc=Harrisburg Exterior (1992-1998/1999?)}}
 
-**_3883 Union Deposit Rd, Store #964 i**_s a _Chuck E. Cheese_ that opened on June 29, 1992, as a franchised owned _Chuck E. Cheese's Pizza_ with a 2-Stage which is still open (under corporate management) to this day. It is located in the Union Square Shopping Center.
+
+<b><i>3883 Union Deposit Rd, Store #964 i</b></i>s a <i>Chuck E. Cheese</i> that opened on June 29, 1992, as a franchised owned <i>Chuck E. Cheese's Pizza</i> with a 2-Stage which is still open (under corporate management) to this day. It is located in the Union Square Shopping Center.
 
 It should not be confused with the Pizza Time Theatre Harrisburg, PA (4203-4275 Union Deposit Rd) (location) which opened in 1983 and closed in 1988 with a Balcony Stage.
 
 When this store first opened, it had a unique logo on the exterior (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the road sign of the [West Mifflin]({{< ref "wiki/West Mifflin, PA (2260 Lebanon Church Rd).md" >}}) & the [original Bridgeville PA]({{< ref "wiki/Bridgeville, PA (1025 Washington Pike).md" >}}) location. 
-##History##
+<h2>History</h2>
 Harrisburg opened on June 29, 1992 as a franchised-owned Chuck E. Cheese's Pizza. They opened with the 1992 update of the 1986 SPT Remodel Program (1988 Remodel) including the CU decor/wall art, Record Posters, the ball crawl, blue and white awnings above the salad bar, checkers on the walls and on the exterior, and the 2-Stage. Not long after opening, the store was featured in the CEC cast member highlight reel alongside 8 other locations (Harrisburg was one of two in Pennsylvania to be featured in these highlights). On September 16th, 1996; The store was bought out by Corporate alongside 18 other locations. They got shelves in the showroom in 1997. Around the late 1990s, they removed older 90's decor/wall art for newer [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) decor/wall art, the Blue and White awnings and checkers around the store were removed as well as the ball crawl for SkyTubes.  
 
 In Spring 2001, Harrisburg received an expansion of the store in the back and remodeled to [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}). The 2-Stage was removed for the expansion and the back wall of the store where the 2-Stage once stood was broken down for new space. They installed a 32m Studio C 2000 (Studio C Beta) on the right side wall in the new expanded space and put a new gameroom where the showroom previously was. They also replaced the logo with Coach Chuck and put new red and yellow awnings for the exterior of the store (but kept the 'Pizza' after Chuck E. Cheese's). With their new expanded showroom, Harrisburg had a mixture of MustCTV posters and Record Posters they had prior to the remodel. They received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008, which involved the removal of the showroom walls, removing older decor/wall art for newer decor/wall art, new booths, new exterior removing 'Pizza' after Chuck E. Cheese's and the Peeler Rose Chuck logo design, installing fluorescent lighting & adding purple walls. 
 
 Harrisburg remained like this until they received the 2.0 Remodel in August 2022 removing their Studio C 2000, 32m for a Dance Floor and Video Wall which involved moving an emergency exit door towards the left and the show to the back wall; where the Studio C was installed is now more seating. During the 2.0 remodel and removal of the awnings, you could actually see the 90's checkers that were never removed after they put the awnings. Sadly however, they were repainted during the remodel and there are just white tiles now. As of June 2023, Harrisburg still has the 2.0 Remodel and 2021 Model Dance Floor and Video Wall.
-##Stages##
+<h2>Stages</h2>
 Like all 2-Stages at the time, Chuck wore his Tuxedo & Derby outfit. In 2001, the 2-Stage was replaced with the Studio C Beta, 32m.
 
 The stage was removed in August 2022 for a Dance Floor and Video Wall during their 2.0 Remodel.
@@ -48,7 +49,7 @@ As of February 2023, Harrisburg still has the 2021 Model Dance Floor and Video W
 |Still in use
 |2021 Model. 2nd 2021 2.0 in the state.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -97,7 +98,7 @@ As of February 2023, Harrisburg still has the 2021 Model Dance Floor and Video W
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

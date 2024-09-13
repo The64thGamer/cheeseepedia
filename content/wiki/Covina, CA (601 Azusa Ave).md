@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-07-07T07:24:54Z
 
 [Article]
+pageThumbnailFile = "Covina's Exterior in 2024.jpg|Covina's exterior in May 2024. (PC: Google Maps)"
 contributors = ["ChuckECool","CorrectorMan","CECcovinaca","Chez","Cheeseclassic","ThatBoiCydalan","Estsproduction","Stripes","Snowbobsuperboi"]
 gallery = []
 +++
-{{Generic|image=Covina's Exterior in 2024.jpg|desc=Covina's exterior in May 2024. (PC: Google Maps)}}
-**_601 Azusa Ave**_ is a _Chuck E. Cheese's_ which opened in August 1980 (day unknown) as a _Pizza Time Theatre_ with a Cyberamics Portrait / Shelf Stage (Portrait Stage), which is still open to this day.
+
+<b><i>601 Azusa Ave</b></i> is a <i>Chuck E. Cheese's</i> which opened in August 1980 (day unknown) as a <i>Pizza Time Theatre</i> with a Cyberamics Portrait / Shelf Stage (Portrait Stage), which is still open to this day.
 
 It is known as the second oldest CEC store in the world.
-##History##
+<h2>History</h2>
 Covina opened its doors in August 1980 (day unknown) with the Cyberamics Portrait / Shelf Stage (Portrait Stage) show like every other pre-1981 PTT did. It was also originally a franchised location. In 1981 or 1982, they received a minor remodel involving expanding the store, replacing the logo, and removing the Portrait Stage for the [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). On October 22nd, 1984, the location was bought by the corporate along with many other locations.
 
 In either 1989 or 1990, Covina received the 1988 remodel removing the older PTT decor, adding newer decor, and removed the Balcony Stage for [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
@@ -28,7 +29,7 @@ The location also had the last helicopter lights but were removed in August 2022
 In the summer of 2023, the stage was stuck in random mode. This was likely due to a technical error with the Navori system that affected other locations. The location would remain like this until getting the 2.0 remodel. 
 
 In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel), and had removed its 2-Stage in favor for a Chuck E. Live Stage (Dance Floor) (Dance Floor) + [Video Wall]({{< ref "wiki/Video Wall.md" >}}).
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -60,7 +61,7 @@ In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel)
 |Still in Use
 |One of many installed in California, 2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -109,4 +110,4 @@ In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel)
 
 
 
-## References ##
+<h2> References </h2>

@@ -9,12 +9,12 @@ contributors = ["The 64th Gamer","DerekCat"]
 gallery = ["B582075723bea0d1ee8e0c80fec7634d.png|thumb|454x454px|Showbiz Pizza Program 5"]
 +++
 
-**_Showbiz Pizza Program 5**_ is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.
+<b><i>Showbiz Pizza Program 5</b></i> is a music cassette released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.
 
-These programs were still produced by _Sight & Sound Entertainment Corporation_, however the company would be merged into _Audio Environments Inc.,_ rebranding as _AEI Music_. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as _Inflight Audio Entertainment_, and each gave the address of AEI Music Network Inc. at the bottom of the label.
-##Releases##
+These programs were still produced by <i>Sight & Sound Entertainment Corporation</i>, however the company would be merged into <i>Audio Environments Inc.,</i> rebranding as <i>AEI Music</i>. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as <i>Inflight Audio Entertainment</i>, and each gave the address of AEI Music Network Inc. at the bottom of the label.
+<h2>Releases</h2>
 TODO: Releases
-##Song List##
+<h2>Song List</h2>
 
 # [https://en.wikipedia.org/wiki/All_Summer_Long_(album) All Summer Long]
 # [https://en.wikipedia.org/wiki/The_Drifters%27_Golden_Hits Under the Boardwalk]
@@ -35,5 +35,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/A_Summer_Song A Summer Song]
 # [https://en.wikipedia.org/wiki/Up,_Up_and_Away_(song) Up, Up, and Away]
 
-##References##
+<h2>References</h2>
 <references />

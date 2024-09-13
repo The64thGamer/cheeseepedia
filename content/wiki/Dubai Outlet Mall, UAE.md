@@ -5,16 +5,17 @@ tags = []
 date = 2024-07-16T21:00:42Z
 
 [Article]
+pageThumbnailFile = " Chuckecheesedubaiuaeexterior.jpg|Exterior before closure"
 contributors = ["Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}}{{Generic|image= Chuckecheesedubaiuaeexterior.jpg|desc=Exterior before closure}}
-**_Dubai Outlet Mall, U.A.E.**_ was a _Chuck E. Cheese's_ that opened on May 29, 2008 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and closed on July 14, 2024.
 
-##Stage##
+<b><i>Dubai Outlet Mall, U.A.E.</b></i> was a <i>Chuck E. Cheese's</i> that opened on May 29, 2008 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and closed on July 14, 2024.
+
+<h2>Stage</h2>
 W.I.P
 
-##History##
+<h2>History</h2>
 W.I.P
 
 

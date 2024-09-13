@@ -17,38 +17,38 @@ gallery = []
 |dvdcyber=y
 }}
 
-**April 2010** is the spring show released April 2010. Featuring 8 new songs.
+<b>April 2010</b> is the spring show released April 2010. Featuring 8 new songs.
 
 This show played from April - June 2010.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Ray Of Sunshine'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Backstage Pass - Mitchel Musso
 ## Fun Facts - 'Statue of Liberty Gum'
 ## The Zula Patrol - 'Animal Adventures In Space'
 ## Sound Splosion - Say Hey (I Love You) Kidz Bop
 ## CEC TV ID - 'Breakdance'
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Imagination'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## It's Party Time - 'Puppy Party'
 ## Caspar Babypants - 'Itsy Bitzy Spider'
 ## The Zone - 'Amateur Beat Boxing'
 ## Trivia - 'Largest Ocean'
 ## The Dirty Sock Funtime Band - 'Treasure'
 ## CEC TV ID - 'Aquarium' 
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'A Million Tries'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Word World - 'Runaway O'
 ## Sound Splosion - Mitchel Musso - 'Shout It'
 ## Busytown Mysteries - 'The Invisible Cake Snatcher' 
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Poor Little Pluto'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Fun Facts - 'Dolphins'
 ## VeggieTales - 'Where Have All The Staplers Gone?'
 ## Dan Zanes - 'All Around The Kitchen'
@@ -56,18 +56,18 @@ This show played from April - June 2010.
 ## Pocoyo - 'Double Bubble'
 ## Will & Dewitt - 'My New Boots'
 ## CEC TV ID - 'Skee Ball'
-# **Segment 5** 
+# <b>Segment 5</b> 
 ## 'Ain't Nothing Wrong With That'
-# **Intermission 5** 
+# <b>Intermission 5</b> 
 ## Backstage Pass - 'Justin Bieber'
 ## Fun Facts - 'The Queen of England's Birthday'
 ## Dive Olly Dive! - 'Beth's Backfire'
 ## Allstar Weekend - 'A Different Side of Me'
 ## CEC TV ID - 'Parachute'
 ## Lassie
-# **Segment 6** 
+# <b>Segment 6</b> 
 ## 'This is a Party'
-# **Intermission 6** 
+# <b>Intermission 6</b> 
 ## CEC TV ID - 'Sports'
 ## Animal Atlas - 'Animals and Us'
 ## Caspar Babypants - 'The Island Hop'
@@ -76,26 +76,26 @@ This show played from April - June 2010.
 ## Eric Herman - 'My Lucky Day'
 ## CEC TV ID - 'Digital Blue'
 ## The Dirty Sock Funtime Band - 'Music Everywhere'
-# **Segment 7** 
+# <b>Segment 7</b> 
 ## 'Soul Sista'
-# **Intermission 7** 
+# <b>Intermission 7</b> 
 ## Word World - 'Runaway O'
 ## Ralph's World - 'Fee Fi Fo Fum'
 ## Fun Facts - 'Police Dogs'
 ## Pocoyo - 'Double Bubble'
 ## Dan Zanes - 'Festival Smile Smile'
 ## CEC TV ID - '1950s Astronaut' 
-# **Segment 8** 
+# <b>Segment 8</b> 
 ## 'It's Magic'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## It's Party Time - 'Puppy Party'
 ## Busytown Mysteries - 'Huckle! Where's My Apple Car?' 
 ## The Zula Patrol - 'Hey!, I'm A Butterfly'
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Program (3stage, Cyberamic, Studio C)
 * Chuck E. Says (Studio C)
@@ -108,13 +108,13 @@ This show played from April - June 2010.
 * Story Time with Chuck E. (Studio C)
 * Dancin' (Studio C)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 * There is no CEC TV logo for this show. Instead, the footage of the Studio C puppets appear on all versions of this show including those for Existing Stages.
 * The AM/PM show schedule is discontinued starting with this show. Instead of swapping to a different set of segments, the show would play continuously from opening to closing.
 * This was the first show released where the Studio C version would have the puppet footage be part of the main footage instead of separate.
 * This was the only show that was specifically programmed for it's [Star Stage]({{< ref "wiki/Star Stage.md" >}}) equivalent which was being tested at the time.
 * Due to the amount of content on the existing DVD the live shows had to be put on a seperate DVD. But allowed stores to use the January 2010 DVD for live shows. It is currently unknown what lives were on the DVD. 
-* According to the _Valid Shows_ section of the newsletter it states that the 'January Show Floppy' was allowed but doesn't mention the DVD for Studio C.
+* According to the <i>Valid Shows</i> section of the newsletter it states that the 'January Show Floppy' was allowed but doesn't mention the DVD for Studio C.
 * This is the only show in 2010 to have featured new content. 
 * A brand new DVD #3 for Studio C was released for this show adding the current birthday show (Birthday 09), new diagnostics for 16m and 32m bots, <ref>http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf</ref>
 * *”A Million Tries”,”Poor Little Pluto”,”This is A Party”, “Imagine Nation” were written by Dave Wilson for this show.

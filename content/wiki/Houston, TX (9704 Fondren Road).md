@@ -9,11 +9,11 @@ contributors = ["Pizzaman49","Cheeseclassic","CEC Kokomo"]
 gallery = ["After closure.png|thumb|After closure PC: Loopnet"]
 +++
 
-**_9704 Fondren Road**_ was a Pizza Time Theatre that opened in 1982 (day and month unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in Fall 1984.
-## History ##
+<b><i>9704 Fondren Road</b></i> was a Pizza Time Theatre that opened in 1982 (day and month unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), and closed in Fall 1984.
+<h2> History </h2>
 Houston, TX (Fondren) opened in 1982 as a Pizza Time Theater with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and had the 1981 remodel. This location has no pictures from when it was open. It is not confirmed if they had The King or Dolli Dimples. Unfortunately it closed in 1984 for underperformance. After closure, the building was abandoned with a 'Saba's' and a daycare taking over part of the former space. A barbershop took over the entrance. Years later, the barbershop closed and still sits vacant to this day. 
 
-## Stages ##
+<h2> Stages </h2>
 When they were opened, they only had a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). After closure, the bots were either destroyed, sent to another location, or placed in storage.
 {| class='wikitable'
 |+
@@ -26,12 +26,12 @@ When they were opened, they only had a [Balcony Stage]({{< ref "wiki/Cyberamics 
 |Fall 1984
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
-|**Animatronics**   
-|**Manufacturing Date**  
-|**Status** 
+|<b>Animatronics</b>   
+|<b>Manufacturing Date</b>  
+|<b>Status</b> 
 |-
 |Chuck E. Cheese (Cyberamic) (Chuck E Cheese (Cyberamic))
 !Unknown

@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-07-29T03:24:00Z
 
 [Article]
+pageThumbnailFile = "Fairfax VA CEC exterior.jpg|Exterior, 2021"
 contributors = ["ChuckECool","ThatBoiCydalan","Documentor","CECMadison","Cecnj98"]
 gallery = []
 +++
-{{Generic|image=Fairfax VA CEC exterior.jpg|desc=Exterior, 2021}}
-**_Fairfax, VA (9404 Main St), Store #84**_ is a _Showbiz Pizza Place_/_Chuck E. Cheese in Fairfax Virginia_.
+
+<b><i>Fairfax, VA (9404 Main St), Store #84</b></i> is a <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese in Fairfax Virginia</i>.
 
 This location opened on December 22, 1983 with a Rock-Afire Explosion and it's still open to this day.
 
 It's located in the Pickett Shopping Center.
-##History ##
+<h2>History </h2>
 Fairfax originally opened on December 22nd, 1983, as the 4th Showbiz Pizza Store in Virginia as part of the expansion of the center it was in. Fairfax originally featured the Rock-Afire Explosion, as were all the other Showbiz locations. Fairfax would have it for a few years, but before Concept Unification, their exterior was unique as it had no Showbiz Pizza logo, but it did have the stripes near the entrance. until around 1991 or 1992, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-Afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. In the Late 1990's, the store would receive the Phase 2 Remodel, removing older decor for newer decor, an exterior logo was added, and SkyTubes. In 2000, the 3-Stage was removed for the Studio C Alpha. Around the 2006/2007, Fairfax remodeled to the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the Showroom walls being torn down, the relocation of the Salad Bar, the removal of old decor for newer decor, logo exterior change, and road sign change. Fairfax remained like this until in October 2018 when they started their 2017 2.0 Remodel Program (2.0 Remodel) which involved the removal of the Alpha for a 2017 Model Dance Floor + Video Wall. As of August 2023, Fairfax still has the 2.0 Remodel and 2017 Model Dance Floor + Video Wall.
-##Stages##
+<h2>Stages</h2>
 Originally, Fairfax featured a Rock-Afire Explosion, as were all the other Showbiz locations. 
 
 In 1991/1992, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage.
@@ -50,7 +51,7 @@ In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wa
 |Still In Use
 |2017 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 ! Serial
@@ -123,7 +124,7 @@ In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wa
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Link
@@ -138,8 +139,8 @@ In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wa
 |Earliest known footage of Fairfax's CU 3-Stage in 1991.
 |Summer 1991
 |-
-|[https://www.youtube.com/shorts/lfM-YoQusfA https://youtu.be/lfM-YoQusfA]
-|Clip of the show performing _Nobody Knows_ from [The Chuck E. Cheese Show]({{< ref "wiki/The Chuck E Cheese Show.md" >}}).
+|[https:<i>www.youtube.com/shorts/lfM-YoQusfA https:</i>youtu.be/lfM-YoQusfA]
+|Clip of the show performing <i>Nobody Knows</i> from [The Chuck E. Cheese Show]({{< ref "wiki/The Chuck E Cheese Show.md" >}}).
 |February/March 2016
 |-
 |https://youtu.be/9CysCUh4I20
@@ -147,7 +148,7 @@ In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wa
 |Summer 2017
 |-
 |https://youtu.be/bTszuZFpxUo
-|The show performing _Friendship Never Ends_ from [The Chuck E. Cheese Show]({{< ref "wiki/The Chuck E Cheese Show.md" >}}).
+|The show performing <i>Friendship Never Ends</i> from [The Chuck E. Cheese Show]({{< ref "wiki/The Chuck E Cheese Show.md" >}}).
 |July 31st, 2017
 |-
 |https://youtu.be/ldyussyja4M

@@ -12,46 +12,46 @@ gallery = []
 |date=Late 1982
 |showbizreel=y|image=Showselecttape1thumbnail.png}}
 
-**SPP Show Selector Tape #1** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Late 1982.
+<b>SPP Show Selector Tape #1</b> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Late 1982.
 
-##Show List##
-#**Segment 1** 
-##_Goin' Crazy / My Love_
-#**Segment 2** 
-##_Elvis Medley_
-###_Blue Suede Shows_
-###_All Shook Up_
-###_Teddy Bear_
-###_Hound Dog_
-###_Burning Love_
-###_It's Now Or Never_
-###_Return to Sender_
-###_Puppet on a String_
-###_Fools Rush In_
-#**Segment 3**
-##_Louisiana_
-#**Segment 4**
-##_Tomorrow_
-###_Tomorrow_
-###_Maybe_
-#**Segment 5**
-##_Child of the Rock_
-#**Segment 6**
-##_Goofy Gas_
-#**Segment 7**
-##_Abbey Road Medley_
-###_You Never Give Me Your Money_
-###_Sun King_
-###_Mean Mr. Mustard_
-###_Polythene Pam_
-###_She Came in Through the Bathroom Window_
-###_Golden Slumbers_
-###_Carry That Weight_
-###_The End_
-###_Her Majesty_
-#**Segment 8**
-##_Why Can't Everyday Be Like Christmas_
-#**Segment 9**
-##_Disco Christmas_
-#**Segment 10**
-##_In December (Original Demo Version)_
+<h2>Show List</h2>
+#<b>Segment 1</b> 
+##<i>Goin' Crazy / My Love</i>
+#<b>Segment 2</b> 
+##<i>Elvis Medley</i>
+###<i>Blue Suede Shows</i>
+###<i>All Shook Up</i>
+###<i>Teddy Bear</i>
+###<i>Hound Dog</i>
+###<i>Burning Love</i>
+###<i>It's Now Or Never</i>
+###<i>Return to Sender</i>
+###<i>Puppet on a String</i>
+###<i>Fools Rush In</i>
+#<b>Segment 3</b>
+##<i>Louisiana</i>
+#<b>Segment 4</b>
+##<i>Tomorrow</i>
+###<i>Tomorrow</i>
+###<i>Maybe</i>
+#<b>Segment 5</b>
+##<i>Child of the Rock</i>
+#<b>Segment 6</b>
+##<i>Goofy Gas</i>
+#<b>Segment 7</b>
+##<i>Abbey Road Medley</i>
+###<i>You Never Give Me Your Money</i>
+###<i>Sun King</i>
+###<i>Mean Mr. Mustard</i>
+###<i>Polythene Pam</i>
+###<i>She Came in Through the Bathroom Window</i>
+###<i>Golden Slumbers</i>
+###<i>Carry That Weight</i>
+###<i>The End</i>
+###<i>Her Majesty</i>
+#<b>Segment 8</b>
+##<i>Why Can't Everyday Be Like Christmas</i>
+#<b>Segment 9</b>
+##<i>Disco Christmas</i>
+#<b>Segment 10</b>
+##<i>In December (Original Demo Version)</i>

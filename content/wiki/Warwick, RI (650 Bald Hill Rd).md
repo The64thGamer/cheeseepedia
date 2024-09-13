@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-08-11T01:41:05Z
 
 [Article]
+pageThumbnailFile = "Warwick10sExterior.jpg|Warwick's Exterior before the 2.0 remodel (2023) (PC: Jeff Foxx)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","Blowseborg062","2600:4040:5A0E:D900:BC6D:7734:18F9:173A","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","2600:4040:5A0E:D900:B9F0:1AB4:4E45:7495","2600:4040:5A0E:D900:80EC:F561:38B:60E","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","Documentor"]
 gallery = []
 +++
-{{Generic|image=Warwick10sExterior.jpg|desc=Warwick's Exterior before the 2.0 remodel (2023) (PC: Jeff Foxx)}}
-**_650 Bald Hill Rd, Store #645**_ is a _Chuck E. Cheese's_ located in the Midland Commons Shopping Center in Warwick, Rhode Island, as a freestanding building. It opened on March 6, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
+
+<b><i>650 Bald Hill Rd, Store #645</b></i> is a <i>Chuck E. Cheese's</i> located in the Midland Commons Shopping Center in Warwick, Rhode Island, as a freestanding building. It opened on March 6, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}).
 
 This is not to be confused with the [Warwick, RI (1960 Post Rd)]({{< ref "wiki/Warwick, RI (1960 Post Rd).md" >}}) location, which opened in June 1984 and closed in Late 1990. It then relocated to [Warwick, RI (1245 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (1245 Bald Hill Rd).md" >}}), opening in Late 1990, and closed in November 19, 1994.
 
-##History##
+<h2>History</h2>
 The location opened March 6, 2000 in a freestanding building just outside the Rhode Island Mall (Now Midland Commons Shopping Center) with the [SPT 1992 Remodel Program]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) as the first in CEC Rhode Island since the closure of [Warwick, RI (1245 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (1245 Bald Hill Rd).md" >}}). This would be the first location in New England to receive any kind of Studio C stage.
 
 On October 1, 2012 Warwick begin the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). During the remodel, all aspects of previous remodels would be removed. Being replaced with the standard by 2012.<ref>https://www.instagram.com/p/BWxrCCRA4u3/</ref>  
@@ -23,7 +24,7 @@ Between April-May 2017, the Skytubes would be removed, Between July-August, Toke
 On April 27, 2024, the Trampoline Zone was installed.<ref>https://www.youtube.com/watch?v=3gnHV6I7wrc</ref> 
 
 On July 8, 2024, the store would begin its CEC 2018 2.0 Remodel Program (2.0 Remodel), removing the stage for a [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor).
-##Stages##
+<h2>Stages</h2>
 The store would open March 6, 2000 debuting with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). The Late Night Outfit would be removed and replaced with the Avenger outfit on April 30, 2011. In October 2012, the [Interactive Console]({{< ref "wiki/Interactive Console.md" >}}) and Bluescreen would be removed and replaced with CEC Panel and Ticket Blaster backdrop respectively due to [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). Chuck's cap would be removed in September 2013. and in July 2014 the curtains would be disabled. On July 8, 2024, the [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) would be removed in favor of the [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor) as a part of its CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
 Warwick was the last location to have the rubber eyelashes, excluding Corporate.
@@ -49,7 +50,7 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 |Still in Use
 |2021 Model.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -69,7 +70,7 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 |Unknown
 |}
 
-## Walkarounds ##
+<h2> Walkarounds </h2>
 {| class='wikitable'
 !Head
 !Outfit & Suits
@@ -84,7 +85,7 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -174,4 +175,4 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 |Warwick getting ready to install their trampoline.
 |April 26, 2024
 |}
-##References##
+<h2>References</h2>

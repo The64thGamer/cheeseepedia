@@ -8,10 +8,10 @@ date = 2024-07-28T18:19:42Z
 contributors = ["CECBowlingGreen","2607:9880:1BF8:100:D92C:9888:F80C:291B","Rexburg090","ShowbizMidwest","CEC Tinley","Documentor","2607:9880:1BF7:FFCB:B9C2:88C7:4F9E:9E85","CECMentor","AstridMascotFan2005"]
 gallery = []
 +++
-{{Animatronic|releasedate=1980|manufacturer=Creative Engineering|image=MoonAnimatronic.jpg}}
-The **Moon Animatronic** is an animatronic figure created by Creative Engineering Inc. for Showbiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are its raising from behind the backdrop and opening its mouth. Moon would later be used during [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), where it would go unchanged.
 
-## Movements ##
+The <b>Moon Animatronic</b> is an animatronic figure created by Creative Engineering Inc. for Showbiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are its raising from behind the backdrop and opening its mouth. Moon would later be used during [Concept Unification]({{< ref "wiki/Concept Unification Stage.md" >}}), where it would go unchanged.
+
+<h2> Movements </h2>
 Moon features 2 movements, being its head raise, and mouth.
 {| class='wikitable'
 |+
@@ -22,7 +22,7 @@ Moon features 2 movements, being its head raise, and mouth.
 |Raise Up
 |}
 
-## Current Moon Animatronics ##
+<h2> Current Moon Animatronics </h2>
 {| class='wikitable'
 !Place
 !Address

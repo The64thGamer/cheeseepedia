@@ -5,19 +5,20 @@ tags = ["Showtape Formats"]
 date = 2023-10-13T18:04:32Z
 
 [Article]
+pageThumbnailFile = "Bigboxliveshow.png|'Dance To The Music' SVHS case (Unknown Sub-Format)"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Bigboxliveshow.png|desc='Dance To The Music' SVHS case (Unknown Sub-Format)}}The **_R12 SVHS (Pre-93)**_ format is a physical showtape medium holding the [Biphase Cyberstar Data Format]({{< ref "wiki/Biphase Cyberstar Data Format.md" >}}) that lasted from November 1990 to May 1993.
+The <b><i>R12 SVHS (Pre-93)</b></i> format is a physical showtape medium holding the [Biphase Cyberstar Data Format]({{< ref "wiki/Biphase Cyberstar Data Format.md" >}}) that lasted from November 1990 to May 1993.
 
 The format is used for three specific [Cyberamic]({{< ref "wiki/Cyberamics.md" >}}) stages, that being the [Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}), [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and [2-Stage]({{< ref "wiki/2-Stage.md" >}}), hence the 'R12'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of [Best of CEC TV 1993]({{< ref "wiki/Best of CEC TV 1993.md" >}}).
-##Format##
-Pre-93 showtapes must have a compatible Pre-93 EPROM installed within the [Cyberamic Control System]({{< ref "wiki/Cyberamic Control System.md" >}}), alongside a VHS deck that can output a video signal and 4 audio signals. The Cyberamic Control System used a **_JVC BR-7000UA**_, but any of the JVC BR-7000 variants that have 4 output audio jacks can work.
+<h2>Format</h2>
+Pre-93 showtapes must have a compatible Pre-93 EPROM installed within the [Cyberamic Control System]({{< ref "wiki/Cyberamic Control System.md" >}}), alongside a VHS deck that can output a video signal and 4 audio signals. The Cyberamic Control System used a <b><i>JVC BR-7000UA</b></i>, but any of the JVC BR-7000 variants that have 4 output audio jacks can work.
 
 Attempting to play a Pre-93 showtape in a Post-93 EPROM system will incorrectly play data on differently mapped bits, resulting in characters and lights moving strangely. The same will happen with playing Post-93 showtapes in a Pre-93 system.
 
 When comparing to the alternate [C&R SVHS (Pre-93)]({{< ref "wiki/C&R SVHS (Pre-93).md" >}}) released at the time, both formats hold uniquely programmed signals for the lights of the stages. Attempting to play one format on the other's stages won't make it visually apparent something is wrong, as most lights and all character movements will seem to behave as normal.
-##Showtapes##
+<h2>Showtapes</h2>
 This format was only produced for 3 years before it switched to R12 SVHS (Post-93).
 *[CEC Christmas '90 / Wave Bday]({{< ref "wiki/CEC Christmas '90  Wave Bday.md" >}})
 *[CEC Jan '91]({{< ref "wiki/CEC Jan '91.md" >}})

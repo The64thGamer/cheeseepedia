@@ -5,13 +5,14 @@ tags = ["Licensed Family Entertainment Center Store List"]
 date = 2023-10-09T02:08:42Z
 
 [Article]
+pageThumbnailFile = "RAEbar.png|Exterior (Unknown Year)"
 contributors = ["GhostReplay","The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++
-{{Generic|image=RAEbar.png|desc=Exterior (Unknown Year)}}
+
 
 334 E 31st St was the Rockafire Bar, a bar and arcade located in Kansas City, MO. The barcade opened on May 24th, 2018, and closed February 25th, 2019.
-## The Stage ##
+<h2> The Stage </h2>
 Rockafire Bar featured an unique stage. The stage was located in the northwest corner of the building and took the shape of an L.
 The stage featured all of the rockafire explosion characters except for Antioch, Sun, Moon, Choo-Choo, and Looney Bird.
 
@@ -23,15 +24,15 @@ The computer that ran the show sat on the desk directly behind Rolfe.
 
 Later between August and October 2018, a mural was painted on the walls behind the stage, which included all of the missing characters (except for antioch) and props.
 
-## The Barcade ##
+<h2> The Barcade </h2>
 
 The arcade portion was an area that featured classic arcade cabinets and pinball machines. In January 2019 Cyberamic mechs from 'Boomis Pizza Fiesta' were installed on a shelf on the back wall of the arcade. The animatronics were only for display purposes as they were never ran for the public.
 
-## Conflict with Aaron ##
+<h2> Conflict with Aaron </h2>
 
 TO DO: Talk about conflict
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !link
 !Description

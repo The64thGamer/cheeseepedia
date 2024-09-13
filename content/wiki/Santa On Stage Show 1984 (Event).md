@@ -8,7 +8,7 @@ date = 2023-10-11T21:04:06Z
 contributors = ["The 64th Gamer"]
 gallery = ["Updatedklunk3map.png|thumb|275x275px|Map of confirmed Klunk installations for this event.",":NorthRichlandHillsCountryKlunk.png",":Kedziesigninstallationproof.png",":SpringfieldOHKlunkVAlves.png"]
 +++
-## Store Appearances ##
+<h2> Store Appearances </h2>
 
 One store would be confirmed to have kept Klunk from the previous [Santa On Stage Show 1983]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}) event. This is only by confirmation that they had the [Country Klunk]({{< ref "wiki/Country Klunk (Event).md" >}}) event, which is presumed to always have coincided with stores<ref name=':1'>Country Klunk tape filmed there. </ref>
 
@@ -27,10 +27,10 @@ Five stores are confirmed to have done this event, but aren't confirmed if they 
 * Minneapolis, MN (5939 John Martin Dr)<ref name=':14' />
 * Bloomington, MN (7989 Southtown Dr)<ref name=':14' />
 
-### Unconfirmed Stores ###
+<h2>= Unconfirmed Stores </h2>=
 Two stores had some sort of Klunk part discovered at their location. Springfield with Klunk valves, and Davenport with a Klunk arm. This confirms Klunk was present at their store at some point, but it is unknown which event(s) he was used in. Davenport does mention potentially receiving a Klunk for 1983 however.<ref name=':0'>https://www.newspapers.com/image/665684553/?clipping_id=55395460&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjY2NTY4NDU1MywiaWF0IjoxNjk2OTcwNDk0LCJleHAiOjE2OTcwNTY4OTR9.sClG1OZrf2KnRIxRDXP7BAdtVpv1p4YKdgIgIRQHA4Q</ref>
 
 * [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})<ref>Store had Klunk Valves under the stage.</ref>
 * [Davenport, IA (903 E Kimberly Rd)]({{< ref "wiki/Davenport, IA (903 E Kimberly Rd).md" >}})<ref>https://www.newspapers.com/article/quad-city-times/56630231/</ref><ref name=':0' />
 
-## References ##
+<h2> References </h2>

@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-07-06T20:52:08Z
 
 [Article]
+pageThumbnailFile = "Kooser2018.png|Kooser Rd.'s exterior in 2018."
 contributors = ["CECBowlingGreen","69.140.177.57","EagleScout610","Pinkerton agent","Rexburg090","The 64th Gamer","SniffCEC","PTT1977fan","BurgersNuggs445","RedaCEC","CEC Tinley","CorrectorMan","ChuckfeldStan","Documentor","Concordio","ThatBoiCydalan","EvergreenEntertainment","TheChuckECheeseGuy","SuperCreamPiper2008","Newbie editor","CoolerDude","Cy's Junk at School"]
 gallery = ["Food Service Marketing October 1979.png|thumb|339x339px|''Food Service Marketing, October 1979''",":Food Service Marketing October 1979.png","KooserShowroom1997.png|thumb|249x249px|Showroom, Spring 1997<ref>https://youtu.be/lSaFEiNrz1Q</ref>"]
 +++
-{{Generic|image=Kooser2018.png|desc=Kooser Rd.'s exterior in 2018.|d1 download=https://archive.org/download/pizza-time-theatre-kooser-plans|d1 name=Building Plans & Permits (1961-1996)}}
-**_San Jose, CA (1371 Kooser Rd) Store #404**_ was a franchised _Pizza Time Theatre_ that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. 
+
+<b><i>San Jose, CA (1371 Kooser Rd) Store #404</b></i> was a franchised <i>Pizza Time Theatre</i> that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. 
 
 This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. Now, [Huntington Beach]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}) has the oldest Chuck E. Cheese's in the company.
-##Stages##
+<h2>Stages</h2>
 The store opened with the Kooser PTT Show until it would be replaced by The Showboat in May 1980. In 1981, the stage would be replaced by a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). The stage would eventually be converted into a Chuck E.'s House Facade (C-Stage) during their 1988 Remodel, and would finally be converted into a [2-Stage]({{< ref "wiki/2-Stage.md" >}}).
 {| class='wikitable'
 !Stage
@@ -46,13 +47,13 @@ The store opened with the Kooser PTT Show until it would be replaced by The Show
 |
 |}
 
-##History##
+<h2>History</h2>
 
-Before its debut as a Pizza Time Theatre, _1371 Kooser Rd_ originally housed a grocery store in the 1960s.<ref>http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf</ref> Pizza Time Theatre would keep the original flooring and lighting used in this grocery store for its first few months open before removing and replacing both with standardized tiling and lighting.<ref>http://csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf</ref> The store itself had a square foot of 18,348 unlike Winchester's square foot of 5,000. (Thus, making it the largest pizza parlor in the city.) The size of This location gave an opportunity to have a dedicated room for its [Portrait Show]({{< ref "wiki/Kooser PTT Show.md" >}}), which was programmed via a recording booth nearby with a window looking towards the characters. The nearby Dolli Dimples cabaret show originally had a Jukebox-like show selector. This would utilize tokens and would give guests the opportunity to select Dolli's next act. 
+Before its debut as a Pizza Time Theatre, <i>1371 Kooser Rd</i> originally housed a grocery store in the 1960s.<ref>http:<i>csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf</ref> Pizza Time Theatre would keep the original flooring and lighting used in this grocery store for its first few months open before removing and replacing both with standardized tiling and lighting.<ref>http:</i>csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf</ref> The store itself had a square foot of 18,348 unlike Winchester's square foot of 5,000. (Thus, making it the largest pizza parlor in the city.) The size of This location gave an opportunity to have a dedicated room for its [Portrait Show]({{< ref "wiki/Kooser PTT Show.md" >}}), which was programmed via a recording booth nearby with a window looking towards the characters. The nearby Dolli Dimples cabaret show originally had a Jukebox-like show selector. This would utilize tokens and would give guests the opportunity to select Dolli's next act. 
 
 Some time between opening and October of 1979, the location would have its tiled white showroom floors replaced with brown tiling similar to other Pizza Time Theatres of the time.<ref></ref>
 
-In May of 1980, it was announced that the Kooser Rd. Pizza Time Theatre received new staging that moved all of the characters onto one wall and new [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}). This new stage would be called 'The Showboat', appearing to have been designed after a vintage steamboat.<ref>https://en.wikipedia.org/wiki/Steamboat</ref><ref name=':0'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>
+In May of 1980, it was announced that the Kooser Rd. Pizza Time Theatre received new staging that moved all of the characters onto one wall and new [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}). This new stage would be called 'The Showboat', appearing to have been designed after a vintage steamboat.<ref>https:<i>en.wikipedia.org/wiki/Steamboat</ref><ref name=':0'>https:</i>www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</ref>
 
 In 1980 a fundraiser for Laurelwood Elementary School in Santa Clara, CA. Which, the Kooser Rd. Pizza Time Theatre raffle off coupons. Shortly after, the store's Mike Berkeland and Tony Welch attended the March of Dimes Walk-A-Thon. Mike would be in the Chuck E. Cheese mascot suit while Tony would escort him. To provide the two rest stops, Mike's brother Rob would drive his van nearby.<ref name=':0' />
 
@@ -62,19 +63,19 @@ On October 22, 1984, the location was purchased by Pizza Time Theatre, later bei
 
 In 1983 the location received [Cheese E. Street]({{< ref "wiki/Cheese E Street.md" >}}), an indoor funhouse that bought guests through tubes, slides, ladders, and tunnels. This store in particular would premiere Cheese E. Street on April 22, 1983, at 1:00 PM as an event.<ref>https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf</ref>
 
-###Chuck E. Cheese's###
+<h2>=Chuck E. Cheese's</h2>=
 
 The store would remodel once again in 1991 during the 1986 SPT Remodel Program (1986 remodel program), which completely redid the store's floorplan, most notably lowering the ceiling.<ref>http://csjpbce.sanjoseca.gov/ecmsviewer/028/404/3404028.pdf</ref>
 
 On March 1, 1993, the location would be purchased by Showbiz Pizza Time and then remodeled in 1996 during the 1990s Major Remodel (1994 remodel program), in the process, also receiving [Phase I]({{< ref "wiki/Phase 1 (1994).md" >}}).<ref name=':1'>http://csjpbce.sanjoseca.gov/ecmsviewer/902/940/3940902.pdf</ref>
 
-In 2006 the store would be a part of the ever-growing 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' remodel initiative), which remodeled the store once again. <ref>http://csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf</ref><ref>http://csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf</ref>
+In 2006 the store would be a part of the ever-growing 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' remodel initiative), which remodeled the store once again. <ref>http:<i>csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf</ref><ref>http:</i>csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf</ref>
 
 For 2016 it was remodeled for the final time during the short-lived 2015 remodel program, which was most likely done to drive business back to the location as it lost popularity. <ref>http://csjpbce.sanjoseca.gov/ecmsviewer/762/001/45001762.pdf</ref>
 
 During this time it was rumored that the rectangular holes for the portrait frames the characters were placed in were still above the drop ceiling. The 2-Stage, much like its sister location on [Fontaine Rd]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}), rapidly declined in condition, although many customizations were made to the show. Such as Chuck E. sporting a walkaround shirt for a period of time, or the rope lights that were added to the cityscape, and the fiber-optic sign being placed where the CRT TV was just like [Stafford, TX]({{< ref "wiki/Stafford, TX (11920 Southwest Fwy).md" >}}).
 
-###Closure###
+<h2>=Closure</h2>=
 In the location's day, it was consistently being overshadowed by the nearby [Fontaine Rd.]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}) location, which was larger and attracted more guests. This alongside the COVID-19 pandemic put stress on the store, which lead to its permanent closure on June 25, 2020. Until 2020 the show remained virtually untouched aside from cosmetic changes. After closure, the show was destroyed as per CEC Entertainment policy. The remains of the show were later sold for parts on Ebay.
 
 The entire store was left a mess and had all CEC branding disposed of or vandalized. 
@@ -89,15 +90,15 @@ The Kooser Road project would consist of nearly 200 units and include amenities 
 
 Affirmed Housing already has obtained a contract to buy the property, the newspaper said.<ref>https://www.nbcbayarea.com/news/local/making-it-in-the-bay/affordable-housing-proposed-for-former-chuck-e-cheese-site-in-san-jose-report/2479008/</ref></blockquote>As of now the location is still vacant, as no progress has been made on this project.
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. Cheese's Pizza Time Theatre to ever receive an Atari Theatre.
 
 1371 Kooser Road was the first location to contain Skee-Ball, which is now a staple in Chuck E. Cheese restaurants to this day.
 
-####Identified 1978 - 1979 Machines####
+<h2>==Identified 1978 - 1979 Machines</h2>==
 
 *Crossfire - Atari
-*[https://arcadeblogger.com/2017/04/21/the-atari-arcade-theatre-kiosk/ Atari Theatre - Atari, 1976] - (Identified inclusions: [https://www.arcade-museum.com/game_detail.php?game_id=9681 Space Race], [https://www.arcade-museum.com/game_detail.php?game_id=8400 LeMans])
+*[https:<i>arcadeblogger.com/2017/04/21/the-atari-arcade-theatre-kiosk/ Atari Theatre - Atari, 1976] - (Identified inclusions: [https:</i>www.arcade-museum.com/game_detail.php?game_id=9681 Space Race], [https://www.arcade-museum.com/game_detail.php?game_id=8400 LeMans])
 *[https://www.arcade-museum.com/game_detail.php?game_id=8942 Outlaw - Atari, 1976]
 *[https://www.arcade-museum.com/game_detail.php?game_id=13018 Atari Football - Atari, 1977]
 *[https://www.arcade-museum.com/game_detail.php?game_id=9739 Sprint 2 - Atari, 1976]
@@ -115,7 +116,7 @@ The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. C
 *[https://www.arcade-museum.com/game_detail.php?game_id=19605 World Cup Football - Atari, 1974]
 *[https://www.arcade-museum.com/game_detail.php?game_id=9738 Sprint 1 - Atari, 1978]
 *1978 Skee-Ball
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -149,7 +150,7 @@ The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. C
 
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -241,7 +242,7 @@ The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. C
 |N/A
 |Destroyed
 |}
-##Walkarounds##
+<h2>Walkarounds</h2>
 The first walkaround this location had was the Prototype Walkaround. It was used from opening until around mid-late 1981, when it was replaced with a standard 1981 costume. It was in turn replaced by the Tuxedo outfit in 1990/1991. It was later replaced by an updated one, in turn by the Cool Chuck one, including accessories, like the Chuck 01 outfit. It received the Rockstar outfit by 2013/2014, and would remain at the store until the 2020 closure.
 {| class='wikitable'
 !Head
@@ -260,5 +261,5 @@ The first walkaround this location had was the Prototype Walkaround. It was used
 |Unknown
 |}
 
-##References##
+<h2>References</h2>
 <references />

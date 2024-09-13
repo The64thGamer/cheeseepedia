@@ -17,45 +17,45 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese International Show 1, 2023**_ is the generic show released January 2023 featuring a variety of songs released from 2014-2021.
+<b><i>Chuck E. Cheese International Show 1, 2023</b></i> is the generic show released January 2023 featuring a variety of songs released from 2014-2021.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Safety Message 
 ## KIDZ BOP Kids - 'About That Time'
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Pasqually - 'Loopins-Boopin-Fakin-Doopin-Floppen-Loopen-Funnin's Day'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## The Whizpops - 'Sea Turtle' 
 ## KIDZ BOP Kids - 'We Don't Talk About Bruno'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Chuck E. Cheese - 'Lend a Helping Hand'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## The Juicebox Jukebox - 'Shh, Apes!' 
 ## Martis - 'Keep It Low'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. & Friends - 'Trio'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Safety Message 
 ## KIDZ BOP Kids - 'Meet Me At Our Spot' 
 ## Jokes From Pasqually - 'Early Bird'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Friendship Never Ends'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Chuck E. Cheese - 'Mary Had a Little Lamb' 
 ## Koo Koo Kanga Roo - 'Glitter'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. Cheese - 'Crochet All Day'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Safety Message 
 ## Lanky Box - 'Pizza Song' 
 ## Rockalingua - 'Las Partes Del Cuerpo'
 ## KIDZ BOP Kids - 'As It Was'
-# **Skit 6** 
+# <b>Skit 6</b> 
 ## Chuck E. Cheese & Friends - El Rey Guitarrista
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday Show (Cyberamic, Studio C, Weigl)
 * Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)

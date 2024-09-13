@@ -5,24 +5,25 @@ tags = ["Store List"]
 date = 2023-06-25T04:17:57Z
 
 [Article]
+pageThumbnailFile = "CommackNY-1-Exterior.jpg|thumb"
 contributors = ["Stripes","Anastasia.laguardia","BurgersNuggs445","Rexburg090","168.69.254.246","Cecnj98"]
 gallery = []
 +++
-{{Generic|image=CommackNY-1-Exterior.jpg|thumb|381x381px|desc=The Commack, NY location before its closure in 2015.<ref>https://patch.com/new-york/commack/81-take-the-kids-to-chuck-e-cheeses</ref>}}
-**_2115 Jericho Turnpike, Store #504**_ was a _Chuck E. Cheese's_ located in Commack, New York. 
+
+<b><i>2115 Jericho Turnpike, Store #504</b></i> was a <i>Chuck E. Cheese's</i> located in Commack, New York. 
 
 The location opened on January 23, 1995, and closed on June 14, 2015<ref>https://www.newsday.com/business/chuck-e-cheese-s-in-commack-closed-after-losing-lease-r99564</ref>. This location should not be confused with Commack, NY (6137 Jericho Turnpike) which was a Pizza Time Theatre location that was open from 1983-1987.
-##Stages##
+<h2>Stages</h2>
 This location opened with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}) show, which featured a turntable for Chuck E. 
 
 In 2005, the showroom was relocated from the back left-hand corner of the restaurant to the right-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}).
-##History##
+<h2>History</h2>
 The location's first major known renovation was in 2005, when the showroom was swapped with the game room and showroom walls were removed as a result.
 
 In 2013, the restaurant was also featured in local news for a brawl that erupted in the Kid Check area.<ref>https://longisland.news12.com/police-brawl-theft-at-commack-chuck-e-cheeses-34750256</ref>
 
 Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar Louie ceased operations; the location is currently a funeral home.<ref>https://libn.com/2021/09/14/former-commack-watering-hole-to-become-funeral-parlor/</ref>
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -37,7 +38,7 @@ Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar 
 |June 19, 2015
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -68,6 +69,6 @@ Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar 
 |Unknown
 |}
 
-##References##
+<h2>References</h2>
 
 <references />

@@ -5,32 +5,33 @@ tags = ["Store List"]
 date = 2024-04-04T23:56:49Z
 
 [Article]
+pageThumbnailFile = "RoanokeVAExterior2.0Remodel.jpg|Roanoke's exterior after the 2.0 Remodel (PC: Chuck E. Cheese Roanoke Virginia)"
 contributors = ["RPCEC","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","2600:4040:59FF:B100:D026:CA31:AF2F:EBD6","RedaCEC","168.69.254.249"]
 gallery = []
 +++
-{{Generic|image=RoanokeVAExterior2.0Remodel.jpg|desc=Roanoke's exterior after the 2.0 Remodel (PC: Chuck E. Cheese Roanoke Virginia)}}
-**_4059 Electric Rd, Store #972**_ was a Showbiz Pizza Place located in Roanoke, Virginia.
+
+<b><i>4059 Electric Rd, Store #972</b></i> was a Showbiz Pizza Place located in Roanoke, Virginia.
 
 This location opened as a ShowBiz Pizza Place on June 21st, 1983, and is still open today.
 
-##History ##
-###Showbiz###
+<h2>History </h2>
+<h2>=Showbiz</h2>=
 Roanoke opened as the 1st Showbiz Pizza Place in Virginia, they originally featured the Rock-Afire Explosion, as all other Showbiz locations did. they would have it for a few years. It is unknown if they ever remodeled when they were Showbiz.
 
-###Tux Chuck and Cool Chuck Eras###
+<h2>=Tux Chuck and Cool Chuck Eras</h2>=
 In around 1991, Roanoke underwent Concept Unification, and The Rock-afire was replaced by Munch's Make Believe Band, complete with all of the characters including extras such as Building, Moon, Wink, Pizzacam, and Munch Jr. Chuck E. wore his signature black tuxedo and red derby hat. The latex masks were all replaced by plastic masks pre-2003. In the 2000s, Chuck E.'s tux and derby were replaced by a red cap with a black 'C', a blue shirt with a yellow 'C', and khaki shorts (Cool Chuck outfit). The stage had working curtains up until curtains were no longer programmed. Interestingly, Munch Jr. was removed sometime before 2003. Building & Moon functioned until around 2016-2017. 
 
-### Avenger Era###
+<h2>= Avenger Era</h2>=
 In 2005, the store received the 2005 Remodel which involved the removal of Showroom Walls, Balcony Seating, & adding purple walls.
 
 In Mid 2012, the store received a major expansion which involved raising the ceilings and a new facade that new stores received at the time. This also added more space for games and a new entrance on the left hand side of the store.
 
-###Present Day###
+<h2>=Present Day</h2>=
 Roanoke featured a 3-Stage with Pizzacam (Later Retro-Cam) & Building (Behind Helen and wasn't not functioning before removal). This store was the last location in the state of Virginia to have the Pizzacam animatronic.
 
 In July 2022, the store remodeled to 2.0 which involved the removal of the 3-Stage for a Dance Floor & Video Wall. In around August 2022, the stage was removed. On September 17th, 2022, Roanoke hosted their Grand Reopening<ref>https://wset.com/news/local/chuck-e-cheese-celebrates-grand-re-opening-in-roanoke-offers-free-gameplay-for-kids-electric-road-star-city-gameplay-red-carpet-raffle-prizes-cake-september-17-2022?type=3&theater</ref>, therefore ending the process. As of February 2023, Roanoke still has the 2.0 Remodel and 2021 Dance Floor + Video Wall.
 
-##Stages##
+<h2>Stages</h2>
 Originally, Roanoke featured a Rock-Afire Explosion, as all other Showbiz locations did, in around 1991, they would undergo Concept Unification, turning the RAE into the 3-Stage, they would have the 3-Stage until around August 2022; In August 2022, they would replace the 3-Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel, they were the 2nd to last 3-Stage in Virginia. As of February 2023, they still have this remodel.
 {|class='wikitable'
 !Stage
@@ -53,7 +54,7 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other Showbiz locati
 |Still In Use
 |2021 Model. 
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -112,7 +113,7 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other Showbiz locati
 
 
 
-##Videos##
+<h2>Videos</h2>
 {|class='wikitable'
 |+
 !Link
@@ -140,5 +141,5 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other Showbiz locati
 |October 8, 2022
 |}
 
-##References##
+<h2>References</h2>
 <references />

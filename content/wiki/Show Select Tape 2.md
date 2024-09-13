@@ -12,51 +12,51 @@ gallery = []
 |date=September 15, 1982
 |showbizreel=y|aka=Classic Hits 1982|image=Showselecttape2thumbnail.png}}
 
-**_SPP Show Selector Tape 2**_ (AKA **_Classic Hits 1982**_) is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on September 15, 1982.
+<b><i>SPP Show Selector Tape 2</b></i> (AKA <b><i>Classic Hits 1982</b></i>) is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on September 15, 1982.
 
-##Show List##
-#**Segment 1**
-##_Goofy Gas_
-#**Segment 2**
-##_Abbey Road Medley_
-###_You Never Give Me Your Money_
-###_Sun King_
-###_Mean Mr. Mustard_
-###_Polythene Pam_
-###_She Came in Through the Bathroom Window_
-###_Golden Slumbers_
-###_Carry That Weight_
-###_The End_
-###_Her Majesty_
-# **Segment 3**
-##_Sal's Birthday_
-#**_Segment 4**_
-##_Happy Birthday Medley_
-###_Sixteen Candles_
-###_Please Mr. Postman_
-###_Having A Party_
-# **Segment 5**
-##_Birthday_ (Beatles)
-#**Segment 6**
-##_Music Goes Round and Round_
+<h2>Show List</h2>
+#<b>Segment 1</b>
+##<i>Goofy Gas</i>
+#<b>Segment 2</b>
+##<i>Abbey Road Medley</i>
+###<i>You Never Give Me Your Money</i>
+###<i>Sun King</i>
+###<i>Mean Mr. Mustard</i>
+###<i>Polythene Pam</i>
+###<i>She Came in Through the Bathroom Window</i>
+###<i>Golden Slumbers</i>
+###<i>Carry That Weight</i>
+###<i>The End</i>
+###<i>Her Majesty</i>
+# <b>Segment 3</b>
+##<i>Sal's Birthday</i>
+#<b><i>Segment 4</b></i>
+##<i>Happy Birthday Medley</i>
+###<i>Sixteen Candles</i>
+###<i>Please Mr. Postman</i>
+###<i>Having A Party</i>
+# <b>Segment 5</b>
+##<i>Birthday</i> (Beatles)
+#<b>Segment 6</b>
+##<i>Music Goes Round and Round</i>
 
-#**Segment 7**
-##_Goin' Crazy / My Love_
-#**Segment 8**
-##_Hamlet Skit_
-##_You May Be Right_
-#**Segment 9**
-##_Satisfaction Medley_
-###_I Can't Get No Satisfaction_
-###_For Your Love_
-###_Born To Be Wild_
-#**Segment 10**
-##_Baseball_
-#**Segment 11**
-##_Little Sister_
-#**Segment 12**
-##_Feelings Skit_
-###_Feelings_
-###_You Light Up My Life_
-###_I Can't Get No Satisfaction_
-##Showtape Scans / Images:##
+#<b>Segment 7</b>
+##<i>Goin' Crazy / My Love</i>
+#<b>Segment 8</b>
+##<i>Hamlet Skit</i>
+##<i>You May Be Right</i>
+#<b>Segment 9</b>
+##<i>Satisfaction Medley</i>
+###<i>I Can't Get No Satisfaction</i>
+###<i>For Your Love</i>
+###<i>Born To Be Wild</i>
+#<b>Segment 10</b>
+##<i>Baseball</i>
+#<b>Segment 11</b>
+##<i>Little Sister</i>
+#<b>Segment 12</b>
+##<i>Feelings Skit</i>
+###<i>Feelings</i>
+###<i>You Light Up My Life</i>
+###<i>I Can't Get No Satisfaction</i>
+<h2>Showtape Scans / Images:</h2>

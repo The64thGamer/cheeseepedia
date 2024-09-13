@@ -8,11 +8,11 @@ date = 2022-12-28T17:47:47Z
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = ["Titanoftokenssign.jpg|thumb|Titan of Tokens sign"]
 +++
-The **_Titan of Tokens sign**_ was released in stores in 2005 alongside numerous other Avenger Chuck E. Cheese posters and signage.
+The <b><i>Titan of Tokens sign</b></i> was released in stores in 2005 alongside numerous other Avenger Chuck E. Cheese posters and signage.
 
-## Appearance ##
+<h2> Appearance </h2>
 
 The sign features Avenger Chuck E. Cheese riding a horse-drawn chariot in a field of golden tokens. In the background, a temple reads, 'TITAN OF TOKENS'.
 
-## Size/Dimensions ##
+<h2> Size/Dimensions </h2>
 Exact dimensions unknown. Sign is medium-sized.

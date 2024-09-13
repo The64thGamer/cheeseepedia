@@ -5,18 +5,19 @@ tags = ["Store List"]
 date = 2024-03-19T16:34:33Z
 
 [Article]
+pageThumbnailFile = "cheektowaga_ny_thruway_mall_PTT_exterior.png|Exterior before closure"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","ThatBoiCydalan","Tux Chuck"]
 gallery = []
 +++
-{{Generic|image=cheektowaga_ny_thruway_mall_PTT_exterior.png|desc=Exterior before closure}}
-**_Thruway Mall (Address Number Unknown)**_ was a _Pizza Time Theatre_ in Cheektowaga, New York. The store opened on November 26th, 1982, and closed on July 29th, 1985, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). 
 
-##History##
+<b><i>Thruway Mall (Address Number Unknown)</b></i> was a <i>Pizza Time Theatre</i> in Cheektowaga, New York. The store opened on November 26th, 1982, and closed on July 29th, 1985, with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). 
+
+<h2>History</h2>
 Cheektowaga opened on November 26th, 1982, in the Thruway Mall with [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}). When the store opened, they had either Harmony or Madame oink. Then, sometime after opening, [Cheese E. Street]({{< ref "wiki/Cheese E Street.md" >}}) was installed at the store, the installation location was unknown. 
 
 The store was then closed on July 29th, 1985 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for almost 2 years. The show's fate is unknown.
 
-## Stages##
+<h2> Stages</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -28,7 +29,7 @@ The store was then closed on July 29th, 1985 for unknown reasons (though it may 
 |July 1985
 |Animatronics sold at auction.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Whereabouts
@@ -64,5 +65,5 @@ The store was then closed on July 29th, 1985 for unknown reasons (though it may 
 
 
 
-##Videos##
+<h2>Videos</h2>
 No Videos currently exist of this location

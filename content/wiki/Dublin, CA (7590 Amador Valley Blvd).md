@@ -8,11 +8,11 @@ date = 2023-11-03T15:29:15Z
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:F8CC:DE72:BE48:1E81","Tux Chuck"]
 gallery = []
 +++
-**_7590 Amador Valley Blvd**_ was a Showbiz Pizza Place that opened on April 21, 1982, and closed in December 1985 (day unknown) with a Rock-afire Explosion. 
+<b><i>7590 Amador Valley Blvd</b></i> was a Showbiz Pizza Place that opened on April 21, 1982, and closed in December 1985 (day unknown) with a Rock-afire Explosion. 
 
 This location is not to be confused with [Dublin, CA (7448 Amador Valley Blvd)]({{< ref "wiki/Dublin, CA (7448 Amador Valley Blvd).md" >}}), which was a Chuck E. Cheese's, which opened on August 1, 1994, with a 1-Stage and is still open to this day.
 
-## Stages ##
+<h2> Stages </h2>
 Dublin opened with a Rock-afire Explosion. Not much is known about it and was removed during their 1985 closure.
 {| class='wikitable'
 |+
@@ -27,10 +27,10 @@ Dublin opened with a Rock-afire Explosion. Not much is known about it and was re
 |First Showbiz Pizza in California.
 |}
 
-## History ##
+<h2> History </h2>
 Dublin opened on April 21, 1982, as the first Showbiz Pizza Place in California. Not much is known about this location, although there is some footage of it along with the Pleasanton, CA (5572 Springdale Ave) PTT in 1983. Dublin was untouched until its closure in December 1985 (day unknown) for unknown reasons, but likely due to SPP's decline. It became many different businesses and as of July 2023, the building is still vacant.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

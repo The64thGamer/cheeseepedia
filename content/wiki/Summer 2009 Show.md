@@ -8,6 +8,6 @@ date = 2024-07-30T13:14:25Z
 contributors = ["The 64th Gamer","Documentor","Dame","AstridMascotFan2005"]
 gallery = []
 +++
-{{NonStandard}}
 
-##Showtape Scans / Images:##
+
+<h2>Showtape Scans / Images:</h2>

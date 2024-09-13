@@ -5,24 +5,25 @@ tags = ["Showbiz"]
 date = 2024-09-13T09:16:56Z
 
 [Article]
+pageThumbnailFile = "Showbizppp10.png|Showbiz Pizza Program #10"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Showbizppp10.png|desc=Showbiz Pizza Program #10}}
 
-**_Showbiz Pizza Program**_ was a music cassette collection released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. 
+
+<b><i>Showbiz Pizza Program</b></i> was a music cassette collection released alongside Showbiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. 
 
 Similar to [Family Vision]({{< ref "wiki/Family Vision.md" >}}), these would be a precursor to Cyberstar, and would be released until its full integration into Showbiz Pizza Place locations, despite Pizza Time Theatre locations continuing to use reels for another year.
 
-## History ##
-These programs were still produced by _Sight & Sound Entertainment Corporation_, however the company would be merged into _Audio Environments Inc.,_ rebranding as _AEI Music_. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as _Inflight Audio Entertainment_, and each gave the address of AEI Music Network Inc. at the bottom of the label.
+<h2> History </h2>
+These programs were still produced by <i>Sight & Sound Entertainment Corporation</i>, however the company would be merged into <i>Audio Environments Inc.,</i> rebranding as <i>AEI Music</i>. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'<ref>http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</ref> The Showbiz Pizza Programs were specifically labeled as <i>Inflight Audio Entertainment</i>, and each gave the address of AEI Music Network Inc. at the bottom of the label.
 
 It is currently known that Program 11 came with the Summertime shows for 1988, and that Program 15 came with the Christmas shows for 1988. Releases 11-18 line up correctly, with 18 being exactly alongside the last known Showbiz reel to be produced, though it isn't clear which releases matched up with 1-10.
 
 It isn't clear what procedure was done for CEC tapes after the release of Program 18, as they would continue to use reels up to [CEC September 1990 Show]({{< ref "wiki/CEC September 1990 Show.md" >}}).
-##CEC Dance - Grammy##
+<h2>CEC Dance - Grammy</h2>
 Oddly, the CEC showtape release for October 1988 is absent, which would have synched up with [SPP Dance - Grammy]({{< ref "wiki/SPP Dance - Grammy.md" >}}). As of current knowledge, the September show continued on until the Christmas show later that year. The release of its SPP counterpart, alongside [Showbiz Pizza Program 14]({{< ref "wiki/Showbiz Pizza Program 14.md" >}}) which would have came with it being produced, it is unknown if there may have been a CEC Dance - Grammy type showtape in this slot that we aren't aware of yet.
-## Tapes ##
+<h2> Tapes </h2>
 {| class='wikitable'
 !Showbiz Pizza Program
 !SPP Tape
@@ -101,4 +102,4 @@ Oddly, the CEC showtape release for October 1988 is absent, which would have syn
 |CEC Best Of 1988
 |}
 
-## References ##
+<h2> References </h2>

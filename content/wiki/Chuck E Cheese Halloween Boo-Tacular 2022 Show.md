@@ -8,61 +8,61 @@ date = 2024-03-20T01:43:23Z
 contributors = ["Documentor","Destinationimagination95","Showbiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","70.161.122.232","The 64th Gamer","GallaRBX2"]
 gallery = ["New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless"]
 +++
-{{Showtape|image=Bootacularevent.png|date=September 19, 2022|dvdcyber=y|dvdcu=y|studioc=y|studiochd=y|studiochdnetwork=y|studiocnetwork=y}}**_Halloween Boo-Tacular 2022**_ is the Fall show released on September 19, 2022.
+<b><i>Halloween Boo-Tacular 2022</b></i> is the Fall show released on September 19, 2022.
 
 This was created in conjunction with the Halloween Boo-Tacular promotion. Runs from September 19, 2022 - October 31, 2022. This show features 7 songs with the automatic live being Haunted House Party.
 
-##Show List:##
-#**Intermission 1**
+<h2>Show List:</h2>
+#<b>Intermission 1</b>
 ##Safety Message
 ## Food & Drink Combos
 ##Chuck E. Cheese YouTube & Music Streaming
 ##Boo-Tacular Bumper feat. Chuck E. & Helen
 ##KIDZ BOP - “This Is Halloween”
-# **Skit 1**
+# <b>Skit 1</b>
 ##Helen Henny & Friends - “Witches Crew”
-#**Intermission 2**
+#<b>Intermission 2</b>
 ## Boo-Tacular Menu & Merch
 ##Chupa Chups
 ## CEC Online Store
 ## Koo Koo Kanga Roo - “Monster Moves”
-#**Skit 2**
+#<b>Skit 2</b>
 ##Chuck E. Cheese - “Halloween Night”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Samsung
 ## Hi-Chew
 ##KIDZ BOP - “Halloween Party”
 ##Boo-Tacular Bumper feat. Jasper & Munch
-# **Skit 3**
+# <b>Skit 3</b>
 ##Chuck E. Cheese - “If Every Day Was Halloween”
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Safety Message
 ##Food & Drinks
 ##Dippin’ Dots
 ##China Anne McClain - “Calling All the Monsters”
-#**Skit 4**
+#<b>Skit 4</b>
 ##Chuck E. Cheese & Friends - “Gotta Be Halloween”
-#**Intermission 5**
+#<b>Intermission 5</b>
 ## Blippi - “Halloween”
 ##Boo-Tacular Bumper feat. Bella & Pasqually
 ##KIDZ BOP - “Ghostbusters”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Jasper T. Jowls - “Howl-O-Ween”
-#**Intermission 6**
+#<b>Intermission 6</b>
 ## Boo-Tacular Events
 ##Food & Drinks Combos
 ##Chuck E. Cheese YouTube & Music Streaming
 ##KIDZ BOP - “Disturbia”
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. Cheese - “Pumpkin Patch”
-#**Intermission 7**
+#<b>Intermission 7</b>
 ## Group Events & Fundraisers
 ##J uicebox Jukebox - “Happy Halloween”
 ## Candy Splash feat. Hi Chew & Chupa Chups
-# **Skit 7**
+# <b>Skit 7</b>
 ##Chuck E. Cheese & Friends - “Pumpkins in My Pockets”
 
-##Lives:##
+<h2>Lives:</h2>
 
 #Birthday Show (3stage, Cyberamic, Studio C, Weigl, Navori)
 #Birthday Show (Spanish) (3stage, Cyberamic, Studio C, Weigl, Navori)
@@ -73,10 +73,10 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. Runs f
 #Spooky Dance (Studio C, Weigl)
 #Chuck E. Cha Cha (Studio C, Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-##Trivia:##
+<h2>Trivia:</h2>
 
 *'Gotta Be Halloween' and 'Halloween Night' are originally from Chuck E. Cheese's Show 4 2021 (Studio C) (Show 4 2021) and 'Pumpkin Patch' is originally from Chuck E. Cheese's Show 6 2018 (Show 6 2018). However, the version included here is the 2020 version which dubs over the Chucktober references.
 

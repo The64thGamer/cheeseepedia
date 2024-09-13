@@ -10,14 +10,14 @@ gallery = ["SoF_SummerConcert_KeyVisual_KB_V2-768x432.jpg|thumb|490x490px","New 
 +++
 
 
-**_Chuck E. Cheese Summer of Fun Concert**_ was an event that performed at 5 states originally. Runs around 24 minutes. 
+<b><i>Chuck E. Cheese Summer of Fun Concert</b></i> was an event that performed at 5 states originally. Runs around 24 minutes. 
 
 It would be a mix of live and pre recorded audio with the costumes preforming various CEC Songs. With someone named Jessi being an actor on the stage who spoke to Chuck and his gang (minus Pasqually)
 
-## Summary: ##
+<h2> Summary: </h2>
 With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put on a show to entertain the guests using a mix of live shows and normal shows. After the show is over they would play various a mix of live show songs such as 'Happy & U Know It' and licensed songs such as 'Watch Me (Whip/Nae Nae)'. The main point of this concert was to tell the public that the walkarounds are coming back to stores after a year and two months. 
 
-## Touring Locations ##
+<h2> Touring Locations </h2>
 
 * June 5: Pier 60 Park, Clearwater, FL @ 10am, 1pm & 3pm
 * June 12: Cumberland Park, Nashville, TN @ 10am, 1pm & 3pm
@@ -25,35 +25,35 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 * June 27: Piedmont Park Greystone, Atlanta, GA @ 10am, 1pm & 3pm 
 * July 3: Klyde Warren Park, Dallas, TX @ 10am & 1pm
 
-## Show Lineup: ##
-**Note:** Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
+<h2> Show Lineup: </h2>
+<b>Note:</b> Concert Remix's are for changes of the original material which will go into depth in the Trivia section. 
 
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## Introduction for Jessi, Chuck E. and 'DJ Munch'
-# **Song**
+# <b>Song</b>
 ## Beach Party Bash
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## Thanking DJ Munch, Jessi getting wanting to see 'Song of Summer' preformed then getting disappointed it's not happening yet, Introduction for Helen & Jasper. 
-#  **Song**
+#  <b>Song</b>
 ## Play All You Can Play (Concert Remix)
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## Jessi asking about 'Song of Summer' again and then making weird noises. 
-#  **Song**
+#  <b>Song</b>
 ## Dog Days of Summer (Concert Remix)
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## DJ Munch, Helen, Jasper, Jessi question what will happen. Jessi annoys Chuck again about Song of Summer, Part where they ask about Birthdays this month, this summer, then this year, How to do the Chuck E. Cheese's Birthday Song
-# **Song**
+# <b>Song</b>
 ##  Chuck E. Cheese's Birthday Song (Concert Remix)
 ## Happy Birthday
 ##  Happy Birthday (Spanish) (Concert Remix)
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## Jessi annoys Chuck E. for the 4th time about 'Song of Summer' because Chuck is sad if he sings the song the fun of summer will end. 
-#  **Song**
+#  <b>Song</b>
 ## Song of Summer (Concert Remix)
-#  **Dialogue**
+#  <b>Dialogue</b>
 ## Thanks for being here! (While Song of Summer instrumental is playing)
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -73,7 +73,7 @@ With the help of Jessi & Chuck E.'s Crew (Minus Pasqually) they're able to put o
 |-
 |}
 No footage exists of the Atlanta, GA Concert.
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Play All You Can Play replaces Chucks vocals with helens during his 'Solo' and then replaces Munch's vocals with Helens during his 'Solo'
 * Dog Days of Summer removes the rest of backing vocals and has Helen be the only backup singer and also sings some of Jaspers lines.

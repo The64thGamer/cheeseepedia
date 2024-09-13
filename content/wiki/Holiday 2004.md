@@ -17,46 +17,46 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |cusvhs = y
 }}
 
-**Holiday 2004** is an updated version of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) featuring new intermissions which played throughout December 2004. This show was rereleased as [Holiday 2005]({{< ref "wiki/Holiday 2005.md" >}}) and [Holiday 2006]({{< ref "wiki/Holiday 2006.md" >}}).
+<b>Holiday 2004</b> is an updated version of [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) featuring new intermissions which played throughout December 2004. This show was rereleased as [Holiday 2005]({{< ref "wiki/Holiday 2005.md" >}}) and [Holiday 2006]({{< ref "wiki/Holiday 2006.md" >}}).
 
-## Show List: ##
-# **Intermission 1**
+<h2> Show List: </h2>
+# <b>Intermission 1</b>
 ## Ken Chuck E. Derby
-## ****Funimation: 'Santa Claus Bros.'
+## <b></b>Funimation: 'Santa Claus Bros.'
 ## Countdown (1995 Holiday footage)
 ## Holiday VJ Spot - Michael
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'Deck the Halls
 ## 'Up On The Rooftop'
-# **Intermission 2**
-##****Coke Spot
+# <b>Intermission 2</b>
+##<b></b>Coke Spot
 ## Larry The Technician - 'Decorating The Tree'
 ##'Boar's Head Carol'
 ##Countdown (Holiday Lights)
 ##Holiday VJ Spot - Laura
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Jolly Old St. Nicholas'
 ## 'Oh Christmas Tree'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##Eddie Coker - 'Happy Holidays'
-##****Funimation: 'A Wobots Christmas'
+##<b></b>Funimation: 'A Wobots Christmas'
 ##Countdown ('Holly Jolly Christmas' footage)
 ## Holiday VJ Spot - Evan
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Jingle Bells'
 ## 'I Heard The Bells'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##Ken Chuck E. Derby
-##****Coke Spot
-##****Funimation: 'Connie The Cow'
+##<b></b>Coke Spot
+##<b></b>Funimation: 'Connie The Cow'
 ##Countdown ('Silver Bells' footage / Holiday Party backgrounds)
 ## Holiday VJ Spot - Laura
-#  **Segment 4**
+#  <b>Segment 4</b>
 ## 'Toyland / March of the Wooden Soldiers'
 ## 'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives: ##
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on separate VHS tapes for MMBB based stores.</b>
 * Chuck E. March 01
 * Havin' A Party 01
 * Chuck E. Swing
@@ -68,5 +68,5 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 *[Chuck E. Says 02]({{< ref "wiki/Chuck E Says 02.md" >}})
 *New Birthday
 *Go Santa Go
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
-##Showtape Scans / Images:##
+<b>Birthday Break</b>: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+<h2>Showtape Scans / Images:</h2>

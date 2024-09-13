@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-08-18T21:46:45Z
 
 [Article]
+pageThumbnailFile = "Methuen Exterior before 2.0.jpg|Exterior, April 2024 (PC: dmckill on Instagram)"
 contributors = ["Destinationimagination95","Rexburg090","Harchambeault2026","CECCheese","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Methuen Exterior before 2.0.jpg|desc=Exterior, April 2024 (PC: dmckill on Instagram)}}
-**_90 Pleasant Valley Rd, Store #752**_ is a _Chuck E. Cheese's_ location that opened on August 28th, 2000. It's located in a shopping plaza called 'The Loop'.
 
-## History ##
+<b><i>90 Pleasant Valley Rd, Store #752</b></i> is a <i>Chuck E. Cheese's</i> location that opened on August 28th, 2000. It's located in a shopping plaza called 'The Loop'.
+
+<h2> History </h2>
 Prior to CEC opening, the space was the [https://en.wikipedia.org/wiki/The_Loop_(shopping_center) Methuen Mall], and was redeveloped in 2000 as The Loop, an open air strip mall.
 
 Methuen officially opened August 28th, 2000, with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}). This was the 2nd Studio C in New England after [Warwick]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}) and the first in Massachusetts.
@@ -46,7 +47,7 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -73,7 +74,7 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Video Link
@@ -234,7 +235,7 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 |[Chuck E. Cheese Evergreen Show 2022 (August Update)]({{< ref "wiki/Chuck E Cheese Evergreen Show 2022 (August Update).md" >}})
 |
 |-
-|[https://www.youtube.com/watch?v=Hm15KccJ6PI https://youtu.be/Hm15KccJ6PI]
+|[https:<i>www.youtube.com/watch?v=Hm15KccJ6PI https:</i>youtu.be/Hm15KccJ6PI]
 |Classic Chuck E. Cheese Stage Before 2.0 - Methuen, MA 4/20/24 
 |Methuen's Studio C Alpha before the trampoline installation.
 |April 20, 2024
@@ -247,5 +248,5 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 |
 |}
 
-## References ##
+<h2> References </h2>
 <references />

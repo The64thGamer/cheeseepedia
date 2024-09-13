@@ -15,13 +15,13 @@ gallery = []
 |date=1988
 | pttreel = y
 }}
-**_Chuck E. Cheese Live**_ was a live show released within 1988 to test the creation of live shows. 
+<b><i>Chuck E. Cheese Live</b></i> was a live show released within 1988 to test the creation of live shows. 
 
 The show ran from 1988 - most likely 1990.
 
-## Summary ##
+<h2> Summary </h2>
 Showbiz Pizza Time & The Pizza Time Players preform their first live show featuring Chuck E. Cheese being the first in Pizza Time Theater history. Being the first the live show starts with an introduction of Chuck E. Cheese, then goes onto Mr. Munch, Pasqually, Helen, then lastly Jasper. Then singing a song all together welcoming you to Chuck E. Cheese. They then sing a song which is roughly 2 minutes in length about what is wrong with kids these days whilst also Chuck insulting his friends. After that Chuck sings Yankee Doodle, You're A Grand Old Flag, then lastly Born in the USA. To Celebrate American Pride as their restaurant is located in the US mostly. The announcer then gives their goodbyes to the Pizza Time Players ending off with Chuck E. Cheese and saying thank you and enjoying your stay a 'Showbiz Pizza Time Theater'. 
-##Showtape Releases ##
+<h2>Showtape Releases </h2>
 {| class='wikitable'
 !Release
 !Showtape 
@@ -33,7 +33,7 @@ Showbiz Pizza Time & The Pizza Time Players preform their first live show featur
 |-
 |}
 
-## Live Show Trivia: ##
+<h2> Live Show Trivia: </h2>
 
 * This live show had a countdown unlike many live shows from the early 90s. 
 * The countdown started with Chuck E. telling kids to find a place to sit and please stay seated during the performance. After that would be the 2 minute countdown with the spinning numbers and repeating backdrop while the song If [https://en.wikipedia.org/wiki/Earth_Run I'm Dreamin' (Don't Wake Me)] played. After this the live show would begin.

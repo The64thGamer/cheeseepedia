@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2023-05-18T23:37:20Z
 
 [Article]
+pageThumbnailFile = "Westroxbury2011.png|West Roxbury in November 2011. (PC: Google Maps)"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","216.125.34.66","CEC Tinley"]
 gallery = []
 +++
-{{Generic|image=Westroxbury2011.png|desc=West Roxbury in November 2011. (PC: Google Maps)}}
 
-**_1665 VFW Parkway**_ was a _Chuck E. Cheese's Pizza/Chuck E. Cheese's_ location that opened on October 15th, 1991, and permanently closed in June 2001. This location opened with a [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and would keep it until the closure of the store. This store is notable for staying vacant for 15 years after they closed and became a gym in 2016 which is still open to this day.
 
-## Stages ##
+<b><i>1665 VFW Parkway</b></i> was a <i>Chuck E. Cheese's Pizza/Chuck E. Cheese's</i> location that opened on October 15th, 1991, and permanently closed in June 2001. This location opened with a [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and would keep it until the closure of the store. This store is notable for staying vacant for 15 years after they closed and became a gym in 2016 which is still open to this day.
+
+<h2> Stages </h2>
 This location had a [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and would keep it until closure. When the store first opened, the stage featured no curtains like any other Road Stage from when it was first installed. Chuck E would wear his Tuxedo & Derby outfit until the store's closure as well. Sometime in the Mid 1990's, up and down curtains were added to the stage and would remain that way until the store closed permanently. 
 {| class='wikitable'
 !Stage
@@ -26,12 +27,12 @@ This location had a [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.
 |Only Road Stage installed in Massachusetts.
 |}
 
-## History ##
+<h2> History </h2>
 This location would open on October 15th, 1991, after being advertised in newspapers. The location opened with the common at the time [Cyberamics Road Stage]({{< ref "wiki/Cyberamics Road Stage.md" >}}) and with the 1988 Remodel package, which was also a location standard. This location would possibly end up receiving both Phase 1 (1994 (Phase 1) and [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) in the coming years. It is unknown if they ever received [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) at any point in time. This location would keep the Road Stage until closure.
 
 This location would permanently close in June 2001 for an unknown reason, possibly lease issues or poor reviews, and the property would be vacated then after. Even if the store was abandoned, the property would stay vacant for 15 years, with the 1997 or 2000 logo leaving a label-scar intact. In 2016, the property was renovated and was taken over by a gym. As of March 2023, Inclusive Fitness remains in the space.
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -45,7 +46,7 @@ This location would permanently close in June 2001 for an unknown reason, possib
 
 TODO
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date

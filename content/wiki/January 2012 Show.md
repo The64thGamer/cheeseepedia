@@ -21,76 +21,76 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 |dvdcyber=y
 }}
 
-**January 2012** is the compilation show released January 1, 2012, featuring eight reused songs from 1999 - 2011.
+<b>January 2012</b> is the compilation show released January 1, 2012, featuring eight reused songs from 1999 - 2011.
 
 This was created to play from January 1, 2012 - April 2012, though was valid until the end of 2012.<ref>http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf</ref> This show is known to have an alternate version which wasn't released.
 
-## Unused Version ##
+<h2> Unused Version </h2>
 An unused version of this show exists with every song after The Weekend being completely different, though most of the dialogue between songs is the same with a few differences. The show also featured Robert Gotcher in the role of Jasper, though the reused songs would still use Jeremy Blaido's voice. The Showtime intro at the beginning of each segment would also have Robert's voice, unlike the final version which had Matt Daniel dub over him. The final segment also contained two brand new songs, 'That's How It Would Go' and 'You Are My Best Friend'. 
 
 Prior to being rerecorded, the segments (excluding intermissions) were:
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'First Impression'
 ##'Imagine Nation'
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'The Weekend'
 ## 'I'm Gonna Dream'
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Toppings'
 ## 'Cleaning Up My Room'
-#   **Segment 4**
+#   <b>Segment 4</b>
 ## 'That's How It Would Go'
 ## 'You Are My Best Friend'
 
 After Robert Gotcher was fired as Director of Entertainment, the songs he wrote and his voice were removed from the show. Jeremy was brought back to record over his lines, Matt Daniel recorded a new version of the showtime intro, and most of the songs were replaced. 'First Impression', 'Imagine Nation', and 'The Weekend' were also altered, with the instrumentals being rerecorded for the former and new vocals for Jasper being recorded for the later. It is unknown if there were any intermission differences. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#**Segment 1** 
+#<b>Segment 1</b> 
 ## 'First Impression'
 ## 'Imagine Nation'
-#**Intermission 1** 
+#<b>Intermission 1</b> 
 ##CEC TV ID - Pizza Parachute
 ##Monkey Ninjas - Episode 5
 ##  The Dirty Sock Funtime Band - 'Dino-Soaring'
 ## Chillout 1 - 'Cheese Pizza is Pure Delight' Footage
-#**Segment 2** 
+#<b>Segment 2</b> 
 ## 'The Weekend'
 ## 'Jack and Jill'
-#**Intermission 2** 
+#<b>Intermission 2</b> 
 ##CEC TV ID - Apple Tree
 ##Pocoyo Spot
 ##Super Jasper - 'Resist The Tempation'
 ## Chillout 2 - 'Don't Let Your Feet Touch Ground' Footage
-#**Segment 3** 
+#<b>Segment 3</b> 
 ## 'I Want My Chuck E. Cheese'
 ## 'Row Your Boat'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## CEC TV ID - Pizza Chef
 ##Hot Air Balloon
 ##WFW Babysitter
 ##Chillout 3 - 'Hip Mouse' Footage
-#**Segment 4** 
+#<b>Segment 4</b> 
 ## 'I Don't Wanna Work'
 ## 'Disco Chuck'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ##CEC TV ID - Sports
 ##Pasqually's Polka Minute
 ## Puss In Boots Spot
 ## Chillout 4 - 'Is It Love?' Footage
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday (3stage, Cyberamic, Studio C)
 * Spanish Birthday (3stage, Cyberamic, Studio C)
 * Bingo (3 Stage, CEC Stage, Studio c)
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * Jeremy Blaido returns to the role of Jasper in this show after being replaced by Robert Gotcher in May 2011.
 * This is the first show to use the Band Stage set up for the puppets. This would be used in two other shows throughout 2012.
 * All songs in this show either had rerecorded vocals, instrumentals, or both.
 *The show logo is the footage of 'We Got The Beat' from the [May 2011 Show]({{< ref "wiki/May 2011 Show.md" >}})
-*Chillout 4 uses the instrumental of 'Dreamin_ from [Chuck E Cheese April 2004 Show]({{< ref "wiki/Chuck E Cheese April 2004 Show.md" >}})
+*Chillout 4 uses the instrumental of 'Dreamin'' from [Chuck E Cheese April 2004 Show]({{< ref "wiki/Chuck E Cheese April 2004 Show.md" >}})

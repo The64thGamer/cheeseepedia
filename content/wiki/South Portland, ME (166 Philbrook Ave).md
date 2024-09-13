@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2023-12-25T13:03:35Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior photo, taken in 2012.|image=Maine.jpg"
 contributors = ["47.17.236.200","Midwestretail","ThatBoiCydalan","ShowbizMidwest","Cheeseclassic","CEC Tinley"]
 gallery = []
 +++
-{{Generic|desc=Exterior photo, taken in 2012.|image=Maine.jpg}}
-**166 Philbrook Ave, Store #625** was a _Chuck E. Cheese's_ that opened on December 17th, 2002, with a 32m Studio C 2000, and closed on December 16th, 2012, operating for a total of 9 years.
+
+<b>166 Philbrook Ave, Store #625</b> was a <i>Chuck E. Cheese's</i> that opened on December 17th, 2002, with a 32m Studio C 2000, and closed on December 16th, 2012, operating for a total of 9 years.
 
 This was the only Chuck E. Cheese's store in Maine, and after it closed, CEC Entertainment has never re-entered Maine in any sort of way. This location was also an outparcel of the Maine Mall.
-## Stages ##
+<h2> Stages </h2>
 The only stage this location ever had was a 32m Studio C 2000. They would keep this until they closed. The bot was sent to West Palm Beach, FL, until 2022, when they got 2.0 and the bot was likely destroyed.
-## History ##
+<h2> History </h2>
 South Portland's CEC opened on December 17th, 2002, as an outparcel, or separate building, of the Maine Mall. This was the first and only Chuck E. Cheese's to operate in Maine, being the most recent state they had entered business into. This store had the new at the time Studio C 2000 with a 32m version of the bot, and the 2000s version of the SPT 1992/1993 Remodel Program with the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) entertainment and game package deal. This store was popular for many years, until 9 years later, when the lease they had signed had nearly been expired. The lease renewal was refused, so the company announced in December 2012 that they would be closing this store permanently. It closed the day before the 10th anniversary, on December 16th, 2012.<ref> https://www.wmtw.com/amp/article/chuck-e-cheese-s-closing-south-portland-location/1993169</ref>
 
-This store would be abandoned for about a year, before Pier 1 Imports would open a location in the former space. It would remain there until 2020, when Pier 1 Imports permanently closed all of its stores due to COVID-19.<ref> https://www.usatoday.com/story/money/2020/05/19/pier-1-stores-closing-liquidation-coronavirus-covid-19/5221531002/ </ref>The building would remain vacant until early 2023, when Rack Attack Maine opened up on the space. As of August 2023, Rack Attack Maine remains on the space.<ref> https://www.rackattack.com/store/maine/</ref>
+This store would be abandoned for about a year, before Pier 1 Imports would open a location in the former space. It would remain there until 2020, when Pier 1 Imports permanently closed all of its stores due to COVID-19.<ref> https:<i>www.usatoday.com/story/money/2020/05/19/pier-1-stores-closing-liquidation-coronavirus-covid-19/5221531002/ </ref>The building would remain vacant until early 2023, when Rack Attack Maine opened up on the space. As of August 2023, Rack Attack Maine remains on the space.<ref> https:</i>www.rackattack.com/store/maine/</ref>
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -32,7 +33,7 @@ This store would be abandoned for about a year, before Pier 1 Imports would open
 |December 11, 2012
 |-
 |}
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -48,4 +49,4 @@ This store would be abandoned for about a year, before Pier 1 Imports would open
 |Unknown
 |}
 
-## References ##
+<h2> References </h2>

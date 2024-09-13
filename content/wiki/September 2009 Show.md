@@ -17,50 +17,50 @@ gallery = []
 |dvdcyber=y
 }}
 
-**September 2009** is the fall show released September 2009. Featuring 8 new songs. 
+<b>September 2009</b> is the fall show released September 2009. Featuring 8 new songs. 
 
 This show played from September 2009-November 2009. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1** 
+# <b>Segment 1</b> 
 ## 'Hourglass'
 ## 'Let's Dance'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC TV ID - 'Break Dancer'
 ## Monsters Vs Aliens DVD Spot 1
 ## PBS Kids Spot
 ## Countdown - 'Juggling' 
 ## Coke Spot 1
 ## CEC TV ID - '1950s Astronauts'
-# **Segment 2** 
+# <b>Segment 2</b> 
 ## 'Good To Be Alive'
 ## 'Someday Someway'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## CEC TV ID - 'CEC TV Chime'
 ## Sing Along Guys - 'Itsy Bitsy Spider'
 ## Amphibicar
 ## Birthday Promo
 ## CEC TV ID - 'Pizza Fan'
-# **Segment 3** 
+# <b>Segment 3</b> 
 ## 'Toppings'
 ## 'Fall For Everyone'
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## CEC TV ID - 'Monster'
 ## Artist Spotlight: Ziggy Marley - 'Family Time'
 ## Monsters Vs Aliens DVD Spot 2
 ## Coke Spot 2
 ## CEC TV ID - 'Sports'
-# **Segment 4** 
+# <b>Segment 4</b> 
 ## 'Don't Let Your Feet Touch The Ground'
 ## 'I'm Gonna Dream'
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## CEC TV ID - 'Astronaut Chuck E.'
 ## Countdown - 'Nasa'
 ## Baking With Betty - 'Mad Cow Disease'
 ## CEC TV ID - 'Claw Machine'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Bday 2009 Program (3stage, Cyberamic, Studio C)
 * Bday 2009 Training (3stage, Cyberamic, Studio C)
@@ -74,10 +74,10 @@ This show played from September 2009-November 2009.
 * Happy & You Know It (3stage, Cyberamic, Studio C)
 * Storytime w/ Chuck E. (3stage, Cyberamic, Studio C)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 This was one of two showtapes to replace the puppets with the animatronics between songs. The first being [April 2009]({{< ref "wiki/April 2009 Show.md" >}}) and the last being September 2009.
 
 <nowiki>*</nowiki>”Toppings”,”Fall For Everyone” ,”Let’s Dance”  were written by Dave Wilson for CEC for this show.

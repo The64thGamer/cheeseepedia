@@ -12,35 +12,35 @@ gallery = []
 |date=November, 1982
 |showbizreel=CEI 4-Track Reel|image=Raechristmas82thumbnail.png|credit1=Creative Engineering / Creative Records - Production Studio|credit2=Aaron Fetcher - Billy Bob, Looney Bird, Rolfe, and Earl Voice Actor|credit3=Burt Wilson - Fatz Geronimo Voice Actor|credit4=Duke Chauppetta - Dook LaRue Voice Actor|credit5=Rick Bailey - Beach Bear Voice Actor|credit6=Shalisa Sloan - Mitzi Mozzarella Voice Actress}}
 
-**_RAE Christmas '82**_ was a showtape of Non-Christmas and Christmas songs released in November of 1982 for Showbiz Pizza Place locations.
+<b><i>RAE Christmas '82</b></i> was a showtape of Non-Christmas and Christmas songs released in November of 1982 for Showbiz Pizza Place locations.
 
 Songs such as 'Disco Christmas' and 'In December' were released on the Disco Christmas Vinyl Record in the same year.
 
-## Show List ##
-#**Segment 1**
+<h2> Show List </h2>
+#<b>Segment 1</b>
 #*12 Days Of Christmas
-#**Segment 2**
+#<b>Segment 2</b>
 #*Rubber Biscuit
 
-#**Segment 3**
+#<b>Segment 3</b>
 ##Silent Night
 ##Feliz Navid
-#**Segment 4**
+#<b>Segment 4</b>
 #*Secret Agent Man
-#**Segment 5**
+#<b>Segment 5</b>
 #*Disco Christmas
-#**Segment 6**
+#<b>Segment 6</b>
 #*Gloria
-#**Segment 7**
+#<b>Segment 7</b>
 #*Night Before Christmas (Rolfe & Earl)
-#**Segment 8**
+#<b>Segment 8</b>
 ##Get Ready
 ##My Gal Is Red Hot
 
-# **Segment 9**
+# <b>Segment 9</b>
 #* In December
-# **Segment 10**
+# <b>Segment 10</b>
 #* Framed
-##Trivia##
+<h2>Trivia</h2>
 *This is Rick Bailey's first show voicing Beach Bear.
 *The 12 Days Of Christmas Originally had Rolfe and Earl singing about X-Ray specs and Disco records on the 7th and 8th days.

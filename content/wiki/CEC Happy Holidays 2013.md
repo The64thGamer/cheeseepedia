@@ -18,61 +18,61 @@ gallery = ["New Graphic.png","New Graphic.png"]
 |dvdcyber=y
 }}
 
-**Holiday Show 2013** is the Holiday show released December 2, 2013 featuring 9 reused songs.
+<b>Holiday Show 2013</b> is the Holiday show released December 2, 2013 featuring 9 reused songs.
 
 This was created to play from December 2, - December 31, 2013.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Song 1** 
+# <b>Song 1</b> 
 ## 'Deck the Halls'
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ##  Veggie Tales - 'Wrapped Myself Up For Christmas'
 ## Chillout 1 
-# **Song 2** 
+# <b>Song 2</b> 
 ## 'Up on the Housetop'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ## Fraggle Rock - 'Traveling Matt 1'
 ## Chillout 2 
-# **Song 3** 
+# <b>Song 3</b> 
 ## Jolly Old St. Nicholas
-# **Intermission 3** 
+# <b>Intermission 3</b> 
 ## Ken Chuck E. Derby 
 ## Chillout 3 
-# **Song 4**
+# <b>Song 4</b>
 ## Oh Christmas Tree
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ## Larry the Technician - 'Decorating The Tree'
 ## Chillout 4 
-# **Song 5** 
+# <b>Song 5</b> 
 ## Jingle Bells
-# **Intermission 5** 
+# <b>Intermission 5</b> 
 ## 'Fraggle Rock' - 'Snow Song'
 ## Chillout 5 
-# **Song 6** 
+# <b>Song 6</b> 
 ## I Heard the Bells on Christmas Day
-# **Intermission 6** 
+# <b>Intermission 6</b> 
 ##  Fraggle Rock - 'The Bells Of Fraggle Rock'
 ## Chillout 6 
-# **Song 7** 
+# <b>Song 7</b> 
 ## Boars Head Carol
-# **Intermission 7** 
+# <b>Intermission 7</b> 
 ## Fraggle Rock - 'Traveling Matt 2'
 ## Chillout 7 
-# **Song 8** 
+# <b>Song 8</b> 
 ## Toyland / March of the Wooden Solider
-# **Intermission 8** 
+# <b>Intermission 8</b> 
 ## Baking with Betty - 'Potato Latkes'
 ## Play Some Games For The Holidays
 ## Chillout 8 
-# **Song 9** 
+# <b>Song 9</b> 
 ## We Wish You a Merry Christmas / Here We Come a Wassailing 
-# **Intermission 9** 
+# <b>Intermission 9</b> 
 ## Super Jasper - 'Cookies for Santa'
 ## Dreidel Song
 ## Chillout 9
 
-## Lives: ##
+<h2> Lives: </h2>
 *Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
 *Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
@@ -82,10 +82,10 @@ This was created to play from December 2, - December 31, 2013.
 
 *Old Mac Donald (Studio C,Weigl)
 *BINGO (Studio C,Weigl)
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * All songs from this show were redubbed originally in [December 2012]({{< ref "wiki/December 2012 Show.md" >}}). With them originally coming from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}).
 * Despite CEC no longer using Duncan's voice for over a year they decided to use 'Dreidel Song' from [Chuck E's Holiday Party 1999]({{< ref "wiki/Chuck E's Holiday Party 1999.md" >}}). The footage was not changed nor was the voice cast. 
@@ -94,7 +94,7 @@ This was created to play from December 2, - December 31, 2013.
 * This was the final show with Cupid Shuffle. For this show, the avenger walkaround was edited back in after being removed with the rockstar redub.
 * This was also the final show to use the old 1999 Puppets. While the footage was the same from [Holiday 2002]({{< ref "wiki/Holiday 2002.md" >}}) Helen, Munch, Jasper and Pasqually would no longer be seen  after this point using their old puppets.
 *Ken Chuck E. Derby and Larry The Technican were added after not being presented in the previous year's show.
-* The Timecode part of this show is a clip from Sesame Street with the text **Merry Christmas Michael! Thanks for all that you do.'._
+* The Timecode part of this show is a clip from Sesame Street with the text <i>'Merry Christmas Michael! Thanks for all that you do.'.</i>
 
 * Baking with Betty was slightly reeditied to give a VHS scan line effect over any shot with Betty in it. This is because they wouldn't be able to push the footage into 16:9 without cropping out most of the footage. 
 

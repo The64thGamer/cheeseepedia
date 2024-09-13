@@ -5,12 +5,13 @@ tags = ["CEC Phases & Remodels"]
 date = 2024-07-03T20:37:23Z
 
 [Article]
+pageThumbnailFile = "Stoneoak2017.jpg|The first 2.0 Remodel at [[San Antonio (Stone Oak), TX (1403 N Loop)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic"]
 gallery = [":CECFlagshipMuralsCitation.png"]
 +++
-{{Generic|image=Stoneoak2017.jpg|desc=The first 2.0 Remodel at [San Antonio, Texas (1403 N Loop)]({{< ref "wiki/San Antonio (Stone Oak), TX (1403 N Loop).md" >}})}}The **CEC 2.0 Remodel** is a remodel of Chuck E. Cheese's (Chuck E. Cheese) restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new Chuck E. Live Stage (Dance Floor) (Dance Floor) concept that gives a walkaround characters a dedicated space to perform.
+The <b>CEC 2.0 Remodel</b> is a remodel of Chuck E. Cheese's (Chuck E. Cheese) restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new Chuck E. Live Stage (Dance Floor) (Dance Floor) concept that gives a walkaround characters a dedicated space to perform.
 
-## History ##
+<h2> History </h2>
 From 2016 to 2017 surveys were sent via email to see what parents would like to see in Chuck E. Cheese's locations. The survey resulted in a refresh of Chuck E. Cheese's as a whole.
 
 A San Francisco design firm, Tesser, conceptualized three designs for CEC's use. All of these designs had the same concept but objectively different aesthetics. The designs in question were described as 'Modern', 'Warm', and the one CEC chose, 'Bold'. 
@@ -23,19 +24,19 @@ On January 26, 2023, CEC stated that they officially completed their 200th new r
 
 The [Brooklyn, NY (139 Flatbush Ave)]({{< ref "wiki/Brooklyn, NY (139 Flatbush Ave).md" >}}) location officially reopened on April 14, 2023, and debuted the new Trampoline Zone concept, a trampoline park for small children. It is expected that the concept to be installed in future remodels. 
 
-## Design ##
+<h2> Design </h2>
 
-#### Exterior ####
+<h2>== Exterior </h2>==
 The bold design was chosen to keep Chuck E. Cheese's modern balance between a children's and family establishment. Each exterior features brown panels with a Swiss cheese-like pattern. The exterior's mix of darker and vibrant colors and the minimal usage of gray colors create a fresh-looking environment to attract guests to the building. 
 
-The main logo also received a redesign, opting for a lineless design. The Pizzeria's name also changed, dropping the _S' after 'Cheese' and giving it a new font. This modern font would only be used from 2017 to 2019 as they reverted to a similar version of the previous iteration.
+The main logo also received a redesign, opting for a lineless design. The Pizzeria's name also changed, dropping the ''S' after 'Cheese' and giving it a new font. This modern font would only be used from 2017 to 2019 as they reverted to a similar version of the previous iteration.
 
-#### Interior ####
+<h2>== Interior </h2>==
 The interior was redone by giving everything a fresh new coat of white paint and using black undertones in certain areas of the restaurant to highlight decorative text. Parody artwork has since been dropped entirely, making the only pieces of the artwork seen in the building the various large text reading various phrases such as 'High Five' or 'Party'. The usage of wooden planks was also prominent in earlier variations of this remodel, being used as booth dividers, wall panels, or substitutes for tiling for customer-use counters. 
 
 The Showroom, Now called the Birthday Area, is surrounded by artwork of the main five Chuck E. Cheese characters (Munch's Make Believe Band) with bios, which are also featured on the cups. 2017 2.0 Remodels featured a wall decal of the characters, while 2018 Remodels featured a slightly transparent poster (the only opaque areas are the silhouettes and the character bio's.). 2019 Remodels changed the posters again, making them completely opaque, with the formerly transparent area now being the standard color of the character, with the wall behind it also being colored the same.
 
-### Remodels Packages ###
+<h2>= Remodels Packages </h2>=
 Initially, locations that were eligible for this remodel got one of three packages: Gold, Silver, or Bronze. The Gold and Silver packages never left the first few remodeled stores from 2017 to 2018. In 2021 a Video Wall was added to the existing Dance Floor and started to roll out at new remodeled locations while existing remodeled locations kept their previous Dance Floor set up.
 
 During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.<ref></ref> Although [Grand Prairie]({{< ref "wiki/Grand Prairie, TX (2760 W I-20).md" >}}) and [Humble, TX]({{< ref "wiki/Humble, TX (124 E FM 1960 Bypass).md" >}}) aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
@@ -117,7 +118,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 
 
 
-##Mural locations##
+<h2>Mural locations</h2>
 
 *[Brandon, FL (1540 W Brandon Blvd)]({{< ref "wiki/Brandon, FL (1540 W Brandon Blvd).md" >}})
 *Baton Rouge, LA (7680 Andrea Dr)
@@ -136,12 +137,12 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Edison, NJ (1120 Route 1)]({{< ref "wiki/Edison, NJ (1120 Route 1).md" >}})
 *[St. Charles, MO (2669 Veterans Memorial Pkwy)]({{< ref "wiki/St Charles, MO (2669 Veterans Memorial Pkwy).md" >}})
 
-##Trampoline Zone Locations<ref>https://www.chuckecheese.com/trampolines/</ref>##
+<h2>Trampoline Zone Locations<ref>https://www.chuckecheese.com/trampolines/</ref></h2>
 
-###Arizona###
+<h2>=Arizona</h2>=
 *Yuma, AZ (1348 Yuma Palms Pkwy)
 
-###Califronia###
+<h2>=Califronia</h2>=
 *[Bakersfield, CA (3760 Ming Ave)]({{< ref "wiki/Bakersfield, CA (3760 Ming Ave).md" >}})
 *[Bell, CA (5089 E Florence Ave)]({{< ref "wiki/Bell, CA (5089 E Florence Ave).md" >}})
 *[Brentwood, CA (6061 Lone Tree Way)]({{< ref "wiki/Brentwood, CA (6061 Lone Tree Way).md" >}})
@@ -213,16 +214,16 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Walnut Park, CA (7726 South Alameda St)
 *[West Hills, CA (22940 Van Owen St)]({{< ref "wiki/West Hills, CA (22940 Van Owen St).md" >}})
 
-###Connecticut###
+<h2>=Connecticut</h2>=
 *[Manchester, CT (82 Buckland St)]({{< ref "wiki/Manchester, CT (82 Buckland St).md" >}})
 *[Newington, CT (3075 Berlin Tpke)]({{< ref "wiki/Newington, CT (3075 Berlin Tpke).md" >}})
 *[Orange, CT (82 Boston Post Rd)]({{< ref "wiki/Orange, CT (82 Boston Post Rd).md" >}})
 
-###Delaware###
+<h2>=Delaware</h2>=
 *[Dover, DE (1275 N DuPont Hwy)]({{< ref "wiki/Dover, DE (1275 N DuPont Hwy).md" >}})
 *[Wilmington, DE (3601 Silverside Rd)]({{< ref "wiki/Wilmington, DE (3601 Silverside Rd).md" >}})
 
-###Florida###
+<h2>=Florida</h2>=
 *Altamonte Springs, FL (541 W 426)
 *Boca Raton, FL (21699-A State Rd 7)
 *Boynton Beach, FL (244 N. Congress Ave)
@@ -238,7 +239,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Pompano Beach, FL (2201 N Federal Highway Ste 201)
 *[West Palm Beach, FL (2471 Okeechobee Blvd)]({{< ref "wiki/West Palm Beach, FL (2471 Okeechobee Blvd).md" >}})
 
-###Georgia###
+<h2>=Georgia</h2>=
 *Alpharetta, GA (925 North Point Dr)
 *Athens, GA (3654-I Atlanta Hwy)
 *[Atlanta, GA (2990 Cumberland Blvd)]({{< ref "wiki/Atlanta, GA (2990 Cumberland Blvd).md" >}})
@@ -252,15 +253,15 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Norcross, GA (5019 Jimmy Carter Blvd)
 *[Savannah, GA (6700 Abercorn St)]({{< ref "wiki/Savannah, GA (6700 Abercorn St).md" >}})
 
-###Indiana###
+<h2>=Indiana</h2>=
 *[Fort Wayne, IN (711 Coliseum Blvd)]({{< ref "wiki/Fort Wayne, IN (711 Coliseum Blvd).md" >}})
 *Merillville, IN (2961 E 80th Ave)
 *[Mishawaka, IN (822 W McKinley Ave)]({{< ref "wiki/Mishawaka, IN (822 W McKinley Ave).md" >}})
 
-###Louisiana###
+<h2>=Louisiana</h2>=
 *[Metairie, LA (7008 Veterans Blvd)]({{< ref "wiki/Metairie, LA (7008 Veterans Blvd).md" >}})
 
-###Massachusetts###
+<h2>=Massachusetts</h2>=
 *[Attleboro, MA (287 Washington St)]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}})
 *[Everett, MA (29 Mystic View Rd)]({{< ref "wiki/Everett, MA (29 Mystic View Rd).md" >}})
 *[Lowell, MA (199 Plain St)]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}})
@@ -268,7 +269,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[North Dartmouth, MA (412-418 State Rd)]({{< ref "wiki/North Dartmouth, MA (412-418 State Rd).md" >}})
 *[Worcester, MA (50 Southwest Cutoff)]({{< ref "wiki/Worcester, MA (50 Southwest Cutoff).md" >}})
 
-###Maryland###
+<h2>=Maryland</h2>=
 *[Annapolis, MD (2333-A Forest Dr)]({{< ref "wiki/Annapolis, MD (2333-A Forest Dr).md" >}})
 *[Catonsville, MD (5912 Baltimore National Pike)]({{< ref "wiki/Catonsville, MD (5912 Baltimore National Pike).md" >}})
 *[Bel Air, MD (5 Bel Air South Pkwy)]({{< ref "wiki/Bel Air, MD (5 Bel Air South Pkwy).md" >}})
@@ -282,7 +283,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Takoma Park, MD (1127 University Blvd E)]({{< ref "wiki/Takoma Park, MD (1127 University Blvd E).md" >}})
 *[Waldorf, MD (3241 Plaza Way)]({{< ref "wiki/Waldorf, MD (3241 Plaza Way).md" >}})
 
-###Michigan###
+<h2>=Michigan</h2>=
 * [Canton, MI (42001 Ford Rd)]({{< ref "wiki/Canton, MI (42001 Ford Rd).md" >}})
 * [Dearborn, MI (24399 Michigan Ave)]({{< ref "wiki/Dearborn, MI (24399 Michigan Ave).md" >}})
 *Grand Rapids, MI (3671 28th St
@@ -295,12 +296,12 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Sterling Heights, MI (13745 Lakeside Cir)
 *Troy, MI (740 John R Rd)
 
-###Missouri###
+<h2>=Missouri</h2>=
 *[Ellisville, MO (15913 Manchester Rd)]({{< ref "wiki/Ellisville, MO (15913 Manchester Rd).md" >}})
 *[St. Charles, MO (2669 Veterans Memorial Pkwy)]({{< ref "wiki/St Charles, MO (2669 Veterans Memorial Pkwy).md" >}})
 *St. Louis, MO (720 South County Centerway)
 
-###Nevada###
+<h2>=Nevada</h2>=
 *Henderson, NV (1521 W Sunset Rd)
 *[Las Vegas, NV (7381 W Lake Mead Blvd)]({{< ref "wiki/Las Vegas, NV (7381 W Lake Mead Blvd).md" >}})
 *Las Vegas, NV (9230 S Eastern Ave)
@@ -309,10 +310,10 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *North Las Vegas, NV (755 W Craig Rd Suite 144)
 *Reno, NV (5000 Smithridge Dr)
 
-###New Hampshire###
+<h2>=New Hampshire</h2>=
 *[Manchester, NH (1525 S Willow St)]({{< ref "wiki/Manchester, NH (1525 S Willow St).md" >}})
 
-###New Jersey###
+<h2>=New Jersey</h2>=
 *[Brick, NJ (56 Chambers Bridge Rd)]({{< ref "wiki/Brick, NJ (56 Chambers Bridge Rd).md" >}})
 *[Cherry Hill, NJ (2100 Rt 38)]({{< ref "wiki/Cherry Hill, NJ (2100 Rt 38).md" >}})
 *[Deptford, NJ (1500 Almonesson Rd)]({{< ref "wiki/Deptford, NJ (1500 Almonesson Rd).md" >}})
@@ -327,7 +328,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Union, NJ (2700 US-22)]({{< ref "wiki/Union, NJ (2700 US-22).md" >}})
 *[Wayne, NJ (1639 Rt 23)]({{< ref "wiki/Wayne, NJ (1639 Rt 23).md" >}})
 
-###New York###
+<h2>=New York</h2>=
 *[Bronx, NY (1816 E Gun Hill Rd)]({{< ref "wiki/Bronx, NY (1816 E Gun Hill Rd).md" >}})
 *[Bronx, NY (700 Exterior St)]({{< ref "wiki/Bronx, NY (700 Exterior St).md" >}})
 *[Buffalo, NY (4408 Milestrip Rd)]({{< ref "wiki/Buffalo, NY (4408 Milestrip Rd).md" >}})
@@ -348,7 +349,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[West Islip, NY (155 Sunrise Hwy)]({{< ref "wiki/West Islip, NY (155 Sunrise Hwy).md" >}})
 *[Yonkers, NY (1703 Central Park Ave)]({{< ref "wiki/Yonkers, NY (1703 Central Park Ave).md" >}})
 
-###North Carolina###
+<h2>=North Carolina</h2>=
 *Asheville, NC (104 River Hills Rd)
 *[Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}})
 *[Charlotte, NC (5612 Albemarle Rd)]({{< ref "wiki/Charlotte, NC (5612 Albemarle Rd).md" >}})
@@ -362,17 +363,17 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Rocky Mount, NC (730 Sutters Creek Blvd)]({{< ref "wiki/Rocky Mount, NC (730 Sutters Creek Blvd).md" >}})
 *[Winston-Salem, NC (620 Hanes Mall Blvd)]({{< ref "wiki/Winston-Salem, NC (620 Hanes Mall Blvd).md" >}})
 
-###Ohio###
+<h2>=Ohio</h2>=
 *[Toledo, OH (5455 Airport Hwy)]({{< ref "wiki/Toledo, OH (5455 Airport Hwy).md" >}})
 *[Toledo, OH (5077 Monroe St)]({{< ref "wiki/Toledo, OH (5077 Monroe St).md" >}})
 
-###Oregon###
+<h2>=Oregon</h2>=
 *[Salem, OR (3240 Lancaster Dr NE)]({{< ref "wiki/Salem, OR (3240 Lancaster Dr NE).md" >}})
 
-###Rhode Island###
+<h2>=Rhode Island</h2>=
 *[Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}})
 
-###South Carolina###
+<h2>=South Carolina</h2>=
 *[Columbia, SC (1775 Burning Tree Dr)]({{< ref "wiki/Columbia, SC (1775 Burning Tree Dr).md" >}})
 *Florence, SC (2701 David McLeod Blvd)
 *[Greenville, SC (253 Congaree Rd)]({{< ref "wiki/Greenville, SC (253 Congaree Rd).md" >}})
@@ -380,7 +381,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Spartanburg, SC (660 Spartan Blvd)
 *Sumter, SC (1121 Broad St)
 
-###Texas###
+<h2>=Texas</h2>=
 *Brownsville, TX (2800 N Expressway)
 *[Conroe, TX (16790 Interstate 45 South)]({{< ref "wiki/Conroe, TX (16790 Interstate 45 South).md" >}})
 *[Corpus Christi, TX (5118 S Staples St)]({{< ref "wiki/Corpus Christi, TX (5118 S Staples St).md" >}})
@@ -405,7 +406,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *Sugar Land, TX (2303 Town Center Dr)
 *[Webster, TX (1541 West Bay Area Blvd)]({{< ref "wiki/Webster, TX (1541 West Bay Area Blvd).md" >}})
 
-###Vrginia###
+<h2>=Vrginia</h2>=
 *[Alexandria, VA (6301 Richmond Hwy)]({{< ref "wiki/Alexandria, VA (6301 Richmond Hwy).md" >}})
 *[Chesapeake, VA (4400 Peek Trail)]({{< ref "wiki/Chesapeake, VA (4400 Peek Trail).md" >}})
 *[Dale City, VA (14085 Shoppers Best Way)]({{< ref "wiki/Dale City, VA (14085 Shoppers Best Way).md" >}})
@@ -420,5 +421,5 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Virginia Beach, VA (2699 Lishelle Place)]({{< ref "wiki/Virginia Beach, VA (2699 Lishelle Place).md" >}})
 *[Winchester, VA (145 E Tevis St)]({{< ref "wiki/Winchester, VA (145 E Tevis St).md" >}})
 
-## References ##
+<h2> References </h2>
 <references />

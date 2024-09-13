@@ -8,15 +8,15 @@ date = 2023-05-15T18:42:46Z
 contributors = ["JamesLemony","CEC Tinley"]
 gallery = []
 +++
-The **_Pizza Time Theatre Broadway Helen Theme**_ was a temporary alteration to the stage and character designs for use in the 1983 [Broadway Helen Henny]({{< ref "wiki/Broadway Helen Henny.md" >}}) showtape.
+The <b><i>Pizza Time Theatre Broadway Helen Theme</b></i> was a temporary alteration to the stage and character designs for use in the 1983 [Broadway Helen Henny]({{< ref "wiki/Broadway Helen Henny.md" >}}) showtape.
 
-## Stage Design ##
-**Munch's Stage**
+<h2> Stage Design </h2>
+<b>Munch's Stage</b>
 
 * A plate across the top reading: 'The Great White Way!'
 
 
-**Center Stage**
+<b>Center Stage</b>
 
 * Poster featuring Helen herself next to Jasper. 
 * Billboard saying: 'Pizza Time Munchies.'
@@ -25,15 +25,15 @@ The **_Pizza Time Theatre Broadway Helen Theme**_ was a temporary alteration to 
 * Other various billboards
 
 
-**Pasqually's Stage**
+<b>Pasqually's Stage</b>
 
 * A plate across the top reading something illegible.
 
-## Character Design ##
+<h2> Character Design </h2>
 
 The character outfits stayed the same except for Helen. Helen gained her new Cyberamic outfit, 'Broadway'. 
 
 
 
-## Video ##
+<h2> Video </h2>
 <youtube width='400' height='300'>WcSHExDSFT8</youtube>

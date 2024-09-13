@@ -12,18 +12,18 @@ gallery = []
 |date=November 1983
 |showbizreel=y}}
 
-**_Uncle Santa Showtape**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
-##Segment List##
-#**Segment 1**
+<b><i>Uncle Santa Showtape</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
+<h2>Segment List</h2>
+#<b>Segment 1</b>
 ##Feliz Navidad (Sun & Moon)
-#**Segment 2**
+#<b>Segment 2</b>
 ##Deck the Halls with Advertising
 ##In December
-#**Segment 3**
+#<b>Segment 3</b>
 ##Super Santa Scanner Skit
-#**Segment 4**
+#<b>Segment 4</b>
 ##Night Before Christmas (Sun & Moon)
-#**Segment 5**
+#<b>Segment 5</b>
 ##Santa Show Part 1
-#**Segment 6**
+#<b>Segment 6</b>
 ##Santa Show Part 2

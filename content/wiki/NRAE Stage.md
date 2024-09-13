@@ -5,14 +5,15 @@ tags = ["Stage Variations"]
 date = 2024-05-16T01:02:01Z
 
 [Article]
+pageThumbnailFile = "New Rockafire.png|A promotional photo of the New Rock-afire Explosion, featuring both side turntables showing the first side."
 contributors = ["GallaRBX2"]
 gallery = []
 +++
-{{Generic|image=New Rockafire.png|desc=A promotional photo of the New Rock-afire Explosion, featuring both side turntables showing the first side.}}
 
-The **_New Rock-afire Stage**_ was a new stage designed in the 90s, seen through the New Rock-afire's life through various Family Entertainment Centers (FECs) throughout the 90's to early 2010's.
 
-## Design ##
+The <b><i>New Rock-afire Stage</b></i> was a new stage designed in the 90s, seen through the New Rock-afire's life through various Family Entertainment Centers (FECs) throughout the 90's to early 2010's.
+
+<h2> Design </h2>
 The stage features three stages containing separate visual scenes alongside their animatronic characters, and a turntable on each stage, the side turntables containing seperate visual scenes on each side.  
 
 Stage Right features a rotating stage with a wall, with Beach Bear and Window Looney Bird on one side, and Lab Looney Bird on the other side.  
@@ -31,7 +32,7 @@ The outside of the stage featured a Silver Sparkle curtain spanning across all t
 
 Some stages would feature a shorter stage that allowed for Karaoke, This stage would be positioned either on Stage Right for some stage variants, or between Stage Center and Stage Left for standard stage variants. Usually Karaoke shows would feature the characters on Center stage singing along with parts of the song, and the lyrics on the TV, and a smaller Karaoke TV.
 
-## Early Iterations ##
+<h2> Early Iterations </h2>
 TODO:
 
 

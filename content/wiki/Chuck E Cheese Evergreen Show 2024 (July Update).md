@@ -8,51 +8,51 @@ date = 2024-07-31T02:26:00Z
 contributors = ["AstridMascotFan2005","Documentor"]
 gallery = []
 +++
-{{Showtape|title=Evergreen Show 2024 July Update|image=EverJuly24.png|cybernetwork=y|studiocnetwork=y|date=July 29, 2024|3stagenetwork=y}}
-**_Chuck E. Cheese Evergreen 2024 (July Update)**_ is the generic show released on July 29, 2024. It features a variety of songs released from 2014-2023. The show features 8 songs. 
 
-## Show List ##
+<b><i>Chuck E. Cheese Evergreen 2024 (July Update)</b></i> is the generic show released on July 29, 2024. It features a variety of songs released from 2014-2023. The show features 8 songs. 
 
-# **Intermission 1**
+<h2> Show List </h2>
+
+# <b>Intermission 1</b>
 ## Zigazoo Star Showcase - 'DJ Munch'
 ## Off Road with Chuck E. - Episode 4
-# **Skit 1**
+# <b>Skit 1</b>
 ## Chuck E. Cheese - 'Chuck E's Middle Name'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## NewJeans - 'Bubble Gum'
 ## KIDZ BOP Kids - 'Houdini'
 ## Chuck E. & Friends - 'Bubble Bubble Pop!'
 ## Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'I Love Sparkles!'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## KIDZ BOP Kids - 'we can't be friends (wait for your love)
-# **Skit 3**
+# <b>Skit 3</b>
 ## Pasqually - 'It's the 70s'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## Ryan's World The Movie Trailer
 ## Chuck E. Cheese - 'Water Buffalo'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. & Friends - 'Stay Positive'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## KIDZ BOP Kids - 'Is It Over Now?
-# **Skit 5**
+# <b>Skit 5</b>
 ## Helen & Bella B. - 'Bailando'
 ## Helen Henny - 'Game On!'
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## Off Road with Chuck E. - Episode 1
-# **Skit 6**
+# <b>Skit 6</b>
 ## Chuck E. & Friends 'Another Chuck E. Day'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ## Inside Out 2- 'The Life of Riley'
-# **Skit 7**
+# <b>Skit 7</b>
 ## Helen Henny - 'Disco Dancing Dinosaur Party'
-# **Intermission 8**
+# <b>Intermission 8</b>
 ## Bella B. 'El Rey Guitarrista'
 ## DJ Munch - 'Lend a Helping Hand'
-# **Skit 8**
+# <b>Skit 8</b>
 ## Jasper T. Jowls - 'Arizona'
-# **Intermission 9**
+# <b>Intermission 9</b>
 ## KIDZ BOP Kids - 'Si No Estás
 ## Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
 ## DJ Munch - 'Play All You Can Play' 
@@ -62,13 +62,13 @@ gallery = []
 ## Chuck E. Cheese - 'Mary Had a Rockin' Little Lamb' 
 ## KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
 * [Me & My Friends (New Countdown)]({{< ref "wiki/Me & My Friends (New Countdown).md" >}}) (3-Stage Navori, CEC Stage Navori, Media Navori)
 * Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
 
-## Trivia ##
+<h2> Trivia </h2>
 
 * Despite [Billings, MT (100 24th St)]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) removing the animatronics on July 28, 2024 Billings would receive the 3-Stage version of Evergreen 2024 July Update without the Legacy content. This would play for 9 hours as on July 30th the store would begin playing the Main Stage varient.

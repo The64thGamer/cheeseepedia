@@ -5,14 +5,15 @@ tags = ["Store List"]
 date = 2024-06-19T15:42:06Z
 
 [Article]
+pageThumbnailFile = "Largo, MD in 2017.jpg|Largo, MD’s exterior in the year 2017"
 contributors = ["PachCEC","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []
 +++
-{{Generic|image=Largo, MD in 2017.jpg|desc=Largo, MD’s exterior in the year 2017}}
 
-**_Largo, MD (1100 Shoppers Way)**_ is a _Chuck E. Cheese_ which opened on February 6, 2004, with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-## Stages and Animatronics ##
+<b><i>Largo, MD (1100 Shoppers Way)</b></i> is a <i>Chuck E. Cheese</i> which opened on February 6, 2004, with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<h2> Stages and Animatronics </h2>
 Largo opened with a Studio C Beta [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).md" >}}). It received the 2.0 remodel in 2023.
 {| class='wikitable'
 |+Largo Stage History
@@ -32,13 +33,13 @@ Largo opened with a Studio C Beta [Chuck E. Cheese 16m (Animatronic)]({{< ref "w
 |Still in use
 |}
 
-## History ##
+<h2> History </h2>
 Largo opened on February 6, 2004 as a Phase 3 store on the Capital Center Boulevard, the former site of the old Washington Capitals arena. It is located just a few minutes from the current home of the Washington Commanders, Commanders Field (formerly known as the FedExField from November 1999 to February 2024). When the store first opened, they had a Studio C Beta stage with Chuck E. wearing his cool Chuck outfit. Their decor included 'Must C TV' posters, postcard posters, and some early and late 90's parody posters. Between 2008-2009, the store underwent a 2005 remodel which replaced dim lighting with fluorescent lighting, changed the diner lights in the showroom, and replaced the 'Must C TV' and early and late 90's parody posters with kids posters, while retaining the 2001 postcard posters and some other late 90's artwork. In the late 2000's and early 2010's, Chuck E. received his Avenger outfit, and in the early 2010's, the blue screen camera was replaced with the ticket blaster. In September 2013, Largo removed the Avenger hat from Chuck E. to make it look like Rockstar Chuck. In the mid to late 2010's, the blue screen was removed entirely and Chuck E. received the full Rockstar outfit. On September 19th, 2022, Largo disabled their Studio C bot due to Navori. The next change occurred in 2023, when Largo started their 2.0 remodel. As of June 2024, Largo is still open with 2.0 remodel.
 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Video
@@ -52,4 +53,4 @@ Largo opened on February 6, 2004 as a Phase 3 store on the Capital Center Boulev
 |
 |}
 
-## References ##
+<h2> References </h2>

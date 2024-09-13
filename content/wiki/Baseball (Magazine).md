@@ -8,7 +8,7 @@ date = 2023-07-18T16:39:58Z
 contributors = ["The 64th Gamer","Nostalgia Cow"]
 gallery = []
 +++
-{{Art|image=Rte3r24etre32r3gt43422.png|text1=Sports Illustrated|text2=The Big Cheese-- Chuck E. Bats .1000|manufacturer=ShowBiz Pizza Time Inc.|dimensions=21'x17' or 15'x12'|color=Beige, Blue, Red}}**_Baseball**_ **_(Magazine)**_ was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
-##Design##
+<b><i>Baseball</b></i> <b><i>(Magazine)</b></i> was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
+<h2>Design</h2>
 The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue- Baseball (Shelf Item) which has Chuck E. in a New York Yankees baseball uniform while holding a baseball bat.
 

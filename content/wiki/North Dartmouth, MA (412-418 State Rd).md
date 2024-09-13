@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2024-09-05T12:27:50Z
 
 [Article]
+pageThumbnailFile = "North Dartmouth 2.0.jpg|Exterior with 2.0 remodel, October 2023 (PC: loganjcarreiro on Instagram)"
 contributors = ["Destinationimagination95","2600:4040:59FF:B100:9C6:388E:A183:C3C5","Rexburg090","ChuckfeldStan","2600:4040:5A0E:D900:914A:2FFD:A5A1:E600","CorrectorMan","2600:4040:5A0E:D900:2D95:799B:8CC7:CDB2","ThatBoiCydalan","2600:4040:5A0E:D900:2CEB:FB20:F6A8:44A0","Cheeseclassic","2600:4040:5A0E:D900:25A3:F41D:7576:730D","Chez","Harchambeault2026","Caydenpedia"]
 gallery = []
 +++
-{{Generic|image=North Dartmouth 2.0.jpg|desc=Exterior with 2.0 remodel, October 2023 (PC: loganjcarreiro on Instagram)}}
-**_412-418 State Rd, Store #751**_ is a _Chuck E. Cheese's_ location in North Dartmouth, Massachusetts that opened on December 5, 1994; in the Dartmouth Towne Center. This store is currently open with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
 
-##Stages##
+<b><i>412-418 State Rd, Store #751</b></i> is a <i>Chuck E. Cheese's</i> location in North Dartmouth, Massachusetts that opened on December 5, 1994; in the Dartmouth Towne Center. This store is currently open with the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}).
+
+<h2>Stages</h2>
 In the early 2000s, the original Helen dress, Jasper shirt, and Pasqually apron were replaced. In 2005, the curtains were disabled. In 2010, they switched to the Avenger outfit. In late 2014, Chuck, Helen, and Munch all got new masks. By the end of 2016, Jasper's 90s mask was replaced with the mask from New London, which closed 2 years prior. His shirt was also replaced. In October 2021, Pasqually's 90s mask was taken apart, to reuse all the pieces on Worcester's mask base. Around that timeframe, the 2005 logo on the exterior was replaced with the 2.0 logo. In September 2023, the stage was removed due to the 2.0 remodel. During the dismantling process, the construction crew shook the animatronics back and fourth on the stage until they fell, box cutters were used to destroy the character cosmetics, and the [Wink]({{< ref "wiki/Wink (Cyberamic).md" >}}) was dangling by the airlines for sometime until they were cut off, leading the Wink to go down to the floor. Following the show removal, the character cosmetics were trashed and transferred to a landfill. The rest of the show remains that didn't get discarded was transferred to the [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}) for unknown purposes.
 
 North Dartmouth was one of the five New England locations that was open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).md" >}}), [Attleboro, MA (287 Washington St)]({{< ref "wiki/Attleboro, MA (287 Washington St).md" >}}), [Waterbury, CT (650 Wolcott St)]({{< ref "wiki/Waterbury, CT (650 Wolcott St).md" >}}), & [Newington, CT (3075 Berlin Tpke)]({{< ref "wiki/Newington, CT (3075 Berlin Tpke).md" >}}). 
-## History##
+<h2> History</h2>
 North Dartmouth opened in Dartmouth Towne Center on December 5th, 1994, with the [1-Stage]({{< ref "wiki/1-Stage.md" >}}).  
 
 In 2009, North Dartmouth got the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative
@@ -24,10 +25,10 @@ In 2023, the store received the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC
 
 On the week of April 20, 2024, North Dartmouth got trampoline socks, which is an indicator that the Trampoline Zone is yet to be installed. It is expected to be in-store by May 4th. 
 
-##Arcade Machines & Rides##
+<h2>Arcade Machines & Rides</h2>
 Note: Not all of the arcade machines in the store are listed, of some are missing, please add them in, it needs to be what they have as of July 2023.
 
-###Skill###
+<h2>=Skill</h2>=
 *Screw Ball
 *Subway Surfers
 *Flappy Tickets
@@ -56,14 +57,14 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 *Knockout Punch
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 
-###Coin Action###
+<h2>=Coin Action</h2>=
 
 *Wonder Wheel
 * Intermission
 *Hollywood Reels
 *Chuck E's Rubble Bubble
 
-###Kiddie###
+<h2>=Kiddie</h2>=
 
 *Dog Pounder
 *Bike Rally
@@ -79,7 +80,7 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 *Hit Music
 *NBA Hoop Troop Jr.
 
-##Stages##
+<h2>Stages</h2>
 {| class='wikitable'
 |+
 !Stage
@@ -103,7 +104,7 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 |2021 Model.
 |}
 
-## Animatronics##
+<h2> Animatronics</h2>
 {| class='wikitable'
 |+
 ! Animatronic
@@ -142,7 +143,7 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 |
 |}
 
-##Walkarounds##
+<h2>Walkarounds</h2>
 {| class='wikitable'
 !Head
 !Outfit & Suits
@@ -157,7 +158,7 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 
 
 
-## Videos##
+<h2> Videos</h2>
 {| class='wikitable'
 ! Link
 !Description

@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-04-23T03:16:39Z
 
 [Article]
+pageThumbnailFile = "Owastaken.jpg|Exterior, 2017"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Owastaken.jpg|desc=Exterior, 2017}}
-**_5151 Lakewood Blvd, Store #357**_ is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
+
+<b><i>5151 Lakewood Blvd, Store #357</b></i> is a Showbiz Pizza Place that opened on March 23, 1983 with a Rock-Afire Explosion, which is still open to this day.
 
 This location is located in the Lakewood Shopping Center right next to the Lakewood Center Mall. They would receive Concept Unification in 1991 or 1992, and removed the 3-Stage in December of 1998 for a Studio C Alpha, which would also be removed in February 2024 after the location received the 2.0 Remodel
-##History ##
+<h2>History </h2>
 Lakewood opened on March 23rd, 1983, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it was a Showbiz Pizza. This location had the Rock-Afire Explosion Classic Stage. In 1988 or 1989, Lakewood would receive the 1988 remodel removing older SPP decor for newer decor, and the change to the Billy Bob stage (Showbiz Pizza Campground). Around Early 1991, Lakewood would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, Lakewood would receive either [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) or [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. In December of 1998 the store's 3-Stage would be replaced by a Studio C Alpha. In the year 2000, Lakewood would receive the [Phase 3]({{< ref "wiki/Phase 3 (2000).md" >}}) remodel and got a new exterior (Which involved an expansion of the front of the store to make room for more games) and most of the 90s decor was removed and the 2000's decor and SkyTubes was added. In Early 2009, it would undergo the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the expansion of the exterior and store, the removal of the early 2000's posters, and the new decor and booths. In Late February 2024, the store would receive the CEC 2018 2.0 Remodel Program (2.0 Remodel), where the Studio C Alpha would be removed and replaced with a [Video Wall]({{< ref "wiki/Video Wall.md" >}}) and Chuck E. Live Stage (Dance Floor) (Dance Floor), with the store hosting its Grand Reopening on April 10, 2024, which is how the store currently sits as to this day.
-##Stages##
+<h2>Stages</h2>
 Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha, which would eventually be removed in Late February 2024 in response to the store receiving the 2.0 Remodel.
 {| class='wikitable'
 !Stage
@@ -47,7 +48,7 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |In Use
 |2021 Model
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Code
@@ -118,7 +119,7 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 |Unknown
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

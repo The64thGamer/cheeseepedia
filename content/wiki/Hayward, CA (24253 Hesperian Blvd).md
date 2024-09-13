@@ -8,18 +8,18 @@ date = 2024-07-13T05:50:02Z
 contributors = ["SuperCreamPiper2008","Cheeseclassic","Veronancy","CECMadison","Floorplanmuncher"]
 gallery = []
 +++
-{{Stub}}**_24253 Hesperian Blvd**_ _was a Pizza Time Theatre_ that opened in April 1981 (day unknown) with a Cyberamics Portrait / Shelf Stage (Portrait Stage) and closed in Summer 1995 (month and day unknown) as a _Chuck E. Cheese's Pizza_. They also had a The King / King Kat (Lounge) (King) animatronic until its closure.
+<b><i>24253 Hesperian Blvd</b></i> <i>was a Pizza Time Theatre</i> that opened in April 1981 (day unknown) with a Cyberamics Portrait / Shelf Stage (Portrait Stage) and closed in Summer 1995 (month and day unknown) as a <i>Chuck E. Cheese's Pizza</i>. They also had a The King / King Kat (Lounge) (King) animatronic until its closure.
 
-##History##
+<h2>History</h2>
 TODO
 
-##Animatronics##
+<h2>Animatronics</h2>
 TODO
 
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

@@ -5,23 +5,24 @@ tags = ["Store List"]
 date = 2023-12-22T23:41:10Z
 
 [Article]
+pageThumbnailFile = "Salina SPP Now.jpg|Site of the Salina SPP in June 2022."
 contributors = ["Cheeseclassic","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Salina SPP Now.jpg|desc=Site of the Salina SPP in June 2022.}}
-**_2555 Market Place**_ was a _ShowBiz Pizza Place_ that opened on September 10, 1981 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on January 8, 1984.<ref>https://www.newspapers.com/article/the-salina-journal/56832763/</ref><ref name=':0'>https://www.newspapers.com/article/the-salina-journal-showbiz-pizza-salina/32791643/</ref>
 
-##History##
+<b><i>2555 Market Place</b></i> was a <i>ShowBiz Pizza Place</i> that opened on September 10, 1981 with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), and closed on January 8, 1984.<ref>https:<i>www.newspapers.com/article/the-salina-journal/56832763/</ref><ref name=':0'>https:</i>www.newspapers.com/article/the-salina-journal-showbiz-pizza-salina/32791643/</ref>
+
+<h2>History</h2>
 The building would be constructed by the Jarvis Construction company in 1981 at $285,000, being 7,000ft<sup>2</sup>. Between September 7th-9th, the Salina store would host a media preview prior to opening.<ref name=':0' />
 
 The location would open on September 10, 1981 as the 29th ShowBiz restaurant. It would be the company's smallest market area opening of the time. The restaurants opening staff would be 80 personnel, with Bob St. Peter as its manager.<ref name=':0' />
 
 In June of 1983 the store would lend its services amongst other companies to the Salina Police Department to have 2,500 kids fingerprinted as memorabilia for their families.<ref>https://www.newspapers.com/article/the-salina-journal/22251464/</ref>
 
-### Closing ###
+<h2>= Closing </h2>=
 By January of 1984 the store would be reduced to 20 employees from its opening 80. Its manager was by then Steve Hilton. Steve would learn of his store's eventual closure in December of 1983, due to radio advertisements for his store set to air before New Years Eve being cancelled. On January 6, he would be officially told of his store's closure, due to poor sales, on a conference call with ShowBiz corporate. Hilton would describe the meeting as 'a tearjerker.' The store would set to close the coming Sunday on January 8th.<ref>https://www.newspapers.com/article/the-salina-journal/56832763/</ref>
 
-##Stage##
+<h2>Stage</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -32,7 +33,7 @@ By January of 1984 the store would be reduced to 20 employees from its opening 8
 |January 1984
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -85,4 +86,4 @@ By January of 1984 the store would be reduced to 20 employees from its opening 8
 
 
 
-## References ##
+<h2> References </h2>

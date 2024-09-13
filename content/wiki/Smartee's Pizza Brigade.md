@@ -8,35 +8,35 @@ date = 2024-08-28T00:45:13Z
 contributors = ["Lelmaster","Rafedreams","Stripes"]
 gallery = []
 +++
-{{Stub}}{{AnimatronicShow|image=Screenshot 2024-08-11201000.png|manufacturer=Unknown|numCharacters=5|status=Closed|businessType=Pizza Arcade|years=Roughly October 1, 1982 ~ November of 1983}}
+
 Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long unfortunately, as they closed about a year after opening. Their main selling point was about how parents could relax and watch television while their kids could play arcade games supervised.
 
-## Characters ##
+<h2> Characters </h2>
 
-### Smartee ###
+<h2>= Smartee </h2>=
 Owl character, likely the leader of the band.
 
-### Pumper ###
+<h2>= Pumper </h2>=
 Elephant character
 
-### Burnee ###
+<h2>= Burnee </h2>=
 Baboon Character
 
-### Polee ###
+<h2>= Polee </h2>=
 Bear character
 
-### Howlee Wolf ###
+<h2>= Howlee Wolf </h2>=
 Wolf character
 
-## Installed Locations ##
+<h2> Installed Locations </h2>
 
-### Ohio ###
-Toledo, OH (5211 Renwyck Drive) (Toledo, OH **(5211 Renwyck Drive)**)
-
-
+<h2>= Ohio </h2>=
+Toledo, OH (5211 Renwyck Drive) (Toledo, OH <b>(5211 Renwyck Drive)</b>)
 
 
-## References ##
+
+
+<h2> References </h2>
 https://www.newspapers.com/article/fulton-county-expositor-smartees-pizza/142315252/
 
 https://archive.org/details/428122129-10221299676156203-1243370775018113238-n/427993412_10221299678036250_2011661218243808584_n.jpg

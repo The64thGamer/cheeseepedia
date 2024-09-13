@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2024-09-01T02:14:13Z
 
 [Article]
+pageThumbnailFile = "EastgateExterior2024.png|Image of Eastgate's current exterior (2024)."
 contributors = ["Documentor","CECBowlingGreen","Rexburg090","RedaCEC","216.125.34.66","Studio 18 Ent","CEC Tinley","Chuckatronics","ThatBoiCydalan","The 64th Gamer","CoolerDude"]
 gallery = []
 +++
-{{Generic|image=EastgateExterior2024.png|desc=Image of Eastgate's current exterior (2024).}}
-**_Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102**_ is a _Chuck E. Cheese's Pizza_ that opened June 17, 1990 with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
+
+<b><i>Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102</b></i> is a <i>Chuck E. Cheese's Pizza</i> that opened June 17, 1990 with a [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]({{< ref "wiki/Chuck E Live Stage (Dance Floor).md" >}}).
 
 The Eastgate, OH Chuck E. Cheese's Pizza opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008. 
 
-## Stages: ##
-Opened up with Chuck E.’s House in 1990 receiving barely any updates or maintenance after being installed.<ref>https://www.youtube.com/watch?v=tRZH6lOgSbw</ref> Helen had the last PTT Mask which was replaced by 2002/2003.<ref>https://www.facebook.com/photo.php?fbid=1104755625678&set=a.1268012426996&type=3&mibextid=2DNWWX&fs=e&s=cl</ref> In 2002/2003 [Florence, KY (7635 Mall Rd)]({{< ref "wiki/Florence, KY (7635 Mall Rd).md" >}}) original Helen body and cosmetics were sent to Eastgate to replace their Rocker Helen. 
+<h2> Stages: </h2>
+Opened up with Chuck E.’s House in 1990 receiving barely any updates or maintenance after being installed.<ref>https:<i>www.youtube.com/watch?v=tRZH6lOgSbw</ref> Helen had the last PTT Mask which was replaced by 2002/2003.<ref>https:</i>www.facebook.com/photo.php?fbid=1104755625678&set=a.1268012426996&type=3&mibextid=2DNWWX&fs=e&s=cl</ref> In 2002/2003 [Florence, KY (7635 Mall Rd)]({{< ref "wiki/Florence, KY (7635 Mall Rd).md" >}}) original Helen body and cosmetics were sent to Eastgate to replace their Rocker Helen. 
 
 In late 2005 Eastgate would would receive [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) this would involve removing [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}) and replacing it with [Studio C Cappa v3]({{< ref "wiki/Studio C Cappa.md" >}}).    
 
@@ -51,7 +52,7 @@ On April 8, 2024 the Studio C Beta would be removed and destroyed for the [Chuck
 |-
 |}
 
-## History ##
+<h2> History </h2>
 Eastgate opened on June 17, 1990 it was a franchise store owned by  'Bernstein Restaurant Group' who also owned [Florence, KY (7635 Mall Rd)]({{< ref "wiki/Florence, KY (7635 Mall Rd).md" >}}). The store opened with the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) and Chuck E.'s House (Chuck E.’s House). Throughout the 1990s Eastgate would update the store to receive new artwork such as the Parody Awards & Mount Chuckmore. Around this time they would install [Phase 1 (1994)]({{< ref "wiki/Phase 1 (1994).md" >}}). 
 
 In Fall 2005 the store would receive [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). During the remodel the Chuck E.'s House (Chuck E.’s House) would be replaced with Version Three of the [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}). With it still being a franchise certain aspects would be retained from its [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}) such as the wood paneling seen by the bathrooms & the wood paneling near Kid Check. They'd also keep Mount Chuckmore during the remodel.   
@@ -60,11 +61,11 @@ On August 25, 2008, the 'Bernstein Restaurant Group' sold its two stores of 4394
 
 The Skytubes were removed in Spring 2016 with Tokens then removed in December 2016. 
 
-In 2019 due to the closure of Colerain several posters were sent to Eastgate. The posters gained were _Grand Marshal of Games' (CEC Décor) (Grand Marshal of Games)', _Ambassador of Fun' (CEC Décor) (Ambassador of Fun)' and [two Red CEC Tickets]({{< ref "wiki/Red CEC Tickets (CEC Décor).md" >}}), Along with several showroom chairs, the Kid Check stand, & Parts of arcade games such as 'Simpson Soccer' and 'Pop It for Gold'. During this update two posters were trashed those being 'Titan of Token' which was replaced with 'Ambassador of Fun'. 'Ice Hockey' which was replaced with 'King of Cool'. Several posters were also moved such as Big Token being moved to the entrance hallway from where 'Grand Marshal of Games' is now, the Small Token above the menus were moved to the game room in front of the prize counter, and the two red tickets were installed above 'Jumpin Fantasy' and 'Haunted Mansion'. 
+In 2019 due to the closure of Colerain several posters were sent to Eastgate. The posters gained were <i>Grand Marshal of Games' (CEC Décor) (Grand Marshal of Games)', </i>Ambassador of Fun' (CEC Décor) (Ambassador of Fun)' and [two Red CEC Tickets]({{< ref "wiki/Red CEC Tickets (CEC Décor).md" >}}), Along with several showroom chairs, the Kid Check stand, & Parts of arcade games such as 'Simpson Soccer' and 'Pop It for Gold'. During this update two posters were trashed those being 'Titan of Token' which was replaced with 'Ambassador of Fun'. 'Ice Hockey' which was replaced with 'King of Cool'. Several posters were also moved such as Big Token being moved to the entrance hallway from where 'Grand Marshal of Games' is now, the Small Token above the menus were moved to the game room in front of the prize counter, and the two red tickets were installed above 'Jumpin Fantasy' and 'Haunted Mansion'. 
 
 On April 8, 2024, Eastgate would begin its [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). This would involve removing most aspects of the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). The wood paneling would be retained from the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}). The [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}) and [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) artwork would be removed as apart of the remodel. The stage would be replaced with the 2021 Chuck E. Live Stage (Dance Floor) (Chuck E. Live Stage (Dance Floor) and [Video Wall]({{< ref "wiki/Video Wall.md" >}}). Eastgate would receive a new game package on April 23rd. The store would have its Grand Re-opening on May 29th, 2024. Later that year on August 26, 2024 Eastgate would receive the Trampoline Zone  
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial / Manufacturing Date
@@ -98,8 +99,8 @@ On April 8, 2024, Eastgate would begin its [CEC 2018 2.0 Remodel Program]({{< re
 
 
 
-## Videos ## 
+<h2> Videos </h2> 
 TODO
 
-## References ##
+<h2> References </h2>
 <references />

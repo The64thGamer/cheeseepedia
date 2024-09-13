@@ -9,23 +9,23 @@ contributors = ["CECMentor"]
 gallery = ["Higher quality mitzi.png|thumb|Mitzis design as of 2024."]
 +++
 
-**_Mitzi Mozzarella**_ is one of the main characters of the Showbiz Pizza Place franchise, having made her debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
+<b><i>Mitzi Mozzarella</b></i> is one of the main characters of the Showbiz Pizza Place franchise, having made her debut as an animatronic at [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}).
 
-## History ##
+<h2> History </h2>
 
-### Origins ###
+<h2>= Origins </h2>=
 Mitzi Mozzarella was based off of the character Mini Mozzarella from the [Wolf Pack 5]({{< ref "wiki/Wolf Pack 5.md" >}}). She borrowed her voice, and had a similar appearance. She had a cheerleader outfit, as well as blonde hair. She got her first animatronic in [Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).md" >}}). She was a youthful mouse, who was one of the lead vocalists for the [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}).
 
-### Showbiz Pizza Place ###
+<h2>= Showbiz Pizza Place </h2>=
 Initially, Mitzi Mozzarella was voiced by Aaron Fechter. This version of the character was short lived, and had a much higher pitched voice. Mitzi soon got her permanent voice actor, Shalisa Sloan James. Mitzi would be portrayed as a stereotypical teenage girl, and would describe herself as liking boys, cars, and more. Her and [Dook Larue]({{< ref "wiki/Dook Larue (Animatronic).md" >}}) would receive second generation animatronics, but they were never mass produced. During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), several Mitzi Mozzarella animatronics would be retrofitted into [Helen Henny]({{< ref "wiki/Mitzi Mozzarella (Animatronic).md" >}}). Helen as a character would be inspired by Mitzi going forward. 
 
-### The New Rock-afire Explosion ###
+<h2>= The New Rock-afire Explosion </h2>=
 After [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Engineering wanted to find a new way to bring the Rock-afire Explosion back into the public spotlight. They developed the New Rock-afire Explosion. Every character was changed, including Mitzi. Mitzi was now portrayed as older, and wore a black dress.
 
-### Present Day ###
+<h2>= Present Day </h2>=
 Mitzi's voice actor returned throughout the 21st century to make new songs. In these new shows, it was clear that Mitzi was a lot different than her Original youthful self. Original parts for Mitzi would start to be reproduced by Creative Engineering's new employees in 2023.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Types

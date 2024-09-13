@@ -5,21 +5,22 @@ tags = []
 date = 2024-05-02T01:01:28Z
 
 [Article]
+pageThumbnailFile = "Ogden1.jpg|Ogden, Utah's Portrait Show. This would be taken during its inoperable state."
 contributors = ["CECBowlingGreen","Ceclife13","Rexburg090","JamesLemony","RessiduePezzzado","Pench0782","ChuckEPediaIsTheBest!","BurgersNuggs445","216.125.34.66","38.49.94.191","Charlesiiikingofengland","CorrectorMan","Saan1ty","Mecha","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Midwestretail","Documentor"]
 gallery = []
 +++
-{{Generic|image=Ogden1.jpg|desc=Ogden, Utah's Portrait Show. This would be taken during its inoperable state.}}
 
-The **_Cyberamic** **Portrait Stage**_ (known internally as **_The Shelf**_) was a stage format installed at Chuck E. Cheese's Pizza Time Theatre stores from [May 1979 at the Diamond Boulevard Concord Store]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) to [June 1981 at the Muirlands Boulevard Lake Forest Store]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}).
+
+The <b><i>Cyberamic</b> <b>Portrait Stage</b></i> (known internally as <b><i>The Shelf</b></i>) was a stage format installed at Chuck E. Cheese's Pizza Time Theatre stores from [May 1979 at the Diamond Boulevard Concord Store]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) to [June 1981 at the Muirlands Boulevard Lake Forest Store]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}).
 
 The stage would debut at the [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) location at its grand opening in 1979 as a [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) version of the [Winchester PTT Show]({{< ref "wiki/Winchester PTT Show.md" >}}) & [Kooser PTT Show]({{< ref "wiki/Kooser PTT Show.md" >}}) and would go extinct in 2001 at the [Lake Forest, CA]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}) location. 
 
-##History##
-The **_Cyberamics Portrait Stage**_ was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}). The stage was produced for all PTT's during the 1970's, & Winter to Spring of 1980. In May or April 1980, [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) would introduce the [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) as a 1-wall variant of the Portrait Stage. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony & Portrait Hybrid. The PTT on [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) would be the first one to open with a Balcony Stage, & in 1981, almost all future locations would be set to get a Balcony Stage instead of a Portrait Stage. The Last Portrait Stage to be produced was for the PTT on [Lake Forest, CA (24416 Muirlands Blvd)]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}) In June 1981, which had the normal 2-Wall Variant.  
+<h2>History</h2>
+The <b><i>Cyberamics Portrait Stage</b></i> was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}). The stage was produced for all PTT's during the 1970's, & Winter to Spring of 1980. In May or April 1980, [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) would introduce the [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) as a 1-wall variant of the Portrait Stage. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony & Portrait Hybrid. The PTT on [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) would be the first one to open with a Balcony Stage, & in 1981, almost all future locations would be set to get a Balcony Stage instead of a Portrait Stage. The Last Portrait Stage to be produced was for the PTT on [Lake Forest, CA (24416 Muirlands Blvd)]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}) In June 1981, which had the normal 2-Wall Variant.  
 
 By 1987, almost all portrait stages had been removed, except for [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}), [Huntington Beach, CA (15511 Edwards St)]({{< ref "wiki/Huntington Beach, CA (15511 Edwards St).md" >}}), [Tucson, AZ (5534 E 22nd St)]({{< ref "wiki/Tucson, AZ (5534 E 22nd St).md" >}}), [Ogden, UT (3155 Harrison Blvd)]({{< ref "wiki/Ogden, UT (3155 Harrison Blvd).md" >}}), [Hayward, CA (24253 Hesperian Blvd)]({{< ref "wiki/Hayward, CA (24253 Hesperian Blvd).md" >}}), & [Lake Forest, CA (24416 Muirlands Blvd)]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}). By 1990, almost all the remaining Portrait Stages had been removed except for [Ogden, UT (3155 Harrison Blvd)]({{< ref "wiki/Ogden, UT (3155 Harrison Blvd).md" >}}) & [Lake Forest, CA (24416 Muirlands Blvd)]({{< ref "wiki/Lake Forest, CA (24416 Muirlands Blvd).md" >}}), with Ogden's being shut off making Lake Forest, CA's the last functioning one. Lake Forest's had also been modified into a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) & Portrait Stage Hybrid with the stage looking more like a Late 1980 Portrait Stage setup but with C-Stage decor, Making Ogden's the last full Portrait Show Remaining. In 1991, [Ogden, UT (3155 Harrison Blvd)]({{< ref "wiki/Ogden, UT (3155 Harrison Blvd).md" >}}) would close, Making Lake Forest the last location with a Portrait Stage. The Stage remained until 2001, when the location permanently closed. 
 
-##Design##
+<h2>Design</h2>
 The Cyberamic Portrait Stage, unlike the stages that came before it, would be placed alongside one wall to draw attention to all characters. This is different from the previous Portrait Stage setups, in which they were attached to the walls of the theatre. All characters in the center wall would be placed inside thin, beige portrait frames with a black outline inside it. The nameplates would be located on a wood trim below the characters with a 40-degree wall going upwards directly under the trim.  
 
 Mr. Munch and Pasqually had their own unique frames, carrying over from the [Kooser setup]({{< ref "wiki/Kooser PTT Show.md" >}}). The set up included doors that would open and close as per the show's programming. Similarly enough, the Warblettes also had a unique frame to make up for the size of the three birds within.   
@@ -28,7 +29,7 @@ The Flag Wavers, Pizza Time Orchestra, and Applause Board would be placed in var
 
 The stage would undergo one specific change in which several locations received a similar variant to the Portrait Stage in the 1980s however there were no portrait frames or walls surrounding the characters other than the back wall. It is unknown weather the Shelf Stage variant is a retrofit of the Portrait Show, however it being closely similar to each other it can be possible. 
 
-## Animatronics Used ##
+<h2> Animatronics Used </h2>
 
 * Chuck E Cheese (Cyberamic)
 * [Guest Star / Helen Henny (Cyberamic)]({{< ref "wiki/Guest Star  Helen Henny (Cyberamic).md" >}})
@@ -42,7 +43,7 @@ The stage would undergo one specific change in which several locations received 
 
 
 
-##Known Installations##
+<h2>Known Installations</h2>
 {| class='wikitable'
 !Location
 !Opening / Installation Date
@@ -129,7 +130,7 @@ The stage would undergo one specific change in which several locations received 
 | Fall 2001
 |}
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 |+
 !Links
@@ -161,4 +162,4 @@ The stage would undergo one specific change in which several locations received 
 |Late 1980s
 |}
 
-## References ##
+<h2> References </h2>

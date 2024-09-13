@@ -5,26 +5,27 @@ tags = ["Store List"]
 date = 2024-07-08T01:24:16Z
 
 [Article]
+pageThumbnailFile = "PXL 20210227 162750295.jpg|Former site of Fall River's Pizza Time Theatre / Big Top Kiddie Playland, currently Harbor Freight Tools, in 2021 (PC: Adam Cecil)"
 contributors = ["Cheeseclassic","BigCtheDataFinder"]
 gallery = []
 +++
-{{Generic|image=PXL 20210227 162750295.jpg|desc=Former site of Fall River's Pizza Time Theatre / Big Top Kiddie Playland, currently Harbor Freight Tools, in 2021 (PC: Adam Cecil)}}
 
-**_Fall River, MA (35 Mariano Bishop Blvd)**_ was a _Pizza Time Theatre_ that opened in February 1985 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), closing sometime around 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). The location became a one-off family entertainment center named _Big Top Kiddie Playland_ shortly after, initially retrofitting the Cyberamics before the decision was made to install [Celebration Station's W.O.O.F. Radio]({{< ref "wiki/Celebration Station's WOOF Radio.md" >}}) on the House Facade stage. The Big Top Kiddie Playland closed sometime around 2007, with the building space being taken up by [https://en.wikipedia.org/wiki/Harbor_Freight_Tools Harbor Freight Tools] since then.<ref name=':0'>https://bigtophistory.news.blog/</ref>
 
-## History ##
+<b><i>Fall River, MA (35 Mariano Bishop Blvd)</b></i> was a <i>Pizza Time Theatre</i> that opened in February 1985 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), closing sometime around 1991 with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). The location became a one-off family entertainment center named <i>Big Top Kiddie Playland</i> shortly after, initially retrofitting the Cyberamics before the decision was made to install [Celebration Station's W.O.O.F. Radio]({{< ref "wiki/Celebration Station's WOOF Radio.md" >}}) on the House Facade stage. The Big Top Kiddie Playland closed sometime around 2007, with the building space being taken up by [https:<i>en.wikipedia.org/wiki/Harbor_Freight_Tools Harbor Freight Tools] since then.<ref name=':0'>https:</i>bigtophistory.news.blog/</ref>
 
-### Chuck E. Cheese's Pizza Time Theatre (1985-1991) ###
+<h2> History </h2>
+
+<h2>= Chuck E. Cheese's Pizza Time Theatre (1985-1991) </h2>=
 Fall River opened as a franchised Pizza Time Theatre in February 1985 with a [Cyberamics Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), a relocation from the [Danvers, MA (139 Endicott St)]({{< ref "wiki/Danvers, MA (139 Endicott St).md" >}}) store. As there was a shortage of Cyberamic characters and shows at the time, Danvers shipped their entire Balcony Stage to Fall River and installed a [Family Album]({{< ref "wiki/Family Album.md" >}}) to take the place of their main entertainment. By 1988-1989, the Balcony Stage was converted into a [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}).
 
 When asked about the closure of Fall River's Pizza Time Theatre, local Paul Janice claimed that Showbiz Pizza Time, Inc. asked the franchise owners to pay for a remodel (presumably the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}})). Possibly due to high costs with the remodel, the owners decided to defranchise and transform the Pizza Time Theatre into their own family entertainment center, the Big Top Kiddie Playland restaurant, for Spring 1991.<ref name=':0' />
 
-### Big Top Kiddie Playland (1991-2007) ###
+<h2>= Big Top Kiddie Playland (1991-2007) </h2>=
 According to another Fall River local, Malerie Rosa, not much was changed in terms of atmosphere upon the conversion into Big Top Kiddie Playland. However, the first order of business was to retrofit the Cyberamic characters of Chuck E. Cheese's into an original cast of characters. Although there is minimal documentation, the characters were supposedly given all-new cosmetics to resemble clowns, with Chuck E. being replaced with mascot 'Topper Clown.' Aaron Bell-Dias, a son of the owners, claimed to have many images of Big Top Kiddie Playland, including the Cyberamic retrofits (though have yet to resurface). As customers found the retrofits to be 'demonic-looking clowns,' the owners decided to sought after another animatronic show to replace them, which came in the form of Creative Presentations' Celebration Station's W.O.O.F. Radio (W.O.O.F. Radio) (previously created for the Celebration Station chain). The characters from W.O.O.F. were installed in a bizarre manner, choosing to radically alter the existing House Facade stage to accommodate for the different animatronics. Major Moose and Harry Hound were installed on opposite ends from the typical stage setup for W.O.O.F. with their legs hidden by the Munch and Pasqually modules. The Pantones (Purrscilla Purr, Big Bear, and Doc Fox) were arranged just like the traditional W.O.O.F. configuration, with the Chuck E. module removed along with the Jasper and Helen railings. The live show platform on the House Facade was used as additional support for Purrscilla's piano and Big Bear's drum set. It is unknown whether or not Big Top also included Howard Le Trec and Accu-Duck, as images suggest they were absent.
 
 Not much is known about Big Top Kiddie Playland throughout the 1990's and 2000's, though it has been claimed that prizes at Big Top were sourced from the KB Toys next door in the plaza. This was supposedly due to Big Top losing their prize vendor and resorting to buying up KB's stock of toys. Charlie Bell, the co-owner of Big Top, decided to sell the Fall River location to an unidentified family that offered to take over operations in 2006. However, it did not last, as Big Top's Fall River location ended up closing permanently the next year due to mismanagement and lack of maintenance. The W.O.O.F. Radio animatronics (believed to have remained in Big Top up to that point) were said by Charlie to have been sold to an 'unknown individual' in the New England region, deeming it as impossible to track down with minimal information. Another Big Top Kiddie Playland location opened sometime later in the 2000's at the Hanover Mall in Hanover, Massachusetts (albeit smaller in size and without animatronics) that closed by the 2010's and was demolished in 2020.<ref name=':0' />
 
-## Stages ##
+<h2> Stages </h2>
 {| class= 'wikitable'
 !Stage
 !Installed
@@ -47,12 +48,12 @@ Not much is known about Big Top Kiddie Playland throughout the 1990's and 2000's
 |Location origins unknown. Animatronics installed within the existing House Facade stage. Only W.O.O.F. Radio show to ever be installed in Massachusetts and the New England region in general.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class= 'wikitable'
 |+
 !Animatronic
 !Manufacturing Date
-!**Whereabouts**
+!<b>Whereabouts</b>
 !Notes
 |-
 |Chuck E Cheese (Cyberamic)
@@ -129,5 +130,5 @@ Not much is known about Big Top Kiddie Playland throughout the 1990's and 2000's
 
 
 
-## References ##
+<h2> References </h2>
 <references />

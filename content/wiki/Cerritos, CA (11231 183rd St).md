@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-15T19:30:27Z
 
 [Article]
+pageThumbnailFile = "Hesperia’s Exterior .jpg|Cerritos's Exterior in Early 2023. (PC: Abnoob Agailby on Google Maps.)"
 contributors = ["2600:1012:B1AA:2DE5:21F3:AAC3:CA95:DB9A","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
 +++
-{{Generic|image=Hesperia’s Exterior .jpg|desc=Cerritos's Exterior in Early 2023. (PC: Abnoob Agailby on Google Maps.)}}
-**_Cerritos, CA (11231 183rd St)**_ is a _Chuck E Cheese_ that opened on September 25, 2002, with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+
+<b><i>Cerritos, CA (11231 183rd St)</b></i> is a <i>Chuck E Cheese</i> that opened on September 25, 2002, with a [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
 This location received the 2.0 remodel in May 2023.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -31,10 +32,10 @@ This location received the 2.0 remodel in May 2023.
 |2021 Model.
 |}
 
-##History##
+<h2>History</h2>
 W.I.P
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -48,5 +49,5 @@ W.I.P
 
 W.I.P
 
-##Videos##
+<h2>Videos</h2>
 W.I.P

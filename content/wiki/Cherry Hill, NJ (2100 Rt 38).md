@@ -5,16 +5,17 @@ tags = ["Store List"]
 date = 2023-10-19T01:03:43Z
 
 [Article]
+pageThumbnailFile = " Cherry Hill’s Exterior in 2023.jpg|Exterior, 2023 (PC: @dr.ezofcec on Instagram.)"
 contributors = ["MM995","Cecnj98","174.131.44.53","Ceclife13","Cheeseclassic","47.17.236.200","209.122.217.27","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image= Cherry Hill’s Exterior in 2023.jpg|desc=Exterior, 2023 (PC: @dr.ezofcec on Instagram.)}}
-**_Cherry Hill, NJ (2100 Rt 38), Store #498**_ is a Chuck E. Cheese's location located in Cherry Hill, New Jersey; located in The Plaza at Cherry Hill. This location opened on August 25, 1992.
 
-## History ##
+<b><i>Cherry Hill, NJ (2100 Rt 38), Store #498</b></i> is a Chuck E. Cheese's location located in Cherry Hill, New Jersey; located in The Plaza at Cherry Hill. This location opened on August 25, 1992.
+
+<h2> History </h2>
 Cherry Hill opened on August 25, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). The store would receive the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) in 2007. In 2023, the store would receive the CEC 2018 2.0 Remodel Program (2.0 remodel). On October 12, 2023, the store held its grand re-opening. 
 
-## Stages ##
+<h2> Stages </h2>
 Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat was removed in 2013. Jasper and Helen received new masks in late 2014. Chuck E. received the Rockstar shirt in early 2015 and finally the jeans in March 2017. It would remain like this until August 2023, when they received the 2.0 remodel and removed the 2-Stage. 
 {| class='wikitable'
 |+
@@ -31,7 +32,7 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 |Still in Use
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -63,9 +64,9 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 |Owned by Private Collector
 |}
 
-## Arcade Machines ##
+<h2> Arcade Machines </h2>
 
-### Skill ###
+<h2>= Skill </h2>=
 
 * [Chuck E. Cheese's Sketch Book]({{< ref "wiki/Chuck E Cheese's Sketch Book.md" >}})
 * Despicable Me Jelly Lab
@@ -94,11 +95,11 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 * Mario & Sonic Olympic Games Tokyo
 * Ghostbusters
 
-#### Coin-Action ####
+<h2>== Coin-Action </h2>==
 
 * Hollywood Reels
 
-### Kiddie ###
+<h2>= Kiddie </h2>=
 
 * Duo Drive
 * Pirate's Hook
@@ -116,7 +117,7 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 * Zombie Land Battle
 * Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link

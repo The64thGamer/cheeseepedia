@@ -8,24 +8,24 @@ date = 2023-12-31T16:40:25Z
 contributors = ["Nostalgia Cow","The 64th Gamer","ChuckECool","216.125.34.66","Cheeseclassic"]
 gallery = ["Yogi01.jpg|thumb|243x243px|Concept art of the Yogi Bear Stage.","Yogi03.jpg|thumb|The prototype Yogi Bear animatronic being built by Jul Kamen","Tumblr nmkhhg6K361u65bxno2 1280.jpg|thumb|The Yogi Bear Stage next to center stage of the Rock-Afire Explosion.","Yogi sm.jpg|thumb|Up-close picture of the Yogi Bear Stage."]
 +++
-{{NoSources}}
 
 
-The **Yogi Bear Stage** was one of the most unique and least known projects undertaken by ShowBiz Pizza to enhance the appeal of the Rock-afire Explosion was the test marketing of licensed characters. This was done in 1987 as the newly merged company was regaining its financial foothold, and the character chosen to appear onstage was Yogi Bear. 
 
-## Stage Features ##
+The <b>Yogi Bear Stage</b> was one of the most unique and least known projects undertaken by ShowBiz Pizza to enhance the appeal of the Rock-afire Explosion was the test marketing of licensed characters. This was done in 1987 as the newly merged company was regaining its financial foothold, and the character chosen to appear onstage was Yogi Bear. 
+
+<h2> Stage Features </h2>
 Yogi Bear used Billy Bob's stage which was transformed into JellyStone Park. The center stage tree line was removed and placed on Billy Bob's stage giving it a forested appearance, and coincidentally may have been an inspiration for the ShowBiz Pizza Campground stage used during the final years of ShowBiz. Looney Bird's barrel was repainted green and occupied by Boo-Boo Bear, and a large 'JellyStone Park' sign was hung behind the characters. The only other unique props added to the stage was a boulder with a picnic basket placed upon it, and a sign that hung on Boo-Boo's barrel that read 'Keep Your Park Clean'. Billy Bob's valance was left in place.
 
-## Behind The Scenes ##
+<h2> Behind The Scenes </h2>
 The goal of this experiment was to enhance the entertainment at ShowBiz to further appeal to entire families. When it came time to choose a licensed character, several options were researched and considered - including Garfield, Superman, and Spider-Man. Ultimately Yogi Bear was chosen because of his universal appeal to children and adults.
 
 The project took nearly two years to become a reality - even the license negotiations were complicated and took a total of five months to reach an agreement from Hanna-Barbera Inc. However, the final result was approval for an initial test phase, with the option of an entire system rollout. The three locations that tested the Yogi Bear stage were Omaha, NE, Colorado Springs, CO, and Augusta, GA. Special television and newspaper advertisements along with a special poster were all created to alert customers about Yogi's appearance.
 
 The initial design of Yogi Bear was done by Jul Kamen (ShowBiz costume support manager), and Paul Linden (ShowBiz director of entertainment). Rolfe's character was used for the retrofit instead of Billy Bob's, and the prototype was completed by Creative Presentations Inc. in April, 1987. The Yogi showtape was written and produced by ShowBiz's entertainment department, and the actual voices of Yogi and Boo-Boo were used for authenticity purposes (Daws Butler and Don Messick respectively).
 
-The entire cost to ShowBiz to test the Yogi Bear concept in the three locations was $120,000. Additional yearly expenses of $6,000 per store and $2,500 annual licensing was projected if the concept were to be installed system-wide (both ShowBiz _and_ Chuck E. Cheese stores).
+The entire cost to ShowBiz to test the Yogi Bear concept in the three locations was $120,000. Additional yearly expenses of $6,000 per store and $2,500 annual licensing was projected if the concept were to be installed system-wide (both ShowBiz <i>and</i> Chuck E. Cheese stores).
 
-## History ##
+<h2> History </h2>
 The idea of the Yogi Bear Stage was to introduce a character with adult recognition and nostalgic popularity, yet which would maintain children interest. To add a major new visual element to the show which would complement and reinforce the importance of the existing characters. And to create advertising opportunities geared towards entertainment.
 
 After 2 years of production, the Yogi Bear Show/Stage premiered in April 1987 at the [Omaha, Nebraska]({{< ref "wiki/Omaha, NE (225 N 76th St).md" >}}), [Augusta, Georgia]({{< ref "wiki/Augusta, GA (3435 Wrightsboro Rd).md" >}}), and [Colorado Springs, Colorado]({{< ref "wiki/Colorado Springs, CO (5156 N Academy Blvd).md" >}}) locations. It was a failure experiment as Hanna-Barbera never expanded the licensed character agreement to more locations. Thus the Yogi Bear stage was removed in stores through late 1987 and possibly early 1988. The locations that got the Yogi Bear Stage returned their right stage back to the original Billy Bob Camp stage and the Yogi Bear prototype animatronic was retrofitted back to it's original character Rolfe DeWolfe & Earl Schmerle as the same can be said to Boo-Boo as he was retrofitted back to Looney Bird. It is expected that all of the props and cosmetics of the Yogi Bear stage were destroyed. 

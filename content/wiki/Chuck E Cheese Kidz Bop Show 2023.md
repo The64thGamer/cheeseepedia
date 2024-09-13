@@ -16,50 +16,50 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |studiochd=y
 |dvdcyber=}}
 
-**_Chuck E. Cheese Kidz Bop Show 2023**_ is the spring show released in April 3 2023 featuring a variety of songs released from 2016-2021.
+<b><i>Chuck E. Cheese Kidz Bop Show 2023</b></i> is the spring show released in April 3 2023 featuring a variety of songs released from 2016-2021.
 
 This show is only for locations in Mexico during the month of April. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
-##Show List##
+<h2>Show List</h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##KIDZ BOP 2023 Album Spot
 ##KIDZ BOP Kids - 'Despechá'
-#**Skit 1**
+#<b>Skit 1</b>
 ##Chuck E. Cheese - 'Let's Have A Party'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##KIDZ BOP Kids - 'Girl Like Me'
 ##KIDZ BOP Kids - 'KESI Remix'
-#**Skit 2** 
+#<b>Skit 2</b> 
 ##Bella B., Chuck E. and Mike Wolf - 'El Rey Guitarrista'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##KIDZ BOP Kids - 'LA FAMA'
 ##KIDZ BOP Kids - 'Tacones Rojos'
-#**Skit 3** 
+#<b>Skit 3</b> 
 ##Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##KIDZ BOP Kids - 'Vivir Mi Vida'
 ##KIDZ BOP Kids - 'Bam Bam'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ##Bella B. & Helen Henny - 'Bailando'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##KIDZ BOP 2023 Album Spot
 ##KIDZ BOP Kids - 'MAMACITA'
-#**Skit 5**
+#<b>Skit 5</b>
 ##Helen Henny - 'Gamin' Time'
-# **Intermission 6** 
+# <b>Intermission 6</b> 
 ##KIDZ BOP Kids - 'Ojitos Lindos'
 ##KIDZ BOP Kids - 'Recuerdame'
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E., Munch & Bella B. - 'Play All You Can Play'
-# **Intermission 7**
+# <b>Intermission 7</b>
 ##KIDZ BOP Kids - 'Te Felicito'
 ##KIDZ BOP Kids - 'LA CANCIÓN'
-#**Skit 7**
+#<b>Skit 7</b>
 ##Chuck E. Cheese - 'Lend A Helping Hand'
 
 
-##Lives##
+<h2>Lives</h2>
 
 * Birthday Show (Studio C, Weigl)
 * Birthday Show (Spanish) (Studio C, Weigl)
@@ -70,6 +70,6 @@ This show is only for locations in Mexico during the month of April. This show f
 * Chuck E. Cha Cha (Studio C, Weigl)
 
 
-##Trivia##
+<h2>Trivia</h2>
 *This show uses the rerecorded version of Bailando from the 'Music, Friends & Fun For All' album.
 *This show is to promote the Spanish Kidz Bop 2023 Album.

@@ -8,67 +8,67 @@ date = 2023-09-16T20:11:04Z
 contributors = ["DerekCat"]
 gallery = []
 +++
-{{Showtape|image=Homeyley.png|date=November 1990|raesvhs=y}}
 
-**_SPP Christmas '90 / Wave Bday**_ is one of the last few showtapes released for _Showbiz Pizza Place's_ hosting the _Rock-afire Explosion_.
 
-For some stores, this was the last tape used before _Concept Unification_ would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to _3-Stages._
+<b><i>SPP Christmas '90 / Wave Bday</b></i> is one of the last few showtapes released for <i>Showbiz Pizza Place's</i> hosting the <i>Rock-afire Explosion</i>.
 
-Despite the later years of _Cyberstar_ being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single _Cyberstar_ segment for stores to have. It was said at this time that due to the _Rock-afire Explosion_ being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The _Best of_ series could be seen as an encouragement of this.
+For some stores, this was the last tape used before <i>Concept Unification</i> would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday]({{< ref "wiki/SPP Christmas '89  Wave Bday.md" >}}) would become increasingly more rare as stores would convert to <i>3-Stages.</i>
+
+Despite the later years of <i>Cyberstar</i> being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single <i>Cyberstar</i> segment for stores to have. It was said at this time that due to the <i>Rock-afire Explosion</i> being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The <i>Best of</i> series could be seen as an encouragement of this.
 
 This show has the same segments, and music videos from last years release, but the copyrighted music that played during the countdowns is the newest addition.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## 6 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album) My Favorite Things]
 ### Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')
 ### Birthday Spectacular
 ## Cyberstar Intro
-# **Segment 1**
+# <b>Segment 1</b>
 ## Homely For Christmas 1
 ### [https://en.wikipedia.org/wiki/That_Christmas_Feeling No Place Like Home]
 ### [https://en.wikipedia.org/wiki/Jingle_Bell_Rock Jingle Bell Rock]
 ### [https://en.wikipedia.org/wiki/Please_Come_Home_for_Christmas Please Come Home For Christmas]
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## 6 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Christmas_Eve_with_Johnny_Mathis Toyland]
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/A_Very_Special_Christmas_(album) Santa Claus Is Coming to Town]
 ## Cyberstar Intro
-# **Segment 2**
+# <b>Segment 2</b>
 ## Homely For Christmas 2
 ### [https://en.wikipedia.org/wiki/Joy_to_the_World Joy to the World]
 ### [https://en.wikipedia.org/wiki/O_Holy_Night Oh Holy Night]
 ### [https://en.wikipedia.org/wiki/The_Little_Drummer_Boy Little Drummer Boy]
 ### [https://en.wikipedia.org/wiki/White_Christmas_(song) White Christmas]
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## 6 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads Christmas In the Caribbean]
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/An_Old_Time_Christmas White Christmas Makes Me Blue]
 ## It's Showtime!
-# **Video 1**
+# <b>Video 1</b>
 ## [https://en.wikipedia.org/wiki/A_Fresh_Aire_Christmas Mannheim Steamroller - The Little Drummer Boy]
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## 6 Minute Countdown
 ### All I Want For Christmas (From Ray Charles 'The Spirit of Christmas')
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Run_Rudolph_Run Run Rudolph Run]
 ## Cyberstar Intro
-# **Segment 3**
+# <b>Segment 3</b>
 ## Homely For Christmas 3
 ### [https://en.wikipedia.org/wiki/Little_Saint_Nick Little Saint Nick]
 ### [https://en.wikipedia.org/wiki/Run_Rudolph_Run Run Run Rudolph]
 ### [https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town Santa Claus Is Comin' to Town]
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## 6 Minute Countdown
 ### [https://en.wikipedia.org/wiki/Pretty_Paper Frosty the Snowman]
 ### [https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album Have Yourself a Merry Little Christmas]
 ### Birthday Spectacular
 ## Cyberstar Intro
-# **Segment 4**
+# <b>Segment 4</b>
 ## Homely For Christmas 4
 ### Sleigh Ride Medley
 #### [https://en.wikipedia.org/wiki/Home_for_the_Holidays_(song) (There's No Place Like) Home for the Holidays]
@@ -79,15 +79,15 @@ This show has the same segments, and music videos from last years release, but t
 #### [https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector Sleigh Ride (Reprise)]
 ### [https://en.wikipedia.org/wiki/Winter_Wonderland Winter Wonderland]
 ### [https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas We Wish You A Merry Christmas]
-# **Intermission 6**
+# <b>Intermission 6</b>
 ## 6 Minute Countdown
 ### [https://en.wikipedia.org/wiki/A_Very_Special_Christmas_(album) I Saw Mommy Kissing Santa Claus]
 ### [https://en.wikipedia.org/wiki/Christmas_(Kenny_Rogers_album) White Christmas]
 ### Birthday Spectacular
 ### [https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas What Are You Doing New Year's Eve]
 ## It's Showtime!
-# **Video 2**
+# <b>Video 2</b>
 ## [https://en.wikipedia.org/wiki/A_Claymation_Christmas_Celebration California Raisins - Rudolph the Red-Nosed Reindeer]
 
-## Trivia: ##
-The intermission music is the same as [CEC Christmas '90 / Wave Bday]({{< ref "wiki/CEC Christmas '90  Wave Bday.md" >}}), however two of the songs [https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album Silver Bells], & [https://en.wikipedia.org/wiki/Christmas_Album_(Herb_Alpert_album) Winter Wonderland] were skipped, and they left out the last three songs from the CEC version.
+<h2> Trivia: </h2>
+The intermission music is the same as [CEC Christmas '90 / Wave Bday]({{< ref "wiki/CEC Christmas '90  Wave Bday.md" >}}), however two of the songs [https:<i>en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album Silver Bells], & [https:</i>en.wikipedia.org/wiki/Christmas_Album_(Herb_Alpert_album) Winter Wonderland] were skipped, and they left out the last three songs from the CEC version.

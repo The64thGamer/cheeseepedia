@@ -8,14 +8,14 @@ date = 2023-07-18T23:28:07Z
 contributors = ["Nostalgia Cow","BurgersNuggs445"]
 gallery = []
 +++
-{{Art|image=4 pop chuck's posters.jpg|releasedate=1998|manufacturer=Corman & Associates, BWC Creative|finalrelease=2012}}
 
-The **CEC Pop Art Head (CEC Décor)** was a decoration created for Chuck E. Cheese's in 1998
 
-## Design ##
+The <b>CEC Pop Art Head (CEC Décor)</b> was a decoration created for Chuck E. Cheese's in 1998
+
+<h2> Design </h2>
 The design of these decorations are inspired by the work Andy Warhol. It depicts Chuck E. Cheese (with his head based of the Studio C 3D Model) in different color variations, Red, Yellow, Orange, Blue, Green, etc.
 
-## Measurements ##
+<h2> Measurements </h2>
 During it's production, there was 2 variations of these decorations. One large & one small. The small variation measures at about 24 inches wide and 24 inches tall. It's unknown about the measurements of the large variation.
 
-## Gallery  ##
+<h2> Gallery  </h2>

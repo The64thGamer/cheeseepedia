@@ -8,14 +8,14 @@ date = 2023-05-31T03:02:32Z
 contributors = ["Rexburg090"]
 gallery = []
 +++
-**_20335 Biscayne Blvd, Store #435**_ is a _Chuck E. Cheese's_ location that opened on May 27th, 1993, and is still around today. It is located in the Promenade Shops.
+<b><i>20335 Biscayne Blvd, Store #435</b></i> is a <i>Chuck E. Cheese's</i> location that opened on May 27th, 1993, and is still around today. It is located in the Promenade Shops.
 
 This store opened on the same day as [Lowell, MA (199 Plain St)]({{< ref "wiki/Lowell, MA (199 Plain St).md" >}}).
 
-## History ##
+<h2> History </h2>
 Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}). This was the 2nd to last new store to open with a 2-Stage as the others after the opening of [Pasadena]({{< ref "wiki/Pasadena, CA (3737 E Foothill Blvd).md" >}}) in October (Except Santiago (Mall Plaza Vespucio), Chile which uses a 2-Stage from a closed PTT, [Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)]({{< ref "wiki/Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9).md" >}}) which used a reused show as well, [Chesapeake, VA (1528 Sam's Circle)]({{< ref "wiki/Chesapeake, VA (1528 Sam's Circle).md" >}}) which uses [Merced]({{< ref "wiki/Merced, CA (721 W Olive Ave).md" >}})'s former 2-Stage & [Virginia Beach, VA]({{< ref "wiki/Virginia Beach, VA (2699 Lishelle Place).md" >}}) uses a 2-Stage from a closed PTT.) were all 1-Stages. The store would open with the Tuxedo & Derby outfit like every other MMBB stage had at the time. In 2006-2007, Miami (Biscayne) received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved removing the Balcony Seating, replacing art work, and repainting some of the walls purple. In 2013-2014, Miami (Biscayne) would receive the 2013 Update which involved remodeling the front counter, replacing the dim lighting with bright florescent lighting, and expanding the store, adding more room for games. The store would remain this way until April 2022 when the store would remodel to the 2017 2.0 Remodel Program (2017 2.0 Remodel) which involving building the video wall on the left side wall to the 2-Stage then removing it afterwards. The store would have their Grand Reopening on June 16th, 2022<ref>https://www.sun-sentinel.com/events/#!/details/Chuck-E-Cheese-North-Miami-Reopening/10443769/2022-06-16T17</ref>; The store also participated in the South Florida market-wide Round Up fundraiser for Little Smiles where guests are empowered to round up their purchase to the nearest dollar and donate the difference for the month of June. As of May 2023, Miami (Biscayne) still has the 2021 Model Dance Floor and Video Wall.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -33,7 +33,7 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage
 |2021 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -74,7 +74,7 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage
 
 TODO
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -117,5 +117,5 @@ TODO
 |January 16, 2023
 |}
 
-## References ##
+<h2> References </h2>
 <references />

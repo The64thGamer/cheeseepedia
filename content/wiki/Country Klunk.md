@@ -12,36 +12,36 @@ gallery = []
 |date=January 1985
 |showbizreel=y}}
 
-**_Country Klunk**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985.
+<b><i>Country Klunk</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985.
 
-##Segment List##
-# **Segment 1** 
+<h2>Segment List</h2>
+# <b>Segment 1</b> 
 ## Ricky Scaggs Medley
 ### Heartbroke
 ### You've Got a Lover
 ### Highway 40 Blues
-# **Segment 2** 
-## _Better All Over_
-# **Segment 3** 
-## _Going Downhill_
-# **Segment 4** 
-## _Middle of the Night_
-# **Segment 5** 
-## _Much Too Young To Die_
-# **Segment 6** 
-## _The Ride_
-# **Segment 7** 
-## _Islands in the Stream_
-# **Segment 8** 
-## _I Wouldn't Change You If I Could_
-## _Houston_
-# **Segment 9** 
-## _We Didn't See a Thing_
-# **Segment 10** 
-## _Girls Just Wanna Have Fun_
-# **Segment 11** 
-## _My Own Grandpa_
-# **Segment 12** 
-## _Ain't Used Up_
-# **Segment 13** 
-## _Oh Dawn_
+# <b>Segment 2</b> 
+## <i>Better All Over</i>
+# <b>Segment 3</b> 
+## <i>Going Downhill</i>
+# <b>Segment 4</b> 
+## <i>Middle of the Night</i>
+# <b>Segment 5</b> 
+## <i>Much Too Young To Die</i>
+# <b>Segment 6</b> 
+## <i>The Ride</i>
+# <b>Segment 7</b> 
+## <i>Islands in the Stream</i>
+# <b>Segment 8</b> 
+## <i>I Wouldn't Change You If I Could</i>
+## <i>Houston</i>
+# <b>Segment 9</b> 
+## <i>We Didn't See a Thing</i>
+# <b>Segment 10</b> 
+## <i>Girls Just Wanna Have Fun</i>
+# <b>Segment 11</b> 
+## <i>My Own Grandpa</i>
+# <b>Segment 12</b> 
+## <i>Ain't Used Up</i>
+# <b>Segment 13</b> 
+## <i>Oh Dawn</i>

@@ -8,15 +8,15 @@ date = 2023-04-11T20:00:03Z
 contributors = ["Rexburg090","2600:4040:59FC:D100:C4C3:2DAD:F4F9:29C","ChuckECool","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","216.125.34.66"]
 gallery = []
 +++
-**_9 Snyder Ave, Store #450**_ is a Chuck E. Cheese that opened on September 15, 1992 and is still open to this day.
+<b><i>9 Snyder Ave, Store #450</b></i> is a Chuck E. Cheese that opened on September 15, 1992 and is still open to this day.
 
 It is located in the Snyder Plaza shopping center.
 
 It should not be confused with the [Philadelphia, PA (9175 Roosevelt Blvd)]({{< ref "wiki/Philadelphia, PA (9175 Roosevelt Blvd).md" >}}) location as that location opened 10 years, 1 month, and a week prior. This location and Roosevelt are 40 minutes away from each other.
 
-## History ##
+<h2> History </h2>
 Philadelphia on Snyder Ave opened on September 15th, 1992 with a [2-Stage]({{< ref "wiki/2-Stage.md" >}}) (A decade, a month, and week after the [Philadelphia, PA (9175 Roosevelt Blvd)]({{< ref "wiki/Philadelphia, PA (9175 Roosevelt Blvd).md" >}}) location opened) with the CEC 1988 Remodel (1988 Remodel). The store remained relatively unchanged until the Mid 1990's when they received [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) (Which involved the removal of elements from the 1988 remodel such as The Blue & White Awnings, checkers around the store, & neon lights). Then in the Early 2000's they remodeled to remove the Balcony Seating & Showroom Walls. It is unknown if this location ever received the Cool Chuck outfit. By 2010-2011, the Cool Chuck outfit was replaced with the Avenger outfit. Snyder would remodel again to receive the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in Mid 2011; involving the removal of the Dinner Lights, 90's Decorations, & added Purple Walls. Chuck's cap was removed in September 2013. Throughout the 2010's, the Snyder 2-Stage underwent numerous changes including the replacement of masks, & Chuck's outfit to Rockstar. The store would remain this way until June-July 2022 when Snyder received the 2.0 Remodel which involved the removal of the 2-Stage, moving the Dance Floor & Video Wall to face the back wall. As of February 2023, Snyder still has the 2.0 Remodel and the Dance Floor. 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -34,7 +34,7 @@ Philadelphia on Snyder Ave opened on September 15th, 1992 with a [2-Stage]({{< r
 |2019 Model.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing date
@@ -68,5 +68,5 @@ Philadelphia on Snyder Ave opened on September 15th, 1992 with a [2-Stage]({{< r
 
 (W.I.P)
 
-## Videos ##
+<h2> Videos </h2>
 (W.I.P)

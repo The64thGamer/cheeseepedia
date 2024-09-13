@@ -5,23 +5,24 @@ tags = ["Arcade Games"]
 date = 2023-08-26T19:29:43Z
 
 [Article]
+pageThumbnailFile = "Astrology Light Up Front.jpg|Cabinet Marquee"
 contributors = ["The 64th Gamer","Himitsu","Tux Chuck"]
 gallery = ["Astrology Flyer.jpg|thumb|Destron Astrology Flyer",":BRMANIN.jpg|BRMANIN.jpg"]
 +++
-{{Generic|image=Astrology Light Up Front.jpg|desc=Cabinet Marquee}}
 
-**_Chuck E. Cheese's Astrology**_ is an automated [https://en.wikipedia.org/wiki/Astrological_sign astrological sign] generator and forecaster created by _Destron, Inc._ in 1982.
+
+<b><i>Chuck E. Cheese's Astrology</b></i> is an automated [https://en.wikipedia.org/wiki/Astrological_sign astrological sign] generator and forecaster created by <i>Destron, Inc.</i> in 1982.
 
 The cabinet has no game functions, and simply has the user put in their quarter, press the desired buttons, and will be printed a generated card specific to their request. The card will include their [https://en.wikipedia.org/wiki/Astrological_sign astrological sign], a random selection of 'forecasted events' taking place on the date the player chose, and a lucky number.
 
-The cabinet is a licensed variation of the standard _Destron Astrology_ cabinet, which also debuted in 1982. The cabinet is a continuation of the _Destron Bio-Rhythm_ line, which came in four cabinet types. The Astrology cabinet most resembles the smallest _Model 600_ line, now with a large vertical sign, and a movement of the coin slot to the front of the cabinet.
-## Usage ##
+The cabinet is a licensed variation of the standard <i>Destron Astrology</i> cabinet, which also debuted in 1982. The cabinet is a continuation of the <i>Destron Bio-Rhythm</i> line, which came in four cabinet types. The Astrology cabinet most resembles the smallest <i>Model 600</i> line, now with a large vertical sign, and a movement of the coin slot to the front of the cabinet.
+<h2> Usage </h2>
 
-The user inserts their quarter to turn on the display. They will be prompted by instructions on the cabinet to type in their birth date, a desired forecast date, and press the start button to begin printing. Due to limited information, and evidence in the _Destron Bio-Rhythm_ manual<ref></ref>, there may possibly be a speaker on the cabinet that would read these instructions or other info from a _[https://en.wikipedia.org/wiki/Speech_synthesis speech synthesized voice]._
+The user inserts their quarter to turn on the display. They will be prompted by instructions on the cabinet to type in their birth date, a desired forecast date, and press the start button to begin printing. Due to limited information, and evidence in the <i>Destron Bio-Rhythm</i> manual<ref></ref>, there may possibly be a speaker on the cabinet that would read these instructions or other info from a <i>[https://en.wikipedia.org/wiki/Speech_synthesis speech synthesized voice].</i>
 
 The card would then be printed with auto-generated text. Presumably the text would be the same if the same birth date and desired date were entered again. The printed info would be:
 <pre>
-** (Astrology Sign) **
+<b> (Astrology Sign) </b>
 (Illegible text, presumed to be desired date)
 BIRTHDATE (Birthdate, MM/DD/YY format)
 ELEMENT - (Element)
@@ -39,12 +40,12 @@ Centered text displaying 'DAILY FORECAST'
 (Daily Forecast Message 9)
 LUCKY NUMBER FOR THE DAY: (Lucky Number)
 </pre>
-## Technical ##
+<h2> Technical </h2>
 The CPU type is unknown, and no ROM dumps are available. Other Destron games of the era used a 6802-based CPU<ref>https://github.com/mamedev/mame/blob/master/src/mame/drivers/dmainevent.cpp</ref>, and this game may also use the same but remarked, judging from the 40-pin package and apparent manufacture by AMI.
-## Parts / Cabinet ##
+<h2> Parts / Cabinet </h2>
 
 
-## Owners / Locations ##
+<h2> Owners / Locations </h2>
 {| class='wikitable'
 !Location / Owner
 !Address
@@ -57,4 +58,4 @@ The CPU type is unknown, and no ROM dumps are available. Other Destron games of 
 |Access to location must be requested
 |}
 
-## References ##
+<h2> References </h2>

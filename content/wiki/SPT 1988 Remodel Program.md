@@ -5,29 +5,30 @@ tags = ["CEC Phases & Remodels"]
 date = 2023-12-15T20:07:13Z
 
 [Article]
+pageThumbnailFile = "Justiss hq.png|Newly remodeled Arlington, TX (Justiss Drive) Showbiz Pizza in 1993"
 contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","Documentor"]
 gallery = []
 +++
-{{Generic|image=Justiss hq.png|desc=Newly remodeled Arlington, TX (Justiss Drive) Showbiz Pizza in 1993}}
 
-The **_SPT 1988 Remodel Program**_ was a remodel of _Pizza Time Theatre_ and _Showbiz Pizza Place_ restaurants that has been conceptualized during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) to unite the two brands under one look. The remodel also aimed to look more like a place families would stop by on the regular, as by this time Showbiz was more focused on giving families their best experience when they visit.
 
-## History ##
+The <b><i>SPT 1988 Remodel Program</b></i> was a remodel of <i>Pizza Time Theatre</i> and <i>Showbiz Pizza Place</i> restaurants that has been conceptualized during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) to unite the two brands under one look. The remodel also aimed to look more like a place families would stop by on the regular, as by this time Showbiz was more focused on giving families their best experience when they visit.
+
+<h2> History </h2>
 During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), there was an effort to unite both Pizza Time Theatre and Showbiz Pizza Place stores under a unified design.
 
 The first location to be remodeled under this program would be the [Austin, TX Ben White Blvd]({{< ref "wiki/Austin, TX (502 W Ben White Blvd).md" >}}) location in 1986 and would later be the building blocks for the later 1994 SPT Repositioning / Remodel Program (1990s remodels) that would take place between 1994 and 1997
 
-## Design ##
+<h2> Design </h2>
 Contrary to popular belief, the iconic checkers around the building that the remodel is most commonly associated with didn't debut until around the opening of the [Irving, Texas Showbiz Pizza]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}) in 1988.
 
-#### Exterior ####
+<h2>== Exterior </h2>==
 The exterior of the store in question would be painted completely white while a brown brick base is used under the walls. For SPP stores the area where the logo would be would've been painted dark green. The awnings for the exteriors would also vary from being solid colors to being patterned.
 
 Showbiz Pizza Place and Pizza Time Theatre locations would have received a retrofit for their signs either saying 'Chuck E. Cheese's Pizza' or replacing the sign with letters reading 'Chuck E. Cheese's Pizza'. SPP locations specifically would have gotten a retrofit to say 'Showbiz Pizza' in earlier remodels.
 
-#### Interior ####
+<h2>== Interior </h2>==
 All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.<ref>https://www.youtube.com/watch?v=OhSHOh9Q8tQ</ref>
 
 The service areas of locations would have their accompanying neon sign above, most of the time is accompanied by a blue and white striped canopy behind it.
 
-## References ##
+<h2> References </h2>

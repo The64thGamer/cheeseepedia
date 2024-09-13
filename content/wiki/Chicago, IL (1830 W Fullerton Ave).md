@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-06-09T19:36:07Z
 
 [Article]
+pageThumbnailFile = "Chicago Fullerton 2.0 Exterior.jpg|The Store's current exterior"
 contributors = ["Chuck E. Cheese's Illinois","The 64th Gamer","ShowbizMidwest","CECBowlingGreen","Rexburg090","ChucksterCheapskates","ChuckECheezeMelrose20062","216.125.34.66","ThatBoiCydalan","2600:1700:3050:8220:58D8:FD12:5216:A60C","CEC Illinois","Tux Chuck","Cecanddisneyfan2004"]
 gallery = []
 +++
-**_For the South Side store see: [Chicago, IL (5030 S Kedzie Ave)]({{< ref "wiki/Chicago, IL (5030 S Kedzie Ave).md" >}})**_{{Generic|image=Chicago Fullerton 2.0 Exterior.jpg|desc=The Store's current exterior}}
-**_Chicago, IL (1830 W Fullerton Ave), Store #687**_ is a _Chuck E. Cheese's_ location located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from _The Loop_ and being not far from _I-90/I-94_ this location could be considered a flagship.  
+<b><i>For the South Side store see: [Chicago, IL (5030 S Kedzie Ave)]({{< ref "wiki/Chicago, IL (5030 S Kedzie Ave).md" >}})</b></i>
+<b><i>Chicago, IL (1830 W Fullerton Ave), Store #687</b></i> is a <i>Chuck E. Cheese's</i> location located in Chicago, Illinois; in the Riverpoint Center. Located 5 Miles from <i>The Loop</i> and being not far from <i>I-90/I-94</i> this location could be considered a flagship.  
 
-##Stages##
+<h2>Stages</h2>
 This store had a 1-Stage with side-to-side curtains. They also had the Helicopter Light, but the lights were burned out and it only spun towards the end of the stage's life. It has since been replaced by a 2021 Dance Floor.
 
 Upon it's removal, it was the last 1-Stage ever to feature side-to-side curtains, and the second to last 1-Stage to feature a Helicopter Light. It also was one of, if not the last 1-Stage to have the 'Tempo' Drum Cover for Pasqually.
@@ -32,7 +33,7 @@ only ever traditional 1-Stage in Illinois.
 | Still In Use
 |2021 Model
 |}
-##History##
+<h2>History</h2>
 Before Chuck E. Cheese's, it is rumored that a Toy Store used to occupy the building.
 
 This location opened back on September 26, 1993 (Originally numbered 1730 W Fullerton Ave until 2003.) with a 1-Stage show and the SPT 1992/1993 Remodel Program (1992 Remodel.) The store layout and stage were identical to most stores opening around that time. Despite being located near Downtown Chicago with the skyline in site, thus this store was not given the flagship store treatment. Like others stores at the time they went through the same phase packages in the 90s and 2000s. The walkaround Chuck E. at this location also had various outfits from the Basketball outfit to the Red Shirt outfit.
@@ -49,10 +50,10 @@ In 2020 just before the lockdown, Helen and Jasper’s masks and Chuck’s snout
 
 In preparation of the stage's removal Munch's Cap was removed in July of 2022. In August of 2022, the store would receive the 2.0 remodel replacing the 1-Stage with a dance floor, ending its almost 29 Year run. However, parts of the animatronics like the heads and the valves were sent to the [Tinley Park, Illinois]({{< ref "wiki/Tinley Park, IL (16090 S Harlem Ave).md" >}}) and [Milwaukee (Chase), Wisconsin]({{< ref "wiki/Milwaukee, WI (2701 S Chase Ave).md" >}}) locations. As of April 2023, Chicago Fullerton is still open today.
 
-###Infamous Photo ###
+<h2>=Infamous Photo </h2>=
 A photo of this location's stage that was originally taken by the Chicago Tribune made its way into mainstream media because of Chuck's Stare. It has been edited and has appeared in clickbait thumbnails, and MatPat's Chuck E. Cheese Food Theory.
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -82,7 +83,7 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 |Short clip of Dancin' Kitten
 |January 11, 2015
 |-
-|[https://www.instagram.com/p/BRyJKUXDuPf/?igshid=MTc4MmM1YmI2Ng## link]
+|[https://www.instagram.com/p/BRyJKUXDuPf/?igshid=MTc4MmM1YmI2Ng== link]
 |Short clip of Fun for All
 |March 18, 2017
 |-
@@ -91,9 +92,9 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 |Filmed: 8\21\22 uploaded:10\26\23
 |}
 
-##**Gallery**##
+<h2><b>Gallery</b></h2>
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -126,8 +127,8 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 |
 |}
 
-## Walkarounds ##
-**Note: This is a W.I.P as not alot of info has surfaced on the specific costume heads, outfits, etc. Thus some of these are speculation unless shown above in photos/videos.**
+<h2> Walkarounds </h2>
+<b>Note: This is a W.I.P as not alot of info has surfaced on the specific costume heads, outfits, etc. Thus some of these are speculation unless shown above in photos/videos.</b>
 {| class='wikitable'
 !Head
 !Outfits & Suits

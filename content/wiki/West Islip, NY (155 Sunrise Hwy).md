@@ -9,19 +9,19 @@ contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
 gallery = ["West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>"]
 +++
 
-**_155 Sunrise Hwy, Store #511**_ is a _Chuck E. Cheese's_ that opened on December 10, 1998.
+<b><i>155 Sunrise Hwy, Store #511</b></i> is a <i>Chuck E. Cheese's</i> that opened on December 10, 1998.
 
-## Stage ##
+<h2> Stage </h2>
 The West Islip location opened with a [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) in 1998. as of July 1st 2024 the Stage was removed and Destroyed.
 
-## History ##
+<h2> History </h2>
 In the late 2000s, West Islip received the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). It is unknown if the location previously had showroom walls, which would have been removed. The exterior was unchanged after the 2005 remodel, sporting the original logo from its opening. 
 
 The exterior was refreshed in 2016 due to a minor plaza remodel, aligned to that of the CEC 2015 Update Program.
 
 on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}). and on that Day the [Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}}) was removed and Destroyed.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -46,7 +46,7 @@ on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel P
 |-
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -70,7 +70,7 @@ on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel P
 |Taken by Corporate
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -97,4 +97,4 @@ on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel P
 
 
 
-## References ##
+<h2> References </h2>

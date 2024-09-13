@@ -10,9 +10,9 @@ gallery = ["Sct-chuck-cheesejpg-8943ce5de063be12.jpg|thumb|Exterior in 2010 befo
 +++
 
 
-**_1716 Boston Rd, Store #476**_ was a _ShowBiz Pizza Place_ restaurant located in Springfield, Massachusetts. It closed on June 18, 2020.
+<b><i>1716 Boston Rd, Store #476</b></i> was a <i>ShowBiz Pizza Place</i> restaurant located in Springfield, Massachusetts. It closed on June 18, 2020.
 
-##History##
+<h2>History</h2>
 Springfield opened its doors on March 22nd, 1983 as the first and only ShowBiz Pizza Place in New England in the Haymarket Square with a Rock-afire Explosion show. It was originally a franchise-owned store. Unfortunately, there is very little to almost no documentation that exists back in the ShowBiz days. Like many other ShowBiz Pizza locations, it had a typical SPP layout (Except that the show was on the right side wall opposed to being on the back wall) seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Although some little documentation exists back in the ShowBiz days, though it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. It had a typical SPP layout (Except for the Show being on the right side wall instead of the back wall as in most locations) seen in many other stores across the United States and would eventually receive the 1988 remodel years after it would open. Like many ShowBiz locations in the late 1980s, Springfield received the Showbiz Pizza Campground upgrade. On July 14th, 1990, Springfield was bought out by Corporate. 
 
 In the year 1991, Concept Unification was in full swing and Springfield would be one of a majority of SPP locations to undergo it that year and became the only location in New England with the 3-Stage setup. Sometime in 1993-1995, Springfield remodeled to [Operation: Thumb Chuck]({{< ref "wiki/SPT 1992 Remodel Program.md" >}}) and revived [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}) which involved the removal of elements from the 1988 remodel such as the The Blue & White Awnings, checkers around the store, & neon lights. 
@@ -21,7 +21,7 @@ By 2002, Springfield replaced all the Latex Masks with plastic ones, except for 
 
 As of August 2023, the location is still partially vacant with the frames of the letters & logo, & awnings up on the building intact.
 
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, which was the only ShowBiz to open in New England. In around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In October 2017, the stage was converted into a Cyberamic 3-Stage with Cyberamics from the now closed Burlington, MA location. 
 {| class='wikitable'
 !Stage
@@ -45,7 +45,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 |Animatronics from the [Burlington, MA (10 Wall St)]({{< ref "wiki/Burlington, MA (10 Wall St).md" >}}) location.
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -123,7 +123,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 ! Link
 ! Description
@@ -146,7 +146,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 |December 16, 2011
 |-
 |https://www.youtube.com/watch?v=uwr8BTnfhbQ
-|<nowiki>_</nowiki>Birthday Extravaganza 07' being performed on Springfield's 3-Stage. 
+|<nowiki>''</nowiki>Birthday Extravaganza 07' being performed on Springfield's 3-Stage. 
 |January 2009
 |June 6, 2011
 |-
@@ -180,7 +180,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 |June 30, 2016
 |July 1, 2016
 |-
-| [https://www.youtube.com/watch?v=-XmX_E39xKQ https://www.youtube.com/watch?v=wihG5BTS9L8] 
+| [https:<i>www.youtube.com/watch?v=-XmX_E39xKQ https:</i>www.youtube.com/watch?v=wihG5BTS9L8] 
 |'Out of This World' from Chuck E. Cheese's Show 5 2016 (Show 5 2016) being performed on Springfield's 3-Stage.
 |August 1, 2016 
 |August 2, 2016
@@ -205,7 +205,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, which was the
 |2003-2017
 |November 25, 2017
 |}
-## Trivia ##
+<h2> Trivia </h2>
 
 * This was the only Showbiz Pizza Place location to open in the New England region.
 * This was one of two locations to convert to the [Cyberamic 3-Stage]({{< ref "wiki/Cyberamic 3-Stage.md" >}})

@@ -8,42 +8,42 @@ date = 2022-10-26T05:53:21Z
 contributors = ["ElWarlos35"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++
-**_Chuck E. Cheese's International April Show 2018**_
+<b><i>Chuck E. Cheese's International April Show 2018</b></i>
 
 This was created to play during summer from April to September 2018. Featuring 6 Skits, 4 skits are new with 2 being reused.
 
 This show includes new footage of the corporate office MMBB bots performing the song 'In My Pool' replacing the original footage of kids swimming in a pool. This show also includes new skits and intermissions from the domestic show 'Show 3, 2018' which released in the same month.
-##Show List:##
-#**** **Skit 1**
+<h2>Show List:</h2>
+#<b></b> <b>Skit 1</b>
 ##Chuck E. Cheese - 'Fun!'
-#**Intermission 1**
+#<b>Intermission 1</b>
 ##Kabilion - Chloes Closet
 ##Jokes from Pasqually
 ##Mr. Munch 1 Minute Countdown (Retro)
-#**Skit 2**
+#<b>Skit 2</b>
 ##Pasqually The Chef - 'It's The 70s'
-#**Intermission 2**
+#<b>Intermission 2</b>
 ##Battery Pop  - Om Nom Stories Ep.1
 ##Show Break #1 - Flyover
-#** Skit 3**
+#<b> Skit 3</b>
 ##Munch´s Make Believe Band - 'In My Pool'
-#**Intermission 3**
+#<b>Intermission 3</b>
 ## Fun Facts with Chuck E. Cheese - 'Spicy Chili'
 ##Battery Pop - Charlie Freaks Out - 'Rubix Cube'
-# **Skit 4**
+# <b>Skit 4</b>
 ##Chuck E. Cheese - 'More Cheese'
-#**Intermission 4**
+#<b>Intermission 4</b>
 ##Show Break #2 - Space
 ##Mr. Munch 1 Minute Countdown
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E. Cheese & Friends - 'Out Of This World'
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Kabillion - Chloe's Closet
 ##CEC Sketch - Coconut?
 ##Battery Pop - Om Nom Stories Ep. 2
-#**** **Skit 6**
+#<b></b> <b>Skit 6</b>
 ##Jasper T. Jowls - 'Jasper's Country Clasic'
-#**Intermission 6**
+#<b>Intermission 6</b>
 ##Kabillion - Chloe's Closet
 ##Show Break #3 - NYC Night Drive
 ##Battery Pop - Problem Solved with 'Start a Band'

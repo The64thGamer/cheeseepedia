@@ -8,13 +8,13 @@ date = 2024-07-07T02:10:39Z
 contributors = ["CECBowlingGreen","Jaxon11","216.125.34.66","CEC Tinley","BoyInCharge55","ShowbizMidwest","Ptt1977","Cheeseclassic","CECMentor","Nerdychucke","Documentor"]
 gallery = []
 +++
-{{Animatronic|image=HelenCyberamic2000.png|manufacturer=Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World|releasedate=1979|finalrelease=1998 (Full Bots) 2017 (Parts)}}
 
-The **Guest Star / Helen Henny Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's. Originally, it was to be used for the Guest Star character, which were special additions to the shows in the early 1980's, stopping in 1983-84 with Pizza Time Theatre's bankruptcy, where it would permanently become the then-current guest star, Helen Henny.
+
+The <b>Guest Star / Helen Henny Cyberamic</b> is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's. Originally, it was to be used for the Guest Star character, which were special additions to the shows in the early 1980's, stopping in 1983-84 with Pizza Time Theatre's bankruptcy, where it would permanently become the then-current guest star, Helen Henny.
 
 It is a pretty simple figure, having only 8 movements. The Helen Henny Cyberamic would later be utilized in the Road Stage, 2-Stage, 1-Stage, and Cyberamic 3 stage shows as part of Munch's Make-Believe Band. 
 
-## Characters Used With ##
+<h2> Characters Used With </h2>
 
 * Madame Oink: 1979-1983
 * Sally Sashay: 1979
@@ -22,7 +22,7 @@ It is a pretty simple figure, having only 8 movements. The Helen Henny Cyberamic
 * Harmony Howlette: 1981-1982
 * Helen Henny: 1983-Present
 
-## Movements ##
+<h2> Movements </h2>
 The bot features 8 movements in total, being the same number of movements as the Chuck E Cheese (Cyberamic) (Chuck E. Cheese Cyberamic) figure.
 {| class='wikitable'
 !Movement
@@ -56,7 +56,7 @@ The bot features 8 movements in total, being the same number of movements as the
 |Added later in the 1990's.
 |}
 
-## Stages Used In ##
+<h2> Stages Used In </h2>
 
 * Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.

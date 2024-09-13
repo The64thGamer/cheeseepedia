@@ -5,12 +5,13 @@ tags = ["Employee Wear"]
 date = 2023-04-27T22:35:46Z
 
 [Article]
+pageThumbnailFile = "Censoredovalnametag1.png|Name Tag"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Censoredovalnametag1.png|desc=Name Tag}}The **_CEC Employee Oval Engraved Name Tag**_ is a name tag given to employees during the 1990's.
+The <b><i>CEC Employee Oval Engraved Name Tag</b></i> is a name tag given to employees during the 1990's.
 
-## Engraved Names ##
+<h2> Engraved Names </h2>
 The currently known names engraved into the tags:
 
 * Dexter

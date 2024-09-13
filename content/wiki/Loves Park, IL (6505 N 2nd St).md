@@ -8,14 +8,14 @@ date = 2023-06-08T01:22:28Z
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = []
 +++
-**_6505 N 2nd St**_ was a _Pizza Time Theatre_ that opened in November 1981 and closed in October 1988.
+<b><i>6505 N 2nd St</b></i> was a <i>Pizza Time Theatre</i> that opened in November 1981 and closed in October 1988.
 
 This location relocated to [Rockford, IL (3600 E State St)]({{< ref "wiki/Rockford, IL (3600 E State St).md" >}}) in October 1988, bringing over with them Loves Park’s Cyberamics.
 
-## History ##
+<h2> History </h2>
 Loves Park opened with Harmony Howlette and The King. Loves Park would later get Madame Oink, and of course Helen who stayed until Loves Park relocated. This was the first Chuck E. Cheese of any kind to open in the state of Illinois.
 
-## Stages ##
+<h2> Stages </h2>
 Loves Park opened and closed with a Balcony Stage.
 
 When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker Stage, which was the last one to exist before being removed on June 12th, 2022 and sent to the SPT warehouse in Kansas where it currently sits in storage.
@@ -32,7 +32,7 @@ When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker S
 |Animatronics taken to be used at Rockford for their [Chuck E.'s House]({{< ref "wiki/Chuck E's House.md" >}}).
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -80,7 +80,7 @@ When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker S
 |Unknown.
 |}
 
-## Videos ##
+<h2> Videos </h2>
 No Videos currently exist of the store.
 
 

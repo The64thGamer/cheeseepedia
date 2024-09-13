@@ -17,61 +17,61 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Show 5 2021 (International)**_ is the holiday show released November 29th 2021 featuring a variety of holiday songs 
+<b><i>Show 5 2021 (International)</b></i> is the holiday show released November 29th 2021 featuring a variety of holiday songs 
 
 This was created with conjunction with the Winter-Winnerland promotion. This show features 7 Songs with 2 of which being new and a live show called Chuck E.'s Yuletide Slide.
 
-##Show List:##
+<h2>Show List:</h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## Safety Message
-##****Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
+##<b></b>Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
 ##[https://disneychannel.fandom.com/wiki/Put_the_Happy_in_the_Holidays Disney Channel Stars - “Put the Happy in the Holidays”]
-#** Skit 1**
+#<b> Skit 1</b>
 ## Chuck E. & Friends - “The Holiday Party”
-#**Intermission 2**
-##****Winter Winner-Land Menu Spot
+#<b>Intermission 2</b>
+##<b></b>Winter Winner-Land Menu Spot
 ##HiDino - “The Snow Song”
-##****Winter Winner-land Filling Screens
-#**Skit 2**
+##<b></b>Winter Winner-land Filling Screens
+#<b>Skit 2</b>
 ##Helen Henny - “All I Want for Christmas is Snow”
-#**Intermission 3**
+#<b>Intermission 3</b>
 ##Safety Message
 ##Holiday Musing with Mr. Munch
 ##Ella Fitzgerald - “Frosty the Snowman”
-#**Skit 3**
+#<b>Skit 3</b>
 ##Bella B. & Chuck E. - “Holiday Fiesta”
-#**Intermission 4**
-##****Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
+#<b>Intermission 4</b>
+##<b></b>Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
 ##KIDZ BOP Kids - “Let It Snow”
 ##Tails of Friendship - “Munch’s first Christmas”
-#** Skit 4**
+#<b> Skit 4</b>
 ##Munch & Munch - “The Windowsill”
-#**Intermission 5**
+#<b>Intermission 5</b>
 ##Safety Message
 ##Brady Rhymer - “Hanukkah Rocks”
 ##Idina Menzel - “We Wish You the Merriest”
-#**Skit 5**
+#<b>Skit 5</b>
 ##Chuck E., Jingle & Jangle - “Holiday Traditions”
-#**Intermission 6**
-##****Every Kid’s a Winner Spot
+#<b>Intermission 6</b>
+##<b></b>Every Kid’s a Winner Spot
 ##HiDino - “Adventure Through the Snow”
 ##Daveed Diggs - “Puppy for Hanukkah”
-#**Skit 6**
+#<b>Skit 6</b>
 ##Chuck E. & Helen - “Merry Christmastime”
-#**Intermission 7**
+#<b>Intermission 7</b>
 ##Safety Message
-##****Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
+##<b></b>Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
 ##KIDZ BOP Kids & Barbie - “Deck The Halls”
-##****Winter Winner-land Filling Screens
-#**Skit 7**
+##<b></b>Winter Winner-land Filling Screens
+#<b>Skit 7</b>
 ##Chuck E. & Friends - “Holiday Medley”
-#**Intermission 8**
+#<b>Intermission 8</b>
 ##The Juicebox Jukebox -Thankful”
 ##Asher Angel - “Snow Globe Wonderland”
 ##YouTube and Music Streaming Spot
 
-##Live Shows:##
+<h2>Live Shows:</h2>
 
 # Birthday Show (Cyberamic, Studio C, Weigl)
 # Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
@@ -83,7 +83,7 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 #  Holly Jolly Dance (New Countdown) (Studio C, Weigl)
 # Chuck E. Cha Cha (New Countdown) (Studio C, Weigl)
 
-##Official Releases##
+<h2>Official Releases</h2>
 [https://youtu.be/DZiTeTs8xiI 'Chuck E.’s Yuletide Slide' on YouTube]
 
 [https://www.youtube.com/watch?v=rBLJERfsf5Q 'The Windowsill' on YouTube]
@@ -91,7 +91,7 @@ This was created with conjunction with the Winter-Winnerland promotion. This sho
 [https://open.spotify.com/album/5mQs7BB2torhGNLnNmpJmn 'Chuck E.'s Holiday Party' on Spotify]
 
 [https://music.apple.com/us/album/chuck-e-s-holiday-party-single/1596724627 'Chuck E.'s Holiday Party - Single' on Apple Music]
-##Trivia##
+<h2>Trivia</h2>
 
 * Chuck E. & Friends - “The Holiday Party” was written by Eric Neal as a request from Matt Daniel. Neal, enjoying old school hip-hop, created the song in a similar vein to [https://en.wikipedia.org/wiki/So_What%27cha_Want 'So What'Cha Want'] by the Beastie Boys.
 * Munch & Munch - “The Windowsill” was also written by Matt Daniel as a new Munch song. The song was a nod to [https://en.wikipedia.org/wiki/Baby,_It%27s_Cold_Outside Baby It's Cold Outside], being an idea Matt had, along with an idea for Munch to struggle with his conscience in song, for around for a few years. Someone in the entertainment department eventually came up with theming the song around the holidays, and with a new Munch puppet being created around the same time, Matt went ahead with the creation of the song.

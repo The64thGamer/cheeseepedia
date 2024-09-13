@@ -5,20 +5,21 @@ tags = ["Store List"]
 date = 2024-05-22T13:33:26Z
 
 [Article]
+pageThumbnailFile = "WhiteSettlementExterior2018DecemberGoogleMaps.png|A street view of the store's exterior back in December 2018 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","Documentor","RedaCEC","Rexburg090","216.125.34.66","CEC Tinley","Steven 'CEC' Master","The 64th Gamer","Caydenpedia","SuperCreamPiper2008","Cecnj98","CECMentor"]
 gallery = []
 +++
-{{NoSources}}{{Generic|image=WhiteSettlementExterior2018DecemberGoogleMaps.png|desc=A street view of the store's exterior back in December 2018 (PC: Google Maps)}}
-**_7750 Scott St, Store #90**_ was a Showbiz Pizza Place that opened on December 29, 1982, with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which closed in 1985.
+
+<b><i>7750 Scott St, Store #90</b></i> was a Showbiz Pizza Place that opened on December 29, 1982, with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}), which closed in 1985.
 
 This location reopened as a Showbiz Pizza (with the CEC characters) on August 6, 1987, with Chuck E.'s House (Chuck E's House), which closed on June 25, 2020, because of the COVID-19 Pandemic and the company bankruptcy that same year.
 
-## History ##
+<h2> History </h2>
 White Settlement first opened as Showbiz Pizza Place on December 29th, 1982, with a [Rock-Afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) like every other Showbiz at the time. The store then closed sometime in 1985 for unknown reasons. The store would remain vacant for 1-2 years until reopening as Showbiz Pizza (with the CEC characters) on August 6, 1987, when they received Chuck E.'s House. They would then remodel again in February 1992 which removed Chuck E's House for the first 2-Stage. Then they would remodel again in around 1994-1995 to [Phase 1]({{< ref "wiki/Phase 1 (1994).md" >}}). In around 2004, they repainted the 2005 Remodel Checkers onto the facade, keeping the Thumb Chuck logo intact. In around 2005, White Settlement would then remodel again to remove the showroom walls, most the 1990s decor (Except the record posters which they kept until their 2020 closure), & Showroom Balcony. In around the Late 2000's-Early 2010's, the dim lighting would be replaced with bright florescent lighting & removed some of the decor. The store would remain this way until they closed on June 25th, 2020, as part of CEC's bankruptcy and the COVID-19 pandemic. After the location's closure, the building's inside would be subject to vandalism. Some walls would be torn down, the counter was turned over, some games, a seating booth, and even the ice cream machine were left in there. This was due to the entrance doors not being locked. Around early 2022, the store was converted into a blood donation center called Freedom Plasma. As of April 2023, Freedom Plasma is still there.
 
 On July 26th, 2019, White Settlement would have hosted Chuck E. Con 2019 which was then hosted at the [North Richland Hills]({{< ref "wiki/North Richland Hills, TX (7935 Grapevine Hwy).md" >}}) location the next day.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had, they would have this until 1985, when they would close for unknown reasons. On August 6, 1987, the store would reopen as a Showbiz Pizza with Chuck E.'s House, as the period when the store opened was during the time when CEC stores went by the name of Showbiz, despite not having the RAE, they were the 3rd Chuck E.'s House installed, after [Eau Claire]({{< ref "wiki/Eau Claire, WI (2221 Eastridge Center).md" >}}), and [Arlington]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}), as well as being the second modern CEC store to open. They would have Chuck E.'s House for a short time until February 1992, when they would receive the very first 2-Stage, having a different design than the later 2-Stages, with the stages separated into two parts (later ones have just one stage with a TV separating Chuck E. and Helen) a blue valence, 3-Stage buildings, Jasper sitting on a vent from a 3-Stage, Munch having a Road Stage keyboard, and Pasqually keeping his PTT arm movements. They would have the 2-Stage until they closed on June 25, 2020, as part of CEC's Bankruptcy and the COVID-19 Pandemic. The 2-Stage would be completely empty, with all of the props, backdrops, and animatronics gutted.
 {| class='wikitable'
 |+
@@ -43,7 +44,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |First ever 2-Stage.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number 
@@ -124,7 +125,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -191,7 +192,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |July 26, 2019
 |August 21, 2019
 |-
-|[https://youtu.be/sTuBneLdi5s?t=7 https://www.youtube.com/watch?v=sTuBneLdi5s]
+|[https:<i>youtu.be/sTuBneLdi5s?t=7 https:</i>www.youtube.com/watch?v=sTuBneLdi5s]
 |The store was featured at the beginning of the video. Was a location where Chuck E. Con 2019 was hosted. 
 |July 26, 2019
 |August 24, 2019

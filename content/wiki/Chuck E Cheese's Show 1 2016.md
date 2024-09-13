@@ -18,26 +18,26 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 1 2016**_ released December 28th 2015 featuring four songs
+<b><i>Chuck E. Cheese's Show 1 2016</b></i> released December 28th 2015 featuring four songs
 
 This was created to play from December 28th, 2015 - February 28th, 2016. This show features 4 songs, with a new live show and solo birthday show.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Intermission 1**
+#  <b>Intermission 1</b>
 ## 5 Seconds of Summer - 'Hey Everybody'
 ## CEC Promo - 'Rip It, Win It'
 ## Caspar Babypants - 'My Flea Has Dogs'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese & Pasqually - 'Keep Drummin' (New)
-#  **Intermission 2**
+#  <b>Intermission 2</b>
 ## LOCASH - 'I Love This Life'
 ## Cartoon Network - We Bare Bears - 'Jean Jacket'
 ## Meghan Trainor - 'Better When I'm Dancin'
 ## Hotel Transylvania 2 Film Trailer 
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. & Friends - 'Giant Armadillo Named Phil'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Kidz Bop - 'Make Some Noise'
 ## CEC Sketch - Helen Henny's Hollywood - 'Sean's Pen'
 ##  Cartoon Network - Clarence - 'Lunch'
@@ -45,18 +45,18 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 ## CEC Promo - 'Birthdays'
 ##  Sara Bareilles - 'Brave'
 ##  Cartoon Network - Steven Universe - 'Guitar Dad'
-#  **Skit 3**
+#  <b>Skit 3</b>
 ## Chuck E. Cheese - 'Let's Have a Party' (New)
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Caspar Babypants - 'The Creatures Under My Bed'
 ## CEC Promo - 'Fundraisers' 
 ##  CEC Sketch - Jokes From Pasqually - 'Bees'
 ##  Daft Punk - 'Around The World'
 ##  Cartoon Network - Teen Titans Go - 'Robins Sandwich'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese - 'Most Epic Mouse'
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
 *  Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
@@ -70,14 +70,14 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 * Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
 * Old MacDonald (Studio C,Weigl)
 
-##Official Releases: ##
+<h2>Official Releases: </h2>
 *[https://www.youtube.com/watch?v=iWsT7WCRTLM 'Keep Drummin' on YouTube]
 *[https://www.youtube.com/watch?v=iwYqTQmF_wM 'Let's Have a Party' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This was the first show without the Department 18 logo on the DVD Cover. 
 * 'Giant Armadillo Named Phil' is originally from Show 2 2015 and 'Most Epic Mouse' is originally from Show 5 2015

@@ -8,9 +8,9 @@ date = 2024-09-01T23:28:55Z
 contributors = ["CorrectorManBackup","2600:4040:5A0E:D900:2D95:799B:8CC7:CDB2","CorrectorMan","CEC Tinley","Cheeseclassic","Estsproduction","Fttoncep","Paskkkk","Showbiz Pizza International"]
 gallery = []
 +++
-**_1614 Penfield Rd**_ was a _Pizza Time Theatre_/_Chuck E. Cheese's Pizza_ store that opened on March 17, 1982, with a Balcony Stage and closed on September 16, 1996, with a 2-Stage. This was the first CEC in New York. Unfortunately, not much information is known about this location.
+<b><i>1614 Penfield Rd</b></i> was a <i>Pizza Time Theatre</i>/<i>Chuck E. Cheese's Pizza</i> store that opened on March 17, 1982, with a Balcony Stage and closed on September 16, 1996, with a 2-Stage. This was the first CEC in New York. Unfortunately, not much information is known about this location.
 
-## Stages ##
+<h2> Stages </h2>
 Penfield at first had a Balcony Stage. It only lasted 7/8 years, as in 1989, they received Chuck E.'s House Facade. In 1992, the stage was removed for one of the first 2 stages.
 {| class='wikitable'
 |+
@@ -35,10 +35,10 @@ Penfield at first had a Balcony Stage. It only lasted 7/8 years, as in 1989, the
 |One of the first 2-Stages installed.
 |}
 
-## History ##
+<h2> History </h2>
 Penfield opened on March 17, 1982, as Pizza Time Theatre with a Balcony Stage It first had the 1981 remodel, which included Cabaret rooms, the Fantasy Forest, and of course the stage itself. it had a cheese crawl stage at some point, probably after the first PTT remodel. In 1989, the store received the 1988 remodel, which involved uniting some of the rooms and all the counters, replacing all the PTT decor with new decor, and removing the Balcony Stage for Chuck E.'s House Facade. However, they kept the PTT Signage. They remained like this until September 16, 1996, when they would close possibly due to a disagreement. As of July 2023, the store is now Advance Auto Parts & United States Postal Service.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 
 {| class='wikitable'
 |+
@@ -79,7 +79,7 @@ Penfield opened on March 17, 1982, as Pizza Time Theatre with a Balcony Stage It
 |Sent to Santiago (Mall Plaza Vespucio), Chile, now at [Santiago (Plaza Oeste), Chile]({{< ref "wiki/Santiago (Plaza Oeste), Chile.md" >}}). As of 08/25/24, Pasqually's only working movements are his arms, eyes turn right and moustache. He still has the PTT valve wiring for his arms and moustache (left arm valve for both arms and right arm valve for the moustache). 
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description

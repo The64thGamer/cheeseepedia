@@ -8,11 +8,11 @@ date = 2024-05-23T05:42:38Z
 contributors = ["Lelmaster"]
 gallery = ["Backyard Monsters Logo From Newspaper.jpg|alt=Logo with some bugs and the text 'Backyard Monsters'|thumb|Backyard Monsters Logo",":More Backyard Monsters stuff.jpg"]
 +++
-{{Stub}}
+
 The Backyard Monsters were semi-interactive shows that features larger than life insects, sometimes up to 92x their original size. These shows would tour from museum to museum to give children a way to learn more about insects in a fun way. The show also made an appearance at the IAAPA in 1991.
 
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Link
 !Description
@@ -39,12 +39,12 @@ The Backyard Monsters were semi-interactive shows that features larger than life
 |~2009
 |}
 
-## Images ##
+<h2> Images </h2>
 
 
 
 
-## References ##
+<h2> References </h2>
 https://www.backyardmonsters.com/
 
 https://www.newspapers.com/article/daily-record-creative-presentations-bug/141018903/

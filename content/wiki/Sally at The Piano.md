@@ -8,18 +8,18 @@ date = 2024-06-08T19:09:52Z
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
 gallery = []
 +++
-**_Sally at The Piano**_ was a single-animatronic show produced by **_Sally Industries**_ in 1983.
+<b><i>Sally at The Piano</b></i> was a single-animatronic show produced by <b><i>Sally Industries</b></i> in 1983.
 
-{{AnimatronicShow|image=Sallyatthepianopromoimage.png|years=1983 - Present|status=Operating|numCharacters=1|manufacturer=Sally Corporation (Sally Industries)|businessType=Type of Business: Hotels, Resorts, Piano Bars, Restaurants, Museums}}
 
-## Summary ##
-The show consisted of Piano Sally (Animatronic) performing songs on a piano. They have an 8 hour showtape consisting of playing the piano and singing.<ref name=':0'>https://nydailynews.newspapers.com/image/487943410/?terms=Sally%20Piano&match=2</ref><ref>https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1</ref>
 
-The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.<ref name=':3'>https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4</ref><ref name=':1'>https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob</ref> In 1984 the lowest-end option would reduce in price to $21,000.<ref name=':0' />
+<h2> Summary </h2>
+The show consisted of Piano Sally (Animatronic) performing songs on a piano. They have an 8 hour showtape consisting of playing the piano and singing.<ref name=':0'>https:<i>nydailynews.newspapers.com/image/487943410/?terms=Sally%20Piano&match=2</ref><ref>https:</i>nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1</ref>
+
+The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.<ref name=':3'>https:<i>www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4</ref><ref name=':1'>https:</i>archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob</ref> In 1984 the lowest-end option would reduce in price to $21,000.<ref name=':0' />
 
 Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianocorder signals, another for Sally's voice track, and a third track for the animatronic [signals]({{< ref "wiki/Data.md" >}}).
 
-## Installed Locations ##
+<h2> Installed Locations </h2>
 
 * Dallas, TX (???)
 ** The earliest known Sally, installed at a Holiday Inn lounge in Dallas in 1983. This variant used a grand piano, as was being used by Holiday Inn as a test for potential further adoption.<ref name=':1' />
@@ -41,4 +41,4 @@ Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianoco
 
 
 
-## References ##
+<h2> References </h2>

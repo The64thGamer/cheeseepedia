@@ -18,71 +18,71 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**First Quarter 2013** is the Winter show released January 2013, featuring eight redubbed songs and four redubbed live shows.
+<b>First Quarter 2013</b> is the Winter show released January 2013, featuring eight redubbed songs and four redubbed live shows.
 
 This was created to play from from January - March 2013. 
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#   **Song 1**
+#   <b>Song 1</b>
 ## Workin' For The Weekend
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Veggietales - 'Happy Toothday'
 ##   Chillout 1 - Circle of Life
 ## CEC TV ID - 'Animals'
 
-#  **Song 2**
+#  <b>Song 2</b>
 ## Need a New Wheel (Parody of [https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song) Head Over Heels])
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Fraggle Rock - 'Pass It On'
 ## Chillout 2 - 'Electro Space'
 ## CEC TV ID - 'Gumball Machine'
 
-#   **Song 3**
+#   <b>Song 3</b>
 ## Crocodile Rock
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  My Little Pony - 'Winter Wrap Up'
 ##  Super Jasper - 'Break the Record'
 ## Chillout 3 - 'Rock Climbing'
 ## CEC TV ID - 'Digestion' 
 
-#   **Song 4**
+#   <b>Song 4</b>
 ## Sing a Song
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Tim & the Space Cadets - 'Super Hero'
 ## Chillout 4 - 'Underwater'
 ## CEC TV ID - 'Digital Blue'
 
-#   **Song 5**
+#   <b>Song 5</b>
 ## Everybody Wants To Rule The World
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Pajanimals - 'Super Squacky'
 ## Chillout 5 - 'Time Lapse'
 ## CEC TV ID - 'Pizza Fan'
 
-#   **Song 6**
+#   <b>Song 6</b>
 ## Pizza Oven (Parody of [https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song) Evil Women])
-# **Intermission 6**
+# <b>Intermission 6</b>
 ##  Pound Puppies - 'McLeash'
 ## Hard Hat Hank - 'Door Frame'
 ## Chillout 6 - 'Water Fly Over'
 ## CEC TV ID - 'Skee-Ball'
 
-# **Song 7**
+# <b>Song 7</b>
 ## Come On Let's Go
-# **Intermission 7**
+# <b>Intermission 7</b>
 ##   Dreamworks - 'Rise of the Guardians'
 ## Chillout 7 - 'Desert'
 ## CEC TV ID - 'Break Dance'
 
-#   **Song 8**
+#   <b>Song 8</b>
 ## Get Down On It
-# **Intermission 8**
+# <b>Intermission 8</b>
 ##  Aquabats - 'Super Magic Power Man'
 ##  Chillout 8 - 'Night Drive'
 ## CEC TV ID - 'Bridge'
 
-## Studio C DVD 3: ##
+<h2> Studio C DVD 3: </h2>
 
 #16 Movement Diagnostics
 #32 Movement Diagnostics
@@ -96,7 +96,7 @@ This was created to play from from January - March 2013.
 #Birthday Program
 #10 Minutes of Nature
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday (3stage, Cyberamic, Studio C, Weigl)
 * Spanish Birthday (3stage, Cyberamic, Studio C, Weigl)
@@ -104,10 +104,10 @@ This was created to play from from January - March 2013.
 * BINGO (3stage, Cyberamic, Studio C, Weigl)
 * Happy And You Know It (3stage, Cyberamic, Studio C, Weigl)
 * Old MacDonald (Studio C, Weigl)<br />
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Workin' for the Weekend' is originally from [January 2006]({{< ref "wiki/January 2006 Show.md" >}}), 'Need a New Wheel', 'Pizza Oven' and Hard Hat Hank are originally from [April 2012]({{< ref "wiki/April 2012 Show.md" >}}), 'Crocodile Rock' is originally from [September 2005]({{< ref "wiki/September 2005 Show.md" >}}), 'Sing a Song' is originally from [January 2004]({{< ref "wiki/January 2004 Show.md" >}}), 'Everybody Wants to Rule the World' is originally from [January 2009]({{< ref "wiki/January 2009 Show.md" >}}), 'Come On Let's Go' is originally from [September 2011]({{< ref "wiki/September 2011 Show.md" >}}), and 'Get Down On It' is originally from [April 2007]({{< ref "wiki/April 2007 Show.md" >}}). All of Chuck E.'s lines have been rerecorded by Jaret.
 * The footage for 'Workin' for the Weekend', 'Crocodile Rock' and 'Everybody Wants to Rule the World' was redone to better fit the songs.

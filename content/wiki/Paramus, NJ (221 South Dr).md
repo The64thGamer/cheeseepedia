@@ -5,29 +5,30 @@ tags = ["Store List"]
 date = 2024-05-25T15:47:06Z
 
 [Article]
+pageThumbnailFile = "ParamusNJ1ExteriorBeforeClosure.jpg|The store's exterior before closure & Demolition (2010) (PC: wikimapia.org)"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:CDD0:62DE:714:46B2","The 64th Gamer","2600:4040:5A0C:5900:C4A1:9008:FD91:F5FE","Cecnj98","74.102.61.112","Tux Chuck"]
 gallery = []
 +++
-{{Generic|image=ParamusNJ1ExteriorBeforeClosure.jpg|desc=The store's exterior before closure & Demolition (2010) (PC: wikimapia.org)}}
 
-**_221 South Dr, Store #482**_ was a _Chuck E. Cheese's Pizza/Chuck E. Cheese's_ in Paramus, New Jersey. It was located in a small plaza across from the Bergen Town Center.
+
+<b><i>221 South Dr, Store #482</b></i> was a <i>Chuck E. Cheese's Pizza/Chuck E. Cheese's</i> in Paramus, New Jersey. It was located in a small plaza across from the Bergen Town Center.
 
 The store would be relocated to [Paramus, NJ (275 Route 4 West)]({{< ref "wiki/Paramus, NJ (275 Route 4 West).md" >}}) which opened on December 26, 2011 with a Studio C Beta, 16m and still operates to this day.
 
-##History##
+<h2>History</h2>
 
-###Pre CEC (1958-1993)###
+<h2>=Pre CEC (1958-1993)</h2>=
 The Plaza where the Paramus (221 South Dr) location was located was built sometime in 1958<ref>http://wikimapia.org/14661916/Chuck-E-Cheese-s</ref>. It is unknown how many tenants occupied the building, but the last tenant was closed by the end of 1992 with construction starting sometime afterwards.
 
-###CEC (October 1993-November 2010)###
+<h2>=CEC (October 1993-November 2010)</h2>=
 Paramus opened on October 18, 1993, in a plaza across the street from the Bergen Town Center with a 1-Stage and the 1993 version of the 1994 SPT Repositioning / Remodel Program. They remodeled to [Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}}) in 1997 which involved replacing Exterior Signage (Changing it from 'Chuck E. Cheese's Pizza' to 'Chuck E. Cheese's'), replacing the awnings, repainting the building, and possibly a minor interior remodel. The store received minor renovations over the years like the green overhead kid check light, new hats and cosmetic changes for Chuck E. and Munch.
 
 In the mid-late 2000's, following the closure of the stores surrounding the CEC like Shop Rite and Health Spa 2, the CEC was the only store left in the area. Similar to the [old Union store]({{< ref "wiki/Union, NJ (1660 US-22).md" >}}), plans started to emerge of redevelopment of the area where the two abandoned stores were and the Paramus location. Paramus (also similar to Union) planned to close this location and relocate to another space nearby. The original Paramus location closed at the end of November 2010. 
 
-###Post CEC (2010-Present)###
+<h2>=Post CEC (2010-Present)</h2>=
 After the store's closure, the building that occupied the Paramus store was demolished shortly after. By 2012, A building housing REI, Red Robin (which was formerly another restaurant) (Now Closed) & Kirkland's (Now Closed). The CEC relocated to [Paramus, NJ (275 Route 4 West)]({{< ref "wiki/Paramus, NJ (275 Route 4 West).md" >}}) in December 2011 and held its grand opening on January 2, 2012. 
 
-##Stages##
+<h2>Stages</h2>
 When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six installed in the state of New Jersey). Chuck E. wore his Tuxedo & Derby hat like all other 1-Stages when it was first installed. Around the Early-Mid 2000's Chuck's Tuxedo & Derby Outfit would be replaced by the Cool Chuck outfit. Chuck also wore the avenger cap in as early as 2006 (it is possible their cap was from a walkaround not the one for animatronics). It would remain this way until the stage's removal when the store closed permanently in November 2010.
 {| class='wikitable'
 !Stage
@@ -40,7 +41,7 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 |November 2010
 |One of six installed in New Jersey. First to be removed in the state.
 |}
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -74,7 +75,7 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -127,5 +128,5 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 |April 24, 2010
 |}
 
-##References##
+<h2>References</h2>
 <references />

@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-08-11T16:09:58Z
 
 [Article]
+pageThumbnailFile = "Mays Landing 2.0 (PC- Mikey llagan).jpg|Exterior, July 2024 (PC: Mikey llagan)<ref> https://maps.app.goo.gl/ywKDKaMbgg5dQo95A</ref>"
 contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++
-{{Stub}} {{Generic|image=Mays Landing 2.0 (PC- Mikey llagan).jpg|desc=Exterior, July 2024 (PC: Mikey llagan)<ref> https://maps.app.goo.gl/ywKDKaMbgg5dQo95A</ref>}}
-**_Mays Landing, NJ (4215 Black Horse Pike), Store #518**_ is a _Chuck E. Cheese_ that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
+ 
+<b><i>Mays Landing, NJ (4215 Black Horse Pike), Store #518</b></i> is a <i>Chuck E. Cheese</i> that opened on December 27, 2001 with a [Studio C Beta]({{< ref "wiki/Studio C Beta.md" >}}), and is still open to this day with the CEC 2018 2.0 Remodel Program (2.0 Remodel).
 
-##Stage##
+<h2>Stage</h2>
 {| class='wikitable'
 !Stage
 !Installed
@@ -29,10 +30,10 @@ gallery = []
 |2021 Model
 |}
 
-##History##
+<h2>History</h2>
 On May 26th, 2024, Mays Landing began their [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 2018 20 Remodel Program.md" >}}) renovations. The Studio C Beta and other 2015 fixtures were removed the following night on May 27th. The location reopened in July 2024, and is still open today. 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -48,10 +49,10 @@ On May 26th, 2024, Mays Landing began their [CEC 2018 2.0 Remodel Program]({{< r
 |-
 |}
 
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

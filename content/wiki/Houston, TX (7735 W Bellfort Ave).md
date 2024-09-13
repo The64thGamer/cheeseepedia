@@ -8,9 +8,9 @@ date = 2023-08-18T21:44:50Z
 contributors = ["CEC Kokomo"]
 gallery = []
 +++
-**_7735 W Bellfort Ave**_ was a _Showbiz Pizza Place_ that opened on June 1, 1982 with a [Rock-afire]({{< ref "wiki/Classic Stage.md" >}}) and closed in 1993 (month and day unknown) with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). Barely any information exists on this store at all.
+<b><i>7735 W Bellfort Ave</b></i> was a <i>Showbiz Pizza Place</i> that opened on June 1, 1982 with a [Rock-afire]({{< ref "wiki/Classic Stage.md" >}}) and closed in 1993 (month and day unknown) with a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). Barely any information exists on this store at all.
 
-## Stages ##
+<h2> Stages </h2>
 Houston opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Around 1991, they got Concept Unification, removing the Rock-afire for a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). The store closed in 1993, and after closure, we don't know what happened to the bots.
 {| class='wikitable'
 |+
@@ -30,10 +30,10 @@ Houston opened with a [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}
 |One of 17 Texas locations to get Concept Unification.
 |}
 
-## History ##
+<h2> History </h2>
 Houston opened on June 1, 1982 in the Village Place shopping center and had [The Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}). Unfortunately, barely any information on this store as a Showbiz or in general falls into extreme scarcity. They later got the 1988 remodel, like most other locations. In 1991, the store received Concept Unification, being renamed to 'Chuck E. Cheese's Pizza', and the removal of The Rock-afire Explosion for a [3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). The store would close without warning sometime in 1993 (month and day unknown) for unknown reasons. The location was split up into multiple businesses, until the early 2010s, when the entire Village Place mall was demolished for Joe V's Smart Shop. As of August 2023, Joe V's Smart Shop is still on the space.
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 !Animatronic

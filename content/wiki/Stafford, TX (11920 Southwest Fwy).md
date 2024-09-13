@@ -8,14 +8,14 @@ date = 2023-04-04T16:34:38Z
 contributors = ["ChuckECool","2600:387:1:803:0:0:0:C5","Rexburg090"]
 gallery = []
 +++
-**_11920 Southwest Fwy, Store #571**_ is a _Chuck E. Cheese_ that opened in September 22, 1992 with a 2-Stage Show. Like the address implies, it is located near the freeway.
-##History##
+<b><i>11920 Southwest Fwy, Store #571</b></i> is a <i>Chuck E. Cheese</i> that opened in September 22, 1992 with a 2-Stage Show. Like the address implies, it is located near the freeway.
+<h2>History</h2>
 Stafford opened its doors on September 22nd, 1992 next to the freeway. Stafford opened with the 1988 remodel with the CU decor, the Blue and White awnings, checkers around the store, and the 2-Stage. In the Mid-90's, Stafford removed their CU decor and was replaced by the Record Posters and the Colored Chase Lights were added. In the Late 90's, Stafford received the Phase 2 remodel removing some Record Posters for newer decor, replacing the ball pit for SkyTubes, the removal of the Blue and White awnings, and the removal of some checkers. In 2005-2006, Stafford received the 2005 remodel removing all checkers, remaining 1988 remodel artwork, removal of older decor for newer decor, removing the Showroom Walls, Balcony Seating, and the relocation of the stage. In 2020, the sign fell off and received the 2.0 logo sign. In July 2022, Stafford received the 2.0 remodel removing the 2-Stage for the Dance Floor and Video Wall (which was relocated to the back wall as opposed to the side wall where the 2-Stage was installed). The store's Grand Reopening occurred on September 22nd, 2022<ref>https://www.youtube.com/watch?v=GPjJO_7vQ6g</ref>. Currently, as of April 2023, Stafford still has the 2.0 remodel and Dance Floor and Video Wall. 
-##Stages##
+<h2>Stages</h2>
 When Stafford opened, it housed a 2-Stage like the other locations that opened at the time.
 
 In July 2022, Stafford received the 2.0 remodel and removed their 2-Stage for the Dance Floor and Video Wall.
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Character
 !Manufacturing Date
@@ -47,7 +47,7 @@ In July 2022, Stafford received the 2.0 remodel and removed their 2-Stage for th
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 TODO
-##References##
+<h2>References</h2>
 <references />

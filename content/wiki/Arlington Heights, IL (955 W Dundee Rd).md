@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2023-10-15T19:51:44Z
 
 [Article]
+pageThumbnailFile = "ArlingtonHeightsIL1Exterior2012MayGoogleMaps.png|A Street View photo of the store's exterior back in May 2012 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|image=ArlingtonHeightsIL1Exterior2012MayGoogleMaps.png|desc=A Street View photo of the store's exterior back in May 2012 (PC: Google Maps)}}
-**_955 West Dundee Rd, Store #688**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's_ which opened on October 7, 1981 with a Rock-Afire Explosion, and closed in December 6, 2015 with the Studio C Alpha stage.
+
+<b><i>955 West Dundee Rd, Store #688</b></i> was a <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese's</i> which opened on October 7, 1981 with a Rock-Afire Explosion, and closed in December 6, 2015 with the Studio C Alpha stage.
 
 It was located across from the Ridge Plaza Shopping Mall.
 
-##Stages##
+<h2>Stages</h2>
 Originally, Arlington Heights featured a Rock-Afire Explosion, as all other Showbiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage.
 
 Arlington Heights would have the 3-Stage until late 1998, when they would receive the first Studio C in the state.
@@ -40,11 +41,11 @@ On December 6th, 2015; the Studio C Alpha would be removed due to the store relo
 | December 6, 2015
 |One of four installed in Illinois. First Studio C in the State.
 |}
-##History##
+<h2>History</h2>
 Arlington Heights opened its doors on October 7th, 1981 as the third Showbiz Pizza store in Illinois with the Rock-Afire Explosion show like every other Showbiz Pizza. It was originally a Corporate-owned location. In 1988-1989, Arlington Heights received the 1988 remodel removing the older SPP decor, adding newer decor, received a new exterior change, and updated the Billy Bob stage. In 1991, Arlington Heights received a major remodel, adding checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor, and received Concept Unification removing the Rock-Afire Explosion for the 3-Stage. Arlington Heights received a minor remodel in the Mid-90's removing older CU decor for the Record Posters. In late 1998, Arlington Heights would receive the Phase 3 remodel which removed all older 90's decor, added newer decor, removed the 3-Stage for the Studio C Alpha, and added SkyTubes. In 2006-2007, Arlington Heights received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor, removing the Showroom Walls, Balcony Seating, and painting the walls purple, and adding bright florescent lighting. Arlington Heights would remain like this until December 6th, 2015 when they would relocate to [the 41 West Rand Road]({{< ref "wiki/Arlington Heights, IL (41 W Rand Rd).md" >}}) location which was about 7 minutes away and opened with a Dance Floor. After its closure, the location became abandoned.
 
 In August 2023, the store would begin its conversion process, with the building being completely gutted by October 2023, which is how it stands as of today.
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronics
 !Serial Number
@@ -116,7 +117,7 @@ In August 2023, the store would begin its conversion process, with the building 
 |}
 
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description

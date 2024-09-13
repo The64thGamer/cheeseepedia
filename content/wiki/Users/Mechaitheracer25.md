@@ -10,10 +10,10 @@ gallery = []
 +++
 Hello I'm Mechaitheracer25 I Am A Programmer On Reel To Real Also Have A Chuck E. Day!
 
-## My YouTube ##
+<h2> My YouTube </h2>
 My YouTube Name Is... Well... Mechaitheracer25 But Please Don't Repost My Videos Without My Permission From Me Please.
 
-## My Favorite Animatronic Shows ##
+<h2> My Favorite Animatronic Shows </h2>
 The rock afire explosion
 
 Munch's make believe band
@@ -26,12 +26,12 @@ Looney tunes revue
 
 And many others
 
-## My Favorite Movies ##
+<h2> My Favorite Movies </h2>
 Pixar cars 1 
 
 Pixar wall-e 
 
-## My Favorite Tv Shows ##
+<h2> My Favorite Tv Shows </h2>
 Thomas the tank engine and friends
 
 Totally spies 
@@ -44,7 +44,7 @@ Strawberry shortcake
 
 And many others
 
-## My Favorite Anime ##
+<h2> My Favorite Anime </h2>
 School babysitters (manga/anime)
 
 Ranking of kings (manga/anime)

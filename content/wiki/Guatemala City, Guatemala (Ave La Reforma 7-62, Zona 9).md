@@ -8,27 +8,27 @@ date = 2024-06-23T16:09:47Z
 contributors = ["Gostapua210","Cheeseclassic","CEC Tinley","BigCtheDataFinder","BurgersNuggs445"]
 gallery = []
 +++
-{{NoSources}}
 
-**_Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)**_ was a franchised _ShowBiz Pizza Place_ that opened in 1986 and closing in 1996 a _Chuck E. Cheese's._
+
+<b><i>Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)</b></i> was a franchised <i>ShowBiz Pizza Place</i> that opened in 1986 and closing in 1996 a <i>Chuck E. Cheese's.</i>
 
 Prior to [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), the location was not officially acknowledged by [Showbiz Pizza Time, Inc.]({{< ref "wiki/ShowBiz Pizza Place.md" >}}) during its early years of operation. However, unlike other international ShowBiz stores, Guatemala City may have been the only location outside the United States to be converted into a Chuck E. Cheese's.
 
-## History ##
+<h2> History </h2>
 This Showbiz in particular had unique menu items, such as pizzamoffin, pizzpan, and pancakes.<ref>https://www.youtube.com/watch?v=uLh73in3pz8</ref>
 
 Prior to its relocation it was remodeled to fit 1986 SPT Remodel Program (Showbiz Pizza Time's current appearance).
 
 The location would relocate to [Blvd Liberación 6-31]({{< ref "wiki/Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9).md" >}}) in 1996.
 
-## Stages ##
+<h2> Stages </h2>
 This location's [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) show was originally from the Terre Haute, IN (3820 S US Hwy 41) location, which had just closed about year prior. The show more than likely received Concept Unification prior to 1996.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
-!**Serial**
+!<b>Serial</b>
 !Wearabouts
 |-
 |[Chuck E. Cheese / Rolfe DeWolfe]({{< ref "wiki/Rolfe Dewolfe & Earl Schmerle (Animatronic).md" >}})

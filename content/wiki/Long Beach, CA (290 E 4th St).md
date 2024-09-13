@@ -9,11 +9,11 @@ contributors = ["CorrectorMan"]
 gallery = ["Long beach.jpg|thumb|Long Beach's exterior before closure. (PC: Google Maps)"]
 +++
 
-**_290 E 4th St**_ was a _Chuck E. Cheese's_ that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}).
+<b><i>290 E 4th St</b></i> was a <i>Chuck E. Cheese's</i> that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}).
 
 This is not to be confused with Long Beach, CA (4706 Los Coyotes Diagonal), which opened in 1980 (month and day unknown) and closed in 1984 (month and day unknown) with presumably a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}).
 
-## Stage ##
+<h2> Stage </h2>
 Long Beach opened with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). Unfortunately, due to lack of info, further info is unknown.
 {| class='wikitable'
 |+
@@ -28,5 +28,5 @@ Long Beach opened with a botless [Circles of Light]({{< ref "wiki/Circles of Lig
 |TODO
 |}
 
-## History ##
+<h2> History </h2>
 Long Beach opened on November 4, 2013 with a botless [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}). Unfortunately, very few info is known about this location throughout its history. The location would remain untouched until closure in June 2020 (day unknown) due to COVID-19 and the bankruptcy. As of August 2023, the location is now Gold's Gym.

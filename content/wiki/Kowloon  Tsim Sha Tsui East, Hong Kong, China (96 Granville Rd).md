@@ -5,33 +5,34 @@ tags = ["Store List"]
 date = 2024-08-07T23:17:31Z
 
 [Article]
+pageThumbnailFile = "desc=Kowloon's exterior in 1986.|image=HK KOWLOON.png"
 contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64th Gamer"]
 gallery = []
 +++
-{{Generic|desc=Kowloon's exterior in 1986.|image=HK KOWLOON.png}}
 
-**_96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong**_ was a _Chuck E. Cheese's_ _Pizza Time Theatre (出奇老鼠)_ that opened in December 1982 with a Balcony Stage, which closed in 1988.
+
+<b><i>96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong</b></i> was a <i>Chuck E. Cheese's</i> <i>Pizza Time Theatre (出奇老鼠)</i> that opened in December 1982 with a Balcony Stage, which closed in 1988.
 
 This store was the first of Asian Pizza Time Theatres, being franchised by [https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0 Happy World Co., Ltd.]
-##Stages##
+<h2>Stages</h2>
 Opened with a small balcony stage and a single cabaret act. Balcony dropped Mr. Munch's Magic Madhouse for unknown reasons. A sheet of window-like plastic was put over the characters to prevent kids from climbing onstage. Special Chinese nametags were created. Starting in 1983, special showtapes were created for Hong Kong stores, with all of the characters speaking standardized Chinese.  
 
-### Cabaret Act ###
+<h2>= Cabaret Act </h2>=
 Opened with a cabaret act, the character present unknown. Special Chinese showtapes were created for the characters, all of them yet to be found.
 
-##History##
-Kowloon opened to the public in December 1982 in the Hilton Towers in East Kowloon. Supporting advertisements ran throughout its operation, supporting the catchphrase **薄餅樂園開心地，出奇老鼠錫晒你'._ 
+<h2>History</h2>
+Kowloon opened to the public in December 1982 in the Hilton Towers in East Kowloon. Supporting advertisements ran throughout its operation, supporting the catchphrase <i>'薄餅樂園開心地，出奇老鼠錫晒你'.</i> 
 
-###Renovation###
+<h2>=Renovation</h2>=
 Between 1986 and 1988, the Hilton Tower shopping complex would go under a huge exterior renovation. It's unknown if the interior was affected. 
 
-###Closure###
+<h2>=Closure</h2>=
 Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatres in Hong Kong closing a year later. A large majority of the Pizza Time Theatres were converted into The Wonderful World of Whimsy, a brand created by the Franchisee, [https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0 Happy World Co., Ltd.]
-##Arcade Machines##
+<h2>Arcade Machines</h2>
 
 * [Pizza Time Theatre Musical Ferris Wheel]({{< ref "wiki/Pizza Time Theatre Musical Ferris Wheel.md" >}})
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 !Description
@@ -59,7 +60,7 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 |}
 
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Manufacturing Date
@@ -89,4 +90,4 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 |Unknown
 |Unknown
 |}
-##References##
+<h2>References</h2>

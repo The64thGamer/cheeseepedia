@@ -10,7 +10,7 @@ gallery = []
 +++
 Hi! I am a Chuck E. Cheese fan, My local CEC is the [Bowling Green, Kentucky (2625 Scottsville Rd)]({{< ref "wiki/Bowling Green, KY (2625 Scottsville Rd).md" >}}). I have been a CEC fan for many years.
 
-## Locations I Have Been To ##
+<h2> Locations I Have Been To </h2>
 I have been to 17 different Chuck E. Cheese locations, some more than others.
 {| class='wikitable'
 !Location

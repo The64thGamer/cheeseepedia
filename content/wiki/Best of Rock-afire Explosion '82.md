@@ -12,43 +12,43 @@ gallery = []
 |date=July 1982
 |showbizreel=y|image=Bestof82thumbnail.png}}
 
-**_Best of Rock-afire Explosion '82**_ is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1982.
-##Show List##
-#**Segment 1**
-##_Beatles Medley_
+<b><i>Best of Rock-afire Explosion '82</b></i> is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July 1982.
+<h2>Show List</h2>
+#<b>Segment 1</b>
+##<i>Beatles Medley</i>
 ###Eight Days a Week
 ###You Can't Do That
 ###I'll Send All My Loving To You
 ###I Saw Her Standing There
-#**Segment 2**
-##_My Boyfriend's Back_
-#**Segment 3**
-##_Banana Hill_
-#**Segment 4**
-##_Unchained Melody_
-##_Too Shy_
-#**Segment 5**
-##_Goofy Gas_
-#**Segment 6**
-##_Roast Beef Sandwich_
-#**Segment 7**
-##_Mr. Bassman_
-#**Segment 8**
-##_Music Goes Round and Round_
-#**Segment 9**
-##_Goin' Crazy_
-##_My Love Intro Skit_
-##_My Love_
-#**Segment 10**
-##_Come for the Pizza Commercial_
-##_Roncho Ad Skit_
-#**Segment 11**
-##_Hamlet Skit_
-##_You May Be Right_
-#**Segment 12**
-##_Satisfaction Medley_
+#<b>Segment 2</b>
+##<i>My Boyfriend's Back</i>
+#<b>Segment 3</b>
+##<i>Banana Hill</i>
+#<b>Segment 4</b>
+##<i>Unchained Melody</i>
+##<i>Too Shy</i>
+#<b>Segment 5</b>
+##<i>Goofy Gas</i>
+#<b>Segment 6</b>
+##<i>Roast Beef Sandwich</i>
+#<b>Segment 7</b>
+##<i>Mr. Bassman</i>
+#<b>Segment 8</b>
+##<i>Music Goes Round and Round</i>
+#<b>Segment 9</b>
+##<i>Goin' Crazy</i>
+##<i>My Love Intro Skit</i>
+##<i>My Love</i>
+#<b>Segment 10</b>
+##<i>Come for the Pizza Commercial</i>
+##<i>Roncho Ad Skit</i>
+#<b>Segment 11</b>
+##<i>Hamlet Skit</i>
+##<i>You May Be Right</i>
+#<b>Segment 12</b>
+##<i>Satisfaction Medley</i>
 ###I Can't Get No Satisfaction
 ###For Your Love
 ###Born To Be Wild
-#**Segment 13**
-##_Baseball_
+#<b>Segment 13</b>
+##<i>Baseball</i>

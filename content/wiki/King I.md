@@ -8,7 +8,7 @@ date = 2022-01-28T21:24:24Z
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-## Known Manufacturing Dates ##
+<h2> Known Manufacturing Dates </h2>
 
 * November 6, 1982
 * February 11, 1983

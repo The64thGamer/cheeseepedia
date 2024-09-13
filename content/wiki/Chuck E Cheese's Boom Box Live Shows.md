@@ -8,23 +8,23 @@ date = 2022-07-14T23:24:20Z
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []
 +++
-**Chuck E. Cheese's Boom Box Live Shows** was released in January 2014 and featured seven road shows.
+<b>Chuck E. Cheese's Boom Box Live Shows</b> was released in January 2014 and featured seven road shows.
 
-## Live List: ##
+<h2> Live List: </h2>
 
-# **Live 1**
+# <b>Live 1</b>
 ## Do The Chuck E.
-# **Live 2** 
+# <b>Live 2</b> 
 ## Head, Shoulders, Knees & Toes
-# **Live 3** 
+# <b>Live 3</b> 
 ## Happy & You Know It
-# **Live 4**
+# <b>Live 4</b>
 ## Old MacDonald
-# **Live 5**
+# <b>Live 5</b>
 ## BINGO
-# **Live 6**
+# <b>Live 6</b>
 ## Birthday (English)
-# **Live 7**
+# <b>Live 7</b>
 ## Birthday (Spanish)
 
 

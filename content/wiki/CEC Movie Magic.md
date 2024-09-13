@@ -13,8 +13,8 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 | pttreel = y
 |cyberbetamax=y|credit1=Scott Wilson - Voice of Chuck E. Cheese, Mr. Munch|credit2=Bob West - Voice of Jasper T. Jowls, Pasqually The Chef|credit3=Nancy Lenihan - Voice of Helen Henny|credit4=Joe Conti - Programmer}}
 
-**_CEC Movie Magic**_ is a show consisting of three 15 minute segments which released on December 19, 1986. It was the first show to use Cybervision.  
-##Segments:##
+<b><i>CEC Movie Magic</b></i> is a show consisting of three 15 minute segments which released on December 19, 1986. It was the first show to use Cybervision.  
+<h2>Segments:</h2>
 It is currently unclear if the known segment list is the exact order from the showtape.
 * Movie Magic
 **[https://en.wikipedia.org/wiki/Hooray_for_Hollywood Hooray for Hollywood]
@@ -28,8 +28,8 @@ It is currently unclear if the known segment list is the exact order from the sh
 ***[https://en.wikipedia.org/wiki/The_Wiz_(soundtrack) I'm A Mean Ole Lion]
 ***[https://en.wikipedia.org/wiki/The_Wiz_(soundtrack) Don't You Bring Me No Bad News]
 * TV Themes
-**[https://en.wikipedia.org/wiki/Mister_Ed _Mister Ed_ theme]
-**[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) _Flipper_ theme]
+**[https://en.wikipedia.org/wiki/Mister_Ed <i>Mister Ed</i> theme]
+**[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) <i>Flipper</i> theme]
 **[https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood_(TV_series) 'The Adventures of Robin Hood' theme]
 **[https://en.wikipedia.org/wiki/Theme_from_Star_Trek 'Star Trek' theme]
 **[https://en.wikipedia.org/wiki/The_Ballad_of_Jed_Clampett The Ballad of Jed Clampett]
@@ -113,9 +113,9 @@ It is currently unclear if the known segment list is the exact order from the sh
 *Cheer - Famous Pizza Time Cheer
 *Intro - The One, The Only
 
-##Showbiz Pizza Program##
+<h2>Showbiz Pizza Program</h2>
 For stores using reels, an accompanying music cassette was provided that included radio songs. These would be played between segments on the reel to make up for the lack of intermissions. This showtape used [Showbiz Pizza Program 3]({{< ref "wiki/Showbiz Pizza Program 3.md" >}}).
 
-##Trivia:##
+<h2>Trivia:</h2>
 *This tape was the first used with the Cybervision test at [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}).
 *This show's special skits are reused from CEC History of Rock and Roll.

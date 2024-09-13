@@ -17,46 +17,46 @@ gallery = []
 |dvdcyber=y
 }}
 
-**_Summer 2012 (International)**_ is the summer show released July 2012, featuring eight songs.
+<b><i>Summer 2012 (International)</b></i> is the summer show released July 2012, featuring eight songs.
 
 This was created to play from from July & August 2012.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Segment 1**
+# <b>Segment 1</b>
 ## 'Summertime Groove'
 ## 'Fun, Fun, Fun!'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## CEC TV ID - 'Singing Fish'
 ## Summer Safety With Steve Waters - 'Wear Sunscreen'
 ## Amphicar
 ## Animals
-# **Segment 2**
+# <b>Segment 2</b>
 ## 'In My Pool' (Parody of In My Room)
 ## 'Summertime'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## CEC TV ID - 'Swimming Pool'
 ## Pizza Survivor
 ## Veggie Tales - 'Silly Song with Best Friends Forever'
 ## Firehouse
-# **Segment 3**
+# <b>Segment 3</b>
 ## 'Goin’ on a Picnic”
 ## 'Barbecue”
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## CEC TV ID - 'Barber'
 ## Summer Safety With Steve Waters - 'Leave Bricks on the Beach'
 ## Baking with Betty - 'Trail Mix'
 ## Baseball
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Good Old Summertime'
 ## 'SPF'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC TV ID - 'Blender'
 ## The Ballgame
 ## Closing Time?
 ## Dog Party
 
-## Lives: ##
+<h2> Lives: </h2>
 
 * Birthday (3stage, Cyberamic, Studio C)
 * Spanish Birthday (3stage, Cyberamic, Studio C)
@@ -64,7 +64,7 @@ This was created to play from from July & August 2012.
 * Chuck E.'s March Live (3stage, Cyberamic, Studio C)
 * Happy & U Know It Live (3stage, Cyberamic, Studio C)
 
-## Trivia: ##
+<h2> Trivia: </h2>
 'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from [Summertime 2000]({{< ref "wiki/Summertime 2000.md" >}}), 'In My Pool' 'Goin' On a Picnic' and “Barbecue” are originally from [Summertime 2003]({{< ref "wiki/Summertime 2003.md" >}}), 'SPF' and 'Summertime' is originally from '[Summer 2007.]({{< ref "wiki/Summer 2007 Show.md" >}})
 
 The only different between [Summer 2012]({{< ref "wiki/Summer 2012.md" >}}) and Summer 2012 (International) is the 'My Little Pony' intermission was replaced with Amphicar and 'Pound Puppies' was replaced with Closing Time?

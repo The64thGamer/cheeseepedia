@@ -16,46 +16,46 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |r1293 = y
 |cusvhs = y
 }}
-**_Chuck E. Cheese April 2004 Show**_ was a show that released in April 2004 and ran through June 2004.
+<b><i>Chuck E. Cheese April 2004 Show</b></i> was a show that released in April 2004 and ran through June 2004.
 
 This show featured 4 segments with 8 songs and was the last show produced with Jeremy Blaido as director.
 
-## Show Tape: ##
+<h2> Show Tape: </h2>
 
-#  **Segment 1** 
+#  <b>Segment 1</b> 
 ## [https://en.wikipedia.org/wiki/Help!_(song) 'Help!']
 ## [https://en.wikipedia.org/wiki/Can%27t_Buy_Me_Love 'Can't Buy Me Love']
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## CEC TV ID - 'Sunrise'
 ## VeggieTales - 'The Hairbrush Song'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Marx Bros'
-#   **Segment 2**
+#   <b>Segment 2</b>
 ## 'First Impression'
 ## 'Just Being Me'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ## CEC TV ID - 'Pool Plug'
 ##  Super Jasper - 'Arm Wrestling'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Abstract'
-#  **Segment 3** 
-## 'Dreamin_
+#  <b>Segment 3</b> 
+## 'Dreamin''
 ## 'Rockin' Grandma'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## CEC TV ID - 'Parachute'
 ## VeggieTales - 'I Love My Lips'
 ## 3 Minute Countdown
 ## CEC TV ID - 'Couch'
-#  **Segment 4** 
+#  <b>Segment 4</b> 
 ## [https://en.wikipedia.org/wiki/Eight_Days_a_Week 'Eight Days A Week']
 ## [https://en.wikipedia.org/wiki/All_You_Need_Is_Love 'All You Need Is Love']
-# **Intermission 4**
+# <b>Intermission 4</b>
 ## CEC TV ID - 'Marquee'
 ##  Baking With Betty - 'Baking With Joyce'
 ## CEC TV ID - 'Haircut'
 
-## Lives: ##
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+<h2> Lives: </h2>
+<b>During this time Lives would be on seperate VHS tapes for MMBB based stores.</b>
 
 * [Birthday Star 01]({{< ref "wiki/Birthday Star 01.md" >}})
 * Spanish Birthday 01
@@ -70,18 +70,18 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 * Go Santa Go
 
 
-**Birthday Break**: CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
+<b>Birthday Break</b>: CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.  
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
 
-## Production ##
-#### Filming Locations: ####
+<h2> Production </h2>
+<h2>== Filming Locations: </h2>==
 
 * 'Eight Days A Week' was filmed at the Showbiz Pizza Time Corporate Office  ( CEC Corporate Office) in Irving, TX.
 
-### Credits ###
+<h2>= Credits </h2>=
 * Jeremy Blaido - Director, Show Announcer, Jasper T. Jowls Voice Actor
 * Duncan Brannan - Chuck E. Cheese Voice Actor
 * Annagrey Wiechman - Helen Henny Voice Actor
@@ -91,11 +91,11 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 * Matt Daniel - Production Coordinator
 * Sammy Davenport - Music Director
 
-### File Dates ###
+<h2>= File Dates </h2>=
 *(Studio C) DVD: 3/22/2004
 
 
-##Trivia##
+<h2>Trivia</h2>
 *This is the first Studio C show where the puppets appear only during the dialogue portions in-between songs.
 *Chuck's curtains close during 'Can't Buy Me Love' on Studio C.
 *The diagonal line for the backgrounds of the Studio C puppets is in the opposite direction (starting in the upper left and going down to the bottom right) instead of the usual direction (upper right going down to the bottom left).

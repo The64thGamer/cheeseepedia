@@ -5,11 +5,12 @@ tags = ["Employee Wear"]
 date = 2023-04-27T22:40:04Z
 
 [Article]
+pageThumbnailFile = "Cecmanagerovaltagfront.png|'Joseph' Name Tag"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
-{{Generic|image=Cecmanagerovaltagfront.png|desc='Joseph' Name Tag}}The **_CEC Manager Oval Name Tag - Engraved**_ is a name tag given to managers during the 1990's.
-##Engraved Names##
+The <b><i>CEC Manager Oval Name Tag - Engraved</b></i> is a name tag given to managers during the 1990's.
+<h2>Engraved Names</h2>
 The currently known names engraved into the tags:
 *Joseph
 

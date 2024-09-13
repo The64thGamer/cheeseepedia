@@ -14,7 +14,7 @@ LEGACY --
 MOZZARELLA
 LIVES ON|text4=Chuck E. 'Wagon' - Rustlin' up  Good Grub}}
 
-The **Wild West (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
+The <b>Wild West (Magazine)</b> was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 
-## Design ##
+<h2> Design </h2>
 The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture frame. The main photo of the poster depicts the Chuck Statue - Cowboy (shelf item) which has Chuck E. Cheese in a Cowboy outfit with a cowboy hat, red bandana, leather brown vest, shirt & pants made out of fur, and boots while also wearing gloves and carrying a rope.

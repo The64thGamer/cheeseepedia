@@ -5,28 +5,29 @@ tags = ["Store List"]
 date = 2023-05-03T18:25:38Z
 
 [Article]
+pageThumbnailFile = "Biloxi clip clip.png|Store after closure as 'Showboat Buffet', still using PTT interior. (April 5, 1985)"
 contributors = ["The 64th Gamer","Bowling for Cheese","CEC Tinley"]
 gallery = ["Buffet exterior.png|thumb|319x319px|Showboat Buffet exterior, interior w/ Balcony Stage, and interior w/ buffet (August 10, 1985)"]
 +++
-{{Generic|image=Biloxi clip clip.png|desc=Store after closure as 'Showboat Buffet', still using PTT interior. (April 5, 1985)}}
 
-**_4550 W Beach Blvd Biloxi, MS**_ was a Pizza Time Theatre that opened in October 1983 with a Balcony Stage and an unknown Cabaret/Lounge stage<ref>https://www.newspapers.com/clip/47651913/clarion-ledger/</ref>, and closed on October 7th, 1984<ref name=':0'>https://www.newspapers.com/image/743565212/?clipping_id=82154294&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0MzU2NTIxMiwiaWF0IjoxNjcwODg4NDQ4LCJleHAiOjE2NzA5NzQ4NDh9.vqEnHgY0NtxZhDI5gmGCsnMVRjL65_lYC-HlvYK9yS4</ref>.
-##History##
-The store would open as part of an expansion of new outlets to the _Edgewater Village Shopping Center_ in the second week of October in 1983 <ref>https://www.newspapers.com/image/737818615/?terms=%22Pizza%20Time%20Theatre%22%20edgewater%20village&match=1</ref> . Throughout September, advertisements for manager positions would appear, and openings for cast members would start on the 5th to the 7th of October. Dan Myers would be the manager of the store.<ref>https://www.newspapers.com/search/?query=%22Pizza%20Time%20Theatre%22&s_place=Biloxi%2C%20MS&sort=facet_year_month_day%20asc%2C%20score%20desc</ref>
 
-### Closure ###
+<b><i>4550 W Beach Blvd Biloxi, MS</b></i> was a Pizza Time Theatre that opened in October 1983 with a Balcony Stage and an unknown Cabaret/Lounge stage<ref>https:<i>www.newspapers.com/clip/47651913/clarion-ledger/</ref>, and closed on October 7th, 1984<ref name=':0'>https:</i>www.newspapers.com/image/743565212/?clipping_id=82154294&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0MzU2NTIxMiwiaWF0IjoxNjcwODg4NDQ4LCJleHAiOjE2NzA5NzQ4NDh9.vqEnHgY0NtxZhDI5gmGCsnMVRjL65_lYC-HlvYK9yS4</ref>.
+<h2>History</h2>
+The store would open as part of an expansion of new outlets to the <i>Edgewater Village Shopping Center</i> in the second week of October in 1983 <ref>https:<i>www.newspapers.com/image/737818615/?terms=%22Pizza%20Time%20Theatre%22%20edgewater%20village&match=1</ref> . Throughout September, advertisements for manager positions would appear, and openings for cast members would start on the 5th to the 7th of October. Dan Myers would be the manager of the store.<ref>https:</i>www.newspapers.com/search/?query=%22Pizza%20Time%20Theatre%22&s_place=Biloxi%2C%20MS&sort=facet_year_month_day%20asc%2C%20score%20desc</ref>
+
+<h2>= Closure </h2>=
 The store would close on October 7th, 1984 due to the merger and followed restructuring of [Pizza Time Theatre]({{< ref "wiki/Pizza Time Theatre.md" >}}) and Showbiz Pizza Place<ref name=':0' />. With the [Gulfport, MS (320 Courthouse Rd)]({{< ref "wiki/Gulfport, MS (320 Courthouse Rd).md" >}}) Showbiz store already in operation, it was chosen to close the Biloxi location. Of the 38 employees working by the store's closure, 35 of them had found jobs in other local businesses by October 9th.<ref>https://www.newspapers.com/image/743565223/?clipping_id=82154335&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0MzU2NTIyMywiaWF0IjoxNjcwODg4NjA1LCJleHAiOjE2NzA5NzUwMDV9.mGLSU2ZsqsUQGbf9Yfn-dtxo_eTe-Kxj9tafO4T8zZc</ref>
 
-### Post Closure ###
+<h2>= Post Closure </h2>=
 
-The building, left intact with no major items removed, would be purchased by Tom C Harvey Jr. a short time later. Tom would file a new business titled _Showboat Buffet, Inc._ on March 8, 1985<ref>https://corp.sos.ms.gov/corp/portal/c/page/corpbusinessidsearch/portal.aspx# (Business Search with 'Showboat Buffet' and view filed documents)</ref>, and reopen the restaurant on the 16th of March under the new name.<ref>https://www.newspapers.com/clip/114491409/the-sun/</ref> No interior rework would be done, with most Pizza Time Theatre iconography, games, and other features would still persist. The opening promotion would claim **Chuck E. has departed but he left all his games and playthings on board 'The Quiet Showboat_._<ref>https://www.newspapers.com/clip/114491409/the-sun/</ref>  The stages would be covered up and not used during its operation.<ref>https://www.newspapers.com/image/737826618/?clipping_id=114535822&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjczNzgyNjYxOCwiaWF0IjoxNjcwODk0OTcxLCJleHAiOjE2NzA5ODEzNzF9.msl0wTjuEfGK5IvG85gmFDPbebg5hjK6b_GxJzKWD0Q</ref>
+The building, left intact with no major items removed, would be purchased by Tom C Harvey Jr. a short time later. Tom would file a new business titled <i>Showboat Buffet, Inc.</i> on March 8, 1985<ref>https:<i>corp.sos.ms.gov/corp/portal/c/page/corpbusinessidsearch/portal.aspx# (Business Search with 'Showboat Buffet' and view filed documents)</ref>, and reopen the restaurant on the 16th of March under the new name.<ref>https:</i>www.newspapers.com/clip/114491409/the-sun/</ref> No interior rework would be done, with most Pizza Time Theatre iconography, games, and other features would still persist. The opening promotion would claim <i>'Chuck E. has departed but he left all his games and playthings on board 'The Quiet Showboat</i>.''<ref>https:<i>www.newspapers.com/clip/114491409/the-sun/</ref>  The stages would be covered up and not used during its operation.<ref>https:</i>www.newspapers.com/image/737826618/?clipping_id=114535822&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjczNzgyNjYxOCwiaWF0IjoxNjcwODk0OTcxLCJleHAiOjE2NzA5ODEzNzF9.msl0wTjuEfGK5IvG85gmFDPbebg5hjK6b_GxJzKWD0Q</ref>
 
-The store would close on January 14, 1986, for unknown reasons, with _Filet House Inc._ set to open on February 1st. On the 9th of February 1986, it would be announced the store would undergo a major auction on the 13th at 10:00 A.M.<ref>https://www.newspapers.com/clip/47651913/clarion-ledger/</ref> Due to the majority of Pizza Time Theatre items still in use, the auction would be promoted as from one. Filet house would continue business for a number of years, though it is unclear if businesses changed after this point.
+The store would close on January 14, 1986, for unknown reasons, with <i>Filet House Inc.</i> set to open on February 1st. On the 9th of February 1986, it would be announced the store would undergo a major auction on the 13th at 10:00 A.M.<ref>https://www.newspapers.com/clip/47651913/clarion-ledger/</ref> Due to the majority of Pizza Time Theatre items still in use, the auction would be promoted as from one. Filet house would continue business for a number of years, though it is unclear if businesses changed after this point.
 
 [https://en.wikipedia.org/wiki/Hurricane_Katrina Hurricane Katrina] would strike Biloxi on August 29, 2005. This would leave the original building torn completely off its foundation. After rebuilding, the area would be reduced to a grassy patch of land. By 2022, the plot is still up for sale.
 
-## Arcades ##
-The only arcades listed would be from the 1986 auction, which may differ than the original store's closing lineup due to its time as _Showboat Buffet_. Approximately 50 arcade machines were in the store by this time.
+<h2> Arcades </h2>
+The only arcades listed would be from the 1986 auction, which may differ than the original store's closing lineup due to its time as <i>Showboat Buffet</i>. Approximately 50 arcade machines were in the store by this time.
 
 * Turbo (Sit Down)
 * M.A.C.H 3 (Sit Down)
@@ -47,7 +48,7 @@ The only arcades listed would be from the 1986 auction, which may differ than th
 
 Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycle, Frog, Racer, Scout Ball, Helicopter, Horse, and a mini Merry Go Round.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 |+
 !Animatronic
@@ -86,4 +87,4 @@ Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycl
 
 
 
-## References ##
+<h2> References </h2>

@@ -5,13 +5,14 @@ tags = ["Store List"]
 date = 2024-05-16T21:48:39Z
 
 [Article]
+pageThumbnailFile = "Lancaster PA’s Exterior.jpg|Lancaster’s Exterior in October 2015 (PC: Google Maps)"
 contributors = ["Cheeseclassic","CoolerDude"]
 gallery = []
 +++
-{{Stub}}{{Generic|image=Lancaster PA’s Exterior.jpg|desc=Lancaster’s Exterior in October 2015 (PC: Google Maps)}}
-**Lancaster, PA (2020 Fruitville Pike)** was a Chuck E. Cheese’s that opened on May 23, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on June 18, 2020.
 
-## Animatronics ##
+<b>Lancaster, PA (2020 Fruitville Pike)</b> was a Chuck E. Cheese’s that opened on May 23, 1994 with a [1-Stage]({{< ref "wiki/1-Stage.md" >}}), and closed on June 18, 2020.
+
+<h2> Animatronics </h2>
 {| class='wikitable'
 |+
 ! Animatronic

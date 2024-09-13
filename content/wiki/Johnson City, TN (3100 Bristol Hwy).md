@@ -5,17 +5,18 @@ tags = ["Store List"]
 date = 2023-09-21T18:31:47Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior in 1997 presumably up to the store's closure|image=Johnson city tn cec old location exterior.png"
 contributors = ["Rexburg090","ThatBoiCydalan","CEC Tinley"]
 gallery = []
 +++
-{{Generic|desc=Exterior in 1997 presumably up to the store's closure|image=Johnson city tn cec old location exterior.png}}
-**_Johnson City, TN (3100 Bristol Hwy)**_ was a Showbiz Pizza Place that opened in January 1986 with a Rock-Afire Explosion and closed in 2001 with the 3-Stage.
+
+<b><i>Johnson City, TN (3100 Bristol Hwy)</b></i> was a Showbiz Pizza Place that opened in January 1986 with a Rock-Afire Explosion and closed in 2001 with the 3-Stage.
 
 This is not to be confused with Johnson City, TN (3020 Peoples St) which opened on March 17th, 2005, with a [Studio C Cappa]({{< ref "wiki/Studio C Cappa.md" >}}) and currently has the 2.0 Remodel.
 
-## History##
+<h2> History</h2>
 TODO
-##Stages##
+<h2>Stages</h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations did. They would have it for a few years, until around 1991-1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. In the Mid 1990's Chuck's mask was replaced with a newer one. The store would remain this way until closure.
 
 {| class='wikitable'
@@ -36,7 +37,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |-
 |}
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial
@@ -94,7 +95,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 TODO
 
-##Videos##
+<h2>Videos</h2>
 {| class='wikitable'
 !Link
 ! Title
@@ -111,5 +112,5 @@ TODO
 |Another video showcasing the exterior, some of the store, & the store's Exterior.
 |June 14, 1998.
 |}
-##References##
+<h2>References</h2>
 <references />

@@ -18,54 +18,54 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_Chuck E. Cheese's Show 7 2017**_ released November 1, 2017
+<b><i>Chuck E. Cheese's Show 7 2017</b></i> released November 1, 2017
 
 This was created to play from November 1, 2017 - November, 19 2017. This show featured six songs, all being reused.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1** 
+# <b>Intermission 1</b> 
 ## CEC Sketch - 'Thanksgiving'
 ##  Carly Rae Jepsen - 'Cut To The Feeling'
 ## CEC Fundraiser Spot
-# **Skit 1** 
+# <b>Skit 1</b> 
 ## Helen Henny - 'Dream Big'
-# **Intermission 2** 
+# <b>Intermission 2</b> 
 ##  My Little Pony - 'The Perfect Pear'
 ## Spencer Ludwig - 'Diggy'
 ##  Splash & Bubbles - 'Hangin' With Friends'
-# **Skit 2** 
+# <b>Skit 2</b> 
 ## Mr. Munch - 'Nobody Knows'
-#  **Intermission 3** 
+#  <b>Intermission 3</b> 
 ## Universal Kids - 'The Noise'
 ## Echosmith - 'Right Now'
 ## Angry Birds - 'Change'
-# **Skit 3** 
+# <b>Skit 3</b> 
 ## Munch & Jasper - 'If Everyone We're Chuck E.' (USA Cooperate Locations Only)
-# **Intermission 4** 
+# <b>Intermission 4</b> 
 ##  Saving Forever - 'Million Ways'
 ## CEC Buffet Spot
 ##  Keith Urban feat. Carrie Underwood - 'The Fighter'
 ##  Walk The Moon - 'One Foot'
 ##  CEC Mac Cheesy Spot
 ##  Winx - 'Hands Off Kiko'
-# **Skit 4**
+# <b>Skit 4</b>
 ## Chuck E. Cheese & Friends - 'Every Boy, Every Girl'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ## Weekday Express Spot
 ##  Alicia Keys - 'Blended Family'
 ##  Universal Kids - 'Top Chef Jr'
-# **Skit 5**
+# <b>Skit 5</b>
 ## Chuck E. & Helen - 'It's A Date'
-# **Intermission 6** 
+# <b>Intermission 6</b> 
 ##  Zakstorm - 'Crazy Skeleton'
 ## Jokes From Pasqually - 'Ten-Tackles'
 ##  CEC Birthday Spot
 ##  Grace VanderWaal - 'Dancing In The Moonlight'
-# **Skit 6** 
+# <b>Skit 6</b> 
 ## Chuck E. & Friends - 'Trio'
 
-## Lives: ##
+<h2> Lives: </h2>
 *Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 
 *Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -82,10 +82,10 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 * Head Shoulders, Knees & Toes (Studio C,Weigl)
 * Happy Dance (Spanish) (Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia:##
+<h2> Trivia:</h2>
 
 *'Dream Big' is originally from Chuck E. Cheese's Show 5 2016 (Show 5 2016), Nobody Knows is originally from [July 2014]({{< ref "wiki/July 2014 Show.md" >}}), If Everyone We're Chuck E. and Every Boy, Every Girl are originally from [Chuck E. Cheese's Show 5 2017]({{< ref "wiki/Chuck E Cheese's Show 5 2017.md" >}}), 'It's A Date' is Chuck E. Cheese's Show 2 2016 (Show 2 2016), Trio is originally from Chuck E. Cheese's Show 3 2017 (Show 3 2017).
 * For franchised USA Locations If Everyone Was Chuck E. was removed and replaced with nothing.

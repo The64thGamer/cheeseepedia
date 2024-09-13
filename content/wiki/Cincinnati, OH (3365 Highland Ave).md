@@ -5,22 +5,23 @@ tags = ["Store List"]
 date = 2024-05-22T13:15:18Z
 
 [Article]
+pageThumbnailFile = "Centerstagehighland.png|Center Stage of the RAE in July 1984"
 contributors = ["Documentor","The 64th Gamer","Rexburg090","CECMentor"]
 gallery = []
 +++
-{{Generic|image=Centerstagehighland.png|desc=Center Stage of the RAE in July 1984}}
 
-**_Cincinnati, OH (3365 Highland Ave)**_ was a Showbiz Pizza Place location running from 1982 to 1985.
+
+<b><i>Cincinnati, OH (3365 Highland Ave)</b></i> was a Showbiz Pizza Place location running from 1982 to 1985.
 
 The Highland Ave Showbiz Pizza Place opened on November 11, 1982, and closed its doors in December 1985 after only barely three years. 
 
-## Stages ##
-The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on November 11, 1982. They would receive Uncle Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref>https://www.newspapers.com/image/103319155/</ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref>https://www.newspapers.com/image/101720183/</ref> 
+<h2> Stages </h2>
+The store opened with the [Rock-afire Explosion]({{< ref "wiki/Classic Stage.md" >}}) on November 11, 1982. They would receive Uncle Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)]({{< ref "wiki/The Amazing Uncle Klunk Traveling Show (Event).md" >}}).<ref>https:<i>www.newspapers.com/image/103319155/</ref> They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)]({{< ref "wiki/Santa On Stage Show 1983 (Event).md" >}}).<ref>https:</i>www.newspapers.com/image/101720183/</ref> 
 
-## History ##
+<h2> History </h2>
 The Highland, Ave Showbiz Pizza Place opened up November 11, 1982 in Cincinnati, OH. the store featured (assumingly) The Show Room, Sports Room, and Arcade games. This store remained unchanged from its opening due to the fact that during December 1985 this store closed. An auction was then held on January 3rd 1986 where 'Kitchen Equipment, Video Games, Children's Rides, Animated Character Stage Show ' It is unknown where anything from the auction ended up going to. After the auction the company [https://en.wikipedia.org/wiki/Frank%27s_Nursery_%26_Crafts Frank's Nursery & Crafts] took over the property in early 1987 with them opening up they completely gutted the inside and modified the exterior. This was until 2004 when the entire company went bankrupt. The store sat empty until 2007 when it was demolished for a GMC Car Dealership which is what it is to this day.
 
-##Animatronics##
+<h2>Animatronics</h2>
 {| class='wikitable'
 !Animatronic
 !Serial Number
@@ -70,4 +71,4 @@ The Highland, Ave Showbiz Pizza Place opened up November 11, 1982 in Cincinnati,
 |N/A
 | Auctioned off, now unknown.
 |}
-## References ##
+<h2> References </h2>

@@ -5,19 +5,20 @@ tags = []
 date = 2024-08-20T05:13:53Z
 
 [Article]
+pageThumbnailFile = "Five oh three.png|Family Vision 503"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = [":Ytcommentimage.png",":02df9348f91b3ae08bef4863a63c2c2d.png|02df9348f91b3ae08bef4863a63c2c2d.png"]
 +++
-{{Generic|image=Five oh three.png|desc=Family Vision 503}}
 
-**_Family Vision**_ were a collection of monthly Betamax tapes released to _Showbiz Pizza Place_ stores starting in 1984.<ref></ref>
+
+<b><i>Family Vision</b></i> were a collection of monthly Betamax tapes released to <i>Showbiz Pizza Place</i> stores starting in 1984.<ref></ref>
 
 The tapes would provide video entertainment to guests during the downtime between showtape segments. <ref>https://www.newspapers.com/image/99516545/?clipping_id=92076371&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjk5NTE2NTQ1LCJpYXQiOjE2Nzc2OTcwNjQsImV4cCI6MTY3Nzc4MzQ2NH0.L42I42heW9hHMik_FQ1WsSpeT13Jd3TWn9wo2GblZoc</ref> The videos would be projected onto a screen that would automatically come down once a show ended. The tapes themselves were charged at $55 a month once a store agreed to be in the program.
 
-## History ##
-The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, under their _Video Pool_<ref></ref> line. Video Pool had been around on Betamax tapes since March of 1984, published to other vendors, with _Sight & Sound_ being an intermediary for handling the mass tape production and acquisition of copyrighted video material. Each tape would be around 30 minutes long, and were produced until Cyberstar fully took over all _Showbiz_ locations in late 1989. Some of the early tapes seemed to have _Dallas Tapes_ on their label, but it is unclear their involvement in the project.
+<h2> History </h2>
+The tapes were produced mainly by <i>Sight & Sound Entertainment Corporation</i>, under their <i>Video Pool</i><ref></ref> line. Video Pool had been around on Betamax tapes since March of 1984, published to other vendors, with <i>Sight & Sound</i> being an intermediary for handling the mass tape production and acquisition of copyrighted video material. Each tape would be around 30 minutes long, and were produced until Cyberstar fully took over all <i>Showbiz</i> locations in late 1989. Some of the early tapes seemed to have <i>Dallas Tapes</i> on their label, but it is unclear their involvement in the project.
 
-## Tapes ##
+<h2> Tapes </h2>
 {| class='wikitable'
 !Family Vision
 !Month
@@ -64,7 +65,7 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |1989
 |}
 
-## Videos ##
+<h2> Videos </h2>
 {| class='wikitable'
 !Title
 !Subtitle
@@ -113,7 +114,7 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |5:34
 |September
 |1986
-|[https://www.youtube.com/watch?v=yH-gXByhmlk&ab_channel=pizzacam https://www.youtube.com/watch?v=yH-gXByhmlk]
+|[https:<i>www.youtube.com/watch?v=yH-gXByhmlk&ab_channel=pizzacam https:</i>www.youtube.com/watch?v=yH-gXByhmlk]
 |-
 |Mel McDaniel
 |'Let It Roll'
@@ -212,10 +213,10 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |Copyrighted
 |}
 
-## Locations ##
+<h2> Locations </h2>
 {| class='wikitable'
 !Locations 
-!**Installed**
+!<b>Installed</b>
 !Year
 !Removed
 !Link
@@ -239,14 +240,14 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |1985/1986
 |1986
 |Unknown
-|[https://www.showbizpizza.com/photos/spp/tx_austin/index.html https://www.showbizpizza.com/photos/spp/tx_austin/index.]
+|[https:<i>www.showbizpizza.com/photos/spp/tx_austin/index.html https:</i>www.showbizpizza.com/photos/spp/tx_austin/index.]
 |
 |-
 |[Houston, TX (14637 Memorial Dr)]({{< ref "wiki/Houston, TX (14637 Memorial Dr).md" >}})
 |1985/1986
 |1986
 |Unknown
-|[https://www.showbizpizza.com/photos/spp/tx_houston/index.html https://www.showbizpizza.com/photos/spp/tx_houston/index.]
+|[https:<i>www.showbizpizza.com/photos/spp/tx_houston/index.html https:</i>www.showbizpizza.com/photos/spp/tx_houston/index.]
 |
 |-
 |[San Antonio, TX (6874 Ingram Rd)]({{< ref "wiki/San Antonio, TX (6874 Ingram Rd).md" >}})
@@ -310,7 +311,7 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |Unknown
 |Unknown
 |Unknown
-|[https://www.showbizpizza.com/photos/spp/int_fiesta/index.html https://www.showbizpizza.com/photos/spp/int_fiesta/index] 
+|[https:<i>www.showbizpizza.com/photos/spp/int_fiesta/index.html https:</i>www.showbizpizza.com/photos/spp/int_fiesta/index] 
 |
 |-
 |[Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}})
@@ -324,7 +325,7 @@ The tapes were produced mainly by _Sight & Sound Entertainment Corporation_, und
 |Unknown
 |Spring 1988
 |Unknown
-|[https://www.youtube.com/watch?v=i-IkJbZ_Q5g&ab_channel=spsimmons https://www.youtube.com/watch?v=i-IkJbZ_Q5g]
+|[https:<i>www.youtube.com/watch?v=i-IkJbZ_Q5g&ab_channel=spsimmons https:</i>www.youtube.com/watch?v=i-IkJbZ_Q5g]
 |3:18 - 3:32
 |-
 |Unknown Store
@@ -373,4 +374,4 @@ September 20th, 2017
 |
 |}
 
-## References ##
+<h2> References </h2>

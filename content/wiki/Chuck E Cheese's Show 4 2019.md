@@ -17,23 +17,23 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcu=y
 |dvdcyber=y
 }}
-**_Chuck E. Cheese's Show 4 2019**_ released September 9, 2019
+<b><i>Chuck E. Cheese's Show 4 2019</b></i> released September 9, 2019
 
 This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 songs. 2 new songs and 2 reused. Plus a new Halloween live show!
 
-##Production##
-###File Dates###
+<h2>Production</h2>
+<h2>=File Dates</h2>=
 (CEC Stage) DVD: 09/04/19 1:56am - 2:00am
-## Show List: ##
+<h2> Show List: </h2>
 
-# **Intermission 1**
+# <b>Intermission 1</b>
 ## Happy Halloween from Chuck E. Cheese
 ##  Kidz Bop - 'Monster Mash'
 ##  Where's Waldo - 'Ghost Town'
 ##  Barbie Vlog - 'Animal Challenge'
-#  **Skit 1**
+#  <b>Skit 1</b>
 ## Chuck E. Cheese - 'Just Be Yourself'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  YouTube Promo
 ##  Jonas Blue - 'I See Love'
 ##  OmNom Stories - 'Halloween'
@@ -42,9 +42,9 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
 ##  Odd Bods - 'Angry at Nature'
 ## Alessia Cara - 'Wild Things'
 ## Jokes from Pasqually - 'Halloween'
-# **Skit 2**
+# <b>Skit 2</b>
 ## Chuck E. Cheese - 'Pumpkin Patch'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ## Cheesy Things
 ##  Chris Burton - 'Little Sister'
 ##  The Brightside with Helen Henny - 'Episode 2'
@@ -52,21 +52,21 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
 ## Miguel feat. Natalia Lafourcade - 'Remember Me'
 ##  Normal Picklestripes - 'Smell'
 ##  Angus & Cheryl - 'La Peli de Miedo'
-# **Skit 3**
+# <b>Skit 3</b>
 ## Chuck E. Cheese and Mr. Munch - 'I Didn't Need To Be Afraid'
-#  **Intermission 4**
+#  <b>Intermission 4</b>
 ## YouTube Promo
 ## Not Ur Girlfrienz - 'New Kids in America'
 ## 'Ballerina Ghost'
 ## Barbie Vlog - 'Audition'
-#  **Skit 4**
+#  <b>Skit 4</b>
 ## Pasqually The Chef - 'Cat-Sitting'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Nigel & Ronnie - 'Episode 2, Job Interview'
 ## Musing with Mr. Munch - 'Halloween'
 ##  Halloween at the Pizza Time Theatre
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday Show (3stage, Cyberamic, Studio C,Weigl)
 * Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
@@ -76,14 +76,14 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
 * Me & My Friends (Chucktober)  (3stage, Cyberamic, Studio C,Weigl)
 * Chuck E. Cha Cha (Spanish) (Studio C,Weigl)
 
-##Official Releases:##
+<h2>Official Releases:</h2>
 *[https://www.youtube.com/watch?v=zhkiBZL7fao 'Just Be Yourself' on YouTube]
 *[https://www.youtube.com/watch?v=b5gtaZBh5bA 'Cat-Sitting' on YouTube]
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * 'Pumpkin Patch' and 'I Didn't Need To Be Afraid' is originally from Chuck E. Cheese's Show 6 2018 (Show 6 2018).
 * New YouTube Promo was released this time just being a 30-second video showcasing the main page and what type of content is uploaded being narrate by Matt Daniel.

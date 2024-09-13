@@ -18,54 +18,54 @@ gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.pn
 |dvdcyber=y
 }}
 
-**_April 2013**_ is the Spring show released Spring 2013, featuring six songs.
+<b><i>April 2013</b></i> is the Spring show released Spring 2013, featuring six songs.
 
 This was created to play from April - May 2013.
 
-## Show List: ##
+<h2> Show List: </h2>
 
-#  **Segment 1**
+#  <b>Segment 1</b>
 ## 'U Can't Touch This'
-# **Intermission 1**
+# <b>Intermission 1</b>
 ##  Fraggle Rock - '?'
 ##  Show Break 1 
 ## CEC TV ID - 'Monster'
-#  **Segment 2**
+#  <b>Segment 2</b>
 ## 'Take a Walk'
-# **Intermission 2**
+# <b>Intermission 2</b>
 ##  Littlest Pet Shop - '?'
 ##  CEC Live Promo
 ##  Chuck E. Cheese Cast Member Remix
 ## CEC TV ID - 'Singing Custodian'
-#  **Segment 3**
+#  <b>Segment 3</b>
 ## 'Somebody Like You'
-# **Intermission 3**
+# <b>Intermission 3</b>
 ##  Pajanimals - '?'
 ##  Follow Me to Fun
 ##  Show Break 2
 ## CEC TV ID - 'Pizza Parachute'
-# **Segment 4**
+# <b>Segment 4</b>
 ## 'Wildflower'
-# **Intermission 4**
+# <b>Intermission 4</b>
 ##  Transformers Rescue Bots - '?'
 ##  Hard Hat Hank - 'Nu-cu-lar'
 ##  Chuck E.'s Say Cheese App
 ## CEC TV ID - 'CEC TV Parachute'
-# **Segment 5**
+# <b>Segment 5</b>
 ## 'What Makes You Beautiful'
-# **Intermission 5**
+# <b>Intermission 5</b>
 ##  Tim and the Space Cadets - 'Rainy Days'
 ##  Show Break 3 
 ## CEC TV ID - 'Movie Refreshments'
-# **Segment 6**
+# <b>Segment 6</b>
 ## Granny's Rockin' Chair - (Parody of [https://en.wikipedia.org/wiki/Livin%27_on_a_Prayer Livin' on a Prayer])
-# **Intermission 6**
+# <b>Intermission 6</b>
 ##  Care Bears - '?'
 ##  CEC Live Promo
 ##  Bobby Bear - 'Three Mice'
 ## CEC TV ID - 'Pizza Fan'
 
-## Lives ##
+<h2> Lives </h2>
 
 * Birthday (3stage, Cyberamic, Studio C,Weigl)
 * Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
@@ -73,10 +73,10 @@ This was created to play from April - May 2013.
 * BINGO (3stage, Cyberamic, Studio C,Weigl)
 * Happy And You Know It (3stage, Cyberamic, Studio C,Weigl)
 
-##Showtape Scans / Images:##
+<h2>Showtape Scans / Images:</h2>
 
 
-## Trivia: ##
+<h2> Trivia: </h2>
 
 * This was the first Showtape to be produced with Rockstar in mind. 
 *  Chuck E. Cheese Cast Member Remix was filmed at the Montfort, TX CEC. This features a 'cast member' walking around the store acting like he is enjoying his job. 

@@ -5,24 +5,25 @@ tags = []
 date = 2023-07-05T05:15:44Z
 
 [Article]
+pageThumbnailFile = "desc=Exterior of Edina when they were Phase 3|image=Phase3edina.jpg"
 contributors = ["Rileypaulson","The 64th Gamer","CorrectorMan","ThatBoiCydalan"]
 gallery = []
 +++
-{{Generic|desc=Exterior of Edina when they were Phase 3|image=Phase3edina.jpg}}
-**_Edina, MN (7505 France Ave S), Store #797**_ was a Chuck E. Cheese's that opened on August 10th, 1999 and closed on June 25th, 2020 with a Studio C Alpha.
 
-## History ##
+<b><i>Edina, MN (7505 France Ave S), Store #797</b></i> was a Chuck E. Cheese's that opened on August 10th, 1999 and closed on June 25th, 2020 with a Studio C Alpha.
 
-### Pre-CEC (Late '80s-Early '90s - 1999) ###
+<h2> History </h2>
+
+<h2>= Pre-CEC (Late '80s-Early '90s - 1999) </h2>=
 Before becoming a CEC, this location was a Circus Pizza, one of many in Minnesota. Not much is known about it, but it may have opened between the late 1980s and early 1990s and might have closed in 1999. CEC Entertainment then purchased the space, and began to convert it into a CEC on August 10, 1999.
 
-### CEC Era (1999 - 2020) ###
+<h2>= CEC Era (1999 - 2020) </h2>=
 As mentioned above, CEC purchased the former Circus Pizza site on August 10, 1999 and began to convert it into CEC. By early 2000, the conversion was completed. It had the Phase 2 remodel, which included late '90s decor, reused Circus Pizza Skytubes, and a Studio C Alpha. It was apparently one of 2 locations to have a Parent's Time Out area, along with Boca Raton, Florida. Edina remained like this until the late 2000s, when it received the 2005 remodel, which involved removing all 90s decor for new decor, removing the showroom walls, replaced the dim lighting, changed the exterior, and replaced the Circus Pizza Skytubes with generic Skytubes, but they would later be removed all together. Edina wouldn't see any major changes, besides repainting some walls, and new game packages. Edina closed on June 25, 2020 due to COVID-19 and the bankruptcy that occurred the same day.
 
-### Post CEC era (2020 - today) ###
+<h2>= Post CEC era (2020 - today) </h2>=
 In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Juut Salonspa remains on the space.
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -36,7 +37,7 @@ In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Ju
 |Bot never had eyelashes. Former Circus Pizza.
 |}
 
-## Games ##
+<h2> Games </h2>
 
 * Batman
 * Chuck E's Marathon Runner
@@ -103,14 +104,14 @@ In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Ju
 
 
 
-## Videos and Footage ##
+<h2> Videos and Footage </h2>
 {| class='wikitable'
 |+
-!**YouTube Link**
-!**Title**
+!<b>YouTube Link</b>
+!<b>Title</b>
 !Filming Date
 !Date Published to YouTube
-!**Uploader**
+!<b>Uploader</b>
 |-
 |https://youtu.be/5elX_pmTLd0
 |Footage of Edina in 2000

@@ -5,15 +5,16 @@ tags = ["Store List"]
 date = 2024-07-28T17:28:22Z
 
 [Article]
+pageThumbnailFile = "WilmingtonNCExterior2019MarchGoogleMaps.png|Street View of the store's Exterior in March 2019 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowbizMidwest","170.185.215.34","Documentor","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
 gallery = []
 +++
-{{Generic|image=WilmingtonNCExterior2019MarchGoogleMaps.png|desc=Street View of the store's Exterior in March 2019 (PC: Google Maps)}}
-**_4389 Oleander Dr, Store #210/2070**_ was a _Showbiz Pizza Place_/_Chuck E. Cheese's Pizza_/_Chuck E. Cheese's_ that opened on July 23, 1984, with a Rock-Afire Explosion, which closed October 13, 2020.
+
+<b><i>4389 Oleander Dr, Store #210/2070</b></i> was a <i>Showbiz Pizza Place</i>/<i>Chuck E. Cheese's Pizza</i>/<i>Chuck E. Cheese's</i> that opened on July 23, 1984, with a Rock-Afire Explosion, which closed October 13, 2020.
 
 This location received Concept Unification in 1992 and had the last original Munch Jr. animatronic until they closed.
 
-## History ##
+<h2> History </h2>
 Wilmington opened July 23rd, 1984, as the 4th ShowBiz store in North Carolina (Following [Charlotte, NC]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}), [Fayetteville, NC]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}}), & [Asheville, NC]({{< ref "wiki/Asheville, NC (34 Tunnel Rd).md" >}})) with the RockAfire Explosion. Although very little documentation exists (Besides two photos from the Wilmington Morning Star Newspapers from 1984 and one video from 1991) back in the ShowBiz days, it can be determined that Wilmington was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening. Like many ShowBiz locations in the late 1980s, Wilmington received the Showbiz Pizza Campground upgrade. Wilmington would however not receive the CEC 1988 Remodel (1988 Remodel) until sometime before Concept Unification in 1991; then converting the RockAfire Explosion into Munch's Make-Believe Band.  
 
 This store's 3-Stage was also featured on the Chuck E Cheese Live Show Highlight Film back in 1992 (The store was featured alongside [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).md" >}}), [Albuquerque, NM (4418 Wyoming Blvd)]({{< ref "wiki/Albuquerque, NM (4418 Wyoming Blvd).md" >}}), [Mesa, AZ (856 S Alma School Rd)]({{< ref "wiki/Mesa, AZ (856 S Alma School Rd).md" >}}), [Dothan]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}}), [Harrisburg]({{< ref "wiki/Harrisburg, PA (3883 Union Deposit Rd).md" >}}), [Erie]({{< ref "wiki/Erie, PA (7200 Peach St).md" >}}), [Tallahassee]({{< ref "wiki/Tallahassee, FL (2810 Sharer Rd).md" >}}), [Merced]({{< ref "wiki/Merced, CA (721 W Olive Ave).md" >}}), & [Tracy]({{< ref "wiki/Tracy, CA (775 W Clover Rd).md" >}})) which showed footage of the 3-Stage when it was freshly converted from the Rock-afire Explosion<ref>https://youtu.be/DVMzjfxbGAo</ref>. Wilmington would receive another remodel ([Phase 2]({{< ref "wiki/Phase 2 (1997).md" >}})) in Late 1997 which involved raising the ceilings, completely remodeling the exterior facade (which was completed Q1 1998), adding bigger windows, replacing the Road Sign, & removing elements from the 1988 Remodel (The Blue & White Awnings, checkers around the store, & neon lights). In 1999-2002, they received Plastic masks (Except Pasqually) & removed the Munch's Make-Believe Band Sign and Neon Signs. By March 2003, Chuck's Tux & Derby was replaced with the Cool Chuck outfit. Later that same year, Pasqually received a plastic mask & the stage was recarpeting (Munch Jr was originally supposed to be removed that year). In around the Mid 2000's Munch Jr's vent was replaced, & extra hairs were added to Jasper's mask to prevent the mask from cracking.  
@@ -22,7 +23,7 @@ In Q1 2008, Wilmington underwent a major CEC 2005 Remodel (2005 Remodel) which i
 
 In June 2023, the store building began its conversion into the headquarters for CleanEatz (They purchased the building back in November 2022)<ref>https://www.wwaytv3.com/clean-eatz-to-open-new-headquarters-in-wilmington/</ref> which involved the interior being gutted and the windows and doors being replaced. The 'Chuck E. Cheese's' sign and Avenger logo was removed in 2023. Nowadays, the original building is completely unrecognizable. The road sign was left behind but was removed at a later point.
 
-## Stages ##
+<h2> Stages </h2>
 Originally when the store opened, they had a Rock-Afire Explosion, as all other Showbiz locations had. Wilmington's show was manufactured in January of 1982, being batch number 1. They would have the RAE for a few years, until 1992, when they would receive Concept Unification, this was the process used to turn the RAE into the Chuck E. Cheese characters. They would have the 3-Stage until they closed. They would have the last Munch Jr. animatronic in-store. They would also be the only location so far to have the full 'Rockstar' outfit (shirt and jeans), other than Dept. 18's programming show.
 {| class='wikitable'
 !Stage
@@ -46,7 +47,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |From [Danbury, CT (20 Backus Ave)]({{< ref "wiki/Danbury, CT (20 Backus Ave).md" >}}) which was closed in 2013, never installed and later trashed after closure.
 |}
 
-## Animatronics ##
+<h2> Animatronics </h2>
 {| class='wikitable'
 !Animatronic
 !Serial Code
@@ -112,7 +113,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 
 
-## YouTube Videos ##
+<h2> YouTube Videos </h2>
 {| class='wikitable'
 |+
 !Link
@@ -141,8 +142,8 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |August 23, 2006
 |}
 
-##Trivia##
-*Before Franchised CECs were renumbered to four digit numbers in 2010, Wilmington was **_Store #210**_ according to the old chuckecheese.com website from 2009. It was renumbered to **_Store #2070**_ when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) location after it was bought out by Corporate. 
+<h2>Trivia</h2>
+*Before Franchised CECs were renumbered to four digit numbers in 2010, Wilmington was <b><i>Store #210</b></i> according to the old chuckecheese.com website from 2009. It was renumbered to <b><i>Store #2070</b></i> when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) location after it was bought out by Corporate. 
 
-## References ##
+<h2> References </h2>
 <references />

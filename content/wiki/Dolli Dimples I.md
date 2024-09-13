@@ -13,39 +13,39 @@ gallery = []
 | date = May, 1979
 | pttreel = y|credit1=Dolli Dimples VA - Donna Miller|credit2=Recording Studio - Corasound}}
 
-**_Dolli Dimples I**_ is a Cyberamic rerelease of the Dolli segments from the Kooser Main Show & Dolli Showtape#Dolli%20Segments-0 (Kooser Main Show & Dolli Showtape) with cut songs, released in May of 1979.
+<b><i>Dolli Dimples I</b></i> is a Cyberamic rerelease of the Dolli segments from the Kooser Main Show & Dolli Showtape#Dolli%20Segments-0 (Kooser Main Show & Dolli Showtape) with cut songs, released in May of 1979.
 
 The show would cut out segments 16-20 from the original show.
 
-##Segments:##
+<h2>Segments:</h2>
 It is currently unclear if the known segment list is the exact order from the showtape.
-#**Segment 1**
+#<b>Segment 1</b>
 ##Right Back Where I Started From
-#**Segment 2**
+#<b>Segment 2</b>
 ##Deep In the Heart of Texas
-#**Segment 3**
+#<b>Segment 3</b>
 ##Frankie and Johnny
-#**Segment 4**
+#<b>Segment 4</b>
 ##Hello, Dolly (Dolli)
-#**Segment 5**
+#<b>Segment 5</b>
 ##Talk To the Animals
-#**Segment 6**
+#<b>Segment 6</b>
 ##Toot, Toot, Tootsie
-#**Segment 7**
+#<b>Segment 7</b>
 ##You Are My Sunshine
-#**Segment 8**
+#<b>Segment 8</b>
 ##Yankee Doodle Dandy
-#**Segment 9**
+#<b>Segment 9</b>
 ##Summertime
-#**Segment 10**
+#<b>Segment 10</b>
 ##Sitting On Top of the World
-#**Segment 11**
+#<b>Segment 11</b>
 ##Wash that Man Right Out of My Hair
-#**Segment 12**
+#<b>Segment 12</b>
 ##Let Me Entertain You
-#**Segment 13**
+#<b>Segment 13</b>
 ##Chicago
-#**Segment 14**
+#<b>Segment 14</b>
 ##Bill Bailey
-#**Segment 15**
+#<b>Segment 15</b>
 ##When the Saints Go Marching In

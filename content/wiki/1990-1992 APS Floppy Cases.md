@@ -5,19 +5,20 @@ tags = ["APS Showtapes"]
 date = 2023-12-25T07:40:21Z
 
 [Article]
+pageThumbnailFile = "desc=All 5 Cases|image=Sus super.jpg"
 contributors = ["The 64th Gamer","Himitsu","en>Unknown user"]
 gallery = []
 +++
-{{Generic|desc=All 5 Cases|image=Sus super.jpg}}
 
-The **_1990-1992 APS Floppy Cases**_ is a collection of 5 floppy disk cases containing floppy discs with [Animation Programming System]({{< ref "wiki/Animation Programming System.md" >}}) showtapes on them
 
-## History ##
+The <b><i>1990-1992 APS Floppy Cases</b></i> is a collection of 5 floppy disk cases containing floppy discs with [Animation Programming System]({{< ref "wiki/Animation Programming System.md" >}}) showtapes on them
+
+<h2> History </h2>
 From the beginning of use of the [Animation Programming System]({{< ref "wiki/Animation Programming System.md" >}}) until August of 1992 the [APS Files]({{< ref "wiki/APS Files.md" >}}) would be stored for each stage variant of a showtape onto a single floppy disk. These disks would then be stored in cases and later labeled.
 
 These cases would stay in storage at the [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.md" >}}) until the mid-2000's, where they would be thrown into the trash for unknown reasons. An employee, Matt Rivera, would notice this and decide to take the cases home for preservation. The cases would pass hands between 2 more fandom members before being archived online.
 
-## Showtapes ##
+<h2> Showtapes </h2>
 The shows on the discs are from October 10, 1990 to August 20, 1992, covering full showtapes, :Category:Live Shows (Live Shows), Birthday Shows, and Random Movements.
 
 * [CEC September 1990 Show]({{< ref "wiki/CEC September 1990 Show.md" >}}) (September)
@@ -48,17 +49,17 @@ The shows on the discs are from October 10, 1990 to August 20, 1992, covering fu
 
 Notably two shows are missing from the lineup that were released in this period, that being King '90 I (October 1990) and King '90 II (December 1990). It is theorized these shows were recorded prior to the installation of the APS system on the older [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup.md" >}}).
 
-## Green Case 91-A ##
+<h2> Green Case 91-A </h2>
 The first case, labeled SEPT. '90 - MARCH '91, consists of 10 floppies.
 
-## Blue Case 91-B ##
+<h2> Blue Case 91-B </h2>
 The second case, labeled MAY '91 - JULY '91, consists of 9 floppies.
 
-## Yellow Case 91-C ##
+<h2> Yellow Case 91-C </h2>
 The third case, labeled SEPT. '91 - HOLIDAY '91, consists of 10 floppys.
 
-## Grey Case 92-A ##
+<h2> Grey Case 92-A </h2>
 The fourth case, labeled JAN. - MARCH '92, consists of 8 floppys.
 
-## Red Case 92-B ##
+<h2> Red Case 92-B </h2>
 The fifth case, labeled MAY - SEPT. '92, consists of 10 floppys.

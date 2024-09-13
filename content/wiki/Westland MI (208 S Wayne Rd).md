@@ -5,18 +5,19 @@ tags = []
 date = 2024-09-02T21:45:50Z
 
 [Article]
+pageThumbnailFile = "Westland 1982.png|The location's exterior in March 1982."
 contributors = ["ItAllStartsHereYT","CoolerDude"]
 gallery = ["Westland1.png|thumb"]
 +++
-{{Generic|image=Westland 1982.png|desc=The location's exterior in March 1982.}}
 
-**Westland MI (208 S Wayne Rd)** was a franchised store that opened on December 18, 1980, and closed in 1986 with a Balcony Stage. This store was the very first CEC and the first PTT, in general, to open in the state of Michigan. 
 
-## History ##
+<b>Westland MI (208 S Wayne Rd)</b> was a franchised store that opened on December 18, 1980, and closed in 1986 with a Balcony Stage. This store was the very first CEC and the first PTT, in general, to open in the state of Michigan. 
+
+<h2> History </h2>
 Westland opened on December, 18 1980. The location was franchised by Micheal Illich. The store opened with a Balcony Stage in the dining room, and had The Beagles / Beach Bowzers (Lounge) (Beagles,)  and [Dolli Dimples]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})<ref>
 </ref> in the Cabaret and Lounge room. Their Dolli Dimples was replaced by The King / King Kat (Lounge) (The King) in either 1982 or 1983. The location closed sometime in 1986. After it closed, it was turned into a Caesarland restaurant and the exterior was modified. Caesarland would close sometime from 2007 - 2011. As of September 2024, the location is still vacant. 
 
-## Stages ##
+<h2> Stages </h2>
 {| class='wikitable'
 |+
 !Stage
@@ -33,4 +34,4 @@ Westland opened on December, 18 1980. The location was franchised by Micheal Ill
 
 
 
-## References ##
+<h2> References </h2>

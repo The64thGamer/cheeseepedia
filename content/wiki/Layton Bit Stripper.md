@@ -5,42 +5,43 @@ tags = ["Merchandise"]
 date = 2024-05-21T16:31:46Z
 
 [Article]
+pageThumbnailFile = "Layton Bit Stripper - Green PCB.png|A finished Layton Bit Stripper"
 contributors = ["Himitsu","Ls2018-1","2603:6011:AC00:A50:D87E:6765:9A50:675","Mr.Noodles","The 64th Gamer","CECMentor"]
 gallery = ["Layton Bit Stripper Rev. A.2 PCB.png|thumb|Rev. A.2 PCB|265x265px"]
 +++
-{{Generic|image=Layton Bit Stripper - Green PCB.png|desc=A finished Layton Bit Stripper}}
 
-The **_Layton Bit Stripper**_ is an animatronic character controller designed by Layton Sanders in 2018 and available for purchase from [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) beginning in 2019. 
+
+The <b><i>Layton Bit Stripper</b></i> is an animatronic character controller designed by Layton Sanders in 2018 and available for purchase from [Creative Engineering]({{< ref "wiki/Creative Engineering.md" >}}) beginning in 2019. 
 
 The controller accepts standard Pianocorder format biphase data as input and can drive any [Rock-afire Explosion]({{< ref "wiki/Rock-afire Explosion.md" >}}) character, with data passthrough to controllers for additional characters. A movement test feature is also available. 30 LEDs show power, per-channel output status, and data sync. The Layton Bit Stripper is comprised of a custom PCB and off-the-shelf power supplies and outer enclosure.
 
 As of August 10, 2022, the Layton Bit Stripper is temporarily unavailable for sale due to unavailable parts resulting from the ongoing semiconductor shortage. 
 
-## PCB revisions ##
+<h2> PCB revisions </h2>
 
 Three revisions of the Layton Bit Stripper exist:
-* **Rev. A** - Green PCB, no bypass switch, no expansion port, unpopulated 5V regulator footprint, no external buttons, individual LED resistors, different output drivers than future revisions, never publicly revealed due to functional problems
-* **Rev. A.1** - Green PCB, no bypass switch, no expansion port, unpopulated 5V regulator footprint, no external buttons, individual LED resistors
-* **Rev. A.2** - Red PCB, waveshaper bypass switch, 12-pin expansion port footprint, requires both 5V and 24V supplies, two external buttons, resistor networks for LEDs
+* <b>Rev. A</b> - Green PCB, no bypass switch, no expansion port, unpopulated 5V regulator footprint, no external buttons, individual LED resistors, different output drivers than future revisions, never publicly revealed due to functional problems
+* <b>Rev. A.1</b> - Green PCB, no bypass switch, no expansion port, unpopulated 5V regulator footprint, no external buttons, individual LED resistors
+* <b>Rev. A.2</b> - Red PCB, waveshaper bypass switch, 12-pin expansion port footprint, requires both 5V and 24V supplies, two external buttons, resistor networks for LEDs
 
-## Software revisions ##
+<h2> Software revisions </h2>
 
 There are five public software revisions for the Layton Bit Stripper:
 
-* **Bitstripper V1.0** - Initial release, lacking movement diagnostic external button support, only used in experimental Rev A boards and the first five Rev. A.1 boards
-* **Bitstripper V1.1** - Identical to previous release with the addition of diagnostic button support
-* **Bitstripper V1.1B** - Fixed a previously undetected bug which caused outputs to be updated 600 microseconds later than they should be
-* **Bitstripper V1.1C** - Increased the movement diagnostic cycle time to allow longer stroke movements to fully extend and retract
-* **Bitstripper V1.1D** - Fixed a previously undetected bug which erroneously mapped Dook’s right head turn movement to his right elbow bit. Current release as of August 10, 2022.
+* <b>Bitstripper V1.0</b> - Initial release, lacking movement diagnostic external button support, only used in experimental Rev A boards and the first five Rev. A.1 boards
+* <b>Bitstripper V1.1</b> - Identical to previous release with the addition of diagnostic button support
+* <b>Bitstripper V1.1B</b> - Fixed a previously undetected bug which caused outputs to be updated 600 microseconds later than they should be
+* <b>Bitstripper V1.1C</b> - Increased the movement diagnostic cycle time to allow longer stroke movements to fully extend and retract
+* <b>Bitstripper V1.1D</b> - Fixed a previously undetected bug which erroneously mapped Dook’s right head turn movement to his right elbow bit. Current release as of August 10, 2022.
 
 There are two custom code versions designed for special applications:
 
-* **Dook2.0 V1.1D** - Designed to control second generation Dook. Code is identical to Bitstripper V1.1D, but DIP switch settings have been modified. DIP switch setting 00001 sets the bit stripper to output bits for valves 1-16 and DIP switch setting 00010 sets the bit stripper to output bits for valves 17-32. All other DIP switch settings disable output bits. Identical or very similar movements from first generation Dook are mapped to their corresponding movements on second generation Dook for maximum backwards compatibility. New movements are mapped to previously unusued bits in the data stream.
-* **Shavers V1.1D** - Designed to operate the Four Little Shavers, owned by Volo Museum (Volo Auto Museum) as of August 10, 2022. Based on Bitstripper 1.1D but has shorter data frames than standard Pianocorder data with only 24 control bits and a different synchronization system. When using movement diagnostic buttons, Curly’s right elbow and right arm twist always actuate at the same time because of the potential of his mirror hitting and damaging his nose if the arm is kept retracted when the arm twist actuates.
+* <b>Dook2.0 V1.1D</b> - Designed to control second generation Dook. Code is identical to Bitstripper V1.1D, but DIP switch settings have been modified. DIP switch setting 00001 sets the bit stripper to output bits for valves 1-16 and DIP switch setting 00010 sets the bit stripper to output bits for valves 17-32. All other DIP switch settings disable output bits. Identical or very similar movements from first generation Dook are mapped to their corresponding movements on second generation Dook for maximum backwards compatibility. New movements are mapped to previously unusued bits in the data stream.
+* <b>Shavers V1.1D</b> - Designed to operate the Four Little Shavers, owned by Volo Museum (Volo Auto Museum) as of August 10, 2022. Based on Bitstripper 1.1D but has shorter data frames than standard Pianocorder data with only 24 control bits and a different synchronization system. When using movement diagnostic buttons, Curly’s right elbow and right arm twist always actuate at the same time because of the potential of his mirror hitting and damaging his nose if the arm is kept retracted when the arm twist actuates.
 
-## Hardware ##
+<h2> Hardware </h2>
 
-### I/O ###
+<h2>= I/O </h2>=
 * Permanently-attached AC power cord
 * 2x Transformer Based AC to DC power adapters. (One for 5v, One for 24v)
 * Data input (RCA jack)
@@ -51,13 +52,13 @@ There are two custom code versions designed for special applications:
 * 5 DIP switch (character select)
 * 12-pin expansion footprint
 
-### Hardware breakdown ###
+<h2>= Hardware breakdown </h2>=
 * ATmega328 MCU (presumed, covered by sticker)
 * 3x 74HC595 (serial to parallel)
 * 6x SN75437A (output drivers)
 * TODO: unknown audio interface components
 
-### Character select DIP switch settings ###
+<h2>= Character select DIP switch settings </h2>=
 {| class='wikitable'
 |-
 ! Switch setting !! Name !! # of bits
