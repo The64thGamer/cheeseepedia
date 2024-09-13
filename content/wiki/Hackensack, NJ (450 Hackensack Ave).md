@@ -1,7 +1,7 @@
 +++
 title = "Hackensack, NJ (450 Hackensack Ave)"
 draft = false
-tags = ["Store List"]
+tags = ["Licensed Family Entertainment Center Store List"]
 date = ""
 
 [Article]

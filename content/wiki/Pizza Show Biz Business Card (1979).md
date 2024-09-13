@@ -1,7 +1,7 @@
 +++
 title = "Pizza Show Biz Business Card (1979)"
 draft = false
-tags = ["Documents"]
+tags = ["Corporate Documents"]
 date = ""
 
 [Article]

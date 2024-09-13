@@ -1,7 +1,7 @@
 +++
 title = "Circus Pizza"
 draft = false
-tags = ["CreativeEngineering"]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

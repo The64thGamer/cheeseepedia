@@ -1,7 +1,7 @@
 +++
 title = "PTT Blank Corporate Expense Report"
 draft = false
-tags = ["Documents"]
+tags = ["Corporate Documents"]
 date = ""
 
 [Article]

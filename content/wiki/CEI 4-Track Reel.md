@@ -2,9 +2,31 @@
 title = "CEI 4-Track Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = ""
+date = 2023-11-24T17:34:07Z
 
 [Article]
-contributors = []
+contributors = ["BattleXGamer","125.238.99.90","The 64th Gamer"]
 gallery = []
 +++
+{{Generic|image=Ampexreelrockafire.png|desc=Reel w/ Label}}
+
+The **_CEI 4-Track Reel**_ is the format of the Reel to Reels that CEI produced and sent to stores that contains the audio and data to a showtape.
+
+These showtapes usually have the audio DBX Encoded and the stores usually have a DBX Decoder to Decode the audio. The signals on the reel will require waveshaping to properly work with a Gray Box and a [Layton Bit Stripper]({{< ref "wiki/Layton Bit Stripper.md" >}}) (Built in).
+
+## Format ##
+The 4 Track Format is below.
+
+# The First Track contains the Showtape Audio Left Channel. This Audio is usually DBX Encoded and requires DBX Decoding.
+# The Second Track contains the Showtape Audio Right Channel. This Audio is usually DBX Encoded and requires DBX Decoding.
+# The Third Track contains [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Top Drawer and to play correctly requires a waveshaper.
+# The Fourth Track contains [Pianocorder Formatted]({{< ref "wiki/Pianocorder Data Format.md" >}}) [Biphase Mark Code]({{< ref "wiki/Biphase Mark Code.md" >}}) Data. This data is for the Bottom Drawer and to play correctly requires a waveshaper.
+
+## Baking ##
+CEI reels come from Ampex, and are notorious for having [https://en.wikipedia.org/wiki/Sticky-shed_syndrome Sticky-Shed Syndrome]. This requires them to have their moisture absorbed before playback- otherwise the tape will be damaged. Attempting to play an unbaked reel will produce an audible squeaking sound.
+
+Baking a tape can either be done in a convection oven or a dehydrator. The temperature should be between 130 °F to 140 °F. Reels should bake for at least 4 hours, but will have better results when done longer. Some users bake for up to 24 hours. Multiple tapes can be baked without changing bake time.
+
+Tapes should be left out for a while before playing them. At minimum this should be 8 hours but most users wait an entire day. Depending on the moisture of the tape's storage, the tape will last a few weeks to a few months before being needed to be baked again.<ref>https://www.tapeheads.net/threads/ampex-tape-baking-how-long-temperture.88891/</ref><ref>https://en.wikipedia.org/wiki/Sticky-shed_syndrome</ref>
+
+## References ##

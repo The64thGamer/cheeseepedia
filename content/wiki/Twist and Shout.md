@@ -1,7 +1,7 @@
 +++
 title = "Twist and Shout"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "YMCA"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

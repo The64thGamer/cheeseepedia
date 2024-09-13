@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Swing"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

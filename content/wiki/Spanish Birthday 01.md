@@ -1,7 +1,7 @@
 +++
 title = "Spanish Birthday 01"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

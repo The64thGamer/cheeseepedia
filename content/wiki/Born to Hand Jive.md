@@ -1,7 +1,7 @@
 +++
 title = "Born to Hand Jive"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

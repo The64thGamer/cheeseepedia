@@ -1,7 +1,7 @@
 +++
 title = "What I Like About You"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

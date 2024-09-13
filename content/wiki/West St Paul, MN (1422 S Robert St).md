@@ -1,7 +1,7 @@
 +++
 title = "West St. Paul, MN (1422 S Robert St)"
 draft = false
-tags = ["Store List"]
+tags = ["Licensed Family Entertainment Center Store List"]
 date = ""
 
 [Article]

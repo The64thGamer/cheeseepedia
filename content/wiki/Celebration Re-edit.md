@@ -1,7 +1,7 @@
 +++
 title = "Celebration Re-edit"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

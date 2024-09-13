@@ -1,7 +1,7 @@
 +++
 title = "PTT Nolan Bushnell Business Card"
 draft = false
-tags = ["Documents"]
+tags = ["Corporate Documents"]
 date = ""
 
 [Article]

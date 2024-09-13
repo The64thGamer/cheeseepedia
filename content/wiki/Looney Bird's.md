@@ -1,7 +1,7 @@
 +++
 title = "Looney Bird's"
 draft = false
-tags = ["LooneyBirds"]
+tags = ["Restaurants & Company History"]
 date = ""
 
 [Article]

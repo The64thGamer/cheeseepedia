@@ -1,7 +1,7 @@
 +++
 title = "South Charleston, WV"
 draft = false
-tags = ["BBWL"]
+tags = ["Licensed Family Entertainment Center Store List"]
 date = ""
 
 [Article]

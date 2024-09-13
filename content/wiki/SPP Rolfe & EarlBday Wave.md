@@ -1,10 +1,90 @@
 +++
 title = "SPP Rolfe & Earl/Bday Wave"
 draft = false
-tags = ["Showtapes"]
-date = ""
+tags = ["Cyberstar Segments"]
+date = 2024-08-26T22:13:24Z
 
 [Article]
-contributors = []
+contributors = ["The 64th Gamer","EagleScout610","CyCGM","DerekCat","Cy's Junk at School"]
 gallery = []
 +++
+{{Showtape
+|image=Rolfey earley.png
+|date=July 20, 1990
+|raesvhs=y|labelname=260-0611-90
+(C) S. P. T. Inc.
+SPP Rolfe & Earl/Bday Wave
+Serial #0042 Deck - 4
+06/11/90 - Master HIFI|d1 download=https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso|d1 name=VHS Rip (Missing Data)}}**_SPP Rolfe & Earl/Bday Wave**_ was a special showtape used during [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}) to entertain guests while the _Rock-afire Explosion_ was converted over to _Munch's Make Believe Band_.
+
+The tape stars the Rolfe and Earl voice actors from Showbiz Pizza Time Inc., (Speculated to have been Joe Conti as Rolfe) returning from their roles in 1986. They comment about the stage being under construction, with Rolfe providing Earl hints throughout the tape to figure out that Chuck E. Cheese is behind the changes.
+
+## Concept Unification ##
+The tape came with the entire Concept Unification package, which included a special backup SPP Rolfe & Earl Emergency Backup Tape, the first 3-Stage showtape [SPP Concept Unification Premiere]({{< ref "wiki/SPP Concept Unification Premiere.md" >}}), and its own backup tape being [SPP Concept Unification Emergency Backup Tape]({{< ref "wiki/SPP Concept Unification Emergency Backup Tape.md" >}}), along with other material. 
+
+During the Concept Unification conversion process, the Rolfe & Earl stage would be kept up while the store was open, so the character could perform alongside this tape. A special Rolfe & Earl birthday was included for any potential birthday parties while the other stages was still under construction. The Rolfe & Earl stage would then be dismantled and turn into Chuck E.'s stage overnight, allowing Concept Unification Premiere to be ready the next morning. 
+
+This makes it one of the few showtapes in Showbiz Pizza Time's lifetime that only lasted a few days. Because of the haphazard timing of Concept Unification across stores however, it could be seen from its initial release on July 20, 1990, to sometime in 1992, making it also one of the longest lasting showtapes shown.
+
+## Summary ##
+The show starts with a special unique Rolfe & Earl birthday skit. Earl speaks of there being currently a birthday at Showbiz. Rolfe then states that 'Now, here comes the real magic!', to which Earl begins guessing the magic act. This beginning segment already leads into the showtape's theme of Rolfe being in the know about things, and Earl needing to guess excessively to find out, a large personality shift for their dynamic. They then sing the Happy Birthday song, asking to blow out the candles. Earl comments on it being breezy from the birthday guest's blowing, a direct nod to _Chuck E. Cheese's Birthday Extravaganza._ They then lead into a Showbiz version of the Chuck E. Cheese's birthday song, ending on wishing the birthday guest a happy birthday.
+
+The first segment starts with Earl noticing the other curtains not opening with theirs, commenting that '-it must be the _Earl and Rolfe Show!',_ to which Rolfe refuses. He is correct however, as they are the only Rock-afire Explosion characters present on-stage for the entire showtape, along with the show's name officially being 'Rolfe & Earl'. Earl then askes what's with the other curtains being closed, to which Rolfe declares there to be big changes coming to Showbiz happening behind them, showing he's withholding knowledge from the audience and Earl. After saying new faces will be appearing soon, Earl asks who might be showing up, to which Rolfe provides him a hint of 'Big Ears', a 'Long Pointed Nose', and 'wears a red derby hat'. Earl can't guess the character, so Rolfe provides some content by having the TV displays present past footage while he figures out a good guess. The first video played is cut parts from segment 1 of SPP Bach to Rock / Dance Contest. As the clip ends, Earl comments on Mitzi's singing and wonders where she's at, to which Rolfe replies that she's '-probably getting one of those Beauty Parlor makeovers'. They then cut to the song 'Double in Size' from the same showtape, which ends on Earl still not being able to guess the character from the hints.
+
+The second segment begins with Earl once again commenting on the Rock-afire cast's disappearances, to which Rolfe gives two more hints to the mystery character: a 'red vest', and a 'bowtie'. Earl then recites all the hints before saying 'Rats- I'll never figure this out', to which Rolfe replies that 'maybe you know- and just don't know you know'. They then play a clip from SPP Tune Machine (Cyberstar), being a piece from the end of the first segment. Rolfe then asks if Earl remembers _The Beatles_, to which Earl incorrectly remembers them playing at _Woodstock_. Rolfe comments on Earl's confusion 'being total' before introducing the next clips, being from SPP Beatles Medley (Cyberstar). Earl comments on his love for Rock & Roll, to which Rolfe reminds him of Beach Bear's solo of _Shout_. A clip of the song from SPP Oldies Medley (Cyberstar) then begins to play. After it finishes, Rolfe asks if the songs got him back on track, to which Earl asks for another clue. Rolfe says he'll do it after a few cartoons to help stimulate Earl's brain. This is one of the only times a Rock-afire character has commented on the video segments, as the cartoon that plays is the _Come on In! The Water's Pink_ short from _The Pink Panther._
+
+The third segment once again opens on Earl asking about the band's presence. Rolfe notes again that the stage is changing, and that customers may see workers moving in and out of the curtains. Earl asks for one final clue, with Rolfe then stating 'big teeth'. Earl then excitedly says he knows the answer, to which Rolfe stops him from embarrassing himself and begins playing the next clip. The clip is a piece of the Summer Safety (Cyberstar Segment) (Summer Safety) segment from the [SPP May 1988 Show.]({{< ref "wiki/SPP May 1988 Show.md" >}}) It then immediately cuts to a part from the Michael Jackson Tribute (Cyberstar Segment) (Michael Jackson Tribute) segment in the same tape. Rolfe then comes back to comment on their fun with nursery rhymes the previous year, showing clips from segment 1 of [SPP Kids - Tune Machine]({{< ref "wiki/SPP Kids - Tune Machine.md" >}}). Afterwards Earl comments on hearing hammering behind the curtains, before saying he knows the answer to the mystery character. 
+
+The fourth segment begins with Earl saying his answer to the mystery character. He recites all the previous hints before saying the answer of what's behind the curtains is that they're 'having a birthday party for Mr. Ed!', Mr. Ed being a talking mule he knows. He notes the similar characteristics, even stating the red derby hat being a birthday hat. Rolfe interrupts him, noting he's embarrassed himself with the wrong answer. Earl then frustratingly states he's gonna go check behind the curtains while the next clips play, to which Rolfe notes he can't without him. They then play '-three more of our Showbiz flashbacks', the first being the end clip of segment 2 in [SPP Kids - Tune Machine]({{< ref "wiki/SPP Kids - Tune Machine.md" >}}), the next being the beginning of segment 1 in [SPP Faith/Dreams/Kids Wave Bday]({{< ref "wiki/SPP FaithDreamsKids Wave Bday.md" >}}), and the last being a slightly later clip in the segment. Then it cuts to Earl being distraught on his realization of the correct answer to the mystery character. Rolfe then dedicates the last clip to Earl, with it being a clip of segment 2 in [SPP Faith/Dreams/Kids Wave Bday]({{< ref "wiki/SPP FaithDreamsKids Wave Bday.md" >}}), being a song about dreamers. The showtape finally ends on Earl stating he's going to let the audience figure out the mystery character, noting it being very obvious. Rolfe notes his previous incorrect answer before Earl begins to list out the hints one final time. Rolfe then states 'The curtains open on a whole new Showbiz stage in just a few days.', to which Earl questions what is going to happen to them. Rolfe states he has a place in _Lake Tahoe,_ with a place looking for a stand-up comedy act featuring a dummy. Earl then angrily accuses Rolfe of calling him a dummy due to his previous answer on Mr. Ed, screaming at him as the last flashback clip resumes and fades out his voice. He can briefly be heard in his final words shouting that the answer was 'Chuck E. Cheese'.
+
+##Show List:##
+#**Intermission 1**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Waiting_Game_(Swing_Out_Sister_song) Waiting Game]
+###Rolfe & Earl Birthday
+##Cyberstar Intro
+#**Segment 1**
+##Rolfe & Earl 1
+#**Intermission 2**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Rooms_on_Fire Rooms on Fire]
+###[https://en.wikipedia.org/wiki/My_Brave_Face My Brave Face]
+##Cyberstar Intro
+#**Segment 2**
+##Rolfe & Earl 2
+#**Intermission 3**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Everything_(The_Bangles_album) Complicated Girl]
+###[https://en.wikipedia.org/wiki/Barry_Manilow_(1989_album) Keep Each Other Warm]
+##It's Showtime!
+#**Video 1**
+##Animal Babies In The Wild - Let's All Do The Hop
+##The Pink Panther - Come on In! The Water's Pink
+#**Intermission 4**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Soul_Provider Soul Provider (Single Version)]
+###[https://en.wikipedia.org/wiki/Everything_(Jody_Watley_song) Everything]
+##Cyberstar Intro
+#**Segment 3**
+##Rolfe & Earl 3
+#**Intermission 5**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Sacred_Emotion Sacred Emotion]
+###[https://en.wikipedia.org/wiki/Don%27t_Wanna_Lose_You Don't Wanna Lose You]
+##Cyberstar Intro
+#**Segment 4**
+##Rolfe & Earl 4
+#**Intermission 6**
+##6 Minute Countdown
+###[https://en.wikipedia.org/wiki/Right_Here_Waiting Right Here Waiting]
+###[https://en.wikipedia.org/wiki/Martika_(album) Cross My Heart]
+##It's Showtime!
+#**Video 2**
+##Harlem Globetrotters - Six Decades of Magic
+##Song City U.S.A - Hippopotamus Rock
+
+## Trivia ##
+* This is the only Cyberstar showtape that features a birthday in just the first intermission. This may have been part of a plan to reduce birthdays while the conversion was happening, as the guest experience only having one animatronic present was not as high.
+* The latest showtape referenced in the clips was [SPP Faith/Dreams/Kids Wave Bday]({{< ref "wiki/SPP FaithDreamsKids Wave Bday.md" >}}), being from August 31, 1989. No 1990 clips were featured, leaving Neighbors 1 (Cyberstar Segment) (Neighbors 1), Neighbors 2 (Cyberstar Segment) (Neighbors 2), Moms (Cyberstar Segment) (Moms), and [TV Themes]({{< ref "wiki/TV Themes (Cyberstar Segment).md" >}}) out.
+* The intermission music & videos are the same from [SPP Faith/Dreams/Kids Wave Bday]({{< ref "wiki/SPP FaithDreamsKids Wave Bday.md" >}}), however in Intermission 1 Gigi On The Beach 'Please Please Me' was left out in favor for the birthday skit.
+* As this is the final Rock-afire Explosion show for Showbiz Pizza locations, this is also the final show to use Showbiz's voice actors for the characters. Despite this, the majority of the show consists of reused segments from other showtapes, so for the most part the original voice actors can still be heard during this show.

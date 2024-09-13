@@ -1,7 +1,7 @@
 +++
 title = "Wizard of Oz"
 draft = false
-tags = ["Showtapes"]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

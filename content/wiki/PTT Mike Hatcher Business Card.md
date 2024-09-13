@@ -1,7 +1,7 @@
 +++
 title = "PTT Mike Hatcher Business Card"
 draft = false
-tags = ["Documents"]
+tags = ["Corporate Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Taking Care of Business, Rhyming Rap"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

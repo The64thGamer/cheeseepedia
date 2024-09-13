@@ -1,10 +1,11 @@
 +++
 title = "Patriotic Live 00"
 draft = false
-tags = ["Showtapes"]
-date = ""
+tags = ["Live Shows"]
+date = 2023-10-29T01:47:27Z
 
 [Article]
-contributors = []
+contributors = ["The 64th Gamer"]
 gallery = []
 +++
+

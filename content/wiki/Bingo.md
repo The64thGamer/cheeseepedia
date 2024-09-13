@@ -1,10 +1,11 @@
 +++
 title = "Bingo"
 draft = false
-tags = ["Showtapes"]
-date = ""
+tags = ["Live Shows"]
+date = 2022-10-17T20:04:42Z
 
 [Article]
-contributors = []
+contributors = ["Anastasia.laguardia","Documentor"]
 gallery = []
 +++
+##Showtape Scans / Images:##

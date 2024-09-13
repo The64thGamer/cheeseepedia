@@ -1,7 +1,7 @@
 +++
 title = "If You're Happy & You Know It"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 date = ""
 
 [Article]
