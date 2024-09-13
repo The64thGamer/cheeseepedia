@@ -1,9 +1,9 @@
-{{ partial "editButton.html" . }}<h1>{{ .Title | markdownify | safeHTML }}</h1><hr>
+{{ partial "editButton.html" . }}<h1>{{ .Title | safeHTML }}</h1><hr>
 
 {{ $dateMachine := partialCached "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
 {{ $dateHuman := partialCached "formatDate" (dict "Date" .Date "Format" ":date_long") }}
 
-{{ .Content | markdownify | safeHTML }}
+{{ .Content | safeHTML}}
 
 <hr>
 <div class="contributors"><strong>Article Contributed By:</strong>
@@ -20,7 +20,7 @@
       {{- if lt (add $index 1) $len }}, {{ end }}
     {{- end }}
   {{- else }}
-  <strong>NOOOOBODY!!!!!</strong>
+    <strong>NOOOOBODY!!!!!</strong>
   {{- end }}
   <strong> | Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
 </div>

@@ -1,19 +1,4 @@
 {{ define "main" }}
 {{ .Content | markdownify | safeHTML }}
-<ul>
-    {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
-    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-      <li><a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a><sup> {{$cnt}}</sup></li>
-    {{end}}
-  {{end}}
-</ul>
-<hr>
-FIX: Pages without tags
-<ul>
-    {{ range .Site.RegularPages }}
-      {{ if not .Params.tags }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    {{ end }}
-</ul>
+
 {{ end }}

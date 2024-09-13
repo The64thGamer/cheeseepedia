@@ -1,17 +1,17 @@
 <h1>{{ .Title }}</h1>
-{{ .Content | markdownify | safeHTML }}
+{{ .Content | safeHTML }}
 {{ range .Pages }}
 <div class="list-page-block">
 <h2><a href="{{ .RelPermalink }}">
     {{ with .LinkTitle }}
-        {{ . | markdownify | safeHTML }}
+        {{ .  | safeHTML }}
     {{ else }}
-        {{ .Title | markdownify | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
+        {{ .Title | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
     {{ end }}      
 </a></h2> 
     <div class="list-page-summary">
     {{ with .Summary }}
-        {{ . | markdownify | safeHTML | truncate 150 "..." }}
+        {{ . | safeHTML | truncate 150 "..." }}
     {{ else }}
         (Click to read more...)
     {{ end }}

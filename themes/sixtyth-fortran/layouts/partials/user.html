@@ -1,9 +1,9 @@
-<h1>{{ .Title | markdownify | safeHTML }}</h1><hr>
+<h1>{{ .Title | safeHTML }}</h1><hr>
 
 {{ $dateMachine := partialCached "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
 {{ $dateHuman := partialCached "formatDate" (dict "Date" .Date "Format" ":date_long") }}
 
-{{ .Content | markdownify | safeHTML }}
+{{ .Content | safeHTML }}
 
 <hr>
 <h2>I contributed to these pages!</h2>

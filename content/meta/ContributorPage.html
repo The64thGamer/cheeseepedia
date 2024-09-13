@@ -1,0 +1,18 @@
++++
+title= "Contributor Home"
+date= 2024-09-13T06:20:24-05:00
+draft= false
+contributors = ["The 64th Gamer"]
++++
+
+{{< list-all-categories >}}
+
+<hr>
+FIX: Pages without tags
+<ul>
+    {{ range .Site.RegularPages }}
+      {{ if not .Params.tags }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    {{ end }}
+</ul>
