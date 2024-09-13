@@ -1,7 +1,7 @@
 +++
 title = "Austin's Rock-afire Explosion Birthday Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Grey Embroidered Bucket Hat (2004)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

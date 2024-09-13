@@ -1,7 +1,7 @@
 +++
 title = "Quintet Daniel T. Bones (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

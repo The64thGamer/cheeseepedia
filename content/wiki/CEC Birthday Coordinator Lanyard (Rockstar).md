@@ -1,7 +1,7 @@
 +++
 title = "CEC Birthday Coordinator Lanyard (Rockstar)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

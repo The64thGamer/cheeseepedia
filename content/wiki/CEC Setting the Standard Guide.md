@@ -1,7 +1,7 @@
 +++
 title = "CEC Setting the Standard Guide"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

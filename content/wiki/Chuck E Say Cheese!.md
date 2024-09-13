@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Say Cheese!"
 draft = false
-tags = [Video Games]
+tags = ["Video Games"]
 date = ""
 
 [Article]

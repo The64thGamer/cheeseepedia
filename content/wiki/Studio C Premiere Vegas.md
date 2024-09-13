@@ -1,7 +1,7 @@
 +++
 title = "Studio C Premiere Vegas"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Patriotic Live 00"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

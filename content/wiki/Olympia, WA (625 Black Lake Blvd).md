@@ -1,7 +1,7 @@
 +++
 title = "Olympia, WA (625 Black Lake Blvd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

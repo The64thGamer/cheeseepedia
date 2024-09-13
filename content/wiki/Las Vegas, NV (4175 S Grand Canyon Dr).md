@@ -1,7 +1,7 @@
 +++
 title = "Las Vegas, NV (4175 S Grand Canyon Dr)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

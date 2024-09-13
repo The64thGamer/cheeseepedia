@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella Playing Card Deck"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

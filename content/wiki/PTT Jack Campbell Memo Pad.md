@@ -1,7 +1,7 @@
 +++
 title = "PTT Jack Campbell Memo Pad"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

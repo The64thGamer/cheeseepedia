@@ -1,7 +1,7 @@
 +++
 title = "Maple Grove, MN (12945 Elm Creek Blvd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

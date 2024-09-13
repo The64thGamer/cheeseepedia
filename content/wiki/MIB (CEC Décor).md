@@ -1,7 +1,7 @@
 +++
 title = "MIB (CEC Décor)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

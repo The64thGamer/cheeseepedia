@@ -1,7 +1,7 @@
 +++
 title = "Tokyo DisneySea (Urayasu, Chiba)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "'Chuck Trek' (Must C TV Award)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

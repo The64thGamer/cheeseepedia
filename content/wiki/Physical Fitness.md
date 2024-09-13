@@ -1,7 +1,7 @@
 +++
 title = "Physical Fitness"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

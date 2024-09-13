@@ -1,7 +1,7 @@
 +++
 title = "Casual Purple Shirt and Green Jacket (Costume Outfit)"
 draft = false
-tags = [Costumed Characters]
+tags = ["Costumed Characters"]
 date = ""
 
 [Article]

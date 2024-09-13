@@ -1,7 +1,7 @@
 +++
 title = "PTT Florin Mall Holiday Flyer"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

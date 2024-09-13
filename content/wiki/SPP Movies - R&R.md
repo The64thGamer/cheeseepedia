@@ -1,7 +1,7 @@
 +++
 title = "SPP Movies - R&R"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

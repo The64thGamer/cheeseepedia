@@ -1,7 +1,7 @@
 +++
 title = "PTT Transport Control Module Master Diagram (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

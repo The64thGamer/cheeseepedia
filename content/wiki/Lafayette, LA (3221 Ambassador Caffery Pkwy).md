@@ -1,7 +1,7 @@
 +++
 title = "Lafayette, LA (3221 Ambassador Caffery Pkwy)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

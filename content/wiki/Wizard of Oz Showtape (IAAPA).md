@@ -1,7 +1,7 @@
 +++
 title = "Wizard of Oz Showtape (IAAPA)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

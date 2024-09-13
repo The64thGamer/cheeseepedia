@@ -1,7 +1,7 @@
 +++
 title = "Studio C Premiere (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

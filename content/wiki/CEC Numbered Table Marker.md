@@ -1,7 +1,7 @@
 +++
 title = "CEC Numbered Table Marker"
 draft = false
-tags = [Promotional Material]
+tags = ["Promotional Material"]
 date = ""
 
 [Article]

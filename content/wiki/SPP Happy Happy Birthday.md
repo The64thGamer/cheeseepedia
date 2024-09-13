@@ -1,7 +1,7 @@
 +++
 title = "SPP Happy Happy Birthday"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

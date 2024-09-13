@@ -1,7 +1,7 @@
 +++
 title = "Bioworld CEC Warhol-Style Grid T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

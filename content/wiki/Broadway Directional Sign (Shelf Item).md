@@ -1,7 +1,7 @@
 +++
 title = "Broadway Directional Sign (Shelf Item)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

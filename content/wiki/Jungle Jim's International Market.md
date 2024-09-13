@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's International Market"
 draft = false
-tags = [JungleJims]
+tags = ["JungleJims"]
 date = ""
 
 [Article]

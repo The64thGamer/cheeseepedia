@@ -1,7 +1,7 @@
 +++
 title = "Mitzie Movie Poster"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

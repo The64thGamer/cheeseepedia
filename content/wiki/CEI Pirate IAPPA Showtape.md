@@ -1,7 +1,7 @@
 +++
 title = "CEI Pirate IAPPA Showtape"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

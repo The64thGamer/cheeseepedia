@@ -1,7 +1,7 @@
 +++
 title = "David Ferguson's Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

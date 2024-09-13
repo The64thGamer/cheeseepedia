@@ -1,7 +1,7 @@
 +++
 title = "Don't Stop Thinking About Tomorrow"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

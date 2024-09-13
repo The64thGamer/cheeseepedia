@@ -1,7 +1,7 @@
 +++
 title = "CEC Studio C Store Price List April 2004"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

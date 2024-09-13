@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Today Employee Handbook"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

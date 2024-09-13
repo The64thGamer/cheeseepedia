@@ -1,7 +1,7 @@
 +++
 title = "Lazlo the Great"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

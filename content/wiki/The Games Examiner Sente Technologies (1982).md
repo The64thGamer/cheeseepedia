@@ -1,7 +1,7 @@
 +++
 title = "The Games Examiner: Sente Technologies (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

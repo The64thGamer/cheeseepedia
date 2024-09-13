@@ -1,7 +1,7 @@
 +++
 title = "The Jammin' Jesters (Reconfigured Magical Music Makers)"
 draft = false
-tags = [Stage Variations]
+tags = ["Stage Variations"]
 date = ""
 
 [Article]

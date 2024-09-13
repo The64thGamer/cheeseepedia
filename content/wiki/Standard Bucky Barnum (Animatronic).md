@@ -1,7 +1,7 @@
 +++
 title = "Standard Bucky Barnum (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

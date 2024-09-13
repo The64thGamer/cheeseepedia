@@ -1,7 +1,7 @@
 +++
 title = "Mini Billy Bob Toy Fair Promo"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

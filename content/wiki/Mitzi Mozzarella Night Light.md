@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella Night Light"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bubba (Bluegrass Boys Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Electronimation’s Extravaganza of Excellence"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

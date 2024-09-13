@@ -1,7 +1,7 @@
 +++
 title = "Awesome Adventure Machine (Show)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

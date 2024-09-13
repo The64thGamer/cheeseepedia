@@ -1,7 +1,7 @@
 +++
 title = "Christmas Is Here! (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

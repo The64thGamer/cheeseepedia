@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella Krystalike Keychain"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

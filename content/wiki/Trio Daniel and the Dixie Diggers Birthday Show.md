@@ -1,7 +1,7 @@
 +++
 title = "Trio Daniel and the Dixie Diggers Birthday Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

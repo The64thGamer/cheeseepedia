@@ -1,7 +1,7 @@
 +++
 title = "Wall Sconce Lights (SPT Décor)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

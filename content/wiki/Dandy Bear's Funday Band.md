@@ -1,7 +1,7 @@
 +++
 title = "Dandy Bear's Funday Band"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

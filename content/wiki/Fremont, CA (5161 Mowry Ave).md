@@ -1,7 +1,7 @@
 +++
 title = "Fremont, CA (5161 Mowry Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

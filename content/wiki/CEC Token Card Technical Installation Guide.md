@@ -1,7 +1,7 @@
 +++
 title = "CEC Token Card Technical Installation Guide"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Red Riding Hood"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

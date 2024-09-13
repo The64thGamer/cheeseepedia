@@ -1,7 +1,7 @@
 +++
 title = "CEC Photo Contest Entry Form"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

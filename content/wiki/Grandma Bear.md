@@ -1,7 +1,7 @@
 +++
 title = "Grandma Bear"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

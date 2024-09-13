@@ -1,7 +1,7 @@
 +++
 title = "Columbia, MO (1729 W Broadway)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

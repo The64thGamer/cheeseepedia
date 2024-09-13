@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Celebrates School Days (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

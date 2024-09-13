@@ -1,7 +1,7 @@
 +++
 title = "'Chuck E. Cheese's' - Letters / Thumb Logo (Star Cap) (SPT Exterior Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

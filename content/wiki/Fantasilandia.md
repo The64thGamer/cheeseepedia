@@ -1,7 +1,7 @@
 +++
 title = "Fantasilandia"
 draft = false
-tags = [Robotoons]
+tags = ["Robotoons"]
 date = ""
 
 [Article]

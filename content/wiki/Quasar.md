@@ -1,7 +1,7 @@
 +++
 title = "Quasar"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

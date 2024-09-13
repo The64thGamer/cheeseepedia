@@ -1,7 +1,7 @@
 +++
 title = "Choo Choo (Hard Luck Bears)"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

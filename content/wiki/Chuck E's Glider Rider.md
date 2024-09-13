@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s Glider Rider"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

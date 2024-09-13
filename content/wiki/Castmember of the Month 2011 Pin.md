@@ -1,7 +1,7 @@
 +++
 title = "Castmember of the Month 2011 Pin"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

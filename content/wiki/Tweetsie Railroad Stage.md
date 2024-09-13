@@ -1,7 +1,7 @@
 +++
 title = "Tweetsie Railroad Stage"
 draft = false
-tags = [Stage Variations]
+tags = ["Stage Variations"]
 date = ""
 
 [Article]

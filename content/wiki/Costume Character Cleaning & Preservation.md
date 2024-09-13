@@ -1,7 +1,7 @@
 +++
 title = "Costume Character Cleaning & Preservation"
 draft = false
-tags = [Disney]
+tags = ["Disney"]
 date = ""
 
 [Article]

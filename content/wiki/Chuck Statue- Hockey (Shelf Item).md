@@ -1,7 +1,7 @@
 +++
 title = "Chuck Statue- Hockey (Shelf Item)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

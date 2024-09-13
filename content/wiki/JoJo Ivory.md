@@ -1,7 +1,7 @@
 +++
 title = "JoJo Ivory"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chief Fullabull (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

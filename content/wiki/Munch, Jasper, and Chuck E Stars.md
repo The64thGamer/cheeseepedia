@@ -1,7 +1,7 @@
 +++
 title = "Munch, Jasper, and Chuck E. Stars"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

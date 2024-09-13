@@ -1,7 +1,7 @@
 +++
 title = "PTT Showboat Poster"
 draft = false
-tags = [PTT Store Fixtures]
+tags = ["PTT Store Fixtures"]
 date = ""
 
 [Article]

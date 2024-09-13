@@ -1,7 +1,7 @@
 +++
 title = "Gold Collection B'day Tape (NRAE)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

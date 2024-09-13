@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Trio Vinyl Clasp Wallet"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

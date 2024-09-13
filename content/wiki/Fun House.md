@@ -1,7 +1,7 @@
 +++
 title = "Fun House"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Converse Shoes (Cancelled Product)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

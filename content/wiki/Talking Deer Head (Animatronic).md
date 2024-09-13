@@ -1,7 +1,7 @@
 +++
 title = "Talking Deer Head (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Slidell, LA (61025 US-11)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

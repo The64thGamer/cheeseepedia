@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Shuffle 06"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

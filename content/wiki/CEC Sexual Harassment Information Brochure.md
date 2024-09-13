@@ -1,7 +1,7 @@
 +++
 title = "CEC Sexual Harassment Information Brochure"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

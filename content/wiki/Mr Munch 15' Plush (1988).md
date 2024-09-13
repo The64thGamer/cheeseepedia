@@ -1,7 +1,7 @@
 +++
 title = "Mr. Munch 15' Plush (1988)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

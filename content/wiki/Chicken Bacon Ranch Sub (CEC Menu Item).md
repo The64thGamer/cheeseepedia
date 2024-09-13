@@ -1,7 +1,7 @@
 +++
 title = "Chicken Bacon Ranch Sub (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

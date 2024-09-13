@@ -1,7 +1,7 @@
 +++
 title = "Jumbo Chuck E. Plush (1996)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

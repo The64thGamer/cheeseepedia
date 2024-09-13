@@ -1,7 +1,7 @@
 +++
 title = "Dr. Dux Diagnostic Stage/Shelf"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Panchito Show"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

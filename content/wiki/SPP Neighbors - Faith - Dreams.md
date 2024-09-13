@@ -1,7 +1,7 @@
 +++
 title = "SPP Neighbors - Faith - Dreams"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

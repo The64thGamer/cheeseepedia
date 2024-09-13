@@ -1,7 +1,7 @@
 +++
 title = "Flash (Dook Retrofit)"
 draft = false
-tags = [MajorMagic]
+tags = ["MajorMagic"]
 date = ""
 
 [Article]

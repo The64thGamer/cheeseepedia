@@ -1,7 +1,7 @@
 +++
 title = "Burger Farm Pumpkin Festival"
 draft = false
-tags = [PumpkinFestivalBand]
+tags = ["PumpkinFestivalBand"]
 date = ""
 
 [Article]

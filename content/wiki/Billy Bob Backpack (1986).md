@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Backpack (1986)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

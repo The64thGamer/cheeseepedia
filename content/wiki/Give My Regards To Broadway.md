@@ -1,7 +1,7 @@
 +++
 title = "Give My Regards To Broadway"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

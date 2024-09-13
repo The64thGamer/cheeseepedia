@@ -1,7 +1,7 @@
 +++
 title = "The Totally Awesome Kids Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

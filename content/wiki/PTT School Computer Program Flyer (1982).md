@@ -1,7 +1,7 @@
 +++
 title = "PTT School Computer Program Flyer (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

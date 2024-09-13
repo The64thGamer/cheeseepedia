@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin Queenie (Queenie Retrofit)"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

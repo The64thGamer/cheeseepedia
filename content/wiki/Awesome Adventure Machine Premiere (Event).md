@@ -1,7 +1,7 @@
 +++
 title = "Awesome Adventure Machine Premiere (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

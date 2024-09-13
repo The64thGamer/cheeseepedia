@@ -1,7 +1,7 @@
 +++
 title = "Homage Where A Kid Can BE A Kid T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

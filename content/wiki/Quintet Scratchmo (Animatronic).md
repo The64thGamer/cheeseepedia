@@ -1,7 +1,7 @@
 +++
 title = "Quintet Scratchmo (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

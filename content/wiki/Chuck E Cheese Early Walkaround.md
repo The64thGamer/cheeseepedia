@@ -1,7 +1,7 @@
 +++
 title = "Chuck E Cheese Early Walkaround"
 draft = false
-tags = [Costumed Characters]
+tags = ["Costumed Characters"]
 date = ""
 
 [Article]

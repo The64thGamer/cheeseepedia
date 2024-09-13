@@ -1,7 +1,7 @@
 +++
 title = "Surprises Jack in the Box (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

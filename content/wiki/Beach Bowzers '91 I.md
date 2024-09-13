@@ -1,7 +1,7 @@
 +++
 title = "Beach Bowzers '91 I"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

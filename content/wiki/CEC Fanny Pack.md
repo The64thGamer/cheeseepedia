@@ -1,7 +1,7 @@
 +++
 title = "CEC Fanny Pack"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

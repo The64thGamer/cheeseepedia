@@ -1,7 +1,7 @@
 +++
 title = "CEC University Game Room Manual May 2007"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

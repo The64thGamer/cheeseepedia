@@ -1,7 +1,7 @@
 +++
 title = "I Aint Gay"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "RAE Show Programmer"
 draft = false
-tags = [Programming Software & Hardware]
+tags = ["Programming Software & Hardware"]
 date = ""
 
 [Article]

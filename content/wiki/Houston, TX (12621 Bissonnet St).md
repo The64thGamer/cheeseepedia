@@ -1,7 +1,7 @@
 +++
 title = "Houston, TX (12621 Bissonnet St)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Santa Claus (Jingle Bell Jamboree)"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

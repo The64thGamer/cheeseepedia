@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Show 3 2015"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

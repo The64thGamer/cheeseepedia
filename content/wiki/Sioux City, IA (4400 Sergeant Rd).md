@@ -1,7 +1,7 @@
 +++
 title = "Sioux City, IA (4400 Sergeant Rd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

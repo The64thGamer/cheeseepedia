@@ -1,7 +1,7 @@
 +++
 title = "Bear-A-Dice Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's Fatz (Fatz Retrofit)"
 draft = false
-tags = [JungleJims]
+tags = ["JungleJims"]
 date = ""
 
 [Article]

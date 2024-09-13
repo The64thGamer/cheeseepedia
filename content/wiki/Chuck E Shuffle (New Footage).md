@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Shuffle (New Footage)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

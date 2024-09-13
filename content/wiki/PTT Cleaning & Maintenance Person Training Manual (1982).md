@@ -1,7 +1,7 @@
 +++
 title = "PTT Cleaning & Maintenance Person Training Manual (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

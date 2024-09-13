@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Squeak Purse"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

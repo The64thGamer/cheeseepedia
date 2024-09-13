@@ -1,7 +1,7 @@
 +++
 title = "Reginald J. Flootsnoot (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

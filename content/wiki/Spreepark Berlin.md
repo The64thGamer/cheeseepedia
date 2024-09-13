@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

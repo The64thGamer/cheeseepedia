@@ -1,7 +1,7 @@
 +++
 title = "Monroe, LA (1900 Louisville Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

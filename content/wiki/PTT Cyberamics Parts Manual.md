@@ -1,7 +1,7 @@
 +++
 title = "PTT Cyberamics Parts Manual"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Chuck 'The Magician'"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

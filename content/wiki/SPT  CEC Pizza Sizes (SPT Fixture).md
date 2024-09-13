@@ -1,7 +1,7 @@
 +++
 title = "SPT / CEC Pizza Sizes (SPT Fixture)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

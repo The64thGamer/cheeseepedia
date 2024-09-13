@@ -1,7 +1,7 @@
 +++
 title = "80sTees Pop Art CEC T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

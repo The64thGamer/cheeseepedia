@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Show Reimagined - Take Me Out To The Ballgame"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

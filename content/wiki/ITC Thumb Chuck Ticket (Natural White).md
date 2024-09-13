@@ -1,7 +1,7 @@
 +++
 title = "ITC Thumb Chuck Ticket (Natural White)"
 draft = false
-tags = [Chuck E Cheese's Tickets]
+tags = ["Chuck E Cheese's Tickets"]
 date = ""
 
 [Article]

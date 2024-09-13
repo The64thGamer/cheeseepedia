@@ -1,7 +1,7 @@
 +++
 title = "CEI Cassette"
 draft = false
-tags = [Showtape Formats]
+tags = ["Showtape Formats"]
 date = ""
 
 [Article]

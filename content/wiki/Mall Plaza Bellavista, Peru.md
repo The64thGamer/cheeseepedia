@@ -1,7 +1,7 @@
 +++
 title = "Mall Plaza Bellavista, Peru"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

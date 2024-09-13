@@ -1,7 +1,7 @@
 +++
 title = "CEI 8-Track Reel"
 draft = false
-tags = [Showtape Formats]
+tags = ["Showtape Formats"]
 date = ""
 
 [Article]

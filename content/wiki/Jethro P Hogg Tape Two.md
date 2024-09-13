@@ -1,7 +1,7 @@
 +++
 title = "Jethro P. Hogg Tape Two"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

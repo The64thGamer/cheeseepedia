@@ -1,7 +1,7 @@
 +++
 title = "Tropics (1991 Postcard)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "San Fernando, Trinidad & Tobago"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

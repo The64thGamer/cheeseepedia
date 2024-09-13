@@ -1,7 +1,7 @@
 +++
 title = "International Holiday Mexico Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

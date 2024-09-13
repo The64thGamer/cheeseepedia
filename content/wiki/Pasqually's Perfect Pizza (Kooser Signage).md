@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Perfect Pizza (Kooser Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

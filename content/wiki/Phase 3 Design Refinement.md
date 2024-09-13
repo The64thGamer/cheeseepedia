@@ -1,7 +1,7 @@
 +++
 title = "Phase 3 Design Refinement"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

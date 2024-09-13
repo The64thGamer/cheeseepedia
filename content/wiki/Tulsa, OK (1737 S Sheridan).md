@@ -1,7 +1,7 @@
 +++
 title = "Tulsa, OK (1737 S. Sheridan)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

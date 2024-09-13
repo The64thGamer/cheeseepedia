@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hot Wheels Jeep Trail Buster (1993)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

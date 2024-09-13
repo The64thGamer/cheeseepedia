@@ -1,7 +1,7 @@
 +++
 title = "3-1-99 (Circus Pizza)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

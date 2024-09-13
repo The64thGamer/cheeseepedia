@@ -1,7 +1,7 @@
 +++
 title = "Snow White and Rose Red"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

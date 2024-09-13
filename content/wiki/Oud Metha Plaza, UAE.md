@@ -1,7 +1,7 @@
 +++
 title = "Oud Metha Plaza, U.A.E."
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

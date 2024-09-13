@@ -1,7 +1,7 @@
 +++
 title = "Lancaster, CA (44410 Valley Central Way)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

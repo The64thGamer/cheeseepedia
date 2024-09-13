@@ -1,7 +1,7 @@
 +++
 title = "2023 VeeFriends Celebrates GaryVee’s 48th Birthday at Chuck E. Cheese"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

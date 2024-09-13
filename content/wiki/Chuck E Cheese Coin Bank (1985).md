@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Coin Bank (1985)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

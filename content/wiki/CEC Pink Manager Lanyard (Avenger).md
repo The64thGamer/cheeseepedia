@@ -1,7 +1,7 @@
 +++
 title = "CEC Pink Manager Lanyard (Avenger)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

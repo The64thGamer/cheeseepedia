@@ -1,7 +1,7 @@
 +++
 title = "CEC Connect App"
 draft = false
-tags = [Other Software & Hardware]
+tags = ["Other Software & Hardware"]
 date = ""
 
 [Article]

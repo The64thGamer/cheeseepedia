@@ -1,7 +1,7 @@
 +++
 title = "Air Hockey (Flash Game)"
 draft = false
-tags = [Video Games]
+tags = ["Video Games"]
 date = ""
 
 [Article]

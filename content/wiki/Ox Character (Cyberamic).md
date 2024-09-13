@@ -1,7 +1,7 @@
 +++
 title = "Ox Character (Cyberamic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

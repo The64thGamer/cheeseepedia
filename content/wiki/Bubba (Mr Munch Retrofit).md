@@ -1,7 +1,7 @@
 +++
 title = "Bubba (Mr. Munch Retrofit)"
 draft = false
-tags = [RockyRailroad]
+tags = ["RockyRailroad"]
 date = ""
 
 [Article]

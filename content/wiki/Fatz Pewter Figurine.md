@@ -1,7 +1,7 @@
 +++
 title = "Fatz Pewter Figurine"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

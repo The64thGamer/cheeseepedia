@@ -1,7 +1,7 @@
 +++
 title = "The Flintstones Bedrock Band"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

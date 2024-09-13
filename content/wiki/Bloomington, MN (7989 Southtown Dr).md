@@ -1,7 +1,7 @@
 +++
 title = "Bloomington, MN (7989 Southtown Dr)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

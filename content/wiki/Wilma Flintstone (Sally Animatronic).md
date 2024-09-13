@@ -1,7 +1,7 @@
 +++
 title = "Wilma Flintstone (Sally Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

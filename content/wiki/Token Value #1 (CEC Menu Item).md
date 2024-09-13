@@ -1,7 +1,7 @@
 +++
 title = "Token Value #1 (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

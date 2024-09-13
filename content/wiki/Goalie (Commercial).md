@@ -1,7 +1,7 @@
 +++
 title = "Goalie (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

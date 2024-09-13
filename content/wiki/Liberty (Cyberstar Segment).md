@@ -1,7 +1,7 @@
 +++
 title = "Liberty (Cyberstar Segment)"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

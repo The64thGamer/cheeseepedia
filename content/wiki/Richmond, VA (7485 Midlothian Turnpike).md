@@ -1,7 +1,7 @@
 +++
 title = "Richmond, VA (7485 Midlothian Turnpike)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

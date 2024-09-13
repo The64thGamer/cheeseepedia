@@ -1,7 +1,7 @@
 +++
 title = "Blank Tag Co. The Retro Chuck E. Cheese Sticker Bundle"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

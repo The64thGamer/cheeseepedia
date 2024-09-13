@@ -1,7 +1,7 @@
 +++
 title = "FashionNOVA CEC Blue T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

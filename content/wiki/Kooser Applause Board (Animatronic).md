@@ -1,7 +1,7 @@
 +++
 title = "Kooser Applause Board (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

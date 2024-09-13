@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Birthday Cake (PTT Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

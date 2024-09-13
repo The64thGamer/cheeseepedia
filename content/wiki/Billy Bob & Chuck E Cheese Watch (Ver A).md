@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob & Chuck E. Cheese Watch (Ver. A)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

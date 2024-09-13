@@ -1,7 +1,7 @@
 +++
 title = "South Charleston, WV"
 draft = false
-tags = [BBWL]
+tags = ["BBWL"]
 date = ""
 
 [Article]

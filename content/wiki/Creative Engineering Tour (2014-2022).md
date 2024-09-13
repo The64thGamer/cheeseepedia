@@ -1,7 +1,7 @@
 +++
 title = "Creative Engineering Tour (2014-2022)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bubba and the Badland Band"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Toby (Music Makers Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

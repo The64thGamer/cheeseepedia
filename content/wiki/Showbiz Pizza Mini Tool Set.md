@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Mini Tool Set"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

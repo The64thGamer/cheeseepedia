@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Walk-Along Radio"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

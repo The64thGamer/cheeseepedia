@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Rocks Pink Poster"
 draft = false
-tags = [Promotional Material]
+tags = ["Promotional Material"]
 date = ""
 
 [Article]

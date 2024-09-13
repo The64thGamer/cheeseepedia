@@ -1,7 +1,7 @@
 +++
 title = "SPP Tune Machine (Cybervision)"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

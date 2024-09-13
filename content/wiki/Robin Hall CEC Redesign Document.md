@@ -1,7 +1,7 @@
 +++
 title = "Robin Hall CEC Redesign Document"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

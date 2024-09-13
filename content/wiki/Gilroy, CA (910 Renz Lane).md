@@ -1,7 +1,7 @@
 +++
 title = "Gilroy, CA (910 Renz Lane)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

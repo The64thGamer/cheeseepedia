@@ -1,7 +1,7 @@
 +++
 title = "CEC University Costume Character Manual (2007)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

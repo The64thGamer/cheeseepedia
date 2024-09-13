@@ -1,7 +1,7 @@
 +++
 title = "Wall Rope (Shelf Item)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

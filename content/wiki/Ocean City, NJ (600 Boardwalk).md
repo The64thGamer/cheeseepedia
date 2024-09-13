@@ -1,7 +1,7 @@
 +++
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
-tags = [FunZone]
+tags = ["FunZone"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Snow White and the Seven Dwarfs"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

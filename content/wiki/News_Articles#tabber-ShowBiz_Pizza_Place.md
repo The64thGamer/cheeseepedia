@@ -1,7 +1,7 @@
 +++
 title = "News_Articles#tabber-ShowBiz_Pizza_Place"
 draft = false
-tags = [Showbiz]
+tags = ["Showbiz"]
 date = ""
 
 [Article]

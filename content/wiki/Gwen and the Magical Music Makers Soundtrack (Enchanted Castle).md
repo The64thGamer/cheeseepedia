@@ -1,7 +1,7 @@
 +++
 title = "Gwen and the Magical Music Makers Soundtrack (Enchanted Castle)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

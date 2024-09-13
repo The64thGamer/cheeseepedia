@@ -1,7 +1,7 @@
 +++
 title = "Pistol Pete's Pizza"
 draft = false
-tags = [CreativeEngineering]
+tags = ["CreativeEngineering"]
 date = ""
 
 [Article]

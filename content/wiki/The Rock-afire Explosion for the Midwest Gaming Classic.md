@@ -1,7 +1,7 @@
 +++
 title = "The Rock-afire Explosion for the Midwest Gaming Classic"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Davy Jones/Monkees Tribute"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

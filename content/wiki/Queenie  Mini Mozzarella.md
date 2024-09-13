@@ -1,7 +1,7 @@
 +++
 title = "Queenie / Mini Mozzarella"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

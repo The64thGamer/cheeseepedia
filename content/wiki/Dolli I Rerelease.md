@@ -1,7 +1,7 @@
 +++
 title = "Dolli I Rerelease"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

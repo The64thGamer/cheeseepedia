@@ -1,7 +1,7 @@
 +++
 title = "Smitty's Super Service Station Show (Edited)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

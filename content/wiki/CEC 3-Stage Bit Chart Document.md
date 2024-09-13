@@ -1,7 +1,7 @@
 +++
 title = "CEC 3-Stage Bit Chart Document"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

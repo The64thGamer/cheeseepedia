@@ -1,7 +1,7 @@
 +++
 title = "Santa Claus (Jingle Bell Jamboree Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

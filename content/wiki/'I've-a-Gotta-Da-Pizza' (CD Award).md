@@ -1,7 +1,7 @@
 +++
 title = "'I've-a-Gotta-Da-Pizza' (CD Award)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

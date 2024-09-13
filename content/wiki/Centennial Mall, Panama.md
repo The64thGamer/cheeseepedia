@@ -1,7 +1,7 @@
 +++
 title = "Centennial Mall, Panama"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

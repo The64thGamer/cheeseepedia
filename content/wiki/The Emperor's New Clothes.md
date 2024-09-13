@@ -1,7 +1,7 @@
 +++
 title = "The Emperor's New Clothes"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

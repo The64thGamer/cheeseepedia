@@ -1,7 +1,7 @@
 +++
 title = "Marc's Pizza Mr. Munch (Mr. Munch Retrofit)"
 draft = false
-tags = [Unofficial Retrofits]
+tags = ["Unofficial Retrofits"]
 date = ""
 
 [Article]

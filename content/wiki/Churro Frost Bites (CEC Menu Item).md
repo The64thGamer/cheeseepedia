@@ -1,7 +1,7 @@
 +++
 title = "Churro Frost Bites (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

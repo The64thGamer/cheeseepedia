@@ -1,7 +1,7 @@
 +++
 title = "RAE 1982 Songs Misc"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

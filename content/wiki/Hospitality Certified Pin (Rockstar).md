@@ -1,7 +1,7 @@
 +++
 title = "Hospitality Certified Pin (Rockstar)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

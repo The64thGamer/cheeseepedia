@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Bop"
 draft = false
-tags = [Live Shows]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

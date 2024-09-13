@@ -1,7 +1,7 @@
 +++
 title = "Wyomissing, PA (1665 Bern Rd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Rock-A-Fire Explosion Promotional Poster"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

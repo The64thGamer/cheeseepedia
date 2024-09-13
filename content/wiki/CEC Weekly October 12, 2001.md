@@ -1,7 +1,7 @@
 +++
 title = "CEC Weekly October 12, 2001"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

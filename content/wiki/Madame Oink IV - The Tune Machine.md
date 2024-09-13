@@ -1,7 +1,7 @@
 +++
 title = "Madame Oink IV - The Tune Machine"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

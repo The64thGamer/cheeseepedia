@@ -1,7 +1,7 @@
 +++
 title = "Babs (Billy Bob Retrofit)"
 draft = false
-tags = [MajorMagic]
+tags = ["MajorMagic"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Pewter Pin"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

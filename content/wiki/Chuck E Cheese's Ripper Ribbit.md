@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Ripper Ribbit"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

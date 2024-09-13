@@ -1,7 +1,7 @@
 +++
 title = "Lynnwood, WA (3815 196th St)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

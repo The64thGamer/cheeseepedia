@@ -1,7 +1,7 @@
 +++
 title = "Animatronic Experimenter's Kit VI"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

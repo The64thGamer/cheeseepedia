@@ -1,7 +1,7 @@
 +++
 title = "The Confederate Critter Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

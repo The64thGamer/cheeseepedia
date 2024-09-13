@@ -1,7 +1,7 @@
 +++
 title = "Oklahoma City, OK (2241 West Memorial Rd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

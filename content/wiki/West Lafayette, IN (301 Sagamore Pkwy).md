@@ -1,7 +1,7 @@
 +++
 title = "West Lafayette, IN (301 Sagamore Pkwy)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

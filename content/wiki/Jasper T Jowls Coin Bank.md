@@ -1,7 +1,7 @@
 +++
 title = "Jasper T. Jowls Coin Bank"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

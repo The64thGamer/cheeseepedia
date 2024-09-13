@@ -1,7 +1,7 @@
 +++
 title = "Mesquite, TX (4040 Towne Crossing Blvd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

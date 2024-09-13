@@ -1,7 +1,7 @@
 +++
 title = "PTT Kooser Rd. Store Opening Promotional Materials (1978)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

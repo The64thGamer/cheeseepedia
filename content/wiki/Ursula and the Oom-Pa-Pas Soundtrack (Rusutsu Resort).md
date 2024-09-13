@@ -1,7 +1,7 @@
 +++
 title = "Ursula and the Oom-Pa-Pas Soundtrack (Rusutsu Resort)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

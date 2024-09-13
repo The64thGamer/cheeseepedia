@@ -1,7 +1,7 @@
 +++
 title = "Guadalajara, Mexico"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

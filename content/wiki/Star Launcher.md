@@ -1,7 +1,7 @@
 +++
 title = "Star Launcher"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

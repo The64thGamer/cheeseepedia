@@ -1,7 +1,7 @@
 +++
 title = "CEC Opportunity Scholarship Fund"
 draft = false
-tags = [Restaurants & Company History]
+tags = ["Restaurants & Company History"]
 date = ""
 
 [Article]

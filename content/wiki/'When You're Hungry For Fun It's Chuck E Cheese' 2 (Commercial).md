@@ -1,7 +1,7 @@
 +++
 title = "'When You're Hungry For Fun It's Chuck E. Cheese' 2 (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

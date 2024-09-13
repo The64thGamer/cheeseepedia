@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Merry Go Round"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

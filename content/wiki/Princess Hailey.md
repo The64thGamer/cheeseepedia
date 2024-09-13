@@ -1,7 +1,7 @@
 +++
 title = "Princess Hailey"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

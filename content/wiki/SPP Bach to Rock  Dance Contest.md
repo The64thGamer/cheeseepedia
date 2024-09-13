@@ -1,7 +1,7 @@
 +++
 title = "SPP Bach to Rock / Dance Contest"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

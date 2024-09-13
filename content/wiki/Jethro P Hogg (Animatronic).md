@@ -1,7 +1,7 @@
 +++
 title = "Jethro P. Hogg (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

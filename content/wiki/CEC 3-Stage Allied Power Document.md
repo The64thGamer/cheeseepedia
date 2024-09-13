@@ -1,7 +1,7 @@
 +++
 title = "CEC 3-Stage Allied Power Document"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

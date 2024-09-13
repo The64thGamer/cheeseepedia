@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Birthday 2015 Spanish"
 draft = false
-tags = [Live Shows]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

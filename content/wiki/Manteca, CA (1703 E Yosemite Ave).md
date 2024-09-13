@@ -1,7 +1,7 @@
 +++
 title = "Manteca, CA (1703 E Yosemite Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

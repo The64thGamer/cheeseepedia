@@ -1,7 +1,7 @@
 +++
 title = "Everyday's a CEC Day (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

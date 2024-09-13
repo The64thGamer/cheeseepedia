@@ -1,7 +1,7 @@
 +++
 title = "CEC Faves / House Showtape"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

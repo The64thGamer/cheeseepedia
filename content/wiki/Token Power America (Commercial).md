@@ -1,7 +1,7 @@
 +++
 title = "Token Power America (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

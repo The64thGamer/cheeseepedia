@@ -1,7 +1,7 @@
 +++
 title = "CEC Employee Logo Name Tag - Printed (Avenger)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

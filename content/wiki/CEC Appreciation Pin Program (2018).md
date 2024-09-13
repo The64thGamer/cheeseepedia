@@ -1,7 +1,7 @@
 +++
 title = "CEC Appreciation Pin Program (2018)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

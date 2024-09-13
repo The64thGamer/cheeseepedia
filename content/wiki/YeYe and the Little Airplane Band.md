@@ -1,7 +1,7 @@
 +++
 title = "YeYe and the Little Airplane Band"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

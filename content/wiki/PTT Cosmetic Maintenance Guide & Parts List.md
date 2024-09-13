@@ -1,7 +1,7 @@
 +++
 title = "PTT Cosmetic Maintenance Guide & Parts List"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

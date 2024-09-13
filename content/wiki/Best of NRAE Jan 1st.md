@@ -1,7 +1,7 @@
 +++
 title = "Best of NRAE Jan 1st"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

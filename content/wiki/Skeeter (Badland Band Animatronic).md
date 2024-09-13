@@ -1,7 +1,7 @@
 +++
 title = "Skeeter (Badland Band Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Young Rival - Oh Nancy"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

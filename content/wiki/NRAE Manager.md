@@ -1,7 +1,7 @@
 +++
 title = "NRAE Manager"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

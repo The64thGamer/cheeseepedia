@@ -1,7 +1,7 @@
 +++
 title = "Harmony II - 'Harmony's Hoedown'"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

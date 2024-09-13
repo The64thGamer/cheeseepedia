@@ -1,7 +1,7 @@
 +++
 title = "Hot Topic Chuck E. Cheese Token Pin"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

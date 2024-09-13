@@ -1,7 +1,7 @@
 +++
 title = "Tin Man (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

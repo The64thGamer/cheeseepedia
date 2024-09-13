@@ -1,7 +1,7 @@
 +++
 title = "Old MacDonald"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Character Driver Schematic (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Homer Honeydew (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Krystalike Keychain"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Surprises Singing Flowers Prototype (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

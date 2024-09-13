@@ -1,7 +1,7 @@
 +++
 title = "Chuck Short Fur Arms (Costume Accessory)"
 draft = false
-tags = [Costumed Characters]
+tags = ["Costumed Characters"]
 date = ""
 
 [Article]

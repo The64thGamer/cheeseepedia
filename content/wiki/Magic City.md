@@ -1,7 +1,7 @@
 +++
 title = "Magic City"
 draft = false
-tags = [CreativeEngineering]
+tags = ["CreativeEngineering"]
 date = ""
 
 [Article]

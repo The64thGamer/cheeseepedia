@@ -1,7 +1,7 @@
 +++
 title = "Strike It Up"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

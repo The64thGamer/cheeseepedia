@@ -1,7 +1,7 @@
 +++
 title = "Tik Tak Clock"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

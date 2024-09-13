@@ -1,7 +1,7 @@
 +++
 title = "Chef's Apprentice Pin (Rockstar)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

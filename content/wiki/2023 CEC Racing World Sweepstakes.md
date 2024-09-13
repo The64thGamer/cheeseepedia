@@ -1,7 +1,7 @@
 +++
 title = "2023 CEC Racing World Sweepstakes"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

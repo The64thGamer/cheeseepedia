@@ -1,7 +1,7 @@
 +++
 title = "BeagleJuice (Parody Poster)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

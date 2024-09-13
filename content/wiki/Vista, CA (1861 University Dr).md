@@ -1,7 +1,7 @@
 +++
 title = "Vista, CA (1861 University Dr)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

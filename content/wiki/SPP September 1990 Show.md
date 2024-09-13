@@ -1,7 +1,7 @@
 +++
 title = "SPP September 1990 Show"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

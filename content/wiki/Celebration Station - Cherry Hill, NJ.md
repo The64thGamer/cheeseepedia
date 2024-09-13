@@ -1,7 +1,7 @@
 +++
 title = "Celebration Station - Cherry Hill, NJ"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

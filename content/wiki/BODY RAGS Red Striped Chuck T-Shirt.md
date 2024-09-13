@@ -1,7 +1,7 @@
 +++
 title = "BODY RAGS Red Striped Chuck T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Fort Myers, FL (5020 Cleveland Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

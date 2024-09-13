@@ -1,7 +1,7 @@
 +++
 title = "Yellow/Black Robotoon (Billy Bob Retrofit)"
 draft = false
-tags = [Robotoons]
+tags = ["Robotoons"]
 date = ""
 
 [Article]

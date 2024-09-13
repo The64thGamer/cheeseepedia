@@ -1,7 +1,7 @@
 +++
 title = "CEC Every Kid's A Winner Game Rules"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

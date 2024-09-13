@@ -1,7 +1,7 @@
 +++
 title = "Brain-I-Vac"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

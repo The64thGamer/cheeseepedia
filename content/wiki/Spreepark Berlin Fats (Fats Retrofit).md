@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin Fats (Fats Retrofit)"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Standard: Video Media Page"
 draft = false
-tags = [Standards Pages]
+tags = ["Standards Pages"]
 date = ""
 
 [Article]

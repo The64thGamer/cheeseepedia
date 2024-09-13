@@ -1,7 +1,7 @@
 +++
 title = "Beach Bear (Wolf Pack 5)"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

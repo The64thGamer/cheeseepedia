@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella (Mijjin)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT Birthday Party Package Flyer (1981)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

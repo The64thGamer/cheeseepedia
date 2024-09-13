@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. March (Rerelease)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

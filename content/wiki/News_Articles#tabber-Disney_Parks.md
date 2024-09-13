@@ -1,7 +1,7 @@
 +++
 title = "News_Articles#tabber-Disney_Parks"
 draft = false
-tags = [Disney]
+tags = ["Disney"]
 date = ""
 
 [Article]

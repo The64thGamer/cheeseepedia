@@ -1,7 +1,7 @@
 +++
 title = "Euless, TX (703 S Industrial Blvd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

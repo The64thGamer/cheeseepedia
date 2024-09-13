@@ -1,7 +1,7 @@
 +++
 title = "John / Woodie Bowzer (Cyberamic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

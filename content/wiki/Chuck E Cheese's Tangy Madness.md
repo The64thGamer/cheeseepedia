@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Tangy Madness"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

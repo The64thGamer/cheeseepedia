@@ -1,7 +1,7 @@
 +++
 title = "The Rock-afire Explosion Documentary DVD"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

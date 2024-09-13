@@ -1,7 +1,7 @@
 +++
 title = "80sTees Token Champion CEC T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

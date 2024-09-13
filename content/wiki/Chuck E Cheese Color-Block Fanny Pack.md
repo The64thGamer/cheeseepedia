@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Color-Block Fanny Pack"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

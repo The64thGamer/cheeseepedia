@@ -1,7 +1,7 @@
 +++
 title = "Henderson, NV (1521 W Sunset Rd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

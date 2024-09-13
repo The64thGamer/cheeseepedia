@@ -1,7 +1,7 @@
 +++
 title = "SPP Oldies Medley (Cybervision)"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

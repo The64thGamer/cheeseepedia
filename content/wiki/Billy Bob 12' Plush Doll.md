@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob 12' Plush Doll"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

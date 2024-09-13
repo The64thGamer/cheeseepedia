@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Tyson Cheesy Chicken Nuggets"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

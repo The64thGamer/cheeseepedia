@@ -1,7 +1,7 @@
 +++
 title = "Paul McCartney / Private Paul (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

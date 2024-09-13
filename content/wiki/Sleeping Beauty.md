@@ -1,7 +1,7 @@
 +++
 title = "Sleeping Beauty"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

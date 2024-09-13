@@ -1,7 +1,7 @@
 +++
 title = "CEC Winter1derland Poster"
 draft = false
-tags = [Promotional Material]
+tags = ["Promotional Material"]
 date = ""
 
 [Article]

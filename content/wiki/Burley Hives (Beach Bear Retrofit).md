@@ -1,7 +1,7 @@
 +++
 title = "Burley Hives (Beach Bear Retrofit)"
 draft = false
-tags = [MajorMagic]
+tags = ["MajorMagic"]
 date = ""
 
 [Article]

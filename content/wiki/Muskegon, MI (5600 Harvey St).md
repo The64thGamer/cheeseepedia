@@ -1,7 +1,7 @@
 +++
 title = "Muskegon, MI (5600 Harvey St)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

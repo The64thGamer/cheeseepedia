@@ -1,7 +1,7 @@
 +++
 title = "CEC-Stage Show Schematics (1992)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

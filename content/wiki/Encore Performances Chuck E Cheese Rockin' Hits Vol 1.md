@@ -1,7 +1,7 @@
 +++
 title = "Encore Performances Chuck E. Cheese Rockin' Hits Vol. 1"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

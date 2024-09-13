@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place"
 draft = false
-tags = [Restaurants & Company History]
+tags = ["Restaurants & Company History"]
 date = ""
 
 [Article]

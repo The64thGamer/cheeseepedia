@@ -1,7 +1,7 @@
 +++
 title = "2020 Venus flytrap Puppet"
 draft = false
-tags = [Showtape Puppets]
+tags = ["Showtape Puppets"]
 date = ""
 
 [Article]

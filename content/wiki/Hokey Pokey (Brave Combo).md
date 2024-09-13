@@ -1,7 +1,7 @@
 +++
 title = "Hokey Pokey (Brave Combo)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

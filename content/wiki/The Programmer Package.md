@@ -1,7 +1,7 @@
 +++
 title = "The Programmer Package"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Budsie Mitzi Mozzarella 16' Plush"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

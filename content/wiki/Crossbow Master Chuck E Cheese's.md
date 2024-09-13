@@ -1,7 +1,7 @@
 +++
 title = "Crossbow Master: Chuck E. Cheese's"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

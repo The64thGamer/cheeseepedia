@@ -1,7 +1,7 @@
 +++
 title = "Boo Band Jester (Dook Retrofit)"
 draft = false
-tags = [TexasStateFair]
+tags = ["TexasStateFair"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Rock-afire Explosion Character Eyeballs"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

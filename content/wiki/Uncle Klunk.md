@@ -1,7 +1,7 @@
 +++
 title = "Uncle Klunk"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

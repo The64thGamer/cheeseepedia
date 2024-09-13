@@ -1,7 +1,7 @@
 +++
 title = "Willie Rabbit 1976 IAAPA Show"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

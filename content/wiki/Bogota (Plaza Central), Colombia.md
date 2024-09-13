@@ -1,7 +1,7 @@
 +++
 title = "Bogota (Plaza Central), Colombia"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

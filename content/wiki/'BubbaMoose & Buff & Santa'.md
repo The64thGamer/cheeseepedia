@@ -1,7 +1,7 @@
 +++
 title = "'Bubba/Moose & Buff & Santa'"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

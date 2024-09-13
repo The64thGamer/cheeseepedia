@@ -1,7 +1,7 @@
 +++
 title = "Baron Williams Mystery Hall"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

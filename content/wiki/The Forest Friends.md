@@ -1,7 +1,7 @@
 +++
 title = "The Forest Friends"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

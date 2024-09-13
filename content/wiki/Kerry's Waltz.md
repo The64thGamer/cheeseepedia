@@ -1,7 +1,7 @@
 +++
 title = "Kerry's Waltz"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

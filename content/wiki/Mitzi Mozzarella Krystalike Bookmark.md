@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Mozzarella Krystalike Bookmark"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

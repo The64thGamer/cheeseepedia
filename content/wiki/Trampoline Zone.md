@@ -1,7 +1,7 @@
 +++
 title = "Trampoline Zone"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

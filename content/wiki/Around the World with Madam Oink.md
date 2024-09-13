@@ -1,7 +1,7 @@
 +++
 title = "Around the World with Madam Oink"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

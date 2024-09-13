@@ -1,7 +1,7 @@
 +++
 title = "Munch n Play (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

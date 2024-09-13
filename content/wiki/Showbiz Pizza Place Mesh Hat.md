@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place Mesh Hat"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

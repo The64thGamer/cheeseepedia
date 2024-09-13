@@ -1,7 +1,7 @@
 +++
 title = "Showtape Preservation & Archival#tabber-ShowBiz_Pizza_Place"
 draft = false
-tags = [Showbiz]
+tags = ["Showbiz"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "CEC Street Hoops"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

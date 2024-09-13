@@ -1,7 +1,7 @@
 +++
 title = "8' Vanilla White Cake (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

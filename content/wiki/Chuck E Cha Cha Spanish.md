@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cha Cha Spanish"
 draft = false
-tags = [Live Shows]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

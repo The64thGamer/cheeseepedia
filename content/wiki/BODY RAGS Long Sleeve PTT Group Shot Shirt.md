@@ -1,7 +1,7 @@
 +++
 title = "BODY RAGS Long Sleeve PTT Group Shot Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

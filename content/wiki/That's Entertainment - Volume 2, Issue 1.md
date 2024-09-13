@@ -1,7 +1,7 @@
 +++
 title = "That's Entertainment - Volume 2, Issue 1"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

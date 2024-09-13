@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin Wolfman (Wolfman Retrofit)"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Jasper Fur Gloves (Costume Accessory)"
 draft = false
-tags = [Costumed Characters]
+tags = ["Costumed Characters"]
 date = ""
 
 [Article]

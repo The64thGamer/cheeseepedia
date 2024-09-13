@@ -1,7 +1,7 @@
 +++
 title = "SPP Best of 1988"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

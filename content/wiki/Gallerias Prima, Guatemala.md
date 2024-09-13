@@ -1,7 +1,7 @@
 +++
 title = "Gallerias Prima, Guatemala"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

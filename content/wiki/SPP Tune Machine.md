@@ -1,7 +1,7 @@
 +++
 title = "SPP Tune Machine"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

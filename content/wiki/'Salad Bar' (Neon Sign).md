@@ -1,7 +1,7 @@
 +++
 title = "'Salad Bar' (Neon Sign)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

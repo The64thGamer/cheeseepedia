@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin Dingo (Dingo Retrofit)"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

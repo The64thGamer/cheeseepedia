@@ -1,7 +1,7 @@
 +++
 title = "Dippin' Dots® Eye Scream (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

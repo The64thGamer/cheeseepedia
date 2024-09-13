@@ -1,7 +1,7 @@
 +++
 title = "Blue Bunny® Chocolate Ice Cream Cup (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

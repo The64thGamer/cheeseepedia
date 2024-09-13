@@ -1,7 +1,7 @@
 +++
 title = "Gold Collection Tape 6 (CRAE SVHS)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

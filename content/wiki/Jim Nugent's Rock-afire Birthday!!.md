@@ -1,7 +1,7 @@
 +++
 title = "Jim Nugent's Rock-afire Birthday!!"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

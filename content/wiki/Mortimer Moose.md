@@ -1,7 +1,7 @@
 +++
 title = "Mortimer Moose"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

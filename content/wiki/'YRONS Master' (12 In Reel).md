@@ -1,7 +1,7 @@
 +++
 title = "'????YRONS Master' (1/2 In. Reel)"
 draft = false
-tags = [Training, Updates, & Company Media]
+tags = ["Training, Updates, & Company Media"]
 date = ""
 
 [Article]

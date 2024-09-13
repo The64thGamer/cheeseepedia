@@ -1,7 +1,7 @@
 +++
 title = "Lo Barechea, Chile (Av. Raúl Labbé 12150)"
 draft = false
-tags = [Licensed Family Entertainment Center Store List]
+tags = ["Licensed Family Entertainment Center Store List"]
 date = ""
 
 [Article]

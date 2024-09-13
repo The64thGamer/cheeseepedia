@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Birthday Extravaganza Spanish"
 draft = false
-tags = [Live Shows]
+tags = ["Live Shows"]
 date = ""
 
 [Article]

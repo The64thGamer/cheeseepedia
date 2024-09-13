@@ -1,7 +1,7 @@
 +++
 title = "San Miguel, Peru"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Michael Jackson Tribute (Cyberstar Segment)"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

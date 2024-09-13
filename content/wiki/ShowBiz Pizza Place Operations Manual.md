@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Pizza Place Operations Manual"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

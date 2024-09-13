@@ -1,7 +1,7 @@
 +++
 title = "Sunday Night All Day Buffet (PTT Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

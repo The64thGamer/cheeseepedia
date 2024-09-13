@@ -1,7 +1,7 @@
 +++
 title = "Animation Programming System"
 draft = false
-tags = [APS Showtapes]
+tags = ["APS Showtapes"]
 date = ""
 
 [Article]

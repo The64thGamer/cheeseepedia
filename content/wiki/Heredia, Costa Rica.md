@@ -1,7 +1,7 @@
 +++
 title = "Heredia, Costa Rica"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

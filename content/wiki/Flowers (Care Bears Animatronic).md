@@ -1,7 +1,7 @@
 +++
 title = "Flowers (Care Bears Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

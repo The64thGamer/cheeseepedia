@@ -1,7 +1,7 @@
 +++
 title = "PTT Token 174 (B, N)"
 draft = false
-tags = [Pizza Time Theatre Tokens]
+tags = ["Pizza Time Theatre Tokens"]
 date = ""
 
 [Article]

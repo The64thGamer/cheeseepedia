@@ -1,7 +1,7 @@
 +++
 title = "CEC Special Edition Barbie Doll (2000)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

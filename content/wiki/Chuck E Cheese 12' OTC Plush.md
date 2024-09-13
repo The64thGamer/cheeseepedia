@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese 12' OTC Plush"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

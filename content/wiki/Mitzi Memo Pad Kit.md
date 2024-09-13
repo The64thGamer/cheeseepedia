@@ -1,7 +1,7 @@
 +++
 title = "Mitzi Memo Pad Kit"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

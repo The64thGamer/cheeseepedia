@@ -1,7 +1,7 @@
 +++
 title = "Thank You (5-1-96)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

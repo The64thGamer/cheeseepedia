@@ -1,7 +1,7 @@
 +++
 title = "PTT John Doe Business Card"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

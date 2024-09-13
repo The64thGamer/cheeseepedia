@@ -1,7 +1,7 @@
 +++
 title = "Rolling Bone (SPT Décor)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

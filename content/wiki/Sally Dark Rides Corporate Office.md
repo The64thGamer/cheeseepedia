@@ -1,7 +1,7 @@
 +++
 title = "Sally Dark Rides Corporate Office"
 draft = false
-tags = [Restaurants & Company History]
+tags = ["Restaurants & Company History"]
 date = ""
 
 [Article]

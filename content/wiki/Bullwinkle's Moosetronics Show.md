@@ -1,7 +1,7 @@
 +++
 title = "Bullwinkle's Moosetronics Show"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

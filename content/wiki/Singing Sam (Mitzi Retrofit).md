@@ -1,7 +1,7 @@
 +++
 title = "Singing Sam (Mitzi Retrofit)"
 draft = false
-tags = [MajorMagic]
+tags = ["MajorMagic"]
 date = ""
 
 [Article]

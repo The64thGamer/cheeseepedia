@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Program (1977)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

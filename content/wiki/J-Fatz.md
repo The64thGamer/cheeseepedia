@@ -1,7 +1,7 @@
 +++
 title = "J-Fatz"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

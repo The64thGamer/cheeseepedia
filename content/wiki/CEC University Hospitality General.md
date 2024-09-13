@@ -1,7 +1,7 @@
 +++
 title = "CEC University: Hospitality General"
 draft = false
-tags = [Training, Updates, & Company Media]
+tags = ["Training, Updates, & Company Media"]
 date = ""
 
 [Article]

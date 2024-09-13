@@ -1,7 +1,7 @@
 +++
 title = "2019 CEC Charity Golf Tournament (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

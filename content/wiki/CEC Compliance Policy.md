@@ -1,7 +1,7 @@
 +++
 title = "CEC Compliance Policy"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Punch Bags (PTT Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

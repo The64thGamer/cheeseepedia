@@ -1,7 +1,7 @@
 +++
 title = "CEC Hit Parade"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

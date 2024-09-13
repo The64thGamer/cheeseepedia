@@ -1,7 +1,7 @@
 +++
 title = "CEC Anti-Bribery and Anti-Corruption Policy (2019)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

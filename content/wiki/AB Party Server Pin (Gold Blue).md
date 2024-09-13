@@ -1,7 +1,7 @@
 +++
 title = "AB Party Server Pin (Gold Blue)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "B.B. Bubbles (Cyberamic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

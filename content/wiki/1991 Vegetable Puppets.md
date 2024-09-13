@@ -1,7 +1,7 @@
 +++
 title = "1991 Vegetable Puppets"
 draft = false
-tags = [Showtape Puppets]
+tags = ["Showtape Puppets"]
 date = ""
 
 [Article]

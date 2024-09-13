@@ -1,7 +1,7 @@
 +++
 title = "Oddsox CEC Kids Crew Socks"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

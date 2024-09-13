@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Package (PTT Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

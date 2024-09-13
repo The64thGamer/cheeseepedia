@@ -1,7 +1,7 @@
 +++
 title = "2nd Generation Dook Larue (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

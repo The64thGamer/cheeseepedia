@@ -1,7 +1,7 @@
 +++
 title = "The Pizza Times (Vol. 2, No. 1, May 1980)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

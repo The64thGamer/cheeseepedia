@@ -1,7 +1,7 @@
 +++
 title = "CEC Sauce Boss Hat (Rockstar)"
 draft = false
-tags = [Employee Wear]
+tags = ["Employee Wear"]
 date = ""
 
 [Article]

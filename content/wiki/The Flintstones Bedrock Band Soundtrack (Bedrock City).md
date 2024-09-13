@@ -1,7 +1,7 @@
 +++
 title = "The Flintstones Bedrock Band Soundtrack (Bedrock City)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

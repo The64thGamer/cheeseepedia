@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hot Wheels Custom Van (1997)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

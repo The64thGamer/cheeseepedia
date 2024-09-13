@@ -1,7 +1,7 @@
 +++
 title = "Orlando (West), FL (7456 West Colonial Dr)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

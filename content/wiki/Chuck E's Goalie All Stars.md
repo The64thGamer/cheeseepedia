@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s Goalie All Stars"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

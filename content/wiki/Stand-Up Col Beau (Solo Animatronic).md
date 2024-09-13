@@ -1,7 +1,7 @@
 +++
 title = "Stand-Up Col. Beau (Solo Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

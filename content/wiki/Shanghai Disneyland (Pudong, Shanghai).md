@@ -1,7 +1,7 @@
 +++
 title = "Shanghai Disneyland (Pudong, Shanghai)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "SPP Kids (CEI Programmed)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

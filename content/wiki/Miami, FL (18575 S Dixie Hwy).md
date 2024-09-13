@@ -1,7 +1,7 @@
 +++
 title = "Miami, FL (18575 S Dixie Hwy)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

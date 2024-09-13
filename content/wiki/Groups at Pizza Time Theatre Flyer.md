@@ -1,7 +1,7 @@
 +++
 title = "Groups at Pizza Time Theatre Flyer"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Murray D. Bird / Click"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

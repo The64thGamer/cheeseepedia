@@ -1,7 +1,7 @@
 +++
 title = "The King / King Kat (Cyberamic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

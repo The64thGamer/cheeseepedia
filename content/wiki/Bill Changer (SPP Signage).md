@@ -1,7 +1,7 @@
 +++
 title = "Bill Changer (SPP Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Lubbock, TX (2709 50th St)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

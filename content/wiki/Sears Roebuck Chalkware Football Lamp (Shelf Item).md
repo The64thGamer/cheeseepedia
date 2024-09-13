@@ -1,7 +1,7 @@
 +++
 title = "Sears Roebuck Chalkware Football Lamp (Shelf Item)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

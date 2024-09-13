@@ -1,7 +1,7 @@
 +++
 title = "Fred Flintstone (Sally Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "2001 CEC Las Vegas Convention (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

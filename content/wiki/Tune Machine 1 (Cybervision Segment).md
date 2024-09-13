@@ -1,7 +1,7 @@
 +++
 title = "Tune Machine 1 (Cybervision Segment)"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Lazlo the Great Schematics"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

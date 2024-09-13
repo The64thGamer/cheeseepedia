@@ -1,7 +1,7 @@
 +++
 title = "Warm Winter Cookie (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Emerson's Rock-afire Birthday Video!"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

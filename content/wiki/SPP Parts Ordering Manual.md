@@ -1,7 +1,7 @@
 +++
 title = "SPP Parts Ordering Manual"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

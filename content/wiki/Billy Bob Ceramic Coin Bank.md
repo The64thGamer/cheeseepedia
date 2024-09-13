@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Ceramic Coin Bank"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

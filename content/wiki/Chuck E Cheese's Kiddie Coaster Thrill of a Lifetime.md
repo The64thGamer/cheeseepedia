@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

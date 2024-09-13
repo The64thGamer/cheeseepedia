@@ -1,7 +1,7 @@
 +++
 title = "Boo Band Princess (Mitzi Retrofit)"
 draft = false
-tags = [TexasStateFair]
+tags = ["TexasStateFair"]
 date = ""
 
 [Article]

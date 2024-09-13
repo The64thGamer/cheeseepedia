@@ -1,7 +1,7 @@
 +++
 title = "Creteil Soleil, Creteil, France"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

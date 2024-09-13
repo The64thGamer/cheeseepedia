@@ -1,7 +1,7 @@
 +++
 title = "Ashland, KY (12750 State Rt 180)"
 draft = false
-tags = [BBWL]
+tags = ["BBWL"]
 date = ""
 
 [Article]

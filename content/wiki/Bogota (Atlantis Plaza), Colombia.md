@@ -1,7 +1,7 @@
 +++
 title = "Bogota (Atlantis Plaza), Colombia"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

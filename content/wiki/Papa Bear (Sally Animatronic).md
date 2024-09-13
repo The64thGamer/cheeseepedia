@@ -1,7 +1,7 @@
 +++
 title = "Papa Bear (Sally Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

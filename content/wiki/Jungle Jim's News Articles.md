@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's News Articles"
 draft = false
-tags = [JungleJims]
+tags = ["JungleJims"]
 date = ""
 
 [Article]

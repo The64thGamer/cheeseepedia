@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Yogurt Squeezes (Melonberry & Cotton Candy)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

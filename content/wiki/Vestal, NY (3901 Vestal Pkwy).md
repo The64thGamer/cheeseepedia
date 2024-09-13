@@ -1,7 +1,7 @@
 +++
 title = "Vestal, NY (3901 Vestal Pkwy)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

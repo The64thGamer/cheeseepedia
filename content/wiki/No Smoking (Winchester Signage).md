@@ -1,7 +1,7 @@
 +++
 title = "No Smoking (Winchester Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

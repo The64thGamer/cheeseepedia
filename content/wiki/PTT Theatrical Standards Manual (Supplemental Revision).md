@@ -1,7 +1,7 @@
 +++
 title = "PTT Theatrical Standards Manual (Supplemental Revision)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

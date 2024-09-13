@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's MooMoo The Funny Jumping Cow"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

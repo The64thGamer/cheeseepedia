@@ -1,7 +1,7 @@
 +++
 title = "Biphase Mark Code"
 draft = false
-tags = [Showtape Formats]
+tags = ["Showtape Formats"]
 date = ""
 
 [Article]

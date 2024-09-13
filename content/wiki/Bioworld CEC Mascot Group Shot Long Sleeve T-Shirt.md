@@ -1,7 +1,7 @@
 +++
 title = "Bioworld CEC Mascot Group Shot Long Sleeve T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

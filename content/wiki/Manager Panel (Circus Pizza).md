@@ -1,7 +1,7 @@
 +++
 title = "Manager Panel (Circus Pizza)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

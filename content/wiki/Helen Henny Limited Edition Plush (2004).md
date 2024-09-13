@@ -1,7 +1,7 @@
 +++
 title = "Helen Henny Limited Edition Plush (2004)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

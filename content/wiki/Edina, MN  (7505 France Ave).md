@@ -1,7 +1,7 @@
 +++
 title = "Edina, MN  (7505 France Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

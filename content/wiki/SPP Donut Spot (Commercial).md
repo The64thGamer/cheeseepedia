@@ -1,7 +1,7 @@
 +++
 title = "SPP Donut Spot (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

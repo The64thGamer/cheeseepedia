@@ -1,7 +1,7 @@
 +++
 title = "Animatronics 'Camp' (Cancelled)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

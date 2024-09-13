@@ -1,7 +1,7 @@
 +++
 title = "Sandy Hippo/ Henrietta 'High-Note' (Chuck E. Cheese Retrofit)"
 draft = false
-tags = [Unofficial Retrofits]
+tags = ["Unofficial Retrofits"]
 date = ""
 
 [Article]

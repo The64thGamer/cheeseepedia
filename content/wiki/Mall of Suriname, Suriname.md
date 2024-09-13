@@ -1,7 +1,7 @@
 +++
 title = "Mall of Suriname, Suriname"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

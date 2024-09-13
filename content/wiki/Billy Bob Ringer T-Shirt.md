@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Ringer T-Shirt"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

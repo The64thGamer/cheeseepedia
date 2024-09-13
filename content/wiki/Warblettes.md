@@ -1,7 +1,7 @@
 +++
 title = "Warblettes"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

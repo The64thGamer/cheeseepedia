@@ -1,7 +1,7 @@
 +++
 title = "CEI 1995 IAAPA Show (Event)"
 draft = false
-tags = [Events]
+tags = ["Events"]
 date = ""
 
 [Article]

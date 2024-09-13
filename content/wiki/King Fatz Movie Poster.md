@@ -1,7 +1,7 @@
 +++
 title = "King Fatz Movie Poster"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

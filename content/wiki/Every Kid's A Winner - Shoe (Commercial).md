@@ -1,7 +1,7 @@
 +++
 title = "Every Kid's A Winner - Shoe (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

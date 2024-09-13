@@ -1,7 +1,7 @@
 +++
 title = "Munch, the Trash Eater"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

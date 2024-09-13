@@ -1,7 +1,7 @@
 +++
 title = "Orientation Studio C Skits"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

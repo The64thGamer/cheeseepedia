@@ -1,7 +1,7 @@
 +++
 title = "Lumalusion Merlin the Wizard (Rolfe Retrofit)"
 draft = false
-tags = [TexasStateFair]
+tags = ["TexasStateFair"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Choose Your Cool (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "PTT B&W Promotional Photos (1977)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Fantasy Forest Game Preserve (Kooser Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

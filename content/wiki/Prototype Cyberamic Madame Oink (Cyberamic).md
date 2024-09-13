@@ -1,7 +1,7 @@
 +++
 title = "Prototype Cyberamic Madame Oink (Cyberamic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

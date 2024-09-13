@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place Binoculars"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

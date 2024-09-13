@@ -1,7 +1,7 @@
 +++
 title = "Hard Luck Bears IAAPA 1979 Showtape"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

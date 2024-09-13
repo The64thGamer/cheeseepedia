@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Mini Playing Card Deck"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

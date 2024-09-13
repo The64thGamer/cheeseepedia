@@ -1,7 +1,7 @@
 +++
 title = "Mijin #6"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

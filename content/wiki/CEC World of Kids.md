@@ -1,7 +1,7 @@
 +++
 title = "CEC World of Kids"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

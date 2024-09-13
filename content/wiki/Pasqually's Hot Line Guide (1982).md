@@ -1,7 +1,7 @@
 +++
 title = "Pasqually's Hot Line Guide (1982)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

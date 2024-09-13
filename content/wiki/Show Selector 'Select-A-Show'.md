@@ -1,7 +1,7 @@
 +++
 title = "Show Selector 'Select-A-Show'"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Program, 'Now Throughout California' Variant"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

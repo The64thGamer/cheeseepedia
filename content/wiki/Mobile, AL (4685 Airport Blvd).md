@@ -1,7 +1,7 @@
 +++
 title = "Mobile, AL (4685 Airport Blvd)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

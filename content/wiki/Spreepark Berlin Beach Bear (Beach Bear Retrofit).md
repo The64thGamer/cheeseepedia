@@ -1,7 +1,7 @@
 +++
 title = "Spreepark Berlin Beach Bear (Beach Bear Retrofit)"
 draft = false
-tags = [CrazyCritterBand]
+tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]

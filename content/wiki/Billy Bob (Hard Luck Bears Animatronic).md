@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob (Hard Luck Bears Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

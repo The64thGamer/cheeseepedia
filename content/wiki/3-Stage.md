@@ -1,7 +1,7 @@
 +++
 title = "3-Stage"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

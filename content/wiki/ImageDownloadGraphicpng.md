@@ -1,7 +1,7 @@
 +++
 title = "Image:DownloadGraphic.png"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

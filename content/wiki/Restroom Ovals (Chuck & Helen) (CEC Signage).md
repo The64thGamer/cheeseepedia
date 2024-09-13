@@ -1,7 +1,7 @@
 +++
 title = "Restroom Ovals (Chuck & Helen) (CEC Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

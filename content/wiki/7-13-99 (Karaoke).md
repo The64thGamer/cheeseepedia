@@ -1,7 +1,7 @@
 +++
 title = "7-13-99 (Karaoke)"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

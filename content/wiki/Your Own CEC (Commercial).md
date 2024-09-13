@@ -1,7 +1,7 @@
 +++
 title = "Your Own CEC (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

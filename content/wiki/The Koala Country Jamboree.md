@@ -1,7 +1,7 @@
 +++
 title = "The Koala Country Jamboree"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

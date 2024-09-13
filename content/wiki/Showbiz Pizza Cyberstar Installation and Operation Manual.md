@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Cyberstar Installation and Operation Manual"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

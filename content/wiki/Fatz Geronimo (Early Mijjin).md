@@ -1,7 +1,7 @@
 +++
 title = "Fatz Geronimo (Early Mijjin)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

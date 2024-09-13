@@ -1,7 +1,7 @@
 +++
 title = "SPP Homely for Christmas"
 draft = false
-tags = [Cyberstar Segments]
+tags = ["Cyberstar Segments"]
 date = ""
 
 [Article]

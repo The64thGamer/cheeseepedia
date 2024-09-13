@@ -1,7 +1,7 @@
 +++
 title = "Chuck Vinyl Paw Gloves 2 (Costume Accessory)"
 draft = false
-tags = [Costumed Characters]
+tags = ["Costumed Characters"]
 date = ""
 
 [Article]

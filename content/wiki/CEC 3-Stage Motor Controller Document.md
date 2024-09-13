@@ -1,7 +1,7 @@
 +++
 title = "CEC 3-Stage Motor Controller Document"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

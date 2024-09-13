@@ -1,7 +1,7 @@
 +++
 title = "Beach Bear Pewter Pin"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

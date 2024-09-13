@@ -1,7 +1,7 @@
 +++
 title = "Port of Spain, Trinidad & Tobago (Guardian Dr)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

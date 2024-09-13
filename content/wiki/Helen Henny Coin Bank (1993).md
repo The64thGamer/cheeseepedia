@@ -1,7 +1,7 @@
 +++
 title = "Helen Henny Coin Bank (1993)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Clear Plastic Ruler"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

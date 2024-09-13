@@ -1,7 +1,7 @@
 +++
 title = "CEC University: School of Kitchen (1994)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

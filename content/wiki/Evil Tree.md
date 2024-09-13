@@ -1,7 +1,7 @@
 +++
 title = "Evil Tree"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

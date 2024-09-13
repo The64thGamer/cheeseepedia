@@ -1,7 +1,7 @@
 +++
 title = "Dippin' Dots Peppermint Twist (CEC Menu Item)"
 draft = false
-tags = [Menu Items]
+tags = ["Menu Items"]
 date = ""
 
 [Article]

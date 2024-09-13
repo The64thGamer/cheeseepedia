@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Barrel Mug"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

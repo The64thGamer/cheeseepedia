@@ -1,7 +1,7 @@
 +++
 title = "Reno, NV (651 E Moana Lane)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Riyadh (Exit 9/Imam Abdullah), Saudi Arabia"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

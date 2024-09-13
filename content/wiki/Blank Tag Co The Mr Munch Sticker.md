@@ -1,7 +1,7 @@
 +++
 title = "Blank Tag Co. The Mr. Munch Sticker"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

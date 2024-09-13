@@ -1,7 +1,7 @@
 +++
 title = "Munch Mask Retro (2000)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

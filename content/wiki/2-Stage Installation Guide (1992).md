@@ -1,7 +1,7 @@
 +++
 title = "2-Stage Installation Guide (1992)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

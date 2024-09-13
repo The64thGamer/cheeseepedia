@@ -1,7 +1,7 @@
 +++
 title = "Wick Letterback"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

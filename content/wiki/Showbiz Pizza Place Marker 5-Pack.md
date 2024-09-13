@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Place Marker 5-Pack"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Elf #3 (Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

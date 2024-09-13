@@ -1,7 +1,7 @@
 +++
 title = "CEC 2000 Annual Report"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

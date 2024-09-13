@@ -1,7 +1,7 @@
 +++
 title = "Goldilocks and the Three Bears"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

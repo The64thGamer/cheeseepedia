@@ -1,7 +1,7 @@
 +++
 title = "The Ugly Duckling"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

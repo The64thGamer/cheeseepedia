@@ -1,7 +1,7 @@
 +++
 title = "Myrtle Beach, SC"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

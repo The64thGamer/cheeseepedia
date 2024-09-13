@@ -1,7 +1,7 @@
 +++
 title = "CEC Team 2 Training Book (2013)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

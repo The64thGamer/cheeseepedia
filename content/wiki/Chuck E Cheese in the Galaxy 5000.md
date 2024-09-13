@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese in the Galaxy 5000"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Madame Oink"
 draft = false
-tags = [Characters]
+tags = ["Characters"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Euromaus Musikrevue"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

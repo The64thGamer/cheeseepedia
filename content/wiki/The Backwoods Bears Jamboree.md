@@ -1,7 +1,7 @@
 +++
 title = "The Backwoods Bears Jamboree"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

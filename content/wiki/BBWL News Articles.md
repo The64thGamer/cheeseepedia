@@ -1,7 +1,7 @@
 +++
 title = "BBWL News Articles"
 draft = false
-tags = [BBWL]
+tags = ["BBWL"]
 date = ""
 
 [Article]

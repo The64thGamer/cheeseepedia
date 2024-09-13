@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Desk Clock"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Springhill Suites, Orlando (???)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

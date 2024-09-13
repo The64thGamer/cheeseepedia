@@ -1,7 +1,7 @@
 +++
 title = "Walking The Dog V2 (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

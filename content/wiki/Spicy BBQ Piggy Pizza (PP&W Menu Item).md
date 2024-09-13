@@ -1,7 +1,7 @@
 +++
 title = "Spicy BBQ Piggy Pizza (PP&W Menu Item)"
 draft = false
-tags = [Pasqually's Pizza & Wings Menu Items]
+tags = ["Pasqually's Pizza & Wings Menu Items"]
 date = ""
 
 [Article]

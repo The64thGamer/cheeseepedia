@@ -1,7 +1,7 @@
 +++
 title = "Uncle Boomer and the Happy Time Music Machine"
 draft = false
-tags = [Animatronic Shows]
+tags = ["Animatronic Shows"]
 date = ""
 
 [Article]

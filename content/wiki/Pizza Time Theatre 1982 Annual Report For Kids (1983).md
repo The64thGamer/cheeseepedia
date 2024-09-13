@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre 1982 Annual Report For Kids (1983)"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

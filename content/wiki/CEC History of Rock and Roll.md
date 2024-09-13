@@ -1,7 +1,7 @@
 +++
 title = "CEC History of Rock and Roll"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

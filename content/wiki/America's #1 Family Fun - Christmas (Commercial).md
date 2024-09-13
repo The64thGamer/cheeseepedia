@@ -1,7 +1,7 @@
 +++
 title = "America's #1 Family Fun - Christmas (Commercial)"
 draft = false
-tags = [Commercials]
+tags = ["Commercials"]
 date = ""
 
 [Article]

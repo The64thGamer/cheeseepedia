@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Diagnostic Tape"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

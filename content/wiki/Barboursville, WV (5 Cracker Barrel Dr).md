@@ -1,7 +1,7 @@
 +++
 title = "Barboursville, WV (5 Cracker Barrel Dr)"
 draft = false
-tags = [BBWL]
+tags = ["BBWL"]
 date = ""
 
 [Article]

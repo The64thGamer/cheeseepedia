@@ -1,7 +1,7 @@
 +++
 title = "Super Chuck Summer Show 2005"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Foxy Colleen in Irish Stew"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]

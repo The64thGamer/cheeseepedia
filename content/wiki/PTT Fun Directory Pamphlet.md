@@ -1,7 +1,7 @@
 +++
 title = "PTT Fun Directory Pamphlet"
 draft = false
-tags = [Documents]
+tags = ["Documents"]
 date = ""
 
 [Article]

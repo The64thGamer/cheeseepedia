@@ -1,7 +1,7 @@
 +++
 title = "Pirate (Mijjin)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

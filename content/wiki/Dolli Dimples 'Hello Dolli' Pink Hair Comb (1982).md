@@ -1,7 +1,7 @@
 +++
 title = "Dolli Dimples 'Hello Dolli' Pink Hair Comb (1982)"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

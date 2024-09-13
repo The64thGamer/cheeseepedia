@@ -1,7 +1,7 @@
 +++
 title = "Guinevere (Jammin' Jesters Animatronic)"
 draft = false
-tags = [Animatronics]
+tags = ["Animatronics"]
 date = ""
 
 [Article]

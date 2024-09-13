@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Large White Stein"
 draft = false
-tags = [Merchandise]
+tags = ["Merchandise"]
 date = ""
 
 [Article]

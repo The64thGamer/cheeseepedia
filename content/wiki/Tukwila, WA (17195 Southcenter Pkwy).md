@@ -1,7 +1,7 @@
 +++
 title = "Tukwila, WA (17195 Southcenter Pkwy)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

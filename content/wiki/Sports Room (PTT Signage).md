@@ -1,7 +1,7 @@
 +++
 title = "Sports Room (PTT Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

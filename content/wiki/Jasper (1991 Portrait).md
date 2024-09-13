@@ -1,7 +1,7 @@
 +++
 title = "Jasper (1991 Portrait)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

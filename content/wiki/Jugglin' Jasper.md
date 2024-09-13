@@ -1,7 +1,7 @@
 +++
 title = "Jugglin' Jasper"
 draft = false
-tags = [Arcade Games]
+tags = ["Arcade Games"]
 date = ""
 
 [Article]

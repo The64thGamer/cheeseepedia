@@ -1,7 +1,7 @@
 +++
 title = "Champaign, IL (2009 N. Prospect Ave)"
 draft = false
-tags = [Store List]
+tags = ["Store List"]
 date = ""
 
 [Article]

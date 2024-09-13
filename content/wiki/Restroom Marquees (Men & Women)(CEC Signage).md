@@ -1,7 +1,7 @@
 +++
 title = "Restroom Marquees (Men & Women)(CEC Signage)"
 draft = false
-tags = [Store Fixtures]
+tags = ["Store Fixtures"]
 date = ""
 
 [Article]

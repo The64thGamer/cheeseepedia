@@ -1,7 +1,7 @@
 +++
 title = "Bubba and the Badland Band with Mark Twain Soundtrack"
 draft = false
-tags = [Showtapes]
+tags = ["Showtapes"]
 date = ""
 
 [Article]
