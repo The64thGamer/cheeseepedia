@@ -10,16 +10,17 @@
 
 {{ $currentTitle := .Title }}
 {{ $pages := where .Site.Pages "Section" "wiki" }}
-
-<ul>
-  {{ range $pages }}
-    {{ $page := . }} <!-- Store the current page object in a variable -->
-    {{ with $page.Params.Article.contributors }}
-      {{ $contributors := . }}
-      {{ if in $contributors $currentTitle }}
-        <li><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
+<div class="tri-column">
+  <ul>
+    {{ range $pages }}
+      {{ $page := . }} <!-- Store the current page object in a variable -->
+      {{ with $page.Params.Article.contributors }}
+        {{ $contributors := . }}
+        {{ if in $contributors $currentTitle }}
+          <li><a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a></li>
+        {{ end }}
       {{ end }}
     {{ end }}
-  {{ end }}
-</ul>
+  </ul>
+</div>
 <div class="contributors"><strong>Last updated on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></div>

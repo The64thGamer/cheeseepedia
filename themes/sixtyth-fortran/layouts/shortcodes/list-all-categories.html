@@ -1,8 +1,13 @@
-
-<ul>
-    {{range $name, $taxonomy := .Site.Taxonomies.tags}} {{ $cnt := .Count }}
-    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-      <li><a href={{ .RelPermalink }} title="All pages with tag <i>{{$name}}</i>">{{$name}}</a><sup> {{$cnt}}</sup></li>
-    {{end}}
-  {{end}}
-</ul>
+<div class="tri-column">
+  <ul>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+      {{ $cnt := len $taxonomy }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+        <li>
+          <a href="{{ .RelPermalink }}" title="All pages with tag <i>{{ .Title }}</i>">{{ .Title }}</a>
+          <sup> {{ $cnt }}</sup>
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>

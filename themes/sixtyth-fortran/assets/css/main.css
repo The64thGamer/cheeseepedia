@@ -2,6 +2,7 @@
   --blue:#233355;
   --aqua: #39A481;
   --white: #dbd1b1;
+  --deep-white: #62777a;
   --yellow: #e0961f;
   --orange: #D44A02;
   --deep-orange: #993b08;
@@ -29,7 +30,6 @@ body {
   outline-width: 1.5em;
   outline-style: solid;
   box-shadow: 0 0 0 2em var(--brown), inset 0 0 0 0.5em var(--brown);
-  
 }
 
 html{
@@ -44,21 +44,39 @@ h1{
   margin: 0;
 }
 
-ul {
-  -webkit-column-count: 3;
-  -moz-column-count: 3;
+.tri-column ul {
   column-count: 3;
   overflow-wrap: break-word;
-  inline-size: 40em;
 }
 
 .list-page-summary {
   margin-left: 3rem;
+  font-family: "Aleo";
+  color: var(--white);
 }
 
 .list-page-block {
-  margin-bottom: 1rem;
-  padding-bottom: 1rem;
+  color: var(--yellow);
+  background-color: var(--blue);
+  font-family: "RockoFLF";
+  font-size: 1em;
+  line-height: 1.5; 
+  margin: 0 auto;
+  max-width: 55em;
+  min-width: 30em;
+  border-color: var(--yellow);
+  border-style: solid;
+  border-width: .5em;
+  border-radius: 5em;
+  padding-left: 3em;
+  padding-right: 3em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  outline-color: var(--orange);
+  outline-width: .5em;
+  outline-style: solid;
+  box-shadow: 0 0 0 .75em var(--brown), inset 0 0 0 0.25em var(--white);
 }
 
 .contributors{
@@ -125,7 +143,8 @@ header {
 }
 
 footer {
-
+  margin-top: 3em;
+  color: var(--deep-white);
 }
 
 hr
