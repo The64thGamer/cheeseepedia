@@ -2,17 +2,19 @@
 title= "Contributor Home"
 date= 2024-09-13T06:20:24-05:00
 draft= false
+tags = ["Meta"]
+
+[Article]
 contributors = ["The 64th Gamer"]
 +++
 
-{{< list-all-categories >}}
+Welcome! Right now Cheese-E-Pedia is going through early transitions to a new site layout. Check out the {{< discord-server >}} for more info and help. Below are some useful pages for fixing any issues.
 
 <hr>
-FIX: Pages without tags
-<ul>
-    {{ range .Site.RegularPages }}
-      {{ if not .Params.tags }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    {{ end }}
-</ul>
+<h2>All Categories</h2>
+Double check no strange categories have been created!
+{{< list-all-categories >}}
+<hr>
+<h2>Untagged Pages</h2>
+Pages require tags!
+{{< list-untagged-pages >}}
