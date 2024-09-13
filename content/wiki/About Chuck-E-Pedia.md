@@ -1,7 +1,7 @@
 +++
 title = "About Chuck-E-Pedia"
 draft = false
-tags = []
+tags = ["BlurbWelcome"]
 date = 2024-02-06T06:44:54Z
 
 [Article]

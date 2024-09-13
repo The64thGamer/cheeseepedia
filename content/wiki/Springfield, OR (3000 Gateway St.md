@@ -2,7 +2,7 @@
 title = "Springfield, OR (3000 Gateway St"
 draft = false
 tags = []
-date = 2024-09-04T22:03:31Z
+date = 2024-09-12T23:28:29Z
 
 [Article]
 contributors = ["Detourenterprises","Documentor"]
@@ -16,7 +16,7 @@ gallery = []
 ## History ##
 
 ### CEC Era (2007-2014) ###
-Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}) . This store's stage was [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which wore the Avenger outfit. Springfield, OR opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and has had them for its entire existence.
+Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). This store's stage was [Studio C Beta, 16m]({{< ref "wiki/Studio C Beta.md" >}}), which wore the Avenger outfit. Springfield, OR opened with [Skytubes]({{< ref "wiki/Skytubes.md" >}}) and has had them for its entire existence.
 
 On September 14, 2014, the store would be permanently closed. It was likely due to the mall's renovation plans that was scheduled to take place that following year. It is unknown what happened to the animatronics at this location, although it was most likely taken back to the SPT distribution center.
 

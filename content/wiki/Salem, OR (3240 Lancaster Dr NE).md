@@ -2,7 +2,7 @@
 title = "Salem, OR (3240 Lancaster Dr NE)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-02T18:35:07Z
+date = 2024-09-12T23:48:36Z
 
 [Article]
 contributors = ["ChuckECool","SuperCreamPiper2008","AstridMascotFan2005","Detourenterprises"]
@@ -38,7 +38,7 @@ The Alpha was removed in February 2021 for the 2.0 Remodel and Dance Floor.
 |}
 
 ##History##
-New Salem opened between 1988-1989 as the relocation of the original Salem location which originally opened on January 1st, 1984 and was a separate free-standing building and was demolished in 1988-1989 for this location. New Salem opened with the 1988 Remodel including the checkers on the walls and outside, the Blue and White awnings, the 1988 decor, and Chuck E's House. New Salem remained like this until 1991-1992 when they would receive a minor remodel, replacing older decor with newer decor, and received an exterior change renaming 'Showbiz Pizza' to 'Chuck E. Cheese's Pizza'. Ironically, the Porch Stage was kept. Around the mid 90's, New Salem received the Phase 2 Remodel removing older decor for newer decor, received another exterior change which is the logo and road sign, received SkyTubes to replace the ball pit, and removed the checkers and Blue and White awnings. Around 1999-2000, the Chuck E's House was removed and replaced with the Studio C Alpha stage. Around 2006-2007, New Salem received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removed Showroom Walls, Balcony Seating, relocated the stage, painting some walls purple, and some aspects of the store. The Phase 3 exterior sign was kept, though the road sign changed. Around 2014, New Salem somewhat received the 2013 Remodel painting the walls to blue, green and orange, changing the exterior logo and road sign, and replacing the booths. In 2020, a 2.0 art sign was installed. In February 2021, New Salem received the 2.0 Remodel removing the Alpha for the Dance Floor and Video Wall. Surprisingly, this was only an interior remodel as the exterior stayed the same since the 2013 Remodel. The booths also stayed the same even after the 2.0 Remodel. As of right now, New Salem still has the 2.0 Remodel and Dance Floor and Video Wall.
+New Salem opened between 1988-1989 as the relocation of the original Salem location which originally opened on January 1st, 1984 and was a separate free-standing building and was demolished in 1988-1989 for this location. New Salem opened with the 1988 Remodel including the checkers on the walls and outside, the Blue and White awnings, the 1988 decor, and Chuck E's House. New Salem remained like this until 1991-1992 when they would receive a minor remodel, replacing older decor with newer decor, and received an exterior change renaming 'Showbiz Pizza' to 'Chuck E. Cheese's Pizza'. Ironically, the Porch Stage was kept. Around the mid 90's, New Salem received the Phase 2 Remodel removing older decor for newer decor, received another exterior change which is the logo and road sign, received SkyTubes to replace the ball pit, and removed the checkers and Blue and White awnings. Around 1999-2000, the Chuck E's House was removed and replaced with the Studio C Alpha stage. Around 2006-2007, New Salem received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removed Showroom Walls, Balcony Seating, relocated the stage, painting some walls purple, and some aspects of the store. The Phase 3 exterior sign was kept, though the road sign changed. Around 2014, New Salem somewhat received the 2013 Remodel painting the walls to blue, green and orange, changing the exterior logo and road sign, and replacing the booths. In 2020, a 2.0 art sign was installed. In February 2021, New Salem received the 2.0 Remodel removing the Alpha for the Dance Floor and Video Wall. Surprisingly, this was only an interior remodel as the exterior stayed the same since the 2013 Remodel. The booths also stayed the same even after the 2.0 Remodel. Sometime during 2024, New Salem would install its CEC 2018 2.0 Remodel Program (Trampoline Zone). As of right now, New Salem remains like this.
 
 ## Arcade Machines ##
 
@@ -135,6 +135,28 @@ New Salem opened between 1988-1989 as the relocation of the original Salem locat
 |Pizza Phone
 |N/A
 |Destroyed.
+|}
+
+## Videos ##
+{| class='wikitable'
+|+
+!LInk
+!Uploader
+!Description
+!Filming Date
+!Publish Date
+|-
+|https://youtu.be/yVQr63Dx72w?si=WYUw4ZVt-BOToahr
+|Andy's Retail Exploration
+|A store tour of the location.
+|2018
+|November 24, 2018
+|-
+|https://youtu.be/pMMpp6vBVt0
+|LKD Animatronics
+|The song 'Nobody There' being played on the stage.
+|October 28, 2020
+|October 28, 2020
 |}
 
 

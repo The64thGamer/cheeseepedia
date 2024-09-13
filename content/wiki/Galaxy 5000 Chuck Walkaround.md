@@ -1,7 +1,7 @@
 +++
 title = "Galaxy 5000 Chuck Walkaround"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2023-09-10T16:54:22Z
 
 [Article]

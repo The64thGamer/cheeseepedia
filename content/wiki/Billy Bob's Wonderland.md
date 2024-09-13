@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob's Wonderland"
 draft = false
-tags = []
+tags = ["BlurbBBWL"]
 date = 2024-06-11T05:14:10Z
 
 [Article]

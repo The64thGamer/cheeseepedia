@@ -1,7 +1,7 @@
 +++
 title = "WKMG Creative Engineering Spot (1976)"
 draft = false
-tags = []
+tags = ["News Footage"]
 date = 2023-02-04T04:56:12Z
 
 [Article]

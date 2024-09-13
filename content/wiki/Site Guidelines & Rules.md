@@ -1,7 +1,7 @@
 +++
 title = "Site Guidelines & Rules"
 draft = false
-tags = []
+tags = ["BlurbWelcome"]
 date = 2024-08-17T03:37:11Z
 
 [Article]

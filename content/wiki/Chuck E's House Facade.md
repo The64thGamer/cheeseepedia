@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s House Facade"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2024-08-08T02:25:30Z
 
 [Article]

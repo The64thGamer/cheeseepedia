@@ -2,10 +2,10 @@
 title = "Manchester, NH (1525 S Willow St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-11T18:01:25Z
+date = 2024-09-10T23:10:28Z
 
 [Article]
-contributors = ["ChuckECool","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","2601:191:8580:9F90:1DD1:B54A:12E:6139","CECCheese","Cheeseclassic","The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E","66.250.190.28","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004"]
+contributors = ["ChuckECool","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","2601:191:8580:9F90:1DD1:B54A:12E:6139","CECCheese","Cheeseclassic","The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E","66.250.190.28","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004","CEC1988"]
 gallery = []
 +++
 {{Generic|image=Manchester 2.0.jpg|desc=Exterior with 2.0 remodel, April 2024 (PC: dmckill on Instagram)}}
@@ -49,9 +49,9 @@ It is located in the South Willow Plaza Center.
 ##History##
 Manchester opened in August 1982 with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), It is currently the oldest Chuck E. Cheese's location in New England.
 
-Manchester housed the Balcony Stage from 1982 until 1989 when they would receive the 1988 Remodel and convert the Balcony into the [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). They also featured The King in the Cabaret Room. It is unknown if Manchester featured other Cabaret/Lounge Acts.   
+Manchester housed the Balcony Stage from 1982 until 1989 when they would receive the 1988 Remodel and convert the Balcony into the [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). They also featured The King in the Cabaret Room. They Also had Dolli Dimples.   
 
-In 1993, Manchester would receive the 1993 Remodel. They would convert the Chuck E.'s House Facade into a 2-Stage, as well as remove The King.  
+In 1993, Manchester would receive the 1993 Remodel. They would convert the Chuck E.'s House Facade into a 2-Stage, as well as remove The King and Dolli  
 
 In December 2005, Manchester would receive the [CEC 2005 Remodel Program]({{< ref "wiki/CEC 2005 Remodel Program.md" >}}). The 2-Stage would end up being removed not too long after, being replaced with a Studio C 2000  (Studio C Beta, 16M) in January 2006. Starting with this store, Studio C Beta's and other Studio C's being installed after this would install the fake curtains to save money. After the 2-Stage removal, Pieces of the 2-Stage would end up being parted out to [Newington, NH (30 Fox Run Rd)]({{< ref "wiki/Newington, NH (30 Fox Run Rd).md" >}}). The Gameroom and Showroom would end up being relocated for this remodel, as the Studio C would be placed in the former Gameroom at the front of the store, and the Gameroom would be in the former Showroom at the back of the store.  
 
@@ -66,6 +66,10 @@ On September 19th, 2022, Manchester's Studio C Ceased Programming.
 In September 2023, Manchester started its 2.0 remodel. The Studio C Beta stage was removed and replaced with a Dance Floor and Video Wall, making the Dance Floor the only stage type in New Hampshire.
 
 In April 2024, according to Chuck E. Cheese CEO David Mckillips on Instagram, Manchester, along with [Everett, MA]({{< ref "wiki/Everett, MA (29 Mystic View Rd).md" >}}), were confirmed to get Trampoline Zones. It is expected to be installed and ready to go by May 4th. 
+
+##Trivia##
+- This location has the 2.0 PTT Logo, like Northridge's, its not at the front of the store though, it is at the Back (?)
+- This location also has the 'Make Magic' Sign even after the 2.0 remodel
    
 ##Animatronics##
 {| class='wikitable'
@@ -113,6 +117,11 @@ In April 2024, according to Chuck E. Cheese CEO David Mckillips on Instagram, Ma
 |1981-1982
 |Unknown
 |Unknown
+|-
+|[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
+|1982
+|Unknown
+|Unknown, Removed 1993
 |-
 |[Wink (Cyberamic)]({{< ref "wiki/Wink (Cyberamic).md" >}}) 
 |Mid 1990's

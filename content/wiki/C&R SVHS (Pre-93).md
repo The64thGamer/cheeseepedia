@@ -1,7 +1,7 @@
 +++
 title = "C&R SVHS (Pre-93)"
 draft = false
-tags = ["Showtape Formats"]
+tags = ["Showtape"]
 date = 2023-10-12T18:25:38Z
 
 [Article]

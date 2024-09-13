@@ -1,7 +1,7 @@
 +++
 title = "CEI 4-Track Reel"
 draft = false
-tags = ["Showtape Formats"]
+tags = ["Showtape"]
 date = 2023-11-24T17:34:07Z
 
 [Article]

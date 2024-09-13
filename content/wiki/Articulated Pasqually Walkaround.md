@@ -1,7 +1,7 @@
 +++
 title = "Articulated Pasqually Walkaround"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2024-04-08T02:21:06Z
 
 [Article]

@@ -1,7 +1,7 @@
 +++
 title = "Bubble House Clock (Sun Retrofit)"
 draft = false
-tags = []
+tags = ["BlurbTexasStateFair"]
 date = 2023-01-01T20:44:40Z
 
 [Article]

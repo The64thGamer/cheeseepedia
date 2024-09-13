@@ -1,7 +1,7 @@
 +++
 title = "Luigi (Pasqually Retrofit)"
 draft = false
-tags = []
+tags = ["BlurbJungleJims"]
 date = 2023-05-06T02:27:06Z
 
 [Article]

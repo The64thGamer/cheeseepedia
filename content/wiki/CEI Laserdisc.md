@@ -1,7 +1,7 @@
 +++
 title = "CEI Laserdisc"
 draft = false
-tags = []
+tags = ["Showtape"]
 date = 2024-07-22T09:47:50Z
 
 [Article]

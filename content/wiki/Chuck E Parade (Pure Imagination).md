@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Parade (Pure Imagination)"
 draft = false
-tags = []
+tags = ["Live Shows"]
 date = 2022-06-26T04:22:46Z
 
 [Article]

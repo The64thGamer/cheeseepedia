@@ -1,7 +1,7 @@
 +++
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
-tags = []
+tags = ["Animatronics"]
 date = 2023-07-18T17:27:44Z
 
 [Article]

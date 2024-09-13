@@ -1,7 +1,7 @@
 +++
 title = "PTT Pasquallys Perfect Pizza Sign (1978)"
 draft = false
-tags = []
+tags = ["PTT Store Fixtures"]
 date = 2023-08-18T11:12:46Z
 
 [Article]

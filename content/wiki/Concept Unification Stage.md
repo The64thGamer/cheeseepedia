@@ -2,10 +2,10 @@
 title = "Concept Unification Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-09-09T14:09:16Z
+date = 2024-09-13T01:51:36Z
 
 [Article]
-contributors = ["ShowbizMidwest","Montfortdog","Maddox121","The 64th Gamer","Store556.","ThatBoiCydalan","Documentor","Rileypaulson","CECBowlingGreen","Rexburg090","Noahrbxt","2603:6011:5901:C300:8CAA:5C5E:450A:823E","Ceclife13","2600:4040:129B:6C00:56D:E38A:6B2C:5AF0","ChuckEPediaIsTheBest!","Epicniceperson","Stripes","107.147.190.172","ShowbizChuck","64.125.60.2","CECFan2023","2600:1702:190:D20:4569:B2A:AB67:1967","BoyInCharge55","JamesLemony","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CyCGM","PizzaEntertainmentFanX","CECMentor","Livelycheese","Cecanddisneyfan2004","AstridMascotFan2005","Cy's Junk at School"]
+contributors = ["ShowbizMidwest","Montfortdog","Maddox121","The 64th Gamer","Store556.","ThatBoiCydalan","Documentor","Rileypaulson","CECBowlingGreen","Rexburg090","Noahrbxt","2603:6011:5901:C300:8CAA:5C5E:450A:823E","Ceclife13","2600:4040:129B:6C00:56D:E38A:6B2C:5AF0","ChuckEPediaIsTheBest!","Epicniceperson","Stripes","107.147.190.172","ShowbizChuck","64.125.60.2","CECFan2023","2600:1702:190:D20:4569:B2A:AB67:1967","BoyInCharge55","JamesLemony","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CyCGM","PizzaEntertainmentFanX","CECMentor","Livelycheese","Cecanddisneyfan2004","AstridMascotFan2005","Cy's Junk at School","CECLover"]
 gallery = []
 +++
 {{Generic|image=Laurel3Stage.jpg|desc=The 3-Stage in Laurel, MD (removed in June 2022).}}
@@ -342,8 +342,8 @@ Note: Contains only confirmed installations, and may not be in order.
 |-
 |[Wichita Falls, TX (2935 Southwest Pkwy)]({{< ref "wiki/Wichita Falls, TX (2935 Southwest Pkwy).md" >}})
 |September 1991
-|Early 2020
-|One of 17 3-Stages in Texas to undergo Concept Unification. Was in good condition. 2nd-to-last 3-Stage in Texas from September 2018 until stage removal in early 2020.
+|February 2020
+|One of 17 3-Stages in Texas to undergo Concept Unification. Was in good condition. 2nd-to-last 3-Stage in Texas from September 2018 until stage removal in February 2020.
 |-
 |[Montgomery, AL (2940 E South Blvd)]({{< ref "wiki/Montgomery, AL (2940 E South Blvd).md" >}})
 |Sometime in 1991
@@ -358,7 +358,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |[Saginaw, MI (5105 Bay Rd)]({{< ref "wiki/Saginaw, MI (5105 Bay Rd).md" >}})
 |Sometime in 1991
 |Between 1999 and 2000
-|One of many 3-Stages replaced with a Studio C Alpha.
+|One of 6 3-Stages in Michigan to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.
 |-
 |[Chattanooga, TN (22 Northgate Park)]({{< ref "wiki/Chattanooga, TN (22 Northgate Park).md" >}})
 |Sometime in 1991
@@ -388,7 +388,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |[Fayetteville, AR (1330 N College Ave)]({{< ref "wiki/Fayetteville, AR (1330 N College Ave).md" >}})
 |Sometime in 1991
 |September 2010
-|Underwent Concept Unification just like the others in the state.
+|One of 4 3-Stages in Arkansas to undergo Concept Unification.
 |-
 |[Garland, TX (1340 W Centerville Rd)]({{< ref "wiki/Garland, TX (1340 W Centerville Rd).md" >}})
 |Sometime in 1991
@@ -418,7 +418,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |[Little Rock, AR (10901 N Rodney Parham Road 303)]({{< ref "wiki/Little Rock, AR (10901 N Rodney Parham Road 303).md" >}})
 |Sometime in 1991
 |April 19, 2014
-|Underwent Concept Unification just like the others in the state.
+|One of 4 3-Stages in Arkansas to undergo Concept Unification.
 |-
 |[Parkersburg, WV (3500 Murdoch Ave)]({{< ref "wiki/Parkersburg, WV (3500 Murdoch Ave).md" >}})
 |March 1991
@@ -581,7 +581,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |One of 10 3-Stages in Illinois to undergo Concept Unification. 3-Stage was replaced with a recycled 1-Stage from [Waukegan, IL (2211 Grand Ave)]({{< ref "wiki/Waukegan, IL (2211 Grand Ave).md" >}}) between 1997 and 2005.
 |-
 |[Wilmington, NC (4389 Oleander Dr)]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}})
-|Sometime in 1991
+|Between 1991 and 1992
 |October 13, 2020
 |One of 6 3-Stages in North Carolina to undergo Concept Unification. Fourth-to-last 3-Stage in North Carolina from March 1996 until stage removal and store closure in October 2020. Last location to have all prop characters, including Munch Jr. Was in Decent Condition, Helen had ginger hair, Pasqually had TKO drumfront, stage had Pizzacam. Animatronics from this store, minus the Wink, are now privately owned by the store's tech, [https://www.youtube.com/@cectechman CEC TechMan].
 |-
@@ -818,7 +818,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |[North Little Rock, AR (4120 Landers Rd)]({{< ref "wiki/North Little Rock, AR (4120 Landers Rd).md" >}})
 |Between 1991 and 1992
 |August 2019
-|Underwent Concept Unification just like the others in the state. Last MMBB stage and 3-Stage in Arkansas. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' outfit and Wink had 'In Pizza We Trust' slogan.
+|One of 4 3-Stages in Arkansas to undergo Concept Unification. Last MMBB stage and 3-Stage in Arkansas. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' outfit and Wink had 'In Pizza We Trust' slogan.
 |-
 |[Fairfax, VA (9404 Main St)]({{< ref "wiki/Fairfax, VA (9404 Main St).md" >}})
 |Between 1991 and 1992
@@ -827,7 +827,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |-
 |[Dothan, AL (3400 Ross Clark Circle)]({{< ref "wiki/Dothan, AL (3400 Ross Clark Circle).md" >}})
 |Between 1991 and 1992
-|April 1992
+|April 22, 1998
 |One of 7 3-Stages in Alabama to undergo Concept Unification.
 |-
 |[Asheville, NC (34 Tunnel Rd)]({{< ref "wiki/Asheville, NC (34 Tunnel Rd).md" >}})
@@ -843,7 +843,7 @@ Note: Contains only confirmed installations, and may not be in order.
 |[Fort Smith, AR (1200 S Waldron Rd)]({{< ref "wiki/Fort Smith, AR (1200 S Waldron Rd).md" >}})
 |Between 1991 and 1992
 |October 2018
-|Underwent Concept Unification just like the others in the state. Was in Decent Condition. Chuck had rare 'Cool Chuck' outfit, Pasqually had CU Drumfront, Stage lacked Munch's Make Believe Band Sign, and Wink had 'In Pizza We Trust' slogan.
+|One of 4 3-Stages in Arkansas to undergo Concept Unification. Was in Decent Condition. Chuck had rare 'Cool Chuck' outfit, Pasqually had CU Drumfront, Stage lacked Munch's Make Believe Band Sign, and Wink had 'In Pizza We Trust' slogan.
 |-
 |[Paducah, KY (5141 Hinkleville Rd)]({{< ref "wiki/Paducah, KY (5141 Hinkleville Rd).md" >}})
 |September 1992

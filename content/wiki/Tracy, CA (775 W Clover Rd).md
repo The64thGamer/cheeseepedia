@@ -2,14 +2,14 @@
 title = "Tracy, CA (775 W Clover Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-15T16:25:02Z
+date = 2024-09-09T17:52:22Z
 
 [Article]
-contributors = ["CorrectorMan","Rexburg090","Tux Chuck"]
+contributors = ["CorrectorMan","Rexburg090","Tux Chuck","CECLover"]
 gallery = ["Tracy, California's exterior before becoming Stars Casino.jpg|thumb|Tracy's exterior before becoming a casino. (PC: crexi.com)"]
 +++
 
-**_775 W Clover Rd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in 1983 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in 1995 (month and day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). Not much info is really known about Tracy, but it was featured in footage from 1992 along with many other stores.
+**_775 W Clover Rd**_ was a _Chuck E. Cheese's Pizza Time Theatre_ that opened in 1983 (month and day unknown) with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}) and closed in  January 1995 (day unknown) with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}). Not much info is really known about Tracy, but it was featured in footage from 1992 along with many other stores.
 
 ## Stages ##
 Tracy opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.md" >}}), but we don't know much about it, along with [Chuck E.'s House Facade]({{< ref "wiki/Chuck E's House Facade.md" >}}) when it was installed in 1989/1990. After the location closed in 1995, their show's fate is unknown.

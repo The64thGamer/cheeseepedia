@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Reel"
 draft = false
-tags = ["Showtape Formats"]
+tags = ["Showtape"]
 date = 2022-12-07T22:34:34Z
 
 [Article]

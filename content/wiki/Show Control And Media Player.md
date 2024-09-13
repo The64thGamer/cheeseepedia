@@ -1,7 +1,7 @@
 +++
 title = "Show Control And Media Player"
 draft = false
-tags = []
+tags = ["Animatronic Control Hardware & Software"]
 date = 2022-08-06T13:22:33Z
 
 [Article]

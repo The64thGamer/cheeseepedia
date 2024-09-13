@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Balcony Stage"
 draft = false
-tags = []
+tags = ["Stage Variations"]
 date = 2024-05-17T13:58:00Z
 
 [Article]

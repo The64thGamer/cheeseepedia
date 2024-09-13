@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Helen (Helen Henny Retrofit)"
 draft = false
-tags = []
+tags = ["BlurbPumpkinFestivalBand"]
 date = 2022-12-07T19:13:04Z
 
 [Article]

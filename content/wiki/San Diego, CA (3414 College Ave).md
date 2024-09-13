@@ -2,7 +2,7 @@
 title = "San Diego, CA (3414 College Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-05T21:17:26Z
+date = 2024-09-13T01:52:13Z
 
 [Article]
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005","Caydenpedia"]
@@ -15,7 +15,7 @@ This location should not be confused with [the El Cajon Blvd location]({{< ref "
 This location is one of the 5 CEC's in the San Diego area.
 
 ## History ##
-This location opened on December 19, 2012 in the Marketplace At The Grove shopping center with a Circles Of Light, 16m, it was the 6th store to open with a Circles Of Light, 16m, and the first Circles Of Light in the state of California. In early 2024, The location received the CEC 2018 2.0 Remodel Program (CEC 2.0 Refresh Remodel Program) and the animatronic was been removed for a Dance Floor.  
+This location opened on December 19, 2012 in the Marketplace At The Grove shopping center with a Circles Of Light, 16m, it was the 6th store to open with a Circles Of Light, 16m, and the first Circles Of Light in the state of California. In early 2024, The location received the CEC 2018 2.0 Remodel Program (CEC 2.0 Refresh Remodel Program) and the animatronic was removed for a Dance Floor.  
 
 ## Stages ##
 This location opened with a Circles Of Light, 16m, and was the first COL in California. By June 2022, the Chuck E. animatronic was in disrepair, with only the movements in his body working (arm movements, body movements, and head movements) and the movements in his face (mouth, eye turns, and eyelid movement) being broken. In early 2024, the animatronic was removed for a Dance Floor during the San Diego store's 2.0 refresh remodel, while keeping the Circles of Light itself. They were the last Circles Of Light in California to have an animatronic after the [Los Angeles (2706 Wilshire Blvd)]({{< ref "wiki/Los Angeles, CA (2706 Wilshire Blvd).md" >}}) location closed back on September 13, 2020.

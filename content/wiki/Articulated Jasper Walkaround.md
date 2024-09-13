@@ -1,7 +1,7 @@
 +++
 title = "Articulated Jasper Walkaround"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2024-04-08T02:19:39Z
 
 [Article]

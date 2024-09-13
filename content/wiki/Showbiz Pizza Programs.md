@@ -1,11 +1,11 @@
 +++
 title = "Showbiz Pizza Programs"
 draft = false
-tags = []
-date = 2023-12-08T00:55:22Z
+tags = ["BlurbShowbiz"]
+date = 2024-09-13T09:16:56Z
 
 [Article]
-contributors = ["The 64th Gamer","DerekCat"]
+contributors = ["The 64th Gamer"]
 gallery = []
 +++
 {{Generic|image=Showbizppp10.png|desc=Showbiz Pizza Program #10}}

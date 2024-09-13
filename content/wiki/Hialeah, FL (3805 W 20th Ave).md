@@ -2,7 +2,7 @@
 title = "Hialeah, FL (3805 W 20th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-16T16:07:13Z
+date = 2024-09-12T01:34:17Z
 
 [Article]
 contributors = ["ChuckECool","216.125.34.66","CEC Tinley","CEC Hialeah","ShowbizMidwest","Cheeseclassic","Stripes","AstridMascotFan2005","The 64th Gamer","CEC1988","ThatBoiCydalan","Jaxonia"]
@@ -16,16 +16,16 @@ It is located in the Westland Promenade Shopping Mall. It should not be confused
 ## Stages ##
 
 ### 1990s ###
-Like all Road Stages at the time, Chuck wore his tuxedo & derby outfit And Helen's box was originally blue. Up and down curtains were added by the Late 90's, and Helen’s box was painted pink. Unfortunately, there are **no** **photos** or **no** videos to exist of Hialeah with the Road Stage in the 1990s. 
+Like all Road Stages at the time, Chuck wore his tuxedo & derby outfit And Helen's box was originally blue. Up and down curtains were added by the Late 90's, and The Road Stage was modified such as Helen’s box being pink and Munch’s front organ blue.  
 
 ### 2000s ###
-In the Early-Mid 2000's, the tuxedo was replaced with the Cool Chuck outfit and a new TV was added. Around 2000s, Munch's front of the organ turns into blue. Unfortunately, there are **no** **photos** or **no** videos to exist of Hialeah with the Road Stage in the 2000s. 
+In the Early-Mid 2000's, the tuxedo was replaced with the Cool Chuck outfit and a new TV was added but still kept the 90s rear TV Projection (but was removed either before or after the Phase 4 remodel).  
 
 ### 2010s ###
-Between 2011-early 2012, Jasper's PTT mask was replaced and received his new mask. In September 2012, Chuck's Cool Chuck outfit was replaced with the Avenger outfit. His hat was removed in September 2013. Between March-June 2015, Pasqually’s PTT arms were replaced with the standard drumming arms. In 2015 a flat screen TV was added. In 2016, Chuck E. received the new Rockstar jeans and Munch's hat was removed. Sometime around late 2016, Neon lights were added to buildings of the Road Stage. The removal of Jasper's hat occurred between January-March 2019. Unfortunately, there are **no** **photos** or **no** videos to exist of Hialeah with the Road Stage from 2010-2014. 
+Between 2011-early 2012, Jasper's PTT mask was replaced and received his new mask. In September 2012, Chuck's Cool Chuck outfit was replaced with the Avenger outfit. His hat was removed in September 2013 due to Rockstar Chuck. Between March-June 2015, Pasqually’s PTT arms were replaced with the standard drumming arms. In 2015 a flat screen TV was added. In 2016, Chuck E’s eye color changes to green and he received the new Rockstar jeans while keeping his Avenger shirt later that year. Munch’s hat was removed at that time. Sometime around late 2016, Neon lights were added to buildings of the Road Stage. The removal of Jasper's hat occurred between January-March 2019.  
 
 ### 2020s ###
-Around 2020 and 2021, The Road Stage fell into a state of disrepair, As Helen couldn’t move nor move her eyes, Munch couldn’t touch his keyboard, And Jasper was completely aired down for a year and the spotlights (Including the wink Spotlight) were broken. 
+Around 2020 and 2021, The Road Stage fell into a state of disrepair after reopening from the pandemic, As Helen couldn’t move nor move her eyes, Munch couldn’t touch his keyboard, And Jasper was completely aired down for a year and the spotlights (Including the wink Spotlight) were broken.  
 
 The stage was removed on November 28th, 2021, for the 2.0 Remodel and Dance Floor with the video wall. All of the animatronics  were being destroyed.  It’s also noteworthy that Hialeah was the first Road Stage removed for 2.0. 
 
@@ -54,16 +54,16 @@ The stage was removed on November 28th, 2021, for the 2.0 Remodel and Dance Floo
 As of December 2023, Hialeah still has the Dance Floor with the video wall and 2.0 Remodel.
 
 ## History ##
-Hialeah opened on April 2nd, 1991, as a corporate-owned location. Hialeah opened with the 1988 Remodel including the CU decor, the ball pit and the Road Stage. There are no photos or no videos to exist of Hialeah with the Exterior or the store with the 1988 Remodel in general.
+Hialeah opened on April 2nd, 1991, as a corporate-owned location. Hialeah opened with the 1988 Remodel including the CU decor, the ball pit and the Road Stage. 
 
 ### Phase 3: Mid-late 1990s-2009/2010 ###
-Around the mid-late 1990s, Hialeah replaced their logo with Coach Chuck and removed older 90's decor for newer decor, the removal of the ball pit for Sky Tubes, and Helen’s box was painted pink. In 2005, for unknown reasons, the 2000s Avenger Chuck Logo was installed replacing Coach Chuck, and one section of the awnings were removed. In 2008, They received their purple awnings. There are no photos or no videos to exist of Hialeah with the Exterior or the store with Phase 3 in general.   
+Around the mid-late 1990s, Hialeah replaced their logo with Coach Chuck and removed older 90's decor for newer decor, the removal of the ball pit for Sky Tubes, and The Road Stage was modified. Around 2005 and 2006, for unknown reasons, the 2004 Avenger Chuck Logo was installed replacing Coach Chuck, and one section of the awnings were removed. In 2008, They received their purple awnings.     
 
 ### Phase 4: 2009/2010-2021 ###
-Around 2009-2010, Hialeah remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' Reconfiguration / Major Remodel Initiative) which involved the removal of the showroom walls, removing older decor for newer decor, new booths, & adding purple walls. The store was also expanded by taking over China Buffet's former space (which moved to the other side of the shopping center). Around 2010-2011, The Ticket Blaster was added to the store which was placed next to the Road Stage. The Purple awnings were modified from March to April 2013. In 2015, Hialeah along with 6 other stores tested out the Lazer Challenge which was then removed by 2019-2020. By 2018, The Toddler Zone Fences were removed. In 2020, The Sky tubes and the Toddler Zone Play Areas were removed. There are photos and videos to exist of Hialeah with Phase 4 in general.  
+Around 2009-2010, Hialeah remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative ('Cool Chuck' Reconfiguration / Major Remodel Initiative) which involved the removal of the showroom walls, removing older decor for newer decor, & adding purple walls. The store was also expanded which prompted China Buffet move to the other side of the shopping center. Around 2010-2011, The Ticket Blaster was added to the store which was placed next to the Road Stage. The Purple awnings were modified from Late January to April 2013. In 2015, Hialeah along with 6 other stores tested out the Lazer Challenge which was then removed by 2019-2020. By 2018, The Toddler Zone Fences were removed. In 2020, The Sky tubes and the Toddler Zone Play Areas were removed due to the Pandemic.    
 
 ### 2.0: 2021/2022-present ###
-Hialeah remained like this until November 21st, 2021, when they received the 2.0 remodel and removed the Road Stage for the Dance Floor and had the Showroom relocate to the back of the store where used the Gameroom used to be. T 
+Hialeah remained like this until November 21st, 2021, when they received the 2.0 remodel and removed the Road Stage for the Dance Floor and had the Showroom relocate to the back of the store where the Gameroom used to be.  
 
 They also remodeled the entire exterior keeping the purple awnings (Which was then removed on December 2022 being replaced by 2.0 awnings a month later). On February 3rd, 2022, the store had it's grand reopening, with Chuck and Helen making an appearance at the store. The exterior was repainted covering the scars from the old awnings in April 2023. On January 3rd, 2024, The Trampoline Zone was added to the Location. On May 15th 2024, A part of the exterior was worn off because It was raining for a few days. Repainting began on May 17th 2024, And a few days later it was completed. As of May 2024, Hialeah remains like this with the 2.0 Remodel and the Dance Floor. 
 

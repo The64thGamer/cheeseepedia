@@ -1,7 +1,7 @@
 +++
 title = "Studio C 3x DVD + Floppy"
 draft = false
-tags = ["Showtape Formats"]
+tags = ["Showtape"]
 date = 2024-01-22T01:58:07Z
 
 [Article]

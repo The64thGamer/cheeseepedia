@@ -1,7 +1,7 @@
 +++
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
-tags = []
+tags = ["BlurbRockyRailroad"]
 date = 2024-08-12T21:18:53Z
 
 [Article]

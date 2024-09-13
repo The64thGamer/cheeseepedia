@@ -1,7 +1,7 @@
 +++
 title = "Reading, PA (3400 Plaza Dr 3)"
 draft = false
-tags = []
+tags = ["BlurbMajorMagic"]
 date = 2024-07-30T15:35:53Z
 
 [Article]

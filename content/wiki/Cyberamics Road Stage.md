@@ -1,8 +1,8 @@
 +++
 title = "Cyberamics Road Stage"
 draft = false
-tags = []
-date = 2024-08-07T03:03:24Z
+tags = ["Stage Variations"]
+date = 2024-09-12T00:57:12Z
 
 [Article]
 contributors = ["Bowling for Cheese","2601:191:8580:9F90:A565:8F5B:33A1:163E","BigCtheDataFinder","2600:387:5:807:0:0:0:6F","67.87.119.58","Sponch man","168.69.254.247","TrimSafe6859","CECBowlingGreen","ShowbizMidwest","RPCEC Backup","The 64th Gamer","ThatBoiCydalan","Rexburg090","Maddox121","170.185.215.34","173.216.33.6","216.125.34.66","CorrectorMan","CEC Kokomo","Letterstolooneybird","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CoolerDude","Ceclife13","AstridMascotFan2005","Cy's Junk at School"]
@@ -29,6 +29,9 @@ Curtains were not originally a part of this stage's design, but several installa
 Also, not originally part of the Road Stage, Mr. Munch and Pasqually figures would retain their armatures from the Pizza Time Theatre era in a majority of initial installations. When the 2-Stage was rolled out in 1992, Road Stages were given the opportunity to replace these armatures with new, appropriate arms by Kinetix so both Munch and Pasqually could play the organ and drums properly respectively. Albeit some of these would be very different than 2-Stage and 1-Stage armatures in positioning alone, making them more unique.
 
 This stage would be the final time Mr. Munch and Pasqually Cyberamics would be allowed to have body turns along with their head turns as since the creation of the 2-Stage and 1-Stage, it was instructed to secure the body turn mechanism down by removing the shoulder strap pins/stop plates and bolting a 1 1/2* 'L' bracket to the front of their base supports. This means only both their heads could turn freely, but their bodies cannot so they can thus play their instruments without the possible risk of wear or damage from their restricted surroundings on those stages.<ref>http://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf</ref>
+
+
+W.I.P
 
 ## Current Road Stage ##
 Current Total Remaining: 1

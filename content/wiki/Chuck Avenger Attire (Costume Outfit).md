@@ -1,7 +1,7 @@
 +++
 title = "Chuck Avenger Attire (Costume Outfit)"
 draft = false
-tags = []
+tags = ["Costumed Characters"]
 date = 2023-02-04T05:47:55Z
 
 [Article]

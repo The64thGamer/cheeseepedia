@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Pasqually (Pasqually Retrofit)"
 draft = false
-tags = []
+tags = ["BlurbPumpkinFestivalBand"]
 date = 2022-12-07T06:34:30Z
 
 [Article]

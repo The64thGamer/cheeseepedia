@@ -2,11 +2,11 @@
 title = "'Chuck E. Cheese's Pizza' - Letters / Logo (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 2024-08-22T01:19:23Z
+date = 2024-09-10T16:49:54Z
 
 [Article]
-contributors = ["CEC1988"]
-gallery = ["CECPLogo.png|200px|thumb|Right|Used from 1987-2011 in a store, Used from 1987 to 2024 as a road sign"]
+contributors = ["CEC1988","CECLover"]
+gallery = ["Chucke-cheeses-pizza.svg|200px|thumb|Right|Used from 1987-2011 in a store, Used from 1987 to 2024 as a road sign"]
 +++
 
 ****Chuck. E. Cheese's Pizza**** was exterior signage produced for ShowBiz Pizza Time Inc from around 1987 to 1992/1993 for the [SPT 1988 Remodel Program]({{< ref "wiki/SPT 1988 Remodel Program.md" >}}). 

@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Program 15"
 draft = false
-tags = []
+tags = ["Showbiz Pizza Programs"]
 date = 2022-07-15T22:43:39Z
 
 [Article]

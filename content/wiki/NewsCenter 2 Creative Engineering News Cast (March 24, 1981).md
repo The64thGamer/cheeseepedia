@@ -1,7 +1,7 @@
 +++
 title = "NewsCenter 2 Creative Engineering News Cast (March 24, 1981)"
 draft = false
-tags = []
+tags = ["News Footage"]
 date = 2023-02-04T01:53:38Z
 
 [Article]
