@@ -1,0 +1,10 @@
++++
+title = "News_Articles#tabber-Chuck_E._Cheese's"
+draft = false
+tags = [ChuckE.Cheese's]
+date = ""
+
+[Article]
+contributors = []
+gallery = []
++++

@@ -1,11 +1,10 @@
 +++
 title = "YMCA 03"
 draft = false
-tags = ["Live Shows"]
-date = 2022-02-21T05:15:16Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer"]
+contributors = []
 gallery = []
 +++
-## Showtape Scans / Images: ##

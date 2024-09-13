@@ -1,81 +1,10 @@
 +++
 title = "Chuck E. Cheese's Show 2 2016"
 draft = false
-tags = ["Live Shows"]
-date = 2024-02-16T04:10:07Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer","Documentor","YoyoandRonnie"]
-gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
+contributors = []
+gallery = []
 +++
-{{Showtape
-|title = Chuck E. Cheese's Show 7 2015 
-|image=Show216.png
-|date=December 28th 2015
-|studioc=y
-|studiochd=y
-|dvdcu=y
-|dvdcyber=y
-}}
-
-**_Chuck E. Cheese's Show 2 2016**_ released February 29th 2016 featuring four songs
-
-This was created to play from February 29th, 2016 - March 27th, 2016. This show features 4 songs.
-
-## Show List: ##
-
-#  **Intermission 1**
-## Coldplay - 'Adventures of Lifetime'
-## CEC Promo - 'Buffet'
-## Chef Gregory Part 1
-# **Skit 1**
-## Chuck E. & Friends - 'In The Future'
-# **Intermission 2**
-##  Demi Lovato - 'Let It Go'
-##  Chef Gregory Part 2
-## Pharrell Williams - 'Happy'
-## CEC Promo - 'Chuck E. Live'
-# **Skit 2**
-## Mr. Munch - 'Nobody Knows'
-# **Intermission 3**
-##  Skyler Stecker - 'Crazy Beautiful'
-## CEC Sketch - 'Coconuts'
-## Josh  & The Jamtones - 'Bear Hunt'
-##  Walk The Moon - 'Different Colors'
-## CEC Promo - 'Birthdays'
-##  Caspar Babypants - 'I Found You'
-##  Sigala - 'Easy Love'
-## Josh & The Jamtones - 'Sloop John B'
-# **Skit 3**
-## Chuck E. & Helen - 'It's A Date'
-# **Intermission 4**
-##  Chuck E. Cheese Food Truck Video
-## CEC Sketch - Jokes From Pasqually - 'Monkeys'
-##  Caspar Babypants - 'Bird In An Airplane Suit'
-## Taylor Swift - 'Shake It Off'
-# **Skit 4**
-## Chuck E. & Friends - 'Because We're Friends'
-
-## Lives: ##
-
-* Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
-* Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
-* Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-* Chuck E.'s Happy Dance (3stage, Cyberamic, Studio C,Weigl)
-* Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-* Do The Roll (3stage, Cyberamic, Studio C,Weigl)
-* Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-* Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-* Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
-
-##Showtape Scans / Images:##
-
-
-## Trivia: ##
-
-* For Existing stages only after 'Because We're Friends' would play the final few seconds of the _Bobby Bear & Three Mice' during the 90s Wink part. 
-* This was the final showtape to use Chuck E. Birthday 2015. 
-
-* 'It's A Date' is now programmed for the US stores.
-
-* The 'Timecode' addition for this show is behind the scenes clips of the 'Chef Gregory' Intermission.

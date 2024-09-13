@@ -1,7 +1,7 @@
 +++
 title = "Showbiz Pizza Programs"
 draft = false
-tags = ["BlurbShowbiz"]
+tags = ["Showbiz"]
 date = 2024-09-13T09:16:56Z
 
 [Article]

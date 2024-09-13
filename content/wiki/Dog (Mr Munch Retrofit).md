@@ -1,7 +1,7 @@
 +++
 title = "Dog (Mr. Munch Retrofit)"
 draft = false
-tags = ["BlurbFunZone"]
+tags = ["FunZone"]
 date = 2024-03-06T16:00:50Z
 
 [Article]

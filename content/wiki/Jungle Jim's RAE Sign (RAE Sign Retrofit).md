@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's RAE Sign (RAE Sign Retrofit)"
 draft = false
-tags = ["BlurbJungleJims"]
+tags = ["JungleJims"]
 date = 2023-05-10T17:55:43Z
 
 [Article]

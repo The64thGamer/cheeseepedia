@@ -1,7 +1,7 @@
 +++
 title = "Rocky the Panda (Chuck E. Cheese Retrofit)"
 draft = false
-tags = ["BlurbRockyRailroad"]
+tags = ["RockyRailroad"]
 date = 2024-03-05T13:30:15Z
 
 [Article]

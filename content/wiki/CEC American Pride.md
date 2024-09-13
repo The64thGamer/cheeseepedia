@@ -1,94 +1,10 @@
 +++
 title = "CEC American Pride"
 draft = false
-tags = ["Live Shows"]
-date = 2024-09-02T17:59:22Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Cy's Junk at School"]
-gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
+contributors = []
+gallery = []
 +++
-{{Showtape|image=Usa93.jpg|date=May 7, 1991|cusvhs=y|r12=y|c&r=y}}
-
-**American Pride** is a Patriotic themed show that played at Chuck E Cheese's, not to be confused with [CEC American Pride / Neighbors]({{< ref "wiki/CEC American Pride  Neighbors.md" >}}) it is the very first Munch's Make Believe Bands Patriotic showtape.
-
-##Show List##
-#**Intermission 1**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Good_Vibrations Good Vibrations]
-###Birthday Extravaganza
-###[https://en.wikipedia.org/wiki/Peter_Gunn_(song) The Peter Gunn Theme]
-###[https://en.wikipedia.org/wiki/Those_Lazy-Hazy-Crazy_Days_of_Summer_(song) Those Lazy, Hazy, Crazy Days Of Summer]
-##Geography Rap - Australia
-##CEC-TV Intro
-#** Segment 1**
-##America The Beautiful
-##Yankee Doodle
-##Oh Susanna
-##Children Of America
-#**Intermission 2**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Uptown_Girl Uptown Girl]
-###Birthday Extravaganza
-###[https://en.wikipedia.org/wiki/Dancing_on_the_Ceiling_(Lionel_Richie_song) Dancing on the Ceiling]
-###[https://en.wikipedia.org/wiki/I%27m_Walkin%27 I'm Walkin']
-##Helen Henny's Hollywood - Lassie
-##CEC-TV Intro
-#** Segment 2**
-##Rockin' State
-##My Country
-##This Land Is My Land
-#**Intermission 3**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Walkin%27_After_Midnight Walkin' After Midnight]
-###[https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me) I Wanna Dance with Somebody]
-###Birthday Extravaganza
-###[https://en.wikipedia.org/wiki/Hit_the_Road_Jack Hit the Road Jack]
-##CEC-TV News - Pasqually's Phone Call
-##CEC-TV Intro
-#** Segment 3**
-##Oh I Think My Pride Is Showing Again
-##You're A Grand Old Flag
-#**Intermission 4**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Sussudio Sussudio]
-###Birthday Extravaganza
-###[https://en.wikipedia.org/wiki/Heat_Wave_(1963_song) Heatwave]
-###[https://en.wikipedia.org/wiki/Rock%27n_Me Rock'n Me]
-##Geography Rap - Australia
-##CEC-TV Intro
-#** Segment 1**
-##America The Beautiful
-##Yankee Doodle
-##Oh Susanna
-##Children Of America
-#**Intermission 5**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Rock%27n_Me Rock'n Me]
-###Birthday Extravaganza
-###[https://en.wikipedia.org/wiki/Classical_Gas Classical Gas]
-###[https://en.wikipedia.org/wiki/Little_Darlin%27 Little Darlin' (By The Diamonds)]
-##Helen Henny's Hollywood - Lassie
-##CEC-TV Intro
-#** Segment 2**
-##Rockin' State
-##My Country
-##This Land Is My Land
-#**Intermission 6**
-##8 Minute Countdown
-###[https://en.wikipedia.org/wiki/Peppermint_Twist Peppermint Twist]
-###[https://en.wikipedia.org/wiki/Walk,_Don%27t_Run_(instrumental) Walk, Don't Run]
-###Birthday Extravaganza
-### [https://en.wikipedia.org/wiki/Walk_of_Life Walk of Life]
-##CEC-TV News - Pasqually's Phone Call
-##CEC-TV Intro
-#** Segment 3**
-##Oh I Think My Pride Is Showing Again
-##You're A Grand Old Flag
-
-## Trivia: ##
-
-* The intermission music is the same as [SPP Best of 4]({{< ref "wiki/SPP Best Of 4.md" >}}).
-* The first show to introduce the CEC-TV Specials (Geography Rap, Helen Henny's Hollywood, CEC-TV News), all of them except this specific CEC-TV News which doesn't get reused in future shows.
-* This show introduced a brand new Helen Henny walkaround costume.
-* This showtape marks the first time different shows were sent out to international locations, as the single Chuck E. Cheese's Pizza location in Canada (at the time) played the CEC TV Classics '91 show instead.

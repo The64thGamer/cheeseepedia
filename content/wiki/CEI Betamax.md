@@ -1,7 +1,7 @@
 +++
 title = "CEI Betamax"
 draft = false
-tags = ["Showtape"]
+tags = ["Showtape Formats"]
 date = 2024-08-20T13:03:57Z
 
 [Article]

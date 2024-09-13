@@ -1,7 +1,7 @@
 +++
 title = "Cyberamics Betamax"
 draft = false
-tags = ["Showtape"]
+tags = ["Showtape Formats"]
 date = 2023-10-12T18:28:53Z
 
 [Article]

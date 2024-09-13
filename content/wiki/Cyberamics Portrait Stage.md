@@ -1,11 +1,10 @@
 +++
 title = "Cyberamics Portrait Stage"
 draft = false
-tags = ["Stage Variations"]
-date = 2023-01-26T01:28:09Z
+tags = [Stage Variations]
+date = ""
 
 [Article]
-contributors = ["BurgersNuggs445"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [Cyberamics Portrait / Shelf Stage]({{< ref "wiki/Cyberamics Portrait  Shelf Stage.md" >}})

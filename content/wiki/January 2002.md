@@ -1,11 +1,10 @@
 +++
 title = "January 2002"
 draft = false
-tags = ["Live Shows"]
-date = 2023-05-23T00:27:38Z
+tags = [Live Shows]
+date = ""
 
 [Article]
-contributors = ["Agent 5"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [January 2002 Show]({{< ref "wiki/January 2002 Show.md" >}})

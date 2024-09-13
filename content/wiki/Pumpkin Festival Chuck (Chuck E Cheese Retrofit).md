@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"
 draft = false
-tags = ["BlurbPumpkinFestivalBand"]
+tags = ["PumpkinFestivalBand"]
 date = 2024-03-06T13:56:33Z
 
 [Article]

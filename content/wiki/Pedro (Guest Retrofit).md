@@ -1,7 +1,7 @@
 +++
 title = "Pedro (Guest Retrofit)"
 draft = false
-tags = ["BlurbJungleJims"]
+tags = ["JungleJims"]
 date = 2023-05-16T18:54:15Z
 
 [Article]

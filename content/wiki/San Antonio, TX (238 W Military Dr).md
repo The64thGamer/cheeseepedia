@@ -1,11 +1,10 @@
 +++
 title = "San Antonio, TX (238 W Military Dr)"
 draft = false
-tags = ["Store List"]
-date = 2023-02-23T02:14:07Z
+tags = [Store List]
+date = ""
 
 [Article]
-contributors = ["Rexburg090"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [San Antonio, TX (238 SW Military Dr)]({{< ref "wiki/San Antonio, TX (238 SW Military Dr).md" >}})

@@ -1,11 +1,10 @@
 +++
 title = "Sacramento, CA (7020 Stockton Blvd)"
 draft = false
-tags = ["Store List"]
-date = 2023-03-04T00:58:03Z
+tags = [Store List]
+date = ""
 
 [Article]
-contributors = ["Rexburg090"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [Sacramento (Florin Mall), CA (7020 Stockton Blvd)]({{< ref "wiki/Sacramento (Florin Mall), CA (7020 Stockton Blvd).md" >}})

@@ -1,7 +1,7 @@
 +++
 title = "New Fandom Member F.A.Q."
 draft = false
-tags = ["BlurbWelcome"]
+tags = ["Welcome"]
 date = 2024-08-17T03:31:31Z
 
 [Article]

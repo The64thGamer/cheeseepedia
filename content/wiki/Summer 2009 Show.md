@@ -1,13 +1,10 @@
 +++
 title = "Summer 2009 Show"
 draft = false
-tags = ["Live Shows"]
-date = 2024-07-30T13:14:25Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer","Documentor","Dame","AstridMascotFan2005"]
+contributors = []
 gallery = []
 +++
-{{NonStandard}}
-
-##Showtape Scans / Images:##

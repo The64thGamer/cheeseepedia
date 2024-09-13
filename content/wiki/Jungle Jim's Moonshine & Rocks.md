@@ -1,7 +1,7 @@
 +++
 title = "Jungle Jim's Moonshine & Rocks"
 draft = false
-tags = ["BlurbJungleJims"]
+tags = ["JungleJims"]
 date = 2023-05-16T18:50:50Z
 
 [Article]

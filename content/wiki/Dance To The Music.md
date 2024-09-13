@@ -1,11 +1,10 @@
 +++
 title = "Dance To The Music"
 draft = false
-tags = ["Live Shows"]
-date = 2022-06-03T05:41:21Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer"]
+contributors = []
 gallery = []
 +++
-

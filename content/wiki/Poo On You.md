@@ -1,13 +1,10 @@
 +++
 title = "Poo On You"
 draft = false
-tags = ["Showtapes"]
-date = 2021-12-16T17:20:49Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer"]
+contributors = []
 gallery = []
 +++
-TODO:
-
-The first and only Mini Billy Bob show with a digital showtape.

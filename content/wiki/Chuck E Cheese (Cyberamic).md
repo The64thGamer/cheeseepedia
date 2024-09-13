@@ -1,11 +1,10 @@
 +++
 title = "Chuck E Cheese (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-date = 2023-01-25T18:32:45Z
+tags = [Animatronics]
+date = ""
 
 [Article]
-contributors = ["ChuckEPediaIsTheBest!"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [Chuck E. Cheese (Cyberamic)]({{< ref "wiki/Chuck E Cheese (Cyberamic).md" >}})

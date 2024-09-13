@@ -1,7 +1,7 @@
 +++
 title = "Elvis (The King Retrofit)"
 draft = false
-tags = ["BlurbJungleJims"]
+tags = ["JungleJims"]
 date = 2024-02-26T02:06:58Z
 
 [Article]

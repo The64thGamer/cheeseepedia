@@ -1,0 +1,10 @@
++++
+title = "Casual Purple Shirt and Green Jacket (Costume Outfit)"
+draft = false
+tags = [Costumed Characters]
+date = ""
+
+[Article]
+contributors = []
+gallery = []
++++

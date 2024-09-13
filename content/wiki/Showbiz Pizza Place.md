@@ -1,11 +1,10 @@
 +++
 title = "Showbiz Pizza Place"
 draft = false
-tags = ["Restaurants & Company History"]
-date = 2023-12-27T04:20:06Z
+tags = [Restaurants & Company History]
+date = ""
 
 [Article]
-contributors = ["Saan1ty"]
+contributors = []
 gallery = []
 +++
-#REDIRECT [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place.md" >}})

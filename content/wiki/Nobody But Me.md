@@ -1,11 +1,10 @@
 +++
 title = "Nobody But Me"
 draft = false
-tags = ["Live Shows"]
-date = 2022-02-21T05:16:10Z
+tags = [Showtapes]
+date = ""
 
 [Article]
-contributors = ["The 64th Gamer"]
+contributors = []
 gallery = []
 +++
-## Showtape Scans / Images: ##

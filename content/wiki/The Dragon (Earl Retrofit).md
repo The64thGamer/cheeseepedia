@@ -1,7 +1,7 @@
 +++
 title = "The Dragon (Earl Retrofit)"
 draft = false
-tags = ["BlurbTexasStateFair"]
+tags = ["TexasStateFair"]
 date = 2022-07-19T19:20:59Z
 
 [Article]

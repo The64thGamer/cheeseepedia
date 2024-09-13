@@ -1,7 +1,7 @@
 +++
 title = "Cow (Pasqually Retrofit)"
 draft = false
-tags = ["BlurbFunZone"]
+tags = ["FunZone"]
 date = 2024-03-06T16:01:31Z
 
 [Article]

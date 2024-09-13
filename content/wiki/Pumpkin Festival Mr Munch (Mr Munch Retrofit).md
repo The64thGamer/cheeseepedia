@@ -1,7 +1,7 @@
 +++
 title = "Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"
 draft = false
-tags = ["BlurbPumpkinFestivalBand"]
+tags = ["PumpkinFestivalBand"]
 date = 2023-03-22T19:56:51Z
 
 [Article]

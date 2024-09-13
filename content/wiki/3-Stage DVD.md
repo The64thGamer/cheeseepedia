@@ -1,7 +1,7 @@
 +++
 title = "3-Stage DVD"
 draft = false
-tags = ["Showtape"]
+tags = ["Showtape Formats"]
 date = 2022-12-28T17:47:53Z
 
 [Article]
