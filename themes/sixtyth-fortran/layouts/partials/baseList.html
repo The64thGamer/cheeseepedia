@@ -33,7 +33,7 @@
     
     <div class="list-page-summary">
         {{ with .Summary }}
-            {{ . | safeHTML | truncate 175 "..." }}
+            {{ . | safeHTML | truncate 175 ". . ." }}
         {{ else }}
             (Article in progress. . .)
         {{ end }}
