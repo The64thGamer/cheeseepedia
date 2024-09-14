@@ -85,6 +85,7 @@ h1{
 }
 
 .list-page-block {
+  position: relative;
   color: var(--yellow);
   background-color: var(--blue);
   font-family: "RockoFLF";
