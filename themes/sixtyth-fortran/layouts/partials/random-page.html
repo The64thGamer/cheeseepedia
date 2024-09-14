@@ -1,7 +1,7 @@
 {{ $pages := where (shuffle (where .Site.RegularPages "Section" "wiki")) "Content" "!=" "" }}
 {{ $randomPage := index $pages 0 }}
 
-<div class="list-page-block">
+<div class="list-page-block-special">
     <h2>Random Article: <a href="{{ $randomPage.RelPermalink }}">{{ $randomPage.Title }} </a></h2> 
     <div class="list-page-summary">
         {{ $randomPage.Summary | safeHTML | truncate 175 "..." }}

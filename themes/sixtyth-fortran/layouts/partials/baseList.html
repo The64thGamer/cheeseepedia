@@ -12,15 +12,21 @@
             {{ end }}
         </a>
         <div class="list-page-date">
+            {{ $startCheck := false }}
             {{ with .Params.Article.startDate }}
-                ({{ . }})
-            {{ else }}
-                (??? -
+                {{ partial "date-to-readable-date.html" . }}
+                {{ $startCheck = true }}
             {{ end }}
             {{ with .Params.Article.endDate }}
-                ({{ . }})
+                {{ if $startCheck }}
+                {{" - "}}{{ partial "date-to-readable-date.html" . }}
+                {{ else }}
+                {{"? - "}}{{ partial "date-to-readable-date.html" . }}
+                {{ end }}
             {{ else }}
-                ???)
+                {{ if $startCheck }}
+                {{" - Present"}}
+                {{ end }}
             {{ end }}
         </div>
     </h2>
