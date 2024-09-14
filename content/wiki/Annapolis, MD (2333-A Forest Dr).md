@@ -2,7 +2,7 @@
 title = "Annapolis, MD (2333-A Forest Dr)"
 draft = false
 tags = ["Store List"]
-date = 09/08/2024
+date = "09/08/2024"
 
 [Article]
 startDate = "4/10/1993"

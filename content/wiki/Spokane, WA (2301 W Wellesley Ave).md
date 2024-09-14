@@ -2,7 +2,7 @@
 title = "Spokane, WA (2301 W Wellesley Ave)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2024
+date = "06/25/2024"
 
 [Article]
 startDate = "4/14/1983"

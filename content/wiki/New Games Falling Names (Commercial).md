@@ -2,7 +2,7 @@
 title = "New Games Falling Names (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 07/04/2023
+date = "07/04/2023"
 
 [Article]
 startDate = ""

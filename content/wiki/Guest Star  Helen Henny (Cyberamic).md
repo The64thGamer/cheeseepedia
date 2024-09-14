@@ -2,7 +2,7 @@
 title = "Guest Star / Helen Henny (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 07/07/2024
+date = "07/07/2024"
 
 [Article]
 startDate = ""

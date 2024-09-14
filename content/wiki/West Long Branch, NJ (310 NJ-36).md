@@ -2,7 +2,7 @@
 title = "West Long Branch, NJ (310 NJ-36)"
 draft = false
 tags = ["Store List"]
-date = 12/19/2023
+date = "12/19/2023"
 
 [Article]
 startDate = "11/20/2000"

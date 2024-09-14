@@ -2,7 +2,7 @@
 title = "Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"
 draft = false
 tags = ["Store List"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = "-/-/1996"

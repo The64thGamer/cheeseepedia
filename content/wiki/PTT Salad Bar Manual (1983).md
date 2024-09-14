@@ -2,7 +2,7 @@
 title = "PTT Salad Bar Manual (1983)"
 draft = false
 tags = ["Documents"]
-date = 12/08/2022
+date = "12/08/2022"
 
 [Article]
 startDate = ""

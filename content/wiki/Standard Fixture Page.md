@@ -2,7 +2,7 @@
 title = "Standard: Fixture Page"
 draft = false
 tags = ["Standards Pages"]
-date = 07/20/2023
+date = "07/20/2023"
 
 [Article]
 startDate = ""

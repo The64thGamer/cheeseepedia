@@ -2,7 +2,7 @@
 title = "CEC Stage Diagnostics 1992"
 draft = false
 tags = []
-date = 06/21/2024
+date = "06/21/2024"
 
 [Article]
 startDate = "-/-/1992"

@@ -2,7 +2,7 @@
 title = "Laurel, MD (936 Fairlawn Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/06/2024
+date = "07/06/2024"
 
 [Article]
 startDate = "10/27/1982"

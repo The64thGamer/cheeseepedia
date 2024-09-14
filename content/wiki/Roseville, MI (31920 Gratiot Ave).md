@@ -2,7 +2,7 @@
 title = "Roseville, MI (31920 Gratiot Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/02/2023
+date = "09/02/2023"
 
 [Article]
 startDate = "4/22/1991"

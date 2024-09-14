@@ -2,7 +2,7 @@
 title = "Lynchburg, VA (312 Border St)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 04/26/2024
+date = "04/26/2024"
 
 [Article]
 startDate = "9/1/1983"

@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Sunnyvale, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 10/09/2023
+date = "10/09/2023"
 
 [Article]
 startDate = ""

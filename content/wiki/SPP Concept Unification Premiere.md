@@ -2,7 +2,7 @@
 title = "SPP Concept Unification Premiere"
 draft = false
 tags = ["Showtapes"]
-date = 11/22/2023
+date = "11/22/2023"
 
 [Article]
 startDate = ""

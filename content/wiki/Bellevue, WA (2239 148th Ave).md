@@ -2,7 +2,7 @@
 title = "Bellevue, WA (2239 148th Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/15/2024
+date = "03/15/2024"
 
 [Article]
 startDate = "2/-/1996"

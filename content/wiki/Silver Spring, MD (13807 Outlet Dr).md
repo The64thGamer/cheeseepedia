@@ -2,7 +2,7 @@
 title = "Silver Spring, MD (13807 Outlet Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "3/-/1983"

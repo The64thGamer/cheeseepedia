@@ -2,7 +2,7 @@
 title = "Long Island City, NY (3419 48th St)"
 draft = false
 tags = ["Store List"]
-date = 10/05/2023
+date = "10/05/2023"
 
 [Article]
 startDate = ""

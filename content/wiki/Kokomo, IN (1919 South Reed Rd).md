@@ -2,7 +2,7 @@
 title = "Kokomo, IN (1919 South Reed Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/09/2024
+date = "07/09/2024"
 
 [Article]
 startDate = "4/6/2004"

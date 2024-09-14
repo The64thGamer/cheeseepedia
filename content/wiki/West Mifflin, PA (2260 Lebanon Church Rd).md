@@ -2,7 +2,7 @@
 title = "West Mifflin, PA (2260 Lebanon Church Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = "8/-/1983"

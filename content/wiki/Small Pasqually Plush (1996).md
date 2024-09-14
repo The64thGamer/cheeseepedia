@@ -2,7 +2,7 @@
 title = "Small Pasqually Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 04/22/2023
+date = "04/22/2023"
 
 [Article]
 startDate = ""

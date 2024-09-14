@@ -2,7 +2,7 @@
 title = "Gaithersburg, MD (516 N Frederick Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/08/2024
+date = "09/08/2024"
 
 [Article]
 startDate = "3/-/1983"

@@ -2,7 +2,7 @@
 title = "Making Magical Memories"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 04/05/2022
+date = "04/05/2022"
 
 [Article]
 startDate = ""

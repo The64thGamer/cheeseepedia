@@ -2,7 +2,7 @@
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 02/17/2024
+date = "02/17/2024"
 
 [Article]
 startDate = "12/16/1982"

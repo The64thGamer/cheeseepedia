@@ -2,7 +2,7 @@
 title = "Awesome Adventure Machine (Show)"
 draft = false
 tags = ["Live Shows"]
-date = 11/29/2022
+date = "11/29/2022"
 
 [Article]
 startDate = "-/-/1996"

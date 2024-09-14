@@ -2,7 +2,7 @@
 title = "PTT Unique Store Fixtures"
 draft = false
 tags = ["Pizza Time Theatre Employee & Store Items"]
-date = 12/07/2022
+date = "12/07/2022"
 
 [Article]
 startDate = ""

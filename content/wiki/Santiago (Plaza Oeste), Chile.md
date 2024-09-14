@@ -2,7 +2,7 @@
 title = "Santiago (Plaza Oeste), Chile"
 draft = false
 tags = ["Store List"]
-date = 09/04/2024
+date = "09/04/2024"
 
 [Article]
 startDate = "1/2/2011"

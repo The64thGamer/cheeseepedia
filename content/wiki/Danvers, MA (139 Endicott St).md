@@ -2,7 +2,7 @@
 title = "Danvers, MA (139 Endicott St)"
 draft = false
 tags = ["Store List"]
-date = 06/08/2024
+date = "06/08/2024"
 
 [Article]
 startDate = "4/24/1983"

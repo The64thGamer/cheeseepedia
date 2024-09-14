@@ -2,7 +2,7 @@
 title = "Grand Prairie, TX (2760 W I-20)"
 draft = false
 tags = ["Store List"]
-date = 08/11/2024
+date = "08/11/2024"
 
 [Article]
 startDate = "9/26/2001"

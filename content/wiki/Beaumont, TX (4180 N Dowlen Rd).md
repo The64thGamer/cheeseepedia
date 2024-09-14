@@ -2,7 +2,7 @@
 title = "Beaumont, TX (4180 N Dowlen Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/06/2023
+date = "08/06/2023"
 
 [Article]
 startDate = "6/-/2001"

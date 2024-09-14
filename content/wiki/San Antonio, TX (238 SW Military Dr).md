@@ -2,7 +2,7 @@
 title = "San Antonio, TX (238 SW Military Dr)"
 draft = false
 tags = []
-date = 07/13/2024
+date = "07/13/2024"
 
 [Article]
 startDate = "9/-/1981"

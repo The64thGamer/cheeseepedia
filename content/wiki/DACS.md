@@ -2,7 +2,7 @@
 title = "DACS"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 06/23/2023
+date = "06/23/2023"
 
 [Article]
 startDate = ""

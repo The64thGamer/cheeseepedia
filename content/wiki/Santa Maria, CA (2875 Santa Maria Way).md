@@ -2,7 +2,7 @@
 title = "Santa Maria, CA (2875 Santa Maria Way)"
 draft = false
 tags = ["Store List"]
-date = 05/02/2024
+date = "05/02/2024"
 
 [Article]
 startDate = "5/4/1982"

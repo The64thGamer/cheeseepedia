@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Créteil Soleil Pin (1984)"
 draft = false
 tags = ["Merchandise"]
-date = 05/16/2023
+date = "05/16/2023"
 
 [Article]
 startDate = ""

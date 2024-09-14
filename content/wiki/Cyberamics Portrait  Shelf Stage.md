@@ -2,7 +2,7 @@
 title = "Cyberamics Portrait / Shelf Stage"
 draft = false
 tags = []
-date = 05/02/2024
+date = "05/02/2024"
 
 [Article]
 startDate = ""

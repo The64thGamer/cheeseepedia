@@ -2,7 +2,7 @@
 title = "Norfolk, VA (920 N Military Hwy)"
 draft = false
 tags = ["Store List"]
-date = 04/21/2024
+date = "04/21/2024"
 
 [Article]
 startDate = "6/12/2000"

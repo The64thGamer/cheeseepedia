@@ -2,7 +2,7 @@
 title = "NRAE FULL July 1st 1997"
 draft = false
 tags = ["Showtapes"]
-date = 09/13/2023
+date = "09/13/2023"
 
 [Article]
 startDate = ""

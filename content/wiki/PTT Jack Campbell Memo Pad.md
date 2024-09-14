@@ -2,7 +2,7 @@
 title = "PTT Jack Campbell Memo Pad"
 draft = false
 tags = ["Corporate Documents"]
-date = 08/23/2023
+date = "08/23/2023"
 
 [Article]
 startDate = ""

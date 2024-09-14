@@ -2,7 +2,7 @@
 title = "Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 02/12/2023
+date = "02/12/2023"
 
 [Article]
 startDate = ""

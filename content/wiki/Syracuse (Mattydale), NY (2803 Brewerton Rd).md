@@ -2,7 +2,7 @@
 title = "Syracuse (Mattydale), NY (2803 Brewerton Rd)"
 draft = false
 tags = []
-date = 05/08/2024
+date = "05/08/2024"
 
 [Article]
 startDate = "8/-/1983"

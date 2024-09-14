@@ -2,7 +2,7 @@
 title = "Ogden, UT (3155 Harrison Blvd)"
 draft = false
 tags = ["Store List"]
-date = 03/16/2024
+date = "03/16/2024"
 
 [Article]
 startDate = "5/17/1980"

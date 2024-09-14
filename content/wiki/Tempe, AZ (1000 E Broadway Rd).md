@@ -2,7 +2,7 @@
 title = "Tempe, AZ (1000 E Broadway Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/26/2024
+date = "07/26/2024"
 
 [Article]
 startDate = "6/-/1981"

@@ -2,7 +2,7 @@
 title = "Davenport, IA (903 E Kimberly Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "2/25/1981"

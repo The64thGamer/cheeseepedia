@@ -2,7 +2,7 @@
 title = "Tallahassee, FL (2810 Sharer Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/04/2024
+date = "09/04/2024"
 
 [Article]
 startDate = "4/7/1992"

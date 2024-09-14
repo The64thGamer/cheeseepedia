@@ -2,7 +2,7 @@
 title = "Show Control And Media Player"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 08/06/2022
+date = "08/06/2022"
 
 [Article]
 startDate = ""

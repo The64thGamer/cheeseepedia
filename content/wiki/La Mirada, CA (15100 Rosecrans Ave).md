@@ -2,7 +2,7 @@
 title = "La Mirada, CA (15100 Rosecrans Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "2/25/1992"

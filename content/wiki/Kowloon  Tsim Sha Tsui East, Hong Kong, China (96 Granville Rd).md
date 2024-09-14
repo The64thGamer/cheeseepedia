@@ -2,7 +2,7 @@
 title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "12/-/1982"

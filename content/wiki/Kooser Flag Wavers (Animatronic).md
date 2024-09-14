@@ -2,7 +2,7 @@
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 02/29/2024
+date = "02/29/2024"
 
 [Article]
 startDate = ""

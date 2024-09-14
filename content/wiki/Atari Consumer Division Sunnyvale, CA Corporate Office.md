@@ -2,7 +2,7 @@
 title = "Atari Consumer Division Sunnyvale, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 05/20/2024
+date = "05/20/2024"
 
 [Article]
 startDate = ""

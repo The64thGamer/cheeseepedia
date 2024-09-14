@@ -2,7 +2,7 @@
 title = "Daytona Beach, FL (1300 W International Sp)"
 draft = false
 tags = ["Store List"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = "1/-/1982"

@@ -2,7 +2,7 @@
 title = "Pompano Beach, FL (2201 N Federal Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/07/2023
+date = "07/07/2023"
 
 [Article]
 startDate = "11/17/2014"

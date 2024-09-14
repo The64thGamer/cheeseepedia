@@ -2,7 +2,7 @@
 title = "PTT 1981 Remodel"
 draft = false
 tags = []
-date = 09/18/2022
+date = "09/18/2022"
 
 [Article]
 startDate = ""

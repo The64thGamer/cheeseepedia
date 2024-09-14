@@ -2,7 +2,7 @@
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/27/2023
+date = "08/27/2023"
 
 [Article]
 startDate = ""

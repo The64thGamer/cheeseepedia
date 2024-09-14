@@ -2,7 +2,7 @@
 title = "Baltimore, MD (8354 Eastern Ave)"
 draft = false
 tags = []
-date = 05/28/2024
+date = "05/28/2024"
 
 [Article]
 startDate = "8/6/1991"

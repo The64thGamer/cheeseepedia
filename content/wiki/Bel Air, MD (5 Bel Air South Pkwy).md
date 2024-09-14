@@ -2,7 +2,7 @@
 title = "Bel Air, MD (5 Bel Air South Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 07/14/2024
+date = "07/14/2024"
 
 [Article]
 startDate = "3/29/1993"

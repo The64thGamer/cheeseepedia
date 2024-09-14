@@ -2,7 +2,7 @@
 title = "Harrisburg, PA (3883 Union Deposit Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/14/2024
+date = "03/14/2024"
 
 [Article]
 startDate = "6/29/1992"

@@ -2,7 +2,7 @@
 title = "Fort Wayne, IN (711 Coliseum Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/19/2023
+date = "08/19/2023"
 
 [Article]
 startDate = "5/19/1982"

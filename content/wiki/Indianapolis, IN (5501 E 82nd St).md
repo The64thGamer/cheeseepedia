@@ -2,7 +2,7 @@
 title = "Indianapolis, IN (5501 E 82nd St)"
 draft = false
 tags = ["Store List"]
-date = 04/01/2023
+date = "04/01/2023"
 
 [Article]
 startDate = "4/28/1982"

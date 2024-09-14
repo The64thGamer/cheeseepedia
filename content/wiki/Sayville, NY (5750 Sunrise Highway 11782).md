@@ -2,7 +2,7 @@
 title = "Sayville, NY (5750 Sunrise Highway 11782)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 10/05/2022
+date = "10/05/2022"
 
 [Article]
 startDate = ""

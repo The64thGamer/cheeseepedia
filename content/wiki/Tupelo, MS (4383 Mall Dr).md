@@ -2,7 +2,7 @@
 title = "Tupelo, MS (4383 Mall Dr)"
 draft = false
 tags = ["Store List"]
-date = 08/02/2024
+date = "08/02/2024"
 
 [Article]
 startDate = "4/-/2008"

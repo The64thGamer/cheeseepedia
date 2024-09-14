@@ -2,7 +2,7 @@
 title = "Fayetteville, NC (511 North McPherson Church Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/22/2024
+date = "08/22/2024"
 
 [Article]
 startDate = "11/-/1998"

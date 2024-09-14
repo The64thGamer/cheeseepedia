@@ -2,7 +2,7 @@
 title = "The Rock-afire Explosion Documentary"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 02/29/2024
+date = "02/29/2024"
 
 [Article]
 startDate = "9/27/2008"

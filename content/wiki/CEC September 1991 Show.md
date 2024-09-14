@@ -2,7 +2,7 @@
 title = "CEC September 1991 Show"
 draft = false
 tags = ["APS Showtapes"]
-date = 12/25/2023
+date = "12/25/2023"
 
 [Article]
 startDate = ""

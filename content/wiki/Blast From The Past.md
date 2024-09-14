@@ -2,7 +2,7 @@
 title = "Blast From The Past"
 draft = false
 tags = ["Showtapes"]
-date = 07/26/2023
+date = "07/26/2023"
 
 [Article]
 startDate = "-/-/1998"

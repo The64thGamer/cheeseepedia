@@ -2,7 +2,7 @@
 title = "North Olmsted, OH (26104 Great Northern Sh)"
 draft = false
 tags = ["Store List"]
-date = 08/15/2024
+date = "08/15/2024"
 
 [Article]
 startDate = "1/19/1993"

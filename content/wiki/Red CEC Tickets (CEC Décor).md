@@ -2,7 +2,7 @@
 title = "Red CEC Tickets (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = 07/08/2023
+date = "07/08/2023"
 
 [Article]
 startDate = "-/-/2005"

@@ -2,7 +2,7 @@
 title = "Lake Charles, LA (3221 E Prien Lake Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/15/2023
+date = "10/15/2023"
 
 [Article]
 startDate = "-/-/2001"

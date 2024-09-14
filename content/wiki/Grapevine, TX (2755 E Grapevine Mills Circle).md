@@ -2,7 +2,7 @@
 title = "Grapevine, TX (2755 E Grapevine Mills Circle)"
 draft = false
 tags = ["Store List"]
-date = 07/20/2023
+date = "07/20/2023"
 
 [Article]
 startDate = "5/21/2002"

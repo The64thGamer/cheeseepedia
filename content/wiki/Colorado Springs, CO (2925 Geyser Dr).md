@@ -2,7 +2,7 @@
 title = "Colorado Springs, CO (2925 Geyser Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/13/2023
+date = "07/13/2023"
 
 [Article]
 startDate = "5/21/2007"

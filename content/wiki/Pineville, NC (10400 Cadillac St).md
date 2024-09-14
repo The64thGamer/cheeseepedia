@@ -2,7 +2,7 @@
 title = "Pineville, NC (10400 Cadillac St)"
 draft = false
 tags = ["Store List"]
-date = 06/11/2024
+date = "06/11/2024"
 
 [Article]
 startDate = "5/-/1991"

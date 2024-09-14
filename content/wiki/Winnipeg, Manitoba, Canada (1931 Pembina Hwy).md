@@ -2,7 +2,7 @@
 title = "Winnipeg, Manitoba, Canada (1931 Pembina Hwy)"
 draft = false
 tags = ["Store List"]
-date = 10/01/2023
+date = "10/01/2023"
 
 [Article]
 startDate = "4/30/1990"

@@ -2,7 +2,7 @@
 title = "Johnstown,PA (592 Galleria Dr)"
 draft = false
 tags = []
-date = 01/26/2024
+date = "01/26/2024"
 
 [Article]
 startDate = "11/19/2003"

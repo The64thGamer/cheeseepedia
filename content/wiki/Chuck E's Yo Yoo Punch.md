@@ -2,7 +2,7 @@
 title = "Chuck E's Yo Yoo Punch"
 draft = false
 tags = ["Arcade Games"]
-date = 07/14/2023
+date = "07/14/2023"
 
 [Article]
 startDate = ""

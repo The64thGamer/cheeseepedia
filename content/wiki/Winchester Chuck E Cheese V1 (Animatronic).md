@@ -2,7 +2,7 @@
 title = "Winchester Chuck E. Cheese V1 (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 05/23/2024
+date = "05/23/2024"
 
 [Article]
 startDate = ""

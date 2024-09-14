@@ -2,7 +2,7 @@
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
 tags = ["Chuck E Cheese's Tokens"]
-date = 04/29/2023
+date = "04/29/2023"
 
 [Article]
 startDate = "-/-/2000"

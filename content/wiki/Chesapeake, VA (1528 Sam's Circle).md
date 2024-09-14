@@ -2,7 +2,7 @@
 title = "Chesapeake, VA (1528 Sam's Circle)"
 draft = false
 tags = ["Store List"]
-date = 05/17/2024
+date = "05/17/2024"
 
 [Article]
 startDate = "12/-/1996"

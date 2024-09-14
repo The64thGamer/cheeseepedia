@@ -2,7 +2,7 @@
 title = "CEC Rock It In Space"
 draft = false
 tags = ["Live Shows"]
-date = 07/17/2022
+date = "07/17/2022"
 
 [Article]
 startDate = "-/-/1992"

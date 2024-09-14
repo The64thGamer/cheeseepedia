@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 7 2016"
 draft = false
 tags = ["Live Shows"]
-date = 03/12/2024
+date = "03/12/2024"
 
 [Article]
 startDate = ""

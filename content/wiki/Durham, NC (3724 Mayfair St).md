@@ -2,7 +2,7 @@
 title = "Durham, NC (3724 Mayfair St)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "3/7/1994"

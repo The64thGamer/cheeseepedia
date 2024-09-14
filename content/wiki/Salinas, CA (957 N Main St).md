@@ -2,7 +2,7 @@
 title = "Salinas, CA (957 N Main St)"
 draft = false
 tags = ["Store List"]
-date = 05/02/2024
+date = "05/02/2024"
 
 [Article]
 startDate = "9/-/1981"

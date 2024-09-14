@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
 tags = []
-date = 09/12/2024
+date = "09/12/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Reno, NV (651 E Moana Lane)"
 draft = false
 tags = ["Store List"]
-date = 12/08/2023
+date = "12/08/2023"
 
 [Article]
 startDate = "-/-/1982"

@@ -2,7 +2,7 @@
 title = "Bossier City, LA (2515 Viking Dr)"
 draft = false
 tags = ["Store List"]
-date = 08/09/2024
+date = "08/09/2024"
 
 [Article]
 startDate = "5/-/2013"

@@ -2,7 +2,7 @@
 title = "Artifact Shelves"
 draft = false
 tags = []
-date = 07/15/2023
+date = "07/15/2023"
 
 [Article]
 startDate = ""

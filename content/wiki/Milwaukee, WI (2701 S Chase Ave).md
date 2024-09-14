@@ -2,7 +2,7 @@
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/08/2024
+date = "09/08/2024"
 
 [Article]
 startDate = "4/-/1983"

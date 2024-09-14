@@ -2,7 +2,7 @@
 title = "Grand Rapids, MI (3671 28th St)"
 draft = false
 tags = ["Store List"]
-date = 10/22/2023
+date = "10/22/2023"
 
 [Article]
 startDate = "6/6/1983"

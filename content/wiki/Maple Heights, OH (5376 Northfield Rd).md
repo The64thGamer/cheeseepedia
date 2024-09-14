@@ -2,7 +2,7 @@
 title = "Maple Heights, OH (5376 Northfield Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/09/2024
+date = "03/09/2024"
 
 [Article]
 startDate = "11/-/1980"

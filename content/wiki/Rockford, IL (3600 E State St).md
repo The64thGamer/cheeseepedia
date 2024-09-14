@@ -2,7 +2,7 @@
 title = "Rockford, IL (3600 E State St)"
 draft = false
 tags = ["Store List"]
-date = 08/03/2024
+date = "08/03/2024"
 
 [Article]
 startDate = "10/30/1988"

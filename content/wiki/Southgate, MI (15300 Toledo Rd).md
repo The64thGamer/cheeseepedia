@@ -2,7 +2,7 @@
 title = "Southgate, MI (15300 Toledo Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/24/2024
+date = "07/24/2024"
 
 [Article]
 startDate = "6/17/1982"

@@ -2,7 +2,7 @@
 title = "Katy, TX (2002 Gulfmont Dr)"
 draft = false
 tags = ["Store List"]
-date = 09/02/2024
+date = "09/02/2024"
 
 [Article]
 startDate = "12/30/2001"

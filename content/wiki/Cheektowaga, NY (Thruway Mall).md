@@ -2,7 +2,7 @@
 title = "Cheektowaga, NY (Thruway Mall)"
 draft = false
 tags = ["Store List"]
-date = 03/19/2024
+date = "03/19/2024"
 
 [Article]
 startDate = "11/26/1982"

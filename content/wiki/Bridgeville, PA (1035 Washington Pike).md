@@ -2,7 +2,7 @@
 title = "Bridgeville, PA (1035 Washington Pike)"
 draft = false
 tags = ["Store List"]
-date = 06/13/2023
+date = "06/13/2023"
 
 [Article]
 startDate = "-/-/2002"

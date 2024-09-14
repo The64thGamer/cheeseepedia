@@ -2,7 +2,7 @@
 title = "Fontana, CA (17069 Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = 11/09/2023
+date = "11/09/2023"
 
 [Article]
 startDate = "11/-/1983"

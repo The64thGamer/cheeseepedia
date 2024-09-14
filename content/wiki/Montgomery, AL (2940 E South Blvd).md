@@ -2,7 +2,7 @@
 title = "Montgomery, AL (2940 E South Blvd)"
 draft = false
 tags = ["Store List"]
-date = 01/19/2024
+date = "01/19/2024"
 
 [Article]
 startDate = "9/30/1982"

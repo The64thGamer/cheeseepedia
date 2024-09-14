@@ -2,7 +2,7 @@
 title = "Rockville, MD (855 Rockville Pike)"
 draft = false
 tags = ["Store List"]
-date = 04/12/2024
+date = "04/12/2024"
 
 [Article]
 startDate = "6/-/1981"

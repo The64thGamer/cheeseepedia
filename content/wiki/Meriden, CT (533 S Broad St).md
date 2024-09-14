@@ -2,7 +2,7 @@
 title = "Meriden, CT (533 S Broad St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2023
+date = "07/29/2023"
 
 [Article]
 startDate = "1/30/2002"

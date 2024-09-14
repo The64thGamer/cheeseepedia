@@ -2,7 +2,7 @@
 title = "White Settlement, TX (7750 Scott St)"
 draft = false
 tags = ["Store List"]
-date = 05/22/2024
+date = "05/22/2024"
 
 [Article]
 startDate = "12/29/1982"

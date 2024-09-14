@@ -2,7 +2,7 @@
 title = "CEC University: School of Kitchen"
 draft = false
 tags = []
-date = 10/17/2022
+date = "10/17/2022"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 08/13/2023
+date = "08/13/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Mitzi Cyberstar Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 04/29/2024
+date = "04/29/2024"
 
 [Article]
 startDate = ""

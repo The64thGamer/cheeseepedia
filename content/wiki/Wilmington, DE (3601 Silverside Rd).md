@@ -2,7 +2,7 @@
 title = "Wilmington, DE (3601 Silverside Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/13/2024
+date = "09/13/2024"
 
 [Article]
 startDate = "3/3/1983"

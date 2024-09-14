@@ -2,7 +2,7 @@
 title = "Champaign, IL (1036 Bloomington Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/24/2024
+date = "03/24/2024"
 
 [Article]
 startDate = "-/-/1984"

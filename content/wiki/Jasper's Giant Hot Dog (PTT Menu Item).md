@@ -2,7 +2,7 @@
 title = "Jasper's Giant Hot Dog (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 02/07/2024
+date = "02/07/2024"
 
 [Article]
 startDate = ""

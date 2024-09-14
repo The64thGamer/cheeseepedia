@@ -2,7 +2,7 @@
 title = "Garden Grove, CA (13101 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = 09/07/2024
+date = "09/07/2024"
 
 [Article]
 startDate = "11/-/1981"

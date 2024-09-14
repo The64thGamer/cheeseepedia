@@ -2,7 +2,7 @@
 title = "Alexandria, LA (1725 Metro Dr)"
 draft = false
 tags = ["Store List"]
-date = 08/04/2024
+date = "08/04/2024"
 
 [Article]
 startDate = "6/27/1983"

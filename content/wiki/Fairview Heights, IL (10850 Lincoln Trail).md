@@ -2,7 +2,7 @@
 title = "Fairview Heights, IL (10850 Lincoln Trail)"
 draft = false
 tags = ["Store List"]
-date = 06/09/2024
+date = "06/09/2024"
 
 [Article]
 startDate = "5/23/1984"

@@ -2,7 +2,7 @@
 title = "Honolulu, HI (820 W Hind Dr)"
 draft = false
 tags = ["Store List"]
-date = 04/07/2024
+date = "04/07/2024"
 
 [Article]
 startDate = ""

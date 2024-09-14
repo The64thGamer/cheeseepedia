@@ -2,7 +2,7 @@
 title = "Riverside, CA (10121 Hole Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/16/2023
+date = "09/16/2023"
 
 [Article]
 startDate = "-/-/1981"

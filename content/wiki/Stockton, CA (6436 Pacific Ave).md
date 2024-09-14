@@ -2,7 +2,7 @@
 title = "Stockton, CA (6436 Pacific Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/20/2023
+date = "07/20/2023"
 
 [Article]
 startDate = "9/6/2005"

@@ -2,7 +2,7 @@
 title = "Orlando, FL (7456 West Colonial Dr)"
 draft = false
 tags = []
-date = 07/22/2024
+date = "07/22/2024"
 
 [Article]
 startDate = "11/12/1998"

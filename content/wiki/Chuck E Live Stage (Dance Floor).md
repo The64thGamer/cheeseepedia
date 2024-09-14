@@ -2,7 +2,7 @@
 title = "Chuck E. Live Stage (Dance Floor)"
 draft = false
 tags = ["Stage Variations"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "-/-/2015"

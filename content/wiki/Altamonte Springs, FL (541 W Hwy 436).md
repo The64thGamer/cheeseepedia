@@ -2,7 +2,7 @@
 title = "Altamonte Springs, FL (541 W Hwy 436)"
 draft = false
 tags = ["Store List"]
-date = 11/15/2023
+date = "11/15/2023"
 
 [Article]
 startDate = "3/-/1981"

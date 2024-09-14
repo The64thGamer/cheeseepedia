@@ -2,7 +2,7 @@
 title = "Monroe, LA (3731 Pecanland Mall Dr)"
 draft = false
 tags = ["Store List"]
-date = 08/31/2024
+date = "08/31/2024"
 
 [Article]
 startDate = "7/9/2011"

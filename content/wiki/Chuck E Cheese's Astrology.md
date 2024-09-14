@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Astrology"
 draft = false
 tags = ["Arcade Games"]
-date = 08/26/2023
+date = "08/26/2023"
 
 [Article]
 startDate = ""

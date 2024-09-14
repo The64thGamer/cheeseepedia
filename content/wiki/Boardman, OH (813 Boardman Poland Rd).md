@@ -2,7 +2,7 @@
 title = "Boardman, OH (813 Boardman Poland Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/27/2024
+date = "03/27/2024"
 
 [Article]
 startDate = "10/-/1982"

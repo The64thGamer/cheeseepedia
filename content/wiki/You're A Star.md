@@ -2,7 +2,7 @@
 title = "You're A Star"
 draft = false
 tags = ["Live Shows"]
-date = 08/01/2022
+date = "08/01/2022"
 
 [Article]
 startDate = "-/-/1993"

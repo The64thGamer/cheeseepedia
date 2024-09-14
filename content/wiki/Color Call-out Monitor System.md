@@ -2,7 +2,7 @@
 title = "Color Call-out Monitor System"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 07/06/2024
+date = "07/06/2024"
 
 [Article]
 startDate = ""

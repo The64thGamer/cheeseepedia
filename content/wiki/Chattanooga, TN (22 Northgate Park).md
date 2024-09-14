@@ -2,7 +2,7 @@
 title = "Chattanooga, TN (22 Northgate Park)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "10/13/1982"

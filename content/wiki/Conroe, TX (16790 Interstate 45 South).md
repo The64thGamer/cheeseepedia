@@ -2,7 +2,7 @@
 title = "Conroe, TX (16790 Interstate 45 South)"
 draft = false
 tags = ["Store List"]
-date = 06/23/2023
+date = "06/23/2023"
 
 [Article]
 startDate = "6/29/2001"

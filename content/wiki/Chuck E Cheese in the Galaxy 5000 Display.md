@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese in the Galaxy 5000 Display"
 draft = false
 tags = ["Promotional Material"]
-date = 07/30/2023
+date = "07/30/2023"
 
 [Article]
 startDate = ""

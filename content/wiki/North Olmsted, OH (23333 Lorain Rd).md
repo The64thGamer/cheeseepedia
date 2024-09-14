@@ -2,7 +2,7 @@
 title = "North Olmsted, OH (23333 Lorain Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/12/2024
+date = "08/12/2024"
 
 [Article]
 startDate = "12/-/1981"

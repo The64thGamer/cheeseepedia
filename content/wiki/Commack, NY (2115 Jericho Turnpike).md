@@ -2,7 +2,7 @@
 title = "Commack, NY (2115 Jericho Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2023
+date = "06/25/2023"
 
 [Article]
 startDate = "1/23/1995"

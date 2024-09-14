@@ -2,7 +2,7 @@
 title = "Bossier City, LA (2001 Airline Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/12/2023
+date = "07/12/2023"
 
 [Article]
 startDate = "11/23/1992"

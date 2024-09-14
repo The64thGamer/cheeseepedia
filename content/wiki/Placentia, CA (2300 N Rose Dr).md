@@ -2,7 +2,7 @@
 title = "Placentia, CA (2300 N Rose Dr)"
 draft = false
 tags = ["Store List"]
-date = 06/28/2024
+date = "06/28/2024"
 
 [Article]
 startDate = "9/24/1991"

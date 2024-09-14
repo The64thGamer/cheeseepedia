@@ -2,7 +2,7 @@
 title = "2024 CEC Future Planning Survey"
 draft = false
 tags = ["Events"]
-date = 05/31/2024
+date = "05/31/2024"
 
 [Article]
 startDate = "3/25/2024"

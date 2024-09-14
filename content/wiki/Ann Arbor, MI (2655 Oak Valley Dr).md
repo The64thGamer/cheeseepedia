@@ -2,7 +2,7 @@
 title = "Ann Arbor, MI (2655 Oak Valley Dr)"
 draft = false
 tags = ["Store List"]
-date = 10/01/2023
+date = "10/01/2023"
 
 [Article]
 startDate = "11/2/2000"

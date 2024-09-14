@@ -2,7 +2,7 @@
 title = "Character Cable Tester"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 05/11/2023
+date = "05/11/2023"
 
 [Article]
 startDate = ""

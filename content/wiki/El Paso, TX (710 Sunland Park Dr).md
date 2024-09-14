@@ -2,7 +2,7 @@
 title = "El Paso, TX (710 Sunland Park Dr)"
 draft = false
 tags = []
-date = 05/07/2024
+date = "05/07/2024"
 
 [Article]
 startDate = "2/21/1994"

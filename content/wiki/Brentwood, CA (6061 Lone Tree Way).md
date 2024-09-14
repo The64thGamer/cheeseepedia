@@ -2,7 +2,7 @@
 title = "Brentwood, CA (6061 Lone Tree Way)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "5/27/2007"

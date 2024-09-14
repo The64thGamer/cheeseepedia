@@ -2,7 +2,7 @@
 title = "Manchester, CT (82 Buckland St)"
 draft = false
 tags = ["Store List"]
-date = 07/14/2024
+date = "07/14/2024"
 
 [Article]
 startDate = "7/12/1993"

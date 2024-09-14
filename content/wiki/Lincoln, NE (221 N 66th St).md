@@ -2,7 +2,7 @@
 title = "Lincoln, NE (221 N 66th St)"
 draft = false
 tags = ["Store List"]
-date = 01/09/2024
+date = "01/09/2024"
 
 [Article]
 startDate = "12/29/1982"

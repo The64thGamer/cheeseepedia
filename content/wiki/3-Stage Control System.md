@@ -2,7 +2,7 @@
 title = "3-Stage Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 05/31/2023
+date = "05/31/2023"
 
 [Article]
 startDate = ""

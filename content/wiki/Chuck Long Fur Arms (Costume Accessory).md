@@ -2,7 +2,7 @@
 title = "Chuck Long Fur Arms (Costume Accessory)"
 draft = false
 tags = ["Costumed Characters"]
-date = 05/16/2023
+date = "05/16/2023"
 
 [Article]
 startDate = ""

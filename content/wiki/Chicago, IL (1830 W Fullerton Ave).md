@@ -2,7 +2,7 @@
 title = "Chicago, IL (1830 W Fullerton Ave)"
 draft = false
 tags = ["Store List"]
-date = 06/09/2024
+date = "06/09/2024"
 
 [Article]
 startDate = ""

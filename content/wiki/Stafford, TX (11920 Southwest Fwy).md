@@ -2,7 +2,7 @@
 title = "Stafford, TX (11920 Southwest Fwy)"
 draft = false
 tags = ["Store List"]
-date = 04/04/2023
+date = "04/04/2023"
 
 [Article]
 startDate = "9/22/1992"

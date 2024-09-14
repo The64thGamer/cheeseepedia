@@ -2,7 +2,7 @@
 title = "Four Little Shavers (Ice Cream Emporium)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = ""

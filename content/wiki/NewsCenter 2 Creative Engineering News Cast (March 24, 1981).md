@@ -2,7 +2,7 @@
 title = "NewsCenter 2 Creative Engineering News Cast (March 24, 1981)"
 draft = false
 tags = ["News Footage"]
-date = 02/04/2023
+date = "02/04/2023"
 
 [Article]
 startDate = ""

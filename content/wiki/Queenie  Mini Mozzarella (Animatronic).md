@@ -2,7 +2,7 @@
 title = "Queenie / Mini Mozzarella (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 07/02/2024
+date = "07/02/2024"
 
 [Article]
 startDate = ""

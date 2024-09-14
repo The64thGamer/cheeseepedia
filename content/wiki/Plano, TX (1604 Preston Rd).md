@@ -2,7 +2,7 @@
 title = "Plano, TX (1604 Preston Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/07/2024
+date = "06/07/2024"
 
 [Article]
 startDate = "5/-/1998"

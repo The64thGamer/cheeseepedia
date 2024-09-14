@@ -2,7 +2,7 @@
 title = "Warrington, PA (1661 Easton Rd B-2)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "11/30/2004"

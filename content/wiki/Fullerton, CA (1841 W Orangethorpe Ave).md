@@ -2,7 +2,7 @@
 title = "Fullerton, CA (1841 W Orangethorpe Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/30/2024
+date = "08/30/2024"
 
 [Article]
 startDate = "3/-/1980"

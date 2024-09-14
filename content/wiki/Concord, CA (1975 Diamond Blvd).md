@@ -2,7 +2,7 @@
 title = "Concord, CA (1975 Diamond Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/21/2024
+date = "08/21/2024"
 
 [Article]
 startDate = ""

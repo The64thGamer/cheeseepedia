@@ -2,7 +2,7 @@
 title = "Dolli Dimples Show Selector (Prototype)"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 08/03/2023
+date = "08/03/2023"
 
 [Article]
 startDate = ""

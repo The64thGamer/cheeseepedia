@@ -2,7 +2,7 @@
 title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2023
+date = "08/07/2023"
 
 [Article]
 startDate = "-/-/1988"

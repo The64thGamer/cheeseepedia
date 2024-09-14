@@ -2,7 +2,7 @@
 title = "Midfield, AL (34 Phillips Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/11/2023
+date = "07/11/2023"
 
 [Article]
 startDate = "-/-/1983"

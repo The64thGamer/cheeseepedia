@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese International Holiday Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = 04/04/2024
+date = "04/04/2024"
 
 [Article]
 startDate = "11/27/2023"

@@ -2,7 +2,7 @@
 title = "Rolfe Dewolfe & Earl Schmerle (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 08/03/2024
+date = "08/03/2024"
 
 [Article]
 startDate = ""

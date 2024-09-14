@@ -2,7 +2,7 @@
 title = "Redwood City, CA (2541-43 El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = 09/03/2024
+date = "09/03/2024"
 
 [Article]
 startDate = "12/28/1999"

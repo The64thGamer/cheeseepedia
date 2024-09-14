@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Awesome Tune Tracks"
 draft = false
 tags = ["Merchandise"]
-date = 04/27/2023
+date = "04/27/2023"
 
 [Article]
 startDate = "-/-/1996"

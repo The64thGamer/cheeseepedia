@@ -2,7 +2,7 @@
 title = "Data:Json:Wikicon"
 draft = false
 tags = []
-date = 02/04/2023
+date = "02/04/2023"
 
 [Article]
 startDate = ""

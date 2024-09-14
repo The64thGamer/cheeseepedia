@@ -2,7 +2,7 @@
 title = "PTT Fantasy Forest Game Preserve Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/24/2023
+date = "08/24/2023"
 
 [Article]
 startDate = ""

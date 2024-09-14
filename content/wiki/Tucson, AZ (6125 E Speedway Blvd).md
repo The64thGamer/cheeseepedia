@@ -2,7 +2,7 @@
 title = "Tucson, AZ (6125 E Speedway Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/03/2024
+date = "07/03/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "SPP Davenport (Commercial)"
 draft = false
 tags = []
-date = 09/22/2022
+date = "09/22/2022"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Beach Bear Diagnostic Tape"
 draft = false
 tags = ["Showtapes"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = ""

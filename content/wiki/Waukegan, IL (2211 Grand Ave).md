@@ -2,7 +2,7 @@
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/27/2023
+date = "05/27/2023"
 
 [Article]
 startDate = "-/-/1983"

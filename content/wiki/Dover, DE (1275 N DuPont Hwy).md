@@ -2,7 +2,7 @@
 title = "Dover, DE (1275 N DuPont Hwy)"
 draft = false
 tags = ["Store List"]
-date = 03/28/2024
+date = "03/28/2024"
 
 [Article]
 startDate = "12/27/2002"

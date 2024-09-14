@@ -2,7 +2,7 @@
 title = "Winchester PTT Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Mitzi Mozzarella"
 draft = false
 tags = ["Characters"]
-date = 05/28/2024
+date = "05/28/2024"
 
 [Article]
 startDate = ""

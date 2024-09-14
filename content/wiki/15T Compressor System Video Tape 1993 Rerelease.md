@@ -2,7 +2,7 @@
 title = "15T Compressor System Video Tape 1993 Rerelease"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 09/12/2022
+date = "09/12/2022"
 
 [Article]
 startDate = "-/-/1993"

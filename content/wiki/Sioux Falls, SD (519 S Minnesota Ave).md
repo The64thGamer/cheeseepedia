@@ -2,7 +2,7 @@
 title = "Sioux Falls, SD (519 S Minnesota Ave)"
 draft = false
 tags = []
-date = 08/28/2024
+date = "08/28/2024"
 
 [Article]
 startDate = "7/26/1986"

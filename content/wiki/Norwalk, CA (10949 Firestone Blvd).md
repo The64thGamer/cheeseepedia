@@ -2,7 +2,7 @@
 title = "Norwalk, CA (10949 Firestone Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "10/29/1991"

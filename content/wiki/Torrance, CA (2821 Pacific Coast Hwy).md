@@ -2,7 +2,7 @@
 title = "Torrance, CA (2821 Pacific Coast Hwy)"
 draft = false
 tags = ["Store List"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = "3/24/1983"

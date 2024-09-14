@@ -2,7 +2,7 @@
 title = "Burbank, CA (930 N San Fernando Blvd)"
 draft = false
 tags = ["Store List"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = "12/28/1999"

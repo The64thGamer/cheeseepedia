@@ -2,7 +2,7 @@
 title = "Studio C Cappa Prototype"
 draft = false
 tags = ["Stage Variations"]
-date = 06/03/2024
+date = "06/03/2024"
 
 [Article]
 startDate = "12/-/2002"

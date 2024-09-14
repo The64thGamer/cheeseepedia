@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Pencil Pouch (1991)"
 draft = false
 tags = ["Merchandise"]
-date = 05/05/2023
+date = "05/05/2023"
 
 [Article]
 startDate = "-/-/1991"

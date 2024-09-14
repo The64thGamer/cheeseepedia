@@ -2,7 +2,7 @@
 title = "Johnson City, NY (365 Harry L Dr)"
 draft = false
 tags = ["Store List"]
-date = 06/24/2024
+date = "06/24/2024"
 
 [Article]
 startDate = "6/7/1983"

@@ -2,7 +2,7 @@
 title = "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
 draft = false
 tags = ["Store List"]
-date = 07/25/2024
+date = "07/25/2024"
 
 [Article]
 startDate = "1/24/1994"

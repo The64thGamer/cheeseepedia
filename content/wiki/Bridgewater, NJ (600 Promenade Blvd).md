@@ -2,7 +2,7 @@
 title = "Bridgewater, NJ (600 Promenade Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/27/2024
+date = "08/27/2024"
 
 [Article]
 startDate = "2/7/2000"

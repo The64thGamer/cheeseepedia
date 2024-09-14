@@ -2,7 +2,7 @@
 title = "PTT Basic Ordering Agreement"
 draft = false
 tags = ["Documents"]
-date = 05/20/2024
+date = "05/20/2024"
 
 [Article]
 startDate = ""

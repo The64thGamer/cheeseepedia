@@ -2,7 +2,7 @@
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 12/06/2022
+date = "12/06/2022"
 
 [Article]
 startDate = ""

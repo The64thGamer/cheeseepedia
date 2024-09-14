@@ -2,7 +2,7 @@
 title = "Parkway Parade, Marine Parade, Singapore"
 draft = false
 tags = ["Store List"]
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = "12/15/1983"

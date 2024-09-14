@@ -2,7 +2,7 @@
 title = "Matteson, IL (106 Town Center Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = "5/23/1983"

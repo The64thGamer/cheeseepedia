@@ -2,7 +2,7 @@
 title = "Wyomissing, PA (2721 N Meridian Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/04/2024
+date = "07/04/2024"
 
 [Article]
 startDate = "12/20/2000"

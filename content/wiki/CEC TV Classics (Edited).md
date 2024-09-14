@@ -2,7 +2,7 @@
 title = "CEC TV Classics (Edited)"
 draft = false
 tags = ["Showtapes"]
-date = 09/04/2024
+date = "09/04/2024"
 
 [Article]
 startDate = ""

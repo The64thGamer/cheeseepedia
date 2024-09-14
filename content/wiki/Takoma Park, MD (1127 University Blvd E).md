@@ -2,7 +2,7 @@
 title = "Takoma Park, MD (1127 University Blvd E)"
 draft = false
 tags = []
-date = 03/30/2024
+date = "03/30/2024"
 
 [Article]
 startDate = "-/-/2012"

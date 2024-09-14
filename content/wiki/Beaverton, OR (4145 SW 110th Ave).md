@@ -2,7 +2,7 @@
 title = "Beaverton, OR (4145 SW 110th Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = "1/-/2003"

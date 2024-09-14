@@ -2,7 +2,7 @@
 title = "Newington, NH (30 Fox Run Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/26/2024
+date = "05/26/2024"
 
 [Article]
 startDate = "8/-/1983"

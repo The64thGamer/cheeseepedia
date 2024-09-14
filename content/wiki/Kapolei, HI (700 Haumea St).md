@@ -2,7 +2,7 @@
 title = "Kapolei, HI (700 Haumea St)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2024
+date = "06/25/2024"
 
 [Article]
 startDate = "10/-/2018"

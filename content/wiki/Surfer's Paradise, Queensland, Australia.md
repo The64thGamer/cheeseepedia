@@ -2,7 +2,7 @@
 title = "Surfer's Paradise, Queensland, Australia"
 draft = false
 tags = ["Store List"]
-date = 03/15/2024
+date = "03/15/2024"
 
 [Article]
 startDate = "3/-/1981"

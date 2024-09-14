@@ -2,7 +2,7 @@
 title = "Star Cast Member of the Month 2019 Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 03/14/2024
+date = "03/14/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Manassas, VA (7730 Stream Walk Ln)"
 draft = false
 tags = []
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = "3/23/2000"

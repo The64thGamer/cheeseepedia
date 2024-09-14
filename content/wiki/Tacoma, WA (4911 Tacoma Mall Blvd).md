@@ -2,7 +2,7 @@
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "11/-/1983"

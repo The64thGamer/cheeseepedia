@@ -2,7 +2,7 @@
 title = "San Bernardino, CA (777 E Hospitality Lane)"
 draft = false
 tags = ["Store List"]
-date = 02/20/2024
+date = "02/20/2024"
 
 [Article]
 startDate = "6/27/2003"

@@ -2,7 +2,7 @@
 title = "2024 ChainFest New York CEC Booth"
 draft = false
 tags = ["Events"]
-date = 08/09/2024
+date = "08/09/2024"
 
 [Article]
 startDate = ""

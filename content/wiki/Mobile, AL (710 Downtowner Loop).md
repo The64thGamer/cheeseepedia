@@ -2,7 +2,7 @@
 title = "Mobile, AL (710 Downtowner Loop)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "2/10/1982"

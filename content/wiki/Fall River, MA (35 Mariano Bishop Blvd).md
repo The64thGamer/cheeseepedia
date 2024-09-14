@@ -2,7 +2,7 @@
 title = "Fall River, MA (35 Mariano Bishop Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/08/2024
+date = "07/08/2024"
 
 [Article]
 startDate = "2/-/1985"

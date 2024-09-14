@@ -2,7 +2,7 @@
 title = "???, Australia"
 draft = false
 tags = ["Store List"]
-date = 01/11/2024
+date = "01/11/2024"
 
 [Article]
 startDate = ""

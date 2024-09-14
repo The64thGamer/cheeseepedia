@@ -2,7 +2,7 @@
 title = "Rock & Pizza Roll (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 07/29/2023
+date = "07/29/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Wichita Falls, TX (2935 Southwest Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 10/07/2023
+date = "10/07/2023"
 
 [Article]
 startDate = "9/22/1982"

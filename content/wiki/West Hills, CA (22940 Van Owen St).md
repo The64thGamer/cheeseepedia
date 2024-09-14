@@ -2,7 +2,7 @@
 title = "West Hills, CA (22940 Van Owen St)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "6/23/1992"

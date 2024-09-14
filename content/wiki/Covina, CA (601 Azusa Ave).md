@@ -2,7 +2,7 @@
 title = "Covina, CA (601 Azusa Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/07/2024
+date = "07/07/2024"
 
 [Article]
 startDate = "8/-/1980"

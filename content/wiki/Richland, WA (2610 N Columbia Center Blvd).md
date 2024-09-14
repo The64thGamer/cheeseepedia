@@ -2,7 +2,7 @@
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 draft = false
 tags = ["Store List"]
-date = 09/30/2023
+date = "09/30/2023"
 
 [Article]
 startDate = "9/30/1982"

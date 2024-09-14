@@ -2,7 +2,7 @@
 title = "Little Rock, AR (2706 S Shackleford Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/01/2023
+date = "08/01/2023"
 
 [Article]
 startDate = "4/28/2014"

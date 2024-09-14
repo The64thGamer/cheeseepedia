@@ -2,7 +2,7 @@
 title = "Cyberstar Diagnostic Tape"
 draft = false
 tags = ["Showtapes"]
-date = 10/07/2023
+date = "10/07/2023"
 
 [Article]
 startDate = ""

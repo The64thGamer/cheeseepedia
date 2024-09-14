@@ -2,7 +2,7 @@
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
 tags = []
-date = 07/15/2022
+date = "07/15/2022"
 
 [Article]
 startDate = ""

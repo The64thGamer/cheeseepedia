@@ -2,7 +2,7 @@
 title = "Family Vision (Feb 1985)"
 draft = false
 tags = []
-date = 07/30/2023
+date = "07/30/2023"
 
 [Article]
 startDate = ""

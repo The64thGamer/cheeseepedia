@@ -2,7 +2,7 @@
 title = "Fort Gratiot Township, MI (4350 24th Ave)"
 draft = false
 tags = []
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "7/8/2004"

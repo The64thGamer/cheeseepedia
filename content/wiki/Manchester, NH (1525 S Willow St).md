@@ -2,7 +2,7 @@
 title = "Manchester, NH (1525 S Willow St)"
 draft = false
 tags = ["Store List"]
-date = 09/10/2024
+date = "09/10/2024"
 
 [Article]
 startDate = "8/-/1982"

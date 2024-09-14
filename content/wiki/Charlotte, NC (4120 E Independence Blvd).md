@@ -2,7 +2,7 @@
 title = "Charlotte, NC (4120 E Independence Blvd)"
 draft = false
 tags = ["Store List"]
-date = 09/04/2023
+date = "09/04/2023"
 
 [Article]
 startDate = "3/30/1982"

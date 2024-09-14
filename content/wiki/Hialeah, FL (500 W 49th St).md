@@ -2,7 +2,7 @@
 title = "Hialeah, FL (500 W 49th St)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "12/20/1982"

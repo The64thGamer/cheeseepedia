@@ -2,7 +2,7 @@
 title = "Brampton, Ontario, Canada (50 Kennedy Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/20/2024
+date = "04/20/2024"
 
 [Article]
 startDate = "10/-/1984"

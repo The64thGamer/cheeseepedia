@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Halloween Boo-Tacular 2022 Show"
 draft = false
 tags = ["Showtapes"]
-date = 03/20/2024
+date = "03/20/2024"
 
 [Article]
 startDate = "9/19/2022"

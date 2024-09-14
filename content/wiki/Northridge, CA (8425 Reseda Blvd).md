@@ -2,7 +2,7 @@
 title = "Northridge, CA (8425 Reseda Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/27/2024
+date = "08/27/2024"
 
 [Article]
 startDate = "9/-/1981"

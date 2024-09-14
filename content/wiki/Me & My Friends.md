@@ -2,7 +2,7 @@
 title = "Me & My Friends"
 draft = false
 tags = ["Live Shows"]
-date = 06/30/2022
+date = "06/30/2022"
 
 [Article]
 startDate = ""

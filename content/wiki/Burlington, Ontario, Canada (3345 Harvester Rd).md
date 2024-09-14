@@ -2,7 +2,7 @@
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/20/2024
+date = "04/20/2024"
 
 [Article]
 startDate = "10/15/1981"

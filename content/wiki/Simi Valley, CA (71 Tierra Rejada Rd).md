@@ -2,7 +2,7 @@
 title = "Simi Valley, CA (71 Tierra Rejada Rd)"
 draft = false
 tags = ["Store List"]
-date = 11/13/2023
+date = "11/13/2023"
 
 [Article]
 startDate = "10/20/1980"

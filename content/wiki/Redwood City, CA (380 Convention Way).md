@@ -2,7 +2,7 @@
 title = "Redwood City, CA (380 Convention Way)"
 draft = false
 tags = ["Store List"]
-date = 07/06/2024
+date = "07/06/2024"
 
 [Article]
 startDate = ""

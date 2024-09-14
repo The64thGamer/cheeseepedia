@@ -2,7 +2,7 @@
 title = "Waldorf, MD (3241 Plaza Way)"
 draft = false
 tags = ["Store List"]
-date = 01/20/2024
+date = "01/20/2024"
 
 [Article]
 startDate = "6/18/2012"

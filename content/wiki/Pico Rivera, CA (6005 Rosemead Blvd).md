@@ -2,7 +2,7 @@
 title = "Pico Rivera, CA (6005 Rosemead Blvd)"
 draft = false
 tags = ["Store List"]
-date = 06/27/2024
+date = "06/27/2024"
 
 [Article]
 startDate = "-/-/1982"

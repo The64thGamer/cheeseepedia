@@ -2,7 +2,7 @@
 title = "Attleboro, MA (287 Washington St)"
 draft = false
 tags = ["Store List"]
-date = 05/12/2024
+date = "05/12/2024"
 
 [Article]
 startDate = "10/4/1993"

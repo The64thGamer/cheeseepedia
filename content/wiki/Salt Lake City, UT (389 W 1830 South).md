@@ -2,7 +2,7 @@
 title = "Salt Lake City, UT (389 W 1830 South)"
 draft = false
 tags = ["Store List"]
-date = 09/03/2024
+date = "09/03/2024"
 
 [Article]
 startDate = "7/22/2013"

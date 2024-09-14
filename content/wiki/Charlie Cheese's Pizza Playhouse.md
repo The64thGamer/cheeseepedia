@@ -2,7 +2,7 @@
 title = "Charlie Cheese's Pizza Playhouse"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 03/14/2024
+date = "03/14/2024"
 
 [Article]
 startDate = ""

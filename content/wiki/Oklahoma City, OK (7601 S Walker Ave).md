@@ -2,7 +2,7 @@
 title = "Oklahoma City, OK (7601 S Walker Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "5/-/2005"

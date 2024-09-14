@@ -2,7 +2,7 @@
 title = "Myrtle Beach, SC (615 Lake Arrowhead Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/10/2023
+date = "12/10/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Naperville, IL (509 Illinois Rte 59)"
 draft = false
 tags = []
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = "3/9/2015"

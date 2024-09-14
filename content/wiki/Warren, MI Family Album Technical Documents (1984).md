@@ -2,7 +2,7 @@
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
 tags = ["Documents"]
-date = 05/02/2023
+date = "05/02/2023"
 
 [Article]
 startDate = ""

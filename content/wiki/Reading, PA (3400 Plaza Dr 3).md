@@ -2,7 +2,7 @@
 title = "Reading, PA (3400 Plaza Dr 3)"
 draft = false
 tags = ["MajorMagic"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "12/6/1982"

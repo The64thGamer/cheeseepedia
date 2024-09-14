@@ -2,7 +2,7 @@
 title = "Tu Eres La Estrella En Chuck E. Cheese's"
 draft = false
 tags = ["Merchandise"]
-date = 04/16/2023
+date = "04/16/2023"
 
 [Article]
 startDate = "-/-/1990"

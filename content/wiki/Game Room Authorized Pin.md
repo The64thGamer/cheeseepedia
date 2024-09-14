@@ -2,7 +2,7 @@
 title = "Game Room Authorized Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 07/08/2023
+date = "07/08/2023"
 
 [Article]
 startDate = "-/-/2017"

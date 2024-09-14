@@ -2,7 +2,7 @@
 title = "Winchester Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 08/14/2023
+date = "08/14/2023"
 
 [Article]
 startDate = ""

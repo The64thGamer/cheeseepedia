@@ -2,7 +2,7 @@
 title = "Glen Burnie, MD (6637 Governor Ritchie Hwy)"
 draft = false
 tags = ["Store List"]
-date = 10/02/2023
+date = "10/02/2023"
 
 [Article]
 startDate = "11/7/1990"

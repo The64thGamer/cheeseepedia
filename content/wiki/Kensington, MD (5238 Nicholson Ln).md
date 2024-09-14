@@ -2,7 +2,7 @@
 title = "Kensington, MD (5238 Nicholson Ln)"
 draft = false
 tags = ["Store List"]
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = "11/1/2023"

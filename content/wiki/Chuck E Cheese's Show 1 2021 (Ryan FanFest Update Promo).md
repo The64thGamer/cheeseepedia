@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)"
 draft = false
 tags = []
-date = 02/23/2022
+date = "02/23/2022"
 
 [Article]
 startDate = ""

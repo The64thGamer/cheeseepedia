@@ -2,7 +2,7 @@
 title = "PTT Winchester Chuck E. Cheese Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/27/2023
+date = "08/27/2023"
 
 [Article]
 startDate = ""

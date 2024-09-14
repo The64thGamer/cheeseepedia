@@ -2,7 +2,7 @@
 title = "Kansas City, MO (334 E 31st St)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 10/09/2023
+date = "10/09/2023"
 
 [Article]
 startDate = "5/24/2018"

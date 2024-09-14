@@ -2,7 +2,7 @@
 title = "Aurora, CO (14005 E Exposition Ave)"
 draft = false
 tags = ["Store List"]
-date = 04/01/2024
+date = "04/01/2024"
 
 [Article]
 startDate = "11/2/1999"

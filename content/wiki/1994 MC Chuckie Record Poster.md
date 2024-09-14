@@ -2,7 +2,7 @@
 title = "1994 MC Chuckie Record Poster"
 draft = false
 tags = []
-date = 07/31/2022
+date = "07/31/2022"
 
 [Article]
 startDate = "-/-/1994"

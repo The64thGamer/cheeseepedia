@@ -2,7 +2,7 @@
 title = "Showdog (SPP Menu Item))"
 draft = false
 tags = ["Menu Items"]
-date = 05/17/2024
+date = "05/17/2024"
 
 [Article]
 startDate = ""

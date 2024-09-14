@@ -2,7 +2,7 @@
 title = "Large Helen Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 11/08/2023
+date = "11/08/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Sunnyvale, CA (1247 W El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = 07/12/2024
+date = "07/12/2024"
 
 [Article]
 startDate = "-/-/1980"

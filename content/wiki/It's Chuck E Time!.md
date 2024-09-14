@@ -2,7 +2,7 @@
 title = "It's Chuck E. Time!"
 draft = false
 tags = ["Merchandise"]
-date = 09/24/2023
+date = "09/24/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "East Hanover, NJ (145 Route 10)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2024
+date = "06/25/2024"
 
 [Article]
 startDate = "10/31/1994"

@@ -2,7 +2,7 @@
 title = "Waco, TX (5156 W Waco Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/14/2024
+date = "05/14/2024"
 
 [Article]
 startDate = "-/-/1986"

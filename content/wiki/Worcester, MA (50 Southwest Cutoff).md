@@ -2,7 +2,7 @@
 title = "Worcester, MA (50 Southwest Cutoff)"
 draft = false
 tags = ["Store List"]
-date = 05/26/2024
+date = "05/26/2024"
 
 [Article]
 startDate = "8/-/1992"

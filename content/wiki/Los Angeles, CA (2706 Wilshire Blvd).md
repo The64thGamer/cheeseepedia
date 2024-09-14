@@ -2,7 +2,7 @@
 title = "Los Angeles, CA (2706 Wilshire Blvd)"
 draft = false
 tags = ["Store List"]
-date = 04/30/2023
+date = "04/30/2023"
 
 [Article]
 startDate = "4/1/2014"

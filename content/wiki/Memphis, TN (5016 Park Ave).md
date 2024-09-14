@@ -2,7 +2,7 @@
 title = "Memphis, TN (5016 Park Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "8/-/1981"

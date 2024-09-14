@@ -2,7 +2,7 @@
 title = "Arlington Heights, IL (955 W Dundee Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/15/2023
+date = "10/15/2023"
 
 [Article]
 startDate = "10/7/1981"

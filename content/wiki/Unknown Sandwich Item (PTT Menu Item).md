@@ -2,7 +2,7 @@
 title = "Unknown Sandwich Item (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 02/05/2023
+date = "02/05/2023"
 
 [Article]
 startDate = ""

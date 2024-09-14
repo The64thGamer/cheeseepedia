@@ -2,7 +2,7 @@
 title = "Flushing, NY (40-24 College Point Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/19/2023
+date = "08/19/2023"
 
 [Article]
 startDate = "12/28/2010"

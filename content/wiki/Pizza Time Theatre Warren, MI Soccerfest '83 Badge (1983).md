@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Warren, MI Soccerfest '83 Badge (1983)"
 draft = false
 tags = ["Merchandise"]
-date = 03/01/2022
+date = "03/01/2022"
 
 [Article]
 startDate = ""

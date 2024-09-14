@@ -2,7 +2,7 @@
 title = "Garland, TX (4992 State Hwy 190)"
 draft = false
 tags = ["Store List"]
-date = 10/22/2023
+date = "10/22/2023"
 
 [Article]
 startDate = ""

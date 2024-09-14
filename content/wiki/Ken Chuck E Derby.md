@@ -2,7 +2,7 @@
 title = "Ken Chuck E. Derby"
 draft = false
 tags = ["Arcade Games"]
-date = 05/22/2023
+date = "05/22/2023"
 
 [Article]
 startDate = ""

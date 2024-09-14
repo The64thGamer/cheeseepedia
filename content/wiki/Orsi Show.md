@@ -2,7 +2,7 @@
 title = "Orsi Show"
 draft = false
 tags = ["Showtapes"]
-date = 07/21/2022
+date = "07/21/2022"
 
 [Article]
 startDate = ""

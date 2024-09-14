@@ -2,7 +2,7 @@
 title = "Dublin, OH (2711 Martin Road)"
 draft = false
 tags = []
-date = 04/29/2024
+date = "04/29/2024"
 
 [Article]
 startDate = "10/11/1993"

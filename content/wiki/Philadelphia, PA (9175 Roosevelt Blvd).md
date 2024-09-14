@@ -2,7 +2,7 @@
 title = "Philadelphia, PA (9175 Roosevelt Blvd)"
 draft = false
 tags = ["Store List"]
-date = 05/04/2023
+date = "05/04/2023"
 
 [Article]
 startDate = "8/8/1982"

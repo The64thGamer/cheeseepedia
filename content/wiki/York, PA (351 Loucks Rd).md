@@ -2,7 +2,7 @@
 title = "York, PA (351 Loucks Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = "8/23/1983"

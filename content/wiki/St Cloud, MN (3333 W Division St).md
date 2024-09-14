@@ -2,7 +2,7 @@
 title = "St. Cloud, MN (3333 W Division St)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "4/24/1984"

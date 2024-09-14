@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party"
 draft = false
 tags = ["Showtapes"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = ""

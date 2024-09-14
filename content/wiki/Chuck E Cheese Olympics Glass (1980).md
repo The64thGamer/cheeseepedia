@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Olympics Glass (1980)"
 draft = false
 tags = ["Merchandise"]
-date = 01/04/2023
+date = "01/04/2023"
 
 [Article]
 startDate = ""

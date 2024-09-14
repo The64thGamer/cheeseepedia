@@ -2,7 +2,7 @@
 title = "North Las Vegas, NV (755 W. Craig Rd Suite 144)"
 draft = false
 tags = ["Store List"]
-date = 06/05/2024
+date = "06/05/2024"
 
 [Article]
 startDate = "1/19/2024"

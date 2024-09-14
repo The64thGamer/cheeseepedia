@@ -2,7 +2,7 @@
 title = "San Bernardino, CA (955 South E St)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2024
+date = "06/25/2024"
 
 [Article]
 startDate = "12/-/1981"

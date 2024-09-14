@@ -2,7 +2,7 @@
 title = "West Melbourne, FL (2250 Coastal Lane)"
 draft = false
 tags = ["Store List"]
-date = 08/12/2024
+date = "08/12/2024"
 
 [Article]
 startDate = "4/26/2011"

@@ -2,7 +2,7 @@
 title = "Greenville, SC (253 Congaree Rd)"
 draft = false
 tags = ["Store List"]
-date = 02/03/2024
+date = "02/03/2024"
 
 [Article]
 startDate = "2/-/1983"

@@ -2,7 +2,7 @@
 title = "Columbus, OH (4284 Macsway Ave)"
 draft = false
 tags = ["Store List"]
-date = 10/30/2023
+date = "10/30/2023"
 
 [Article]
 startDate = ""

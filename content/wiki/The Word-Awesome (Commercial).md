@@ -2,7 +2,7 @@
 title = "The Word-Awesome (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 02/22/2023
+date = "02/22/2023"
 
 [Article]
 startDate = ""

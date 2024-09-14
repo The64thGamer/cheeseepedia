@@ -2,7 +2,7 @@
 title = "Louisville, KY (2030 S Hurstbourne Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 07/24/2024
+date = "07/24/2024"
 
 [Article]
 startDate = "1/2/2000"

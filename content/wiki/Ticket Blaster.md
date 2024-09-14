@@ -2,7 +2,7 @@
 title = "Ticket Blaster"
 draft = false
 tags = ["Arcade Games"]
-date = 11/07/2022
+date = "11/07/2022"
 
 [Article]
 startDate = ""

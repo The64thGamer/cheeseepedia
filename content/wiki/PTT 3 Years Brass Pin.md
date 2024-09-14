@@ -2,7 +2,7 @@
 title = "PTT 3 Years Brass Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 08/17/2022
+date = "08/17/2022"
 
 [Article]
 startDate = ""

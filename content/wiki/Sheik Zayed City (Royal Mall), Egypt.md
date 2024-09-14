@@ -2,7 +2,7 @@
 title = "Sheik Zayed City (Royal Mall), Egypt"
 draft = false
 tags = ["Store List"]
-date = 03/29/2024
+date = "03/29/2024"
 
 [Article]
 startDate = "2/10/2024"

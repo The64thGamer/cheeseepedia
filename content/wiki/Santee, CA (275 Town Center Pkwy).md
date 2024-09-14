@@ -2,7 +2,7 @@
 title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 12/05/2023
+date = "12/05/2023"
 
 [Article]
 startDate = "9/18/2023"

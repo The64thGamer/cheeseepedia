@@ -2,7 +2,7 @@
 title = "Fun Zone & Pizza"
 draft = false
 tags = []
-date = 08/17/2024
+date = "08/17/2024"
 
 [Article]
 startDate = ""

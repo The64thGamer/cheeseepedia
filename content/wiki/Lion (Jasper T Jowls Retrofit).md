@@ -2,7 +2,7 @@
 title = "Lion (Jasper T. Jowls Retrofit)"
 draft = false
 tags = ["FunZone"]
-date = 08/17/2024
+date = "08/17/2024"
 
 [Article]
 startDate = ""

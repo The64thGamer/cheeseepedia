@@ -2,7 +2,7 @@
 title = "Knoxville, TN (7522 Kingston Pike)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "8/23/1982"

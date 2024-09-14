@@ -2,7 +2,7 @@
 title = "Decatur, AL (1801 Beltline Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/08/2024
+date = "09/08/2024"
 
 [Article]
 startDate = "12/26/2005"

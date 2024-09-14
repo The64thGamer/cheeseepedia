@@ -2,7 +2,7 @@
 title = "Greensboro, NC (702-A Pembroke Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/22/2024
+date = "05/22/2024"
 
 [Article]
 startDate = "10/22/1984"

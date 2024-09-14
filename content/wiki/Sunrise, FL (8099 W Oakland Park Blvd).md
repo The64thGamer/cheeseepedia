@@ -2,7 +2,7 @@
 title = "Sunrise, FL (8099 W Oakland Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "4/16/1991"

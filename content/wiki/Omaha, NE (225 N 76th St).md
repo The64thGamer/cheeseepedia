@@ -2,7 +2,7 @@
 title = "Omaha, NE (225 N 76th St)"
 draft = false
 tags = ["Store List"]
-date = 08/26/2024
+date = "08/26/2024"
 
 [Article]
 startDate = "6/23/1982"

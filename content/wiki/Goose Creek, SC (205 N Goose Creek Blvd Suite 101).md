@@ -2,7 +2,7 @@
 title = "Goose Creek, SC (205 N Goose Creek Blvd Suite 101)"
 draft = false
 tags = []
-date = 05/29/2024
+date = "05/29/2024"
 
 [Article]
 startDate = ""

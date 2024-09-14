@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Balloon Alphabet"
 draft = false
 tags = ["Video Games"]
-date = 01/29/2023
+date = "01/29/2023"
 
 [Article]
 startDate = "9/20/2011"

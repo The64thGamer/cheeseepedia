@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
 tags = ["Merchandise"]
-date = 09/24/2023
+date = "09/24/2023"
 
 [Article]
 startDate = "-/-/1999"

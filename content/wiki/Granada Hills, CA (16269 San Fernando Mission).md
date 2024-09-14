@@ -2,7 +2,7 @@
 title = "Granada Hills, CA (16269 San Fernando Mission)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "-/-/1981"

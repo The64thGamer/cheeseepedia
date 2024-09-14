@@ -2,7 +2,7 @@
 title = "Madame Oink IV - The Tune Machine"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = ""

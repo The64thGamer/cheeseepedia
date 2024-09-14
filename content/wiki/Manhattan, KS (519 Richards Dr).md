@@ -2,7 +2,7 @@
 title = "Manhattan, KS (519 Richards Dr)"
 draft = false
 tags = ["Store List"]
-date = 06/22/2024
+date = "06/22/2024"
 
 [Article]
 startDate = "8/18/1983"

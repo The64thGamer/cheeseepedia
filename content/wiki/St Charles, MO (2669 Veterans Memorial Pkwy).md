@@ -2,7 +2,7 @@
 title = "St. Charles, MO (2669 Veterans Memorial Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 06/24/2024
+date = "06/24/2024"
 
 [Article]
 startDate = "10/27/1982"

@@ -2,7 +2,7 @@
 title = "Pumpkin Festival Warblettes (Warblettes Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 02/28/2024
+date = "02/28/2024"
 
 [Article]
 startDate = ""

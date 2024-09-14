@@ -2,7 +2,7 @@
 title = "Chuck E's Jukebox Jam Show"
 draft = false
 tags = ["Live Shows"]
-date = 08/02/2022
+date = "08/02/2022"
 
 [Article]
 startDate = "-/-/1997"

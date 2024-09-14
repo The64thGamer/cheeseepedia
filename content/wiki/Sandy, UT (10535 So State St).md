@@ -2,7 +2,7 @@
 title = "Sandy, UT (10535 So. State St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "-/-/1996"

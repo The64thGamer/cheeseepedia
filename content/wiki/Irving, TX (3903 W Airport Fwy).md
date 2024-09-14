@@ -2,7 +2,7 @@
 title = "Irving, TX (3903 W Airport Fwy)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "-/-/1988"

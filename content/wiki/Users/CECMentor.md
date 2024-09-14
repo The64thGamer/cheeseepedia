@@ -2,7 +2,7 @@
 title = "CECMentor"
 draft = false
 tags = ["User"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = ""

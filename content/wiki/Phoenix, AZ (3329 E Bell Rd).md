@@ -2,7 +2,7 @@
 title = "Phoenix, AZ (3329 E Bell Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/28/2023
+date = "10/28/2023"
 
 [Article]
 startDate = "3/26/1999"

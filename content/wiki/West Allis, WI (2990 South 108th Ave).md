@@ -2,7 +2,7 @@
 title = "West Allis, WI (2990 South 108th Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/10/2024
+date = "05/10/2024"
 
 [Article]
 startDate = "12/-/1981"

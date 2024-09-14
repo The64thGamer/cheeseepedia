@@ -2,7 +2,7 @@
 title = "Fort Worth, TX (9121 North Fwy)"
 draft = false
 tags = ["Store List"]
-date = 08/09/2023
+date = "08/09/2023"
 
 [Article]
 startDate = "6/6/2016"

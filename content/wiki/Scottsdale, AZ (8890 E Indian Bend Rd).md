@@ -2,7 +2,7 @@
 title = "Scottsdale, AZ (8890 E Indian Bend Rd)"
 draft = false
 tags = ["Store List"]
-date = 11/15/2023
+date = "11/15/2023"
 
 [Article]
 startDate = "9/-/1999"

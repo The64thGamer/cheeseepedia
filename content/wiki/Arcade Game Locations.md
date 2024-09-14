@@ -2,7 +2,7 @@
 title = "Arcade Game Locations"
 draft = false
 tags = []
-date = 11/29/2022
+date = "11/29/2022"
 
 [Article]
 startDate = ""

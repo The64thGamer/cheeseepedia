@@ -2,7 +2,7 @@
 title = "Shawnee, KS (12280 Shawnee Mission)"
 draft = false
 tags = ["Store List"]
-date = 07/10/2023
+date = "07/10/2023"
 
 [Article]
 startDate = "8/19/1981"

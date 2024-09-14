@@ -2,7 +2,7 @@
 title = "Fantasy Forest Game Preserve - Black (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 08/19/2023
+date = "08/19/2023"
 
 [Article]
 startDate = ""

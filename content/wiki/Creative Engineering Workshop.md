@@ -2,7 +2,7 @@
 title = "Creative Engineering Workshop"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 08/20/2023
+date = "08/20/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Computer Learning Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 12/06/2022
+date = "12/06/2022"
 
 [Article]
 startDate = ""

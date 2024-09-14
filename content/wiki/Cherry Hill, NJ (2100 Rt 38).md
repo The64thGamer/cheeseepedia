@@ -2,7 +2,7 @@
 title = "Cherry Hill, NJ (2100 Rt 38)"
 draft = false
 tags = ["Store List"]
-date = 10/19/2023
+date = "10/19/2023"
 
 [Article]
 startDate = "8/25/1992"

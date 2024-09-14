@@ -2,7 +2,7 @@
 title = "The Great All-American Pizza Show! (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 04/03/2024
+date = "04/03/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Family Vision"
 draft = false
 tags = []
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = ""

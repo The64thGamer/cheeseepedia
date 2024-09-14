@@ -2,7 +2,7 @@
 title = "3400 Plaza Dr, Reading, PA"
 draft = false
 tags = []
-date = 01/01/2023
+date = "01/01/2023"
 
 [Article]
 startDate = "12/6/1982"

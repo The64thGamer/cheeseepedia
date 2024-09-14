@@ -2,7 +2,7 @@
 title = "Wizard Of Cheez (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 07/19/2023
+date = "07/19/2023"
 
 [Article]
 startDate = "-/-/1988"

@@ -2,7 +2,7 @@
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/04/2024
+date = "08/04/2024"
 
 [Article]
 startDate = ""

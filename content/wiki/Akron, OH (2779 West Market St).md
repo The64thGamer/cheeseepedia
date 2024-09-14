@@ -2,7 +2,7 @@
 title = "Akron, OH (2779 West Market St)"
 draft = false
 tags = ["Store List"]
-date = 01/23/2024
+date = "01/23/2024"
 
 [Article]
 startDate = "10/25/1993"

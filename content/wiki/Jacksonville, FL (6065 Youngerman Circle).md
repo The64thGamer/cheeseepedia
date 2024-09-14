@@ -2,7 +2,7 @@
 title = "Jacksonville, FL (6065 Youngerman Circle)"
 draft = false
 tags = ["Store List"]
-date = 03/14/2024
+date = "03/14/2024"
 
 [Article]
 startDate = "12/22/1981"

@@ -2,7 +2,7 @@
 title = "CEC Stage Diagnostics 2007"
 draft = false
 tags = ["Showtapes"]
-date = 01/31/2023
+date = "01/31/2023"
 
 [Article]
 startDate = ""

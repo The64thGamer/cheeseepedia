@@ -2,7 +2,7 @@
 title = "Newington, CT (3075 Berlin Tpke)"
 draft = false
 tags = ["Store List"]
-date = 04/23/2024
+date = "04/23/2024"
 
 [Article]
 startDate = "10/29/1991"

@@ -2,7 +2,7 @@
 title = "Carson, CA (20700 S Avalon Blvd"
 draft = false
 tags = []
-date = 06/23/2023
+date = "06/23/2023"
 
 [Article]
 startDate = ""

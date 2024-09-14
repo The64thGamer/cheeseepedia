@@ -2,7 +2,7 @@
 title = "PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant (1982)"
 draft = false
 tags = []
-date = 04/18/2023
+date = "04/18/2023"
 
 [Article]
 startDate = ""

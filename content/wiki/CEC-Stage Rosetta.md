@@ -2,7 +2,7 @@
 title = "CEC-Stage Rosetta"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = ""

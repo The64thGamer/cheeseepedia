@@ -2,7 +2,7 @@
 title = "Weber Roast-A-Rama Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 05/14/2024
+date = "05/14/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Bradenton, FL (415 Cortez Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = ""

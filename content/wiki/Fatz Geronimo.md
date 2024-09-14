@@ -2,7 +2,7 @@
 title = "Fatz Geronimo"
 draft = false
 tags = ["Characters"]
-date = 06/19/2024
+date = "06/19/2024"
 
 [Article]
 startDate = ""

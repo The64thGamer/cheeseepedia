@@ -2,7 +2,7 @@
 title = "The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 09/03/2023
+date = "09/03/2023"
 
 [Article]
 startDate = ""

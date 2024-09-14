@@ -2,7 +2,7 @@
 title = "Carina, Queensland, Australia"
 draft = false
 tags = ["Store List"]
-date = 07/10/2023
+date = "07/10/2023"
 
 [Article]
 startDate = "-/-/1982"

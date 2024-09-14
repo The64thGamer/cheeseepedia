@@ -2,7 +2,7 @@
 title = "Lancaster, PA (2020 Fruitville Pike)"
 draft = false
 tags = ["Store List"]
-date = 05/16/2024
+date = "05/16/2024"
 
 [Article]
 startDate = "5/23/1994"

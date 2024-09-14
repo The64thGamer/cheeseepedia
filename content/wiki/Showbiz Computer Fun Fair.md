@@ -2,7 +2,7 @@
 title = "Showbiz Computer Fun Fair"
 draft = false
 tags = ["Arcade Games"]
-date = 06/02/2024
+date = "06/02/2024"
 
 [Article]
 startDate = ""

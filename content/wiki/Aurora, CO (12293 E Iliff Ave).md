@@ -2,7 +2,7 @@
 title = "Aurora, CO (12293 E Iliff Ave)"
 draft = false
 tags = ["Store List"]
-date = 04/17/2024
+date = "04/17/2024"
 
 [Article]
 startDate = "1/28/1981"

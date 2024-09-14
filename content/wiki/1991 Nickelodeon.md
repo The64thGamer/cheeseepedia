@@ -2,7 +2,7 @@
 title = "1991 Nickelodeon"
 draft = false
 tags = []
-date = 01/09/2023
+date = "01/09/2023"
 
 [Article]
 startDate = ""

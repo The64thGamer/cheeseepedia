@@ -2,7 +2,7 @@
 title = "Villa Park, IL (200 W Roosevelt Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/25/2023
+date = "09/25/2023"
 
 [Article]
 startDate = "8/7/2001"

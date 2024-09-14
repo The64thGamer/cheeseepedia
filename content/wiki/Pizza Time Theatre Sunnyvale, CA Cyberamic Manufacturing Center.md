@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Sunnyvale, CA Cyberamic Manufacturing Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 08/23/2022
+date = "08/23/2022"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Arlington, TX (2216 S Fielder Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/01/2024
+date = "06/01/2024"
 
 [Article]
 startDate = "10/-/1980"

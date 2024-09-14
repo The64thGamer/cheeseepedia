@@ -2,7 +2,7 @@
 title = "Phoenix, AZ (8039 North 35th Ave)"
 draft = false
 tags = ["Store List"]
-date = 11/22/2023
+date = "11/22/2023"
 
 [Article]
 startDate = "10/28/1983"

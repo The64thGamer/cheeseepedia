@@ -2,7 +2,7 @@
 title = "Burnaby, British Columbia, Canada (9898 Government Pl)"
 draft = false
 tags = ["Store List"]
-date = 04/20/2024
+date = "04/20/2024"
 
 [Article]
 startDate = "12/-/1983"

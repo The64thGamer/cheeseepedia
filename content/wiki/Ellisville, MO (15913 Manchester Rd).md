@@ -2,7 +2,7 @@
 title = "Ellisville, MO (15913 Manchester Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = "8/21/1990"

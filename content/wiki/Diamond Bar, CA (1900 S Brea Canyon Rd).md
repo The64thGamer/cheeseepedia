@@ -2,7 +2,7 @@
 title = "Diamond Bar, CA (1900 S Brea Canyon Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/02/2024
+date = "09/02/2024"
 
 [Article]
 startDate = "-/-/1983"

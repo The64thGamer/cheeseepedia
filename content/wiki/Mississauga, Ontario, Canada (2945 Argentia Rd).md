@@ -2,7 +2,7 @@
 title = "Mississauga, Ontario, Canada (2945 Argentia Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/24/2024
+date = "03/24/2024"
 
 [Article]
 startDate = "1/12/2006"

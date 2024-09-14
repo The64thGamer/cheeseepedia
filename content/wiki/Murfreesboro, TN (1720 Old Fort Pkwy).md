@@ -2,7 +2,7 @@
 title = "Murfreesboro, TN (1720 Old Fort Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 06/23/2023
+date = "06/23/2023"
 
 [Article]
 startDate = ""

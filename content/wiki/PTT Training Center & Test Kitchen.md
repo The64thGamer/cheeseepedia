@@ -2,7 +2,7 @@
 title = "PTT Training Center & Test Kitchen"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 12/08/2022
+date = "12/08/2022"
 
 [Article]
 startDate = ""

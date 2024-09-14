@@ -2,7 +2,7 @@
 title = "Valley Stream, NY (750 Sunrise Highway Suite 105)"
 draft = false
 tags = ["Store List"]
-date = 02/07/2024
+date = "02/07/2024"
 
 [Article]
 startDate = "2/5/2024"

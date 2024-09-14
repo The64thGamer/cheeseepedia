@@ -2,7 +2,7 @@
 title = "Air Hockey"
 draft = false
 tags = ["Arcade Games"]
-date = 01/30/2023
+date = "01/30/2023"
 
 [Article]
 startDate = ""

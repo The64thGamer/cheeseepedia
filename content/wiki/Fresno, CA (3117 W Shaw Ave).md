@@ -2,7 +2,7 @@
 title = "Fresno, CA (3117 W Shaw Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/02/2024
+date = "03/02/2024"
 
 [Article]
 startDate = "7/18/1983"

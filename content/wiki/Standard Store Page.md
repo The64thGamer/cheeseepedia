@@ -2,7 +2,7 @@
 title = "Standard: Store Page"
 draft = false
 tags = ["Standards Pages"]
-date = 12/24/2023
+date = "12/24/2023"
 
 [Article]
 startDate = ""

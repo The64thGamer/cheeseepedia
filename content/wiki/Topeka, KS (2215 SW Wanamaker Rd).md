@@ -2,7 +2,7 @@
 title = "Topeka, KS (2215 SW Wanamaker Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = "12/-/1990"

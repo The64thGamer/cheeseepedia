@@ -2,7 +2,7 @@
 title = "Daniel and The Dixie Diggers (Rusutsu Resort)"
 draft = false
 tags = []
-date = 06/01/2024
+date = "06/01/2024"
 
 [Article]
 startDate = ""

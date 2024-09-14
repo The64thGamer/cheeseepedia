@@ -2,7 +2,7 @@
 title = "Peoria, IL (2601 W Lake Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/24/2023
+date = "05/24/2023"
 
 [Article]
 startDate = "12/3/1982"

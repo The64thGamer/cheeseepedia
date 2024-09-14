@@ -2,7 +2,7 @@
 title = "Warblettes (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = ""

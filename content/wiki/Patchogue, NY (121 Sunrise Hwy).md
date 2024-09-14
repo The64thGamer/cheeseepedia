@@ -2,7 +2,7 @@
 title = "Patchogue, NY (121 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/09/2024
+date = "07/09/2024"
 
 [Article]
 startDate = "3/29/1993"

@@ -2,7 +2,7 @@
 title = "Golf (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "-/-/1994"

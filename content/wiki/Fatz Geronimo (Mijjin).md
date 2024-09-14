@@ -2,7 +2,7 @@
 title = "Fatz Geronimo (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = 12/28/2023
+date = "12/28/2023"
 
 [Article]
 startDate = ""

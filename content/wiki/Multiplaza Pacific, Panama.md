@@ -2,7 +2,7 @@
 title = "Multiplaza Pacific, Panama"
 draft = false
 tags = ["Store List"]
-date = 07/01/2024
+date = "07/01/2024"
 
 [Article]
 startDate = "-/-/2013"

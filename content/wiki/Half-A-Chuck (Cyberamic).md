@@ -2,7 +2,7 @@
 title = "Half-A-Chuck (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 05/11/2024
+date = "05/11/2024"
 
 [Article]
 startDate = ""

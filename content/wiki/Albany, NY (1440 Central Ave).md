@@ -2,7 +2,7 @@
 title = "Albany, NY (1440 Central Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/08/2024
+date = "05/08/2024"
 
 [Article]
 startDate = "-/-/1982"

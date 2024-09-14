@@ -2,7 +2,7 @@
 title = "Westland MI (208 S Wayne Rd)"
 draft = false
 tags = []
-date = 09/02/2024
+date = "09/02/2024"
 
 [Article]
 startDate = "12/18/1980"

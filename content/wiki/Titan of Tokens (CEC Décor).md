@@ -2,7 +2,7 @@
 title = "'Titan of Tokens' (CEC Décor)"
 draft = false
 tags = []
-date = 07/08/2023
+date = "07/08/2023"
 
 [Article]
 startDate = "-/-/2005"

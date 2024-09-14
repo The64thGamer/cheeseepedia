@@ -2,7 +2,7 @@
 title = "Cherry Hill, NJ (1660 N Kings Hwy)"
 draft = false
 tags = ["Store List"]
-date = 12/10/2023
+date = "12/10/2023"
 
 [Article]
 startDate = "1/-/1985"

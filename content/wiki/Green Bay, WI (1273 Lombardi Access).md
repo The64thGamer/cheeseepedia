@@ -2,7 +2,7 @@
 title = "Green Bay, WI (1273 Lombardi Access)"
 draft = false
 tags = ["Store List"]
-date = 03/15/2024
+date = "03/15/2024"
 
 [Article]
 startDate = "10/28/1982"

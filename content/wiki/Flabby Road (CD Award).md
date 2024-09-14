@@ -2,7 +2,7 @@
 title = "'Flabby Road' (CD Award)"
 draft = false
 tags = []
-date = 07/20/2023
+date = "07/20/2023"
 
 [Article]
 startDate = ""

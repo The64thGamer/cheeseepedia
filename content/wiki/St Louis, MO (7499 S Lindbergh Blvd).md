@@ -2,7 +2,7 @@
 title = "St. Louis, MO (7499 S Lindbergh Blvd)"
 draft = false
 tags = ["Store List"]
-date = 12/15/2023
+date = "12/15/2023"
 
 [Article]
 startDate = ""

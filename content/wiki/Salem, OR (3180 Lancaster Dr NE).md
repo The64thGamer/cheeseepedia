@@ -2,7 +2,7 @@
 title = "Salem, OR (3180 Lancaster Dr NE)"
 draft = false
 tags = ["Store List"]
-date = 12/28/2023
+date = "12/28/2023"
 
 [Article]
 startDate = "1/1/1984"

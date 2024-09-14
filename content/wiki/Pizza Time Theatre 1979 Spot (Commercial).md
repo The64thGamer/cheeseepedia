@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre 1979 Spot (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 04/07/2024
+date = "04/07/2024"
 
 [Article]
 startDate = ""

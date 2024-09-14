@@ -2,7 +2,7 @@
 title = "Columbus, GA (3201 Macon Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/19/2023
+date = "07/19/2023"
 
 [Article]
 startDate = "2/17/1982"

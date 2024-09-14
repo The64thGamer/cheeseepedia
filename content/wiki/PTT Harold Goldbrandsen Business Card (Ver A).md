@@ -2,7 +2,7 @@
 title = "PTT Harold Goldbrandsen Business Card (Ver. A)"
 draft = false
 tags = ["Corporate Documents"]
-date = 04/21/2023
+date = "04/21/2023"
 
 [Article]
 startDate = ""

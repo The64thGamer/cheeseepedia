@@ -2,7 +2,7 @@
 title = "Pumpkin Festival Helen (Helen Henny Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 12/07/2022
+date = "12/07/2022"
 
 [Article]
 startDate = ""

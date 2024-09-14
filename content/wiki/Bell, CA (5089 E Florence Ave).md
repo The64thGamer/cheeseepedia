@@ -2,7 +2,7 @@
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/26/2024
+date = "03/26/2024"
 
 [Article]
 startDate = "-/-/1982"

@@ -2,7 +2,7 @@
 title = "San Diego / Mira Mesa, CA (9840 Hibert St)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "1/-/1982"

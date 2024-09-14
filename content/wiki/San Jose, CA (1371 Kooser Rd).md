@@ -2,7 +2,7 @@
 title = "San Jose, CA (1371 Kooser Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/06/2024
+date = "07/06/2024"
 
 [Article]
 startDate = "12/2/1978"

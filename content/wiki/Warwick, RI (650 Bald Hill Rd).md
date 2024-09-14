@@ -2,7 +2,7 @@
 title = "Warwick, RI (650 Bald Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/11/2024
+date = "08/11/2024"
 
 [Article]
 startDate = ""

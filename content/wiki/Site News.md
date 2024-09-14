@@ -2,7 +2,7 @@
 title = "Site News"
 draft = false
 tags = ["Welcome"]
-date = 08/18/2024
+date = "08/18/2024"
 
 [Article]
 startDate = ""

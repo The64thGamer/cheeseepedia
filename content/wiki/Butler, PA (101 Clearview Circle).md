@@ -2,7 +2,7 @@
 title = "Butler, PA (101 Clearview Circle)"
 draft = false
 tags = ["Store List"]
-date = 04/20/2023
+date = "04/20/2023"
 
 [Article]
 startDate = "4/21/2004"

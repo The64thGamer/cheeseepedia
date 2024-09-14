@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Charlotte (Pineville) Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
-date = 08/02/2024
+date = "08/02/2024"
 
 [Article]
 startDate = "7/19/2024"

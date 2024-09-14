@@ -2,7 +2,7 @@
 title = "CEI 4-Track Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = 11/24/2023
+date = "11/24/2023"
 
 [Article]
 startDate = ""

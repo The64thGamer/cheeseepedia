@@ -2,7 +2,7 @@
 title = "Patriotic 1993 Show"
 draft = false
 tags = ["Showtapes"]
-date = 07/15/2022
+date = "07/15/2022"
 
 [Article]
 startDate = ""

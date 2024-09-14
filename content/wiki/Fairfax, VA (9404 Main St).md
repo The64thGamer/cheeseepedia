@@ -2,7 +2,7 @@
 title = "Fairfax, VA (9404 Main St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "12/22/1983"

@@ -2,7 +2,7 @@
 title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "7/-/1992"

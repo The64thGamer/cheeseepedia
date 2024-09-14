@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Show Reimagined - These Hands"
 draft = false
 tags = ["Showtapes"]
-date = 06/26/2024
+date = "06/26/2024"
 
 [Article]
 startDate = ""

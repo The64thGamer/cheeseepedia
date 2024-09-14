@@ -2,7 +2,7 @@
 title = "Go Go Chuck E"
 draft = false
 tags = []
-date = 02/13/2022
+date = "02/13/2022"
 
 [Article]
 startDate = "1/-/1995"

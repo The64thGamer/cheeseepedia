@@ -2,7 +2,7 @@
 title = "Tone Decoder Control System"
 draft = false
 tags = []
-date = 02/06/2023
+date = "02/06/2023"
 
 [Article]
 startDate = ""

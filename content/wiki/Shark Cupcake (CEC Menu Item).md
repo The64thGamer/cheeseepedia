@@ -2,7 +2,7 @@
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 12/06/2022
+date = "12/06/2022"
 
 [Article]
 startDate = ""

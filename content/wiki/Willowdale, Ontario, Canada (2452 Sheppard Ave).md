@@ -2,7 +2,7 @@
 title = "Willowdale, Ontario, Canada (2452 Sheppard Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/26/2024
+date = "03/26/2024"
 
 [Article]
 startDate = "10/8/1983"

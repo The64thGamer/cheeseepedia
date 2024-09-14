@@ -2,7 +2,7 @@
 title = "CEC Awesome Adventure Machine Mouse Pad"
 draft = false
 tags = []
-date = 11/06/2022
+date = "11/06/2022"
 
 [Article]
 startDate = ""

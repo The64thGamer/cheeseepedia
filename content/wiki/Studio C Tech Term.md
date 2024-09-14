@@ -2,7 +2,7 @@
 title = "Studio C Tech Term"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 03/22/2023
+date = "03/22/2023"
 
 [Article]
 startDate = ""

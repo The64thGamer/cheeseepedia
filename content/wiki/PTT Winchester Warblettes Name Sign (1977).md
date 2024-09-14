@@ -2,7 +2,7 @@
 title = "PTT Winchester Warblettes Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/08/2023
+date = "08/08/2023"
 
 [Article]
 startDate = ""

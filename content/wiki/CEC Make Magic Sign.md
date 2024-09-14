@@ -2,7 +2,7 @@
 title = "CEC Make Magic Sign"
 draft = false
 tags = []
-date = 05/27/2024
+date = "05/27/2024"
 
 [Article]
 startDate = ""

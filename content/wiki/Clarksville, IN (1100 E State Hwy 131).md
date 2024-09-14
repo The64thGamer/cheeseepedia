@@ -2,7 +2,7 @@
 title = "Clarksville, IN (1100 E State Hwy 131)"
 draft = false
 tags = ["Store List"]
-date = 04/17/2024
+date = "04/17/2024"
 
 [Article]
 startDate = "11/11/2003"

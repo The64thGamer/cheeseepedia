@@ -2,7 +2,7 @@
 title = "Abilene, TX (1874 S Clack St)"
 draft = false
 tags = ["Store List"]
-date = 10/02/2023
+date = "10/02/2023"
 
 [Article]
 startDate = "10/7/1982"

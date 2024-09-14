@@ -2,7 +2,7 @@
 title = "Calgary, Alberta, Canada (2612 32nd St)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "-/-/2006"

@@ -2,7 +2,7 @@
 title = "Lexington, KY (1555 New Circle Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/16/2024
+date = "07/16/2024"
 
 [Article]
 startDate = "12/1/1983"

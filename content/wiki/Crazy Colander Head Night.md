@@ -2,7 +2,7 @@
 title = "Crazy Colander Head Night"
 draft = false
 tags = ["Showtapes"]
-date = 10/10/2023
+date = "10/10/2023"
 
 [Article]
 startDate = ""

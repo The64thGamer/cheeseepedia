@@ -2,7 +2,7 @@
 title = "Catonsville, MD (5912 Baltimore National Pike)"
 draft = false
 tags = ["Store List"]
-date = 06/18/2024
+date = "06/18/2024"
 
 [Article]
 startDate = "2/25/1992"

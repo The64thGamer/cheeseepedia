@@ -2,7 +2,7 @@
 title = "Articulated Helen Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 04/08/2024
+date = "04/08/2024"
 
 [Article]
 startDate = ""

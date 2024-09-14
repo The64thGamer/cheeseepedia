@@ -2,7 +2,7 @@
 title = "Chuck Statue- Liberace (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = 07/15/2023
+date = "07/15/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "'CWO' (Must C TV Award)"
 draft = false
 tags = []
-date = 09/23/2023
+date = "09/23/2023"
 
 [Article]
 startDate = "-/-/1998"

@@ -2,7 +2,7 @@
 title = "SPP Faith/Dreams/Kids Wave Bday"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 01/28/2024
+date = "01/28/2024"
 
 [Article]
 startDate = ""

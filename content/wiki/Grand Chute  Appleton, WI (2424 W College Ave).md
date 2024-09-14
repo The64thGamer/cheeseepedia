@@ -2,7 +2,7 @@
 title = "Grand Chute / Appleton, WI (2424 W College Ave)"
 draft = false
 tags = []
-date = 03/26/2024
+date = "03/26/2024"
 
 [Article]
 startDate = ""

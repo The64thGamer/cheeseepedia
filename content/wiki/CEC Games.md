@@ -2,7 +2,7 @@
 title = "CEC Games"
 draft = false
 tags = ["APS Showtapes"]
-date = 05/31/2023
+date = "05/31/2023"
 
 [Article]
 startDate = ""

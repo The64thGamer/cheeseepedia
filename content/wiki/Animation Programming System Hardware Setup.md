@@ -2,7 +2,7 @@
 title = "Animation Programming System Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 05/12/2023
+date = "05/12/2023"
 
 [Article]
 startDate = ""

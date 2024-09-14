@@ -2,7 +2,7 @@
 title = "Asheville, NC (34 Tunnel Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/28/2023
+date = "12/28/2023"
 
 [Article]
 startDate = "7/20/1984"

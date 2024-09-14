@@ -2,7 +2,7 @@
 title = "Moreno Valley, CA (23160 Sunnymead Blvd)"
 draft = false
 tags = ["Store List"]
-date = 10/19/2023
+date = "10/19/2023"
 
 [Article]
 startDate = "3/11/2002"

@@ -2,7 +2,7 @@
 title = "Boise, ID (6255 Fairview Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/10/2023
+date = "05/10/2023"
 
 [Article]
 startDate = "7/7/1983"

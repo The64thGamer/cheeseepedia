@@ -2,7 +2,7 @@
 title = "Largo, MD (1100 Shoppers Way)"
 draft = false
 tags = ["Store List"]
-date = 06/19/2024
+date = "06/19/2024"
 
 [Article]
 startDate = "2/6/2004"

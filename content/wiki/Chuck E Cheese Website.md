@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Website"
 draft = false
 tags = []
-date = 09/05/2022
+date = "09/05/2022"
 
 [Article]
 startDate = ""

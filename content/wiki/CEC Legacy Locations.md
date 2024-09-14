@@ -2,7 +2,7 @@
 title = "CEC Legacy Locations"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 09/07/2024
+date = "09/07/2024"
 
 [Article]
 startDate = ""

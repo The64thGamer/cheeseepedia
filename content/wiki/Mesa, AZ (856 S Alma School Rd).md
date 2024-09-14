@@ -2,7 +2,7 @@
 title = "Mesa, AZ (856 S Alma School Rd)"
 draft = false
 tags = []
-date = 06/03/2024
+date = "06/03/2024"
 
 [Article]
 startDate = "8/30/1984"

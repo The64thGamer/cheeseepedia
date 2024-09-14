@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 4 2021 (Studio C) (International SPA Covid Promo)"
 draft = false
 tags = []
-date = 09/16/2022
+date = "09/16/2022"
 
 [Article]
 startDate = ""

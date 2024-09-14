@@ -2,7 +2,7 @@
 title = "Allison Alligator/ Gigi Gator (Munch Retrofit)"
 draft = false
 tags = ["Unofficial Retrofits"]
-date = 01/03/2023
+date = "01/03/2023"
 
 [Article]
 startDate = ""

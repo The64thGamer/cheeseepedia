@@ -2,7 +2,7 @@
 title = "Ocala, FL (3500 SW College Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/05/2023
+date = "10/05/2023"
 
 [Article]
 startDate = "4/26/2005"

@@ -2,7 +2,7 @@
 title = "Springfield, OR (3000 Gateway St"
 draft = false
 tags = []
-date = 09/12/2024
+date = "09/12/2024"
 
 [Article]
 startDate = "12/13/2007"

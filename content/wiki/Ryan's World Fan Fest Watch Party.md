@@ -2,7 +2,7 @@
 title = "Ryan's World Fan Fest Watch Party"
 draft = false
 tags = ["Showtapes"]
-date = 02/14/2023
+date = "02/14/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Englewood, CO (1001 W Hampden Ave)"
 draft = false
 tags = ["Store List"]
-date = 02/18/2023
+date = "02/18/2023"
 
 [Article]
 startDate = "7/16/1981"

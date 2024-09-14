@@ -2,7 +2,7 @@
 title = "Superior, CO (305 Marshall Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/24/2023
+date = "12/24/2023"
 
 [Article]
 startDate = "12/23/2003"

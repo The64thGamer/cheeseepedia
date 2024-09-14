@@ -2,7 +2,7 @@
 title = "'Cheesy Television' (Must C TV Award)"
 draft = false
 tags = []
-date = 07/18/2023
+date = "07/18/2023"
 
 [Article]
 startDate = ""

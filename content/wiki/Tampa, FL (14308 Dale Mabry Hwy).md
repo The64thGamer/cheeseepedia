@@ -2,7 +2,7 @@
 title = "Tampa, FL (14308 Dale Mabry Hwy)"
 draft = false
 tags = ["Store List"]
-date = 12/29/2023
+date = "12/29/2023"
 
 [Article]
 startDate = "7/-/1991"

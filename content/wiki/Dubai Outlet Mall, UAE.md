@@ -2,7 +2,7 @@
 title = "Dubai Outlet Mall, U.A.E."
 draft = false
 tags = []
-date = 07/16/2024
+date = "07/16/2024"
 
 [Article]
 startDate = "5/29/2008"

@@ -2,7 +2,7 @@
 title = "Lake Grove, NY (110 New Moriches Road)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 08/23/2024
+date = "08/23/2024"
 
 [Article]
 startDate = "-/-/1996"

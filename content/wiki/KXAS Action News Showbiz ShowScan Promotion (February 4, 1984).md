@@ -2,7 +2,7 @@
 title = "KXAS Action News Showbiz ShowScan Promotion (February 4, 1984)"
 draft = false
 tags = ["News Footage"]
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = ""

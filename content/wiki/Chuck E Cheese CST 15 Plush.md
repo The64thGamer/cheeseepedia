@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese CST 15' Plush"
 draft = false
 tags = []
-date = 04/22/2023
+date = "04/22/2023"
 
 [Article]
 startDate = ""

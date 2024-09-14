@@ -2,7 +2,7 @@
 title = "Santa Rosa, CA (545 Ross St)"
 draft = false
 tags = ["Store List"]
-date = 08/06/2023
+date = "08/06/2023"
 
 [Article]
 startDate = ""

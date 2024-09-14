@@ -2,7 +2,7 @@
 title = "'Showbiz Pizza' (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 06/20/2024
+date = "06/20/2024"
 
 [Article]
 startDate = ""

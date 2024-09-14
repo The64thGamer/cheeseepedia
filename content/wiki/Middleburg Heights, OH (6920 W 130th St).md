@@ -2,7 +2,7 @@
 title = "Middleburg Heights, OH (6920 W 130th St)"
 draft = false
 tags = ["Store List"]
-date = 05/16/2024
+date = "05/16/2024"
 
 [Article]
 startDate = ""

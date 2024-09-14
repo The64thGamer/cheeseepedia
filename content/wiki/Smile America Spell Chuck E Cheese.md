@@ -2,7 +2,7 @@
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
 tags = ["Events"]
-date = 12/31/2022
+date = "12/31/2022"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Eau Claire, WI (2221 Eastridge Center)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "4/30/1987"

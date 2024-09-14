@@ -2,7 +2,7 @@
 title = "Orlando, FL (7419 International Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/16/2024
+date = "07/16/2024"
 
 [Article]
 startDate = "7/22/1981"

@@ -2,7 +2,7 @@
 title = "New RAE Lite"
 draft = false
 tags = ["Stage Variations"]
-date = 05/17/2024
+date = "05/17/2024"
 
 [Article]
 startDate = ""

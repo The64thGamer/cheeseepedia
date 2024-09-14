@@ -2,7 +2,7 @@
 title = "Bronx, NY (1816 E Gun Hill Rd)"
 draft = false
 tags = []
-date = 09/25/2023
+date = "09/25/2023"
 
 [Article]
 startDate = "2/2/2003"

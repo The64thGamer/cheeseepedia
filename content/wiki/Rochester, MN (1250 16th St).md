@@ -2,7 +2,7 @@
 title = "Rochester, MN (1250 16th St)"
 draft = false
 tags = ["Store List"]
-date = 01/21/2024
+date = "01/21/2024"
 
 [Article]
 startDate = "12/14/2010"

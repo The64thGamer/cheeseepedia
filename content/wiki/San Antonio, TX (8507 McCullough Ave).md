@@ -2,7 +2,7 @@
 title = "San Antonio, TX (8507 McCullough Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/11/2024
+date = "07/11/2024"
 
 [Article]
 startDate = "8/-/1981"

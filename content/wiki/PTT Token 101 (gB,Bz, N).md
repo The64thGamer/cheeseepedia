@@ -2,7 +2,7 @@
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
 tags = ["Pizza Time Theatre Tokens"]
-date = 09/02/2023
+date = "09/02/2023"
 
 [Article]
 startDate = ""

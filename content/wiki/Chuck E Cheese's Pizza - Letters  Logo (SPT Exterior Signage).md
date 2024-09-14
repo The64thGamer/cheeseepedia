@@ -2,7 +2,7 @@
 title = "'Chuck E. Cheese's Pizza' - Letters / Logo (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 09/10/2024
+date = "09/10/2024"
 
 [Article]
 startDate = ""

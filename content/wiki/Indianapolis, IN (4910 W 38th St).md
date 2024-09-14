@@ -2,7 +2,7 @@
 title = "Indianapolis, IN (4910 W 38th St)"
 draft = false
 tags = ["Store List"]
-date = 10/29/2023
+date = "10/29/2023"
 
 [Article]
 startDate = "11/4/1981"

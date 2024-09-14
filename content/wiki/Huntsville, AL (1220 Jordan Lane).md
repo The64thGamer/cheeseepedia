@@ -2,7 +2,7 @@
 title = "Huntsville, AL (1220 Jordan Lane)"
 draft = false
 tags = ["Store List"]
-date = 06/18/2024
+date = "06/18/2024"
 
 [Article]
 startDate = "6/8/1982"

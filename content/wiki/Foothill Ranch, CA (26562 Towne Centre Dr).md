@@ -2,7 +2,7 @@
 title = "Foothill Ranch, CA (26562 Towne Centre Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2024
+date = "07/31/2024"
 
 [Article]
 startDate = "5/30/2003"

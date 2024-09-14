@@ -2,7 +2,7 @@
 title = "Waldo The Animated Talking Weber Wonder Dog (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 02/27/2024
+date = "02/27/2024"
 
 [Article]
 startDate = ""

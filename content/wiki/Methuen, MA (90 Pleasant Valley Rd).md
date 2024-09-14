@@ -2,7 +2,7 @@
 title = "Methuen, MA (90 Pleasant Valley Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/18/2024
+date = "08/18/2024"
 
 [Article]
 startDate = "8/28/2000"

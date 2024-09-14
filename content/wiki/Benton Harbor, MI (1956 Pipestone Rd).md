@@ -2,7 +2,7 @@
 title = "Benton Harbor, MI (1956 Pipestone Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/19/2023
+date = "12/19/2023"
 
 [Article]
 startDate = "11/7/1982"

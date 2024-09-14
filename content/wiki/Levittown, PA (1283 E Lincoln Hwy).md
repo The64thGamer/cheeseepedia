@@ -2,7 +2,7 @@
 title = "Levittown, PA (1283 E Lincoln Hwy)"
 draft = false
 tags = ["Store List"]
-date = 06/29/2024
+date = "06/29/2024"
 
 [Article]
 startDate = "8/7/1990"

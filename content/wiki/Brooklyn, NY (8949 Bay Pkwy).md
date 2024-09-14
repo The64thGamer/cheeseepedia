@@ -2,7 +2,7 @@
 title = "Brooklyn, NY (8949 Bay Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 07/10/2023
+date = "07/10/2023"
 
 [Article]
 startDate = "2/-/1984"

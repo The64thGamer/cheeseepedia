@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Evergreen Show 2023 (November Update)"
 draft = false
 tags = ["Live Shows"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = ""

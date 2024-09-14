@@ -2,7 +2,7 @@
 title = "Valencia, CA (25955 North The Old Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/05/2024
+date = "04/05/2024"
 
 [Article]
 startDate = "3/4/1998"

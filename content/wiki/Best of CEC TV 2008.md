@@ -2,7 +2,7 @@
 title = "Best of CEC TV 2008"
 draft = false
 tags = ["Live Shows"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "9/-/2008"

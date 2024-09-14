@@ -2,7 +2,7 @@
 title = "TJ Hartford's Sports Grille"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 08/18/2023
+date = "08/18/2023"
 
 [Article]
 startDate = ""

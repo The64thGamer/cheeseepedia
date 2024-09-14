@@ -2,7 +2,7 @@
 title = "Dr. Quack (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 05/13/2024
+date = "05/13/2024"
 
 [Article]
 startDate = ""

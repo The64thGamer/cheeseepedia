@@ -2,7 +2,7 @@
 title = "Redding, CA (2167 Hilltop Dr)"
 draft = false
 tags = ["Store List"]
-date = 06/29/2024
+date = "06/29/2024"
 
 [Article]
 startDate = "2/8/1983"

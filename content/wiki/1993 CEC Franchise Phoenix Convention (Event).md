@@ -2,7 +2,7 @@
 title = "1993 CEC Franchise Phoenix Convention (Event)"
 draft = false
 tags = ["Events"]
-date = 12/18/2023
+date = "12/18/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Kelso, WA (351 Three Rivers Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/19/2023
+date = "05/19/2023"
 
 [Article]
 startDate = "12/22/2004"

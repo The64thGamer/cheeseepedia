@@ -2,7 +2,7 @@
 title = "Hempstead, NY (162 Fulton Ave)"
 draft = false
 tags = ["Store List"]
-date = 04/03/2024
+date = "04/03/2024"
 
 [Article]
 startDate = "12/17/2002"

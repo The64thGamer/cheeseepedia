@@ -2,7 +2,7 @@
 title = "Denton, TX (2307 I-35E)"
 draft = false
 tags = ["Store List"]
-date = 12/28/2022
+date = "12/28/2022"
 
 [Article]
 startDate = "-/-/1983"

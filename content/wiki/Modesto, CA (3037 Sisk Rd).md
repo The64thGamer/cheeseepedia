@@ -2,7 +2,7 @@
 title = "Modesto, CA (3037 Sisk Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/30/2024
+date = "08/30/2024"
 
 [Article]
 startDate = "5/18/1981"

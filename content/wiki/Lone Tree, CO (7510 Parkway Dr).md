@@ -2,7 +2,7 @@
 title = "Lone Tree, CO (7510 Parkway Dr)"
 draft = false
 tags = []
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "2/15/2000"

@@ -2,7 +2,7 @@
 title = "Augusta, GA (3435 Wrightsboro Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = "7/14/1982"

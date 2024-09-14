@@ -2,7 +2,7 @@
 title = "Colander Head Club Membership Card (1983)"
 draft = false
 tags = ["Merchandise"]
-date = 10/16/2023
+date = "10/16/2023"
 
 [Article]
 startDate = ""

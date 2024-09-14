@@ -2,7 +2,7 @@
 title = "Middletown, NY (8 Orange Plaza Lane)"
 draft = false
 tags = ["Store List"]
-date = 04/07/2024
+date = "04/07/2024"
 
 [Article]
 startDate = "12/17/2002"

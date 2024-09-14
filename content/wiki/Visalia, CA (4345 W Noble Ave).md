@@ -2,7 +2,7 @@
 title = "Visalia, CA (4345 W Noble Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "5/2/1983"

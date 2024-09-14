@@ -2,7 +2,7 @@
 title = "The Amazing Uncle Klunk Traveling Show (Event)"
 draft = false
 tags = ["Events"]
-date = 12/17/2023
+date = "12/17/2023"
 
 [Article]
 startDate = ""

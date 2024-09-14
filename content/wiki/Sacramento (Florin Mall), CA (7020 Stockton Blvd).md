@@ -2,7 +2,7 @@
 title = "Sacramento (Florin Mall), CA (7020 Stockton Blvd)"
 draft = false
 tags = []
-date = 08/24/2024
+date = "08/24/2024"
 
 [Article]
 startDate = "8/14/1979"

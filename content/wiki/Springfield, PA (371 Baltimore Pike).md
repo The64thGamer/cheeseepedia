@@ -2,7 +2,7 @@
 title = "Springfield, PA (371 Baltimore Pike)"
 draft = false
 tags = ["Store List"]
-date = 08/15/2024
+date = "08/15/2024"
 
 [Article]
 startDate = "11/14/2012"

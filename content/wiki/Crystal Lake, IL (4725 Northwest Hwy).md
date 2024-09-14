@@ -2,7 +2,7 @@
 title = "Crystal Lake, IL (4725 Northwest Hwy)"
 draft = false
 tags = ["Store List"]
-date = 09/02/2024
+date = "09/02/2024"
 
 [Article]
 startDate = "10/16/2000"

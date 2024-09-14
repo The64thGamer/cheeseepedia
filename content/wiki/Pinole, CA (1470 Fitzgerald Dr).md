@@ -2,7 +2,7 @@
 title = "Pinole, CA (1470 Fitzgerald Dr)"
 draft = false
 tags = ["Store List"]
-date = 10/07/2023
+date = "10/07/2023"
 
 [Article]
 startDate = ""

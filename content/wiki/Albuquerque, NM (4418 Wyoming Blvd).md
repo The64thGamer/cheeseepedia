@@ -2,7 +2,7 @@
 title = "Albuquerque, NM (4418 Wyoming Blvd)"
 draft = false
 tags = ["Store List"]
-date = 10/25/2023
+date = "10/25/2023"
 
 [Article]
 startDate = "10/-/1981"

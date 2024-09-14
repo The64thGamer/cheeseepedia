@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese and Friends Party Cookbook"
 draft = false
 tags = ["Merchandise"]
-date = 11/04/2023
+date = "11/04/2023"
 
 [Article]
 startDate = "3/19/2024"

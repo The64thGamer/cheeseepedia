@@ -2,7 +2,7 @@
 title = "Sally Unlimited Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 11/27/2023
+date = "11/27/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Happy Holidays Mug (1983)"
 draft = false
 tags = ["Merchandise"]
-date = 03/31/2023
+date = "03/31/2023"
 
 [Article]
 startDate = "-/-/1983"

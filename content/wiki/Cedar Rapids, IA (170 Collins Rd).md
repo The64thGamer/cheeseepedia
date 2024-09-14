@@ -2,7 +2,7 @@
 title = "Cedar Rapids, IA (170 Collins Rd)"
 draft = false
 tags = ["Store List"]
-date = 11/15/2023
+date = "11/15/2023"
 
 [Article]
 startDate = "11/26/1981"

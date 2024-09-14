@@ -2,7 +2,7 @@
 title = "Smartee's Pizza Brigade"
 draft = false
 tags = ["Animatronic Shows"]
-date = 08/28/2024
+date = "08/28/2024"
 
 [Article]
 startDate = ""

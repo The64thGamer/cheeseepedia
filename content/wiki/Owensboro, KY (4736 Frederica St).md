@@ -2,7 +2,7 @@
 title = "Owensboro, KY (4736 Frederica St)"
 draft = false
 tags = ["Store List"]
-date = 02/12/2024
+date = "02/12/2024"
 
 [Article]
 startDate = "10/6/1985"

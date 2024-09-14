@@ -2,7 +2,7 @@
 title = "Charlotte, NC (5612 Albemarle Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "11/-/1991"

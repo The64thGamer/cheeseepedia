@@ -2,7 +2,7 @@
 title = "Costa Mesa, CA (2300 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = 09/04/2024
+date = "09/04/2024"
 
 [Article]
 startDate = "-/-/1981"

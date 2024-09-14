@@ -2,7 +2,7 @@
 title = "Standard: Notice Templates"
 draft = false
 tags = ["Standards Pages"]
-date = 06/08/2023
+date = "06/08/2023"
 
 [Article]
 startDate = ""

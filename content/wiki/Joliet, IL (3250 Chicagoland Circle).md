@@ -2,7 +2,7 @@
 title = "Joliet, IL (3250 Chicagoland Circle)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "1/29/2007"

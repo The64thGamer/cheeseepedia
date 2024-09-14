@@ -2,7 +2,7 @@
 title = "Cincinnati, OH (4394 Eastgate Square Dr)"
 draft = false
 tags = ["Store List"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = "6/17/1990"

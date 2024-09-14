@@ -2,7 +2,7 @@
 title = "Philadelphia, PA (9 Snyder Ave)"
 draft = false
 tags = ["Store List"]
-date = 04/11/2023
+date = "04/11/2023"
 
 [Article]
 startDate = "9/15/1992"

@@ -2,7 +2,7 @@
 title = "Toledo, OH (5455 Airport Hwy)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "9/6/1993"

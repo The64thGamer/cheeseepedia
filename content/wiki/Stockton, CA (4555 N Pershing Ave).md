@@ -2,7 +2,7 @@
 title = "Stockton, CA (4555 N Pershing Ave)"
 draft = false
 tags = ["Store List"]
-date = 02/20/2024
+date = "02/20/2024"
 
 [Article]
 startDate = "10/-/1979"

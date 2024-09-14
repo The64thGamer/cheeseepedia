@@ -2,7 +2,7 @@
 title = "2023 International Pizza Expo & Conference (Event)"
 draft = false
 tags = ["Events"]
-date = 04/21/2023
+date = "04/21/2023"
 
 [Article]
 startDate = ""

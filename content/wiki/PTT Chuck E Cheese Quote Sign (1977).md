@@ -2,7 +2,7 @@
 title = "PTT Chuck E. Cheese Quote Sign (1977)"
 draft = false
 tags = []
-date = 08/11/2023
+date = "08/11/2023"
 
 [Article]
 startDate = ""

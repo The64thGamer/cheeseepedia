@@ -2,7 +2,7 @@
 title = "Houston, TX (7735 W Bellfort Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/18/2023
+date = "08/18/2023"
 
 [Article]
 startDate = "6/1/1982"

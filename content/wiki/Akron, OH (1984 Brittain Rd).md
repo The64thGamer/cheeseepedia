@@ -2,7 +2,7 @@
 title = "Akron, OH (1984 Brittain Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/04/2024
+date = "08/04/2024"
 
 [Article]
 startDate = "5/12/1982"

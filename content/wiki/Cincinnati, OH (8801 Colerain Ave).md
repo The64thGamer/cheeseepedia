@@ -2,7 +2,7 @@
 title = "Cincinnati, OH (8801 Colerain Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/11/2024
+date = "08/11/2024"
 
 [Article]
 startDate = "11/11/1981"

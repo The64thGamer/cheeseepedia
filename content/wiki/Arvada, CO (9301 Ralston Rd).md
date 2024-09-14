@@ -2,7 +2,7 @@
 title = "Arvada, CO (9301 Ralston Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/20/2024
+date = "03/20/2024"
 
 [Article]
 startDate = "3/31/1981"

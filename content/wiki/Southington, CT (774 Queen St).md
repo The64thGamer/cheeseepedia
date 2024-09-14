@@ -2,7 +2,7 @@
 title = "Southington, CT (774 Queen St)"
 draft = false
 tags = ["Store List"]
-date = 04/23/2024
+date = "04/23/2024"
 
 [Article]
 startDate = "7/-/1983"

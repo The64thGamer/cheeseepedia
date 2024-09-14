@@ -2,7 +2,7 @@
 title = "Bakersfield, CA (3760 Ming Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/01/2023
+date = "03/01/2023"
 
 [Article]
 startDate = ""

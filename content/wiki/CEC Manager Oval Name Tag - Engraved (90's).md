@@ -2,7 +2,7 @@
 title = "CEC Manager Oval Name Tag - Engraved (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = 04/27/2023
+date = "04/27/2023"
 
 [Article]
 startDate = ""

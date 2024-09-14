@@ -2,7 +2,7 @@
 title = "Wayne, NJ (1639 Rt 23)"
 draft = false
 tags = ["Store List"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = "4/20/1992"

@@ -2,7 +2,7 @@
 title = "SPP/CEC/Monterey's Group Medical Plan Pamphlet (July 1990)"
 draft = false
 tags = ["Documents"]
-date = 02/15/2024
+date = "02/15/2024"
 
 [Article]
 startDate = ""

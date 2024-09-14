@@ -2,7 +2,7 @@
 title = "WIP Section"
 draft = false
 tags = []
-date = 06/20/2023
+date = "06/20/2023"
 
 [Article]
 startDate = ""

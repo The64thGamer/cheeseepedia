@@ -2,7 +2,7 @@
 title = "Austin, TX (8038 Burnet Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/03/2024
+date = "04/03/2024"
 
 [Article]
 startDate = ""

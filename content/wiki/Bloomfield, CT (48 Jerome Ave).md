@@ -2,7 +2,7 @@
 title = "Bloomfield, CT (48 Jerome Ave)"
 draft = false
 tags = ["Store List"]
-date = 04/25/2024
+date = "04/25/2024"
 
 [Article]
 startDate = "8/-/1983"

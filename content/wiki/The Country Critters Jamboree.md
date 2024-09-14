@@ -2,7 +2,7 @@
 title = "The Country Critters Jamboree"
 draft = false
 tags = ["Animatronic Shows"]
-date = 08/21/2024
+date = "08/21/2024"
 
 [Article]
 startDate = ""

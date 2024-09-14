@@ -2,7 +2,7 @@
 title = "Just for Kids Show 2000"
 draft = false
 tags = ["Showtapes"]
-date = 07/13/2024
+date = "07/13/2024"
 
 [Article]
 startDate = "4/-/2000"

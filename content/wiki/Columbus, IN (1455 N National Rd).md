@@ -2,7 +2,7 @@
 title = "Columbus, IN (1455 N National Rd)"
 draft = false
 tags = ["Store List"]
-date = 01/01/2024
+date = "01/01/2024"
 
 [Article]
 startDate = "12/8/2004"

@@ -2,7 +2,7 @@
 title = "PTT Employee Red & Brown Shirt (1981)"
 draft = false
 tags = ["Employee Wear"]
-date = 07/14/2022
+date = "07/14/2022"
 
 [Article]
 startDate = ""

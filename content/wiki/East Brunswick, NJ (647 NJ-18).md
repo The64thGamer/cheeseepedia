@@ -2,7 +2,7 @@
 title = "East Brunswick, NJ (647 NJ-18)"
 draft = false
 tags = ["Store List"]
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = "3/5/1984"

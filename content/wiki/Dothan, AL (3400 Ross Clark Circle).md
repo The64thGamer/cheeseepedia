@@ -2,7 +2,7 @@
 title = "Dothan, AL (3400 Ross Clark Circle)"
 draft = false
 tags = ["Store List"]
-date = 09/11/2024
+date = "09/11/2024"
 
 [Article]
 startDate = "12/-/1983"

@@ -2,7 +2,7 @@
 title = "PTT Winchester Restrooms Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/06/2023
+date = "08/06/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Jungle Jim's Dolli (Dolli Dimples Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 08/27/2023
+date = "08/27/2023"
 
 [Article]
 startDate = ""

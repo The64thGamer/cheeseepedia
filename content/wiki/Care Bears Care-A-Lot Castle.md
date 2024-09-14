@@ -2,7 +2,7 @@
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
 tags = ["Animatronic Shows"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = ""

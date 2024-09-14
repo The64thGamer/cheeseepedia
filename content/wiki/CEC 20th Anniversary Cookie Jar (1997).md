@@ -2,7 +2,7 @@
 title = "CEC 20th Anniversary Cookie Jar (1997)"
 draft = false
 tags = ["Merchandise"]
-date = 04/29/2023
+date = "04/29/2023"
 
 [Article]
 startDate = "-/-/1997"

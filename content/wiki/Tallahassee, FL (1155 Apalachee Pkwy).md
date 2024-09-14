@@ -2,7 +2,7 @@
 title = "Tallahassee, FL (1155 Apalachee Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 06/19/2024
+date = "06/19/2024"
 
 [Article]
 startDate = "8/9/1982"

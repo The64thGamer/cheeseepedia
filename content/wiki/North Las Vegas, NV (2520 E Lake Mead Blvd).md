@@ -2,7 +2,7 @@
 title = "North Las Vegas, NV (2520 E Lake Mead Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/09/2024
+date = "08/09/2024"
 
 [Article]
 startDate = "10/-/1982"

@@ -2,7 +2,7 @@
 title = "Citrus Heights, CA (6251 Sunrise Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/15/2024
+date = "08/15/2024"
 
 [Article]
 startDate = "8/-/1983"

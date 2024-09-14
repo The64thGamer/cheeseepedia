@@ -2,7 +2,7 @@
 title = "Paramus, NJ (221 South Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/25/2024
+date = "05/25/2024"
 
 [Article]
 startDate = ""

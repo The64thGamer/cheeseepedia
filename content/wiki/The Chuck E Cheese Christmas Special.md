@@ -2,7 +2,7 @@
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
 tags = ["Live Shows"]
-date = 07/22/2023
+date = "07/22/2023"
 
 [Article]
 startDate = "11/20/1995"

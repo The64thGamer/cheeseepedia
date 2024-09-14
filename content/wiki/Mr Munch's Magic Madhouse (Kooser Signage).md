@@ -2,7 +2,7 @@
 title = "Mr. Munch's Magic Madhouse (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 03/01/2024
+date = "03/01/2024"
 
 [Article]
 startDate = ""

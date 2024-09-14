@@ -2,7 +2,7 @@
 title = "Layton, UT (450 North Main St)"
 draft = false
 tags = ["Store List"]
-date = 06/22/2024
+date = "06/22/2024"
 
 [Article]
 startDate = "-/-/2008"

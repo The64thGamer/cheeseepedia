@@ -2,7 +2,7 @@
 title = "Tommy Bartlett's Robot World"
 draft = false
 tags = ["Animatronic Shows"]
-date = 02/17/2024
+date = "02/17/2024"
 
 [Article]
 startDate = ""

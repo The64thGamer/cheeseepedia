@@ -2,7 +2,7 @@
 title = "Saginaw, MI (5105 Bay Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/31/2024
+date = "05/31/2024"
 
 [Article]
 startDate = "10/13/1982"

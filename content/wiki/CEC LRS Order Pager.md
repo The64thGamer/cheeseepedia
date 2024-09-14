@@ -2,7 +2,7 @@
 title = "CEC LRS Order Pager"
 draft = false
 tags = ["Promotional Material"]
-date = 12/06/2022
+date = "12/06/2022"
 
 [Article]
 startDate = ""

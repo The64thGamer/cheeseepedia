@@ -2,7 +2,7 @@
 title = "Kingston, Ontario, Canada (768 Gardiners Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2024
+date = "07/31/2024"
 
 [Article]
 startDate = "1/1/2006"

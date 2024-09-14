@@ -2,7 +2,7 @@
 title = "Columbus, OH (3886 Morse Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/23/2023
+date = "09/23/2023"
 
 [Article]
 startDate = "2/14/2023"

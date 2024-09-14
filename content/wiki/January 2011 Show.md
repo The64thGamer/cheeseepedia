@@ -2,7 +2,7 @@
 title = "January 2011 Show"
 draft = false
 tags = ["Showtapes"]
-date = 09/30/2023
+date = "09/30/2023"
 
 [Article]
 startDate = "1/-/2011"

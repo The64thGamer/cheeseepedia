@@ -2,7 +2,7 @@
 title = "'Yellow Submarine Sandwich' (CD Award)"
 draft = false
 tags = []
-date = 01/24/2024
+date = "01/24/2024"
 
 [Article]
 startDate = ""

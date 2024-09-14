@@ -2,7 +2,7 @@
 title = "Skee-Ball Pepperoni Bites (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 07/28/2023
+date = "07/28/2023"
 
 [Article]
 startDate = ""

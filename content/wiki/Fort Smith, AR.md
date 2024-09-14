@@ -2,7 +2,7 @@
 title = "Fort Smith, AR?"
 draft = false
 tags = ["Store List"]
-date = 12/21/2023
+date = "12/21/2023"
 
 [Article]
 startDate = "-/-/1984"

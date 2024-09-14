@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Pizza Delivery"
 draft = false
 tags = ["Arcade Games"]
-date = 09/24/2022
+date = "09/24/2022"
 
 [Article]
 startDate = ""

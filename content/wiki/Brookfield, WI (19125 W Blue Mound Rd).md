@@ -2,7 +2,7 @@
 title = "Brookfield, WI (19125 W Blue Mound Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/13/2024
+date = "08/13/2024"
 
 [Article]
 startDate = "12/17/1997"

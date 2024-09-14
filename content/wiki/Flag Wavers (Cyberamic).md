@@ -2,7 +2,7 @@
 title = "Flag Wavers (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 07/31/2023
+date = "07/31/2023"
 
 [Article]
 startDate = ""

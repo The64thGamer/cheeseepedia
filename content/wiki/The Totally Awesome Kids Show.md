@@ -2,7 +2,7 @@
 title = "The Totally Awesome Kids Show"
 draft = false
 tags = ["Live Shows"]
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = ""

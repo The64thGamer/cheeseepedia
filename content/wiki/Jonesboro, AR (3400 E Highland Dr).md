@@ -2,7 +2,7 @@
 title = "Jonesboro, AR (3400 E Highland Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/19/2023
+date = "05/19/2023"
 
 [Article]
 startDate = "12/19/2005"

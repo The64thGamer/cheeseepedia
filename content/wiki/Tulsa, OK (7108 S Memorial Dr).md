@@ -2,7 +2,7 @@
 title = "Tulsa, OK (7108 S Memorial Dr)"
 draft = false
 tags = ["Store List"]
-date = 12/04/2023
+date = "12/04/2023"
 
 [Article]
 startDate = "9/15/1980"

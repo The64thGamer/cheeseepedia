@@ -2,7 +2,7 @@
 title = "Lowell, MA (199 Plain St)"
 draft = false
 tags = ["Store List"]
-date = 04/29/2024
+date = "04/29/2024"
 
 [Article]
 startDate = "5/27/1993"

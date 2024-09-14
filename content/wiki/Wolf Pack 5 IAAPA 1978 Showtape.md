@@ -2,7 +2,7 @@
 title = "Wolf Pack 5 IAAPA 1978 Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 08/20/2022
+date = "08/20/2022"
 
 [Article]
 startDate = ""

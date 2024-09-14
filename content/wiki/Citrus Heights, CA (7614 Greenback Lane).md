@@ -2,7 +2,7 @@
 title = "Citrus Heights, CA (7614 Greenback Lane)"
 draft = false
 tags = ["Store List"]
-date = 03/26/2024
+date = "03/26/2024"
 
 [Article]
 startDate = "12/26/1979"

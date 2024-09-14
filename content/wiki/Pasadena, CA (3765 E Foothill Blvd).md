@@ -2,7 +2,7 @@
 title = "Pasadena, CA (3765 E Foothill Blvd)"
 draft = false
 tags = ["Store List"]
-date = 03/26/2024
+date = "03/26/2024"
 
 [Article]
 startDate = "12/15/1982"

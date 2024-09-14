@@ -2,7 +2,7 @@
 title = "SPP Homely For Christmas '87"
 draft = false
 tags = ["Showtapes"]
-date = 01/28/2024
+date = "01/28/2024"
 
 [Article]
 startDate = "-/-/1987"

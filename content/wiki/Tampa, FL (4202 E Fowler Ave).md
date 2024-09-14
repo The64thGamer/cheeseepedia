@@ -2,7 +2,7 @@
 title = "Tampa, FL (4202 E Fowler Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = ""

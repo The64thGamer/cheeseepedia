@@ -2,7 +2,7 @@
 title = "Pizza Make / Oven Cut (Spanish)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = ""

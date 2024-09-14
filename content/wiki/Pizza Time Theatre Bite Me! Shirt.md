@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
 tags = []
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = ""

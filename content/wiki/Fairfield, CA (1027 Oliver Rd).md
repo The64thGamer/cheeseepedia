@@ -2,7 +2,7 @@
 title = "Fairfield, CA (1027 Oliver Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "7/12/2022"

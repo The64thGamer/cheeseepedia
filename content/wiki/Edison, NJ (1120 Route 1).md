@@ -2,7 +2,7 @@
 title = "Edison, NJ (1120 Route 1)"
 draft = false
 tags = ["Store List"]
-date = 07/26/2024
+date = "07/26/2024"
 
 [Article]
 startDate = "9/20/1993"

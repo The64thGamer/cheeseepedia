@@ -2,7 +2,7 @@
 title = "SPP Installation Team Jacket"
 draft = false
 tags = ["Employee Wear"]
-date = 08/09/2023
+date = "08/09/2023"
 
 [Article]
 startDate = ""

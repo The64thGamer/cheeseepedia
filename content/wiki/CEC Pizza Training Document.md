@@ -2,7 +2,7 @@
 title = "CEC Pizza Training Document"
 draft = false
 tags = ["Documents"]
-date = 05/04/2023
+date = "05/04/2023"
 
 [Article]
 startDate = "-/-/2000"

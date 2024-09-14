@@ -2,7 +2,7 @@
 title = "CEC Play Passes"
 draft = false
 tags = []
-date = 03/22/2023
+date = "03/22/2023"
 
 [Article]
 startDate = ""

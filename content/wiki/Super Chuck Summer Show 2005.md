@@ -2,7 +2,7 @@
 title = "Super Chuck Summer Show 2005"
 draft = false
 tags = ["Live Shows"]
-date = 08/07/2023
+date = "08/07/2023"
 
 [Article]
 startDate = ""

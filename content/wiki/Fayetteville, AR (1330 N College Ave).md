@@ -2,7 +2,7 @@
 title = "Fayetteville, AR (1330 N College Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/18/2024
+date = "03/18/2024"
 
 [Article]
 startDate = "11/1/1982"

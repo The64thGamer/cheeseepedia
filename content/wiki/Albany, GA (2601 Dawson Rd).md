@@ -2,7 +2,7 @@
 title = "Albany, GA (2601 Dawson Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = "12/16/2003"

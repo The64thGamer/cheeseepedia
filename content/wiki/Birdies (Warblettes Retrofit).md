@@ -2,7 +2,7 @@
 title = "Birdies (Warblettes Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 06/10/2023
+date = "06/10/2023"
 
 [Article]
 startDate = ""

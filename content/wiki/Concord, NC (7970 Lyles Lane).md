@@ -2,7 +2,7 @@
 title = "Concord, NC (7970 Lyles Lane)"
 draft = false
 tags = ["Store List"]
-date = 09/24/2023
+date = "09/24/2023"
 
 [Article]
 startDate = "8/28/2001"

@@ -2,7 +2,7 @@
 title = "CEC Warhol - Quad (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = 07/19/2023
+date = "07/19/2023"
 
 [Article]
 startDate = "-/-/1998"

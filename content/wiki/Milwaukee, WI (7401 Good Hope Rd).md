@@ -2,7 +2,7 @@
 title = "Milwaukee, WI (7401 Good Hope Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/02/2024
+date = "08/02/2024"
 
 [Article]
 startDate = "6/17/1981"

@@ -2,7 +2,7 @@
 title = "El Cajon, CA (310 Fletcher Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 06/25/2024
+date = "06/25/2024"
 
 [Article]
 startDate = "5/-/1982"

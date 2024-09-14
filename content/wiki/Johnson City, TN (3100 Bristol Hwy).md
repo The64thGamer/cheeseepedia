@@ -2,7 +2,7 @@
 title = "Johnson City, TN (3100 Bristol Hwy)"
 draft = false
 tags = ["Store List"]
-date = 09/21/2023
+date = "09/21/2023"
 
 [Article]
 startDate = "1/-/1986"

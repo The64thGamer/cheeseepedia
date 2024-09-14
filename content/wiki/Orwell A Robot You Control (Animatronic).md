@@ -2,7 +2,7 @@
 title = "Orwell: A Robot You Control (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 02/09/2024
+date = "02/09/2024"
 
 [Article]
 startDate = ""

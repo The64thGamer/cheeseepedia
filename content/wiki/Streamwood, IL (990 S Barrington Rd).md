@@ -2,7 +2,7 @@
 title = "Streamwood, IL (990 S Barrington Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/22/2023
+date = "12/22/2023"
 
 [Article]
 startDate = "3/6/1990"

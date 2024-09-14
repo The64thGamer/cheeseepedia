@@ -2,7 +2,7 @@
 title = "Clarksville, TN (2821 B Wilma Rudolph Blvd)"
 draft = false
 tags = ["Store List"]
-date = 06/10/2023
+date = "06/10/2023"
 
 [Article]
 startDate = "2/22/2001"

@@ -2,7 +2,7 @@
 title = "Toledo, OH (5077 Monroe St)"
 draft = false
 tags = ["Store List"]
-date = 07/16/2024
+date = "07/16/2024"
 
 [Article]
 startDate = "9/6/1993"

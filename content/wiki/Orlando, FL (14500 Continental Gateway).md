@@ -2,7 +2,7 @@
 title = "Orlando, FL (14500 Continental Gateway)"
 draft = false
 tags = ["Store List"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = ""

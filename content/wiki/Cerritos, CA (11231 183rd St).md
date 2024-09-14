@@ -2,7 +2,7 @@
 title = "Cerritos, CA (11231 183rd St)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "9/25/2002"

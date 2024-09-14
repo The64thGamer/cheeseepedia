@@ -2,7 +2,7 @@
 title = "South Portland, ME (166 Philbrook Ave)"
 draft = false
 tags = ["Store List"]
-date = 12/25/2023
+date = "12/25/2023"
 
 [Article]
 startDate = "12/17/2002"

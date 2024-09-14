@@ -2,7 +2,7 @@
 title = "Park Ridge, IL (678 N Northwest Hwy)"
 draft = false
 tags = ["Store List"]
-date = 05/09/2024
+date = "05/09/2024"
 
 [Article]
 startDate = "12/29/1982"

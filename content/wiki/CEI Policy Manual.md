@@ -2,7 +2,7 @@
 title = "CEI Policy Manual"
 draft = false
 tags = ["Documents"]
-date = 10/09/2023
+date = "10/09/2023"
 
 [Article]
 startDate = ""

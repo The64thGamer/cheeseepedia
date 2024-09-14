@@ -2,7 +2,7 @@
 title = "Deptford, NJ (1500 Almonesson Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/16/2024
+date = "05/16/2024"
 
 [Article]
 startDate = "11/12/1991"

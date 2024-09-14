@@ -2,7 +2,7 @@
 title = "Madison, TN (2070 Gallatin Pike)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "6/15/1982"

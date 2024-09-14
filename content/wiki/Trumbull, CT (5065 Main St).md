@@ -2,7 +2,7 @@
 title = "Trumbull, CT (5065 Main St)"
 draft = false
 tags = ["Store List"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = "9/6/2024"

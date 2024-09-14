@@ -2,7 +2,7 @@
 title = "WKMG Creative Engineering Spot (1976)"
 draft = false
 tags = ["News Footage"]
-date = 02/04/2023
+date = "02/04/2023"
 
 [Article]
 startDate = ""

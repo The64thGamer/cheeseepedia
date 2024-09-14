@@ -2,7 +2,7 @@
 title = "Mishawaka, IN (822 W McKinley Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/11/2024
+date = "05/11/2024"
 
 [Article]
 startDate = "9/22/1982"

@@ -2,7 +2,7 @@
 title = "Antioch, TN (5312 Hickory Hollow Lane)"
 draft = false
 tags = ["Store List"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = "5/3/1983"

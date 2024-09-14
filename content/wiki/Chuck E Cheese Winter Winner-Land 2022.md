@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Winter Winner-Land 2022"
 draft = false
 tags = []
-date = 12/13/2022
+date = "12/13/2022"
 
 [Article]
 startDate = ""

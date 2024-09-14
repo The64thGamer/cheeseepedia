@@ -2,7 +2,7 @@
 title = "Lakewood, CA (5151 Lakewood Blvd)"
 draft = false
 tags = ["Store List"]
-date = 04/23/2024
+date = "04/23/2024"
 
 [Article]
 startDate = "3/23/1983"

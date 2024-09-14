@@ -2,7 +2,7 @@
 title = "Long Beach, CA (290 E 4th St)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2023
+date = "08/05/2023"
 
 [Article]
 startDate = "11/4/2013"

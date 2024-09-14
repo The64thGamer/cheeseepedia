@@ -2,7 +2,7 @@
 title = "Dallas, TX (13125 Montfort Dr)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "1/26/1983"

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Limited Edition Survivor Plush (2004)"
 draft = false
 tags = ["Merchandise"]
-date = 04/23/2023
+date = "04/23/2023"
 
 [Article]
 startDate = "-/-/2004"

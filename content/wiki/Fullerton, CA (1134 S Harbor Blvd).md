@@ -2,7 +2,7 @@
 title = "Fullerton, CA (1134 S Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/24/2024
+date = "08/24/2024"
 
 [Article]
 startDate = "12/17/1991"

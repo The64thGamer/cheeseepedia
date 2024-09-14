@@ -2,7 +2,7 @@
 title = "Erie, PA (7200 Peach St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "7/-/1992"

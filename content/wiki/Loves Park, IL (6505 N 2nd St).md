@@ -2,7 +2,7 @@
 title = "Loves Park, IL (6505 N 2nd St)"
 draft = false
 tags = ["Store List"]
-date = 06/08/2023
+date = "06/08/2023"
 
 [Article]
 startDate = "11/-/1981"

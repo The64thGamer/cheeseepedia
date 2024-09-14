@@ -2,7 +2,7 @@
 title = "Melrose Park, IL (1030 Winston Plaza)"
 draft = false
 tags = ["Store List"]
-date = 08/29/2024
+date = "08/29/2024"
 
 [Article]
 startDate = "9/-/2012"

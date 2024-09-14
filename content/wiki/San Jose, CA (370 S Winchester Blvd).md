@@ -2,7 +2,7 @@
 title = "San Jose, CA (370 S Winchester Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "5/17/1977"

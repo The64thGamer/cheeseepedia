@@ -2,7 +2,7 @@
 title = "Hesperia, CA (16968 Main St)"
 draft = false
 tags = ["Store List"]
-date = 10/03/2023
+date = "10/03/2023"
 
 [Article]
 startDate = ""

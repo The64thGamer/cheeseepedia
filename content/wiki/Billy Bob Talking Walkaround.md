@@ -2,7 +2,7 @@
 title = "Billy Bob Talking Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
 tags = ["Showtapes"]
-date = 07/07/2024
+date = "07/07/2024"
 
 [Article]
 startDate = ""

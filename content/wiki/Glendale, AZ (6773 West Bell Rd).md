@@ -2,7 +2,7 @@
 title = "Glendale, AZ (6773 West Bell Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "6/29/2005"

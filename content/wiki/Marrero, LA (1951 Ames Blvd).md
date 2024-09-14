@@ -2,7 +2,7 @@
 title = "Marrero, LA (1951 Ames Blvd)"
 draft = false
 tags = ["Store List"]
-date = 10/01/2023
+date = "10/01/2023"
 
 [Article]
 startDate = "-/-/1982"

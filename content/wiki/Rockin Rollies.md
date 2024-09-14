@@ -2,7 +2,7 @@
 title = "Rockin Rollies"
 draft = false
 tags = ["Animatronic Shows"]
-date = 06/12/2024
+date = "06/12/2024"
 
 [Article]
 startDate = ""

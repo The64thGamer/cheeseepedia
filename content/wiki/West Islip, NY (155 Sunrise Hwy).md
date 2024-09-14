@@ -2,7 +2,7 @@
 title = "West Islip, NY (155 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/12/2024
+date = "07/12/2024"
 
 [Article]
 startDate = "12/10/1998"

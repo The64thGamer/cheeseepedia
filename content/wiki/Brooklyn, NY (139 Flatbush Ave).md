@@ -2,7 +2,7 @@
 title = "Brooklyn, NY (139 Flatbush Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/16/2023
+date = "08/16/2023"
 
 [Article]
 startDate = "-/-/2004"

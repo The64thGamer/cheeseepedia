@@ -2,7 +2,7 @@
 title = "Sensory Sensitive Sundays"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 01/13/2023
+date = "01/13/2023"
 
 [Article]
 startDate = "-/-/2016"

@@ -2,7 +2,7 @@
 title = "New London, CT (389 N Frontage Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/23/2024
+date = "04/23/2024"
 
 [Article]
 startDate = "5/16/1994"

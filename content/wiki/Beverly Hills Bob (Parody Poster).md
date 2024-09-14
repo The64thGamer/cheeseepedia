@@ -2,7 +2,7 @@
 title = "Beverly Hills Bob (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 04/23/2023
+date = "04/23/2023"
 
 [Article]
 startDate = ""

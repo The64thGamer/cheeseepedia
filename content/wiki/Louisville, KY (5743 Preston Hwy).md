@@ -2,7 +2,7 @@
 title = "Louisville, KY (5743 Preston Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "7/31/1982"

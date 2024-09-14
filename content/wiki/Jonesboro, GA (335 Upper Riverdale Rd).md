@@ -2,7 +2,7 @@
 title = "Jonesboro, GA (335 Upper Riverdale Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "11/20/1990"

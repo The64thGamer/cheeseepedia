@@ -2,7 +2,7 @@
 title = "Joliet, IL (1965 W Jefferson St)"
 draft = false
 tags = ["Store List"]
-date = 08/29/2024
+date = "08/29/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "New Britain, CT (222 E Main St)"
 draft = false
 tags = ["Store List"]
-date = 12/02/2023
+date = "12/02/2023"
 
 [Article]
 startDate = "7/-/1983"

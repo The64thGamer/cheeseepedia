@@ -2,7 +2,7 @@
 title = "CEC Pop Art Head (CEC Décor)"
 draft = false
 tags = []
-date = 07/18/2023
+date = "07/18/2023"
 
 [Article]
 startDate = ""

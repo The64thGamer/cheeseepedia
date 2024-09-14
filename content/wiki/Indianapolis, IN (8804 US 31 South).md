@@ -2,7 +2,7 @@
 title = "Indianapolis, IN (8804 US 31 South)"
 draft = false
 tags = ["Store List"]
-date = 04/01/2023
+date = "04/01/2023"
 
 [Article]
 startDate = "11/10/1982"

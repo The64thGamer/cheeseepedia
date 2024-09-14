@@ -2,7 +2,7 @@
 title = "Abilene, TX (4220 N 1st St)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "11/23/1981"

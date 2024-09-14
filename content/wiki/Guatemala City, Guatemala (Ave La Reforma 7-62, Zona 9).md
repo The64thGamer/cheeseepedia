@@ -2,7 +2,7 @@
 title = "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)"
 draft = false
 tags = ["Store List"]
-date = 06/23/2024
+date = "06/23/2024"
 
 [Article]
 startDate = "-/-/1986"

@@ -2,7 +2,7 @@
 title = "Sterling, VA (21025 Dulles Town Circle)"
 draft = false
 tags = ["Store List"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = "7/6/2006"

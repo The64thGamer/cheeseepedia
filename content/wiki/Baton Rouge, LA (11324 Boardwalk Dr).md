@@ -2,7 +2,7 @@
 title = "Baton Rouge, LA (11324 Boardwalk Dr)"
 draft = false
 tags = ["Store List"]
-date = 03/16/2024
+date = "03/16/2024"
 
 [Article]
 startDate = "8/12/1981"

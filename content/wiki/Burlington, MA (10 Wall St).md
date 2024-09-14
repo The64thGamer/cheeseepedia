@@ -2,7 +2,7 @@
 title = "Burlington, MA (10 Wall St)"
 draft = false
 tags = ["Store List"]
-date = 04/21/2024
+date = "04/21/2024"
 
 [Article]
 startDate = "8/4/1992"

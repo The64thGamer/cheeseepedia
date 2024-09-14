@@ -2,7 +2,7 @@
 title = "SPP Best Of 5"
 draft = false
 tags = ["Showtapes"]
-date = 06/01/2023
+date = "06/01/2023"
 
 [Article]
 startDate = ""

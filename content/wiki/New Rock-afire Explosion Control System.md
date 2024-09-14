@@ -2,7 +2,7 @@
 title = "New Rock-afire Explosion Control System"
 draft = false
 tags = []
-date = 12/08/2022
+date = "12/08/2022"
 
 [Article]
 startDate = ""

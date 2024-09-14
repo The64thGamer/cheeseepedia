@@ -2,7 +2,7 @@
 title = "CEC Summertime"
 draft = false
 tags = ["Showtapes"]
-date = 01/25/2022
+date = "01/25/2022"
 
 [Article]
 startDate = ""

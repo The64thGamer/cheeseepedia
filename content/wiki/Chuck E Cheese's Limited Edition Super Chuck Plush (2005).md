@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"
 draft = false
 tags = ["Merchandise"]
-date = 04/29/2023
+date = "04/29/2023"
 
 [Article]
 startDate = "7/-/2005"

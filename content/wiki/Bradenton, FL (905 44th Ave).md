@@ -2,7 +2,7 @@
 title = "Bradenton, FL (905 44th Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "3/3/1999"

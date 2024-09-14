@@ -2,7 +2,7 @@
 title = "ShowBiz's Fabulous Fall Festival (Event)"
 draft = false
 tags = ["Events"]
-date = 10/11/2023
+date = "10/11/2023"
 
 [Article]
 startDate = ""

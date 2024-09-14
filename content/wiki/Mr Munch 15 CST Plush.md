@@ -2,7 +2,7 @@
 title = "Mr. Munch 15' CST Plush"
 draft = false
 tags = []
-date = 04/22/2023
+date = "04/22/2023"
 
 [Article]
 startDate = ""

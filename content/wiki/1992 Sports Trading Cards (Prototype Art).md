@@ -2,7 +2,7 @@
 title = "1992 Sports Trading Cards (Prototype Art)"
 draft = false
 tags = []
-date = 01/15/2023
+date = "01/15/2023"
 
 [Article]
 startDate = ""

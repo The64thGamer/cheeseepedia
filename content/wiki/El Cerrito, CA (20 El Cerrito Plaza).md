@@ -2,7 +2,7 @@
 title = "El Cerrito, CA (20 El Cerrito Plaza)"
 draft = false
 tags = ["Store List"]
-date = 02/01/2024
+date = "02/01/2024"
 
 [Article]
 startDate = "-/-/1993"

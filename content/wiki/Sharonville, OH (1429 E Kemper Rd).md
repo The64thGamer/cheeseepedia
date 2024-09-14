@@ -2,7 +2,7 @@
 title = "Sharonville, OH (1429 E Kemper Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = "10/21/1981"

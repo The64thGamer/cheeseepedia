@@ -2,7 +2,7 @@
 title = "The Rock-afire Explosion Documentary Blu-Ray"
 draft = false
 tags = ["Merchandise"]
-date = 07/31/2024
+date = "07/31/2024"
 
 [Article]
 startDate = "2/1/2024"

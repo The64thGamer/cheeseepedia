@@ -2,7 +2,7 @@
 title = "Calgary, Alberta, Canada (9627 Macleod Trail)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "8/31/1991"

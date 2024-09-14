@@ -2,7 +2,7 @@
 title = "Panama City, FL (4432 US-98)"
 draft = false
 tags = ["Store List"]
-date = 09/03/2024
+date = "09/03/2024"
 
 [Article]
 startDate = "5/7/1986"

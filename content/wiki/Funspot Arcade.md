@@ -2,7 +2,7 @@
 title = "Funspot Arcade"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = ""

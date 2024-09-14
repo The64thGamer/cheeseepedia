@@ -2,7 +2,7 @@
 title = "Jackson, MS (6352 Ridgewood Court Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "-/-/2009"

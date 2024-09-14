@@ -2,7 +2,7 @@
 title = "Herndon, VA (2465 Centreville Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/08/2024
+date = "06/08/2024"
 
 [Article]
 startDate = "5/19/1992"

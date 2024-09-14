@@ -2,7 +2,7 @@
 title = "Jackson, MS (5465 I-55)"
 draft = false
 tags = ["Store List"]
-date = 01/02/2024
+date = "01/02/2024"
 
 [Article]
 startDate = "8/-/1982"

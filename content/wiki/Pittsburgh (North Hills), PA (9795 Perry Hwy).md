@@ -2,7 +2,7 @@
 title = "Pittsburgh (North Hills), PA (9795 Perry Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/13/2023
+date = "07/13/2023"
 
 [Article]
 startDate = "2/24/1988"

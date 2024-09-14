@@ -2,7 +2,7 @@
 title = "Huntington Beach, CA (15511 Edwards St)"
 draft = false
 tags = ["Store List"]
-date = 09/04/2024
+date = "09/04/2024"
 
 [Article]
 startDate = ""

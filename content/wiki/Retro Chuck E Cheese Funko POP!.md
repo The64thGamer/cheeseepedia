@@ -2,7 +2,7 @@
 title = "Retro Chuck E. Cheese Funko POP!"
 draft = false
 tags = ["Merchandise"]
-date = 05/14/2024
+date = "05/14/2024"
 
 [Article]
 startDate = "6/6/2023"

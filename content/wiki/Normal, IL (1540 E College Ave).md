@@ -2,7 +2,7 @@
 title = "Normal, IL (1540 E College Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/08/2024
+date = "05/08/2024"
 
 [Article]
 startDate = "3/28/1983"

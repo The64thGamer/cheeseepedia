@@ -2,7 +2,7 @@
 title = "Merced, CA (721 W Olive Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = "4/18/1983"

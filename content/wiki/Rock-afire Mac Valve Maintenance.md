@@ -2,7 +2,7 @@
 title = "Rock-afire Mac Valve Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 04/10/2023
+date = "04/10/2023"
 
 [Article]
 startDate = ""

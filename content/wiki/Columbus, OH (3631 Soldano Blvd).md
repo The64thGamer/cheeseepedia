@@ -2,7 +2,7 @@
 title = "Columbus, OH (3631 Soldano Blvd)"
 draft = false
 tags = ["Store List"]
-date = 04/24/2024
+date = "04/24/2024"
 
 [Article]
 startDate = "11/24/1992"

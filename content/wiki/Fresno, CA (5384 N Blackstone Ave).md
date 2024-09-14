@@ -2,7 +2,7 @@
 title = "Fresno, CA (5384 N Blackstone Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/30/2023
+date = "09/30/2023"
 
 [Article]
 startDate = "-/-/1980"

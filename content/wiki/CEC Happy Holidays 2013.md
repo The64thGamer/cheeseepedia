@@ -2,7 +2,7 @@
 title = "CEC Happy Holidays 2013"
 draft = false
 tags = ["Live Shows"]
-date = 02/10/2023
+date = "02/10/2023"
 
 [Article]
 startDate = ""

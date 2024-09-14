@@ -2,7 +2,7 @@
 title = "Houston, TX (2220 FM 1960)"
 draft = false
 tags = ["Store List"]
-date = 10/29/2023
+date = "10/29/2023"
 
 [Article]
 startDate = "6/25/1981"

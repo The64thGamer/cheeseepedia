@@ -2,7 +2,7 @@
 title = "Parma, OH (7601 W Ridgewood Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "11/26/1999"

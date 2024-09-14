@@ -2,7 +2,7 @@
 title = "Richmond, VA (9030 Broad St)"
 draft = false
 tags = ["Store List"]
-date = 04/03/2024
+date = "04/03/2024"
 
 [Article]
 startDate = "3/4/1999"

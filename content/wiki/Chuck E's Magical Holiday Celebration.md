@@ -2,7 +2,7 @@
 title = "Chuck E's Magical Holiday Celebration"
 draft = false
 tags = ["Showtapes"]
-date = 08/01/2022
+date = "08/01/2022"
 
 [Article]
 startDate = "-/-/1996"

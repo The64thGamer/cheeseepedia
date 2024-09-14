@@ -2,7 +2,7 @@
 title = "Franklin, TN (3073 Mallory Lane)"
 draft = false
 tags = ["Store List"]
-date = 05/07/2023
+date = "05/07/2023"
 
 [Article]
 startDate = "12/31/2000"

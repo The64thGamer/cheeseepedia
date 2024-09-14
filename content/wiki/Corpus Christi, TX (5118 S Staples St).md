@@ -2,7 +2,7 @@
 title = "Corpus Christi, TX (5118 S Staples St)"
 draft = false
 tags = ["Store List"]
-date = 06/18/2024
+date = "06/18/2024"
 
 [Article]
 startDate = "4/-/1983"

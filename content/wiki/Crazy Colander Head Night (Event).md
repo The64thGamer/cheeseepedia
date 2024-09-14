@@ -2,7 +2,7 @@
 title = "Crazy Colander Head Night (Event)"
 draft = false
 tags = ["Events"]
-date = 10/11/2023
+date = "10/11/2023"
 
 [Article]
 startDate = ""

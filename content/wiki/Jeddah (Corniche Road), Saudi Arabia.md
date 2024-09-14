@@ -2,7 +2,7 @@
 title = "Jeddah (Corniche Road), Saudi Arabia"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "12/12/2001"

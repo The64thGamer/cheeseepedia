@@ -2,7 +2,7 @@
 title = "Rancho Cucamonga, CA (9339 Foothill Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/22/2024
+date = "08/22/2024"
 
 [Article]
 startDate = "3/21/1990"

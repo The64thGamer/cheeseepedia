@@ -2,7 +2,7 @@
 title = "CEC Franchise Subsite"
 draft = false
 tags = []
-date = 08/30/2022
+date = "08/30/2022"
 
 [Article]
 startDate = ""

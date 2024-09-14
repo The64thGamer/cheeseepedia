@@ -2,7 +2,7 @@
 title = "Circles of Light"
 draft = false
 tags = ["Stage Variations"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = ""

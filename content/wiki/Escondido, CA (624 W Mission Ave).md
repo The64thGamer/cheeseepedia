@@ -2,7 +2,7 @@
 title = "Escondido, CA (624 W Mission Ave)"
 draft = false
 tags = ["Store List"]
-date = 12/23/2023
+date = "12/23/2023"
 
 [Article]
 startDate = "8/1/1983"

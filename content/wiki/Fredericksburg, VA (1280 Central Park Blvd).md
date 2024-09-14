@@ -2,7 +2,7 @@
 title = "Fredericksburg, VA (1280 Central Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/15/2024
+date = "07/15/2024"
 
 [Article]
 startDate = "7/23/2021"

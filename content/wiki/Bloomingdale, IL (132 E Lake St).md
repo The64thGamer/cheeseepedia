@@ -2,7 +2,7 @@
 title = "Bloomingdale, IL (132 E Lake St)"
 draft = false
 tags = ["Store List"]
-date = 02/15/2023
+date = "02/15/2023"
 
 [Article]
 startDate = "4/1/1981"

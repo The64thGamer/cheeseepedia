@@ -2,7 +2,7 @@
 title = "'For a free show... push this button and watch me go!' (PTT Signage)"
 draft = false
 tags = []
-date = 06/29/2023
+date = "06/29/2023"
 
 [Article]
 startDate = ""

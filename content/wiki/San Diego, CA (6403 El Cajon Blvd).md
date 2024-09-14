@@ -2,7 +2,7 @@
 title = "San Diego, CA (6403 El Cajon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 05/19/2023
+date = "05/19/2023"
 
 [Article]
 startDate = "3/-/1981"

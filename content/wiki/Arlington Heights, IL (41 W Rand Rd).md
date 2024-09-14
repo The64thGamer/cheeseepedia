@@ -2,7 +2,7 @@
 title = "Arlington Heights, IL (41 W Rand Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2023
+date = "07/31/2023"
 
 [Article]
 startDate = "12/15/2015"

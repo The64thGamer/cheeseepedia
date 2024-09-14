@@ -2,7 +2,7 @@
 title = "Dickson City, PA (1003 Commerce Blvd)"
 draft = false
 tags = ["Store List"]
-date = 06/03/2024
+date = "06/03/2024"
 
 [Article]
 startDate = "12/15/1999"

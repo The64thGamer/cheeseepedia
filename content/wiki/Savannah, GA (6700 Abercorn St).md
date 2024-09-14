@@ -2,7 +2,7 @@
 title = "Savannah, GA (6700 Abercorn St)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "10/5/1982"

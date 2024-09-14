@@ -2,7 +2,7 @@
 title = "Spokane, WA (10007 N Nevada St)"
 draft = false
 tags = ["Store List"]
-date = 08/01/2024
+date = "08/01/2024"
 
 [Article]
 startDate = "3/-/2000"

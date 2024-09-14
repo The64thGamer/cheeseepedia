@@ -2,7 +2,7 @@
 title = "Crusty's Vegetarian Delight (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 02/16/2024
+date = "02/16/2024"
 
 [Article]
 startDate = ""

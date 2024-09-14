@@ -2,7 +2,7 @@
 title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["Unofficial Retrofits"]
-date = 01/28/2024
+date = "01/28/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Murray, UT (4425 State St)"
 draft = false
 tags = ["Store List"]
-date = 06/21/2024
+date = "06/21/2024"
 
 [Article]
 startDate = "3/17/1983"

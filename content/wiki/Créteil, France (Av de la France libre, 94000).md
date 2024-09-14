@@ -2,7 +2,7 @@
 title = "Créteil, France (Av. de la France libre, 94000)"
 draft = false
 tags = []
-date = 09/28/2023
+date = "09/28/2023"
 
 [Article]
 startDate = "4/5/1984"

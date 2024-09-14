@@ -2,7 +2,7 @@
 title = "Dublin, CA (7590 Amador Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = "4/21/1982"

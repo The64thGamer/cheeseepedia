@@ -2,7 +2,7 @@
 title = "Barboursville, WV (3419 US Rt 60)"
 draft = false
 tags = []
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = "-/-/1986"

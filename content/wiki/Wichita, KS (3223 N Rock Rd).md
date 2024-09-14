@@ -2,7 +2,7 @@
 title = "Wichita, KS (3223 N Rock Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "12/16/1991"

@@ -2,7 +2,7 @@
 title = "Cupertino, CA (975 S De Anza Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/14/2024
+date = "07/14/2024"
 
 [Article]
 startDate = "-/-/1982"

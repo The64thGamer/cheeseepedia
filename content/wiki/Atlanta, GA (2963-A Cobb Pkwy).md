@@ -2,7 +2,7 @@
 title = "Atlanta, GA (2963-A Cobb Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 08/26/2024
+date = "08/26/2024"
 
 [Article]
 startDate = "9/4/1982"

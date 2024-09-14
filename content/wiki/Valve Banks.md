@@ -2,7 +2,7 @@
 title = "Valve Banks"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = ""

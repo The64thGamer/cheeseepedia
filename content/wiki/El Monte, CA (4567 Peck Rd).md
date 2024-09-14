@@ -2,7 +2,7 @@
 title = "El Monte, CA (4567 Peck Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/13/2024
+date = "06/13/2024"
 
 [Article]
 startDate = "-/-/1982"

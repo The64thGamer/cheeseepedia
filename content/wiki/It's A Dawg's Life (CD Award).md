@@ -2,7 +2,7 @@
 title = "'It's A Dawg's Life' (CD Award)"
 draft = false
 tags = []
-date = 07/19/2023
+date = "07/19/2023"
 
 [Article]
 startDate = "-/-/1993"

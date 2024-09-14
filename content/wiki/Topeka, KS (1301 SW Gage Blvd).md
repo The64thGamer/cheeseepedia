@@ -2,7 +2,7 @@
 title = "Topeka, KS (1301 SW Gage Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/16/2024
+date = "08/16/2024"
 
 [Article]
 startDate = "12/1/1980"

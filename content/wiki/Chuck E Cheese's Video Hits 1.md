@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Video Hits 1"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 11/04/2023
+date = "11/04/2023"
 
 [Article]
 startDate = ""

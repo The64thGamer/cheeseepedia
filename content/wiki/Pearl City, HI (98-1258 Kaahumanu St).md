@@ -2,7 +2,7 @@
 title = "Pearl City, HI (98-1258 Kaahumanu St)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2023
+date = "07/31/2023"
 
 [Article]
 startDate = "8/7/1982"

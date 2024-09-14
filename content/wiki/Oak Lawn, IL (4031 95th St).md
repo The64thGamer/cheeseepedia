@@ -2,7 +2,7 @@
 title = "Oak Lawn, IL (4031 95th St)"
 draft = false
 tags = ["Store List"]
-date = 03/30/2024
+date = "03/30/2024"
 
 [Article]
 startDate = "1/19/1983"

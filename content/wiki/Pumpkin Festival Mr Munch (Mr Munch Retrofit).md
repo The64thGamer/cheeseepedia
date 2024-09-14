@@ -2,7 +2,7 @@
 title = "Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 03/22/2023
+date = "03/22/2023"
 
 [Article]
 startDate = ""

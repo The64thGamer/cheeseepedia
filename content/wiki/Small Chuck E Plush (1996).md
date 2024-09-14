@@ -2,7 +2,7 @@
 title = "Small Chuck E. Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 04/23/2023
+date = "04/23/2023"
 
 [Article]
 startDate = ""

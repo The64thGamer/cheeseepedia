@@ -2,7 +2,7 @@
 title = "Springfield, MA (1716 Boston Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/05/2024
+date = "09/05/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Nanuet, NY (250 West Route 59)"
 draft = false
 tags = ["Store List"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = "12/20/2003"

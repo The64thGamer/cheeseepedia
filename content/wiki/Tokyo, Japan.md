@@ -2,7 +2,7 @@
 title = "Tokyo, Japan"
 draft = false
 tags = ["Store List"]
-date = 03/23/2023
+date = "03/23/2023"
 
 [Article]
 startDate = "-/-/1999"

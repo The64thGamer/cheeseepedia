@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Party Games"
 draft = false
 tags = ["Video Games"]
-date = 12/24/2023
+date = "12/24/2023"
 
 [Article]
 startDate = "-/-/2010"

@@ -2,7 +2,7 @@
 title = "Victorville, CA (15405 Park Ave)"
 draft = false
 tags = ["Store List"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = "10/5/1982"

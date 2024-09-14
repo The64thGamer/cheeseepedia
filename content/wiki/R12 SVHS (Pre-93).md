@@ -2,7 +2,7 @@
 title = "R12 SVHS (Pre-93)"
 draft = false
 tags = ["Showtape Formats"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = ""

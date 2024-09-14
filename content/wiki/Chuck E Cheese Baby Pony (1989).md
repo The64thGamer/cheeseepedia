@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Baby Pony (1989)"
 draft = false
 tags = ["Merchandise"]
-date = 05/15/2024
+date = "05/15/2024"
 
 [Article]
 startDate = "-/-/1989"

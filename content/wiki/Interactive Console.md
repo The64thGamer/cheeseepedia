@@ -2,7 +2,7 @@
 title = "Interactive Console"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 08/27/2024
+date = "08/27/2024"
 
 [Article]
 startDate = ""

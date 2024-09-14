@@ -2,7 +2,7 @@
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
 tags = ["RockyRailroad"]
-date = 08/12/2024
+date = "08/12/2024"
 
 [Article]
 startDate = ""

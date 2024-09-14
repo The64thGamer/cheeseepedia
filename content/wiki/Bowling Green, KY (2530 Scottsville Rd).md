@@ -2,7 +2,7 @@
 title = "Bowling Green, KY (2530 Scottsville Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/28/2023
+date = "04/28/2023"
 
 [Article]
 startDate = "4/17/1984"

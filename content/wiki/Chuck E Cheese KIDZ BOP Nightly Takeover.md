@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese KIDZ BOP Nightly Takeover"
 draft = false
 tags = ["Showtapes"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "7/8/2024"

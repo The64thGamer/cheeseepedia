@@ -2,7 +2,7 @@
 title = "Me & My Friends (New Countdown)"
 draft = false
 tags = []
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = ""

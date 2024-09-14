@@ -2,7 +2,7 @@
 title = "7-20-96 (7-1-96) (Show Selector 1) (Spokane)"
 draft = false
 tags = ["Showtapes"]
-date = 12/28/2022
+date = "12/28/2022"
 
 [Article]
 startDate = ""

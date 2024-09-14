@@ -2,7 +2,7 @@
 title = "Costa Mesa, CA"
 draft = false
 tags = []
-date = 12/03/2021
+date = "12/03/2021"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Mississauga, Ontario, Canada (4141 Dixie Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/10/2024
+date = "09/10/2024"
 
 [Article]
 startDate = "-/-/1991"

@@ -2,7 +2,7 @@
 title = "PTT Winchester Game Room Rules Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/08/2023
+date = "08/08/2023"
 
 [Article]
 startDate = ""

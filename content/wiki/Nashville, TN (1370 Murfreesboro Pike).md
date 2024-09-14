@@ -2,7 +2,7 @@
 title = "Nashville, TN (1370 Murfreesboro Pike)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "11/14/1982"

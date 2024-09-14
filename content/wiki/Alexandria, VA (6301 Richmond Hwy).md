@@ -2,7 +2,7 @@
 title = "Alexandria, VA (6301 Richmond Hwy)"
 draft = false
 tags = ["Store List"]
-date = 06/05/2024
+date = "06/05/2024"
 
 [Article]
 startDate = "11/20/2010"

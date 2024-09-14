@@ -2,7 +2,7 @@
 title = "Chuck E.'s House"
 draft = false
 tags = ["Stage Variations"]
-date = 09/05/2024
+date = "09/05/2024"
 
 [Article]
 startDate = ""

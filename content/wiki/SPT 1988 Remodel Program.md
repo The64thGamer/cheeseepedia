@@ -2,7 +2,7 @@
 title = "SPT 1988 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 12/15/2023
+date = "12/15/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Biloxi, MS (4550 W Beach Blvd)"
 draft = false
 tags = ["Store List"]
-date = 05/03/2023
+date = "05/03/2023"
 
 [Article]
 startDate = "10/-/1983"

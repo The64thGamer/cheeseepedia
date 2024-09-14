@@ -2,7 +2,7 @@
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = "7/7/1982"

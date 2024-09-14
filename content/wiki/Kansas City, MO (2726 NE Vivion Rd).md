@@ -2,7 +2,7 @@
 title = "Kansas City, MO (2726 NE Vivion Rd)"
 draft = false
 tags = []
-date = 06/21/2024
+date = "06/21/2024"
 
 [Article]
 startDate = ""

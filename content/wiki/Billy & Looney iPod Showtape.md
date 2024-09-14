@@ -2,7 +2,7 @@
 title = "Billy & Looney iPod Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 06/09/2024
+date = "06/09/2024"
 
 [Article]
 startDate = ""

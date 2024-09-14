@@ -2,7 +2,7 @@
 title = "Independence, MO (4039 S Noland Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/24/2023
+date = "07/24/2023"
 
 [Article]
 startDate = "10/14/1980"

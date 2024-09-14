@@ -2,7 +2,7 @@
 title = "Sparks, NV (530 Greenbrae Dr)"
 draft = false
 tags = ["Store List"]
-date = 03/25/2024
+date = "03/25/2024"
 
 [Article]
 startDate = "12/20/1979"

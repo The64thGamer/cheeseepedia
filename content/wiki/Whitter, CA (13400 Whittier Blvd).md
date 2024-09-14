@@ -2,7 +2,7 @@
 title = "Whitter, CA (13400 Whittier Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2023
+date = "07/28/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
 tags = ["Showtapes"]
-date = 05/26/2024
+date = "05/26/2024"
 
 [Article]
 startDate = ""

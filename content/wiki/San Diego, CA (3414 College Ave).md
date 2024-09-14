@@ -2,7 +2,7 @@
 title = "San Diego, CA (3414 College Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/13/2024
+date = "09/13/2024"
 
 [Article]
 startDate = "12/19/2012"

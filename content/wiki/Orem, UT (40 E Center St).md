@@ -2,7 +2,7 @@
 title = "Orem, UT (40 E Center St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "8/31/1983"

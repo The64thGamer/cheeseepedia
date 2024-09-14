@@ -2,7 +2,7 @@
 title = "Howard Beach, NY (133-35 79th St)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2023
+date = "07/29/2023"
 
 [Article]
 startDate = "1/31/2022"

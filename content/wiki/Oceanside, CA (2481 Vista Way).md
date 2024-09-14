@@ -2,7 +2,7 @@
 title = "Oceanside, CA (2481 Vista Way)"
 draft = false
 tags = ["Store List"]
-date = 08/15/2024
+date = "08/15/2024"
 
 [Article]
 startDate = "2/8/1983"

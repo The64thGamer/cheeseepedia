@@ -2,7 +2,7 @@
 title = "PTT Charlie Cheese Nameplate (1982)"
 draft = false
 tags = []
-date = 11/03/2023
+date = "11/03/2023"
 
 [Article]
 startDate = ""

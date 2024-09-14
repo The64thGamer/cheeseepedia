@@ -2,7 +2,7 @@
 title = "2023 Five Nights of Fun"
 draft = false
 tags = ["Events"]
-date = 06/09/2024
+date = "06/09/2024"
 
 [Article]
 startDate = ""

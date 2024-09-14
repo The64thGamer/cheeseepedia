@@ -2,7 +2,7 @@
 title = "Doha (Lusail), Qatar"
 draft = false
 tags = ["Store List"]
-date = 05/15/2023
+date = "05/15/2023"
 
 [Article]
 startDate = "11/-/2022"

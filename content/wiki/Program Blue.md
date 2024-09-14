@@ -2,7 +2,7 @@
 title = "Program Blue"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 07/15/2022
+date = "07/15/2022"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Roanoke, VA (4059 Electric Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/04/2024
+date = "04/04/2024"
 
 [Article]
 startDate = "6/21/1983"

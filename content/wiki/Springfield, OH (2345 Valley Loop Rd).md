@@ -2,7 +2,7 @@
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "1/12/1983"

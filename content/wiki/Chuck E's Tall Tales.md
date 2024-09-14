@@ -2,7 +2,7 @@
 title = "Chuck E's Tall Tales"
 draft = false
 tags = ["Live Shows"]
-date = 07/22/2023
+date = "07/22/2023"
 
 [Article]
 startDate = "12/26/1995"

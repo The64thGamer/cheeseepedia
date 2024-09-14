@@ -2,7 +2,7 @@
 title = "Smile America - 'Alice' (Commercial)"
 draft = false
 tags = []
-date = 07/05/2023
+date = "07/05/2023"
 
 [Article]
 startDate = ""

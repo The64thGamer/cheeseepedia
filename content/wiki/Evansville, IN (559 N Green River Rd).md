@@ -2,7 +2,7 @@
 title = "Evansville, IN (559 N Green River Rd)"
 draft = false
 tags = ["Store List"]
-date = 10/27/2023
+date = "10/27/2023"
 
 [Article]
 startDate = "12/21/1982"

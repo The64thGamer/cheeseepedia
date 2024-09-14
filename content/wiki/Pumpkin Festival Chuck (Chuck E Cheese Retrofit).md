@@ -2,7 +2,7 @@
 title = "Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 03/06/2024
+date = "03/06/2024"
 
 [Article]
 startDate = ""

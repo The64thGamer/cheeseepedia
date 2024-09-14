@@ -2,7 +2,7 @@
 title = "Dale City, VA (14085 Shoppers Best Way)"
 draft = false
 tags = ["Store List"]
-date = 08/19/2023
+date = "08/19/2023"
 
 [Article]
 startDate = ""

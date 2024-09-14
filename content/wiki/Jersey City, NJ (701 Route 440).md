@@ -2,7 +2,7 @@
 title = "Jersey City, NJ (701 Route 440)"
 draft = false
 tags = []
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "11/3/2014"

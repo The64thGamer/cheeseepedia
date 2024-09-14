@@ -2,7 +2,7 @@
 title = "Cape Girardeau, MO (250 S Silver Springs Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/17/2023
+date = "08/17/2023"
 
 [Article]
 startDate = "7/1/1983"

@@ -2,7 +2,7 @@
 title = "Let The Good Times Roll"
 draft = false
 tags = ["Live Shows"]
-date = 03/30/2023
+date = "03/30/2023"
 
 [Article]
 startDate = "-/-/1994"

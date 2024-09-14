@@ -2,7 +2,7 @@
 title = "Birmingham, AL (500 Old Town Rd)"
 draft = false
 tags = ["Store List"]
-date = 03/04/2024
+date = "03/04/2024"
 
 [Article]
 startDate = "10/20/1982"

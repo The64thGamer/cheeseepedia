@@ -2,7 +2,7 @@
 title = "'Chuck E. Cheese's Pizza' (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 06/27/2024
+date = "06/27/2024"
 
 [Article]
 startDate = "-/-/1987"

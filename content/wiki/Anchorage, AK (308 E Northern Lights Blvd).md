@@ -2,7 +2,7 @@
 title = "Anchorage, AK (308 E Northern Lights Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/27/2024
+date = "08/27/2024"
 
 [Article]
 startDate = "-/-/1982"

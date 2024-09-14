@@ -2,7 +2,7 @@
 title = "Beaumont, TX (5874 Eastex Fwy)"
 draft = false
 tags = ["Store List"]
-date = 02/07/2024
+date = "02/07/2024"
 
 [Article]
 startDate = "-/-/1982"

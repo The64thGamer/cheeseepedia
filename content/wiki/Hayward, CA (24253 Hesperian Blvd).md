@@ -2,7 +2,7 @@
 title = "Hayward, CA (24253 Hesperian Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/13/2024
+date = "07/13/2024"
 
 [Article]
 startDate = "4/-/1981"

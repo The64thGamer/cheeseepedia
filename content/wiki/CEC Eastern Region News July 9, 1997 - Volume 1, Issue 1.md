@@ -2,7 +2,7 @@
 title = "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"
 draft = false
 tags = ["Documents"]
-date = 02/15/2024
+date = "02/15/2024"
 
 [Article]
 startDate = ""

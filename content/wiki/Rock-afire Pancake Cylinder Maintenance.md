@@ -2,7 +2,7 @@
 title = "Rock-afire Pancake Cylinder Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 03/21/2023
+date = "03/21/2023"
 
 [Article]
 startDate = ""

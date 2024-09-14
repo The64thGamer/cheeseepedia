@@ -2,7 +2,7 @@
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
 tags = ["News Footage"]
-date = 10/13/2023
+date = "10/13/2023"
 
 [Article]
 startDate = ""

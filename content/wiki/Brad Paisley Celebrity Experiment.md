@@ -2,7 +2,7 @@
 title = "Brad Paisley Celebrity Experiment"
 draft = false
 tags = []
-date = 12/10/2021
+date = "12/10/2021"
 
 [Article]
 startDate = ""

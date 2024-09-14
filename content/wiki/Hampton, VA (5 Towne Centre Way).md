@@ -2,7 +2,7 @@
 title = "Hampton, VA (5 Towne Centre Way)"
 draft = false
 tags = ["Store List"]
-date = 01/02/2024
+date = "01/02/2024"
 
 [Article]
 startDate = "5/-/2002"

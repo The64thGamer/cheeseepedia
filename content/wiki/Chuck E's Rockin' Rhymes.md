@@ -2,7 +2,7 @@
 title = "Chuck E's Rockin' Rhymes"
 draft = false
 tags = ["Live Shows"]
-date = 09/09/2024
+date = "09/09/2024"
 
 [Article]
 startDate = "4/-/2001"

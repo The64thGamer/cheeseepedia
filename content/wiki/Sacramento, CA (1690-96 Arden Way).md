@@ -2,7 +2,7 @@
 title = "Sacramento, CA (1690-96 Arden Way)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2024
+date = "07/31/2024"
 
 [Article]
 startDate = "2/-/1982"

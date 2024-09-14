@@ -2,7 +2,7 @@
 title = "Memphis, TN (3649 Hickory Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/20/2024
+date = "08/20/2024"
 
 [Article]
 startDate = "8/24/1982"

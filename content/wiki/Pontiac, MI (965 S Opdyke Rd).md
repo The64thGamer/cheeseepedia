@@ -2,7 +2,7 @@
 title = "Pontiac, MI (965 S Opdyke Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/08/2023
+date = "08/08/2023"
 
 [Article]
 startDate = "11/4/1982"

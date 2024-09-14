@@ -2,7 +2,7 @@
 title = "La Habra, CA (901 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = 12/10/2023
+date = "12/10/2023"
 
 [Article]
 startDate = "5/-/1980"

@@ -2,7 +2,7 @@
 title = "Wilmington, NC (4389 Oleander Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/28/2024
+date = "07/28/2024"
 
 [Article]
 startDate = "7/23/1984"

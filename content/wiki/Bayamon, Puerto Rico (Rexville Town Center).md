@@ -2,7 +2,7 @@
 title = "Bayamon, Puerto Rico (Rexville Town Center)"
 draft = false
 tags = ["Store List"]
-date = 06/12/2024
+date = "06/12/2024"
 
 [Article]
 startDate = "6/-/2003"

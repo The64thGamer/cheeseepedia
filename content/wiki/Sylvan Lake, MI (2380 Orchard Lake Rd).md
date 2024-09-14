@@ -2,7 +2,7 @@
 title = "Sylvan Lake, MI (2380 Orchard Lake Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/11/2024
+date = "06/11/2024"
 
 [Article]
 startDate = "9/-/1981"

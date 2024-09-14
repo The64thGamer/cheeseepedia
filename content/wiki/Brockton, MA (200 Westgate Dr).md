@@ -2,7 +2,7 @@
 title = "Brockton, MA (200 Westgate Dr)"
 draft = false
 tags = ["Store List"]
-date = 04/07/2024
+date = "04/07/2024"
 
 [Article]
 startDate = "-/-/1993"

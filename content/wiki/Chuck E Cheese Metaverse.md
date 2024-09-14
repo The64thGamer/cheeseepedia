@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Metaverse"
 draft = false
 tags = ["Video Games"]
-date = 04/10/2022
+date = "04/10/2022"
 
 [Article]
 startDate = ""

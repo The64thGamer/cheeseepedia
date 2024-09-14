@@ -2,7 +2,7 @@
 title = "Santiago (Las Condes/Lo Barnechea), Chile"
 draft = false
 tags = ["Store List"]
-date = 10/17/2022
+date = "10/17/2022"
 
 [Article]
 startDate = "-/-/1994"

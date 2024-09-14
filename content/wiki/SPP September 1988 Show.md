@@ -2,7 +2,7 @@
 title = "SPP September 1988 Show"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 07/16/2023
+date = "07/16/2023"
 
 [Article]
 startDate = ""

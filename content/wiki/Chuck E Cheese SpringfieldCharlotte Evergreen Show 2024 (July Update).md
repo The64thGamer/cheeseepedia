@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Springfield/Charlotte Evergreen Show 2024 (July Update)"
 draft = false
 tags = ["Showtapes"]
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = "7/29/2024"

@@ -2,7 +2,7 @@
 title = "Whitehall, PA (1000 Lehigh Valley Mall)"
 draft = false
 tags = ["Store List"]
-date = 05/17/2024
+date = "05/17/2024"
 
 [Article]
 startDate = "12/16/1983"

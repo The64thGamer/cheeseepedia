@@ -2,7 +2,7 @@
 title = "Showtape Stock Music"
 draft = false
 tags = []
-date = 09/25/2023
+date = "09/25/2023"
 
 [Article]
 startDate = ""

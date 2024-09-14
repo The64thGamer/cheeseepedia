@@ -2,7 +2,7 @@
 title = "Birmingham, AL (9325 Parkway East)"
 draft = false
 tags = ["Store List"]
-date = 06/26/2023
+date = "06/26/2023"
 
 [Article]
 startDate = "5/-/1983"

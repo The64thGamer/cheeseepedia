@@ -2,7 +2,7 @@
 title = "Beaverton, OR (11753 SW Beaverton Hillsdale)"
 draft = false
 tags = ["Store List"]
-date = 04/15/2024
+date = "04/15/2024"
 
 [Article]
 startDate = "10/-/1981"

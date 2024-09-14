@@ -2,7 +2,7 @@
 title = "Edmonton, Alberta, Canada (9271 34th Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/22/2024
+date = "08/22/2024"
 
 [Article]
 startDate = "11/-/1985"

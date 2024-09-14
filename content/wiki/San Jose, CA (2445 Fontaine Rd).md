@@ -2,7 +2,7 @@
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/07/2024
+date = "09/07/2024"
 
 [Article]
 startDate = "-/-/1981"

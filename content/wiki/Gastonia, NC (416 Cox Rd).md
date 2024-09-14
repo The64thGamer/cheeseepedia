@@ -2,7 +2,7 @@
 title = "Gastonia, NC (416 Cox Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/27/2024
+date = "06/27/2024"
 
 [Article]
 startDate = "11/27/2005"

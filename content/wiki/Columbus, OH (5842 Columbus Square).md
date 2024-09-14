@@ -2,7 +2,7 @@
 title = "Columbus, OH (5842 Columbus Square)"
 draft = false
 tags = ["Store List"]
-date = 05/11/2023
+date = "05/11/2023"
 
 [Article]
 startDate = "-/-/1982"

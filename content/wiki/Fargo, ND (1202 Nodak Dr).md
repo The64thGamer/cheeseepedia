@@ -2,7 +2,7 @@
 title = "Fargo, ND (1202 Nodak Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/11/2024
+date = "07/11/2024"
 
 [Article]
 startDate = "2/8/1984"

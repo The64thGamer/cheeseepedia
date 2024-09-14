@@ -2,7 +2,7 @@
 title = "Pasadena, TX (154 Fairmont Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 05/18/2024
+date = "05/18/2024"
 
 [Article]
 startDate = "6/9/1982"

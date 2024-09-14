@@ -2,7 +2,7 @@
 title = "Pontiac, MI (390 Telegraph Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/14/2023
+date = "08/14/2023"
 
 [Article]
 startDate = "9/20/1993"

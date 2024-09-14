@@ -2,7 +2,7 @@
 title = "2022 CEC Charity Golf Tournament (Event)"
 draft = false
 tags = ["Events"]
-date = 12/28/2022
+date = "12/28/2022"
 
 [Article]
 startDate = ""

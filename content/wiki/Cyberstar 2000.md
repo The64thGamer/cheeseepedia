@@ -2,7 +2,7 @@
 title = "Cyberstar 2000"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 07/13/2024
+date = "07/13/2024"
 
 [Article]
 startDate = ""

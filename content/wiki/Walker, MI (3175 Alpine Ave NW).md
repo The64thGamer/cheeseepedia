@@ -2,7 +2,7 @@
 title = "Walker, MI (3175 Alpine Ave NW)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "10/26/1982"

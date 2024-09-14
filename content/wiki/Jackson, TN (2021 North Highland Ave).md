@@ -2,7 +2,7 @@
 title = "Jackson, TN (2021 North Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/21/2024
+date = "08/21/2024"
 
 [Article]
 startDate = "7/29/2003"

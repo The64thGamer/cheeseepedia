@@ -2,7 +2,7 @@
 title = "Torrance, CA (16920 Prairie Ave)"
 draft = false
 tags = ["Store List"]
-date = 06/20/2023
+date = "06/20/2023"
 
 [Article]
 startDate = "-/-/1983"

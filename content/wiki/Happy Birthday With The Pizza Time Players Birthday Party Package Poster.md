@@ -2,7 +2,7 @@
 title = "Happy Birthday With The Pizza Time Players Birthday Party Package Poster"
 draft = false
 tags = []
-date = 08/13/2023
+date = "08/13/2023"
 
 [Article]
 startDate = ""

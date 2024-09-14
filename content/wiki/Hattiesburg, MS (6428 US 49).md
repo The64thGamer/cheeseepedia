@@ -2,7 +2,7 @@
 title = "Hattiesburg, MS (6428 US 49)"
 draft = false
 tags = ["Store List"]
-date = 10/03/2023
+date = "10/03/2023"
 
 [Article]
 startDate = "7/26/1984"

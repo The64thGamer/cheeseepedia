@@ -2,7 +2,7 @@
 title = "Union, NJ (1660 US-22)"
 draft = false
 tags = ["Store List"]
-date = 06/22/2024
+date = "06/22/2024"
 
 [Article]
 startDate = "8/6/1984"

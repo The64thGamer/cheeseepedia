@@ -2,7 +2,7 @@
 title = "Yonkers, NY (1703 Central Park Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = "9/3/2022"

@@ -2,7 +2,7 @@
 title = "Middletown, NJ (1107 Route 35)"
 draft = false
 tags = ["Store List"]
-date = 08/15/2024
+date = "08/15/2024"
 
 [Article]
 startDate = "7/25/1994"

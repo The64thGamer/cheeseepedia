@@ -2,7 +2,7 @@
 title = "Tinley Park, IL (16090 S Harlem Ave)"
 draft = false
 tags = ["Store List"]
-date = 05/17/2024
+date = "05/17/2024"
 
 [Article]
 startDate = "1/31/1989"

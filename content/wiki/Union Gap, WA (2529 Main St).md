@@ -2,7 +2,7 @@
 title = "Union Gap, WA (2529 Main St)"
 draft = false
 tags = ["Store List"]
-date = 03/10/2023
+date = "03/10/2023"
 
 [Article]
 startDate = ""

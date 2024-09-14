@@ -2,7 +2,7 @@
 title = "Everett, MA (29 Mystic View Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = "6/19/2001"

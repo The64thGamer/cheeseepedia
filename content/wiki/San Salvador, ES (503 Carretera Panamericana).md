@@ -2,7 +2,7 @@
 title = "San Salvador, ES (503 Carretera Panamericana)"
 draft = false
 tags = []
-date = 04/02/2024
+date = "04/02/2024"
 
 [Article]
 startDate = "4/13/2021"

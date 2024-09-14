@@ -2,7 +2,7 @@
 title = "CEC 2018 2.0 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 07/03/2024
+date = "07/03/2024"
 
 [Article]
 startDate = ""

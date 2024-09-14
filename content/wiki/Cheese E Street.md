@@ -2,7 +2,7 @@
 title = "Cheese E. Street"
 draft = false
 tags = ["Arcade Games"]
-date = 03/14/2024
+date = "03/14/2024"
 
 [Article]
 startDate = ""

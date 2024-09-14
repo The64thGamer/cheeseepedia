@@ -2,7 +2,7 @@
 title = "Cyberamic Clippard Valve Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 09/03/2023
+date = "09/03/2023"
 
 [Article]
 startDate = ""

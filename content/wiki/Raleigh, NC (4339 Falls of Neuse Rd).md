@@ -2,7 +2,7 @@
 title = "Raleigh, NC (4339 Falls of Neuse Rd)"
 draft = false
 tags = ["Store List"]
-date = 12/05/2023
+date = "12/05/2023"
 
 [Article]
 startDate = "11/-/1980"

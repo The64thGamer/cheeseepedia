@@ -2,7 +2,7 @@
 title = "Brandon, FL (1540 W Brandon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 10/26/2023
+date = "10/26/2023"
 
 [Article]
 startDate = "8/-/1981"

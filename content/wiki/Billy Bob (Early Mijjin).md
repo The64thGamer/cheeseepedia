@@ -2,7 +2,7 @@
 title = "Billy Bob (Early Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = 02/22/2024
+date = "02/22/2024"
 
 [Article]
 startDate = ""

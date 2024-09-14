@@ -2,7 +2,7 @@
 title = "Jacksonville, FL (9820 Atlantic Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/17/2024
+date = "07/17/2024"
 
 [Article]
 startDate = "-/-/1980"

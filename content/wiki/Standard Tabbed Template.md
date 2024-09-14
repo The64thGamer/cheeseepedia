@@ -2,7 +2,7 @@
 title = "Standard: Tabbed Template"
 draft = false
 tags = ["Standards Pages"]
-date = 05/12/2023
+date = "05/12/2023"
 
 [Article]
 startDate = ""

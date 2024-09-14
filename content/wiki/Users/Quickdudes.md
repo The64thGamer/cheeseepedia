@@ -2,7 +2,7 @@
 title = "Quickdudes"
 draft = false
 tags = ["User"]
-date = 12/18/2023
+date = "12/18/2023"
 
 [Article]
 startDate = ""

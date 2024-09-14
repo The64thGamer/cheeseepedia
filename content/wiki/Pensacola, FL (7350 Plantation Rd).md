@@ -2,7 +2,7 @@
 title = "Pensacola, FL (7350 Plantation Rd)"
 draft = false
 tags = ["Store List"]
-date = 11/10/2023
+date = "11/10/2023"
 
 [Article]
 startDate = "12/6/1981"

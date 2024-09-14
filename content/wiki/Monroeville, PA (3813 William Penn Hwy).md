@@ -2,7 +2,7 @@
 title = "Monroeville, PA (3813 William Penn Hwy)"
 draft = false
 tags = ["Store List"]
-date = 03/18/2024
+date = "03/18/2024"
 
 [Article]
 startDate = "3/-/1982"

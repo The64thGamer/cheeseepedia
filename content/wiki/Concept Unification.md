@@ -2,7 +2,7 @@
 title = "Concept Unification"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = ""

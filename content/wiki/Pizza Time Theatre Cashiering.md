@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Cashiering"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 04/21/2023
+date = "04/21/2023"
 
 [Article]
 startDate = "12/30/1981"

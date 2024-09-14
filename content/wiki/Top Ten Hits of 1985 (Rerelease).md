@@ -2,7 +2,7 @@
 title = "Top Ten Hits of 1985 (Rerelease)"
 draft = false
 tags = ["Showtapes"]
-date = 04/08/2022
+date = "04/08/2022"
 
 [Article]
 startDate = ""

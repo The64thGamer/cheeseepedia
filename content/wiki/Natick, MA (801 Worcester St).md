@@ -2,7 +2,7 @@
 title = "Natick, MA (801 Worcester St)"
 draft = false
 tags = ["Store List"]
-date = 01/30/2024
+date = "01/30/2024"
 
 [Article]
 startDate = "11/17/1992"

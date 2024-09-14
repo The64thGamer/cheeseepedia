@@ -2,7 +2,7 @@
 title = "Maryville, TN (141 Foothills Mall)"
 draft = false
 tags = ["Store List"]
-date = 01/23/2024
+date = "01/23/2024"
 
 [Article]
 startDate = "3/3/1983"

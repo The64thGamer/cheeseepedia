@@ -2,7 +2,7 @@
 title = "Hampton, VA (4027 W Mercury Blvd)"
 draft = false
 tags = ["Store List"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = "5/-/1982"

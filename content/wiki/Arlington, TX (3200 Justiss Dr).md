@@ -2,7 +2,7 @@
 title = "Arlington, TX (3200 Justiss Dr)"
 draft = false
 tags = ["Store List"]
-date = 11/21/2023
+date = "11/21/2023"
 
 [Article]
 startDate = "7/21/1982"

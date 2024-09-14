@@ -2,7 +2,7 @@
 title = "Penfield / Rochester, NY (1614 Penfield Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/01/2024
+date = "09/01/2024"
 
 [Article]
 startDate = "3/17/1982"

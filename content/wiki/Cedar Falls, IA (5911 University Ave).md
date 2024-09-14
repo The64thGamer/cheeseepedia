@@ -2,7 +2,7 @@
 title = "Cedar Falls, IA (5911 University Ave)"
 draft = false
 tags = []
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = "8/1/2001"

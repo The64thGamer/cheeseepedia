@@ -2,7 +2,7 @@
 title = "National City, CA (1143 Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/01/2024
+date = "08/01/2024"
 
 [Article]
 startDate = "5/-/1982"

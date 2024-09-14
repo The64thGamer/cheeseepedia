@@ -2,7 +2,7 @@
 title = "West St Paul, MN (1422 S Robert Street)"
 draft = false
 tags = []
-date = 04/07/2024
+date = "04/07/2024"
 
 [Article]
 startDate = "9/23/1982"

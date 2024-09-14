@@ -2,7 +2,7 @@
 title = "Miami (Kendall), FL (8701 SW 124th Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = "12/4/2000"

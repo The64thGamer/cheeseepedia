@@ -2,7 +2,7 @@
 title = "The Twist"
 draft = false
 tags = ["Live Shows"]
-date = 07/15/2022
+date = "07/15/2022"
 
 [Article]
 startDate = "8/-/1997"

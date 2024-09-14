@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Hot Wheels Sweet 16 II (2001)"
 draft = false
 tags = ["Merchandise"]
-date = 05/05/2023
+date = "05/05/2023"
 
 [Article]
 startDate = ""

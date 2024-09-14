@@ -2,7 +2,7 @@
 title = "Layton Bit Stripper"
 draft = false
 tags = ["Merchandise"]
-date = 05/21/2024
+date = "05/21/2024"
 
 [Article]
 startDate = ""

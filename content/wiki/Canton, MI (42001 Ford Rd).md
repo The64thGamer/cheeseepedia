@@ -2,7 +2,7 @@
 title = "Canton, MI (42001 Ford Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/10/2024
+date = "05/10/2024"
 
 [Article]
 startDate = "5/3/1988"

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Coin Purse (1983)"
 draft = false
 tags = ["Merchandise"]
-date = 04/30/2023
+date = "04/30/2023"
 
 [Article]
 startDate = ""

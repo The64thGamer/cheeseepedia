@@ -2,7 +2,7 @@
 title = "Chuck E's Holiday Party 1999"
 draft = false
 tags = ["Live Shows"]
-date = 01/31/2023
+date = "01/31/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Aurora, CO (634 Peoria St)"
 draft = false
 tags = ["Store List"]
-date = 05/30/2024
+date = "05/30/2024"
 
 [Article]
 startDate = "-/-/1982"

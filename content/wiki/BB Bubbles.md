@@ -2,7 +2,7 @@
 title = "B.B. Bubbles"
 draft = false
 tags = []
-date = 09/11/2022
+date = "09/11/2022"
 
 [Article]
 startDate = ""

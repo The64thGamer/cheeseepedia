@@ -2,7 +2,7 @@
 title = "Garland, TX (1340 W Centerville Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/03/2023
+date = "08/03/2023"
 
 [Article]
 startDate = "11/3/1982"

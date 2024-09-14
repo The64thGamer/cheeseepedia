@@ -2,7 +2,7 @@
 title = "Elvis (The King Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 02/26/2024
+date = "02/26/2024"
 
 [Article]
 startDate = ""

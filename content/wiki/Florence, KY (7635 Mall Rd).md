@@ -2,7 +2,7 @@
 title = "Florence, KY (7635 Mall Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/08/2024
+date = "09/08/2024"
 
 [Article]
 startDate = "4/19/1982"

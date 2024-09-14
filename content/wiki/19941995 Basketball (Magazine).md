@@ -2,7 +2,7 @@
 title = "1994/1995 Basketball (Magazine)"
 draft = false
 tags = []
-date = 08/28/2022
+date = "08/28/2022"
 
 [Article]
 startDate = "-/-/1994"

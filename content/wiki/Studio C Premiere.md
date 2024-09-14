@@ -2,7 +2,7 @@
 title = "Studio C Premiere"
 draft = false
 tags = ["Showtapes"]
-date = 12/17/2023
+date = "12/17/2023"
 
 [Article]
 startDate = ""

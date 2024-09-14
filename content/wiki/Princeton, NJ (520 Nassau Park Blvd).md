@@ -2,7 +2,7 @@
 title = "Princeton, NJ (520 Nassau Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "10/17/2001"

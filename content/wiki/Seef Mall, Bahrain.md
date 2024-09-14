@@ -2,7 +2,7 @@
 title = "Seef Mall, Bahrain"
 draft = false
 tags = ["Store List"]
-date = 05/15/2023
+date = "05/15/2023"
 
 [Article]
 startDate = "10/30/2021"

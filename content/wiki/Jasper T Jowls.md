@@ -2,7 +2,7 @@
 title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
-date = 06/04/2024
+date = "06/04/2024"
 
 [Article]
 startDate = ""

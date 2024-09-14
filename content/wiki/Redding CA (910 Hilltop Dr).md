@@ -2,7 +2,7 @@
 title = "Redding CA (910 Hilltop Dr)"
 draft = false
 tags = []
-date = 08/09/2024
+date = "08/09/2024"
 
 [Article]
 startDate = "12/-/2006"

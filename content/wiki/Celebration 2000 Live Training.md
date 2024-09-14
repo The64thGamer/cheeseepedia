@@ -2,7 +2,7 @@
 title = "Celebration 2000 Live Training"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 10/17/2022
+date = "10/17/2022"
 
 [Article]
 startDate = ""

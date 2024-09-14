@@ -2,7 +2,7 @@
 title = "Selma, TX (14565 IH 35 North)"
 draft = false
 tags = ["Store List"]
-date = 05/05/2023
+date = "05/05/2023"
 
 [Article]
 startDate = "12/13/2005"

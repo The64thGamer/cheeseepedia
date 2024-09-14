@@ -2,7 +2,7 @@
 title = "Kent, WA (25817 104th Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/14/2024
+date = "08/14/2024"
 
 [Article]
 startDate = "5/-/1998"

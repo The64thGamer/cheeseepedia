@@ -2,7 +2,7 @@
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
 tags = ["Merchandise"]
-date = 07/25/2024
+date = "07/25/2024"
 
 [Article]
 startDate = ""

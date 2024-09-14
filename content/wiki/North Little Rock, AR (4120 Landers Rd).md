@@ -2,7 +2,7 @@
 title = "North Little Rock, AR (4120 Landers Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/14/2024
+date = "06/14/2024"
 
 [Article]
 startDate = "10/27/1983"

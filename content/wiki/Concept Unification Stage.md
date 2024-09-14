@@ -2,7 +2,7 @@
 title = "Concept Unification Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 09/13/2024
+date = "09/13/2024"
 
 [Article]
 startDate = ""

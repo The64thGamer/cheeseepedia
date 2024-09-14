@@ -2,7 +2,7 @@
 title = "San Antonio, TX (8220 Windsor Cross)"
 draft = false
 tags = ["Store List"]
-date = 02/08/2024
+date = "02/08/2024"
 
 [Article]
 startDate = "-/-/1983"

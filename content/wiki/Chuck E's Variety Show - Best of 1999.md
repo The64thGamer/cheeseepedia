@@ -2,7 +2,7 @@
 title = "Chuck E's Variety Show - Best of 1999"
 draft = false
 tags = ["Live Shows"]
-date = 04/04/2024
+date = "04/04/2024"
 
 [Article]
 startDate = ""

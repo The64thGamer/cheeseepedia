@@ -2,7 +2,7 @@
 title = "Tulsa, OK (10123 E Admiral Place)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2023
+date = "07/31/2023"
 
 [Article]
 startDate = "-/-/1982"

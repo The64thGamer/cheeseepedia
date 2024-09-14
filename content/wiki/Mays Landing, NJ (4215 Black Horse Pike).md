@@ -2,7 +2,7 @@
 title = "Mays Landing, NJ (4215 Black Horse Pike)"
 draft = false
 tags = ["Store List"]
-date = 08/11/2024
+date = "08/11/2024"
 
 [Article]
 startDate = "12/27/2001"

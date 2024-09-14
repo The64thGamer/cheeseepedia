@@ -2,7 +2,7 @@
 title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/30/2024
+date = "08/30/2024"
 
 [Article]
 startDate = ""

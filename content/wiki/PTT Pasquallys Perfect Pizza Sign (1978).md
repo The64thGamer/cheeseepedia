@@ -2,7 +2,7 @@
 title = "PTT Pasquallys Perfect Pizza Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/18/2023
+date = "08/18/2023"
 
 [Article]
 startDate = ""

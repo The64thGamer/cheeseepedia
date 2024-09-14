@@ -2,7 +2,7 @@
 title = "Volo, IL (27582 Volo Village Rd)"
 draft = false
 tags = ["CreativeEngineering"]
-date = 08/06/2024
+date = "08/06/2024"
 
 [Article]
 startDate = "-/-/1960"

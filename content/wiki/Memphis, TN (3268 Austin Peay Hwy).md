@@ -2,7 +2,7 @@
 title = "Memphis, TN (3268 Austin Peay Hwy)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2023
+date = "07/31/2023"
 
 [Article]
 startDate = "8/7/1983"

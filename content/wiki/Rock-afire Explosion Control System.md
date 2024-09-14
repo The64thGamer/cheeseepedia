@@ -2,7 +2,7 @@
 title = "Rock-afire Explosion Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 12/06/2022
+date = "12/06/2022"
 
 [Article]
 startDate = ""

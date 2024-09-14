@@ -2,7 +2,7 @@
 title = "Elk Grove, CA (9161 E Stockton Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/02/2024
+date = "07/02/2024"
 
 [Article]
 startDate = "6/20/2012"

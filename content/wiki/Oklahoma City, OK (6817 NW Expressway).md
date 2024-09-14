@@ -2,7 +2,7 @@
 title = "Oklahoma City, OK (6817 NW Expressway)"
 draft = false
 tags = ["Store List"]
-date = 07/14/2024
+date = "07/14/2024"
 
 [Article]
 startDate = "1/27/1982"

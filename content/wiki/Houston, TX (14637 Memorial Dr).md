@@ -2,7 +2,7 @@
 title = "Houston, TX (14637 Memorial Dr)"
 draft = false
 tags = ["Store List"]
-date = 05/08/2024
+date = "05/08/2024"
 
 [Article]
 startDate = "8/26/1981"

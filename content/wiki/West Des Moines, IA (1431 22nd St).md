@@ -2,7 +2,7 @@
 title = "West Des Moines, IA (1431 22nd St)"
 draft = false
 tags = ["Store List"]
-date = 04/08/2024
+date = "04/08/2024"
 
 [Article]
 startDate = "10/13/1980"

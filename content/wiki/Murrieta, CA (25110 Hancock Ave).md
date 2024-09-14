@@ -2,7 +2,7 @@
 title = "Murrieta, CA (25110 Hancock Ave)"
 draft = false
 tags = ["Store List"]
-date = 12/07/2023
+date = "12/07/2023"
 
 [Article]
 startDate = "11/1/1993"

@@ -2,7 +2,7 @@
 title = "Concepcion, Chile"
 draft = false
 tags = ["Store List"]
-date = 07/07/2023
+date = "07/07/2023"
 
 [Article]
 startDate = "8/18/2012"

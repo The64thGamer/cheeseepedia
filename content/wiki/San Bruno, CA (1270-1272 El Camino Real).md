@@ -2,7 +2,7 @@
 title = "San Bruno, CA (1270-1272 El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = 04/05/2024
+date = "04/05/2024"
 
 [Article]
 startDate = "5/30/1994"

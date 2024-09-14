@@ -2,7 +2,7 @@
 title = "Gold Collection Tape 5 (CRAE SVHS)"
 draft = false
 tags = ["Showtapes"]
-date = 04/08/2022
+date = "04/08/2022"
 
 [Article]
 startDate = ""

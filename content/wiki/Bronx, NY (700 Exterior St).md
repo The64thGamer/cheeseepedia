@@ -2,7 +2,7 @@
 title = "Bronx, NY (700 Exterior St)"
 draft = false
 tags = ["Store List"]
-date = 04/05/2024
+date = "04/05/2024"
 
 [Article]
 startDate = "12/26/2013"

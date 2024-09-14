@@ -2,7 +2,7 @@
 title = "Honolulu, HI (1199 Dillingham Blvd)"
 draft = false
 tags = ["Store List"]
-date = 08/29/2024
+date = "08/29/2024"
 
 [Article]
 startDate = "8/29/2009"

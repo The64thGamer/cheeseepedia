@@ -2,7 +2,7 @@
 title = "Hours (Winchester Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 08/24/2023
+date = "08/24/2023"
 
 [Article]
 startDate = ""

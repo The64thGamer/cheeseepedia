@@ -2,7 +2,7 @@
 title = "Orange, CT (82 Boston Post Rd)"
 draft = false
 tags = ["Store List"]
-date = 04/27/2024
+date = "04/27/2024"
 
 [Article]
 startDate = "6/16/1992"

@@ -2,7 +2,7 @@
 title = "Lima, OH (2809 Elida Rd)"
 draft = false
 tags = ["Store List"]
-date = 07/06/2023
+date = "07/06/2023"
 
 [Article]
 startDate = "5/11/2009"

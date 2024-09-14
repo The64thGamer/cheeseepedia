@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 07/06/2024
+date = "07/06/2024"
 
 [Article]
 startDate = ""

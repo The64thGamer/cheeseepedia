@@ -2,7 +2,7 @@
 title = "Site Guidelines & Rules"
 draft = false
 tags = ["Welcome"]
-date = 08/17/2024
+date = "08/17/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Parkersburg, WV (3500 Murdoch Ave)"
 draft = false
 tags = ["Store List"]
-date = 09/18/2023
+date = "09/18/2023"
 
 [Article]
 startDate = "-/-/1983"

@@ -2,7 +2,7 @@
 title = "'Computer Baron' News Cast (March 11, 1981)"
 draft = false
 tags = []
-date = 05/13/2023
+date = "05/13/2023"
 
 [Article]
 startDate = ""

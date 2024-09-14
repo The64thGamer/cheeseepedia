@@ -2,7 +2,7 @@
 title = "Corona, CA (191 N McKinley St)"
 draft = false
 tags = ["Store List"]
-date = 08/09/2024
+date = "08/09/2024"
 
 [Article]
 startDate = "5/19/1992"

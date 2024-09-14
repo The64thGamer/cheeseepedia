@@ -2,7 +2,7 @@
 title = "Concept Unification Installation Training Tape"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 07/29/2024
+date = "07/29/2024"
 
 [Article]
 startDate = ""

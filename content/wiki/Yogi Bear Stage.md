@@ -2,7 +2,7 @@
 title = "Yogi Bear Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 12/31/2023
+date = "12/31/2023"
 
 [Article]
 startDate = ""

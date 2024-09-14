@@ -2,7 +2,7 @@
 title = "Chuck Chalkware Figure- Tux (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = 07/13/2023
+date = "07/13/2023"
 
 [Article]
 startDate = ""

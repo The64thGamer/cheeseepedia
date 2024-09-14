@@ -2,7 +2,7 @@
 title = "Rockwall, TX (855 East Interstate 30)"
 draft = false
 tags = ["Store List"]
-date = 05/04/2024
+date = "05/04/2024"
 
 [Article]
 startDate = "8/-/2001"

@@ -2,7 +2,7 @@
 title = "Waldorf, MD (2928 Festival Way)"
 draft = false
 tags = ["Store List"]
-date = 06/04/2024
+date = "06/04/2024"
 
 [Article]
 startDate = ""

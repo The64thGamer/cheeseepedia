@@ -2,7 +2,7 @@
 title = "Dothan, AL (1001 Commons Dr)"
 draft = false
 tags = ["Store List"]
-date = 06/24/2024
+date = "06/24/2024"
 
 [Article]
 startDate = "8/19/2004"

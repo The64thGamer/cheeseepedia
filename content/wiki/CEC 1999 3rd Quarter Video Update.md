@@ -2,7 +2,7 @@
 title = "CEC 1999 3rd Quarter Video Update"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 10/29/2023
+date = "10/29/2023"
 
 [Article]
 startDate = ""

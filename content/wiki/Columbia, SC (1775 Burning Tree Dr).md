@@ -2,7 +2,7 @@
 title = "Columbia, SC (1775 Burning Tree Dr)"
 draft = false
 tags = ["Store List"]
-date = 02/11/2024
+date = "02/11/2024"
 
 [Article]
 startDate = "6/28/1983"

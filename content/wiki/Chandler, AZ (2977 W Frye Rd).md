@@ -2,7 +2,7 @@
 title = "Chandler, AZ (2977 W Frye Rd)"
 draft = false
 tags = []
-date = 08/02/2024
+date = "08/02/2024"
 
 [Article]
 startDate = "4/-/2015"

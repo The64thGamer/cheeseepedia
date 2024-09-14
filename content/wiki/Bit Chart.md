@@ -2,7 +2,7 @@
 title = "Bit Chart"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 06/22/2024
+date = "06/22/2024"
 
 [Article]
 startDate = ""

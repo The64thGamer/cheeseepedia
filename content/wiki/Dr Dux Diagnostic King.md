@@ -2,7 +2,7 @@
 title = "Dr. Dux Diagnostic King"
 draft = false
 tags = ["Showtapes"]
-date = 01/14/2024
+date = "01/14/2024"
 
 [Article]
 startDate = ""

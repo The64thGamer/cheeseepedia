@@ -2,7 +2,7 @@
 title = "Atari Family Game Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 05/20/2024
+date = "05/20/2024"
 
 [Article]
 startDate = ""

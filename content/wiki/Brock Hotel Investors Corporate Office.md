@@ -2,7 +2,7 @@
 title = "Brock Hotel Investors Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 03/03/2022
+date = "03/03/2022"
 
 [Article]
 startDate = ""

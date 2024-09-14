@@ -2,7 +2,7 @@
 title = "2023 Northridge Grand Reopening Party"
 draft = false
 tags = ["Events"]
-date = 07/20/2024
+date = "07/20/2024"
 
 [Article]
 startDate = ""

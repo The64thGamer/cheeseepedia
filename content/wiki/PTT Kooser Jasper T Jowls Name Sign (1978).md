@@ -2,7 +2,7 @@
 title = "PTT Kooser Jasper T. Jowls Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 08/25/2023
+date = "08/25/2023"
 
 [Article]
 startDate = ""

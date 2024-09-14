@@ -2,7 +2,7 @@
 title = "Sente Technologies Milpitas, CA R&D Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 03/22/2023
+date = "03/22/2023"
 
 [Article]
 startDate = ""

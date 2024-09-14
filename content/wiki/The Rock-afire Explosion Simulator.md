@@ -2,7 +2,7 @@
 title = "The Rock-afire Explosion Simulator"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 11/02/2023
+date = "11/02/2023"
 
 [Article]
 startDate = ""

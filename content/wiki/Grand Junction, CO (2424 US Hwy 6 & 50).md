@@ -2,7 +2,7 @@
 title = "Grand Junction, CO (2424 US Hwy 6 & 50)"
 draft = false
 tags = ["Store List"]
-date = 12/18/2023
+date = "12/18/2023"
 
 [Article]
 startDate = "8/27/2003"

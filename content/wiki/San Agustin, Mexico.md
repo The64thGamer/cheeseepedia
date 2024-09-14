@@ -2,7 +2,7 @@
 title = "San Agustin, Mexico"
 draft = false
 tags = ["Store List"]
-date = 07/14/2024
+date = "07/14/2024"
 
 [Article]
 startDate = "3/6/2012"

@@ -2,7 +2,7 @@
 title = "Jingle Bell Jamboree 1979 Show"
 draft = false
 tags = ["Showtapes"]
-date = 06/15/2022
+date = "06/15/2022"
 
 [Article]
 startDate = ""

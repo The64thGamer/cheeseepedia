@@ -2,7 +2,7 @@
 title = "Lewisville, TX (1960 S Stemmons Fwy)"
 draft = false
 tags = ["Store List"]
-date = 09/22/2023
+date = "09/22/2023"
 
 [Article]
 startDate = "10/1/2001"

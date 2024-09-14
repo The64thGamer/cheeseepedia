@@ -2,7 +2,7 @@
 title = "Newark, CA (39839 Mowry School Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/25/2023
+date = "09/25/2023"
 
 [Article]
 startDate = "8/5/1997"

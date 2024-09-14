@@ -2,7 +2,7 @@
 title = "Syracuse, NY (3023 Erie Blvd)"
 draft = false
 tags = ["Store List"]
-date = 12/26/2023
+date = "12/26/2023"
 
 [Article]
 startDate = "12/27/2002"

@@ -2,7 +2,7 @@
 title = "2023 CEC Month of Gratitude"
 draft = false
 tags = ["Events"]
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = ""

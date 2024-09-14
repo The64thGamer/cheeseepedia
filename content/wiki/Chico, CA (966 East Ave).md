@@ -2,7 +2,7 @@
 title = "Chico, CA (966 East Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/27/2024
+date = "07/27/2024"
 
 [Article]
 startDate = "7/-/1982"

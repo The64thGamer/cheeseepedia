@@ -2,7 +2,7 @@
 title = "NewsWatch 6 'Someplace Different' (1981)"
 draft = false
 tags = []
-date = 02/04/2023
+date = "02/04/2023"
 
 [Article]
 startDate = ""

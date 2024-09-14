@@ -2,7 +2,7 @@
 title = "Fantasy Forest Victorville, CA Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 02/16/2024
+date = "02/16/2024"
 
 [Article]
 startDate = ""

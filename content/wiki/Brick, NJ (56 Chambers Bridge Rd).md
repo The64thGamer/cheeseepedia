@@ -2,7 +2,7 @@
 title = "Brick, NJ (56 Chambers Bridge Rd)"
 draft = false
 tags = ["Store List"]
-date = 08/07/2024
+date = "08/07/2024"
 
 [Article]
 startDate = "1/19/1993"

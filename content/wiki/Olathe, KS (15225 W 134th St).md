@@ -2,7 +2,7 @@
 title = "Olathe, KS (15225 W 134th St)"
 draft = false
 tags = ["Store List"]
-date = 04/05/2024
+date = "04/05/2024"
 
 [Article]
 startDate = "5/3/2002"

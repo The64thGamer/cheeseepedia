@@ -2,7 +2,7 @@
 title = "Mt Juliet, TN (60 Belinda Pkwy)"
 draft = false
 tags = []
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "12/15/2014"

@@ -2,7 +2,7 @@
 title = "Johnstown, PA (1523 Scalp Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/08/2024
+date = "08/08/2024"
 
 [Article]
 startDate = "-/-/1982"

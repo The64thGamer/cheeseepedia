@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese’s Nerf Stress Foot"
 draft = false
 tags = ["Merchandise"]
-date = 12/07/2022
+date = "12/07/2022"
 
 [Article]
 startDate = "-/-/2003"

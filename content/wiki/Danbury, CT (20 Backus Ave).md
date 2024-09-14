@@ -2,7 +2,7 @@
 title = "Danbury, CT (20 Backus Ave)"
 draft = false
 tags = ["Store List"]
-date = 08/13/2023
+date = "08/13/2023"
 
 [Article]
 startDate = "3/1/2010"

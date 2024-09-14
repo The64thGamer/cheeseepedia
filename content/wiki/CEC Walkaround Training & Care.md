@@ -2,7 +2,7 @@
 title = "CEC Walkaround Training & Care"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 01/12/2022
+date = "01/12/2022"
 
 [Article]
 startDate = "10/12/1988"

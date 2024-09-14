@@ -2,7 +2,7 @@
 title = "North Dartmouth, MA (412-418 State Rd)"
 draft = false
 tags = ["Store List"]
-date = 09/05/2024
+date = "09/05/2024"
 
 [Article]
 startDate = "12/5/1994"

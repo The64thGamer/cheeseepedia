@@ -2,7 +2,7 @@
 title = "Rockville, MD (5270 Randolph Rd)"
 draft = false
 tags = ["Store List"]
-date = 11/01/2023
+date = "11/01/2023"
 
 [Article]
 startDate = "8/20/2002"

@@ -2,7 +2,7 @@
 title = "New Orleans, LA (3701 General DeGaulle Dr)"
 draft = false
 tags = ["Store List"]
-date = 10/27/2023
+date = "10/27/2023"
 
 [Article]
 startDate = "2/23/1981"

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Springfield Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "7/19/2024"

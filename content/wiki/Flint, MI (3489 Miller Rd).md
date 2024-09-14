@@ -2,7 +2,7 @@
 title = "Flint, MI (3489 Miller Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/26/2024
+date = "05/26/2024"
 
 [Article]
 startDate = "12/3/1982"

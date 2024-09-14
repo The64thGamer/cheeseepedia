@@ -2,7 +2,7 @@
 title = "Jungle Jim's Moonshine & Rocks"
 draft = false
 tags = ["JungleJims"]
-date = 05/16/2023
+date = "05/16/2023"
 
 [Article]
 startDate = ""

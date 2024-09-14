@@ -2,7 +2,7 @@
 title = "Waterbury, CT (650 Wolcott St)"
 draft = false
 tags = ["Store List"]
-date = 08/28/2023
+date = "08/28/2023"
 
 [Article]
 startDate = "9/29/1992"

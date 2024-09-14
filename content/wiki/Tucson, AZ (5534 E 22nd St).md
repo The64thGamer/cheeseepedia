@@ -2,7 +2,7 @@
 title = "Tucson, AZ (5534 E 22nd St)"
 draft = false
 tags = ["Store List"]
-date = 10/03/2023
+date = "10/03/2023"
 
 [Article]
 startDate = "7/15/1980"

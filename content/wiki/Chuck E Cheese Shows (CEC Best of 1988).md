@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Shows (CEC Best of 1988)"
 draft = false
 tags = ["Showtapes"]
-date = 08/26/2024
+date = "08/26/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Santa On Stage Show 1983 (Event)"
 draft = false
 tags = ["Events"]
-date = 12/15/2023
+date = "12/15/2023"
 
 [Article]
 startDate = ""

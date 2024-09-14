@@ -2,7 +2,7 @@
 title = "Conflict Resolution April 2010"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 02/20/2023
+date = "02/20/2023"
 
 [Article]
 startDate = "-/-/2010"

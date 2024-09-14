@@ -2,7 +2,7 @@
 title = "Pembroke Pines, FL (8515 Pines Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/23/2024
+date = "07/23/2024"
 
 [Article]
 startDate = "9/11/1991"

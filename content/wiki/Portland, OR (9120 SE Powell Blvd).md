@@ -2,7 +2,7 @@
 title = "Portland, OR (9120 SE Powell Blvd)"
 draft = false
 tags = ["Store List"]
-date = 06/01/2024
+date = "06/01/2024"
 
 [Article]
 startDate = "11/19/1982"

@@ -2,7 +2,7 @@
 title = "Houston, TX (5535 Weslayan St)"
 draft = false
 tags = ["Store List"]
-date = 02/09/2024
+date = "02/09/2024"
 
 [Article]
 startDate = "10/6/1982"

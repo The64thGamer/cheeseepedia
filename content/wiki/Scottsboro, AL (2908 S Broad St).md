@@ -2,7 +2,7 @@
 title = "Scottsboro, AL (2908 S Broad St)"
 draft = false
 tags = []
-date = 11/07/2023
+date = "11/07/2023"
 
 [Article]
 startDate = "-/-/1990"

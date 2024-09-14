@@ -2,7 +2,7 @@
 title = "Fatz Showtape (Uncle Klunk Install 2 Stg)"
 draft = false
 tags = ["Showtapes"]
-date = 08/07/2023
+date = "08/07/2023"
 
 [Article]
 startDate = ""

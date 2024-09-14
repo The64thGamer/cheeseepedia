@@ -2,7 +2,7 @@
 title = "Tucson, AZ (8616 E Broadway Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/03/2024
+date = "07/03/2024"
 
 [Article]
 startDate = "-/-/1981"

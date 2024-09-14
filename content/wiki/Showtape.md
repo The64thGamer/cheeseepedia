@@ -2,7 +2,7 @@
 title = "Showtape"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 05/27/2022
+date = "05/27/2022"
 
 [Article]
 startDate = ""

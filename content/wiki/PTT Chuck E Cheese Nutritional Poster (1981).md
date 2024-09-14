@@ -2,7 +2,7 @@
 title = "PTT Chuck E. Cheese Nutritional Poster (1981)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 02/07/2024
+date = "02/07/2024"
 
 [Article]
 startDate = ""

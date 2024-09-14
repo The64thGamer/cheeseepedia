@@ -2,7 +2,7 @@
 title = "Marietta, GA (4340 Roswell Rd)"
 draft = false
 tags = ["Store List"]
-date = 06/10/2024
+date = "06/10/2024"
 
 [Article]
 startDate = "12/16/1981"

@@ -2,7 +2,7 @@
 title = "Overland Park, KS (10510 Metcalf Lane)"
 draft = false
 tags = ["Store List"]
-date = 02/06/2024
+date = "02/06/2024"
 
 [Article]
 startDate = "9/29/1980"

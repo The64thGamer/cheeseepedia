@@ -2,7 +2,7 @@
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 07/18/2023
+date = "07/18/2023"
 
 [Article]
 startDate = ""

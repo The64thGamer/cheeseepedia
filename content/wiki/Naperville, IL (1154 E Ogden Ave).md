@@ -2,7 +2,7 @@
 title = "Naperville, IL (1154 E Ogden Ave)"
 draft = false
 tags = ["Store List"]
-date = 06/04/2024
+date = "06/04/2024"
 
 [Article]
 startDate = "4/4/1983"

@@ -2,7 +2,7 @@
 title = "Mesa, AZ (7012 E Hampton Ave)"
 draft = false
 tags = []
-date = 10/28/2023
+date = "10/28/2023"
 
 [Article]
 startDate = ""

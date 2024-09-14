@@ -2,7 +2,7 @@
 title = "Santa Ana, CA"
 draft = false
 tags = ["Store List"]
-date = 10/04/2023
+date = "10/04/2023"
 
 [Article]
 startDate = ""

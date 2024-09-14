@@ -2,7 +2,7 @@
 title = "St. Louis, MO (2805 Target Dr)"
 draft = false
 tags = ["Store List"]
-date = 10/09/2023
+date = "10/09/2023"
 
 [Article]
 startDate = ""

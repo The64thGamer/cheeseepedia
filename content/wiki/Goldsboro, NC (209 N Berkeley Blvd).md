@@ -2,7 +2,7 @@
 title = "Goldsboro, NC (209 N Berkeley Blvd)"
 draft = false
 tags = ["Store List"]
-date = 07/18/2024
+date = "07/18/2024"
 
 [Article]
 startDate = "9/19/2003"

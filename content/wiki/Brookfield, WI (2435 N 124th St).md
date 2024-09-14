@@ -2,7 +2,7 @@
 title = "Brookfield, WI (2435 N 124th St)"
 draft = false
 tags = ["Store List"]
-date = 08/12/2024
+date = "08/12/2024"
 
 [Article]
 startDate = "8/-/1982"

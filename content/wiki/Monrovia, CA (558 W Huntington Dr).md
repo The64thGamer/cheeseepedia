@@ -2,7 +2,7 @@
 title = "Monrovia, CA (558 W Huntington Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "-/-/2001"

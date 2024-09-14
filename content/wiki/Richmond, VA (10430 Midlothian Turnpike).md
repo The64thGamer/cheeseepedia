@@ -2,7 +2,7 @@
 title = "Richmond, VA (10430 Midlothian Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 08/05/2024
+date = "08/05/2024"
 
 [Article]
 startDate = "5/1/1990"

@@ -2,7 +2,7 @@
 title = "Harlingen, TX (2815 W Expressway 83)"
 draft = false
 tags = ["Store List"]
-date = 04/23/2024
+date = "04/23/2024"
 
 [Article]
 startDate = "9/10/2012"

@@ -2,7 +2,7 @@
 title = "Gold Collection Tape 4 (CRAE Reel)"
 draft = false
 tags = ["Showtapes"]
-date = 09/12/2023
+date = "09/12/2023"
 
 [Article]
 startDate = ""

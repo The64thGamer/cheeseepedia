@@ -2,7 +2,7 @@
 title = "Springfield, MO (1773 S Glenstone Ave)"
 draft = false
 tags = ["Store List"]
-date = 11/14/2023
+date = "11/14/2023"
 
 [Article]
 startDate = "4/20/1982"

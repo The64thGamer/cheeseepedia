@@ -2,7 +2,7 @@
 title = "Mountain Bike (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 08/30/2023
+date = "08/30/2023"
 
 [Article]
 startDate = "-/-/1994"

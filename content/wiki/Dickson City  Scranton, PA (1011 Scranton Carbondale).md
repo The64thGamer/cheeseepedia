@@ -2,7 +2,7 @@
 title = "Dickson City / Scranton, PA (1011 Scranton Carbondale)"
 draft = false
 tags = ["Store List"]
-date = 01/24/2023
+date = "01/24/2023"
 
 [Article]
 startDate = "8/-/1983"

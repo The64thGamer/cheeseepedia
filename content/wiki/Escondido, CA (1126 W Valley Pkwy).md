@@ -2,7 +2,7 @@
 title = "Escondido, CA (1126 W Valley Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 07/25/2023
+date = "07/25/2023"
 
 [Article]
 startDate = "1/3/2007"

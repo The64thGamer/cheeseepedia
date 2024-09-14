@@ -2,7 +2,7 @@
 title = "Paducah, KY (5141 Hinkleville Rd)"
 draft = false
 tags = ["Store List"]
-date = 01/01/2024
+date = "01/01/2024"
 
 [Article]
 startDate = "12/9/1982"

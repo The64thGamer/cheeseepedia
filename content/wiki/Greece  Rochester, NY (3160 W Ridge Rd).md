@@ -2,7 +2,7 @@
 title = "Greece / Rochester, NY (3160 W Ridge Rd)"
 draft = false
 tags = ["Store List"]
-date = 05/08/2024
+date = "05/08/2024"
 
 [Article]
 startDate = "3/15/1983"

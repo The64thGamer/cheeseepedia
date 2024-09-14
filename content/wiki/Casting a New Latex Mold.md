@@ -2,7 +2,7 @@
 title = "Casting a New Latex Mold"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 05/19/2023
+date = "05/19/2023"
 
 [Article]
 startDate = ""

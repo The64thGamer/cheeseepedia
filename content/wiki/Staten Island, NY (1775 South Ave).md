@@ -2,7 +2,7 @@
 title = "Staten Island, NY (1775 South Ave)"
 draft = false
 tags = ["Store List"]
-date = 07/30/2024
+date = "07/30/2024"
 
 [Article]
 startDate = "4/30/1993"

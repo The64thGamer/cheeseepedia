@@ -2,7 +2,7 @@
 title = "Houston, TX (6760 Antoine Dr)"
 draft = false
 tags = ["Store List"]
-date = 09/07/2024
+date = "09/07/2024"
 
 [Article]
 startDate = "7/15/1981"

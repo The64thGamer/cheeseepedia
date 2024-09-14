@@ -2,7 +2,7 @@
 title = "Rick Rat Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 05/20/2024
+date = "05/20/2024"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "1998 Chuck E. Pop Art (Quad)"
 draft = false
 tags = []
-date = 01/10/2023
+date = "01/10/2023"
 
 [Article]
 startDate = "-/-/1998"

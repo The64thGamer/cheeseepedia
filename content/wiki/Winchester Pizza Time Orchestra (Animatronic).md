@@ -2,7 +2,7 @@
 title = "Winchester Pizza Time Orchestra (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 08/25/2024
+date = "08/25/2024"
 
 [Article]
 startDate = ""

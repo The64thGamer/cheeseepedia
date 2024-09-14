@@ -2,7 +2,7 @@
 title = "Yuma, AZ (305 W Catalina Dr)"
 draft = false
 tags = ["Store List"]
-date = 07/31/2024
+date = "07/31/2024"
 
 [Article]
 startDate = "1/30/1984"

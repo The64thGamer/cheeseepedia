@@ -2,7 +2,7 @@
 title = "Grand Chute / Appleton, WI (4671 Michales Dr)"
 draft = false
 tags = ["Store List"]
-date = 09/07/2023
+date = "09/07/2023"
 
 [Article]
 startDate = "3/19/1998"

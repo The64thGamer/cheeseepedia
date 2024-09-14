@@ -2,7 +2,7 @@
 title = "NOTALOG"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 08/02/2023
+date = "08/02/2023"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Winter Park, FL (1997 Aloma Ave)"
 draft = false
 tags = ["Store List"]
-date = 03/15/2024
+date = "03/15/2024"
 
 [Article]
 startDate = "1/26/1981"
