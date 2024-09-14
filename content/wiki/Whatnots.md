@@ -2,9 +2,11 @@
 title = "Whatnots"
 draft = false
 tags = ["Characters"]
-date = 2024-05-23T21:17:17Z
+date = 05/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Crazy Muzzarino"]
 gallery = ["Chuck_E_Cheese_Schoolmates.png|thumb|300px|right|Four whatnot schoomates, singing 'Speak Up, Stop Bullying'."]
 +++

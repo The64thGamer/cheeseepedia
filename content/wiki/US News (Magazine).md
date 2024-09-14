@@ -2,9 +2,11 @@
 title = "U.S. News (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-18T16:03:35Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = []
 +++

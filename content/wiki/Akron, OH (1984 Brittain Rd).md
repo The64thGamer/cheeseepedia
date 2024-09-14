@@ -2,9 +2,11 @@
 title = "Akron, OH (1984 Brittain Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-04T23:26:42Z
+date = 08/04/2024
 
 [Article]
+startDate = "5/12/1982"
+endDate = ""
 pageThumbnailFile = "Akron.jpg|Akron's Exterior in the Early-Mid 80s."
 contributors = ["SuperCreamPiper2008","JND"]
 gallery = []

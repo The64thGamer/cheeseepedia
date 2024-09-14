@@ -2,9 +2,11 @@
 title = "Smitty's Super Service Station Show"
 draft = false
 tags = ["Showtapes"]
-date = 2021-12-16T17:19:26Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

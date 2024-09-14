@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's International Show 3 2020"
 draft = false
 tags = ["Showtapes"]
-date = 2024-04-03T12:04:00Z
+date = 04/03/2024
 
 [Article]
+startDate = "9/-/2020"
+endDate = ""
 contributors = ["Documentor","Cy's Junk at School"]
 gallery = []
 +++

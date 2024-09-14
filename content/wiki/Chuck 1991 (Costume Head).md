@@ -2,9 +2,11 @@
 title = "Chuck 1991 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-02-01T20:55:54Z
+date = 02/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","ChuckfeldStan"]
 gallery = ["Showbizchuck91.jpg|thumb|1991 Showbiz Chuck walkaround head"]
 +++

@@ -2,9 +2,11 @@
 title = "Tulsa, OK (7108 S Memorial Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-04T13:45:32Z
+date = 12/04/2023
 
 [Article]
+startDate = "9/15/1980"
+endDate = ""
 pageThumbnailFile = "desc=Exterior in 2019 |image=Chcuk e chhese tulsa 2.0.jpg"
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Singing Flowers (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-12-17T02:18:39Z
+date = 12/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Helly","PTT1977fan","RedaCEC"]
 gallery = []
 +++

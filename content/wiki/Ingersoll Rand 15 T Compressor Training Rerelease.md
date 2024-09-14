@@ -2,9 +2,11 @@
 title = "Ingersoll Rand 15 T Compressor Training Rerelease"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2024-03-01T18:54:45Z
+date = 03/01/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","SuperCreamPiper2008"]
 gallery = []
 +++

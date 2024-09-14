@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre Hollister, CA Games Manufacturing Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-08-23T03:57:00Z
+date = 08/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

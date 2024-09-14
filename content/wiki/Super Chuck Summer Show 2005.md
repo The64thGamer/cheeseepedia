@@ -2,9 +2,11 @@
 title = "Super Chuck Summer Show 2005"
 draft = false
 tags = ["Live Shows"]
-date = 2023-08-07T20:50:11Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

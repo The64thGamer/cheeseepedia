@@ -2,9 +2,11 @@
 title = "Evansville, IN (559 N Green River Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-27T16:28:04Z
+date = 10/27/2023
 
 [Article]
+startDate = "12/21/1982"
+endDate = ""
 pageThumbnailFile = "EvansvilleINExterior2.0.jpg|The store's exterior as of today. (PC: Adam Kunkel)"
 contributors = ["ChuckECool","ThatBoiCydalan","Midwestretail","Tux Chuck"]
 gallery = []

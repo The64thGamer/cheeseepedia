@@ -2,9 +2,11 @@
 title = "Concept Unification"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-08-14T16:02:58Z
+date = 08/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445","ChuckEPediaIsTheBest!","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","Rexburg090","187.150.43.103","The 64th Gamer","199.197.88.236","BigCtheDataFinder","Stripes","Documentor"]
 gallery = ["CUMAN.png|thumb|370x370px"]
 +++

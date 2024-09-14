@@ -2,9 +2,11 @@
 title = "Bayamon, Puerto Rico (Rexville Town Center)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-12T05:46:36Z
+date = 06/12/2024
 
 [Article]
+startDate = "6/-/2003"
+endDate = ""
 contributors = ["Mozilla FireFox 1967"]
 gallery = ["Bayamon1.jpg|thumb|Bayamón's exterior taken on March 26, 2023"]
 +++

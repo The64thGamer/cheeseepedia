@@ -2,9 +2,11 @@
 title = "Honolulu, HI (1199 Dillingham Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-29T01:23:54Z
+date = 08/29/2024
 
 [Article]
+startDate = "8/29/2009"
+endDate = ""
 pageThumbnailFile = "desc=Honolulu as of today|image=PIC 1370.jpeg"
 contributors = ["JND","CECswag2009"]
 gallery = []

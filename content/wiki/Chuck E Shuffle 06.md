@@ -2,9 +2,11 @@
 title = "Chuck E. Shuffle 06"
 draft = false
 tags = ["Live Shows"]
-date = 2023-09-06T06:45:21Z
+date = 09/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","Dame","The 64th Gamer"]
 gallery = []
 +++

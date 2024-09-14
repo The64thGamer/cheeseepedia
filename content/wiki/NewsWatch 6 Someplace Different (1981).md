@@ -2,9 +2,11 @@
 title = "NewsWatch 6 'Someplace Different' (1981)"
 draft = false
 tags = []
-date = 2023-02-04T01:52:39Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

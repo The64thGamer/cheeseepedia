@@ -2,9 +2,11 @@
 title = "SPP April 1990 Show"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 2023-09-16T15:30:14Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

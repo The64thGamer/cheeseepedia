@@ -2,9 +2,11 @@
 title = "Barboursville, WV (5 Cracker Barrel Dr)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 2023-11-23T18:48:52Z
+date = 11/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Store Exterior, June 14, 2022|image=Billy Bob's Wonderland 2022-06-14.jpg"
 contributors = ["Saan1ty","Rexburg090","Stripes"]
 gallery = []

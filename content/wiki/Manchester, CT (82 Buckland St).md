@@ -2,9 +2,11 @@
 title = "Manchester, CT (82 Buckland St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-14T03:29:29Z
+date = 07/14/2024
 
 [Article]
+startDate = "7/12/1993"
+endDate = ""
 pageThumbnailFile = "Manchester CT 2.0 Exterior.jpg|Exterior, November 2023 (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FC:D100:C1F2:3ADD:2F05:25C2","216.125.34.66","Harchambeault2026","Cheeseclassic","Jaxonia"]
 gallery = []

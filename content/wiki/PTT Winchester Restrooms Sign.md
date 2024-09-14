@@ -2,9 +2,11 @@
 title = "PTT Winchester Restrooms Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-06T11:12:52Z
+date = 08/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

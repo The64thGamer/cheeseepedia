@@ -2,9 +2,11 @@
 title = "Lewisville, TX (1960 S Stemmons Fwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-22T02:58:06Z
+date = 09/22/2023
 
 [Article]
+startDate = "10/1/2001"
+endDate = "2/17/2008"
 pageThumbnailFile = "TJ Hartfords Sports Grille Thumb.png|Store Exterior"
 contributors = ["The 64th Gamer","SinStar"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Superior, CO (305 Marshall Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-24T14:43:30Z
+date = 12/24/2023
 
 [Article]
+startDate = "12/23/2003"
+endDate = ""
 pageThumbnailFile = "Superior 2.0 Exterior .jpg|Superior's Exterior (PC: Google Maps)"
 contributors = ["73.95.167.229","Cheeseclassic"]
 gallery = []

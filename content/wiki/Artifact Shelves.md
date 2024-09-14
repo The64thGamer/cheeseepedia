@@ -2,9 +2,11 @@
 title = "Artifact Shelves"
 draft = false
 tags = []
-date = 2023-07-15T01:25:17Z
+date = 07/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Irving TX Remodel-005.jpg|[[Artifact Shelves]] and updated showroom booths with planters."
 contributors = ["The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","Ceclife13"]
 gallery = []

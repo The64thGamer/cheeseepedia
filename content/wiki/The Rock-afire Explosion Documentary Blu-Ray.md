@@ -2,9 +2,11 @@
 title = "The Rock-afire Explosion Documentary Blu-Ray"
 draft = false
 tags = ["Merchandise"]
-date = 2024-07-31T05:28:01Z
+date = 07/31/2024
 
 [Article]
+startDate = "2/1/2024"
+endDate = ""
 contributors = ["The 64th Gamer","Chuckatronics"]
 gallery = [":Discqualitycontentsraebluraydoc.png"]
 +++

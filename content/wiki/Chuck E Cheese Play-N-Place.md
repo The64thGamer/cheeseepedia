@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Play-N-Place"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-08-27T19:43:35Z
+date = 08/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Phoenixext.jpg|Phoenix, AZ's Play-N-Place."
 contributors = ["JamesLemony","BurgersNuggs445","CEC Tinley"]
 gallery = []

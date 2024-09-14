@@ -2,9 +2,11 @@
 title = "Jungle Jim's Dolli (Dolli Dimples Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-08-27T22:48:15Z
+date = 08/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Jungle Jim's Dolli|image=Dolli.png"
 contributors = ["Documentor","The 64th Gamer","TrimSafe6859"]
 gallery = []

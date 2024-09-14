@@ -2,9 +2,11 @@
 title = "West Allis, WI (2990 South 108th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-10T18:17:14Z
+date = 05/10/2024
 
 [Article]
+startDate = "12/-/1981"
+endDate = ""
 pageThumbnailFile = "West Allis 2.0 Exterior.jpg|Exterior, June 2023 (PC: Donovan Waege)"
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","CEC Tinley","2600:4040:5A0E:D900:E54C:6C9A:5291:7CF1","Cheeseclassic","Estsproduction","WindowsDylan"]
 gallery = []

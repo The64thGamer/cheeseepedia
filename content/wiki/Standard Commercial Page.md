@@ -2,9 +2,11 @@
 title = "Standard: Commercial Page"
 draft = false
 tags = []
-date = 2023-07-06T04:21:42Z
+date = 07/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

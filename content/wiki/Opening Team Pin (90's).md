@@ -2,9 +2,11 @@
 title = "Opening Team Pin (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-04-21T00:20:31Z
+date = 04/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Newhartfordnypin2.png|New Hartford Pin"
 contributors = ["The 64th Gamer"]
 gallery = []

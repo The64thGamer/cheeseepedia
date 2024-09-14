@@ -2,9 +2,11 @@
 title = "Carson, CA (20700 S Avalon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-02T05:29:34Z
+date = 08/02/2024
 
 [Article]
+startDate = "-/-/1983"
+endDate = ""
 contributors = ["CorrectorMan","2600:4040:AD76:D00:CCCB:85BF:4F98:EB5","StudioA","JND"]
 gallery = ["Low qual photo of old carson.jpg|thumb|Low quality screenshot of Carson in 2007. (PC: Google Maps)","New carson.jpg|thumb|The new Carson store. (PC: Google Maps)"]
 +++

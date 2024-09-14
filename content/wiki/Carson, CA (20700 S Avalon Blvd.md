@@ -2,9 +2,11 @@
 title = "Carson, CA (20700 S Avalon Blvd"
 draft = false
 tags = []
-date = 2023-06-23T04:36:54Z
+date = 06/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CorrectorMan"]
 gallery = []
 +++

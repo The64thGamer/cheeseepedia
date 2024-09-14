@@ -2,9 +2,11 @@
 title = "CEC Employee Oval Name Tag - Engraved (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-04-27T22:35:46Z
+date = 04/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Censoredovalnametag1.png|Name Tag"
 contributors = ["The 64th Gamer"]
 gallery = []

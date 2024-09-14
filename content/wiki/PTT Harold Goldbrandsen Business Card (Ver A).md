@@ -2,9 +2,11 @@
 title = "PTT Harold Goldbrandsen Business Card (Ver. A)"
 draft = false
 tags = ["Corporate Documents"]
-date = 2023-04-21T16:57:33Z
+date = 04/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Haroldcardvera.png|Business Card"
 contributors = ["The 64th Gamer"]
 gallery = []

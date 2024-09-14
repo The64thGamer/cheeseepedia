@@ -2,9 +2,11 @@
 title = "Skytubes"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-11-06T21:06:18Z
+date = 11/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Skytube Pic.png|A typical Phase 3 style SkyTubes structure"
 contributors = ["BurgersNuggs445","EagleScout610","Pizza nostalgia","The 64th Gamer","CECBowlingGreen","Chouts2","CorrectorMan","ChuckfeldStan","Rexburg090","Snowbobsuperboi","Pasquallytheplumber","SuperCreamPiper2008"]
 gallery = ["Chuck E.'s ClubHouse.jpg|thumb|Chuck E.'s ClubHouse in the Sumter, SC location"]

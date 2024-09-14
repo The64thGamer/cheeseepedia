@@ -2,9 +2,11 @@
 title = "Baseball (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-18T16:39:58Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Nostalgia Cow"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Gulfport, MS (320 Courthouse Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-26T17:56:13Z
+date = 03/26/2024
 
 [Article]
+startDate = "11/14/1983"
+endDate = "6/30/1996"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

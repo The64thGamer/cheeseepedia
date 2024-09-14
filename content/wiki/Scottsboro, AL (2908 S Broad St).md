@@ -2,9 +2,11 @@
 title = "Scottsboro, AL (2908 S Broad St)"
 draft = false
 tags = []
-date = 2023-11-07T23:29:22Z
+date = 11/07/2023
 
 [Article]
+startDate = "-/-/1990"
+endDate = ""
 pageThumbnailFile = "Pizza Party USA Center Stage.png|Pizza Party USA Center Stage"
 contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
 gallery = []

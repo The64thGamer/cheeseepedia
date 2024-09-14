@@ -2,9 +2,11 @@
 title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-30T00:51:51Z
+date = 08/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ExteriorJune2024.png|Exterior (June 2024)"
 contributors = ["BigCtheDataFinder","Rexburg090","ChuckECool","SuperCreamPiper2008","71.30.196.66","The 64th Gamer","BurgersNuggs445","71.31.183.205","ShowbizMidwest","Saan1ty","67.197.52.250","ThatBoiCydalan","Caydenpedia","CoolerDude","Animatronicbrainrot","Cy's Junk at School","Documentor","Livelycheese","Sonichacker","CECMentor","Chuckepoggers69","AstridMascotFan2005","Cecanddisneyfan2004","Cheeseclassic","Appatheris","CEC1988","Jaxonia","BenTrainFan2000"]
 gallery = ["AdventureRestaurantCorpLogo.png|thumb|272x272px|Adventure Restaurant Corporation was the original franchise owner of the Pineville location.","PinevilleExterior08.jpg|thumb|Pineville's 1996-2012 Exterior (August 2008)|275x275px","Pinevilleduringcenterremodel.png|thumb|The store's exterior while the shopping center remodel was in progress. The old signage would still remain at this point. (February 21, 2012)|277x277px","PINEVILLEposterscan.jpg|thumb|247x247px|Scan of the Grand Reopening poster."]

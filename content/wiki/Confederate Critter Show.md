@@ -2,9 +2,11 @@
 title = "Confederate Critter Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-28T20:31:55Z
+date = 08/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Charlie Rockit","Sponch man","FileFickle"]
 gallery = ["Confederate critter show full shot.jpg|alt=A complete shot of the Confederate Critter Show, showing every single character.|thumb|The Confederate Critter Show"]
 +++

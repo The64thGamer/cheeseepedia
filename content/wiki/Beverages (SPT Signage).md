@@ -2,9 +2,11 @@
 title = "Beverages (SPT Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-08T16:23:25Z
+date = 07/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["98.226.19.141","Rexburg090","216.125.34.66","EagleScout610","The 64th Gamer"]
 gallery = ["Beverages.png|thumb|The Beverages sign at the [[Parma, OH (7601 W Ridgewood Rd)|Parma, OH"]
 +++

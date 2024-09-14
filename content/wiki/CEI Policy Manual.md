@@ -2,9 +2,11 @@
 title = "CEI Policy Manual"
 draft = false
 tags = ["Documents"]
-date = 2023-10-09T01:59:06Z
+date = 10/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ceipolicymanualscan.png|Front Scan"
 contributors = ["The 64th Gamer"]
 gallery = [":Policysizingreference.png",":Snappermuseumcitation.png"]

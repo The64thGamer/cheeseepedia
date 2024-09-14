@@ -2,9 +2,11 @@
 title = "Articulated Jasper Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-08T02:19:39Z
+date = 04/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedJasper.jpg|thumb|The articulated Jasper head paired with his standard outfit and an acoustic guitar in the August 1996 show."]
 +++

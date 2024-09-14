@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Summer of Fun 2022 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-06-29T18:14:02Z
+date = 06/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Bowling for Cheese","Dame868"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

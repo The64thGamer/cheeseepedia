@@ -2,9 +2,11 @@
 title = "Concept Unification Installation Manual"
 draft = false
 tags = ["Documents"]
-date = 2023-06-19T10:26:04Z
+date = 06/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ce699864fddd924e1c74381e86b6fc05.png|Page One"
 contributors = ["The 64th Gamer"]
 gallery = []

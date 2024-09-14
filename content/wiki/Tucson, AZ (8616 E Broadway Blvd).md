@@ -2,9 +2,11 @@
 title = "Tucson, AZ (8616 E Broadway Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-03T12:33:27Z
+date = 07/03/2024
 
 [Article]
+startDate = "-/-/1981"
+endDate = "-/-/1983"
 contributors = ["2605:59C8:304A:5C00:4D51:84C4:F37A:196B","Cheeseclassic"]
 gallery = []
 +++

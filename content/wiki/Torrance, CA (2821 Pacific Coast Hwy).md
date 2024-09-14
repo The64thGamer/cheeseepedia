@@ -2,9 +2,11 @@
 title = "Torrance, CA (2821 Pacific Coast Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-23T02:35:02Z
+date = 12/23/2023
 
 [Article]
+startDate = "3/24/1983"
+endDate = ""
 pageThumbnailFile = "2022-05-19.jpg|Exterior, May 2022"
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","Cecnj98","ThatBoiCydalan","Stripes"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Shows (CEC Best of 1988)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-26T22:05:29Z
+date = 08/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++

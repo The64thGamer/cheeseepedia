@@ -2,9 +2,11 @@
 title = "Rock-afire Explosion Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2022-12-06T23:55:34Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BattleXGamer","The 64th Gamer"]
 gallery = []
 +++

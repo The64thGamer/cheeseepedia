@@ -2,9 +2,11 @@
 title = "Cyberamics Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = 2022-12-07T22:34:34Z
+date = 12/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "PTT Reels In Action.jpg|PTT Reel on a Tape Deck"
 contributors = ["The 64th Gamer"]
 gallery = []

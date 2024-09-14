@@ -2,9 +2,11 @@
 title = "Magic Stage Prototype"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-07-13T08:32:23Z
+date = 07/13/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Emcaacme","216.125.34.66","CEC Tinley","Tux Chuck","CECMentor","Jaxonia"]
 gallery = []
 +++

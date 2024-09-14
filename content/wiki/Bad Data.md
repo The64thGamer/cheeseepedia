@@ -2,9 +2,11 @@
 title = "Bad Data"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2024-07-22T09:11:30Z
+date = 07/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Frosty126"]
 gallery = ["Bad data.png|thumb|325x325px|'BAD DATA' written on a bunch of showtape segments."]
 +++

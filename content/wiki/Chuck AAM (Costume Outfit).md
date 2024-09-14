@@ -2,9 +2,11 @@
 title = "Chuck AAM (Costume Outfit)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2022-08-27T00:40:29Z
+date = 08/27/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","Documentor"]
 gallery = ["97 autograph .jpg|thumb"]
 +++

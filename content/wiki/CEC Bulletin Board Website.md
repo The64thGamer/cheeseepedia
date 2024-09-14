@@ -2,9 +2,11 @@
 title = "CEC Bulletin Board Website"
 draft = false
 tags = []
-date = 2022-09-04T18:05:07Z
+date = 09/04/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

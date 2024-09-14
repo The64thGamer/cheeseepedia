@@ -2,9 +2,11 @@
 title = "Chuck Avenger Attire (Costume Outfit)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-02-04T05:47:55Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc"]
 gallery = ["Avengeroutfit.png|thumb"]
 +++

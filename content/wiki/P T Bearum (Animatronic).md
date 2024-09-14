@@ -2,9 +2,11 @@
 title = "P. T. Bearum (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-08T20:11:48Z
+date = 02/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "PTBearum.png|P.T. Bearum at Wild Horse Saloon in Idlewild Park."
 contributors = ["Lelmaster"]
 gallery = []

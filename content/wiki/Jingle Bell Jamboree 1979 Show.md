@@ -2,9 +2,11 @@
 title = "Jingle Bell Jamboree 1979 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2022-06-15T14:23:07Z
+date = 06/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

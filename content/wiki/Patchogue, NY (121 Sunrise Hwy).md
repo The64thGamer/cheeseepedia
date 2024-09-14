@@ -2,9 +2,11 @@
 title = "Patchogue, NY (121 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-09T04:59:18Z
+date = 07/09/2024
 
 [Article]
+startDate = "3/29/1993"
+endDate = ""
 pageThumbnailFile = "2023-09-16.jpg|thumb"
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
 gallery = []

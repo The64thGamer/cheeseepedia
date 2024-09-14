@@ -2,9 +2,11 @@
 title = "Queenie / Mini Mozzarella (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-07-02T02:30:11Z
+date = 07/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle","John95","IVeClappedForWolfman","The 64th Gamer","Ls2018-1"]
 gallery = []
 +++

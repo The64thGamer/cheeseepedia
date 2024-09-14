@@ -2,9 +2,11 @@
 title = "Marietta, GA (4340 Roswell Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-10T19:58:32Z
+date = 06/10/2024
 
 [Article]
+startDate = "12/16/1981"
+endDate = "4/5/2015"
 pageThumbnailFile = "Cobb.png|Marietta's exterior before closure. (PC: Patch)"
 contributors = ["ChuckECool","Rexburg090","Midwestretail","ThatBoiCydalan","CorrectorMan"]
 gallery = ["Marietta.jpg|thumb|343x343px|Marietta's exterior about a year before demolition. (PC: Google Maps)"]

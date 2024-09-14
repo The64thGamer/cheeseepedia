@@ -2,9 +2,11 @@
 title = "ItAllStartsHereYT"
 draft = false
 tags = ["User"]
-date = 2024-06-11T19:41:12Z
+date = 06/11/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ItAllStartsHereYT"]
 gallery = []
 +++

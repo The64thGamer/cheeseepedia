@@ -2,9 +2,11 @@
 title = "Covina, CA (601 Azusa Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-07T07:24:54Z
+date = 07/07/2024
 
 [Article]
+startDate = "8/-/1980"
+endDate = ""
 pageThumbnailFile = "Covina's Exterior in 2024.jpg|Covina's exterior in May 2024. (PC: Google Maps)"
 contributors = ["ChuckECool","CorrectorMan","CECcovinaca","Chez","Cheeseclassic","ThatBoiCydalan","Estsproduction","Stripes","Snowbobsuperboi"]
 gallery = []

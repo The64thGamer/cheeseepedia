@@ -2,9 +2,11 @@
 title = "Weber Bicentennial Time Machine Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-02-21T08:10:14Z
+date = 02/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = []
 +++

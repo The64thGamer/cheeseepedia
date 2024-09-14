@@ -2,9 +2,11 @@
 title = "Greece / Rochester, NY (3160 W Ridge Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-08T12:49:20Z
+date = 05/08/2024
 
 [Article]
+startDate = "3/15/1983"
+endDate = "11/-/1996"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

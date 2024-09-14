@@ -2,9 +2,11 @@
 title = "Best of the Rock-afire Explosion 1983 Part 2"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-27T13:22:34Z
+date = 10/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","John95"]
 gallery = []
 +++

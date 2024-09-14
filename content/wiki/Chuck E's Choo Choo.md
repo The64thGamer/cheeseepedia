@@ -2,9 +2,11 @@
 title = "Chuck E.'s Choo Choo"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-08-09T07:57:12Z
+date = 08/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BenTrainFan2000"]
 gallery = ["Sptgames1.jpg|thumb|Chuck E. Cheese's Choo Choo among other games stored at SPT Distribution (Unknown Year)"]
 +++

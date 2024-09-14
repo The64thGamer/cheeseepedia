@@ -2,9 +2,11 @@
 title = "Chuck E's Holiday Party 2000"
 draft = false
 tags = ["Showtapes"]
-date = 2022-10-18T23:46:07Z
+date = 10/18/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","Documentor"]
 gallery = []
 +++

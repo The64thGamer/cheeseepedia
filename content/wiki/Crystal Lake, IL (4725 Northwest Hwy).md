@@ -2,9 +2,11 @@
 title = "Crystal Lake, IL (4725 Northwest Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-02T00:10:48Z
+date = 09/02/2024
 
 [Article]
+startDate = "10/16/2000"
+endDate = ""
 pageThumbnailFile = "Phase 3 exterior.jpg|Crystal Lake in 2001."
 contributors = ["Melrosefool2763","ShowbizMidwest","ThatBoiCydalan","CEC Tinley","Slussier1","Cheeseclassic","MasterMike","Midwestern Jasper T.","CEC1988","Documentor"]
 gallery = []

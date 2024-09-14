@@ -2,9 +2,11 @@
 title = "Parma, OH (7601 W Ridgewood Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T14:00:35Z
+date = 07/30/2024
 
 [Article]
+startDate = "11/26/1999"
+endDate = ""
 contributors = ["EagleScout610","The 64th Gamer","Rexburg090","CEC Tinley","ConceptUnification2.0","AstridMascotFan2005","PinevilleFan"]
 gallery = ["ParmaAfterRemodel.jpg|thumb|Parma's exterior as of May 2024"]
 +++

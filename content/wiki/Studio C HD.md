@@ -2,9 +2,11 @@
 title = "Studio C HD"
 draft = false
 tags = []
-date = 2022-09-19T19:09:07Z
+date = 09/19/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen"]
 gallery = []
 +++

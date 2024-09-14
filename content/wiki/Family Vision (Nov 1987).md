@@ -2,9 +2,11 @@
 title = "Family Vision (Nov 1987)"
 draft = false
 tags = []
-date = 2023-08-07T20:37:28Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = []
 +++

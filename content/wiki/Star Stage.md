@@ -2,9 +2,11 @@
 title = "Star Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2023-05-15T18:46:40Z
+date = 05/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]
 gallery = ["CEC Star Stage .jpg|alt=Star Stage at Montfort Dallas TX Store|thumb|398x398px|Ray of Sunshine playing on the Star Stage"]
 +++

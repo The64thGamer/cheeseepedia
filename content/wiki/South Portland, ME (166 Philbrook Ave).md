@@ -2,9 +2,11 @@
 title = "South Portland, ME (166 Philbrook Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-25T13:03:35Z
+date = 12/25/2023
 
 [Article]
+startDate = "12/17/2002"
+endDate = "12/16/2012"
 pageThumbnailFile = "desc=Exterior photo, taken in 2012.|image=Maine.jpg"
 contributors = ["47.17.236.200","Midwestretail","ThatBoiCydalan","ShowbizMidwest","Cheeseclassic","CEC Tinley"]
 gallery = []

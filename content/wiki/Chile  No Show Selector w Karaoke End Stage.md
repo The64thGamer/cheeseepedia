@@ -2,9 +2,11 @@
 title = "Chile / No Show Selector w/ Karaoke End Stage"
 draft = false
 tags = ["Showtapes"]
-date = 2021-12-16T17:11:49Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

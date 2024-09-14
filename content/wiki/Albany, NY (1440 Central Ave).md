@@ -2,9 +2,11 @@
 title = "Albany, NY (1440 Central Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-08T13:40:48Z
+date = 05/08/2024
 
 [Article]
+startDate = "-/-/1982"
+endDate = "9/10/1995"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

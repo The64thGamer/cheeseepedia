@@ -2,9 +2,11 @@
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-04T16:54:18Z
+date = 08/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "DarienExterior.jpg|Darien's Pre 2.0 remodel Exterior."
 contributors = ["ShowbizMidwest","Emcaacme","Rexburg090","CorrectorMan","BurgersNuggs445","2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF","Caydenpedia","Jerry CEC","AstridMascotFan2005"]
 gallery = []

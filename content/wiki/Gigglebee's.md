@@ -2,9 +2,11 @@
 title = "Gigglebee's"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-09-10T16:17:19Z
+date = 09/10/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster","UTubeTrollPoliceCroat","Ceclife13"]
 gallery = ["PostClosureGigglebees.jpg|thumb|Gigglebee's Sioux Falls building after closure","Original Wilbur December 2023.png|thumb|Picture of Wilbur taken in December of 2023 at The Foster Network "]
 +++

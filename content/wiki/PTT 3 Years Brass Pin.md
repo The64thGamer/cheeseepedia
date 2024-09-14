@@ -2,9 +2,11 @@
 title = "PTT 3 Years Brass Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 2022-08-17T14:50:42Z
+date = 08/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","DerpJobi"]
 gallery = ["Ptt3p.jpg|thumb|301x301px|Front"]
 +++

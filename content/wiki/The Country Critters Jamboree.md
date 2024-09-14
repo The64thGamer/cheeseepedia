@@ -2,9 +2,11 @@
 title = "The Country Critters Jamboree"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-21T20:28:50Z
+date = 08/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "tommybartlettccj.png|Tommy Bartlett's Country Critters Jamboree at the Wisconsin Dells Western Village  Ad (1985)"
 contributors = ["Letterstolooneybird","BigCtheDataFinder","Wizington"]
 gallery = []

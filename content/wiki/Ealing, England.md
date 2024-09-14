@@ -2,9 +2,11 @@
 title = "Ealing, England"
 draft = false
 tags = ["Store List"]
-date = 2023-10-04T17:44:46Z
+date = 10/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "EnglandPTTReferencePizzaTimesSept1983.png|The only reference to the Ealing, England PTT."
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer"]
 gallery = []

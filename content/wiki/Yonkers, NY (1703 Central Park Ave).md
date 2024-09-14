@@ -2,9 +2,11 @@
 title = "Yonkers, NY (1703 Central Park Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T21:52:06Z
+date = 07/29/2024
 
 [Article]
+startDate = "9/3/2022"
+endDate = ""
 contributors = ["CECBowlingGreen","Documentor","ThatBoiCydalan","Rexburg090","BurgersNuggs445","CEC Tinley","2600:4040:5A0E:D900:C991:13F7:3812:6985","AstridMascotFan2005"]
 gallery = ["Yonker.jpg|thumb|285x285px|Yonkers' Exterior",":Mike.jpg"]
 +++

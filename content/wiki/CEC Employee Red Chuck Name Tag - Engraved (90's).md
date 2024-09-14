@@ -2,9 +2,11 @@
 title = "CEC Employee Red Chuck Name Tag - Engraved (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-04-27T22:44:52Z
+date = 04/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "b4yb4y5b4y5byb5yb2.png|Unmarked Name Tag"
 contributors = ["The 64th Gamer"]
 gallery = []

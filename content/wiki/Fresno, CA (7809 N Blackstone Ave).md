@@ -2,9 +2,11 @@
 title = "Fresno, CA (7809 N Blackstone Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-29T14:16:25Z
+date = 03/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "2.0 Fresno Blackstone.jpg|Exterior (2024)"
 contributors = ["The 64th Gamer","Rexburg090","2600:4040:5A0E:D900:9CCC:4391:297E:5876","Freddyplayz855","Cheeseclassic"]
 gallery = []

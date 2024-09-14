@@ -2,9 +2,11 @@
 title = "Mijjinator (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-12-28T18:10:14Z
+date = 12/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

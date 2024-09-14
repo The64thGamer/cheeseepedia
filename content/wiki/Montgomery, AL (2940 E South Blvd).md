@@ -2,9 +2,11 @@
 title = "Montgomery, AL (2940 E South Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-19T21:22:05Z
+date = 01/19/2024
 
 [Article]
+startDate = "9/30/1982"
+endDate = "8/-/2013"
 pageThumbnailFile = "Montgomery.png|Montgomery's exterior, March 2013. (PC: WSFA News)"
 contributors = ["ChuckECool","Rexburg090","Midwestretail","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []

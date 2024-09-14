@@ -2,9 +2,11 @@
 title = "Dept. 18 Blogspot"
 draft = false
 tags = []
-date = 2022-09-20T06:14:50Z
+date = 09/20/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

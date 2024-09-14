@@ -2,9 +2,11 @@
 title = "Chuck 1999 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-09-16T18:06:52Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","68.101.244.149","2601:81:8500:E190:2C16:3458:6E45:2D9D"]
 gallery = ["Aug99head.jpg|thumb|1999 Walkaround head"]
 +++

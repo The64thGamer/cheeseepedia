@@ -2,9 +2,11 @@
 title = "Aubreemasterson"
 draft = false
 tags = ["User"]
-date = 2024-08-07T00:41:36Z
+date = 08/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Aubreemasterson"]
 gallery = ["Aubree and Helen.jpg|thumb|Me and Avenger Cheerleader Helen Henny during a grand reopening event of the [[Altoona, PA (3415 Pleasant Valley Blvd)|Altoona, PA"]
 +++

@@ -2,9 +2,11 @@
 title = "Tone Decoder Control System"
 draft = false
 tags = []
-date = 2023-02-06T03:39:22Z
+date = 02/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "WP5 tone decoders.png|Tone decoder-based control system, driving the Wolf Pack 5"
 contributors = ["Himitsu","The 64th Gamer","BigCtheDataFinder"]
 gallery = []

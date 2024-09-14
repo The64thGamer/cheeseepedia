@@ -2,9 +2,11 @@
 title = "Large Helen Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-11-08T19:33:55Z
+date = 11/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ToadEatSock","BurgersNuggs445","216.125.34.66","Tux Chuck"]
 gallery = []
 +++

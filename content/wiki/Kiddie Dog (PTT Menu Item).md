@@ -2,9 +2,11 @@
 title = "Kiddie Dog (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 2024-02-07T01:20:47Z
+date = 02/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["SmileAmericaCommercialGif.gif|thumb|266x266px|Kiddie Dog as seen in the [[Smile America - 'Alice' (Commercial)|Smile America - 'Alice'"]
 +++

@@ -2,9 +2,11 @@
 title = "Bear Show 9-27-81"
 draft = false
 tags = ["Showtapes"]
-date = 2021-12-16T16:58:53Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Billy Bob Talking Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-12-23T02:04:58Z
+date = 12/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "2022-11-01.jpg|Billy Bob Talking-Walkaround at Fun Time Pizza in McAllen"
 contributors = ["Emcaacme","Ls2018-1","CEC Tinley","The 64th Gamer","Stripes"]
 gallery = []

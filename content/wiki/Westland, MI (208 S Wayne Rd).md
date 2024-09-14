@@ -2,9 +2,11 @@
 title = "Westland, MI (208 S Wayne Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-26T16:44:24Z
+date = 08/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ItAllStartsHereYT"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Helen Henny Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-06T22:53:31Z
+date = 08/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ptt1977"]
 gallery = []
 +++

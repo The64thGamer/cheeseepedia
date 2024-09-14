@@ -2,9 +2,11 @@
 title = "The Totally Awesome Kids Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-11-01T15:02:22Z
+date = 11/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","Bullseye123"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

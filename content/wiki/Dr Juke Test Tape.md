@@ -2,9 +2,11 @@
 title = "Dr. Juke Test Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2022-12-06T01:24:19Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++

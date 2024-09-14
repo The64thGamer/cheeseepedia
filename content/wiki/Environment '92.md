@@ -2,9 +2,11 @@
 title = "Environment '92"
 draft = false
 tags = ["Live Shows"]
-date = 2023-07-30T02:08:38Z
+date = 07/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat","Montfortdog","Saan1ty"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Golf (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2024-08-16T18:57:19Z
+date = 08/16/2024
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = [":Handcraftedputter.png"]
 +++

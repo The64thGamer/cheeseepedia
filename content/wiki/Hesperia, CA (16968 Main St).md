@@ -2,9 +2,11 @@
 title = "Hesperia, CA (16968 Main St)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-03T23:25:29Z
+date = 10/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["2600:1012:B1AA:2DE5:CD92:CD8D:6100:E70E","Cheeseclassic"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Kooser Chuck E. Cheese (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-28T13:11:47Z
+date = 02/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["StarToday77","The 64th Gamer","KPIZZA03","PizzaEntertainmentFanX"]
 gallery = [":Pttcorp`.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Moon"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T02:20:49Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["MoonAnimatronic.jpg|thumb|268x268px|Moons design."]
 +++

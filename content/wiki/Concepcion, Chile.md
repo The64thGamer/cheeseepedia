@@ -2,9 +2,11 @@
 title = "Concepcion, Chile"
 draft = false
 tags = ["Store List"]
-date = 2023-07-07T03:25:43Z
+date = 07/07/2023
 
 [Article]
+startDate = "8/18/2012"
+endDate = ""
 pageThumbnailFile = "desc=Concepción's exterior in August 2022. (PC: Google Maps)|image=Concepción, Chile.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 gallery = []

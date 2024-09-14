@@ -2,9 +2,11 @@
 title = "Studio C File Formats"
 draft = false
 tags = []
-date = 2022-12-08T21:46:21Z
+date = 12/08/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Jan 2000 floppy files.png|Files from the January 2000 Floppy Disk"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Tribute to Abbey Road"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-13T17:27:20Z
+date = 12/13/2023
 
 [Article]
+startDate = "-/-/1982"
+endDate = ""
 contributors = ["Sonim07","Montfortdog","Ceclife13","The 64th Gamer"]
 gallery = []
 +++

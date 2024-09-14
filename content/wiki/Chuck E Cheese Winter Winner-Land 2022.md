@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Winter Winner-Land 2022"
 draft = false
 tags = []
-date = 2022-12-13T01:03:46Z
+date = 12/13/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Bowling for Cheese","Documentor","CEC Denver"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

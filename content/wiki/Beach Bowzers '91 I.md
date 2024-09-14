@@ -2,9 +2,11 @@
 title = "Beach Bowzers '91 I"
 draft = false
 tags = ["APS Showtapes"]
-date = 2023-03-30T23:34:13Z
+date = 03/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

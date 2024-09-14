@@ -2,9 +2,11 @@
 title = "Butler, PA (101 Clearview Circle)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-20T16:29:53Z
+date = 04/20/2023
 
 [Article]
+startDate = "4/21/2004"
+endDate = "3/26/2016"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:C050:277C:FA95:3797","2600:4040:5A0E:D900:6CC6:4C4E:E0F2:CC8E"]
 gallery = ["ButlerPAExterior2015OctoberGoogleMaps.png|thumb|A street view of the store's exterior back in October 2015 (PC: Google Maps)"]
 +++

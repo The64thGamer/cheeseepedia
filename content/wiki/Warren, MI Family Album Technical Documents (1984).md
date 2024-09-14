@@ -2,9 +2,11 @@
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
 tags = ["Documents"]
-date = 2023-05-02T02:39:02Z
+date = 05/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Yuccydoc.png|Page 3"
 contributors = ["The 64th Gamer"]
 gallery = []

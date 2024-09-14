@@ -2,9 +2,11 @@
 title = "San Diego, CA (3414 College Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-13T01:52:13Z
+date = 09/13/2024
 
 [Article]
+startDate = "12/19/2012"
+endDate = ""
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005","Caydenpedia"]
 gallery = []
 +++

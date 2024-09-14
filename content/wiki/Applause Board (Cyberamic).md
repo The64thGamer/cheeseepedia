@@ -2,9 +2,11 @@
 title = "Applause Board (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-21T17:23:13Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["NoName2000","CoolerDude","The 64th Gamer"]
 gallery = ["Clapper Board Slappy.png|thumb|CaptSlappy's 1982-1983 Clapper Board"]
 +++

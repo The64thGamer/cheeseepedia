@@ -2,9 +2,11 @@
 title = "Sally at The Piano"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-06-08T19:09:52Z
+date = 06/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
 gallery = []
 +++

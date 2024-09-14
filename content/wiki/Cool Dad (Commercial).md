@@ -2,9 +2,11 @@
 title = "Cool Dad (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2023-07-05T18:32:03Z
+date = 07/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Maddox121","BurgersNuggs445"]
 gallery = []
 +++

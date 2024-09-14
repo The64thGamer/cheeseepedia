@@ -2,9 +2,11 @@
 title = "Fall 2014 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-02T13:40:40Z
+date = 06/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Himitsu","MultiMonorail","Cheeseclassic"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E.'s Laser Challenge"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-03-01T19:32:35Z
+date = 03/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Chuck E's Laser Challenge seen at the Dallas, TX (13364 Montfort Dr) location.|image=Ceclaserchallenge.png"
 contributors = ["StudioC","The 64th Gamer","168.69.254.248"]
 gallery = []

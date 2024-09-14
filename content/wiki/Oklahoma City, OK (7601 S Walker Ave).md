@@ -2,9 +2,11 @@
 title = "Oklahoma City, OK (7601 S Walker Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-15T19:42:49Z
+date = 07/15/2024
 
 [Article]
+startDate = "5/-/2005"
+endDate = ""
 contributors = ["SuperCreamPiper2008","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++

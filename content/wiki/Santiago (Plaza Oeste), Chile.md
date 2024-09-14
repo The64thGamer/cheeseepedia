@@ -2,9 +2,11 @@
 title = "Santiago (Plaza Oeste), Chile"
 draft = false
 tags = ["Store List"]
-date = 2024-09-04T21:16:27Z
+date = 09/04/2024
 
 [Article]
+startDate = "1/2/2011"
+endDate = ""
 pageThumbnailFile = "CEC Plaza Oeste Chile.jpg|Plaza Oeste's exterior in the 13th of January, 2011"
 contributors = ["HavinAParty","Showbiz Pizza International","CEC Tinley","Cheeseclassic","ThatBoiCydalan","Paskkkk"]
 gallery = []

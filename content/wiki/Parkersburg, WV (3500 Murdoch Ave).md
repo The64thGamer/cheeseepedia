@@ -2,9 +2,11 @@
 title = "Parkersburg, WV (3500 Murdoch Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-18T17:58:12Z
+date = 09/18/2023
 
 [Article]
+startDate = "-/-/1983"
+endDate = "-/-/1998"
 contributors = ["ChuckECool","Emcaacme","Midwestretail","Rexburg090","Saan1ty","CEC Tinley"]
 gallery = ["parkersburg.jpg|thumb|Parkersburg's exterior in the 1990s. (PC: showbizpizza.com)"]
 +++

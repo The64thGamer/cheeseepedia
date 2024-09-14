@@ -2,9 +2,11 @@
 title = "Backyard Monsters"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-23T05:42:38Z
+date = 05/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = ["Backyard Monsters Logo From Newspaper.jpg|alt=Logo with some bugs and the text 'Backyard Monsters'|thumb|Backyard Monsters Logo",":More Backyard Monsters stuff.jpg"]
 +++

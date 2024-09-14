@@ -2,9 +2,11 @@
 title = "Brain-I-Vac (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-11-04T04:37:56Z
+date = 11/04/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = ["Brainivac.png|thumb|478x478px|Brain-I-Vac Animatronic"]
 +++

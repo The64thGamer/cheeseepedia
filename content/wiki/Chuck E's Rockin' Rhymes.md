@@ -2,9 +2,11 @@
 title = "Chuck E's Rockin' Rhymes"
 draft = false
 tags = ["Live Shows"]
-date = 2024-09-09T12:58:44Z
+date = 09/09/2024
 
 [Article]
+startDate = "4/-/2001"
+endDate = ""
 contributors = ["The 64th Gamer","John95","Anastasia.laguardia","Documentor","Ceclife13","CECMadison"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

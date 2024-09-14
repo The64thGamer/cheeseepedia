@@ -2,9 +2,11 @@
 title = "King '95"
 draft = false
 tags = ["Showtapes"]
-date = 2024-03-24T21:18:20Z
+date = 03/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

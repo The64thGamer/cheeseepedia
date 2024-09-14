@@ -2,9 +2,11 @@
 title = "Wolfman Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-05-06T17:04:13Z
+date = 05/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png"]
 +++

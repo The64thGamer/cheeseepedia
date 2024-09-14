@@ -2,9 +2,11 @@
 title = "July 1993 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-18T22:44:49Z
+date = 12/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

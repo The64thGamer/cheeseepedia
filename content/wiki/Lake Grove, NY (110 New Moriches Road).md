@@ -2,9 +2,11 @@
 title = "Lake Grove, NY (110 New Moriches Road)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 2024-08-23T04:35:16Z
+date = 08/23/2024
 
 [Article]
+startDate = "-/-/1996"
+endDate = "6/30/2007"
 pageThumbnailFile = "130114755_1065597657595104_4233733906885835140_n.jpg| Sports Plus Exterior"
 contributors = ["Emcaacme","BurgersNuggs445","BenTrainFan2000"]
 gallery = []

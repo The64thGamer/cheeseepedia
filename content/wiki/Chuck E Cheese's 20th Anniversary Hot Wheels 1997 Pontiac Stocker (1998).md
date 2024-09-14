@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker (1998)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-30T02:34:16Z
+date = 04/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley"]
 gallery = ["CECHotWheels20thRaceCar1997Front.jpg|thumb|Chuck E. Cheese's Exclusive 20th Anniversary Pontiac Stocker from 1998. Front View."]
 +++

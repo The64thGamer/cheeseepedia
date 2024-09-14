@@ -2,9 +2,11 @@
 title = "Monroeville, PA (3800 William Penn Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-31T04:07:37Z
+date = 03/31/2024
 
 [Article]
+startDate = "3/-/1993"
+endDate = "3/30/2024"
 pageThumbnailFile = "Monroeville PA Exterior 2023.jpg|Exterior, 2023"
 contributors = ["ChuckECool","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","Rexburg090","Tux Chuck","Cheeseclassic","ThatBoiCydalan","PachCEC"]
 gallery = []

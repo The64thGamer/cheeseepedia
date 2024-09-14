@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Computer Learning Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-12-06T19:45:12Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Computer learning center logo.png|CEC Computer Learning Center Logo"
 contributors = ["The 64th Gamer"]
 gallery = ["Atri_comp_camp.png|thumb|Unknown Atari Computer Camp Location","Topotully.png|thumb|Topo I robot in Tully location's attic. September 2022."]

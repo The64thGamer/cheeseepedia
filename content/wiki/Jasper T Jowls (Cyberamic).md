@@ -2,9 +2,11 @@
 title = "Jasper T. Jowls (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-30T19:10:45Z
+date = 06/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]
 gallery = ["Lansjasp.png|thumb|Modern Jasper Cyberamic."]
 +++

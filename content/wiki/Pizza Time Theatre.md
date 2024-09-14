@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-07-06T20:39:37Z
+date = 07/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Logo1979ptt.png|Logo (1979)"
 contributors = ["The 64th Gamer"]
 gallery = [":Rickyrat75time.png",":PROTO LAYOUT.jpg"]

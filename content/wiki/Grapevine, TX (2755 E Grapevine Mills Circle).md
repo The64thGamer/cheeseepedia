@@ -2,9 +2,11 @@
 title = "Grapevine, TX (2755 E Grapevine Mills Circle)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-20T06:19:41Z
+date = 07/20/2023
 
 [Article]
+startDate = "5/21/2002"
+endDate = ""
 contributors = ["Rexburg090","2600:4040:5A0E:D900:4505:91DB:C51E:9D03","Tindersmainac200"]
 gallery = ["GrapevineTXExterior2022DecemberGoogleMaps.png|thumb|Street view of the store exterior back in December 2022 (PC: Google Maps)"]
 +++

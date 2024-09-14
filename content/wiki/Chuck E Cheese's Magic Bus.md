@@ -5,6 +5,11 @@ tags = ["CEC Ad Vehicles"]
 date = ""
 
 [Article]
-contributors = []
+pageThumbnailFile = ""
+startDate = ""
+endDate = ""
 gallery = []
+videos = []
+contributors = []
+reviews = []
 +++

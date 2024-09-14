@@ -2,9 +2,11 @@
 title = "Surfer's Paradise, Queensland, Australia"
 draft = false
 tags = ["Store List"]
-date = 2024-03-15T13:33:45Z
+date = 03/15/2024
 
 [Article]
+startDate = "3/-/1981"
+endDate = "-/-/1982"
 pageThumbnailFile = "CHARLIECHEESES.jpg|The Store's Exterior, May 1981"
 contributors = ["CECBowlingGreen","Pench0782","BurgersNuggs445","CEC Tinley","CorrectorMan","PizzaEntertainmentFanX"]
 gallery = []

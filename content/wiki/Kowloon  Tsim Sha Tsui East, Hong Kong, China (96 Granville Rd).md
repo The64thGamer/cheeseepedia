@@ -2,9 +2,11 @@
 title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-07T23:17:31Z
+date = 08/07/2024
 
 [Article]
+startDate = "12/-/1982"
+endDate = "-/-/1988"
 pageThumbnailFile = "desc=Kowloon's exterior in 1986.|image=HK KOWLOON.png"
 contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64th Gamer"]
 gallery = []

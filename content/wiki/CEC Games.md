@@ -2,9 +2,11 @@
 title = "CEC Games"
 draft = false
 tags = ["APS Showtapes"]
-date = 2023-05-31T23:04:08Z
+date = 05/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat","Studio 18 Ent","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

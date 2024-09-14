@@ -2,9 +2,11 @@
 title = "Atari Consumer Division Sunnyvale, CA Manufacturing Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-05-20T18:43:33Z
+date = 05/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

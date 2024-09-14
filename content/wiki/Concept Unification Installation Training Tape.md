@@ -2,9 +2,11 @@
 title = "Concept Unification Installation Training Tape"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2024-07-29T23:29:12Z
+date = 07/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Cy's Junk at School","Stripes"]
 gallery = []
 +++

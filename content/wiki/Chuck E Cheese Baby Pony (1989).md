@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Baby Pony (1989)"
 draft = false
 tags = ["Merchandise"]
-date = 2024-05-15T17:29:57Z
+date = 05/15/2024
 
 [Article]
+startDate = "-/-/1989"
+endDate = ""
 contributors = ["The 64th Gamer","Tux Chuck"]
 gallery = []
 +++

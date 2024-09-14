@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Hot Wheels Sweet 16 II (2001)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-05-05T15:36:05Z
+date = 05/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","CEC Tinley"]
 gallery = ["CECHotWheels2000Front.jpg|thumb|Chuck E. Cheese Exclusive 'Sweet 16 II™️' Hot Wheels car from 2000."]
 +++

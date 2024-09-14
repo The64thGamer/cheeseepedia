@@ -2,9 +2,11 @@
 title = "Happy Holidays 2011"
 draft = false
 tags = ["Showtapes"]
-date = 2023-11-24T04:02:35Z
+date = 11/24/2023
 
 [Article]
+startDate = "11/25/2011"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","StudioC","Ceclife13"]
 gallery = []
 +++

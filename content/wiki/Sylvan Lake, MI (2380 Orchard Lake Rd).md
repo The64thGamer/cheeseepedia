@@ -2,9 +2,11 @@
 title = "Sylvan Lake, MI (2380 Orchard Lake Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-11T19:38:57Z
+date = 06/11/2024
 
 [Article]
+startDate = "9/-/1981"
+endDate = ""
 contributors = ["2601:40F:600:8100:449D:E773:D167:9C1","ItAllStartsHereYT"]
 gallery = []
 +++

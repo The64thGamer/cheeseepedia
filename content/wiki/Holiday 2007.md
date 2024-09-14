@@ -2,9 +2,11 @@
 title = "Holiday 2007"
 draft = false
 tags = ["Live Shows"]
-date = 2022-10-20T17:03:48Z
+date = 10/20/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

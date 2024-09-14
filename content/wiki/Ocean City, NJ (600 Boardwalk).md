@@ -2,9 +2,11 @@
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
 tags = ["RockyRailroad"]
-date = 2024-08-12T21:18:53Z
+date = 08/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Gillian's Front Exterior 2021.png|Gillian's Wonderland Pier, 2021."
 contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic"]
 gallery = []

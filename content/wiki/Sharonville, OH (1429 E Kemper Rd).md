@@ -2,9 +2,11 @@
 title = "Sharonville, OH (1429 E Kemper Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-01T02:18:17Z
+date = 09/01/2024
 
 [Article]
+startDate = "10/21/1981"
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","RPCEC Backup","ChuckECool","RedaCEC","Rexburg090","216.125.34.66","2600:4040:AD76:D00:385D:200:9695:9AFC","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest","AstridMascotFan2005"]
 gallery = ["SharonvilleExterior2022.png|thumb|285x285px|Sharonville's Exterior (2023)"]
 +++

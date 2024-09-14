@@ -2,9 +2,11 @@
 title = "Mr, Munch 1991 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-05-16T16:49:02Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","CEC Tinley"]
 gallery = ["Mr Munch 1991Eyes.png|thumb|alt=91|Late 80s Mr Munch with 91 eyes"]
 +++

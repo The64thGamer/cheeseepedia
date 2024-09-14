@@ -2,9 +2,11 @@
 title = "Riverside, CA (4033 Chicago Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-08T02:30:39Z
+date = 08/08/2024
 
 [Article]
+startDate = "-/-/1981"
+endDate = "4/-/1996"
 contributors = ["CorrectorMan","CEC Tinley","TestAccount6777"]
 gallery = []
 +++

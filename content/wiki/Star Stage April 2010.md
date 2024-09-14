@@ -2,9 +2,11 @@
 title = "Star Stage April 2010"
 draft = false
 tags = ["Showtapes"]
-date = 2021-12-16T17:20:06Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

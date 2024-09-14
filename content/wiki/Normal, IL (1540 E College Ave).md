@@ -2,9 +2,11 @@
 title = "Normal, IL (1540 E College Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-08T14:48:08Z
+date = 05/08/2024
 
 [Article]
+startDate = "3/28/1983"
+endDate = "2/29/1992"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

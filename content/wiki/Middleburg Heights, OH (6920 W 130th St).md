@@ -2,9 +2,11 @@
 title = "Middleburg Heights, OH (6920 W 130th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-16T15:20:25Z
+date = 05/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["EagleScout610","Rexburg090","SuperCreamPiper2008"]
 gallery = ["Middleburg PTT Today.jpg|thumb|The site of the Middleburg Heights PTT Today"]
 +++

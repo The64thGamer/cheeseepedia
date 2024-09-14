@@ -2,9 +2,11 @@
 title = "Creative Engineering Original Company Building"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-02-20T19:46:19Z
+date = 02/20/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

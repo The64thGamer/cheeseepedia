@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Cheese Pizza"
 draft = false
 tags = ["Merchandise"]
-date = 2024-02-22T17:01:49Z
+date = 02/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","Newbie editor"]
 gallery = []
 +++

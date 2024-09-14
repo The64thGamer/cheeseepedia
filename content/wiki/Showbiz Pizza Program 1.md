@@ -2,9 +2,11 @@
 title = "Showbiz Pizza Program 1"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = 2023-12-28T05:52:44Z
+date = 12/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Sppprogram1.png|Showbiz Pizza Program 1"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []

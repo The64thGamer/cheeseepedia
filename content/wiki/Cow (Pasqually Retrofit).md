@@ -2,9 +2,11 @@
 title = "Cow (Pasqually Retrofit)"
 draft = false
 tags = ["FunZone"]
-date = 2024-03-06T16:01:31Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CowPasquallyFZ&P.png|The Bot in the infamous 'No More Chuck E. Cheese' Video"
 contributors = ["StudioC","168.69.254.247","PizzaEntertainmentFanX"]
 gallery = []

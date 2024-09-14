@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Grand Slam"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-05-26T20:32:18Z
+date = 05/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ChuckEsGrandSlamImage.png|The arcade machine at the [[Commack, NY (2115 Jericho Turnpike)"
 contributors = ["ThatBoiCydalan"]
 gallery = []

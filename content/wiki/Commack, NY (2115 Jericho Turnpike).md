@@ -2,9 +2,11 @@
 title = "Commack, NY (2115 Jericho Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-25T04:17:57Z
+date = 06/25/2023
 
 [Article]
+startDate = "1/23/1995"
+endDate = "6/14/2015"
 pageThumbnailFile = "CommackNY-1-Exterior.jpg|thumb"
 contributors = ["Stripes","Anastasia.laguardia","BurgersNuggs445","Rexburg090","168.69.254.246","Cecnj98"]
 gallery = []

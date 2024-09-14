@@ -2,9 +2,11 @@
 title = "Decatur, AL (1801 Beltline Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-08T15:38:52Z
+date = 09/08/2024
 
 [Article]
+startDate = "12/26/2005"
+endDate = ""
 pageThumbnailFile = "Store front.jpg|Exterior (April 2, 2022)"
 contributors = ["MFHALSTON","Scofow76","The 64th Gamer","Stripes","AstridMascotFan2005","Caydenpedia"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-27T18:14:59Z
+date = 08/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

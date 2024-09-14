@@ -2,9 +2,11 @@
 title = "Peter Piper Pizza"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-06-02T21:26:39Z
+date = 06/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","50.206.240.150","Rexburg090"]
 gallery = ["PeterPiperPizzaLogo.png|thumb|Current logo of Peter Piper Pizza. In use since March 2014."]
 +++

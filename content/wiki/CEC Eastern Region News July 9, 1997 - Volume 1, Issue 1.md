@@ -2,9 +2,11 @@
 title = "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"
 draft = false
 tags = ["Documents"]
-date = 2024-02-15T06:36:54Z
+date = 02/15/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CECEasternRegionNews.png|Front Page"
 contributors = ["The 64th Gamer"]
 gallery = []

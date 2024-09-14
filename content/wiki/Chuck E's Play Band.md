@@ -2,9 +2,11 @@
 title = "Chuck E.'s Play Band"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-01-13T19:30:15Z
+date = 01/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++

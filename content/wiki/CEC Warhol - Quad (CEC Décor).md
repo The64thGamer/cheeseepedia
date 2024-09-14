@@ -2,9 +2,11 @@
 title = "CEC Warhol - Quad (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-19T18:05:50Z
+date = 07/19/2023
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

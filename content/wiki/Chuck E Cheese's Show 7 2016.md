@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 7 2016"
 draft = false
 tags = ["Live Shows"]
-date = 2024-03-12T00:31:37Z
+date = 03/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","66.220.208.40","Dame868","Crazy Muzzarino"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

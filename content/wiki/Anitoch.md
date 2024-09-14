@@ -2,9 +2,11 @@
 title = "Anitoch"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T02:01:59Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["Antioch.png|thumb|Antioch's design."]
 +++

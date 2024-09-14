@@ -2,9 +2,11 @@
 title = "Celebration Station's W.O.O.F. Radio"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-07-08T01:26:36Z
+date = 07/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Letterstolooneybird","BigCtheDataFinder"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Show Select Tape 1"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-07T16:57:47Z
+date = 10/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

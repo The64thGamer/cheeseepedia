@@ -2,9 +2,11 @@
 title = "ShowBiz Pizza Place"
 draft = false
 tags = []
-date = 2024-08-22T23:47:14Z
+date = 08/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ShowBiz Pizza Place 1980 Logo.svg|ShowBiz Pizza's logo used from March of 1980 to 1986. A modified version of the Pizza Show Biz Logo"
 contributors = ["CorrectorMan","RockyRhoad07","Saan1ty","PizzaEntertainmentFanX","The 64th Gamer","DerekCat","Stripes","CEC1988"]
 gallery = ["ShowBiz Pizza 1989 Logo.svg|thumb|ShowBiz Pizza's logo used from 1986 until the end of Concept Unification.|282x282px"]

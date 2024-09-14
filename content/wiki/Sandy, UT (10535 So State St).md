@@ -2,9 +2,11 @@
 title = "Sandy, UT (10535 So. State St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T16:11:54Z
+date = 07/29/2024
 
 [Article]
+startDate = "-/-/1996"
+endDate = "-/-/2014"
 pageThumbnailFile = "sandycec6.png|Exterior on September 7, 2006 via Geocache"
 contributors = ["BurgersNuggs445","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ThatBoiCydalan","Rexburg090","CEC Tinley","CorrectorMan","Tux Chuck","TailsFan628","AstridMascotFan2005"]
 gallery = []

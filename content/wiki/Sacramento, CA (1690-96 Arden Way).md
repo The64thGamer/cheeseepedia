@@ -2,9 +2,11 @@
 title = "Sacramento, CA (1690-96 Arden Way)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:49:05Z
+date = 07/31/2024
 
 [Article]
+startDate = "2/-/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","Cheeseclassic","Planetpurplediner","AstridMascotFan2005"]
 gallery = []
 +++

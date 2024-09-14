@@ -2,9 +2,11 @@
 title = "Standard: Menu Item Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-07-28T05:39:22Z
+date = 07/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

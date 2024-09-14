@@ -2,9 +2,11 @@
 title = "Portland, OR (9120 SE Powell Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-01T00:41:48Z
+date = 06/01/2024
 
 [Article]
+startDate = "11/19/1982"
+endDate = ""
 pageThumbnailFile = "49bfdc70f6b06bc93d5dc403ee376365 -united-states-oregon-multnomah-county-portland-chuck-e-cheese-503-774-7000htm.jpg|Portland, OR's exterior before closing"
 contributors = ["CEC PDX","173.216.33.6","Rexburg090","CEC Tinley","Cecbird","CorrectorMan","Stripes"]
 gallery = []

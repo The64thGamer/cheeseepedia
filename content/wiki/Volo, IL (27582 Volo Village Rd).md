@@ -2,9 +2,11 @@
 title = "Volo, IL (27582 Volo Village Rd)"
 draft = false
 tags = ["CreativeEngineering"]
-date = 2024-08-06T21:12:29Z
+date = 08/06/2024
 
 [Article]
+startDate = "-/-/1960"
+endDate = ""
 pageThumbnailFile = "desc=Exterior (October 2019)|image=VoloExteior.png"
 contributors = ["ShowbizMidwest","CoolerDude","The 64th Gamer","CEC1988"]
 gallery = []

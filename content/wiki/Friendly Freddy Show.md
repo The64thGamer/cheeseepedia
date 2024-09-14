@@ -2,9 +2,11 @@
 title = "Friendly Freddy Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-01-10T20:15:31Z
+date = 01/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Studio 18 Ent"]
 gallery = ["Friendly-freddy-footage.png|thumb|Friendly Freddy performing 'Dang Me'"]
 +++

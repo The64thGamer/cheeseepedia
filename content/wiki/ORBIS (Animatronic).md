@@ -2,9 +2,11 @@
 title = "O.R.B.I.S (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-11-04T05:17:59Z
+date = 11/04/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","Rexburg090"]
 gallery = ["Orbis.png|thumb|478x478px|O.R.B.I.S Animatronic"]
 +++

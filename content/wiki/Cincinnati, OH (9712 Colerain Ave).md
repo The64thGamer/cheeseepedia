@@ -2,9 +2,11 @@
 title = "Cincinnati, OH (9712 Colerain Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-04T18:18:20Z
+date = 05/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Midwestretail","CEC Tinley"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Omaha, NE (225 N 76th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-26T23:28:28Z
+date = 08/26/2024
 
 [Article]
+startDate = "6/23/1982"
+endDate = ""
 contributors = ["ChuckECool","CorrectorMan","Stripes","Cy's Junk at School"]
 gallery = ["Omaha.jpg|thumb|Omaha's exterior with 2.0. (PC: Google Maps)"]
 +++

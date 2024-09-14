@@ -2,9 +2,11 @@
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
 tags = ["Live Shows"]
-date = 2023-07-22T23:56:54Z
+date = 07/22/2023
 
 [Article]
+startDate = "11/20/1995"
+endDate = ""
 contributors = ["Ceclife13","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

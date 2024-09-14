@@ -2,9 +2,11 @@
 title = "Madame Oink I"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-14T17:22:08Z
+date = 08/14/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","WalterB"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

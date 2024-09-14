@@ -2,9 +2,11 @@
 title = "Lincoln, NE (221 N 66th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-09T15:03:36Z
+date = 01/09/2024
 
 [Article]
+startDate = "12/29/1982"
+endDate = "6/-/2020"
 pageThumbnailFile = "Exterior2018AugustGoogleMaps.png|Street View of the exterior before closure in June 2020 (August 2018) (PC: Google Maps)"
 contributors = ["Rexburg090","ChuckECool","ShowbizMidwest","ThatBoiCydalan","Caydenpedia","Cheeseclassic"]
 gallery = []

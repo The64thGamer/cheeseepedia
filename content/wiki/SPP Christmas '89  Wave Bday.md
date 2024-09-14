@@ -2,9 +2,11 @@
 title = "SPP Christmas '89 / Wave Bday"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-20T18:06:30Z
+date = 12/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","DerekCat","The 64th Gamer"]
 gallery = []
 +++

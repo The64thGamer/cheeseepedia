@@ -2,9 +2,11 @@
 title = "Showtape Stock Music"
 draft = false
 tags = []
-date = 2023-09-25T19:45:33Z
+date = 09/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nebbytales","The 64th Gamer","Documentor","Himitsu","Rileypaulson","RedaCEC","2A00:23C7:D7A1:7101:DF8:1917:863B:CE87"]
 gallery = []
 +++

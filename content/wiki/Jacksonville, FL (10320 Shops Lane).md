@@ -2,9 +2,11 @@
 title = "Jacksonville, FL (10320 Shops Lane)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-31T16:04:43Z
+date = 07/31/2023
 
 [Article]
+startDate = "2/7/2016"
+endDate = ""
 contributors = ["2600:1012:B13A:9D21:BDB0:5F21:77B7:C54B","CorrectorMan"]
 gallery = ["Jacksonville shop.jpg|thumb|Jacksonville's exterior before 2.0. "]
 +++

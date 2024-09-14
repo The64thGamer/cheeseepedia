@@ -2,9 +2,11 @@
 title = "RessiduePezzzado"
 draft = false
 tags = ["User"]
-date = 2022-12-12T04:21:31Z
+date = 12/12/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["RessiduePezzzado"]
 gallery = ["Tallyhall photoByBrianAppio.jpg|thumb|605x605px|tally"]
 +++

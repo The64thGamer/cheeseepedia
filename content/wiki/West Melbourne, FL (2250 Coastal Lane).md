@@ -2,9 +2,11 @@
 title = "West Melbourne, FL (2250 Coastal Lane)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-12T16:14:10Z
+date = 08/12/2024
 
 [Article]
+startDate = "4/26/2011"
+endDate = ""
 contributors = ["CECBowlingGreen","ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","CECswag2009","AstridMascotFan2005"]
 gallery = ["West Melbourne.jpg|thumb|West Melbourne in December 2018. (PC: Google Maps)"]
 +++

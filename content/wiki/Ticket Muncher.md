@@ -2,9 +2,11 @@
 title = "Ticket Muncher"
 draft = false
 tags = ["Arcade Games"]
-date = 2022-10-16T23:51:27Z
+date = 10/16/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen"]
 gallery = []
 +++

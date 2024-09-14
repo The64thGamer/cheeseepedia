@@ -2,9 +2,11 @@
 title = "Trumbull, CT (5065 Main St)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-09T00:16:18Z
+date = 09/09/2024
 
 [Article]
+startDate = "9/6/2024"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

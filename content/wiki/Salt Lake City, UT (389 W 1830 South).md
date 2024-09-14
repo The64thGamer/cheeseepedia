@@ -2,9 +2,11 @@
 title = "Salt Lake City, UT (389 W 1830 South)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-03T14:02:17Z
+date = 09/03/2024
 
 [Article]
+startDate = "7/22/2013"
+endDate = ""
 pageThumbnailFile = "Salt Lake.CEC.jpg|Exterior on February 18, 2019"
 contributors = ["Cheeseslicez","AstridMascotFan2005","CECswag2009","ThatBoiCydalan"]
 gallery = []

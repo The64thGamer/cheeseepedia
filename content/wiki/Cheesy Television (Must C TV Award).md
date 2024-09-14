@@ -2,9 +2,11 @@
 title = "'Cheesy Television' (Must C TV Award)"
 draft = false
 tags = []
-date = 2023-07-18T22:52:55Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445"]
 gallery = []
 +++

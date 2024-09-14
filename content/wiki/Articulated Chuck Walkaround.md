@@ -2,9 +2,11 @@
 title = "Articulated Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-08T02:16:24Z
+date = 04/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ArticulatedChuck .jpg|The standard AAM walkaround as shown in in the August 1997 show."
 contributors = ["ShowbizMidwest","BurgersNuggs445","68.201.38.174","Documentor","The 64th Gamer","OnionMastori"]
 gallery = []

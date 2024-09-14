@@ -2,9 +2,11 @@
 title = "Holiday 2003 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-07-20T20:51:19Z
+date = 07/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Layton, UT (450 North Main St)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-22T05:05:37Z
+date = 06/22/2024
 
 [Article]
+startDate = "-/-/2008"
+endDate = "6/-/2020"
 pageThumbnailFile = "LAYTONUT.jpg|Layton in 2019"
 contributors = ["Cheeseslicez"]
 gallery = []

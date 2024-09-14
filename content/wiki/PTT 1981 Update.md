@@ -2,9 +2,11 @@
 title = "PTT 1981 Update"
 draft = false
 tags = []
-date = 2024-04-20T12:35:14Z
+date = 04/20/2024
 
 [Article]
+startDate = "-/-/1981"
+endDate = ""
 pageThumbnailFile = "1981 PTT.png|The Signage Update for Pizza Time Theatre in 1981."
 contributors = ["BurgersNuggs445","Cy's Junk at School","Cheeseclassic"]
 gallery = []

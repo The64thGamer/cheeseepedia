@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Warblettes (Warblettes Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2024-02-28T14:57:05Z
+date = 02/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Pumpkin Festival Warbs.jpg|The Pumpkin Festival Warblettes Retrofit."
 contributors = ["Documentor","PizzaEntertainmentFanX"]
 gallery = []

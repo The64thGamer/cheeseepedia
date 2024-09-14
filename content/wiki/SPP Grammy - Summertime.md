@@ -2,9 +2,11 @@
 title = "SPP Grammy - Summertime"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 2022-01-23T21:30:38Z
+date = 01/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png"]
 +++

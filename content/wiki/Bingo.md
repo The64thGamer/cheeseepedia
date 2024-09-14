@@ -2,9 +2,11 @@
 title = "Bingo"
 draft = false
 tags = ["Live Shows"]
-date = 2022-10-17T20:04:42Z
+date = 10/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Anastasia.laguardia","Documentor"]
 gallery = []
 +++

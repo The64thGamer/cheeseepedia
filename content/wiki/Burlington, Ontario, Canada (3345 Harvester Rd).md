@@ -2,9 +2,11 @@
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-20T14:47:44Z
+date = 04/20/2024
 
 [Article]
+startDate = "10/15/1981"
+endDate = "10/27/1991"
 pageThumbnailFile = "desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png"
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []

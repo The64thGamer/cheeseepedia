@@ -2,9 +2,11 @@
 title = "Name That Cheese (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-18T22:51:57Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445"]
 gallery = []
 +++

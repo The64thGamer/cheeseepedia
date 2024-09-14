@@ -2,9 +2,11 @@
 title = "Cyberamic Clippard Valve Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2023-09-03T04:52:18Z
+date = 09/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ClippardPTTboard.png|All 8 Clippard valves on the board."
 contributors = ["2600:1017:B4C2:66B9:B43D:350E:1D57:D87A","The 64th Gamer","ShowbizMidwest","47.12.120.189"]
 gallery = ["Clippard ring and disc.png|thumb|200x200px|Valve Ring & Disc.","Clippard solder point.png|thumb|238x238px|The solder points for the valves on the board.","Clippard open valve.png|thumb|226x226px|An opened valve."]

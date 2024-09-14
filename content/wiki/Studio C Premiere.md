@@ -2,9 +2,11 @@
 title = "Studio C Premiere"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-17T18:43:27Z
+date = 12/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","216.125.34.66","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

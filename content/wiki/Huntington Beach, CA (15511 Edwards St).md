@@ -2,9 +2,11 @@
 title = "Huntington Beach, CA (15511 Edwards St)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-04T03:59:21Z
+date = 09/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "HuntingtonBeachExterior2018AprilGoogleMaps.png|thumb"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ChuckEPediaIsTheBest!","StarToday77","Saan1ty","Cheeseclassic","SuperCreamPiper2008","Caydenpedia","PizzaEntertainmentFanX","CEC1988","The 64th Gamer","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = []

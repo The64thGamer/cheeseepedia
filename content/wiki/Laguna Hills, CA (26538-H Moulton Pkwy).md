@@ -2,9 +2,11 @@
 title = "Laguna Hills, CA (26538-H Moulton Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-21T20:46:21Z
+date = 01/21/2024
 
 [Article]
+startDate = "-/-/2001"
+endDate = ""
 pageThumbnailFile = "Laguna Hills.jpg|Laguna Hill's before the 2.0 Remodel. (PC: Google Maps)"
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic"]
 gallery = []

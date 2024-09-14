@@ -2,9 +2,11 @@
 title = "CEI Betamax"
 draft = false
 tags = ["Showtape Formats"]
-date = 2024-08-20T13:03:57Z
+date = 08/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ceibetamaxplayer.png|TV and Betamax player wheeled out in the showroom for diagnostics."
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []

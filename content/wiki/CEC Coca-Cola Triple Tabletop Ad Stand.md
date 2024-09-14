@@ -2,9 +2,11 @@
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
 tags = ["Promotional Material"]
-date = 2023-07-28T22:59:05Z
+date = 07/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","RedaCEC","Pasquallytheplumber"]
 gallery = ["Sfdsdfs.jpg|thumb|400x400px|Tabletop Stand"]
 +++

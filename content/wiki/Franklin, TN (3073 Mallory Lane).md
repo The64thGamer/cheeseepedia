@@ -2,9 +2,11 @@
 title = "Franklin, TN (3073 Mallory Lane)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-07T04:56:41Z
+date = 05/07/2023
 
 [Article]
+startDate = "12/31/2000"
+endDate = ""
 contributors = ["CECBowlingGreen","Steven 'CEC' Master","BurgersNuggs445"]
 gallery = []
 +++

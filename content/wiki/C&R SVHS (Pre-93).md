@@ -2,9 +2,11 @@
 title = "C&R SVHS (Pre-93)"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-10-12T18:25:38Z
+date = 10/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Bigboxliveshow.png|'Dance To The Music' SVHS case (Unknown Sub-Format)"
 contributors = ["The 64th Gamer"]
 gallery = []

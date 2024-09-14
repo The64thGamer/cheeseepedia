@@ -2,9 +2,11 @@
 title = "May 1998 Show"
 draft = false
 tags = []
-date = 2022-03-23T22:04:51Z
+date = 03/23/2022
 
 [Article]
+startDate = "5/-/1998"
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

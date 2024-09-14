@@ -2,9 +2,11 @@
 title = "Lake Charles, LA (3221 E Prien Lake Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-15T04:00:31Z
+date = 10/15/2023
 
 [Article]
+startDate = "-/-/2001"
+endDate = ""
 pageThumbnailFile = "Lake_Charles_CEC_Exterior_2020.png|Exterior, April 2020"
 contributors = ["173.227.70.59","ThatBoiCydalan"]
 gallery = []

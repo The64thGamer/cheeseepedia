@@ -2,9 +2,11 @@
 title = "Prop TV (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-08-05T02:53:26Z
+date = 08/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ThatBoiCydalan"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Foothill Ranch, CA (26562 Towne Centre Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:29:11Z
+date = 07/31/2024
 
 [Article]
+startDate = "5/30/2003"
+endDate = ""
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005"]
 gallery = []
 +++

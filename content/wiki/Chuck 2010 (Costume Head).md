@@ -2,9 +2,11 @@
 title = "Chuck 2010 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2022-07-15T01:25:53Z
+date = 07/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc"]
 gallery = ["2010CECWALKAROUND.jpg|thumb"]
 +++

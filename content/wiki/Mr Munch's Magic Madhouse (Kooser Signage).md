@@ -2,9 +2,11 @@
 title = "Mr. Munch's Magic Madhouse (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2024-03-01T16:49:32Z
+date = 03/01/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio","Ptt1977","PizzaEntertainmentFanX"]
 gallery = []
 +++

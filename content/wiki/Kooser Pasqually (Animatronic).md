@@ -2,9 +2,11 @@
 title = "Kooser Pasqually (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-07-18T17:15:41Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Gr34fivh2uvjfunv0ifonjv.png|1979 Footage"
 contributors = ["EagleScout610","KPIZZA03","The 64th Gamer"]
 gallery = []

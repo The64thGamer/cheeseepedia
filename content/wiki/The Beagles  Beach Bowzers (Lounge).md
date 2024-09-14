@@ -2,9 +2,11 @@
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-06-30T21:35:57Z
+date = 06/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=The Beagles|image=Beagles 1.jpg"
 contributors = ["Helly","BurgersNuggs445","168.69.254.242","CECMentor","CoolerDude"]
 gallery = []

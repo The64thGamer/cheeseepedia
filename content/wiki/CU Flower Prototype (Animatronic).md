@@ -2,9 +2,11 @@
 title = "CU Flower Prototype (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-02-03T20:13:34Z
+date = 02/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Helly"]
 gallery = []
 +++

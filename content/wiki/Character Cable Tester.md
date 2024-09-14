@@ -2,9 +2,11 @@
 title = "Character Cable Tester"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-05-11T00:51:01Z
+date = 05/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Character Cable Tester.png|The Character Cable Tester"
 contributors = ["The 64th Gamer","Ls2018","Ls2018-1"]
 gallery = []

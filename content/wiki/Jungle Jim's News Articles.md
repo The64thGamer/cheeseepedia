@@ -5,6 +5,11 @@ tags = ["JungleJims"]
 date = ""
 
 [Article]
-contributors = []
+pageThumbnailFile = ""
+startDate = ""
+endDate = ""
 gallery = []
+videos = []
+contributors = []
+reviews = []
 +++

@@ -2,9 +2,11 @@
 title = "Chuck 1992 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2022-08-23T21:48:50Z
+date = 08/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc"]
 gallery = ["1992CECHEAD.png|alt=Perfection|thumb|1992 walkaround head as seen in the 1993 Shows."]
 +++

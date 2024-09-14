@@ -2,9 +2,11 @@
 title = "Fairbanks, AK (600 Old Steese Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-13T19:15:51Z
+date = 07/13/2023
 
 [Article]
+startDate = "1/-/1986"
+endDate = "-/-/1988"
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer","216.125.34.66","Rexburg090","CorrectorMan"]
 gallery = ["Fairbanks 2009.jpg|thumb|Fairbank's exterior after 2009. (PC: Google Maps)"]
 +++

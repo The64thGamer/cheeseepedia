@@ -2,9 +2,11 @@
 title = "Dr. Juke"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2022-07-31T17:52:44Z
+date = 07/31/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Mousester","Himitsu"]
 gallery = ["D43c3cb0fe5f15c8e41aff2b80f4237d.png|thumb|350x350px|Dr. Juke Show Selector screen."]
 +++

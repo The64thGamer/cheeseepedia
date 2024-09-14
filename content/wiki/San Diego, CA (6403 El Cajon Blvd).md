@@ -2,9 +2,11 @@
 title = "San Diego, CA (6403 El Cajon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-19T21:21:19Z
+date = 05/19/2023
 
 [Article]
+startDate = "3/-/1981"
+endDate = "-/-/1984"
 contributors = ["Rexburg090","CEC Tinley"]
 gallery = []
 +++

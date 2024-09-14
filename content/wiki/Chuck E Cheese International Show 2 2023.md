@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese International Show 2 2023"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-13T08:58:20Z
+date = 12/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Bowling for Cheese","Showbiz Pizza International","The 64th Gamer"]
 gallery = []
 +++

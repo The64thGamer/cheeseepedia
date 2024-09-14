@@ -2,9 +2,11 @@
 title = "Methuen, MA (90 Pleasant Valley Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-18T21:46:45Z
+date = 08/18/2024
 
 [Article]
+startDate = "8/28/2000"
+endDate = ""
 pageThumbnailFile = "Methuen Exterior before 2.0.jpg|Exterior, April 2024 (PC: dmckill on Instagram)"
 contributors = ["Destinationimagination95","Rexburg090","Harchambeault2026","CECCheese","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
 gallery = []

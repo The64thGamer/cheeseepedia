@@ -2,9 +2,11 @@
 title = "Yuma, AZ (305 W Catalina Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:38:08Z
+date = 07/31/2024
 
 [Article]
+startDate = "1/30/1984"
+endDate = "-/-/1984"
 contributors = ["CorrectorMan","CEC Tinley","AstridMascotFan2005"]
 gallery = ["Old yuma.jpg|thumb|Site of the location. (PC: Google Maps)"]
 +++

@@ -2,9 +2,11 @@
 title = "Raleigh, NC (4339 Falls of Neuse Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-05T21:11:01Z
+date = 12/05/2023
 
 [Article]
+startDate = "11/-/1980"
+endDate = "10/-/1984"
 contributors = ["Saan1ty"]
 gallery = ["RaleighNCPTTExterior.jpg|thumb|The store's exterior back when it was open. PC: Unknown"]
 +++

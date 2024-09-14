@@ -2,9 +2,11 @@
 title = "Beach Bear"
 draft = false
 tags = ["Characters"]
-date = 2024-05-28T18:16:32Z
+date = 05/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["high quality beach bear.png|thumb|Beach Bear's design as of 2024."]
 +++

@@ -2,9 +2,11 @@
 title = "Electric Pizza"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-04-30T18:26:47Z
+date = 04/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Electric Pizza Cabinet|image=Electric Pizza Closeup.jpg"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Live 90"
 draft = false
 tags = ["Live Shows"]
-date = 2022-06-05T14:30:56Z
+date = 06/05/2022
 
 [Article]
+startDate = "12/-/1990"
+endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Mr. Munch"
 draft = false
 tags = ["Characters"]
-date = 2024-06-04T13:03:46Z
+date = 06/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "William afton if he liked hamburgers.png|Mr. Munches design as of 2024."
 contributors = ["Herzognate","ChuckEPediaIsTheBest!","216.125.34.66","JasperLover","PizzaEntertainmentFanX","The 64th Gamer","SuperCreamPiper2008","CECMentor"]
 gallery = ["Kooser Munch 1.jpg|alt=|thumb|256x256px|The original design of Mr. Munch.","Kooser Skeeball 1978.png|alt=Chuck E. Playing Skeeball|thumb|Image of an early corporate only Munch costume."]

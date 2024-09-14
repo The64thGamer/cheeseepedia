@@ -2,9 +2,11 @@
 title = "Small Jasper Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-23T13:05:45Z
+date = 04/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ToadEatSock","BurgersNuggs445"]
 gallery = []
 +++

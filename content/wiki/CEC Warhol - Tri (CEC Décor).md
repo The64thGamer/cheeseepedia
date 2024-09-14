@@ -2,9 +2,11 @@
 title = "CEC Warhol - Tri (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-19T18:06:55Z
+date = 07/19/2023
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

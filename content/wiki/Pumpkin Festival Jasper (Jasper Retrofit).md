@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Jasper (Jasper Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2023-01-01T04:28:14Z
+date = 01/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","RedaCEC"]
 gallery = ["Pumpkin Festival Jasper.jpg|thumb|403x403px|Pumpkin Festival Jasper"]
 +++

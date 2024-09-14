@@ -2,9 +2,11 @@
 title = "East Brunswick, NJ (647 NJ-18)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-01T18:36:02Z
+date = 11/01/2023
 
 [Article]
+startDate = "3/5/1984"
+endDate = "-/-/1986"
 contributors = ["CorrectorMan","Midwestretail","Cheeseclassic","Tux Chuck"]
 gallery = ["East brunswick.jpg|thumb|The location's exterior on opening day."]
 +++

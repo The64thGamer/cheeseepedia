@@ -2,9 +2,11 @@
 title = "SPP Installation Team Jacket"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-08-09T15:29:25Z
+date = 08/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "G324h5t434jy3t4.jpg|Jacket Front"
 contributors = ["The 64th Gamer"]
 gallery = []

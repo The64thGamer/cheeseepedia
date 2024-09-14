@@ -2,9 +2,11 @@
 title = "Santa Ana, CA"
 draft = false
 tags = ["Store List"]
-date = 2023-10-04T17:43:09Z
+date = 10/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Santaannatoken134B.png|Santa Ana Branded Token, 1979"
 contributors = ["CEC Kokomo","The 64th Gamer"]
 gallery = []

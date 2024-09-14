@@ -2,9 +2,11 @@
 title = "Rock-afire Serial Tags"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2023-12-13T18:44:44Z
+date = 12/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cei tag.jpg|Creative Engineering Serial Tag"
 contributors = ["The 64th Gamer","Nebbytales","Documentor","ShowbizMidwest"]
 gallery = ["Fffwfwfewfwewfeewf.jpg|thumb|412x412px|A Billy Bob Walkaround tag for the CEI edition, denoting the number '229'. Though likely a production number, CEI did not create the original walkaround line for Showbiz, making the number's meaning up for debate.","Jnkjnjn.png|thumb|316x316px|Prop Sticker"]

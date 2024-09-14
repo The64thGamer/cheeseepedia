@@ -2,9 +2,11 @@
 title = "Rocky Mount, NC (730 Sutters Creek Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:48:21Z
+date = 07/31/2024
 
 [Article]
+startDate = "12/17/2003"
+endDate = ""
 pageThumbnailFile = "RockyMountcurrentexterior.jpg|Photo of the current exterior in October 2023. (PC: Carlos Angel Perez on Google Maps)"
 contributors = ["Caydenpedia","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []

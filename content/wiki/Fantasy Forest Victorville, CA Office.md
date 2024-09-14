@@ -2,9 +2,11 @@
 title = "Fantasy Forest Victorville, CA Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-02-16T07:00:08Z
+date = 02/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fatasyforestmtviewproperty1975.png|Office Exterior w/ Harold Goldbrandsen (September 17, 1975)"
 contributors = ["The 64th Gamer"]
 gallery = []

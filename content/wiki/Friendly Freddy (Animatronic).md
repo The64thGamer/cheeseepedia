@@ -2,9 +2,11 @@
 title = "Friendly Freddy (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-25T18:40:28Z
+date = 06/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle","MrKingoDingoBingo"]
 gallery = ["Fred2.png|thumb|304x304px","Fred.png|thumb|346x346px"]
 +++

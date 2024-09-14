@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese 32/16m Hybrid (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-28T02:07:56Z
+date = 02/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "32 movement with 16 movement head.jpg|An Image of the Bot"
 contributors = ["Bowling for Cheese","PizzaEntertainmentFanX"]
 gallery = []

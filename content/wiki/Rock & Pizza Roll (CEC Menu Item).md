@@ -2,9 +2,11 @@
 title = "Rock & Pizza Roll (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 2023-07-29T04:15:25Z
+date = 07/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++

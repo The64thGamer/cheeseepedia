@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Springtastic Show 2023"
 draft = false
 tags = []
-date = 2023-04-10T01:36:08Z
+date = 04/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["2603:8000:E800:1C0D:D537:7262:131A:AA62"]
 gallery = []
 +++

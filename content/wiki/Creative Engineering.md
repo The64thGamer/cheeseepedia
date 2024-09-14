@@ -2,9 +2,11 @@
 title = "Creative Engineering"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-04-23T21:21:18Z
+date = 04/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ceilogo83brochure.png|Logo (1983)"
 contributors = ["The 64th Gamer"]
 gallery = []

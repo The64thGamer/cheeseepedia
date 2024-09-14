@@ -2,9 +2,11 @@
 title = "JND"
 draft = false
 tags = ["User"]
-date = 2024-03-31T02:26:48Z
+date = 03/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["JND"]
 gallery = []
 +++

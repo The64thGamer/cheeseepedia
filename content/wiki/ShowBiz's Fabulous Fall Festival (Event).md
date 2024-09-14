@@ -2,9 +2,11 @@
 title = "ShowBiz's Fabulous Fall Festival (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-10-11T05:01:49Z
+date = 10/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fallfestivallogo1983.png|Festival Logo"
 contributors = ["The 64th Gamer"]
 gallery = [":August 19, 1984 billy bob card.png"]

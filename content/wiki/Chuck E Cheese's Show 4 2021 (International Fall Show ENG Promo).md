@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-01-18T03:14:24Z
+date = 01/18/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

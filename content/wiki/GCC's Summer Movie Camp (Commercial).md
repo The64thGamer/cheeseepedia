@@ -2,9 +2,11 @@
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
 tags = []
-date = 2022-07-15T18:57:17Z
+date = 07/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

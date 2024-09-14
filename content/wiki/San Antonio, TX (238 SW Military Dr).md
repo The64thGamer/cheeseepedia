@@ -2,9 +2,11 @@
 title = "San Antonio, TX (238 SW Military Dr)"
 draft = false
 tags = []
-date = 2024-07-13T01:47:54Z
+date = 07/13/2024
 
 [Article]
+startDate = "9/-/1981"
+endDate = "4/13/2003"
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","CEC Tinley","Stripes","Gostapua210"]
 gallery = ["SanAntonioMilitaryDrExterior2019AprilGoogleMaps.png|thumb|Street view of the exterior in April 2019 (PC: Google Maps)"]
 +++

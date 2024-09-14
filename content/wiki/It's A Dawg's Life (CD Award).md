@@ -2,9 +2,11 @@
 title = "'It's A Dawg's Life' (CD Award)"
 draft = false
 tags = []
-date = 2023-07-19T04:00:20Z
+date = 07/19/2023
 
 [Article]
+startDate = "-/-/1993"
+endDate = ""
 contributors = ["Nostalgia Cow"]
 gallery = []
 +++

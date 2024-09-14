@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Créteil Soleil Pin (1984)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-05-16T22:02:43Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

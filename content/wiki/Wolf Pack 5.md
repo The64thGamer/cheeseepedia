@@ -2,9 +2,11 @@
 title = "Wolf Pack 5"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-02-20T06:22:00Z
+date = 02/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=The Wolf Pack 5 at the 1979 IAAPA Expo.|image=Wolf Pack 5 1979 IAAPA Expo.jpg"
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:5856:C7F4:B277:85AF","2601:600:8F00:4620:D027:AECC:77A0:28A6","2601:600:8F00:4620:C903:EF02:AF64:17FF","Zlblosser23","2601:600:8F00:4620:3902:A31E:E72B:8BB1","2601:600:8F00:4620:11C7:DFE6:3B16:E221","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B","2601:600:8F00:9940:C18E:7F13:4433:B4BE","2601:600:8F00:9940:60C0:2332:CAB:D81F","Stripes","Lelmaster"]
 gallery = ["Animalbandimage.png|thumb|276x276px|'Animal Band' Performance (Unknown Year)"]

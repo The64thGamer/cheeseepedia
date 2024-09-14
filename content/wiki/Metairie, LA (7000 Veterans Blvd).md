@@ -2,9 +2,11 @@
 title = "Metairie, LA (7000 Veterans Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T21:41:45Z
+date = 07/29/2024
 
 [Article]
+startDate = "6/24/1981"
+endDate = "3/17/2024"
 pageThumbnailFile = "MetairieLACECExterior2018.jpg|The store's exterior in 2018 before replacing the Avenger Chuck E sign. (PC: Veronica Lopez)"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","To Fast","66.250.190.24","AstridMascotFan2005"]
 gallery = []

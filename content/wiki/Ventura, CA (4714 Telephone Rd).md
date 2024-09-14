@@ -2,9 +2,11 @@
 title = "Ventura, CA (4714 Telephone Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-23T02:24:55Z
+date = 12/23/2023
 
 [Article]
+startDate = "-/-/1983"
+endDate = ""
 pageThumbnailFile = "ventura ca exterior 2023-02-28.jpg|Exterior, February 2023"
 contributors = ["ChuckECool","CEC Tinley","ThatBoiCydalan","ShowbizMidwest","2600:1012:B1AA:2DE5:CD92:CD8D:6100:E70E","Stripes"]
 gallery = []

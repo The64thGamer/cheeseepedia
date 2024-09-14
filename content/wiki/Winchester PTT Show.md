@@ -2,9 +2,11 @@
 title = "Winchester PTT Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2023-11-03T19:12:38Z
+date = 11/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "376A15C2-BF19-415B-84DD-4D4EA2E73F82.jpg|San Jose, CA (370 S Winchester Blvd) Showroom"
 contributors = ["PokeTogeKiss","BackroomsWanderer49","Lil uzi vert","The 64th Gamer","BlackMonkeyEater","Stripes"]
 gallery = []

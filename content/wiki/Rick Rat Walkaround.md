@@ -2,9 +2,11 @@
 title = "Rick Rat Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-05-20T02:58:51Z
+date = 05/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Iu4weiwefijwefjwef4.png|Rick Rat Costume Head (Early 2010's)"
 contributors = ["Lovemints","2601:600:8F00:9940:60C0:2332:CAB:D81F","The 64th Gamer"]
 gallery = ["Buschotherratcostume.png|thumb|281x281px|Busch Garden's The Old Country's 'Alfie' costume, an alternate design to the usual rat costume."]

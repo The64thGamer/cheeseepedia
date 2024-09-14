@@ -2,9 +2,11 @@
 title = "Walker, MI (3175 Alpine Ave NW)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-23T21:55:19Z
+date = 07/23/2024
 
 [Article]
+startDate = "10/26/1982"
+endDate = "-/-/2002"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:78C5:9394:61FA:63C0","Chuck E Cheese Fan2003"]
 gallery = []
 +++

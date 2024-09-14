@@ -2,9 +2,11 @@
 title = "CEC University: Front of House"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2022-04-05T17:48:46Z
+date = 04/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

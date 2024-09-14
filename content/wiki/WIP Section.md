@@ -2,9 +2,11 @@
 title = "WIP Section"
 draft = false
 tags = []
-date = 2023-06-20T12:33:09Z
+date = 06/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

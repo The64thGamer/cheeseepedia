@@ -2,9 +2,11 @@
 title = "CEC Washington"
 draft = false
 tags = ["User"]
-date = 2022-09-08T02:44:31Z
+date = 09/08/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CEC Washington"]
 gallery = []
 +++

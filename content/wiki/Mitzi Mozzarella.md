@@ -2,9 +2,11 @@
 title = "Mitzi Mozzarella"
 draft = false
 tags = ["Characters"]
-date = 2024-05-28T18:04:38Z
+date = 05/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["Higher quality mitzi.png|thumb|Mitzis design as of 2024."]
 +++

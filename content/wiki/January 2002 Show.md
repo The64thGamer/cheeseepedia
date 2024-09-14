@@ -2,9 +2,11 @@
 title = "January 2002 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-06-29T20:47:09Z
+date = 06/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Agent 5","Ceclife13","John95"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

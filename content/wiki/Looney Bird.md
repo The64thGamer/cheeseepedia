@@ -2,9 +2,11 @@
 title = "Looney Bird"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T01:53:05Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["LooneyBird.png|thumb|Looney Birds design as of 2024."]
 +++

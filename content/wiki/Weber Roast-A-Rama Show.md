@@ -2,9 +2,11 @@
 title = "Weber Roast-A-Rama Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-14T04:27:05Z
+date = 05/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = []
 +++

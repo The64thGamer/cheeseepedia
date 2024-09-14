@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Face Painting Crayons (2003)"
 draft = false
 tags = []
-date = 2022-10-25T04:09:06Z
+date = 10/25/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["StudioC"]
 gallery = []
 +++

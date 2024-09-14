@@ -2,9 +2,11 @@
 title = "Carina, Queensland, Australia"
 draft = false
 tags = ["Store List"]
-date = 2023-07-10T00:45:05Z
+date = 07/10/2023
 
 [Article]
+startDate = "-/-/1982"
+endDate = "-/-/1984"
 pageThumbnailFile = "Queensptt.png|Executives in front of Charlie Cheese's during it's opening."
 contributors = ["CECBowlingGreen","CEC Tinley","CorrectorMan","BurgersNuggs445"]
 gallery = []

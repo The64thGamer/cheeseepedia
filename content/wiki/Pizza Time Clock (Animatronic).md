@@ -2,9 +2,11 @@
 title = "Pizza Time Clock (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-21T12:49:05Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","RedaCEC","BurgersNuggs445","Tobsters ;-;","Studio 18 Ent"]
 gallery = ["Pizza time clock.png|thumb|Pizza Time Clock on a Studio C Beta"]
 +++

@@ -2,9 +2,11 @@
 title = "San Pedro Sula (Multiplaza Mall), Honduras"
 draft = false
 tags = ["Store List"]
-date = 2024-06-26T01:40:05Z
+date = 06/26/2024
 
 [Article]
+startDate = "7/3/2018"
+endDate = ""
 pageThumbnailFile = "SPS.jpg|San Pedro Sula’s exterior inside the mall."
 contributors = ["Bay12","Cheeseclassic"]
 gallery = []

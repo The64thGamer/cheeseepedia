@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Sketch Book"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-10-27T03:38:54Z
+date = 10/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=An image of Chuck E. Cheese's Sketch Book.|image=CEC Sketchbook.png"
 contributors = ["ChuckETasticAlt","ThatBoiCydalan","BurgersNuggs445","The 64th Gamer","Saan1ty","Pasquallytheplumber"]
 gallery = []

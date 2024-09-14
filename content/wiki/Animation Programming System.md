@@ -2,9 +2,11 @@
 title = "Animation Programming System"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2024-05-02T19:20:01Z
+date = 05/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "APS in use.png|APS in use for live programming."
 contributors = ["The 64th Gamer","Himitsu","Studio 18 Ent","2603:6011:D003:7635:F1CF:132B:9244:97CF","GallaRBX2"]
 gallery = ["APS Main Menu.png|thumb|The APS Main Menu","SPTAP.png|thumb|The Live Programming Menu.","Assign files.png|thumb|''.asg Files On A PC''","SMPTE Program.png|none|thumb|The Sync Program (Version 01.06) Transferring ''games1.roa,'' the Road Stage variation of the ''CEC Games'' showtape."]

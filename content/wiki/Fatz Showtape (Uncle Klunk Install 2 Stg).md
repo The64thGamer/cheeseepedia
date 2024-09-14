@@ -2,9 +2,11 @@
 title = "Fatz Showtape (Uncle Klunk Install 2 Stg)"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T02:10:38Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

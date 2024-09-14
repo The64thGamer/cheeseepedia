@@ -2,9 +2,11 @@
 title = "Showtape"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2022-05-27T00:01:24Z
+date = 05/27/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Dcvfbgjhkjhgfds.jpg|thumb|489x489px|A showtape for the [[3-Stage"]
 +++

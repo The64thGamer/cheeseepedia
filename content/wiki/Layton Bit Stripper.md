@@ -2,9 +2,11 @@
 title = "Layton Bit Stripper"
 draft = false
 tags = ["Merchandise"]
-date = 2024-05-21T16:31:46Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Layton Bit Stripper - Green PCB.png|A finished Layton Bit Stripper"
 contributors = ["Himitsu","Ls2018-1","2603:6011:AC00:A50:D87E:6765:9A50:675","Mr.Noodles","The 64th Gamer","CECMentor"]
 gallery = ["Layton Bit Stripper Rev. A.2 PCB.png|thumb|Rev. A.2 PCB|265x265px"]

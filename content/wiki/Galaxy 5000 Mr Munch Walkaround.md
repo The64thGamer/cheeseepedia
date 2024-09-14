@@ -2,9 +2,11 @@
 title = "Galaxy 5000 Mr. Munch Walkaround"
 draft = false
 tags = []
-date = 2022-09-16T15:38:51Z
+date = 09/16/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest"]
 gallery = ["ArticulatedMunchGal5k.jpg|thumb"]
 +++

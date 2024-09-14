@@ -2,9 +2,11 @@
 title = "Citrus Heights, CA (6251 Sunrise Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-15T01:48:52Z
+date = 08/15/2024
 
 [Article]
+startDate = "8/-/1983"
+endDate = ""
 contributors = ["ChuckECool","2600:4040:5A0C:5900:B015:4E62:36E4:7B06","ThatBoiCydalan","Slussier1","Cheeseclassic","CoolerDude","PizzaEntertainmentFanX","Cecanddisneyfan2004","Caydenpedia"]
 gallery = []
 +++

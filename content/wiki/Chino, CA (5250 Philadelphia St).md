@@ -2,9 +2,11 @@
 title = "Chino, CA (5250 Philadelphia St)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-11T14:40:23Z
+date = 09/11/2024
 
 [Article]
+startDate = "12/30/1988"
+endDate = ""
 contributors = ["CorrectorMan","CEC Tinley","Estsproduction","CEC1988","Cecfan15WantsRetromation","The 64th Gamer","CoolerDude","Midwestern Jasper T."]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Creative Engineering Production Plant"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-09-25T01:21:13Z
+date = 09/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","RockAfire Alex"]
 gallery = ["Creative Engineering Manufacture Plant (1983).png|thumb|Creative Engineering Manufacture Plant","Rock-Afire Characters ready to ship.png|thumb|369x369px|Rock-Afire Characters ready to ship","Every Uncle Klunk After Production.png|thumb|Every Uncle Klunk After Production"]
 +++

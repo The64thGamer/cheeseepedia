@@ -2,9 +2,11 @@
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-27T01:14:15Z
+date = 05/27/2023
 
 [Article]
+startDate = "-/-/1983"
+endDate = ""
 contributors = ["ShowbizMidwest","2600:1004:B18F:1005:A935:501B:2CAD:B83C","Rexburg090","CEC Tinley"]
 gallery = []
 +++

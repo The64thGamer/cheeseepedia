@@ -2,9 +2,11 @@
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
 tags = ["Events"]
-date = 2022-12-31T22:24:13Z
+date = 12/31/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Hawaiii spell chuck e .png|Sweepstakes Advertisement, Hawaii"
 contributors = ["The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Winchester Grand-Opening Advertisement (1977)"
 draft = false
 tags = []
-date = 2023-08-14T21:05:23Z
+date = 08/14/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = ["Winchester Ad.jpg|thumb"]
 +++

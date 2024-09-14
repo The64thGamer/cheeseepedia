@@ -2,9 +2,11 @@
 title = "Memphis, TN (3268 Austin Peay Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-31T02:07:47Z
+date = 07/31/2023
 
 [Article]
+startDate = "8/7/1983"
+endDate = "4/1/2013"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","ChuckECool","CorrectorMan","174.131.44.53","Chuckstar69"]
 gallery = ["MemphisTNAustinPeayExterior.jpg|thumb|A photo of the store's exterior when it was open"]
 +++

@@ -2,9 +2,11 @@
 title = "Standard: Merchandise Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-04-22T19:22:02Z
+date = 04/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

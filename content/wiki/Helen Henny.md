@@ -2,9 +2,11 @@
 title = "Helen Henny"
 draft = false
 tags = ["Characters"]
-date = 2024-06-04T13:02:53Z
+date = 06/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","Animatronicbrainrot"]
 gallery = ["HelenRockstar.png|thumb|389x389px|Helens design as of 2024."]
 +++

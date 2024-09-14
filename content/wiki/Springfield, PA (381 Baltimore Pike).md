@@ -2,9 +2,11 @@
 title = "Springfield, PA (381 Baltimore Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-22T23:34:49Z
+date = 08/22/2024
 
 [Article]
+startDate = "12/15/1984"
+endDate = "4/15/2012"
 pageThumbnailFile = "Old Springfield.jpg|Springfield in March 2012, right before closure. (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","216.125.34.66","Cecnj98","CorrectorMan","The 64th Gamer","ThatBoiCydalan","CEC Tinley","Cheeseclassic","Stripes","BigCtheDataFinder","CoolerDude","CEC1988"]
 gallery = [":Springfield.png|Springfield.png - Cheese-E-Pedia (cheeseepedia.org)"]

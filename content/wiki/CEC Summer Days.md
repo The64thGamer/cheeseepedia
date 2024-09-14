@@ -2,9 +2,11 @@
 title = "CEC Summer Days"
 draft = false
 tags = ["Showtapes"]
-date = 2024-09-03T23:32:54Z
+date = 09/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++

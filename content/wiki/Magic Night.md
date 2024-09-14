@@ -2,9 +2,11 @@
 title = "Magic Night"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T20:14:17Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

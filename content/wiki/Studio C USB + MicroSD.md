@@ -5,6 +5,11 @@ tags = ["Showtape Formats"]
 date = ""
 
 [Article]
-contributors = []
+pageThumbnailFile = ""
+startDate = ""
+endDate = ""
 gallery = []
+videos = []
+contributors = []
+reviews = []
 +++

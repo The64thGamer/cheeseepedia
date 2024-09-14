@@ -2,9 +2,11 @@
 title = "SPP Christmas '90"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-16T20:11:04Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = []
 +++

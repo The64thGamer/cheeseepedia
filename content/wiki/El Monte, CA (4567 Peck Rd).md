@@ -2,9 +2,11 @@
 title = "El Monte, CA (4567 Peck Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-13T20:41:39Z
+date = 06/13/2024
 
 [Article]
+startDate = "-/-/1982"
+endDate = "6/-/2020"
 pageThumbnailFile = "desc=Exterior and plaza sign of El Monte, unknown date.|image=Elmonte.png"
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","The 64th Gamer","SuperCreamPiper2008","CEC Knoxville"]
 gallery = []

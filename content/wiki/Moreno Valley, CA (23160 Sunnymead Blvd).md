@@ -2,9 +2,11 @@
 title = "Moreno Valley, CA (23160 Sunnymead Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-19T04:00:51Z
+date = 10/19/2023
 
 [Article]
+startDate = "3/11/2002"
+endDate = ""
 pageThumbnailFile = "MorenoValleyCA2.0Exterior.jpg|A photo of the store's 2.0 Exterior (PC: Matilda D’Hum xoxo) (2/25/2023)"
 contributors = ["Jeffrey James Marks","Rexburg090","GabrielPennington9864","CorrectorMan","Tux Chuck","ThatBoiCydalan"]
 gallery = []

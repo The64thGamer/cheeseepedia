@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 1 2020 (Covid Update)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-07-14T20:05:46Z
+date = 07/14/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

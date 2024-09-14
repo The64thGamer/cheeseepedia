@@ -2,9 +2,11 @@
 title = "Tucson, AZ (6125 E Speedway Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-03T12:29:15Z
+date = 07/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Tucson’s 2.0 Exterior.jpg|Exterior, 2023"
 contributors = ["Cheeseclassic","Chez"]
 gallery = []

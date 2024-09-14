@@ -2,9 +2,11 @@
 title = "SPP Best Of 2"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-16T20:11:57Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++

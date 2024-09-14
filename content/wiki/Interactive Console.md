@@ -2,9 +2,11 @@
 title = "Interactive Console"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 2024-08-27T14:52:44Z
+date = 08/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Studio C Activities.png|Studio C Activities"
 contributors = ["BurgersNuggs445","The 64th Gamer","CECBowlingGreen","SniffCEC","CEC Tinley","CorrectorMan","GuestIsJustBest","Stripes","Documentor","BenTrainFan2000"]
 gallery = ["Screensaver.png|thumb|The screensaver at the Burbank, CA location.","Studio C Windows Kiosk.png|thumb|352x352px|The software closed out of on the console."]

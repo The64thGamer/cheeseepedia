@@ -2,9 +2,11 @@
 title = "Pearl City, HI (98-1258 Kaahumanu St)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-31T15:52:25Z
+date = 07/31/2023
 
 [Article]
+startDate = "8/7/1982"
+endDate = "-/-/1989"
 contributors = ["CorrectorMan"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Dothan, AL (3400 Ross Clark Circle)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-11T16:39:17Z
+date = 09/11/2024
 
 [Article]
+startDate = "12/-/1983"
+endDate = "4/23/1998"
 pageThumbnailFile = "PizzaKastleDothan.png|Exterior as a Pizza Kastle"
 contributors = ["Rexburg090","ShowbizMidwest","185.141.119.63","CorrectorMan","ThatBoiCydalan","SuperCreamPiper2008","Fttoncep","CECLover"]
 gallery = []

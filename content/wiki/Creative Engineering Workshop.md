@@ -2,9 +2,11 @@
 title = "Creative Engineering Workshop"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-08-20T18:51:34Z
+date = 08/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Workshop CEI, March 2023.png|Exterior, March 2023"
 contributors = ["The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Indianapolis, IN (8109 E Washington St)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-29T05:21:42Z
+date = 10/29/2023
 
 [Article]
+startDate = "6/18/1982"
+endDate = "12/-/2011"
 pageThumbnailFile = "IndianapolisWashingtonCECOldLocationExteriorFullShot.png|Exterior, 2011"
 contributors = ["ChuckECool","RedaCEC","Midwestretail","Rexburg090","ThatBoiCydalan"]
 gallery = []

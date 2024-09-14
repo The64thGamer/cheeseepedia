@@ -2,9 +2,11 @@
 title = "Denton, TX (2307 I-35E)"
 draft = false
 tags = ["Store List"]
-date = 2022-12-28T18:44:01Z
+date = 12/28/2022
 
 [Article]
+startDate = "-/-/1983"
+endDate = "-/-/1984"
 contributors = ["JamesLemony","Rexburg090"]
 gallery = ["2307-interstate-35e-denton-tx-76207.jpg|thumb|Outside of the Former Pizza Time Theatre.","DentonTXAdvert.jpg|thumb|A news clipping of a buffet coupon"]
 +++

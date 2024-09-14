@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 5 2021 (International ENG/SPA Covid Promo)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-21T18:34:16Z
+date = 09/21/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Showbiz Pizza International"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

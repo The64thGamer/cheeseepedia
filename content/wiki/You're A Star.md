@@ -2,9 +2,11 @@
 title = "You're A Star"
 draft = false
 tags = ["Live Shows"]
-date = 2022-08-01T06:02:29Z
+date = 08/01/2022
 
 [Article]
+startDate = "-/-/1993"
+endDate = ""
 contributors = ["Ceclife13","BurgersNuggs445"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

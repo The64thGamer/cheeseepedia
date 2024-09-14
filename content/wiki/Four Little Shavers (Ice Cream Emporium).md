@@ -2,9 +2,11 @@
 title = "Four Little Shavers (Ice Cream Emporium)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-21T16:29:24Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Helly","Ls2018","ShowbizMidwest","CECMentor"]
 gallery = ["Curly Mech.png|none|thumb|232x232px|The mech of Curly (the one on the chair)"]
 +++

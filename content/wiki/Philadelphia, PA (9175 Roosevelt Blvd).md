@@ -2,9 +2,11 @@
 title = "Philadelphia, PA (9175 Roosevelt Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-04T18:48:17Z
+date = 05/04/2023
 
 [Article]
+startDate = "8/8/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","CEC Tinley"]
 gallery = []
 +++

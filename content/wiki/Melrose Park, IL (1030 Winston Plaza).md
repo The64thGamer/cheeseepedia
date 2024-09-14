@@ -2,9 +2,11 @@
 title = "Melrose Park, IL (1030 Winston Plaza)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-29T05:07:40Z
+date = 08/29/2024
 
 [Article]
+startDate = "9/-/2012"
+endDate = ""
 contributors = ["Melrosefool2763","CorrectorMan","Midwestern Jasper T."]
 gallery = ["MelrosePark2012.jpg|thumb|Melrose Park's exterior not long after opening."]
 +++

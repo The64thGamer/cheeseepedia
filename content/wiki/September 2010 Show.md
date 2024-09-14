@@ -2,9 +2,11 @@
 title = "September 2010 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-02-05T01:51:40Z
+date = 02/05/2024
 
 [Article]
+startDate = "9/1/2010"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Mousester","2603:8001:D300:5785:1965:4148:BDA3:E573"]
 gallery = []
 +++

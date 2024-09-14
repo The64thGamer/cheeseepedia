@@ -2,9 +2,11 @@
 title = "Lelmaster"
 draft = false
 tags = ["User"]
-date = 2024-05-28T19:52:30Z
+date = 05/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = ["PediaFlavorIconRight.png|frameless|left|100px","Lel thumbsup.png|left|128px","PediaFlavorIconLeft.png|frameless|right|100px"]
 +++

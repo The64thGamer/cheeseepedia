@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese LIVE Announcement Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-11-02T19:03:18Z
+date = 11/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":YoutubeviewerNumbers.png",":Instagramnumberslivestream.png"]
 +++

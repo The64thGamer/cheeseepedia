@@ -2,9 +2,11 @@
 title = "Best Of CEC TV 2003"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-16T03:11:04Z
+date = 12/16/2023
 
 [Article]
+startDate = "1/-/2003"
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","John95","Documentor","MasterMike"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

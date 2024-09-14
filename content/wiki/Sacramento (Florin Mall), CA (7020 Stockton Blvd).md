@@ -2,9 +2,11 @@
 title = "Sacramento (Florin Mall), CA (7020 Stockton Blvd)"
 draft = false
 tags = []
-date = 2024-08-24T17:50:53Z
+date = 08/24/2024
 
 [Article]
+startDate = "8/14/1979"
+endDate = "12/14/1985"
 pageThumbnailFile = "squinty.png|The Store's Cyberamic Chuck E. Cheese"
 contributors = ["Rexburg090","ChuckECool","CEC Tinley","The 64th Gamer","FileFickle","AstridMascotFan2005","CECswag2009"]
 gallery = []

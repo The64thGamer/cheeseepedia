@@ -2,9 +2,11 @@
 title = "Orwell: A Robot You Control (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-09T15:41:00Z
+date = 02/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX"]
 gallery = ["ShowBizRoboticsRevealedOrwell.jpg|alt=Orwell Concept art|thumb|Concept art of Orwell saying 'Showbiz Robotics Presents: Orwell -A Robot You Control-'"]
 +++

@@ -2,9 +2,11 @@
 title = "Data:Data demo.tab"
 draft = false
 tags = []
-date = 2023-02-04T02:48:12Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Mediawiki>Alexis Jazz","The 64th Gamer"]
 gallery = []
 +++

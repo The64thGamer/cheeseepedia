@@ -2,9 +2,11 @@
 title = "2023 Five Nights of Fun"
 draft = false
 tags = ["Events"]
-date = 2024-06-09T22:15:38Z
+date = 06/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "FivenightsofFunWebsiteBanner.png|Website Banner"
 contributors = ["The 64th Gamer"]
 gallery = ["Leaked FNOF newsletter.png|thumb|261x261px|Leaked FNoF Newsletter spread around social media.","Fivenightsoffunposter.png|thumb|325x325px|Five Nights of Fun parody poster initially posted to the CEC Instagram account."]

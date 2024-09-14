@@ -2,9 +2,11 @@
 title = "West Mifflin, PA (2260 Lebanon Church Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-08T02:27:54Z
+date = 08/08/2024
 
 [Article]
+startDate = "8/-/1983"
+endDate = "11/24/1996"
 pageThumbnailFile = "WestMifflinPACECExteriorBeforeClosure.jpg|Exterior"
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","Cheeseclassic","ThatBoiCydalan","TestAccount6777"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Uncle Klunk Showtape Jeff Howell"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T03:09:14Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

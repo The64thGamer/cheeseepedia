@@ -2,9 +2,11 @@
 title = "Rolfe Dewolfe"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T01:55:33Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["RolfeDewolfe.png|thumb|Rolfe's design as of 2024."]
 +++

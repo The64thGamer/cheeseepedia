@@ -2,9 +2,11 @@
 title = "Plano, TX (1604 Preston Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-07T03:39:17Z
+date = 06/07/2024
 
 [Article]
+startDate = "5/-/1998"
+endDate = ""
 pageThumbnailFile = "PlanoTXCEC2.0Exterior.png|Exterior of the newly remodeled Plano, TX store."
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","BurgersNuggs445","74.96.197.218","CoolerDude"]
 gallery = []

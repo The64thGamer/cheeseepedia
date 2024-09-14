@@ -5,6 +5,11 @@ tags = ["Programming Software & Hardware"]
 date = ""
 
 [Article]
-contributors = []
+pageThumbnailFile = ""
+startDate = ""
+endDate = ""
 gallery = []
+videos = []
+contributors = []
+reviews = []
 +++

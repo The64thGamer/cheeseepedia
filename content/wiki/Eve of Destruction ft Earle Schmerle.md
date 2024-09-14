@@ -2,9 +2,11 @@
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
 tags = ["Showtapes"]
-date = 2024-05-26T16:44:06Z
+date = 05/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Cy's Junk at School"]
 gallery = [":RecoveredAaronCommentDuringTeslaHack.png","New Graphic.png"]
 +++

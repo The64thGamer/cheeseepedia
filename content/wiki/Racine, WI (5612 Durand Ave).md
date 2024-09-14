@@ -2,9 +2,11 @@
 title = "Racine, WI (5612 Durand Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-28T20:57:19Z
+date = 12/28/2023
 
 [Article]
+startDate = "1/2/2001"
+endDate = ""
 pageThumbnailFile = "Racine2.0.jpg|Exterior after 2.0. PC: The Journal Times"
 contributors = ["SuperCreamPiper2008"]
 gallery = []

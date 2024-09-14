@@ -2,9 +2,11 @@
 title = "Cheektowaga, NY (Thruway Mall)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-19T16:34:33Z
+date = 03/19/2024
 
 [Article]
+startDate = "11/26/1982"
+endDate = "7/29/1985"
 pageThumbnailFile = "cheektowaga_ny_thruway_mall_PTT_exterior.png|Exterior before closure"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","ThatBoiCydalan","Tux Chuck"]
 gallery = []

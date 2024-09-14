@@ -2,9 +2,11 @@
 title = "September 2014 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2024-09-02T00:18:16Z
+date = 09/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Himitsu","MultiMonorail","John95"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

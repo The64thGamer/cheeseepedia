@@ -2,9 +2,11 @@
 title = "Everett, MA (29 Mystic View Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-14T02:59:21Z
+date = 08/14/2024
 
 [Article]
+startDate = "6/19/2001"
+endDate = ""
 pageThumbnailFile = "EverretMABetaStage 2021 1.jpg|Everett's Studio C Beta, 32M before removal."
 contributors = ["Jacouby","Epicniceperson","Midwestretail","The 64th Gamer","Chuckstar69","Harchambeault2026","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
 gallery = []

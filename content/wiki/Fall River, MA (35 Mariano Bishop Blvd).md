@@ -2,9 +2,11 @@
 title = "Fall River, MA (35 Mariano Bishop Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-08T01:24:16Z
+date = 07/08/2024
 
 [Article]
+startDate = "2/-/1985"
+endDate = ""
 pageThumbnailFile = "PXL 20210227 162750295.jpg|Former site of Fall River's Pizza Time Theatre / Big Top Kiddie Playland, currently Harbor Freight Tools, in 2021 (PC: Adam Cecil)"
 contributors = ["Cheeseclassic","BigCtheDataFinder"]
 gallery = []

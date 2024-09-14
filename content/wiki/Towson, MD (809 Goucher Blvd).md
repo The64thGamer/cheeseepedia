@@ -2,9 +2,11 @@
 title = "Towson, MD (809 Goucher Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T18:05:13Z
+date = 07/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Towsonoutside.jpg|Exterior 2005"
 contributors = ["Sptparole","Documentor","Rexburg090","ShowbizMidwest","RedaCEC","GainerXO","ThatBoiCydalan","Cecriva","2607:FB91:8A6:D919:7D27:566B:4E8B:D39B","Tux Chuck","AnthonyRWikis7283","AstridMascotFan2005"]
 gallery = []

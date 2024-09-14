@@ -2,9 +2,11 @@
 title = "Pasqually (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-30T19:09:23Z
+date = 06/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BoyInCharge55","107.147.190.172","ShowbizMidwest","JasperLover","62.10.181.250","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]
 gallery = ["HighQualityPasqually.png|thumb|Modern Pasqually Cyberamic. Photo taken by Nerdy Chuck E."]
 +++

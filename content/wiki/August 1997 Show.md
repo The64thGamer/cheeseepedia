@@ -2,9 +2,11 @@
 title = "August 1997 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-11-22T18:46:34Z
+date = 11/22/2023
 
 [Article]
+startDate = "8/-/1997"
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","SuperCreamPiper2008"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

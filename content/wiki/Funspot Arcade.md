@@ -2,9 +2,11 @@
 title = "Funspot Arcade"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-09-09T00:16:44Z
+date = 09/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Holidayinnarcademoment.png|The arcade at the Holiday Inn Resort Orlando Suites (2023)"
 contributors = ["The 64th Gamer"]
 gallery = [":Ohsocoolsourcepart1.png",":Epicsourcepart2f34tr4tg34tg.png"]

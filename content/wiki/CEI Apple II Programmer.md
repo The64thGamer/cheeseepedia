@@ -2,9 +2,11 @@
 title = "CEI Apple II Programmer"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-10-19T08:29:15Z
+date = 10/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cei apple 2 programmer .png|Programmer & Block Reader Being Used in June of 2019."
 contributors = ["The 64th Gamer","Ls2018","Ls2018-1"]
 gallery = []

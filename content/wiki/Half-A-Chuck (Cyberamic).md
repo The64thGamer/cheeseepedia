@@ -2,9 +2,11 @@
 title = "Half-A-Chuck (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-11T15:10:45Z
+date = 05/11/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CoolerDude","Newbie editor"]
 gallery = []
 +++

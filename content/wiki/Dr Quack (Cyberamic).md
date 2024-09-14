@@ -2,9 +2,11 @@
 title = "Dr. Quack (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-13T10:40:52Z
+date = 05/13/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Dr Quack Thumbnail.png|Dr. Quack"
 contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]
 gallery = []

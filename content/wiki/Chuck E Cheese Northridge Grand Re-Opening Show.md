@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Northridge Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-07T23:55:46Z
+date = 08/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","CyCGM","Dame0824","Ceclife13"]
 gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++

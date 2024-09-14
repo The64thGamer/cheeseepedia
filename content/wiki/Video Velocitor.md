@@ -2,9 +2,11 @@
 title = "Video Velocitor"
 draft = false
 tags = []
-date = 2024-04-09T20:27:52Z
+date = 04/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CoolerDude"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Homely For Christmas Cassette (1987)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-05-15T18:29:05Z
+date = 05/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "1987-ShowBiz-Pizza-Place-The-Rock-afire-Explosion-Homely.jpg|Homely For Christmas Cassette"
 contributors = ["The 64th Gamer","SonicFazbear","CEC Tinley"]
 gallery = ["A1. No Place Like Home.mp3|none|thumb|There's No Place Like Home","A1-2. Looney Dental Skit.mp3|none|thumb|Looney Dental Skit","A2. Jingle Bell Rock.mp3|none|thumb|Jingle Bell Rock","A3. Looney Carol Skit - Please Come Home For Christmas.mp3|none|thumb|Looney Carol Skit - Come Home For Christmas","A4. Sleigh Ride Medley - Winter Wonderland.mp3|none|thumb|Sleigh Ride Medley","B1. Little Saint Nick.mp3|none|thumb|Little Saint Nick","B2. Run Run Rudolph.mp3|none|thumb|Run Run Rudolph","B2-3. No 'L' Skit.mp3|none|thumb|No 'L' Skite","B3. Santa Clause Is Coming To Town.mp3|none|thumb|Santa Clause Is Coming To Town","B4. Joy To The World.mp3|none|thumb|Joy To The World","B4-5. Family Traditions Skit.mp3|none|thumb|Family Traditions Skit","B5. Oh Holy Night - Little Drummer Boy.mp3|none|thumb|Oh Holy Night - Little Drummer Boy","B6. White Christmas.mp3|none|thumb|White Christmas"]

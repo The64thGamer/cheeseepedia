@@ -2,9 +2,11 @@
 title = "Winchester Madam Oink (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-07-30T20:18:50Z
+date = 07/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Winchesteroink.jpg|Picture of Winchester Madam Oink at the corporate offices."
 contributors = ["WalterB","Ptt1977","Concordio","CoolerDude"]
 gallery = []

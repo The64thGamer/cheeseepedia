@@ -2,9 +2,11 @@
 title = "Main Page"
 draft = false
 tags = []
-date = 2024-08-01T20:33:08Z
+date = 08/01/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["MediaWiki default","The 64th Gamer","Himitsu","Stripes"]
 gallery = ["ButtonWelcome.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonRecent.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonPtt.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonShowbiz.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonCEC.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonCEI.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonDisney.png|960x960px|left|link=|title=Click m|alt=title=Click me!"]
 +++

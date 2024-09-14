@@ -2,9 +2,11 @@
 title = "Emergency Show (Best of 93)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-10T17:12:47Z
+date = 09/10/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","The 64th Gamer"]
 gallery = []
 +++

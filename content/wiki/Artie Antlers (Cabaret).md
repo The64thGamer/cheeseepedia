@@ -2,9 +2,11 @@
 title = "Artie Antlers (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-29T19:10:45Z
+date = 08/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","The 64th Gamer","Frosty126"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Irving, TX (2521 W Airport Fwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-02T18:40:34Z
+date = 12/02/2023
 
 [Article]
+startDate = "-/-/1983"
+endDate = "11/-/1984"
 contributors = ["CEC Kokomo","Cheeseclassic"]
 gallery = ["Irving 2008.jpg|thumb|Irving in April 2008 during redevelopment."]
 +++

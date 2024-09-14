@@ -2,9 +2,11 @@
 title = "Beagles III"
 draft = false
 tags = ["Showtapes"]
-date = 2023-05-03T19:09:53Z
+date = 05/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

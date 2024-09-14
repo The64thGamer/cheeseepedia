@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Astrology"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-08-26T19:29:43Z
+date = 08/26/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Astrology Light Up Front.jpg|Cabinet Marquee"
 contributors = ["The 64th Gamer","Himitsu","Tux Chuck"]
 gallery = ["Astrology Flyer.jpg|thumb|Destron Astrology Flyer",":BRMANIN.jpg|BRMANIN.jpg"]

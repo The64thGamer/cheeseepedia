@@ -2,9 +2,11 @@
 title = "Family Vision 621"
 draft = false
 tags = []
-date = 2024-01-30T07:26:46Z
+date = 01/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Famvis6211.png|Case Front, Tape Front"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []

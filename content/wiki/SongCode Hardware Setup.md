@@ -2,9 +2,11 @@
 title = "SongCode Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-07-03T18:43:15Z
+date = 07/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Kooser control s.jpg|The SongCode Control System found in the 'Big C's Cyberamics Center' room."
 contributors = ["The 64th Gamer","RessiduePezzzado"]
 gallery = ["Mike hatcher programming.png|thumb|Mike Hatcher programming the show, 1979.<ref>https://www.showbizpizza.com/info/articles/cec/ptt_79sjmercury.pdf</ref>|268x268px","54ec494d0487b97c40d0e34e5cb7aaf0.png|thumb|325x325px|The CEC Tester eBay listing image","Kooser CEC Tester Footage.png|thumb|The CEC Tester Being Used at the Kooser Location|258x258px","New CEC tester edit.png|thumb|318x318px|An edited view of the new unit's original image, for clarity,","Song Code hardware.png|thumb|423x423px|The SongCode setup, taken sometime in 1988.","Joe Conti programmer.png|thumb|294x294px|Joe Conti, Spring 1987"]

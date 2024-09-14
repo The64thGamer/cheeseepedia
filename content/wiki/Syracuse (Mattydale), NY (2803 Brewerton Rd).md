@@ -2,9 +2,11 @@
 title = "Syracuse (Mattydale), NY (2803 Brewerton Rd)"
 draft = false
 tags = []
-date = 2024-05-08T12:39:14Z
+date = 05/08/2024
 
 [Article]
+startDate = "8/-/1983"
+endDate = "11/-/1996"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

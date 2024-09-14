@@ -2,9 +2,11 @@
 title = "BattleXGamer"
 draft = false
 tags = ["User"]
-date = 2022-12-17T14:51:04Z
+date = 12/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BattleXGamer"]
 gallery = []
 +++

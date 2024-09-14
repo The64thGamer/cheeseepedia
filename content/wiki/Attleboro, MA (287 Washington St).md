@@ -2,9 +2,11 @@
 title = "Attleboro, MA (287 Washington St)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-12T00:34:59Z
+date = 05/12/2024
 
 [Article]
+startDate = "10/4/1993"
+endDate = ""
 pageThumbnailFile = "Attleboro Exterior Street View Before 2.0 (PC; Google Maps).png|Street View of the Exterior before 2.0 (August 2019) (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:6A21:54B1:8912:1DC5","2600:4040:59FF:B100:9C6:388E:A183:C3C5","2601:191:8580:9F90:C584:A34:12A5:5D31","Anastasia.laguardia","RPCEC","The 64th Gamer","2600:4040:59FC:D100:ECC2:5B6C:8C2F:DE4E","216.125.34.66","Blowseborg062","CorrectorMan","Cheeseclassic","2600:4040:5A0E:D900:EDFB:E7F1:4537:4996","CEC Tinley","Jerry CEC","Harchambeault2026"]
 gallery = []

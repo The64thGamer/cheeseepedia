@@ -2,9 +2,11 @@
 title = "CEC American Pride"
 draft = false
 tags = ["Live Shows"]
-date = 2024-09-02T17:59:22Z
+date = 09/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat","71.244.213.235","The 64th Gamer","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

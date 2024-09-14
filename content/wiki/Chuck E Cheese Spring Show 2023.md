@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Spring Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-21T17:43:34Z
+date = 06/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","Documentor","Pasquallytheplumber","2601:282:4000:98D0:E07B:BD53:BBD1:CA91","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

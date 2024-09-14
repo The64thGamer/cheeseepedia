@@ -2,9 +2,11 @@
 title = "Winchester Applause Board (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-21T16:12:08Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Lion (Jasper T. Jowls Retrofit)"
 draft = false
 tags = ["FunZone"]
-date = 2024-08-17T14:59:24Z
+date = 08/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fpplion.png|The Bot In the infamous 'No More Chuck E. Cheese' Video."
 contributors = ["StudioC","2603:9000:A500:1DBD:39A1:BCF1:A5A5:D5F6","Saan1ty","PizzaEntertainmentFanX","BenTrainFan2000"]
 gallery = []

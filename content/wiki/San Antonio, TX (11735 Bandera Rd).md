@@ -2,9 +2,11 @@
 title = "San Antonio, TX (11735 Bandera Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-09T16:09:11Z
+date = 08/09/2024
 
 [Article]
+startDate = "4/16/2002"
+endDate = ""
 pageThumbnailFile = "Bandera2015remodelexterior.jpg|Pre 2.0 Exterior"
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
 gallery = []

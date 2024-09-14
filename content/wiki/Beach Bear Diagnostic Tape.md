@@ -2,9 +2,11 @@
 title = "Beach Bear Diagnostic Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-20T13:11:23Z
+date = 08/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png"]
 +++

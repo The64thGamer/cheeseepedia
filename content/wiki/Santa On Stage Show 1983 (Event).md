@@ -2,9 +2,11 @@
 title = "Santa On Stage Show 1983 (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-12-15T20:25:46Z
+date = 12/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Klunkinstalls2.png|thumb|252x252px|Map of confirmed Klunk installations for this event.",":Nov1983preselectionletter.png",":Fort Worth Star Telegram Sun Dec 4 1983 .jpg",":Illinoissantapicturesa.jpg",":Pensacolaclipsanta.jpg",":NorthRichlandHillsCountryKlunk.png",":SpringfieldOHKlunkVAlves.png"]
 +++

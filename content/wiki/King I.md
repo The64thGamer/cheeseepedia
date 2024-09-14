@@ -2,9 +2,11 @@
 title = "King I"
 draft = false
 tags = ["Showtapes"]
-date = 2022-01-28T21:24:24Z
+date = 01/28/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

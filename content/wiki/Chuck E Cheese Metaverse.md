@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Metaverse"
 draft = false
 tags = ["Video Games"]
-date = 2022-04-10T20:31:16Z
+date = 04/10/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Chuck E Verse Mark.png|thumb|320x320px|''Chuck E. Verse'' Mark"]
 +++

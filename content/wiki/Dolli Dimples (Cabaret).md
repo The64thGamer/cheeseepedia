@@ -2,9 +2,11 @@
 title = "Dolli Dimples (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-28T13:36:53Z
+date = 05/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","The 64th Gamer"]
 gallery = []
 +++

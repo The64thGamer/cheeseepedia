@@ -2,9 +2,11 @@
 title = "Wilmington, DE (3601 Silverside Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-13T01:41:39Z
+date = 09/13/2024
 
 [Article]
+startDate = "3/3/1983"
+endDate = ""
 pageThumbnailFile = "Wilmington’s Exterior.jpg|thumb"
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","47.17.236.200","CorrectorMan","Cheeseclassic","Caydenpedia"]
 gallery = []

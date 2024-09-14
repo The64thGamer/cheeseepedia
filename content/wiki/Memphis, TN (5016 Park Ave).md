@@ -2,9 +2,11 @@
 title = "Memphis, TN (5016 Park Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-20T00:37:07Z
+date = 08/20/2024
 
 [Article]
+startDate = "8/-/1981"
+endDate = "8/-/1984"
 contributors = ["JND","9Lol92"]
 gallery = []
 +++

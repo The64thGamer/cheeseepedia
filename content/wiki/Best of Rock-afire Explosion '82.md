@@ -2,9 +2,11 @@
 title = "Best of Rock-afire Explosion '82"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-07T17:00:37Z
+date = 10/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Uncle Santa Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T03:44:12Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

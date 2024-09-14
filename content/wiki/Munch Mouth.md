@@ -2,9 +2,11 @@
 title = "Munch Mouth"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-08-26T19:34:26Z
+date = 08/26/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Munch Mouth Arcade Game|image=Munch Mouth.jpg"
 contributors = ["ChuckE1352","The 64th Gamer","Tux Chuck"]
 gallery = []

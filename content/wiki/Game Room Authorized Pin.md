@@ -2,9 +2,11 @@
 title = "Game Room Authorized Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-07-08T19:32:11Z
+date = 07/08/2023
 
 [Article]
+startDate = "-/-/2017"
+endDate = ""
 pageThumbnailFile = "Pinauthorizedgame.png|Game Room Authorized Pin"
 contributors = ["Bowling for Cheese","GuestIsJustBest","Stripes"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Houston, TX (17780 Tomball Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-05T04:58:07Z
+date = 04/05/2024
 
 [Article]
+startDate = "11/10/2006"
+endDate = ""
 pageThumbnailFile = "HoustonTXTomballCECExterior2.0.jpg|Exterior, 2019"
 contributors = ["ThatBoiCydalan"]
 gallery = []

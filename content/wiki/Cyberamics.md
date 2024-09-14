@@ -2,9 +2,11 @@
 title = "Cyberamics"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-21T15:53:49Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cyberamics; balcony stage.png|Cyberamics on the Balcony Stage"
 contributors = ["Agent smith","BurgersNuggs445","The 64th Gamer","BlackMonkeyEater","Stripes","Retrocam","ShowbizMidwest","CECMentor"]
 gallery = []

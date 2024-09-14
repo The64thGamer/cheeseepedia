@@ -2,9 +2,11 @@
 title = "Gastonia, NC (416 Cox Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-27T15:55:24Z
+date = 06/27/2024
 
 [Article]
+startDate = "11/27/2005"
+endDate = ""
 contributors = ["Rexburg090","2600:4040:5A0E:D900:2C39:E2E5:5A32:ADB0","Nerdychucke","Documentor"]
 gallery = ["GastoniaNCExterior2023MayGoogleMaps.png|thumb|Street view of the store's exterior back in May 2023 (PC: Google Maps)"]
 +++

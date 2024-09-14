@@ -2,9 +2,11 @@
 title = "Kooser PTT Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-17T14:05:21Z
+date = 05/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Kooser road portrait.jpg|The Show's Portrait Stage in Kooser's Showroom, 1978"
 contributors = ["ChuckEPediaIsTheBest!","BackroomsWanderer49","178.255.168.174","C&R lover","Lil uzi vert","BurgersNuggs445","CEC Tinley","BlackMonkeyEater","Stripes","PizzaTimeTheatre1977","Ptt1977","Concordio","208.103.68.197","The 64th Gamer","PizzaEntertainmentFanX","CECMentor"]
 gallery = ["A9473C92-07CA-4D41-B04F-BBD9BDD51B5C.jpg|thumb|337x337px|4 of the Portrait Bots"]

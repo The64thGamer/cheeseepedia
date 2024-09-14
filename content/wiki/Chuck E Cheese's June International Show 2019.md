@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's June International Show 2019"
 draft = false
 tags = ["Showtapes"]
-date = 2022-10-23T22:32:08Z
+date = 10/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = []
 +++

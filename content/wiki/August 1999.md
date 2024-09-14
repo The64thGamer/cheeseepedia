@@ -2,9 +2,11 @@
 title = "August 1999"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-29T01:46:07Z
+date = 10/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Anastasia.laguardia","2601:81:8500:E190:4D99:3FA7:CB9B:907B"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

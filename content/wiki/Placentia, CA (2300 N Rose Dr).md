@@ -2,9 +2,11 @@
 title = "Placentia, CA (2300 N Rose Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-28T20:27:54Z
+date = 06/28/2024
 
 [Article]
+startDate = "9/24/1991"
+endDate = ""
 pageThumbnailFile = "desc=Street View of the store's Exterior in September 2022 (PC: Google Maps)|image=Placeentia2022SeptemberGoogleMaps.png"
 contributors = ["ChuckECool","216.125.34.66","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic"]
 gallery = []

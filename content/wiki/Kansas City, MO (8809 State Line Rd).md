@@ -2,9 +2,11 @@
 title = "Kansas City, MO (8809 State Line Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-24T02:34:08Z
+date = 08/24/2024
 
 [Article]
+startDate = "6/30/2024"
+endDate = "6/30/2024"
 pageThumbnailFile = "Ceckansascity2024.jpg|Exterior, August 2024 (PC: dmckill on Instagram)"
 contributors = ["Cheeseclassic"]
 gallery = []

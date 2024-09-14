@@ -2,9 +2,11 @@
 title = "Clarksville, TN (2821 B Wilma Rudolph Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-10T02:47:59Z
+date = 06/10/2023
 
 [Article]
+startDate = "2/22/2001"
+endDate = ""
 contributors = ["CECBowlingGreen","CorrectorMan"]
 gallery = []
 +++

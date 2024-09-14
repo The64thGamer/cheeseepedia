@@ -2,9 +2,11 @@
 title = "CEC 2018 2.0 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 2024-07-03T20:37:23Z
+date = 07/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Stoneoak2017.jpg|The first 2.0 Remodel at [[San Antonio (Stone Oak), TX (1403 N Loop)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic"]
 gallery = [":CECFlagshipMuralsCitation.png"]

@@ -2,9 +2,11 @@
 title = "TRANSTAR-LEXINGTON"
 draft = false
 tags = ["User"]
-date = 2023-02-09T06:10:36Z
+date = 02/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["TRANSTAR-LEXINGTON"]
 gallery = []
 +++

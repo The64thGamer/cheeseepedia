@@ -2,9 +2,11 @@
 title = "Elk Grove, CA (9161 E Stockton Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-02T05:08:22Z
+date = 07/02/2024
 
 [Article]
+startDate = "6/20/2012"
+endDate = ""
 contributors = ["Cecfan2004","66.250.190.42","Cheeseclassic","AcTeZ"]
 gallery = []
 +++

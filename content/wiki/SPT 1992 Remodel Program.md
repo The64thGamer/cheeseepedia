@@ -2,9 +2,11 @@
 title = "SPT 1992 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 2024-06-01T00:44:36Z
+date = 06/01/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Irving TX Remodel-005.jpg|[[Artifact Shelves]] and updated showroom booths with planters."
 contributors = ["Stripes","The 64th Gamer","BurgersNuggs445"]
 gallery = []

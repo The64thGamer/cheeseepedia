@@ -2,9 +2,11 @@
 title = "CEI 1986 Liberty Tape Party"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-07-28T05:58:55Z
+date = 07/28/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

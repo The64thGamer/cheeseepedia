@@ -2,9 +2,11 @@
 title = "Panama City, FL (4432 US-98)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-03T16:38:50Z
+date = 09/03/2024
 
 [Article]
+startDate = "5/7/1986"
+endDate = "-/-/2007"
 pageThumbnailFile = "desc=A photo of Panama City's exterior before closure. (PC: LoopNet)|image=PanamaCityFLCECExteriorBeforeClosureHQ1.jpg"
 contributors = ["ThatBoiCydalan","RQBtv","Midwestretail","ShowbizMidwest","CorrectorMan","CEC Tinley"]
 gallery = []

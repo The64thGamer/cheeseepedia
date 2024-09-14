@@ -2,9 +2,11 @@
 title = "Hampton, VA (4027 W Mercury Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-21T21:47:09Z
+date = 05/21/2024
 
 [Article]
+startDate = "5/-/1982"
+endDate = "5/-/2002"
 pageThumbnailFile = "Hampton1990sRemodel.jpg|Store Exterior Before Closing (1998)"
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","Documentor","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
 gallery = []

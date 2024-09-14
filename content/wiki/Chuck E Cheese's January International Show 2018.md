@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's January International Show 2018"
 draft = false
 tags = ["Showtapes"]
-date = 2022-10-26T05:34:27Z
+date = 10/26/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ElWarlos35"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

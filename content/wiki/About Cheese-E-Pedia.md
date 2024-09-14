@@ -2,9 +2,11 @@
 title = "About Cheese-E-Pedia"
 draft = false
 tags = []
-date = 2024-05-27T21:23:00Z
+date = 05/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

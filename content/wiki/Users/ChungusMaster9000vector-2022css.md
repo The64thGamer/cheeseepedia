@@ -2,9 +2,11 @@
 title = "ChungusMaster9000/vector-2022.css"
 draft = false
 tags = ["User"]
-date = 2024-07-31T02:12:53Z
+date = 07/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChungusMaster9000"]
 gallery = []
 +++

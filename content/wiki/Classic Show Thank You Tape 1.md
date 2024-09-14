@@ -2,9 +2,11 @@
 title = "Classic Show Thank You Tape 1"
 draft = false
 tags = ["Showtapes"]
-date = 2022-01-07T22:40:50Z
+date = 01/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

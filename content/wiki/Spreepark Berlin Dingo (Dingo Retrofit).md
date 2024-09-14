@@ -5,6 +5,11 @@ tags = ["CrazyCritterBand"]
 date = ""
 
 [Article]
-contributors = []
+pageThumbnailFile = ""
+startDate = ""
+endDate = ""
 gallery = []
+videos = []
+contributors = []
+reviews = []
 +++

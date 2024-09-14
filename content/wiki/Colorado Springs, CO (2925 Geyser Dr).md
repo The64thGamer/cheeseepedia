@@ -2,9 +2,11 @@
 title = "Colorado Springs, CO (2925 Geyser Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-13T03:47:49Z
+date = 07/13/2023
 
 [Article]
+startDate = "5/21/2007"
+endDate = ""
 contributors = ["216.227.26.243"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Mall of Suriname, Suriname (Ringweg-Zuid 243)"
 draft = false
 tags = []
-date = 2023-11-01T18:34:09Z
+date = 11/01/2023
 
 [Article]
+startDate = "9/22/2022"
+endDate = ""
 contributors = ["CECBowlingGreen","RedaCEC","CorrectorMan","Tux Chuck"]
 gallery = ["Suriname after opening in November 2022..jpg|thumb|Suriname after opening in November 2022. (PC: Google Maps)"]
 +++

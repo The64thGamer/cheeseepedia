@@ -2,9 +2,11 @@
 title = "Showbiz Pizza Time Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-05-16T20:27:35Z
+date = 05/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Screenshot202022-02-2020150110.png|The front of the location from April 2015."
 contributors = ["The 64th Gamer","72.222.233.165","BurgersNuggs445","Documentor","Chucke.show","Ceclife13","Chucke","Cy's Junk at School","SuperCreamPiper2008","Saan1ty"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "New Hartford, NY (4631 Commercial Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-14T05:53:14Z
+date = 01/14/2024
 
 [Article]
+startDate = "10/30/2006"
+endDate = "6/-/2020"
 pageThumbnailFile = "Chuck-e-cheese-new-hartford-ny.png|Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>"
 contributors = ["Stripes"]
 gallery = []

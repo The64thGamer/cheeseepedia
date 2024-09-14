@@ -2,9 +2,11 @@
 title = "Bubble Wrap (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2022-11-03T02:26:52Z
+date = 11/03/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

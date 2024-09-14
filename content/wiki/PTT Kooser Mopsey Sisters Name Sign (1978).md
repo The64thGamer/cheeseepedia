@@ -2,9 +2,11 @@
 title = "PTT Kooser Mopsey Sisters Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-20T10:22:15Z
+date = 08/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

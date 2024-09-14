@@ -2,9 +2,11 @@
 title = "Memphis, TN (3649 Hickory Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-20T01:47:01Z
+date = 08/20/2024
 
 [Article]
+startDate = "8/24/1982"
+endDate = "10/27/2020"
 pageThumbnailFile = "Memphis_Hickory_Hill_CEC_Exterior_Before_Closure.png|Exterior, 2018"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","9Lol92"]
 gallery = []

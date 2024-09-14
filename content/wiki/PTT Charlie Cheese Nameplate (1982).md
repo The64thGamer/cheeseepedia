@@ -2,9 +2,11 @@
 title = "PTT Charlie Cheese Nameplate (1982)"
 draft = false
 tags = []
-date = 2023-11-03T17:05:03Z
+date = 11/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio","Tux Chuck"]
 gallery = []
 +++

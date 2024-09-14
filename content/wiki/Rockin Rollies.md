@@ -2,9 +2,11 @@
 title = "Rockin Rollies"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-06-12T22:16:45Z
+date = 06/12/2024
 
 [Article]
+startDate = ""
+endDate = "-/-/1991"
 contributors = ["Lelmaster"]
 gallery = ["Argus Leader 2008 10 26 Page 4 Rockin Rollies Guitar Gorilla.jpg|thumb|294x294px|The gorilla animatronic at the Gigglebee's Auction. (October 26, 2008)"]
 +++

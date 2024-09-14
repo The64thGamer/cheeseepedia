@@ -2,9 +2,11 @@
 title = "Chuck E.'s House"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-09-05T23:57:41Z
+date = 09/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "rocker.png|The original Rocker Stage in Arlington, TX."
 contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowbizMidwest","216.125.34.66","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988"]
 gallery = []

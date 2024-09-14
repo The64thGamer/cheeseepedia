@@ -2,9 +2,11 @@
 title = "Roseville, MI (31920 Gratiot Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-02T23:37:31Z
+date = 09/02/2023
 
 [Article]
+startDate = "4/22/1991"
+endDate = ""
 pageThumbnailFile = "desc=Exterior of the store before getting the 2.0 remodel. (PC: FTG Mountain View)|image=RosevilleMIExteriorPre2.0.jpg"
 contributors = ["Rexburg090","ShowbizMidwest","2600:4040:59FC:D100:D581:5D5:6C8A:B1E0","ChuckECool","216.125.34.66","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE"]
 gallery = []

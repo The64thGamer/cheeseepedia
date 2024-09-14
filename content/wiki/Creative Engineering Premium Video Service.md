@@ -2,9 +2,11 @@
 title = "Creative Engineering Premium Video Service"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-08-24T15:19:24Z
+date = 08/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "PremiumServiceStart.png|Aaron Fechter discussing the PVS in a video: 'Subscription Channel Idea' on May 12, 2017."
 contributors = ["The 64th Gamer","GallaRBX2"]
 gallery = []

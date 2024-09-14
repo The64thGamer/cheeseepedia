@@ -2,9 +2,11 @@
 title = "Topeka, KS (2215 SW Wanamaker Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-23T02:31:36Z
+date = 12/23/2023
 
 [Article]
+startDate = "12/-/1990"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","ToadEatSock","CorrectorMan","Stripes"]
 gallery = []
 +++

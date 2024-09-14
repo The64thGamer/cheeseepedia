@@ -2,9 +2,11 @@
 title = "The Amazing Uncle Klunk Traveling Show (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-12-17T02:53:30Z
+date = 12/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = ["Klunkstoerapperances1.png|thumb|258x258px|Map of confirmed Klunk installations for this event.",":Kedziesigninstallationproof.png",":SpringfieldOHKlunkVAlves.png"]
 +++

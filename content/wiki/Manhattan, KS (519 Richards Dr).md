@@ -2,9 +2,11 @@
 title = "Manhattan, KS (519 Richards Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-22T22:19:13Z
+date = 06/22/2024
 
 [Article]
+startDate = "8/18/1983"
+endDate = "-/-/1993"
 pageThumbnailFile = "Manhattan KS SPP Exterior.jpg|Exterior, 1995<ref> https://www.newspapers.com/article/the-manhattan-mercury-manhattan-ks-closi/32796170/</ref>"
 contributors = ["ChuckECool","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Rexburg090","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest"]
 gallery = []

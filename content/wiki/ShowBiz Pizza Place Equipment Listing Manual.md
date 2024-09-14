@@ -2,9 +2,11 @@
 title = "ShowBiz Pizza Place Equipment Listing Manual"
 draft = false
 tags = ["Documents"]
-date = 2023-08-15T23:43:56Z
+date = 08/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "1_ab83d691e11c33fcedde2afe73edb2de.jpg|Binder First Page"
 contributors = ["The 64th Gamer"]
 gallery = []

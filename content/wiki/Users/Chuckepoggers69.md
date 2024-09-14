@@ -2,9 +2,11 @@
 title = "Chuckepoggers69"
 draft = false
 tags = ["User"]
-date = 2024-05-28T16:09:31Z
+date = 05/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Chuckepoggers69"]
 gallery = ["Chuck-e-cheeses-catonsville-0000.jpg|thumb|Exterior before May 2024"]
 +++

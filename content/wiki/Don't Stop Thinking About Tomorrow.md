@@ -2,9 +2,11 @@
 title = "Don't Stop Thinking About Tomorrow"
 draft = false
 tags = ["Live Shows"]
-date = 2023-10-27T19:09:38Z
+date = 10/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","BurgersNuggs445","RedaCEC","Awesome Dawson Films YT","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

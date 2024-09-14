@@ -2,9 +2,11 @@
 title = "Holiday Party 2010 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-12-17T20:57:16Z
+date = 12/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Ceclife13"]
 gallery = []
 +++

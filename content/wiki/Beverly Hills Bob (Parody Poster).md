@@ -2,9 +2,11 @@
 title = "Beverly Hills Bob (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-04-23T15:51:15Z
+date = 04/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Pedro (Guest Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-05-16T18:54:15Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["SuperCreamPiper2008","Documentor","CEC Tinley"]
 gallery = ["Pedro1.jpg|thumb|369x369px|Jungle Jim's Pedro"]
 +++

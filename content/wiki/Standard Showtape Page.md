@@ -2,9 +2,11 @@
 title = "Standard: Showtape Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2024-07-14T18:40:35Z
+date = 07/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

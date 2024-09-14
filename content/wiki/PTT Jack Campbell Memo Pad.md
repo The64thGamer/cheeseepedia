@@ -2,9 +2,11 @@
 title = "PTT Jack Campbell Memo Pad"
 draft = false
 tags = ["Corporate Documents"]
-date = 2023-08-23T19:49:14Z
+date = 08/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio","The 64th Gamer"]
 gallery = ["Pizza Time Theatre Memo Pad.png|thumb|Personalized memo-pad for Pizza Time Theatre Incorporated employee Jack Campbell."]
 +++

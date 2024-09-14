@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese International Show 5 2022"
 draft = false
 tags = ["Showtapes"]
-date = 2023-01-12T18:05:09Z
+date = 01/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Bowling for Cheese"]
 gallery = []
 +++

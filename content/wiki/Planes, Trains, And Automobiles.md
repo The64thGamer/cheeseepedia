@@ -2,9 +2,11 @@
 title = "Planes, Trains, And Automobiles"
 draft = false
 tags = ["Live Shows"]
-date = 2023-05-05T04:16:43Z
+date = 05/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat","BurgersNuggs445","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

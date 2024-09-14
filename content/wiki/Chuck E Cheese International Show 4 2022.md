@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese International Show 4 2022"
 draft = false
 tags = ["Showtapes"]
-date = 2022-12-06T17:08:46Z
+date = 12/06/2022
 
 [Article]
+startDate = "10/-/2022"
+endDate = ""
 contributors = ["Documentor","Showbiz Pizza International"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Standard: Tabbed Template"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-05-12T20:09:33Z
+date = 05/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

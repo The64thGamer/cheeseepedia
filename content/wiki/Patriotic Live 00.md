@@ -2,9 +2,11 @@
 title = "Patriotic Live 00"
 draft = false
 tags = ["Live Shows"]
-date = 2023-10-29T01:47:27Z
+date = 10/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

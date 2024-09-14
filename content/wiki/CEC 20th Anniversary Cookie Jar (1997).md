@@ -2,9 +2,11 @@
 title = "CEC 20th Anniversary Cookie Jar (1997)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-29T15:05:25Z
+date = 04/29/2023
 
 [Article]
+startDate = "-/-/1997"
+endDate = ""
 contributors = ["CEC Tinley","BurgersNuggs445","Ceclife13"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Fargo, ND (1202 Nodak Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-11T23:10:52Z
+date = 07/11/2024
 
 [Article]
+startDate = "2/8/1984"
+endDate = "3/18/2024"
 pageThumbnailFile = "FargoND2.0Exterior.png|A photo of the exterior after the 2.0 remodel (PC: Chuck E. Cheese)"
 contributors = ["RedaCEC","ChuckECool","Rexburg090","2605:AD80:31:11FD:CCCF:AFE5:7BDD:2B22","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","2600:387:B:3:0:0:0:2B","Bombocec","The 64th Gamer","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","CEC Tinley","CoolerDude","ThatBoiCydalan","AnthonyRWikis7283","Cheeseclassic","PachCEC","Tux Chuck","UltimatelyFun"]
 gallery = []

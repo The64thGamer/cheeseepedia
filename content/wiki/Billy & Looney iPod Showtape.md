@@ -2,9 +2,11 @@
 title = "Billy & Looney iPod Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-09T01:37:01Z
+date = 06/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","YBP123"]
 gallery = []
 +++

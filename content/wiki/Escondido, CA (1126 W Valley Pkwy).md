@@ -2,9 +2,11 @@
 title = "Escondido, CA (1126 W Valley Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-25T20:16:12Z
+date = 07/25/2023
 
 [Article]
+startDate = "1/3/2007"
+endDate = ""
 pageThumbnailFile = "desc=Escondido's exterior prior to 2.0. (PC: yelp.com)|image=New escondido lol.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 gallery = []

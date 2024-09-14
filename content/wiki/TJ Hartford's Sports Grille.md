@@ -2,9 +2,11 @@
 title = "TJ Hartford's Sports Grille"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-08-18T22:16:58Z
+date = 08/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "TJH 2003 Logo.png|April 2003 Logo"
 contributors = ["The 64th Gamer"]
 gallery = []

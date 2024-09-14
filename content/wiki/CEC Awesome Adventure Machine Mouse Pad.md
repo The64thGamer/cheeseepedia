@@ -2,9 +2,11 @@
 title = "CEC Awesome Adventure Machine Mouse Pad"
 draft = false
 tags = []
-date = 2022-11-06T00:37:09Z
+date = 11/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

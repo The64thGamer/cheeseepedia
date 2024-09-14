@@ -2,9 +2,11 @@
 title = "CEC Christmas '90 / Wave Bday"
 draft = false
 tags = ["Live Shows"]
-date = 2023-09-16T20:21:36Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","DerekCat","Rexburg090"]
 gallery = []
 +++

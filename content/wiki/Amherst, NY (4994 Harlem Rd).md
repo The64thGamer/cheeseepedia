@@ -2,9 +2,11 @@
 title = "Amherst, NY (4994 Harlem Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T15:28:13Z
+date = 07/30/2024
 
 [Article]
+startDate = "-/-/1993"
+endDate = "7/2/2020"
 pageThumbnailFile = "AmherstCEC.jpg"
 contributors = ["Save phase 5","JND","Saan1ty","AstridMascotFan2005"]
 gallery = []

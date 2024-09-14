@@ -2,9 +2,11 @@
 title = "Cyberamic Curtain Control"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-03-01T12:52:46Z
+date = 03/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Studio 18 Ent"]
 gallery = ["CYBER CURTAIN CONTROLBOX.jpg|thumb|right|The Curtain Control"]
 +++

@@ -2,9 +2,11 @@
 title = "Westland MI (208 S Wayne Rd)"
 draft = false
 tags = []
-date = 2024-09-02T21:45:50Z
+date = 09/02/2024
 
 [Article]
+startDate = "12/18/1980"
+endDate = "-/-/1986"
 pageThumbnailFile = "Westland 1982.png|The location's exterior in March 1982."
 contributors = ["ItAllStartsHereYT","CoolerDude"]
 gallery = ["Westland1.png|thumb"]

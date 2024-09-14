@@ -2,9 +2,11 @@
 title = "PTT Kooser Jasper T. Jowls Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-25T05:20:11Z
+date = 08/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

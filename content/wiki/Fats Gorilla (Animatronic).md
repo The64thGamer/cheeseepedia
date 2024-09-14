@@ -2,9 +2,11 @@
 title = "Fats Gorilla (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-09T00:59:23Z
+date = 06/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

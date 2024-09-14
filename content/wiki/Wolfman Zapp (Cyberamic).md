@@ -2,9 +2,11 @@
 title = "Wolfman Zapp (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-03-21T15:50:16Z
+date = 03/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]
 gallery = []
 +++

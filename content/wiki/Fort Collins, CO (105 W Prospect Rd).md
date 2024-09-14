@@ -2,9 +2,11 @@
 title = "Fort Collins, CO (105 W Prospect Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-23T12:02:22Z
+date = 06/23/2024
 
 [Article]
+startDate = "2/9/1982"
+endDate = ""
 pageThumbnailFile = "Fort Collins’s Exterior in May 2018 (PC- Google Maps).jpg|Fort Collins' Exterior in May 2018 (PC: Google Maps)"
 contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","CEC Tinley","Caydenpedia","CECFayetteville15"]
 gallery = []

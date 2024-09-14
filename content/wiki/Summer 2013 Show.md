@@ -2,9 +2,11 @@
 title = "Summer 2013 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-09-12T06:51:02Z
+date = 09/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","2600:1012:B044:7B02:FCBA:EF2B:7590:88A2"]
 gallery = ["New Graphic.png"]
 +++

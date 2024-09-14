@@ -2,9 +2,11 @@
 title = "Grand Prairie, TX (2760 W I-20)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-11T16:33:41Z
+date = 08/11/2024
 
 [Article]
+startDate = "9/26/2001"
+endDate = ""
 pageThumbnailFile = "desc=Exterior (December 2023)|image=Exteriorgrandprariedec2023.png"
 contributors = ["The 64th Gamer","AstridMascotFan2005"]
 gallery = []

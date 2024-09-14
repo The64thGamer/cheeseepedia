@@ -2,9 +2,11 @@
 title = "Birmingham, AL (9325 Parkway East)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-26T00:09:17Z
+date = 06/26/2023
 
 [Article]
+startDate = "5/-/1983"
+endDate = ""
 pageThumbnailFile = "desc=Street view of Roebuck, months before closure (October 2007) (PC: Google Maps)|image=Roebuck2007.png"
 contributors = ["Midwestretail","ChuckEPediaIsTheBest!","Rexburg090","ThatBoiCydalan"]
 gallery = []

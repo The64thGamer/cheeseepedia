@@ -2,9 +2,11 @@
 title = "Orsi Show"
 draft = false
 tags = ["Showtapes"]
-date = 2022-07-21T16:26:45Z
+date = 07/21/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
 gallery = [":Orsi Show Confirmation.png|Orsi Show Confirmation.png","New Graphic.png"]
 +++

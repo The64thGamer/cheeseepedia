@@ -2,9 +2,11 @@
 title = "Show Selector 1 - 4/1/91"
 draft = false
 tags = ["Showtapes"]
-date = 2021-12-16T17:06:01Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

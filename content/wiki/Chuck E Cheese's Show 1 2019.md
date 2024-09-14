@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 1 2019"
 draft = false
 tags = ["Showtapes"]
-date = 2022-07-23T17:44:57Z
+date = 07/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Mousester"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

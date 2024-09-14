@@ -2,9 +2,11 @@
 title = "Houston, TX (5535 Weslayan St)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-09T21:09:58Z
+date = 02/09/2024
 
 [Article]
+startDate = "10/6/1982"
+endDate = "9/23/2018"
 pageThumbnailFile = "desc=The store's exterior in January 2017|image=HoustonTXWeslayanExterior.jpeg"
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","2600:4040:AD76:D00:385D:200:9695:9AFC","ThatBoiCydalan","John95"]
 gallery = []

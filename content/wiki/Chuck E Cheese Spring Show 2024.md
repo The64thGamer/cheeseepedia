@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Spring Show 2024"
 draft = false
 tags = ["Live Shows"]
-date = 2024-07-21T23:44:16Z
+date = 07/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cheeseclassic","Dame0824","Documentor"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Santa Klunk On Stage Show 1985 (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-10-11T21:07:27Z
+date = 10/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Map of locations santa klunk.png|thumb|268x268px|Map of confirmed Klunk installations for this event in New York State."]
 +++

@@ -2,9 +2,11 @@
 title = "SPT 1988 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 2023-12-15T20:07:13Z
+date = 12/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Justiss hq.png|Newly remodeled Arlington, TX (Justiss Drive) Showbiz Pizza in 1993"
 contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","Documentor"]
 gallery = []

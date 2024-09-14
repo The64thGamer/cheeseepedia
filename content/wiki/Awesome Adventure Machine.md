@@ -2,9 +2,11 @@
 title = "Awesome Adventure Machine"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-03T21:14:30Z
+date = 05/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "AAM Alt Pic.png|thumb"
 contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","74.70.97.78","Cy's Junk at School"]
 gallery = ["Awesome Adventure Machine HiRes-001.jpg|thumb|411x411px|The Full AAM Stage.","NewsPaperAAM.jpg|thumb|Awesome Adventure Machine featured in a local Dallas newspaper.|554x554px","Annual Report Page.jpg|thumb|The Awesome Adventure Machine is shown on a page of the company's annual report in 1997 "]

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 2 2021 International"
 draft = false
 tags = ["Showtapes"]
-date = 2022-02-22T20:58:06Z
+date = 02/22/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

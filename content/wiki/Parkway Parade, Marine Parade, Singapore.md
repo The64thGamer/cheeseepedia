@@ -2,9 +2,11 @@
 title = "Parkway Parade, Marine Parade, Singapore"
 draft = false
 tags = ["Store List"]
-date = 2023-11-03T16:15:08Z
+date = 11/03/2023
 
 [Article]
+startDate = "12/15/1983"
+endDate = "-/-/1985"
 contributors = ["CorrectorMan","Rexburg090","BurgersNuggs445","Tux Chuck"]
 gallery = []
 +++

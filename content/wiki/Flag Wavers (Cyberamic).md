@@ -2,9 +2,11 @@
 title = "Flag Wavers (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-07-31T22:43:07Z
+date = 07/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Saan1ty"]
 gallery = ["MattFlagWaver.png|thumb|One of the flag wavers in a private collection, originally from the Corpus Christi, TX location."]
 +++

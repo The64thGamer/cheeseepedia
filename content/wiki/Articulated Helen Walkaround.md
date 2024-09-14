@@ -2,9 +2,11 @@
 title = "Articulated Helen Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-08T02:16:53Z
+date = 04/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cheerart.png|Articulated Helen Henny"
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:2C16:3458:6E45:2D9D","OnionMastori"]
 gallery = []

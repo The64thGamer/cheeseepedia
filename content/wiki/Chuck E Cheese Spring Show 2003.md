@@ -2,9 +2,11 @@
 title = "Chuck E Cheese Spring Show 2003"
 draft = false
 tags = ["Live Shows"]
-date = 2023-01-31T01:22:20Z
+date = 01/31/2023
 
 [Article]
+startDate = "4/-/2003"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

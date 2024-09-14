@@ -2,9 +2,11 @@
 title = "2022 CEC Summer of Fun Concert (Event)"
 draft = false
 tags = ["Events"]
-date = 2022-12-28T17:47:49Z
+date = 12/28/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Mousester","The 64th Gamer","Himitsu"]
 gallery = ["SoF22-Concert-HeaderDesktop 1440x600-1024x427.jpg|thumb|490x490px"]
 +++

@@ -2,9 +2,11 @@
 title = "Creative Engineering Twitter"
 draft = false
 tags = []
-date = 2022-08-30T20:19:22Z
+date = 08/30/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

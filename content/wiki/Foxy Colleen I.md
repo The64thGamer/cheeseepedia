@@ -2,9 +2,11 @@
 title = "Foxy Colleen I"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-05T18:52:56Z
+date = 08/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

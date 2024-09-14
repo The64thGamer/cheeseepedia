@@ -2,9 +2,11 @@
 title = "Chuck E.'s House Facade"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-08-08T02:25:30Z
+date = 08/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Scan_20210926_3.jpg|Portland, OR Pizza Time Theatre"
 contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","173.216.33.6","BurgersNuggs445","JamesLemony","Rexburg090","ShowbizMidwest","216.125.34.66","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","Documentor","TestAccount6777","Stripes"]
 gallery = []

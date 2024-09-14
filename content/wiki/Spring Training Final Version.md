@@ -2,9 +2,11 @@
 title = "Spring Training Final Version"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-01T04:36:22Z
+date = 02/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Beach Bear (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:42:03Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","2601:406:4100:F180:24E6:DD36:BF9D:8F3","CEC Tinley","Cy's Junk at School","Animatronicbrainrot","CECMentor","Livelycheese","Stripes"]
 gallery = ["CEC CU Vestavia Hills AL--004.jpg|thumb|299x299px|Jasper T. Jowls Retrofit (Latex Mask)|left"]
 +++

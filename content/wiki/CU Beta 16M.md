@@ -2,9 +2,11 @@
 title = "CU Beta 16M"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-08-29T01:26:51Z
+date = 08/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","ShowbizMidwest","Documentor","2603:6011:5901:C300:8CAA:5C5E:450A:823E","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
 gallery = ["Darien.jpg|thumb|396x396px|The first CU Beta in September 2022 (PC: pasquallytheplumber)",":Sbfan.png"]
 +++

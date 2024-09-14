@@ -2,9 +2,11 @@
 title = "RAE Christmas '81"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-26T03:21:35Z
+date = 12/26/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "CEC Xmas 1991 Show"
 draft = false
 tags = ["APS Showtapes"]
-date = 2022-07-16T15:49:52Z
+date = 07/16/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat","Montfortdog"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

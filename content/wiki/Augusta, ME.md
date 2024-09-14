@@ -2,9 +2,11 @@
 title = "Augusta, ME"
 draft = false
 tags = ["Store List"]
-date = 2024-04-12T04:29:00Z
+date = 04/12/2024
 
 [Article]
+startDate = "-/-/2003"
+endDate = ""
 contributors = ["PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Tulsa, OK (10123 E Admiral Place)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-31T04:24:11Z
+date = 07/31/2023
 
 [Article]
+startDate = "-/-/1982"
+endDate = "-/-/1985"
 contributors = ["Chuckstar69"]
 gallery = ["Ptt tulsa 2022.png|thumb|Thr site of the former ptt as of right now. (PC: Google Maps)"]
 +++

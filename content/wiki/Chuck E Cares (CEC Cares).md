@@ -2,9 +2,11 @@
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-12-06T04:03:17Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Imagececcare.png|Charity Logo"
 contributors = ["The 64th Gamer"]
 gallery = []

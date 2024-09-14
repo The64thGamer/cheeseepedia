@@ -2,9 +2,11 @@
 title = "Kokomo, IN (1919 South Reed Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-09T04:15:49Z
+date = 07/09/2024
 
 [Article]
+startDate = "4/6/2004"
+endDate = ""
 contributors = ["Midwestretail","2600:4040:5A0E:D900:ACE2:E035:4385:1E5C","CorrectorMan","Documentor","TheChuckECheeseGuy","Livelycheese"]
 gallery = ["Near-20th year.jpg|thumb|Kokomo's exterior as of 2023. (PC: Google Maps)"]
 +++

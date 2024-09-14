@@ -2,9 +2,11 @@
 title = "New Beatles"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-12T23:21:58Z
+date = 09/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Letterstolooneybird","The 64th Gamer"]
 gallery = []
 +++

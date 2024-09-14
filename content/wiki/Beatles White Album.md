@@ -2,9 +2,11 @@
 title = "Beatles White Album"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-11T02:35:20Z
+date = 10/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Fall festival calendar.png|thumb|267x267px|Fall Festival Calendar"]
 +++

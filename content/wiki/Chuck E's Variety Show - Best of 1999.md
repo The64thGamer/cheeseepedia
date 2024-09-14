@@ -2,9 +2,11 @@
 title = "Chuck E's Variety Show - Best of 1999"
 draft = false
 tags = ["Live Shows"]
-date = 2024-04-04T23:34:20Z
+date = 04/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Ceclife13","John95","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

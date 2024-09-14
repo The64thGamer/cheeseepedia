@@ -2,9 +2,11 @@
 title = "Studio C Beta Prototype"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-07-17T01:29:48Z
+date = 07/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Athenscec2.png|Full view of the first prototype installed at Athens, GA (2011)"
 contributors = ["CECBowlingGreen","Documentor","Ceclife13","ShowbizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]
 gallery = [":Stsc1.png"]

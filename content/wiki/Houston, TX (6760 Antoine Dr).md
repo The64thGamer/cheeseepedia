@@ -2,9 +2,11 @@
 title = "Houston, TX (6760 Antoine Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-07T15:26:54Z
+date = 09/07/2024
 
 [Article]
+startDate = "7/15/1981"
+endDate = "9/-/2006"
 pageThumbnailFile = "desc=The store's exterior before closure. (January 18, 2006)|image=Antoine 011806.jpg"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","Midwestretail","Pizzaman49","SuperCreamPiper2008","ItzaRob","Saan1ty","ShowbizMidwest","CEC1988"]
 gallery = []

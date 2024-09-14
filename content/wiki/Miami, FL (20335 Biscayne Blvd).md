@@ -2,9 +2,11 @@
 title = "Miami, FL (20335 Biscayne Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-31T03:02:32Z
+date = 05/31/2023
 
 [Article]
+startDate = "5/27/1993"
+endDate = ""
 contributors = ["Rexburg090"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-08-09T18:44:36Z
+date = 08/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Maincurrentceclogomomenta.png|Current Logo"
 contributors = ["The 64th Gamer","Cheeseclassic","RavensFlock4L"]
 gallery = [":Lowvolumesignageimage.png",":Riptothesaladbarsmh.png",":Interviewlogmay11.png",":The newsiest moment 1.png",":The newsiest moment 2.png",":Ninjarunmoment1.png",":Pizzacamatpinervillen.png",":Hicksvilleifitwasactuallyarealplace.png",":Cecapprewardsannouncementmomemnt1.png"]

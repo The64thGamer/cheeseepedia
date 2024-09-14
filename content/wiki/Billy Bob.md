@@ -2,9 +2,11 @@
 title = "Billy Bob"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T01:40:11Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["Higher quality Billy Bob.png|thumb|Billy Bobs design as of 2024."]
 +++

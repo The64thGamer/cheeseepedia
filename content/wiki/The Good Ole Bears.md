@@ -2,9 +2,11 @@
 title = "The Good Ole Bears"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-23T20:19:06Z
+date = 08/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Gussygoose"]
 gallery = ["Goodbears1.png|left|thumb|309x309px|Picture From ITV taken around installation","Imagebears.png|thumb|Vintage Photo ","The beres.png|thumb|Image taken after the restoration (creds to reminaprod)","Bears2.png|left|thumb|Image used as stock image"]
 +++

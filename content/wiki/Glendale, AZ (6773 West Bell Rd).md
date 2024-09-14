@@ -2,9 +2,11 @@
 title = "Glendale, AZ (6773 West Bell Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T13:32:54Z
+date = 07/30/2024
 
 [Article]
+startDate = "6/29/2005"
+endDate = "5/-/2020"
 pageThumbnailFile = "desc=Glendale's exterior in March 2019 (PC: Google Maps) |image=Screenshot 2023-06-11 182031.png"
 contributors = ["RockyRhoad07","ThatBoiCydalan","2600:4040:5A0E:D900:6500:272E:6953:1FCD","GabrielPennington9864","CorrectorMan","BurgersNuggs445","Chez","AstridMascotFan2005"]
 gallery = []

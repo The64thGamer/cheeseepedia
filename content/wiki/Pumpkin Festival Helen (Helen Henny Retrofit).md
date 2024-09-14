@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Helen (Helen Henny Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2022-12-07T19:13:04Z
+date = 12/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["Pumpkin Festival Helen.jpg|thumb|403x403px|Pumpkin Festival Colerain"]
 +++

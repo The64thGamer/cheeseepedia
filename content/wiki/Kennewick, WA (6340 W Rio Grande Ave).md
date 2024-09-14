@@ -2,9 +2,11 @@
 title = "Kennewick, WA (6340 W Rio Grande Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-16T20:17:13Z
+date = 08/16/2023
 
 [Article]
+startDate = "10/1/2018"
+endDate = ""
 contributors = ["47.17.236.200","CorrectorMan"]
 gallery = []
 +++

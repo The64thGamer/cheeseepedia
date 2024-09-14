@@ -2,9 +2,11 @@
 title = "Sunrise, FL (8099 W Oakland Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T13:31:21Z
+date = 07/30/2024
 
 [Article]
+startDate = "4/16/1991"
+endDate = ""
 pageThumbnailFile = "Exterior Sunrise (2024).jpg|Exterior in April 2024."
 contributors = ["ChuckECool","Rexburg090","216.125.34.66","CEC Tinley","ThatBoiCydalan","Stripes","AstridMascotFan2005"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "SPP June 1990 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-16T15:32:01Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

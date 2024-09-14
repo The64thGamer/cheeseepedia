@@ -2,9 +2,11 @@
 title = "Rockford, IL (3600 E State St)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-03T18:56:29Z
+date = 08/03/2024
 
 [Article]
+startDate = "10/30/1988"
+endDate = ""
 pageThumbnailFile = "RockfordIL2.0Exterior.png|A photo of Rockford IL's 2.0 exterior. (August 2022)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan","ShowbizMidwest","Rexburg090","Awesome Dawson Films YT","RedaCEC","BurgersNuggs445","216.125.34.66","CorrectorMan","2600:4040:5A0E:D900:9C7A:2F9A:EB08:9D7F","Cheeseclassic","CECMentor","Chuck E theatre"]
 gallery = []

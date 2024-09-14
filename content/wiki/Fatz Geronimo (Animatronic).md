@@ -2,9 +2,11 @@
 title = "Fatz Geronimo (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:39:27Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","Livelycheese","Stripes"]
 gallery = ["CEC_CU_Vestavia_Hills_AL--003.jpg|thumb|299x299px|Mr. Munch Retrofit (Latex Mask)|left"]
 +++

@@ -2,9 +2,11 @@
 title = "SPP Emergency Backup Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-05T18:18:13Z
+date = 10/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []
 +++

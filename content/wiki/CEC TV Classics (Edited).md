@@ -2,9 +2,11 @@
 title = "CEC TV Classics (Edited)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-09-04T21:17:08Z
+date = 09/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++

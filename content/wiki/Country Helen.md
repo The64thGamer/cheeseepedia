@@ -2,9 +2,11 @@
 title = "Country Helen"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = 2022-10-18T20:06:08Z
+date = 10/18/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","mh:decodedocdigitize>Unknown user"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

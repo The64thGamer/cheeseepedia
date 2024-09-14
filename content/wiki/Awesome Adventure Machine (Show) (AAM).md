@@ -2,9 +2,11 @@
 title = "Awesome Adventure Machine (Show) (AAM)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-03-23T23:41:38Z
+date = 03/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CyCGM"]
 gallery = []
 +++

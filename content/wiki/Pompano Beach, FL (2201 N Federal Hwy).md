@@ -2,9 +2,11 @@
 title = "Pompano Beach, FL (2201 N Federal Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-07T21:20:20Z
+date = 07/07/2023
 
 [Article]
+startDate = "11/17/2014"
+endDate = ""
 pageThumbnailFile = "Pompano beach fl cec exterior 2023-06-22.jpg|Exterior, June 22nd, 2023 (PC: Sıla Yılmaz)"
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]
 gallery = []

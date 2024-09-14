@@ -2,9 +2,11 @@
 title = "Clarksville, IN (1100 E State Hwy 131)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-17T16:05:20Z
+date = 04/17/2024
 
 [Article]
+startDate = "11/11/2003"
+endDate = ""
 contributors = ["Cyberamics","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
 +++

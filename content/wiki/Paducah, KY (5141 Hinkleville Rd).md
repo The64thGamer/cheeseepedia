@@ -2,9 +2,11 @@
 title = "Paducah, KY (5141 Hinkleville Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-01T04:27:36Z
+date = 01/01/2024
 
 [Article]
+startDate = "12/9/1982"
+endDate = ""
 pageThumbnailFile = "Paduch ky exterior.jpg|The store's exterior as of today."
 contributors = ["CECBowlingGreen","Rexburg090","Chuckstar69","ThatBoiCydalan","Japoople","The 64th Gamer"]
 gallery = []

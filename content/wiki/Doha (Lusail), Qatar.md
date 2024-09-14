@@ -2,9 +2,11 @@
 title = "Doha (Lusail), Qatar"
 draft = false
 tags = ["Store List"]
-date = 2023-05-15T13:17:54Z
+date = 05/15/2023
 
 [Article]
+startDate = "11/-/2022"
+endDate = ""
 contributors = ["ChuckEPediaIsTheBest!","CEC Tinley"]
 gallery = ["CECQatarLusail.jpg|thumb|Exterior in November 2022. Picture Credit to Sameer C Thiruthikad on Google Maps."]
 +++

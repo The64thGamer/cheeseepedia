@@ -2,9 +2,11 @@
 title = "Rock-afire Explosion"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-03T17:34:34Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "RockafireclassicHDscan.png|Show Stage (Unknown Year)"
 contributors = ["The 64th Gamer","Newbie editor","CECMentor","Stripes"]
 gallery = []

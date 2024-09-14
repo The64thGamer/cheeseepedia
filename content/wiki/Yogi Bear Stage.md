@@ -2,9 +2,11 @@
 title = "Yogi Bear Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2023-12-31T16:40:25Z
+date = 12/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer","ChuckECool","216.125.34.66","Cheeseclassic"]
 gallery = ["Yogi01.jpg|thumb|243x243px|Concept art of the Yogi Bear Stage.","Yogi03.jpg|thumb|The prototype Yogi Bear animatronic being built by Jul Kamen","Tumblr nmkhhg6K361u65bxno2 1280.jpg|thumb|The Yogi Bear Stage next to center stage of the Rock-Afire Explosion.","Yogi sm.jpg|thumb|Up-close picture of the Yogi Bear Stage."]
 +++

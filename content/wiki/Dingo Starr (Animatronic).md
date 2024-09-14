@@ -2,9 +2,11 @@
 title = "Dingo Starr (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-11T00:09:37Z
+date = 06/11/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

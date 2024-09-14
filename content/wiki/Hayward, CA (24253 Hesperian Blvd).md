@@ -2,9 +2,11 @@
 title = "Hayward, CA (24253 Hesperian Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-13T05:50:02Z
+date = 07/13/2024
 
 [Article]
+startDate = "4/-/1981"
+endDate = "-/-/1995"
 contributors = ["SuperCreamPiper2008","Cheeseclassic","Veronancy","CECMadison","Floorplanmuncher"]
 gallery = []
 +++

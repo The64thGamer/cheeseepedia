@@ -2,9 +2,11 @@
 title = "Salute to America (PTT Theme)"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-21T14:48:05Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "The theme being used in a uknown PTT location..png|The Stage set up at an unknown location."
 contributors = ["Jonn","PizzaEntertainmentFanX","CECMentor"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "June 2010 Show"
 draft = false
 tags = []
-date = 2022-05-08T19:40:21Z
+date = 05/08/2022
 
 [Article]
+startDate = "6/-/2010"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++

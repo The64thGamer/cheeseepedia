@@ -2,9 +2,11 @@
 title = "Conflict Resolution April 2010"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-02-20T14:55:27Z
+date = 02/20/2023
 
 [Article]
+startDate = "-/-/2010"
+endDate = ""
 pageThumbnailFile = "Conflictresolution2010.png|DVD Picture"
 contributors = ["The 64th Gamer"]
 gallery = []

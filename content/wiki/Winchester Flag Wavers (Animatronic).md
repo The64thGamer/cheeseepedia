@@ -2,9 +2,11 @@
 title = "Winchester Flag Wavers (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-28T16:43:50Z
+date = 02/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX"]
 gallery = []
 +++

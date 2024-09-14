@@ -2,9 +2,11 @@
 title = "Beach Bear (Wolf Pack 5 Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-11T00:26:29Z
+date = 06/11/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

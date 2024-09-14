@@ -2,9 +2,11 @@
 title = "Tucson, AZ (6130 E Speedway Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T21:54:32Z
+date = 07/29/2024
 
 [Article]
+startDate = "4/-/1995"
+endDate = ""
 pageThumbnailFile = "Speedway2000s.jpg|Picture of this location shortly after a remodel. (PC: burlavin.com)"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:C45C:F043:3504:84FE","ThatBoiCydalan","Midwestretail","ShowbizMidwest","2600:4040:5A0E:D900:6500:272E:6953:1FCD","68.84.199.239","SinStar","Chez","AstridMascotFan2005"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Bear Review Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-21T13:23:17Z
+date = 09/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Nebbytales"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

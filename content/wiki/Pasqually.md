@@ -2,9 +2,11 @@
 title = "Pasqually"
 draft = false
 tags = ["Characters"]
-date = 2024-06-04T15:56:41Z
+date = 06/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 gallery = ["PasquallyRockstar.png|thumb|Pasqually's current design as of 2024."]
 +++

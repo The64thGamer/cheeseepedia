@@ -2,9 +2,11 @@
 title = "Chuck E's Duckies"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-10-13T18:23:01Z
+date = 10/13/2023
 
 [Article]
+startDate = "-/-/2000"
+endDate = ""
 pageThumbnailFile = "Chuck e's duckies north bergen.jpg|A Chuck E.'s Duckies machine at the Chuck E. Cheese location in North Bergen, NJ"
 contributors = ["Pasquallytheplumber","The 64th Gamer","69.85.235.229","GuestIsJustBest","Stripes","69.85.235.224"]
 gallery = ["Wacky ducks arcade flyer.jpg|thumb|Flyer for Wacky Ducks, on which Chuck E.'s Duckies is based|283x283px"]

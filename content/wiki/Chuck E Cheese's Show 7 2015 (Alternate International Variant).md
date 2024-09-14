@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 7 2015 (Alternate International Variant)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-31T15:27:55Z
+date = 07/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","AstridMascotFan2005"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "The Rock-afire Explosion Documentary"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-02-29T18:26:35Z
+date = 02/29/2024
 
 [Article]
+startDate = "9/27/2008"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":Originaldoccutcitation.png"]
 +++

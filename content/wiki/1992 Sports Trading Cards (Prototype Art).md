@@ -2,9 +2,11 @@
 title = "1992 Sports Trading Cards (Prototype Art)"
 draft = false
 tags = []
-date = 2023-01-15T14:18:27Z
+date = 01/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Unknown (3).png|Top half at the SPT Support Center (2014)"
 contributors = ["BurgersNuggs445"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "B.B. Bubbles (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-22T12:44:55Z
+date = 05/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckE1352","JamesLemony","The 64th Gamer","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++

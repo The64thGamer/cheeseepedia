@@ -2,9 +2,11 @@
 title = "Sayville, NY (5750 Sunrise Highway 11782)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 2022-10-05T19:07:49Z
+date = 10/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckE1352"]
 gallery = ["Fun station RAE.jpg|thumb"]
 +++

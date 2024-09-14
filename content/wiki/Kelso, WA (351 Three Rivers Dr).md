@@ -2,9 +2,11 @@
 title = "Kelso, WA (351 Three Rivers Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-19T02:01:44Z
+date = 05/19/2023
 
 [Article]
+startDate = "12/22/2004"
+endDate = "4/6/2014"
 pageThumbnailFile = "desc=Exterior photo, taken at an unknown date. (PC: Foursquare)|image=Kelsoexterior.jpg"
 contributors = ["Midwestretail","Rexburg090","ThatBoiCydalan"]
 gallery = []

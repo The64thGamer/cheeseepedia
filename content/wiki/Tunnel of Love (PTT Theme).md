@@ -2,9 +2,11 @@
 title = "Tunnel of Love (PTT Theme)"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-21T14:38:41Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","JamesLemony","CECMentor"]
 gallery = []
 +++

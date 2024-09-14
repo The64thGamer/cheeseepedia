@@ -2,9 +2,11 @@
 title = "Burnaby, British Columbia, Canada (9898 Government Pl)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-20T17:01:04Z
+date = 04/20/2024
 
 [Article]
+startDate = "12/-/1983"
+endDate = "-/-/1995"
 contributors = ["Synthpuppy","Chuck E Cheese Fan2003","SuperCreamPiper2008"]
 gallery = []
 +++

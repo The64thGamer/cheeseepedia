@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
 tags = []
-date = 2024-09-12T01:30:23Z
+date = 09/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","SonicFazbear","129.222.82.23","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","2600:6C44:97F:D312:E0C5:6036:5291:CEE2","CEC Tinley","70.161.136.174","BoyInCharge55","Saan1ty","CorrectorMan","ShowbizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
 gallery = ["Chuck E2.jpg|thumb|300x300px|A Portrait Chuck bot with custom clothing at [[Huntington Beach, CA (15511 Edwards St)|Huntington Beach, CA","Chuckcyberproperimage.png|200px|thumb|Left|Prior to C Stages, Rockers, and 1/2/Road Stages"]
 +++

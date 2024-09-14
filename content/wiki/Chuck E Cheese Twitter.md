@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Twitter"
 draft = false
 tags = []
-date = 2022-08-30T19:32:36Z
+date = 08/30/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

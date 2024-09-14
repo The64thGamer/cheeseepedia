@@ -2,9 +2,11 @@
 title = "Katy, TX (2002 Gulfmont Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-02T02:32:49Z
+date = 09/02/2024
 
 [Article]
+startDate = "12/30/2001"
+endDate = ""
 pageThumbnailFile = "IMG 1919.jpeg|The store's exterior before receiving 2.0 Remodel"
 contributors = ["JND","ThatBoiCydalan"]
 gallery = []

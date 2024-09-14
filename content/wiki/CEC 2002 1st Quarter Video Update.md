@@ -2,9 +2,11 @@
 title = "CEC 2002 1st Quarter Video Update"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2022-04-05T18:09:32Z
+date = 04/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

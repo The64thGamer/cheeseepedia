@@ -2,9 +2,11 @@
 title = "Friday Night Neon"
 draft = false
 tags = ["Showtapes"]
-date = 2022-04-03T01:40:01Z
+date = 04/03/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

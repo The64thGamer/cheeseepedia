@@ -2,9 +2,11 @@
 title = "Mr, Munch 1995 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-05-16T16:51:49Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","Documentor","CEC Tinley"]
 gallery = ["MunchHead1995.jpg|thumb|1995 munch head without hat and wearing 3 stage hair"]
 +++

@@ -2,9 +2,11 @@
 title = "Fun Zone & Pizza"
 draft = false
 tags = []
-date = 2024-08-17T14:55:34Z
+date = 08/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Unk5321nown.png|The exterior of the Fun Zone & Pizza in Chico, California during its time opened in 2011."
 contributors = ["PizzaEntertainmentFanX","BenTrainFan2000"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Southgate, MI (15300 Toledo Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-24T21:23:44Z
+date = 07/24/2024
 
 [Article]
+startDate = "6/17/1982"
+endDate = ""
 pageThumbnailFile = "desc=Exterior (2018)|image=Southgate2018GoogleMapsScreenshot.jpeg"
 contributors = ["ChuckECool","Rexburg090","174.131.44.53","ItAllStartsHereYT","The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Kooser Dolli Dimples (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-21T15:46:15Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CEC","CEC Tinley","212.34.100.68","Ceclife13","Concordio","PizzaEntertainmentFanX","FileFickle","CECMentor"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "May 2011 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-30T06:13:04Z
+date = 09/30/2023
 
 [Article]
+startDate = "1/-/2011"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","Mousester","Chuck E. Cheese's Illinois","John95","73.160.122.78","2600:1012:B0C4:B739:21B2:F5EC:1E22:8C14","2600:1012:B048:26A9:90B0:716A:6B8B:88A"]
 gallery = []
 +++

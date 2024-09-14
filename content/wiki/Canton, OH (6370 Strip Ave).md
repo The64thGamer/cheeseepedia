@@ -2,9 +2,11 @@
 title = "Canton, OH (6370 Strip Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-20T00:42:17Z
+date = 06/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CantonExt.png|Canton's exterior as of 2022"
 contributors = ["EagleScout610","ThatBoiCydalan","Chuckstar69","CorrectorMan","CEC Tinley","Livelycheese"]
 gallery = []

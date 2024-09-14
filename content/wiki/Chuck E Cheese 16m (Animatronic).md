@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese 16m (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-07-04T00:35:06Z
+date = 07/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","CorrectorMan"]
 gallery = []
 +++

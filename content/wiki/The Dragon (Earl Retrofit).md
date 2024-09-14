@@ -2,9 +2,11 @@
 title = "The Dragon (Earl Retrofit)"
 draft = false
 tags = ["TexasStateFair"]
-date = 2022-07-19T19:20:59Z
+date = 07/19/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Sonichacker","Mousester"]
 gallery = ["The Dragon Earl Retrofit in Ride.jpg|thumb|The Dragon within the Ride"]
 +++

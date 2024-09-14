@@ -2,9 +2,11 @@
 title = "Alexandria, LA (1725 Metro Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-04T16:50:47Z
+date = 08/04/2024
 
 [Article]
+startDate = "6/27/1983"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisneyfan2004","Thecheesymanfromschool","The 64th Gamer","AstridMascotFan2005"]
 gallery = ["AlexandriaLAExterior2021DecemberGoogleMaps.png|thumb|Street view of the exterior before the 2.0 remodel (December 2021) (PC: Google Maps)"]
 +++

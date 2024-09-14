@@ -2,9 +2,11 @@
 title = "Crazy Colander Head Night (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-10-11T03:36:09Z
+date = 10/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Showbizemployeecolander.png|A ShowBiz employee wearing a decorated colander."
 contributors = ["The 64th Gamer"]
 gallery = ["Scrapbookofcolanderheadscei.png|thumb|One of the 9 massive scrapbooks detailing every photo of a Colander Head<ref name=':2'>https://www.youtube.com/watch?v=Z_hEpYCgOsI</ref>","Beachbearcolandersecret.png|thumb|239x239px|Beach Bear wearing a colander on the back of the 'Gee, Our 1st Album' cover."]

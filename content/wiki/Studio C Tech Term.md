@@ -2,9 +2,11 @@
 title = "Studio C Tech Term"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-03-22T20:02:13Z
+date = 03/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Tech term.png|Studio C Technician Terminal"
 contributors = ["The 64th Gamer","GallaRBX","Himitsu"]
 gallery = []

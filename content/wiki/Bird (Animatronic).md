@@ -2,9 +2,11 @@
 title = "Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-04-29T23:54:01Z
+date = 04/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","EagleScout610","Ceclife13","Documentor","CoolerDude"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Mentor, OH (7900 Plaza Blvd)"
 draft = false
 tags = []
-date = 2024-05-21T16:43:04Z
+date = 05/21/2024
 
 [Article]
+startDate = "6/-/1982"
+endDate = ""
 pageThumbnailFile = "MentorPTT.jpeg|Mentor's Exterior in the Late 80s"
 contributors = ["EagleScout610","Rexburg090","RedaCEC","173.216.33.6","Midwestretail","CEC Tinley","ChuckECool","SuperCreamPiper2008","CECMentor"]
 gallery = []

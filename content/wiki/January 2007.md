@@ -2,9 +2,11 @@
 title = "January 2007"
 draft = false
 tags = ["Live Shows"]
-date = 2023-08-11T07:39:12Z
+date = 08/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
 gallery = []
 +++

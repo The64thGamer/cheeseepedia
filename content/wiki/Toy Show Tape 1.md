@@ -2,9 +2,11 @@
 title = "Toy Show Tape 1"
 draft = false
 tags = ["Showtapes"]
-date = 2022-05-26T04:16:40Z
+date = 05/26/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Granada Hills, CA (16269 San Fernando Mission)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-28T22:59:08Z
+date = 07/28/2024
 
 [Article]
+startDate = "-/-/1981"
+endDate = ""
 pageThumbnailFile = "Granada Hill's Exterior, 2010's.jpg|Exterior, 2010's (PC: BusinessYab)"
 contributors = ["Pizzaman49","Cheeseclassic","AstridMascotFan2005"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
 tags = ["Merchandise"]
-date = 2023-09-24T14:47:50Z
+date = 09/24/2023
 
 [Article]
+startDate = "-/-/1999"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

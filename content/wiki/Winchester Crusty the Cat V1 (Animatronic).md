@@ -2,9 +2,11 @@
 title = "Winchester Crusty the Cat V1 (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-23T14:44:59Z
+date = 05/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["EagleScout610","KPIZZA03","The 64th Gamer","216.125.34.66","Lelmaster","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++

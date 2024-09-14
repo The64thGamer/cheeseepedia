@@ -2,9 +2,11 @@
 title = "Wyomissing, PA (2721 N Meridian Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-04T02:55:14Z
+date = 07/04/2024
 
 [Article]
+startDate = "12/20/2000"
+endDate = ""
 contributors = ["Cheezy","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","Caydenpedia","Livelycheese"]
 gallery = ["Wyomissing, PA Exterior.png|thumb|Wyomissing Exterior (July 2024)"]
 +++

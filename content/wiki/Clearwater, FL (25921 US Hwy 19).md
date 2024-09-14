@@ -2,9 +2,11 @@
 title = "Clearwater, FL (25921 US Hwy 19)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T16:06:48Z
+date = 07/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "2024-06-05.jpg|Exterior in 2024."
 contributors = ["ChuckfeldStan","CorrectorMan","ShowbizMidwest","ThatBoiCydalan","TuxChuckisNo1","AstridMascotFan2005"]
 gallery = []

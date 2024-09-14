@@ -2,9 +2,11 @@
 title = "Awesome Adventure Machine (Show)"
 draft = false
 tags = ["Live Shows"]
-date = 2022-11-29T21:50:34Z
+date = 11/29/2022
 
 [Article]
+startDate = "-/-/1996"
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","Mousester","BurgersNuggs445"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

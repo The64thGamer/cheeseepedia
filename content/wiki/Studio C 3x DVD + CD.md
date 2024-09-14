@@ -2,9 +2,11 @@
 title = "Studio C 3x DVD + CD"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-12-04T01:55:54Z
+date = 12/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ElWarlos35"]
 gallery = []
 +++

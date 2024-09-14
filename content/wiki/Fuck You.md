@@ -2,9 +2,11 @@
 title = "Fuck You"
 draft = false
 tags = ["Showtapes"]
-date = 2024-04-27T17:37:15Z
+date = 04/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["StudioC","The 64th Gamer","Documentor","Cy's Junk at School"]
 gallery = ["New Graphic.png"]
 +++

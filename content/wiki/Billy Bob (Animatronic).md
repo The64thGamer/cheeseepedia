@@ -2,9 +2,11 @@
 title = "Billy Bob (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:35:51Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","Livelycheese","Stripes"]
 gallery = []
 +++

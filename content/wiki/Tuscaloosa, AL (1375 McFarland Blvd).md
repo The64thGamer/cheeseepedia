@@ -2,9 +2,11 @@
 title = "Tuscaloosa, AL (1375 McFarland Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-26T22:29:49Z
+date = 08/26/2024
 
 [Article]
+startDate = "11/-/2003"
+endDate = ""
 pageThumbnailFile = "tuscaloosa al cec before closure.png|Exterior before being destroyed by a tornado"
 contributors = ["ThatBoiCydalan","Cy's Junk at School"]
 gallery = []

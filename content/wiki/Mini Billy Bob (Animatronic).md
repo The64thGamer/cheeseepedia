@@ -2,9 +2,11 @@
 title = "Mini Billy Bob (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-08T22:04:59Z
+date = 02/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","CEC Tinley","GallaRBX2"]
 gallery = ["Prototype Mini Billy Bob.png|thumb|337x337px|Prototype Miniature Billy Bob show"]
 +++

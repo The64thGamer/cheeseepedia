@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese 'Running a Quality Shift'"
 draft = false
 tags = []
-date = 2023-03-27T01:21:59Z
+date = 03/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

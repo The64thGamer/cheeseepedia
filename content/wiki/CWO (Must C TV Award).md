@@ -2,9 +2,11 @@
 title = "'CWO' (Must C TV Award)"
 draft = false
 tags = []
-date = 2023-09-23T08:37:13Z
+date = 09/23/2023
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445","77.101.174.24"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Jasper T. Jowls Olympics Glass (1980)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-01-04T21:16:33Z
+date = 01/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Jonn"]
 gallery = ["JASPER T. OLYMPIC.png|thumb|Jasper T. Jowls Olympic Glass *front*"]
 +++

@@ -2,9 +2,11 @@
 title = "Green Bay, WI (1273 Lombardi Access)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-15T15:41:08Z
+date = 03/15/2024
 
 [Article]
+startDate = "10/28/1982"
+endDate = ""
 contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","66.250.190.24","Tux Chuck"]
 gallery = []
 +++

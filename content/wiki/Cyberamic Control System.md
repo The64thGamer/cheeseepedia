@@ -2,9 +2,11 @@
 title = "Cyberamic Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2024-07-08T02:28:59Z
+date = 07/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cyber Control s.png|Cyberamic Control Center"
 contributors = ["The 64th Gamer","Palazzol"]
 gallery = ["Yellow cyberamic case.png|thumb|227x227px|Yellow Control Board"]

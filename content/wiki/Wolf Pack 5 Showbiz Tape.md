@@ -2,9 +2,11 @@
 title = "Wolf Pack 5 Showbiz Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-18T18:38:44Z
+date = 12/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

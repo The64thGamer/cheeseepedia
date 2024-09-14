@@ -2,9 +2,11 @@
 title = "Hampton, VA (5 Towne Centre Way)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-02T19:56:01Z
+date = 01/02/2024
 
 [Article]
+startDate = "5/-/2002"
+endDate = ""
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

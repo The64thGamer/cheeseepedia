@@ -2,9 +2,11 @@
 title = "CEC Employee Red Shirt (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = 2024-01-31T04:13:36Z
+date = 01/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "UTY Apparel Polo.jpg|The UTY Apparel variant of the polo."
 contributors = ["Cam.i77","The 64th Gamer"]
 gallery = []

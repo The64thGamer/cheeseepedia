@@ -2,9 +2,11 @@
 title = "3-Stage Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-05-31T19:24:44Z
+date = 05/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Himitsu","Ls2018-1"]
 gallery = []
 +++

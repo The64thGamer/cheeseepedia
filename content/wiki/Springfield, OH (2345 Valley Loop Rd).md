@@ -2,9 +2,11 @@
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T15:22:51Z
+date = 07/30/2024
 
 [Article]
+startDate = "1/12/1983"
+endDate = ""
 pageThumbnailFile = "Springfield OH 2.0.jpg|Exterior, 2023"
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []

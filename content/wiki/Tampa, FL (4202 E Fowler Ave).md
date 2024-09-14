@@ -2,9 +2,11 @@
 title = "Tampa, FL (4202 E Fowler Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-07T12:57:50Z
+date = 08/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Tampafllocationcitationaaron.png|Newspaper Mention"
 contributors = ["The 64th Gamer","Cy's Junk at School","CoolerDude"]
 gallery = []

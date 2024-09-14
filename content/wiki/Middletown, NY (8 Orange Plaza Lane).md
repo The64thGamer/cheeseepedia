@@ -2,9 +2,11 @@
 title = "Middletown, NY (8 Orange Plaza Lane)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-07T23:03:58Z
+date = 04/07/2024
 
 [Article]
+startDate = "12/17/2002"
+endDate = "10/22/2017"
 pageThumbnailFile = "CEC EXTERIOR BEFORE CLOSURE.png|Exterior, 2017"
 contributors = ["Cheeseclassic"]
 gallery = []

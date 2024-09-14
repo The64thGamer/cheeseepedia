@@ -2,9 +2,11 @@
 title = "Chandler, AZ (2977 W Frye Rd)"
 draft = false
 tags = []
-date = 2024-08-02T17:44:12Z
+date = 08/02/2024
 
 [Article]
+startDate = "4/-/2015"
+endDate = ""
 pageThumbnailFile = "Chandlerexterior.jpg|Exterior, April 2023"
 contributors = ["Chez","Cheeseclassic","CECswag2009","Documentor"]
 gallery = []

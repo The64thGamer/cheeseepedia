@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Northridge Summer Show 2024 Part 2"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-30T23:11:51Z
+date = 07/30/2024
 
 [Article]
+startDate = "7/8/2024"
+endDate = ""
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
 gallery = []
 +++

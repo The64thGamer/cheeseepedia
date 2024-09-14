@@ -2,9 +2,11 @@
 title = "SPP Faith/Dreams/Kids Wave Bday"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 2024-01-28T22:18:54Z
+date = 01/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = []
 +++

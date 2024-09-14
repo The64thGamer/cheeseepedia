@@ -2,9 +2,11 @@
 title = "Jonesboro, GA (335 Upper Riverdale Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T23:01:59Z
+date = 07/30/2024
 
 [Article]
+startDate = "11/20/1990"
+endDate = ""
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","168.69.254.242","216.125.34.66","CorrectorMan","Cecnj98","CEC Tinley","AstridMascotFan2005"]
 gallery = []
 +++

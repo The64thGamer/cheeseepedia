@@ -2,9 +2,11 @@
 title = "Willowdale, Ontario, Canada (2452 Sheppard Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-26T01:58:12Z
+date = 03/26/2024
 
 [Article]
+startDate = "10/8/1983"
+endDate = ""
 pageThumbnailFile = "Willowdale .jpg|Willowdale's Exterior (PC: blogTO)"
 contributors = ["ChuckECool","Cecnj98","2605:8D80:6C2:1681:24E4:3B2F:C11E:2CF6","Cheeseclassic","Stripes"]
 gallery = []

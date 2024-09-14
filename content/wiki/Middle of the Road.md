@@ -2,9 +2,11 @@
 title = "Middle of the Road"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T03:38:17Z
+date = 08/07/2023
 
 [Article]
+startDate = "-/-/1984"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

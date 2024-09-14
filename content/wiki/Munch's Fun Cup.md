@@ -2,9 +2,11 @@
 title = "Munch's Fun Cup"
 draft = false
 tags = ["Promotional Material"]
-date = 2023-01-20T18:43:43Z
+date = 01/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = []
 +++

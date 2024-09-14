@@ -2,9 +2,11 @@
 title = "Hattiesburg, MS (6428 US 49)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-03T15:29:44Z
+date = 10/03/2023
 
 [Article]
+startDate = "7/26/1984"
+endDate = "10/-/1986"
 contributors = ["CorrectorMan","Rexburg090","CEC Tinley"]
 gallery = ["Hattiesburg.jpg|thumb|The location as of 2023. (PC: Google Maps)"]
 +++

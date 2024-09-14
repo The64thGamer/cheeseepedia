@@ -2,9 +2,11 @@
 title = "Cyberamics Portrait / Shelf Stage"
 draft = false
 tags = []
-date = 2024-05-02T01:01:28Z
+date = 05/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ogden1.jpg|Ogden, Utah's Portrait Show. This would be taken during its inoperable state."
 contributors = ["CECBowlingGreen","Ceclife13","Rexburg090","JamesLemony","RessiduePezzzado","Pench0782","ChuckEPediaIsTheBest!","BurgersNuggs445","216.125.34.66","38.49.94.191","Charlesiiikingofengland","CorrectorMan","Saan1ty","Mecha","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Midwestretail","Documentor"]
 gallery = []

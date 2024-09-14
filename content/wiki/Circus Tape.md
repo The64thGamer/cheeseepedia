@@ -2,9 +2,11 @@
 title = "Circus Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-14T20:13:24Z
+date = 07/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++

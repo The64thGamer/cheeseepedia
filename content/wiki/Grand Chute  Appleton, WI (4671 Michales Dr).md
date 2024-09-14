@@ -2,9 +2,11 @@
 title = "Grand Chute / Appleton, WI (4671 Michales Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-07T18:06:56Z
+date = 09/07/2023
 
 [Article]
+startDate = "3/19/1998"
+endDate = "6/-/2020"
 contributors = ["CECBowlingGreen","Documentor","John95","BurgersNuggs445","Rexburg090","CEC Tinley","47.17.236.200","ShowbizMidwest"]
 gallery = ["GrandChute.png|thumb|2.0 exterior|349x349px"]
 +++

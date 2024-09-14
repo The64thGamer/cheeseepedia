@@ -2,9 +2,11 @@
 title = "Site News"
 draft = false
 tags = ["Welcome"]
-date = 2024-08-18T19:04:01Z
+date = 08/18/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Lelmaster","Stripes"]
 gallery = []
 +++

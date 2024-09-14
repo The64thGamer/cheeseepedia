@@ -2,9 +2,11 @@
 title = "Winchester Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-08-14T17:21:19Z
+date = 08/14/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley","WalterB"]
 gallery = []
 +++

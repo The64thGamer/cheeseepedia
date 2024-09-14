@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Winter Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-20T01:58:37Z
+date = 07/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cheeseclassic","The 64th Gamer","Documentor"]
 gallery = []
 +++

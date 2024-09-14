@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Hicksville Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-03T06:25:52Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Dame0824"]
 gallery = []
 +++

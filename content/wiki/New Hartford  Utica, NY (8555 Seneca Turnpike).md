@@ -2,9 +2,11 @@
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-17T02:35:48Z
+date = 02/17/2024
 
 [Article]
+startDate = "12/16/1982"
+endDate = "7/29/1985"
 pageThumbnailFile = "PTT New Hartford Utica.png|Snippet of an outdoor shot near the location in 1983, from ''The Pizza Times'' <ref>http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-3.pdf</ref>."
 contributors = ["Stripes"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese and Friends Party Cookbook"
 draft = false
 tags = ["Merchandise"]
-date = 2023-11-04T18:52:28Z
+date = 11/04/2023
 
 [Article]
+startDate = "3/19/2024"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

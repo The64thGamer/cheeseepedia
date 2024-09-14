@@ -2,9 +2,11 @@
 title = "Data:Sandbox/Sylvain Boissel WMFr/TestFnac.tab"
 draft = false
 tags = []
-date = 2023-02-04T02:48:14Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Mediawiki>Sylvain Boissel WMFr","The 64th Gamer"]
 gallery = []
 +++

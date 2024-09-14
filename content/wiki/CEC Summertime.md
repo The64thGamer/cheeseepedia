@@ -2,9 +2,11 @@
 title = "CEC Summertime"
 draft = false
 tags = ["Showtapes"]
-date = 2022-01-25T13:23:09Z
+date = 01/25/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

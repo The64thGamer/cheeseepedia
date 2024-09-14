@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2023-03-22T19:56:51Z
+date = 03/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Pumpkin Festival Munch|image=Pumpkin Festival Munch.jpg"
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []

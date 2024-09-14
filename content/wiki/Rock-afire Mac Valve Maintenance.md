@@ -2,9 +2,11 @@
 title = "Rock-afire Mac Valve Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2023-04-10T01:39:00Z
+date = 04/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showbizpizzawiki","2601:5C8:C201:7480:34B3:9875:4579:D72A"]
 gallery = ["MAC valve MANUAL .png|thumb"]
 +++

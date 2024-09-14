@@ -2,9 +2,11 @@
 title = "Gulliver's Kingdom Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-29T20:44:28Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Sonichacker"]
 gallery = ["Center stage - Gullivers Kingdom.jpeg|thumb|314x314px|Gulliver's Kingdom - Hard Luck Bears (Center Stage)"]
 +++

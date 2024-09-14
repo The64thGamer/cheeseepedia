@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Evergreen Show 2022 International (August Update)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-12-06T17:42:41Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Showbiz Pizza International"]
 gallery = []
 +++

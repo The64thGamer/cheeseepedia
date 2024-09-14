@@ -2,9 +2,11 @@
 title = "B.B. Bubbles"
 draft = false
 tags = []
-date = 2022-09-11T06:57:29Z
+date = 09/11/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["JamesLemony"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

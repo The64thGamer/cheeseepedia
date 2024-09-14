@@ -2,9 +2,11 @@
 title = "PTT Winchester Crusty Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-31T02:18:10Z
+date = 08/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

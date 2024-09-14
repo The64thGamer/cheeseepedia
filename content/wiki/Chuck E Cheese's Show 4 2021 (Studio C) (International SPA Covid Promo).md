@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 4 2021 (Studio C) (International SPA Covid Promo)"
 draft = false
 tags = []
-date = 2022-09-16T03:53:00Z
+date = 09/16/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

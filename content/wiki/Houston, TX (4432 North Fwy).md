@@ -2,9 +2,11 @@
 title = "Houston, TX (4432 North Fwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-26T23:20:20Z
+date = 04/26/2024
 
 [Article]
+startDate = "11/-/2009"
+endDate = ""
 pageThumbnailFile = "HoustonNorthlineCurrentExterior.jpg|The store's exterior as of today."
 contributors = ["47.17.236.200","ThatBoiCydalan"]
 gallery = ["Houston Northline Exterior Construction.jpg|thumb|Construction of the location in September 2009."]

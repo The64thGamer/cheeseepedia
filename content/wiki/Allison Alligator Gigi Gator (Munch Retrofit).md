@@ -2,9 +2,11 @@
 title = "Allison Alligator/ Gigi Gator (Munch Retrofit)"
 draft = false
 tags = ["Unofficial Retrofits"]
-date = 2023-01-03T19:02:36Z
+date = 01/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["167.102.161.204","RedaCEC"]
 gallery = ["Gigi Gator.jpg|thumb|"]
 +++

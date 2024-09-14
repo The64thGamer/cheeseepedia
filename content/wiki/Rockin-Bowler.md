@@ -2,9 +2,11 @@
 title = "Rockin-Bowler"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-07-08T19:35:46Z
+date = 07/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["GuestIsJustBest","Stripes"]
 gallery = []
 +++

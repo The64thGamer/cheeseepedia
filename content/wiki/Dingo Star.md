@@ -2,9 +2,11 @@
 title = "Dingo Star"
 draft = false
 tags = ["Characters"]
-date = 2023-01-27T21:58:34Z
+date = 01/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Sponch man","2601:600:8F00:4620:5856:C7F4:B277:85AF"]
 gallery = ["Dingo Star Headshot.png|alt=A promotional headshot of Dingo Star created for the Kansas City, Missouri, United States Showbiz Pizza Place location.|thumb|A promotional headshot of Dingo Star created for the Kansas City, Missouri, United States Showbiz Pizza Place location. Source: [http://showbizpizza.com/home.html http://showbizpizza.com/"]
 +++

@@ -2,9 +2,11 @@
 title = "Anti-Gravity Freedom Machine Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-04-15T22:56:06Z
+date = 04/15/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png"]
 +++

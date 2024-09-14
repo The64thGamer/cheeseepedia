@@ -2,9 +2,11 @@
 title = "Salem, OR (3180 Lancaster Dr NE)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-28T15:45:06Z
+date = 12/28/2023
 
 [Article]
+startDate = "1/1/1984"
+endDate = "-/-/1988"
 contributors = ["ChuckECool","CEC Tinley","SuperCreamPiper2008","Cheeseclassic"]
 gallery = []
 +++

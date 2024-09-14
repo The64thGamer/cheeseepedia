@@ -2,9 +2,11 @@
 title = "CEC University: Star Cast Member's School of Kitchen Test Book"
 draft = false
 tags = []
-date = 2022-10-17T17:04:18Z
+date = 10/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Dwedwd.jpg|thumb|374x374px|CEC University: Star Cast Member's School of Kitchen Test Book Front Cover"]
 +++

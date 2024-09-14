@@ -2,9 +2,11 @@
 title = "Waco, TX (5156 W Waco Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-14T19:41:47Z
+date = 05/14/2024
 
 [Article]
+startDate = "-/-/1986"
+endDate = "-/-/1992"
 pageThumbnailFile = "waco1.png|Waco, TX exterior in the 1980s."
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
 gallery = []

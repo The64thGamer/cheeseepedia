@@ -2,9 +2,11 @@
 title = "'Chuck E. Cheese's Pizza' (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 2024-06-27T19:52:16Z
+date = 06/27/2024
 
 [Article]
+startDate = "-/-/1987"
+endDate = ""
 contributors = ["CECMadison"]
 gallery = []
 +++

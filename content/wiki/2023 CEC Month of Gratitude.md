@@ -2,9 +2,11 @@
 title = "2023 CEC Month of Gratitude"
 draft = false
 tags = ["Events"]
-date = 2023-11-01T22:20:23Z
+date = 11/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Monthofgratitudebannerlogo.png|Logo"
 contributors = ["The 64th Gamer"]
 gallery = []

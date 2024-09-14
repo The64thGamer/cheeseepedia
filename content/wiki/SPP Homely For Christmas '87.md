@@ -2,9 +2,11 @@
 title = "SPP Homely For Christmas '87"
 draft = false
 tags = ["Showtapes"]
-date = 2024-01-28T22:22:30Z
+date = 01/28/2024
 
 [Article]
+startDate = "-/-/1987"
+endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = [":Aaronhomelycomment87.png"]
 +++

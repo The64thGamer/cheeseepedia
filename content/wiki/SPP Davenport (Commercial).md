@@ -2,9 +2,11 @@
 title = "SPP Davenport (Commercial)"
 draft = false
 tags = []
-date = 2022-09-22T17:16:30Z
+date = 09/22/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","Sponch man","Chouts1"]
 gallery = ["DavenportCommercial.jpg|thumb"]
 +++

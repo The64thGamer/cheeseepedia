@@ -2,9 +2,11 @@
 title = "New Fandom Member F.A.Q."
 draft = false
 tags = ["Welcome"]
-date = 2024-08-17T03:31:31Z
+date = 08/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["PediaFlavorIconRight.png|frameless|left|30px","PediaFlavorIconLeft.png|frameless|right|30px"]
 +++

@@ -2,9 +2,11 @@
 title = "San Antonio, TX (6874 Ingram Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-11T02:48:03Z
+date = 09/11/2024
 
 [Article]
+startDate = "6/10/1981"
+endDate = ""
 pageThumbnailFile = "Screenshot 20240614-190458.png|Exterior in June 2024"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","2607:FB90:EDA3:D81D:29F5:B7AF:8C7E:4B46","Gostapua210","Cheeseclassic","CECMadison"]
 gallery = []

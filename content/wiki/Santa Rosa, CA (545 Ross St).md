@@ -2,9 +2,11 @@
 title = "Santa Rosa, CA (545 Ross St)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-06T21:14:57Z
+date = 08/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Santarosainsidepic.png|Interior (August 31, 1981)<ref>https://www.newspapers.com/article/the-press-democrat/84673845/</ref>"
 contributors = ["The 64th Gamer"]
 gallery = []

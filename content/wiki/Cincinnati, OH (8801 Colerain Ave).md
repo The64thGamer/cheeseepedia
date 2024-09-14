@@ -2,9 +2,11 @@
 title = "Cincinnati, OH (8801 Colerain Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-11T23:52:58Z
+date = 08/11/2024
 
 [Article]
+startDate = "11/11/1981"
+endDate = ""
 pageThumbnailFile = "ColerainsExterior2023.jpg|Colerain Exterior (2023)"
 contributors = ["Documentor","The 64th Gamer","CEC Columbus","Rexburg090","Maddox121","RedaCEC","ThatBoiCydalan","Caydenpedia","Cheeseclassic","SuperCreamPiper2008","Cy's Junk at School","Cecanddisneyfan2004"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "'Bad Dog' (CD Award)"
 draft = false
 tags = []
-date = 2023-12-28T23:32:26Z
+date = 12/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Jasper T Jowls Bad Dog.jpg"
 contributors = ["CoolerDude","Cheeseclassic"]
 gallery = []

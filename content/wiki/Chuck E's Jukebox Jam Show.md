@@ -2,9 +2,11 @@
 title = "Chuck E's Jukebox Jam Show"
 draft = false
 tags = ["Live Shows"]
-date = 2022-08-02T17:50:36Z
+date = 08/02/2022
 
 [Article]
+startDate = "-/-/1997"
+endDate = ""
 contributors = ["Ceclife13","BurgersNuggs445"]
 gallery = ["New Graphic.png"]
 +++

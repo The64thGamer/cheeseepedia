@@ -2,9 +2,11 @@
 title = "Celebration Station's Rockin' Rascals Soundtrack"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-19T23:54:05Z
+date = 08/19/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

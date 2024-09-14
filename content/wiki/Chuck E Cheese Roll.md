@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Roll"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-08-28T23:14:00Z
+date = 08/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cheese roll.jpg|A photo of the game in a store."
 contributors = ["ChuckE1352","The 64th Gamer","GuestIsJustBest","Stripes","CEC Tinley"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Newbie editor"
 draft = false
 tags = ["User"]
-date = 2024-02-21T19:09:10Z
+date = 02/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Newbie editor"]
 gallery = ["MyBeloved.gif|thumb","Images (64).jpg|thumb|He Wants to tak."]
 +++

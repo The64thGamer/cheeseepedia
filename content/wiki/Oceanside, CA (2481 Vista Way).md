@@ -2,9 +2,11 @@
 title = "Oceanside, CA (2481 Vista Way)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-15T00:35:40Z
+date = 08/15/2024
 
 [Article]
+startDate = "2/8/1983"
+endDate = ""
 pageThumbnailFile = "20170721 160611.jpg|Exterior before the 2.0 remodel, 2017"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","The 64th Gamer","Stripes","Caydenpedia"]
 gallery = []

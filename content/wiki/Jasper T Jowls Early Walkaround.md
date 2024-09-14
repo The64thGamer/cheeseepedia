@@ -2,9 +2,11 @@
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-08-13T05:04:00Z
+date = 08/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["NoName2000","Concordio"]
 gallery = []
 +++

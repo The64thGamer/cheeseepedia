@@ -2,9 +2,11 @@
 title = "Port Arthur, TX (3600 FM 365)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-29T21:27:51Z
+date = 04/29/2024
 
 [Article]
+startDate = "1/24/1985"
+endDate = "9/-/1994"
 pageThumbnailFile = "SPP Port Arthur TX.jpg|Exterior, 1980's (PC: showbizpizza.com)"
 contributors = ["Cheeseclassic","SuperCreamPiper2008"]
 gallery = []

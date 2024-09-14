@@ -2,9 +2,11 @@
 title = "Statue of Liberty (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-27T18:30:56Z
+date = 08/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

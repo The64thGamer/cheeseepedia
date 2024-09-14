@@ -2,9 +2,11 @@
 title = "Sally Unlimited Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-11-27T21:11:27Z
+date = 11/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Sallyunlimitedoffice2018nov.png|Office Exterior (November 2018)"
 contributors = ["The 64th Gamer"]
 gallery = []

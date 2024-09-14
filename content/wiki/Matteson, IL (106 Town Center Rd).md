@@ -2,9 +2,11 @@
 title = "Matteson, IL (106 Town Center Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-14T14:00:24Z
+date = 08/14/2024
 
 [Article]
+startDate = "5/23/1983"
+endDate = "6/18/2020"
 pageThumbnailFile = "desc=The exterior in February 2019|image=Matteson.jpg"
 contributors = ["ChuckECool","ShowbizMidwest","BurgersNuggs445","Rexburg090","CorrectorMan","Melrosefool2763","ThatBoiCydalan","AstridMascotFan2005","CoolerDude"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Topeka Inn Management Introduces... (1979)"
 draft = false
 tags = []
-date = 2023-08-09T22:04:08Z
+date = 08/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Topeka Inn Management Franchise Brochure Page 1.jpg|Front Cover"
 contributors = ["Concordio","The 64th Gamer"]
 gallery = []

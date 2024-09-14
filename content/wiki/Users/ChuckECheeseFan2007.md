@@ -2,9 +2,11 @@
 title = "ChuckECheeseFan2007"
 draft = false
 tags = ["User"]
-date = 2023-11-19T02:12:38Z
+date = 11/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckECheeseFan2007"]
 gallery = []
 +++

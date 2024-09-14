@@ -2,9 +2,11 @@
 title = "Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2024-03-06T14:27:53Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Lobster.png|Jungle Jim's Chuck Fall 1998 a few months before being removed."
 contributors = ["Documentor","PizzaEntertainmentFanX"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-28T23:11:58Z
+date = 07/28/2024
 
 [Article]
+startDate = "7/-/1992"
+endDate = ""
 pageThumbnailFile = "SunValleyExterior2019AprilGoogleMaps.png|Exterior, April 2019 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","Cheeseclassic","CyberstarProductions1000","CoolerDude","Stripes","The 64th Gamer","Studio 18 Ent","Caydenpedia","AstridMascotFan2005"]
 gallery = []

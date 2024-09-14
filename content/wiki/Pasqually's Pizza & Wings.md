@@ -2,9 +2,11 @@
 title = "Pasqually's Pizza & Wings"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-05-31T16:37:18Z
+date = 05/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Bowling for Cheese","The 64th Gamer","CorrectorMan","CECMentor"]
 gallery = ["Pasquallys Pizza and Wings logo .png|thumb|Pasqually Pizza and Wing's current logo."]
 +++

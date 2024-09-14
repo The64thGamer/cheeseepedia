@@ -2,9 +2,11 @@
 title = "Tinley Park, IL (19111 Oak Park Ave)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 2021-12-16T17:33:57Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

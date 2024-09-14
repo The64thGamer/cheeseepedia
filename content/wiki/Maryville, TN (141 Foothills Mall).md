@@ -2,9 +2,11 @@
 title = "Maryville, TN (141 Foothills Mall)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-23T22:23:02Z
+date = 01/23/2024
 
 [Article]
+startDate = "3/3/1983"
+endDate = "-/-/1995"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

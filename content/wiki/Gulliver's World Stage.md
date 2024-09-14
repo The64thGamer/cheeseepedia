@@ -2,9 +2,11 @@
 title = "Gulliver's World Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-29T20:31:00Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nebbytales","The 64th Gamer","CoolerDude","Sonichacker"]
 gallery = ["HLB Warrington Center Stage Install 93.jpeg|alt=Replace this with more modern image when possible.|thumb|270x270px|Gulliver's World - The Hard Luck Bears during installation in 1992"]
 +++

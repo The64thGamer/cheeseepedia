@@ -2,9 +2,11 @@
 title = "2005 Red Ticket Sign"
 draft = false
 tags = []
-date = 2022-12-28T17:47:46Z
+date = 12/28/2022
 
 [Article]
+startDate = "-/-/2005"
+endDate = ""
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = ["2005redticketsign.jpg|thumb|Red Ticket sign"]
 +++

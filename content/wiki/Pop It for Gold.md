@@ -2,9 +2,11 @@
 title = "Pop It for Gold"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-10-21T03:20:34Z
+date = 10/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "1b8481bb-a628-451c-aa8a-620d56b67b18.jpg|A photo of the arcade machine"
 contributors = ["ChuckETasticAlt","GuestIsJustBest","Stripes","ThatBoiCydalan"]
 gallery = []

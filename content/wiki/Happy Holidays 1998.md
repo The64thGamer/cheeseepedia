@@ -2,9 +2,11 @@
 title = "Happy Holidays 1998"
 draft = false
 tags = ["Showtapes"]
-date = 2022-07-22T21:29:20Z
+date = 07/22/2022
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 contributors = ["Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

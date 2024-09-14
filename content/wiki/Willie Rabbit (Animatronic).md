@@ -2,9 +2,11 @@
 title = "Willie Rabbit (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-26T13:23:22Z
+date = 02/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PTT1977fan","Tobsters ;-;","2800:A4:1CC9:FB00:5142:68C:2B94:667","The 64th Gamer","Newbie editor","PizzaEntertainmentFanX"]
 gallery = []
 +++

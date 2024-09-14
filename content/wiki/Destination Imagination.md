@@ -2,9 +2,11 @@
 title = "Destination Imagination"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-27T19:16:48Z
+date = 10/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","199.66.99.9","Agent 5","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

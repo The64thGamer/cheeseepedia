@@ -2,9 +2,11 @@
 title = "R12 SVHS (Pre-93)"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-10-13T18:04:32Z
+date = 10/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Bigboxliveshow.png|'Dance To The Music' SVHS case (Unknown Sub-Format)"
 contributors = ["The 64th Gamer"]
 gallery = []

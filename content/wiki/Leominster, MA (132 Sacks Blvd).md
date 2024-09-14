@@ -2,9 +2,11 @@
 title = "Leominster, MA (132 Sacks Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-03T12:20:38Z
+date = 07/03/2024
 
 [Article]
+startDate = ""
+endDate = "6/-/2020"
 pageThumbnailFile = "Leominster’s Exterior (PC- Google Maps).jpg|Exterior, October 2019"
 contributors = ["2600:1012:B1AF:7538:30D5:B962:3FA:B29","Cheeseclassic","Caydenpedia"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "CEC Birthday Video March 2001"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-03-27T01:21:04Z
+date = 03/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

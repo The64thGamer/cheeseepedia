@@ -2,9 +2,11 @@
 title = "El Cerrito, CA (10 El Cerrito Plaza)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-14T17:22:50Z
+date = 05/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ElCerritoPTTPlannedSpace.jpg|The space where the Pizza Time Theater was planned at. (Kirby's Restaurant and El Cerrito Station Bar)"
 contributors = ["ThatBoiCydalan"]
 gallery = [":ElCerritoPTTCitation3-30-1983.png",":ElCerritoPTTCitation6-8-1983.png"]

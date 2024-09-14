@@ -2,9 +2,11 @@
 title = "Standard: Fixture Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-07-20T03:52:11Z
+date = 07/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]
 gallery = []
 +++

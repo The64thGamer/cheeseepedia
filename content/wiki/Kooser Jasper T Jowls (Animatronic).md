@@ -2,9 +2,11 @@
 title = "Kooser Jasper T. Jowls (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-04-06T23:31:21Z
+date = 04/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Th3g42r3g4g4r23rg.png|1979 Footage"
 contributors = ["EagleScout610","MultiMonorail","The 64th Gamer","216.125.34.66","FileFickle"]
 gallery = []

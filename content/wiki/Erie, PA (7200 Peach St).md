@@ -2,9 +2,11 @@
 title = "Erie, PA (7200 Peach St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T21:42:57Z
+date = 07/29/2024
 
 [Article]
+startDate = "7/-/1992"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","Chez","CoolerDude","UltimatelyFun","AstridMascotFan2005"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E. Hoops"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-07-08T19:32:13Z
+date = 07/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Chuck E. Tastic","GuestIsJustBest","Stripes"]
 gallery = []
 +++

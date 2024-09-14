@@ -2,9 +2,11 @@
 title = "Redwood City, CA (380 Convention Way)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-06T15:11:22Z
+date = 07/06/2024
 
 [Article]
+startDate = ""
+endDate = "-/-/1986"
 pageThumbnailFile = "desc=Building Exterior|image=Screenshot 2023-04-21 213923.png"
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]
 gallery = []

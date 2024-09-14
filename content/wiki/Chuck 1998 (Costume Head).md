@@ -2,9 +2,11 @@
 title = "Chuck 1998 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-07-18T04:07:13Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","CEC Tinley","Cecnj98","2601:404:D681:9F70:7018:8BD0:9025:77D9","Rexburg090"]
 gallery = ["1998walkaroundhead.jpg|thumb|1998 Walkaround head"]
 +++

@@ -2,9 +2,11 @@
 title = "PTT Winchester Warblettes Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-08T23:03:55Z
+date = 08/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

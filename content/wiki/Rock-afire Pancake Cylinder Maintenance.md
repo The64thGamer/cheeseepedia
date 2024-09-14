@@ -2,9 +2,11 @@
 title = "Rock-afire Pancake Cylinder Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2023-03-21T02:39:08Z
+date = 03/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

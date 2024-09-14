@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 5 2021 (International)"
 draft = false
 tags = []
-date = 2022-01-18T03:14:47Z
+date = 01/18/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

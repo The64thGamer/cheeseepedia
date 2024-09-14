@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's - I'm Da Greatest / Biggest Fan (1985)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-11-15T18:27:37Z
+date = 11/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Tux Chuck"]
 gallery = []
 +++

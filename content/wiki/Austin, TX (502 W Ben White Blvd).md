@@ -2,9 +2,11 @@
 title = "Austin, TX (502 W Ben White Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-08T12:15:28Z
+date = 06/08/2024
 
 [Article]
+startDate = "3/24/1982"
+endDate = "5/12/2013"
 pageThumbnailFile = "BenWhiteExteriorStreetViewJune2011.png|The store's exterior in June 2011 (PC: Google Maps)"
 contributors = ["ThatBoiCydalan","CEC Tinley","CorrectorMan","Cecanddisneyfan2004"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Metairie, LA (7008 Veterans Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-03T05:03:49Z
+date = 04/03/2024
 
 [Article]
+startDate = "3/20/2024"
+endDate = ""
 pageThumbnailFile = "Metairie, LA (7008 Veterans Blvd) (Exterior, March 2024).jpg|Exterior, March 2024"
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []

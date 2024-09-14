@@ -2,9 +2,11 @@
 title = "Sponch man"
 draft = false
 tags = ["User"]
-date = 2022-08-25T03:55:14Z
+date = 08/25/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Sponch man"]
 gallery = ["Beach bear without face.png|alt=Wolf Pack 5 Beach Bear without face.|left|thumb"]
 +++

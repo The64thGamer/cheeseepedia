@@ -2,9 +2,11 @@
 title = "Main Bear Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-07T22:33:10Z
+date = 07/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Letterstolooneybird"]
 gallery = []
 +++

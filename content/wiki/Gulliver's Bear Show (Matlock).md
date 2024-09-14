@@ -2,9 +2,11 @@
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-07T20:01:47Z
+date = 07/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Nebbytales","Letterstolooneybird"]
 gallery = []
 +++

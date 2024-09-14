@@ -2,9 +2,11 @@
 title = "Family Vision (Feb 1985)"
 draft = false
 tags = []
-date = 2023-07-30T18:48:37Z
+date = 07/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Feb1985.png|An airplane video playing at ShowBiz Pizza Place in February 1985."
 contributors = ["DerekCat"]
 gallery = []

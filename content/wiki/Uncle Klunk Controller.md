@@ -2,9 +2,11 @@
 title = "Uncle Klunk Controller"
 draft = false
 tags = []
-date = 2022-12-08T19:04:48Z
+date = 12/08/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Himitsu","Ls2018-1"]
 gallery = ["Klunk Controller 1.png|thumb|Uncle Klunk Controller being lowered under stage right during installation"]
 +++

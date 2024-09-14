@@ -2,9 +2,11 @@
 title = "Birdies (Warblettes Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-06-10T02:30:39Z
+date = 06/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","168.69.254.248","Rexburg090","CEC Tinley"]
 gallery = ["Birdies4.jpg|thumb|403x403px|Jungle Jim's Birdies",":Birdies1.jpg"]
 +++

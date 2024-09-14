@@ -2,9 +2,11 @@
 title = "2022 CEC Charity Golf Tournament (Event)"
 draft = false
 tags = ["Events"]
-date = 2022-12-28T17:47:48Z
+date = 12/28/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["2022golf.png|thumb|352x352px|Tournament Logo","Imageasdasasdasdasdadsasdasd.png|thumb|322x322px|Photos of the event posted on the ''Chuck E. Cheese Jobs'' Twitter page.<ref>https://twitter.com/CECJobs/status/1524787878139727874</ref>"]
 +++

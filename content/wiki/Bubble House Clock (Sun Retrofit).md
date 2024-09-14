@@ -2,9 +2,11 @@
 title = "Bubble House Clock (Sun Retrofit)"
 draft = false
 tags = ["TexasStateFair"]
-date = 2023-01-01T20:44:40Z
+date = 01/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "857db2b3-93eb-4645-b35f-57cb64a49605.jpg|Full View of the Bubble House Attraction"
 contributors = ["Emcaacme","The 64th Gamer"]
 gallery = ["bubblehousesun.jpg|thumb|The Bubble House Clock"]

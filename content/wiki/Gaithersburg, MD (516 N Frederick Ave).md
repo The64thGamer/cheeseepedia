@@ -2,9 +2,11 @@
 title = "Gaithersburg, MD (516 N Frederick Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-08T14:31:27Z
+date = 09/08/2024
 
 [Article]
+startDate = "3/-/1983"
+endDate = "6/-/2020"
 pageThumbnailFile = "Tech-24-foodservice-technologies-inc-chuck-e-cheese-restaurant-c (1).jpg|Gaithersburg's exterior. (PC: thebluebook.com)"
 contributors = ["CorrectorMan","ThatBoiCydalan","Cecnj98","JND","AstridMascotFan2005","CEC crab"]
 gallery = []

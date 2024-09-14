@@ -2,9 +2,11 @@
 title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-07T04:33:40Z
+date = 08/07/2023
 
 [Article]
+startDate = "-/-/1988"
+endDate = ""
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","Rexburg090","CEC Tinley","ThatBoiCydalan","167.224.250.176"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Austin, TX (8038 Burnet Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-03T00:51:24Z
+date = 04/03/2024
 
 [Article]
+startDate = ""
+endDate = "10/29/2006"
 pageThumbnailFile = "desc=The store's exterior before closure. (PC: showbizpizza.com)|image=AustinTXBurnettCECExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","CEC Tinley","Stripes"]
 gallery = []

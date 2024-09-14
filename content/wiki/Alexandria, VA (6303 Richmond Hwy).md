@@ -2,9 +2,11 @@
 title = "Alexandria, VA (6303 Richmond Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-24T21:28:37Z
+date = 06/24/2024
 
 [Article]
+startDate = "9/20/1982"
+endDate = "12/-/2009"
 pageThumbnailFile = "Alexandria va cec old.png|Exterior shortly before closure, November 2009<ref>https://www.flickr.com/photos/mobycat/4126270152/in/photostream/</ref>"
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Blowseborg062","2600:4040:24D1:BB00:A9A4:F270:3B61:E925","Cecfan2004","2600:4040:5A0E:D900:B859:6530:9910:AF4C","96.5.110.34","Jazzdancr40","Cecanddisneyfan2004","Cheeseclassic"]
 gallery = []

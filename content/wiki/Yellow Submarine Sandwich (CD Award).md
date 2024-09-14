@@ -2,9 +2,11 @@
 title = "'Yellow Submarine Sandwich' (CD Award)"
 draft = false
 tags = []
-date = 2024-01-24T01:03:37Z
+date = 01/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CoolerDude"]
 gallery = ["YSS.png|thumb"]
 +++

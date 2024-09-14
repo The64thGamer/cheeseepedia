@@ -2,9 +2,11 @@
 title = "Indianapolis, IN (4910 W 38th St)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-29T05:06:26Z
+date = 10/29/2023
 
 [Article]
+startDate = "11/4/1981"
+endDate = "12/19/2011"
 pageThumbnailFile = "Georgetown in October 2011.png|Exterior (October 2011)"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","CorrectorMan","Cheeseclassic","ThatBoiCydalan"]
 gallery = []

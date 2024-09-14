@@ -2,9 +2,11 @@
 title = "Traveler (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2024-02-17T01:48:57Z
+date = 02/17/2024
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer","TailsFan628"]
 gallery = []
 +++

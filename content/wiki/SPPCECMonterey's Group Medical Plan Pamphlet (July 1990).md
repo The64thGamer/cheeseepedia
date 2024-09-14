@@ -2,9 +2,11 @@
 title = "SPP/CEC/Monterey's Group Medical Plan Pamphlet (July 1990)"
 draft = false
 tags = ["Documents"]
-date = 2024-02-15T06:15:40Z
+date = 02/15/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Groupmedicalplan1990july1.png|Front Cover"
 contributors = ["The 64th Gamer"]
 gallery = []

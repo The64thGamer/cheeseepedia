@@ -2,9 +2,11 @@
 title = "Sheik Zayed City (Royal Mall), Egypt"
 draft = false
 tags = ["Store List"]
-date = 2024-03-29T02:11:05Z
+date = 03/29/2024
 
 [Article]
+startDate = "2/10/2024"
+endDate = ""
 pageThumbnailFile = "Egypt CEC Exterior .jpg|Exterior, 2024"
 contributors = ["Cheeseclassic"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "December 2009 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-30T13:15:00Z
+date = 07/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","AstridMascotFan2005"]
 gallery = []
 +++

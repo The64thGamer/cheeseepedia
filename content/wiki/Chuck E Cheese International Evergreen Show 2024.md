@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese International Evergreen Show 2024"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-28T18:37:41Z
+date = 07/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cheeseclassic","Cy's Junk at School"]
 gallery = []
 +++

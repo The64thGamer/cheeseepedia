@@ -2,9 +2,11 @@
 title = "Animation Programming System Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-05-12T20:19:12Z
+date = 05/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Remodeled Studio-011.jpg|APS Hardware for the 3-Stage & Cyberamics in 2001"
 contributors = ["The 64th Gamer"]
 gallery = []

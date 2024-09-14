@@ -2,9 +2,11 @@
 title = "Dale City, VA (14085 Shoppers Best Way)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-19T05:52:32Z
+date = 08/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Noahrbxt","CECBowlingGreen","Rexburg090","ShowbizMidwest","216.125.34.66","74.96.197.218"]
 gallery = []
 +++

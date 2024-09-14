@@ -2,9 +2,11 @@
 title = "Billings, MT (100 24th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-09T15:32:12Z
+date = 08/09/2024
 
 [Article]
+startDate = "8/6/1984"
+endDate = ""
 pageThumbnailFile = "BillingsMTExterior2021AugustGoogleMaps.png|Street view of the store's Exterior before the 2.0 remodel (August 2021) (PC: Google Maps)"
 contributors = ["RedaCEC","173.216.33.6","Rexburg090","ChuckEPediaIsTheBest!","71.31.183.205","The 64th Gamer","BoyInCharge55","2600:4040:5A0E:D900:8CA2:C7CC:54BB:380D","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","Documentor","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]
 gallery = []

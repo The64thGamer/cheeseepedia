@@ -2,9 +2,11 @@
 title = "Selma, TX (14565 IH 35 North)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-05T11:52:15Z
+date = 05/05/2023
 
 [Article]
+startDate = "12/13/2005"
+endDate = ""
 contributors = ["Tuxchucke","Rexburg090","2600:4040:5A0E:D900:BD57:E007:3395:7DE2"]
 gallery = []
 +++

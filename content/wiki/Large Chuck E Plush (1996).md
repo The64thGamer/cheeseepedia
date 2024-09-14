@@ -2,9 +2,11 @@
 title = "Large Chuck E. Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-05-05T15:22:49Z
+date = 05/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ToadEatSock","BurgersNuggs445","CEC Tinley"]
 gallery = []
 +++

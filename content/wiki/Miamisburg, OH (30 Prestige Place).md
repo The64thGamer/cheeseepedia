@@ -2,9 +2,11 @@
 title = "Miamisburg, OH (30 Prestige Place)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:34:46Z
+date = 07/31/2024
 
 [Article]
+startDate = "11/25/1981"
+endDate = ""
 pageThumbnailFile = "Miamisburg CEC 2.0 Exterior.png|Exterior, August 2023"
 contributors = ["The 64th Gamer","Documentor","CECBowlingGreen","Emcaacme","Rexburg090","Maddox121","71.15.155.152","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ChuckfeldStan","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []

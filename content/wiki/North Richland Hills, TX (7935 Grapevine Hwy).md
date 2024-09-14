@@ -2,9 +2,11 @@
 title = "North Richland Hills, TX (7935 Grapevine Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T21:41:12Z
+date = 07/29/2024
 
 [Article]
+startDate = "4/7/1982"
+endDate = ""
 pageThumbnailFile = "Richlandhills.jpg|Exterior of the location in 2022 after the awnings were removed."
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]
 gallery = []

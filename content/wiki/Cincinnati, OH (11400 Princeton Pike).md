@@ -2,9 +2,11 @@
 title = "Cincinnati, OH (11400 Princeton Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-24T22:21:41Z
+date = 06/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","2600:4040:59FC:D100:259D:2EF2:3C93:FD1A","CEC Tinley","Cheeseclassic"]
 gallery = []
 +++

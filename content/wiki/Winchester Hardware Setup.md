@@ -2,9 +2,11 @@
 title = "Winchester Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-05-17T16:38:57Z
+date = 05/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado","CEC Tinley"]
 gallery = ["MikeHatcherWinchester.png|thumb|The Control System as seen at Winchester "]
 +++

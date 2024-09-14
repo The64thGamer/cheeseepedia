@@ -2,9 +2,11 @@
 title = "Bakersfield, CA (3760 Ming Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-03-01T13:42:22Z
+date = 03/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Rexburg090","ChuckECool"]
 gallery = ["BakersfieldExterior2022FebruaryGoogleMaps.png|thumb|Street View of the Exterior in February 2022 (PC: Google Maps)"]
 +++

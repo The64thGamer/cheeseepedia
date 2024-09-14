@@ -2,9 +2,11 @@
 title = "Fatz Geronimo"
 draft = false
 tags = ["Characters"]
-date = 2024-06-19T04:19:37Z
+date = 06/19/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","Livelycheese"]
 gallery = ["FatzGeronimo.png|thumb|Fatz's design as of 2024."]
 +++

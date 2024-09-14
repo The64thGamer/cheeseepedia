@@ -2,9 +2,11 @@
 title = "PTT Birthday Host/Hostess Performance Workbook (1981)"
 draft = false
 tags = ["Documents"]
-date = 2023-05-04T12:12:08Z
+date = 05/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Bdayhostembedthumbnail.png|Document Cover"
 contributors = ["The 64th Gamer","CEC Tinley"]
 gallery = []

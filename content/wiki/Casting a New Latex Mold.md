@@ -2,9 +2,11 @@
 title = "Casting a New Latex Mold"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2023-05-19T19:23:28Z
+date = 05/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley","Ls2018-1"]
 gallery = [":Rockafirepaintcolorrefsheet.png"]
 +++

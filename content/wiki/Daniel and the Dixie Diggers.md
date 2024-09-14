@@ -2,9 +2,11 @@
 title = "Daniel and the Dixie Diggers"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-08T20:40:21Z
+date = 08/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BigCtheDataFinder","The 64th Gamer","Wizington"]
 gallery = ["Tim Lawrence Sally Portfolio.png|thumb|A portfolio of Tim Lawrence's work for Sally, including the earliest concepts for the Dixie Diggers.|326x326px"]
 +++

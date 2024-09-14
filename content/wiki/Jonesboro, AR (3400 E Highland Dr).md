@@ -2,9 +2,11 @@
 title = "Jonesboro, AR (3400 E Highland Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-19T18:24:35Z
+date = 05/19/2023
 
 [Article]
+startDate = "12/19/2005"
+endDate = ""
 pageThumbnailFile = "JonesboroARExterior2011JanuaryGoogleMaps.jpg|Street view of the exterior in June 2011 (PC: Google Maps)"
 contributors = ["Awesome Dawson Films YT","ChuckECool","ThatBoiCydalan","CEC Tinley"]
 gallery = []

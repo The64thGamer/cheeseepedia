@@ -2,9 +2,11 @@
 title = "Columbus, OH (3631 Soldano Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-24T20:47:13Z
+date = 04/24/2024
 
 [Article]
+startDate = "11/24/1992"
+endDate = ""
 pageThumbnailFile = "Exterior, 2019.png|Exterior, 2019"
 contributors = ["Saan1ty","Cheeseclassic"]
 gallery = []

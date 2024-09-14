@@ -2,9 +2,11 @@
 title = "CEC TV April 2005 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-01-31T01:20:13Z
+date = 01/31/2023
 
 [Article]
+startDate = "4/-/2005"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

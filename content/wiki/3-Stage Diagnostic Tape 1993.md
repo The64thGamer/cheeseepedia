@@ -2,9 +2,11 @@
 title = "3-Stage Diagnostic Tape 1993"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-17T01:29:14Z
+date = 08/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Cy's Junk at School"]
 gallery = []
 +++

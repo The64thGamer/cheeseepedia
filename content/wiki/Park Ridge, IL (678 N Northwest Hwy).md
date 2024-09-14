@@ -2,9 +2,11 @@
 title = "Park Ridge, IL (678 N Northwest Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-09T19:04:30Z
+date = 05/09/2024
 
 [Article]
+startDate = "12/29/1982"
+endDate = "-/-/1985"
 contributors = ["ShowbizMidwest","CEC Illinois","RPCEC","Rexburg090","BurgersNuggs445","CorrectorMan","Cheeseclassic","Muncho"]
 gallery = ["ParkRidgeRAE.jpg|thumb|Park Ridge’s Rock-afire Explosion shown in a newspaper ad."]
 +++

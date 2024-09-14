@@ -2,9 +2,11 @@
 title = "Drum Board (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-25T14:27:06Z
+date = 08/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Bandboard.jpg|An original Band Board alongside other PTT animatronics."
 contributors = ["The 64th Gamer","BurgersNuggs445"]
 gallery = ["Pizza&pipesbandboard1.png|thumb|269x269px|Mechanical instruments at the Bellevue, Washington ''Pizza & Pipes''","No Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', without the Drum Board.","Band Board.wav|none|thumb|Early 80's Segment, 'Working Show', with simulated Drum Board using the original programming signals."]

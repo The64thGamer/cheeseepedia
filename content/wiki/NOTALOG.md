@@ -2,9 +2,11 @@
 title = "NOTALOG"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 2023-08-02T00:40:03Z
+date = 08/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","CEC Tinley","GuestIsJustBest","Stripes"]
 gallery = []
 +++

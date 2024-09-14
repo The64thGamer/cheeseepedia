@@ -2,9 +2,11 @@
 title = "Wolfman Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-06T16:58:44Z
+date = 05/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "35u2456v342t45n7b3467n4 67.png|The Wolfman Stage from the Jacksonville building plans, March 28, 1980 (Bottom Right)"
 contributors = ["The 64th Gamer"]
 gallery = ["Disco Tim Image.png|thumb|283x283px|One of the Kansas City Wolfmen, labeled 'Disco TIM'."]

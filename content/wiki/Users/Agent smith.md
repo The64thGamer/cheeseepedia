@@ -2,9 +2,11 @@
 title = "Agent smith"
 draft = false
 tags = ["User"]
-date = 2022-12-03T02:51:33Z
+date = 12/03/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Agent smith"]
 gallery = ["Favorite image of smith.jpg|thumb"]
 +++

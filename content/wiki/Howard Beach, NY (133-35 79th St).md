@@ -2,9 +2,11 @@
 title = "Howard Beach, NY (133-35 79th St)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-29T03:34:34Z
+date = 07/29/2023
 
 [Article]
+startDate = "1/31/2022"
+endDate = ""
 pageThumbnailFile = "Howardbeachext.png|Exterior"
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","Rexburg090"]
 gallery = []

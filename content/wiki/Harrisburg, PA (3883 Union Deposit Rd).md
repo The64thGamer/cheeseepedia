@@ -2,9 +2,11 @@
 title = "Harrisburg, PA (3883 Union Deposit Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-14T04:30:42Z
+date = 03/14/2024
 
 [Article]
+startDate = "6/29/1992"
+endDate = ""
 pageThumbnailFile = "Harrisburg's exterior when new..png|Harrisburg Exterior (1992-1998/1999?)"
 contributors = ["ChuckECool","Bowling for Cheese","Rexburg090","Cecnj98","Cheezy","ThatBoiCydalan"]
 gallery = []

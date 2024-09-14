@@ -2,9 +2,11 @@
 title = "CEC American Pride / Neighbors"
 draft = false
 tags = ["Showtapes"]
-date = 2024-01-19T10:14:35Z
+date = 01/19/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["DerekCat"]
 gallery = ["New_Graphic.png","New_Graphic.png"]
 +++

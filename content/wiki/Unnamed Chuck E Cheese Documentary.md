@@ -2,9 +2,11 @@
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
 tags = ["News Footage"]
-date = 2023-10-13T18:19:35Z
+date = 10/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":DocumentarycitationCEP.png"]
 +++

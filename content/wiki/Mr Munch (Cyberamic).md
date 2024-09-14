@@ -2,9 +2,11 @@
 title = "Mr. Munch (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-07-07T01:53:28Z
+date = 07/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","Jaxon11","CEC Tinley","BoyInCharge55","ShowbizMidwest","CoolerDude","CECMentor","Nerdychucke","Cheeseclassic","Documentor"]
 gallery = []
 +++

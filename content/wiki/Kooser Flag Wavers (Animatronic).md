@@ -2,9 +2,11 @@
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-29T01:43:09Z
+date = 02/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX"]
 gallery = []
 +++

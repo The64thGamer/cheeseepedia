@@ -2,9 +2,11 @@
 title = "Country Klunk (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-10-11T21:04:54Z
+date = 10/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Updatedklunk3map.png|thumb|275x275px|Map of confirmed Klunk installations for this event.",":Kedziesigninstallationproof.png",":NorthRichlandHillsCountryKlunk.png",":SpringfieldOHKlunkVAlves.png"]
 +++

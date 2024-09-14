@@ -2,9 +2,11 @@
 title = "2023 Piñata Smashlings CEC Promo Campaign (Event)"
 draft = false
 tags = ["Events"]
-date = 2024-02-03T02:16:30Z
+date = 02/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Promoeventpicturesmashlings.png|Promo Header"
 contributors = ["The 64th Gamer","CoolerDude"]
 gallery = ["WheelSpinningPinataSmashlings.png|thumb|300x300px|The Fun Fair wheel during the first event (October 7, 2023)","Weekendugcrunoutsmashlings.png|thumb|The Chuck E. Smashling running out of stock at 10:56am (October 8, 2023)","Cecsmashlingcard.png|thumb|199x199px|Chuck E. Smashling Card Prototype"]

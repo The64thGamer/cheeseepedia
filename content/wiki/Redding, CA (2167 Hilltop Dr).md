@@ -2,9 +2,11 @@
 title = "Redding, CA (2167 Hilltop Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-29T12:49:30Z
+date = 06/29/2024
 
 [Article]
+startDate = "2/8/1983"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","Cheeseclassic"]
 gallery = []
 +++

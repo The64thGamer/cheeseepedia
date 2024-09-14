@@ -2,9 +2,11 @@
 title = "Chuck E.'s Happy Dance Choreography How To Video"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2022-04-05T17:42:07Z
+date = 04/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

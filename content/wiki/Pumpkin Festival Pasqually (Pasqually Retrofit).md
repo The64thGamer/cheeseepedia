@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Pasqually (Pasqually Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2022-12-07T06:34:30Z
+date = 12/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["Pumpkin Festival Pasqually.jpg|thumb|403x403px|Pumpkin Festival Pasqually"]
 +++

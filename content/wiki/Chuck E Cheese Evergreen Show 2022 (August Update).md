@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Evergreen Show 2022 (August Update)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-01-04T18:29:41Z
+date = 01/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Bowling for Cheese","The 64th Gamer","CEC Denver","Cy's Junk at School"]
 gallery = []
 +++

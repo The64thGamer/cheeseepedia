@@ -2,9 +2,11 @@
 title = "West Islip, NY (155 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-12T23:50:08Z
+date = 07/12/2024
 
 [Article]
+startDate = "12/10/1998"
+endDate = ""
 contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
 gallery = ["West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>"]
 +++

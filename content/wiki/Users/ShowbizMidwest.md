@@ -2,9 +2,11 @@
 title = "ShowbizMidwest"
 draft = false
 tags = ["User"]
-date = 2023-08-06T22:01:08Z
+date = 08/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest"]
 gallery = []
 +++

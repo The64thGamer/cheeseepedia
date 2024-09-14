@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Summer Nights Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-03-06T22:25:22Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Dame868"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

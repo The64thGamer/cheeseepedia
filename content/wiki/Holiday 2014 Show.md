@@ -2,9 +2,11 @@
 title = "Holiday 2014 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-27T21:34:39Z
+date = 09/27/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

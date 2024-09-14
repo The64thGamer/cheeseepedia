@@ -2,9 +2,11 @@
 title = "Arlington Heights, IL (955 W Dundee Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-15T19:51:44Z
+date = 10/15/2023
 
 [Article]
+startDate = "10/7/1981"
+endDate = "12/6/2015"
 pageThumbnailFile = "ArlingtonHeightsIL1Exterior2012MayGoogleMaps.png|A Street View photo of the store's exterior back in May 2012 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan"]
 gallery = []

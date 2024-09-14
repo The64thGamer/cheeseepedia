@@ -2,9 +2,11 @@
 title = "Chuck 2014 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-07-15T22:11:36Z
+date = 07/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Rockstar2014.png|Rockstar Walkaround Head"
 contributors = ["Showtimeinc","The 64th Gamer"]
 gallery = []

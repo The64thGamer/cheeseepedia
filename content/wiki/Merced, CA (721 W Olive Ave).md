@@ -2,9 +2,11 @@
 title = "Merced, CA (721 W Olive Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-09T17:52:45Z
+date = 09/09/2024
 
 [Article]
+startDate = "4/18/1983"
+endDate = "1/-/1995"
 contributors = ["Rexburg090","CorrectorMan","SuperCreamPiper2008","HoldenEye003","Caydenpedia","Cheeseclassic","ThatBoiCydalan","CECLover"]
 gallery = []
 +++

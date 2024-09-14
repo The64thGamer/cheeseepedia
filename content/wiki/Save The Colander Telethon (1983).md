@@ -2,9 +2,11 @@
 title = "Save The Colander Telethon (1983)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2024-03-06T20:23:32Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Colandertelethonaaronactor.png|thumb|266x266px|Aaron Fechter demonstrating the live performance employees will need to do during the 'History of the Colander' special show.","Colanderinstallationsegment.png|thumb|265x265px|Measurement of the character eyeline to the colander during the colander installation portion of the tape."]
 +++

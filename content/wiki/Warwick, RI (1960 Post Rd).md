@@ -2,9 +2,11 @@
 title = "Warwick, RI (1960 Post Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:38:42Z
+date = 07/31/2024
 
 [Article]
+startDate = "6/-/1984"
+endDate = ""
 contributors = ["CorrectorMan","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++

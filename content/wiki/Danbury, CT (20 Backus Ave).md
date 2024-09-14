@@ -2,9 +2,11 @@
 title = "Danbury, CT (20 Backus Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-13T17:12:12Z
+date = 08/13/2023
 
 [Article]
+startDate = "3/1/2010"
+endDate = "8/24/2013"
 pageThumbnailFile = "desc=Photo of Danbury's exterior, September 2012. (PC: Yelp)|image=danburyexterior.jpg"
 contributors = ["Midwestretail","CECFan2023","Rexburg090","CorrectorMan","ThatBoiCydalan","47.17.236.200"]
 gallery = []

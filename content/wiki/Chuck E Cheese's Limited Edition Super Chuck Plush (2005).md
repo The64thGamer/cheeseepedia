@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-29T02:49:33Z
+date = 04/29/2023
 
 [Article]
+startDate = "7/-/2005"
+endDate = ""
 contributors = ["BurgersNuggs445","CEC Tinley"]
 gallery = [":Supercec2.jpg"]
 +++

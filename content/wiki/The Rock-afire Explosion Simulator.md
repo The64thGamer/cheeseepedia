@@ -2,9 +2,11 @@
 title = "The Rock-afire Explosion Simulator"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-11-02T16:16:15Z
+date = 11/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Raesim.jpg|RAE Simulator Logo"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []

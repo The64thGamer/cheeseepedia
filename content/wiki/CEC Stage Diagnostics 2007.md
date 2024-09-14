@@ -2,9 +2,11 @@
 title = "CEC Stage Diagnostics 2007"
 draft = false
 tags = ["Showtapes"]
-date = 2023-01-31T01:16:07Z
+date = 01/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++

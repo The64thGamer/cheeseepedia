@@ -2,9 +2,11 @@
 title = "Aurora, CO (14005 E Exposition Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-01T15:09:23Z
+date = 04/01/2024
 
 [Article]
+startDate = "11/2/1999"
+endDate = ""
 pageThumbnailFile = "2022-09-17.jpg|The store's exterior"
 contributors = ["2601:280:5D02:1010:A126:7380:DB58:557B","Edboys99","The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","ChuckfeldStan","CEC Tinley","CoolerDude"]
 gallery = []

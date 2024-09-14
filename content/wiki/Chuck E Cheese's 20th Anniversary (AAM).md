@@ -2,9 +2,11 @@
 title = "Chuck E Cheese's 20th Anniversary (AAM)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-05-17T04:56:58Z
+date = 05/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

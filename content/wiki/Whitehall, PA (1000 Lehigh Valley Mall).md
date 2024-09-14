@@ -2,9 +2,11 @@
 title = "Whitehall, PA (1000 Lehigh Valley Mall)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-17T13:16:40Z
+date = 05/17/2024
 
 [Article]
+startDate = "12/16/1983"
+endDate = ""
 pageThumbnailFile = "Whitehall PA Chuck E Cheese exterior .jpg|A photo of the exterior taken on January 17, 2022"
 contributors = ["RockAfire Alex","Rexburg090","ChuckECool","69.124.126.253","CorrectorMan","ThatBoiCydalan","Bowling for Cheese","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","ShowbizMidwest","BurgersNuggs445","Icantbelieveitsnotbutter","Whitehall C.E.C Official","The 64th Gamer","AstridMascotFan2005","CECMentor"]
 gallery = []

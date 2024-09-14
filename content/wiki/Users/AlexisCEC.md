@@ -2,9 +2,11 @@
 title = "AlexisCEC"
 draft = false
 tags = ["User"]
-date = 2024-07-02T19:02:16Z
+date = 07/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["AlexisCEC"]
 gallery = ["1D74A2C0-DCEE-481A-8FCC-1CD2A4CA9D2F.jpg|thumb"]
 +++

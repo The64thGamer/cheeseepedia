@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 4 2020"
 draft = false
 tags = ["Live Shows"]
-date = 2022-09-14T03:46:59Z
+date = 09/14/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

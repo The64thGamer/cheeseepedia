@@ -2,9 +2,11 @@
 title = "Oak Lawn, IL (4031 95th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-30T05:49:35Z
+date = 03/30/2024
 
 [Article]
+startDate = "1/19/1983"
+endDate = "11/26/2017"
 pageThumbnailFile = "desc=Front shot of the store in 2017. (PC: Chicago Tribune)|image=OakLawnILCECExterior.jpeg"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan","Caydenpedia"]
 gallery = []

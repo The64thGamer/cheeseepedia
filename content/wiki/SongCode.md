@@ -2,9 +2,11 @@
 title = "SongCode"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2023-05-17T16:37:38Z
+date = 05/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Himitsu","CEC Tinley"]
 gallery = ["Song Code hardware.png|thumb|423x423px|The original programming setup prior to APS."]
 +++

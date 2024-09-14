@@ -2,9 +2,11 @@
 title = "Concept Unification Prototype Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-09-05T20:54:45Z
+date = 09/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Center Stage|image=Cu-concept1.jpg"
 contributors = ["Nostalgia Cow","Midwestretail","ChuckEPediaIsTheBest!","CEC Tinley","Caydenpedia","Stripes","The 64th Gamer","Saan1ty","YBP123","Documentor"]
 gallery = ["Cu-concept2.jpg|thumb|Stage Left|263x263px"]

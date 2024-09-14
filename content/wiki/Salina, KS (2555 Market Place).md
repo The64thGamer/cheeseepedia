@@ -2,9 +2,11 @@
 title = "Salina, KS (2555 Market Place)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-22T23:41:10Z
+date = 12/22/2023
 
 [Article]
+startDate = "9/10/1981"
+endDate = "1/8/1984"
 pageThumbnailFile = "Salina SPP Now.jpg|Site of the Salina SPP in June 2022."
 contributors = ["Cheeseclassic","The 64th Gamer"]
 gallery = []

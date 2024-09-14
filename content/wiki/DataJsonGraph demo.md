@@ -2,9 +2,11 @@
 title = "Data:Json:Graph demo"
 draft = false
 tags = []
-date = 2023-02-04T02:48:13Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Mediawiki>Pppery","The 64th Gamer"]
 gallery = []
 +++

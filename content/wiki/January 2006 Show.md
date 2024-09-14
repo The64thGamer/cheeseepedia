@@ -2,9 +2,11 @@
 title = "January 2006 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-12-31T03:18:28Z
+date = 12/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","RedaCEC","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

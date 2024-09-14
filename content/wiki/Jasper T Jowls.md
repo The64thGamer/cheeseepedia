@@ -2,9 +2,11 @@
 title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
-date = 2024-06-04T13:02:01Z
+date = 06/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 gallery = ["JasperRockstar.png|thumb|403x403px|Jaspers design as of 2024."]
 +++

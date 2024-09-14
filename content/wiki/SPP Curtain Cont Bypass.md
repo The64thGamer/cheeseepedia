@@ -2,9 +2,11 @@
 title = "SPP Curtain Cont Bypass"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-12-18T21:26:02Z
+date = 12/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Image0 (6).jpg|SPP Curtain Cont Bypass Board"
 contributors = ["The 64th Gamer"]
 gallery = []

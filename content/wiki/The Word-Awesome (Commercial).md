@@ -2,9 +2,11 @@
 title = "The Word-Awesome (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2023-02-22T02:09:51Z
+date = 02/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Marinwood / San Rafael, CA (175 Marinwood Ave)"
 draft = false
 tags = []
-date = 2024-05-08T15:26:54Z
+date = 05/08/2024
 
 [Article]
+startDate = "5/2/1983"
+endDate = "-/-/1994"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

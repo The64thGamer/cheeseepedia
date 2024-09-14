@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)"
 draft = false
 tags = []
-date = 2022-02-23T19:54:06Z
+date = 02/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

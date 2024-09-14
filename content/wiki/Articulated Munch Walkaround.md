@@ -2,9 +2,11 @@
 title = "Articulated Munch Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-08T02:18:15Z
+date = 04/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedMunch.jpg|thumb|The articulated Munch head paired with his standard outfit in the August 1997 show."]
 +++

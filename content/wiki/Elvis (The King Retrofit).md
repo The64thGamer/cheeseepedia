@@ -2,9 +2,11 @@
 title = "Elvis (The King Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2024-02-26T02:06:58Z
+date = 02/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Elvis.jpg|Jungle Jim's Elvis in August 2019 right after refurb."
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []

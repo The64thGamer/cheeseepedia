@@ -2,9 +2,11 @@
 title = "Colander Head Club Membership Card (1983)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-10-16T19:19:54Z
+date = 10/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

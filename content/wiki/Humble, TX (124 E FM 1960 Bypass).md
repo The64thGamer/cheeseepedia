@@ -2,9 +2,11 @@
 title = "Humble, TX (124 E FM 1960 Bypass)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-10T06:06:22Z
+date = 02/10/2024
 
 [Article]
+startDate = "12/16/1999"
+endDate = ""
 pageThumbnailFile = "desc=Exterior on June 1st, 2022.|image=Humble TX 2.0 Exterior.jpg"
 contributors = ["ThatBoiCydalan","The 64th Gamer","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
 gallery = []

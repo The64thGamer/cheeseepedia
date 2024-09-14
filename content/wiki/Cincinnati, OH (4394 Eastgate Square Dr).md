@@ -2,9 +2,11 @@
 title = "Cincinnati, OH (4394 Eastgate Square Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-01T02:14:13Z
+date = 09/01/2024
 
 [Article]
+startDate = "6/17/1990"
+endDate = ""
 pageThumbnailFile = "EastgateExterior2024.png|Image of Eastgate's current exterior (2024)."
 contributors = ["Documentor","CECBowlingGreen","Rexburg090","RedaCEC","216.125.34.66","Studio 18 Ent","CEC Tinley","Chuckatronics","ThatBoiCydalan","The 64th Gamer","CoolerDude"]
 gallery = []

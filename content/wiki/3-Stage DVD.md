@@ -2,9 +2,11 @@
 title = "3-Stage DVD"
 draft = false
 tags = ["Showtape Formats"]
-date = 2022-12-28T17:47:53Z
+date = 12/28/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Himitsu","The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Gold Collection Tape 5 (CRAE SVHS)"
 draft = false
 tags = ["Showtapes"]
-date = 2022-04-08T03:16:12Z
+date = 04/08/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

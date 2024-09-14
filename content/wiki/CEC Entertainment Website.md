@@ -2,9 +2,11 @@
 title = "CEC Entertainment Website"
 draft = false
 tags = []
-date = 2022-09-20T06:16:18Z
+date = 09/20/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

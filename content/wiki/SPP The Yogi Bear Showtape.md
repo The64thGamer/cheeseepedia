@@ -2,9 +2,11 @@
 title = "SPP The Yogi Bear Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T03:47:25Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["EagleScout610","76.180.21.243","The 64th Gamer"]
 gallery = []
 +++

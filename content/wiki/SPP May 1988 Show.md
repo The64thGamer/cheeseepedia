@@ -2,9 +2,11 @@
 title = "SPP May 1988 Show"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 2022-01-25T13:22:32Z
+date = 01/25/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

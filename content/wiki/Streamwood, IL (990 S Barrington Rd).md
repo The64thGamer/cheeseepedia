@@ -2,9 +2,11 @@
 title = "Streamwood, IL (990 S Barrington Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-22T22:29:28Z
+date = 12/22/2023
 
 [Article]
+startDate = "3/6/1990"
+endDate = "6/-/2014"
 pageThumbnailFile = "desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]
 gallery = []

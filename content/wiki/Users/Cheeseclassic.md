@@ -2,9 +2,11 @@
 title = "Cheeseclassic"
 draft = false
 tags = ["User"]
-date = 2024-06-24T17:41:50Z
+date = 06/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cheeseclassic"]
 gallery = []
 +++

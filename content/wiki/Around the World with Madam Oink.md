@@ -2,9 +2,11 @@
 title = "Around the World with Madam Oink"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = 2023-01-21T21:00:24Z
+date = 01/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","JamesLemony"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "1991 Nickelodeon"
 draft = false
 tags = []
-date = 2023-01-09T12:12:48Z
+date = 01/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Nickelodeon.png|The Nickelodeon seen at the Arlington, TX (fielder) store"
 contributors = ["BurgersNuggs445"]
 gallery = []

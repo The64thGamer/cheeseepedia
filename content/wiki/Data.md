@@ -2,9 +2,11 @@
 title = "Data"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2022-12-07T20:11:01Z
+date = 12/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

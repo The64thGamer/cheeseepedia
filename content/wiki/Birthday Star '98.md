@@ -2,9 +2,11 @@
 title = "Birthday Star '98"
 draft = false
 tags = ["Live Shows"]
-date = 2022-08-17T08:57:29Z
+date = 08/17/2022
 
 [Article]
+startDate = "9/-/1998"
+endDate = ""
 contributors = ["The 64th Gamer","Pasquallytheplumber","Ceclife13"]
 gallery = []
 +++

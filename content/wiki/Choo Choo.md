@@ -2,9 +2,11 @@
 title = "Choo Choo"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T02:18:19Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["Choo_Choo_2.jpg|thumb|Choo Choo's design."]
 +++

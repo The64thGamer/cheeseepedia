@@ -2,9 +2,11 @@
 title = "CEC Play Passes"
 draft = false
 tags = []
-date = 2023-03-22T19:51:20Z
+date = 03/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","The 64th Gamer"]
 gallery = []
 +++

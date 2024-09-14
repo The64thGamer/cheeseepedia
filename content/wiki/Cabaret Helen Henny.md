@@ -2,9 +2,11 @@
 title = "Cabaret Helen Henny"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-14T22:43:03Z
+date = 07/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["JamesLemony","The 64th Gamer","Jaxonia"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

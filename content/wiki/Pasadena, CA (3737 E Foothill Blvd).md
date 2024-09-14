@@ -2,9 +2,11 @@
 title = "Pasadena, CA (3737 E Foothill Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-03T20:47:54Z
+date = 07/03/2024
 
 [Article]
+startDate = "10/14/1993"
+endDate = ""
 pageThumbnailFile = "Pasadena Exterior .jpg|Pasadena's Exterior when it had the [[CEC 2005 Remodel Program"
 contributors = ["Cheeseclassic","TheChuckECheeseGuy","Chez","Snowbobsuperboi","ThatBoiCydalan"]
 gallery = []

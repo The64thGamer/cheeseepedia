@@ -2,9 +2,11 @@
 title = "Salem, OR (3240 Lancaster Dr NE)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-12T23:48:36Z
+date = 09/12/2024
 
 [Article]
+startDate = "-/-/1988"
+endDate = ""
 pageThumbnailFile = "NewSalem.jpg|Exterior in July 2023. (PC: Google Maps)"
 contributors = ["ChuckECool","SuperCreamPiper2008","AstridMascotFan2005","Detourenterprises"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "San Ramon, CA (1901 San Ramon Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-10T21:02:07Z
+date = 04/10/2024
 
 [Article]
+startDate = "10/-/1980"
+endDate = "-/-/1984"
 pageThumbnailFile = "San Ramon PTT Exterior.jpg|Exterior before closure"
 contributors = ["Cheeseclassic","Cy's Junk at School","PizzaEntertainmentFanX","The 64th Gamer"]
 gallery = []

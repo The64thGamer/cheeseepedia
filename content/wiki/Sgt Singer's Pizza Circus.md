@@ -2,9 +2,11 @@
 title = "Sgt. Singer's Pizza Circus"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-06-29T06:35:29Z
+date = 06/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster","BigCtheDataFinder"]
 gallery = ["Circus Band 2014 Promo.png|thumb|Sgt. Striper's Circus Band, as distributed by Okamoto Amusements of Japan."]
 +++

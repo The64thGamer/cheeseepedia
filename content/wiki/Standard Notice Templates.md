@@ -2,9 +2,11 @@
 title = "Standard: Notice Templates"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-06-08T00:41:06Z
+date = 06/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

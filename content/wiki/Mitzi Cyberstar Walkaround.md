@@ -2,9 +2,11 @@
 title = "Mitzi Cyberstar Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-29T15:29:16Z
+date = 04/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Beta Mitzi Costume??.jpg|Mitzi Walkaround"
 contributors = ["Showb1zlov3r","The 64th Gamer"]
 gallery = []

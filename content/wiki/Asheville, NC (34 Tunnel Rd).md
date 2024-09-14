@@ -2,9 +2,11 @@
 title = "Asheville, NC (34 Tunnel Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-28T03:17:55Z
+date = 12/28/2023
 
 [Article]
+startDate = "7/20/1984"
+endDate = "3/15/1996"
 pageThumbnailFile = "Asheville Rae .jpg|Picture of the middle stage taken sometime in the late 80s"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDEA:A756:46D9:2C8B","CharlesTheMech","Cheeseclassic"]
 gallery = []

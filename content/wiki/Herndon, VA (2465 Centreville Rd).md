@@ -2,9 +2,11 @@
 title = "Herndon, VA (2465 Centreville Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-08T12:04:43Z
+date = 06/08/2024
 
 [Article]
+startDate = "5/19/1992"
+endDate = ""
 pageThumbnailFile = "Herndon’s Exterior pre-2.0.jpg|Herndon’s Exterior in June 2023, a month before the 2.0 remodel. (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Antioch (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-29T02:02:44Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = []
 +++

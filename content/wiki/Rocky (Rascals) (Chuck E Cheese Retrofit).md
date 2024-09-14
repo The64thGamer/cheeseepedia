@@ -2,9 +2,11 @@
 title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["Unofficial Retrofits"]
-date = 2024-01-28T15:40:49Z
+date = 01/28/2024
 
 [Article]
+startDate = ""
+endDate = "-/-/1996"
 contributors = ["EagleScout610","2600:4040:AD76:D00:9D3F:F911:AA41:4329","SuperCreamPiper2008"]
 gallery = ["Rocky (Rascals).jpg|thumb|Rocky in 2007"]
 +++

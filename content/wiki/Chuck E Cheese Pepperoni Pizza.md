@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Pepperoni Pizza"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-24T21:26:02Z
+date = 04/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","74.137.220.26"]
 gallery = ["CECFrozenPepperoniPizzaNutritionFacts.png|Nutrition Facts|thumb|287x287px|none"]
 +++

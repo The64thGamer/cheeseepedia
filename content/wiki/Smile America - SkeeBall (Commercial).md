@@ -2,9 +2,11 @@
 title = "Smile America - SkeeBall (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2023-09-25T00:03:15Z
+date = 09/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Maddox121","BurgersNuggs445","The 64th Gamer"]
 gallery = []
 +++

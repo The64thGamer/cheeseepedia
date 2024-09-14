@@ -2,9 +2,11 @@
 title = "Pittsburgh (North Hills), PA (9795 Perry Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-13T01:56:33Z
+date = 07/13/2023
 
 [Article]
+startDate = "2/24/1988"
+endDate = "7/16/1994"
 contributors = ["CorrectorMan"]
 gallery = []
 +++

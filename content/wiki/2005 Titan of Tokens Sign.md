@@ -2,9 +2,11 @@
 title = "2005 Titan of Tokens Sign"
 draft = false
 tags = []
-date = 2022-12-28T17:47:47Z
+date = 12/28/2022
 
 [Article]
+startDate = "-/-/2005"
+endDate = ""
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = ["Titanoftokenssign.jpg|thumb|Titan of Tokens sign"]
 +++

@@ -2,9 +2,11 @@
 title = "PTT Unique Store Fixtures"
 draft = false
 tags = ["Pizza Time Theatre Employee & Store Items"]
-date = 2022-12-07T23:19:22Z
+date = 12/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

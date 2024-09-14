@@ -2,9 +2,11 @@
 title = "Spokane, WA (2301 W Wellesley Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-25T18:39:34Z
+date = 06/25/2024
 
 [Article]
+startDate = "4/14/1983"
+endDate = ""
 pageThumbnailFile = "SpokanePTTjpeg.jpeg|Spokane’s exterior as a PTT"
 contributors = ["ChuckECool","CEC Tinley","Rexburg090","199.197.71.213","199.197.73.149","2605:AD80:31:19FD:C84B:E17E:B579:CFBE","CorrectorMan","2601:601:8783:5B10:A563:E33B:15C4:304D","SuperCreamPiper2008","Cecanddisneyfan2004","Cheeseclassic"]
 gallery = []

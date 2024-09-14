@@ -2,9 +2,11 @@
 title = "Family Vision 503"
 draft = false
 tags = []
-date = 2023-03-02T16:31:37Z
+date = 03/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Five oh three.png|Family Vision #503"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese in the Galaxy 5000 Display"
 draft = false
 tags = ["Promotional Material"]
-date = 2023-07-30T04:11:57Z
+date = 07/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Galaxy5000.jpg"
 contributors = ["Documentor","BurgersNuggs445"]
 gallery = []

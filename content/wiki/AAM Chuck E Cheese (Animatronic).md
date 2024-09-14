@@ -2,9 +2,11 @@
 title = "AAM Chuck E. Cheese (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-30T02:11:36Z
+date = 08/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","LolMarklosthisaccountalready","216.125.34.66","The 64th Gamer","Paskkkk"]
 gallery = []
 +++

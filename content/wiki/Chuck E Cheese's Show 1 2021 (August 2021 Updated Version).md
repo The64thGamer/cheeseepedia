@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 1 2021 (August 2021 Updated Version)"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-19T23:40:56Z
+date = 08/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Himitsu"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

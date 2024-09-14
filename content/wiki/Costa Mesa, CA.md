@@ -2,9 +2,11 @@
 title = "Costa Mesa, CA"
 draft = false
 tags = []
-date = 2021-12-03T23:05:46Z
+date = 12/03/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

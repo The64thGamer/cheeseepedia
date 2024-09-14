@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese’s Nerf Stress Foot"
 draft = false
 tags = ["Merchandise"]
-date = 2022-12-07T23:20:02Z
+date = 12/07/2022
 
 [Article]
+startDate = "-/-/2003"
+endDate = ""
 pageThumbnailFile = "dans2.jpg"
 contributors = ["Ceclife13"]
 gallery = []

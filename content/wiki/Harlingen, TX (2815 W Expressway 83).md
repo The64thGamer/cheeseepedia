@@ -2,9 +2,11 @@
 title = "Harlingen, TX (2815 W Expressway 83)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-23T22:39:37Z
+date = 04/23/2024
 
 [Article]
+startDate = "9/10/2012"
+endDate = ""
 pageThumbnailFile = "Harlingen TX.jpg|Harlingen’s Exterior (PC: Janeth Arteima on Google Maps)"
 contributors = ["2601:280:5D02:1010:2C80:8709:FE91:257D","Cheeseclassic","ThatBoiCydalan"]
 gallery = []

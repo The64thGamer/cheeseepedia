@@ -2,9 +2,11 @@
 title = "Olathe, KS (15225 W 134th St)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-05T02:48:32Z
+date = 04/05/2024
 
 [Article]
+startDate = "5/3/2002"
+endDate = ""
 pageThumbnailFile = "Olathe 2.0.jpg|Exterior, 2017 (PC: Terran Blake)"
 contributors = ["66.215.38.213","The 64th Gamer","Cheeseclassic"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Columbus, OH (5842 Columbus Square)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-11T17:38:50Z
+date = 05/11/2023
 
 [Article]
+startDate = "-/-/1982"
+endDate = "12/-/1991"
 contributors = ["ChuckECool"]
 gallery = []
 +++

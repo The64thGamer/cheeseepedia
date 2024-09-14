@@ -2,9 +2,11 @@
 title = "Just for Kids Show 2000"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-13T08:28:11Z
+date = 07/13/2024
 
 [Article]
+startDate = "4/-/2000"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","2601:81:8500:E190:74A4:B452:52FC:27F9","Cheeseclassic","Jaxonia"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E Cheese's Pow-Air Play"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-07-08T19:32:11Z
+date = 07/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckETasticAlt","GuestIsJustBest","Stripes"]
 gallery = ["1996 Model .jpg|thumb|1996 Model","Air Hockey 1996.png|thumb|2006 Model"]
 +++

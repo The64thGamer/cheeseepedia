@@ -2,9 +2,11 @@
 title = "SPP Homely for Christmas '88"
 draft = false
 tags = ["Showtapes"]
-date = 2024-01-28T22:23:10Z
+date = 01/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Stripes","DerekCat"]
 gallery = []
 +++

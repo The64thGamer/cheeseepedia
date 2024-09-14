@@ -2,9 +2,11 @@
 title = "CEC LRS Order Pager"
 draft = false
 tags = ["Promotional Material"]
-date = 2022-12-06T18:40:43Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "LRS_Pager_2017_Front.jpg|LRS Pager Front"
 contributors = ["The 64th Gamer"]
 gallery = ["LRS Pager Back 2017.jpg|thumb|269x269px|LRS Pager Back"]

@@ -2,9 +2,11 @@
 title = "Burbank, CA (930 N San Fernando Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-09T01:00:45Z
+date = 09/09/2024
 
 [Article]
+startDate = "12/28/1999"
+endDate = ""
 pageThumbnailFile = "desc=Burbank's exterior as of July 2023.|image=Higher quality burbank.jpg"
 contributors = ["Chuckstar69","CorrectorMan","ThatBoiCydalan","CEC1988","Bunbunboy8"]
 gallery = []

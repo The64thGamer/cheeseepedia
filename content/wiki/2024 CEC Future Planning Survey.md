@@ -2,9 +2,11 @@
 title = "2024 CEC Future Planning Survey"
 draft = false
 tags = ["Events"]
-date = 2024-05-31T18:10:18Z
+date = 05/31/2024
 
 [Article]
+startDate = "3/25/2024"
+endDate = ""
 pageThumbnailFile = "Surveythumbnailmarch2024.png|Survey Page"
 contributors = ["The 64th Gamer"]
 gallery = ["2024surveyclosingmessage.png|thumb|280x280px|Closing Message"]

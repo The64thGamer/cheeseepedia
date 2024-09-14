@@ -2,9 +2,11 @@
 title = "Marrero, LA (1951 Ames Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-01T19:17:12Z
+date = 10/01/2023
 
 [Article]
+startDate = "-/-/1982"
+endDate = ""
 contributors = ["CECLouisiana"]
 gallery = []
 +++

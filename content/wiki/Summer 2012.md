@@ -2,9 +2,11 @@
 title = "Summer 2012"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-10T16:43:27Z
+date = 02/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []
 +++

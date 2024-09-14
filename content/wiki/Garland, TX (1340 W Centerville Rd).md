@@ -2,9 +2,11 @@
 title = "Garland, TX (1340 W Centerville Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-03T07:03:02Z
+date = 08/03/2023
 
 [Article]
+startDate = "11/3/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++

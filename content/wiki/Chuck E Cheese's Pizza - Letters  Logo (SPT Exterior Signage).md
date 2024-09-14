@@ -2,9 +2,11 @@
 title = "'Chuck E. Cheese's Pizza' - Letters / Logo (SPT Exterior Signage)"
 draft = false
 tags = []
-date = 2024-09-10T16:49:54Z
+date = 09/10/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CEC1988","CECLover"]
 gallery = ["Chucke-cheeses-pizza.svg|200px|thumb|Right|Used from 1987-2011 in a store, Used from 1987 to 2024 as a road sign"]
 +++

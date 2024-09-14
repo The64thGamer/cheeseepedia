@@ -2,9 +2,11 @@
 title = "Albany, GA (2601 Dawson Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-08T15:25:16Z
+date = 08/08/2024
 
 [Article]
+startDate = "12/16/2003"
+endDate = ""
 contributors = ["CorrectorMan","CEC Kokomo","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","AstridMascotFan2005"]
 gallery = ["Albany, GA.jpg|thumb|Albany's exterior before receiving the 2.0 remodel. (PC: Google Maps)"]
 +++

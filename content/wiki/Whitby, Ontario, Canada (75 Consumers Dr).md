@@ -2,9 +2,11 @@
 title = "Whitby, Ontario, Canada (75 Consumers Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-25T00:27:56Z
+date = 06/25/2024
 
 [Article]
+startDate = "10/12/2001"
+endDate = ""
 pageThumbnailFile = "Whitby's Exterior in June 2021 (PC- Google Maps).jpg|Whitby's Exterior in June 2021 (PC: Google Maps)"
 contributors = ["Save phase 5","Cheeseclassic"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Showbiz Pizza Program 6"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = 2022-01-30T00:43:49Z
+date = 01/30/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Shoosh6.png|thumb|502x502px|Showbiz Pizza Program 6"]
 +++

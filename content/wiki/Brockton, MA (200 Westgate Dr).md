@@ -2,9 +2,11 @@
 title = "Brockton, MA (200 Westgate Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-07T14:07:44Z
+date = 04/07/2024
 
 [Article]
+startDate = "-/-/1993"
+endDate = "4/-/2003"
 pageThumbnailFile = "Brockton2003.png|The store's exterior in 2003 before closure."
 contributors = ["Rexburg090","2600:4040:5A0C:5900:1158:165B:CC1C:7F0E","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []

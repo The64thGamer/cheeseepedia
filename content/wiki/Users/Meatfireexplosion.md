@@ -2,9 +2,11 @@
 title = "Meatfireexplosion"
 draft = false
 tags = ["User"]
-date = 2023-07-21T00:22:33Z
+date = 07/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Meatfireexplosion"]
 gallery = []
 +++

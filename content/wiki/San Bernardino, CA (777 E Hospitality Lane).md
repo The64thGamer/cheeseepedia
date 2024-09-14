@@ -2,9 +2,11 @@
 title = "San Bernardino, CA (777 E Hospitality Lane)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-20T06:31:13Z
+date = 02/20/2024
 
 [Article]
+startDate = "6/27/2003"
+endDate = ""
 pageThumbnailFile = "desc=San Bernardino's Exterior in October 1, 2023. (PC: AnthonyRWikis7283)|image=Chuck E. Cheese Hospitality Ln Exterior 2023.jpg"
 contributors = ["AnthonyRWikis7283","The 64th Gamer"]
 gallery = []

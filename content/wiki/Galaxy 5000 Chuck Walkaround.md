@@ -2,9 +2,11 @@
 title = "Galaxy 5000 Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-09-10T16:54:22Z
+date = 09/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ArticulatedGal5k.jpg|Galaxy 5000 Outfit"
 contributors = ["ShowbizMidwest","The 64th Gamer","CEC Tinley","2601:81:8500:E190:74A4:B452:52FC:27F9"]
 gallery = []

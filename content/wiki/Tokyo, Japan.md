@@ -2,9 +2,11 @@
 title = "Tokyo, Japan"
 draft = false
 tags = ["Store List"]
-date = 2023-03-23T23:42:21Z
+date = 03/23/2023
 
 [Article]
+startDate = "-/-/1999"
+endDate = ""
 contributors = ["ShowbizMidwest"]
 gallery = []
 +++

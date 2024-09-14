@@ -2,9 +2,11 @@
 title = "Cyberamics Road Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-09-12T00:57:12Z
+date = 09/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Jonesboro Protoype Road Stage.jpg|The first Road Stage. (Jonesboro, Georgia)"
 contributors = ["Bowling for Cheese","2601:191:8580:9F90:A565:8F5B:33A1:163E","BigCtheDataFinder","2600:387:5:807:0:0:0:6F","67.87.119.58","Sponch man","168.69.254.247","TrimSafe6859","CECBowlingGreen","ShowbizMidwest","RPCEC Backup","The 64th Gamer","ThatBoiCydalan","Rexburg090","Maddox121","170.185.215.34","173.216.33.6","216.125.34.66","CorrectorMan","CEC Kokomo","Letterstolooneybird","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CoolerDude","Ceclife13","AstridMascotFan2005","Cy's Junk at School"]
 gallery = []

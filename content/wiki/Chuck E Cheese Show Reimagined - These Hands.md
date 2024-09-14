@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Show Reimagined - These Hands"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-26T13:35:43Z
+date = 06/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Columbus, IN (1455 N National Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-01T14:59:34Z
+date = 01/01/2024
 
 [Article]
+startDate = "12/8/2004"
+endDate = "10/8/2023"
 pageThumbnailFile = "Columbus IN Exterior.jpg|Exterior, 2018"
 contributors = ["Cheeseclassic","ThatBoiCydalan","Caydenpedia"]
 gallery = []

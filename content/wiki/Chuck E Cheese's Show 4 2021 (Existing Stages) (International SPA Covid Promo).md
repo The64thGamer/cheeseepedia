@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 4 2021 (Existing Stages) (International SPA Covid Promo)"
 draft = false
 tags = ["Showtapes"]
-date = 2023-06-29T11:10:15Z
+date = 06/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu","108.28.184.254","The 64th Gamer","Dame868","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

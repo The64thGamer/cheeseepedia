@@ -2,9 +2,11 @@
 title = "North Bergen, NJ (8101 Tonelle Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-03T19:20:39Z
+date = 07/03/2024
 
 [Article]
+startDate = "12/20/1993"
+endDate = ""
 pageThumbnailFile = "desc=Exterior before 2.0 with 1992 checkers and 2005 signage and awnings (4/15/2022) (PC: RetailRyan on Flickr)|image=52014556816 5726f526b9 4k.jpg"
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Steven 'CEC' Master","BurgersNuggs445","ThatBoiCydalan","Cecnj98","Cheeseclassic","The 64th Gamer","Cy's Junk at School"]
 gallery = []

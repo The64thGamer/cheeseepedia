@@ -2,9 +2,11 @@
 title = "Dog (Mr. Munch Retrofit)"
 draft = false
 tags = ["FunZone"]
-date = 2024-03-06T16:00:50Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fppdog.png|The Bot in the infamous 'No More Chuck E. Cheese' Video"
 contributors = ["StudioC","BurgersNuggs445","PizzaEntertainmentFanX"]
 gallery = []

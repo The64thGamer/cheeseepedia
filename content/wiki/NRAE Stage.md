@@ -2,9 +2,11 @@
 title = "NRAE Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-16T01:02:01Z
+date = 05/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "New Rockafire.png|A promotional photo of the New Rock-afire Explosion, featuring both side turntables showing the first side."
 contributors = ["GallaRBX2"]
 gallery = []

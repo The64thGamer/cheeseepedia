@@ -2,9 +2,11 @@
 title = "Click / Murray D. Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-07-18T00:36:03Z
+date = 07/18/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Avabeckley"]
 gallery = []
 +++

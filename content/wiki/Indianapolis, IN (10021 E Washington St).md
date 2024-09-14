@@ -2,9 +2,11 @@
 title = "Indianapolis, IN (10021 E Washington St)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-13T15:17:09Z
+date = 03/13/2024
 
 [Article]
+startDate = "12/-/2011"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","Tux Chuck"]
 gallery = ["Exterior2018SeptemberGoogleMaps.png|thumb|Street view of the exterior in September 2018 (PC: Google Maps)"]
 +++

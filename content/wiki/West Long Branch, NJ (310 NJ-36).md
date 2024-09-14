@@ -2,9 +2,11 @@
 title = "West Long Branch, NJ (310 NJ-36)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-19T20:56:00Z
+date = 12/19/2023
 
 [Article]
+startDate = "11/20/2000"
+endDate = "9/21/2015"
 pageThumbnailFile = "West Long Branch Exterior.jpg|West Long Branch's Exterior in the 2010's. (PC: Yelp)"
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Jackson, MS (5465 I-55)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-02T02:54:17Z
+date = 01/02/2024
 
 [Article]
+startDate = "8/-/1982"
+endDate = ""
 pageThumbnailFile = "desc=The store's exterior on March 11, 2005 (PC: Unknown)|image=Jackson MS 2005.jpg"
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
 gallery = []

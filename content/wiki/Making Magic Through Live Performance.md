@@ -2,9 +2,11 @@
 title = "Making Magic Through Live Performance"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-11-04T21:15:49Z
+date = 11/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++

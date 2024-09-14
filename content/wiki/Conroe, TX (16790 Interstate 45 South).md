@@ -2,9 +2,11 @@
 title = "Conroe, TX (16790 Interstate 45 South)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-23T15:20:11Z
+date = 06/23/2023
 
 [Article]
+startDate = "6/29/2001"
+endDate = ""
 contributors = ["2600:100D:B14B:BDC0:8894:13A0:F50D:4E75","Rexburg090","2600:4040:5A0E:D900:D59C:7501:D963:AC1B","ChuckfeldStan"]
 gallery = []
 +++

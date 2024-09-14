@@ -2,9 +2,11 @@
 title = "Winchester Foxy Colleen (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-28T14:15:48Z
+date = 02/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["WalterB","CEC Tinley","PizzaEntertainmentFanX"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-07T02:50:04Z
+date = 08/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BigCtheDataFinder","The 64th Gamer"]
 gallery = ["Indonesian Care Bears.png|thumb|An Associated Press article announcing the development of the Care-A-Lot Castle show (1986)|269x269px"]
 +++

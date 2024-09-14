@@ -2,9 +2,11 @@
 title = "Ellisville, MO (15913 Manchester Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-23T02:14:07Z
+date = 12/23/2023
 
 [Article]
+startDate = "8/21/1990"
+endDate = ""
 pageThumbnailFile = "desc=Exterior, 2017|image=EllisvilleMOExterior.jpg"
 contributors = ["ChuckECool","Midwestretail","ThatBoiCydalan","ShowbizMidwest","216.125.34.66","72.76.251.24","97.91.168.214","Documentor","Stripes"]
 gallery = []

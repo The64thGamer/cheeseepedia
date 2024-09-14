@@ -2,9 +2,11 @@
 title = "April 2008 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-30T13:11:44Z
+date = 07/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Bowling for Cheese","BurgersNuggs445","71.244.213.235","172.58.159.105","AstridMascotFan2005"]
 gallery = []
 +++

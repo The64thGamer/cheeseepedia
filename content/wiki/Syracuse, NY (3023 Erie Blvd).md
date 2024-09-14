@@ -2,9 +2,11 @@
 title = "Syracuse, NY (3023 Erie Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-26T14:35:43Z
+date = 12/26/2023
 
 [Article]
+startDate = "12/27/2002"
+endDate = ""
 pageThumbnailFile = "Syracuse, NY Exterior 2.0.jpg|Exterior, 2022"
 contributors = ["2600:1012:B1AF:7538:30D5:B962:3FA:B29","Cheeseclassic"]
 gallery = []

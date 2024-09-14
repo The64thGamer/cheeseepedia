@@ -2,9 +2,11 @@
 title = "Knoxville, TN (8225 Kingston Pike)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-25T01:00:21Z
+date = 05/25/2023
 
 [Article]
+startDate = "3/23/1998"
+endDate = ""
 contributors = ["Mechaitheracer25","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","Carl525","CEC Tinley"]
 gallery = []
 +++

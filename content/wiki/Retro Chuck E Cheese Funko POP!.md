@@ -2,9 +2,11 @@
 title = "Retro Chuck E. Cheese Funko POP!"
 draft = false
 tags = ["Merchandise"]
-date = 2024-05-14T04:16:49Z
+date = 05/14/2024
 
 [Article]
+startDate = "6/6/2023"
+endDate = ""
 contributors = ["The 64th Gamer","74.137.220.26"]
 gallery = []
 +++

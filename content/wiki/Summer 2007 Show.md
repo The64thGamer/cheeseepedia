@@ -2,9 +2,11 @@
 title = "Summer 2007 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-16T22:09:13Z
+date = 08/16/2023
 
 [Article]
+startDate = "7/-/2007"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","RedaCEC","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Cy's Junk at School"]
 gallery = []
 +++

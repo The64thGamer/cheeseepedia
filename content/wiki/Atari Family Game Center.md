@@ -2,9 +2,11 @@
 title = "Atari Family Game Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-05-20T01:43:40Z
+date = 05/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Leisure teisure geisure ceisure.png|Atari Leisure Time Game Center Concept Art (1974-1975)"
 contributors = ["The 64th Gamer"]
 gallery = []

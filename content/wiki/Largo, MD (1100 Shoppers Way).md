@@ -2,9 +2,11 @@
 title = "Largo, MD (1100 Shoppers Way)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-19T15:42:06Z
+date = 06/19/2024
 
 [Article]
+startDate = "2/6/2004"
+endDate = ""
 pageThumbnailFile = "Largo, MD in 2017.jpg|Largo, MD’s exterior in the year 2017"
 contributors = ["PachCEC","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []

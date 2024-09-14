@@ -2,9 +2,11 @@
 title = "Studio C Cappa Prototype"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-06-03T06:46:57Z
+date = 06/03/2024
 
 [Article]
+startDate = "12/-/2002"
+endDate = ""
 contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","Documentor","BurgersNuggs445"]
 gallery = ["Studiocbuffetholyshitthisisugly.jpg|thumb|Small-Town Studio C Prototype (location unknown)",":Ststc.png",":Stsc1.png"]
 +++

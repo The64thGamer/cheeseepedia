@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese"
 draft = false
 tags = ["Characters"]
-date = 2024-06-04T13:05:07Z
+date = 06/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Chuckmascotcostume.png|Chuck E. as he appears in a report from 1980 <ref>https://archive.org/details/various-ptt-hd-scans/81report2.jpg</ref>."
 contributors = ["Stripes","2601:81:8500:E190:2C16:3458:6E45:2D9D","2603:8001:8001:F591:2889:4A92:F0A:F19A","The 64th Gamer","Caydenpedia","CECMentor"]
 gallery = ["Winchester_CEC_HD.jpg|thumb|253x253px|Chuck E.'s [[Winchester Chuck E. Cheese V2 (Animatronic)|second design","201B JPG.png|thumb|194x194px|Chuck E.'s face as featured on tokens produced from 1983 to the early 2000’s <ref>https://www.cectokens.com/type-2</ref>.","CEC CU Vestavia Hills AL--001.jpg|thumb|293x293px|Chuck E.'s [[Concept Unification","Studio_C_1997.jpg|thumb|196x196px|Chuck E.'s [[Studio C (1997)|Studio C","IMG_1834_avenger.jpg|thumb|197x197px|The 'Avenger' costume name on a 2004 suit piece.","Tumblr_b213eda4567e81484c4d855806b8014b_4126d1cf_1280.jpg|thumb|199x199px|Chuck E.'s concept art as illustrated by Chris Ayers."]

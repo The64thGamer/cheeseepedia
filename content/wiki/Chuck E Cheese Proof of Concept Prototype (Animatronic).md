@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Proof of Concept Prototype (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-16T07:57:30Z
+date = 02/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Proof_of_Concept_Animatronic_at_cv9.jpg|The Prototype at CheeseVention 9 in 2012."
 contributors = ["The 64th Gamer"]
 gallery = [":Headturnconfirmation.png|Headturnconfirmation.png",":Cv9protochuck1.jpg|Cv9protochuck1.jpg"]

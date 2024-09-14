@@ -2,9 +2,11 @@
 title = "The Twist"
 draft = false
 tags = ["Live Shows"]
-date = 2022-07-15T03:17:06Z
+date = 07/15/2022
 
 [Article]
+startDate = "8/-/1997"
+endDate = ""
 contributors = ["StudioC","The 64th Gamer"]
 gallery = []
 +++

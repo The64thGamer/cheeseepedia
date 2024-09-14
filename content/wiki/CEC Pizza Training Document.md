@@ -2,9 +2,11 @@
 title = "CEC Pizza Training Document"
 draft = false
 tags = ["Documents"]
-date = 2023-05-04T12:15:59Z
+date = 05/04/2023
 
 [Article]
+startDate = "-/-/2000"
+endDate = ""
 pageThumbnailFile = "fwefwewfef23f23f2f.png|All Three Pages"
 contributors = ["The 64th Gamer","CEC Tinley"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "KXAS Action News Showbiz ShowScan Promotion (February 4, 1984)"
 draft = false
 tags = ["News Footage"]
-date = 2023-11-03T21:40:53Z
+date = 11/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

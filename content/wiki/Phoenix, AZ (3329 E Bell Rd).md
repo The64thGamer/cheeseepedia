@@ -2,9 +2,11 @@
 title = "Phoenix, AZ (3329 E Bell Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-28T19:58:40Z
+date = 10/28/2023
 
 [Article]
+startDate = "3/26/1999"
+endDate = "1/-/2015"
 pageThumbnailFile = "desc=Phoenix (Bell)'s exterior months before closure. (PC: Google Maps) |image=Bell az.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan","Rexburg090","CEC Tinley","Chez"]
 gallery = []

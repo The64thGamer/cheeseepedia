@@ -2,9 +2,11 @@
 title = "Cedar Rapids, IA (170 Collins Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-15T21:19:40Z
+date = 11/15/2023
 
 [Article]
+startDate = "11/26/1981"
+endDate = "11/-/2013"
 pageThumbnailFile = "desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Modesto, CA (3037 Sisk Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-30T00:37:14Z
+date = 08/30/2024
 
 [Article]
+startDate = "5/18/1981"
+endDate = ""
 pageThumbnailFile = "ModestoCA2.0Exterior.jpg|Exterior, October 17, 2023 (PC: Angelica C. via Yelp)"
 contributors = ["ChuckECool","Rexburg090","RedaCEC","Midwestretail","ThatBoiCydalan","CEC Tinley","Cheeseclassic","Chez","JND","The 64th Gamer","CEC1988"]
 gallery = []

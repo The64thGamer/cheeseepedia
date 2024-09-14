@@ -2,9 +2,11 @@
 title = "Standard: Animatronic Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2024-08-27T18:05:47Z
+date = 08/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "April 2012 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-16T01:31:10Z
+date = 06/16/2024
 
 [Article]
+startDate = "4/-/2012"
+endDate = ""
 contributors = ["The 64th Gamer","CEC Washington","Documentor","BurgersNuggs445","Ceclife13","Dame0824"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

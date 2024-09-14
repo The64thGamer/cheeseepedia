@@ -2,9 +2,11 @@
 title = "Tropical Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2023-04-25T21:10:04Z
+date = 04/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "217272329_10159848633932474_6074977489989638803_n_%281%29.jpg|The Tropical Stage at Surfside Beach, SC/ Richmond, VA"
 contributors = ["Emcaacme","The 64th Gamer"]
 gallery = []

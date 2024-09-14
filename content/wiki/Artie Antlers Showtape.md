@@ -2,9 +2,11 @@
 title = "Artie Antlers Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2022-12-17T15:02:57Z
+date = 12/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

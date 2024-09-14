@@ -2,9 +2,11 @@
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-26T01:45:37Z
+date = 03/26/2024
 
 [Article]
+startDate = "-/-/1982"
+endDate = ""
 pageThumbnailFile = "Bell’s Exterior.jpg| Bell's Exterior before 2.0 Remodel (PC: Google Maps)"
 contributors = ["ChuckECool","47.149.242.216","ShowbizMidwest","CEC Tinley","Rexburg090","Cheeseclassic","Polykirisame","Chez"]
 gallery = []

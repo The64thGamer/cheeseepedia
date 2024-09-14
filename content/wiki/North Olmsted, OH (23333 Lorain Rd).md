@@ -2,9 +2,11 @@
 title = "North Olmsted, OH (23333 Lorain Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-12T23:57:09Z
+date = 08/12/2024
 
 [Article]
+startDate = "12/-/1981"
+endDate = ""
 pageThumbnailFile = "North olmsted pizza time theatre location.jpg|The site of the North Olmsted Pizza Time Theatre today"
 contributors = ["EagleScout610","Mecha","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []

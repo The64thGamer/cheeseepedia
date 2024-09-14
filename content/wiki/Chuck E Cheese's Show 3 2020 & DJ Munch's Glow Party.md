@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 3 2020 & DJ Munch's Glow Party"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-13T00:48:08Z
+date = 10/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Himitsu","Dame868","Ceclife13","2600:1012:B055:502A:DC28:BBDB:8B16:7D","CyCGM"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

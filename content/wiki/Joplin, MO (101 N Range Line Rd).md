@@ -2,9 +2,11 @@
 title = "Joplin, MO (101 N Range Line Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-12T16:08:39Z
+date = 08/12/2024
 
 [Article]
+startDate = "7/22/2003"
+endDate = "3/30/2024"
 pageThumbnailFile = "Exterior before closure.jpg|Joplin, MO’s exterior before closure"
 contributors = ["JND","PachCEC","ThatBoiCydalan","DragonIrl","AstridMascotFan2005"]
 gallery = []

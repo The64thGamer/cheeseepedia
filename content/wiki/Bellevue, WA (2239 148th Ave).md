@@ -2,9 +2,11 @@
 title = "Bellevue, WA (2239 148th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-15T13:19:03Z
+date = 03/15/2024
 
 [Article]
+startDate = "2/-/1996"
+endDate = ""
 contributors = ["CorrectorMan","Lexdoes","Caydenpedia"]
 gallery = ["Bellevue.jpg|thumb|Bellevue's exterior as of 2023. (PC: Google Maps)"]
 +++

@@ -2,9 +2,11 @@
 title = "Harlem, NY (280 St. Nicholas Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:39:47Z
+date = 07/31/2024
 
 [Article]
+startDate = "12/30/2006"
+endDate = "5/-/2020"
 pageThumbnailFile = "Harlem's Exterior, August 2019.png|Exterior, August 2019 (PC: Google Maps)"
 contributors = ["Save phase 5","Cheeseclassic","AstridMascotFan2005"]
 gallery = []

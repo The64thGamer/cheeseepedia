@@ -2,9 +2,11 @@
 title = "Cheese E. Street"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-03-14T02:07:03Z
+date = 03/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Cheese E. Street 1.jpg|A picture featured in a debut article of Cheese E. Street"
 contributors = ["The 64th Gamer","JamesLemony","BurgersNuggs445"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Navori System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-10-07T21:13:32Z
+date = 10/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]
 gallery = ["Essnm .png|thumb|361x361px|The [[Dallas, TX (7110 S Westmoreland Rd)"]
 +++

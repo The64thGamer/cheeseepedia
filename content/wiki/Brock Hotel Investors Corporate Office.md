@@ -2,9 +2,11 @@
 title = "Brock Hotel Investors Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2022-03-03T01:13:29Z
+date = 03/03/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

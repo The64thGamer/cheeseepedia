@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
 tags = []
-date = 2024-05-21T02:09:55Z
+date = 05/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":ThatonecoolPTTadfron1977.png"]
 +++

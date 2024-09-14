@@ -2,9 +2,11 @@
 title = "Sente Technologies Milpitas, CA R&D Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-03-22T19:55:32Z
+date = 03/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

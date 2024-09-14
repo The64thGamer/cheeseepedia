@@ -2,9 +2,11 @@
 title = "The Great All-American Pizza Show! (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2024-04-03T07:40:04Z
+date = 04/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Storyboardthumbnailpttcommercial.png|A storyboard of the opening shots of the commercial, 1979."
 contributors = ["Pench0782","CEC Tinley","The 64th Gamer"]
 gallery = []

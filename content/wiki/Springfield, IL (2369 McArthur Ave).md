@@ -2,9 +2,11 @@
 title = "Springfield, IL (2369 McArthur Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-26T14:49:06Z
+date = 07/26/2024
 
 [Article]
+startDate = "4/22/1982"
+endDate = ""
 pageThumbnailFile = "SpringfieldILExterior2022SeptemberGoogleMaps.png|Street view of the exterior in September 2022 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","Cecbird","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Tux Chuck","The 64th Gamer","Livelycheese","CECMentor","Veronancy","AstridMascotFan2005","Cecanddisneyfan2004","CoolerDude","OMMEnterainment"]
 gallery = []

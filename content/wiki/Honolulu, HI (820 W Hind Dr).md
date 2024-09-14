@@ -2,9 +2,11 @@
 title = "Honolulu, HI (820 W Hind Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-07T17:11:06Z
+date = 04/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Honolulu's exterior before closure. (Photo taken May 30th, 2008)|image=CECHonoluluHIHindExterior.png"
 contributors = ["ThatBoiCydalan","BurgersNuggs445","Rexburg090","CorrectorMan","Cy's Junk at School"]
 gallery = [":CECHonoluluHIHindRockAfire.png",":AinaHainaManagementHiring11-10-1982.png",":AinaHainaElectronicGameTechHiring11-11-1982.png"]

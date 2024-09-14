@@ -2,9 +2,11 @@
 title = "Chuck E Cheese's 20th Anniversary"
 draft = false
 tags = ["Live Shows"]
-date = 2022-07-14T21:41:27Z
+date = 07/14/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["StudioC"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

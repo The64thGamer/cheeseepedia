@@ -2,9 +2,11 @@
 title = "Spring 2014 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-10T16:42:27Z
+date = 02/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Himitsu"]
 gallery = []
 +++

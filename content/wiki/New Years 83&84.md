@@ -2,9 +2,11 @@
 title = "'New Years 83&84'"
 draft = false
 tags = []
-date = 2023-10-09T15:04:29Z
+date = 10/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Huntington Beach, CA (15031 Goldenwest St)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-21T23:48:08Z
+date = 04/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["SuperCreamPiper2008","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Captain Cheese IV"]
 gallery = []
 +++

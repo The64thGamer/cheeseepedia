@@ -2,9 +2,11 @@
 title = "Shawnee, KS (12280 Shawnee Mission)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-10T17:23:15Z
+date = 07/10/2023
 
 [Article]
+startDate = "8/19/1981"
+endDate = "10/13/1985"
 contributors = ["CorrectorMan"]
 gallery = ["Shawnee.jpg|thumb|The site of the Shawnee location. (PC: Google Maps)"]
 +++

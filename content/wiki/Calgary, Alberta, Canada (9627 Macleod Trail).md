@@ -2,9 +2,11 @@
 title = "Calgary, Alberta, Canada (9627 Macleod Trail)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-23T23:38:00Z
+date = 07/23/2024
 
 [Article]
+startDate = "8/31/1991"
+endDate = "-/-/1994"
 pageThumbnailFile = "Site of the Former CEC in Calgary.png|The site of the Former CEC in October 2020. (PC: Google Maps)"
 contributors = ["Rexburg090","RedaCEC","2603:8001:CA01:7340:B8E6:3CB3:C7B8:95F0","CEC Tinley","Douggaming","Cheeseclassic"]
 gallery = []

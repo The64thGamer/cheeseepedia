@@ -2,9 +2,11 @@
 title = "Grandma Bear (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-31T00:03:33Z
+date = 05/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

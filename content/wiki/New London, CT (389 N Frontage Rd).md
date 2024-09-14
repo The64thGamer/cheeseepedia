@@ -2,9 +2,11 @@
 title = "New London, CT (389 N Frontage Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-23T22:37:22Z
+date = 04/23/2024
 
 [Article]
+startDate = "5/16/1994"
+endDate = "5/11/2014"
 pageThumbnailFile = "NewLondonExterior2011AugustGoogleMaps.png|A street view photo of the store's exterior back in August 2011 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","Cheeseclassic","Tux Chuck"]
 gallery = []

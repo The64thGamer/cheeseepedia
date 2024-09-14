@@ -2,9 +2,11 @@
 title = "Stripes"
 draft = false
 tags = ["User"]
-date = 2024-05-27T06:22:33Z
+date = 05/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Shork.jpg|BLÅHAJ soft toy, shark, 39 ¼'"
 contributors = ["Stripes"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Burlington, NJ (2497 Burlington-Mount Holly Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-22T18:55:11Z
+date = 09/22/2023
 
 [Article]
+startDate = "1/31/2002"
+endDate = "10/2/2016"
 contributors = ["Cheeseclassic"]
 gallery = ["Burlington NJ Exterior .jpg|thumb|Burlington’s Exterior"]
 +++

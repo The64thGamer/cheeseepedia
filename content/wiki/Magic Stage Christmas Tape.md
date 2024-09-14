@@ -2,9 +2,11 @@
 title = "Magic Stage Christmas Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-04-19T15:54:39Z
+date = 04/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

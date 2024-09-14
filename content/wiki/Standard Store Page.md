@@ -2,9 +2,11 @@
 title = "Standard: Store Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-12-24T16:51:31Z
+date = 12/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Macsway 2009.png|Your store's Chuck E. Cheese in ______ year, preferably recent. DO NOT just insert an image here, use this Template:Generic box!"
 contributors = ["The 64th Gamer","CEC forgotten Location Finder","Stripes"]
 gallery = []

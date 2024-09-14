@@ -2,9 +2,11 @@
 title = "Kent, WA (25817 104th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-14T03:00:50Z
+date = 08/14/2024
 
 [Article]
+startDate = "5/-/1998"
+endDate = ""
 pageThumbnailFile = "Kent.jpg|Kent's exterior before the 2.0 remodel. (PC: usarestaurants.info)"
 contributors = ["CorrectorMan","ThatBoiCydalan","CEC1988","AstridMascotFan2005"]
 gallery = []

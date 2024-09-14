@@ -2,9 +2,11 @@
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-07-18T17:27:44Z
+date = 07/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Kooser Munch.jpg|Munch from the Great All American Pizza Show Franchise brochure"
 contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","216.125.34.66","The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 6 2018"
 draft = false
 tags = ["Live Shows"]
-date = 2022-09-26T01:14:54Z
+date = 09/26/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

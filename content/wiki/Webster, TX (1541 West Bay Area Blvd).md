@@ -2,9 +2,11 @@
 title = "Webster, TX (1541 West Bay Area Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-31T15:31:38Z
+date = 07/31/2024
 
 [Article]
+startDate = "3/15/1993"
+endDate = ""
 pageThumbnailFile = "desc=Exterior|image=Webster texas.jpg"
 contributors = ["Nostalgia Cow","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []

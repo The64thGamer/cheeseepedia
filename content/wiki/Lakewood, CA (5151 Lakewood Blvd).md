@@ -2,9 +2,11 @@
 title = "Lakewood, CA (5151 Lakewood Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-23T03:16:39Z
+date = 04/23/2024
 
 [Article]
+startDate = "3/23/1983"
+endDate = ""
 pageThumbnailFile = "Owastaken.jpg|Exterior, 2017"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","The 64th Gamer"]
 gallery = []

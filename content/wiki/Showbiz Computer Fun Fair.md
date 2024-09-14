@@ -2,9 +2,11 @@
 title = "Showbiz Computer Fun Fair"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-06-02T20:23:08Z
+date = 06/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Showbiz computer fun fair.jpg|The ShowBiz Computer Fun Fair Cabinet"
 contributors = ["ChuckE1352","The 64th Gamer"]
 gallery = [":Showbiz computer.jpg"]

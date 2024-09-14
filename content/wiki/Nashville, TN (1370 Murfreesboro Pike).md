@@ -2,9 +2,11 @@
 title = "Nashville, TN (1370 Murfreesboro Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-20T00:52:29Z
+date = 08/20/2024
 
 [Article]
+startDate = "11/14/1982"
+endDate = "-/-/1984"
 contributors = ["9Lol92"]
 gallery = []
 +++

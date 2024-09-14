@@ -2,9 +2,11 @@
 title = "Rochester, NY (1000 Hylan Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-11T14:16:13Z
+date = 06/11/2024
 
 [Article]
+startDate = "-/-/2001"
+endDate = ""
 contributors = ["Save phase 5"]
 gallery = []
 +++

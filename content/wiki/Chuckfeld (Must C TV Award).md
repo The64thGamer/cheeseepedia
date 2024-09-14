@@ -2,9 +2,11 @@
 title = "'Chuckfeld' (Must C TV Award)"
 draft = false
 tags = []
-date = 2023-07-18T23:25:51Z
+date = 07/18/2023
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 contributors = ["ChuckfeldStan","The 64th Gamer","Nostalgia Cow","BurgersNuggs445"]
 gallery = []
 +++

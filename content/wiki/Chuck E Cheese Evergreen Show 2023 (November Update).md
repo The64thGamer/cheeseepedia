@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Evergreen Show 2023 (November Update)"
 draft = false
 tags = ["Live Shows"]
-date = 2023-12-23T01:27:59Z
+date = 12/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cheeseclassic","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

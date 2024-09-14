@@ -2,9 +2,11 @@
 title = "Chuck Tux 1 93 (Costume Outfit)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-05-16T18:31:47Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","CEC Tinley"]
 gallery = []
 +++

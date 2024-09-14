@@ -2,9 +2,11 @@
 title = "St. Charles, MO (2669 Veterans Memorial Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-24T18:25:55Z
+date = 06/24/2024
 
 [Article]
+startDate = "10/27/1982"
+endDate = ""
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","GabrielPennington9864","Stripes","OMMEnterainment"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = 2024-03-06T13:56:33Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Pumpkin Festival Chuck.jpg|The Bot in 2018"
 contributors = ["The 64th Gamer","Documentor","PizzaEntertainmentFanX"]
 gallery = []

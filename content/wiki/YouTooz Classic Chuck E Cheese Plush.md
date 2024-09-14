@@ -2,9 +2,11 @@
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
 tags = ["Merchandise"]
-date = 2024-07-25T17:48:46Z
+date = 07/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

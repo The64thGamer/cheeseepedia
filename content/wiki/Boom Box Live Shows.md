@@ -2,9 +2,11 @@
 title = "Boom Box Live Shows"
 draft = false
 tags = ["Live Shows"]
-date = 2022-04-05T16:59:17Z
+date = 04/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "PTT 1980 3 Year Employee Pin"
 draft = false
 tags = ["Employee Wear"]
-date = 2023-04-21T01:12:35Z
+date = 04/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fwefwefewfwefewfwf.png|Front"
 contributors = ["The 64th Gamer"]
 gallery = []

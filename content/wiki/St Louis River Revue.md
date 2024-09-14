@@ -2,9 +2,11 @@
 title = "St. Louis River Revue"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-04-18T20:05:56Z
+date = 04/18/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = ["St. Louis River Revue Stage Left and Middle.png|thumb|Picture of the Birdland Band and Louie Wails"]
 +++

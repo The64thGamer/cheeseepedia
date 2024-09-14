@@ -2,9 +2,11 @@
 title = "Chuck E.'s Play Pass"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-01-13T19:13:31Z
+date = 01/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []
 +++

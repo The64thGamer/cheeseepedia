@@ -2,9 +2,11 @@
 title = "Dallas, TX (7110 S Westmoreland Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-16T01:51:25Z
+date = 08/16/2023
 
 [Article]
+startDate = "9/15/1982"
+endDate = ""
 pageThumbnailFile = "Dallas tx redbird current exterior.png|Exterior, May 2023"
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0C:5900:E473:A250:7DE9:8AB1","ThatBoiCydalan","47.17.236.200"]
 gallery = []

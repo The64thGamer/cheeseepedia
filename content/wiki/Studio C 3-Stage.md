@@ -2,9 +2,11 @@
 title = "Studio C 3-Stage"
 draft = false
 tags = []
-date = 2022-07-15T16:51:36Z
+date = 07/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","BurgersNuggs445"]
 gallery = ["OIP.jpg|thumb|240x179px|The Studio C 3-Stage/Beta 16M 3-Stage in Darien, IL."]
 +++

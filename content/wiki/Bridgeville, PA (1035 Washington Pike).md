@@ -2,9 +2,11 @@
 title = "Bridgeville, PA (1035 Washington Pike)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-13T17:08:42Z
+date = 06/13/2023
 
 [Article]
+startDate = "-/-/2002"
+endDate = ""
 contributors = ["Bowling for Cheese","Rexburg090","CorrectorMan"]
 gallery = ["2.0FINISHEDEXBRIDGEVILLE.jpg|thumb|Bridgeville's 2.0 exterior."]
 +++

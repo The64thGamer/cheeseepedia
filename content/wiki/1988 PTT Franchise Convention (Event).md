@@ -2,9 +2,11 @@
 title = "1988 PTT Franchise Convention (Event)"
 draft = false
 tags = ["Events"]
-date = 2022-07-23T01:25:51Z
+date = 07/23/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Ptt88conv.jpg|thumb|443x443px|Dancers and Costume Characters On-Stage"]
 +++

@@ -2,9 +2,11 @@
 title = "Davenport, IA (903 E Kimberly Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-05T12:43:20Z
+date = 08/05/2024
 
 [Article]
+startDate = "2/25/1981"
+endDate = "4/7/2024"
 pageThumbnailFile = "Davenport after closure, April 8 2024 (PC- rileypaulson13).jpg|Davenport after closure, April 8 2024. (PC:WQAD News 8)"
 contributors = ["ChuckECool","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","ShowbizMidwest","162.40.201.9","Documentor","Cheeseclassic","CoolerDude"]
 gallery = []

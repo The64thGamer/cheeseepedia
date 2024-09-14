@@ -2,9 +2,11 @@
 title = "Summer 2010 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-06-24T20:50:14Z
+date = 06/24/2024
 
 [Article]
+startDate = "7/-/2010"
+endDate = ""
 contributors = ["Documentor","66.220.208.40","The 64th Gamer","68.115.107.230","John95","2600:6C46:4A00:A2F:81B0:627F:AD01:D2D1","Ceclife13","172.58.159.105","2600:6C46:4A00:A2F:5510:397C:1D6D:FD70","Dame0824"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Cyberamics Betamax"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-10-12T18:28:53Z
+date = 10/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

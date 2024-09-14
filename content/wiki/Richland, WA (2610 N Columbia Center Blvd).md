@@ -2,9 +2,11 @@
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-30T03:46:16Z
+date = 09/30/2023
 
 [Article]
+startDate = "9/30/1982"
+endDate = "9/9/2018"
 contributors = ["Rexburg090","CorrectorMan","2601:601:9C00:9490:6570:B2C8:A6C7:C40C"]
 gallery = ["Richland.jpg|thumb|Richland's exterior. (PC: Google Maps)"]
 +++

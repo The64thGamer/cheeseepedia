@@ -2,9 +2,11 @@
 title = "Dallas, TX (13364 Montfort Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-08T20:08:05Z
+date = 08/08/2024
 
 [Article]
+startDate = "12/21/2001"
+endDate = ""
 pageThumbnailFile = "Mft20.png|Montfort Dr. exterior in 2020."
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
 gallery = []

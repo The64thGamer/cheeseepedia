@@ -2,9 +2,11 @@
 title = "Waterbury, CT (650 Wolcott St)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-28T17:41:19Z
+date = 08/28/2023
 
 [Article]
+startDate = "9/29/1992"
+endDate = "6/25/2020"
 contributors = ["Rexburg090","CECBowlingGreen","73.218.229.96","ChuckfeldStan"]
 gallery = ["WaterburyCTExterior2019MayGoogleMaps.png|thumb|Street view of the exterior in May 2019 (PC: Google Maps)"]
 +++

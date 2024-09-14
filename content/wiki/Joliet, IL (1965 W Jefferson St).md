@@ -2,9 +2,11 @@
 title = "Joliet, IL (1965 W Jefferson St)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-29T00:05:17Z
+date = 08/29/2024
 
 [Article]
+startDate = ""
+endDate = "1/-/2007"
 pageThumbnailFile = "desc=Joliet in the early 2000’s.|image=JolietCECExterior.jpg"
 contributors = ["ShowbizMidwest","Documentor","ThatBoiCydalan","Rexburg090","CorrectorMan","SuperCreamPiper2008","CoolerDude","Muncho","Cecanddisneyfan2004","AstridMascotFan2005"]
 gallery = []

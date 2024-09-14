@@ -2,9 +2,11 @@
 title = "Edina, MN (7505 France Ave S)"
 draft = false
 tags = []
-date = 2023-07-05T05:15:44Z
+date = 07/05/2023
 
 [Article]
+startDate = "8/10/1999"
+endDate = "6/25/2020"
 pageThumbnailFile = "desc=Exterior of Edina when they were Phase 3|image=Phase3edina.jpg"
 contributors = ["Rileypaulson","The 64th Gamer","CorrectorMan","ThatBoiCydalan"]
 gallery = []

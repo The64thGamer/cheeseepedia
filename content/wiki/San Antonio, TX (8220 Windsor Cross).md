@@ -2,9 +2,11 @@
 title = "San Antonio, TX (8220 Windsor Cross)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-08T15:07:20Z
+date = 02/08/2024
 
 [Article]
+startDate = "-/-/1983"
+endDate = "12/-/2005"
 contributors = ["CorrectorManBackup","BurgersNuggs445","Cheeseclassic","Cam.i77"]
 gallery = ["Walzem.jpg|thumb|Walzem's exterior before closure. (PC: showbizpizza.com)"]
 +++

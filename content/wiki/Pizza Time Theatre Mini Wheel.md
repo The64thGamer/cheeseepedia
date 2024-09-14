@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre Mini Wheel"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-04-30T19:15:44Z
+date = 04/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Musical Ferris Wheel variant.jpg|PTT Mini Wheel"
 contributors = ["The 64th Gamer"]
 gallery = []

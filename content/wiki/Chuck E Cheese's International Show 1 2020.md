@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's International Show 1 2020"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-08T00:51:53Z
+date = 02/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Bowling for Cheese"]
 gallery = []
 +++

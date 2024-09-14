@@ -2,9 +2,11 @@
 title = "Pastel Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2022-01-12T18:09:09Z
+date = 01/12/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["SPFPASTEL1.jpg|thumb|386x386px|The main stage."]
 +++

@@ -2,9 +2,11 @@
 title = "Sheffield, AL (4700 Hatch Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-01-19T21:13:03Z
+date = 01/19/2024
 
 [Article]
+startDate = "8/1/1984"
+endDate = ""
 contributors = ["ChuckECool","64.125.60.2","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","2601:7C0:C202:A860:F4D0:DB76:971:BA7A","47.17.236.200","CEC Tinley","Stripes","SuperCreamPiper2008"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Summertime 2006"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-11T07:37:16Z
+date = 08/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

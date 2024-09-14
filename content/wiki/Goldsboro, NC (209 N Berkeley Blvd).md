@@ -2,9 +2,11 @@
 title = "Goldsboro, NC (209 N Berkeley Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-18T17:57:17Z
+date = 07/18/2024
 
 [Article]
+startDate = "9/19/2003"
+endDate = ""
 pageThumbnailFile = "Chuck E. Cheese Goldsboro.png|Front Exterior of Store"
 contributors = ["66.215.38.213","Rexburg090","CorrectorMan","Cheeseclassic","Matchafather","Jaxonia"]
 gallery = []

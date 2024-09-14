@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Hot Wheels Seared Tuner Sho-Stopper (2001)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-07-03T05:13:30Z
+date = 07/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445"]
 gallery = ["CECHotWheels2001Front.jpg|thumb|280x280px|Chuck E. Cheese's Exclusive 'Sho-Stopper' Hot Wheels car from 2002."]
 +++

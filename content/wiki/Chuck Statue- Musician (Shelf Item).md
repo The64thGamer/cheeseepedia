@@ -2,9 +2,11 @@
 title = "Chuck Statue- Musician (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-15T20:57:34Z
+date = 07/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Corona, CA (191 N McKinley St)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-09T16:02:11Z
+date = 08/09/2024
 
 [Article]
+startDate = "5/19/1992"
+endDate = "-/-/2020"
 pageThumbnailFile = "desc=Exterior (June 2024)|image=Jun2024exteriorcoronaca.jpg"
 contributors = ["ChuckECool","Rexburg090","168.69.254.249","CEC Tinley","The 64th Gamer","2605:AD80:31:19FD:B57E:48C6:6471:3CA","Chez","Stripes","SuperCreamPiper2008","Caydenpedia","AstridMascotFan2005","CECMadison"]
 gallery = []

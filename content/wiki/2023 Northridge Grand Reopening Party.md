@@ -2,9 +2,11 @@
 title = "2023 Northridge Grand Reopening Party"
 draft = false
 tags = ["Events"]
-date = 2024-07-20T00:55:52Z
+date = 07/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Northridge opening thumbnail.png|Showroom During the Event."
 contributors = ["The 64th Gamer","Documentor"]
 gallery = [":CAO citation.png",":Donovanspecialprogram.png",":November10thconfirmationcitation.png","CEC_Live_Branding_logo.png|thumb|291x291px|Chuck E. Cheese LIVE Announcement promo art."]

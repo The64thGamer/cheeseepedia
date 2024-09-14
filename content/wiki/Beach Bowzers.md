@@ -2,9 +2,11 @@
 title = "Beach Bowzers"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-23T22:28:32Z
+date = 07/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CoolerDude"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Streamwood, IL (1000 S Barrington Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-01T15:38:32Z
+date = 08/01/2023
 
 [Article]
+startDate = "6/6/2014"
+endDate = ""
 contributors = ["CorrectorMan"]
 gallery = ["New streamwood.jpg|thumb|Streamwood's exterior. (PC: chicagonorthwest.com)"]
 +++

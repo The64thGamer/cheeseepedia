@@ -2,9 +2,11 @@
 title = "FileFickle"
 draft = false
 tags = ["User"]
-date = 2024-07-25T17:49:56Z
+date = 07/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = ["fauxfickle.jpg|left|700px"]
 +++

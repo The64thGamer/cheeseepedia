@@ -2,9 +2,11 @@
 title = "Orange, CT (260 Bull Hill Lane)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-07T21:19:58Z
+date = 10/07/2023
 
 [Article]
+startDate = "5/-/1983"
+endDate = "-/-/1985"
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cy's Junk at School"]
 gallery = []
 +++

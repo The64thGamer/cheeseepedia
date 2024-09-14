@@ -2,9 +2,11 @@
 title = "Seef Mall, Bahrain"
 draft = false
 tags = ["Store List"]
-date = 2023-05-15T13:20:12Z
+date = 05/15/2023
 
 [Article]
+startDate = "10/30/2021"
+endDate = ""
 contributors = ["CECBowlingGreen","RPCEC","CEC Tinley"]
 gallery = []
 +++

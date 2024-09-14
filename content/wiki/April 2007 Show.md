@@ -2,9 +2,11 @@
 title = "April 2007 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-11T07:40:24Z
+date = 08/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","RedaCEC","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

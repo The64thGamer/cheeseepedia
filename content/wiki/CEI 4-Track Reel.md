@@ -2,9 +2,11 @@
 title = "CEI 4-Track Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-11-24T17:34:07Z
+date = 11/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Ampexreelrockafire.png|Reel w/ Label"
 contributors = ["BattleXGamer","125.238.99.90","The 64th Gamer"]
 gallery = []

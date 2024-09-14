@@ -2,9 +2,11 @@
 title = "Choo Choo (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-20T17:46:02Z
+date = 05/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","RedaCEC","CEC Tinley","2603:6080:7C06:6500:103E:BBE5:9852:733D","Yes-?!214","The 64th Gamer","CECMentor"]
 gallery = []
 +++

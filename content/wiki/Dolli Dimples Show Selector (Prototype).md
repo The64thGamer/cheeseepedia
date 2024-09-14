@@ -2,9 +2,11 @@
 title = "Dolli Dimples Show Selector (Prototype)"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-08-03T18:00:02Z
+date = 08/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "DDSS proto 1.png|Box Front, missing the selection sheets."
 contributors = ["The 64th Gamer"]
 gallery = [":ReferencefacebookpostDDShowSelector.png"]

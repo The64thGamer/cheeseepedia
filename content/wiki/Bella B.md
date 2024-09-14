@@ -2,9 +2,11 @@
 title = "Bella B."
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T14:28:00Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["BellaB.png|thumb|468x468px|Bella's design as of 2024."]
 +++

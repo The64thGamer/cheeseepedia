@@ -2,9 +2,11 @@
 title = "1998 Chuck E. Pop Art (Quad)"
 draft = false
 tags = []
-date = 2023-01-10T08:11:44Z
+date = 01/10/2023
 
 [Article]
+startDate = "-/-/1998"
+endDate = ""
 pageThumbnailFile = "Quad.jpg|2005 Release"
 contributors = ["BurgersNuggs445"]
 gallery = []

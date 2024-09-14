@@ -2,9 +2,11 @@
 title = "Show Selector 'Select-A-Show'"
 draft = false
 tags = []
-date = 2023-08-07T23:58:12Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

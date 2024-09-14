@@ -2,9 +2,11 @@
 title = "Fort Gratiot Township, MI (4350 24th Ave)"
 draft = false
 tags = []
-date = 2024-07-15T17:18:31Z
+date = 07/15/2024
 
 [Article]
+startDate = "7/8/2004"
+endDate = "7/14/2014"
 pageThumbnailFile = "FortGratiotMIExterior2004.png|A photo of the store's exterior not long after opening (PC; thetimesherald.com)."
 contributors = ["Rexburg090","Midwestretail","ThatBoiCydalan","CECswag2009"]
 gallery = []

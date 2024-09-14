@@ -2,9 +2,11 @@
 title = "PTT Basic Ordering Agreement"
 draft = false
 tags = ["Documents"]
-date = 2024-05-20T21:21:29Z
+date = 05/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":Amazingcitationofgenelandrumdocuments.png"]
 +++

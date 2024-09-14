@@ -2,9 +2,11 @@
 title = "Chuck E's Holiday Party 1999"
 draft = false
 tags = ["Live Shows"]
-date = 2023-01-31T01:15:58Z
+date = 01/31/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","The 64th Gamer","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "West Hills, CA (22940 Van Owen St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-28T23:03:40Z
+date = 07/28/2024
 
 [Article]
+startDate = "6/23/1992"
+endDate = ""
 pageThumbnailFile = "West Hills Exterior.jpg|West Hill's Exterior in 2019. (PC: Google Maps)"
 contributors = ["ChuckECool","Carl525","216.125.34.66","Cheeseclassic","Stripes","ThatBoiCydalan","Estsproduction","CoolerDude","CEC1988","AstridMascotFan2005"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Winchester Pasqually (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-27T21:16:44Z
+date = 02/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["EagleScout610","The 64th Gamer","Documentor","SniffCEC","216.125.34.66","PizzaEntertainmentFanX"]
 gallery = ["Corppasquallywin5.jpg|thumb|Refurbished Pasqually with 3-Stage cosmetics, 2001<ref name=':0'>https://www.showbizpizza.com/photos/cec/tx_hq01/index.html</ref>"]
 +++

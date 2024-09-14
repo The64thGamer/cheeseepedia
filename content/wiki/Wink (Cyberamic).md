@@ -2,9 +2,11 @@
 title = "Wink (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:44:09Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","216.125.34.66","Saan1ty","74.82.228.91","Rexburg090","Caydenpedia","SuperCreamPiper2008","CECMentor","CECMadison","Stripes"]
 gallery = []
 +++

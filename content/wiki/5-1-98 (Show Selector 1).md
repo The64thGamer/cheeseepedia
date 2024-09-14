@@ -2,9 +2,11 @@
 title = "5-1-98 (Show Selector 1)"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-12T23:21:50Z
+date = 09/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Letterstolooneybird","The 64th Gamer"]
 gallery = []
 +++

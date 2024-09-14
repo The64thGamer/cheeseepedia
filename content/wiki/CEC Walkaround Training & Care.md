@@ -2,9 +2,11 @@
 title = "CEC Walkaround Training & Care"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2022-01-12T20:26:45Z
+date = 01/12/2022
 
 [Article]
+startDate = "10/12/1988"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Wewefwefwefffff.png|thumb|414x414px|A shot from the training tape.","Wedwedwedwedd.png|thumb|A Chuck E. costume performer dancing to Chuck E. Cheese Live."]
 +++

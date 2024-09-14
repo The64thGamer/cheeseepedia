@@ -2,9 +2,11 @@
 title = "Bronx, NY (1816 Gunhill Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-04T17:17:27Z
+date = 08/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["2600:1012:B1C7:3791:FDAE:AD41:9F39:4AE6","AstridMascotFan2005"]
 gallery = []
 +++

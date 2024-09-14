@@ -2,9 +2,11 @@
 title = "Mumbai, India"
 draft = false
 tags = ["Store List"]
-date = 2023-07-26T02:39:40Z
+date = 07/26/2023
 
 [Article]
+startDate = "12/20/2019"
+endDate = "7/25/2023"
 pageThumbnailFile = "desc=Exterior, August 14th, 2022|image=2022-08-14 (1).jpg"
 contributors = ["CECBowlingGreen","CEC Tinley","ThatBoiCydalan","RockyRhoad07","2601:681:300:6FE0:9108:73AF:379:A346"]
 gallery = []

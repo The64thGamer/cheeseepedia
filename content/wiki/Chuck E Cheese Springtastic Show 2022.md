@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Springtastic Show 2022"
 draft = false
 tags = ["Live Shows"]
-date = 2024-03-12T15:24:37Z
+date = 03/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer","Pasquallytheplumber","Crazy Muzzarino"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

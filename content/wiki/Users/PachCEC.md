@@ -2,9 +2,11 @@
 title = "PachCEC"
 draft = false
 tags = ["User"]
-date = 2024-04-02T01:28:45Z
+date = 04/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PachCEC"]
 gallery = ["PachCEC Logo.jpg|thumb","Lake of Bays sunset.jpg|thumb|Sunset on the Lake of Bays in Muskoka, taken by me! (I know, I’m a master photo-taker-dude-guy-man-person)"]
 +++

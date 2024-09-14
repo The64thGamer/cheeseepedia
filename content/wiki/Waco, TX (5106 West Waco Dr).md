@@ -2,9 +2,11 @@
 title = "Waco, TX (5106 West Waco Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-04T19:35:10Z
+date = 06/04/2024
 
 [Article]
+startDate = "-/-/2002"
+endDate = ""
 pageThumbnailFile = "Wacocec.png|Waco, TX Chuck E. Cheese's in 2014"
 contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","130.45.91.68"]
 gallery = []

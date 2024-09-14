@@ -2,9 +2,11 @@
 title = "Buffalo, NY (4408 Milestrip Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-24T16:52:58Z
+date = 07/24/2024
 
 [Article]
+startDate = "5/-/2000"
+endDate = ""
 pageThumbnailFile = "desc=Buffalo’s exterior signage as of August 2022.|image=Buffalo, NY Exterior.jpg"
 contributors = ["JupiterMutt","Goofgahgoo","The 64th Gamer","216.125.34.66","ThatBoiCydalan","98.118.148.186","AstridMascotFan2005"]
 gallery = []

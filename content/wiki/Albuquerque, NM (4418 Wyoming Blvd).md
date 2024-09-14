@@ -2,9 +2,11 @@
 title = "Albuquerque, NM (4418 Wyoming Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-25T22:05:20Z
+date = 10/25/2023
 
 [Article]
+startDate = "10/-/1981"
+endDate = ""
 pageThumbnailFile = "Albuquerque nm cec exterior 2017-09-16.jpg|Exterior before the 2.0 remodel, September 2017"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan"]
 gallery = []

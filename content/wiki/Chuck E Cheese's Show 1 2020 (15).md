@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 1 2020 (1.5)"
 draft = false
 tags = []
-date = 2022-10-01T17:07:12Z
+date = 10/01/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","CyCGM"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

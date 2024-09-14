@@ -2,9 +2,11 @@
 title = "Holiday 2005"
 draft = false
 tags = ["Showtapes"]
-date = 2023-07-20T21:18:21Z
+date = 07/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13"]
 gallery = []
 +++

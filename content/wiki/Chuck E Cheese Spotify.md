@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Spotify"
 draft = false
 tags = []
-date = 2022-10-19T13:29:32Z
+date = 10/19/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CECBowlingGreen"]
 gallery = ["Cecspotify.png|thumb|319x319px|Chuck E. Cheese's Verified Spotify Page, 2022."]
 +++

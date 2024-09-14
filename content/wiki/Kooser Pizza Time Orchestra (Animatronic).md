@@ -2,9 +2,11 @@
 title = "Kooser Pizza Time Orchestra (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-26T20:56:30Z
+date = 06/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

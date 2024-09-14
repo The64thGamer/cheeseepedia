@@ -2,9 +2,11 @@
 title = "Beaverton, OR (4145 SW 110th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-14T03:01:55Z
+date = 08/14/2024
 
 [Article]
+startDate = "1/-/2003"
+endDate = ""
 pageThumbnailFile = "New beaverton.jpg|Beaverton's pre 2.0 exterior. (PC: Google Maps)"
 contributors = ["CorrectorMan","Rexburg090","CEC Tinley","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
 gallery = []

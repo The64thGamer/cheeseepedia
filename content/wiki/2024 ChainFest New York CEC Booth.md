@@ -2,9 +2,11 @@
 title = "2024 ChainFest New York CEC Booth"
 draft = false
 tags = ["Events"]
-date = 2024-08-09T16:40:09Z
+date = 08/09/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Promotional Poster|image=Chainfestpart1momentpart.png"
 contributors = ["The 64th Gamer"]
 gallery = []

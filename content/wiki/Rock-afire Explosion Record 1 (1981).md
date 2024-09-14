@@ -2,9 +2,11 @@
 title = "Rock-afire Explosion Record 1 (1981)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-10-11T15:17:15Z
+date = 10/11/2023
 
 [Article]
+startDate = "7/16/1981"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

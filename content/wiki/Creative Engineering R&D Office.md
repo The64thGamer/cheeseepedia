@@ -2,9 +2,11 @@
 title = "Creative Engineering R&D Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-03-06T20:10:38Z
+date = 03/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "A564f25047f1d0b02a43e11a00b162a6.jpg|Creative Engineering Inc."
 contributors = ["The 64th Gamer","Sponch man"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "3 Birthday Showtape (Rerelease)"
 draft = false
 tags = ["Showtapes"]
-date = 2023-09-05T22:23:07Z
+date = 09/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

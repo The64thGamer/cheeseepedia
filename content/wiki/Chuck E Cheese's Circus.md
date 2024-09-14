@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Circus"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-08-17T15:16:54Z
+date = 08/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Dfghjhgfrew.jpg|Circus Van seen on eBay in 2022."
 contributors = ["The 64th Gamer","ThatBoiCydalan","Signal08","BenTrainFan2000"]
 gallery = []

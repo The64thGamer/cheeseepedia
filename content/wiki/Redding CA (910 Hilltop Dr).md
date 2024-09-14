@@ -2,9 +2,11 @@
 title = "Redding CA (910 Hilltop Dr)"
 draft = false
 tags = []
-date = 2024-08-09T18:51:47Z
+date = 08/09/2024
 
 [Article]
+startDate = "12/-/2006"
+endDate = ""
 contributors = ["Snowbobsuperboi","Darkbross"]
 gallery = ["REDDDINGREDDING.png|alt=Redding exterior (PC: Google Maps)|thumb|Exterior, July 2023 (PC: Google Maps)"]
 +++

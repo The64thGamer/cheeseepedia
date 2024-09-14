@@ -2,9 +2,11 @@
 title = "Costume Character Cleaning & Preservation"
 draft = false
 tags = ["Showbiz"]
-date = 2023-05-16T16:46:22Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=Various Costume Character Parts.|image=Costcharacter.png"
 contributors = ["The 64th Gamer","Showtimeinc","CEC Tinley"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Summer 2009 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2024-07-30T13:14:25Z
+date = 07/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Dame","AstridMascotFan2005"]
 gallery = []
 +++

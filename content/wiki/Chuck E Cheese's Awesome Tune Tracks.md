@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Awesome Tune Tracks"
 draft = false
 tags = ["Merchandise"]
-date = 2023-04-27T03:34:19Z
+date = 04/27/2023
 
 [Article]
+startDate = "-/-/1996"
+endDate = ""
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer"]
 gallery = []
 +++

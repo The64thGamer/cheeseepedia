@@ -2,9 +2,11 @@
 title = "ChuckEPediaIsTheBest!"
 draft = false
 tags = ["User"]
-date = 2023-01-27T21:01:04Z
+date = 01/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = ["SwagCEC.jpg|thumb|yesssssssss"]
 +++

@@ -2,9 +2,11 @@
 title = "Lafayette, LA (3221 Ambassador Caffery Pkwy)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = 2024-03-26T17:53:13Z
+date = 03/26/2024
 
 [Article]
+startDate = "11/5/1984"
+endDate = "1/-/1995"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

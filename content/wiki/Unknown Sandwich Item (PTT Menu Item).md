@@ -2,9 +2,11 @@
 title = "Unknown Sandwich Item (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 2023-02-05T06:51:29Z
+date = 02/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "27d0f1475e931ed3b137b05345d3014d.png|Mention of Eight Sandwiches in the Newsletter."
 contributors = ["The 64th Gamer"]
 gallery = []

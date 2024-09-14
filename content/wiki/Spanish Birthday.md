@@ -2,9 +2,11 @@
 title = "Spanish Birthday"
 draft = false
 tags = ["Live Shows"]
-date = 2022-07-21T21:40:06Z
+date = 07/21/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Talking Chuck E."
 draft = false
 tags = ["Merchandise"]
-date = 2023-09-24T14:44:30Z
+date = 09/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++

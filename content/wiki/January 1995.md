@@ -2,9 +2,11 @@
 title = "January 1995"
 draft = false
 tags = ["Live Shows"]
-date = 2023-09-16T15:52:41Z
+date = 09/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","BurgersNuggs445","74.123.35.108"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

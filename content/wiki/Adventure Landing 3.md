@@ -2,9 +2,11 @@
 title = "Adventure Landing 3"
 draft = false
 tags = ["Showtapes"]
-date = 2022-11-29T21:50:20Z
+date = 11/29/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

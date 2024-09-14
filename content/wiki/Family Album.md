@@ -2,9 +2,11 @@
 title = "Family Album"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-04-03T13:05:08Z
+date = 04/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "familyaalbum.jpg|The Family Album stage at the Clawson, MI location."
 contributors = ["NoName2000","BlackMonkeyEater","Stripes","WalterB","The 64th Gamer","Cy's Junk at School"]
 gallery = []

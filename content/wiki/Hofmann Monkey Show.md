@@ -2,9 +2,11 @@
 title = "Hofmann Monkey Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-09-08T03:07:39Z
+date = 09/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BigCtheDataFinder"]
 gallery = ["Avonturenpark-hellendoorn-aufkleber-magical-monkey-show-ehem-phantasialand-klimbimski-show-01a-4K.png|thumb|Hellendoorn Magical Monkey Show Logo"]
 +++

@@ -2,9 +2,11 @@
 title = "Galaxy 5000 Helen Walkaround"
 draft = false
 tags = []
-date = 2023-09-10T16:51:34Z
+date = 09/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","BurgersNuggs445","2601:81:8500:E190:74A4:B452:52FC:27F9"]
 gallery = ["Cheerpurp.png|thumb|487x487px"]
 +++

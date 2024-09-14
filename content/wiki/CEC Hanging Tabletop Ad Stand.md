@@ -2,9 +2,11 @@
 title = "CEC Hanging Tabletop Ad Stand"
 draft = false
 tags = ["Promotional Material"]
-date = 2023-10-08T22:08:20Z
+date = 10/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "A7398eb7d5dda075beb16a95d5f736f0.png|Complete Stand"
 contributors = ["The 64th Gamer","Documentor"]
 gallery = []

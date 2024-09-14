@@ -2,9 +2,11 @@
 title = "PTT Chuck E. Cheese Nutritional Poster (1981)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2024-02-07T02:45:22Z
+date = 02/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CEC Nutritioonal poster.png|Poster Low Res Scan"
 contributors = ["The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Lancaster, CA (44650 Valley Central Way)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-12T04:49:54Z
+date = 11/12/2023
 
 [Article]
+startDate = ""
+endDate = "3/11/2011"
 pageThumbnailFile = "Lancaster CA before closure.jpg|Exterior before closure."
 contributors = ["Cheeseclassic","Tux Chuck"]
 gallery = []

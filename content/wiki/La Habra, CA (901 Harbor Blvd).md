@@ -2,9 +2,11 @@
 title = "La Habra, CA (901 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-10T20:18:47Z
+date = 12/10/2023
 
 [Article]
+startDate = "5/-/1980"
+endDate = "12/-/1984"
 pageThumbnailFile = "Lahabra.jpg|La Habra shortly before demolition."
 contributors = ["CEC Kokomo","Chuckeindiana","The 64th Gamer"]
 gallery = []

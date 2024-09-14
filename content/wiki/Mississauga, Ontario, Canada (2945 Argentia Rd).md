@@ -2,9 +2,11 @@
 title = "Mississauga, Ontario, Canada (2945 Argentia Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-24T00:46:56Z
+date = 03/24/2024
 
 [Article]
+startDate = "1/12/2006"
+endDate = ""
 contributors = ["ChuckECool","CyCGM"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Pineville, NC (10400 Cadillac St)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-11T22:46:08Z
+date = 06/11/2024
 
 [Article]
+startDate = "5/-/1991"
+endDate = ""
 pageThumbnailFile = "FuntasticksCharlotteExterior.png|Pineville's exterior as 'Funtasticks Charlotte' prior to demolition (2018-2020)"
 contributors = ["BigCtheDataFinder"]
 gallery = []

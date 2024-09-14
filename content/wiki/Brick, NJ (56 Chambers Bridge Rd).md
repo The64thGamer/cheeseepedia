@@ -2,9 +2,11 @@
 title = "Brick, NJ (56 Chambers Bridge Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-07T02:47:56Z
+date = 08/07/2024
 
 [Article]
+startDate = "1/19/1993"
+endDate = ""
 pageThumbnailFile = "desc=Brick's exterior as of June 2023. (PC: Google Maps)|image=Brick.jpg"
 contributors = ["2600:4040:9D71:FF00:B45C:1B27:330B:967","ChuckECool","Rexburg090","216.125.34.66","CorrectorMan","ThatBoiCydalan","2600:4040:AD76:D00:71C8:18A8:B611:3111","2601:81:8500:E190:B87D:4702:21FD:7D83","2601:81:8500:E190:981F:1D53:1E1E:FC08","CoolerDude","Documentor","AstridMascotFan2005"]
 gallery = []

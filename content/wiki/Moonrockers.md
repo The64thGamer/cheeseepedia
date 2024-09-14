@@ -2,9 +2,11 @@
 title = "Moonrockers"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-05-25T23:01:56Z
+date = 05/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "MoonrockersShow.jpg|The Moonrockers"
 contributors = ["Animatronicanimationdude","CorrectorMan","Saan1ty","BurgersNuggs445","The 64th Gamer","GallaRBX2","YBP123","Montfortdog"]
 gallery = ["Moonrockers Promotional Advertisement.png|thumb|236x236px|Prototype Stage"]

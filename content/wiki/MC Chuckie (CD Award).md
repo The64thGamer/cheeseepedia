@@ -2,9 +2,11 @@
 title = "'M.C. Chuckie' (CD Award)"
 draft = false
 tags = []
-date = 2023-07-18T16:12:04Z
+date = 07/18/2023
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer","Nostalgia Cow"]
 gallery = []
 +++

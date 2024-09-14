@@ -2,9 +2,11 @@
 title = "PTT Salad Bar Manual (1983)"
 draft = false
 tags = ["Documents"]
-date = 2022-12-08T16:13:39Z
+date = 12/08/2022
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Roylrabbitart.png|Art of Roy L. Rabbit potentially featured in the manual."
 contributors = ["The 64th Gamer"]
 gallery = []

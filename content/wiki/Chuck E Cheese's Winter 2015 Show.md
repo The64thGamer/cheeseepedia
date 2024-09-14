@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Winter 2015 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2024-09-02T01:02:47Z
+date = 09/02/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu","John95"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

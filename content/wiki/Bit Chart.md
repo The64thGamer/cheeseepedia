@@ -2,9 +2,11 @@
 title = "Bit Chart"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = 2024-06-22T19:35:20Z
+date = 06/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Road Stage Bit Chart.png|[[Cyberamics Road Stage]] Bit Chart"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []

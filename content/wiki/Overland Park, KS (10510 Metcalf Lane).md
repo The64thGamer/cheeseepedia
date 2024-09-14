@@ -2,9 +2,11 @@
 title = "Overland Park, KS (10510 Metcalf Lane)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-06T15:49:56Z
+date = 02/06/2024
 
 [Article]
+startDate = "9/29/1980"
+endDate = "-/-/1993"
 pageThumbnailFile = "Overland Park CEC 2023-10-17.jpg|Exterior, October 2023"
 contributors = ["RedaCEC","ChuckECool","173.216.33.6","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","64.125.60.2","ShowbizMidwest","ThatBoiCydalan","47.17.236.200","SuperCreamPiper2008"]
 gallery = []

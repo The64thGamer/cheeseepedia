@@ -2,9 +2,11 @@
 title = "San Bernardino, CA (955 South E St)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-25T18:33:03Z
+date = 06/25/2024
 
 [Article]
+startDate = "12/-/1981"
+endDate = "6/18/2020"
 pageThumbnailFile = "Screenshot 2024-01-10 082428.png|Exterior before closure."
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","CEC Tinley","Chez","The 64th Gamer","Snowbobsuperboi","Cheeseclassic"]
 gallery = []

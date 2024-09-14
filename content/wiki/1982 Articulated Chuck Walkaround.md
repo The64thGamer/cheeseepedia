@@ -2,9 +2,11 @@
 title = "1982 Articulated Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-05-16T16:48:07Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445","Chouts1","BigCtheDataFinder","The 64th Gamer","CEC Tinley"]
 gallery = ["Shafton Chuck E..png|thumb|The Shafton Inc. Articulated Chuck E. Cheese head as seen in Smile America (1982)","Articulated Chuck E. Redesign.png|thumb|The updated Shafton Inc. Articulated Chuck E. Cheese head as seen in Alien Family (1991)"]
 +++

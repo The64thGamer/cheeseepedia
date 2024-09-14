@@ -2,9 +2,11 @@
 title = "Chuck Long Fur Arms (Costume Accessory)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-05-16T18:34:23Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Showtimeinc","CEC Tinley"]
 gallery = []
 +++

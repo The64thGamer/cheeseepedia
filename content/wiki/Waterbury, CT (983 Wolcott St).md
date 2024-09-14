@@ -2,9 +2,11 @@
 title = "Waterbury, CT (983 Wolcott St)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-25T17:54:29Z
+date = 04/25/2024
 
 [Article]
+startDate = "4/-/1982"
+endDate = "-/-/1984"
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys123","CoolerDude"]
 gallery = ["Waterbury2019.png|thumb|Google Street View of the building in May 2019."]
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-05-31T13:38:23Z
+date = 05/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Montfortdog","CECBowlingGreen","Documentor","CoolerDude","CECMentor"]
 gallery = ["CECEntOutside.png|thumb|231x231px|View of the outside of the building. (PC: Google Maps)"]
 +++

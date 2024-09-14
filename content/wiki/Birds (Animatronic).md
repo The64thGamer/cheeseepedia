@@ -2,9 +2,11 @@
 title = "Birds (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2023-03-20T19:51:30Z
+date = 03/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=The Birds seen on the 'Chuck E.'s House' stage at the Irving, TX Showbiz Pizza.|image=Birds.png"
 contributors = ["BurgersNuggs445"]
 gallery = []

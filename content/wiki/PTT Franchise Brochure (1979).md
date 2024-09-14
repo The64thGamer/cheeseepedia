@@ -2,9 +2,11 @@
 title = "PTT Franchise Brochure (1979)"
 draft = false
 tags = ["Documents"]
-date = 2024-04-12T14:21:26Z
+date = 04/12/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "THE GREAT ALL AMERICAN PIZZA SHOW BROCHURE.png|The Brochure's Front Cover"
 contributors = ["PizzaEntertainmentFanX"]
 gallery = []

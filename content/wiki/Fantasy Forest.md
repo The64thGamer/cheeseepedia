@@ -2,9 +2,11 @@
 title = "Fantasy Forest"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-04-27T17:15:08Z
+date = 04/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Logo1975ff.png|Fantasy Forest Road Show Logo (1975)"
 contributors = ["The 64th Gamer"]
 gallery = ["Cheshirecat1972alice.png|thumb|287x287px|The Cheshire Cat costume at the attraction preview event (March 1972)","Wozfantasyforest73.png|thumb|258x258px|The Scarecrow, Dorothy, and Cowardly Lion at Tanforan Park Shopping Center (June 13, 1973)","Hurcgoldenhuricane1977.png|thumb|Tulsa University's ''Hurc the Golden Hurricane'' (1978)","Proof of Concept Animatronic at cv9.jpg|thumb|275x275px|The Prototype Animatronic at CheeseVention 9 in 2012."]

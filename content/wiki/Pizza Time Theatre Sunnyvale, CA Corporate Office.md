@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre Sunnyvale, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-10-09T02:49:32Z
+date = 10/09/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Innsbruck entrance corp.png|Pizza Time Theatre Sunnyvale, CA Corporate Office<ref>https://archive.org/details/telesoft-06-octobre-novembre-1982/page/74/mode/2up?q=pizza+time+theatre&view=theater</ref>"
 contributors = ["The 64th Gamer"]
 gallery = []

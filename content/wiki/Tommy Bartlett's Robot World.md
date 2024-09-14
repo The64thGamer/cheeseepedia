@@ -2,9 +2,11 @@
 title = "Tommy Bartlett's Robot World"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-02-17T07:54:13Z
+date = 02/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = [":Wisconsin State Journal Mon Mar 7 1983 .jpg"]
 +++

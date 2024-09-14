@@ -2,9 +2,11 @@
 title = "CEC Summer of Fun Concert (Event)"
 draft = false
 tags = ["Events"]
-date = 2022-05-15T16:28:17Z
+date = 05/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["SoF_SummerConcert_KeyVisual_KB_V2-768x432.jpg|thumb|490x490px","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

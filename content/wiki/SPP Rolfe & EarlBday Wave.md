@@ -2,9 +2,11 @@
 title = "SPP Rolfe & Earl/Bday Wave"
 draft = false
 tags = ["Cyberstar Segments"]
-date = 2024-08-26T22:13:24Z
+date = 08/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","EagleScout610","CyCGM","DerekCat","Cy's Junk at School"]
 gallery = []
 +++

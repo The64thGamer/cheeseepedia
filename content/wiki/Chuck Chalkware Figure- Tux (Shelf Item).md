@@ -2,9 +2,11 @@
 title = "Chuck Chalkware Figure- Tux (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-13T23:24:12Z
+date = 07/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Mrclownman"]
 gallery = []
 +++

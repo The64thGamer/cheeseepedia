@@ -2,9 +2,11 @@
 title = "Me & My Friends"
 draft = false
 tags = ["Live Shows"]
-date = 2022-06-30T19:19:25Z
+date = 06/30/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = []
 +++

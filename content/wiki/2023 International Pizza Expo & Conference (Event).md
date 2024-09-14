@@ -2,9 +2,11 @@
 title = "2023 International Pizza Expo & Conference (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-04-21T19:34:50Z
+date = 04/21/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "2023 pizza conference picture.png|IPC Attendees"
 contributors = ["The 64th Gamer"]
 gallery = []

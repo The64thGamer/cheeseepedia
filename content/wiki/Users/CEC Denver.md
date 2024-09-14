@@ -2,9 +2,11 @@
 title = "CEC Denver"
 draft = false
 tags = ["User"]
-date = 2023-03-30T20:52:20Z
+date = 03/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Bowling for Cheese"]
 gallery = []
 +++

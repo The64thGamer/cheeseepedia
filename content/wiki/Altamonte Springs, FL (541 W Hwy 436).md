@@ -2,9 +2,11 @@
 title = "Altamonte Springs, FL (541 W Hwy 436)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-15T21:34:53Z
+date = 11/15/2023
 
 [Article]
+startDate = "3/-/1981"
+endDate = ""
 contributors = ["Rexburg090","2600:4040:59FC:D100:2883:E8AD:AE08:AFDF","CorrectorMan","Saan1ty","SuperCreamPiper2008"]
 gallery = ["Altamonte Springs.jpg|thumb|Altamonte Spring's exterior as of 2023. (PC: Google Maps)"]
 +++

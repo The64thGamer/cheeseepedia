@@ -2,9 +2,11 @@
 title = "MUNCH (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-19T01:22:01Z
+date = 07/19/2023
 
 [Article]
+startDate = "-/-/1988"
+endDate = ""
 contributors = ["Nostalgia Cow","ThatBoiCydalan"]
 gallery = []
 +++

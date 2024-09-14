@@ -2,9 +2,11 @@
 title = "Colorado Springs, CO (5156 N Academy Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-03T20:18:40Z
+date = 05/03/2023
 
 [Article]
+startDate = "9/1/1982"
+endDate = ""
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090"]
 gallery = []
 +++

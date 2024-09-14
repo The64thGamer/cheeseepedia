@@ -2,9 +2,11 @@
 title = "Studio C Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2024-07-24T02:31:03Z
+date = 07/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Himitsu","The 64th Gamer","2600:2B00:732F:E700:10A2:7CCE:3A01:108","CEC Tinley","GallaRBX2"]
 gallery = ["Studio C show rack diagram.png|thumb|231x231px|Studio C show rack diagram","Transmitter Card board overview.png|thumb|201x201px|Transmitter Card board overview","Studio C fire alarm wiring.png|thumb|Fire alarm wiring"]
 +++

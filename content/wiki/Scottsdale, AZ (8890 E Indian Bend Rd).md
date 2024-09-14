@@ -2,9 +2,11 @@
 title = "Scottsdale, AZ (8890 E Indian Bend Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-15T19:08:00Z
+date = 11/15/2023
 
 [Article]
+startDate = "9/-/1999"
+endDate = "-/-/2009"
 contributors = ["Chuckstar69","2600:4040:5A0E:D900:6500:272E:6953:1FCD","GabrielPennington9864","CorrectorMan","Midwestretail","Chuck E Cheese Fan2003"]
 gallery = ["Scottdale sometime in 2000s.png|thumb|Scottsdale's exterior while it was open. (PC: Unknown)"]
 +++

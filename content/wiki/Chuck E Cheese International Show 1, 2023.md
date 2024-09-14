@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese International Show 1, 2023"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-12T22:17:34Z
+date = 02/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Showbiz Pizza International"]
 gallery = []
 +++

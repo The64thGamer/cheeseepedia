@@ -2,9 +2,11 @@
 title = "Helen Henny (Lounge)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-07-08T17:02:00Z
+date = 07/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["JamesLemony","PizzaEntertainmentFanX","FileFickle","The 64th Gamer","CECMadison"]
 gallery = []
 +++

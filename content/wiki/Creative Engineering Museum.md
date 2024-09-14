@@ -2,9 +2,11 @@
 title = "Creative Engineering Museum"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2023-08-25T21:29:18Z
+date = 08/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

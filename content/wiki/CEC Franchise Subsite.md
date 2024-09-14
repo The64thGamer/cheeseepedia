@@ -2,9 +2,11 @@
 title = "CEC Franchise Subsite"
 draft = false
 tags = []
-date = 2022-08-30T19:25:01Z
+date = 08/30/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

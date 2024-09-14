@@ -2,9 +2,11 @@
 title = "Boise, ID (6255 Fairview Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-05-10T12:19:22Z
+date = 05/10/2023
 
 [Article]
+startDate = "7/7/1983"
+endDate = ""
 contributors = ["Rexburg090","Midwestretail"]
 gallery = ["20211130120341 14701.png|thumb|Exterior before 2.0 Remodel (PC: angelplayground.com)"]
 +++

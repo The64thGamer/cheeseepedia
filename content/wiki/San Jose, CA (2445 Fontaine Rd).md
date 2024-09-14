@@ -2,9 +2,11 @@
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-07T17:07:38Z
+date = 09/07/2024
 
 [Article]
+startDate = "-/-/1981"
+endDate = ""
 pageThumbnailFile = "Tully20.jpg|Exterior as of August 13, 2021"
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]
 gallery = ["Tritel.png|thumb|The 30ft.Chuck E. Cheese statue under construction."]

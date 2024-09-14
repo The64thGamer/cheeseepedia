@@ -2,9 +2,11 @@
 title = "Family Vision"
 draft = false
 tags = []
-date = 2024-08-20T05:13:53Z
+date = 08/20/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Five oh three.png|Family Vision 503"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = [":Ytcommentimage.png",":02df9348f91b3ae08bef4863a63c2c2d.png|02df9348f91b3ae08bef4863a63c2c2d.png"]

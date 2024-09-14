@@ -2,9 +2,11 @@
 title = "Pasqually's School of Pizza Making"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-02-02T22:36:51Z
+date = 02/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ChuckfeldStan"]
 gallery = []
 +++

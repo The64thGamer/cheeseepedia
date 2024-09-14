@@ -2,9 +2,11 @@
 title = "Wizard Of Cheez (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-19T18:00:37Z
+date = 07/19/2023
 
 [Article]
+startDate = "-/-/1988"
+endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445","ThatBoiCydalan"]
 gallery = []
 +++

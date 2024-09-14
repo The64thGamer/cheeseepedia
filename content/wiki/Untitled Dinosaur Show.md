@@ -2,9 +2,11 @@
 title = "Untitled Dinosaur Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-04-18T18:44:43Z
+date = 04/18/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CPIDinoThumbnail.png|CPI Tarbosaur and Protoceratops posing for camera in Dinosaurs: Next Exit"
 contributors = ["Lelmaster","The 64th Gamer","Newbie editor","PizzaEntertainmentFanX"]
 gallery = [":Indiana Gazette Fri Jun 11 1993 .jpg|Indiana Gazette Fri Jun 11 1993 .jpg"]

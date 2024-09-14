@@ -2,9 +2,11 @@
 title = "Paramus, NJ (221 South Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-25T15:47:06Z
+date = 05/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "ParamusNJ1ExteriorBeforeClosure.jpg|The store's exterior before closure & Demolition (2010) (PC: wikimapia.org)"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:CDD0:62DE:714:46B2","The 64th Gamer","2600:4040:5A0C:5900:C4A1:9008:FD91:F5FE","Cecnj98","74.102.61.112","Tux Chuck"]
 gallery = []

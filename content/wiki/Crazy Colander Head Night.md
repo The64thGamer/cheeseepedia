@@ -2,9 +2,11 @@
 title = "Crazy Colander Head Night"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-10T18:00:39Z
+date = 10/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

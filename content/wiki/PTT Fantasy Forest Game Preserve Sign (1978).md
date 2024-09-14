@@ -2,9 +2,11 @@
 title = "PTT Fantasy Forest Game Preserve Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-24T01:20:50Z
+date = 08/24/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = ["AFormulaForSuccessTIM.png|thumb|Alongside an extended view of Winchesters showroom, the sign can be seen to the right."]
 +++

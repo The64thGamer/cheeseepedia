@@ -2,9 +2,11 @@
 title = "3-Stage Command Format"
 draft = false
 tags = []
-date = 2022-09-14T01:36:55Z
+date = 09/14/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ls2018-1"]
 gallery = []
 +++

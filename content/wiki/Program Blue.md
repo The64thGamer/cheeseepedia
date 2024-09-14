@@ -2,9 +2,11 @@
 title = "Program Blue"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = 2022-07-15T05:36:53Z
+date = 07/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Charlie Rockit"]
 gallery = []
 +++

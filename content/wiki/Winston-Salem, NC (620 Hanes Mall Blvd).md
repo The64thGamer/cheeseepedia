@@ -2,9 +2,11 @@
 title = "Winston-Salem, NC (620 Hanes Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-02-13T18:34:29Z
+date = 02/13/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = " 20230623 193014.jpg|Exterior, 2023"
 contributors = ["Caydenpedia","Cheeseclassic"]
 gallery = []

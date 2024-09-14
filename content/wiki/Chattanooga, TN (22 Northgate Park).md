@@ -2,9 +2,11 @@
 title = "Chattanooga, TN (22 Northgate Park)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T13:27:46Z
+date = 07/30/2024
 
 [Article]
+startDate = "10/13/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","AstridMascotFan2005"]
 gallery = []
 +++

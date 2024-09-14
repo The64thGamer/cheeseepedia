@@ -2,9 +2,11 @@
 title = "Sun"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T02:20:08Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["RAE_Sun.jpeg|thumb|Suns design."]
 +++

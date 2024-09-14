@@ -2,9 +2,11 @@
 title = "Staten Island, NY (1775 South Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T20:51:24Z
+date = 07/30/2024
 
 [Article]
+startDate = "4/30/1993"
+endDate = ""
 pageThumbnailFile = "New york city staten.jpg|Staten Island's exterior before 2.0 Remodel."
 contributors = ["47.44.4.68","47.17.236.200","CorrectorMan","ThatBoiCydalan","Jerry CEC","Cheeseclassic"]
 gallery = []

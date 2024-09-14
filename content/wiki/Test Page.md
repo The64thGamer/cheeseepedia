@@ -2,9 +2,11 @@
 title = "Test Page"
 draft = false
 tags = []
-date = 2024-07-15T23:27:39Z
+date = 07/15/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["CEPLogo.gif|center|frameless|938x938px|","ButtonWelcome.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonRecent.png|960x960px|left|link=|title=Click m|alt=title=Click me!","ButtonPtt.png|960x960px|left|link=|title=Click m|alt=title=Click me!"]
 +++

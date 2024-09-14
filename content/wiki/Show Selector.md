@@ -2,9 +2,11 @@
 title = "Show Selector"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2024-08-29T00:08:29Z
+date = 08/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Monsterwaill"]
 gallery = ["Show Selector Standing.png|alt=An image of the Show Selector on its stand.|thumb|An image of the show selector, taken at Creative Engineering, mounted on its original stand."]
 +++

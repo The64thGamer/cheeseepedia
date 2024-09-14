@@ -2,9 +2,11 @@
 title = "Chuck E's Holiday Party 2008"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-30T13:12:48Z
+date = 07/30/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D","Dame","Documentor","AstridMascotFan2005"]
 gallery = []
 +++

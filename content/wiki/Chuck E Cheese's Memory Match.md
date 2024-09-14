@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Memory Match"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-07-08T19:34:23Z
+date = 07/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Himitsu","DerpJobi","GuestIsJustBest","Stripes"]
 gallery = ["Memory Match Cabinet.jpg|thumb|The original 1993 cabinet design","Updated Memory Match Cabinet.jpg|thumb|Updated Cabinet Design","Memory Match Title Screen.png|thumb|Title Screen","FlintSTONEESSS.jpg|none|thumb|252x252px|''Fred Flintstone's Memory Match'' on the ''Studio C Console''","Chuck Can You Find Me.wav|none|thumb|Chuck: 'Hi there! I'm Chuck E. Cheese! Can you find me?'","Jasper Can You Find Me.wav|none|thumb|Jasper: 'Hi! I'm Jasper T. Jowls! Can you find me?'","Munch Can You Find Me.wav|none|thumb|Munch: 'Hello! I'm Mr. Munch! Can you find me?'","Pasqually Can You Find Me.wav|none|thumb|Pasqually: 'Hi! I'm-a Pasqually! Can you find me?'","Helen Can You Find Me.wav|none|thumb|Helen: 'Hi! I'm Helen Henny! Can you find me?'"]
 +++

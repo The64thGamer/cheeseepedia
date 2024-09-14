@@ -2,9 +2,11 @@
 title = "Winchester Helen Henny (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-23T13:48:38Z
+date = 05/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["WalterB","PizzaEntertainmentFanX","CECMentor"]
 gallery = []
 +++

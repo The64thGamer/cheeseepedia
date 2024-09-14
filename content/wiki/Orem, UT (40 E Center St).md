@@ -2,9 +2,11 @@
 title = "Orem, UT (40 E Center St)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-29T18:12:31Z
+date = 07/29/2024
 
 [Article]
+startDate = "8/31/1983"
+endDate = "7/30/2017"
 pageThumbnailFile = "Oremthumbnail.png|Exterior, 2016"
 contributors = ["ShowbizMidwest","The 64th Gamer","Rexburg090","Bombocec","CorrectorMan","174.131.44.53","Ceclife13","ThatBoiCydalan","Cheeseclassic","Cheeseslicez"]
 gallery = []

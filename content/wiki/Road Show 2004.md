@@ -2,9 +2,11 @@
 title = "Road Show 2004"
 draft = false
 tags = ["Live Shows"]
-date = 2022-11-10T20:30:20Z
+date = 11/10/2022
 
 [Article]
+startDate = "4/-/2004"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Mousester"]
 gallery = ["New Graphic.png"]
 +++

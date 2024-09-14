@@ -2,9 +2,11 @@
 title = "Long Beach, CA (290 E 4th St)"
 draft = false
 tags = ["Store List"]
-date = 2023-08-05T23:03:50Z
+date = 08/05/2023
 
 [Article]
+startDate = "11/4/2013"
+endDate = "6/-/2020"
 contributors = ["CorrectorMan"]
 gallery = ["Long beach.jpg|thumb|Long Beach's exterior before closure. (PC: Google Maps)"]
 +++

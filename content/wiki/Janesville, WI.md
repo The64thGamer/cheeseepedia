@@ -2,9 +2,11 @@
 title = "Janesville, WI"
 draft = false
 tags = ["Store List"]
-date = 2023-12-10T16:32:32Z
+date = 12/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "SPPJanesville.jpeg|The only known proof of the SPP in Janesville"
 contributors = ["SuperCreamPiper2008"]
 gallery = []

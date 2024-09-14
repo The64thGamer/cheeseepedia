@@ -2,9 +2,11 @@
 title = "Jungle Jim's RAE Sign (RAE Sign Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-05-10T17:55:43Z
+date = 05/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor"]
 gallery = ["JJ RAE Sign back.jpg|thumb|403x403px|Jungle Jim's RAE Sign (Back)"]
 +++

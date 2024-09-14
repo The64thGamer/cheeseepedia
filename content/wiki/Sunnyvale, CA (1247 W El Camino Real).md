@@ -2,9 +2,11 @@
 title = "Sunnyvale, CA (1247 W El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-12T04:00:12Z
+date = 07/12/2024
 
 [Article]
+startDate = "-/-/1980"
+endDate = "-/-/1984"
 pageThumbnailFile = "Exteriornightofsunnyvalemoment.png|Exterior (1981-1982)"
 contributors = ["The 64th Gamer","Floorplanmuncher"]
 gallery = [":Gwersdgvtefhf.jpg"]

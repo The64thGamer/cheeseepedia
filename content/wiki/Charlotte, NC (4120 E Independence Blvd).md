@@ -2,9 +2,11 @@
 title = "Charlotte, NC (4120 E Independence Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-04T03:33:39Z
+date = 09/04/2023
 
 [Article]
+startDate = "3/30/1982"
+endDate = "10/-/1984"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:2C39:E2E5:5A32:ADB0","CEC Tinley","Saan1ty"]
 gallery = []
 +++

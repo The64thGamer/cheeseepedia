@@ -2,9 +2,11 @@
 title = "CEC Movie Magic"
 draft = false
 tags = ["Showtapes"]
-date = 2023-05-02T02:29:11Z
+date = 05/02/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

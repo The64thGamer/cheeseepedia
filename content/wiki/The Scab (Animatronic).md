@@ -2,9 +2,11 @@
 title = "The Scab (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-06-25T18:55:34Z
+date = 06/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["MrKingoDingoBingo"]
 gallery = ["20181430 1489619391104116 8026184894193336320 n.jpg|thumb","Ii.jpg|thumb"]
 +++

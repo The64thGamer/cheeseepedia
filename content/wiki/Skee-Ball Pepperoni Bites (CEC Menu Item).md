@@ -2,9 +2,11 @@
 title = "Skee-Ball Pepperoni Bites (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 2023-07-28T05:32:24Z
+date = 07/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

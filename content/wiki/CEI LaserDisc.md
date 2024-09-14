@@ -2,9 +2,11 @@
 title = "CEI LaserDisc"
 draft = false
 tags = ["Showtape Formats"]
-date = 2022-07-31T17:51:24Z
+date = 07/31/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = ["Ae915f3bcc21ee17d77155151153a647.png|thumb|386x386px|The only CEI LaserDisc ever produced, being of the [[Dr. Juke Test Tape"]
 +++

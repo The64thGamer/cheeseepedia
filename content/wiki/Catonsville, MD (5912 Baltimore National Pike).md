@@ -2,9 +2,11 @@
 title = "Catonsville, MD (5912 Baltimore National Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-18T18:20:35Z
+date = 06/18/2024
 
 [Article]
+startDate = "2/25/1992"
+endDate = ""
 pageThumbnailFile = "Chuck-e-cheeses-catonsville-0000.jpg|Exterior before May 2024"
 contributors = ["Chuckepoggers69","Cheeseclassic"]
 gallery = []

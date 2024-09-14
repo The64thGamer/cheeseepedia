@@ -2,9 +2,11 @@
 title = "Multiplaza Pacific, Panama"
 draft = false
 tags = ["Store List"]
-date = 2024-07-01T00:35:38Z
+date = 07/01/2024
 
 [Article]
+startDate = "-/-/2013"
+endDate = ""
 pageThumbnailFile = "Multiplaza Panama exterior.jpeg |A picture of the exterior inside the mall.(PC: Rene M. in Foursquare)"
 contributors = ["Bay12"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Website"
 draft = false
 tags = []
-date = 2022-09-05T21:30:34Z
+date = 09/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445"]
 gallery = ["Chuckecheesesite 2022.png|thumb|366x366px|chuckecheese.com in 2022","Cec fun net screenshot.jpg|thumb|284x284px|The earliest screenshot of chuckecheese.com"]
 +++

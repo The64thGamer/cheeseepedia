@@ -2,9 +2,11 @@
 title = "CEC 2005 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = 2023-10-08T17:33:35Z
+date = 10/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Grape.jpg|Grapevine, TX's remodeled exterior"
 contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","2603:8001:8001:F591:1C61:406F:F346:AE32"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Articulated Pasqually Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-04-08T02:21:06Z
+date = 04/08/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["ShowbizMidwest","CEC Tinley","OnionMastori"]
 gallery = ["ArticulatedPasqually.jpg|thumb|The articulated Pasqually head paired with his standard outfit holding a pizza in the August 1997 show."]
 +++

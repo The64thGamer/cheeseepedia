@@ -2,9 +2,11 @@
 title = "CEC Stage Diagnostics 2004"
 draft = false
 tags = []
-date = 2024-03-23T22:55:22Z
+date = 03/23/2024
 
 [Article]
+startDate = "-/-/2004"
+endDate = ""
 contributors = ["CyCGM"]
 gallery = []
 +++

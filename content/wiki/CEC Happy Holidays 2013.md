@@ -2,9 +2,11 @@
 title = "CEC Happy Holidays 2013"
 draft = false
 tags = ["Live Shows"]
-date = 2023-02-10T16:38:39Z
+date = 02/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Studio C 3x DVD + Floppy"
 draft = false
 tags = ["Showtape Formats"]
-date = 2024-01-22T01:58:07Z
+date = 01/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["GallaRBX2"]
 gallery = []
 +++

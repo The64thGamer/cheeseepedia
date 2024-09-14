@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese 32m (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-13T19:16:22Z
+date = 08/13/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Studio C 1997.jpg|One of the two prototype Animatronics with the 'Black Widow Tux'."
 contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","Destinationimagination95","CEC Denver","GallaRBX2","ShowbizMidwest","71.15.155.152","Rexburg090","RedaCEC","The 64th Gamer","ChuckfeldStan","ChuckEPediaIsTheBest!","Midwestretail","Pasquallytheplumber","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = ["Naples, FL Studio C COL Serial.jpg|thumb|416x416px|Meriden, CT's Serial. Now at the Naples, FL location. PC: Mozilla FireMosquito"]

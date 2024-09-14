@@ -2,9 +2,11 @@
 title = "Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-02-12T20:50:56Z
+date = 02/12/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "JungleJimsFlag.png|One of the last Flag Wavers at Jungle Jim's near Check Out. (Removed 2018)"
 contributors = ["Documentor"]
 gallery = []

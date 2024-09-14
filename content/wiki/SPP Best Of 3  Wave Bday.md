@@ -2,9 +2,11 @@
 title = "SPP Best Of 3 / Wave Bday"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-17T18:30:21Z
+date = 12/17/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","DerekCat"]
 gallery = []
 +++

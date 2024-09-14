@@ -2,9 +2,11 @@
 title = "Winchester Pizza Time Orchestra (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-25T14:26:47Z
+date = 08/25/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]
 gallery = []
 +++

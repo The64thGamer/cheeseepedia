@@ -2,9 +2,11 @@
 title = "May 1993 Show"
 draft = false
 tags = []
-date = 2021-12-16T17:09:06Z
+date = 12/16/2021
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

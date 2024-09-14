@@ -2,9 +2,11 @@
 title = "Tennis (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-30T04:14:03Z
+date = 07/30/2023
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer","BurgersNuggs445"]
 gallery = []
 +++

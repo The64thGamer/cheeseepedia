@@ -2,9 +2,11 @@
 title = "Chuck E's Yo Yoo Punch"
 draft = false
 tags = ["Arcade Games"]
-date = 2023-07-14T23:55:14Z
+date = 07/14/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "chuck es yo yoo punch.png|The game at [[Cincinnati, OH (8801 Colerain Ave)"
 contributors = ["ThatBoiCydalan"]
 gallery = []

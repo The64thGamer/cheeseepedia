@@ -2,9 +2,11 @@
 title = "San Salvador, ES (503 Carretera Panamericana)"
 draft = false
 tags = []
-date = 2024-04-02T12:13:58Z
+date = 04/02/2024
 
 [Article]
+startDate = "4/13/2021"
+endDate = ""
 pageThumbnailFile = "San Salvador’s Exterior.jpeg|San Salvador, ES’ exterior in 2022."
 contributors = ["PachCEC","Cheeseclassic"]
 gallery = []

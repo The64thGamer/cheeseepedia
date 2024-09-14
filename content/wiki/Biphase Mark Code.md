@@ -2,9 +2,11 @@
 title = "Biphase Mark Code"
 draft = false
 tags = ["Showtape Formats"]
-date = 2023-02-08T06:58:29Z
+date = 02/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BattleXGamer"]
 gallery = ["BMC Sample.png|thumb|What Biphase Mark Code looks like","Bmc should look like.png|thumb|259x259px|All the audio files needed","FFMpeg TXT File.png|thumb|198x198px|An Example of what the file should look like"]
 +++

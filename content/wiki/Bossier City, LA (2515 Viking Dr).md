@@ -2,9 +2,11 @@
 title = "Bossier City, LA (2515 Viking Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-09T21:00:34Z
+date = 08/09/2024
 
 [Article]
+startDate = "5/-/2013"
+endDate = "5/-/2013"
 pageThumbnailFile = "New bossier city.jpg|Pre 2.0 Exterior. (PC: Google Maps)"
 contributors = ["CorrectorMan","47.17.236.200","Caydenpedia","The 64th Gamer","Signal08","Cheeseclassic","AstridMascotFan2005"]
 gallery = []

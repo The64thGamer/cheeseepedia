@@ -2,9 +2,11 @@
 title = "Bear-A-Dice Stage"
 draft = false
 tags = ["Stage Variations"]
-date = 2023-05-29T05:37:32Z
+date = 05/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BigCtheDataFinder","Tobsters ;-;"]
 gallery = ["Bear- A- Dice.png|thumb|Bear- A- Dice photo"]
 +++

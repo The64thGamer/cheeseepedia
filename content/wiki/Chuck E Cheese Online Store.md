@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Online Store"
 draft = false
 tags = []
-date = 2022-11-15T04:58:06Z
+date = 11/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","170.185.215.34","Documentor","BurgersNuggs445"]
 gallery = ["CEC Online Store Homepage.png|thumb|CEC Online Store Homepage. Current as of October 13, 2022."]
 +++

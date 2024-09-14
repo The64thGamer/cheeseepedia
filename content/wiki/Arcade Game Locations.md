@@ -2,9 +2,11 @@
 title = "Arcade Game Locations"
 draft = false
 tags = []
-date = 2022-11-29T21:50:30Z
+date = 11/29/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

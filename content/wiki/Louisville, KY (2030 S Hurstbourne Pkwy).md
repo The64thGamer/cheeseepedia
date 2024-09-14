@@ -2,9 +2,11 @@
 title = "Louisville, KY (2030 S Hurstbourne Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-24T01:17:30Z
+date = 07/24/2024
 
 [Article]
+startDate = "1/2/2000"
+endDate = ""
 pageThumbnailFile = "louisville.jpg|Louisville's exterior in the 2010s. (PC: CityFeet)"
 contributors = ["CECBowlingGreen","Documentor","Rexburg090","Studio 18 Ent","ChuckEPediaIsTheBest!","ChuckECool","Midwestretail","CEC Tinley","AstridMascotFan2005","ThatBoiCydalan","Cyberamics","Cheeseclassic","CECswag2009"]
 gallery = []

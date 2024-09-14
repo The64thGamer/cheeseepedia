@@ -2,9 +2,11 @@
 title = "PTT Kooser Mr. Munch Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-30T09:41:30Z
+date = 08/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

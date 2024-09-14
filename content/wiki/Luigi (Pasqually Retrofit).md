@@ -2,9 +2,11 @@
 title = "Luigi (Pasqually Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = 2023-05-06T02:27:06Z
+date = 05/06/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Luigi.png|Jungle Jim's Luigi."
 contributors = ["Documentor"]
 gallery = []

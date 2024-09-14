@@ -2,9 +2,11 @@
 title = "Daniel and The Dixie Diggers (Rusutsu Resort)"
 draft = false
 tags = []
-date = 2024-06-01T00:20:10Z
+date = 06/01/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Rusutsuresortdixieshow.png|The Dixie Diggers show as of 2023. (PC takeo_the_ride)"
 contributors = ["TheMrMeisterr"]
 gallery = ["Dixiemascots.jpg|thumb|268x268px|The first documentation of the mascots.",":Rusutsu2002.jpg|Rusutsu2002.jpg","Dixiemascots2004.jpg|thumb|270x270px|The mascot change in 2004. Notice the changes made to Scratchmo (black bulldog) and Colonel Beauregard."]

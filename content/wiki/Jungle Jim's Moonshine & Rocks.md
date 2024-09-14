@@ -2,9 +2,11 @@
 title = "Jungle Jim's Moonshine & Rocks"
 draft = false
 tags = ["JungleJims"]
-date = 2023-05-16T18:50:50Z
+date = 05/16/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Moonshine18.jpg|Moonshine Jugs, 2018"
 contributors = ["Documentor","The 64th Gamer","CEC Tinley"]
 gallery = []

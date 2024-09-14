@@ -2,9 +2,11 @@
 title = "The Chuck E. Cheese Show"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-27T20:58:58Z
+date = 09/27/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu","The 64th Gamer","DerpJobi","ShowbizChuck"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Winchester Chuck E. Cheese V1 (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-23T14:35:51Z
+date = 05/23/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","24.104.71.210","KPIZZA03","208.103.68.197","PizzaEntertainmentFanX","CECMentor"]
 gallery = ["11251016 1021342497896174 121383281 n.jpg|thumb|Promo Photo 2 (Color, Cropped), 1977"]
 +++

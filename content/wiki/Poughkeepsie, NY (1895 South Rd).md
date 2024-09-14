@@ -2,9 +2,11 @@
 title = "Poughkeepsie, NY (1895 South Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-27T01:19:49Z
+date = 06/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = " Poughkeepsie's Exterior, August 2023.jpg|Exterior, August 2023 (PC: Google Maps)"
 contributors = ["Rexburg090","CybersorCEI","2600:4040:5A0C:5900:E4CF:886E:C3E2:74B4","Tux Chuck","SuperCreamPiper2008","Estsproduction","TailsFan628","Cheeseclassic"]
 gallery = []

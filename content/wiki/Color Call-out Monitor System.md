@@ -2,9 +2,11 @@
 title = "Color Call-out Monitor System"
 draft = false
 tags = ["Other Software & Hardware"]
-date = 2024-07-06T05:21:30Z
+date = 07/06/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Pasq hot line promo art.png|Promotional Art for Pasqually's Hot Line"
 contributors = ["The 64th Gamer"]
 gallery = []

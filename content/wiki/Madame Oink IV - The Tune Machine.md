@@ -2,9 +2,11 @@
 title = "Madame Oink IV - The Tune Machine"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = 2023-10-13T19:22:51Z
+date = 10/13/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Steven 'CEC' Master","CyCGM"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

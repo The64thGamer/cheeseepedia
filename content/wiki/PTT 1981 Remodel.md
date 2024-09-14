@@ -2,9 +2,11 @@
 title = "PTT 1981 Remodel"
 draft = false
 tags = []
-date = 2022-09-18T03:12:18Z
+date = 09/18/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = ["1981 PTT.png|thumb|389x389px"]
 +++

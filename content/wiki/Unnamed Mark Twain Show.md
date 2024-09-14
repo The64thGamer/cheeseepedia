@@ -2,9 +2,11 @@
 title = "Unnamed Mark Twain Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-02-17T07:52:06Z
+date = 02/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster"]
 gallery = [":The_Tyler_Courier_Times_Sun__Dec_17__1978_.jpg",":The_Los_Angeles_Times_Tue__Feb_27__1979_ (1).jpg"]
 +++

@@ -2,9 +2,11 @@
 title = "Valencia, CA (23154 Valencia Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-08T02:15:11Z
+date = 08/08/2024
 
 [Article]
+startDate = "4/26/1983"
+endDate = "2/-/1996"
 contributors = ["SuperCreamPiper2008","TestAccount6777"]
 gallery = []
 +++

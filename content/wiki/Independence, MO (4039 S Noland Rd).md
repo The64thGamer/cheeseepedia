@@ -2,9 +2,11 @@
 title = "Independence, MO (4039 S Noland Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-24T21:32:35Z
+date = 07/24/2023
 
 [Article]
+startDate = "10/14/1980"
+endDate = ""
 pageThumbnailFile = "desc=Front shot of the store’s exterior (PC: LoopNet)|image=IndependenceMOCECOldLocationExterior.jpeg"
 contributors = ["RedaCEC","ThatBoiCydalan","ChuckECool","Rexburg090"]
 gallery = []

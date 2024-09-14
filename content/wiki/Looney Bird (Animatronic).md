@@ -2,9 +2,11 @@
 title = "Looney Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-26T00:40:27Z
+date = 08/26/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","Stripes","BenTrainFan2000"]
 gallery = ["Pizzacam.png|thumb|Pizzacam Retrofit (Latex Mask)"]
 +++

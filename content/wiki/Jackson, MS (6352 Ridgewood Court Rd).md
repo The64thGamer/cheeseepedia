@@ -2,9 +2,11 @@
 title = "Jackson, MS (6352 Ridgewood Court Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-16T13:02:19Z
+date = 08/16/2024
 
 [Article]
+startDate = "-/-/2009"
+endDate = ""
 contributors = ["BurgersNuggs445","Rexburg090","Midwestretail","47.17.236.200","CorrectorMan","ShowbizMidwest","Moonrock","AstridMascotFan2005"]
 gallery = ["Jackson MS Exterior.jpg|thumb|Exterior being finished in 2009"]
 +++

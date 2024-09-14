@@ -2,9 +2,11 @@
 title = "Dook Larue"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T01:54:14Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["DookLarue.png|thumb|Dooks design as of 2024."]
 +++

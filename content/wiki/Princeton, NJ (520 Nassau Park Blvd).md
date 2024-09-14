@@ -2,9 +2,11 @@
 title = "Princeton, NJ (520 Nassau Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-07T02:44:43Z
+date = 08/07/2024
 
 [Article]
+startDate = "10/17/2001"
+endDate = ""
 pageThumbnailFile = "Princeton exterior 5-21-2019.jpg|Exterior of Chuck E. Cheese's in Princeton, NJ in 2019"
 contributors = ["The 64th Gamer","Cecnj98","Pasquallytheplumber","Rexburg090","ThatBoiCydalan","Cecanddisneyfan2004","AstridMascotFan2005"]
 gallery = ["Princeton Studio C 11-02-2022.jpg|thumb|'Keep Drummin'' playing on Princeton's Studio C Alpha on November 2nd, 2022","Princeton showroom back 2006.png|thumb|A view of Princeton's showroom in December 2006. The SkyTubes and Toddler Zone can be seen partially obscured by the showroom walls. The former would be downsized and relocated in the 2008 remodel and the latter would be removed altogether.","Princeton september 2012 showroom.png|thumb|View of Princeton's gameroom and showroom taken in September 2012 as it appeared post remodel"]

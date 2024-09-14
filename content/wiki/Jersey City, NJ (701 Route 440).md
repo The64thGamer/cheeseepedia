@@ -2,9 +2,11 @@
 title = "Jersey City, NJ (701 Route 440)"
 draft = false
 tags = []
-date = 2024-07-30T13:36:41Z
+date = 07/30/2024
 
 [Article]
+startDate = "11/3/2014"
+endDate = ""
 pageThumbnailFile = "Jersey City NJ Exterior.jpeg|Jersey City after finishing it's 2.0 remodel on July 2, 2024. (PC: Dr. EZ of CEC 2)"
 contributors = ["Cheeseclassic","Captain Cheese IV","AstridMascotFan2005"]
 gallery = []

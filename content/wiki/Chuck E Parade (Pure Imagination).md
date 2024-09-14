@@ -2,9 +2,11 @@
 title = "Chuck E. Parade (Pure Imagination)"
 draft = false
 tags = ["Live Shows"]
-date = 2022-06-26T04:22:46Z
+date = 06/26/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++

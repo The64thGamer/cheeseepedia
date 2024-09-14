@@ -2,9 +2,11 @@
 title = "Indianapolis, IN (5501 E 82nd St)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-01T01:08:18Z
+date = 04/01/2023
 
 [Article]
+startDate = "4/28/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090"]
 gallery = ["Castleton IN 2.0 Exterior (2020-02-24).jpg|thumb|2.0 Exterior (February 24th, 2020) (PC: brad russell)"]
 +++

@@ -2,9 +2,11 @@
 title = "Biphase Cyberstar Data Format"
 draft = false
 tags = ["Showtape Formats"]
-date = 2024-02-16T08:12:46Z
+date = 02/16/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BattleXGamer","Ls2018-1"]
 gallery = []
 +++

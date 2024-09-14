@@ -2,9 +2,11 @@
 title = "Hang in There Howie (Commercial)"
 draft = false
 tags = []
-date = 2023-04-29T01:45:44Z
+date = 04/29/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Howiecommercial.png|Hang in There Howie Commercial"
 contributors = ["Maddox121","Midwestretail","The 64th Gamer","CEC Tinley"]
 gallery = []

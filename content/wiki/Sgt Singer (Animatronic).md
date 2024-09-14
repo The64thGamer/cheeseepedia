@@ -2,9 +2,11 @@
 title = "Sgt. Singer (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-07T22:04:13Z
+date = 02/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "VideoscreenshotSinger.png|Photo of Sgt. Singer performing at Mirapolis on July 22nd, 1990. The show most likely used a Beach Bums variant and then changed the cosmetics."
 contributors = ["Lelmaster"]
 gallery = []

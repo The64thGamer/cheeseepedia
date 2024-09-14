@@ -2,9 +2,11 @@
 title = "Tampa, FL (14308 Dale Mabry Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-29T03:52:22Z
+date = 12/29/2023
 
 [Article]
+startDate = "7/-/1991"
+endDate = ""
 pageThumbnailFile = "ChuckECheeseTampaRockstarNight.jpg|Exterior, 2019"
 contributors = ["GainerXO","Rexburg090","RedaCEC","ShowbizMidwest","216.125.34.66","CEC Tinley","The 64th Gamer","Cheeseclassic"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Ticket Blaster"
 draft = false
 tags = ["Arcade Games"]
-date = 2022-11-07T07:07:06Z
+date = 11/07/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","BurgersNuggs445"]
 gallery = ["BowlingGreenTicketBlaster.jpg|thumb|Rockstar Ticket Blaster at [[Bowling Green, KY (2625 Scottsville Rd)|Bowling Green, KY"]
 +++

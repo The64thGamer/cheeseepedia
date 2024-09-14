@@ -2,9 +2,11 @@
 title = "New RAE Lite"
 draft = false
 tags = ["Stage Variations"]
-date = 2024-05-17T01:46:54Z
+date = 05/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "mini fake question mark.png|No known photos of the real stage variant exist. This is similar to what it would've looked like"
 contributors = ["GallaRBX2"]
 gallery = []

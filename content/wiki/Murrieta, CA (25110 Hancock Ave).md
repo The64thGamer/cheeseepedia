@@ -2,9 +2,11 @@
 title = "Murrieta, CA (25110 Hancock Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-12-07T13:41:59Z
+date = 12/07/2023
 
 [Article]
+startDate = "11/1/1993"
+endDate = ""
 pageThumbnailFile = "desc=Murrieta's exterior before 2.0. (PC: tripboba.com)|image=Murrieta.jpg"
 contributors = ["CorrectorManBackup","ThatBoiCydalan","Estsproduction"]
 gallery = []

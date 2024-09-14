@@ -2,9 +2,11 @@
 title = "Dublin, OH (2711 Martin Road)"
 draft = false
 tags = []
-date = 2024-04-29T02:57:32Z
+date = 04/29/2024
 
 [Article]
+startDate = "10/11/1993"
+endDate = ""
 pageThumbnailFile = "Dublin before the 2005 remodel in June 2011..jpg|Dublin before the 2005 remodel in June 2011. (PC: Google Maps)"
 contributors = ["185.141.119.63","CorrectorMan","ThatBoiCydalan","Showb1zlov3r"]
 gallery = []

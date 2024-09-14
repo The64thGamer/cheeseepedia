@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Halloween Boo-Tacular 2023 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2023-11-27T21:51:29Z
+date = 11/27/2023
 
 [Article]
+startDate = "10/2/2023"
+endDate = ""
 contributors = ["Cheeseclassic","Bowling for Cheese"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Dr. Dux Diagnostic King"
 draft = false
 tags = ["Showtapes"]
-date = 2024-01-14T19:48:40Z
+date = 01/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","NoName2000"]
 gallery = []
 +++

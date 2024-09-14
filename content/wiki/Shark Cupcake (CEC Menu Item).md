@@ -2,9 +2,11 @@
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = 2022-12-06T18:24:35Z
+date = 12/06/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

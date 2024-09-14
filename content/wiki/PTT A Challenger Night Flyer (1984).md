@@ -2,9 +2,11 @@
 title = "PTT 'A' Challenger Night Flyer (1984)"
 draft = false
 tags = []
-date = 2023-06-03T19:33:22Z
+date = 06/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "PTT Challenger Flyer 1.png|Flyer Outside"
 contributors = ["The 64th Gamer"]
 gallery = []

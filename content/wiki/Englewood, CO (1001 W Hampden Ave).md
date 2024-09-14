@@ -2,9 +2,11 @@
 title = "Englewood, CO (1001 W Hampden Ave)"
 draft = false
 tags = ["Store List"]
-date = 2023-02-18T22:00:51Z
+date = 02/18/2023
 
 [Article]
+startDate = "7/16/1981"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090"]
 gallery = ["EnglewoodCO2.0Exterior.jpg|thumb|Englewood's exterior after the 2.0 Remodel was complete (PC: Shelly Morgan) (January 2023)"]
 +++

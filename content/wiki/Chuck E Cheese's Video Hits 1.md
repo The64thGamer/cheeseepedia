@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Video Hits 1"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-11-04T19:03:29Z
+date = 11/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

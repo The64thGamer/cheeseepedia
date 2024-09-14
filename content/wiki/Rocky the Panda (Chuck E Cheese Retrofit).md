@@ -2,9 +2,11 @@
 title = "Rocky the Panda (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["RockyRailroad"]
-date = 2024-03-05T13:30:15Z
+date = 03/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "RockyCECRetrofit2018.png|Rocky at Gillian's Wonderland (2018?)"
 contributors = ["PizzaEntertainmentFanX"]
 gallery = []

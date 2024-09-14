@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 7 2015"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-27T21:58:12Z
+date = 09/27/2022
 
 [Article]
+startDate = "11/2/2015"
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","Bullseye123"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

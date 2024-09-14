@@ -2,9 +2,11 @@
 title = "Stafford, TX (11920 Southwest Fwy)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-04T16:34:38Z
+date = 04/04/2023
 
 [Article]
+startDate = "9/22/1992"
+endDate = ""
 contributors = ["ChuckECool","2600:387:1:803:0:0:0:C5","Rexburg090"]
 gallery = []
 +++

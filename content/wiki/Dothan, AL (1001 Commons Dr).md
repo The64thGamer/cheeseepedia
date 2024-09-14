@@ -2,9 +2,11 @@
 title = "Dothan, AL (1001 Commons Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-24T17:48:36Z
+date = 06/24/2024
 
 [Article]
+startDate = "8/19/2004"
+endDate = ""
 contributors = ["TailsFan628","Tux Chuck"]
 gallery = ["CEC dothan 12 11 23.jpg|thumb|The store as it appeared on December 11th, 2023 at 12:45 PM","CEC dothan stage.jpg|thumb|371x371px|The unique stage setup seen at the store."]
 +++

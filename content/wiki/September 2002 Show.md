@@ -2,9 +2,11 @@
 title = "September 2002 Show"
 draft = false
 tags = ["Live Shows"]
-date = 2023-07-20T03:18:35Z
+date = 07/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

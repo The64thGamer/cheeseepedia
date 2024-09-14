@@ -2,9 +2,11 @@
 title = "CU Flower (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2022-10-11T20:11:46Z
+date = 10/11/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECBowlingGreen","Randombeans","2.26.6.187"]
 gallery = []
 +++

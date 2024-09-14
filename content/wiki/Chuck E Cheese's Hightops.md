@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Hightops"
 draft = false
 tags = ["Arcade Games"]
-date = 2024-04-27T20:39:12Z
+date = 04/27/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "CEC hightops thumbnail.jpg|The game featured at the [[Mesa, AZ (856 S Alma School Rd)"
 contributors = ["2600:1700:ED70:6F60:2C80:79F1:5A1F:C995","GuestIsJustBest","Stripes","ThatBoiCydalan"]
 gallery = []

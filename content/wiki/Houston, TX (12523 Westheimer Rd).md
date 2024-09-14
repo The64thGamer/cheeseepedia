@@ -2,9 +2,11 @@
 title = "Houston, TX (12523 Westheimer Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-11-22T00:43:35Z
+date = 11/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = " Westhemier’s Exterior, March 2022.jpg|Exterior, March 2022"
 contributors = ["Pizzaman49","Cheeseclassic"]
 gallery = []

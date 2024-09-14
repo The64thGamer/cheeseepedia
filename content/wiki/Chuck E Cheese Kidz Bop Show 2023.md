@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Kidz Bop Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-04T01:47:52Z
+date = 12/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","Showbiz Pizza International","Bowling for Cheese","ElWarlos35"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

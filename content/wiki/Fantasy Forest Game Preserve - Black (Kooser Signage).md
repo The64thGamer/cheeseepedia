@@ -2,9 +2,11 @@
 title = "Fantasy Forest Game Preserve - Black (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-08-19T11:53:43Z
+date = 08/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = ["Food Service Marketing October 1979.png|alt=The sign can be seen above.|thumb|The sign can be seen in this image."]
 +++

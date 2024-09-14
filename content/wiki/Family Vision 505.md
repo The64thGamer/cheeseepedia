@@ -2,9 +2,11 @@
 title = "Family Vision 505"
 draft = false
 tags = []
-date = 2024-07-31T23:16:24Z
+date = 07/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Weewow.png|Family vision 505"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []

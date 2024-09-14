@@ -2,9 +2,11 @@
 title = "Bear Country Jubilee"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-24T05:19:24Z
+date = 08/24/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Morey's pier exterior2.jpg|Comparison between the 'Safari' and 'Opera House' exteriors (August 1973 + August 1978)"
 contributors = ["FileFickle","Lelmaster","Documentor","BigCtheDataFinder"]
 gallery = []

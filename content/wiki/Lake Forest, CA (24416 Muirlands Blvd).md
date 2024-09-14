@@ -2,9 +2,11 @@
 title = "Lake Forest, CA (24416 Muirlands Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T15:33:49Z
+date = 07/30/2024
 
 [Article]
+startDate = "6/-/1981"
+endDate = "-/-/2001"
 pageThumbnailFile = "Lakeforest1.png|Lake Forest's exterior months before closure."
 contributors = ["TheFantasyForest","The 64th Gamer","Documentor","BurgersNuggs445","75.61.165.219","71.15.155.152","173.216.33.6","38.49.94.191","Bowling for Cheese","Charlesiiikingofengland","Rexburg090","Midwestretail","GabrielPennington9864","ThatBoiCydalan","Ceclife13","Jonn","AstridMascotFan2005"]
 gallery = [":GameroomLakeForest.png"]

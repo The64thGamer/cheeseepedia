@@ -2,9 +2,11 @@
 title = "CU Live"
 draft = false
 tags = ["Showtapes"]
-date = 2023-02-18T18:57:11Z
+date = 02/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","71.244.213.235"]
 gallery = []
 +++

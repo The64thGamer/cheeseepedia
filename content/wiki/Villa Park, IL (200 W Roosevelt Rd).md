@@ -2,9 +2,11 @@
 title = "Villa Park, IL (200 W Roosevelt Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-25T16:26:48Z
+date = 09/25/2023
 
 [Article]
+startDate = "8/7/2001"
+endDate = ""
 contributors = ["Rexburg090","2600:4040:59FF:B100:9F7D:37CB:FF44:1C51","ShowbizMidwest","CEC Tinley"]
 gallery = ["Villa Park Pre 2.0 Exterior (5-13-2017) (PC; Berenice T on Yelp).jpg|thumb|Villa Park Exterior before their April-May 2022 2.0 Remodel (5/13/2017) (PC: Berenice T on Yelp)"]
 +++

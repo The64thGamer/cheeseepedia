@@ -2,9 +2,11 @@
 title = "Kooser Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = 2024-02-05T02:15:17Z
+date = 02/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Early chuck.png|The Costume as seen in the 1978 Kooser Rd promotional postcard."
 contributors = ["Jaxon11","RessiduePezzzado","NoName2000","The 64th Gamer"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Murray, UT (4425 State St)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-21T23:45:32Z
+date = 06/21/2024
 
 [Article]
+startDate = "3/17/1983"
+endDate = "7/-/1997"
 contributors = ["CorrectorMan","SuperCreamPiper2008","Cheeseslicez"]
 gallery = ["Murray.jpg|thumb|The site of the Murray Chuck E. Cheese as of today."]
 +++

@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 4 2017"
 draft = false
 tags = ["Showtapes"]
-date = 2024-04-17T19:32:33Z
+date = 04/17/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","2600:6C46:4A00:A2F:5510:397C:1D6D:FD70","Ceclife13","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

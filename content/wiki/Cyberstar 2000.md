@@ -2,9 +2,11 @@
 title = "Cyberstar 2000"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2024-07-13T21:16:09Z
+date = 07/13/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Himitsu","The 64th Gamer","GallaRBX2"]
 gallery = []
 +++

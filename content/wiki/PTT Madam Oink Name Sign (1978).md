@@ -2,9 +2,11 @@
 title = "PTT Madam Oink Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-08T22:31:56Z
+date = 08/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

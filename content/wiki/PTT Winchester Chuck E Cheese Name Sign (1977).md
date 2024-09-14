@@ -2,9 +2,11 @@
 title = "PTT Winchester Chuck E. Cheese Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-27T20:29:12Z
+date = 08/27/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

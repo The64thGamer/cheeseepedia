@@ -2,9 +2,11 @@
 title = "Pizza Make / Oven Cut (Spanish)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-11-03T21:51:51Z
+date = 11/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

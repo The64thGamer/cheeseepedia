@@ -2,9 +2,11 @@
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
 tags = ["Chuck E Cheese's Tokens"]
-date = 2023-04-29T20:11:31Z
+date = 04/29/2023
 
 [Article]
+startDate = "-/-/2000"
+endDate = ""
 contributors = ["CEC Tinley"]
 gallery = ["CEC 2000 token.jpg|thumb|187x187px|CEC token from 2000","CEc 2000 silver.jpg|left|thumb|215x215px|CEC 2000 token silver variant.","CEc 2000 bc.jpg|center|thumb|263x263px|CEC 2000 black chromite variant."]
 +++

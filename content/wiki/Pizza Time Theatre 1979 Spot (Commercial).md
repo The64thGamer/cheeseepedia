@@ -2,9 +2,11 @@
 title = "Pizza Time Theatre 1979 Spot (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = 2024-04-07T19:26:36Z
+date = 04/07/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","FileFickle"]
 gallery = []
 +++

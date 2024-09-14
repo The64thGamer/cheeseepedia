@@ -2,9 +2,11 @@
 title = "Cupertino, CA (975 S De Anza Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-14T04:04:39Z
+date = 07/14/2024
 
 [Article]
+startDate = "-/-/1982"
+endDate = "5/-/1983"
 contributors = ["CorrectorMan","Jaxonia"]
 gallery = ["San jose or what.jpg|thumb|The site of the former PTT. (PC: Google Maps)"]
 +++

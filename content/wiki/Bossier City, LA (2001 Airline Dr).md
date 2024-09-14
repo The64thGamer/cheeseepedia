@@ -2,9 +2,11 @@
 title = "Bossier City, LA (2001 Airline Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-12T02:17:48Z
+date = 07/12/2023
 
 [Article]
+startDate = "11/23/1992"
+endDate = "5/-/2013"
 pageThumbnailFile = "Bossier city.jpg|Bossier City, not long before relocation."
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 gallery = []

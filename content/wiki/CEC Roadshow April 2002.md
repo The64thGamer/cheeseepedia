@@ -2,9 +2,11 @@
 title = "CEC Roadshow April 2002"
 draft = false
 tags = ["Live Shows"]
-date = 2022-04-05T17:03:23Z
+date = 04/05/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Patriotic 1993 Show"
 draft = false
 tags = ["Showtapes"]
-date = 2022-07-15T03:44:27Z
+date = 07/15/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Jingle Bell Jamboree"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-09-03T17:39:40Z
+date = 09/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

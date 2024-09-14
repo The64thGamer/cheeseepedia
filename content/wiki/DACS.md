@@ -2,9 +2,11 @@
 title = "DACS"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = 2023-06-23T15:00:28Z
+date = 06/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Fe23fij3foifj3oi4oi43foi.png|DACS Central at Magic Kingdom, 1995"
 contributors = ["The 64th Gamer"]
 gallery = [":CorrespondanceDACS.png","Wg43fgfw23ethtyhmytmukutg4rert.png|thumb|270x270px|Second Generation DACS system, August 1979<ref>https://archive.org/details/mis-newsbreak-v-01-n-02-1979-08/mode/2up?q=DACS+animatronic</ref>"]

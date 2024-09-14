@@ -2,9 +2,11 @@
 title = "Uncle Klunk (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-07-18T00:21:35Z
+date = 07/18/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Avabeckley"]
 gallery = ["Klunk.jpg|thumb|Uncle Klunk Animatronic"]
 +++

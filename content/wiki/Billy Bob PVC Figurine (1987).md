@@ -2,9 +2,11 @@
 title = "Billy Bob PVC Figurine (1987)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-07-19T10:49:34Z
+date = 07/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
 +++

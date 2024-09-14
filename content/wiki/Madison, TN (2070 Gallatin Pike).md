@@ -2,9 +2,11 @@
 title = "Madison, TN (2070 Gallatin Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-20T12:30:26Z
+date = 08/20/2024
 
 [Article]
+startDate = "6/15/1982"
+endDate = ""
 pageThumbnailFile = "desc=Madison, TN Chuck E. Cheese's exterior as of June 2022.|image=Madisonexterior.jpg"
 contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","47.17.236.200","9Lol92","CoolerDude"]
 gallery = []

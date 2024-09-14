@@ -2,9 +2,11 @@
 title = "Working For A Living"
 draft = false
 tags = ["Live Shows"]
-date = 2023-05-05T04:14:05Z
+date = 05/05/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Ceclife13","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

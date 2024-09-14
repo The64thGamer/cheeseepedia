@@ -2,9 +2,11 @@
 title = "Mays Landing, NJ (4215 Black Horse Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-11T16:09:58Z
+date = 08/11/2024
 
 [Article]
+startDate = "12/27/2001"
+endDate = ""
 pageThumbnailFile = "Mays Landing 2.0 (PC- Mikey llagan).jpg|Exterior, July 2024 (PC: Mikey llagan)<ref> https://maps.app.goo.gl/ywKDKaMbgg5dQo95A</ref>"
 contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []

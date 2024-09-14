@@ -2,9 +2,11 @@
 title = "Kansas City, MO (2726 NE Vivion Rd)"
 draft = false
 tags = []
-date = 2024-06-21T16:34:43Z
+date = 06/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "antioch2007.jpg| Antioch's Exterior In 2005 (PC:showbizpizza.com)"
 contributors = ["RedaCEC","Rexburg090","Midwestretail","CEC Tinley","ThatBoiCydalan","CorrectorMan","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX","Saan1ty"]
 gallery = []

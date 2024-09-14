@@ -2,9 +2,11 @@
 title = "NewsCenter 2 Creative Engineering News Cast (March 24, 1981)"
 draft = false
 tags = ["News Footage"]
-date = 2023-02-04T01:53:38Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

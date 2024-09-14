@@ -2,9 +2,11 @@
 title = "Bandstand I"
 draft = false
 tags = ["Showtapes"]
-date = 2022-09-11T17:26:39Z
+date = 09/11/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["JamesLemony"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "Showbiz Pizza Calibration Video Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-12-19T20:59:03Z
+date = 12/19/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

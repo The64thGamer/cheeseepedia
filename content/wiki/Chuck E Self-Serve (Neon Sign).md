@@ -2,9 +2,11 @@
 title = "Chuck E. 'Self-Serve' (Neon Sign)"
 draft = false
 tags = []
-date = 2023-08-08T23:08:00Z
+date = 08/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Japserfannumber20","Concordio","74.96.197.218"]
 gallery = ["Chuck e self serve sign.jpg|thumb|alt=The sign at the fort walton flordia location "]
 +++

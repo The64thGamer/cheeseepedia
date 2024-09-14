@@ -2,9 +2,11 @@
 title = "Rolfe Dewolfe & Earl Schmerle (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:41:28Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor","SuperCreamPiper2008","Thecheesymanfromschool","Stripes"]
 gallery = ["CEC_CU_Vestavia_Hills_AL--001.jpg|thumb|259x259px|Chuck E. Cheese Retrofit (Latex Mask)|left"]
 +++

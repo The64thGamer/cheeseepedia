@@ -2,9 +2,11 @@
 title = "Nostalgia Cow"
 draft = false
 tags = ["User"]
-date = 2023-07-20T16:59:18Z
+date = 07/20/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Nostalgia Cow"]
 gallery = []
 +++

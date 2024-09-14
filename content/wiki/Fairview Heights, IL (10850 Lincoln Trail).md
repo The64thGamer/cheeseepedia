@@ -2,9 +2,11 @@
 title = "Fairview Heights, IL (10850 Lincoln Trail)"
 draft = false
 tags = ["Store List"]
-date = 2024-06-09T19:22:39Z
+date = 06/09/2024
 
 [Article]
+startDate = "5/23/1984"
+endDate = ""
 pageThumbnailFile = "Fairview before 2.0.jpg|Fairview's exterior prior to 2.0."
 contributors = ["CorrectorMan","Rexburg090","ShowbizMidwest","CEC Tinley","Caydenpedia","Cheeseclassic","Cecanddisneyfan2004"]
 gallery = []

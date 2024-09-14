@@ -2,9 +2,11 @@
 title = "Bradenton, FL (415 Cortez Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-07T12:50:24Z
+date = 08/07/2024
 
 [Article]
+startDate = ""
+endDate = "-/-/1985"
 pageThumbnailFile = "d1 download=https://ia600308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Florida/BradentonSPP_text.pdf|d1 name=The original Store Layout (1982)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:F112:27C0:5C80:CCCF","CoolerDude"]
 gallery = []

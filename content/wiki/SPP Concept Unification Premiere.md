@@ -2,9 +2,11 @@
 title = "SPP Concept Unification Premiere"
 draft = false
 tags = ["Showtapes"]
-date = 2023-11-22T19:10:15Z
+date = 11/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","DerekCat","71.15.155.152","71.244.213.235","CECCheese","CEC Tinley","Saan1ty","SuperCreamPiper2008","Ceclife13"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -2,9 +2,11 @@
 title = "PTT Chuck E. Cheese Quote Sign (1977)"
 draft = false
 tags = []
-date = 2023-08-11T19:43:20Z
+date = 08/11/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = ["Huntingtonbeachbumpercars.png|thumb|At [[Huntington Beach, CA (15511 Edwards St)|15511 Edwards Street"]
 +++

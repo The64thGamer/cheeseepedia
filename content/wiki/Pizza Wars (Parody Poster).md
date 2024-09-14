@@ -2,9 +2,11 @@
 title = "Pizza Wars (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-20T02:53:03Z
+date = 07/20/2023
 
 [Article]
+startDate = "-/-/1988"
+endDate = ""
 contributors = ["ThatBoiCydalan","BurgersNuggs445"]
 gallery = []
 +++

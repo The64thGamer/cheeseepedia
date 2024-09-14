@@ -2,9 +2,11 @@
 title = "Indianapolis, IN (8804 US 31 South)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-01T01:09:41Z
+date = 04/01/2023
 
 [Article]
+startDate = "11/10/1982"
+endDate = ""
 contributors = ["ChuckECool","Midwestretail","Rexburg090"]
 gallery = ["Exterior2011AugustGoogleMaps.png|thumb|Street View of Greenwood's Exterior before 2.0 (August 2011) (PC: Google Maps)","phase3greenwood.jpeg|thumb|Greenwood's Phase 3 exterior. (PC: listings.homestead.com)"]
 +++

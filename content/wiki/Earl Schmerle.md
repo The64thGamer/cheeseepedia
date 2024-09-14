@@ -2,9 +2,11 @@
 title = "Earl Schmerle"
 draft = false
 tags = ["Characters"]
-date = 2024-05-29T01:56:28Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECMentor"]
 gallery = ["Earl.png|thumb|Earls design as of 2024."]
 +++

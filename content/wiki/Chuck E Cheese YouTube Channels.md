@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese YouTube Channels"
 draft = false
 tags = ["Chuck E. Cheese's Official YouTube Videos"]
-date = 2023-01-23T19:23:11Z
+date = 01/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","CECBowlingGreen","Rexburg090","ChuckEPediaIsTheBest!"]
 gallery = ["CECYouTubeHomePageJanuary2023.png|thumb|United States Chuck E. Cheese YouTube Homepage as of January 23, 2023. "]
 +++

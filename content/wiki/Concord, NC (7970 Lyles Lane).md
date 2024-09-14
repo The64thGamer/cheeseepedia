@@ -2,9 +2,11 @@
 title = "Concord, NC (7970 Lyles Lane)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-24T23:50:48Z
+date = 09/24/2023
 
 [Article]
+startDate = "8/28/2001"
+endDate = ""
 contributors = ["Rexburg090","2600:4040:5A0E:D900:D59C:7501:D963:AC1B","Caydenpedia"]
 gallery = ["ConcordNCExterior2023MayGoogleMaps.png|thumb|Street View of the store's exterior in May 2023 (PC: Google Maps)"]
 +++

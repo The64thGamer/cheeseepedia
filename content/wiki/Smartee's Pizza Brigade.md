@@ -2,9 +2,11 @@
 title = "Smartee's Pizza Brigade"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-08-28T00:45:13Z
+date = 08/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Lelmaster","Rafedreams","Stripes"]
 gallery = []
 +++

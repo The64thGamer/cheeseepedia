@@ -2,9 +2,11 @@
 title = "Buddy Crash (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-05-29T20:31:13Z
+date = 05/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["FileFickle"]
 gallery = []
 +++

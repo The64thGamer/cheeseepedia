@@ -2,9 +2,11 @@
 title = "Antonio (Pasqually Retrofit)"
 draft = false
 tags = ["RockyRailroad"]
-date = 2024-03-05T13:45:53Z
+date = 03/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Antonioretrofitscreenshot.png|A shot of Antonio at Gillian's Wonderland (2018?)"
 contributors = ["PizzaEntertainmentFanX"]
 gallery = []

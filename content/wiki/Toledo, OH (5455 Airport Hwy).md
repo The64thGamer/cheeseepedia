@@ -2,9 +2,11 @@
 title = "Toledo, OH (5455 Airport Hwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-05T14:42:45Z
+date = 08/05/2024
 
 [Article]
+startDate = "9/6/1993"
+endDate = ""
 contributors = ["Moonrock","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++

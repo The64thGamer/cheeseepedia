@@ -2,9 +2,11 @@
 title = "Union, NJ (2700 US-22)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-30T13:43:35Z
+date = 07/30/2024
 
 [Article]
+startDate = "5/15/2023"
+endDate = ""
 pageThumbnailFile = "Unj99.png|The location's exterior during its soft opening (May 15, 2023)"
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
 gallery = []

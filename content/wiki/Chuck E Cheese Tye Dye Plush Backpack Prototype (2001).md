@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Tye Dye Plush Backpack Prototype (2001)"
 draft = false
 tags = ["Merchandise"]
-date = 2022-06-03T21:46:44Z
+date = 06/03/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

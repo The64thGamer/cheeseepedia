@@ -2,9 +2,11 @@
 title = "PTT Winchester Game Room Rules Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-08T23:15:06Z
+date = 08/08/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

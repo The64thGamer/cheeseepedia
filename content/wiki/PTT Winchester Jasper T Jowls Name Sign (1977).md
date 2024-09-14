@@ -2,9 +2,11 @@
 title = "PTT Winchester Jasper T. Jowls Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = 2023-08-22T18:34:35Z
+date = 08/22/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Concordio"]
 gallery = []
 +++

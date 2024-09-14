@@ -2,9 +2,11 @@
 title = "Aurora, CO (12293 E Iliff Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-04-17T22:37:52Z
+date = 04/17/2024
 
 [Article]
+startDate = "1/28/1981"
+endDate = "4/20/1994"
 pageThumbnailFile = "AuroraExterior.jpeg|The exterior before closure."
 contributors = ["CorrectorMan","Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ThatBoiCydalan","72.76.251.24","BurgersNuggs445","SuperCreamPiper2008","CoolerDude","CyCGM","Stripes"]
 gallery = []

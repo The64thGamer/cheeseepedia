@@ -2,9 +2,11 @@
 title = "Billy Bob (Early Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-02-22T17:00:03Z
+date = 02/22/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["GallaRBX2","The 64th Gamer","Newbie editor"]
 gallery = []
 +++

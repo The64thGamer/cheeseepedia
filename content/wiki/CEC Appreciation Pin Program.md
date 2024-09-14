@@ -2,9 +2,11 @@
 title = "CEC Appreciation Pin Program"
 draft = false
 tags = []
-date = 2022-04-17T19:21:23Z
+date = 04/17/2022
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Pin preciation.jpg|thumb|472x472px|Appreciation Pin Program Flyer"]
 +++

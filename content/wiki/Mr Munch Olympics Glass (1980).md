@@ -2,9 +2,11 @@
 title = "Mr. Munch Olympics Glass (1980)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-01-04T21:32:19Z
+date = 01/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Jonn"]
 gallery = ["MUNCH OLYMPIC FRONT.png|thumb|Mr Munch Olympics Glass *front*"]
 +++

@@ -2,9 +2,11 @@
 title = "Ann Arbor, MI (2655 Oak Valley Dr)"
 draft = false
 tags = ["Store List"]
-date = 2023-10-01T16:38:30Z
+date = 10/01/2023
 
 [Article]
+startDate = "11/2/2000"
+endDate = "12/2/2020"
 pageThumbnailFile = "561225750 5issIJ-c1EpGt4Y4orLFjHYadlz2eRHN4mO mb-a6Q.jpg|Exterior, October 2019"
 contributors = ["CECBowlingGreen","Rexburg090","2600:1700:8790:12F0:F567:8EFC:9DB6:7416","76.218.16.5","Cheeseclassic","ThatBoiCydalan"]
 gallery = []

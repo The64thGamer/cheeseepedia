@@ -2,9 +2,11 @@
 title = "Columbus, GA (3201 Macon Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-07-19T15:03:31Z
+date = 07/19/2023
 
 [Article]
+startDate = "2/17/1982"
+endDate = ""
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","CECFan2023","2600:4040:5A0E:D900:887B:2635:320A:BFB2","2600:4040:5A0E:D900:2D0D:5FA1:81A8:E32C"]
 gallery = ["ColumbusGAExterior2019FebruaryGoogleMaps.png|thumb|Street view of the exterior in February 2019 (PC: Google Maps)"]
 +++

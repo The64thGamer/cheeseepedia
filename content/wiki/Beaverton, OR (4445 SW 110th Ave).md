@@ -2,9 +2,11 @@
 title = "Beaverton, OR (4445 SW 110th Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-01T22:54:44Z
+date = 09/01/2024
 
 [Article]
+startDate = "9/-/1990"
+endDate = "8/-/2002"
 pageThumbnailFile = "Picture 05-01 1.jpg|The store's exterior in 2001 (PC: showbizpizza.com)"
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic","ChungusMaster9000","Documentor"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Mountain Bike (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-08-30T18:31:46Z
+date = 08/30/2023
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer","CEC Tinley"]
 gallery = []
 +++

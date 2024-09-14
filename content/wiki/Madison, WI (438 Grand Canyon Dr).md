@@ -2,9 +2,11 @@
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-21T11:41:01Z
+date = 05/21/2024
 
 [Article]
+startDate = "7/7/1982"
+endDate = ""
 pageThumbnailFile = "Madison WI CEC 2.0 Exterior.png|Exterior, August 2022"
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
 gallery = []

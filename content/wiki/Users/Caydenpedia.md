@@ -2,9 +2,11 @@
 title = "Caydenpedia"
 draft = false
 tags = ["User"]
-date = 2024-09-05T18:37:14Z
+date = 09/05/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["75.8.75.212","Caydenpedia"]
 gallery = []
 +++

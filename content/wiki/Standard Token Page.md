@@ -2,9 +2,11 @@
 title = "Standard: Token Page"
 draft = false
 tags = ["Standards Pages"]
-date = 2023-01-01T19:08:30Z
+date = 01/01/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

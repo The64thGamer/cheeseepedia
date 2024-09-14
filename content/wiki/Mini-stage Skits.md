@@ -2,9 +2,11 @@
 title = "Mini-stage Skits"
 draft = false
 tags = ["Showtapes"]
-date = 2023-08-07T22:50:22Z
+date = 08/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

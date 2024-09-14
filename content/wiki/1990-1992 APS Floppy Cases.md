@@ -2,9 +2,11 @@
 title = "1990-1992 APS Floppy Cases"
 draft = false
 tags = ["APS Showtapes"]
-date = 2023-12-25T07:40:21Z
+date = 12/25/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "desc=All 5 Cases|image=Sus super.jpg"
 contributors = ["The 64th Gamer","Himitsu","en>Unknown user"]
 gallery = []

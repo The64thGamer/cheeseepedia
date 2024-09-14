@@ -2,9 +2,11 @@
 title = "Baton Rouge, LA (11324 Boardwalk Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-03-16T19:47:14Z
+date = 03/16/2024
 
 [Article]
+startDate = "8/12/1981"
+endDate = "11/3/2021"
 pageThumbnailFile = "desc=The store's exterior before closure (PC: LoopNet)|image=BatonRougeBoardwalkExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
 gallery = []

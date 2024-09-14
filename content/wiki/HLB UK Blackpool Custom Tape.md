@@ -2,9 +2,11 @@
 title = "HLB UK Blackpool Custom Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2024-08-31T01:37:14Z
+date = 08/31/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","FileFickle"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "Pembroke Pines, FL (8515 Pines Blvd)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-23T17:27:08Z
+date = 07/23/2024
 
 [Article]
+startDate = "9/11/1991"
+endDate = ""
 contributors = ["ChuckECool","Midwestretail","Rexburg090","216.125.34.66","CEC Tinley","AstridMascotFan2005"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = 2023-09-03T00:02:16Z
+date = 09/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Bob black big cheese.jpg|Tape Side, 'BIG CHEESE Bob Black Big Cheese #36'"
 contributors = ["The 64th Gamer","CEC Tinley"]
 gallery = []

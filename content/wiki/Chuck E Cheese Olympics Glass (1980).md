@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Olympics Glass (1980)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-01-04T21:06:26Z
+date = 01/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Jonn"]
 gallery = ["CHUCK E. OLYMPIC.png|thumb|Chuck E. Cheese Olympic Glass *front*"]
 +++

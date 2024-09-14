@@ -2,9 +2,11 @@
 title = "Victorville, CA (12790 Amargosa Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-09-29T18:22:35Z
+date = 09/29/2023
 
 [Article]
+startDate = "12/14/1999"
+endDate = ""
 contributors = ["66.215.38.213","CorrectorMan","CEC Tinley"]
 gallery = ["Victorville 1999.jpg|thumb|Victorville's exterior before 2.0. (PC: Google Maps)"]
 +++

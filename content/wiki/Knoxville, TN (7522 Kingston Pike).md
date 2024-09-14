@@ -2,9 +2,11 @@
 title = "Knoxville, TN (7522 Kingston Pike)"
 draft = false
 tags = ["Store List"]
-date = 2024-08-20T01:44:42Z
+date = 08/20/2024
 
 [Article]
+startDate = "8/23/1982"
+endDate = "-/-/1997"
 pageThumbnailFile = "Barboursville.png|thumb"
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
 gallery = []

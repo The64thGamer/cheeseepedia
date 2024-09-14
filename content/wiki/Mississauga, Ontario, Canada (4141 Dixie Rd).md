@@ -2,9 +2,11 @@
 title = "Mississauga, Ontario, Canada (4141 Dixie Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-09-10T12:45:57Z
+date = 09/10/2024
 
 [Article]
+startDate = "-/-/1991"
+endDate = ""
 pageThumbnailFile = "Dixierdsept2021photo.png|Exterior (September 2021)"
 contributors = ["CECBowlingGreen","Rexburg090","ChuckECool","216.125.34.66","38.49.94.240","2605:8D80:6C2:1681:24E4:3B2F:C11E:2CF6","2605:8D80:649:637C:398D:B4CC:2DA5:5DA2","Stripes","The 64th Gamer","Caydenpedia","Moonrock","AstridMascotFan2005","Bay12"]
 gallery = []

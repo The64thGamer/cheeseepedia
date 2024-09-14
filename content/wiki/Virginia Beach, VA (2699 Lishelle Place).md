@@ -2,9 +2,11 @@
 title = "Virginia Beach, VA (2699 Lishelle Place)"
 draft = false
 tags = ["Store List"]
-date = 2023-06-23T01:09:13Z
+date = 06/23/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Cyberstar Entertainment","Rexburg090","CEC Tinley","CorrectorMan"]
 gallery = ["Virginia Beach.jpg|thumb|Virginia Beach's exterior before the 2.0 remodel. (PC: Google Maps)"]
 +++

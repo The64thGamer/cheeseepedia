@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese Summer Show 2024"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-29T15:31:10Z
+date = 07/29/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
 gallery = []
 +++

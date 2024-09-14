@@ -2,9 +2,11 @@
 title = "Greensboro, NC (702-A Pembroke Rd)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-22T13:10:43Z
+date = 05/22/2024
 
 [Article]
+startDate = "10/22/1984"
+endDate = ""
 contributors = ["Rexburg090","CorrectorMan","2600:4040:5A0E:D900:6500:272E:6953:1FCD","BoyInCharge55","CEC Tinley","Caydenpedia","Thecheesymanfromschool","CECMentor"]
 gallery = ["Exterior2017AprilGoogleMaps.png|thumb|Street View of the store's exterior back in April 2017 before the 2.0 remodel (PC: Google Maps)"]
 +++

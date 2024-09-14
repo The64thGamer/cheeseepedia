@@ -2,9 +2,11 @@
 title = "Pasadena, TX (154 Fairmont Pkwy)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-18T21:59:31Z
+date = 05/18/2024
 
 [Article]
+startDate = "6/9/1982"
+endDate = "2/-/2007"
 pageThumbnailFile = "desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf12349","ShowbizMidwest"]
 gallery = []

@@ -2,9 +2,11 @@
 title = "Chuck Jan '04 (Costume Outfit)"
 draft = false
 tags = ["Costumed Characters"]
-date = 2023-02-04T15:14:58Z
+date = 02/04/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Corp Chuck Jan '04.jpg|January 2004 Outfit"
 contributors = ["Showtimeinc","The 64th Gamer"]
 gallery = []

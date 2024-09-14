@@ -2,9 +2,11 @@
 title = "Charlie Cheese's Pizza Playhouse"
 draft = false
 tags = ["Restaurants & Company History"]
-date = 2024-03-14T17:50:49Z
+date = 03/14/2024
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "Charlie Cheese's Pizza Playhouse Logo.png|Charlie Cheese's Pizza Playhouse Logo from March 1981 until 1982"
 contributors = ["CECBowlingGreen","The 64th Gamer","RessiduePezzzado","Pench0782","CorrectorMan","Tux Chuck","PizzaEntertainmentFanX"]
 gallery = []

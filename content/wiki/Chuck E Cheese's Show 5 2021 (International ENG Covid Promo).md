@@ -2,9 +2,11 @@
 title = "Chuck E. Cheese's Show 5 2021 (International ENG Covid Promo)"
 draft = false
 tags = ["Showtapes"]
-date = 2024-07-28T18:32:57Z
+date = 07/28/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Documentor","Himitsu","Showbiz Pizza International","Dame868","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

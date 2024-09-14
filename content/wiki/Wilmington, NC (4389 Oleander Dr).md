@@ -2,9 +2,11 @@
 title = "Wilmington, NC (4389 Oleander Dr)"
 draft = false
 tags = ["Store List"]
-date = 2024-07-28T17:28:22Z
+date = 07/28/2024
 
 [Article]
+startDate = "7/23/1984"
+endDate = "10/13/2020"
 pageThumbnailFile = "WilmingtonNCExterior2019MarchGoogleMaps.png|Street View of the store's Exterior in March 2019 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowbizMidwest","170.185.215.34","Documentor","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
 gallery = []

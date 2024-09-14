@@ -2,9 +2,11 @@
 title = "Dance Party 1999"
 draft = false
 tags = ["Live Shows"]
-date = 2024-04-04T19:56:19Z
+date = 04/04/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","ThatBoiCydalan","ItaintObeeezy","Cy's Junk at School","Bullseye123"]
 gallery = [":441f28ec559f33c02f56d23de0130027.png|441f28ec559f33c02f56d23de0130027.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

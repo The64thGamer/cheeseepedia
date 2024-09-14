@@ -2,9 +2,11 @@
 title = "Chez"
 draft = false
 tags = ["User"]
-date = 2023-11-10T18:04:58Z
+date = 11/10/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Chez"]
 gallery = []
 +++

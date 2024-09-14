@@ -2,9 +2,11 @@
 title = "Pianocorder Data Format"
 draft = false
 tags = []
-date = 2023-04-03T23:51:19Z
+date = 04/03/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BattleXGamer","Himitsu","The 64th Gamer"]
 gallery = ["Pianocorder Biphase.png|thumb|Pianocorder Playback System Timing Diagram"]
 +++

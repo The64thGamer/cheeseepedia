@@ -2,9 +2,11 @@
 title = "Cincinnati, OH (3365 Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-22T13:15:18Z
+date = 05/22/2024
 
 [Article]
+startDate = "11/11/1982"
+endDate = "12/-/1985"
 pageThumbnailFile = "Centerstagehighland.png|Center Stage of the RAE in July 1984"
 contributors = ["Documentor","The 64th Gamer","Rexburg090","CECMentor"]
 gallery = []

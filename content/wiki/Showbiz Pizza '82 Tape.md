@@ -2,9 +2,11 @@
 title = "Showbiz Pizza '82 Tape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-10-07T16:54:16Z
+date = 10/07/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

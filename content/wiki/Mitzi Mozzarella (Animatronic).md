@@ -2,9 +2,11 @@
 title = "Mitzi Mozzarella (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = 2024-08-03T17:38:12Z
+date = 08/03/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["2600:6C44:97F:D312:A88A:118D:58B0:6EF3","Cheeseclassic","Newbie editor","CECMentor","Stripes"]
 gallery = ["CEC_CU_Vestavia_Hills_AL--002.jpg|thumb|267x267px|Helen Henny Retrofit (Latex Mask)|left"]
 +++

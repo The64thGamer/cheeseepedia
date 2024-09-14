@@ -2,9 +2,11 @@
 title = "Fishing (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = 2023-07-18T16:02:45Z
+date = 07/18/2023
 
 [Article]
+startDate = "-/-/1994"
+endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = []
 +++

@@ -2,9 +2,11 @@
 title = "City of Industry, CA (17585 Colima Rd)"
 draft = false
 tags = ["Store List"]
-date = 2023-04-30T01:12:10Z
+date = 04/30/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Rexburg090"]
 gallery = []
 +++

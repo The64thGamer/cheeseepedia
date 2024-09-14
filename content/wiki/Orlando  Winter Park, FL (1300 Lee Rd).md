@@ -2,9 +2,11 @@
 title = "Orlando / Winter Park, FL (1300 Lee Rd)"
 draft = false
 tags = []
-date = 2023-02-15T06:46:17Z
+date = 02/15/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["Emcaacme","The 64th Gamer","RPCEC","2600:4040:59FF:B100:1C33:ADF4:C21F:6EF0","Rexburg090"]
 gallery = ["Winter Park Rockafire Explosion.jpg|thumb|381x381px|A picture of Winter Park, FL featured on the back of the 'Gee Our 1st Album!' cover"]
 +++

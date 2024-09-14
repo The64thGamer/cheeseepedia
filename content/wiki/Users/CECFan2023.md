@@ -2,9 +2,11 @@
 title = "CECFan2023"
 draft = false
 tags = ["User"]
-date = 2023-04-28T13:40:27Z
+date = 04/28/2023
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["CECFan2023"]
 gallery = ["MunchSmile.JPG|thumb|hehehehaw"]
 +++

@@ -2,9 +2,11 @@
 title = "1993 CEC Franchise Phoenix Convention (Event)"
 draft = false
 tags = ["Events"]
-date = 2023-12-18T21:21:14Z
+date = 12/18/2023
 
 [Article]
+startDate = ""
+endDate = ""
 pageThumbnailFile = "1993lancasterawardspin1.png|Convention Nameplate: Lancaster Franchise (Front)"
 contributors = ["The 64th Gamer"]
 gallery = []

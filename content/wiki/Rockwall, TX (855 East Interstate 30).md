@@ -2,9 +2,11 @@
 title = "Rockwall, TX (855 East Interstate 30)"
 draft = false
 tags = ["Store List"]
-date = 2024-05-04T22:48:39Z
+date = 05/04/2024
 
 [Article]
+startDate = "8/-/2001"
+endDate = ""
 contributors = ["66.215.38.213","2600:1012:B0CA:2E86:1998:FCE5:1D80:A2BF","The 64th Gamer","Cheeseclassic","Harchambeault2026"]
 gallery = []
 +++

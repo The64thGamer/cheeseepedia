@@ -2,9 +2,11 @@
 title = "Stew's Country Jamboree (VP Hank & Beau)"
 draft = false
 tags = ["Animatronic Shows"]
-date = 2024-07-21T00:05:23Z
+date = 07/21/2024
 
 [Article]
+startDate = ""
+endDate = ""
 contributors = ["BigCtheDataFinder"]
 gallery = []
 +++

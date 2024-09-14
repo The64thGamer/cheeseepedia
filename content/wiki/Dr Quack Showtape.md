@@ -2,9 +2,11 @@
 title = "Dr. Quack Showtape"
 draft = false
 tags = ["Showtapes"]
-date = 2023-05-16T20:53:30Z
+date = 05/16/2023
 
 [Article]
+startDate = "-/-/1980"
+endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

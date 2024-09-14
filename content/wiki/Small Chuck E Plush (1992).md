@@ -2,9 +2,11 @@
 title = "Small Chuck E. Plush (1992)"
 draft = false
 tags = ["Merchandise"]
-date = 2023-07-09T01:52:01Z
+date = 07/09/2023
 
 [Article]
+startDate = "-/-/1992"
+endDate = ""
 contributors = ["ToadEatSock"]
 gallery = []
 +++
