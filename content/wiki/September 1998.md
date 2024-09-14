@@ -2,10 +2,10 @@
 title = "September 1998"
 draft = false
 tags = ["Live Shows"]
-date = "08/26/2024"
+date = "2024-08-26"
 
 [Article]
-startDate = "9/-/1998"
+startDate = "1998-9-00"
 endDate = ""
 contributors = ["Documentor","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

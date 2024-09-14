@@ -2,10 +2,10 @@
 title = "Oklahoma City, OK (7605 S Walker Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/16/2024"
+date = "2024-07-16"
 
 [Article]
-startDate = "3/18/1981"
+startDate = "1981-3-18"
 endDate = ""
 pageThumbnailFile = "OKCWALKEROLD.png|Exterior before closure and demolition, Unknown Year"
 contributors = ["SuperCreamPiper2008","CECMadison"]

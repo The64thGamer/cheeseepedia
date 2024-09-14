@@ -2,7 +2,7 @@
 title = "Untitled Dinosaur Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "04/18/2024"
+date = "2024-04-18"
 
 [Article]
 startDate = ""
@@ -56,4 +56,3 @@ The Show was fully installed in Circus Circus in Las Vegas, Nevada in 1994. The 
 |at 2:07, 3:05, and 40:27
 |}
 
-<h2> References </h2>

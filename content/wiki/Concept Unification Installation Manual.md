@@ -2,7 +2,7 @@
 title = "Concept Unification Installation Manual"
 draft = false
 tags = ["Documents"]
-date = "06/19/2023"
+date = "2023-06-19"
 
 [Article]
 startDate = ""

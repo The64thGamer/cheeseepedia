@@ -2,11 +2,11 @@
 title = "White Settlement, TX (7750 Scott St)"
 draft = false
 tags = ["Store List"]
-date = "05/22/2024"
+date = "2024-05-22"
 
 [Article]
-startDate = "12/29/1982"
-endDate = "6/25/2020"
+startDate = "1982-12-29"
+endDate = "2020-6-25"
 pageThumbnailFile = "WhiteSettlementExterior2018DecemberGoogleMaps.png|A street view of the store's exterior back in December 2018 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","Documentor","RedaCEC","Rexburg090","216.125.34.66","CEC Tinley","Steven 'CEC' Master","The 64th Gamer","Caydenpedia","SuperCreamPiper2008","Cecnj98","CECMentor"]
 gallery = []

@@ -2,11 +2,11 @@
 title = "Monroeville, PA (3800 William Penn Hwy)"
 draft = false
 tags = ["Store List"]
-date = "03/31/2024"
+date = "2024-03-31"
 
 [Article]
-startDate = "3/-/1993"
-endDate = "3/30/2024"
+startDate = "1993-3-00"
+endDate = "2024-3-30"
 pageThumbnailFile = "Monroeville PA Exterior 2023.jpg|Exterior, 2023"
 contributors = ["ChuckECool","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","Rexburg090","Tux Chuck","Cheeseclassic","ThatBoiCydalan","PachCEC"]
 gallery = []
@@ -86,5 +86,5 @@ In August 2018, Monroeville received the 2.0 remodel and removed the 2-Stage for
 |}
 <h2>Trivia</h2>
 TODO
-<h2>References</h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "Summertime 2000"
 draft = false
 tags = ["Live Shows"]
-date = "10/29/2023"
+date = "2023-10-29"
 
 [Article]
-startDate = "7/-/2000"
+startDate = "2000-7-00"
 endDate = ""
 contributors = ["The 64th Gamer","Documentor","Ceclife13","BurgersNuggs445"]
 gallery = ["Summertime00.png|thumb|Summertime 2000 ","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

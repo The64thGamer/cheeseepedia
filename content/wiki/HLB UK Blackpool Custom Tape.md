@@ -2,7 +2,7 @@
 title = "HLB UK Blackpool Custom Tape"
 draft = false
 tags = ["Showtapes"]
-date = "08/31/2024"
+date = "2024-08-31"
 
 [Article]
 startDate = ""

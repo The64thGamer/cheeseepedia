@@ -2,10 +2,10 @@
 title = "Rancho Cucamonga, CA (9339 Foothill Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/22/2024"
+date = "2024-08-22"
 
 [Article]
-startDate = "3/21/1990"
+startDate = "1990-3-21"
 endDate = ""
 pageThumbnailFile = "Rancho Cucamonga.png|Exterior After 2.0, Unknown Year"
 contributors = ["ChuckECool","The 64th Gamer","CEC Tinley","Snowbobsuperboi","SuperCreamPiper2008","CEC1988"]

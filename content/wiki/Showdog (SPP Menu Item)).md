@@ -2,7 +2,7 @@
 title = "Showdog (SPP Menu Item))"
 draft = false
 tags = ["Menu Items"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
 startDate = ""
@@ -16,4 +16,3 @@ The <b><i>Showdog</b></i> is a cancelled [ShowBiz Pizza Place]({{< ref "wiki/Sho
 
 The item would have a trademark filing on July 23, 1985, featuring a stippled logo displaying 'SHOWDOG'. The listing describes it as a hot dog that would come with potato chips and a soft drink. Also in 1985, the Torpedo Dog (SPP Menu Item) (Torpedo Dog) would release. It is possible the Showdog would be an unused name for the Torpedo Dog, but it is unconfirmed.<ref name=':0' />
 
-<h2> References </h2>

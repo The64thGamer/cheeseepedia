@@ -2,7 +2,7 @@
 title = "Dr. Quack (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/13/2024"
+date = "2024-05-13"
 
 [Article]
 startDate = ""
@@ -27,4 +27,3 @@ Going off of what we know about the showtape, it can be assumed that this cabare
 
 
 
-<h2> References </h2>

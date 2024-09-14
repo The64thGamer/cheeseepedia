@@ -2,7 +2,7 @@
 title = "CEI 4-Track Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = "11/24/2023"
+date = "2023-11-24"
 
 [Article]
 startDate = ""
@@ -32,4 +32,3 @@ Baking a tape can either be done in a convection oven or a dehydrator. The tempe
 
 Tapes should be left out for a while before playing them. At minimum this should be 8 hours but most users wait an entire day. Depending on the moisture of the tape's storage, the tape will last a few weeks to a few months before being needed to be baked again.<ref>https:<i>www.tapeheads.net/threads/ampex-tape-baking-how-long-temperture.88891/</ref><ref>https:</i>en.wikipedia.org/wiki/Sticky-shed_syndrome</ref>
 
-<h2> References </h2>

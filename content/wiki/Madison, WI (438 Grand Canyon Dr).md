@@ -2,10 +2,10 @@
 title = "Madison, WI (438 Grand Canyon Dr)"
 draft = false
 tags = ["Store List"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
-startDate = "7/7/1982"
+startDate = "1982-7-7"
 endDate = ""
 pageThumbnailFile = "Madison WI CEC 2.0 Exterior.png|Exterior, August 2022"
 contributors = ["ChuckECool","ShowbizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
@@ -113,7 +113,7 @@ In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 |Footage of the store in 1995
 |January 22, 1995
 |}
-<h2>References</h2>
+
 <references />
 
 <h2> Trivia </h2>

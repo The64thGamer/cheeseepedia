@@ -2,7 +2,7 @@
 title = "Standard: Fixture Page"
 draft = false
 tags = ["Standards Pages"]
-date = "07/20/2023"
+date = "2023-07-20"
 
 [Article]
 startDate = ""
@@ -31,5 +31,5 @@ Include a detailed description of the appearance on the item you're writing your
 
 Simple gallery showing the fixture up-close, in an operating store, or in private hands. If any scans of artwork are present, please include it in this section.
 
-<h2> References </h2>
+
 References will go here.

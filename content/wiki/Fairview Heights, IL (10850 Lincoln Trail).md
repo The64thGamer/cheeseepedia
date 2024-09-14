@@ -2,10 +2,10 @@
 title = "Fairview Heights, IL (10850 Lincoln Trail)"
 draft = false
 tags = ["Store List"]
-date = "06/09/2024"
+date = "2024-06-09"
 
 [Article]
-startDate = "5/23/1984"
+startDate = "1984-5-23"
 endDate = ""
 pageThumbnailFile = "Fairview before 2.0.jpg|Fairview's exterior prior to 2.0."
 contributors = ["CorrectorMan","Rexburg090","ShowbizMidwest","CEC Tinley","Caydenpedia","Cheeseclassic","Cecanddisneyfan2004"]
@@ -129,5 +129,5 @@ At first, Fairview Heights had a RAE stage, as it was a Showbiz at the time. Aro
 <h2>Videos</h2> 
 https://www.youtube.com/watch?v=gJZJlJW9xRY
 
-<h2>References</h2>
+
 <references />

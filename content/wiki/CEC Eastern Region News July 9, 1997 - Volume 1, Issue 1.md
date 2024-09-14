@@ -2,7 +2,7 @@
 title = "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"
 draft = false
 tags = ["Documents"]
-date = "02/15/2024"
+date = "2024-02-15"
 
 [Article]
 startDate = ""
@@ -23,4 +23,3 @@ The item would appear on eBay on January 14, 2024 sold by its original author. T
 
 
 
-<h2> References </h2>

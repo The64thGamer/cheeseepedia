@@ -2,11 +2,11 @@
 title = "Little Rock, AR (10901 N Rodney Parham Road 303)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
 startDate = ""
-endDate = "4/19/2014"
+endDate = "2014-4-19"
 contributors = ["ArtieAntlers","The 64th Gamer","RPCEC","Rexburg090","RedaCEC","ChuckECool","CEC Tinley","CECswag2009"]
 gallery = ["Littlerockbuilding.jpg|thumb|Little Rock Chuck E. Cheese in ~2013."]
 +++

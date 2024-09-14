@@ -2,11 +2,11 @@
 title = "Monroe, LA (3731 Pecanland Mall Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/31/2024"
+date = "2024-08-31"
 
 [Article]
-startDate = "7/9/2011"
-endDate = "8/-/2024"
+startDate = "2011-7-9"
+endDate = "2024-8-00"
 pageThumbnailFile = "Monroe’s Exterior in 2020 (Courtesy- LoopNet.).jpg|Exterior, 2020 (PC: LoopNet)"
 contributors = ["47.17.236.200","Cheeseclassic","CEC Kokomo","Signal08","AthensEpic","Documentor","AstridMascotFan2005"]
 gallery = []

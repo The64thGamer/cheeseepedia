@@ -2,11 +2,11 @@
 title = "Bradenton, FL (905 44th Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "3/3/1999"
-endDate = "6/16/1984"
+startDate = "1999-3-3"
+endDate = "1984-6-16"
 pageThumbnailFile = "Brade.png |Bradenton's exterior pre-2.0 remodel."
 contributors = ["ShowbizMidwest","WalterB","CEC Tinley","2600:4040:5A0E:D900:80EC:F561:38B:60E","AstridMascotFan2005","CoolerDude"]
 gallery = []

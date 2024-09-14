@@ -2,11 +2,11 @@
 title = "Columbus, OH (4284 Macsway Ave)"
 draft = false
 tags = ["Store List"]
-date = "10/30/2023"
+date = "2023-10-30"
 
 [Article]
 startDate = ""
-endDate = "6/18/2020"
+endDate = "2020-6-18"
 pageThumbnailFile = "desc=Macsway's exterior after the 2005 remodel not long before closure|image=ColumbusOHMacswayExteriorBeforeClosure.jpg"
 contributors = ["The 64th Gamer","CEC Columbus","Rexburg090","Emcaacme","Caydenpedia","CEC Tinley","SuperCreamPiper2008"]
 gallery = []
@@ -163,5 +163,5 @@ In 2020, during the store closure, the stage would be demolished during closure,
 |June 20, 2020
 |}
 
-<h2> References </h2>
+
 <references />

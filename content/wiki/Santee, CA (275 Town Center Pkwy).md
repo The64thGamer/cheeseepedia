@@ -2,10 +2,10 @@
 title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "12/05/2023"
+date = "2023-12-05"
 
 [Article]
-startDate = "9/18/2023"
+startDate = "2023-9-18"
 endDate = ""
 pageThumbnailFile = "desc=Exterior a few days before opening, September 15th, 2023|image=santee ca 9 15 2023.jpg"
 contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]
@@ -122,6 +122,6 @@ Santee features a Chuck E. Live Stage and Video Wall.
 
 
 
-<h2>References</h2>
+
 
 <references />

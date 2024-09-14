@@ -2,10 +2,10 @@
 title = "Houston, TX (4432 North Fwy)"
 draft = false
 tags = ["Store List"]
-date = "04/26/2024"
+date = "2024-04-26"
 
 [Article]
-startDate = "11/-/2009"
+startDate = "2009-11-00"
 endDate = ""
 pageThumbnailFile = "HoustonNorthlineCurrentExterior.jpg|The store's exterior as of today."
 contributors = ["47.17.236.200","ThatBoiCydalan"]
@@ -162,5 +162,5 @@ Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program (2.
 |Unknown/Destroyed
 |}
 
-<h2>References</h2>
+
 <references />

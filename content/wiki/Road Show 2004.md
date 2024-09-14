@@ -2,10 +2,10 @@
 title = "Road Show 2004"
 draft = false
 tags = ["Live Shows"]
-date = "11/10/2022"
+date = "2022-11-10"
 
 [Article]
-startDate = "4/-/2004"
+startDate = "2004-4-00"
 endDate = ""
 contributors = ["The 64th Gamer","Documentor","Mousester"]
 gallery = ["New Graphic.png"]

@@ -2,11 +2,11 @@
 title = "Baton Rouge, LA (11324 Boardwalk Dr)"
 draft = false
 tags = ["Store List"]
-date = "03/16/2024"
+date = "2024-03-16"
 
 [Article]
-startDate = "8/12/1981"
-endDate = "11/3/2021"
+startDate = "1981-8-12"
+endDate = "2021-11-3"
 pageThumbnailFile = "desc=The store's exterior before closure (PC: LoopNet)|image=BatonRougeBoardwalkExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
 gallery = []
@@ -116,5 +116,5 @@ In November 2021, the location closed due to COVID-19.
 |February 26th, 2020
 |}
 
-<h2>References</h2>
+
 <references />

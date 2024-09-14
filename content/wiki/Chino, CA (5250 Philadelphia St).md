@@ -2,10 +2,10 @@
 title = "Chino, CA (5250 Philadelphia St)"
 draft = false
 tags = ["Store List"]
-date = "09/11/2024"
+date = "2024-09-11"
 
 [Article]
-startDate = "12/30/1988"
+startDate = "1988-12-30"
 endDate = ""
 contributors = ["CorrectorMan","CEC Tinley","Estsproduction","CEC1988","Cecfan15WantsRetromation","The 64th Gamer","CoolerDude","Midwestern Jasper T."]
 gallery = []
@@ -165,4 +165,3 @@ Chino remained like this until November 18th 2022, when they would begin the 201
 
 
 
-<h2> References </h2>

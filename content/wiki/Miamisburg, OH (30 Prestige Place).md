@@ -2,10 +2,10 @@
 title = "Miamisburg, OH (30 Prestige Place)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
-startDate = "11/25/1981"
+startDate = "1981-11-25"
 endDate = ""
 pageThumbnailFile = "Miamisburg CEC 2.0 Exterior.png|Exterior, August 2023"
 contributors = ["The 64th Gamer","Documentor","CECBowlingGreen","Emcaacme","Rexburg090","Maddox121","71.15.155.152","2600:4040:59FC:D100:E4DE:F644:72E6:7DEE","ChuckfeldStan","ThatBoiCydalan","AstridMascotFan2005"]
@@ -194,5 +194,5 @@ In October 2022, Miamisburg would remodel to 2.0, removing the Studio C for Danc
 * Miamisburg was the 3rd Showbiz Pizza location to open in Ohio after [Sharonville, OH (1429 E Kemper Rd)]({{< ref "wiki/Sharonville, OH (1429 E Kemper Rd).md" >}}) (Opened October 21st, 1981) & [Cincinnati, OH (8801 Colerain Ave)]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}) (Opened November 11th 1981).
 * Miamisburg was one of four ShowBiz locations in Ohio to undergo Concept Unification (The other three being [Cincinnati Colerain]({{< ref "wiki/Cincinnati, OH (8801 Colerain Ave).md" >}}), [Columbus Macsway]({{< ref "wiki/Columbus, OH (4284 Macsway Ave).md" >}}), & [Springfield]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})) as Sharonville closed January 8th, 1984 and reopened years later on September 8th, 1992 as a Chuck E. Cheese's Pizza with one of two [2-Stages]({{< ref "wiki/2-Stage.md" >}}) in Ohio ([North Olmsted, OH (26104 Great Northern Sh)]({{< ref "wiki/North Olmsted, OH (26104 Great Northern Sh).md" >}}) being the other). Columbus, OH (2044 Crown Plaza Dr), [Cincinnati, OH (3365 Highland Ave)]({{< ref "wiki/Cincinnati, OH (3365 Highland Ave).md" >}}), Columbus, OH (2210 E Dublin Granville Rd), Akron, OH (2511 Romig Rd)  on the other hand were closed by December 1985 as Showbiz and were never converted into Chuck E. Cheese. 
 
-<h2> References </h2>
+
 <references />

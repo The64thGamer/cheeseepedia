@@ -2,7 +2,7 @@
 title = "PTT Pasquallys Perfect Pizza Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/18/2023"
+date = "2023-08-18"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ Placed on a yellow cylindrical shape can be seen in black text 'PASQUALLY'S PERF
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_program_ca.pdf

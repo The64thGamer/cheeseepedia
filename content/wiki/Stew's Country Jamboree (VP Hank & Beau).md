@@ -2,7 +2,7 @@
 title = "Stew's Country Jamboree (VP Hank & Beau)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "07/21/2024"
+date = "2024-07-21"
 
 [Article]
 startDate = ""
@@ -58,5 +58,5 @@ The <i>Stew's Country Jamboree</i> iterations of <i>Hank and Beau</i> have simil
 |
 |}
 
-<h2> References </h2>
+
 <references />

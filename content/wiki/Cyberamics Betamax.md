@@ -2,7 +2,7 @@
 title = "Cyberamics Betamax"
 draft = false
 tags = ["Showtape Formats"]
-date = "10/12/2023"
+date = "2023-10-12"
 
 [Article]
 startDate = ""

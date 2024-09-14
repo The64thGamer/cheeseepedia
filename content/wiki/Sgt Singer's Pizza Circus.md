@@ -2,7 +2,7 @@
 title = "Sgt. Singer's Pizza Circus"
 draft = false
 tags = ["Animatronic Shows"]
-date = "06/29/2024"
+date = "2024-06-29"
 
 [Article]
 startDate = ""
@@ -104,5 +104,5 @@ Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japa
 * The <i>Sgt. Singer's</i> store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire & the B.O.Y.S, Patty Pachyderm & Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.<ref>https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</ref>
 * During [Concept Unification]({{< ref "wiki/Concept Unification.md" >}}), Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to Showbiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.<ref>https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</ref>
 
-<h2> References </h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "Indianapolis, IN (5501 E 82nd St)"
 draft = false
 tags = ["Store List"]
-date = "04/01/2023"
+date = "2023-04-01"
 
 [Article]
-startDate = "4/28/1982"
+startDate = "1982-4-28"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090"]
 gallery = ["Castleton IN 2.0 Exterior (2020-02-24).jpg|thumb|2.0 Exterior (February 24th, 2020) (PC: brad russell)"]
@@ -123,5 +123,5 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 <h2>YouTube Videos</h2>
 TODO
 
-<h2>References</h2>
+
 <references />

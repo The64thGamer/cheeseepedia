@@ -2,11 +2,11 @@
 title = "Union, NJ (1660 US-22)"
 draft = false
 tags = ["Store List"]
-date = "06/22/2024"
+date = "2024-06-22"
 
 [Article]
-startDate = "8/6/1984"
-endDate = "11/17/2019"
+startDate = "1984-8-6"
+endDate = "2019-11-17"
 pageThumbnailFile = "Union, September 2019.jpg|Exterior (September 2019)"
 contributors = ["Cecnj98","72.76.251.24","ShowbizMidwest","Rexburg090","CorrectorMan","ThatBoiCydalan","ChuckfeldStan","Cheeseclassic","SuperCreamPiper2008","The 64th Gamer"]
 gallery = []

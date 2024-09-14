@@ -2,7 +2,7 @@
 title = "Helen Henny Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "08/06/2023"
+date = "2023-08-06"
 
 [Article]
 startDate = ""
@@ -18,4 +18,3 @@ gallery = []
 <h2> History </h2>
 The confirmation of this showtapes existence is from the installation of [Winchester Helen Henny]({{< ref "wiki/Winchester Helen Henny (Animatronic).md" >}}) at the Winchester location on August 12, 1977.<ref>https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up</ref> The showtape would run until [Madame Oink I]({{< ref "wiki/Madame Oink I.md" >}}) replaced it in February of 1978.
 
-<h2> References </h2>

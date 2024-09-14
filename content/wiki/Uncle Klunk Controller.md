@@ -2,7 +2,7 @@
 title = "Uncle Klunk Controller"
 draft = false
 tags = []
-date = "12/08/2022"
+date = "2022-12-08"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ The Uncle Klunk animatronic character and various stage props required several a
 <h2> Technical details </h2>
 Having internal 5V and 24V power supplies and not requiring any interface to the rest of the show other than receiving a feed of the top drawer data from the main tape deck, the Uncle Klunk Controller was essentially a self-contained system. It contained two main circuit boards, the Computerized Tape Reader Board (similar to a playback board, but enhanced with a microprocessor), and the 32 output driver board (analogous to standard Pianocorder driver boards, but functionally different). According to the Klunk installation tape<ref>https://www.youtube.com/watch?v=LuVkdX92UEM</ref>, the controller supported 30 outputs, divided into two connectors to which the ribbon cables from the valves were connected. Rolfe and Earl's control bits were recycled, with the remaining 8 bits being taken from the normally unused bits in the typical Rock-afire Pianocorder-based data format.
 
-<h2> References </h2>

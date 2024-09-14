@@ -2,7 +2,7 @@
 title = "Confederate Critter Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/28/2024"
+date = "2024-08-28"
 
 [Article]
 startDate = ""
@@ -39,4 +39,3 @@ Little footage of the show exists, being limited to a four minute and twenty-fiv
 The show in its entirety, including its air compressor, was auctioned off during the closure of Magic World in 1996. The show was sold by Sonny Thrower, the Magic World GM, to Charles Moore, the owner of a business named Celebrity Golf, located in Gatlinburg, Tennessee. The characters were put on display after being retrofitted into bears. There is some disagreement as to the fate of the show.<ref>https://www.tapatalk.com/groups/retro_pizza_zone/confederate-critter-show-found-t13935.html#p119569</ref> A former employee at Celebrity Golf vividly recalls that the show was completely destroyed upon Celebrity golf’s closure beyond the shadow of a doubt. 
 
 
-<h2> References </h2>

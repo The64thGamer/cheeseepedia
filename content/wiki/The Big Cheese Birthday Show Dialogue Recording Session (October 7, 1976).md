@@ -2,7 +2,7 @@
 title = "The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "09/03/2023"
+date = "2023-09-03"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ The tape features 'The Big Cheese' (whom later on became [Chuck E. Cheese]({{< r
 <h2> Production </h2>
 The audio would be produced at <i>Wally Heider Studio</i> (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert “Bob” Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be <i>Ed Bogus Productions</i> (680 Beach St. Suite 495, San Francisco, CA 94109).<ref>https://archive.org/details/sanfranciscosanf1978rlpo/page/n373/mode/2up?q=%22Bogas+Productions%22</ref><ref name=':0' />
 
-<h2> References </h2>

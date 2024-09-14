@@ -2,10 +2,10 @@
 title = "Plano, TX (1604 Preston Rd)"
 draft = false
 tags = ["Store List"]
-date = "06/07/2024"
+date = "2024-06-07"
 
 [Article]
-startDate = "5/-/1998"
+startDate = "1998-5-00"
 endDate = ""
 pageThumbnailFile = "PlanoTXCEC2.0Exterior.png|Exterior of the newly remodeled Plano, TX store."
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","BurgersNuggs445","74.96.197.218","CoolerDude"]
@@ -92,5 +92,5 @@ In December 2022 the Plano, TX store remodeled for the third time during the 201
 |Sent to [Dearborn, MI]({{< ref "wiki/Dearborn, MI (24399 Michigan Ave).md" >}}), currently Unknown.
 |}
 
-<h2>References</h2>
+
 <references />

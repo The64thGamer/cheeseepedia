@@ -2,7 +2,7 @@
 title = "Cyberamics Tester"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "06/18/2024"
+date = "2024-06-18"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ Two versions of the unit are known, one with black printed labels and the <i>Aud
 
 
 
-<h2> References </h2>

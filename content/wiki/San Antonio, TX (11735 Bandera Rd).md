@@ -2,10 +2,10 @@
 title = "San Antonio, TX (11735 Bandera Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/09/2024"
+date = "2024-08-09"
 
 [Article]
-startDate = "4/16/2002"
+startDate = "2002-4-16"
 endDate = ""
 pageThumbnailFile = "Bandera2015remodelexterior.jpg|Pre 2.0 Exterior"
 contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
@@ -205,5 +205,5 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 
 *
 
-<h2> References </h2>
+
 <references />

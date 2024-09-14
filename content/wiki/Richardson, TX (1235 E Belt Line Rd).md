@@ -2,11 +2,11 @@
 title = "Richardson, TX (1235 E Belt Line Rd)"
 draft = false
 tags = ["Store List"]
-date = "01/04/2024"
+date = "2024-01-04"
 
 [Article]
 startDate = ""
-endDate = "11/-/2006"
+endDate = "2006-11-00"
 pageThumbnailFile = "Richardson.jpg|Exterior photo taken in the early-mid 2000s. (PC: yellowpages.com)"
 contributors = ["ChuckECool","2600:4040:59F9:8000:4C33:DCA8:8F23:909F","Midwestretail","ThatBoiCydalan","Cheeseclassic","Stripes","Jazzdancr40"]
 gallery = []
@@ -124,5 +124,5 @@ In July 2006, Richardson would be one of the locations where Cheesevention III w
 |September 11, 2006
 |}
 
-<h2> References </h2>
+
 <references />

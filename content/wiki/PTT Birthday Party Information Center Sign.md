@@ -2,7 +2,7 @@
 title = "PTT Birthday Party Information Center Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "03/01/2022"
+date = "2022-03-01"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Northridge Evergreen Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = "11/28/2023"
+date = "2023-11-28"
 
 [Article]
 startDate = ""

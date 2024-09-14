@@ -2,10 +2,10 @@
 title = "Tinley Park, IL (16090 S Harlem Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
-startDate = "1/31/1989"
+startDate = "1989-1-31"
 endDate = ""
 pageThumbnailFile = "Tinley Park 2.0 .png|Exterior, December 2023"
 contributors = ["Rexburg090","2600:4040:59FF:B100:3626:A36E:DD25:CF56","ShowbizMidwest","Jaxon11","64.150.4.64","RedaCEC","173.216.33.6","CEC Tinley","The 64th Gamer","Tux Chuck","Cheeseclassic","CoolerDude","CECMentor"]
@@ -97,4 +97,3 @@ Originally, the store opened with a Rocker Stage, which they had until the Mid 1
 |Jun 30, 2012
 |}
 
-<h2> References </h2>

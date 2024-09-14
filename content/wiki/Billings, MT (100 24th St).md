@@ -2,10 +2,10 @@
 title = "Billings, MT (100 24th St)"
 draft = false
 tags = ["Store List"]
-date = "08/09/2024"
+date = "2024-08-09"
 
 [Article]
-startDate = "8/6/1984"
+startDate = "1984-8-6"
 endDate = ""
 pageThumbnailFile = "BillingsMTExterior2021AugustGoogleMaps.png|Street view of the store's Exterior before the 2.0 remodel (August 2021) (PC: Google Maps)"
 contributors = ["RedaCEC","173.216.33.6","Rexburg090","ChuckEPediaIsTheBest!","71.31.183.205","The 64th Gamer","BoyInCharge55","2600:4040:5A0E:D900:8CA2:C7CC:54BB:380D","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","Documentor","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]
@@ -137,5 +137,5 @@ As of August 2024, The remodel is officially completed.
 
 * Before Corporate renumbered Franchised locations to four digit store numbers in 2010, Billings' current store number (<b><i>210</b></i>) was used for the [Wilmington, NC (4389 Oleander Dr)]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}) location; In 2010, it was renumbered to <b><i>Store #2070</b></i> until closure. It's unknown if Billings had a three digit store number before 2010.
 
-<h2>References</h2>
+
 <references />

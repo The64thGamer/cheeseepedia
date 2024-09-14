@@ -2,11 +2,11 @@
 title = "Rochester, MN (1250 16th St)"
 draft = false
 tags = ["Store List"]
-date = "01/21/2024"
+date = "2024-01-21"
 
 [Article]
-startDate = "12/14/2010"
-endDate = "6/24/2020"
+startDate = "2010-12-14"
+endDate = "2020-6-24"
 pageThumbnailFile = "Rochester in 2012.jpg|Rochester's exterior in 2012. (PC: Google Maps)"
 contributors = ["CorrectorMan","Cecfan2004","Cheeseclassic"]
 gallery = []

@@ -2,10 +2,10 @@
 title = "Redwood City, CA (2541-43 El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = "09/03/2024"
+date = "2024-09-03"
 
 [Article]
-startDate = "12/28/1999"
+startDate = "1999-12-28"
 endDate = ""
 contributors = ["CorrectorMan","CEC Tinley","Veronancy"]
 gallery = ["Redwood2.0.png|thumb|Redwood City's exterior as of today. (PC: Reddit)"]

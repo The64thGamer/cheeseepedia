@@ -2,10 +2,10 @@
 title = "Go Go Chuck E"
 draft = false
 tags = []
-date = "02/13/2022"
+date = "2022-02-13"
 
 [Article]
-startDate = "1/-/1995"
+startDate = "1995-1-00"
 endDate = ""
 contributors = ["Documentor"]
 gallery = []

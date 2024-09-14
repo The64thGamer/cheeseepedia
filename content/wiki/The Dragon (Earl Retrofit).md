@@ -2,7 +2,7 @@
 title = "The Dragon (Earl Retrofit)"
 draft = false
 tags = ["TexasStateFair"]
-date = "07/19/2022"
+date = "2022-07-19"
 
 [Article]
 startDate = ""

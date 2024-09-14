@@ -2,7 +2,7 @@
 title = "Hours (Winchester Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = "08/24/2023"
+date = "2023-08-24"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ Data on the design of the fixture is scarce, however it can be made out that the
 
 TO:DO
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf

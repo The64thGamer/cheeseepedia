@@ -2,10 +2,10 @@
 title = "Mishawaka, IN (822 W McKinley Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/11/2024"
+date = "2024-05-11"
 
 [Article]
-startDate = "9/22/1982"
+startDate = "1982-9-22"
 endDate = ""
 contributors = ["CECBowlingGreen","ChuckECool","ShowbizMidwest","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Cy's Junk at School"]
 gallery = []
@@ -116,5 +116,5 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 |-
 |}
 
-<h2>References</h2>
+
 TODO

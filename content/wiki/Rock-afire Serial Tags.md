@@ -2,7 +2,7 @@
 title = "Rock-afire Serial Tags"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = "12/13/2023"
+date = "2023-12-13"
 
 [Article]
 startDate = ""

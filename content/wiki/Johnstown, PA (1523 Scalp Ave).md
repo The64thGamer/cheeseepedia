@@ -2,11 +2,11 @@
 title = "Johnstown, PA (1523 Scalp Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
-startDate = "-/-/1982"
-endDate = "-/-/1989"
+startDate = "1982-00-00"
+endDate = "1989-00-00"
 contributors = ["RockAfire Alex","Cheeseclassic","CCSilver"]
 gallery = []
 +++

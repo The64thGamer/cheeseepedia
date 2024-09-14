@@ -2,7 +2,7 @@
 title = "PTT 1980 1 Year Employee Pin"
 draft = false
 tags = ["Employee Wear"]
-date = "12/04/2021"
+date = "2021-12-04"
 
 [Article]
 startDate = ""

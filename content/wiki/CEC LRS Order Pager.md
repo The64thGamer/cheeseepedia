@@ -2,7 +2,7 @@
 title = "CEC LRS Order Pager"
 draft = false
 tags = ["Promotional Material"]
-date = "12/06/2022"
+date = "2022-12-06"
 
 [Article]
 startDate = ""
@@ -27,4 +27,3 @@ Some locations were not able to use these pagers, as their kitchen window was in
 * [Princeton, NJ (520 Nassau Park Blvd)]({{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd).md" >}})
 * [Goodyear, AZ (13371 West McDowell Rd)]({{< ref "wiki/Goodyear, AZ (13371 West McDowell Rd).md" >}})
 
-<h2> References </h2>

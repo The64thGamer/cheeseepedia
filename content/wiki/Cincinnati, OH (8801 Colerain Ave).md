@@ -2,10 +2,10 @@
 title = "Cincinnati, OH (8801 Colerain Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/11/2024"
+date = "2024-08-11"
 
 [Article]
-startDate = "11/11/1981"
+startDate = "1981-11-11"
 endDate = ""
 pageThumbnailFile = "ColerainsExterior2023.jpg|Colerain Exterior (2023)"
 contributors = ["Documentor","The 64th Gamer","CEC Columbus","Rexburg090","Maddox121","RedaCEC","ThatBoiCydalan","Caydenpedia","Cheeseclassic","SuperCreamPiper2008","Cy's Junk at School","Cecanddisneyfan2004"]
@@ -371,6 +371,6 @@ As of 2024 the property is for sale with talks being to re-use the space for a l
 |Intact during cleanout, currently unknown 
 |}
 
-<h2>References</h2>
+
 
 <references />

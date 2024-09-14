@@ -2,7 +2,7 @@
 title = "Unnamed Mark Twain Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "02/17/2024"
+date = "2024-02-17"
 
 [Article]
 startDate = ""
@@ -16,4 +16,3 @@ The Mark Twain CPI Animatronic would perform shows where it would talk to guests
 <h2> Newspapers </h2>
 
 
-<h2>References</h2>

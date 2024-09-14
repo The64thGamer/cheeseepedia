@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese KIDZ BOP Nightly Takeover"
 draft = false
 tags = ["Showtapes"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "7/8/2024"
+startDate = "2024-7-8"
 endDate = ""
 contributors = ["Documentor","Dame0824","The 64th Gamer","ThatBoiCydalan"]
 gallery = []

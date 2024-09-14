@@ -2,10 +2,10 @@
 title = "Colorado Springs, CO (2925 Geyser Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/13/2023"
+date = "2023-07-13"
 
 [Article]
-startDate = "5/21/2007"
+startDate = "2007-5-21"
 endDate = ""
 contributors = ["216.227.26.243"]
 gallery = []
@@ -17,4 +17,3 @@ gallery = []
 <h2>Animatronics</h2>
 
 <h2>Videos</h2>
-<h2>References</h2>

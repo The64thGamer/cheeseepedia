@@ -2,7 +2,7 @@
 title = "Winchester Warblettes (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "03/23/2024"
+date = "2024-03-23"
 
 [Article]
 startDate = ""
@@ -47,4 +47,3 @@ The bot had 3 movements, which opened the mouth on the figures.
 
 
 
-<h2>References</h2>

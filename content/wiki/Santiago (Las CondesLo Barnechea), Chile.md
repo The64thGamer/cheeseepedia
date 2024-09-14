@@ -2,10 +2,10 @@
 title = "Santiago (Las Condes/Lo Barnechea), Chile"
 draft = false
 tags = ["Store List"]
-date = "10/17/2022"
+date = "2022-10-17"
 
 [Article]
-startDate = "-/-/1994"
+startDate = "1994-00-00"
 endDate = ""
 contributors = ["CECBowlingGreen"]
 gallery = []

@@ -2,11 +2,11 @@
 title = "Silver Spring, MD (13807 Outlet Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "3/-/1983"
-endDate = "8/8/2016"
+startDate = "1983-3-00"
+endDate = "2016-8-8"
 pageThumbnailFile = "Sshq.png|Chuck E. Cheese's exterior around 2011"
 contributors = ["PachDaChuckster","Rexburg090","Bowling for Cheese","2600:4040:2FEC:E600:DDD2:FA95:6DC0:70D8","CEC Tinley","BurgersNuggs445","ChuckECool","Cecnj98","CorrectorMan","PachCEC","AstridMascotFan2005"]
 gallery = []
@@ -210,5 +210,5 @@ Published: February 22, 2014
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

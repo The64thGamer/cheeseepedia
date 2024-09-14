@@ -2,7 +2,7 @@
 title = "Ealing, England"
 draft = false
 tags = ["Store List"]
-date = "10/04/2023"
+date = "2023-10-04"
 
 [Article]
 startDate = ""
@@ -20,4 +20,3 @@ In the September 1983 issue of the Pizza Times, Pizza Time Theatre, Inc.'s newsl
 
 This reference was the only ever mention of a PTT in England and/or the United Kingdom, the reasons for the store not opening may be because a franchisee was never found, or the agreement to place a PTT in England may have fallen through before the store possibly started construction.
 
-<h2> References </h2>

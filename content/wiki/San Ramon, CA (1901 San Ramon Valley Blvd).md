@@ -2,11 +2,11 @@
 title = "San Ramon, CA (1901 San Ramon Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = "04/10/2024"
+date = "2024-04-10"
 
 [Article]
-startDate = "10/-/1980"
-endDate = "-/-/1984"
+startDate = "1980-10-00"
+endDate = "1984-00-00"
 pageThumbnailFile = "San Ramon PTT Exterior.jpg|Exterior before closure"
 contributors = ["Cheeseclassic","Cy's Junk at School","PizzaEntertainmentFanX","The 64th Gamer"]
 gallery = []
@@ -20,4 +20,3 @@ During early to mid 1980, PTT Inc. was creating concept art for San Ramon as it 
 
 
 
-<h2> References </h2>

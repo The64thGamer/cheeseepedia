@@ -2,7 +2,7 @@
 title = "SPP Rolfe & Earl/Bday Wave"
 draft = false
 tags = ["Cyberstar Segments"]
-date = "08/26/2024"
+date = "2024-08-26"
 
 [Article]
 startDate = ""

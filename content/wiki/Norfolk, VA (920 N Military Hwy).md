@@ -2,11 +2,11 @@
 title = "Norfolk, VA (920 N Military Hwy)"
 draft = false
 tags = ["Store List"]
-date = "04/21/2024"
+date = "2024-04-21"
 
 [Article]
-startDate = "6/12/2000"
-endDate = "5/28/2015"
+startDate = "2000-6-12"
+endDate = "2015-5-28"
 pageThumbnailFile = "Norfolk.jpg|Norfolk's exterior in 2009."
 contributors = ["Bowling for Cheese","ThatBoiCydalan","Jay6CEc","SuperCreamPiper2008","Chuckatronics","Documentor"]
 gallery = []

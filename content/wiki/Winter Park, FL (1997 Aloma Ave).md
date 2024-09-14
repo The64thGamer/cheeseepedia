@@ -2,11 +2,11 @@
 title = "Winter Park, FL (1997 Aloma Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/15/2024"
+date = "2024-03-15"
 
 [Article]
-startDate = "1/26/1981"
-endDate = "2/-/1984"
+startDate = "1981-1-26"
+endDate = "1984-2-00"
 contributors = ["CEC Kokomo","ChuckECool","Tux Chuck"]
 gallery = []
 +++

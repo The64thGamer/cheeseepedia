@@ -2,10 +2,10 @@
 title = "Brookfield, WI (2435 N 124th St)"
 draft = false
 tags = ["Store List"]
-date = "08/12/2024"
+date = "2024-08-12"
 
 [Article]
-startDate = "8/-/1982"
+startDate = "1982-8-00"
 endDate = ""
 contributors = ["CorrectorMan","Pizzaman49","CEC Kokomo","ChuckECool","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = ["Old Brookfield.jpg|thumb|Site of the old Brookfield PTT. (PC: Google Maps)"]

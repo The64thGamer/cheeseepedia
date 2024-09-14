@@ -2,7 +2,7 @@
 title = "El Cerrito, CA (10 El Cerrito Plaza)"
 draft = false
 tags = ["Store List"]
-date = "05/14/2024"
+date = "2024-05-14"
 
 [Article]
 startDate = ""
@@ -32,5 +32,5 @@ During the June 6th meeting, the City Council decided to issue Pizza Time Theate
 
 
 
-<h2> References </h2>
+
 <references />

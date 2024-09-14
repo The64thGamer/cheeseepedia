@@ -2,7 +2,7 @@
 title = "Chuck E's Holiday Party 1999"
 draft = false
 tags = ["Live Shows"]
-date = "01/31/2023"
+date = "2023-01-31"
 
 [Article]
 startDate = ""
@@ -81,4 +81,3 @@ The 'Commercial Free Christmas' intermission included a 1-800 phone number. Ther
 * This is the first show released for Studio C to not feature Bird in a speaking role.
 *Brian Hagan and Robert Gotcher both make cameos in Big Band Santa.
 
-<h2> References </h2>

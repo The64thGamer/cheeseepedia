@@ -2,7 +2,7 @@
 title = "Around the World (PTT Theme)"
 draft = false
 tags = ["Stage Variations"]
-date = "02/06/2023"
+date = "2023-02-06"
 
 [Article]
 startDate = ""

@@ -2,10 +2,10 @@
 title = "San Diego, CA (3146 Sports Arena Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/13/2024"
+date = "2024-07-13"
 
 [Article]
-startDate = "4/19/1993"
+startDate = "1993-4-19"
 endDate = ""
 pageThumbnailFile = "Sandgoext.png|Sports Arena Blvd's exterior in 2022"
 contributors = ["Rileypaulson","Rexburg090","BurgersNuggs445","2600:4040:59F9:8000:1453:805E:C9FE:D729","209.129.28.15","76.167.210.169","CEC Tinley","TheChuckECheeseGuy","AstridMascotFan2005"]
@@ -538,5 +538,5 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 |Small gameroom
 |}
 
-<h2>References</h2>
+
 <references />

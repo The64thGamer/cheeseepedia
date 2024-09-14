@@ -2,10 +2,10 @@
 title = "Golf (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = "08/16/2024"
+date = "2024-08-16"
 
 [Article]
-startDate = "-/-/1994"
+startDate = "1994-00-00"
 endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = [":Handcraftedputter.png"]
@@ -26,4 +26,3 @@ The poster is held in either a 20½' x 17', or 15' x 12' dark blue/red picture f
 
 
 
-<h2> References </h2>

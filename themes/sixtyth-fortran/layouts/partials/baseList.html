@@ -1,7 +1,7 @@
 <h1>{{ .Title }}</h1>
 {{ .Content | safeHTML }}
 
-{{ range sort .Pages.ByParam "startDate" }}
+{{ range sort .Pages "Params.Article.startDate" }}
 <div class="list-page-block">
     <h2>
         <a href="{{ .RelPermalink }}">
@@ -11,17 +11,25 @@
                 {{ .Title | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
             {{ end }}
         </a>
-        <!-- Display the custom startDate -->
-        {{ with .Params.startDate }}
-            <span class="start-date">({{ . | time.Format ":date_short" }})</span>
-        {{ end }}
+        <div class="list-page-date">
+            {{ with .Params.Article.startDate }}
+                ({{ . }})
+            {{ else }}
+                (??? -
+            {{ end }}
+            {{ with .Params.Article.endDate }}
+                ({{ . }})
+            {{ else }}
+                ???)
+            {{ end }}
+        </div>
     </h2>
     
     <div class="list-page-summary">
         {{ with .Summary }}
-            {{ . | safeHTML | truncate 150 "..." }}
+            {{ . | safeHTML | truncate 175 "..." }}
         {{ else }}
-            (Click to read more...)
+            (Article in progress. . .)
         {{ end }}
     </div>
 </div>

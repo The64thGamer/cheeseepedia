@@ -2,10 +2,10 @@
 title = "CEC Stage Diagnostics 1992"
 draft = false
 tags = []
-date = "06/21/2024"
+date = "2024-06-21"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["CyCGM","Documentor","Cy's Junk at School"]
 gallery = []

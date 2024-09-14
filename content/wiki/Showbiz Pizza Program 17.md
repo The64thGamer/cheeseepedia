@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 17"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "11/15/2023"
+date = "2023-11-15"
 
 [Article]
 startDate = ""
@@ -36,5 +36,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/American_Dream_(Crosby,_Stills,_Nash_%26_Young_album) Got It Made]
 # [https://en.wikipedia.org/wiki/Superwoman_(Karyn_White_song) Superwoman]
 
-<h2>References</h2>
+
 <references />

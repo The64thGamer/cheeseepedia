@@ -2,7 +2,7 @@
 title = "Billy Bob's Wonderland"
 draft = false
 tags = ["BBWL"]
-date = "06/11/2024"
+date = "2024-06-11"
 
 [Article]
 startDate = ""

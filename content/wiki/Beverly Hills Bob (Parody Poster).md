@@ -2,7 +2,7 @@
 title = "Beverly Hills Bob (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = "04/23/2023"
+date = "2023-04-23"
 
 [Article]
 startDate = ""
@@ -28,5 +28,5 @@ Because of the original artwork for Beverly Hills Cop having the main character 
 
 
 
-<h2>References</h2>
+
 <references />

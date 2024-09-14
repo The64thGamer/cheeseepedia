@@ -2,10 +2,10 @@
 title = "Peoria, IL (2601 W Lake Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/24/2023"
+date = "2023-05-24"
 
 [Article]
-startDate = "12/3/1982"
+startDate = "1982-12-3"
 endDate = ""
 pageThumbnailFile = "desc=Exterior of the store with 2005 remodel before getting 2.0. (PC: PJ Hoerr)|image=PeoriaILCECExteriorPre2.0.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan"]

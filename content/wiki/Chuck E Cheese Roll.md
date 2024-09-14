@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Roll"
 draft = false
 tags = ["Arcade Games"]
-date = "08/28/2023"
+date = "2023-08-28"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ As the game was used for many years, a few different versions of the marquee art
 
 
 
-<h2>References</h2>
+
 
 <references />

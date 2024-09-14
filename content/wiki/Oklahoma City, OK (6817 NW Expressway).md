@@ -2,10 +2,10 @@
 title = "Oklahoma City, OK (6817 NW Expressway)"
 draft = false
 tags = ["Store List"]
-date = "07/14/2024"
+date = "2024-07-14"
 
 [Article]
-startDate = "1/27/1982"
+startDate = "1982-1-27"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","Chuckstar69","CEC Tinley","SuperCreamPiper2008","Jaxonia"]
 gallery = []

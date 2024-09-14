@@ -2,11 +2,11 @@
 title = "Sparks, NV (530 Greenbrae Dr)"
 draft = false
 tags = ["Store List"]
-date = "03/25/2024"
+date = "2024-03-25"
 
 [Article]
-startDate = "12/20/1979"
-endDate = "-/-/1984"
+startDate = "1979-12-20"
+endDate = "1984-00-00"
 contributors = ["Chouts2","Rexburg090","CEC Tinley","SuperCreamPiper2008","Lelmaster"]
 gallery = []
 +++
@@ -62,5 +62,5 @@ it is unknown which space in the plaza it occupied.
 |[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
 |Unknown
 |}
-<h2>References</h2>
+
 <references />

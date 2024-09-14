@@ -2,7 +2,7 @@
 title = "Show Selector"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "08/29/2024"
+date = "2024-08-29"
 
 [Article]
 startDate = ""

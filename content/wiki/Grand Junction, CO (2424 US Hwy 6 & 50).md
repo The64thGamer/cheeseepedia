@@ -2,11 +2,11 @@
 title = "Grand Junction, CO (2424 US Hwy 6 & 50)"
 draft = false
 tags = ["Store List"]
-date = "12/18/2023"
+date = "2023-12-18"
 
 [Article]
-startDate = "8/27/2003"
-endDate = "6/19/2020"
+startDate = "2003-8-27"
+endDate = "2020-6-19"
 pageThumbnailFile = "Grand Junction in 2019.jpg|Grand Junction’s Exterior in June 2019 (PC: Google Maps)"
 contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","Tux Chuck"]
 gallery = []

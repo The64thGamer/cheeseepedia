@@ -2,10 +2,10 @@
 title = "September 2010 Show"
 draft = false
 tags = ["Showtapes"]
-date = "02/05/2024"
+date = "2024-02-05"
 
 [Article]
-startDate = "9/1/2010"
+startDate = "2010-9-1"
 endDate = ""
 contributors = ["The 64th Gamer","Documentor","Mousester","2603:8001:D300:5785:1965:4148:BDA3:E573"]
 gallery = []
@@ -107,4 +107,3 @@ Eight songs were featured, with some coming from previous shows (including songs
 * The original description of the now deleted 'Little Bit Of 80's' video on the official CEC YouTube channel in 2011 read, 'From Chuck E. Cheese's September 2010 Show, this is 'Little Bit Of 80s.' The Matt Daniel cut.'; the cut in question includes additional retro footage.
 * The song used during '1 Minute 'Til Next Show Countdown' was originally used in [Chuck E Cheese's 20th Anniversary (AAM)]({{< ref "wiki/Chuck E Cheese's 20th Anniversary (AAM).md" >}}). The track is titled 'Future Tech'.<ref>Showtape Stock Music</ref>
 
-<h2> References </h2>

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Hot Wheels Seared Tuner Sho-Stopper (2001)"
 draft = false
 tags = ["Merchandise"]
-date = "07/03/2023"
+date = "2023-07-03"
 
 [Article]
 startDate = ""

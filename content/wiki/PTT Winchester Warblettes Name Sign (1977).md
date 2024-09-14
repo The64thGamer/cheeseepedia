@@ -2,7 +2,7 @@
 title = "PTT Winchester Warblettes Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/08/2023"
+date = "2023-08-08"
 
 [Article]
 startDate = ""
@@ -24,7 +24,7 @@ Like all the other Winchester nameplates, the Warblettes nameplate used a rounde
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf
 # https://youtu.be/ucg8MujPDQA

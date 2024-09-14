@@ -2,10 +2,10 @@
 title = "West Palm Beach, FL (2471 Okeechobee Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/01/2024"
+date = "2024-08-01"
 
 [Article]
-startDate = "12/26/2013"
+startDate = "2013-12-26"
 endDate = ""
 pageThumbnailFile = "West Palm Beach in April 2022..jpg|West Palm Beach in April 2022. (PC: Google Maps)"
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","Fartsmeller","Cheeseclassic","AstridMascotFan2005"]

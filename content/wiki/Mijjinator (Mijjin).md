@@ -2,7 +2,7 @@
 title = "Mijjinator (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ All the airlines of the bot are strung in bright highlighted colors, being green
 
 
 
-<h2> References </h2>

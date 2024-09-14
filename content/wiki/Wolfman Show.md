@@ -2,7 +2,7 @@
 title = "Wolfman Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/06/2024"
+date = "2024-05-06"
 
 [Article]
 startDate = ""
@@ -40,4 +40,3 @@ A set of building plans for the second ShowBiz Pizza Place in [Jacksonville, FL 
 
 
 
-<h2> References </h2>

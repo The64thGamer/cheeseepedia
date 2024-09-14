@@ -2,10 +2,10 @@
 title = "Torrance, CA (16920 Prairie Ave)"
 draft = false
 tags = ["Store List"]
-date = "06/20/2023"
+date = "2023-06-20"
 
 [Article]
-startDate = "-/-/1983"
+startDate = "1983-00-00"
 endDate = ""
 contributors = ["ChuckECool","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","Pasquallytheplumber","Rexburg090","CEC Tinley","Cecnj98"]
 gallery = ["TorranceCAPrairie2.0Exterior .jpg|thumb|A photo of the store's 2.0 Exterior (February 2023) (PC: CEC Torrance)"]

@@ -2,7 +2,7 @@
 title = "Chuck Statue- Liberace (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/15/2023"
+date = "2023-07-15"
 
 [Article]
 startDate = ""
@@ -38,6 +38,6 @@ The statue came with no accessories.
 
 
 
-<h2>References</h2>
+
 
 <references responsive='0' />

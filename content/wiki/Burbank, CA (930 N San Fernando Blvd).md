@@ -2,10 +2,10 @@
 title = "Burbank, CA (930 N San Fernando Blvd)"
 draft = false
 tags = ["Store List"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
-startDate = "12/28/1999"
+startDate = "1999-12-28"
 endDate = ""
 pageThumbnailFile = "desc=Burbank's exterior as of July 2023.|image=Higher quality burbank.jpg"
 contributors = ["Chuckstar69","CorrectorMan","ThatBoiCydalan","CEC1988","Bunbunboy8"]
@@ -46,5 +46,5 @@ Burbank opened on December 28, 1999 on top of a former Discovery Zone store. It 
 
 
 TODO
-<h2>References</h2>
+
 <references />

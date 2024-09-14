@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Limited Edition Survivor Plush (2004)"
 draft = false
 tags = ["Merchandise"]
-date = "04/23/2023"
+date = "2023-04-23"
 
 [Article]
-startDate = "-/-/2004"
+startDate = "2004-00-00"
 endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
@@ -46,6 +46,6 @@ The butterfly net variant has long sleeve shirt, long pants, and a dragon fly in
 
 Any and all pictures of the item out there. Pictures of the item at the Prize Counter, inside stores, in magazines, or anywhere else should also be shown.
 
-<h2>References</h2>
+
 
 <references />

@@ -2,7 +2,7 @@
 title = "Video Wall"
 draft = false
 tags = []
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Articulated Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = "04/08/2024"
+date = "2024-04-08"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "CEC Make Magic Sign"
 draft = false
 tags = []
-date = "05/27/2024"
+date = "2024-05-27"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ The sign is a small white sign with a red border. It holds red bold text at the 
 
 
 
-<h2> References </h2>

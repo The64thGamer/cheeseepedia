@@ -2,10 +2,10 @@
 title = "Mobile, AL (710 Downtowner Loop)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "2/10/1982"
+startDate = "1982-2-10"
 endDate = ""
 contributors = ["BurgersNuggs445","Montfortdog","RPCEC Backup","2600:4040:59FF:B100:9C6:388E:A183:C3C5","Rexburg090","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","ChuckfeldStan","AstridMascotFan2005","CoolerDude"]
 gallery = ["Mobile Alabama May 2022.png|thumb|381x381px|The location as of May 2022",":Coming-soon-3-14-82.jpg",":Freddyatmobile.png",":Fiyah.png"]
@@ -185,4 +185,3 @@ On July 22, a fire allegedly started in the building.<ref></ref>
 |Unknown
 |}
 
-<h2> References </h2>

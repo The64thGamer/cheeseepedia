@@ -2,7 +2,7 @@
 title = "Spanish Birthday"
 draft = false
 tags = ["Live Shows"]
-date = "07/21/2022"
+date = "2022-07-21"
 
 [Article]
 startDate = ""

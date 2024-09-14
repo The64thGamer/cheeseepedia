@@ -2,7 +2,7 @@
 title = "CEI Apple II Programmer"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = "10/19/2023"
+date = "2023-10-19"
 
 [Article]
 startDate = ""

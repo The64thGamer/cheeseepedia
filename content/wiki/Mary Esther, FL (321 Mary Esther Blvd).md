@@ -2,11 +2,11 @@
 title = "Mary Esther, FL (321 Mary Esther Blvd)"
 draft = false
 tags = ["Store List"]
-date = "09/30/2023"
+date = "2023-09-30"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "1/9/2005"
+startDate = "1983-00-00"
+endDate = "2005-1-9"
 pageThumbnailFile = "desc=Exterior photo, taken in 2004. (PC: showbizpizza.com)|image=Maryestherbuilding.jpg"
 contributors = ["Midwestretail","Rexburg090","ShowbizMidwest","ThatBoiCydalan","2601:840:8701:1300:E9E0:ED8C:19C7:E72A","2601:840:8701:1300:918E:726B:26A3:574E","2600:4040:5A0E:D900:80EC:F561:38B:60E"]
 gallery = []
@@ -135,5 +135,5 @@ After the store closed, it would remain vacant for a short period until it was f
 [http://showbizpizza.com/photos/cec/fl_ftwalton/index.html 2004]
 
 
-<h2> References </h2>
+
 <references />

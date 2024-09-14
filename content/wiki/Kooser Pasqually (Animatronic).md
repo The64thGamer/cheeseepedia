@@ -2,7 +2,7 @@
 title = "Kooser Pasqually (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "07/18/2023"
+date = "2023-07-18"
 
 [Article]
 startDate = ""

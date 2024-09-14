@@ -2,7 +2,7 @@
 title = "CEC Manager Beige Long-Sleeve Shirt (Avenger)"
 draft = false
 tags = ["Employee Wear"]
-date = "03/31/2023"
+date = "2023-03-31"
 
 [Article]
 startDate = ""

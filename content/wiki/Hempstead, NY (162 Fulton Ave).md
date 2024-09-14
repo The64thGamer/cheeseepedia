@@ -2,10 +2,10 @@
 title = "Hempstead, NY (162 Fulton Ave)"
 draft = false
 tags = ["Store List"]
-date = "04/03/2024"
+date = "2024-04-03"
 
 [Article]
-startDate = "12/17/2002"
+startDate = "2002-12-17"
 endDate = ""
 contributors = ["ChuckfeldStan","CorrectorMan","Mr.Señor","Tux Chuck"]
 gallery = ["Hempstead.jpg|thumb|Hempstead's exterior 1 month before the 2.0 remodel. (PC: Google Maps)"]

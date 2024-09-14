@@ -2,7 +2,7 @@
 title = "Costume Character Cleaning & Preservation"
 draft = false
 tags = ["Showbiz"]
-date = "05/16/2023"
+date = "2023-05-16"
 
 [Article]
 startDate = ""

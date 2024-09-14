@@ -2,7 +2,7 @@
 title = "CEC Appreciation Pin Program"
 draft = false
 tags = []
-date = "04/17/2022"
+date = "2022-04-17"
 
 [Article]
 startDate = ""

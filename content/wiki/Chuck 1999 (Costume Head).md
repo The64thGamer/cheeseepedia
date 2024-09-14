@@ -2,7 +2,7 @@
 title = "Chuck 1999 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = "09/16/2023"
+date = "2023-09-16"
 
 [Article]
 startDate = ""

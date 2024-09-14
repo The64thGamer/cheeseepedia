@@ -2,11 +2,11 @@
 title = "Parkway Parade, Marine Parade, Singapore"
 draft = false
 tags = ["Store List"]
-date = "11/03/2023"
+date = "2023-11-03"
 
 [Article]
-startDate = "12/15/1983"
-endDate = "-/-/1985"
+startDate = "1983-12-15"
+endDate = "1985-00-00"
 contributors = ["CorrectorMan","Rexburg090","BurgersNuggs445","Tux Chuck"]
 gallery = []
 +++
@@ -56,5 +56,5 @@ A little known fact about the location is that it also featured [Cheese E. Stree
 |Unknown
 |}
 
-<h2> References </h2>
+
 <references />

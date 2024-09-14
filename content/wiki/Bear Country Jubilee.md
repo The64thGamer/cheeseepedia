@@ -2,7 +2,7 @@
 title = "Bear Country Jubilee"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/24/2024"
+date = "2024-08-24"
 
 [Article]
 startDate = ""
@@ -58,5 +58,5 @@ Similarly to Americana's installation, Morey's BCJ fell under disrepair in its f
 |1978
 |}
 
-<h2> References </h2>
+
 <references />

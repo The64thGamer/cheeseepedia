@@ -2,7 +2,7 @@
 title = "Queenie / Mini Mozzarella (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "07/02/2024"
+date = "2024-07-02"
 
 [Article]
 startDate = ""
@@ -41,4 +41,3 @@ Queenie is a red fox positioned on the far right of the stage. At the 1978 IAAPA
 
 
 
-<h2> References </h2>

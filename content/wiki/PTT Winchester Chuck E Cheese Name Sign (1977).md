@@ -2,7 +2,7 @@
 title = "PTT Winchester Chuck E. Cheese Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""
@@ -33,4 +33,3 @@ Around late 1979, Chuck E. Cheese's nameplate alongside the other Winchester nam
 
 
 
-<h2> References </h2>

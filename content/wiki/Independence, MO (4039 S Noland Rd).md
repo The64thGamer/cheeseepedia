@@ -2,10 +2,10 @@
 title = "Independence, MO (4039 S Noland Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/24/2023"
+date = "2023-07-24"
 
 [Article]
-startDate = "10/14/1980"
+startDate = "1980-10-14"
 endDate = ""
 pageThumbnailFile = "desc=Front shot of the store’s exterior (PC: LoopNet)|image=IndependenceMOCECOldLocationExterior.jpeg"
 contributors = ["RedaCEC","ThatBoiCydalan","ChuckECool","Rexburg090"]
@@ -158,5 +158,5 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 
 TODO
 
-<h2>References</h2>
+
 <references />

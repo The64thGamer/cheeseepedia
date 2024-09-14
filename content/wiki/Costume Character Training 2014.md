@@ -2,7 +2,7 @@
 title = "Costume Character Training 2014"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "03/29/2022"
+date = "2022-03-29"
 
 [Article]
 startDate = ""

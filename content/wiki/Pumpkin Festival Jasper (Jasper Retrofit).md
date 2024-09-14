@@ -2,7 +2,7 @@
 title = "Pumpkin Festival Jasper (Jasper Retrofit)"
 draft = false
 tags = ["PumpkinFestivalBand"]
-date = "01/01/2023"
+date = "2023-01-01"
 
 [Article]
 startDate = ""

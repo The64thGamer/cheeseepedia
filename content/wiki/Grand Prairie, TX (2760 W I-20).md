@@ -2,10 +2,10 @@
 title = "Grand Prairie, TX (2760 W I-20)"
 draft = false
 tags = ["Store List"]
-date = "08/11/2024"
+date = "2024-08-11"
 
 [Article]
-startDate = "9/26/2001"
+startDate = "2001-9-26"
 endDate = ""
 pageThumbnailFile = "desc=Exterior (December 2023)|image=Exteriorgrandprariedec2023.png"
 contributors = ["The 64th Gamer","AstridMascotFan2005"]
@@ -37,4 +37,3 @@ On June 16, 2024, the location would be one of the few test stores for the Ninja
 
 
 
-<h2> References </h2>

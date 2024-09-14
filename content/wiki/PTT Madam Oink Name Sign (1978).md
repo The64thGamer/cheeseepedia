@@ -2,7 +2,7 @@
 title = "PTT Madam Oink Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/08/2023"
+date = "2023-08-08"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ Like all other Winchester nameplates, Madam Oinks nameplate used a brown, rounde
 
 
 
-<h2> References </h2>
+
 
 # https://youtu.be/oePT32p0lTY?t=84

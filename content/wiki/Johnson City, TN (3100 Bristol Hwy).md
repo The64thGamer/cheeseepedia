@@ -2,11 +2,11 @@
 title = "Johnson City, TN (3100 Bristol Hwy)"
 draft = false
 tags = ["Store List"]
-date = "09/21/2023"
+date = "2023-09-21"
 
 [Article]
-startDate = "1/-/1986"
-endDate = "-/-/2001"
+startDate = "1986-1-00"
+endDate = "2001-00-00"
 pageThumbnailFile = "desc=Exterior in 1997 presumably up to the store's closure|image=Johnson city tn cec old location exterior.png"
 contributors = ["Rexburg090","ThatBoiCydalan","CEC Tinley"]
 gallery = []
@@ -114,5 +114,5 @@ TODO
 |Another video showcasing the exterior, some of the store, & the store's Exterior.
 |June 14, 1998.
 |}
-<h2>References</h2>
+
 <references />

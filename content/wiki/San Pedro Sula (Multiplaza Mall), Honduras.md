@@ -2,10 +2,10 @@
 title = "San Pedro Sula (Multiplaza Mall), Honduras"
 draft = false
 tags = ["Store List"]
-date = "06/26/2024"
+date = "2024-06-26"
 
 [Article]
-startDate = "7/3/2018"
+startDate = "2018-7-3"
 endDate = ""
 pageThumbnailFile = "SPS.jpg|San Pedro Sula’s exterior inside the mall."
 contributors = ["Bay12","Cheeseclassic"]
@@ -18,4 +18,3 @@ July 3, 2018 with a [Circles of Light]({{< ref "wiki/Circles of Light.md" >}}) s
 
 Unfortunately, almost nothing is known about the location, other than the fact that it is about 15,435 square feet.<ref> https://www.laprensa.hn/honduras/abre-operaciones-chuck-e-cheeses-san-pedro-sula-CFlp1194262 </ref>
 
-<h2>References</h2>

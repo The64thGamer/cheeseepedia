@@ -2,7 +2,7 @@
 title = "'Me & My Friends' Live Show 2017 How To Video"
 draft = false
 tags = []
-date = "12/28/2022"
+date = "2022-12-28"
 
 [Article]
 startDate = ""

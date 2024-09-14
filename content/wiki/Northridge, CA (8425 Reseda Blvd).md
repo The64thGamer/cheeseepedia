@@ -2,10 +2,10 @@
 title = "Northridge, CA (8425 Reseda Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/27/2024"
+date = "2024-08-27"
 
 [Article]
-startDate = "9/-/1981"
+startDate = "1981-9-00"
 endDate = ""
 pageThumbnailFile = "desc=Exterior in November 2023. (PC: Side Eye Cat)|image=Northridge2.0.png"
 contributors = ["CECBowlingGreen","ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","Rexburg090","Jonn","CorrectorMan","ThatBoiCydalan","47.17.236.200","The 64th Gamer","64.150.3.152","Cheeseclassic","Documentor","CoolerDude","ShowbizMidwest","AstridMascotFan2005","PizzaEntertainmentFanX","CECMentor","Cecanddisneyfan2004","Caydenpedia","CEC1988"]
@@ -270,4 +270,3 @@ CEC would announce in October of 2023 that Northridge would now be the Munch's M
 |November 10, 2023
 |}
 
-<h2> References </h2>

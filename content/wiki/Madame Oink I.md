@@ -2,7 +2,7 @@
 title = "Madame Oink I"
 draft = false
 tags = ["Showtapes"]
-date = "08/14/2023"
+date = "2023-08-14"
 
 [Article]
 startDate = ""

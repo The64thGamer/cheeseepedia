@@ -2,10 +2,10 @@
 title = "Jackson, TN (2021 North Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/21/2024"
+date = "2024-08-21"
 
 [Article]
-startDate = "7/29/2003"
+startDate = "2003-7-29"
 endDate = ""
 pageThumbnailFile = "JacksonTNCECExterior.jpg|A photo of the store's exterior as of today."
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","GabrielPennington9864","AstridMascotFan2005","9Lol92"]

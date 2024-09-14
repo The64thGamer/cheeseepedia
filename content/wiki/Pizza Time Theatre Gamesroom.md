@@ -2,10 +2,10 @@
 title = "Pizza Time Theatre Gamesroom"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "09/13/2022"
+date = "2022-09-13"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Metaverse"
 draft = false
 tags = ["Video Games"]
-date = "04/10/2022"
+date = "2022-04-10"
 
 [Article]
 startDate = ""
@@ -31,4 +31,3 @@ On February 17, 2022, CEC Entertainment Concepts, LP filed two trademarks, one u
 
  Operating a virtual restaurant featuring actual and virtual goods, operating a virtual restaurant online featuring home delivery
 
-<h2> References </h2>

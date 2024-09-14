@@ -2,7 +2,7 @@
 title = "Winchester Pizza Time Orchestra (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "08/25/2024"
+date = "2024-08-25"
 
 [Article]
 startDate = ""
@@ -22,4 +22,3 @@ The setup appeared in the [1979 PTT Franchise Brochure]({{< ref "wiki/PTT Franch
 
 
 
-<h2> References </h2>

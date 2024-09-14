@@ -2,7 +2,7 @@
 title = "Creative Engineering Production Plant"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "09/25/2023"
+date = "2023-09-25"
 
 [Article]
 startDate = ""

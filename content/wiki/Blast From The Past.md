@@ -2,10 +2,10 @@
 title = "Blast From The Past"
 draft = false
 tags = ["Showtapes"]
-date = "07/26/2023"
+date = "2023-07-26"
 
 [Article]
-startDate = "-/-/1998"
+startDate = "1998-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","RedaCEC","2600:1009:B173:9FF8:285C:6515:8181:3706","2601:2C6:4B7F:1C80:D1A6:9AE7:CEEE:9F76"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

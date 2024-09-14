@@ -2,7 +2,7 @@
 title = "Children of America '92"
 draft = false
 tags = ["APS Showtapes"]
-date = "07/17/2022"
+date = "2022-07-17"
 
 [Article]
 startDate = ""

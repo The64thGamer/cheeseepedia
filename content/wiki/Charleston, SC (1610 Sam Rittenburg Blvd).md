@@ -2,11 +2,11 @@
 title = "Charleston, SC (1610 Sam Rittenburg Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "9/20/1982"
-endDate = "6/18/2020"
+startDate = "1982-9-20"
+endDate = "2020-6-18"
 pageThumbnailFile = "desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
 gallery = []

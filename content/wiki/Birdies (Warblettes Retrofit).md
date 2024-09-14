@@ -2,7 +2,7 @@
 title = "Birdies (Warblettes Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "06/10/2023"
+date = "2023-06-10"
 
 [Article]
 startDate = ""
@@ -27,6 +27,6 @@ During the holiday season, Jungle Jim's has the Birdies sing holiday songs. It i
 
 
 
-<h2>References</h2>
+
 
 <references />

@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 15"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""
@@ -40,5 +40,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/Christmas_at_Our_House Santa, Bring My Baby Home]
 # Run Rudolph Run (From Warner Bros 'A Christmas Tradition, Volume II')
 
-<h2>References</h2>
+
 <references />

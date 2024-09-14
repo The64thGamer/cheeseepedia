@@ -2,11 +2,11 @@
 title = "Jeddah (Corniche Road), Saudi Arabia"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "12/12/2001"
-endDate = "-/-/2019"
+startDate = "2001-12-12"
+endDate = "2019-00-00"
 contributors = ["Bowling for Cheese","CECBowlingGreen","BurgersNuggs445","RockyRhoad07","ThatBoiCydalan","Tux Chuck","AstridMascotFan2005"]
 gallery = ["JeddahCornch2018Exterior.png|thumb|Jeddah's exterior in 2018.","CECCornicheRoad Vandalized.png|thumb|Chuck E. Cheese's (Corniche Road), abandoned and severely vandalized in October 2022 (PC: Mahmoud Alhashem - Google Maps)"]
 +++

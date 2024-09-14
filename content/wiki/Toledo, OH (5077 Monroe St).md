@@ -2,10 +2,10 @@
 title = "Toledo, OH (5077 Monroe St)"
 draft = false
 tags = ["Store List"]
-date = "07/16/2024"
+date = "2024-07-16"
 
 [Article]
-startDate = "9/6/1993"
+startDate = "1993-9-6"
 endDate = ""
 contributors = ["Rexburg090","GainerXO","AstridMascotFan2005"]
 gallery = []

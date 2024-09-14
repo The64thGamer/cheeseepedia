@@ -2,11 +2,11 @@
 title = "Appleton, WI (2424 W College Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/26/2024"
+date = "2024-03-26"
 
 [Article]
-startDate = "5/22/1983"
-endDate = "11/-/1985"
+startDate = "1983-5-22"
+endDate = "1985-11-00"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

@@ -2,7 +2,7 @@
 title = "Site News"
 draft = false
 tags = ["Welcome"]
-date = "08/18/2024"
+date = "2024-08-18"
 
 [Article]
 startDate = ""
@@ -61,4 +61,3 @@ gallery = []
 
 * <b>November 28th -</b> Wiki goes live as 'Decode-Document-Digitize Wiki'. Visibility set to private.
 
-<h2> References </h2>

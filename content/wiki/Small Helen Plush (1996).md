@@ -2,7 +2,7 @@
 title = "Small Helen Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
 startDate = ""
@@ -34,5 +34,5 @@ The plush had a pretty complex design. It has a cylindrical body with two yellow
 
 
 
-<h2>References</h2>
+
 <references />

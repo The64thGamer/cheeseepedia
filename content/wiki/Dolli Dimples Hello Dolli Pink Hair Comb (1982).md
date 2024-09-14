@@ -2,7 +2,7 @@
 title = "Dolli Dimples 'Hello Dolli' Pink Hair Comb (1982)"
 draft = false
 tags = []
-date = "04/29/2023"
+date = "2023-04-29"
 
 [Article]
 startDate = ""

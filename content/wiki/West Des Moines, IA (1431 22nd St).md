@@ -2,10 +2,10 @@
 title = "West Des Moines, IA (1431 22nd St)"
 draft = false
 tags = ["Store List"]
-date = "04/08/2024"
+date = "2024-04-08"
 
 [Article]
-startDate = "10/13/1980"
+startDate = "1980-10-13"
 endDate = ""
 pageThumbnailFile = "W.D.M.jpg|West Des Moines' exterior in September 2017. (PC: Google Maps)"
 contributors = ["CECBowlingGreen","64.125.60.2","ShowbizMidwest","168.69.254.248","CorrectorMan","Icantbelieveitsnotbutter","BoyInCharge55","174.131.44.53","Ceclife13","Rexburg090","Cheeseclassic","SuperCreamPiper2008","The 64th Gamer"]

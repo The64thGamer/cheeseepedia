@@ -2,10 +2,10 @@
 title = "Ogden, UT (3155 Harrison Blvd)"
 draft = false
 tags = ["Store List"]
-date = "03/16/2024"
+date = "2024-03-16"
 
 [Article]
-startDate = "5/17/1980"
+startDate = "1980-5-17"
 endDate = ""
 pageThumbnailFile = "desc=Ogden Utah in 1991, weeks before closure.|image=Ogden91.jpg"
 contributors = ["Pench0782","Puppetpals","The 64th Gamer","2600:1008:B10F:A3F2:6496:8108:4444:2936","Krimet Hetgrof"]
@@ -90,5 +90,5 @@ In 2012, a live performance based cafe named 'Paris Cafe' would open in the form
 |Unknown
 |Unknown
 |}
-<h2>References</h2>
+
 <references />

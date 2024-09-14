@@ -2,10 +2,10 @@
 title = "Fontana, CA (17069 Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = "11/09/2023"
+date = "2023-11-09"
 
 [Article]
-startDate = "11/-/1983"
+startDate = "1983-11-00"
 endDate = ""
 pageThumbnailFile = "Exterior, 2023.jpg|Exterior, June 2023"
 contributors = ["Snowbobsuperboi","The 64th Gamer","Cheeseclassic","ThatBoiCydalan"]

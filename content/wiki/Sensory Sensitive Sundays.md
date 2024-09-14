@@ -2,10 +2,10 @@
 title = "Sensory Sensitive Sundays"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "01/13/2023"
+date = "2023-01-13"
 
 [Article]
-startDate = "-/-/2016"
+startDate = "2016-00-00"
 endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 gallery = []

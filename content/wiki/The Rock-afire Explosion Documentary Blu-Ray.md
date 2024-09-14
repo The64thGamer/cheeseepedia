@@ -2,10 +2,10 @@
 title = "The Rock-afire Explosion Documentary Blu-Ray"
 draft = false
 tags = ["Merchandise"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
-startDate = "2/1/2024"
+startDate = "2024-2-1"
 endDate = ""
 contributors = ["The 64th Gamer","Chuckatronics"]
 gallery = [":Discqualitycontentsraebluraydoc.png"]
@@ -47,4 +47,3 @@ As of July 31, 2024, 117 copies would be left in stock.<ref>https:<i>web.archive
 
 
 
-<h2> References </h2>

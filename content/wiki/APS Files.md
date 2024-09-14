@@ -2,7 +2,7 @@
 title = "APS Files"
 draft = false
 tags = []
-date = "06/26/2024"
+date = "2024-06-26"
 
 [Article]
 startDate = ""

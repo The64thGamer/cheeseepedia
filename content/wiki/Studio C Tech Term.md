@@ -2,7 +2,7 @@
 title = "Studio C Tech Term"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "03/22/2023"
+date = "2023-03-22"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ The device can check and switch which programming banks, called DTUs (Digital Te
 
 
 
-<h2> References </h2>

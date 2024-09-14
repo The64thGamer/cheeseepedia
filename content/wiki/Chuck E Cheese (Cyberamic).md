@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
 tags = []
-date = "09/12/2024"
+date = "2024-09-12"
 
 [Article]
 startDate = ""
@@ -139,4 +139,3 @@ The bot features 8 movements in total.
 
 
 
-<h2> References </h2>

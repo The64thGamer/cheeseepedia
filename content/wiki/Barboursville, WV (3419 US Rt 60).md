@@ -2,11 +2,11 @@
 title = "Barboursville, WV (3419 US Rt 60)"
 draft = false
 tags = []
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
-startDate = "-/-/1986"
-endDate = "-/-/1988"
+startDate = "1986-00-00"
+endDate = "1988-00-00"
 contributors = ["Midwestretail","64.125.60.2","Emcaacme","CECFan2023","Rexburg090","SuperCreamPiper2008","Documentor"]
 gallery = ["barboursville2.jpg|thumb|Exterior of Barboursville as Billy Bob's Wonderland. (PC: showbizpizza.com)"]
 +++

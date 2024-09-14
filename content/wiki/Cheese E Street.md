@@ -2,7 +2,7 @@
 title = "Cheese E. Street"
 draft = false
 tags = ["Arcade Games"]
-date = "03/14/2024"
+date = "2024-03-14"
 
 [Article]
 startDate = ""
@@ -56,4 +56,3 @@ Plans for the first Cheese E. Street to open would be at the [San Jose, CA (1371
 
 
 
-<h2> References </h2>

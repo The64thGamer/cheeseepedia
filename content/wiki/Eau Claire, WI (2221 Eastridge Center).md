@@ -2,11 +2,11 @@
 title = "Eau Claire, WI (2221 Eastridge Center)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "4/30/1987"
-endDate = "-/-/1989"
+startDate = "1987-4-30"
+endDate = "1989-00-00"
 contributors = ["Midwestretail","CEC Tinley","SuperCreamPiper2008","Cheeseclassic","Cy's Junk at School","Gostapua210","CECMadison"]
 gallery = []
 +++

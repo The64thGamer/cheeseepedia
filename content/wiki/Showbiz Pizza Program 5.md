@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 5"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""
@@ -37,5 +37,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/A_Summer_Song A Summer Song]
 # [https://en.wikipedia.org/wiki/Up,_Up_and_Away_(song) Up, Up, and Away]
 
-<h2>References</h2>
+
 <references />

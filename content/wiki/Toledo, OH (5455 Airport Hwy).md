@@ -2,10 +2,10 @@
 title = "Toledo, OH (5455 Airport Hwy)"
 draft = false
 tags = ["Store List"]
-date = "08/05/2024"
+date = "2024-08-05"
 
 [Article]
-startDate = "9/6/1993"
+startDate = "1993-9-6"
 endDate = ""
 contributors = ["Moonrock","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []

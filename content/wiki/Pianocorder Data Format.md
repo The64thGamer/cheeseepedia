@@ -2,7 +2,7 @@
 title = "Pianocorder Data Format"
 draft = false
 tags = []
-date = "04/03/2023"
+date = "2023-04-03"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
 tags = ["RockyRailroad"]
-date = "08/12/2024"
+date = "2024-08-12"
 
 [Article]
 startDate = ""
@@ -92,4 +92,3 @@ this is every animatronic stage Gillian's have had.
 |Retrofit of [Mr. Munch (Cyberamic)]({{< ref "wiki/Mr Munch (Cyberamic).md" >}}).
 |}
 
-<h2> References </h2>

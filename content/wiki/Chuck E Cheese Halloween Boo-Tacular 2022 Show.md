@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese Halloween Boo-Tacular 2022 Show"
 draft = false
 tags = ["Showtapes"]
-date = "03/20/2024"
+date = "2024-03-20"
 
 [Article]
-startDate = "9/19/2022"
+startDate = "2022-9-19"
 endDate = ""
 contributors = ["Documentor","Destinationimagination95","Showbiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","70.161.122.232","The 64th Gamer","GallaRBX2"]
 gallery = ["New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless"]

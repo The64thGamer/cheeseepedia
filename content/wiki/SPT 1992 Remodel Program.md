@@ -2,7 +2,7 @@
 title = "SPT 1992 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = "06/01/2024"
+date = "2024-06-01"
 
 [Article]
 startDate = ""
@@ -51,6 +51,6 @@ Lastly, the ordering counter, prize counter, beverage selection, and salad bar a
 
 The below images come from [Irving, TX (3903 W Airport Fwy)]({{< ref "wiki/Irving, TX (3903 W Airport Fwy).md" >}}).<ref name=':1'>https:<i>www.instagram.com/p/CTTHrg8JmWk/</ref><ref>https:</i>archive.org/details/irving-tx-remodel-001/</ref>
 
-<h2>References</h2>
+
 
 <references />

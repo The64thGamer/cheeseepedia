@@ -2,10 +2,10 @@
 title = "Kapolei, HI (700 Haumea St)"
 draft = false
 tags = ["Store List"]
-date = "06/25/2024"
+date = "2024-06-25"
 
 [Article]
-startDate = "10/-/2018"
+startDate = "2018-10-00"
 endDate = ""
 pageThumbnailFile = "IMG 1292.jpeg|Kapolei as of 2024"
 contributors = ["JND","Cheeseclassic","BenTrainFan2000","Bay12"]

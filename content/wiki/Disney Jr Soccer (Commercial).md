@@ -2,7 +2,7 @@
 title = "Disney Jr. Soccer (Commercial)"
 draft = false
 tags = []
-date = "01/25/2023"
+date = "2023-01-25"
 
 [Article]
 startDate = ""

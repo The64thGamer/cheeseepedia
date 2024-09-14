@@ -2,10 +2,10 @@
 title = "Longview, TX (312 Northwest Loop 281)"
 draft = false
 tags = ["Store List"]
-date = "09/23/2023"
+date = "2023-09-23"
 
 [Article]
-startDate = "-/-/2004"
+startDate = "2004-00-00"
 endDate = ""
 contributors = ["Non-Merch-Master","47.17.236.200"]
 gallery = ["Longview.jpg|thumb|Longview in 2022"]

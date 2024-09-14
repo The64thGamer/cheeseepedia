@@ -2,10 +2,10 @@
 title = "Kingston, Ontario, Canada (768 Gardiners Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
-startDate = "1/1/2006"
+startDate = "2006-1-1"
 endDate = ""
 pageThumbnailFile = "KingstonExterior2012.png|Kingston's exterior in May 2012 (PC. Google Maps)"
 contributors = ["47.17.236.200","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005"]

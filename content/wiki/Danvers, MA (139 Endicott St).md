@@ -2,11 +2,11 @@
 title = "Danvers, MA (139 Endicott St)"
 draft = false
 tags = ["Store List"]
-date = "06/08/2024"
+date = "2024-06-08"
 
 [Article]
-startDate = "4/24/1983"
-endDate = "4/15/2020"
+startDate = "1983-4-24"
+endDate = "2020-4-15"
 pageThumbnailFile = "desc=Street View of the store's exterior in September 2018 (PC: Google Maps)|image=DanversMAExterior2018SeptemberGoogleMaps.png"
 contributors = ["Destinationimagination95","Rexburg090","RedaCEC","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","CEC Tinley","The 64th Gamer","Dakaraimoore1203","NativeNew Yorker","CECMentor","Moonrock"]
 gallery = []
@@ -224,5 +224,5 @@ For the purpose of main 5, it will contain info on Chuck E.'s House show, with t
 |April 25, 2020
 |April 27, 2020
 |}
-<h2>References</h2>
+
 TODO

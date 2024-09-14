@@ -2,7 +2,7 @@
 title = "SPP Grammy - Summertime"
 draft = false
 tags = ["Cyberstar Segments"]
-date = "01/23/2022"
+date = "2022-01-23"
 
 [Article]
 startDate = ""

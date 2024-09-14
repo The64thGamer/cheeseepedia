@@ -2,7 +2,7 @@
 title = "Peter Piper Pizza"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "06/02/2023"
+date = "2023-06-02"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Highlights of 1993 401k Plan"
 draft = false
 tags = ["Documents"]
-date = "10/17/2022"
+date = "2022-10-17"
 
 [Article]
 startDate = ""

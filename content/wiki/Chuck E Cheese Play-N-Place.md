@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Play-N-Place"
 draft = false
 tags = ["Arcade Games"]
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""
@@ -90,5 +90,5 @@ According to the debut article in 1983, there were 53 placed into locations. The
 |1983
 |1985
 |}
-<h2>References</h2>
+
 <references />

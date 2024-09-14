@@ -2,7 +2,7 @@
 title = "Dolli Dimples Show Selector (Prototype)"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "08/03/2023"
+date = "2023-08-03"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ Shortly after [Kooser Dolli Dimples]({{< ref "wiki/Kooser Dolli Dimples (Animatr
 
 
 
-<h2> Reference </h2>

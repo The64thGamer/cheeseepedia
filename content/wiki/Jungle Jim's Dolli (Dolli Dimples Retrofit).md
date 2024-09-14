@@ -2,7 +2,7 @@
 title = "Jungle Jim's Dolli (Dolli Dimples Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""
@@ -28,5 +28,5 @@ With how few photos/footage exists of Dolli it is currently unknown what she per
 
 
 
-<h2> References </h2>
+
 <references />

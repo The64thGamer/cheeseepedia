@@ -2,7 +2,7 @@
 title = "Winchester Foxy Colleen (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/28/2024"
+date = "2024-02-28"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ It's unknown what movements The Bot had at this time, but we do know they had a 
 
 
 
-<h2>References</h2>

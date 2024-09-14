@@ -2,7 +2,7 @@
 title = "SPP Emergency Backup Tape"
 draft = false
 tags = ["Showtapes"]
-date = "10/05/2023"
+date = "2023-10-05"
 
 [Article]
 startDate = ""

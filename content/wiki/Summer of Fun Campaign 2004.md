@@ -2,7 +2,7 @@
 title = "Summer of Fun Campaign 2004"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "01/31/2023"
+date = "2023-01-31"
 
 [Article]
 startDate = ""

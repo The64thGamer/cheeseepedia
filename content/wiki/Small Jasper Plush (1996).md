@@ -2,7 +2,7 @@
 title = "Small Jasper Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "04/23/2023"
+date = "2023-04-23"
 
 [Article]
 startDate = ""
@@ -36,6 +36,6 @@ His hat uses a weird papery material with a red ribbon. He has a red bandana tha
 
 
 
-<h2>References</h2>
+
 
 <references />

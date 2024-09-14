@@ -2,10 +2,10 @@
 title = "Scottsboro, AL (2908 S Broad St)"
 draft = false
 tags = []
-date = "11/07/2023"
+date = "2023-11-07"
 
 [Article]
-startDate = "-/-/1990"
+startDate = "1990-00-00"
 endDate = ""
 pageThumbnailFile = "Pizza Party USA Center Stage.png|Pizza Party USA Center Stage"
 contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
@@ -33,4 +33,3 @@ The store would be opened by Gana Garner sometime in the late 1990's with a Rock
 |1997
 |}
 
-<h2> References </h2>

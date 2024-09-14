@@ -2,10 +2,10 @@
 title = "Birmingham, AL (500 Old Town Rd)"
 draft = false
 tags = ["Store List"]
-date = "03/04/2024"
+date = "2024-03-04"
 
 [Article]
-startDate = "10/20/1982"
+startDate = "1982-10-20"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","Midwestretail","ChuckEPediaIsTheBest!","ChuckfeldStan","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","24.246.190.79","ItzaRob","SuperCreamPiper2008"]
 gallery = ["BirminghamALOldTowneRdExterior2022MarchGoogleMaps.png|thumb|Street view of Birmingham's 2.0 Exterior (March 2022) (PC: Google Maps)"]
@@ -144,5 +144,5 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 |January 1, 2020
 |}
 
-<h2>References</h2>
+
 *

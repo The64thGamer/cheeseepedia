@@ -2,11 +2,11 @@
 title = "Joliet, IL (1965 W Jefferson St)"
 draft = false
 tags = ["Store List"]
-date = "08/29/2024"
+date = "2024-08-29"
 
 [Article]
 startDate = ""
-endDate = "1/-/2007"
+endDate = "2007-1-00"
 pageThumbnailFile = "desc=Joliet in the early 2000’s.|image=JolietCECExterior.jpg"
 contributors = ["ShowbizMidwest","Documentor","ThatBoiCydalan","Rexburg090","CorrectorMan","SuperCreamPiper2008","CoolerDude","Muncho","Cecanddisneyfan2004","AstridMascotFan2005"]
 gallery = []
@@ -112,5 +112,5 @@ As previously mentioned, the animatronics from Joliet were sent to Mishawaka, IN
 * Chuck E. Cheese's Coloring Book
 * Skee Ball
 
-<h2>References</h2>
+
 <references />

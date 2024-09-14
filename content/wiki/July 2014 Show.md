@@ -2,7 +2,7 @@
 title = "July 2014 Show"
 draft = false
 tags = ["Live Shows"]
-date = "12/19/2023"
+date = "2023-12-19"
 
 [Article]
 startDate = ""
@@ -96,4 +96,3 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 * Rock Star Birthday was redubbed to replace John Bowens Munch voice with Chris Hills.
 * The Live Show countdown for this show is the Cyberstar countdown from the 80s.
 
-<h2> References </h2>

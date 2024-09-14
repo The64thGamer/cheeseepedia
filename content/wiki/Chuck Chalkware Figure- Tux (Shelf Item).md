@@ -2,7 +2,7 @@
 title = "Chuck Chalkware Figure- Tux (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/13/2023"
+date = "2023-07-13"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ Unlike other statues produced, this one does not use any fabric similarly to the
 
 
 
-<h2>References</h2>
+
 
 <references responsive='0' />

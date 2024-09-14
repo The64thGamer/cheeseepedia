@@ -2,11 +2,11 @@
 title = "Créteil, France (Av. de la France libre, 94000)"
 draft = false
 tags = []
-date = "09/28/2023"
+date = "2023-09-28"
 
 [Article]
-startDate = "4/5/1984"
-endDate = "-/-/1986"
+startDate = "1984-4-5"
+endDate = "1986-00-00"
 pageThumbnailFile = "Ptt france thumbnail image 1985.png|Showroom, March 1985"
 contributors = ["CECBowlingGreen","2601:19C:4A0D:238D:69AC:952A:4B4A:6ABA","2A02:842B:188:E801:C4F0:7E6C:97C:6C7A","ChuckECool","The 64th Gamer","CorrectorMan","RockyRhoad07","CEC Tinley"]
 gallery = []
@@ -92,4 +92,3 @@ This store opened with a Balcony Stage, as all other Pizza Time Theatres did. It
 |Unknown
 |}
 
-<h2> References </h2>

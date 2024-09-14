@@ -2,7 +2,7 @@
 title = "Paramus, NJ (221 South Dr)"
 draft = false
 tags = ["Store List"]
-date = "05/25/2024"
+date = "2024-05-25"
 
 [Article]
 startDate = ""
@@ -130,5 +130,5 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 |April 24, 2010
 |}
 
-<h2>References</h2>
+
 <references />

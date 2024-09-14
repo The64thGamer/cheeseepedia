@@ -2,7 +2,7 @@
 title = "Showbiz Computer Fun Fair"
 draft = false
 tags = ["Arcade Games"]
-date = "06/02/2024"
+date = "2024-06-02"
 
 [Article]
 startDate = ""
@@ -40,4 +40,3 @@ The game was produced by [ShowBiz Pizza Place]({{< ref "wiki/ShowBiz Pizza Place
 
 
 
-<h2> References </h2>

@@ -2,10 +2,10 @@
 title = "Winchester, VA (145 E Tevis St)"
 draft = false
 tags = ["Store List"]
-date = "08/29/2024"
+date = "2024-08-29"
 
 [Article]
-startDate = "8/12/2013"
+startDate = "2013-8-12"
 endDate = ""
 contributors = ["2600:4040:5A0E:D900:9954:A658:F7E0:D25D","2600:4040:5A0E:D900:5A4:D894:F195:E9EC","2600:4040:5A0E:D900:B09D:C664:5942:ACE","BurgersNuggs445","CECswag2009"]
 gallery = ["71D8B228-4777-4F48-8012-C8B6ACFC2B26 4 5005 c.jpg|thumb","C95A2B6D-8E3F-4827-AE49-0282B4A96C71 4 5005 c.jpg|thumb|The Winchester Location's Grand Opening(Photo From the Winchester Star)"]

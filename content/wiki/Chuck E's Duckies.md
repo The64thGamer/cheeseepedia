@@ -2,10 +2,10 @@
 title = "Chuck E's Duckies"
 draft = false
 tags = ["Arcade Games"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "-/-/2000"
+startDate = "2000-00-00"
 endDate = ""
 pageThumbnailFile = "Chuck e's duckies north bergen.jpg|A Chuck E.'s Duckies machine at the Chuck E. Cheese location in North Bergen, NJ"
 contributors = ["Pasquallytheplumber","The 64th Gamer","69.85.235.229","GuestIsJustBest","Stripes","69.85.235.224"]
@@ -35,5 +35,5 @@ Chuck E.'s Duckies uses identical music and sound effects to the standard Wacky 
 
 The game's audio is output in mono through two speakers located on the bottom left and right sides of the cabinet. Due to the nature of the game's simultaneous multiplayer, each speaker is assigned to either the left or right player respectively with their sound effects and music playing independent of one another.
 
-<h2> References </h2>
+
 <references />

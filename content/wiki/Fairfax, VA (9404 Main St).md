@@ -2,10 +2,10 @@
 title = "Fairfax, VA (9404 Main St)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "12/22/1983"
+startDate = "1983-12-22"
 endDate = ""
 pageThumbnailFile = "Fairfax VA CEC exterior.jpg|Exterior, 2021"
 contributors = ["ChuckECool","ThatBoiCydalan","Documentor","CECMadison","Cecnj98"]

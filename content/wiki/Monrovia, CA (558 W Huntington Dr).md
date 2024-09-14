@@ -2,11 +2,11 @@
 title = "Monrovia, CA (558 W Huntington Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "-/-/2001"
-endDate = "6/-/2020"
+startDate = "2001-00-00"
+endDate = "2020-6-00"
 pageThumbnailFile = "Chunky.jpg|alt=aaaaaaaaaaa"
 contributors = ["Snowbobsuperboi","Cheeseclassic","AstridMascotFan2005"]
 gallery = []

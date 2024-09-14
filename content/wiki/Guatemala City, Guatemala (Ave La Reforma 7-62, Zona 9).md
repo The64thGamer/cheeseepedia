@@ -2,10 +2,10 @@
 title = "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)"
 draft = false
 tags = ["Store List"]
-date = "06/23/2024"
+date = "2024-06-23"
 
 [Article]
-startDate = "-/-/1986"
+startDate = "1986-00-00"
 endDate = ""
 contributors = ["Gostapua210","Cheeseclassic","CEC Tinley","BigCtheDataFinder","BurgersNuggs445"]
 gallery = []

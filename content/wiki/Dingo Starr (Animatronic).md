@@ -2,7 +2,7 @@
 title = "Dingo Starr (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "06/11/2024"
+date = "2024-06-11"
 
 [Article]
 startDate = ""

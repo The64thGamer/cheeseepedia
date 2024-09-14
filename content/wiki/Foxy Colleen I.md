@@ -2,7 +2,7 @@
 title = "Foxy Colleen I"
 draft = false
 tags = ["Showtapes"]
-date = "08/05/2023"
+date = "2023-08-05"
 
 [Article]
 startDate = ""

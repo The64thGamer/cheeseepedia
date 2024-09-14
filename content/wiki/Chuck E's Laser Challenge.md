@@ -2,7 +2,7 @@
 title = "Chuck E.'s Laser Challenge"
 draft = false
 tags = ["Arcade Games"]
-date = "03/01/2023"
+date = "2023-03-01"
 
 [Article]
 startDate = ""

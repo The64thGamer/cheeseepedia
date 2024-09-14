@@ -2,10 +2,10 @@
 title = "Laurel, MD (936 Fairlawn Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/06/2024"
+date = "2024-07-06"
 
 [Article]
-startDate = "10/27/1982"
+startDate = "1982-10-27"
 endDate = ""
 pageThumbnailFile = "Laurel MD CEC Exterior 2.0.png|Exterior, June 2022"
 contributors = ["ChuckECool","Rexburg090","168.69.254.249","2600:4040:AD76:D00:385D:200:9695:9AFC","2600:4040:AD76:D00:E180:A181:2FB5:B681","ThatBoiCydalan","Caydenpedia","PachCEC","Stripes","CECMentor","Cheeseclassic","ShowbizMidwest","Cecnj98","Documentor"]
@@ -110,5 +110,5 @@ https://www.instagram.com/p/C8XEdGdJUAk/?igsh=MXQyaHAzY21oNXlpMg==</ref>
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

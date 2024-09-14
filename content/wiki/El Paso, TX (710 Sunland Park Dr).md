@@ -2,10 +2,10 @@
 title = "El Paso, TX (710 Sunland Park Dr)"
 draft = false
 tags = []
-date = "05/07/2024"
+date = "2024-05-07"
 
 [Article]
-startDate = "2/21/1994"
+startDate = "1994-2-21"
 endDate = ""
 pageThumbnailFile = "El Paso May 2024.jpg|El Paso's current exterior as of May 2024"
 contributors = ["Saan1ty"]

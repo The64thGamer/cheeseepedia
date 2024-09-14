@@ -2,7 +2,7 @@
 title = "Kooser Jasper T. Jowls (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "04/06/2024"
+date = "2024-04-06"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Chuck E Cheese's 20th Anniversary (AAM)"
 draft = false
 tags = ["Showtapes"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
 startDate = ""
@@ -37,4 +37,3 @@ The <b><i>Chuck E Cheese's 20th Anniversary Show (AAM Version)</b></i> was a mod
 ##Dolby Surround Trailer 
 ##Every Boy / Every Girl 20th Anniversary Theme Song
 
-<h2> References </h2>

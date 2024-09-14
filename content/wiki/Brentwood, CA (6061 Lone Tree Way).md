@@ -2,10 +2,10 @@
 title = "Brentwood, CA (6061 Lone Tree Way)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "5/27/2007"
+startDate = "2007-5-27"
 endDate = ""
 pageThumbnailFile = "ExteriorBrentwoodCA.png|Brentwood's exterior in December 2022, prior to 2.0."
 contributors = ["Veronancy","ThatBoiCydalan"]

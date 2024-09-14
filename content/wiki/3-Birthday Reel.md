@@ -2,10 +2,10 @@
 title = "3-Birthday Reel"
 draft = false
 tags = ["Showtapes"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
-startDate = "-/-/1980"
+startDate = "1980-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []

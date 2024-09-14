@@ -2,7 +2,7 @@
 title = "Santa Ana, CA"
 draft = false
 tags = ["Store List"]
-date = "10/04/2023"
+date = "2023-10-04"
 
 [Article]
 startDate = ""
@@ -17,4 +17,3 @@ gallery = []
 
 The only evidence of the location's existence comes from a branded token bearing the city's name, PTT Token 134 (B). Notably the token calls it 'Santa Anna'. It is unclear what caused the location to never be built.
 
-<h2> References </h2>

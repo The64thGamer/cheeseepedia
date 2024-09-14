@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "07/06/2024"
+date = "2024-07-06"
 
 [Article]
 startDate = ""
@@ -163,4 +163,3 @@ gallery = [":Rickyrat75time.png",":PROTO LAYOUT.jpg"]
 
 * On the 3rd, the Pizza Time Theatre trademark would be registered in the US.<ref name=':5' />
 
-<h2> References </h2>

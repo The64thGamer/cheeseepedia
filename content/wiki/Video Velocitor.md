@@ -2,7 +2,7 @@
 title = "Video Velocitor"
 draft = false
 tags = []
-date = "04/09/2024"
+date = "2024-04-09"
 
 [Article]
 startDate = ""

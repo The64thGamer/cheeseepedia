@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "07/05/2024"
+date = "2024-07-05"
 
 [Article]
 startDate = ""
@@ -65,4 +65,3 @@ The showtape's segments and order isn't entirely clear, though a copyright recor
 * Endlessly Awake, Part 1
 Other segments from the D2 tape may have appeared on the showtape.
 
-<h2> References </h2>

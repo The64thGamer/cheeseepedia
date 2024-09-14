@@ -2,7 +2,7 @@
 title = "Winchester Grand-Opening Advertisement (1977)"
 draft = false
 tags = []
-date = "08/14/2023"
+date = "2023-08-14"
 
 [Article]
 startDate = ""
@@ -57,6 +57,6 @@ The previously mentioned 4 categories read:
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_ad_1977winchester.pdf

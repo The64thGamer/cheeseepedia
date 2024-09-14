@@ -2,7 +2,7 @@
 title = "Large Munch Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "04/23/2023"
+date = "2023-04-23"
 
 [Article]
 startDate = ""
@@ -37,5 +37,5 @@ Its tag reads as <b>'Chuck E. Cheese's</b> © 1996 ShowBiz Pizza Time, Inc. Made
 There aren't many differences between this plush and it's [smaller size]({{< ref "wiki/Small Munch Plush (1996).md" >}}) except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size.
 
 
-<h2>References</h2>
+
 <references />

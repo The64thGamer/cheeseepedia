@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's - I'm Da Greatest / Biggest Fan (1985)"
 draft = false
 tags = ["Merchandise"]
-date = "11/15/2023"
+date = "2023-11-15"
 
 [Article]
 startDate = ""
@@ -131,4 +131,3 @@ You're gonna find out I'm your biggest fan
 
 
 
-<h2> References </h2>

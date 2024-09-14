@@ -2,11 +2,11 @@
 title = "Hagerstown, MD (17618 Valley Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/24/2024"
+date = "2024-08-24"
 
 [Article]
-startDate = "7/28/2005"
-endDate = "4/7/2024"
+startDate = "2005-7-28"
+endDate = "2024-4-7"
 pageThumbnailFile = "E92DDAD4-1F97-48B6-A24F-63B1561559F5.jpg|Exterior before closure."
 contributors = ["CECswag2009","Cheeseclassic"]
 gallery = []

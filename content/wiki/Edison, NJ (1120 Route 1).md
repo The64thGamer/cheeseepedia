@@ -2,10 +2,10 @@
 title = "Edison, NJ (1120 Route 1)"
 draft = false
 tags = ["Store List"]
-date = "07/26/2024"
+date = "2024-07-26"
 
 [Article]
-startDate = "9/20/1993"
+startDate = "1993-9-20"
 endDate = ""
 contributors = ["CECBowlingGreen","Rexburg090","ChuckECool","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Tobsters ;-;","RedaCEC","ThatBoiCydalan","Loud.time","The 64th Gamer","2600:4040:5A0E:D900:C1B8:2086:A47:7A39","67.80.166.152","Cecnj98","47.17.236.200","CorrectorMan","CEC New Jersey","Tux Chuck","Captain Cheese IV","StudioA"]
 gallery = ["EdisonNJ 2.0 Exterior.jpg|thumb|Edison's 2.0 exterior"]
@@ -203,5 +203,5 @@ Drum set sent to Staten Island, NY (1775-P South Ave) (Staten Island) in 2022; d
 |June 28, 2023
 |}
 
-<h2> References </h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "2022 CEC Charity Golf Tournament (Event)"
 draft = false
 tags = ["Events"]
-date = "12/28/2022"
+date = "2022-12-28"
 
 [Article]
 startDate = ""
@@ -17,4 +17,3 @@ The <b><i>2022 CEC Charity Golf Tournament</b></i> was a multi-round event held 
 
 A large amount of sponsors contributed to the fund, that being <i>Olo, Shi, SPM Communications, Tyson, Weil, Wayne Farms, Ken's, MetTel, PHD, Inc., Republic, Russell Research, Saputo Dairy USA, Semnox, Sirius, Sendero Cloud, American Solutions for Business, Ecolab, SSC Signs & Lighting, FedEx, J.P.Morgan, Material+, Leverture, 8x8, Graphic Packaging International, Parkway, NCR, Pepsico, Arigas, Hormel Foods, LambWeston, ColorDynamics, Akin Gump, C.H. Guenther & Sun, Current Global,</i> and <i>Georgia Pacific.</i><ref>https://www.chuckegolf.org/</ref>
 
-<h2> References </h2>

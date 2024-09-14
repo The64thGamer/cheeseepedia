@@ -2,7 +2,7 @@
 title = "SongCode"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = "05/17/2023"
+date = "2023-05-17"
 
 [Article]
 startDate = ""

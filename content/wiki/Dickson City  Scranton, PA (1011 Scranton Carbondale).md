@@ -2,11 +2,11 @@
 title = "Dickson City / Scranton, PA (1011 Scranton Carbondale)"
 draft = false
 tags = ["Store List"]
-date = "01/24/2023"
+date = "2023-01-24"
 
 [Article]
-startDate = "8/-/1983"
-endDate = "-/-/1984"
+startDate = "1983-8-00"
+endDate = "1984-00-00"
 contributors = ["RockAfire Alex","Rexburg090","ChuckEPediaIsTheBest!"]
 gallery = []
 +++

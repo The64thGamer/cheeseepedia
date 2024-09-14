@@ -2,11 +2,11 @@
 title = "Lancaster, PA (2020 Fruitville Pike)"
 draft = false
 tags = ["Store List"]
-date = "05/16/2024"
+date = "2024-05-16"
 
 [Article]
-startDate = "5/23/1994"
-endDate = "6/18/2020"
+startDate = "1994-5-23"
+endDate = "2020-6-18"
 pageThumbnailFile = "Lancaster PA’s Exterior.jpg|Lancaster’s Exterior in October 2015 (PC: Google Maps)"
 contributors = ["Cheeseclassic","CoolerDude"]
 gallery = []

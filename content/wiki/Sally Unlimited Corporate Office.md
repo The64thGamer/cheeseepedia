@@ -2,7 +2,7 @@
 title = "Sally Unlimited Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "11/27/2023"
+date = "2023-11-27"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ It is unknown if the offices were used for manufacturing, or if this was leased 
 
 
 
-<h2> References </h2>

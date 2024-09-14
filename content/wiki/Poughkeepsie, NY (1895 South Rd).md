@@ -2,7 +2,7 @@
 title = "Poughkeepsie, NY (1895 South Rd)"
 draft = false
 tags = ["Store List"]
-date = "06/27/2024"
+date = "2024-06-27"
 
 [Article]
 startDate = ""

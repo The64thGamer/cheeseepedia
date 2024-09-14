@@ -2,11 +2,11 @@
 title = "Stockton, CA (4555 N Pershing Ave)"
 draft = false
 tags = ["Store List"]
-date = "02/20/2024"
+date = "2024-02-20"
 
 [Article]
-startDate = "10/-/1979"
-endDate = "12/-/1998"
+startDate = "1979-10-00"
+endDate = "1998-12-00"
 pageThumbnailFile = "Stockton ca pershing exterior before closure.png|The store's exterior shown on a WSB-TV news report on July 5th, 1993."
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Snowbobsuperboi","Stripes","AnthonyRWikis7283"]
 gallery = []

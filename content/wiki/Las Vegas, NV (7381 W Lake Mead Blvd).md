@@ -2,10 +2,10 @@
 title = "Las Vegas, NV (7381 W Lake Mead Blvd)"
 draft = false
 tags = ["Store List"]
-date = "09/26/2023"
+date = "2023-09-26"
 
 [Article]
-startDate = "12/31/1998"
+startDate = "1998-12-31"
 endDate = ""
 contributors = ["CorrectorMan","CEC Tinley"]
 gallery = ["Lake Mead.jpg|thumb|Lake Mead's exterior after they finished 2.0. (PC: bippermedia.com)"]

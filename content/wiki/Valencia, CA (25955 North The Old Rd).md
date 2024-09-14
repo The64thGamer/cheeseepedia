@@ -2,10 +2,10 @@
 title = "Valencia, CA (25955 North The Old Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/05/2024"
+date = "2024-04-05"
 
 [Article]
-startDate = "3/4/1998"
+startDate = "1998-3-4"
 endDate = ""
 contributors = ["Chez","Saan1ty"]
 gallery = ["Stevensonranchremodel.jpg|thumb|Current store exterior"]

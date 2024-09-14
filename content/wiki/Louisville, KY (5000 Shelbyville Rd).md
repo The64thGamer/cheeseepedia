@@ -2,11 +2,11 @@
 title = "Louisville, KY (5000 Shelbyville Rd)"
 draft = false
 tags = ["Store List"]
-date = "06/05/2024"
+date = "2024-06-05"
 
 [Article]
-startDate = "-/-/1984"
-endDate = "12/1/1991"
+startDate = "1984-00-00"
+endDate = "1991-12-1"
 contributors = ["Midwestretail","CEC Tinley","Rexburg090","CEC Knoxville"]
 gallery = ["louisvillematthews1980s.png|thumb|Louisville's exterior in the 1980s, in the background of a promotional image."]
 +++

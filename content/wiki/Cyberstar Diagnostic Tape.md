@@ -2,7 +2,7 @@
 title = "Cyberstar Diagnostic Tape"
 draft = false
 tags = ["Showtapes"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
 startDate = ""
@@ -31,4 +31,3 @@ One rip of the tape is dated 1986, despite the Cyberstar name not being coined u
 <h2>Showtape Scans / Images</h2>
 
 
-<h2> References </h2>

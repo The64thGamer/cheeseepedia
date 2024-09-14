@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Sunnyvale, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
@@ -18,6 +18,6 @@ The offices were originally built in 1979, with the property measuring 31,628 sq
 
 
 
-<h2>References</h2>
+
 
 <references />

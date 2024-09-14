@@ -2,7 +2,7 @@
 title = "Creative Engineering R&D Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "03/06/2024"
+date = "2024-03-06"
 
 [Article]
 startDate = ""
@@ -48,4 +48,3 @@ As of now the company is still in the moving process of the building, with nothi
 
 
 
-<h2> References </h2>

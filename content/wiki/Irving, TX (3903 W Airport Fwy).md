@@ -2,10 +2,10 @@
 title = "Irving, TX (3903 W Airport Fwy)"
 draft = false
 tags = ["Store List"]
-date = "07/28/2024"
+date = "2024-07-28"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 pageThumbnailFile = "desc=Irving featured in Blueprint Magazine (2022)|image=Irving 2022.jpg"
 contributors = ["BurgersNuggs445","ThatBoiCydalan","Rexburg090","RedaCEC","CorrectorMan","CEC Tinley","199.197.71.7","Jerry CEC","Saan1ty","AstridMascotFan2005"]

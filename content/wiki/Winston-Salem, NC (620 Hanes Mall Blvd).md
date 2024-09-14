@@ -2,7 +2,7 @@
 title = "Winston-Salem, NC (620 Hanes Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = "02/13/2024"
+date = "2024-02-13"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 7"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "06/03/2022"
+date = "2022-06-03"
 
 [Article]
 startDate = ""
@@ -18,5 +18,5 @@ These programs were still produced by <i>Sight & Sound Entertainment Corporation
 TODO: Releases
 <h2>Song List</h2>
 TODO: Song List
-<h2>References</h2>
+
 <references />

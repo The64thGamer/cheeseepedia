@@ -2,10 +2,10 @@
 title = "Mt Juliet, TN (60 Belinda Pkwy)"
 draft = false
 tags = []
-date = "08/05/2024"
+date = "2024-08-05"
 
 [Article]
-startDate = "12/15/2014"
+startDate = "2014-12-15"
 endDate = ""
 pageThumbnailFile = "desc=Mt. Juliet's exterior. (PC: Google Maps)|image=Mt. Juliet, TN.jpg"
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","ThatBoiCydalan","SuperCreamPiper2008","AstridMascotFan2005"]

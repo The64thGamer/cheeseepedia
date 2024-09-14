@@ -2,7 +2,7 @@
 title = "Huntington Beach, CA (15031 Goldenwest St)"
 draft = false
 tags = ["Store List"]
-date = "04/21/2024"
+date = "2024-04-21"
 
 [Article]
 startDate = ""

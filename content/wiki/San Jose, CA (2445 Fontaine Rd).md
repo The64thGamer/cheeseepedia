@@ -2,10 +2,10 @@
 title = "San Jose, CA (2445 Fontaine Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/07/2024"
+date = "2024-09-07"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 pageThumbnailFile = "Tully20.jpg|Exterior as of August 13, 2021"
 contributors = ["C0dewastaken","The 64th Gamer","CEC Illinois","ThatBoiCydalan","Studio 18","CECBowlingGreen","173.216.33.6","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","BurgersNuggs445","Midwestretail","CEC Tinley","Cecnj98","JamesLemony","Jonn","Holden","CoolerDude","Caydenpedia","CEC1988"]
@@ -309,6 +309,6 @@ To keep the location afloat, the owner had to sell items held inside the former 
 |}
 <h2>Trivia</h2>
 * Before Franchised CECs were renumbered to four digit numbers in 2010, San Jose (Fontaine) was <b><i>Store #206</b></i> according to the old chuckecheese.com website from 2009. It was renumbered to <b><i>Store #3001</b></i> when Corporate renumbered Franchised stores with four digit numbers. The store number will be reused for the [Valley Stream, NY]({{< ref "wiki/Valley Stream, NY (750 Sunrise Highway Suite 105).md" >}}) location.
-<h2>References</h2>
+
 
 <references />

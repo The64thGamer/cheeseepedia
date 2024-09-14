@@ -2,7 +2,7 @@
 title = "Tone Decoder Control System"
 draft = false
 tags = []
-date = "02/06/2023"
+date = "2023-02-06"
 
 [Article]
 startDate = ""
@@ -29,4 +29,3 @@ As the precision of tone detection using analog electronics is relatively limite
 <h2> Contemporary usage </h2>
 Advancements in show control technology rendered tone-based systems obsolete by the 1980s. Notably, however, the Animatronics Experimenter's Kit includes two tone decoder modules.<ref><nowiki>https:<i>www.youtube.com/watch?v=cuQr02265iU</nowiki></ref><ref>https:</i>www.youtube.com/watch?v=UlxcklP5F6E</ref> These modules are believed to roughly follow the original CEI design with minor differences.
 
-<h2> References </h2>

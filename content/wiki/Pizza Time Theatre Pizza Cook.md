@@ -2,10 +2,10 @@
 title = "Pizza Time Theatre 'Pizza Cook'"
 draft = false
 tags = []
-date = "04/21/2023"
+date = "2023-04-21"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 pageThumbnailFile = "Othertullytapeimages.png|The Pizza Cook Tape Alongside PTT Cashiering"
 contributors = ["The 64th Gamer"]

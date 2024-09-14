@@ -2,7 +2,7 @@
 title = "Homely For Christmas Cassette (1987)"
 draft = false
 tags = ["Merchandise"]
-date = "05/15/2023"
+date = "2023-05-15"
 
 [Article]
 startDate = ""

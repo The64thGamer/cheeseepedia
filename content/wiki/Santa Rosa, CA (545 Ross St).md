@@ -2,7 +2,7 @@
 title = "Santa Rosa, CA (545 Ross St)"
 draft = false
 tags = ["Store List"]
-date = "08/06/2023"
+date = "2023-08-06"
 
 [Article]
 startDate = ""
@@ -21,6 +21,6 @@ The location had a unique <i>Sandwich Fixins Bar</i> at its location.<ref>https:
 
 
 
-<h2>References</h2>
+
 
 <references />

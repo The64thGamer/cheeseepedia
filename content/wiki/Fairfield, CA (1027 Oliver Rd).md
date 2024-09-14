@@ -2,11 +2,11 @@
 title = "Fairfield, CA (1027 Oliver Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/23/2024"
+date = "2024-07-23"
 
 [Article]
-startDate = "7/12/2022"
-endDate = "1/5/2021"
+startDate = "2022-7-12"
+endDate = "2021-1-5"
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","Jerry CEC","Retrocam","Dolphinpilot"]
 gallery = ["Exterior2022NovemberGoogleMaps.png|thumb|Street View of the store's Exterior in November 2022 (PC: Google Maps)"]
 +++

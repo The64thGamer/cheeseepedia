@@ -2,7 +2,7 @@
 title = "CEC September 1991 Show"
 draft = false
 tags = ["APS Showtapes"]
-date = "12/25/2023"
+date = "2023-12-25"
 
 [Article]
 startDate = ""
@@ -135,4 +135,3 @@ The [signals]({{< ref "wiki/Data.md" >}}) for the show would be discovered in 20
 
 
 
-<h2>References</h2>

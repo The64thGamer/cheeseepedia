@@ -2,7 +2,7 @@
 title = "Standard: Commercial Page"
 draft = false
 tags = []
-date = "07/06/2023"
+date = "2023-07-06"
 
 [Article]
 startDate = ""
@@ -41,6 +41,6 @@ This section is a basic list of individuals that created the commercial.
 *John Doe - Chuck E. Cheese Voice Actor
 *Jane Doe -  Animator
 
-<h2>References</h2>
+
 References automatically go here
 <references />

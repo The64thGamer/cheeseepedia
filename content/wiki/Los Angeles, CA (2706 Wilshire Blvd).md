@@ -2,11 +2,11 @@
 title = "Los Angeles, CA (2706 Wilshire Blvd)"
 draft = false
 tags = ["Store List"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
-startDate = "4/1/2014"
-endDate = "9/13/2020"
+startDate = "2014-4-1"
+endDate = "2020-9-13"
 contributors = ["StudioC","99.52.73.115","168.69.254.247","CECBowlingGreen","BurgersNuggs445","Rexburg090"]
 gallery = ["2706-Wilshire-Blvd-Los-Angeles-CA-Primary-Photo-1-Large.jpg|thumb|Wilshire Exterior"]
 +++

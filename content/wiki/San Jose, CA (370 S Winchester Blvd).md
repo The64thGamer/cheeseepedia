@@ -2,11 +2,11 @@
 title = "San Jose, CA (370 S Winchester Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/16/2024"
+date = "2024-08-16"
 
 [Article]
-startDate = "5/17/1977"
-endDate = "-/-/1985"
+startDate = "1977-5-17"
+endDate = "1985-00-00"
 pageThumbnailFile = "PTT WINCHESTER.png|Winchester's exterior, taken shortly after opening."
 contributors = ["Pench0782","CECBowlingGreen","EagleScout610","The 64th Gamer","JJperks","Puppetpals","Rexburg090","KPIZZA03","RessiduePezzzado","PTT1977fan","BloxxyColas","Ceclife13","BurgersNuggs445","Midwestretail","Concordio","WalterB","SinStar","PTT at you're service","FileFickle","ThatBoiCydalan","CECMentor","Jaxonia"]
 gallery = ["PROTO LAYOUT.jpg|thumb|A concept drawing of a potential first store.|246x246px"]
@@ -170,4 +170,3 @@ Around February 1985, Winchester would close permanently for unknown reasons, ho
 |Unknown 
 |Sold off in the store's auction. Current wareabouts unknown.
 |}
-<h2>References</h2>

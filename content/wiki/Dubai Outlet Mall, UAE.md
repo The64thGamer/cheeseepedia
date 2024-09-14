@@ -2,11 +2,11 @@
 title = "Dubai Outlet Mall, U.A.E."
 draft = false
 tags = []
-date = "07/16/2024"
+date = "2024-07-16"
 
 [Article]
-startDate = "5/29/2008"
-endDate = "7/14/2024"
+startDate = "2008-5-29"
+endDate = "2024-7-14"
 pageThumbnailFile = " Chuckecheesedubaiuaeexterior.jpg|Exterior before closure"
 contributors = ["Cheeseclassic","AstridMascotFan2005"]
 gallery = []

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/09/2024"
+date = "2024-08-09"
 
 [Article]
 startDate = ""
@@ -102,4 +102,3 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 * On the 8th, CEC would be announced as a booth at [ChainFest New York 2024]({{< ref "wiki/2024 ChainFest New York CEC Booth.md" >}}).<ref>https://ny.chainfest.com/</ref>
 * On the 9th, CEC would announce that its rewards program would end on August 31st, 2024, and that members were able to still redeem their points until December 31, 2024. A new rewards program would be said to plan to launch in 2025, which would carry over any visits made after the announcement.<ref></ref>
 
-<h2> References </h2>

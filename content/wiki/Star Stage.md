@@ -2,7 +2,7 @@
 title = "Star Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "05/15/2023"
+date = "2023-05-15"
 
 [Article]
 startDate = ""
@@ -34,4 +34,3 @@ In 2009 [https://www.chutegerdeman.com/ Chute Gerdeman Retail] proposed a brand-
 <h2> Photos </h2>
 
 
-<h2> References </h2>

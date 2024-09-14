@@ -2,7 +2,7 @@
 title = "Cyberamic Curtain Control"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "03/01/2023"
+date = "2023-03-01"
 
 [Article]
 startDate = ""

@@ -2,10 +2,10 @@
 title = "Mentor, OH (8000 Plaza Blvd)"
 draft = false
 tags = ["Store List"]
-date = "06/13/2024"
+date = "2024-06-13"
 
 [Article]
-startDate = "7/20/1998"
+startDate = "1998-7-20"
 endDate = ""
 pageThumbnailFile = "Mentor 2022.jpg|Mentor's Exterior, 2022"
 contributors = ["EagleScout610","Documentor","Rexburg090","ChuckECool","CEC Tinley","ThatBoiCydalan","Estsproduction","CECMentor","AstridMascotFan2005"]

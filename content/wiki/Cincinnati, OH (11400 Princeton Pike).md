@@ -2,7 +2,7 @@
 title = "Cincinnati, OH (11400 Princeton Pike)"
 draft = false
 tags = ["Store List"]
-date = "06/24/2024"
+date = "2024-06-24"
 
 [Article]
 startDate = ""

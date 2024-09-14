@@ -2,10 +2,10 @@
 title = "January 1993 Show"
 draft = false
 tags = ["Live Shows"]
-date = "08/07/2023"
+date = "2023-08-07"
 
 [Article]
-startDate = "-/-/1993"
+startDate = "1993-00-00"
 endDate = ""
 contributors = ["DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

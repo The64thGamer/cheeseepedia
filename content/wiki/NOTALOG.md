@@ -2,7 +2,7 @@
 title = "NOTALOG"
 draft = false
 tags = ["Other Software & Hardware"]
-date = "08/02/2023"
+date = "2023-08-02"
 
 [Article]
 startDate = ""
@@ -22,4 +22,3 @@ Ted Dabney was a friend and former partner to Nolan Bushnell, helping develop th
 
 Explaining his griefs to Bushnell, he replied saying the cleanliness and appearance could be fixed, but that the noise needed to stay because of the games and kids having fun. Interested in his attention to not knowing when his order was ready, Nolan asked Ted to 'build me a solution'. Ted would begin to build the NOTALOG system in his garage, later selling it to Pizza Time Theatre for an unknown amount. This system would later evolve into the [Color Call-out Monitor System]({{< ref "wiki/Color Call-out Monitor System.md" >}}) in late 1981.
 
-<h2> References </h2>

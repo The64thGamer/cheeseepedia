@@ -2,10 +2,10 @@
 title = "1993 Cheese Z Top (CD Award)"
 draft = false
 tags = []
-date = "01/08/2023"
+date = "2023-01-08"
 
 [Article]
-startDate = "-/-/1993"
+startDate = "1993-00-00"
 endDate = ""
 pageThumbnailFile = "Cheezy Top.jpg|Scan of the art piece"
 contributors = ["BurgersNuggs445"]

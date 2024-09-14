@@ -2,7 +2,7 @@
 title = "Showtape Preservation & Archival"
 draft = false
 tags = []
-date = "10/14/2022"
+date = "2022-10-14"
 
 [Article]
 startDate = ""

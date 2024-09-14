@@ -2,11 +2,11 @@
 title = "Flint, MI (3489 Miller Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
-startDate = "12/3/1982"
-endDate = "6/25/2020"
+startDate = "1982-12-3"
+endDate = "2020-6-25"
 contributors = ["ChuckECool","CEC Tinley","Caydenpedia"]
 gallery = []
 +++

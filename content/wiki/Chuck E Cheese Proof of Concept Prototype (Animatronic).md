@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Proof of Concept Prototype (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/16/2024"
+date = "2024-02-16"
 
 [Article]
 startDate = ""
@@ -53,6 +53,6 @@ Despite never seeing the animatronic move, pictures of the internals with all th
 
 
 
-<h2>References</h2>
+
 
 <references />

@@ -2,11 +2,11 @@
 title = "Diamond Bar, CA (1900 S Brea Canyon Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/02/2024"
+date = "2024-09-02"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "4/-/2020"
+startDate = "1983-00-00"
+endDate = "2020-4-00"
 pageThumbnailFile = "DiamondBarExterior2018FebruaryGoogleMaps.png|Exterior Before Closure (February 2018)"
 contributors = ["The 64th Gamer","Rexburg090","Pench0782","RedaCEC","168.69.254.249","CEC Tinley","2605:AD80:31:19FD:8073:1F5D:F0B1:2BE2","Chuckstar69","CoolerDude","CEC1988"]
 gallery = []
@@ -92,4 +92,3 @@ Diamond Bar opened sometime in 1983 with a Balcony Stage<ref>https://edocs.diamo
 
 
 
-<h2> References </h2>

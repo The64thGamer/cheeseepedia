@@ -2,10 +2,10 @@
 title = "Newington, CT (3075 Berlin Tpke)"
 draft = false
 tags = ["Store List"]
-date = "04/23/2024"
+date = "2024-04-23"
 
 [Article]
-startDate = "10/29/1991"
+startDate = "1991-10-29"
 endDate = ""
 pageThumbnailFile = "15218887162 85dbc9e948 o.jpg|2005 Remodel Exterior before 2.0 (PC: Mike Mozart on Flickr)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:217D:B32:A4E0:89D4","CECBowlingGreen","2600:4040:59FF:B100:19F1:35A6:8ACE:60DD","69.67.86.48","Cecnj98","EVDofficial","Cy's Junk at School","Ryys123","Cheeseclassic","CyCGM"]

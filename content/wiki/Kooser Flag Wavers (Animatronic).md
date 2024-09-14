@@ -2,7 +2,7 @@
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/29/2024"
+date = "2024-02-29"
 
 [Article]
 startDate = ""
@@ -37,6 +37,6 @@ The Kooser Flag Wavers have several Flag Designs listed below:
 
 
 
-<h2> References </h2>
+
 
 *

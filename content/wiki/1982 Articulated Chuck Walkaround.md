@@ -2,7 +2,7 @@
 title = "1982 Articulated Chuck Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = "05/16/2023"
+date = "2023-05-16"
 
 [Article]
 startDate = ""
@@ -47,5 +47,5 @@ Known commercials featured in:
 *Wanna Be Me (Commercial)
 *Alien Family (Commercial)
 
-<h2> References </h2>
+
 <references />

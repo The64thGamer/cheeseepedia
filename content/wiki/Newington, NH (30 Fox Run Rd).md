@@ -2,11 +2,11 @@
 title = "Newington, NH (30 Fox Run Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
-startDate = "8/-/1983"
-endDate = "3/31/2018"
+startDate = "1983-8-00"
+endDate = "2018-3-31"
 pageThumbnailFile = "desc=Exterior, 2018.|image=NewingtonNHCECExteriorPreClosure.jpeg"
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","CECCheese","2601:188:CA81:2BE0:D0B6:F932:6925:FFC3","47.17.236.200","CorrectorMan","Cheeseclassic","Tux Chuck","Harchambeault2026"]
 gallery = []

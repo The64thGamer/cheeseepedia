@@ -2,11 +2,11 @@
 title = "Cincinnati, OH (3365 Highland Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/22/2024"
+date = "2024-05-22"
 
 [Article]
-startDate = "11/11/1982"
-endDate = "12/-/1985"
+startDate = "1982-11-11"
+endDate = "1985-12-00"
 pageThumbnailFile = "Centerstagehighland.png|Center Stage of the RAE in July 1984"
 contributors = ["Documentor","The 64th Gamer","Rexburg090","CECMentor"]
 gallery = []
@@ -73,4 +73,3 @@ The Highland, Ave Showbiz Pizza Place opened up November 11, 1982 in Cincinnati,
 |N/A
 | Auctioned off, now unknown.
 |}
-<h2> References </h2>

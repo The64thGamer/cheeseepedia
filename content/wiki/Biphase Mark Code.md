@@ -2,7 +2,7 @@
 title = "Biphase Mark Code"
 draft = false
 tags = ["Showtape Formats"]
-date = "02/08/2023"
+date = "2023-02-08"
 
 [Article]
 startDate = ""

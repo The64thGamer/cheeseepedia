@@ -2,10 +2,10 @@
 title = "Greensboro, NC (702-A Pembroke Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/22/2024"
+date = "2024-05-22"
 
 [Article]
-startDate = "10/22/1984"
+startDate = "1984-10-22"
 endDate = ""
 contributors = ["Rexburg090","CorrectorMan","2600:4040:5A0E:D900:6500:272E:6953:1FCD","BoyInCharge55","CEC Tinley","Caydenpedia","Thecheesymanfromschool","CECMentor"]
 gallery = ["Exterior2017AprilGoogleMaps.png|thumb|Street View of the store's exterior back in April 2017 before the 2.0 remodel (PC: Google Maps)"]
@@ -123,5 +123,5 @@ Several photos have been posted online showing this location as a Showbiz Pizza 
 
 * Greensboro was one of the few locations to add shoes onto their Chuck E. Cheese Animatronic (One of two to do so in North Carolina, The other to do so was [Gastonia]({{< ref "wiki/Gastonia, NC (416 Cox Rd).md" >}}) which was a Studio C 2000 (Studio C 2000, 16m). [Wilmington]({{< ref "wiki/Wilmington, NC (4389 Oleander Dr).md" >}}) {Another 3-Stage store} was also supposed to do this before they closed in 2020 according to the store's management but it didn't happen due to store closure). [Visalia]({{< ref "wiki/Visalia, CA (4345 W Noble Ave).md" >}}) (3-Stage), Cordova, TN (1636 N Germantown Pkwy) (Cordova) (Studio C 2000, 32m; Removed in October 2021), Whitby ([Studio C Alpha]({{< ref "wiki/Studio C Alpha.md" >}})), & Corporate also put shoes on the Chuck E. Cheese Animatronics as well.
 
-<h2> References </h2>
+
 <references />

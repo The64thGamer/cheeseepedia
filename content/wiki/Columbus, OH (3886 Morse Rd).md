@@ -2,10 +2,10 @@
 title = "Columbus, OH (3886 Morse Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/23/2023"
+date = "2023-09-23"
 
 [Article]
-startDate = "2/14/2023"
+startDate = "2023-2-14"
 endDate = ""
 contributors = ["Cheeseclassic"]
 gallery = ["Columbus (Morse) Exterior.jpg|thumb|Columbus’s Exterior (PC: Jason Marrero on Google Maps)"]

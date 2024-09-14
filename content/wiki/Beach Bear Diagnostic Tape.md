@@ -2,7 +2,7 @@
 title = "Beach Bear Diagnostic Tape"
 draft = false
 tags = ["Showtapes"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ The tape was part of a diagnostic package also containing the Billy Bob Diagnost
 
 
 
-<h2> References </h2>

@@ -2,10 +2,10 @@
 title = "Orlando (East), FL (449 N Alafaya Trail)"
 draft = false
 tags = ["Store List"]
-date = "02/06/2024"
+date = "2024-02-06"
 
 [Article]
-startDate = "6/21/2000"
+startDate = "2000-6-21"
 endDate = ""
 pageThumbnailFile = "East Orlando before 2.0.jpg|East Orlando in September 2022. (PC: Google Maps)"
 contributors = ["CorrectorMan","Chucke.show","The 64th Gamer"]

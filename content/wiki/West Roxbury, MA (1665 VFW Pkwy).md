@@ -2,11 +2,11 @@
 title = "West Roxbury, MA (1665 VFW Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "05/18/2023"
+date = "2023-05-18"
 
 [Article]
-startDate = "10/15/1991"
-endDate = "6/-/2001"
+startDate = "1991-10-15"
+endDate = "2001-6-00"
 pageThumbnailFile = "Westroxbury2011.png|West Roxbury in November 2011. (PC: Google Maps)"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","216.125.34.66","CEC Tinley"]
 gallery = []

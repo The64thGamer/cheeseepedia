@@ -2,10 +2,10 @@
 title = "The Rock-afire Explosion Documentary"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "02/29/2024"
+date = "2024-02-29"
 
 [Article]
-startDate = "9/27/2008"
+startDate = "2008-9-27"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = [":Originaldoccutcitation.png"]
@@ -174,4 +174,3 @@ On February 1st, 2024, the film would see a [limited edition Blu-Ray release]({{
 
 
 
-<h2> References </h2>

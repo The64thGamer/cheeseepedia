@@ -2,7 +2,7 @@
 title = "Dolli Dimples (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/28/2024"
+date = "2024-05-28"
 
 [Article]
 startDate = ""

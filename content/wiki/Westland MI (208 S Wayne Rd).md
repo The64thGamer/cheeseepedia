@@ -2,11 +2,11 @@
 title = "Westland MI (208 S Wayne Rd)"
 draft = false
 tags = []
-date = "09/02/2024"
+date = "2024-09-02"
 
 [Article]
-startDate = "12/18/1980"
-endDate = "-/-/1986"
+startDate = "1980-12-18"
+endDate = "1986-00-00"
 pageThumbnailFile = "Westland 1982.png|The location's exterior in March 1982."
 contributors = ["ItAllStartsHereYT","CoolerDude"]
 gallery = ["Westland1.png|thumb"]
@@ -36,4 +36,3 @@ Westland opened on December, 18 1980. The location was franchised by Micheal Ill
 
 
 
-<h2> References </h2>

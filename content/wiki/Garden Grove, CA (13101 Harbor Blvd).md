@@ -2,10 +2,10 @@
 title = "Garden Grove, CA (13101 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = "09/07/2024"
+date = "2024-09-07"
 
 [Article]
-startDate = "11/-/1981"
+startDate = "1981-11-00"
 endDate = ""
 pageThumbnailFile = "desc=A shot of the store’s entrance before the 2.0 remodel. (PC: LKD Animatronics)|image=GardenGroveCACECExterior.jpeg"
 contributors = ["ChuckECool","BurgersNuggs445","CEC Tinley","ThatBoiCydalan","174.131.44.53","Pizzaman49","66.250.190.24","Chez","Stripes","CoolerDude","CEC1988"]
@@ -83,5 +83,5 @@ During their 2.0 remodel in August 2022, the 2-Stage was removed with everything
 
 <h2>Videos</h2>
 
-<h2>References</h2>
+
 <references />

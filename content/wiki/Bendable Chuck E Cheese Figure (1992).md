@@ -2,10 +2,10 @@
 title = "Bendable Chuck E. Cheese Figure (1992)"
 draft = false
 tags = ["Merchandise"]
-date = "08/15/2023"
+date = "2023-08-15"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["Tobsters ;-;"]
 gallery = []

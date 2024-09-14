@@ -2,11 +2,11 @@
 title = "Chico, CA (966 East Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/27/2024"
+date = "2024-07-27"
 
 [Article]
-startDate = "7/-/1982"
-endDate = "1/11/2011"
+startDate = "1982-7-00"
+endDate = "2011-1-11"
 pageThumbnailFile = "Unkn421ow543n.png|Chico, CA exterior, September 2010, still with the SPT 1992 Remodel exterior."
 contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu","StudioC","MultiMonorail","CyCGM","The 64th Gamer","201.75.170.163","RedaCEC","2601:243:815:C6A:2442:4566:5334:C792","Rexburg090","2600:1004:B182:AFA6:E06A:952D:A175:4BF0","Midwestretail","CEC Tinley","CorrectorMan","Saan1ty","PizzaEntertainmentFanX","Cy's Junk at School","Cheeseclassic","AstridMascotFan2005"]
 gallery = []
@@ -205,5 +205,5 @@ After the franchisee left the location for good, the store became a seasonal Hal
 |2011
 |Unknown
 |}
-<h2>References</h2>
+
 <references />

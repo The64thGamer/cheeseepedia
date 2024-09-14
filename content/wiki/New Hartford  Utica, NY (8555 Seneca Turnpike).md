@@ -2,11 +2,11 @@
 title = "New Hartford / Utica, NY (8555 Seneca Turnpike)"
 draft = false
 tags = ["Store List"]
-date = "02/17/2024"
+date = "2024-02-17"
 
 [Article]
-startDate = "12/16/1982"
-endDate = "7/29/1985"
+startDate = "1982-12-16"
+endDate = "1985-7-29"
 pageThumbnailFile = "PTT New Hartford Utica.png|Snippet of an outdoor shot near the location in 1983, from ''The Pizza Times'' <ref>http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-3.pdf</ref>."
 contributors = ["Stripes"]
 gallery = []
@@ -57,4 +57,3 @@ Operations winded down in 1985 due to poor sales amidst the company's filing for
 |Destroyed
 |}
 
-<h2> References </h2>

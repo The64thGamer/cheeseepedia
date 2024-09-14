@@ -2,7 +2,7 @@
 title = "'CEC World News' (Must C TV Award)"
 draft = false
 tags = []
-date = "07/18/2023"
+date = "2023-07-18"
 
 [Article]
 startDate = ""

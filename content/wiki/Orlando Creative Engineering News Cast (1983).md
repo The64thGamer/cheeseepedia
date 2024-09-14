@@ -2,7 +2,7 @@
 title = "Orlando Creative Engineering News Cast (1983)"
 draft = false
 tags = ["News Footage"]
-date = "02/03/2023"
+date = "2023-02-03"
 
 [Article]
 startDate = ""
@@ -107,5 +107,5 @@ What are your plans for the future? Do you have any dreams left?
 
 
 <b>Newscaster:</b> That road may be long, but Aaron Fechter seems to have a pretty good road map to follow.</blockquote>
-<h2>References</h2>
+
 <references />

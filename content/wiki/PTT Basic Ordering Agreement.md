@@ -2,7 +2,7 @@
 title = "PTT Basic Ordering Agreement"
 draft = false
 tags = ["Documents"]
-date = "05/20/2024"
+date = "2024-05-20"
 
 [Article]
 startDate = ""
@@ -20,4 +20,3 @@ Notably, all the pages seem to be put together by date. Page 3, while not denoti
 
 
 
-<h2> References </h2>

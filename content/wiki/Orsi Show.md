@@ -2,7 +2,7 @@
 title = "Orsi Show"
 draft = false
 tags = ["Showtapes"]
-date = "07/21/2022"
+date = "2022-07-21"
 
 [Article]
 startDate = ""
@@ -33,5 +33,5 @@ Mama Italia (Mama Granbags) silences her children as they cause commotion betwee
 ##Romagna Mia (Billy Bob/Tognàz)
 ##[https://youtu.be/ReI4RmaQnDA?t=59 Va pensiero, sull'ali dorate (Everyone)]
 
-<h2> References </h2>
+
 *

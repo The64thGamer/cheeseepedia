@@ -2,7 +2,7 @@
 title = "Standard: Animatronic Page"
 draft = false
 tags = ["Standards Pages"]
-date = "08/27/2024"
+date = "2024-08-27"
 
 [Article]
 startDate = ""
@@ -126,5 +126,5 @@ A collection of videos showcasing the animatronic. DO NOT attempt to put every s
 |
 |}
 
-<h2>References</h2>
+
 <references />

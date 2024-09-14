@@ -2,7 +2,7 @@
 title = "Winchester Madam Oink (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
 startDate = ""
@@ -39,5 +39,5 @@ Madam Oink had short white hair, hazel eyes, a green dress, a white necklace, a 
 
 
 
-<h2>References</h2>
+
 https://www.showbizpizza.com/ptp/characters/madameoink_winchester.jpg

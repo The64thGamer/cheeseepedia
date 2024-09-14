@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Master"
 draft = false
 tags = ["User"]
-date = "09/11/2022"
+date = "2022-09-11"
 
 [Article]
 startDate = ""

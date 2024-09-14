@@ -2,7 +2,7 @@
 title = "About Cheese-E-Pedia"
 draft = false
 tags = []
-date = "05/27/2024"
+date = "2024-05-27"
 
 [Article]
 startDate = ""

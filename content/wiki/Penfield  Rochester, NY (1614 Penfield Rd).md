@@ -2,11 +2,11 @@
 title = "Penfield / Rochester, NY (1614 Penfield Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/01/2024"
+date = "2024-09-01"
 
 [Article]
-startDate = "3/17/1982"
-endDate = "9/16/1996"
+startDate = "1982-3-17"
+endDate = "1996-9-16"
 contributors = ["CorrectorManBackup","2600:4040:5A0E:D900:2D95:799B:8CC7:CDB2","CorrectorMan","CEC Tinley","Cheeseclassic","Estsproduction","Fttoncep","Paskkkk","Showbiz Pizza International"]
 gallery = []
 +++

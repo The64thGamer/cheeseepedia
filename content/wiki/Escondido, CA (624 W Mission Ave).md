@@ -2,11 +2,11 @@
 title = "Escondido, CA (624 W Mission Ave)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "8/1/1983"
-endDate = "3/-/2006"
+startDate = "1983-8-1"
+endDate = "2006-3-00"
 pageThumbnailFile = "EscondidoCAOldLocationExteriorBeforeClosure.jpg|Exterior taken shortly before closure (2005). PC: LoopNet"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
 gallery = []
@@ -101,4 +101,3 @@ Originally when the store opened, they had a Rock-Afire Explosion. In around 199
 |}
 
 
-<h2>References</h2>

@@ -2,10 +2,10 @@
 title = "Springfield, MO (3500-A S Glenstone Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "1/10/1994"
+startDate = "1994-1-10"
 endDate = ""
 contributors = ["CorrectorMan","Landon animatronics","CEC Kokomo","Cheeseclassic","TheChuckECheeseGuy","Documentor","AstridMascotFan2005"]
 gallery = ["Springfield mo.jpg|thumb|Springfield's exterior. (PC: tumblr.com)"]

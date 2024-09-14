@@ -2,10 +2,10 @@
 title = "Covina, CA (601 Azusa Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/07/2024"
+date = "2024-07-07"
 
 [Article]
-startDate = "8/-/1980"
+startDate = "1980-8-00"
 endDate = ""
 pageThumbnailFile = "Covina's Exterior in 2024.jpg|Covina's exterior in May 2024. (PC: Google Maps)"
 contributors = ["ChuckECool","CorrectorMan","CECcovinaca","Chez","Cheeseclassic","ThatBoiCydalan","Estsproduction","Stripes","Snowbobsuperboi"]
@@ -112,4 +112,3 @@ In December 2023, Covina received the CEC 2018 2.0 Remodel Program (2.0 Remodel)
 
 
 
-<h2> References </h2>

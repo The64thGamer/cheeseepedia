@@ -2,7 +2,7 @@
 title = "Beatles White Album"
 draft = false
 tags = ["Showtapes"]
-date = "10/11/2023"
+date = "2023-10-11"
 
 [Article]
 startDate = ""
@@ -97,4 +97,3 @@ After this, the store would move onto playing [Christmas 1983]({{< ref "wiki/Chr
 
 
 
-<h2> References </h2>

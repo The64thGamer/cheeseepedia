@@ -2,10 +2,10 @@
 title = "Corpus Christi, TX (5118 S Staples St)"
 draft = false
 tags = ["Store List"]
-date = "06/18/2024"
+date = "2024-06-18"
 
 [Article]
-startDate = "4/-/1983"
+startDate = "1983-4-00"
 endDate = ""
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","Parum33","173.216.33.6","CEC Tinley","SuperCreamPiper2008","Gostapua210"]
 gallery = ["Corpus Christi 2.0 Exterior (2022-12-03).jpg|thumb|A photo of the store's 2.0 Exterior on December 3rd, 2022 (PC: Myron Nielson)"]
@@ -93,5 +93,5 @@ In 2003 the 2-Stage was replaced with the Studio C concept. This store received 
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

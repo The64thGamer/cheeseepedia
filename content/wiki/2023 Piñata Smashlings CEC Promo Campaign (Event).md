@@ -2,7 +2,7 @@
 title = "2023 Piñata Smashlings CEC Promo Campaign (Event)"
 draft = false
 tags = ["Events"]
-date = "02/03/2024"
+date = "2024-02-03"
 
 [Article]
 startDate = ""
@@ -75,5 +75,5 @@ From November 11-12, the Piñata Smashlings CEC Starter Pack (2023) (Piñata Sma
 
 
 
-<h2> References </h2>
+
 <references />

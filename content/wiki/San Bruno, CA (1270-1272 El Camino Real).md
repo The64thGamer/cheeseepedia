@@ -2,10 +2,10 @@
 title = "San Bruno, CA (1270-1272 El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = "04/05/2024"
+date = "2024-04-05"
 
 [Article]
-startDate = "5/30/1994"
+startDate = "1994-5-30"
 endDate = ""
 pageThumbnailFile = "San Bruno 2.0.jpg|San Bruno’s Exterior (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic","ThatBoiCydalan"]

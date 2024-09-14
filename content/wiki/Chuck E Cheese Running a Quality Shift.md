@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese 'Running a Quality Shift'"
 draft = false
 tags = []
-date = "03/27/2023"
+date = "2023-03-27"
 
 [Article]
 startDate = ""

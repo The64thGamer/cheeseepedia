@@ -2,7 +2,7 @@
 title = "Rock & Pizza Roll (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "07/29/2023"
+date = "2023-07-29"
 
 [Article]
 startDate = ""
@@ -58,4 +58,3 @@ The recipe with pictures can be seen on the <i>show me the standard</i> sheet fo
 
 
 
-<h2> References </h2>

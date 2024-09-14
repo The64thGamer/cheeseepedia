@@ -2,10 +2,10 @@
 title = "Atlanta, GA (2990 Cumberland Blvd)"
 draft = false
 tags = ["Store List"]
-date = "10/01/2023"
+date = "2023-10-01"
 
 [Article]
-startDate = "8/26/1982"
+startDate = "1982-8-26"
 endDate = ""
 contributors = ["ChuckfeldStan","Rexburg090","ChuckECool","Ceclife13","2600:387:C:6E1B:0:0:0:2","2600:4040:5A0E:D900:64A7:FBC4:2848:821","MFHALSTON"]
 gallery = ["Atlanta.png|thumb|Photo of Atlanta's exterior at night before the 2.0 Remodel (12/30/2022)"]
@@ -146,5 +146,5 @@ https://youtu.be/l7-5DbTjdzs Saint Patrick Outfit Made By RyeRye29
 
 https://youtu.be/u0ldXh8E9X8 Atlanta, GA 2.0 Documentary
 
-<h2>References</h2>
+
 <references />

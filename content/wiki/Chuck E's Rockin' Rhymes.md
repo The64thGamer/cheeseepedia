@@ -2,10 +2,10 @@
 title = "Chuck E's Rockin' Rhymes"
 draft = false
 tags = ["Live Shows"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
-startDate = "4/-/2001"
+startDate = "2001-4-00"
 endDate = ""
 contributors = ["The 64th Gamer","John95","Anastasia.laguardia","Documentor","Ceclife13","CECMadison"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
@@ -89,4 +89,3 @@ During this time Lives would be on separate VHS tapes for MMBB based stores.
 <h2>Showtape Scans / Images</h2>
 
 
-<h2> References </h2>

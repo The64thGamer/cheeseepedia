@@ -2,7 +2,7 @@
 title = "Willie Rabbit (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/26/2024"
+date = "2024-02-26"
 
 [Article]
 startDate = ""
@@ -55,4 +55,3 @@ The Bot wore a Red tuxedo with a white patterned undershirt, a black bowtie, a f
 
 
 
-<h2> References </h2>

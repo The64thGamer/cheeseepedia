@@ -2,7 +2,7 @@
 title = "Fantasy Forest Game Preserve - Black (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = "08/19/2023"
+date = "2023-08-19"
 
 [Article]
 startDate = ""
@@ -22,6 +22,6 @@ The only known instance of the sign within Pizza Time Theatre stores was at the 
 <h2> Design </h2>
 This fixture displays 'Fantasy Forest Game Preserve' in yellow text on a black sign, alongside a yellow Chuck E. Cheese head, which was often used in the time period for marketing.  
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf

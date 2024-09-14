@@ -2,10 +2,10 @@
 title = "Major Magics"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 contributors = ["Rafedreams"]
 gallery = []

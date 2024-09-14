@@ -2,7 +2,7 @@
 title = "The King / King Kat (Lounge)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "09/03/2024"
+date = "2024-09-03"
 
 [Article]
 startDate = ""
@@ -102,4 +102,3 @@ TODO
 
 
 
-<h2> References </h2>

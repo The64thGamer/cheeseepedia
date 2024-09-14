@@ -2,7 +2,7 @@
 title = "Jasper T. Jowls Olympics Glass (1980)"
 draft = false
 tags = ["Merchandise"]
-date = "01/04/2023"
+date = "2023-01-04"
 
 [Article]
 startDate = ""

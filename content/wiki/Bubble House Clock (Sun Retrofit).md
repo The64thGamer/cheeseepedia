@@ -2,7 +2,7 @@
 title = "Bubble House Clock (Sun Retrofit)"
 draft = false
 tags = ["TexasStateFair"]
-date = "01/01/2023"
+date = "2023-01-01"
 
 [Article]
 startDate = ""

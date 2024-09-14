@@ -2,10 +2,10 @@
 title = "Topeka, KS (2215 SW Wanamaker Rd)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "12/-/1990"
+startDate = "1990-12-00"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","ToadEatSock","CorrectorMan","Stripes"]
 gallery = []
@@ -73,4 +73,3 @@ As of March 2023, Topeka still has the 2.0 Remodel and Dance Floor + Video Wall.
 |N/A
 |Destroyed.
 |}
-<h2>References</h2>

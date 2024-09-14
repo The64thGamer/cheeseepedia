@@ -2,7 +2,7 @@
 title = "Unknown Sandwich Item (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "02/05/2023"
+date = "2023-02-05"
 
 [Article]
 startDate = ""
@@ -30,4 +30,3 @@ Only seven sandwiches are listed in the final 1977 menu.
 
 It is presumed the eight sandwich was discontinued after these events, as the oldest menu is dated from May of 1977. It is also a possibility that the number was a typo, and that the only sandwiches offered at the event were the ones stated on the menu.
 
-<h2> References </h2>

@@ -2,11 +2,11 @@
 title = "Dallas, TX (13125 Montfort Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/05/2024"
+date = "2024-08-05"
 
 [Article]
-startDate = "1/26/1983"
-endDate = "12/-/2001"
+startDate = "1983-1-26"
+endDate = "2001-12-00"
 pageThumbnailFile = "Dallas, TX (Montfort) exterior (1987-November 1989).png|The exterior after they finished their 1986 remodel."
 contributors = ["Montfortdog","Chouts1","Rexburg090","CECBowlingGreen","Emcaacme","ChuckECool","BurgersNuggs445","RedaCEC","Midwestretail","The 64th Gamer","ShowbizMidwest","GabrielPennington9864","98.122.34.98","120.28.237.125","CorrectorMan","47.223.117.250","2605:AD80:31:19FD:F87A:255:C815:A4AA","SuperCreamPiper2008","CoolerDude","ThatBoiCydalan","AstridMascotFan2005","Caydenpedia","CECMadison","CEC1988","Stripes"]
 gallery = [":AAM clipping Sept 1996.jpg|AAM Clipping"]
@@ -239,5 +239,5 @@ Identified 1998 Machines
 |Destroyed
 |}
 
-<h2>References</h2>
+
 <references />

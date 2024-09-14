@@ -2,7 +2,7 @@
 title = "Awesome Adventure Machine (Show) (AAM)"
 draft = false
 tags = ["Showtapes"]
-date = "03/23/2024"
+date = "2024-03-23"
 
 [Article]
 startDate = ""

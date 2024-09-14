@@ -2,11 +2,11 @@
 title = "Middletown, NY (8 Orange Plaza Lane)"
 draft = false
 tags = ["Store List"]
-date = "04/07/2024"
+date = "2024-04-07"
 
 [Article]
-startDate = "12/17/2002"
-endDate = "10/22/2017"
+startDate = "2002-12-17"
+endDate = "2017-10-22"
 pageThumbnailFile = "CEC EXTERIOR BEFORE CLOSURE.png|Exterior, 2017"
 contributors = ["Cheeseclassic"]
 gallery = []
@@ -65,4 +65,3 @@ Not all Arcade Machines present in this store have been identified.
 <h2> Animatronics </h2>
 TODO
 
-<h2>References</h2>

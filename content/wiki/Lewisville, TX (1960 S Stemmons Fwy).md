@@ -2,11 +2,11 @@
 title = "Lewisville, TX (1960 S Stemmons Fwy)"
 draft = false
 tags = ["Store List"]
-date = "09/22/2023"
+date = "2023-09-22"
 
 [Article]
-startDate = "10/1/2001"
-endDate = "2/17/2008"
+startDate = "2001-10-1"
+endDate = "2008-2-17"
 pageThumbnailFile = "TJ Hartfords Sports Grille Thumb.png|Store Exterior"
 contributors = ["The 64th Gamer","SinStar"]
 gallery = []
@@ -40,6 +40,6 @@ The store would close on February 17, 2008.<ref name=':02'>https:<i>web.archive.
 
 
 
-<h2>References</h2>
+
 
 <references />

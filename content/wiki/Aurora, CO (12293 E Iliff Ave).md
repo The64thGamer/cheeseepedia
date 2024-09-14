@@ -2,11 +2,11 @@
 title = "Aurora, CO (12293 E Iliff Ave)"
 draft = false
 tags = ["Store List"]
-date = "04/17/2024"
+date = "2024-04-17"
 
 [Article]
-startDate = "1/28/1981"
-endDate = "4/20/1994"
+startDate = "1981-1-28"
+endDate = "1994-4-20"
 pageThumbnailFile = "AuroraExterior.jpeg|The exterior before closure."
 contributors = ["CorrectorMan","Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ThatBoiCydalan","72.76.251.24","BurgersNuggs445","SuperCreamPiper2008","CoolerDude","CyCGM","Stripes"]
 gallery = []
@@ -119,7 +119,7 @@ This is the list of the games that were claimed to be featured in the restaurant
 |Unknown
 |}
 
-<h2> References </h2>
+
 <references />
 
 <h2> Videos </h2>

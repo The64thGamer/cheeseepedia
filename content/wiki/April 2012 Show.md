@@ -2,10 +2,10 @@
 title = "April 2012 Show"
 draft = false
 tags = ["Showtapes"]
-date = "06/16/2024"
+date = "2024-06-16"
 
 [Article]
-startDate = "4/-/2012"
+startDate = "2012-4-00"
 endDate = ""
 contributors = ["The 64th Gamer","CEC Washington","Documentor","BurgersNuggs445","Ceclife13","Dame0824"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
@@ -104,5 +104,5 @@ In 'Party Rock' The Break Dancing Teddy Bear is seen in areas not included in th
 *A clip of Steve Waters drinking Pepsi Max is hidden at the end of the Studio C version.
 
 
-<h2> References </h2>
+
 <references />

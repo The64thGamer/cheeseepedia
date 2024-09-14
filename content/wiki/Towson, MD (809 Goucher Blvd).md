@@ -2,7 +2,7 @@
 title = "Towson, MD (809 Goucher Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
 startDate = ""
@@ -81,5 +81,5 @@ The Towson Location opened sometime around August 1993 with the [1-Stage]({{< re
 |1992-1993
 |Unknown 
 |}
-<h2>References</h2>
+
 <references />

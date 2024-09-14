@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
 tags = ["Merchandise"]
-date = "09/24/2023"
+date = "2023-09-24"
 
 [Article]
-startDate = "-/-/1999"
+startDate = "1999-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []

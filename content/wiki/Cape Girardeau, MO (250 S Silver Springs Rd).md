@@ -2,11 +2,11 @@
 title = "Cape Girardeau, MO (250 S Silver Springs Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/17/2023"
+date = "2023-08-17"
 
 [Article]
-startDate = "7/1/1983"
-endDate = "-/-/1998"
+startDate = "1983-7-1"
+endDate = "1998-00-00"
 pageThumbnailFile = "girardeaucec.jpg|The Showbiz Pizza/Chuck E. Cheese's as a Goodwill, taken before a massive exterior renovation. (PC: Foursquare)"
 contributors = ["Midwestretail"]
 gallery = []

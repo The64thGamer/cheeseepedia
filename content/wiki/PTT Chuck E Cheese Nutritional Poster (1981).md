@@ -2,7 +2,7 @@
 title = "PTT Chuck E. Cheese Nutritional Poster (1981)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
 startDate = ""
@@ -66,4 +66,3 @@ The four basic food groups are well represented in our 'Big C Combo' pizza. Two 
 
 Nutritional Evaluation of Pizza Time Theatre Inc's 'Big C Combo' pizza was prepared by a Registered ??????? who is a Member of the American Dietetic Association</blockquote>
 
-<h2> References </h2>

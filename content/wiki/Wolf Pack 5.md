@@ -2,7 +2,7 @@
 title = "Wolf Pack 5"
 draft = false
 tags = ["Animatronic Shows"]
-date = "02/20/2024"
+date = "2024-02-20"
 
 [Article]
 startDate = ""
@@ -236,4 +236,3 @@ Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to,
 
 
 
-<h2> References </h2>

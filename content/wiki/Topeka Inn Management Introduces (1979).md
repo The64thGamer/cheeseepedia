@@ -2,7 +2,7 @@
 title = "Topeka Inn Management Introduces... (1979)"
 draft = false
 tags = []
-date = "08/09/2023"
+date = "2023-08-09"
 
 [Article]
 startDate = ""

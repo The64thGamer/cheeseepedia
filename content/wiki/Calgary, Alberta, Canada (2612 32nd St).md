@@ -2,10 +2,10 @@
 title = "Calgary, Alberta, Canada (2612 32nd St)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "-/-/2006"
+startDate = "2006-00-00"
 endDate = ""
 contributors = ["Douggaming"]
 gallery = ["2612 32st calgary alberta december 2nd 2022.png|thumb"]

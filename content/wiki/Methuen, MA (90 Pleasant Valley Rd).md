@@ -2,10 +2,10 @@
 title = "Methuen, MA (90 Pleasant Valley Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/18/2024"
+date = "2024-08-18"
 
 [Article]
-startDate = "8/28/2000"
+startDate = "2000-8-28"
 endDate = ""
 pageThumbnailFile = "Methuen Exterior before 2.0.jpg|Exterior, April 2024 (PC: dmckill on Instagram)"
 contributors = ["Destinationimagination95","Rexburg090","Harchambeault2026","CECCheese","ThatBoiCydalan","CECswag2009","AstridMascotFan2005"]
@@ -250,5 +250,5 @@ On July 8, 2024, the store would start its CEC 2018 2.0 Remodel Program (2.0 Rem
 |
 |}
 
-<h2> References </h2>
+
 <references />

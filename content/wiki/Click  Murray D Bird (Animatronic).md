@@ -2,7 +2,7 @@
 title = "Click / Murray D. Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "07/18/2024"
+date = "2024-07-18"
 
 [Article]
 startDate = ""
@@ -63,5 +63,5 @@ The Clock Hands movement, which was SE1, was Bit 94 on the Bottom Drawer. A mini
 
 
 
-<h2>References</h2>
+
 <references />

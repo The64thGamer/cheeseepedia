@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese LIVE Announcement Show"
 draft = false
 tags = ["Showtapes"]
-date = "11/02/2023"
+date = "2023-11-02"
 
 [Article]
 startDate = ""
@@ -15,4 +15,3 @@ The stream would debut to 335 viewers on YouTube, and unknown amount on Facebook
 
 CEC would then pivot the stream to Instagram, where it would debut to 534 viewers and successfully play without issue, alongside posting it to LinkedIn.<ref name=':0' /><ref></ref> 50 minutes later, after getting several confused comments on the Facebook stream, a second restream of the event would be held with the new name '🚨BREAKING NEWS: Chuck E. Cheese Press Conference'.
 
-<h2> References </h2>

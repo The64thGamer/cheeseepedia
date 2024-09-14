@@ -2,11 +2,11 @@
 title = "Metairie, LA (7000 Veterans Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "6/24/1981"
-endDate = "3/17/2024"
+startDate = "1981-6-24"
+endDate = "2024-3-17"
 pageThumbnailFile = "MetairieLACECExterior2018.jpg|The store's exterior in 2018 before replacing the Avenger Chuck E sign. (PC: Veronica Lopez)"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","To Fast","66.250.190.24","AstridMascotFan2005"]
 gallery = []
@@ -132,5 +132,5 @@ In 2000, Metairie removed the 3-Stage, it was soon replaced with a Studio C Alph
 |November 2nd, 1996
 |}
 
-<h2> References </h2>
+
 <references />

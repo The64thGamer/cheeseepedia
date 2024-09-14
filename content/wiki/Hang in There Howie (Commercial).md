@@ -2,7 +2,7 @@
 title = "Hang in There Howie (Commercial)"
 draft = false
 tags = []
-date = "04/29/2023"
+date = "2023-04-29"
 
 [Article]
 startDate = ""
@@ -29,4 +29,3 @@ The commercial features a kid, possibly named Howie or Howard, played by an unkn
 * Some shots are also used in the Smile America - 60s (Commercial) (Smile America - 60s) commercial.
 * Chuck E. doesn't blink or wink during this commercial, despite the suit being able to.
 
-<h2> References </h2>

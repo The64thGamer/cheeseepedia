@@ -2,10 +2,10 @@
 title = "Bell, CA (5089 E Florence Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/26/2024"
+date = "2024-03-26"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 pageThumbnailFile = "Bell’s Exterior.jpg| Bell's Exterior before 2.0 Remodel (PC: Google Maps)"
 contributors = ["ChuckECool","47.149.242.216","ShowbizMidwest","CEC Tinley","Rexburg090","Cheeseclassic","Polykirisame","Chez"]
@@ -156,5 +156,5 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 |Aug 16, 2022
 |}
 
-<h2>References</h2>
+
 <references />

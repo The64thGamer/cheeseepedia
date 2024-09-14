@@ -2,11 +2,11 @@
 title = "Park Ridge, IL (678 N Northwest Hwy)"
 draft = false
 tags = ["Store List"]
-date = "05/09/2024"
+date = "2024-05-09"
 
 [Article]
-startDate = "12/29/1982"
-endDate = "-/-/1985"
+startDate = "1982-12-29"
+endDate = "1985-00-00"
 contributors = ["ShowbizMidwest","CEC Illinois","RPCEC","Rexburg090","BurgersNuggs445","CorrectorMan","Cheeseclassic","Muncho"]
 gallery = ["ParkRidgeRAE.jpg|thumb|Park Ridge’s Rock-afire Explosion shown in a newspaper ad."]
 +++
@@ -84,5 +84,5 @@ After this location closed, their Rock-afire Explosion show and several of the s
 |Sent to Surfside Beach, SC (900 US-17 BUS) (Surfside Beach), later [Richmond, VA (10430 Midlothian Turnpike)]({{< ref "wiki/Richmond, VA (10430 Midlothian Turnpike).md" >}}). Now Destroyed.
 |}
 
-<h2> References </h2>
+
 <references />

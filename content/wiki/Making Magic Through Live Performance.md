@@ -2,7 +2,7 @@
 title = "Making Magic Through Live Performance"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "11/04/2023"
+date = "2023-11-04"
 
 [Article]
 startDate = ""

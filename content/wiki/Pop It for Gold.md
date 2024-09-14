@@ -2,7 +2,7 @@
 title = "Pop It for Gold"
 draft = false
 tags = ["Arcade Games"]
-date = "10/21/2023"
+date = "2023-10-21"
 
 [Article]
 startDate = ""

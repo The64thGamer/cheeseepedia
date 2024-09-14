@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese and Friends Party Cookbook"
 draft = false
 tags = ["Merchandise"]
-date = "11/04/2023"
+date = "2023-11-04"
 
 [Article]
-startDate = "3/19/2024"
+startDate = "2024-3-19"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
@@ -37,5 +37,5 @@ With great party ideas and delicious recipes that the whole family can pitch in 
 
 <b>DOZENS OF RECIPES:</b> From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!<ref name=':0' /></blockquote>
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "ShowBiz's Fabulous Fall Festival (Event)"
 draft = false
 tags = ["Events"]
-date = "10/11/2023"
+date = "2023-10-11"
 
 [Article]
 startDate = ""
@@ -58,4 +58,3 @@ The ShowBiz Halloween Party would take place on October 30th and 31st, 1983- bot
 <h2>= Advert Prize </h2>=
 For any patron who had a ShowBiz's Fabulous Fall Festival advert from the newspaper, they could color in the advert and bring it during their visit to recieve 3 free tokens.<ref>https://www.newspapers.com/article/the-bradenton-herald/96323786/</ref>
 
-<h2> References </h2>

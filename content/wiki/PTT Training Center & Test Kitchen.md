@@ -2,7 +2,7 @@
 title = "PTT Training Center & Test Kitchen"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "12/08/2022"
+date = "2022-12-08"
 
 [Article]
 startDate = ""
@@ -92,6 +92,6 @@ The Test Kitchen Staff had the Product Research & Development team, with the onl
 <h2>Closing</h2>
 The programs would cease sometime during the company merger with Showbiz Pizza Place in 1984, where the [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) store would become the new main store for training. The third floor would be used exclusively as storage space from then on.
 
-<h2>References</h2>
+
 
 <references />

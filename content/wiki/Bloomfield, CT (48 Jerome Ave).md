@@ -2,11 +2,11 @@
 title = "Bloomfield, CT (48 Jerome Ave)"
 draft = false
 tags = ["Store List"]
-date = "04/25/2024"
+date = "2024-04-25"
 
 [Article]
-startDate = "8/-/1983"
-endDate = "8/-/1984"
+startDate = "1983-8-00"
+endDate = "1984-8-00"
 contributors = ["CorrectorMan","Rexburg090","Ryys123","Saan1ty"]
 gallery = []
 +++

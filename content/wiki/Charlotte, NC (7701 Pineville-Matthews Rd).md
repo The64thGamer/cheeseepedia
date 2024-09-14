@@ -2,7 +2,7 @@
 title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/30/2024"
+date = "2024-08-30"
 
 [Article]
 startDate = ""
@@ -422,5 +422,5 @@ The stage received curtains from [the Tallahassee location]({{< ref "wiki/Tallah
 |In store.
 |}
 
-<h2> References </h2>
+
 <references />

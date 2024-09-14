@@ -2,7 +2,7 @@
 title = "Wolf Pack 5 IAAPA 1978 Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "08/20/2022"
+date = "2022-08-20"
 
 [Article]
 startDate = ""
@@ -35,4 +35,3 @@ Footage of this showtape can be viewed [https:<i>www.youtube.com/watch?v=lvMtt4E
 * 'Dog Gone to Love' takes heavy inspiration from the real life band, '[https://en.wikipedia.org/wiki/The_Beatles The Beatles]', and the various songs they wrote and performed. Some elements were directly lifted from various Beatles’ songs to be incorporated into one song.
 * 'Beach Bear Surfer Girl' takes heavy inspiration from the real life band, “[https://en.wikipedia.org/wiki/The_Beach_Boys The Beach Boys]”, and the various songs they wrote and performed. Like Dog Gone to Love, several elements were lifted from various Beach Boys’ songs and were incorporated into a single song.
 
-<h2> References </h2>

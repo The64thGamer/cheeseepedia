@@ -2,10 +2,10 @@
 title = "Lewisville, TX (2402 S Stemmons Fwy)"
 draft = false
 tags = ["Store List"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
-startDate = "10/27/1992"
+startDate = "1992-10-27"
 endDate = ""
 pageThumbnailFile = "desc=Lewisville TX's Chuck E. Cheese's via Google Maps|image=Lewisville.jpg"
 contributors = ["CorrectorMan","BurgersNuggs445","Chuckstar69","47.17.236.200","CEC Kokomo","ThatBoiCydalan"]

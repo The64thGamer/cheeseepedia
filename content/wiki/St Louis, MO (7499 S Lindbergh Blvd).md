@@ -2,11 +2,11 @@
 title = "St. Louis, MO (7499 S Lindbergh Blvd)"
 draft = false
 tags = ["Store List"]
-date = "12/15/2023"
+date = "2023-12-15"
 
 [Article]
 startDate = ""
-endDate = "4/-/1999"
+endDate = "1999-4-00"
 contributors = ["Cheeseclassic"]
 gallery = []
 +++

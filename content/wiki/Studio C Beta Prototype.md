@@ -2,7 +2,7 @@
 title = "Studio C Beta Prototype"
 draft = false
 tags = ["Stage Variations"]
-date = "07/17/2024"
+date = "2024-07-17"
 
 [Article]
 startDate = ""
@@ -59,4 +59,3 @@ The next locations received modified variants of this concept, with Tyler, TX an
 |February 22, 2001
 |}
 
-<h2> References </h2>

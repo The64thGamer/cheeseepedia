@@ -2,11 +2,11 @@
 title = "El Cerrito, CA (20 El Cerrito Plaza)"
 draft = false
 tags = ["Store List"]
-date = "02/01/2024"
+date = "2024-02-01"
 
 [Article]
-startDate = "-/-/1993"
-endDate = "7/19/2000"
+startDate = "1993-00-00"
+endDate = "2000-7-19"
 pageThumbnailFile = "El Cerrito exterior in 1994.png|Exterior, 1994"
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
 gallery = []

@@ -2,7 +2,7 @@
 title = "Artie Antlers (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/29/2024"
+date = "2024-08-29"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Dept. 18 Blogspot"
 draft = false
 tags = []
-date = "09/20/2022"
+date = "2022-09-20"
 
 [Article]
 startDate = ""

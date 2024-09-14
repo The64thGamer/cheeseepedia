@@ -2,10 +2,10 @@
 title = "Dublin, OH (2711 Martin Road)"
 draft = false
 tags = []
-date = "04/29/2024"
+date = "2024-04-29"
 
 [Article]
-startDate = "10/11/1993"
+startDate = "1993-10-11"
 endDate = ""
 pageThumbnailFile = "Dublin before the 2005 remodel in June 2011..jpg|Dublin before the 2005 remodel in June 2011. (PC: Google Maps)"
 contributors = ["185.141.119.63","CorrectorMan","ThatBoiCydalan","Showb1zlov3r"]

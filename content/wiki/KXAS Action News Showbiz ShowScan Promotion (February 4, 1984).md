@@ -2,7 +2,7 @@
 title = "KXAS Action News Showbiz ShowScan Promotion (February 4, 1984)"
 draft = false
 tags = ["News Footage"]
-date = "11/03/2023"
+date = "2023-11-03"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ Showscan is a revolutionary breakthrough in film, and Dallas is one of four citi
 
 I recommend Showscan's <i>New Magic</i>, a short feature that will open your eyes to a whole new movie experience, and finally, we get 3-D without these dumb glasses. Bobbie Wygant, Channel 5 Action News.</blockquote>
 
-<h2> References </h2>

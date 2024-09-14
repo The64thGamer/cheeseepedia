@@ -2,10 +2,10 @@
 title = "Redding, CA (2167 Hilltop Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/29/2024"
+date = "2024-06-29"
 
 [Article]
-startDate = "2/8/1983"
+startDate = "1983-2-8"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","Cheeseclassic"]
 gallery = []
@@ -34,4 +34,3 @@ TODO
 |1999
 |}
 
-<h2>References</h2>

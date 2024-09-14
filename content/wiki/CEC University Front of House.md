@@ -2,7 +2,7 @@
 title = "CEC University: Front of House"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "04/05/2022"
+date = "2022-04-05"
 
 [Article]
 startDate = ""

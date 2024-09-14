@@ -2,7 +2,7 @@
 title = "Skytubes"
 draft = false
 tags = ["Arcade Games"]
-date = "11/06/2023"
+date = "2023-11-06"
 
 [Article]
 startDate = ""

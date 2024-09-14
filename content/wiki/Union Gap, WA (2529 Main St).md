@@ -2,7 +2,7 @@
 title = "Union Gap, WA (2529 Main St)"
 draft = false
 tags = ["Store List"]
-date = "03/10/2023"
+date = "2023-03-10"
 
 [Article]
 startDate = ""
@@ -19,6 +19,6 @@ Before the development of the Union Gap location began, the site was a building 
 <h2>Stages</h2>
 When the store opens, it will feature a Dance Floor & Video Wall like most other future 2.0s will have.
 
-<h2>References</h2>
+
 
 <references />

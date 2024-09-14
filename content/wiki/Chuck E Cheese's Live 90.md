@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Live 90"
 draft = false
 tags = ["Live Shows"]
-date = "06/05/2022"
+date = "2022-06-05"
 
 [Article]
-startDate = "12/-/1990"
+startDate = "1990-12-00"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
@@ -44,4 +44,3 @@ This was the first officially released live show created for Munch's Make Believ
 * The training material for this show features Jeremy Blaido in his first role with the company relating to show production.<ref>https://www.youtube.com/watch?v=7fFr8LQnoC0</ref> 
 * This was the first live show programmed for MMBB stages which at this point would be 3stages and Road Stages.
 
-<h2> References </h2>

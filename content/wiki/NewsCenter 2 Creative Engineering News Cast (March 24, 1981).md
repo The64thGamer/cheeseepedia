@@ -2,7 +2,7 @@
 title = "NewsCenter 2 Creative Engineering News Cast (March 24, 1981)"
 draft = false
 tags = ["News Footage"]
-date = "02/04/2023"
+date = "2023-02-04"
 
 [Article]
 startDate = ""
@@ -37,5 +37,5 @@ It's just an ordinary band, right? Wrong. It's called the Rock-afire Explosion a
 <b>Debbie Wright:</b> I'll say it works! The group featuring Mitzi Mozzarella and Fatz the keyboard man is only part of a total electronic entertainment package at the newly opened Showbiz Pizza Place in Altamonte Springs. Paul McCartney, eat your heart out! Debbie Wright, Newscenter 2, Altamonte Springs.
 
 </blockquote>
-<h2>References</h2>
+
 <references />

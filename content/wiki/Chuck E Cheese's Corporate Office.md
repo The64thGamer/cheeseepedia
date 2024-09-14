@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/31/2024"
+date = "2024-05-31"
 
 [Article]
 startDate = ""

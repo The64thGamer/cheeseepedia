@@ -2,7 +2,7 @@
 title = "CEC American Pride"
 draft = false
 tags = ["Live Shows"]
-date = "09/02/2024"
+date = "2024-09-02"
 
 [Article]
 startDate = ""

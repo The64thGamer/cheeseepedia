@@ -2,7 +2,7 @@
 title = "PTT Jack Campbell Memo Pad"
 draft = false
 tags = ["Corporate Documents"]
-date = "08/23/2023"
+date = "2023-08-23"
 
 [Article]
 startDate = ""
@@ -19,5 +19,5 @@ The Pizza Time Theatre Memo-Pads were handed out to corporate employees with per
 <h2> Design </h2>
 The corporate memo pads used a yellow piece of paper as a base with the Chuck E. Cheese character at the top, with 'A (Employee Name) MEMO' written on a design similar to the Pizza Time Theatre logo seen at the [370 South Winchester Boulevard]({{< ref "wiki/San Jose, CA (370 S Winchester Blvd).md" >}}) store. In the top right corner, 5 holes were cut out to make it look like Swiss Cheese, which Pizza Time Theatre Incorporated used quite frequently in their designs.
 
-<h2> References </h2>
+
 https://www.showbizpizza.com/info/documents/ptt/ptt_corp-memos.pdf

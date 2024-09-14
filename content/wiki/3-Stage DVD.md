@@ -2,7 +2,7 @@
 title = "3-Stage DVD"
 draft = false
 tags = ["Showtape Formats"]
-date = "12/28/2022"
+date = "2022-12-28"
 
 [Article]
 startDate = ""

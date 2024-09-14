@@ -2,10 +2,10 @@
 title = "'Titan of Tokens' (CEC Décor)"
 draft = false
 tags = []
-date = "07/08/2023"
+date = "2023-07-08"
 
 [Article]
-startDate = "-/-/2005"
+startDate = "2005-00-00"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = ["Titanoftokenssign.jpg|thumb|Titan of Tokens sign"]

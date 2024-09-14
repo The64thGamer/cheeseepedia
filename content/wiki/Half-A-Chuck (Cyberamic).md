@@ -2,7 +2,7 @@
 title = "Half-A-Chuck (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/11/2024"
+date = "2024-05-11"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ The animatronic wore the regular Chuck E. Cheese Cyberamic outfit at the time wi
 
 
 
-<h2> References </h2>

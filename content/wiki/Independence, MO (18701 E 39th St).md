@@ -2,10 +2,10 @@
 title = "Independence, MO (18701 E 39th St)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "5/-/2012"
+startDate = "2012-5-00"
 endDate = ""
 contributors = ["CorrectorMan","AstridMascotFan2005"]
 gallery = ["Independence.jpg|thumb|Independence's exterior in 2012/2013. (PC: foursquare)"]

@@ -2,10 +2,10 @@
 title = "Glen Burnie, MD (6637 Governor Ritchie Hwy)"
 draft = false
 tags = ["Store List"]
-date = "10/02/2023"
+date = "2023-10-02"
 
 [Article]
-startDate = "11/7/1990"
+startDate = "1990-11-7"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","216.125.34.66","Stripes","PachDaChuckster","Cecnj98","CEC Tinley"]
 gallery = ["Exterior2019AugustGoogleMaps.png|thumb|Street View of the store's Exterior back in August 2019 before being redone in 2022 (PC: Google Maps)"]

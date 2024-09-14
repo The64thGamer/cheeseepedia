@@ -2,10 +2,10 @@
 title = "Spartanburg, SC (660 Spartan Blvd Suite 250)"
 draft = false
 tags = []
-date = "08/16/2024"
+date = "2024-08-16"
 
 [Article]
-startDate = "3/1/1999"
+startDate = "1999-3-1"
 endDate = ""
 contributors = ["Caydenpedia"]
 gallery = ["SpartanburgCECexterior.jpg|thumb|Spartanburg Chuck E. Cheese's exterior on February 12, 2019."]

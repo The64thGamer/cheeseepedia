@@ -2,7 +2,7 @@
 title = "'New Years 83&84'"
 draft = false
 tags = []
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
@@ -31,4 +31,3 @@ The naming of the tape does not imply it could be agnostically used for 1983 and
 
 
 
-<h2> References </h2>

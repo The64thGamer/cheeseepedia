@@ -2,7 +2,7 @@
 title = "Standard: Animatronic Show Page"
 draft = false
 tags = ["Standards Pages"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
 startDate = ""
@@ -98,5 +98,5 @@ Fun information about a show or other relevant information about the show.
 
 Photos of show, animatronics in the show, and other relevant pictures
 
-<h2> References </h2>
+
 Links and citations from page to find information sources and back up information given.

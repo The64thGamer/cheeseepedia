@@ -2,7 +2,7 @@
 title = "Swiss Cheese Coin Bank (1983)"
 draft = false
 tags = ["Merchandise"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
 startDate = ""

@@ -2,11 +2,11 @@
 title = "Johnson City, NY (365 Harry L Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/24/2024"
+date = "2024-06-24"
 
 [Article]
-startDate = "6/7/1983"
-endDate = "11/17/1996"
+startDate = "1983-6-7"
+endDate = "1996-11-17"
 pageThumbnailFile = "JohnsonCity.png|Johnson City's exterior as a PTT"
 contributors = ["SuperCreamPiper2008","Newbie editor","Cheeseclassic"]
 gallery = []

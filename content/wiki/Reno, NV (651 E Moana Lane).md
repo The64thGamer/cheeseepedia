@@ -2,11 +2,11 @@
 title = "Reno, NV (651 E Moana Lane)"
 draft = false
 tags = ["Store List"]
-date = "12/08/2023"
+date = "2023-12-08"
 
 [Article]
-startDate = "-/-/1982"
-endDate = "-/-/1983"
+startDate = "1982-00-00"
+endDate = "1983-00-00"
 pageThumbnailFile = "Zapp's Jan 2022.png|Location after closing, January 2022"
 contributors = ["The 64th Gamer","2600:4040:5A0E:D900:5543:D34F:53F5:C134","BurgersNuggs445","Estsproduction"]
 gallery = []
@@ -42,4 +42,3 @@ On May 6th, 1986, Zapp's would host the <i>Fashion Auction Show</i> in collabora
 |
 |
 |}
-<h2>References</h2>

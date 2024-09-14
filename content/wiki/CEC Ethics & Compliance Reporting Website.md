@@ -2,7 +2,7 @@
 title = "CEC Ethics & Compliance Reporting Website"
 draft = false
 tags = []
-date = "08/30/2022"
+date = "2022-08-30"
 
 [Article]
 startDate = ""

@@ -2,11 +2,11 @@
 title = "Winnipeg, Manitoba, Canada (1931 Pembina Hwy)"
 draft = false
 tags = ["Store List"]
-date = "10/01/2023"
+date = "2023-10-01"
 
 [Article]
-startDate = "4/30/1990"
-endDate = "7/-/2001"
+startDate = "1990-4-30"
+endDate = "2001-7-00"
 contributors = ["ChuckECool","Rexburg090","SinStar","142.161.144.5"]
 gallery = ["CECWinnipegMBExterior.jpg|thumb|A photo of the store's Exterior in the Mid-Late 1990's (PC: Unknown)"]
 +++

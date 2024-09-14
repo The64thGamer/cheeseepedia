@@ -2,11 +2,11 @@
 title = "Fullerton, CA (1134 S Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/24/2024"
+date = "2024-08-24"
 
 [Article]
-startDate = "12/17/1991"
-endDate = "11/17/2020"
+startDate = "1991-12-17"
+endDate = "2020-11-17"
 pageThumbnailFile = " FullertonCAExteriorBeforeClosure.jpg|Fullerton's exterior before closure (PC: Pablo Moran on Google Maps)"
 contributors = ["ChuckECool","Rexburg090","ChuckEPediaIsTheBest!","Midwestretail","2600:4040:59FE:7200:910F:436F:D0D:E3EA","CEC Tinley","CorrectorMan","GabrielPennington9864","ThatBoiCydalan","174.131.44.53","Caydenpedia","Documentor","Cy's Junk at School","Cecnj98"]
 gallery = []

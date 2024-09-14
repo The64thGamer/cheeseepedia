@@ -2,11 +2,11 @@
 title = "Pasadena, CA (3765 E Foothill Blvd)"
 draft = false
 tags = ["Store List"]
-date = "03/26/2024"
+date = "2024-03-26"
 
 [Article]
-startDate = "12/15/1982"
-endDate = "10/-/1993"
+startDate = "1982-12-15"
+endDate = "1993-10-00"
 contributors = ["Cheeseclassic","SuperCreamPiper2008","The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++

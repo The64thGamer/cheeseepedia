@@ -2,7 +2,7 @@
 title = "Mac Cheesy Pizza On the Buffet Decal"
 draft = false
 tags = ["Promotional Material"]
-date = "06/10/2022"
+date = "2022-06-10"
 
 [Article]
 startDate = ""

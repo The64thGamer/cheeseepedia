@@ -2,7 +2,7 @@
 title = "PTT Kooser Jasper T. Jowls Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/25/2023"
+date = "2023-08-25"
 
 [Article]
 startDate = ""
@@ -34,7 +34,7 @@ Much like all of the other nameplates seen at the 1371 Kooser Road store, Jasper
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf
 # https://www.showbizpizza.com/info/articles/cec/ptt_79foodservice.pdf

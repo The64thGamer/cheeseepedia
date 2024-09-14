@@ -2,7 +2,7 @@
 title = "2024 ChainFest New York CEC Booth"
 draft = false
 tags = ["Events"]
-date = "08/09/2024"
+date = "2024-08-09"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ On August 8th, 2024, announcements would be made for CEC's involvement in Chainf
 
 
 
-<h2> References </h2>

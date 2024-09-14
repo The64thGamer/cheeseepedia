@@ -2,7 +2,7 @@
 title = "Bakersfield, CA (3760 Ming Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/01/2023"
+date = "2023-03-01"
 
 [Article]
 startDate = ""
@@ -143,5 +143,5 @@ Originally, Bakersfield featured a Rock-Afire Explosion, as all other Showbiz lo
 <h2>Videos</h2>
 TODO
 
-<h2>References</h2>
+
 <references />

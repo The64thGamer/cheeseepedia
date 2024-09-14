@@ -2,10 +2,10 @@
 title = "Hialeah, FL (3805 W 20th Ave)"
 draft = false
 tags = ["Store List"]
-date = "09/12/2024"
+date = "2024-09-12"
 
 [Article]
-startDate = "4/2/1991"
+startDate = "1991-4-2"
 endDate = ""
 pageThumbnailFile = "Hialeah As of July 2023.jpg|Exterior, July 2023 (PC: CEC Hialeah)"
 contributors = ["ChuckECool","216.125.34.66","CEC Tinley","CEC Hialeah","ShowbizMidwest","Cheeseclassic","Stripes","AstridMascotFan2005","The 64th Gamer","CEC1988","ThatBoiCydalan","Jaxonia"]
@@ -152,5 +152,5 @@ W.I.P
 <h2> Walkarounds </h2>
 W.I.P
 
-<h2> References </h2>
+
 W.I.P

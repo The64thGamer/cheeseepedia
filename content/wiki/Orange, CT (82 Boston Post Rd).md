@@ -2,10 +2,10 @@
 title = "Orange, CT (82 Boston Post Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/27/2024"
+date = "2024-04-27"
 
 [Article]
-startDate = "6/16/1992"
+startDate = "1992-6-16"
 endDate = ""
 contributors = ["Rexburg090","RedaCEC","Cy's Junk at School","Harchambeault2026"]
 gallery = []

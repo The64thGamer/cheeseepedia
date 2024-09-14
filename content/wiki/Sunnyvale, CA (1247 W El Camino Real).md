@@ -2,11 +2,11 @@
 title = "Sunnyvale, CA (1247 W El Camino Real)"
 draft = false
 tags = ["Store List"]
-date = "07/12/2024"
+date = "2024-07-12"
 
 [Article]
-startDate = "-/-/1980"
-endDate = "-/-/1984"
+startDate = "1980-00-00"
+endDate = "1984-00-00"
 pageThumbnailFile = "Exteriornightofsunnyvalemoment.png|Exterior (1981-1982)"
 contributors = ["The 64th Gamer","Floorplanmuncher"]
 gallery = [":Gwersdgvtefhf.jpg"]
@@ -93,4 +93,3 @@ The store would close in 1984.
 |Unknown
 |}
 
-<h2> References </h2>

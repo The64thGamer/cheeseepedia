@@ -2,10 +2,10 @@
 title = "Dallas, TX (13364 Montfort Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
-startDate = "12/21/2001"
+startDate = "2001-12-21"
 endDate = ""
 pageThumbnailFile = "Mft20.png|Montfort Dr. exterior in 2020."
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowbizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
@@ -304,5 +304,5 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 |In-Store?
 |}
 
-<h2>References</h2>
+
 <references />

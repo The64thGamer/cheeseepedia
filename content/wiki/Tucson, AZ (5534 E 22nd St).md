@@ -2,10 +2,10 @@
 title = "Tucson, AZ (5534 E 22nd St)"
 draft = false
 tags = ["Store List"]
-date = "10/03/2023"
+date = "2023-10-03"
 
 [Article]
-startDate = "7/15/1980"
+startDate = "1980-7-15"
 endDate = ""
 pageThumbnailFile = "TusconE22ndExterior (Chuck E Pedia Edit).jpg|Store Exterior (Unknown Date)"
 contributors = ["Rexburg090","Midwestretail","ChuckECool","The 64th Gamer"]
@@ -64,4 +64,3 @@ The store would become a few businesses or two until the shopping center was red
 
 
 
-<h2> References </h2>

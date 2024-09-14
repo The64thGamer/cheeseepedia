@@ -2,7 +2,7 @@
 title = "Winchester Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "08/14/2023"
+date = "2023-08-14"
 
 [Article]
 startDate = ""
@@ -50,4 +50,3 @@ Starting on August 12, 1977, [Winchester Helen Henny]({{< ref "wiki/Winchester H
 <h2>== V2 Bots </h2>==
 At an unknown point between mid-1977 and 1978, Chuck E. Cheese and Crusty the Cat would be replaced with updated animatronics featuring more movements. It is unclear if any hardware was changed due to this.
 
-<h2> References </h2>

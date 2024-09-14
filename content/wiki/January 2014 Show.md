@@ -2,7 +2,7 @@
 title = "January 2014 Show"
 draft = false
 tags = ["Live Shows"]
-date = "08/16/2023"
+date = "2023-08-16"
 
 [Article]
 startDate = ""

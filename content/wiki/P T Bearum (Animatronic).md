@@ -2,7 +2,7 @@
 title = "P. T. Bearum (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/08/2024"
+date = "2024-02-08"
 
 [Article]
 startDate = ""
@@ -51,5 +51,5 @@ Current known movements are unknown, but based on limited info these were probab
 
 *
 
-<h2> References </h2>
+
 https://www.instagram.com/p/Cy6jXxYJm_c/?img_index=1 All Okamoto Images were found by Pasq

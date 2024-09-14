@@ -2,10 +2,10 @@
 title = "The Chuck E. Cheese Christmas Special"
 draft = false
 tags = ["Live Shows"]
-date = "07/22/2023"
+date = "2023-07-22"
 
 [Article]
-startDate = "11/20/1995"
+startDate = "1995-11-20"
 endDate = ""
 contributors = ["Ceclife13","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

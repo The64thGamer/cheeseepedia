@@ -2,7 +2,7 @@
 title = "Jumbo Munch Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
 startDate = ""
@@ -39,5 +39,5 @@ There aren't many differences between this plush and it's [smaller size]({{< ref
 Comparing it to the plush's [large size]({{< ref "wiki/Large Munch Plush (1996).md" >}}), on the other hand, is much harder. They're very close in design. It really all comes down to the build of the plush. The 20' plush has more prominent shoulders, and its left hand on its belly instead of its waist. 
 
 
-<h2>References</h2>
+
 <references />

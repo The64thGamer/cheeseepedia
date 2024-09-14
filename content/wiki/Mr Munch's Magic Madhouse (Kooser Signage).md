@@ -2,7 +2,7 @@
 title = "Mr. Munch's Magic Madhouse (Kooser Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = "03/01/2024"
+date = "2024-03-01"
 
 [Article]
 startDate = ""
@@ -23,4 +23,3 @@ The only known usage of this specific sign was at the 1371 Kooser Road store in 
 <h2> Design </h2>
 The first piece of the sign used a black base with a sky-blue colored background, with the newly introduced Mr. Munch character smiling. The second piece of the sign was engraved to the right of the Mr. Munch depiction, with the black and yellow text 'Mr. Munch's' in lowercase letters placed above 'MAGIC MADHOUSE' in all uppercase letters 
 
-<h2> References </h2>

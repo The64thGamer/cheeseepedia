@@ -2,7 +2,7 @@
 title = "Pearl City, HI (850 Kamehameha Hwy Suite 140)"
 draft = false
 tags = ["Store List"]
-date = "07/17/2024"
+date = "2024-07-17"
 
 [Article]
 startDate = ""

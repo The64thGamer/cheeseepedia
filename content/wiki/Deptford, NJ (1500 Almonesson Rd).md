@@ -2,10 +2,10 @@
 title = "Deptford, NJ (1500 Almonesson Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/16/2024"
+date = "2024-05-16"
 
 [Article]
-startDate = "11/12/1991"
+startDate = "1991-11-12"
 endDate = ""
 pageThumbnailFile = "Deptford's 2.0 Exterior.jpg|Deptford's 2.0 Exterior (2023) (PC: John Meeser)"
 contributors = ["MM995","Rexburg090","RPCEC","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2","The 64th Gamer","2600:4040:59FC:D100:387D:65E5:2486:4C7","Cecnj98","ShowbizMidwest","2600:4040:AD76:D00:B53D:EF88:79B6:14D8","CEC Tinley","ThatBoiCydalan","Planetpurplediner"]
@@ -125,5 +125,5 @@ The store received the [2005 remodel package]({{< ref "wiki/CEC 2005 Remodel Pro
 
 
 
-<h2> References </h2>
+
 <references />

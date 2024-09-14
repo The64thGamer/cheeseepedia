@@ -2,10 +2,10 @@
 title = "Kennesaw, GA (824 Earnest W Barrett Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "08/04/2024"
+date = "2024-08-04"
 
 [Article]
-startDate = "11/19/1999"
+startDate = "1999-11-19"
 endDate = ""
 contributors = ["Plvtyp","CECBowlingGreen","Rexburg090","VXSpooky","AstridMascotFan2005"]
 gallery = ["CEC KennesawGA.jpg|thumb|Exterior, 2024"]

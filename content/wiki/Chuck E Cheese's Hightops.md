@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Hightops"
 draft = false
 tags = ["Arcade Games"]
-date = "04/27/2024"
+date = "2024-04-27"
 
 [Article]
 startDate = ""

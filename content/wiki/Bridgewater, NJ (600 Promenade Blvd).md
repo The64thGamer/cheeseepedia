@@ -2,11 +2,11 @@
 title = "Bridgewater, NJ (600 Promenade Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/27/2024"
+date = "2024-08-27"
 
 [Article]
-startDate = "2/7/2000"
-endDate = "4/7/2024"
+startDate = "2000-2-7"
+endDate = "2024-4-7"
 pageThumbnailFile = "Bridgewater after closure, April 8, 2024 (PC- dr.ezofcec).jpg|Bridgewater after closure, April 8, 2024 (PC: dr.ezofcec)"
 contributors = ["CorrectorMan","Chucke.show","Chuckstar69","The 64th Gamer","CEC Tinley","ThatBoiCydalan","Cheeseclassic","PachCEC","AstridMascotFan2005","Cy's Junk at School","Documentor","BenTrainFan2000","Cecnj98","StudioA"]
 gallery = []
@@ -62,4 +62,3 @@ In December 2016, the Skytubes were trashed and replaced with a Giraffe Ride. Ar
 |Destroyed 
 |}
 
-<h2>References</h2>

@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Time Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/16/2024"
+date = "2024-05-16"
 
 [Article]
 startDate = ""

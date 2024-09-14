@@ -2,10 +2,10 @@
 title = "Decatur, AL (1801 Beltline Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/08/2024"
+date = "2024-09-08"
 
 [Article]
-startDate = "12/26/2005"
+startDate = "2005-12-26"
 endDate = ""
 pageThumbnailFile = "Store front.jpg|Exterior (April 2, 2022)"
 contributors = ["MFHALSTON","Scofow76","The 64th Gamer","Stripes","AstridMascotFan2005","Caydenpedia"]
@@ -146,4 +146,3 @@ Decatur was set to receive the [CEC 2018 2.0 Remodel Program]({{< ref "wiki/CEC 
 |December 31, 2022
 |}
 
-<h2>References</h2>

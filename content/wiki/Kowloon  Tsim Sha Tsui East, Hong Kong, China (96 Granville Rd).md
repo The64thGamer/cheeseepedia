@@ -2,11 +2,11 @@
 title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "12/-/1982"
-endDate = "-/-/1988"
+startDate = "1982-12-00"
+endDate = "1988-00-00"
 pageThumbnailFile = "desc=Kowloon's exterior in 1986.|image=HK KOWLOON.png"
 contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64th Gamer"]
 gallery = []
@@ -92,4 +92,3 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 |Unknown
 |Unknown
 |}
-<h2>References</h2>

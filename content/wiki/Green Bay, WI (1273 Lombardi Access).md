@@ -2,10 +2,10 @@
 title = "Green Bay, WI (1273 Lombardi Access)"
 draft = false
 tags = ["Store List"]
-date = "03/15/2024"
+date = "2024-03-15"
 
 [Article]
-startDate = "10/28/1982"
+startDate = "1982-10-28"
 endDate = ""
 contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","66.250.190.24","Tux Chuck"]
 gallery = []
@@ -140,7 +140,7 @@ As of March 2023, Green Bay still has the 2.0 Remodel and Dance Floor + Video Wa
 |Filmed in 1998 and 1999
 |}
 
-<h2> References </h2>
+
 <references />
 
 <h2> Trivia </h2>

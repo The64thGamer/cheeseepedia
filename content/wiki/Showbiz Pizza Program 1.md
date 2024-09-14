@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 1"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -48,5 +48,5 @@ The program isn't entirely clear what it was released with, but it is presumed t
 
 
 
-<h2>References</h2>
+
 <references />

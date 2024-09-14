@@ -2,10 +2,10 @@
 title = "Cedar Falls, IA (5911 University Ave)"
 draft = false
 tags = []
-date = "11/01/2023"
+date = "2023-11-01"
 
 [Article]
-startDate = "8/1/2001"
+startDate = "2001-8-1"
 endDate = ""
 contributors = ["CEC Kokomo","Tux Chuck"]
 gallery = ["Cedar falls briefly before 2.0.jpg|thumb|Cedar Falls before starting the 2.0 remodel. (PC: Google Maps)"]

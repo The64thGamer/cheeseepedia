@@ -2,7 +2,7 @@
 title = "Creative Engineering"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "04/23/2024"
+date = "2024-04-23"
 
 [Article]
 startDate = ""
@@ -38,4 +38,3 @@ The company is most well known for its creation of the [Rock-afire Explosion]({{
 
 * [The Rock-afire Explosion Documentary]({{< ref "wiki/The Rock-afire Explosion Documentary.md" >}}) gets a new [Blu-Ray]({{< ref "wiki/The Rock-afire Explosion Documentary Blu-Ray.md" >}}) limited edition release that includes the original SD digital video master alongside new commentary from the directors.
 
-<h2> References </h2>

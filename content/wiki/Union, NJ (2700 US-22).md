@@ -2,10 +2,10 @@
 title = "Union, NJ (2700 US-22)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "5/15/2023"
+startDate = "2023-5-15"
 endDate = ""
 pageThumbnailFile = "Unj99.png|The location's exterior during its soft opening (May 15, 2023)"
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
@@ -139,5 +139,5 @@ In May 2024, the store would receive parts for its Trampoline Zone.
 |In Use
 |}
 
-<h2>References</h2>
+
 <references />

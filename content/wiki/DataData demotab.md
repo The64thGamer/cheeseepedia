@@ -2,7 +2,7 @@
 title = "Data:Data demo.tab"
 draft = false
 tags = []
-date = "02/04/2023"
+date = "2023-02-04"
 
 [Article]
 startDate = ""

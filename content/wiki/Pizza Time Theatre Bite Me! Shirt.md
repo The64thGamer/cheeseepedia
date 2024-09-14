@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
 tags = []
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
 startDate = ""
@@ -20,4 +20,3 @@ The shirt was obtainable during the official opening of the Winchester store on 
 
 
 
-<h2> References </h2>

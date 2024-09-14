@@ -2,7 +2,7 @@
 title = "Ticket Blaster"
 draft = false
 tags = ["Arcade Games"]
-date = "11/07/2022"
+date = "2022-11-07"
 
 [Article]
 startDate = ""
@@ -47,5 +47,5 @@ The Rocket Blaster is a 2019 Ticket Blaster prototype that never left the Irving
 <h2> How To Play </h2>
 The Ticket Blaster is only available with a reserved birthday party at any CEC location. When getting into the Ticket Blaster, you have to wear goggles since the tickets are paper and are flying everywhere and could hurt your face. When you are inside, Chuck E. will say something, and then the tickets start flying around. You have 25 seconds to 1 minute to get as many tickets as you can, and when the timer stops, the tickets stop flying around, and you are let out of the Ticket Blaster.
 
-<h2> References </h2>
+
 <references />

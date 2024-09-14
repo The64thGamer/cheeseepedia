@@ -2,7 +2,7 @@
 title = "CEI Policy Manual"
 draft = false
 tags = ["Documents"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
@@ -20,4 +20,3 @@ The only evidence of the manual's existence is a scan of the front cover art, dr
 <h2> Lost Media </h2>
 The currently only known copy was located in <i>Snapper's Blast to the Past Museum</i>, which burned from a fog machine accident in October of 2010. The manual was not recovered from the rubble.<ref></ref><ref>https://youtu.be/cKBgbQXGEoI</ref>
 
-<h2> References </h2>

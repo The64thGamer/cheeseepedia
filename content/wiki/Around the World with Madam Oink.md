@@ -2,7 +2,7 @@
 title = "Around the World with Madam Oink"
 draft = false
 tags = ["Pizza Time Theatre Showtapes"]
-date = "01/21/2023"
+date = "2023-01-21"
 
 [Article]
 startDate = ""

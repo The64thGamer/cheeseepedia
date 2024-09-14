@@ -2,7 +2,7 @@
 title = "Billy & Looney iPod Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "06/09/2024"
+date = "2024-06-09"
 
 [Article]
 startDate = ""
@@ -147,5 +147,5 @@ While most songs were DBX decoded due to the controller's lack of a need for a D
 * <i>Skit - Feelings - You Light up my Life</i>
 * <i>Smittys Super Service Station</i>
 
-<h2> References </h2>
+
 <references />

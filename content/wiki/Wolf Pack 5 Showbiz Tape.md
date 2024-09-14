@@ -2,7 +2,7 @@
 title = "Wolf Pack 5 Showbiz Tape"
 draft = false
 tags = ["Showtapes"]
-date = "12/18/2023"
+date = "2023-12-18"
 
 [Article]
 startDate = ""
@@ -66,4 +66,3 @@ The entirety of the Wolf Pack 5 ShowBiz Tape can be viewed and heard [https://ww
 * 'Beach Bear Surfer Girl' takes heavy inspiration from the real-life band, [https://en.wikipedia.org/wiki/The_Beach_Boys The Beach Boys], and the various songs they wrote and performed. Like Dog Gone to Love, several elements were lifted from various Beach Boys’ songs and were incorporated into a single song.
 * 2 songs from this tape, 'Banana Hill' and 'Dragstrip in the Sky', would later be reused for the Rock-afire Explosion, where they were left unedited (aside from the Wolfman's dialogue being removed). Additionally, the intro music was reused for Rolfe DeWolfe's sketches.
 
-<h2> References </h2>

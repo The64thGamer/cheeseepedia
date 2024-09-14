@@ -2,10 +2,10 @@
 title = "Soccer (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/18/2023"
+date = "2023-07-18"
 
 [Article]
-startDate = "-/-/1994"
+startDate = "1994-00-00"
 endDate = ""
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 gallery = []

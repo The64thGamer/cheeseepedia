@@ -2,10 +2,10 @@
 title = "Houston, TX (17780 Tomball Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "04/05/2024"
+date = "2024-04-05"
 
 [Article]
-startDate = "11/10/2006"
+startDate = "2006-11-10"
 endDate = ""
 pageThumbnailFile = "HoustonTXTomballCECExterior2.0.jpg|Exterior, 2019"
 contributors = ["ThatBoiCydalan"]
@@ -167,5 +167,5 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

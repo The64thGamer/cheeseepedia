@@ -2,7 +2,7 @@
 title = "???, Australia"
 draft = false
 tags = ["Store List"]
-date = "01/11/2024"
+date = "2024-01-11"
 
 [Article]
 startDate = ""
@@ -17,4 +17,3 @@ The location will be the third ever in Australia, succeeding the [Surfer's Parad
 <h2> History </h2>
 The store's first mention would be on January 11, 2024, with a press release by CEC in partnership with <i>Royale Hospitality.</i> No general location would be given for the store.<ref>https://www.pizzamarketplace.com/news/chuck-e-cheese-to-enter-australia/</ref>
 
-<h2> References </h2>

@@ -2,10 +2,10 @@
 title = "Columbia, SC (1775 Burning Tree Dr)"
 draft = false
 tags = ["Store List"]
-date = "02/11/2024"
+date = "2024-02-11"
 
 [Article]
-startDate = "6/28/1983"
+startDate = "1983-6-28"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","2603:6081:300:4E87:8160:A970:10A:AF25","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","71.31.183.205","The 64th Gamer","BigCtheDataFinder","174.131.44.53","Chuckstar69"]
 gallery = ["Columbia2023.png|thumb|Exterior (December 2023)"]

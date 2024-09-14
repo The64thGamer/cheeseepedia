@@ -2,7 +2,7 @@
 title = "Crystal Lake, IL (22 Crystal Lake Plaza)"
 draft = false
 tags = ["Store List"]
-date = "10/04/2023"
+date = "2023-10-04"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ In a newspaper article from December 7th, 1982, changes were made to the city co
 
 The final known newspaper article from January 20th, 1983, says that amendments to the city ordinances to allow for the construction of the location were passed by councilmen. It also mentions the location will feature between 15-20 video arcade games, as well of course the Pizza Time Players. Though no newspaper articles said the location was cancelled, it was clear it was cancelled after no other articles were published mentioning the location.
 
-<h2> References </h2>

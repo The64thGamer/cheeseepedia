@@ -2,7 +2,7 @@
 title = "Backyard Monsters"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/23/2024"
+date = "2024-05-23"
 
 [Article]
 startDate = ""
@@ -46,7 +46,7 @@ The Backyard Monsters were semi-interactive shows that features larger than life
 
 
 
-<h2> References </h2>
+
 https://www.backyardmonsters.com/
 
 https://www.newspapers.com/article/daily-record-creative-presentations-bug/141018903/

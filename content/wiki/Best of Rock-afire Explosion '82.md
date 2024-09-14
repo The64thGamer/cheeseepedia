@@ -2,7 +2,7 @@
 title = "Best of Rock-afire Explosion '82"
 draft = false
 tags = ["Showtapes"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
 startDate = ""

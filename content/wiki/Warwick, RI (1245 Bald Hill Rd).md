@@ -2,10 +2,10 @@
 title = "Warwick, RI (1245 Bald Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/04/2023"
+date = "2023-09-04"
 
 [Article]
-startDate = "-/-/1990"
+startDate = "1990-00-00"
 endDate = ""
 contributors = ["Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","216.125.34.66","CECCheese","184.155.240.31","The 64th Gamer","2600:4040:5A0E:D900:C4C2:B8FA:6051:8D1"]
 gallery = []
@@ -92,5 +92,5 @@ Sometime after the show was auctioned off, it was retrofitted into The Travellin
 |January 9, 1994
 |February 21, 2023
 |}
-<h2> References </h2>
+
 TODO

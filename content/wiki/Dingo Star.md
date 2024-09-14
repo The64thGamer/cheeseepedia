@@ -2,7 +2,7 @@
 title = "Dingo Star"
 draft = false
 tags = ["Characters"]
-date = "01/27/2023"
+date = "2023-01-27"
 
 [Article]
 startDate = ""
@@ -40,4 +40,3 @@ Whether or not this biography is to be considered canonical is up for debate. It
 
 * Various sources disagree on the spelling of Dingo Star’s name. Some material spells his name as Dingo Starr, while others spell it as Dingo Star. Dingo Star is mostly used by official ShowBiz Pizza Place material, while other sources use the Dingo Starr spelling.
 
-<h2> References </h2>

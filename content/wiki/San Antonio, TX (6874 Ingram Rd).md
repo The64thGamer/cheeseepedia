@@ -2,10 +2,10 @@
 title = "San Antonio, TX (6874 Ingram Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/11/2024"
+date = "2024-09-11"
 
 [Article]
-startDate = "6/10/1981"
+startDate = "1981-6-10"
 endDate = ""
 pageThumbnailFile = "Screenshot 20240614-190458.png|Exterior in June 2024"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","2607:FB90:EDA3:D81D:29F5:B7AF:8C7E:4B46","Gostapua210","Cheeseclassic","CECMadison"]
@@ -343,5 +343,5 @@ In April 2024, San Antonio added the video wall and upgraded to a 2021 model Dan
 |August 10th, 2023
 |}
 
-<h2>References</h2>
+
 <references />

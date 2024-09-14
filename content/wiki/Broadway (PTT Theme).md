@@ -2,7 +2,7 @@
 title = "Broadway (PTT Theme)"
 draft = false
 tags = ["Stage Variations"]
-date = "05/15/2023"
+date = "2023-05-15"
 
 [Article]
 startDate = ""

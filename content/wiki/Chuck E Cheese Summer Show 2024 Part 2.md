@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese Summer Show 2024 Part 2"
 draft = false
 tags = ["Live Shows"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "7/8/2024"
+startDate = "2024-7-8"
 endDate = ""
 contributors = ["Documentor","Dame0824","AstridMascotFan2005"]
 gallery = []

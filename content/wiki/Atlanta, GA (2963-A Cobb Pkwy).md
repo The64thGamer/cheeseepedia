@@ -2,11 +2,11 @@
 title = "Atlanta, GA (2963-A Cobb Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "08/26/2024"
+date = "2024-08-26"
 
 [Article]
-startDate = "9/4/1982"
-endDate = "-/-/1984"
+startDate = "1982-9-4"
+endDate = "1984-00-00"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++
@@ -20,4 +20,3 @@ On December 25th, 1983, the store's Chuck, Mr. Munch, and Jasper T. Jowls mascot
 
 
 
-<h2> References </h2>

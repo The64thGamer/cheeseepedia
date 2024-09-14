@@ -2,11 +2,11 @@
 title = "Tempe, AZ (1000 E Broadway Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/26/2024"
+date = "2024-07-26"
 
 [Article]
-startDate = "6/-/1981"
-endDate = "12/24/1984"
+startDate = "1981-6-00"
+endDate = "1984-12-24"
 pageThumbnailFile = "1998.15.191.jpeg|Exterior while it was still open."
 contributors = ["JND"]
 gallery = []

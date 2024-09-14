@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese YouTube Channels"
 draft = false
 tags = ["Chuck E. Cheese's Official YouTube Videos"]
-date = "01/23/2023"
+date = "2023-01-23"
 
 [Article]
 startDate = ""

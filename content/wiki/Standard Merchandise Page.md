@@ -2,7 +2,7 @@
 title = "Standard: Merchandise Page"
 draft = false
 tags = ["Standards Pages"]
-date = "04/22/2023"
+date = "2023-04-22"
 
 [Article]
 startDate = ""
@@ -36,4 +36,3 @@ Discuss the design in full, what it looks like, how its used, any text on it, so
 
 Any and all pictures of the item out there. Pictures of the item at the Prize Counter, inside stores, in magazines, or anywhere else should also be shown.
 
-<h2> References </h2>

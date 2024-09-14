@@ -2,10 +2,10 @@
 title = "Arlington Heights, IL (41 W Rand Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2023"
+date = "2023-07-31"
 
 [Article]
-startDate = "12/15/2015"
+startDate = "2015-12-15"
 endDate = ""
 pageThumbnailFile = "desc=A photo of Arligton Heights in 2023. PC: Google Images|image=Arligton heights 2023.jpg"
 contributors = ["2600:1012:B13A:9D21:BDB0:5F21:77B7:C54B","Chuckstar69","ShowbizMidwest","CorrectorMan"]

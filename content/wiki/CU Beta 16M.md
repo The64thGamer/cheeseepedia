@@ -2,7 +2,7 @@
 title = "CU Beta 16M"
 draft = false
 tags = ["Stage Variations"]
-date = "08/29/2024"
+date = "2024-08-29"
 
 [Article]
 startDate = ""

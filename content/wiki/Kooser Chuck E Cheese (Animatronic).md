@@ -2,7 +2,7 @@
 title = "Kooser Chuck E. Cheese (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/28/2024"
+date = "2024-02-28"
 
 [Article]
 startDate = ""
@@ -51,4 +51,3 @@ Oddly, The bot's design is very similar to the Chuck E. used in the Rat Tales co
 
 
 
-<h2> References </h2>

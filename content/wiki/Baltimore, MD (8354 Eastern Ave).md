@@ -2,11 +2,11 @@
 title = "Baltimore, MD (8354 Eastern Ave)"
 draft = false
 tags = []
-date = "05/28/2024"
+date = "2024-05-28"
 
 [Article]
-startDate = "8/6/1991"
-endDate = "10/28/2018"
+startDate = "1991-8-6"
+endDate = "2018-10-28"
 contributors = ["TrimSafe6859","2600:4040:59FF:B100:19F1:35A6:8ACE:60DD","Rexburg090","Midwestretail","2600:4040:5A0E:D900:967:2CF9:CE16:D0FE","ChuckECool","CEC Tinley","Chuckepoggers69","Documentor"]
 gallery = ["Essex Maryland Exterior.jpg|thumb|Exterior of the location (Circa 2015)","Essex 2019.jpg|thumb|Essex Exterior (2019)"]
 +++

@@ -2,10 +2,10 @@
 title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/28/2024"
+date = "2024-07-28"
 
 [Article]
-startDate = "7/-/1992"
+startDate = "1992-7-00"
 endDate = ""
 pageThumbnailFile = "SunValleyExterior2019AprilGoogleMaps.png|Exterior, April 2019 (PC: Google Maps)"
 contributors = ["ChuckECool","Rexburg090","Cheeseclassic","CyberstarProductions1000","CoolerDude","Stripes","The 64th Gamer","Studio 18 Ent","Caydenpedia","AstridMascotFan2005"]
@@ -114,5 +114,5 @@ Sun Valley opened in July 1992 as a corporate-owned location. Sun Valley opened 
 |1992
 |Destroyed
 |}
-<h2>References</h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "North Richland Hills, TX (7935 Grapevine Hwy)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "4/7/1982"
+startDate = "1982-4-7"
 endDate = ""
 pageThumbnailFile = "Richlandhills.jpg|Exterior of the location in 2022 after the awnings were removed."
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","BurgersNuggs445","AstridMascotFan2005"]
@@ -175,5 +175,5 @@ In May 2023, the stage was removed as this location received the 2.0 remodel.
 |N/A
 |Unknown/Destroyed
 |}
-<h2>References</h2>
+
 <references />

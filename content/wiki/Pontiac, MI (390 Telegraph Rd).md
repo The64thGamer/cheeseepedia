@@ -2,11 +2,11 @@
 title = "Pontiac, MI (390 Telegraph Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/14/2023"
+date = "2023-08-14"
 
 [Article]
-startDate = "9/20/1993"
-endDate = "-/-/2008"
+startDate = "1993-9-20"
+endDate = "2008-00-00"
 pageThumbnailFile = "Pontiac MI Exterior.jpeg|Exterior before closure. (PC: Unknown)"
 contributors = ["Midwestretail","ThatBoiCydalan","CorrectorMan"]
 gallery = []

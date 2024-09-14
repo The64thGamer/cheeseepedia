@@ -2,11 +2,11 @@
 title = "Kansas City, MO (8809 State Line Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/24/2024"
+date = "2024-08-24"
 
 [Article]
-startDate = "6/30/2024"
-endDate = "6/30/2024"
+startDate = "2024-6-30"
+endDate = "2024-6-30"
 pageThumbnailFile = "Ceckansascity2024.jpg|Exterior, August 2024 (PC: dmckill on Instagram)"
 contributors = ["Cheeseclassic"]
 gallery = []
@@ -15,4 +15,3 @@ gallery = []
 <b><i>Kansas City, MO (8809 State Line Rd)</b></i> was a <i>Peter Piper Pizzeria</i> that opened in June 2023 and closed on June 30, 2024.<ref> https:<i>www.instagram.com/p/Ctu35PoJz0s/?igsh=cjN1azF1ZHRqaTFj</ref><ref> https:</i>www.instagram.com/p/C9-OgI8pLjv/?igsh=b3RtajZ1dWw3ZDZk</ref> On August 23, 2024, it had its soft opening as a <i>Chuck E. Cheese</i>.<ref> https://www.instagram.com/p/C_CISU1pK4O/?igsh=MTNsazE0Nm5teGV0dg==</ref>
 
 
-<h2>References</h2>

@@ -2,11 +2,11 @@
 title = "Wayne, NJ (1639 Rt 23)"
 draft = false
 tags = ["Store List"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "4/20/1992"
-endDate = "-/-/1986"
+startDate = "1992-4-20"
+endDate = "1986-00-00"
 pageThumbnailFile = "Wayne CEC 20.jpg|Wayne with it's completed exterior"
 contributors = ["ChuckfeldStan","Rexburg090","Showbiz Nobiz","216.125.34.66","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
 gallery = []
@@ -65,5 +65,5 @@ On July 30th, 2022, an incident occurred where a black girl was ignored by a per
 |May 8, 2018
 |}
 
-<h2> References </h2>
+
 <references />

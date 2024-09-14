@@ -2,7 +2,7 @@
 title = "Beach Bear (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -109,5 +109,5 @@ All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servo
 
 
 
-<h2> References </h2>
+
 <references />

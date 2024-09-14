@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Party Games"
 draft = false
 tags = ["Video Games"]
-date = "12/24/2023"
+date = "2023-12-24"
 
 [Article]
-startDate = "-/-/2010"
+startDate = "2010-00-00"
 endDate = ""
 contributors = ["ChuckfeldStan","CEC Tinley","The 64th Gamer","ChuckECheeseFan2007"]
 gallery = []

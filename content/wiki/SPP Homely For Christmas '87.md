@@ -2,10 +2,10 @@
 title = "SPP Homely For Christmas '87"
 draft = false
 tags = ["Showtapes"]
-date = "01/28/2024"
+date = "2024-01-28"
 
 [Article]
-startDate = "-/-/1987"
+startDate = "1987-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = [":Aaronhomelycomment87.png"]
@@ -46,4 +46,3 @@ After the laughing, Aaron noted being insecure about the outcome of the scene an
 ## [https://en.wikipedia.org/wiki/Winter_Wonderland Winter Wonderland]
 ## [https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas We Wish You A Merry Christmas]
 
-<h2> References </h2>

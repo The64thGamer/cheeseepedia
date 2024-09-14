@@ -2,10 +2,10 @@
 title = "Springfield, PA (371 Baltimore Pike)"
 draft = false
 tags = ["Store List"]
-date = "08/15/2024"
+date = "2024-08-15"
 
 [Article]
-startDate = "11/14/2012"
+startDate = "2012-11-14"
 endDate = ""
 pageThumbnailFile = "Springfield PA Exterior.jpg|Springfield's Exterior before 2.0 remodel (PC: Google Maps)"
 contributors = ["Cheeseclassic","AstridMascotFan2005"]

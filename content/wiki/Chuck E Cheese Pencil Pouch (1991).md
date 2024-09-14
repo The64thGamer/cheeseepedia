@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese Pencil Pouch (1991)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
-startDate = "-/-/1991"
+startDate = "1991-00-00"
 endDate = ""
 contributors = ["CEC Tinley","The 64th Gamer"]
 gallery = []

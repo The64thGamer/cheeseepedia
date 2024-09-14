@@ -2,7 +2,7 @@
 title = "Awesome Adventure Machine"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/03/2024"
+date = "2024-05-03"
 
 [Article]
 startDate = ""
@@ -75,6 +75,6 @@ No home video or home photographs have been found or shared yet. The only known 
 
 In March 2023, audio surfaced of the Awesome Adventure Machine premiere invitation that was presumably only sent out to mangers & employees in the Dallas & Forth Worth Texas areas. no pictures or footage has surfaced of the invitational premiere.
 
-<h2>References</h2>
+
 
 <references />

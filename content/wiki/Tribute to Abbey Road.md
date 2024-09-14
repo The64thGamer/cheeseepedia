@@ -2,10 +2,10 @@
 title = "Tribute to Abbey Road"
 draft = false
 tags = ["Showtapes"]
-date = "12/13/2023"
+date = "2023-12-13"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 contributors = ["Sonim07","Montfortdog","Ceclife13","The 64th Gamer"]
 gallery = []
@@ -69,4 +69,3 @@ The showtape would be completed in late August.<ref name=':1' />
 * All of the segments from this showtape would go on to be reused in future compilation tapes.
 * At the time of it's release, the Abbey Road Medley was the longest individual segment on a Rock-afire showtape, clocking in at 14-minutes. This title has since been taken by longer tracks, however.
 
-<h2> References </h2>

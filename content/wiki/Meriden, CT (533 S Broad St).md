@@ -2,11 +2,11 @@
 title = "Meriden, CT (533 S Broad St)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2023"
+date = "2023-07-29"
 
 [Article]
-startDate = "1/30/2002"
-endDate = "5/19/2013"
+startDate = "2002-1-30"
+endDate = "2013-5-19"
 contributors = ["CorrectorMan"]
 gallery = ["Meriden the day they closed.jpg|thumb|Meriden's exterior presumably from the day they closed. (PC: chuckecheeseshows)"]
 +++

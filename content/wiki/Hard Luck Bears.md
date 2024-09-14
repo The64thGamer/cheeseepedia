@@ -2,7 +2,7 @@
 title = "Hard Luck Bears"
 draft = false
 tags = ["Animatronic Shows"]
-date = "01/28/2024"
+date = "2024-01-28"
 
 [Article]
 startDate = ""

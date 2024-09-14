@@ -2,11 +2,11 @@
 title = "Topeka, KS (1301 SW Gage Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/16/2024"
+date = "2024-08-16"
 
 [Article]
-startDate = "12/1/1980"
-endDate = "-/-/1985"
+startDate = "1980-12-1"
+endDate = "1985-00-00"
 pageThumbnailFile = "Topeka_Bobs.jpg|Bob Brock and the Billy Bob mascot character outside of the Topeka Showbiz Pizza."
 contributors = ["RedaCEC","173.216.33.6","64.125.60.2","CEC Tinley","SuperCreamPiper2008","CoolerDude","The 64th Gamer","BurgersNuggs445"]
 gallery = [":Hotair.png"]
@@ -120,4 +120,3 @@ Additional Machines identified in [https://www.youtube.com/watch?v=5_nqw97cCN4 O
 |Unknown
 |}
 
-<h2> References </h2>

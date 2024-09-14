@@ -2,7 +2,7 @@
 title = "Small Pasqually Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "04/22/2023"
+date = "2023-04-22"
 
 [Article]
 startDate = ""
@@ -36,4 +36,3 @@ The plush has a round body with two cylindrical legs connected to it. The plush 
 
 
 
-<h2> References </h2>

@@ -2,10 +2,10 @@
 title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2023"
+date = "2023-08-07"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","Rexburg090","CEC Tinley","ThatBoiCydalan","167.224.250.176"]
 gallery = []
@@ -188,4 +188,3 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |Josiah Abner
 |}
 
-<h2>References</h2>

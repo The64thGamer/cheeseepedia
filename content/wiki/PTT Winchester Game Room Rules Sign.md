@@ -2,7 +2,7 @@
 title = "PTT Winchester Game Room Rules Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/08/2023"
+date = "2023-08-08"
 
 [Article]
 startDate = ""
@@ -26,7 +26,7 @@ The design of this sign varies from other known signs at the store, instead show
 
 
 
-<h2> References </h2>
+
 https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf
 
 https://www.showbizpizza.com/videos/index.html

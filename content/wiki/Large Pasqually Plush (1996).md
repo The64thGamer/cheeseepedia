@@ -2,7 +2,7 @@
 title = "Large Pasqually Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
 startDate = ""
@@ -37,5 +37,5 @@ This plush and it's [smaller size]({{< ref "wiki/Small Pasqually Plush (1996).md
 
 
 
-<h2>References</h2>
+
 <references />

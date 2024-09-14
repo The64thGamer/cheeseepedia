@@ -2,11 +2,11 @@
 title = "Fargo, ND (1202 Nodak Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/11/2024"
+date = "2024-07-11"
 
 [Article]
-startDate = "2/8/1984"
-endDate = "3/18/2024"
+startDate = "1984-2-8"
+endDate = "2024-3-18"
 pageThumbnailFile = "FargoND2.0Exterior.png|A photo of the exterior after the 2.0 remodel (PC: Chuck E. Cheese)"
 contributors = ["RedaCEC","ChuckECool","Rexburg090","2605:AD80:31:11FD:CCCF:AFE5:7BDD:2B22","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","2600:387:B:3:0:0:0:2B","Bombocec","The 64th Gamer","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","CEC Tinley","CoolerDude","ThatBoiCydalan","AnthonyRWikis7283","Cheeseclassic","PachCEC","Tux Chuck","UltimatelyFun"]
 gallery = []
@@ -138,5 +138,5 @@ On March 18th, 2024, the store would permanently close.
 * Before Corporate renumbered Franchised locations to four-digit store numbers in 2010, Fargo's current store number (<b><i>209</b></i>) was used for the [Fayetteville, NC (511 North McPherson Church Rd)]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).md" >}}) location; In 2010, it was renumbered to <b><i>Store #3212</b></i> which they still have to this day. It's unknown if Fargo had a three-digit store number before 2010.
 * In the 80's Fargo and Billings did a franchise remodel, replacing carpet and painting over the iconic orange ShowBiz wall stripes with a blue palette. 
 
-<h2>References</h2>
+
 <references />

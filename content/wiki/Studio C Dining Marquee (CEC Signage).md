@@ -2,7 +2,7 @@
 title = "Studio C Dining Marquee (CEC Signage)"
 draft = false
 tags = ["Store Fixtures"]
-date = "03/19/2024"
+date = "2024-03-19"
 
 [Article]
 startDate = ""

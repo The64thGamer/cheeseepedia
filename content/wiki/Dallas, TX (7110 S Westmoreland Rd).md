@@ -2,10 +2,10 @@
 title = "Dallas, TX (7110 S Westmoreland Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/16/2023"
+date = "2023-08-16"
 
 [Article]
-startDate = "9/15/1982"
+startDate = "1982-9-15"
 endDate = ""
 pageThumbnailFile = "Dallas tx redbird current exterior.png|Exterior, May 2023"
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0C:5900:E473:A250:7DE9:8AB1","ThatBoiCydalan","47.17.236.200"]
@@ -116,5 +116,5 @@ In 1991, the store received [Concept Unification]({{< ref "wiki/Concept Unificat
 |Let's take a trip back in time to the grand opening of the 100th Showbiz Store in Dallas TX in 1982!
 |}
 
-<h2>References</h2>
+
 <references />

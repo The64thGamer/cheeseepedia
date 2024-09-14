@@ -2,10 +2,10 @@
 title = "Chuck E's Tall Tales"
 draft = false
 tags = ["Live Shows"]
-date = "07/22/2023"
+date = "2023-07-22"
 
 [Article]
-startDate = "12/26/1995"
+startDate = "1995-12-26"
 endDate = ""
 contributors = ["Ceclife13","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

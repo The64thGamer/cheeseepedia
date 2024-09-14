@@ -2,11 +2,11 @@
 title = "Phoenix, AZ (4310 W Thomas Rd)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = "07/23/2024"
+date = "2024-07-23"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "-/-/1985"
+startDate = "1983-00-00"
+endDate = "1985-00-00"
 pageThumbnailFile = "PhoenixPTT.jpeg"
 contributors = ["JND","Letterstolooneybird","Cheeseclassic"]
 gallery = []

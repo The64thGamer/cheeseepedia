@@ -2,11 +2,11 @@
 title = "Columbus, IN (1455 N National Rd)"
 draft = false
 tags = ["Store List"]
-date = "01/01/2024"
+date = "2024-01-01"
 
 [Article]
-startDate = "12/8/2004"
-endDate = "10/8/2023"
+startDate = "2004-12-8"
+endDate = "2023-10-8"
 pageThumbnailFile = "Columbus IN Exterior.jpg|Exterior, 2018"
 contributors = ["Cheeseclassic","ThatBoiCydalan","Caydenpedia"]
 gallery = []
@@ -43,5 +43,5 @@ The Columbus, Indiana location opened in December 2004 as a Phase 3 store with a
 
 
 
-<h2> References </h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "Torrance, CA (2821 Pacific Coast Hwy)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "3/24/1983"
+startDate = "1983-3-24"
 endDate = ""
 pageThumbnailFile = "2022-05-19.jpg|Exterior, May 2022"
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","Cecnj98","ThatBoiCydalan","Stripes"]
@@ -150,4 +150,3 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |October 21, 2013
 |December 5, 2013
 |}
-<h2>References</h2>

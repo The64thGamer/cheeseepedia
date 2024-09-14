@@ -2,10 +2,10 @@
 title = "January 1999"
 draft = false
 tags = ["Showtapes"]
-date = "10/29/2023"
+date = "2023-10-29"
 
 [Article]
-startDate = "1/-/1999"
+startDate = "1999-1-00"
 endDate = ""
 contributors = ["The 64th Gamer","Documentor","CEC Illinois","Ceclife13","BurgersNuggs445","RedaCEC","2601:81:8500:E190:4D99:3FA7:CB9B:907B"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

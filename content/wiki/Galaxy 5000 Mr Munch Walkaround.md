@@ -2,7 +2,7 @@
 title = "Galaxy 5000 Mr. Munch Walkaround"
 draft = false
 tags = []
-date = "09/16/2022"
+date = "2022-09-16"
 
 [Article]
 startDate = ""

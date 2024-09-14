@@ -2,11 +2,11 @@
 title = "Sun Valley, CA (8357 Laurel Canyon Blvd)"
 draft = false
 tags = ["Store List"]
-date = "06/28/2024"
+date = "2024-06-28"
 
 [Article]
-startDate = "7/-/1980"
-endDate = "7/-/1992"
+startDate = "1980-7-00"
+endDate = "1992-7-00"
 contributors = ["CorrectorMan","CECMadison"]
 gallery = ["Old Sun Valley.jpg|thumb|The site of the old location. (PC: Google Maps)"]
 +++

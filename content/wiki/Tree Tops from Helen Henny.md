@@ -2,7 +2,7 @@
 title = "Tree Tops from Helen Henny"
 draft = false
 tags = ["Showtapes"]
-date = "06/27/2024"
+date = "2024-06-27"
 
 [Article]
 startDate = ""
@@ -25,4 +25,3 @@ The segment was programmed sometime between mid to late 2004 and mid-2005, as th
 #<b> Segment</b> <b>1</b>
 ##Tree Tops
 
-<h2> References </h2>

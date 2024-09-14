@@ -2,7 +2,7 @@
 title = "CEC Legacy Locations"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = "09/07/2024"
+date = "2024-09-07"
 
 [Article]
 startDate = ""
@@ -102,4 +102,3 @@ The <i>Retro Store</i> concept would return later in the survey detailing unique
 <h2>= Springfield, Charlotte, & Hicksville Chosen </h2>=
 Shortly after the decision to keep the Nanuet Studio C stage was released, CEC announced they would be keeping an additional three stages. These being the [CU-1 Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) at [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}}), the 3-Stage at [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}), and the [1-Stage]({{< ref "wiki/1-Stage.md" >}}) at [Hicksville, NY (Delco Plaza 11-15 Hanover Place)]({{< ref "wiki/Hicksville, NY (Delco Plaza 11-15 Hanover Place).md" >}}).<ref>https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/</ref>
 
-<h2> References </h2>

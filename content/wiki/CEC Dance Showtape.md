@@ -2,10 +2,10 @@
 title = "CEC Dance Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "07/01/2024"
+date = "2024-07-01"
 
 [Article]
-startDate = "9/-/1988"
+startDate = "1988-9-00"
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = []

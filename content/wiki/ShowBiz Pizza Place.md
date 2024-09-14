@@ -2,7 +2,7 @@
 title = "ShowBiz Pizza Place"
 draft = false
 tags = []
-date = "08/22/2024"
+date = "2024-08-22"
 
 [Article]
 startDate = ""
@@ -120,4 +120,3 @@ ShowBiz Pizza's legacy & History would inspire the creation of ShowBiz Pizza.com
 |
 |}
 
-<h2> References </h2>

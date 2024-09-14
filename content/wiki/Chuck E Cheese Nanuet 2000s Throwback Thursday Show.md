@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Nanuet 2000s Throwback Thursday Show"
 draft = false
 tags = ["Showtapes"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
 startDate = ""

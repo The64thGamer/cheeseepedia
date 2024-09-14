@@ -2,10 +2,10 @@
 title = "CEC Walkaround Training & Care"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "01/12/2022"
+date = "2022-01-12"
 
 [Article]
-startDate = "10/12/1988"
+startDate = "1988-10-12"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Wewefwefwefffff.png|thumb|414x414px|A shot from the training tape.","Wedwedwedwedd.png|thumb|A Chuck E. costume performer dancing to Chuck E. Cheese Live."]
@@ -31,4 +31,3 @@ Filming of the location was at two different places. The costume wearing, cleani
 
 The actor who cleans and puts on the Chuck costume was <i>Jul Kamen,</i> former Director of Entertainment at CEC Corporate, whom designed the Chuck costume itself. The narrator of the tape is currently unknown.
 
-<h2> References </h2>

@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Mini Wheel"
 draft = false
 tags = ["Arcade Games"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
 startDate = ""
@@ -17,4 +17,3 @@ The <b><i>Pizza Time Theatre Mini Wheel</b></i> is a [Pizza Time Theatre]({{< re
 
 After inserting a quarter, the ride would spin the child in the seat around while playing fair ground music. Only one machine is known to exist, seen at an unknown store. More commonly stores would host the [Pizza Time Theatre Musical Ferris Wheel]({{< ref "wiki/Pizza Time Theatre Musical Ferris Wheel.md" >}}).
 
-<h2> References </h2>

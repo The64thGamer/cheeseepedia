@@ -2,7 +2,7 @@
 title = "Smartee's Pizza Brigade"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/28/2024"
+date = "2024-08-28"
 
 [Article]
 startDate = ""
@@ -38,7 +38,7 @@ Toledo, OH (5211 Renwyck Drive) (Toledo, OH <b>(5211 Renwyck Drive)</b>)
 
 
 
-<h2> References </h2>
+
 https://www.newspapers.com/article/fulton-county-expositor-smartees-pizza/142315252/
 
 https://archive.org/details/428122129-10221299676156203-1243370775018113238-n/427993412_10221299678036250_2011661218243808584_n.jpg

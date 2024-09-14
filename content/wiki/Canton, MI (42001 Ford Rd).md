@@ -2,10 +2,10 @@
 title = "Canton, MI (42001 Ford Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/10/2024"
+date = "2024-05-10"
 
 [Article]
-startDate = "5/3/1988"
+startDate = "1988-5-3"
 endDate = ""
 pageThumbnailFile = "CantonMIExterior2022SeptemberGoogleMaps.png|Street View of the store's Exterior in September 2022 (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","216.125.34.66","CorrectorMan","CEC Tinley","ThatBoiCydalan"]

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Spring Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = "06/21/2024"
+date = "2024-06-21"
 
 [Article]
 startDate = ""
@@ -197,4 +197,3 @@ This is the final physical show to be released in the domestic market due to the
 * Studio C Install CDs and CEC Stage DVDs for this show are blank unlabeled discs with the show name and format stamped onto them. This is because the label maker used to print the disc labels broke partway through production.
 * This is the last show to include a newsletter for store employees.
 
-<h2> References </h2>

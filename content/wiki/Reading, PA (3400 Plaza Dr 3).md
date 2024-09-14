@@ -2,11 +2,11 @@
 title = "Reading, PA (3400 Plaza Dr 3)"
 draft = false
 tags = ["MajorMagic"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "12/6/1982"
-endDate = "-/-/1988"
+startDate = "1982-12-6"
+endDate = "1988-00-00"
 contributors = ["Emcaacme","RedaCEC","The 64th Gamer","AstridMascotFan2005"]
 gallery = []
 +++

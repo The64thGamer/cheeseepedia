@@ -2,10 +2,10 @@
 title = "Waukegan, IL (2211 Grand Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/27/2023"
+date = "2023-05-27"
 
 [Article]
-startDate = "-/-/1983"
+startDate = "1983-00-00"
 endDate = ""
 contributors = ["ShowbizMidwest","2600:1004:B18F:1005:A935:501B:2CAD:B83C","Rexburg090","CEC Tinley"]
 gallery = []
@@ -99,4 +99,3 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 |Unknown.
 |}
 
-<h2>References</h2>

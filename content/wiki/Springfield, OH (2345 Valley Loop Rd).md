@@ -2,10 +2,10 @@
 title = "Springfield, OH (2345 Valley Loop Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "1/12/1983"
+startDate = "1983-1-12"
 endDate = ""
 pageThumbnailFile = "Springfield OH 2.0.jpg|Exterior, 2023"
 contributors = ["Stripes","Documentor","ThatBoiCydalan","CECBowlingGreen","76.219.164.192","RedaCEC","Rexburg090","ChuckfeldStan","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","Bowling for Cheese","162.40.201.9","Cheeseclassic","SuperCreamPiper2008","AstridMascotFan2005"]
@@ -178,4 +178,3 @@ The location's 2.0 Remodel began on July 25, 2022. On October 12, 2022, the loca
 |Unknown
 |}
 
-<h2>References</h2>

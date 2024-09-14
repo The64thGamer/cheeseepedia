@@ -2,7 +2,7 @@
 title = "Gigglebee's"
 draft = false
 tags = ["Animatronic Shows"]
-date = "09/10/2024"
+date = "2024-09-10"
 
 [Article]
 startDate = ""
@@ -226,7 +226,7 @@ Rapid City's Wilbur robot would make an appearance at a foster home in late 2023
 
 
 
-<h2> References </h2>
+
 https://www.facebook.com/wilburthecoyote/posts/pfbid024NdQeGK5Nze1X4i55dxmUV8yUNwHNoYj7Gsyxfh2HakunSfvb8DfSazhbNLdSdvPl
  
 https:<i>web.archive.org/web/20050204170350/http:</i>gigglebees.com/

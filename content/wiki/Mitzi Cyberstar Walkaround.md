@@ -2,7 +2,7 @@
 title = "Mitzi Cyberstar Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = "04/29/2024"
+date = "2024-04-29"
 
 [Article]
 startDate = ""
@@ -22,4 +22,3 @@ The First version was a pretty accurate Mitzi. The way you would be able to see 
 
 The Second version was the one that actually got used. In this version however, Mitzi's face is alot more rounder and her eyes are bigger and blue. Her ears don't stay up like the other one. 
 
-<h2> References </h2>

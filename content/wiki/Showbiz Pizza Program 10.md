@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 10"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""
@@ -34,5 +34,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/Can%27t_Stay_Away_from_You Can’t Stay Away From You]
 # [https://en.wikipedia.org/wiki/No_One_in_the_World No One in the World]
 
-<h2>References</h2>
+
 <references />

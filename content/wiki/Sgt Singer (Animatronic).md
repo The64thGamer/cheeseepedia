@@ -2,7 +2,7 @@
 title = "Sgt. Singer (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
 startDate = ""
@@ -52,7 +52,7 @@ Current known movements are
 
 *
 
-<h2> References </h2>
+
 https://www.instagram.com/p/Cy6jXxYJm_c/?img_index=1 All Okamoto Images were found by Pasq
 
 https://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf (Page 107) Binder including Creative Presentations showing options on how they could retrofit the RAE

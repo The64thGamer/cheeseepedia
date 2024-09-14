@@ -2,11 +2,11 @@
 title = "Milwaukee, WI (7401 Good Hope Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/02/2024"
+date = "2024-08-02"
 
 [Article]
-startDate = "6/17/1981"
-endDate = "-/-/1995"
+startDate = "1981-6-17"
+endDate = "1995-00-00"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:9D23:48AC:1E94:B305","ShowbizMidwest","CEC Tinley","SuperCreamPiper2008","Cheeseclassic","CECMadison","AstridMascotFan2005"]
 gallery = []
 +++

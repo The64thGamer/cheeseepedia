@@ -2,11 +2,11 @@
 title = "Brockton, MA (200 Westgate Dr)"
 draft = false
 tags = ["Store List"]
-date = "04/07/2024"
+date = "2024-04-07"
 
 [Article]
-startDate = "-/-/1993"
-endDate = "4/-/2003"
+startDate = "1993-00-00"
+endDate = "2003-4-00"
 pageThumbnailFile = "Brockton2003.png|The store's exterior in 2003 before closure."
 contributors = ["Rexburg090","2600:4040:5A0C:5900:1158:165B:CC1C:7F0E","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []
@@ -80,5 +80,5 @@ After it's closure as CEC, it would then become part of a Best Buy store which o
 |December 12, 2002
 |}
 
-<h2>References</h2>
+
 <references />

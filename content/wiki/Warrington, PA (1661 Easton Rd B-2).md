@@ -2,10 +2,10 @@
 title = "Warrington, PA (1661 Easton Rd B-2)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "11/30/2004"
+startDate = "2004-11-30"
 endDate = ""
 pageThumbnailFile = "warringtonexterior.jpg|Warrington's exterior with the 2005 Remodel."
 contributors = ["2601:18C:701:2DA0:E51B:159A:13DE:96B5","GabrielPennington9864","Midwestretail","Cheeseclassic","Jaxonia","AstridMascotFan2005"]
@@ -60,5 +60,5 @@ W.I.P
 |-
 |}
 
-<h2>References</h2>
+
 TODO

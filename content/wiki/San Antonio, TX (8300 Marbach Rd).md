@@ -2,11 +2,11 @@
 title = "San Antonio, TX (8300 Marbach Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "2/-/1984"
+startDate = "1983-00-00"
+endDate = "1984-2-00"
 contributors = ["CorrectorManBackup","Rexburg090","BurgersNuggs445","CEC Kokomo","Gostapua210","CECMadison"]
 gallery = []
 +++

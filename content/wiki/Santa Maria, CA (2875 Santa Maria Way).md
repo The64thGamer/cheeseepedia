@@ -2,11 +2,11 @@
 title = "Santa Maria, CA (2875 Santa Maria Way)"
 draft = false
 tags = ["Store List"]
-date = "05/02/2024"
+date = "2024-05-02"
 
 [Article]
-startDate = "5/4/1982"
-endDate = "-/-/1995"
+startDate = "1982-5-4"
+endDate = "1995-00-00"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

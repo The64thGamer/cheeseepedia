@@ -2,7 +2,7 @@
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "06/30/2024"
+date = "2024-06-30"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "1990-1992 APS Floppy Cases"
 draft = false
 tags = ["APS Showtapes"]
-date = "12/25/2023"
+date = "2023-12-25"
 
 [Article]
 startDate = ""

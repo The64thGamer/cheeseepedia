@@ -2,11 +2,11 @@
 title = "Rockville, MD (855 Rockville Pike)"
 draft = false
 tags = ["Store List"]
-date = "04/12/2024"
+date = "2024-04-12"
 
 [Article]
-startDate = "6/-/1981"
-endDate = "-/-/1985"
+startDate = "1981-6-00"
+endDate = "1985-00-00"
 contributors = ["Cheeseclassic","PizzaEntertainmentFanX"]
 gallery = []
 +++
@@ -62,4 +62,3 @@ When they were opened, they only had a [Balcony Stage]({{< ref "wiki/Cyberamics 
 |Unknown
 |}
 
-<h2> References </h2>

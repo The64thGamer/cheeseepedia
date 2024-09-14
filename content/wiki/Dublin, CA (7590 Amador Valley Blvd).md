@@ -2,11 +2,11 @@
 title = "Dublin, CA (7590 Amador Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = "11/03/2023"
+date = "2023-11-03"
 
 [Article]
-startDate = "4/21/1982"
-endDate = "12/-/1985"
+startDate = "1982-4-21"
+endDate = "1985-12-00"
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:F8CC:DE72:BE48:1E81","Tux Chuck"]
 gallery = []
 +++

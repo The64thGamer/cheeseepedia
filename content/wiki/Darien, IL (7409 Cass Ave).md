@@ -2,7 +2,7 @@
 title = "Darien, IL (7409 Cass Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/04/2024"
+date = "2024-08-04"
 
 [Article]
 startDate = ""
@@ -198,5 +198,5 @@ Around 2014, Darien replaced their 90s exterior signage with 2013 signage. Betwe
 |Destroyed. Originally from [Joliet, IL (3250 Chicagoland Circle)]({{< ref "wiki/Joliet, IL (3250 Chicagoland Circle).md" >}}).
 |}
 
-<h2> References </h2>
+
 <references />

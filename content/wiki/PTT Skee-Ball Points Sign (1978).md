@@ -2,7 +2,7 @@
 title = "PTT Skee-Ball Points Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/24/2023"
+date = "2023-08-24"
 
 [Article]
 startDate = ""

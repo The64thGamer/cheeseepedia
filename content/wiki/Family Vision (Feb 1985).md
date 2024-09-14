@@ -2,7 +2,7 @@
 title = "Family Vision (Feb 1985)"
 draft = false
 tags = []
-date = "07/30/2023"
+date = "2023-07-30"
 
 [Article]
 startDate = ""
@@ -51,5 +51,5 @@ The tape's total length and videos used are completely unknown, some may not be 
 
 * The music used in 'Airplane Footage' is called That’s All Folks from Network Music Ensemble<ref>https:<i>www.youtube.com/watch?v=XUckMqkTneo&ab_channel=NetworkMusicEnsemble-Topic</ref> which featured old film footage of a Biplane flying around, not much is known of what else it could have featured as it only lasted roughly 12 seconds.<ref>https:</i>archive.org/details/family-vision-1985</ref>
 
-<h2> References </h2>
+
 <references />

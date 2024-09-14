@@ -2,10 +2,10 @@
 title = "Land Of 1,000 Dances"
 draft = false
 tags = ["Live Shows"]
-date = "02/26/2022"
+date = "2022-02-26"
 
 [Article]
-startDate = "9/-/1991"
+startDate = "1991-9-00"
 endDate = ""
 contributors = ["Documentor"]
 gallery = []

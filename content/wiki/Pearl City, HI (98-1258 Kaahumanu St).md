@@ -2,11 +2,11 @@
 title = "Pearl City, HI (98-1258 Kaahumanu St)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2023"
+date = "2023-07-31"
 
 [Article]
-startDate = "8/7/1982"
-endDate = "-/-/1989"
+startDate = "1982-8-7"
+endDate = "1989-00-00"
 contributors = ["CorrectorMan"]
 gallery = []
 +++

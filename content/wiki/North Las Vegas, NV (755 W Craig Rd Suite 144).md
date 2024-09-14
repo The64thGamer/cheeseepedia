@@ -2,10 +2,10 @@
 title = "North Las Vegas, NV (755 W. Craig Rd Suite 144)"
 draft = false
 tags = ["Store List"]
-date = "06/05/2024"
+date = "2024-06-05"
 
 [Article]
-startDate = "1/19/2024"
+startDate = "2024-1-19"
 endDate = ""
 pageThumbnailFile = "N.LasVegasEXT.png|Exterior (minus the Trampoline Zone signage)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:718E:404C:58AA:C6D7","2600:4040:5A0E:D900:84F9:45E0:83F7:5E32","Captain Cheese IV","ThatBoiCydalan"]
@@ -26,6 +26,6 @@ On January 19th, 2024, the store would have a soft opening, later hosting a Gran
 
 
 
-<h2>References</h2>
+
 
 <references />

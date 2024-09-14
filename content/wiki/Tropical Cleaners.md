@@ -2,7 +2,7 @@
 title = "Tropical Cleaners"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/07/2023"
+date = "2023-05-07"
 
 [Article]
 startDate = ""

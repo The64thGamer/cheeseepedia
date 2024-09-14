@@ -2,7 +2,7 @@
 title = "Moonrockers Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "02/13/2024"
+date = "2024-02-13"
 
 [Article]
 startDate = ""
@@ -52,7 +52,7 @@ On January 18, 2024, the third segment would be played at <b><i>Gulliver's Kingd
 
 
 
-<h2> References </h2>
+
 *
 *
 *

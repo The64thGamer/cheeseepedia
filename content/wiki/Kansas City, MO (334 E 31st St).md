@@ -2,11 +2,11 @@
 title = "Kansas City, MO (334 E 31st St)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
-startDate = "5/24/2018"
-endDate = "2/25/2019"
+startDate = "2018-5-24"
+endDate = "2019-2-25"
 pageThumbnailFile = "RAEbar.png|Exterior (Unknown Year)"
 contributors = ["GhostReplay","The 64th Gamer","BurgersNuggs445"]
 gallery = []

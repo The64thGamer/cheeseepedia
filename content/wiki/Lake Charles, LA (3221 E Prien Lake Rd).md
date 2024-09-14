@@ -2,10 +2,10 @@
 title = "Lake Charles, LA (3221 E Prien Lake Rd)"
 draft = false
 tags = ["Store List"]
-date = "10/15/2023"
+date = "2023-10-15"
 
 [Article]
-startDate = "-/-/2001"
+startDate = "2001-00-00"
 endDate = ""
 pageThumbnailFile = "Lake_Charles_CEC_Exterior_2020.png|Exterior, April 2020"
 contributors = ["173.227.70.59","ThatBoiCydalan"]
@@ -57,5 +57,5 @@ In 2008, the store exterior signage was replaced with the Phase 4 thumb chuck si
 |August 9th, 2018
 |}
 
-<h2>References</h2>
+
 <references />

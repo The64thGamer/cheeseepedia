@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Skateboarding Promo Cup (2003)"
 draft = false
 tags = []
-date = "10/19/2022"
+date = "2022-10-19"
 
 [Article]
 startDate = ""

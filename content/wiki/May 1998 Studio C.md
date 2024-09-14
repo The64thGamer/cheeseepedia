@@ -2,10 +2,10 @@
 title = "May 1998 Studio C"
 draft = false
 tags = ["Showtapes"]
-date = "10/14/2022"
+date = "2022-10-14"
 
 [Article]
-startDate = "5/-/1998"
+startDate = "1998-5-00"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

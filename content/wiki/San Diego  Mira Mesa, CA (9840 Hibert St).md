@@ -2,10 +2,10 @@
 title = "San Diego / Mira Mesa, CA (9840 Hibert St)"
 draft = false
 tags = ["Store List"]
-date = "08/05/2024"
+date = "2024-08-05"
 
 [Article]
-startDate = "1/-/1982"
+startDate = "1982-1-00"
 endDate = ""
 contributors = ["ChuckECool","209.129.28.15","CEC Tinley","Rexburg090","Cheeseclassic","CoolerDude","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []

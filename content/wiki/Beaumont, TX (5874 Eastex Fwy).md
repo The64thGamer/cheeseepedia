@@ -2,11 +2,11 @@
 title = "Beaumont, TX (5874 Eastex Fwy)"
 draft = false
 tags = ["Store List"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
-startDate = "-/-/1982"
-endDate = "11/25/1985"
+startDate = "1982-00-00"
+endDate = "1985-11-25"
 pageThumbnailFile = "desc=Fantasy Forest Arcade (August 19, 1982)|image=Fantasy forest beaumont.png"
 contributors = ["Blowseborg062","The 64th Gamer"]
 gallery = []
@@ -96,4 +96,3 @@ After Beaumont closed in 1985, it's unknown what happened with the store's anima
 
 
 
-<h2> References </h2>

@@ -2,7 +2,7 @@
 title = "Winchester Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = "05/17/2023"
+date = "2023-05-17"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ Due to the later [SongCode Hardware Setup]({{< ref "wiki/SongCode Hardware Setup
 <h2> Live Playback </h2>
 It is unclear how the system, if at all, connected to the [Winchester Control System]({{< ref "wiki/Winchester Control System.md" >}}) for controlling the animatronics. Multiple statements about the programming of the Winchester system vaguely imply that all programming was done in a separate room, blind to visual feedback or any sort of live playback system. Statements about the process being <b>trial and error</b> and having to <b>program to the Teac tape player and run through until everything was synchronized</b><ref>https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre</ref> gives rise to the possibility of it being the only programming system out of the company's history that didn't have access to visual programming.
 
-<h2> References </h2>

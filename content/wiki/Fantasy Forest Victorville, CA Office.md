@@ -2,7 +2,7 @@
 title = "Fantasy Forest Victorville, CA Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "02/16/2024"
+date = "2024-02-16"
 
 [Article]
 startDate = ""
@@ -17,4 +17,3 @@ The <b><i>Fantasy Forest Victorville, CA Office (15367 Tamarack Unit B, Victorvi
 
 The location is commonly referred to as the Mountain View Acres offices, despite being located just outside the designated border of the CDP area.<ref name=':0'>https://www.newspapers.com/image/746118093/?terms=%22Fantasy%20Forest%22&match=1</ref>
 
-<h2> References </h2>

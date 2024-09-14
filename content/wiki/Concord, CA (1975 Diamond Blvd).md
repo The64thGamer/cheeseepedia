@@ -2,11 +2,11 @@
 title = "Concord, CA (1975 Diamond Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/21/2024"
+date = "2024-08-21"
 
 [Article]
 startDate = ""
-endDate = "-/-/1994"
+endDate = "1994-00-00"
 pageThumbnailFile = "Concord 84.png|Showroom, 1984<ref>www.classmates.com</ref>"
 contributors = ["The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","SuperCreamPiper2008","CECMentor","Jaxonia","Douggaming","CECMadison","AstridMascotFan2005"]
 gallery = []
@@ -70,4 +70,3 @@ The store would close in January of 1994 for unknown reasons, being replaced by 
 |[Dolli Dimples (Cabaret)]({{< ref "wiki/Dolli Dimples (Cabaret).md" >}})
 |Unknown
 |}
-<h2>References</h2>

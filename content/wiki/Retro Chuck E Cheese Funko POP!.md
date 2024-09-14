@@ -2,10 +2,10 @@
 title = "Retro Chuck E. Cheese Funko POP!"
 draft = false
 tags = ["Merchandise"]
-date = "05/14/2024"
+date = "2024-05-14"
 
 [Article]
-startDate = "6/6/2023"
+startDate = "2023-6-6"
 endDate = ""
 contributors = ["The 64th Gamer","74.137.220.26"]
 gallery = []
@@ -24,5 +24,5 @@ The design features Avenger Chuck E. Cheese in his complete outfit, shaped in th
 
 
 
-<h2>References</h2>
+
 <references />

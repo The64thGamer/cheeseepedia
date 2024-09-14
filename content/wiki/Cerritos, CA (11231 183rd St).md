@@ -2,10 +2,10 @@
 title = "Cerritos, CA (11231 183rd St)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "9/25/2002"
+startDate = "2002-9-25"
 endDate = ""
 pageThumbnailFile = "Hesperia’s Exterior .jpg|Cerritos's Exterior in Early 2023. (PC: Abnoob Agailby on Google Maps.)"
 contributors = ["2600:1012:B1AA:2DE5:21F3:AAC3:CA95:DB9A","Cheeseclassic","AstridMascotFan2005"]

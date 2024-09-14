@@ -2,7 +2,7 @@
 title = "July 1993 Show"
 draft = false
 tags = ["Showtapes"]
-date = "12/18/2023"
+date = "2023-12-18"
 
 [Article]
 startDate = ""
@@ -88,4 +88,3 @@ The original version of <b>Segment 2</b> was to start with <i>Do You Believe In 
 <h2>Trivia</h2>
 *This was the last show to use the intermission format started with [Working For A Living]({{< ref "wiki/Working For A Living.md" >}})
 
-<h2> References </h2>

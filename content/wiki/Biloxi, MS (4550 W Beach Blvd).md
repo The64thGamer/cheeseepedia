@@ -2,11 +2,11 @@
 title = "Biloxi, MS (4550 W Beach Blvd)"
 draft = false
 tags = ["Store List"]
-date = "05/03/2023"
+date = "2023-05-03"
 
 [Article]
-startDate = "10/-/1983"
-endDate = "10/7/1984"
+startDate = "1983-10-00"
+endDate = "1984-10-7"
 pageThumbnailFile = "Biloxi clip clip.png|Store after closure as 'Showboat Buffet', still using PTT interior. (April 5, 1985)"
 contributors = ["The 64th Gamer","Bowling for Cheese","CEC Tinley"]
 gallery = ["Buffet exterior.png|thumb|319x319px|Showboat Buffet exterior, interior w/ Balcony Stage, and interior w/ buffet (August 10, 1985)"]
@@ -89,4 +89,3 @@ Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycl
 
 
 
-<h2> References </h2>

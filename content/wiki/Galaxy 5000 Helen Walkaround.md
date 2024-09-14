@@ -2,7 +2,7 @@
 title = "Galaxy 5000 Helen Walkaround"
 draft = false
 tags = []
-date = "09/10/2023"
+date = "2023-09-10"
 
 [Article]
 startDate = ""

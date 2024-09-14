@@ -2,10 +2,10 @@
 title = "Beaumont, TX (4180 Dowlen Rd)"
 draft = false
 tags = []
-date = "08/09/2023"
+date = "2023-08-09"
 
 [Article]
-startDate = "6/20/2001"
+startDate = "2001-6-20"
 endDate = ""
 pageThumbnailFile = "Beaumont tx cec exterior.png|Exterior, January 2020"
 contributors = ["Blowseborg062"]
@@ -44,5 +44,5 @@ TODO
 <h2> Videos </h2>
 TODO
 
-<h2> References </h2>
+
 <references />

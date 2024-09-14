@@ -2,7 +2,7 @@
 title = "The Rock-afire Explosion Simulator"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = "11/02/2023"
+date = "2023-11-02"
 
 [Article]
 startDate = ""
@@ -51,4 +51,3 @@ Ten different pledging tiers were given, which ranged from $3 to $2,500.
 <h2>= Funding </h2>=
 Throughout its month long campaign, it would raise $1,140 from 41 backers, with the maximum pledge being of the $80 tier.
 
-<h2> References </h2>

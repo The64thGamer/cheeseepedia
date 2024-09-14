@@ -2,10 +2,10 @@
 title = "San Antonio (Stone Oak), TX (1403 N Loop)"
 draft = false
 tags = ["Store List"]
-date = "05/25/2024"
+date = "2024-05-25"
 
 [Article]
-startDate = "1/8/2002"
+startDate = "2002-1-8"
 endDate = ""
 pageThumbnailFile = "Stoneoak2017.jpg|The exterior in 2017."
 contributors = ["StudioC","Documentor","CECBowlingGreen","Rexburg090","72.76.251.24","ThatBoiCydalan"]

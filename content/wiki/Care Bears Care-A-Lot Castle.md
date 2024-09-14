@@ -2,7 +2,7 @@
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
 startDate = ""
@@ -179,5 +179,5 @@ Hugs and Tugs are baby bear twins, under the care of their beloved Grams, that a
 |June 22, 2022
 |}
 
-<h2> References </h2>
+
 <references />

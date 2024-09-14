@@ -2,10 +2,10 @@
 title = "Beaumont, TX (4180 N Dowlen Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/06/2023"
+date = "2023-08-06"
 
 [Article]
-startDate = "6/-/2001"
+startDate = "2001-6-00"
 endDate = ""
 pageThumbnailFile = "Beaumont tx cec exterior.png|Exterior, January 2020"
 contributors = ["2600:100D:B153:B9EA:F0D1:3E3A:2E78:B201","ThatBoiCydalan"]

@@ -2,10 +2,10 @@
 title = "Takoma Park, MD (1127 University Blvd E)"
 draft = false
 tags = []
-date = "03/30/2024"
+date = "2024-03-30"
 
 [Article]
-startDate = "-/-/2012"
+startDate = "2012-00-00"
 endDate = ""
 pageThumbnailFile = "Takoma Park, MD CEC.jpg|Chuck E. Cheese’s in Takoma Park, MD, 2022"
 contributors = ["PachCEC","The 64th Gamer"]

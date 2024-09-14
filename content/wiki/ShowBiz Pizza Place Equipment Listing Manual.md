@@ -2,7 +2,7 @@
 title = "ShowBiz Pizza Place Equipment Listing Manual"
 draft = false
 tags = ["Documents"]
-date = "08/15/2023"
+date = "2023-08-15"
 
 [Article]
 startDate = ""

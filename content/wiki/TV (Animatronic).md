@@ -2,7 +2,7 @@
 title = "TV (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -45,5 +45,5 @@ All movements are on the Bottom Drawer. This bot only has 4 movements.
 
 
 
-<h2>References</h2>
+
 <references />

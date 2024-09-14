@@ -2,10 +2,10 @@
 title = "Patriotic 1994 Show"
 draft = false
 tags = ["Live Shows"]
-date = "07/22/2023"
+date = "2023-07-22"
 
 [Article]
-startDate = "6/20/1994"
+startDate = "1994-6-20"
 endDate = ""
 contributors = ["Ceclife13","DerekCat","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

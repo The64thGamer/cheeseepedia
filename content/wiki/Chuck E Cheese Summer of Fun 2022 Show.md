@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Summer of Fun 2022 Show"
 draft = false
 tags = ["Live Shows"]
-date = "06/29/2023"
+date = "2023-06-29"
 
 [Article]
 startDate = ""

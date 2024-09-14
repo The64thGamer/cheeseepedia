@@ -2,7 +2,7 @@
 title = "CEC Hanging Tabletop Ad Stand"
 draft = false
 tags = ["Promotional Material"]
-date = "10/08/2023"
+date = "2023-10-08"
 
 [Article]
 startDate = ""

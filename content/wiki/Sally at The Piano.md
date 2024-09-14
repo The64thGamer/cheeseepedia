@@ -2,7 +2,7 @@
 title = "Sally at The Piano"
 draft = false
 tags = ["Animatronic Shows"]
-date = "06/08/2024"
+date = "2024-06-08"
 
 [Article]
 startDate = ""
@@ -43,4 +43,3 @@ Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianoco
 
 
 
-<h2> References </h2>

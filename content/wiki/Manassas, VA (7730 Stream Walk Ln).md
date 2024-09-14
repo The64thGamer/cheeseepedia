@@ -2,10 +2,10 @@
 title = "Manassas, VA (7730 Stream Walk Ln)"
 draft = false
 tags = []
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "3/23/2000"
+startDate = "2000-3-23"
 endDate = ""
 pageThumbnailFile = "Manassas, VA CEC 2.0 Exterior .jpg|Exterior, 2022 (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic"]

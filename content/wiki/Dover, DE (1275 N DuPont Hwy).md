@@ -2,10 +2,10 @@
 title = "Dover, DE (1275 N DuPont Hwy)"
 draft = false
 tags = ["Store List"]
-date = "03/28/2024"
+date = "2024-03-28"
 
 [Article]
-startDate = "12/27/2002"
+startDate = "2002-12-27"
 endDate = ""
 pageThumbnailFile = "Dover Exterior, October 2023.jpg|Exterior, October 2023"
 contributors = ["CorrectorMan","CEC Tinley","Cheeseclassic"]

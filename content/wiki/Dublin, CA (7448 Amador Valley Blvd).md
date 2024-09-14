@@ -2,10 +2,10 @@
 title = "Dublin, CA (7448 Amador Valley Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
-startDate = "8/1/1994"
+startDate = "1994-8-1"
 endDate = ""
 contributors = ["Rexburg090","Dakaraimoore1203","Cheeseclassic","Veronancy"]
 gallery = ["DublinCA.jpg|thumb|Dublin, CA's exterior in 2022."]

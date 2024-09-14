@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese International Holiday Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = "04/04/2024"
+date = "2024-04-04"
 
 [Article]
-startDate = "11/27/2023"
+startDate = "2023-11-27"
 endDate = ""
 contributors = ["Cheeseclassic","Showbiz Pizza International"]
 gallery = []

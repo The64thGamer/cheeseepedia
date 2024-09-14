@@ -2,7 +2,7 @@
 title = "Alameda, CA (2317 Central Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/13/2024"
+date = "2024-05-13"
 
 [Article]
 startDate = ""

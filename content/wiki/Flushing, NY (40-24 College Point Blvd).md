@@ -2,10 +2,10 @@
 title = "Flushing, NY (40-24 College Point Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/19/2023"
+date = "2023-08-19"
 
 [Article]
-startDate = "12/28/2010"
+startDate = "2010-12-28"
 endDate = ""
 contributors = ["66.215.38.213","CEC Kokomo"]
 gallery = ["Flushing.jpg|thumb|Flushing's exterior."]

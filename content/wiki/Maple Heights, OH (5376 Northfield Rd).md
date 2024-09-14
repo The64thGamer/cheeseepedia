@@ -2,11 +2,11 @@
 title = "Maple Heights, OH (5376 Northfield Rd)"
 draft = false
 tags = ["Store List"]
-date = "03/09/2024"
+date = "2024-03-09"
 
 [Article]
-startDate = "11/-/1980"
-endDate = "6/-/1985"
+startDate = "1980-11-00"
+endDate = "1985-6-00"
 pageThumbnailFile = "Maple Heights Ohio CEC PTT Exterior.png|The exterior in 1980"
 contributors = ["199.197.75.185","Cheeseclassic","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
@@ -131,4 +131,3 @@ The location would close sometime in June 1985 For unknown reasons, but likely b
 
 
 
-<h2> References </h2>

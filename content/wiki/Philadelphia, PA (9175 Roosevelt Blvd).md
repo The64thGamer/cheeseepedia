@@ -2,10 +2,10 @@
 title = "Philadelphia, PA (9175 Roosevelt Blvd)"
 draft = false
 tags = ["Store List"]
-date = "05/04/2023"
+date = "2023-05-04"
 
 [Article]
-startDate = "8/8/1982"
+startDate = "1982-8-8"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","CEC Tinley"]
 gallery = []
@@ -122,5 +122,5 @@ In 2021, they received the 2.0 remodel, keeping the Dance Floor & COL Monitor.
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

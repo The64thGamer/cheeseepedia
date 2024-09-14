@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Show 3 2019"
 draft = false
 tags = ["Showtapes"]
-date = "02/16/2024"
+date = "2024-02-16"
 
 [Article]
 startDate = ""

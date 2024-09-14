@@ -2,10 +2,10 @@
 title = "Durham, NC (3724 Mayfair St)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "3/7/1994"
+startDate = "1994-3-7"
 endDate = ""
 pageThumbnailFile = "desc=The current exterior as of June 24, 2023.|image=DurhamExt06242023.jpg"
 contributors = ["RPCEC","Rexburg090","Saan1ty","216.125.34.66","ChuckECool","ChuckfeldStan","174.131.44.53","The 64th Gamer","Caydenpedia","Moonrock","Jaxonia"]

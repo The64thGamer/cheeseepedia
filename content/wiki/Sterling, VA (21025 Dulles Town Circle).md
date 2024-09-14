@@ -2,10 +2,10 @@
 title = "Sterling, VA (21025 Dulles Town Circle)"
 draft = false
 tags = ["Store List"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "7/6/2006"
+startDate = "2006-7-6"
 endDate = ""
 pageThumbnailFile = "Sterling’s Exterior in August 2023.jpg|Exterior, 2023 (PC: Google Maps)"
 contributors = ["66.215.38.213","Cheeseclassic"]

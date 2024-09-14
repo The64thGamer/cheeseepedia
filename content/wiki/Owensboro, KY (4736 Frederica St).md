@@ -2,11 +2,11 @@
 title = "Owensboro, KY (4736 Frederica St)"
 draft = false
 tags = ["Store List"]
-date = "02/12/2024"
+date = "2024-02-12"
 
 [Article]
-startDate = "10/6/1985"
-endDate = "11/-/1995"
+startDate = "1985-10-6"
+endDate = "1995-11-00"
 pageThumbnailFile = "OwensboroSPP.jpeg|Owensboro's exterior as a Showbiz Pizza."
 contributors = ["ChuckECool","173.216.33.6","CEC Tinley","199.197.94.215","SuperCreamPiper2008","Stripes"]
 gallery = []

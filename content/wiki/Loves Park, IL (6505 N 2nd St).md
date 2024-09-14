@@ -2,11 +2,11 @@
 title = "Loves Park, IL (6505 N 2nd St)"
 draft = false
 tags = ["Store List"]
-date = "06/08/2023"
+date = "2023-06-08"
 
 [Article]
-startDate = "11/-/1981"
-endDate = "10/-/1988"
+startDate = "1981-11-00"
+endDate = "1988-10-00"
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = []
 +++

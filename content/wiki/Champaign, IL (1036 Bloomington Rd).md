@@ -2,11 +2,11 @@
 title = "Champaign, IL (1036 Bloomington Rd)"
 draft = false
 tags = ["Store List"]
-date = "03/24/2024"
+date = "2024-03-24"
 
 [Article]
-startDate = "-/-/1984"
-endDate = "12/-/1990"
+startDate = "1984-00-00"
+endDate = "1990-12-00"
 pageThumbnailFile = "Champaign, IL PTT Showbiz Exterior.jpg|Champaign's exterior before closure."
 contributors = ["CEC Kokomo","Saan1ty","Cheeseclassic"]
 gallery = []

@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Boom Box Live Shows"
 draft = false
 tags = ["Live Shows"]
-date = "07/14/2022"
+date = "2022-07-14"
 
 [Article]
-startDate = "1/-/2014"
+startDate = "2014-1-00"
 endDate = ""
 contributors = ["The 64th Gamer","Ceclife13"]
 gallery = []

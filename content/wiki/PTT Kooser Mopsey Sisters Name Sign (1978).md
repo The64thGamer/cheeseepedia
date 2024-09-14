@@ -2,7 +2,7 @@
 title = "PTT Kooser Mopsey Sisters Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/20/2023"
+date = "2023-08-20"
 
 [Article]
 startDate = ""
@@ -28,7 +28,7 @@ On the other hand, the longer, cardboard nameplate seen in the Great All America
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf
 # https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf

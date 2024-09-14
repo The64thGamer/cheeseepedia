@@ -2,7 +2,7 @@
 title = "Opening Team Pin (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = "04/21/2023"
+date = "2023-04-21"
 
 [Article]
 startDate = ""

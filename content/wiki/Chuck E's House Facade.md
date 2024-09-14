@@ -2,7 +2,7 @@
 title = "Chuck E.'s House Facade"
 draft = false
 tags = ["Stage Variations"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
 startDate = ""
@@ -423,6 +423,6 @@ Some installations had a live stage instead of the lattice (some had the distinc
 |1993/1994
 |}
 
-<h2>References</h2>
+
 
 <references />

@@ -2,11 +2,11 @@
 title = "Abilene, TX (4220 N 1st St)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "11/23/1981"
-endDate = "-/-/1984"
+startDate = "1981-11-23"
+endDate = "1984-00-00"
 contributors = ["CEC Kokomo","CEC Tinley","AstridMascotFan2005"]
 gallery = ["Abilene's PTT.jpg|thumb|The site of the Abilene Pizza Time Theatre in 2013."]
 +++

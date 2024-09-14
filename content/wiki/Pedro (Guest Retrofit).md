@@ -2,7 +2,7 @@
 title = "Pedro (Guest Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "05/16/2023"
+date = "2023-05-16"
 
 [Article]
 startDate = ""
@@ -28,5 +28,5 @@ During the holiday season, Jungle Jim's has Pedro sing holiday songs. It is curr
 
 
 
-<h2> References </h2>
+
 <references />

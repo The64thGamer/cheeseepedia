@@ -2,7 +2,7 @@
 title = "Kansas City, MO (2726 NE Vivion Rd)"
 draft = false
 tags = []
-date = "06/21/2024"
+date = "2024-06-21"
 
 [Article]
 startDate = ""
@@ -249,5 +249,5 @@ Originally when the store first opened as a Showbiz Pizza Place, they had the [W
 
 
 
-<h2>References</h2>
+
 <references />

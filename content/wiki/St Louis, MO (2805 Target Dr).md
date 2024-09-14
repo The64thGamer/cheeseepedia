@@ -2,11 +2,11 @@
 title = "St. Louis, MO (2805 Target Dr)"
 draft = false
 tags = ["Store List"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
-endDate = "-/-/2006"
+endDate = "2006-00-00"
 pageThumbnailFile = "desc=A front view of the store's exterior before closure.|image=FullExteriorBeforeClosure.jpg"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","RedaCEC","CorrectorMan"]
 gallery = []
@@ -117,5 +117,5 @@ After they closed in Spring 2006, they were abandoned for a little bit as they w
 |August 13th, 1991
 |}
 
-<h2>References</h2>
+
 <references />

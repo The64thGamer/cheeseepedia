@@ -2,7 +2,7 @@
 title = "3-Stage Command Format"
 draft = false
 tags = []
-date = "09/14/2022"
+date = "2022-09-14"
 
 [Article]
 startDate = ""

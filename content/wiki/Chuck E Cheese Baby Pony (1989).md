@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese Baby Pony (1989)"
 draft = false
 tags = ["Merchandise"]
-date = "05/15/2024"
+date = "2024-05-15"
 
 [Article]
-startDate = "-/-/1989"
+startDate = "1989-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","Tux Chuck"]
 gallery = []
@@ -24,4 +24,3 @@ Like most of the Generation 1 ponies, a metal washer was used to hold the tail i
 
 
 
-<h2> References </h2>

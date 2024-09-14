@@ -2,10 +2,10 @@
 title = "Tacoma, WA (4911 Tacoma Mall Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "11/-/1983"
+startDate = "1983-11-00"
 endDate = ""
 contributors = ["ChuckECool","RedaCEC","ChuckEPediaIsTheBest!","Rexburg090","ChuckfeldStan","2600:4040:59F9:8000:88FB:E9C2:80B5:DF44","38.49.94.191","CEC Tinley","69.67.86.197","Cecnj98","CorrectorMan","Jonn","SuperCreamPiper2008","Cheeseclassic"]
 gallery = ["Tacoma, WA.jpg|thumb|Tacoma's exterior in Fall 2018. (PC: Google Maps)"]

@@ -2,11 +2,11 @@
 title = "Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"
 draft = false
 tags = ["Store List"]
-date = "09/01/2024"
+date = "2024-09-01"
 
 [Article]
-startDate = "-/-/1996"
-endDate = "-/-/2016"
+startDate = "1996-00-00"
+endDate = "2016-00-00"
 pageThumbnailFile = "Exterior-of-zona-9-s.jpg|Exterior of Zona 9"
 contributors = ["BurgersNuggs445","ChuckECool","Rexburg090","168.69.254.246","2601:840:8701:1300:918E:726B:26A3:574E","Melrosefool2763","Saan1ty","Caydenpedia","AstridMascotFan2005","Showbiz Pizza International"]
 gallery = []
@@ -288,5 +288,5 @@ Identified machines before closure.
 |Unknown.
 |}
 
-<h2>References</h2>
+
 <references />

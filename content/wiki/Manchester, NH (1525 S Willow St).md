@@ -2,10 +2,10 @@
 title = "Manchester, NH (1525 S Willow St)"
 draft = false
 tags = ["Store List"]
-date = "09/10/2024"
+date = "2024-09-10"
 
 [Article]
-startDate = "8/-/1982"
+startDate = "1982-8-00"
 endDate = ""
 pageThumbnailFile = "Manchester 2.0.jpg|Exterior with 2.0 remodel, April 2024 (PC: dmckill on Instagram)"
 contributors = ["ChuckECool","Rexburg090","2601:191:8580:9F90:D5:F4D2:CFD1:DB8D","2601:191:8580:9F90:1DD1:B54A:12E:6139","CECCheese","Cheeseclassic","The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E","66.250.190.28","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004","CEC1988"]
@@ -159,6 +159,6 @@ Birthday Extravaganza 1990, Land of 1,000 Dances/Chuck E's Place
 <h2>Gallery </h2>
 
 
-<h2>References</h2>
+
 
 <references />

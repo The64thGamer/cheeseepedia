@@ -2,7 +2,7 @@
 title = "Small Chuck E. Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "04/23/2023"
+date = "2023-04-23"
 
 [Article]
 startDate = ""
@@ -42,5 +42,5 @@ A new detail being added was a large yellow star on Chuck E.'s cap, which was ap
 
 
 
-<h2>References</h2>
+
 <references />

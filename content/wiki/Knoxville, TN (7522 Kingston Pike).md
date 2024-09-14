@@ -2,11 +2,11 @@
 title = "Knoxville, TN (7522 Kingston Pike)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "8/23/1982"
-endDate = "-/-/1997"
+startDate = "1982-8-23"
+endDate = "1997-00-00"
 pageThumbnailFile = "Barboursville.png|thumb"
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
 gallery = []
@@ -83,5 +83,5 @@ After closure, the store was demolished for Texas Roadhouse. As of April 2023, T
 |Unknown.
 |}
 
-<h2> References </h2>
+
 <references />

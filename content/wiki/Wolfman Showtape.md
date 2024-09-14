@@ -2,7 +2,7 @@
 title = "Wolfman Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "05/06/2024"
+date = "2024-05-06"
 
 [Article]
 startDate = ""
@@ -35,4 +35,3 @@ The <b><i>Wolfman Showtape</b></i> is a currently lost showtape that played in t
 # <b>Segment 10</b>
 ##???
 
-<h2> References </h2>

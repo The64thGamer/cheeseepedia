@@ -2,10 +2,10 @@
 title = "Alexandria, VA (6301 Richmond Hwy)"
 draft = false
 tags = ["Store List"]
-date = "06/05/2024"
+date = "2024-06-05"
 
 [Article]
-startDate = "11/20/2010"
+startDate = "2010-11-20"
 endDate = ""
 pageThumbnailFile = "AlexandriaVACEC2.0Exterior.png|Exterior as of August 2023"
 contributors = ["66.215.38.213","CEC Kokomo","ThatBoiCydalan","Cecfan2004","Cecanddisneyfan2004"]

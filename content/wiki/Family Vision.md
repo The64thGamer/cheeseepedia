@@ -2,7 +2,7 @@
 title = "Family Vision"
 draft = false
 tags = []
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
 startDate = ""
@@ -376,4 +376,3 @@ September 20th, 2017
 |
 |}
 
-<h2> References </h2>

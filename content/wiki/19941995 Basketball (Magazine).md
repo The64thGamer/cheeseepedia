@@ -2,10 +2,10 @@
 title = "1994/1995 Basketball (Magazine)"
 draft = false
 tags = []
-date = "08/28/2022"
+date = "2022-08-28"
 
 [Article]
-startDate = "-/-/1994"
+startDate = "1994-00-00"
 endDate = ""
 contributors = ["Documentor"]
 gallery = ["Basketballposter.jpg|thumb|Basketball magazine poster"]

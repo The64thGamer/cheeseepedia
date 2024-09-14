@@ -2,11 +2,11 @@
 title = "York, PA (351 Loucks Rd)"
 draft = false
 tags = ["Store List"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "8/23/1983"
-endDate = "2/19/1984"
+startDate = "1983-8-23"
+endDate = "1984-2-19"
 pageThumbnailFile = "york_pa_PTT_exterior_before_closure.png|Exterior before the store's closure"
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 gallery = []

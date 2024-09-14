@@ -2,10 +2,10 @@
 title = "Ocala, FL (3500 SW College Rd)"
 draft = false
 tags = ["Store List"]
-date = "10/05/2023"
+date = "2023-10-05"
 
 [Article]
-startDate = "4/26/2005"
+startDate = "2005-4-26"
 endDate = ""
 contributors = ["The 64th Gamer","47.17.236.200","NintendoCraft","2600:4040:24D1:BB00:142E:FB0A:A083:3F49"]
 gallery = []

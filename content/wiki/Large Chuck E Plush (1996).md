@@ -2,7 +2,7 @@
 title = "Large Chuck E. Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
 startDate = ""
@@ -42,5 +42,5 @@ There aren't many differences between this plush and its smaller size. Everythin
 
 
 
-<h2>References</h2>
+
 <references />

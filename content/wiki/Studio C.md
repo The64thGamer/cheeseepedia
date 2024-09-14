@@ -2,10 +2,10 @@
 title = "Studio C"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/12/2024"
+date = "2024-08-12"
 
 [Article]
-startDate = "-/-/1997"
+startDate = "1997-00-00"
 endDate = ""
 pageThumbnailFile = "Studio-C Plano.png|Studio 'C' (1997) in Plano, TX (1999/2000)"
 contributors = ["The Nonfictional Explainer","Sponch man","Himitsu","The 64th Gamer","Chouts1","CECBowlingGreen","BurgersNuggs445","Stripes","Jaxon11","Documentor","Mr afton","Ceclife13","EagleScout610","AstridMascotFan2005","ItaintObeeezy","Avabeckley","Livelycheese"]

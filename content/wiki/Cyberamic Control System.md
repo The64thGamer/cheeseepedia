@@ -2,7 +2,7 @@
 title = "Cyberamic Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "07/08/2024"
+date = "2024-07-08"
 
 [Article]
 startDate = ""
@@ -81,6 +81,6 @@ The Valve Bank Card is a card external to the Cyberamic Control System that woul
 
 
 
-<h2>References</h2>
+
 
 <references />

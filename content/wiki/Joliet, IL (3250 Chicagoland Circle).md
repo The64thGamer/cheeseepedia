@@ -2,10 +2,10 @@
 title = "Joliet, IL (3250 Chicagoland Circle)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "1/29/2007"
+startDate = "2007-1-29"
 endDate = ""
 pageThumbnailFile = "JolietILExteriorOctober2022GoogleMaps.png|Street View of the the store's exterior in October 2022 (PC: Google Maps)"
 contributors = ["Rexburg090","The 64th Gamer","ShowbizMidwest","CoolerDude"]

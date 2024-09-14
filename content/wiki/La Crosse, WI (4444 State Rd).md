@@ -2,10 +2,10 @@
 title = "La Crosse, WI (4444 State Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "12/15/1982"
+startDate = "1982-12-15"
 endDate = ""
 pageThumbnailFile = "585CF44B-DD79-4074-921E-B92752F728FA.jpg|Exterior, September 2022"
 contributors = ["ChuckECool","ShowbizMidwest","47.17.236.200","ThatBoiCydalan","66.250.190.24","John95","AstridMascotFan2005"]

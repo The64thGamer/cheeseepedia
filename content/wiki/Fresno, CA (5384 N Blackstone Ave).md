@@ -2,11 +2,11 @@
 title = "Fresno, CA (5384 N Blackstone Ave)"
 draft = false
 tags = ["Store List"]
-date = "09/30/2023"
+date = "2023-09-30"
 
 [Article]
-startDate = "-/-/1980"
-endDate = "-/-/1985"
+startDate = "1980-00-00"
+endDate = "1985-00-00"
 pageThumbnailFile = "Fresno King 1984.png|Lounge Area (May 6, 1984)"
 contributors = ["The 64th Gamer","2600:4040:5A0E:D900:80EC:F561:38B:60E"]
 gallery = []
@@ -79,4 +79,3 @@ The location would later close in May of 1985.<ref name=':0' />
 
 
 
-<h2> References </h2>

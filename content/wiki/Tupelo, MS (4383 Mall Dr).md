@@ -2,10 +2,10 @@
 title = "Tupelo, MS (4383 Mall Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/02/2024"
+date = "2024-08-02"
 
 [Article]
-startDate = "4/-/2008"
+startDate = "2008-4-00"
 endDate = ""
 pageThumbnailFile = "Tupelo’s Exterior 2021.jpg|Exterior, 2021 (PC: LoopNet)"
 contributors = ["47.17.236.200","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]

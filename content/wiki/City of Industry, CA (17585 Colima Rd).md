@@ -2,7 +2,7 @@
 title = "City of Industry, CA (17585 Colima Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
 startDate = ""

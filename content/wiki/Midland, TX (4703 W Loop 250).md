@@ -2,10 +2,10 @@
 title = "Midland, TX (4703 W Loop 250)"
 draft = false
 tags = ["Store List"]
-date = "11/15/2023"
+date = "2023-11-15"
 
 [Article]
-startDate = "10/2/2000"
+startDate = "2000-10-2"
 endDate = ""
 pageThumbnailFile = "desc=A shot of this location's exterior before getting the 2.0 remodel.|image=MidlandTXExteriorBefore2.0.jpg"
 contributors = ["ChuckEPediaIsTheBest!","ThatBoiCydalan","CorrectorMan","CEC Tinley","Tux Chuck"]

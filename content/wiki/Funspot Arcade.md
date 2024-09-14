@@ -2,7 +2,7 @@
 title = "Funspot Arcade"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
 startDate = ""
@@ -58,4 +58,3 @@ There are more locations than what is known. It is known one arcade was installe
 |N/A
 |}
 
-<h2> References </h2>

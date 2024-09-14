@@ -2,7 +2,7 @@
 title = "Casting a New Latex Mold"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = "05/19/2023"
+date = "2023-05-19"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ The following is the former official formula used for the masks of Rolfe, Dook, 
 
 To rubberize paint, mix 1 part paint to 1¼ part latex rubber.</blockquote>
 
-<h2> References </h2>

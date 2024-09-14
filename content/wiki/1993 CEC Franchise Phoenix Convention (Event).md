@@ -2,7 +2,7 @@
 title = "1993 CEC Franchise Phoenix Convention (Event)"
 draft = false
 tags = ["Events"]
-date = "12/18/2023"
+date = "2023-12-18"
 
 [Article]
 startDate = ""
@@ -23,4 +23,3 @@ The convention would host a [https:<i>en.wikipedia.org/wiki/Industrial_musical i
 
 
 
-<h2> References </h2>

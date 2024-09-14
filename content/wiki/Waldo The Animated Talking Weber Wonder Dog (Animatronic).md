@@ -2,7 +2,7 @@
 title = "Waldo The Animated Talking Weber Wonder Dog (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/27/2024"
+date = "2024-02-27"
 
 [Article]
 startDate = ""
@@ -25,4 +25,3 @@ The Waldo animatronic was an animatronic produced for <b>Weber</b> by <b>Creativ
 
 
 
-<h2>References</h2>

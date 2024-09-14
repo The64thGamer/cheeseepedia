@@ -2,7 +2,7 @@
 title = "PTT 'A' Challenger Night Flyer (1984)"
 draft = false
 tags = []
-date = "06/03/2023"
+date = "2023-06-03"
 
 [Article]
 startDate = ""

@@ -2,11 +2,11 @@
 title = "North Las Vegas, NV (2520 E Lake Mead Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/09/2024"
+date = "2024-08-09"
 
 [Article]
-startDate = "10/-/1982"
-endDate = "-/-/1984"
+startDate = "1982-10-00"
+endDate = "1984-00-00"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","Tux Chuck","AstridMascotFan2005"]
 gallery = []
 +++

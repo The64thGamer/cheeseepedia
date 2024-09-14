@@ -2,7 +2,7 @@
 title = "Bubble Wrap (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = "11/03/2022"
+date = "2022-11-03"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Sketch Book"
 draft = false
 tags = ["Arcade Games"]
-date = "10/27/2023"
+date = "2023-10-27"
 
 [Article]
 startDate = ""
@@ -36,5 +36,5 @@ Many parts from the unit can be purchased from [https://www.icegame.com/category
 
 
 
-<h2>References</h2>
+
 <references />

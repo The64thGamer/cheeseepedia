@@ -2,11 +2,11 @@
 title = "West Palm Beach, FL (4646 Okeechobee Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/16/2024"
+date = "2024-07-16"
 
 [Article]
-startDate = "12/18/1990"
-endDate = "12/-/2004"
+startDate = "1990-12-18"
+endDate = "2004-12-00"
 pageThumbnailFile = "Westpalmbeachwhenopen.jpg|Exterior, Year Unknown (PC: Unknown)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","CorrectorMan","CEC Tinley","Cecnj98","ThatBoiCydalan","Cheeseclassic"]
 gallery = []

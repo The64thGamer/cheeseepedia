@@ -2,10 +2,10 @@
 title = "Jacksonville, FL (9820 Atlantic Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/17/2024"
+date = "2024-07-17"
 
 [Article]
-startDate = "-/-/1980"
+startDate = "1980-00-00"
 endDate = ""
 pageThumbnailFile = "JacksonvilleAtlanticFL2.0Exterior.png|Photo of the 2.0 exterior in April 2023 (PC: Chuck E. Cheese Jacksonville)"
 contributors = ["Rexburg090","Emcaacme","Awesome Dawson Films YT","RedaCEC","SuperCreamPiper2008","ThatBoiCydalan","2600:4040:5A0C:5900:C146:5FEF:315A:1C1B","BurgersNuggs445","64.125.60.2","ShowbizMidwest","ChuckECool","ChuckfeldStan","Agent 5","Stripes","AstridMascotFan2005"]

@@ -2,10 +2,10 @@
 title = "Mitzie (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/04/2023"
+date = "2023-07-04"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 contributors = ["BurgersNuggs445"]
 gallery = []
@@ -31,5 +31,5 @@ Mitzi is seen in the same red dress seen in the original movie poster with a hai
 
 
 
-<h2>References</h2>
+
 <references />

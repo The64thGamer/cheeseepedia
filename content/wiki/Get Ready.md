@@ -2,10 +2,10 @@
 title = "Get Ready"
 draft = false
 tags = ["Live Shows"]
-date = "07/14/2022"
+date = "2022-07-14"
 
 [Article]
-startDate = "4/1/1997"
+startDate = "1997-4-1"
 endDate = ""
 contributors = ["StudioC"]
 gallery = []

@@ -2,10 +2,10 @@
 title = "Bowling Green, KY (2625 Scottsville Rd)"
 draft = false
 tags = ["Store List"]
-date = "12/08/2023"
+date = "2023-12-08"
 
 [Article]
-startDate = "4/27/2004"
+startDate = "2004-4-27"
 endDate = ""
 contributors = ["CECBowlingGreen","Rexburg090","170.185.215.34","CECKentucky","ChuckEPediaIsTheBest!","CECFan2023","SuperCreamPiper2008"]
 gallery = ["CECBowlingGreenSeptember2022.jpg|thumb|Bowling Green's exterior after their 2.0 Remodel. Taken September 23, 2022. Picture Credit to [[User:CECBowlingGreen|CECBowlingGreen"]
@@ -88,4 +88,3 @@ NOTE: TODO
 |
 |}
 
-<h2> References </h2>

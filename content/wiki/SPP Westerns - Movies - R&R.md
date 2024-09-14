@@ -2,7 +2,7 @@
 title = "SPP Westerns - Movies - R&R"
 draft = false
 tags = ["Showtapes"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
 startDate = ""
@@ -80,5 +80,5 @@ It is currently unknown the order of the videos in this Family Vision tape, thou
 ### [https://en.wikipedia.org/wiki/I_Get_Around I Get Around]
 ### [https://en.wikipedia.org/wiki/Fun,_Fun,_Fun Fun, Fun, Fun]
 
-<h2> References </h2>
+
 <references />

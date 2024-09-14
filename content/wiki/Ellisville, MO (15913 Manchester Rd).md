@@ -2,10 +2,10 @@
 title = "Ellisville, MO (15913 Manchester Rd)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "8/21/1990"
+startDate = "1990-8-21"
 endDate = ""
 pageThumbnailFile = "desc=Exterior, 2017|image=EllisvilleMOExterior.jpg"
 contributors = ["ChuckECool","Midwestretail","ThatBoiCydalan","ShowbizMidwest","216.125.34.66","72.76.251.24","97.91.168.214","Documentor","Stripes"]
@@ -97,5 +97,5 @@ In 2005-2006, the 1-Stage was replaced by the Studio C Cappa and would stay unti
 |Ellisville today with random mode Studio C Cappa
 |May 2023
 |}
-<h2>References</h2>
+
 TODO

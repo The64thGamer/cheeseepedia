@@ -2,10 +2,10 @@
 title = "1999 Hockey Sign"
 draft = false
 tags = []
-date = "12/28/2022"
+date = "2022-12-28"
 
 [Article]
-startDate = "-/-/1999"
+startDate = "1999-00-00"
 endDate = ""
 contributors = ["ArtieAntlers","The 64th Gamer"]
 gallery = ["Hockeysign.jpg|thumb|Hockey sign"]

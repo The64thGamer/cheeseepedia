@@ -2,11 +2,11 @@
 title = "Tallahassee, FL (1155 Apalachee Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "06/19/2024"
+date = "2024-06-19"
 
 [Article]
-startDate = "8/9/1982"
-endDate = "11/18/1984"
+startDate = "1982-8-9"
+endDate = "1984-11-18"
 contributors = ["CEC Kokomo","CEC Tinley","NintendoCraft"]
 gallery = ["Ptt talahassee.jpg|thumb|Tallahassee's exterior after becoming Dollar Tree."]
 +++

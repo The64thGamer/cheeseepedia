@@ -2,11 +2,11 @@
 title = "San Antonio, TX (8507 McCullough Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/11/2024"
+date = "2024-07-11"
 
 [Article]
-startDate = "8/-/1981"
-endDate = "-/-/1984"
+startDate = "1981-8-00"
+endDate = "1984-00-00"
 contributors = ["Gostapua210"]
 gallery = []
 +++

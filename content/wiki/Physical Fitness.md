@@ -2,10 +2,10 @@
 title = "Physical Fitness"
 draft = false
 tags = ["Live Shows"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["DerekCat","Studio 18 Ent","Ceclife13","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

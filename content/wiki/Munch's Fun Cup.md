@@ -2,7 +2,7 @@
 title = "Munch's Fun Cup"
 draft = false
 tags = ["Promotional Material"]
-date = "01/20/2023"
+date = "2023-01-20"
 
 [Article]
 startDate = ""

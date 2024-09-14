@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Awesome Tune Tracks"
 draft = false
 tags = ["Merchandise"]
-date = "04/27/2023"
+date = "2023-04-27"
 
 [Article]
-startDate = "-/-/1996"
+startDate = "1996-00-00"
 endDate = ""
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer"]
 gallery = []
@@ -81,6 +81,6 @@ The back of the box and cassette are the track lists included inside.
 
 
 
-<h2>References</h2>
+
 
 <references />

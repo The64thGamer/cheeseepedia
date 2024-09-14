@@ -2,10 +2,10 @@
 title = "Richmond, VA (9030 Broad St)"
 draft = false
 tags = ["Store List"]
-date = "04/03/2024"
+date = "2024-04-03"
 
 [Article]
-startDate = "3/4/1999"
+startDate = "1999-3-4"
 endDate = ""
 contributors = ["CorrectorMan","2600:1012:B11C:86AB:20BA:B121:8DCD:DBB","TheChuckECheeseGuy","CEC Tinley","Cy's Junk at School"]
 gallery = ["Henrico.jpg|thumb|Broad St.'s exterior in 2011."]

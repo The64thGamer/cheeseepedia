@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Face Painting Crayons (2003)"
 draft = false
 tags = []
-date = "10/25/2022"
+date = "2022-10-25"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Sente Technologies Sunnyvale, CA R&D Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/23/2022"
+date = "2022-08-23"
 
 [Article]
 startDate = ""

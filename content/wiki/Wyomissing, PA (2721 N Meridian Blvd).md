@@ -2,10 +2,10 @@
 title = "Wyomissing, PA (2721 N Meridian Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/04/2024"
+date = "2024-07-04"
 
 [Article]
-startDate = "12/20/2000"
+startDate = "2000-12-20"
 endDate = ""
 contributors = ["Cheezy","2600:4040:5A0E:D900:FDEA:32BF:D52B:CD81","Caydenpedia","Livelycheese"]
 gallery = ["Wyomissing, PA Exterior.png|thumb|Wyomissing Exterior (July 2024)"]
@@ -61,5 +61,5 @@ TODO
 <h2> Videos </h2>
 TODO
 
-<h2> References </h2>
+
 <references />

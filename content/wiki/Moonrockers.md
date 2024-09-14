@@ -2,7 +2,7 @@
 title = "Moonrockers"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/25/2024"
+date = "2024-05-25"
 
 [Article]
 startDate = ""
@@ -64,4 +64,3 @@ Most recently, as preparations for the move to the [Creative Engineering Museum]
 * The Moonrocker's songs were designed with missing lyrics in order to have someone perform alongside them.
 * Ozone's boots use the same mold as Dook's
 
-<h2> References </h2>

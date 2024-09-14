@@ -2,7 +2,7 @@
 title = "St. Louis River Revue"
 draft = false
 tags = ["Animatronic Shows"]
-date = "04/18/2024"
+date = "2024-04-18"
 
 [Article]
 startDate = ""
@@ -71,5 +71,5 @@ Not much info is available, but they were likely similar to Fifi La Mue from The
 
 
 
-<h2> References </h2>
+
 https://youtu.be/b_L3v3LnhPk?t=242

@@ -2,10 +2,10 @@
 title = "Southgate, MI (15300 Toledo Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/24/2024"
+date = "2024-07-24"
 
 [Article]
-startDate = "6/17/1982"
+startDate = "1982-6-17"
 endDate = ""
 pageThumbnailFile = "desc=Exterior (2018)|image=Southgate2018GoogleMapsScreenshot.jpeg"
 contributors = ["ChuckECool","Rexburg090","174.131.44.53","ItAllStartsHereYT","The 64th Gamer"]
@@ -116,5 +116,5 @@ Currently, as of August 2023, Southgate still has their 2019 Model Dance Floor.
 |May 4, 2024
 |}
 
-<h2> References </h2>
+
 <references />TODO

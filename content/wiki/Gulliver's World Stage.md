@@ -2,7 +2,7 @@
 title = "Gulliver's World Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "05/29/2024"
+date = "2024-05-29"
 
 [Article]
 startDate = ""

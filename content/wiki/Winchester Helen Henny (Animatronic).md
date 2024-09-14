@@ -2,7 +2,7 @@
 title = "Winchester Helen Henny (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/23/2024"
+date = "2024-05-23"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ The fate of Winchester Helen is unknown as no photos of The Bot at [Sunnyvale]({
 <h2>Design</h2>
 The Bot had long brown hair, brown eyes, yellow hands with red painted fingernails, a black necklace with a gold medallion, and wears a white shirt with a purple vest over it.
 
-<h2>References</h2>

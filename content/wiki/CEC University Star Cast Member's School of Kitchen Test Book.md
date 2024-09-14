@@ -2,7 +2,7 @@
 title = "CEC University: Star Cast Member's School of Kitchen Test Book"
 draft = false
 tags = []
-date = "10/17/2022"
+date = "2022-10-17"
 
 [Article]
 startDate = ""

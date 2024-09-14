@@ -2,11 +2,11 @@
 title = "Fredericksburg, VA (1280 Central Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "7/23/2021"
-endDate = "5/29/2020"
+startDate = "2021-7-23"
+endDate = "2020-5-29"
 pageThumbnailFile = "FredericksburgVA EXT.jpg|Fredericksburg's 2.0 exterior taken shortly after reopening on August 3, 2021"
 contributors = ["CECBowlingGreen","216.125.34.66","ChuckECool","CEC Tinley","47.17.236.200","Noahrbxt","2600:1700:B6B0:1790:DD25:B858:FAC0:3E84","Captain Cheese IV","Cheeseclassic"]
 gallery = []

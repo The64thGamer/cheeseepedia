@@ -2,7 +2,7 @@
 title = "SPP Curtain Cont Bypass"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "12/18/2023"
+date = "2023-12-18"
 
 [Article]
 startDate = ""

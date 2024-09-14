@@ -2,7 +2,7 @@
 title = "PTT Winchester Helen Henny Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/22/2023"
+date = "2023-08-22"
 
 [Article]
 startDate = ""
@@ -27,6 +27,6 @@ Like the other Winchester nameplates, Helen Hennys nameplate used a rounded, bro
 
 
 
-<h2> References </h2>
+
 
 # https://youtu.be/disxmA5uJPs

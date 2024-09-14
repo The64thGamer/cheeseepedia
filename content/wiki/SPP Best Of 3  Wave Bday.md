@@ -2,7 +2,7 @@
 title = "SPP Best Of 3 / Wave Bday"
 draft = false
 tags = ["Showtapes"]
-date = "12/17/2023"
+date = "2023-12-17"
 
 [Article]
 startDate = ""

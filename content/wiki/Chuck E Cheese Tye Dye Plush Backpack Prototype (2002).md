@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Tye Dye Plush Backpack Prototype (2002)"
 draft = false
 tags = ["Merchandise"]
-date = "06/03/2022"
+date = "2022-06-03"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Cyberamics Reel"
 draft = false
 tags = ["Showtape Formats"]
-date = "12/07/2022"
+date = "2022-12-07"
 
 [Article]
 startDate = ""

@@ -2,11 +2,11 @@
 title = "Sioux Falls, SD (519 S Minnesota Ave)"
 draft = false
 tags = []
-date = "08/28/2024"
+date = "2024-08-28"
 
 [Article]
-startDate = "7/26/1986"
-endDate = "7/3/2008"
+startDate = "1986-7-26"
+endDate = "2008-7-3"
 contributors = ["Lelmaster"]
 gallery = []
 +++

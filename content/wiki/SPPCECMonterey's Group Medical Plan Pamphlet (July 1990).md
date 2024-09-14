@@ -2,7 +2,7 @@
 title = "SPP/CEC/Monterey's Group Medical Plan Pamphlet (July 1990)"
 draft = false
 tags = ["Documents"]
-date = "02/15/2024"
+date = "2024-02-15"
 
 [Article]
 startDate = ""
@@ -20,4 +20,3 @@ The document is currently lost media, with only its front cover and pages 22-23 
 
 
 
-<h2> References </h2>

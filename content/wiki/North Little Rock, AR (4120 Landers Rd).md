@@ -2,10 +2,10 @@
 title = "North Little Rock, AR (4120 Landers Rd)"
 draft = false
 tags = ["Store List"]
-date = "06/14/2024"
+date = "2024-06-14"
 
 [Article]
-startDate = "10/27/1983"
+startDate = "1983-10-27"
 endDate = ""
 pageThumbnailFile = "desc=Street view of the exterior in May 2022 (PC: Google Maps)|image=Exterior2022MayGoogleMaps.png"
 contributors = ["RedaCEC","ChuckECool","Rexburg090","ThatBoiCydalan","CECFayetteville15"]

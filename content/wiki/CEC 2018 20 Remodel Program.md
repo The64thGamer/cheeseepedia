@@ -2,7 +2,7 @@
 title = "CEC 2018 2.0 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = "07/03/2024"
+date = "2024-07-03"
 
 [Article]
 startDate = ""
@@ -423,5 +423,5 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 *[Virginia Beach, VA (2699 Lishelle Place)]({{< ref "wiki/Virginia Beach, VA (2699 Lishelle Place).md" >}})
 *[Winchester, VA (145 E Tevis St)]({{< ref "wiki/Winchester, VA (145 E Tevis St).md" >}})
 
-<h2> References </h2>
+
 <references />

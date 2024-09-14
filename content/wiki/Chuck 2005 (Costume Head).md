@@ -2,10 +2,10 @@
 title = "Chuck 2005 (Costume Head)"
 draft = false
 tags = ["Costumed Characters"]
-date = "08/16/2023"
+date = "2023-08-16"
 
 [Article]
-startDate = "-/-/2005"
+startDate = "2005-00-00"
 endDate = ""
 pageThumbnailFile = "CECShortFurHead.png|2005 Head"
 contributors = ["Showtimeinc","CEC Tinley","2601:404:D681:9F70:1CB1:2E1E:7D31:696C","The 64th Gamer"]

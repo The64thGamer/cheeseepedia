@@ -2,10 +2,10 @@
 title = "Katy, TX (2002 Gulfmont Dr)"
 draft = false
 tags = ["Store List"]
-date = "09/02/2024"
+date = "2024-09-02"
 
 [Article]
-startDate = "12/30/2001"
+startDate = "2001-12-30"
 endDate = ""
 pageThumbnailFile = "IMG 1919.jpeg|The store's exterior before receiving 2.0 Remodel"
 contributors = ["JND","ThatBoiCydalan"]
@@ -103,7 +103,7 @@ Katy opened on December 30, 2001 near the growing Katy Mills mall with the major
 
 
 
-<h2> References </h2>
+
 <references />
 
 <h2> Trivia </h2>

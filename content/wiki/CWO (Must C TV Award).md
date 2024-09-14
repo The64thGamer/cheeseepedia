@@ -2,10 +2,10 @@
 title = "'CWO' (Must C TV Award)"
 draft = false
 tags = []
-date = "09/23/2023"
+date = "2023-09-23"
 
 [Article]
-startDate = "-/-/1998"
+startDate = "1998-00-00"
 endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445","77.101.174.24"]
 gallery = []

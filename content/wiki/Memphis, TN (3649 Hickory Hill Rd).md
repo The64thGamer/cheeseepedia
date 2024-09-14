@@ -2,11 +2,11 @@
 title = "Memphis, TN (3649 Hickory Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "8/24/1982"
-endDate = "10/27/2020"
+startDate = "1982-8-24"
+endDate = "2020-10-27"
 pageThumbnailFile = "Memphis_Hickory_Hill_CEC_Exterior_Before_Closure.png|Exterior, 2018"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","Stripes","9Lol92"]
 gallery = []
@@ -98,5 +98,5 @@ In October 2020, Memphis (Hickory Hill) removed the 3-Stage because they closed 
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

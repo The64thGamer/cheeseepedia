@@ -2,7 +2,7 @@
 title = "Raleigh, NC (3501-131 Capital Blvd)"
 draft = false
 tags = []
-date = "08/02/2024"
+date = "2024-08-02"
 
 [Article]
 startDate = ""

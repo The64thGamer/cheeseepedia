@@ -2,11 +2,11 @@
 title = "Beaverton, OR (11753 SW Beaverton Hillsdale)"
 draft = false
 tags = ["Store List"]
-date = "04/15/2024"
+date = "2024-04-15"
 
 [Article]
-startDate = "10/-/1981"
-endDate = "7/-/1985"
+startDate = "1981-10-00"
+endDate = "1985-7-00"
 contributors = ["CorrectorMan","McNugget","The 64th Gamer"]
 gallery = []
 +++

@@ -2,10 +2,10 @@
 title = "Greenville, SC (253 Congaree Rd)"
 draft = false
 tags = ["Store List"]
-date = "02/03/2024"
+date = "2024-02-03"
 
 [Article]
-startDate = "2/-/1983"
+startDate = "1983-2-00"
 endDate = ""
 pageThumbnailFile = "Greensvilleaug2023.png|Exterior (August 2023)"
 contributors = ["ChuckECool","The 64th Gamer","BigCtheDataFinder"]

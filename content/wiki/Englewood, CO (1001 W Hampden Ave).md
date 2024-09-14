@@ -2,10 +2,10 @@
 title = "Englewood, CO (1001 W Hampden Ave)"
 draft = false
 tags = ["Store List"]
-date = "02/18/2023"
+date = "2023-02-18"
 
 [Article]
-startDate = "7/16/1981"
+startDate = "1981-7-16"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090"]
 gallery = ["EnglewoodCO2.0Exterior.jpg|thumb|Englewood's exterior after the 2.0 Remodel was complete (PC: Shelly Morgan) (January 2023)"]
@@ -155,5 +155,5 @@ Sometime in around Early-Mid 2000, Englewood removed the 3-Stage for the Studio 
 |October 2022-January 2023
 |Feb 4, 2023
 |}
-<h2>References</h2>
+
 <references />

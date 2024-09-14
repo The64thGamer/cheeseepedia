@@ -2,7 +2,7 @@
 title = "Kooser Dolli Dimples (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
 startDate = ""
@@ -41,4 +41,3 @@ The bot has a grey latex mask with a grey back head. The bot has red hair, a pur
 
 
 
-<h2> References </h2>

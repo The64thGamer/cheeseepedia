@@ -2,7 +2,7 @@
 title = "Santa On Stage Show 1984 (Event)"
 draft = false
 tags = ["Events"]
-date = "10/11/2023"
+date = "2023-10-11"
 
 [Article]
 startDate = ""
@@ -35,4 +35,3 @@ Two stores had some sort of Klunk part discovered at their location. Springfield
 * [Springfield, OH (2345 Valley Loop Rd)]({{< ref "wiki/Springfield, OH (2345 Valley Loop Rd).md" >}})<ref>Store had Klunk Valves under the stage.</ref>
 * [Davenport, IA (903 E Kimberly Rd)]({{< ref "wiki/Davenport, IA (903 E Kimberly Rd).md" >}})<ref>https://www.newspapers.com/article/quad-city-times/56630231/</ref><ref name=':0' />
 
-<h2> References </h2>

@@ -2,11 +2,11 @@
 title = "Louisville, KY (5743 Preston Hwy)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "7/31/1982"
-endDate = "11/8/1997"
+startDate = "1982-7-31"
+endDate = "1997-11-8"
 pageThumbnailFile = "Preston1990s.jpg|Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)"
 contributors = ["Midwestretail","ChuckECool","Rexburg090","SuperCreamPiper2008","The 64th Gamer","ItzaRob","Krimet Hetgrof","Documentor","CoolerDude","PachCEC","JND","Jaxonia","AstridMascotFan2005"]
 gallery = []

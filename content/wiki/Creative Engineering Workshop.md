@@ -2,7 +2,7 @@
 title = "Creative Engineering Workshop"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/20/2023"
+date = "2023-08-20"
 
 [Article]
 startDate = ""
@@ -31,4 +31,3 @@ The building was created in 1985 and consists of one story with 5,760 square fee
 
 
 
-<h2> References </h2>

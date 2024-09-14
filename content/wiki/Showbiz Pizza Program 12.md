@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 12"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""
@@ -34,5 +34,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/Make_It_Real Make It Real]
 # That Girl Wants to Dance with Me (By Gregory Hines)
 
-<h2>References</h2>
+
 <references />

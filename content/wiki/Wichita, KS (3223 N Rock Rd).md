@@ -2,10 +2,10 @@
 title = "Wichita, KS (3223 N Rock Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/23/2024"
+date = "2024-07-23"
 
 [Article]
-startDate = "12/16/1991"
+startDate = "1991-12-16"
 endDate = ""
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","2600:4040:5A0C:5900:2997:6F1B:1FE7:4C6F","216.125.34.66","CEC Tinley","2600:1700:A4A7:7810:E960:2B1D:A1C9:D00B","Jerry CEC","Stripes","BigCtheDataFinder","Planetpurplediner"]
 gallery = ["Screenshot 2024-03-17 015241.png|thumb|Street View of Wichita's previous exterior in August 2019 (PC: Google Maps)"]
@@ -92,4 +92,3 @@ Wichita premiered with a Road Stage, as did other CEC locations between 1990 and
 |The Road Stage performing Holiday Medley 2016
 |December 22, 2016
 |}
-<h2>References</h2>

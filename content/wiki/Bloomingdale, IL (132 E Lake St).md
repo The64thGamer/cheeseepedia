@@ -2,11 +2,11 @@
 title = "Bloomingdale, IL (132 E Lake St)"
 draft = false
 tags = ["Store List"]
-date = "02/15/2023"
+date = "2023-02-15"
 
 [Article]
-startDate = "4/1/1981"
-endDate = "11/-/1985"
+startDate = "1981-4-1"
+endDate = "1985-11-00"
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = []
 +++

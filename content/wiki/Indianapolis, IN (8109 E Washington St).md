@@ -2,11 +2,11 @@
 title = "Indianapolis, IN (8109 E Washington St)"
 draft = false
 tags = ["Store List"]
-date = "10/29/2023"
+date = "2023-10-29"
 
 [Article]
-startDate = "6/18/1982"
-endDate = "12/-/2011"
+startDate = "1982-6-18"
+endDate = "2011-12-00"
 pageThumbnailFile = "IndianapolisWashingtonCECOldLocationExteriorFullShot.png|Exterior, 2011"
 contributors = ["ChuckECool","RedaCEC","Midwestretail","Rexburg090","ThatBoiCydalan"]
 gallery = []
@@ -116,5 +116,5 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |1995
 |}
 
-<h2>References</h2>
+
 <references />

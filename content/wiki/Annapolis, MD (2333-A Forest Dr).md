@@ -2,10 +2,10 @@
 title = "Annapolis, MD (2333-A Forest Dr)"
 draft = false
 tags = ["Store List"]
-date = "09/08/2024"
+date = "2024-09-08"
 
 [Article]
-startDate = "4/10/1993"
+startDate = "1993-4-10"
 endDate = ""
 pageThumbnailFile = "desc=Exterior (September 2022)|image=AnnapolisExterior2022SeptemberGoogleMaps.png"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:C45C:F043:3504:84FE","Sptparole","Tux Chuck","PachCEC","Chuckepoggers69","The 64th Gamer","Caydenpedia","Documentor"]
@@ -35,4 +35,3 @@ When Annapolis first opened, they received a 2-Stage. This is one of the few 2-S
 
 
 
-<h2> References </h2>

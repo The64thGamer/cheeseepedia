@@ -2,7 +2,7 @@
 title = "Studio C Alpha"
 draft = false
 tags = ["Stage Variations"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
 startDate = ""
@@ -99,5 +99,5 @@ Current Total Remaining: 7
 |Operational. Good condition. Currently wearing Rockstar outfit with Shoes. Only Studio C Alpha in Canada and only outside of the United States.
 |}
 
-<h2> References </h2>
+
 <references />

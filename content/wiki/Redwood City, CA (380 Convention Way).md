@@ -2,11 +2,11 @@
 title = "Redwood City, CA (380 Convention Way)"
 draft = false
 tags = ["Store List"]
-date = "07/06/2024"
+date = "2024-07-06"
 
 [Article]
 startDate = ""
-endDate = "-/-/1986"
+endDate = "1986-00-00"
 pageThumbnailFile = "desc=Building Exterior|image=Screenshot 2023-04-21 213923.png"
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]
 gallery = []
@@ -82,4 +82,3 @@ The location would hold a closing auction on February 8, 1986, at 10AM.<ref name
 |}
 
 
-<h2> References </h2>

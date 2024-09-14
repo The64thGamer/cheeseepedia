@@ -2,10 +2,10 @@
 title = "Waco, TX (5106 West Waco Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/04/2024"
+date = "2024-06-04"
 
 [Article]
-startDate = "-/-/2002"
+startDate = "2002-00-00"
 endDate = ""
 pageThumbnailFile = "Wacocec.png|Waco, TX Chuck E. Cheese's in 2014"
 contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","130.45.91.68"]
@@ -80,5 +80,5 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 |Unknown
 |}
 
-<h2> References</h2>
+
 <references />

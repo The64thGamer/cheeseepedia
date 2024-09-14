@@ -2,10 +2,10 @@
 title = "Little Rock, AR (2706 S Shackleford Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/01/2023"
+date = "2023-08-01"
 
 [Article]
-startDate = "4/28/2014"
+startDate = "2014-4-28"
 endDate = ""
 pageThumbnailFile = "desc=Exterior (PC: Jody Carter)|image=lrarcec.jpg"
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]

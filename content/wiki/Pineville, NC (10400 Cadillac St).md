@@ -2,10 +2,10 @@
 title = "Pineville, NC (10400 Cadillac St)"
 draft = false
 tags = ["Store List"]
-date = "06/11/2024"
+date = "2024-06-11"
 
 [Article]
-startDate = "5/-/1991"
+startDate = "1991-5-00"
 endDate = ""
 pageThumbnailFile = "FuntasticksCharlotteExterior.png|Pineville's exterior as 'Funtasticks Charlotte' prior to demolition (2018-2020)"
 contributors = ["BigCtheDataFinder"]
@@ -106,4 +106,3 @@ As Zuma Fun Center trashed their animatronics by 2010-2011, the exact whereabout
 |July 24, 2017
 |}
 
-<h2> References </h2>

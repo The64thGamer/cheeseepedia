@@ -2,7 +2,7 @@
 title = "CEC Careers Website"
 draft = false
 tags = []
-date = "09/04/2022"
+date = "2022-09-04"
 
 [Article]
 startDate = ""

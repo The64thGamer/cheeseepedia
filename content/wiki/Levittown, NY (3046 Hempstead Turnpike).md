@@ -2,11 +2,11 @@
 title = "Levittown, NY (3046 Hempstead Turnpike)"
 draft = false
 tags = ["Store List"]
-date = "07/11/2023"
+date = "2023-07-11"
 
 [Article]
-startDate = "1/-/1985"
-endDate = "-/-/1989"
+startDate = "1985-1-00"
+endDate = "1989-00-00"
 contributors = ["CorrectorMan"]
 gallery = []
 +++

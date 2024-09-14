@@ -2,10 +2,10 @@
 title = "Rock-afire Explosion Record 1 (1981)"
 draft = false
 tags = ["Merchandise"]
-date = "10/11/2023"
+date = "2023-10-11"
 
 [Article]
-startDate = "7/16/1981"
+startDate = "1981-7-16"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
@@ -42,4 +42,3 @@ The record label has a vertical gradient of black to white, with a yellow explos
 
 
 
-<h2> References </h2>

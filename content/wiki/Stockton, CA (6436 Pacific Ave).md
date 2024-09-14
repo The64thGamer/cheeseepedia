@@ -2,10 +2,10 @@
 title = "Stockton, CA (6436 Pacific Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/20/2023"
+date = "2023-07-20"
 
 [Article]
-startDate = "9/6/2005"
+startDate = "2005-9-6"
 endDate = ""
 contributors = ["CorrectorManBackup"]
 gallery = ["New Stockton.jpg|thumb|The location's exterior prior to 2.0. (PC: usarestaurants.info)"]

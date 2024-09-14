@@ -2,11 +2,11 @@
 title = "Brampton, Ontario, Canada (50 Kennedy Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/20/2024"
+date = "2024-04-20"
 
 [Article]
-startDate = "10/-/1984"
-endDate = "5/-/1991"
+startDate = "1984-10-00"
+endDate = "1991-5-00"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

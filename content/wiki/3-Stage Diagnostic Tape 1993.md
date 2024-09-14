@@ -2,7 +2,7 @@
 title = "3-Stage Diagnostic Tape 1993"
 draft = false
 tags = ["Showtapes"]
-date = "08/17/2023"
+date = "2023-08-17"
 
 [Article]
 startDate = ""

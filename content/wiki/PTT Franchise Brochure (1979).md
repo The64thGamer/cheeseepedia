@@ -2,7 +2,7 @@
 title = "PTT Franchise Brochure (1979)"
 draft = false
 tags = ["Documents"]
-date = "04/12/2024"
+date = "2024-04-12"
 
 [Article]
 startDate = ""
@@ -50,4 +50,3 @@ The Brochure was created in early 1979 after the opening of [San Jose, CA (1371 
 
 
 
-<h2> References </h2>

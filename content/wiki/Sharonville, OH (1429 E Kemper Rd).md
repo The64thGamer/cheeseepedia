@@ -2,10 +2,10 @@
 title = "Sharonville, OH (1429 E Kemper Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/01/2024"
+date = "2024-09-01"
 
 [Article]
-startDate = "10/21/1981"
+startDate = "1981-10-21"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer","RPCEC Backup","ChuckECool","RedaCEC","Rexburg090","216.125.34.66","2600:4040:AD76:D00:385D:200:9695:9AFC","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest","AstridMascotFan2005"]
 gallery = ["SharonvilleExterior2022.png|thumb|285x285px|Sharonville's Exterior (2023)"]
@@ -224,4 +224,3 @@ On August 12, 2024 Sharonville would begin its 'Entertainment Upgrade' throughou
 |Unknown/Destroyed
 |}
 
-<h2> References </h2>

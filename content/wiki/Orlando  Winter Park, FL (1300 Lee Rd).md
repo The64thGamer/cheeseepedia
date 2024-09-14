@@ -2,7 +2,7 @@
 title = "Orlando / Winter Park, FL (1300 Lee Rd)"
 draft = false
 tags = []
-date = "02/15/2023"
+date = "2023-02-15"
 
 [Article]
 startDate = ""

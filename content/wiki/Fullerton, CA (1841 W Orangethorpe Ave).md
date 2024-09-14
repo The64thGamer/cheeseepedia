@@ -2,11 +2,11 @@
 title = "Fullerton, CA (1841 W Orangethorpe Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/30/2024"
+date = "2024-08-30"
 
 [Article]
-startDate = "3/-/1980"
-endDate = "-/-/1985"
+startDate = "1980-3-00"
+endDate = "1985-00-00"
 pageThumbnailFile = "Old fullerton.jpg|Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter."
 contributors = ["CorrectorMan","The 64th Gamer","CEC1988"]
 gallery = []

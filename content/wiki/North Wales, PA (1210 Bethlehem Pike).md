@@ -2,11 +2,11 @@
 title = "North Wales, PA (1210 Bethlehem Pike)"
 draft = false
 tags = ["Store List"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "12/8/1992"
-endDate = "4/15/2018"
+startDate = "1992-12-8"
+endDate = "2018-4-15"
 pageThumbnailFile = "NorthWalesExterior.jpg|Exterior, Year Unknown (PC: Foursquare)"
 contributors = ["Cheeseclassic"]
 gallery = []

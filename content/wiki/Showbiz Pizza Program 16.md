@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 16"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
@@ -35,5 +35,5 @@ TODO: Releases
 # [https://en.wikipedia.org/wiki/Giving_You_the_Best_That_I_Got_(album) Just Because]
 # [https://en.wikipedia.org/wiki/Heart%27s_Horizon So Good]
 
-<h2>References</h2>
+
 <references />

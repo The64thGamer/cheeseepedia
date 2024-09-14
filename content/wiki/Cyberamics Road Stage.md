@@ -2,7 +2,7 @@
 title = "Cyberamics Road Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "09/12/2024"
+date = "2024-09-12"
 
 [Article]
 startDate = ""
@@ -259,5 +259,5 @@ Note: Contains only confirmed installations, and may not be in order.
 |Only one in North Carolina. The entire stage was sent to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}}).
 |}
 
-<h2> References </h2>
+
 <references />

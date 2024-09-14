@@ -2,11 +2,11 @@
 title = "Victorville, CA (15405 Park Ave)"
 draft = false
 tags = ["Store List"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "10/5/1982"
-endDate = "6/-/1993"
+startDate = "1982-10-5"
+endDate = "1993-6-00"
 pageThumbnailFile = "Tumblr p2lyj4JcBM1vrzq9fo2 1280.jpg|Victorville's exterior."
 contributors = ["CorrectorMan","ThatBoiCydalan","Cheeseclassic"]
 gallery = []

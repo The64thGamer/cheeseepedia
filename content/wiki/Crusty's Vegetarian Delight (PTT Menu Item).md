@@ -2,7 +2,7 @@
 title = "Crusty's Vegetarian Delight (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "02/16/2024"
+date = "2024-02-16"
 
 [Article]
 startDate = ""
@@ -37,4 +37,3 @@ The Pizza had 3 sizes, Small, Medium, & Large.
 
 
 
-<h2> References </h2>

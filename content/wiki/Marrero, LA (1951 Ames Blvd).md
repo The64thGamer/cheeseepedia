@@ -2,10 +2,10 @@
 title = "Marrero, LA (1951 Ames Blvd)"
 draft = false
 tags = ["Store List"]
-date = "10/01/2023"
+date = "2023-10-01"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 contributors = ["CECLouisiana"]
 gallery = []

@@ -2,11 +2,11 @@
 title = "Levittown, PA (1283 E Lincoln Hwy)"
 draft = false
 tags = ["Store List"]
-date = "06/29/2024"
+date = "2024-06-29"
 
 [Article]
-startDate = "8/7/1990"
-endDate = "8/25/2020"
+startDate = "1990-8-7"
+endDate = "2020-8-25"
 pageThumbnailFile = "Levittown’s Exterior .jpg|Levittown’s Exterior in August 2020, shortly after closure. (PC: LevittownNow.com)"
 contributors = ["Cheeseclassic","CEC Tinley","Jerry CEC","Caydenpedia","Cecnj98"]
 gallery = []

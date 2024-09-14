@@ -2,7 +2,7 @@
 title = "Atari Consumer Division Sunnyvale, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/20/2024"
+date = "2024-05-20"
 
 [Article]
 startDate = ""
@@ -16,4 +16,3 @@ TODO:
 
 155 Moffett Park Drive Sunnyvale, CA 94089<ref>https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=%22consumer+division%22</ref>
 
-<h2> References </h2>

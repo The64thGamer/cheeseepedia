@@ -2,7 +2,7 @@
 title = "Happy Birthday With The Pizza Time Players Birthday Party Package Poster"
 draft = false
 tags = []
-date = "08/13/2023"
+date = "2023-08-13"
 
 [Article]
 startDate = ""
@@ -52,7 +52,7 @@ Here's what you get:
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_promo-collection.pdf
 # https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-3.pdf

@@ -2,10 +2,10 @@
 title = "Willowdale, Ontario, Canada (2452 Sheppard Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/26/2024"
+date = "2024-03-26"
 
 [Article]
-startDate = "10/8/1983"
+startDate = "1983-10-8"
 endDate = ""
 pageThumbnailFile = "Willowdale .jpg|Willowdale's Exterior (PC: blogTO)"
 contributors = ["ChuckECool","Cecnj98","2605:8D80:6C2:1681:24E4:3B2F:C11E:2CF6","Cheeseclassic","Stripes"]
@@ -77,6 +77,6 @@ Willowdale (North York) opened in the Victoria Park Square shopping center on Oc
 |May 1, 2012
 |}
 
-<h2>References</h2>
+
 
 <references />

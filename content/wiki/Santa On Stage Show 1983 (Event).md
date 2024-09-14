@@ -2,7 +2,7 @@
 title = "Santa On Stage Show 1983 (Event)"
 draft = false
 tags = ["Events"]
-date = "12/15/2023"
+date = "2023-12-15"
 
 [Article]
 startDate = ""
@@ -60,4 +60,3 @@ The Farmington Hills, MI (29955 Orchard Lake Rd) store also could have had Klunk
 
 
 
-<h2> References </h2>

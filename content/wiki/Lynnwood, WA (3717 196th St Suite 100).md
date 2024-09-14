@@ -2,11 +2,11 @@
 title = "Lynnwood, WA (3717 196th St Suite 100)"
 draft = false
 tags = ["Store List"]
-date = "06/13/2024"
+date = "2024-06-13"
 
 [Article]
-startDate = "8/-/1986"
-endDate = "7/23/2023"
+startDate = "1986-8-00"
+endDate = "2023-7-23"
 pageThumbnailFile = "LynnwoodWAExteriorStreetViewOctober2018.png|Google Street View October 2018"
 contributors = ["RPCEC","Rexburg090","BurgersNuggs445","2601:601:9C00:2F00:9C96:A6ED:38FA:77E5","ShowbizMidwest","CorrectorMan","70.161.136.174","ThatBoiCydalan","CorrectorManBackup","Documentor","2601:601:8681:3C90:3C3A:42E8:651:C038","Ceclife13","ChuckfeldStan","Midwestretail","JKC5","74.82.228.91","2601:601:8783:5B10:A563:E33B:15C4:304D","The ChuckSter","TheRealWFan","2601:601:9C00:9490:547E:D076:77B8:C865","Caydenpedia","CECMentor","AstridMascotFan2005"]
 gallery = []
@@ -188,5 +188,5 @@ The building was completely gutted on August 23. It is unknown if the Phase 3 aw
 |Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)]({{< ref "wiki/Showbiz Pizza Time Distribution Center (Topeka, KS).md" >}})
 |}
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Chuck E.'s House"
 draft = false
 tags = ["Stage Variations"]
-date = "09/05/2024"
+date = "2024-09-05"
 
 [Article]
 startDate = ""
@@ -198,5 +198,5 @@ The 10' 6' Home was the smallest of the two variants. The design was very simila
 |Early-Mid 1994
 |}
 
-<h2> References </h2>
+
 <references />

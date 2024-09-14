@@ -2,7 +2,7 @@
 title = "Standard: Store Page"
 draft = false
 tags = ["Standards Pages"]
-date = "12/24/2023"
+date = "2023-12-24"
 
 [Article]
 startDate = ""
@@ -111,5 +111,5 @@ All walkarounds featured at the store, alongside what outfits, suits, and access
 |
 |}
 
-<h2>References</h2>
+
 citations go here automatically if you use them in the editor

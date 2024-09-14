@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese 16m (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "07/04/2023"
+date = "2023-07-04"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "2023 Northridge Grand Reopening Party"
 draft = false
 tags = ["Events"]
-date = "07/20/2024"
+date = "2024-07-20"
 
 [Article]
 startDate = ""
@@ -115,4 +115,3 @@ The store had also incorrectly hooked up their microphone into the [Cyberamic Co
 |A video by logan of the public opening.
 |}
 
-<h2> References </h2>

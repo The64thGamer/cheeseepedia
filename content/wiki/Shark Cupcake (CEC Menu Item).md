@@ -2,7 +2,7 @@
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "12/06/2022"
+date = "2022-12-06"
 
 [Article]
 startDate = ""
@@ -19,6 +19,6 @@ The item is a single vanilla cupcake, topped with grey icing and two white sugar
 
 
 
-<h2>References</h2>
+
 
 <references />

@@ -2,7 +2,7 @@
 title = "Huntington Beach, CA (15511 Edwards St)"
 draft = false
 tags = ["Store List"]
-date = "09/04/2024"
+date = "2024-09-04"
 
 [Article]
 startDate = ""
@@ -141,5 +141,5 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 |June 22nd, 2024
 |June 22nd, 2024
 |}
-<h2>References</h2>
+
 <references />

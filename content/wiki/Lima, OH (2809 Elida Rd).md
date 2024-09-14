@@ -2,10 +2,10 @@
 title = "Lima, OH (2809 Elida Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/06/2023"
+date = "2023-07-06"
 
 [Article]
-startDate = "5/11/2009"
+startDate = "2009-5-11"
 endDate = ""
 pageThumbnailFile = "desc=Lima Ohio's Chuck E Cheese in 2015|image=Lima exterior 2015.png"
 contributors = ["Ceclife13","BurgersNuggs445","ThatBoiCydalan"]
@@ -57,6 +57,6 @@ Due to the Covid-19 pandemic all stores were required to only allow pick-up and 
 |Partially destroyed
 |}
 
-<h2>References</h2>
+
 
 <references />

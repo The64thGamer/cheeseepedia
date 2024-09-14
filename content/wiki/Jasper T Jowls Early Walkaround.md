@@ -2,7 +2,7 @@
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = "08/13/2023"
+date = "2023-08-13"
 
 [Article]
 startDate = ""
@@ -18,7 +18,7 @@ The Jasper T. Jowls Early Walkaround would debut at the 1371 Kooser Road Store i
 
 TBD
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf
 # https://youtu.be/4tgH_eThNZI

@@ -2,7 +2,7 @@
 title = "Jasper's Giant Hot Dog (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
 startDate = ""
@@ -30,5 +30,5 @@ The item is served in a woven food basket on top of either deli paper or wax pap
 
 
 
-<h2> References </h2>
+
 <references />

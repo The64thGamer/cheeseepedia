@@ -2,10 +2,10 @@
 title = "Grand Rapids, MI (3671 28th St)"
 draft = false
 tags = ["Store List"]
-date = "10/22/2023"
+date = "2023-10-22"
 
 [Article]
-startDate = "6/6/1983"
+startDate = "1983-6-6"
 endDate = ""
 pageThumbnailFile = "desc=A shot of the store’s front entrances (PC: Kette)|image=GrandRapidsCECExterior.jpeg"
 contributors = ["Rexburg090","ChuckECool","ThatBoiCydalan","Documentor","Chuck E Cheese Fan2003"]

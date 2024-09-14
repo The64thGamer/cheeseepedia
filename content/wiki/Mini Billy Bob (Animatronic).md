@@ -2,7 +2,7 @@
 title = "Mini Billy Bob (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/08/2024"
+date = "2024-02-08"
 
 [Article]
 startDate = ""
@@ -67,5 +67,5 @@ The original prototype of the doll had a different face sculpt, with his lower j
 |
 |}
 
-<h2> References </h2>
+
 <references />

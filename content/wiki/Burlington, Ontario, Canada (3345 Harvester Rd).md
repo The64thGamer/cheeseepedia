@@ -2,11 +2,11 @@
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/20/2024"
+date = "2024-04-20"
 
 [Article]
-startDate = "10/15/1981"
-endDate = "10/27/1991"
+startDate = "1981-10-15"
+endDate = "1991-10-27"
 pageThumbnailFile = "desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png"
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []
@@ -86,5 +86,5 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 
 
 
-<h2>References</h2>
+
 <references />

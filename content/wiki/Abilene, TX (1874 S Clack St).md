@@ -2,11 +2,11 @@
 title = "Abilene, TX (1874 S Clack St)"
 draft = false
 tags = ["Store List"]
-date = "10/02/2023"
+date = "2023-10-02"
 
 [Article]
-startDate = "10/7/1982"
-endDate = "-/-/1983"
+startDate = "1982-10-7"
+endDate = "1983-00-00"
 contributors = ["CorrectorMan","Rexburg090","CEC Kokomo","Caydenpedia"]
 gallery = ["Abilene SPP.jpg|thumb|The site of the SPP."]
 +++

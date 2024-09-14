@@ -2,10 +2,10 @@
 title = "Bronx, NY (700 Exterior St)"
 draft = false
 tags = ["Store List"]
-date = "04/05/2024"
+date = "2024-04-05"
 
 [Article]
-startDate = "12/26/2013"
+startDate = "2013-12-26"
 endDate = ""
 pageThumbnailFile = "Exterior Street.jpg|Exterior of Bronx. (PC: Unknown)"
 contributors = ["66.215.38.213","Cheeseclassic","CEC New Jersey"]

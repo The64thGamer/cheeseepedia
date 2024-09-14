@@ -2,11 +2,11 @@
 title = "Bradenton, FL (4420 14th St)"
 draft = false
 tags = ["Store List"]
-date = "06/08/2023"
+date = "2023-06-08"
 
 [Article]
-startDate = "10/-/1981"
-endDate = "6/16/1984"
+startDate = "1981-10-00"
+endDate = "1984-6-16"
 contributors = ["ShowbizMidwest","Rexburg090"]
 gallery = ["BradentonBalcony.jpg|thumb|Bradenton’s Balcony Stage in 1981."]
 +++

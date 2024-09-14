@@ -2,11 +2,11 @@
 title = "San Jose, CA (1371 Kooser Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/06/2024"
+date = "2024-07-06"
 
 [Article]
-startDate = "12/2/1978"
-endDate = "6/25/2020"
+startDate = "1978-12-2"
+endDate = "2020-6-25"
 pageThumbnailFile = "Kooser2018.png|Kooser Rd.'s exterior in 2018."
 contributors = ["CECBowlingGreen","69.140.177.57","EagleScout610","Pinkerton agent","Rexburg090","The 64th Gamer","SniffCEC","PTT1977fan","BurgersNuggs445","RedaCEC","CEC Tinley","CorrectorMan","ChuckfeldStan","Documentor","Concordio","ThatBoiCydalan","EvergreenEntertainment","TheChuckECheeseGuy","SuperCreamPiper2008","Newbie editor","CoolerDude","Cy's Junk at School"]
 gallery = ["Food Service Marketing October 1979.png|thumb|339x339px|''Food Service Marketing, October 1979''",":Food Service Marketing October 1979.png","KooserShowroom1997.png|thumb|249x249px|Showroom, Spring 1997<ref>https://youtu.be/lSaFEiNrz1Q</ref>"]
@@ -263,5 +263,5 @@ The first walkaround this location had was the Prototype Walkaround. It was used
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Winchester Pasqually (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/27/2024"
+date = "2024-02-27"
 
 [Article]
 startDate = ""
@@ -54,4 +54,3 @@ During his stay at the [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showb
 
 
 
-<h2> References </h2>

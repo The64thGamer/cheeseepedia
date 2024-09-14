@@ -2,7 +2,7 @@
 title = "Hofmann Monkey Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "09/08/2024"
+date = "2024-09-08"
 
 [Article]
 startDate = ""
@@ -448,5 +448,5 @@ Unlike Liseberg's <i>Ap-O-Teket</i>, Edenlandia's <i>Variety Show</i> was a mass
 |September 2, 2024
 |}
 
-<h2> References </h2>
+
 <references />

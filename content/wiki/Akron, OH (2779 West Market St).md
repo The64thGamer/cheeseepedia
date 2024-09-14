@@ -2,10 +2,10 @@
 title = "Akron, OH (2779 West Market St)"
 draft = false
 tags = ["Store List"]
-date = "01/23/2024"
+date = "2024-01-23"
 
 [Article]
-startDate = "10/25/1993"
+startDate = "1993-10-25"
 endDate = ""
 contributors = ["EagleScout610","Rexburg090","GainerXO","ChuckfeldStan","216.125.34.66","Estsproduction"]
 gallery = ["Akron 2.0 Exterior.jpg|thumb|Akron's exterior as of October 2022"]

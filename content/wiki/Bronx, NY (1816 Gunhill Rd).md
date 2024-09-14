@@ -2,7 +2,7 @@
 title = "Bronx, NY (1816 Gunhill Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/04/2024"
+date = "2024-08-04"
 
 [Article]
 startDate = ""

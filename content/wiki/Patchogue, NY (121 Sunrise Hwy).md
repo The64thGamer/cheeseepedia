@@ -2,10 +2,10 @@
 title = "Patchogue, NY (121 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = "07/09/2024"
+date = "2024-07-09"
 
 [Article]
-startDate = "3/29/1993"
+startDate = "1993-3-29"
 endDate = ""
 pageThumbnailFile = "2023-09-16.jpg|thumb"
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
@@ -215,6 +215,6 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 
 
 
-<h2>References</h2>
+
 
 <references />

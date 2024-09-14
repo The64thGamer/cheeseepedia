@@ -2,10 +2,10 @@
 title = "Chesapeake, VA (4400 Peek Trail)"
 draft = false
 tags = ["Store List"]
-date = "09/23/2023"
+date = "2023-09-23"
 
 [Article]
-startDate = "-/-/2004"
+startDate = "2004-00-00"
 endDate = ""
 contributors = ["2607:FB90:B324:B6D0:2826:BD36:6E6D:9A66","ChuckECool","CorrectorMan","CEC Tinley"]
 gallery = ["Chesapeake lol.jpg|thumb|Chesapeake's exterior before 2022. (PC: flickriver.com)"]

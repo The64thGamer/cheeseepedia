@@ -2,7 +2,7 @@
 title = "PTT Kooser Helen Henny Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""
@@ -35,7 +35,7 @@ Helen Hennys nameplate used a rounded, brown wooden board as a base with the yel
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf
 # https://www.showbizpizza.com/info/articles/cec/ptt_79replay.pdf

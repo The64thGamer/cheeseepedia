@@ -2,7 +2,7 @@
 title = "CEC University: Orientation 2003"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "06/11/2022"
+date = "2022-06-11"
 
 [Article]
 startDate = ""

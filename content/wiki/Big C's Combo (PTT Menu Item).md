@@ -2,7 +2,7 @@
 title = "Big C's Combo (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
 startDate = ""
@@ -99,5 +99,5 @@ The pizza came in three sizes, one described as serving 1-2 people, another for 
 
 
 
-<h2>References</h2>
+
 <references />

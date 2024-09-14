@@ -2,7 +2,7 @@
 title = "Houston, TX (12523 Westheimer Rd)"
 draft = false
 tags = ["Store List"]
-date = "11/22/2023"
+date = "2023-11-22"
 
 [Article]
 startDate = ""

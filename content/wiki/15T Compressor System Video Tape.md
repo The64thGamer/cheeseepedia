@@ -2,10 +2,10 @@
 title = "15T Compressor System Video Tape"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "04/03/2024"
+date = "2024-04-03"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","Cy's Junk at School"]
 gallery = []
@@ -18,4 +18,3 @@ The only account of the tape's contents comes from a private owner, stating that
 
 
 
-<h2> References </h2>

@@ -2,10 +2,10 @@
 title = "Let The Good Times Roll"
 draft = false
 tags = ["Live Shows"]
-date = "03/30/2023"
+date = "2023-03-30"
 
 [Article]
-startDate = "-/-/1994"
+startDate = "1994-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","RedaCEC","Documentor"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

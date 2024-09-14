@@ -2,11 +2,11 @@
 title = "Calgary, Alberta, Canada (2770 32nd Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "8/18/1988"
-endDate = "10/-/2003"
+startDate = "1988-8-18"
+endDate = "2003-10-00"
 contributors = ["Rexburg090","2600:4040:59FC:D100:65D0:8FF3:C057:50A1","RedaCEC","2600:4040:59FC:D100:3CF9:29EB:DEC:BC8A","216.125.34.66","CEC Tinley","Cheeseclassic","Douggaming"]
 gallery = []
 +++

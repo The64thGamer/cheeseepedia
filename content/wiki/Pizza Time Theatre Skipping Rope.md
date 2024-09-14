@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Skipping Rope"
 draft = false
 tags = ["Merchandise"]
-date = "03/01/2022"
+date = "2022-03-01"
 
 [Article]
 startDate = ""

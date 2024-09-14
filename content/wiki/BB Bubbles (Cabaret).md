@@ -2,7 +2,7 @@
 title = "B.B. Bubbles (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/22/2024"
+date = "2024-05-22"
 
 [Article]
 startDate = ""
@@ -56,5 +56,5 @@ B.B. Bubbles featured the same movements as the other cabaret characters, as she
 
 
 
-<h2> References </h2>
+
 <references />

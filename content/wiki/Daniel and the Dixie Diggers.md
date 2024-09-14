@@ -2,7 +2,7 @@
 title = "Daniel and the Dixie Diggers"
 draft = false
 tags = ["Animatronic Shows"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
 startDate = ""
@@ -114,4 +114,3 @@ The 'royalty of the group,' Sir Percival is the only member of the Dixie Diggers
 * <i>Quintet Installation?</i> - <b>Sang Bang Wool</b>: South Korea
 * <i>Installation w/ Panda?</i> - <b>Galactronic, SA</b>: Argentina
 
-<h2> References </h2>

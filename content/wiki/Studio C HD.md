@@ -2,7 +2,7 @@
 title = "Studio C HD"
 draft = false
 tags = []
-date = "09/19/2022"
+date = "2022-09-19"
 
 [Article]
 startDate = ""

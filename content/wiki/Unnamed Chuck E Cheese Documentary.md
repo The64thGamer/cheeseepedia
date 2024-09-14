@@ -2,7 +2,7 @@
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
 tags = ["News Footage"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
 startDate = ""
@@ -35,4 +35,3 @@ At the same time Gabe would be interviewed by the team. Gabe and Matt would also
 
 By June of 2022, the studio stopped all contact with members involved. It is unclear if the documentary is still in production, or if it was cancelled.
 
-<h2> References </h2>

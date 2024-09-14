@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Spotify"
 draft = false
 tags = []
-date = "10/19/2022"
+date = "2022-10-19"
 
 [Article]
 startDate = ""

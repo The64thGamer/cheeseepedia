@@ -2,7 +2,7 @@
 title = "PTT 1981 Remodel"
 draft = false
 tags = []
-date = "09/18/2022"
+date = "2022-09-18"
 
 [Article]
 startDate = ""
@@ -23,5 +23,5 @@ This, being the first major logo change in Pizza Time Theatre, exteriors were re
 
 The Signs included in this package were rounded, rectangular signs. The borders are either white or red with and the inside being colored either Green, Blue, Red, or Black.
 
-<h2> References </h2>
+
 <references />

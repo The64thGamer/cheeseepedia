@@ -2,10 +2,10 @@
 title = "Antioch, TN (5312 Hickory Hollow Lane)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "5/3/1983"
+startDate = "1983-5-3"
 endDate = ""
 pageThumbnailFile = "Anitochhickoryhollowjan2023.png|Exterior (January, 2023)"
 contributors = ["ChuckECool","Rexburg090","Chattychuck","The 64th Gamer","Stripes"]

@@ -2,7 +2,7 @@
 title = "Studio C Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "07/24/2024"
+date = "2024-07-24"
 
 [Article]
 startDate = ""

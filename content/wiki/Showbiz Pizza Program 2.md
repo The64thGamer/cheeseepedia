@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 2"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "06/03/2022"
+date = "2022-06-03"
 
 [Article]
 startDate = ""
@@ -21,5 +21,5 @@ The program came with both Christmas shows, which released in December of 1986.
 <h2>Song List</h2>
 The cassette is known to be a Christmas tape.
 
-<h2>References</h2>
+
 <references />

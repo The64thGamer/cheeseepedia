@@ -2,7 +2,7 @@
 title = "Mini Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
 startDate = ""
@@ -70,5 +70,5 @@ Four Rock-afire characters (Mitzi Mozzerella, Fatz Geronimo, Billy Bob Brockali,
 |2003
 |}
 
-<h2> References </h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "TJ Hartford's Sports Grille"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/18/2023"
+date = "2023-08-18"
 
 [Article]
 startDate = ""
@@ -44,4 +44,3 @@ The store would close on February 17, 2008.<ref name=':0' /> The location, its e
 
 
 
-<h2> References </h2>

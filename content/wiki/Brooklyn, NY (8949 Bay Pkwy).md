@@ -2,11 +2,11 @@
 title = "Brooklyn, NY (8949 Bay Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "07/10/2023"
+date = "2023-07-10"
 
 [Article]
-startDate = "2/-/1984"
-endDate = "4/26/1987"
+startDate = "1984-2-00"
+endDate = "1987-4-26"
 contributors = ["CorrectorMan"]
 gallery = []
 +++

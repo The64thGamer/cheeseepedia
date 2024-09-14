@@ -2,7 +2,7 @@
 title = "Beach Bowzers '91 I"
 draft = false
 tags = ["APS Showtapes"]
-date = "03/30/2023"
+date = "2023-03-30"
 
 [Article]
 startDate = ""

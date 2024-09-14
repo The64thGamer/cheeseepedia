@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Kidz Bop Show 2023"
 draft = false
 tags = ["Showtapes"]
-date = "12/04/2023"
+date = "2023-12-04"
 
 [Article]
 startDate = ""

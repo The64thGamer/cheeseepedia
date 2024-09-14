@@ -2,7 +2,7 @@
 title = "Jungle Jim's Moonshine & Rocks"
 draft = false
 tags = ["JungleJims"]
-date = "05/16/2023"
+date = "2023-05-16"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ In 1986 Rolfe's Rainbow was used apart of a 1986 St. Patricks' Day Parade. It ha
 
 
 
-<h2> References </h2>

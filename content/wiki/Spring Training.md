@@ -2,10 +2,10 @@
 title = "Spring Training"
 draft = false
 tags = ["Showtapes"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
-startDate = "-/-/1993"
+startDate = "1993-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

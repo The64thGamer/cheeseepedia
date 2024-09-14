@@ -2,11 +2,11 @@
 title = "Houston, TX (9704 Fondren Road)"
 draft = false
 tags = []
-date = "09/18/2023"
+date = "2023-09-18"
 
 [Article]
-startDate = "-/-/1982"
-endDate = "-/-/1984"
+startDate = "1982-00-00"
+endDate = "1984-00-00"
 contributors = ["Pizzaman49","Cheeseclassic","CEC Kokomo"]
 gallery = ["After closure.png|thumb|After closure PC: Loopnet"]
 +++

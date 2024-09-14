@@ -2,7 +2,7 @@
 title = "Clearwater, FL (25921 US Hwy 19)"
 draft = false
 tags = ["Store List"]
-date = "07/29/2024"
+date = "2024-07-29"
 
 [Article]
 startDate = ""

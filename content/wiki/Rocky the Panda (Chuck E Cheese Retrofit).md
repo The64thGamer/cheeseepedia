@@ -2,7 +2,7 @@
 title = "Rocky the Panda (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["RockyRailroad"]
-date = "03/05/2024"
+date = "2024-03-05"
 
 [Article]
 startDate = ""

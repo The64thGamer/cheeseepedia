@@ -2,7 +2,7 @@
 title = "CECCheese"
 draft = false
 tags = ["User"]
-date = "03/04/2023"
+date = "2023-03-04"
 
 [Article]
 startDate = ""

@@ -2,10 +2,10 @@
 title = "Boardman, OH (813 Boardman Poland Rd)"
 draft = false
 tags = ["Store List"]
-date = "03/27/2024"
+date = "2024-03-27"
 
 [Article]
-startDate = "10/-/1982"
+startDate = "1982-10-00"
 endDate = ""
 pageThumbnailFile = "Flagstaffptt.png|Boardman's Exterior in the Mid-Late 80s."
 contributors = ["SuperCreamPiper2008"]

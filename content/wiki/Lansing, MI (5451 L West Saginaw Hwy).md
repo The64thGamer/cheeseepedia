@@ -2,10 +2,10 @@
 title = "Lansing, MI (5451 L West Saginaw Hwy)"
 draft = false
 tags = ["Store List"]
-date = "07/24/2024"
+date = "2024-07-24"
 
 [Article]
-startDate = "6/16/1992"
+startDate = "1992-6-16"
 endDate = ""
 pageThumbnailFile = "Lansing mi cec exterior.jpg|The store's exterior before the 2.0 remodel"
 contributors = ["Jeff Marks","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE","ShowbizMidwest","Cecfan2004","Cecrocks","AstridMascotFan2005"]
@@ -90,5 +90,5 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 |1992
 |Destroyed.
 |}
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Navori System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
 startDate = ""
@@ -64,4 +64,3 @@ An official list of the initial batch of test stores was given during the early 
 
 
 
-<h2> References </h2>

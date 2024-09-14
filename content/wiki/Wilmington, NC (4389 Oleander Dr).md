@@ -2,11 +2,11 @@
 title = "Wilmington, NC (4389 Oleander Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/28/2024"
+date = "2024-07-28"
 
 [Article]
-startDate = "7/23/1984"
-endDate = "10/13/2020"
+startDate = "1984-7-23"
+endDate = "2020-10-13"
 pageThumbnailFile = "WilmingtonNCExterior2019MarchGoogleMaps.png|Street View of the store's Exterior in March 2019 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowbizMidwest","170.185.215.34","Documentor","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
 gallery = []
@@ -147,5 +147,5 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 <h2>Trivia</h2>
 *Before Franchised CECs were renumbered to four digit numbers in 2010, Wilmington was <b><i>Store #210</b></i> according to the old chuckecheese.com website from 2009. It was renumbered to <b><i>Store #2070</b></i> when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Billings, MT]({{< ref "wiki/Billings, MT (100 24th St).md" >}}) location after it was bought out by Corporate. 
 
-<h2> References </h2>
+
 <references />

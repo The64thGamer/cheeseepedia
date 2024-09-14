@@ -2,7 +2,7 @@
 title = "Chuck E. Parade (Pure Imagination)"
 draft = false
 tags = ["Live Shows"]
-date = "06/26/2022"
+date = "2022-06-26"
 
 [Article]
 startDate = ""

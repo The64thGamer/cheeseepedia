@@ -2,7 +2,7 @@
 title = "2023 Five Nights of Fun"
 draft = false
 tags = ["Events"]
-date = "06/09/2024"
+date = "2024-06-09"
 
 [Article]
 startDate = ""
@@ -59,4 +59,3 @@ CEC would use FNoF to 'make the most of a difficult situation', with the FNaF mo
 
 
 
-<h2> References </h2>

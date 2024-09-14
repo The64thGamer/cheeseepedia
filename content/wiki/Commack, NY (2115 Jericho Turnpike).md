@@ -2,11 +2,11 @@
 title = "Commack, NY (2115 Jericho Turnpike)"
 draft = false
 tags = ["Store List"]
-date = "06/25/2023"
+date = "2023-06-25"
 
 [Article]
-startDate = "1/23/1995"
-endDate = "6/14/2015"
+startDate = "1995-1-23"
+endDate = "2015-6-14"
 pageThumbnailFile = "CommackNY-1-Exterior.jpg|thumb"
 contributors = ["Stripes","Anastasia.laguardia","BurgersNuggs445","Rexburg090","168.69.254.246","Cecnj98"]
 gallery = []
@@ -71,6 +71,6 @@ Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar 
 |Unknown
 |}
 
-<h2>References</h2>
+
 
 <references />

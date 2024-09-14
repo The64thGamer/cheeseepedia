@@ -2,10 +2,10 @@
 title = "Ice Hockey (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/20/2023"
+date = "2023-07-20"
 
 [Article]
-startDate = "-/-/1999"
+startDate = "1999-00-00"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer","ThatBoiCydalan","BurgersNuggs445"]
 gallery = []

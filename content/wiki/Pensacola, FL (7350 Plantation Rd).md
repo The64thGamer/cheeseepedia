@@ -2,10 +2,10 @@
 title = "Pensacola, FL (7350 Plantation Rd)"
 draft = false
 tags = ["Store List"]
-date = "11/10/2023"
+date = "2023-11-10"
 
 [Article]
-startDate = "12/6/1981"
+startDate = "1981-12-6"
 endDate = ""
 contributors = ["Montfortdog","The 64th Gamer","AnimatronicStudios","Pupper","Ls2018-1","47.223.109.119","Documentor","Rexburg090","76.167.210.169","Thecheesydude"]
 gallery = ["2.0 exterior night.jpg|thumb|2.0 exterior (partial)|349x349px"]

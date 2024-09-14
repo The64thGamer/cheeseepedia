@@ -54,6 +54,10 @@ h1{
   font-family: "Aleo";
   color: var(--white);
 }
+.list-page-date {
+  color: var(--deep-white);
+  display: inline;
+}
 
 .list-page-block {
   color: var(--yellow);
@@ -70,7 +74,8 @@ h1{
   border-radius: 5em;
   padding-left: 3em;
   padding-right: 3em;
-  padding-bottom: 1em;
+  padding-top: .5em;
+  padding-bottom: 1.5em;
   margin-top: 2em;
   margin-bottom: 2em;
   outline-color: var(--orange);

@@ -2,11 +2,11 @@
 title = "Manhattan, KS (519 Richards Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/22/2024"
+date = "2024-06-22"
 
 [Article]
-startDate = "8/18/1983"
-endDate = "-/-/1993"
+startDate = "1983-8-18"
+endDate = "1993-00-00"
 pageThumbnailFile = "Manhattan KS SPP Exterior.jpg|Exterior, 1995<ref> https://www.newspapers.com/article/the-manhattan-mercury-manhattan-ks-closi/32796170/</ref>"
 contributors = ["ChuckECool","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Rexburg090","Cheeseclassic","SuperCreamPiper2008","ShowbizMidwest"]
 gallery = []
@@ -99,4 +99,3 @@ In 1993, the location closed for unknown reasons.
 *Manhattan was one of two Showbiz Pizza locations in Kansas to undergo Concept Unification (The other being [Overland Park]({{< ref "wiki/Overland Park, KS (10510 Metcalf Lane).md" >}})) as Hutchinson, KS (703 E 30th Ave), The Wichita, KS Amidon location, The Armour location, Salina, KS (2555 Market Place), Shawnee, KS (12280 Shawnee Mission), and Topeka, KS (1301 SW Gage Blvd) on the other hand were closed by February 16th, 1986, May 20th, 1984, September 4th, 1985, January 8th, 1984, October 13th, 1985, and 1985-1986 and never converted into Chuck E. Cheese.
 *It was also the (unknown number) Showbiz location to open.
 
-<h2>References</h2>

@@ -2,7 +2,7 @@
 title = "Half-A-Chuck San Jose Museum Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "12/21/2021"
+date = "2021-12-21"
 
 [Article]
 startDate = ""

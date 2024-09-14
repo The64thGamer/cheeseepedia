@@ -2,10 +2,10 @@
 title = "Chuck E's Magical Holiday Celebration"
 draft = false
 tags = ["Showtapes"]
-date = "08/01/2022"
+date = "2022-08-01"
 
 [Article]
-startDate = "-/-/1996"
+startDate = "1996-00-00"
 endDate = ""
 contributors = ["Ceclife13"]
 gallery = []

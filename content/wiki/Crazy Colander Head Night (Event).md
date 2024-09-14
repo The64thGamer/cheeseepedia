@@ -2,7 +2,7 @@
 title = "Crazy Colander Head Night (Event)"
 draft = false
 tags = ["Events"]
-date = "10/11/2023"
+date = "2023-10-11"
 
 [Article]
 startDate = ""
@@ -88,6 +88,6 @@ The Crazy Colander Contest would be held again, this time specifying the local w
 <h2>Colander Night Scrapbook Photos</h2>
 
 
-<h2>References</h2>
+
 
 <references />

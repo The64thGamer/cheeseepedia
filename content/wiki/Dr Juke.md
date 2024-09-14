@@ -2,7 +2,7 @@
 title = "Dr. Juke"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "07/31/2022"
+date = "2022-07-31"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "PTT Winchester Restrooms Sign"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/06/2023"
+date = "2023-08-06"
 
 [Article]
 startDate = ""
@@ -24,5 +24,5 @@ The design of this sign is fairly bland, showcasing the white text 'RESTROOMS' i
 
 
 
-<h2> References </h2>
+
 https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf

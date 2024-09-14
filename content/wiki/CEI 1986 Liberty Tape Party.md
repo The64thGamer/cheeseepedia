@@ -2,7 +2,7 @@
 title = "CEI 1986 Liberty Tape Party"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "07/28/2022"
+date = "2022-07-28"
 
 [Article]
 startDate = ""

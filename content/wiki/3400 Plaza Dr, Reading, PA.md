@@ -2,11 +2,11 @@
 title = "3400 Plaza Dr, Reading, PA"
 draft = false
 tags = []
-date = "01/01/2023"
+date = "2023-01-01"
 
 [Article]
-startDate = "12/6/1982"
-endDate = "-/-/1988"
+startDate = "1982-12-6"
+endDate = "1988-00-00"
 contributors = ["RockAfire Alex","Emcaacme","ShowbizMidwest","Rexburg090","RedaCEC"]
 gallery = []
 +++

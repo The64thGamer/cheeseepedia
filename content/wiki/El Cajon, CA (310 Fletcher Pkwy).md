@@ -2,11 +2,11 @@
 title = "El Cajon, CA (310 Fletcher Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "06/25/2024"
+date = "2024-06-25"
 
 [Article]
-startDate = "5/-/1982"
-endDate = "7/-/1993"
+startDate = "1982-5-00"
+endDate = "1993-7-00"
 pageThumbnailFile = "PIC 1350.jpeg|Location’s exterior before getting demolished (PC: CyberstarChuck)"
 contributors = ["Rexburg090","2600:4040:5A0E:D900:8DCA:CD64:28F2:3E21","CEC Tinley","ChuckECool","JND","Cheeseclassic"]
 gallery = []

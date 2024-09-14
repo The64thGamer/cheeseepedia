@@ -2,10 +2,10 @@
 title = "Miami, FL (20335 Biscayne Blvd)"
 draft = false
 tags = ["Store List"]
-date = "05/31/2023"
+date = "2023-05-31"
 
 [Article]
-startDate = "5/27/1993"
+startDate = "1993-5-27"
 endDate = ""
 contributors = ["Rexburg090"]
 gallery = []
@@ -119,5 +119,5 @@ TODO
 |January 16, 2023
 |}
 
-<h2> References </h2>
+
 <references />

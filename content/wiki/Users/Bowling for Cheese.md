@@ -2,7 +2,7 @@
 title = "Bowling for Cheese"
 draft = false
 tags = ["User"]
-date = "03/30/2023"
+date = "2023-03-30"
 
 [Article]
 startDate = ""

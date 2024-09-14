@@ -2,10 +2,10 @@
 title = "Pizza Time Theatre Happy Holidays Mug (1983)"
 draft = false
 tags = ["Merchandise"]
-date = "03/31/2023"
+date = "2023-03-31"
 
 [Article]
-startDate = "-/-/1983"
+startDate = "1983-00-00"
 endDate = ""
 pageThumbnailFile = "5gq345g34t345t35yh4h5645h5y.jpg|Mug Front"
 contributors = ["The 64th Gamer"]

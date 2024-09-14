@@ -2,11 +2,11 @@
 title = "Denton, TX (341 South I-35)"
 draft = false
 tags = ["Store List"]
-date = "06/09/2024"
+date = "2024-06-09"
 
 [Article]
-startDate = "11/11/2002"
-endDate = "-/-/1984"
+startDate = "2002-11-11"
+endDate = "1984-00-00"
 contributors = ["JamesLemony","Cecanddisneyfan2004"]
 gallery = ["Denton Nov 2022.jpg|thumb|Denton in November 2022"]
 +++

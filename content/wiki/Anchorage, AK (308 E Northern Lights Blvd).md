@@ -2,10 +2,10 @@
 title = "Anchorage, AK (308 E Northern Lights Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/27/2024"
+date = "2024-08-27"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 pageThumbnailFile = "CECAnchorageAK2.0Exterior.jpg|Anchorage's exterior as of today. (September 2022)"
 contributors = ["CECBowlingGreen","ChuckECool","ThatBoiCydalan","Rexburg090","CEC1988"]

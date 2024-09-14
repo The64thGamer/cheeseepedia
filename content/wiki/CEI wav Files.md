@@ -2,7 +2,7 @@
 title = "CEI .wav Files"
 draft = false
 tags = []
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""

@@ -2,10 +2,10 @@
 title = "Orlando, FL (7419 International Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/16/2024"
+date = "2024-07-16"
 
 [Article]
-startDate = "7/22/1981"
+startDate = "1981-7-22"
 endDate = ""
 pageThumbnailFile = "Orlando (International)'s 2.0 exterior.png|The exterior of Orlando (International) as a 2.0 and at nighttime."
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","ThatBoiCydalan","108.11.7.204","BurgersNuggs445","AstridMascotFan2005"]
@@ -130,7 +130,7 @@ On January 3, 2024 a lawsuit was filed against CEC Entertainment over an inciden
 
 <h2>Videos </h2>
 W.I.P
-<h2>References</h2>
+
 <references />
 
 <h2>Trivia</h2>

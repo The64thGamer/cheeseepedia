@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 6"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "01/30/2022"
+date = "2022-01-30"
 
 [Article]
 startDate = ""
@@ -37,5 +37,5 @@ It is unknown the showtapes this released alongside.
 #[https://en.wikipedia.org/wiki/American_Made_(song) American Made]
 #[https://en.wikipedia.org/wiki/Back_in_the_U.S.A. Back In The U.S.A. (Hail! Hail! Rock 'N' Roll / Soundtrack Version)]
 #[https://en.wikipedia.org/wiki/Big_City_(Merle_Haggard_song) Big City]
-<h2>References</h2>
+
 <references />

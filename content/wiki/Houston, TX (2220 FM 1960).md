@@ -2,10 +2,10 @@
 title = "Houston, TX (2220 FM 1960)"
 draft = false
 tags = ["Store List"]
-date = "10/29/2023"
+date = "2023-10-29"
 
 [Article]
-startDate = "6/25/1981"
+startDate = "1981-6-25"
 endDate = ""
 pageThumbnailFile = "desc=The store's exterior in 2018. (PC: Wikkidpiggz CEC)|image=Fm 1960 CEC 2018.png"
 contributors = ["ThatBoiCydalan","Rexburg090","Emcaacme"]
@@ -213,5 +213,5 @@ Over the years, the store's surrounding area would worsen as its shopping center
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

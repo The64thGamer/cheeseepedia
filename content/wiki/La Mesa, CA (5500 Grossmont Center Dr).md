@@ -2,10 +2,10 @@
 title = "La Mesa, CA (5500 Grossmont Center Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/03/2024"
+date = "2024-06-03"
 
 [Article]
-startDate = "8/2/1993"
+startDate = "1993-8-2"
 endDate = ""
 pageThumbnailFile = "LaMesaExterior2021OctoberGoogleMaps.png|Street view of the exterior in October 2021 (PC: Google Maps)"
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","71.15.155.152","Rexburg090","ChuckECool","216.125.34.66","2605:AD80:31:19FD:2D14:C6C4:8C3D:9911","76.167.210.169","CorrectorMan","ThatBoiCydalan","Cheeseclassic","Chez","JND","Moonrock"]
@@ -295,5 +295,5 @@ TODO
 <h2>Videos </h2>
 TODO
 
-<h2>References</h2>
+
 <references />

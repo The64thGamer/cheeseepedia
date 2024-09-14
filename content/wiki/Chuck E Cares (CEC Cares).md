@@ -2,7 +2,7 @@
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "12/06/2022"
+date = "2022-12-06"
 
 [Article]
 startDate = ""
@@ -25,4 +25,3 @@ Funds have been sent to employees under certain hardships and circumstances. The
 
 Between the start of 2020 and May of 2022, the CEC Cares fund has reported a total of $325,000 distributed amongst employees. 750 were granted within the first year of the COVID-19 pandemic, and 84 employees who suffered Hurricane Ida in September of 2021 were given funds as well.
 
-<h2> References </h2>

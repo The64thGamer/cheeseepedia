@@ -2,7 +2,7 @@
 title = "Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "04/29/2024"
+date = "2024-04-29"
 
 [Article]
 startDate = ""

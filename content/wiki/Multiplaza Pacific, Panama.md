@@ -2,10 +2,10 @@
 title = "Multiplaza Pacific, Panama"
 draft = false
 tags = ["Store List"]
-date = "07/01/2024"
+date = "2024-07-01"
 
 [Article]
-startDate = "-/-/2013"
+startDate = "2013-00-00"
 endDate = ""
 pageThumbnailFile = "Multiplaza Panama exterior.jpeg |A picture of the exterior inside the mall.(PC: Rene M. in Foursquare)"
 contributors = ["Bay12"]

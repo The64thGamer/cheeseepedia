@@ -2,7 +2,7 @@
 title = "Looney Bird Interactive (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -117,5 +117,5 @@ This character is suspected to run off of NRAE Mitzi bits.
 
 
 
-<h2> References </h2>
+
 <references />

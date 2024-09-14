@@ -2,7 +2,7 @@
 title = "Mr. Munch"
 draft = false
 tags = ["Characters"]
-date = "06/04/2024"
+date = "2024-06-04"
 
 [Article]
 startDate = ""
@@ -74,4 +74,3 @@ Mr. Munch would appear in the official Chuck E. Cheese's movie 'Chuck E. Cheese 
 |Destroyed.
 |}
 
-<h2> References </h2>

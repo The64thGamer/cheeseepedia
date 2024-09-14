@@ -2,7 +2,7 @@
 title = "Data"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = "12/07/2022"
+date = "2022-12-07"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Warwick, RI (650 Bald Hill Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/11/2024"
+date = "2024-08-11"
 
 [Article]
 startDate = ""
@@ -177,4 +177,3 @@ Warwick was the last location to have the rubber eyelashes, excluding Corporate.
 |Warwick getting ready to install their trampoline.
 |April 26, 2024
 |}
-<h2>References</h2>

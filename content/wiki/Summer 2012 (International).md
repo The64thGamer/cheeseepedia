@@ -2,7 +2,7 @@
 title = "Summer 2012 (International)"
 draft = false
 tags = ["Showtapes"]
-date = "10/14/2022"
+date = "2022-10-14"
 
 [Article]
 startDate = ""

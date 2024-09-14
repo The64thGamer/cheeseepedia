@@ -2,7 +2,7 @@
 title = "Showroom 1994"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "03/27/2023"
+date = "2023-03-27"
 
 [Article]
 startDate = ""

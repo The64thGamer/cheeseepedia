@@ -2,7 +2,7 @@
 title = "Billy Bob Talking Walkaround"
 draft = false
 tags = ["Costumed Characters"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ Billy Bob was animated using servo controllers. This head had two movements: mou
 <h2>= Prototype Version </h2>=
 Creative Engineering's objective with this prototype head was to test if they were able to make this sort of technology work, and fit it inside a standard walkaround head. This prototype was much different from the final revision. The head was controlled by pneumatics instead of electronics. The animation was the same, in that it had the same movements. Each movement runs on a small pancake cylinder. A standard Billy Bob mouth plate and eyelids are reused. There was no radio wave signals or receiver in the costume. It is believed that for testing purposes, an airline was ran from the head, through the costume, and connected to the Classic Rock-afire Billy Bob animatronic mac valves, or some sort of other condensed, alternative valve source. The test of the costume ran off of the Rock-afire show data. Improvements to the mask were made after this prototype. Only about the upper half of the mask was supported by plastic, while the finished version was completely plastic to add stability. This prototype head is a one of a kind. It still exists today in the hands of a collector, and is undergoing restoration.
 
-<h2> References </h2>

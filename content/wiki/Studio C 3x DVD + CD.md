@@ -2,7 +2,7 @@
 title = "Studio C 3x DVD + CD"
 draft = false
 tags = ["Showtape Formats"]
-date = "12/04/2023"
+date = "2023-12-04"
 
 [Article]
 startDate = ""

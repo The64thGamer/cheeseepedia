@@ -2,7 +2,7 @@
 title = "Ingersoll Rand 15 T Compressor Training Rerelease"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "03/01/2024"
+date = "2024-03-01"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Show Reimagined - These Hands"
 draft = false
 tags = ["Showtapes"]
-date = "06/26/2024"
+date = "2024-06-26"
 
 [Article]
 startDate = ""
@@ -18,4 +18,3 @@ The segment's audio was the song 'These Hands' from [Working For A Living Segmen
 #<b> Segment</b> <b>1</b>
 ##These Hands
 
-<h2> References </h2>

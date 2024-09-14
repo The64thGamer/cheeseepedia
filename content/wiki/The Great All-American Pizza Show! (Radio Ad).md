@@ -2,7 +2,7 @@
 title = "The Great All-American Pizza Show! (Radio Ad)"
 draft = false
 tags = ["Commercials"]
-date = "03/19/2024"
+date = "2024-03-19"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ The Ad was created in 1979 (Day & Month Unknown) along with [The Great All-Ameri
 * Unknown - Disembodied (Take 1)
 * Unknown - Disembodied (Take 2)
 
-<h2> References </h2>

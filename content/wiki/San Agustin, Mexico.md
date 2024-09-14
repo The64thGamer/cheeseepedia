@@ -2,10 +2,10 @@
 title = "San Agustin, Mexico"
 draft = false
 tags = ["Store List"]
-date = "07/14/2024"
+date = "2024-07-14"
 
 [Article]
-startDate = "3/6/2012"
+startDate = "2012-3-6"
 endDate = ""
 pageThumbnailFile = "San Agustin CEC Exterior.jpg|San Agustin's Exterior (PC: Google Maps)"
 contributors = ["2601:280:5D02:1010:2C80:8709:FE91:257D","Cheeseclassic","2601:280:5D02:1010:6161:88FF:D537:F49D","Bay12"]

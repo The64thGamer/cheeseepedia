@@ -2,11 +2,11 @@
 title = "Indianapolis, IN (4910 W 38th St)"
 draft = false
 tags = ["Store List"]
-date = "10/29/2023"
+date = "2023-10-29"
 
 [Article]
-startDate = "11/4/1981"
-endDate = "12/19/2011"
+startDate = "1981-11-4"
+endDate = "2011-12-19"
 pageThumbnailFile = "Georgetown in October 2011.png|Exterior (October 2011)"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","CorrectorMan","Cheeseclassic","ThatBoiCydalan"]
 gallery = []
@@ -104,5 +104,5 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 |Final Store Tour of the store before closure.
 |November 5, 2011
 |}
-<h2> References </h2>
+
 TODO

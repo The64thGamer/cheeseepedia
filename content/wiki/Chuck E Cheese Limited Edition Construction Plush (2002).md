@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Limited Edition Construction Plush (2002)"
 draft = false
 tags = ["Merchandise"]
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""

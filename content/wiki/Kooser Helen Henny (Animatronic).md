@@ -2,7 +2,7 @@
 title = "Kooser Helen Henny (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "08/09/2023"
+date = "2023-08-09"
 
 [Article]
 startDate = ""

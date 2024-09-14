@@ -2,7 +2,7 @@
 title = "Chuck E Cheese's 20th Anniversary"
 draft = false
 tags = ["Live Shows"]
-date = "07/14/2022"
+date = "2022-07-14"
 
 [Article]
 startDate = ""

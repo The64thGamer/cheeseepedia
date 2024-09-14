@@ -2,7 +2,7 @@
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
 tags = []
-date = "07/15/2022"
+date = "2022-07-15"
 
 [Article]
 startDate = ""
@@ -22,4 +22,3 @@ A 35mm film for the commercial was placed on eBay on July 15, 2022<ref>https://w
  Produced by Filmack Studios
 
 
-<h2> References </h2>

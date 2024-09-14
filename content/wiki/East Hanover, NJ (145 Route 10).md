@@ -2,10 +2,10 @@
 title = "East Hanover, NJ (145 Route 10)"
 draft = false
 tags = ["Store List"]
-date = "06/25/2024"
+date = "2024-06-25"
 
 [Article]
-startDate = "10/31/1994"
+startDate = "1994-10-31"
 endDate = ""
 pageThumbnailFile = "2.0 East Hanover.jpg|2.0 of Exterior"
 contributors = ["47.17.236.200","CorrectorMan","Cecnj98","CEC New Jersey","Tux Chuck","Cheeseclassic"]

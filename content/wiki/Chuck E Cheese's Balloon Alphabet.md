@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Balloon Alphabet"
 draft = false
 tags = ["Video Games"]
-date = "01/29/2023"
+date = "2023-01-29"
 
 [Article]
-startDate = "9/20/2011"
+startDate = "2011-9-20"
 endDate = ""
 contributors = ["ChuckE1352","The 64th Gamer"]
 gallery = []

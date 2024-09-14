@@ -2,7 +2,7 @@
 title = "Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "03/06/2024"
+date = "2024-03-06"
 
 [Article]
 startDate = ""
@@ -26,4 +26,3 @@ In 1999 the Nirobi Trio was removed and replaced with the Cereal Bowl Band.<ref>
 
 
 
-<h2> References </h2>

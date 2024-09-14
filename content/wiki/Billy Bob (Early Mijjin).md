@@ -2,7 +2,7 @@
 title = "Billy Bob (Early Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "02/22/2024"
+date = "2024-02-22"
 
 [Article]
 startDate = ""
@@ -82,5 +82,5 @@ Official bitchart or drawer is unknown. Eyes and eyelids are controlled by servo
 
 
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Munch Mouth"
 draft = false
 tags = ["Arcade Games"]
-date = "08/26/2023"
+date = "2023-08-26"
 
 [Article]
 startDate = ""

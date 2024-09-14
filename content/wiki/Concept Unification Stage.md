@@ -2,7 +2,7 @@
 title = "Concept Unification Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "09/13/2024"
+date = "2024-09-13"
 
 [Article]
 startDate = ""
@@ -894,5 +894,5 @@ Note: Contains only confirmed installations, and may not be in order.
 |Third and last 3-Stage installed in a new Chuck E. Cheese's location. Transferred the Guatemala City (Ave La Reforma) location. Was in Very Poor Condition. Chuck had homemade 'Cool Chuck' outfit, Jasper & Pasqually had latex masks, Pasqually had a Red & White checkered apron and a plain white drumfront, the stage had wood tiling and tiled floors, Wink had 'In Pizza We Trust' slogan, and stage had 2-Stage CEC neon sign. 3-Stage animatronics and some props from this stage were relocated to the new Concepcion County, Guatemala location in November 2016 as on-display pieces, where they remain today.
 |}
 
-<h2> References </h2>
+
 <references />

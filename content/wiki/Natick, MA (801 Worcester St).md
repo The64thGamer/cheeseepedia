@@ -2,11 +2,11 @@
 title = "Natick, MA (801 Worcester St)"
 draft = false
 tags = ["Store List"]
-date = "01/30/2024"
+date = "2024-01-30"
 
 [Article]
-startDate = "11/17/1992"
-endDate = "5/5/2020"
+startDate = "1992-11-17"
+endDate = "2020-5-5"
 pageThumbnailFile = "NatickMAExterior2017NovemberGoogleMaps.png|A street view of the store's exterior back in November 2017 before closure (PC: Google Maps)"
 contributors = ["Rexburg090","2600:4040:59FF:B100:A81A:8B69:C7EC:14B","Destinationimagination95","216.125.34.66","Cheeseclassic","NativeNew Yorker","Caydenpedia"]
 gallery = []

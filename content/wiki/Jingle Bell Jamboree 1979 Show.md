@@ -2,7 +2,7 @@
 title = "Jingle Bell Jamboree 1979 Show"
 draft = false
 tags = ["Showtapes"]
-date = "06/15/2022"
+date = "2022-06-15"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ Creative Engineering took a private flight to <i>Santa's Village</i> (528 Presid
 ##[https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town Santa Claus is Comin' to Town]
 ##Outro Jingle
 
-<h2> References </h2>

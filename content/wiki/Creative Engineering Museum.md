@@ -2,7 +2,7 @@
 title = "Creative Engineering Museum"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/25/2023"
+date = "2023-08-25"
 
 [Article]
 startDate = ""
@@ -19,4 +19,3 @@ Eventually, an unknown location in <i>Siesta Key</i> would be located and decide
 
 Some time in 2023, a 'Plan B' building would be found at an unknown location. It is currently unknown if the deal for the location has gone through.<ref name=':0' />
 
-<h2> References </h2>

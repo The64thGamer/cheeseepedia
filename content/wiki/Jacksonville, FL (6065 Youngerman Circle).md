@@ -2,10 +2,10 @@
 title = "Jacksonville, FL (6065 Youngerman Circle)"
 draft = false
 tags = ["Store List"]
-date = "03/14/2024"
+date = "2024-03-14"
 
 [Article]
-startDate = "12/22/1981"
+startDate = "1981-12-22"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","Montfortdog","Tux Chuck"]
 gallery = ["JacksonvilleYoungermanExterior2022JanuaryGoogleMaps.png|thumb|Street view of the exterior in January 2022 (PC: Google Maps)"]

@@ -2,10 +2,10 @@
 title = "Monroeville, PA (3813 William Penn Hwy)"
 draft = false
 tags = ["Store List"]
-date = "03/18/2024"
+date = "2024-03-18"
 
 [Article]
-startDate = "3/-/1982"
+startDate = "1982-3-00"
 endDate = ""
 pageThumbnailFile = "Monroeville PTT Site in 2023.jpg|The site of the former PTT in 2023."
 contributors = ["Cheeseclassic"]

@@ -2,7 +2,7 @@
 title = "Friendly Freddy Show"
 draft = false
 tags = ["Showtapes"]
-date = "01/10/2023"
+date = "2023-01-10"
 
 [Article]
 startDate = ""

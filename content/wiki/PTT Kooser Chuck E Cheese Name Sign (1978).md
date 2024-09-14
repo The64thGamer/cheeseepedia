@@ -2,7 +2,7 @@
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/27/2023"
+date = "2023-08-27"
 
 [Article]
 startDate = ""
@@ -34,7 +34,7 @@ It is unknown if the Kooser Chuck E. Cheese nameplate received the text '© PIZZ
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf
 # https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf

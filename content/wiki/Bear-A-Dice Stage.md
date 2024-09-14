@@ -2,7 +2,7 @@
 title = "Bear-A-Dice Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "05/29/2023"
+date = "2023-05-29"
 
 [Article]
 startDate = ""
@@ -34,5 +34,5 @@ Documentation of the Bear-A-Dise has been slim past 2017, and the only new progr
 
 
 
-<h2> References </h2>
+
 <references />

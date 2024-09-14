@@ -2,7 +2,7 @@
 title = "WKMG Creative Engineering Spot (1976)"
 draft = false
 tags = ["News Footage"]
-date = "02/04/2023"
+date = "2023-02-04"
 
 [Article]
 startDate = ""
@@ -38,5 +38,5 @@ The segment is narrated by two unknown newscasters, alongside Aaron Fecther spea
 
 
 [Pneumatic Movement Noises]</blockquote>
-<h2>References</h2>
+
 <references />

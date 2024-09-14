@@ -2,7 +2,7 @@
 title = "Kooser Main Show & Dolli Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "07/07/2024"
+date = "2024-07-07"
 
 [Article]
 startDate = ""
@@ -79,5 +79,5 @@ It is currently unclear if the known segment list is the exact order from the sh
 
 
 
-<h2>References</h2>
+
 <references />

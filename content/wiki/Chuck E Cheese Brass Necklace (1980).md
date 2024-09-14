@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Brass Necklace (1980)"
 draft = false
 tags = ["Merchandise"]
-date = "03/27/2022"
+date = "2022-03-27"
 
 [Article]
 startDate = ""

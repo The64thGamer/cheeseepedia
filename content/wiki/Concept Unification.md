@@ -2,7 +2,7 @@
 title = "Concept Unification"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/14/2024"
+date = "2024-08-14"
 
 [Article]
 startDate = ""
@@ -65,5 +65,5 @@ In modern times, Chuck E. Cheese and Munch's Make Believe Band have been redesig
 
 Of the four preserved MMBB stages, [Northridge, CA (8425 Reseda Blvd)]({{< ref "wiki/Northridge, CA (8425 Reseda Blvd).md" >}}) and [Hicksville, NY (Delco Plaza 11-15 Hanover Place)]({{< ref "wiki/Hicksville, NY (Delco Plaza 11-15 Hanover Place).md" >}}) will be preserving the Cyberamics through their [2-Stage]({{< ref "wiki/2-Stage.md" >}}) and [1-Stage]({{< ref "wiki/1-Stage.md" >}}) respectively, with the converted Rock-afire animatronics preserved at [Springfield, IL (2369 McArthur Ave)]({{< ref "wiki/Springfield, IL (2369 McArthur Ave).md" >}})  through their [Concept Unification 1-Stage]({{< ref "wiki/Concept Unification 1-Stage.md" >}}) (the last of its kind to exist). The final Legacy Store announced by the company to keep a MMBB show, [Charlotte, NC (7701 Pineville-Matthews Rd)]({{< ref "wiki/Charlotte, NC (7701 Pineville-Matthews Rd).md" >}}), will also preserve converted Rock-afire animatronics through the last in-store [Concept Unification 3-Stage]({{< ref "wiki/Concept Unification Stage.md" >}}). With Charlotte-Pineville's 3-Stage in particular, it is officially recognized by CEC Entertainment to be a special preservation for the fans, serving as an indirect reminder of past events that have been vital to the company's legacy, beloved characters, and evolution of entertainment offerings at CEC.<ref>https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/</ref>
 
-<h2> References </h2>
+
 <references />

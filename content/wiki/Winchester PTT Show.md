@@ -2,7 +2,7 @@
 title = "Winchester PTT Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "11/03/2023"
+date = "2023-11-03"
 
 [Article]
 startDate = ""
@@ -47,4 +47,3 @@ Additional guest characters would appear on the west side of the showroom.
 * [Winchester Madam Oink]({{< ref "wiki/Winchester Madam Oink (Animatronic).md" >}}) (February, 1978)
 * [Winchester Foxy Colleen]({{< ref "wiki/Winchester Foxy Colleen (Animatronic).md" >}}) (October, 1978)
 
-<h2> References </h2>

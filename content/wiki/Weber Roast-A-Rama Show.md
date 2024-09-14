@@ -2,7 +2,7 @@
 title = "Weber Roast-A-Rama Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/14/2024"
+date = "2024-05-14"
 
 [Article]
 startDate = ""
@@ -21,5 +21,5 @@ The show was very entertaining for children who would even stay after the show t
 <h2> Images </h2>
 
 
-<h2> References </h2>
+
 https://www.newspapers.com/article/the-orlando-sentinel-cpi-weber-show-in-f/141757161/

@@ -2,10 +2,10 @@
 title = "Colorado Springs, CO (5156 N Academy Blvd)"
 draft = false
 tags = ["Store List"]
-date = "05/03/2023"
+date = "2023-05-03"
 
 [Article]
-startDate = "9/1/1982"
+startDate = "1982-9-1"
 endDate = ""
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090"]
 gallery = []
@@ -116,5 +116,5 @@ As of February 2023, Colorado Springs still has the 2.0 Remodel and Dance Floor 
 TODO
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

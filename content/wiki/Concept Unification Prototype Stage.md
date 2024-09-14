@@ -2,7 +2,7 @@
 title = "Concept Unification Prototype Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "09/05/2024"
+date = "2024-09-05"
 
 [Article]
 startDate = ""
@@ -73,4 +73,3 @@ This stage was tested with the [Chuck E. Cheese Shows (CEC Best of 1988)]({{< re
 |One of only 2 CU Prototype Stages installed. Only CU Prototype Stage to be installed in a Showbiz / CEC location. Replaced with the finalized [Concept Unification Stage]({{< ref "wiki/Concept Unification Stage.md" >}}) in June 1990.
 |}
 
-<h2> References </h2>

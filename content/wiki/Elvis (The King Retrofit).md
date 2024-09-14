@@ -2,7 +2,7 @@
 title = "Elvis (The King Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "02/26/2024"
+date = "2024-02-26"
 
 [Article]
 startDate = ""
@@ -39,5 +39,5 @@ During the holiday season, Jungle Jim's dresses Elvis up as Santa and has him si
 
 
 
-<h2> References </h2>
+
 <references />

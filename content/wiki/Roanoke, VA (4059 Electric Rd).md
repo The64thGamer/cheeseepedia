@@ -2,10 +2,10 @@
 title = "Roanoke, VA (4059 Electric Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/04/2024"
+date = "2024-04-04"
 
 [Article]
-startDate = "6/21/1983"
+startDate = "1983-6-21"
 endDate = ""
 pageThumbnailFile = "RoanokeVAExterior2.0Remodel.jpg|Roanoke's exterior after the 2.0 Remodel (PC: Chuck E. Cheese Roanoke Virginia)"
 contributors = ["RPCEC","CECBowlingGreen","ThatBoiCydalan","RPCEC Backup","Rexburg090","2600:4040:59FF:B100:D026:CA31:AF2F:EBD6","RedaCEC","168.69.254.249"]
@@ -143,5 +143,5 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other Showbiz locati
 |October 8, 2022
 |}
 
-<h2>References</h2>
+
 <references />

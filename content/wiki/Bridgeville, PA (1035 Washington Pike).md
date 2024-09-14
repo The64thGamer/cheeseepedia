@@ -2,10 +2,10 @@
 title = "Bridgeville, PA (1035 Washington Pike)"
 draft = false
 tags = ["Store List"]
-date = "06/13/2023"
+date = "2023-06-13"
 
 [Article]
-startDate = "-/-/2002"
+startDate = "2002-00-00"
 endDate = ""
 contributors = ["Bowling for Cheese","Rexburg090","CorrectorMan"]
 gallery = ["2.0FINISHEDEXBRIDGEVILLE.jpg|thumb|Bridgeville's 2.0 exterior."]
@@ -96,5 +96,5 @@ On September 22nd, 2022 this location began the 2017 2.0 Remodel Program (2.0 Re
 <h2>Videos</h2>
 TODO
 
-<h2>References</h2>
+
 <references />

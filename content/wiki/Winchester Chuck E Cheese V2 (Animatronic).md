@@ -2,7 +2,7 @@
 title = "Winchester Chuck E. Cheese V2 (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "06/01/2024"
+date = "2024-06-01"
 
 [Article]
 startDate = ""
@@ -132,5 +132,5 @@ in Chuck E.'s left hand was his infamous prop cigar. The cigar gave the appearan
 
 
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese 32m (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "08/13/2024"
+date = "2024-08-13"
 
 [Article]
 startDate = ""
@@ -529,5 +529,5 @@ In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese anim
 *Figures made in 1997 had wire in their hands so that they were able to have their fingers bent to hold things.
 *The Garner Holt website in the late 1990s to early 2000s erroneously stated that the animatronic had 33 movements.
 
-<h2>References</h2>
+
 <references />

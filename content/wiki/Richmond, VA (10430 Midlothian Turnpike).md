@@ -2,10 +2,10 @@
 title = "Richmond, VA (10430 Midlothian Turnpike)"
 draft = false
 tags = ["Store List"]
-date = "08/05/2024"
+date = "2024-08-05"
 
 [Article]
-startDate = "5/1/1990"
+startDate = "1990-5-1"
 endDate = ""
 contributors = ["CECBowlingGreen","RPCEC Backup","Midlo tech","Rexburg090","Noahrbxt","RedaCEC","ChuckEPediaIsTheBest!","168.69.254.246","Showbizpizzawiki","JoshWizz123","168.69.254.249","CEC Tinley","CorrectorMan","Caydenpedia","Muncho"]
 gallery = ["Richmond's New Exterior.jpg|thumb|Richmond months after they completed their 2.0 remodel. (PC: Google Maps)"]

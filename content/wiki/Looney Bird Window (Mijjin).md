@@ -2,7 +2,7 @@
 title = "Looney Bird Window (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -65,5 +65,5 @@ This bot's servo movements are tied to the servo movements for the [Looney Bird 
 
 
 
-<h2>References</h2>
+
 <references />

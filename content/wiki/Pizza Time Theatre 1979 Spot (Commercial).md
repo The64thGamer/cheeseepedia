@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre 1979 Spot (Commercial)"
 draft = false
 tags = ["Commercials"]
-date = "04/07/2024"
+date = "2024-04-07"
 
 [Article]
 startDate = ""
@@ -14,4 +14,3 @@ The <b><i>Pizza Time Theatre 1979 Spot</b></i> is an unnamed commercial filmed i
 
 The commercial was produced by Bob Wilkins Advertising Inc. It was filmed at the [Concord, CA (1975 Diamond Blvd)]({{< ref "wiki/Concord, CA (1975 Diamond Blvd).md" >}}) and [Citrus Heights, CA (7614 Greenback Lane)]({{< ref "wiki/Citrus Heights, CA (7614 Greenback Lane).md" >}}) locations over the course of two days.<ref>https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n3/mode/2up?q=concord</ref>
 
-<h2> References </h2>

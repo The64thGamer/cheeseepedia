@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 18"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "12/08/2023"
+date = "2023-12-08"
 
 [Article]
 startDate = ""
@@ -35,5 +35,5 @@ These programs were still produced by <i>Sight & Sound Entertainment Corporation
 # [https://en.wikipedia.org/wiki/Prime_Time_TV_(song) Prime Time TV]
 # [https://en.wikipedia.org/wiki/Southern_Pacific_(band) All is Lost]
 
-<h2>References</h2>
+
 <references />

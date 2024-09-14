@@ -2,10 +2,10 @@
 title = "Fresno, CA (3117 W Shaw Ave)"
 draft = false
 tags = ["Store List"]
-date = "03/02/2024"
+date = "2024-03-02"
 
 [Article]
-startDate = "7/18/1983"
+startDate = "1983-7-18"
 endDate = ""
 pageThumbnailFile = "Fresno CA Shaw 2.0 Exterior.png|Exterior on February 20th, 2024 (PC: the object in roblox)"
 contributors = ["Rexburg090","ChuckECool","ThatBoiCydalan","ChuckfeldStan"]
@@ -186,5 +186,5 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other Showbiz locatio
 |June 26, 2022
 |}
 
-<h2>References</h2>
+
 <references />

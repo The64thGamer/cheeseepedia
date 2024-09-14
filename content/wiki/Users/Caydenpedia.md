@@ -2,7 +2,7 @@
 title = "Caydenpedia"
 draft = false
 tags = ["User"]
-date = "09/05/2024"
+date = "2024-09-05"
 
 [Article]
 startDate = ""

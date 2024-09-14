@@ -2,11 +2,11 @@
 title = "Springfield, OR (3000 Gateway St"
 draft = false
 tags = []
-date = "09/12/2024"
+date = "2024-09-12"
 
 [Article]
-startDate = "12/13/2007"
-endDate = "9/14/2014"
+startDate = "2007-12-13"
+endDate = "2014-9-14"
 pageThumbnailFile = "SpringfieldOR.jpg|Exterior in September 2011. (PC: Google Maps)"
 contributors = ["Detourenterprises","Documentor"]
 gallery = []

@@ -2,7 +2,7 @@
 title = "Pasqually's School of Pizza Making"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "02/02/2023"
+date = "2023-02-02"
 
 [Article]
 startDate = ""

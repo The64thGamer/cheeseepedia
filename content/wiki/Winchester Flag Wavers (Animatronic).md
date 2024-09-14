@@ -2,7 +2,7 @@
 title = "Winchester Flag Wavers (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "02/28/2024"
+date = "2024-02-28"
 
 [Article]
 startDate = ""
@@ -37,4 +37,3 @@ The Winchester Flag Wavers had multiple Flag designs listed below:
 
 
 
-<h2> References </h2>

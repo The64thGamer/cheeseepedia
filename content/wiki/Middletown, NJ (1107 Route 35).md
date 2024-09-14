@@ -2,10 +2,10 @@
 title = "Middletown, NJ (1107 Route 35)"
 draft = false
 tags = ["Store List"]
-date = "08/15/2024"
+date = "2024-08-15"
 
 [Article]
-startDate = "7/25/1994"
+startDate = "1994-7-25"
 endDate = ""
 pageThumbnailFile = "Middletown Exterior.jpg|Middletown's Exterior (PC: Google Maps)"
 contributors = ["Namejadenrealv4","Cheeseclassic","ThatBoiCydalan","Caydenpedia","Chuckatronics","Cecnj98","CEC Knoxville","AstridMascotFan2005"]

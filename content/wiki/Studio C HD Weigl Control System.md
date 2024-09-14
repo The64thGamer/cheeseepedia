@@ -2,7 +2,7 @@
 title = "Studio C HD Weigl Control System"
 draft = false
 tags = ["Animatronic Control Hardware & Software"]
-date = "07/02/2022"
+date = "2022-07-02"
 
 [Article]
 startDate = ""

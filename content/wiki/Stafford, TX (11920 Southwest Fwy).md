@@ -2,10 +2,10 @@
 title = "Stafford, TX (11920 Southwest Fwy)"
 draft = false
 tags = ["Store List"]
-date = "04/04/2023"
+date = "2023-04-04"
 
 [Article]
-startDate = "9/22/1992"
+startDate = "1992-9-22"
 endDate = ""
 contributors = ["ChuckECool","2600:387:1:803:0:0:0:C5","Rexburg090"]
 gallery = []
@@ -51,5 +51,5 @@ In July 2022, Stafford received the 2.0 remodel and removed their 2-Stage for th
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

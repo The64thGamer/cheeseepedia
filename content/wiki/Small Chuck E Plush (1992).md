@@ -2,10 +2,10 @@
 title = "Small Chuck E. Plush (1992)"
 draft = false
 tags = ["Merchandise"]
-date = "07/09/2023"
+date = "2023-07-09"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["ToadEatSock"]
 gallery = []
@@ -42,4 +42,3 @@ CONTENTS, ACRYLIC FIBER OHIO 14268 PA 1844 MASS T 714 MADE IN CHINA'.
 
 
 
-<h2>References</h2>

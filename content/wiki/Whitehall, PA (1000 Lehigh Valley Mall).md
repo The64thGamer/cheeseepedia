@@ -2,10 +2,10 @@
 title = "Whitehall, PA (1000 Lehigh Valley Mall)"
 draft = false
 tags = ["Store List"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
-startDate = "12/16/1983"
+startDate = "1983-12-16"
 endDate = ""
 pageThumbnailFile = "Whitehall PA Chuck E Cheese exterior .jpg|A photo of the exterior taken on January 17, 2022"
 contributors = ["RockAfire Alex","Rexburg090","ChuckECool","69.124.126.253","CorrectorMan","ThatBoiCydalan","Bowling for Cheese","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","ShowbizMidwest","BurgersNuggs445","Icantbelieveitsnotbutter","Whitehall C.E.C Official","The 64th Gamer","AstridMascotFan2005","CECMentor"]
@@ -155,5 +155,5 @@ Whitehall opened its doors on December 16th, 1983 as the last Showbiz Pizza stor
 |Destroyed.
 |}
 
-<h2>References</h2>
+
 <references />

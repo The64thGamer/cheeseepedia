@@ -2,10 +2,10 @@
 title = "RAE Classic Hits"
 draft = false
 tags = ["Showtapes"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []

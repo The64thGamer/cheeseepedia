@@ -2,11 +2,11 @@
 title = "Bakersfield, CA (3420 Ming Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/24/2023"
+date = "2023-08-24"
 
 [Article]
-startDate = "12/-/1981"
-endDate = "-/-/1984"
+startDate = "1981-12-00"
+endDate = "1984-00-00"
 contributors = ["CEC Kokomo"]
 gallery = ["Bakersfield ptt.jpg|thumb|The site of the Bakersfield PTT today."]
 +++

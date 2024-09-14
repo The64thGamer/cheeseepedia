@@ -2,7 +2,7 @@
 title = "Prototype CEC Baby Lion Plush (2016)"
 draft = false
 tags = ["Merchandise"]
-date = "03/31/2023"
+date = "2023-03-31"
 
 [Article]
 startDate = ""

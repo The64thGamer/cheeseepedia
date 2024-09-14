@@ -2,10 +2,10 @@
 title = "Racine, WI (5612 Durand Ave)"
 draft = false
 tags = ["Store List"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
-startDate = "1/2/2001"
+startDate = "2001-1-2"
 endDate = ""
 pageThumbnailFile = "Racine2.0.jpg|Exterior after 2.0. PC: The Journal Times"
 contributors = ["SuperCreamPiper2008"]
@@ -65,5 +65,5 @@ Racine opened on January 2nd, 2001 in a freestanding building in the Regency Mal
 <h2>Videos</h2>
 TODO
 
-<h2>References</h2>
+
 <references />

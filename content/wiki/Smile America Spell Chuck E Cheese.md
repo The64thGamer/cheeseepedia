@@ -2,7 +2,7 @@
 title = "Smile America. Spell Chuck E Cheese"
 draft = false
 tags = ["Events"]
-date = "12/31/2022"
+date = "2022-12-31"
 
 [Article]
 startDate = ""
@@ -35,5 +35,5 @@ The prizes totaled $10 Million to be given away, though it is unclear which priz
 *Cash Prize, $10,000<ref name=':0' />
 <h2>=Development</h2>=
 The game and its pieces would be produced by <i>Benditt & Hall Marketing, Inc</i> based in Atlanta, Georgia, and sponsored by <i>Coca-Cola.</i><ref name=':1' /> All corporate stores at the time, along with select franchise units, would participate in the event.<ref name=':1' /> Pat Saign, vice president of marketing would comment that PTT's goal during the promotion would be to 'increase sales by 15% and to build frequency during the summer period'.
-<h2>References</h2>
+
 <references />

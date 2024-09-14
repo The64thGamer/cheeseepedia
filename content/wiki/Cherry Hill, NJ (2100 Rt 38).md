@@ -2,10 +2,10 @@
 title = "Cherry Hill, NJ (2100 Rt 38)"
 draft = false
 tags = ["Store List"]
-date = "10/19/2023"
+date = "2023-10-19"
 
 [Article]
-startDate = "8/25/1992"
+startDate = "1992-8-25"
 endDate = ""
 pageThumbnailFile = " Cherry Hill’s Exterior in 2023.jpg|Exterior, 2023 (PC: @dr.ezofcec on Instagram.)"
 contributors = ["MM995","Cecnj98","174.131.44.53","Ceclife13","Cheeseclassic","47.17.236.200","209.122.217.27","ThatBoiCydalan"]

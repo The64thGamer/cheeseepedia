@@ -2,10 +2,10 @@
 title = "Nanuet, NY (250 West Route 59)"
 draft = false
 tags = ["Store List"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
-startDate = "12/20/2003"
+startDate = "2003-12-20"
 endDate = ""
 pageThumbnailFile = "Nanuet-Exterior.jpg|Exterior of the store (March 5, 2023)"
 contributors = ["Poochy867","Rexburg090","Cy's Junk at School","CECMentor","ThatBoiCydalan","The 64th Gamer","Moonrock","Livelycheese","Veronancy","AstridMascotFan2005","CoolerDude","CECswag2009","BenTrainFan2000","Caydenpedia","Paskkkk","Stripes","TailsFan628"]
@@ -131,5 +131,5 @@ Published
 |7/25/2024
 |}
 
-<h2> References </h2>
+
 https://rdmanagement.com/wp-content/uploads/2015/04/Nanuet-NY-Brochure_1122.pdf

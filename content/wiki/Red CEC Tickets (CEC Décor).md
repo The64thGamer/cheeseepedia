@@ -2,10 +2,10 @@
 title = "Red CEC Tickets (CEC Décor)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/08/2023"
+date = "2023-07-08"
 
 [Article]
-startDate = "-/-/2005"
+startDate = "2005-00-00"
 endDate = ""
 pageThumbnailFile = "2005redticketsign.jpg|Red Ticket Sign"
 contributors = ["Documentor","The 64th Gamer"]

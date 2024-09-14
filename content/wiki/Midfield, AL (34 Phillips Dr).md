@@ -2,11 +2,11 @@
 title = "Midfield, AL (34 Phillips Dr)"
 draft = false
 tags = ["Store List"]
-date = "07/11/2023"
+date = "2023-07-11"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "4/-/1986"
+startDate = "1983-00-00"
+endDate = "1986-4-00"
 contributors = ["216.227.26.243","CorrectorMan"]
 gallery = []
 +++

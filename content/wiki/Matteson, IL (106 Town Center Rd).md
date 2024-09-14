@@ -2,11 +2,11 @@
 title = "Matteson, IL (106 Town Center Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/14/2024"
+date = "2024-08-14"
 
 [Article]
-startDate = "5/23/1983"
-endDate = "6/18/2020"
+startDate = "1983-5-23"
+endDate = "2020-6-18"
 pageThumbnailFile = "desc=The exterior in February 2019|image=Matteson.jpg"
 contributors = ["ChuckECool","ShowbizMidwest","BurgersNuggs445","Rexburg090","CorrectorMan","Melrosefool2763","ThatBoiCydalan","AstridMascotFan2005","CoolerDude"]
 gallery = []
@@ -101,5 +101,5 @@ On June 18, 2020, this location would be permanently closed due to CEC Entertain
 |Destroyed in fire.
 |}
 
-<h2>References</h2>
+
 <references />

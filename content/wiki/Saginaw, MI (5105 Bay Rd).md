@@ -2,10 +2,10 @@
 title = "Saginaw, MI (5105 Bay Rd)"
 draft = false
 tags = ["Store List"]
-date = "05/31/2024"
+date = "2024-05-31"
 
 [Article]
-startDate = "10/13/1982"
+startDate = "1982-10-13"
 endDate = ""
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","Stripes","TommyPickles"]
 gallery = []

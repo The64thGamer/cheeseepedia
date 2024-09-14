@@ -2,11 +2,11 @@
 title = "Simi Valley, CA (71 Tierra Rejada Rd)"
 draft = false
 tags = ["Store List"]
-date = "11/13/2023"
+date = "2023-11-13"
 
 [Article]
-startDate = "10/20/1980"
-endDate = "5/-/2008"
+startDate = "1980-10-20"
+endDate = "2008-5-00"
 pageThumbnailFile = "Simivalleyoutside.jpg|Simi Valley in May 2007 during the CheeseVention 4 visit, and a little over than a year before closure."
 contributors = ["BurgersNuggs445","Rexburg090","ChuckECool","The 64th Gamer","ThatBoiCydalan","CorrectorMan","76.169.103.193","CEC Tinley","SuperCreamPiper2008"]
 gallery = []
@@ -101,5 +101,5 @@ Simi Valley first remodeled with the 1986 SPT Remodel Program in 1990, which inv
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

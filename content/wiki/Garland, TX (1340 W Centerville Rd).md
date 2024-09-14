@@ -2,10 +2,10 @@
 title = "Garland, TX (1340 W Centerville Rd)"
 draft = false
 tags = ["Store List"]
-date = "08/03/2023"
+date = "2023-08-03"
 
 [Article]
-startDate = "11/3/1982"
+startDate = "1982-11-3"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan"]
 gallery = []
@@ -133,5 +133,5 @@ In November 2021, the location received the 2.0 remodel removing the Alpha stage
 |June 1991
 |}
 
-<h2>References</h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "CEC Rock It In Space"
 draft = false
 tags = ["Live Shows"]
-date = "07/17/2022"
+date = "2022-07-17"
 
 [Article]
-startDate = "-/-/1992"
+startDate = "1992-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat","Montfortdog"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

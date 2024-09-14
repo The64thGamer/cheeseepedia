@@ -2,7 +2,7 @@
 title = "Artie Antlers Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "12/17/2022"
+date = "2022-12-17"
 
 [Article]
 startDate = ""
@@ -89,4 +89,3 @@ Jim Cunningham, a band member of <i>The High Time Octet</i><ref>https:<i>www.dis
 
 Jim states the pianist for the sessions was someone who had done work with the <i>Pointer Sisters</i>. Although 12 separate pianists have been credited under the Pointer Sisters by 1980, this could potentially be Tom Salisbury or William 'Smitty' Smith for their longer lasting and more recent work at the time for the band.<ref>https:<i>www.allmusic.com/artist/tom-salisbury-mn0000063612/credits</ref><ref>https:</i>en.wikipedia.org/wiki/William_%22Smitty%22_Smith</ref>
 
-<h2> References </h2>

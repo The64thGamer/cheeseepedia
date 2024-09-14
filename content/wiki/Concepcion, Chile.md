@@ -2,10 +2,10 @@
 title = "Concepcion, Chile"
 draft = false
 tags = ["Store List"]
-date = "07/07/2023"
+date = "2023-07-07"
 
 [Article]
-startDate = "8/18/2012"
+startDate = "2012-8-18"
 endDate = ""
 pageThumbnailFile = "desc=Concepción's exterior in August 2022. (PC: Google Maps)|image=Concepción, Chile.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan"]

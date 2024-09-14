@@ -2,11 +2,11 @@
 title = "Waco, TX (5156 W Waco Dr)"
 draft = false
 tags = ["Store List"]
-date = "05/14/2024"
+date = "2024-05-14"
 
 [Article]
-startDate = "-/-/1986"
-endDate = "-/-/1992"
+startDate = "1986-00-00"
+endDate = "1992-00-00"
 pageThumbnailFile = "waco1.png|Waco, TX exterior in the 1980s."
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
 gallery = []
@@ -37,5 +37,5 @@ Identified machines.
 <h2>Animatronics</h2>
 The Rock-Afire Explosion from this location are thought to be reused from a previously closed store, as Creative Engineering has since parted with Showbiz Pizza Time by the locations debut. The characters' serials or whereabouts are currently unknown.
 
-<h2>References</h2>
+
 <references />

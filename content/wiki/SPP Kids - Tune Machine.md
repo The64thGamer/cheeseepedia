@@ -2,7 +2,7 @@
 title = "SPP Kids - Tune Machine"
 draft = false
 tags = ["Cyberstar Segments"]
-date = "12/08/2023"
+date = "2023-12-08"
 
 [Article]
 startDate = ""

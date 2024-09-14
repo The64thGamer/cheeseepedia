@@ -2,10 +2,10 @@
 title = "Tampa, FL (14308 Dale Mabry Hwy)"
 draft = false
 tags = ["Store List"]
-date = "12/29/2023"
+date = "2023-12-29"
 
 [Article]
-startDate = "7/-/1991"
+startDate = "1991-7-00"
 endDate = ""
 pageThumbnailFile = "ChuckECheeseTampaRockstarNight.jpg|Exterior, 2019"
 contributors = ["GainerXO","Rexburg090","RedaCEC","ShowbizMidwest","216.125.34.66","CEC Tinley","The 64th Gamer","Cheeseclassic"]
@@ -1087,4 +1087,3 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |Owned by a Private Collector.
 |}
 
-<h2> References </h2>

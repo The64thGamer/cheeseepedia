@@ -2,7 +2,7 @@
 title = "Winchester Jasper T. Jowls (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
 startDate = ""
@@ -62,4 +62,3 @@ The bot had a brown & white Banjo. Originally, It was a Real banjo, But It was p
 
 
 
-<h2> References </h2>

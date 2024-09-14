@@ -2,10 +2,10 @@
 title = "Orlando, FL (7456 West Colonial Dr)"
 draft = false
 tags = []
-date = "07/22/2024"
+date = "2024-07-22"
 
 [Article]
-startDate = "11/12/1998"
+startDate = "1998-11-12"
 endDate = ""
 contributors = ["ChuckECool","Midwestretail","Rexburg090","216.125.34.66","CorrectorMan","CECfan","CECguy121012","47.17.236.200","CEC Tinley","CoolerDude","CECFayetteville15"]
 gallery = ["2.0.jpg|thumb|The exterior of the store after the 2.0 remodel"]

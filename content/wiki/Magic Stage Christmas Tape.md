@@ -2,7 +2,7 @@
 title = "Magic Stage Christmas Tape"
 draft = false
 tags = ["Showtapes"]
-date = "04/19/2023"
+date = "2023-04-19"
 
 [Article]
 startDate = ""
@@ -72,5 +72,5 @@ Show Announcement=
 Ladies and gentlemen, boys and girls... ShowBiz Pizza Place in conjunction with Good Times Everywhere is proud to present a musical group which has been assembled from across the country. A group whose background is as diverse as its musical ability. After exhaustive negotiations, ShowBiz is pleased to present eight immensely talented performers known as 'Magic'. Without further ado let's bring these kids to the stage with a big ShowBiz welcome for our salute to Good Times!
 }}
 </tabber>
-<h2>References</h2>
+
 <references />

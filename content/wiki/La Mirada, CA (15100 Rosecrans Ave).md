@@ -2,10 +2,10 @@
 title = "La Mirada, CA (15100 Rosecrans Ave)"
 draft = false
 tags = ["Store List"]
-date = "07/28/2024"
+date = "2024-07-28"
 
 [Article]
-startDate = "2/25/1992"
+startDate = "1992-2-25"
 endDate = ""
 contributors = ["Cheeseclassic","Chuckeindiana","AstridMascotFan2005"]
 gallery = ["La Mirada Exterior.jpg|thumb|La Mirada's exterior before the 2.0 remodel. PC: (tripadvisor.co.uk)"]

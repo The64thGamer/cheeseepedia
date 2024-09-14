@@ -2,7 +2,7 @@
 title = "Brain-I-Vac (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "11/04/2022"
+date = "2022-11-04"
 
 [Article]
 startDate = ""

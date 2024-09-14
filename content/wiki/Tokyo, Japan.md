@@ -2,10 +2,10 @@
 title = "Tokyo, Japan"
 draft = false
 tags = ["Store List"]
-date = "03/23/2023"
+date = "2023-03-23"
 
 [Article]
-startDate = "-/-/1999"
+startDate = "1999-00-00"
 endDate = ""
 contributors = ["ShowbizMidwest"]
 gallery = []
@@ -17,4 +17,3 @@ On February 27, 1998, an article was published stating that ShowBiz Pizza Time h
 
 Due to there being no other articles talking about the Tokyo store after this, it is assumed a franchisee was never found, and the plan for Chuck E. Cheese’s in Japan was called off.
 
-<h2>References</h2>

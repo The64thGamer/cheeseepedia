@@ -2,7 +2,7 @@
 title = "Taking Care of Business Live Demo"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "06/03/2022"
+date = "2022-06-03"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "CEC GM Convention Las Vegas 2001 Video"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "03/27/2023"
+date = "2023-03-27"
 
 [Article]
 startDate = ""

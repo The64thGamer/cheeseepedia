@@ -2,10 +2,10 @@
 title = "Dearborn, MI (24399 Michigan Ave)"
 draft = false
 tags = ["Store List"]
-date = "12/23/2023"
+date = "2023-12-23"
 
 [Article]
-startDate = "12/21/1982"
+startDate = "1982-12-21"
 endDate = ""
 pageThumbnailFile = "DearbornMI2015RemodelExterior.jpg|Dearborn's Exterior as of December 29, 2020 (PC: Detrioter Girl)"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","ChuckfeldStan","Stripes"]

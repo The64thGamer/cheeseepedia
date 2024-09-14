@@ -2,7 +2,7 @@
 title = "Emergency Show (Best of 93)"
 draft = false
 tags = ["Showtapes"]
-date = "09/10/2022"
+date = "2022-09-10"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "PTT Winchester Foxy Colleen Name Sign (1978)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/08/2023"
+date = "2023-08-08"
 
 [Article]
 startDate = ""
@@ -24,6 +24,6 @@ Foxy Colleens nameplate followed the standard design formula used for Winchester
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf

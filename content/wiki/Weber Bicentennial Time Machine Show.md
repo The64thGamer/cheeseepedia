@@ -2,7 +2,7 @@
 title = "Weber Bicentennial Time Machine Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "02/21/2024"
+date = "2024-02-21"
 
 [Article]
 startDate = ""
@@ -17,5 +17,5 @@ gallery = []
 <h2> Images </h2>
 
 
-<h2> References </h2>
+
 https://www.newspapers.com/article/southtown-star-cpi-time-machine-show/141756690/

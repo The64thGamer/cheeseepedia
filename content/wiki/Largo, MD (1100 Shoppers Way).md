@@ -2,10 +2,10 @@
 title = "Largo, MD (1100 Shoppers Way)"
 draft = false
 tags = ["Store List"]
-date = "06/19/2024"
+date = "2024-06-19"
 
 [Article]
-startDate = "2/6/2004"
+startDate = "2004-2-6"
 endDate = ""
 pageThumbnailFile = "Largo, MD in 2017.jpg|Largo, MD’s exterior in the year 2017"
 contributors = ["PachCEC","Cheeseclassic","Cecanddisneyfan2004"]
@@ -55,4 +55,3 @@ Largo opened on February 6, 2004 as a Phase 3 store on the Capital Center Boulev
 |
 |}
 
-<h2> References </h2>

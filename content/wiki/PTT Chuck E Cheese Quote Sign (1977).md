@@ -2,7 +2,7 @@
 title = "PTT Chuck E. Cheese Quote Sign (1977)"
 draft = false
 tags = []
-date = "08/11/2023"
+date = "2023-08-11"
 
 [Article]
 startDate = ""
@@ -32,7 +32,7 @@ As for the 1980s re-design, it uses a more joyous Chuck who is also winking, wit
 
 
 
-<h2> References </h2>
+
 
 # https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf
 # https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf

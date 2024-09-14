@@ -2,7 +2,7 @@
 title = "New Fandom Member F.A.Q."
 draft = false
 tags = ["Welcome"]
-date = "08/17/2024"
+date = "2024-08-17"
 
 [Article]
 startDate = ""

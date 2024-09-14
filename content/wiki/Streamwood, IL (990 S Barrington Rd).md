@@ -2,11 +2,11 @@
 title = "Streamwood, IL (990 S Barrington Rd)"
 draft = false
 tags = ["Store List"]
-date = "12/22/2023"
+date = "2023-12-22"
 
 [Article]
-startDate = "3/6/1990"
-endDate = "6/-/2014"
+startDate = "1990-3-6"
+endDate = "2014-6-00"
 pageThumbnailFile = "desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]
 gallery = []
@@ -126,4 +126,3 @@ When this store opened in 1990, they had a Chuck E.'s House stage, this was late
 <h2>Videos</h2>
 TODO
 
-<h2>References</h2>

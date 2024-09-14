@@ -2,7 +2,7 @@
 title = "CEC Summer of Fun Concert (Event)"
 draft = false
 tags = ["Events"]
-date = "05/15/2022"
+date = "2022-05-15"
 
 [Article]
 startDate = ""

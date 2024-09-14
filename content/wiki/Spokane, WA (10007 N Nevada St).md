@@ -2,10 +2,10 @@
 title = "Spokane, WA (10007 N Nevada St)"
 draft = false
 tags = ["Store List"]
-date = "08/01/2024"
+date = "2024-08-01"
 
 [Article]
-startDate = "3/-/2000"
+startDate = "2000-3-00"
 endDate = ""
 pageThumbnailFile = "Spokaneexterior2021oct.png|Exterior (October 2021)"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","CEC Tinley","Caydenpedia","The 64th Gamer","JND"]

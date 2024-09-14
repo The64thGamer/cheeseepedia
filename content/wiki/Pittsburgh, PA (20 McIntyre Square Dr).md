@@ -2,10 +2,10 @@
 title = "Pittsburgh, PA (20 McIntyre Square Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/11/2024"
+date = "2024-08-11"
 
 [Article]
-startDate = "5/22/2001"
+startDate = "2001-5-22"
 endDate = ""
 pageThumbnailFile = "Pittsburgh Exterior 2022.jpg|Pre 2.0 Exterior (February 2022)"
 contributors = ["The 64th Gamer","Bowling for Cheese","Rexburg090","CECBowlingGreen","ThatBoiCydalan","Save phase 5","Documentor","CECswag2009","AstridMascotFan2005"]

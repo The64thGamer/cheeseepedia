@@ -2,11 +2,11 @@
 title = "Memphis, TN (5016 Park Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/20/2024"
+date = "2024-08-20"
 
 [Article]
-startDate = "8/-/1981"
-endDate = "8/-/1984"
+startDate = "1981-8-00"
+endDate = "1984-8-00"
 contributors = ["JND","9Lol92"]
 gallery = []
 +++
@@ -20,7 +20,7 @@ Memphis was an average PTT, having a Fantasy Forest, Beverages Stand and Balcony
 <h2> Animatronics </h2>
 This location had an earlier version of the Balcony Stage cyberamics consisting of Mr Munch, Jasper T. Jowls, Chuck E. Cheese, Harmony Howlett, and Chef Pasqually. Some other cyberamics were the Warblettes, Applause Board, Drum Board, and Flag Wavers. The first known guest stars were Harmony Howlett (added during grand opening), Madame Oink (replaced harmony in 1983) and Helen Henny (replaced Madame in 1984). They featured one of the first, 'The King' animatronic instead of Dolly Dimples.
 
-<h2> References </h2>
+
 Thanks to JND for the reference.
 
 [https:<i>m.youtube.com/watch?v=zXuNBbEw_uo https:</i>youtube.com/watch?v=zXuNBbEw_uo] (I do not know where the creator of this video got the information, so far, there has been no answer to the comment I left so some of this information could be false.)

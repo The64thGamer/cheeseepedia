@@ -2,10 +2,10 @@
 title = "Wichita Falls, TX (2935 Southwest Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "10/07/2023"
+date = "2023-10-07"
 
 [Article]
-startDate = "9/22/1982"
+startDate = "1982-9-22"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0E:D900:1416:BDEB:5C72:A1A6"]
 gallery = []
@@ -175,6 +175,6 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |September 30, 2019
 |}
 
-<h2> References </h2>
+
 <references />
 *

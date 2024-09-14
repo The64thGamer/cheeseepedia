@@ -2,7 +2,7 @@
 title = "Birthday 2009 Program Rehearsal CD"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "04/05/2022"
+date = "2022-04-05"
 
 [Article]
 startDate = ""

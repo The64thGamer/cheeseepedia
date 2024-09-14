@@ -2,10 +2,10 @@
 title = "Pizza Wars (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/20/2023"
+date = "2023-07-20"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 contributors = ["ThatBoiCydalan","BurgersNuggs445"]
 gallery = []
@@ -28,5 +28,5 @@ This piece details Duke LaRue as Luke Skywalker, Mitzi Mozzarella as Princess Le
 
 As completely new art was created for the characters, Billy Bob utilizes a stock pose.<ref>https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf</ref>
 
-<h2>References</h2>
+
 <references />

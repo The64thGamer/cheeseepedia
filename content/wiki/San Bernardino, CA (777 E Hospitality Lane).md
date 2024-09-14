@@ -2,10 +2,10 @@
 title = "San Bernardino, CA (777 E Hospitality Lane)"
 draft = false
 tags = ["Store List"]
-date = "02/20/2024"
+date = "2024-02-20"
 
 [Article]
-startDate = "6/27/2003"
+startDate = "2003-6-27"
 endDate = ""
 pageThumbnailFile = "desc=San Bernardino's Exterior in October 1, 2023. (PC: AnthonyRWikis7283)|image=Chuck E. Cheese Hospitality Ln Exterior 2023.jpg"
 contributors = ["AnthonyRWikis7283","The 64th Gamer"]
@@ -89,5 +89,5 @@ Last Studio C Beta in San Bernardino County.
 |August 4, 2021
 |}
 
-<h2>References</h2>
+
 <references />

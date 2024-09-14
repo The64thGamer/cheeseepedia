@@ -2,7 +2,7 @@
 title = "PTT Winchester Crusty Name Sign (1977)"
 draft = false
 tags = ["PTT Store Fixtures"]
-date = "08/31/2023"
+date = "2023-08-31"
 
 [Article]
 startDate = ""
@@ -26,6 +26,6 @@ It is unknown if Crustys nameplate would receive the text '© PIZZA TIME THEATRE
 
 
 
-<h2> References </h2>
+
 
 # https://youtu.be/ucg8MujPDQA

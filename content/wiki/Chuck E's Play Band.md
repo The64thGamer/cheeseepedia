@@ -2,7 +2,7 @@
 title = "Chuck E.'s Play Band"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "01/13/2023"
+date = "2023-01-13"
 
 [Article]
 startDate = ""

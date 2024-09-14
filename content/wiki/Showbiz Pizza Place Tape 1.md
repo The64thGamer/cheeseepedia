@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Place Tape 1"
 draft = false
 tags = ["Showtapes"]
-date = "03/29/2024"
+date = "2024-03-29"
 
 [Article]
 startDate = ""
@@ -612,6 +612,6 @@ School Days=
 }}
 </tabber>
 
-<h2>References</h2>
+
 
 <references />

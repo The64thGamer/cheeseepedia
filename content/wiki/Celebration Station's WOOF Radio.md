@@ -2,7 +2,7 @@
 title = "Celebration Station's W.O.O.F. Radio"
 draft = false
 tags = ["Animatronic Shows"]
-date = "07/08/2024"
+date = "2024-07-08"
 
 [Article]
 startDate = ""

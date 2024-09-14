@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Circus Time"
 draft = false
 tags = ["Arcade Games"]
-date = "01/14/2024"
+date = "2024-01-14"
 
 [Article]
 startDate = ""
@@ -47,4 +47,3 @@ The Bimbo cabinet used a tape that was 9 minutes and 35 seconds long, consisting
 |Uses alternate plush
 |}
  
-<h2> References </h2>

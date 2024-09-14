@@ -2,11 +2,11 @@
 title = "Rockville, MD (5270 Randolph Rd)"
 draft = false
 tags = ["Store List"]
-date = "11/01/2023"
+date = "2023-11-01"
 
 [Article]
-startDate = "8/20/2002"
-endDate = "10/29/2023"
+startDate = "2002-8-20"
+endDate = "2023-10-29"
 pageThumbnailFile = "Rockville.jpg|Rockville's exterior in Summer 2016. PC: Frey Sure on Google Maps"
 contributors = ["ChuckEPediaIsTheBest!","Rexburg090","Cecnj98","ThatBoiCydalan"]
 gallery = []

@@ -2,10 +2,10 @@
 title = "Worcester, MA (50 Southwest Cutoff)"
 draft = false
 tags = ["Store List"]
-date = "05/26/2024"
+date = "2024-05-26"
 
 [Article]
-startDate = "8/-/1992"
+startDate = "1992-8-00"
 endDate = ""
 pageThumbnailFile = "Worcester Exterior.jpg|Worcester's Exterior (PC: Google Maps)"
 contributors = ["Destinationimagination95","RPCEC Backup","The 64th Gamer","2600:4040:59FF:B100:9C6:388E:A183:C3C5","Rexburg090","Cheeseclassic","YBP123","ThatBoiCydalan"]

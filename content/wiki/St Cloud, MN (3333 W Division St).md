@@ -2,11 +2,11 @@
 title = "St. Cloud, MN (3333 W Division St)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "4/24/1984"
-endDate = "4/-/1992"
+startDate = "1984-4-24"
+endDate = "1992-4-00"
 contributors = ["SuperCreamPiper2008","Bay12","AstridMascotFan2005"]
 gallery = []
 +++

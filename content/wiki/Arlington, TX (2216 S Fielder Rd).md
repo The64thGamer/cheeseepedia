@@ -2,11 +2,11 @@
 title = "Arlington, TX (2216 S Fielder Rd)"
 draft = false
 tags = ["Store List"]
-date = "06/01/2024"
+date = "2024-06-01"
 
 [Article]
-startDate = "10/-/1980"
-endDate = "3/17/2024"
+startDate = "1980-10-00"
+endDate = "2024-3-17"
 pageThumbnailFile = "desc=Arlington, TX exterior after closure in March 2024|image=Arlingtonpostclosure.png"
 contributors = ["SmileAmericaCEC","Rexburg090","Pench0782","BurgersNuggs445","ChuckECool","47.223.109.42","The 64th Gamer","RedaCEC","Ceclife13","47.223.110.141","JamesLemony","2600:4040:5A0C:5900:6C05:1E64:2661:48A5","Saan1ty","Midwestretail","CEC Tinley","Steven 'CEC' Master","CorrectorMan","72.76.251.24","ThatBoiCydalan","Stripes","199.197.89.221","Cheeseclassic","CoolerDude","CyCGM","Cy's Junk at School","Tux Chuck","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = [":Screenshot 2024-03-17 10.12.13 PM.png"]
@@ -335,5 +335,5 @@ A little to known fact about this location was that this store houses a back roo
 |Used in the Chuck E. Cheese University, sent to the [Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).md" >}}) location and subsequently destroyed
 |}
 
-<h2>References</h2>
+
 <references />

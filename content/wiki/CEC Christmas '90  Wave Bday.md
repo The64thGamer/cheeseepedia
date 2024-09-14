@@ -2,7 +2,7 @@
 title = "CEC Christmas '90 / Wave Bday"
 draft = false
 tags = ["Live Shows"]
-date = "09/16/2023"
+date = "2023-09-16"
 
 [Article]
 startDate = ""

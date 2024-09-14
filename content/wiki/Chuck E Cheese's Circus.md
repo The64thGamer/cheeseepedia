@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Circus"
 draft = false
 tags = ["Arcade Games"]
-date = "08/17/2024"
+date = "2024-08-17"
 
 [Article]
 startDate = ""
@@ -49,6 +49,6 @@ The description read:
 | Holds plushes from the 90's inside
 |}
 
-<h2>References</h2>
+
 
 <references />

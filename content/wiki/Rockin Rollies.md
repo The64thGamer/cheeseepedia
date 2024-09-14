@@ -2,11 +2,11 @@
 title = "Rockin Rollies"
 draft = false
 tags = ["Animatronic Shows"]
-date = "06/12/2024"
+date = "2024-06-12"
 
 [Article]
 startDate = ""
-endDate = "-/-/1991"
+endDate = "1991-00-00"
 contributors = ["Lelmaster"]
 gallery = ["Argus Leader 2008 10 26 Page 4 Rockin Rollies Guitar Gorilla.jpg|thumb|294x294px|The gorilla animatronic at the Gigglebee's Auction. (October 26, 2008)"]
 +++
@@ -44,7 +44,7 @@ Sioux Falls, SD (1912 W 41st St)
 
 
 
-<h2> References </h2>
+
 https://www.newspapers.com/image/351074199/?match=1&clipping_id=148088831
 
 https://www.newspapers.com/image/239995037/?match=1&terms=&#x22;Rockin%20Rollie%27s&#x22;&clipping_id=53007505

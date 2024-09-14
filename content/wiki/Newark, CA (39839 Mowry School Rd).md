@@ -2,10 +2,10 @@
 title = "Newark, CA (39839 Mowry School Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/25/2023"
+date = "2023-09-25"
 
 [Article]
-startDate = "8/5/1997"
+startDate = "1997-8-5"
 endDate = ""
 contributors = ["TheChuckECheeseGuy","CEC Tinley"]
 gallery = ["Newark.jpg|thumb|Newark's exterior not long after it got 2.0. (PC: Google Maps)"]

@@ -2,7 +2,7 @@
 title = "SPP Christmas '89 / Wave Bday"
 draft = false
 tags = ["Showtapes"]
-date = "12/20/2023"
+date = "2023-12-20"
 
 [Article]
 startDate = ""
@@ -94,4 +94,3 @@ The tape featured the Concept Unification Premiere Demo hidden at the end of the
 #<b>Hidden Video</b>
 ##Concept Unification Premiere Demo  
 
-<h2> References </h2>

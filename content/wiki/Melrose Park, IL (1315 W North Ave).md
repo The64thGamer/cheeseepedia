@@ -2,11 +2,11 @@
 title = "Melrose Park, IL (1315 W North Ave)"
 draft = false
 tags = ["Store List"]
-date = "12/06/2023"
+date = "2023-12-06"
 
 [Article]
-startDate = "9/24/1991"
-endDate = "8/-/2012"
+startDate = "1991-9-24"
+endDate = "2012-8-00"
 pageThumbnailFile = "Melrose old park.jpg|Melrose Park's exterior in the 2000s. (PC: Unknown)"
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","ShowbizMidwest","Melrosefool2763","Blowseborg062","SinStar","CEC Illinois","Cheeseclassic"]
 gallery = []

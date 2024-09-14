@@ -2,10 +2,10 @@
 title = "West Allis, WI (2990 South 108th Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/10/2024"
+date = "2024-05-10"
 
 [Article]
-startDate = "12/-/1981"
+startDate = "1981-12-00"
 endDate = ""
 pageThumbnailFile = "West Allis 2.0 Exterior.jpg|Exterior, June 2023 (PC: Donovan Waege)"
 contributors = ["ChuckECool","ShowbizMidwest","Rexburg090","CEC Tinley","2600:4040:5A0E:D900:E54C:6C9A:5291:7CF1","Cheeseclassic","Estsproduction","WindowsDylan"]
@@ -110,5 +110,5 @@ During their 2.0 remodel in August 2021, their 1-Stage is removed and then destr
 
 <h2>Videos</h2>
 TODO
-<h2>References</h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "New Orleans, LA (3701 General DeGaulle Dr)"
 draft = false
 tags = ["Store List"]
-date = "10/27/2023"
+date = "2023-10-27"
 
 [Article]
-startDate = "2/23/1981"
+startDate = "1981-2-23"
 endDate = ""
 pageThumbnailFile = "new orleans cec 2.0 exterior.jpg|Exterior, March 2023"
 contributors = ["ChuckECool","ShowbizMidwest","Montfortdog","Rexburg090","ThatBoiCydalan"]

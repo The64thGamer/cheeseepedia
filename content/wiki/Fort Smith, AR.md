@@ -2,11 +2,11 @@
 title = "Fort Smith, AR?"
 draft = false
 tags = ["Store List"]
-date = "12/21/2023"
+date = "2023-12-21"
 
 [Article]
-startDate = "-/-/1984"
-endDate = "-/-/1985"
+startDate = "1984-00-00"
+endDate = "1985-00-00"
 contributors = ["167.224.250.176","Cheeseclassic"]
 gallery = []
 +++

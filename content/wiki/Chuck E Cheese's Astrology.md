@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Astrology"
 draft = false
 tags = ["Arcade Games"]
-date = "08/26/2023"
+date = "2023-08-26"
 
 [Article]
 startDate = ""
@@ -60,4 +60,3 @@ The CPU type is unknown, and no ROM dumps are available. Other Destron games of 
 |Access to location must be requested
 |}
 
-<h2> References </h2>

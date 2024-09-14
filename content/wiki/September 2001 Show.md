@@ -2,10 +2,10 @@
 title = "September 2001 Show"
 draft = false
 tags = ["Live Shows"]
-date = "01/31/2023"
+date = "2023-01-31"
 
 [Article]
-startDate = "9/-/2001"
+startDate = "2001-9-00"
 endDate = ""
 contributors = ["The 64th Gamer","Ceclife13","BurgersNuggs445","RedaCEC"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
@@ -119,5 +119,5 @@ When inserting the upgrade floppy, a message would appear on the screen saying:
 **Jeremy Blaido and Robert Gotcher appear in 'Sing-Along Guys'
 **Brian Hagan, Brent Gray, and Matt Daniel appear in 'Paper or Plastic'. Matt also makes a cameo in 'Boogie Shoes'.
 
-<h2> References </h2>
+
 <references />

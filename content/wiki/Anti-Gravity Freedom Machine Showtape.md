@@ -2,7 +2,7 @@
 title = "Anti-Gravity Freedom Machine Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "04/15/2024"
+date = "2024-04-15"
 
 [Article]
 startDate = ""
@@ -23,4 +23,3 @@ Only a few segments are known from footage of the tape's broadcast. It is unclea
 ## Demonstration of the AGFM Skit
 ## [https://en.wikipedia.org/wiki/Howdy_Doody AGFM Theme Song (Parody of Howdy Doody Theme)]
 
-<h2> References </h2>

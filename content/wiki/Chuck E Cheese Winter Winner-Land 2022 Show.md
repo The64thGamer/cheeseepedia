@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese Winter Winner-Land 2022 Show"
 draft = false
 tags = ["Showtapes"]
-date = "01/04/2024"
+date = "2024-01-04"
 
 [Article]
 startDate = ""

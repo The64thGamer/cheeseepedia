@@ -2,7 +2,7 @@
 title = "Winchester Applause Board (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
 startDate = ""
@@ -32,4 +32,3 @@ Not much is known about the design of the bot. The bot had a Wood barrier around
 |It is unknown what movements it featured, as no footage has surfaced.
 |}
 
-<h2> References </h2>

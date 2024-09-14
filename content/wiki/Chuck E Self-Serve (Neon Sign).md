@@ -2,7 +2,7 @@
 title = "Chuck E. 'Self-Serve' (Neon Sign)"
 draft = false
 tags = []
-date = "08/08/2023"
+date = "2023-08-08"
 
 [Article]
 startDate = ""

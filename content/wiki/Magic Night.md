@@ -2,7 +2,7 @@
 title = "Magic Night"
 draft = false
 tags = ["Showtapes"]
-date = "08/07/2023"
+date = "2023-08-07"
 
 [Article]
 startDate = ""
@@ -58,4 +58,3 @@ Reels have been found by James Marous that are labeled <b><i>Magic Night Part 1,
 ###The Love You Save
 ###Beat It
 
-<h2> References </h2>

@@ -2,11 +2,11 @@
 title = "Pasadena, TX (154 Fairmont Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "05/18/2024"
+date = "2024-05-18"
 
 [Article]
-startDate = "6/9/1982"
-endDate = "2/-/2007"
+startDate = "1982-6-9"
+endDate = "2007-2-00"
 pageThumbnailFile = "desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf12349","ShowbizMidwest"]
 gallery = []
@@ -114,5 +114,5 @@ Pasadena received Concept Unification in 1991 which involved the removal of the 
 |N/A
 |Unknown
 |}
-<h2>References</h2>
+
 <references />

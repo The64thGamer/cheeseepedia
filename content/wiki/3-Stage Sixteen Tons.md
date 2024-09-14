@@ -2,7 +2,7 @@
 title = "3-Stage Sixteen Tons"
 draft = false
 tags = ["Showtapes"]
-date = "12/28/2022"
+date = "2022-12-28"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ Attention was brought to the creation of this segment in the <i>Brian Hagan Inte
 #<b> Segment</b> <b>1</b>
 ##Sixteen Tons
 
-<h2> References </h2>

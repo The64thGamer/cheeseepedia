@@ -2,10 +2,10 @@
 title = "Indiana Jowls (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/19/2023"
+date = "2023-07-19"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 contributors = ["Nostalgia Cow","Ceclife13","ThatBoiCydalan"]
 gallery = []

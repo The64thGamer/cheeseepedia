@@ -2,10 +2,10 @@
 title = "Seef Mall, Bahrain"
 draft = false
 tags = ["Store List"]
-date = "05/15/2023"
+date = "2023-05-15"
 
 [Article]
-startDate = "10/30/2021"
+startDate = "2021-10-30"
 endDate = ""
 contributors = ["CECBowlingGreen","RPCEC","CEC Tinley"]
 gallery = []
@@ -38,4 +38,3 @@ TODO
 <h2> YouTube Videos </h2>
 TODO
 
-<h2> References </h2>

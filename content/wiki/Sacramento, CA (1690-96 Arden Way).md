@@ -2,10 +2,10 @@
 title = "Sacramento, CA (1690-96 Arden Way)"
 draft = false
 tags = ["Store List"]
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
-startDate = "2/-/1982"
+startDate = "1982-2-00"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","Cheeseclassic","Planetpurplediner","AstridMascotFan2005"]
 gallery = []
@@ -151,5 +151,5 @@ On January 22nd, 2024, the store would remove its 1-Stage in favor of its 2.0 Re
 |
 |
 |}
-<h2>References</h2>
+
 TODO

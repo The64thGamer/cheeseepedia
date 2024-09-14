@@ -2,11 +2,11 @@
 title = "Burlington, MA (10 Wall St)"
 draft = false
 tags = ["Store List"]
-date = "04/21/2024"
+date = "2024-04-21"
 
 [Article]
-startDate = "8/4/1992"
-endDate = "7/16/2017"
+startDate = "1992-8-4"
+endDate = "2017-7-16"
 pageThumbnailFile = "CEC bur.jpg|Exterior (Unknown Year)"
 contributors = ["Rexburg090","CEC Tinley","73.227.134.239","The 64th Gamer"]
 gallery = []

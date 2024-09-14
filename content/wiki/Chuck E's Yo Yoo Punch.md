@@ -2,7 +2,7 @@
 title = "Chuck E's Yo Yoo Punch"
 draft = false
 tags = ["Arcade Games"]
-date = "07/14/2023"
+date = "2023-07-14"
 
 [Article]
 startDate = ""
@@ -23,5 +23,5 @@ It is unknown if Chuck E's Yo Yoo Punch reuses any audio from the American relea
 
 
 
-<h2> References </h2>
+
 <references />

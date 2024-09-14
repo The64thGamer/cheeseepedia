@@ -2,7 +2,7 @@
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
 tags = ["Pizza Time Theatre Tokens"]
-date = "09/02/2023"
+date = "2023-09-02"
 
 [Article]
 startDate = ""
@@ -22,4 +22,3 @@ They would be obtainable by the public on May 17th with the opening of first loc
 <h2>= Errors </h2>=
 A Glint Brass variant of the token is known to have a clipped planchet, though no images of it have surfaced yet.<ref>https://www.cectokens.com/error-tokens</ref>
 
-<h2> References </h2>

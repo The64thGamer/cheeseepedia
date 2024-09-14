@@ -2,7 +2,7 @@
 title = "'For a free show... push this button and watch me go!' (PTT Signage)"
 draft = false
 tags = []
-date = "06/29/2023"
+date = "2023-06-29"
 
 [Article]
 startDate = ""
@@ -24,5 +24,5 @@ This sign is a yellow, black, and white beveled rectangle that appears to be enc
 
 
 
-<h2>References</h2>
+
 <references />

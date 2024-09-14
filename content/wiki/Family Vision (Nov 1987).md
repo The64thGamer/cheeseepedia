@@ -2,7 +2,7 @@
 title = "Family Vision (Nov 1987)"
 draft = false
 tags = []
-date = "08/07/2023"
+date = "2023-08-07"
 
 [Article]
 startDate = ""
@@ -32,5 +32,5 @@ The tape's total length and videos used are completely unknown, only a few video
 |???
 |}
 
-<h2> References </h2>
+
 <references />

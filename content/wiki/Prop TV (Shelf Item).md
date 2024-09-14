@@ -2,7 +2,7 @@
 title = "Prop TV (Shelf Item)"
 draft = false
 tags = ["Store Fixtures"]
-date = "08/05/2023"
+date = "2023-08-05"
 
 [Article]
 startDate = ""

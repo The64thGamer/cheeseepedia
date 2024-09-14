@@ -2,10 +2,10 @@
 title = "Pico Rivera, CA (6005 Rosemead Blvd)"
 draft = false
 tags = ["Store List"]
-date = "06/27/2024"
+date = "2024-06-27"
 
 [Article]
-startDate = "-/-/1982"
+startDate = "1982-00-00"
 endDate = ""
 contributors = ["ChuckECool","Saan1ty","Rexburg090","Caydenpedia","CEC1988","Cheeseclassic","CoolerDude","Showb1zlov3r"]
 gallery = ["PicoRivera2.0.png|thumb|The exterior after getting 2.0 (PC: Bunbunboy8)"]
@@ -119,5 +119,5 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 |March 2024
 |March 10, 2024
 |}
-<h2>References</h2>
+
 <references />

@@ -2,10 +2,10 @@
 title = "Princeton, NJ (520 Nassau Park Blvd)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
-startDate = "10/17/2001"
+startDate = "2001-10-17"
 endDate = ""
 pageThumbnailFile = "Princeton exterior 5-21-2019.jpg|Exterior of Chuck E. Cheese's in Princeton, NJ in 2019"
 contributors = ["The 64th Gamer","Cecnj98","Pasquallytheplumber","Rexburg090","ThatBoiCydalan","Cecanddisneyfan2004","AstridMascotFan2005"]

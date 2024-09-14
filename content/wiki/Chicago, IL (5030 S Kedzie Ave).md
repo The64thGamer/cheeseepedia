@@ -2,7 +2,7 @@
 title = "Chicago, IL (5030 S Kedzie Ave)"
 draft = false
 tags = ["Store List"]
-date = "09/01/2024"
+date = "2024-09-01"
 
 [Article]
 startDate = ""

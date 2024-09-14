@@ -2,11 +2,11 @@
 title = "Springfield, MO (1773 S Glenstone Ave)"
 draft = false
 tags = ["Store List"]
-date = "11/14/2023"
+date = "2023-11-14"
 
 [Article]
-startDate = "4/20/1982"
-endDate = "12/31/1983"
+startDate = "1982-4-20"
+endDate = "1983-12-31"
 contributors = ["CorrectorMan","Chez"]
 gallery = ["Old springfield mo ptt.jpg|thumb|The site of the former Pizza Time Theatre before a repaint. (PC: Google Maps)"]
 +++

@@ -2,10 +2,10 @@
 title = "Charlotte, NC (5612 Albemarle Rd)"
 draft = false
 tags = ["Store List"]
-date = "07/28/2024"
+date = "2024-07-28"
 
 [Article]
-startDate = "11/-/1991"
+startDate = "1991-11-00"
 endDate = ""
 pageThumbnailFile = "Albemarle 2.0 Exterior.png|The store's current exterior. (PC: CEC Denver)"
 contributors = ["ChuckECool","Rexburg090","ShowbizMidwest","216.125.34.66","168.69.254.249","CEC Tinley","Saan1ty","ThatBoiCydalan","174.131.44.53","Chuckstar69","67.197.52.250","Chez","Caydenpedia","Appatheris","PachCEC","Cheeseclassic","AstridMascotFan2005","RavensFlock4L"]

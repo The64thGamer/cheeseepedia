@@ -2,7 +2,7 @@
 title = "1988 PTT Franchise Convention (Event)"
 draft = false
 tags = ["Events"]
-date = "07/23/2022"
+date = "2022-07-23"
 
 [Article]
 startDate = ""

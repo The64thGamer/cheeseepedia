@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Ball Pit"
 draft = false
 tags = ["Merchandise"]
-date = "04/25/2022"
+date = "2022-04-25"
 
 [Article]
 startDate = ""

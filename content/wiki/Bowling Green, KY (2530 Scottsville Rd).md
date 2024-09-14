@@ -2,11 +2,11 @@
 title = "Bowling Green, KY (2530 Scottsville Rd)"
 draft = false
 tags = ["Store List"]
-date = "04/28/2023"
+date = "2023-04-28"
 
 [Article]
-startDate = "4/17/1984"
-endDate = "5/-/1986"
+startDate = "1984-4-17"
+endDate = "1986-5-00"
 contributors = ["CECBowlingGreen","RedaCEC","ChuckEPediaIsTheBest!","CECFan2023"]
 gallery = ["BowlingGreenPizzaTimeTheatreTheKing.png|thumb|Only photo of the Bowling Green Pizza Time Theatre location, depicting The King."]
 +++

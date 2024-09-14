@@ -2,7 +2,7 @@
 title = "Virginia Beach, VA (2699 Lishelle Place)"
 draft = false
 tags = ["Store List"]
-date = "06/23/2023"
+date = "2023-06-23"
 
 [Article]
 startDate = ""

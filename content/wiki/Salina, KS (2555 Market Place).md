@@ -2,11 +2,11 @@
 title = "Salina, KS (2555 Market Place)"
 draft = false
 tags = ["Store List"]
-date = "12/22/2023"
+date = "2023-12-22"
 
 [Article]
-startDate = "9/10/1981"
-endDate = "1/8/1984"
+startDate = "1981-9-10"
+endDate = "1984-1-8"
 pageThumbnailFile = "Salina SPP Now.jpg|Site of the Salina SPP in June 2022."
 contributors = ["Cheeseclassic","The 64th Gamer"]
 gallery = []
@@ -88,4 +88,3 @@ By January of 1984 the store would be reduced to 20 employees from its opening 8
 
 
 
-<h2> References </h2>

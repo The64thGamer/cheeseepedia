@@ -2,11 +2,11 @@
 title = "Waterbury, CT (983 Wolcott St)"
 draft = false
 tags = ["Store List"]
-date = "04/25/2024"
+date = "2024-04-25"
 
 [Article]
-startDate = "4/-/1982"
-endDate = "-/-/1984"
+startDate = "1982-4-00"
+endDate = "1984-00-00"
 contributors = ["2600:6C65:7B7F:DF05:7977:4E85:9DC9:71FB","Cheeseclassic","Ryys123","CoolerDude"]
 gallery = ["Waterbury2019.png|thumb|Google Street View of the building in May 2019."]
 +++
@@ -60,5 +60,5 @@ Waterbury opened with a [Balcony Stage]({{< ref "wiki/Cyberamics Balcony Stage.m
 |Unknown
 |}
 
-<h2>References</h2>
+
 [https://www.showbizpizza.com/photos/ptt/ct_waterbury/index.html  Waterbury PTT Gallery]

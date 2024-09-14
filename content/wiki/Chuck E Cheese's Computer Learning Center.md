@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's Computer Learning Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "12/06/2022"
+date = "2022-12-06"
 
 [Article]
 startDate = ""
@@ -36,4 +36,3 @@ The [San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine 
 <h2> Closing </h2>
 It is unclear when the CLC program shut down, though it likely could have happened with the removal of the [PTT Training Center & Test Kitchen]({{< ref "wiki/PTT Training Center & Test Kitchen.md" >}}) in 1984, due to the company merger with Showbiz Pizza Place. Since it was open at two locations however, its removal date was likely at an unrelated time.
 
-<h2> References </h2>

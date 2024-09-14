@@ -2,11 +2,11 @@
 title = "Columbus, OH (5842 Columbus Square)"
 draft = false
 tags = ["Store List"]
-date = "05/11/2023"
+date = "2023-05-11"
 
 [Article]
-startDate = "-/-/1982"
-endDate = "12/-/1991"
+startDate = "1982-00-00"
+endDate = "1991-12-00"
 contributors = ["ChuckECool"]
 gallery = []
 +++

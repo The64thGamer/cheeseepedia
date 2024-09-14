@@ -2,10 +2,10 @@
 title = "Boise, ID (6255 Fairview Ave)"
 draft = false
 tags = ["Store List"]
-date = "05/10/2023"
+date = "2023-05-10"
 
 [Article]
-startDate = "7/7/1983"
+startDate = "1983-7-7"
 endDate = ""
 contributors = ["Rexburg090","Midwestretail"]
 gallery = ["20211130120341 14701.png|thumb|Exterior before 2.0 Remodel (PC: angelplayground.com)"]
@@ -104,5 +104,5 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 <h2> Videos </h2>
 TODO
 
-<h2> References </h2>
+
 <references />

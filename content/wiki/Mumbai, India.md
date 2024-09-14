@@ -2,11 +2,11 @@
 title = "Mumbai, India"
 draft = false
 tags = ["Store List"]
-date = "07/26/2023"
+date = "2023-07-26"
 
 [Article]
-startDate = "12/20/2019"
-endDate = "7/25/2023"
+startDate = "2019-12-20"
+endDate = "2023-7-25"
 pageThumbnailFile = "desc=Exterior, August 14th, 2022|image=2022-08-14 (1).jpg"
 contributors = ["CECBowlingGreen","CEC Tinley","ThatBoiCydalan","RockyRhoad07","2601:681:300:6FE0:9108:73AF:379:A346"]
 gallery = []
@@ -39,5 +39,5 @@ TODO
 <h2>YouTube Videos</h2>
 TODO
 
-<h2>References</h2>
+
 <references />

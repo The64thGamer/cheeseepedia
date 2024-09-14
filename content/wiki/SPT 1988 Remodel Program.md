@@ -2,7 +2,7 @@
 title = "SPT 1988 Remodel Program"
 draft = false
 tags = ["CEC Phases & Remodels"]
-date = "12/15/2023"
+date = "2023-12-15"
 
 [Article]
 startDate = ""
@@ -33,4 +33,3 @@ All interiors were redone to have white walls with brown breadboards accompanyin
 
 The service areas of locations would have their accompanying neon sign above, most of the time is accompanied by a blue and white striped canopy behind it.
 
-<h2> References </h2>

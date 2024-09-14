@@ -2,7 +2,7 @@
 title = "CEC Employee Red Shirt (90's)"
 draft = false
 tags = ["Employee Wear"]
-date = "01/31/2024"
+date = "2024-01-31"
 
 [Article]
 startDate = ""

@@ -2,7 +2,7 @@
 title = "Emcaacme"
 draft = false
 tags = ["User"]
-date = "08/20/2022"
+date = "2022-08-20"
 
 [Article]
 startDate = ""

@@ -2,11 +2,11 @@
 title = "Edmonton, Alberta, Canada (9271 34th Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/22/2024"
+date = "2024-08-22"
 
 [Article]
-startDate = "11/-/1985"
-endDate = "-/-/1995"
+startDate = "1985-11-00"
+endDate = "1995-00-00"
 pageThumbnailFile = "EdmontonNow.png|The location's exterior in June 2015. (PC: Sean Bliss)"
 contributors = ["2001:56A:FCA0:5600:1D1C:6C9E:37C5:10B9","ChuckEPediaIsTheBest!","216.125.34.66","Cheeseclassic","CyCGM","CoolerDude"]
 gallery = []

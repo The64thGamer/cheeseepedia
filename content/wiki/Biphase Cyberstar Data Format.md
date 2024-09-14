@@ -2,7 +2,7 @@
 title = "Biphase Cyberstar Data Format"
 draft = false
 tags = ["Showtape Formats"]
-date = "02/16/2024"
+date = "2024-02-16"
 
 [Article]
 startDate = ""

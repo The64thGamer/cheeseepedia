@@ -2,7 +2,7 @@
 title = "Barboursville, WV (5 Cracker Barrel Dr)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = "11/23/2023"
+date = "2023-11-23"
 
 [Article]
 startDate = ""

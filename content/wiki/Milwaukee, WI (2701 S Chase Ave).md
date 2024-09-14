@@ -2,10 +2,10 @@
 title = "Milwaukee, WI (2701 S Chase Ave)"
 draft = false
 tags = ["Store List"]
-date = "09/08/2024"
+date = "2024-09-08"
 
 [Article]
-startDate = "4/-/1983"
+startDate = "1983-4-00"
 endDate = ""
 pageThumbnailFile = "MilwaukeeExteriorSept21.jpg|Milwaukee before the 2.0 remodel. (September 2021)"
 contributors = ["ShowbizMidwest","The 64th Gamer","173.216.33.6","ChuckECool","Rexburg090","Aulikevan05","CEC Tinley","Cheeseclassic","SuperCreamPiper2008","Cheeseopizza24","AstridMascotFan2005","CEC1988","CoolerDude"]
@@ -121,4 +121,3 @@ Milwaukee started the 2.0 remodel on August 18th, 2024.
 |Destroyed
 |}
 
-<h2>References</h2>

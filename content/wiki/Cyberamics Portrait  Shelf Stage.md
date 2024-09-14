@@ -2,7 +2,7 @@
 title = "Cyberamics Portrait / Shelf Stage"
 draft = false
 tags = []
-date = "05/02/2024"
+date = "2024-05-02"
 
 [Article]
 startDate = ""
@@ -164,4 +164,3 @@ The stage would undergo one specific change in which several locations received 
 |Late 1980s
 |}
 
-<h2> References </h2>

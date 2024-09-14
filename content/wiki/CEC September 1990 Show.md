@@ -2,10 +2,10 @@
 title = "CEC September 1990 Show"
 draft = false
 tags = ["APS Showtapes"]
-date = "09/16/2023"
+date = "2023-09-16"
 
 [Article]
-startDate = "-/-/1990"
+startDate = "1990-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat","Documentor","Montfortdog"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]

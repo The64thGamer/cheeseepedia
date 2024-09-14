@@ -2,10 +2,10 @@
 title = "3-Stage 2002 Diagnostics"
 draft = false
 tags = ["Showtapes"]
-date = "10/13/2023"
+date = "2023-10-13"
 
 [Article]
-startDate = "-/-/2002"
+startDate = "2002-00-00"
 endDate = ""
 contributors = ["Documentor","The 64th Gamer","Parum33","CyCGM"]
 gallery = []

@@ -2,10 +2,10 @@
 title = "Pizza Time Theatre Cashiering"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "04/21/2023"
+date = "2023-04-21"
 
 [Article]
-startDate = "12/30/1981"
+startDate = "1981-12-30"
 endDate = ""
 pageThumbnailFile = "3181F53A-8CCB-40D3-AD19-E1E1096F167A.jpg|The only known image of the film."
 contributors = ["The 64th Gamer","TRANSTAR-LEXINGTON"]

@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese Springfield Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
-date = "07/30/2024"
+date = "2024-07-30"
 
 [Article]
-startDate = "7/19/2024"
+startDate = "2024-7-19"
 endDate = ""
 contributors = ["Documentor"]
 gallery = []

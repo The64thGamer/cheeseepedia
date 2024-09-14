@@ -2,7 +2,7 @@
 title = "Senior Citizens"
 draft = false
 tags = ["Showtapes"]
-date = "08/07/2023"
+date = "2023-08-07"
 
 [Article]
 startDate = ""
@@ -47,4 +47,3 @@ A tape called <b><i>Senion Citizens (Revised)</b></i> released at some point tha
 ##<i>Boogie Woogie Bugle Boy</i>
 ##<i>Five Guys Named Moe</i>
 
-<h2> References </h2>

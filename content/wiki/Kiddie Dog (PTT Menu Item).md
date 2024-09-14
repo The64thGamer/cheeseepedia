@@ -2,7 +2,7 @@
 title = "Kiddie Dog (PTT Menu Item)"
 draft = false
 tags = ["Menu Items"]
-date = "02/07/2024"
+date = "2024-02-07"
 
 [Article]
 startDate = ""
@@ -25,4 +25,3 @@ The hot-dog would start at $0.99 in price upon release.<ref>https:<i>www.newspap
 The item is served in a woven food basket on top of either deli paper or wax paper. A toppings bar was available which offered onions, piccalilli, horseradish, and mustard.
  Commercial]]
 
-<h2> References </h2>

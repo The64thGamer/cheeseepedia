@@ -2,7 +2,7 @@
 title = "Studio C Beta"
 draft = false
 tags = ["Stage Variations"]
-date = "09/04/2024"
+date = "2024-09-04"
 
 [Article]
 startDate = ""
@@ -211,4 +211,3 @@ Current Total Remaining: 29
 |
 |}
 
-<h2> References </h2>

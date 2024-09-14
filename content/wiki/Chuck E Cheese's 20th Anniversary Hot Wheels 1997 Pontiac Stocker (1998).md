@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker (1998)"
 draft = false
 tags = ["Merchandise"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
 startDate = ""

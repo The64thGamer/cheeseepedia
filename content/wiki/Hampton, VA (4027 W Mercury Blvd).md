@@ -2,11 +2,11 @@
 title = "Hampton, VA (4027 W Mercury Blvd)"
 draft = false
 tags = ["Store List"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
-startDate = "5/-/1982"
-endDate = "5/-/2002"
+startDate = "1982-5-00"
+endDate = "2002-5-00"
 pageThumbnailFile = "Hampton1990sRemodel.jpg|Store Exterior Before Closing (1998)"
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","Documentor","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
 gallery = []
@@ -121,4 +121,3 @@ In May 2002, Hampton relocated to their current location and their 2-Stage was s
 |Between April 22nd to August of 1996
 |}
 
-<h2> References </h2>

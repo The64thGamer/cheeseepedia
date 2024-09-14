@@ -2,10 +2,10 @@
 title = "Lynchburg, VA (312 Border St)"
 draft = false
 tags = ["Licensed Family Entertainment Center Store List"]
-date = "04/26/2024"
+date = "2024-04-26"
 
 [Article]
-startDate = "9/1/1983"
+startDate = "1983-9-1"
 endDate = ""
 pageThumbnailFile = "lynchburg va cec exterior as showbiz.png|Exterior, January 1993"
 contributors = ["CECBowlingGreen","Emcaacme","BurgersNuggs445","Rexburg090","2605:AD80:31:11FD:2CE9:702A:2340:CC47","CEC Tinley","The 64th Gamer","2607:FB90:B786:C9F6:F04A:1AE0:224A:F112","GabrielPennington9864","Saan1ty","2607:FB91:1E17:65B:B96B:ABD0:417F:E06F","216.185.74.218","204.101.16.199","ThatBoiCydalan","CoolerDude","SuperCreamPiper2008","Cheeseclassic","Cy's Junk at School","ItzaRob"]
@@ -136,5 +136,5 @@ There was an unconfirmed rumor that an anonymous user was going to purchase the 
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

@@ -2,7 +2,7 @@
 title = "Dook Larue (Mijjin)"
 draft = false
 tags = ["Animatronics"]
-date = "12/28/2023"
+date = "2023-12-28"
 
 [Article]
 startDate = ""
@@ -116,5 +116,5 @@ All movements are on the Top Drawer. Eyes and eyelids are controlled by servos.
 
 
 
-<h2> References </h2>
+
 <references />

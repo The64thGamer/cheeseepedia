@@ -2,11 +2,11 @@
 title = "La Habra, CA (901 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = "12/10/2023"
+date = "2023-12-10"
 
 [Article]
-startDate = "5/-/1980"
-endDate = "12/-/1984"
+startDate = "1980-5-00"
+endDate = "1984-12-00"
 pageThumbnailFile = "Lahabra.jpg|La Habra shortly before demolition."
 contributors = ["CEC Kokomo","Chuckeindiana","The 64th Gamer"]
 gallery = []
@@ -74,4 +74,3 @@ It is unknown what the location would become after the auction, though by Novemb
 |Unknown
 |}
 
-<h2> References </h2>

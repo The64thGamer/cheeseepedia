@@ -2,10 +2,10 @@
 title = "Florence, KY (7635 Mall Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/08/2024"
+date = "2024-09-08"
 
 [Article]
-startDate = "4/19/1982"
+startDate = "1982-4-19"
 endDate = ""
 pageThumbnailFile = "CECFlorence2.0exterior.jpg|Florence's Exterior (2022) PC: Joshua"
 contributors = ["Documentor","Mousester","CECBowlingGreen","RedaCEC","SuperCreamPiper2008","ChuckECool","ThatBoiCydalan","2600:4040:5A0E:D900:ACE2:E035:4385:1E5C","CEC Tinley","Rexburg090","2600:4040:5A0E:D900:536:4D5F:5C9C:EB38","Caydenpedia","2600:4040:5A0E:D900:BC79:7D2C:188E:B2DB","Cyberamics"]
@@ -235,5 +235,5 @@ On August 29, 2024 Florence would install its Trampoline Zone. Around this time 
 |February 1982
 |Destroyed. Originally from [Hampton, VA (4027 W Mercury Blvd)]({{< ref "wiki/Hampton, VA (4027 W Mercury Blvd).md" >}}). Removed in March 2022.
 |}
-<h2>References</h2>
+
 <references />

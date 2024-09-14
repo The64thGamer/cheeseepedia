@@ -2,10 +2,10 @@
 title = "Dr. Quack Showtape"
 draft = false
 tags = ["Showtapes"]
-date = "05/16/2023"
+date = "2023-05-16"
 
 [Article]
-startDate = "-/-/1980"
+startDate = "1980-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = []
@@ -18,4 +18,3 @@ gallery = []
 <h2> Show List </h2>
 The showtape is confirmed to be a list of children's songs and nursery rhymes.<ref>https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc</ref>
 
-<h2> References </h2>

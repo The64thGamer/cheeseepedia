@@ -2,7 +2,7 @@
 title = "Tampa, FL (4202 E Fowler Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/07/2024"
+date = "2024-08-07"
 
 [Article]
 startDate = ""
@@ -21,4 +21,3 @@ Aaron notes the plans as '...it didn't go over that hot. They didn't really see 
 
 * Prior to this location's cancellation, this would have been the only ShowBiz Pizza location to be located on a college or school campus. To this day, Chuck E. Cheese does not have any college or school campus locations.
 
-<h2> References </h2>

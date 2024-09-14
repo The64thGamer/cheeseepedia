@@ -2,7 +2,7 @@
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
 tags = ["Promotional Material"]
-date = "07/28/2023"
+date = "2023-07-28"
 
 [Article]
 startDate = ""

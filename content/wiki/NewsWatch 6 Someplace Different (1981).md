@@ -2,7 +2,7 @@
 title = "NewsWatch 6 'Someplace Different' (1981)"
 draft = false
 tags = []
-date = "02/04/2023"
+date = "2023-02-04"
 
 [Article]
 startDate = ""
@@ -28,5 +28,5 @@ The segment is narrated entirely by Annetta Wilson, with some spoken moments by 
 
 
 <b>Annetta Wilson:</b> The restaurant also has a huge game room for the more playful types. Fechtor started out as a one-man operation, so what's next? He says a recording career for the group.'</blockquote>
-<h2>References</h2>
+
 <references />

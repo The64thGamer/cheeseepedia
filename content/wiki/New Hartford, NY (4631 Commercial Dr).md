@@ -2,11 +2,11 @@
 title = "New Hartford, NY (4631 Commercial Dr)"
 draft = false
 tags = ["Store List"]
-date = "01/14/2024"
+date = "2024-01-14"
 
 [Article]
-startDate = "10/30/2006"
-endDate = "6/-/2020"
+startDate = "2006-10-30"
+endDate = "2020-6-00"
 pageThumbnailFile = "Chuck-e-cheese-new-hartford-ny.png|Exterior photo of the location before closure.<ref>https://bigfrog104.com/new-hartford-chuck-e-cheeses-sensory-sensitive-sundays/</ref>"
 contributors = ["Stripes"]
 gallery = []
@@ -52,4 +52,3 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 |Partially owned by a private collector, otherwise destroyed<ref>https://www.reddit.com/r/Animatronics/comments/ocnpop/pick_up_from_chuck_e_cheese_what_animatronic_was/</ref>.
 |}
 
-<h2> References </h2>

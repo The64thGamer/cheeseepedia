@@ -2,11 +2,11 @@
 title = "Costa Mesa, CA (2300 Harbor Blvd)"
 draft = false
 tags = ["Store List"]
-date = "09/04/2024"
+date = "2024-09-04"
 
 [Article]
-startDate = "-/-/1981"
-endDate = "-/-/1984"
+startDate = "1981-00-00"
+endDate = "1984-00-00"
 pageThumbnailFile = "Costa Mesa.jpg|Costa Mesa's exterior. (PC: Google Maps)"
 contributors = ["CorrectorMan","2600:4040:5A0E:D900:F15A:A411:F711:2B8A","CEC Tinley","ThatBoiCydalan","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 gallery = []

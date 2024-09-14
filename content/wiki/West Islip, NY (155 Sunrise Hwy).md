@@ -2,10 +2,10 @@
 title = "West Islip, NY (155 Sunrise Hwy)"
 draft = false
 tags = ["Store List"]
-date = "07/12/2024"
+date = "2024-07-12"
 
 [Article]
-startDate = "12/10/1998"
+startDate = "1998-12-10"
 endDate = ""
 contributors = ["TheChuckECheeseGuy","Stripes","Nerdychucke","AlexisCEC"]
 gallery = ["West Islip.jpg|thumb|West Islip's exterior in 2023. <ref>Google Maps user generated content.</ref>"]
@@ -99,4 +99,3 @@ on Week of July 1st, 2024, The Store was set to go under [CEC 2018 2.0 Remodel P
 
 
 
-<h2> References </h2>

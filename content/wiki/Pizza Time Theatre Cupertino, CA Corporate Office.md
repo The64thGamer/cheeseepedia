@@ -2,7 +2,7 @@
 title = "Pizza Time Theatre Cupertino, CA Corporate Office"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/20/2024"
+date = "2024-05-20"
 
 [Article]
 startDate = ""
@@ -14,4 +14,3 @@ The <b><i>Pizza Time Theatre Corporate Office</b></i> was the main office used f
 
 The building was located on <i>10060 Bubb Rd. Cupertino, CA 95014.</i><ref>https://uspto.report/TM/73239678</ref>
 
-<h2> References </h2>

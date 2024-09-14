@@ -2,10 +2,10 @@
 title = "Dothan, AL (1001 Commons Dr)"
 draft = false
 tags = ["Store List"]
-date = "06/24/2024"
+date = "2024-06-24"
 
 [Article]
-startDate = "8/19/2004"
+startDate = "2004-8-19"
 endDate = ""
 contributors = ["TailsFan628","Tux Chuck"]
 gallery = ["CEC dothan 12 11 23.jpg|thumb|The store as it appeared on December 11th, 2023 at 12:45 PM","CEC dothan stage.jpg|thumb|371x371px|The unique stage setup seen at the store."]
@@ -67,5 +67,5 @@ The store opened on August 19th, 2004, presumably right around the 2003 'Cool Ch
 |In store. No movement.
 |}
 
-<h2>References</h2>
+
 citations go here automatically if you use them in the editor

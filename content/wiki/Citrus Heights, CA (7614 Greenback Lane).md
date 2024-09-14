@@ -2,11 +2,11 @@
 title = "Citrus Heights, CA (7614 Greenback Lane)"
 draft = false
 tags = ["Store List"]
-date = "03/26/2024"
+date = "2024-03-26"
 
 [Article]
-startDate = "12/26/1979"
-endDate = "1/-/1985"
+startDate = "1979-12-26"
+endDate = "1985-1-00"
 pageThumbnailFile = "Citrus Exterior Thing.png|The Location's Exterior in the early 1980's. (PC: David Antonio)"
 contributors = ["Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","ChuckECool","CEC Tinley","CorrectorMan","Concordio","SuperCreamPiper2008","PizzaEntertainmentFanX"]
 gallery = []
@@ -127,4 +127,3 @@ Citrus Heights opened with a Portrait Stage, but we only have one photo showing 
 <h2>Videos</h2>
 No Videos have been fully confirmed to be from Citrus Heights.
 
-<h2>References</h2>

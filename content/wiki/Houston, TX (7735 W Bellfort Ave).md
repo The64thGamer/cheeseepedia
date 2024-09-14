@@ -2,11 +2,11 @@
 title = "Houston, TX (7735 W Bellfort Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/18/2023"
+date = "2023-08-18"
 
 [Article]
-startDate = "6/1/1982"
-endDate = "-/-/1993"
+startDate = "1982-6-1"
+endDate = "1993-00-00"
 contributors = ["CEC Kokomo"]
 gallery = []
 +++

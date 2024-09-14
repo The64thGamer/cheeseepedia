@@ -2,11 +2,11 @@
 title = "Cherry Hill, NJ (1660 N Kings Hwy)"
 draft = false
 tags = ["Store List"]
-date = "12/10/2023"
+date = "2023-12-10"
 
 [Article]
-startDate = "1/-/1985"
-endDate = "-/-/1986"
+startDate = "1985-1-00"
+endDate = "1986-00-00"
 pageThumbnailFile = "SPP Cherry Hill AD.jpg|Advertisement for Cherry Hill's SPP from when it was open."
 contributors = ["Cheeseclassic","Chuckeindiana"]
 gallery = []

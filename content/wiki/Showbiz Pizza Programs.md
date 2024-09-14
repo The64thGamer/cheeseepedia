@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Programs"
 draft = false
 tags = ["Showbiz"]
-date = "09/13/2024"
+date = "2024-09-13"
 
 [Article]
 startDate = ""
@@ -104,4 +104,3 @@ Oddly, the CEC showtape release for October 1988 is absent, which would have syn
 |CEC Best Of 1988
 |}
 
-<h2> References </h2>

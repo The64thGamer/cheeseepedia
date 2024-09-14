@@ -2,10 +2,10 @@
 title = "Miami (Kendall), FL (8701 SW 124th Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/08/2024"
+date = "2024-08-08"
 
 [Article]
-startDate = "12/4/2000"
+startDate = "2000-12-4"
 endDate = ""
 contributors = ["2600:1012:B1C7:3791:FDAE:AD41:9F39:4AE6","AstridMascotFan2005"]
 gallery = []

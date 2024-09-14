@@ -2,10 +2,10 @@
 title = "Grapevine, TX (2755 E Grapevine Mills Circle)"
 draft = false
 tags = ["Store List"]
-date = "07/20/2023"
+date = "2023-07-20"
 
 [Article]
-startDate = "5/21/2002"
+startDate = "2002-5-21"
 endDate = ""
 contributors = ["Rexburg090","2600:4040:5A0E:D900:4505:91DB:C51E:9D03","Tindersmainac200"]
 gallery = ["GrapevineTXExterior2022DecemberGoogleMaps.png|thumb|Street view of the store exterior back in December 2022 (PC: Google Maps)"]
@@ -57,5 +57,5 @@ Grapevine opened on May 21st, 2002 in a freestanding building located within the
 <h2>Videos</h2>
 TODO
 
-<h2> References </h2>
+
 <references />

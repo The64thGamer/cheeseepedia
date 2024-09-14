@@ -2,7 +2,7 @@
 title = "3 Birthday Shows - Colander History - Indoctrination Skit"
 draft = false
 tags = ["Showtapes"]
-date = "10/09/2023"
+date = "2023-10-09"
 
 [Article]
 startDate = ""
@@ -36,6 +36,6 @@ The 'Indoctrination' segment would need to be performed with an employee, whom w
 
 
 
-<h2>References</h2>
+
 
 <references />

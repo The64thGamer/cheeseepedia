@@ -2,7 +2,7 @@
 title = "Atari Family Game Center"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "05/20/2024"
+date = "2024-05-20"
 
 [Article]
 startDate = ""
@@ -27,4 +27,3 @@ Only 5 stores are currently known to have existed, but it is stated that several
 * San Jose, CA (925 Blossom Hill Rd)
 * Orange, CA (1500 East Village Way)
 
-<h2> References </h2>

@@ -2,11 +2,11 @@
 title = "Salinas, CA (957 N Main St)"
 draft = false
 tags = ["Store List"]
-date = "05/02/2024"
+date = "2024-05-02"
 
 [Article]
-startDate = "9/-/1981"
-endDate = "8/-/1995"
+startDate = "1981-9-00"
+endDate = "1995-8-00"
 contributors = ["SuperCreamPiper2008"]
 gallery = []
 +++

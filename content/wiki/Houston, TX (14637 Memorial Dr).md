@@ -2,10 +2,10 @@
 title = "Houston, TX (14637 Memorial Dr)"
 draft = false
 tags = ["Store List"]
-date = "05/08/2024"
+date = "2024-05-08"
 
 [Article]
-startDate = "8/26/1981"
+startDate = "1981-8-26"
 endDate = ""
 pageThumbnailFile = "desc=The store’s exterior in 2012. (PC: H-Town-West Photo Blog)|image=HoustonMemorialDrCECExterior.jpeg"
 contributors = ["ChuckECool","RedaCEC","Rexburg090","ThatBoiCydalan","2600:4040:5A0E:D900:6124:FDF3:F55:1E0A","Cecnj98","Cheeseclassic"]

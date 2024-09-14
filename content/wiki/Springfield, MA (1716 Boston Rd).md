@@ -2,11 +2,11 @@
 title = "Springfield, MA (1716 Boston Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/05/2024"
+date = "2024-09-05"
 
 [Article]
 startDate = ""
-endDate = "6/18/2020"
+endDate = "2020-6-18"
 contributors = ["Rexburg090","2600:4040:59FC:D100:28E1:300A:D18D:A58E","2600:4040:59FC:D100:61B5:7557:4774:8CDC","ChuckECool","ShowbizMidwest","Cecnj98","138.229.239.64","Cheeseclassic","Bullseye123","CEC1988"]
 gallery = ["Sct-chuck-cheesejpg-8943ce5de063be12.jpg|thumb|Exterior in 2010 before closure (PC: Michael S. Gordon / The Republican)"]
 +++

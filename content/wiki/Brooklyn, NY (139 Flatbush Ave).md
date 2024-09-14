@@ -2,10 +2,10 @@
 title = "Brooklyn, NY (139 Flatbush Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/16/2023"
+date = "2023-08-16"
 
 [Article]
-startDate = "-/-/2004"
+startDate = "2004-00-00"
 endDate = ""
 pageThumbnailFile = "BK Exterior.jpg|Brooklyn's exterior from 2004 to 2015"
 contributors = ["2600:4040:AD76:D00:CCCB:85BF:4F98:EB5","Cecnj98","ThatBoiCydalan","CorrectorMan","BurgersNuggs445","47.17.236.200"]
@@ -44,4 +44,3 @@ Early on into 2023, remodeled once again under the 2.0 remodel initiative and ha
 
 
 
-<h2> References </h2>

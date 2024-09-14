@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"
 draft = false
 tags = ["Merchandise"]
-date = "04/29/2023"
+date = "2023-04-29"
 
 [Article]
-startDate = "7/-/2005"
+startDate = "2005-7-00"
 endDate = ""
 contributors = ["BurgersNuggs445","CEC Tinley"]
 gallery = [":Supercec2.jpg"]
@@ -29,5 +29,5 @@ The finalized Super Chuck was based off of the art created for the various adver
 
 
 
-<h2> References </h2>
+
 <references />

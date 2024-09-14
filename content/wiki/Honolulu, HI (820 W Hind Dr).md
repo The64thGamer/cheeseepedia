@@ -2,7 +2,7 @@
 title = "Honolulu, HI (820 W Hind Dr)"
 draft = false
 tags = ["Store List"]
-date = "04/07/2024"
+date = "2024-04-07"
 
 [Article]
 startDate = ""
@@ -170,5 +170,5 @@ In June 2007, the location's shopping center was sold to a California company, w
 |Unknown
 |}
 
-<h2>References</h2>
+
 <references />

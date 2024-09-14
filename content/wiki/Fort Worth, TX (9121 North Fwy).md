@@ -2,10 +2,10 @@
 title = "Fort Worth, TX (9121 North Fwy)"
 draft = false
 tags = ["Store List"]
-date = "08/09/2023"
+date = "2023-08-09"
 
 [Article]
-startDate = "6/6/2016"
+startDate = "2016-6-6"
 endDate = ""
 contributors = ["66.215.38.213","Blowseborg062"]
 gallery = []

@@ -2,7 +2,7 @@
 title = "Luigi (Pasqually Retrofit)"
 draft = false
 tags = ["JungleJims"]
-date = "05/06/2023"
+date = "2023-05-06"
 
 [Article]
 startDate = ""

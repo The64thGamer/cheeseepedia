@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Program 11"
 draft = false
 tags = ["Showbiz Pizza Programs"]
-date = "03/22/2023"
+date = "2023-03-22"
 
 [Article]
 startDate = ""
@@ -41,4 +41,3 @@ The program came with both <i>Summertime</i> shows, which released in May of 198
 # [https://en.wikipedia.org/wiki/Man_in_the_Mirror Man in the Mirror]
 # [https://en.wikipedia.org/wiki/Dan_Siegel_(musician) Feelin' Happy]
 
-<h2> References </h2>

@@ -2,11 +2,11 @@
 title = "Mesa, AZ (7012 E Hampton Ave)"
 draft = false
 tags = []
-date = "10/28/2023"
+date = "2023-10-28"
 
 [Article]
 startDate = ""
-endDate = "12/2/2018"
+endDate = "2018-12-2"
 pageThumbnailFile = "Mesa's Exterior before closure .jpg|Exterior before closure."
 contributors = ["Chez","Cheeseclassic"]
 gallery = []

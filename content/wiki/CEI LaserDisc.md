@@ -2,7 +2,7 @@
 title = "CEI LaserDisc"
 draft = false
 tags = ["Showtape Formats"]
-date = "07/31/2022"
+date = "2022-07-31"
 
 [Article]
 startDate = ""

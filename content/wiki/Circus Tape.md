@@ -2,7 +2,7 @@
 title = "Circus Tape"
 draft = false
 tags = ["Showtapes"]
-date = "07/14/2024"
+date = "2024-07-14"
 
 [Article]
 startDate = ""
@@ -37,4 +37,3 @@ It is unknown the order of the segments, nor are all of the segments currently k
 
 
 
-<h2> References </h2>

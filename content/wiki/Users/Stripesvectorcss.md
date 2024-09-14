@@ -2,7 +2,7 @@
 title = "Stripes/vector.css"
 draft = false
 tags = ["User"]
-date = "08/24/2024"
+date = "2024-08-24"
 
 [Article]
 startDate = ""

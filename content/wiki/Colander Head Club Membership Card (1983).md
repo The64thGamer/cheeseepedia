@@ -2,7 +2,7 @@
 title = "Colander Head Club Membership Card (1983)"
 draft = false
 tags = ["Merchandise"]
-date = "10/16/2023"
+date = "2023-10-16"
 
 [Article]
 startDate = ""
@@ -28,4 +28,3 @@ A ShowBiz employee would then hand you the card. Patrons could then return each 
 
 
 
-<h2> References </h2>

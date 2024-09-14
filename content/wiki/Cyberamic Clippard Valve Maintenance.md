@@ -2,7 +2,7 @@
 title = "Cyberamic Clippard Valve Maintenance"
 draft = false
 tags = ["Animatronic Repair & Preservation"]
-date = "09/03/2023"
+date = "2023-09-03"
 
 [Article]
 startDate = ""
@@ -68,4 +68,3 @@ Sometimes near the bottom of a valve, the seal may go bad and begin to leak.
 
 Run the valve with air to ensure the seal doesn't have any further leaks, and that the process was completed successfully.
 
-<h2> References </h2>

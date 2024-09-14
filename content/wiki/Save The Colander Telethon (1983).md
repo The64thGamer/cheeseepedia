@@ -2,7 +2,7 @@
 title = "Save The Colander Telethon (1983)"
 draft = false
 tags = ["Training, Updates, & Company Media"]
-date = "03/06/2024"
+date = "2024-03-06"
 
 [Article]
 startDate = ""
@@ -79,4 +79,3 @@ Lastly is the colander installation portion of the tape. This section shows what
 * 1:22:57 - Installation Outro
 * 1:23:38 - Looney Tunes Gag Outro
 
-<h2> References </h2>

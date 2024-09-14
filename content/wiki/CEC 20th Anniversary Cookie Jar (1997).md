@@ -2,10 +2,10 @@
 title = "CEC 20th Anniversary Cookie Jar (1997)"
 draft = false
 tags = ["Merchandise"]
-date = "04/29/2023"
+date = "2023-04-29"
 
 [Article]
-startDate = "-/-/1997"
+startDate = "1997-00-00"
 endDate = ""
 contributors = ["CEC Tinley","BurgersNuggs445","Ceclife13"]
 gallery = []
@@ -39,6 +39,6 @@ The cookie jar is accessed by Chuck E.'s head being removed, revealing the hallo
 
 
 
-<h2>References</h2>
+
 
 <references />

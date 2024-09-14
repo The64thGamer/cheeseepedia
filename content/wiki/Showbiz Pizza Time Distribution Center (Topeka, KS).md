@@ -2,7 +2,7 @@
 title = "Showbiz Pizza Time Distribution Center (Topeka, KS)"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/31/2024"
+date = "2024-08-31"
 
 [Article]
 startDate = ""
@@ -61,4 +61,3 @@ This location also houses multiple full animatronic stages and series of props/a
 
 
 
-<h2> References </h2>

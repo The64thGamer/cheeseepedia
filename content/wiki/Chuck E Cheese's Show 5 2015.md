@@ -2,10 +2,10 @@
 title = "Chuck E. Cheese's Show 5 2015"
 draft = false
 tags = ["Showtapes"]
-date = "02/13/2024"
+date = "2024-02-13"
 
 [Article]
-startDate = "8/10/2015"
+startDate = "2015-8-10"
 endDate = ""
 contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:5C6F:DDAF:264D:FF62","YoyoandRonnie"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

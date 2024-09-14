@@ -2,7 +2,7 @@
 title = "Billy Bob PVC Figurine (1987)"
 draft = false
 tags = ["Merchandise"]
-date = "07/19/2023"
+date = "2023-07-19"
 
 [Article]
 startDate = ""

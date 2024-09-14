@@ -2,7 +2,7 @@
 title = "Large Jasper Plush (1996)"
 draft = false
 tags = ["Merchandise"]
-date = "05/05/2023"
+date = "2023-05-05"
 
 [Article]
 startDate = ""
@@ -38,5 +38,5 @@ His hat uses a weird papery material with a red ribbon. He has a red bandana tha
 There's little to no difference between this plush and the [Small 1996 Jasper]({{< ref "wiki/Small Jasper Plush (1996).md" >}}), but the biggest key difference between this plush and it's smaller size is the eyes. The large Jaspers eyes are more proportionate than the smaller versions eyes.
 
 
-<h2>References</h2>
+
 <references />

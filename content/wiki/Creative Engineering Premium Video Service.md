@@ -2,7 +2,7 @@
 title = "Creative Engineering Premium Video Service"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "08/24/2023"
+date = "2023-08-24"
 
 [Article]
 startDate = ""
@@ -1261,4 +1261,3 @@ Describe the early abundance of video leaks, and the continued efforts of Creati
 |March
 |2023
 |}
-<h2> References </h2>

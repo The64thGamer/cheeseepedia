@@ -2,10 +2,10 @@
 title = "Bronx, NY (1816 E Gun Hill Rd)"
 draft = false
 tags = []
-date = "09/25/2023"
+date = "2023-09-25"
 
 [Article]
-startDate = "2/2/2003"
+startDate = "2003-2-2"
 endDate = ""
 contributors = ["47.17.236.200","The 64th Gamer","ChuckfeldStan","CorrectorMan","CEC New Jersey","Cheeseclassic"]
 gallery = []

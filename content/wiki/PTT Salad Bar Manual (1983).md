@@ -2,7 +2,7 @@
 title = "PTT Salad Bar Manual (1983)"
 draft = false
 tags = ["Documents"]
-date = "12/08/2022"
+date = "2022-12-08"
 
 [Article]
 startDate = ""
@@ -31,4 +31,3 @@ The manual is described as being 80 pages long, with sections for:
 
 It is stated the manual focuses on the management of fresh ingredients as well, such as ordering procedures, receiving procedures, cost controls, sanitation, awareness of purchasing fresh produce, and produce preparation. The salad bar program could have a mix of 25-40 products depending on the store's size, which is presumably stated and discussed in the Salad Bar Layouts section. 
 
-<h2> References </h2>

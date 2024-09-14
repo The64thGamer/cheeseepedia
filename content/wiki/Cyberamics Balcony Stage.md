@@ -2,7 +2,7 @@
 title = "Cyberamics Balcony Stage"
 draft = false
 tags = ["Stage Variations"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
 startDate = ""
@@ -37,7 +37,7 @@ The last Balcony Stage would be located at [Edmonton, Alberta, Canada (9271 34th
 
 <h2>= Present / Chuck E. Cheese </h2>=
 
-<h2>== References </h2>==
+====
 The Balcony Stage would appear as a cameo in a few modern era CEC Shows, mostly as a flashback.
 
 <h2>= Similar Stage Types </h2>=
@@ -100,5 +100,5 @@ The CEC History of Rock and Roll showtape would reuse the same backdrop for both
 
 
 
-<h2> References </h2>
+
 *

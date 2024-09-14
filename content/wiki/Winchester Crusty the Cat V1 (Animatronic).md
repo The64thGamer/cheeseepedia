@@ -2,7 +2,7 @@
 title = "Winchester Crusty the Cat V1 (Animatronic)"
 draft = false
 tags = ["Animatronics"]
-date = "05/23/2024"
+date = "2024-05-23"
 
 [Article]
 startDate = ""
@@ -57,4 +57,3 @@ Sadly, due to no videos of Crusty in store or after his use in the store exist, 
 
 
 
-<h2> References </h2>

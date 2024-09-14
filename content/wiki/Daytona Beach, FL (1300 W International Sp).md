@@ -2,11 +2,11 @@
 title = "Daytona Beach, FL (1300 W International Sp)"
 draft = false
 tags = ["Store List"]
-date = "05/21/2024"
+date = "2024-05-21"
 
 [Article]
-startDate = "1/-/1982"
-endDate = "-/-/1984"
+startDate = "1982-1-00"
+endDate = "1984-00-00"
 contributors = ["TheChuckECheeseGuy","ShowbizMidwest","CECMentor"]
 gallery = ["Site of daytona beach ptt.jpg|thumb|The site of the location via Google Maps."]
 +++

@@ -2,11 +2,11 @@
 title = "Fort Gratiot Township, MI (4350 24th Ave)"
 draft = false
 tags = []
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "7/8/2004"
-endDate = "7/14/2014"
+startDate = "2004-7-8"
+endDate = "2014-7-14"
 pageThumbnailFile = "FortGratiotMIExterior2004.png|A photo of the store's exterior not long after opening (PC; thetimesherald.com)."
 contributors = ["Rexburg090","Midwestretail","ThatBoiCydalan","CECswag2009"]
 gallery = []
@@ -44,5 +44,5 @@ The store opened on July 8th, 2004 with the Small-Town Studio C & the Cool Chuck
 
 
 <h2>Videos</h2>
-<h2>References</h2>
+
 <references />

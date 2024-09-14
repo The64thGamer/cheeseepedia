@@ -2,7 +2,7 @@
 title = "Program Blue .shw Files"
 draft = false
 tags = []
-date = "12/07/2022"
+date = "2022-12-07"
 
 [Article]
 startDate = ""

@@ -2,10 +2,10 @@
 title = "Waldorf, MD (3241 Plaza Way)"
 draft = false
 tags = ["Store List"]
-date = "01/20/2024"
+date = "2024-01-20"
 
 [Article]
-startDate = "6/18/2012"
+startDate = "2012-6-18"
 endDate = ""
 contributors = ["CorrectorMan","2600:1012:B11C:86AB:20BA:B121:8DCD:DBB","Cheeseclassic","2600:1012:B1AB:5E73:6CF1:4963:5032:E51F","Caydenpedia","SuperCreamPiper2008"]
 gallery = ["New waldorf.jpg|thumb|Waldorf's former Phase 4 exterior. (PC: Google Maps)"]

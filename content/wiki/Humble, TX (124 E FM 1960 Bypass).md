@@ -2,10 +2,10 @@
 title = "Humble, TX (124 E FM 1960 Bypass)"
 draft = false
 tags = ["Store List"]
-date = "02/10/2024"
+date = "2024-02-10"
 
 [Article]
-startDate = "12/16/1999"
+startDate = "1999-12-16"
 endDate = ""
 pageThumbnailFile = "desc=Exterior on June 1st, 2022.|image=Humble TX 2.0 Exterior.jpg"
 contributors = ["ThatBoiCydalan","The 64th Gamer","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
@@ -77,5 +77,5 @@ The most notable incident at this store happened on December 31st, 2021, when a 
 |Unknown/Destroyed
 |}
 
-<h2>References</h2>
+
 <references />

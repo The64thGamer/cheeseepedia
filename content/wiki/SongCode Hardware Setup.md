@@ -2,7 +2,7 @@
 title = "SongCode Hardware Setup"
 draft = false
 tags = ["Programming Software & Hardware"]
-date = "07/03/2023"
+date = "2023-07-03"
 
 [Article]
 startDate = ""
@@ -103,5 +103,5 @@ The following showtapes were potentially programmed in SongCode, despite being r
 
 Rock-afire Explosion tapes going forward would be exclusively programmed by Creative Engineering, with the only new segments coming shortly after in the [SPP Best Of 1 Kids/Friends]({{< ref "wiki/SPP Best Of 1 KidsFriends.md" >}}) and SPP September 1990 Show tapes. Continued tapes would reuse signals from previous shows.
 
-<h2>References</h2>
+
 <references />

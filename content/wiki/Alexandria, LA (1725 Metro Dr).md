@@ -2,10 +2,10 @@
 title = "Alexandria, LA (1725 Metro Dr)"
 draft = false
 tags = ["Store List"]
-date = "08/04/2024"
+date = "2024-08-04"
 
 [Article]
-startDate = "6/27/1983"
+startDate = "1983-6-27"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","Stripes","Cecanddisneyfan2004","Thecheesymanfromschool","The 64th Gamer","AstridMascotFan2005"]
 gallery = ["AlexandriaLAExterior2021DecemberGoogleMaps.png|thumb|Street view of the exterior before the 2.0 remodel (December 2021) (PC: Google Maps)"]
@@ -131,5 +131,5 @@ Alexandria opened on June 27th, 1983 as the 5th Showbiz Pizza store to open in L
 |N/A
 |Destroyed
 |}
-<h2>References</h2>
+
 <references />

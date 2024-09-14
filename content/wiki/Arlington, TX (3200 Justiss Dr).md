@@ -2,11 +2,11 @@
 title = "Arlington, TX (3200 Justiss Dr)"
 draft = false
 tags = ["Store List"]
-date = "11/21/2023"
+date = "2023-11-21"
 
 [Article]
-startDate = "7/21/1982"
-endDate = "-/-/2001"
+startDate = "1982-7-21"
+endDate = "2001-00-00"
 pageThumbnailFile = "Justiss hq.png|Exterior (Early 1990's)"
 contributors = ["RedaCEC","ChuckEPediaIsTheBest!","ChuckECool","BurgersNuggs445","Midwestretail","Rexburg090","CorrectorMan","Saan1ty","SuperCreamPiper2008","The 64th Gamer"]
 gallery = []

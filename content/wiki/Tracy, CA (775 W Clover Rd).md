@@ -2,11 +2,11 @@
 title = "Tracy, CA (775 W Clover Rd)"
 draft = false
 tags = ["Store List"]
-date = "09/09/2024"
+date = "2024-09-09"
 
 [Article]
-startDate = "-/-/1983"
-endDate = "1/-/1995"
+startDate = "1983-00-00"
+endDate = "1995-1-00"
 contributors = ["CorrectorMan","Rexburg090","Tux Chuck","CECLover"]
 gallery = ["Tracy, California's exterior before becoming Stars Casino.jpg|thumb|Tracy's exterior before becoming a casino. (PC: crexi.com)"]
 +++

@@ -2,7 +2,7 @@
 title = "Standard: Menu Item Page"
 draft = false
 tags = ["Standards Pages"]
-date = "07/28/2023"
+date = "2023-07-28"
 
 [Article]
 startDate = ""

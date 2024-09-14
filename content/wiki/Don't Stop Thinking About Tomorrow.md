@@ -2,7 +2,7 @@
 title = "Don't Stop Thinking About Tomorrow"
 draft = false
 tags = ["Live Shows"]
-date = "10/27/2023"
+date = "2023-10-27"
 
 [Article]
 startDate = ""

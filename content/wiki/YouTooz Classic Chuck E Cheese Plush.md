@@ -2,7 +2,7 @@
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
 tags = ["Merchandise"]
-date = "07/25/2024"
+date = "2024-07-25"
 
 [Article]
 startDate = ""
@@ -33,4 +33,3 @@ The design features Chuck E. Cheese in his classic [Pizza Time Theatre]({{< ref 
 
 </gallery>
 
-<h2> References </h2>

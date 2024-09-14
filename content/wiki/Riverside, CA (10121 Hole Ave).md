@@ -2,10 +2,10 @@
 title = "Riverside, CA (10121 Hole Ave)"
 draft = false
 tags = ["Store List"]
-date = "09/16/2023"
+date = "2023-09-16"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 contributors = ["TheChuckECheeseGuy"]
 gallery = ["Riverside (Hole).jpg|thumb|The site of the Hole avenue location."]

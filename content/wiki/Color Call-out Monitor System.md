@@ -2,7 +2,7 @@
 title = "Color Call-out Monitor System"
 draft = false
 tags = ["Other Software & Hardware"]
-date = "07/06/2024"
+date = "2024-07-06"
 
 [Article]
 startDate = ""
@@ -35,4 +35,3 @@ In February of 1982 the system would receive a Revision B board, which reportedl
 
 
 
-<h2> References </h2>

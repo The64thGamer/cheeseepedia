@@ -2,10 +2,10 @@
 title = "Wizard Of Cheez (Parody Poster)"
 draft = false
 tags = ["Store Fixtures"]
-date = "07/19/2023"
+date = "2023-07-19"
 
 [Article]
-startDate = "-/-/1988"
+startDate = "1988-00-00"
 endDate = ""
 contributors = ["Nostalgia Cow","BurgersNuggs445","ThatBoiCydalan"]
 gallery = []
@@ -33,5 +33,5 @@ In place of the Wizard of Oz actors are Pasqually, Harmony Howlette, Artie Antle
 
 Specifically for this poster, Pasqually is seen drawn more realistic compared to the rest of the on-model characters.  
 
-<h2>References</h2>
+
 <references />

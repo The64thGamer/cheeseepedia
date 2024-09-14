@@ -2,7 +2,7 @@
 title = "Family Vision 505"
 draft = false
 tags = []
-date = "07/31/2024"
+date = "2024-07-31"
 
 [Article]
 startDate = ""
@@ -54,5 +54,5 @@ The tape's total length was 33 minutes and 21 seconds.
 |https://www.youtube.com/watch?v=h2WMwISL3Tw
 |}
 
-<h2> References </h2>
+
 <references />

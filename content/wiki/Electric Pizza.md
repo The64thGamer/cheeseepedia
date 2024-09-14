@@ -2,7 +2,7 @@
 title = "Electric Pizza"
 draft = false
 tags = ["Arcade Games"]
-date = "04/30/2023"
+date = "2023-04-30"
 
 [Article]
 startDate = ""
@@ -56,4 +56,3 @@ I do not want to make money on shipping expense.</pre>
 |Working
 |Owner purchased machine on July 8, 2013 from eBay.
 |}
-<h2> References </h2>

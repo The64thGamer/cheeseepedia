@@ -2,7 +2,7 @@
 title = "Dance Party 1999"
 draft = false
 tags = ["Live Shows"]
-date = "04/04/2024"
+date = "2024-04-04"
 
 [Article]
 startDate = ""
@@ -96,4 +96,3 @@ The showtape's original stereo audio for all the segments and the live show woul
 *For Studio C 'Hip Mouse' and 'Dancin' On The Moon' were sang by Chuck E. Cheese. While on existing Munch sang 'Hip Mouse' and Jasper sang 'Dancin' On The Moon'
 *This was the final show released for Studio C on laser disc.
 
-<h2> References </h2>

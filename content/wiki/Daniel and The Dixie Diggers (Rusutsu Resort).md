@@ -2,7 +2,7 @@
 title = "Daniel and The Dixie Diggers (Rusutsu Resort)"
 draft = false
 tags = []
-date = "06/01/2024"
+date = "2024-06-01"
 
 [Article]
 startDate = ""
@@ -48,4 +48,3 @@ The overhaul would include giving the characters new cosmetics that resemble the
 
 
 
-<h2> References </h2>

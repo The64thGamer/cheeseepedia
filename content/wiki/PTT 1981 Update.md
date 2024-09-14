@@ -2,10 +2,10 @@
 title = "PTT 1981 Update"
 draft = false
 tags = []
-date = "04/20/2024"
+date = "2024-04-20"
 
 [Article]
-startDate = "-/-/1981"
+startDate = "1981-00-00"
 endDate = ""
 pageThumbnailFile = "1981 PTT.png|The Signage Update for Pizza Time Theatre in 1981."
 contributors = ["BurgersNuggs445","Cy's Junk at School","Cheeseclassic"]
@@ -21,5 +21,5 @@ This was the first major change of Pizza Time Theatre's branding. Store exterior
 
 The signs included in this package were rounded, rectangular signs. The borders are either white or red  and the inside being colored either Green, Blue, Red, or Black.
 
-<h2> References </h2>
+
 <references />

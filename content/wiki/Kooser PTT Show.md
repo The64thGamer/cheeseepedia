@@ -2,7 +2,7 @@
 title = "Kooser PTT Show"
 draft = false
 tags = ["Animatronic Shows"]
-date = "05/17/2024"
+date = "2024-05-17"
 
 [Article]
 startDate = ""
@@ -85,5 +85,5 @@ Dolli Dimples was first installed in this location. She was the only cabaret cha
 
 
 
-<h2> References </h2>
+
 *[San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}})

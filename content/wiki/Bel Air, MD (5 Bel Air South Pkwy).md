@@ -2,10 +2,10 @@
 title = "Bel Air, MD (5 Bel Air South Pkwy)"
 draft = false
 tags = ["Store List"]
-date = "07/14/2024"
+date = "2024-07-14"
 
 [Article]
-startDate = "3/29/1993"
+startDate = "1993-3-29"
 endDate = ""
 pageThumbnailFile = "Bel Air’s Exterior in 2019.jpg|Exterior, 2019"
 contributors = ["Cheeseclassic","Cecnj98"]

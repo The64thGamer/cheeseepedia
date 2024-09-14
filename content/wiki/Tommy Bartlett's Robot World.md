@@ -2,7 +2,7 @@
 title = "Tommy Bartlett's Robot World"
 draft = false
 tags = ["Animatronic Shows"]
-date = "02/17/2024"
+date = "2024-02-17"
 
 [Article]
 startDate = ""
@@ -15,7 +15,7 @@ gallery = [":Wisconsin State Journal Mon Mar 7 1983 .jpg"]
 
 Tommy Bartlett's Robot World was expanded sometime around March of 1983 and during this expansion they contracted Creative Presentations to make some robots for them.<ref></ref> These robots included a girl playing guitar, a robot that resembles R2D2, and a yellow robot.
 
-<h2> References </h2>
+
 https://youtu.be/b_L3v3LnhPk?t=236
 
 https://youtu.be/OdXIbApsYxI?t=143

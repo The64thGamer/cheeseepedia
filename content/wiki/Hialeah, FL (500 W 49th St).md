@@ -2,11 +2,11 @@
 title = "Hialeah, FL (500 W 49th St)"
 draft = false
 tags = ["Store List"]
-date = "07/15/2024"
+date = "2024-07-15"
 
 [Article]
-startDate = "12/20/1982"
-endDate = "-/-/1985"
+startDate = "1982-12-20"
+endDate = "1985-00-00"
 contributors = ["AstridMascotFan2005"]
 gallery = []
 +++

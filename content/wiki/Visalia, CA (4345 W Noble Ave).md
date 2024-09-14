@@ -2,10 +2,10 @@
 title = "Visalia, CA (4345 W Noble Ave)"
 draft = false
 tags = ["Store List"]
-date = "08/16/2024"
+date = "2024-08-16"
 
 [Article]
-startDate = "5/2/1983"
+startDate = "1983-5-2"
 endDate = ""
 pageThumbnailFile = "Visalia_exterior_2.0.PNG|Visalia's exterior in February 2024. (PC: SpeedyoGamerGioLeo)"
 contributors = ["Rexburg090","CECBowlingGreen","Rileypaulson","Polykirisame","ChuckECool","209.129.28.15","173.216.33.6","Cecbird","76.167.210.169","167.224.250.176","Chuckstar69","174.243.178.17","SuperCreamPiper2008","Cheeseclassic","JND","CoolerDude","Veronancy","AstridMascotFan2005"]

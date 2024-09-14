@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese"
 draft = false
 tags = ["Characters"]
-date = "06/04/2024"
+date = "2024-06-04"
 
 [Article]
 startDate = ""
@@ -140,6 +140,6 @@ Voice work for Chuck E. was also provided by John Mondelli for international pro
 |Phased out due to the CEC 2018 2.0 Remodel Program (CEC 2.0 Remodel Program). Being preserved at [Nanuet, NY (250 West Route 59)]({{< ref "wiki/Nanuet, NY (250 West Route 59).md" >}}).
 |}
 
-<h2>References</h2>
+
 
 <references />

@@ -2,7 +2,7 @@
 title = "Fantasy Forest"
 draft = false
 tags = ["Restaurants & Company History"]
-date = "04/27/2024"
+date = "2024-04-27"
 
 [Article]
 startDate = ""
@@ -93,4 +93,3 @@ This prototype animatronic would be a successful unveiling to Nolan and his team
 
 
 
-<h2> References </h2>
