@@ -2,7 +2,8 @@
 title = "{{ replace .Name "-" " " | title }}"  #page title
 date = {{ .Date | time.Format ":date_short" }} #Date of latest contribution. All dates here and below should be "Year-Month-Day"
 draft = false               #Keep false, true hides it from the site.
-tags = []                   #Categories -> ["Showtape"] -> ["User","Meta"]
+tags = []                   #Tags -> ["Showtape"] -> ["User","Meta"]
+categories = []             #Categories ->["Chuck E. Cheese"] -> ["ShowBiz Pizza Place","Creative Engineering"]
 
 [Article]
 pageThumbnailFile = ""      #The main picture -> "link|description|date" -> "what.jpg|A cool image|1977-05-31"

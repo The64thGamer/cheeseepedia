@@ -1,8 +1,8 @@
 <div class="tri-column">
   <ul>
-    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
       {{ $cnt := len $taxonomy }}
-      {{ with $.Site.GetPage (printf "/categories/%s" $name) }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
         <li>
           <a href="{{ .RelPermalink }}" title="All pages with tag <i>{{ .Title }}</i>">{{ .Title }}</a>
           <sup> {{ $cnt }}</sup>
