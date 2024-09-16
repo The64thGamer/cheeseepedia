@@ -5,7 +5,7 @@ tags = ["Cyberstar Segments"]
 date = "2023-12-08"
 
 [Article]
-startDate = ""
+startDate = "1989-7-5"
 endDate = ""
 contributors = ["DerekCat","The 64th Gamer"]
 gallery = []

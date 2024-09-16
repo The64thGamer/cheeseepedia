@@ -7,7 +7,6 @@ date = "2024-04-20"
 [Article]
 startDate = "1981-10-15"
 endDate = "1991-10-27"
-pageThumbnailFile = "desc=A shot of the store's exterior.|image=BurlingtonOntarioPTTExterior.png"
 contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
 gallery = []
 +++

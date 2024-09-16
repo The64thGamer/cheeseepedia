@@ -7,7 +7,6 @@ date = "2023-11-15"
 [Article]
 startDate = "1981-11-26"
 endDate = "2013-11-00"
-pageThumbnailFile = "desc=A photo of Cedar Rapid's exterior before closure. (2010)|image=CedarRapidsExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","ShowbizMidwest","SuperCreamPiper2008"]
 gallery = []
 +++

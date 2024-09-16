@@ -7,7 +7,6 @@ date = "2024-06-04"
 [Article]
 startDate = "1983-4-4"
 endDate = "2015-3-1"
-pageThumbnailFile = "desc=Front shot of the store's entrance in 2014 (PC: NCTV17)|image=NapervilleILCECOldLocationExterior.jpeg"
 contributors = ["ChuckECool","Rexburg090","2600:4040:5A0C:5900:B015:4E62:36E4:7B06","72.76.251.24","ThatBoiCydalan","Tux Chuck","Scubasteve7","CoolerDude"]
 gallery = []
 +++

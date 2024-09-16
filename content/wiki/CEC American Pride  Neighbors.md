@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-01-19"
 
 [Article]
-startDate = ""
+startDate = "1990-1-00"
 endDate = ""
+pageThumbnailFile = "American Pride 1990.png"
 contributors = ["DerekCat"]
 gallery = ["New_Graphic.png","New_Graphic.png"]
 +++

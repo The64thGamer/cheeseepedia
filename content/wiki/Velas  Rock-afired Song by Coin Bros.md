@@ -5,7 +5,7 @@ tags = []
 date = "2021-12-09"
 
 [Article]
-startDate = ""
+startDate = "2021-11-17"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png"]

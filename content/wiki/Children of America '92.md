@@ -5,8 +5,9 @@ tags = ["APS Showtapes"]
 date = "2022-07-17"
 
 [Article]
-startDate = ""
+startDate = "1992-6-00"
 endDate = ""
+pageThumbnailFile = "Usa93.jpg"
 contributors = ["DerekCat"]
 gallery = []
 +++

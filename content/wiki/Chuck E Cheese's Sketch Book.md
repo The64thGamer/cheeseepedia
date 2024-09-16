@@ -7,7 +7,6 @@ date = "2023-10-27"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=An image of Chuck E. Cheese's Sketch Book.|image=CEC Sketchbook.png"
 contributors = ["ChuckETasticAlt","ThatBoiCydalan","BurgersNuggs445","The 64th Gamer","Saan1ty","Pasquallytheplumber"]
 gallery = []
 +++

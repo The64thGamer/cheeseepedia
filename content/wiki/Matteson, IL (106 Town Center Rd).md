@@ -7,7 +7,6 @@ date = "2024-08-14"
 [Article]
 startDate = "1983-5-23"
 endDate = "2020-6-18"
-pageThumbnailFile = "desc=The exterior in February 2019|image=Matteson.jpg"
 contributors = ["ChuckECool","ShowbizMidwest","BurgersNuggs445","Rexburg090","CorrectorMan","Melrosefool2763","ThatBoiCydalan","AstridMascotFan2005","CoolerDude"]
 gallery = []
 +++

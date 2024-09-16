@@ -5,7 +5,7 @@ tags = ["Pizza Time Theatre Showtapes"]
 date = "2023-01-21"
 
 [Article]
-startDate = ""
+startDate = "1980-11-7"
 endDate = ""
 contributors = ["The 64th Gamer","JamesLemony"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

@@ -7,7 +7,6 @@ date = "2024-02-07"
 [Article]
 startDate = "1982-00-00"
 endDate = "1985-11-25"
-pageThumbnailFile = "desc=Fantasy Forest Arcade (August 19, 1982)|image=Fantasy forest beaumont.png"
 contributors = ["Blowseborg062","The 64th Gamer"]
 gallery = []
 +++

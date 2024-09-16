@@ -7,7 +7,6 @@ date = "2023-12-22"
 [Article]
 startDate = "1990-3-6"
 endDate = "2014-6-00"
-pageThumbnailFile = "desc=Streamwood's entrance, unknown date. (PC: MapQuest)|image=Streamwoodentrance.jpg"
 contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowbizMidwest","38.49.94.240","SinStar","Cheeseclassic"]
 gallery = []
 +++

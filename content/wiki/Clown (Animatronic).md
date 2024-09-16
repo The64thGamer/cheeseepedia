@@ -7,7 +7,6 @@ date = "2024-02-05"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=The CEI Clown's official Promotional Image from 1984.|image=Clown2.jpg"
 contributors = ["The 64th Gamer","Landon animatronics","Maddox121","129.222.82.23","PizzaEntertainmentFanX"]
 gallery = []
 +++

@@ -7,7 +7,6 @@ date = "2024-06-04"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Waldorf's exterior in the 2000's|image=Waldorf exterior.jpg"
 contributors = ["Cecnj98","ThatBoiCydalan","CorrectorMan","CEC Tinley","Cheeseclassic","Saan1ty","Chuckepoggers69"]
 gallery = []
 +++

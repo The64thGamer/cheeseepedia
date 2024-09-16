@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2023-12-18"
 
 [Article]
-startDate = ""
+startDate = "1980-3-3"
 endDate = ""
+pageThumbnailFile = "Showbizwolfpack5.png"
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

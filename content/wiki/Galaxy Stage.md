@@ -7,7 +7,6 @@ date = "2023-11-22"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Galaxy Stage in 2011.|image=Galaxy Stage.png"
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","216.125.34.66","Documentor","Ceclife13","Chuckstar69"]
 gallery = []
 +++

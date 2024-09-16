@@ -7,7 +7,6 @@ date = "2023-11-23"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Store Exterior, June 14, 2022|image=Billy Bob's Wonderland 2022-06-14.jpg"
 contributors = ["Saan1ty","Rexburg090","Stripes"]
 gallery = []
 +++

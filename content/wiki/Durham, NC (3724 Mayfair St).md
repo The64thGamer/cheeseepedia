@@ -7,7 +7,6 @@ date = "2024-07-15"
 [Article]
 startDate = "1994-3-7"
 endDate = ""
-pageThumbnailFile = "desc=The current exterior as of June 24, 2023.|image=DurhamExt06242023.jpg"
 contributors = ["RPCEC","Rexburg090","Saan1ty","216.125.34.66","ChuckECool","ChuckfeldStan","174.131.44.53","The 64th Gamer","Caydenpedia","Moonrock","Jaxonia"]
 gallery = ["CECDurhamHeraldSunAd.png|thumb|298x298px|Durham's Opening Advertisement","DurhamJasperRot.png|thumb|Jasper's original mask shortly before removal"]
 +++

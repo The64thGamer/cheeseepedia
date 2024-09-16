@@ -7,7 +7,6 @@ date = "2024-07-30"
 [Article]
 startDate = "2005-6-29"
 endDate = "2020-5-00"
-pageThumbnailFile = "desc=Glendale's exterior in March 2019 (PC: Google Maps) |image=Screenshot 2023-06-11 182031.png"
 contributors = ["RockyRhoad07","ThatBoiCydalan","2600:4040:5A0E:D900:6500:272E:6953:1FCD","GabrielPennington9864","CorrectorMan","BurgersNuggs445","Chez","AstridMascotFan2005"]
 gallery = []
 +++

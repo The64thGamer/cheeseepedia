@@ -7,7 +7,6 @@ date = "2023-08-26"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Munch Mouth Arcade Game|image=Munch Mouth.jpg"
 contributors = ["ChuckE1352","The 64th Gamer","Tux Chuck"]
 gallery = []
 +++

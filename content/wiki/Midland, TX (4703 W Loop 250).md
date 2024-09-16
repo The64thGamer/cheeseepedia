@@ -7,7 +7,6 @@ date = "2023-11-15"
 [Article]
 startDate = "2000-10-2"
 endDate = ""
-pageThumbnailFile = "desc=A shot of this location's exterior before getting the 2.0 remodel.|image=MidlandTXExteriorBefore2.0.jpg"
 contributors = ["ChuckEPediaIsTheBest!","ThatBoiCydalan","CorrectorMan","CEC Tinley","Tux Chuck"]
 gallery = []
 +++

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 date = "2022-07-21"
 
 [Article]
-startDate = ""
+startDate = "1983-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
 gallery = [":Orsi Show Confirmation.png|Orsi Show Confirmation.png","New Graphic.png"]

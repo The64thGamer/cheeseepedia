@@ -7,7 +7,6 @@ date = "2024-07-24"
 [Article]
 startDate = "1982-6-17"
 endDate = ""
-pageThumbnailFile = "desc=Exterior (2018)|image=Southgate2018GoogleMapsScreenshot.jpeg"
 contributors = ["ChuckECool","Rexburg090","174.131.44.53","ItAllStartsHereYT","The 64th Gamer"]
 gallery = []
 +++

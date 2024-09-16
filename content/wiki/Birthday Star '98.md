@@ -7,6 +7,7 @@ date = "2022-08-17"
 [Article]
 startDate = "1998-9-00"
 endDate = ""
+pageThumbnailFile = "birthday 95 screencap.png"
 contributors = ["The 64th Gamer","Pasquallytheplumber","Ceclife13"]
 gallery = []
 +++

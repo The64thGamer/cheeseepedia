@@ -7,7 +7,6 @@ date = "2024-02-10"
 [Article]
 startDate = "1999-12-16"
 endDate = ""
-pageThumbnailFile = "desc=Exterior on June 1st, 2022.|image=Humble TX 2.0 Exterior.jpg"
 contributors = ["ThatBoiCydalan","The 64th Gamer","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
 gallery = []
 +++

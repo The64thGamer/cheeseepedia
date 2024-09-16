@@ -7,7 +7,6 @@ date = "2023-12-07"
 [Article]
 startDate = "1993-11-1"
 endDate = ""
-pageThumbnailFile = "desc=Murrieta's exterior before 2.0. (PC: tripboba.com)|image=Murrieta.jpg"
 contributors = ["CorrectorManBackup","ThatBoiCydalan","Estsproduction"]
 gallery = []
 +++

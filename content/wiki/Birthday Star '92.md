@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2023-04-24"
 
 [Article]
-startDate = ""
+startDate = "1992-3-00"
 endDate = ""
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch","Karlissa McKinney|Voice of Helen Henny","Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
 contributors = ["The 64th Gamer","2600:1002:B101:DA57:DC5B:F933:7A4A:EC0","Pasquallytheplumber","173.72.50.65","216.125.34.66"]
 gallery = []
 +++

@@ -7,7 +7,6 @@ date = "2023-09-21"
 [Article]
 startDate = "1986-1-00"
 endDate = "2001-00-00"
-pageThumbnailFile = "desc=Exterior in 1997 presumably up to the store's closure|image=Johnson city tn cec old location exterior.png"
 contributors = ["Rexburg090","ThatBoiCydalan","CEC Tinley"]
 gallery = []
 +++

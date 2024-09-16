@@ -7,7 +7,6 @@ date = "2023-10-09"
 [Article]
 startDate = ""
 endDate = "2006-00-00"
-pageThumbnailFile = "desc=A front view of the store's exterior before closure.|image=FullExteriorBeforeClosure.jpg"
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","RedaCEC","CorrectorMan"]
 gallery = []
 +++

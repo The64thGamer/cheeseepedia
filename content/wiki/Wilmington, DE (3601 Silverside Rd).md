@@ -7,7 +7,6 @@ date = "2024-09-13"
 [Article]
 startDate = "1983-3-3"
 endDate = ""
-pageThumbnailFile = "Wilmington’s Exterior.jpg|thumb"
 contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","47.17.236.200","CorrectorMan","Cheeseclassic","Caydenpedia"]
 gallery = []
 +++

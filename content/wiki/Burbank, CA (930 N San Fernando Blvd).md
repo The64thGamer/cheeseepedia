@@ -7,7 +7,6 @@ date = "2024-09-09"
 [Article]
 startDate = "1999-12-28"
 endDate = ""
-pageThumbnailFile = "desc=Burbank's exterior as of July 2023.|image=Higher quality burbank.jpg"
 contributors = ["Chuckstar69","CorrectorMan","ThatBoiCydalan","CEC1988","Bunbunboy8"]
 gallery = []
 +++

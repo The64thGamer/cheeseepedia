@@ -7,7 +7,6 @@ date = "2024-06-28"
 [Article]
 startDate = "1991-9-24"
 endDate = ""
-pageThumbnailFile = "desc=Street View of the store's Exterior in September 2022 (PC: Google Maps)|image=Placeentia2022SeptemberGoogleMaps.png"
 contributors = ["ChuckECool","216.125.34.66","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic"]
 gallery = []
 +++

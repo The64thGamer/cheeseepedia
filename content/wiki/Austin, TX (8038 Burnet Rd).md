@@ -7,7 +7,6 @@ date = "2024-04-03"
 [Article]
 startDate = ""
 endDate = "2006-10-29"
-pageThumbnailFile = "desc=The store's exterior before closure. (PC: showbizpizza.com)|image=AustinTXBurnettCECExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","CEC Tinley","Stripes"]
 gallery = []
 +++

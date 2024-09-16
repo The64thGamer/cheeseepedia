@@ -7,7 +7,6 @@ date = "2024-07-30"
 [Article]
 startDate = "1982-9-20"
 endDate = "2020-6-18"
-pageThumbnailFile = "desc=South Charleston's exterior prior to its 2020 store closure. (PC: USA Restaurants)|image=Dothecharleston.jpg"
 contributors = ["Rexburg090","2600:4040:5A0C:5900:FDED:BFB8:FBAE:E743","71.31.183.205","2600:1702:3630:EA00:85E8:93A0:8972:FF99","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
 gallery = []
 +++

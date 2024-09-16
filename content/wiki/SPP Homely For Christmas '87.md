@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-01-28"
 
 [Article]
-startDate = "1987-00-00"
+startDate = "1987-12-00"
 endDate = ""
+pageThumbnailFile = "Homely87uniquethumbnail.png"
 contributors = ["The 64th Gamer","DerekCat"]
 gallery = [":Aaronhomelycomment87.png"]
 +++

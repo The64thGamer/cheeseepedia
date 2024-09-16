@@ -5,8 +5,9 @@ tags = ["APS Showtapes"]
 date = "2023-09-16"
 
 [Article]
-startDate = "1990-00-00"
+startDate = "1990-9-00"
 endDate = ""
+pageThumbnailFile = "September 1990 Show.png"
 contributors = ["The 64th Gamer","DerekCat","Documentor","Montfortdog"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

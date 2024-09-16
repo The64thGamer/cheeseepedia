@@ -5,7 +5,7 @@ tags = []
 date = "2022-12-13"
 
 [Article]
-startDate = ""
+startDate = "2022-11-21"
 endDate = ""
 contributors = ["Bowling for Cheese","Documentor","CEC Denver"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

@@ -7,7 +7,6 @@ date = "2024-09-07"
 [Article]
 startDate = "1981-7-15"
 endDate = "2006-9-00"
-pageThumbnailFile = "desc=The store's exterior before closure. (January 18, 2006)|image=Antoine 011806.jpg"
 contributors = ["ChuckECool","Rexburg090","CorrectorMan","ThatBoiCydalan","Midwestretail","Pizzaman49","SuperCreamPiper2008","ItzaRob","Saan1ty","ShowbizMidwest","CEC1988"]
 gallery = []
 +++

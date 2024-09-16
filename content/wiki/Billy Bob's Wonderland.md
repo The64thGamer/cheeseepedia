@@ -7,7 +7,6 @@ date = "2024-06-11"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Exterior of the Barboursville location, June 14, 2022|image=Billy Bob's Wonderland 2022-06-14.jpg"
 contributors = ["Saan1ty","The 64th Gamer","2600:4040:5A0C:5900:7CC4:6BF1:60E3:48C3","Stripes","2600:4040:5A0E:D900:C050:277C:FA95:3797","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]
 gallery = []
 +++

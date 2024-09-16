@@ -7,7 +7,6 @@ date = "2023-12-04"
 [Article]
 startDate = "1980-9-15"
 endDate = ""
-pageThumbnailFile = "desc=Exterior in 2019 |image=Chcuk e chhese tulsa 2.0.jpg"
 contributors = ["RedaCEC","Rexburg090","ChuckECool","CEC Tinley","CorrectorMan","Tindersmainac200","Chuckstar69","SuperCreamPiper2008"]
 gallery = []
 +++

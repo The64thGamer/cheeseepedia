@@ -7,7 +7,6 @@ date = "2024-02-09"
 [Article]
 startDate = "1982-10-6"
 endDate = "2018-9-23"
-pageThumbnailFile = "desc=The store's exterior in January 2017|image=HoustonTXWeslayanExterior.jpeg"
 contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","2600:4040:AD76:D00:385D:200:9695:9AFC","ThatBoiCydalan","John95"]
 gallery = []
 +++

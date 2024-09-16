@@ -7,6 +7,7 @@ date = "2024-08-02"
 [Article]
 startDate = "2024-7-19"
 endDate = ""
+pageThumbnailFile = "MMBBNorthridge.png"
 contributors = ["Documentor","Dame0824"]
 gallery = []
 +++

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 date = "2022-09-21"
 
 [Article]
-startDate = ""
+startDate = "2021-11-15"
 endDate = ""
 contributors = ["Documentor","Showbiz Pizza International"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

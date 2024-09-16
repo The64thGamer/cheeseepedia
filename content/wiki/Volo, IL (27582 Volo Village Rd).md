@@ -7,7 +7,6 @@ date = "2024-08-06"
 [Article]
 startDate = "1960-00-00"
 endDate = ""
-pageThumbnailFile = "desc=Exterior (October 2019)|image=VoloExteior.png"
 contributors = ["ShowbizMidwest","CoolerDude","The 64th Gamer","CEC1988"]
 gallery = []
 +++

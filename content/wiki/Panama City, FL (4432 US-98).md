@@ -7,7 +7,6 @@ date = "2024-09-03"
 [Article]
 startDate = "1986-5-7"
 endDate = "2007-00-00"
-pageThumbnailFile = "desc=A photo of Panama City's exterior before closure. (PC: LoopNet)|image=PanamaCityFLCECExteriorBeforeClosureHQ1.jpg"
 contributors = ["ThatBoiCydalan","RQBtv","Midwestretail","ShowbizMidwest","CorrectorMan","CEC Tinley"]
 gallery = []
 +++

@@ -7,7 +7,6 @@ date = "2024-07-06"
 [Article]
 startDate = ""
 endDate = "1986-00-00"
-pageThumbnailFile = "desc=Building Exterior|image=Screenshot 2023-04-21 213923.png"
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]
 gallery = []
 +++

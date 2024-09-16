@@ -7,7 +7,6 @@ date = "2024-05-18"
 [Article]
 startDate = "1982-6-9"
 endDate = "2007-2-00"
-pageThumbnailFile = "desc=Exterior before closure.|image=PasadenaTXCECOldLocationExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf12349","ShowbizMidwest"]
 gallery = []
 +++

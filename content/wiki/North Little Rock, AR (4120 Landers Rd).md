@@ -7,7 +7,6 @@ date = "2024-06-14"
 [Article]
 startDate = "1983-10-27"
 endDate = ""
-pageThumbnailFile = "desc=Street view of the exterior in May 2022 (PC: Google Maps)|image=Exterior2022MayGoogleMaps.png"
 contributors = ["RedaCEC","ChuckECool","Rexburg090","ThatBoiCydalan","CECFayetteville15"]
 gallery = []
 +++

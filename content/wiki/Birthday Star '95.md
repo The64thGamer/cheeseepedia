@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2023-05-05"
 
 [Article]
-startDate = ""
+startDate = "1995-00-00"
 endDate = ""
+pageThumbnailFile = "birthday 95 screencap.png"
 contributors = ["Pasquallytheplumber","The 64th Gamer","173.72.50.65","Ceclife13","Rileypaulson","RedaCEC","CEC Tinley"]
 gallery = []
 +++

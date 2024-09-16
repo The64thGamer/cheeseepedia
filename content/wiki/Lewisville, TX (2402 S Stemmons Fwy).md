@@ -7,7 +7,6 @@ date = "2024-05-26"
 [Article]
 startDate = "1992-10-27"
 endDate = ""
-pageThumbnailFile = "desc=Lewisville TX's Chuck E. Cheese's via Google Maps|image=Lewisville.jpg"
 contributors = ["CorrectorMan","BurgersNuggs445","Chuckstar69","47.17.236.200","CEC Kokomo","ThatBoiCydalan"]
 gallery = []
 +++

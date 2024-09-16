@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-07-14"
 
 [Article]
-startDate = ""
+startDate = "1985-00-00"
 endDate = ""
+pageThumbnailFile = "Circustapethumbnail1.png"
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png","New_Graphic.png","New_Graphic.png"]
 +++

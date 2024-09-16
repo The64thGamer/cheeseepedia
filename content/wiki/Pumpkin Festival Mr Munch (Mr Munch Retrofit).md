@@ -7,7 +7,6 @@ date = "2023-03-22"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Pumpkin Festival Munch|image=Pumpkin Festival Munch.jpg"
 contributors = ["Documentor","The 64th Gamer"]
 gallery = []
 +++

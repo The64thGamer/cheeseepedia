@@ -7,6 +7,8 @@ date = "2023-12-13"
 [Article]
 startDate = "1982-00-00"
 endDate = ""
+pageThumbnailFile = "earlymitzi.jpg"
+credits = ["Creative Engineering / Creative Records|Production Studio","Skitzo Noize / The Tropical Cleaners|Instrumentals / vocals","Aaron Fechter|Rolfe, Earl, Billy Bob, Looney Bird, Beach Bear vocals","Duke Chauppetta|Dook LaRue vocals / Song writer","Burt Wilson|Fatz Geronimo vocals / Song writer","Shalisa Sloan|Mitzi Mozzarella vocals","Rick Bailey|Moon vocals / Background vocalist","Jeff Howell|Song writer / Background vocalist","Kathy Norman|Show programmer"]
 contributors = ["Sonim07","Montfortdog","Ceclife13","The 64th Gamer"]
 gallery = []
 +++

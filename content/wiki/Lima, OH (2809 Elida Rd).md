@@ -7,7 +7,6 @@ date = "2023-07-06"
 [Article]
 startDate = "2009-5-11"
 endDate = ""
-pageThumbnailFile = "desc=Lima Ohio's Chuck E Cheese in 2015|image=Lima exterior 2015.png"
 contributors = ["Ceclife13","BurgersNuggs445","ThatBoiCydalan"]
 gallery = []
 +++

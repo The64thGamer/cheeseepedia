@@ -7,7 +7,6 @@ date = "2022-12-08"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Promotional photo for the test kitchen from the PTT 1982 Annual Report<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982.pdf</ref>|image=Tully_Test_Kitchen_1982.png"
 contributors = ["The 64th Gamer"]
 gallery = ["Signagetullytraining.jpg|thumb|Wardrobe Department signage in Tully's 3rd floor.","Saladbar82report.png|thumb|Promotional Photo of the New Salad Bar.<ref>http://www.showbizpizza.com/info/documents/ptt/ptt_annualreport1982.pdf</ref>","Sanjosetestkitchenpart2image.png|thumb|Test Kitchen w/ Food Standards Staff. Left to Right, Alyce Birdsall, Linda Sako, Jeanie Sorensen, Jan McGlliard, and Susan Bridwell<ref name=':2'>https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf</ref>"]
 +++

@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2023-05-05"
 
 [Article]
-startDate = "1992-00-00"
+startDate = "1992-2-14"
 endDate = ""
+pageThumbnailFile = "Physical Fitness.png"
 contributors = ["DerekCat","Studio 18 Ent","Ceclife13","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

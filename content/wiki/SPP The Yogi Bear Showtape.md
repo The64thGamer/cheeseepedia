@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2023-08-07"
 
 [Article]
-startDate = ""
+startDate = "1987-6-00"
 endDate = ""
+credits = ["Daws Butler|Yogi Bear","Don Messick|Boo Boo","Unindentified Showbiz Pizza Cast|Mitzi, Dook, Beach Bear, Fatz"]
 contributors = ["EagleScout610","76.180.21.243","The 64th Gamer"]
 gallery = []
 +++

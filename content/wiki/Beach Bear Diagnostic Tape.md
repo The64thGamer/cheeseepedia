@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-08-20"
 
 [Article]
-startDate = ""
+startDate = "1981-00-00"
 endDate = ""
+pageThumbnailFile = "beachbeardoyoulovemesong.png"
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png"]
 +++

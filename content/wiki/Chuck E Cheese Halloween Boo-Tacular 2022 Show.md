@@ -7,6 +7,7 @@ date = "2024-03-20"
 [Article]
 startDate = "2022-9-19"
 endDate = ""
+pageThumbnailFile = "Bootacularevent.png"
 contributors = ["Documentor","Destinationimagination95","Showbiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","70.161.122.232","The 64th Gamer","GallaRBX2"]
 gallery = ["New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless","New Graphic.png|frameless"]
 +++

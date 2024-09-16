@@ -7,7 +7,6 @@ date = "2023-03-22"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Showbiz Pizza Program 11|image=Program 11.png"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

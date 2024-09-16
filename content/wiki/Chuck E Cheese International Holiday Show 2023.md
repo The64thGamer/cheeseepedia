@@ -7,6 +7,7 @@ date = "2024-04-04"
 [Article]
 startDate = "2023-11-27"
 endDate = ""
+pageThumbnailFile = "winterwinnerland.png"
 contributors = ["Cheeseclassic","Showbiz Pizza International"]
 gallery = []
 +++

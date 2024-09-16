@@ -7,7 +7,6 @@ date = "2024-08-07"
 [Article]
 startDate = "1982-12-00"
 endDate = "1988-00-00"
-pageThumbnailFile = "desc=Kowloon's exterior in 1986.|image=HK KOWLOON.png"
 contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64th Gamer"]
 gallery = []
 +++

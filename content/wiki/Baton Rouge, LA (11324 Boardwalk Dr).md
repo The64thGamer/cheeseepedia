@@ -7,7 +7,6 @@ date = "2024-03-16"
 [Article]
 startDate = "1981-8-12"
 endDate = "2021-11-3"
-pageThumbnailFile = "desc=The store's exterior before closure (PC: LoopNet)|image=BatonRougeBoardwalkExterior.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Stripes"]
 gallery = []
 +++

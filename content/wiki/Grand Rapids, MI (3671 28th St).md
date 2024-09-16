@@ -7,7 +7,6 @@ date = "2023-10-22"
 [Article]
 startDate = "1983-6-6"
 endDate = ""
-pageThumbnailFile = "desc=A shot of the store’s front entrances (PC: Kette)|image=GrandRapidsCECExterior.jpeg"
 contributors = ["Rexburg090","ChuckECool","ThatBoiCydalan","Documentor","Chuck E Cheese Fan2003"]
 gallery = []
 +++

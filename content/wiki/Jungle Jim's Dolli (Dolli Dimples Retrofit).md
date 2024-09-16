@@ -7,7 +7,6 @@ date = "2023-08-27"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Jungle Jim's Dolli|image=Dolli.png"
 contributors = ["Documentor","The 64th Gamer","TrimSafe6859"]
 gallery = []
 +++

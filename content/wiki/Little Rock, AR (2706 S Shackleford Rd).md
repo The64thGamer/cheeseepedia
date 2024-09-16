@@ -7,7 +7,6 @@ date = "2023-08-01"
 [Article]
 startDate = "2014-4-28"
 endDate = ""
-pageThumbnailFile = "desc=Exterior (PC: Jody Carter)|image=lrarcec.jpg"
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]
 gallery = []
 +++

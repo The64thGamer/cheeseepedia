@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2022-09-24"
 
 [Article]
-startDate = ""
+startDate = "1994-9-00"
 endDate = ""
+pageThumbnailFile = "September 1994 Show.png"
 contributors = ["The 64th Gamer","DerekCat","2600:4040:59FF:B100:1784:1CE9:BC49:B682"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

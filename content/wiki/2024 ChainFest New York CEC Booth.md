@@ -7,7 +7,6 @@ date = "2024-08-09"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Promotional Poster|image=Chainfestpart1momentpart.png"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

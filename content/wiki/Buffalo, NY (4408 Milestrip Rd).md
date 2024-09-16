@@ -7,7 +7,6 @@ date = "2024-07-24"
 [Article]
 startDate = "2000-5-00"
 endDate = ""
-pageThumbnailFile = "desc=Buffalo’s exterior signage as of August 2022.|image=Buffalo, NY Exterior.jpg"
 contributors = ["JupiterMutt","Goofgahgoo","The 64th Gamer","216.125.34.66","ThatBoiCydalan","98.118.148.186","AstridMascotFan2005"]
 gallery = []
 +++

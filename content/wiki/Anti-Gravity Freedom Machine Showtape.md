@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-04-15"
 
 [Article]
-startDate = ""
+startDate = "1997-00-00"
 endDate = ""
+pageThumbnailFile = "AGFMshowtapecover.png"
 contributors = ["The 64th Gamer"]
 gallery = ["New_Graphic.png"]
 +++

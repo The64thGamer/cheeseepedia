@@ -7,7 +7,6 @@ date = "2023-10-28"
 [Article]
 startDate = "1999-3-26"
 endDate = "2015-1-00"
-pageThumbnailFile = "desc=Phoenix (Bell)'s exterior months before closure. (PC: Google Maps) |image=Bell az.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan","Rexburg090","CEC Tinley","Chez"]
 gallery = []
 +++

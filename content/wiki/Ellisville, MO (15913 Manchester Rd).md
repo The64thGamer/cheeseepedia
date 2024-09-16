@@ -7,7 +7,6 @@ date = "2023-12-23"
 [Article]
 startDate = "1990-8-21"
 endDate = ""
-pageThumbnailFile = "desc=Exterior, 2017|image=EllisvilleMOExterior.jpg"
 contributors = ["ChuckECool","Midwestretail","ThatBoiCydalan","ShowbizMidwest","216.125.34.66","72.76.251.24","97.91.168.214","Documentor","Stripes"]
 gallery = []
 +++

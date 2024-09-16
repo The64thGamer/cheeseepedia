@@ -7,7 +7,6 @@ date = "2023-05-16"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Various Costume Character Parts.|image=Costcharacter.png"
 contributors = ["The 64th Gamer","Showtimeinc","CEC Tinley"]
 gallery = []
 +++

@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2023-09-16"
 
 [Article]
-startDate = ""
+startDate = "1990-11-00"
 endDate = ""
+pageThumbnailFile = "Homeyley.png"
 contributors = ["DerekCat"]
 gallery = []
 +++

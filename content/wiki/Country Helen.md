@@ -5,7 +5,7 @@ tags = ["Pizza Time Theatre Showtapes"]
 date = "2022-10-18"
 
 [Article]
-startDate = ""
+startDate = "1984-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","mh:decodedocdigitize>Unknown user"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

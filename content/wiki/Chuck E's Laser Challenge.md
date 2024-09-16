@@ -7,7 +7,6 @@ date = "2023-03-01"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Chuck E's Laser Challenge seen at the Dallas, TX (13364 Montfort Dr) location.|image=Ceclaserchallenge.png"
 contributors = ["StudioC","The 64th Gamer","168.69.254.248"]
 gallery = []
 +++

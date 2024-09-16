@@ -5,8 +5,10 @@ tags = ["Showtapes"]
 date = "2024-07-07"
 
 [Article]
-startDate = ""
+startDate = "1978-00-00"
 endDate = ""
+pageThumbnailFile = "1978-Kooser-Dolli.jpg"
+credits = ["Dolli Dimples VA|Donna Miller","Recording Studio|Corasound"]
 contributors = ["The 64th Gamer","Blowseborg062"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

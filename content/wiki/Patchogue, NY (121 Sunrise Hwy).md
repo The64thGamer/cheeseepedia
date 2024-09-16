@@ -7,7 +7,6 @@ date = "2024-07-09"
 [Article]
 startDate = "1993-3-29"
 endDate = ""
-pageThumbnailFile = "2023-09-16.jpg|thumb"
 contributors = ["Stripes","216.125.34.66","Rexburg090","Cheeseclassic","ThatBoiCydalan","AlexisCEC","Cecnj98"]
 gallery = []
 +++

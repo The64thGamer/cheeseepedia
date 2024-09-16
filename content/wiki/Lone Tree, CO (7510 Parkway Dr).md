@@ -7,7 +7,6 @@ date = "2024-07-28"
 [Article]
 startDate = "2000-2-15"
 endDate = ""
-pageThumbnailFile = "desc=Lone Tree, CO Chuck E. Cheese in 2022|image=Littleton, CO 2.0.jpg"
 contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","2600:1700:8790:12F0:BD78:36A8:1DEE:9591","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = []
 +++

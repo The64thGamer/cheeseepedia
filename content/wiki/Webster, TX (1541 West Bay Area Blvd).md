@@ -7,7 +7,6 @@ date = "2024-07-31"
 [Article]
 startDate = "1993-3-15"
 endDate = ""
-pageThumbnailFile = "desc=Exterior|image=Webster texas.jpg"
 contributors = ["Nostalgia Cow","ThatBoiCydalan","AstridMascotFan2005"]
 gallery = []
 +++

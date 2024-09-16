@@ -5,8 +5,9 @@ tags = ["Cyberstar Segments"]
 date = "2024-01-19"
 
 [Article]
-startDate = ""
+startDate = "1990-00-00"
 endDate = ""
+pageThumbnailFile = "Neighbors.png"
 contributors = ["DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png"]
 +++

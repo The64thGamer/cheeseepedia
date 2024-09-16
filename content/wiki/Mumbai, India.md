@@ -7,7 +7,6 @@ date = "2023-07-26"
 [Article]
 startDate = "2019-12-20"
 endDate = "2023-7-25"
-pageThumbnailFile = "desc=Exterior, August 14th, 2022|image=2022-08-14 (1).jpg"
 contributors = ["CECBowlingGreen","CEC Tinley","ThatBoiCydalan","RockyRhoad07","2601:681:300:6FE0:9108:73AF:379:A346"]
 gallery = []
 +++

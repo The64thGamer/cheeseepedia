@@ -7,7 +7,6 @@ date = "2023-12-25"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=All 5 Cases|image=Sus super.jpg"
 contributors = ["The 64th Gamer","Himitsu","en>Unknown user"]
 gallery = []
 +++

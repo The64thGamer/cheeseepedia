@@ -7,7 +7,6 @@ date = "2023-05-19"
 [Article]
 startDate = "2004-12-22"
 endDate = "2014-4-6"
-pageThumbnailFile = "desc=Exterior photo, taken at an unknown date. (PC: Foursquare)|image=Kelsoexterior.jpg"
 contributors = ["Midwestretail","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++

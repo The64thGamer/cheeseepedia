@@ -7,7 +7,6 @@ date = "2024-03-16"
 [Article]
 startDate = "1980-5-17"
 endDate = ""
-pageThumbnailFile = "desc=Ogden Utah in 1991, weeks before closure.|image=Ogden91.jpg"
 contributors = ["Pench0782","Puppetpals","The 64th Gamer","2600:1008:B10F:A3F2:6496:8108:4444:2936","Krimet Hetgrof"]
 gallery = ["ParisCafe 2012.png|thumb|Paris Cafe during renovation efforts around the kitchen, 2012. Arcade collection is revealed.|287x287px"]
 +++

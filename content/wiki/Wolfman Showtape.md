@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2024-05-06"
 
 [Article]
-startDate = ""
+startDate = "1980-3-3"
 endDate = ""
+pageThumbnailFile = "Wolfmanshowtapethumbnail.jpg"
 contributors = ["The 64th Gamer"]
 gallery = ["New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png","New Graphic.png|link=https://chuckepedia.com/wiki/New_Graphic.png"]
 +++

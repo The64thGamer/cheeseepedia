@@ -7,7 +7,6 @@ date = "2023-07-24"
 [Article]
 startDate = "1980-10-14"
 endDate = ""
-pageThumbnailFile = "desc=Front shot of the store’s exterior (PC: LoopNet)|image=IndependenceMOCECOldLocationExterior.jpeg"
 contributors = ["RedaCEC","ThatBoiCydalan","ChuckECool","Rexburg090"]
 gallery = []
 +++

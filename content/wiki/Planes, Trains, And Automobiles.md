@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2023-05-05"
 
 [Article]
-startDate = ""
+startDate = "1992-7-6"
 endDate = ""
+pageThumbnailFile = "Planes, Trains, And Automobiles.png"
 contributors = ["DerekCat","BurgersNuggs445","The 64th Gamer"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

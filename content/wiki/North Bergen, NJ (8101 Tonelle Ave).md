@@ -7,7 +7,6 @@ date = "2024-07-03"
 [Article]
 startDate = "1993-12-20"
 endDate = ""
-pageThumbnailFile = "desc=Exterior before 2.0 with 1992 checkers and 2005 signage and awnings (4/15/2022) (PC: RetailRyan on Flickr)|image=52014556816 5726f526b9 4k.jpg"
 contributors = ["CECBowlingGreen","Rexburg090","2600:4040:59FC:D100:8C86:17B6:C82C:8851","Steven 'CEC' Master","BurgersNuggs445","ThatBoiCydalan","Cecnj98","Cheeseclassic","The 64th Gamer","Cy's Junk at School"]
 gallery = []
 +++

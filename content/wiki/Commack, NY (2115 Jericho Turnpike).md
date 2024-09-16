@@ -7,7 +7,6 @@ date = "2023-06-25"
 [Article]
 startDate = "1995-1-23"
 endDate = "2015-6-14"
-pageThumbnailFile = "CommackNY-1-Exterior.jpg|thumb"
 contributors = ["Stripes","Anastasia.laguardia","BurgersNuggs445","Rexburg090","168.69.254.246","Cecnj98"]
 gallery = []
 +++

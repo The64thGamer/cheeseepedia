@@ -7,7 +7,6 @@ date = "2024-08-05"
 [Article]
 startDate = "2014-12-15"
 endDate = ""
-pageThumbnailFile = "desc=Mt. Juliet's exterior. (PC: Google Maps)|image=Mt. Juliet, TN.jpg"
 contributors = ["CECBowlingGreen","Rexburg090","CorrectorMan","ThatBoiCydalan","SuperCreamPiper2008","AstridMascotFan2005"]
 gallery = ["Circles Of Light Mt. Juliet.jpg|left|thumb|Mt. Juliet's Circles Of Light stage on May 31, 2022 Credit to CECBowlingGreen"]
 +++

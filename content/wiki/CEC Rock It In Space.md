@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2022-07-17"
 
 [Article]
-startDate = "1992-00-00"
+startDate = "1991-12-11"
 endDate = ""
+pageThumbnailFile = "Rock It In Space.png"
 contributors = ["The 64th Gamer","DerekCat","Montfortdog"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

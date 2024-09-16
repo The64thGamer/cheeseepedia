@@ -5,8 +5,9 @@ tags = ["Cyberstar Segments"]
 date = "2023-09-16"
 
 [Article]
-startDate = ""
+startDate = "1990-8-29"
 endDate = ""
+pageThumbnailFile = "Best_Of_1.png"
 contributors = ["DerekCat"]
 gallery = []
 +++

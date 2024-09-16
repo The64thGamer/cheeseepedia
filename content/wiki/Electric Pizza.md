@@ -7,7 +7,6 @@ date = "2023-04-30"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Electric Pizza Cabinet|image=Electric Pizza Closeup.jpg"
 contributors = ["The 64th Gamer","Himitsu"]
 gallery = []
 +++

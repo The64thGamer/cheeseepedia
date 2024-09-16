@@ -7,7 +7,6 @@ date = "2024-08-29"
 [Article]
 startDate = "2009-8-29"
 endDate = ""
-pageThumbnailFile = "desc=Honolulu as of today|image=PIC 1370.jpeg"
 contributors = ["JND","CECswag2009"]
 gallery = []
 +++

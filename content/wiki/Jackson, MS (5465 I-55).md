@@ -7,7 +7,6 @@ date = "2024-01-02"
 [Article]
 startDate = "1982-8-00"
 endDate = ""
-pageThumbnailFile = "desc=The store's exterior on March 11, 2005 (PC: Unknown)|image=Jackson MS 2005.jpg"
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
 gallery = []
 +++

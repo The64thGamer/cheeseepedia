@@ -12,30 +12,29 @@
                     {{ .Title | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
                 {{ end }}
             </a>
+            <div class="list-page-date">
+                {{ $startCheck := false }}
+                {{ with .Params.Article.startDate }}
+                    {{ partial "date-to-readable-date.html" . }}
+                    {{ $startCheck = true }}
+                {{ end }}
+                {{ with .Params.Article.endDate }}
+                    {{ if $startCheck }}
+                    {{" - "}}{{ partial "date-to-readable-date.html" . }}
+                    {{ else }}
+                    {{"? - "}}{{ partial "date-to-readable-date.html" . }}
+                    {{ end }}
+                {{ else }}
+                    {{ if $startCheck }}
+                    {{" - Present"}}
+                    {{ end }}
+                {{ end }}
+            </div>
         </h2>
         {{ with .Summary }}
         {{ else }}
             <div style="position: absolute;right: 2.5em;top: 2.5em;">{{ partial "editButton.html" . }}</div>
         {{ end }}
-        <div class="list-page-date">
-            {{ $startCheck := false }}
-            {{ with .Params.Article.startDate }}
-                {{ partial "date-to-readable-date.html" . }}
-                {{ $startCheck = true }}
-            {{ end }}
-            {{ with .Params.Article.endDate }}
-                {{ if $startCheck }}
-                {{" - "}}{{ partial "date-to-readable-date.html" . }}
-                {{ else }}
-                {{"? - "}}{{ partial "date-to-readable-date.html" . }}
-                {{ end }}
-            {{ else }}
-                {{ if $startCheck }}
-                {{" - Present"}}
-                {{ end }}
-            {{ end }}
-        </div>
-        
         <div class="list-page-summary">
             {{ with .Summary }}
                 {{ . | safeHTML | truncate 175 ". . ." }}

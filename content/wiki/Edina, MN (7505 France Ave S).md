@@ -7,7 +7,6 @@ date = "2023-07-05"
 [Article]
 startDate = "1999-8-10"
 endDate = "2020-6-25"
-pageThumbnailFile = "desc=Exterior of Edina when they were Phase 3|image=Phase3edina.jpg"
 contributors = ["Rileypaulson","The 64th Gamer","CorrectorMan","ThatBoiCydalan"]
 gallery = []
 +++

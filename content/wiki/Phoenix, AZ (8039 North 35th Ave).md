@@ -7,7 +7,6 @@ date = "2023-11-22"
 [Article]
 startDate = "1983-10-28"
 endDate = ""
-pageThumbnailFile = "desc=The current exterior.|image=Phoenixexterior2023.png"
 contributors = ["CECBowlingGreen","ChuckECool","Rileypaulson","Rexburg090","ThatBoiCydalan","Cheeseclassic","SuperCreamPiper2008","Chez"]
 gallery = []
 +++

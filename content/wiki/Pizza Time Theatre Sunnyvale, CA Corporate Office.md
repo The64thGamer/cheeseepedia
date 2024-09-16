@@ -7,7 +7,7 @@ date = "2023-10-09"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "Innsbruck entrance corp.png|Pizza Time Theatre Sunnyvale, CA Corporate Office<ref>https://archive.org/details/telesoft-06-octobre-novembre-1982/page/74/mode/2up?q=pizza+time+theatre&view=theater</ref>"
+pageThumbnailFile = "Innsbruck entrance corp.png|Pizza Time Theatre Sunnyvale, CA Corporate Office<ref>https://archive.org/details/telesoft-06-octobre-novembre-1982/page/74/mode/2up?q"
 contributors = ["The 64th Gamer"]
 gallery = []
 +++

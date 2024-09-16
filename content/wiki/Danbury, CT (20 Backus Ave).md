@@ -7,7 +7,6 @@ date = "2023-08-13"
 [Article]
 startDate = "2010-3-1"
 endDate = "2013-8-24"
-pageThumbnailFile = "desc=Photo of Danbury's exterior, September 2012. (PC: Yelp)|image=danburyexterior.jpg"
 contributors = ["Midwestretail","CECFan2023","Rexburg090","CorrectorMan","ThatBoiCydalan","47.17.236.200"]
 gallery = []
 +++

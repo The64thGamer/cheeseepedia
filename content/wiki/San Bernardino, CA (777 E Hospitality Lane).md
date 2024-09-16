@@ -7,7 +7,6 @@ date = "2024-02-20"
 [Article]
 startDate = "2003-6-27"
 endDate = ""
-pageThumbnailFile = "desc=San Bernardino's Exterior in October 1, 2023. (PC: AnthonyRWikis7283)|image=Chuck E. Cheese Hospitality Ln Exterior 2023.jpg"
 contributors = ["AnthonyRWikis7283","The 64th Gamer"]
 gallery = []
 +++

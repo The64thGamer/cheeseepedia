@@ -5,8 +5,9 @@ tags = ["Showtapes"]
 date = "2023-12-05"
 
 [Article]
-startDate = ""
+startDate = "1992-12-00"
 endDate = ""
+pageThumbnailFile = "Holiday 92-94.png"
 contributors = ["Saan1ty"]
 gallery = []
 +++

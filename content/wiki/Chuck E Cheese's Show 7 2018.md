@@ -5,7 +5,7 @@ tags = ["Live Shows"]
 date = "2023-06-29"
 
 [Article]
-startDate = ""
+startDate = "2018-11-5"
 endDate = ""
 contributors = ["Documentor","172.58.159.105","Ceclife13","Dame868"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]

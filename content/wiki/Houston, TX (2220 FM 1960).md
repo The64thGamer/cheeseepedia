@@ -7,7 +7,6 @@ date = "2023-10-29"
 [Article]
 startDate = "1981-6-25"
 endDate = ""
-pageThumbnailFile = "desc=The store's exterior in 2018. (PC: Wikkidpiggz CEC)|image=Fm 1960 CEC 2018.png"
 contributors = ["ThatBoiCydalan","Rexburg090","Emcaacme"]
 gallery = []
 +++

@@ -7,7 +7,6 @@ date = "2023-06-26"
 [Article]
 startDate = "1983-5-00"
 endDate = ""
-pageThumbnailFile = "desc=Street view of Roebuck, months before closure (October 2007) (PC: Google Maps)|image=Roebuck2007.png"
 contributors = ["Midwestretail","ChuckEPediaIsTheBest!","Rexburg090","ThatBoiCydalan"]
 gallery = []
 +++

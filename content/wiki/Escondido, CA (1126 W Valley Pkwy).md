@@ -7,7 +7,6 @@ date = "2023-07-25"
 [Article]
 startDate = "2007-1-3"
 endDate = ""
-pageThumbnailFile = "desc=Escondido's exterior prior to 2.0. (PC: yelp.com)|image=New escondido lol.jpg"
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 gallery = []
 +++

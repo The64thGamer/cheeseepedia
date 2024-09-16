@@ -7,7 +7,6 @@ date = "2023-05-24"
 [Article]
 startDate = "1982-12-3"
 endDate = ""
-pageThumbnailFile = "desc=Exterior of the store with 2005 remodel before getting 2.0. (PC: PJ Hoerr)|image=PeoriaILCECExteriorPre2.0.jpg"
 contributors = ["ChuckECool","ThatBoiCydalan"]
 gallery = []
 +++

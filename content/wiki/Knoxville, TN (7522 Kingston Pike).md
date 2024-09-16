@@ -7,7 +7,6 @@ date = "2024-08-20"
 [Article]
 startDate = "1982-8-23"
 endDate = "1997-00-00"
-pageThumbnailFile = "Barboursville.png|thumb"
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
 gallery = []
 +++

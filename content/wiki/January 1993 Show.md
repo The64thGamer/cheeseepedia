@@ -5,8 +5,9 @@ tags = ["Live Shows"]
 date = "2023-08-07"
 
 [Article]
-startDate = "1993-00-00"
+startDate = "1993-1-00"
 endDate = ""
+pageThumbnailFile = "Jan93.png"
 contributors = ["DerekCat"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
 +++

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 date = "2023-10-11"
 
 [Article]
-startDate = ""
+startDate = "1983-9-9"
 endDate = ""
 contributors = ["The 64th Gamer"]
 gallery = ["Fall festival calendar.png|thumb|267x267px|Fall Festival Calendar"]

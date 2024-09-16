@@ -7,7 +7,6 @@ date = "2024-01-14"
 [Article]
 startDate = ""
 endDate = ""
-pageThumbnailFile = "desc=Chuck E. Cheese's Circus Time Cabinet|image=18879328 1524052007668474 5206356354029060096 n (1).jpg"
 contributors = ["The 64th Gamer","2601:244:4000:9630:2C23:F0CA:6C34:1F51"]
 gallery = []
 +++

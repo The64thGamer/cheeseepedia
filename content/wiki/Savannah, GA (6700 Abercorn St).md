@@ -7,7 +7,6 @@ date = "2024-08-07"
 [Article]
 startDate = "1982-10-5"
 endDate = ""
-pageThumbnailFile = "desc=Street View of the Exterior in March 2022 (PC: Google Maps)|image=Exterior2022MarchGoogleMaps.png"
 contributors = ["ChuckECool","Rexburg090","2601:902:4280:1650:B08A:1FB9:3E5A:470E","174.131.44.53","2600:1004:B11B:65B:68B1:1B37:B9FF:BE40","The 64th Gamer","Caydenpedia","CEC Knoxville","Documentor","CoolerDude"]
 gallery = []
 +++

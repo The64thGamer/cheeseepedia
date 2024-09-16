@@ -7,7 +7,6 @@ date = "2024-07-16"
 [Article]
 startDate = "1983-12-1"
 endDate = ""
-pageThumbnailFile = "desc=A shot of the store’s current exterior (PC: Jonathan Martin)|image=LexingtonKYCEC2.0Exterior.jpeg"
 contributors = ["CECBowlingGreen","Chouts1","Rexburg090","ChuckECool","ThatBoiCydalan","SuperCreamPiper2008","CoolerDude","CECswag2009"]
 gallery = []
 +++

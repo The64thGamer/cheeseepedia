@@ -7,7 +7,6 @@ date = "2023-12-25"
 [Article]
 startDate = "2002-12-17"
 endDate = "2012-12-16"
-pageThumbnailFile = "desc=Exterior photo, taken in 2012.|image=Maine.jpg"
 contributors = ["47.17.236.200","Midwestretail","ThatBoiCydalan","ShowbizMidwest","Cheeseclassic","CEC Tinley"]
 gallery = []
 +++

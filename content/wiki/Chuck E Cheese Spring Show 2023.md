@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 date = "2024-06-21"
 
 [Article]
-startDate = ""
+startDate = "2023-4-3"
 endDate = ""
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","Documentor","Pasquallytheplumber","2601:282:4000:98D0:E07B:BD53:BBD1:CA91","Cy's Junk at School"]
 gallery = ["New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png","New Graphic.png"]
