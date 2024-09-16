@@ -1,6 +1,7 @@
 +++
-title = "{{ replace .Name "-" " " | title }}"  #page title
-date = {{ .Date | time.Format ":date_short" }} #Date of latest contribution. All dates here and below should be "Year-Month-Day"
+title = "{{ replace .Name "-" " " | title }}"   #page title
+date = {{ .Date | time.Format ":date_short" }}  #Date of latest contribution. All dates here and below should be "Year-Month-Day" -> "2002-12-31"
+                                                    #If you do not know part of the date, mark it '00' -> "2000-00-00" -> "0000-12-00"
 draft = false               #Keep false, true hides it from the site.
 tags = []                   #Tags -> ["Showtape"] -> ["User","Meta"]
 categories = []             #Categories ->["Chuck E. Cheese"] -> ["ShowBiz Pizza Place","Creative Engineering"]
@@ -9,15 +10,13 @@ categories = []             #Categories ->["Chuck E. Cheese"] -> ["ShowBiz Pizza
 pageThumbnailFile = ""      #The main picture -> "link|description|date" -> "what.jpg|A cool image|1977-05-31"
 startDate = ""              #When was this made/opened/started? Use 00 for unknowns -> "1977-12-31" -> "1980-00-00"
 endDate = ""                #When did it stop/close/end production? Use 00 for unknowns -> "12/31/2002" -> "2002-05-00"
-gallery = []                #Keep all pictures here -> ["what1.jpg|A cool image|1977-05-31", "what2.png|A bad image|00-00-2001"]
-videos = []                 #All videos -> "linkurl|dateFilmed|descriptionOfFootage" -> ["https://youtu.be/dQw4w9WgXcQ|10/25/2009|Cool Video"]
 contributors = []           #Insert your username in here! Keep spelling consistent! -> ["Contrib1","Contrib2","Contrib3"]
 credits = []                #List of credits/manufacturers. Mainly for toys, stores, showtapes, ect. -> "Name|Role"
-                            #Showtape example: -> ["Ed Bogas|Producer", "John Widelock|Chuck E. Cheese Voice Actor"]
-                            #Store example: -> ["Great Plains Associates|Franchisee"]
+                                #Showtape example: -> ["Ed Bogas|Producer", "John Widelock|Chuck E. Cheese Voice Actor"]
+                                #Store example: -> ["Great Plains Associates|Franchisee"]
 reviews = []                #User reviews, rating is a yes or no for reccomendation, review text can be as long as needed.
-                            #Review date can be either today, or the last time you visited a place / when you got an item.
-                            #Let your review be useful! We won't accept reviews made just to be funny or to get on a page.
-                            # -> Username|Yes/No|DateOfReview|Review Text 
-                            # -> ["Contrib1|Yes|2024-12-31|Place was clean","Contrib2|No|2026-01-29|Item feels cheap."]
+                                #Review date can be either today, or the last time you visited a place / when you got an item.
+                                #Let your review be useful! We won't accept reviews made just to be funny or to get on a page.
+                                # -> Username|Yes/No|DateOfReview|Review Text 
+                                # -> ["Contrib1|Yes|2024-12-31|Place was clean","Contrib2|No|2026-01-29|Item feels cheap."]
 +++

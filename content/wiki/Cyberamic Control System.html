@@ -1,0 +1,85 @@
++++
+title = "Cyberamic Control System"
+draft = false
+tags = ["Animatronic Control Hardware & Software"]
+date = "2024-07-08"
+
+[Article]
+startDate = ""
+endDate = ""
+pageThumbnailFile = "Cyber Control s.png|Cyberamic Control Center"
+contributors = ["The 64th Gamer","Palazzol"]
++++
+
+
+The <b><i>Cyberamics Control Center</b></i> is a computer that plays showtapes and controls animatronics for the [Kooser PTT Show]({{< ref "wiki/Kooser PTT Show.md" >}}) that debuted in December of 1978, and later the [Cyberamics]({{< ref "wiki/Cyberamics.md" >}}) shows that were produced from 1979 onwards, which is still used to the current day.
+
+Originally running showtapes on 7' reels, it would be upgraded in 1988 to support SVHS tapes, and in 2005 to support DVDs.
+
+<h2> Function </h2>
+The unit controls a set of animatronic characters, props, speakers, and lights through automatic playback of showtape media. Employees set a showtape reel on the lefthand spool of the tape deck, wind it through, and hit play. The unit will continuously loop the showtape until stopped. Certain buttons can be pressed to queue up special shows on the tape to play. These special shows when detected are usually skipped, but will be allowed to continue playing when correctly assigned.
+
+Later on in the late 80's to the mid 2000's, employees would instead insert a single SVHS tape to play. These tapes got rid of the skippable special segments, instead having hidden audio tracks that would become audible if the Birthday button was pressed. Employees could also run simple diagnostics from a new LCD screen.
+
+After the mid-2000's', employees would now insert a DVD, which could now queue up video diagnostics and Live Shows at any time.
+
+In 2023 the data system would switch over to the [Navori System]({{< ref "wiki/Navori System.md" >}}), now streaming showtapes from an online server.
+
+<h2>History</h2>
+An early variation of the Cyberamic Control System is seen in the news video for the [San Jose, CA (1371 Kooser Rd)]({{< ref "wiki/San Jose, CA (1371 Kooser Rd).md" >}}) store, being the first to use it,<ref>https://www.youtube.com/watch?v=EdKLsomLbtY&feature=youtu.be</ref> The only visible hardware difference is the tape deck, being a TEAC A-2340, rather than the later TEAC X-7. The housing box is also designed differently.
+
+The standard units would be produced for stores from early 1979 to November 1983.
+
+<h2>= Upgrades </h2>=
+
+The [Arlington, TX (2216 S Fielder Rd)]({{< ref "wiki/Arlington, TX (2216 S Fielder Rd).md" >}}) would have their unit uniquely upgraded to support the [Cyberamics Betamax]({{< ref "wiki/Cyberamics Betamax.md" >}}) format in January of 1987.
+
+From 1988 to 1990, the unit would be upgraded using parts from Triad to support SVHS tapes with scrambled showtape signals, replacing the tape reading functionality. This would be named the Cyberstar (disambiguation) (Cyberstar) upgrade to the unit.
+
+Somewhere around the late 80's to early 90's, some variant of upgrades would feature a yellow control panel. This would remove the volume knob, and move over the small metal power switch in its place- now becoming a large red switch.
+
+In 1993, the control system would see an upgrade to the original CPU to a 68HC11, alongside a new LCD display.<ref>https:<i>web.archive.org/web/20200226201702if_/https:</i>www.spttechsupport.com/uploads/6/9/3/7/69377421/68hc11_cpu_manual.pdf</ref>
+
+From 2005 to April 2008 the units would upgrade to replace the SVHS player with a DVD player.
+
+<h2> Parts </h2>
+
+<h2>= Modified TEAC X-7 Tape Deck </h2>=
+The system houses a modified TEAC X-7 tape deck that allows audio to be outputted even when in rewind mode.<ref>https:<i>raw.githubusercontent.com/palazzol/CyberamicControlCenter/master/firmware/M6502/HalfAChuck%20-%20no%20label/halfchuck.rst</ref> This is to allow the <i>Tape Start</i> [signal]({{< ref "wiki/Data.md" >}}) to be heard to automatically switch off rewind mode. The signal is around 21 hertz, but is sped up into an audible signal due to the X-7 rewind speed being 144IPS.<ref>https:</i>reel-reel.com/tape-recorder/teac-x-7x-7r/</ref>
+
+<h2>= CPU Assembly Card </h2>=
+The CPU Assembly Card is the main card controlling the Cyberamic Control Center. The later Triad Cyberstar version contains an EPROM for decoding the scrambled signals sent off of SVHS showtapes, which has changed in version over time:
+
+*64Kbit EPROM v1.0
+*64Kbit EPROM v1.6 (R12) 11/13/94
+
+<h2>=Random Movements Card </h2>=
+The Random Movements Card is an attachment to the CPU Assembly card that provides random movements for characters between showtape segments. This card contains an EPROM of the raw random movement signals that has changed in version number over time:
+
+*256Kbit VHS Random Movements EPROM v1.0
+*256Kbit VHS Random Movements EPROM v.1.6
+*255Kbit DVD Random Movements EPROM v1.0
+
+<h2>=Transfer Control Card (06-0020)</h2>=
+The Transfer Control Card is used for decoding analogue signals from the tape reel into digital bits. On Triad Cyberstar upgraded units, these are unscrambled by the CPU Assembly Card. The card had four revisions up to Revision D.
+
+<h2>= Audio Control Card (06-033 / 06-0003)</h2>=
+The Audio Control Card was a card used for managing the audio coming from the tape reel, later the SVHS deck and DVD players. The card had three revisions up to Revision C.
+
+Both board types had support for a volume adjustment knob present on the original red control panel. An Audio Gain Control microphone was also present in the system that would allow the show to increase in volume as the showroom became more crowded.
+
+<h2>=Character Drive Card (006-0034-10)</h2>=
+The Character Drive Card controlled animatronic characters from the incoming showtape signals. Seemingly each character had a custom labeled chip on their board. These cards were inserted into the exposed card cage of the unit, and their red lights would blink in accordance to the showtape signals.
+
+<h2>=Light Driver Card (06-0021)</h2>=
+The Light Driver Card controlled the lights of the stage and functioned exactly like a Character Drive Card.
+
+<h2>=Valve Bank Card (06-0006)</h2>=
+The Valve Bank Card is a card external to the Cyberamic Control System that would manage the airflow of valves in a [Cyberamic]({{< ref "wiki/Cyberamics.md" >}}) character, usually placed at the character's base. Each card was connected to a Character Drive Card.
+
+
+
+
+
+
+<references />
