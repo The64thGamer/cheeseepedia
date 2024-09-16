@@ -1,0 +1,19 @@
+{{- $filename := . -}}
+{{- $imagePath := printf "/photos/%s" $filename -}}
+{{- $fallbackImage := "/UI/File Not Found.jpg" -}}
+
+{{- if not (fileExists (printf "static/photos/%s" $filename)) -}}
+  {{- $imagePath = $fallbackImage -}}
+{{- end -}}
+
+{{- $pages := where site.RegularPages "Section" "photos" -}}
+{{- $matchingPages := where $pages "Title" "eq" $filename -}}
+
+{{- if gt (len $matchingPages) 0 -}}
+  {{- $firstMatchingPage := index $matchingPages 0 -}}
+  <a href="{{ $firstMatchingPage.RelPermalink }}">
+    <img src="{{ $imagePath }}" alt="{{ $firstMatchingPage.Title }}" />
+  </a>
+{{- else -}}
+  <img src="{{ $imagePath }}" alt="{{ $filename }}" />
+{{- end -}}

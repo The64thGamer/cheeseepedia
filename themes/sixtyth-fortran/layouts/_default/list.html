@@ -2,6 +2,8 @@
   {{ $layout := "baseList" }}
   {{ if eq .Title "User" }}
     {{ $layout = "listUsers" }}
+  {{ else if eq .Title "Photos" }}
+    {{ $layout = "photo-list" }}
   {{ end }}
   {{ partial $layout . }}
 {{ end }}

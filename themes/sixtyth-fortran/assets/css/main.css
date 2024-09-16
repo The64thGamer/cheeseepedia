@@ -135,6 +135,31 @@ h1{
   line-height: normal;
 }
 
+.gallery-image{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
+.gallery-image-box{
+  height: 10em;
+  width: 10em;
+  margin: 1em;
+}
+
+.gallery-image img{
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  background-color: var(--brown);
+  border-color: var(--white);
+  border-style: solid;
+  border-width: .5em;
+  border-radius: .5em;
+}
+
 .button a{
   color: var(--white);
 }
