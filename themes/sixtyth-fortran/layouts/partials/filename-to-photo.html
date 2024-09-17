@@ -1,19 +1,16 @@
-{{- $filename := . -}}
-{{- $imagePath := printf "/photos/%s" $filename -}}
-{{- $fallbackImage := "/UI/File Not Found.jpg" -}}
+{{- $imagePath := printf "/photos/%s" . -}}
 
-{{- if not (fileExists (printf "static/photos/%s" $filename)) -}}
-  {{- $imagePath = $fallbackImage -}}
+{{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
+  {{- $imagePath = "/UI/File Not Found.jpg" -}}
 {{- end -}}
+{{ $photos := partialCached "grab-all-photos.html" "key"}}
+{{ $pages := first 1 (where $photos "Params.title" "eq" . )}}
 
-{{- $pages := where site.RegularPages "Section" "photos" -}}
-{{- $matchingPages := where $pages "Title" "eq" $filename -}}
-
-{{- if gt (len $matchingPages) 0 -}}
-  {{- $firstMatchingPage := index $matchingPages 0 -}}
-  <a href="{{ $firstMatchingPage.RelPermalink }}">
-    <img src="{{ $imagePath }}" alt="{{ $firstMatchingPage.Title }}" />
+{{- if gt (len $pages) 0 -}}
+  {{ $pages := index $pages 0 }}
+  <a href="{{ $pages.RelPermalink }}">
+    <img src="{{ $imagePath }}" alt="{{ $pages.Title }}" />
   </a>
 {{- else -}}
-  <img src="{{ $imagePath }}" alt="{{ $filename }}" />
+  <img src="{{ $imagePath }}" alt="{{ . }}" />
 {{- end -}}
