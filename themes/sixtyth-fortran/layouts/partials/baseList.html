@@ -3,7 +3,7 @@
 
 {{ range sort .Pages "Params.Article.startDate" }}
     <div class="list-page-block">
-        
+        {{ partial "filename-to-photo.html" .Params.Article.pageThumbnailFile }}
         <h2>
             <a href="{{ .RelPermalink }}">
                 {{ with .LinkTitle }}
