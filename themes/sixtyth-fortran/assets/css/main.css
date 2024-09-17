@@ -142,22 +142,28 @@ h1{
 }
 
 .gallery-image-box{
-  height: 10em;
-  width: 10em;
-  margin: 1em;
+  max-height: 11em;
+  max-width: 11em;
+  min-height: 11em;
+  min-width: 11em;
+  margin: .25em;
+  background-color: var(--brown);
+  border-color: var(--white);
+  border-style: solid;
+  border-width: .25em;
+  border-radius: .25em;
+  display: block;
+  align-content: center;
 }
 
 .gallery-image img{
-  object-fit: contain;
   max-width: 100%;
   max-height: 100%;
   width: auto;
   height: auto;
-  background-color: var(--brown);
-  border-color: var(--white);
-  border-style: solid;
-  border-width: .5em;
-  border-radius: .5em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .button a{
