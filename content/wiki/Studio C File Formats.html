@@ -12,7 +12,7 @@ contributors = ["The 64th Gamer","Himitsu"]
 +++
 
 
-The <b><i>Studio C File Formats</b></i> are a collection of different files found in the [Studio C Floppy Disk]({{< ref "wiki/Studio C 3x DVD + Floppy.md" >}}) that are used for showtape signals and playback for [Studio C]({{< ref "wiki/Studio C.md" >}}).
+The <b><i>Studio C File Formats</b></i> are a collection of different files found in the [[Studio C 3x DVD + Floppy|Studio C Floppy Disk]] that are used for showtape signals and playback for [Studio C]({{< ref "wiki/Studio C.html" >}}).
 
 Files usually must be extracted by running a .exe file embedded in the floppy disk.
 
@@ -60,7 +60,7 @@ This file type contains control data for show segments. TODO more info on overal
 |
 |
 |}
-Digital channel commands are encoded into a printable ASCII range of 0x30~0x3F (command) and 0x40~0x5F (channel number). This encoding method dates back to the original [SongCode]({{< ref "wiki/SongCode.md" >}}) format. The raw format is obtained by subtracting 0x30 from all command bytes and 0x40 from channel number bytes. It appears that CEC files always write digital channel commands in pairs of command and channel number bytes, despite not being technically necessary.
+Digital channel commands are encoded into a printable ASCII range of 0x30~0x3F (command) and 0x40~0x5F (channel number). This encoding method dates back to the original [SongCode]({{< ref "wiki/SongCode.html" >}}) format. The raw format is obtained by subtracting 0x30 from all command bytes and 0x40 from channel number bytes. It appears that CEC files always write digital channel commands in pairs of command and channel number bytes, despite not being technically necessary.
 {| class='wikitable'
 |+CEC digital channel commands (raw)
 !Byte
