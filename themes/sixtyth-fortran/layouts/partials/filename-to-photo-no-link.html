@@ -6,10 +6,8 @@
 
   {{- if gt (len $pages) 0 -}}
     {{ $pages := index $pages 0 }}
-    <a href="{{ $pages.RelPermalink }}">
       <img src="{{ printf "/photos/%s" . }}" alt="{{ $pages.Title }}" />
-    </a>
   {{- else -}}
-    <img src="/UI/File Not Found.jpg" alt="{{ . }}" />
+      <img src="/UI/File Not Found.jpg" alt="{{ . }}" />
   {{- end -}}
 {{- end -}}
