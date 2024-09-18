@@ -39,7 +39,7 @@ html{
 h1{
   font-family: "RockoFLF";
   letter-spacing: .2rem;
-  font-size: 3rem;
+  font-size: 2rem;
   color: var(--yellow);
   margin: 0;
 }
@@ -135,12 +135,6 @@ h1{
   line-height: normal;
 }
 
-.gallery-image{
-  display: flex;
-  flex-wrap: wrap;
-  align-content: space-around;
-}
-
 .gallery-image-box{
   max-height: 11em;
   max-width: 11em;
@@ -156,6 +150,12 @@ h1{
   align-content: center;
 }
 
+.gallery-image{
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+}
+
 .gallery-image img{
   max-width: 100%;
   max-height: 100%;
@@ -164,6 +164,42 @@ h1{
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+.article-store-thumbnail{
+  max-height: 35em;
+  border-radius: 1em;
+  width: auto;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: -4.5em;
+  margin-right: -4.5em;
+}
+
+.article-store-thumbnail img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.article-photo-thumbnail{
+  border-radius: 1em;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: -4.5em;
+  margin-right: -4.5em;
+}
+
+.article-photo-thumbnail img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .button a{

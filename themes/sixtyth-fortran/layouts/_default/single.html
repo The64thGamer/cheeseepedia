@@ -3,6 +3,10 @@
   {{ with .Params.tags }}
     {{ if in . "User" }}
       {{ $layout = "user" }}
+    {{ else if in . "Store List" }}
+      {{ $layout = "baseStoreArticle" }}
+    {{ else if in . "Photos" }}
+      {{ $layout = "basePhotoArticle" }}
     {{ end }}
   {{ end }}
   {{ partial $layout . }}

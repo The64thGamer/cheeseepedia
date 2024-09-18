@@ -1,4 +1,7 @@
-{{ partial "editButton.html" . }}<h1>{{ .Title | safeHTML }}</h1><hr>
+<div class="article-store-thumbnail">
+  {{ partial "filename-to-photo.html" .Params.Article.pageThumbnailFile }}
+</div>{{ partial "editButton.html" . }}
+<h1>{{ .Title | safeHTML }}</h1><hr>
 
 {{ $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
 {{ $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") }}
@@ -6,7 +9,7 @@
 {{ .Content | safeHTML}}
 
 <hr>
-<div class="contributors"><strong>Article Contributed By:</strong>
+<div class="contributors"><strong>Article Contributed By: </strong>
   {{- if .Params.article.contributors }}
     {{- $len := len .Params.article.contributors -}}
     {{- range $index, $element := .Params.article.contributors -}}
