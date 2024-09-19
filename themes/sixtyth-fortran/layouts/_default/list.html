@@ -4,7 +4,7 @@
     {{- $layout = "listUsers" -}}
   {{- else if eq .Title "Photos" -}}
     {{- $layout = "listPhotos" -}}
-  {{- else if eq .Title "Store List" -}}
+  {{- else if eq .Title "Locations" -}}
     {{- $layout = "listLocations" -}}
   {{- end -}}
   {{- partial $layout . -}}

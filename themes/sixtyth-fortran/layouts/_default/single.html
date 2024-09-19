@@ -3,7 +3,7 @@
   {{- with .Params.tags -}}
     {{- if in . "User" -}}
       {{- $layout = "user" -}}
-    {{- else if in . "Store List" -}}
+    {{- else if in . "Locations" -}}
       {{- $layout = "baseStoreArticle" -}}
     {{- else if in . "Photos" -}}
       {{- $layout = "basePhotoArticle" -}}

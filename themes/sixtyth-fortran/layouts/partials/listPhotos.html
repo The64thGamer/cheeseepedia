@@ -1,9 +1,9 @@
-<h1>{{ .Title }}</h1>
-{{ .Content | safeHTML }}
+<h1>{{- .Title -}}</h1>
+{{- .Content | safeHTML -}}
 <div class="gallery-image">
-{{ range sort .Pages "Params.date" }}
+{{- range sort .Pages "Params.date" -}}
     <div class="gallery-image-box">
-        {{ partial "filename-to-photo.html" .Title }}
+        {{- partial "filename-to-photo.html" .Title -}}
     </div>
-{{ end }}
+{{- end -}}
 </div>

@@ -1,14 +1,14 @@
 <div class="article-photo-thumbnail">
-  {{ partial "filename-to-photo.html" .Title }}
-</div>{{ partial "editButton.html" . }}
-<h1>{{ .Title | safeHTML }}</h1><hr>
+  {{- partial "filename-to-photo.html" .Title -}}
+</div>{{- partial "editButton.html" . -}}
+<h1>{{- .Title | safeHTML -}}</h1><hr>
 
-{{ $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") }}
-{{ $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") }}
+{{- $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") -}}
+{{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
 
 <hr>
 <div class="contributors">
-  <strong> Photo taken on: </strong><time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+  <strong> Photo taken on: </strong><time datetime="{{- $dateMachine -}}">{{- $dateHuman -}}</time>
 </div>
 <hr>
-{{ partial "random-page.html" .}}
+{{- partial "random-page.html" . -}}
