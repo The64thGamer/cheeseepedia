@@ -53,6 +53,7 @@ h1{
   display: flex;
   flex-direction: row;
   position: relative;
+  align-content: space-between;
   color: var(--yellow);
   background-color: var(--blue);
   font-family: "RockoFLF";
@@ -96,7 +97,7 @@ h1{
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  min-width: 15em;
+  max-width: 25em;
   font-size: 1.5em;
   align-self: center;
   margin-right: 1em;

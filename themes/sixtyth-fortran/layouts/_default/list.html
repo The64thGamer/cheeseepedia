@@ -1,9 +1,11 @@
-{{ define "main" }}
-  {{ $layout := "baseList" }}
-  {{ if eq .Title "User" }}
-    {{ $layout = "listUsers" }}
-  {{ else if eq .Title "Photos" }}
-    {{ $layout = "photo-list" }}
-  {{ end }}
-  {{ partial $layout . }}
-{{ end }}
+{{- define "main" -}}
+  {{- $layout := "baseList" -}}
+  {{- if eq .Title "User" -}}
+    {{- $layout = "listUsers" -}}
+  {{- else if eq .Title "Photos" -}}
+    {{- $layout = "listPhotos" -}}
+  {{- else if eq .Title "Store List" -}}
+    {{- $layout = "listLocations" -}}
+  {{- end -}}
+  {{- partial $layout . -}}
+{{- end -}}

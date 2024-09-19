@@ -1,44 +1,44 @@
-<h1>{{ .Title }}</h1>
-{{ .Content | safeHTML }}
+<h1>{{- .Title -}}</h1>
+{{- .Content | safeHTML -}}
 
-{{ range sort .Pages "Params.Article.startDate" }}
+{{- range sort .Pages "Params.Article.startDate" -}}
     <div class="list-page-block">
         <div class="list-page-container">
             <div class="list-image">
-                <a href="{{ .RelPermalink }}">
-                    {{ partial "filename-to-photo-no-link.html" .Params.Article.pageThumbnailFile }}
+                <a href="{{- .RelPermalink -}}">
+                    {{- partial "filename-to-photo-no-link.html" .Params.Article.pageThumbnailFile -}}
                 </a>
             </div>
             <div class="list-page-content">
-                <a href="{{ .RelPermalink }}">
-                    {{ with .LinkTitle }}
-                        {{ . | safeHTML }}
-                    {{ else }}
-                        {{ .Title | safeHTML }} <!-- Fallback to Title if no LinkTitle -->
-                    {{ end }}
+                <a href="{{- .RelPermalink -}}">
+                    {{- with .LinkTitle -}}
+                        {{- . | safeHTML -}}
+                    {{- else -}}
+                        {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                    {{- end -}}
                 </a>
                 <div class="list-page-date">
-                    {{ $startCheck := false }}
-                    {{ with .Params.Article.startDate }}
-                        {{ partial "date-to-readable-date.html" . }}
-                        {{ $startCheck = true }}
-                    {{ end }}
-                    {{ with .Params.Article.endDate }}
-                        {{ if $startCheck }}
-                        {{" - "}}{{ partial "date-to-readable-date.html" . }}
-                        {{ else }}
-                        {{"? - "}}{{ partial "date-to-readable-date.html" . }}
-                        {{ end }}
-                    {{ else }}
-                        {{ if $startCheck }}
+                    {{- $startCheck := false -}}
+                    {{- with .Params.Article.startDate -}}
+                        {{- partial "date-to-readable-date.html" . -}}
+                        {{- $startCheck = true -}}
+                    {{- end -}}
+                    {{- with .Params.Article.endDate -}}
+                        {{- if $startCheck -}}
+                        {{" - "}}{{- partial "date-to-readable-date.html" . -}}
+                        {{- else -}}
+                        {{"? - "}}{{- partial "date-to-readable-date.html" . -}}
+                        {{- end -}}
+                    {{- else -}}
+                        {{- if $startCheck -}}
                         {{" - Present"}}
-                        {{ end }}
-                    {{ end }}
+                        {{- end -}}
+                    {{- end -}}
                 </div>
             </div>
             <div class="edit-button-container">
-                {{ partial "editButton.html" . }}
+                {{- partial "editButton.html" . -}}
             </div>
         </div>
     </div>
-{{ end }}
+{{- end -}}

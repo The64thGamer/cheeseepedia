@@ -1,0 +1,78 @@
+{{- $selectedYear := .year | default 2024 -}}
+{{- $pages := where .pages "Params.Location.latitudeLongitude" "!=" nil -}}
+
+<div id="map" style="
+    height: 40em;
+    width: 100%;
+    position: relative;
+    filter: brightness(0.55) contrast(5.9) hue-rotate(24deg) saturate(0.5);
+    outline-style: none;">
+</div>
+
+<!-- Add a slider for selecting the year -->
+<div style="margin-top: 10px;">
+  <input type="range" id="yearSlider" min="1977" max="{{- $selectedYear -}}" value="{{- $selectedYear -}}" oninput="updateSliderLabel(this.value)">
+  <span id="sliderValue">{{- $selectedYear -}}</span>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var map = L.map('map').setView([20,10],2); // Set default view
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+    }).addTo(map);
+
+    var selectedYear = {{- $selectedYear -}};
+
+    // Array to store markers data
+    var locations = [
+        {{- range $pages -}}
+                { 
+                coords: [{{- index .Params.Location.latitudeLongitude 0 -}}, {{- index .Params.Location.latitudeLongitude 1 -}}], 
+                url: "{{- .RelPermalink -}}", 
+                title: "{{- .Title -}}",
+                startDate: "{{- .Params.Article.startDate | default "1977-01-01" -}}",
+                endDate: "{{- .Params.Article.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
+                },
+        {{- end -}}
+    ];
+
+    var markers = [];
+
+    // Function to create and add markers to the map
+    function addMarkers() {
+      // Remove existing markers
+      markers.forEach(marker => map.removeLayer(marker));
+      markers = [];
+
+      var currentYear = parseInt(document.getElementById('yearSlider').value);
+
+      // Add markers based on date range filtering
+      locations.forEach(function(location) {
+        var startYear = new Date(location.startDate).getFullYear();
+        var endYear = new Date(location.endDate).getFullYear();
+
+        // Only display markers that fall within the selected year
+        if (startYear <= currentYear && endYear >= currentYear) {
+          var marker = L.marker(location.coords).addTo(map)
+            .bindPopup('<a href="' + location.url + '">' + location.title + '</a>');
+          markers.push(marker);
+        }
+      });
+    }
+
+    // Initialize markers on page load
+    addMarkers();
+
+    // Event listener for the slider to update markers when the year changes
+    document.getElementById('yearSlider').addEventListener('input', function() {
+      addMarkers();
+    });
+  });
+
+  // Function to update the slider label with the selected year
+  function updateSliderLabel(value) {
+    document.getElementById('sliderValue').textContent = value;
+  }
+</script>
