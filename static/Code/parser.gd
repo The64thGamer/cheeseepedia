@@ -69,8 +69,8 @@ func _ready() -> void:
 			filePage += "\n+++"
 
 			pageTitle = parse_title(pageTitle)
-			if not FileAccess.file_exists("res://wiki/" + pageFolder + pageTitle + ".md"):
-				var fileAcess = FileAccess.open("res://wiki/" + pageFolder + pageTitle + ".md", FileAccess.WRITE)
+			if not FileAccess.file_exists("res://wiki/" + pageFolder + pageTitle + ".html"):
+				var fileAcess = FileAccess.open("res://wiki/" + pageFolder + pageTitle + ".html", FileAccess.WRITE)
 				fileAcess.store_string(filePage)
 				fileAcess = null
 	print("Done")
@@ -175,7 +175,7 @@ func ParsePage(index):
 	filePage += "\n" + rawArticle;
 
 	pageTitle = parse_title(pageTitle)
-	var fileAcess = FileAccess.open("res://wiki/" + pageFolder + pageTitle + ".md", FileAccess.WRITE)
+	var fileAcess = FileAccess.open("res://wiki/" + pageFolder + pageTitle + ".html", FileAccess.WRITE)
 	fileAcess.store_string(filePage)
 	fileAcess = null
 
@@ -250,7 +250,7 @@ func parse_links(text: String) -> String:
 		var capture = match.strings[1]     # Capture group 1 (e.g., some title)
 		if not "|" in capture && not "File:" in capture:
 			if check_real_title(capture):
-				text = text.replace(full_match, "[" + capture + "]({{< ref \"wiki/" + parse_title(capture) + ".md\" >}})")
+				text = text.replace(full_match, "[" + capture + "]({{< ref \"wiki/" + parse_title(capture) + ".html\" >}})")
 			else:
 				text = text.replace(full_match, capture)
 		elif "File:" in capture:
@@ -328,7 +328,7 @@ func parse_alt_links(text: String) -> String:
 		
 		if not "File" in capture:
 			if check_real_title(parse_title(capture)):
-				text = text.replace(full_match,"[" + captureB + "]({{< ref \"wiki/" + parse_title(capture) + ".md\" >}})")
+				text = text.replace(full_match,"[" + captureB + "]({{< ref \"wiki/" + parse_title(capture) + ".html\" >}})")
 			elif "]]" not in capture && "]]" not in captureB:
 				text = text.replace(full_match,capture + " (" + captureB  + ")")
 	return text

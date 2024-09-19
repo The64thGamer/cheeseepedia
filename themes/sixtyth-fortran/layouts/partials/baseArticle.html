@@ -11,7 +11,7 @@
     {{- $len := len .Params.article.contributors -}}
     {{- range $index, $element := .Params.article.contributors -}}
       {{- $slug := replace $element " " "-" | lower -}}
-      {{- if os.FileExists (printf "content/wiki/Users/%s.md" $element) -}}
+      {{- if os.FileExists (printf "content/wiki/Users/%s.html" $element) -}}
         {{- $userURL := relURL (printf "wiki/users/%s/" $slug) -}}
         <a href="{{- $userURL -}}">{{- $element -}}</a>
       {{- else -}}

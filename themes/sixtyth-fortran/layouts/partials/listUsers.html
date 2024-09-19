@@ -34,7 +34,7 @@
 <div class="tri-column">
   <ul>
   {{- range $sortedContributors -}}
-    {{- $path := printf "content/wiki/Users/%s.md" .name -}}
+    {{- $path := printf "content/wiki/Users/%s.html" .name -}}
     {{- if fileExists $path -}}
         {{- $slug := replace .name " " "-"| lower  -}}
         <li><a href="{{- relURL (printf "wiki/users/%s/" $slug) -}}">{{- .name -}}</a><sup> (+{{- .count -}})</sup></li>
