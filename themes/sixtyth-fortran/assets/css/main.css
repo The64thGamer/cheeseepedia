@@ -44,6 +44,11 @@ h1{
   margin: 0;
 }
 
+h2{
+  font-size: 1.5rem;
+  color: var(--yellow);
+}
+
 .tri-column ul {
   column-count: 3;
   overflow-wrap: break-word;
@@ -244,6 +249,37 @@ h1{
 
 .contributors sup{
   color: var(--white); 
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em;
+  text-align: left;
+}
+
+/* Table borders */
+table, th, td {
+  border: .25em solid var(--brown);
+  min-width: 5em;
+}
+
+/* Table headers */
+th {
+  background-color: var(--orange);
+  color: var(--white);
+  padding: 0.5em;
+}
+
+/* Table cells */
+td {
+  padding: 0.5em;
+}
+
+/* Caption styling */
+caption {
+  font-weight: bold;
+  margin-bottom: 1em;
 }
 
 .fun-text{

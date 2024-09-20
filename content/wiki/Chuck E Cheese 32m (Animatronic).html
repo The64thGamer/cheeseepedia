@@ -12,515 +12,645 @@ contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","Destinationima
 +++
 
 
-The <b><i>Chuck E. Cheese 32m Animatronic</b></i> is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The [Chuck E. Cheese 16m (Animatronic)]({{< ref "wiki/Chuck E Cheese 16m (Animatronic).html" >}}) was created in 2002 to replace this animatronic due to it's cost.
+The <b><i>Chuck E. Cheese 32m Animatronic</b></i> is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The <a href="{{< ref "wiki/Chuck E Cheese 16m (Animatronic)" >}}">Chuck E. Cheese 16m (Animatronic)</a> was created in 2002 to replace this animatronic due to it's cost.
 
 <h2> History</h2>
-After the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.html" >}}) concept failed, the one animatronic show concept was still being considered. Soon enough, Showbiz reached out to a few manufactures one being Creative Presentations. But being unable to help Showbiz, they suggested that they contacted Garner Holt.<ref>https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</ref>
+After the <a href="{{< ref "wiki/Awesome Adventure Machine" >}}">Awesome Adventure Machine</a> concept failed, the one animatronic show concept was still being considered. Soon enough, Showbiz reached out to a few manufactures one being Creative Presentations. But being unable to help Showbiz, they suggested that they contacted Garner Holt.<ref>https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</ref>
 
-In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese animatronics, the first appearance being on October 3rd, 1997 for an invite only event at the [Showbiz Pizza Time Corporate Office]({{< ref "wiki/Showbiz Pizza Time Corporate Office.html" >}}) and a hand-full of locations. In February 1998 Chuck E. was unveiled at the [[1998 CEC General Managers Las Vegas Convention (Event)|General Managers Convention]]. 160 of these Chuck E. Animatronics were placed in locations by the year 2000 and later ended production in 2001, only finishing one batch that year.
+In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese animatronics, the first appearance being on October 3rd, 1997 for an invite only event at the <a href="{{< ref "wiki/Showbiz Pizza Time Corporate Office" >}}">Showbiz Pizza Time Corporate Office</a> and a hand-full of locations. In February 1998 Chuck E. was unveiled at the 1998 CEC General Managers Las Vegas Convention (Event)|General Managers Convention. 160 of these Chuck E. Animatronics were placed in locations by the year 2000 and later ended production in 2001, only finishing one batch that year.
 
 <h2> Internals</h2>
-{| class='wikitable'
-|+DTU #1
-!Bit #
-!Movement
-|-
-| 1
-|ARM OUT
-|-
-| 2
-|ARM SWING
-|-
-|3
-|ELBOW UP
-|-
-|4
-|WRIST TURN
-|-
-|5
-|WAVE
-|-
-|6
-| ARM OUT
-|-
-|7
-|ARM SWING
-|-
-|8
-|ELBOW UP
-|-
-|9
-|WRIST TURN
-|-
-|10
-|WAVE
-|-
-|11
-|LEFT ARM FORWARD
-|-
-|12
-|BODY FORWARD
-|-
-|13
-|BODY LEFT SIDE BEND
-|-
-|14
-|BODY RIGHT SIDE BEND
-|-
-|15
-|TORSO TWIST RIGHT
-|-
-| 16
-|TORSO TWIST LEFT
-|-
-|17
-|RIGHT ARM FORWARD
-|-
-|18
-|HEAD TURN LEFT
-|-
-|19
-| HEAD TURN RIGHT
+<table>
+<tr>
+<th>Bit #</th>
+<th>Movement</th>
+</tr>
+<tr>
+<td> 1</td>
+<td>ARM OUT</td>
+</tr>
+<tr>
+<td> 2</td>
+<td>ARM SWING</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ELBOW UP</td>
+</tr>
+<tr>
+<td>4</td>
+<td>WRIST TURN</td>
+</tr>
+<tr>
+<td>5</td>
+<td>WAVE</td>
+</tr>
+<tr>
+<td>6</td>
+<td> ARM OUT</td>
+</tr>
+<tr>
+<td>7</td>
+<td>ARM SWING</td>
+</tr>
+<tr>
+<td>8</td>
+<td>ELBOW UP</td>
+</tr>
+<tr>
+<td>9</td>
+<td>WRIST TURN</td>
+</tr>
+<tr>
+<td>10</td>
+<td>WAVE</td>
+</tr>
+<tr>
+<td>11</td>
+<td>LEFT ARM FORWARD</td>
+</tr>
+<tr>
+<td>12</td>
+<td>BODY FORWARD</td>
+</tr>
+<tr>
+<td>13</td>
+<td>BODY LEFT SIDE BEND</td>
+</tr>
+<tr>
+<td>14</td>
+<td>BODY RIGHT SIDE BEND</td>
+</tr>
+<tr>
+<td>15</td>
+<td>TORSO TWIST RIGHT</td>
+</tr>
+<tr>
+<td> 16</td>
+<td>TORSO TWIST LEFT</td>
+</tr>
+<tr>
+<td>17</td>
+<td>RIGHT ARM FORWARD</td>
+</tr>
+<tr>
+<td>18</td>
+<td>HEAD TURN LEFT</td>
+</tr>
+<tr>
+<td>19</td>
+<td> HEAD TURN RIGHT</td>
+</tr>
+<tr>
+<td>20</td>
+<td>HEAD UP</td>
+</tr>
+<tr>
+<td>21</td>
+<td>MOUTH</td>
+</tr>
+<tr>
+<td>22</td>
+<td>HEAD TILT RIGHT</td>
+</tr>
+<tr>
+<td>23</td>
+<td> HEAD TILT LEFT</td>
+</tr>
+<tr>
+<td>24</td>
+<td>EYE BLINK DOWN</td>
+</tr>
+<tr>
+<td>25</td>
+<td>EYE BLINK UP</td>
+</tr>
+<tr>
+<td> 26</td>
+<td>NOSE</td>
+</tr>
+<tr>
+<td>27</td>
+<td>EYE TURN LEFT</td>
+</tr>
+<tr>
+<td>28</td>
+<td>EYE TURN RIGHT</td>
+</tr>
+<tr>
+<td>29</td>
+<td> EYEBOWS UP</td>
+</tr>
+<tr>
+<td>30</td>
+<td>EYEBROWS DOWN</td>
+</tr>
+<tr>
+<td>31</td>
+<td>EARS</td>
+</tr>
+<tr>
+<td>32</td>
+<td>FOOT TAP</td>
+</tr>
+</table>
 
-|-
-|20
-|HEAD UP
-|-
-|21
-|MOUTH
-|-
-|22
-|HEAD TILT RIGHT
-|-
-|23
-| HEAD TILT LEFT
-|-
-|24
-|EYE BLINK DOWN
-|-
-|25 
-|EYE BLINK UP
-|-
-| 26
-|NOSE
-|-
-|27
-|EYE TURN LEFT
-|-
-|28
-|EYE TURN RIGHT
-|-
-|29
-| EYEBOWS UP
-|-
-|30
-|EYEBROWS DOWN
-|-
-|31
-|EARS
-|-
-|32
-|FOOT TAP
-|}
 <h2>Known Serial Numbers</h2>
 
 
-{| class='wikitable'
-|+
-!(Original) Location
-!S/N
-!R&D
-|-
-|[http://www.garnerholt.com/ Garner Holt Productions]
-|001
-|None (1997)
-|-
-|[Dallas, TX (13125 Montfort Dr)]({{< ref "wiki/Dallas, TX (13125 Montfort Dr).html" >}})
-|002
-|None (1997)
-|-
-|[[Brookfield, WI (19125 W Blue Mound Rd)|Brookfield, WI]]
-|003
-|None (1997)
-|-
-| [[Grand Chute / Appleton, WI (4671 Michales Dr)|Grand Chute / Appleton, WI]] 
-|005
-|None (1997)
-|-
-|[Plano, TX (1604 Preston Rd)]({{< ref "wiki/Plano, TX (1604 Preston Rd).html" >}})
-|006
-|None (1997)
-|-
-|Thousand Oaks, CA (130 W Hillcrest Dr) 
-|007
-|None (1997)
-|-
-|[Kent, WA (25817 104th Ave)]({{< ref "wiki/Kent, WA (25817 104th Ave).html" >}})
-|008
-|None (1997)
-|-
-|[Canton, OH (6370 Strip Ave)]({{< ref "wiki/Canton, OH (6370 Strip Ave).html" >}})
-|010
-|None (1997)
-|-
-| [Orlando, FL (7419 International Dr)]({{< ref "wiki/Orlando, FL (7419 International Dr).html" >}})
-|011
-| None (1997)
-|-
-|[Altamonte Springs, FL (541 W Hwy 436)]({{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436).html" >}})
-| 012
-|None (1997)
-|-
-| Salinas, CA (1447 North Davis Rd)
-|013
-|None (1997)
-|-
-|Orlando (West), FL (7456 West Colonial Dr)
-|015
-|None (1997)
-|-
-| [Fayetteville, NC (511 North McPherson Church Rd)]({{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd).html" >}})
-|016 
-| None (1997)
-|-
-|[West Islip, NY (155 Sunrise Hwy)]({{< ref "wiki/West Islip, NY (155 Sunrise Hwy).html" >}})
-|019 
-| None (1997)
-|-
-|[Fort Wayne, IN (711 Coliseum Blvd)]({{< ref "wiki/Fort Wayne, IN (711 Coliseum Blvd).html" >}})
-|022
-|None (1997)
-|-
-| [Las Vegas, NV (7381 W Lake Mead Blvd)]({{< ref "wiki/Las Vegas, NV (7381 W Lake Mead Blvd).html" >}})
-|024 
-|None (1997)
-|-
-|[Lakewood, CA (5151 Lakewood Blvd)]({{< ref "wiki/Lakewood, CA (5151 Lakewood Blvd).html" >}})
-|025 
-|None (1997)
-|-
-|Palm Desert, CA (72513 Hwy 111)
-|027
-|None (1997)
-|-
-|[Redwood City, CA (2541-43 El Camino Real)]({{< ref "wiki/Redwood City, CA (2541-43 El Camino Real).html" >}})
-|030
-|4698
-|-
-|[Bradenton, FL (905 44th Ave)]({{< ref "wiki/Bradenton, FL (905 44th Ave).html" >}})
-|033
-|4698
-|-
-|[Richmond, VA (9030 Broad St)]({{< ref "wiki/Richmond, VA (9030 Broad St).html" >}})
-|034
-|4698
-|-
-|[Phoenix, AZ (3329 E Bell Rd)]({{< ref "wiki/Phoenix, AZ (3329 E Bell Rd).html" >}})
-|037
-|4698
-|-
-|[Victorville, CA (12790 Amargosa Rd)]({{< ref "wiki/Victorville, CA (12790 Amargosa Rd).html" >}})
-|038
-|4698
-|-
-|[Humble, TX (124 E FM 1960 Bypass)]({{< ref "wiki/Humble, TX (124 E FM 1960 Bypass).html" >}})
-|039
-| 4698
-|-
-|[Jacksonville, FL (6065 Youngerman Circle)]({{< ref "wiki/Jacksonville, FL (6065 Youngerman Circle).html" >}})
-|041
-|4698
-|-
-|Fairfax, VA (9404 Main Street)
-|046
-|4698
-|-
-|[Parma, OH (7601 W Ridgewood Rd)]({{< ref "wiki/Parma, OH (7601 W Ridgewood Rd).html" >}})
-|047
-|4698
-|-
-|[Jacksonville, FL (9820 Atlantic Blvd)]({{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd).html" >}})
-|048
-|4698
-|-
-|Henderson, NV (1521 W Sunset Rd)
-|050
-|4698
-|-
-|[Long Island City, NY (3419 48th St)]({{< ref "wiki/Long Island City, NY (3419 48th St).html" >}})
-|052
-|4698
-|-
-|[Scottsdale, AZ (8890 E Indian Bend Rd)]({{< ref "wiki/Scottsdale, AZ (8890 E Indian Bend Rd).html" >}})
-|053
-|4698
-|-
-|Littleton, CO (7510 Parkway Dr)
-|057
-|4698
-|-
-|Merrillville, IN (2961 E 80th Ave)
-|058
-|4698
-|-
-|[Dickson City, PA (1003 Commerce Blvd)]({{< ref "wiki/Dickson City, PA (1003 Commerce Blvd).html" >}})
-|059
-|4698
-|-
-|[Winston-Salem, NC (620 Hanes Mall Blvd)]({{< ref "wiki/Winston-Salem, NC (620 Hanes Mall Blvd).html" >}})
-|060
-|4698
-|-
-|[Atlanta, GA (2990 Cumberland Blvd)]({{< ref "wiki/Atlanta, GA (2990 Cumberland Blvd).html" >}})
-|063
-|2199
-|-
-|[Louisville, KY (2030 S Hurstbourne Pkwy)]({{< ref "wiki/Louisville, KY (2030 S Hurstbourne Pkwy).html" >}})
-|064
-|2199
-|-
-|[Costa Mesa, CA (2300 Harbor Blvd)]({{< ref "wiki/Costa Mesa, CA (2300 Harbor Blvd).html" >}})
-|065
-|2199
-|-
-|[Englewood, CO (1001 W Hampden Ave)]({{< ref "wiki/Englewood, CO (1001 W Hampden Ave).html" >}})
-|066
-|2199
-|-
-|[Warwick, RI (650 Bald Hill Rd)]({{< ref "wiki/Warwick, RI (650 Bald Hill Rd).html" >}})
-|067
-|2199
-|-
-|Sterling Heights, MI (13745 Lakeside Circle)
-|070
-|2199
-|-
-|[Grand Rapids, MI (3671 28th St)]({{< ref "wiki/Grand Rapids, MI (3671 28th St).html" >}})
-|072
-|2199
-|-
-|[Bridgewater, NJ (600 Promenade Blvd)]({{< ref "wiki/Bridgewater, NJ (600 Promenade Blvd).html" >}})
-|074
-|2199
-|-
-|[Spokane, WA (10007 N Nevada St)]({{< ref "wiki/Spokane, WA (10007 N Nevada St).html" >}})
-|075
-|2199
-|-
-|[Jonesboro, GA (335 Upper Riverdale Rd)]({{< ref "wiki/Jonesboro, GA (335 Upper Riverdale Rd).html" >}})
-|077
-|2199
-|-
-|Batavia, IL (511 N Randall Rd)
-|078
-|2199
-|-
-|[Rochester, NY (1000 Hylan Dr)]({{< ref "wiki/Rochester, NY (1000 Hylan Dr).html" >}})
-|084
-| 2199
-|-
-|[Buffalo, NY (4408 Milestrip Rd)]({{< ref "wiki/Buffalo, NY (4408 Milestrip Rd).html" >}})
-|085
-|2199
-|-
-|[Norfolk, VA (920 N Military Hwy)]({{< ref "wiki/Norfolk, VA (920 N Military Hwy).html" >}})
-|087
-|4599
-|-
-|Norcross, GA (5019 Jimmy Carter Blvd)
-|088
-|4599
-|-
-|Maple Grove, MN (12945 Elm Creek Blvd N)
-|089
-|4599
-|-
-|[Orlando (East), FL (449 N Alafaya Trail)]({{< ref "wiki/Orlando (East), FL (449 N Alafaya Trail).html" >}})
-|091
-|4599
-|-
-|[Midland, TX (4703 W Loop 250)]({{< ref "wiki/Midland, TX (4703 W Loop 250).html" >}})
-|094
-|4599
-|-
-|[St. Charles, MO (2669 Veterans Memorial Pkwy)]({{< ref "wiki/St Charles, MO (2669 Veterans Memorial Pkwy).html" >}})
-|096
-|4599
-|-
-|Downingtown, PA (911 E Lancaster Ave)
-|098
-|4599
-|-
-|[[Methuen, MA (90 Pleasant Valley Rd)|Methuen, MA (90 Pleasant Valley Road)]]
-|102
-|4599
-|-
-|[Crystal Lake, IL (4725 Northwest Hwy)]({{< ref "wiki/Crystal Lake, IL (4725 Northwest Hwy).html" >}})
-|105
-|4599
-|-
-|[Waldorf, MD (2928 Festival Way)]({{< ref "wiki/Waldorf, MD (2928 Festival Way).html" >}})
-|109
-|4599
-|-
-|[Miamisburg, OH (30 Prestige Place)]({{< ref "wiki/Miamisburg, OH (30 Prestige Place).html" >}})
-|110
-|4599
-|-
-|[San Jose, CA (2445 Fontaine Rd)]({{< ref "wiki/San Jose, CA (2445 Fontaine Rd).html" >}})
-|111
-|4599
-|-
-|Clearwater, FL (25921 US-19)
-|114
-|4599
-|-
-|[Wyomissing, PA (2721 N Meridian Blvd)]({{< ref "wiki/Wyomissing, PA (2721 N Meridian Blvd).html" >}})
-|115
-|4599
-|-
-|[Fresno, CA (3117 W Shaw Ave)]({{< ref "wiki/Fresno, CA (3117 W Shaw Ave).html" >}})
-|116
-|4599
-|-
-|[Miami (Kendall), FL (8701 SW 124th Ave)]({{< ref "wiki/Miami (Kendall), FL (8701 SW 124th Ave).html" >}})
-|118
-|4599
-|-
-|Mayfield Heights, OH (1615 Golden Gate Plaza)
-|119
-|4599
-|-
-|Douglasville, GA (6890 Douglas Blvd)
-|121
-|4599
-|-
-|[Pittsburgh, PA (20 McIntyre Square Dr)]({{< ref "wiki/Pittsburgh, PA (20 McIntyre Square Dr).html" >}})
-|122
-|4599
-|-
-|[Princeton, NJ (520 Nassau Park Blvd)]({{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd).html" >}})
-|124
-|4599
-|-
-|[Whitby, Ontario, Canada (75 Consumers Dr)]({{< ref "wiki/Whitby, Ontario, Canada (75 Consumers Dr).html" >}})
-|125
-|4599
-|-
-|[Harrisburg, PA (3883 Union Deposit Rd)]({{< ref "wiki/Harrisburg, PA (3883 Union Deposit Rd).html" >}})
-|127
-|4599
-|-
-|Miami, FL (18575 S Dixie Hwy)
-|129
-|4599
-|-
-|Austin (Round Rock), TX (401 W Louis Henna Blvd)
-|130
-|4599
-|-
-|Warren, OH (2082 Niles Cortland Rd)
-|137
-|4599
-|-
-|[Colorado Springs, CO (5156 N Academy Blvd)]({{< ref "wiki/Colorado Springs, CO (5156 N Academy Blvd).html" >}})
-|138
-|4599
-|-
-|[Meriden, CT (533 S Broad St)]({{< ref "wiki/Meriden, CT (533 S Broad St).html" >}})
-|140
-|5000
-|-
-|Cedar Falls, IA (5911 University Ave 100)
-|141
-|5000
-|-
-|[Hempstead, NY (162 Fulton Ave)]({{< ref "wiki/Hempstead, NY (162 Fulton Ave).html" >}})
-|142
-|5000
-|-
-|[Villa Park, IL (200 W Roosevelt Rd)]({{< ref "wiki/Villa Park, IL (200 W Roosevelt Rd).html" >}})
-|144
-|5000
-|-
-|[Concord, NC (7970 Lyles Lane)]({{< ref "wiki/Concord, NC (7970 Lyles Lane).html" >}})
-|148
-|5000
-|-
-|Sioux Falls, SD (2600 Louise Ave)
-|150
-|5000
-|-
-|Alpharetta, GA (925 North Point Dr)
-|151
-|5000
-|-
-|Hickory, NC (2032 Catawba Valley Blvd)
-|152
-|5000
-|-
-|Boca Raton, FL (21699-A State Rd)
-|154
-|5000
-|-
-|[Dallas, TX (13364 Montfort Dr)]({{< ref "wiki/Dallas, TX (13364 Montfort Dr).html" >}})
-|155
-|5000
-|-
-|[Mays Landing, NJ (4215 Black Horse Pike)]({{< ref "wiki/Mays Landing, NJ (4215 Black Horse Pike).html" >}})
-|156
-|5000
-|-
-|[San Antonio, TX (11735 Bandera Rd)]({{< ref "wiki/San Antonio, TX (11735 Bandera Rd).html" >}})
-|160
-|5000
-|-
-|[Grapevine, TX (2755 E Grapevine Mills Circle)]({{< ref "wiki/Grapevine, TX (2755 E Grapevine Mills Circle).html" >}})
-|161
-|5000
-|-
-|Cordova, TN (1636 N Germantown Pkwy)
-|166
-|1401
-|-
-|[Murfreesboro, TN (1720 Old Fort Pkwy)]({{< ref "wiki/Murfreesboro, TN (1720 Old Fort Pkwy).html" >}})
-|167
-|1401
-|-
-|[Hampton, VA (5 Towne Centre Way)]({{< ref "wiki/Hampton, VA (5 Towne Centre Way).html" >}})
-|169
-|1401
-|-
-|[Bridgeville, PA (1035 Washington Pike)]({{< ref "wiki/Bridgeville, PA (1035 Washington Pike).html" >}})
-|170
-|1401
-|-
-|[Rockville, MD (5270 Randolph Rd)]({{< ref "wiki/Rockville, MD (5270 Randolph Rd).html" >}})
-|173
-|1401
-|-
-| [Denton, TX (341 South I-35)]({{< ref "wiki/Denton, TX (341 South I-35).html" >}})
-|176
-|1401
-|-
-|Houston, TX (600 Gulfgate Mall Center)
-|177
-|1401
-|-
-|Frederick, MD (7210 Guilford Dr)
-|183
-|1401
-|}
+<table>
+<tr>
+<th>(Original) Location</th>
+<th>S/N</th>
+<th>R&D</th>
+</tr>
+<tr>
+<td>[http://www.garnerholt.com/ Garner Holt Productions]</td>
+<td>001</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Dallas, TX (13125 Montfort Dr)" >}}">Dallas, TX (13125 Montfort Dr)</a></td>
+<td>002</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Brookfield, WI (19125 W Blue Mound Rd)" >}}">Brookfield, WI</a></td>
+<td>003</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td> <a href="{{< ref "wiki/Grand Chute  Appleton, WI (4671 Michales Dr)" >}}">Grand Chute / Appleton, WI</a></td>
+<td>005</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Plano, TX (1604 Preston Rd)" >}}">Plano, TX (1604 Preston Rd)</a></td>
+<td>006</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td>Thousand Oaks, CA (130 W Hillcrest Dr)</td>
+<td>007</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Kent, WA (25817 104th Ave)" >}}">Kent, WA (25817 104th Ave)</a></td>
+<td>008</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Canton, OH (6370 Strip Ave)" >}}">Canton, OH (6370 Strip Ave)</a></td>
+<td>010</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td> <a href="{{< ref "wiki/Orlando, FL (7419 International Dr)" >}}">Orlando, FL (7419 International Dr)</a></td>
+<td>011</td>
+<td> None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Altamonte Springs, FL (541 W Hwy 436)" >}}">Altamonte Springs, FL (541 W Hwy 436)</a></td>
+<td> 012</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td> Salinas, CA (1447 North Davis Rd)</td>
+<td>013</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td>Orlando (West), FL (7456 West Colonial Dr)</td>
+<td>015</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td> <a href="{{< ref "wiki/Fayetteville, NC (511 North McPherson Church Rd)" >}}">Fayetteville, NC (511 North McPherson Church Rd)</a></td>
+<td>016</td>
+<td> None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/West Islip, NY (155 Sunrise Hwy)" >}}">West Islip, NY (155 Sunrise Hwy)</a></td>
+<td>019</td>
+<td> None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Fort Wayne, IN (711 Coliseum Blvd)" >}}">Fort Wayne, IN (711 Coliseum Blvd)</a></td>
+<td>022</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td> <a href="{{< ref "wiki/Las Vegas, NV (7381 W Lake Mead Blvd)" >}}">Las Vegas, NV (7381 W Lake Mead Blvd)</a></td>
+<td>024</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Lakewood, CA (5151 Lakewood Blvd)" >}}">Lakewood, CA (5151 Lakewood Blvd)</a></td>
+<td>025</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td>Palm Desert, CA (72513 Hwy 111)</td>
+<td>027</td>
+<td>None (1997)</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Redwood City, CA (2541-43 El Camino Real)" >}}">Redwood City, CA (2541-43 El Camino Real)</a></td>
+<td>030</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Bradenton, FL (905 44th Ave)" >}}">Bradenton, FL (905 44th Ave)</a></td>
+<td>033</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Richmond, VA (9030 Broad St)" >}}">Richmond, VA (9030 Broad St)</a></td>
+<td>034</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Phoenix, AZ (3329 E Bell Rd)" >}}">Phoenix, AZ (3329 E Bell Rd)</a></td>
+<td>037</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Victorville, CA (12790 Amargosa Rd)" >}}">Victorville, CA (12790 Amargosa Rd)</a></td>
+<td>038</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Humble, TX (124 E FM 1960 Bypass)" >}}">Humble, TX (124 E FM 1960 Bypass)</a></td>
+<td>039</td>
+<td> 4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Jacksonville, FL (6065 Youngerman Circle)" >}}">Jacksonville, FL (6065 Youngerman Circle)</a></td>
+<td>041</td>
+<td>4698</td>
+</tr>
+<tr>
+<td>Fairfax, VA (9404 Main Street)</td>
+<td>046</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Parma, OH (7601 W Ridgewood Rd)" >}}">Parma, OH (7601 W Ridgewood Rd)</a></td>
+<td>047</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Jacksonville, FL (9820 Atlantic Blvd)" >}}">Jacksonville, FL (9820 Atlantic Blvd)</a></td>
+<td>048</td>
+<td>4698</td>
+</tr>
+<tr>
+<td>Henderson, NV (1521 W Sunset Rd)</td>
+<td>050</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Long Island City, NY (3419 48th St)" >}}">Long Island City, NY (3419 48th St)</a></td>
+<td>052</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Scottsdale, AZ (8890 E Indian Bend Rd)" >}}">Scottsdale, AZ (8890 E Indian Bend Rd)</a></td>
+<td>053</td>
+<td>4698</td>
+</tr>
+<tr>
+<td>Littleton, CO (7510 Parkway Dr)</td>
+<td>057</td>
+<td>4698</td>
+</tr>
+<tr>
+<td>Merrillville, IN (2961 E 80th Ave)</td>
+<td>058</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Dickson City, PA (1003 Commerce Blvd)" >}}">Dickson City, PA (1003 Commerce Blvd)</a></td>
+<td>059</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Winston-Salem, NC (620 Hanes Mall Blvd)" >}}">Winston-Salem, NC (620 Hanes Mall Blvd)</a></td>
+<td>060</td>
+<td>4698</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Atlanta, GA (2990 Cumberland Blvd)" >}}">Atlanta, GA (2990 Cumberland Blvd)</a></td>
+<td>063</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Louisville, KY (2030 S Hurstbourne Pkwy)" >}}">Louisville, KY (2030 S Hurstbourne Pkwy)</a></td>
+<td>064</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Costa Mesa, CA (2300 Harbor Blvd)" >}}">Costa Mesa, CA (2300 Harbor Blvd)</a></td>
+<td>065</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Englewood, CO (1001 W Hampden Ave)" >}}">Englewood, CO (1001 W Hampden Ave)</a></td>
+<td>066</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Warwick, RI (650 Bald Hill Rd)" >}}">Warwick, RI (650 Bald Hill Rd)</a></td>
+<td>067</td>
+<td>2199</td>
+</tr>
+<tr>
+<td>Sterling Heights, MI (13745 Lakeside Circle)</td>
+<td>070</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Grand Rapids, MI (3671 28th St)" >}}">Grand Rapids, MI (3671 28th St)</a></td>
+<td>072</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Bridgewater, NJ (600 Promenade Blvd)" >}}">Bridgewater, NJ (600 Promenade Blvd)</a></td>
+<td>074</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Spokane, WA (10007 N Nevada St)" >}}">Spokane, WA (10007 N Nevada St)</a></td>
+<td>075</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Jonesboro, GA (335 Upper Riverdale Rd)" >}}">Jonesboro, GA (335 Upper Riverdale Rd)</a></td>
+<td>077</td>
+<td>2199</td>
+</tr>
+<tr>
+<td>Batavia, IL (511 N Randall Rd)</td>
+<td>078</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Rochester, NY (1000 Hylan Dr)" >}}">Rochester, NY (1000 Hylan Dr)</a></td>
+<td>084</td>
+<td> 2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Buffalo, NY (4408 Milestrip Rd)" >}}">Buffalo, NY (4408 Milestrip Rd)</a></td>
+<td>085</td>
+<td>2199</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Norfolk, VA (920 N Military Hwy)" >}}">Norfolk, VA (920 N Military Hwy)</a></td>
+<td>087</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Norcross, GA (5019 Jimmy Carter Blvd)</td>
+<td>088</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Maple Grove, MN (12945 Elm Creek Blvd N)</td>
+<td>089</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Orlando (East), FL (449 N Alafaya Trail)" >}}">Orlando (East), FL (449 N Alafaya Trail)</a></td>
+<td>091</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Midland, TX (4703 W Loop 250)" >}}">Midland, TX (4703 W Loop 250)</a></td>
+<td>094</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/St Charles, MO (2669 Veterans Memorial Pkwy)" >}}">St. Charles, MO (2669 Veterans Memorial Pkwy)</a></td>
+<td>096</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Downingtown, PA (911 E Lancaster Ave)</td>
+<td>098</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Methuen, MA (90 Pleasant Valley Rd)" >}}">Methuen, MA (90 Pleasant Valley Road)</a></td>
+<td>102</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Crystal Lake, IL (4725 Northwest Hwy)" >}}">Crystal Lake, IL (4725 Northwest Hwy)</a></td>
+<td>105</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Waldorf, MD (2928 Festival Way)" >}}">Waldorf, MD (2928 Festival Way)</a></td>
+<td>109</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Miamisburg, OH (30 Prestige Place)" >}}">Miamisburg, OH (30 Prestige Place)</a></td>
+<td>110</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/San Jose, CA (2445 Fontaine Rd)" >}}">San Jose, CA (2445 Fontaine Rd)</a></td>
+<td>111</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Clearwater, FL (25921 US-19)</td>
+<td>114</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Wyomissing, PA (2721 N Meridian Blvd)" >}}">Wyomissing, PA (2721 N Meridian Blvd)</a></td>
+<td>115</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Fresno, CA (3117 W Shaw Ave)" >}}">Fresno, CA (3117 W Shaw Ave)</a></td>
+<td>116</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Miami (Kendall), FL (8701 SW 124th Ave)" >}}">Miami (Kendall), FL (8701 SW 124th Ave)</a></td>
+<td>118</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Mayfield Heights, OH (1615 Golden Gate Plaza)</td>
+<td>119</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Douglasville, GA (6890 Douglas Blvd)</td>
+<td>121</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Pittsburgh, PA (20 McIntyre Square Dr)" >}}">Pittsburgh, PA (20 McIntyre Square Dr)</a></td>
+<td>122</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Princeton, NJ (520 Nassau Park Blvd)" >}}">Princeton, NJ (520 Nassau Park Blvd)</a></td>
+<td>124</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Whitby, Ontario, Canada (75 Consumers Dr)" >}}">Whitby, Ontario, Canada (75 Consumers Dr)</a></td>
+<td>125</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Harrisburg, PA (3883 Union Deposit Rd)" >}}">Harrisburg, PA (3883 Union Deposit Rd)</a></td>
+<td>127</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Miami, FL (18575 S Dixie Hwy)</td>
+<td>129</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Austin (Round Rock), TX (401 W Louis Henna Blvd)</td>
+<td>130</td>
+<td>4599</td>
+</tr>
+<tr>
+<td>Warren, OH (2082 Niles Cortland Rd)</td>
+<td>137</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Colorado Springs, CO (5156 N Academy Blvd)" >}}">Colorado Springs, CO (5156 N Academy Blvd)</a></td>
+<td>138</td>
+<td>4599</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Meriden, CT (533 S Broad St)" >}}">Meriden, CT (533 S Broad St)</a></td>
+<td>140</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Cedar Falls, IA (5911 University Ave 100)</td>
+<td>141</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Hempstead, NY (162 Fulton Ave)" >}}">Hempstead, NY (162 Fulton Ave)</a></td>
+<td>142</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Villa Park, IL (200 W Roosevelt Rd)" >}}">Villa Park, IL (200 W Roosevelt Rd)</a></td>
+<td>144</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Concord, NC (7970 Lyles Lane)" >}}">Concord, NC (7970 Lyles Lane)</a></td>
+<td>148</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Sioux Falls, SD (2600 Louise Ave)</td>
+<td>150</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Alpharetta, GA (925 North Point Dr)</td>
+<td>151</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Hickory, NC (2032 Catawba Valley Blvd)</td>
+<td>152</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Boca Raton, FL (21699-A State Rd)</td>
+<td>154</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Dallas, TX (13364 Montfort Dr)" >}}">Dallas, TX (13364 Montfort Dr)</a></td>
+<td>155</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Mays Landing, NJ (4215 Black Horse Pike)" >}}">Mays Landing, NJ (4215 Black Horse Pike)</a></td>
+<td>156</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/San Antonio, TX (11735 Bandera Rd)" >}}">San Antonio, TX (11735 Bandera Rd)</a></td>
+<td>160</td>
+<td>5000</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Grapevine, TX (2755 E Grapevine Mills Circle)" >}}">Grapevine, TX (2755 E Grapevine Mills Circle)</a></td>
+<td>161</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Cordova, TN (1636 N Germantown Pkwy)</td>
+<td>166</td>
+<td>1401</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Murfreesboro, TN (1720 Old Fort Pkwy)" >}}">Murfreesboro, TN (1720 Old Fort Pkwy)</a></td>
+<td>167</td>
+<td>1401</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Hampton, VA (5 Towne Centre Way)" >}}">Hampton, VA (5 Towne Centre Way)</a></td>
+<td>169</td>
+<td>1401</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Bridgeville, PA (1035 Washington Pike)" >}}">Bridgeville, PA (1035 Washington Pike)</a></td>
+<td>170</td>
+<td>1401</td>
+</tr>
+<tr>
+<td><a href="{{< ref "wiki/Rockville, MD (5270 Randolph Rd)" >}}">Rockville, MD (5270 Randolph Rd)</a></td>
+<td>173</td>
+<td>1401</td>
+</tr>
+<tr>
+<td> <a href="{{< ref "wiki/Denton, TX (341 South I-35)" >}}">Denton, TX (341 South I-35)</a></td>
+<td>176</td>
+<td>1401</td>
+</tr>
+<tr>
+<td>Houston, TX (600 Gulfgate Mall Center)</td>
+<td>177</td>
+<td>1401</td>
+</tr>
+<tr>
+<td>Frederick, MD (7210 Guilford Dr)</td>
+<td>183</td>
+<td>1401</td>
+</tr>
+</table>
+
 
 
 
 
 <h2>Stages Used In</h2>  
 
-*[[Studio C (1997)|Studio C Alpha]]: Installed from 1997-2002, 2012, 2015. 8 left as of August 2024
-*[[Studio C Prototype|Studio C Alpha/Beta Mix]]: Installed from 2000-2001. None left as of October 2022
-*[[Studio C 2000|Studio C Beta, 32m]]: Installed from 2000-2003, 2009, 2019. 1 left as of August 2024
-*[[Circles of Light|Circles Of Light, 32m]]: Installed from 2012, 2013, 2015. 1 left as of August 2024
+*Studio C (1997)|Studio C Alpha: Installed from 1997-2002, 2012, 2015. 8 left as of August 2024
+*Studio C Prototype|Studio C Alpha/Beta Mix: Installed from 2000-2001. None left as of October 2022
+*Studio C 2000|Studio C Beta, 32m: Installed from 2000-2003, 2009, 2019. 1 left as of August 2024
+*<a href="{{< ref "wiki/Circles of Light" >}}">Circles Of Light, 32m</a>: Installed from 2012, 2013, 2015. 1 left as of August 2024
 
 <h2>Trivia </h2>
 

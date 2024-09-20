@@ -17,7 +17,7 @@ The History behind why Biphase Mark Code was made is pretty simple, Biphase mark
 Biphase Mark Code is used in Network Systems as it allows them to use 1 cable for transmitting and 1 for receiving instead of 2 for both because BMC has Clock Recovery abilities and doesn't require the need for a seperate wire for the clock itself. [TODO: Add more to this]
 
 
-Biphase Mark Code was also used in the [[Pianocorder Data Format|Pianocorder System]] which is the sole reason this page exists. The use of BMC for the pianocorder turned out to be very handy as all the pianocorder has to do is detect the edges, sync bit and also waveshape the signal to then be able to make suitable outputs.
+Biphase Mark Code was also used in the <a href="{{< ref "wiki/Pianocorder Data Format" >}}">Pianocorder System</a> which is the sole reason this page exists. The use of BMC for the pianocorder turned out to be very handy as all the pianocorder has to do is detect the edges, sync bit and also waveshape the signal to then be able to make suitable outputs.
 
 <h2>= How to Encode BMC </h2>=
 To Encode BMC (Biphase Mark Code) via Digital Encoding you would want to make roughly around 4 - 6 Audio Files.
@@ -30,7 +30,7 @@ Firstly, You want to make a few tones. These tones will be your clock signals. Y
 Secondly, You want to make a tone that your regular 0 clock will be on. This clock is for when your data shows a 0. Using the example above since our Biphase audio's tone is at 4.5KHZ make sure you use half of the frequency, so I would use 2.25KHZ. When you make the tone you want to select only the high part and export that and you want to get also only the low part. This is key as sometimes you will come across a 1 after a high part. I will provide some images to show what I mean
 
 
-Now this part is optional but you can also make your own way to find the end of a data frame and also to synchronize the frames so data doesn't fall out of sync and the data doesn't start doing other things it shouldn't be doing. To do this you would want to add at the end of a frame a audio file or even just a combination of 0's and 1's. 8 bits should work as the [[Pianocorder Data Format|Pianocorder]] does use only 8 bits to sync but if you want to make sure you don't accidentally set off your sync bit due to the data you encode you can make it more lengthy. For example instead of the Pianocorder's 11111101 for its sync bit you could use 1000111001100011 which decodes to 8E63 in hex.
+Now this part is optional but you can also make your own way to find the end of a data frame and also to synchronize the frames so data doesn't fall out of sync and the data doesn't start doing other things it shouldn't be doing. To do this you would want to add at the end of a frame a audio file or even just a combination of 0's and 1's. 8 bits should work as the <a href="{{< ref "wiki/Pianocorder Data Format" >}}">Pianocorder</a> does use only 8 bits to sync but if you want to make sure you don't accidentally set off your sync bit due to the data you encode you can make it more lengthy. For example instead of the Pianocorder's 11111101 for its sync bit you could use 1000111001100011 which decodes to 8E63 in hex.
 
 
 After you have made your Audio Files you can begin the next part which would be to create a program to generate the sequence of biphase.

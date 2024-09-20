@@ -6,7 +6,7 @@
 {{- .Content | safeHTML}}
 
 <hr>
-<div class="contributors"><strong>Article Contributed By:</strong>
+<div class="contributors"><strong>Article Contributed By: </strong>
   {{- if .Params.article.contributors -}}
     {{- $len := len .Params.article.contributors -}}
     {{- range $index, $element := .Params.article.contributors -}}
@@ -17,7 +17,8 @@
       {{- else -}}
         {{- $element -}}
       {{- end -}}
-      {{- if lt (add $index 1) $len -}}, {{- end -}}
+      {{- if lt (add $index 1) $len -}}{{- ", " -}}
+      {{- end -}}
     {{- end -}}
   {{- else -}}
     <strong>NOOOOBODY!!!!!</strong>

@@ -10,18 +10,18 @@ endDate = ""
 contributors = ["Himitsu","The 64th Gamer","2600:2B00:732F:E700:10A2:7CCE:3A01:108","CEC Tinley","GallaRBX2"]
 +++
 
-The <b>Studio C Control System</b> manages all elements of the animatronic show at Chuck E Cheese locations featuring the [Studio C]({{< ref "wiki/Studio C.html" >}}) show type, in addition to controlling some ancillary equipment such as the Karaoke system (during the period in which it was being used).
+The <b>Studio C Control System</b> manages all elements of the animatronic show at Chuck E Cheese locations featuring the <a href="{{< ref "wiki/Studio C" >}}">Studio C</a> show type, in addition to controlling some ancillary equipment such as the Karaoke system (during the period in which it was being used).
 
 This system is a major technological departure from the previous show control systems used by the chain, marking a move to using more standard hardware and protocols. It is also the first Chuck E Cheese control system able to seek to arbitrary, frame-addressable locations on the accompanying video.
 
-It is believed that this system is an evolution of a control system originally designed for the [Awesome Adventure Machine]({{< ref "wiki/Awesome Adventure Machine.html" >}}) show.
+It is believed that this system is an evolution of a control system originally designed for the <a href="{{< ref "wiki/Awesome Adventure Machine" >}}">Awesome Adventure Machine</a> show.
 
-Some Studio C documentation includes references to the video system of the Studio C Interactive Console used at [Studio C Alpha]({{< ref "wiki/Studio C Alpha.html" >}}) locations. The video portion of the Interactive Console system is not discussed on this page as it has no direct connections to the rest of the show video control system.
+Some Studio C documentation includes references to the video system of the Studio C Interactive Console used at <a href="{{< ref "wiki/Studio C Alpha" >}}">Studio C Alpha</a> locations. The video portion of the Interactive Console system is not discussed on this page as it has no direct connections to the rest of the show video control system.
 
 Laserdiscs were used for audio and video storage in the earliest deployments of this system. All deployments later moved to the DVD format. The term 'VDP' will be used to refer to players of either of these formats interchangeably, as the type of media makes no significant difference to the architecture of the system.
 
 <h2> Show Computer </h2>
-The <b>Show Computer</b> manages all functions of the show. It is comprised of a standard x86 PC running an unknown variant of DOS and the [Cyberstar 2000]({{< ref "wiki/Cyberstar 2000.html" >}}) software, with a few additional hardware components including a custom ISA card. The user interface is controlled through an integrated display on the computer's front panel, and a keyboard on a rack shelf. Show data and software updates are loaded through a 3.5' 1.44MB floppy disk drive. This data is copied to and run from internal storage, using a Maxtor 3.5 Series DiamondMax Plus 8 40GB ATA/133 HDD.
+The <b>Show Computer</b> manages all functions of the show. It is comprised of a standard x86 PC running an unknown variant of DOS and the <a href="{{< ref "wiki/Cyberstar 2000" >}}">Cyberstar 2000</a> software, with a few additional hardware components including a custom ISA card. The user interface is controlled through an integrated display on the computer's front panel, and a keyboard on a rack shelf. Show data and software updates are loaded through a 3.5' 1.44MB floppy disk drive. This data is copied to and run from internal storage, using a Maxtor 3.5 Series DiamondMax Plus 8 40GB ATA/133 HDD.
 
 <h2>= Expansion cards </h2>=
 
@@ -46,34 +46,40 @@ The Transmitter Card is its own self-contained computer system based around a CP
 The 'Transmitter Card' name comes from the store technician documentation. Internally, the Cyberstar 2000 software refers to this card as 'DPC50'.
 
 <h2> DTUs </h2>
-The Studio C system contains two <b>DTUs</b>, used to control air valves on the characters and solid-state relays for lighting. Each DTU is based around a CPU Card and provides 64 open-collector digital output channels, with on-board LEDs showing the status of each channel. A [Studio C Tech Term]({{< ref "wiki/Studio C Tech Term.html" >}}) can be connected to a DTU for diagnostic and troubleshooting purposes. The Tech Term connectors on both DTUs are typically wired out to a keystone wall plate for easier access when working on the show.
+The Studio C system contains two <b>DTUs</b>, used to control air valves on the characters and solid-state relays for lighting. Each DTU is based around a CPU Card and provides 64 open-collector digital output channels, with on-board LEDs showing the status of each channel. A <a href="{{< ref "wiki/Studio C Tech Term" >}}">Studio C Tech Term</a> can be connected to a DTU for diagnostic and troubleshooting purposes. The Tech Term connectors on both DTUs are typically wired out to a keystone wall plate for easier access when working on the show.
 
 'DTU' Stands for Digital Terminal Unit.
 
 <h2> CPU Card </h2>
 The <b>CPU Card</b> is a standardized 68HC11-based microcontroller module used in several Studio C systems. The module itself is a generic design, and a socketed EPROM contains the program specific for the hardware in which it is installed. It connects to the host system through two large pin headers which presumably expose most of the system bus. An on-board RS-232 port is available via a modular connector.
-{| class='wikitable'
-|+CPU Card Specifications
-|<b>MCU</b>
-|MC68HC11F1CFN4 @ 16MHz
-|
-|-
-|<b>ROM</b>
-|Socketed 27C256 EPROM
-|AT27C256R OTP variant apparently used
-|-
-|<b>RAM</b>
-|1KByte
-|Internal to MCU
-|-
-|<b>EEPROM</b>
-|512 bytes
-|Internal to MCU
-|-
-|<b>Interfaces</b>
-|RS-232, raw system bus
-|
-|}
+<table>
+<tr>
+<td><b>MCU</b></td>
+<td>MC68HC11F1CFN4 @ 16MHz</td>
+<td></td>
+</tr>
+<tr>
+<td><b>ROM</b></td>
+<td>Socketed 27C256 EPROM</td>
+<td>AT27C256R OTP variant apparently used</td>
+</tr>
+<tr>
+<td><b>RAM</b></td>
+<td>1KByte</td>
+<td>Internal to MCU</td>
+</tr>
+<tr>
+<td><b>EEPROM</b></td>
+<td>512 bytes</td>
+<td>Internal to MCU</td>
+</tr>
+<tr>
+<td><b>Interfaces</b></td>
+<td>RS-232, raw system bus</td>
+<td></td>
+</tr>
+</table>
+
 The CPU Card is used in the Transmitter Card, COP Controller, and DTUs.
 
 Early versions of the module require manually jumper pins 2-3 on JP6 for use in a COP Controller. This jumper can be left in place for use in other hardware. The jumper's actual function is unknown.
