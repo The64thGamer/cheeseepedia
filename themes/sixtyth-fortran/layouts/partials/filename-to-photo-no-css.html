@@ -6,11 +6,9 @@
 
   {{- if gt (len $pages) 0 -}}
     {{- $pages := index $pages 0 -}}
-    <div class="article-photo-image">
       <a href="{{- $pages.RelPermalink -}}">
         <img src="{{- printf "/photos/%s" . -}}" alt="{{- $pages.Title -}}" />
       </a>
-    </div>
     <div class="article-photo-description">
       {{- $pages.Params.description -}}
     </div>

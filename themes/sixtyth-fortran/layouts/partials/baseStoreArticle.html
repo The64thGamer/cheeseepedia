@@ -1,5 +1,5 @@
 <div class="article-store-thumbnail">
-  {{- partial "filename-to-photo.html" .Params.Article.pageThumbnailFile -}}
+  {{- partial "filename-to-photo-no-css.html" .Params.Article.pageThumbnailFile -}}
 </div>{{- partial "editButton.html" . -}}
 <h1>{{- .Title | safeHTML -}}</h1><hr>
 
@@ -9,7 +9,7 @@
 {{- .Content | safeHTML}}
 <hr>
 <h2>Gallery</h2>
-<div class="gallery-image">
+<div class="gallery">
   {{- $currentPageTitle := .Title -}} <!-- Get the base page title -->
   {{- $photos := where site.RegularPages "Section" "photos" -}} <!-- Search pages under content/photos -->
   {{- range sort $photos "Params.date" -}}
