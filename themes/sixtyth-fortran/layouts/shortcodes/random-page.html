@@ -1,4 +1,4 @@
-{{- $pages := where (shuffle (where .Site.RegularPages "Section" "wiki")) "Content" "!=" "" -}}
+{{- $pages := where (shuffle (where .Site.RegularPages "Section" "wiki")) ".File.Dir" "==" "/wiki/" -}}
 {{- $randomPage := index $pages 0 -}}
 
 <div class="list-page-block-special">

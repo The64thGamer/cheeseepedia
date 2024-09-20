@@ -7,8 +7,38 @@
 {{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
 
 {{- .Content | safeHTML}}
-
 <hr>
+<h2>Gallery</h2>
+<div class="gallery-image">
+  {{- $currentPageTitle := .Title -}} <!-- Get the base page title -->
+  {{- $photos := where site.RegularPages "Section" "photos" -}} <!-- Search pages under content/photos -->
+  {{- range sort $photos "Params.date" -}}
+    {{- $matches := false -}} <!-- Flag to track if title matches in photos.pages array -->
+    {{- range .Params.pages -}} <!-- Iterate through the pages array in photos parameter -->
+      {{- if eq . $currentPageTitle -}} <!-- Check if the current page title matches -->
+        {{- $matches = true -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- if $matches -}} <!-- If a match is found, display the photo -->
+      <div class="gallery-image-box">
+          {{- partial "filename-to-photo.html" .Title -}}
+      </div>
+    {{- end -}}
+  {{- end -}}
+</div>
+<hr>
+{{- if .Params.article.citations -}}
+  <div class="citations">
+    <h2>References</h2>
+    <ol>
+      {{- range .Params.article.citations -}}
+        <li>{{ . }}</li>
+      {{- end -}}
+    </ol>
+  </div>
+  <hr>
+{{- end -}}
 <div class="contributors"><strong>Article Contributed By: </strong>
   {{- if .Params.article.contributors -}}
     {{- $len := len .Params.article.contributors -}}
@@ -20,7 +50,8 @@
       {{- else -}}
         {{- $element -}}
       {{- end -}}
-      {{- if lt (add $index 1) $len -}}, {{- end -}}
+      {{- if lt (add $index 1) $len -}}{{- ", " -}}
+      {{- end -}}
     {{- end -}}
   {{- else -}}
     <strong>NOOOOBODY!!!!!</strong>
