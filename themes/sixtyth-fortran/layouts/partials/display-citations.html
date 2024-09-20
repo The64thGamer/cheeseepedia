@@ -1,0 +1,11 @@
+{{- if .Params.article.citations -}}
+  <div class="citations">
+    <h2>References</h2>
+    <ol>
+      {{- range .Params.article.citations -}}
+        <li>{{ . }}</li>
+      {{- end -}}
+    </ol>
+  </div>
+  <hr>
+{{- end -}}

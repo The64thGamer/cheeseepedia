@@ -348,6 +348,10 @@ footer {
   color: var(--deep-white);
 }
 
+header {
+  margin-bottom: 2em;
+}
+
 hr
 {
   border: .2em solid var(--brown);

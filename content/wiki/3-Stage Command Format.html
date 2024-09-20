@@ -11,8 +11,8 @@ contributors = ["The 64th Gamer","Ls2018-1"]
 citations = []
 +++
 
-<p><h2>Post-93 Bit Shift</h2></p>
-<p>In May of 1993, starting with the <a href="{{< ref "wiki/Best of CEC TV 1993" >}}">Best of CEC TV 1993</a> showtape, the data placed on the tape would be shifted alongside updating the <a href="{{< ref "wiki/3-Stage Control System" >}}">3-Stage Control System's</a> EPROM chip to read the shifted data. This would be done to invalidate all previous shows from being played.</p>
-<p>The format for this shift was applying an XOR mask to the second byte of the movement controls, being XOR 0x1F. This is the same operation for converting pre-93 signals to post-93, and decoding post-93 signals back.</p>
-<p>Example:</p>
-<p>A movement command, 1@ (ASCII characters) is provided. XOR-ing the second byte, '@', with 0x1F (hex number) will provide an ASCII character '_', making the new command 1_. XOR-ing '_' with 0x1F once again will return it to being '@'.</p>
+<h2>Post-93 Bit Shift</h2>
+In May of 1993, starting with the <a href="{{< ref "wiki/Best of CEC TV 1993" >}}">Best of CEC TV 1993</a> showtape, the data placed on the tape would be shifted alongside updating the <a href="{{< ref "wiki/3-Stage Control System" >}}">3-Stage Control System's</a> EPROM chip to read the shifted data. This would be done to invalidate all previous shows from being played.
+The format for this shift was applying an XOR mask to the second byte of the movement controls, being XOR 0x1F. This is the same operation for converting pre-93 signals to post-93, and decoding post-93 signals back.
+Example:
+A movement command, 1@ (ASCII characters) is provided. XOR-ing the second byte, '@', with 0x1F (hex number) will provide an ASCII character '_', making the new command 1_. XOR-ing '_' with 0x1F once again will return it to being '@'.
