@@ -9,7 +9,6 @@
       <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
       {{- else -}}
       <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
-
       {{- end -}}
     </a>
   </div>
@@ -18,7 +17,7 @@
   </div>
 {{- else -}}
   <div class="article-photo-image">
-    <a href="{{- .RelPermalink -}}">
+    <a href="{{- . -}}">
       <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
     </a>
   </div>
