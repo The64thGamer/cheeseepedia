@@ -1,9 +1,9 @@
 <div class="tri-column">
   <ul>
-      {{ range .Site.RegularPages }}
-        {{ if not .Params.tags }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      {{ end }}
+      {{- range .Site.RegularPages -}}
+        {{- if not .Params.tags -}}
+          <li><a href="{{- .Permalink -}}">{{- .Title -}}</a></li>
+        {{- end -}}
+      {{- end -}}
   </ul>
 </div>

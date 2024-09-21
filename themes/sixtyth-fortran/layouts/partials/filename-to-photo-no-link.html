@@ -1,0 +1,13 @@
+{{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
+  <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+{{- else -}}
+  {{- $photos := partialCached "grab-all-photos.html" "key"}}
+  {{- $pages := first 1 (where $photos "Params.title" "eq" . )}}
+
+  {{- if gt (len $pages) 0 -}}
+    {{- $pages := index $pages 0 -}}
+      <img src="{{- printf "/photos/%s" . -}}" alt="{{- $pages.Title -}}" />
+  {{- else -}}
+      <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+  {{- end -}}
+{{- end -}}

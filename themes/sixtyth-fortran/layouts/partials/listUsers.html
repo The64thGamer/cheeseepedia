@@ -1,31 +1,31 @@
 <h1>User List</h1>
-{{ $contributorCounts := dict }} <!-- Initialize an empty dictionary to store contributor counts -->
+{{- $contributorCounts := dict -}} <!-- Initialize an empty dictionary to store contributor counts -->
 
-{{ range .Site.RegularPages }} <!-- Loop through all regular pages (articles) -->
-  {{ with .Params.article.contributors }} <!-- Check if the article has contributors -->
-    {{ range . }} <!-- Loop through each contributor -->
-      {{ $key := .}} <!-- Normalize the contributor name -->
-      {{ if not (index $contributorCounts $key) }} <!-- If the contributor is not already in the dictionary -->
-        {{ $contributorCounts = merge $contributorCounts (dict $key 1) }} <!-- Add the contributor with a count of 1 -->
-      {{ else }}
-        {{ $currentCount := index $contributorCounts $key }}
-        {{ $contributorCounts = merge $contributorCounts (dict $key (add $currentCount 1)) }} <!-- Increment the count -->
-      {{ end }}
-    {{ end }}
-  {{ end }}
-{{ end }}
+{{- range .Site.RegularPages -}} <!-- Loop through all regular pages (articles) -->
+  {{- with .Params.article.contributors -}} <!-- Check if the article has contributors -->
+    {{- range . -}} <!-- Loop through each contributor -->
+      {{- $key := .}} <!-- Normalize the contributor name -->
+      {{- if not (index $contributorCounts $key) -}} <!-- If the contributor is not already in the dictionary -->
+        {{- $contributorCounts = merge $contributorCounts (dict $key 1) -}} <!-- Add the contributor with a count of 1 -->
+      {{- else -}}
+        {{- $currentCount := index $contributorCounts $key -}}
+        {{- $contributorCounts = merge $contributorCounts (dict $key (add $currentCount 1)) -}} <!-- Increment the count -->
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 <!-- Convert the dictionary to a slice for sorting -->
-{{ $sortedContributors := slice }}
-{{ range $key, $value := $contributorCounts }}
-  {{ $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) }}
-{{ end }}
+{{- $sortedContributors := slice -}}
+{{- range $key, $value := $contributorCounts -}}
+  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
+{{- end -}}
 
 <!-- Sort the slice by count in descending order -->
-{{ $sortedContributors = sort $sortedContributors "count" "desc" }}
+{{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
 
 <!-- Count of unique contributors -->
-{{ $contributorCount := len $sortedContributors }}
+{{- $contributorCount := len $sortedContributors -}}
 
 
 <!-- Print the sorted list of contributors -->
@@ -33,16 +33,16 @@
 <hr>
 <div class="tri-column">
   <ul>
-  {{ range $sortedContributors }}
-    {{- $path := printf "content/wiki/Users/%s.md" .name -}}
-    {{- if fileExists $path }}
+  {{- range $sortedContributors -}}
+    {{- $path := printf "content/wiki/Users/%s.html" .name -}}
+    {{- if fileExists $path -}}
         {{- $slug := replace .name " " "-"| lower  -}}
-        <li><a href="{{ relURL (printf "wiki/users/%s/" $slug) }}">{{ .name }}</a><sup> (+{{ .count }})</sup></li>
-    {{- else }}
-    <li>{{ .name }}<sup> (+{{ .count }})</sup></li>
+        <li><a href="{{- relURL (printf "wiki/users/%s/" $slug) -}}">{{- .name -}}</a><sup> (+{{- .count -}})</sup></li>
+    {{- else -}}
+    <li>{{- .name -}}<sup> (+{{- .count -}})</sup></li>
     {{- end -}}
-  {{ end }}
+  {{- end -}}
   </ul>
 </div>
 </div>
-  {{ .Content | markdownify | safeHTML }}
+  {{- .Content | markdownify | safeHTML -}}

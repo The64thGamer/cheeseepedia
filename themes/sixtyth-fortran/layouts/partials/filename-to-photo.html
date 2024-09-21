@@ -1,19 +1,20 @@
-{{- $filename := . -}}
-{{- $imagePath := printf "/photos/%s" $filename -}}
-{{- $fallbackImage := "/UI/File Not Found.jpg" -}}
-
-{{- if not (fileExists (printf "static/photos/%s" $filename)) -}}
-  {{- $imagePath = $fallbackImage -}}
-{{- end -}}
-
-{{- $pages := where site.RegularPages "Section" "photos" -}}
-{{- $matchingPages := where $pages "Title" "eq" $filename -}}
-
-{{- if gt (len $matchingPages) 0 -}}
-  {{- $firstMatchingPage := index $matchingPages 0 -}}
-  <a href="{{ $firstMatchingPage.RelPermalink }}">
-    <img src="{{ $imagePath }}" alt="{{ $firstMatchingPage.Title }}" />
-  </a>
+{{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
+  <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
 {{- else -}}
-  <img src="{{ $imagePath }}" alt="{{ $filename }}" />
+  {{- $photos := partialCached "grab-all-photos.html" "key"}}
+  {{- $pages := first 1 (where $photos "Params.title" "eq" . )}}
+
+  {{- if gt (len $pages) 0 -}}
+    {{- $pages := index $pages 0 -}}
+    <div class="article-photo-image">
+      <a href="{{- $pages.RelPermalink -}}">
+        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $pages.Title -}}" />
+      </a>
+    </div>
+    <div class="article-photo-description">
+      {{- $pages.Params.description -}}
+    </div>
+  {{- else -}}
+    <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+  {{- end -}}
 {{- end -}}

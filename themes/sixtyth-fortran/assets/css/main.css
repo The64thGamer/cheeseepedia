@@ -39,9 +39,14 @@ html{
 h1{
   font-family: "RockoFLF";
   letter-spacing: .2rem;
-  font-size: 3rem;
+  font-size: 2rem;
   color: var(--yellow);
   margin: 0;
+}
+
+h2{
+  font-size: 1.5rem;
+  color: var(--yellow);
 }
 
 .tri-column ul {
@@ -49,11 +54,71 @@ h1{
   overflow-wrap: break-word;
 }
 
-.list-page-summary {
-  margin-left: 3rem;
-  font-family: "Aleo";
-  color: var(--white);
+.list-page-block {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-content: space-between;
+  color: var(--yellow);
+  background-color: var(--blue);
+  font-family: "RockoFLF";
+  font-size: 1em;
+  line-height: 1.5;
+  max-width: 55em;
+  min-width: 30em;
+  max-height: 5.5em;
+  min-height: 5.5em;
+  border-color: var(--brown);
+  border-style: solid;
+  border-width: .25em;
+  border-radius: 5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0 0 0.25em var(--orange);
+  overflow: hidden;
 }
+
+.list-page-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.list-image img{
+  border-radius: 1em;
+  max-width: 8em;
+  min-width: 8em;
+  overflow: hidden;
+  margin-right: 1em;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.list-page-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  max-width: 25em;
+  font-size: 1.5em;
+  align-self: center;
+  margin-right: 1em;
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+  line-height: 1.25em;
+}
+
+.edit-button-container {
+  align-self: center;
+  min-width: 10em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 1em;
+}
+
 .list-page-date {
   color: var(--yellow);
   font-size: .75em;
@@ -84,32 +149,13 @@ h1{
   box-shadow: 0 0 0 .75em var(--brown), inset 0 0 0 0.25em var(--white);
 }
 
-.list-page-block {
-  position: relative;
-  color: var(--yellow);
-  background-color: var(--blue);
-  font-family: "RockoFLF";
-  font-size: 1em;
-  line-height: 1.5; 
-  margin: 0 auto;
-  max-width: 55em;
-  min-width: 30em;
-  border-color: var(--brown);
-  border-style: solid;
-  border-width: .5em;
-  border-radius: 5em;
-  padding-left: 3em;
-  padding-right: 3em;
-  padding-top: .5em;
-  padding-bottom: 1.5em;
-  margin-top: .75em;
-  margin-bottom: .75em;
-  box-shadow: inset 0 0 0 0.5em var(--orange);
-
-}
-
 .contributors{
   color: var(--yellow); 
+  word-wrap: break-word;
+}
+
+.citations{
+  color: var(--white); 
 }
 
 .button{
@@ -121,7 +167,7 @@ h1{
   max-width: 40vw;
   border-color: var(--brown);
   border-style: solid;
-  border-width: .5em;
+  border-width: .25em;
   border-radius: 8em;
   padding-left: 1em;
   padding-right: 1em;
@@ -135,29 +181,100 @@ h1{
   line-height: normal;
 }
 
-.gallery-image{
+.gallery-image-box{
+  max-width: 11em;
+  min-width: 11em;
+  margin: .5em;
+  display: block;
+  align-content: flex-start;
+  align-self: stretch;
+}
+
+.gallery{
   display: flex;
   flex-wrap: wrap;
-  align-content: space-around;
+  align-items: stretch;
 }
 
-.gallery-image-box{
-  height: 10em;
-  width: 10em;
-  margin: 1em;
-}
-
-.gallery-image img{
-  object-fit: contain;
-  max-width: 100%;
-  max-height: 100%;
-  width: auto;
-  height: auto;
-  background-color: var(--brown);
+.article-photo-image{
+  max-width: 11em;
+  max-height: 11em;
+  min-width: 11em;
+  min-height: 11em;
+  display: block;
+  overflow: hidden;
+  border-width: 0.25em;
   border-color: var(--white);
   border-style: solid;
-  border-width: .5em;
+  border-radius: 0.5em;
+  align-content: center;
+  background-color: var(--brown);
+}
+
+.article-photo-image img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 0.5em;
+}
+
+.article-store-thumbnail{
+  max-height: 35em;
+  border-radius: 1em;
+  width: auto;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: -4.5em;
+  margin-right: -4.5em;
+}
+
+.article-store-thumbnail img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.article-photo-thumbnail{
+  border-radius: 1em;
+  width: auto;
+  height: auto;
+  overflow: hidden;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: -4.5em;
+  margin-right: -4.5em;
+}
+
+.article-photo-thumbnail img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.article-thumbnail img{
+  height: auto;
+  max-width: 20em;
+  min-width: 20em;
+  border-width: .25em;
   border-radius: .5em;
+  border-color: var(--white);
+  border-style: solid;
+}
+
+.article-thumbnail{
+  float: right;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  max-width: 20em;
+  min-width: 20em;
+}
+
+.article-photo-description {
+  margin: 0.5em;
+  text-align: center;
 }
 
 .button a{
@@ -166,6 +283,41 @@ h1{
 
 .contributors sup{
   color: var(--white); 
+}
+
+sup{
+  color: var(--yellow); 
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em;
+  text-align: left;
+}
+
+/* Table borders */
+table, th, td {
+  border: .25em solid var(--brown);
+  min-width: 5em;
+}
+
+/* Table headers */
+th {
+  background-color: var(--orange);
+  color: var(--white);
+  padding: 0.5em;
+}
+
+/* Table cells */
+td {
+  padding: 0.5em;
+}
+
+/* Caption styling */
+caption {
+  font-weight: bold;
+  margin-bottom: 1em;
 }
 
 .fun-text{
@@ -194,6 +346,10 @@ h1{
 footer {
   margin-top: 3em;
   color: var(--deep-white);
+}
+
+header {
+  margin-bottom: 2em;
 }
 
 hr
