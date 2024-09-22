@@ -1,7 +1,7 @@
 <h2>Gallery</h2>
 <div class="gallery">
   {{- $currentPageTitle := .Title -}} <!-- Get the base page title -->
-  {{- $photos := where site.RegularPages "Section" "photos" -}} <!-- Search pages under content/photos -->
+  {{- $photos := partialCached "grab-all-photos.html" "key"}}
   {{- range sort $photos "Params.date" -}}
     {{- $matches := false -}} <!-- Flag to track if title matches in photos.pages array -->
     {{- range .Params.pages -}} <!-- Iterate through the pages array in photos parameter -->

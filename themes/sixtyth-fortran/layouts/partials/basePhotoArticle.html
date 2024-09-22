@@ -1,17 +1,26 @@
+
+{{- partial "editButton.html" . -}}
+{{- partial "display-breadcrumbs.html" . -}}
+<h1>{{- .Title | safeHTML -}}</h1>
+
 <div class="article-photo-thumbnail">
   {{- partial "filename-to-photo-no-css.html" .Title -}}
 </div>
-{{- partial "editButton.html" . -}}
-{{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- .Title | safeHTML -}}</h1><hr>
 
 {{- $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") -}}
 {{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
 
+<h2>Tagged Articles</h2>
+{{- $callerPages := .Params.pages -}}
+{{- $pages := partialCached "grab-all-wiki-articles.html" . }}
+{{- range $pages -}}
+  {{- $pageTitle := .Title}}
+  {{- if in $callerPages $pageTitle -}}
+    {{- partial "display-page-box.html" . -}}
+  {{- end -}}
+{{- end -}}
+<hr>
 <div class="contributors">
   <strong> Photo taken on: </strong><time datetime="{{- $dateMachine -}}">{{- $dateHuman -}}</time>
 </div>
 <hr>
-<h2>Random Articles</h2>
-{{- partial "random-page.html" .}}
-{{- partial "random-page.html" .}}

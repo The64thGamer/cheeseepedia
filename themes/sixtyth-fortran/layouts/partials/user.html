@@ -9,7 +9,7 @@
 <h2>I contributed to these pages!</h2>
 
 {{- $currentTitle := .Title -}}
-{{- $pages := where .Site.Pages "Section" "wiki" -}}
+{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
 <div class="tri-column">
   <ul>
     {{- range $pages -}}

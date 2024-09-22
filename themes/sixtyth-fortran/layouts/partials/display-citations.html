@@ -3,7 +3,7 @@
     <h2>References</h2>
     <ol>
       {{- range .Params.article.citations -}}
-        <li>{{ . }}</li>
+        <li>{{ . | safeHTML }}</li>
       {{- end -}}
     </ol>
   </div>

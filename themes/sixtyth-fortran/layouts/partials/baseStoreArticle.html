@@ -1,10 +1,10 @@
-<div class="article-store-thumbnail">
-  {{- partial "filename-to-photo-no-css.html" .Params.Article.pageThumbnailFile -}}
-</div>
+
 {{- partial "editButton.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
 <h1>{{- .Title | safeHTML -}}</h1><hr>
-
+<div class="article-store-thumbnail">
+  {{- partial "filename-to-photo-no-css.html" .Params.Article.pageThumbnailFile -}}
+</div>
 {{- .Content | safeHTML}}
 <hr>
 {{- partial "display-gallery.html" . -}}

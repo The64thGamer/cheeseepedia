@@ -1,21 +1,5 @@
 {{- $photos := partialCached "grab-all-photos.html" "key"}}
-{{- $pages := first 1 (where $photos "Params.title" "eq" . )}}
-
-{{- if gt (len $pages) 0 -}}
-  {{- $page := index $pages 0 -}}
-  <div class="article-photo-image">
-    <a href="{{- $page.RelPermalink -}}">
-      {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
-      <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
-      {{- else -}}
-      <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
-      {{- end -}}
-    </a>
-  </div>
-  <div class="article-photo-description">
-    {{- $page.Params.description -}}
-  </div>
-{{- else -}}
+{{- if eq . "" -}}
   <div class="article-photo-image">
     <a href="{{- . -}}">
       <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
@@ -24,4 +8,31 @@
   <div class="article-photo-description">
     {{- . -}}
   </div>
+{{- else -}}
+    {{- $pages := first 1 (where $photos "Params.title" "eq" . )}}
+    {{- if gt (len $pages) 0 -}}
+    {{- $page := index $pages 0 -}}
+    <div class="article-photo-image">
+      <a href="{{- $page.RelPermalink -}}">
+        {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
+        <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
+        {{- else -}}
+        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
+        {{- end -}}
+      </a>
+    </div>
+    <div class="article-photo-description">
+      {{- $page.Params.description -}}
+    </div>
+  {{- else -}}
+    <div class="article-photo-image">
+      <a href="{{- . -}}">
+        <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+      </a>
+    </div>
+    <div class="article-photo-description">
+      {{- . -}}
+    </div>
+    {{- end -}}
 {{- end -}}
+
