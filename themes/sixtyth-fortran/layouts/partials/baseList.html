@@ -5,7 +5,7 @@
     {{- $categories := .Site.Taxonomies.categories -}}
     <option value="all" selected >All Pages</option>
     {{- range $categoryName, $pages := $categories -}}
-      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" -}}</option>
+      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz" -}}</option>
     {{- end -}}
 </select>
 
@@ -22,7 +22,7 @@
         <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
             {{- $hasPages := false -}} <!-- Flag to check if there are pages -->
             {{- range $listPages -}}
-                {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's") -}}
+                {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz") -}}
                     {{- partial "display-page-box.html" . -}}
                     {{- $hasPages = true -}}
                 {{- end -}}

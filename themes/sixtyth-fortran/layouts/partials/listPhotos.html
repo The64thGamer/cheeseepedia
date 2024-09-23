@@ -6,7 +6,7 @@
     {{- $categories := .Site.Taxonomies.categories -}}
     <option value="all" selected >All Pages</option>
     {{- range $categoryName, $pages := $categories -}}
-      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" -}}</option>
+      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz" -}}</option>
     {{- end -}}
 </select>
 
@@ -28,7 +28,7 @@
             {{- $hasPages := false -}} <!-- Flag to check if there are pages -->
             <div class="gallery">
                 {{- range sort $listPages.Pages "Params.date" -}}
-                    {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's") -}}
+                    {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz") -}}
                         <div class="gallery-image-box">
                             {{- partial "filename-to-photo.html" .Title -}}
                         </div>
