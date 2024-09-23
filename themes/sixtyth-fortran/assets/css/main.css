@@ -183,8 +183,8 @@ h2{
 }
 
 .gallery-image-box{
-  max-width: 11em;
-  min-width: 11em;
+  max-width: 12.5em;
+  min-width: 12.5em;
   margin: .5em;
   display: block;
   align-content: flex-start;
@@ -198,10 +198,10 @@ h2{
 }
 
 .article-photo-image{
-  max-width: 11em;
-  max-height: 11em;
-  min-width: 11em;
-  min-height: 11em;
+  max-width: 12.5em;
+  max-height: 12.5em;
+  min-width: 12.5em;
+  min-height: 12.5em;
   display: block;
   overflow: hidden;
   border-width: 0.25em;
