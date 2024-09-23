@@ -1,0 +1,65 @@
+<!-- Dropdown to select a category -->
+<select id="categorySelect" onchange="showCategoryTags()">
+    <option value="" disabled>Select a ategory</option>
+    {{- $categories := .Site.Taxonomies.categories -}}
+    <option value="all" selected >All Pages</option>
+    {{- range $categoryName, $pages := $categories -}}
+      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" -}}</option>
+    {{- end -}}
+  </select>
+  <div class="category-tags" id="category-all" style="display: block;">
+    {{ partial "list-all-tags.html" . }}
+    </div>
+  <!-- Container to display selected category's tags -->
+  <div id="tagsContainer">
+    {{- range $categoryName, $pages := $categories -}}
+      <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
+        {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
+        {{- range $pages -}}
+          {{- $currentPage := . -}}
+          {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
+            {{- $tag := . -}}
+            {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
+            {{- if $count -}}
+              {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+            {{- else -}}
+              {{- $tags = merge $tags (dict $tag 1) -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+        <div class="tri-column">
+            <ul>
+            {{- range $tag, $count := $tags -}} <!-- List tags and their counts -->
+            {{- $tagFix := (replace $tag " " "-") -}}
+            {{- $tagFix := (replace $tagFix "&-" "") -}}
+            {{- $tagFix := (replace $tagFix "," "") -}}
+            <li>
+                <a href="{{- ($.Site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}} </i>">{{- $tag -}} </a>
+                <sup>{{- $count -}}</sup>
+            </li>
+            {{- end -}}
+            </ul>
+        </div>
+      </div>
+    {{- end -}}
+  </div>
+  
+  <script>
+    function showCategoryTags() {
+      var select = document.getElementById("categorySelect");
+      var selectedCategory = select.value;
+      
+      // Hide all category tag lists
+      var categories = document.getElementsByClassName("category-tags");
+      for (var i = 0; i < categories.length; i++) {
+        categories[i].style.display = "none";
+      }
+  
+      // Show the selected category's tags
+      var selectedDiv = document.getElementById("category-" + selectedCategory);
+      if (selectedDiv) {
+        selectedDiv.style.display = "block";
+      }
+    }
+  </script>
+  
