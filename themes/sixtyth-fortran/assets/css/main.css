@@ -354,6 +354,7 @@ header {
 
 select
 {
+  margin: 0.5em;
   font-family: "RockoFLF";
   letter-spacing: .1rem;
   color: var(--white);
