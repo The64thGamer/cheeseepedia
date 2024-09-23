@@ -20,11 +20,11 @@
 </div>
 
 <div id="tagsContainer">
-    {{- $listPages := . -}}
+    {{- $listPages := sort .Pages "Params.Article.startDate" -}}
     {{- range $categoryName, $pages := $categories -}}
         <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
             {{- $hasPages := false -}} <!-- Flag to check if there are pages -->
-            {{- range $listPages.Pages -}}
+            {{- range $listPages -}}
                 {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's") -}}
                     {{- partial "display-page-box.html" . -}}
                     {{- $hasPages = true -}}

@@ -30,6 +30,7 @@ body {
   outline-width: 1.5em;
   outline-style: solid;
   box-shadow: 0 0 0 2em var(--brown), inset 0 0 0 0.5em var(--brown);
+  text-wrap: pretty;
 }
 
 html{
