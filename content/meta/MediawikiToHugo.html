@@ -9,15 +9,32 @@ categories = []
 contributors = ["The 64th Gamer"]
 +++
 
-Hello user! Cheese-E-Pedia has moved from Miraheze to being a statically generated Hugo site. This provides many benefits for customization, article formatting, and easy archival of the site for offline use. I wanna go over changes and expectations for what this entails.
+Hello user! Cheese-E-Pedia has moved from Miraheze to being a statically generated Hugo site. This provides many benefits for customization, article formatting, and easy archival of the site for offline use. Let's go over changes and expectations for what this entails.
 
-<h3>Changes</h3>
+<h2>Additions</h2>
 <ul>
-    <li>With this move however, if you're an active contributor this GitHub page will be your new home for submitting edits! You can navigate to each page in /wiki/ and edit its .html file just like editing on the wiki! More resourceful users can fork the repository on your GitHub account, make changes to whatever you need either on-site or downloaded on your desktop, and then submit a "Pull Request" here to have your changes merged into the live site. This process opens you up to not just working on a single article at a time, but you can edit multiple files as a single commit, and can change any section of the site- including its layout and design! Commits will not be automatically live however so we can review your changes. It may be beneficial to now make larger contributions instead of many tiny edits. Pull Requests also have comment sections now, so we may stop a merge from happening by letting you know if there's something you need to fix first.</li>
-    <li>Accounts also technically don't exist anymore! Pages now have a "contributors" section where you'll need to sign off with your username. The site keeps track of every contributor name and will display your contributed pages on your user page, and yes you still do have a user page!</li>
-    <li>The site is now going to lock down more of its templating and styling to ensure page formatting is consistent. For example, standard rules wanted pages to have a ``Template:Generic`` with a picture as the article picture to properly embed it in previews and SEO. A lot of pages however just inserted a normal image in that spot. Now each page will have a multitude of prompts to fill out such as images, a gallery, dates, titles, ect- to keep consistency (and to allow us to change the site design easily without changing articles themselves).</li>
-    <li>Archiving the site, keeping offline copies, and forking it to rehost is now super easy! The entire site is all on this one page, and most web servers (like DigitalOcean) will auto-update the site straight from your GitHub fork for almost 0 cost.</li>
+    <li><b>Locations Map -</b> A full map for all location articles when you visit the locations page. Each marker can be clicked to go to that store. There are sliders that let you change the map's date to any day in the past 40 years, which will show you which locations were open at that time.</li>
+    <li><b>Better Design -</b> The site now has fully custom infrastructure and CSS designed to fit the wiki's needs. All the Mediawiki bloat has been removed for the essentials. Images that were previously haphazardly placed have now been properly formatted to fit into automatic thumbnail and gallery sections.</li>
+    <li><b>More Info When Browsing -</b> All page links now feature a full thumbnail preview and dates. Lists can now be browsed per company/manufactuer with the top dropdown menu, or have all pages displayed at once.</li>
+    <li><b>Easy Photo Viewing -</b> The new photos tag allows sorting through photos from each company, reading their descriptions, and clicking them to see every page they're displayed on.</li>
+    <li><b>Easily Forkable and moddable! -</b> The site is now hosted on a {{< github-repository >}}, which lets you easily fork the site's contents and host it on DigitalOcean for $0! If the site is ever abandoned or I die, it can be reinstated and have work continued like nothing ever happened. This also allows offline copies to be available for archival or browsing without internet! Take Cheese-E-Pedia on your camping trip encase you encounter a scary robot bear and need survival tips!</li>
+    <li><b>Smaller Site Size -</b> The original site took up almost 8gb in space. The new one is now down to 800mb.</li>
 </ul>
 
-<h3>How do I edit?</h3>
-Same as usual! Go to an article and hit the Edit Page button. This will take you to GitHub to edit the exact file. You'll have to make a GitHub account first. After that you'll submit the changes and we'll either comment on any changes or pull it through to the site! Changes won't be instant like they used to so we can review them.
+<h2>Expectations</h2>
+<ul>
+    <li>Be aware, the site is in early access and there may be some weird stuff and adjustments to be made. These are going to be ironed out as soon as possible, or changes you can help contribute. It was needed for the site to switch early so the daily updates could switch over and be worked on- or we would have never had a chance to move!</li>
+    <li>In relation to article dates and map placement, stuff will be weird for a while! A lot of articles are going to say "1984-Present" and the like when something may have closed in 1990. There was a lot in the automatic conversion process of each article that missed a lot of key dates. It is up to the admins and contributors to make an effort to correct those in each article so the site can be more accurate!</li>
+</ul>
+
+<h2>How do I edit?</h2>
+<ul>
+    Same as usual! Go to an article and hit the Edit Page button. This will take you to GitHub to edit the exact file. You'll have to make a GitHub account first. After that you'll submit the changes and we'll either comment on any changes or pull it through to the site! Changes won't be instant like they used to so we can review them.
+</ul>
+
+<h2>What can I do to help this transition?</h2>
+<ul>
+    <li><b>Fix Article Parameters! -</b> Go view the tutorials on how to edit the new articles, and help fix all the parameters that need to be filled in like dates, locations, remodels, ect. This will immediately make browsing more useful and reliable.</li>
+    <li><b>Help with CSS! -</b> If you're someone with CSS experience and notice some wonky designs on the site, especially on mobile, feel free to edit <a href="https://github.com/The64thGamer/cheeseepedia/blob/main/themes/sixtyth-fortran/assets/css/main.css">the CSS file right here!</a></li>
+    <li><b>Patience! -</b> We're doing this all for free and for the love of the community, so give things time to be ironed out! The wiki was originally very shotty for a while until it had time to work on things.</li>
+</ul>
