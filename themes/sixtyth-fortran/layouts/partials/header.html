@@ -1,3 +1,20 @@
+<!--<link href="/pagefind/pagefind-ui.css" rel="stylesheet">-->
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+
+        if (query) {
+            document.querySelector("#search input").value = query;
+            document.querySelector("#search input").dispatchEvent(new Event('input'));
+        }
+    });
+</script>
+
 {{- $contributorCounts := dict -}} <!-- Initialize an empty dictionary to store contributor counts -->
 
 {{- range .Site.RegularPages -}} <!-- Loop through all regular pages (articles) -->
@@ -37,3 +54,5 @@
     Now at <strong>{{- $count -}} </strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
   </div>
 </div>
+
+<div id="search"></div>
