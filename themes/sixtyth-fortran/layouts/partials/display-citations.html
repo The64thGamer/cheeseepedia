@@ -1,8 +1,8 @@
-{{- if .Params.article.citations -}}
+{{- if .Params.citations -}}
   <div class="citations">
     <h2>References</h2>
     <ol>
-      {{- range .Params.article.citations -}}
+      {{- range .Params.citations -}}
         <li>{{ . | safeHTML }}</li>
       {{- end -}}
     </ol>

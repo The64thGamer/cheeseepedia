@@ -2,7 +2,7 @@
     <div class="list-page-container">
         <div class="list-image">
             <a href="{{- .RelPermalink -}}">
-                {{- partial "filename-to-photo-no-link.html" .Params.Article.pageThumbnailFile -}}
+                {{- partial "filename-to-photo-no-link.html" .Params.pageThumbnailFile -}}
             </a>
         </div>
         <div class="list-page-content">
@@ -15,11 +15,11 @@
             </a>
             <div class="list-page-date">
                 {{- $startCheck := false -}}
-                {{- with .Params.Article.startDate -}}
+                {{- with .Params.startDate -}}
                     {{- partial "date-to-readable-date.html" . -}}
                     {{- $startCheck = true -}}
                 {{- end -}}
-                {{- with .Params.Article.endDate -}}
+                {{- with .Params.endDate -}}
                     {{- if $startCheck -}}
                     {{" - "}}{{- partial "date-to-readable-date.html" . -}}
                     {{- else -}}

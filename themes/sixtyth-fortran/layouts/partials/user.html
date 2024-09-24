@@ -14,7 +14,7 @@
   <ul>
     {{- range $pages -}}
       {{- $page := . -}} <!-- Store the current page object in a variable -->
-      {{- with $page.Params.Article.contributors -}}
+      {{- with $page.Params.contributors -}}
         {{- $contributors := . -}}
         {{- if in $contributors $currentTitle -}}
           <li><a href="{{- $page.RelPermalink -}}">{{- $page.Title -}}</a></li>

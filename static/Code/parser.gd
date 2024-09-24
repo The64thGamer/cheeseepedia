@@ -95,7 +95,7 @@ func _ready() -> void:
 			filePage += "\ntags = " + tagLayout
 			filePage += "\ncategories = " + catLayout
 			filePage += "\ndate = \"\""
-			filePage += "\n\n[Article]"
+			filePage += "\n\n"
 			filePage += "\npageThumbnailFile = \"\""
 			filePage += "\nstartDate = \""+catTags[i+2]+"\""
 			filePage += "\nendDate = \"\""
@@ -380,7 +380,7 @@ func ParsePage(index):
 	filePage += "\ntags = " + tagLayout
 	filePage += "\ncategories = " + catLayout
 	filePage += "\ndate = \"" + time + "\""
-	filePage += "\n\n[Article]"
+	filePage += "\n\n"
 	filePage += "\nstartDate = \"" + currentStartDate + "\""
 	filePage += "\nendDate = \"" + currentEndDate + "\""
 	filePage += "\ncontributors = ["

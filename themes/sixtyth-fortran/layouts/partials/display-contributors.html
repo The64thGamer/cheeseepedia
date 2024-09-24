@@ -2,9 +2,9 @@
 {{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
 
 <div class="contributors"><strong>Article Contributed By: </strong>
-    {{- if .Params.article.contributors -}}
-      {{- $len := len .Params.article.contributors -}}
-      {{- range $index, $element := .Params.article.contributors -}}
+    {{- if .Params.contributors -}}
+      {{- $len := len .Params.contributors -}}
+      {{- range $index, $element := .Params.contributors -}}
         {{- $slug := replace $element " " "-" | lower -}}
         {{- if os.FileExists (printf "content/users/%s.html" $element) -}}
           {{- $userURL := relURL (printf "users/%s/" $slug) -}}

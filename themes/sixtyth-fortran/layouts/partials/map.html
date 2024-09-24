@@ -48,11 +48,11 @@
     var locations = [
         {{- range $pages -}}
                 { 
-                coords: [{{- index .Params.Article.latitudeLongitude 0 -}}, {{- index .Params.Article.latitudeLongitude 1 -}}], 
+                coords: [{{- index .Params.latitudeLongitude 0 -}}, {{- index .Params.latitudeLongitude 1 -}}], 
                 url: "{{- .RelPermalink -}}", 
                 title: "{{- .Title -}}",
-                startDate: "{{- .Params.Article.startDate | default "1977-01-01" -}}",
-                endDate: "{{- .Params.Article.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
+                startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
+                endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
                 },
         {{- end -}}
     ];

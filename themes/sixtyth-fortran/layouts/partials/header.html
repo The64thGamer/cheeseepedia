@@ -18,7 +18,7 @@
 {{- $contributorCounts := dict -}} <!-- Initialize an empty dictionary to store contributor counts -->
 
 {{- range .Site.RegularPages -}} <!-- Loop through all regular pages (articles) -->
-  {{- with .Params.article.contributors -}} <!-- Check if the article has contributors -->
+  {{- with .Params.contributors -}} <!-- Check if the article has contributors -->
     {{- range . -}} <!-- Loop through each contributor -->
       {{- if not (index $contributorCounts .) -}} <!-- If the contributor is not already in the dictionary -->
         {{- $contributorCounts = merge $contributorCounts (dict . 1) -}} <!-- Add the contributor with a count of 1 -->

@@ -5,8 +5,8 @@
 
 
 <div class="article-thumbnail">
-  {{- if .Params.Article.pageThumbnailFile -}}
-    {{- partial "filename-to-photo-no-css.html" .Params.Article.pageThumbnailFile -}}
+  {{- if .Params.pageThumbnailFile -}}
+    {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
   {{- end -}}
 </div>
 {{- .Content | safeHTML}}

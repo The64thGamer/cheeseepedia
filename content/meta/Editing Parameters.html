@@ -1,0 +1,33 @@
++++
+title = "Editing Parameters"
+date = 2024-09-24  
+draft = false               
+tags = ["Meta"]
+categories = []
+
+
+contributors = ["The 64th Gamer"]
++++
+Parameters are the lines above the main body of an article that dictate where the article goes on the site, how it is formatted, and what prominent info is displayed. The parameters for this page are:
+<pre><code>
++++                                 
+title = "Editing Parameters"        
+date = 2024-09-24                   
+draft = false                       
+tags = ["Meta"]                     
+categories = []                     
+
+                           
+contributors = ["The 64th Gamer"]   
++++                                 
+</code></pre>
+Parameters always start and end with <code>+++</code>. Each parameter is also case sensitive. The wiki has a file containing all the parameters <a href="https://github.com/The64thGamer/cheeseepedia/blob/main/archetypes/default.html">available here</a>. If you ever compile the site locally, this is automatically generated with every new article you make. This file also contains comments starting with <code>#</code>, which guides you through each one- and can be erased once you're done using it.
+<br><br>
+It is extremely important to format parameters the way the wiki expects you to, or it will prevent the site from working. 
+<ul>   
+    <li>Parameters like <code>title = ""</code> require the text to be encased in those quotes.</li>
+    <li>Parameters like <code>tags = ["Meta","User"]</code> which are for multiple inputs, require each item to be in quotes and to be seperated by commas, also contained in the brackets. </li>
+    <li>The <code>draft = false</code> parameter must always be there and always be false. Turning it true hides it from showing on the site.</li>
+    <li>Any parameter requiring a date must be formatted like YEAR-MONTH-DAY, in other words <code>2024-12-31</code></li>
+</ul>
+
