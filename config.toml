@@ -1,4 +1,4 @@
-baseURL = 'https://cheeser-bj9nd.ondigitalocean.app/'
+baseURL = 'https://cheeseepedia.org/'
 languageCode = 'en-us'
 title = 'Cheese-E-Pedia'
 theme = 'sixtyth-fortran'
