@@ -31,6 +31,7 @@ body {
   outline-style: solid;
   box-shadow: 0 0 0 2em var(--brown), inset 0 0 0 0.5em var(--brown);
   text-wrap: pretty;
+  word-wrap: anywhere;
 }
 
 html{
@@ -217,6 +218,7 @@ h2{
   display: flex;
   flex-wrap: wrap;
   align-items: stretch;
+  justify-content: space-around;
 }
 
 .article-photo-image{
