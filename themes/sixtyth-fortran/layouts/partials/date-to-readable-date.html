@@ -3,8 +3,9 @@
 {{- $year := index $dateParts 0 -}}
 {{- $month := index $dateParts 1 -}}
 {{- $day := index $dateParts 2 -}}
-{{- $month := printf "%02d" (int $month) -}}
-{{- $day := printf "%02d" (int $day) -}}
+{{- $month := printf "%02d" (int (default "0" (strings.TrimLeft $month "0"))) -}}
+{{- $day := printf "%02d" (int (default "0" (strings.TrimLeft $day "0"))) -}}
+
 
 {{- $months := dict "00" "" "01" "Jan. " "02" "Feb. " "03" "Mar. " "04" "Apr. " "05" "May " "06" "Jun. " "07" "Jul. " "08" "Aug. " "09" "Sep. " "10" "Oct. " "11" "Nov. " "12" "Dec. " -}}
 
