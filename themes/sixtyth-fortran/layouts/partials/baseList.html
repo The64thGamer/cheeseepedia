@@ -11,13 +11,13 @@
 
 
 <div class="category-tags" id="category-all" style="display: block;">
-    {{- range sort .Pages "Params.Article.startDate" -}}
+    {{- range sort .Pages "Params.startDate" -}}
         {{- partial "display-page-box.html" . -}}
     {{- end -}}
 </div>
 
 <div id="tagsContainer">
-    {{- $listPages := sort .Pages "Params.Article.startDate" -}}
+    {{- $listPages := sort .Pages "Params.startDate" -}}
     {{- range $categoryName, $pages := $categories -}}
         <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
             {{- $hasPages := false -}} <!-- Flag to check if there are pages -->
