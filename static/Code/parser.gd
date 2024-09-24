@@ -36,7 +36,7 @@ func _ready() -> void:
 	for file in dir.get_files():
 		dir.remove(file)
 	dir.make_dir("Users")
-	dir = DirAccess.open("res://wiki/Users")
+	dir = DirAccess.open("res://users")
 	dir = DirAccess.open("res://")
 	dir.make_dir("photos")
 	dir = DirAccess.open("res://wiki")
@@ -45,7 +45,7 @@ func _ready() -> void:
 	dir = DirAccess.open("res://photos")
 	for file in dir.get_files():
 		dir.remove(file)
-	dir = DirAccess.open("res://wiki/Users")
+	dir = DirAccess.open("res://users")
 	for file in dir.get_files():
 		dir.remove(file)
 	for i in range(xml.children.size() - 1):

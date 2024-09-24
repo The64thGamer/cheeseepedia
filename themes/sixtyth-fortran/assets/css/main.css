@@ -371,6 +371,13 @@ footer {
   color: var(--deep-white);
 }
 
+code{
+  background-color: var(--brown);
+  border-color: var(--brown);
+  border-width: 0.25em;
+  border-radius: 1em;
+  padding:0.5em;
+}
 
 select
 {
