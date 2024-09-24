@@ -3,7 +3,7 @@
   {{- $categories := .Site.Taxonomies.categories -}}
   <option value="all" selected >All Pages</option>
   {{- range $categoryName, $pages := $categories -}}
-    <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" -}}</option>
+    <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz"  -}}</option>
   {{- end -}}
 </select>
 

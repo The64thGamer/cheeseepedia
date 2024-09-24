@@ -5,8 +5,6 @@
 # Btw install the XMLNode addon to get this working. It also
 # Lets you preview the entire site as an exported variable so you can navigate
 # Manually.
-# Also ignore the everything being bad I had to take the rare occasion to 
-# consult ChatGPT for this nightmare of parsing. None of the comments are mine.
 
 extends Node
 var xml: XMLNode
@@ -23,6 +21,7 @@ var theBody
 var finalLatLong
 var locationsList = ""
 var theLocations : Array
+var replaceArray : Array
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
@@ -49,7 +48,6 @@ func _ready() -> void:
 	dir = DirAccess.open("res://wiki/Users")
 	for file in dir.get_files():
 		dir.remove(file)
-		
 	for i in range(xml.children.size() - 1):
 		if "Category: " in xml.children[1 + i].children[0].content && xml.children[1 + i].children.size() > 3 && "redirect" not in xml.children[1 + i].children[3].name:
 			print(xml.children[1 + i].children[0].content)
@@ -63,15 +61,27 @@ func _ready() -> void:
 	print("Tags Generated")
 	var exSize = str(xml.children.size())
 	for i in range(xml.children.size() - 1):
-		#if i % 100 == 0:
-		#	print(str(i) + "/" + str(xml.children.size()))
+		if i % 100 == 0:
+			print(str(i) + "/" + str(xml.children.size()))
 		#print(str(i) + "/" + exSize)
-		print(str(i) + "/" + exSize + " ( "+xml.children[1 + i].children[0].content+" )")
+		#print(str(i) + "/" + exSize + " ( "+xml.children[1 + i].children[0].content+" )")
 		ParsePage(i)
+	var dirac = DirAccess.open("res://static/photos")
+	print(str(replaceArray.size()) + " ReplaceArray Size")
+	for i in range(replaceArray.size()):
+		if ".wav" in replaceArray[i]:
+			continue
+		var lolvar = replaceArray[i].split("|")
+		if "." not in lolvar[0]:
+			print(replaceArray[i])
+		var error = dirac.rename(gen_file_name(lolvar[0])+".avif",lolvar[1])
+		if error != OK:
+			print(str(error) + "|" + gen_file_name(lolvar[0])+".avif|" + replaceArray[i])
 	var exSizeB =str(catTags.size())
+	print(exSizeB + " CatTags Size")
 	for i in range(catTags.size()):
 		if i % 4 == 0:
-			print(str(i) + "/" + exSizeB + " ( "+catTags[i]+" )")
+			#print(str(i) + "/" + exSizeB + " ( "+catTags[i]+" )")
 			var pageTitle = catTags[i]
 			var tagLayout = "[\"" + catTags[i+1] + "\"]"
 			var catLayout = "[\"" + catTags[i+3] + "\"]"
@@ -98,32 +108,51 @@ func _ready() -> void:
 				var fileAcess = FileAccess.open("res://wiki/"+ pageTitle + ".html", FileAccess.WRITE)
 				fileAcess.store_string(filePage)
 				fileAcess = null
+	print(str(galleryArray.size()) + " GalleryArray Size")
 	for i in range(galleryArray.size()):
 		var list = galleryArray[i].split("|")
-		var pageTitle = list[1]
-		if ".jpg" in pageTitle || ".gif" in pageTitle || ".jpeg" in pageTitle || ".png" in pageTitle && "New Graphic" not in pageTitle:
-			pageTitle = pageTitle.trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(" ","_").replace("\n","") + ".avif"
-			var filePage = "+++"
-			filePage += "\ntitle = \"" + pageTitle + "\""
-			filePage += "\ndraft = false"
-			filePage += "\ntags = [\"Photos\"]"
-			filePage += "\npages = [\"" + list[0] + "\"]"
-			filePage += "\ndate = \"\""
-			if list.size() > 2:
-				for e in range(2,list.size()):
-					if not "thumb" in list[e]:
-						filePage += "\ndescription = \"" + list[e].replace('\"', '\'').replace("\n","") + "\""
-						break
-			filePage += "\n+++"
+		var pageTitle = list[2]
+		var filePage = "+++"
+		filePage += "\ntitle = \"" + pageTitle + "\""
+		filePage += "\ndraft = false"
+		filePage += "\ntags = [\"Photos\"]"
+		filePage += "\ncategories = " + list[1]
+		filePage += "\npages = [\"" + list[0].replace('\"', '\'') + "\"]"
+		filePage += "\ndate = \"\""
+		if list.size() > 3:
+			for e in range(3,list.size()):
+				if not "thumb" in list[e]:
+					filePage += "\ndescription = \"" + list[e].replace('\"', '\'').replace("\n","") + "\""
+					break
+		filePage += "\n+++"
 
-			pageTitle = parse_title(pageTitle)
-			if not FileAccess.file_exists("res://photos/" + pageTitle + ".html"):
-				var fileAcess = FileAccess.open("res://photos/" + pageTitle + ".html", FileAccess.WRITE)
-				fileAcess.store_string(filePage)
-				fileAcess = null
+		pageTitle = parse_title(pageTitle)
+		if not FileAccess.file_exists("res://photos/" + pageTitle + ".html"):
+			var fileAcess = FileAccess.open("res://photos/" + pageTitle + ".html", FileAccess.WRITE)
+			fileAcess.store_string(filePage)
+			fileAcess = null
 	DisplayServer.clipboard_set(locationsList)
 	print("Done")
 	get_tree().quit()
+	
+var alphabet = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890_"
+func string_to_seed(input_string: String) -> int:
+	var hash = 0
+	for i in input_string:
+		hash = hash * 31 + int(i.to_utf8_buffer()[0]) # Get the integer value of the character
+	return abs(hash)
+
+func gen_file_name(text : String):
+	text = text.trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(".webp","").replace(".avif","").replace(" ","_").replace("\n","").trim_prefix(':').trim_suffix('_')
+	text = text[0].to_upper() + text.substr(1,-1)
+	return text
+func generate_word(seed : String, length):
+	var random = RandomNumberGenerator.new()
+	random.seed = string_to_seed(seed)
+	var word: String
+	for i in range(length):
+		word += alphabet[random.randi() % alphabet.length()]
+	return word
 	
 # List of starting identifiers to search for
 var start_identifiers = ["daterelease=","daterelease =","date=","date =","opened on", "started on","released on","opened in", "started in","released in","opened", "started","released"]
@@ -199,16 +228,18 @@ func replace_references_with_superscript(wikitext: String) -> String:
 	for match in matches:
 		
 		var reference_text = match.get_string(1)  # The captured reference text
+		if("http" in reference_text):
+			reference_text = "[" + reference_text + "]"
 		if reference_text != "":
 			# Add to global array
-			citArrars.append(reference_text)
+			citArrars.append(reference_text.replace('"',"\\\""))
 		else:
 			# Handle named references
 			reference_text = match.get_string(0)  # For empty name references, we can use a placeholder
-			citArrars.append(reference_text)
+			citArrars.append(reference_text.replace('"',"\\\""))
 
 		# Replace the reference in the original string with a superscript number
-		wikitext = wikitext.replace(match.get_string(0), "<sup>[" + str(index+1) + "]</sup>")
+		wikitext = wikitext.replace(match.get_string(0), "<sup>(" + str(index+1) + ")</sup>")
 		index += 1
 
 	return wikitext
@@ -286,6 +317,7 @@ func ParsePage(index):
 	var pageTitle = pageXml.children[0].content
 	var pageFolder = ""
 	var tagLayout = "[]"
+	var catLayout = "[]"
 	if ParseBadTitle(pageTitle):
 		return
 	var time = ""
@@ -317,27 +349,36 @@ func ParsePage(index):
 	if "#REDIRECT" in rawArticle:
 		print(pageTitle + " Recent page was redirect.")
 		return
+	currentStartDate = ""
+	var testDate = ""
 	for i in range(catTags.size()):
 		if pageTitle == catTags[i] && i % 4 == 0:
 			tagLayout = "[\"" + catTags[i+1] + "\"]"
+			catLayout = "[\"" + catTags[i+3] + "\"]"
+			testDate = catTags[i+2]
 			catTags.remove_at(i)
 			catTags.remove_at(i)
 			catTags.remove_at(i)
 			catTags.remove_at(i)
 			break
-	currentStartDate = ""
 	currentEndDate = ""
-	var newTags = extract_templates(rawArticle,parse_title(pageTitle))
-	rawArticle = parse_mediawiki_to_markdown(rawArticle,parse_title(pageTitle))
+	rawArticle = destroy_gallery(rawArticle,pageTitle,catLayout)
+	var newTags = extract_templates(rawArticle,parse_title(pageTitle),catLayout)
+	rawArticle = parse_mediawiki_to_markdown(rawArticle,parse_title(pageTitle),catLayout)
 	rawArticle = replace_references_with_superscript(rawArticle)
+	
+
 	if currentStartDate == "":
 		currentStartDate = parse_text_for_dates(start_identifiers,rawArticle.substr(0,200))
+	if currentStartDate == "":
+		currentStartDate = testDate
 	if currentEndDate == "":
 		currentEndDate = parse_text_for_dates(end_identifiers,rawArticle.substr(0,350))
 	var filePage = "+++"
 	filePage += "\ntitle = \"" + pageTitle.replace('\"', '\'') + "\""
 	filePage += "\ndraft = false"
 	filePage += "\ntags = " + tagLayout
+	filePage += "\ncategories = " + catLayout
 	filePage += "\ndate = \"" + time + "\""
 	filePage += "\n\n[Article]"
 	filePage += "\nstartDate = \"" + currentStartDate + "\""
@@ -360,6 +401,7 @@ func ParsePage(index):
 	filePage += "]"
 	filePage += "\ncitations = ["
 	for i in range(citArrars.size()):
+		citArrars[i] = parse_http_links(citArrars[i],pageTitle).replace('\"',"\\\"").replace('\\\\\"',"\\\"")
 		filePage += "\"" + citArrars[i] + "\""
 		if i + 1 < citArrars.size():
 			filePage += ","
@@ -375,7 +417,6 @@ func ParsePage(index):
 					lat = theLocations[i][1]
 					lon = theLocations[i][2]
 					break
-			filePage += "\n[Location]"
 			filePage += "\nlatitudeLongitude = [\"" + lat.replace(',','.') + "\",\"" + lon.replace(',','.') + "\"]"
 
 
@@ -451,7 +492,7 @@ func parse_tags(tag: String, text: String) -> Array:
 			dumbs.append(categ)
 	return dumbs
 
-func parse_links(text: String, pageTitle: String) -> String:
+func parse_links(text: String, pageTitle: String, categ: String) -> String:
 	var pattern = r"\[\[(.*?)\]\]"  # Pattern to capture text between [[ and ]]
 
 	var regex = RegEx.new()
@@ -481,7 +522,41 @@ func parse_links(text: String, pageTitle: String) -> String:
 				text = text.replace(full_match, capture)
 		elif "File:" in capture:
 			text = text.replace(full_match,"")
-			galleryArray.append(pageTitle + "|" + capture.replace("File:",""))
+			var listEPIC = capture.split('|')
+			if listEPIC.size() == 1 && "New Graphic" not in listEPIC[0]:
+				var stringer = generate_word(gen_file_name(listEPIC[0].replace("File:","")),20) + ".avif"
+				galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)
+				replaceArray.append(listEPIC[0].replace("File:","") + "|" + stringer)
+			elif listEPIC.size() >= 2 && "New Graphic" not in listEPIC[0]:
+				var stringer = generate_word(gen_file_name(listEPIC[0].replace("File:","")),20) + ".avif"
+				galleryArray.append(pageTitle + "|" + categ +  "|" + stringer + "|" + listEPIC[1])
+				replaceArray.append(listEPIC[0].replace("File:","") + "|" + stringer)
+	return text
+	
+func parse_http_links(text: String, pageTitle: String) -> String:
+	var pattern = r"\[(.*?)\]"  # Pattern to capture text between [[ and ]]
+
+	var regex = RegEx.new()
+	var error = regex.compile(pattern)
+
+	if error != OK:
+		print("Regex compilation failed.")
+		return text
+	# Gather all matches
+	var regMatch = regex.search_all(text)
+	if regMatch == null:
+		return text
+	# Replace all matches
+	for match in regMatch:
+		var full_match = match.strings[0]  # Full match (e.g., [[some title]])
+		var capture : String = match.strings[1]     # Capture group 1 (e.g., some title)
+		capture = capture.strip_edges()
+		if not " " in capture:
+			text = text.replace(full_match, "<a href=\"" + capture.replace("\"","") + "\">"+capture+"</a>")
+		else:
+			var splitter = capture.split(" ")
+			var splitoon = capture.replace(splitter[0],"")
+			text = text.replace(full_match, "<a href=\"" + splitter[0].replace("\"","") + "\">"+splitoon+"</a>")
 	return text
 
 	# Helper function to sort replacements in descending order
@@ -495,7 +570,7 @@ func manual_sort_replacements(replacements: Array) -> void:
 				replacements[i] = replacements[j]
 				replacements[j] = temp
 
-func extract_templates(input: String, pageTitle: String) -> Array:
+func extract_templates(input: String, pageTitle: String, categ: String) -> Array:
 	var vars : Array
 	
 	var regex = RegEx.new()
@@ -510,6 +585,7 @@ func extract_templates(input: String, pageTitle: String) -> Array:
 	if regMatch == null:
 		return vars
 	# Replace all matches
+	var hasThumbnail = false
 	for match in regMatch:
 		var full_match = match.strings[0]
 		var capture = match.strings[1]    
@@ -517,32 +593,385 @@ func extract_templates(input: String, pageTitle: String) -> Array:
 			if stopGeneric:
 				var list = capture.split('|')
 				if list.size() == 2:
-					galleryArray.append(pageTitle + "|" + list[1].replace("image=",""))	
+					if list[1].replace("image=","") != "" && "New Graphic" not in list[1]:
+						var stringer = generate_word(gen_file_name(list[1].replace("image=","")),20) + ".avif"
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)
+						replaceArray.append(list[1].replace("image=","") + "|" + stringer)
 				elif list.size() > 2:
-					galleryArray.append(pageTitle + "|" + list[1].replace("image=","") + "|" + list[2].replace("desc=",""))
+					if list[1].replace("image=","") != "" && "New Graphic" not in list[1]:
+						var stringer = generate_word(gen_file_name(list[1].replace("image=","")),20) + ".avif"
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer + "|" + list[2].replace("desc=",""))
+						replaceArray.append(list[1].replace("image=","") + "|" + stringer)
 			else:
 				stopGeneric = true
+				hasThumbnail = true
 				var list = capture.split('|')
+				var downloadsCheck = false
+				var downloads = ""
+				for i in range(list.size()):
+					if "d1 download" in list[i]:
+						var listB = list[i].split('=')
+						var epic = listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")
+						var epicName = ""
+						if i + 1 < list.size():
+							if "d1 name" in list[i+1]:
+								epicName = list[i+1].split('=')[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")			
+						if downloadsCheck:
+							downloads += ",\"" + epic + "|" + epicName + "\""
+						else:
+							downloadsCheck = true
+							downloads += "downloadLinks = [\"" + epic + "|" + epicName + "\""
+				if downloads != "":
+					vars.append(downloads + "]")
 				if list.size() == 2 && "image" in list[1]:
 					var listB = list[1].split('=')
-					vars.append("pageThumbnailFile = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(" ","_").replace("\n","") + ".avif\"")	
-					galleryArray.append(pageTitle + "|" + listB[1])	
+					if(listB[1].replace(" ","").replace("\n","") != "") && "New Graphic" not in listB[1]:
+						var stringer = generate_word(gen_file_name(listB[1]),20) + ".avif"
+						vars.append("pageThumbnailFile = \"" + stringer+"\"")
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)	
+						replaceArray.append(listB[1] + "|" + stringer)
 				elif list.size() > 2 && "image" in list[1] && "desc" in list[2]:
 					var listB = list[1].split('=')
 					var listC = list[2].split('=')
-					vars.append("pageThumbnailFile = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(" ","_").replace("\n","") + ".avif\"")	
-					galleryArray.append(pageTitle + "|" + listB[1] + "|" + listC[1])
+					if(listB[1].replace(" ","").replace("\n","") != "") && "New Graphic" not in listB[1]:
+						var stringer = generate_word(gen_file_name(listB[1]),20) + ".avif"
+						vars.append("pageThumbnailFile = \"" + stringer+"\"")
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer + "|" + listC[1])
+						replaceArray.append(listB[1] + "|" + stringer)
 		elif "{{Showtape" in full_match:
 			var list = capture.split('|')
 			var creditCheck = false
 			var credits = ""
+			var formatCheck = false
+			var formats = ""
+			var akaCheck = false
+			var aka = ""
+			var downloadsCheck = false
+			var downloads = ""
 			for i in range(list.size()):
+				if "lasercei" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI LaserDisc"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "pttreel" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Cyberamics Reel"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "showbizreel" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI 4-Track Reel"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "ceireel" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI 8-Track Reel"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "ceibetacam" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI Betamax"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "cecdvcam" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEC DVCAM"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "cyberbetamax" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Cyberamics Betamax"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "showbizbetamax" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Showbiz Betamax"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "cassette" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI Cassette"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "aps" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "APS Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "raesvhs" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Showbiz SVHS"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "craesvhs" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CRAE SVHS"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+				
+
+				if "craesvhsfloppy" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CRAE SVHS + Floppy"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "c&r" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "C&R SVHS (Pre-93)"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+				
+
+				if "r12" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "R12 SVHS (Pre-93)"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "nrae" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "NRAE SVHS"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "cusvhs" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "3-Stage SVHS (Pre-93)"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "cusvhs93" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "3-Stage SVHS (Post-93)"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "laseraam" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "AAM 2x Laserdisc + Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "lasersc" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Studio C 4x Laserdisc + Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "dvdcyber" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Cyberamics DVD"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "dvdcu" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "3-Stage DVD"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+
+				if "studioc" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Studio C 3x DVD + Floppy"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "studiochd" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Studio C USB + MicroSD"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "pb" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Program Blue .shw Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "adat" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI ADAT Tape"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "digital" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "CEI .wav Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "3stagenetwork" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "3-Stage Networking Module Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+					
+				if "cybernetwork" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Cyberamics Networking Module Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+				if "studiocnetwork" in list[i] && "y" in list[i]:
+					var listB = list[i].split('=')
+					var epic = "Studio C Networking Module Files"
+					if formatCheck:
+						formats += ",\"" + epic + "\""
+					else:
+						formatCheck = true
+						formats += "showtapeFormats = [\"" + epic + "\""
+				if "labelname" in list[i] || "aka" in list[i] :
+					var listB = list[i].split('=')
+					var epic = listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")
+					if akaCheck:
+						aka += ",\"" + epic + "\""
+					else:
+						akaCheck = true
+						aka += "alsoKnownAs = [\"" + epic + "\""
+				if "d1 download" in list[i]:
+					var listB = list[i].split('=')
+					var epic = listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")
+					var epicName = ""
+					if i + 1 < list.size():
+						if "d1 name" in list[i+1]:
+							epicName = list[i+1].split('=')[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")			
+					if downloadsCheck:
+						downloads += ",\"" + epic + "|" + epicName + "\""
+					else:
+						downloadsCheck = true
+						downloads += "downloadLinks = [\"" + epic + "|" + epicName + "\""
+				if "length" in list[i]:
+					var listB = list[i].split('=')
+					vars.append("mediaDuration = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")+ "\"")
 				if "date" in list[i]:
 					currentStartDate = parse_text_for_dates(start_identifiers,list[i])
 				if "image" in list[i]:
+					hasThumbnail = true
 					var listB = list[i].split('=')
-					vars.append("pageThumbnailFile = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(" ","_").replace("\n","") + ".avif\"")	
-					galleryArray.append(pageTitle + "|" + listB[1])	
+					if(listB[1].replace(" ","").replace("\n","") != "") && "New Graphic" not in listB[1]:
+						var stringer = generate_word(gen_file_name(listB[1]),20) + ".avif"
+						vars.append("pageThumbnailFile = \"" + stringer+"\"")
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)	
+						replaceArray.append(listB[1] + "|" + stringer)
 				if "credit" in list[i]:
 					var listB = list[i].split('=')
 					var listC = listB[1].split("-")
@@ -554,6 +983,12 @@ func extract_templates(input: String, pageTitle: String) -> Array:
 							credits += "credits = [\"" + listC[0].trim_prefix(' ').trim_suffix(' ').replace("\n","") + "|" + listC[1].trim_prefix(' ').trim_suffix(' ').replace("\n","") + "\""
 			if credits != "":
 				vars.append(credits + "]")
+			if formats != "":
+				vars.append(formats + "]")
+			if aka != "":
+				vars.append(aka + "]")
+			if downloads != "":
+				vars.append(downloads + "]")
 		elif "{{Menu Item" in full_match:
 			var list = capture.split('|')
 			var creditCheck = false
@@ -561,20 +996,80 @@ func extract_templates(input: String, pageTitle: String) -> Array:
 			for i in range(list.size()):
 				if "daterelease" in list[i]:
 					currentStartDate = parse_text_for_dates(start_identifiers,list[i])
+					continue
 				if "dateremove" in list[i]:
 					currentEndDate = parse_text_for_dates(end_identifiers,list[i])
+					continue
 				if "image" in list[i]:
+					hasThumbnail = true
 					var listB = list[i].split('=')
-					vars.append("pageThumbnailFile = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace(".jpg","").replace(".gif","").replace(".jpeg","").replace(".png","").replace(" ","_").replace("\n","") + ".avif\"")	
-					galleryArray.append(pageTitle + "|" + listB[1])	
+					if(listB[1].replace(" ","").replace("\n","") != "") && "New Graphic" not in listB[1]:
+						var stringer = generate_word(gen_file_name(listB[1]),20) + ".avif"
+						vars.append("pageThumbnailFile = \"" + stringer+"\"")
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)	
+						replaceArray.append(listB[1] + "|" + stringer)
+					continue
+		elif "{{Download" in full_match:
+				var list = capture.split('|')
+				for i in range(list.size()):
+					if "external" in list[i] || "file" in list[i]:
+						var listB = list[i].split('=')
+						var stringer = listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")
+						if i + 1 < list.size():
+							if "title" in list[i+1]:
+								stringer += "|" + list[i+1].split('=')[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")			
+						vars.append("downloadLinks = [\"" + stringer+"\"]")
+						break
+		elif "{{Animatronic|" in full_match:
+			var list = capture.split('|')
+			var creditCheck = false
+			var credits = ""
+			for i in range(list.size()):
+				if "wholesalePrice" in list[i]:
+					var listB = list[i].split('=')
+					vars.append("wholesalePrice = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")+ "\"")
+					continue
+				if "unitsProduced" in list[i]:
+					var listB = list[i].split('=')
+					vars.append("unitsProduced = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")+ "\"")
+					continue
+				if "manufacturer" in list[i]:
+					var listB = list[i].split('=')
+					vars.append("manufacturer = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")+ "\"")
+					continue
+				if "dimensions" in list[i]:
+					var listB = list[i].split('=')
+					vars.append("dimensions = \"" + listB[1].trim_prefix(' ').trim_suffix(' ').replace("\n","")+ "\"")
+					continue
+				if "releasedate" in list[i]:
+					currentStartDate = parse_text_for_dates(start_identifiers,list[i])
+					continue
+				if "finalrelease" in list[i]:
+					currentEndDate = parse_text_for_dates(end_identifiers,list[i])
+					continue
+				if "image" in list[i]:
+					hasThumbnail = true
+					var listB = list[i].split('=')
+					if(listB[1].replace(" ","").replace("\n","") != "") && "New Graphic" not in listB[1]:
+						var stringer = generate_word(gen_file_name(listB[1]),20) + ".avif"
+						vars.append("pageThumbnailFile = \"" + stringer+"\"")
+						galleryArray.append(pageTitle + "|" + categ +  "|" + stringer)	
+						replaceArray.append(listB[1] + "|" + stringer)
+					continue
+	if hasThumbnail == false:
+		for i in range(galleryArray.size()):
+			var list = galleryArray[i].split("|")
+			if list[0] == pageTitle:
+				vars.append("pageThumbnailFile = \"" + list[2] +"\"")
+				break
 	return vars
 
-func parse_mediawiki_to_markdown(output: String, pageTitle: String) -> String:
+func parse_mediawiki_to_markdown(output: String, pageTitle: String,catLayout :String) -> String:
 	var regex = RegEx.new()
 	regex.compile(r"(?s)\{\{(.*?)\}\}")
 	output = regex.sub(output, "",true)
-	output = destroy_gallery(output,pageTitle)
-	output = parse_links(output,pageTitle)
+	output = parse_links(output,pageTitle,catLayout)
+	output = parse_http_links(output,pageTitle)
 	output = output.replace("==Showtape Scans / Images==","")
 	output = output.replace("== Showtape Scans / Images==","")
 	output = output.replace("== Showtape Scans / Images ==","")
@@ -632,7 +1127,7 @@ func wikitextbullets_to_html(input: String) -> String:
 				list_depth += 1
 			elif level < list_depth:
 				for _i in range(list_depth - level):
-					output += "</%s>" % open_list_tag
+					output += "</%s>\n" % open_list_tag
 				list_depth = level
 				
 			output += "<li>%s</li>" % content
@@ -645,7 +1140,7 @@ func wikitextbullets_to_html(input: String) -> String:
 					output += "</%s>" % open_list_tag
 				list_depth = 0
 			if content != "":
-				output += "\n<p>%s</p>" % content
+				output += "\n%s" % content
 	
 	# Close any remaining open lists
 	if list_depth > 0:
@@ -695,7 +1190,7 @@ func _convert_wiki_table_to_html(wiki_table: String) -> String:
 	html_table += "</tr>\n</table>\n"
 	return html_table
 	
-func destroy_gallery(text: String, pageTitle: String) -> String:
+func destroy_gallery(text: String, pageTitle: String, categ: String) -> String:
 	var regex = RegEx.new()
 	var error = regex.compile(r"(?s)<gallery>(.*?)</gallery>")
 
@@ -713,7 +1208,15 @@ func destroy_gallery(text: String, pageTitle: String) -> String:
 		var list = match.strings[0].split("\n")
 		for e in range(list.size()):
 			if "File:" in list[e]:
-				galleryArray.append(pageTitle + "|" + list[e].replace("File:",""))
+				var listEPIC = list[e].split('|')
+				if listEPIC.size() == 1 && "New Graphic" not in listEPIC[0]:
+					var stringer = generate_word(gen_file_name(listEPIC[0].replace("File:","")),20) + ".avif"
+					galleryArray.append(pageTitle + "|" + categ + "|" + stringer)
+					replaceArray.append(listEPIC[0].replace("File:","") + "|" + stringer)
+				elif listEPIC.size() >= 2 && "New Graphic" not in listEPIC[0]:
+					var stringer = generate_word(gen_file_name(listEPIC[0].replace("File:","")),20) + ".avif"
+					galleryArray.append(pageTitle + "|" + categ +  "|" + stringer + "|" + listEPIC[1])
+					replaceArray.append(listEPIC[0].replace("File:","") + "|" + stringer)
 		text = text.replace(full_match,"")
 	return text
 
@@ -738,8 +1241,6 @@ func wikitext_to_html(wikitext: String) -> String:
 	regex.compile(r"\*\*(.*?)\*\*")
 	wikitext = regex.sub(wikitext, r"<b>$1</b>",true)
 	regex.compile(r"\'\'(.*?)\'\'")
-	wikitext = regex.sub(wikitext, r"<i>$1</i>",true)
-	regex.compile(r"\/\/(.*?)\/\/")
 	wikitext = regex.sub(wikitext, r"<i>$1</i>",true)
 	regex.compile('=====(.+?)=====')
 	wikitext = regex.sub(wikitext, r'<h5>$1</h5>',true)

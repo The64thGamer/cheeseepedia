@@ -1,4 +1,4 @@
-{{- $pages := where . "Params.Location.latitudeLongitude" "!=" nil -}}
+{{- $pages := where . "Params.Article.latitudeLongitude" "!=" nil -}}
 
 <div id="map" style="
     margin: 0.5em;
@@ -48,7 +48,7 @@
     var locations = [
         {{- range $pages -}}
                 { 
-                coords: [{{- index .Params.Location.latitudeLongitude 0 -}}, {{- index .Params.Location.latitudeLongitude 1 -}}], 
+                coords: [{{- index .Params.Article.latitudeLongitude 0 -}}, {{- index .Params.Article.latitudeLongitude 1 -}}], 
                 url: "{{- .RelPermalink -}}", 
                 title: "{{- .Title -}}",
                 startDate: "{{- .Params.Article.startDate | default "1977-01-01" -}}",
