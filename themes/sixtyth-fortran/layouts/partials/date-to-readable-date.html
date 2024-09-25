@@ -3,18 +3,73 @@
 {{- $year := index $dateParts 0 -}}
 {{- $month := index $dateParts 1 -}}
 {{- $day := index $dateParts 2 -}}
-{{- $month := printf "%02d" (int (default "0" (strings.TrimLeft $month "0"))) -}}
-{{- $day := printf "%02d" (int (default "0" (strings.TrimLeft $day "0"))) -}}
+{{- $Iday := int (default "0" (strings.TrimLeft $day "0")) -}}
 
+{{- $months := dict
+   "00" ""
+  "01" "Jan. " 
+  "02" "Feb. " 
+  "03" "Mar. " 
+  "04" "Apr. " 
+  "05" "May " 
+  "06" "Jun. "
+  "07" "Jul. "
+  "08" "Aug. " 
+  "09" "Sep. " 
+  "10" "Oct. " 
+  "11" "Nov. " 
+  "12" "Dec. " 
+  "0" "" 
+  "1" "Jan. " 
+  "2" "Feb. " 
+  "3" "Mar. " 
+  "4" "Apr. " 
+  "5" "May " 
+  "6" "Jun. " 
+  "7" "Jul. " 
+  "8" "Aug. " 
+  "9" "Sep. " -}}
 
-{{- $months := dict "00" "" "01" "Jan. " "02" "Feb. " "03" "Mar. " "04" "Apr. " "05" "May " "06" "Jun. " "07" "Jul. " "08" "Aug. " "09" "Sep. " "10" "Oct. " "11" "Nov. " "12" "Dec. " -}}
+{{- $days := dict 
+  "00" "" 
+  "01" "1, " 
+  "02" "2, " 
+  "03" "3, " 
+  "04" "4, " 
+  "05" "5, " 
+  "06" "6, " 
+  "07" "7, " 
+  "08" "8, " 
+  "09" "9, " 
+  "10" "10, " 
+  "11" "11, " 
+  "12" "12, " 
+  "13" "13, " 
+  "14" "14, " 
+  "15" "15, " 
+  "16" "16, " 
+  "17" "17, " 
+  "18" "18, " 
+  "19" "19, " 
+  "20" "20, " 
+  "21" "21, " 
+  "22" "22, " 
+  "23" "23, " 
+  "24" "24, " 
+  "25" "25, " 
+  "26" "26, " 
+  "27" "27, " 
+  "28" "28, " 
+  "29" "29, " 
+  "30" "30, " 
+  "31" "31, " 
+-}}
 
 {{- $monthName := index $months $month -}}
+{{- $dayName := index $days $day -}}
 
 {{- $monthName -}}
-{{- if (ne $day "00")}}
-  {{- printf $day -}},{{- " " -}}
-{{- end -}}
+{{- $dayName -}}
 {{- if (ne $year "0000")}}
   {{- printf $year -}}
 {{- end -}}
