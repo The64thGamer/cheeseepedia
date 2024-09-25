@@ -7,9 +7,6 @@
   {{- partial "filename-to-photo-no-css.html" .Title -}}
 </div>
 
-{{- $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") -}}
-{{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
-
 <h2>Tagged Articles</h2>
 {{- $callerPages := .Params.pages -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" . }}
@@ -21,6 +18,6 @@
 {{- end -}}
 <hr>
 <div class="contributors">
-  <strong> Photo taken on: </strong><time datetime="{{- $dateMachine -}}">{{- $dateHuman -}}</time>
+  <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
 </div>
 <hr>

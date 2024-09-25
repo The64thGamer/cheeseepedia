@@ -15,15 +15,15 @@
             </a>
             <div class="list-page-date">
                 {{- $startCheck := false -}}
-                {{- with .Params.startDate -}}
-                    {{- partial "date-to-readable-date.html" . -}}
+                {{- if .Params.startDate -}}
+                    {{- partial "date-to-readable-date.html" .Params.startDate -}}
                     {{- $startCheck = true -}}
                 {{- end -}}
-                {{- with .Params.endDate -}}
+                {{- if .Params.endDate -}}
                     {{- if $startCheck -}}
-                    {{" - "}}{{- partial "date-to-readable-date.html" . -}}
+                    {{" - "}}{{- partial "date-to-readable-date.html" .Params.endDate -}}
                     {{- else -}}
-                    {{"? - "}}{{- partial "date-to-readable-date.html" . -}}
+                    {{"? - "}}{{- partial "date-to-readable-date.html" .Params.endDate -}}
                     {{- end -}}
                 {{- else -}}
                     {{- if $startCheck -}}
