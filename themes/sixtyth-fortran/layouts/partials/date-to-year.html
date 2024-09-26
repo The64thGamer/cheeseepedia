@@ -1,0 +1,7 @@
+{{- $date := . -}}
+{{- $dateParts := split $date "-" -}}
+{{- if ge (len $dateParts) 3 -}}
+  {{- default "0000" (index $dateParts 0) -}}
+{{- else -}}
+  {{- "0000" -}}
+{{- end -}}

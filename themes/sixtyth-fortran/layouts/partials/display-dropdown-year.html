@@ -1,7 +1,8 @@
-{{- $start := 1977 -}}
+{{- $start := 1929 -}}
 <select id="yearSelect" onchange="showCategoryTags()">
-    <option value="all" selected >$start - {{- now.Year -}}</option>
-    {{ range seq $start now.Year }}
+  <option value="all" selected >All Years</option>
+  <option value="0000" selected >Unknown Years</option>
+  {{ range seq $start now.Year }}
       <option value="{{ . }}">{{ . }}</option>
     {{ end }}
   </select>

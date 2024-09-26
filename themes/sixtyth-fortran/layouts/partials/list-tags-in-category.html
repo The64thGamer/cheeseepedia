@@ -41,47 +41,60 @@
 
 <script>
   window.onload = function() {
-      // Retrieve the saved category from localStorage
-      var selectedCategory = localStorage.getItem('selectedFEC');
-      var select = document.getElementById("FECSelect");
-  
-      if (selectedCategory) {
-        select.value = selectedCategory;
-        showFECTags();
-      }
+    // Retrieve the saved category from localStorage
+    var FECLoadValue = localStorage.getItem('selectedFEC');
+    var FEC = document.getElementById("FECSelect");
+    var MANULoadValue = localStorage.getItem('selectedManufacturer');
+    var MANU = document.getElementById("manufacturerSelect");
+    var YEARLoadValue = localStorage.getItem('selectedYear');
+    var YEAR = document.getElementById("yearSelect");
+
+    if (FECLoadValue) {
+      FEC.value = FECLoadValue;
+    }
+    if (MANULoadValue) {
+      MANU.value = MANULoadValue;
+    }
+    if (YEARLoadValue) {
+      YEAR.value = YEARLoadValue;
+    }
+    showCategoryTags();
   }
 
-  function showFECTags() {
-    var select = document.getElementById("FECSelect");
-    var selectedCategory = select.value;
-    localStorage.setItem('selectedFEC', selectedCategory);
+  function showCategoryTags(check) {
+    var selectedCategory = "all";
+    var FEC = document.getElementById("FECSelect");
+    var MANU = document.getElementById("manufacturerSelect");
 
-    localStorage.removeItem('selectedManufacturer');
-    document.getElementById("manufacturerSelect").value = "all";
-
-
-    // Hide all category tag lists
-    var categories = document.getElementsByClassName("category-tags");
-    for (var i = 0; i < categories.length; i++) {
-      categories[i].style.display = "none";
+    if(check == "FEC")
+    {
+      selectedCategory = FEC.value;
+      document.getElementById("manufacturerSelect").value = "all";
+      localStorage.setItem('selectedFEC', FEC.value);
+      localStorage.removeItem('selectedManufacturer');
+    }
+    else if(check == "MANU")
+    {    
+      selectedCategory = MANU.value;
+      document.getElementById("FECSelect").value = "all";
+      localStorage.setItem('selectedManufacturer', MANU.value);
+      localStorage.removeItem('selectedFEC');
+    }
+    if(FEC.value != "all")
+    {
+      selectedCategory = FEC.value;
+      document.getElementById("manufacturerSelect").value = "all";
+      localStorage.setItem('selectedFEC', FEC.value);
+      localStorage.removeItem('selectedManufacturer');
+    }
+    if(MANU.value != "all")
+    {
+      selectedCategory = MANU.value;
+      document.getElementById("FECSelect").value = "all";
+      localStorage.setItem('selectedManufacturer', MANU.value);
+      localStorage.removeItem('selectedFEC');
     }
 
-    // Show the selected category's tags
-    var selectedDiv = document.getElementById("category-" + selectedCategory);
-    if (selectedDiv) {
-      selectedDiv.style.display = "block";
-    }
-  }
-
-  function showManufacturerTags() {
-    var select = document.getElementById("manufacturerSelect");
-    var selectedCategory = select.value;
-    localStorage.setItem('selectedManufacturer', selectedCategory);
-
-    localStorage.removeItem('selectedFEC');
-    document.getElementById("FECSelect").value = "all";
-    
-    // Hide all category tag lists
     var categories = document.getElementsByClassName("category-tags");
     for (var i = 0; i < categories.length; i++) {
       categories[i].style.display = "none";
