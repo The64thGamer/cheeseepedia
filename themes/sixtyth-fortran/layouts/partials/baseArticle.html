@@ -3,12 +3,11 @@
 <h1>{{- .Title | safeHTML -}}</h1>
 <hr>
 
-
-<div class="article-thumbnail">
-  {{- if .Params.pageThumbnailFile -}}
+{{- if .Params.pageThumbnailFile -}}
+  <div class="article-thumbnail">
     {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
-  {{- end -}}
-</div>
+  </div>
+{{- end -}}
 {{- .Content | safeHTML}}
 <hr>
 {{- partial "display-gallery.html" . -}}

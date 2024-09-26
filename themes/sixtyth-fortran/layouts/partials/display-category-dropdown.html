@@ -1,9 +1,0 @@
-<select id="categorySelect" onchange="showCategoryTags()">
-    <option value="" disabled>Select a ategory</option>
-    {{- $categories := .Site.Taxonomies.categories -}}
-    <option value="all" selected >All Pages</option>
-    {{- range $categoryName, $pages := $categories -}}
-      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" -}}</option>
-    {{- end -}}
-</select>
-{{- return $categories -}}

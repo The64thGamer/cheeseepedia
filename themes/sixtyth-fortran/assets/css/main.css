@@ -16,7 +16,7 @@ body {
   font-size: 1em;
   line-height: 1.5; 
   margin: 0 auto;
-  max-width: 55em;
+  max-width: 65em;
   min-width: 30em;
   border-color: var(--yellow);
   border-style: solid;
@@ -66,7 +66,7 @@ h2{
   font-family: "RockoFLF";
   font-size: 1em;
   line-height: 1.5;
-  max-width: 55em;
+  max-width: 65em;
   min-width: 30em;
   max-height: 5.5em;
   min-height: 5.5em;
@@ -77,14 +77,6 @@ h2{
   margin-top: 1em;
   margin-bottom: 1em;
   box-shadow: 0 0 0 0.25em var(--orange);
-  overflow: hidden;
-}
-
-.list-page-container {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-  height: auto;
   overflow: hidden;
 }
 
@@ -122,11 +114,18 @@ h2{
   color: var(--white);
 }
 
+.list-page-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
 .list-page-content ,.pagefind-ui__result-title{
   flex-grow: 1;
   display: flex;
   flex-direction: column;
-  max-width: 25em;
   font-size: 1.5em;
   align-self: center;
   margin-right: 1em;
@@ -146,31 +145,6 @@ h2{
 .list-page-date {
   color: var(--yellow);
   font-size: .75em;
-}
-
-.list-page-block-special {
-  color: var(--yellow);
-  background-color: var(--blue);
-  font-family: "RockoFLF";
-  font-size: 1em;
-  line-height: 1.5; 
-  margin: 0 auto;
-  max-width: 55em;
-  min-width: 30em;
-  border-color: var(--yellow);
-  border-style: solid;
-  border-width: .5em;
-  border-radius: 5em;
-  padding-left: 3em;
-  padding-right: 3em;
-  padding-top: .5em;
-  padding-bottom: 1.5em;
-  margin-top: 2em;
-  margin-bottom: 2em;
-  outline-color: var(--orange);
-  outline-width: .5em;
-  outline-style: solid;
-  box-shadow: 0 0 0 .75em var(--brown), inset 0 0 0 0.25em var(--white);
 }
 
 .contributors{
@@ -249,7 +223,7 @@ h2{
   width: auto;
   overflow: hidden;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   margin-left: -4.5em;
   margin-right: -4.5em;
 }
@@ -389,7 +363,6 @@ select
   color: var(--white);
   background-color: var(--orange);
   font-size: 1em;
-  max-width: 40vw;
   border-color: var(--brown);
   border-style: solid;
   border-width: .25em;
