@@ -1,9 +1,14 @@
-<h1>{{- .Title | safeHTML -}}</h1><hr>
+{{- partial "editButton.html" . -}}
+{{- partial "display-breadcrumbs.html" . -}}
+<h1>{{- .Title | safeHTML -}}</h1>
+<hr>
 
-{{- $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") -}}
-{{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
-
-{{- .Content | safeHTML -}}
+{{- if .Params.pageThumbnailFile -}}
+  <div class="article-thumbnail">
+    {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+  </div>
+{{- end -}}
+{{- .Content | safeHTML}}
 
 <hr>
 <h2>I contributed to these pages!</h2>
@@ -24,6 +29,4 @@
   </ul>
 </div>
 <hr>
-<div class="contributors">
-  <strong> Last updated on: </strong><time datetime="{{- $dateMachine -}}">{{- $dateHuman -}}</time>
-</div>
+{{- partial "display-contributors.html" . -}}
