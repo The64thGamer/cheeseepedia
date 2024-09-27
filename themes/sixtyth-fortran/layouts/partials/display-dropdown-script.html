@@ -62,6 +62,10 @@
         var showThese = document.getElementById("tagsContainer").children;
         for (var i = 0; i < showThese.length; i++) {
           showThese[i].style.display = "block";
+          if(YEAR.value != "all" && !showThese[i].classList.contains(YEAR.value))
+          {
+            showThese[i].style.display = "none";
+          }
         }
       }
       else
