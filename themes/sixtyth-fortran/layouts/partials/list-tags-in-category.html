@@ -46,17 +46,12 @@
     var FEC = document.getElementById("FECSelect");
     var MANULoadValue = localStorage.getItem('selectedManufacturer');
     var MANU = document.getElementById("manufacturerSelect");
-    var YEARLoadValue = localStorage.getItem('selectedYear');
-    var YEAR = document.getElementById("yearSelect");
 
     if (FECLoadValue) {
       FEC.value = FECLoadValue;
     }
     if (MANULoadValue) {
       MANU.value = MANULoadValue;
-    }
-    if (YEARLoadValue) {
-      YEAR.value = YEARLoadValue;
     }
     showCategoryTags();
   }
