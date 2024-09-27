@@ -17,7 +17,9 @@
   {{- end -}}
 {{- end -}}
 <hr>
-<div class="contributors">
-  <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
-</div>
-<hr>
+{{- if .Params.date -}}
+  <div class="contributors">
+    <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
+  </div>
+  <hr>
+{{- end -}}
