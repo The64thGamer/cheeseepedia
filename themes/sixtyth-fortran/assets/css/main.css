@@ -44,6 +44,7 @@ h1{
   font-size: 2rem;
   color: var(--yellow);
   margin: 0;
+  margin-bottom: 1em;
 }
 
 h2{
@@ -262,12 +263,32 @@ h2{
   border-style: solid;
 }
 
-.article-thumbnail{
+.article-infobox{
   float: right;
   margin-bottom: 1em;
   margin-left: 1em;
-  max-width: 20em;
-  min-width: 20em;
+  color: var(--brown);
+  background-color: var(--yellow);
+  border: solid;
+  border-radius: 1em;
+  border-width: 0.25em;
+  border-color: var(--brown);
+  padding: 1em;
+  max-width: 20.5em;
+  min-width: 20.5em;
+}
+
+.article-infobox-linkbox{
+  background-color: var(--brown);
+  padding: 0.5em;
+  border-radius: 1em;
+  color:var(--white);
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.article-infobox-linkbox ul{
+  margin:0;
 }
 
 .article-photo-description {

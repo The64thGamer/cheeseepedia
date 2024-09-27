@@ -1,7 +1,7 @@
 {{- $date := . -}}
 {{- $dateParts := split $date "-" -}}
 
-{{ if ge (len $dateParts) 3 }}
+{{- if ge (len $dateParts) 3 -}}
   {{- $year := default "0000" (index $dateParts 0) -}}
   {{- $month := default "00" (index $dateParts 1) -}}
   {{- $day := default "00" (index $dateParts 2) -}}
@@ -74,4 +74,4 @@
   {{- if (ne $year "0000")}}
     {{- printf $year -}}
   {{- end -}}
-{{ end }}
+{{- end -}}

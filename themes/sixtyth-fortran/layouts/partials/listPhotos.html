@@ -1,8 +1,8 @@
 <h1>{{- .Title -}}</h1>
 {{- .Content | safeHTML -}}
-{{ partialCached "display-dropdown-FEC.html" . }}
-{{ partialCached "display-dropdown-manufacturer.html" . }}
-{{ partialCached "display-dropdown-year.html" . }}
+{{- partialCached "display-dropdown-FEC.html" . -}}
+{{- partialCached "display-dropdown-manufacturer.html" . -}}
+{{- partialCached "display-dropdown-year.html" . -}}
 
 {{- $listPages := sort .Pages "Params.date" -}}
 <div class="gallery">
@@ -13,7 +13,7 @@
         justify-content: space-around;"
     >
         {{- range $listPages -}}
-        <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }}{{- " " -}}{{- partial "date-to-year.html" .Params.date -}}" style="display: none;">
+        <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.date -}}" style="display: none;">
             <div class="gallery-image-box">
                 {{- partial "filename-to-photo.html" .Title -}}
             </div>
@@ -22,4 +22,4 @@
     </div>
 </div>
 
-{{ partialCached "display-dropdown-script.html" . }}
+{{- partialCached "display-dropdown-script.html" . -}}

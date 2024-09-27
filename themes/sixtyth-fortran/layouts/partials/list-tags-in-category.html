@@ -1,8 +1,8 @@
-{{ partialCached "display-dropdown-FEC.html" . }}
-{{ partialCached "display-dropdown-manufacturer.html" . }}
+{{- partialCached "display-dropdown-FEC.html" . -}}
+{{- partialCached "display-dropdown-manufacturer.html" . -}}
 
 <div class="category-tags" id="category-all" style="display: block;">
-  {{ partial "list-all-tags.html" . }}
+  {{- partial "list-all-tags.html" . -}}
 </div>
 
 {{- $categories := .Site.Taxonomies.categories -}}

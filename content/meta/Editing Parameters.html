@@ -50,9 +50,19 @@ General Parameters
     <li><code>citations = []</code> Reference links for your sources, such as from archive.org or newspapers.com. In the article, you'll mark each reference by where it appears in the list (1-indexed), so if you have one link and want to reference it, you'd put after the sentence <code>&lt;sup&gt;(1)&lt;/sup&gt;</code> which looks like this.<sup>(1)</sup> </li>
     <li><code>credits = []</code> Credits for various things in the article. Start with the name, use a pipe "|", and then say their role. This would look like <code>["Ed Bogas|Producer", "John Widelock|Chuck E. Cheese Voice Actor"]</code> </li>
     <li><code>reviews = []</code> (Hey this part isn't done yet so feel free to ignore for now) User reviews, rating is a yes or no for reccomendation, review text can be as long as needed. Review date can be either today, or the last time you visited a place / when you got an item. Let your review be useful! We won't accept reviews made just to be funny or to get on a page. The parameter is formatted as <code>"Username|Yes/No|DateOfReview|Review Text"</code>, so one with multiple filled in reviews would look like <code>["Contrib1|Yes|2024-12-31|Place was clean","Contrib2|No|2026-01-29|Item feels cheap."]</code></li>
+    <li><code>downloadLinks = []</code> Links to downloadable files. Formatted with a pipe for description such as <code>downlaodLinks = ["Archive.org|Building Plans","Archive.org|Unused Audio (1993)"]</code></li>
 </ul>
 <br>
 Location Parameters
 <ul>
     <li><code>latitudeLongitude = []</code> Latitude and Longitude for addresses. You can easily search online for a tool that converts any address to these coordinates. This is used to place a pin on the locations map. It'll look like <code>["37.321610", "-121.950000"]</code></li>
+</ul>
+<br>
+Item Parameters
+<ul>
+    <li><code>manufacturer = ""</code> Name of producer of an item. </li>
+    <li><code>unitsProduced = ""</code> Number of known items produced. </li>
+    <li><code>wholesalePrice = ""</code> The known wholesale price of an item. </li>
+    <li><code>prices = []</code> A list of prices for the item. Formatted by date with a pipe, such as <code>prices = ["$4.99|1981-12-31","$8.99|1983-00-00"]</code>. </li>
+    <li><code>dimensions = ""</code> The dimensions of an item. </li>
 </ul>

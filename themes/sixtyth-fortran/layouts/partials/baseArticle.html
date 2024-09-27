@@ -1,13 +1,61 @@
 {{- partial "editButton.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
 <h1>{{- .Title | safeHTML -}}</h1>
-<hr>
-
 {{- if .Params.pageThumbnailFile -}}
-  <div class="article-thumbnail">
-    {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+  <div class="article-infobox">
+      <div class="article-thumbnail">
+        {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+      </div>
+    {{- if or (.Params.startDate) (.Params.endDate) -}}
+    <b>{{- "Release: " -}}</b>{{- partial "display-date-ranges.html" . -}}
+    {{- end -}}
+    {{- if .Params.unitsProduced -}}
+    <br><b>{{- "Units Produced: " -}}</b>{{- .Params.unitsProduced -}}
+    {{- end -}}
+    {{- if .Params.manufacturer -}}
+    <br><b>{{- "Manufacturer: " -}}</b>{{- .Params.manufacturer -}}
+    {{- end -}}
+    {{- range .Params.alsoKnownAs -}}
+    <br><b>{{- "Label: " -}}</b>"{{- . -}}""
+    {{- end -}}
+    {{- if .Params.showtapeFormats -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Released On: " -}}</b>
+        <ul>
+          {{- range .Params.showtapeFormats -}}
+          <li><a href="{{- "/wiki/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a></li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+    {{- if .Params.credits -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Credits: " -}}</b>
+        <ul>
+          {{- range .Params.credits -}}
+          <li>{{- replace . "|" ": " -}}</li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+    {{- if .Params.downloadLinks -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Downloads: " -}}</b>
+        <ul>
+          {{- range .Params.downloadLinks -}}
+            {{- $downloadParts := split . "|" -}}
+            {{- if ge (len $downloadParts) 2 -}}
+              <li><a href="{{- (index $downloadParts 0) -}}">{{- (index $downloadParts 1) -}}</a></li>
+            {{- else -}}
+              <li><a href="{{- . -}}">{{- . -}}</a></li>
+            {{- end -}}
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
   </div>
 {{- end -}}
+
 {{- .Content | safeHTML}}
 <hr>
 {{- partial "display-gallery.html" . -}}

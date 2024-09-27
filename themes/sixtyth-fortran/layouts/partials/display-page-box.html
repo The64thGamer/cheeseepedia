@@ -14,22 +14,7 @@
                 {{- end -}}
             </a>
             <div class="list-page-date">
-                {{- $startCheck := false -}}
-                {{- if .Params.startDate -}}
-                    {{- partial "date-to-readable-date.html" .Params.startDate -}}
-                    {{- $startCheck = true -}}
-                {{- end -}}
-                {{- if .Params.endDate -}}
-                    {{- if $startCheck -}}
-                    {{" - "}}{{- partial "date-to-readable-date.html" .Params.endDate -}}
-                    {{- else -}}
-                    {{"? - "}}{{- partial "date-to-readable-date.html" .Params.endDate -}}
-                    {{- end -}}
-                {{- else -}}
-                    {{- if $startCheck -}}
-                    {{" - Present"}}
-                    {{- end -}}
-                {{- end -}}
+                {{- partial "display-date-ranges.html" . -}}
             </div>
         </div>
         <div class="edit-button-container">
