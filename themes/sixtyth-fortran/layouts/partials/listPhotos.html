@@ -1,80 +1,25 @@
 <h1>{{- .Title -}}</h1>
 {{- .Content | safeHTML -}}
+{{ partialCached "display-dropdown-FEC.html" . }}
+{{ partialCached "display-dropdown-manufacturer.html" . }}
+{{ partialCached "display-dropdown-year.html" . }}
 
-<select id="categorySelect" onchange="showCategoryTags()">
-    <option value="" disabled>Select a ategory</option>
-    {{- $categories := .Site.Taxonomies.categories -}}
-    <option value="all" selected >All Pages</option>
-    {{- range $categoryName, $pages := $categories -}}
-      <option value="{{- $categoryName -}}" >{{- $categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz" -}}</option>
-    {{- end -}}
-</select>
-
-
-<div class="category-tags" id="category-all" style="display: block;">
-    <div class="gallery">
-        {{- range sort .Pages "Params.date" -}}
+{{- $listPages := sort .Pages "Params.date" -}}
+<div class="gallery">
+    <div id="tagsContainer" style="  
+        display: flex;
+        flex-wrap: wrap;
+        align-items: stretch;
+        justify-content: space-around;"
+    >
+        {{- range $listPages -}}
+        <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }}{{- " " -}}{{- partial "date-to-year.html" .Params.date -}}" style="display: none;">
             <div class="gallery-image-box">
                 {{- partial "filename-to-photo.html" .Title -}}
             </div>
-        {{- end -}}
-    </div>        
-</div>
-
-<div id="tagsContainer">
-    {{- $listPages := . -}}
-    {{- range $categoryName, $pages := $categories -}}
-        <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
-            {{- $hasPages := false -}} <!-- Flag to check if there are pages -->
-            <div class="gallery">
-                {{- range sort $listPages.Pages "Params.date" -}}
-                    {{- if in .Params.categories ($categoryName | humanize | title | replaceRE "Cheeses" "Cheese's" | replaceRE "Showbiz" "ShowBiz") -}}
-                        <div class="gallery-image-box">
-                            {{- partial "filename-to-photo.html" .Title -}}
-                        </div>
-                        {{- $hasPages = true -}}
-                    {{- end -}}
-                {{- end -}}
-            </div>
-            {{- if not $hasPages -}} <!-- Display message if no pages found -->
-                <div class="fun-text">
-                    <strong>No pages in this category.</strong>
-                </div>
-            {{- end -}}
         </div>
-    {{- end -}}
+        {{- end -}}
+    </div>
 </div>
 
-
-
-  <script>
-    window.onload = function() {
-        // Retrieve the saved category from localStorage
-        var selectedCategory = localStorage.getItem('selectedCategory');
-        var select = document.getElementById("categorySelect");
-    
-        if (selectedCategory) {
-          select.value = selectedCategory;
-          showCategoryTags();
-        }
-    }
-  
-    function showCategoryTags() {
-      var select = document.getElementById("categorySelect");
-      var selectedCategory = select.value;
-  
-      localStorage.setItem('selectedCategory', selectedCategory);
-      
-      // Hide all category tag lists
-      var categories = document.getElementsByClassName("category-tags");
-      for (var i = 0; i < categories.length; i++) {
-        categories[i].style.display = "none";
-      }
-  
-      // Show the selected category's tags
-      var selectedDiv = document.getElementById("category-" + selectedCategory);
-      if (selectedDiv) {
-        selectedDiv.style.display = "block";
-      }
-    }
-  </script>
+{{ partialCached "display-dropdown-script.html" . }}
