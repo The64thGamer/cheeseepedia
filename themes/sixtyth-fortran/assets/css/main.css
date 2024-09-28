@@ -44,7 +44,6 @@ h1{
   font-size: 2rem;
   color: var(--yellow);
   margin: 0;
-  margin-bottom: 1em;
 }
 
 h2{
@@ -263,6 +262,58 @@ h2{
   border-style: solid;
 }
 
+.article-button:hover{
+  background-color: var(--yellow);
+}
+
+.article-editpage-button:hover{
+  background-color: var(--aqua);
+}
+
+.article-button,.article-editpage-button{
+  background-color: var(--orange);
+  color: var(--white);
+  border:solid;
+  border-color: var(--yellow);
+  border-top-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0.5em;
+  border-right-width: 0.5em;
+  padding-top: 0.75em;
+  padding-bottom: 0.75em;
+  font-size: 1em;
+  letter-spacing: .1rem;
+  font-family: "RockoFLF";
+  flex:1;
+  margin-left: 0.25em;
+  margin-right:0.25em;
+  cursor: pointer;
+}
+
+
+.article-topbar{
+  margin-bottom: 1.5em;
+  margin-top: 1.5em;
+  margin-left: -5em;
+  margin-right: -5em;
+  color: var(--brown);
+  background-color: var(--white);
+  border: solid;
+  border-top-width: 0.5em;
+  border-bottom-width: 0.5em;
+  border-left-width: 0.5em;
+  border-right-width: 0.5em;
+  border-color: var(--brown);
+  color: var(--brown);
+  width:auto;
+  flex: auto;
+  justify-content: space-evenly;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}
+
 .article-infobox{
   float: right;
   margin-bottom: 1em;
@@ -271,11 +322,18 @@ h2{
   background-color: var(--yellow);
   border: solid;
   border-radius: 1em;
-  border-width: 0.25em;
+  border-width: 0.5em;
+  border-top-width: 0em;
+  border-right-width: 0em;
+  border-bottom-right-radius: 0em;
+  border-top-left-radius: 0em;
+  border-top-right-radius: 0em;
   border-color: var(--brown);
   padding: 1em;
   max-width: 20.5em;
   min-width: 20.5em;
+  margin-top: -1.5em;
+  margin-right: -4.5em;
 }
 
 .article-infobox-linkbox{
