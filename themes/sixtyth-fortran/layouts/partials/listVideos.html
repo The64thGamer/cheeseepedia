@@ -1,0 +1,16 @@
+<h1>{{- .Title -}}</h1>
+{{- .Content | safeHTML -}}
+{{- partialCached "display-dropdown-FEC.html" . -}}
+{{- partialCached "display-dropdown-manufacturer.html" . -}}
+{{- partialCached "display-dropdown-year.html" . -}}
+
+<div id="tagsContainer">
+    {{- $listPages := sort .Pages "Params.date" -}}
+    {{- range $listPages -}}
+      <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.date -}}" style="display: none;">
+        {{- partial "display-video-box.html" . -}}
+      </div>
+    {{- end -}}
+</div>
+
+{{- partialCached "display-dropdown-script.html" . -}}
