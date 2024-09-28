@@ -1,8 +1,12 @@
+{{- $gallery := partial "display-gallery.html" . -}}
+
 {{- partial "display-breadcrumbs.html" . -}}
 <h1>{{- .Title | safeHTML -}}</h1>
 <div class="article-topBar">
   <button class="article-button" data-target="section-article">Article</button>
+  {{- if ne $gallery "" -}}
   <button class="article-button" data-target="section-gallery">Gallery</button>
+  {{- end -}}
   {{- partial "editButton.html" . -}}
 </div>
 
@@ -14,9 +18,11 @@
   </div>
   {{- .Content | safeHTML}}
 </div>
-<div id="section-gallery" class="article-section">
-  {{- partial "display-gallery.html" . -}}
-</div>
+{{- if ne $gallery "" -}}
+  <div id="section-gallery" class="article-section">
+    {{- $gallery -}}
+  </div>
+{{- end -}}
 <div id="section-videos" class="article-section">
 
 </div>

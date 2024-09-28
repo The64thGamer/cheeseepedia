@@ -103,7 +103,8 @@ h2{
   border-width: 0.25em;
   border-radius: 1em;
   padding: 0.75em;
-  margin: 1em;
+  margin-top: 1em;
+  margin-bottom: 1em;
   width: 100%;
 }
 
@@ -156,10 +157,14 @@ h2{
   color: var(--white); 
 }
 
+.button:hover{
+background-color: var(--aqua);
+}
+
 .button{
   font-family: "RockoFLF";
   letter-spacing: .1rem;
-  color: var(--yellow);
+  color: var(--white);
   background-color: var(--orange);
   font-size: 1em;
   max-width: 40vw;
@@ -352,10 +357,6 @@ h2{
 .article-photo-description {
   margin: 0.5em;
   text-align: center;
-}
-
-.button a{
-  color: var(--white);
 }
 
 .contributors sup{
