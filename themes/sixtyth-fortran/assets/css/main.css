@@ -428,6 +428,8 @@ caption {
 .article-video{
   width: 100%;
   height: auto;
+  margin-top:1em;
+  margin-bottom:1em;
 }
 
 footer {
