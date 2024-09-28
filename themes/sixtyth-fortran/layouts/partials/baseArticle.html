@@ -1,11 +1,17 @@
 {{- $gallery := partial "display-gallery.html" . -}}
+{{- $article := false -}}
+{{- if ne $gallery "" -}}
+  {{- $article = true -}}
+{{- end -}}
 
 {{- partial "display-breadcrumbs.html" . -}}
 <h1>{{- .Title | safeHTML -}}</h1>
 <div class="article-topBar">
-  <button class="article-button" data-target="section-article">Article</button>
+  {{- if $article -}}
+    <button class="article-button" data-target="section-article">Article</button>
+  {{- end -}}
   {{- if ne $gallery "" -}}
-  <button class="article-button" data-target="section-gallery">Gallery</button>
+    <button class="article-button" data-target="section-gallery">Gallery</button>
   {{- end -}}
   {{- partial "editButton.html" . -}}
 </div>
