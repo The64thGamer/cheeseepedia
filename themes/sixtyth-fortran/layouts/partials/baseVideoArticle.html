@@ -1,10 +1,11 @@
 {{- partial "editButton-list.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- "Photo" -}}</h1>
-<div class="article-photo-thumbnail">
-  {{- partial "filename-to-photo-no-css.html" .Title -}}
+<h1>{{- "Video" -}}</h1>
+{{- if .Params.title -}}
+<div class="article-video">
+  {{- partial "video.html" .Params.title -}}
 </div>
-
+{{- end -}}
 <h2>Tagged Articles</h2>
 {{- $callerPages := .Params.pages -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
