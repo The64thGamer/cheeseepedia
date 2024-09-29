@@ -1,7 +1,5 @@
 {{- $date := . -}}
-{{- $dateParts := split $date "-" -}}
-
-{{ if ge (len $dateParts) 3 }}
+{{- $dateParts := split (index (split $date " ") 0) "-" -}}{{- if ge (len $dateParts) 3 -}}
   {{- $year := default "0000" (index $dateParts 0) -}}
   {{- $month := default "00" (index $dateParts 1) -}}
   {{- $day := default "00" (index $dateParts 2) -}}
@@ -64,14 +62,23 @@
     "29" "29, " 
     "30" "30, " 
     "31" "31, " 
+    "0" "" 
+    "1" "1, " 
+    "2" "2, " 
+    "3" "3, " 
+    "4" "4, " 
+    "5" "5, " 
+    "6" "6, " 
+    "7" "7, " 
+    "8" "8, " 
+    "9" "9, " 
   -}}
 
   {{- $monthName := index $months $month -}}
   {{- $dayName := index $days $day -}}
-
   {{- $monthName -}}
   {{- $dayName -}}
   {{- if (ne $year "0000")}}
     {{- printf $year -}}
   {{- end -}}
-{{ end }}
+{{- end -}}

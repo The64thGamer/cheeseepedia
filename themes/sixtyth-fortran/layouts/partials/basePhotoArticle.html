@@ -1,15 +1,13 @@
-
-{{- partial "editButton.html" . -}}
+{{- partial "editButton-list.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- .Title | safeHTML -}}</h1>
-
+<h1>{{- "Photo" -}}</h1>
 <div class="article-photo-thumbnail">
   {{- partial "filename-to-photo-no-css.html" .Title -}}
 </div>
 
 <h2>Tagged Articles</h2>
 {{- $callerPages := .Params.pages -}}
-{{- $pages := partialCached "grab-all-wiki-articles.html" . }}
+{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
 {{- range $pages -}}
   {{- $pageTitle := .Title}}
   {{- if in $callerPages $pageTitle -}}
@@ -17,7 +15,9 @@
   {{- end -}}
 {{- end -}}
 <hr>
-<div class="contributors">
-  <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
-</div>
-<hr>
+{{- if .Params.date -}}
+  <div class="contributors">
+    <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
+  </div>
+  <hr>
+{{- end -}}
