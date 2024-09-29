@@ -1,5 +1,6 @@
 {{- $date := . -}}
-{{- $dateParts := split (index (split $date " ") 0) "-" -}}{{- if ge (len $dateParts) 3 -}}
+{{- $dateParts := split (index (split $date " ") 0) "-" -}}
+{{- if ge (len $dateParts) 3 -}}
   {{- $year := default "0000" (index $dateParts 0) -}}
   {{- $month := default "00" (index $dateParts 1) -}}
   {{- $day := default "00" (index $dateParts 2) -}}
