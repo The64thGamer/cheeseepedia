@@ -1,7 +1,7 @@
 {{- $videoURL := . -}}
 
 {{- if in $videoURL "youtube.com" -}}
-    {{- $videoID := replace (after "v=" $videoURL) "&" "" -}}
+    {{- $videoID := $videoURL | strings.TrimPrefix "https://www.youtube.com/watch?v=" -}}
     <iframe
         src="https://www.youtube.com/embed/{{ $videoID }}" 
         frameborder="0" allowfullscreen>
