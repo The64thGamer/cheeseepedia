@@ -1,5 +1,6 @@
 {{- partialCached "display-dropdown-FEC.html" . -}}
 {{- partialCached "display-dropdown-manufacturer.html" . -}}
+{{- partialCached "display-dropdown-movie.html" . -}}
 
 <div class="category-tags" id="category-all" style="display: block;">
   {{- partial "list-all-tags.html" . -}}
@@ -46,12 +47,17 @@
     var FEC = document.getElementById("FECSelect");
     var MANULoadValue = localStorage.getItem('selectedManufacturer');
     var MANU = document.getElementById("manufacturerSelect");
+    var MOVIELoadValue = localStorage.getItem('selectedMovie');
+    var MOVIE = document.getElementById("movieSelect");
 
     if (FECLoadValue) {
       FEC.value = FECLoadValue;
     }
     if (MANULoadValue) {
       MANU.value = MANULoadValue;
+    }
+    if (MOVIELoadValue) {
+      MOVIE.value = MOVIELoadValue;
     }
     showCategoryTags();
   }
@@ -60,34 +66,61 @@
     var selectedCategory = "all";
     var FEC = document.getElementById("FECSelect");
     var MANU = document.getElementById("manufacturerSelect");
+    var MOVIE = document.getElementById("movieSelect");
 
     if(check == "FEC")
     {
       selectedCategory = FEC.value;
       document.getElementById("manufacturerSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedFEC', FEC.value);
       localStorage.removeItem('selectedManufacturer');
+      localStorage.removeItem('selectedMovie');
     }
     else if(check == "MANU")
     {    
       selectedCategory = MANU.value;
       document.getElementById("FECSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedManufacturer', MANU.value);
       localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedMovie');
+    }
+    else if(check == "MOVIE")
+    {    
+      selectedCategory = MOVIE.value;
+      document.getElementById("FECSelect").value = "all";
+      document.getElementById("manufacturerSelect").value = "all";
+      localStorage.setItem('selectedMovie', MOVIE.value);
+      localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedManufacturer');
     }
     if(FEC.value != "all")
     {
       selectedCategory = FEC.value;
       document.getElementById("manufacturerSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedFEC', FEC.value);
       localStorage.removeItem('selectedManufacturer');
+      localStorage.removeItem('selectedMovie');
     }
     if(MANU.value != "all")
     {
       selectedCategory = MANU.value;
       document.getElementById("FECSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedManufacturer', MANU.value);
       localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedMovie');
+    }
+    if(MOVIE.value != "all")
+    {
+      selectedCategory = MOVIE.value;
+      document.getElementById("FECSelect").value = "all";
+      document.getElementById("manufacturerSelect").value = "all";
+      localStorage.setItem('selectedMovie', MOVIE.value);
+      localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedManufacturer');
     }
 
     var categories = document.getElementsByClassName("category-tags");

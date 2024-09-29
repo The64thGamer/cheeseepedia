@@ -7,7 +7,9 @@
         var MANU = document.getElementById("manufacturerSelect");
         var YEARLoadValue = localStorage.getItem('selectedYear');
         var YEAR = document.getElementById("yearSelect");
-  
+        var MOVIELoadValue = localStorage.getItem('selectedMovie');
+        var MOVIE = document.getElementById("movieSelect");
+
         if (FECLoadValue) {
           FEC.value = FECLoadValue;
         }
@@ -16,6 +18,9 @@
         }
         if (YEARLoadValue) {
           YEAR.value = YEARLoadValue;
+        }
+        if (MOVIELoadValue) {
+          MOVIE.value = MOVIELoadValue;
         }
         showCategoryTags();
   
@@ -26,35 +31,62 @@
       var FEC = document.getElementById("FECSelect");
       var MANU = document.getElementById("manufacturerSelect");
       var YEAR = document.getElementById("yearSelect");
+      var MOVIE = document.getElementById("movieSelect");
       localStorage.setItem('selectedYear', YEAR.value);
   
       if(check == "FEC")
       {
         selectedCategory = FEC.value;
         document.getElementById("manufacturerSelect").value = "all";
+        document.getElementById("movieSelect").value = "all";
         localStorage.setItem('selectedFEC', FEC.value);
         localStorage.removeItem('selectedManufacturer');
+        localStorage.removeItem('selectedMovie');
       }
       else if(check == "MANU")
       {    
         selectedCategory = MANU.value;
         document.getElementById("FECSelect").value = "all";
+        document.getElementById("movieSelect").value = "all";
         localStorage.setItem('selectedManufacturer', MANU.value);
         localStorage.removeItem('selectedFEC');
+        localStorage.removeItem('selectedMovie');
+      }
+      else if(check == "MOVIE")
+      {    
+        selectedCategory = MOVIE.value;
+        document.getElementById("FECSelect").value = "all";
+        document.getElementById("manufacturerSelect").value = "all";
+        localStorage.setItem('selectedMovie', MOVIE.value);
+        localStorage.removeItem('selectedFEC');
+        localStorage.removeItem('selectedManufacturer');
       }
       if(FEC.value != "all")
       {
         selectedCategory = FEC.value;
         document.getElementById("manufacturerSelect").value = "all";
+        document.getElementById("movieSelect").value = "all";
         localStorage.setItem('selectedFEC', FEC.value);
         localStorage.removeItem('selectedManufacturer');
+        localStorage.removeItem('selectedMovie');
       }
       if(MANU.value != "all")
       {
         selectedCategory = MANU.value;
         document.getElementById("FECSelect").value = "all";
+        document.getElementById("movieSelect").value = "all";
         localStorage.setItem('selectedManufacturer', MANU.value);
         localStorage.removeItem('selectedFEC');
+        localStorage.removeItem('selectedMovie');
+      }
+      if(MOVIE.value != "all")
+      {
+        selectedCategory = MOVIE.value;
+        document.getElementById("FECSelect").value = "all";
+        document.getElementById("manufacturerSelect").value = "all";
+        localStorage.setItem('selectedMovie', MOVIE.value);
+        localStorage.removeItem('selectedFEC');
+        localStorage.removeItem('selectedManufacturer');
       }
   
       if (selectedCategory == "all")

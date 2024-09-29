@@ -24,12 +24,12 @@
 </div>
 
 <div id="section-article" class="article-section">
-  <div class="article-store-thumbnail">
-    {{- if .Params.pageThumbnailFile -}}
-    {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+  {{- if .Params.pageThumbnailFile -}}
+    <div class="article-store-thumbnail">
+      {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+    </div>
   {{- end -}}
-  </div>
-  {{- .Content | safeHTML}}
+  {{- .Content | safeHTML -}}
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">
