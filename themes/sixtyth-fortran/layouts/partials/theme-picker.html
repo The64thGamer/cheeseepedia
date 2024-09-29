@@ -1,0 +1,80 @@
+<select id="colorThemeSelector">
+    <option value="root-theme-standard">Standard</option>
+    <option value="root-theme-dark">Dark</option>
+    <option value="root-theme-light">Light</option>
+    <option value="root-theme-classic">Classic</option>
+</select>
+
+<script>
+
+const colorSets = {
+    "root-theme-standard": {
+        "--blue": "#233355",
+        "--aqua": "#39A481",
+        "--white": "#dbd1b1",
+        "--deep-white": "#62777a",
+        "--yellow": "#e0961f",
+        "--orange": "#D44A02",
+        "--deep-orange": "#993b08",
+        "--brown": "#2c2422"
+    },
+    "root-theme-dark": {
+        "--blue": "#000c26",
+        "--aqua": "#24795D",
+        "--white": "#ccc5ab",
+        "--deep-white": "#43666c",
+        "--yellow": "#ac7318",
+        "--orange": "#8C3000",
+        "--deep-orange": "#000000",
+        "--brown": "#000000"
+    },
+    "root-theme-light": {
+        "--blue": "#fff",
+        "--aqua": "#3b6bbf",
+        "--white": "#2f2e2a",
+        "--deep-white": "#b9b9b9",
+        "--yellow": "#959595",
+        "--orange": "#646464",
+        "--deep-orange": "#fff",
+        "--brown": "#c4c4c4"
+    },
+    "root-theme-classic": {
+        "--blue": "#1e2c4c",
+        "--aqua": "#d73333",
+        "--white": "#FFF",
+        "--deep-white": "#62777a",
+        "--yellow": "#4070D0",
+        "--orange": "#121d34",
+        "--deep-orange": "#1e2c4c",
+        "--brown": "#121d34"
+    }
+    };
+      
+    const root = document.documentElement;
+
+    document.getElementById('colorThemeSelector').addEventListener('change', function () {
+      const selectedSet = this.value;
+    
+      // Update each variable in the selected color set
+      const colors = colorSets[selectedSet];
+      for (let variable in colors) {
+        root.style.setProperty(variable, colors[variable]);
+      }
+    
+      // Save the selected color set to localStorage for persistence
+      localStorage.setItem('selectedColorSet', selectedSet);
+    });
+    
+    // Check localStorage to persist the selected color set on page load
+    window.addEventListener('DOMContentLoaded', () => {
+      const savedSet = localStorage.getItem('selectedColorSet');
+      if (savedSet && colorSets[savedSet]) {
+        const colors = colorSets[savedSet];
+        for (let variable in colors) {
+          root.style.setProperty(variable, colors[variable]);
+        }
+        document.getElementById('colorThemeSelector').value = savedSet;
+      }
+    });    
+</script>
+  

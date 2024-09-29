@@ -1,13 +1,4 @@
-:root {
-  --blue:#233355;
-  --aqua: #39A481;
-  --white: #dbd1b1;
-  --deep-white: #62777a;
-  --yellow: #e0961f;
-  --orange: #D44A02;
-  --deep-orange: #993b08;
-  --brown: #2c2422;
-}
+
 
 body {
   color: var(--white);
