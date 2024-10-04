@@ -55,7 +55,7 @@
 
     // Show the default section (Article)
     const defaultSection = document.getElementById('section-article');
-    defaultSection.style.display = 'block';
+    defaultSection.style.display = 'inline-block';
 
     // Add event listeners to buttons
     const buttons = document.querySelectorAll('.article-button');
@@ -67,7 +67,7 @@
         // Show the clicked section
         const targetSection = document.getElementById(this.dataset.target);
         if (targetSection) {
-          targetSection.style.display = 'block';
+          targetSection.style.display = 'inline-block';
         }
       });
     });
