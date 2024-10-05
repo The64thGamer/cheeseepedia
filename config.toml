@@ -22,3 +22,5 @@ weight = 40
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+ignoreFiles = "/static/Code/.*"

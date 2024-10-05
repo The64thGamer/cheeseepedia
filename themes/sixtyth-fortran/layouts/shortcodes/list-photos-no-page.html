@@ -1,0 +1,22 @@
+  <ul>
+    {{/* Define the directory for photos */}}
+    {{ $photosDir := "static/photos" }}
+    {{ $photos := readDir $photosDir }}
+
+    {{/* Collect all page titles from the photos section */}}
+    {{ $titles := slice }}
+    {{ range .Site.Pages }}
+        {{ if eq .Section "photos" }}
+            {{ $titles = $titles | append .Title }}
+        {{ end }}
+    {{ end }}
+
+    {{/* Iterate over all photo files */}}
+    {{ range $photos }}
+        {{ $photoFile := .Name }}
+        {{/* If the photo name is not in the list of titles, output it */}}
+        {{ if not (in $titles $photoFile) }}
+            <li>{{ $photoFile }}</li>
+        {{ end }}
+    {{ end }}
+  </ul>
