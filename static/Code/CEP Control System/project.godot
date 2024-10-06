@@ -11,8 +11,11 @@ config_version=5
 [application]
 
 config/name="CEP Control System"
-config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://icon.svg"
+config/version="0.1"
+run/main_scene="res://control.tscn"
+config/features=PackedStringArray("4.3", "C#", "GL Compatibility")
+boot_splash/show_image=false
+config/icon="res://Favicon.png"
 
 [dotnet]
 
