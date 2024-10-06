@@ -79,19 +79,19 @@ placeholder_text = "Date"
 alignment = 1
 
 [node name="TextEdit" type="TextEdit" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer"]
-custom_minimum_size = Vector2(0, 200)
 layout_mode = 2
+size_flags_vertical = 3
 placeholder_text = "Description"
 
-[node name="LineEdit4" type="LineEdit" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer"]
+[node name="TextEdit2" type="TextEdit" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer"]
 layout_mode = 2
-placeholder_text = "Categories (Separate by \", \" example: ShowBiz Pizza, Creative Engineering)"
-alignment = 1
+size_flags_vertical = 3
+placeholder_text = "Categories (Separate by new lines)"
 
-[node name="LineEdit5" type="LineEdit" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer"]
+[node name="TextEdit3" type="TextEdit" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer"]
 layout_mode = 2
-placeholder_text = "Pages (Separate by \", \" example: ShowBiz Pizza, Creative Engineering)"
-alignment = 1
+size_flags_vertical = 3
+placeholder_text = "Pages (Separate by new lines)"
 
 [node name="Button" type="Button" parent="PanelContainer/MarginContainer/Video Adder/VBoxContainer" node_paths=PackedStringArray("link", "date", "description", "categories", "pages")]
 layout_mode = 2
@@ -100,5 +100,5 @@ script = ExtResource("2_civon")
 link = NodePath("../LineEdit")
 date = NodePath("../LineEdit2")
 description = NodePath("../TextEdit")
-categories = NodePath("../LineEdit4")
-pages = NodePath("../LineEdit5")
+categories = NodePath("../TextEdit2")
+pages = NodePath("../TextEdit3")

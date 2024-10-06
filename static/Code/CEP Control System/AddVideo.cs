@@ -7,8 +7,8 @@ public partial class AddVideo : Button
 	[Export] LineEdit link;
 	[Export] LineEdit date;
 	[Export] TextEdit description;
-	[Export] LineEdit categories;
-	[Export] LineEdit pages;
+	[Export] TextEdit categories;
+	[Export] TextEdit pages;
 	
 	public override void _Ready()
 	{
@@ -21,10 +21,10 @@ public partial class AddVideo : Button
 		html += "\n" + "title = \"" + link.Text + "\"";
 		html += "\n" + "tags = [\"Videos\"]";
 		html += "\n" + "categories = [";
-		string[] catsplit = categories.Text.Split(", ");
+		string[] catsplit = categories.Text.Split("\n");
 		for (int i = 0; i < catsplit.Length; i++)
 		{
-			html += "\"" + catsplit[i] + "\"";
+			html += "\"" + catsplit[i].StripEdges(true,true) + "\"";
 			if(i != catsplit.Length-1)
 			{
 				html += ", ";
@@ -34,10 +34,10 @@ public partial class AddVideo : Button
 		html += "\n" + "date = \"" + date.Text + "\"";
 		html += "\n" + "draft = false";
 		html += "\n" + "pages = [";
-		string[] pagesplit = pages.Text.Split(", ");
+		string[] pagesplit = pages.Text.Split("\n");
 		for (int i = 0; i < pagesplit.Length; i++)
 		{
-			html += "\"" + pagesplit[i] + "\"";
+			html += "\"" + pagesplit[i].StripEdges(true,true) + "\"";
 			if(i != pagesplit.Length-1)
 			{
 				html += ", ";
