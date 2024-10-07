@@ -1,0 +1,25 @@
+{{- partial "editButton-list.html" . -}}
+{{- partial "display-breadcrumbs.html" . -}}
+<h1>{{- "Video" -}}</h1>
+{{- if .Params.title -}}
+<div class="article-video">
+  {{- partial "video.html" .Params.title -}}
+</div>
+{{- .Params.description -}}
+{{- end -}}
+<h2>Tagged Articles</h2>
+{{- $callerPages := .Params.pages -}}
+{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+{{- range $pages -}}
+  {{- $pageTitle := .Title}}
+  {{- if in $callerPages $pageTitle -}}
+    {{- partial "display-page-box.html" . -}}
+  {{- end -}}
+{{- end -}}
+<hr>
+{{- if .Params.date -}}
+  <div class="contributors">
+    <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.date -}}
+  </div>
+  <hr>
+{{- end -}}

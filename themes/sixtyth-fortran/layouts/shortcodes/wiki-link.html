@@ -1,0 +1,3 @@
+<a href="/wiki/{{- .Get 0 | urlize -}}">
+    {{- with .Get 1 -}}{{- . -}}{{- else -}}{{- .Get 0 -}}{{- end -}}
+</a>

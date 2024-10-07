@@ -1,3 +1,5 @@
+<aside data-pagefind-ignore>
 {{- $pages := where (shuffle (partialCached "grab-all-wiki-articles.html" .)) "Content" "!=" "" -}}
 {{- $randomPage := index $pages 0 -}}
 {{- partial "display-page-box.html" $randomPage -}}
+</aside>

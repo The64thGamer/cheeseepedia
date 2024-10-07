@@ -1,0 +1,24 @@
+<div class="tri-column">
+    <ul>
+      {{/* Define the directory for photos */}}
+      {{ $photosDir := "static/photos" }}
+      {{ $photos := readDir $photosDir }}
+  
+      {{/* Collect all photo names from static/photos (without extensions) */}}
+      {{ $photoNames := slice }}
+      {{ range $photos }}
+          {{ $photoFile := .Name }}
+          {{ $photoNames = $photoNames | append $photoFile }}
+      {{ end }}
+  
+      {{/* Iterate over all content pages in the "photos" section */}}
+      {{ range .Site.Pages }}
+          {{ if eq .Section "photos" }}
+            {{ if and (ne .Title "Photos") (not (in $photoNames .Title)) }}
+                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+          {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+  

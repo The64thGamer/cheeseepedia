@@ -17,25 +17,25 @@
 
   <div style="display: flex; align-items: center; margin-bottom: 1em;">
     <label for="yearSlider" style="margin-right: 1em;">Year</label>
-    <input type="range" id="yearSlider" min="1977" max="{{- now.Year -}}" value="{{- now.Year -}}" oninput="updateDaySlider()" style="flex: 1;">
+    <input type="range" id="yearSlider" min="1977" max="{{- now.Year -}}" oninput="updateDaySlider()" style="flex: 1;">
   </div>
 
   <div style="display: flex; align-items: center;">
     <label for="daySlider" style="margin-right: 1em;">Date</label>
-    <input type="range" id="daySlider" min="1" max="365" value="{{- if eq (now.Year | sub 1977) 0 -}}{{- now.Day -}}{{- else -}}1{{- end -}}" oninput="updateDate()" style="flex: 1; margin-right: 1em;">
+    <input type="range" id="daySlider" min="1" max="365" oninput="updateDate()" style="flex: 1; margin-right: 1em;">
     
-    <input type="date" id="datePicker" value="{{- now.Format "2006-01-02" -}}" onchange="updateFromDatePicker()" style="flex-shrink: 0;">
+    <input type="date" id="datePicker" onchange="updateFromDatePicker()" style="flex-shrink: 0;">
   </div>
 </div>
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     var map = L.map('map').setView([20,10],2); // Set default view
-
+  
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
     }).addTo(map);
-
+  
     // Custom red marker icon
     var redIcon = L.icon({
       iconUrl: 'https://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png', // A red marker icon URL
@@ -43,7 +43,7 @@
       iconAnchor: [16, 32], // Anchor point of the icon (middle bottom)
       popupAnchor: [0, -32] // Popup anchor point (middle top)
     });
-
+  
     // Array to store markers data
     var locations = [
         {{- range $pages -}}
@@ -56,21 +56,21 @@
                 },
         {{- end -}}
     ];
-
+  
     var markers = [];
-
+  
     // Function to create and add markers to the map
     function addMarkers(selectedDate) {
       // Remove existing markers
       markers.forEach(marker => map.removeLayer(marker));
       markers = [];
-
+  
       // Add markers based on date range filtering
       locations.forEach(function(location) {
         var startDate = new Date(location.startDate);
         var endDate = new Date(location.endDate);
         var currentDate = new Date(selectedDate);
-
+  
         // Only display markers that fall within the selected date
         if (currentDate >= startDate && currentDate <= endDate) {
           var marker = L.marker(location.coords, { icon: redIcon }).addTo(map)
@@ -80,26 +80,25 @@
       });
     }
 
-    // Initialize markers on page load with the current date
-    var currentDate = new Date();
-    addMarkers(currentDate.toISOString().split('T')[0]); // Initialize with today's date
-
-    // Event listener for the year slider
-    document.getElementById('yearSlider').addEventListener('input', function() {
-      updateDaySlider(); // Update the day slider when the year changes
-      updateDate(); // Update the date when year changes
-    });
-
-    // Event listener for the day slider
+      // Event listener for the year slider
+      document.getElementById('yearSlider').addEventListener('input', function() {
+        updateDaySlider(); // Update the day slider when the year changes
+        updateDate(); // Update the date when year changes
+      });
+    
     document.getElementById('daySlider').addEventListener('input', updateDate);
-
-    // Event listener for the date picker
     document.getElementById('datePicker').addEventListener('change', updateFromDatePicker);
-
+  
+    // Initialize markers on page load with the current date
+    var currentDate = new Date({{- now.Year -}}, 0); 
+    currentDate.setDate({{- now.YearDay -}});
+    document.getElementById('datePicker').value = currentDate.toISOString().split('T')[0];
+    updateFromDatePicker();
+  
     function updateFromDatePicker() {
       var datePickerValue = document.getElementById('datePicker').value;
       addMarkers(datePickerValue); // Update markers based on the selected date
-
+  
       // Update the sliders based on the selected date
       var selectedDate = new Date(datePickerValue);
       document.getElementById('yearSlider').value = selectedDate.getFullYear();
@@ -107,7 +106,7 @@
       updateDaySlider(); // Adjust the day slider max if necessary
       updateDate(); // Update the date display
     }
-
+  
     function updateDaySlider() {
       var year = parseInt(document.getElementById('yearSlider').value);
       var maxDays = (new Date(year, 1, 29).getDate() === 29) ? 366 : 365; // Check for leap year
@@ -116,30 +115,31 @@
         document.getElementById('daySlider').value = maxDays; // Adjust slider if it's out of bounds
       }
     }
-
+  
     function updateDate() {
       var year = document.getElementById('yearSlider').value;
       var dayOfYear = document.getElementById('daySlider').value;
-
+  
       var date = new Date(year, 0); // Start from January 1
       date.setDate(dayOfYear); // Set to the specified day of the year
-
+  
       // Update the map markers
       addMarkers(date.toISOString().split('T')[0]); // Update markers based on new date
-
+  
       // Update the displayed date value in MM/DD/YYYY format
       var formattedDate = (date.getMonth() + 1).toString().padStart(2, '0') + '/' + 
                           date.getDate().toString().padStart(2, '0') + '/' + 
                           date.getFullYear();
       document.getElementById('dateValue').innerHTML = formattedDate; // Display formatted date
-
+  
       // Update date picker value
       document.getElementById('datePicker').value = date.toISOString().split('T')[0]; // Sync with date picker
     }
-
+  
     function getDayOfYear(date) {
       var start = new Date(date.getFullYear(), 0);
       return Math.ceil((date - start) / (1000 * 60 * 60 * 24)) + 1; // Calculate day of the year
     }
   });
+  
 </script>

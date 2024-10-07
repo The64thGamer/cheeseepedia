@@ -1,0 +1,25 @@
+{{- $videoURL := . -}}
+
+{{- if in $videoURL "youtube.com" -}}
+    {{- $videoID := $videoURL | strings.TrimPrefix "https://www.youtube.com/watch?v=" -}}
+    <iframe
+        src="https://www.youtube.com/embed/{{- $videoID -}}" 
+        frameborder="0" allowfullscreen>
+    </iframe>
+
+{{- else if in $videoURL "youtu.be" -}}
+    {{- $videoID := last 1 (split $videoURL "/") | first 1 -}}
+    <iframe
+        src="https://www.youtube.com/embed/{{- index $videoID 0 -}}" 
+        frameborder="0" allowfullscreen>
+    </iframe>
+
+{{- else if in $videoURL "archive.org" -}}
+    {{- $videoID := (split $videoURL "/") -}}
+    <iframe src="https://archive.org/embed/{{- index $videoID 4 -}}" 
+      frameborder="0" allowfullscreen>
+    </iframe>
+
+{{- else -}}
+    <p>Unsupported video link: {{- $videoURL -}}</p>
+{{- end -}}

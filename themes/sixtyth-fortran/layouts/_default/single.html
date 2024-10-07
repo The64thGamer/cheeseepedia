@@ -7,6 +7,8 @@
       {{- $layout = "baseStoreArticle" -}}
     {{- else if in . "Photos" -}}
       {{- $layout = "basePhotoArticle" -}}
+    {{- else if in . "Videos" -}}
+      {{- $layout = "baseVideoArticle" -}}
     {{- end -}}
   {{- end -}}
   {{- partial $layout . -}}
