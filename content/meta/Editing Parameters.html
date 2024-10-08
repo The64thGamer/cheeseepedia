@@ -28,6 +28,7 @@ Parameters always start and end with <code>+++</code>. Each parameter is also ca
     <li>Any parameter requiring a date must be formatted like YEAR-MONTH-DAY, in other words <code>2024-12-31</code>. If you don't know part of the date, you'll put <code>00</code> in its place. For instance, if you only know "May 1984" it'd be <code>1984-05-00</code>, if you don't know the entire date, just put <code>0000-00-00</code></li>
     <li>When dealing with dates considered "right now", just put <code>""</code>. The wiki will determine this as "today". This is useful for locations that haven't closed yet. Set their <code>startdate</code> to the opening, and leave the <code>enddate</code> as <code>""</code> </li>
     <li>In the more complex parameters, there will be a "pipe" ( "|" ) input to distinguish multiple pieces of text in one part. These deliminate each section when the wiki reads it. For example: <code>["Ed Bogas|Producer", "John Widelock|Chuck E. Cheese Voice Actor"]</code> uses the pipe to seperate the name from the role. Not using the piping correctly may result in breaking the site so check the instructions for the parameter and if it uses pipes!</li>
+    <li>Certain characters like quotes " cannot be used alone in a parameter or it will thing its breaking out early. To have a quote inside a quote you mark it as <code>\"</code>. This will mainly happen when you're trying to link something.</li>
 </ul>
 
 <h2>The Parameters</h2>
