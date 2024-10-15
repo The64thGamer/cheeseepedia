@@ -10,6 +10,9 @@
     {{- if .Params.unitsProduced -}}
     <br><b>{{- "Units Produced: " -}}</b>{{- .Params.unitsProduced -}}
     {{- end -}}
+    {{- if .Params.mediaDuration -}}
+    <br><b>{{- "Media Duration: " -}}</b>{{- .Params.mediaDuration -}}
+    {{- end -}}
     {{- if .Params.manufacturer -}}
     <br><b>{{- "Manufacturer: " -}}</b>{{- .Params.manufacturer -}}
     {{- end -}}
