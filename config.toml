@@ -23,4 +23,7 @@ weight = 40
   category = 'categories'
   tag = 'tags'
 
+[params]
+  dateFormat = "2006-1-2"
+
 ignoreFiles = "/static/Code/.*"
