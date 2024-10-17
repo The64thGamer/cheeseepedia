@@ -1,0 +1,19 @@
+{{- if .Params.Transcriptions -}}
+  {{- range .Params.Transcriptions -}}
+    {{- $transcriptionTitle := . -}}
+    {{- $matchingPage := "" -}}
+    {{- range site.RegularPages -}}
+      {{- if and (eq .Section "transcriptions") (eq .Title $transcriptionTitle) -}}
+        {{- $matchingPage = . -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $matchingPage -}}
+      <div class="transcription-content">
+        <h2>{{ $matchingPage.Title -}}</h2>
+        <ul>
+          {{ $matchingPage.Content -}}
+        </ul>
+      </div>
+    {{- end -}}
+  {{- end -}}
+{{- end -}}

@@ -33,6 +33,10 @@
     display: none;
 }
 
+.transcription-content b {
+  color: var(--yellow);
+}
+
 
 body {
   color: var(--white);
