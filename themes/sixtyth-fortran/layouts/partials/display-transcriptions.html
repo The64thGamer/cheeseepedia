@@ -12,6 +12,11 @@
         <h2>{{ $matchingPage.Title -}}</h2>
         <ul>
           {{ $matchingPage.Content -}}
+          {{- if $matchingPage.Params.citations -}}
+            <hr>
+            {{- partial "display-citations.html" $matchingPage -}}
+            <hr>
+          {{- end -}}
         </ul>
       </div>
     {{- end -}}

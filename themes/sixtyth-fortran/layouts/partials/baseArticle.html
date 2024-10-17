@@ -27,6 +27,7 @@
 <div id="section-article" class="article-section">
   {{- partial "display-infobox.html" . -}}
   {{- .Content | safeHTML}}
+  {{- partial "display-citations.html" . -}}
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">
@@ -44,10 +45,8 @@
   {{- end -}}
 </div>
 <div id="section-reviews" class="article-section">
-
 </div>
 <hr>
-{{- partial "display-citations.html" . -}}
 {{- partial "display-contributors.html" . -}}
 <h2>Random Articles</h2>
 {{- partial "random-page.html" . -}}
