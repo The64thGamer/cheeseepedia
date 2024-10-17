@@ -1,7 +1,7 @@
 {{- $photos := partialCached "grab-all-photos.html" "key"}}
 {{- if eq . "" -}}
   <a href="{{- . -}}">
-    <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+    <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- . -}}" />
   </a>
   <div class="article-photo-description">
     {{- . -}}
@@ -12,9 +12,9 @@
     {{- $page := index $pages 0 -}}
       <a href="{{- $page.RelPermalink -}}">
         {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
-        <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
+        <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
         {{- else -}}
-        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
+        <img data-pagefind-meta="image[src], image_alt[alt]" src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
         {{- end -}}
       </a>
     <div class="article-photo-description">
@@ -25,7 +25,7 @@
     </div>
   {{- else -}}
       <a href="{{- . -}}">
-        <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />
+        <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- . -}}" />
       </a>
     </div>
       {{- . -}}

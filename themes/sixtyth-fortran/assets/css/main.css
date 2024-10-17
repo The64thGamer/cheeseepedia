@@ -88,6 +88,9 @@ h2{
 .list-page-block:hover, .pagefind-ui__result:hover{
   box-shadow: 0 0 0 0.25em var(--aqua);
 }
+.pagefind-ui__result-thumb{
+  min-width: 9em;
+}
 
 .list-page-block, .list-page-block-video, .pagefind-ui__result{
   display: flex;
