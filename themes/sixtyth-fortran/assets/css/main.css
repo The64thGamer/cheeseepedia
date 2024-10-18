@@ -82,7 +82,10 @@ h2{
 
 .tri-column ul {
   column-count: 3;
-  overflow-wrap: break-word;
+}
+
+.reg-column ul {
+  column-count: 1;
 }
 
 .list-page-block:hover, .pagefind-ui__result:hover{

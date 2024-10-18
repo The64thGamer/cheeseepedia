@@ -1,13 +1,90 @@
-<div class="tri-column">
-  <ul>
-    {{- range $name, $taxonomy := .Site.Taxonomies.tags -}}
-      {{- $cnt := len $taxonomy -}}
-      {{- with $.Site.GetPage (printf "/tags/%s" $name) -}}
-        <li>
-          <a href="{{- .RelPermalink -}}" title="All pages with tag <i>{{- .Title -}}</i>">{{- .Title -}}</a>
-          <sup> {{- $cnt -}}</sup>
-        </li>
+{{- $tagCategories := dict
+"Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Repair & Preservation")
+"Showtapes" (slice "Showtapes" "Showtape Formats" "Live Shows" "Showtape Puppets" "Family Vision" "ShowBiz Pizza Programs")
+"Products" (slice "Merchandise" "Menu Items" "Tokens" "Tickets" "Movies" "Video Games")
+"Locations" (slice "Locations" "Arcade Games" "Employee Wear" "Remodels & Initiatives" "Store Fixtures" "Ad Vehicles" )
+"Hardware & Software" (slice "Animatronic Control Systems" "Other Systems" "Programming Systems"
+"Animatronic Control Systems")
+"Documents" (slice "Promotional Material" "Documents" "Corporate Documents" "Training, Updates, & Company Media")
+"Media" (slice "Photos" "Videos" "News Footage" "Commercials")
+"History" (slice "Company History" "Events" "Characters")
+-}}
+
+
+{{- $pages := .Site.RegularPages -}}
+<div id="tagsContainer">
+  {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
+  {{- range $pages -}}
+  {{- $currentPage := . -}}
+  {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
+  {{- $tag := . -}}
+  {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
+  {{- if $count -}}
+  {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+  {{- else -}}
+  {{- $tags = merge $tags (dict $tag 1) -}}
+  {{- end -}}
+  {{- end -}}
+  {{- end -}}
+  {{- $categorizedTags := dict -}} <!-- Store categorized tags -->
+  {{- $otherTags := dict -}} <!-- Store other tags -->
+
+  <!-- Loop through tags and assign them to categories -->
+  {{- range $tag, $count := $tags -}}
+  {{- $found := false -}}
+  {{- range $category, $categoryTags := $tagCategories -}}
+  {{- if in $categoryTags $tag -}} <!-- Check if tag belongs to category -->
+  {{- $categorizedTags = merge $categorizedTags (dict $category (merge (index $categorizedTags $category | default dict)
+  (dict $tag $count))) -}}
+  {{- $found = true -}}
+  {{- end -}}
+  {{- end -}}
+
+  <!-- If no matching category, place tag in Other -->
+  {{- if not $found -}}
+  {{- $otherTags = merge $otherTags (dict $tag $count) -}}
+  {{- end -}}
+  {{- end -}}
+
+  <div class="tri-column">
+    <ul>
+      <!-- Output categorized tags -->
+      {{- range $category, $tags := $categorizedTags -}}
+      <div class="reg-column">
+        <strong>{{- $category -}}</strong>
+        <ul>
+          {{- range $tag, $count := $tags -}}
+          {{- $tagFix := (replace $tag " " "-") -}}
+          {{- $tagFix := (replace $tagFix "&-" "") -}}
+          {{- $tagFix := (replace $tagFix "," "") -}}
+          <li>
+            <a href="{{- ($.Site.GetPage (printf " /tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}} </i>">{{- $tag -}} </a>
+            <sup>{{- $count -}}</sup>
+          </li>
+          {{- end -}}
+        </ul>
+        <hr>
+      </div>
       {{- end -}}
-    {{- end -}}
-  </ul>
+
+      <!-- Output other tags -->
+      {{- if gt (len $otherTags) 0 -}}
+      <div class="reg-column">
+        <strong>Other</strong>
+        <ul>
+          {{- range $tag, $count := $otherTags -}}
+          {{- $tagFix := (replace $tag " " "-") -}}
+          {{- $tagFix := (replace $tagFix "&-" "") -}}
+          {{- $tagFix := (replace $tagFix "," "") -}}
+          <li>
+            <a href="{{- ($.Site.GetPage (printf " /tags/%s" $tagFix)).RelPermalink -}}"
+              title="All pages with tag <i>{{- $tag -}} </i>">{{- $tag -}} </a>
+            <sup>{{- $count -}}</sup>
+          </li>
+          {{- end -}}
+          {{- end -}}
+        </ul>
+      </div>
+    </ul>
+  </div>
 </div>
