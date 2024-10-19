@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Cheese-E-Pedia'
 theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
+enableGitInfo = true
 
 [markup]
   [markup.goldmark]

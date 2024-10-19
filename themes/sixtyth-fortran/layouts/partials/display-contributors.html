@@ -1,5 +1,4 @@
-{{- $dateMachine := partial "formatDate" (dict "Date" .Date "Format" "2006-01-02T15:04:05-07:00") -}}
-{{- $dateHuman := partial "formatDate" (dict "Date" .Date "Format" ":date_long") -}}
+
 <aside data-pagefind-ignore>
 <div class="contributors"><strong>Article Contributed By: </strong>
     {{- if .Params.contributors -}}
@@ -18,7 +17,9 @@
     {{- else -}}
       <strong>NOOOOBODY!!!!!</strong>
     {{- end -}}
-    <strong> | Last updated on: </strong><time datetime="{{- $dateMachine -}}">{{- $dateHuman -}}</time>
+    {{ with .GitInfo }}
+      <strong> | Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+    {{ end }}
   </div>
 <hr>
 </aside>
