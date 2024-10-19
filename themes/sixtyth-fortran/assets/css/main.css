@@ -286,6 +286,11 @@ background-color: var(--aqua);
   border-radius: 0.5em;
 }
 
+.article-section {
+  width: 100%;
+  display: inline-block;
+}
+
 .article-store-thumbnail{
   max-height: 35em;
   border-radius: 1em;
