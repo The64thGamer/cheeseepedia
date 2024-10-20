@@ -77,8 +77,7 @@
           {{- $tagFix := (replace $tagFix "&-" "") -}}
           {{- $tagFix := (replace $tagFix "," "") -}}
           <li>
-            <a href="{{- ($.Site.GetPage (printf " /tags/%s" $tagFix)).RelPermalink -}}"
-              title="All pages with tag <i>{{- $tag -}} </i>">{{- $tag -}} </a>
+            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>
             <sup>{{- $count -}}</sup>
           </li>
           {{- end -}}
