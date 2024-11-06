@@ -120,6 +120,7 @@ h2{
 }
 
 .list-page-block-video{
+  width: 100%;
   max-height: 12em;
   min-height: 12em;
   border-radius: 3em;
