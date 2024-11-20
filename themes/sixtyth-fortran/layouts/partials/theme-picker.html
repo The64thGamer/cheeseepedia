@@ -20,6 +20,46 @@ const colorSets = {
         "--deep-orange": "#993b08",
         "--brown": "#2c2422"
     },
+    "root-theme-winter": {
+        "--blue": "#1c3d4d",
+        "--aqua": "#47AEB3",
+        "--white": "#ccc",
+        "--deep-white": "#47757b",
+        "--yellow": "#3c8636",
+        "--orange": "#1A4F31",
+        "--deep-orange": "#4a7e86",
+        "--brown": "#1a1e37"
+    },
+    "root-theme-halloween": {
+        "--blue": "#37243e",
+        "--aqua": "#CE2929",
+        "--white": "#f2de73",
+        "--deep-white": "#795677",
+        "--yellow": "#9f5620",
+        "--orange": "#DF7426",
+        "--deep-orange": "#24172f",
+        "--brown": "#220902"
+    },
+    "root-theme-pride": {
+        "--blue": "#194455",
+        "--aqua": "#D06FA1",
+        "--white": "#d5c5ce",
+        "--deep-white": "#62777a",
+        "--yellow": "#50c6c6",
+        "--orange": "#3F86B0",
+        "--deep-orange": "#9b6b81",
+        "--brown": "#BF7FA0"
+    },
+    "root-theme-anniversary": {
+        "--blue": "#404040",
+        "--aqua": "#888",
+        "--white": "#d9d9d9",
+        "--deep-white": "#737373",
+        "--yellow": "#a2a2a2",
+        "--orange": "#686868",
+        "--deep-orange": "#2f2f2f",
+        "--brown": "#222"
+    },
     "root-theme-dark": {
         "--blue": "#000c26",
         "--aqua": "#24795D",
@@ -74,29 +114,65 @@ const colorSets = {
       
     const root = document.documentElement;
 
-    document.getElementById('colorThemeSelector').addEventListener('change', function () {
-      const selectedSet = this.value;
-    
-      // Update each variable in the selected color set
-      const colors = colorSets[selectedSet];
-      for (let variable in colors) {
+function applyTheme(theme) {
+    const colors = colorSets[theme];
+    for (let variable in colors) {
         root.style.setProperty(variable, colors[variable]);
-      }
+    }
+}
+
+// Check the current date and apply seasonal themes
+function applyDateBasedTheme() {
+    const today = new Date();
+    const month = today.getMonth() + 1; // Months are zero-based
+    const date = today.getDate();
+
+    if ((month === 10)) {
+        return "root-theme-halloween"; // October
+    } else if ((month === 6 || month === 7)) {
+        return "root-theme-pride"; // June & July
+    } else if (month === 5 && date === 17) {
+        return "root-theme-anniversary"; // May 17th
+    } else if (month >= 11 || month <= 1) {
+        return "root-theme-winter"; // November to January
+    }
+
+    return null; // No seasonal theme
+}
+
+// Event listener for theme selector
+document.getElementById('colorThemeSelector').addEventListener('change', function () {
+    const selectedSet = this.value;
     
-      // Save the selected color set to localStorage for persistence
-      localStorage.setItem('selectedColorSet', selectedSet);
-    });
-    
-    // Check localStorage to persist the selected color set on page load
-    window.addEventListener('DOMContentLoaded', () => {
-      const savedSet = localStorage.getItem('selectedColorSet');
-      if (savedSet && colorSets[savedSet]) {
-        const colors = colorSets[savedSet];
-        for (let variable in colors) {
-          root.style.setProperty(variable, colors[variable]);
+    if (selectedSet === "root-theme-standard" || selectedSet === "root-theme-classic") {
+        const seasonalTheme = applyDateBasedTheme();
+        if (seasonalTheme) {
+            applyTheme(seasonalTheme);
+        } else {
+            applyTheme(selectedSet);
         }
-        document.getElementById('colorThemeSelector').value = savedSet;
-      }
-    });    
+    } else {
+        applyTheme(selectedSet);
+    }
+
+    // Save the selected color set to localStorage for persistence
+    localStorage.setItem('selectedColorSet', selectedSet);
+});
+
+// Apply theme on page load
+window.addEventListener('DOMContentLoaded', () => {
+    const savedSet = localStorage.getItem('selectedColorSet') || "root-theme-standard";
+    document.getElementById('colorThemeSelector').value = savedSet;
+
+    if (savedSet === "root-theme-standard" || savedSet === "root-theme-classic") {
+        const seasonalTheme = applyDateBasedTheme();
+        if (seasonalTheme) {
+            applyTheme(seasonalTheme);
+        } else {
+            applyTheme(savedSet);
+        }
+    } else {
+        applyTheme(savedSet);
+    }
+});
 </script>
-  
