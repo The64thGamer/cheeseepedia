@@ -3,6 +3,7 @@ backend:
   repo: The64thGamer/cheeseepedia
   use_graphql: true
   open_authoring: true
+  publish_mode: editorial_workflow
   base_url: https://sveltia-cms-auth.a22j2udvt.workers.dev
 
 media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
