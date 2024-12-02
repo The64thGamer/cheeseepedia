@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: The64thGamer/cheeseepedia
+  use_graphql: true
+
+media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/photos" # The src attribute for uploaded media will begin with /images/uploads
+site_url: https://cheeseepedia.org/
+display_url: https://cheeseepedia.org/
+
+collections:
+  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "content/wiki" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "html" }
