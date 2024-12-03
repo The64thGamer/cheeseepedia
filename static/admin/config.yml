@@ -12,7 +12,7 @@ display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 
 collections:
-  - name: "animatronic_shows"
+  - name: "Animatronic Shows"
     label: "Animatronic Shows"
     folder: "content/wiki/"
     create: true
@@ -25,7 +25,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "stage_variations"
+  - name: "Stage Variations"
     label: "Stage Variations"
     folder: "content/wiki/"
     create: true
@@ -38,7 +38,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "animatronics"
+  - name: "Animatronics"
     label: "Animatronics"
     folder: "content/wiki/"
     create: true
@@ -51,7 +51,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "retrofits"
+  - name: "Retrofits"
     label: "Retrofits"
     folder: "content/wiki/"
     create: true
@@ -64,7 +64,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "costumed_characters"
+  - name: "Costumed Characters"
     label: "Costumed Characters"
     folder: "content/wiki/"
     create: true
@@ -77,7 +77,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "animatronic_repair_preservation"
+  - name: "Animatronic Repair & Preservation"
     label: "Animatronic Repair & Preservation"
     folder: "content/wiki/"
     create: true
@@ -90,7 +90,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "showtapes"
+  - name: "Showtapes"
     label: "Showtapes"
     folder: "content/wiki/"
     create: true
@@ -103,7 +103,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "showtape_formats"
+  - name: "Showtape Formats"
     label: "Showtape Formats"
     folder: "content/wiki/"
     create: true
@@ -116,7 +116,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "live_shows"
+  - name: "Live Shows"
     label: "Live Shows"
     folder: "content/wiki/"
     create: true
@@ -129,7 +129,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "showtape_puppets"
+  - name: "Showtape Puppets"
     label: "Showtape Puppets"
     folder: "content/wiki/"
     create: true
@@ -142,7 +142,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "family_vision"
+  - name: "Family Vision"
     label: "Family Vision"
     folder: "content/wiki/"
     create: true
@@ -155,7 +155,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "showbiz_pizza_programs"
+  - name: "ShowBiz Pizza Programs"
     label: "ShowBiz Pizza Programs"
     folder: "content/wiki/"
     create: true
@@ -168,7 +168,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "merchandise"
+  - name: "Merchandise"
     label: "Merchandise"
     folder: "content/wiki/"
     create: true
@@ -181,7 +181,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "menu_items"
+  - name: "Menu Items"
     label: "Menu Items"
     folder: "content/wiki/"
     create: true
@@ -194,7 +194,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "tokens"
+  - name: "Tokens"
     label: "Tokens"
     folder: "content/wiki/"
     create: true
@@ -207,7 +207,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "tickets"
+  - name: "Tickets"
     label: "Tickets"
     folder: "content/wiki/"
     create: true
@@ -220,7 +220,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "movies"
+  - name: "Movies"
     label: "Movies"
     folder: "content/wiki/"
     create: true
@@ -233,7 +233,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "video_games"
+  - name: "Video Games"
     label: "Video Games"
     folder: "content/wiki/"
     create: true
@@ -246,7 +246,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "locations"
+  - name: "Locations"
     label: "Locations"
     folder: "content/wiki/"
     create: true
@@ -259,7 +259,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "arcade_games"
+  - name: "Arcade Games"
     label: "Arcade Games"
     folder: "content/wiki/"
     create: true
@@ -272,7 +272,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "employee_wear"
+  - name: "Employee Wear"
     label: "Employee Wear"
     folder: "content/wiki/"
     create: true
@@ -285,7 +285,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "remodels_initiatives"
+  - name: "Remodels & Initiatives"
     label: "Remodels & Initiatives"
     folder: "content/wiki/"
     create: true
@@ -298,7 +298,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "store_fixtures"
+  - name: "Store Fixtures"
     label: "Store Fixtures"
     folder: "content/wiki/"
     create: true
@@ -311,7 +311,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "ad_vehicles"
+  - name: "Ad Vehicles"
     label: "Ad Vehicles"
     folder: "content/wiki/"
     create: true
@@ -324,7 +324,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "animatronic_control_systems"
+  - name: "Animatronic Control Systems"
     label: "Animatronic Control Systems"
     folder: "content/wiki/"
     create: true
@@ -337,7 +337,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "other_systems"
+  - name: "Other Systems"
     label: "Other Systems"
     folder: "content/wiki/"
     create: true
@@ -350,7 +350,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "programming_systems"
+  - name: "Programming Systems"
     label: "Programming Systems"
     folder: "content/wiki/"
     create: true
@@ -363,7 +363,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "promotional_material"
+   - name: "Promotional Material"
     label: "Promotional Material"
     folder: "content/wiki/"
     create: true
@@ -376,7 +376,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "documents"
+  - name: "Documents"
     label: "Documents"
     folder: "content/wiki/"
     create: true
@@ -389,7 +389,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "corporate_documents"
+  - name: "Corporate Documents"
     label: "Corporate Documents"
     folder: "content/wiki/"
     create: true
@@ -402,7 +402,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "training_updates_company_media"
+  - name: "Training, Updates, & Company Media"
     label: "Training, Updates, & Company Media"
     folder: "content/wiki/"
     create: true
@@ -415,7 +415,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "news_footage"
+  - name: "News Footage"
     label: "News Footage"
     folder: "content/wiki/"
     create: true
@@ -428,7 +428,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "history"
+  - name: "History"
     label: "History"
     folder: "content/wiki/"
     create: true
@@ -441,7 +441,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "events"
+  - name: "Events"
     label: "Events"
     folder: "content/wiki/"
     create: true
@@ -454,7 +454,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "characters"
+  - name: "Characters"
     label: "Characters"
     folder: "content/wiki/"
     create: true
@@ -467,7 +467,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "articles" # Used in routes, e.g., /admin/collections/blog
+  - name: "Commercials" # Used in routes, e.g., /admin/collections/blog
     label: "Commercials" # Used in the UI
     folder: "content/wiki/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -480,8 +480,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "transcription" # Used in routes, e.g., /admin/collections/blog
-    label: "Transcription" # Used in the UI
+  - name: "Transcriptions" # Used in routes, e.g., /admin/collections/blog
+    label: "Transcriptions" # Used in the UI
     folder: "content/transcriptions/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: html
@@ -492,8 +492,8 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "user" # Used in routes, e.g., /admin/collections/blog
-    label: "User" # Used in the UI
+  - name: "Users" # Used in routes, e.g., /admin/collections/blog
+    label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: html
@@ -504,7 +504,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "meta" # Used in routes, e.g., /admin/collections/blog
+  - name: "Meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
     folder: "content/meta/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -516,7 +516,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "photo" # Used in routes, e.g., /admin/collections/blog
+  - name: "Photo" # Used in routes, e.g., /admin/collections/blog
     label: "Photo" # Used in the UI
     folder: "content/photos/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -527,8 +527,8 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      
-  - name: "video" # Used in routes, e.g., /admin/collections/blog
+
+  - name: "Video" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
     folder: "content/videos/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
