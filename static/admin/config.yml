@@ -23,6 +23,10 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Stage Variations"
