@@ -16,6 +16,7 @@ collections:
     label: "Animatronic Shows"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Animatronic Shows"}
     extension: html
     format: toml-frontmatter
@@ -33,6 +34,7 @@ collections:
     label: "Stage Variations"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Stage Variations"}
     extension: html
     format: toml-frontmatter
@@ -46,6 +48,7 @@ collections:
     label: "Animatronics"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Animatronics"}
     extension: html
     format: toml-frontmatter
@@ -59,6 +62,7 @@ collections:
     label: "Retrofits"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Retrofits"}
     extension: html
     format: toml-frontmatter
@@ -72,6 +76,7 @@ collections:
     label: "Costumed Characters"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Costumed Characters"}
     extension: html
     format: toml-frontmatter
@@ -85,6 +90,7 @@ collections:
     label: "Animatronic Repair & Preservation"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Animatronic Repair & Preservation"}
     extension: html
     format: toml-frontmatter
@@ -98,6 +104,7 @@ collections:
     label: "Showtapes"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Showtapes"}
     extension: html
     format: toml-frontmatter
@@ -111,6 +118,7 @@ collections:
     label: "Showtape Formats"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Showtape Formats"}
     extension: html
     format: toml-frontmatter
@@ -124,6 +132,7 @@ collections:
     label: "Live Shows"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Live Shows"}
     extension: html
     format: toml-frontmatter
@@ -137,6 +146,7 @@ collections:
     label: "Showtape Puppets"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Showtape Puppets"}
     extension: html
     format: toml-frontmatter
@@ -150,6 +160,7 @@ collections:
     label: "Family Vision"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Family Vision"}
     extension: html
     format: toml-frontmatter
@@ -163,6 +174,7 @@ collections:
     label: "ShowBiz Pizza Programs"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "ShowBiz Pizza Programs"}
     extension: html
     format: toml-frontmatter
@@ -176,6 +188,7 @@ collections:
     label: "Merchandise"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Merchandise"}
     extension: html
     format: toml-frontmatter
@@ -189,6 +202,7 @@ collections:
     label: "Menu Items"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Menu Items"}
     extension: html
     format: toml-frontmatter
@@ -202,6 +216,7 @@ collections:
     label: "Tokens"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Tokens"}
     extension: html
     format: toml-frontmatter
@@ -215,6 +230,7 @@ collections:
     label: "Tickets"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Tickets"}
     extension: html
     format: toml-frontmatter
@@ -228,6 +244,7 @@ collections:
     label: "Movies"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Movies"}
     extension: html
     format: toml-frontmatter
@@ -241,6 +258,7 @@ collections:
     label: "Video Games"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Video Games"}
     extension: html
     format: toml-frontmatter
@@ -254,6 +272,7 @@ collections:
     label: "Locations"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Locations"}
     extension: html
     format: toml-frontmatter
@@ -267,6 +286,7 @@ collections:
     label: "Arcade Games"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Arcade Games"}
     extension: html
     format: toml-frontmatter
@@ -280,6 +300,7 @@ collections:
     label: "Employee Wear"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Employee Wear"}
     extension: html
     format: toml-frontmatter
@@ -293,6 +314,7 @@ collections:
     label: "Remodels & Initiatives"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Remodels & Initiatives"}
     extension: html
     format: toml-frontmatter
@@ -306,6 +328,7 @@ collections:
     label: "Store Fixtures"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Store Fixtures"}
     extension: html
     format: toml-frontmatter
@@ -319,6 +342,7 @@ collections:
     label: "Ad Vehicles"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Ad Vehicles"}
     extension: html
     format: toml-frontmatter
@@ -332,6 +356,7 @@ collections:
     label: "Animatronic Control Systems"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Animatronic Control Systems"}
     extension: html
     format: toml-frontmatter
@@ -345,6 +370,7 @@ collections:
     label: "Other Systems"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Other Systems"}
     extension: html
     format: toml-frontmatter
@@ -358,6 +384,7 @@ collections:
     label: "Programming Systems"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Programming Systems"}
     extension: html
     format: toml-frontmatter
@@ -371,6 +398,7 @@ collections:
     label: "Promotional Material"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Promotional Material"}
     extension: html
     format: toml-frontmatter
@@ -384,6 +412,7 @@ collections:
     label: "Documents"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Documents"}
     extension: html
     format: toml-frontmatter
@@ -397,6 +426,7 @@ collections:
     label: "Corporate Documents"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Corporate Documents"}
     extension: html
     format: toml-frontmatter
@@ -410,6 +440,7 @@ collections:
     label: "Training, Updates, & Company Media"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Training, Updates, & Company Media"}
     extension: html
     format: toml-frontmatter
@@ -423,6 +454,7 @@ collections:
     label: "News Footage"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "News Footage"}
     extension: html
     format: toml-frontmatter
@@ -436,6 +468,7 @@ collections:
     label: "History"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "History"}
     extension: html
     format: toml-frontmatter
@@ -449,6 +482,7 @@ collections:
     label: "Events"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Events"}
     extension: html
     format: toml-frontmatter
@@ -462,6 +496,7 @@ collections:
     label: "Characters"
     folder: "content/wiki/"
     create: true
+    slug: "{{filename}}"
     filter: {field: "tags", value: "Characters"}
     extension: html
     format: toml-frontmatter
@@ -474,7 +509,8 @@ collections:
   - name: "Commercials" # Used in routes, e.g., /admin/collections/blog
     label: "Commercials" # Used in the UI
     folder: "content/wiki/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     filter: {field: "tags", value: "Commercials"}
     extension: html
     format: toml-frontmatter
@@ -487,7 +523,8 @@ collections:
   - name: "Transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
     folder: "content/transcriptions/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
     editor:
@@ -499,7 +536,8 @@ collections:
   - name: "Users" # Used in routes, e.g., /admin/collections/blog
     label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
     editor:
@@ -511,7 +549,8 @@ collections:
   - name: "Meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
     folder: "content/meta/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
     editor:
@@ -523,7 +562,8 @@ collections:
   - name: "Photo" # Used in routes, e.g., /admin/collections/blog
     label: "Photo" # Used in the UI
     folder: "content/photos/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
     editor:
@@ -535,7 +575,8 @@ collections:
   - name: "Video" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
     folder: "content/videos/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
     editor:
@@ -547,7 +588,8 @@ collections:
   - name: "Decap CMS" # Used in routes, e.g., /admin/collections/blog
     label: "Decap CMS" # Used in the UI
     folder: "static/admin/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{filename}}" # Allow users to create new documents in this collection
     extension: yml
     format: yml
     editor:
