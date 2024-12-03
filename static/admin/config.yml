@@ -363,7 +363,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-   - name: "Promotional Material"
+  - name: "Promotional Material"
     label: "Promotional Material"
     folder: "content/wiki/"
     create: true
