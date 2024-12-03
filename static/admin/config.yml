@@ -717,7 +717,8 @@ collections:
     label: "Commercials" # Used in the UI
     folder: "content/wiki/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     filter: {field: "tags", value: "Commercials"}
     extension: html
     format: toml-frontmatter
@@ -731,7 +732,8 @@ collections:
     label: "Transcriptions" # Used in the UI
     folder: "content/transcriptions/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: html
     format: toml-frontmatter
     editor:
@@ -744,7 +746,8 @@ collections:
     label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: html
     format: toml-frontmatter
     editor:
@@ -757,7 +760,8 @@ collections:
     label: "Meta Page" # Used in the UI
     folder: "content/meta/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: html
     format: toml-frontmatter
     editor:
@@ -770,7 +774,8 @@ collections:
     label: "Photo" # Used in the UI
     folder: "content/photos/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: html
     format: toml-frontmatter
     editor:
@@ -783,7 +788,8 @@ collections:
     label: "Video" # Used in the UI
     folder: "content/videos/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: html
     format: toml-frontmatter
     editor:
@@ -796,7 +802,8 @@ collections:
     label: "Decap CMS" # Used in the UI
     folder: "static/admin/" # The path to the folder where the documents are stored
     create: true
-    slug: "{{filename}}" # Allow users to create new documents in this collection
+    slug: "{{slug}}" 
+    preview_path: "wiki/{{filename}}.{{extension}}"
     extension: yml
     format: yml
     editor:
