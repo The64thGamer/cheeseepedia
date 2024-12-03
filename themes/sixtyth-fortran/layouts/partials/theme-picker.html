@@ -133,8 +133,8 @@ function applyDateBasedTheme() {
         return "root-theme-pride"; // June & July
     } else if (month === 5 && date === 17) {
         return "root-theme-anniversary"; // May 17th
-    } else if (month >= 11 || month <= 1) {
-        return "root-theme-winter"; // November to January
+    } else if (month == 12) {
+        return "root-theme-winter"; // December
     }
 
     return null; // No seasonal theme
