@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: The64thGamer/cheeseepedia
+  branch: main
   use_graphql: false
   open_authoring: true
   base_url: https://sveltia-cms-auth.a22j2udvt.workers.dev
@@ -28,6 +29,8 @@ collections:
       - { label: "Tags", name: "tags", widget: "list", min: 1 }
       - { label: "Categories", name: "categories", widget: "list", min: 1 }
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Stage Variations"
@@ -42,6 +45,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Animatronics"
@@ -56,6 +65,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Retrofits"
@@ -70,6 +85,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Costumed Characters"
@@ -84,6 +105,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Animatronic Repair & Preservation"
@@ -98,6 +125,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Showtapes"
@@ -112,6 +145,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Showtape Formats"
@@ -126,6 +165,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Live Shows"
@@ -140,6 +185,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Showtape Puppets"
@@ -154,6 +205,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Family Vision"
@@ -168,6 +225,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "ShowBiz Pizza Programs"
@@ -182,6 +245,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Merchandise"
@@ -196,6 +265,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Menu Items"
@@ -210,6 +285,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Tokens"
@@ -224,6 +305,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Tickets"
@@ -238,6 +325,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Movies"
@@ -252,6 +345,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Video Games"
@@ -266,6 +365,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Locations"
@@ -280,6 +385,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Arcade Games"
@@ -294,6 +405,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Employee Wear"
@@ -308,6 +425,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Remodels & Initiatives"
@@ -322,6 +445,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Store Fixtures"
@@ -336,6 +465,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Ad Vehicles"
@@ -350,6 +485,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Animatronic Control Systems"
@@ -364,6 +505,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Other Systems"
@@ -378,6 +525,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Programming Systems"
@@ -392,6 +545,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Promotional Material"
@@ -406,6 +565,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Documents"
@@ -420,6 +585,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Corporate Documents"
@@ -434,6 +605,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Training, Updates, & Company Media"
@@ -448,6 +625,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "News Footage"
@@ -462,6 +645,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "History"
@@ -476,6 +665,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Events"
@@ -490,6 +685,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Characters"
@@ -504,6 +705,12 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Tags", name: "tags", widget: "list", min: 1 }
+      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
+      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "Commercials" # Used in routes, e.g., /admin/collections/blog
