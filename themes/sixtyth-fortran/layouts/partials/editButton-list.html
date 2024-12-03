@@ -2,7 +2,7 @@
     {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/collections/" -}}
     {{- $collectionName := index .Page.Params.tags 0 -}} <!-- Get the first tag -->
     {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .md extension -->
-    <button class="article-editpage-button"
+    <button class="button"
         onclick="window.location.href = '{{ $cmsBaseURL }}{{ $collectionName }}/entries/{{ $entryName }}';">
         Edit Page
     </button>
