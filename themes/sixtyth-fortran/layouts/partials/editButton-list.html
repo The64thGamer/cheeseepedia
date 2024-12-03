@@ -1,7 +1,9 @@
 {{- if .Page.File -}}
-    {{- $gitHubBaseURL := "https://github.dev/The64thGamer/cheeseepedia/blob/e2329294cfb5f7da735308353338928fdb21155f/content/" -}}
-    <button class="button"
-        onclick="window.location.href = '{{- $gitHubBaseURL -}}{{- .Page.File.Path -}}';">
+    {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/edit/" -}}
+    {{- $collectionName := index .Page.Params.tags 0 -}} <!-- Get the first tag -->
+    {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .md extension -->
+    <button class="article-editpage-button"
+        onclick="window.location.href = '{{ $cmsBaseURL }}{{ $collectionName }}/{{ $entryName }}';">
         Edit Page
     </button>
 {{- end -}}
