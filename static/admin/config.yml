@@ -14,7 +14,62 @@ publish_mode: editorial_workflow
 collections:
   - name: "articles" # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
-    folder: "content/wiki" # The path to the folder where the documents are stored
+    folder: "content/wiki/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: html
+    format: toml-frontmatter
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "text" }
+  - name: "transcription" # Used in routes, e.g., /admin/collections/blog
+    label: "Transcription" # Used in the UI
+    folder: "content/transcriptions/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: html
+    format: toml-frontmatter
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "text" }
+  - name: "user" # Used in routes, e.g., /admin/collections/blog
+    label: "User" # Used in the UI
+    folder: "content/users/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: html
+    format: toml-frontmatter
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "text" }
+  - name: "meta" # Used in routes, e.g., /admin/collections/blog
+    label: "Meta Page" # Used in the UI
+    folder: "content/meta/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: html
+    format: toml-frontmatter
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "text" }
+  - name: "photo" # Used in routes, e.g., /admin/collections/blog
+    label: "Photo" # Used in the UI
+    folder: "content/photos/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    extension: html
+    format: toml-frontmatter
+    editor:
+      preview: false
+    fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "text" }
+  - name: "video" # Used in routes, e.g., /admin/collections/blog
+    label: "Video" # Used in the UI
+    folder: "content/videos/" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     extension: html
     format: toml-frontmatter
