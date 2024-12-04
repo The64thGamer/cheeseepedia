@@ -13,7 +13,7 @@ display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 
 collections:
-  - name: "Articles"
+  - name: "wiki"
     label: "Articles"
     folder: "content/wiki/"
     create: true
@@ -115,7 +115,7 @@ collections:
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Transcriptions" # Used in routes, e.g., /admin/collections/blog
+  - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
     folder: "content/transcriptions/" # The path to the folder where the documents are stored
     create: true
@@ -129,7 +129,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Users" # Used in routes, e.g., /admin/collections/blog
+  - name: "users" # Used in routes, e.g., /admin/collections/blog
     label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
     create: true
@@ -143,7 +143,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Meta" # Used in routes, e.g., /admin/collections/blog
+  - name: "meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
     folder: "content/meta/" # The path to the folder where the documents are stored
     create: true
@@ -157,7 +157,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Photo" # Used in routes, e.g., /admin/collections/blog
+  - name: "photos" # Used in routes, e.g., /admin/collections/blog
     label: "Photo" # Used in the UI
     folder: "content/photos/" # The path to the folder where the documents are stored
     create: true
@@ -171,7 +171,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Video" # Used in routes, e.g., /admin/collections/blog
+  - name: "videos" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
     folder: "content/videos/" # The path to the folder where the documents are stored
     create: true
@@ -185,7 +185,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Decap CMS" # Used in routes, e.g., /admin/collections/blog
+  - name: "admin" # Used in routes, e.g., /admin/collections/blog
     label: "Decap CMS" # Used in the UI
     folder: "static/admin/" # The path to the folder where the documents are stored
     create: true
