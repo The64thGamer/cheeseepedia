@@ -13,12 +13,11 @@ display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 
 collections:
-  - name: "Animatronic Shows"
-    label: "Animatronic Shows"
+  - name: "Articles"
+    label: "Articles"
     folder: "content/wiki/"
     create: true
     slug: "{{filename}}"
-    filter: {field: "tags", value: "Animatronic Shows"}
     extension: html
     format: toml-frontmatter
     editor:
@@ -28,54 +27,64 @@ collections:
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
       - label: "Tags"
         name: "tags"
-        widget: "select"
+        widget: "list"
         min: 1
+        max: 5
         allow_add: true
-        options:
-          - { label: "Animatronic Shows", value: "Animatronic Shows" }
-          - { label: "Stage Variations", value: "Stage Variations" }
-          - { label: "Animatronics", value: "Animatronics" }
-          - { label: "Retrofits", value: "Retrofits" }
-          - { label: "Costumed Characters", value: "Costumed Characters" }
-          - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
-          - { label: "Showtapes", value: "Showtapes" }
-          - { label: "Showtape Formats", value: "Showtape Formats" }
-          - { label: "Live Shows", value: "Live Shows" }
-          - { label: "Showtape Puppets", value: "Showtape Puppets" }
-          - { label: "Family Vision", value: "Family Vision" }
-          - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
-          - { label: "Merchandise", value: "Merchandise" }
-          - { label: "Menu Items", value: "Menu Items" }
-          - { label: "Tokens", value: "Tokens" }
-          - { label: "Tickets", value: "Tickets" }
-          - { label: "Movies", value: "Movies" }
-          - { label: "Video Games", value: "Video Games" }
-          - { label: "Locations", value: "Locations" }
-          - { label: "Arcade Games", value: "Arcade Games" }
-          - { label: "Employee Wear", value: "Employee Wear" }
-          - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
-          - { label: "Store Fixtures", value: "Store Fixtures" }
-          - { label: "Ad Vehicles", value: "Ad Vehicles" }
-          - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
-          - { label: "Other Systems", value: "Other Systems" }
-          - { label: "Programming Systems", value: "Programming Systems" }
-          - { label: "Promotional Material", value: "Promotional Material" }
-          - { label: "Documents", value: "Documents" }
-          - { label: "Corporate Documents", value: "Corporate Documents" }
-          - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
-          - { label: "Photos", value: "Photos" }
-          - { label: "Videos", value: "Videos" }
-          - { label: "News Footage", value: "News Footage" }
-          - { label: "Commercials", value: "Commercials" }
-          - { label: "History", value: "History" }
-          - { label: "Events", value: "Events" }
-          - { label: "Characters", value: "Characters" }
+        fields:
+        - label: "Tag"
+          name: "tag"
+          widget: "select"
+          options:
+            - { label: "Animatronic Shows", value: "Animatronic Shows" }
+            - { label: "Stage Variations", value: "Stage Variations" }
+            - { label: "Animatronics", value: "Animatronics" }
+            - { label: "Retrofits", value: "Retrofits" }
+            - { label: "Costumed Characters", value: "Costumed Characters" }
+            - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
+            - { label: "Showtapes", value: "Showtapes" }
+            - { label: "Showtape Formats", value: "Showtape Formats" }
+            - { label: "Live Shows", value: "Live Shows" }
+            - { label: "Showtape Puppets", value: "Showtape Puppets" }
+            - { label: "Family Vision", value: "Family Vision" }
+            - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
+            - { label: "Merchandise", value: "Merchandise" }
+            - { label: "Menu Items", value: "Menu Items" }
+            - { label: "Tokens", value: "Tokens" }
+            - { label: "Tickets", value: "Tickets" }
+            - { label: "Movies", value: "Movies" }
+            - { label: "Video Games", value: "Video Games" }
+            - { label: "Locations", value: "Locations" }
+            - { label: "Arcade Games", value: "Arcade Games" }
+            - { label: "Employee Wear", value: "Employee Wear" }
+            - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
+            - { label: "Store Fixtures", value: "Store Fixtures" }
+            - { label: "Ad Vehicles", value: "Ad Vehicles" }
+            - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
+            - { label: "Other Systems", value: "Other Systems" }
+            - { label: "Programming Systems", value: "Programming Systems" }
+            - { label: "Promotional Material", value: "Promotional Material" }
+            - { label: "Documents", value: "Documents" }
+            - { label: "Corporate Documents", value: "Corporate Documents" }
+            - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
+            - { label: "Photos", value: "Photos" }
+            - { label: "Videos", value: "Videos" }
+            - { label: "News Footage", value: "News Footage" }
+            - { label: "Commercials", value: "Commercials" }
+            - { label: "History", value: "History" }
+            - { label: "Events", value: "Events" }
+            - { label: "Characters", value: "Characters" }
       - label: "Categories"
         name: "categories"
-        widget: "select"
+        widget: "list"
         min: 1
+        max: 5
         allow_add: true
-        options:
+        fields:
+        - label: "Tag"
+          name: "tag"
+          widget: "select"
+          options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
           - { label: "Disney Parks", value: "Disney Parks" }
