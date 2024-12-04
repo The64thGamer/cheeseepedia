@@ -30,6 +30,7 @@ collections:
         widget: "list"
         min: 1
         max: 5
+        required: true
         allow_add: true
         fields:
         - label: "Tag"
@@ -79,6 +80,7 @@ collections:
         widget: "list"
         min: 1
         max: 5
+        required: true
         allow_add: true
         fields:
         - label: "Tag"
@@ -110,9 +112,9 @@ collections:
           - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
           - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
           - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
-      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
-      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
-      - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
+      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000", required: false}
+      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", default: "00-00-0000", required: false}
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
