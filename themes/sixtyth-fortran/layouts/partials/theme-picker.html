@@ -147,6 +147,10 @@ document.getElementById('colorThemeSelector').addEventListener('change', functio
     if (selectedSet === "root-theme-standard" || selectedSet === "root-theme-classic") {
         const seasonalTheme = applyDateBasedTheme();
         if (seasonalTheme) {
+            if(today.getMonth() + 1 == 12)
+            {
+                document.getElementById('snowWrap').style.display = 'block';
+            }
             applyTheme(seasonalTheme);
         } else {
             applyTheme(selectedSet);
