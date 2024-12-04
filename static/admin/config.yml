@@ -26,8 +26,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -46,8 +46,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -66,8 +66,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -86,8 +86,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -106,8 +106,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -126,8 +126,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -146,8 +146,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -166,8 +166,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -186,8 +186,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -206,8 +206,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -226,8 +226,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -246,8 +246,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -266,8 +266,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -286,8 +286,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -306,8 +306,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -326,8 +326,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -346,8 +346,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -366,8 +366,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -386,8 +386,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -406,8 +406,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -426,8 +426,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -446,8 +446,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -466,8 +466,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -486,8 +486,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -506,8 +506,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -526,8 +526,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -546,8 +546,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -566,8 +566,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -586,8 +586,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -606,8 +606,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -626,8 +626,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -646,8 +646,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -666,8 +666,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -686,8 +686,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
@@ -706,8 +706,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
+      - { label: "Tags", name: "tags", widget: "list", min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
+      - { label: "Categories", name: "categories", widget: "list",  min: 1, allow_add: true, field: {label: Tag, name: tag, widget: string}}
       - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
       - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000" }
       - { label: "End Date", name: "endDate", widget: "string", default: "00-00-0000" }
