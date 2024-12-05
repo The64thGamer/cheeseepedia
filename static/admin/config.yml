@@ -17,7 +17,6 @@ collections:
     label: "Articles"
     folder: "content/wiki/"
     create: true
-    slug: "{{filename}}"
     extension: html
     format: toml-frontmatter
     editor:
