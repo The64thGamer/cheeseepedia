@@ -1,0 +1,62 @@
+<div class="splash-text">
+    <div id="phraseDisplay"></div>
+</div>
+
+<script>
+    // List of random phrases
+    const randomPhrases = [
+        "CEC Master is watching",
+        "Set for a remodel soon!",
+        "Set to be demolished soon!",
+        "Unacceptable Crust!",
+        "Hasta la pasta!",
+        "Born on May 17th, 445 B.P. (Before Pasqually)",
+        "Sponsored by Winchester Grandma",
+        "Formerly Pizza Time Techs",
+        "Formerly Chuck-E-Pedia",
+        "DRUM SOLO",
+        "Poggers...",
+        "I was afraid to speak when I was just a lad",
+        "Turn off the fruitcake dog!",
+        "Bring back Crusty!",
+        "Bring back Rick Rat!",
+        "Sanctioned by the city of Irving!",
+        "Not to be confused with that other site",
+        "Fully open sourced!",
+        "We canonize trans Beach Bear",
+        "Conceptually Unified!",
+        "Orange-carpet free!",
+        "Sorry about your local",
+        "Forever indebted to Miraheze",
+        "The articles get a bit quirky at night",
+        "Hello? Hello hello?",
+        "That's me!",
+    ];
+
+    // Date-specific phrases (format: YYYY-MM-DD)
+    const dateSpecificPhrases = {
+        "12-25": "Merry Christmas from Cheese-E-Pedia!",
+        "01-01": "Happy New Year from Cheese-E-Pedia!",
+        "05-17": "Today's the anniversary of the first CEC location!",
+    };
+
+    function getTodayPhrase() {
+        const today = new Date();
+        const todayMonthDay = `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`; // Format as MM-DD
+
+        // Check if there's a specific phrase for today
+        if (dateSpecificPhrases[todayMonthDay]) {
+            return `"${dateSpecificPhrases[todayMonthDay]}"`;
+        }
+
+        // Otherwise, select a random phrase based on the day of the year
+        const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
+        return `"${randomPhrases[dayOfYear % randomPhrases.length]}"`;
+    }
+
+    // Display the phrase
+    document.addEventListener('DOMContentLoaded', () => {
+        const phraseDisplay = document.getElementById('phraseDisplay');
+        phraseDisplay.textContent = getTodayPhrase();
+    });
+</script>
