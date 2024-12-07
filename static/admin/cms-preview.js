@@ -1,21 +1,20 @@
-CMS.registerPreviewTemplate(collectionName, ({ entry }) => {
-  const data = entry.getIn(['data']);
-  return React.createElement('article', {
-    dangerouslySetInnerHTML: {
-      __html: `
-        <h1>${data.get('title')}</h1>
-        <div>${data.get('body')}</div>
-      `
-    }
-  });
-});
-
 const items = [
-  "admin", "videos", "photos", 
-  "meta", "users", "transcriptions", 
+  "admin", "videos", "photos",
+  "meta", "users", "transcriptions",
   "wiki"
 ];
 
-items.forEach(item => {
-  registerHTMLPreviewTemplate(item);
+// Register preview templates for all collections
+items.forEach(collectionName => {
+  CMS.registerPreviewTemplate(collectionName, ({ entry }) => {
+    const data = entry.getIn(['data']);
+    return React.createElement('article', {
+      dangerouslySetInnerHTML: {
+        __html: `
+          <h1>${data.get('title')}</h1>
+          <div>${data.get('body')}</div>
+        `
+      }
+    });
+  });
 });
