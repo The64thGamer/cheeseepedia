@@ -1,5 +1,3 @@
-import React from 'react';
-
 const items = [
   "admin", "videos", "photos",
   "meta", "users", "transcriptions",
@@ -10,13 +8,20 @@ const items = [
 items.forEach(collectionName => {
   CMS.registerPreviewTemplate(collectionName, ({ entry }) => {
     const data = entry.getIn(['data']);
-    return React.createElement('article', {
-      dangerouslySetInnerHTML: {
-        __html: `
-          <h1>${data.get('title')}</h1>
-          <div>${data.get('body')}</div>
-        `
-      }
-    });
+    
+    // Create HTML content without React
+    const article = document.createElement('article');
+    
+    // Create title
+    const h1 = document.createElement('h1');
+    h1.innerHTML = data.get('title');
+    article.appendChild(h1);
+    
+    // Create body
+    const div = document.createElement('div');
+    div.innerHTML = data.get('body');
+    article.appendChild(div);
+    
+    return article;  // Return the constructed HTML element
   });
 });
