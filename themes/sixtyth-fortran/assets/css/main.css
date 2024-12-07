@@ -560,7 +560,8 @@ a {
   left: 50%;
   transform: translate(-50%, -60%); /* Center and move Y negatively */
   font-family: "RockoFLF";
-  letter-spacing: .1rem;}
+  letter-spacing: .1rem;
+}
 
 img.emoji {
   width: 1.75em;
