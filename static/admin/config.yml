@@ -6,6 +6,11 @@ backend:
   open_authoring: true
   base_url: https://sveltia-cms-auth.a22j2udvt.workers.dev
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/photos" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://cheeseepedia.org
