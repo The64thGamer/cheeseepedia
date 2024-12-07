@@ -30,14 +30,37 @@
         "Forever indebted to Miraheze",
         "The articles get a bit quirky at night",
         "Hello? Hello hello?",
-        "That's me!",
+        "Thaaaat's me!",
+        "Better than any university!",
+        "For animatronic lovers",
+        "For Uncle Klunk lovers",
+        "DONT. SMOKE. CRAYOLAS.",
+        "Found out by the dumpster!",
+        "Full of non-merch!",
+        "Not an encyclopedia of cheese",
+        "Formerly an encyclopedia of cheese",
+        "Read by Mark Kupferman!",
+        "Written by employees!",
+        "Save Your Family.",
+        "Scan or Ban",
+        "Come for the cheese, stay for the pedia!",
     ];
 
     // Date-specific phrases (format: YYYY-MM-DD)
     const dateSpecificPhrases = {
-        "12-25": "Merry Christmas from Cheese-E-Pedia!",
         "01-01": "Happy New Year from Cheese-E-Pedia!",
-        "05-17": "Today's the anniversary of the first CEC location!",
+        "01-04": "Happy Rock-afire Replay deletion Day!",
+        "03-02": "Today's the anniversary of the first ShowBiz location, Kansas City!",
+        "05-17": "Today's the anniversary of the first CEC location, Winchester!",
+        "06-01": "Happy Pride Month! Trans Rights!",
+        "07-14": "Today's the anniversary of Cheese-E-Pedia!",
+        "07-24": "Today's the anniversary of Reel to Real!",
+        "08-25": "Happy Rock-afire Replay Anniversary!",
+        "10-27": "Happy Anniversary FNaF Movie!",
+        "12-02": "Today's the anniversary of the second CEC location, Kooser!",
+        "12-05": "Happy Anniversary FNaF Movie 2!",
+        "12-09": "Happy Reel to Real Cease & Desist Day!",
+        "12-25": "Merry Christmas from Cheese-E-Pedia!",
     };
 
     function getTodayPhrase() {
@@ -50,8 +73,8 @@
         }
 
         // Otherwise, select a random phrase based on the day of the year
-        const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / (1000 * 60 * 60 * 24));
-        return `"${randomPhrases[dayOfYear % randomPhrases.length]}"`;
+        const randomIndex = Math.floor(Math.random() * randomPhrases.length);
+        return `"${randomPhrases[randomIndex]}"`;
     }
 
     // Display the phrase
