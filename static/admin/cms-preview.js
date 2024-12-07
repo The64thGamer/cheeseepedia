@@ -1,3 +1,5 @@
+import React from 'react';
+
 const items = [
   "admin", "videos", "photos",
   "meta", "users", "transcriptions",
