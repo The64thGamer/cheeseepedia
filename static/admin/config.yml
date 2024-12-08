@@ -1,9 +1,15 @@
 backend:
   name: github
   repo: The64thGamer/cheeseepedia
+  branch: main
   use_graphql: false
   open_authoring: true
   base_url: https://sveltia-cms-auth.a22j2udvt.workers.dev
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 
 media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/photos" # The src attribute for uploaded media will begin with /images/uploads
@@ -12,545 +18,181 @@ display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 
 collections:
-  - name: "Animatronic Shows"
-    label: "Animatronic Shows"
+  - name: "wiki"
+    label: "Articles"
     folder: "content/wiki/"
+    preview_path: "wiki/{{filename}}"
     create: true
-    filter: {field: "tags", value: "Animatronic Shows"}
     extension: html
     format: toml-frontmatter
+    slug: "{{slug}}"
     editor:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Tags", name: "tags", widget: "list", min: 1 }
-      - { label: "Categories", name: "categories", widget: "list", min: 1 }
-      - { label: "Contributors", name: "contributors", widget: "list", min: 1 }
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
+      - { label: "Start Date", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", required: false}
       - { label: "Body", name: "body", widget: "text" }
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        options:
+          - { label: "Animatronic Shows", value: "Animatronic Shows" }
+          - { label: "Stage Variations", value: "Stage Variations" }
+          - { label: "Animatronics", value: "Animatronics" }
+          - { label: "Retrofits", value: "Retrofits" }
+          - { label: "Costumed Characters", value: "Costumed Characters" }
+          - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
+          - { label: "Showtapes", value: "Showtapes" }
+          - { label: "Showtape Formats", value: "Showtape Formats" }
+          - { label: "Live Shows", value: "Live Shows" }
+          - { label: "Showtape Puppets", value: "Showtape Puppets" }
+          - { label: "Family Vision", value: "Family Vision" }
+          - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
+          - { label: "Merchandise", value: "Merchandise" }
+          - { label: "Menu Items", value: "Menu Items" }
+          - { label: "Tokens", value: "Tokens" }
+          - { label: "Tickets", value: "Tickets" }
+          - { label: "Movies", value: "Movies" }
+          - { label: "Video Games", value: "Video Games" }
+          - { label: "Locations", value: "Locations" }
+          - { label: "Arcade Games", value: "Arcade Games" }
+          - { label: "Employee Wear", value: "Employee Wear" }
+          - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
+          - { label: "Store Fixtures", value: "Store Fixtures" }
+          - { label: "Ad Vehicles", value: "Ad Vehicles" }
+          - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
+          - { label: "Other Systems", value: "Other Systems" }
+          - { label: "Programming Systems", value: "Programming Systems" }
+          - { label: "Promotional Material", value: "Promotional Material" }
+          - { label: "Documents", value: "Documents" }
+          - { label: "Corporate Documents", value: "Corporate Documents" }
+          - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
+          - { label: "Photos", value: "Photos" }
+          - { label: "Videos", value: "Videos" }
+          - { label: "News Footage", value: "News Footage" }
+          - { label: "Commercials", value: "Commercials" }
+          - { label: "History", value: "History" }
+          - { label: "Events", value: "Events" }
+          - { label: "Characters", value: "Characters" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
 
-  - name: "Stage Variations"
-    label: "Stage Variations"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Stage Variations"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Animatronics"
-    label: "Animatronics"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Animatronics"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Retrofits"
-    label: "Retrofits"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Retrofits"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Costumed Characters"
-    label: "Costumed Characters"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Costumed Characters"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Animatronic Repair & Preservation"
-    label: "Animatronic Repair & Preservation"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Animatronic Repair & Preservation"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Showtapes"
-    label: "Showtapes"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Showtapes"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Showtape Formats"
-    label: "Showtape Formats"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Showtape Formats"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Live Shows"
-    label: "Live Shows"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Live Shows"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Showtape Puppets"
-    label: "Showtape Puppets"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Showtape Puppets"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Family Vision"
-    label: "Family Vision"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Family Vision"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "ShowBiz Pizza Programs"
-    label: "ShowBiz Pizza Programs"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "ShowBiz Pizza Programs"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Merchandise"
-    label: "Merchandise"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Merchandise"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Menu Items"
-    label: "Menu Items"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Menu Items"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Tokens"
-    label: "Tokens"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Tokens"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Tickets"
-    label: "Tickets"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Tickets"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Movies"
-    label: "Movies"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Movies"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Video Games"
-    label: "Video Games"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Video Games"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Locations"
-    label: "Locations"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Locations"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Arcade Games"
-    label: "Arcade Games"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Arcade Games"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Employee Wear"
-    label: "Employee Wear"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Employee Wear"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Remodels & Initiatives"
-    label: "Remodels & Initiatives"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Remodels & Initiatives"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Store Fixtures"
-    label: "Store Fixtures"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Store Fixtures"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Ad Vehicles"
-    label: "Ad Vehicles"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Ad Vehicles"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Animatronic Control Systems"
-    label: "Animatronic Control Systems"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Animatronic Control Systems"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Other Systems"
-    label: "Other Systems"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Other Systems"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Programming Systems"
-    label: "Programming Systems"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Programming Systems"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Promotional Material"
-    label: "Promotional Material"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Promotional Material"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Documents"
-    label: "Documents"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Documents"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Corporate Documents"
-    label: "Corporate Documents"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Corporate Documents"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Training, Updates, & Company Media"
-    label: "Training, Updates, & Company Media"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Training, Updates, & Company Media"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "News Footage"
-    label: "News Footage"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "News Footage"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "History"
-    label: "History"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "History"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Events"
-    label: "Events"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Events"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Characters"
-    label: "Characters"
-    folder: "content/wiki/"
-    create: true
-    filter: {field: "tags", value: "Characters"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Commercials" # Used in routes, e.g., /admin/collections/blog
-    label: "Commercials" # Used in the UI
-    folder: "content/wiki/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    filter: {field: "tags", value: "Commercials"}
-    extension: html
-    format: toml-frontmatter
-    editor:
-      preview: true
-    fields: # The fields for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "Transcriptions" # Used in routes, e.g., /admin/collections/blog
+  - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
     folder: "content/transcriptions/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "transcriptions/{{filename}}/"
     extension: html
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Users" # Used in routes, e.g., /admin/collections/blog
+  - name: "users" # Used in routes, e.g., /admin/collections/blog
     label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "users/{{filename}}"
     extension: html
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Meta" # Used in routes, e.g., /admin/collections/blog
+  - name: "meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
     folder: "content/meta/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "meta/{{filename}}"
     extension: html
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Photo" # Used in routes, e.g., /admin/collections/blog
+  - name: "photos" # Used in routes, e.g., /admin/collections/blog
     label: "Photo" # Used in the UI
     folder: "content/photos/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "photos/{{filename}}"
     extension: html
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Video" # Used in routes, e.g., /admin/collections/blog
+  - name: "videos" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
     folder: "content/videos/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "videos/{{filename}}"
     extension: html
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "Decap CMS" # Used in routes, e.g., /admin/collections/blog
+  - name: "admin" # Used in routes, e.g., /admin/collections/blog
     label: "Decap CMS" # Used in the UI
     folder: "static/admin/" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
+    create: true
+    slug: "{{slug}}"
+    preview_path: "admin/{{filename}}"
     extension: yml
     format: yml
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    fields: # The field for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
