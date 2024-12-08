@@ -43,7 +43,7 @@ collections:
         collapsed: false
         required: true
         allow_add: true
-        field:
+        fields:
         - label: "Tag"
           name: "tag"
           widget: "select"
@@ -94,7 +94,7 @@ collections:
         collapsed: false
         required: true
         allow_add: true
-        field:
+        fields:
         - label: "Category"
           name: "cat"
           widget: "select"
