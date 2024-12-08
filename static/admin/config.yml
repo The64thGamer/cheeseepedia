@@ -31,6 +31,10 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
+      - { label: "Start Date", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", required: false}
+      - { label: "Body", name: "body", widget: "text" }
       - label: "Tags"
         name: "tags"
         widget: "list"
@@ -91,8 +95,8 @@ collections:
         required: true
         allow_add: true
         field:
-        - label: "Tag"
-          name: "tag"
+        - label: "Category"
+          name: "cat"
           widget: "select"
           options:
           - { label: "Celebration Station", value: "Celebration Station" }
@@ -120,10 +124,6 @@ collections:
           - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
           - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
           - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
-      - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
-      - { label: "Start Date", name: "startDate", widget: "string", required: false}
-      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", required: false}
-      - { label: "Body", name: "body", widget: "text" }
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
