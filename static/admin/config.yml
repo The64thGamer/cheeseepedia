@@ -37,93 +37,81 @@ collections:
       - { label: "Body", name: "body", widget: "text" }
       - label: "Tags"
         name: "tags"
-        widget: "list"
+        widget: "select"
         min: 1
         max: 5
-        collapsed: false
-        required: true
-        allow_add: true
-        field:
-        - label: "Tag"
-          name: "tag"
-          widget: "select"
-          options:
-            - { label: "Animatronic Shows", value: "Animatronic Shows" }
-            - { label: "Stage Variations", value: "Stage Variations" }
-            - { label: "Animatronics", value: "Animatronics" }
-            - { label: "Retrofits", value: "Retrofits" }
-            - { label: "Costumed Characters", value: "Costumed Characters" }
-            - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
-            - { label: "Showtapes", value: "Showtapes" }
-            - { label: "Showtape Formats", value: "Showtape Formats" }
-            - { label: "Live Shows", value: "Live Shows" }
-            - { label: "Showtape Puppets", value: "Showtape Puppets" }
-            - { label: "Family Vision", value: "Family Vision" }
-            - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
-            - { label: "Merchandise", value: "Merchandise" }
-            - { label: "Menu Items", value: "Menu Items" }
-            - { label: "Tokens", value: "Tokens" }
-            - { label: "Tickets", value: "Tickets" }
-            - { label: "Movies", value: "Movies" }
-            - { label: "Video Games", value: "Video Games" }
-            - { label: "Locations", value: "Locations" }
-            - { label: "Arcade Games", value: "Arcade Games" }
-            - { label: "Employee Wear", value: "Employee Wear" }
-            - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
-            - { label: "Store Fixtures", value: "Store Fixtures" }
-            - { label: "Ad Vehicles", value: "Ad Vehicles" }
-            - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
-            - { label: "Other Systems", value: "Other Systems" }
-            - { label: "Programming Systems", value: "Programming Systems" }
-            - { label: "Promotional Material", value: "Promotional Material" }
-            - { label: "Documents", value: "Documents" }
-            - { label: "Corporate Documents", value: "Corporate Documents" }
-            - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
-            - { label: "Photos", value: "Photos" }
-            - { label: "Videos", value: "Videos" }
-            - { label: "News Footage", value: "News Footage" }
-            - { label: "Commercials", value: "Commercials" }
-            - { label: "History", value: "History" }
-            - { label: "Events", value: "Events" }
-            - { label: "Characters", value: "Characters" }
+        multiple: true
+        options:
+          - { label: "Animatronic Shows", value: "Animatronic Shows" }
+          - { label: "Stage Variations", value: "Stage Variations" }
+          - { label: "Animatronics", value: "Animatronics" }
+          - { label: "Retrofits", value: "Retrofits" }
+          - { label: "Costumed Characters", value: "Costumed Characters" }
+          - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
+          - { label: "Showtapes", value: "Showtapes" }
+          - { label: "Showtape Formats", value: "Showtape Formats" }
+          - { label: "Live Shows", value: "Live Shows" }
+          - { label: "Showtape Puppets", value: "Showtape Puppets" }
+          - { label: "Family Vision", value: "Family Vision" }
+          - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
+          - { label: "Merchandise", value: "Merchandise" }
+          - { label: "Menu Items", value: "Menu Items" }
+          - { label: "Tokens", value: "Tokens" }
+          - { label: "Tickets", value: "Tickets" }
+          - { label: "Movies", value: "Movies" }
+          - { label: "Video Games", value: "Video Games" }
+          - { label: "Locations", value: "Locations" }
+          - { label: "Arcade Games", value: "Arcade Games" }
+          - { label: "Employee Wear", value: "Employee Wear" }
+          - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
+          - { label: "Store Fixtures", value: "Store Fixtures" }
+          - { label: "Ad Vehicles", value: "Ad Vehicles" }
+          - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
+          - { label: "Other Systems", value: "Other Systems" }
+          - { label: "Programming Systems", value: "Programming Systems" }
+          - { label: "Promotional Material", value: "Promotional Material" }
+          - { label: "Documents", value: "Documents" }
+          - { label: "Corporate Documents", value: "Corporate Documents" }
+          - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
+          - { label: "Photos", value: "Photos" }
+          - { label: "Videos", value: "Videos" }
+          - { label: "News Footage", value: "News Footage" }
+          - { label: "Commercials", value: "Commercials" }
+          - { label: "History", value: "History" }
+          - { label: "Events", value: "Events" }
+          - { label: "Characters", value: "Characters" }
       - label: "Categories"
         name: "categories"
-        widget: "list"
+        widget: "select"
         min: 1
         max: 5
-        collapsed: false
-        required: true
-        allow_add: true
-        field:
-        - label: "Category"
-          name: "cat"
-          widget: "select"
-          options:
-          - { label: "Celebration Station", value: "Celebration Station" }
-          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Jungle Jim's", value: "Jungle Jim's" }
-          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-          - { label: "Advanced Animations", value: "Advanced Animations" }
-          - { label: "Avg Technologies", value: "Avg Technologies" }
-          - { label: "Creative Engineering", value: "Creative Engineering" }
-          - { label: "Creative Presentations", value: "Creative Presentations" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Fantasy Forest", value: "Fantasy Forest" }
-          - { label: "Golding Leisure", value: "Golding Leisure" }
-          - { label: "Heimotion", value: "Heimotion" }
-          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-          - { label: "Sally Corporation", value: "Sally Corporation" }
-          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-          - { label: "Vp Animations", value: "Vp Animations" }
-          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-          - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
-          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+        multiple: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
