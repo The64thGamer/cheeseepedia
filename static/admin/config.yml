@@ -119,8 +119,8 @@ collections:
           - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
           - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
       - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
-      - { label: "Start Date", name: "startDate", widget: "string", default: "00-00-0000", required: false}
-      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", default: "00-00-0000", required: false}
+      - { label: "Start Date", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", required: false}
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
@@ -204,4 +204,5 @@ collections:
     editor:
       preview: true
     fields: # The fields for each document, usually in front matter
+      - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
