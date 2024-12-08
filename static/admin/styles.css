@@ -27,12 +27,74 @@
     padding-right: 5em;
     padding-top: 3em;
     padding-bottom: 3em;
-    outline-color: var(--white);
-    outline-width: 1.5em;
-    outline-style: solid;
-    box-shadow: 0 0 0 2em var(--brown), inset 0 0 0 0.5em var(--brown);
     text-wrap: pretty;
     word-wrap: anywhere;
+  }
+
+  hr
+{
+  border: .2em solid var(--brown);
+  border-radius: 5em;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+  color: transparent;
+}
+
+a {
+  color: var(--aqua);
+  text-decoration: none;
+}
+
+
+sup{
+    color: var(--yellow); 
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em;
+    text-align: left;
+  }
+  
+  /* Table borders */
+  table, th, td {
+    border: .25em solid var(--brown);
+    min-width: 5em;
+  }
+  
+  /* Table headers */
+  th {
+    background-color: var(--orange);
+    color: var(--white);
+    padding: 0.5em;
+  }
+  
+  /* Table cells */
+  td {
+    padding: 0.5em;
+  }
+
+
+h1{
+    font-family: "RockoFLF";
+    letter-spacing: .2rem;
+    font-size: 2rem;
+    color: var(--yellow);
+    margin: 0;
+  }
+  
+  h2{
+    font-size: 1.5rem;
+    color: var(--yellow);
+  }
+  
+  .tri-column ul {
+    column-count: 3;
+  }
+  
+  .reg-column ul {
+    column-count: 1;
   }
 
   @font-face {
