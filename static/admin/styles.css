@@ -19,10 +19,6 @@
     margin: 0 auto;
     max-width: 65em;
     min-width: 30em;
-    border-color: var(--yellow);
-    border-style: solid;
-    border-width: 3em;
-    border-radius: 8em;
     padding-left: 5em;
     padding-right: 5em;
     padding-top: 3em;
