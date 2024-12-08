@@ -1,0 +1,117 @@
+<div class="splash-text">
+    <div id="phraseDisplay"></div>
+</div>
+
+<script>
+    // List of random phrases
+    const randomPhrases = [
+        "CEC Master is watching",
+        "Set for a remodel soon!",
+        "Set to be demolished soon!",
+        "Unacceptable Crust!",
+        "Hasta la pasta!",
+        "Born on May 17th, 445 B.P. (Before Pasqually)",
+        "Sponsored by Winchester Grandma",
+        "Formerly Pizza Time Techs",
+        "Formerly Chuck-E-Pedia",
+        "DRUM SOLO",
+        "Poggers...",
+        "I was afraid to speak when I was just a lad",
+        "Turn off the fruitcake dog!",
+        "Bring back Crusty!",
+        "Bring back Rick Rat!",
+        "Sanctioned by the city of Irving!",
+        "Not to be confused with that other site",
+        "Fully open sourced!",
+        "We canonize trans Beach Bear",
+        "Conceptually Unified!",
+        "Orange-carpet free!",
+        "Sorry about your local",
+        "Forever indebted to Miraheze",
+        "The articles get a bit quirky at night",
+        "Hello? Hello hello?",
+        "Thaaaat's me!",
+        "Better than any university!",
+        "For animatronic lovers",
+        "For Uncle Klunk lovers",
+        "DONT. SMOKE. CRAYOLAS.",
+        "Found out by the dumpster!",
+        "Full of non-merch!",
+        "Not an encyclopedia of cheese",
+        "Formerly an encyclopedia of cheese",
+        "Read by Mark Kupferman!",
+        "Written by employees!",
+        "Save Your Family.",
+        "Scan or Ban",
+        "Come for the cheese, stay for the pedia!",
+        "Nolan did nothing! It was Gene Landrum and Bob Black!",
+        "The only (semi complete) showtape archive!",
+        "We'll finish the articles some day!",
+        "Ar ar ar ar ar",
+        "The #10th source for animatronic information",
+        "Archive everything!!!",
+        "Not to be confused for the FNaF Wiki",
+        "Formerly a MediaWiki site!",
+        "Wow thats uh, a lot of articles.",
+        "Home of your favorite rockabilly relative",
+        "Publishers of 'What is This Thing on My Head' by Dook Larue",
+        "Able to make every sound in the whole world at the same time but backwards.",
+        "The secret FNaF lore!",
+        "Just a theory!",
+        "The pizza may be recycled but not the articles!",
+        "Lovingly crafted by the community",
+        "Fixing names like 'Phase 4' and 'The Shelf' since 2022.",
+        "The cult of Pasqually",
+        "Powered by Gas-O-Hol!",
+        "Featured in the news!",
+    ];
+
+    // Date-specific phrases (format: YYYY-MM-DD)
+    const dateSpecificPhrases = {
+        "01-01": "Happy New Year from Cheese-E-Pedia!",
+        "01-04": "Happy Rock-afire Replay deletion Day!",
+        "02-14": "Happy Valentines Day from Cheese-E-Pedia!",
+        "03-01": "Happy Birthday Mr. Munch!",
+        "03-02": "Today's the anniversary of the first ShowBiz location, Kansas City!",
+        "03-25": "Today's the anniversary of the CEC Future Planning Survey!",
+        "04-20": "Haha look at the date",
+        "05-17": "Today's the anniversary of the first CEC location, Winchester!",
+        "05-27": "Happy Birthday Helen Henny!",
+        "06-01": "Happy Pride Month! Trans Rights!",
+        "06-01": "Happy Wrath Month! Trans Rights!",
+        "07-14": "Today's the anniversary of Cheese-E-Pedia!",
+        "07-24": "Today's the anniversary of Reel to Real!",
+        "08-08": "Happy Anniversary FNaF!",
+        "08-25": "Happy Rock-afire Replay Anniversary!",
+        "08-26": "Happy Birthday Jasper T. Jowls!",
+        "09-27": "Happy Anniversary RAE Documentary!",
+        "10-05": "Happy Anniversary CEC In The Galaxy 5000!",
+        "10-27": "Happy Anniversary FNaF Movie!",
+        "11-10": "Happy Anniversary of the first Legacy Location re-opening, Northridge!",
+        "12-02": "Today's the anniversary of the second CEC location, Kooser!",
+        "12-05": "Happy Anniversary FNaF Movie 2!",
+        "12-09": "Happy Reel to Real Cease & Desist Day!",
+        "12-12": "Happy Birthday Pasqually!",
+        "12-25": "Merry Christmas from Cheese-E-Pedia!",
+    };
+
+    function getTodayPhrase() {
+        const today = new Date();
+        const todayMonthDay = `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`; // Format as MM-DD
+
+        // Check if there's a specific phrase for today
+        if (dateSpecificPhrases[todayMonthDay]) {
+            return `"${dateSpecificPhrases[todayMonthDay]}"`;
+        }
+
+        // Otherwise, select a random phrase based on the day of the year
+        const randomIndex = Math.floor(Math.random() * randomPhrases.length);
+        return `"${randomPhrases[randomIndex]}"`;
+    }
+
+    // Display the phrase
+    document.addEventListener('DOMContentLoaded', () => {
+        const phraseDisplay = document.getElementById('phraseDisplay');
+        phraseDisplay.textContent = getTodayPhrase();
+    });
+</script>

@@ -1,3 +1,5 @@
+
+
 <select id="colorThemeSelector">
     <option value="root-theme-standard">Standard</option>
     <option value="root-theme-dark">Dark</option>
@@ -7,8 +9,11 @@
     <option value="root-theme-fnaf">FNaF</option>
 </select>
 
+<select id="eventThemeSelector">
+    <option value="root-event-holiday">Holidays</option>
+    <option value="root-event-none">None</option>
+</select>
 <script>
-
 const colorSets = {
     "root-theme-standard": {
         "--blue": "#233355",
@@ -41,14 +46,14 @@ const colorSets = {
         "--brown": "#220902"
     },
     "root-theme-pride": {
-        "--blue": "#194455",
-        "--aqua": "#D06FA1",
-        "--white": "#d5c5ce",
-        "--deep-white": "#62777a",
-        "--yellow": "#50c6c6",
-        "--orange": "#3F86B0",
-        "--deep-orange": "#9b6b81",
-        "--brown": "#BF7FA0"
+        "--blue": "#7d0c4c",
+        "--aqua": "#ff7fc4",
+        "--white": "#dbd1b1",
+        "--deep-white": "#da62a3",
+        "--yellow": "#e38d59",
+        "--orange": "#de2d1e",
+        "--deep-orange": "#b33227",
+        "--brown": "#2c2422"
     },
     "root-theme-anniversary": {
         "--blue": "#404040",
@@ -98,7 +103,7 @@ const colorSets = {
         "--yellow": "#d2c72a",
         "--orange": "#d29400",
         "--deep-orange": "#df221c",
-        "--brown": "#201f1f"
+        "--brown": "#171515"
     },
     "root-theme-fnaf": {
       "--blue": "#141122",
@@ -110,9 +115,9 @@ const colorSets = {
       "--deep-orange": "#000",
       "--brown": "#000"
   }
-    };
-      
-    const root = document.documentElement;
+};
+
+const root = document.documentElement;
 
 function applyTheme(theme) {
     const colors = colorSets[theme];
@@ -121,30 +126,30 @@ function applyTheme(theme) {
     }
 }
 
-// Check the current date and apply seasonal themes
 function applyDateBasedTheme() {
     const today = new Date();
-    const month = today.getMonth() + 1; // Months are zero-based
+    const month = today.getMonth() + 1;
     const date = today.getDate();
 
-    if ((month === 10)) {
-        return "root-theme-halloween"; // October
-    } else if ((month === 6 || month === 7)) {
-        return "root-theme-pride"; // June & July
+    if (month === 10) {
+        return "root-theme-halloween";
+    } else if (month === 6 || month === 7) {
+        return "root-theme-pride";
     } else if (month === 5 && date === 17) {
-        return "root-theme-anniversary"; // May 17th
-    } else if (month == 12) {
-        return "root-theme-winter"; // December
+        return "root-theme-anniversary";
+    } else if (month === 12) {
+        return "root-theme-winter";
     }
 
-    return null; // No seasonal theme
+    return null;
 }
 
-// Event listener for theme selector
+// Event listener for colorThemeSelector
 document.getElementById('colorThemeSelector').addEventListener('change', function () {
     const selectedSet = this.value;
-    
-    if (selectedSet === "root-theme-standard" || selectedSet === "root-theme-classic") {
+    const eventSelection = document.getElementById('eventThemeSelector').value;
+
+    if (eventSelection === "root-event-holiday") {
         const seasonalTheme = applyDateBasedTheme();
         if (seasonalTheme) {
             applyTheme(seasonalTheme);
@@ -155,16 +160,37 @@ document.getElementById('colorThemeSelector').addEventListener('change', functio
         applyTheme(selectedSet);
     }
 
-    // Save the selected color set to localStorage for persistence
     localStorage.setItem('selectedColorSet', selectedSet);
+});
+
+// Event listener for eventThemeSelector
+document.getElementById('eventThemeSelector').addEventListener('change', function () {
+    const eventSelection = this.value;
+    const selectedSet = document.getElementById('colorThemeSelector').value;
+
+    if (eventSelection === "root-event-holiday") {
+        const seasonalTheme = applyDateBasedTheme();
+        if (seasonalTheme) {
+            applyTheme(seasonalTheme);
+        } else {
+            applyTheme(selectedSet);
+        }
+    } else {
+        applyTheme(selectedSet);
+    }
+
+    localStorage.setItem('eventThemeSetting', eventSelection);
 });
 
 // Apply theme on page load
 window.addEventListener('DOMContentLoaded', () => {
     const savedSet = localStorage.getItem('selectedColorSet') || "root-theme-standard";
-    document.getElementById('colorThemeSelector').value = savedSet;
+    const savedEvent = localStorage.getItem('eventThemeSetting') || "root-event-holiday";
 
-    if (savedSet === "root-theme-standard" || savedSet === "root-theme-classic") {
+    document.getElementById('colorThemeSelector').value = savedSet;
+    document.getElementById('eventThemeSelector').value = savedEvent;
+
+    if (savedEvent === "root-event-holiday") {
         const seasonalTheme = applyDateBasedTheme();
         if (seasonalTheme) {
             applyTheme(seasonalTheme);
