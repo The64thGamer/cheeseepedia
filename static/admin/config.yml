@@ -28,7 +28,7 @@ collections:
     slug: "{{slug}}"
     editor:
       preview: true
-    fields:
+    field:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
       - label: "Tags"
@@ -36,9 +36,10 @@ collections:
         widget: "list"
         min: 1
         max: 5
+        collapsed: false
         required: true
         allow_add: true
-        fields:
+        field:
         - label: "Tag"
           name: "tag"
           widget: "select"
@@ -86,9 +87,10 @@ collections:
         widget: "list"
         min: 1
         max: 5
+        collapsed: false
         required: true
         allow_add: true
-        fields:
+        field:
         - label: "Tag"
           name: "tag"
           widget: "select"
@@ -133,7 +135,7 @@ collections:
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
@@ -147,7 +149,7 @@ collections:
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
@@ -161,7 +163,7 @@ collections:
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
@@ -175,7 +177,7 @@ collections:
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
@@ -189,7 +191,7 @@ collections:
     format: toml-frontmatter
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
@@ -203,6 +205,6 @@ collections:
     format: yml
     editor:
       preview: true
-    fields: # The fields for each document, usually in front matter
+    field: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
