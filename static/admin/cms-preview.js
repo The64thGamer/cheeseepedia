@@ -1,5 +1,4 @@
-CMS.registerPreviewStyle("/themes/sixtyth-fortran/assets/css/main.css");
-
+CMS.registerPreviewStyle("/admin/styles.css");
 
 var PostPreview = createClass({
   render: function() {
