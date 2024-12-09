@@ -45,7 +45,7 @@ public partial class AddVideo : Button
 		}
 		html += "]";
 		html += "\n" + "description = \"" + description.Text + "\"";
-		html += "\n" + "sources = []";
+		html += "\n" + "citations = []";
 		html += "\n" + "mirroredLinks = []";
 		html += "\n" + "+++";
 
