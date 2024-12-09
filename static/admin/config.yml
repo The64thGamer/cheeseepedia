@@ -30,11 +30,20 @@ collections:
       preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - { label: "Contributors", name: "contributors", widget: "list", min: 1, required: true}
-      - { label: "Start Date", name: "startDate", widget: "string", required: false}
-      - { label: "End Date (Leave blank if not ended)", name: "endDate", widget: "string", required: false}
       - { label: "Body", name: "body", widget: "text" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - label: "Contributors"
+        name: "contributors"
+        widget: "list"
+        required: true
+        field: {label: Username, name: username, widget: string}
+      - label: "Citations"
+        name: "citations"
+        widget: "list"
+        required: true
+        field: {label: Source, name: source, widget: string}
+      - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
       - label: "Tags"
         name: "tags"
         widget: "select"
