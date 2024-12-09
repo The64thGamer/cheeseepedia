@@ -43,6 +43,8 @@ collections:
         name: "citations"
         widget: "list"
         required: true
+        min: 1
+        max: 1000
         field: {label: Source, name: source, widget: string}
       - label: "Credits"
         name: "credits"
