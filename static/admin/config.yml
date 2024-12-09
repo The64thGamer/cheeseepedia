@@ -32,18 +32,46 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
       - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
-      - label: "Contributors"
+      - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
+      - label: "Contributors (List your Username here!)"
         name: "contributors"
         widget: "list"
         required: true
         field: {label: Username, name: username, widget: string}
-      - label: "Citations"
+      - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
         required: true
+        min: 1
+        max: 1000
         field: {label: Source, name: source, widget: string}
-      - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
-      - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
+      - label: "Credits"
+        name: "credits"
+        widget: "list"
+        required: false
+        field: {label: Credit, name: credit, widget: string}
+      - { label: "Manufacturer", name: "manufacturer", widget: "string", required: false}
+      - { label: "Units Produced", name: "unitsProduced", widget: "string", required: false}
+      - { label: "Wholesale Price", name: "wholesalePrice", widget: "string", required: false}
+      - { label: "Dimensions", name: "dimensions", widget: "string", required: false}
+      - label: "Download Links (example.org|Description)"
+        name: "downloadLinks"
+        widget: "list"
+        required: false
+        field: {label: Link | Desc, name: link, widget: string}
+      - label: "Prices (Price|Date) ($4.99|1983-12-31)"
+        name: "prices"
+        widget: "list"
+        required: false
+        field: {label: Price | Desc, name: price, widget: string}
+      - label: "Latitude, Longitude"
+        name: "latitudeLongitude"
+        min: 0
+        max: 2
+        widget: "list"
+        required: false
+        field: {label: LatLong, name: latlong, widget: string}
       - label: "Tags"
         name: "tags"
         widget: "select"
