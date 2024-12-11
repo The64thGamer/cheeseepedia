@@ -31,7 +31,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+
       - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
       - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
@@ -208,7 +208,7 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+
       - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
@@ -278,7 +278,7 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+
       - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
@@ -356,7 +356,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+
       - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
       - label: "Contributors (List your Username here!)"
