@@ -345,8 +345,8 @@ collections:
 
   - name: "news"
     label: "Animatronic News"
-    folder: "content/wiki/"
-    preview_path: "wiki/{{filename}}"
+    folder: "content/news/"
+    preview_path: "news/{{filename}}"
     create: true
     extension: html
     format: toml-frontmatter
