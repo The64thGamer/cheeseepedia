@@ -277,18 +277,68 @@ collections:
       preview: true
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-
-  - name: "admin" # Used in routes, e.g., /admin/collections/blog
-    label: "Decap CMS" # Used in the UI
-    folder: "static/admin/" # The path to the folder where the documents are stored
-    create: true
-    slug: "{{slug}}"
-    preview_path: "admin/{{filename}}"
-    extension: yml
-    format: yml
-    editor:
-      preview: true
-    fields: # The field for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
+      - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
+      - label: "Citations (List sources here!)"
+        name: "citations"
+        widget: "list"
+        required: false
+        min: 1
+        max: 1000
+        field: {label: Source, name: source, widget: string}
+      - label: "Pages Video Depicts (Use Page Title)"
+        name: "pages"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Page, name: page, widget: string}
+      - label: "Mirrored Links"
+        name: "mirroredLinks"
+        widget: "list"
+        required: false
+        min: 1
+        max: 1000
+        field: {label: Page, name: page, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 1
+        required: true
+        options:
+          - { label: "Videos", value: "Videos" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        required: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
