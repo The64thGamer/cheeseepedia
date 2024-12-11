@@ -18,3 +18,4 @@ var PostPreview = createClass({
 });
 
 CMS.registerPreviewTemplate("wiki", PostPreview);
+CMS.registerPreviewTemplate("news", PostPreview);
