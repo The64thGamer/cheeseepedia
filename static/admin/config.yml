@@ -31,7 +31,6 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-
       - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
       - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
@@ -58,6 +57,7 @@ collections:
       - { label: "Units Produced", name: "unitsProduced", widget: "string", required: false}
       - { label: "Wholesale Price", name: "wholesalePrice", widget: "string", required: false}
       - { label: "Dimensions", name: "dimensions", widget: "string", required: false}
+      - { label: "Store #", name: "storeNumber", widget: "string", required: false}
       - label: "Download Links (example.org|Description)"
         name: "downloadLinks"
         widget: "list"
@@ -68,6 +68,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Also Known As"
+        name: "alsoKnownAs"
+        widget: "list"
+        required: false
+        field: {label: AKA, name: aka, widget: string}
       - label: "Latitude, Longitude"
         name: "latitudeLongitude"
         min: 0
