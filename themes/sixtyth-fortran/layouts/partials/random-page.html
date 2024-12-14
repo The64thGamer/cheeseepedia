@@ -1,5 +1,7 @@
 <aside data-pagefind-ignore="all">
-{{- $pages := where (shuffle (partialCached "grab-all-wiki-articles.html" .)) "Content" "!=" "" -}}
-{{- $randomPage := index $pages 0 -}}
-{{- partial "display-page-box.html" $randomPage -}}
+    {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+    {{- $totalPages := len $pages -}}
+    {{- $randomIndex := math.Floor (mul (math.Rand) $totalPages) | int -}} <!-- Convert to integer -->
+    {{- $randomPage := index $pages $randomIndex -}}
+    {{- partial "display-page-box.html" $randomPage -}}
 </aside>

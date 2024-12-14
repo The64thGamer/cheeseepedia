@@ -214,7 +214,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
 
-      - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
@@ -284,7 +284,7 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
 
-      - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
@@ -361,8 +361,7 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-
-      - { label: "Date (Formatted 2024-12-31)", name: "date", widget: "string", required: false}
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
       - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
       - label: "Contributors (List your Username here!)"
         name: "contributors"

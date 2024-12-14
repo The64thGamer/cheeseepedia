@@ -4,6 +4,7 @@ title = 'Cheese-E-Pedia'
 theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
 enableGitInfo = true
+timeout = 500
 
 [markup]
   [markup.goldmark]
