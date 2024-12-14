@@ -1,7 +1,6 @@
 <aside data-pagefind-ignore>
   <div class="contributors"><strong>Article Contributed By: </strong>
-  {{- $site := .Site.Pages -}}
-  
+  {{- $site := .Site.RegularPages -}}
       {{- if .Params.contributors -}}
         {{- $len := len .Params.contributors -}}
         {{- range $index, $element := .Params.contributors -}}

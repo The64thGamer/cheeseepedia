@@ -240,8 +240,14 @@ h2{
   margin-right: 1em;
 }
 
-.list-page-date .list-review-date {
+.list-page-date{
   color: var(--yellow);
+  font-size: .75em;
+  font-family: "RockoFLF";
+}
+
+.list-review-date {
+  color: var(--deep-white);
   font-size: .75em;
   font-family: "RockoFLF";
 }

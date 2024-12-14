@@ -1,18 +1,35 @@
 <div class="list-review-block">
     <div class="list-review-container">
         <div class="list-review-content">
-                {{- with .LinkTitle -}}
-                    {{- . | safeHTML -}}
-                {{- else -}}
-                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
-                {{- end -}}
+            {{- if eq .Params.reccomend true -}}
+                {{- "👍 " -}}
+            {{- else -}}
+                {{- "👎 " -}}
+            {{- end -}}
+            {{- with .LinkTitle -}}
+                {{- . | safeHTML -}}
+            {{- else -}}
+                {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+            {{- end -}}
             <div class="list-review-date">
+                {{- $site := .Site.RegularPages -}}
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
                 {{- " - " -}}
                 {{- if .Params.contributors -}}
-                    {{- index .Params.contributors 0 | safeHTML -}}
+                    {{- $len := len .Params.contributors -}}
+                    {{- range $index, $element := .Params.contributors -}}
+                        {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
+                        {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
+                            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+                        {{- else -}}
+                            {{- $element -}}
+                        {{- end -}}      
+                        {{- if lt (add $index 1) $len -}}
+                            {{- ", " -}}
+                        {{- end -}}
+                    {{- end -}}
                 {{- else -}}
-                    {{- "Anonymous" -}}
+                    Anonymous
                 {{- end -}}
             </div>
             <div class="list-review-body">

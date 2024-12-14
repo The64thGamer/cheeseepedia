@@ -12,7 +12,7 @@
       {{ end }}
   
       {{/* Iterate over all content pages in the "photos" section */}}
-      {{ range .Site.Pages }}
+      {{ range .Site.RegularPages }}
           {{ if eq .Section "photos" }}
             {{ if and (ne .Title "Photos") (not (in $photoNames .Title)) }}
                 <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
