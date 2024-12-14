@@ -1,20 +1,18 @@
 <div class="list-review-block">
     <div class="list-review-container">
         <div class="list-review-content">
-            <a href="{{- .RelPermalink -}}">
                 {{- with .LinkTitle -}}
                     {{- . | safeHTML -}}
                 {{- else -}}
                     {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
                 {{- end -}}
-            </a>
             <div class="list-review-date">
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
                 {{- " - " -}}
                 {{- if .Params.contributors -}}
-                    {{- .Params.contributors | safeHTML -}}
+                    {{- index .Params.contributors 0 | safeHTML -}}
                 {{- else -}}
-                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                    {{- "Anonymous" -}}
                 {{- end -}}
             </div>
             <div class="list-review-body">
