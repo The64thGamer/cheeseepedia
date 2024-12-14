@@ -228,15 +228,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Page, name: page, widget: string}
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        min: 1
-        max: 1
-        required: true
-        options:
-          - { label: "Photos", value: "Photos" }
-          - { label: "Photos", value: "Photos" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Photos\"]"}
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -307,15 +299,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Page, name: page, widget: string}
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        min: 1
-        max: 1
-        required: true
-        options:
-          - { label: "Videos", value: "Videos" }
-          - { label: "Videos", value: "Videos" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Videos\"]"}
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -372,15 +356,7 @@ collections:
         min: 1
         max: 1
         field: {label: Username, name: username, widget: string}
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        min: 1
-        max: 1
-        required: true
-        options:
-          - { label: "Reviews", value: "Reviews" }
-          - { label: "Reviews", value: "Reviews" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Reviews\"]"}
 
   - name: "news"
     label: "Animatronic News"
@@ -411,15 +387,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Source, name: source, widget: string}
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        min: 1
-        max: 1
-        required: true
-        options:
-          - { label: "Animatronic News", value: "Animatronic News" }
-          - { label: "Animatronic News", value: "Animatronic News" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Animatronic News\"]"}
       - label: "Categories"
         name: "categories"
         widget: "select"
