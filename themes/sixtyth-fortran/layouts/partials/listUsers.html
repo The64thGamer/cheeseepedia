@@ -1,32 +1,22 @@
 <h1>User List</h1>
 {{- $contributorCounts := dict -}} <!-- Initialize an empty dictionary to store contributor counts -->
+{{- $site := .Site.RegularPages -}}
 
-{{- range .Site.RegularPages -}} <!-- Loop through all regular pages (articles) -->
+{{- range $site -}} <!-- Loop through all regular pages (articles) -->
   {{- with .Params.contributors -}} <!-- Check if the article has contributors -->
     {{- range . -}} <!-- Loop through each contributor -->
-      {{- $key := .}} <!-- Normalize the contributor name -->
-      {{- if not (index $contributorCounts $key) -}} <!-- If the contributor is not already in the dictionary -->
-        {{- $contributorCounts = merge $contributorCounts (dict $key 1) -}} <!-- Add the contributor with a count of 1 -->
-      {{- else -}}
-        {{- $currentCount := index $contributorCounts $key -}}
-        {{- $contributorCounts = merge $contributorCounts (dict $key (add $currentCount 1)) -}} <!-- Increment the count -->
-      {{- end -}}
+      {{- $key := . -}} <!-- Normalize the contributor name -->
+      {{- $contributorCounts = merge $contributorCounts (dict $key (add (index $contributorCounts $key | default 0) 1)) -}} <!-- Increment the count -->
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-<!-- Convert the dictionary to a slice for sorting -->
+<!-- Convert the dictionary to a slice and sort by count in descending order -->
 {{- $sortedContributors := slice -}}
 {{- range $key, $value := $contributorCounts -}}
   {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
 {{- end -}}
-
-<!-- Sort the slice by count in descending order -->
 {{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
-
-<!-- Count of unique contributors -->
-{{- $contributorCount := len $sortedContributors -}}
-
 
 <!-- Print the sorted list of contributors -->
 <div class="contributors">
@@ -34,15 +24,17 @@
 <div class="tri-column">
   <ul>
   {{- range $sortedContributors -}}
-    {{- $path := printf "content/users/%s.html" .name -}}
-    {{- if fileExists $path -}}
-        {{- $slug := replace .name " " "-"| lower  -}}
-        <li><a href="{{- relURL (printf "users/%s/" $slug) -}}">{{- .name -}}</a><sup> (+{{- .count -}})</sup></li>
-    {{- else -}}
-    <li>{{- .name -}}<sup> (+{{- .count -}})</sup></li>
-    {{- end -}}
+    <li>
+      {{- $matchingArticles := where $site "Title" .name -}} <!-- Find matching articles -->
+      {{- if and $matchingArticles (gt (len $matchingArticles) 0) -}} <!-- Check for valid matches -->
+        <a href="{{ (index $matchingArticles 0).RelPermalink }}">{{ .name }}</a><sup> (+{{ .count }})</sup>
+      {{- else -}} <!-- If no matching article is found -->
+        {{ .name }}<sup>(+{{ .count }})</sup>
+      {{- end -}}
+    </li>
   {{- end -}}
   </ul>
 </div>
 </div>
-  {{- .Content | markdownify | safeHTML -}}
+
+{{- .Content | markdownify | safeHTML -}}
