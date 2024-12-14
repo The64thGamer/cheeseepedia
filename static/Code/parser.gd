@@ -100,7 +100,7 @@ func _ready() -> void:
 			filePage += "\nstartDate = \""+catTags[i+2]+"\""
 			filePage += "\nendDate = \"\""
 			filePage += "\ncontributors = []"
-			filePage += "\nreviews = []"
+			filePage += "\n"
 			filePage += "\n+++"
 
 			pageTitle = parse_title(pageTitle)
