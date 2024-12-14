@@ -236,6 +236,7 @@ collections:
         required: true
         options:
           - { label: "Photos", value: "Photos" }
+          - { label: "Photos", value: "Photos" }
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -314,6 +315,7 @@ collections:
         required: true
         options:
           - { label: "Videos", value: "Videos" }
+          - { label: "Videos", value: "Videos" }
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -378,6 +380,7 @@ collections:
         required: true
         options:
           - { label: "Reviews", value: "Reviews" }
+          - { label: "Reviews", value: "Reviews" }
 
   - name: "news"
     label: "Animatronic News"
@@ -415,6 +418,7 @@ collections:
         max: 1
         required: true
         options:
+          - { label: "Animatronic News", value: "Animatronic News" }
           - { label: "Animatronic News", value: "Animatronic News" }
       - label: "Categories"
         name: "categories"
