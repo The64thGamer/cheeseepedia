@@ -1,11 +1,6 @@
-<div class="list-page-block">
-    <div class="list-page-container">
-        <div class="list-image">
-            <a href="{{- .RelPermalink -}}">
-                {{- partial "filename-to-photo-no-link.html" .Params.pageThumbnailFile -}}
-            </a>
-        </div>
-        <div class="list-page-content">
+<div class="list-review-block">
+    <div class="list-review-container">
+        <div class="list-review-content">
             <a href="{{- .RelPermalink -}}">
                 {{- with .LinkTitle -}}
                     {{- . | safeHTML -}}
@@ -13,12 +8,18 @@
                     {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
                 {{- end -}}
             </a>
-            <div class="list-page-date">
+            <div class="list-review-date">
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
+                {{- " - " -}}
+                {{- with .Params.contributors -}}
+                    {{- . | safeHTML -}}
+                {{- else -}}
+                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                {{- end -}}
             </div>
-        </div>
-        <div class="edit-button-container">
-            {{- partial "editButton-list.html" . -}}
+            <div class="list-review-body">
+                {{- .Content -}}
+            </div>
         </div>
     </div>
 </div>

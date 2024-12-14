@@ -119,6 +119,39 @@ h2{
   overflow: hidden;
 }
 
+.list-review-block {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-content: space-between;
+  color: var(--yellow);
+  background-color: var(--blue);
+  font-family: "RockoFLF";
+  font-size: 1em;
+  line-height: 1.5;
+  max-width: 65em;
+  min-width: 30em;
+  min-height: 5.5em;
+  border-color: var(--brown);
+  border-style: solid;
+  border-width: .25em;
+  border-radius: 2.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 0 0 0.25em var(--orange);
+  overflow: hidden;
+  padding: 1.5em;
+}
+
+.list-review-body{
+  color: var(--white);
+  font-family: "Aleo";
+  font-size: 1em;
+  line-height: 1.5; 
+  text-wrap: pretty;
+  word-wrap: anywhere;
+}
+
 .list-page-block-video{
   width: 100%;
   max-height: 12em;
@@ -174,7 +207,7 @@ h2{
   color: var(--white);
 }
 
-.list-page-container {
+.list-page-container, .list-review-container {
   display: flex;
   flex-direction: row;
   width: 100%;
@@ -182,7 +215,7 @@ h2{
   overflow: hidden;
 }
 
-.list-page-content, .list-page-video-content, .pagefind-ui__result-title{
+.list-page-content, .list-review-content, .list-page-video-content, .pagefind-ui__result-title{
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -207,7 +240,7 @@ h2{
   margin-right: 1em;
 }
 
-.list-page-date {
+.list-page-date .list-review-date {
   color: var(--yellow);
   font-size: .75em;
   font-family: "RockoFLF";
