@@ -2,18 +2,16 @@
 {{- $photos := partialCached "grab-all-reviews.html" "key"}}
 {{- $hasGallery := 0 -}}
 {{- $galleryOpen := false -}}
-{{- range sort $photos "Params.date" -}}
+{{- range sort $photos "Params.startDate" -}}
   {{- $matches := false -}} 
   
-  {{- range .Params.pages -}}
-    {{- if eq . $currentPageTitle -}} 
-      {{- $matches = true -}}
-      {{- if eq $hasGallery 0 -}} 
-        <div class="gallery">
-        {{- $galleryOpen = true -}}
-      {{- end -}}
-      {{- $hasGallery = add $hasGallery 1 -}}
+  {{- if eq .Params.page $currentPageTitle -}} 
+    {{- $matches = true -}}
+    {{- if eq $hasGallery 0 -}} 
+      <div class="gallery">
+      {{- $galleryOpen = true -}}
     {{- end -}}
+    {{- $hasGallery = add $hasGallery 1 -}}
   {{- end -}}
 
   {{- if $matches -}} 
