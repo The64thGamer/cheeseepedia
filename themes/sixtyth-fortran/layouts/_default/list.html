@@ -2,6 +2,8 @@
   {{- $layout := "baseList" -}}
   {{- if eq .Title "User" -}}
     {{- $layout = "listUsers" -}}
+  {{- else if eq .Title "Animatronic News" -}}
+    {{- $layout = "listNewsArticles" -}}
   {{- else if eq .Title "Photos" -}}
     {{- $layout = "listPhotos" -}}
   {{- else if eq .Title "Videos" -}}

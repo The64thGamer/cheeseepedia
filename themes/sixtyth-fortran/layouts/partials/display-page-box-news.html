@@ -1,0 +1,24 @@
+<div class="list-page-block">
+    <div class="list-page-container">
+        <div class="list-image">
+            <a href="{{- .RelPermalink -}}">
+                {{- partial "filename-to-photo-no-link.html" .Params.pageThumbnailFile -}}
+            </a>
+        </div>
+        <div class="list-page-content">
+            <a href="{{- .RelPermalink -}}">
+                {{- with .LinkTitle -}}
+                    {{- . | safeHTML -}}
+                {{- else -}}
+                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                {{- end -}}
+            </a>
+            <div class="list-page-date">
+                {{- partial "date-to-readable-date.html" .Params.startDate -}}
+            </div>
+        </div>
+        <div class="edit-button-container">
+            {{- partial "editButton-list.html" . -}}
+        </div>
+    </div>
+</div>
