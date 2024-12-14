@@ -2,7 +2,7 @@
 {{- $photos := partialCached "grab-all-photos.html" "key"}}
 {{- $hasGallery := 0 -}}
 {{- $galleryOpen := false -}}
-{{- range sort $photos "Params.date" -}}
+{{- range sort $photos "Params.startDate" -}}
   {{- $matches := false -}} 
   
   {{- range .Params.pages -}}

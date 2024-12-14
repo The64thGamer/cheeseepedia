@@ -1,6 +1,6 @@
-{{- partialCached "display-dropdown-FEC.html" . -}}
-{{- partialCached "display-dropdown-manufacturer.html" . -}}
-{{- partialCached "display-dropdown-movie.html" . -}}
+{{- partialCached "display-dropdown-FEC.html" .Site -}}
+{{- partialCached "display-dropdown-manufacturer.html" .Site -}}
+{{- partialCached "display-dropdown-movie.html" .Site -}}
 
 {{- $tagCategories := dict
   "Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Repair & Preservation")
@@ -24,9 +24,9 @@
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
       {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
       {{- range $pages -}}
-        {{- $currentPage := . -}}
+        {{- $currentPage := .Site -}}
         {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
-          {{- $tag := . -}}
+          {{- $tag := .Site -}}
           {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
           {{- if $count -}}
             {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
@@ -64,7 +64,7 @@
             <ul>
               {{- range $tag, $count := $tags -}}
               {{- $tagFix := (replace $tag " " "-") -}}
-              {{- $tagFix := (replace $tagFix "&-" "") -}}
+              {{- $tagFix := (replace $tagFix "&" "") -}}
               {{- $tagFix := (replace $tagFix "," "") -}}
               <li>
                 <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>

@@ -19,8 +19,8 @@
       </a>
     <div class="article-photo-description">
       {{- $page.Params.description -}}
-      {{- if $page.Params.date -}}
-      {{- " (" -}}{{- partial "date-to-readable-date.html" $page.Params.date -}}{{- ")" -}}
+      {{- if $page.Params.startDate -}}
+      {{- " (" -}}{{- partial "date-to-readable-date.html" $page.Params.startDate -}}{{- ")" -}}
       {{- end -}}
     </div>
   {{- else -}}

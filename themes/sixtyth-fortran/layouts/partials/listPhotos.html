@@ -5,7 +5,7 @@
 {{- partialCached "display-dropdown-movie.html" . -}}
 {{- partialCached "display-dropdown-year.html" . -}}
 
-{{- $listPages := sort .Pages "Params.date" -}}
+{{- $listPages := sort .Pages "Params.startDate" -}}
 <div class="gallery">
     <div id="tagsContainer" style="  
         display: flex;
@@ -14,7 +14,7 @@
         justify-content: space-around;"
     >
         {{- range $listPages -}}
-        <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.date -}}" style="display: none;">
+        <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.startDate -}}" style="display: none;">
             <div class="gallery-image-box">
                 {{- partial "filename-to-photo.html" .Title -}}
             </div>

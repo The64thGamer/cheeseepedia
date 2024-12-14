@@ -1,28 +1,25 @@
-
 <aside data-pagefind-ignore>
-<div class="contributors"><strong>Article Contributed By: </strong>
-{{- $site := .Site.Pages -}}
-
-    {{- if .Params.contributors -}}
-      {{- $len := len .Params.contributors -}}
-      {{- range $index, $element := .Params.contributors -}}
-          {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
-          {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
-            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
-          {{- else -}}
-            {{- $element -}}
-          {{- end -}}      
-        {{- if lt (add $index 1) $len -}}{{- ", " -}}
+  <div class="contributors"><strong>Article Contributed By: </strong>
+  {{- $site := .Site.Pages -}}
+  
+      {{- if .Params.contributors -}}
+        {{- $len := len .Params.contributors -}}
+        {{- range $index, $element := .Params.contributors -}}
+            {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
+            {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
+              <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+            {{- else -}}
+              {{- $element -}}
+            {{- end -}}      
+          {{- if lt (add $index 1) $len -}}{{- ", " -}}
+          {{- end -}}
         {{- end -}}
+      {{- else -}}
+        <strong>NOOOOBODY!!!!!</strong>
       {{- end -}}
-    {{- else -}}
-      <strong>NOOOOBODY!!!!!</strong>
-    {{- end -}}
-    {{ with .GitInfo }}
-      <strong> | Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
-    {{ end }}
-  </div>
-<hr>
-</aside>
-
-
+      {{ with .GitInfo }}
+        <strong> | Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+      {{ end }}
+    </div>
+  <hr>
+  </aside>

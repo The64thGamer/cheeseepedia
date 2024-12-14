@@ -31,13 +31,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - { label: "(Keep This False)", name: "draft", widget: "boolean", default: false, required: true}
       - { label: "Start Date (Formatted 2024-12-31)", name: "startDate", widget: "string", required: false}
       - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
+      - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
       - label: "Contributors (List your Username here!)"
         name: "contributors"
         widget: "list"
         required: true
+        min: 1
+        max: 1000
         field: {label: Username, name: username, widget: string}
       - label: "Citations (List sources here!)"
         name: "citations"
@@ -55,6 +57,7 @@ collections:
       - { label: "Units Produced", name: "unitsProduced", widget: "string", required: false}
       - { label: "Wholesale Price", name: "wholesalePrice", widget: "string", required: false}
       - { label: "Dimensions", name: "dimensions", widget: "string", required: false}
+      - { label: "Store #", name: "storeNumber", widget: "string", required: false}
       - label: "Download Links (example.org|Description)"
         name: "downloadLinks"
         widget: "list"
@@ -65,6 +68,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Also Known As"
+        name: "alsoKnownAs"
+        widget: "list"
+        required: false
+        field: {label: AKA, name: aka, widget: string}
       - label: "Latitude, Longitude"
         name: "latitudeLongitude"
         min: 0
@@ -78,6 +86,7 @@ collections:
         min: 1
         max: 5
         multiple: true
+        required: true
         options:
           - { label: "Animatronic Shows", value: "Animatronic Shows" }
           - { label: "Stage Variations", value: "Stage Variations" }
@@ -110,8 +119,6 @@ collections:
           - { label: "Documents", value: "Documents" }
           - { label: "Corporate Documents", value: "Corporate Documents" }
           - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
-          - { label: "Photos", value: "Photos" }
-          - { label: "Videos", value: "Videos" }
           - { label: "News Footage", value: "News Footage" }
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
@@ -123,6 +130,7 @@ collections:
         min: 1
         max: 5
         multiple: true
+        required: true
         options:
         - { label: "Celebration Station", value: "Celebration Station" }
         - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
@@ -204,7 +212,63 @@ collections:
       preview: true
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
+
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
+      - label: "Citations (List sources here!)"
+        name: "citations"
+        widget: "list"
+        min: 1
+        max: 1000
+        field: {label: Source, name: source, widget: string}
+      - label: "Pages Photo Depicts (Use Page Title)"
+        name: "pages"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Page, name: page, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 1
+        required: true
+        options:
+          - { label: "Photos", value: "Photos" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        required: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
 
   - name: "videos" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
@@ -218,18 +282,170 @@ collections:
       preview: true
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
+      - { label: "Description", name: "description", widget: "text" }
 
-  - name: "admin" # Used in routes, e.g., /admin/collections/blog
-    label: "Decap CMS" # Used in the UI
-    folder: "static/admin/" # The path to the folder where the documents are stored
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
+      - label: "Citations (List sources here!)"
+        name: "citations"
+        widget: "list"
+        required: false
+        min: 1
+        max: 1000
+        field: {label: Source, name: source, widget: string}
+      - label: "Pages Video Depicts (Use Page Title)"
+        name: "pages"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Page, name: page, widget: string}
+      - label: "Mirrored Links"
+        name: "mirroredLinks"
+        widget: "list"
+        required: false
+        min: 1
+        max: 1000
+        field: {label: Page, name: page, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 1
+        required: true
+        options:
+          - { label: "Videos", value: "Videos" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        required: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+  - name: "reviews"
+    label: "Reviews"
+    folder: "content/reviews/"
+    preview_path: "reviews/{{filename}}"
     create: true
+    extension: html
+    format: toml-frontmatter
     slug: "{{slug}}"
-    preview_path: "admin/{{filename}}"
-    extension: yml
-    format: yml
     editor:
       preview: true
-    fields: # The field for each document, usually in front matter
+    fields:
+      - { label: "Would You Reccomend This?", name: "reccomend", widget: "boolean", default: true, required: true}
+      - { label: "Review Summary / Header", name: "title", widget: "string" }
+      - { label: "Review", name: "body", widget: "text" }
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
+      - { label: "Article Being Reviewed (Title)", name: "page", widget: "string", required: true}
+      - label: "Contributors (List your Username here!)"
+        name: "contributors"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1
+        field: {label: Username, name: username, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 1
+        required: true
+        options:
+          - { label: "Reviews", value: "Reviews" }
+
+  - name: "news"
+    label: "Animatronic News"
+    folder: "content/news/"
+    preview_path: "news/{{filename}}"
+    create: true
+    extension: html
+    format: toml-frontmatter
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
+      - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
+      - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
+      - label: "Contributors (List your Username here!)"
+        name: "contributors"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Username, name: username, widget: string}
+      - label: "Citations (List sources here!)"
+        name: "citations"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Source, name: source, widget: string}
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        min: 1
+        max: 1
+        required: true
+        options:
+          - { label: "Animatronic News", value: "Animatronic News" }
+      - label: "Categories"
+        name: "categories"
+        widget: "select"
+        min: 1
+        max: 5
+        multiple: true
+        required: true
+        options:
+        - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Jungle Jim's", value: "Jungle Jim's" }
+        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+        - { label: "Advanced Animations", value: "Advanced Animations" }
+        - { label: "Avg Technologies", value: "Avg Technologies" }
+        - { label: "Creative Engineering", value: "Creative Engineering" }
+        - { label: "Creative Presentations", value: "Creative Presentations" }
+        - { label: "Disney Parks", value: "Disney Parks" }
+        - { label: "Fantasy Forest", value: "Fantasy Forest" }
+        - { label: "Golding Leisure", value: "Golding Leisure" }
+        - { label: "Heimotion", value: "Heimotion" }
+        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+        - { label: "Sally Corporation", value: "Sally Corporation" }
+        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+        - { label: "Vp Animations", value: "Vp Animations" }
+        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+        - { label: "Five Nights at Freddy's 2", value: "Five Nights at Freddy's 2" }
+        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
