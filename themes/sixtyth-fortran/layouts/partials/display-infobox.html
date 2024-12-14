@@ -46,9 +46,7 @@
 
     <!-- Closing the gallery div if it was opened -->
     {{- if $galleryOpen -}} 
-      <b>Reviews: </b> {{- $sentiment -}} ({{- $totalReviews -}})
-      <br>
-      👍 ({{- $totalRecommends -}}) 👎 ({{- sub $totalReviews $totalRecommends -}})
+      <b>Reviews: </b> {{- $sentiment -}}{{-" ("-}}{{- $totalReviews -}}{{-") (👍 "-}}{{- $totalRecommends -}}{{-") (👎 "-}}{{- sub $totalReviews $totalRecommends -}})
       </div>
     {{- end -}}
 
