@@ -11,8 +11,8 @@
             <div class="list-review-date">
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
                 {{- " - " -}}
-                {{- with .Params.contributors -}}
-                    {{- . | safeHTML -}}
+                {{- if .Params.contributors -}}
+                    {{- .Params.contributors | safeHTML -}}
                 {{- else -}}
                     {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
                 {{- end -}}
