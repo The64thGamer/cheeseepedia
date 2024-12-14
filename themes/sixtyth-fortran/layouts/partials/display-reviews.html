@@ -1,8 +1,8 @@
 {{- $currentPageTitle := .Title -}} 
-{{- $photos := partialCached "grab-all-reviews.html" "key"}}
+{{- $reviews := partialCached "grab-all-reviews.html" "key"}}
 {{- $hasGallery := 0 -}}
 {{- $galleryOpen := false -}}
-{{- range sort $photos "Params.startDate" -}}
+{{- range sort $reviews "Params.startDate" "desc" -}}
   {{- $matches := false -}} 
   
   {{- if eq .Params.page $currentPageTitle -}} 

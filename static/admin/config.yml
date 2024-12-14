@@ -358,7 +358,7 @@ collections:
     editor:
       preview: true
     fields:
-      - { label: "Would You Reccomend This?", name: "reccomend", widget: "boolean", default: true, required: true}
+      - { label: "Would You Recommend This?", name: "recommend", widget: "boolean", default: true, required: true}
       - { label: "Review Summary / Header", name: "title", widget: "string" }
       - { label: "Review", name: "body", widget: "text" }
       - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}

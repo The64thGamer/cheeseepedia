@@ -7,6 +7,51 @@
     {{- if or (.Params.startDate) (.Params.endDate) -}}
     <b>{{- "Release: " -}}</b>{{- partial "display-date-ranges.html" . -}}
     {{- end -}}
+
+    {{- $currentPageTitle := .Title -}} 
+    {{- $reviews := partialCached "grab-all-reviews.html" "key"}}
+    {{- $hasGallery := 0 -}}
+    {{- $galleryOpen := false -}}
+    {{- $totalReviews := 0 -}} <!-- To keep track of total reviews -->
+    {{- $totalRecommends := 0 -}} <!-- To keep track of total recommends -->
+    
+    {{- range $reviews -}}
+      {{- $matches := false -}} 
+      
+      {{- if eq .Params.page $currentPageTitle -}} 
+        {{- $matches = true -}}
+        {{- if eq $hasGallery 0 -}} 
+          <div class="recommendation-summary">
+          {{- $galleryOpen = true -}}
+        {{- end -}}
+        {{- $hasGallery = add $hasGallery 1 -}}
+      {{- end -}}
+    
+      {{- if $matches -}} 
+        <!-- Calculate total recommends and total reviews -->
+        {{- $totalReviews = add $totalReviews 1 -}} 
+        {{- if .Params.recommend -}} 
+          {{- $totalRecommends = add $totalRecommends 1 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $recommendScore := div (mul $totalRecommends 100) (cond (eq $totalReviews 0) 1 $totalReviews) -}} 
+    {{- $sentiment := "Mixed" -}}
+    {{- if ge $recommendScore 75 -}}
+      {{- $sentiment = "Positive" -}}
+    {{- else if le $recommendScore 25 -}}
+      {{- $sentiment = "Negative" -}}
+    {{- end -}}
+
+    <!-- Closing the gallery div if it was opened -->
+    {{- if $galleryOpen -}} 
+      <b>Reviews: </b> {{- $sentiment -}} ({{- $totalReviews -}})
+      <br>
+      👍 ({{- $totalRecommends -}}) 👎 ({{- sub $totalReviews $totalRecommends -}})
+      </div>
+    {{- end -}}
+
     {{- if .Params.unitsProduced -}}
     <br><b>{{- "Units Produced: " -}}</b>{{- .Params.unitsProduced -}}
     {{- end -}}
