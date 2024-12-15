@@ -29,7 +29,7 @@
       {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
-  {{- partial "display-infobox.html" . -}}
+  {{- partial "display-infobox-location.html" . -}}
   {{- .Content | safeHTML -}}
 </div>
 {{- if ne $gallery "" -}}
