@@ -1,20 +1,35 @@
 <div class="list-review-block">
     <div class="list-review-container">
         <div class="list-review-content">
-            <a href="{{- .RelPermalink -}}">
-                {{- with .LinkTitle -}}
-                    {{- . | safeHTML -}}
-                {{- else -}}
-                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
-                {{- end -}}
-            </a>
+            {{- if eq .Params.recommend true -}}
+                {{- "👍 " -}}
+            {{- else -}}
+                {{- "👎 " -}}
+            {{- end -}}
+            {{- with .LinkTitle -}}
+                {{- . | safeHTML -}}
+            {{- else -}}
+                {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+            {{- end -}}
             <div class="list-review-date">
+                {{- $site := .Site.RegularPages -}}
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
                 {{- " - " -}}
                 {{- if .Params.contributors -}}
-                    {{- .Params.contributors | safeHTML -}}
+                    {{- $len := len .Params.contributors -}}
+                    {{- range $index, $element := .Params.contributors -}}
+                        {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
+                        {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
+                            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+                        {{- else -}}
+                            {{- $element -}}
+                        {{- end -}}      
+                        {{- if lt (add $index 1) $len -}}
+                            {{- ", " -}}
+                        {{- end -}}
+                    {{- end -}}
                 {{- else -}}
-                    {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                    Anonymous
                 {{- end -}}
             </div>
             <div class="list-review-body">

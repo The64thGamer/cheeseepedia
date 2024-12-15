@@ -5,7 +5,7 @@
 
     {{/* Collect all page titles from the photos section */}}
     {{ $titles := slice }}
-    {{ range .Site.Pages }}
+    {{ range .Site.RegularPages }}
         {{ if eq .Section "photos" }}
             {{ $titles = $titles | append .Title }}
         {{ end }}
