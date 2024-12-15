@@ -228,7 +228,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Page, name: page, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Photos\"]"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Photos"]}
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -274,9 +274,8 @@ collections:
     editor:
       preview: true
     fields: # The field for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Video Link", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-
       - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
@@ -299,7 +298,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Page, name: page, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Videos\"]"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Videos"]}
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -356,7 +355,7 @@ collections:
         min: 1
         max: 1
         field: {label: Username, name: username, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Reviews\"]"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Reviews"]}
 
   - name: "news"
     label: "Animatronic News"
@@ -387,7 +386,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Source, name: source, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: "[\"Animatronic News\"]"}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Animatronic News"]}
       - label: "Categories"
         name: "categories"
         widget: "select"
