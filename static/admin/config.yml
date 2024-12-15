@@ -223,8 +223,6 @@ collections:
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
-        min: 1
-        max: 1000
         field: {label: Source, name: source, widget: string}
       - label: "Pages Photo Depicts (Use Page Title)"
         name: "pages"
