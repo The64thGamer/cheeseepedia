@@ -352,6 +352,30 @@ background-color: var(--aqua);
   border-style: solid;
 }
 
+.button-dropdown:hover{
+  background-color: var(--aqua);
+}
+
+.button-dropdown{
+  background-color: var(--orange);
+  color: var(--white);
+  border:solid;
+  border-color: var(--yellow);
+  border-top-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0.5em;
+  border-right-width: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  font-size: 1em;
+  letter-spacing: .1rem;
+  font-family: "RockoFLF";
+  flex:1;
+  margin-left: 0.25em;
+  margin-right:0.25em;
+  cursor: pointer;
+}
+
 .article-photo-thumbnail{
   border-radius: 1em;
   width: auto;
@@ -381,10 +405,6 @@ background-color: var(--aqua);
 
 .article-button:hover{
   background-color: var(--yellow);
-}
-
-.article-editpage-button:hover{
-  background-color: var(--aqua);
 }
 
 .article-button,.article-editpage-button{

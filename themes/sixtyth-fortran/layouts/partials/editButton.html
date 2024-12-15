@@ -4,19 +4,17 @@
     {{- $entryName := replace .Page.File.BaseFileName ".html" "" -}} <!-- Extract slug by removing .html extension -->
     {{- $pageTitle := .Page.Title -}} <!-- Get the page title -->
 
-    <div class="dropdown">
-        <div class="dropdown-content">
-            <!-- Original Edit Page Button -->
-            <button class="article-button"
-                onclick="window.location.href = '{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}';">
-                Edit Page
-            </button>
+    <select class="button-dropdown" onchange="navigateTo(this.value)">
+        <option value="" disabled selected>Contribute</option>
+        <option value="{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}">Edit Page</option>
+        <option value="{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}">Create A Review</option>
+    </select>
 
-            <!-- New Create A Review Button -->
-            <button class="article-button"
-                onclick="window.location.href = '{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}';">
-                Create A Review
-            </button>
-        </div>
-    </div>
+    <script>
+        function navigateTo(url) {
+            if (url) {
+                window.location.href = url;
+            }
+        }
+    </script>
 {{- end -}}
