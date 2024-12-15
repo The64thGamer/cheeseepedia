@@ -367,12 +367,17 @@ background-color: var(--aqua);
   border-right-width: 0.5em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
+  padding-left: 0;
+  padding-right: 0;
   font-size: 1em;
   letter-spacing: .1rem;
   font-family: "RockoFLF";
   flex:1;
   margin-left: 0.25em;
   margin-right:0.25em;
+  margin-top:0;
+  margin-bottom:0;
+  outline-style: none;
   cursor: pointer;
 }
 
