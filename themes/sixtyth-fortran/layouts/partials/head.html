@@ -8,3 +8,17 @@
 {{- end -}}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
+<!-- Open Graph Metadata -->
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Params.description | default .Summary | default .Plain | html }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:image" content="{{ with .Params.pageThumbnailFile }}{{ .Site.BaseURL }}photos/{{ . }}{{ else }}{{ .Site.BaseURL }}photos/default-thumbnail.avif{{ end }}">
+<meta property="og:image:secure_url" content="{{ with .Params.pageThumbnailFile }}{{ .Site.BaseURL }}photos/{{ . }}{{ else }}{{ .Site.BaseURL }}photos/default-thumbnail.avif{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+<!-- Twitter Card Metadata -->
+<meta name="twitter:card" content="{{ if .Params.pageThumbnailFile }}summary_large_image{{ else }}summary{{ end }}">
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ .Params.description | default .Summary | default .Plain | html }}">
+<meta name="twitter:image" content="{{ with .Params.pageThumbnailFile }}{{ .Site.BaseURL }}photos/{{ . }}{{ else }}{{ .Site.BaseURL }}photos/default-thumbnail.avif{{ end }}">

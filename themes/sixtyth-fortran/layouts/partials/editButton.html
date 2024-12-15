@@ -1,9 +1,22 @@
 {{- if .Page.File -}}
     {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/collections/" -}}
     {{- $parentFolder := path.Base (path.Dir .Page.File.Path) -}} <!-- Get the parent folder name -->
-    {{- $entryName := replace .Page.File.BaseFileName ".html" "" -}} <!-- Extract slug by removing .md extension -->
-    <button class="article-editpage-button"
-        onclick="window.location.href = '{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}';">
-        Edit Page
-    </button>
+    {{- $entryName := replace .Page.File.BaseFileName ".html" "" -}} <!-- Extract slug by removing .html extension -->
+    {{- $pageTitle := .Page.Title -}} <!-- Get the page title -->
+
+    <div class="dropdown">
+        <div class="dropdown-content">
+            <!-- Original Edit Page Button -->
+            <button class="article-button"
+                onclick="window.location.href = '{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}';">
+                Edit Page
+            </button>
+
+            <!-- New Create A Review Button -->
+            <button class="article-button"
+                onclick="window.location.href = '{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}';">
+                Create A Review
+            </button>
+        </div>
+    </div>
 {{- end -}}
