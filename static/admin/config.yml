@@ -183,7 +183,7 @@ collections:
     editor:
       preview: true
     fields: # The field for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
   - name: "meta" # Used in routes, e.g., /admin/collections/blog
@@ -211,9 +211,8 @@ collections:
     editor:
       preview: true
     fields: # The field for each document, usually in front matter
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Filename", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
-
       - { label: "Date (Formatted 2024-12-31)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
