@@ -2,7 +2,7 @@
 {{- if .Params.pageThumbnailFile -}}
   <div class="article-infobox">
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- "Release: " -}}</b>{{- partial "display-date-ranges.html" . -}}
+    <b>{{- "Opening: " -}}</b>{{- partial "display-date-ranges.html" . -}}
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 
@@ -47,38 +47,17 @@
       </div>
     {{- end -}}
 
-    {{- if .Params.unitsProduced -}}
-    <br><b>{{- "Units Produced: " -}}</b>{{- .Params.unitsProduced -}}
+    {{- if .Params.storeNumber -}}
+    <b>{{- "Store #: " -}}</b>{{- .Params.storeNumber -}}
     {{- end -}}
-    {{- if .Params.mediaDuration -}}
-    <br><b>{{- "Media Duration: " -}}</b>{{- .Params.mediaDuration -}}
+
+    {{- if .Params.latitudeLongitude -}}
+      <b>{{- "Latitude Longitude: " -}}</b>
+      {{- range $index := .Params.latitudeLongitude -}}
+          {{- if $index }}, {{ end -}}{{ $index }}
+      {{- end -}}
     {{- end -}}
-    {{- if .Params.manufacturer -}}
-    <br><b>{{- "Manufacturer: " -}}</b>{{- .Params.manufacturer -}}
-    {{- end -}}
-    {{- range .Params.alsoKnownAs -}}
-    <br><b>{{- "Label: " -}}</b>"{{- . -}}"
-    {{- end -}}
-    {{- if .Params.showtapeFormats -}}
-      <div class="article-infobox-linkbox">
-        <b>{{- "Released On: " -}}</b>
-        <ul>
-          {{- range .Params.showtapeFormats -}}
-          <li><a href="{{- "/wiki/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a></li>
-          {{- end -}}
-        </ul>
-      </div>
-    {{- end -}}
-    {{- if .Params.credits -}}
-      <div class="article-infobox-linkbox">
-        <b>{{- "Credits: " -}}</b>
-        <ul>
-          {{- range .Params.credits -}}
-          <li>{{- replace . "|" ": " -}}</li>
-          {{- end -}}
-        </ul>
-      </div>
-    {{- end -}}
+
     {{- if .Params.downloadLinks -}}
       <div class="article-infobox-linkbox">
         <b>{{- "Downloads: " -}}</b>

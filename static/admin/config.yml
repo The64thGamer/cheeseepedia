@@ -58,6 +58,12 @@ collections:
       - { label: "Wholesale Price", name: "wholesalePrice", widget: "string", required: false}
       - { label: "Dimensions", name: "dimensions", widget: "string", required: false}
       - { label: "Store #", name: "storeNumber", widget: "string", required: false}
+      - { label: "Media Duration / Length", name: "mediaDuration", widget: "string", required: false}
+      - label: "Showtape Formats"
+        name: "showtapeFormats"
+        widget: "list"
+        required: false
+        field: {label: Format, name: format, widget: string}
       - label: "Download Links (example.org|Description)"
         name: "downloadLinks"
         widget: "list"
