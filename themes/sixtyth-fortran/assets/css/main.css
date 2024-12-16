@@ -380,6 +380,8 @@ background-color: var(--aqua);
   margin-bottom:0;
   outline-style: none;
   cursor: pointer;
+  text-align: center;
+  box-shadow: none;
 }
 
 .article-photo-thumbnail{

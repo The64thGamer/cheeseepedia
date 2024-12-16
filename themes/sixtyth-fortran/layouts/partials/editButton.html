@@ -7,7 +7,7 @@
     <select class="button-dropdown" onchange="navigateTo(this.value)">
         <option value="" disabled selected>Contribute</option>
         <option value="{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}">Edit Page</option>
-        <option value="{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}">Create A Review</option>
+        <option value="{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}">Write A Review</option>
     </select>
 
     <script>
