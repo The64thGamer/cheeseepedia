@@ -1,3 +1,4 @@
+<aside data-pagefind-ignore="all">
 {{- range .Params.categories -}}
     <a href="{{- "/categories/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a>
     {{- " > " -}}
@@ -5,3 +6,4 @@
 {{- range .Params.tags -}}
     <a href="{{- "/tags/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a> 
 {{- end -}}
+</aside>
