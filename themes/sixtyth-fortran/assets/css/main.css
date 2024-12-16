@@ -359,6 +359,7 @@ background-color: var(--aqua);
 .button-dropdown{
   background-color: var(--orange);
   color: var(--white);
+  border-radius: 0;
   border:solid;
   border-color: var(--yellow);
   border-top-width: 0;
