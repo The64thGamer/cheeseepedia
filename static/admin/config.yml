@@ -99,7 +99,7 @@ collections:
           - { label: "Animatronics", value: "Animatronics" }
           - { label: "Retrofits", value: "Retrofits" }
           - { label: "Costumed Characters", value: "Costumed Characters" }
-          - { label: "Animatronic Repair & Preservation", value: "Animatronic Repair & Preservation" }
+          - { label: "Animatronic Preservation", value: "Animatronic Preservation" }
           - { label: "Showtapes", value: "Showtapes" }
           - { label: "Showtape Formats", value: "Showtape Formats" }
           - { label: "Live Shows", value: "Live Shows" }
@@ -115,7 +115,7 @@ collections:
           - { label: "Locations", value: "Locations" }
           - { label: "Arcade Games", value: "Arcade Games" }
           - { label: "Employee Wear", value: "Employee Wear" }
-          - { label: "Remodels & Initiatives", value: "Remodels & Initiatives" }
+          - { label: "Remodels and Initiatives", value: "Remodels and Initiatives" }
           - { label: "Store Fixtures", value: "Store Fixtures" }
           - { label: "Ad Vehicles", value: "Ad Vehicles" }
           - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
