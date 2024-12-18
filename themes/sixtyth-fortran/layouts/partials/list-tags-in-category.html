@@ -3,10 +3,10 @@
 {{- partialCached "display-dropdown-movie.html" .Site -}}
 
 {{- $tagCategories := dict
-  "Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Repair & Preservation")
+  "Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Preservation")
   "Showtapes" (slice "Showtapes" "Showtape Formats" "Live Shows" "Showtape Puppets" "Family Vision" "ShowBiz Pizza Programs")
   "Products" (slice "Merchandise" "Menu Items" "Tokens" "Tickets" "Movies" "Video Games")
-  "Locations" (slice "Locations" "Arcade Games" "Employee Wear" "Remodels & Initiatives" "Store Fixtures" "Ad Vehicles" )
+  "Locations" (slice "Locations" "Arcade Games" "Employee Wear" "Remodels and Initiatives" "Store Fixtures" "Ad Vehicles" )
   "Hardware & Software" (slice "Animatronic Control Systems" "Other Systems" "Programming Systems"
   "Animatronic Control Systems")
   "Documents" (slice "Promotional Material" "Documents" "Corporate Documents" "Training, Updates, & Company Media")
@@ -22,81 +22,77 @@
 <div id="tagsContainer">
   {{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
-      {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
+      {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
       {{- range $pages -}}
-        {{- $currentPage := .Site -}}
-        {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
-          {{- $tag := .Site -}}
-          {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
-          {{- if $count -}}
-            {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
-          {{- else -}}
-            {{- $tags = merge $tags (dict $tag 1) -}}
-          {{- end -}}
+        {{- range .Params.tags -}}
+          {{- $tag := . -}}
+          {{- $count := index $tags $tag | default 0 -}}
+          {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
         {{- end -}}
       {{- end -}}
-      {{- $categorizedTags := dict -}} <!-- Store categorized tags -->
-      {{- $otherTags := dict -}} <!-- Store other tags -->
 
-      <!-- Loop through tags and assign them to categories -->
+      {{- $categorizedTags := dict -}}
+      {{- $otherTags := dict -}}
+
+      <!-- Group tags into predefined categories -->
       {{- range $tag, $count := $tags -}}
         {{- $found := false -}}
         {{- range $category, $categoryTags := $tagCategories -}}
-          {{- if in $categoryTags $tag -}} <!-- Check if tag belongs to category -->
+          {{- if in $categoryTags $tag -}}
             {{- $categorizedTags = merge $categorizedTags (dict $category (merge (index $categorizedTags $category | default dict) (dict $tag $count))) -}}
             {{- $found = true -}}
           {{- end -}}
         {{- end -}}
-
-        <!-- If no matching category, place tag in Other -->
         {{- if not $found -}}
           {{- $otherTags = merge $otherTags (dict $tag $count) -}}
         {{- end -}}
       {{- end -}}
 
-
+      <!-- Display grouped tags -->
       <div class="tri-column">
         <ul>
-          <!-- Output categorized tags -->
           {{- range $category, $tags := $categorizedTags -}}
           <div class="reg-column">
             <strong>{{- $category -}}</strong>
             <ul>
               {{- range $tag, $count := $tags -}}
-              {{- $tagFix := (replace $tag " " "-") -}}
-              {{- $tagFix := (replace $tagFix "&" "") -}}
-              {{- $tagFix := (replace $tagFix "," "") -}}
-              <li>
-                <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>
-                <sup>{{- $count -}}</sup>
-              </li>
+                {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
+                <li>
+                  <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
+                    {{- $tag -}}
+                  </a>
+                  <sup>{{- $count -}}</sup>
+                </li>
               {{- end -}}
             </ul>
             <hr>
           </div>
           {{- end -}}
-    
-          <!-- Output other tags -->
+
+          <!-- Display 'Other' tags -->
           {{- if gt (len $otherTags) 0 -}}
           <div class="reg-column">
             <strong>Other</strong>
             <ul>
               {{- range $tag, $count := $otherTags -}}
-              {{- $tagFix := (replace $tag " " "-") -}}
-              {{- $tagFix := (replace $tagFix "&-" "") -}}
-              {{- $tagFix := (replace $tagFix "," "") -}}
-              <li>
-                <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>
-                <sup>{{- $count -}}</sup>
-              </li>
-              {{- end -}}
+                {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
+                <li>
+                  <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
+                    {{- $tag -}}
+                  </a>
+                  <sup>{{- $count -}}</sup>
+                </li>
               {{- end -}}
             </ul>
+            <hr>
           </div>
+          {{- end -}}
         </ul>
       </div>
+    </div>
   {{- end -}}
 </div>
+
 
 
 

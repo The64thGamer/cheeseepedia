@@ -1,8 +1,8 @@
 {{- $tagCategories := dict
-"Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Repair & Preservation")
+"Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Preservation")
 "Showtapes" (slice "Showtapes" "Showtape Formats" "Live Shows" "Showtape Puppets" "Family Vision" "ShowBiz Pizza Programs")
 "Products" (slice "Merchandise" "Menu Items" "Tokens" "Tickets" "Movies" "Video Games")
-"Locations" (slice "Locations" "Arcade Games" "Employee Wear" "Remodels & Initiatives" "Store Fixtures" "Ad Vehicles" )
+"Locations" (slice "Locations" "Arcade Games" "Employee Wear" "Remodels and Initiatives" "Store Fixtures" "Ad Vehicles" )
 "Hardware & Software" (slice "Animatronic Control Systems" "Other Systems" "Programming Systems"
 "Animatronic Control Systems")
 "Documents" (slice "Promotional Material" "Documents" "Corporate Documents" "Training, Updates, & Company Media")
@@ -57,8 +57,10 @@
           {{- $tagFix := (replace $tag " " "-") -}}
           {{- $tagFix := (replace $tagFix "&-" "") -}}
           {{- $tagFix := (replace $tagFix "," "") -}}
+          {{- $tagFix := urlize $tagFix -}}
+
           <li>
-            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>
+            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- $tag -}}</a>
             <sup>{{- $count -}}</sup>
           </li>
           {{- end -}}
@@ -76,8 +78,10 @@
           {{- $tagFix := (replace $tag " " "-") -}}
           {{- $tagFix := (replace $tagFix "&-" "") -}}
           {{- $tagFix := (replace $tagFix "," "") -}}
+          {{- $tagFix := urlize $tagFix -}}
+
           <li>
-            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tag -}}</i>">{{- $tag -}}</a>
+            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- $tag -}}</a>
             <sup>{{- $count -}}</sup>
           </li>
           {{- end -}}
