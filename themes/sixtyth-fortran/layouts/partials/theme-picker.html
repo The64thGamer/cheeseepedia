@@ -190,7 +190,7 @@ window.addEventListener('DOMContentLoaded', () => {
     document.getElementById('colorThemeSelector').value = savedSet;
     document.getElementById('eventThemeSelector').value = savedEvent;
 
-    if (savedEvent === "root-event-holiday") {
+    if (savedEvent == "root-event-holiday") {
         const seasonalTheme = applyDateBasedTheme();
         if (seasonalTheme) {
             applyTheme(seasonalTheme);

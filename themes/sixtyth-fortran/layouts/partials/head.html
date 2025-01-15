@@ -12,7 +12,7 @@
 <!-- Open Graph Metadata -->
 {{- $site := .Site.BaseURL -}}
 <meta property="og:title" content="{{ .Title }}">
-<meta property="og:description" content="{{ .Params.description | default .Summary | default .Plain | html }}">
+<meta property="og:description" content="{{ if .Summary }}{{ .Summary | truncate 160 | html }}{{ else }}{{ .Plain | truncate 160 | html }}{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:image" content="{{ with .Params.pageThumbnailFile }}{{- $site -}}photos/{{ . }}{{ else }}{{- $site -}}photos/default-thumbnail.avif{{ end }}">
 <meta property="og:image:secure_url" content="{{ with .Params.pageThumbnailFile }}{{- $site -}}photos/{{ . }}{{ else }}{{- $site -}}photos/default-thumbnail.avif{{ end }}">
@@ -21,5 +21,5 @@
 <!-- Twitter Card Metadata -->
 <meta name="twitter:card" content="{{ if .Params.pageThumbnailFile }}summary_large_image{{ else }}summary{{ end }}">
 <meta name="twitter:title" content="{{ .Title }}">
-<meta name="twitter:description" content="{{ .Params.description | default .Summary | default .Plain | html }}">
+<meta name="twitter:description" content="{{ if .Summary }}{{ .Summary | truncate 160 | html }}{{ else }}{{ .Plain | truncate 160 | html }}{{ end }}">
 <meta name="twitter:image" content="{{ with .Params.pageThumbnailFile }}{{- $site -}}photos/{{ . }}{{ else }}{{- $site -}}photos/default-thumbnail.avif{{ end }}">
