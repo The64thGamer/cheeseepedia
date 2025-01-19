@@ -1,5 +1,5 @@
 <aside data-pagefind-ignore="all">
-    {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+    {{- $pages := partialCached "grab-all-non-empty-wiki-articles.html" . -}}
     {{- $totalPages := len $pages -}}
     {{- $randomIndex := math.Floor (mul (math.Rand) $totalPages) | int -}} <!-- Convert to integer -->
     {{- $randomPage := index $pages $randomIndex -}}

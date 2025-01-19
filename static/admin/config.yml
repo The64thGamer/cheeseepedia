@@ -106,7 +106,8 @@ collections:
           - { label: "Showtape Puppets", value: "Showtape Puppets" }
           - { label: "Family Vision", value: "Family Vision" }
           - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
-          - { label: "Merchandise", value: "Merchandise" }
+          - { label: "In-Store Merchandise", value: "In-Store Merchandise" }
+          - { label: "Products", value: "Products" }
           - { label: "Menu Items", value: "Menu Items" }
           - { label: "Tokens", value: "Tokens" }
           - { label: "Tickets", value: "Tickets" }
