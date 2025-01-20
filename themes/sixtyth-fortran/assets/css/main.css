@@ -655,8 +655,8 @@ a {
 }
 
 img.emoji {
-  width: 1.75em;
-  height: 1.75em;
+  width: 1em;
+  height: 1em;
   vertical-align:middle;
   transition-duration: 100ms;
   transform: scale(1);
