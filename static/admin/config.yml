@@ -106,7 +106,8 @@ collections:
           - { label: "Showtape Puppets", value: "Showtape Puppets" }
           - { label: "Family Vision", value: "Family Vision" }
           - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
-          - { label: "Merchandise", value: "Merchandise" }
+          - { label: "In-Store Merchandise", value: "In-Store Merchandise" }
+          - { label: "Products", value: "Products" }
           - { label: "Menu Items", value: "Menu Items" }
           - { label: "Tokens", value: "Tokens" }
           - { label: "Tickets", value: "Tickets" }
@@ -361,7 +362,7 @@ collections:
       - {label: "Tags", name: "tags", widget: "hidden", default: ["Reviews"]}
 
   - name: "news"
-    label: "Animatronic News"
+    label: "📰Animatronic News"
     folder: "content/news/"
     preview_path: "news/{{filename}}"
     create: true
@@ -389,7 +390,7 @@ collections:
         min: 1
         max: 1000
         field: {label: Source, name: source, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Animatronic News"]}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["📰Animatronic News"]}
       - label: "Categories"
         name: "categories"
         widget: "select"

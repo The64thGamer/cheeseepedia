@@ -21,6 +21,10 @@ name = 'All Pages'
 pageRef = '/wiki'
 weight = 40
 
+[outputs]
+section = []
+
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'

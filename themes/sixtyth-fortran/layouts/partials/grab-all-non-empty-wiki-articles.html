@@ -1,0 +1,7 @@
+{{- $pages := slice -}}
+{{ range (where .Site.RegularPages "Section" "wiki" )}}
+  {{ if gt (len .Content) 0}}
+    {{ $pages = $pages | append . }}
+  {{ end }}
+{{ end }}
+{{- return $pages -}}
