@@ -59,7 +59,7 @@
                 {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
                 <li>
                   <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
-                    {{- $tag -}}
+                    {{- partial "emojify.html" $tag -}}
                   </a>
                   <sup>{{- $count -}}</sup>
                 </li>
@@ -78,7 +78,7 @@
                 {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
                 <li>
                   <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
-                    {{- $tag -}}
+                    {{- partial "emojify.html" $tag -}}
                   </a>
                   <sup>{{- $count -}}</sup>
                 </li>
