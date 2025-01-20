@@ -60,7 +60,7 @@
           {{- $tagFix := urlize $tagFix -}}
 
           <li>
-            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- $tag -}}</a>
+            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- partial "emojify.html" $tag -}}</a>
             <sup>{{- $count -}}</sup>
           </li>
           {{- end -}}
@@ -81,7 +81,7 @@
           {{- $tagFix := urlize $tagFix -}}
 
           <li>
-            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- $tag -}}</a>
+            <a href="{{- (site.GetPage (printf "/tags/%s" $tagFix)).RelPermalink -}}" title="All pages with tag <i>{{- $tagFix -}}</i>">{{- partial "emojify.html" $tag -}}</a>
             <sup>{{- $count -}}</sup>
           </li>
           {{- end -}}
