@@ -1,9 +1,9 @@
 {{- $dictionary := dict 
-    "Animatronic News" "<img src=\"/UI/Emojis/decreasing_graph.svg\" style=\"width: 100%;\"> Animatronic News"
-  -}}
+  "Animatronic News" "<img src=\"/UI/Emojis/decreasing_graph.svg\" style=\"width: 100%;\"> Animatronic News"
+-}}
 
 {{- $inputString := . -}}
 
 {{- $convertedString := index $dictionary $inputString | default $inputString -}}
 
-{{- $convertedString -}}
+{{- $convertedString | safeHTML -}}
