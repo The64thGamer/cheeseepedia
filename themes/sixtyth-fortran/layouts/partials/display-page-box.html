@@ -1,4 +1,9 @@
-<div class="list-page-block">
+
+{{- if gt (len .Content) 0 -}}
+    <div class="list-page-block">
+{{- else -}}
+    <div class="list-page-empty-block">
+{{- end -}}
     <div class="list-page-container">
         <div class="list-image">
             <a href="{{- .RelPermalink -}}">
@@ -18,7 +23,12 @@
             </div>
         </div>
         <div class="edit-button-container">
-            {{- partial "editButton-list.html" . -}}
+            {{- if gt (len .Content) 0 -}}
+                {{- partial "editButton-list.html" . -}}
+            {{- else -}}
+                {{- partial "editButton-list-empty.html" . -}}
+            {{- end -}}
+            
         </div>
     </div>
 </div>

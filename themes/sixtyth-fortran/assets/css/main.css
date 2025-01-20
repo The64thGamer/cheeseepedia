@@ -95,7 +95,7 @@ h2{
   min-width: 9em;
 }
 
-.list-page-block, .list-page-block-video, .pagefind-ui__result{
+.list-page-block, .list-page-empty-block, .list-page-block-video, .pagefind-ui__result{
   display: flex;
   flex-direction: row;
   position: relative;
@@ -114,8 +114,15 @@ h2{
   border-radius: 5em;
   margin-top: 1em;
   margin-bottom: 1em;
-  box-shadow: 0 0 0 0.25em var(--orange);
   overflow: hidden;
+}
+
+.list-page-block, .list-page-block-video, .pagefind-ui__result{
+  box-shadow: 0 0 0 0.25em var(--orange);
+}
+
+.list-page-empty-block{
+  box-shadow: 0 0 0 0.25em var(--deep-white);
 }
 
 .list-review-block {
