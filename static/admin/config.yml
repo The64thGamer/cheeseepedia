@@ -125,7 +125,7 @@ collections:
           - { label: "Promotional Material", value: "Promotional Material" }
           - { label: "Documents", value: "Documents" }
           - { label: "Corporate Documents", value: "Corporate Documents" }
-          - { label: "Training, Updates, & Company Media", value: "Training, Updates, & Company Media" }
+          - { label: "Company Media", value: "Company Media" }
           - { label: "News Footage", value: "News Footage" }
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
