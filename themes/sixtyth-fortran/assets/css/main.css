@@ -117,6 +117,13 @@ h2{
   overflow: hidden;
 }
 
+.emoji{
+  display: inline-block;
+  width: 1em;
+  height: 1em; 
+  vertical-align: middle;
+}
+
 .list-page-block, .list-page-block-video, .pagefind-ui__result{
   box-shadow: 0 0 0 0.25em var(--orange);
 }
