@@ -1,4 +1,4 @@
-<h1>{{- .Title -}}</h1>
+<h1>{{- partial "emojify.html" .Title -}}</h1>
 {{- .Content | safeHTML -}}
 
 {{- partial "map.html" .Pages -}}

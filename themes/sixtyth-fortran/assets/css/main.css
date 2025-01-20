@@ -88,7 +88,7 @@ h2{
   column-count: 1;
 }
 
-.list-page-block:hover, .pagefind-ui__result:hover{
+.list-page-block:hover, .list-page-empty-block:hover,  .pagefind-ui__result:hover{
   box-shadow: 0 0 0 0.25em var(--aqua);
 }
 .pagefind-ui__result-thumb{
@@ -103,7 +103,7 @@ h2{
   color: var(--yellow);
   background-color: var(--blue);
   font-family: "RockoFLF";
-  font-size: .8em;
+  font-size: .9em;
   line-height: 1.5;
   max-width: 100%;
   max-height: 5em;
@@ -115,6 +115,13 @@ h2{
   margin-top: 1em;
   margin-bottom: 1em;
   overflow: hidden;
+}
+
+.emoji{
+  display: inline-block;
+  width: 1em;
+  height: 1em; 
+  vertical-align: middle;
 }
 
 .list-page-block, .list-page-block-video, .pagefind-ui__result{
