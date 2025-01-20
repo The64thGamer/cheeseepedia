@@ -224,6 +224,7 @@ collections:
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
+        required: false
         field: {label: Source, name: source, widget: string}
       - label: "Pages Photo Depicts (Use Page Title)"
         name: "pages"
