@@ -405,6 +405,11 @@ background-color: var(--aqua);
   box-shadow: none;
 }
 
+.dropdown-area{
+  display: flex;
+  justify-content: center;
+}
+
 .article-photo-thumbnail{
   border-radius: 1em;
   width: auto;

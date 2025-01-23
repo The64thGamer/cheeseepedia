@@ -3,7 +3,17 @@
     <h2>References</h2>
     <ol>
       {{- range .Params.citations -}}
-        <li>{{- . | safeHTML -}}</li>
+        <li>
+          {{- if (or (strings.Contains . "http://") (strings.Contains . "https://")) -}}
+            {{- if not (strings.Contains . "<a href=") -}}
+              <a href="{{ . }}">{{ . }}</a>
+            {{- else -}}
+              {{ . | safeHTML }}
+            {{- end -}}
+          {{- else -}}
+            {{ . | safeHTML }}
+          {{- end -}}
+        </li>
       {{- end -}}
     </ol>
   </div>
