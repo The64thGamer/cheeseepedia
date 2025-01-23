@@ -1,10 +1,9 @@
 {{- $gallery := partial "display-gallery.html" . -}}
 {{- $videos := partial "display-video-gallery.html" . -}}
+{{- $transcriptions := partial "display-transcriptions.html" . -}}
+{{- $reviews := partial "display-reviews.html" . -}}
 {{- $article := false -}}
-{{- if ne $gallery "" -}}
-  {{- $article = true -}}
-{{- end -}}
-{{- if ne $videos "" -}}
+{{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") -}}
   {{- $article = true -}}
 {{- end -}}
 
@@ -19,6 +18,12 @@
   {{- end -}}
   {{- if ne $videos "" -}}
     <button class="article-button" data-target="section-videos">Videos</button>
+  {{- end -}}
+  {{- if ne $transcriptions "" -}}
+  <button class="article-button" data-target="section-transcriptions">Transcriptions</button>
+  {{- end -}}
+  {{- if ne $reviews "" -}}
+  <button class="article-button" data-target="section-reviews">Reviews</button>
   {{- end -}}
   {{- partial "editButton.html" . -}}
 </div>
@@ -42,8 +47,15 @@
     {{- $videos -}}
   {{- end -}}
 </div>
+<div id="section-transcriptions" class="article-section">
+  {{- if ne $transcriptions "" -}}
+    {{- $transcriptions -}}
+  {{- end -}}
+</div>
 <div id="section-reviews" class="article-section">
-
+  {{- if ne $reviews "" -}}
+    {{- $reviews -}}
+  {{- end -}}
 </div>
 <hr>
 {{- partial "display-citations.html" . -}}

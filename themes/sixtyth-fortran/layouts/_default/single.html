@@ -9,6 +9,8 @@
       {{- $layout = "basePhotoArticle" -}}
     {{- else if in . "Videos" -}}
       {{- $layout = "baseVideoArticle" -}}
+    {{- else if in . "Animatronic News" -}}
+      {{- $layout = "baseNewsArticle" -}}
     {{- end -}}
   {{- end -}}
   {{- partial $layout . -}}

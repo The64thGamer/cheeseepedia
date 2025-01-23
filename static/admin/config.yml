@@ -158,6 +158,7 @@ collections:
         - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
         - { label: "Sally Corporation", value: "Sally Corporation" }
         - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+        - { label: "AnimatedFX", value: "AnimatedFX" }
         - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
         - { label: "Vp Animations", value: "Vp Animations" }
         - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
