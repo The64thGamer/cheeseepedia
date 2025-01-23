@@ -1,7 +1,7 @@
 {{- $gallery := partial "display-gallery.html" . -}}
 {{- $videos := partial "display-video-gallery.html" . -}}
 {{- $article := false -}}
-{{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") -}}
+{{- if or (ne $gallery "") (ne $videos "") -}}
   {{- $article = true -}}
 {{- end -}}
 
