@@ -1,7 +1,5 @@
 {{- $gallery := partial "display-gallery.html" . -}}
 {{- $videos := partial "display-video-gallery.html" . -}}
-{{- $transcriptions := partial "display-transcriptions.html" . -}}
-{{- $reviews := partial "display-reviews.html" . -}}
 {{- $article := false -}}
 {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") -}}
   {{- $article = true -}}
@@ -19,23 +17,17 @@
   {{- if ne $videos "" -}}
     <button class="article-button" data-target="section-videos">Videos</button>
   {{- end -}}
-  {{- if ne $transcriptions "" -}}
-  <button class="article-button" data-target="section-transcriptions">Transcriptions</button>
-  {{- end -}}
-  {{- if ne $reviews "" -}}
-  <button class="article-button" data-target="section-reviews">Reviews</button>
-  {{- end -}}
   {{- partial "editButton.html" . -}}
 </div>
 
-<div id="section-article" class="article-section">
+<div id="section-article" class="article-section" style="margin:5vw; width:auto;">
   {{- if .Params.pageThumbnailFile -}}
     <div class="article-store-thumbnail">
       {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
-  {{- partial "display-infobox-location.html" . -}}
   {{- .Content | safeHTML -}}
+  {{- partial "display-citations.html" . -}}
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">
@@ -47,18 +39,10 @@
     {{- $videos -}}
   {{- end -}}
 </div>
-<div id="section-transcriptions" class="article-section">
-  {{- if ne $transcriptions "" -}}
-    {{- $transcriptions -}}
-  {{- end -}}
-</div>
 <div id="section-reviews" class="article-section">
-  {{- if ne $reviews "" -}}
-    {{- $reviews -}}
-  {{- end -}}
+
 </div>
 <hr>
-{{- partial "display-citations.html" . -}}
 {{- partial "display-contributors.html" . -}}
 <h2>Random Articles</h2>
 {{- partial "random-page.html" . -}}
