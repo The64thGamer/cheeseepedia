@@ -408,6 +408,7 @@ background-color: var(--aqua);
 .dropdown-area{
   display: flex;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
 .article-photo-thumbnail{
@@ -614,7 +615,6 @@ select:hover
 
 select
 {
-  max-width: 15em;
   margin: 0.5em;
   font-family: "RockoFLF";
   letter-spacing: .1rem;
@@ -626,7 +626,7 @@ select
   border-width: .25em;
   border-radius: 8em;
   padding-left: 1em;
-  padding-right: 1em;
+  padding-right: 2em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   outline-color: var(--white);
@@ -638,7 +638,7 @@ select
   appearance: none;
   background-image: url(/UI/Emojis/wrench.svg);
   background-repeat: no-repeat;
-  background-position-x: 95%;
+  background-position-x: calc(100% - .75em);
   background-size: 1em;
   background-position-y: center;
 }
