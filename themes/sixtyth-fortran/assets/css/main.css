@@ -614,6 +614,7 @@ select:hover
 
 select
 {
+  max-width: 15em;
   margin: 0.5em;
   font-family: "RockoFLF";
   letter-spacing: .1rem;
@@ -634,6 +635,12 @@ select
   box-shadow: inset 0 0 0 0.25em var(--yellow);
   line-height: normal;
   flex-shrink: 1;
+  appearance: none;
+  background-image: url(/UI/Emojis/wrench.svg);
+  background-repeat: no-repeat;
+  background-position-x: 95%;
+  background-size: 1em;
+  background-position-y: center;
 }
 hr
 {
