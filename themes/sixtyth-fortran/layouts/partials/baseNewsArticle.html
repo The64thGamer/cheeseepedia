@@ -20,14 +20,16 @@
   {{- partial "editButton.html" . -}}
 </div>
 
-<div id="section-article" class="article-section" style="margin:5vw; width:auto;">
+<div id="section-article" class="article-section">
   {{- if .Params.pageThumbnailFile -}}
     <div class="article-store-thumbnail">
       {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
-  {{- .Content | safeHTML -}}
-  {{- partial "display-citations.html" . -}}
+  <div style="width:auto; margin-left:6em; margin-right:6em; margin-top:1em; margin-bottom:1em;">
+    {{- .Content | safeHTML -}}
+    {{- partial "display-citations.html" . -}}
+  </div>
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">
