@@ -1,0 +1,5 @@
+<aside data-pagefind-ignore="all">
+    {{- $pages := where site.RegularPages "Section" "news" -}}
+    {{- $latestPage := first 1 (sort $pages "Date" "desc") -}}
+    {{- partial "display-page-box.html" (index $latestPage 0) -}}
+</aside>
