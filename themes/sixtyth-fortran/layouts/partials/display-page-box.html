@@ -20,6 +20,9 @@
             </a>
             <div class="list-page-date">
                 {{- partial "display-date-ranges.html" . -}}
+                {{- if .Params.downloadLinks -}}
+                    <img src="/UI/Emojis/inbox.svg" class="emoji">
+                {{- end -}}
             </div>
         </div>
         <div class="edit-button-container">
