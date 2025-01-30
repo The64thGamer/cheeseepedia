@@ -139,33 +139,33 @@ collections:
         multiple: true
         required: true
         options:
-        - { label: "Celebration Station", value: "Celebration Station" }
-        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Jungle Jim's", value: "Jungle Jim's" }
-        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-        - { label: "Advanced Animations", value: "Advanced Animations" }
-        - { label: "Avg Technologies", value: "Avg Technologies" }
-        - { label: "Creative Engineering", value: "Creative Engineering" }
-        - { label: "Creative Presentations", value: "Creative Presentations" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Fantasy Forest", value: "Fantasy Forest" }
-        - { label: "Golding Leisure", value: "Golding Leisure" }
-        - { label: "Heimotion", value: "Heimotion" }
-        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-        - { label: "Sally Corporation", value: "Sally Corporation" }
-        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-        - { label: "AnimatedFX", value: "AnimatedFX" }
-        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-        - { label: "Vp Animations", value: "Vp Animations" }
-        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-        - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
-        - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "Celebration Station", value: "Celebration Station" }
+          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Jungle Jim's", value: "Jungle Jim's" }
+          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+          - { label: "Advanced Animations", value: "Advanced Animations" }
+          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "Creative Engineering", value: "Creative Engineering" }
+          - { label: "Creative Presentations", value: "Creative Presentations" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Fantasy Forest", value: "Fantasy Forest" }
+          - { label: "Golding Leisure", value: "Golding Leisure" }
+          - { label: "Heimotion", value: "Heimotion" }
+          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+          - { label: "Sally Corporation", value: "Sally Corporation" }
+          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "AnimatedFX", value: "AnimatedFX" }
+          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+          - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
+          - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
+          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
@@ -244,33 +244,33 @@ collections:
         multiple: true
         required: true
         options:
-        - { label: "Celebration Station", value: "Celebration Station" }
-        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Jungle Jim's", value: "Jungle Jim's" }
-        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-        - { label: "Advanced Animations", value: "Advanced Animations" }
-        - { label: "Avg Technologies", value: "Avg Technologies" }
-        - { label: "Creative Engineering", value: "Creative Engineering" }
-        - { label: "Creative Presentations", value: "Creative Presentations" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Fantasy Forest", value: "Fantasy Forest" }
-        - { label: "Golding Leisure", value: "Golding Leisure" }
-        - { label: "Heimotion", value: "Heimotion" }
-        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-        - { label: "Sally Corporation", value: "Sally Corporation" }
-        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-        - { label: "AnimatedFX", value: "AnimatedFX" }
-        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-        - { label: "Vp Animations", value: "Vp Animations" }
-        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-        - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
-        - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "Celebration Station", value: "Celebration Station" }
+          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Jungle Jim's", value: "Jungle Jim's" }
+          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+          - { label: "Advanced Animations", value: "Advanced Animations" }
+          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "Creative Engineering", value: "Creative Engineering" }
+          - { label: "Creative Presentations", value: "Creative Presentations" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Fantasy Forest", value: "Fantasy Forest" }
+          - { label: "Golding Leisure", value: "Golding Leisure" }
+          - { label: "Heimotion", value: "Heimotion" }
+          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+          - { label: "Sally Corporation", value: "Sally Corporation" }
+          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "AnimatedFX", value: "AnimatedFX" }
+          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+          - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
+          - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
+          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
 
   - name: "videos" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
@@ -316,33 +316,33 @@ collections:
         multiple: true
         required: true
         options:
-                - { label: "Celebration Station", value: "Celebration Station" }
-        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Jungle Jim's", value: "Jungle Jim's" }
-        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-        - { label: "Advanced Animations", value: "Advanced Animations" }
-        - { label: "Avg Technologies", value: "Avg Technologies" }
-        - { label: "Creative Engineering", value: "Creative Engineering" }
-        - { label: "Creative Presentations", value: "Creative Presentations" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Fantasy Forest", value: "Fantasy Forest" }
-        - { label: "Golding Leisure", value: "Golding Leisure" }
-        - { label: "Heimotion", value: "Heimotion" }
-        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-        - { label: "Sally Corporation", value: "Sally Corporation" }
-        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-        - { label: "AnimatedFX", value: "AnimatedFX" }
-        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-        - { label: "Vp Animations", value: "Vp Animations" }
-        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-        - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
-        - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "Celebration Station", value: "Celebration Station" }
+          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Jungle Jim's", value: "Jungle Jim's" }
+          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+          - { label: "Advanced Animations", value: "Advanced Animations" }
+          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "Creative Engineering", value: "Creative Engineering" }
+          - { label: "Creative Presentations", value: "Creative Presentations" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Fantasy Forest", value: "Fantasy Forest" }
+          - { label: "Golding Leisure", value: "Golding Leisure" }
+          - { label: "Heimotion", value: "Heimotion" }
+          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+          - { label: "Sally Corporation", value: "Sally Corporation" }
+          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "AnimatedFX", value: "AnimatedFX" }
+          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+          - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
+          - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
+          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
   - name: "reviews"
     label: "Reviews"
     folder: "content/reviews/"
@@ -406,30 +406,30 @@ collections:
         multiple: true
         required: true
         options:
-                - { label: "Celebration Station", value: "Celebration Station" }
-        - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Jungle Jim's", value: "Jungle Jim's" }
-        - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-        - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-        - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-        - { label: "Advanced Animations", value: "Advanced Animations" }
-        - { label: "Avg Technologies", value: "Avg Technologies" }
-        - { label: "Creative Engineering", value: "Creative Engineering" }
-        - { label: "Creative Presentations", value: "Creative Presentations" }
-        - { label: "Disney Parks", value: "Disney Parks" }
-        - { label: "Fantasy Forest", value: "Fantasy Forest" }
-        - { label: "Golding Leisure", value: "Golding Leisure" }
-        - { label: "Heimotion", value: "Heimotion" }
-        - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-        - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-        - { label: "Sally Corporation", value: "Sally Corporation" }
-        - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-        - { label: "AnimatedFX", value: "AnimatedFX" }
-        - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-        - { label: "Vp Animations", value: "Vp Animations" }
-        - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-        - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-        - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
-        - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-        - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "Celebration Station", value: "Celebration Station" }
+          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Jungle Jim's", value: "Jungle Jim's" }
+          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
+          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
+          - { label: "Advanced Animations", value: "Advanced Animations" }
+          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "Creative Engineering", value: "Creative Engineering" }
+          - { label: "Creative Presentations", value: "Creative Presentations" }
+          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Fantasy Forest", value: "Fantasy Forest" }
+          - { label: "Golding Leisure", value: "Golding Leisure" }
+          - { label: "Heimotion", value: "Heimotion" }
+          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
+          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
+          - { label: "Sally Corporation", value: "Sally Corporation" }
+          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "AnimatedFX", value: "AnimatedFX" }
+          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
+          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
+          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
+          - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
+          - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
+          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
