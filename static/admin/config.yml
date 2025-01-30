@@ -244,7 +244,7 @@ collections:
         multiple: true
         required: true
         options:
-                - { label: "Celebration Station", value: "Celebration Station" }
+        - { label: "Celebration Station", value: "Celebration Station" }
         - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
         - { label: "Disney Parks", value: "Disney Parks" }
         - { label: "Jungle Jim's", value: "Jungle Jim's" }
