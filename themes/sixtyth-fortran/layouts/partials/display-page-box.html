@@ -17,6 +17,9 @@
                 {{- else -}}
                     {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
                 {{- end -}}
+                {{- if .Params.downloadLinks -}}
+                {{- " " -}}<img src="/UI/Emojis/inbox.svg" class="emoji">
+                {{- end -}}
             </a>
             <div class="list-page-date">
                 {{- partial "display-date-ranges.html" . -}}
