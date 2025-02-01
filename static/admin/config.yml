@@ -130,6 +130,7 @@ collections:
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
           - { label: "Events", value: "Events" }
+          - { label: "Social Media and Websites", value: "Social Media and Websites" }
           - { label: "Characters", value: "Characters" }
       - label: "Categories"
         name: "categories"
