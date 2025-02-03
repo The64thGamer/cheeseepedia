@@ -10,7 +10,7 @@
   {{- $pages := first 1 (where $photos "Params.title" "eq" . )}}
   {{- if gt (len $pages) 0 -}}
     {{- $page := index $pages 0 -}}
-      <a href="static/photos/%s">
+      <a href="{{- printf "/photos/%s" . -}}">
         {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
         <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
         {{- else -}}
