@@ -526,6 +526,15 @@ background-color: var(--aqua);
   text-align: center;
 }
 
+
+.news-content{
+  width:auto;
+  margin-left:6em;
+  margin-right:6em;
+  margin-top:1em;
+  margin-bottom:1em;
+}
+
 .contributors sup{
   color: var(--white); 
 }
@@ -783,6 +792,16 @@ img.emoji:hover {
   .article-thumbnail img{
     max-width: 15em;
     min-width: 15em;
+  }
+
+  .article-store-thumbnail img{
+    margin-left: -1.5em;
+    margin-right: -1.5em;
+  }
+
+  .news-content{
+    margin-left:0;
+    margin-right:0;
   }
 
   .splash-text{

@@ -26,7 +26,7 @@
       {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
-  <div style="width:auto; margin-left:6em; margin-right:6em; margin-top:1em; margin-bottom:1em;">
+  <div class="news-content">
     {{- .Content | safeHTML -}}
     {{- partial "display-citations.html" . -}}
   </div>
