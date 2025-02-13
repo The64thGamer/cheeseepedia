@@ -5,7 +5,7 @@
 <div class="article-topBar">
   {{- partial "editButton.html" . -}}
 </div>
-<h2>Transcripts For</h2>
+<h2>Used In</h2>
 {{- $currentPageTitle := .Title -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
 {{- range $pages -}}
@@ -17,6 +17,7 @@
 <div id="section-article" class="article-section">
   {{- partial "display-infobox.html" . -}}
   <div class="transcription-content">
+    <h2>Transcripts</h2>
     {{- .Content | safeHTML}}
   </div>
   {{- partial "display-citations.html" . -}}
