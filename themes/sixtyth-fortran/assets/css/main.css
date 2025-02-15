@@ -185,7 +185,7 @@ h2{
   object-position: center;
 }
 
-.list-video img{
+.list-video picture{
   border-radius: 1em;
   max-width: 20em;
   min-width: 20em;
