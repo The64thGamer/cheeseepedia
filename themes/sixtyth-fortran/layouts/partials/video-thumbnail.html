@@ -3,25 +3,17 @@
 {{- if in $videoURL "youtube.com" -}}
     {{- $videoID := $videoURL | strings.TrimPrefix "https://www.youtube.com/watch?v=" -}}
     <a href="{{- $videoURL -}}" target="_blank">
-        <picture>
-            <source srcset="https://img.youtube.com/vi/{{- $videoID -}}/maxresdefault.jpg">
-            <source srcset="https://img.youtube.com/vi/{{- $videoID -}}/hqdefault.jpg">
-            <img src="https://img.youtube.com/vi/{{- $videoID -}}/mqdefault.jpg" 
-                 alt="YouTube Video Thumbnail" 
-                 style="width:100%; max-width:560px;">
-        </picture>
+        <img src="https://img.youtube.com/vi/{{- $videoID -}}/mqdefault.jpg" 
+             alt="YouTube Video Thumbnail" 
+             style="width:100%; max-width:560px;">
     </a>
 
 {{- else if in $videoURL "youtu.be" -}}
     {{- $videoID := last 1 (split $videoURL "/") | first 1 -}}
     <a href="{{- $videoURL -}}" target="_blank">
-        <picture>
-            <source srcset="https://img.youtube.com/vi/{{- index $videoID 0 -}}/maxresdefault.jpg">
-            <source srcset="https://img.youtube.com/vi/{{- index $videoID 0 -}}/hqdefault.jpg">
-            <img src="https://img.youtube.com/vi/{{- index $videoID 0 -}}/mqdefault.jpg" 
-                 alt="YouTube Video Thumbnail" 
-                 style="width:100%; max-width:560px;">
-        </picture>
+        <img src="https://img.youtube.com/vi/{{- index $videoID 0 -}}/mqdefault.jpg" 
+             alt="YouTube Video Thumbnail" 
+             style="width:100%; max-width:560px;">
     </a>
 
 {{- else if in $videoURL "archive.org" -}}
