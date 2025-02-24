@@ -816,4 +816,13 @@ img.emoji:hover {
     margin:auto;
     font-size: 1.25em;
   }
+
+  .list-video img{
+    max-width: 10em;
+    min-width: 10em;
+  }
+
+  .edit-button-container {
+    min-width: 6em;
+  }
 }
