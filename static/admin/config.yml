@@ -99,6 +99,7 @@ collections:
           - { label: "Animatronics", value: "Animatronics" }
           - { label: "Retrofits", value: "Retrofits" }
           - { label: "Costumed Characters", value: "Costumed Characters" }
+          - { label: "Animatronic Parts", value: "Animatronic Parts" }
           - { label: "Animatronic Preservation", value: "Animatronic Preservation" }
           - { label: "Showtapes", value: "Showtapes" }
           - { label: "Showtape Formats", value: "Showtape Formats" }
