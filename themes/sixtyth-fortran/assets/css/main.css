@@ -574,6 +574,12 @@ caption {
   margin-bottom: 1em;
 }
 
+.fun-logo img{
+  width:100%;
+  margin-top:-1.5em;
+  margin-bottom:-2.5em;
+}
+
 .fun-text{
   text-align: center;
   margin: 0;
@@ -824,5 +830,10 @@ img.emoji:hover {
 
   .edit-button-container {
     min-width: 6em;
+  }
+
+  .fun-logo img{
+    margin-top:-1.25em;
+    margin-bottom:0;
   }
 }
