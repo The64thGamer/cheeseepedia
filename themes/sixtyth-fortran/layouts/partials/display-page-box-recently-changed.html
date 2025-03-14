@@ -14,7 +14,8 @@
                 {{- end -}}
             </a>
             <div class="list-page-date">
-                Modified on {{ .GitInfo.AuthorDate.Format "Jan. 2, 2006 at 3:04 PM" }}
+                {{ $diff := now.Sub .GitInfo.AuthorDate }}
+                Updated {{ math.Round $diff.Hours }} hours ago
             </div>
         </div>
         <div class="edit-button-container">
