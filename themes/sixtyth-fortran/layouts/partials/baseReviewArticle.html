@@ -9,7 +9,7 @@
 {{- $currentPageTitle := .Title -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
 {{- range $pages -}}
-  {{- if .Params.page == $currentPageTitle -}}
+  {{- if .Params.page eq $currentPageTitle -}}
     {{- partial "display-page-box.html" . -}}
   {{- end -}}
 {{- end -}}
