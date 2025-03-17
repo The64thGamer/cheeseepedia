@@ -6,10 +6,10 @@
   {{- partial "editButton.html" . -}}
 </div>
 <h2>Used In</h2>
-{{- $currentPageTitle := .Title -}}
+{{- $currentPageTitle := .Page -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
 {{- range $pages -}}
-  {{- if eq .Params.Page $currentPageTitle -}}
+  {{- if eq .Params.Title $currentPageTitle -}}
     {{- partial "display-page-box.html" . -}}
   {{- end -}}
 {{- end -}}

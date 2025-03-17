@@ -16,10 +16,10 @@
 <h2>My Reviews:</h2>
 {{- range $pages -}}
   {{- $page := . -}} <!-- Store the current page object in a variable -->
-  {{- with $page.Params.page -}}
+  {{- with $page.Params.Page -}}
     {{- $contributors := . -}}
     {{- if in $contributors $currentTitle -}}
-      {{- partial "display-page-box.html" . -}}
+      {{- partial "display-page-box.html" $page -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
