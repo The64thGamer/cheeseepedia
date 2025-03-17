@@ -122,6 +122,7 @@ collections:
           - { label: "Ad Vehicles", value: "Ad Vehicles" }
           - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
           - { label: "Other Systems", value: "Other Systems" }
+          - { label: "Simulators", value: "Simulators" }
           - { label: "Programming Systems", value: "Programming Systems" }
           - { label: "Promotional Material", value: "Promotional Material" }
           - { label: "Documents", value: "Documents" }
