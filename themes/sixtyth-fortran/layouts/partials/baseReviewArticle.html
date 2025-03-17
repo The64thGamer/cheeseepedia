@@ -7,7 +7,7 @@
 </div>
 <h2>Used In</h2>
 {{- $currentPageTitle := .Page -}}
-{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+{{- $pages := partialCached "grab-all-reviews.html" . -}}
 {{- range $pages -}}
   {{- $page := . -}}
   {{- if eq .Params.Title $currentPageTitle -}}

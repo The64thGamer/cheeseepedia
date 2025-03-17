@@ -12,9 +12,9 @@
 
 <hr>
 {{- $currentTitle := .Title -}}
-{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+{{- $reviews := partialCached "grab-all-reviews.html" . -}}
 <h2>My Reviews:</h2>
-{{- range $pages -}}
+{{- range $reviews -}}
   {{- $page := . -}} <!-- Store the current page object in a variable -->
   {{- with $page.Params.Page -}}
     {{- $contributors := .Params.contributors -}}
@@ -27,6 +27,7 @@
 <h2>I contributed to these pages!</h2>
 <div class="tri-column">
   <ul>
+    {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
     {{- range $pages -}}
       {{- $page := . -}} <!-- Store the current page object in a variable -->
       {{- with $page.Params.contributors -}}
