@@ -17,7 +17,7 @@
 {{- range $pages -}}
   {{- $page := . -}} <!-- Store the current page object in a variable -->
   {{- with $page.Params.Page -}}
-    {{- $contributors := . -}}
+    {{- $contributors := .Params.contributors -}}
     {{- if in $contributors $currentTitle -}}
       {{- partial "display-page-box.html" $page -}}
     {{- end -}}
