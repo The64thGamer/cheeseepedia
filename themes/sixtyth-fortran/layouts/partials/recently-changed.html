@@ -1,6 +1,6 @@
 {{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
 {{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
-{{- $latestPages := first 10 $sortedPages -}}
+{{- $latestPages := first 100 $sortedPages -}}
 
 <aside data-pagefind-ignore="all">
     <div class="tri-column">
@@ -14,8 +14,8 @@
                         {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
                     {{- end -}}
                 </a>
-                {{ $diff := now.Sub .GitInfo.AuthorDate }}
-                {{- " - " -}} Updated {{- math.Round $diff.Hours -}} hours ago
+                {{- $diff := now.Sub .GitInfo.AuthorDate -}}
+                <ul>Updated {{ math.Round $diff.Hours }} hours ago</ul>
             </li>
             {{- end -}}
         </ul>
