@@ -6,11 +6,13 @@
             {{- else -}}
                 {{- "👎 " -}}
             {{- end -}}
-            {{- with .LinkTitle -}}
-                {{- . | safeHTML -}}
-            {{- else -}}
-                {{- .Title | safeHTML -}}
-            {{- end -}}
+            <a href="{{- .RelPermalink -}}">
+                {{- with .LinkTitle -}}
+                    {{- . | safeHTML -}}
+                {{- else -}}
+                    {{- .Title | safeHTML -}}
+                {{- end -}}
+            </a>
             <div class="list-review-date">
                 {{- $site := .Site.RegularPages -}}
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
