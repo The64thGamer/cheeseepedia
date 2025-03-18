@@ -85,7 +85,7 @@ h2{
 }
 
 .reg-column ul, .updated-time ul {
-  column-count: 1;
+  column-count: 1 !important;
 }
 
 .list-page-block:hover, .list-page-empty-block:hover,  .pagefind-ui__result:hover{

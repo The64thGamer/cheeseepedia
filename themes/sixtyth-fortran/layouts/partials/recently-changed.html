@@ -18,7 +18,7 @@
                     {{- end -}}
                 </a>
                 <ul class="updated-time" data-updated="{{- .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" -}}">
-                    <li>Updated <div class="relative-time">loading...</div></li>
+                    <li class="relative-time">loading...</li>
                 </ul>
             </li>
             {{- end -}}
@@ -56,7 +56,7 @@
                 timeText = `${diffDays} days ago`;
             }
     
-            element.querySelector(".relative-time").textContent = timeText;
+            element.querySelector(".relative-time").textContent = "Updated " + timeText;
         });
     });
     </script>
