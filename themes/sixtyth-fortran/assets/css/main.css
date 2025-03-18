@@ -84,7 +84,7 @@ h2{
   column-count: 3;
 }
 
-.reg-column ul {
+.reg-column ul, .updated-time ul {
   column-count: 1;
 }
 
