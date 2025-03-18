@@ -17,8 +17,8 @@
 {{- range $reviews -}}
   {{- $page := . -}} <!-- Store the current page object in a variable -->
   {{- with $page.Params.Page -}}
-    {{- $contributors := $page.Params.contributors -}}
-    {{- if in $contributors $currentTitle -}}
+    {{- $revCont := $page.Params.contributors -}}
+    {{- if in $revCont $currentTitle -}}
       {{- partial "display-review-box.html" $page -}}
     {{- end -}}
   {{- end -}}
