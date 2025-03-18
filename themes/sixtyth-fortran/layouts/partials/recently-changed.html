@@ -10,7 +10,7 @@
                 <a href="{{ .RelPermalink }}">
                     {{- with .Params.Tags -}}
                         {{- partial "emojijustemoji.html" . -}}
-                    {{- else -}}
+                    {{- end -}}
                     {{- with .LinkTitle -}}
                         {{ . | safeHTML }}
                     {{- else -}}
