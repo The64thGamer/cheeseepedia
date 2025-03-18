@@ -22,7 +22,6 @@
         </ul>
     </div>
 </aside>
-
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         const timeElements = document.querySelectorAll(".updated-time");
@@ -31,19 +30,26 @@
             const updatedTime = element.getAttribute("data-updated");
             if (!updatedTime) return;
     
-            const updatedDate = new Date(updatedTime);
+            const updatedDate = new Date(updatedTime); 
+            if (isNaN(updatedDate.getTime())) {
+                console.error("Invalid date:", updatedTime);
+                return;
+            }
+    
             const now = new Date();
             const diffMs = now - updatedDate;
+            const diffMinutes = Math.round(diffMs / (1000 * 60));
             const diffHours = Math.round(diffMs / (1000 * 60 * 60));
+            const diffDays = Math.round(diffHours / 24);
     
             let timeText;
-            if (diffHours < 1) {
-                const diffMinutes = Math.round(diffMs / (1000 * 60));
+            if (diffMinutes < 1) {
+                timeText = "Just now";
+            } else if (diffMinutes < 60) {
                 timeText = `${diffMinutes} minutes ago`;
             } else if (diffHours < 24) {
                 timeText = `${diffHours} hours ago`;
             } else {
-                const diffDays = Math.round(diffHours / 24);
                 timeText = `${diffDays} days ago`;
             }
     
@@ -51,4 +57,5 @@
         });
     });
     </script>
+    
     
