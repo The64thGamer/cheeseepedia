@@ -1,12 +1,12 @@
 <div class="list-review-block">
     <div class="list-review-container">
         <div class="list-review-content">
-            {{- if eq .Params.recommend true -}}
-                {{- "👍 " -}}
-            {{- else -}}
-                {{- "👎 " -}}
-            {{- end -}}
             <a href="{{- .RelPermalink -}}">
+                {{- if eq .Params.recommend true -}}
+                    {{- "👍 " -}}
+                {{- else -}}
+                    {{- "👎 " -}}
+                {{- end -}}
                 {{- with .LinkTitle -}}
                     {{- . | safeHTML -}}
                 {{- else -}}
