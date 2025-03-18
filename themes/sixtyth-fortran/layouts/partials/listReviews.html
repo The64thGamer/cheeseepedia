@@ -7,7 +7,7 @@
 {{- partialCached "display-dropdown-year.html" . -}}
 </div>
 <div id="tagsContainer">
-    {{- $listPages := sort .Pages "Params.startDate" -}}
+    {{- $listPages := sort .Pages "Params.startDate" "desc" -}}
     {{- range $listPages -}}
       <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.startDate -}}" style="display: none;">
         {{- partial "display-review-box.html" . -}}
