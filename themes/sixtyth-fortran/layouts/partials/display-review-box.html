@@ -16,8 +16,8 @@
             <div class="list-review-date">
                 {{- $site := .Site.RegularPages -}}
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
-                {{- " - " -}}
                 {{- if .Params.contributors -}}
+                    {{- " - " -}}
                     {{- $len := len .Params.contributors -}}
                     {{- range $index, $element := .Params.contributors -}}
                         {{- $articles := where $site "Title" $element -}} 
@@ -31,12 +31,14 @@
                         {{- end -}}
                     {{- end -}}
                 {{- else -}}
-                    Anonymous
+                    {{- " - Anonymous" -}}
                 {{- end -}}
-                {{- if .Params.contributors -}}
+                {{- if .Params.Page -}}
                     {{- " - " -}}
                     {{- $articles := where .Site.RegularPages "Title" .Page -}}
-                    <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
+                    {{- if gt (len $articles) 0 -}}
+                        <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
+                    {{- end -}}
                 {{- end -}}
             </div>
             <div class="list-review-body">
