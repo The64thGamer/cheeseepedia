@@ -1,23 +1,54 @@
 {{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
 {{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
-{{- $latestPages := first 100 $sortedPages -}}
+{{- $latestPages := first 30 $sortedPages -}}
 
 <aside data-pagefind-ignore="all">
     <div class="tri-column">
         <ul>
             {{- range $latestPages -}}
             <li>
-                <a href="{{- .RelPermalink -}}">
+                <a href="{{ .RelPermalink }}">
                     {{- with .LinkTitle -}}
-                        {{- . | safeHTML -}}
+                        {{ . | safeHTML }}
                     {{- else -}}
-                        {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                        {{ .Title | safeHTML }}
                     {{- end -}}
                 </a>
-                {{- $diff := now.Sub .GitInfo.AuthorDate -}}
-                <ul>Updated {{ math.Round $diff.Hours }} hours ago</ul>
+                <ul class="updated-time" data-updated="{{ .GitInfo.AuthorDate }}">
+                    Updated <span class="relative-time">loading...</span>
+                </ul>
             </li>
             {{- end -}}
         </ul>
     </div>
 </aside>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const timeElements = document.querySelectorAll(".updated-time");
+    
+        timeElements.forEach(element => {
+            const updatedTime = element.getAttribute("data-updated");
+            if (!updatedTime) return;
+    
+            const updatedDate = new Date(updatedTime);
+            const now = new Date();
+            const diffMs = now - updatedDate;
+            const diffHours = Math.round(diffMs / (1000 * 60 * 60));
+    
+            let timeText;
+            if (diffHours < 1) {
+                const diffMinutes = Math.round(diffMs / (1000 * 60));
+                timeText = `${diffMinutes} minutes ago`;
+            } else if (diffHours < 24) {
+                timeText = `${diffHours} hours ago`;
+            } else {
+                const diffDays = Math.round(diffHours / 24);
+                timeText = `${diffDays} days ago`;
+            }
+    
+            element.querySelector(".relative-time").textContent = timeText;
+        });
+    });
+    </script>
+    
