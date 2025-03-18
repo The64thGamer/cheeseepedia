@@ -35,7 +35,7 @@
                 {{- end -}}
                 {{- if .Params.Page -}}
                     {{- " - " -}}
-                    {{- $articles := where .Site.RegularPages "Title" .Page -}}
+                    {{- $articles := where .Site.RegularPages "Title" .Params.Page -}}
                     {{- if gt (len $articles) 0 -}}
                         <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
                     {{- end -}}
