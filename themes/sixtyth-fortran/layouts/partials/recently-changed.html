@@ -14,8 +14,8 @@
                         {{ .Title | safeHTML }}
                     {{- end -}}
                 </a>
-                <ul class="updated-time" data-updated="{{ .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" }}">
-                    <li>Updated <span class="relative-time">loading...</span></li>
+                <ul class="updated-time" data-updated="{{- .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" -}}">
+                    <li>Updated <div class="relative-time">loading...</div></li>
                 </ul>
             </li>
             {{- end -}}
