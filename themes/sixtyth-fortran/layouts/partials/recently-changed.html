@@ -8,6 +8,9 @@
             {{- range $latestPages -}}
             <li>
                 <a href="{{ .RelPermalink }}">
+                    {{- with .Params.Tags -}}
+                        {{- partial "emojijustemoji.html" . -}}
+                    {{- else -}}
                     {{- with .LinkTitle -}}
                         {{ . | safeHTML }}
                     {{- else -}}

@@ -142,8 +142,7 @@ h2{
   font-family: "RockoFLF";
   font-size: 1em;
   line-height: 1.5;
-  max-width: 65em;
-  min-width: 30em;
+  max-width: 100%;
   min-height: 5.5em;
   border-color: var(--brown);
   border-style: solid;
