@@ -8,6 +8,8 @@
     {{- $layout = "listPhotos" -}}
   {{- else if eq .Title "Videos" -}}
     {{- $layout = "listVideos" -}}
+    {{- else if eq .Title "Reviews" -}}
+    {{- $layout = "listReviews" -}}
   {{- else if eq .Title "Locations" -}}
     {{- $layout = "listLocations" -}}
   {{- end -}}

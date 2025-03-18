@@ -19,7 +19,7 @@
   {{- with $page.Params.Page -}}
     {{- $contributors := $page.Params.contributors -}}
     {{- if in $contributors $currentTitle -}}
-      {{- partial "display-page-box.html" $page -}}
+      {{- partial "display-review-box.html" $page -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}

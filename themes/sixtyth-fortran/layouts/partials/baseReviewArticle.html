@@ -5,23 +5,12 @@
 <div class="article-topBar">
   {{- partial "editButton.html" . -}}
 </div>
-<h2>Used In</h2>
-{{- $currentPageTitle := .Params.Page -}}
-{{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
-{{- range $pages -}}
-  {{- $page := . -}}
-  {{- if eq $page.Title $currentPageTitle -}}
-    {{- partial "display-page-box.html" $page -}}
-  {{- end -}}
-{{- end -}}
 </aside>
 <div id="section-article" class="article-section">
-  {{- partial "display-infobox.html" . -}}
   <div class="review-content">
     <h2>Review</h2>
-    {{- .Content | safeHTML}}
+    {{- partial "display-review-box.html" . -}}
   </div>
-  {{- partial "display-citations.html" . -}}
 </div>
 <hr>
 {{- partial "display-contributors.html" . -}}

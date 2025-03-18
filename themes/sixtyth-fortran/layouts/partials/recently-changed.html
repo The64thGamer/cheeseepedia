@@ -3,7 +3,21 @@
 {{- $latestPages := first 10 $sortedPages -}}
 
 <aside data-pagefind-ignore="all">
-    {{- range $latestPages -}}
-        {{- partial "display-page-box-recently-changed.html" . -}}
-    {{- end -}}
+    <div class="tri-column">
+        <ul>
+            {{- range $latestPages -}}
+            <li>
+                <a href="{{- .RelPermalink -}}">
+                    {{- with .LinkTitle -}}
+                        {{- . | safeHTML -}}
+                    {{- else -}}
+                        {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
+                    {{- end -}}
+                </a>
+                {{ $diff := now.Sub .GitInfo.AuthorDate }}
+                {{- " - " -}} Updated {{- math.Round $diff.Hours -}} hours ago
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
 </aside>
