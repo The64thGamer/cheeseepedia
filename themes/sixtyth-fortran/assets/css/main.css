@@ -84,8 +84,8 @@ h2{
   column-count: 3;
 }
 
-.reg-column ul {
-  column-count: 1;
+.reg-column ul, .updated-time {
+  column-count: 1 !important;
 }
 
 .list-page-block:hover, .list-page-empty-block:hover,  .pagefind-ui__result:hover{
@@ -142,8 +142,7 @@ h2{
   font-family: "RockoFLF";
   font-size: 1em;
   line-height: 1.5;
-  max-width: 65em;
-  min-width: 30em;
+  max-width: 100%;
   min-height: 5.5em;
   border-color: var(--brown);
   border-style: solid;
@@ -574,6 +573,12 @@ caption {
   margin-bottom: 1em;
 }
 
+.fun-logo img{
+  width:100%;
+  margin-top:-1.5em;
+  margin-bottom:-2.5em;
+}
+
 .fun-text{
   text-align: center;
   margin: 0;
@@ -815,5 +820,19 @@ img.emoji:hover {
   .list-page-content, .list-review-content, .list-page-video-content, .pagefind-ui__result-title{
     margin:auto;
     font-size: 1.25em;
+  }
+
+  .list-video img{
+    max-width: 10em;
+    min-width: 10em;
+  }
+
+  .edit-button-container {
+    min-width: 6em;
+  }
+
+  .fun-logo img{
+    margin-top:-1.25em;
+    margin-bottom:0;
   }
 }

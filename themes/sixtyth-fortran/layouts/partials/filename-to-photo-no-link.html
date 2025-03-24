@@ -6,9 +6,9 @@
   {{- if gt (len $pages) 0 -}}
     {{- $page := index $pages 0 -}}
         {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
-        <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
+        <img src="/UI/File Not Found.jpg" alt="{{- $page.Params.description -}}" />
         {{- else -}}
-        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
+        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Params.description -}}" />
         {{- end -}}
   {{- else -}}
       <img src="/UI/File Not Found.jpg" alt="{{- . -}}" />

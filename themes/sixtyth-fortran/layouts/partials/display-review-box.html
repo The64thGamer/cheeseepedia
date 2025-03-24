@@ -1,26 +1,28 @@
 <div class="list-review-block">
     <div class="list-review-container">
         <div class="list-review-content">
-            {{- if eq .Params.recommend true -}}
-                {{- "👍 " -}}
-            {{- else -}}
-                {{- "👎 " -}}
-            {{- end -}}
-            {{- with .LinkTitle -}}
-                {{- . | safeHTML -}}
-            {{- else -}}
-                {{- .Title | safeHTML -}} <!-- Fallback to Title if no LinkTitle -->
-            {{- end -}}
+            <a href="{{- .RelPermalink -}}">
+                {{- if eq .Params.recommend true -}}
+                    {{- "👍 " -}}
+                {{- else -}}
+                    {{- "👎 " -}}
+                {{- end -}}
+                {{- with .LinkTitle -}}
+                    {{- . | safeHTML -}}
+                {{- else -}}
+                    {{- .Title | safeHTML -}}
+                {{- end -}}
+            </a>
             <div class="list-review-date">
                 {{- $site := .Site.RegularPages -}}
                 {{- partial "date-to-readable-date.html" .Params.startDate -}}
-                {{- " - " -}}
                 {{- if .Params.contributors -}}
+                    {{- " - " -}}
                     {{- $len := len .Params.contributors -}}
                     {{- range $index, $element := .Params.contributors -}}
-                        {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
+                        {{- $articles := where $site "Title" $element -}} 
                         {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
-                            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+                            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> 
                         {{- else -}}
                             {{- $element -}}
                         {{- end -}}      
@@ -29,7 +31,14 @@
                         {{- end -}}
                     {{- end -}}
                 {{- else -}}
-                    Anonymous
+                    {{- " - Anonymous" -}}
+                {{- end -}}
+                {{- if .Params.Page -}}
+                    {{- " - " -}}
+                    {{- $articles := where .Site.RegularPages "Title" .Params.Page -}}
+                    {{- if gt (len $articles) 0 -}}
+                        <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
+                    {{- end -}}
                 {{- end -}}
             </div>
             <div class="list-review-body">

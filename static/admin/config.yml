@@ -99,6 +99,7 @@ collections:
           - { label: "Animatronics", value: "Animatronics" }
           - { label: "Retrofits", value: "Retrofits" }
           - { label: "Costumed Characters", value: "Costumed Characters" }
+          - { label: "Animatronic Parts", value: "Animatronic Parts" }
           - { label: "Animatronic Preservation", value: "Animatronic Preservation" }
           - { label: "Showtapes", value: "Showtapes" }
           - { label: "Showtape Formats", value: "Showtape Formats" }
@@ -121,6 +122,7 @@ collections:
           - { label: "Ad Vehicles", value: "Ad Vehicles" }
           - { label: "Animatronic Control Systems", value: "Animatronic Control Systems" }
           - { label: "Other Systems", value: "Other Systems" }
+          - { label: "Simulators", value: "Simulators" }
           - { label: "Programming Systems", value: "Programming Systems" }
           - { label: "Promotional Material", value: "Promotional Material" }
           - { label: "Documents", value: "Documents" }
@@ -181,6 +183,8 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcription"]}
+
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
     label: "Users" # Used in the UI
@@ -195,6 +199,8 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["User"]}
+
 
   - name: "meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
