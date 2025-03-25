@@ -1,4 +1,4 @@
-{{- $pages := where . "Params.latitudeLongitude" "!=" nil -}}
+{{- $pages := where . "Params.tags" "intersect" (slice "Locations") -}}
 
 <div id="map" style="
     margin: 0.5em;
@@ -48,14 +48,25 @@
     var locations = [
         {{- range $pages -}}
                 { 
-                coords: [{{- index .Params.latitudeLongitude 0 -}}, {{- index .Params.latitudeLongitude 1 -}}], 
-                url: "{{- .RelPermalink -}}", 
-                title: "{{- .Title -}}",
-                startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
-                endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
+                  group: "{{- .Params.categories -}}",
+                  coords_str: "{{.Params.latitudeLongitude}}",
+                  coords: [{{- index .Params.latitudeLongitude 0 -}}, {{- index .Params.latitudeLongitude 1 -}}], 
+                  url: "{{- .RelPermalink -}}", 
+                  title: "{{- .Title -}}",
+                  startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
+                  endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
                 },
         {{- end -}}
     ];
+
+    var maplocations = locations.filter((location) => location.coords_str != "")
+
+    maplocations.forEach(function(location) {
+      const date = /\d{4}-\d{2}-\d{2}/i;
+      if(!date.test(location.startDate) || !date.test(location.endDate)) {
+        console.log(location);
+      }
+     });
   
     var markers = [];
   
@@ -66,7 +77,7 @@
       markers = [];
   
       // Add markers based on date range filtering
-      locations.forEach(function(location) {
+      maplocations.forEach(function(location) {
         var startDate = new Date(location.startDate);
         var endDate = new Date(location.endDate);
         var currentDate = new Date(selectedDate);
