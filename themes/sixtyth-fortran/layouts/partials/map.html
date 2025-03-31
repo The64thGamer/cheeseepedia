@@ -3,11 +3,10 @@
 <div id="map" style="
     margin: 0.5em;
     border-width: 0.5em;
-    border-radius: 5em;
+    border-radius: 1em;
     height: 40em;
     width: 100%;
     position: relative;
-    filter: brightness(0.55) contrast(5.9) hue-rotate(24deg) saturate(0.5);
     outline-style: none;">
 </div>
 
@@ -32,18 +31,16 @@
   document.addEventListener('DOMContentLoaded', function () {
     var map = L.map('map').setView([20,10],2); // Set default view
   
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 18,
+    // L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    //   maxZoom: 18,
+    // }).addTo(map);
+
+    L.tileLayer('http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
+	    minZoom: 1,
+	    maxZoom: 16,
+	    ext: 'jpg'
     }).addTo(map);
-  
-    // Custom red marker icon
-    var redIcon = L.icon({
-      iconUrl: 'https://maps.gstatic.com/mapfiles/ms2/micons/red-dot.png', // A red marker icon URL
-      iconSize: [32, 32], // Icon size
-      iconAnchor: [16, 32], // Anchor point of the icon (middle bottom)
-      popupAnchor: [0, -32] // Popup anchor point (middle top)
-    });
-  
+    
     // Array to store markers data
     var locations = [
         {{- range $pages -}}
@@ -54,7 +51,8 @@
                   url: "{{- .RelPermalink -}}", 
                   title: "{{- .Title -}}",
                   startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
-                  endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}" // Default to today if no endDate
+                  endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}", // Default to today if no endDate
+                  cuDate: "{{- .Params.cuDate | default "1993-01-01" -}}"
                 },
         {{- end -}}
     ];
@@ -63,9 +61,17 @@
 
     maplocations.forEach(function(location) {
       const date = /\d{4}-\d{2}-\d{2}/i;
-      if(!date.test(location.startDate) || !date.test(location.endDate)) {
+
+      if(!(date.test(location.startDate))) {
         console.log(location);
       }
+      if(!(date.test(location.endDate))) {
+        console.log(location);
+      }
+      if(!(date.test(location.cuDate))) {
+        console.log(location);
+      }
+
       if(date.test(location.startDate)) {
         var startYear = location.startDate.substring(0, 4);
         var startMonth = location.startDate.substring(5, 7);
@@ -80,6 +86,22 @@
         }
 
       }
+
+      if(date.test(location.cuDate)) {
+        var cuYear = location.cuDate.substring(0, 4);
+        var cuMonth = location.cuDate.substring(5, 7);
+        var cuDay = location.cuDate.substring(8, 10);
+
+        if(cuMonth == "00") {
+          location.cuDate = cuYear + "01-01";
+        }
+        
+        if(cuMonth != "00" && cuDay == "00") {
+          location.cuDate = cuYear + "-" + cuMonth + "-01";
+        }
+
+      }
+
       if(date.test(location.endDate)) {
         var endYear = location.endDate.substring(0, 4);
         var endMonth = location.endDate.substring(5, 7);
@@ -111,11 +133,60 @@
       maplocations.forEach(function(location) {
         var startDate = new Date(location.startDate);
         var endDate = new Date(location.endDate);
+        var cuDate = new Date(location.cuDate);
         var currentDate = new Date(selectedDate);
+
+        var otherPin = L.icon({
+          iconUrl: '/UI/Markers/other.png',
+          iconSize: [48, 48], // Icon size
+          iconAnchor: [24, 48], // Anchor point of the icon (middle bottom)
+          popupAnchor: [0, -48] // Popup anchor point (middle top)
+        });
+
+        var pttPin = L.icon({
+          iconUrl: '/UI/Markers/ptt.png',
+          iconSize: [48, 48], // Icon size
+          iconAnchor: [24, 48], // Anchor point of the icon (middle bottom)
+          popupAnchor: [0, -48] // Popup anchor point (middle top)
+        });
+
+        var sppPin = L.icon({
+          iconUrl: '/UI/Markers/spp.png',
+          iconSize: [48, 48], // Icon size
+          iconAnchor: [24, 48], // Anchor point of the icon (middle bottom)
+          popupAnchor: [0, -48] // Popup anchor point (middle top)
+        });
+
+        var cecPin = L.icon({
+          iconUrl: '/UI/Markers/cec.png',
+          iconSize: [48, 48], // Icon size
+          iconAnchor: [24, 48], // Anchor point of the icon (middle bottom)
+          popupAnchor: [0, -48] // Popup anchor point (middle top)
+        });
+
+        var mapPin = otherPin;
+
+        if (location.group.includes("Chuck E. Cheese")) {
+          mapPin = cecPin;
+        }
+
+        if (location.group.includes("ShowBiz Pizza Place")) {
+          mapPin = sppPin;
+          if (currentDate >= cuDate) {
+            mapPin = cecPin;
+          }
+        }
+
+        if (location.group.includes("Pizza Time Theatre")) {
+          mapPin = pttPin;
+          if (currentDate >= new Date("1985-01-01")) {
+            mapPin = cecPin; 
+          }
+        }
   
         // Only display markers that fall within the selected date
         if (currentDate >= startDate && currentDate <= endDate) {
-          var marker = L.marker(location.coords, { icon: redIcon }).addTo(map)
+          var marker = L.marker(location.coords, { icon: mapPin }).addTo(map)
             .bindPopup('<a href="' + location.url + '">' + location.title + '</a>');
           markers.push(marker);
         }
