@@ -52,7 +52,7 @@
                   title: "{{- .Title -}}",
                   startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
                   endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}", // Default to today if no endDate
-                  cuDate: "{{- .Params.cuDate | default "1993-01-01" -}}"
+                  cuDate: "{{- .Params.cuDate | default "1992-01-01" -}}"
                 },
         {{- end -}}
     ];
@@ -179,7 +179,7 @@
 
         if (location.group.includes("Pizza Time Theatre")) {
           mapPin = pttPin;
-          if (currentDate >= new Date("1985-01-01")) {
+          if (currentDate >= new Date("1992-01-01")) {
             mapPin = cecPin; 
           }
         }
