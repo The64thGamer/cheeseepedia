@@ -1,6 +1,6 @@
 {{- partial "editButton-list.html" . -}}
 {{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- .Title | safeHTML -}}</h1>
+<h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
 <hr>
 
 {{- if .Params.pageThumbnailFile -}}
