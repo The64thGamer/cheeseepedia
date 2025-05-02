@@ -161,6 +161,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -270,6 +271,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -342,6 +344,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
@@ -432,6 +435,7 @@ collections:
           - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
           - { label: "Sally Corporation", value: "Sally Corporation" }
           - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
+          - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
           - { label: "Vp Animations", value: "Vp Animations" }
