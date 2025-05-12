@@ -1,14 +1,12 @@
 +++
-title = "Biphase Cyberstar Data Format"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["ShowBiz Pizza Place"]
-
-
+title = "Biphase Cyberstar Data Format"
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","BattleXGamer","Ls2018"]
-citations = []
+contributors = ["The 64th Gamer", "BattleXGamer", "Ls2018", "AvaBeckLey"]
+citations = [" "]
+tags = ["Showtape Formats"]
+categories = ["ShowBiz Pizza Place"]
 +++
 
 <h2>History</h2>
@@ -60,7 +58,19 @@ Some commands are interpreted by the controller only and are not directly correl
 <td>{{< wiki-link "C&R SVHS (Pre-93)" >}}, {{< wiki-link "R12 SVHS (Pre-93)" >}}</td>
 <td>$$W</td>
 <td>TODO</td>
+
 <td>TODO: This is possibly the birthday warning command. Need to check all this again.</td>
+
+<tr>
+<td>All Formats <br> (I have tested data from numerous CyberStar showtapes ranging from 1989 to 2022, and this code has been present in all of them. They are present on 3 stage, CEC stage, and even Cyberstar RAF showtapes)</td>
+<td>$$T   <br>       $$2</td>
+
+<td>Print to LCD</td>
+
+<td><strong>$$T </strong>followed by a series of ascii letters prints to the first lines of the 16x2 LCD display. This will generally be followed by <Strong>$$2 </Strong> which prints the following ascii characters on the second line of the LCD. Obviously each string of characters can only be 16 characters long because the lcd has only 16 characters per line. The first line generally has the name and date of show with the stage type, and the second line generally shows the copyright credit. This plays at the beginning of each show segment.  An example from the September 2008 show tape is below: <br> <br> <strong>Data: <br> </strong>$$TSEP-2008-1-CEC
+$$$2(C)-2008-CEC-ENT<br><br> <strong> LCD would show:<br> </strong>SEP-2008-1-CEC <br> (C)-2008-CEC-ENT</td>
+
+
 </tr>
 <tr>
 <td>{{< wiki-link "C&R SVHS (Pre-93)" >}}, {{< wiki-link "R12 SVHS (Pre-93)" >}}</td>
