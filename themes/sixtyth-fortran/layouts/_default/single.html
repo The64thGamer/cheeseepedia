@@ -5,6 +5,10 @@
       {{- $layout = "user" -}}
     {{- else if in . "Locations" -}}
       {{- $layout = "baseStoreArticle" -}}
+    {{- else if in . "Transcriptions" -}}
+      {{- $layout = "baseTranscriptionArticle" -}}
+    {{- else if in . "Reviews" -}}
+      {{- $layout = "baseReviewArticle" -}}
     {{- else if in . "Photos" -}}
       {{- $layout = "basePhotoArticle" -}}
     {{- else if in . "Videos" -}}

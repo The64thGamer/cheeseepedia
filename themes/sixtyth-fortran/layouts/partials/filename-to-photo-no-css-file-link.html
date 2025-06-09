@@ -12,9 +12,9 @@
     {{- $page := index $pages 0 -}}
       <a href="{{- printf "/photos/%s" . -}}">
         {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
-        <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
+        <img data-pagefind-meta="image[src], image_alt[alt]" src="/UI/File Not Found.jpg" alt="{{- $page.Params.description -}}" />
         {{- else -}}
-        <img data-pagefind-meta="image[src], image_alt[alt]" src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
+        <img data-pagefind-meta="image[src], image_alt[alt]" src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Params.description -}}" />
         {{- end -}}
       </a>
     <div class="article-photo-description">

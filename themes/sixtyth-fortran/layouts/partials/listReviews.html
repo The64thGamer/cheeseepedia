@@ -1,0 +1,18 @@
+<h1>{{- partial "emojify.html" .Title -}}</h1>
+{{- .Content | safeHTML -}}
+<div class="dropdown-area">
+{{- partialCached "display-dropdown-FEC.html" . -}}
+{{- partialCached "display-dropdown-manufacturer.html" . -}}
+{{- partialCached "display-dropdown-movie.html" . -}}
+{{- partialCached "display-dropdown-year.html" . -}}
+</div>
+<div id="tagsContainer">
+    {{- $listPages := sort .Pages "Params.startDate" "desc" -}}
+    {{- range $listPages -}}
+      <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.startDate -}}" style="display: none;">
+        {{- partial "display-review-box.html" . -}}
+      </div>
+    {{- end -}}
+</div>
+
+{{- partialCached "display-dropdown-script.html" . -}}

@@ -1,0 +1,64 @@
+{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+{{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
+{{- $latestPages := first 30 $sortedPages -}}
+
+<aside data-pagefind-ignore="all">
+    <div class="tri-column">
+        <ul>
+            {{- range $latestPages -}}
+            <li>
+                <a href="{{ .RelPermalink }}">
+                    {{- with .Params.Tags -}}
+                        {{- partial "emojijustemoji.html" . -}}{{- " " -}}
+                    {{- end -}}
+                    {{- with .LinkTitle -}}
+                        {{ . | safeHTML }}
+                    {{- else -}}
+                        {{ .Title | safeHTML }}
+                    {{- end -}}
+                </a>
+                <ul class="updated-time" data-updated="{{- .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" -}}">
+                    <li class="relative-time">loading...</li>
+                </ul>
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
+</aside>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const timeElements = document.querySelectorAll(".updated-time");
+    
+        timeElements.forEach(element => {
+            const updatedTime = element.getAttribute("data-updated");
+            if (!updatedTime) return;
+    
+            const updatedDate = new Date(updatedTime); 
+            if (isNaN(updatedDate.getTime())) {
+                console.error("Invalid date:", updatedTime);
+                return;
+            }
+    
+            const now = new Date();
+            const diffMs = now - updatedDate;
+            const diffMinutes = Math.round(diffMs / (1000 * 60));
+            const diffHours = Math.round(diffMs / (1000 * 60 * 60));
+            const diffDays = Math.round(diffHours / 24);
+    
+            let timeText;
+            if (diffMinutes < 1) {
+                timeText = "Just now";
+            } else if (diffMinutes < 60) {
+                timeText = `${diffMinutes} minutes ago`;
+            } else if (diffHours < 24) {
+                timeText = `${diffHours} hours ago`;
+            } else {
+                timeText = `${diffDays} days ago`;
+            }
+    
+            element.querySelector(".relative-time").textContent = "Updated " + timeText;
+        });
+    });
+    </script>
+    
+    

@@ -1,9 +1,7 @@
 <div class="list-page-block-video">
     <div class="list-page-container">
         <div class="list-video">
-            <a href="{{- .RelPermalink -}}">
-                {{- partial "video.html" .Title -}}
-            </a>
+            {{- partial "video-thumbnail.html" .Title -}}
         </div>
         <div class="list-page-video-content">
             <a href="{{- .RelPermalink -}}">

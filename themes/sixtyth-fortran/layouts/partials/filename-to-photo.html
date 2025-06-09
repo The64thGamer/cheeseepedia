@@ -15,9 +15,9 @@
     <div class="article-photo-image">
       <a href="{{- $page.RelPermalink -}}">
         {{- if or (not (fileExists (printf "static/photos/%s" .))) (eq . "") -}}
-        <img src="/UI/File Not Found.jpg" alt="{{- $page.Title -}}" />
+        <img src="/UI/File Not Found.jpg" alt="{{- $page.Params.description -}}" />
         {{- else -}}
-        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Title -}}" />
+        <img src="{{- printf "/photos/%s" . -}}" alt="{{- $page.Params.description -}}" />
         {{- end -}}
       </a>
     </div>

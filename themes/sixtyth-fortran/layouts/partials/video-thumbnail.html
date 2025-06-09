@@ -1,0 +1,30 @@
+{{- $videoURL := . -}}
+
+{{- if in $videoURL "youtube.com" -}}
+    {{- $videoID := $videoURL | strings.TrimPrefix "https://www.youtube.com/watch?v=" -}}
+    <a href="{{- $videoURL -}}" target="_blank">
+        <img src="https://img.youtube.com/vi/{{- $videoID -}}/mqdefault.jpg" 
+             alt="YouTube Video Thumbnail" >
+    </a>
+
+{{- else if in $videoURL "youtu.be" -}}
+    {{- $videoID := last 1 (split $videoURL "/") | first 1 -}}
+    <a href="{{- $videoURL -}}" target="_blank">
+        <img src="https://img.youtube.com/vi/{{- index $videoID 0 -}}/mqdefault.jpg" 
+             alt="YouTube Video Thumbnail" >
+    </a>
+
+{{- else if in $videoURL "archive.org" -}}
+    {{- $videoID := index (split $videoURL "/") 4 -}}
+    <a href="{{- $videoURL -}}" target="_blank">
+        <img src="https://archive.org/services/img/{{- $videoID -}}" 
+             alt="Archive.org Video Thumbnail" >
+    </a>
+
+{{- else -}}
+{{- $videoID := index (split $videoURL "/") 4 -}}
+<a href="{{- $videoURL -}}" target="_blank">
+    <img src="/UI/File Not Found.jpg"
+         alt="Video Thumbnail" >
+</a>
+{{- end -}}

@@ -7,6 +7,7 @@
     <option value="root-theme-classic">Classic</option>
     <option value="root-theme-showbiz">ShowBiz</option>
     <option value="root-theme-fnaf">FNaF</option>
+    <option value="root-theme-pasqually">Italy</option>
 </select>
 
 <select id="eventThemeSelector">
@@ -105,6 +106,16 @@ const colorSets = {
         "--deep-orange": "#df221c",
         "--brown": "#171515"
     },
+    "root-theme-pasqually": {
+        "--blue": "#6D1A1F",
+        "--aqua": "#009047",
+        "--white": "#d9d7d1",
+        "--deep-white": "#9b6767",
+        "--yellow": "#d9d7d1",
+        "--orange": "#CD2F3A",
+        "--deep-orange": "#009047",
+        "--brown": "#2f1515"
+    },
     "root-theme-fnaf": {
       "--blue": "#141122",
       "--aqua": "#7246EE",
@@ -119,12 +130,36 @@ const colorSets = {
 
 const root = document.documentElement;
 
+const logoMap = {
+    "root-theme-standard": "/UI/CEPLogo.png",
+    "root-theme-dark": "/UI/LogoDark.png",
+    "root-theme-light": "/UI/LogoLight.png",
+    "root-theme-classic": "/UI/LogoClassic.png",
+    "root-theme-showbiz": "/UI/LogoShowBiz.png",
+    "root-theme-fnaf": "/UI/LogoFNaF.png",
+    "root-theme-anniversary": "/UI/LogoAnniversary.png",
+    "root-theme-halloween": "/UI/LogoHalloween.png",
+    "root-theme-pride": "/UI/LogoPride.png",
+    "root-theme-winter": "/UI/LogoWinter.png",
+    "root-theme-pasqually": "/UI/LogoPasqually.png",
+};
+
+function updateLogo(theme) {
+    const logo = document.getElementById("mainLogo");
+    if (logoMap[theme]) {
+        logo.src = logoMap[theme];
+    }
+}
+
+// Update the logo whenever a theme is applied
 function applyTheme(theme) {
     const colors = colorSets[theme];
     for (let variable in colors) {
         root.style.setProperty(variable, colors[variable]);
     }
+    updateLogo(theme);
 }
+
 
 function applyDateBasedTheme() {
     const today = new Date();
