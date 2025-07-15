@@ -144,6 +144,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -254,6 +255,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -327,6 +329,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
@@ -418,6 +421,7 @@ collections:
         options:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
+          - { label: "Circus Pizza", value: "Circus Pizza" }
           - { label: "Disney Parks", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
           - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
