@@ -1,2 +1,8 @@
-Need an introduction  Here's a great starting point for diving deep into our {{< count-pages >}} articles.
+{{- $count := 0 -}}
+{{- range .Site.RegularPages -}}
+  {{- with .RenderString .Content -}}
+    {{- $count = add $count 1 -}}
+  {{- end -}}
+{{- end -}}
+New to the fandom? Here's a few great starting points for diving deep into our {{- $count -}} articles.
 {{- partial "display-page-box.html" (site.GetPage "meta/intro-to-the-rockafire.html") -}}
