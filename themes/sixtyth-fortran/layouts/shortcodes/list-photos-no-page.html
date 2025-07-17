@@ -16,7 +16,7 @@
         {{ $photoFile := .Name }}
         {{/* If the photo name is not in the list of titles, output it */}}
         {{ if not (in $titles $photoFile) }}
-            <li>{{ $photoFile }}</li>
+            <li><a href="{{ relURL "/photos/" }}{{ $photoFile }}" target="_blank">{{ $photoFile }}</a></li>
         {{ end }}
     {{ end }}
   </ul>
