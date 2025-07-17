@@ -1,0 +1,7 @@
+{{- $count := 0 -}}
+{{- range .Site.RegularPages -}}
+  {{- with .RenderString .Content -}}
+    {{- $count = add $count 1 -}}
+  {{- end -}}
+{{- end -}}
+{{- $count -}}
