@@ -74,6 +74,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Transcriptions (List Transcription Article Titles)"
+        name: "transcriptions"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
       - label: "Also Known As"
         name: "alsoKnownAs"
         widget: "list"
