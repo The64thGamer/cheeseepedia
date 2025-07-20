@@ -190,7 +190,7 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcription"]}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcriptions"]}
 
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
