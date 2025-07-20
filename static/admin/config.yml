@@ -74,6 +74,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Transcriptions (List Transcription Article Titles)"
+        name: "transcriptions"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
       - label: "Also Known As"
         name: "alsoKnownAs"
         widget: "list"
@@ -185,7 +190,7 @@ collections:
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcription"]}
+      - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcriptions"]}
 
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
