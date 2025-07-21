@@ -136,6 +136,7 @@ collections:
           - { label: "News Footage", value: "News Footage" }
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
+          - { label: "Restaurants/FECs", value: "Restaurants/FECs" }
           - { label: "Events", value: "Events" }
           - { label: "Social Media and Websites", value: "Social Media and Websites" }
           - { label: "Characters", value: "Characters" }
