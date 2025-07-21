@@ -1,6 +1,6 @@
 <div class="tri-column">
   <ul>
-      {{- range .Site.RegularPages -}}
+      {{- range where .Site.RegularPages "Section" "!=" "photos" -}}
         {{- if not .Params.categories -}}
           <li><a href="{{- .Permalink -}}">{{- .Title -}}</a></li>
         {{- end -}}
