@@ -17,62 +17,19 @@ There may be Variants to the lever but none of them are known for now
 
 All measurements in the chart are official except for the holes in the square piece and in the top metal bar, the width and length of the top bar ,the width of the mouth bar, and the distance from the top bar and the mouth plate. All of those measurements are rough and taken from pics of different measurements. Holes are the same size
 
-Type
-
-Measurements (mm)
-
-A
-
-63.5
-
-B
-
-25.4
-
-C
-
-25.4
-
-D
-
-19.05
-
-E
-
-6.35
-
-F
-
-76.2
-
-G
-
-19.05
-
-H
-
-50.8
-
-I
-
-76.2
-
-J
-
-6.35
-
-K
-
-50.8
-
-L
-
-25.4
-
-M
-
-6.35
-
-N
-
-7.62
+| Type | Measurements (mm) |
+| --- | --- |
+| A | 63.5 |
+| B | 25.4 |
+| C | 25.4 |
+| D | 19.05 |
+| E | 6.35 |
+| F | 76.2 |
+| G | 19.05 |
+| H | 50.8 |
+| I | 76.2 |
+| J | 6.35 |
+| K | 50.8 |
+| L | 25.4 |
+| M | 6.35 |
+| N | 7.62 |
