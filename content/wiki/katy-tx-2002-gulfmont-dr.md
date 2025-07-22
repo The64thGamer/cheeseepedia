@@ -14,7 +14,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Stages
 
-When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}^(1)^ that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate's funding of the Houston locations.
+When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}<sup>(1)</sup> that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate's funding of the Houston locations.
 
 ## History
 
@@ -51,7 +51,7 @@ Katy opened on December 30, 2001 near the growing Katy Mills mall with the major
 
 ## Games
 
-^(2)^
+<sup>(2)</sup>
 
 Game
 

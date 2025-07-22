@@ -80,7 +80,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia:
 
-September 2011 was shot in 5 days according to a behind the scenes video.^(1)^
+September 2011 was shot in 5 days according to a behind the scenes video.<sup>(1)</sup>
 
 This is the final show for the following:
 

@@ -9,8 +9,8 @@ latitudeLongitude = ["34.22206872", "-118.5379601"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***Northridge, CA (8425 Reseda Blvd, Store #451)* was a Chuck E. Cheese's Pizza Time Theatre that opened in September 1981^(1)^ with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which is still open to this day.
-The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its {{< wiki-link "2-Stage" >}} and 'all legacy Chuck E. Cheese nostalgia'^(2)^. The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this^(3)^.**
+***Northridge, CA (8425 Reseda Blvd, Store #451)* was a Chuck E. Cheese's Pizza Time Theatre that opened in September 1981<sup>(1)</sup> with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which is still open to this day.
+The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its {{< wiki-link "2-Stage" >}} and 'all legacy Chuck E. Cheese nostalgia'<sup>(2)</sup>. The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this<sup>(3)</sup>.**
 
 ## Stages
 

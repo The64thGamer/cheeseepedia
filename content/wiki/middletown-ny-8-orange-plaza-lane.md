@@ -10,7 +10,7 @@ latitudeLongitude = ["41.45149762", "-74.37904043"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***8 Orange Plaza Lane* was a *Chuck E. Cheese's* that opened on December 17, 2002 with a {{< wiki-link "Studio C Beta" >}}, and closed on October 22, 2017 due to leasing issues.^(1)(2)^**
+***8 Orange Plaza Lane* was a *Chuck E. Cheese's* that opened on December 17, 2002 with a {{< wiki-link "Studio C Beta" >}}, and closed on October 22, 2017 due to leasing issues.<sup>(1)(2)</sup>**
 
 ## Stages
 

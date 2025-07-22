@@ -12,7 +12,7 @@ citations = ["https://en.wikipedia.org/wiki/1979_oil_crisis"]
 
 **Billy Bob:**
 Howdy folks, I'm Billy Bob. That's three B's, two L's, a I, a Y, and a O. (laughs)
-Its real nice yall could drop in on me today, things gets kinda quiet here at Smitty's Super Service Station sometimes. What with the gas sit-i-ation the way it is n' all.^(1)^ We've had to stop selling gasoline altogether.
+Its real nice yall could drop in on me today, things gets kinda quiet here at Smitty's Super Service Station sometimes. What with the gas sit-i-ation the way it is n' all.<sup>(1)</sup> We've had to stop selling gasoline altogether.
 Once it got past twenty five cent a gallon, I didn't have no more friends what could afford it no-how. But... things'll be alright soon- (worrysome)
 Cause, as you can see, I'm making up a new fangled formula down here on the floor. (excitedly)
 Yeah its made of lots of good stuff and its in this little container and its gets all boiled up n' everything, and it comes out this long tube...

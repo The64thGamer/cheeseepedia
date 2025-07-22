@@ -16,4 +16,4 @@ Santa Klunk On Stage is a small event hosted at two New York ShowBiz Pizza Place
 Two stores are confirmed to have had this event, though it is not confirmed if they had previously had Klunk from {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" "The Amazing Uncle Klunk Traveling Show (Event)" >}}, {{< wiki-link "Santa On Stage Show 1983 (Event)" "Santa On Stage Show 1983" >}}, {{< wiki-link "Santa On Stage Show 1984 (Event)" "Santa On Stage Show 1984" >}}, or {{< wiki-link "Country Klunk (Event)" "Country Klunk (Event)" >}}.
 
 - West Seneca, NY (3525 Seneca St)
-- Amherst, NY (1551 Niagara Falls Blvd)^(0)^
+- Amherst, NY (1551 Niagara Falls Blvd)<sup>(0)</sup>

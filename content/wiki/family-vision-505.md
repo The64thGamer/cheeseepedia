@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","DerekCat"]
 citations = ["[https://youtu.be/dyyf25jJNcQ?t=950](%22https://youtu.be/dyyf25jJNcQ?t=950%22)"]
 pageThumbnailFile = "iGoFqOcKrov0H3017c8g.avif"
 +++
-***Family Vision #505* was part of a collection of monthly {{< wiki-link "Family Vision" >}} Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984. This specific tape played during the month of October 1986.^(1)^**
+***Family Vision #505* was part of a collection of monthly {{< wiki-link "Family Vision" >}} Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984. This specific tape played during the month of October 1986.<sup>(1)</sup>**
 
 ## Video List
 

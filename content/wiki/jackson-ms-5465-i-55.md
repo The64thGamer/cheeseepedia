@@ -19,9 +19,9 @@ In around March 1999, the former Balcony Stage would be demolished, and Studio C
 
 ## History
 
-Besides the opening of the location, very little is known about this location as a Pizza Time Theatre, other than the fact that before 1991 the location would remodel for the first time as part of unifying Pizza Time Theatre and ShowBiz Pizza Place.^(1)(2)^ The location would remodel for the second and final time in early 1999, most likely receiving {{< wiki-link "Phase 2 (1997)" >}} in the process.
+Besides the opening of the location, very little is known about this location as a Pizza Time Theatre, other than the fact that before 1991 the location would remodel for the first time as part of unifying Pizza Time Theatre and ShowBiz Pizza Place.<sup>(1)(2)</sup> The location would remodel for the second and final time in early 1999, most likely receiving {{< wiki-link "Phase 2 (1997)" >}} in the process.
 In the 2000s the store would receive its final games package, {{< wiki-link "Phase 3 (2000)" >}}. This would intergrade the new toddler zone near the Skytubes, which would be made smaller during this package.
-In June 2009 this location would relocate to {{< wiki-link "Jackson, MS (6352 Ridgewood Court Rd)" >}}, with a majority of assets from this location being transferred to the new location. The former space of the Chuck E. Cheese would be bought by a local supermarket and would reopen on December 21, 2010, as 'Oriental Supermarket & Restaurant' and 'Mr. Chen's Authentic Chinese Cooking.'^(3)^ The businesses would keep the general layout of the store however with new décor and fixtures around the store.
+In June 2009 this location would relocate to {{< wiki-link "Jackson, MS (6352 Ridgewood Court Rd)" >}}, with a majority of assets from this location being transferred to the new location. The former space of the Chuck E. Cheese would be bought by a local supermarket and would reopen on December 21, 2010, as 'Oriental Supermarket & Restaurant' and 'Mr. Chen's Authentic Chinese Cooking.'<sup>(3)</sup> The businesses would keep the general layout of the store however with new décor and fixtures around the store.
 Around March 2023, the store's red doors have been replaced with automatic sliding doors and the awning above the entrance has been removed.
 
 ## Arcade Machines

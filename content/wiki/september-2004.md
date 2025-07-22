@@ -16,7 +16,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 
 ## Going On a Diet
 
-A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.^(1)^
+A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<sup>(1)</sup>
 
 ## Show List:
 

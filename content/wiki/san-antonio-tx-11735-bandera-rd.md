@@ -22,12 +22,12 @@ The stage would be removed on April 1, 2024, in favor of the store receiving the
 
 The land the Bandera Road Chuck E. Cheese's would be built on was purchased in October 2001, with the store opening on April 16th, 2002. After opening, the store would remain untouched aside from the game package changing and the original can lights being replaced with fluorescent lights in February/March 2011.
 In the Summer of 2015, the store would receive the 2015 remodel package. This remodel would remove the skytubes and update the stores design to fit with the 'Rockstar' era.
-This location is the manager training location for the San Antonio area.^(1)^
+This location is the manager training location for the San Antonio area.<sup>(1)</sup>
 On April 1, 2024, the store would start its 2.0 Remodel, removing the show and animatronic on the same day.
 
 ### 2016 Car Crash
 
-On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. ^(2)^
+On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. <sup>(2)</sup>
 
 ## Stages
 

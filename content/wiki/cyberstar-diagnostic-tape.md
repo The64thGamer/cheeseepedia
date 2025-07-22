@@ -12,7 +12,7 @@ mediaDuration = "1:21:25"
 showtapeFormats = ["ShowBiz Betamax"]
 +++
 The ***Cyberstar Diagnostic Tape* (AKA ***Cyberstar Character Adjust Tape*) is a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1988.
-One rip of the tape is dated 1986, despite the Cyberstar name not being coined until 1988. It is unclear if this 1986 tape has the 'Cyberstar' name on it, or if the 1988 version was merely a rerelease.^(1)^****
+One rip of the tape is dated 1986, despite the Cyberstar name not being coined until 1988. It is unclear if this 1986 tape has the 'Cyberstar' name on it, or if the 1988 version was merely a rerelease.<sup>(1)</sup>****
 
 ## Show List
 

@@ -9,7 +9,7 @@ endDate = ""
 contributors = ["ShowBizMidwest","CoolerDude","The 64th Gamer","CEC1988"]
 citations = ["[https://www.volocars.com/volofun/history](%22https://www.volocars.com/volofun/history%22)"]
 +++
-The ***Volo Museum* (Also known as the ***Volo Auto Museum*) is a museum located at *27582 Volo Village Rd, Volo, IL*, which opened in 1960 and is still around to this day.^(1)^****
+The ***Volo Museum* (Also known as the ***Volo Auto Museum*) is a museum located at *27582 Volo Village Rd, Volo, IL*, which opened in 1960 and is still around to this day.<sup>(1)</sup>****
 
 ## Stages
 

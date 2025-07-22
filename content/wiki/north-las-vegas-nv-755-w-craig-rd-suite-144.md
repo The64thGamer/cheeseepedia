@@ -17,7 +17,7 @@ This is not to be confused with the {{< wiki-link "North Las Vegas, NV (2520 E L
 
 ### Pre-CEC
 
-Before the store's opening it originally opened as a Big Lots, which closed in 2020 presumably due to relocation.^(1)^ Plans about the store's construction appeared as early as April 2023, with construction beginning in September 2023.
+Before the store's opening it originally opened as a Big Lots, which closed in 2020 presumably due to relocation.<sup>(1)</sup> Plans about the store's construction appeared as early as April 2023, with construction beginning in September 2023.
 
 ### Opening
 

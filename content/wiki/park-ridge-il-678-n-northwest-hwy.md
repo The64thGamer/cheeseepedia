@@ -17,7 +17,7 @@ Park Ridge, like all other ShowBiz locations, opened with The Rock-afire Explosi
 
 ### Movie
 
-Park Ridge's interior and Rock-afire Explosion show are shown in the 1987 Christian movie, *Gold Through The Fire*.^(1)^The ShowBiz part of the movie would've had to have been filmed during or before 1985, as Park Ridge closed in 1985.
+Park Ridge's interior and Rock-afire Explosion show are shown in the 1987 Christian movie, *Gold Through The Fire*.<sup>(1)</sup>The ShowBiz part of the movie would've had to have been filmed during or before 1985, as Park Ridge closed in 1985.
 The exterior shown in the film is not Park Ridge's exterior, but rather {{< wiki-link "Arlington Heights, IL (955 W Dundee Rd)" >}}
 
 ### Post Closure

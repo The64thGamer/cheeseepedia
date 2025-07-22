@@ -14,11 +14,11 @@ This Pizza Time Theatre was under the same franchise as the China locations.**
 
 ## Stage
 
-The location opened with the standard Balcony Stage. After closure, the show was sent to the franchisee's separate entertainment center.^(1)^ The location also featured {{< wiki-link "The King King Kat (Lounge)" >}}. ^(2)^
+The location opened with the standard Balcony Stage. After closure, the show was sent to the franchisee's separate entertainment center.<sup>(1)</sup> The location also featured {{< wiki-link "The King King Kat (Lounge)" >}}. <sup>(2)</sup>
 
 ## History
 
-This location opened on December 15, 1983 in the Parkway Parade Shopping Mall.^(3)^ There is little documentation on this location, other than prints marking its opening or advertisements. The location closed in the mid 80s for unknown reasons, might be due to being an underperforming store or general parking problems. The location was later split up into multiple businesses.
+This location opened on December 15, 1983 in the Parkway Parade Shopping Mall.<sup>(3)</sup> There is little documentation on this location, other than prints marking its opening or advertisements. The location closed in the mid 80s for unknown reasons, might be due to being an underperforming store or general parking problems. The location was later split up into multiple businesses.
 A little known fact about the location is that it also featured {{< wiki-link "Cheese E Street" >}}.
 
 ## Animatronics

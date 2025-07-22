@@ -14,4 +14,4 @@ latitudeLongitude = ["38.44121247","-122.7104046"]
 
 ## History
 
-The location had a unique *Sandwich Fixins Bar* at its location.^(1)^
+The location had a unique *Sandwich Fixins Bar* at its location.<sup>(1)</sup>

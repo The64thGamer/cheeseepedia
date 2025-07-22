@@ -15,11 +15,11 @@ It originally opened as a ShowBiz Pizza Place and was located in the at the corn
 ## Stages
 
 When this location first opened, it featured {{< wiki-link "Classic Stage" >}}, receiving {{< wiki-link "Concept Unification" >}} sometime around 1991/1992.
-Around 2009-2010, when the store remodeled again, the stage was replaced with a Studio C Beta stage featuring a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. As the store's closure date neared in August 2018, the animatronic bot would lose his teeth,^(1)^ remaining up to the closure of the store.
+Around 2009-2010, when the store remodeled again, the stage was replaced with a Studio C Beta stage featuring a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. As the store's closure date neared in August 2018, the animatronic bot would lose his teeth,<sup>(1)</sup> remaining up to the closure of the store.
 
 ## History
 
-The Northgate Shopping Center was built in 1979^(2)^ at the corner of FM 1960 and Kuykendahl Road as an addition to a department store next to it.^(3)^ ShowBiz Pizza Place would presumably begin construction sometime after the beginning of 1981
+The Northgate Shopping Center was built in 1979<sup>(2)</sup> at the corner of FM 1960 and Kuykendahl Road as an addition to a department store next to it.<sup>(3)</sup> ShowBiz Pizza Place would presumably begin construction sometime after the beginning of 1981
 
 ### ShowBiz Pizza
 

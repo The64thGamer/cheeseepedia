@@ -11,37 +11,37 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
 ***12293 E Iliff Ave* was a *ShowBiz Pizza Place* which opened on January 28, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed on April 20, 1994, as a *Chuck E. Cheese's Pizza* with a {{< wiki-link "Concept Unification Stage" >}}.
-This location is widely recognized as the location of the 1993 Aurora, Colorado shooting^(1)^, which ultimately led to the location's closure in 1994.
+This location is widely recognized as the location of the 1993 Aurora, Colorado shooting<sup>(1)</sup>, which ultimately led to the location's closure in 1994.
 The store itself was located in the Iliff Commons Shopping Center. (When it first opened, the shopping plaza it was in was called the London Square Shopping Center.)**
 
 ## Stages
 
-The location opened with a {{< wiki-link "Classic Stage" >}} show; then received the ShowBiz Pizza Campground upgrade in the late '80s.^(2)^
+The location opened with a {{< wiki-link "Classic Stage" >}} show; then received the ShowBiz Pizza Campground upgrade in the late '80s.<sup>(2)</sup>
 The stage show was converted into the {{< wiki-link "Concept Unification Stage" >}} between 1991 and 1992 and remained intact until the store's closure.
 
 ## History
 
 Aurora opened on January 28, 1981, as the 10th ShowBiz Pizza Place location and the first location in Colorado. The store opened with the Beta Rockafire when it first opened. Some after, the Beta cosmetics were replaced by the newer cosmetics, but the Beta props stayed behind. In either 1982 or 1983, the Beta props and cosmetics were replaced by the default cosmetics and the props were changed to reflect it. The store would remain like this until it received the {{< wiki-link "SPT 1980's Remodel Program" >}}. This was also around this time, (sometime in either 1989 or 1990.) Billy Bob's stage was replaced with the ShowBiz Pizza Campground stage and added windows to the Show Room. Also during this remodel, the store would recieve PTT art, the Ball-Crawl, new games and rides, and received a 1983 Chuck E walkaround. (Which would later be replaced with a 1991 Tuxedo Chuck walkaround.)
-Between 1991 and 1992, the location underwent {{< wiki-link "Concept Unification" >}}. Sometime in either late 1992 or early 1993, the store would get the newer Tuxedo Chuck walkaround along with the '92 Helen, Jasper, and Pasqually walkarounds.^(3)^ (It's currently unknown if they ever got a Munch walkaround.)
+Between 1991 and 1992, the location underwent {{< wiki-link "Concept Unification" >}}. Sometime in either late 1992 or early 1993, the store would get the newer Tuxedo Chuck walkaround along with the '92 Helen, Jasper, and Pasqually walkarounds.<sup>(3)</sup> (It's currently unknown if they ever got a Munch walkaround.)
 
 ### 1993 Aurora Shooting
 
-On December 14, 1993, disgruntled kitchen worker Nathan Dunlap shot and killed four people and injured one other after being fired from the location days before. Immediately following the shooting, ShowBiz Pizza Time offered assistance to the families of the victims, who were all employees, while also announcing the location would close indefinitely ^(4)^.
+On December 14, 1993, disgruntled kitchen worker Nathan Dunlap shot and killed four people and injured one other after being fired from the location days before. Immediately following the shooting, ShowBiz Pizza Time offered assistance to the families of the victims, who were all employees, while also announcing the location would close indefinitely <sup>(4)</sup>.
 
 ### 1994 Reopening Plans & Closure
 
-On March 4, 1994, ShowBiz Pizza Time announced their intent to reopen the Aurora location in April 1994. The reopening would follow a full remodel of the location ^(5)(6)^.
+On March 4, 1994, ShowBiz Pizza Time announced their intent to reopen the Aurora location in April 1994. The reopening would follow a full remodel of the location <sup>(5)(6)</sup>.
 
 > 'We have gone through intense soul-searching because we are committed to the greater Denver community and want to do what's right,' said ShowBiz Chairman and Chief Executive Officer Richard M. Frank.
 > 'In the end, we were taken by the overwhelming number of calls and letters we received from Aurora families asking us to reopen.'
 
-The announcement was met with mixed perception from the immediate families of the victims, with some agreeing the restaurant should reopen and others dismayed as to how the reopening plan was treated as a 'media event' ^(5)^.
-The company ultimately did not reopen the location as relatives of the victims objected to it; a family resource center was proposed by parents in Aurora hoping that ShowBiz would transfer the remaining two years on its lease ^(8)^.
+The announcement was met with mixed perception from the immediate families of the victims, with some agreeing the restaurant should reopen and others dismayed as to how the reopening plan was treated as a 'media event' <sup>(5)</sup>.
+The company ultimately did not reopen the location as relatives of the victims objected to it; a family resource center was proposed by parents in Aurora hoping that ShowBiz would transfer the remaining two years on its lease <sup>(8)</sup>.
 
 ### Current Day
 
 The location was eventually split into multiple retail outlets, including Panera Bread.
-Nathan Dunlap was found guilty of the murders and received a death sentence. Colorado abolished the death penalty in 2020, so Dunlap now faces life to prison without parole ^(9)^.
+Nathan Dunlap was found guilty of the murders and received a death sentence. Colorado abolished the death penalty in 2020, so Dunlap now faces life to prison without parole <sup>(9)</sup>.
 
 ## Games
 

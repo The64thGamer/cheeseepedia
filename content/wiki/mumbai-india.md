@@ -11,7 +11,7 @@ latitudeLongitude = ["18.8928676", "72.7758729"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Mumbai, India (**R City Mall, 1st Floor, Lal Bahadur Shastri Rd, next to Pantaloons (R City Mall, Mumbai, Maharastra))*** was a Chuck E. Cheese that opened on December 20, 2019, with a Dance Floor, and closed on July 25th, 2023.^(1)^ On Instagram, DMs have suggested that there have been plans to relocate Chuck E. Cheese to another store.
+***Mumbai, India (**R City Mall, 1st Floor, Lal Bahadur Shastri Rd, next to Pantaloons (R City Mall, Mumbai, Maharastra))*** was a Chuck E. Cheese that opened on December 20, 2019, with a Dance Floor, and closed on July 25th, 2023.<sup>(1)</sup> On Instagram, DMs have suggested that there have been plans to relocate Chuck E. Cheese to another store.
 This location was the very first location in the country of India and was also the last store to open in 2019, and the 2010's decade.**
 
 ## History

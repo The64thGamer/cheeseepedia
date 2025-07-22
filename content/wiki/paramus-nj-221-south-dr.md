@@ -17,7 +17,7 @@ The store would be relocated to {{< wiki-link "Paramus, NJ (275 Route 4 West)" >
 
 ### Pre CEC (1958-1993)
 
-The Plaza where the Paramus (221 South Dr) location was located was built sometime in 1958^(1)^. It is unknown how many tenants occupied the building, but the last tenant was closed by the end of 1992 with construction starting sometime afterwards.
+The Plaza where the Paramus (221 South Dr) location was located was built sometime in 1958<sup>(1)</sup>. It is unknown how many tenants occupied the building, but the last tenant was closed by the end of 1992 with construction starting sometime afterwards.
 
 ### CEC (October 1993-November 2010)
 

@@ -13,9 +13,9 @@ The ***Retro Chuck E. Cheese (186) Funko POP!* is a ***POP! Ad Icons* Funko POP!
 
 ## Production
 
-Watermarked renders of the figure would be leaked by *popnewws_* on Instagram on April 25, 2023^(1)^, ahead of the official unveiling. Later that day *dis.trackers* on Instagram would leak the full renders in high resolution after acquiring it from *popnewws_*.^(2)^
-Preorders would then appear on Hot Topic^(3)^, Amazon^(4)^, and Entertainment Earth^(5)(6)^, confirming the release window and price. Hot Topic would get the earliest release date with June 6, 2023, while Amazon would be marked for July 12th. Entertainment Earth would just list their release as 'July'.
-The item would stop being sold on the Funko website sometime in late 2023 to early 2024. The earliest archive of the sold-out notice would be on May 13th, 2024.^(7)^
+Watermarked renders of the figure would be leaked by *popnewws_* on Instagram on April 25, 2023<sup>(1)</sup>, ahead of the official unveiling. Later that day *dis.trackers* on Instagram would leak the full renders in high resolution after acquiring it from *popnewws_*.<sup>(2)</sup>
+Preorders would then appear on Hot Topic<sup>(3)</sup>, Amazon<sup>(4)</sup>, and Entertainment Earth<sup>(5)(6)</sup>, confirming the release window and price. Hot Topic would get the earliest release date with June 6, 2023, while Amazon would be marked for July 12th. Entertainment Earth would just list their release as 'July'.
+The item would stop being sold on the Funko website sometime in late 2023 to early 2024. The earliest archive of the sold-out notice would be on May 13th, 2024.<sup>(7)</sup>
 
 ## Design
 

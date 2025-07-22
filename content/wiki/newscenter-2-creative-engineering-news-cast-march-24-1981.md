@@ -10,7 +10,7 @@ tags = ["News Footage"]
 categories = ["Creative Engineering"]
 +++
 The ***NewsCenter 2 Creative Engineering News Cast* is a March 24, 1981 news segment for *NewsCenter 2* discussing the at the time success of Creative Engineering, alongside the creation of its animatronic characters for ShowBiz Pizza Place.
-The {{< wiki-link "Altamonte Springs, FL (541 W Hwy 436)" >}} ShowBiz Pizza is highlighted and shown during the footage.^(1)^ A similar newscast would appear on NewsWatch 6 'Someplace Different' (1981).**
+The {{< wiki-link "Altamonte Springs, FL (541 W Hwy 436)" >}} ShowBiz Pizza is highlighted and shown during the footage.<sup>(1)</sup> A similar newscast would appear on NewsWatch 6 'Someplace Different' (1981).**
 
 ## Transcript
 

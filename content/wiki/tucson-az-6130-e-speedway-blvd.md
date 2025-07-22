@@ -23,7 +23,7 @@ When this store opened in 1995, they opened with a {{< wiki-link "1-Stage" >}}. 
 
 ## History
 
-Before the store's development began, the store was a movie theater called Cineworld 4 Theatre which opened on May 5th, 1971, and was closed around October 1994^(1)^ with the conversion to CEC starting not long after its closure.
+Before the store's development began, the store was a movie theater called Cineworld 4 Theatre which opened on May 5th, 1971, and was closed around October 1994<sup>(1)</sup> with the conversion to CEC starting not long after its closure.
 Tucson opened in April 1995 (After an almost 8-year hiatus from the city) with a {{< wiki-link "1-Stage" >}} with a turntable. This was Arizona's only 1-Stage. In around the Mid 2000's the store would receive an exterior repaint and a minor remodel. It would remain this way until the store's closure in October 2014 (After almost 20 years of operation, outlasting both of the city's Pizza Time Theatre stores) when it relocated across the street to {{< wiki-link "Tucson, AZ (6125 E Speedway Blvd)" >}} with a {{< wiki-link "Circles of Light" >}} which still operates to this day, albeit without the bot.
 After the store closed and moved, the location would remain vacant for a while until a gym called 'Tucson Strength' took over which interestingly kept the exterior intact except for a repaint of the building and changes to the store's interior.
 [1995](https://www.showbizpizza.com/photos/cec/az_tucson/index.html)

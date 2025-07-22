@@ -9,7 +9,7 @@ contributors = ["Cheeseclassic","PizzaEntertainmentFanX"]
 citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf%22)","https://youtu.be/87BBFqL0PUY?si=fKxYr-nsQ7PX4rCO"]
 latitudeLongitude = ["39.07384167","-77.13856733"]
 +++
-***855 Rockville Pike* was a *{{< wiki-link "Pizza Time Theatre" >}}* that opened in June 1981^(1)^ with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed on an unknown date in 1985. This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Maryland.
+***855 Rockville Pike* was a *{{< wiki-link "Pizza Time Theatre" >}}* that opened in June 1981<sup>(1)</sup> with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed on an unknown date in 1985. This location was the first Pizza Time Theatre/Chuck E. Cheese to open in Maryland.
 This location shouldn't be confused with the {{< wiki-link "Rockville, MD (5270 Randolph Rd)" >}}
 location, which opened on August 20, 2002, with the {{< wiki-link "Studio C Beta" >}}, and closed on October 29, 2023.**
 

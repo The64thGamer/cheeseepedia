@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07
 pageThumbnailFile = "z9NTOS83hJ21AlguEpQw.avif"
 latitudeLongitude = ["40.56466482","-105.0790823"]
 +++
-***105 W Prospect Rd, Store #865 ^(1)^* was a *ShowBiz Pizza Place* that opened on February 9, 1982, with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* on April 13th, 2020, with a {{< wiki-link "Concept Unification Stage" >}}.**
+***105 W Prospect Rd, Store #865 <sup>(1)</sup>* was a *ShowBiz Pizza Place* that opened on February 9, 1982, with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* on April 13th, 2020, with a {{< wiki-link "Concept Unification Stage" >}}.**
 
 ## History
 
@@ -18,7 +18,7 @@ Fort Collins opened with the {{< wiki-link "Classic Stage" >}} as a ShowBiz Pizz
 
 ### Eye Injury Incident
 
-In 2005, a child who was looking for an older sibling, ran into a wall and injured his eye. The staff called 911 right away. While waiting for them to arrive, the manager gave the child a free Chuck E. plush. After the paramedics left, the family stayed to make sure he was okay. When they ran out of tokens, the manager gave them a handful of free tokens.^(1)^
+In 2005, a child who was looking for an older sibling, ran into a wall and injured his eye. The staff called 911 right away. While waiting for them to arrive, the manager gave the child a free Chuck E. plush. After the paramedics left, the family stayed to make sure he was okay. When they ran out of tokens, the manager gave them a handful of free tokens.<sup>(1)</sup>
 
 ### Closure
 

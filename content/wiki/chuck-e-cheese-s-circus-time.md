@@ -19,7 +19,7 @@ The marquee was completely replaced with a brand-new Chuck E. variant, displayin
 
 ## Audio Tape
 
-The cabinet would use the length of each song to determine the length of each play of the game. Between each song on the tape, a conductive splice was placed. This would normally be used to change the track in an 8-track player, but the cabinet would use this to shut itself off. ^(1)^
+The cabinet would use the length of each song to determine the length of each play of the game. Between each song on the tape, a conductive splice was placed. This would normally be used to change the track in an 8-track player, but the cabinet would use this to shut itself off. <sup>(1)</sup>
 The Bimbo cabinet used a tape that was 9 minutes and 35 seconds long, consisting of 8 different songs. While most likely the Chuck variant used a custom tape like the Luigi variant, it is unclear the details on it. The tape's length, songs, dialogue, and voice actor for Chuck is unknown.
 
 ## Owners / Locations

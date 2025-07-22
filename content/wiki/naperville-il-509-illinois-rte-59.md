@@ -15,7 +15,7 @@ pageThumbnailFile = "NpoggWRXqjhrmEtZ4nXs.avif"
 
 The space the Chuck E. Cheese was in was originally a Venture store building, the Venture store closed in July 1998, this later became Big Kmart #9361, which opened on October 29, 1998. It closed in November 2000, the space was abandoned for a while according to February 2002 imagery.
 This Chuck E. Cheese occupies either 1/3 of the former Big Kmart or a former Colonel Day's.
-Naperville opened its doors on March 9th, 2015, with the 2015 Remodel and Circles of Light stage. Some games were borrowed from the old Naperville location. Sometime in 2019, the physical menu board was switched out for the digital menu boards.^(1)^ Currently, as of August 2024, the location still has the 2015 remodel and Circles of Lights stage and has kept the same look since opening.
+Naperville opened its doors on March 9th, 2015, with the 2015 Remodel and Circles of Light stage. Some games were borrowed from the old Naperville location. Sometime in 2019, the physical menu board was switched out for the digital menu boards.<sup>(1)</sup> Currently, as of August 2024, the location still has the 2015 remodel and Circles of Lights stage and has kept the same look since opening.
 
 ## Stages
 

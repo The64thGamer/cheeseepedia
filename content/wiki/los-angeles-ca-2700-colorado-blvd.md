@@ -17,4 +17,4 @@ categories = ["Chuck E. Cheese's"]
 
 ## History
 
-Colorado Blvd (Eagle Rock) was planned in August 2004 and was approved by the state to sell alcohol in September 2005.^(1)^ It opened in 2006 with a {{< wiki-link "Studio C Beta" >}} and the Phase 4 remodel, which are still there in July 2025.
+Colorado Blvd (Eagle Rock) was planned in August 2004 and was approved by the state to sell alcohol in September 2005.<sup>(1)</sup> It opened in 2006 with a {{< wiki-link "Studio C Beta" >}} and the Phase 4 remodel, which are still there in July 2025.

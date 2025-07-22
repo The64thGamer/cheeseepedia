@@ -8,7 +8,7 @@ endDate = ""
 contributors = ["Nostalgia Cow","Midwestretail","ChuckEPediaIsTheBest!","CEC Tinley","Caydenpedia","Stripes","The 64th Gamer","Saan1ty","YBP123","Documentor"]
 citations = ["[https://www.youtube.com/watch?v=OaBv_EGz7_c](%22https://www.youtube.com/watch?v=OaBv_EGz7_c%22)"]
 +++
-The ***Concept Unification Prototype Stage* was a test stage prior to the {{< wiki-link "Concept Unification Stage" >}} that was installed at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in Irving, Texas and at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} sometime between late 1989 and early 1990.^(1)^**
+The ***Concept Unification Prototype Stage* was a test stage prior to the {{< wiki-link "Concept Unification Stage" >}} that was installed at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in Irving, Texas and at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} sometime between late 1989 and early 1990.<sup>(1)</sup>**
 
 ## Stage Features
 

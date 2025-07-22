@@ -13,7 +13,7 @@ categories = ["Creative Engineering"]
 
 ## History
 
-Dracula was created in 1976 for Castle Dracula in Wildwood, New Jersey, but he was destroyed in a fire on January 16th, 2002. Even before the fire, the animatronic was in disrepair. ^(1)^
+Dracula was created in 1976 for Castle Dracula in Wildwood, New Jersey, but he was destroyed in a fire on January 16th, 2002. Even before the fire, the animatronic was in disrepair. <sup>(1)</sup>
 
 ## Design
 
@@ -21,7 +21,7 @@ This animatronic has a stark resemblances to the Bela Lugosi Dracula from Univer
 
 ## Movements
 
-## The animatronic appeared to have 6 movements; he was also on a metal track that transported him outside. ^(2)^
+## The animatronic appeared to have 6 movements; he was also on a metal track that transported him outside. <sup>(2)</sup>
 
   Movement
   -----------------

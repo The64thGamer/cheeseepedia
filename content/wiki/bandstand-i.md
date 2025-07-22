@@ -12,7 +12,7 @@ alsoKnownAs = ["Bandstand 1"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-***Bandstand 1* is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show released in March of 1983^(1)^, and lasted at least past August of 1984.^(2)^**
+***Bandstand 1* is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show released in March of 1983<sup>(1)</sup>, and lasted at least past August of 1984.<sup>(2)</sup>**
 
 ## Segments:
 

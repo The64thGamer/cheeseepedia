@@ -27,10 +27,10 @@ While very obscure, the Small-Town Studio C Prototype concept (the no animatroni
 
 ### Nomenclature
 
-Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.^(1)^ In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'.
-Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.^(2)^ This AV diagram is most definitely depicting 'Studio C Cappa'.
-This iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.^(3)^
-Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, in passing reference, referred to this show as the Bluescreen; the {{< wiki-link "Studio C Beta Prototype" >}} were identified as 'Small Town Studio C'.^(3)^
+Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.<sup>(1)</sup> In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'.
+Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.<sup>(2)</sup> This AV diagram is most definitely depicting 'Studio C Cappa'.
+This iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.<sup>(3)</sup>
+Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, in passing reference, referred to this show as the Bluescreen; the {{< wiki-link "Studio C Beta Prototype" >}} were identified as 'Small Town Studio C'.<sup>(3)</sup>
 
 ## Design
 

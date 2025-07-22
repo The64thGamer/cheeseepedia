@@ -94,4 +94,4 @@ This show featured 4 segments with 8 songs.**
 
 ## Trivia:
 
-The footage from 'Don't Hurry to Worry' is originally from the {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}} with the footage being re-edited to sync better up with the new audio recorded. ^(1)^
+The footage from 'Don't Hurry to Worry' is originally from the {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}} with the footage being re-edited to sync better up with the new audio recorded. <sup>(1)</sup>

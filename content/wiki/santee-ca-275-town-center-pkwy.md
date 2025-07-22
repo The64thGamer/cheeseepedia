@@ -20,7 +20,7 @@ Before development on the store started, the space was a Hometown Buffet which p
 
 ### CEC 2023-Present
 
-In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website for the store, which around the same month, an article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set to Open in San Diego' would release, discussing about the store and mentioning that the store would open as early as Summer 2023.^(1)^
+In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website for the store, which around the same month, an article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set to Open in San Diego' would release, discussing about the store and mentioning that the store would open as early as Summer 2023.<sup>(1)</sup>
 By June 2023, the store would begin its conversion process to a Chuck E. Cheese.
 On September 18th, 2023, the store had its soft opening. The store had its Grand Opening on October 12th, 2023.
 

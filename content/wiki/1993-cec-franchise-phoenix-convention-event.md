@@ -14,5 +14,5 @@ The ***1993 CEC Franchise Phoenix Convention* was an awards event held in Scotts
 
 ## History
 
-The event would be held at the *Phoenician Resort* (Scottsdale, AZ, 6000 E Camelback Rd).^(1)^
-The convention would host a [industrial musical](https://en.wikipedia.org/wiki/Industrial_musical), which featured an exclusive song produced by Scott Wilson for the event, being 'Escapade' sung by Helen Henny.^(2)^
+The event would be held at the *Phoenician Resort* (Scottsdale, AZ, 6000 E Camelback Rd).<sup>(1)</sup>
+The convention would host a [industrial musical](https://en.wikipedia.org/wiki/Industrial_musical), which featured an exclusive song produced by Scott Wilson for the event, being 'Escapade' sung by Helen Henny.<sup>(2)</sup>

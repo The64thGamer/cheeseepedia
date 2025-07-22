@@ -18,7 +18,7 @@ The right side of the van featured a small display of caged plush animals behind
 
 ## eBay Listing
 
-The only listing of this item was put on Craigslist in the first week of 2022, in which it was then relisted on eBay by *cointechtexas*^(1)^ on January 6, 2022.^(2)^ It was listed for $695 as *"used and working. Fair to poor condition."* Only local pickup from *Grand Prairie, Texas* was provided. The van originally came from *Interskate Roller Rink* in *Lewisville, Texas*.
+The only listing of this item was put on Craigslist in the first week of 2022, in which it was then relisted on eBay by *cointechtexas*<sup>(1)</sup> on January 6, 2022.<sup>(2)</sup> It was listed for $695 as *"used and working. Fair to poor condition."* Only local pickup from *Grand Prairie, Texas* was provided. The van originally came from *Interskate Roller Rink* in *Lewisville, Texas*.
 The description read:
 This is a used Chuck E Cheese's Circus Van Coin Operated Kiddie Kiddy Ride. It works but has some condition issues. The decals are pealing, and the head light plastics are broke. There are small chips in the fiberglass and the paint is not perfect. On the side used to be jail bars making an animal cage that had either circus animals or maybe other members from the CEC showbiz showtime pizza time players Band. Could be restored?  Located in Grand Prairie Texas 75050 for pick up from a commercial easy load address. I will assist with shipping, but you book, you pay, and you insure at your risk.
 
@@ -27,5 +27,5 @@ This is a used Chuck E Cheese's Circus Van Coin Operated Kiddie Kiddy Ride. It w
   Location / Owner                              Address                                                                  Condition       Notes
   --------------------------------------------- ------------------------------------------------------------------------ --------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------
   cointechtexas                                                                                                          Working, Poor   Last seen being sold on eBay.
-  Unknown CEC Location^(3)^                     ???                                                                      Working         Holds plushes from the 90's inside
-  Jeddah, (Prince Mohammed) Saudi Arabia^(4)^   Prince Mohammed Bin Abdulaziz St, Al-Rehab, Jeddah 23345, Saudi Arabia   Working         Holds PTT Chuck, Munch, and Jasper plushies inside. Originally from {{< wiki-link "Jeddah (Corniche Road), Saudi Arabia" >}}. Only known one internationally.
+  Unknown CEC Location<sup>(3)</sup>                     ???                                                                      Working         Holds plushes from the 90's inside
+  Jeddah, (Prince Mohammed) Saudi Arabia<sup>(4)</sup>   Prince Mohammed Bin Abdulaziz St, Al-Rehab, Jeddah 23345, Saudi Arabia   Working         Holds PTT Chuck, Munch, and Jasper plushies inside. Originally from {{< wiki-link "Jeddah (Corniche Road), Saudi Arabia" >}}. Only known one internationally.

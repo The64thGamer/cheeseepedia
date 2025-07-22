@@ -17,8 +17,8 @@ This show was eventually modified and re-edited for MMBB stores with the {{< wik
 
 ## DVCAM Footage
 
-The first full footage of the show would be provided by Brian Hagan on December 21, 2021.^(1)^ This was through a DVCAM recording of the show video spliced with recordings of the {{< wiki-link "Studio C" >}} stage performing the showtape. This recording would additionally be AI upscaled.
-The footage would be copyright-striked minutes after upload, but was able to be downloaded before being pulled. The footage would be reuploaded multiple times with cut down segments, but improved video clarity.^(2)^
+The first full footage of the show would be provided by Brian Hagan on December 21, 2021.<sup>(1)</sup> This was through a DVCAM recording of the show video spliced with recordings of the {{< wiki-link "Studio C" >}} stage performing the showtape. This recording would additionally be AI upscaled.
+The footage would be copyright-striked minutes after upload, but was able to be downloaded before being pulled. The footage would be reuploaded multiple times with cut down segments, but improved video clarity.<sup>(2)</sup>
 
 ## Show List:
 

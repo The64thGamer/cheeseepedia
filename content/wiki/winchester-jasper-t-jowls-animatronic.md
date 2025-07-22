@@ -25,7 +25,7 @@ The Winchester Jasper Bot was created by Harold Goldbrandsen of Fantasy Forest i
 
 #### San Jose, California (370 South Winchester Boulevard)
 
-In May 1977, The Bot was installed at the Right dining area wall at Winchester^(1)(2)^. The bot was programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} & later, the {{< wiki-link "Helen Henny Showtape" >}}. The bot was later programmed to the {{< wiki-link "Madame Oink I" >}} & {{< wiki-link "Foxy Colleen I" >}} Showtapes during 1978.
+In May 1977, The Bot was installed at the Right dining area wall at Winchester<sup>(1)(2)</sup>. The bot was programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} & later, the {{< wiki-link "Helen Henny Showtape" >}}. The bot was later programmed to the {{< wiki-link "Madame Oink I" >}} & {{< wiki-link "Foxy Colleen I" >}} Showtapes during 1978.
 
 #### Corporate Move
 
@@ -50,7 +50,7 @@ The bot had a Red & white patterned Undershirt, Light Blue overalls, A Blue neck
 
 #### SPT outfit
 
-During the bots time at the SPT HQ, it had a Blue & White stripped shirt, A black neck collar, The same or possibly different overalls, & a blue stripe on their hat.^(3)^
+During the bots time at the SPT HQ, it had a Blue & White stripped shirt, A black neck collar, The same or possibly different overalls, & a blue stripe on their hat.<sup>(3)</sup>
 
 ### Accessories
 

@@ -23,7 +23,7 @@ A few pieces of software were used in tandem for all the processes related to cr
 
 ## Version History
 
-Info on the versions is unclear, with the initial 1.0 version seen in 1991 being the only confirmation of a version number. *Brian Hagan* by his time working there mentions none of the menus for the Cabaret characters, suspecting some sort of major version change by 1996. The software would be updated once Studio C was made, as it is known to be programmed on APS. Finally, as confirmed by *Donovan Marcelle*, the last known update of APS was for the {{< wiki-link "Friday Night Neon" >}} show, in which David Philipsen flew in to update the software for the unique day/night shows.^(1)^ This implies a previous update of the software for the {{< wiki-link "January 2010 Show" >}}, as that show also included a similar day/night system.
+Info on the versions is unclear, with the initial 1.0 version seen in 1991 being the only confirmation of a version number. *Brian Hagan* by his time working there mentions none of the menus for the Cabaret characters, suspecting some sort of major version change by 1996. The software would be updated once Studio C was made, as it is known to be programmed on APS. Finally, as confirmed by *Donovan Marcelle*, the last known update of APS was for the {{< wiki-link "Friday Night Neon" >}} show, in which David Philipsen flew in to update the software for the unique day/night shows.<sup>(1)</sup> This implies a previous update of the software for the {{< wiki-link "January 2010 Show" >}}, as that show also included a similar day/night system.
 This makes the potential updates:
 
 - v1.0 - Initial release (Around September 1990)
@@ -48,7 +48,7 @@ At some point, CEC Road Stage programming was possibly added to the list, which 
 
 The *ShowBiz Pizza Time Animation Program (SPTAP)* or *ShowBiz Pizza Time Animation Programming System (SPTAPS)* was the main software used for creating showtape programs. It was used for assigning bits onto keys of the user's keyboard, along with saving and loading showtapes. After setting up a show and bits, it would be used for live programming, allowing the user to move animatronics in real time by connecting the software to their control system.
 The initial menu had multiple tabs labeled *File, Assign, Editor,* and an unknown tab that began with 'Op'. *File* would be used for opening *.aps* files, along with saving them. *Editor* was presumably for adjusting and deleting pieces of a show, along with possibly linking to the *Synchronization Program*. The *Assign* menu would show a dropdown menu. The first button being *Buttons,* which would be a list of files that could assign specific bits to buttons on a physical controller. The maximum bits assignable inside the file was 8. This could be configured and saved as a ***.asg (assign)* file using the third option in the dropdown. Clearing the current assign, and loading *.asg* files could also be done.
-In the 1991 CEC Entertainment & Support Dept Promo^(2)^, a selection of *.asg* files can be seen on a computer. These are:**
+In the 1991 CEC Entertainment & Support Dept Promo<sup>(2)</sup>, a selection of *.asg* files can be seen on a computer. These are:**
 
   -------------- -------------- --------
   CAMERA.ASG     CECARMS.ASG    C-S(?)

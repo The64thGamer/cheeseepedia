@@ -15,7 +15,7 @@ This show is known for being recalled due to one of its intermissions.**
 
 ## No Ads Removal
 
-The 'Commercial Free Christmas' intermission included a 1-800 phone number. There was concern over if the number was real during production^(1)^, but the intermission was completed and included on the showtapes shipped to stores. Once stores received the show, Brian Hagan received a call from a tech that the number led to an 'adult' hotline. For Studio C locations, the intermission was removed quickly as those locations could be remotely accessed. For Existing Stage stores, new tapes had to be made and shipped to stores. The tapes were made and shipped in 24 hours, compared to the two weeks it would usually take around that time. Then, all stores were called and ordered to send the original tapes back.
+The 'Commercial Free Christmas' intermission included a 1-800 phone number. There was concern over if the number was real during production<sup>(1)</sup>, but the intermission was completed and included on the showtapes shipped to stores. Once stores received the show, Brian Hagan received a call from a tech that the number led to an 'adult' hotline. For Studio C locations, the intermission was removed quickly as those locations could be remotely accessed. For Existing Stage stores, new tapes had to be made and shipped to stores. The tapes were made and shipped in 24 hours, compared to the two weeks it would usually take around that time. Then, all stores were called and ordered to send the original tapes back.
 
 ## Existing Show List:
 

@@ -10,4 +10,4 @@ citations = ["https://archive.org/details/disneytouchdisne00grov/page/160/mode/2
 contributors = ["The 64th Gamer"]
 latitudeLongitude = ["34.197440","-118.341490"]
 +++
-***Jim Henson's Creature Shop's Burbank location* is the third Jim Henson's Creature Shop to open, beginning around 1989-1990, and is still open to this day.^(1)(2)^ The location focuses on prop, walkaround, and animatronic productions for movies, events, and theme parks.**
+***Jim Henson's Creature Shop's Burbank location* is the third Jim Henson's Creature Shop to open, beginning around 1989-1990, and is still open to this day.<sup>(1)(2)</sup> The location focuses on prop, walkaround, and animatronic productions for movies, events, and theme parks.**

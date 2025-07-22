@@ -28,7 +28,7 @@ The Melvin franchise locations received 'Star Stage' Artwork in 2010, that would
 
   Animatronic                                                Serial    Whereabouts
   ---------------------------------------------------------- --------- ----------------------------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   Unknown   Removed from stage, whereabouts unknown^(1)^
+  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   Unknown   Removed from stage, whereabouts unknown<sup>(1)</sup>
 
 ## Trivia
 

@@ -11,7 +11,7 @@ pageThumbnailFile = "IVFc0y10HFnunHDs0jOO.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 +++
 The ***Jingle Bell Jamboree 1979 Show* is an updated showtape for the {{< wiki-link "Jingle Bell Jamboree" >}} to convert it to {{< wiki-link "CEI 4-Track Reel" >}}, with potentially other changes made from the original 1977 version.
-Creative Engineering took a private flight to *Santa's Village* (528 Presidential Hwy, Jefferson, NH 03583) in 1979 to update their entire show system for the Jingle Bell Jamboree as a token of appreciation for purchasing their first full animatronic show, and trusting in a new company full of young talent^(1)^. Due to the process of converting the tape to CEI 8-Track Reel, and completely replacing the show computer system, lots of factors regarding the tape itself could have been changed from the initial 1977 version, which still does not have any footage.**
+Creative Engineering took a private flight to *Santa's Village* (528 Presidential Hwy, Jefferson, NH 03583) in 1979 to update their entire show system for the Jingle Bell Jamboree as a token of appreciation for purchasing their first full animatronic show, and trusting in a new company full of young talent<sup>(1)</sup>. Due to the process of converting the tape to CEI 8-Track Reel, and completely replacing the show computer system, lots of factors regarding the tape itself could have been changed from the initial 1977 version, which still does not have any footage.**
 
 ## Show List
 

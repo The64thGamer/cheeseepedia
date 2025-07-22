@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf](%2
 pageThumbnailFile = "r07Iv9vjRHHEOKveA0lv.avif"
 manufacturer = "Creative Engineering"
 +++
-The ***Dook Larue Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. ^(1)^**
+The ***Dook Larue Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. <sup>(1)</sup>**
 
 ## History
 

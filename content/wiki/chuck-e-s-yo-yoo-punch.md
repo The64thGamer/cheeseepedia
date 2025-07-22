@@ -9,7 +9,7 @@ contributors = ["ThatBoiCydalan"]
 citations = ["[https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html](%22https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html%22)"]
 pageThumbnailFile = "tUJ6izoOtWZsUO5fVfk5.avif"
 +++
-***Chuck E's Yo Yoo Punch* was a redemption game made for *Chuck E. Cheese* locations in 2000. This game is a branded version of *Yo Yoo Punch* manufactured by Skee-Ball Inc.^(1)^**
+***Chuck E's Yo Yoo Punch* was a redemption game made for *Chuck E. Cheese* locations in 2000. This game is a branded version of *Yo Yoo Punch* manufactured by Skee-Ball Inc.<sup>(1)</sup>**
 
 ## Gameplay
 
@@ -17,4 +17,4 @@ Upon putting credits to the game, the gameplay of this arcade machine would star
 
 ## Audio
 
-It is unknown if Chuck E's Yo Yoo Punch reuses any audio from the American release version of the original branded game due to there being no footage/clips of the American audio version online. Upon starting up the game, an announcer is heard telling the player to 'Check the score first!', which four seconds after starting up, would prepare the player by saying 'Ready? Get set.. HIT IT!'. once the red button is hit, the machine then plays a twirl sound for each time the ball inside the machine makes a complete clockwise spin until the it stops spinning. If the player's score is closer to the targeted score, the machine would count down beginning three numbers before from the targeted score is reached, which if the player's score doesn't get to the targeted score, the machine would compliment the player for trying their best, such as 'Wow, you're strong! Not so hard next time.'^(0)^ The game uses one speaker on the front of the cabinet which presumably uses mono.
+It is unknown if Chuck E's Yo Yoo Punch reuses any audio from the American release version of the original branded game due to there being no footage/clips of the American audio version online. Upon starting up the game, an announcer is heard telling the player to 'Check the score first!', which four seconds after starting up, would prepare the player by saying 'Ready? Get set.. HIT IT!'. once the red button is hit, the machine then plays a twirl sound for each time the ball inside the machine makes a complete clockwise spin until the it stops spinning. If the player's score is closer to the targeted score, the machine would count down beginning three numbers before from the targeted score is reached, which if the player's score doesn't get to the targeted score, the machine would compliment the player for trying their best, such as 'Wow, you're strong! Not so hard next time.'<sup>(0)</sup> The game uses one speaker on the front of the cabinet which presumably uses mono.

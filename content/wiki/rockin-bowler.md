@@ -9,7 +9,7 @@ contributors = ["GuestIsJustBest","Stripes"]
 citations = ["[https://www.icegame.com/images/document/Rockin%20Bowler%20Service%20Manual.pdf](%22https://www.icegame.com/images/document/Rockin%20Bowler%20Service%20Manual.pdf%22)","[https://www.icegame.com/images/document/Rockin%20Bowler%20Service%20Manual.pdf](%22https://www.icegame.com/images/document/Rockin%20Bowler%20Service%20Manual.pdf%22)","[https://www.icegame.com/images/document/98bfe4c8-86a5-4c0b-8830-13fb5d665a81/manuals/Rockin%20Bowler%20Service%20Manual%20-%2011-06-07_A.pdf](%22https://www.icegame.com/images/document/98bfe4c8-86a5-4c0b-8830-13fb5d665a81/manuals/Rockin%20Bowler%20Service%20Manual%20-%2011-06-07_A.pdf%22)"]
 pageThumbnailFile = "BuAwYZIwWBkiV80R5yDs.avif"
 +++
-**Rockin-Bowler** is an arcade game manufactured by ICE, first used in 2004.^(1)^
+**Rockin-Bowler** is an arcade game manufactured by ICE, first used in 2004.<sup>(1)</sup>
 
 ## Gameplay
 
@@ -21,4 +21,4 @@ The audio is output through a speaker at the front.
 
 ## Release
 
-The original version released in January 2004.^(1)^ Then a version without the curtains released in July 2004.^(3)^
+The original version released in January 2004.<sup>(1)</sup> Then a version without the curtains released in July 2004.<sup>(3)</sup>

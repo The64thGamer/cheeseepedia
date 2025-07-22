@@ -22,15 +22,15 @@ On June 13th, 2023, Studio C was removed and replaced with the dance floor and v
 
 ## History
 
-Before becoming a CEC, it was originally a locally owned arcade called 'Yellow Brick Road.' The arcade eventually closed in 1992 and CEC swiftly took over the space. Despite opening in 1993 this location opened with a 1992 version of the interior stylings from the 1994 SPT Repositioning / Remodel Program.^(1)^
+Before becoming a CEC, it was originally a locally owned arcade called 'Yellow Brick Road.' The arcade eventually closed in 1992 and CEC swiftly took over the space. Despite opening in 1993 this location opened with a 1992 version of the interior stylings from the 1994 SPT Repositioning / Remodel Program.<sup>(1)</sup>
 
 ### Remodels
 
-This location only received only one of their two remodels in 2006, which moved their Studio C from the left side wall back corner to the right side wall. In July 2010, they expanded behind the right side wall and relocated the showroom and Studio C to the new area.^(2)^ The store began the 2.0 remodel in May 2023 and completed in July 2023. After completion, 14 games new games were installed, with most of the token games being removed.
+This location only received only one of their two remodels in 2006, which moved their Studio C from the left side wall back corner to the right side wall. In July 2010, they expanded behind the right side wall and relocated the showroom and Studio C to the new area.<sup>(2)</sup> The store began the 2.0 remodel in May 2023 and completed in July 2023. After completion, 14 games new games were installed, with most of the token games being removed.
 
 ### 2021 S.W.A.T. Incident
 
-On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a suspect in front of the location to take a male into custody for a failed armed robbery at the next door Subway. The man had hostages but they escaped unharmed.^(3)^
+On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a suspect in front of the location to take a male into custody for a failed armed robbery at the next door Subway. The man had hostages but they escaped unharmed.<sup>(3)</sup>
 
 ## Videos
 

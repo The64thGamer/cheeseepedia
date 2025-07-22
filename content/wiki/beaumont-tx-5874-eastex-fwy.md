@@ -9,7 +9,7 @@ contributors = ["Blowseborg062","The 64th Gamer"]
 citations = ["[https://texasarchive.org/2017_00873](%22https://texasarchive.org/2017_00873%22)","[https://www.newspapers.com/article/the-atlanta-constitution/56536547/](%22https://www.newspapers.com/article/the-atlanta-constitution/56536547/%22)"]
 latitudeLongitude = ["30.12565202","-94.15543873"]
 +++
-***5874 Eastex Fwy* was a *Pizza Time Theatre* was a *Pizza Time Theatre* located in the North Park Plaza that opened in 1982 (sometime before August 19th) and closed November 25, 1985 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.^(1)(2)^
+***5874 Eastex Fwy* was a *Pizza Time Theatre* was a *Pizza Time Theatre* located in the North Park Plaza that opened in 1982 (sometime before August 19th) and closed November 25, 1985 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.<sup>(1)(2)</sup>
 This location is not to be confused with the current *Chuck E. Cheese* location on {{< wiki-link "Beaumont, TX (4180 Dowlen Rd)" >}} that opened on June 20th, 2001 with a Studio C Beta, 32m which got removed in November 2019 for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}, that store still operates to this day.**
 
 ## History

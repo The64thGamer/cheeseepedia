@@ -19,7 +19,7 @@ Little information is known about the history of the shopping center this CEC lo
 When Zona 9 first opened, it housed a 3-Stage in its Chuck E. Cheese's building and a 2-Stage in a separate event area in the shopping center. It is speculated that the 2-Stage show came from a closed location in the United States, however, evidence is limited. Once the event area was retired, the Cyberamic characters' parts were later reused on the 3-Stage show.
 This location also had secondary stages built onto both of the show stages. These secondary stages would be used for events, birthdays, and live shows.
 The 3-Stage show appeared to only receive a couple of repairs for its entire run and as a result, the animatronics were in such terrible condition that some of the characters just didn't work. The only things that appeared to be done to the show at all were a few cosmetic changes from the Cyberamic characters and custom-made pieces, repainting pieces, removing Pizzacam and Munch Jr., disabling Building and Moon, giving Chuck E, Helen, and Munch plastic masks and a few mechanical repairs in late 2015. This negligence would also cause this to become the last CEC location to have latex Jasper and Pasqually masks.
-The 3-Stage animatronics were finally relocated once again to the Concepcion County, Guatemala|Concepcion County location as a static display piece.^(1)^
+The 3-Stage animatronics were finally relocated once again to the Concepcion County, Guatemala|Concepcion County location as a static display piece.<sup>(1)</sup>
 
   Stage     Installed   Removed
   --------- ----------- ---------
@@ -33,11 +33,11 @@ In 2013 Zona 9's showroom was repainted for a short period of time to red and gr
 
 ### 2010 Downsizing
 
-For unknown reasons, in 2010, the space that housed the 2-Stage was closed and taken over by a Guatemalan gym chain, Scandinavia Gym.^(2)^ This would also mark the end of the 'Chuck E. Cheese Center' era, as it was no longer used to identify the shopping center from that point forward.
+For unknown reasons, in 2010, the space that housed the 2-Stage was closed and taken over by a Guatemalan gym chain, Scandinavia Gym.<sup>(2)</sup> This would also mark the end of the 'Chuck E. Cheese Center' era, as it was no longer used to identify the shopping center from that point forward.
 
 ### Closure
 
-In the spring of 2016, the shopping center's stores were permanently closed for a future shopping center and superstore. The center began demolition in April 2016 and was fully demolished by January 2017.^(3)^
+In the spring of 2016, the shopping center's stores were permanently closed for a future shopping center and superstore. The center began demolition in April 2016 and was fully demolished by January 2017.<sup>(3)</sup>
 The 3-Stage characters, pieces of artwork, and arcade games from this Chuck E. Cheese's were later relocated to the new Concepcion County, Guatemala|Concepcion County location.
 
 ## Arcade Machines

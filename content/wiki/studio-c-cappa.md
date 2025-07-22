@@ -22,10 +22,10 @@ After a hiatus, the final stage to be installed would be the {{< wiki-link "Alex
 
 ### Nomenclature
 
-Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.^(1)(2)^ In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'.
-Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.^(3)^ This AV diagram is most definitely depicting 'Studio C Cappa'.
-The earlier iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.^(2)^
-Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, used the 'Small Market Studio 'C'' handle^(2)^, while the {{< wiki-link "Studio C Beta Prototype" >}}, were identified as 'Small Town Studio C'.^(2)^
+Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.<sup>(1)(2)</sup> In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'.
+Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.<sup>(3)</sup> This AV diagram is most definitely depicting 'Studio C Cappa'.
+The earlier iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.<sup>(2)</sup>
+Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, used the 'Small Market Studio 'C'' handle<sup>(2)</sup>, while the {{< wiki-link "Studio C Beta Prototype" >}}, were identified as 'Small Town Studio C'.<sup>(2)</sup>
 
 ## Design
 

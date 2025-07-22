@@ -10,6 +10,6 @@ citations = ["[http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.
 latitudeLongitude = ["0","0"]
 +++
 TODO:
-914 Caribbean Drive, Sunnyvale, CA^(1)^
+914 Caribbean Drive, Sunnyvale, CA<sup>(1)</sup>
 
 ## Refrences

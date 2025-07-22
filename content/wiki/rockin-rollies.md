@@ -10,8 +10,8 @@ credits = []
 tags = ["Animatronic Shows"]
 categories = ["Unknown Manufacturers"]
 +++
-Rockin' Rollie's was an obscure animatronic pizza place that opened in Sioux Falls South Dakota on June 13th of 1990^(1)^ and closed on July 31st of 1991.^(1)^ The business was run by Galaxy Enterprises Inc owners Randy Koepsell, Randy Hindbjorgen, Chris Kirkus, and Doug McBeth.^(2)^ Galaxy Enterprises commissioned LifeForms of Toledo to produce the show, and then made the show audio in house.^(5)^
-The business closed on July 31st of 1991 after failing to beat local competition, and also likely after receiving public backlash for using video lottery machines and serving alcohol at a children's pizza place. ^(3)^
+Rockin' Rollie's was an obscure animatronic pizza place that opened in Sioux Falls South Dakota on June 13th of 1990<sup>(1)</sup> and closed on July 31st of 1991.<sup>(1)</sup> The business was run by Galaxy Enterprises Inc owners Randy Koepsell, Randy Hindbjorgen, Chris Kirkus, and Doug McBeth.<sup>(2)</sup> Galaxy Enterprises commissioned LifeForms of Toledo to produce the show, and then made the show audio in house.<sup>(5)</sup>
+The business closed on July 31st of 1991 after failing to beat local competition, and also likely after receiving public backlash for using video lottery machines and serving alcohol at a children's pizza place. <sup>(3)</sup>
 
 ## Characters
 
@@ -59,8 +59,8 @@ Sioux Falls, SD (1912 W 41st St)
 ## Trivia
 
 - Galaxy Enterprises Inc was also involved in the franchising of [Gigglebee's](https://cheeseepedia.org/wiki/gigglebee-s/).
-- One of the Rockin Rollie's band members was present at the auction in 2008 for Gigglebee's closing.^(4)^
-- The music for the show was taped over music from the band Sharon, Lois & Bram. ^(5)^
+- One of the Rockin Rollie's band members was present at the auction in 2008 for Gigglebee's closing.<sup>(4)</sup>
+- The music for the show was taped over music from the band Sharon, Lois & Bram. <sup>(5)</sup>
 
 https://www.newspapers.com/image/351074199/?match=1&clipping_id=148088831
 https://www.newspapers.com/image/239995037/?match=1&terms="Rockin%20Rollie%27s"&clipping_id=53007505

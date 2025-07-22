@@ -14,7 +14,7 @@ The show consisted of the main characters and moving props placed along the bann
 
 ## History
 
-All characters were produced by {{< wiki-link "Fantasy Forest">}}, mainly by its owner Harold Goldbrandsen. Fantasy Forest was previously a mascot costume manufacturer, making the Winchester show their first animatronic products created. Atari's Cyan Engineering (also known as the Grass Valley Team) would handle the creation of the {{< wiki-link "Winchester Control System">}}, headed by Larry Emmons and Gary Waters.^(1)^
+All characters were produced by {{< wiki-link "Fantasy Forest">}}, mainly by its owner Harold Goldbrandsen. Fantasy Forest was previously a mascot costume manufacturer, making the Winchester show their first animatronic products created. Atari's Cyan Engineering (also known as the Grass Valley Team) would handle the creation of the {{< wiki-link "Winchester Control System">}}, headed by Larry Emmons and Gary Waters.<sup>(1)</sup>
 
 ## Animatronics
 

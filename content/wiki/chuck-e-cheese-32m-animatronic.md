@@ -13,7 +13,7 @@ The ***Chuck E. Cheese 32m Animatronic* is an animatronic figure created by Garn
 
 ## History
 
-After the {{< wiki-link "Awesome Adventure Machine" >}} concept failed, the one animatronic show concept was still being considered. Soon enough, ShowBiz reached out to a few manufactures one being Creative Presentations. But being unable to help ShowBiz, they suggested that they contacted Garner Holt.^(1)^
+After the {{< wiki-link "Awesome Adventure Machine" >}} concept failed, the one animatronic show concept was still being considered. Soon enough, ShowBiz reached out to a few manufactures one being Creative Presentations. But being unable to help ShowBiz, they suggested that they contacted Garner Holt.<sup>(1)</sup>
 In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese animatronics, the first appearance being on October 3rd, 1997 for an invite only event at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and a hand-full of locations. In February 1998 Chuck E. was unveiled at the 1998 CEC General Managers Las Vegas Convention (Event)|General Managers Convention. 160 of these Chuck E. Animatronics were placed in locations by the year 2000 and later ended production in 2001, only finishing one batch that year.
 
 ## Internals

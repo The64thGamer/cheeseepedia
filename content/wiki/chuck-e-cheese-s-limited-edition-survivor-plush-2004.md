@@ -12,7 +12,7 @@ The ***Limited Edition Survivor Chuck E.* was an official product produced for p
 
 ## Production
 
-Survivor Chuck E. received its first prototype in 2002, however wouldn't be released until 2004. Each location would most likely receive 12 plushies, like many limited editions after, to be on display and purchase for guests and would be on display until sold out.^(1)^
+Survivor Chuck E. received its first prototype in 2002, however wouldn't be released until 2004. Each location would most likely receive 12 plushies, like many limited editions after, to be on display and purchase for guests and would be on display until sold out.<sup>(1)</sup>
 
 ### December 11, 2002 Prototype
 

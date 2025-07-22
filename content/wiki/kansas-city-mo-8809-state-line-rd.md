@@ -10,4 +10,4 @@ latitudeLongitude = ["38.96713327", "-94.60806003"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Kansas City, MO (8809 State Line Rd)* was a *Peter Piper Pizzeria* that opened in June 2023 and closed on June 30, 2024.^(1)(2)^ On August 23, 2024, it had its soft opening as a *Chuck E. Cheese*,^(3)^ Being the world's smallest location, it didn't have a Dance Floor or a Kid Check stand. It closed on June 22, 2025 with plans to become a *{{< wiki-link "Chuck's Arcade" >}}*.^(4)^ It reopened on the 26th with nostalgic elements, such as old art on the walls.^(5)^**
+***Kansas City, MO (8809 State Line Rd)* was a *Peter Piper Pizzeria* that opened in June 2023 and closed on June 30, 2024.<sup>(1)(2)</sup> On August 23, 2024, it had its soft opening as a *Chuck E. Cheese*,<sup>(3)</sup> Being the world's smallest location, it didn't have a Dance Floor or a Kid Check stand. It closed on June 22, 2025 with plans to become a *{{< wiki-link "Chuck's Arcade" >}}*.<sup>(4)</sup> It reopened on the 26th with nostalgic elements, such as old art on the walls.<sup>(5)</sup>**

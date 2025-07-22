@@ -9,8 +9,8 @@ contributors = ["The 64th Gamer","ChuckE1352","Tux Chuck"]
 citations = ["[https://www.arcade-history.com/?n=musical-ferris-wheel&page=detail&id=33458](%22https://www.arcade-history.com/?n=musical-ferris-wheel&page=detail&id=33458%22)","[https://youtu.be/P56zAQ0LOKM](%22https://youtu.be/P56zAQ0LOKM%22)"]
 pageThumbnailFile = "HuyNrMHHPBOCVuu9vZp7.avif"
 +++
-The ***Pizza Time Theatre Musical Ferris Wheel* was a {{< wiki-link "Pizza Time Theatre" >}} themed variant of the *Musical Ferris Wheel* by All-Tech Industries.^(1)^
-After inserting a quarter, the ride would spin the child in the seat around while playing 1-bit fair ground music.^(2)^**
+The ***Pizza Time Theatre Musical Ferris Wheel* was a {{< wiki-link "Pizza Time Theatre" >}} themed variant of the *Musical Ferris Wheel* by All-Tech Industries.<sup>(1)</sup>
+After inserting a quarter, the ride would spin the child in the seat around while playing 1-bit fair ground music.<sup>(2)</sup>**
 
 ## Variants
 

@@ -41,6 +41,6 @@ Norwalk opened on October 29th, 1991, as a corporate-owned location in the Fires
   {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}           N/A                  Unknown/Destroyed
   {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   N/A                  Unknown/Destroyed
   {{< wiki-link "Mr Munch (Cyberamic)" >}}                 N/A                  Unknown/Destroyed
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           N/A                  Destroyed, mask remains owned by CTTRobotics.^(1)^
+  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           N/A                  Destroyed, mask remains owned by CTTRobotics.<sup>(1)</sup>
   {{< wiki-link "Pasqually (Cyberamic)" >}}                N/A                  Unknown/Destroyed
   {{< wiki-link "Wink (Cyberamic)" >}}                     N/A                  Destroyed. Remains salvaged by a private collector.

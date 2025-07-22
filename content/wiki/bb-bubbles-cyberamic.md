@@ -13,7 +13,7 @@ B.B. Bubbles was the last side act placed inside the Piona bar and was a retrofi
 
 ## History
 
-B.B. Bubbles was the third and last side act inside the Piona bar and was installed there sometime in 1982^(1)^. There was also the option to purchase a bubble machine with her installation pack ^(2)^.
+B.B. Bubbles was the third and last side act inside the Piona bar and was installed there sometime in 1982<sup>(1)</sup>. There was also the option to purchase a bubble machine with her installation pack <sup>(2)</sup>.
 
 ## Design
 

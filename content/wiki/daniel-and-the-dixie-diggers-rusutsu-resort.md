@@ -15,13 +15,13 @@ For more information about the show itself, see {{< wiki-link "Daniel and the Di
 ## Background
 
 The show was installed in 1987, with it's first documentation being in 1993, and while not the show itself, they had mascots of all 5 characters (Daniel T. Bones, Huck L. Berry, Scratchmo, Sir Percival and Colonel Beauregard).
-The show's first online documentation was in 2002, with a picture of the show with the 1980's masks on.^(1)^ The show itself resided on 'Daniell Street' (later renamed 'Daniel Street') in their hotel's entrance.
+The show's first online documentation was in 2002, with a picture of the show with the 1980's masks on.<sup>(1)</sup> The show itself resided on 'Daniell Street' (later renamed 'Daniel Street') in their hotel's entrance.
 Alongside the **Dixie Diggers**, Rusutsu also had a Bubba Bear and the Badland Band show (which currently resides in their amusement park area) and Ursula and the Oompapas (made exclusively for Rusutsu and currently resides in their Octoberfest buffet.
 In 2003, the show received a mask upgrade. All of the characters had received cosmetic upgrades, such as Sir Percival sporting a yellow scarf. The show mechanically was getting into rough shape.
 
 ### 2004 Mascot Upgrade
 
-Between 2003-2004, Rusutsu made new mascots of the characters, this time designed to be more basic and Disney-like. The biggest changes made to the characters were of Scratchmo and Colonel Beauregard, as Scratchmo had been redesigned to look like a regular bulldog instead of having his regular Louis Armstrong persona. He was also given more circular ears instead of triangular ones. Colonel Beauregard had all traces of confederacy removed from him, and now had pants that match the stripes on his jacket. He was also given long, floppy ears. In addition, custom descriptions were made by Rusutsu themselves for the characters.^(2)^ Live shows featuring the characters would debut in 2004, which would have the Dixies encourage the audience watching to get up and dance to different upbeat tunes. These shows would have Japanese voice actors (two of which being female) and would run until 2009-2011.
+Between 2003-2004, Rusutsu made new mascots of the characters, this time designed to be more basic and Disney-like. The biggest changes made to the characters were of Scratchmo and Colonel Beauregard, as Scratchmo had been redesigned to look like a regular bulldog instead of having his regular Louis Armstrong persona. He was also given more circular ears instead of triangular ones. Colonel Beauregard had all traces of confederacy removed from him, and now had pants that match the stripes on his jacket. He was also given long, floppy ears. In addition, custom descriptions were made by Rusutsu themselves for the characters.<sup>(2)</sup> Live shows featuring the characters would debut in 2004, which would have the Dixies encourage the audience watching to get up and dance to different upbeat tunes. These shows would have Japanese voice actors (two of which being female) and would run until 2009-2011.
 
 ### 2006 'Overhaul'
 

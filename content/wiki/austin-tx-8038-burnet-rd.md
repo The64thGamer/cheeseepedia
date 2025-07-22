@@ -9,7 +9,7 @@ contributors = ["ChuckECool","ThatBoiCydalan","CEC Tinley","Stripes"]
 citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-10.pdf%22)"]
 latitudeLongitude = ["30.35787287","-97.73202963"]
 +++
-***Austin, TX (8038 Burnet Rd), Store #936*^(1)^ was a *ShowBiz Pizza Place/Chuck E. Cheese* that opened on January 28, 1982, as a corporate location with a {{< wiki-link "Classic Stage" >}} and closed on October 29, 2006 with a 3-Stage.**
+***Austin, TX (8038 Burnet Rd), Store #936*<sup>(1)</sup> was a *ShowBiz Pizza Place/Chuck E. Cheese* that opened on January 28, 1982, as a corporate location with a {{< wiki-link "Classic Stage" >}} and closed on October 29, 2006 with a 3-Stage.**
 
 ## History
 

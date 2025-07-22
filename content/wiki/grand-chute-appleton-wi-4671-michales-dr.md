@@ -20,7 +20,7 @@ They would have this until sometime on September 23, 2019, when they would under
 
 ## Stage:
 
-Originally when Grand Chute opened, they had a {{< wiki-link "Studio C Alpha" >}} stage, they also had an interactive console which featured a [Chinese copy of Flint Stones Memory Match](https://archive.org/details/arcade_fredmem) ^(1)^
+Originally when Grand Chute opened, they had a {{< wiki-link "Studio C Alpha" >}} stage, they also had an interactive console which featured a [Chinese copy of Flint Stones Memory Match](https://archive.org/details/arcade_fredmem) <sup>(1)</sup>
 This would be removed between 2014 - June 2016. In October 2019 the {{< wiki-link "Studio C Alpha" >}} would be removed and replaced with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. They would only have this until June of 2020, when they closed. They were either the second to last or third last Alpha in Wisconsin, as Racine received 2.0 in 2019 as well, leaving {{< wiki-link "Brookfield, WI (19125 W Blue Mound Rd)" >}}, the very first Studio C Alpha, to be the last in the state of Wisconsin.
 
   Stage                                                      Installed      Removed

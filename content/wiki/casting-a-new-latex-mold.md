@@ -11,7 +11,7 @@ citations = [""]
 
 ## Rock-afire Mask Color Formula
 
-The following is the former official formula used for the masks of Rolfe, Dook, Beach Bear, Mitzi, and Billy Bob^(1)^ This formula was only used in the early days of manufacturing and was replaced with more sophisticated color layering methods, possibly some time after Ray was hired to manage airbrushing.
+The following is the former official formula used for the masks of Rolfe, Dook, Beach Bear, Mitzi, and Billy Bob<sup>(1)</sup> This formula was only used in the early days of manufacturing and was replaced with more sophisticated color layering methods, possibly some time after Ray was hired to manage airbrushing.
 
 > Each color is 2 oz. tubed acrylic to ¼ cup of water.
 >

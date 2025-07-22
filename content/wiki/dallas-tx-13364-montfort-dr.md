@@ -17,7 +17,7 @@ latitudeLongitude = ["32.92971437","-96.81218158"]
 As the Montfort Dr. Chuck E. Cheese debuted with Studio C Beta, the monitor area would be made smaller for reasons unknown and would have been majorly undocumented throughout its existence.
 Studio C would be replaced in 2010 with a more refined and short-lived Studio C concept called the {{< wiki-link "Star Stage" >}}. The concept aimed to be a complex but simple counterpart to Studio C that also bought personality into the showroom.
 The Star Stage would be retired in 2012 and would be replaced with the {{< wiki-link "Circles of Light" >}} in August. In September of that same year, the Chuck E. animatronic would be removed from the show to have its platform used for live performances. The animatronic would later be reused at the {{< wiki-link "Port Orange, FL (5539 S Williamson Blvd)" >}} location on its Circles of Light.
-To accompany the Circles of Light show, a dance floor for live performances would be placed in the arcade in 2014.^(1)^ The concept would later debut once again at the {{< wiki-link "Plano, TX (1604 Preston Rd)" >}} store in 2015 as the main attraction in the showroom and would later replace over 300 animatronic shows from 2015 to now. As of current the Circles of Light remains now has the addition of the dance floor due to the store's 2.0 remodel.
+To accompany the Circles of Light show, a dance floor for live performances would be placed in the arcade in 2014.<sup>(1)</sup> The concept would later debut once again at the {{< wiki-link "Plano, TX (1604 Preston Rd)" >}} store in 2015 as the main attraction in the showroom and would later replace over 300 animatronic shows from 2015 to now. As of current the Circles of Light remains now has the addition of the dance floor due to the store's 2.0 remodel.
 
   Stage              Installed       Removed
   ------------------ --------------- ---------------
@@ -35,16 +35,16 @@ As the store opened in 2001 the location was subject to having the latest games 
 The store would receive one of the first 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' Remodels in 2004 alongside regular game rotations.
 In 2011 the store was updated and expanded on its right side. The kiddie area would be moved to the side of the showroom and would have the skills area expanded.
 A minor remodel in 2015 replaced the exterior signage and interior artwork with the new 'Rockstar' Chuck E. Cheese design. The remodel also saw the addition of a new games package and repainted walls.
-In 2019, two large windows looking in towards the kitchen were added near the restrooms. This can most likely be explained by the first few 2.0 remodels featuring an open kitchen.^(2)^
+In 2019, two large windows looking in towards the kitchen were added near the restrooms. This can most likely be explained by the first few 2.0 remodels featuring an open kitchen.<sup>(2)</sup>
 For May 2023 the Montfort Dr. CEC would completely remodel once again during the ongoing 2017 2.0 Remodel Program|2.0 Remodel Program and would keep the Circles of Light show.
 
 ### Summer Concert Roadshow
 
-On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of CEC Entertainment, and Matt Daniel of the Entertainment Department during the 2023 CEC Summer Concert Road Show|Summer Concert Road Show event. Fans attending would also appear in photos with Mckillps at the event.^(3)^
+On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of CEC Entertainment, and Matt Daniel of the Entertainment Department during the 2023 CEC Summer Concert Road Show|Summer Concert Road Show event. Fans attending would also appear in photos with Mckillps at the event.<sup>(3)</sup>
 
 ## Arcade Machines
 
-### Identified Phase III Machines^(4)^
+### Identified Phase III Machines<sup>(4)</sup>
 
 #### Kiddie
 

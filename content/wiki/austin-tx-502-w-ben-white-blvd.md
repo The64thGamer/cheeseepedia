@@ -24,7 +24,7 @@ This location opened on March 24th, 1982, as a ShowBiz Pizza Place with the {{< 
 In 1986, Ben White became the very first location to undergo the 1986 SPT Remodel Program.
 Around 1991/1992, this store underwent {{< wiki-link "Concept Unification" >}} and was converted into a Chuck E. Cheese, receiving a few remodels over the years.
 On May 12th, 2013, this location would close down as they relocated to Austin, TX (9811 S I-35)|9811 S I-35, which opened on May 27th, 2013, with the old location becoming vacant.
-Around February 2015, the site of this former location would begin its redevelopment into a home improvement discount store, having its soft opening around late October 2015,^(1)^ which the building currently remains as today.
+Around February 2015, the site of this former location would begin its redevelopment into a home improvement discount store, having its soft opening around late October 2015,<sup>(1)</sup> which the building currently remains as today.
 
 ## Videos
 

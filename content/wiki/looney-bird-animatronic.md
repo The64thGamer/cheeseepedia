@@ -25,7 +25,7 @@ The Looney Bird Animatronic is a red bird head with a green plant growing out of
 
 ### Movements
 
-The bot features 7 movements in total. 6 on the Animatronic's valves, and a hands movement on a separate set of valves. ^(1)^.
+The bot features 7 movements in total. 6 on the Animatronic's valves, and a hands movement on a separate set of valves. <sup>(1)</sup>.
 
   Looney Bird Movement   Number
   ---------------------- --------

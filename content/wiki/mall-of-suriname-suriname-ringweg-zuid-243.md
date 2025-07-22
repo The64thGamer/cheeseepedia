@@ -9,7 +9,7 @@ contributors = ["CECBowlingGreen","RedaCEC","CorrectorMan","Tux Chuck"]
 citations = ["[https://www.stabroeknews.com/2021/12/07/news/guyana/chuck-e-cheese-for-guyana/](%22https://www.stabroeknews.com/2021/12/07/news/guyana/chuck-e-cheese-for-guyana/%22)"]
 +++
 **VR4G+P7G, Ringweg-Zuid, Paramaribo, Suriname** is a Chuck E. Cheese that opened on September 22, 2022, with a Dance Floor and Video Wall, which is still open to this day.
-This location is the very first location in the country of Suriname, which is in South America. They are sub-franchised by Yay! Entertainment and Blue Falcon N.V, who also own the two locations in Trinidad & Tobago.^(1)^
+This location is the very first location in the country of Suriname, which is in South America. They are sub-franchised by Yay! Entertainment and Blue Falcon N.V, who also own the two locations in Trinidad & Tobago.<sup>(1)</sup>
 
 ## History
 

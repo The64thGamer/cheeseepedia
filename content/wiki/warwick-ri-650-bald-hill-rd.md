@@ -16,9 +16,9 @@ This is not to be confused with the {{< wiki-link "Warwick, RI (1960 Post Rd)" >
 ## History
 
 The location opened March 6, 2000 in a freestanding building just outside the Rhode Island Mall (Now Midland Commons Shopping Center) with the {{< wiki-link "SPT 1990's Remodel Program" >}} as the first in CEC Rhode Island since the closure of {{< wiki-link "Warwick, RI (1245 Bald Hill Rd)" >}}. This would be the first location in New England to receive any kind of Studio C stage.
-On October 1, 2012 Warwick begin the {{< wiki-link "CEC 2000's Remodel Program" >}}. During the remodel, all aspects of previous remodels would be removed. Being replaced with the standard by 2012.^(1)^
+On October 1, 2012 Warwick begin the {{< wiki-link "CEC 2000's Remodel Program" >}}. During the remodel, all aspects of previous remodels would be removed. Being replaced with the standard by 2012.<sup>(1)</sup>
 Between April-May 2017, the Skytubes would be removed, Between July-August, Tokens would be replaced with {{< wiki-link "Chuck E's Play Pass" >}}.
-On April 27, 2024, the Trampoline Zone was installed.^(2)^
+On April 27, 2024, the Trampoline Zone was installed.<sup>(2)</sup>
 On July 8, 2024, the store would begin its {{< wiki-link "CEC 2.0 Remodel Program" >}}, removing the stage for a {{< wiki-link "Video Wall" >}} and {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.
 
 ## Stages

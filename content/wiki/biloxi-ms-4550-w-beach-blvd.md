@@ -10,20 +10,20 @@ citations = ["[https://www.newspapers.com/clip/47651913/clarion-ledger/](%22http
 pageThumbnailFile = "Dg7wUfMTkC7Jn99JDUWZ.avif"
 latitudeLongitude = ["30.35586227","-89.11716778"]
 +++
-***4550 W Beach Blvd Biloxi, MS* was a Pizza Time Theatre that opened in October 1983 with a Balcony Stage and an unknown Cabaret/Lounge stage^(1)^, and closed on October 7th, 1984https://www.newspapers.com/image/743565212/?clipping_id=82154294&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0MzU2NTIxMiwiaWF0IjoxNjcwODg4NDQ4LCJleHAiOjE2NzA5NzQ4NDh9.vqEnHgY0NtxZhDI5gmGCsnMVRjL65_lYC-HlvYK9yS4.**
+***4550 W Beach Blvd Biloxi, MS* was a Pizza Time Theatre that opened in October 1983 with a Balcony Stage and an unknown Cabaret/Lounge stage<sup>(1)</sup>, and closed on October 7th, 1984https://www.newspapers.com/image/743565212/?clipping_id=82154294&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0MzU2NTIxMiwiaWF0IjoxNjcwODg4NDQ4LCJleHAiOjE2NzA5NzQ4NDh9.vqEnHgY0NtxZhDI5gmGCsnMVRjL65_lYC-HlvYK9yS4.**
 
 ## History
 
-The store would open as part of an expansion of new outlets to the *Edgewater Village Shopping Center* in the second week of October in 1983 ^(2)^ . Throughout September, advertisements for manager positions would appear, and openings for cast members would start on the 5th to the 7th of October. Dan Myers would be the manager of the store.^(3)^
+The store would open as part of an expansion of new outlets to the *Edgewater Village Shopping Center* in the second week of October in 1983 <sup>(2)</sup> . Throughout September, advertisements for manager positions would appear, and openings for cast members would start on the 5th to the 7th of October. Dan Myers would be the manager of the store.<sup>(3)</sup>
 
 ### Closure
 
-The store would close on October 7th, 1984 due to the merger and followed restructuring of {{< wiki-link "Pizza Time Theatre" >}} and ShowBiz Pizza Place^(0)^. With the {{< wiki-link "Gulfport, MS (320 Courthouse Rd)" >}} ShowBiz store already in operation, it was chosen to close the Biloxi location. Of the 38 employees working by the store's closure, 35 of them had found jobs in other local businesses by October 9th.^(4)^
+The store would close on October 7th, 1984 due to the merger and followed restructuring of {{< wiki-link "Pizza Time Theatre" >}} and ShowBiz Pizza Place<sup>(0)</sup>. With the {{< wiki-link "Gulfport, MS (320 Courthouse Rd)" >}} ShowBiz store already in operation, it was chosen to close the Biloxi location. Of the 38 employees working by the store's closure, 35 of them had found jobs in other local businesses by October 9th.<sup>(4)</sup>
 
 ### Post Closure
 
-The building, left intact with no major items removed, would be purchased by Tom C Harvey Jr. a short time later. Tom would file a new business titled *Showboat Buffet, Inc.* on March 8, 1985^(5)^, and reopen the restaurant on the 16th of March under the new name.^(6)^ No interior rework would be done, with most Pizza Time Theatre iconography, games, and other features would still persist. The opening promotion would claim *'Chuck E. has departed but he left all his games and playthings on board 'The Quiet Showboat*.''^(6)^ The stages would be covered up and not used during its operation.^(8)^
-The store would close on January 14, 1986, for unknown reasons, with *Filet House Inc.* set to open on February 1st. On the 9th of February 1986, it would be announced the store would undergo a major auction on the 13th at 10:00 A.M.^(1)^ Due to the majority of Pizza Time Theatre items still in use, the auction would be promoted as from one. Filet house would continue business for a number of years, though it is unclear if businesses changed after this point.
+The building, left intact with no major items removed, would be purchased by Tom C Harvey Jr. a short time later. Tom would file a new business titled *Showboat Buffet, Inc.* on March 8, 1985<sup>(5)</sup>, and reopen the restaurant on the 16th of March under the new name.<sup>(6)</sup> No interior rework would be done, with most Pizza Time Theatre iconography, games, and other features would still persist. The opening promotion would claim *'Chuck E. has departed but he left all his games and playthings on board 'The Quiet Showboat*.''<sup>(6)</sup> The stages would be covered up and not used during its operation.<sup>(8)</sup>
+The store would close on January 14, 1986, for unknown reasons, with *Filet House Inc.* set to open on February 1st. On the 9th of February 1986, it would be announced the store would undergo a major auction on the 13th at 10:00 A.M.<sup>(1)</sup> Due to the majority of Pizza Time Theatre items still in use, the auction would be promoted as from one. Filet house would continue business for a number of years, though it is unclear if businesses changed after this point.
 [Hurricane Katrina](https://en.wikipedia.org/wiki/Hurricane_Katrina) would strike Biloxi on August 29, 2005. This would leave the original building torn completely off its foundation. After rebuilding, the area would be reduced to a grassy patch of land. By 2022, the plot is still up for sale.
 
 ## Arcades

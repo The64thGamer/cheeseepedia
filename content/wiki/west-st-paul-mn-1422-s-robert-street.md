@@ -16,7 +16,7 @@ After Circus Pizza's departure, the location became a *Chuck E. Cheese's* on Aug
 ## Stages
 
 Originally, this location opened with the {{< wiki-link "Classic Stage" >}}. The Circus Pizza that followed also had a classic Rock-afire Explosion show, but it is unclear if the same animatronics were used.
-When Chuck E. Cheese opened in August 1999, the show was replaced by a {{< wiki-link "Studio C Alpha" >}}. However, this Studio C Alpha stage was unique in that it used the original footprint of the existing stage, similar to that of the {{< wiki-link "Awesome Adventure Machine" >}} or the {{< wiki-link "Darien, IL (7409 Cass Ave)" >}} location's {{< wiki-link "CU Beta 16M" >}}. The show did not feature the Apple TV. Additionally, the stage used an earlier version of the {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} that had eyelashes ^(1)^.
+When Chuck E. Cheese opened in August 1999, the show was replaced by a {{< wiki-link "Studio C Alpha" >}}. However, this Studio C Alpha stage was unique in that it used the original footprint of the existing stage, similar to that of the {{< wiki-link "Awesome Adventure Machine" >}} or the {{< wiki-link "Darien, IL (7409 Cass Ave)" >}} location's {{< wiki-link "CU Beta 16M" >}}. The show did not feature the Apple TV. Additionally, the stage used an earlier version of the {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} that had eyelashes <sup>(1)</sup>.
 In 2005, the curtains were disabled on the stage. In 2013, Chuck E.'s cap was replaced.
 
 ## History

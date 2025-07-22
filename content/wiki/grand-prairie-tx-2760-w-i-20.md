@@ -20,4 +20,4 @@ latitudeLongitude = ["32.67235072","-97.15028313"]
 
 ## History
 
-On June 16, 2024, the location would be one of the few test stores for the Ninja Run play area, with both David McKillips and Mark Kupferman known to have shown up for the event.^(1)^
+On June 16, 2024, the location would be one of the few test stores for the Ninja Run play area, with both David McKillips and Mark Kupferman known to have shown up for the event.<sup>(1)</sup>

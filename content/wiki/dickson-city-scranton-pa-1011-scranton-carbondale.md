@@ -21,7 +21,7 @@ This location opened as a Pizza Time Theater in August 1983 and then closed in 1
   Stage                                              Installed     Removed        Notes
   -------------------------------------------------- ------------- -------------- -------------------------------------------------------------------------------------------------------------------------------------------
   {{< wiki-link "Cyberamics Balcony Stage" >}}   August 1983   1984           Retrofitted when it was converted to Zach Periwinkles.
-  Retrofitted Balcony                                1984          Late 1980's   Animatronics shipped to to Captain Good Times^(1)^, and later Gillian's Wonderland Pier in 1992 to become Rocky & the Railroad Ramblers.
+  Retrofitted Balcony                                1984          Late 1980's   Animatronics shipped to to Captain Good Times<sup>(1)</sup>, and later Gillian's Wonderland Pier in 1992 to become Rocky & the Railroad Ramblers.
 
 ## Animatronics
 

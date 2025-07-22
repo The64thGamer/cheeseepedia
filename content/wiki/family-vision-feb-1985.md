@@ -26,4 +26,4 @@ The tape's total length and videos used are completely unknown, some may not be 
 
 ## Trivia
 
-- The music used in 'Airplane Footage' is called That's All Folks from Network Music Ensemble^(1)^ which featured old film footage of a Biplane flying around, not much is known of what else it could have featured as it only lasted roughly 12 seconds.^(2)^
+- The music used in 'Airplane Footage' is called That's All Folks from Network Music Ensemble<sup>(1)</sup> which featured old film footage of a Biplane flying around, not much is known of what else it could have featured as it only lasted roughly 12 seconds.<sup>(2)</sup>

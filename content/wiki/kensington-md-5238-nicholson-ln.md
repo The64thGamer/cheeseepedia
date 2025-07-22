@@ -15,7 +15,7 @@ latitudeLongitude = ["39.04208657","-77.10772633"]
 ## History
 
 On March 15, 2023 it was announced that the {{< wiki-link "Rockville, MD (5270 Randolph Rd)" >}} location in Loehmann's Plaza would be relocating just a mile away to White Rock Plaza within a former 16,331 square foot Retro Fitness gym that closed in 2020.
-^(1)^ The location would open its doors on November 1st, 2023 at 11 AM.
+<sup>(1)</sup> The location would open its doors on November 1st, 2023 at 11 AM.
 
 ## Games
 

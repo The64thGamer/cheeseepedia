@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " Students from St. Mary's School look up at a giant Unicorn Beetle ^(0)^"
+description = " Students from St. Mary's School look up at a giant Unicorn Beetle <sup>(0)</sup>"
 +++

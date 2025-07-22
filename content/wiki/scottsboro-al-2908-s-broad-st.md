@@ -9,7 +9,7 @@ contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
 citations = ["[https://www.youtube.com/watch?v=eTY3GuEOTX4](%22https://www.youtube.com/watch?v=eTY3GuEOTX4%22)"]
 pageThumbnailFile = "yPnXQTg52y5eZWexn04A.avif"
 +++
-***(2908 S Broad St)* was an Pizza Party USA that opened in the late 1990's with a {{< wiki-link "Classic Stage" >}}.^(1)^ It closed at an unknown date.**
+***(2908 S Broad St)* was an Pizza Party USA that opened in the late 1990's with a {{< wiki-link "Classic Stage" >}}.<sup>(1)</sup> It closed at an unknown date.**
 
 ## History
 

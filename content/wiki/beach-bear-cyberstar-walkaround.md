@@ -11,7 +11,7 @@ tags = ["Costumed Characters"]
 categories = ["ShowBiz Pizza Place"]
 +++
 The ***Beach Bear Cyberstar Walkaround* was a walkaround used exclusively for *Cyberstar* videos at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
-The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.^(1)^**
+The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.<sup>(1)</sup>**
 
 ## Variants
 

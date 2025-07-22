@@ -15,7 +15,7 @@ This was created to play during April, May and June of 2009.
 
 ## Production
 
-The *Pizza Parachute* and *Jawbreaker* CEC TV ID's were created by Joel Apel.^(1)^
+The *Pizza Parachute* and *Jawbreaker* CEC TV ID's were created by Joel Apel.<sup>(1)</sup>
 
 ## Studio C Show List:
 
@@ -108,7 +108,7 @@ All live shows except 'Dancin' All Night Long' were on a separate DVD from the m
 
 ## Trivia:
 
-- The original artists behind 'I'm Shakin'', Rooney, visited a CEC location during the time this show was playing in order to hear their song being covered.^(2)^
+- The original artists behind 'I'm Shakin'', Rooney, visited a CEC location during the time this show was playing in order to hear their song being covered.<sup>(2)</sup>
 - 'Super Chuck E.' was originally a road show in 2005 though it has been slightly altered for this show.
 - The CEC News intermission and most of the footage for 'Super Chuck E.' was reused from August 1997. They seem to have been taken from a master copy of the show as they are in much higher quality than the original show.
 - Originally in segment 2, Chuck E. called former president George W. Bush. This was cut for an unknown reason.

@@ -20,11 +20,11 @@ After the closure, the animatronics were sold off in an auction and later repurc
 
 ## History
 
-In 1984 this ShowBiz Pizza, among others, received a 'Noteworthy' rating on their second quarter (1984) quality assurance evaluations.^(1)^
-It is also worth noting that the Billy Bob hot air balloon may have visited this ShowBiz during its heyday.^(2)(3)^
-Between the years of 1985 and 1986, this ShowBiz Pizza permanently closed and the building would be occupied by several different businesses over the years, the last of which being Sun Resorts Tanning and Fitness^(4)^.
-A more notable tenant of the former ShowBiz, 'The Vintage', was popular among local politicians and was the unfortunate site of a fight between [Westboro Baptist Church](https://en.wikipedia.org/wiki/Westboro_Baptist_Church) and counter protesters over the hiring of a gay waitress in the mid 1990s. ^(5)^https://www.ksnt.com/news/local-news/remember-the-vintage-city-votes-to-tear-the-now-vacant-building-down/1639596204/
-The building was unanimously voted on by the city to be demolished in 2018, and two years later, between April and June of 2020, a majority of the building was demolished. As of current, an Amoco gas station is now in the place of the former ShowBiz Pizza Place.^(0)(6)^
+In 1984 this ShowBiz Pizza, among others, received a 'Noteworthy' rating on their second quarter (1984) quality assurance evaluations.<sup>(1)</sup>
+It is also worth noting that the Billy Bob hot air balloon may have visited this ShowBiz during its heyday.<sup>(2)(3)</sup>
+Between the years of 1985 and 1986, this ShowBiz Pizza permanently closed and the building would be occupied by several different businesses over the years, the last of which being Sun Resorts Tanning and Fitness<sup>(4)</sup>.
+A more notable tenant of the former ShowBiz, 'The Vintage', was popular among local politicians and was the unfortunate site of a fight between [Westboro Baptist Church](https://en.wikipedia.org/wiki/Westboro_Baptist_Church) and counter protesters over the hiring of a gay waitress in the mid 1990s. <sup>(5)</sup>https://www.ksnt.com/news/local-news/remember-the-vintage-city-votes-to-tear-the-now-vacant-building-down/1639596204/
+The building was unanimously voted on by the city to be demolished in 2018, and two years later, between April and June of 2020, a majority of the building was demolished. As of current, an Amoco gas station is now in the place of the former ShowBiz Pizza Place.<sup>(0)(6)</sup>
 
 ## Arcade Machines
 
@@ -57,7 +57,7 @@ Additional Machines identified in [Operation Promotion video](https://www.youtub
   {{< wiki-link "Dook Larue (Animatronic)" >}}                      7-80 2-6        Unknown
   {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   7-80 3-6        In Storage
   {{< wiki-link "Beach Bear (Animatronic)" >}}                      7-80 4-6        Unknown
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                7-80 5-6        Owned by Sully.^(7)^
+  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                7-80 5-6        Owned by Sully.<sup>(7)</sup>
   {{< wiki-link "Billy Bob (Animatronic)" >}}                       7-80 6-6        Unknown
   {{< wiki-link "Looney Bird (Animatronic)" >}}                     7-80 7-6        In Storage
   {{< wiki-link "Choo Choo (Animatronic)" >}}                       7-80 8-6        Unknown

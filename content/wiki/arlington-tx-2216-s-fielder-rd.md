@@ -9,7 +9,7 @@ latitudeLongitude = ["32.70600557", "-97.13506548"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***Arlington, TX (2216 S Fielder Rd), Store #416, was* a *Pizza Time Theatre* that opened in October 1980 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed on March 17, 2024, after nearly 44 years in operation.^(1)^
+***Arlington, TX (2216 S Fielder Rd), Store #416, was* a *Pizza Time Theatre* that opened in October 1980 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed on March 17, 2024, after nearly 44 years in operation.<sup>(1)</sup>
 The location was the first Pizza Time Theatre to be opened in the state of Texas and would regularly be visited by CEC for various media and training purposes.
 This location was commonly confused with the {{< wiki-link "Arlington, TX (3200 Justiss Dr)" >}} location, which opened as a *ShowBiz Pizza Place.***
 
@@ -55,11 +55,11 @@ In 1997 when they installed the 2-Stage they would remove the play area and push
 ### Failed Concepts
 
 This store was also the first to test the live Chuck E. Cheese performance concept; using a somewhat articulated Chuck E. Cheese head specially made for the performance where its mouth would be articulatedhttps://showbizpizza.com/info/documents/spt/spt_87entertainment.pdf.
-The location would start to test 'Surprises' around 1987. Surprises were animatronics placed around the store that would have a sensor that would activate it, making it tell a joke, pun, or compliment. At the same time, a showroom remodel was being considered that would completely overhaul the general effect it would give. The concept for this was called 'Chuck E.'s Town Square', where the showroom would be transformed into a miniature town square with buildings.^(0)^ It was unknown if the concept made it to Arlington or not due to how undocumented it was.
+The location would start to test 'Surprises' around 1987. Surprises were animatronics placed around the store that would have a sensor that would activate it, making it tell a joke, pun, or compliment. At the same time, a showroom remodel was being considered that would completely overhaul the general effect it would give. The concept for this was called 'Chuck E.'s Town Square', where the showroom would be transformed into a miniature town square with buildings.<sup>(0)</sup> It was unknown if the concept made it to Arlington or not due to how undocumented it was.
 
 ### Chuck E. Cheese University
 
-A little to known fact about this location was that this store houses a back room known as 'Chuck E. Cheese's University" where managers and technicians from around the country would be trained. For technicians, a full {{< wiki-link "Classic Stage" >}} would be placed back there to train them, while higher-ups watched through a one-way mirror. Later on, this room would house the {{< wiki-link "Awesome Adventure Machine" >}} to be finalized and programmed before making its way to the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} location.^(2)^ As of now this room was still within the location, however, it was used for storage.
+A little to known fact about this location was that this store houses a back room known as 'Chuck E. Cheese's University" where managers and technicians from around the country would be trained. For technicians, a full {{< wiki-link "Classic Stage" >}} would be placed back there to train them, while higher-ups watched through a one-way mirror. Later on, this room would house the {{< wiki-link "Awesome Adventure Machine" >}} to be finalized and programmed before making its way to the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} location.<sup>(2)</sup> As of now this room was still within the location, however, it was used for storage.
 
 ## Arcade Machines
 
@@ -136,7 +136,7 @@ A little to known fact about this location was that this store houses a back roo
   {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}            Unknown                       Sent to the store's backrooms after removal, now unknown after store closure.
   {{< wiki-link "Mr Munch (Cyberamic)" >}}                          Unknown                       Sent to the store's backrooms after removal, now unknown after store closure.
   {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}                    Unknown                       Sent to the store's backrooms after removal, now unknown after store closure.
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                         Unknown                       Sent to the store's backrooms after removal. Displayed with legs at the {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}} {{< wiki-link "Chuck's Arcade" >}} in June 2025.^(3)^
+  {{< wiki-link "Pasqually (Cyberamic)" >}}                         Unknown                       Sent to the store's backrooms after removal. Displayed with legs at the {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}} {{< wiki-link "Chuck's Arcade" >}} in June 2025.<sup>(3)</sup>
   {{< wiki-link "Warblettes (Cyberamic)" >}}                        N/A                           Unknown
   Waving Flags (Cyberamic)                                              Unknown                       Unknown
   {{< wiki-link "Applause Board (Cyberamic)" >}}                    Unknown                       Unknown

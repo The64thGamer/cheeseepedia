@@ -14,7 +14,7 @@ It was the first stage that utilized full-bodied Chuck E, Helen, and Jasper Cybe
 
 ## History
 
-In 1986, new stage concepts were created to introduce full-bodied Cyberamics in ShowBiz Pizza Time's current and future locations. The original premise was a general store that allowed for Chuck E, Jasper, and Helen to be given legs. Munch and Pasqually would be mounted upon barrels, not unlike the final product.^(1)^ This premise would eventually be retooled into a house structure, retaining the original Pizza Time Players character placements, and with the addition of foliage.
+In 1986, new stage concepts were created to introduce full-bodied Cyberamics in ShowBiz Pizza Time's current and future locations. The original premise was a general store that allowed for Chuck E, Jasper, and Helen to be given legs. Munch and Pasqually would be mounted upon barrels, not unlike the final product.<sup>(1)</sup> This premise would eventually be retooled into a house structure, retaining the original Pizza Time Players character placements, and with the addition of foliage.
 The stage was designed by SPT Director of Entertainment, Jul Kamen. Corman and Associates would fabricate the house in two sizes:
 
 - 10' 6', with the price of $9,600

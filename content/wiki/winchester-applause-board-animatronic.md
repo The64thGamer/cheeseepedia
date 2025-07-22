@@ -11,7 +11,7 @@ pageThumbnailFile = "axlDoRl_1mYVUIiO5mw6.avif"
 unitsProduced = "1"
 manufacturer = "Fantasy Forest"
 +++
-The ***Winchester Applause Board* was an animatronic created by {{< wiki-link "Fantasy Forest" >}} in 1977 for the first *Pizza Time Theatre* on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}^(1)^. the bot was programmed using the {{< wiki-link "Winchester Hardware Setup" >}} & Controlled using the {{< wiki-link "Winchester Control System" >}}.
+The ***Winchester Applause Board* was an animatronic created by {{< wiki-link "Fantasy Forest" >}} in 1977 for the first *Pizza Time Theatre* on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}<sup>(1)</sup>. the bot was programmed using the {{< wiki-link "Winchester Hardware Setup" >}} & Controlled using the {{< wiki-link "Winchester Control System" >}}.
 The Bot was removed when Winchester closed in 1985 & sent to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} where it remained until the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.**
 
 ## History

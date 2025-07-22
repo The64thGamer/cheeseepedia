@@ -13,10 +13,10 @@ citations = ["[https://creativeengineering.bigcartel.com/](%22https://creativeen
 ## Production
 
 This poster was one of the few Rock-Afire Explosion parody posters released in 1988. Once {{< wiki-link "Concept Unification" >}} began this poster would cease production in 1990.
-This poster has been re-released by Creative Engineering after Concept Unification after mass fanfare for the Rock-afire Explosion has been ignited in the 2000s.^(1)^
+This poster has been re-released by Creative Engineering after Concept Unification after mass fanfare for the Rock-afire Explosion has been ignited in the 2000s.<sup>(1)</sup>
 
 ## Design
 
-The poster is a parody of the [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(film)) movie poster from 1977.^(2)^
+The poster is a parody of the [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(film)) movie poster from 1977.<sup>(2)</sup>
 This piece details Duke LaRue as Luke Skywalker, Mitzi Mozzarella as Princess Leia, Billy Bob and Beach Bear as C-3PO and R2-D2.
-As completely new art was created for the characters, Billy Bob utilizes a stock pose.^(3)^
+As completely new art was created for the characters, Billy Bob utilizes a stock pose.<sup>(3)</sup>

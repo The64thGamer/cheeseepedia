@@ -13,8 +13,8 @@ categories = ["Creative Engineering"]
 
 ## History
 
-Originally, Elfis was planned to be on a balcony on the left side of the stage, but it was later changed to appear in the middle^(1)^, he was then installed in 1977 in Santa's Village (Jefferson, New Hampshire) by creative engineerin ^(2)^ for the first full show that they developed, where he operated until 2015/2016.
-In 2006, the animatronics were replaced by ones created by Advanced Animations, but the showtape wasn't replaced.^(3)^
+Originally, Elfis was planned to be on a balcony on the left side of the stage, but it was later changed to appear in the middle<sup>(1)</sup>, he was then installed in 1977 in Santa's Village (Jefferson, New Hampshire) by creative engineerin <sup>(2)</sup> for the first full show that they developed, where he operated until 2015/2016.
+In 2006, the animatronics were replaced by ones created by Advanced Animations, but the showtape wasn't replaced.<sup>(3)</sup>
 
 ## Design
 

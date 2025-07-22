@@ -15,11 +15,11 @@ This store underwent {{< wiki-link "Concept Unification" >}} around 1991, and wa
 
 ## History
 
-Visalia opened May 2, 1983 as ShowBiz Pizza Place in the Mineral King Plaza, They would later end up receiving the {{< wiki-link "SPT 1980's Remodel Program" >}}.^(1)^ In 1991, Visalia's animatronics received {{< wiki-link "Concept Unification" >}}. Visalia underwent another remodel in the Mid-Late 1990's which involved the removal of the Neon Signage, Blue and White Awnings, & checkers around the store. In 2006, Visalia received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removing all 1990's store art, Balcony Seating, Showroom Walls, & adding purple walls. In 2014, Visalia received the 2010 Update to the {{< wiki-link "CEC 2000's Remodel Program" >}}. In February 2024, Visalia started its 2.0 refresh remodel, and have since removed its 3-Stage. As of April 2024, Visalia still has the Dance Floor and Video Wall and the refresh remodel.
+Visalia opened May 2, 1983 as ShowBiz Pizza Place in the Mineral King Plaza, They would later end up receiving the {{< wiki-link "SPT 1980's Remodel Program" >}}.<sup>(1)</sup> In 1991, Visalia's animatronics received {{< wiki-link "Concept Unification" >}}. Visalia underwent another remodel in the Mid-Late 1990's which involved the removal of the Neon Signage, Blue and White Awnings, & checkers around the store. In 2006, Visalia received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which removing all 1990's store art, Balcony Seating, Showroom Walls, & adding purple walls. In 2014, Visalia received the 2010 Update to the {{< wiki-link "CEC 2000's Remodel Program" >}}. In February 2024, Visalia started its 2.0 refresh remodel, and have since removed its 3-Stage. As of April 2024, Visalia still has the Dance Floor and Video Wall and the refresh remodel.
 
 ## Stages
 
-Originally when the store opened, they had a {{< wiki-link "Classic Stage" >}}, as all other ShowBiz locations had. In around 1991, the store would undergo Concept Unification, turning the RAE into {{< wiki-link "Concept Unification Stage" >}}. In 2004^(2)^, Chuck's Tux & Derby were replaced with the Cool Chuck outfit & also received 3-Stage Jasper shoes; Not long after, Moon and Pizzacam were removed. Chuck's cap was removed in September 2013. On February 4, 2024, the 3-Stage was removed.
+Originally when the store opened, they had a {{< wiki-link "Classic Stage" >}}, as all other ShowBiz locations had. In around 1991, the store would undergo Concept Unification, turning the RAE into {{< wiki-link "Concept Unification Stage" >}}. In 2004<sup>(2)</sup>, Chuck's Tux & Derby were replaced with the Cool Chuck outfit & also received 3-Stage Jasper shoes; Not long after, Moon and Pizzacam were removed. Chuck's cap was removed in September 2013. On February 4, 2024, the 3-Stage was removed.
 
   Stage                                                      Installed       Removed            Notes
   ---------------------------------------------------------- --------------- ------------------ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -33,7 +33,7 @@ Originally when the store opened, they had a {{< wiki-link "Classic Stage" >}}, 
   Animatronic                                                           Serial Number   Whereabouts
   --------------------------------------------------------------------- --------------- ------------------------------------------------------
   {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   4-82 1-10       Destroyed / Thrown Away
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      4-82 2-10       Destroyed / Thrown Away, hand owned by ItzaRob.^(3)^
+  {{< wiki-link "Dook Larue (Animatronic)" >}}                      4-82 2-10       Destroyed / Thrown Away, hand owned by ItzaRob.<sup>(3)</sup>
   {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   4-82 3-10       Destroyed / Thrown Away
   {{< wiki-link "Beach Bear (Animatronic)" >}}                      4-82 4-10       Destroyed / Thrown Away
   {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                4-82 5-10       Destroyed / Thrown Away

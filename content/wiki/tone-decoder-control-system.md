@@ -26,4 +26,4 @@ As the precision of tone detection using analog electronics is relatively limite
 
 ## Contemporary usage
 
-Advancements in show control technology rendered tone-based systems obsolete by the 1980s. Notably, however, the Animatronics Experimenter's Kit includes two tone decoder modules.^(1)(2)^ These modules are believed to roughly follow the original CEI design with minor differences.
+Advancements in show control technology rendered tone-based systems obsolete by the 1980s. Notably, however, the Animatronics Experimenter's Kit includes two tone decoder modules.<sup>(1)(2)</sup> These modules are believed to roughly follow the original CEI design with minor differences.

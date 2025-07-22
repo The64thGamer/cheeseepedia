@@ -15,5 +15,5 @@ The ***Winchester Pizza Time Orchestra* was an animatronic produced by {{< wiki-
 
 ## History
 
-The initial inspiration for the Drum Board would be between 1970-1971, when Nolan Bushnell would visit the local *Pizza & Pipes* restaurant in Redwood City for inspiration on his burgeoning arcade restaurant concept. While the visit mainly inspired the need to have entertainment alongside the food, the mechanically operated instruments would later make their way into the first location in 1977. It was seen on a shelf beside Jasper T. Jowls amongst random objects.^(1)^
-The setup appeared in the {{< wiki-link "PTT Franchise Brochure (1979)" >}}, were they are referred as Drums & 'Noisemakers'. They were either removed when the store received {{< wiki-link "Cyberamics" >}} or when it store closed in February of 1985.^(2)^
+The initial inspiration for the Drum Board would be between 1970-1971, when Nolan Bushnell would visit the local *Pizza & Pipes* restaurant in Redwood City for inspiration on his burgeoning arcade restaurant concept. While the visit mainly inspired the need to have entertainment alongside the food, the mechanically operated instruments would later make their way into the first location in 1977. It was seen on a shelf beside Jasper T. Jowls amongst random objects.<sup>(1)</sup>
+The setup appeared in the {{< wiki-link "PTT Franchise Brochure (1979)" >}}, were they are referred as Drums & 'Noisemakers'. They were either removed when the store received {{< wiki-link "Cyberamics" >}} or when it store closed in February of 1985.<sup>(2)</sup>

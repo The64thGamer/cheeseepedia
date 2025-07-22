@@ -21,19 +21,19 @@ However, Bushnell and his marketing team had some initial disagreements about th
 > *'My marketing department just had a shitfit: 'You can't call a restaurant a rat place! People think rats are dirty. It's not going to work.'*
 > *But what if he is a rat but you don't call him a rat, I suggested. 'You name it,' I told them. 'I don't give a shit what it is. But it has to be happy.' A week later, they said, we got the name. And not only is it happy, it's triple happy: Chuck E. Cheese, you can't say each one of those without smiling.*'
 
-And so, the name 'Chuck E. Cheese' came to be ^(1)^.
+And so, the name 'Chuck E. Cheese' came to be <sup>(1)</sup>.
 
 ### Pizza Time Theatre
 
-From as early as 1977, Chuck E. was referred to as 'The Big C' ^(2)^. Originally portrayed by John Widelock, early media characterized Chuck E. as a New Jersey-born mouse with a 'street wise' personality.
-Chuck E. sported a red and black plaid vest with a red and yellow derby hat, and microphone, as seen on his {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} iteration. Modifications to his animatronic characterization featured an alternate pattern for the vest, and a cigar, which Chuck held until 1980 when he gave it up as part of the 'Great American Smoke-Out' ^(3)^.
+From as early as 1977, Chuck E. was referred to as 'The Big C' <sup>(2)</sup>. Originally portrayed by John Widelock, early media characterized Chuck E. as a New Jersey-born mouse with a 'street wise' personality.
+Chuck E. sported a red and black plaid vest with a red and yellow derby hat, and microphone, as seen on his {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} iteration. Modifications to his animatronic characterization featured an alternate pattern for the vest, and a cigar, which Chuck held until 1980 when he gave it up as part of the 'Great American Smoke-Out' <sup>(3)</sup>.
 Chuck E.'s clothing was further simplified over time into the iconic red vest which matched his red derby hat.
-Chuck E. was also not much of a singer, which was alluded to heavily in the 1979 comic 'Rat Tales' ^(4)^. In 1983, Pizza Time Theatre had been working on a Christmas special, 'The Christmas That Almost Wasn't,' which was to air on NBC. Due to his inability to sing, John Widelock was replaced by Scott Wilson, who provided the following story to fans:
+Chuck E. was also not much of a singer, which was alluded to heavily in the 1979 comic 'Rat Tales' <sup>(4)</sup>. In 1983, Pizza Time Theatre had been working on a Christmas special, 'The Christmas That Almost Wasn't,' which was to air on NBC. Due to his inability to sing, John Widelock was replaced by Scott Wilson, who provided the following story to fans:
 
 > *'...so, I had just finished doing [voices of](the) all the elves, of the background of the song (sic.), and [Bushnell](Nolan) turns to me and goes 'can you sing that?' and I go 'yeah,' so I go out there and nailed it in one take.*
 > *And Nolan -- meanwhile, John [Widelock](Widelock) standing in back of Nolan, Nolan standing with all the Disney guys and the engineers at Chuck E. Cheese at the studio at that time, and [he](he) said, 'That's my new Chuck E. Cheese.*''
 
-Scott Wilson portrayed Chuck E. in a friendlier fashion and remained through Pizza Time Theatre's bankruptcy and merger with ShowBiz Pizza Place ^(5)^.
+Scott Wilson portrayed Chuck E. in a friendlier fashion and remained through Pizza Time Theatre's bankruptcy and merger with ShowBiz Pizza Place <sup>(5)</sup>.
 
 ### ShowBiz Pizza Time
 
@@ -54,7 +54,7 @@ Per 1993's 'Chuck E. Cheese's Magical Wardrobe' manual:
 #### Mid-1990's
 
 The mid-1990's was a transitional phase for Chuck E. and the company itself, as it distanced itself from the ShowBiz name. Scott Wilson was replaced by Duncan Brannan as the voice of Chuck E. in 1993.
-A trademark guideline document prepared in 1994 establishes that his middle name is 'Entertainment,' and that his role is that of a 'coach,' or 'big brother' to the neighborhood kids ^(6)^. Meanwhile, Chuck E. could still be spotted in his tuxedo, vest, or coach outfit across locations and media.
+A trademark guideline document prepared in 1994 establishes that his middle name is 'Entertainment,' and that his role is that of a 'coach,' or 'big brother' to the neighborhood kids <sup>(6)</sup>. Meanwhile, Chuck E. could still be spotted in his tuxedo, vest, or coach outfit across locations and media.
 
 ### Chuck E. Cheese's
 
@@ -62,16 +62,16 @@ A trademark guideline document prepared in 1994 establishes that his middle name
 
 1997 was a pivotal time for the soon-to-be CEC Entertainment, who had been focused on creating an animatronic show solely based around Chuck E. -- initial experimentation of this idea led itself to the development and testing of the {{< wiki-link "Awesome Adventure Machine" >}}, and ultimately, {{< wiki-link "Studio C" >}}.
 Chuck E. was a new rodent. Chuck E.'s Studio C debut featured him in a red and black checkered vest and a red cap with the letter 'C' printed on it. The updated Chuck E. animatronic and outfit was designed by Garner Holt. Jeremy Blaido briefly provided his voice to Chuck E. for the Studio C Premiere (Final Ver)|Studio C Premiere. From this point, Duncan Brannan's vocal performance of Chuck E. had shifted towards that of a more youthful and hip sounding mouse.
-2002's 'CEC Star Cast Member Handbook' features similar copy to that of the 1993 'Magical Wardrobe' manual ^(7)^, characterizing Chuck E. as the 'champion of kids,' and as having 'street smarts... charisma and appeal.'
+2002's 'CEC Star Cast Member Handbook' features similar copy to that of the 1993 'Magical Wardrobe' manual <sup>(7)</sup>, characterizing Chuck E. as the 'champion of kids,' and as having 'street smarts... charisma and appeal.'
 Although Chuck E. was redesigned for Studio C, it was inconsistent with how his character was represented, as documented in various media through the late 1990's and early 2000's (commercials, merchandise, animatronics, walkaround costumes, and even the restaurant's logo).
-According to a 2004 vendor tag, and a 2006 Costume Character guide, various looks for Chuck existed including 'Avenger,' 'Chuck Shirt,' and a 'Soccer Outfit.' The 'Avenger' costume was the most common costume used across locations, and so the costume has become synonymous with the era ^(8)^. However, 'Cool Chuck' first appeared in commercials as early as 1997, predating Studio C ^(9)^ ^(10)^.
+According to a 2004 vendor tag, and a 2006 Costume Character guide, various looks for Chuck existed including 'Avenger,' 'Chuck Shirt,' and a 'Soccer Outfit.' The 'Avenger' costume was the most common costume used across locations, and so the costume has become synonymous with the era <sup>(8)</sup>. However, 'Cool Chuck' first appeared in commercials as early as 1997, predating Studio C <sup>(9)</sup> <sup>(10)</sup>.
 
 #### 'Rockstar'
 
-In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press ^(11)^. Due to declining revenue, CEC Entertainment sought to give Chuck E. a makeover, shrinking him down into a guitar-playing life-size mouse. The initial design was conceptualized by Chris Ayers, which featured a yellow and red shirt, and the new voice of Chuck E. was provided by Jaret Reddick, the lead singer of 'Bowling for Soup.'
+In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press <sup>(11)</sup>. Due to declining revenue, CEC Entertainment sought to give Chuck E. a makeover, shrinking him down into a guitar-playing life-size mouse. The initial design was conceptualized by Chris Ayers, which featured a yellow and red shirt, and the new voice of Chuck E. was provided by Jaret Reddick, the lead singer of 'Bowling for Soup.'
 Chuck E.'s updated look launched in late-2012, featuring a purple and green shirt akin to the 'Cool Chuck' design. Despite the new update design, Cool Chuck was still seen in the company in some form even after Rockstar Chuck was launched. For example, the 2004 Cool Thumb Chuck exterior sign was still seen on new locations into fall of 2012, his walkaround and design were still seen on Rockstar showtapes up to {{< wiki-link "Summer 2013 Show" >}}, his likeness was still seen on some pre-Rockstar Chuck E. Cheese branded arcade machines, the Cool Chuck ({{< wiki-link "CEC 2000's Remodel Program" >}}) remodel was still installed in some locations up to 2015 (the last store to get it was in {{< wiki-link "Billings, MT (100 24th St)" >}}), and was still seen on Ticket Blasters up to 2017.
-A revised marketing document released in 2014 provided insight on the updated character, which describes Chuck E. as an orphan who found solace in celebrating birthdays with others. His love for birthdays and video games inspired him to move to New York City, in which he entertained others in a restaurant owned by {{< wiki-link "Pasqually" >}} ^(12)^.
-Voice work for Chuck E. was also provided by John Mondelli for international promotions in Oud Metha, Dubai, UAE, including 'Fun is Healthy' and 'Funny Face Challenge' ^(13)^ ^(14)^.
+A revised marketing document released in 2014 provided insight on the updated character, which describes Chuck E. as an orphan who found solace in celebrating birthdays with others. His love for birthdays and video games inspired him to move to New York City, in which he entertained others in a restaurant owned by {{< wiki-link "Pasqually" >}} <sup>(12)</sup>.
+Voice work for Chuck E. was also provided by John Mondelli for international promotions in Oud Metha, Dubai, UAE, including 'Fun is Healthy' and 'Funny Face Challenge' <sup>(13)</sup> <sup>(14)</sup>.
 
 ## Animatronics
 

@@ -16,7 +16,7 @@ This was the last Awesome Adventure Machine showtape, but wasn't programmed or p
 
 ## Production:
 
-'Deep Freeze' was written by Steve White and recorded by Brave Combo^(1)^. Steve kept the [script](http://showbizpizza.com/info/documents/spt/spt_deepfreezescript.pdf) and [scratch vocals](https://www.youtube.com/watch?v=ETqTbv95hBQ) for this song and released them to fans in 2020.
+'Deep Freeze' was written by Steve White and recorded by Brave Combo<sup>(1)</sup>. Steve kept the [script](http://showbizpizza.com/info/documents/spt/spt_deepfreezescript.pdf) and [scratch vocals](https://www.youtube.com/watch?v=ETqTbv95hBQ) for this song and released them to fans in 2020.
 
 ## Show List:
 

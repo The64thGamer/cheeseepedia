@@ -31,7 +31,7 @@ In April of 2001 a major change would come for all Jasper bots in stores. Their 
 ## Design
 
 The bot is a white bear in surfing attire, sitting on a surfboard on top of a tree stump. A silver guitar is in his hands in which he plays during performances. His movements are mainly focused on enhancing the animation of him playing his guitar, with him being able to rock back, lift his head up, cross his eyes, fling his legs up in the air, and lift the head of the guitar up and down while strumming it.
-Originally, Beach Bear wore a blonde wig on his head in all ShowBiz locations. This remained the case until May 1984 when Aaron Fechter, CEO of CEI, decided that removing the wig would improve the appearance of the character. A letter was sent to all ShowBiz restaurants requesting that Beach Bear's wig be removed, and he remained that way until Concept Unification^(1)^.
+Originally, Beach Bear wore a blonde wig on his head in all ShowBiz locations. This remained the case until May 1984 when Aaron Fechter, CEO of CEI, decided that removing the wig would improve the appearance of the character. A letter was sent to all ShowBiz restaurants requesting that Beach Bear's wig be removed, and he remained that way until Concept Unification<sup>(1)</sup>.
 
 ## Mechanical Structure
 

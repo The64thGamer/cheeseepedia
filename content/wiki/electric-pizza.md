@@ -13,9 +13,9 @@ Only a few of the cabinets were ever produced, and allegedly the only one ever s
 
 ## eBay Listing
 
-The only proof of the existence of this machine was from an eBay Listing^(1)^ from 2013. The seller, *crazyforet*^(2)^, put up a listing with a starting bid of $250, and $200 shipping. The sale ended on June 4, 2013 with no bids. It was relisted later on at a lower starting bid, ending with only a single bid on July 8, 2013, for $199^(3)^. The cabinet was located in Napa, California, possibly meaning it came from a nearby *Pizza Time Theatre* location.
+The only proof of the existence of this machine was from an eBay Listing<sup>(1)</sup> from 2013. The seller, *crazyforet*<sup>(2)</sup>, put up a listing with a starting bid of $250, and $200 shipping. The sale ended on June 4, 2013 with no bids. It was relisted later on at a lower starting bid, ending with only a single bid on July 8, 2013, for $199<sup>(3)</sup>. The cabinet was located in Napa, California, possibly meaning it came from a nearby *Pizza Time Theatre* location.
 
-#### Archive of the condition:^(0)^
+#### Archive of the condition:<sup>(0)</sup>
 
     "In good decent condition, Bottom edge has some deteration (particle board)Size: 45' tall x 19' wide x 18' wide"
 

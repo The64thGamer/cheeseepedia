@@ -20,7 +20,7 @@ Originally, Knoxville featured a Rock-Afire Explosion, as all other ShowBiz loca
 
 Knoxville opened on August 23rd, 1982 as the second ShowBiz Pizza Place in Tennessee, opening two months after the {{< wiki-link "Madison, TN (2070 Gallatin Pike)" >}} location. Knoxville originally featured the Rock-Afire Explosion, as all other ShowBiz locations did.
 In 1991 the location would remodel for the first time under the newly formed 1986 SPT Remodel Program. The location would remain this way until it's closure in Summer 1997.
-After closure, the store was demolished for Texas Roadhouse. As of April 2023, Texas Roadhouse still sits on the site where the location once stood. However, a new location^(1)^ would open down the road as freestanding building with a {{< wiki-link "1-Stage" >}}.
+After closure, the store was demolished for Texas Roadhouse. As of April 2023, Texas Roadhouse still sits on the site where the location once stood. However, a new location<sup>(1)</sup> would open down the road as freestanding building with a {{< wiki-link "1-Stage" >}}.
 
 ## Animatronics
 

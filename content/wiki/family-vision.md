@@ -9,12 +9,12 @@ citations = ["", "[https://www.newspapers.com/image/99516545/?clipping_id=920763
 tags = ["Remodels and Initiatives"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***Family Vision* were a collection of monthly Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984.^(1)^
-The tapes would provide video entertainment to guests during the downtime between showtape segments. ^(2)^ The videos would be projected onto a screen that would automatically come down once a show ended. The tapes themselves were charged at $55 a month once a store agreed to be in the program.**
+***Family Vision* were a collection of monthly Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984.<sup>(1)</sup>
+The tapes would provide video entertainment to guests during the downtime between showtape segments. <sup>(2)</sup> The videos would be projected onto a screen that would automatically come down once a show ended. The tapes themselves were charged at $55 a month once a store agreed to be in the program.**
 
 ## History
 
-The tapes were produced mainly by *Sight & Sound Entertainment Corporation*, under their *Video Pool*^(1)^ line. Video Pool had been around on Betamax tapes since March of 1984, published to other vendors, with *Sight & Sound* being an intermediary for handling the mass tape production and acquisition of copyrighted video material. Each tape would be around 30 minutes long, and were produced until Cyberstar fully took over all *ShowBiz* locations in late 1989. Some of the early tapes seemed to have *Dallas Tapes* on their label, but it is unclear their involvement in the project.
+The tapes were produced mainly by *Sight & Sound Entertainment Corporation*, under their *Video Pool*<sup>(1)</sup> line. Video Pool had been around on Betamax tapes since March of 1984, published to other vendors, with *Sight & Sound* being an intermediary for handling the mass tape production and acquisition of copyrighted video material. Each tape would be around 30 minutes long, and were produced until Cyberstar fully took over all *ShowBiz* locations in late 1989. Some of the early tapes seemed to have *Dallas Tapes* on their label, but it is unclear their involvement in the project.
 
 ## Tapes
 

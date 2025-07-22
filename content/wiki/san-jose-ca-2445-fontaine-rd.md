@@ -24,7 +24,7 @@ In the 2010s, the {{< wiki-link "Interactive Console" >}} and Blue Screen camera
 
 ### Pizza Time Theatre
 
-In 1974, the building opened as Magic Village Toy Store. It featured three giant toy soldiers enclosed in giant display windows. It gained a reputation for being such a large toy store. A local legend about the store told that a girl tragically once died from falling from the store's third floor. Locals said that the ghost of the girl haunts the building to this day.^(1)^ It went out of business sometime in the 1970s and briefly became a discotheque before reopening as a PTT in 1981.
+In 1974, the building opened as Magic Village Toy Store. It featured three giant toy soldiers enclosed in giant display windows. It gained a reputation for being such a large toy store. A local legend about the store told that a girl tragically once died from falling from the store's third floor. Locals said that the ghost of the girl haunts the building to this day.<sup>(1)</sup> It went out of business sometime in the 1970s and briefly became a discotheque before reopening as a PTT in 1981.
 The location had a vast kiddie area, being one of the few locations to feature Chuck E.'s Play N' Place and a large under-the-sea themed ball-pit area that featured Chuck E. Cheese's Tinker Towers.
 
 #### Chuck E. Cheese Statue
@@ -35,7 +35,7 @@ The finished statue was of Chuck E. Cheese sitting on a large block of cheese ho
 
 > *'About twenty five years ago I visited the Pizza Time Theatre (Chuck E. Cheese started out as Pizza Time Theatre) corporate offices looking for work. I had heard that they were working with audio animatronic characters and I thought that I might fit in with their design and engineering staff. Armed with my sculpture portfolio I was brought before their lead engineer and after a brief interview was told that I didn't have the skill set to be a member of his team.*
 > *However, Pizza Time Theatre had just purchased a new building to be used as a restaurant and training facility and it so happened that on the outside of this building there was (and still is) a 40 foot tall, semi-circular window. The next thing I knew I was sitting down with Nolan Bushnell and the Pizza Time executives and they were asking if I would like to build a 30-foot-tall Chuck E. Cheese for their new building! Never having done anything on this scale before, my answer was a resounding, "SURE, I can do it!"*
-> *I actually had no idea how; I'd figure that out later. Six months and 5,000 pounds of polyurethane foam and fiberglass later, I had the dubious distinction of building the largest pizza-eating rat in the world along with 8 bronze desktop versions for Nolan and his executives.' -* Jeff Tritel ^(0)^
+> *I actually had no idea how; I'd figure that out later. Six months and 5,000 pounds of polyurethane foam and fiberglass later, I had the dubious distinction of building the largest pizza-eating rat in the world along with 8 bronze desktop versions for Nolan and his executives.' -* Jeff Tritel <sup>(0)</sup>
 
 #### Training Center & Test Kitchen / CEC University
 
@@ -43,11 +43,11 @@ Shortly after opening, the store would be the exclusive host of the {{< wiki-lin
 
 #### Disney's Cease and Desist
 
-Around the restaurant were several unique murals. Some relocated from one of Pizza Time Theatre's costume departments. One of these murals, 'Royal Order of Rodents', featured characters outside of Pizza Time Theatres ownership. The most notable of these are Mickey and Minnie Mouse. On October 13, 1989, Someone took a photo and sent it to Disney and they sent the location a cease and desist, causing them to remove the mural immediately (Disney is known for their legal department). The mural was meant to be thrown away, but an employee hid it away to prevent its destruction. During a remodel, the other murals were removed as well and hidden away by the same employee. They are now displayed out of the public eye on the third floor with the cease and desist letter next to the infamous mural.^(2)^
+Around the restaurant were several unique murals. Some relocated from one of Pizza Time Theatre's costume departments. One of these murals, 'Royal Order of Rodents', featured characters outside of Pizza Time Theatres ownership. The most notable of these are Mickey and Minnie Mouse. On October 13, 1989, Someone took a photo and sent it to Disney and they sent the location a cease and desist, causing them to remove the mural immediately (Disney is known for their legal department). The mural was meant to be thrown away, but an employee hid it away to prevent its destruction. During a remodel, the other murals were removed as well and hidden away by the same employee. They are now displayed out of the public eye on the third floor with the cease and desist letter next to the infamous mural.<sup>(2)</sup>
 
 ### Chuck E. Cheese's
 
-Roughly around 1991, the location was remodeled into Chuck E. Cheese's Pizza as part of the 1986 SPT Remodel Program. At this time, Fontaine also received customized multi-colored booths and interior décor. In 1992 the location is featured in two pieces of official media from ShowBiz Pizza Time's Entertainment Department. The first of which is a tape for employees that summited footage of various live performances.^(3)^ Then as part of SPT filming in California, they visited the Fontaine location to feature in 'Little Red Corvette'.^(4)^
+Roughly around 1991, the location was remodeled into Chuck E. Cheese's Pizza as part of the 1986 SPT Remodel Program. At this time, Fontaine also received customized multi-colored booths and interior décor. In 1992 the location is featured in two pieces of official media from ShowBiz Pizza Time's Entertainment Department. The first of which is a tape for employees that summited footage of various live performances.<sup>(3)</sup> Then as part of SPT filming in California, they visited the Fontaine location to feature in 'Little Red Corvette'.<sup>(4)</sup>
 In December 2000 the location became one of the last to receive a brand new remodel from the 1994 SPT Repositioning / Remodel Program|1994 SPT Remodel Program. When {{< wiki-link "Skytubes" >}} were introduced to this location they originally cut through the wall above the 2-Stage, giving a top-down view of the showroom for people inside, however In 2007 the Toddler Zone from {{< wiki-link "Phase 3 (2000)" >}} and the {{< wiki-link "Skytubes" >}} would be removed due to a guest lack of interest. In May 2007 fan convention Cheese-Vention 4 is held at this location. Some of the posters, the Photo Ride car, and the store's Chuck E. bot would be added to the windows in front of the store.
 In December 2018, Fontaine started their 2.0 remodel, being completed later in 2019. This would be the final United States location to receive a {{< wiki-link "Circles of Light" >}} show. Some of the store's Phase III art would be left there. Two Ticket Blasters would be placed in front of the COL stage. The store would get a 2021 Model Dance Floor on March 2022.
 On March 26, 2023, the Chuck E. Cheese Cyberamic character was discovered to be on display at Revival Collectibles in Grand Ledge, MI. The animatronic isn't for sale as of now.
@@ -55,7 +55,7 @@ On December 24th, 2023, it was discovered that the store began installation on a
 
 #### Store Number
 
-According to chuckecheese.com Fontaine Rd. was ***Store #206* in 2009.^(5)^ It was renumbered to ***Store #3001* when Corporate renumbered franchised stores to four-digit numbers in 2010. The ***#206* number would be reused for the {{< wiki-link "Valley Stream, NY (750 Sunrise Highway Suite 105)" >}} location, which opened on February 5, 2024.******
+According to chuckecheese.com Fontaine Rd. was ***Store #206* in 2009.<sup>(5)</sup> It was renumbered to ***Store #3001* when Corporate renumbered franchised stores to four-digit numbers in 2010. The ***#206* number would be reused for the {{< wiki-link "Valley Stream, NY (750 Sunrise Highway Suite 105)" >}} location, which opened on February 5, 2024.******
 
 #### COVID 19
 

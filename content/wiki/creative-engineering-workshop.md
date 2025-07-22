@@ -24,4 +24,4 @@ The move from the {{< wiki-link "Orlando, FL (47 W Jefferson St)" >}} to the wor
 
 ## Building Specs
 
-The building was created in 1985 and consists of one story with 5,760 square feet interior space. The lot is 6.77 acres and is designated a specialty property type. The building comes equipped with a kitchen featuring a 6ft hood, wet bar, screen room, and two out-buildings. The building's parcel number is 03-12-27-0000-0260-0060.^(1)^
+The building was created in 1985 and consists of one story with 5,760 square feet interior space. The lot is 6.77 acres and is designated a specialty property type. The building comes equipped with a kitchen featuring a 6ft hood, wet bar, screen room, and two out-buildings. The building's parcel number is 03-12-27-0000-0260-0060.<sup>(1)</sup>

@@ -22,7 +22,7 @@ In 2023 the data system would switch over to the {{< wiki-link "Navori System" >
 
 ## History
 
-An early variation of the Cyberamic Control System is seen in the news video for the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} store, being the first to use it,^(1)^ The only visible hardware difference is the tape deck, being a TEAC A-2340, rather than the later TEAC X-7. The housing box is also designed differently.
+An early variation of the Cyberamic Control System is seen in the news video for the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} store, being the first to use it,<sup>(1)</sup> The only visible hardware difference is the tape deck, being a TEAC A-2340, rather than the later TEAC X-7. The housing box is also designed differently.
 The standard units would be produced for stores from early 1979 to November 1983.
 
 ### Upgrades
@@ -30,14 +30,14 @@ The standard units would be produced for stores from early 1979 to November 1983
 The {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would have their unit uniquely upgraded to support the {{< wiki-link "Cyberamics Betamax" >}} format in January of 1987.
 From 1988 to 1990, the unit would be upgraded using parts from Triad to support SVHS tapes with scrambled showtape signals, replacing the tape reading functionality. This would be named the Cyberstar (disambiguation)|Cyberstar upgrade to the unit.
 Somewhere around the late 80's to early 90's, some variant of upgrades would feature a yellow control panel. This would remove the volume knob, and move over the small metal power switch in its place- now becoming a large red switch.
-In 1993, the control system would see an upgrade to the original CPU to a 68HC11, alongside a new LCD display.^(2)^
+In 1993, the control system would see an upgrade to the original CPU to a 68HC11, alongside a new LCD display.<sup>(2)</sup>
 From 2005 to April 2008 the units would upgrade to replace the SVHS player with a DVD player.
 
 ## Parts
 
 ### Modified TEAC X-7 Tape Deck
 
-The system houses a modified TEAC X-7 tape deck that allows audio to be outputted even when in rewind mode.^(3)^ This is to allow the *Tape Start* {{< wiki-link "Data" >}} to be heard to automatically switch off rewind mode. The signal is around 21 hertz, but is sped up into an audible signal due to the X-7 rewind speed being 144IPS.^(4)^
+The system houses a modified TEAC X-7 tape deck that allows audio to be outputted even when in rewind mode.<sup>(3)</sup> This is to allow the *Tape Start* {{< wiki-link "Data" >}} to be heard to automatically switch off rewind mode. The signal is around 21 hertz, but is sped up into an audible signal due to the X-7 rewind speed being 144IPS.<sup>(4)</sup>
 
 ### CPU Assembly Card
 

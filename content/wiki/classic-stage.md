@@ -24,7 +24,7 @@ Early versions of the Rock-afire Explosion featured different masks, different f
 
 ## Klunk Stage
 
-In the summer of 1983, Uncle Klunk replaced Rolfe Dewolfe in various locations.^(1)^ This was temporary however, as Klunk was a rotating character. He was eventually phased out of locations in the mid 80's.
+In the summer of 1983, Uncle Klunk replaced Rolfe Dewolfe in various locations.<sup>(1)</sup> This was temporary however, as Klunk was a rotating character. He was eventually phased out of locations in the mid 80's.
 
 ## Santa Stage
 

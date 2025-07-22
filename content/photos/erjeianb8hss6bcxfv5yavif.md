@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " A giant Dragonfly hangs from the ceiling.^(2)^"
+description = " A giant Dragonfly hangs from the ceiling.<sup>(2)</sup>"
 +++

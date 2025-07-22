@@ -16,11 +16,11 @@ latitudeLongitude = ["40.95639647","-73.84480908"]
 
 ### Construction
 
-This location originally opened as a *Staples* in the Fall of 1999^(1)^. On March 6, 2014^(2)^, it was announced this Staples would be closing summer 2014. A few months later in winter 2015 the Staples property would be subdivided into a CVS Pharmacy which would open in Early 2015^(3)^. According to job listings, this CEC had been planned as early as Spring 2019. The unused half of the property would sit vacant until around April 2022, when construction began.
+This location originally opened as a *Staples* in the Fall of 1999<sup>(1)</sup>. On March 6, 2014<sup>(2)</sup>, it was announced this Staples would be closing summer 2014. A few months later in winter 2015 the Staples property would be subdivided into a CVS Pharmacy which would open in Early 2015<sup>(3)</sup>. According to job listings, this CEC had been planned as early as Spring 2019. The unused half of the property would sit vacant until around April 2022, when construction began.
 
 ### 2020s
 
-On September 3rd, 2022 after 5 months of construction the Chuck E. Cheese had officially opened, with the grand opening event happening on September 15th, 2022 with Mike Spano, the Mayor of Yonkers, coming out and declaring September 15th as Chuck E. Cheese Day in the City of Yonkers^(4)^. This store is a standard 2.0 remodel with the exterior having an angled exterior which would commonly be seen in the 2017 remodels and a few 2018 remodels. On the far right side of the exterior the black panels are originally from the staples exterior although now painted black.
+On September 3rd, 2022 after 5 months of construction the Chuck E. Cheese had officially opened, with the grand opening event happening on September 15th, 2022 with Mike Spano, the Mayor of Yonkers, coming out and declaring September 15th as Chuck E. Cheese Day in the City of Yonkers<sup>(4)</sup>. This store is a standard 2.0 remodel with the exterior having an angled exterior which would commonly be seen in the 2017 remodels and a few 2018 remodels. On the far right side of the exterior the black panels are originally from the staples exterior although now painted black.
 
 ## Stage
 

@@ -65,8 +65,8 @@ Of the four songs. two were new and two were reused. Additionally, the Birthday 
 ## Trivia:
 
 - 'My Family' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2019" >}} and 'Out of This World' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
-- This show is different from the originally planned Show 2 2020. The original new content CEC had planned for Show 2 2020 would have included a new Birthday show and two new songs ( 'Chuck E.'s Middle Name' and 'El Rey Guitarrista'). Two new Silly Songs were planned: 'Barbara the Barnyard Barber' and 'Get a Chuck E. Hug'. ^(1)^
+- This show is different from the originally planned Show 2 2020. The original new content CEC had planned for Show 2 2020 would have included a new Birthday show and two new songs ( 'Chuck E.'s Middle Name' and 'El Rey Guitarrista'). Two new Silly Songs were planned: 'Barbara the Barnyard Barber' and 'Get a Chuck E. Hug'. <sup>(1)</sup>
 - Barbara the Barnyard Barber was originally not meant to be programmed and was intended as just an intermission; this changed to account for the lockdown and was quickly programmed.
 - The song Chuck E.'s Middle name was eventually finished for {{< wiki-link "Chuck E Cheese's Show 2 2021" >}}.
-- The new Birthday Show was to be called 'Birthday Extravaganza' and it was to feature a five minute countdown with three Spots from Matt Daniel during the countdown. It was to use a combination of Show Motion GFX, and live videos with puppets portions of the show. It was also to have Cast Member training and Chuck E. Choreography training videos.^(1)^
+- The new Birthday Show was to be called 'Birthday Extravaganza' and it was to feature a five minute countdown with three Spots from Matt Daniel during the countdown. It was to use a combination of Show Motion GFX, and live videos with puppets portions of the show. It was also to have Cast Member training and Chuck E. Choreography training videos.<sup>(1)</sup>
 - This show features a brand new 'Live at Home' Birthday which used the Birthday Star Spectacular show modified to make it so the walkaround costume didn't need to appear.

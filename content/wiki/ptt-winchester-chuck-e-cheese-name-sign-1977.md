@@ -29,4 +29,4 @@ Around 2017, Chuck E. Cheese announced their 2.0 remodel program. As a part of t
 ## Design
 
 Chuck E. Cheese's nameplate is pretty much identical to the other Winchester nameplates at the time, with the exception of Helen Hennys nameplate, each Winchester nameplate used a rounded wooden board with the character's name in white text in the center, enclosed in a thin yellow border. Chuck E. Cheese's nameplate was no different, with the only difference being the text was changed to 'CHUCK E. CHEESE'
-Around late 1979, Chuck E. Cheese's nameplate alongside the other Winchester nameplates would receive the text '© PIZZA TIME THEATRE INC 1978' on the lower portion of the nameplate, as seen in the 1979 Great All American Pizza Show Franchise Brochure. ^(1)^
+Around late 1979, Chuck E. Cheese's nameplate alongside the other Winchester nameplates would receive the text '© PIZZA TIME THEATRE INC 1978' on the lower portion of the nameplate, as seen in the 1979 Great All American Pizza Show Franchise Brochure. <sup>(1)</sup>

@@ -39,7 +39,7 @@ Berkeley Square Shopping center was home to Track Stars, which was a restaurant 
 - Helicopter(Ride)
 - Flying Saucer(Ride)
 - Locomotive (Ride)
-- Single-seat ferris wheel(Ride)^(1)^
+- Single-seat ferris wheel(Ride)<sup>(1)</sup>
 
 ## Animatronics
 

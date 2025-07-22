@@ -12,4 +12,4 @@ The ***Pizza Time Theatre 'Bite Me!' Shirt* was a shirt available at the first {
 
 ## History
 
-The shirt was obtainable during the official opening of the Winchester store on May 17th through when supply would run out. Customers had to bring in a coupon found in the newspaper, purchase any large pizza (prices ranged from $5.25 to $6.95), and be under 16 with an adult present. Only one shirt would be given per family, and it is unknown if it came in multiple sizes.^(1)(0)^
+The shirt was obtainable during the official opening of the Winchester store on May 17th through when supply would run out. Customers had to bring in a coupon found in the newspaper, purchase any large pizza (prices ranged from $5.25 to $6.95), and be under 16 with an adult present. Only one shirt would be given per family, and it is unknown if it came in multiple sizes.<sup>(1)(0)</sup>

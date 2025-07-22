@@ -16,7 +16,7 @@ alsoKnownAs = ["CREATIVE ENGINEERING MMST0113-10484 MAGIC SHOWTAPE LOW SPEED TAI
 
 A tape variant labeled ***Magic Night (Revised)* was released to cut out the dated sections of Segment 8. This
 cut out the entirety of the intro, and reduced the *Michael Jackson Melody* to just the song *Beat
-It*.^(1)^**
+It*.<sup>(1)</sup>**
 
 ## Part 1-3 Version
 

@@ -45,4 +45,4 @@ categories = ["Chuck E. Cheese's"]
 ## Trivia:
 
 - One of the animations in Techno Dreams was also used in Birthday Star 1995
-- The phone number on the Tuneland promo leads is now a menu for an adult website^(1)^
+- The phone number on the Tuneland promo leads is now a menu for an adult website<sup>(1)</sup>

@@ -28,7 +28,7 @@ The stage would remain until around May 2023 when the stage was removed as the s
 ## History
 
 North Richland Hills opened its doors in April 7th, 1982 with a Rock-afire Explosion show. It was originally and currently a corporate-owned store. Like many other ShowBiz Pizza locations, it had a typical SPP layout seen in many other stores across the United States and would eventually receive the unification remodel years after it would open.
-In the Mid-90s the location would receive another major remodel, at the same time receiving {{< wiki-link "Phase 1 (1994)" >}}. Little is known about this location in the 1990s other than the very few videos that has surfaced onto the internet.^(0)^
+In the Mid-90s the location would receive another major remodel, at the same time receiving {{< wiki-link "Phase 1 (1994)" >}}. Little is known about this location in the 1990s other than the very few videos that has surfaced onto the internet.<sup>(0)</sup>
 Sometime in 2006/2007, the location received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|Cool Chuck Remodel, later having its front expanded into the preexisting parking spaces in 2010which involved erecting a new facade and awnings.
 On July 27th, 2019; Chuck E. Con 2019 would be hosted at the location which was also hosted at the {{< wiki-link "White Settlement, TX (7750 Scott St)" >}} location the day before.
 Between 2019-2021, Bird & the Apple TV were removed for unknown reasons.

@@ -15,7 +15,7 @@ The Eastgate, OH Chuck E. Cheese's Pizza opened as a franchise under the Bernste
 
 ## Stages:
 
-Opened up with Chuck E.'s House in 1990 receiving barely any updates or maintenance after being installed.^(1)^ Helen had the last PTT Mask which was replaced by 2002/2003.^(2)^ In 2002/2003 {{< wiki-link "Florence, KY (7635 Mall Rd)" >}} original Helen body and cosmetics were sent to Eastgate to replace their Rocker Helen.
+Opened up with Chuck E.'s House in 1990 receiving barely any updates or maintenance after being installed.<sup>(1)</sup> Helen had the last PTT Mask which was replaced by 2002/2003.<sup>(2)</sup> In 2002/2003 {{< wiki-link "Florence, KY (7635 Mall Rd)" >}} original Helen body and cosmetics were sent to Eastgate to replace their Rocker Helen.
 In late 2005 Eastgate would would receive {{< wiki-link "CEC 2000's Remodel Program" >}} this would involve removing {{< wiki-link "Chuck E's House" >}} and replacing it with {{< wiki-link "Studio C Cappa" >}}.
 In 2014 The bluescreen area was replaced with the bluescreen replacement which involved modifying the TV half of Small-Town Studio C to remove much of the display leaving just the bottom half, installing three TVs on top of that and adding the small 'CEC' sign on the back wall above the TVs. This would then turn the Studio C Cappa into a Studio C Beta
 In 2017 the curtains were removed & In 2018 the animatronic received Rockstar Jeans.

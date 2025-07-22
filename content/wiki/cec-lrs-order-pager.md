@@ -13,7 +13,7 @@ The ***CEC LRS Order Pager* is a tabletop electronic pager that vibrates to aler
 
 ## LRS
 
-The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*^(1)^*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
+The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*<sup>(1)</sup>*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
 
 ## Design
 

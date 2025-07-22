@@ -18,8 +18,8 @@ categories = ["Chuck E. Cheese's"]
 ### 1987-1994
 
 After the closures of Commack, NY (6137 Jericho Turnpike) in 1987 and {{< wiki-link "Levittown, NY (3046 Hempstead Turnpike)" >}} in 1989, the Patchogue location was the first to open on Long Island as a *Chuck E. Cheese's* location with post-{{< wiki-link "Concept Unification" >}} branding.
-The Patchogue location opened with a {{< wiki-link "2-Stage" >}} and was decorated in line with the {{< wiki-link "SPT 1990's Remodel Program" >}}. Based on home videos and images of the location in the 1990s and early 2000s, it is believed that the store had not fully utilized the whole footprint of the location -- the building was not built to specification as some company-owned locations were and was previously another restaurant ^(1)^.
-Upon entering, games could be seen to the left and right, with the entrance in the center. Based on home video footage, the games on the left side included air hockey and a Skee-Ball setup ^(2)^. The showroom was on the right side, towards the back, as was standard. However, in comparison to modern day, the showroom is artificially pushed forward and was flush with the existing bathrooms; the games collection in front was smaller as a result, to accommodate for showroom walls and balcony seating.
+The Patchogue location opened with a {{< wiki-link "2-Stage" >}} and was decorated in line with the {{< wiki-link "SPT 1990's Remodel Program" >}}. Based on home videos and images of the location in the 1990s and early 2000s, it is believed that the store had not fully utilized the whole footprint of the location -- the building was not built to specification as some company-owned locations were and was previously another restaurant <sup>(1)</sup>.
+Upon entering, games could be seen to the left and right, with the entrance in the center. Based on home video footage, the games on the left side included air hockey and a Skee-Ball setup <sup>(2)</sup>. The showroom was on the right side, towards the back, as was standard. However, in comparison to modern day, the showroom is artificially pushed forward and was flush with the existing bathrooms; the games collection in front was smaller as a result, to accommodate for showroom walls and balcony seating.
 
 ### 2004-2023
 
@@ -142,7 +142,7 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 
   Link                                                  Description                                                                                           Filming Date
   ----------------------------------------------------- ----------------------------------------------------------------------------------------------------- ------------------
-  [link](https://www.youtube.com/watch?v=lSmh1V2Yevs)   Footage of the location during a birthday party.^(2)^                                                 February 3, 1994
-  [link](https://www.youtube.com/watch?v=nEX2SIb4z1I)   A store tour filmed in 2015 showcasing 90's and early-2000's exterior and interior signage.^(4)^    January 13, 2015
-  [link](https://www.youtube.com/watch?v=bff0fPiHGng)   Store Tour Filmed in 2024 showing the stores 2.0 Remodel Prior to getting the Trampoline Zone.^(5)^   April 7, 2024
-  [link](https://www.youtube.com/watch?v=mVcPDdtDAlQ)   Trampoline Zone Showcase. ^(6)^                                                                       May 12, 2024
+  [link](https://www.youtube.com/watch?v=lSmh1V2Yevs)   Footage of the location during a birthday party.<sup>(2)</sup>                                                 February 3, 1994
+  [link](https://www.youtube.com/watch?v=nEX2SIb4z1I)   A store tour filmed in 2015 showcasing 90's and early-2000's exterior and interior signage.<sup>(4)</sup>    January 13, 2015
+  [link](https://www.youtube.com/watch?v=bff0fPiHGng)   Store Tour Filmed in 2024 showing the stores 2.0 Remodel Prior to getting the Trampoline Zone.<sup>(5)</sup>   April 7, 2024
+  [link](https://www.youtube.com/watch?v=mVcPDdtDAlQ)   Trampoline Zone Showcase. <sup>(6)</sup>                                                                       May 12, 2024

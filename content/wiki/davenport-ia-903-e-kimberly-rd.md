@@ -10,7 +10,7 @@ citations = ["[https://www.kwqc.com/2024/04/07/davenport-chuck-e-cheese-close-su
 pageThumbnailFile = "Av3QZUfBGffSGOloYCBY.avif"
 latitudeLongitude = ["41.55574582","-90.56374873"]
 +++
-***903 E Kimberly Rd* was a *ShowBiz Pizza Place* that opened on February 25, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed on April 7, 2024 as a *Chuck E. Cheese*.^(1)^ It was located in the Old Town Shopping Center.**
+***903 E Kimberly Rd* was a *ShowBiz Pizza Place* that opened on February 25, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed on April 7, 2024 as a *Chuck E. Cheese*.<sup>(1)</sup> It was located in the Old Town Shopping Center.**
 
 ## History
 

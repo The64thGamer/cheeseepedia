@@ -16,9 +16,9 @@ This tape also includes three original songs written by members of the productio
 
 ## Production
 
-When producing the *Abbey Road* segment, CEI rented 23 musicians to perform additional instruments, specifically listed are the horns and strings. During *Louisiana,* CEI moved their drums into a warehouse for recording to provide proper reverberation. *Child of the Rock* has 15 children from a local elementary school provide the backup vocals.^(1)^
-Three songs on the tape would be original productions by The Noize. *Louisiana* would be written by Burt 'Sal' Wilson, *Child of the Rock* would be written by Duke Chauppetta, and *Goofy Gas* by Jeff 'Claude' Howell.^(0)^
-The showtape would be completed in late August.^(1)^
+When producing the *Abbey Road* segment, CEI rented 23 musicians to perform additional instruments, specifically listed are the horns and strings. During *Louisiana,* CEI moved their drums into a warehouse for recording to provide proper reverberation. *Child of the Rock* has 15 children from a local elementary school provide the backup vocals.<sup>(1)</sup>
+Three songs on the tape would be original productions by The Noize. *Louisiana* would be written by Burt 'Sal' Wilson, *Child of the Rock* would be written by Duke Chauppetta, and *Goofy Gas* by Jeff 'Claude' Howell.<sup>(0)</sup>
+The showtape would be completed in late August.<sup>(1)</sup>
 
 ## Show List
 

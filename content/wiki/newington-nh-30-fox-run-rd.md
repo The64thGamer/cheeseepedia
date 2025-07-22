@@ -13,7 +13,7 @@ latitudeLongitude = ["43.09693172","-70.81009813"]
 
 ## History
 
-Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location, owned by Dolli & Associates^(1)^. It opened with the Balcony Stage and Dolli Dimples in the Lounge room.
+Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location, owned by Dolli & Associates<sup>(1)</sup>. It opened with the Balcony Stage and Dolli Dimples in the Lounge room.
 Sometime in the mid 1980's, Newington would replace Dolli with the Beach Bowzers. Around the same time, Newington was bought by the corporate on February 2nd, 1987, along with {{< wiki-link "Manchester, NH (1525 S Willow St)" >}} and {{< wiki-link "Danvers, MA (139 Endicott St)" >}}.
 Newington later received the 1988 Remodel in 1989. Converting the Balcony Stage into the C-Stage in the process. They also ended up swapping cabaret shows with Danvers, as Danvers would receive the Newington Bowzers, and Newington would receive the Danvers King. They would also keep the PTT Lettering on the exterior with this remodel, which ended up being retained all the way up to the 2005 Remodel.
 Around Fall 1996, Newington would receive the 1993 Remodel. Converting the C-Stage into a 2-Stage. The King was removed from the Lounge Room, allegedly making Newington one of the last surviving Kings in a store. The Lounge Room would remain however, as well as The Kings stage (albeit with The Video Velociter in his place). They also put a separate 2-Stage fiber optic sign in the room, making Newington one of the only 1993 Remodels to still utilize the former Lounge Room area in this manner. Skytubes were also added.

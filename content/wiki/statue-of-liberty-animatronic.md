@@ -11,8 +11,8 @@ unitsProduced = "170"
 manufacturer = "Creative Presentations, Creative Engineering, ShowBiz Pizza Place"
 pageThumbnailFile = "1GiT6WN_LC6Mmld7Nzfr.avif"
 +++
-The ***Statue of Liberty* was a retrofit of {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}} produced by {{< wiki-link "ShowBiz Pizza Place" >}} and Creative Presentations in 1986 for the 100th anniversary of the Statue of Liberty- alongside an SPP Happy B-day Liberty|accompanying showtape, which was used in stores up until {{< wiki-link "Concept Unification" >}} completed in 1992.^(1)(2)^
-170 units would be produced at the time for all ShowBiz stores, used as a seasonal retrofit in the Summer. The animatronic would be used for the SPP Happy B-day Liberty, SPP Liberty '87, CEI Liberty '87, and {{< wiki-link "SPP Liberty Wave Cyber" >}} showtapes. Rolfe's backdrop would also be retrofitted to match the ShowBiz Campground sky, alongside a US styled banner.^(3)^**
+The ***Statue of Liberty* was a retrofit of {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}} produced by {{< wiki-link "ShowBiz Pizza Place" >}} and Creative Presentations in 1986 for the 100th anniversary of the Statue of Liberty- alongside an SPP Happy B-day Liberty|accompanying showtape, which was used in stores up until {{< wiki-link "Concept Unification" >}} completed in 1992.<sup>(1)(2)</sup>
+170 units would be produced at the time for all ShowBiz stores, used as a seasonal retrofit in the Summer. The animatronic would be used for the SPP Happy B-day Liberty, SPP Liberty '87, CEI Liberty '87, and {{< wiki-link "SPP Liberty Wave Cyber" >}} showtapes. Rolfe's backdrop would also be retrofitted to match the ShowBiz Campground sky, alongside a US styled banner.<sup>(3)</sup>**
 
 ## Videos
 

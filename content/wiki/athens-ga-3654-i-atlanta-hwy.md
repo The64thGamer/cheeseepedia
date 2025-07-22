@@ -14,7 +14,7 @@ This location should not be confused with {{< wiki-link "Athens, GA (3585 Atlant
 
 ## Stages
 
-When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}^(1)^ that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.
+When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}<sup>(1)</sup> that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.
 
 ## History
 

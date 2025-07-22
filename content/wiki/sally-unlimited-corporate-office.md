@@ -10,5 +10,5 @@ citations = ["[https://archive.org/details/commex00unit/page/10/mode/2up?q=%22sa
 pageThumbnailFile = "CWM86ZeIRCn7mC6w9DMt.avif"
 latitudeLongitude = ["0","0"]
 +++
-The ***Sally Unlimited Corporate Office (567 Bishop Gate Ln, Jacksonville, FL)* was the offices for Sally Corporation for an unknown amount of years, with the only confirmed dates of residence being February 1979 to July 1980.^(1)(2)^
-It is unknown if the offices were used for manufacturing, or if this was leased to a separate building. One piece of footage from around the mid 90's shows a small manufacturing room that isn't the corporate office nor the later Sally Dark Rides Corporate Office.^(3)^**
+The ***Sally Unlimited Corporate Office (567 Bishop Gate Ln, Jacksonville, FL)* was the offices for Sally Corporation for an unknown amount of years, with the only confirmed dates of residence being February 1979 to July 1980.<sup>(1)(2)</sup>
+It is unknown if the offices were used for manufacturing, or if this was leased to a separate building. One piece of footage from around the mid 90's shows a small manufacturing room that isn't the corporate office nor the later Sally Dark Rides Corporate Office.<sup>(3)</sup>**

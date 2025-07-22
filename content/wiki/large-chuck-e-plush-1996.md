@@ -17,7 +17,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog^(1)^ with little to no difference in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog<sup>(1)</sup> with little to no difference in design.
 
 #### Prototype Gallery
 
@@ -30,7 +30,7 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog^(1)^ with little
 
 ## Design
 
-This Chuck E. plush is designed based on the standardized 'Coach' design created by Peeler Rose in 1994.^(2)^ Even in a small size, DFI managed to put in just enough effort into Chuck E., that this ended up being the most spot on representation of the titular character.
+This Chuck E. plush is designed based on the standardized 'Coach' design created by Peeler Rose in 1994.<sup>(2)</sup> Even in a small size, DFI managed to put in just enough effort into Chuck E., that this ended up being the most spot on representation of the titular character.
 Chuck E. sports a red sweater with an oval on his chest and stripes going around each arm. He is also shown wearing fully red shoes with blue laces, as opposed to white and blue shoes with red laces seen in the official art produced of Chuck E. from around this time, with detail omitted is Chuck E.'s whistle.
 A new detail being added was a large yellow star on Chuck E.'s cap, which was a part of the new 1995 logo, later being replaced with a 'C' in 1998.
 

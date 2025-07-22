@@ -15,13 +15,13 @@ This store is a possible relocation of {{< wiki-link "Houston, TX (6760 Antoine 
 
 ## Stages
 
-When the store opened in 2006, it featured a Studio C Beta stage with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. By 2013, the animatronic would have its outfit replaced with the Rockstar outfit. This would remain this way until the store's remodel; when the store received 2.0, the stage's backdrop was removed first^(1)^ before the entire stage's eventual removal by mid-July 2019.
+When the store opened in 2006, it featured a Studio C Beta stage with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. By 2013, the animatronic would have its outfit replaced with the Rockstar outfit. This would remain this way until the store's remodel; when the store received 2.0, the stage's backdrop was removed first<sup>(1)</sup> before the entire stage's eventual removal by mid-July 2019.
 
 ## History
 
 ### Pre-CEC
 
-The site of this store was built with 17,184 square feet of space in 1997 as a Just for Feet shoe store,^(2)(3)^ which opened sometime around that time and most likely closed around 2004. Around early to mid 2006, the site of the former shoe store would be bought by CEC, alongside Vista, CA (1861 University Dr)|the Vista location.
+The site of this store was built with 17,184 square feet of space in 1997 as a Just for Feet shoe store,<sup>(2)(3)</sup> which opened sometime around that time and most likely closed around 2004. Around early to mid 2006, the site of the former shoe store would be bought by CEC, alongside Vista, CA (1861 University Dr)|the Vista location.
 
 ### Opening
 
@@ -29,7 +29,7 @@ On November 10th, 2006, the store would open its doors with the 2003 'Cool Chuck
 
 ### 2.0 Remodel
 
-Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.^(4)^ Around February 2023, the store would add a {{< wiki-link "Video Wall" >}} and replace its {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} with a 2021 Model version of it.
+Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.<sup>(4)</sup> Around February 2023, the store would add a {{< wiki-link "Video Wall" >}} and replace its {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} with a 2021 Model version of it.
 
 ## Arcade Machines
 

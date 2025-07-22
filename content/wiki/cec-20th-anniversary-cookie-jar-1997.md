@@ -15,7 +15,7 @@ The ***Chuck E. Cheese's 20th Anniversary Licensed Commemorative Limited Edition
 
 During the 20th anniversary for Chuck E. Cheese's, SPT introduced various promotional items though out the year of 1997.
 K&L enterprises obtained the license to create ceramic products for ShowBiz Pizza Time and released this cookie jar as one of the first limited releases of a Chuck E. Cheese's product.
-The cookie jar had a production of 1,977 units for sale via mailing K&L enterprises cash or calling one of their offices.^(1)^
+The cookie jar had a production of 1,977 units for sale via mailing K&L enterprises cash or calling one of their offices.<sup>(1)</sup>
 
 ## Design
 

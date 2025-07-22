@@ -8,7 +8,7 @@ pageThumbnailFile = "Pgsmr42LUCJVhFZ0qxuu.avif"
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Studio C (1997)* stage *(also known as **Studio C Alpha** by fans*^(1)^) is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002, 2012 and 2015, and is still around to this day.
+The ***Studio C (1997)* stage *(also known as **Studio C Alpha** by fans*<sup>(1)</sup>) is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002, 2012 and 2015, and is still around to this day.
 It was the first widely installed stage to have just 1 main animatronic character, being Chuck E. Cheese himself.**
 
 ## History
@@ -34,7 +34,7 @@ Even after the concept was finalized minor improvements were done to keep Studio
 The community refers to the show as 'Studio C Alpha' -- the origin of the community name was coined by Jenn Waitt using the Greek 'Alpha' to insinuate 'the first'.
 What one of the designers from Corman and Associates who has done work creating a majority of the Studio 'C' stages has said in response to the question on whether Studio 'C' Stages had names or not has been a point of debate.
 
-> 'To my knowledge there were no specific names assigned to each revision. Once 'Studio C' name was established, we used it for the duration and each revision was mainly identified by date of revision. Even after production began there were revisions based on function, cost, etc.'^(1)^
+> 'To my knowledge there were no specific names assigned to each revision. Once 'Studio C' name was established, we used it for the duration and each revision was mainly identified by date of revision. Even after production began there were revisions based on function, cost, etc.'<sup>(1)</sup>
 
 It's theorized that Corman may have been more closely related in in the planning states than exacted, as 'Stage 2002', an internal name used on the installation documents for this show made it on to the building plans for the stage much after it was out of the testing phase.
 

@@ -27,5 +27,5 @@ ShowBiz Pizza Place and Pizza Time Theatre locations would have received a retro
 
 #### Interior
 
-All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.^(1)^
+All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.<sup>(1)</sup>
 The service areas of locations would have their accompanying neon sign above, most of the time is accompanied by a blue and white striped canopy behind it.

@@ -28,5 +28,5 @@ This was the first officially released live show created for Munch's Make Believ
 ## Live Trivia:
 
 - This live show features no countdown.
-- The training material for this show features Jeremy Blaido in his first role with the company relating to show production.^(1)^
+- The training material for this show features Jeremy Blaido in his first role with the company relating to show production.<sup>(1)</sup>
 - This was the first live show programmed for MMBB stages which at this point would be 3stages and Road Stages.

@@ -16,8 +16,8 @@ This location is mostly known as having the second to last location with the 'Ch
 ## Stages
 
 The location opened with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} in October 1980 then was replaced with {{< wiki-link "Chuck E's House" >}} most likely in 1990. The setup would also be repainted to bright colors and have its original cosmetics replaced at various periods of time. Sometime in the early-mid 90's Munch would receive his sports cap which he had until closure. In the early 2000's, Chuck's outfit was replaced with the Cool Chuck outfit, which also remained until closure. (This was the only Chuck E.'s House to receive this outfit as {{< wiki-link "Rockford, IL (3600 E State St)" >}} had their vest until 2009 when they replaced it with the Avenger Outfit).
-The location would have a {{< wiki-link "Dolli Dimples (Cabaret)" >}} in the Piano Bar and a {{< wiki-link "Dr Quack (Cyberamic)" >}} in the Cabaret, the currently only known appearance of Dr. Quack at a store.^(1)^
-Due to this location opening on October 20th, 1980, and the King debuting in 1981, it is possible that this location originally had The Beagles before receiving The King sometime before 1986.^(2)(3)^ In the 1990s, the location would replace lounge act entirely with the *Video Velocitor* in the former lounge area.
+The location would have a {{< wiki-link "Dolli Dimples (Cabaret)" >}} in the Piano Bar and a {{< wiki-link "Dr Quack (Cyberamic)" >}} in the Cabaret, the currently only known appearance of Dr. Quack at a store.<sup>(1)</sup>
+Due to this location opening on October 20th, 1980, and the King debuting in 1981, it is possible that this location originally had The Beagles before receiving The King sometime before 1986.<sup>(2)(3)</sup> In the 1990s, the location would replace lounge act entirely with the *Video Velocitor* in the former lounge area.
 
 ## History
 

@@ -10,7 +10,7 @@ latitudeLongitude = ["33.57687982", "-117.7027347"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***26538-H Moulton Pkwy, Store #3022/378* is a Chuck E. Cheese's that opened in October 2001^(1)^ (day unknown) and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***26538-H Moulton Pkwy, Store #3022/378* is a Chuck E. Cheese's that opened in October 2001<sup>(1)</sup> (day unknown) and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 This location is the relocation of the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} location, which opened in June 1981 (day unknown) and closed in October 2001 (day unknown) with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}.**
 
 ## Stages

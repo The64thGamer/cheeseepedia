@@ -16,7 +16,7 @@ The stage would debut at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}
 
 ### Pizza Time Theatre
 
-The ***Cyberamics Shelf Stage* was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}. The stage was produced for all PTT's from 1979 to Mid 1980. In May or April 1980, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} would introduce the {{< wiki-link "Cyberamics Balcony Stage" >}}^(1)^ as a stage type on a platform instead of inside of the theatre's walls. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony & Shelf Hybrid. The PTT on {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would be the first one to open with a Balcony Stage, & after 1981, all future locations would be set to get a Balcony Stage instead of a Shelf Stage. The Last Shelf Stage to be produced was for the PTT on {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} In June 1981, which had the normal 2-Wall Variant.**
+The ***Cyberamics Shelf Stage* was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}. The stage was produced for all PTT's from 1979 to Mid 1980. In May or April 1980, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} would introduce the {{< wiki-link "Cyberamics Balcony Stage" >}}<sup>(1)</sup> as a stage type on a platform instead of inside of the theatre's walls. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony & Shelf Hybrid. The PTT on {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would be the first one to open with a Balcony Stage, & after 1981, all future locations would be set to get a Balcony Stage instead of a Shelf Stage. The Last Shelf Stage to be produced was for the PTT on {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} In June 1981, which had the normal 2-Wall Variant.**
 
 ### Chuck E. Cheese's
 
@@ -45,15 +45,15 @@ Later versions of the stage would ditch the portraits in favor for Balcony like 
 
   Location                                                                Opening / Installation Date   Removal Date
   ----------------------------------------------------------------------- ----------------------------- ---------------------
-  {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}^(2)^            May-June 1979                 Unknown
-  {{< wiki-link "Sacramento , CA (7020 Stockton Blvd)" >}}^(3)^       August 14th, 1979             Late 1985
-  {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}^(4)^    October 6th, 1979             1989/1990
+  {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}<sup>(2)</sup>            May-June 1979                 Unknown
+  {{< wiki-link "Sacramento , CA (7020 Stockton Blvd)" >}}<sup>(3)</sup>       August 14th, 1979             Late 1985
+  {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}<sup>(4)</sup>    October 6th, 1979             1989/1990
   {{< wiki-link "Stockton, CA (4555 N Pershing Ave)" >}}              October 1979                  1981/1982
   {{< wiki-link "Sparks, NV (530 Greenbrae Dr)" >}}                   December 20th, 1979           Unknown
-  {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}}^(5)^   December 26th, 1979           January 1985
+  {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}}<sup>(5)</sup>   December 26th, 1979           January 1985
   {{< wiki-link "Fullerton, CA (1841 W Orangethorpe Ave)" >}}         March 1980                    1985
   {{< wiki-link "La Habra, CA (901 Harbor Blvd)" >}}                  May 1980                      December 11th, 1984
-  {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}^(6)^             May 17th, 1980                1991
+  {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}<sup>(6)</sup>             May 17th, 1980                1991
   {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}}           Summer 1980                   1984
   {{< wiki-link "Sun Valley, CA (8357 Laurel Canyon Blvd)" >}}        July 1980                     1981/1982
   {{< wiki-link "Fresno, CA (5384 N Blackstone Ave)" >}}              July/August 1980              May 1985

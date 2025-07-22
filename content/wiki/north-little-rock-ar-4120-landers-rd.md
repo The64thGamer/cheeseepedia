@@ -29,11 +29,11 @@ North Little Rock opened on October 27, 1983. North Little Rock would originally
 
 ### Armed Robbery
 
-On August 10, 2016, The Location was robbed at gunpoint by 3 masked men a little after 10am, the men pointed guns at employees and demanded money, the men got away with an unknown amount of cash and escaped through a back door, the suspects were never caught^(1)^
+On August 10, 2016, The Location was robbed at gunpoint by 3 masked men a little after 10am, the men pointed guns at employees and demanded money, the men got away with an unknown amount of cash and escaped through a back door, the suspects were never caught<sup>(1)</sup>
 
 ### 2021 Shooting
 
-On March 8, 2021, 32-Year old Christina Clay was shot and killed outside of the Chuck E. Cheese, she had gotten into an arguement with another guest, they went outside to talk when the man pulled a gun on her and fatally shot her, the man was caught and arrested after he fled.^(2)^
+On March 8, 2021, 32-Year old Christina Clay was shot and killed outside of the Chuck E. Cheese, she had gotten into an arguement with another guest, they went outside to talk when the man pulled a gun on her and fatally shot her, the man was caught and arrested after he fled.<sup>(2)</sup>
 
 ## Videos
 

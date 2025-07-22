@@ -44,7 +44,7 @@ Prior to the song being removed, the segments (excluding intermissions for clari
 >     2.  Daddy's Daddy
 
 The song itself was 2 minutes and 31 seconds long. The entire segment was *Comrade of Clean + Happy and You Know It + This Old Man* back to back, making the full length 5 minutes and 6 seconds. After Comrade of Clean's removal, *Responsibility* from segment 1 would replace it, and in its own place would be *Rhythm of the Night* from the previous year's {{< wiki-link "CEC September 1990 Show" >}}.
-The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{< wiki-link "1990-1992 APS Floppy Cases" >}} and presented without audio on July 21, 2022^(1)^. The audio for the segment would be discovered in mid-2023, and released on December 24th, 2023.^(2)^ The first unveiling of the combined signals and audio would air a few minutes later.^(3)^
+The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{< wiki-link "1990-1992 APS Floppy Cases" >}} and presented without audio on July 21, 2022<sup>(1)</sup>. The audio for the segment would be discovered in mid-2023, and released on December 24th, 2023.<sup>(2)</sup> The first unveiling of the combined signals and audio would air a few minutes later.<sup>(3)</sup>
 
 ## Show List:
 

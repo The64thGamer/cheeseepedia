@@ -21,6 +21,6 @@ Very little is known about the usage of the sign, but as stated before it is the
 
 ## Design
 
-Placed on a yellow cylindrical shape can be seen in black text 'PASQUALLY'S PERFECT' with larger red text 'PIZZA' resting below alongside an arrow under the text. The name 'Pasqually's Perfect Pizza' would later be reused in a 1979 Californian Pizza Time Theatre brochure. ^(1)^
+Placed on a yellow cylindrical shape can be seen in black text 'PASQUALLY'S PERFECT' with larger red text 'PIZZA' resting below alongside an arrow under the text. The name 'Pasqually's Perfect Pizza' would later be reused in a 1979 Californian Pizza Time Theatre brochure. <sup>(1)</sup>
 
 1.  https://www.showbizpizza.com/info/promo/ptt/ptt_program_ca.pdf

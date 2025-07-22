@@ -70,7 +70,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Septem
 
 ## Production
 
-CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis ^(1)^
+CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
 
 ### File Dates
 

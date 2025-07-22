@@ -19,7 +19,7 @@ Chico would also house The King for a period of time, it is unknown when the cha
 At some point after 1988, the show was converted into the {{< wiki-link "Chuck E's House Facade" >}} then finally converted into a {{< wiki-link "2-Stage" >}} in 1993.
 It is unknown whether the location received any technical attention to their show whatsoever nearing its final years, the characters were in such a decrepit condition to a point where little to any movement was noticeable from the show.
 As a result of the franchise losing the rights to use the CEC name for the location in 2011, the characters' internal mechanisms were removed, and have three of the animatronics retrofitted to generic animals with suits.
-After the location's second closure, the animatronics would possibly end up being sold for $100.^(1)^
+After the location's second closure, the animatronics would possibly end up being sold for $100.<sup>(1)</sup>
 
   Stage                                             Installed   Removed
   ------------------------------------------------- ----------- --------------
@@ -34,7 +34,7 @@ During the last few years of Chico operating under the Chuck E. Cheese's brand, 
 In 2010 the store would fail to fund its own remodel to the {{< wiki-link "CEC 2000's Remodel Program" >}}, only painting select walls. This decision would ultimately lead to corporate getting involved and revoking the franchise's license to the location once and for all.https://youtu.be/W8EtubUJ76w
 Because of this, the franchisee started {{< wiki-link "Fun Zone & Pizza" >}}. Various pieces of CEC decor were either reskinned or hidden away from public viewing. Fun Zone would end up not pulling in the amount of money as the store's owner intended, so Fun Zone eventually had to close as well.
 During closure, the store sold everything from the store decor, arcade machines, to even the Cyberamics' empty frames.
-After the franchisee left the location for good, the store became a seasonal Halloween store at some point before becoming vacant once again in 2015.^(2)^ The location was finally demolished in 2016 and replaced with DaVita Dialysis center. In 2019, Fun Zone's generic mascot costumes would show up on Facebook market place and would be sold for an unknown amount.
+After the franchisee left the location for good, the store became a seasonal Halloween store at some point before becoming vacant once again in 2015.<sup>(2)</sup> The location was finally demolished in 2016 and replaced with DaVita Dialysis center. In 2019, Fun Zone's generic mascot costumes would show up on Facebook market place and would be sold for an unknown amount.
 
 ## Arcade Machines
 

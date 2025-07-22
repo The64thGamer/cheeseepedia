@@ -17,11 +17,11 @@ The ***Kooser Main Show & Dolli Showtape* was the first show produced for {{< wi
 
 ## Production
 
-For the Dolli part of the Showtape, the audio would be produced at Corasound Recording (122E Paul Drive, San Rafael. CA 94903) in two sessions. Session recording #1 was done on November 9, 1978. The audio consists of the final versions and outtakes for segments 1, and 3-11. The session recording #2 was done on November 13, 1978, consisting of the final versions and outtakes for segments 2, and 12-20. The 8-track master tape was recorded on an *Otari MX 5050.^(1)(2)(3)^*
+For the Dolli part of the Showtape, the audio would be produced at Corasound Recording (122E Paul Drive, San Rafael. CA 94903) in two sessions. Session recording #1 was done on November 9, 1978. The audio consists of the final versions and outtakes for segments 1, and 3-11. The session recording #2 was done on November 13, 1978, consisting of the final versions and outtakes for segments 2, and 12-20. The 8-track master tape was recorded on an *Otari MX 5050.<sup>(1)(2)(3)</sup>*
 
 ## Showtape Run
 
-There is conflicting evidence on whether the showtape was played throughout the entirety of the {{< wiki-link "Kooser PTT Show" >}} run until it was replaced by {{< wiki-link "Cyberamics" >}} in Spring of 1980, or if other tapes were made to replace it. One image of the showtape can be seen in March of 1979, with an April article confirming the original tape's programming was still in the store.^(4)^
+There is conflicting evidence on whether the showtape was played throughout the entirety of the {{< wiki-link "Kooser PTT Show" >}} run until it was replaced by {{< wiki-link "Cyberamics" >}} in Spring of 1980, or if other tapes were made to replace it. One image of the showtape can be seen in March of 1979, with an April article confirming the original tape's programming was still in the store.<sup>(4)</sup>
 However, in the *Real People* footage of the Kooser store, a tape with a different label can be seen on the deck. The footage would air as part of Season 3, Episode 13, on November 12, 1980. It is believed that Real People filmed Season 2 and 3 simultaneously, explaining the gap between the footage and the final air date. Season 1 would conclude on April 18, 1979, and the Kooser Rd store would upgrade to Cyberamics in either April or May of 1980. This makes the potential filming date between those dates.
 This puts the differently labeled tape after the March 1979 label, and consequently, the Main Show segments believed to be from the store's initial opening could actually be new ones from this differently labeled tape.
 It is unclear however if this label change was just for labeling, a simple revision to the initial tape's programming, or an entirely different tape from the one at the store's debut.
@@ -29,7 +29,7 @@ It is unclear however if this label change was just for labeling, a simple revis
 ## Segments
 
 |-|Main Show Segments=
-Out of the twelve segments confirmed for the show,^(5)^ only two fragments of 'Hooray for Hollywood' and 'Down By the Old Mill Stream' are known to exist, having been featured on an episode of the show *Real People* in 1979.^(6)^ In addition, an article from 'Food Service Marketing' mentions the song 'Boogie Woogie Bugle Boy', but whether this was a modified version of {{< wiki-link "Pizza Time Theatre Showtape" >}} or was an entirely new version is unknown.^(7)^ It is currently unclear if the known segment list is the exact order from the showtape. Other segments unknown.
+Out of the twelve segments confirmed for the show,<sup>(5)</sup> only two fragments of 'Hooray for Hollywood' and 'Down By the Old Mill Stream' are known to exist, having been featured on an episode of the show *Real People* in 1979.<sup>(6)</sup> In addition, an article from 'Food Service Marketing' mentions the song 'Boogie Woogie Bugle Boy', but whether this was a modified version of {{< wiki-link "Pizza Time Theatre Showtape" >}} or was an entirely new version is unknown.<sup>(7)</sup> It is currently unclear if the known segment list is the exact order from the showtape. Other segments unknown.
 
 - **Segment 1**
 - Hooray for Hollywood

@@ -10,9 +10,9 @@ citations = ["[https://www.newspapers.com/article/the-atlanta-constitution/53852
 pageThumbnailFile = "vH0Wih3iO3gLYbY5EFdq.avif"
 latitudeLongitude = ["33.88220402","-84.46117423"]
 +++
-***Atlanta, GA (2963-A Cobb Pkwy)* was a {{< wiki-link "Pizza Time Theatre" >}} that opened in September 4th, 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which closed later in 1984.^(1)^https://www.newspapers.com/article/the-atlanta-constitution/39075919/^(2)^**
+***Atlanta, GA (2963-A Cobb Pkwy)* was a {{< wiki-link "Pizza Time Theatre" >}} that opened in September 4th, 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which closed later in 1984.<sup>(1)</sup>https://www.newspapers.com/article/the-atlanta-constitution/39075919/<sup>(2)</sup>**
 
 ## History
 
-The store would open at the start of Labor Day weekend on September 4th, 1982.^(0)^
-On December 25th, 1983, the store's Chuck, Mr. Munch, and Jasper T. Jowls mascots would take part in the *Children's Healthcare of Atlanta Christmas Parade.*^(3)^
+The store would open at the start of Labor Day weekend on September 4th, 1982.<sup>(0)</sup>
+On December 25th, 1983, the store's Chuck, Mr. Munch, and Jasper T. Jowls mascots would take part in the *Children's Healthcare of Atlanta Christmas Parade.*<sup>(3)</sup>

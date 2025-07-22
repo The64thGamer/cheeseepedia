@@ -15,7 +15,7 @@ latitudeLongitude = ["40.8939","-79.9060141"]
 
 ### Pre CEC (1981-April 2004)
 
-Clearview Mall opened sometime in 1981, the space that would become Chuck E. Cheese used to be occupied by a couple small tenants. At some point, some occupants of the space were possibly Koenig Sporting Goods, Only $1.00, Rellins, & Disc Jokey^(1)^. All were closed by 2002-2003. After that, construction on the location started.
+Clearview Mall opened sometime in 1981, the space that would become Chuck E. Cheese used to be occupied by a couple small tenants. At some point, some occupants of the space were possibly Koenig Sporting Goods, Only $1.00, Rellins, & Disc Jokey<sup>(1)</sup>. All were closed by 2002-2003. After that, construction on the location started.
 
 ### CEC (April 2004-March 2016)
 

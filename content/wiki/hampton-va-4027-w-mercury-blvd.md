@@ -25,7 +25,7 @@ Hampton opened its doors in May 1982 with a Balcony Stage. It was originally a f
 
 ## Stages
 
-When Hampton opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time.^(1)^ Sometime in 1989/1990 they converted the Balcony Stage into {{< wiki-link "Chuck E's House Facade" >}}, otherwise known as the C-Stage. This location would get a 2-Stage installed in 1993
+When Hampton opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time.<sup>(1)</sup> Sometime in 1989/1990 they converted the Balcony Stage into {{< wiki-link "Chuck E's House Facade" >}}, otherwise known as the C-Stage. This location would get a 2-Stage installed in 1993
 In May 2002, Hampton relocated to their current location and their 2-Stage was sent to Florence, KY until they got 2.0 in March 2022.
 
   Stage                                              Installed   Removed     Notes

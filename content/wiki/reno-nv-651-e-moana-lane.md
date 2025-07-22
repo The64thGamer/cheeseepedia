@@ -16,7 +16,7 @@ latitudeLongitude = ["39.49228977","-119.7896316"]
 
 ### Zapp's
 
-On May 6th, 1986, Zapp's would host the *Fashion Auction Show* in collaboration with *Show's West*. The event would take place from 9 to 11 pm, and feature a fashion auction, live entertainment, free prizes, makeovers, and a grand prize.^(1)^
+On May 6th, 1986, Zapp's would host the *Fashion Auction Show* in collaboration with *Show's West*. The event would take place from 9 to 11 pm, and feature a fashion auction, live entertainment, free prizes, makeovers, and a grand prize.<sup>(1)</sup>
 
 ## Animatronics
 

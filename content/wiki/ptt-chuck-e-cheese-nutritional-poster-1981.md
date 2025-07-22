@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf%22)"]
 pageThumbnailFile = "yqzZ9Piixx7UFcpgROVp.avif"
 +++
-The ***Chuck E. Cheese Nutritional Poster* was a poster displayed in all {{< wiki-link "Pizza Time Theatre" >}} restaurants starting some time in 1981.^(1)^
+The ***Chuck E. Cheese Nutritional Poster* was a poster displayed in all {{< wiki-link "Pizza Time Theatre" >}} restaurants starting some time in 1981.<sup>(1)</sup>
 The piece discusses the nutritional value of the {{< wiki-link "Big C's Combo (PTT Menu Item)" >}} pizza.**
 
 ## History

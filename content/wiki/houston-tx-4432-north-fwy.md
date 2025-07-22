@@ -23,11 +23,11 @@ The stage would eventually be removed in February 2023 in favor of the store rec
 ## History
 
 With the decline of the Northline Mall, plans emerged in 2005 to redevelop in the mall into an open air shopping center with multiple anchors, which began construction in 2007 with demolition of the original mall. CEC Entertainment would then apply to the plaza redevelopment in 2009, beginning construction later that same year.
-The store would then open its doors on November 27th, 2009, coincidentally on the same day when its shopping center hosted an event of meeting Santa Claus.^(1)^
+The store would then open its doors on November 27th, 2009, coincidentally on the same day when its shopping center hosted an event of meeting Santa Claus.<sup>(1)</sup>
 During its operation, the shopping center would also host Halloween costume contests every year at this store.
 The {{< wiki-link "Skytubes" >}} would be removed around mid-June 2017.
 Sometime around mid-April 2018, nearly the entirety of the store's walls would be repainted to the 2015 CEC Remodel Program|2015 Remodel's color scheme. This would be the store's last major remodel besides some additional game packages before receiving the 2017 2.0 Remodel Program|2.0 Remodel.
-Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program|2.0 Remodel, receiving the *Refresh* version as apart of the company spending $6.8 million to renovate all their Houston locations^(2)^. This began with removing the posters and the store's stage; the store would later receive a Trampoline Zone in December 2023, alongside other stores in the Houston Area.
+Around mid-February 2023, the store would begin its 2017 2.0 Remodel Program|2.0 Remodel, receiving the *Refresh* version as apart of the company spending $6.8 million to renovate all their Houston locations<sup>(2)</sup>. This began with removing the posters and the store's stage; the store would later receive a Trampoline Zone in December 2023, alongside other stores in the Houston Area.
 
 ## Arcade Machines
 

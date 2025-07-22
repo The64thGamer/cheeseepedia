@@ -26,7 +26,7 @@ Not much is known about the creation of the Bot, though it was probably built in
 
 ### Usage
 
-In 1976, The Bot was placed in a Glass Kiosk reading 'Mystery Fun House' at the Orlando Airport^(0)^. Only 1 video of the bot has resurfaced, showcasing the bot moving & speaking some audio. The Bot apparently was programmed to multiple audio tracks that would play at random^(0)^, unlike most CEI bots which used full showtapes. The bot also seems to have had a coin slot that made Willie move.
+In 1976, The Bot was placed in a Glass Kiosk reading 'Mystery Fun House' at the Orlando Airport<sup>(0)</sup>. Only 1 video of the bot has resurfaced, showcasing the bot moving & speaking some audio. The Bot apparently was programmed to multiple audio tracks that would play at random<sup>(0)</sup>, unlike most CEI bots which used full showtapes. The bot also seems to have had a coin slot that made Willie move.
 The bot remained most likely until the early 80's when it was removed.
 
 ### Fate
@@ -37,7 +37,7 @@ It is unknown what happened to The Bot as it has never been mentioned by Aaron o
 
 The Bot wore a Red tuxedo with a white patterned undershirt, a black bowtie, a flower, & Glasses. The Bot had bluish gray fur with lighter eyebrows, & a buck-tooth.
 
-## Movements^(0)^
+## Movements<sup>(0)</sup>
 
   Movements
   ------------------------------

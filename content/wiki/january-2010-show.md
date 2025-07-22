@@ -17,7 +17,7 @@ This played from January to April 2010.
 
 ## Cyberstar 2.00 Update for Studio C
 
-This update created contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time, (Which would be managed by the Entertainment Department) the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.^(1)^
+This update created contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time, (Which would be managed by the Entertainment Department) the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.<sup>(1)</sup>
 
 ## Studio C AM Schedule
 

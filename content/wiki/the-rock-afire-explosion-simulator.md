@@ -10,12 +10,12 @@ citations = ["[https://www.kickstarter.com/projects/hayesgames/the-rock-afire-ex
 downloadLinks = ["https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo|Software Demo"]
 pageThumbnailFile = "cscn3MDzzxLfleDueQBS.avif"
 +++
-The ***Rock-afire Explosion Simulator* was a cancelled *Kickstarter* project for a virtual Rock-afire Explosion band^(1)^, which allowed users to program and play showtapes in one software.
+The ***Rock-afire Explosion Simulator* was a cancelled *Kickstarter* project for a virtual Rock-afire Explosion band<sup>(1)</sup>, which allowed users to program and play showtapes in one software.
 The Kickstarter would launch on October 28, 2020 by its programmer, Ryan Hayes, and would be cancelled on November 26, 2020.**
 
 ## Campaign
 
-The campaign would start with the launch of the Kickstarter page, alongside a video on the Creative Engineering YouTube Channel promoting the project.^(2)^ The project asked for a $27,350, and planned the software's development to conclude by July 2021.
+The campaign would start with the launch of the Kickstarter page, alongside a video on the Creative Engineering YouTube Channel promoting the project.<sup>(2)</sup> The project asked for a $27,350, and planned the software's development to conclude by July 2021.
 
 ### Pledges
 

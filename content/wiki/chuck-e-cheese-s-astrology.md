@@ -15,7 +15,7 @@ The cabinet is a licensed variation of the standard *Destron Astrology* cabinet,
 
 ## Usage
 
-The user inserts their quarter to turn on the display. They will be prompted by instructions on the cabinet to type in their birth date, a desired forecast date, and press the start button to begin printing. Due to limited information, and evidence in the *Destron Bio-Rhythm* manual^(1)^, there may possibly be a speaker on the cabinet that would read these instructions or other info from a *[speech synthesized voice](https://en.wikipedia.org/wiki/Speech_synthesis).*
+The user inserts their quarter to turn on the display. They will be prompted by instructions on the cabinet to type in their birth date, a desired forecast date, and press the start button to begin printing. Due to limited information, and evidence in the *Destron Bio-Rhythm* manual<sup>(1)</sup>, there may possibly be a speaker on the cabinet that would read these instructions or other info from a *[speech synthesized voice](https://en.wikipedia.org/wiki/Speech_synthesis).*
 The card would then be printed with auto-generated text. Presumably the text would be the same if the same birth date and desired date were entered again. The printed info would be:
 
      (Astrology Sign) 
@@ -36,7 +36,7 @@ The card would then be printed with auto-generated text. Presumably the text wou
 
 ## Technical
 
-The CPU type is unknown, and no ROM dumps are available. Other Destron games of the era used a 6802-based CPU^(2)^, and this game may also use the same but remarked, judging from the 40-pin package and apparent manufacture by AMI.
+The CPU type is unknown, and no ROM dumps are available. Other Destron games of the era used a 6802-based CPU<sup>(2)</sup>, and this game may also use the same but remarked, judging from the 40-pin package and apparent manufacture by AMI.
 
 ## Parts / Cabinet
 

@@ -10,7 +10,7 @@ citations = ["[https://www.youtube.com/watch?v=n6eW9wGlxbQ](%22https://www.youtu
 pageThumbnailFile = "OtRiEaL3upn2QVwQtG30.avif"
 latitudeLongitude = ["39.82333372","-86.24404043"]
 +++
-***4910 W 38th St, Store #606* also known as ***Georgetown* was a ShowBiz Pizza Place that opened on November 4, 1981 with a Rock-Afire Explosion, and closed on December 19, 2011^(1)^. with a 3-Stage.
+***4910 W 38th St, Store #606* also known as ***Georgetown* was a ShowBiz Pizza Place that opened on November 4, 1981 with a Rock-Afire Explosion, and closed on December 19, 2011<sup>(1)</sup>. with a 3-Stage.
 This location is located right across from Georgetown Plaza Shopping Center. They would receive Concept Unification in 1991 or 1992, and close in December 2011 due to numerous issues.****
 
 ## History

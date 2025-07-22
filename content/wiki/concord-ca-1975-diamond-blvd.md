@@ -16,14 +16,14 @@ It should not be confused with Concord, CA (1611 Willow Pass Rd), which opened o
 
 ## Stages
 
-The store was the first location to open with {{< wiki-link "Cyberamics" >}}, with them being on a Cyberamics Portrait Stage|Portrait Stage. {{< wiki-link "Dolli Dimples (Cabaret)" >}} was on the second floor with the arcades. Eventually she was swapped to {{< wiki-link "Artie Antlers (Cabaret)" >}} and later {{< wiki-link "BB Bubbles (Cabaret)" >}}.^(4)^
+The store was the first location to open with {{< wiki-link "Cyberamics" >}}, with them being on a Cyberamics Portrait Stage|Portrait Stage. {{< wiki-link "Dolli Dimples (Cabaret)" >}} was on the second floor with the arcades. Eventually she was swapped to {{< wiki-link "Artie Antlers (Cabaret)" >}} and later {{< wiki-link "BB Bubbles (Cabaret)" >}}.<sup>(4)</sup>
 
 ## History
 
-The store would open in May of 1979 at the *Willows Shopping Center* with its manager being Rob Schmidt.^(1)^ Its restaurant would be on the first floor, and the arcade on the second floor.^(2)^
+The store would open in May of 1979 at the *Willows Shopping Center* with its manager being Rob Schmidt.<sup>(1)</sup> Its restaurant would be on the first floor, and the arcade on the second floor.<sup>(2)</sup>
 In November/December of 1979, the {{< wiki-link "Pizza Time Theatre 1979 Spot (Commercial)" >}} commercial would be filmed at the location.
 In May of 1980 the assistant manager of the store, Sheri Walther, would win the *Pizza Times* 'Name this Newsletter' contest alongside two others who suggested the same name, with all three splitting the prize.
-The store would appear on KTVU on March 26, 1981.^(3)^
+The store would appear on KTVU on March 26, 1981.<sup>(3)</sup>
 The store would close in January of 1994 for unknown reasons, being replaced by a UFC Gym which is still around to present day.
 
 ## Animatronics

@@ -19,7 +19,7 @@ In June / July 2021 Kedzie repainted the side stages purple and installed the Li
 
 ### Nomenclature
 
-This is one of the only stage shows in CEC to not have a proper identifier given, which lead to many names being given to this stage show by fans; ranging from 'Beta 16m 3-Stage', '3 stage/Studio C hybrid', to the name popularized by YouTube user Cyclone, 'Studio 3'.^(1)(2)^
+This is one of the only stage shows in CEC to not have a proper identifier given, which lead to many names being given to this stage show by fans; ranging from 'Beta 16m 3-Stage', '3 stage/Studio C hybrid', to the name popularized by YouTube user Cyclone, 'Studio 3'.<sup>(1)(2)</sup>
 The 'Studio 3' handle is derived of the Studio 'C' props and animatronic CEC characters being present on a 3-Stage platform. The usage of Beta in some of these stage names come from the fan name for the {{< wiki-link "Studio C Beta" >}}, that of which has an internal name of 'Studio 'C' 2000'.
 
 ## Design

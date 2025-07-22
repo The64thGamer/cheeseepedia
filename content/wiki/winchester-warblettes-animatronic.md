@@ -23,7 +23,7 @@ The bot was developed in early 1977 by Harold Goldbrandsen & Fantasy Forest.
 
 ### Location Use
 
-The bot was installed in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} & Programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} in Early 1977. The bot was later programmed to the {{< wiki-link "Helen Henny Showtape" >}}, the {{< wiki-link "Madame Oink I" >}}, & the {{< wiki-link "Foxy Colleen I" >}} from August 1978 to November 1978. The bot was seen in an episode of the Australian broadcast series, 'Four Corners' in their 'New Eatery Fad' segment^(1)^.
+The bot was installed in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} & Programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} in Early 1977. The bot was later programmed to the {{< wiki-link "Helen Henny Showtape" >}}, the {{< wiki-link "Madame Oink I" >}}, & the {{< wiki-link "Foxy Colleen I" >}} from August 1978 to November 1978. The bot was seen in an episode of the Australian broadcast series, 'Four Corners' in their 'New Eatery Fad' segment<sup>(1)</sup>.
 
 ### Fate
 

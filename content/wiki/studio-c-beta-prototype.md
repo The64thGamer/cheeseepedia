@@ -18,11 +18,11 @@ In 2000 Corman & Associates created a new stage per request of CEC to lessen the
 ### Nomenclature
 
 Due to the far departure from the general concept of the stage developed afterward and the fact that was allegedly developed for 'Small Town' stores, if should be reasonably inferred that this is **not** a prototype for the {{< wiki-link "Studio C Beta" >}}.
-Building plans identify this stage show as 'Small Town Studio C'.^(1)^
+Building plans identify this stage show as 'Small Town Studio C'.<sup>(1)</sup>
 
 ## Design
 
-In general this stage consisted of a condensed version of the Studio C concept, getting rid of the late-night concept and most of the interactive elements. The blue screen received a redesign to better fit into a wall as this is the first Studio C variant to not have a area leading behind the main stage. Chuck E.'s stage has also received a redesign, reducing the late night set into a Jukebox-like fixture behind Chuck E. and Bird. Finally, a monitor was to the left of the Chuck E. animatronic, still containing the same general lighting from it's previous iteration ^(2)^.
+In general this stage consisted of a condensed version of the Studio C concept, getting rid of the late-night concept and most of the interactive elements. The blue screen received a redesign to better fit into a wall as this is the first Studio C variant to not have a area leading behind the main stage. Chuck E.'s stage has also received a redesign, reducing the late night set into a Jukebox-like fixture behind Chuck E. and Bird. Finally, a monitor was to the left of the Chuck E. animatronic, still containing the same general lighting from it's previous iteration <sup>(2)</sup>.
 The next locations received modified variants of this concept, with Tyler, TX and Clarksville, TN receiving a nearly identical stage, however the monitor was changed to be on a gray box with just three solid lights. As with Brownsville and Midland, TX--they never had a main monitor to begin with.
 
 ## Animatronics Used

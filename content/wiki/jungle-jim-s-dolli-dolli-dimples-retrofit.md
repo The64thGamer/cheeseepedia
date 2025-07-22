@@ -19,4 +19,4 @@ Dolly originally came from the {{< wiki-link "Cincinnati, OH (11400 Princeton Pi
 
 ## Lost Media & Unknown information.
 
-With how few photos/footage exists of Dolly it is currently unknown what she performed, the only evidence she worked is from 'The Jungle Jim Story' which features footage from 1991 of Dolly. Showing that she was at least aired up.^(1)^
+With how few photos/footage exists of Dolly it is currently unknown what she performed, the only evidence she worked is from 'The Jungle Jim Story' which features footage from 1991 of Dolly. Showing that she was at least aired up.<sup>(1)</sup>

@@ -31,7 +31,7 @@ In Mid 2012, the store received a major expansion which involved raising the cei
 ### Present Day
 
 Roanoke featured a 3-Stage with Pizzacam (Later Retro-Cam) & Building (Behind Helen and wasn't not functioning before removal). This store was the last location in the state of Virginia to have the Pizzacam animatronic.
-In July 2022, the store remodeled to 2.0 which involved the removal of the 3-Stage for a Dance Floor & Video Wall. In around August 2022, the stage was removed. On September 17th, 2022, Roanoke hosted their Grand Reopening^(1)^, therefore ending the process. As of February 2023, Roanoke still has the 2.0 Remodel and 2021 Dance Floor + Video Wall.
+In July 2022, the store remodeled to 2.0 which involved the removal of the 3-Stage for a Dance Floor & Video Wall. In around August 2022, the stage was removed. On September 17th, 2022, Roanoke hosted their Grand Reopening<sup>(1)</sup>, therefore ending the process. As of February 2023, Roanoke still has the 2.0 Remodel and 2021 Dance Floor + Video Wall.
 
 ## Stages
 

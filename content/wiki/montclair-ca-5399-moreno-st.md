@@ -13,7 +13,7 @@ This location should not be confused with the {{< wiki-link "ShowBiz Pizza Place
 
 ## History
 
-On August 14th, 2002, *The Los Angeles Times* reported Chuck E. Cheese's had leased most of the former Kids 'R' Us in Montclair, which shut down on August 11th, 2002 as part of the closure wave of 64 stores by Toys 'R' Us.^(1)^
+On August 14th, 2002, *The Los Angeles Times* reported Chuck E. Cheese's had leased most of the former Kids 'R' Us in Montclair, which shut down on August 11th, 2002 as part of the closure wave of 64 stores by Toys 'R' Us.<sup>(1)</sup>
 No further news ever surfaced of the location, and it can be assumed it was cancelled. The store space intended for CEC would eventually become a Dollar Tree after remaining vacant for a few years.
 
 ## Stages

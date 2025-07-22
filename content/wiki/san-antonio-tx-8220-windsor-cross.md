@@ -13,7 +13,7 @@ categories = ["Pizza Time Theatre"]
 
 ## Stages
 
-Walzem at first had a {{< wiki-link "Cyberamics Balcony Stage" >}}. However, around 1989, the stage would be removed for presumably the first {{< wiki-link "Chuck E's House Facade" >}} stage. By February 1992, the stage would be removed for one of the first 2-Stages ever installed. It remained up until closure, where the bots and props would be auctioned off. Years later, the bots, stage props, and backdrops would be found to be owned by The Magistery of Austin, TX. The show would be retrofitted in 2022^(1)^, with assistance of The King ETT, into a horse band. The process would be documented on the *History Channel* show *Secret Restoration*.^(2)^
+Walzem at first had a {{< wiki-link "Cyberamics Balcony Stage" >}}. However, around 1989, the stage would be removed for presumably the first {{< wiki-link "Chuck E's House Facade" >}} stage. By February 1992, the stage would be removed for one of the first 2-Stages ever installed. It remained up until closure, where the bots and props would be auctioned off. Years later, the bots, stage props, and backdrops would be found to be owned by The Magistery of Austin, TX. The show would be retrofitted in 2022<sup>(1)</sup>, with assistance of The King ETT, into a horse band. The process would be documented on the *History Channel* show *Secret Restoration*.<sup>(2)</sup>
 
 ## History
 

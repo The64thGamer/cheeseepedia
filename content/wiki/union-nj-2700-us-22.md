@@ -23,10 +23,10 @@ This store is a relocation of {{< wiki-link "Union, NJ (1660 US-22)" >}}, which 
 
 Following the closure announcement of its original location at {{< wiki-link "Union, NJ (1660 US-22)" >}} in 2019, plans emerged to relocate the original Union CEC to the Route 22 Retail Center. However, due to COVID-19 and the company falling into bankruptcy in 2020, the plans were put to a halt until 2022.
 This location was a former Petco that relocated in 2019. After the building was vacated, a Spirit Halloween occupied the space for two Halloween seasons.
-In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,^(1)^ starting out with completely gutting the interior of the former Petco.
+In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,<sup>(1)</sup> starting out with completely gutting the interior of the former Petco.
 On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan *'Dr. EZ*' being the first guest to step foot inside the location.
-The grand opening date for this store was originally set for June 9th, 2023,^(2)^ but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd.
-The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume {{< wiki-link "Deptford, NJ (1500 Almonesson Rd)" >}}^(3)^, and the Mr. Munch and Jasper costumes {{< wiki-link "Princeton, NJ (520 Nassau Park Blvd)" >}}.
+The grand opening date for this store was originally set for June 9th, 2023,<sup>(2)</sup> but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd.
+The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume {{< wiki-link "Deptford, NJ (1500 Almonesson Rd)" >}}<sup>(3)</sup>, and the Mr. Munch and Jasper costumes {{< wiki-link "Princeton, NJ (520 Nassau Park Blvd)" >}}.
 In May 2024, the store would receive parts for its Trampoline Zone.
 
 ## Arcade Machines

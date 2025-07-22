@@ -10,7 +10,7 @@ latitudeLongitude = ["33.62622562", "-117.70503"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***24416 Muirlands Blvd* was a franchise owned *Pizza Time Theatre* that opened in June 1981 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} and closed in October 2001.^(5)^
+***24416 Muirlands Blvd* was a franchise owned *Pizza Time Theatre* that opened in June 1981 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} and closed in October 2001.<sup>(5)</sup>
 This location became widely known as 'The Final Pizza Time Theatre' for having various elements from the 1980s still present inside the restaurant, most notably the {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}.**
 
 ## Stages
@@ -21,7 +21,7 @@ During the 1990s the showroom became increasingly more decorated, receiving larg
 
 ### Lounge Acts
 
-During its time as a Pizza Time Theatre, Lake Forest would have three lounge acts in rotation, The King, The Beagles, and The Beach Bowsers. The only videotaped character in the array of lounge acts would be The King, whose last documented appearance would be in June 1990 before being removed shortly after.^(1)^
+During its time as a Pizza Time Theatre, Lake Forest would have three lounge acts in rotation, The King, The Beagles, and The Beach Bowsers. The only videotaped character in the array of lounge acts would be The King, whose last documented appearance would be in June 1990 before being removed shortly after.<sup>(1)</sup>
 
   Stage         Installed   Removed
   ------------- ----------- --------------
@@ -29,14 +29,14 @@ During its time as a Pizza Time Theatre, Lake Forest would have three lounge act
 
 ## History
 
-The Lake Forest, California Pizza Time Theatre opened in June 1981 under the FEC, Inc. franchise^(2)^ and featured a large variety of video-based games as opposed to more physical games. The location would be considered a success by its employees throughout the location's 20-year history.
+The Lake Forest, California Pizza Time Theatre opened in June 1981 under the FEC, Inc. franchise<sup>(2)</sup> and featured a large variety of video-based games as opposed to more physical games. The location would be considered a success by its employees throughout the location's 20-year history.
 The location would remodel only once during the 1986 SPT Remodel Program, when both PTT and SPP became one company and would standardize every location under one unified design, although little would change for Lake Forest other than the edition of painted walls. The store kept the general layout of the location until its closure and kept original advertisements relating to Pizza Time Theatre along with its accompanying artwork including a custom-made drawing of Chuck E. Cheese and his friends celebrating a party among various other pieces.
-Although the location hadn't received major updates, the franchise was still successful, having received multiple awards for its sales growth. This may also be a direct cause for a local Toyota dealership to sponsor the location.^(3)^
+Although the location hadn't received major updates, the franchise was still successful, having received multiple awards for its sales growth. This may also be a direct cause for a local Toyota dealership to sponsor the location.<sup>(3)</sup>
 The only updated aspect of the store would be the games package, appearing to have never received {{< wiki-link "Phase 1 (1994)" >}}, but a condensed {{< wiki-link "Phase 2 (1997)" >}} package. Lake Forest would only receive new games later on as opposed to new attractions; most likely due to the size of the location. This small remodel would also change the exterior sign around 1997-1998.
 
 ### 2001 Footage
 
-In 2001 Robert Gotcher and Jeremy Blaido visited this location and interviewed two cast members of the location. The video would be featured in a 25th-anniversary video created for CEC associates.^(4)^
+In 2001 Robert Gotcher and Jeremy Blaido visited this location and interviewed two cast members of the location. The video would be featured in a 25th-anniversary video created for CEC associates.<sup>(4)</sup>
 
 ### Closure
 

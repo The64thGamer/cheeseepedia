@@ -68,7 +68,7 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
 - If You're Happy & You Know It
 - Old MacDonald
 
-## Production^(1)^
+## Production<sup>(1)</sup>
 
 Production of April 2012 began in February 2012.
 

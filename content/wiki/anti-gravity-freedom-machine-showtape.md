@@ -12,11 +12,11 @@ showtapeFormats = ["NRAE SVHS"]
 alsoKnownAs = ["AGFM Showtape"]
 +++
 The ***Anti-Gravity Freedom Machine Showtape* was a tape created for CES 1997 to showcase the Anti-Gravity Freedom Machine, which debuted from January 9-12, 1997.
-The tape only features {{< wiki-link "Billy Bob (Mijjin)" >}} as a performing character who acts alongside a host in a pre-written script. The host during the show was Aaron Fechter.^(0)^**
+The tape only features {{< wiki-link "Billy Bob (Mijjin)" >}} as a performing character who acts alongside a host in a pre-written script. The host during the show was Aaron Fechter.<sup>(0)</sup>**
 
 ## Show List
 
-Only a few segments are known from footage of the tape's broadcast. It is unclear if there are more segments not seen.^(0)^
+Only a few segments are known from footage of the tape's broadcast. It is unclear if there are more segments not seen.<sup>(0)</sup>
 
 1.   **Segment 1**
     1.  Demonstration of the AGFM Skit

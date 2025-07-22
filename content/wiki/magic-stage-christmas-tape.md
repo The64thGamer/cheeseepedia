@@ -12,11 +12,11 @@ showtapeFormats = ["CEI 4-Track Reel"]
 +++
 ***Magic Stage Christmas Tape* was a unique showtape created for the {{< wiki-link "Magic Stage Prototype" >}} in November of 1985.
 The show and stage would debut at an unknown Texas store. The characters were rebranded from the Rock-afire Explosion to a band simply called 'Magic'. Character names and Rock-afire shows were still used for the showtape however. An uncredited announcer is used exclusively for the tape to introduce the band.
-{{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, and Antioch (Animatronic)|Antioch would be absent from the show due to them being taken off stage, though most likely their show signals were still being sent due to the re-use of older programming, as seen in other similar instances to removed characters.^(1)^**
+{{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, and Antioch (Animatronic)|Antioch would be absent from the show due to them being taken off stage, though most likely their show signals were still being sent due to the re-use of older programming, as seen in other similar instances to removed characters.<sup>(1)</sup>**
 
 ## Audio
 
-The tape's audio was found on a cassette from an undisclosed source and released to the public in 2023.^(2)^ The given audio has no breaks between show segments, despite the *Pre-Show Skit* referencing a 2 minute gap until the *Show Announcement* segment. It is unclear if the breaks were removed to fit the audio onto the cassette, or if the showtape also did not have these breaks between segments.
+The tape's audio was found on a cassette from an undisclosed source and released to the public in 2023.<sup>(2)</sup> The given audio has no breaks between show segments, despite the *Pre-Show Skit* referencing a 2 minute gap until the *Show Announcement* segment. It is unclear if the breaks were removed to fit the audio onto the cassette, or if the showtape also did not have these breaks between segments.
 The original reel audio alongside {{< wiki-link "Data" >}} for the shows are still lost media.
 
 ## Summary

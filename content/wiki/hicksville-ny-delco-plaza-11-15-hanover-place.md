@@ -25,7 +25,7 @@ This location opened with a 1-Stage show right before the finalized version was 
 ## History
 
 Hicksville opened on January 24, 1994 with a 1-Stage. Upon its opening, the location was featured in a CEC Special Report segment, which was included in the showtape {{< wiki-link "Let The Good Times Roll" >}}. The store opened with the Major 90s Remodel which had the Record Posters, Green Booths, and other features. In the late 90s-Early 2000s, the store received Phase 3. Which included more decor being added, and a new exterior with the Thumb Chuck logo.
-The restaurant had an initial expansion between 2004 to 2005. The restaurant was expanded again sometime in mid-to-late 2013^(1)^. Because of it, Hicksville had to get 2010 update to {{< wiki-link "CEC 2000's Remodel Program" >}}, and the entrance was reconfigured. The 2013 expansion utilized space from a Blockbuster Video location which had closed sometime between 2007 to 2011^(2)^.
+The restaurant had an initial expansion between 2004 to 2005. The restaurant was expanded again sometime in mid-to-late 2013<sup>(1)</sup>. Because of it, Hicksville had to get 2010 update to {{< wiki-link "CEC 2000's Remodel Program" >}}, and the entrance was reconfigured. The 2013 expansion utilized space from a Blockbuster Video location which had closed sometime between 2007 to 2011<sup>(2)</sup>.
 
 ### Modern Updates
 
@@ -46,9 +46,9 @@ CEC then announced on June 28th, 2024, that the Grand Reopening Party would be h
 
   Link                                                                 Description                                                                                   Filming Date
   -------------------------------------------------------------------- --------------------------------------------------------------------------------------------- ------------------
-  [Link](https://www.youtube.com/watch?v=_1wiv1KNKjg)                  CEC Special Report in which the Hicksville location is announced (starting from 0:50).^(3)^   January 1994
-  [Link](https://www.youtube.com/watch?v=RGGl8Nvi2cI)                  Footage of the show.^(4)^                                                                     March 10, 2012
-  [Link](https://www.youtube.com/watch?v=o-DUuaBXVwY)                  A view of the interior of the restaurant at night.^(5)^                                       November 7, 2020
+  [Link](https://www.youtube.com/watch?v=_1wiv1KNKjg)                  CEC Special Report in which the Hicksville location is announced (starting from 0:50).<sup>(3)</sup>   January 1994
+  [Link](https://www.youtube.com/watch?v=RGGl8Nvi2cI)                  Footage of the show.<sup>(4)</sup>                                                                     March 10, 2012
+  [Link](https://www.youtube.com/watch?v=o-DUuaBXVwY)                  A view of the interior of the restaurant at night.<sup>(5)</sup>                                       November 7, 2020
   [Link](https://archive.org/details/cec-hicksville-ny-promo-videos)   New York Times Promotional Videos of the stage in operation.                                  2024
   [Link](https://www.youtube.com/watch?v=nTwc-C2HFs0)                  A video of the stage performing 'Song of Summer' recorded by Rockafire Moon.                May 21, 2024
 

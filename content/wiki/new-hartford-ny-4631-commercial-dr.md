@@ -29,4 +29,4 @@ The animatronic had its eyebrows and hat removed at some point during its histor
 
   Animatronic                                                Serial   Whereabouts
   ---------------------------------------------------------- -------- -------------------------------------------------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}            Partially owned by a private collector, otherwise destroyed^(1)^.
+  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}            Partially owned by a private collector, otherwise destroyed<sup>(1)</sup>.

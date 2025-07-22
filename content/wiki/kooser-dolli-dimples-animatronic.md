@@ -21,7 +21,7 @@ The Kooser Dolli bot was created by {{< wiki-link "Fantasy Forest" >}} in 1978 f
 
 ### In Store
 
-The Kooser Dolli bot was installed in the Piano Bar Lounge at Kooser somewhere before it's opening in December 1978. The bot would become one of Kooser's & PTT's major selling points in the late 70's in which it would be called The 'Dolli Dimples Cabaret'^(1)^. The bot was featured in a 1979 segment of Real People, in which she played the song, Talk to the Animals^(2)^. Later in 1979, The Australian Brodcasting Commision show 'Four Corners' ran a segment called 'New Eatery Fad'^(3)^ which included the Dolli bot singing the second segment of the Kooser Dolli show. The bot would be in the Cabaret up until 1980 in which the bot would be removed.
+The Kooser Dolli bot was installed in the Piano Bar Lounge at Kooser somewhere before it's opening in December 1978. The bot would become one of Kooser's & PTT's major selling points in the late 70's in which it would be called The 'Dolli Dimples Cabaret'<sup>(1)</sup>. The bot was featured in a 1979 segment of Real People, in which she played the song, Talk to the Animals<sup>(2)</sup>. Later in 1979, The Australian Brodcasting Commision show 'Four Corners' ran a segment called 'New Eatery Fad'<sup>(3)</sup> which included the Dolli bot singing the second segment of the Kooser Dolli show. The bot would be in the Cabaret up until 1980 in which the bot would be removed.
 
 ### Fate
 

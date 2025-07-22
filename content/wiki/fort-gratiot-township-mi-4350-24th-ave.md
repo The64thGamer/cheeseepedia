@@ -23,7 +23,7 @@ The CEC would then open it's doors on July 8th, 2004 with one of three Small-Tow
 
 ### Post CEC (July 2014-Present)
 
-After it's closure, it became a FEC called Bouncin Play which didn't last long. The store would then become Five Below sometime in 2016^(1)^
+After it's closure, it became a FEC called Bouncin Play which didn't last long. The store would then become Five Below sometime in 2016<sup>(1)</sup>
 
 ## Stages
 

@@ -15,11 +15,11 @@ categories = ["ShowBiz Pizza Place"]
 ## Stages
 
 This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band.
-Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas^(1)^. The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996.
+Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas<sup>(1)</sup>. The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996.
 The first of these customizations was the Vegas Stage (Mobile, AL)|Vegas Stage. At first, it was small quality-of-life improvements and making the show look better. Later on, it became its own concept. Afterward was a Winter Stage (Mobile, AL)|Winter Stage retrofit Brian also made use of Antioch's tolomatic lift, children's toys, and customized a tuxedo for Chuck E. Cheese for the Playroom Stage (Mobile, AL)|Playroom Stage.
 In 1992, the Playroom Stage retrofit began being retrofitted back into the standard 3-Stage look but with some things being untouched like Pasqually's position, Jasper's can, and Chuck E's base. All of the characters' outfits were also reverted. The backdrops were sourced from SPT, the store's originals having been thrown away rather than stored. At an unknown point after 2002, Chuck E's base was replaced with the regular black one.
 By 2010, the tuxedo on Chuck E. was finally replaced with the new 'Avenger' outfit.
-In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.^(2)^ The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt.
+In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.<sup>(2)</sup> The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt.
 The Cyberstar (disambiguation)|Cyberstar broke shortly before the 3-Stage was removed in October 2019, making the location to have the first {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} installed in Alabama.
 The showroom would be called mediocre by many due to only having the art of Chuck E. Cheese and Helen Henny in the area and then having two screens between. This would finally be changed sometime in June 2023 when the store received the {{< wiki-link "Video Wall" >}}.
 
@@ -34,7 +34,7 @@ The showroom would be called mediocre by many due to only having the art of Chuc
 
 ### ShowBiz Pizza Advertisements
 
-Before ShowBiz Pizza opened in Mobile an advertisement was run in the local newspapers that advertised ShowBiz coming soon to Mobile, Alabama.^(3)^ This advertisement would be subject to an infamous edit over 35 years later that depicted Freddy Fazbear from Five Nights At Freddy's in the place of Billy Bob, this time advertising Freddy Fazbear's Pizza.^(3)^
+Before ShowBiz Pizza opened in Mobile an advertisement was run in the local newspapers that advertised ShowBiz coming soon to Mobile, Alabama.<sup>(3)</sup> This advertisement would be subject to an infamous edit over 35 years later that depicted Freddy Fazbear from Five Nights At Freddy's in the place of Billy Bob, this time advertising Freddy Fazbear's Pizza.<sup>(3)</sup>
 On February 10, 1982 *the* Mobile ShowBiz Pizza opened to the public and was located near the competing Pizza Time Theatre at Mobile, AL (4685 Airport Blvd)|*4685 Airport Blvd*. When the Pizza Time Theatre closed permanently in February 1984, ShowBiz Pizza ran advertisements that say that they'd honor guest's PTT tokens and or coupons at their location.
 
 ### Remodels
@@ -45,12 +45,12 @@ This location began to remodel in October of 2019, first painting the exterior w
 
 ### July 22, 2023 Fire
 
-On July 22, a fire allegedly started in the building.^(3)^
+On July 22, a fire allegedly started in the building.<sup>(3)</sup>
 
 ### Misc.
 
 - When the store was remodeled in 2005 they received {{< wiki-link "CEC Warhol - Quad (CEC Décor)" >}} but was missing the fourth one that was supposed to come with it ever since.
-- On May 19, 2011, a Geocache named 'Chuck E Cheese Geo to JAPAN' is created with the intent of sending a Chuck E. Cheese plushie location to Japan. On June 7, 2011, the Plush toy was last seen in a photo with the Chuck E. Cheese walkaround at the Mobile, AL Chuck E. Cheese's.^(6)^
+- On May 19, 2011, a Geocache named 'Chuck E Cheese Geo to JAPAN' is created with the intent of sending a Chuck E. Cheese plushie location to Japan. On June 7, 2011, the Plush toy was last seen in a photo with the Chuck E. Cheese walkaround at the Mobile, AL Chuck E. Cheese's.<sup>(6)</sup>
 - Sometime around June 2023, the store's street sign was removed.
 
 ## Videos

@@ -13,7 +13,7 @@ categories = ["Pizza Time Theatre"]
 
 ## Stage
 
-The store was the second location to open with {{< wiki-link "Cyberamics" >}}, with them being on a Cyberamics Portrait Stage|Portrait Stage. The store also had a {{< wiki-link "Dolli Dimples (Cabaret)" >}}.^(1)^ {{< wiki-link "Artie Antlers (Cabaret)" >}} would appear at the location in May of 1980 for a six month period, replacing Dolli.^(2)(3)^
+The store was the second location to open with {{< wiki-link "Cyberamics" >}}, with them being on a Cyberamics Portrait Stage|Portrait Stage. The store also had a {{< wiki-link "Dolli Dimples (Cabaret)" >}}.<sup>(1)</sup> {{< wiki-link "Artie Antlers (Cabaret)" >}} would appear at the location in May of 1980 for a six month period, replacing Dolli.<sup>(2)(3)</sup>
 
   Stage            Installed     Removed
   ---------------- ------------- ---------------
@@ -23,22 +23,22 @@ The store was the second location to open with {{< wiki-link "Cyberamics" >}}, w
 
 ### Opening
 
-The first mention of the Florin store would be on July 28th, 1979 for a job listing for the opening staff.^(4)^ The store would open on August 14, 1979.^(0)^
-Some time before December of 1979, Florin Center would change its name to the now Florin Mall. The store would celebrate by displaying a PTT themed taxi in the mall itself, alongside hosting a draw for a $1,000 'Dolli Dimples Party'. Bernice Hing would win the draw and bring in 105 guests for the party.^(1)^
-Florin's Assistant Manager Ben Kline would be one of the first to complete Pizza Time Theatre's Management Training Program.^(6)^ Another Assistant Manager, Randy Morse, would later become one of the training staff for the program in 1981.
-During the opening of {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} on December 26, 1979, the District Manager Roger Berke had to deliver pizzas from the Florin location to Cirtus Heights due to the store's gas lines not being turned on yet.^(2)^
+The first mention of the Florin store would be on July 28th, 1979 for a job listing for the opening staff.<sup>(4)</sup> The store would open on August 14, 1979.<sup>(0)</sup>
+Some time before December of 1979, Florin Center would change its name to the now Florin Mall. The store would celebrate by displaying a PTT themed taxi in the mall itself, alongside hosting a draw for a $1,000 'Dolli Dimples Party'. Bernice Hing would win the draw and bring in 105 guests for the party.<sup>(1)</sup>
+Florin's Assistant Manager Ben Kline would be one of the first to complete Pizza Time Theatre's Management Training Program.<sup>(6)</sup> Another Assistant Manager, Randy Morse, would later become one of the training staff for the program in 1981.
+During the opening of {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} on December 26, 1979, the District Manager Roger Berke had to deliver pizzas from the Florin location to Cirtus Heights due to the store's gas lines not being turned on yet.<sup>(2)</sup>
 
 ### 1980
 
-Some time before May of 1980, Scott Nelson, a former assistant manager for {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} during its opening, would be named manager of the Florin Mall location. He would be Pizza Time Theatre's youngest manager at the time- being just 21.^(8)^
+Some time before May of 1980, Scott Nelson, a former assistant manager for {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} during its opening, would be named manager of the Florin Mall location. He would be Pizza Time Theatre's youngest manager at the time- being just 21.<sup>(8)</sup>
 
 ### 1983
 
-In early 1983 Florin would receive the award for best performance in the Northern California area for training employees for 1982.^(9)^ At the same time Florin alongside Sacramento, CA (7020 Stockton Blvd), Lodi, CA, {{< wiki-link "Modesto, CA (3037 Sisk Rd)" >}}, and {{< wiki-link "Sacramento, CA (1690-96 Arden Way)" >}} would host a dough rolling tournament. It is unknown which store won.
+In early 1983 Florin would receive the award for best performance in the Northern California area for training employees for 1982.<sup>(9)</sup> At the same time Florin alongside Sacramento, CA (7020 Stockton Blvd), Lodi, CA, {{< wiki-link "Modesto, CA (3037 Sisk Rd)" >}}, and {{< wiki-link "Sacramento, CA (1690-96 Arden Way)" >}} would host a dough rolling tournament. It is unknown which store won.
 
 ### Closing
 
-The store would be held for auction on December 14, 1985 at 10AM. It is unknown if the store had already closed before then.^(1)^
+The store would be held for auction on December 14, 1985 at 10AM. It is unknown if the store had already closed before then.<sup>(1)</sup>
 
 ## Animatronics
 

@@ -14,7 +14,7 @@ categories = ["Pizza Time Theatre"]
 
 ## History
 
-Tempe opened in 1981 and was a regular PTT. It had Harmony Howlette, Madame Oink and Helen Henny throughout its lifespan. It also had Dolli Dimples as a cabaret. The stars of the local kids' show *Wallace & Ladmo* performed a Christmas show at the location in 1982.^(1)^ The walkaround also appeared with Ladmo at Tempe Public Library in the early 80s.^(2)^ The location would remain the same throughout its lifespan, closing right after the bankruptcy.
+Tempe opened in 1981 and was a regular PTT. It had Harmony Howlette, Madame Oink and Helen Henny throughout its lifespan. It also had Dolli Dimples as a cabaret. The stars of the local kids' show *Wallace & Ladmo* performed a Christmas show at the location in 1982.<sup>(1)</sup> The walkaround also appeared with Ladmo at Tempe Public Library in the early 80s.<sup>(2)</sup> The location would remain the same throughout its lifespan, closing right after the bankruptcy.
 
 ## Animatronics
 

@@ -15,7 +15,7 @@ latitudeLongitude = ["30.00157662","-95.26794923"]
 
 ### Pre-CEC
 
-The entire shopping center that Chuck E. Cheese currently occupies was originally built in 1979^(1)^ as a Randalls Food Market, opening around 1980. Randalls would operate until its closure in 1993,^(2)^ later being subdivided into an Office Depot and Discovery Zone. There's no known information about Humble's Discovery Zone but closed presumably around the late 90s. After Discovery Zone's closure, Chuck E. Cheese would eventually take over the space of the former Discovery Zone.
+The entire shopping center that Chuck E. Cheese currently occupies was originally built in 1979<sup>(1)</sup> as a Randalls Food Market, opening around 1980. Randalls would operate until its closure in 1993,<sup>(2)</sup> later being subdivided into an Office Depot and Discovery Zone. There's no known information about Humble's Discovery Zone but closed presumably around the late 90s. After Discovery Zone's closure, Chuck E. Cheese would eventually take over the space of the former Discovery Zone.
 
 ### Opening as CEC
 
@@ -23,7 +23,7 @@ On December 16th, 1999, this store had opened their doors with the 1999 Remodel 
 
 ### 2005 Update
 
-In November 2007,^(3)^ the store would begin its remodel to the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The exterior would remain like this until near the end of 2021, when the exterior was repainted due to the shopping center it was in remodeling. It would remain like this until 2022 when they received the 2.0 remodel.
+In November 2007,<sup>(3)</sup> the store would begin its remodel to the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The exterior would remain like this until near the end of 2021, when the exterior was repainted due to the shopping center it was in remodeling. It would remain like this until 2022 when they received the 2.0 remodel.
 
 ### 2.0 Remodel
 

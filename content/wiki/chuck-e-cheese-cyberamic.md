@@ -24,7 +24,7 @@ The animatronics were first developed by PTT Inc. as a replacement for the Origi
 in the Late 1980's.]]
 In 1979, The first Cyberamic Chuck E. Cheese was installed at the Pizza Time Theatre in {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} on a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, with several more bots following. Early Chuck Cyberamics, such as the one at {{< wiki-link "Sacramento , CA (7020 Stockton Blvd)" >}}, had cosmetics more reminiscent of prototype iterations of the character seen at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}.
 In 1979, Fantasy Forest would produce a Cyberamic Chuck Costume. In early to mid 1980, due to Nolan Bushnell's commitment to The Great American Smoke-Out, all existing & future Cyberamic Chuck bots would have their Cigars removed.
-In May 1980, A Cyberamic Chuck bot was placed on the Balcony Stage of the Pizza Time Theatre on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}^(1)^.
+In May 1980, A Cyberamic Chuck bot was placed on the Balcony Stage of the Pizza Time Theatre on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}<sup>(1)</sup>.
 In 1983, a {{< wiki-link "The King King Kat (Lounge)" >}}-styled Cyberamic Chuck E. Cheese, Known as {{< wiki-link "Half-A-Chuck (Cyberamic)" >}}, was built as a prototype. It was later given to the Foothill College Electronics Museum in San Jose, California. In November of that same year, PTT would cease it's manufacturing of bots and operate its Cyberamics division as a maintenance facility only.
 At an unknown time Pre-Merger, A PTT location replaced their Chuck costume's head with a Cyber Chuck head.
 

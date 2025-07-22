@@ -13,7 +13,7 @@ Santa On Stage was an event that reused the Uncle Klunk animatronic as Santa for
 
 ## Store Appearances
 
-Klunks would be confirmed to have traveled from their original locations to new locations during this event, though it is unknown how many new stores received them.^(1)^
+Klunks would be confirmed to have traveled from their original locations to new locations during this event, though it is unknown how many new stores received them.<sup>(1)</sup>
 Six stores would be confirmed to have kept Klunk from the previous {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}} event.
 
 - Springfield, MO (700 W Sunshine St)
@@ -26,13 +26,13 @@ Six stores would be confirmed to have kept Klunk from the previous {{< wiki-link
 24 stores would either receive their Klunks for the first time, or previously already had him but aren't confirmed to have yet.
 
 - {{< wiki-link "Dallas, TX (7110 S Westmoreland Rd)" >}}
-- Fort Worth, TX (5014 Trail Lake Dr)^(18)^
-- {{< wiki-link "Garland, TX (1340 W Centerville Rd)" >}}^(18)^
-- {{< wiki-link "White Settlement, TX (7750 Scott St)" >}}^(18)^
-- {{< wiki-link "Arlington, TX (3200 Justiss Dr)" >}}^(18)^
-- {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}^(18)^
-- Carrollton, TX (1927 E Belt Line Rd)^(18)^
-- {{< wiki-link "Richardson, TX (1235 E Belt Line Rd)" >}}^(18)^
+- Fort Worth, TX (5014 Trail Lake Dr)<sup>(18)</sup>
+- {{< wiki-link "Garland, TX (1340 W Centerville Rd)" >}}<sup>(18)</sup>
+- {{< wiki-link "White Settlement, TX (7750 Scott St)" >}}<sup>(18)</sup>
+- {{< wiki-link "Arlington, TX (3200 Justiss Dr)" >}}<sup>(18)</sup>
+- {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}<sup>(18)</sup>
+- Carrollton, TX (1927 E Belt Line Rd)<sup>(18)</sup>
+- {{< wiki-link "Richardson, TX (1235 E Belt Line Rd)" >}}<sup>(18)</sup>
 - {{< wiki-link "Naperville, IL (1154 E Ogden Ave)" >}}
 - {{< wiki-link "Arlington Heights, IL (955 W Dundee Rd)" >}}
 - {{< wiki-link "Bloomingdale, IL (132 E Lake St)" >}}
@@ -41,20 +41,20 @@ Six stores would be confirmed to have kept Klunk from the previous {{< wiki-link
 - Mt. Prospect, IL (1500 S Elmhurst Rd)
 - {{< wiki-link "Matteson, IL (106 Town Center Rd)" >}}
 - {{< wiki-link "Oak Lawn, IL (4031 95th St)" >}}
-- {{< wiki-link "Pensacola, FL (7350 Plantation Rd)" >}}^(1)^
+- {{< wiki-link "Pensacola, FL (7350 Plantation Rd)" >}}<sup>(1)</sup>
 - Tucker / Atlanta, GA (3850 Lavista Rd)https://www.newspapers.com/image/974127131/?terms=%22ShowBiz%20Pizza%22%20%22Santa%20On%20Stage%22&match=1
-- {{< wiki-link "Marietta, GA (4340 Roswell Rd)" >}}^(16)^
-- Morrow, GA (1351 Morrow Industrial)^(16)^
-- {{< wiki-link "Atlanta, GA (2990 Cumberland Blvd)" >}}^(16)^
-- Alton, IL (1709 Homer M Adams Pkwy)^(3)^
-- {{< wiki-link "West Des Moines, IA (1431 22nd St)" >}}^(4)^
-- {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}}^(5)^
+- {{< wiki-link "Marietta, GA (4340 Roswell Rd)" >}}<sup>(16)</sup>
+- Morrow, GA (1351 Morrow Industrial)<sup>(16)</sup>
+- {{< wiki-link "Atlanta, GA (2990 Cumberland Blvd)" >}}<sup>(16)</sup>
+- Alton, IL (1709 Homer M Adams Pkwy)<sup>(3)</sup>
+- {{< wiki-link "West Des Moines, IA (1431 22nd St)" >}}<sup>(4)</sup>
+- {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}}<sup>(5)</sup>
 
 ### Unconfirmed Stores
 
 Two stores had some sort of Klunk part discovered at their location. Springfield with Klunk valves, and Davenport with a Klunk arm. This confirms Klunk was present at their store at some point, but it is unknown which event(s) he was used in. Davenport does mention potentially receiving a Klunk for 1983 however.https://www.newspapers.com/image/665684553/?clipping_id=55395460&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjY2NTY4NDU1MywiaWF0IjoxNjk2OTcwNDk0LCJleHAiOjE2OTcwNTY4OTR9.sClG1OZrf2KnRIxRDXP7BAdtVpv1p4YKdgIgIRQHA4Q
 
-- {{< wiki-link "Springfield, OH (2345 Valley Loop Rd)" >}}^(6)^
-- {{< wiki-link "Davenport, IA (903 E Kimberly Rd)" >}}^(7)(0)^
+- {{< wiki-link "Springfield, OH (2345 Valley Loop Rd)" >}}<sup>(6)</sup>
+- {{< wiki-link "Davenport, IA (903 E Kimberly Rd)" >}}<sup>(7)(0)</sup>
 
 The Farmington Hills, MI (29955 Orchard Lake Rd) store also could have had Klunk either for this event or {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}} before its closing, due to {{< wiki-link "Chicago, IL (5030 S Kedzie Ave)" >}} having a Klunk. Farmington transferred all their animatronics to Kedzie for them to open with in November of 1984, meaning a Klunk could have potentially been one of them.

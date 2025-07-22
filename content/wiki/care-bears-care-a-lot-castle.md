@@ -50,7 +50,7 @@ Despite his name and personality, Grumpy is a periwinkle blue bear that values f
 
 ### Professor Coldheart
 
-The original villain of the Care Bears franchise, Coldheart is notorious for plotting misery upon the world, and will do whatever it takes to accomplish his goal (even practicing child labor and kidnapping).^(1)(2)^ Despite his scientific skills, Coldheart's hatred for happiness never lasts as the Care Bears continually defeat him and foil his schemes. Although Coldheart does not appear as an animatronic nor through voice, he is mentioned by name in the Indonesian soundtrack of *Care-A-Lot Castle*. In the English soundtrack, his antagonistic role is instead taken up by newcomers No-Heart and Beastly.
+The original villain of the Care Bears franchise, Coldheart is notorious for plotting misery upon the world, and will do whatever it takes to accomplish his goal (even practicing child labor and kidnapping).<sup>(1)(2)</sup> Despite his scientific skills, Coldheart's hatred for happiness never lasts as the Care Bears continually defeat him and foil his schemes. Although Coldheart does not appear as an animatronic nor through voice, he is mentioned by name in the Indonesian soundtrack of *Care-A-Lot Castle*. In the English soundtrack, his antagonistic role is instead taken up by newcomers No-Heart and Beastly.
 
 ### No-Heart
 

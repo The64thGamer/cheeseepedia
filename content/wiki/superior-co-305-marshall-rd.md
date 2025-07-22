@@ -20,7 +20,7 @@ Superior opened in the Superior Marketplace on December 23, 2003 with a {{< wiki
 
 ### Wildfire Incident
 
-On the afternoon of December 30, 2021, people inside the location had to evacuate due to a massive wildfire outside.^(1)(2)(3)(4)^ After the incident, the store was temporarily closed until May 5th, 2022, when repairs could be done.^(5)^
+On the afternoon of December 30, 2021, people inside the location had to evacuate due to a massive wildfire outside.<sup>(1)(2)(3)(4)</sup> After the incident, the store was temporarily closed until May 5th, 2022, when repairs could be done.<sup>(5)</sup>
 
 ### 2.0 Remodel
 

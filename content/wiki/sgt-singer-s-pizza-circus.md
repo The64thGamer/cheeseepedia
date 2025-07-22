@@ -14,7 +14,7 @@ citations = ["[https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Inco
 
 ### *Nickels and Dimes Incorporated*
 
-*Nickels and Dimes Incorporated* (NDI) is an entertainment company founded by Craig Singer sometime around 1972 in Carrollton, Texas.^(1)^ NDI was best known as the operator of *Tilt* arcades and *Gold Mine* arcades throughout the 1970's and 1980's.
+*Nickels and Dimes Incorporated* (NDI) is an entertainment company founded by Craig Singer sometime around 1972 in Carrollton, Texas.<sup>(1)</sup> NDI was best known as the operator of *Tilt* arcades and *Gold Mine* arcades throughout the 1970's and 1980's.
 
 *Sgt. Singer's Spectacular Star Studded Circus Pizza Show*
 
@@ -34,7 +34,7 @@ By this point in time, the *Sgt. Singer's Pizza Circus* chain had officially bee
 
 ### Sgt. Singer / Sgt. Striper
 
-(Voiced by Mark Brink) A tiger on acoustic guitar who fearlessly, 'leads his troops,' in a menagerie of musical entertainment. The character's name was initially named after creator, Craig Singer, before being renamed Sgt. Striper for wide distribution.^(2)^
+(Voiced by Mark Brink) A tiger on acoustic guitar who fearlessly, 'leads his troops,' in a menagerie of musical entertainment. The character's name was initially named after creator, Craig Singer, before being renamed Sgt. Striper for wide distribution.<sup>(2)</sup>
 
 ### P.T. Bearum / Libby Beara'ce
 
@@ -50,7 +50,7 @@ By this point in time, the *Sgt. Singer's Pizza Circus* chain had officially bee
 
 ### Pete and Repete
 
-Not to be confused with Creative Engineering's Pete Thornsberry and Repeat Thornsberry of the {{< wiki-link "Hard Luck Bears" >}}, Pete (an elephant) and Repete (a mouse) were supposedly a comedic duo on Stage Left. Not much information is known about these two, though it's possible that they were retrofitted versions of Patty the Piano-Playing Pachyderm and Mortimer D. Mouse from CPI's Animal Crackers (which was used in the Decatur, GA store).^(1)^
+Not to be confused with Creative Engineering's Pete Thornsberry and Repeat Thornsberry of the {{< wiki-link "Hard Luck Bears" >}}, Pete (an elephant) and Repete (a mouse) were supposedly a comedic duo on Stage Left. Not much information is known about these two, though it's possible that they were retrofitted versions of Patty the Piano-Playing Pachyderm and Mortimer D. Mouse from CPI's Animal Crackers (which was used in the Decatur, GA store).<sup>(1)</sup>
 
 ## Stage Composition
 
@@ -83,7 +83,7 @@ When Creative Presentations began to sell off the remaining Sgt. Singer's stock,
 
 ## Current Whereabouts
 
-Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japanese-based Okamoto Amusements purchased 3 Sgt. Striper shows (and one The Ape-Ology's|Ape-Ology's show) to be leased by Japanese theme parks. Okamoto offered the Circus Band, Beach Bums, and Barnyard Band show variants.^(0)^ At least two of these shows had been rediscovered and were said to have been sold in 2023.^(3)^
+Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japanese-based Okamoto Amusements purchased 3 Sgt. Striper shows (and one The Ape-Ology's|Ape-Ology's show) to be leased by Japanese theme parks. Okamoto offered the Circus Band, Beach Bums, and Barnyard Band show variants.<sup>(0)</sup> At least two of these shows had been rediscovered and were said to have been sold in 2023.<sup>(3)</sup>
 
 ## Videos
 
@@ -94,5 +94,5 @@ Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japa
 
 ## Trivia
 
-- The *Sgt. Singer's* store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire & the B.O.Y.S, Patty Pachyderm & Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.^(4)^
-- During {{< wiki-link "Concept Unification" >}}, Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to ShowBiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.^(5)^
+- The *Sgt. Singer's* store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire & the B.O.Y.S, Patty Pachyderm & Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.<sup>(4)</sup>
+- During {{< wiki-link "Concept Unification" >}}, Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to ShowBiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.<sup>(5)</sup>

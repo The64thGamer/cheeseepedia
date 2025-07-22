@@ -14,7 +14,7 @@ alsoKnownAs = ["CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE 041984","CREATIVE E
 
 ## Revision
 
-The tape would see a revision a week later on April 26, 1984. It is unknown what was changed in the revision.^(1)^
+The tape would see a revision a week later on April 26, 1984. It is unknown what was changed in the revision.<sup>(1)</sup>
 
 ## Segment List
 

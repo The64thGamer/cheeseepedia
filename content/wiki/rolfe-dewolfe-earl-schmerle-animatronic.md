@@ -26,7 +26,7 @@ He is holding a yellow puppet called Earl, Earl wears a dark blue vest, baggy pa
 
 ### Movements
 
-The bot features twenty two movements in total.^(1)^.
+The bot features twenty two movements in total.<sup>(1)</sup>.
 
   Rolfe Movement     Number
   ------------------ --------

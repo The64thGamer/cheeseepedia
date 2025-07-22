@@ -10,7 +10,7 @@ latitudeLongitude = ["40.56585242", "-74.55869008"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***600 Promenade Blvd, Store #512* was a Chuck E. Cheese's that opened on February 7, 2000, with a Studio C (1997)|Studio C Alpha and closed on April 7, 2024.^(1)^ This location was known for having the last Interactive Console in existence.**
+***600 Promenade Blvd, Store #512* was a Chuck E. Cheese's that opened on February 7, 2000, with a Studio C (1997)|Studio C Alpha and closed on April 7, 2024.<sup>(1)</sup> This location was known for having the last Interactive Console in existence.**
 
 ## Stages
 

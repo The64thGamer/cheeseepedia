@@ -49,7 +49,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 ### Chuck E. Cheese
 
-### Elegance Salon de Eventos^(1)^
+### Elegance Salon de Eventos<sup>(1)</sup>
 
 ## Videos
 

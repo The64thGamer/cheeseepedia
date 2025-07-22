@@ -13,7 +13,7 @@ pageThumbnailFile = "BTDHx83cBYUKC8eIPfd5.avif"
 
 ## History
 
-The Moonrockers were created in 1985 by Burt Wilson shortly after the SPT merger the same year. It was originally advertised as an upgrade to a Rock-afire center stage, with the title of 'The World's Only Convertible, Animated Show.' It would cost $15,000 dollars for the Moonrockers upgrade. In the promotional pamphlet^(1)^ for the show, it also advertises a version of the Moonrockers which would utilize all three stages of the original Rock-afire stage. It is unknown what this would look like.
+The Moonrockers were created in 1985 by Burt Wilson shortly after the SPT merger the same year. It was originally advertised as an upgrade to a Rock-afire center stage, with the title of 'The World's Only Convertible, Animated Show.' It would cost $15,000 dollars for the Moonrockers upgrade. In the promotional pamphlet<sup>(1)</sup> for the show, it also advertises a version of the Moonrockers which would utilize all three stages of the original Rock-afire stage. It is unknown what this would look like.
 The band consists of six characters on one stage. From left to right, Ozone on drums, Admiral Oort, the leader of the band, on the organ, Quazar on the 'lazar' guitar, and Princess Haley, vocalist, on the far right. Reskins of Choo Choo and Antioch are present, being a volcano creature and a one eyed bat, but are not given any official names. Sun and Moon reskins are not present on the stage.
 
 ### Prototype Version

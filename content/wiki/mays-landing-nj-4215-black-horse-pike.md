@@ -27,7 +27,7 @@ On May 26th, 2024, Mays Landing began their {{< wiki-link "CEC 2.0 Remodel Progr
 
   Animatronic                                                Serial   Whereabouts
   ---------------------------------------------------------- -------- --------------------------------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   156      Destroyed. Remains owned by NickGT50.^(1)^
+  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   156      Destroyed. Remains owned by NickGT50.<sup>(1)</sup>
   {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A      Owned by a Private Collector
                                                                       
 

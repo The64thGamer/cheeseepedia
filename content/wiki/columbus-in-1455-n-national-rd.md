@@ -10,7 +10,7 @@ citations = ["[https://www.therepublic.com/2023/10/04/columbus-chuck-e-cheese-to
 pageThumbnailFile = "Csy34mwDoe_W2sM4rVcw.avif"
 latitudeLongitude = ["39.21335082","-85.88190913"]
 +++
-***Columbus, IN (1455 N National Rd), Store #670* was a *Chuck E. Cheese's* that opened on December 8, 2004, with a {{< wiki-link "Studio C Cappa" >}}, and closed on October 8, 2023^(1)^ due to unknown reasons.**
+***Columbus, IN (1455 N National Rd), Store #670* was a *Chuck E. Cheese's* that opened on December 8, 2004, with a {{< wiki-link "Studio C Cappa" >}}, and closed on October 8, 2023<sup>(1)</sup> due to unknown reasons.**
 
 ## History
 

@@ -15,8 +15,8 @@ The bots were controlled using the {{< wiki-link "Cyberamic Control System" >}}.
 
 ## History
 
-The King cyberamics were designed by PTT Inc. as an animatronic version of The King in 1981. The bot's cosmetics were designed by Kathy Wolf & Jul Kamen^(0)^. The bot's original name would first be 'King Leon' before moving to 'The King'.^(1)^
-The first King Cyberamic debuted at the Pinole, CA (1570 Fitzgerald Dr)|Pinole, CA store in June 1981^(0)^. The bot would be stationed in The Lounge section of the store. The animatronic slowly began one of PTT's highest manufactured bots, right behind the main stage Cyberamics. The last confirmed bot was installed at {{< wiki-link "Union, NJ (1660 US-22)" >}} in 1984. The Bots would be retrofitted to The King Kat bots during PTT's Financial troubles to try & get more income. The King bots started being removed from 1986-The Late 1990's when the last bots were removed by SPT.
+The King cyberamics were designed by PTT Inc. as an animatronic version of The King in 1981. The bot's cosmetics were designed by Kathy Wolf & Jul Kamen<sup>(0)</sup>. The bot's original name would first be 'King Leon' before moving to 'The King'.<sup>(1)</sup>
+The first King Cyberamic debuted at the Pinole, CA (1570 Fitzgerald Dr)|Pinole, CA store in June 1981<sup>(0)</sup>. The bot would be stationed in The Lounge section of the store. The animatronic slowly began one of PTT's highest manufactured bots, right behind the main stage Cyberamics. The last confirmed bot was installed at {{< wiki-link "Union, NJ (1660 US-22)" >}} in 1984. The Bots would be retrofitted to The King Kat bots during PTT's Financial troubles to try & get more income. The King bots started being removed from 1986-The Late 1990's when the last bots were removed by SPT.
 
 ## Design
 
@@ -64,4 +64,4 @@ TODO
 
   Store                             Notes                                    Installed   Removed
   --------------------------------- ---------------------------------------- ----------- ---------
-  Pinole, CA (1570 Fitzgerald Dr)   First King animatronic installed^(0)^.   June 1981   
+  Pinole, CA (1570 Fitzgerald Dr)   First King animatronic installed<sup>(0)</sup>.   June 1981   

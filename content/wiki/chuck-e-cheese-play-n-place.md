@@ -22,7 +22,7 @@ Centers that contained a Play-N-Place said that it had become one of their most 
 
 ### Attraction pieces
 
-Each store could choose out of 12 attractions. Though in the Games Examiner feature, there were only 8 of the 12 listed^(0)^. The 8 listed were:
+Each store could choose out of 12 attractions. Though in the Games Examiner feature, there were only 8 of the 12 listed<sup>(0)</sup>. The 8 listed were:
 
 - Jasper's Jump Around - Kids can bounce around on a king-sized air mattress bounce floor.
 - Pasqually's Punch Bags - Allows kids to punch, bump, and tackle foam filled punch bags.
@@ -51,7 +51,7 @@ Requirements included being under 54 inches tall. (4 1/2 feet.) You had to have 
 ### Dimensions
 
 A store had to be at least 10,000 square feet in order to contain a Play-N-Place.
-The dimensions of the set were either 32 by 50 feet or 40 by 60 feet. ^(1)^
+The dimensions of the set were either 32 by 50 feet or 40 by 60 feet. <sup>(1)</sup>
 
 ## Known Installations
 

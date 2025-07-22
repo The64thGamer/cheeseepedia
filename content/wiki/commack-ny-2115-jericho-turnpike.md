@@ -10,7 +10,7 @@ citations = ["[https://www.newsday.com/business/chuck-e-cheese-s-in-commack-clos
 latitudeLongitude = ["40.84324692","-73.27908548"]
 +++
 ***2115 Jericho Turnpike, Store #504* was a *Chuck E. Cheese's* located in Commack, New York.
-The location opened on January 23, 1995, and closed on June 14, 2015^(1)^. This location should not be confused with Commack, NY (6137 Jericho Turnpike) which was a Pizza Time Theatre location that was open from 1983-1987.**
+The location opened on January 23, 1995, and closed on June 14, 2015<sup>(1)</sup>. This location should not be confused with Commack, NY (6137 Jericho Turnpike) which was a Pizza Time Theatre location that was open from 1983-1987.**
 
 ## Stages
 
@@ -20,15 +20,15 @@ In 2005, the showroom was relocated from the back left-hand corner of the restau
 ## History
 
 The location's first major known renovation was in 2005, when the showroom was swapped with the game room and showroom walls were removed as a result.
-In 2013, the restaurant was also featured in local news for a brawl that erupted in the Kid Check area.^(2)^
-Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar Louie ceased operations; the location is currently a funeral home.^(3)^
+In 2013, the restaurant was also featured in local news for a brawl that erupted in the Kid Check area.<sup>(2)</sup>
+Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar Louie ceased operations; the location is currently a funeral home.<sup>(3)</sup>
 
 ## Videos
 
   Link                                                  Description                                                          Filming Date
   ----------------------------------------------------- -------------------------------------------------------------------- -------------------
-  [link](https://www.youtube.com/watch?v=--84IhLRuZI)   Footage of Chuck E. March (1993), featuring the 1-Stage show.^(4)^   November 25, 1995
-  [link](https://www.youtube.com/watch?v=HMs8ve9mLCY)   A video depiction of the location's closure.^(5)^                   June 19, 2015
+  [link](https://www.youtube.com/watch?v=--84IhLRuZI)   Footage of Chuck E. March (1993), featuring the 1-Stage show.<sup>(4)</sup>   November 25, 1995
+  [link](https://www.youtube.com/watch?v=HMs8ve9mLCY)   A video depiction of the location's closure.<sup>(5)</sup>                   June 19, 2015
 
 ## Animatronics
 

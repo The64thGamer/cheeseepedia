@@ -40,7 +40,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
   {{< wiki-link "Looney Bird (Animatronic)" >}}                     1-82 7-22       Unknown/Destroyed
   {{< wiki-link "Choo Choo (Animatronic)" >}}                       1-82 8-22       Unknown/Destroyed
   {{< wiki-link "Sun (Animatronic)" >}}                             1-82 10-22      Owned by a private collectorhttps://www.youtube.com/shorts/EGientJyndo
-  {{< wiki-link "Moon (Animatronic)" >}}                            1-82 11-22      Owned by a private collector^(0)^
+  {{< wiki-link "Moon (Animatronic)" >}}                            1-82 11-22      Owned by a private collector<sup>(0)</sup>
   {{< wiki-link "Antioch (Animatronic)" >}}                         N/A             Unknown/Destroyed
   {{< wiki-link "Wink" >}}                                          N/A             Destroyed.
 

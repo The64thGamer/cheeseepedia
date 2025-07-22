@@ -14,4 +14,4 @@ The location will be the third ever in Australia, succeeding the {{< wiki-link "
 
 ## History
 
-The store's first mention would be on January 11, 2024, with a press release by CEC in partnership with *Royale Hospitality.* No general location would be given for the store.^(1)^ On March 17, 2025, the location would be confirmed to be set in the city of Perth, with Australian social medias, a website page, and a sign-up newsletter available.^(2)(3)^
+The store's first mention would be on January 11, 2024, with a press release by CEC in partnership with *Royale Hospitality.* No general location would be given for the store.<sup>(1)</sup> On March 17, 2025, the location would be confirmed to be set in the city of Perth, with Australian social medias, a website page, and a sign-up newsletter available.<sup>(2)(3)</sup>

@@ -9,7 +9,7 @@ contributors = ["ChuckECool","ThatBoiCydalan","Rexburg090","Nostalgia Cow","Wolf
 citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf%22)"]
 latitudeLongitude = ["29.64939307","-95.20746153"]
 +++
-***Pasadena, TX (154 Fairmont Pkwy) Store #691*^(1)^ was a ShowBiz Pizza Place that opened on June 9, 1982 with a Rock-afire Explosion and closed as a Chuck E. Cheese's in February 2007 (day unknown) with a 3-Stage.
+***Pasadena, TX (154 Fairmont Pkwy) Store #691*<sup>(1)</sup> was a ShowBiz Pizza Place that opened on June 9, 1982 with a Rock-afire Explosion and closed as a Chuck E. Cheese's in February 2007 (day unknown) with a 3-Stage.
 It was located in the Fairmont Junction shopping center. The store would be relocated to Pasadena, TX (5075 Fairmont Pkwy)|5075 Fairmont Pkwy which opened with a Studio C Beta, 16m; that store is still operating to this day.**
 
 ## Stages

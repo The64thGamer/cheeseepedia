@@ -14,7 +14,7 @@ The service allowed subscribers to see behind the scenes content from the main C
 
 ## Subscription
 
-Users subscribe to the video service by a purchase of a year's worth of videos through the Creative Engineering eBay account.^(1)^ The subscription is $72.00, being equal to a six dollar a month payment. Once paid, the user is sent an email welcoming them to the service, while also being added to an email list that is automatically sent emails for Premium content.
+Users subscribe to the video service by a purchase of a year's worth of videos through the Creative Engineering eBay account.<sup>(1)</sup> The subscription is $72.00, being equal to a six dollar a month payment. Once paid, the user is sent an email welcoming them to the service, while also being added to an email list that is automatically sent emails for Premium content.
 Premium videos would be sent by email as an unlisted link on the Creative Engineering YouTube channel, or sometimes on a burner YouTube channel. The email would also usually contain a message to the subscribers about the video's contents, separate from the description of the video itself. Certain emails were also sent as a way of communicating with the subscribers, unrelated to video contents being published. This would sometimes be the only way Creative Engineering would announce something to fans, making some info only available to the wider community through speaking with Premium subscribers.
 This system meant that members who subscribed later than the launch date wouldn't have access to any previous Premium Video Service videos. This would be resolved by having members pay $1 per each video of the backlog they wanted to access. Since there was no catalog for members to look back at, they either had to email CEI asking what was available, or ask other Premium Video Service members. Currently it is unknown if the $1 per video backlog service is still available.
 
@@ -23,7 +23,7 @@ This system meant that members who subscribed later than the launch date wouldn'
 TODO:
 
 - Service started with Bear-A-Dise videos gaining popularity, leading to the creation of Premium.
-- First video mentioning the premium channel.^(2)^
+- First video mentioning the premium channel.<sup>(2)</sup>
 - Early history and posting.
 
 ### Video Leaks

@@ -10,7 +10,7 @@ latitudeLongitude = ["41.41427902", "-81.53088383"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***5376 Northfield Rd* was a *{{< wiki-link "Pizza Time Theatre" >}}* that opened in November 1980 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, and closed in June 1985^(1)^.**
+***5376 Northfield Rd* was a *{{< wiki-link "Pizza Time Theatre" >}}* that opened in November 1980 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, and closed in June 1985<sup>(1)</sup>.**
 
 ## Stages
 

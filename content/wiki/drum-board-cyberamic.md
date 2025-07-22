@@ -14,7 +14,7 @@ Each pneumatic movement, in which there were 11, would strike its instrument upo
 
 ## History
 
-The initial inspiration for the Drum Board would be between 1970-1971, when Nolan Bushnell would visit the local *Pizza & Pipes* restaurant in Redwood City for inspiration on his burgeoning arcade restaurant concept. While the visit mainly inspired the need to have entertainment alongside the food, the mechanically operated instruments would later make their way into the first two {{< wiki-link "Pizza Time Theatre" >}} stores on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}. Then dubbed the {{< wiki-link "Winchester Pizza Time Orchestra (Animatronic)" >}}, it was seen on a shelf beside Jasper T. Jowls amongst random objects.^(1)^
+The initial inspiration for the Drum Board would be between 1970-1971, when Nolan Bushnell would visit the local *Pizza & Pipes* restaurant in Redwood City for inspiration on his burgeoning arcade restaurant concept. While the visit mainly inspired the need to have entertainment alongside the food, the mechanically operated instruments would later make their way into the first two {{< wiki-link "Pizza Time Theatre" >}} stores on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}. Then dubbed the {{< wiki-link "Winchester Pizza Time Orchestra (Animatronic)" >}}, it was seen on a shelf beside Jasper T. Jowls amongst random objects.<sup>(1)</sup>
 When the {{< wiki-link "Cyberamics Balcony Stage" >}} was created, the showroom dropped its filled shelves and placed the Drum Board on a raised platform near Pasqually, opposite to the Warblettes*.*
 
 ### Usage in Showtapes

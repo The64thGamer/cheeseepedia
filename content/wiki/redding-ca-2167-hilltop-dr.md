@@ -9,7 +9,7 @@ contributors = ["ChuckECool","Rexburg090","Midwestretail","CEC Tinley","Cheesecl
 citations = ["[https://property.creop.com/12383/](%22https://property.creop.com/12383/%22)"]
 latitudeLongitude = ["40.57469957","-122.3589154"]
 +++
-***Redding, CA (2167 Hilltop Dr),* also officially known as the Old Redding store, is a Chuck E. Cheese's location that opened in February 8, 1983, with a {{< wiki-link "Cyberamics Balcony Stage" >}}.^(1)^
+***Redding, CA (2167 Hilltop Dr),* also officially known as the Old Redding store, is a Chuck E. Cheese's location that opened in February 8, 1983, with a {{< wiki-link "Cyberamics Balcony Stage" >}}.<sup>(1)</sup>
 This store was known for being the most outdated store in the U.S. They would still keep the Phase 2 remodel and the Pizza Time Theatre signage up until it's relocation in December 2006 (day unknown)**
 
 ## Stages

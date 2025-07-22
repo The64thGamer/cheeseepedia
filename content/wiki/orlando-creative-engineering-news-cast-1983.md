@@ -8,7 +8,7 @@ endDate = ""
 contributors = ["The 64th Gamer"]
 citations = ["[https://youtu.be/raqVR2TYBbg](%22https://youtu.be/raqVR2TYBbg%22)"]
 +++
-The ***Orlando Creative Engineering News Cast* is a 1983 news segment for an unknown Orlando, FL station that interviews and shows the processes of *Creative Engineering Inc.*^(1)^**
+The ***Orlando Creative Engineering News Cast* is a 1983 news segment for an unknown Orlando, FL station that interviews and shows the processes of *Creative Engineering Inc.*<sup>(1)</sup>**
 
 ## Transcript
 

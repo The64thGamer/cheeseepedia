@@ -9,14 +9,14 @@ citations = ["[https://www.facebook.com/rockafiremovie/posts/pfbid046jXFcixco2Tb
 tags = ["Movies"]
 categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion Documentary"]
 +++
-***The Rock-afire Explosion* is a documentary released on September 27, 2008^(1)^ about the journey of {{< wiki-link "Creative Engineering" >}} and its history with the {{< wiki-link "Rock-afire Explosion" >}}, with its subsequent fanbase that formed in the early 2000's.
+***The Rock-afire Explosion* is a documentary released on September 27, 2008<sup>(1)</sup> about the journey of {{< wiki-link "Creative Engineering" >}} and its history with the {{< wiki-link "Rock-afire Explosion" >}}, with its subsequent fanbase that formed in the early 2000's.
 The film focuses mainly on Aaron Fechter recounting his tenure throughout the company's success, while additionally showcasing Chris Thrash as one of the fans keeping the animatronic band alive in his home. Multiple other fans are interviewed, alongside showtape clips being presented.**
 
 ## History
 
 ### Original Cut
 
-The documentary would have a test screening on September 18, 2006. This cut contained a different arrangement of the interviews and footage, alongside cut sections that did not make it into the final release. Notably was footage of the {{< wiki-link "Wolf Pack 5" >}} at the 1978 IAPPA convention.^(2)^
+The documentary would have a test screening on September 18, 2006. This cut contained a different arrangement of the interviews and footage, alongside cut sections that did not make it into the final release. Notably was footage of the {{< wiki-link "Wolf Pack 5" >}} at the 1978 IAPPA convention.<sup>(2)</sup>
 A copy of the cut was later given to Damon Breland, whom has given copies to others- though this release is still publicly lost media.
 
 ## Screenings
@@ -28,9 +28,9 @@ The film would first be test screened at the *Sidewalk Moving Picture Festival* 
                                                                        Awards
   ------------------------------------------ ------------------------- ---------------------------------------------------
   Big Sky Documentary Film Festival          February 14th, 2009       N/A
-  Boston Underground Film Festival           March 22nd & 24th, 2009   Nominated for 'Best Feature' award.^(3)^
+  Boston Underground Film Festival           March 22nd & 24th, 2009   Nominated for 'Best Feature' award.<sup>(3)</sup>
   Florida Film Festival                      March 29th, 2009          N/A
-  Akron Film Festival                        April 4th, 2009           Winner of 'Audience Choice Feature' award.^(4)^
+  Akron Film Festival                        April 4th, 2009           Winner of 'Audience Choice Feature' award.<sup>(4)</sup>
   Wisconsin Film Festival                    April 2nd & 5th, 2009     N/A
   Sunscreen Film Festival                    May 3rd, 2009             N/A
   Los Angeles United Film Festival           May 7th, 2009             N/A
@@ -60,11 +60,11 @@ The film would first be test screened at the *Sidewalk Moving Picture Festival* 
 
 ## Releases
 
-On September 29, 2009, the film would be The Rock-afire Explosion Documentary DVD|released on DVD. This was able to be pre-ordered for $19.99.^(5)^ Throughout 2010 and 2011 it would be on various sales from $16.99 to $14.99 through the movie website.^(6)^ In 2011 in would become available to purchase through Amazon.^(7)^ By 2012 the DVD sales would be moved to a *Big Cartel* store back at the $19.99 price, and sometime before October of 2014 the last batch of DVDs would be produced.^(8)^
-During 2011 a .mp4 download of the movie would be available on the website for $9.99. Later on the DVD bonus features would also be bundled at the same price. A version to stream through *CD Technical* as a 24 hour rental for $2.99 was also available. Posters, shirts, and bundle deals would also be available for purchase. These would be removed by the switch to the Big Cartel site.^(9)(10)^
-The film would also be released on iTunes in 2011 for an unknown price, and taken down at an unknown time.^(11)^
-On November 8, 2011, the film would be released on *Netflix* through their *Instant Streaming* service up until one year later on November 8, 2012.^(12)(13)^
-On April 8, 2015, the film would become available on Vimeo to rent for $2.99 or buy for $9.99. Sometime between June 3rd to June 13th, 2017, the film would be taken off the service.^(14)^
-On May 14, 2015, the Kickstarter campaign for the documentary *A Life In Waves,* directed by the same people as the RAE documentary, would have their $65 support tier give backers a limited VHS version of the RAE documentary. This release would be manufactured by *VHShitfest.* Only 75 copies were made, but only 69 backers supported the tier. It is unknown what happened to the remaining 6 copies.^(15)^ The film would just contain the main documentary, and none of the DVD's bonus features.
-The documentary would be uploaded to YouTube unofficially by *Midways & Mai Tais* on June 23rd, 2015. It would amass over a million views during its lifetime.^(16)^
-On February 1st, 2024, the film would see a {{< wiki-link "The Rock-afire Explosion Documentary Blu-Ray" >}} with only 2,000 copies. This variant would replace the DVDs original custom designs for scans of the artwork featured on the Rock-afire Explosion Record 2 (1981)|Rock-afire Explosion Record 2 and Rock-afire Explosion Record 4 (1981)|Rock-afire Explosion Record 4 vinyl records. The contents would remain the same as the DVD version, but now preserving the original digital SD master of the film^(17)^
+On September 29, 2009, the film would be The Rock-afire Explosion Documentary DVD|released on DVD. This was able to be pre-ordered for $19.99.<sup>(5)</sup> Throughout 2010 and 2011 it would be on various sales from $16.99 to $14.99 through the movie website.<sup>(6)</sup> In 2011 in would become available to purchase through Amazon.<sup>(7)</sup> By 2012 the DVD sales would be moved to a *Big Cartel* store back at the $19.99 price, and sometime before October of 2014 the last batch of DVDs would be produced.<sup>(8)</sup>
+During 2011 a .mp4 download of the movie would be available on the website for $9.99. Later on the DVD bonus features would also be bundled at the same price. A version to stream through *CD Technical* as a 24 hour rental for $2.99 was also available. Posters, shirts, and bundle deals would also be available for purchase. These would be removed by the switch to the Big Cartel site.<sup>(9)(10)</sup>
+The film would also be released on iTunes in 2011 for an unknown price, and taken down at an unknown time.<sup>(11)</sup>
+On November 8, 2011, the film would be released on *Netflix* through their *Instant Streaming* service up until one year later on November 8, 2012.<sup>(12)(13)</sup>
+On April 8, 2015, the film would become available on Vimeo to rent for $2.99 or buy for $9.99. Sometime between June 3rd to June 13th, 2017, the film would be taken off the service.<sup>(14)</sup>
+On May 14, 2015, the Kickstarter campaign for the documentary *A Life In Waves,* directed by the same people as the RAE documentary, would have their $65 support tier give backers a limited VHS version of the RAE documentary. This release would be manufactured by *VHShitfest.* Only 75 copies were made, but only 69 backers supported the tier. It is unknown what happened to the remaining 6 copies.<sup>(15)</sup> The film would just contain the main documentary, and none of the DVD's bonus features.
+The documentary would be uploaded to YouTube unofficially by *Midways & Mai Tais* on June 23rd, 2015. It would amass over a million views during its lifetime.<sup>(16)</sup>
+On February 1st, 2024, the film would see a {{< wiki-link "The Rock-afire Explosion Documentary Blu-Ray" >}} with only 2,000 copies. This variant would replace the DVDs original custom designs for scans of the artwork featured on the Rock-afire Explosion Record 2 (1981)|Rock-afire Explosion Record 2 and Rock-afire Explosion Record 4 (1981)|Rock-afire Explosion Record 4 vinyl records. The contents would remain the same as the DVD version, but now preserving the original digital SD master of the film<sup>(17)</sup>

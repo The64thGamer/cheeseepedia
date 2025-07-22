@@ -12,11 +12,11 @@ The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of {{< wiki-l
 
 ## History
 
-The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.^(0)^
-On July 10th, Youtooz would confirm in an AMA that the plush would be releasing in its own singular wave, and that more plushies were planned for the future.^(1)^
-On the 15th they would release a promotional advertisement for their various franchises in a parody poster of the movie *Shrek*. This would feature Chuck, *Monty Gator* from *Five Nights at Freddy's,* *Ramona Flowers* from *Scott Pilgrim*, and the V-tuber *Chibidoki.*^(2)^
-On the 16th they would confirm the plush would be shipping worldwide, being one of the few pieces of merchandise of its time to be directly available outside of the US.^(3)^
-On July 19th Youtooz would announce the plush to be dropping on July 23rd at 3pm EST, and lasting until July 30th.^(4)^ The plush would plan to ship from November 1-30th of 2024.^(5)^
+The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.<sup>(0)</sup>
+On July 10th, Youtooz would confirm in an AMA that the plush would be releasing in its own singular wave, and that more plushies were planned for the future.<sup>(1)</sup>
+On the 15th they would release a promotional advertisement for their various franchises in a parody poster of the movie *Shrek*. This would feature Chuck, *Monty Gator* from *Five Nights at Freddy's,* *Ramona Flowers* from *Scott Pilgrim*, and the V-tuber *Chibidoki.*<sup>(2)</sup>
+On the 16th they would confirm the plush would be shipping worldwide, being one of the few pieces of merchandise of its time to be directly available outside of the US.<sup>(3)</sup>
+On July 19th Youtooz would announce the plush to be dropping on July 23rd at 3pm EST, and lasting until July 30th.<sup>(4)</sup> The plush would plan to ship from November 1-30th of 2024.<sup>(5)</sup>
 
 ## Design
 

@@ -9,7 +9,7 @@ contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","173.
 citations = ["[https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf](%22https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf%22)"]
 pageThumbnailFile = "QcyFuSAsH7P5H7TPM8KE.avif"
 +++
-Chuck E.'s House Facade' (C-Stage)' was a prefabricated false front which, when applied over an existing {{< wiki-link "Cyberamics Balcony Stage" >}}, transforms it into a house.^(1)^
+Chuck E.'s House Facade' (C-Stage)' was a prefabricated false front which, when applied over an existing {{< wiki-link "Cyberamics Balcony Stage" >}}, transforms it into a house.<sup>(1)</sup>
 
 ## History
 

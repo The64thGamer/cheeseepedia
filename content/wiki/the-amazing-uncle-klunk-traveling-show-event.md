@@ -26,28 +26,28 @@ Newspapers in Florida would have Klunk ads placed in them on July 5th, stating h
 The first stores to potentially open with Klunk were set for July 14th. All of these stores would have their coupons last for 35 days, from July 14 to August 18---with the exception of {{< wiki-link "Tulsa, OK (7108 S Memorial Dr)" >}}, whose coupons were only archived up to August 1st, lasting 18 days. All of these stores have their ads saying 'Showing Now':
 
 - (July 14th - August 1st) {{< wiki-link "Tulsa, OK (7108 S Memorial Dr)" >}}
-- {{< wiki-link "Springfield, MO (700 W Sunshine St)" >}}^(1)(2)(3)^
-- {{< wiki-link "Kansas City, MO (4601 Bannister Rd)" >}}^(3)(4)^
-- {{< wiki-link "Independence, MO (4039 S Noland Rd)" >}}^(3)(4)^
-- {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}}^(3)(4)^
-- {{< wiki-link "Wichita, KS (2100 N Amidon Ave)" >}}^(5)(6)(7)^
-- {{< wiki-link "Wichita, KS (333 S Armour Dr)" >}}^(5)(6)(7)^
-- {{< wiki-link "Overland Park, KS (10510 Metcalf Lane)" >}}^(3)(4)^
-- {{< wiki-link "Shawnee, KS (12280 Shawnee Mission)" >}}^(3)(4)^
+- {{< wiki-link "Springfield, MO (700 W Sunshine St)" >}}<sup>(1)(2)(3)</sup>
+- {{< wiki-link "Kansas City, MO (4601 Bannister Rd)" >}}<sup>(3)(4)</sup>
+- {{< wiki-link "Independence, MO (4039 S Noland Rd)" >}}<sup>(3)(4)</sup>
+- {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}}<sup>(3)(4)</sup>
+- {{< wiki-link "Wichita, KS (2100 N Amidon Ave)" >}}<sup>(5)(6)(7)</sup>
+- {{< wiki-link "Wichita, KS (333 S Armour Dr)" >}}<sup>(5)(6)(7)</sup>
+- {{< wiki-link "Overland Park, KS (10510 Metcalf Lane)" >}}<sup>(3)(4)</sup>
+- {{< wiki-link "Shawnee, KS (12280 Shawnee Mission)" >}}<sup>(3)(4)</sup>
 
 ### Florida July 16-18 Wave
 
 Despite the Florida stores getting announced the earliest and being the only ones to let customers know ahead of time of Klunk's arrival, they wouldn't formally switch advertising to 'Now Showing' until the 16th and 18th of July. All of these stores would also last until August 18th, resulting in a shorter 33-31 days of possible time. Unlike the 14th wave stores, these ads would exclusively say 'Showing Now, Limited Engagement' rather than just 'Showing Now':
 
 - July 16th
-  - {{< wiki-link "Fort Lauderdale, FL (7053 W Broward Blvd)" >}}^(8)(9)(10)^
-  - {{< wiki-link "Bradenton, FL (415 Cortez Rd)" >}}^(8)(9)(10)^
+  - {{< wiki-link "Fort Lauderdale, FL (7053 W Broward Blvd)" >}}<sup>(8)(9)(10)</sup>
+  - {{< wiki-link "Bradenton, FL (415 Cortez Rd)" >}}<sup>(8)(9)(10)</sup>
 - July 18th
-  - {{< wiki-link "Altamonte Springs, FL (541 W Hwy 436)" >}}^(11)(12)(13)^
-  - {{< wiki-link "Orlando, FL (841 Lee Rd)" >}}^(11)(12)(13)^
-  - {{< wiki-link "Orlando, FL (7419 International Dr)" >}}^(11)(12)(13)^
-  - {{< wiki-link "Tampa, FL (12707 Dale Mabry Hwy)" >}}^(14)(15)(16)^
-  - {{< wiki-link "Tampa, FL (1707 E Fowler Ave)" >}}^(14)(15)(16)^
+  - {{< wiki-link "Altamonte Springs, FL (541 W Hwy 436)" >}}<sup>(11)(12)(13)</sup>
+  - {{< wiki-link "Orlando, FL (841 Lee Rd)" >}}<sup>(11)(12)(13)</sup>
+  - {{< wiki-link "Orlando, FL (7419 International Dr)" >}}<sup>(11)(12)(13)</sup>
+  - {{< wiki-link "Tampa, FL (12707 Dale Mabry Hwy)" >}}<sup>(14)(15)(16)</sup>
+  - {{< wiki-link "Tampa, FL (1707 E Fowler Ave)" >}}<sup>(14)(15)(16)</sup>
 
 ### July 22nd Changes
 
@@ -58,12 +58,12 @@ In addition, a revision version of the {{< wiki-link "Uncle Klunk Showtape" >}} 
 
 Three stores in Ohio did not get ads until July 30th but still continued on to August 18th, now only having a 19-day event:
 
-- {{< wiki-link "Cincinnati, OH (3365 Highland Ave)" >}}^(17)^
-- {{< wiki-link "Sharonville, OH (1429 E Kemper Rd)" >}}^(17)^
-- {{< wiki-link "Cincinnati, OH (8801 Colerain Ave)" >}}^(17)^
+- {{< wiki-link "Cincinnati, OH (3365 Highland Ave)" >}}<sup>(17)</sup>
+- {{< wiki-link "Sharonville, OH (1429 E Kemper Rd)" >}}<sup>(17)</sup>
+- {{< wiki-link "Cincinnati, OH (8801 Colerain Ave)" >}}<sup>(17)</sup>
 
 ### Unknown Wave Stores
 
-{{< wiki-link "Myrtle Beach, SC (615 Lake Arrowhead Rd)" >}} is known to have kept Klunk's camera prop after switching back to Rolfe. However, it is unknown which wave they installed Klunk at.^(18)^
+{{< wiki-link "Myrtle Beach, SC (615 Lake Arrowhead Rd)" >}} is known to have kept Klunk's camera prop after switching back to Rolfe. However, it is unknown which wave they installed Klunk at.<sup>(18)</sup>
 {{< wiki-link "Fargo, ND (1202 Nodak Dr)" >}} has testimony from its General Manager that Klunk was brought in and later used as a Santa.
 [[Note: Citations on this page are scrambled and need to be reassigned]]

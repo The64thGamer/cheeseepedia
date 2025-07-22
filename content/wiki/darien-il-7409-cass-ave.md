@@ -21,7 +21,7 @@ Throughout the 1990s and the 2000s, Darien's show was in the average condition f
 In late 2019, major repairs on the stage began. Chuck E., Munch, and Jasper were almost fully functional, with Helen and Pasqually slowly improving. But, during this time, the compressor that ran the show began to have major issues. It started breaking down often, and eventually by January 2020, did not work at all.
 In January 2020 the show received a Studio C compressor, which could only operate Chuck E. This would cause the rest of the show to be completely unfunctional aside from the lighting.
 In June 2020, it was decided by the district managers that Darien would be receiving the Studio C show from the Joliet, IL which remodeled earlier that year. On June 30th, 2020, the center stage characters and backdrops were removed. The same day, Joliet's animatronic and backdrops were installed on the stage. By July 6th, 2020, the new stage was functional. Later that month, curtains were put up on stage left and right, and Chuck E. and Pasqually were removed from their stages.
-The show would be heavily documented by a cast member that went by the online alias 'showbizpizzafan'. He would also go on to dub the show 'Studio 3' in the comments of one of the first reveals of the stage.^(1)^
+The show would be heavily documented by a cast member that went by the online alias 'showbizpizzafan'. He would also go on to dub the show 'Studio 3' in the comments of one of the first reveals of the stage.<sup>(1)</sup>
 In June 2023, the CU Beta 16m was removed for the 2021 Dance Floor and Video Wall.
 
 ## History

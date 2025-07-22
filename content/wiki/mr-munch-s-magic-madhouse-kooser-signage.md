@@ -16,7 +16,7 @@ Production of the sign has no data documented on it; however it can be assumed i
 
 ### Usage
 
-The only known usage of this specific sign was at the 1371 Kooser Road store in San Jose California, placed above the first Mr. Munch's Magic Madhouse in December 1978. The Sign has only publicly appeared in the 1979 issue of Food Service Marketing's cover picture^(1)^. The Sign was removed along with the rest of the Madhouse in either May 1980 when Kooser got a Balcony Stage or when Kooser got their {{< wiki-link "Chuck E's House Facade" >}}.
+The only known usage of this specific sign was at the 1371 Kooser Road store in San Jose California, placed above the first Mr. Munch's Magic Madhouse in December 1978. The Sign has only publicly appeared in the 1979 issue of Food Service Marketing's cover picture<sup>(1)</sup>. The Sign was removed along with the rest of the Madhouse in either May 1980 when Kooser got a Balcony Stage or when Kooser got their {{< wiki-link "Chuck E's House Facade" >}}.
 
 ## Design
 

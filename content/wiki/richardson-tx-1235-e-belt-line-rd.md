@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-06
 pageThumbnailFile = "oDL2Oa2nKp07t9D5Pph3.avif"
 latitudeLongitude = ["32.94501297","-96.70376453"]
 +++
-***Richardson, TX (1235 E Belt Line Rd)* ***Store #594*^(1)^ was a *ShowBiz Pizza Place* which opened on April 29, 1982 with a {{< wiki-link "Classic Stage" >}}, and closed in November 2006 (day unknown) as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}}. They would then relocate to {{< wiki-link "Garland, TX (4992 State Hwy 190)" >}}.
+***Richardson, TX (1235 E Belt Line Rd)* ***Store #594*<sup>(1)</sup> was a *ShowBiz Pizza Place* which opened on April 29, 1982 with a {{< wiki-link "Classic Stage" >}}, and closed in November 2006 (day unknown) as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}}. They would then relocate to {{< wiki-link "Garland, TX (4992 State Hwy 190)" >}}.
 This is not to be confused with the Richardson, TX (525 W Arapaho Rd) Pizza Time Theatre which opened in October 1981 and closed in 1983.****
 
 ## History

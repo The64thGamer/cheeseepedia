@@ -29,7 +29,7 @@ This store opened with a 1-Stage, which also had a turntable. During the 2000s, 
 
   Animatronic                   Manufacturing Date      Whereabouts
   ----------------------------- ----------------------- ---------------------------------------------------------------------------------------------------
-  Chuck E. Cheese (Cyberamic)   February 1, 1982^(3)^   Original animatronic replaced with one from {{< wiki-link "Santiago (Plaza Oeste), Chile" >}}
+  Chuck E. Cheese (Cyberamic)   February 1, 1982<sup>(3)</sup>   Original animatronic replaced with one from {{< wiki-link "Santiago (Plaza Oeste), Chile" >}}
   Helen Henny (Cyberamic)       Unknown                 Currently in Use
   Mr. Munch (Cyberamic)         Unknown                 Currently in Use
   Jasper T. Jowls (Cyberamic)   Unknown                 Currently in Use

@@ -15,7 +15,7 @@ Grandma Bear/Beatrice was created for the {{< wiki-link "Bear Country Jubilee" >
 
 ## History
 
-Grandma Bear/Beatrice along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984^(1)^ and currently resides at the CEI museum.
+Grandma Bear/Beatrice along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984<sup>(1)</sup> and currently resides at the CEI museum.
 
 ## Design
 

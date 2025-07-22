@@ -12,7 +12,7 @@ pageThumbnailFile = "peTEyEJ4TAa3oWpC6NHd.avif"
 latitudeLongitude = ["28.05484247","-82.41162088"]
 +++
 ***Tampa, FL (4202 E Fowler Ave)* is a cancelled ShowBiz Pizza Place that would have been placed in the University of South Florida, per possible request by Aaron Fechter.
-Aaron notes the plans as '...it didn't go over that hot. They didn't really see it as anything.'. He theorizes that a junior-high oriented pizza parlor wouldn't have meshed well with the college town.^(1)^**
+Aaron notes the plans as '...it didn't go over that hot. They didn't really see it as anything.'. He theorizes that a junior-high oriented pizza parlor wouldn't have meshed well with the college town.<sup>(1)</sup>**
 
 ## Trivia
 

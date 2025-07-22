@@ -16,7 +16,7 @@ The **Concept Unification 1-Stage**, known commonly as the 'CU 1-Stage', is a st
 In September 2010 with the remodel of {{< wiki-link "Whitehall, PA (1000 Lehigh Valley Mall)" >}}, CEC Entertainment introduced a brand-new stage that would be introduced for stores with the {{< wiki-link "Concept Unification Stage" >}} which had to be moved due to store expansion / remodel. This stage would then be installed at two other stores once in 2011 at {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}} and lastly with {{< wiki-link "Columbus, GA (3201 Macon Rd)" >}} in late 2011.
 Between the installation of Whitehall and Springfield, the backdrop had minor design changes. Such as changing from night to daytime, changing the designs of various buildings, replacing some with trees, changing the scale of the imagery shown to be much smaller, and making the backdrop seem bigger. The {{< wiki-link "Wink" >}}, {{< wiki-link "Moon (Animatronic)" >}}, {{< wiki-link "Sun (Animatronic)" >}}, and {{< wiki-link "Choo Choo (Animatronic)" >}} animatronics were also scrapped during this process. Pasqually's platform was removed as well.
 On April 23, 2023, the CU 1-Stage at {{< wiki-link "Columbus, GA (3201 Macon Rd)" >}} would be removed during a 2.0 remodel, with {{< wiki-link "Whitehall, PA (1000 Lehigh Valley Mall)" >}} later being removed the same year on July 12th.
-On May 24, 2024, it was announced that the CU 1-Stage in Springfield, IL, would be kept in-store throughout the 2.0 remodel and preserved as the company's official CU-1 Stage^(1)^.
+On May 24, 2024, it was announced that the CU 1-Stage in Springfield, IL, would be kept in-store throughout the 2.0 remodel and preserved as the company's official CU-1 Stage<sup>(1)</sup>.
 
 ## Design:
 

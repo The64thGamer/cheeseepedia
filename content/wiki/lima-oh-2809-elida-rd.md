@@ -10,7 +10,7 @@ citations = ["[https://www.limaohio.com/archive/126082/news-local_news-article_6
 latitudeLongitude = ["40.76466947","-84.15825788"]
 +++
 ***Lima, OH (2809 Elida Rd), Store #3228* was a *Chuck E. Cheese's* located in Lima, Ohio.
-This location opened as a franchise on May 11th, 2009, and was one of two planned franchises by Smiles Food and Fun of Lima LLC and Buckeye Entertainment^(1)^.**
+This location opened as a franchise on May 11th, 2009, and was one of two planned franchises by Smiles Food and Fun of Lima LLC and Buckeye Entertainment<sup>(1)</sup>.**
 
 ## Stages
 
@@ -18,7 +18,7 @@ When the store opened, it housed a {{< wiki-link "Studio C Beta" >}} with a 16 m
 
 ## History
 
-In April 2008, an application for a loan was commissioned^(2)^ in order to open a Chuck E. Cheese in Lima Ohio. Smiles Food and Fun of Lima LLC and Buckeye Entertainment given a $475,000 loan to remodel the former carpet warehouse and buffet restaurant into the $2.1 million CEC location. The store was expected to open later that year, though it's opening would end up being May 11th 2009. The location was typical of stores opened at the time, featuring the 'Cool Chuck' Exterior and Interior and a Studio C Beta show. While being a franchise the store would receive a few new game packages in 2014, 2016 and 2017.
+In April 2008, an application for a loan was commissioned<sup>(2)</sup> in order to open a Chuck E. Cheese in Lima Ohio. Smiles Food and Fun of Lima LLC and Buckeye Entertainment given a $475,000 loan to remodel the former carpet warehouse and buffet restaurant into the $2.1 million CEC location. The store was expected to open later that year, though it's opening would end up being May 11th 2009. The location was typical of stores opened at the time, featuring the 'Cool Chuck' Exterior and Interior and a Studio C Beta show. While being a franchise the store would receive a few new game packages in 2014, 2016 and 2017.
 
 ### Corporate Acquisition
 

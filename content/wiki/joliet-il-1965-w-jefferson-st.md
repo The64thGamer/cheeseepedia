@@ -9,7 +9,7 @@ contributors = ["ShowBizMidwest","Documentor","ThatBoiCydalan","Rexburg090","Cor
 citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf%22)"," [unknown_06/08.jpg](https://www.showbizpizza.com/photos/cec/)"]
 latitudeLongitude = ["41.52122432","-88.12775883"]
 +++
-***1965 W Jefferson St,* ***Store #94*^(1)^ was a *ShowBiz Pizza Place/Chuck E. Cheese's* that opened on July 13th, 1983 with a Rock-afire Explosion, which got concept unification in 1991/1992 and closed in January 2007 and relocated to the {{< wiki-link "Joliet, IL (3250 Chicagoland Circle)" >}} on January 29th 2007 as Chuck E. Cheese's with a Studio c Beta and is still open with 2.0.
+***1965 W Jefferson St,* ***Store #94*<sup>(1)</sup> was a *ShowBiz Pizza Place/Chuck E. Cheese's* that opened on July 13th, 1983 with a Rock-afire Explosion, which got concept unification in 1991/1992 and closed in January 2007 and relocated to the {{< wiki-link "Joliet, IL (3250 Chicagoland Circle)" >}} on January 29th 2007 as Chuck E. Cheese's with a Studio c Beta and is still open with 2.0.
 The store was attached to Kmart #4095 on the left side of the building.****
 
 ## Stages
@@ -49,7 +49,7 @@ As previously mentioned, the animatronics from Joliet were sent to Mishawaka, IN
 
 ##### Identified Late 90s Games
 
-- Chuck E. Cheese's Memory Match^(2)^
+- Chuck E. Cheese's Memory Match<sup>(2)</sup>
 - Chuck E's Duckies
 - The Simpsons (1990)
 - Chuck E. Cheese's Coloring Book

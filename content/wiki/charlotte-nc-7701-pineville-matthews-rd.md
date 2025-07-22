@@ -19,7 +19,7 @@ In May of 2024, Pineville had been chosen as one of five Chuck E. Cheese locatio
   Stage                                               Installed         Removed        Notes
   --------------------------------------------------- ----------------- -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   {{< wiki-link "Classic Stage" >}}               October 1982      1991           First ShowBiz Pizza Place in North Carolina.
-  {{< wiki-link "Concept Unification Stage" >}}   1991              Still in Use   One of six North Carolina ShowBiz stores to undergo Concept Unification. Last 3-Stage in operation and last complete 3-Stage. Preserved in-store following the 2.0 remodel as the company's official 3-stage^(1)^.
+  {{< wiki-link "Concept Unification Stage" >}}   1991              Still in Use   One of six North Carolina ShowBiz stores to undergo Concept Unification. Last 3-Stage in operation and last complete 3-Stage. Preserved in-store following the 2.0 remodel as the company's official 3-stage<sup>(1)</sup>.
   Dance Floor                                         June 11th, 2024   Still in Use   Model 2021
   Video Wall                                          June 13th, 2024   Still in Use   
 
@@ -49,7 +49,7 @@ In this point of Pineville's operation, the store would receive the {{< wiki-lin
 - Vest Chuck Signage
 - 1991 Confetti Portraits
 
-Pineville would also receive the black & green-colored booths common to this remodel plan at the time.^(2)^
+Pineville would also receive the black & green-colored booths common to this remodel plan at the time.<sup>(2)</sup>
 
 ### 2000's
 
@@ -83,7 +83,7 @@ At the start of the 2020's, the condition of Pineville's 3-Stage began to declin
 - A garage door motor installed for the Center Stage curtain track.
   - Curtains that were salvaged from {{< wiki-link "Lynchburg, VA (312 Border St)" >}} were installed on Center Stage for a brief period of time before being replaced by generic store-bought curtains moved over from Stage Right and Stage Left.
 - A new, restored mask for the Building character prop taken from the Columbia, SC location (the Building character previously was missing its mask due to age and deterioration).
-- The base of the 3-Stage getting changed from black carpet to wood paneling.^(3)^
+- The base of the 3-Stage getting changed from black carpet to wood paneling.<sup>(3)</sup>
 - Munch Jr's can being spray painted black at the top.
 - The addition of the Pizzacam animatronic from {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}, completing the 3-Stage
 - The Stage finally receiving the Jukebox TV topper half
@@ -91,9 +91,9 @@ At the start of the 2020's, the condition of Pineville's 3-Stage began to declin
 
 #### Munch's Make Believe Band Residency & 2.0. Remodel
 
-In May 2024, CEC Entertainment announced Pineville's selection as a {{< wiki-link "CEC Legacy Locations" >}}. This included an area where guests and fans alike were able to see art and memorabilia throughout the company's history. The 2.0 remodel started on June 9th, 2024, with the Dance Floor's installation on June 11th, followed by Video Wall's installation on June 13th.^(0)^ The Trampoline Zone was assembled and operating by June 19th.
+In May 2024, CEC Entertainment announced Pineville's selection as a {{< wiki-link "CEC Legacy Locations" >}}. This included an area where guests and fans alike were able to see art and memorabilia throughout the company's history. The 2.0 remodel started on June 9th, 2024, with the Dance Floor's installation on June 11th, followed by Video Wall's installation on June 13th.<sup>(0)</sup> The Trampoline Zone was assembled and operating by June 19th.
 On June 18th, a {{< wiki-link "Looney Bird (Animatronic)" >}} animatronic was sent to the location from the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} for installation. This animatronic was previously from the {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}} store and had been in storage for 2 years by that point. Pizzacam was meant to be installed prior to opening, but instead was situated in front of the stage due to unspecified electrical issues during the installation attempt. The animatronic was then wheeled into the back hallway, illegally blocking the emergency exit for a short period. An advertising poster was placed in front to block it from public view before it was moved into the tech room. Two days later on June 20th, Pizzacam was officially installed. Mechanical maintenance was conducted between June 20th and July 4th, requiring Pizzacam to be shut off temporarily due to a missing flow control in his head turn.
-On July 7th, CEC announced that the grand reopening event at the store is slated to take place on the 26th. On July 10, Mark Kupferman posted an invitation to the Chuck E. Cheese Reddit^(4)^. While for most locations the tagline on the invitation is 'Come See What's New at Chuck E. Cheese', this one said, 'Celebrating the Fans of Pineville'. The invitation also advertised a free poster and pin (like {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}'s event had) and a special performance by Munch's Make-Believe Band. The event is being marketed as a fan celebration, rather than a grand reopening.
+On July 7th, CEC announced that the grand reopening event at the store is slated to take place on the 26th. On July 10, Mark Kupferman posted an invitation to the Chuck E. Cheese Reddit<sup>(4)</sup>. While for most locations the tagline on the invitation is 'Come See What's New at Chuck E. Cheese', this one said, 'Celebrating the Fans of Pineville'. The invitation also advertised a free poster and pin (like {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}'s event had) and a special performance by Munch's Make-Believe Band. The event is being marketed as a fan celebration, rather than a grand reopening.
 The stage received curtains from {{< wiki-link "Tallahassee, FL (2810 Sharer Rd)" >}} a few days before the grand reopening, At first the curtains did not work, however in 2025 they would work, the {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}} got a cool outfit without the hat, Munch's hat would be repainted and have a sticker with his name on it, and the props characters masks would be repainted.
 
 ## Arcade Machines
@@ -233,7 +233,7 @@ The stage received curtains from {{< wiki-link "Tallahassee, FL (2810 Sharer Rd)
   {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                1-82 5-23    In store.
   {{< wiki-link "Billy Bob (Animatronic)" >}}                       1-82 6-23    Unknown.
   {{< wiki-link "Looney Bird (Animatronic)" >}}                     1-82 7-23    Disassembled.
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     10-82 7-40   In store. Previously from {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}.^(5)^
+  {{< wiki-link "Looney Bird (Animatronic)" >}}                     10-82 7-40   In store. Previously from {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}.<sup>(5)</sup>
   {{< wiki-link "Choo Choo (Animatronic)" >}}                       1-82 8-23    Unknown. Custom replica produced in March 2022.
   {{< wiki-link "Sun (Animatronic)" >}}                             1-82 10-23   In store. Currently using mask from {{< wiki-link "Columbia, SC (1775 Burning Tree Dr)" >}} location.
   {{< wiki-link "Moon (Animatronic)" >}}                            1-82 11-23   In store.

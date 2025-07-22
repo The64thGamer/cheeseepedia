@@ -22,18 +22,18 @@ The Studio C show would be removed during a remodel in 2015 and sent to {{< wiki
 ## History
 
 Plano, Texas's Chuck E. Cheese's opened on May 4, 1998, as one of the first newly designed standalone stores in the company after {{< wiki-link "Concept Unification" >}}
-The store featured some of the first 1998 parody pieces created based on the Studio C concept. This included the Andy Warhol-inspired headshots of Chuck E. Cheese^(1)^ and 'Must C TV' awards, which were parodies of at the time popular media.^(2)^
+The store featured some of the first 1998 parody pieces created based on the Studio C concept. This included the Andy Warhol-inspired headshots of Chuck E. Cheese<sup>(1)</sup> and 'Must C TV' awards, which were parodies of at the time popular media.<sup>(2)</sup>
 
 ### Media
 
-The store is regularly featured in cast member training material and show material. The store would begin to be prominently featured in shows during the 40 Years of Fun event throughout 2017.^(3)^
+The store is regularly featured in cast member training material and show material. The store would begin to be prominently featured in shows during the 40 Years of Fun event throughout 2017.<sup>(3)</sup>
 
 ### Remodels & Concepts
 
 In 2004 the store would receive one of the first 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' remodels, also being one of few locations to have gotten an early version of the 'Cool Chuck' logo that had green as opposed to red on the cap of Chuck E.
 The store's kiddie area would also be changed to feature unique art on the windows that depicted toddler versions of the Chuck E. Cheese mascots playing in a tree. The art would be removed during the 2015 remodel.
 In 2015 the location was the first to receive vibrant multi-colored walls, a remodeled exterior, and new décor to match the new look of the Chuck E. Cheese character. The remodel also removed the animatronic show, which was the first remodels to have a serious threat of shows being removed from a location. Near the showroom were short-lived massage chairs for parents but would later be removed for unknown reasons.
-In December 2022 the Plano, TX store remodeled for the third time during the 2017 2.0 Remodel Program|2.0 Remodel initiative and would reopen on Thursday, February 23.^(4)^
+In December 2022 the Plano, TX store remodeled for the third time during the 2017 2.0 Remodel Program|2.0 Remodel initiative and would reopen on Thursday, February 23.<sup>(4)</sup>
 
 ## Videos
 

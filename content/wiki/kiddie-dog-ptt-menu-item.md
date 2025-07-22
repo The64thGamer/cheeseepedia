@@ -10,11 +10,11 @@ tags = ["Menu Items"]
 categories = ["Pizza Time Theatre"]
 +++
 The ***Kiddie Dog* was a Pizza Time Theatre menu item introduced in 1980 as a smaller variant of {{< wiki-link "Jasper's Giant Hot Dog (PTT Menu Item)" >}}.
-The item was a small hot-dog that came in a food basket.^(1)^**
+The item was a small hot-dog that came in a food basket.<sup>(1)</sup>**
 
 ## History
 
-The hot-dog would start at $0.99 in price upon release.^(2)^ By October 20, 1983, it had gone up to $1.29.^(3)^ The item seemingly would be discontinued by 1984, though briefly makes an appearance at a New York location in 1988 with fries as $0.99, likely as a localized variant.^(4)^
+The hot-dog would start at $0.99 in price upon release.<sup>(2)</sup> By October 20, 1983, it had gone up to $1.29.<sup>(3)</sup> The item seemingly would be discontinued by 1984, though briefly makes an appearance at a New York location in 1988 with fries as $0.99, likely as a localized variant.<sup>(4)</sup>
 
 ## Recipe / Ingredients
 

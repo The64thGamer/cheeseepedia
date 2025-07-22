@@ -6,7 +6,7 @@ citations = ["@mechadise_ig", "https://www.reddit.com/r/Animatronics/comments/18
 tags = ["Animatronic Parts"]
 categories = ["Pizza Time Theatre"]
 +++
-The ***Cyberamic Sheet Metal Head***, Part #000-0044-__, is an A36 carbon steel frame that holds Cyberamic heads together, alongside mounting any facial or neck movements.^(4)^
+The ***Cyberamic Sheet Metal Head***, Part #000-0044-__, is an A36 carbon steel frame that holds Cyberamic heads together, alongside mounting any facial or neck movements.<sup>(4)</sup>
 
 ## Variants
 
@@ -20,9 +20,9 @@ Multiple variants exist across the years the head was made. Each made small chan
 
 ### Pizza Time Theatre Produced
 
-- 1980 - No top bend, thin steel (unconfirmed thickness), different mounting holes.^(7)^
-- Early 1981 - No top bend, thin steel (3.0226mm)^(6)^
-- Late 1981 - No top bend, thicker steel (3.175mm)^(6)^
+- 1980 - No top bend, thin steel (unconfirmed thickness), different mounting holes.<sup>(7)</sup>
+- Early 1981 - No top bend, thin steel (3.0226mm)<sup>(6)</sup>
+- Late 1981 - No top bend, thicker steel (3.175mm)<sup>(6)</sup>
 - Early 1982 - Top bend facing forward
 - Early 1983 - Potentially a different yellow zinc coating that was more resilient to deterioration over time.
 
@@ -36,17 +36,17 @@ Multiple variants exist across the years the head was made. Each made small chan
 - Around 1994 - Top bend facing backward, back to using the original mouth mount.
 - Last Batches - Black colored metal.
 
-All Cyberamics used yellow zinc plating, though potentially the intensity of the plating varied in certain batches. Some Cyberamics are almost gold in color, but certain bots, whether through natural aging or less plating used, appear closer to gray.^(4)(5)^
+All Cyberamics used yellow zinc plating, though potentially the intensity of the plating varied in certain batches. Some Cyberamics are almost gold in color, but certain bots, whether through natural aging or less plating used, appear closer to gray.<sup>(4)(5)</sup>
 Certain bots with the usual two holes below the eye cavity have an extra one between them. This appears mostly on the right eye, once confirmed on the left eye, and once confirmed on both. The assembly usually inserted in the two holes would sometimes be inserted in this middle hole, likely meaning it was a modification made in-store when the bottom hole occurred too much stress and wear.
 
 ## Measurements
 
 As a full set of confirmed measurements is not available, multiple partial lists are available to varying accuracy.
 
-Cyberamic parts were designed with some measurements at 1/8th inch accuracy, and some at 1/16th inch accuracy. Due to the tools of the time not being as accurate as modern machining, raw measurements will all vary in tolerance, so should be fit to the nearest 1/16th of an inch. Additionally, most hole measurements were specced to measure from edge-to-edge rather than center-edge^(7)^
+Cyberamic parts were designed with some measurements at 1/8th inch accuracy, and some at 1/16th inch accuracy. Due to the tools of the time not being as accurate as modern machining, raw measurements will all vary in tolerance, so should be fit to the nearest 1/16th of an inch. Additionally, most hole measurements were specced to measure from edge-to-edge rather than center-edge<sup>(7)</sup>
 
   ------ -------------------- ---------------------
-  Type   Measure 1(mm)^(1)^   Measure 2 (mm)^(2)^
+  Type   Measure 1(mm)<sup>(1)</sup>   Measure 2 (mm)<sup>(2)</sup>
   A      55.5625              60
   B      117.475              113.14
   C      182.5625             185

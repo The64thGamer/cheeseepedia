@@ -10,7 +10,7 @@ latitudeLongitude = ["38.77222257", "-90.26767143"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***St. Louis, MO (2805 Target Dr)* ***Store #741*^(1)^ was a *Chuck E. Cheese's* that opened on September 30, 1981 with a Rock-afire Explosion show and closed in Spring 2006.
+***St. Louis, MO (2805 Target Dr)* ***Store #741*<sup>(1)</sup> was a *Chuck E. Cheese's* that opened on September 30, 1981 with a Rock-afire Explosion show and closed in Spring 2006.
 This store would have a strange layout, with a Rare and Cool exterior, instead of the retrofit PTT Sign, it was the Showroom Chuck Sign. This store became different businesses later during its lifespan.****
 
 ## Stage

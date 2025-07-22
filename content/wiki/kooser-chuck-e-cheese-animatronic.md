@@ -18,11 +18,11 @@ The bot was used up until Kooser got the first {{< wiki-link "Cyberamics Balcony
 
 ### At Kooser
 
-The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater^(1)(2)^. It would appear in a segment for the show, Real People, in 1979^(3)^. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
+The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater<sup>(1)(2)</sup>. It would appear in a segment for the show, Real People, in 1979<sup>(3)</sup>. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
 
 ### Corporate Move
 
-Following its removal from the Kooser location, the bot would later find a home at the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, where it can be seen in photos of the Costume Department as early as 1981^(4)^. At this point, it would be sporting Christmas attire as opposed to its store-original derby and vest, and would also be missing its teeth.
+Following its removal from the Kooser location, the bot would later find a home at the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, where it can be seen in photos of the Costume Department as early as 1981<sup>(4)</sup>. At this point, it would be sporting Christmas attire as opposed to its store-original derby and vest, and would also be missing its teeth.
 
 ### Fate
 
@@ -30,7 +30,7 @@ The Kooser bot's last known sighting was in the previously mentioned 1981 Costum
 
 ### Aftermath
 
-The bot has been very rarely mentioned by CEC corporate. In the 70's segment of the 40 years of fun Show, The bot appears in reused footage from the Real People skit^(5)^. The bot's cigar is cropped out for unknown reasons.
+The bot has been very rarely mentioned by CEC corporate. In the 70's segment of the 40 years of fun Show, The bot appears in reused footage from the Real People skit<sup>(5)</sup>. The bot's cigar is cropped out for unknown reasons.
 
 ## Design
 

@@ -15,7 +15,7 @@ The Yogi Bear Animatronic was a retrofited {{< wiki-link "Rolfe Dewolfe & Earl S
 ## History
 
 Yogi Bear was a retrofited Rolfe Dewolfe with arm replacement, he was instaled in Omaha NE, Colardo spring CO and Augusta GA and replaced Bily Bob in these Location.
-The first Prototype was build in April of 1997 and was instaled in the 3 location sometime in the same year.^(1)^.
+The first Prototype was build in April of 1997 and was instaled in the 3 location sometime in the same year.<sup>(1)</sup>.
 He was also voiced by the Daws Butler the orginal voice actor of Yogi Bear
 
 ## Design

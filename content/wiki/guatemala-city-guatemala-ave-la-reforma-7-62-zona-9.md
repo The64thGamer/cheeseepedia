@@ -14,7 +14,7 @@ Prior to {{< wiki-link "Concept Unification" >}}, the location was not officiall
 
 ## History
 
-This ShowBiz in particular had unique menu items, such as pizzamoffin, pizzpan, and pancakes.^(1)^
+This ShowBiz in particular had unique menu items, such as pizzamoffin, pizzpan, and pancakes.<sup>(1)</sup>
 Prior to its relocation it was remodeled to fit 1986 SPT Remodel Program|ShowBiz Pizza Time's current appearance.
 The location would relocate to {{< wiki-link "Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)" >}} in 1996.
 

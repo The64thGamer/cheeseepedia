@@ -17,8 +17,8 @@ This showtape would used the {{< wiki-link "ShowBiz Pizza Program 4" >}} tape fo
 
 ## Family Vision
 
-According to the SPT Franchise News #30 'Entertainment News' section this Family Vision tape would have been sent to participating stores along with the showtape, and background music tape. It would have contain two country/western videos, along with the new Dot Derby which was produced only for ShowBiz Pizza Place. ^(1)^
-It is currently unknown the order of the videos in this Family Vision tape, though the video themselves are known.^(2)^
+According to the SPT Franchise News #30 'Entertainment News' section this Family Vision tape would have been sent to participating stores along with the showtape, and background music tape. It would have contain two country/western videos, along with the new Dot Derby which was produced only for ShowBiz Pizza Place. <sup>(1)</sup>
+It is currently unknown the order of the videos in this Family Vision tape, though the video themselves are known.<sup>(2)</sup>
 
   Title                   Subtitle                  Length   Link
   ----------------------- ------------------------- -------- ----------------------------------------------

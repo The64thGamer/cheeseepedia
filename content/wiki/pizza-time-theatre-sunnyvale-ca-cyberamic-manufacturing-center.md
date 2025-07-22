@@ -10,4 +10,4 @@ citations = ["[http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.
 latitudeLongitude = ["0","0"]
 +++
 TODO:
-310 Carribean Drive, Sunnyvale, CA^(1)^
+310 Carribean Drive, Sunnyvale, CA<sup>(1)</sup>

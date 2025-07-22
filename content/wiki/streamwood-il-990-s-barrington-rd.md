@@ -9,7 +9,7 @@ contributors = ["Midwestretail","ThatBoiCydalan","Rexburg090","ShowBizMidwest","
 citations = ["[https://youtu.be/7PC9qMDTWTM?si=7XJl9IRikeI68SZnand](%22https://youtu.be/7PC9qMDTWTM?si=7XJl9IRikeI68SZnand%22)"]
 latitudeLongitude = ["42.01112047","-88.14665943"]
 +++
-***Streamwood, IL (990 S Barrington Rd), Store #59* was a *Chuck E. Cheese's* that opened on March 6th, 1990 originally as a *ShowBiz Pizza*^(1)^ with {{< wiki-link "Chuck E's House" >}}, and closed in June 2014 with a {{< wiki-link "2-Stage" >}}. This location was located right across from the Westview Shopping Center.
+***Streamwood, IL (990 S Barrington Rd), Store #59* was a *Chuck E. Cheese's* that opened on March 6th, 1990 originally as a *ShowBiz Pizza*<sup>(1)</sup> with {{< wiki-link "Chuck E's House" >}}, and closed in June 2014 with a {{< wiki-link "2-Stage" >}}. This location was located right across from the Westview Shopping Center.
 This location is notable for being featured in a 2007 semi-viral video where the 2-Stage animatronics pretend to have a shootout.**
 
 ## History

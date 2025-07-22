@@ -11,7 +11,7 @@ pageThumbnailFile = "RVD1qfG8Avwwu9noL7D8.avif"
 manufacturer = "Creative Engineering"
 unitsProduced = "1"
 +++
-The ***Billy Bob Mijjin* was an animatronic prototype produced by *Creative Engineering Inc.* for the Mijjins show in 1992 ^(1)^**
+The ***Billy Bob Mijjin* was an animatronic prototype produced by *Creative Engineering Inc.* for the Mijjins show in 1992 <sup>(1)</sup>**
 
 ## History
 

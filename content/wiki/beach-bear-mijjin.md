@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf](%2
 pageThumbnailFile = "QjE04ztF8nDQzh7sC3rT.avif"
 manufacturer = "Creative Engineering"
 +++
-The ***Beach Bear Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. ^(1)^**
+The ***Beach Bear Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. <sup>(1)</sup>**
 
 ## History
 

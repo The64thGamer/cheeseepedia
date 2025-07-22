@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_weekly-2001-0
 pageThumbnailFile = "chT_Ux1TCYDGqKmp1urV.avif"
 latitudeLongitude = ["42.09418092","-71.05434943"]
 +++
-***200 Westgate Dr, Store #473*^(1)^ was a *Chuck E. Cheese's Pizza* that opened in Spring 1993 (Date Unknown) and closed in April 2003 (Day Unknown). It was located in the Westgate Mall (Brockton).**
+***200 Westgate Dr, Store #473*<sup>(1)</sup> was a *Chuck E. Cheese's Pizza* that opened in Spring 1993 (Date Unknown) and closed in April 2003 (Day Unknown). It was located in the Westgate Mall (Brockton).**
 
 ## History
 

@@ -82,7 +82,7 @@ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER
 
 **Birthday Break**: The September 2001 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
-## Production^(1)^
+## Production<sup>(1)</sup>
 
 ### Filming Locations
 

@@ -12,7 +12,7 @@ This {{< wiki-link "Family Vision" >}} tape has no official number, but it playe
 
 ## Video List
 
-The tape's total length and videos used are completely unknown, only a few videos were discovered from home movies.^(1)(2)^
+The tape's total length and videos used are completely unknown, only a few videos were discovered from home movies.<sup>(1)(2)</sup>
 
   Title                Subtitle                   Length
   -------------------- -------------------------- --------

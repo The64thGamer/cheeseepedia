@@ -31,11 +31,11 @@ In February 2024, Corona would start their 2.0 remodel and would remove their Ro
   Animatronic                                                  Manufacturing Date   Serial Number   Status
   ------------------------------------------------------------ -------------------- --------------- -------------------------------------------------------
   {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}           1992                 Unknown         Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   1992                 1032            Destroyed.^(0)^
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 1992                 1051            Destroyed.^(0)^
+  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   1992                 1032            Destroyed.<sup>(0)</sup>
+  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 1992                 1051            Destroyed.<sup>(0)</sup>
   {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           1992                 1079            Owned by a private collector.
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                1992                 Unknown         Destroyed.^(0)^
-  {{< wiki-link "Wink (Cyberamic)" >}}                     1992                 N/A             Destroyed.^(0)^
+  {{< wiki-link "Pasqually (Cyberamic)" >}}                1992                 Unknown         Destroyed.<sup>(0)</sup>
+  {{< wiki-link "Wink (Cyberamic)" >}}                     1992                 N/A             Destroyed.<sup>(0)</sup>
 
 ## Games
 

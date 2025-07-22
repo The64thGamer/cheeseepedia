@@ -37,7 +37,7 @@ This remodel, known as the 2005 Update to the '2003 'Cool Chuck' Reconfiguration
 
 ### 2.0 Remodel
 
-This remodel would begin in April of 2022, and construction would end in June 2022 with the Grand Reopening on the 22nd^(1)^. The major changes were a new game package, the removal of the 3-Stage, a video wall, and a interactive dance floor. This remodel is still there as of May 2023.
+This remodel would begin in April of 2022, and construction would end in June 2022 with the Grand Reopening on the 22nd<sup>(1)</sup>. The major changes were a new game package, the removal of the 3-Stage, a video wall, and a interactive dance floor. This remodel is still there as of May 2023.
 
 ## Animatronics
 

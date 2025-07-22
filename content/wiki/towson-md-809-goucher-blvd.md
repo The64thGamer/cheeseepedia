@@ -10,7 +10,7 @@ latitudeLongitude = ["39.39473082", "-76.58592048"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Towson, MD (809 Goucher Blvd)* ***Store #79*^(1)^ was a *Chuck E. Cheese's* located in Towson, Maryland, in a plaza next to Towson Place.
+***Towson, MD (809 Goucher Blvd)* ***Store #79*<sup>(1)</sup> was a *Chuck E. Cheese's* located in Towson, Maryland, in a plaza next to Towson Place.
 The location opened its doors as a Chuck E. Cheese's Pizza location in August 1993 (Date Unknown) with a {{< wiki-link "1-Stage" >}} and closed in Spring 2007 (Month & Date currently unknown).****
 
 ## Stages

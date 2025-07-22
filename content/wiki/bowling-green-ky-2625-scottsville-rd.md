@@ -15,7 +15,7 @@ latitudeLongitude = ["36.94751042","-86.42841198"]
 ## History
 
 In February 2004, the Bowling Green Daily News reported that new stores would be coming to the Greenwood
-Mall in 2004, including Old Navy, Yankee Candle, and Chuck E. Cheese's.^(1)^ On April 27th, 2004,
+Mall in 2004, including Old Navy, Yankee Candle, and Chuck E. Cheese's.<sup>(1)</sup> On April 27th, 2004,
 the Chuck E. Cheese's of Bowling Green opened, located next to JCPenney. Originally when the store opened,
 they had the late 1990s remodel and a {{< wiki-link "Studio C Cappa" >}}, which was the only one installed in
 Kentucky. They would have the Chuck E.'s Clubhouse version of the SkyTubes from opening until around
@@ -34,7 +34,7 @@ main game area to accomodate for the newly moved games.
 
 In August 2015, a police officer was denied service at the location for carrying their firearm. The
 officer was wearing a police marked polo shirt. It is believed an employee misunderstood the policy,
-which allows uniformed officers to carry their firearm into the restaurant.^(2)^
+which allows uniformed officers to carry their firearm into the restaurant.<sup>(2)</sup>
 
 ## Stages
 

@@ -19,7 +19,7 @@ Mr. Munch was first thought up by *Michael M. Hatcher*, director of entertainmen
 
 ### Pizza Time Theatre
 
-Mr. Munch officially debuted to the public along with the opening of the second {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from {{< wiki-link "Pasqually" >}} kitchen. He sings, laughs and scares people'^(1)^. Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars & {{< wiki-link "Chuck E Cheese" >}} himself. Mr. Munch was initially voiced by Fritz Heilbron, and later by Scott Wilson*.*
+Mr. Munch officially debuted to the public along with the opening of the second {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from {{< wiki-link "Pasqually" >}} kitchen. He sings, laughs and scares people'<sup>(1)</sup>. Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars & {{< wiki-link "Chuck E Cheese" >}} himself. Mr. Munch was initially voiced by Fritz Heilbron, and later by Scott Wilson*.*
 
 #### Post-Merger
 

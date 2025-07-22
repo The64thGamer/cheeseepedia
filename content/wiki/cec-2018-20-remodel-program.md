@@ -35,7 +35,7 @@ The Showroom, Now called the Birthday Area, is surrounded by artwork of the main
 ### Remodels Packages
 
 Initially, locations that were eligible for this remodel got one of three packages: Gold, Silver, or Bronze. The Gold and Silver packages never left the first few remodeled stores from 2017 to 2018. In 2021 a Video Wall was added to the existing Dance Floor and started to roll out at new remodeled locations while existing remodeled locations kept their previous Dance Floor set up.
-During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.^(1)^ Although {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} and {{< wiki-link "Humble, TX (124 E FM 1960 Bypass)" >}} aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
+During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.<sup>(1)</sup> Although {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} and {{< wiki-link "Humble, TX (124 E FM 1960 Bypass)" >}} aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
 The new 'refresh' package is designed as a low-cost option for remodels. This remodel package is used for most Chuck E Cheese locations from 2023 onward, as it is a cheaper and faster alternative to a full remodel. These remodels are done by the company, instead of another company such as Parkway Construction, as using another company is more expensive and is a slower process. These remodels do not receive new booths, lighting changes, a restroom remodel, or tiles behind the menu board. Depending on the store, no new floor tiles by the counter are added, unless they are older tiles that need changing.
 
   Item                                     Gold   Silver    Bronze    2021 -                     Refresh
@@ -69,7 +69,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 - {{< wiki-link "Edison, NJ (1120 Route 1)" >}}
 - {{< wiki-link "St Charles, MO (2669 Veterans Memorial Pkwy)" >}}
 
-## Trampoline Zone Locations^(2)^
+## Trampoline Zone Locations<sup>(2)</sup>
 
 ### Arizona
 

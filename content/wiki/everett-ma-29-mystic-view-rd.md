@@ -28,7 +28,7 @@ As of August 2024, Everett remains like this with the 2.0 remodel.
   {{< wiki-link "Video Wall" >}}                         July 2024   Still in use.   
 
 [2001-2002](https://www.showbizpizza.com/photos/cec/ma_everett/index.html)
-MassLive Promotional Photo (June 2024) ^(1)^
+MassLive Promotional Photo (June 2024) <sup>(1)</sup>
 
 ## Videos
 
@@ -44,4 +44,4 @@ MassLive Promotional Photo (June 2024) ^(1)^
   Animatronic                                                Manufacturing Date   Serial Number   Wherabouts
   ---------------------------------------------------------- -------------------- --------------- -----------------------------------------------------------------------------------------------------------------------------
   {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   2001                 Unknown         Unknown, Likely Destroyed. Head replaced with {{< wiki-link "Burlington, NJ (2497 Burlington-Mount Holly Rd)" >}} head.
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     2001                 Unknown         Listed on eBay.^(2)^
+  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     2001                 Unknown         Listed on eBay.<sup>(2)</sup>

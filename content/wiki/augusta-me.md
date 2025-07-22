@@ -9,7 +9,7 @@ contributors = ["PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 citations = ["[https://www.centralmaine.com/2024/04/11/april-11-2003-iparty-eb-games-chuck-e-cheese-mattress-giant-and-more-all-supposedly-coming-to-marketplace-at-augusta-cony-high-school-students-helping-to-fund-schools-in-afghanistan-and-some-m/](%22https://www.centralmaine.com/2024/04/11/april-11-2003-iparty-eb-games-chuck-e-cheese-mattress-giant-and-more-all-supposedly-coming-to-marketplace-at-augusta-cony-high-school-students-helping-to-fund-schools-in-afghanistan-and-some-m/%22)"]
 latitudeLongitude = ["44.275081","-69.8358991"]
 +++
-***Augusta, Maine* was a planned Chuck E Cheese's location that would have been opened sometime between 2003-2004 with an unknown stage^(1)^, likely a Studio C Cappa**
+***Augusta, Maine* was a planned Chuck E Cheese's location that would have been opened sometime between 2003-2004 with an unknown stage<sup>(1)</sup>, likely a Studio C Cappa**
 
 ## History
 

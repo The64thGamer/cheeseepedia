@@ -21,7 +21,7 @@ Birmingham opened on October 20th, 1982 as ShowBiz Pizza Place in the 'Old Towne
 
 ## Stages
 
-Originally when the store opened, they had a Rock-afire Explosion, as all other ShowBiz locations had. In June of 1991, Birmingham would undergo Concept Unification, turning the RAE into Munch's Make Believe Band.^(1)^ In Fall 2000, the 3-Stage was removed for one of first 5 Betas installed. In April/May 2016, the Beta was removed for a 2015 model Dance Floor. In December 2021, Birmingham received 2.0 and the Dance Floor was upgraded to a 2021 Model with the addition of a Video Wall.
+Originally when the store opened, they had a Rock-afire Explosion, as all other ShowBiz locations had. In June of 1991, Birmingham would undergo Concept Unification, turning the RAE into Munch's Make Believe Band.<sup>(1)</sup> In Fall 2000, the 3-Stage was removed for one of first 5 Betas installed. In April/May 2016, the Beta was removed for a 2015 model Dance Floor. In December 2021, Birmingham received 2.0 and the Dance Floor was upgraded to a 2021 Model with the addition of a Video Wall.
 
   Stage                                                      Installed        Removed          Notes
   ---------------------------------------------------------- ---------------- ---------------- ----------------------------------------------------------------------

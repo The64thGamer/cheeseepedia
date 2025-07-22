@@ -42,7 +42,7 @@ The Pasqually Cyberamic would also receive 3-stage Pasqually shoes at some point
 
 ### Lounge
 
-The Cabaret Lounge was home to {{< wiki-link "The King King Kat (Lounge)" >}} for it's first few years. During its remodel in 1987 the lounge was converted into a private party area. When the location received the {{< wiki-link "Phase 3 (2000)" >}} package the area would be converted into the Toddler Zone.^(1)^
+The Cabaret Lounge was home to {{< wiki-link "The King King Kat (Lounge)" >}} for it's first few years. During its remodel in 1987 the lounge was converted into a private party area. When the location received the {{< wiki-link "Phase 3 (2000)" >}} package the area would be converted into the Toddler Zone.<sup>(1)</sup>
 
 ## History
 

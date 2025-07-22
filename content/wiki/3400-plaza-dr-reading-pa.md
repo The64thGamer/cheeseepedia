@@ -17,7 +17,7 @@ This location opened on December 7, 1982 as a ShowBiz Pizza Place with the Rock 
 
 ## Post Closure
 
-After this store closed, Major Magic's All Star Pizza Revue took over. Everything in the store remained intact, including the Rock-afire Explosion. It is unknown for how long the show continued to operate under Major Magic's, or if it was ever replaced at all. Major Magic's was closed by 1996. The building was later turned into a bingo hall, Jimbo's Steak and Hoagies and Your Bet convenience store.^(1)^ Many ShowBiz remnants are still left, such as Jimbo's using an upside down 1989 sign. The three businesses are still there as of May 2025.
+After this store closed, Major Magic's All Star Pizza Revue took over. Everything in the store remained intact, including the Rock-afire Explosion. It is unknown for how long the show continued to operate under Major Magic's, or if it was ever replaced at all. Major Magic's was closed by 1996. The building was later turned into a bingo hall, Jimbo's Steak and Hoagies and Your Bet convenience store.<sup>(1)</sup> Many ShowBiz remnants are still left, such as Jimbo's using an upside down 1989 sign. The three businesses are still there as of May 2025.
 
 ## Stages
 

@@ -87,4 +87,4 @@ This show featured 4 segments with 8 songs.**
   - The voiceover for 'Behind The Video' was done by Brian Hagan
   - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola'
 - The music for 'Football' and 'Flyball' is reused from {{< wiki-link "August 1997 Show" >}} and {{< wiki-link "September 1998" >}} respectively.
-- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.^(1)^
+- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.<sup>(1)</sup>

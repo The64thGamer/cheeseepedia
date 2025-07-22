@@ -11,17 +11,17 @@ latitudeLongitude = ["36.81391242", "-119.7905421"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***Fresno, CA (5384 N Blackstone Ave)* was a *Pizza Time Theatre* that opened on June 28, 1980^(6)^ with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, which closed in May of 1985.https://www.newspapers.com/article/the-fresno-bee-fresno-jun-25-1985/86368897/
+***Fresno, CA (5384 N Blackstone Ave)* was a *Pizza Time Theatre* that opened on June 28, 1980<sup>(6)</sup> with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, which closed in May of 1985.https://www.newspapers.com/article/the-fresno-bee-fresno-jun-25-1985/86368897/
 This is not to be confused with the ShowBiz Pizza store on {{< wiki-link "Fresno, CA (3117 W Shaw Ave)" >}} that opened on October 28th, 1982 with a {{< wiki-link "Classic Stage" >}} and is still operational as a Chuck E. Cheese's with a Studio C Alpha as of September 2023 and the {{< wiki-link "Fresno, CA (7809 N Blackstone Ave)" >}} location that opened on September 24th, 2002 with a {{< wiki-link "Studio C Beta" >}} and is also still operational as of September 2023.**
 
 ## Stages
 
-The store would open with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} that lasted throughout the store's run. It also had a lounge with {{< wiki-link "The King King Kat (Lounge)" >}} and a Cabaret with {{< wiki-link "Dolli Dimples (Cabaret)" >}}.^(1)(2)^
+The store would open with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} that lasted throughout the store's run. It also had a lounge with {{< wiki-link "The King King Kat (Lounge)" >}} and a Cabaret with {{< wiki-link "Dolli Dimples (Cabaret)" >}}.<sup>(1)(2)</sup>
 
 ## History
 
-The location originally started as a Country Boy Market store, before being remodeled at the cost of $600,000 in 1980 into a Pizza Time Theatre. During the planning of the restaurant in April of 1980, it was announced to be opening around June 15th of that year.^(2)^ This would later be pushed back to June 28th.^(6)^ Tom Warnshius, a former manager of the Old Spaghetti Factory, would be the opening manager of the location.^(5)^
-The location would later close in May of 1985.^(0)^
+The location originally started as a Country Boy Market store, before being remodeled at the cost of $600,000 in 1980 into a Pizza Time Theatre. During the planning of the restaurant in April of 1980, it was announced to be opening around June 15th of that year.<sup>(2)</sup> This would later be pushed back to June 28th.<sup>(6)</sup> Tom Warnshius, a former manager of the Old Spaghetti Factory, would be the opening manager of the location.<sup>(5)</sup>
+The location would later close in May of 1985.<sup>(0)</sup>
 
 ## Animatronics
 

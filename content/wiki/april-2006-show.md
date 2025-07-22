@@ -75,7 +75,7 @@ PBS Kids Spot
 
 ## Production
 
-CEC TV ID - 'Blue', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis ^(1)^
+CEC TV ID - 'Blue', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
 
 ### File Dates
 

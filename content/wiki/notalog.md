@@ -8,12 +8,12 @@ endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","CEC Tinley","GuestIsJustBest","Stripes"]
 citations = ["[http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html](%22http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html%22)","[https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf%22)","[https://archive.org/details/atariincbusiness0000gold/page/334/mode/2up?q=notalog](%22https://archive.org/details/atariincbusiness0000gold/page/334/mode/2up?q=notalog%22)"]
 +++
-***NOTALOG* was a order callout system for the first *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, created by Ted Dabney at the request of Nolan Bushnell sometime after 1979.^(1)(2)^**
+***NOTALOG* was a order callout system for the first *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, created by Ted Dabney at the request of Nolan Bushnell sometime after 1979.<sup>(1)(2)</sup>**
 
 ## Function
 
 Not much is known about the exact hardware used. A large TV monitor was placed on the pickup counter, facing the showroom, connected to an unknown device with a numerical keypad on the employee side of the counter.
-After an order would be placed, the customer would be assigned a number. Once their order was done, its number would be punched into the keypad by an employee, flashing it on the TV for thirty seconds. Afterwards it would be dropped down into a list of up to 16 currently ready orders displayed on the screen. After a customer picked up their order, the employee would punch the same number into the keypad to have it removed from the list.^(3)^
+After an order would be placed, the customer would be assigned a number. Once their order was done, its number would be punched into the keypad by an employee, flashing it on the TV for thirty seconds. Afterwards it would be dropped down into a list of up to 16 currently ready orders displayed on the screen. After a customer picked up their order, the employee would punch the same number into the keypad to have it removed from the list.<sup>(3)</sup>
 
 ## History
 

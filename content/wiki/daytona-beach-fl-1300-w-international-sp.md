@@ -17,7 +17,7 @@ Daytona Beach opened and closed with a Balcony Stage. However, very little is kn
 
 ### Cabaret & Lounge
 
-Daytona Beach opened with the {{< wiki-link "Four Little Shavers (Ice Cream Emporium)" >}}, Dolli Dimples, and The King.^(1)^
+Daytona Beach opened with the {{< wiki-link "Four Little Shavers (Ice Cream Emporium)" >}}, Dolli Dimples, and The King.<sup>(1)</sup>
 
 ## History
 

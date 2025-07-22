@@ -21,11 +21,11 @@ The location had a {{< wiki-link "Cyberamics Balcony Stage" >}}.
 
 ### Construction
 
-Construction of the location within the Sangertown Square Mall was recorded as early as November 1982 ^(1)^.
+Construction of the location within the Sangertown Square Mall was recorded as early as November 1982 <sup>(1)</sup>.
 
 ### Closure
 
-Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor {{< wiki-link "ShowBiz Pizza Place" >}} ^(2)^.
+Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor {{< wiki-link "ShowBiz Pizza Place" >}} <sup>(2)</sup>.
 
 ## Animatronics
 

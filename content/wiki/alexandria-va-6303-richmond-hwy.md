@@ -11,7 +11,7 @@ pageThumbnailFile = "CfJGWyC4tNOouezwK3sA.avif"
 latitudeLongitude = ["38.77874777","-77.07819373"]
 +++
 ***6303 Richmond Hwy, Store #72* was a *Chuck E. Cheese's Pizza Time Theatre* that opened on September 20, 1982, with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed between November and December 2009 (day unknown), with a {{< wiki-link "2-Stage" >}}.
-It was originally located next to a Kmart which opened on March 22nd, 1973, and closed in 1988 (Day and month unknown) when it was relocated to 7704 Richmond Hwy.^(1)^ Alexandria was also located in the Kings Crossing Shopping Center.**
+It was originally located next to a Kmart which opened on March 22nd, 1973, and closed in 1988 (Day and month unknown) when it was relocated to 7704 Richmond Hwy.<sup>(1)</sup> Alexandria was also located in the Kings Crossing Shopping Center.**
 
 ## Stages
 
