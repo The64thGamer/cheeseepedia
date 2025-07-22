@@ -23,7 +23,7 @@ collections:
     folder: "content/wiki/"
     preview_path: "wiki/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
@@ -184,7 +184,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "transcriptions/{{filename}}/"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -200,7 +200,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "users/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -216,7 +216,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "meta/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -230,7 +230,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "photos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -295,7 +295,7 @@ collections:
     create: true
     slug: "{{slug}}"
     preview_path: "videos/{{filename}}"
-    extension: html
+    extension: md
     format: toml-frontmatter
     editor:
       preview: true
@@ -367,7 +367,7 @@ collections:
     folder: "content/reviews/"
     preview_path: "reviews/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
@@ -392,7 +392,7 @@ collections:
     folder: "content/news/"
     preview_path: "news/{{filename}}"
     create: true
-    extension: html
+    extension: md
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
