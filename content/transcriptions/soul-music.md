@@ -8,7 +8,7 @@ Ok Folks, we're gonna get down, get funky, get some soul!
 **Chuck E. Cheese:**
 Now wait a minute, eh- no hey cool it man I- I- cant- 
 
-** Pasqually:**
+**Pasqually:**
 Yeah cool is where it's at!
 
 **Chuck E. Cheese:**
