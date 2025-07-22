@@ -192,6 +192,13 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
       - {label: "Tags", name: "tags", widget: "hidden", default: ["Transcriptions"]}
+      - label: "Contributors (List your Username here!)"
+        name: "contributors"
+        widget: "list"
+        required: true
+        min: 1
+        max: 1000
+        field: {label: Username, name: username, widget: string}
 
 
   - name: "users" # Used in routes, e.g., /admin/collections/blog
