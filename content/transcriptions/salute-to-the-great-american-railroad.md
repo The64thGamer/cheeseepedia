@@ -6,7 +6,7 @@ tags = ["Transcriptions"]
 
 **[The chugging and whistle of a train]**
 
-**Warblettes: (Singing)**
+**The Warblettes: (Singing)**
 Do you hear that whistle down the line
 I figure that it's engine number 49
 She's the only one that will sound that way
@@ -114,7 +114,7 @@ Hear the bell and whistle calling
 **Pasqually: (Singing)**
 Hear the wheels that go clack clack
 
-**Jasper T. Jowls & Warblettes: (Singing)**
+**Jasper T. Jowls & The Warblettes: (Singing)**
 Hear the roaring of the engine as she rolls along the track
 The magic of the railroad, win the hearts of one and all
 As we reach our destination on the Wabash Cannonball
