@@ -38,7 +38,7 @@ Coming up right here on Chuck E's bandstand, sorry munch we'll do mellow a littl
   
 **[Song: At the Hop]**  
   
-**the Warblettes: (Singing)**  
+**The Warblettes: (Singing)**  
 At the hop  
   
 **All: (singing)**  
@@ -62,7 +62,7 @@ I'm walkin', yes, indeed
 **Jasper T. Jowls:**  
 That hippie friend of yours thinks he's Fats Domino  
   
-**Mr. Munch:(Singing)**  
+**Mr. Munch: (Singing)**  
 And I'm talkin' 'bout you and me  
   
 **Chuck E. Cheese:**  
@@ -70,7 +70,7 @@ Yeah but he's only got the fat part right.
   
 **[Jasper cackles]**  
   
-**Mr. Munch:(Singing)**  
+**Mr. Munch: (Singing)**  
 I'm hopin' that you'll come back to me  
   
 **[Song: Get a Job]**
@@ -125,7 +125,7 @@ Sha-lang-da-lang-da-lang
 **Chuck E. Cheese:**
 What is this? Hold on you're talking weird, am i supposed to know what a la nani nani is?
 
-** Mr. Munch:**
+**Mr. Munch:**
 It's a laid back individual
 
 **Chuck E. Cheese:**
@@ -137,14 +137,14 @@ Just get mellow Chuck E.
 **Helen Henny: (Singing)**
 Life could be a dream
 
-**the Warblettes: (Singing)**  
+**The Warblettes: (Singing)**  
 Sh-boom
 
 **Helen Henny: (Singing)**
 If i could take up up to paradise up above, ba-kawk
 
 
-**the Warblettes: (Singing)**  
+**The Warblettes: (Singing)**  
 Sh-boom
 
 **Helen Henny: (Singing)**
