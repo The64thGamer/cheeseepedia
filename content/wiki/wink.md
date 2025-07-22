@@ -8,7 +8,7 @@ contributors = ["CECBowlingGreen", "2603:6011:5901:C300:882B:D547:3297:CCD", "Bu
 citations = ["https://archive.org/details/concept-unification-installation-manual/page/1/mode/2up", "https://youtu.be/-pp3KZZ0P10?si=vyWEekXyKZ93Vccy&t=917", "https://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf | Page 3", "https://www.youtube.com/watch?v=Y3RwnSxGcnE", "The 1992 Wink only featured the red and white ribbons. Suggesting the change over was being done by 1992", "https://cheeseepedia.org/photos/northridgepromoposter-avif/", "http://youtube.com/post/UgkxA4ty1YSQRnFYEyGSwq8fqiQyjyznrl9L?si=rgKoS0OA1CBZMrZw", "https://cheeseepedia.org/photos/90wink-avif/", "https://cheeseepedia.org/photos/lansingwink-avif/", "https://archive.org/details/holiday-set-mobile-al-017/Vegas%20Set%20Mobile%20AL-002.jpg", "https://www.flickr.com/photos/146664847@N05/51245117466/", "https://youtu.be/FICERktkHr0?si=1Ip21I2owxzAOoyz&t=168", "https://www.flickr.com/photos/ryanrules/51103910659/", "https://www.youtube.com/watch?v=NkPYlGyBLpw", "Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0 "]
 manufacturer = "Diversified Designs"
 unitsProduced = "~348"
-dimensions = "1990 Wink ??? 1992 Wink 52" x 21" x 5""
+dimensions = "1990 Wink ??? 1992 Wink 52' x 21' x 5'"
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
 +++
