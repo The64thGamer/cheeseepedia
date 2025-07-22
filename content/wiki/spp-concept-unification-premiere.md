@@ -8,7 +8,7 @@ contributors = ["The 64th Gamer", "BurgersNuggs445", "DerekCat", "71.15.155.152"
 citations = ["https://youtu.be/Y3RwnSxGcnE?feature=shared"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Chuck E. Cheese & Mr. Munch Voice Actor", "Nancy Lenihan|Helen Henny Voice Actress", "Bob West|Pasqually & Jasper T. Jowls Voice Actor", "Audio Production|Sundance Productions"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)"]
-transcriptions = ["CU Premiere Segment 1", "CU Premiere Segment 2"]
+transcriptions = ["CU Premiere Segment 1", "CU Premiere Segment 2", "CU Premiere Segment 3"]
 alsoKnownAs = ["260-0621-90(C) S. P. T. Inc.SPP Concept Unification PremiereSerial #00143 Deck - 1506/21/90 - Master CYBERSTAR"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
