@@ -6,7 +6,8 @@ categories = ["Creative Engineering"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Emcaacme","Ls2018","CEC Tinley","The 64th Gamer","Stripes"]
-citations = [" [href="https://www.youtube.com/watch?v=_M0wnYZpdkU&t=46s">](%22%3Ca%22) "]
+citations = [" [](https://www.youtube.com/watch?v=_M0wnYZpdkU&t=46s)
+ "]
 pageThumbnailFile = "m3yqmj3XRIAU3b7DZZmt.avif"
 +++
 The ***Billy Bob Talking Walkaround* costume was a unique walkaround product by Creative Engineering.**

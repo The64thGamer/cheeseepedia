@@ -6,7 +6,10 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1982-04-28"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090"]
-citations = [" [href="https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/">https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/](%22%3Ca%22)https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/"," [href="https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/">https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/](%22%3Ca%22)https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/"," [href="https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/">https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/](%22%3Ca%22)https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/"]
+citations = [" [https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/](https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/)
+https://www.instagram.com/p/BmjB4Gag1f37TWoKJA_0hUgUbtr4cCh32570Tc0/"," [https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/](https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/)
+https://www.instagram.com/p/BqfQgryHVVLEIk3QpeyR5eyz2BGjhu5HRYg7BY0/"," [https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/](https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/)
+https://www.indystar.com/story/entertainment/arts/2019/01/19/castleton-chuck-e-cheeses-reopens-one-nations-first-new-look-locations/2615434002/"]
 pageThumbnailFile = "9tdiGjObb_QYIJQStu53.avif"
 latitudeLongitude = ["39.90368322","-86.07668148"]
 +++

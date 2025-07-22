@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2001-12-21"
 endDate = ""
 contributors = ["CECBowlingGreen","StudioC","BurgersNuggs445","Rexburg090","2600:4040:5A0E:D900:7C3A:6A3A:5127:E965","Midwestretail","GabrielPennington9864","CorrectorMan","ShowBizMidwest","Tux Chuck","CECMentor","AstridMascotFan2005","Livelycheese"]
-citations = ["[}}">Chuck E. Live Stage (Dance Floor)](%22%7B%7B%3C){ref="" "wiki="" chuck="" e="" live="" stage="" (dance="" floor)"=""}","[https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building](%22https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building%22)"," [href="https://www.instagram.com/p/Ctz4DV7p5S-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="> https://www.instagram.com/p/Ctz4DV7p5S](%22%3Ca%22)","[https://www.youtube.com/watch?v=1hQngtiQliI](%22https://www.youtube.com/watch?v=1hQngtiQliI%22)"]
+citations = ["[}}">Chuck E. Live Stage (Dance Floor)](%22%7B%7B%3C){ref="" "wiki="" chuck="" e="" live="" stage="" (dance="" floor)"=""}","[https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building](%22https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building%22)"," [https://www.instagram.com/p/Ctz4DV7p5S](https://www.instagram.com/p/Ctz4DV7p5S-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
+","[https://www.youtube.com/watch?v=1hQngtiQliI](%22https://www.youtube.com/watch?v=1hQngtiQliI%22)"]
 pageThumbnailFile = "T3QEJAmQA344Gbf4V0Sq.avif"
 latitudeLongitude = ["32.92971437","-96.81218158"]
 +++
