@@ -1,14 +1,15 @@
 +++
-title = "ShowBiz Pizza '82 Tape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "ShowBiz Pizza '82 Tape"
 startDate = "1982-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
-citations = []
 pageThumbnailFile = "QNoV3DuyH64NumJBNqIh.avif"
+contributors = ["The 64th Gamer"]
+citations = ["https://youtu.be/LrdRgJMFxsI?si=c2wvF5aD2uJ7pWKA"]
 showtapeFormats = ["CEI 4-Track Reel"]
+transcriptions = ["Welcome In To Showbiz"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 **ShowBiz Pizza '82 Tape** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.
 
