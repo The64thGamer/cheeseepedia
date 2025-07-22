@@ -22,84 +22,13 @@ Artifact Shelves consisted of retro and pop-culture décor, framing Chuck E. as 
 - TV
 
 ## Shelves
-
-+----------------+-------------+-----------+-------------+--------------+-------------+
-| Store          | Date        | Themes    | Theme 1     | Theme 2      | Generic     |
-|                | Recieved    |           | Items       | Items        | Items       |
-+================+=============+===========+=============+==============+=============+
-| {{< wiki-link | Mid-1990's | Sports,   | - Bowling   | - Ralph      | - Trophy    |
-| "Springfield, |             | Hollywood |   Pins      |   Kramden    |   Prop      |
-| PA (381        |             |           |   (Shelf    |   Statue     |   (Shelf    |
-| Baltimore      |             |           |   Item)     |   (Shelf     |   Item)     |
-| Pike)" >}}   |             |           | - Babe Ruth |   Item)      | - {{<      |
-|                |             |           |   Poster    | - Super      |   wiki-link |
-|                |             |           |   (Shelf    |   Powers     |   "Prop TV |
-|                |             |           |   Item)     |   Lunch Box  |   (Shelf    |
-|                |             |           | - Chuck     |   (Shelf     |   Item)"   |
-|                |             |           |   Statue-   |   Item)      |   >}}      |
-|                |             |           |   Baseball  | - Popeye     |             |
-|                |             |           |   (Shelf    |   Sign       |             |
-|                |             |           |   Item)     |   (Shelf     |             |
-|                |             |           | - Westwood  |   Item)      |             |
-|                |             |           |   Golf      | - SS Minnow  |             |
-|                |             |           |   Clubs     |   Life Raft  |             |
-|                |             |           |   Sign      |   (Shelf     |             |
-|                |             |           |   (Shelf    |   Item)      |             |
-|                |             |           |   Item)     | - Fred       |             |
-|                |             |           | - Old       |   Flintstone |             |
-|                |             |           |   Boxing    |   Statue     |             |
-|                |             |           |   Gloves    | - (???) Grey |             |
-|                |             |           |   (Shelf    |   Figure w/  |             |
-|                |             |           |   Item)     |   Red Hat    |             |
-|                |             |           | - Babe Ruth | - (???)      |             |
-|                |             |           |   Statue    |   Human      |             |
-|                |             |           |   (Shelf    |   Figure w/  |             |
-|                |             |           |   Item)     |   Blue       |             |
-|                |             |           |             |   Clothes &  |             |
-|                |             |           |             |   White      |             |
-|                |             |           |             |   Stripes    |             |
-|                |             |           |             | - (???)      |             |
-|                |             |           |             |   Small Dark |             |
-|                |             |           |             |   Brown      |             |
-|                |             |           |             |   Poster)    |             |
-|                |             |           |             | - (???)      |             |
-|                |             |           |             |   Medium     |             |
-|                |             |           |             |   Black      |             |
-|                |             |           |             |   Poster     |             |
-+----------------+-------------+-----------+-------------+--------------+-------------+
-| {{< wiki-link | 1990s       | Music,    | - {{<      | - Clapper    | - Trophy    |
-| "New London,  |             | Hollywood |   wiki-link |   Board      |   Prop      |
-| CT (389 N      |             |           |   "Chuck   |   (Shelf     |   (Shelf    |
-| Frontage Rd)" |             |           |   Statue-   |   Item)      |   Item)     |
-| >}}           |             |           |   Musician  | - Popcorn    | - {{<      |
-|                |             |           |   (Shelf    |   Bucket     |   wiki-link |
-|                |             |           |   Item)"   |   (Shelf     |   "Prop TV |
-|                |             |           |   >}}      |   Item)      |   (Shelf    |
-|                |             |           | - Mini      | - Hollywood  |   Item)"   |
-|                |             |           |   Crosley   |   & Vine     |   >}}      |
-|                |             |           |   CR-11     |   Signpost   |             |
-|                |             |           |   (Shelf    |   (Shelf     |             |
-|                |             |           |   Item)     |   Item)      |             |
-|                |             |           | - The       | - Stan       |             |
-|                |             |           |   Beatles   |   Laurel     |             |
-|                |             |           |   Poster    |   Statue     |             |
-|                |             |           |   (Shelf    |   (Shelf     |             |
-|                |             |           |   Item)     |   Item)      |             |
-|                |             |           | - (???)     | - Oliver     |             |
-|                |             |           |   Human     |   Hardy      |             |
-|                |             |           |   Figure w/ |   Statue     |             |
-|                |             |           |   Black     |   (Shelf     |             |
-|                |             |           |   Hair      |   Item)      |             |
-|                |             |           | - (???) Man | - Song of    |             |
-|                |             |           |   Sitting   |   the        |             |
-|                |             |           |   Poster    |   Islands    |             |
-|                |             |           | - (???)     |   Poster     |             |
-|                |             |           |   Music     |   (Shelf     |             |
-|                |             |           |   Band      |   Item)      |             |
-|                |             |           |   Poster    | - (???)      |             |
-|                |             |           |             |   Black &    |             |
-|                |             |           |             |   White      |             |
-|                |             |           |             |   Poster     |             |
-+----------------+-------------+-----------+-------------+--------------+-------------+
-|                |             |           |             |              |             |
-+----------------+-------------+-----------+-------------+--------------+-------------+
++-------------------------------+-------------+---------------------+--------------------------+--------------------------+--------------------------+
+| Store                         | Date        | Themes              | Theme 1                  | Theme 2                  | Generic                  |
+|                               | Recieved    |                     | Items                    | Items                    | Items                    |
++===============================+=============+=====================+==========================+==========================+==========================+
+| {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}} | Mid-1990's | Sports, Hollywood    | - Bowling Pins (Shelf Item), - Babe Ruth Poster (Shelf Item), - Chuck Statue- Baseball (Shelf Item), - Babe Ruth Statue (Shelf Item), - Chuck Statue- Baseball (Shelf Item) | - Ralph Kramden Statue (Shelf Item), - Super Powers Lunch Box (Shelf Item), - Popeye Sign (Shelf Item), - SS Minnow Life Raft (Shelf Item), - Fred Flintstone Statue, - (???) Grey Figure w/ Red Hat, - (???) Human Figure w/ Blue Clothes & White Stripes, - (???) Small Dark Brown Poster, - (???) Medium Black Poster | - Trophy Prop (Shelf Item), - {{< wiki-link "Prop TV (Shelf Item)" >}} |
++-------------------------------+-------------+---------------------+--------------------------+--------------------------+--------------------------+
+| {{< wiki-link "New London, CT (389 N Frontage Rd)" >}} | 1990s       | Music, Hollywood     | - {{< wiki-link "Chuck Statue- Musician (Shelf Item)" >}}, - Mini Crosley CR-11 (Shelf Item), - The Beatles Poster (Shelf Item), - (???) Human Figure w/ Black Hair, - (???) Man Sitting Poster, - (???) Music Band Poster | - Clapper Board (Shelf Item), - Popcorn Bucket (Shelf Item), - Hollywood & Vine Signpost (Shelf Item), - Stan Laurel Statue (Shelf Item), - Oliver Hardy Statue (Shelf Item), - Song of the Islands Poster (Shelf Item), - (???) Black & White Poster | - Trophy Prop (Shelf Item), - {{< wiki-link "Prop TV (Shelf Item)" >}} |
++-------------------------------+-------------+---------------------+--------------------------+--------------------------+--------------------------+
+|                               |             |                     |                          |                          |                          |
++-------------------------------+-------------+---------------------+--------------------------+--------------------------+--------------------------+
