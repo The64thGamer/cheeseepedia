@@ -239,7 +239,6 @@ Hello
 
 A world of ways to say "Hi" all you gotta do is try
 
-****
 
 **Jasper: (Singing)**
 
@@ -247,7 +246,7 @@ If from in from Africa we're meeting, me and you. We would say "My friend, good 
 
 and he would say "Sannu!"
 
-****
+
 
 **Chuck: (Singing)**
 
@@ -625,7 +624,7 @@ He's a lucky man
 
 I've got Pasqually
 
-****
+
 
 **Pasqually: (Singing)**
 
@@ -698,5 +697,3 @@ Right
 **Chuck:**
 
 So go make some new friends and we'll see you back here in a little bit
-
-/p>
