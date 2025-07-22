@@ -13,7 +13,7 @@ alsoKnownAs = ["260-0621-90(C) S. P. T. Inc.SPP Concept Unification PremiereSeri
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***SPP Concept Unification Premiere Show* was an exclusive showtape used to premiere all new 3-Stage shows, which made its first debut on June 21, 1990, and lasted across stores until 1993.**
+The ***SPP Concept Unification Premiere Show* was an exclusive showtape for 3-Stage shows after undergoing Concept Unification used to introduce Munch’s Make Believe Band, which made its first debut on June 21, 1990, and lasted across stores until 1993.**
 
 ## Concept Unification
 
