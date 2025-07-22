@@ -1,6 +1,7 @@
 +++
 title = "British Invasion"
 tags = ["Transcriptions"]
+contributors = ["Luigigamin212"]
 +++
 **Jasper T. Jowls:**
 Chuck E! The British are coming!
