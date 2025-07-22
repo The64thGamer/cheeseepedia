@@ -1,0 +1,10 @@
++++
+title = "King '90 II"
+draft = false
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = ""
+startDate = "1990-00-00"
+endDate = "0000-00-00"
+contributors = []
++++

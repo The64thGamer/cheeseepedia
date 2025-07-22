@@ -1,0 +1,10 @@
++++
+title = "CEC 1991 Blue Visor (1991)"
+draft = false
+tags = ["Employee Wear"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = ""
+startDate = "Hats-00-00"
+endDate = "0000-00-00"
+contributors = []
++++

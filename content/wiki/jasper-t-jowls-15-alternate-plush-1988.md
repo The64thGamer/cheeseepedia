@@ -1,0 +1,10 @@
++++
+title = "Jasper T. Jowls 15' Alternate Plush (1988)"
+draft = false
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = ""
+startDate = "1988-00-00"
+endDate = "0000-00-00"
+contributors = []
++++
