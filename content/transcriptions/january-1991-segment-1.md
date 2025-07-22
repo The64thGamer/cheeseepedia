@@ -1,6 +1,7 @@
 +++
 title = "January 1991 Segment 1"
 tags = ["Transcriptions"]
+contributors = ["Luigigamin212"]
 +++
 
 **Chuck:**
