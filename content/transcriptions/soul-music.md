@@ -17,7 +17,7 @@ No, would you lay off the hippity dippity weird stuff? This is my show y'know, C
 **Mr. Munch:**
 Back off big boy, I was talking to the chick
 
-**\[Helen Squawks\]**
+**[Helen Squawks]**
 
 **Chuck E. Cheese:**
 The what?
@@ -31,7 +31,7 @@ Heh heh heh!
 **Chuck E. Cheese:**
 What? How- how did i lose control of the show? what happened?
 
-**\[Song: I Gotcha\]**
+**[Song: I Gotcha]**
 
 **Mr. Munch: (Singing)**
 Uhuhuh, you thought you got by me now did ya?
@@ -69,7 +69,7 @@ Gotcha, Gotcha, Gotcha, I gotcha!
 **Helen Henny:**
 Now hold on there shaggy, this chick insists on a little respect
 
-**\[Song: Respect\]**
+**[Song: Respect]**
 
 **Helen Henny: (Singing)**
 What you want
@@ -102,7 +102,7 @@ Well folks since these guys got started on the soul music, I might as well bring
 **Jasper T. Jowls:**
 Oh boy, they're just a dream
 
-**\[Song: Stop! In the name of love\]**
+**[Song: Stop! In the name of love]**
 
 **The Warblettes: (Singing)**
 Stop! in the name of love
@@ -112,7 +112,7 @@ Think it over
 **Chuck E. Cheese:** 
 And now here's our own, Jasper! That hot dog, that soul dog, that Soul Man.
 
-**\[Song: Soul Man\]**
+**[Song: Soul Man]**
 
 **Jasper T. Jowls: (Singing)**
 Comin' to ya on a dusty road
@@ -129,7 +129,7 @@ Eeeeeyahoo!
 **Jasper T. Jowls:**
 Now hold on folks, the power bird with the golden lungs is revving up again!
 
-**\[Song: Proud Mary\]**
+**[Song: Proud Mary]**
 
 **Helen Henny: (Singing)**
 Left a good job in the city
