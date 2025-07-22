@@ -56,7 +56,7 @@ Let's go to the hop
 
 **[Song: I'm Walkin']**
   
-**Mr. Munch:(Singing)**  
+**Mr. Munch: (Singing)**  
 I'm walkin', yes, indeed  
   
 **Jasper T. Jowls:**  
