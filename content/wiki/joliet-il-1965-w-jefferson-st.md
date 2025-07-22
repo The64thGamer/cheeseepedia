@@ -6,8 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-07-13"
 endDate = "2007-01-00"
 contributors = ["ShowBizMidwest","Documentor","ThatBoiCydalan","Rexburg090","CorrectorMan","SuperCreamPiper2008","CoolerDude","Muncho","Cecanddisneyfan2004","AstridMascotFan2005"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf%22)"," [unknown_06/08.jpg](https://www.showbizpizza.com/photos/cec/)
-"]
+citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf%22)"," [unknown_06/08.jpg](https://www.showbizpizza.com/photos/cec/)"]
 latitudeLongitude = ["41.52122432","-88.12775883"]
 +++
 ***1965 W Jefferson St,* ***Store #94*^(1)^ was a *ShowBiz Pizza Place/Chuck E. Cheese's* that opened on July 13th, 1983 with a Rock-afire Explosion, which got concept unification in 1991/1992 and closed in January 2007 and relocated to the {{< wiki-link "Joliet, IL (3250 Chicagoland Circle)" >}} on January 29th 2007 as Chuck E. Cheese's with a Studio c Beta and is still open with 2.0.

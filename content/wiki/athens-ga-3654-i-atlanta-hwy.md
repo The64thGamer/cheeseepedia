@@ -5,7 +5,7 @@ startDate = "2000-04-10"
 endDate = ""
 pageThumbnailFile = ""
 contributors = ["tyhomas"]
-citations = ["[}}">Store Tour | Athens, GA | Chuck E. Cheese | December 2024](%22%7B%7B%3C){ref="" "https:="" www.youtube.com="" watch?v="ZDkpOsDSfIo""}", "[}}">Studio C Beta Prototype](%22%7B%7B%3C){ref="" "https:="" cheeseepedia.org="" wiki="" studio-c-beta-prototype="" "=""}"]
+citations = ["www.youtube.com/watch?v=ZDkpOsDSfIo", "cheeseepedia.org/wiki/studio-c-beta-prototype"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++

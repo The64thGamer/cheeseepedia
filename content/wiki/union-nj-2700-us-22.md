@@ -6,8 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2023-05-15"
 endDate = ""
 contributors = ["BurgersNuggs445","ThatBoiCydalan","CEC Tinley","Rexburg090","The 64th Gamer","Cecnj98","Documentor","47.17.236.200","CorrectorMan","AstridMascotFan2005"]
-citations = ["[https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA==](%22https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA==%22)","[https://www.instagram.com/p/CseIhW1r_Vw/?hl=en](%22https://www.instagram.com/p/CseIhW1r_Vw/?hl=en%22)"," [https://youtu.be/8b3npxPoLSg](https://www.youtube.com/watch?v=8b3npxPoLSg)
-"]
+citations = ["[https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA==](%22https://www.instagram.com/reel/CmcTh1sIoWI4uQUUQaw2rhGZq_fwsqrynCvsQ40/?igshid=MzRlODBiNWFlZA==%22)","[https://www.instagram.com/p/CseIhW1r_Vw/?hl=en](%22https://www.instagram.com/p/CseIhW1r_Vw/?hl=en%22)"," [https://youtu.be/8b3npxPoLSg](https://www.youtube.com/watch?v=8b3npxPoLSg)"]
 pageThumbnailFile = "uC0c53XDpqgCK9Zxq3RV.avif"
 latitudeLongitude = ["40.68531802","-74.31173243"]
 +++

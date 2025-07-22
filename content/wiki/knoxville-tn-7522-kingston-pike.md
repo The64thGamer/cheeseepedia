@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1982-08-23"
 endDate = "1997-00-00"
 contributors = ["Rexburg090","BurgersNuggs445","SuperCreamPiper2008","9Lol92"]
-citations = ["[}}">Knoxville, TN (8225 Kingston Pike)](%22%7B%7B%3C){ref="" "wiki="" knoxville,="" tn="" (8225="" kingston="" pike)"=""}"]
+citations = ["Knoxville, TN (8225 Kingston Pike)"]
 latitudeLongitude = ["35.92706192","-84.03702673"]
 +++
 ***7522 Kingston Pike* was the second *ShowBiz Pizza Place*/*Chuck E. Cheese's Pizza* that opened in Tennessee on August 23rd, 1982 with a {{< wiki-link "Classic Stage" >}} and closed in Summer 1997 with the {{< wiki-link "Concept Unification Stage" >}}.

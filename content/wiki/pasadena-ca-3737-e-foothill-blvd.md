@@ -5,7 +5,7 @@ startDate = "1993-10-14"
 endDate = ""
 pageThumbnailFile = "0BCYOW63UBD6CwjykNld.avif"
 contributors = ["Cheeseclassic", "TheChuckECheeseGuy", "Chez", "Snowbobsuperboi", "ThatBoiCydalan", "tyhomas"]
-citations = ["[}}">Chuck E. Cheese, Pasadena, CA Store Tour (Trail of Chuck'es 2024)](%22%7B%7B%3C){ref="" "https:="" www.youtube.com="" watch?v="C8bHHzzvWjw""}"]
+citations = ["www.youtube.com/watch?v=C8bHHzzvWjw"]
 latitudeLongitude = ["34.14962982", "-118.073889"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]

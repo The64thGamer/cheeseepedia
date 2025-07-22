@@ -5,8 +5,7 @@ startDate = "1980-10-20"
 endDate = "2008-05-00"
 pageThumbnailFile = "_AOXtXk1RPnHyBw_gwYK.avif"
 contributors = ["BurgersNuggs445", "Rexburg090", "ChuckECool", "The 64th Gamer", "ThatBoiCydalan", "CorrectorMan", "76.169.103.193", "CEC Tinley", "SuperCreamPiper2008", "Chouts1"]
-citations = [" [https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcf](https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc)
-", "[https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing](%22https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing%22)", "[https://www.youtube.com/watch?v=mNeLNeALLMM](%22https://www.youtube.com/watch?v=mNeLNeALLMM%22)"]
+citations = [" [https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcf](https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc)", "[https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing](%22https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing%22)", "[https://www.youtube.com/watch?v=mNeLNeALLMM](%22https://www.youtube.com/watch?v=mNeLNeALLMM%22)"]
 latitudeLongitude = ["34.27195067", "-118.801151"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]

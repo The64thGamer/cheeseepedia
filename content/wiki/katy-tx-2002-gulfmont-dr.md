@@ -5,7 +5,7 @@ startDate = "2001-12-30"
 endDate = ""
 pageThumbnailFile = "3tBNWB509kMfXvzxYe75.avif"
 contributors = ["JND", "ThatBoiCydalan", "tyhomas"]
-citations = ["[}}">Studio C Beta](%22%7B%7B%3C){ref="" "wiki="" studio="" c="" beta"=""}", "[}}">[HD] Chuck E. Cheese- Katy, TX 2.0 Store Tour](%22%7B%7B%3C){ref="" "https:="" youtu.be="" 1iywalalrim?si="PWMFnu-K6dy8iLqx""}"]
+citations = ["Studio C Beta", "youtu.be/1iywalalrim?si=PWMFnu-K6dy8iLqx"]
 latitudeLongitude = ["29.7488304", "-95.9185696"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]

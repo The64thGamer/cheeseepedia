@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1","[}}">Crazy Colander Head Night (Event)](%22%7B%7B%3C){ref="" "wiki="" crazy="" colander="" head="" night="" (event)"=""}"]
+citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)","Crazy Colander Head Night (Event)"]
 pageThumbnailFile = "pUoX8MihMdiVOYFXkzaW.avif"
 +++
 The ***Colander Head Club Membership Card* was a special card produced for contributing patrons of the {{< wiki-link "Crazy Colander Head Night (Event)" >}} during the month of March 1983.

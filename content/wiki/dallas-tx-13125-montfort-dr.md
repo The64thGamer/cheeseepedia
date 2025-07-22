@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-01-26"
 endDate = "2001-12-00"
 cuDate = "1990-06-00"
-contributors = ["Montfortdog","Chouts1","Rexburg090","CECBowlingGreen","Emcaacme","ChuckECool","BurgersNuggs445","RedaCEC","Midwestretail","The 64th Gamer","ShowBizMidwest","GabrielPennington9864","98.122.34.98","120.28.237.125","CorrectorMan","47.223.117.250","2605:AD80:31:19FD:F87A:255:C815:A4AA","SuperCreamPiper2008","CoolerDude","ThatBoiCydalan","AstridMascotFan2005","Caydenpedia","CECMadison","CEC1988","Stripes"]
+contributors = ["Montfortdog","Chouts1","Rexburg090","CECBowlingGreen","Emcaacme","ChuckECool","BurgersNuggs445","RedaCEC","Midwestretail","The 64th Gamer", "ShowBizMidwest","GabrielPennington9864","98.122.34.98","120.28.237.125","CorrectorMan","47.223.117.250","2605:AD80:31:19FD:F87A:255:C815:A4AA","SuperCreamPiper2008","CoolerDude","ThatBoiCydalan","AstridMascotFan2005","Caydenpedia","CECMadison","CEC1988","Stripes"]
 citations = ["[https://www.youtube.com/watch?v=OaBv_EGz7_c](%22https://www.youtube.com/watch?v=OaBv_EGz7_c%22)","[https://www.youtube.com/watch?v=nCxuWWzRFmA](%22https://www.youtube.com/watch?v=nCxuWWzRFmA%22)","","[https://i.pinimg.com/474x/46/ff/c5/46ffc50e0012be167c2be29c56d70f9e--retail-signs-vintage-signs.jpg](%22https://i.pinimg.com/474x/46/ff/c5/46ffc50e0012be167c2be29c56d70f9e--retail-signs-vintage-signs.jpg%22)","[https://en.wikipedia.org/wiki/Showscan](%22https://en.wikipedia.org/wiki/Showscan%22)"]
 pageThumbnailFile = "hvvce3dD95y0lLYLe3AU.avif"
 latitudeLongitude = ["32.92602377","-96.81312848"]

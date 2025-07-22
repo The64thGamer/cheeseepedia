@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1986-00-00"
 endDate = "1992-00-00"
 contributors = ["BurgersNuggs445","CEC Tinley","Snowbobsuperboi"]
-citations = ["[https://goo.gl/maps/diVBVVrPQg6HGPoPA](%22https://goo.gl/maps/diVBVVrPQg6HGPoPA%22)","[}}">Waco, TX (5106 West Waco Dr)](%22%7B%7B%3C){ref="" "wiki="" waco,="" tx="" (5106="" west="" waco="" dr)"=""}","1986 SPT Remodel Program"]
+citations = ["[https://goo.gl/maps/diVBVVrPQg6HGPoPA](%22https://goo.gl/maps/diVBVVrPQg6HGPoPA%22)","Waco, TX (5106 West Waco Dr)","1986 SPT Remodel Program"]
 pageThumbnailFile = "sGW6Si52xTsMLC4B4HQP.avif"
 latitudeLongitude = ["31.51754827","-97.18220388"]
 +++

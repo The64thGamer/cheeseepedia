@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1982-08-00"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","2600:1000:B105:6290:642C:7333:91F9:51EE","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
-citations = ["1986 SPT Remodel Program","[}}">Concept Unification](%22%7B%7B%3C){ref="" "wiki="" concept="" unification"=""}","[https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png](%22https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png%22)"]
+citations = ["1986 SPT Remodel Program","Concept Unification","[https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png](%22https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png%22)"]
 latitudeLongitude = ["32.37576552","-90.15075508"]
 +++
 ***5465 I-55, Store #213* was a *Pizza Time Theatre* that opened in August 1982 as part of the Melvin franchise. This location opened as the first Mississippi Chuck E. Cheese's and would later be relocated to {{< wiki-link "Jackson, MS (6352 Ridgewood Court Rd)" >}} in June 2009.**

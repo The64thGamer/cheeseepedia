@@ -6,8 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2006-11-10"
 endDate = ""
 contributors = ["ThatBoiCydalan"]
-citations = [" [https://www.youtube.com/watch?v=B1JR8Od149Y](https://www.youtube.com/watch?v=B1JR8Od149Y&pp=ygUeY2h1Y2sgZSBjaGVlc2UgaG91c3RvbiB0b21iYWxs)
-","[https://www.xome.com/realestate/17780-state-highway-249-houston-tx-77064-125033852](%22https://www.xome.com/realestate/17780-state-highway-249-houston-tx-77064-125033852%22)","[https://homemetry.com/house/17780+STATE+HIGHWAY+249,+Houston+TX](%22https://homemetry.com/house/17780+STATE+HIGHWAY+249,+Houston+TX%22)","[https://www.facebook.com/events/2595145740516079/](%22https://www.facebook.com/events/2595145740516079/%22)"]
+citations = [" [https://www.youtube.com/watch?v=B1JR8Od149Y](https://www.youtube.com/watch?v=B1JR8Od149Y&pp=ygUeY2h1Y2sgZSBjaGVlc2UgaG91c3RvbiB0b21iYWxs)","[https://www.xome.com/realestate/17780-state-highway-249-houston-tx-77064-125033852](%22https://www.xome.com/realestate/17780-state-highway-249-houston-tx-77064-125033852%22)","[https://homemetry.com/house/17780+STATE+HIGHWAY+249,+Houston+TX](%22https://homemetry.com/house/17780+STATE+HIGHWAY+249,+Houston+TX%22)","[https://www.facebook.com/events/2595145740516079/](%22https://www.facebook.com/events/2595145740516079/%22)"]
 pageThumbnailFile = "uEo4B1jaLlC73QEvMZVV.avif"
 latitudeLongitude = ["29.95834987","-95.54523698"]
 +++
