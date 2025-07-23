@@ -135,3 +135,89 @@ Mysterious and spooky
 They're all together ooky
 The Addams family
 
+**[Song: Dobie]**
+
+**The Warblettes: (Singing)**
+Dobie, wants a girl to call his own.
+Is she blond, is she tall, is she dark, is she small, Is she any kinda dreamboat at all
+Cause Dobie has to have a girl to call his own
+
+**[Song: The Ballad of Gilligan’s Isle]**
+
+**All: (Singing)**
+The ship set ground on the shore of this
+Uncharted desert isle
+
+**Chuck E. Cheese: (Singing)**
+With Gilligan
+
+**Mr. Munch: (Singing)**
+The Skipper too
+
+**Chuck E. Cheese & Pasqually: (Singing)**
+A Millionaire
+
+**Helen Henny & Pasqually: (Singing)**
+And his wife
+A movie star
+
+**Chuck E. Cheese: (Singing)**
+The professor  
+
+**Helen Henny & Pasqually: (Singing)**
+And Mary Ann
+
+**All: (Singing)**
+Here on Gilligan's isle
+
+**Chuck E. Cheese:**
+Y'know gang lots of the most memorable tv themes were instrumentals, no words at all!
+
+**Mr. Munch:**
+Words cannot describe how hungry I am!
+
+**Pasqually:**
+Uh- How about we serve you up some more tasty musical selections Munch?
+
+**Helen Henny:**
+Bakaw. Come on Chuck E, let's see if the folks remember the shows with these instrumental themes.
+
+**["The Fishin’ Hole" Plays]**
+
+**Jasper T. Jowls:**
+I can just see little Opie fishing with his dad, that's from the Andy Griffith Show!
+
+**Helen Henny:**
+Ooh remember Barney and lovable Aunt Bee?
+
+**Pasqually:**
+And Gomer and Goober and Thelma Lou? What a cute show!
+
+**["The Toy Parade" Plays]**
+
+**Chuck E. Cheese:**
+That weekly show was about Ward, June, Wally, Eddy, -
+
+**Jasper T. Jowls:**
+And Theodore, otherwise known as
+
+**All:** 
+The Beaver!
+
+**Chuck E. Cheese:**
+And leave it to beaver! Here's one more!
+
+**["‘I Love Lucy’ theme' Plays]**
+
+**Jasper T. Jowls:**
+???! Love that Cuban rhythm Senor Desi!
+
+**Mr. Munch:**
+Even I know that one, I love Pizza! 
+
+**Helen Henny:**
+Bakaw! I love Lucy Munch, you're so insensitive
+
+**Mr. Munch:**
+I'm so hungry! Let's eat!
+
