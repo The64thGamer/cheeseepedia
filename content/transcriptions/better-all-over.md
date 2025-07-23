@@ -7,7 +7,9 @@ draft = false
 +++
 **[Guitar intro]**
 
+
 **Announcer:**
+
 Ladies and gentlemen.
 Only once in a lifetime does a man come along with such unquestionable talent and persistence- that he cannot be denied.
 People, I'd like you to give a warm welcome- a warm ShowBiz welcome, to your favorite rockabilly relative.
@@ -15,7 +17,9 @@ Uncle Klunk.
 
 **[Song: Better All Over]**
 
+
 **Uncle Klunk: (singing)**
+
 Fell better all Over
 More than anywhere else, baby
 When I'm around you
@@ -42,6 +46,7 @@ More than anywhere else
 That's exactly how I feel
 
 **[Guitar solo]**
+
 
 Well I feel better all over
 More than anywhere else

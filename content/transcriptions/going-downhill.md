@@ -7,7 +7,9 @@ draft = false
 +++
 **[Song: Going Downhill]**
 
+
 **Fatz: (singing)**
+
 It all started at the corner table
 Sippin' on a Jack and Coke
 By the end of the evenin'
@@ -16,16 +18,20 @@ The weekend weakened me and took me of my will
 You got me-
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 A goin' downhill
 Goin' downhill
 
 **Beach Bear: (singing)**
+
 Goin' downhill
 
 **Fatz: (singing)**
+
 Yeah, still I can't get my fill of you
 I-I-I've spent all my money
 I have lost my respect
@@ -35,22 +41,28 @@ Lord, one step ahead of a welfare dollar bill
 You got me-
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 A goin' downhill
 A goin' downhill
 
 **Beach Bear: (singing)**
+
 Goin' downhill
 
 **Fatz: (singing)**
+
 Yeah, still I can't get my fill of you
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 Well I was voted most likely
 A'back in Seventy Nine (Nine)
 I'da made it straight to the top honey (Ahh)
@@ -59,16 +71,20 @@ But you put a somethin' on me
 So unreal, you got me-
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 Goin' downhill
 Goin' downhill
 
 **Beach Bear: (singing)**
+
 Goin' downhill
 
 **Fatz: (singing)**
+
 Yeah, still I can't get my fill of you
 
 I can't eat, I can't sleep, I think about you
@@ -80,29 +96,37 @@ I'm hooked on your thrill
 You got me-
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 Goin' downhill
 A goin' downhill
 
 **Beach Bear: (singing)**
+
 Goin' downhill
 
 **Fatz: (singing)**
+
 Yeah, still I can't get my fill of you
 
 **Beach Bear: (singing)**
+
 Ahh~
 
 **Fatz: (singing)**
+
 A goin' downhill
 Goin' downhill
 
 **Beach Bear: (singing)**
+
 Goin' downhill
 
 **Fatz: (singing)**
+
 Yeah, still I can't get my fill of you
 Oh my little sugah'
 Yeah, I can't get my fill of you
