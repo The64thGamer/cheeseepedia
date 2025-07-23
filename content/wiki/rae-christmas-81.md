@@ -1,15 +1,15 @@
 +++
-title = "RAE Christmas '81"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "RAE Christmas '81"
 startDate = "1981-11-00"
 endDate = "0000-00-00"
-contributors = ["Documentor"]
-citations = ["[https://www.youtube.com/watch?v=EeOXdM5FLIM](%22https://www.youtube.com/watch?v=EeOXdM5FLIM%22)","[https://www.youtube.com/watch?v=T8sWz_sa8FM](%22https://www.youtube.com/watch?v=T8sWz_sa8FM%22)"]
 pageThumbnailFile = "bKUQhDOG0FHEwg4_JTKd.avif"
+contributors = ["Documentor"]
+citations = ["[https://www.youtube.com/watch?v=EeOXdM5FLIM](%22https://www.youtube.com/watch?v=EeOXdM5FLIM%22)", "[https://www.youtube.com/watch?v=T8sWz_sa8FM](%22https://www.youtube.com/watch?v=T8sWz_sa8FM%22)"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Catch A Wave"]
+transcriptions = ["Catch A Wave", "Hit The Cymbal"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 **RAE Christmas '81** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1981.
 
