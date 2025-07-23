@@ -1,15 +1,15 @@
 +++
-title = "ShowBiz Pizza Place Tape 1"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "ShowBiz Pizza Place Tape 1"
 startDate = "1980-01-12"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","2A00:23C7:D7A1:7101:988A:572F:34E6:7B2E","2A00:23C7:D7A1:7101:E54E:5D4A:4588:4006","SamanthaKitty2015","2A00:23C7:D7A1:7101:443B:8D3E:83FB:AC71","2A00:23C7:D7A1:7101:4DE1:4470:5F6A:5323"]
-citations = ["[https://www.showbizpizza.com/review/rae/1980_spptape1.html](%22https://www.showbizpizza.com/review/rae/1980_spptape1.html%22)","https://en.wikipedia.org/wiki/1979_oil_crisis"]
 pageThumbnailFile = "YxOw3TtvGO2wxamICfrf.avif"
+contributors = ["The 64th Gamer", "2A00:23C7:D7A1:7101:988A:572F:34E6:7B2E", "2A00:23C7:D7A1:7101:E54E:5D4A:4588:4006", "SamanthaKitty2015", "2A00:23C7:D7A1:7101:443B:8D3E:83FB:AC71", "2A00:23C7:D7A1:7101:4DE1:4470:5F6A:5323"]
+citations = ["[https://www.showbizpizza.com/review/rae/1980_spptape1.html](%22https://www.showbizpizza.com/review/rae/1980_spptape1.html%22)", "https://en.wikipedia.org/wiki/1979_oil_crisis"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Roast Beef Sandwich and a Pizza","Catch A Wave"]
+transcriptions = ["Roast Beef Sandwich and a Pizza", "Catch A Wave", "Hit The Cymbal"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 ***ShowBiz Pizza Place Tape 1* was the first ever showtape produced for *ShowBiz Pizza Place's* hosting
 the *Rock-afire Explosion*.

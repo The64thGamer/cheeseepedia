@@ -1,15 +1,15 @@
 +++
-title = "RAE Classic Hits"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "RAE Classic Hits"
 startDate = "1981-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
-citations = []
 pageThumbnailFile = "JlK0bPaBulutjPFK3Pvg.avif"
+contributors = ["The 64th Gamer"]
+citations = ["https://youtu.be/7ekedD2jCeM?si=232zm2MzjaxbCjC6"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Catch A Wave"]
+transcriptions = ["Catch A Wave", "Hit The Cymbal"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 **RAE Classic Hits** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1981.
 
