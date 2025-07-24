@@ -6,7 +6,7 @@ endDate = ""
 contributors = ["Moonrock", "ThatBoiCydalan", "AstridMascotFan2005", "@bfromcec on Instagram", "@bmfromcec On Instagram"]
 citations = ["https://www.youtube.com/watch?v=Vr4tZkGoz_c"]
 storeNumber = "#554"
-showtapeFormats = []
+showtapeFormats = ["Current Showtape: Seasonal Legacy Showtape"]
 latitudeLongitude = ["41.61359542", "-83.67071508"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
