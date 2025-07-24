@@ -21,13 +21,14 @@ Footage of this showtape can be viewed [here](https://www.youtube.com/watch?v=lv
 
 ## Segments
 
-1.  **Segment 1**
-    1.  Sing a Simple Song ( [Rock and Roll is Here to Stay](https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay) Parody)
-    2.  Banana Hill (' [Blueberry Hill](https://en.wikipedia.org/wiki/Blueberry_Hill) Parody)
-    3.  Dog Gone to Love
-    4.  Dragstrip in the Sky
-    5.  Beach Bear Surfer Girl
-    6.  Good Times 5 Times (Reprise)
+1.  **Segment 1**\
+    1.  Clap for the Wolfman
+    2.  Sing a Simple Song ( [Rock and Roll is Here to Stay](https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay) Parody)
+    3.  Banana Hill (' [Blueberry Hill](https://en.wikipedia.org/wiki/Blueberry_Hill) Parody)
+    4.  Dog Gone to Love
+    5.  Dragstrip in the Sky
+    6.  Beach Bear Surfer Girl
+    7.  Good Times 5 Times (Reprise)
 
 ## Trivia
 
