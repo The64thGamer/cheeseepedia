@@ -12,4 +12,4 @@ This Chuck E Cheese Plush was made in 2007 for the Chuck E Cheese Prize Counter'
 
 The plush would feature Chuck E. in a jacket and wearing sunglasses (separate or optional)
 
-There was Also a version with a USA Headband that is rare to find 
+There was Also a version with a USA Headband that is rare to find and there was the normal red hand band one found at Chuck E. Cheese store's 
