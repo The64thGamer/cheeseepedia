@@ -26,19 +26,19 @@ CEC Corporate officially announced Chuck's Arcade on June 30th, 2025, which also
 
 There are more locations than what is known. It is known one arcade was installed in June of 2023 alongside that month's Orlando store refreshes.
 
-  Location                            Address                                                                                   Arcade Name                                                   Opening Date        Closing Date
-  ----------------------------------- ----------------------------------------------------------------------------------------- ------------------------------------------------------------- ------------------- --------------
-  Holiday Inn Resort Orlando Suites   {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}                           N/A                                                           May 2022            N/A
-  Embassy Suites                      {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}}                                  ???                                                           ???                 N/A
-  Eastview Mall                       {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}}                             Fun Spot Arcade                                               October 2024        N/A
-  Rockingham Park Mall                {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}}                         Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025)   December 13, 2024   N/A
-  Penn Square Mall                    {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}}              Fun Spot Arcade                                               January 2025        N/A
-  Springhill Suites                   Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one)   ???                                                           ???                 N/A
-  Trumbull Mall                       {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                       Fun Spot Arcade                                               September 6, 2024   N/A
-  Tyrone Square                       {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}<sup>(7)</sup>                         Fun Spot Arcade                                               September 2024      N/A
-  Brea Mall                           {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}<sup>(7)</sup>                          Chuck's Arcade                                               April 2025          N/A
-  Woodland Hills Mall                 {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}<sup>(17)</sup>                             Chuck's Arcade                                               May 29, 2025        N/A
-  Ward Parkway Center                 {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}}                              Chuck's Arcade and Pizzeria                                  June 26, 2025       N/A
-  Mall of Georgia                     {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}<sup>(7)</sup>                                 Chuck's Arcade                                               June 27, 2025       N/A
-  Cielo Vista Mall                    {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}<sup>(18)</sup>                             Chuck's Arcade                                               July 3, 2025        N/A
-  Brea Simon Center                   {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}<sup>(14)</sup>                                   Chuck's Arcade                                               August 2025         N/A
+| Location | Address | Arcade Name | Opening Date | Closing Date |
+| -------- | ------- | -------- | ------- | -------- |
+| Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}  |  N/A | May 2022 | N/A |
+| Embassy Suites | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}} | ??? | ??? | N/A |
+| Eastview Mall | {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}} | Fun Spot Arcade | October 2024 |  N/A |
+| Rockingham Park Mall | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}} | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025) | December 13, 2024 | N/A |
+| Penn Square Mall | {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}} | Fun Spot Arcade | January 2025 | N/A |
+| Springhill Suites | Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) | ??? | ??? |  N/A |
+| Trumbull Mall | {{< wiki-link "Trumbull, CT (5065 Main St)" >}} | Fun Spot Arcade | September 6, 2024 | N/A |
+| Tyrone Square | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}<sup>(7)</sup> | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024  | N/A  |
+| Brea Mall | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}<sup>(7)</sup> | Chuck's Arcade | April 2025 | N/A |
+| Woodland Hills Mall | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}<sup>(17)</sup> | Chuck's Arcade | May 29, 2025 | N/A |
+| Ward Parkway Center | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >} | Chuck's Arcade and Pizzeria | June 26, 2025 | N/A |
+| Mall of Georgia | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}<sup>(7)</sup> | Chuck's Arcade | June 27, 2025 | N/A |
+| Cielo Vista Mall | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}<sup>(18)</sup> | Chuck's Arcade | July 3, 2025 | N/A |
+| Brea Simon Center | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}<sup>(14)</sup> |    Chuck's Arcade | August 2025 | N/A |
