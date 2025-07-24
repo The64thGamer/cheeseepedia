@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Toledo, OH (5455 Airport Hwy)"
+title = "South Toledo, OH (5455 Airport Hwy)"
 startDate = "1993-09-06"
 endDate = ""
 contributors = ["Moonrock", "ThatBoiCydalan", "AstridMascotFan2005", "@bfromcec on Instagram", "@bmfromcec On Instagram"]
