@@ -1,13 +1,14 @@
 +++
-title = "Wolf Pack 5 IAAPA 1978 Showtape"
 draft = false
+title = "Wolf Pack 5 IAAPA 1978 Showtape"
+startDate = "1978-11-00"
+endDate = "1978-11-00"
+contributors = ["Sponch man", "The 64th Gamer"]
+citations = ["[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)", "[https://www.showbizpizza.com/review/rae/1982_abbeyroad.html](%22https://www.showbizpizza.com/review/rae/1982_abbeyroad.html%22)", "[https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311](%22https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311%22)", "[https://youtu.be/lvMtt4EQJnc?t=12](%22https://youtu.be/lvMtt4EQJnc?t=12%22)", "[https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert](%22https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert%22)"]
+showtapeFormats = ["CEI 8-Track Reel"]
+transcriptions = ["Clap for the Wolfman"]
 tags = ["Showtapes"]
 categories = ["Creative Engineering"]
-startDate = "1978-11-00"
-endDate = "0000-00-00"
-contributors = ["Sponch man","The 64th Gamer"]
-citations = ["[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)","[https://www.showbizpizza.com/review/rae/1982_abbeyroad.html](%22https://www.showbizpizza.com/review/rae/1982_abbeyroad.html%22)","[https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311](%22https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311%22)","[https://youtu.be/lvMtt4EQJnc?t=12](%22https://youtu.be/lvMtt4EQJnc?t=12%22)","[https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert](%22https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert%22)"]
-showtapeFormats = ["CEI 8-Track Reel"]
 +++
 **The Wolf Pack 5 IAAPA 1978 Showtape** was the first showtape created for the {{< wiki-link "Wolf Pack 5" >}}.<sup>(1)</sup> It was created in 1978 specifically for the IAAPA 1978 Expo in Atlanta, Georgia, United States, where the Wolf Pack 5 made their original debut to the public.
 
