@@ -38,7 +38,7 @@ There are more locations than what is known. It is known one arcade was installe
 | Tyrone Square | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}<sup>(7)</sup> | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024  | N/A  |
 | Brea Mall | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}<sup>(7)</sup> | Chuck's Arcade | April 2025 | N/A |
 | Woodland Hills Mall | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}<sup>(17)</sup> | Chuck's Arcade | May 29, 2025 | N/A |
-| Ward Parkway Center | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >} | Chuck's Arcade and Pizzeria | June 26, 2025 | N/A |
+| Ward Parkway Center | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}} | Chuck's Arcade and Pizzeria | June 26, 2025 | N/A |
 | Mall of Georgia | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}<sup>(7)</sup> | Chuck's Arcade | June 27, 2025 | N/A |
 | Cielo Vista Mall | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}<sup>(18)</sup> | Chuck's Arcade | July 3, 2025 | N/A |
 | Brea Simon Center | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}<sup>(14)</sup> |    Chuck's Arcade | August 2025 | N/A |
