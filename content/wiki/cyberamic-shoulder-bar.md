@@ -25,29 +25,29 @@ late 81-early 82
 
 We have good measurements for the bar and U piece, However spacing for the holes on the two sides and sizes and spacing on the holes in the middle may be incorrect. Holes for the sides are the same spacing and size. Height of metal on both pieces are the same
 
-  Type   Measurements (mm)
-  ------ -------------------
-  A      555.625
-  B      88.9
-  C      6.9596
-  D      10.2362
-  E      25.4
-  F      17.4625
-  G      --
-  H      --
-  I      --
-  J      --
-  K      --
-  L      --
-  M      --
-  N      --
-  O      --
-  P      --
-  Q      --
-  R      --
-  S      --
-  T      --
-  U      --
-  V      --
-  W      82.55
-  X      50.8
+| Type | Measurements (mm) |
+| --- | --- |
+| A | 555.625 |
+| B | 88.9 |
+| C | 6.9596 |
+| D | 10.2362 |
+| E | 25.4 |
+| F | 17.4625 |
+| G | ? |
+| H | ? |
+| I | ? |
+| J | ? |
+| K | ? |
+| L | ? |
+| M | ? |
+| N | ? |
+| O | ? |
+| P | ? |
+| Q | ? |
+| R | ? |
+| S | ? |
+| T | ? |
+| U | ? |
+| V | ? |
+| W | 82.55 |
+| X | 50.8 |
