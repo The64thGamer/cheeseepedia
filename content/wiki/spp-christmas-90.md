@@ -1,14 +1,14 @@
 +++
-title = "SPP Christmas '90"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "SPP Christmas '90"
 startDate = "1990-11-00"
 endDate = "1992-00-00"
-contributors = ["DerekCat"]
-citations = []
 pageThumbnailFile = "gTCWOrgGZduLpdwxxpqN.avif"
+contributors = ["DerekCat"]
+citations = ["https://www.youtube.com/watch?v=ufy3zY8INjY"]
 showtapeFormats = ["ShowBiz SVHS"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 ***SPP Christmas '90 / Wave Bday* is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
 For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
@@ -20,7 +20,7 @@ This show has the same segments, and music videos from last years release, but t
 1.  **Intermission 1**
     1.  6 Minute Countdown
         1.  [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album))
-        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')
+        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')<sup>(1)</sup>
         3.  Birthday Spectacular
     2.  Cyberstar Intro
 2.  **Segment 1**
@@ -68,12 +68,12 @@ This show has the same segments, and music videos from last years release, but t
 10. **Segment 4**
     1.  Homely For Christmas 4
         1.  Sleigh Ride Medley
-            1.  # [(There's No Place Like) Home for the Holidays](https://en.wikipedia.org/wiki/Home_for_the_Holidays_(song))
-            2.  # [Silver Bells](https://en.wikipedia.org/wiki/Silver_Bells)
-            3.  # [Sleigh Ride](https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector)
-            4.  # [Frosty the Snowman](https://en.wikipedia.org/wiki/Frosty_the_Snowman)
-            5.  # [Woof Woof Woof](https://en.wikipedia.org/wiki/The_Singing_Dogs)
-            6.  # [Sleigh Ride (Reprise)](https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector)
+            1.  [(There's No Place Like) Home for the Holidays](https://en.wikipedia.org/wiki/Home_for_the_Holidays_(song))
+            2.  [Silver Bells](https://en.wikipedia.org/wiki/Silver_Bells)
+            3.  [Sleigh Ride](https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector)
+            4.  [Frosty the Snowman](https://en.wikipedia.org/wiki/Frosty_the_Snowman)
+            5.  [Woof Woof Woof](https://en.wikipedia.org/wiki/The_Singing_Dogs)
+            6.  [Sleigh Ride (Reprise)](https://en.wikipedia.org/wiki/A_Christmas_Gift_for_You_from_Phil_Spector)
         2.  [Winter Wonderland](https://en.wikipedia.org/wiki/Winter_Wonderland)
         3.  [We Wish You A Merry Christmas](https://en.wikipedia.org/wiki/We_Wish_You_a_Merry_Christmas)
 11. **Intermission 6**
