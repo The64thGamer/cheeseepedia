@@ -16,58 +16,18 @@ There may have been variants through the years however they are unknown at this 
 
 All measurements for this piece are accurate as they were measured off a real part.
 
-Type
-
-Measurements (mm)
-
-A
-
-317.5
-
-B
-
-25.4
-
-C
-
-7.9375
-
-CA
-
-7.9375
-
-D
-
-12.7
-
-DA
-
-12.7
-
-E
-
-6.35
-
-EA
-
-69.85
-
-F
-
-25.4
-
-G
-
-25.4
-
-H
-
-25.4
-
-I
-
-6.35
-
-J
-
-12.7
+| Type | Measurements (mm) |
+| --- | --- |
+| A | 317.5 |
+| B | 25.4 |
+| C | 7.9375 |
+| CA | 7.9375 |
+| D | 12.7 |
+| DA | 12.7 |
+| E | 6.35 |
+| EA | 69.85 |
+| F | 25.4 |
+| G | 25.4 |
+| H | 25.4 |
+| I | 6.35 |
+| J | 12.7 |
