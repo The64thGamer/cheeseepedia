@@ -1,4 +1,4 @@
 +++
 title = "Luigigamin212"
 +++
-Just a guy that loves all thing CEC! fairly small part of the mission to measure cybers and hopefully soon a owner of a homemade CEC cyber. Also known as just Luigigamin on discord.
+Just a guy with a mission to own a full set of cyberamics one day, works a lot on making transcriptions for early ptt and rae showtapes. Goes by the same username on discord.
