@@ -26,22 +26,9 @@ Another variant for the eye is an eye that has threads drilled in the bottom for
 
 Measurements in the table are for the 90's eye and rod
 
-Type
-
-Measurements (mm)
-
-A
-
-50.8
-
-B
-
-82.55
-
-C
-
-266.7
-
-D
-
-6.35
+| Type | Measurements (mm) |
+| --- | --- |
+| A | 50.8 |
+| B | 82.55 |
+| C | 266.7 |
+| D | 6.35 |
