@@ -1,6 +1,7 @@
 +++
 title = "CU Premiere Segment 1"
 tags = ["Transcriptions"]
+contributors = ["Ceclife13"]
 +++
 **[Song: We've Got It]**
 
