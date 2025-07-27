@@ -40,10 +40,15 @@ We folks from the south know all about fast cars!
 **Jasper T. Jowls: (Singing)**
 
 Little GTO, you're really lookin' fine
+
 Three deuces and a four-speed and a 389
+
 Listen to her tachin' up now, listen to her why-ee-eye-ine
+
 I'm the coolest thing around, little buddy gonna shut you down
+
 When I turn it on, wind it up, blow it out GTO
+
 Wow!
 
 **Pasqually:**
@@ -79,7 +84,8 @@ Check my custom machine
 
 **Pasqually: (Singing)**
 
-oh well when you hear her go chugga chugga down the street 
+Oh well when you hear her go chugga chugga down the street 
+
 I'll let you look but don't touch my custom machine
 
 **Chuck E. Cheese:**
@@ -99,16 +105,23 @@ You boys move on out, follow the Big C if you can
 **Mr. Munch: (Singing)**
 
 Get your motor runnin'
+
 Head out on the highway
+
 Lookin' for adventure
+
 And whatever comes our way
 
 **All: (Singing)**
 
 You're gonna go make it happen
+
 Check it out, it's a driving race
+
 Fire up on the bikes, lets move on
+
 Explode into space
+
 Born to be wild!
 
 **Helen Henny: (Singing)**

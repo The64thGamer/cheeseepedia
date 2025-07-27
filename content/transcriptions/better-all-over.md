@@ -4,6 +4,7 @@ tags = ["Transcriptions"]
 categories = []
 startDate = ""
 draft = false
+contributors = ["The 64th Gamer"]
 +++
 **[Guitar intro]**
 

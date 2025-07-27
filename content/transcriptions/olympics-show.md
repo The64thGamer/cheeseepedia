@@ -1,12 +1,11 @@
 +++
 title = "Olympics Show"
 tags = ["Transcriptions"]
+contributors = ["The 64th Gamer"]
 +++
 **[Song: Olympics Fanfare]**
 
-
 **[Song: Movin' On Up (parody)]**
-
 
 **Fatz: (singing)**
 
@@ -59,9 +58,13 @@ Shapin' on up
 **Fatz: (singing)**
 
 Yea
+
 Gonna do it now not wait 'till later
+
 Not gonna be just a couch potat'uh
+
 Yes we takin' home all the gold
+
 Do or die
 
 **Fatz:**
@@ -132,27 +135,44 @@ If you double in size you're gonna have to apply for your own ZIP code!
 **Fatz: (singing)**
 
 I'll be bigger than Fat Albert
+
 And Elvis Presley too
+
 Don't you ever get smart with me boy
+
 Or I might sit on you
 
 **[Fatz laughs]**
 
 
 I'll smash buses against buildings just walkin' down the street
+
 I'll get stuck in every doorway and they'll have to blast me free
+
 When I double in size
+
 Double in size
+
 Every single part of me will double in size
+
 I triple in size
+
 Then triple in size
+
 Every single part of me will triple in size
+
 Quadruple in size
+
 Quadruple in size
+
 And when you see me boys and girls you won't believe your eyes
+
 Woah-oh-oh-no
+
 Yeah-heh-he-he-y-y-y-yea
+
 Woah-oh-oh-yea
+
 Double in size
 
 **All:**
@@ -247,27 +267,49 @@ Very nice.
 **Beach Bear: (singing)**
 
 The nights are tough yea
+
 They're long and cold
+
 I shiver and shake from my head down to my toes
+
 Cover me
+
 I'm begging for your mercy
+
 Cover me
+
 I gotta sleep with little brother
+
 And he always pulls the covers off of me
+
 So cover me
+
 Every night I freeze to death
+
 Every night I suffer and its
+
 All because my goofy little brother
+
 Cover me
+
 I'm turnin' blue now cover me
+
 I gotta sleep with little brother
+
 And he always pulls the covers off of me
+
 Cover me
+
 I gotta sleep with little brother
+
 And he always pulls the covers off of me
+
 Ah please I'm turnin' blue
+
 I gotta sleep with little brother
+
 And he always pulls the covers off of me-heee
+
 Oh-hooo
 
 **[Song: 50 Ways to Leave Your Lover (Parody)]**
@@ -276,14 +318,19 @@ Oh-hooo
 **Mitzi Mozzarella: (singing)**
 
 Oh I wanna be a gymnast
+
 But I'm just so overweight
+
 I got a thing for chocolate Kisses
+
 And jumbo Milkyway
 
 **Beach Bear: (singing)**
 
 Ah- don't worry girl
+
 You're gonna be okay there must be
+
 Fifty ways to lose 'yer blubber
 
 **Mitzi Mozzarella:**
@@ -292,10 +339,10 @@ Beach Bear!?
 
 **[Mitzi Scoffs]**
 
-
 **Beach Bear: (singing)**
 
 Yea-
+
 Fifty ways to lose your blubber
 
 **[Mitzi Scoffs]**
@@ -304,15 +351,21 @@ Fifty ways to lose your blubber
 **Mitzi Mozzarella: (singing)**
 
 Well its not really blubber
+
 No its just some baby fat
 
 **Beach Bear: (singing)**
 
 Well I'm sorry if this offends you
+
 But lets stick to the facts
+
 So I repeat myself
+
 At the risk of getting smacked
+
 There must be
+
 Fifty ways to lose your blubber
 
 **Mitzi & Beach Bear: (singing)**
@@ -320,7 +373,6 @@ Fifty ways to lose your blubber
 Fifty ways to lose your blubber
 
 **[Song: Unknown]**
-
 
 **Fatz: (singing)**
 
@@ -333,6 +385,7 @@ Just knock of the packlin' spacklin'
 **Beach Bear: (singing)**
 
 You don't need no beanie weenie
+
 Just listen to me
 
 **Fatz: (singing)**
@@ -353,13 +406,11 @@ And lose that gut!
 
 **[Rolfe Laughs]**
 
-
 **Earl:**
 
 Pipe out of it slack jaw!
 
 **[Looney Bird sings underwater]**
-
 
 **Billy Bob:**
 
@@ -387,17 +438,29 @@ Well Looney Bird I'm supposed to be interviewin' you! But to make a short story 
 **Billy Bob: (singing)**
 
 Well I knew I found true love
+
 The day I met Beulah
+
 Riding my bike home from school
+
 I was cuttin' some peelies
+
 And poppin' some wheelies
+
 And makin' her think I was cool
+
 Then that doggone nut broke
+
 And busted out my spokes
+
 My goodness, I thought I was dead
+
 Then Beulah came runnin'
+
 She thought I was a funnin'
+
 That's what I looked at my bike and I said
+
 You picked a fine time to leave me loose wheel
 
 **Billy Bob & Beach Bear: (singing)**
@@ -415,11 +478,12 @@ This time the hurtin' won't heal
 **Billy Bob & Beach Bear: (singing)**
 
 You picked a fine time to leave me loose wheel
+
 You picked a fine time to leave me loose wheel
+
 You picked a fine time to leave me loose wheel
 
 **[Song: Movin' On Up (parody)]**
-
 
 **Fatz: (singing)**
 
@@ -472,13 +536,21 @@ Shapin' on up
 **Fatz: (singing)**
 
 Yea
+
 Gonna do it now not wait 'till later
+
 We don't wanna be just a couch potat'uh
+
 But we takin' home all the gold
+
 Do or die
+
 La-dun-dun-dun-dun-dun-dun
+
 Dah-da-da-da
+
 Dah-da-da
+
 Dah-dah-da-dah-dah-daaa
 
 **Fatz:**

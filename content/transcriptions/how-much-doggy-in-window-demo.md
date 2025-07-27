@@ -4,6 +4,7 @@ tags = ["Transcriptions"]
 categories = []
 startDate = ""
 draft = false
+contributors = ["The 64th Gamer"]
 +++
 **[Song: The Rock And Roll Show (1,837 Seconds Of Humor)]**
 
@@ -20,7 +21,6 @@ Hi everybody! Chuck E. Cheese your number one groovy wowy cool country M.C. back
 Thank y'all thank y'all, now let me see if I'm in voice.
 
 **[Jasper Attempts 'Do-Re-Mi-Fa-So-La-Ti-Do' As 'Oh-Roh-Roh-Roh-Roh-Roh-Roh-Roh' In A Shrill Tone]**
-
 
 **[Warblettes Scream In Horror]**
 
@@ -58,8 +58,11 @@ Uhhh-huh! Sure Chuck E.! This is my latest song, and Chuck is gonna sing it with
 **Jasper T. Jowls & Chuck E. Cheese: (singing)**
 
 How Much Is That Hound Dog In The Winder
+
 With the basketball nose on his face
+
 You know what a basketball nose is
+
 It dribbles all over the place
 
 **[Pig Squeals & Dog Howls]**

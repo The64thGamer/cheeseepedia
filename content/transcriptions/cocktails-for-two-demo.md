@@ -4,6 +4,7 @@ tags = ["Transcriptions"]
 categories = []
 startDate = ""
 draft = false
+contributors = ["The 64th Gamer"]
 +++
 **[Song: Assorted Animal Acts (Circus Spectacular)]**
 
@@ -76,6 +77,7 @@ To some exquisite chansonette
 
 
 Two hands are sure to slyly meet beneath
+
 The serviette with cocktails for two
 
 **[Glasses Clink Twice]**
@@ -92,6 +94,7 @@ But my heart will be obedient
 
 
 With intoxicating kisses for
+
 The principal ingredient
 
 **[Pop, Carbonated Fizz, Laughter]**
@@ -108,6 +111,7 @@ We'll be so glad we're both alive
 
 
 Then maybe fortune will complete the plan
+
 That all began with cocktails for two
 
 **[Glasses Clink, Glasses Break]**
