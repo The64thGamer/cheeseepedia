@@ -17,7 +17,7 @@ location received the 2.0 remodel in June of 2021. The location is still open to
 ## History
 
 This location was originally a ***Chuck E Cheese's Pizza Time Theater*** that opened in June of 1982 with a
-Balcony Stage, but this location would close in 1988 due to unknown reasons. This location would reopen as a Circus
+Balcony Stage, but this location would close in 1988 due to unknown reasons, likely underperforming, as was the reason for most closures during that timeframe. This location would reopen as a Circus
 Pizza with a Rock-Afire Explosion in 1988. CEC would buy Circus Pizza in 1999 and resulted in it closing and becoming a
 Chuck E Cheese's.
 
