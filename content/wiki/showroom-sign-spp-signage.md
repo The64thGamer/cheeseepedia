@@ -10,6 +10,7 @@ categories = ["ShowBiz Pizza Place"]
 +++
 The **Showroom Sign (SPP Signage) ** was a signage found at Showbiz Pizza locations.
 
+
 ## History
 
 This sign would feature at all showbiz pizza locations in until the 1990's remodel when the Chuck E. Cheese Showroom Signage would be the replacement for it in 1993 
@@ -17,3 +18,5 @@ This sign would feature at all showbiz pizza locations in until the 1990's remod
 ## Design
 
 The Showroom sign was a sign near the entrance to the showroom where it would tell people were the showroom is for people to see the Rock A Fire Explosion 
+
+the sign would feature on it the showbiz pizza logo with **Showroom** on the side 
