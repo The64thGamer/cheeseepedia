@@ -8,7 +8,7 @@ credits = []
 tags = ["Store Fixtures"]
 categories = ["ShowBiz Pizza Place"]
 +++
-The **Showroom Sign (SPP Signage) ** was a signage found at Showbiz Pizza locations ( 1982  and day )
+The **Showroom Sign (SPP Signage) ** was a signage found at Showbiz Pizza locations ( 1982  and unknown day )
 
 
 ## History
