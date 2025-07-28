@@ -5,6 +5,7 @@ endDate = "0000-00-00"
 contributors = ["showbizdudebeta"]
 citations = ["https://www.youtube.com/watch?v=xaAZMLgi4T8&t=6s"]
 credits = ["SproutFan2019"]
+mediaDuration = ":15"
 tags = ["Commercials"]
 categories = ["Chuck E. Cheese's"]
 +++
