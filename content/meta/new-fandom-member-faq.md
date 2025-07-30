@@ -12,8 +12,7 @@ gallery = [""]
 - *Data? -* The community always refers to lost media as this, though this term is also used for
   Showtape {{< wiki-link "Data" >}}. This is because both are synonymous with being hard to get your hands on.
 - *Showtapes? -* these are a physical piece of media that contains generally 30 mins - 2 hours of
-  musical content. They are all generally formatted to have a hidden audio channel that passes through Showtape {{
-  < wiki-link "Data">}} to the computer for processing, which aren't usually posted online. Stores have always
+  musical content. They are all generally formatted to have a hidden audio channel that passes through Showtape {{< wiki-link "Data">}} to the computer for processing, which aren't usually posted online. Stores have always
   received new showtapes every few months for the past 40 years, and they usually just keep older tapes in a
   storage room or throw them away, as it is not permitted to play previous tapes. Showtapes take on different
   formats throughout the years:
