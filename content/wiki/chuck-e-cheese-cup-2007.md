@@ -7,7 +7,7 @@ citations = ["https://www.worthpoint.com/worthopedia/vintage-chuckcheese-plastic
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 +++
-The *2007 Chuck E Cheese Cup* was a Birthday cup made for Chuck E. Cheese Restaurant's and released in 2007 by CEC Entertainment
+The *2007 Chuck E Cheese Cup* was a Birthday cup made for Chuck E. Cheese restaurant's and released in 2007 by CEC Entertainment
 
 ## Design 
 
