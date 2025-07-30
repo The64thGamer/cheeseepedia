@@ -43,7 +43,7 @@ Transmitter Card A
 Chroma Key 
 Studio C Emergency Startup 
 
-This Manual would soon get replaced by Novi For Colors Of Lights in August 2014 For Rockstar Chuck 
+This Manual would soon get replaced by Nova For Colors Of Lights in August 2014 For Rockstar Chuck 
 
 
 
