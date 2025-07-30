@@ -23,7 +23,7 @@ gallery = [""]
   - 2023+: {{< wiki-link "Navori System">}} transfers from the cloud. No longer on any physical medium.
 - *2.0 -* This is the {{< wiki-link "CEC 2.0 Remodel Program">}} that has been replacing all animatronic shows since 2018. Only the few {{< wiki-link "CEC Legacy Locations">}} remaining have animatronics.
 - *Phases -* This is a commonly used phrase to erroneously refer to the current remodel of a store,
-  when it is actually a separately installed package stores could opt into. The [Remodels and Initiatives](https://cheeseepedia.org/tags/remodels-initiatives/) section clears up what delineates each variant a store can be at any given time.
+  when it is actually a separately installed package stores could opt into. The [Remodels and Initiatives](https://cheeseepedia.org/tags/remodels-and-initiatives/) section clears up what delineates each variant a store can be at any given time.
 
 ## I want to learn more, any video recommendations?
 
