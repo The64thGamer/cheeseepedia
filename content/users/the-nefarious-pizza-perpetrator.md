@@ -11,6 +11,10 @@ Favorite animatronic: Fatz Geronimo
 Favorite type of pizza: Pepperoni (Yes, I'm lame.)
 
 
+Favorite video games: Team Fortress 2, Half-Life 2
+
+
+
 ### Locations visited:
 
 - Some location in/near Sacramento Ca. [2013-2015, I don't remember.]
