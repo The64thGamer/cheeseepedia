@@ -56,6 +56,7 @@ categories = ["Chuck E. Cheese's"]
 1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
 3. Me & My Friends (3-Stage Legacy Navori)
+4. Beach Party Bash (3-Stage Legacy Navori) (Removed 07/28, Added Back 07/29)
 
 ## Fireables 07/28 Update
 
