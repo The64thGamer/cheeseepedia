@@ -9,7 +9,7 @@ citations = ["https://www.flickr.com/photos/195304815@N04/53260610217/in/album-7
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Tropics** was a postcard released for Chuck E. Cheese in 2001 apart of the Phase 3 (2000) and was made by remodel and would stay this way until being replaced by new art in 2005 with the CEC 2000's Remodel Program, this would also be a update to the 1991 Tropic postcard from the SPT 1980's Remodel Program 
+**Tropics** was a postcard released for Chuck E. Cheese in 2001 apart of the Phase 3 (2000)  and would stay this way until being replaced by new art in 2005 with the CEC 2000's Remodel Program, this would also be a update to the 1991 Tropic postcard from the SPT 1980's Remodel Program 
 
 ## Appearance
 
