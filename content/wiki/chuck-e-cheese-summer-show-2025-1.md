@@ -314,7 +314,7 @@ Beach Party Bash (Media Navori, CEC Stage Navori)
 4.  Blippi - 'We Explore
 5.  'Chuck E. Cheese - 'Bubble Bubble Pop'
 6.  Chuck E. Cheese - 'Just Like This'
-7. Westgate Suites Promo (Removed 07/06)
+7. Westgate Suites Promo (Removed Same Day)
 8.  Kidz Bop Kids - 'Certified BOP'
 9.  Chuck E. Cheese - 'The Garden Gnome'
 10.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
