@@ -10,7 +10,6 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Summer Show 2025** **is the summer show released on April 28, 2025. From July 7, to September 7, this show would end at 6 pm due to KIDZ BOP Nightly Takeover 2025
 
-
 ## 
 
 ## Show List 07/28 Update:
