@@ -10,7 +10,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "Cybera
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E. Cheese Show 2 2025 International English* released in March 2025.**
+**Chuck E. Cheese Show 2 2025 International English** **was released in March 2025 and played until July 2025**
 
 ## 
 
