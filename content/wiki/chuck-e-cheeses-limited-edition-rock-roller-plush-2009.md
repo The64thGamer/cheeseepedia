@@ -14,4 +14,4 @@ This plush was a part of the limited edition Chuck E. Cheese pack that lasted fr
 
 ## Design 
 
-The plush has a round body with two cylindrical legs connected to it. The plush had a rainbow guitar around the shirt with Chuck E. holding on to it with his left hand and holding on the neck of the guitar with his right hand, Chuck E. would also have a black shirt and backwards hat. This also had white shoes with red shorts 
+The plush has a round body with two cylindrical legs connected to it. The plush had a rainbow guitar around the shirt with Chuck E. holding on to it with his left hand and holding on the neck of the guitar with his right hand, Chuck E. would also have a black shirt and backwards hat. This also had white shoes with red shorts.
