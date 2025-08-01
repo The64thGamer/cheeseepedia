@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheese's Limited Edition Rock & Roller Plush (2009)"
-startDate = "1991-00-00"
+startDate = "2009-00-00"
 contributors = ["showbizdudebeta"]
 citations = ["https://www.worthpoint.com/worthopedia/chuck-cheese-rock-roll-rockstar-tie-2019092951"]
 tags = ["In-Store Merchandise"]
