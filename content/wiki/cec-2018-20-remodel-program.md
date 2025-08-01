@@ -6,49 +6,41 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2017-07-00"
 endDate = ""
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic","Caydenpedia","AstridMascotFan2005"]
-citations = ["","[https://www.chuckecheese.com/trampolines/](%22https://www.chuckecheese.com/trampolines/%22)"]
+citations = ["<ref></ref>","<a href=\"https://www.chuckecheese.com/trampolines/\">https://www.chuckecheese.com/trampolines/</a>"]
 pageThumbnailFile = "bkCoegBxsBs27iVNef_d.avif"
 +++
+
 The **CEC 2.0 Remodel** is a remodel of {{< wiki-link "Chuck E Cheese's" >}} restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} concept that gives a walkaround characters a dedicated space to perform.
 
 ## History
 
-From 2016 to 2017 surveys were sent via email to see what parents would like to see in Chuck E. Cheese's locations. The survey resulted in a refresh of Chuck E. Cheese's as a whole.
-A San Francisco design firm, Tesser, conceptualized three designs for CEC's use. All of these designs had the same concept but objectively different aesthetics. The designs in question were described as 'Modern', 'Warm', and the one CEC chose, 'Bold'.
-The first locations to remodel to this look were the San Antonio, TX locations ({{< wiki-link "San Antonio (Stone Oak), TX (1403 N Loop)" >}}, San Antonio, TX (238 W Military Dr)|Military Drive, and {{< wiki-link "San Antonio, TX (6874 Ingram Rd)" >}}) in July of 2017, which slowly spread from Texas to across the country within the first few months of its debut. However, during the COVID-19 lockdowns in 2020, CEC Entertainment halted several planned remodels until 2021.
-In 2021 CEC Entertainment resumed the remodeling processes on their restaurant, also debuting a {{< wiki-link "Video Wall" >}} for new and previous remodels.
-On January 26, 2023, CEC stated that they officially completed their 200th new remodel with the Douglasville, GA location, and would be celebrating with a sweepstakes with 200 winners.
-The {{< wiki-link "Brooklyn, NY (139 Flatbush Ave)" >}} location officially reopened on April 14, 2023, and debuted the new Trampoline Zone concept, a trampoline park for small children. It is expected that the concept to be installed in future remodels.
+From 2016 to 2017 surveys were sent via email to see what parents would like to see in Chuck E. Cheese's locations. The survey resulted in a refresh of Chuck E. Cheese's as a whole. A San Francisco design firm, Tesser, conceptualized three designs for CEC's use. All of these designs had the same concept but objectively different aesthetics. The designs in question were described as 'Modern', 'Warm', and the one CEC chose, 'Bold'. The first locations to remodel to this look were the San Antonio, TX locations ({{< wiki-link "San Antonio (Stone Oak), TX (1403 N Loop)" >}}, San Antonio, TX (238 W Military Dr)|Military Drive, and {{< wiki-link "San Antonio, TX (6874 Ingram Rd)" >}}) in July of 2017, which slowly spread from Texas to across the country within the first few months of its debut. However, during the COVID-19 lockdowns in 2020, CEC Entertainment halted several planned remodels until 2021. In 2021 CEC Entertainment resumed the remodeling processes on their restaurant, also debuting a {{< wiki-link "Video Wall" >}} for new and previous remodels. On January 26, 2023, CEC stated that they officially completed their 200th new remodel with the Douglasville, GA location, and would be celebrating with a sweepstakes with 200 winners. The {{< wiki-link "Brooklyn, NY (139 Flatbush Ave)" >}} location officially reopened on April 14, 2023, and debuted the new Trampoline Zone concept, a trampoline park for small children. It is expected that the concept to be installed in future remodels.
 
 ## Design
 
 #### Exterior
 
-The bold design was chosen to keep Chuck E. Cheese's modern balance between a children's and family establishment. Each exterior features brown panels with a Swiss cheese-like pattern. The exterior's mix of darker and vibrant colors and the minimal usage of gray colors create a fresh-looking environment to attract guests to the building.
-The main logo also received a redesign, opting for a lineless design. The Pizzeria's name also changed, dropping the ''S' after 'Cheese' and giving it a new font. This modern font would only be used from 2017 to 2019 as they reverted to a similar version of the previous iteration.
+The bold design was chosen to keep Chuck E. Cheese's modern balance between a children's and family establishment. Each exterior features brown panels with a Swiss cheese-like pattern. The exterior's mix of darker and vibrant colors and the minimal usage of gray colors create a fresh-looking environment to attract guests to the building. The main logo also received a redesign, opting for a lineless design. The Pizzeria's name also changed, dropping the ''S' after 'Cheese' and giving it a new font. This modern font would only be used from 2017 to 2019 as they reverted to a similar version of the previous iteration.
 
 #### Interior
 
-The interior was redone by giving everything a fresh new coat of white paint and using black undertones in certain areas of the restaurant to highlight decorative text. Parody artwork has since been dropped entirely, making the only pieces of the artwork seen in the building the various large text reading various phrases such as 'High Five' or 'Party'. The usage of wooden planks was also prominent in earlier variations of this remodel, being used as booth dividers, wall panels, or substitutes for tiling for customer-use counters.
-The Showroom, Now called the Birthday Area, is surrounded by artwork of the main five Chuck E. Cheese characters (Munch's Make Believe Band) with bios, which are also featured on the cups. 2017 2.0 Remodels featured a wall decal of the characters, while 2018 Remodels featured a slightly transparent poster (the only opaque areas are the silhouettes and the character bio's.). 2019 Remodels changed the posters again, making them completely opaque, with the formerly transparent area now being the standard color of the character, with the wall behind it also being colored the same.
+The interior was redone by giving everything a fresh new coat of white paint and using black undertones in certain areas of the restaurant to highlight decorative text. Parody artwork has since been dropped entirely, making the only pieces of the artwork seen in the building the various large text reading various phrases such as 'High Five' or 'Party'. The usage of wooden planks was also prominent in earlier variations of this remodel, being used as booth dividers, wall panels, or substitutes for tiling for customer-use counters. The Showroom, Now called the Birthday Area, is surrounded by artwork of the main five Chuck E. Cheese characters (Munch's Make Believe Band) with bios, which are also featured on the cups. 2017 2.0 Remodels featured a wall decal of the characters, while 2018 Remodels featured a slightly transparent poster (the only opaque areas are the silhouettes and the character bio's.). 2019 Remodels changed the posters again, making them completely opaque, with the formerly transparent area now being the standard color of the character, with the wall behind it also being colored the same.
 
 ### Remodels Packages
 
-Initially, locations that were eligible for this remodel got one of three packages: Gold, Silver, or Bronze. The Gold and Silver packages never left the first few remodeled stores from 2017 to 2018. In 2021 a Video Wall was added to the existing Dance Floor and started to roll out at new remodeled locations while existing remodeled locations kept their previous Dance Floor set up.
-During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.<sup>(1)</sup> Although {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} and {{< wiki-link "Humble, TX (124 E FM 1960 Bypass)" >}} aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores.
-The new 'refresh' package is designed as a low-cost option for remodels. This remodel package is used for most Chuck E Cheese locations from 2023 onward, as it is a cheaper and faster alternative to a full remodel. These remodels are done by the company, instead of another company such as Parkway Construction, as using another company is more expensive and is a slower process. These remodels do not receive new booths, lighting changes, a restroom remodel, or tiles behind the menu board. Depending on the store, no new floor tiles by the counter are added, unless they are older tiles that need changing.
+Initially, locations that were eligible for this remodel got one of three packages: Gold, Silver, or Bronze. The Gold and Silver packages never left the first few remodeled stores from 2017 to 2018. In 2021 a Video Wall was added to the existing Dance Floor and started to roll out at new remodeled locations while existing remodeled locations kept their previous Dance Floor set up. During the 2021 Remodels, corporate would have 14 out of its 15 flagship stores receive a special mural containing the town and its name as part of their remodels.(1) Although {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} and {{< wiki-link "Humble, TX (124 E FM 1960 Bypass)" >}} aren't considered flagship stores by corporate, they received a mural containing Chuck E and the band for unknown reasons during the flagship mural installations, which was assumed to be the mural used for non-flagship stores. The new 'refresh' package is designed as a low-cost option for remodels. This remodel package is used for most Chuck E Cheese locations from 2023 onward, as it is a cheaper and faster alternative to a full remodel. These remodels are done by the company, instead of another company such as Parkway Construction, as using another company is more expensive and is a slower process. These remodels do not receive new booths, lighting changes, a restroom remodel, or tiles behind the menu board. Depending on the store, no new floor tiles by the counter are added, unless they are older tiles that need changing.
 
-  Item                                     Gold   Silver    Bronze    2021 -                     Refresh
-  ---------------------------------------- ------ --------- --------- -------------------------- --------------------------------------------------------------------------------
-  Complete exterior remodel                Yes    Yes       Yes       Yes                        Yes
-  New interior paint job                   Yes    Yes       Yes       Yes                        Yes
-  New fixtures                             Yes    Yes       Yes       Yes                        Yes, with exception for {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}
-  Dance Floor / Removal of animated show   Yes    Yes       Yes       Yes + Video Wall           Yes + Video Wall, with exceptions for select stores
-  New booths                               Yes    Yes       Limited   Yes                        No
-  Facelift for counters                    Yes    Limited   No        Yes                        Yes
-  Open Kitchen                             Yes    No        No        No, Pick-up window added   No, Pick-up window added
-  Unique Mural                             No     No        No        Limited                    No
-  Trampoline Zone                          No     No        No        No                         Limited
+| Item                                   | Gold | Silver  | Bronze  | 2021 -                   | Refresh                                                                          |
+|----------------------------------------|------|---------|---------|--------------------------|----------------------------------------------------------------------------------|
+| Complete exterior remodel              | Yes  | Yes     | Yes     | Yes                      | Yes                                                                              |
+| New interior paint job                 | Yes  | Yes     | Yes     | Yes                      | Yes                                                                              |
+| New fixtures                           | Yes  | Yes     | Yes     | Yes                      | Yes, with exception for {{< wiki-link "Nanuet, NY (250 West Route 59)" >}} |
+| Dance Floor / Removal of animated show | Yes  | Yes     | Yes     | Yes + Video Wall         | Yes + Video Wall, with exceptions for select stores                              |
+| New booths                             | Yes  | Yes     | Limited | Yes                      | No                                                                               |
+| Facelift for counters                  | Yes  | Limited | No      | Yes                      | Yes                                                                              |
+| Open Kitchen                           | Yes  | No      | No      | No, Pick-up window added | No, Pick-up window added                                                         |
+| Unique Mural                           | No   | No      | No      | Limited                  | No                                                                               |
+| Trampoline Zone                        | No   | No      | No      | No                       | Limited                                                                          |
 
 ## Mural locations
 
@@ -69,7 +61,7 @@ The new 'refresh' package is designed as a low-cost option for remodels. This re
 - {{< wiki-link "Edison, NJ (1120 Route 1)" >}}
 - {{< wiki-link "St Charles, MO (2669 Veterans Memorial Pkwy)" >}}
 
-## Trampoline Zone Locations<sup>(2)</sup>
+## Trampoline Zone Locations(2)
 
 ### Arizona
 

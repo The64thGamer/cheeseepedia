@@ -13,7 +13,8 @@ alsoKnownAs = ["SHOWBIZ PIZZA TIME, INC 'CEC Live-Strike It Up/B-Day EXISTING ST
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Strike It Up* is a live show released in August of 1996, that ran until November of 1996.**
+
+***Strike It Up*** is a live show released in August of 1996, that ran until November of 1996.
 
 ## Summary
 
@@ -21,13 +22,13 @@ The live show begins with an announcer introducing Chuck E. Cheese following up 
 
 ## Showtape Releases
 
-  Release Year   Showtape                                                         Format
-  -------------- ---------------------------------------------------------------- ---------------------------
-  1996           {{< wiki-link "Awesome Adventure Machine (Show)" >}}         3-stage, Cyberamics
-  1996           {{< wiki-link "Awesome Adventure Machine (Show) (AAM)" >}}   Awesome Adventure Machine
+| Release Year | Showtape                                                         | Format                    |
+|--------------|------------------------------------------------------------------|---------------------------|
+| 1996         | {{< wiki-link "Awesome Adventure Machine (Show)" >}}       | 3-stage, Cyberamics       |
+| 1996         | {{< wiki-link "Awesome Adventure Machine (Show) (AAM)" >}} | Awesome Adventure Machine |
 
 ## Trivia
 
-- The song's audio has been found, but is missing the initial announcer voice and countdown.<sup>(1)</sup>
-- Only a single second of the tape video has been found, as it was used in the {{< wiki-link "May 1998 Show" >}} during Segment 2.<sup>(2)</sup>
+- The song's audio has been found, but is missing the initial announcer voice and countdown.(1)
+- Only a single second of the tape video has been found, as it was used in the {{< wiki-link "May 1998 Show" >}} during Segment 2.(2)
 - It is believed that parts from the August 1996 show used bluescreen footage from Strike It Up. Signals are also missing for this show.

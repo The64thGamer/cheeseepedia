@@ -3,6 +3,8 @@ title = "Land Of 1,000 Dances"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1991-00-00"
 endDate = "0000-00-00"
 contributors = ["Documentor"]
@@ -11,8 +13,8 @@ mediaDuration = "5:00"
 pageThumbnailFile = "rp5V_BlTyAX12R_4adwc.avif"
 showtapeFormats = ["3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 +++
-**Land Of 1,000 Dances** is a live show released September 1991.
-This show ran from September 1991 - July 1993.
+
+**Land Of 1,000 Dances** is a live show released September 1991. This show ran from September 1991 - July 1993.
 
 ## Summary:
 
@@ -20,10 +22,10 @@ Chuck preforms ['Land Of 1,000 Dances'](https://en.wikipedia.org/wiki/Land_of_a_
 
 ## Showtape Releases:
 
-  Release Year   Showtape                                Format
-  -------------- --------------------------------------- -------------------
-  1991           VHS Tape - September 1991 - July 1993   3stage, Cyberamic
-                                                         
+| Release Year | Showtape                              | Format            |
+|--------------|---------------------------------------|-------------------|
+| 1991         | VHS Tape - September 1991 - July 1993 | 3stage, Cyberamic |
+|              |                                       |                   |
 
 ## Trivia:
 

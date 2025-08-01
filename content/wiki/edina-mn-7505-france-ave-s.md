@@ -8,7 +8,8 @@ endDate = "2020-6-25"
 contributors = ["Rileypaulson","The 64th Gamer","CorrectorMan","ThatBoiCydalan"]
 citations = []
 +++
-***Edina, MN (7505 France Ave S), Store #797* was a Chuck E. Cheese's that opened on August 10th, 1999 and closed on June 25th, 2020 with a Studio C Alpha.**
+
+***Edina, MN (7505 France Ave S), Store #797*** was a Chuck E. Cheese's that opened on August 10th, 1999 and closed on June 25th, 2020 with a Studio C Alpha.
 
 ## History
 
@@ -26,9 +27,9 @@ In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Ju
 
 ## Stages
 
-  Stage                                    Installed     Removed     Note
-  ---------------------------------------- ------------- ----------- -----------------------------------------------
-  {{< wiki-link "Studio C Alpha" >}}   August 1999   June 2020   Bot never had eyelashes. Former Circus Pizza.
+| Stage                                    | Installed   | Removed   | Note                                          |
+|------------------------------------------|-------------|-----------|-----------------------------------------------|
+| {{< wiki-link "Studio C Alpha" >}} | August 1999 | June 2020 | Bot never had eyelashes. Former Circus Pizza. |
 
 ## Games
 
@@ -96,11 +97,11 @@ In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Ju
 
 ## Videos and Footage
 
-  **YouTube Link**               **Title**                                Filming Date         Date Published to YouTube   **Uploader**
-  ------------------------------ ---------------------------------------- -------------------- --------------------------- ---------------
-  https://youtu.be/5elX_pmTLd0   Footage of Edina in 2000                 January-March 2000   February 20th, 2021         Bruce Bauler
-  https://youtu.be/XqHBOpe8ACc   Chuck E.'s Dance Party (Audio Dubbed)   January-March 2000   January 20th, 2023          CEC San Diego
-  https://youtu.be/xkbumMIOV98   Footage of Edina as a Circus Pizza       1998                 February 20th, 2021         Bruce Bauler
-  https://youtu.be/4c_FdtHwKV0   Store Tour                               March 30th, 2019     March 30th, 2019            CyberAndrew
-  https://youtu.be/Y1CM6rIp418   Tik Tak Clock Kiddie Ride                March 22nd, 2017     March 22nd, 2017            Jet Tabasa
-  https://youtu.be/jHsSiwlxSvU   Pumpkin Patch                            October 3rd, 2019    June 29th, 2020             Hunter
+| **YouTube Link**              | **Title**                             | Filming Date       | Date Published to YouTube | **Uploader**  |
+|-------------------------------|---------------------------------------|--------------------|---------------------------|---------------|
+| https://youtu.be/5elX\_pmTLd0 | Footage of Edina in 2000              | January-March 2000 | February 20th, 2021       | Bruce Bauler  |
+| https://youtu.be/XqHBOpe8ACc  | Chuck E.'s Dance Party (Audio Dubbed) | January-March 2000 | January 20th, 2023        | CEC San Diego |
+| https://youtu.be/xkbumMIOV98  | Footage of Edina as a Circus Pizza    | 1998               | February 20th, 2021       | Bruce Bauler  |
+| https://youtu.be/4c\_FdtHwKV0 | Store Tour                            | March 30th, 2019   | March 30th, 2019          | CyberAndrew   |
+| https://youtu.be/Y1CM6rIp418  | Tik Tak Clock Kiddie Ride             | March 22nd, 2017   | March 22nd, 2017          | Jet Tabasa    |
+| https://youtu.be/jHsSiwlxSvU  | Pumpkin Patch                         | October 3rd, 2019  | June 29th, 2020           | Hunter        |

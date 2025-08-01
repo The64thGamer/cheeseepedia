@@ -3,15 +3,16 @@ title = "San Diego, CA (3414 College Ave)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2012-12-19"
 endDate = ""
 contributors = ["CECBowlingGreen","Rexburg090","AstridMascotFan2005","Caydenpedia"]
 citations = []
 latitudeLongitude = ["32.73916627","-117.0556243"]
 +++
-***3414 College Ave, Store #765* is a *Chuck E. Cheese's* that opened on December 19, 2012 with a {{< wiki-link "Circles of Light" >}} with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} which is still open to this day with the 2.0 remodel.
-This location should not be confused with {{< wiki-link "San Diego, CA (6403 El Cajon Blvd)" >}}, {{< wiki-link "San Diego Mira Mesa, CA (9840 Hibert St)" >}}, or {{< wiki-link "San Diego, CA (3146 Sports Arena Blvd)" >}}, all which opened in March 1981 and closed in 1984, opened in 1981/1982, and is still open, and opened on April 19th, 1993, which is also still open.
-This location is one of the 5 CEC's in the San Diego area.**
+
+***3414 College Ave, Store #765*** is a *Chuck E. Cheese's* that opened on December 19, 2012 with a {{< wiki-link "Circles of Light" >}} with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} which is still open to this day with the 2.0 remodel. This location should not be confused with {{< wiki-link "San Diego, CA (6403 El Cajon Blvd)" >}}, {{< wiki-link "San Diego Mira Mesa, CA (9840 Hibert St)" >}}, or {{< wiki-link "San Diego, CA (3146 Sports Arena Blvd)" >}}, all which opened in March 1981 and closed in 1984, opened in 1981/1982, and is still open, and opened on April 19th, 1993, which is also still open. This location is one of the 5 CEC's in the San Diego area.
 
 ## History
 
@@ -23,6 +24,6 @@ This location opened with a Circles Of Light, 16m, and was the first COL in Cali
 
 ## Animatronics
 
-  Animatronic                                                Serial   Whereabouts
-  ---------------------------------------------------------- -------- -------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A      Destroyed.
+| Animatronic                                                | Serial | Whereabouts |
+|------------------------------------------------------------|--------|-------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Destroyed.  |

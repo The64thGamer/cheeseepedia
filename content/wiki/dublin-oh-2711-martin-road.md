@@ -9,18 +9,19 @@ contributors = ["185.141.119.63","CorrectorMan","ThatBoiCydalan","Showb1zlov3r"]
 citations = []
 pageThumbnailFile = "kMYcUj30x_Fx9WE9C1xj.avif"
 +++
-***2711 Martin Road* was a *Chuck E. Cheese's Pizza* that opened on October 11, 1993 with a {{< wiki-link "1-Stage" >}} and is still operating today with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} with the 2.0 Remodel.**
+
+***2711 Martin Road*** was a *Chuck E. Cheese's Pizza* that opened on October 11, 1993 with a {{< wiki-link "1-Stage" >}} and is still operating today with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} with the 2.0 Remodel.
 
 ## Stages
 
 Dublin, OH opened with a 1-Stage show, and was located in the back of the store. In Fall 2003, the 1-Stage was removed after 9-10 years and replaced with a Studio C Beta, 16M. The showroom was relocated as well to the side of the store. In 2013, the showroom was relocated again to the back of the store. Sometime in April 2024, the store would receive the {{< wiki-link "CEC 2.0 Remodel Program" >}}, removing the Studio C stage for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}
 
-  Stage                                                      Installed      Removed
-  ---------------------------------------------------------- -------------- -----------------
-  1-Stage                                                    October 1993   Fall 2003
-  Studio C Beta, 16M                                         Fall 2003      April 22nd 2024
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   April 2024     Still in use
-  {{< wiki-link "Video Wall" >}}                         April 2024     Still in use
+| Stage                                                      | Installed    | Removed         |
+|------------------------------------------------------------|--------------|-----------------|
+| 1-Stage                                                    | October 1993 | Fall 2003       |
+| Studio C Beta, 16M                                         | Fall 2003    | April 22nd 2024 |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | April 2024   | Still in use    |
+| {{< wiki-link "Video Wall" >}}                       | April 2024   | Still in use    |
 
 ## History
 
@@ -32,17 +33,14 @@ Dublin, originally had a 1 stage from 1993, until 2003, When it was replaced by 
 
 ## Fun Facts
 
-Dublin OH's clock ride broke midride while a child was on it.
-Dublin OH kept the toddler zone until the mid 2010's.
-Dublin OH is one of the last locations to have the 'Spiderwebs' Game.
-Dublin OH Still has over 10 avenger games.
+Dublin OH's clock ride broke midride while a child was on it. Dublin OH kept the toddler zone until the mid 2010's. Dublin OH is one of the last locations to have the 'Spiderwebs' Game. Dublin OH Still has over 10 avenger games.
 
-  Animatronic                                                  Serial Number   Whereabouts
-  ------------------------------------------------------------ --------------- -----------------------------
-  {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}           Unknown         Unknown
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   Unknown         Unknown
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 Unknown         Unknown
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           Unknown         Unknown
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                Unknown         Unknown
-  {{< wiki-link "Wink (Cyberamic)" >}}                     Unknown         Unknown
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}     821             Owned By Private Collector.
+| Animatronic                                                  | Serial Number | Whereabouts                 |
+|--------------------------------------------------------------|---------------|-----------------------------|
+| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown       | Unknown                     |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown                     |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown                     |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown                     |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown                     |
+| {{< wiki-link "Wink (Cyberamic)" >}}                   | Unknown       | Unknown                     |
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | 821           | Owned By Private Collector. |

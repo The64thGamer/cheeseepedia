@@ -11,8 +11,8 @@ unitsProduced = "2"
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 +++
-Buford Buffalo was an animatronic produced by Creative Engineering Inc. for the {{< wiki-link "Bear Country Jubilee" >}}.
-He is a Buffalo head who comments on the show between skits, and interacts with Mortimer Moose. Buford often tries to correct Mortimer throughout their skits. <sup>(1)</sup>
+
+Buford Buffalo was an animatronic produced by Creative Engineering Inc. for the {{< wiki-link "Bear Country Jubilee" >}}. He is a Buffalo head who comments on the show between skits, and interacts with Mortimer Moose. Buford often tries to correct Mortimer throughout their skits. (1)
 
 ## History
 
@@ -28,11 +28,12 @@ He is a Buffalo head with short horns, and Brown eyes. He is mounted to a wall i
 
 The bot features six movements in total
 
-  Movement
-  -----------------
-  Mouth
-  Eyes Right
-  Head Up
-  Head Turn Right
-  Left Ear
-  Right Ear
+| Movement        |
+|-----------------|
+| Mouth           |
+| Eyes Right      |
+| Head Up         |
+| Head Turn Right |
+| Left Ear        |
+| Right Ear       |
+|                 |

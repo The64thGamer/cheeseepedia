@@ -3,6 +3,8 @@ title = "Concord, NC (7970 Lyles Lane)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2001-08-28"
 endDate = ""
 contributors = ["Rexburg090","2600:4040:5A0E:D900:D59C:7501:D963:AC1B","Caydenpedia"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "qbddGzBdIJanT1pNSDPR.avif"
 latitudeLongitude = ["35.36315707","-80.71786548"]
 +++
-***7970 Lyles Lane, Store #381* is a *Chuck E. Cheese's* that opened on August 28th, 2001 with a Studio C Beta, 32m. They received the 2.0 remodel in 2023. It's located in a freestanding building in the Concord Marketplace.**
+
+***7970 Lyles Lane, Store #381*** is a *Chuck E. Cheese’s* that opened on August 28th, 2001 with a Studio C Beta, 32m. They received the 2.0 remodel in 2023. It's located in a freestanding building in the Concord Marketplace.
 
 ## History
 
@@ -20,17 +23,17 @@ Concord opened on August 28th, 2001 in a freestanding building in the Concord Ma
 
 Originally when the store opened, they had a Studio C Beta. They got the 2.0 Remodel in March 2023, replacing the Beta with a 2021 model Dance Floor + Video Wall. As of May 2023, they still have this remodel.
 
-  Stage                                                                                           Installed     Removed        Notes
-  ----------------------------------------------------------------------------------------------- ------------- -------------- ------------------------------------------------------------------------------------------------------
-  Studio C Beta, 32m                                                                              August 2001   March 2023     One of 3 installed in North Carolina (4 in the Carolinas) (One of 2 32m installations in the state).
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   March 2023    Still in Use   2021 Model. First 2.0 remodel in Charlotte NC area.
+| Stage                                                                                             | Installed   | Removed      | Notes                                                                                                |
+|---------------------------------------------------------------------------------------------------|-------------|--------------|------------------------------------------------------------------------------------------------------|
+| Studio C Beta, 32m                                                                                | August 2001 | March 2023   | One of 3 installed in North Carolina (4 in the Carolinas) (One of 2 32m installations in the state). |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | March 2023  | Still in Use | 2021 Model. First 2.0 remodel in Charlotte NC area.                                                  |
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- --------------------------------------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   148             Destroyed, Remains owned by a Private Collector.
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A             Destroyed, Remains owned by a Private Collector.
+| Animatronic                                                | Serial Number | Whereabouts                                      |
+|------------------------------------------------------------|---------------|--------------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 148           | Destroyed, Remains owned by a Private Collector. |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Destroyed, Remains owned by a Private Collector. |
 
 ## YouTube Videos
 

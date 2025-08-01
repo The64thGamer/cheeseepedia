@@ -3,6 +3,8 @@ title = "Joliet, IL (3250 Chicagoland Circle)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2007-01-29"
 endDate = ""
 contributors = ["Rexburg090","The 64th Gamer","ShowBizMidwest","CoolerDude"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "DVHd3OmneUfRjC2Huaz6.avif"
 latitudeLongitude = ["41.58371117","-88.16523318"]
 +++
-***3250 Chicagoland Circle, Store #678* is a *Chuck E. Cheese* that opened on January 29th, 2007, with a {{< wiki-link "Studio C Beta" >}}, 16m. They received the 2.0 remodel in Early 2020. It is a freestanding building, unlike the previous location which was located next to a Kmart.
-This is not to be confused with the {{< wiki-link "Joliet, IL (1965 W Jefferson St)" >}} location which opened on July 13, 1983, with the {{< wiki-link "Classic Stage" >}} and closed in January 2007 with a {{< wiki-link "Concept Unification Stage" >}}.**
+
+***3250 Chicagoland Circle, Store #678*** is a *Chuck E. Cheese* that opened on January 29th, 2007, with a {{< wiki-link "Studio C Beta" >}}, 16m. They received the 2.0 remodel in Early 2020. It is a freestanding building, unlike the previous location which was located next to a Kmart. This is not to be confused with the {{< wiki-link "Joliet, IL (1965 W Jefferson St)" >}} location which opened on July 13, 1983, with the {{< wiki-link "Classic Stage" >}} and closed in January 2007 with a {{< wiki-link "Concept Unification Stage" >}}.
 
 ## History
 
@@ -19,14 +21,14 @@ Joliet opened on January 29th, 2007 in a freestanding building with a {{< wiki-l
 
 ## Stages
 
-  Stage                                                      Installed       Removed         Notes
-  ---------------------------------------------------------- --------------- --------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Studio C Beta, 16m                                         January 2007    February 2020   One of six Studio C Betas installed in Illinois (One of three 16m Beta installations). Later used at {{< wiki-link "Darien, IL (7409 Cass Ave)" >}} as one of two Beta 16m 3-Stage installations.
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   February 2020   Still in Use    2019 Model. Last Illinois location to get the 2019 2.0 Remodel.
+| Stage                                                      | Installed     | Removed       | Notes                                                                                                                                                                                                   |
+|------------------------------------------------------------|---------------|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Studio C Beta, 16m                                         | January 2007  | February 2020 | One of six Studio C Betas installed in Illinois (One of three 16m Beta installations). Later used at {{< wiki-link "Darien, IL (7409 Cass Ave)" >}} as one of two Beta 16m 3-Stage installations. |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | February 2020 | Still in Use  | 2019 Model. Last Illinois location to get the 2019 2.0 Remodel.                                                                                                                                         |
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- ----------------------------------------------------------------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A             Later used at {{< wiki-link "Darien, IL (7409 Cass Ave)" >}}, Now destroyed.
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A             Unknown, not used at Darien.
+| Animatronic                                                | Serial Number | Whereabouts                                                                        |
+|------------------------------------------------------------|---------------|------------------------------------------------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Later used at {{< wiki-link "Darien, IL (7409 Cass Ave)" >}}, Now destroyed. |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Unknown, not used at Darien.                                                       |

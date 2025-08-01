@@ -5,22 +5,22 @@ startDate = "2001-10-00"
 endDate = ""
 pageThumbnailFile = "nnJaZ0l0oKmhEUWQOYON.avif"
 contributors = ["CorrectorMan", "ThatBoiCydalan", "Cheeseclassic", "CECR995"]
-citations = ["[https://www.youtube.com/watch?v=RCfZw9P2380](%22https://www.youtube.com/watch?v=RCfZw9P2380%22)"]
+citations = ["<a href=\"https://www.youtube.com/watch?v=RCfZw9P2380\">https://www.youtube.com/watch?v=RCfZw9P2380</a>"]
 latitudeLongitude = ["33.57687982", "-117.7027347"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***26538-H Moulton Pkwy, Store #3022/378* is a Chuck E. Cheese's that opened in October 2001<sup>(1)</sup> (day unknown) and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
-This location is the relocation of the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} location, which opened in June 1981 (day unknown) and closed in October 2001 (day unknown) with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}.**
+
+***26538-H Moulton Pkwy, Store #3022/378*** is a Chuck E. Cheese's that opened in October 2001(1) (day unknown) and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. This location is the relocation of the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} location, which opened in June 1981 (day unknown) and closed in October 2001 (day unknown) with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}.
 
 ## Stages
 
 When Laguna Hills opened, it housed a Studio C Beta. Besides removing curtains, a few changes happened, and the bot was no longer being programmed in 2022. Laguna Hill's stage was removed in Late 2023 and was replaced with a Dance Floor + Video Wall.
 
-  Stage                                                                                           Installed      Removed        Notes
-  ----------------------------------------------------------------------------------------------- -------------- -------------- ------------
-  {{< wiki-link "Studio C Beta" >}}                                                           October 2001   Late 2023      N/A
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   Late 2023      Still in Use   2021 Model
+| Stage                                                                                             | Installed    | Removed      | Notes      |
+|---------------------------------------------------------------------------------------------------|--------------|--------------|------------|
+| {{< wiki-link "Studio C Beta" >}}                                                           | October 2001 | Late 2023    | N/A        |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | Late 2023    | Still in Use | 2021 Model |
 
 ## History
 
@@ -28,6 +28,6 @@ Laguna Hills opened in October 2001 (day unknown) with a Studio C Beta stage and
 
 ## Animatronics
 
-  Animatronic                         Serial Number   Wheareabouts
-  ----------------------------------- --------------- -------------------
-  Chuck E. Cheese 32m (Animatronic)   Unknown         Unknown/Destroyed
+| Animatronic                       | Serial Number | Wheareabouts      |
+|-----------------------------------|---------------|-------------------|
+| Chuck E. Cheese 32m (Animatronic) | Unknown       | Unknown/Destroyed |

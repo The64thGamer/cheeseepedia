@@ -3,19 +3,21 @@ title = "Looney Bird Window (Mijjin)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
+
+
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["GallaRBX2","The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf](%22https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf%22)"]
+citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</a>"]
 pageThumbnailFile = "HNuCcYQVGqN0FFgNPU5C.avif"
 manufacturer = "Creative Engineering"
 +++
-The ***Looney Bird Window Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. <sup>(1)</sup>**
+
+The ***Looney Bird Window Mijjin*** was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. (1)
 
 ## History
 
-This character was produced in 1993 for the New Rock-Afire Explosion show.
-The character's mech reuses neck parts from the Prototype Mijjin Mechs.
+This character was produced in 1993 for the New Rock-Afire Explosion show. The character's mech reuses neck parts from the Prototype Mijjin Mechs.
 
 ## Design
 
@@ -23,18 +25,17 @@ This bot is the head of a Standard Mijjin mech, with the neck of a Prototype Mij
 
 ## Movements
 
-All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos.
-This bot's servo movements are tied to the servo movements for the {{< wiki-link "Looney Bird Labratory (Mijjin)" >}} bot.
+All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos. This bot's servo movements are tied to the servo movements for the {{< wiki-link "Looney Bird Labratory (Mijjin)" >}} bot.
 
-  Bit#   Function
-  ------ ------------
-  16     Mouth
-  17     Lip
-  18     Head Down
-  19     Head Turn
-  52     Eyes Right
-  51     Eyes Left
-  54     Eyes Down
-  53     Eyes Up
-  55     Lids Close
-  50     Lids Open
+| Bit# | Function   |
+|------|------------|
+| 16   | Mouth      |
+| 17   | Lip        |
+| 18   | Head Down  |
+| 19   | Head Turn  |
+| 52   | Eyes Right |
+| 51   | Eyes Left  |
+| 54   | Eyes Down  |
+| 53   | Eyes Up    |
+| 55   | Lids Close |
+| 50   | Lids Open  |

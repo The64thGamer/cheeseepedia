@@ -3,6 +3,8 @@ title = "Kent, WA (25817 104th Ave)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1998-05-00"
 endDate = ""
 contributors = ["CorrectorMan","ThatBoiCydalan","CEC1988","AstridMascotFan2005"]
@@ -10,18 +12,18 @@ citations = []
 pageThumbnailFile = "5tsR_irYpATsplbT5SdV.avif"
 latitudeLongitude = ["47.38592777","-122.2019864"]
 +++
-***25817 104th Ave, Store #306* is a *Chuck E. Cheese's* that opened in May 1998 (day unknown) with a Studio C (1997)|Studio C Alpha, and is still open today with the 2.0 Remodel**
+
+***25817 104th Ave, Store #306*** is a *Chuck E. Cheese's* that opened in May 1998 (day unknown) with a Studio C (1997)|Studio C Alpha, and is still open today with the 2.0 Remodel
 
 ## Stage
 
-Kent has a Studio C Alpha stage, which hasn't seen major modifications since opening, for example the curtains being disabled, Chuck's cap being removed, and when Studio C ceased programming in late 2022.
-That was, Until July 21st, 2024 when they removed the Bot for the Video Wall and the Dance Floor.
+Kent has a Studio C Alpha stage, which hasn't seen major modifications since opening, for example the curtains being disabled, Chuck's cap being removed, and when Studio C ceased programming in late 2022. That was, Until July 21st, 2024 when they removed the Bot for the Video Wall and the Dance Floor.
 
-  Stage                             Installed   Removed           Notes
-  --------------------------------- ----------- ----------------- -------------------------------------
-  Studio C (1997)|Studio C Alpha   1998        July 21st, 2024   First Studio C in Washington state.
-  Dance Floor                       July 2024   Still in use.     
-  Video Wall                        July 2024   Still in use.     
+| Stage                           | Installed | Removed         | Notes                               |
+|---------------------------------|-----------|-----------------|-------------------------------------|
+| Studio C (1997)\|Studio C Alpha | 1998      | July 21st, 2024 | First Studio C in Washington state. |
+| Dance Floor                     | July 2024 | Still in use.   |                                     |
+| Video Wall                      | July 2024 | Still in use.   |                                     |
 
 ## History
 
@@ -29,16 +31,16 @@ Kent opened in May of 1998 (day unknown) with a Studio C (1997)|Studio C Alpha s
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- -------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   008 (NO R&D)    Unknown/Destroyed
-  {{< wiki-link "Bird (Animatronic)" >}}                 N/A             Unknown/Destroyed
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A             Unknown/Destroyed
-  {{< wiki-link "Pizza Phone (Animatronic)" >}}          N/A             Unknown/Destroyed
+| Animatronic                                                | Serial Number    | Whereabouts       |
+|------------------------------------------------------------|------------------|-------------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 008 (NO R&amp;D) | Unknown/Destroyed |
+| {{< wiki-link "Bird (Animatronic)" >}}               | N/A              | Unknown/Destroyed |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A              | Unknown/Destroyed |
+| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A              | Unknown/Destroyed |
 
 ## Videos
 
-  Link                           Description                                          Filming Date
-  ------------------------------ ---------------------------------------------------- -------------------
-  https://youtu.be/hnCtDc9MVhM   Birthday party; The earliest known CEC video on YT   August 27th, 2005
-  https://youtu.be/ktLezHHnHQo   A glimpse of the store's arcade                     May 19th, 2008
+| Link                         | Description                                        | Filming Date      |
+|------------------------------|----------------------------------------------------|-------------------|
+| https://youtu.be/hnCtDc9MVhM | Birthday party; The earliest known CEC video on YT | August 27th, 2005 |
+| https://youtu.be/ktLezHHnHQo | A glimpse of the store's arcade                    | May 19th, 2008    |

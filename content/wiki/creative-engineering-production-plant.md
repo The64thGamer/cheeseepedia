@@ -3,12 +3,15 @@ title = "Creative Engineering Production Plant"
 draft = false
 tags = ["Locations"]
 categories = ["Creative Engineering"]
+
+
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","RockAfire Alex"]
 citations = []
 latitudeLongitude = ["0","0"]
 +++
+
 333 W Michigan Street, Orlando, FL 32806 is the address for the Creative Engineering Production Plant that produced the Rock-Afire Explosion shows for ShowBiz Pizza.
 
 ## History
@@ -17,6 +20,6 @@ The Creative Engineering Manufacture Plant was used to make the shows for the op
 
 ## Videos
 
-  Link                                          Description                                           Date
-  --------------------------------------------- ----------------------------------------------------- ------
-  https://www.youtube.com/watch?v=raqVR2TYBbg   Shows various clips of people assembling characters   1983
+| Link                                        | Description                                         | Date |
+|---------------------------------------------|-----------------------------------------------------|------|
+| https://www.youtube.com/watch?v=raqVR2TYBbg | Shows various clips of people assembling characters | 1983 |

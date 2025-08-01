@@ -3,12 +3,15 @@ title = "Studio C Cappa Prototype"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","Documentor","BurgersNuggs445"]
-citations = ["[https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html](%22https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html%22)","[https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf%22)","",""]
+citations = ["<a href=\"https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html\">https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html</a>","<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf</a>","<ref></ref>","<ref></ref>"]
 pageThumbnailFile = "xsNh4EEG3zyFEm2vnjuS.avif"
 +++
+
 The **Small-Town Studio C Prototype** was a test stage concept installed in 3 {{< wiki-link "Chuck E Cheese's" >}} locations that opened between July and December 2002. It featured a Blue Screen (from the {{< wiki-link "Studio C" >}} stages of time), and a buffet, as part of a 'Small-Town CEC' test concept. The design would somewhat be carried over into the Small-town Studio C|Small-Town Studio C (better known as the Studio C Cappa), which made its debut in July 2003.
 
 ## History
@@ -27,10 +30,7 @@ While very obscure, the Small-Town Studio C Prototype concept (the no animatroni
 
 ### Nomenclature
 
-Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.<sup>(1)</sup> In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'.
-Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.<sup>(2)</sup> This AV diagram is most definitely depicting 'Studio C Cappa'.
-This iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.<sup>(3)</sup>
-Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, in passing reference, referred to this show as the Bluescreen; the {{< wiki-link "Studio C Beta Prototype" >}} were identified as 'Small Town Studio C'.<sup>(3)</sup>
+Superficially, it may seem that this show goes by one name and one name only, 'Studio C Cappa', a name was coined by either Jenn Waitt or Travis Schafer using a combination of the [Greek Alphabet](https://en.wikipedia.org/wiki/Greek_alphabet) and a play on words with of word 'Crap'.(1) In reality this show went by two identifiers, Small-Town Studio 'C' and Small Market Studio 'C'. Internally, CEC refers this stage as 'Small Town Studio 'C''. In the Studio C manual, two pages mention a 'Small Town' show. These pages have audio/video flow for a show with three 60-inch monitors and one additional monitor for the bluescreen area.(2) This AV diagram is most definitely depicting 'Studio C Cappa'. This iteration of this stage-- only including the Bluescreen, lighting, and three monitors-- had specific shows created for it and also utilized the Small Town handle when identifying it.(3) Building plans, mainly coming from C.T. Chang, BWM, and Parkway Construction, in passing reference, referred to this show as the Bluescreen; the {{< wiki-link "Studio C Beta Prototype" >}} were identified as 'Small Town Studio C'.(3)
 
 ## Design
 
@@ -38,8 +38,8 @@ The design of the Small-Town Studio C Prototype was interesting, as there was no
 
 ## Locations Installed In
 
-  Location                             Address             Opening               Closing Date   Removed       Replaced With
-  ------------------------------------ ------------------- --------------------- -------------- ------------- -------------------------------------------------------------------
-  Waco, Texas, United States           5106 West Waco Dr   June 24th, 2002       Still Open     2003          Small-town Studio C|Small-Town Studio C V1 (Dance Floor in 2022)
-  Lake Jackson, Texas, United States   100 West Hwy 332    October 22nd, 2002    Still Open     2005 / 2006   Small-town Studio C|Small-Town Studio C V3
-  Dover, Delaware, United States       1275 N DuPont Hwy   December 27th, 2002   Still Open     2005          Small-town Studio C|Small-Town Studio C V3
+| Location                           | Address           | Opening             | Closing Date | Removed     | Replaced With                                                     |
+|------------------------------------|-------------------|---------------------|--------------|-------------|-------------------------------------------------------------------|
+| Waco, Texas, United States         | 5106 West Waco Dr | June 24th, 2002     | Still Open   | 2003        | Small-town Studio C\|Small-Town Studio C V1 (Dance Floor in 2022) |
+| Lake Jackson, Texas, United States | 100 West Hwy 332  | October 22nd, 2002  | Still Open   | 2005 / 2006 | Small-town Studio C\|Small-Town Studio C V3                       |
+| Dover, Delaware, United States     | 1275 N DuPont Hwy | December 27th, 2002 | Still Open   | 2005        | Small-town Studio C\|Small-Town Studio C V3                       |

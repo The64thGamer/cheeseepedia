@@ -3,6 +3,8 @@ title = "Clearwater, FL (25921 US Hwy 19)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1992-00-00"
 endDate = ""
 contributors = ["ChuckfeldStan","CorrectorMan","ShowBizMidwest","ThatBoiCydalan","TuxChuckisNo1","AstridMascotFan2005"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "XXgz245cR2qo0bjvLxcu.avif"
 latitudeLongitude = ["28.00673207","-82.72936723"]
 +++
-***25921 US Hwy 19, Store #436* is a *Chuck E. Cheese's* that opened as a Chuck E. Cheese's Pizza on July 21st, 1992 with a Road Stage and is still open with the 2.0 remodel.**
+
+***25921 US Hwy 19, Store #436*** is a *Chuck E. Cheese's* that opened as a Chuck E. Cheese’s Pizza on July 21st, 1992 with a Road Stage and is still open with the 2.0 remodel.
 
 ## History
 
@@ -18,15 +21,13 @@ Not to be confused with 2539 Countryside Blvd, which was a Pizza Time Theatre. C
 
 ## Stages
 
-Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{< wiki-link "Studio C Beta" >}}. Clearwater's Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater's Beta also featured a unique, one of a kind bluescreen, which read "CEC Studio" at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign.
-At some point, Chuck E.'s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism.
-Clearwater received the Cool Chuck outfit sometime in the mid 2000's, and the Avenger outfit in 2012, however, they kept the original red hat.
+Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{< wiki-link "Studio C Beta" >}}. Clearwater’s Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater’s Beta also featured a unique, one of a kind bluescreen, which read "CEC Studio" at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign. At some point, Chuck E.’s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism. Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the Avenger outfit in 2012, however, they kept the original red hat.
 
-  Stage                      Installed     Removed
-  -------------------------- ------------- ---------------
-  Road Stage                 July 1992     Fall 2000
-  Studio C Beta              Fall 2000     June 2023
-  Dance Floor + Video Wall   Summer 2023   Still in use.
+| Stage                    | Installed   | Removed       |
+|--------------------------|-------------|---------------|
+| Road Stage               | July 1992   | Fall 2000     |
+| Studio C Beta            | Fall 2000   | June 2023     |
+| Dance Floor + Video Wall | Summer 2023 | Still in use. |
 
 ## Arcade Machines
 
@@ -80,7 +81,7 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000's, and the Av
 - Gear It Up
 - Mega Blaster
 - Slam-A-Winner
-- Fast & Furious SuperCars
+- Fast &amp; Furious SuperCars
 
 #### Coin Action
 
@@ -115,14 +116,14 @@ Clearwater received the Cool Chuck outfit sometime in the mid 2000's, and the Av
 
 ## Animatronics
 
-  Animatronic                                                  Serial    Whereabouts
-  ------------------------------------------------------------ --------- --------------------------------
-  Chuck E Cheese (Cyberamic)                                   Unknown   Used for parts at Brandon, FL.
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   Unknown   Used for parts at Brandon, FL.
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 Unknown   Used for parts at Brandon, FL.
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           Unknown   Used for parts at Brandon, FL.
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                Unknown   Used for parts at Brandon, FL.
-  |{{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   114       Destroyed
+| Animatronic                                                  | Serial  | Whereabouts                    |
+|--------------------------------------------------------------|---------|--------------------------------|
+| Chuck E Cheese (Cyberamic)                                   | Unknown | Used for parts at Brandon, FL. |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown | Used for parts at Brandon, FL. |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown | Used for parts at Brandon, FL. |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown | Used for parts at Brandon, FL. |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown | Used for parts at Brandon, FL. |
+| \|{{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 114     | Destroyed                      |
 
 ## Decor
 

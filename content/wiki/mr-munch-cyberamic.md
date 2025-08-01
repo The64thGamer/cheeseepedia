@@ -3,6 +3,8 @@ title = "Mr. Munch (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","Jaxon11","CEC Tinley","BoyInCharge55","ShowBizMidwest","CoolerDude","CECMentor","Nerdychucke","Cheeseclassic","Documentor"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "N8HQppkgC2lFoaQfBGJl.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
 +++
-The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s.
-It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make-Believe Band, changing his arms to play the keyboard correctly, and stopping his body turns.
+
+The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s. It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make-Believe Band, changing his arms to play the keyboard correctly, and stopping his body turns.
 
 ## History
 
@@ -21,17 +23,17 @@ This animatronic first premiered at the {{< wiki-link "Concord, CA (1975 Diamond
 
 The bot features 8-9 movements in total.
 
-  Movement
-  ------------------------------------------------------------------------
-  Mouth
-  Eyelids
-  Eye Turn Right
-  Eye Turn Left
-  Head Turn Right
-  Head Turn Left
-  Left Arm
-  Right Arm
-  Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}})
+| Movement                                                                 |
+|--------------------------------------------------------------------------|
+| Mouth                                                                    |
+| Eyelids                                                                  |
+| Eye Turn Right                                                           |
+| Eye Turn Left                                                            |
+| Head Turn Right                                                          |
+| Head Turn Left                                                           |
+| Left Arm                                                                 |
+| Right Arm                                                                |
+| Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}) |
 
 ## Stages Used In
 

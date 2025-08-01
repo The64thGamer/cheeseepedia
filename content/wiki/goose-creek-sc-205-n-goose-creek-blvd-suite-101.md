@@ -6,9 +6,10 @@ categories = []
 startDate = ""
 endDate = ""
 contributors = ["Lelmaster"]
-citations = ["[https://www.reddit.com/r/Charleston/comments/3nno80/comment/l631bju/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button](%22https://www.reddit.com/r/Charleston/comments/3nno80/comment/l631bju/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button%22)"]
+citations = ["<a href=\"https://www.reddit.com/r/Charleston/comments/3nno80/comment/l631bju/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button\">https://www.reddit.com/r/Charleston/comments/3nno80/comment/l631bju/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button</a>"]
 pageThumbnailFile = "AN4tY0dD6RHSe9edt4YX.avif"
 +++
+
 Berkeley Square Shopping center was home to Track Stars, which was a restaurant similar in concept to {{< wiki-link "Gigglebee's" >}} and shared the same animatronics.
 
 ## Arcade Machines
@@ -39,12 +40,12 @@ Berkeley Square Shopping center was home to Track Stars, which was a restaurant 
 - Helicopter(Ride)
 - Flying Saucer(Ride)
 - Locomotive (Ride)
-- Single-seat ferris wheel(Ride)<sup>(1)</sup>
+- Single-seat ferris wheel(Ride)(1)
 
 ## Animatronics
 
-  Animatronic         Whereabouts
-  ------------------- -------------
-  Wilbur the Coyote   Unsure
-  Frieda the Frog     Unsure
-  Dilly The Lion      Unsure
+| Animatronic       | Whereabouts |
+|-------------------|-------------|
+| Wilbur the Coyote | Unsure      |
+| Frieda the Frog   | Unsure      |
+| Dilly The Lion    | Unsure      |

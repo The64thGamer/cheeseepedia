@@ -3,6 +3,8 @@ title = "Cerritos, CA (11231 183rd St)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2002-09-25"
 endDate = ""
 contributors = ["2600:1012:B1AA:2DE5:21F3:AAC3:CA95:DB9A","Cheeseclassic","AstridMascotFan2005","Destinationimagination95"]
@@ -10,14 +12,15 @@ citations = []
 pageThumbnailFile = "psCi6vEvDTswIDTvA9zJ.avif"
 latitudeLongitude = ["33.86548177","-118.0952822"]
 +++
-***Cerritos, CA (11231 183rd St)* is a *{{< wiki-link "Chuck E Cheese's" >}}* that opened on September 25, 2002, with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.**
+
+***Cerritos, CA (11231 183rd St)*** is a *{{< wiki-link "Chuck E Cheese's" >}}* that opened on September 25, 2002, with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 
 ## Stages
 
-  Stage                                                                                           Installed        Removed        Notes
-  ----------------------------------------------------------------------------------------------- ---------------- -------------- --------------------------------------
-  {{< wiki-link "Studio C Beta" >}}                                                           September 2002   May 2023       One of many installed in California.
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   May 2023         Still In Use   2021 Model.
+| Stage                                                                                             | Installed      | Removed      | Notes                                |
+|---------------------------------------------------------------------------------------------------|----------------|--------------|--------------------------------------|
+| {{< wiki-link "Studio C Beta" >}}                                                           | September 2002 | May 2023     | One of many installed in California. |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | May 2023       | Still In Use | 2021 Model.                          |
 
 ## History
 
@@ -25,10 +28,10 @@ Cerritos opened on September 25th, 2002 in Plaza 183. The location would not see
 
 ## Animatronics
 
-  Animatronic                                                Serial    Whereabouts
-  ---------------------------------------------------------- --------- -------------------------------------------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   Unknown   Unknown/Destroyed
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     Unknown   Replaced with a later model, both clocks Unknown/Destroyed.
+| Animatronic                                                | Serial  | Whereabouts                                                 |
+|------------------------------------------------------------|---------|-------------------------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | Unknown | Unknown/Destroyed                                           |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | Unknown | Replaced with a later model, both clocks Unknown/Destroyed. |
 
 W.I.P
 

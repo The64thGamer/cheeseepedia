@@ -3,12 +3,15 @@ title = "Johnstown, PA (1523 Scalp Ave)"
 draft = false
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = "1982-00-00"
 endDate = "1989-00-00"
 contributors = ["RockAfire Alex","Cheeseclassic","CCSilver"]
 citations = []
 latitudeLongitude = ["40.26714057","-78.85630998"]
 +++
+
 **Johnstown, PA (1523 Scalp Ave)** was a ShowBiz Pizza Place that opened in 1982 with a {{< wiki-link "Classic Stage" >}}, and closed in 1989. Little info is known about this location except for a few articles.
 
 ## History
@@ -17,6 +20,6 @@ Johnstown opened in 1982 with a Rock-Afire Explosion. It had everything a normal
 
 ## Videos
 
-  Link                                          Description          Date         Date Posted
-  --------------------------------------------- -------------------- ------------ -------------
-  https://www.youtube.com/watch?v=8H91MYx9jks   SPP Birthday Party   10/23/1987   1/7/2021
+| Link                                        | Description        | Date       | Date Posted |
+|---------------------------------------------|--------------------|------------|-------------|
+| https://www.youtube.com/watch?v=8H91MYx9jks | SPP Birthday Party | 10/23/1987 | 1/7/2021    |

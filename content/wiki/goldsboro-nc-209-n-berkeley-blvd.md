@@ -3,6 +3,8 @@ title = "Goldsboro, NC (209 N Berkeley Blvd)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2003-09-19"
 endDate = ""
 contributors = ["66.215.38.213","Rexburg090","CorrectorMan","Cheeseclassic","Matchafather","Jaxonia"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "odkoKLd8SK4cvFCtTOeP.avif"
 latitudeLongitude = ["35.37207307","-77.95266733"]
 +++
-***209 N Berkeley Blvd, Store #386* is a *Chuck E. Cheese's*/*Chuck E. Cheese* in Goldsboro, North Carolina.
-The store opened on September 19th, 2003, with a Studio C Cappa V2 in the Ashley Plaza Strip Mall. It is still open today with the 2.0 Remodel as of 2024. It is located along an Ashley Furniture Store and a now closed phone repair shop.**
+
+***209 N Berkeley Blvd, Store #386*** is a *Chuck E. Cheese's*/*Chuck E. Cheese* in Goldsboro, North Carolina. The store opened on September 19th, 2003, with a Studio C Cappa V2 in the Ashley Plaza Strip Mall. It is still open today with the 2.0 Remodel as of 2024. It is located along an Ashley Furniture Store and a now closed phone repair shop.
 
 ## History
 
@@ -25,16 +27,16 @@ Goldsboro opened on September 19th, 2003, in the Ashley Plaza with a Small-Town 
 
 ## Stages
 
-  Stage                                                                                           Installed        Removed        Notes
-  ----------------------------------------------------------------------------------------------- ---------------- -------------- -------------------------------------------------------------
-  Small-Town Studio C                                                                             September 2003   August 2023    One of 7 Small Town Studio C V1s installed.
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   August 2023      Still in use   In-floor dance floor installed, located in old kiddie area.
+| Stage                                                                                             | Installed      | Removed      | Notes                                                       |
+|---------------------------------------------------------------------------------------------------|----------------|--------------|-------------------------------------------------------------|
+| Small-Town Studio C                                                                               | September 2003 | August 2023  | One of 7 Small Town Studio C V1s installed.                 |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August 2023    | Still in use | In-floor dance floor installed, located in old kiddie area. |
 
 ## Animatronics
 
-  Animatronic                                                Manufacturing date   Status
-  ---------------------------------------------------------- -------------------- -----------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   2003|2003           Destroyed
+| Animatronic                                                | Manufacturing date | Status    |
+|------------------------------------------------------------|--------------------|-----------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2003\|2003         | Destroyed |
 
 ## Videos
 

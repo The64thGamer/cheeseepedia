@@ -3,6 +3,8 @@ title = "Springfield, PA (371 Baltimore Pike)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2012-11-14"
 endDate = ""
 contributors = ["Cheeseclassic","AstridMascotFan2005"]
@@ -10,15 +12,15 @@ citations = []
 pageThumbnailFile = "PhzUCzdOzytFCpRwpJEr.avif"
 latitudeLongitude = ["39.91977527","-75.32186908"]
 +++
-***Springfield, PA (371 Baltimore Pike)* is a *Chuck E. Cheese's* which opened on November 14th, 2012 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day with the 2.0 remodel. This store was a replacement of the {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}}, which opened on
-December 4th, 1990, and closed on April 15th, 2012.**
+
+***Springfield, PA (371 Baltimore Pike)*** is a *Chuck E. Cheese's* which opened on November 14th, 2012 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day with the 2.0 remodel. This store was a replacement of the {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}}, which opened on December 4th, 1990, and closed on April 15th, 2012.
 
 ## Stages
 
-  Stage                                      Installed       Removed
-  ------------------------------------------ --------------- --------------
-  {{< wiki-link "Circles of Light" >}}   November 2012   Still in Use
-  Dance Floor                                Summer 2024     Still In Use
+| Stage                                      | Installed     | Removed      |
+|--------------------------------------------|---------------|--------------|
+| {{< wiki-link "Circles of Light" >}} | November 2012 | Still in Use |
+| Dance Floor                                | Summer 2024   | Still In Use |
 
 ## History
 

@@ -3,6 +3,8 @@ title = "Wayne, NJ (1639 Rt 23)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1992-04-20"
 endDate = "1986-00-00"
 contributors = ["ChuckfeldStan","Rexburg090","ShowBiz Nobiz","216.125.34.66","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
@@ -10,9 +12,8 @@ citations = []
 pageThumbnailFile = "Mm91xexn2L5vS0zIO1ZQ.avif"
 latitudeLongitude = ["40.93835352","-74.27291503"]
 +++
-***1639 Rt 23, Store #489* is a Chuck E. Cheese that opened on April 20, 1992, with a Road Stage and is still open to this day.
-It is located in the Brentwood Plaza Shopping Center.
-This is not to be confused with the Wayne, NJ (29 NJ-23) Pizza Time Theatre which opened on October 18th, 1982, and closed in 1986 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.**
+
+***1639 Rt 23, Store #489*** is a Chuck E. Cheese that opened on April 20, 1992, with a Road Stage and is still open to this day. It is located in the Brentwood Plaza Shopping Center. This is not to be confused with the Wayne, NJ (29 NJ-23) Pizza Time Theatre which opened on October 18th, 1982, and closed in 1986 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.
 
 ## History
 
@@ -32,15 +33,15 @@ On July 30th, 2022, an incident occurred where a black girl was ignored by a per
 
 ## Stages
 
-  Stage                                                        Installed       Removed         Notes
-  ------------------------------------------------------------ --------------- --------------- -------------------------------------------------
-  {{< wiki-link "Cyberamics Road Stage" >}}                April 1992      November 2022   One of two Road Stages installed in New Jersey.
-  |{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   November 2022   Still In Use    2019 Model.
+| Stage                                                        | Installed     | Removed       | Notes                                           |
+|--------------------------------------------------------------|---------------|---------------|-------------------------------------------------|
+| {{< wiki-link "Cyberamics Road Stage" >}}              | April 1992    | November 2022 | One of two Road Stages installed in New Jersey. |
+| \|{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | November 2022 | Still In Use  | 2019 Model.                                     |
 
 [2007](https://www.showbizpizza.com/photos/cec/nj_wayne/index.html)
 
 ## Videos
 
-  Videos                                                                                      Description                Filming date   Release date
-  ------------------------------------------------------------------------------------------- -------------------------- -------------- --------------
-  <https://www.youtube.com/watch?v=Vz4BLxkEvrU>Wayne, NJ, Chuck E Cheese The Mailman (2010)   MMBB singing the mailman   October 2010   May 8, 2018
+| Videos                                                                                                                                 | Description              | Filming date | Release date |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------|--------------|
+| [https://www.youtube.com/watch?v=Vz4BLxkEvrU](https://www.youtube.com/watch?v=Vz4BLxkEvrU)Wayne, NJ, Chuck E Cheese The Mailman (2010) | MMBB singing the mailman | October 2010 | May 8, 2018  |

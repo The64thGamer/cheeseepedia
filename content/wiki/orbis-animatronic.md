@@ -3,11 +3,14 @@ title = "O.R.B.I.S (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","Rexburg090"]
 citations = []
 +++
+
 The O.R.B.I.S animatronic, Onboard Radar and Bearings Intelligence System, is described as the Awesome Adventure Machine's navigational tracking system keeps Chuck E. on course and out of trouble.
 
 ## Design
@@ -16,6 +19,6 @@ O.R.B.I.S is a basket ball hoop with a radar dish, telephone, and motorized glob
 
 ## Movements
 
-  Movement
-  --------------
-  Globe Rotate
+| Movement     |
+|--------------|
+| Globe Rotate |

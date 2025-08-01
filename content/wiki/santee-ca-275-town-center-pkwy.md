@@ -3,14 +3,16 @@ title = "Santee, CA (275 Town Center Pkwy)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2023-09-18"
 endDate = ""
 contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]
-citations = ["[https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html](%22https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html%22)"]
+citations = ["<a href=\"https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html\">https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html</a>"]
 latitudeLongitude = ["32.84114272","-116.9865602"]
 +++
-***Santee, CA (275 Town Center Pkwy), Store #207* is a Chuck E. Cheese that opened on September 18th, 2023 with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}.
-This store opened as the fourth 2.0 in the San Diego area (Oceanside is also a suburb of San Diego, which received 2.0 in 2021), and is the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ({{< wiki-link "Fairfield, CA (1027 Oliver Rd)" >}} reopened as CEC in July 2022, so they are not new to CEC).**
+
+***Santee, CA (275 Town Center Pkwy), Store #207*** is a Chuck E. Cheese that opened on September 18th, 2023 with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}. This store opened as the fourth 2.0 in the San Diego area (Oceanside is also a suburb of San Diego, which received 2.0 in 2021), and is the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ({{< wiki-link "Fairfield, CA (1027 Oliver Rd)" >}} reopened as CEC in July 2022, so they are not new to CEC).
 
 ## History
 
@@ -20,9 +22,7 @@ Before development on the store started, the space was a Hometown Buffet which p
 
 ### CEC 2023-Present
 
-In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website for the store, which around the same month, an article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set to Open in San Diego' would release, discussing about the store and mentioning that the store would open as early as Summer 2023.<sup>(1)</sup>
-By June 2023, the store would begin its conversion process to a Chuck E. Cheese.
-On September 18th, 2023, the store had its soft opening. The store had its Grand Opening on October 12th, 2023.
+In January 2023, a bid appeared on Parkway Construction's (the company that does the 2.0 Remodels) website for the store, which around the same month, an article from SanDiegoVille.com titled 'First New Age Chuck E. Cheese Location Set to Open in San Diego' would release, discussing about the store and mentioning that the store would open as early as Summer 2023.(1) By June 2023, the store would begin its conversion process to a Chuck E. Cheese. On September 18th, 2023, the store had its soft opening. The store had its Grand Opening on October 12th, 2023.
 
 ## Arcade Machines
 
@@ -38,7 +38,7 @@ On September 18th, 2023, the store had its soft opening. The store had its Grand
 - Connect 4 Hoops
 - Alley Roller Classic (x4)
 - Skip Time (Active Season Version)
-- Mario & Sonic Olympic Games Tokyo
+- Mario &amp; Sonic Olympic Games Tokyo
 - Avengers 1-player Coin Pusher
 - Super Bikes 3 (x2)
 - Nitro Trucks (x2)
@@ -55,7 +55,7 @@ On September 18th, 2023, the store had its soft opening. The store had its Grand
 - {{< wiki-link "Air Hockey" >}}
 - Clutch Shoot
 - Tons of Tickets
-- Fast & Furious: SuperCars (x2)
+- Fast &amp; Furious: SuperCars (x2)
 - Black Hole
 - Monopoly Roll 'N Go
 - Quik Drop
@@ -88,13 +88,13 @@ On September 18th, 2023, the store had its soft opening. The store had its Grand
 
 Santee features a Chuck E. Live Stage and Video Wall.
 
-  Stage                                                      Installed          Removed    Note
-  ---------------------------------------------------------- ------------------ ---------- ------------
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   Late August 2023   In Store   2021 Model
-  {{< wiki-link "Video Wall" >}}                         August 2023        In Store   2021 Model
+| Stage                                                      | Installed        | Removed  | Note       |
+|------------------------------------------------------------|------------------|----------|------------|
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | Late August 2023 | In Store | 2021 Model |
+| {{< wiki-link "Video Wall" >}}                       | August 2023      | In Store | 2021 Model |
 
 ## Videos
 
-  Link                           Description                                                      Filming Date
-  ------------------------------ ---------------------------------------------------------------- -----------------
-  https://youtu.be/xkwpatqGm-Y   A tour around the store's exterior progress mid-construction.   July 10th, 2023
+| Link                         | Description                                                   | Filming Date    |
+|------------------------------|---------------------------------------------------------------|-----------------|
+| https://youtu.be/xkwpatqGm-Y | A tour around the store's exterior progress mid-construction. | July 10th, 2023 |

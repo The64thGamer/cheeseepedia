@@ -3,14 +3,16 @@ title = "Fort Smith, AR (1200 S Waldron Rd)"
 draft = false
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = "1988-00-00"
 endDate = ""
 contributors = ["ChuckECool","173.216.33.6","Midwestretail","Rexburg090","CEC Tinley","ThatBoiCydalan","167.224.250.176"]
 citations = []
 latitudeLongitude = ["35.36887262","-94.3766594"]
 +++
-***1200 S Waldron Rd, Store #301* was a ShowBiz Pizza Place that opened in 1988 (month and day unknown) with a Rock-Afire Explosion, and is still open to this day.
-It is located in the Central Mall Shopping Center. It is also the 2nd to last ShowBiz Pizza to open.**
+
+***1200 S Waldron Rd, Store #301*** was a ShowBiz Pizza Place that opened in 1988 (month and day unknown) with a Rock-Afire Explosion, and is still open to this day. It is located in the Central Mall Shopping Center. It is also the 2nd to last ShowBiz Pizza to open.
 
 ## History
 
@@ -20,11 +22,11 @@ Fort Smith opened in 1988 and had a Rock-Afire Explosion like every other ShowBi
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location, but possibly came from a closed ShowBiz. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this until October 2018 when they received the 2.0 remodel and removed the 3-Stage for the Dance Floor.
 
-  Stage                                                      Installed      Removed        Notes
-  ---------------------------------------------------------- -------------- -------------- -------------------------------------------------------------------------------------------------------------
-  {{< wiki-link "Classic Stage" >}}                      1988           1991-1992      2nd to last ShowBiz Pizza store. Last to open in Arkansas. Possibly came from a closed ShowBiz Pizza store.
-  {{< wiki-link "Concept Unification Stage" >}}          1991-1992      October 2018   Underwent Concept Unification just like the others in the state.
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   October 2018   Still in use   2017 Model. First 2.0 in Arkansas.
+| Stage                                                      | Installed    | Removed      | Notes                                                                                                       |
+|------------------------------------------------------------|--------------|--------------|-------------------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Classic Stage" >}}                    | 1988         | 1991-1992    | 2nd to last ShowBiz Pizza store. Last to open in Arkansas. Possibly came from a closed ShowBiz Pizza store. |
+| {{< wiki-link "Concept Unification Stage" >}}        | 1991-1992    | October 2018 | Underwent Concept Unification just like the others in the state.                                            |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | October 2018 | Still in use | 2017 Model. First 2.0 in Arkansas.                                                                          |
 
 ## Arcade Machine
 
@@ -42,7 +44,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 - Jurassic Park Arcade
 - Black Hole
 - Pigs Might Fly
-- Rockin' & Rollin'
+- Rockin' &amp; Rollin'
 - Eiffel Tower
 - Big Bass Wheel
 - Teenage Mutant Ninja Turtles
@@ -50,7 +52,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 - Terminator Salvation
 - Jackpot Extreme
 - Milk Jug Toss
-- Fast & Furious SuperCars
+- Fast &amp; Furious SuperCars
 - Willy Crash
 - Aliens Extermination
 - Pac-Man Chomp Mania
@@ -103,23 +105,23 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 ## Animatronics
 
-  Animatronic                                                           Serial Code   Whereabouts
-  --------------------------------------------------------------------- ------------- -------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   ?-8? 1-??     Unknown
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      ?-8? 2-??     Unknown
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   ?-8? 3-??     Unknown
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      ?-8? 4-??     Unknown
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                ?-8? 5-??     Unknown
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       ?-8? 6-??     Unknown
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     ?-8? 7-??     Unknown
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       ?-8? 8-??     Unknown
-  {{< wiki-link "Sun (Animatronic)" >}}                             ?-8? 10-??    Unknown
-  {{< wiki-link "Moon (Animatronic)" >}}                            ?-8? 11-??    Unknown
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A           Unknown
-  {{< wiki-link "Wink" >}}                                          N/A           Unknown
+| Animatronic                                                               | Serial Code | Whereabouts |
+|---------------------------------------------------------------------------|-------------|-------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | ?-8? 1-??   | Unknown     |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | ?-8? 2-??   | Unknown     |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | ?-8? 3-??   | Unknown     |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | ?-8? 4-??   | Unknown     |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | ?-8? 5-??   | Unknown     |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | ?-8? 6-??   | Unknown     |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | ?-8? 7-??   | Unknown     |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | ?-8? 8-??   | Unknown     |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | ?-8? 10-??  | Unknown     |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | ?-8? 11-??  | Unknown     |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Unknown     |
+| {{< wiki-link "Wink" >}}                                            | N/A         | Unknown     |
 
 ## Videos
 
-  Link                                                         Description                                 Date Filmed     Date Published   Credit to
-  ------------------------------------------------------------ ------------------------------------------- --------------- ---------------- --------------
-  [Link](https://www.youtube.com/watch?v=3q0a1NAPdEU&t=310s)   A Video Documenting Fort Smith's History   June 13, 2023   June 13, 2023    Josiah Abner
+| Link                                                       | Description                              | Date Filmed   | Date Published | Credit to    |
+|------------------------------------------------------------|------------------------------------------|---------------|----------------|--------------|
+| [Link](https://www.youtube.com/watch?v=3q0a1NAPdEU&t=310s) | A Video Documenting Fort Smith's History | June 13, 2023 | June 13, 2023  | Josiah Abner |

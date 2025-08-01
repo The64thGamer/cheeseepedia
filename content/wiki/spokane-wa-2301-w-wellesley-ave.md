@@ -10,8 +10,8 @@ latitudeLongitude = ["47.69800262", "-117.4468955"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
-***2301 West Wellesley Avenue* also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983, with Balcony Stage and relocated in March 2000 with a 2-Stage.
-It was located in the Shadle Center, but it is unknown what CEC was right next to.**
+
+***2301 West Wellesley Avenue*** also known as '100 Shadle Center' was a Chuck E. Cheese that opened on April 14, 1983, with Balcony Stage and relocated in March 2000 with a 2-Stage. It was located in the Shadle Center, but it is unknown what CEC was right next to.
 
 ## History
 
@@ -19,37 +19,37 @@ Spokane opened on April 14th, 1983, as part of the center it was in and was fran
 
 ## Stages
 
-  Stage                                              Installed    Removed      Notes
-  -------------------------------------------------- ------------ ------------ -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  {{< wiki-link "Cyberamics Balcony Stage" >}}   April 1983   1989/1990    Possibly the 8th Pizza Time Theatre to open in Washington State.
-  {{< wiki-link "Chuck E's House Facade" >}}    1989/1990    1993/1994    One of three installed in Washington State.
-  {{< wiki-link "2-Stage" >}}                    1993/1994    March 2000   Only one Installed in Washington State. Sent to {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}} to be converted into one of two {{< wiki-link "Cyberamic 3-Stage" >}}.
+| Stage                                              | Installed  | Removed    | Notes                                                                                                                                                                                         |
+|----------------------------------------------------|------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Cyberamics Balcony Stage" >}} | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
+| {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
+| {{< wiki-link "2-Stage" >}}                  | 1993/1994  | March 2000 | Only one Installed in Washington State. Sent to {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}} to be converted into one of two {{< wiki-link "Cyberamic 3-Stage" >}}. |
 
 ## Animatronics
 
-  Animatronic                                                  Manufacturing Date   Whereabouts
-  ------------------------------------------------------------ -------------------- -----------------------------------------------------------------------------------------
-  Chuck E Cheese (Cyberamic)|Chuck E. Cheese (Cyberamic)      Unknown              Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   Unknown              Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 Unknown              Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           Unknown              Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                Unknown              Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
-  {{< wiki-link "Warblettes (Cyberamic)" >}}               Unknown              Unknown
-  Waving Flags (Cyberamic)                                     N/A                  Unknown
-  {{< wiki-link "Applause Board (Cyberamic)" >}}           Unknown              Unknown
-  {{< wiki-link "Drum Board (Cyberamic)" >}}               Unknown              Unknown
-  {{< wiki-link "Singing Flowers (Cyberamic)" >}}          Unknown              Unknown
-  {{< wiki-link "Wink" >}}                                 1993/1994            Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}.
+| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                               |
+|--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------|
+| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown                                                                                   |
+| Waving Flags (Cyberamic)                                     | N/A                | Unknown                                                                                   |
+| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown                                                                                   |
+| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown                                                                                   |
+| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown            | Unknown                                                                                   |
+| {{< wiki-link "Wink" >}}                               | 1993/1994          | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
 
 TODO
 
 ## Videos
 
-  Link                                          Description                                                                                                                                    Published Date
-  --------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------- -------------------
-  https://www.youtube.com/watch?v=DqyH5-69L4s   footage of the stores 2 stage in 1996 playing the august 1996 show, chuck e shuffle 1994, birthday star 1992 and some of chuck e march 1993.   November 5th 2023
-                                                                                                                                                                                               
-                                                                                                                                                                                               
+| Link                                        | Description                                                                                                                                  | Published Date    |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| https://www.youtube.com/watch?v=DqyH5-69L4s | footage of the stores 2 stage in 1996 playing the august 1996 show, chuck e shuffle 1994, birthday star 1992 and some of chuck e march 1993. | November 5th 2023 |
+|                                             |                                                                                                                                              |                   |
+|                                             |                                                                                                                                              |                   |
 
 ## Trivia
 

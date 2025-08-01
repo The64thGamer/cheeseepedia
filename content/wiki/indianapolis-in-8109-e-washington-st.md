@@ -5,13 +5,13 @@ startDate = "1982-06-18"
 endDate = "2011-12-00"
 pageThumbnailFile = "y8gEC5DJ5Q5ZRLP4zxMw.avif"
 contributors = ["ChuckECool", "RedaCEC", "Midwestretail", "Rexburg090", "ThatBoiCydalan", "TheEntireShrekScript"]
-citations = ["[https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html](%22https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html%22)"]
+citations = ["<a href=\"https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html\">https://www.eventective.com/indianapolis-in/elegance-banquet-hall-event-decor-651407.html</a>"]
 latitudeLongitude = ["39.77151122", "-86.02633753"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***8109 E Washington St, Store #714* also known as ***Washington* was a ShowBiz Pizza Place that opened on June 18, 1982 with a Rock-Afire Explosion, and closed on December 2011 with a 3-Stage.
-This location is located near what looks to be a Former Target which was a former Ayr-Way until they moved to the Washington Square Mall in 1999. They would receive Concept Unification in 1991 or 1992, and closed on December 19, 2011 due to it being one of the last businesses in the nearly dead shopping center and then relocated to {{< wiki-link "Indianapolis, IN (10021 E Washington St)" >}} with a Studio C Beta, 16M later that same month which closed on March 31st, 2025.****
+
+***8109 E Washington St, Store #714*** also known as ***Washington*** was a ShowBiz Pizza Place that opened on June 18, 1982 with a Rock-Afire Explosion, and closed on December 2011 with a 3-Stage. This location is located near what looks to be a Former Target which was a former Ayr-Way until they moved to the Washington Square Mall in 1999. They would receive Concept Unification in 1991 or 1992, and closed on December 19, 2011 due to it being one of the last businesses in the nearly dead shopping center and then relocated to {{< wiki-link "Indianapolis, IN (10021 E Washington St)" >}} with a Studio C Beta, 16M later that same month which closed on March 31st, 2025.
 
 ## History
 
@@ -25,34 +25,34 @@ After Elegance Salon de Eventos moved into the former space, it was unknown whet
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this stage until their closure in December 2011 due to it being in an abandoned shopping center.
 
-  Stage                                               Installed   Removed         Notes
-  --------------------------------------------------- ----------- --------------- -----------------------------------------------------------------------------------------------
-  {{< wiki-link "Classic Stage" >}}               June 1982   1991-1992       4th ShowBiz Store to open in Indiana.
-  {{< wiki-link "Concept Unification Stage" >}}   1991-1992   December 2011   One of 7 ShowBiz stores in Indiana to get Concept Unification. 2nd to Last 3-Stage in Indiana
+| Stage                                               | Installed | Removed       | Notes                                                                                         |
+|-----------------------------------------------------|-----------|---------------|-----------------------------------------------------------------------------------------------|
+| {{< wiki-link "Classic Stage" >}}             | June 1982 | 1991-1992     | 4th ShowBiz Store to open in Indiana.                                                         |
+| {{< wiki-link "Concept Unification Stage" >}} | 1991-1992 | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. 2nd to Last 3-Stage in Indiana |
 
 ## Animatronics
 
-  Animatronic                                                           Serial Code   Whereabouts
-  --------------------------------------------------------------------- ------------- -------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   10-81 1-12    Unknown
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      10-81 2-12    Unknown
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   10-81 3-12    Unknown
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      10-81 4-12    Unknown
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                10-81 5-12    Unknown
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       10-81 6-12    Unknown
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     10-81 7-12    Unknown
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       10-81 8-12    Unknown
-  {{< wiki-link "Sun (Animatronic)" >}}                             10-81 10-12   Unknown
-  {{< wiki-link "Moon (Animatronic)" >}}                            10-81 11-12   Unknown
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A           Unknown
-  {{< wiki-link "Wink" >}}                                          N/A           Unknown
+| Animatronic                                                               | Serial Code | Whereabouts |
+|---------------------------------------------------------------------------|-------------|-------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-81 1-12  | Unknown     |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-81 2-12  | Unknown     |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-81 3-12  | Unknown     |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-81 4-12  | Unknown     |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-81 5-12  | Unknown     |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-81 6-12  | Unknown     |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-81 7-12  | Unknown     |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-81 8-12  | Unknown     |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-81 10-12 | Unknown     |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-81 11-12 | Unknown     |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Unknown     |
+| {{< wiki-link "Wink" >}}                                            | N/A         | Unknown     |
 
 ### Chuck E. Cheese
 
-### Elegance Salon de Eventos<sup>(1)</sup>
+### Elegance Salon de Eventos(1)
 
 ## Videos
 
-  Link                                   Description                                              Filming Date
-  -------------------------------------- -------------------------------------------------------- --------------
-  [Link](https://youtu.be/ji4db2Z4Lv0)   Footage of Indianapolis' stage and game room in 1995.   1995
+| Link                                 | Description                                           | Filming Date |
+|--------------------------------------|-------------------------------------------------------|--------------|
+| [Link](https://youtu.be/ji4db2Z4Lv0) | Footage of Indianapolis' stage and game room in 1995. | 1995         |

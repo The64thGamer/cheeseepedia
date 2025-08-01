@@ -8,8 +8,8 @@ citations = [" "]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-**Orlando / Winter Park, FL (1300 Lee Rd)** was one of three ShowBiz Pizza Places located in the Orlando, Florida area.
-Though this location was short lived, it is notable for its appearance in promotional material for ShowBiz Pizza Place and news coverage.
+
+**Orlando / Winter Park, FL (1300 Lee Rd)** was one of three ShowBiz Pizza Places located in the Orlando, Florida area. Though this location was short lived, it is notable for its appearance in promotional material for ShowBiz Pizza Place and news coverage.
 
 ## History
 
@@ -21,25 +21,25 @@ After this location closed, their Rock-afire Explosion show and several of the s
 
 ## Animatronics
 
-  Animatronic                                                           Serial Number   Whereabouts
-  --------------------------------------------------------------------- --------------- ---------------------------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   7-81 1-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      7-81 2-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   7-81 3-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      7-81 4-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                7-81 5-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       7-81 6-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     7-81 7-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       7-81 8-17       Sent to Lafayette, now unknown.
-  {{< wiki-link "Sun (Animatronic)" >}}                             7-81 10-17      Sent to Lafayette, now unknown.
-  {{< wiki-link "Moon (Animatronic)" >}}                            7-81 11-17      Sent to Lafayette, now unknown.
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A             Sent to Lafayette, now unknown.
+| Animatronic                                                               | Serial Number | Whereabouts                     |
+|---------------------------------------------------------------------------|---------------|---------------------------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-81 1-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-81 2-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-81 3-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-81 4-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-81 5-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-81 6-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-81 7-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-81 8-17     | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-81 10-17    | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-81 11-17    | Sent to Lafayette, now unknown. |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Sent to Lafayette, now unknown. |
 
 ## Videos
 
-  Link                                                Description                 Footage Date
-  --------------------------------------------------- --------------------------- --------------
-  https://www.youtube.com/watch?v=OqjmXCfCQOU&t=54s   ShowBiz/ CEI Long Promo     1982
-  https://www.youtube.com/watch?v=_6TdnIWKOfM        ShowBiz/ CEI Short Promo    1982
-  https://www.youtube.com/watch?v=raqVR2TYBbg         CEI News Cast               1983
-  https://www.youtube.com/watch?v=LFFCQZUpne8         BBC: Computers In Control   1984
+| Link                                                  | Description               | Footage Date |
+|-------------------------------------------------------|---------------------------|--------------|
+| https://www.youtube.com/watch?v=OqjmXCfCQOU&amp;t=54s | ShowBiz/ CEI Long Promo   | 1982         |
+| https://www.youtube.com/watch?v=\_6TdnIWKOfM          | ShowBiz/ CEI Short Promo  | 1982         |
+| https://www.youtube.com/watch?v=raqVR2TYBbg           | CEI News Cast             | 1983         |
+| https://www.youtube.com/watch?v=LFFCQZUpne8           | BBC: Computers In Control | 1984         |

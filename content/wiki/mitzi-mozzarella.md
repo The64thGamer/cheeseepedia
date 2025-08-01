@@ -8,7 +8,8 @@ endDate = ""
 contributors = ["CECMentor","The 64th Gamer"]
 citations = []
 +++
-***Mitzi Mozzarella* is one of the main characters of the ShowBiz Pizza Place franchise, having made her debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.**
+
+***Mitzi Mozzarella*** is one of the main characters of the ShowBiz Pizza Place franchise, having made her debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.
 
 ## History
 
@@ -30,8 +31,8 @@ Mitzi's voice actor returned throughout the 21st century to make new songs. In t
 
 ## Animatronics
 
-  Types                                                    Years Produced   Notes                                                             Status
-  -------------------------------------------------------- ---------------- ----------------------------------------------------------------- ------------------------------------------------------------------------------------
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}   1980-1983        Retrofitted during {{< wiki-link "Concept Unification" >}}.   Several publicly and privately owned.
-  Second Generation Mitzi Mozzarella (Animatronic)         1983             One produced.                                                     Mechanism owned by {{< wiki-link "Creative Engineering" >}}, cosmetics stolen.
-  Mitzi Mozzarella (Mijjin)                                1992-1993        The most advanced Mitzi animatronic to date.                      None public as of 2024.
+| Types                                                    | Years Produced | Notes                                                             | Status                                                                               |
+|----------------------------------------------------------|----------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}} | 1980-1983      | Retrofitted during {{< wiki-link "Concept Unification" >}}. | Several publicly and privately owned.                                                |
+| Second Generation Mitzi Mozzarella (Animatronic)         | 1983           | One produced.                                                     | Mechanism owned by {{< wiki-link "Creative Engineering" >}}, cosmetics stolen. |
+| Mitzi Mozzarella (Mijjin)                                | 1992-1993      | The most advanced Mitzi animatronic to date.                      | None public as of 2024.                                                              |

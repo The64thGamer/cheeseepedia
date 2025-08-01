@@ -3,6 +3,8 @@ title = "Pontiac, MI (390 Telegraph Rd)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1993-09-20"
 endDate = "2008-00-00"
 contributors = ["Midwestretail","ThatBoiCydalan","CorrectorMan"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "4D6jBfl0d6EZSUBP77dJ.avif"
 latitudeLongitude = ["42.64180162","-83.32737018"]
 +++
-***390 Telegraph Rd, Store #337* was a *Chuck E. Cheese's* that opened on September 20th, 1993 with a {{< wiki-link "1-Stage" >}}, which closed in Summer 2008.
-This store was the only in Michigan with a {{< wiki-link "1-Stage" >}}, and would keep it until closure.**
+
+***390 Telegraph Rd, Store #337*** was a *Chuck E. Cheese's* that opened on September 20th, 1993 with a {{< wiki-link "1-Stage" >}}, which closed in Summer 2008. This store was the only in Michigan with a {{< wiki-link "1-Stage" >}}, and would keep it until closure.
 
 ## Stages
 
@@ -23,11 +25,11 @@ This store opened in the Oakland Pointe Center on September 20th, 1993 with a 1-
 
 ## Animatronics
 
-  Animatronic                                                  Serial   Whereabouts
-  ------------------------------------------------------------ -------- -------------------
-  Chuck E Cheese (Cyberamic)                                   ???      Unknown/Destroyed
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   ???      Unknown/Destroyed
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 ???      Unknown/Destroyed
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           ???      Unknown/Destroyed
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                ???      Unknown/Destroyed
-  {{< wiki-link "Wink (Cyberamic)" >}}                     ???      Unknown/Destroyed
+| Animatronic                                                  | Serial | Whereabouts       |
+|--------------------------------------------------------------|--------|-------------------|
+| Chuck E Cheese (Cyberamic)                                   | ???    | Unknown/Destroyed |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | ???    | Unknown/Destroyed |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | ???    | Unknown/Destroyed |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | ???    | Unknown/Destroyed |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | ???    | Unknown/Destroyed |
+| {{< wiki-link "Wink (Cyberamic)" >}}                   | ???    | Unknown/Destroyed |

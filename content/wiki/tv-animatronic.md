@@ -3,19 +3,21 @@ title = "TV (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
+
+
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["GallaRBX2"]
-citations = ["[https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf](%22https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf%22)"]
+citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</a>"]
 pageThumbnailFile = "9lpoeLMd6knKOnN7gN48.avif"
 manufacturer = "Creative Engineering"
 +++
-The ***TV* was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. <sup>(1)</sup>**
+
+The ***TV*** was an animatronic produced by *Creative Engineering Inc.* for the New Rock-Afire Explosion in 1993. (1)
 
 ## History
 
-This character was produced in 1993 for the New Rock-Afire Explosion show.
-This bot has 2 different versions.
+This character was produced in 1993 for the New Rock-Afire Explosion show. This bot has 2 different versions.
 
 ## Design
 
@@ -25,9 +27,9 @@ This bot is a Pink TV that appears on Stage Left. It has a Yellow trim on the to
 
 All movements are on the Bottom Drawer. This bot only has 4 movements.
 
-  Bit#   Function
-  ------ --------------------------
-  46     Rabbit Ears Top Left
-  47     Rabbit Ears Top Right
-  48     Rabbit Ears Bottom Left
-  49     Rabbit Ears Bottom Right
+| Bit# | Function                 |
+|------|--------------------------|
+| 46   | Rabbit Ears Top Left     |
+| 47   | Rabbit Ears Top Right    |
+| 48   | Rabbit Ears Bottom Left  |
+| 49   | Rabbit Ears Bottom Right |
