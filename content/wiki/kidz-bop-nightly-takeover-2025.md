@@ -122,7 +122,7 @@ categories = ["Chuck E. Cheese's"]
 43. KIDZ BOP Nightly Takeover Spot 6 
 44. KIDZ BOP - 'Follow Your Heart Unicorn Academy'
 
-##Lives 07/21 Update:
+## Lives 07/21 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori, CEC Stage Navori, Legacy Navori) 
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, CEC Stage Navori, Legacy Navori) 
 3. The Chuck E. Bop Featuring the KIDZ BOP Kids (Media Navori, CEC Stage Navori, Legacy Navori) 
@@ -139,7 +139,7 @@ categories = ["Chuck E. Cheese's"]
 9. Chuck E. Cheese - ‘Let’s Have a Party’
 10. Chuck E. Cheese - ‘Join the Party’
 
-##Schedule: 
+## Schedule: 
 
 1. Zigazoo Star Showcase Spot - 'Chuck E. Bop' 
 2. Harlem Globetrotters - 'Ways We Celebrate' 
@@ -187,7 +187,7 @@ categories = ["Chuck E. Cheese's"]
 44. KIDZ BOP Nightly Takeover Spot 6 
 45. KIDZ BOP - 'Follow Your Heart Unicorn Academy'
 
-##Lives:
+## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori, CEC Stage Navori, Legacy Navori) 
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, CEC Stage Navori, Legacy Navori) 
 3. The Chuck E. Bop Featuring the KIDZ BOP Kids (Media Navori, CEC Stage Navori, Legacy Navori) 
