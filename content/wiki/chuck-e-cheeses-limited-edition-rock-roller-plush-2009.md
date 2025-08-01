@@ -10,7 +10,7 @@ The **Rock & Roller Tye Dye Plush** was a plush made for prize counters in 2009.
 
 ## Production 
 
-This plush was a part of the limited edition Chuck E. Cheese pack that lasted from 2001 to 2010. After this all limited edition plush’s would be gone by then for the Avenger Era. 
+This plush was a part of the limited-edition Chuck E. Cheese pack that lasted from 2001 to 2010. After this, all-limited edition plushes would be gone by then for the Avenger Era. 
 
 ## Design 
 
