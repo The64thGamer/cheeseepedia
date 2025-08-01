@@ -47,8 +47,8 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 
 | Location                                                                   | Debuted           | Version              | Condition / Notes                                                                                                     |
 |----------------------------------------------------------------------------|-------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | September 6, 1993 | 1-Stage              | Decent condition. Last Cyberamics in Ohio.                                                                            |
-| {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | January 24, 1994  | 1-Stage              | Perfect condition. Last Cyberamics in New York. One of six animatronic stages being saved for 'Legacy Stores'.        |
+| {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | September 6, 1993 | 1-Stage              | Decent condition. Last Non-Legacy 1-Stage.  |
+| {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | January 24, 1994  | 1-Stage              | Perfect condition. Last Cyberamics in New York. One of seven animatronic stages being saved for 'Legacy Stores'.        |
 
 ## Former 1-Stages
 
@@ -87,11 +87,11 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 | {{< wiki-link "San Bruno, CA (1270-1272 El Camino Real)" >}}       | May 30, 1994       | 2019                                       | 1-Stage w/ Turntable         |
 | {{< wiki-link "Amarillo, TX (2500 S Coulter St)" >}}               | July 4, 1994       | April 27, 2025                             | 1-Stage.                     |
 | {{< wiki-link "Middletown, NJ (1107 Route 35)" >}}                 | July 25, 1994      | June 02, 2024                              | 1-Stage w/ Turntable         |
-| {{< wiki-link "Dublin, CA (7447 Amador Valley Blvd)" >}}           | August 01, 1994    | January 07, 2024                           | 1-Stage w/ Turntable         |
+| {{< wiki-link "Dublin, CA (7448 Amador Valley Blvd)" >}}           | August 01, 1994    | January 07, 2024                           | 1-Stage w/ Turntable         |
 | {{< wiki-link "East Hanover, NJ (145 Route 10)" >}}                | October 31, 1994   | October 2022                               | 1-Stage                      |
 | {{< wiki-link "North Dartmouth, MA (412-418 State Rd)" >}}         | December 05, 1994  | September 17, 2023                         | 1-Stage                      |
-| {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}                 | December 1994     | August 10, 2025 | 1-Stage      |
-| {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}})   | December 1994     | August 10, 2025 | 1-Stage w/ Turntable |
+| {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}                 | December 1994     | August 10, 2025  (Turntable removed in 2008)| 1-Stage      |
+| {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}}  | December 1994     | August 10, 2025  | 1-Stage w/ Turntable |
 | {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}}                | 1994               | 2019 (Turntable removed between 2002-2006) | 1-Stage w/ Turntable         |
 | {{< wiki-link "Ellisville, MO (15913 Manchester Rd)" >}}           | 1994               | 2005                                       | 1-Stage w/ Turntable         |
 | {{< wiki-link "West Allis, WI (2990 South 108th Ave)" >}}          | 1994               | August 2021 (Turntable removed in 2008)    | 1-Stage w/ Turntable         |
