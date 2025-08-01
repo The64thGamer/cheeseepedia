@@ -2,8 +2,8 @@
 draft = false
 title = "Road Stage"
 startDate = "1990-11-20"
-endDate = ""
-pageThumbnailFile = "RoadStage91.avif"
+endDate = "2025-06-15"
+pageThumbnailFile = "roadstage91.avif"
 contributors = ["Bowling for Cheese", "2601:191:8580:9F90:A565:8F5B:33A1:163E", "BigCtheDataFinder", "2600:387:5:807:0:0:0:6F", "67.87.119.58", "Sponch man", "168.69.254.247", "TrimSafe6859", "CECBowlingGreen", "ShowBizMidwest", "RPCEC Backup", "The 64th Gamer", "ThatBoiCydalan", "Rexburg090", "Maddox121", "170.185.215.34", "173.216.33.6", "216.125.34.66", "CorrectorMan", "CEC Kokomo", "Letterstolooneybird", "SuperCreamPiper2008", "Cheeseclassic", "Caydenpedia", "CoolerDude", "Ceclife13", "AstridMascotFan2005", "Cy's Junk at School", "CyberSnout"]
 citations = ["<a href=\"http://julkamen.com/set-design.html\">http://julkamen.com/set-design.html</a>", "<a href=\"https://youtu.be/FxdAvLI_wyc?t=2827\">https://youtu.be/FxdAvLI_wyc?t=2827</a>", "<a href=\"https://youtu.be/3xeSdTBlE3Y\">https://youtu.be/3xeSdTBlE3Y</a>", "<a href=\"http://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf\">http://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf</a>", "Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0"]
 manufacturer = "Corman & Associates"
