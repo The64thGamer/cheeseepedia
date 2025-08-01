@@ -3,6 +3,8 @@ title = "Me & My Friends"
 draft = false
 tags = ["Live Shows"]
 categories = [""]
+
+
 startDate = "2017-00-00"
 endDate = "0000-00-00"
 contributors = ["Documentor"]
@@ -11,8 +13,8 @@ mediaDuration = "2:55"
 pageThumbnailFile = "f2KD8SKw__HEhPxItesE.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Me & My Friends* is a live show released with {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}.
-Then in 2021 they made cuts to the *Ticket Splash*, alongside redoing the initial countdown of the show.**
+
+***Me &amp; My Friends*** is a live show released with {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}. Then in 2021 they made cuts to the *Ticket Splash*, alongside redoing the initial countdown of the show.
 
 ## Summary
 
@@ -20,20 +22,20 @@ The show is a listing of Chuck E.'s friends and their attributes, with Chuck E. 
 
 ## Showtape Releases
 
-  Version     Showtape                                       Format
-  ----------- ---------------------------------------------- ------------------------------------
-  2017        Show 3 2017 - Show 1 2020                      3stage, Cyberamic, Studio C, Weigl
-  2021 Edit   Show 1 2022 (August Update) - Evergreen 2022   3stage, Cyberamic, Studio C, Weigl
-                                                             
+| Version   | Showtape                                     | Format                             |
+|-----------|----------------------------------------------|------------------------------------|
+| 2017      | Show 3 2017 - Show 1 2020                    | 3stage, Cyberamic, Studio C, Weigl |
+| 2021 Edit | Show 1 2022 (August Update) - Evergreen 2022 | 3stage, Cyberamic, Studio C, Weigl |
+|           |                                              |                                    |
 
 ## Official Releases
 
-['Me & My Friends - How To' | Chuck E. Dance](https://www.youtube.com/watch?v=GcMQWJYKTps)
+['Me &amp; My Friends - How To' | Chuck E. Dance](https://www.youtube.com/watch?v=GcMQWJYKTps)
 
 ## Live Show Trivia:
 
-- The 2017 Countdown featured someone for 5 minutes trying to hunt down Chuck E. Scene 1 is located in the arcade, Scene 2 & 3 are located in Chuck E.'s Room, Scene 4 is in the arcade again and Scene 5 is located in the 'Hair & Make-up' Room. After this it transitions to teaching the guests about how to do the dance then the live show itself.
-- The 2021 Countdown is 7 minutes long. At the start it showcases 'Me & My Friends' at the top telling people what live will begin once the countdown is over.
+- The 2017 Countdown featured someone for 5 minutes trying to hunt down Chuck E. Scene 1 is located in the arcade, Scene 2 &amp; 3 are located in Chuck E.'s Room, Scene 4 is in the arcade again and Scene 5 is located in the 'Hair &amp; Make-up' Room. After this it transitions to teaching the guests about how to do the dance then the live show itself.
+- The 2021 Countdown is 7 minutes long. At the start it showcases 'Me &amp; My Friends' at the top telling people what live will begin once the countdown is over.
 - At the end of every minute Matt Daniel says the amount of time left until the live show. Despite the fact if you just looked at the screen you could obviously tell.
 - The countdown track are instrumentals for various CEC songs released in the past few years. The songs in order are Lend a Helping Hands Instrumental, and Because We're Friends Instrumental.
 - At the two minute mark it fades into the original countdown giving instructions on how to do the live show.

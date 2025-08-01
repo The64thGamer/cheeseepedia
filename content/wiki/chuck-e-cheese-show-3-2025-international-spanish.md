@@ -22,29 +22,29 @@ categories = ["Chuck E. Cheese's"]
 2. Chuck E. Cheese - 'Let’s Have A Party' (Spanish)
 3. Kidz Bop - 'Si Antes Te Hubiera Conocido'
 **Skit 2**
-Helen Henny - 'Gamin’ Time'
+1. Helen Henny - 'Gamin’ Time'
 **Intermission 3**
-Gente de Zona - 'Somos'
-Chuck E. Cheese - 'Bubble Bubble Pop' (Spanish)
-Jorge Luis Chacín - 'Contento'
+1. Gente de Zona - 'Somos'
+2. Chuck E. Cheese - 'Bubble Bubble Pop' (Spanish)
+3. Jorge Luis Chacín - 'Contento'
 **Skit 3**
-Chuck E. & Friends - 'More Cheese'
+1. Chuck E. & Friends - 'More Cheese'
 **Intermission 4**
-Kidz Bop - 'Espresso'
-Diego Torres - 'Mejor Que Ayer'
-Fibonacci Birthday
+1. Kidz Bop - 'Espresso'
+2. Diego Torres - 'Mejor Que Ayer'
+3. Fibonacci Birthday
 **Skit 4**
-Chuck E. & Friends - 'Fun For All'
+1. Chuck E. & Friends - 'Fun For All'
 **Intermission 5**
-Chuck E. Cheese - 'Lend A Helping Hand' (Spanish)
+1. Chuck E. Cheese - 'Lend A Helping Hand' (Spanish)
 **Skit 5**
-Jasper T. Jowls - 'The Tail Of Jasper T.'
+1. Jasper T. Jowls - 'The Tail Of Jasper T.'
 **Intermission 6**
-Hippoplatypus (Spanish)
-Fergie - Clumsy
-Ricky Martin - 'La Copa de la Vida'
+1. Chuck E. Cheese - Hippoplatypus (Spanish)
+2. Fergie - Clumsy
+3. Ricky Martin - 'La Copa de la Vida'
 **Skit 6**
-Chuck E. & Friends - 'Out Of This World'
+1. Chuck E. & Friends - 'Out Of This World'
 
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Cyberamic, Studio C, Weigl)

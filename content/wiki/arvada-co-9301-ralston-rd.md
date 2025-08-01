@@ -3,6 +3,8 @@ title = "Arvada, CO (9301 Ralston Rd)"
 draft = false
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = "1981-03-31"
 endDate = ""
 contributors = ["2601:280:5D02:1010:2C80:8709:FE91:257D","Cheeseclassic","ThatBoiCydalan","Chuckeindiana","Floorplanmuncher"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "_MNGnolUkMs_K07A1nO7.avif"
 latitudeLongitude = ["39.80181627","-105.1026566"]
 +++
-***Arvada, CO (9301 Ralston Rd), Store #717* was a *ShowBiz Pizza Place* that opened on March 31st, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* on September 20th, 2017 with a {{< wiki-link "Concept Unification Stage" >}}.**
+
+***Arvada, CO (9301 Ralston Rd), Store #717*** was a *ShowBiz Pizza Place* that opened on March 31st, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* on September 20th, 2017 with a {{< wiki-link "Concept Unification Stage" >}}.
 
 ## Stages
 
@@ -26,17 +29,17 @@ On September 20th, 2017, the location closed due to being in a dead shopping cen
 
 ## Animatronics
 
-  Animatronic                                                           Serial       Whereabouts
-  --------------------------------------------------------------------- ------------ -------------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   10-80 1-9    Unknown/Destroyed
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      10-80 2-9    Unknown/Destroyed
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   10-80 3-9    Unknown/Destroyed
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      10-80 4-9    Unknown/Destroyed
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                10-80 5-9    Unknown/Destroyed
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       10-80 6-9    Unknown/Destroyed
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     10-80 7-9    Unknown/Destroyed
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       10-80 8-9    Unknown/Destroyed
-  {{< wiki-link "Sun (Animatronic)" >}}                             10-80 10-9   Unknown/Destroyed
-  {{< wiki-link "Moon (Animatronic)" >}}                            10-80 11-9   Unknown/Destroyed
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A          Unknown/Destroyed
-  {{< wiki-link "Wink" >}}                                          N/A          Unknown/Destroyed
+| Animatronic                                                               | Serial     | Whereabouts       |
+|---------------------------------------------------------------------------|------------|-------------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-80 1-9  | Unknown/Destroyed |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-80 2-9  | Unknown/Destroyed |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-80 3-9  | Unknown/Destroyed |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-80 4-9  | Unknown/Destroyed |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-80 5-9  | Unknown/Destroyed |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-80 6-9  | Unknown/Destroyed |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-80 7-9  | Unknown/Destroyed |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-80 8-9  | Unknown/Destroyed |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-80 10-9 | Unknown/Destroyed |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-80 11-9 | Unknown/Destroyed |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A        | Unknown/Destroyed |
+| {{< wiki-link "Wink" >}}                                            | N/A        | Unknown/Destroyed |

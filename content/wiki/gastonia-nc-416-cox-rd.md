@@ -10,7 +10,8 @@ latitudeLongitude = ["35.26140407", "-81.13407748"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***416 Cox Rd, Store #635* is a Chuck E. Cheese's in Gastonia, North Carolina that opened on November 27th, 2005.**
+
+***416 Cox Rd, Store #635*** is a Chuck E. Cheese's in Gastonia, North Carolina that opened on November 27th, 2005.
 
 ## History
 
@@ -18,16 +19,16 @@ Gastonia opened on November 27th, 2005 with a Studio C Beta, 16m in a freestandi
 
 ## Stages
 
-  Stage                Installed       Removed   Notes
-  -------------------- --------------- --------- -------------------------------------------------------------------------------------------------
-  Studio C Beta, 16m   November 2005   Removed   One of 3 installed in North Carolina (4 in the Carolinas) (Only 16m Installation in the state).
+| Stage              | Installed     | Removed | Notes                                                                                           |
+|--------------------|---------------|---------|-------------------------------------------------------------------------------------------------|
+| Studio C Beta, 16m | November 2005 | Removed | One of 3 installed in North Carolina (4 in the Carolinas) (Only 16m Installation in the state). |
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- -------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A             Removed.
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A             Removed.
+| Animatronic                                                | Serial Number | Whereabouts |
+|------------------------------------------------------------|---------------|-------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Removed.    |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Removed.    |
 
 ## Videos
 
@@ -35,6 +36,6 @@ TODO
 
 ## Trivia
 
-- Gastonia was one of the few locations to add shoes onto their Chuck E. Cheese Animatronic (One of two to do so in North Carolina, The other to do so was {{< wiki-link "Greensboro, NC (702-A Pembroke Rd)" >}} which was a 3-Stage. {{< wiki-link "Wilmington, NC (4389 Oleander Dr)" >}} {Another 3-Stage store} was also supposed to do this before they closed in 2020 according to the store's management but it didn't happen due to store closure). {{< wiki-link "Visalia, CA (4345 W Noble Ave)" >}} (3-Stage), Cordova, TN (1636 N Germantown Pkwy)|Cordova (Studio C Beta, 32m; Removed in October 2021), & Corporate also put shoes on the Chuck E. Cheese Animatronics as well.
+- Gastonia was one of the few locations to add shoes onto their Chuck E. Cheese Animatronic (One of two to do so in North Carolina, The other to do so was {{< wiki-link "Greensboro, NC (702-A Pembroke Rd)" >}} which was a 3-Stage. {{< wiki-link "Wilmington, NC (4389 Oleander Dr)" >}} {Another 3-Stage store} was also supposed to do this before they closed in 2020 according to the store's management but it didn't happen due to store closure). {{< wiki-link "Visalia, CA (4345 W Noble Ave)" >}} (3-Stage), Cordova, TN (1636 N Germantown Pkwy)|Cordova (Studio C Beta, 32m; Removed in October 2021), &amp; Corporate also put shoes on the Chuck E. Cheese Animatronics as well.
 - Weirdly enough, Gastonia was built inside a hill according to street view imagery, making the exterior not fully viewable from a certain angle.
 - Before the COVID-19 Pandemic, Gastonia was originally planned to get 2.0 in around April 2020; if the plan has had happened, they would of had a 2019 Model Dance Floor.

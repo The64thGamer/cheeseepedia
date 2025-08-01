@@ -9,16 +9,16 @@ latitudeLongitude = ["33.63881082", "-112.0110524"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***3329 E Bell Rd, Store #214/3207* was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}.
-This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}, which opened on October 28, 1983, as a ShowBiz Pizza Place, received {{< wiki-link "Concept Unification" >}} in 1990, and is still open today with the 2.0 remodel.**
+
+***3329 E Bell Rd, Store #214/3207*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}, which opened on October 28, 1983, as a ShowBiz Pizza Place, received {{< wiki-link "Concept Unification" >}} in 1990, and is still open today with the 2.0 remodel.
 
 ## Stage
 
 This location had a {{< wiki-link "Studio C Alpha" >}}, one of 3 in Arizona. There isn't a ton of info known about it, though. After the 2015 closure, the Alpha was moved to {{< wiki-link "Chandler, AZ (2977 West Frye Rd)" >}}, where it remained until the location received 2.0 in 2023.
 
-  Stage                             Installed    Removed        Notes
-  --------------------------------- ------------ -------------- -----------------------------
-  Studio C (1997)|Studio C Alpha   March 1999   January 2015   One of 3 Alphas in Arizona.
+| Stage                           | Installed  | Removed      | Notes                       |
+|---------------------------------|------------|--------------|-----------------------------|
+| Studio C (1997)\|Studio C Alpha | March 1999 | January 2015 | One of 3 Alphas in Arizona. |
 
 ## History
 
@@ -26,9 +26,9 @@ Phoenix (Bell) opened on March 26, 1999, with a {{< wiki-link "Studio C Alpha" >
 
 ## Animatronics
 
-  Animatronic                                                Serial Number    Whereabouts
-  ---------------------------------------------------------- ---------------- ----------------------------------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   037 (R&D 4698)   Sent to Chandler AZ, destroyed in March 2023
-  {{< wiki-link "Bird (Animatronic)" >}}                 N/A              Unknown
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A              Unknown
-  {{< wiki-link "Pizza Phone (Animatronic)" >}}          N/A              Unknown
+| Animatronic                                                | Serial Number      | Whereabouts                                  |
+|------------------------------------------------------------|--------------------|----------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 037 (R&amp;D 4698) | Sent to Chandler AZ, destroyed in March 2023 |
+| {{< wiki-link "Bird (Animatronic)" >}}               | N/A                | Unknown                                      |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A                | Unknown                                      |
+| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A                | Unknown                                      |

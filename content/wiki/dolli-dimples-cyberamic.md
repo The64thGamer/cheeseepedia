@@ -6,9 +6,11 @@ title = "Dolli Dimples (Cyberamic)"
 contributors = []
 tags = ["Animatronics"]
 pageThumbnailFile = ""
+
 categories = ["Pizza Time Theatre"]
 +++
-***Dolli Dimples* Dolli Dimples was staniory at the Piano Bar Lounge and was the only Cabaret / Lounge act to get a first gen Cyberamic in the form of {{< wiki-link "Dolli Dimples (Cabaret)" >}}**
+
+***Dolli Dimples*** Dolli Dimples was staniory at the Piano Bar Lounge and was the only Cabaret / Lounge act to get a first gen Cyberamic in the form of {{< wiki-link "Dolli Dimples (Cabaret)" >}}
 
 ## History
 
@@ -22,18 +24,19 @@ Dolli Dimples had bright orange hair wich was in afro style and wore a purple dr
 
 Dolli Dimples had 13 movements
 
-  Movement
-  -----------------
-  Mouth
-  Eyelids
-  Head Turn Right
-  Head Turn Left
-  Head Tilt
-  Body Turn
-  Right Ear
-  Left Ear
-  Eye Turn Right
-  Eye Turn Left
-  Left Hand
-  Right Hand
-  Bosom
+| Movement        |
+|-----------------|
+| Mouth           |
+| Eyelids         |
+| Head Turn Right |
+| Head Turn Left  |
+| Head Tilt       |
+| Body Turn       |
+| Right Ear       |
+| Left Ear        |
+| Eye Turn Right  |
+| Eye Turn Left   |
+| Left Hand       |
+| Right Hand      |
+| Bosom           |
+|                 |

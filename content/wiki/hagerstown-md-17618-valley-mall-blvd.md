@@ -3,6 +3,8 @@ title = "Hagerstown, MD (17618 Valley Mall Blvd)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2005-07-28"
 endDate = "2024-04-07"
 contributors = ["CECswag2009","Cheeseclassic"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "XlHflGC8RNpNymNgwvGP.avif"
 latitudeLongitude = ["39.5999039","-77.773136"]
 +++
-***Hagerstown, MD (17618 Valley Mall Blvd), Store #234* was a *Chuck E Cheese's* that opened on July 28, 2005 with a Small-Town Studio C/Studio C Cappa. The Location closed on April 7, 2024 after 18 years of Operation.**
+
+***Hagerstown, MD (17618 Valley Mall Blvd), Store #234*** was a *Chuck E Cheese's* that opened on July 28, 2005 with a Small-Town Studio C/Studio C Cappa. The Location closed on April 7, 2024 after 18 years of Operation.
 
 ## Stages
 
@@ -22,15 +25,15 @@ Hagerstown Maryland opened on July 28, 2005 with the 2005 update to the 2003 'Co
 
 ## Animatronics
 
-  Animatronics                                               Manufacturing Date   Serial Number   Whereabouts
-  ---------------------------------------------------------- -------------------- --------------- ---------------------------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   2005                 Unknown         Unknown, Likely Destroyed or used for Parts
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     2005                 Unknown         Unknown, Likely Destroyed or used for Parts
+| Animatronics                                               | Manufacturing Date | Serial Number | Whereabouts                                 |
+|------------------------------------------------------------|--------------------|---------------|---------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2005               | Unknown       | Unknown, Likely Destroyed or used for Parts |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | 2005               | Unknown       | Unknown, Likely Destroyed or used for Parts |
 
 ## Walkarounds
 
-  --------------------------------------------------- --------------------------------------------------------------- ------------------------------------------------ -----------------------------------------------------------------------------------------------------------
-  Heads                                               Outfits & Suits                                                 Accessories                                      Whereabouts
-  {{< wiki-link "Chuck 2005 (Costume Head)" >}}   {{< wiki-link "Chuck Avenger Attire (Costume Outfit)" >}}   Chuck Short Fur Loose Legs (Costume Accessory)   Unknown, Likely Destroyed after Hagerstown got the Rockstar walkaround (Avenger Shirt Kept until Closure)
-  {{< wiki-link "Chuck 2014 (Costume Head)" >}}   Chuck Rockstar Attire 1 (Costume Outfit)                        None                                             Unknown, Likely Destroyed After Hagerstown's Closure
-  --------------------------------------------------- --------------------------------------------------------------- ------------------------------------------------ -----------------------------------------------------------------------------------------------------------
+|                                                     |                                                                 |                                                |                                                                                                           |
+|-----------------------------------------------------|-----------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Heads                                               | Outfits &amp; Suits                                             | Accessories                                    | Whereabouts                                                                                               |
+| {{< wiki-link "Chuck 2005 (Costume Head)" >}} | {{< wiki-link "Chuck Avenger Attire (Costume Outfit)" >}} | Chuck Short Fur Loose Legs (Costume Accessory) | Unknown, Likely Destroyed after Hagerstown got the Rockstar walkaround (Avenger Shirt Kept until Closure) |
+| {{< wiki-link "Chuck 2014 (Costume Head)" >}} | Chuck Rockstar Attire 1 (Costume Outfit)                        | None                                           | Unknown, Likely Destroyed After Hagerstown's Closure                                                      |

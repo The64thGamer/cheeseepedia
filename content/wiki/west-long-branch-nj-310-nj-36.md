@@ -3,6 +3,8 @@ title = "West Long Branch, NJ (310 NJ-36)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2000-11-20"
 endDate = "2015-09-21"
 contributors = ["Cheeseclassic","ThatBoiCydalan"]
@@ -10,13 +12,14 @@ citations = []
 pageThumbnailFile = "9ptROZudByNbZ1I7zT13.avif"
 latitudeLongitude = ["40.2894093","-74.0381551"]
 +++
-***West Long Branch, NJ (310 NJ-36), Store #519* was a *Chuck E. Cheese's* that opened on November 20, 2000 with a {{< wiki-link "Studio C Alpha" >}}, and closed on September 21, 2015.**
+
+***West Long Branch, NJ (310 NJ-36), Store #519*** was a *Chuck E. Cheese's* that opened on November 20, 2000 with a {{< wiki-link "Studio C Alpha" >}}, and closed on September 21, 2015.
 
 ## Stage
 
-  Stage                                    Installed       Removed
-  ---------------------------------------- --------------- ----------------
-  {{< wiki-link "Studio C Alpha" >}}   November 2000   September 2015
+| Stage                                    | Installed     | Removed        |
+|------------------------------------------|---------------|----------------|
+| {{< wiki-link "Studio C Alpha" >}} | November 2000 | September 2015 |
 
 ## History
 

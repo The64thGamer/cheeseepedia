@@ -3,6 +3,8 @@ title = "Layton, UT (450 North Main St)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2008-00-00"
 endDate = "2020-06-00"
 contributors = ["Cheeseslicez"]
@@ -10,6 +12,7 @@ citations = []
 pageThumbnailFile = "rE789UgiqrSAVtcNCqFq.avif"
 latitudeLongitude = ["41.06564377","-111.972663"]
 +++
+
 **450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a {{< wiki-link "Studio C Beta" >}} and closed in June 2020
 
 ## History
@@ -20,10 +23,10 @@ Layton opened as a {{< wiki-link "CEC 2000's Remodel Program" >}} store and had 
 
 As previously stated this location opened with a Studio C Beta with a 16m bot and it's whereabouts are unknown as of today
 
-  Animatronics   Serial Number   Whereabouts
-  -------------- --------------- -------------------
-  Studio C 16m   N/A             Unknown/Destroyed
-  Pizza Clock    N/A             Unknown/Destroyed
+| Animatronics | Serial Number | Whereabouts       |
+|--------------|---------------|-------------------|
+| Studio C 16m | N/A           | Unknown/Destroyed |
+| Pizza Clock  | N/A           | Unknown/Destroyed |
 
 ## Post Closure
 
@@ -35,5 +38,4 @@ TODO: Videos
 
 ## Resources
 
-T
-__INDEX__
+T \_\_INDEX\__

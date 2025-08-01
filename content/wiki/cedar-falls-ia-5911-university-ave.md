@@ -8,17 +8,17 @@ endDate = ""
 contributors = ["CEC Kokomo","Tux Chuck"]
 citations = []
 +++
-***5911 University Ave Ste. 100* is a *Chuck E. Cheese's* that opened on August 1, 2001, with a {{< wiki-link "Studio C Beta" >}} and is still open today with the 2.0 remodel.
-This was the relocation of the Cedar Falls, IA (2915 McClain Dr) store, which opened on December 28, 1981, with a {{< wiki-link "Classic Stage" >}} and closed in January 2001 (day unknown) with a {{< wiki-link "Concept Unification Stage" >}}.**
+
+***5911 University Ave Ste. 100*** is a *Chuck E. Cheese's* that opened on August 1, 2001, with a {{< wiki-link "Studio C Beta" >}} and is still open today with the 2.0 remodel. This was the relocation of the Cedar Falls, IA (2915 McClain Dr) store, which opened on December 28, 1981, with a {{< wiki-link "Classic Stage" >}} and closed in January 2001 (day unknown) with a {{< wiki-link "Concept Unification Stage" >}}.
 
 ## Stages
 
 Cedar Falls at first had a {{< wiki-link "Studio C Beta" >}} with a 32m bot. The stage would get minor modifications until September 2022, when it was removed as part of the 2.0 remodel.
 
-  Stage                                                                                           Installed        Removed          Notes
-  ----------------------------------------------------------------------------------------------- ---------------- ---------------- ------------------------------------------------
-  {{< wiki-link "Studio C Beta" >}}                                                           August 2001      September 2022   Only Studio C in Iowa. 2nd last show in state.
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   September 2022   Still in use     2021 Model.
+| Stage                                                                                             | Installed      | Removed        | Notes                                          |
+|---------------------------------------------------------------------------------------------------|----------------|----------------|------------------------------------------------|
+| {{< wiki-link "Studio C Beta" >}}                                                           | August 2001    | September 2022 | Only Studio C in Iowa. 2nd last show in state. |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | September 2022 | Still in use   | 2021 Model.                                    |
 
 ## History
 
@@ -26,7 +26,7 @@ Cedar Falls opened on August 1, 2001, with a Phase 3 remodel and {{< wiki-link "
 
 ## Animatronics
 
-  Animatronic                                                Serial Number    Whereabouts
-  ---------------------------------------------------------- ---------------- ---------------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   141 (R&D 5000)   Unknown, likely destroyed
-  {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     N/A              Unknown, likely destroyed
+| Animatronic                                                | Serial Number      | Whereabouts               |
+|------------------------------------------------------------|--------------------|---------------------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 141 (R&amp;D 5000) | Unknown, likely destroyed |
+| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A                | Unknown, likely destroyed |

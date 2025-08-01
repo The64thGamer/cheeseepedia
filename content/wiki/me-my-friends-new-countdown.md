@@ -11,8 +11,8 @@ mediaDuration = "2:55"
 pageThumbnailFile = "f2KD8SKw__HEhPxItesE.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Me & My Friends (New Countdown)* is an updated rerelease of the {{< wiki-link "Me & My Friends" >}} live show from 2017.
-This version cuts the *Ticket Splash*, alongside redoing the initial countdown of the show.**
+
+***Me &amp; My Friends (New Countdown)*** is an updated rerelease of the {{< wiki-link "Me &amp; My Friends" >}} live show from 2017. This version cuts the *Ticket Splash*, alongside redoing the initial countdown of the show.
 
 ## Summary
 
@@ -20,24 +20,24 @@ The show is a listing of Chuck E.'s friends and their attributes, with Chuck E. 
 
 ## Showtape Releases
 
-  Stage        Showtape                                                                                    Format
-  ------------ ------------------------------------------------------------------------------------------- ---------------
-  Studio C     Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         DVD + Floppy
-  Studio C     Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         USB + MicroSD
-  Studio C     {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}}   DVD + Floppy
-  Studio C     {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}}   USB + MicroSD
-  Cyberamics   {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}           DVD
-  3-Stage      {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}           DVD
-  Studio C     {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}           DVD + Floppy
-  Studio C     {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}           USB + MicroSD
+| Stage      | Showtape                                                                                   | Format        |
+|------------|--------------------------------------------------------------------------------------------|---------------|
+| Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | DVD + Floppy  |
+| Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | USB + MicroSD |
+| Studio C   | {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | DVD + Floppy  |
+| Studio C   | {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | USB + MicroSD |
+| Cyberamics | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
+| 3-Stage    | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
+| Studio C   | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD + Floppy  |
+| Studio C   | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | USB + MicroSD |
 
 ## Official Releases
 
-['Me & My Friends - How To' | Chuck E. Dance](https://www.youtube.com/watch?v=GcMQWJYKTps)
+['Me &amp; My Friends - How To' | Chuck E. Dance](https://www.youtube.com/watch?v=GcMQWJYKTps)
 
 ## Live Show Trivia:
 
-- The brand new Countdown is 7 minutes long. At the start it showcases 'Me & My Friends' at the top telling people what live will begin once the countdown is over.
+- The brand new Countdown is 7 minutes long. At the start it showcases 'Me &amp; My Friends' at the top telling people what live will begin once the countdown is over.
 - At the end of every minute Matt Daniel says the amount of time left until the live show.
 - The countdown track are instrumentals for various CEC songs released in the past few years. The songs in order are Lend a Helping Hand and Because We're Friends.
 - At the two minute mark it fades into the original countdown giving instructions on how to do the live show.

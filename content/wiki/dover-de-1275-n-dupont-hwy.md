@@ -3,6 +3,8 @@ title = "Dover, DE (1275 N DuPont Hwy)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2002-12-27"
 endDate = ""
 contributors = ["CorrectorMan","CEC Tinley","Cheeseclassic"]
@@ -10,17 +12,18 @@ citations = []
 pageThumbnailFile = "gyQjE3gqcytQVIWS2c6G.avif"
 latitudeLongitude = ["39.14007772","-75.52124273"]
 +++
-***1275 N DuPont Hwy* is a *Chuck E. Cheese's* that opened on December 27, 2002, with a Small-Town Studio C Prototype and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.**
+
+***1275 N DuPont Hwy*** is a *Chuck E. Cheese's* that opened on December 27, 2002, with a Small-Town Studio C Prototype and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 
 ## Stages
 
 Dover opened with a Small-Town Studio C Prototype, the last of 3 installed. Around 2005, it was removed for a Small-Town Studio C|Studio C Cappa. In 2023, the Cappa was removed for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}.
 
-  Stage                                                                                           Installed        Removed          Notes
-  ----------------------------------------------------------------------------------------------- ---------------- ---------------- ----------------------
-  Small-Town Studio C Prototype                                                                   December 2002    2005             Last of 3 installed.
-  Small-Town Studio C|Studio C Cappa                                                             2005             September 2023   V3 Version
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}}   September 2023   Still in Use     2021 Model
+| Stage                                                                                             | Installed      | Removed        | Notes                |
+|---------------------------------------------------------------------------------------------------|----------------|----------------|----------------------|
+| Small-Town Studio C Prototype                                                                     | December 2002  | 2005           | Last of 3 installed. |
+| Small-Town Studio C\|Studio C Cappa                                                               | 2005           | September 2023 | V3 Version           |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | September 2023 | Still in Use   | 2021 Model           |
 
 ## History
 
@@ -28,6 +31,6 @@ Dover opened on December 27, 2002, as the last of 3 Small-Town Studio C Prototyp
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- -------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A             Unknown/Destroyed
+| Animatronic                                                | Serial Number | Whereabouts       |
+|------------------------------------------------------------|---------------|-------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Unknown/Destroyed |

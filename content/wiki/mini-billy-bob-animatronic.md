@@ -9,6 +9,7 @@ citations = ["Billy Bob Doll Bitchart"]
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 +++
+
 The Miniature Billy Bob animatronic was intended to be a computerized doll that was supposed to read, sing, or teach children (similar to the likes of Teddy Ruxpin). The doll was originally supposed to hit markets for 1986 but problems in manufacturing caused it to fall through.
 
 ## History
@@ -25,20 +26,20 @@ The original prototype of the doll had a different face sculpt, with his lower j
 
 ## Movements
 
-  Movement
-  ------------------------
-  Mouth
-  Head Up & Guitar Raise
-  Head Turn
-  Body Lean
-  Right Arm
+| Movement                   |
+|----------------------------|
+| Mouth                      |
+| Head Up &amp; Guitar Raise |
+| Head Turn                  |
+| Body Lean                  |
+| Right Arm                  |
 
 ## Videos
 
-  Link                                          Description
-  --------------------------------------------- --------------------------------------------------------
-  https://www.youtube.com/watch?v=3q2KTeq62Uw   1985 Demo of the prototype
-  https://www.youtube.com/watch?v=nN5plJzjrig   Rock & Roll Stage
-  https://www.youtube.com/watch?v=d5e-iNF8pRs   'Poo on You' (Parody of F*ck You) sung by Billy Bob
-  https://www.youtube.com/watch?v=INYM-E1JaAM   Aaron Fetcher's auction video describing the doll
-                                                
+| Link                                        | Description                                          |
+|---------------------------------------------|------------------------------------------------------|
+| https://www.youtube.com/watch?v=3q2KTeq62Uw | 1985 Demo of the prototype                           |
+| https://www.youtube.com/watch?v=nN5plJzjrig | Rock &amp; Roll Stage                                |
+| https://www.youtube.com/watch?v=d5e-iNF8pRs | 'Poo on You' (Parody of F\*ck You) sung by Billy Bob |
+| https://www.youtube.com/watch?v=INYM-E1JaAM | Aaron Fetcher's auction video describing the doll    |
+|                                             |                                                      |

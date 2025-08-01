@@ -11,8 +11,8 @@ alsoKnownAs = ["The Pantones"]
 tags = ["Animatronic Shows"]
 categories = ["Creative Presentations"]
 +++
-***W.O.O.F. Radio* was an animatronic show produced by Creative Presentations, Inc. (CPI) for Celebration Station from 1982 to 1989, being used in several of the chain's locations up through 2001.
-Celebration Station's parent company, Whiteco, decided to officially end its relationship with Creative Presentations by 1990. Shortly thereafter, Sally Industries supplied the *Daniel and the Dixie Diggers Trio + Jethro P. Hogg* and *The Rockin' Rascals* animatronic shows for Celebration Station between 1991 and 1993.**
+
+***W.O.O.F. Radio*** was an animatronic show produced by Creative Presentations, Inc. (CPI) for Celebration Station from 1982 to 1989, being used in several of the chain's locations up through 2001. Celebration Station's parent company, Whiteco, decided to officially end its relationship with Creative Presentations by 1990. Shortly thereafter, Sally Industries supplied the *Daniel and the Dixie Diggers Trio + Jethro P. Hogg* and *The Rockin' Rascals* animatronic shows for Celebration Station between 1991 and 1993.
 
 ## Characters
 
@@ -50,11 +50,11 @@ Exclusive to the renovated western saloon version of Merrillville's W.O.O.F. sho
 
 ## Known Installations
 
-  Store                                     Installed   Removed   Notes
-  ----------------------------------------- ----------- --------- -----------------------------------------------
-  Rockford, IL (3600 E State St)            1982        1987      
-  Park Forest, IL (3200 W U.S. 30)          1982        Unknown   
-  Bensalem, PA (1841 Street Rd)             1982        Unknown   
-  Merrillville, IN (1000 E 80th Pl)         1982        2001      
-  Springfield, PA (381 Baltimore Pike)      1984        1989      
-  Fall River, MA (35 Mariano Bishop Blvd)   1990s       2007      Big Top Kiddie Playland (Former PTT Location)
+| Store                                   | Installed | Removed | Notes                                         |
+|-----------------------------------------|-----------|---------|-----------------------------------------------|
+| Rockford, IL (3600 E State St)          | 1982      | 1987    |                                               |
+| Park Forest, IL (3200 W U.S. 30)        | 1982      | Unknown |                                               |
+| Bensalem, PA (1841 Street Rd)           | 1982      | Unknown |                                               |
+| Merrillville, IN (1000 E 80th Pl)       | 1982      | 2001    |                                               |
+| Springfield, PA (381 Baltimore Pike)    | 1984      | 1989    |                                               |
+| Fall River, MA (35 Mariano Bishop Blvd) | 1990s     | 2007    | Big Top Kiddie Playland (Former PTT Location) |

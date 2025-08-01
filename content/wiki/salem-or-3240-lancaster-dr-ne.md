@@ -3,6 +3,8 @@ title = "Salem, OR (3240 Lancaster Dr NE)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1988-00-00"
 endDate = ""
 contributors = ["ChuckECool","SuperCreamPiper2008","AstridMascotFan2005","Detourenterprises"]
@@ -10,20 +12,18 @@ citations = []
 pageThumbnailFile = "sMbgaFsty91ahmMK5o8D.avif"
 latitudeLongitude = ["44.96569127","-122.9837632"]
 +++
-***3240 Lancaster Drive Northeast* is a *Chuck E. Cheese* that opened somewhere between 1988-1989 with a Rocker Stage which is still open to this day.
-It was located in a part of the Oak Park Plaza shopping mall. It should not be confused with the [Salem, OR (3180 Lancaster Dr NE)](https://cheeseepedia.org/wiki/Salem,_OR_(3180_Lancaster_Dr_NE)) location which opened on January 1st, 1984 (New Year's Day) and closed somewhere between 1988-1989 with a Balcony Stage. It was also across from the Oak Park Plaza.**
+
+***3240 Lancaster Drive Northeast*** is a *Chuck E. Cheese* that opened somewhere between 1988-1989 with a Rocker Stage which is still open to this day. It was located in a part of the Oak Park Plaza shopping mall. It should not be confused with the [Salem, OR (3180 Lancaster Dr NE)](https://cheeseepedia.org/wiki/Salem,_OR_%283180_Lancaster_Dr_NE%29) location which opened on January 1st, 1984 (New Year's Day) and closed somewhere between 1988-1989 with a Balcony Stage. It was also across from the Oak Park Plaza.
 
 ## Stages
 
-Originally, this location had a Chuck E's House like all other SP/CEC's at the time. This location has some but not a lot of information when it was a ShowBiz Pizza or CEC in general back then.
-It was removed between 1999-2000 with a Studio C Alpha stage. It was the only Alpha in Oregon. In 2013, Chuck's cap was removed. In 2020, Chuck's cap was brought back.
-The Alpha was removed in February 2021 for the 2.0 Remodel and Dance Floor.
+Originally, this location had a Chuck E's House like all other SP/CEC's at the time. This location has some but not a lot of information when it was a ShowBiz Pizza or CEC in general back then. It was removed between 1999-2000 with a Studio C Alpha stage. It was the only Alpha in Oregon. In 2013, Chuck's cap was removed. In 2020, Chuck's cap was brought back. The Alpha was removed in February 2021 for the 2.0 Remodel and Dance Floor.
 
-  Stage                                      Installed       Removed
-  ------------------------------------------ --------------- ---------------
-  {{< wiki-link "Chuck E's House" >}}   1988-1989       1999-2000
-  Studio C Alpha                             1999-2000       February 2021
-  Dance Floor + Video Wall                   February 2021   Still in use.
+| Stage                                     | Installed     | Removed       |
+|-------------------------------------------|---------------|---------------|
+| {{< wiki-link "Chuck E's House" >}} | 1988-1989     | 1999-2000     |
+| Studio C Alpha                            | 1999-2000     | February 2021 |
+| Dance Floor + Video Wall                  | February 2021 | Still in use. |
 
 ## History
 
@@ -85,23 +85,23 @@ New Salem opened between 1988-1989 as the relocation of the original Salem locat
 
 ## Animatronics
 
-  Animatronic                                                                                                  Serial            Whereabouts
-  ------------------------------------------------------------------------------------------------------------ ----------------- --------------------
-  [Chuck E Cheese (Cyberamic)](https://cheeseepedia.org/wiki/Chuck_E_Cheese_(Cyberamic))                       N/A               Unknown/Destroyed.
-  [Guest Star / Helen Henny (Cyberamic)](https://cheeseepedia.org/wiki/Guest_Star_/_Helen_Henny_(Cyberamic))   N/A               Unknown/Destroyed.
-  [Mr. Munch (Cyberamic)](https://cheeseepedia.org/wiki/Mr._Munch_(Cyberamic))                                 N/A               Unknown/Destroyed.
-  [Jasper T. Jowls (Cyberamic)](https://cheeseepedia.org/wiki/Jasper_T._Jowls_(Cyberamic))                     N/A               Unknown/Destroyed.
-  [Pasqually (Cyberamic)](https://cheeseepedia.org/wiki/Pasqually_(Cyberamic))                                 nown/Destroyed.   Unknown/Destroyed.
-  Chuck E. Cheese, 32m                                                                                         None              Destroyed.
-  Parrot                                                                                                       N/A               Destroyed.
-  Pizza Time Clock                                                                                             N/A               Destroyed.
-  Pizza Phone                                                                                                  N/A               Destroyed.
+| Animatronic                                                                                                    | Serial          | Whereabouts        |
+|----------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
+| [Chuck E Cheese (Cyberamic)](https://cheeseepedia.org/wiki/Chuck_E_Cheese_%28Cyberamic%29)                     | N/A             | Unknown/Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)](https://cheeseepedia.org/wiki/Guest_Star_/_Helen_Henny_%28Cyberamic%29) | N/A             | Unknown/Destroyed. |
+| [Mr. Munch (Cyberamic)](https://cheeseepedia.org/wiki/Mr._Munch_%28Cyberamic%29)                               | N/A             | Unknown/Destroyed. |
+| [Jasper T. Jowls (Cyberamic)](https://cheeseepedia.org/wiki/Jasper_T._Jowls_%28Cyberamic%29)                   | N/A             | Unknown/Destroyed. |
+| [Pasqually (Cyberamic)](https://cheeseepedia.org/wiki/Pasqually_%28Cyberamic%29)                               | nown/Destroyed. | Unknown/Destroyed. |
+| Chuck E. Cheese, 32m                                                                                           | None            | Destroyed.         |
+| Parrot                                                                                                         | N/A             | Destroyed.         |
+| Pizza Time Clock                                                                                               | N/A             | Destroyed.         |
+| Pizza Phone                                                                                                    | N/A             | Destroyed.         |
 
 ## Videos
 
-  LInk                                               Uploader                     Description                                            Filming Date       Publish Date
-  -------------------------------------------------- ---------------------------- ------------------------------------------------------ ------------------ -------------------
-  https://youtu.be/yVQr63Dx72w?si=WYUw4ZVt-BOToahr   Andy's Retail Exploration   A store tour of the location.                          2018               November 24, 2018
-  https://youtu.be/pMMpp6vBVt0                       LKD Animatronics             The song 'Nobody There' being played on the stage.   October 28, 2020   October 28, 2020
+| LInk                                             | Uploader                  | Description                                        | Filming Date     | Publish Date      |
+|--------------------------------------------------|---------------------------|----------------------------------------------------|------------------|-------------------|
+| https://youtu.be/yVQr63Dx72w?si=WYUw4ZVt-BOToahr | Andy's Retail Exploration | A store tour of the location.                      | 2018             | November 24, 2018 |
+| https://youtu.be/pMMpp6vBVt0                     | LKD Animatronics          | The song 'Nobody There' being played on the stage. | October 28, 2020 | October 28, 2020  |
 
 TODO

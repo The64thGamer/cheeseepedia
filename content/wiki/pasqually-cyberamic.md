@@ -3,42 +3,44 @@ title = "Pasqually (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","BoyInCharge55","107.147.190.172","ShowBizMidwest","JasperLover","62.10.181.250","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]
 citations = []
 +++
-The **Pasqually Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's.
-It is a pretty simple figure, having only 8 movements. The Pasqually Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band.
+
+The **Pasqually Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's. It is a pretty simple figure, having only 8 movements. The Pasqually Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make Believe Band.
 
 ## Movements
 
 Pizza Time Theatre Pasqually cyberamics feature these movements.
 
-  Movement
-  ------------------------------------------------------------------------
-  Mouth
-  Mustache
-  Head Turn Right
-  Head Turn Left
-  Eye Turn Right
-  Eye Turn Left
-  Eyelids
-  Arms
-  Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}})
+| Movement                                                                 |
+|--------------------------------------------------------------------------|
+| Mouth                                                                    |
+| Mustache                                                                 |
+| Head Turn Right                                                          |
+| Head Turn Left                                                           |
+| Eye Turn Right                                                           |
+| Eye Turn Left                                                            |
+| Eyelids                                                                  |
+| Arms                                                                     |
+| Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}) |
 
 Pasqually cyberamics made for later stages feature these movements.
 
-  Movement
-  --------------------
-  Mouth and Mustache
-  Head Turn Right
-  Head Turn Left
-  Eye Turn Right
-  Eye Turn Left
-  Eyelids
-  Right Arm
-  Left Arm
+| Movement           |
+|--------------------|
+| Mouth and Mustache |
+| Head Turn Right    |
+| Head Turn Left     |
+| Eye Turn Right     |
+| Eye Turn Left      |
+| Eyelids            |
+| Right Arm          |
+| Left Arm           |
 
 ## Stages Used In
 

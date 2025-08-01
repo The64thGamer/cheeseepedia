@@ -3,6 +3,8 @@ title = "Dothan, AL (1001 Commons Dr)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2004-08-19"
 endDate = ""
 contributors = ["TailsFan628","Tux Chuck"]
@@ -10,16 +12,16 @@ citations = []
 pageThumbnailFile = "iPFUoVjvwiXesZqHeozl.avif"
 latitudeLongitude = ["31.25227052","-85.42891163"]
 +++
-***1001 Commons Dr, Dothan, AL 36303* was a *Chuck E. Cheese's* that opened on August 19th, 2004, with a {{< wiki-link "Studio C Cappa" >}} stage.
-This store is not to be confused with the {{< wiki-link "Dothan, AL (3400 Ross Clark Circle)" >}} location, which closed in April of 1998.**
+
+***1001 Commons Dr, Dothan, AL 36303*** was a *Chuck E. Cheese's* that opened on August 19th, 2004, with a {{< wiki-link "Studio C Cappa" >}} stage. This store is not to be confused with the {{< wiki-link "Dothan, AL (3400 Ross Clark Circle)" >}} location, which closed in April of 1998.
 
 ## Stages
 
 The store opened with a {{< wiki-link "Studio C Cappa" >}} stage. The stage was formerly a standard Cappa stage, however, it was remodeled at some point between Late 2017 and Late 2018, removing the bluescreen and the TVs to the left of Chuck's stage and replacing it with a blue wall with 3 flatscreen TVs with LED backlighting and a CEC emblem which is also backlit. The wall to the right of Chuck was also painted green. The Chuck E. animatronic no longer moves most likely due to the end to Studio C programming in 2022 but is in decent cosmetical condition.
 
-  Stage                                    Installed   Whereabouts
-  ---------------------------------------- ----------- -------------
-  {{< wiki-link "Studio C Cappa" >}}   2004        In store.
+| Stage                                    | Installed | Whereabouts |
+|------------------------------------------|-----------|-------------|
+| {{< wiki-link "Studio C Cappa" >}} | 2004      | In store.   |
 
 ## History
 
@@ -27,16 +29,16 @@ The store opened on August 19th, 2004, presumably right around the 2003 'Cool Ch
 
 ## Videos
 
-  Video   Description   Day Filmed   Day released
-  ------- ------------- ------------ --------------
-                                     
-                                     
-                                     
+| Video | Description | Day Filmed | Day released |
+|-------|-------------|------------|--------------|
+|       |             |            |              |
+|       |             |            |              |
+|       |             |            |              |
 
 ## Animatronics
 
-  Animatronic                                                Whereabouts
-  ---------------------------------------------------------- ------------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   In store. No movement.
+| Animatronic                                                | Whereabouts            |
+|------------------------------------------------------------|------------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | In store. No movement. |
 
 citations go here automatically if you use them in the editor

@@ -3,14 +3,16 @@ title = "Winter Park, FL (1997 Aloma Ave)"
 draft = false
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = "1981-01-26"
 endDate = "1984-02-00"
 contributors = ["CEC Kokomo","ChuckECool","Tux Chuck"]
 citations = []
 latitudeLongitude = ["28.59929262","-81.32612393"]
 +++
-***1997 Aloma Ave* was a *Chuck E. Cheese's Pizza Time Theatre* that opened on January 26, 1981, and closed in February 1984 (day unknown) with a {{< wiki-link "Cyberamics Balcony Stage" >}}.
-This was the first Chuck E. Cheese's to open in all of Florida, not counting ShowBiz Pizzas.**
+
+***1997 Aloma Ave*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened on January 26, 1981, and closed in February 1984 (day unknown) with a {{< wiki-link "Cyberamics Balcony Stage" >}}. This was the first Chuck E. Cheese's to open in all of Florida, not counting ShowBiz Pizzas.
 
 ## Stage
 
@@ -22,14 +24,14 @@ Winter Park opened on January 26th, 1981, with a {{< wiki-link "Cyberamics Balco
 
 ## Animatronics
 
-  Animatronic                                                  Manufacture Date   Whereabouts
-  ------------------------------------------------------------ ------------------ ------------------------------------------------------------------------
-  {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}           1980               Unknown
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   1980               Was Madame Oink, then Harmony Howlette, then Madame Oink again, Unkown
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 1980               Unknown
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           1980               Unknown
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                1980               Unknown
-  {{< wiki-link "Warblettes (Cyberamic)" >}}               1980               Unknown
-  {{< wiki-link "Applause Board (Cyberamic)" >}}           1980               Unknown
-  {{< wiki-link "Drum Board (Cyberamic)" >}}               1980               Unknown
-  {{< wiki-link "Flag Wavers (Cyberamic)" >}}              1980               Unknown
+| Animatronic                                                  | Manufacture Date | Whereabouts                                                            |
+|--------------------------------------------------------------|------------------|------------------------------------------------------------------------|
+| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | 1980             | Unknown                                                                |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980             | Was Madame Oink, then Harmony Howlette, then Madame Oink again, Unkown |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980             | Unknown                                                                |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980             | Unknown                                                                |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980             | Unknown                                                                |
+| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1980             | Unknown                                                                |
+| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1980             | Unknown                                                                |
+| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1980             | Unknown                                                                |
+| {{< wiki-link "Flag Wavers (Cyberamic)" >}}            | 1980             | Unknown                                                                |

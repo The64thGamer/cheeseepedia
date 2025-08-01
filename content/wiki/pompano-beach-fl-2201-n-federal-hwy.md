@@ -3,6 +3,8 @@ title = "Pompano Beach, FL (2201 N Federal Hwy)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2014-11-17"
 endDate = ""
 contributors = ["CECBowlingGreen","ThatBoiCydalan"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "NOfGOEl8Ss2m_xwfpwfv.avif"
 latitudeLongitude = ["26.25604812","-80.10370908"]
 +++
-***Pompano Beach, FL (2201 N Federal Hwy), Store #789* is a *Chuck E. Cheese's* that opened on November 17, 2014 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day.
-This location received the 2.0 Remodel in February 2022, keeping the COL, being the only location to completely keep the stage (West Palm Beach got 2.0 in March 2022, but they removed the 32M Chuck E. Bot).**
+
+***Pompano Beach, FL (2201 N Federal Hwy), Store #789*** is a *Chuck E. Cheese's* that opened on November 17, 2014 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day. This location received the 2.0 Remodel in February 2022, keeping the COL, being the only location to completely keep the stage (West Palm Beach got 2.0 in March 2022, but they removed the 32M Chuck E. Bot).
 
 ## History
 
@@ -21,10 +23,10 @@ TODO
 
 Originally when the store opened, they had a Circles of Light with no Chuck E. bot, which they still have. Pompano Beach received 2.0 in February 2022, but for some reason kept the COL, but also added a Dance Floor, which is also strange as it is the 2019 Model, not the 2021 Model, as most 2.0's got at the time and continuing today. As of September 2022, they still have the Circles of Light and 2019 Dance Floor.
 
-  Stage              Installed       Removed        Notes
-  ------------------ --------------- -------------- -------------------------------
-  Circles of Light   November 2014   Still In Use   Received 2.0 in February 2022
-  Dance Floor        February 2022   Still In Use   2019 Model
+| Stage            | Installed     | Removed      | Notes                         |
+|------------------|---------------|--------------|-------------------------------|
+| Circles of Light | November 2014 | Still In Use | Received 2.0 in February 2022 |
+| Dance Floor      | February 2022 | Still In Use | 2019 Model                    |
 
 ## Arcade Machines
 
@@ -62,7 +64,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 - Eiffel Tower
 - Ring Toss
 - Crossbow Master: Chuck E. Cheese's
-- Fast & Furious SuperCars
+- Fast &amp; Furious SuperCars
 - 2 Minute Drill
 - Baseball Pro
 - The Sideshow
@@ -105,7 +107,7 @@ TODO
 
 ## Videos
 
-  Link                                   Description                   Filming Date
-  -------------------------------------- ----------------------------- ------------------
-  [Link](https://youtu.be/P_BnS9WcqCY)   Store Tour (2022)             April 17th, 2022
-  [Link](https://youtu.be/Hx1sjVmoFz8)   Complete Arcade Tour (2023)   June 11th, 2023
+| Link                                 | Description                 | Filming Date     |
+|--------------------------------------|-----------------------------|------------------|
+| [Link](https://youtu.be/P_BnS9WcqCY) | Store Tour (2022)           | April 17th, 2022 |
+| [Link](https://youtu.be/Hx1sjVmoFz8) | Complete Arcade Tour (2023) | June 11th, 2023  |

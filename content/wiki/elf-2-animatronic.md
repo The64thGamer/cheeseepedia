@@ -5,11 +5,12 @@ startDate = "1977-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["Kathydra"]
-citations = ["[The Jingle Bell Jamboree 1977](%22https://www.youtube.com/watch?v=P_xrIayIsV8%22)", "[https://www.showbizpizza.com/events/index.html](%22https://www.showbizpizza.com/events/index.html%22)", "[Santa Claus Revue 2006](%22https://www.youtube.com/watch?v=gXRLC910FQA%22)"]
+citations = ["<a href=\"https://www.youtube.com/watch?v=P_xrIayIsV8\">The Jingle Bell Jamboree 1977</a>", "<a href=\"https://www.showbizpizza.com/events/index.html\">https://www.showbizpizza.com/events/index.html</a>", "<a href=\"https://www.youtube.com/watch?v=gXRLC910FQA\">Santa Claus Revue 2006</a>"]
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 +++
-***Satchemo* was the horn player from The Santa Claus Revue.**
+
+***Satchemo*** was the horn player from The Santa Claus Revue.
 
 ## History
 
@@ -21,16 +22,4 @@ He is Elf with large eyes and bushy eyebrow; he wore a festive outfit with a San
 
 ## Movements
 
-## The animatronic got 5 movements, but during the remodeling, it lost 1 movement: the eye popped out, but, the leg got a tap movement during the remodeling. (3)
-
-Movement
-
-Eyes
-
-Head Turn Right
-
-Head Turn Left
-
-Arms
-
-Body Turn up
+## The animatronic got 5 movements, but during the remodeling, it lost 1 movement: the eye popped out, but, the leg got a tap movement during the remodeling. (3) | Movement | |-----------------| | Eyes | | Head Turn Right | | Head Turn Left | | Arms | | Body Turn up | | |
