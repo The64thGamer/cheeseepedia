@@ -12,7 +12,6 @@ categories = ["Chuck E. Cheese's"]
 **KIDZ BOP Nightly Takeover 2025** ran from July 7, 2025 - September 7, 2025 and was sponsored by Kidz Bop
 
 ## Schedule 07/28 Update: 
-
 1. Zigazoo Star Showcase Spot - 'DJ Munch Friendship Never Ends 2024' 
 2. Harlem Globetrotters - 'Ways We Celebrate' 
 3. KIDZ BOP Nightly Takeover Spot 7 
@@ -76,7 +75,6 @@ categories = ["Chuck E. Cheese's"]
 10. Chuck E. Cheese - ‘Join the Party’
 
 ## Schedule 07/21 Update: 
-
 1. Zigazoo Star Showcase Spot - 'Chuck E. Bop' 
 2. Harlem Globetrotters - 'Ways We Celebrate' 
 3. KIDZ BOP Nightly Takeover Spot 7 
@@ -140,7 +138,6 @@ categories = ["Chuck E. Cheese's"]
 10. Chuck E. Cheese - ‘Join the Party’
 
 ## Schedule: 
-
 1. Zigazoo Star Showcase Spot - 'Chuck E. Bop' 
 2. Harlem Globetrotters - 'Ways We Celebrate' 
 3. KIDZ BOP Nightly Takeover Spot 7 
