@@ -12,7 +12,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-The 1-Stage is a stage format found at Chuck E. Cheese's locations which either opened with the stage or replaced a previous stage from 1992 - 1998, 2011, and 2015. It was the last official Munch's Make-Believe Band stage created. As of April 2025, 4 1-Stages are remaining. 3 are in the United States, and 1 are in Chile.
+The 1-Stage is a stage format found at Chuck E. Cheese's locations which either opened with the stage or replaced a previous stage from 1992 - 1998, 2011, and 2015. It was the last official Munch's Make-Believe Band stage created. As of April 2025, 2 1-Stages are remaining. The final two are in the United States.
 
 ## Appearance
 
@@ -22,15 +22,15 @@ The Mini Unit 1-Stage was the very first variation of the 1-Stage. It debuted at
 
 ### Staten Island Prototype 1-Stage
 
-This design was only installed at the Staten Island, New York location. Although more were planned going off of documents for {{< wiki-link "Akron, OH (2779 West Market St)" >}} it featured a large square with a star inside it with a Green, Yellow, Red and Blue behind Chuck E, the rest of the stage would feature buildings from the 2-Stage with them being layered to give depth to the stage, Behind Munch would be a light pink column with half buildings around it on the top portion would feature a CRT TV. Located behind Pasqually, a postcard reading 'Now Appearing' with the Munch's Make Believe Band logo beneath it, the background for it features Mr. Munch playing piano keys in a hill-like shape. The Wink would be installed on a black valance. Before fall 2012, this stage formerly featured a pull-out stage for live shows. It would be removed due to Hurricane Sand,y which caused severe damage to it. {{< wiki-link "Staten Island, NY (1775-P South Ave)" >}} stage was removed on July 23, 2023.
+This design was only installed at the Staten Island, New York location. Although more were planned going off of documents for {{< wiki-link "Akron, OH (2779 West Market St)" >}} it featured a large square with a star inside it with a Green, Yellow, Red and Blue behind Chuck E, the rest of the stage would feature buildings from the 2-Stage with them being layered to give depth to the stage, Behind Munch would be a light pink column with half buildings around it on the top portion would feature a CRT TV. Located behind Pasqually, a postcard reading 'Now Appearing' with the Munch's Make Believe Band logo beneath it, the background for it features Mr. Munch playing piano keys in a hill-like shape. The Wink would be installed on a black valance. Before fall 2012, this stage formerly featured a pull-out stage for live shows. It would be removed due to Hurricane Sandy ,which caused severe damage to it. {{< wiki-link "Staten Island, NY (1775-P South Ave)" >}} stage was removed on July 23, 2023.
 
 ### 1-Stage
 
-The 1-Stage's features a colorful city skyline with red, green, yellow, and blue buildings. Below the buildings are half faux brick walls. Chuck E. and Pasqually in front of faux brick walls with Chuck having a fiber optic 'Chuck E. Cheese' sign with metal pipes that have red and blue fiber optic lights in them. Pasqually sits in front of a blank brick wall. The Wink sits on a black, green, or blue valance. Currently only four 1-Stages remain.
+The 1-Stage's features a colorful city skyline with red, green, yellow, and blue buildings. Below the buildings are half faux brick walls. Chuck E. and Pasqually in front of faux brick walls with Chuck having a fiber optic 'Chuck E. Cheese' sign with metal pipes that have red and blue fiber optic lights in them. Pasqually sits in front of a blank brick wall. The Wink sits on a black, green, or blue valance. Currently only two 1-Stages remain. 
 
 ### 1-Stage w/ Turntable
 
-The 1-Stage w/ Turntable is identical to the standard 1-Stage, except that Chuck E. stands on a turntable. The turntable has two sides the Chuck E. side and the black rain curtain side. The Chuck E. side features the Brick Wall, and lighting effects the standard one does, and the black rain curtain side features only a black, red, or blue rain curtain. The turntable would turn around for live shows from 1994 - 2010. The Chuck E. animatronic would then turn into the backroom and the walkaround would either come out the other side or he would come out of the door next to the stage. The last location to feature the 1-Stage w/ Turntable is {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}}) which removed the Chuck E. animatronic in 2016, permanently having it rotated.
+The 1-Stage w/ Turntable is identical to the standard 1-Stage, except that Chuck E. stands on a turntable. The turntable has two sides the Chuck E. side and the black rain curtain side. The Chuck E. side features the Brick Wall, and lighting effects the standard one does, and the black rain curtain side features only a black, red, or blue rain curtain. The turntable would turn around for live shows from 1994 - 2010. The Chuck E. animatronic would then turn into the backroom and the walkaround would either come out the other side or he would come out of the door next to the stage. The last location to feature the 1-Stage w/ Turntable is {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}}) which removed the Chuck E. animatronic in 2016, permanently having it rotated. The store would close August 10, 2025.
 
 ### 1-Stage w/ 2-Stage Backdrops
 
@@ -47,17 +47,13 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 
 | Location                                                                   | Debuted           | Version              | Condition / Notes                                                                                                     |
 |----------------------------------------------------------------------------|-------------------|----------------------|-----------------------------------------------------------------------------------------------------------------------|
-|                                                                            |                   |                      |                                                                                                                       |
 | {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | September 6, 1993 | 1-Stage              | Decent condition. Last Cyberamics in Ohio.                                                                            |
 | {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | January 24, 1994  | 1-Stage              | Perfect condition. Last Cyberamics in New York. One of six animatronic stages being saved for 'Legacy Stores'.        |
-| {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}                 | December 1994     | 1-Stage              | Good Condition. The turntable was removed in 2008, the Last Cyberamic stage in Chile.                                 |
-| {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}})   | December 1994     | 1-Stage w/ Turntable | Poor condition. Chuck E. bot was removed, and the turntable turned around with a TV on it. Only Cyberamics in Hawaii. |
 
 ## Former 1-Stages
 
 | Location                                                                 | Debuted            | Removed                                    | Version                      |
 |--------------------------------------------------------------------------|--------------------|--------------------------------------------|------------------------------|
-|                                                                          |                    |                                            |                              |
 | {{< wiki-link "Waldorf, MD (2928 Festival Way)" >}}                | March 24, 1992     | 2000                                       | Mini Unit 1-Stage            |
 | {{< wiki-link "Columbus, OH (3631 Soldano Blvd)" >}}               | November 24, 1992  | November 2022                              | Mini Unit 1-Stage            |
 | {{< wiki-link "Lancaster, CA (44650 Valley Central Way)" >}}       | March 08, 1993     | March 13, 2011                             | Mini Unit 1-Stage            |
@@ -94,6 +90,8 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 | {{< wiki-link "Dublin, CA (7447 Amador Valley Blvd)" >}}           | August 01, 1994    | January 07, 2024                           | 1-Stage w/ Turntable         |
 | {{< wiki-link "East Hanover, NJ (145 Route 10)" >}}                | October 31, 1994   | October 2022                               | 1-Stage                      |
 | {{< wiki-link "North Dartmouth, MA (412-418 State Rd)" >}}         | December 05, 1994  | September 17, 2023                         | 1-Stage                      |
+| {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}                 | December 1994     | August 10, 2025 | 1-Stage      |
+| {{< wiki-link "Pearl City, HI (850 Kamehameha Hwy Suite 140)" >}})   | December 1994     | August 10, 2025 | 1-Stage w/ Turntable |
 | {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}}                | 1994               | 2019 (Turntable removed between 2002-2006) | 1-Stage w/ Turntable         |
 | {{< wiki-link "Ellisville, MO (15913 Manchester Rd)" >}}           | 1994               | 2005                                       | 1-Stage w/ Turntable         |
 | {{< wiki-link "West Allis, WI (2990 South 108th Ave)" >}}          | 1994               | August 2021 (Turntable removed in 2008)    | 1-Stage w/ Turntable         |
