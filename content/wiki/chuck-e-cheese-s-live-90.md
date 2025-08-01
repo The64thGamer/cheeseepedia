@@ -3,16 +3,18 @@ title = "Chuck E. Cheese's Live 90"
 draft = false
 tags = ["Live Shows"]
 categories = [""]
+
+
 startDate = "1990-00-00"
 endDate = "0000-00-00"
 contributors = ["Documentor","The 64th Gamer"]
-citations = ["[https://www.youtube.com/watch?v=7fFr8LQnoC0](%22https://www.youtube.com/watch?v=7fFr8LQnoC0%22)"]
+citations = ["<a href=\"https://www.youtube.com/watch?v=7fFr8LQnoC0\">https://www.youtube.com/watch?v=7fFr8LQnoC0</a>"]
 mediaDuration = "7:32"
 pageThumbnailFile = "t02zZfvxFldAQPZIWoct.avif"
 showtapeFormats = ["3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 +++
-***Chuck E. Cheese's Live 90* is a live show released December 1990.
-This show ran from December 1990 - July 1993.**
+
+***Chuck E. Cheese's Live 90*** is a live show released December 1990. This show ran from December 1990 - July 1993.
 
 ## Summary
 
@@ -20,13 +22,13 @@ This was the first officially released live show created for Munch's Make Believ
 
 ## Showtape Releases:
 
-  Release Year   Showtape                               Format
-  -------------- -------------------------------------- -------------------
-  1990           VHS Tape - December 1990 - July 1993   3stage, Cyberamic
-                                                        
+| Release Year | Showtape                             | Format            |
+|--------------|--------------------------------------|-------------------|
+| 1990         | VHS Tape - December 1990 - July 1993 | 3stage, Cyberamic |
+|              |                                      |                   |
 
 ## Live Trivia:
 
 - This live show features no countdown.
-- The training material for this show features Jeremy Blaido in his first role with the company relating to show production.<sup>(1)</sup>
+- The training material for this show features Jeremy Blaido in his first role with the company relating to show production.(1)
 - This was the first live show programmed for MMBB stages which at this point would be 3stages and Road Stages.

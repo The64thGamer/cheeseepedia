@@ -3,21 +3,24 @@ title = "Concepcion, Chile"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2012-08-18"
 endDate = ""
 contributors = ["CorrectorMan","ThatBoiCydalan"]
 citations = []
 latitudeLongitude = ["-36.8885417","-73.0841332"]
 +++
-***Concepcion, Chile (Av. los Carrera 301), Store #3224* is a Chuck E. Cheese's that opened on August 18, 2012 and is still open to this day with a Studio C Beta, 16M. This location is known for being the last location to open with a Studio C Beta as of July 2023.**
+
+***Concepcion, Chile (Av. los Carrera 301), Store #3224*** is a Chuck E. Cheese's that opened on August 18, 2012 and is still open to this day with a Studio C Beta, 16M. This location is known for being the last location to open with a Studio C Beta as of July 2023.
 
 ## Stages
 
 Concepción opened with a Studio C Beta, 16M, being the last location to open with this stage. Not much changed throughout the stage's history. Basically the only major change was on September 19, 2022, when Studio C ceased programming. As of July 2023, Concepción's stage still remains like this.
 
-  Stage                                        Installed     Removed        Notes
-  -------------------------------------------- ------------- -------------- ---------------------------------------------
-  {{< wiki-link "Studio C Beta" >}}, 16M   August 2012   Still in use   Last location to open with a Studio C Beta.
+| Stage                                        | Installed   | Removed      | Notes                                       |
+|----------------------------------------------|-------------|--------------|---------------------------------------------|
+| {{< wiki-link "Studio C Beta" >}}, 16M | August 2012 | Still in use | Last location to open with a Studio C Beta. |
 
 ## History
 
@@ -25,6 +28,6 @@ Concepción opened on August 18, 2012 as the first CEC to open in the Rockstar e
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Wheareabouts
-  ---------------------------------------------------------- --------------- ------------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A             Currently in use
+| Animatronic                                                | Serial Number | Wheareabouts     |
+|------------------------------------------------------------|---------------|------------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Currently in use |

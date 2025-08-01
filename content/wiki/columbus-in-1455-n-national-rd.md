@@ -3,14 +3,17 @@ title = "Columbus, IN (1455 N National Rd)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2004-12-08"
 endDate = "2023-10-08"
 contributors = ["Cheeseclassic","ThatBoiCydalan","Caydenpedia"]
-citations = ["[https://www.therepublic.com/2023/10/04/columbus-chuck-e-cheese-to-close-after-this-weekend/](%22https://www.therepublic.com/2023/10/04/columbus-chuck-e-cheese-to-close-after-this-weekend/%22)"]
+citations = ["<a href=\"https://www.therepublic.com/2023/10/04/columbus-chuck-e-cheese-to-close-after-this-weekend/\">https://www.therepublic.com/2023/10/04/columbus-chuck-e-cheese-to-close-after-this-weekend/</a>"]
 pageThumbnailFile = "Csy34mwDoe_W2sM4rVcw.avif"
 latitudeLongitude = ["39.21335082","-85.88190913"]
 +++
-***Columbus, IN (1455 N National Rd), Store #670* was a *Chuck E. Cheese's* that opened on December 8, 2004, with a {{< wiki-link "Studio C Cappa" >}}, and closed on October 8, 2023<sup>(1)</sup> due to unknown reasons.**
+
+***Columbus, IN (1455 N National Rd), Store #670*** was a *Chuck E. Cheese's* that opened on December 8, 2004, with a {{< wiki-link "Studio C Cappa" >}}, and closed on October 8, 2023(1) due to unknown reasons.
 
 ## History
 
@@ -18,12 +21,12 @@ The Columbus, Indiana location opened in December 2004 as a Phase 3 store with a
 
 ## Stages
 
-  Stage                                    Installed       Removed        Notes
-  ---------------------------------------- --------------- -------------- -------------------------------------------------------------
-  {{< wiki-link "Studio C Cappa" >}}   December 2004   October 2023   One of 4 Studio C Cappas installed in the state of Indiana.
+| Stage                                    | Installed     | Removed      | Notes                                                       |
+|------------------------------------------|---------------|--------------|-------------------------------------------------------------|
+| {{< wiki-link "Studio C Cappa" >}} | December 2004 | October 2023 | One of 4 Studio C Cappas installed in the state of Indiana. |
 
 ## Animatronics
 
-  Animatronic                                                Serial   Whereabouts
-  ---------------------------------------------------------- -------- -------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A      Unknown.
+| Animatronic                                                | Serial | Whereabouts |
+|------------------------------------------------------------|--------|-------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Unknown.    |

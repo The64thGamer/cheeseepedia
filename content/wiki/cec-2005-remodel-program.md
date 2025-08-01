@@ -9,6 +9,7 @@ contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","2603:8001:8001:
 citations = []
 pageThumbnailFile = "fKyyymyR_xIlVMLX2OIQ.avif"
 +++
+
 The **CEC 2000's Remodel Program** is a remodel of CEC restaurants that began in 2003 and since stopped in 2015.
 
 ## History
@@ -29,11 +30,11 @@ The game room in most cases were expanded, some remodels sacrificing space from 
 
 ### Updates
 
-  Item                                2003      2005      2010      2013
-  ----------------------------------- --------- --------- --------- ---------
-  Complete Exterior Remodel           Yes       Yes       Yes       Yes
-  New interior paint job              Yes       Yes       Yes       Yes
-  Facelift For Counters               Limited   Limited   Yes       Yes
-  New Fixtures                        Limited   Yes       Yes       Yes
-  New Booths                          Limited   Yes       Yes       Yes
-  Installation of new animated show   Limited   Limited   Limited   Limited
+| Item                              | 2003    | 2005    | 2010    | 2013    |
+|-----------------------------------|---------|---------|---------|---------|
+| Complete Exterior Remodel         | Yes     | Yes     | Yes     | Yes     |
+| New interior paint job            | Yes     | Yes     | Yes     | Yes     |
+| Facelift For Counters             | Limited | Limited | Yes     | Yes     |
+| New Fixtures                      | Limited | Yes     | Yes     | Yes     |
+| New Booths                        | Limited | Yes     | Yes     | Yes     |
+| Installation of new animated show | Limited | Limited | Limited | Limited |

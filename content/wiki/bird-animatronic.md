@@ -3,6 +3,8 @@ title = "Bird (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "1998-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","EagleScout610","Ceclife13","Documentor","CoolerDude"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "6EEpxltNdyqI8ZQdBNbt.avif"
 manufacturer = "Garner Holt Productions"
 +++
-The **Bird Animatronic** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations from 1997 to 2002
-The bot is a mostly green parrot with wings that are red, orange, and yellow sitting on a perch. He was only installed on the {{< wiki-link "Studio C Alpha" >}} and Studio C Prototype stage.
+
+The **Bird Animatronic** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations from 1997 to 2002 The bot is a mostly green parrot with wings that are red, orange, and yellow sitting on a perch. He was only installed on the {{< wiki-link "Studio C Alpha" >}} and Studio C Prototype stage.
 
 ## History
 
@@ -21,12 +23,12 @@ The {{< wiki-link "Studio C" >}} concept originally debuted in December of 1997 
 
 The bot features 4 movements in total.
 
-  Movement
-  -----------------
-  Beak
-  Body Up
-  Body Turn Right
-  Wings Up
+| Movement        |
+|-----------------|
+| Beak            |
+| Body Up         |
+| Body Turn Right |
+| Wings Up        |
 
 ## Stages Used In
 

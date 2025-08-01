@@ -3,12 +3,15 @@ title = "St. Louis River Revue"
 draft = false
 tags = ["Animatronic Shows"]
 categories = ["Creative Presentations"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["Lelmaster"]
-citations = ["[https://youtu.be/3ZllmEWgUoQ](%22https://youtu.be/3ZllmEWgUoQ%22)"]
+citations = ["<a href=\"https://youtu.be/3ZllmEWgUoQ\">https://youtu.be/3ZllmEWgUoQ</a>"]
 +++
-The Saint Louis River Revue is a show created by Landmark Entertainment Group for the SS Admiral entertainment complex, owned by Six Flags at the time. It was located in the Birdland Theater, which was created for this show. Ted King produced this soundtrack as well as providing the voices to characters Mudbank McGee (singer of Jambalaya) along with the Scatbird, Louie Wails was voiced by [Lewis Arquette](https://en.wikipedia.org/wiki/Lewis_Arquette), and Beth Lawrence brought the voice to the character that sings Proud Mary. The animatronics were produced by Creative Presentations Inc. This show's premise was the musical hits of Saint Louis performed by a large cast of birds.<sup>(1)</sup>
+
+The Saint Louis River Revue is a show created by Landmark Entertainment Group for the SS Admiral entertainment complex, owned by Six Flags at the time. It was located in the Birdland Theater, which was created for this show. Ted King produced this soundtrack as well as providing the voices to characters Mudbank McGee (singer of Jambalaya) along with the Scatbird, Louie Wails was voiced by [Lewis Arquette](https://en.wikipedia.org/wiki/Lewis_Arquette), and Beth Lawrence brought the voice to the character that sings Proud Mary. The animatronics were produced by Creative Presentations Inc. This show’s premise was the musical hits of Saint Louis performed by a large cast of birds.(1)
 
 ## Characters
 
@@ -64,9 +67,9 @@ Not much info is available, but they were likely similar to Fifi La Mue from The
 
 ## Videos
 
-  Link                                                  Description                         Filming Date
-  ----------------------------------------------------- ----------------------------------- --------------
-  [Link](https://www.youtube.com/watch?v=Sq1FScQd_ks)   A full St. Louis River Revue show   ~1986
-  [Link](https://youtu.be/2YxWKFEvf64)                  A demo for the Pre-Show             Unknown
+| Link                                                | Description                       | Filming Date |
+|-----------------------------------------------------|-----------------------------------|--------------|
+| [Link](https://www.youtube.com/watch?v=Sq1FScQd_ks) | A full St. Louis River Revue show | ~1986        |
+| [Link](https://youtu.be/2YxWKFEvf64)                | A demo for the Pre-Show           | Unknown      |
 
-https://youtu.be/b_L3v3LnhPk?t=242
+https://youtu.be/b\_L3v3LnhPk?t=242

@@ -3,12 +3,15 @@ title = "Beach Bear"
 draft = false
 tags = ["Characters"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["CECMentor"]
 citations = []
 +++
-***Beach Bear* is one of the main characters of the ShowBiz Pizza Place franchise, having made his debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.**
+
+***Beach Bear*** is one of the main characters of the ShowBiz Pizza Place franchise, having made his debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.
 
 ## History
 
@@ -26,7 +29,7 @@ After {{< wiki-link "Concept Unification" >}}, Creative Engineering wanted to fi
 
 ## Animatronics
 
-  Types                                              Years Produced   Notes                                                             Status
-  -------------------------------------------------- ---------------- ----------------------------------------------------------------- ---------------------------------------
-  {{< wiki-link "Beach Bear (Animatronic)" >}}   1980-1983        Retrofitted during {{< wiki-link "Concept Unification" >}}.   Several publicly and privately owned.
-  {{< wiki-link "Beach Bear (Mijjin)" >}}        1992-1993        The most advanced Beach Bear animatronic to date.                 None public as of 2024.
+| Types                                              | Years Produced | Notes                                                             | Status                                |
+|----------------------------------------------------|----------------|-------------------------------------------------------------------|---------------------------------------|
+| {{< wiki-link "Beach Bear (Animatronic)" >}} | 1980-1983      | Retrofitted during {{< wiki-link "Concept Unification" >}}. | Several publicly and privately owned. |
+| {{< wiki-link "Beach Bear (Mijjin)" >}}      | 1992-1993      | The most advanced Beach Bear animatronic to date.                 | None public as of 2024.               |

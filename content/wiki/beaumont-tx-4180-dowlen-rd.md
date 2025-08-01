@@ -3,14 +3,16 @@ title = "Beaumont, TX (4180 Dowlen Rd)"
 draft = false
 tags = ["Locations"]
 categories = []
+
+
 startDate = "2001-06-20"
 endDate = ""
 contributors = ["Blowseborg062"]
 citations = []
 pageThumbnailFile = "iXD6n3SF5ehognEuMdx0.avif"
 +++
-***4180 Dowlen Rd, Store #930* is a Chuck E. Cheese's that opened on June 20th, 2001 with a Studio C Beta, 32m. They received the 2.0 remodel in November 2019. It is a freestanding building in the Parkdale Place Shopping Center.
-This is not to be confused with the *Pizza Time Theatre* on {{< wiki-link "Beaumont, TX (5874 Eastex Fwy)" >}} which opened in 1982 (Unknown Month & Day) & closed in 1985 (Unknown Month & Day) with a {{< wiki-link "Cyberamics Balcony Stage" >}}.**
+
+***4180 Dowlen Rd, Store #930*** is a Chuck E. Cheese’s that opened on June 20th, 2001 with a Studio C Beta, 32m. They received the 2.0 remodel in November 2019. It is a freestanding building in the Parkdale Place Shopping Center. This is not to be confused with the *Pizza Time Theatre* on {{< wiki-link "Beaumont, TX (5874 Eastex Fwy)" >}} which opened in 1982 (Unknown Month &amp; Day) &amp; closed in 1985 (Unknown Month &amp; Day) with a {{< wiki-link "Cyberamics Balcony Stage" >}}.
 
 ## History
 
@@ -20,10 +22,10 @@ Beaumont opened on June 20th, 2001 in a freestanding building in the Parkdale Pl
 
 Originally when the store opened, they had a Studio C Beta. They got the 2.0 Remodel in November 2019, replacing the Beta with a 2019 model Dance Floor. As of August 2023, they still have this remodel.
 
-  Stage                                                      Installed       Removed         Notes
-  ---------------------------------------------------------- --------------- --------------- -------------------------------------------------------------------------
-  Studio C Beta, 32m                                         June 2001       November 2019   One of 21 installed in Texas (One of 10 32m installations in the state)
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   November 2019   Still in Use    2019 Model.
+| Stage                                                      | Installed     | Removed       | Notes                                                                   |
+|------------------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------|
+| Studio C Beta, 32m                                         | June 2001     | November 2019 | One of 21 installed in Texas (One of 10 32m installations in the state) |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | November 2019 | Still in Use  | 2019 Model.                                                             |
 
 TODO
 

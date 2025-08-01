@@ -3,6 +3,8 @@ title = "Largo, MD (1100 Shoppers Way)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2004-02-06"
 endDate = ""
 contributors = ["PachCEC","Cheeseclassic","Cecanddisneyfan2004"]
@@ -10,16 +12,17 @@ citations = []
 pageThumbnailFile = "EbBOrQqbWswqXDJqTV9h.avif"
 latitudeLongitude = ["38.90398252","-76.84970833"]
 +++
-***Largo, MD (1100 Shoppers Way)* is a *Chuck E. Cheese* which opened on February 6, 2004, with a {{< wiki-link "Studio C Beta" >}}, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.**
+
+***Largo, MD (1100 Shoppers Way)*** is a *Chuck E. Cheese* which opened on February 6, 2004, with a {{< wiki-link "Studio C Beta" >}}, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 
 ## Stages and Animatronics
 
 Largo opened with a Studio C Beta {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. It received the 2.0 remodel in 2023.
 
-  Stage                                                      Installed   Removed        Status
-  ---------------------------------------------------------- ----------- -------------- --------------
-  {{< wiki-link "Studio C Beta" >}}                      2004        Late 2023      Destroyed
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   Late 2023   Still in Use   Still in use
+| Stage                                                      | Installed | Removed      | Status       |
+|------------------------------------------------------------|-----------|--------------|--------------|
+| {{< wiki-link "Studio C Beta" >}}                    | 2004      | Late 2023    | Destroyed    |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | Late 2023 | Still in Use | Still in use |
 
 ## History
 
@@ -27,6 +30,6 @@ Largo opened on February 6, 2004 as a Phase 3 store on the Capital Center Boulev
 
 ## Videos
 
-  Video                                    Link                                             
-  ---------------------------------------- --------------------------------------------- -- --
-  Chuck E. Cheese's Largo MD Store Tour   https://www.youtube.com/watch?v=03pcoNeXMw0      
+| Video                                 | Link                                        |   |   |
+|---------------------------------------|---------------------------------------------|---|---|
+| Chuck E. Cheese's Largo MD Store Tour | https://www.youtube.com/watch?v=03pcoNeXMw0 |   |   |

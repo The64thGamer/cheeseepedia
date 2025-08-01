@@ -3,11 +3,14 @@ title = "Cyberamic 3-Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen","Shmigobuff","174.105.208.49","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","168.69.254.249","2600:6C44:97F:D312:FD2A:F6C4:46CE:6792","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","Documentor"]
 citations = []
 +++
+
 The **Cyberamic 3-Stage** was a stage format found at the {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}} Chuck E. Cheese's location. Lynnwood had a normal 3-Stage, but replaced the CEI bots with Cyberamics from the Spokane, Washington store in 2000, since Spokane relocated. Springfield, Massachusetts also installed this stage in late 2017, but Springfield permanently closed during the COVID-19 pandemic in 2020.
 
 ## History
@@ -52,7 +55,7 @@ Stage Left featured Pasqually. Pizzacam was removed years before converting to C
 
 ## All Installed Cyberamic 3-Stages
 
-  Location                                    Address                   Installed   Removed   Condition / Notes
-  ------------------------------------------- ------------------------- ----------- --------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Lynnwood, Washington, United States         3717 196th St Suite 100   2000        2023      Final Cyberamic 3-Stage (also the first one). PTT Jasper Mask, 90's Helen mask. Bots, Munch's organ, Pasqually's drums, 2-Stage star, buildings, and neon sign from Spokane, Washington, which closed and relocated in 2000. Lynnwood closed in July 2023.
-  Springfield, Massachusetts, United States   1716 Boston Rd            2017        2020      Second Cyberamic 3-Stage. Munch's organ, possibily Pasqually's drums, & 2-Stage building from Burlington, Massachusetts which closed on July 16, 2017. Springfield closed in June 2020, during the COVID-19 Pandemic.
+| Location                                  | Address                 | Installed | Removed | Condition / Notes                                                                                                                                                                                                                                          |
+|-------------------------------------------|-------------------------|-----------|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Lynnwood, Washington, United States       | 3717 196th St Suite 100 | 2000      | 2023    | Final Cyberamic 3-Stage (also the first one). PTT Jasper Mask, 90's Helen mask. Bots, Munch's organ, Pasqually's drums, 2-Stage star, buildings, and neon sign from Spokane, Washington, which closed and relocated in 2000. Lynnwood closed in July 2023. |
+| Springfield, Massachusetts, United States | 1716 Boston Rd          | 2017      | 2020    | Second Cyberamic 3-Stage. Munch's organ, possibily Pasqually's drums, &amp; 2-Stage building from Burlington, Massachusetts which closed on July 16, 2017. Springfield closed in June 2020, during the COVID-19 Pandemic.                                  |

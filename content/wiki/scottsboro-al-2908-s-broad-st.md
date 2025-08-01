@@ -6,10 +6,11 @@ categories = ["Creative Engineering"]
 startDate = "1990-00-00"
 endDate = ""
 contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
-citations = ["[https://www.youtube.com/watch?v=eTY3GuEOTX4](%22https://www.youtube.com/watch?v=eTY3GuEOTX4%22)"]
+citations = ["<a href=\"https://www.youtube.com/watch?v=eTY3GuEOTX4\">https://www.youtube.com/watch?v=eTY3GuEOTX4</a>"]
 pageThumbnailFile = "yPnXQTg52y5eZWexn04A.avif"
 +++
-***(2908 S Broad St)* was an Pizza Party USA that opened in the late 1990's with a {{< wiki-link "Classic Stage" >}}.<sup>(1)</sup> It closed at an unknown date.**
+
+***(2908 S Broad St)*** was an Pizza Party USA that opened in the late 1990's with a {{< wiki-link "Classic Stage" >}}.(1) It closed at an unknown date.
 
 ## History
 
@@ -17,7 +18,7 @@ The store would be opened by Gana Garner sometime in the late 1990's with a Rock
 
 ## Videos
 
-  Link                                                        Description                                             Filming Date
-  ----------------------------------------------------------- ------------------------------------------------------- --------------
-  [link](https://www.youtube.com/watch?v=BSZOjW5F31o&t=66s)   The RAE playing Guitarzan, Islands in the Stream        1997
-  [link](https://www.youtube.com/watch?v=eTY3GuEOTX4)         The RAE playing No More Words, Beat It, and Footloose   1997
+| Link                                                      | Description                                           | Filming Date |
+|-----------------------------------------------------------|-------------------------------------------------------|--------------|
+| [link](https://www.youtube.com/watch?v=BSZOjW5F31o&t=66s) | The RAE playing Guitarzan, Islands in the Stream      | 1997         |
+| [link](https://www.youtube.com/watch?v=eTY3GuEOTX4)       | The RAE playing No More Words, Beat It, and Footloose | 1997         |

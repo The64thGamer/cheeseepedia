@@ -11,6 +11,7 @@ showtapeFormats = ["3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
+
 **3-Stage 2002 Diagnostics** was released in 2002 to update the previous 1993 diagnostics to appear how most stores did by 2002. Those changes between 1993 and 2002 would be changing Chucks outfit from the Tuxedo to his Cool Chuck attire. Along with that would be Chuck, Helen, Munch, Jasper and Pasqually now having their plastic masks instead of latex. The original VHS release would be retired in 2008 as by that point all stores had upgraded to DVD.
 
 ## Diagnostics List:
@@ -18,6 +19,7 @@ categories = ["Chuck E. Cheese's"]
 Movements are repeated five times while lights and curtains are only done once. This is in order of how the movements are shown in the Diagnostics tape, not in order of the bits.
 
 - **Chuck E. Cheese**
+  
   - Mouth
   - Ear Left + Right
   - Eyelid Left + Right
@@ -36,6 +38,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Body Right
   - Body Lean
 - **Helen Henny**
+  
   - Mouth
   - Ear Left + Right
   - Eyelid Left + Right
@@ -51,6 +54,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Body Right
   - Body Lean
 - **Munch**
+  
   - Mouth
   - Eyelid Left + Right
   - Eye Left
@@ -65,6 +69,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Foot Tap
   - Body Lean
 - **Jasper**
+  
   - Mouth
   - Eyelid Left + Right
   - Eyes Cross
@@ -80,6 +85,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Left + Right Leg Raise
   - Body Lean
 - **Pasqually**
+  
   - Mouth
   - Eyelid Left + Right
   - Eye Left
@@ -92,6 +98,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - High Hat
   - Body Lean
 - **Curtains**
+  
   - Stage Right Close
   - Stage Right Open
   - Center Stage Close
@@ -99,8 +106,10 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Stage Left Close
   - Stage Left Open
 - **Lights**
+  
   - House Lights Dim
 - **Spots**
+  
   - Chuck E. Spot
   - Helen Spot
   - Munch Spot
@@ -108,6 +117,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Pasqually Spot
   - Guitar Spot
 - **Stage Right**
+  
   - Stage Right CEC Neon
   - Stage Right TV light Blue Star Tips
   - Stage Right Star
@@ -116,6 +126,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Stage Right Red Floods
   - Stage Right Amber Floods
 - **Center Stage**
+  
   - Center Stage Fiber Optic Stars
   - Center Stage Organ Top Red
   - Center Stage Organ Top Amber
@@ -143,6 +154,7 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Center Stage Blue Floods
   - Center Stage Live Floods
 - **Stage Left**
+  
   - Stage Left Red Backdrop
   - Stage Left Blue Backdrop
   - Stage Left Red Snare
@@ -152,19 +164,23 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Stage Left Red Floods
   - Stage Left Green Floods
 - **Camera**
+  
   - Camera Spot (Stays on until Camera diagnostics are over)
   - Head Raise (Stays up until Camera diagnostics are over)
   - Mouth
   - Head Right
   - Eyelid Left + Right
   - Eyes Cross
-- **Building & Moon**
+- **Building &amp; Moon**
+  
   - Building Spot + Moon Spot (Stays on until Building/Moon diagnostics are over)
   - Building Up + Moon Up (Stays on until Building/Moon diagnostics are over)
   - Building Mouth + Moon Mouth
 - **Munch Jr.**
+  
   - Munch Jr. Raise
 - **Miscellaneous**
+  
   - Stage Right + Center Stage + Stage Left Curtains Close
   - Gobo
   - Wink Spot (Stays on until Wink diagnostics are over)
@@ -172,24 +188,25 @@ Movements are repeated five times while lights and curtains are only done once. 
   - Helicopter Light
   - House Lights Raise
 - **Skit Comparison**
+  
   - Party Place
 
 ## Music List:
 
-  Song Title                   Album                      Studio
-  ---------------------------- -------------------------- ----------------------------------------
-  Dance Club                                              River City Sound Productions/BackTraxx
-  Retro Surf Monster of Love                              River City Sound Productions/BackTraxx
-  ???                                                     River City Sound Productions(?)
-  Sippin' Tea                 Country II                 River City Sound Productions/BackTraxx
-  Boulevard Cruze                                         River City Sound Productions/BackTraxx
-  Think Happy (Instrumental)                              ?
-  Too Cool                                                River City Sound Productions/BackTraxx
-  Dis Guitar                                              River City Sound Productions/BackTraxx
-  Night Beat                                              River City Sound Productions/BackTraxx
-  Corporate Visions            Corporate Industrial III   River City Sound Productions/BackTraxx
-  Hip Bop                                                 River City Sound Productions/BackTraxx
-  Tropical Dance                                          River City Sound Productions/BackTraxx
+| Song Title                 | Album                    | Studio                                 |
+|----------------------------|--------------------------|----------------------------------------|
+| Dance Club                 |                          | River City Sound Productions/BackTraxx |
+| Retro Surf Monster of Love |                          | River City Sound Productions/BackTraxx |
+| ???                        |                          | River City Sound Productions(?)        |
+| Sippin' Tea                | Country II               | River City Sound Productions/BackTraxx |
+| Boulevard Cruze            |                          | River City Sound Productions/BackTraxx |
+| Think Happy (Instrumental) |                          | ?                                      |
+| Too Cool                   |                          | River City Sound Productions/BackTraxx |
+| Dis Guitar                 |                          | River City Sound Productions/BackTraxx |
+| Night Beat                 |                          | River City Sound Productions/BackTraxx |
+| Corporate Visions          | Corporate Industrial III | River City Sound Productions/BackTraxx |
+| Hip Bop                    |                          | River City Sound Productions/BackTraxx |
+| Tropical Dance             |                          | River City Sound Productions/BackTraxx |
 
 ## Trivia:
 

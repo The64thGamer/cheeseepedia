@@ -3,15 +3,16 @@ title = "Sacramento, CA (1690-96 Arden Way)"
 draft = false
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = "1982-02-00"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","CEC Tinley","Cheeseclassic","Planetpurplediner","AstridMascotFan2005"]
 citations = []
 latitudeLongitude = ["38.59690932","-121.429028"]
 +++
-***1690-96 Arden Way, Store #410* also known as 'Arden' is a Chuck E. Cheese that opened in February 1982 (day not found) as a franchised location with the Balcony Stage, which is still open to this day.
-It is located in the Point West Shopping Center across from the Point West Plaza Shopping Mall.
-It is known as California's capital city and should not be confused with the Sacramento, CA (7020 Stockton Blvd)|Florin Mall/Stockton Blvd location which opened on August 14th, 1979, and closed at an unknown point in 1985 with a Cyberamics Portrait Stage|Portrait Stage.**
+
+***1690-96 Arden Way, Store #410*** also known as 'Arden' is a Chuck E. Cheese that opened in February 1982 (day not found) as a franchised location with the Balcony Stage, which is still open to this day. It is located in the Point West Shopping Center across from the Point West Plaza Shopping Mall. It is known as California's capital city and should not be confused with the Sacramento, CA (7020 Stockton Blvd)|Florin Mall/Stockton Blvd location which opened on August 14th, 1979, and closed at an unknown point in 1985 with a Cyberamics Portrait Stage|Portrait Stage.
 
 ## History
 
@@ -19,40 +20,37 @@ Sacramento (Arden) opened in February 1982, as a Pizza Time Theatre and as part 
 
 ## Stages
 
-Originally, Sacramento (Arden) had a Balcony Stage when it first opened in February 1982.
-In 1988-1989, they would receive the C-Stage.
-In the Early 90's, most likely around 1992 or 1993, the C-Stage was replaced by the 2-Stage.
-On January 22nd, 2024, the store would remove its 1-Stage in favor of its 2.0 Remodel.
+Originally, Sacramento (Arden) had a Balcony Stage when it first opened in February 1982. In 1988-1989, they would receive the C-Stage. In the Early 90's, most likely around 1992 or 1993, the C-Stage was replaced by the 2-Stage. On January 22nd, 2024, the store would remove its 1-Stage in favor of its 2.0 Remodel.
 
-  Stage                                              Installed               Removed            Notes
-  -------------------------------------------------- ----------------------- ------------------ --------------------------------------
-  {{< wiki-link "Cyberamics Balcony Stage" >}}   February 1982           Late 80's         One of many installed in California.
-  {{< wiki-link "Chuck E's House Facade" >}}    Late 80's              Early 90's        One of many installed in California.
-  {{< wiki-link "2-Stage" >}}                    Early 90's             January 22, 2024   One of many installed in California.
-  Dance Floor + Video Wall                           January-February 2024   Still in use.      
+| Stage                                              | Installed             | Removed          | Notes                                |
+|----------------------------------------------------|-----------------------|------------------|--------------------------------------|
+| {{< wiki-link "Cyberamics Balcony Stage" >}} | February 1982         | Late 80's        | One of many installed in California. |
+| {{< wiki-link "Chuck E's House Facade" >}}   | Late 80's             | Early 90's       | One of many installed in California. |
+| {{< wiki-link "2-Stage" >}}                  | Early 90's            | January 22, 2024 | One of many installed in California. |
+| Dance Floor + Video Wall                           | January-February 2024 | Still in use.    |                                      |
 
 ## Animatronics
 
-  Animatronic                                                  Serial Code   Condition   Whereabouts
-  ------------------------------------------------------------ ------------- ----------- -------------------------------------
-  Chuck E Cheese (Cyberamic)|Chuck E. Cheese (Cyberamic)      N/A                       Owned by Firecat_p
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   N/A                       Owned by Firecat_p
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 N/A                       Owned by Firecat_P /Wayfinder_triko
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           N/A                       Owned by Firecat_P
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                N/A                       Owned by Firecat_P
-  {{< wiki-link "Warblettes (Cyberamic)" >}}               N/A           N/A         Unknown/Destroyed
-  Waving Flags (Cyberamic)                                     N/A           N/A         Unknown/Destroyed
-  Clapper Board (Cyberamic)                                    N/A           N/A         Unknown/Destroyed
-  {{< wiki-link "Singing Flowers (Cyberamic)" >}}          N/A           N/A         Unknown/Destroyed
-  {{< wiki-link "The King King Kat (Lounge)" >}}           N/A           N/A         Unknown/Destroyed
-  {{< wiki-link "Wink" >}}                                 N/A                       Unknown/Destroyed
+| Animatronic                                                  | Serial Code | Condition | Whereabouts                           |
+|--------------------------------------------------------------|-------------|-----------|---------------------------------------|
+| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A         |           | Owned by Firecat\_p                   |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A         |           | Owned by Firecat\_p                   |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A         |           | Owned by Firecat\_P /Wayfinder\_triko |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A         |           | Owned by Firecat\_P                   |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A         |           | Owned by Firecat\_P                   |
+| {{< wiki-link "Warblettes (Cyberamic)" >}}             | N/A         | N/A       | Unknown/Destroyed                     |
+| Waving Flags (Cyberamic)                                     | N/A         | N/A       | Unknown/Destroyed                     |
+| Clapper Board (Cyberamic)                                    | N/A         | N/A       | Unknown/Destroyed                     |
+| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | N/A         | N/A       | Unknown/Destroyed                     |
+| {{< wiki-link "The King King Kat (Lounge)" >}}         | N/A         | N/A       | Unknown/Destroyed                     |
+| {{< wiki-link "Wink" >}}                               | N/A         |           | Unknown/Destroyed                     |
 
 ## Videos
 
-  Link   Title   Description   Publish Date   Filming Date   Credit To
-  ------ ------- ------------- -------------- -------------- -----------
-                                                             
-                                                             
-                                                             
+| Link | Title | Description | Publish Date | Filming Date | Credit To |
+|------|-------|-------------|--------------|--------------|-----------|
+|      |       |             |              |              |           |
+|      |       |             |              |              |           |
+|      |       |             |              |              |           |
 
 TODO

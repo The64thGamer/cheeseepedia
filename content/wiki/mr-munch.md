@@ -5,11 +5,12 @@ startDate = ""
 endDate = ""
 pageThumbnailFile = "PCAxj87MBMaErxKfhxDC.avif"
 contributors = ["Herzognate", "ChuckEPediaIsTheBest!", "216.125.34.66", "JasperLover", "PizzaEntertainmentFanX", "The 64th Gamer", "SuperCreamPiper2008", "CECMentor"]
-citations = ["[https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf%22)"]
+citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</a>"]
 tags = ["Characters"]
 categories = ["Pizza Time Theatre"]
 +++
-***Mr. Munch* is one of the main characters of the Chuck E. Cheese's franchise, making his debut at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} location in 1978.**
+
+***Mr. Munch*** is one of the main characters of the Chuck E. Cheese's franchise, making his debut at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} location in 1978.
 
 ## History
 
@@ -19,11 +20,11 @@ Mr. Munch was first thought up by *Michael M. Hatcher*, director of entertainmen
 
 ### Pizza Time Theatre
 
-Mr. Munch officially debuted to the public along with the opening of the second {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from {{< wiki-link "Pasqually" >}} kitchen. He sings, laughs and scares people'<sup>(1)</sup>. Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars & {{< wiki-link "Chuck E Cheese" >}} himself. Mr. Munch was initially voiced by Fritz Heilbron, and later by Scott Wilson*.*
+Mr. Munch officially debuted to the public along with the opening of the second {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} on December 2nd 1978. Munch was described as 'This purple pizza eater loves to pilfer and purloin from {{< wiki-link "Pasqually" >}} kitchen. He sings, laughs and scares people'(1). Munches personality was focused on his love of pizza in early shows to the point that he would mention it in every song. He generally didn't play much of a role aside from being another comic-relief character and he wouldn't really interact with the other members aside from the guest stars &amp; {{< wiki-link "Chuck E Cheese" >}} himself. Mr. Munch was initially voiced by Fritz Heilbron, and later by Scott Wilson*.*
 
 #### Post-Merger
 
-After {{< wiki-link "ShowBiz Pizza Place" >}} bought the rights to the Chuck E. Cheese's IP, Munch was changed alongside the rest of the cast. Munch would become a pizza loving, kind & well meaning, singer.
+After {{< wiki-link "ShowBiz Pizza Place" >}} bought the rights to the Chuck E. Cheese's IP, Munch was changed alongside the rest of the cast. Munch would become a pizza loving, kind &amp; well meaning, singer.
 
 ### Munch's Make Believe Band
 
@@ -43,17 +44,17 @@ In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press. Du
 
 ### Rat Tales
 
-Mr. Munch would appear in the official Chuck E. Cheese's Pizza Time Theatre comic 'Rat Tales' in 1979. He is from a mysterious pizza planet & speaks an unknown language. He helps Chuck & Jasper stop the arcade machine from taking over the restaurant.
+Mr. Munch would appear in the official Chuck E. Cheese's Pizza Time Theatre comic 'Rat Tales' in 1979. He is from a mysterious pizza planet &amp; speaks an unknown language. He helps Chuck &amp; Jasper stop the arcade machine from taking over the restaurant.
 
 ### Chuck E. Cheese In The Galaxy 5000
 
-Mr. Munch would appear in the official Chuck E. Cheese's movie 'Chuck E. Cheese In The Galaxy 5000.' He would use He would help Chuck E. & the gang beat the 'X-Pilots' in the Race to get the money to help Charlie Rockit. He was voiced by Chris Sabat.
+Mr. Munch would appear in the official Chuck E. Cheese's movie 'Chuck E. Cheese In The Galaxy 5000.' He would use He would help Chuck E. &amp; the gang beat the 'X-Pilots' in the Race to get the money to help Charlie Rockit. He was voiced by Chris Sabat.
 
 ## Animatronics
 
-  Types                                                                                                                                                                                       Years Produced   Notes                                                                           Status
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------- ------------------------------------------------------------------------------- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  {{< wiki-link "Kooser Mr Munch (Animatronic)" >}}                                                                                                                                       1978             Used at the Kooser location from December 1978 to 1980.                         Unknown.
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                                                                                                                                                1979-1990's     Arm movements later tweaked.                                                    Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                                                                                                                                         1980-1983        Retrofitted. Latex cosmetics were eventually replaced with plastic cosmetics.   Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}.
-  {{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, {{< wiki-link "Choo Choo (Animatronic)" >}}, {{< wiki-link "Looney Bird (Animatronic)" >}}   1980-1983        Was used on the {{< wiki-link "Concept Unification Prototype Stage" >}}.    Destroyed.
+| Types                                                                                                                                                                                             | Years Produced | Notes                                                                          | Status                                                                                                                                                                                                                                  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Kooser Mr Munch (Animatronic)" >}}                                                                                                                                           | 1978           | Used at the Kooser location from December 1978 to 1980.                        | Unknown.                                                                                                                                                                                                                                |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}                                                                                                                                                    | 1979-1990's    | Arm movements later tweaked.                                                   | Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}. |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                                                                                                                                             | 1980-1983      | Retrofitted. Latex cosmetics were eventually replaced with plastic cosmetics.  | Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}.     |
+| {{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, {{< wiki-link "Choo Choo (Animatronic)" >}}, {{< wiki-link "Looney Bird (Animatronic)" >}} | 1980-1983      | Was used on the {{< wiki-link "Concept Unification Prototype Stage" >}}. | Destroyed.                                                                                                                                                                                                                              |

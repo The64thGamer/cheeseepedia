@@ -8,7 +8,8 @@ endDate = "1984-00-00"
 contributors = ["Pizzaman49","Cheeseclassic","CEC Kokomo"]
 citations = []
 +++
-***9704 Fondren Road* was a Pizza Time Theatre that opened in 1982 (day and month unknown) with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed in Fall 1984.**
+
+***9704 Fondren Road*** was a Pizza Time Theatre that opened in 1982 (day and month unknown) with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed in Fall 1984.
 
 ## History
 
@@ -18,19 +19,18 @@ Houston, TX (Fondren) opened in 1982 as a Pizza Time Theater with a {{< wiki-lin
 
 When they were opened, they only had a {{< wiki-link "Cyberamics Balcony Stage" >}}. After closure, the bots were either destroyed, sent to another location, or placed in storage.
 
-  -------------------------------------------------- ----------- -----------
-  Stage                                              Installed   Removed
-  {{< wiki-link "Cyberamics Balcony Stage" >}}   1981        Fall 1984
-  -------------------------------------------------- ----------- -----------
+|                                                    |           |           |
+|----------------------------------------------------|-----------|-----------|
+| Stage                                              | Installed | Removed   |
+| {{< wiki-link "Cyberamics Balcony Stage" >}} | 1981      | Fall 1984 |
 
 ## Animatronics
 
-  ------------------------------------------------------------ ------------------------ ------------
-  **Animatronics**                                             **Manufacturing Date**   **Status**
-  {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}           Unknown                  Unknown
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   Unknown                  Unknown
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 Unknown                  Unknown
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           Unknown                  Unknown
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                Unknown                  Unknown
-  {{< wiki-link "Warblettes (Cyberamic)" >}}               Unknown                  Unknown
-  ------------------------------------------------------------ ------------------------ ------------
+| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown                | Unknown    |
+|--------------------------------------------------------------|------------------------|------------|
+| **Animatronics**                                             | **Manufacturing Date** | **Status** |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown                | Unknown    |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown                | Unknown    |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown                | Unknown    |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown                | Unknown    |
+| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown                | Unknown    |

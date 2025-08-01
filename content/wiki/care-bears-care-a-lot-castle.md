@@ -3,24 +3,25 @@ title = "Care Bears: Care-A-Lot Castle"
 draft = false
 tags = ["Animatronic Shows"]
 categories = ["Sally Corporation"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["BigCtheDataFinder","The 64th Gamer"]
-citations = ["[https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings](%22https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings%22)","[https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine](%22https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine%22)"]
+citations = ["<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings\">https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings</a>","<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine\">https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine</a>"]
 +++
-The ***Care Bears: Care-A-Lot Castle* was a Sally animatronic show produced in 1987, becoming the first official show of the company's to utilize intellectual properties (after a previous attempt was made to adapt The Berenstain Bears for an IAAPA display).
-Only installed in two venues worldwide, it was a very short lived endeavor that ended up lasting for just around five years. However, this instance would lay the foundation for Sally's future work with intellectual properties and established brands.**
+
+The ***Care Bears: Care-A-Lot Castle*** was a Sally animatronic show produced in 1987, becoming the first official show of the company's to utilize intellectual properties (after a previous attempt was made to adapt The Berenstain Bears for an IAAPA display). Only installed in two venues worldwide, it was a very short lived endeavor that ended up lasting for just around five years. However, this instance would lay the foundation for Sally's future work with intellectual properties and established brands.
 
 ## Historical Background
 
 ### Development
 
-In 1986, while production on Nelvana Studios' *[Care Bears Family](https://en.wikipedia.org/wiki/The_Care_Bears_Family)* was underway, Sally Industries obtained a license from American Greetings and Nelvana to develop an animatronic stage show based on the *Care Bears* franchise. Under the leadership of Sally, the show was produced in-house at their Jacksonville facilities and with no involvement from the crew behind the animated series.
-Janet Sherman, who had been heavily involved with Sally's animated shows by that point, would once again spearhead the script writing and soundtrack editing. All music and vocals were recorded at the Jacksonville-based Warehouse Studios, where soundtracks for {{< wiki-link "Daniel and the Dixie Diggers" >}}, *Gwen and the Magical Music Makers*, and other Sally shows of the 1980's were produced. At Warehouse, several new songs written specifically for the show were recorded in conjunction with repurposed songs from the aforementioned *Dixie Diggers* and *Magical Music Makers* shows. The cost of producing *Care-A-Lot Castle* was said to have been about $150,000 at the time.
+In 1986, while production on Nelvana Studios' [*Care Bears Family*](https://en.wikipedia.org/wiki/The_Care_Bears_Family) was underway, Sally Industries obtained a license from American Greetings and Nelvana to develop an animatronic stage show based on the *Care Bears* franchise. Under the leadership of Sally, the show was produced in-house at their Jacksonville facilities and with no involvement from the crew behind the animated series. Janet Sherman, who had been heavily involved with Sally's animated shows by that point, would once again spearhead the script writing and soundtrack editing. All music and vocals were recorded at the Jacksonville-based Warehouse Studios, where soundtracks for {{< wiki-link "Daniel and the Dixie Diggers" >}}, *Gwen and the Magical Music Makers*, and other Sally shows of the 1980's were produced. At Warehouse, several new songs written specifically for the show were recorded in conjunction with repurposed songs from the aforementioned *Dixie Diggers* and *Magical Music Makers* shows. The cost of producing *Care-A-Lot Castle* was said to have been about $150,000 at the time.
 
 ### Installations
 
-The first of the two *Care-A-Lot* installations was located at [Dunia Fantasi](https://en.wikipedia.org/wiki/Ancol_Dreamland), an Indonesian theme park, and officially premiered under the name ***Beruang Madu* (Sun Bear) in June 1987. The animatronic figures of Tenderheart and Funshine used in Dunia's show were initially displayed at the 1986 IAAPA expo. Although the soundtrack was being worked on in English first, Dunia requested Sally to assist in producing a localized dub, resulting in differences between both soundtracks. The local Indonesian band COCKPIT was recruited to provide the voices of the characters. The storyline revolved around Professor Coldheart, the original villain of the franchise, attempting to ruin the happiness of children around the world (albeit limited to brief mentions by the characters instead of an actual appearance through voice). Funshine Bear (who was originally depicted as female until 2002) was rewritten as a male, careless bear who has a bad habit of eating honey and chocolate while driving. After accidentally hitting a bird in his cloud car, Funshine and Grumpy Bear attempt to look for the bird together to see if it was okay. Instead of the Sally standard 4-5 minute segments, one 20-minute track was produced for *Beruang Madu*. Consequently, the Indonesian dub did not use all of the songs that can be heard in the English version. Despite the production of this dub entirely taking place in Indonesia, the soundtrack was confirmed to be sent to Sally for programming in their Jacksonville facilities. After the show was sent to Dunia, Tenderheart and Friend Bear's cosmetics were swapped for unknown reasons (most likely a maintenance error). It is unknown when Dunia Fantasi officially decommissioned their installation of *Care-A-Lot Castle* (some sources claiming to be 1992), as well as the current whereabouts of their *Care Bears* figures.The second, most well-known installation of the *Care-A-Lot* show was located at [Dorney Park & Wildwater Kingdom](https://en.wikipedia.org/wiki/Dorney_Park_%26_Wildwater_Kingdom) in Allentown, Pennsylvania. This version premiered at the start of the 1988 season, to tie in with the park's integration of *Care Bears* characters. Dorney's clone was almost identical to the original in Dunia (although the character figures and flower props were refined). Given that this set used the original English soundtrack, No-Heart and Beastly's off-stage interactions remained, as well as the brief mention of Hugs and Tugs. Dorney Park's *Care-A-Lot* show was placed in an outdoor 'theater' structure, located just across from the park's *Care Bears* gift shop, which itself was adjacent to several kiddie rides in that area. When Dorney Park's licensing agreement with Nelvana and American Greetings expired in 1992, the animatronics were allegedly destroyed at the request of rights-holders. Despite this, the English soundtrack would be digitally preserved by Sally around 1996 (four years after the removal of both shows), and would be officially released to the public on June 22, 2022.**
+The first of the two *Care-A-Lot* installations was located at [Dunia Fantasi](https://en.wikipedia.org/wiki/Ancol_Dreamland), an Indonesian theme park, and officially premiered under the name ***Beruang Madu*** (Sun Bear) in June 1987. The animatronic figures of Tenderheart and Funshine used in Dunia's show were initially displayed at the 1986 IAAPA expo. Although the soundtrack was being worked on in English first, Dunia requested Sally to assist in producing a localized dub, resulting in differences between both soundtracks. The local Indonesian band COCKPIT was recruited to provide the voices of the characters. The storyline revolved around Professor Coldheart, the original villain of the franchise, attempting to ruin the happiness of children around the world (albeit limited to brief mentions by the characters instead of an actual appearance through voice). Funshine Bear (who was originally depicted as female until 2002) was rewritten as a male, careless bear who has a bad habit of eating honey and chocolate while driving. After accidentally hitting a bird in his cloud car, Funshine and Grumpy Bear attempt to look for the bird together to see if it was okay. Instead of the Sally standard 4-5 minute segments, one 20-minute track was produced for *Beruang Madu*. Consequently, the Indonesian dub did not use all of the songs that can be heard in the English version. Despite the production of this dub entirely taking place in Indonesia, the soundtrack was confirmed to be sent to Sally for programming in their Jacksonville facilities. After the show was sent to Dunia, Tenderheart and Friend Bear's cosmetics were swapped for unknown reasons (most likely a maintenance error). It is unknown when Dunia Fantasi officially decommissioned their installation of *Care-A-Lot Castle* (some sources claiming to be 1992), as well as the current whereabouts of their *Care Bears* figures.The second, most well-known installation of the *Care-A-Lot* show was located at [Dorney Park &amp; Wildwater Kingdom](https://en.wikipedia.org/wiki/Dorney_Park_%26_Wildwater_Kingdom) in Allentown, Pennsylvania. This version premiered at the start of the 1988 season, to tie in with the park's integration of *Care Bears* characters. Dorney's clone was almost identical to the original in Dunia (although the character figures and flower props were refined). Given that this set used the original English soundtrack, No-Heart and Beastly's off-stage interactions remained, as well as the brief mention of Hugs and Tugs. Dorney Park's *Care-A-Lot* show was placed in an outdoor 'theater' structure, located just across from the park's *Care Bears* gift shop, which itself was adjacent to several kiddie rides in that area. When Dorney Park's licensing agreement with Nelvana and American Greetings expired in 1992, the animatronics were allegedly destroyed at the request of rights-holders. Despite this, the English soundtrack would be digitally preserved by Sally around 1996 (four years after the removal of both shows), and would be officially released to the public on June 22, 2022.
 
 ## Characters
 
@@ -50,7 +51,7 @@ Despite his name and personality, Grumpy is a periwinkle blue bear that values f
 
 ### Professor Coldheart
 
-The original villain of the Care Bears franchise, Coldheart is notorious for plotting misery upon the world, and will do whatever it takes to accomplish his goal (even practicing child labor and kidnapping).<sup>(1)(2)</sup> Despite his scientific skills, Coldheart's hatred for happiness never lasts as the Care Bears continually defeat him and foil his schemes. Although Coldheart does not appear as an animatronic nor through voice, he is mentioned by name in the Indonesian soundtrack of *Care-A-Lot Castle*. In the English soundtrack, his antagonistic role is instead taken up by newcomers No-Heart and Beastly.
+The original villain of the Care Bears franchise, Coldheart is notorious for plotting misery upon the world, and will do whatever it takes to accomplish his goal (even practicing child labor and kidnapping).(1)(2) Despite his scientific skills, Coldheart's hatred for happiness never lasts as the Care Bears continually defeat him and foil his schemes. Although Coldheart does not appear as an animatronic nor through voice, he is mentioned by name in the Indonesian soundtrack of *Care-A-Lot Castle*. In the English soundtrack, his antagonistic role is instead taken up by newcomers No-Heart and Beastly.
 
 ### No-Heart
 
@@ -68,29 +69,29 @@ Hugs and Tugs are baby bear twins, under the care of their beloved Grams, that a
 
 ### Dunia Fantasi
 
-  Animatronic        Manufacturing Date   Status
-  ------------------ -------------------- ---------
-  Cheer Bear         1986                 Unknown
-  Funshine Bear      1986                 Unknown
-  Tenderheart Bear   1986                 Unknown
-  Bedtime Bear       1986                 Unknown
-  Grumpy Bear        1986                 Unknown
-  Friend Bear        1986                 Unknown
-  Care Meter         1986                 Unknown
-  Flowers            1986                 Unknown
+| Animatronic      | Manufacturing Date | Status  |
+|------------------|--------------------|---------|
+| Cheer Bear       | 1986               | Unknown |
+| Funshine Bear    | 1986               | Unknown |
+| Tenderheart Bear | 1986               | Unknown |
+| Bedtime Bear     | 1986               | Unknown |
+| Grumpy Bear      | 1986               | Unknown |
+| Friend Bear      | 1986               | Unknown |
+| Care Meter       | 1986               | Unknown |
+| Flowers          | 1986               | Unknown |
 
 ### Dorney Park
 
-  Animatronic        Manufacturing Date   Status
-  ------------------ -------------------- -----------
-  Cheer Bear         1987                 Destroyed
-  Funshine Bear      1987                 Destroyed
-  Tenderheart Bear   1987                 Destroyed
-  Bedtime Bear       1987                 Destroyed
-  Grumpy Bear        1987                 Destroyed
-  Friend Bear        1987                 Destroyed
-  Care Meter         1987                 Destroyed
-  Flowers            1987                 Destroyed
+| Animatronic      | Manufacturing Date | Status    |
+|------------------|--------------------|-----------|
+| Cheer Bear       | 1987               | Destroyed |
+| Funshine Bear    | 1987               | Destroyed |
+| Tenderheart Bear | 1987               | Destroyed |
+| Bedtime Bear     | 1987               | Destroyed |
+| Grumpy Bear      | 1987               | Destroyed |
+| Friend Bear      | 1987               | Destroyed |
+| Care Meter       | 1987               | Destroyed |
+| Flowers          | 1987               | Destroyed |
 
 ### Dunia Fantasi
 
@@ -98,10 +99,10 @@ Hugs and Tugs are baby bear twins, under the care of their beloved Grams, that a
 
 ## Videos
 
-  Link                                                          Description                                                             Filming Date   Publish Date
-  ------------------------------------------------------------- ----------------------------------------------------------------------- -------------- ------------------
-  [YouTube](https://youtu.be/2J2l-W-mzp4?si=X6TvaLRlV7qCI_g2)   Dorney Park's Care-A-Lot Castle performing the 'Cloudy' Segment      1988-1992      October 28, 2006
-  [YouTube](https://youtu.be/VYgRHafvst8?si=0hKQQTH08lIphxkS)   Dorney Park's Care-A-Lot Castle performing the 'Rainbow' Segment     1988-1992      January 18, 2010
-  [YouTube](https://youtu.be/aW84fcYvHXA?si=X7r1J_LEljtdmeZ2)   Excerpt of the Indonesian dub, using footage of the Dorney Park show.   1988-1992      January 16, 2016
-  [YouTube](https://youtu.be/DzHz5gtRgMg?si=Qm4-NjXo_VYPkB2e)   Excerpt of the Indonesian dub, using footage of the Dorney Park show.   1988-1992      February 6, 2016
-  [YouTube](https://youtu.be/q9zqxTh2k18?si=HbqjPbr3K5-ZGzAl)   Complete English Soundtrack                                             N/A            June 22, 2022
+| Link                                                        | Description                                                           | Filming Date | Publish Date     |
+|-------------------------------------------------------------|-----------------------------------------------------------------------|--------------|------------------|
+| [YouTube](https://youtu.be/2J2l-W-mzp4?si=X6TvaLRlV7qCI_g2) | Dorney Park's Care-A-Lot Castle performing the 'Cloudy' Segment       | 1988-1992    | October 28, 2006 |
+| [YouTube](https://youtu.be/VYgRHafvst8?si=0hKQQTH08lIphxkS) | Dorney Park's Care-A-Lot Castle performing the 'Rainbow' Segment      | 1988-1992    | January 18, 2010 |
+| [YouTube](https://youtu.be/aW84fcYvHXA?si=X7r1J_LEljtdmeZ2) | Excerpt of the Indonesian dub, using footage of the Dorney Park show. | 1988-1992    | January 16, 2016 |
+| [YouTube](https://youtu.be/DzHz5gtRgMg?si=Qm4-NjXo_VYPkB2e) | Excerpt of the Indonesian dub, using footage of the Dorney Park show. | 1988-1992    | February 6, 2016 |
+| [YouTube](https://youtu.be/q9zqxTh2k18?si=HbqjPbr3K5-ZGzAl) | Complete English Soundtrack                                           | N/A          | June 22, 2022    |

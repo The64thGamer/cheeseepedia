@@ -3,6 +3,8 @@ title = "Oceanside, CA (2481 Vista Way)"
 draft = false
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = "1983-02-08"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","The 64th Gamer","Stripes","Caydenpedia"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "8RbyUZ2ZXjHj9BWmV1w2.avif"
 latitudeLongitude = ["33.18031807","-117.3351457"]
 +++
-***2481 Vista Way, Store #45* was a *ShowBiz Pizza Place* that opened on February 8th, 1983 (date not confirmed yet) as a franchised location with a {{< wiki-link "Classic Stage" >}} and is still open to this very day.
-It is located in the El Camino North Shopping Mall.**
+
+***2481 Vista Way, Store #45*** was a *ShowBiz Pizza Place* that opened on February 8th, 1983 (date not confirmed yet) as a franchised location with a {{< wiki-link "Classic Stage" >}} and is still open to this very day. It is located in the El Camino North Shopping Mall.
 
 ## History
 
@@ -21,28 +23,28 @@ Oceanside opened its doors on February 8th, 1983 (not confirmed) as a franchised
 
 Originally, Oceanside featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are no photos or videos to exist of Oceanside with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime in 1991. In 2000, Oceanside removed their 3-Stage for the Studio C Beta. In November 2021, Oceanside removed the Studio C Beta, 32m for the Dance Floor for their 2.0 remodel.
 
-  Stage                                               Intalled        Removed         Notes
-  --------------------------------------------------- --------------- --------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  {{< wiki-link "Classic Stage" >}}               February 1983   1991            5th ShowBiz Pizza in California.
-  {{< wiki-link "Concept Unification Stage" >}}   1991            2000            One of 9 ShowBiz Pizza Stores in California to undergo Concept Unification (Fullerton opened as a new store with the stage undergoing Concept Unification while the store was under construction).
-  Studio C Beta, 32m                                  2000            November 2021   One of first 5 Betas installed
-  Dance Floor + Video Wall                            November 2021   Still in Use    2021 Model. One of first 2021 2.0s in California.
+| Stage                                               | Intalled      | Removed       | Notes                                                                                                                                                                                              |
+|-----------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Classic Stage" >}}             | February 1983 | 1991          | 5th ShowBiz Pizza in California.                                                                                                                                                                   |
+| {{< wiki-link "Concept Unification Stage" >}} | 1991          | 2000          | One of 9 ShowBiz Pizza Stores in California to undergo Concept Unification (Fullerton opened as a new store with the stage undergoing Concept Unification while the store was under construction). |
+| Studio C Beta, 32m                                  | 2000          | November 2021 | One of first 5 Betas installed                                                                                                                                                                     |
+| Dance Floor + Video Wall                            | November 2021 | Still in Use  | 2021 Model. One of first 2021 2.0s in California.                                                                                                                                                  |
 
 ## Animatronics
 
-  Animatronic                                                           Serial Number   Whereabouts
-  --------------------------------------------------------------------- --------------- -------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   7-82 1-13       Unknown
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      7-82 2-13       Unknown
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   7-82 3-13       Unknown
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      7-82 4-13       Unknown
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                7-82 5-13       Unknown
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       7-82 6-13       Unknown
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     7-82 7-13       Unknown
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       7-82 8-13       Unknown
-  {{< wiki-link "Sun (Animatronic)" >}}                             7-82 10-13      Unknown
-  {{< wiki-link "Moon (Animatronic)" >}}                            7-82 11-13      Unknown
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A             Unknown
-  {{< wiki-link "Wink" >}}                                          N/A             Unknown
-  Chuck E. Cheese (32m, bot)                                            Unknown         Destroyed
-  Pizza Time Clock                                                      N/A             Destroyed
+| Animatronic                                                               | Serial Number | Whereabouts |
+|---------------------------------------------------------------------------|---------------|-------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-82 1-13     | Unknown     |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-82 2-13     | Unknown     |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-82 3-13     | Unknown     |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-82 4-13     | Unknown     |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-82 5-13     | Unknown     |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-82 6-13     | Unknown     |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-82 7-13     | Unknown     |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-82 8-13     | Unknown     |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-82 10-13    | Unknown     |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-82 11-13    | Unknown     |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown     |
+| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown     |
+| Chuck E. Cheese (32m, bot)                                                | Unknown       | Destroyed   |
+| Pizza Time Clock                                                          | N/A           | Destroyed   |

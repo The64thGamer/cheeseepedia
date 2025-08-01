@@ -3,6 +3,8 @@ title = "Dearborn, MI (24399 Michigan Ave)"
 draft = false
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = "1982-12-21"
 endDate = ""
 contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","ChuckfeldStan","Stripes"]
@@ -10,8 +12,8 @@ citations = []
 pageThumbnailFile = "InPWDWT0MRqGHKQbjJsJ.avif"
 latitudeLongitude = ["42.29623847","-83.27577033"]
 +++
-***24399 Michigan Ave, Store #359* was a ShowBiz Pizza Place that opened on December 21, 1982 with a Rock-Afire Explosion, which is still open to this day.
-This was converted to a Chuck E. Cheese's Pizza around 1991 thanks to {{< wiki-link "Concept Unification" >}}, and converted to a Studio C Alpha in 2015. It opened on the same day as {{< wiki-link "Evansville, IN (559 N Green River Rd)" >}}.**
+
+***24399 Michigan Ave, Store #359*** was a ShowBiz Pizza Place that opened on December 21, 1982 with a Rock-Afire Explosion, which is still open to this day. This was converted to a Chuck E. Cheese's Pizza around 1991 thanks to {{< wiki-link "Concept Unification" >}}, and converted to a Studio C Alpha in 2015. It opened on the same day as {{< wiki-link "Evansville, IN (559 N Green River Rd)" >}}.
 
 ## History
 
@@ -21,29 +23,29 @@ Dearborn opened on December 21st, 1982 as the 8th ShowBiz Pizza store in Michiga
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Dearborn would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In April 2015, the 3-Stage was removed for the Alpha from Plano, TX. The stage would then be removed in August 2023.
 
-  Stage                                                      Installed       Removed       Notes
-  ---------------------------------------------------------- --------------- ------------- -----------------------------------------------------------------
-  Rock-Afire Explosion                                       December 1982   1991          8th ShowBiz Pizza store opened in Michigan
-  3-Stage                                                    1991            May 2015      One of 6 Michigan ShowBiz stores to undergo Concept Unification
-  Studio C Alpha                                             May 2015        August 2023   Stage from Plano, TX
-  {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}   August 2023     In Use        
+| Stage                                                      | Installed     | Removed     | Notes                                                           |
+|------------------------------------------------------------|---------------|-------------|-----------------------------------------------------------------|
+| Rock-Afire Explosion                                       | December 1982 | 1991        | 8th ShowBiz Pizza store opened in Michigan                      |
+| 3-Stage                                                    | 1991          | May 2015    | One of 6 Michigan ShowBiz stores to undergo Concept Unification |
+| Studio C Alpha                                             | May 2015      | August 2023 | Stage from Plano, TX                                            |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August 2023   | In Use      |                                                                 |
 
 ## Animatronics
 
-  Animatronic                                                           Serial Number   Whereabouts
-  --------------------------------------------------------------------- --------------- -----------------------------------------------------------------------------------------
-  {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}   4-82 1-20       Unknown/Destroyed
-  {{< wiki-link "Dook Larue (Animatronic)" >}}                      4-82 2-20       Unknown/Destroyed
-  {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                   4-82 3-20       Unknown/Destroyed
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                      4-82 4-20       Unknown/Destroyed
-  {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                4-82 5-20       Unknown/Destroyed
-  {{< wiki-link "Billy Bob (Animatronic)" >}}                       4-82 6-20       Unknown/Destroyed
-  {{< wiki-link "Looney Bird (Animatronic)" >}}                     4-82 7-20       Unknown/Destroyed
-  {{< wiki-link "Choo Choo (Animatronic)" >}}                       4-82 8-20       Unknown/Destroyed
-  {{< wiki-link "Sun (Animatronic)" >}}                             4-82 10-20      Unknown/Destroyed
-  {{< wiki-link "Moon (Animatronic)" >}}                            4-82 11-20      Unknown/Destroyed
-  {{< wiki-link "Antioch (Animatronic)" >}}                         N/A             Unknown/Destroyed
-  {{< wiki-link "Wink" >}}                                          N/A             Unknown/Destroyed.
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}              006             Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}.
-  {{< wiki-link "Bird (Animatronic)" >}}                            N/A             Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}.
-  {{< wiki-link "Pizza Phone (Animatronic)" >}}                     N/A             Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}.
+| Animatronic                                                               | Serial Number | Whereabouts                                                                               |
+|---------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------|
+| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-82 1-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-82 2-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-82 3-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-82 4-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-82 5-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-82 6-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-82 7-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-82 8-20     | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-82 10-20    | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-82 11-20    | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed                                                                         |
+| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed.                                                                        |
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | 006           | Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}. |
+| {{< wiki-link "Bird (Animatronic)" >}}                              | N/A           | Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}. |
+| {{< wiki-link "Pizza Phone (Animatronic)" >}}                       | N/A           | Unknown/Destroyed. Originally from {{< wiki-link "Plano, TX (1604 Preston Rd)" >}}. |

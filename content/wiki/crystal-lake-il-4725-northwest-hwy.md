@@ -3,6 +3,8 @@ title = "Crystal Lake, IL (4725 Northwest Hwy)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2000-10-16"
 endDate = ""
 contributors = ["Melrosefool2763","ShowBizMidwest","ThatBoiCydalan","CEC Tinley","Slussier1","Cheeseclassic","MasterMike","Midwestern Jasper T.","CEC1988","Documentor"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "fG4rGSeUwx7ugzQz2ll7.avif"
 latitudeLongitude = ["42.22353992","-88.29033693"]
 +++
-***4725 Northwest Highway, Store #053* is a *Chuck E. Cheese's* that opened on October 16th, 2000, with a Studio C Alpha and currently has the {{< wiki-link "CEC 2.0 Remodel Program" >}}.**
+
+***4725 Northwest Highway, Store #053*** is a *Chuck E. Cheese's* that opened on October 16th, 2000, with a Studio C Alpha and currently has the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 
 ## Stages
 
@@ -62,7 +65,7 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 
 #### Coin-Action
 
-- Rockin' & Rollin'
+- Rockin' &amp; Rollin'
 - Hat Trick
 
 ### Kiddie
@@ -80,18 +83,18 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 
 ## Videos
 
-  Link                                               Description            Filming Date
-  -------------------------------------------------- ---------------------- ------------------
-  https://youtu.be/bZirCdbhHGk?si=S_X9p7tvOFjkqLJe   April 2012 Segment 1   May 25th, 2012
-  https://youtu.be/VBRVg7uOGZg?si=yPhu3BXw2foc0Pdg   Let's Have A Party     Early 2021
-  https://youtu.be/57335H6qeUQ?si=qsljla272rq4JpC4   2021 Store Tour        March 27th, 2021
-                                                                            
+| Link                                              | Description          | Filming Date     |
+|---------------------------------------------------|----------------------|------------------|
+| https://youtu.be/bZirCdbhHGk?si=S\_X9p7tvOFjkqLJe | April 2012 Segment 1 | May 25th, 2012   |
+| https://youtu.be/VBRVg7uOGZg?si=yPhu3BXw2foc0Pdg  | Let’s Have A Party   | Early 2021       |
+| https://youtu.be/57335H6qeUQ?si=qsljla272rq4JpC4  | 2021 Store Tour      | March 27th, 2021 |
+|                                                   |                      |                  |
 
 ## Animatronics
 
-  Animatronic                                                Serial   Whereabouts
-  ---------------------------------------------------------- -------- -------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   105      Destroyed
-  {{< wiki-link "Bird (Animatronic)" >}}                 N/A      Destroyed
-  {{< wiki-link "Pizza Phone (Animatronic)" >}}          N/A      Destroyed
-                                                                      
+| Animatronic                                                | Serial | Whereabouts |
+|------------------------------------------------------------|--------|-------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 105    | Destroyed   |
+| {{< wiki-link "Bird (Animatronic)" >}}               | N/A    | Destroyed   |
+| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A    | Destroyed   |
+|                                                            |        |             |

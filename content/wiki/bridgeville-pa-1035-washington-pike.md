@@ -3,6 +3,8 @@ title = "Bridgeville, PA (1035 Washington Pike)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2002-00-00"
 endDate = ""
 contributors = ["Bowling for Cheese","Rexburg090","CorrectorMan"]
@@ -10,16 +12,17 @@ citations = []
 pageThumbnailFile = "uP3TmpXf2RD3wp8ihKiD.avif"
 latitudeLongitude = ["40.36305182","-80.11174148"]
 +++
-***1035 Washington Pike, Store #535* is a *Chuck E. Cheese's* that opened in Q4 2002 with a Studio C Beta and is a relocation of {{< wiki-link "Bridgeville, PA (1025 Washington Pike)" >}}. This location underwent the 2017 2.0 Remodel Program|2.0 Remodel in 2022.**
+
+***1035 Washington Pike, Store #535*** is a *Chuck E. Cheese's* that opened in Q4 2002 with a Studio C Beta and is a relocation of {{< wiki-link "Bridgeville, PA (1025 Washington Pike)" >}}. This location underwent the 2017 2.0 Remodel Program|2.0 Remodel in 2022.
 
 ## Stages
 
 This location featured a Studio C Beta with a 32 movement animatronic. On October 5th, 2022 the Studio C Beta was removed in favor for a 2021 model Dance Floor + Video Wall.
 
-  Stage                      Installed      Removed
-  -------------------------- -------------- --------------
-  Studio C Beta, 32M         Late 2002      October 2022
-  Dance Floor + Video Wall   October 2022   Still in use
+| Stage                    | Installed    | Removed      |
+|--------------------------|--------------|--------------|
+| Studio C Beta, 32M       | Late 2002    | October 2022 |
+| Dance Floor + Video Wall | October 2022 | Still in use |
 
 ## History
 
@@ -41,9 +44,9 @@ On September 22nd, 2022 this location began the 2017 2.0 Remodel Program|2.0 Rem
 
 ## Animatronics
 
-  Animatronic                                                Serial   Whereabouts
-  ---------------------------------------------------------- -------- --------------------------------------------------------------------------------------------------
-  {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   170      Removed October 5th, 2022. Semi-destroyed, remaining parts split between two private collectors.
+| Animatronic                                                | Serial | Whereabouts                                                                                      |
+|------------------------------------------------------------|--------|--------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 170    | Removed October 5th, 2022. Semi-destroyed, remaining parts split between two private collectors. |
 
 ## Arcade Machines
 

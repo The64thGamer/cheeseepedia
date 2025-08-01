@@ -3,6 +3,8 @@ title = "Spanish Birthday"
 draft = false
 tags = ["Live Shows"]
 categories = [""]
+
+
 startDate = "1990-00-00"
 endDate = "0000-00-00"
 contributors = ["Ceclife13"]
@@ -11,8 +13,8 @@ mediaDuration = "1:52"
 pageThumbnailFile = "EuaUs0t7__QIx3Ea0zGe.avif"
 showtapeFormats = ["3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)","Studio C 4x Laserdisc + Files","Studio C 3x DVD + Floppy"]
 +++
-***Spanish Birthday* is a live show released at some point in the 1990s. It is a Spanish version of 'It's Somebody's Birthday Today' which was originally included in Madame Oink III - 'Tunnel of Love' Spanish Version. The video footage is taken from early 90s shows.
-This show ran until December 2001.**
+
+***Spanish Birthday*** is a live show released at some point in the 1990s. It is a Spanish version of 'It's Somebody's Birthday Today' which was originally included in Madame Oink III - 'Tunnel of Love' Spanish Version. The video footage is taken from early 90s shows. This show ran until December 2001.
 
 ## Summary
 
@@ -20,10 +22,10 @@ The show begins with the cast singing and Madame Oink asking Chuck E. who's birt
 
 ## Showtape Releases
 
-  Release Year   Showtape                        Format
-  -------------- ------------------------------- ---------------------
-  1990s                                          3-stage, Cyberamics
-  1997           Studio C Premiere (Final Ver)   Studio C
+| Release Year | Showtape                      | Format              |
+|--------------|-------------------------------|---------------------|
+| 1990s        |                               | 3-stage, Cyberamics |
+| 1997         | Studio C Premiere (Final Ver) | Studio C            |
 
 ## Live Show Trivia:
 

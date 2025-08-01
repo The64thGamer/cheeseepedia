@@ -3,6 +3,8 @@ title = "Tuscaloosa, AL (1375 McFarland Blvd)"
 draft = false
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+
+
 startDate = "2003-11-00"
 endDate = ""
 contributors = ["ThatBoiCydalan","Cy's Junk at School"]
@@ -10,7 +12,8 @@ citations = []
 pageThumbnailFile = "6pUU0Zg9BsTXoMViRz7H.avif"
 latitudeLongitude = ["33.19786912","-87.52655488"]
 +++
-***Tuscaloosa, AL (1375 McFarland Blvd), Store #704* was a *Chuck E. Cheese's* that opened in November 2003 with a {{< wiki-link "Studio C Cappa" >}}. This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd)|its replacement store, which opened on August 30th, 2015 with a {{< wiki-link "Circles of Light" >}} show.**
+
+***Tuscaloosa, AL (1375 McFarland Blvd), Store #704*** was a *Chuck E. Cheese's* that opened in November 2003 with a {{< wiki-link "Studio C Cappa" >}}. This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd)|its replacement store, which opened on August 30th, 2015 with a {{< wiki-link "Circles of Light" >}} show.
 
 ## Stage
 
@@ -56,6 +59,6 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 
 ## Animatronics
 
-  Animatronic                                                Serial Number   Whereabouts
-  ---------------------------------------------------------- --------------- -------------
-  {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   N/A             Destroyed
+| Animatronic                                                | Serial Number | Whereabouts |
+|------------------------------------------------------------|---------------|-------------|
+| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Destroyed   |

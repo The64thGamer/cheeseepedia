@@ -3,14 +3,16 @@ title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 draft = false
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = "1982-12-00"
 endDate = "1988-00-00"
 contributors = ["Pench0782","BurgersNuggs445","Rexburg090","CEC Tinley","The 64th Gamer"]
 citations = []
 latitudeLongitude = ["22.29820947","114.175802"]
 +++
-***96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong* was a *Chuck E. Cheese's* *Pizza Time Theatre (出奇老鼠)* that opened in December 1982 with a Balcony Stage, which closed in 1988.
-This store was the first of Asian Pizza Time Theatres, being franchised by [Happy World Co., Ltd.](https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0)**
+
+***96 Granville Road, Hilton Tower, Tsim Sha Tsui East, Kowloon, Hong Kong*** was a *Chuck E. Cheese's* *Pizza Time Theatre (出奇老鼠)* that opened in December 1982 with a Balcony Stage, which closed in 1988. This store was the first of Asian Pizza Time Theatres, being franchised by [Happy World Co., Ltd.](https://zh.m.wikipedia.org/wiki/%E6%AD%A1%E6%A8%82%E5%A4%A9%E5%9C%B0)
 
 ## Stages
 
@@ -38,21 +40,21 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 
 ## Videos
 
-  Link                                                                                                       Description                                                                                   Filming Date
-  ---------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------- --------------
-  https://www.youtube.com/watch?v=EP0QSdgJJm4&ab_channel=VCRCommercial%E5%BB%A3%E5%91%8A%E9%A0%BB%E9%81%93   Commercial shot for the Hong Kong PTTs. Shows Kowloon's exterior                             1986
-  Unknown.                                                                                                   Video shot by a local Hong Kong news station. Shows exterior and shots of the theatre.        Unknown
-  https://www.youtube.com/watch?v=4kLx_J1ufag&ab_channel=%E4%BD%95%E9%B4%BB%E5%BE%B7                         Commerical shot to promote Hong Kong PTTs.                                                    1986
-  https://www.youtube.com/watch?v=B5BWdjrgyRo&ab_channel=jcyl141104                                          Commerical shot to promote Hong Kong PTTs.                                                    1986
-  https://www.youtube.com/watch?v=seqqb7r5PlM&ab_channel=CECUNKNOWN2                                         Footage of ether Aberdeen or Kowloon's balcony stage in an arcade following their closure.   1989
+| Link                                                                                                          | Description                                                                                | Filming Date |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|
+| https://www.youtube.com/watch?v=EP0QSdgJJm4&amp;ab\_channel=VCRCommercial%E5%BB%A3%E5%91%8A%E9%A0%BB%E9%81%93 | Commercial shot for the Hong Kong PTTs. Shows Kowloon's exterior                           | 1986         |
+| Unknown.                                                                                                      | Video shot by a local Hong Kong news station. Shows exterior and shots of the theatre.     | Unknown      |
+| https://www.youtube.com/watch?v=4kLx\_J1ufag&amp;ab\_channel=%E4%BD%95%E9%B4%BB%E5%BE%B7                      | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
+| https://www.youtube.com/watch?v=B5BWdjrgyRo&amp;ab\_channel=jcyl141104                                        | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
+| https://www.youtube.com/watch?v=seqqb7r5PlM&amp;ab\_channel=CECUNKNOWN2                                       | Footage of ether Aberdeen or Kowloon's balcony stage in an arcade following their closure. | 1989         |
 
 ## Animatronics
 
-  Animatronic                                                  Manufacturing Date   Whereabouts
-  ------------------------------------------------------------ -------------------- -------------
-  Chuck E Cheese (Cyberamic)                                   Unknown              Unknown
-  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   Unknown              Unknown
-  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 Unknown              Unknown
-  {{< wiki-link "Pasqually (Cyberamic)" >}}                Unknown              Unknown
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           Unknown              Unknown
-  {{< wiki-link "Warblettes (Cyberamic)" >}}               Unknown              Unknown
+| Animatronic                                                  | Manufacturing Date | Whereabouts |
+|--------------------------------------------------------------|--------------------|-------------|
+| Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown     |
+| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown     |
+| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
+| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown     |

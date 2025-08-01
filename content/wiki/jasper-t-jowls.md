@@ -3,12 +3,15 @@ title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
 categories = ["Pizza Time Theatre"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 citations = []
 +++
-***Jasper*, full name ***Jasper Tennessee Jowls*, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.****
+
+***Jasper***, full name ***Jasper Tennessee Jowls***, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.
 
 ## History
 
@@ -22,7 +25,7 @@ From as early as 1977, Jasper was a country loving hound dog. He was loud and no
 
 Starting in 1986, Jasper would be voiced by Bob West. Jasper would be portrayed as friendly and intelligent after the merger. Jasper seemed younger, and could speak in full sentences without breaking into a fit of laughter.
 
-#### Concept Unification & Chuck E. Cheese's
+#### Concept Unification &amp; Chuck E. Cheese's
 
 During {{< wiki-link "Concept Unification" >}}, Jasper as a character mostly remained the same. However, he was now playing the guitar. Jasper would mostly remain the same till 1999. He also received a new outfit. He wore blue overalls, a white shirt with cow spot pattern, a red bandanna, and a cowboy hat. Jasper started to be voiced by Jeremy Blaido starting in 1999, who now portrayed the character as snarky and sarcastic. This would continue through 2012.
 
@@ -32,9 +35,9 @@ In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press. Du
 
 ## Animatronics
 
-  Types                                                              Years Produced   Notes                                                                           Status
-  ------------------------------------------------------------------ ---------------- ------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}   1977             Used at the Winchester location from 1977 to 1981.                              Destroyed in 2004.
-  {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}       1978             Used at the Kooser location from December 1978 to May 1980.                     Possibly destroyed.
-  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}                 1979-1990's                                                                                     Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.
-  {{< wiki-link "Beach Bear (Animatronic)" >}}                   1980-1983        Retrofitted. Latex cosmetics were eventually replaced with plastic cosmetics.   {{< wiki-link "Concept Unification Prototype Stage" >}} destroyed. Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}.
+| Types                                                              | Years Produced | Notes                                                                         | Status                                                                                                                                                                                                                                                                                                       |
+|--------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} | 1977           | Used at the Winchester location from 1977 to 1981.                            | Destroyed in 2004.                                                                                                                                                                                                                                                                                           |
+| {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}     | 1978           | Used at the Kooser location from December 1978 to May 1980.                   | Possibly destroyed.                                                                                                                                                                                                                                                                                          |
+| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}               | 1979-1990's    |                                                                               | Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.                                                                      |
+| {{< wiki-link "Beach Bear (Animatronic)" >}}                 | 1980-1983      | Retrofitted. Latex cosmetics were eventually replaced with plastic cosmetics. | {{< wiki-link "Concept Unification Prototype Stage" >}} destroyed. Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}. |

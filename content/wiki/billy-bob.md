@@ -3,12 +3,15 @@ title = "Billy Bob"
 draft = false
 tags = ["Characters"]
 categories = ["ShowBiz Pizza Place"]
+
+
 startDate = ""
 endDate = ""
 contributors = ["CECMentor"]
 citations = []
 +++
-***Billy Bob*, full name ***Billy Bob Brockali*, is the mascot of the ShowBiz Pizza Place franchise, having made his debut as a mascot at {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}}.****
+
+***Billy Bob***, full name ***Billy Bob Brockali***, is the mascot of the ShowBiz Pizza Place franchise, having made his debut as a mascot at {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}}.
 
 ## History
 
@@ -30,8 +33,8 @@ As of present day Billy Bob remains the same as he was in the ShowBiz days. Thro
 
 ## Animatronics
 
-  Types                                              Years Produced   Notes                                              Status
-  -------------------------------------------------- ---------------- -------------------------------------------------- ---------------------------------------
-  {{< wiki-link "Billy Bob (Animatronic)" >}}    1980-1983        Several destroyed during Concept Unification       Several publicly and privately owned.
-  {{< wiki-link "Billy Bob (Early Mijjin)" >}}   1992                                                                Unknown, possibly destroyed.
-  {{< wiki-link "Billy Bob (Mijjin)" >}}         1992-1993        The most advanced Billy Bob animatronic to date.   None public as of 2024.
+| Types                                              | Years Produced | Notes                                            | Status                                |
+|----------------------------------------------------|----------------|--------------------------------------------------|---------------------------------------|
+| {{< wiki-link "Billy Bob (Animatronic)" >}}  | 1980-1983      | Several destroyed during Concept Unification     | Several publicly and privately owned. |
+| {{< wiki-link "Billy Bob (Early Mijjin)" >}} | 1992           |                                                  | Unknown, possibly destroyed.          |
+| {{< wiki-link "Billy Bob (Mijjin)" >}}       | 1992-1993      | The most advanced Billy Bob animatronic to date. | None public as of 2024.               |
