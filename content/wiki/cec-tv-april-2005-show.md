@@ -1,21 +1,22 @@
 +++
-title = "CEC TV April 2005 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "CEC TV April 2005 Show"
 startDate = "2005-04-00"
 endDate = "2005-06-00"
-contributors = ["The 64th Gamer","Documentor","Ceclife13","RedaCEC"]
-citations = []
 pageThumbnailFile = "GT3EAGzSMDVq89dzD3u0.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage SVHS (Pre-93)","3-Stage SVHS (Post-93)","R12 SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img|Studio C Floppy Disk"]
+contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "RedaCEC"]
+citations = ["https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Matt Daniel - Production Coordinator, Show Announcer", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso|Studio C DVD ISO"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 ***CEC TV April 2005 Show* is a showtape that released in April 2005 and played until the end of June 2005.**
 
 ## Show List:
 
-1.   **Segment 1**
+1.  **Segment 1**
     1.  ['Free Ride'](https://en.wikipedia.org/wiki/Free_Ride_(song))
     2.  ['Splish Splash'](https://en.wikipedia.org/wiki/Splish_Splash_(song))
 2.  **Intermission 1**
@@ -26,7 +27,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVA
     5.  Charlie Rockit - 'Charlie Chorebot'
     6.  CEC TV ID - 'Chuck E. Skateboarding'
     7.  Countdown 2 ('Hip Mouse' footage)
-3.   **Segment 2**
+3.  **Segment 2**
     1.  'Pollution Is Crazy' (parody of ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy))
     2.  'Opposite Day'
 4.  **Intermission 2**
@@ -37,7 +38,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVA
     5.  Chuck E.'s Zoo View
     6.  CEC TV ID - 'Cell Tower'
     7.   Countdown 4 (Workout Time)
-5.   **Segment 3**
+5.  **Segment 3**
     1.  ['Girls Just Wanna Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
     2.  'Colors'
 6.  **Intermission 3**
@@ -48,7 +49,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVA
     5.  Super Jasper - 'Resist The Temptation'
     6.  CEC TV ID - 'NBC Chime'
     7.  Countdown 6 ('Do You Love Me' footage)
-7.   **Segment 4**
+7.  **Segment 4**
     1.  ['Disco Inferno'](https://en.wikipedia.org/wiki/Disco_Inferno)
     2.  ['Stand By Me'](https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song))
 8.  **Intermission 4**
@@ -66,7 +67,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVA
 - {{< wiki-link "Birthday Star 01" >}}
 - Spanish Birthday 01
 - New Birthday
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
+- Chuck E. Shuffle
 - Chuck E. Swing
 - Chuck E. March 01
 - {{< wiki-link "Bingo" >}}
@@ -79,18 +80,6 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVA
 **Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
 ## Production
-
-### Credits
-
-- Duncan Brannan - Chuck E. Cheese Voice Actor
-- Annagrey Wiechman - Helen Henny Voice Actress
-- John Bowen - Munch Voice Actor
-- Jeremy Blaido - Jasper T. Jowls Voice Actor
-- Earl Fisher - Pasqually Voice Actor
-- Robert Gotcher - Director, Show Announcer
-- Matt Daniel - Production Coordinator, Show Announcer
-- Ryan Hollingsworth - Production Specialist
-- Sammy Davenport - Music Director
 
 ### File Dates
 
