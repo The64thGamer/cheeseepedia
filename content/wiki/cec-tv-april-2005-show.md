@@ -81,18 +81,6 @@ categories = ["Chuck E. Cheese's"]
 
 ## Production
 
-### Credits
-
-- Duncan Brannan - Chuck E. Cheese Voice Actor
-- Annagrey Wiechman - Helen Henny Voice Actress
-- John Bowen - Munch Voice Actor
-- Jeremy Blaido - Jasper T. Jowls Voice Actor
-- Earl Fisher - Pasqually Voice Actor
-- Robert Gotcher - Director, Show Announcer
-- Matt Daniel - Production Coordinator, Show Announcer
-- Ryan Hollingsworth - Production Specialist
-- Sammy Davenport - Music Director
-
 ### File Dates
 
 - (Studio C) DVD: 3/8/2005
