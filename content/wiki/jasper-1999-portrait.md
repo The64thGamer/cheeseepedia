@@ -25,4 +25,4 @@ This poster is one of the many 1999 posters all Chuck E. Cheese locations had. T
 
 
 
-This poster, like many other posters from this time apart of the pack has Jasper in a blue shirt with him kneeling down to look at the camera, this would also have a blue background  behind Jasper too 
+This poster, like many other posters from this time apart of the pack has Jasper in a blue shirt with him kneeling down to look at the camera, this would also have a blue background behind Jasper too 
