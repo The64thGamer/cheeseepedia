@@ -6,12 +6,12 @@ endDate = ""
 pageThumbnailFile = ""
 contributors = ["Stripes", "216.125.34.66", "Rexburg090", "Cheeseclassic", "ThatBoiCydalan", "AlexisCEC", "Cecnj98"]
 citations = [
-	[https://www.newspapers.com/article/newsday-nassau-edition-patchogue-cec/141181115/](https://www.newspapers.com/article/newsday-nassau-edition-patchogue-cec/141181115/), 
-	[https://www.youtube.com/watch?v=lSmh1V2Yevs](https://www.youtube.com/watch?v=lSmh1V2Yevs), 
-	[https://www.youtube.com/watch?v=lSmh1V2Yevs](https://www.youtube.com/watch?v=lSmh1V2Yevs), 
-	[https://www.youtube.com/watch?v=nEX2SIb4z1I](https://www.youtube.com/watch?v=nEX2SIb4z1I), 
-	[https://www.youtube.com/watch?v=bff0fPiHGng](https://www.youtube.com/watch?v=bff0fPiHGng), 
-	[https://www.youtube.com/watch?v=mVcPDdtDAlQ](https://www.youtube.com/watch?v=mVcPDdtDAlQ)
+	"https://www.newspapers.com/article/newsday-nassau-edition-patchogue-cec/141181115/", 
+	"https://www.youtube.com/watch?v=lSmh1V2Yevs", 
+	"https://www.youtube.com/watch?v=lSmh1V2Yevs", 
+	"https://www.youtube.com/watch?v=nEX2SIb4z1I", 
+	"https://www.youtube.com/watch?v=bff0fPiHGng", 
+	"https://www.youtube.com/watch?v=mVcPDdtDAlQ"
 ]
 storeNumber = "496"
 latitudeLongitude = ["40.77941007", "-73.00328438"]
@@ -34,7 +34,7 @@ Sometime between 2004 and 2005, the showroom was dismantled and relocated to the
 The location remained mostly untouched until the rollout of the CEC 2015 Update Program. For an extended period before the update (from at least 2012), the location did not have awnings. Additionally, an image from 2012 (before the removal) reveals that the location did have tiles across the facade. The sign on the right-hand side of the building included the word "Pizza" until the update.
 
 ### 2.0 Remodel
-On August 21, 2023 The store began its "CEC 2.0 Remodel Program" update and received the 2019 model of the {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. Notably, the showroom has been relocated back to where it was originally. In May 2024, the store received the Trampoline Zone to replace booths and Kiddie games it was placed in the back wall of the Toddler Zone where the former {{< wiki-link "Studio C" >}} Stage was.
+On August 21, 2023 The store began its {{< wiki-link "CEC 2.0 Remodel Program" "2.0" >}} update and received the 2019 model of the {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. Notably, the showroom has been relocated back to where it was originally. In May 2024, the store received the Trampoline Zone to replace booths and Kiddie games it was placed in the back wall of the Toddler Zone where the former {{< wiki-link "Studio C" >}} Stage was.
 
 ## Stages
 This location opened with a 2-Stage show. In the early 2000's, the showroom was relocated from the back right-hand corner of the restaurant to the left-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a Studio C Beta. In September 2023, the show was removed replaced by the 2019 Model of the Chuck E. Live Stage (Dance Floor).
