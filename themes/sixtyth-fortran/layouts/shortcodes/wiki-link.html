@@ -1,9 +1,12 @@
-{{- $title := .Get 0 -}} <!-- Get the title passed to the shortcode -->
-
-{{- $articles := where .Site.RegularPages "Title" $title -}} <!-- Find articles with matching titles -->
-
-{{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
-  <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
-{{- else -}}
-  {{- $title -}}
+{{- $lookup := index .Params 0 -}}
+{{- $secondary := index .Params 1 -}}
+{{- $title := $lookup }}
+{{- if $secondary -}}
+{{- $title = $secondary -}}
+{{- end -}}
+{{- $articles := where .Site.RegularPages "Title" $lookup }}
+{{- if gt (len $articles) 0 -}} 
+<a href="{{- (index $articles 0).RelPermalink -}}">{{- $title -}}</a>
+{{- else -}} 
+<a href="#" class="linkerror">{{- $lookup -}}</a>
 {{- end -}}
