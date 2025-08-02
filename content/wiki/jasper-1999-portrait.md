@@ -9,13 +9,20 @@ citations = ["https://www.flickr.com/photos/195304815@N04/albums/721777203251571
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 +++
-The **Jasper 1999 Portrait **  was a decor piece found in Chuck E. Cheese locations from 1999 until Chuck E. Cheese Location’s remodeled to Phase 4 in 2004, this art was made by Dan- Peeler-rose and CEC Entertainment 
+The ***Jasper 1999 Portrait was a decor piece found at Chuck E. Cheese's locations in 1999 apart from the Phase 3 (2000) remodel. 
+
+
 
 ## History 
 
-The **Jasper 1999 Portrait** was one of the sassy 1999 posters featuring all the band members of Munch’s Make Believe band, this would feature at countless Phase 3 locations starting in 1999, this would also be a upgrade to the 1991 posters that were in countless Chuck E. Cheese’s Locations in the early 1990’s with the confetti background 
 
-## Appearance 
 
-This Portrait  featured Jasper T Jowl’s looking to the right with a smile while wearing a blue shirt and no hat, he would also be kneeling with his hand on his leg  this would also have a blue background behind Jasper
+This poster is one of the many 1999 posters all Chuck E. Cheese locations had. This poster would be an update on the decor pieces released in 1991. 
 
+
+
+## Design
+
+
+
+This poster, like many other posters from this time apart of the pack has Jasper in a blue shirt with him kneeling down to look at the camera, this would also have a blue background  behind Jasper too 
