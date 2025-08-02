@@ -17,11 +17,12 @@ This show played from July - August 31, 2010.
 
 ## Show List:
 
-1.  CEC TV ID - 'Aquarium'
+1.  **Intermission 1**
+    1.  CEC TV ID - 'Aquarium'
 2.  **Segment 1**
     1.  'Best Friends'
     2.  'Summertime'
-3.  **Intermission 1**
+3.  **Intermission 2**
     1.  Backstage Pass - 'Kicking Daisies'
     2.  CEC TV ID - 'Dancing Food'
     3.  Fun Facts - 'The Human Eye'
@@ -30,7 +31,7 @@ This show played from July - August 31, 2010.
     6.  CEC TV ID - 'Parachute'
 4.  **Segment 2**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-5.  **Intermission 2**
+5.  **Intermission 3**
     1.  CEC TV ID - 'Crane Game'
     2.  Ralph's World - 'Gotta Be Good'
     3.  CEC TV ID - 'Color The Numbers'
@@ -43,7 +44,7 @@ This show played from July - August 31, 2010.
     10. Busytown Mysteries - 'The Cheese Car Chomp Mystery'
 6.  **Segment 3**
     1.  'Ray of Sunshine'
-7.  **Intermission 3**
+7.  **Intermission 4**
     1.  Fun Facts - 'Emperor Penguins'
     2.  Noonbory & The Super 7 - 'A Honey Of A Tale'
     3.  Wild Animal Baby - 'A Tall Tail'
@@ -53,7 +54,7 @@ This show played from July - August 31, 2010.
     7.  Will & Dewitt - 'My New Boots'
 8.  **Segment 4**
     1.  ['Hey, Soul Sister'](https://en.wikipedia.org/wiki/Hey,_Soul_Sister)
-9.  **Intermission 4**
+9.  **Intermission 5**
     1.  Fun Facts - 'Porcupines Float in Water'
     2.  CEC TV ID - 'Skeeball'
     3.  Dive Olly Dive! - 'Everyone Makes Mistakes'
@@ -61,7 +62,7 @@ This show played from July - August 31, 2010.
     5.  Shout! Factory Presents: Flash Gordon
 10. **Segment 5**
     1.  ['Magic'](https://en.wikipedia.org/wiki/Magic_(Pilot_song))
-11. **Intermission 5**
+11. **Intermission 6**
     1.  CEC TV ID - 'Radio Towers'
     2.  Animal Atlas - 'Animals And Us'
     3.  Sound Splosion: Joe Jonas and Demi Lovato - 'Make A Wave'
@@ -73,7 +74,7 @@ This show played from July - August 31, 2010.
 12. **Segment 6**
     1.  'Livin' Life'
     2.  'In The Summertime'
-13. **Intermission 6**
+13. **Intermission 7**
     1.  Backstage Pass - 'Care Bears On Fire'
     2.  Pocoyo - 'Umbrella Umbrella'
     3.  Sid The Science Kid - 'Don't Forget The Leaves'
