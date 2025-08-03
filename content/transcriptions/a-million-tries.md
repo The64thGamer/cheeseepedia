@@ -5,7 +5,7 @@ contributors = ["showbizdudebeta"]
 +++
 **Chuck E. Cheese: (singing)** 
 
-I was sitting at my desk at school one day, and they did a pop quiz out in front of me. I got a little bit dizzy, and my palms got sweaty, though I took notes I wasn't sure if I was ready, so I took a deep breath and calmed down, all the answers that I lost were suddenly found. My friends stopped being muddy, I was so glad that I studied.
+I was sitting at my desk at school one day, and they did a pop quiz out in front of me. I got a little bit dizzy, and my palms got sweaty, though I took notes I wasn't sure if I was ready, so I took a deep breath and got calmed down, all the answers that I lost were suddenly found. My friends stopped being muddy, I was so glad that I studied.
 
 **Everyone: (singing)** 
 
