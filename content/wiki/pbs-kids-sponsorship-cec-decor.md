@@ -17,5 +17,5 @@ This Poster released alongside countless Phase 4 Decor pieces, but this one was 
 
 ## Design 
 
-The Poster featured Chuck E. Cheese with a ball in his hand with Helen Henny on the monkey bars with another kid is on the monkey bars too while another kid is on the slide . the characters would also be featured on a page of a book. there would also be text on the bottom of the decor that would read "Chuck E. Cheese's is a proud sponsor of PBS Kids"
+The Poster featured Chuck E. Cheese with a ball in his hand with Helen Henny on the monkey bars with another kid is on the monkey bars too while another kid is on the slide. the characters would also be featured on a page of a book. there would also be text on the bottom of the decor that would read "Chuck E. Cheese's is a proud sponsor of PBS Kids"
  
