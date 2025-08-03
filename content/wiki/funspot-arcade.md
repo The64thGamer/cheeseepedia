@@ -28,7 +28,7 @@ There are more locations than what is known. It is known one arcade was installe
 
 | Location | Address | Arcade Name | Opening Date | Closing Date |
 | -------- | ------- | -------- | ------- | -------- |
-| Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}  |  N/A | May 2022 | N/A |
+| Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}  |  Chuck E. Cheese's Fun Zone | May 2022 | N/A |
 | Embassy Suites | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}} | ??? | ??? | N/A |
 | Eastview Mall | {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}} | Fun Spot Arcade | October 2024 |  N/A |
 | Rockingham Park Mall | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}} | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025) | December 13, 2024 | N/A |
