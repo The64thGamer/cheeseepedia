@@ -13,7 +13,7 @@ I don't have straight A’s, but I put in the work, and I make the grades to the
 
 **Chuck E. Cheese: (singing)**
 
-So i brought my paper home showed mom and dad, they really really proud of the grade I had, even though it wasn’t perfect they could tell that I’ve been working, yeah a job well done has its own reward, sometimes you don’t know what moving toward till you get there in that moment and then you're so glad that you earned it.
+So I brought my paper home showed mom and dad, they really really proud of the grade I had, even though it wasn’t perfect they could tell that I’ve been working, yeah a job well done has its own reward, sometimes you don’t know what moving toward till you get there in that moment and then you're so glad that you earned it.
 
 **Everyone: (singing)** 
 
