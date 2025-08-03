@@ -17,7 +17,7 @@ So i brought my paper home showed mom and dad, they really really proud of the g
 
 **Everyone: (singing)** 
 
-No I don’t have straight A’s but i put in the work and i make the grade to the best of my ability knowing that i tried is enough for me, I’ll keep shooting to the stars if I never make it there I might still land on Mars and be closer to the prize even if it takes a million tries.
+No I don’t have straight A’s but i put in the work and i make the grade to the best of my ability knowing that i tried is enough for me, I’ll keep shooting for the stars if I never make it there I might still land on Mars and be closer to the prize even if it takes a million tries.
 
 
 **Chuck E. Cheese: (singing)**
