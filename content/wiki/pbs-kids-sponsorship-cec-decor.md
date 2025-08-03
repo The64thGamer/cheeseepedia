@@ -9,7 +9,7 @@ citations = ["Flickr"]
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 +++
-The **PBS Kids Sponsorship** was a CEC Decor released for Chuck E. Cheese's Location in 2005 and was found at countless Chuck E. Cheese Locations for their sponsorship with PBS Kids.
+The **PBS Kids Sponsorship** was a CEC Decor piece released for Chuck E. Cheese's Location in 2005 and was found at countless Chuck E. Cheese Locations for their sponsorship with PBS Kids.
 
 ## History
 
