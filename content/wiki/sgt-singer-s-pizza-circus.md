@@ -1,12 +1,12 @@
 +++
-title = "Sgt. Singer's Pizza Circus"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Presentations"]
+title = "Sgt. Singer's Pizza Circus"
 startDate = ""
 endDate = ""
-contributors = ["Lelmaster","BigCtheDataFinder"]
-citations = ["<a href=\"https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated\">https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated</a>","<a href=\"https://www.youtube.com/watch?v=b_L3v3LnhPk\">https://www.youtube.com/watch?v=b_L3v3LnhPk</a>","<a href=\"https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==</a>","<a href=\"https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc\">https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</a>","<a href=\"https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>"]
+contributors = ["Lelmaster", "BigCtheDataFinder"]
+citations = ["<a href=\"https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated\">https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated</a>", "<a href=\"https://www.youtube.com/watch?v=b_L3v3LnhPk\">https://www.youtube.com/watch?v=b_L3v3LnhPk</a>", "<a href=\"https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==</a>", "<a href=\"https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc\">https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</a>", "<a href=\"https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>", "https://archive.org/details/sim_amusement-business_1986-05-03_98_17/page/n15/mode/2up?q=Sergeant+Striper"]
+tags = ["Animatronic Shows"]
+categories = ["Creative Presentations"]
 +++
 
 ***Sgt. Singer's Pizza Circus*** (styled as ***Sgt. Singer's Spectacular Star Studded Circus Pizza Show***) was a chain of family entertainment centers that were best known for their animatronic bands manufactured by Creative Presentations and their massive arcade selections.
@@ -23,7 +23,7 @@ Taking a page from the recent successes of *Chuck E. Cheese's Pizza Time Theatre
 
 ### *Sgt. Striper's* and the Closure of *Sgt. Singer's Pizza Circus*
 
-Despite its moderate success as a small regional chain, NDI ultimately shifted its focus back to standard arcades. This meant *Sgt. Singer's* was now an afterthought to the company, leading to the discontinuation of new locations. Creative Presentations, left with an abundant stock of unused shows, retained all rights to the characters and began selling their stock to other clients. The band, now rebranded as ***Sgt. Striper's Review***, was sold to be versatile in theme. These various themes included:
+Despite its moderate success as a small regional chain, NDI ultimately shifted its focus back to standard arcades. This meant *Sgt. Singer's* was now an afterthought to the company, leading to the discontinuation of new locations. Creative Presentations, left with an abundant stock of unused shows, retained all rights to the characters and began selling their stock to other clients. The band, now rebranded as ***Sgt. Striper's Review***, was sold to be versatile in theme. The first notable client was an arcade and amusements company called Meisho Amusements, who made a contract with Creative Presentations to showcase the bots at the Beijing Amusements Expo of 1986.(6) While it's not definite, it's very likely that this was when Creative Presentations also made their contract with Okamotos Amusements to sell the Sgt. Striper's sets as "Circus Band". Some of the themes offered by CPI were:
 
 - Circus Band|Sgt. Striper's Circus Band (Distributed by Okamoto Amusements in Japanhttps://web.archive.org/web/20110524063531/http://www.okamotos.co.jp/cotarog/sonota.pdf)
 - Sgt. Striper's Beach Bums (Also distributed by Okamoto Amusements in Japan)
