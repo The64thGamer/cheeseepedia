@@ -5,11 +5,11 @@ contributors = ["showbizdudebeta"]
 +++
 **Chuck E. Cheese: (singing)** 
 
-I was sitting at my desk at school one day, and they did a pop quiz out in front of me. I got a little bit dizzy and my palms got sweaty, though I took notes I wasn't sure if I was ready, so I took a deep breath and calmed down, all the answers that i lost were suddenly found. My friends stopped being muddy, I was so glad that I studied.
+I was sitting at my desk at school one day, and they did a pop quiz out in front of me. I got a little bit dizzy, and my palms got sweaty, though I took notes I wasn't sure if I was ready, so I took a deep breath and calmed down, all the answers that i lost were suddenly found. My friends stopped being muddy, I was so glad that I studied.
 
 **Everyone: (singing)** 
 
-I don't have straight A’s but I put in the work and I make the grades to the best of my ability, knowing that I tried is enough for me. I keep shooting for the stars. If I never make it there I might  still land on Mars and be closer to the prize even if it takes a million tries.
+I don't have straight A’s, but I put in the work, and I make the grades to the best of my ability, knowing that I tried is enough for me. I keep shooting for the stars. If I never make it there, I might still land on Mars and be closer to the prize even if it takes a million tries.
 
 **Chuck E. Cheese: (singing)**
 
