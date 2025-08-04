@@ -1,33 +1,31 @@
 +++
-title = "Lexington, KY (1555 New Circle Rd)"
 draft = false
+title = "Lexington, KY (1555 New Circle Rd)"
+startDate = "1983-12-01"
+endDate = "2025-08-04"
+contributors = ["CECBowlingGreen", "Chouts1", "Rexburg090", "ChuckECool", "ThatBoiCydalan", "SuperCreamPiper2008", "CoolerDude", "CECswag2009", "TheEntireShrekScript"]
+citations = ["<a href=\"https://www.reddit.com/r/chuckecheese/comments/1mgzqcs/store_closure_1555_e_new_circle_rd_lexington_ky/\">https://www.reddit.com/r/chuckecheese/comments/1mgzqcs/store_closure_1555_e_new_circle_rd_lexington_ky/</a>"]
+latitudeLongitude = ["38.01760227", "-84.45609923"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-
-
-startDate = "1983-12-01"
-endDate = ""
-contributors = ["CECBowlingGreen","Chouts1","Rexburg090","ChuckECool","ThatBoiCydalan","SuperCreamPiper2008","CoolerDude","CECswag2009"]
-citations = []
-latitudeLongitude = ["38.01760227","-84.45609923"]
 +++
 
-**1555 New Circle Rd, Store #963** was a ShowBiz Pizza Place that opened on December 1, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received Concept Unification either in 1991 or 1992, which was replaced with a Studio C Beta, 16m in 2007 or 2008, and then received 2.0 in 2019.
+**1555 New Circle Rd, Store #963** was a ShowBiz Pizza Place that opened on December 1, 1983 with a Rock-Afire Explosion and closed on August 4th, 2025 with the 2.0 remodel. This location received Concept Unification either in 1991 or 1992, which was replaced with a Studio C Beta, 16m in 2007 or 2008, and then received 2.0 in 2019.
 
 ## History
 
-Lexington opened on December 1st, 1983 as the second ShowBiz Pizza Place in Kentucky, after {{< wiki-link "Paducah, KY (5141 Hinkleville Rd)" >}} which opened the year prior, in the Woodhill Circle Plaza. Lexington received the SPP 1988 Remodel|1988 Remodel in around 1998-1989. They then underwent Concept Unification in 1991. Lexington then received another remodel in the Mid 1990's which involved the removal of elements from the 1988 remodel such as The Blue &amp; White Awnings, checkers around the store, &amp; neon lights. Then in 2006 or 2007, they received the CEC 2005 Remodel which involved the store being expanded, therefore gutting the current showroom, replacing the 3-Stage with a Studio C Beta 16m, &amp; turning the current Showroom into a gameroom. Then they would receive the 2.0 Remodel in 2019, replacing the Studio C Beta 16m with a Dance Floor. As of October 2022, they are the second last former ShowBiz in Kentucky, as the Owensboro location closed in 1998. They were a franchise store, and were acquired by corporate on September 16th, 1996, along with many other locations and closing Rochester (Penfield), NY.
+Lexington opened on December 1st, 1983 as the second ShowBiz Pizza Place in Kentucky, after {{< wiki-link "Paducah, KY (5141 Hinkleville Rd)" >}} which opened the year prior, in the Woodhill Circle Plaza. Lexington received the SPP 1988 Remodel|1988 Remodel in around 1998-1989. They then underwent Concept Unification in 1991. Lexington then received another remodel in the Mid 1990's which involved the removal of elements from the 1988 remodel such as The Blue &amp; White Awnings, checkers around the store, &amp; neon lights. Then in 2006 or 2007, they received the CEC 2005 Remodel which involved the store being expanded, therefore gutting the current showroom, replacing the 3-Stage with a Studio C Beta 16m, &amp; turning the current Showroom into a gameroom. Then they would receive the 2.0 Remodel in 2019, replacing the Studio C Beta 16m with a Dance Floor. As of October 2022, they were the second last former ShowBiz in Kentucky, as the Owensboro location closed in 1998. They were a franchise store, and were acquired by corporate on September 16th, 1996, along with many other locations and closing Rochester (Penfield), NY. On the night of August 4th, 2025, Lexington would permanently close. As of August 4th, 2025, the store is currently in the process of being emptied out.
 
 ## Stages
 
-Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the {{< wiki-link "Concept Unification Stage" >}} until either 2006 or 2007, when they would replace it with a {{< wiki-link "Studio C Beta" >}}, 16m, this was the first and only {{< wiki-link "Studio C Beta" >}} in Kentucky, as Louisville has a {{< wiki-link "Studio C Alpha" >}}, and Bowling Green had a {{< wiki-link "Studio C Cappa" >}}. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. They were the second 2.0 in the state, after {{< wiki-link "Paducah, KY (5141 Hinkleville Rd)" >}}, which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when {{< wiki-link "Florence, KY (7635 Mall Rd)" >}} would receive 2.0, and then {{< wiki-link "Bowling Green, KY (2625 Scottsville Rd)" >}} received it in June of 2022, making Louisville the last non-2.0 store in Kentucky.
+Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the {{< wiki-link "Concept Unification Stage" >}} until either 2006 or 2007, when they would replace it with a {{< wiki-link "Studio C Beta" >}}, 16m, this was the first and only {{< wiki-link "Studio C Beta" >}} in Kentucky, as Louisville has a {{< wiki-link "Studio C Alpha" >}}, and Bowling Green had a {{< wiki-link "Studio C Cappa" >}}. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. They were the second 2.0 in the state, after {{< wiki-link "Paducah, KY (5141 Hinkleville Rd)" >}}, which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when {{< wiki-link "Florence, KY (7635 Mall Rd)" >}} would receive 2.0, and then {{< wiki-link "Bowling Green, KY (2625 Scottsville Rd)" >}} received it in June of 2022, making Louisville the last non-2.0 store in Kentucky. Lexington's Dance Floor would eventually be removed in 2025 after the location closed in early August that same year.
 
 | Stage                                                      | Installed     | Removed      |
 |------------------------------------------------------------|---------------|--------------|
 | {{< wiki-link "Classic Stage" >}}                    | November 1983 | 1991         |
 | {{< wiki-link "Concept Unification Stage" >}}        | 1991          | 2006 or 2007 |
 | {{< wiki-link "Studio C Beta" >}}                    | 2006 or 2007  | 2019         |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2019          | Still In Use |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2019          | 2025 |
 
 ## Videos
 
