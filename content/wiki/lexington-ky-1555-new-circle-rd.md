@@ -1,18 +1,16 @@
 +++
-title = "Lexington, KY (1555 New Circle Rd)"
 draft = false
+title = "Lexington, KY (1555 New Circle Rd)"
+startDate = "1983-12-01"
+endDate = "2025-08-03"
+contributors = ["CECBowlingGreen", "Chouts1", "Rexburg090", "ChuckECool", "ThatBoiCydalan", "SuperCreamPiper2008", "CoolerDude", "CECswag2009", "smileshy22"]
+citations = ["https://www.kentucky.com/lexgoeat/restaurants/article311570069.html"]
+latitudeLongitude = ["38.01760227", "-84.45609923"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-
-
-startDate = "1983-12-01"
-endDate = ""
-contributors = ["CECBowlingGreen","Chouts1","Rexburg090","ChuckECool","ThatBoiCydalan","SuperCreamPiper2008","CoolerDude","CECswag2009"]
-citations = []
-latitudeLongitude = ["38.01760227","-84.45609923"]
 +++
 
-**1555 New Circle Rd, Store #963** was a ShowBiz Pizza Place that opened on December 1, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received Concept Unification either in 1991 or 1992, which was replaced with a Studio C Beta, 16m in 2007 or 2008, and then received 2.0 in 2019.
+**1555 New Circle Rd, Store #963** was a ShowBiz Pizza Place that opened on December 1, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received Concept Unification either in 1991 or 1992, which was replaced with a Studio C Beta, 16m in 2007 or 2008, and then received 2.0 in 2019. The location quietly closed on August 3, 2025.<sup>(1)</sup>
 
 ## History
 
@@ -27,7 +25,7 @@ Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Pla
 | {{< wiki-link "Classic Stage" >}}                    | November 1983 | 1991         |
 | {{< wiki-link "Concept Unification Stage" >}}        | 1991          | 2006 or 2007 |
 | {{< wiki-link "Studio C Beta" >}}                    | 2006 or 2007  | 2019         |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2019          | Still In Use |
+| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2019          | 2025 |
 
 ## Videos
 
