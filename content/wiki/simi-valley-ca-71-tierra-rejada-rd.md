@@ -5,7 +5,7 @@ startDate = "1980-10-20"
 endDate = "2008-05-00"
 pageThumbnailFile = "_AOXtXk1RPnHyBw_gwYK.avif"
 contributors = ["BurgersNuggs445", "Rexburg090", "ChuckECool", "The 64th Gamer", "ThatBoiCydalan", "CorrectorMan", "76.169.103.193", "CEC Tinley", "SuperCreamPiper2008", "Chouts1"]
-citations = ["<a href=\"<a\"> href=\"https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc\"> https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcf</a></a>", "<a href=\"https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing\">https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing</a>", "<a href=\"https://www.youtube.com/watch?v=mNeLNeALLMM\">https://www.youtube.com/watch?v=mNeLNeALLMM</a>"]
+citations = [" [https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcf](https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc)", "[https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing%22](https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?usp=sharing%22)", "[https://www.youtube.com/watch?v=mNeLNeALLMM](%22https://www.youtube.com/watch?v=mNeLNeALLMM%22)", "[https://www.reddit.com/r/chuckecheese/comments/1m2uq7t/which_cyberamic_head_is_this/](https://www.reddit.com/r/chuckecheese/comments/1m2uq7t/which_cyberamic_head_is_this/)"]
 latitudeLongitude = ["34.27195067", "-118.801151"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
@@ -23,16 +23,16 @@ Simi Valley opened its doors on October 20, 1980, in a shopping center adjacent 
 
 ## Animatronics
 
-| Animatronic                                                  | Manufacturing Date | Status/Whereabouts |
-|--------------------------------------------------------------|--------------------|--------------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980               | Unknown            |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980               | Unknown            |
-| Chuck E Cheese (Cyberamic)                                   | 1980               | Unknown            |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980               | Unknown            |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980               | Unknown            |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1980               | Unknown            |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1980               | Unknown            |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1980               | Unknown            |
-| {{< wiki-link "Flag Wavers (Cyberamic)" >}}            | 1980               | Unknown            |
-| {{< wiki-link "The Beagles Beach Bowzers (Lounge)" >}} | 1980               | Unknown            |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | 1980               | Unknown            |
+  Animatronic                                                  Manufacturing Date   Status/Whereabouts
+  ------------------------------------------------------------ -------------------- --------------------
+  {{< wiki-link "Mr Munch (Cyberamic)" >}}                 1980                 Unknown
+  {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}           1980                 Unknown
+  {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}        1980                 Head mech possibly popped up on Ebay in July 2025. Rest unknown.
+  {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}   1980                 Unknown
+  {{< wiki-link "Pasqually (Cyberamic)" >}}                1980                 Unknown
+  {{< wiki-link "Warblettes (Cyberamic)" >}}               1980                 Unknown
+  {{< wiki-link "Applause Board (Cyberamic)" >}}           1980                 Unknown
+  {{< wiki-link "Drum Board (Cyberamic)" >}}               1980                 Unknown
+  {{< wiki-link "Flag Wavers (Cyberamic)" >}}              1980                 Unknown
+  {{< wiki-link "The Beagles Beach Bowzers (Lounge)" >}}   1980                 Unknown
+  {{< wiki-link "The King King Kat (Lounge)" >}}           1980                 Unknown
