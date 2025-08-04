@@ -67,3 +67,4 @@ In 1994, a man allegedly stole $81 dollars from the location, the man has since 
 | Link                                 | Description                                 | Filming Date      |
 |--------------------------------------|---------------------------------------------|-------------------|
 | [Link](https://youtu.be/SeeRKV_A5RM) | A video of the inside of this store in 1991 | August 13th, 1991 |
+| [Link](https://www.youtube.com/watch?v=77v29ZpO8AU) | A video of the inside of this store at an unknown date | Unknown |
