@@ -1,15 +1,14 @@
 +++
-title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
-tags = ["Locations"]
-categories = [""]
-latitudeLongitude = ["39.27718216891677", "-74.56620273165741"]
-
+title = "Ocean City, NJ (600 Boardwalk)"
 startDate = "1929-00-00"
 endDate = ""
-contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic","Destinationimagination95"]
-citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637\">https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</a>","<a href=\"https://youtu.be/UvaBNUrgag4\">https://youtu.be/UvaBNUrgag4</a>"]
 pageThumbnailFile = "lRNw4fmA25YWY6IB1mk1.avif"
+contributors = ["Jamsxyz", "The 64th Gamer", "PizzaEntertainmentFanX", "Cheeseclassic", "Destinationimagination95"]
+citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637\">https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</a>", "<a href=\"https://youtu.be/UvaBNUrgag4\">https://youtu.be/UvaBNUrgag4</a>"]
+latitudeLongitude = ["39.27718216891677", "-74.56620273165741"]
+tags = ["Locations"]
+categories = ["Sally Corporation"]
 +++
 
 ***Ocean City, NJ (600 Boardwalk)*** is the first ***Gillian's Wonderland Pier*** that was founded in 1929 by ***David Gillian*** as a historic amusement park. The place contains a retrofitted {{< wiki-link "Pizza Time Theatre" >}} {{< wiki-link "Cyberamics Balcony Stage" >}} known as ***Rocky &amp; The Railroad Ramblers***.
@@ -28,9 +27,11 @@ The original bots came from the {{< wiki-link "Dickson City Scranton, PA (1011 S
 
 The area would go under heavy remodeling in around mid to late 2002. The Showtape made for Enchated Forest's Rocky &amp; The Rambling Rascals' was given to Gillian's in 1998 &amp; replaced the originally fully by 2005. The characters got new cosmetics, &amp; most old props were either replaced or removed. The boxes &amp; barrels also were painted to be more colorful in the mid 2000's. The version would remain the same until 2015. The show was in heavy disrepair by 2011.
 
-#### Legacy Version (2015-Present)
+#### Legacy Version (2015-present)
 
-In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022.
+In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022. 
+
+Upon the closure of Gillian's Wonderland Pier in 2024, the stage was relocated to The Promenade Food Court in the summer of 2025, where it still operates today.
 
 ## Stages
 
