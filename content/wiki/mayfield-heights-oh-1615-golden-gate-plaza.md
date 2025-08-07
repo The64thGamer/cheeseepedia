@@ -22,7 +22,7 @@ Mayfield Heights opened on April 2nd, 2001 as a Chuck E Cheese’s in the Golden
 
 In 2019, Two employees at this location got into a fight which led to extensive damage to the Dippin Dots machine. In 2021, a large fight broke out following an altercation between two kids. 
 
-##Stage
+## Stage
 | Stage                                                | Installed      | Removed               | Notes
 |
 |——————————————————————————————|———————————-|———————————-|——————————————————————————-|
