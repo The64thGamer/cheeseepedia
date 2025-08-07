@@ -55,7 +55,7 @@ The figure features 1 movement in total.
   | Location                                                                   | Stage Type | Wink Type                           | Debuted           | Condition / Notes         |
   |----------------------------------------------------------------------------|------------|-------------------------------------|-------------------|---------------------------|
   |                                                                            |            |                                     |                   |                           |
-  | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}       | 3-Stage    | 1990 Wink (In Pizza We Trust)       | Q3 1991           | Functional.               |
+  | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}       | 3-Stage    | 1990 Wink (In Pizza We Trust)       | Q3 1991           | Functional. Legacy Store. |
   | {{< wiki-link "Willowdale, Ontario, Canada (2452 Sheppard Ave)" >}}  | 2-Stage    | 1992 Wink                           | 1992-1993         | Functional. Legacy Store. |
   | {{< wiki-link "Annapolis, MD (2333-A Forest Dr)" >}}                 | 2-Stage    | 1990 Wink (Red &amp; White Ribbons) | April 10, 1993    | Doesn't function.         |
   | {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}                | 2-Stage    | 1992 Wink                           | 1992-1993         | Functional. Legacy Store  |
