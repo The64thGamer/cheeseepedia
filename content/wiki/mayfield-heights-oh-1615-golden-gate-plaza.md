@@ -14,7 +14,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 ***1615 Golden Gate Plaza, Store #547 is a *Chuck E. Cheese’s*/Chuck E. Cheese* in Mayfield Heights, Ohio. The store opened on April 2nd, 2001 with a Studio C Alpha
 
-##History
+## History
 
 Mayfield Heights opened on April 2nd, 2001 as a Chuck E Cheese’s in the Golden Gate Plaza Shopping Center. This location opened with the Operation Thumb Chuck remodel with no Chuck logo on the exterior. In the late 2000’s, this location remodeled to the 2003 Cool Chuck reconfiguration, which painted some walls purple, tearing down the showroom walls, & added newer decor but mostly kept the decor from the Operation Thumb Chuck remodel such as the Must C TV posters to the left of the stage. Between 2017-2018, the whole shopping center would be remodeled. As of August 2025, this location is still open and 1 of 2 locations in Ohio that hasn’t been remodeled to 2.0, the other being {{< wiki-link “Toledo, OH (5455 Airport Hwy>}}
 
