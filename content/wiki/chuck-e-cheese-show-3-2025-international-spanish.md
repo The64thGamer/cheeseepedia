@@ -12,38 +12,38 @@ categories = ["Chuck E. Cheese's"]
 
 ## Schedule:
 
-**Intermission 1**
+1. **Intermission 1**
  1. Karol G - 'La Vida Es Una'
  2. Kidz Bop - 'Certified Bop'
-**Skit 1**
+2. **Skit 1**
 1. Chuck E. & Friends 'Song Title'
-**Intermission 2**
+3. **Intermission 2**
 1. Alvaro Soler - 'Para Vivilar' (Live Version)
 2. Chuck E. Cheese - 'Let’s Have A Party' (Spanish)
 3. Kidz Bop - 'Si Antes Te Hubiera Conocido'
-**Skit 2**
+4. **Skit 2**
 1. Helen Henny - 'Gamin’ Time'
-**Intermission 3**
+5. **Intermission 3**
 1. Gente de Zona - 'Somos'
 2. Chuck E. Cheese - 'Bubble Bubble Pop' (Spanish)
 3. Jorge Luis Chacín - 'Contento'
-**Skit 3**
+6. **Skit 3**
 1. Chuck E. & Friends - 'More Cheese'
-**Intermission 4**
+7. **Intermission 4**
 1. Kidz Bop - 'Espresso'
 2. Diego Torres - 'Mejor Que Ayer'
 3. Fibonacci Birthday
-**Skit 4**
+8. **Skit 4**
 1. Chuck E. & Friends - 'Fun For All'
-**Intermission 5**
+9. **Intermission 5**
 1. Chuck E. Cheese - 'Lend A Helping Hand' (Spanish)
-**Skit 5**
+10. **Skit 5**
 1. Jasper T. Jowls - 'The Tail Of Jasper T.'
-**Intermission 6**
+11. **Intermission 6**
 1. Chuck E. Cheese - Hippoplatypus (Spanish)
 2. Fergie - Clumsy
 3. Ricky Martin - 'La Copa de la Vida'
-**Skit 6**
+12. **Skit 6**
 1. Chuck E. & Friends - 'Out Of This World'
 
 ## Lives:
