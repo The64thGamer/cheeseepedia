@@ -82,6 +82,8 @@ The **May 2011 Show** was the spring & summer show for the year of 2011, and the
 - Chuck E. Shuffle
 - Happy & You Know It
 - Old MacDonald
+- Cupid Shuffle (Studio C)
+- Jumpin’ (Studio C)
 
 ## Production
 
