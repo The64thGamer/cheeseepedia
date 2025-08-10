@@ -1,16 +1,16 @@
 +++
-title = "September 2005 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "September 2005 Show"
 startDate = "2005-09-00"
 endDate = "2005-11-00"
-contributors = ["The 64th Gamer","RedaCEC","Ceclife13","Documentor","John95"]
-citations = []
 pageThumbnailFile = "L_78QNChS6VU4XIOSgzJ.avif"
-credits = ["Duncan Brannan|Voice of Chuck E. Cheese","Annagrey Wiechman|Voice of Helen Henny","John Bowen|Voice of Mr. Munch","Jeremy Blaido|Voice of Jasper","Earl Fisher|Voice of Pasqually The Chef","Robert Gotcher|Director, Show Announcer, Plumber, Biker","Michael Hill|Studio Coordinator","Ryan Hollingsworth|Production Specialist, Richard Hunderton","Sammy Davenport|Music Director"]
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","3-Stage SVHS (Pre-93)","3-Stage SVHS (Post-93)","R12 SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2005.img|Studio C Floppy Disk","https://archive.org/download/studio-c-floppy-discs-rips/Sept2005Version2.img|Studio C Floppy Disk (Ver. 2)"]
+contributors = ["The 64th Gamer", "RedaCEC", "Ceclife13", "Documentor", "John95"]
+citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202005%20Studio%20C.iso"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director, Show Announcer, Plumber, Biker", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist, Richard Hunderton", "Sammy Davenport|Music Director"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2005.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2005Version2.img|Studio C Floppy Disk (Ver. 2)"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 **September 2005 Show** was a showtape released in September 2005 which ran through November 2005. It was the last showtape to feature curtain signals for existing stages.
 
@@ -47,8 +47,8 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept20
 8.  **Intermission 4**
     1.  CEC TV ID - 'Astronaut'
     2.  Teenage Mutant Ninja Turtles
-    3.  Kidz Bop - 'Since U Been Gone'
-    4.  Play-Doh Spot
+    3.  Play-Doh Spot
+    4.  Kidz Bop - 'Since U Been Gone'
     5.  Countdown ('Footloose' footage)
 
 ## Lives:
