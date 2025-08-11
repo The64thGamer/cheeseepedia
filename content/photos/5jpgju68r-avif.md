@@ -1,5 +1,5 @@
 +++
-title = "68jkyuikik.avif"
+title = "78jpgk7t8k.avif"
 description = "Chuck E. Cheese Halloween mask from 1978."
 startdate = "2025-08-11"
 pages = ["1978 Chuck E. Cheese Halloween Mask"]
