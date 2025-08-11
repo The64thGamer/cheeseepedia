@@ -3,14 +3,12 @@ title = "AAM Chuck E. Cheese (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1996-00-00"
-endDate = "0000-00-00"
+startDate = "1996-08-21"
+endDate = "1997-00-00"
 contributors = ["BurgersNuggs445","LolMarklosthisaccountalready","216.125.34.66","The 64th Gamer","Paskkkk"]
 citations = []
 unitsProduced = "1"
-pageThumbnailFile = "vsAO2rFYrGW3O9tNcqo_.avif"
+pageThumbnailFile = "gini345ugn345g.avif"
 manufacturer = "Animation World"
 +++
 

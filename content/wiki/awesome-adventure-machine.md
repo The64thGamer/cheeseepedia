@@ -3,8 +3,9 @@ title = "Awesome Adventure Machine"
 draft = false
 tags = ["Animatronic Shows"]
 categories = ["Chuck E. Cheese's"]
-startDate = ""
-endDate = ""
+startDate = "1996-08-21"
+endDate = "1997-00-00"
+pageThumbnailFile = "gini345ugn345g.avif"
 contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","74.70.97.78","Cy's Junk at School"]
 citations = ["[https://www.youtube.com/watch?v=99vsWR406xo](%22https://www.youtube.com/watch?v=99vsWR406xo%22)","[https://www.youtube.com/watch?v=5mqJMsr_PLU](%22https://www.youtube.com/watch?v=5mqJMsr_PLU%22)"]
 +++
