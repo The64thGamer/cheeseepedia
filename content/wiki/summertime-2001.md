@@ -94,7 +94,7 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
 - America '99 (Existing Stages)
 - Rockin' Christmas Eve (Existing Stages)
 
-**Birthday Break**: The Birthday Break is reused {{< wiki-link "Chuck E's Rockin' Rhymes" >}}. It could be set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: The Birthday Break is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}. It could be set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
 ## Production
 
