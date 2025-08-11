@@ -1,4 +1,5 @@
 {{- define "main" -}}
+  {{- .Page.Store.Set "citationsCount" dict -}}
   {{- $layout := "baseArticle" -}}
   {{- with .Params.tags -}}
     {{- if in . "User" -}}
