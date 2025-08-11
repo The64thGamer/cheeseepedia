@@ -3,7 +3,7 @@
   {{- "" -}}
 {{- else -}}
 <div class="sales-section">
-  <h2>Sales</h2>
+  <h2>Market Sales</h2>
   <div class="sales-chart-wrap">
     <!-- pass raw sales array to JS -->
     <div id="sales-chart"
@@ -214,16 +214,6 @@
     circle.appendChild(title);
     svg.appendChild(circle);
   });
-
-  // Caption text (var(--white))
-  const caption = document.createElementNS(svg.namespaceURI,'text');
-  caption.setAttribute('x',viewW - margin.right);
-  caption.setAttribute('y', margin.top+12);
-  caption.setAttribute('font-size','11');
-  caption.setAttribute('fill',axisTextColor);
-  caption.setAttribute('text-anchor','end');
-  caption.textContent = 'Sales over time';
-  svg.appendChild(caption);
 
   wrapper.appendChild(svg);
 })();
