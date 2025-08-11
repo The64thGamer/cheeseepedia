@@ -2,7 +2,7 @@
 draft = false
 title = "Lo Barnechea (Cantagallo), Chile"
 startDate = "1994-12-00"
-endDate = ""
+endDate = "2025-6-10"
 pageThumbnailFile = "345y4hrth45h4h.avif"
 contributors = ["CECBowlingGreen", "Pask", "CECR995"]
 citations = ["https://www.youtube.com/watch?v=m--a-GNlUhk", "https://www.youtube.com/watch?v=M8G8q797HtE", "<a href=\"https://cheeseepedia.org/wiki/File:Inside_Plaza_Oeste%27s_Chuck_E._bot.png\">https://cheeseepedia.org/wiki/File:Inside_Plaza_Oeste%27s_Chuck_E._bot.png</a>"]
@@ -11,11 +11,11 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-**Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea** is a Chuck E. Cheese's that opened in December 1994 with a 1-Stage, which is still open to this day. This location is the first and oldest location opened in the country of Chile. It also has the only 1-Stage outside of the United States after the relocation of {{< wiki-link "Santiago (Plaza Oeste), Chile" >}}, also in Chile.
+**Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea** is a Chuck E. Cheese's that opened in December 1994 with a 1-Stage, And Closed On The 10th August 2025. This location is the first and oldest location opened in the country of Chile. It also has the only 1-Stage outside of the United States after the relocation of {{< wiki-link "Santiago (Plaza Oeste), Chile" >}}, also in Chile.
 
 ## History
 
-Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}}). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the {{< wiki-link "CEC 2000's Remodel Program" >}}). At some point during the 2020s, the store received 2.0 art.
+Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}}). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the {{< wiki-link "CEC 2000's Remodel Program" >}}). At some point during the 2020s, the store received 2.0 art. 
 
 ## Stages
 
@@ -23,17 +23,17 @@ This store opened with a 1-Stage, which also had a turntable. During the 2000s, 
 
 | Stage   | Installed     | Removed      | Condition / Notes                            |
 |---------|---------------|--------------|----------------------------------------------|
-| 1-Stage | December 1994 | Still In Use | Poor Condition. Last 1-Stage outside the US. |
+| 1-Stage | December 1994 | Not In Use | Poor Condition. Last 1-Stage outside the US. |
 
 ## Animatronics
 
 | Animatronic                 | Manufacturing Date  | Whereabouts                                                                                         |
 |-----------------------------|---------------------|-----------------------------------------------------------------------------------------------------|
 | Chuck E. Cheese (Cyberamic) | February 1, 1982(3) | Original animatronic replaced with one from {{< wiki-link "Santiago (Plaza Oeste), Chile" >}} |
-| Helen Henny (Cyberamic)     | Unknown             | Currently in Use                                                                                    |
-| Mr. Munch (Cyberamic)       | Unknown             | Currently in Use                                                                                    |
-| Jasper T. Jowls (Cyberamic) | Unknown             | Currently in Use                                                                                    |
-| Pasqually (Cyberamic)       | Unknown             | Currently in Use                                                                                    |
+| Helen Henny (Cyberamic)     | Unknown             | Currently Not In Use                                                                                |
+| Mr. Munch (Cyberamic)       | Unknown             | Currently Not In Use                                                                              |
+| Jasper T. Jowls (Cyberamic) | Unknown             | Currently Not In Use                                                                                      |
+| Pasqually (Cyberamic)       | Unknown             | Currently Not In Use                                                                                     |
 | Wink (Cyberamic)            | Unknown             | Removed during 2008 remodel, whereabouts unknown.                                                   |
 
 ## Videos
