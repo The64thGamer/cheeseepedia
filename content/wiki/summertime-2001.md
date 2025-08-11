@@ -23,7 +23,7 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
     1.  'Summertime'
     2.  'Fun, Fun, Fun!'
 2.  **Intermission 1**
-    1.  'For The Birds'
+    1.  'Wildlife'
     2.  CEC TV ID - 'Rocketship'
     3.  Store Intro - 'Brick, NJ' (Cookie)
 3.  **Segment 2**
