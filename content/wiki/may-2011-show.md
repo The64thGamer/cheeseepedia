@@ -12,7 +12,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/MAY11.
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The **May 2011 Show** was the spring & summer show for the year of 2011, and the first of two shows to feature Robert Gotcher as the voice of Jasper following Jeremy Blaido's brief departure from the role. It featured eight new songs, and ran through August 2011.
+The **May 2011 Show** was the spring & summer show for the year of 2011, and the first of two shows to feature Robert Gotcher as the voice of Jasper following Jeremy Blaido's brief departure from the role. It featured eight new songs and ran through August 2011.
 
 ## Show List:
 
@@ -82,6 +82,8 @@ The **May 2011 Show** was the spring & summer show for the year of 2011, and the
 - Chuck E. Shuffle
 - Happy & You Know It
 - Old MacDonald
+- Cupid Shuffle (Studio C)
+- Jumpin’ (Studio C)
 
 ## Production
 
@@ -95,5 +97,5 @@ The **May 2011 Show** was the spring & summer show for the year of 2011, and the
 - The classic CEC Wink audio plays after every segment on the Existing Stage version of the show. This show played during the 20th anniversary of this audio, which debuted with {{< wiki-link "CEC Games" >}} in July 1991.
 - Robert Gotcher previously provided Jasper's speaking voice for {{< wiki-link "Environment '92" >}}.
 - Duncan Brannan was initially considered to become Jasper's new voice before landing on Robert. Duncan had previously done Jasper's singing in {{< wiki-link "Let The Good Times Roll" >}} and voiced him for {{< wiki-link "Chuck E's Magical Holiday Celebration" >}}, {{< wiki-link "Chuck E's Jukebox Jam Show" >}} and a brief bit of dialogue during 'Sharp Dressed Mouse' in the {{< wiki-link "August 1997 Show" >}}.
-- During segment four, Matt Daniel as himself under the alias of Jiggawatt and introduces the audience to the concept of music mashups. This was done as a promotion for Matt's own mashups, which were uploaded to the internet around this same time under the name Jiggawatt.
+- During segment four, Matt Daniel appears under the alias of Jiggawatt and introduces the audience to the concept of music mashups. This was done as a promotion for Matt's own mashups, which were uploaded to the internet around this same time under the ‘Jiggawatt’ name.
 - Footage of the walkaround costumes dancing in front of a DeLorean was filmed but went unused. This was originally going to be used during the fourth segment when 'Jiggawatt' plays a mashup of the vocals from 'Walk The Dinosaur' and the instrumental from 'We Got The Beat'.
