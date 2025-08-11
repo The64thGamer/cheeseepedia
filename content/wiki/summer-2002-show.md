@@ -95,10 +95,6 @@ categories = ["Chuck E. Cheese's"]
 
 ## Production
 
-#### Filming Locations
-
-- 'Row Your Boat' was filmed at White Rock Creek in Dallas, Texas.
-
 #### Studio C Floppy:
 
 This show's floppy disk for Studio C removed footage of the World Trade Center from 'America' in Segment 2, as the {{< wiki-link "Summertime 2001" >}} DVDs were used. When inserting the upgrade floppy, a message would appear on the screen saying
