@@ -16,7 +16,7 @@ categories = ["Chuck E. Cheese's"]
 This show featured 4 segments with 8 songs.
 
 
-## Show Tape:
+## Show List:
 
 1.  **Segment 1**
     1.  ['Boogie Shoes'](https://en.wikipedia.org/wiki/Boogie_Shoes)
