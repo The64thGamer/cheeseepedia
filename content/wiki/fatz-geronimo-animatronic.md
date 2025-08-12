@@ -25,7 +25,7 @@ The bot is a large gorilla in formal attire. He has a golden tuxedo with a black
 
 ### Movements
 
-The bot features sixteen movements in total, all of which are located on the top drawer of the [greybox] No movements were removed during Concept Unification, unlike {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} and {{< wiki-link "Dook Larue (Animatronic)" >}}.
+The bot features sixteen movements in total, all of which are located on the top drawer of the {{< wiki-link "rock-afire-explosion-control-system" > }} No movements were removed during Concept Unification, unlike {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} and {{< wiki-link "Dook Larue (Animatronic)" >}}.
 
 | Pin | Bit | Movement     |
 |-----|-----|--------------|
