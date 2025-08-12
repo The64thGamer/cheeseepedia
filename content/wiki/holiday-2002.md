@@ -1,16 +1,16 @@
 +++
-title = "Holiday 2002"
 draft = false
+title = "Holiday 2002"
+startDate = "2002-12-00"
+endDate = "2002-12-00"
+pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "Cy's Junk at School"]
+citations = ["https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manly, Larry The Technician, Backup Singer 'Happy Holidays'", "Robert Gotcher - Production Manager, Backup Singer 'Happy Holidays'", "Matt Daniel - Production Coordinator, Backup Singer 'Happy Holidays'", "Eddie Coker - Lead Singer 'Happy Holidays'", "Sammy Davenport - Music Director"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img|Studio C Floppy Disk (Ver. B)", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img|Studio C Floppy Disk (Final Upgrade)", "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2002-12-00"
-endDate = "2003-00-00"
-contributors = ["The 64th Gamer","Ceclife13","Cy's Junk at School"]
-citations = []
-pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
-credits = ["Duncan Brannan|Voice of Chuck E. Cheese","Annagrey Wiechman|Voice of Helen Henny","John Bowen|Voice of Mr. Munch","Jeremy Blaido|Director, Voice of Jasper, Mike Manley, Larry, Backup Singer","Earl Fisher|Voice of Pasqually The Chef","Robert Gotcher|Production Manager, Backup Singer","Matt Daniel|Production Coordinator, Backup Singer","Eddie Coker|Lead Singer 'Happy Holidays'","Sammy Davenport|Music Director"]
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img|Studio C Floppy Disk","https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img|Studio C Floppy Disk (Ver. B)","https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img|Studio C Floppy Disk (Final Upgrade)"]
 +++
 **Happy Holidays 2002** is the holiday show released and played through December 2002. This show would also play in 2003 as the {{< wiki-link "Holiday 2003 Show" >}}.
 
@@ -21,7 +21,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyH
     2.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -52,7 +52,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyH
     3.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -76,28 +76,53 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyH
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**During this time live shows would be on separate VHS tapes for MMBB based stores.**
 
-- Chuck E. March 01
-- Havin' A Party 01
-- Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
-- If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
-- New Birthday
 - Go Santa Go
+- Chuck E. March 2001
+- Havin' A Party 2001
+- Chuck E. Swing
+- Bingo
+- Happy and You Know It
+- Birthday Star 2001
+- Spanish Birthday 2001
+- Chuck E Says 2002
+- New Birthday (Birthday 2002)
+- Chuck E. Shuffle (Existing Stages)
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+
+## Production
+
+### File Dates
+
+- Studio C DVD: 10/29/02 3:10am
+- Studio C Floppy: 11/19/02 1:21pm
+- Studio C Version B Floppy: 12/2/02 8:13am
+- Studio C Final Version Floppy: 12/4/02 2:52pm
+
+#### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ HOLIDAY 2002 SHOW UPDATE FINISHED
+ NEW BIRTHDAY SHOW IS INCLUDED!
+ ALSO BRAND NEW HOLIDAY LIVE
+ THIS SHOW IS GENERIC PLEASE KEEP FOR NEXT YEAR
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER".
+A second version of the floppy was released soon after which fixed an audio delay in segment 1. When inserting the version B upgrade floppy, a message would appear on the screen saying " HOLIDAY SHOW VERSION B UPDATE FINISHED.
+ AUDIO DELAY IN SEGMENT ONE HAS BEEN ADJUSTED.
+ LOOK FOR AN ALL NEW BEST OF SHOW IN JAN.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER".
+A third and final floppy was also released. When inserting the final version upgrade floppy, a message would appear on the screen saying
+“ HOLIDAY SHOW VERSION C UPDATE FINISHED.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 ## Trivia:
-
-- There are 3 floppy disc versions for this show. Version B adds an EDIT.COM file not in the original floppy. It is currently unknown what it does. It is also unknown if the Final Version has any major changes.
-- The intros to the Ken Chuck E. Derby intermissions reused from {{< wiki-link "Holiday Special 1992" >}} were rerecorded at the last minute due to issues with the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1993 versions of these intermissions are hidden on the Studio C DVDs with updated music.
+- The intros to the Ken Chuck E. Derby intermissions reused from {{< wiki-link "Holiday Special 1992" >}} were rerecorded at the last minute due to issues preventing the use of the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1992 versions of these intermissions are on the Studio C DVDs with updated music but were skipped over by the floppy.
 - The countdowns and some songs reuse footage from {{< wiki-link "Holiday Special 1992" >}}, {{< wiki-link "The Chuck E Cheese Christmas Special" >}} and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in {{< wiki-link "Let The Good Times Roll" >}}.
-- The Larry The Technician intermission in this show was the final new piece of Larry animation. The rest of his animated appearances would use reused footage. This show also features Larry celebrating Christmas, despite the fact that he is said to celebrate Hanukkah in Holiday Party.
-- This is one of the most reused shows, as segments from this show would continue to be reused until the {{< wiki-link "December 2012 Show" >}}.
+- The Larry The Technician intermission in this show was the final new piece of Larry animation. The rest of his animated appearances would use reused footage. This show also features Larry celebrating Christmas, despite the fact that he was said to celebrate Hanukkah in Holiday Party.
+- This is one of the most reused shows, as segments from this show would continue to be reused until {{< wiki-link "CEC Happy Holidays 2013" >}}.
+- 'Chuck E. Shuffle' appears on the Studio C DVDs but could not be played.
+- A new 'Super Jasper' intermission was recorded for this show, but would not be released until {{< wiki-link "Happy Holidays 2011" >}}.
