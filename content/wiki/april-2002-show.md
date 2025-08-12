@@ -6,7 +6,7 @@ endDate = "2002-06-00"
 pageThumbnailFile = "svusq8wij01eq95dksyq.avif"
 contributors = ["The 64th Gamer", "Agent 5", "Ceclife13", "John95", "Tux Chuck"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/April%202002%20Studio%20C-008.iso"]
-credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch, Show Announcer", "Jeremy Blaido|Director, Voice of Jasper, Mike Manley, Betty", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator", "Ryan Hollingsworth|Hank Howdy"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Ryan Hollingsworth - Hank Howdy"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April%202002%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/April2002VerB.img|Studio C Floppy Disk (Ver. B)"]
 tags = ["Showtapes"]
@@ -15,9 +15,6 @@ categories = ["Chuck E. Cheese's"]
 ***April 2002 Show* was a show that released in April and ran through June 2002.
 This show featured 4 segments with 8 songs.**
 
-## History
-
-'Go To Chuck E. Cheese' and parts of 'Keep on Smiling' were filmed at the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} location. 'Ease On Down the Road' was filmed at *SpeedZone Dallas*.
 
 ## Show List:
 
@@ -38,8 +35,8 @@ This show featured 4 segments with 8 songs.**
     1.  CEC TV ID - 'Haircut'
     2.  Baking with Betty - 'Letters'
     3.  Eddie Coker - 'Woo Woo Dance'
-    4.  Raining Balls (Studio C only)
     5.  CEC TV ID - 'Dancing Food'
+    3.  Time To Fly! (Studio C)
 5.  **Segment 3**
     1.  'CEC Chuck E Cheese'
     2.  ['Everywhere'](https://en.wikipedia.org/wiki/Everywhere_(Michelle_Branch_song))
@@ -54,30 +51,47 @@ This show featured 4 segments with 8 songs.**
 8.  **Intermission 4**
     1.  CEC TV ID - 'Stars'
     2.  Monkey Ninjas - Episode 2
-    3.  Time To Fly! (Studio C only)
     4.  CEC TV ID - 'Dancing Food'
+    4.  Psychadelic (Studio C)
 
 ## Lives
 
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 
-- Chuck E. March 01
-- Havin' A Party 01
+- Chuck E. March 2001
+- Havin' A Party 2001
 - Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
-- If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Patriotic Live 00" >}}
-- Rockin' Christmas Eve
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
-- New Birthday
+- BINGO
+- Happy and You Know It
+- Chuck E. Shuffle
+- Birthday Star 2001
+- Spanish Birthday 2001
+- Chuck E Says 2002
+- New Birthday (Birthday 2002)
+- Patriotic Live 2000 (Existing Stages)
 
 **Birthday Break**: {{< wiki-link "January 2001 Show" >}} logo with music set to a 1 minute or 2-minute countdown. This would then lead into the Birthday show.
+
+## Production
+
+### Filming Locations
+'Go To Chuck E. Cheese' and parts of 'Keep on Smiling' were filmed at the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} location. 'Ease On Down the Road' was filmed at *SpeedZone Dallas*.
+
+### File Dates
+- Studio C DVD: 3/5/2002 12:31am
+- Studio C rev.B Floppy: 4/2/2002 12:57pm
+
+### Studio C Floppy
+
+This show received a 'Version B' floppy disk for Studio C which fixed an issue that caused Intermission 4 to not be viewable on the gameroom monitors. When inserting the upgrade floppy, a message would appear on the screen saying " APRIL 2002 SHOW UPDATE rev.B FINISHED
+ INTERMISSION 4 WILL NOW BE VIEWABLE IN GAMES AREA
+ NEW BIRTHDAY SHOW IS ALSO INCLUDED!
+ HAVE FUN!
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 ## Trivia
 
 - Eddie Coker's 'Woo Woo Dance' was reused from the {{< wiki-link "Just for Kids Show 2000" >}} and 'Time to Fly' was reused from {{< wiki-link "Summertime 2000" >}}.
 - In 'Go to Chuck E. Cheese' Chuck E. yells 'Come on Rob!'. This is a reference to Robert Gotcher.
 - Chuck's curtains close during 'Everywhere' on all versions of the show.
+- ‘Rockin’ Christmas Eve’ and ‘Patriotic Live 2000’ both appear on the Studio C DVDs but could not be played.
