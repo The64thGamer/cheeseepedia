@@ -1,15 +1,16 @@
 +++
-title = "Holiday 2003 Show"
 draft = false
+title = "Holiday 2003 Show"
+startDate = "2003-12-00"
+endDate = "2003-12-00"
+pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
+contributors = ["The 64th Gamer", "Ceclife13"]
+citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img"]
+credits = ["Jeremy Blaido - Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2003-12-00"
-endDate = "2004-00-00"
-contributors = ["The 64th Gamer","Ceclife13"]
-citations = []
-pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"]
 +++
 **Holiday 2003 Show** is a rerelease of {{< wiki-link "Holiday 2002" >}} which played throughout December 2003.
 
@@ -20,7 +21,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holida
     2.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -51,7 +52,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holida
     3.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -75,20 +76,34 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holida
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**During this time live shows would be on separate VHS tapes for MMBB based stores.**
 
-- Chuck E. March 01
-- Havin' A Party 01
-- Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
-- If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
-- New Birthday
 - Go Santa Go
+- Chuck E. March 2001
+- Havin' A Party 2001
+- Chuck E. Swing
+- Bingo
+- Happy and You Know It
+- Birthday Star 2001
+- Spanish Birthday 2001
+- Chuck E Says 2002
+- New Birthday (Birthday 2002)
+- Chuck E. Shuffle (Existing Stages)
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+
+## Production
+
+### File Dates
+
+- Studio C Floppy: 11/12/03 2:29pm
+
+#### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ HOLIDAY SHOW 2003 UPDATE FINISHED (VERSION 1.03).
+ THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30
+ QUESTIONS? CONCERNS? CALL 972-258-5613.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".
