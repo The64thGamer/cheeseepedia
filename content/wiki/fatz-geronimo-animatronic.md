@@ -1,14 +1,14 @@
 +++
-title = "Fatz Geronimo (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+title = "Fatz Geronimo (Animatronic)"
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CECMentor","Livelycheese","Stripes"]
-citations = []
 pageThumbnailFile = "QTOP5vVLa9baQkq1zYvp.avif"
+contributors = ["CECMentor", "Livelycheese", "Stripes", "The Nefarious Pizza Perpetrator"]
+citations = ["Rock-afire Explosion Service Manual"]
 manufacturer = "Creative Engineering"
+tags = ["Animatronics"]
+categories = ["ShowBiz Pizza Place"]
 +++
 
 The Fatz Geronimo Animatronic (Also the 3-Stage Mr. Munch Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year. His character was based off Fats Gorilla from the {{< wiki-link "Wolf Pack 5" >}} animatronic show Creative Engineering had developed.
@@ -25,24 +25,23 @@ The bot is a large gorilla in formal attire. He has a golden tuxedo with a black
 
 ### Movements
 
-The bot features sixteen movements in total. No movements were removed during Concept Unification, unlike {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} and {{< wiki-link "Dook Larue (Animatronic)" >}}.
+The bot features sixteen movements in total, all of which are located on the top drawer of the [greybox] No movements were removed during Concept Unification, unlike {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} and {{< wiki-link "Dook Larue (Animatronic)" >}}.
 
-| Movement        |
-|-----------------|
-| Mouth           |
-| Left eyelid     |
-| Right eyelid    |
-| Right eye       |
-| Left eye        |
-| Head right      |
-| Head left       |
-| Head tip right  |
-| Head tip left   |
-| Head up         |
-| Left arm swing  |
-| Right arm swing |
-| Left elbow      |
-| Right elbow     |
-| Fot tap         |
-| Body lean       |
-|                 |
+| Pin | Bit | Movement     |
+|-----|-----|--------------|
+| 1   | 45  | Mouth        |
+| 2   | 41  | Left Eyelid  |
+| 3   | 42  | Right Eyelid |
+| 4   | 43  | Eyes Left    |
+| 5   | 44  | Eyes Right   |
+| 6   | 54  | Head Left    |
+| 7   | 55  | Head Right   |
+| 8   | 51  | Head Tip L   |
+| 9   | 52  | Head Tip R   |
+| 10  | 53  | Head Up      |
+| 11  | 57  | L Arm Swing  |
+| 12  | 58  | R Arm Swing  |
+| 13  | 59  | L Elbow      |
+| 14  | 60  | R Elbow      |
+| 15  | 61  | Foot Tap     |
+| 16  | 62  | Body Lean    |
