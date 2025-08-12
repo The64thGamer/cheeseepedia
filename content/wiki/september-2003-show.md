@@ -48,7 +48,9 @@ categories = ["Chuck E. Cheese's"]
     2.   Monkey Ninjas - Episode 4
     3.  CEC TV ID - 'Blender'
 
-## Lives:
+## Live Shows:
+
+**During this time live shows would be on separate VHS tapes for MMBB based stores.**
 
 -  Makin' It
 - Birthday Star 2001
@@ -63,7 +65,7 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
-**Birthday Break**: CEC TV text with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: CEC TV text with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
 ## Production
 
