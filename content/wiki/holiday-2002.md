@@ -21,7 +21,7 @@ categories = ["Chuck E. Cheese's"]
     2.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -52,7 +52,7 @@ categories = ["Chuck E. Cheese's"]
     3.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
@@ -89,7 +89,7 @@ categories = ["Chuck E. Cheese's"]
 - Birthday Star 2001
 - Spanish Birthday 2001
 - Chuck E Says 2002
-- New Birthday
+- New Birthday (Birthday 2002)
 - Chuck E. Shuffle (Existing Stages)
 
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2 minute countdown which would then lead into the Birthday show.
