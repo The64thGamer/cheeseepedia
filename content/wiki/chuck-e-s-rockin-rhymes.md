@@ -1,18 +1,19 @@
 +++
-title = "Chuck E's Rockin' Rhymes"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Chuck E's Rockin' Rhymes"
 startDate = "2001-04-00"
 endDate = "2001-06-00"
-contributors = ["The 64th Gamer","John95","Anastasia.laguardia","Documentor","Ceclife13","CECMadison"]
-citations = ["[https://vimeo.com/33748276](%22https://vimeo.com/33748276%22)","[https://web.archive.org/web/20030213002625/http://rock_afire.tripod.com/jasper/cecmodern/2001_april.html](%22https://web.archive.org/web/20030213002625/http://rock_afire.tripod.com/jasper/cecmodern/2001_april.html%22)"]
 pageThumbnailFile = "hzwqBS_ykHsQIyUQG1hA.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img|Studio C Floppy Disk"]
+contributors = ["The 64th Gamer", "John95", "Anastasia.laguardia", "Documentor", "Ceclife13", "CECMadison"]
+citations = ["[https://vimeo.com/33748276](%22https://vimeo.com/33748276%22)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty, Show Announcer", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202001%20Studio%20C-005.iso|Studio C DVD ISO"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E's Rockin' Rhymes (April 2001)* released April 2001 and ran through June 2001.
-The show is notable for having only one song per segment (similar to Chuck E's Variety Show), as well as prominently featuring the Studio C puppets in the main show footage.**
+***Chuck E's Rockin' Rhymes (April 2001)*** released April 2001 and ran through June 2001.
+The show is notable for having only one song per segment (similar to Chuck E's Variety Show), as well as prominently featuring the Studio C puppets in the main show footage. This was also the final show to allow the karaoke feature on Studio C.
 
 ## Show List:
 
@@ -33,8 +34,8 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 7.  **Segment 4**
     1.  Little Red Riding Hood
 8.  **Intermission 4**
-    1.  Super Jasper - 'Resisting Temptation'
-    2.  Store Intro - 'Sendero, Chile'
+    1.  Super Jasper - 'Resist The Temptation'
+    2.  Store Intro - 'Santiago, Chile'
     3.  CEC TV ID - 'Couch'
 9.  **Segment 5**
     1.  Think Happy
@@ -60,22 +61,39 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 ## Production
 
 - Loren Soman created the CEC TV 3D bumper seen after the first segment.<sup>(1)</sup>
-- The working title for this show was 'The Just for Kids Show II'.<sup>(2)</sup>
+- The working title for this show was 'The Just for Kids Show II'.
 - The footage for 'Be My Friend' was filmed at the Orlando, FL (I-Drive) and Dallas, TX (Monfort) locations.
+
+### File Dates
+
+- Studio C DVD: 3/21/01 5:17pm
+- Studio C Floppy: 4/20/01 12:14pm
+
+#### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ APRIL 2001 "CHUCK E'S ROCKIN' RHYMES" SHOW UPDATE FINISHED
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 ## Live Shows:
 
-During this time Lives would be on separate VHS tapes for MMBB based stores.
+During this time live shows would be on separate VHS tapes for MMBB based stores.
 
 - Chuck E. Says
-- {{< wiki-link "Chuck E Shuffle" >}}
-- Chuck E. March 01
-- America
-- Havin' a Party 01
-- {{< wiki-link "Birthday Star 01" >}}
-- {{< wiki-link "Spanish Birthday" >}}
+- Chuck E Shuffle
+- Chuck E. March 2001
+- Havin' a Party 2001
+- Birthday Star 2001
+- Spanish Birthday
 - Chuck E. Swing
-- Rockin' Christmas Eve
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Patriotic Live 00" >}}
-- If You're Happy & You Know It
+- BINGO
+- Happy & You Know It
+- America (Existing Stages)
+- Rockin' Christmas Eve (Existing Stages)
+- Patriotic Live 00 (Existing Stages)
+
+**Birthday Break**: The Birthday Break uses the Rockin' Rhymes show logo. It could be set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+
+## Trivia
+
+- "Party Place" is a remake of a song from {{< wiki-link "Spring Break" >}}
