@@ -48,7 +48,7 @@ This show featured 4 segments with 8 songs.
     1.  CEC TV ID - 'Blender'
     2.  Monkey Ninjas - Episode 3
     3.  Countdown - Jason (Studio C)
-    4.  CEC TV ID - 'Stars'
+    4.  CEC TV ID - 'Stars' (Studio C)
 
 ## Live Shows:
 
