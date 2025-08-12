@@ -112,7 +112,7 @@ This show's floppy disk for Studio C removed the system files for the karaoke fe
  IF YOU HAD KARAOKE MAKE SURE THAT YOU HAVE FOLLOWED THE REMOVAL INSTRUCTIONS
  !!!!!IMPORTANT!!!!!
  IF YOU DID NOT HAVE KARAOKE, NO CHANGES WERE MADE
- --------------------------------------------------
+
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 ## Trivia:
