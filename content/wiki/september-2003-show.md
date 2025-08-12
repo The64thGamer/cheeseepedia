@@ -6,8 +6,9 @@ endDate = "2003-11-00"
 pageThumbnailFile = "tSrbgUKhLk1AfkKjO9IJ.avif"
 contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "RedaCEC", "BurgersNuggs445", "John95"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso"]
-showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept03ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2003ShowUpgradeV101.img|Studio C Floppy Disk (Ver. 1.01)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Sammy Davenport - Music Director"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept03ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2003ShowUpgradeV101.img|Studio C Floppy Disk (Ver. 1.01)", "https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -68,38 +69,35 @@ categories = ["Chuck E. Cheese's"]
 
 ### Filming Locations
 
-Segments not film on location are filmed at MPS Studios, an exception to this is the the CEC TV Intro, which was filmed inside Dept 18. at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+Segments not filmed on location are filmed at MPS Studios, an exception to this is the the CEC TV Intro, which was filmed inside Dept 18. at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
 This show is completely filmed in the DFW area.
-
-#### Segment 2
-
 - 'Hold On' was filmed at the now closed Americas Ice Garden.
 - 'I Thank You' was filmed at Leonhardt Lagoon Nature Walk, The Dallas Arboretum and Botanical Garden, and N Market St.
-
-#### Segment 4
-
 - 'I'll Take You There' was filmed at the NRH2O Family Water Park.
-
-### Credits
-
-- Jeremy Blaido - Director, Jasper T. Jowls Voice Actor
-- Duncan Brannan - Chuck E. Cheese Voice Actor
-- Annagrey Wiechman - Helen Henny Voice Actress
-- John Bowen - Munch Voice Actor
-- Earl Fisher - Pasqually Voice Actor
-- Robert Gotcher - Production Manager
-- Matt Daniel - Production Coordinator
-- Sammy Davenport - Music Director
 
 ### File Dates
 
-- (Studio C) DVD: 8/11/2003
-- (Studio C) Floppy: 8/22/2003
-- (Studio C) Floppy v1.01: 9/3/2003
+- Studio C DVD: 8/11/2003
+- Studio C Floppy: 8/22/2003
+- Studio C Floppy v1.01: 9/3/2003
+
+### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ SEPTEMBER 2003 SHOW UPDATE FINISHED.
+ECHO CYBERSTAR PROGRAM HAS ALSO BEEN UPGRADED TO VERSION 1.30
+ECHO QUESTIONS? CONCERNS? CALL 972-258-5613.
+ECHO REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".
+A version 1.01 floppy was also released which fixed an issue with the show audio. When inserting the v1.01 upgrade floppy, a message would appear on the screen saying " SEPTEMBER 2003 SHOW UPDATE FINISHED (VERSION 1.01).
+ SHOW AUDIO SHOULD NOW OPERATE AS NORMAL.
+ CYBERSTAR PROGRAM HAS ALSO BEEN UPGRADED TO VERSION 1.30
+ QUESTIONS? CONCERNS? CALL 972-258-5613.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 ## Trivia
 
 - The logo shown on the monitor held by Chuck E. between songs is from the Existing Stage version of {{< wiki-link "January 2001 Show" >}}. The last few seconds of 'Larger Than Life' can also be seen before the logo appears.
 - The countdowns in intermission 1 and 3 reuse music from the {{< wiki-link "August 1997 Show" >}}.
 - Some of the stock footage in intermission 2's countdown previously appeared in the {{< wiki-link "September 2002 Show" >}}.
-- Chuck's curtains close during 'I Will Survive' on all versions, as well as Pasqually's on the 3-stage version. Chuck's curtains also close during 'Respect' on the Studio C version.
+- Chuck E's curtains close during 'I Will Survive' on all versions, as well as Pasqually's on the 3-stage version. Chuck E's curtains also close during 'Respect' on the Studio C version.
+- ‘Chuck E. Shuffle’ and 'Go Santa Go' appear on the Studio C DVDs but could not be played.
