@@ -143,7 +143,9 @@ categories = ["Chuck E. Cheese's"]
 
 ### File Dates
 
-- Studio C Floppy: 11/21/01 7:42am
+- Studio C DVD: 6/10/03 4:10pm
+- Studio C Floppy: 6/24/03 10:38am
+- Studio C V1.2 Floppy: 7/7/03 3:22pm
 
 ### Studio C Floppy:
 
