@@ -102,7 +102,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 ## Trivia:
 
 - The show logos are reused from September 2000.
-- This show features countdowns which use footage or intermissions from previous shows. Interestingly enough, the first, fifth and sixth countdowns have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
+- This show features countdowns which use footage or intermissions from previous shows. The first, fifth and sixth countdowns have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
 - The footage for 'Born to Be Wild' is reused from 'Living in America' from September 2002.
 - 'Go to Chuck E. Cheese' is reused from April 2002.
 - Clowns Making a Sandwich (reused from August 1999) has added background music for this show.
