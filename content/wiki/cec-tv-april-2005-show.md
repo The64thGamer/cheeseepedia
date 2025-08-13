@@ -64,18 +64,17 @@ categories = ["Chuck E. Cheese's"]
 
 **During this time Lives would be on separate VHS tapes for MMBB based stores.**
 
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
-- New Birthday
-- Chuck E. Shuffle
+- Nobody But Me
+- New Birthday (Birthday 2002)
+- Birthday Star 2001
+- Spanish Birthday 2001
 - Chuck E. Swing
-- Chuck E. March 01
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Chuck E Says 02" >}}
-- Havin' A Party 01
-- If You're Happy and You Know It
-- Go Santa Go
--  {{< wiki-link "Nobody But Me" >}}
+- Chuck E. March 2001
+- Havin' A Party 2001
+- Happy and You Know It
+- BINGO
+- Chuck E. Says 2002
+- Go Santa Go (Existing Stages)
 
 **Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
@@ -83,7 +82,18 @@ categories = ["Chuck E. Cheese's"]
 
 ### File Dates
 
-- (Studio C) DVD: 3/8/2005
+- Studio C DVD: 3/8/2005
+- Studio C Floppy: 3/24/2005
+
+### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ APRIL 2005 SHOW UPDATE FINISHED.
+ THIS SHOW IS VALID APRIL, MAY & JUNE 2005.
+ QUESTIONS? CALL 972-258-5613.
+ THIS UPDATE INCLUDES CYBRSTAR VERSION 1.31.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
+
 
 ## Trivia
 
@@ -101,3 +111,4 @@ categories = ["Chuck E. Cheese's"]
 - In segment 3 when the video feed is rebooted, various pieces of footage appear on the screen. All of them are from this show with the exception of two frames from {{< wiki-link "You're A Star" >}}, those being a shot of Dick Frank in 'Frank's Barber Shop' and stock footage from 'Vacation'.
 - The Studio C DVD contains a version of 'Nobody But Me' live which has text saying '8 Minutes to Showtime!'. This was a mistake and was fixed with a second version of the live which appears at the end of the disc. 'Super Jasper' also appears twice on the disc though there doesn't seem to be any reason why.
 - This was the last show programmed by Matt Daniel before leaving the entertainment department and moving to California.
+- ‘Chuck E. Shuffle’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.
