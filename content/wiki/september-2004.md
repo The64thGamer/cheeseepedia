@@ -1,22 +1,20 @@
 +++
-title = "September 2004"
 draft = false
+title = "September 2004"
+startDate = "2004-09-00"
+endDate = "2004-11-25"
+pageThumbnailFile = "uUQilnJLlI9ds0l2teVt.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "68.115.107.230", "Hollyb", "Documentor", "John95", "BurgersNuggs445"]
+citations = ["[https://youtu.be/iGoWidEOlbc](%22https://youtu.be/iGoWidEOlbc%22)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Pepperoni", "Robert Gotcher - Director, Show Announcer (Segment 3)", "Matt Daniel - Production Coordinator, Show Announcer (Segment 1), Songwriter 'What Up'", "Ryan Hollingsworth - Production Specialist"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202004%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2004-09-00"
-endDate = "2004-11-00"
-contributors = ["The 64th Gamer","Ceclife13","68.115.107.230","Hollyb","Documentor","John95","BurgersNuggs445"]
-citations = ["[https://youtu.be/iGoWidEOlbc](%22https://youtu.be/iGoWidEOlbc%22)"]
-pageThumbnailFile = "uUQilnJLlI9ds0l2teVt.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img|Studio C Floppy Disk"]
 +++
 ***September 2004 Show* is the show that released September 2004 and played until the end of November 2004.
-This show was the first released with Robert Gotcher as Director of Entertainment. The show is also known to have a lost song on it, which was removed sometime before its final release.**
+This show was the first released with Robert Gotcher as Director of Entertainment. The show is also known for the cut song 'Going On A Diet', which was removed sometime before its final release.**
 
-## Going On a Diet
-
-A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<sup>(1)</sup>
 
 ## Show List:
 
@@ -24,7 +22,7 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
     1.  'Born To Be Wild'
     2.  'Pepperoni' (parody of ['My Sharona'](https://en.wikipedia.org/wiki/My_Sharona))
 2.  **Intermission 1**
-    1.  CEC TV '93 ID
+    1.  CEC TV ID - 'Abstract'
     2.  Super Jasper - 'Staring Contest'
     3.  Countdown ('Twinkle, Twinkle')
     4.  Clowns Making A Sandwich
@@ -62,40 +60,54 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
     4.  Super Jasper - 'Cadillac Ranch'
     5.  Countdown ('Save Us From Extinction' footage)
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**During this time live shows would be on separate VHS tapes for MMBB based stores.**
 
-- Birthday 2002
+- Born To Hand Jive
+- New Birthday (Birthday 2002)
 - Birthday Star 2001
 - Spanish Birthday 2001
-- Born To Hand Jive
 - Chuck E. Swing
 - Chuck E. March 2001
 - Havin' A Party 2001
 - Happy and You Know It
 - BINGO
 - Chuck E. Says 2002
+- Chuck E. Shuffle (Existing Stages)
+- Go Santa Go (Existing Stages)
 
 **Birthday Break**: April 2004 show logo set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
 
-## Trivia:
+## Production
 
-### Reused Items
+## Going On a Diet
+
+A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.<sup>(1)</sup>
+
+### File Dates
+- Studio C DVD: 8/10/04 7:28am
+- Studio C Floppy: 8/26/04 3:39pm
+
+### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ SEPTEMBER 2004 SHOW UPDATE FINISHED.
+ THIS SHOW IS VALID SEPTEMBER, OCTOBER & NOVEMBER 2004.
+ HANG ON TO YOUR SUMMER SHOW TO PLAY AGAIN NEXT YEAR.
+ THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30.
+ QUESTIONS? CONCERNS? CALL 972-258-5613.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
+
+## Trivia:
 
 - The show logos are reused from September 2000.
 - This show features countdowns which use footage or intermissions from previous shows. Interestingly enough, the first, fifth and sixth countdowns have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
 - The footage for 'Born to Be Wild' is reused from 'Living in America' from September 2002.
 - 'Go to Chuck E. Cheese' is reused from April 2002.
 - Clowns Making a Sandwich (reused from August 1999) has added background music for this show.
-
-### Show Specifics
-
-- Chuck's curtains close during 'Smile' on all versions of the show.
-- Chuck is programmed during the Fundraising spot and the reused Larry the Technician intermission on all versions of the show.
-- Munch Jr. is programmed during 'Pepperoni', ' Go to Chuck E. Cheese' and 'I Want My Chuck E. Cheese'.
+- Chuck E's curtains close during 'Smile' on all versions of the show.
+- Chuck E. is programmed during the Fundraising spot and the reused Larry the Technician intermission on all versions of the show.
 - Just like in the April 2004 Show, the Studio C puppets only appear during the dialogue portions in-between songs.
 - Instead of their usual backgrounds, the Studio C puppets are shown in a children's play area from a local church.
-- Matt Daniel is the announcer for segments 1 & 3 while John Bowen is the announcer for segment 2.
-- Jeremy Blaido cameos as the Pepperoni in ' Pepperoni'.
-- 'What Up' is written by Matt Daniel.
+- ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs but could not be played.
