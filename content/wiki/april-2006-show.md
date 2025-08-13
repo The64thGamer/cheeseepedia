@@ -6,12 +6,12 @@ endDate = "2006-00-00"
 pageThumbnailFile = "x3Jq_DI5eSGn1ZKCfxbW.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "John95"]
 citations = ["[https://youtu.be/Xfk9e0scyY4](%22https://youtu.be/Xfk9e0scyY4%22)"]
-credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper, Mike Manley, Wick Letterback", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director, Show Announcer", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist, Richard Hunderton", "Sammy Davenport|Music Director"]
-mediaDuration = "1:48:40"
-showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist, Richard Hunderton", "Sammy Davenport - Music Director", "Matt Daniel - Scriptwriter"]
+mediaDuration = ""
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2006.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202006%20Studio%20c-003.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/April%202006%203-stage-003.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2006.img|Studio C Floppy Disk"]
 +++
 **April 2006 Show** was a showtape released in April 2006 with 8 new song covers.
 
@@ -24,8 +24,8 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2
     1.  CEC TV ID - 'Bubble Kids'
     2.  Minute Maid Spot
     3.  VeggieTales - 'His Cheeseburger'
-    4.  CEC TV ID - 'Skateboarding'
-    5.  Countdown 1
+    4.  Countdown 1
+    5.  CEC TV ID - 'Skateboarding'
 3.  **Segment 2**
     1.  ['I Want You Back'](https://en.wikipedia.org/wiki/I_Want_You_Back)
     2.  ['Baby I Need Your Loving'](https://en.wikipedia.org/wiki/Baby_I_Need_Your_Loving)
@@ -43,46 +43,54 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2
     1.  CEC TV ID - 'Digestion'
     2.  Drawing Chuck E.
     3.  Maya & Miguel - 'La Calavera'
-
-PBS Kids Spot
-
-1.  CEC News - 'Kraft Mac & Cheese'
-    1.  CEC TV ID - 'Rocket Racer'
-    2.  Countdown 3
+    4.  PBS Kids Spot
+    5.  CEC News - 'Kraft Mac & Cheese'
+    6.  CEC TV ID - 'Rocket Racer'
+    7.  Countdown 3
 2.  **Segment 4**
     1.  ['Reach Out I'll Be There'](https://en.wikipedia.org/wiki/Reach_Out_I%27ll_Be_There)
     2.  ['For Once in My Life'](https://en.wikipedia.org/wiki/For_Once_in_My_Life)
 3.  **Intermission 4**
-    1.  CEC TV ID - 'Blue'
+    1.  CEC TV ID - 'Flashing Hand'
     2.  Ice Age Extreme Cool View
     3.  Will Frye The Nutrition Guy
     4.  CEC TV ID - 'Singing Fish'
     5.  Countdown 4
 
-## Lives:
+## Live Shows:
 
-- {{< wiki-link "Birthday Star 01" >}} (3stage, Cyberamic, Studio C)
-- Spanish Birthday 01 (3stage, Cyberamic, Studio C)
-- New Birthday (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Chuck E Shuffle 06" >}} (3stage, Cyberamic, Studio C)
-- Chuck E. Swing (3stage, Cyberamic, Studio C)
-- Chuck E. March 01 (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Bingo" >}} (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Chuck E Says 02" >}} (3stage, Cyberamic, Studio C)
-- Havin' A Party 01 (3stage, Cyberamic, Studio C)
-- If You're Happy & You Know It (3stage, Cyberamic, Studio C)
-- Go Santa Go (Studio C)
+- Chuck E. Shuffle 2006
+- Birthday Star 2001
+- Spanish Birthday 2001
+- New Birthday (Birthday 2002)
+- Chuck E. March 2001
+- BINGO
+- Chuck E Says 2002
+- Havin' A Party 2001
+- Happy and You Know It
+- Chuck E. Swing (Studio C)
+
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
 ## Production
 
-CEC TV ID - 'Blue', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
+CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
 
 ### File Dates
 
-- (Studio C) DVD: 3/3/2006
+- Studio C DVD: 3/3/2006
+- Studio C Floppy: 3/23/2006
+
+### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+“ APRIL 2006 SHOW UPDATE FINISHED.
+ QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
+ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
+
 
 ## Trivia:
 
 - The countdowns are reused from {{< wiki-link "September 2002 Show" >}}, 'Skateboarding' is reused from {{< wiki-link "January 2005 Show" >}}, 'Drawing Chuck E.' is reused from {{< wiki-link "August 1999" >}}, VeggieTales - 'His Cheeseburger' is reused from {{< wiki-link "September 2001 Show" >}} and 'Will Frye The Nutrition Guy' is reused from {{< wiki-link "Studio C Premiere" >}}.
-- This show script was written by Matt Daniel.
 - Munch was originally going to sing 'Baby I Need Your Loving' which is still alluded to in the dialogue both leading into and coming out of the song.
+- ‘Old MacDonald’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.
