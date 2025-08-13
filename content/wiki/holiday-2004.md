@@ -1,14 +1,15 @@
 +++
-title = "Holiday 2004"
 draft = false
+title = "Holiday 2004"
+startDate = "2004-11-26"
+endDate = "2004-12-31"
+pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
+contributors = ["The 64th Gamer", "BurgersNuggs445", "Ceclife13"]
+citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2004-12.pdf"]
+credits = ["Robert Gotcher - Director", "Matt Daniel - Production Coordinator", "Ryan Hollingsworth - Production Specialist"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2004-11-26"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","BurgersNuggs445","Ceclife13"]
-citations = []
-pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 **Holiday 2004** is an updated version of {{< wiki-link "Holiday 2002" >}} featuring new intermissions which played throughout December 2004. This show was rereleased as {{< wiki-link "Holiday 2005" >}} and {{< wiki-link "Holiday 2006" >}}.
 
@@ -21,7 +22,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS 
     4.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
@@ -51,18 +52,18 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS 
 
 ## Lives:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**During this time Live Shows would be on separate VHS tapes for MMBB based stores.**
 
-- Chuck E. March 01
-- Havin' A Party 01
-- Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
-- If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
-- New Birthday
 - Go Santa Go
+- Chuck E. March 2001
+- Havin’ A Party 2001
+- Chuck E. Swing
+- Bingo
+- Happy and You Know It
+- Birthday Star 2001
+- Spanish Birthday 2001
+- Chuck E Says 2002
+- New Birthday (Birthday 2002)
+- Chuck E. Shuffle (Existing Stages)
 
 **Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
