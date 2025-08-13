@@ -113,8 +113,8 @@ categories = ["Chuck E. Cheese's"]
 
 ### File Dates
 
-- Studio C DVD: 11/21/01 7:42am
-- Studio C Floppy: 11/21/01 7:42am
+- Studio C DVD: 5/30/05 6:45pm
+- Studio C Floppy: 6/20/05 3:46pm
 
 ### Studio C Floppy:
 
