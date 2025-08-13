@@ -2,7 +2,7 @@
 draft = false
 title = "April 2006 Show"
 startDate = "2006-04-00"
-endDate = "2006-00-00"
+endDate = "2006-06-00"
 pageThumbnailFile = "x3Jq_DI5eSGn1ZKCfxbW.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "John95"]
 citations = ["[https://youtu.be/Xfk9e0scyY4](%22https://youtu.be/Xfk9e0scyY4%22)"]
