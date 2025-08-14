@@ -321,3 +321,25 @@ And in the end
 The love you take
 
 Is equal to the love you make
+
+**[Song: Her Majesty]**
+
+**Billy Bob: (Singing)**
+
+Her Majesty's a pretty nice girl 
+
+But she doesn't have a lot to say
+
+Her Majesty's a pretty nice girl 
+
+But she changes from day to day
+
+I want to tell her I love her a lot 
+
+But I gotta get a bellyful of wine 
+
+Her Majesty's a pretty nice girl 
+
+Some day I'm gonna make her mine oh yeah 
+
+Someday I'm gonna make her mine
