@@ -74,6 +74,11 @@ collections:
         widget: "list"
         required: false
         field: {label: Price | Desc, name: price, widget: string}
+      - label: "Market Sales (Price|Date|citationLink) ($4.99|2025-12-31|https://web.archive.org/ebay.com)"
+        name: "sales"
+        widget: "list"
+        required: false
+        field: {label: Sale | Desc, name: sale, widget: string}
       - label: "Transcriptions (List Transcription Article Titles)"
         name: "transcriptions"
         widget: "list"
