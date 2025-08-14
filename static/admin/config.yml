@@ -27,7 +27,7 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -187,7 +187,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -210,7 +210,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -226,7 +226,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
@@ -240,7 +240,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Filename", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -305,7 +305,7 @@ collections:
     extension: md
     format: toml-frontmatter
     editor:
-      preview: true
+      preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Video Link", name: "title", widget: "string" }
       - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
@@ -378,7 +378,7 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Would You Recommend This?", name: "recommend", widget: "boolean", default: true, required: true}
       - { label: "Review Summary / Header", name: "title", widget: "string" }
@@ -403,7 +403,7 @@ collections:
     format: toml-frontmatter
     slug: "{{slug}}"
     editor:
-      preview: true
+      preview: false
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
