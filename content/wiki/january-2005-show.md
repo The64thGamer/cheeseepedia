@@ -17,29 +17,29 @@ categories = ["Chuck E. Cheese's"]
 ## Show List:
 
 1.   **Segment 1**
-    1.   ['Old Time Rock & Roll'](https://en.wikipedia.org/wiki/Old_Time_Rock_and_Roll)
-    2.   'Chores'
+    1.  ['Old Time Rock & Roll'](https://en.wikipedia.org/wiki/Old_Time_Rock_and_Roll)
+    2.  'Chores'
 2.  **Intermission 1**
-    1.   Coke Spot 1
-    2.   VeggieTales: 'Larry Sings The Blues'
-    3.   CEC TV ID - 'Radio Towers'
-    4.   Countdown 1
-    5.   Football
-    6.   The Tube Explorer - 'Ticket Splash'
+    1.  Coke Spot 1
+    2.  VeggieTales: 'Larry Sings The Blues'
+    3.  CEC TV ID - 'Radio Towers'
+    4.  Countdown 1
+    5.  Football
+    6.  The Tube Explorer - 'Ticket Splash'
     7.  Countdown 2
 3.   **Segment 2**
-    1.   ['All For You'](https://en.wikipedia.org/wiki/All_for_You_(Sister_Hazel_song))
-    2.   'Keep It Groovin''
+    1.  ['All For You'](https://en.wikipedia.org/wiki/All_for_You_(Sister_Hazel_song))
+    2.  'Keep It Groovin''
 4.  **Intermission 2**
-    1.   Funimation: 'Marvin The Tap-Dancing Horse'
-    2.   CEC TV ID - 'NBC Chime'
+    1.  Funimation: 'Marvin The Tap-Dancing Horse'
+    2.  CEC TV ID - 'NBC Chime'
     3.  Countdown 3
-    4.   Winter 1-derland Spot
+    4.  Winter 1-derland Spot
     5.  Eddie Coker: 'I Believe'
-    6.   Countdown 4
+    6.  Countdown 4
 5.   **Segment 3**
-    1.   'Mailman'
-    2.   ['Wonderful'](https://en.wikipedia.org/wiki/Jump5)
+    1.  'Mailman'
+    2.  ['Wonderful'](https://en.wikipedia.org/wiki/Jump5)
 6.   **Intermission 3**
     1.  Coke Spot 2
     2.  VeggieTales: 'Schoolhouse Polka'
@@ -49,16 +49,16 @@ categories = ["Chuck E. Cheese's"]
     6.  Funimation: 'Connie The Cow'
     7.  Countdown 6
 7.   **Segment 4**
-    1.   'Ranchin'' (parody of ['You Should Be Dancing'](https://en.wikipedia.org/wiki/You_Should_Be_Dancing)
-    2.   ['Blue Suede Shoes'](https://en.wikipedia.org/wiki/Blue_Suede_Shoes)
+    1.  'Ranchin'' (parody of ['You Should Be Dancing'](https://en.wikipedia.org/wiki/You_Should_Be_Dancing)
+    2.  ['Blue Suede Shoes'](https://en.wikipedia.org/wiki/Blue_Suede_Shoes)
 8.  **Intermission 4**
-    1.   Funimation: 'Marvin The Tap-Dancing Horse'
-    2.   Skateboarding
-    3.   CEC TV ID - 'Chuck E. Skateboarding'
-    4.   Countdown 7
-    5.   Firehouse
-    6.   Funimation: 'Braceface'
-    7.   Countdown 8
+    1.  Funimation: 'Marvin The Tap-Dancing Horse'
+    2.  Skateboarding
+    3.  CEC TV ID - 'Chuck E. Skateboarding'
+    4.  Countdown 7
+    5.  Firehouse
+    6.  Funimation: 'Braceface'
+    7.  Countdown 8
 
 
 ## Live Shows:
