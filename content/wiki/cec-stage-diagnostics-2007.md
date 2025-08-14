@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Stage Diagnostics 2007"
 startDate = "2007-01-00"
-endDate = ""
+endDate = "2025-08-10"
 pageThumbnailFile = "j_6mHrN2SmkOdLGsG7_1.avif"
 contributors = ["Documentor", "The 64th Gamer"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/CEC%20Stage%20Diagnostics.iso"]
@@ -12,7 +12,7 @@ downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/C
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**CEC-Stage Diagnostics 2007** was a rerelease of {{< wiki-link "CEC-Stage Diagnostic Tape 1993" >}} on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers until 2023 when all US CEC-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally. This disc is now only used internationally.
+**CEC-Stage Diagnostics 2007** was a rerelease of {{< wiki-link "CEC-Stage Diagnostic Tape 1993" >}} on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers until 2023 when all US CEC-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally. The last store to use this disc was {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}.
 
 ## Diagnostics List:
 
@@ -107,4 +107,4 @@ Movements for the characters are repeated 15 times. Lights done once. Turn Table
 
 ### File Dates
 
-- 3-Stage DVD: 12/08/06 3:10am
+- CEC Stage DVD: 12/08/06 3:10am
