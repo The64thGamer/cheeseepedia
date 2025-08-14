@@ -4,8 +4,8 @@ title = "Circus Tape"
 startDate = "1986-05-18"
 endDate = "1986-07-00"
 pageThumbnailFile = "5dfq6HlJl58GagiDltYv.avif"
-contributors = ["The 64th Gamer"]
-citations = ["[https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html](%22https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html%22)", "[https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/](%22https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/%22)", "[https://youtu.be/SCzbQrM4Gx0](%22https://youtu.be/SCzbQrM4Gx0%22)", "https://youtu.be/_o9bhXWo01g"]
+contributors = ["The 64th Gamer", "Clownzin"]
+citations = ["[https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html](%22https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html%22)", "[https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/](%22https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/%22)", "[https://youtu.be/SCzbQrM4Gx0](%22https://youtu.be/SCzbQrM4Gx0%22)", "https://youtu.be/_o9bhXWo01g", "https://www.youtube.com/watch?v=p_nzyWxr6HI"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Rides Medley", "Tears of a Clown"]
 alsoKnownAs = ["Circus Night"]
@@ -27,12 +27,14 @@ Multiple pieces from the tape are known to be cut from the final ShowBiz release
 
 ## Show List
 
-- Rides Medley (Tribute to the Circus Medley)
-  1.  [Palisades Park](https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song))
-  2.  [On a Carousel](https://en.wikipedia.org/wiki/On_a_Carousel)
-  3.  [Spinning Wheel](https://en.wikipedia.org/wiki/Spinning_Wheel_(song))
-  4.  [Love Rollercoaster](https://en.wikipedia.org/wiki/Love_Rollercoaster)
-  5.  [Dizzy](https://en.wikipedia.org/wiki/Dizzy_(Tommy_Roe_song))
-  6.  [The Night the Carousel Burnt Down](https://en.wikipedia.org/wiki/Something/Anything%3F)
-- [Tears of a Clown](https://en.wikipedia.org/wiki/The_Tears_of_a_Clown)
-- [The Curley Shuffle](https://en.wikipedia.org/wiki/The_Curly_Shuffle)
+* Rides Medley (Tribute to the Circus Medley)
+
+  1. [Palisades Park](https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song))
+  2. [On a Carousel](https://en.wikipedia.org/wiki/On_a_Carousel)
+  3. [Spinning Wheel](https://en.wikipedia.org/wiki/Spinning_Wheel_(song))
+  4. [Love Rollercoaster](https://en.wikipedia.org/wiki/Love_Rollercoaster)
+  5. [Dizzy](https://en.wikipedia.org/wiki/Dizzy_(Tommy_Roe_song))
+  6. [The Night the Carousel Burnt Down](https://en.wikipedia.org/wiki/Something/Anything%3F)
+* [Tears of a Clown](https://en.wikipedia.org/wiki/The_Tears_of_a_Clown)
+* [The Curley Shuffle](https://en.wikipedia.org/wiki/The_Curly_Shuffle)
+* [Sideshow Medley](https://www.youtube.com/watch?v=p_nzyWxr6HI)
