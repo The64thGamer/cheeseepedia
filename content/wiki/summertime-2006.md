@@ -2,7 +2,7 @@
 draft = false
 title = "Summertime 2006"
 startDate = "2006-07-00"
-endDate = "0006-08-00"
+endDate = "2006-08-00"
 pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["Ceclife13", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
 citations = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso"]
