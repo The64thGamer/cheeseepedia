@@ -1,17 +1,18 @@
 +++
-title = "Summertime 2006"
 draft = false
+title = "Summertime 2006"
+startDate = "2006-07-00"
+endDate = "0006-08-00"
+pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
+contributors = ["Ceclife13", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
+citations = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso"]
+credits = ["Robert Gotcher - Director", "Michael Hill - Production Coordinator", "Ryan Hollingsworth - Production Specialist"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2006-07-00"
-endDate = "0000-00-00"
-contributors = ["Ceclife13","2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
-citations = []
-pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
-credits = ["Robert Gotcher|Director","Michael Hill|Production Coordinator","Ryan Hollingsworth|Production Specialist"]
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","3-Stage SVHS (Pre-93)","3-Stage SVHS (Post-93)","R12 SVHS (Pre-93)"]
 +++
-**Summertime 2006** was a rerelease of {{< wiki-link "Summertime 2003" >}} with intermission changes.
+**Summertime 2006** was the final rerelease of {{< wiki-link "Summertime 2003" >}} with intermission changes which played through the summer of 2006.
 
 ## Show List:
 
@@ -51,20 +52,23 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","3-
     5.  CEC TV ID - 'Singing Animals'
     6.  Countdown
 
-## Lives:
+## Live Shows:
 
-- {{< wiki-link "Birthday Star 01" >}} (3stage, Cyberamic, Studio C)
-- Spanish Birthday 01 (3stage, Cyberamic, Studio C)
-- New Birthday (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Chuck E Shuffle 06" >}} (3stage, Cyberamic, Studio C)
-- Chuck E. Swing (3stage, Cyberamic, Studio C)
-- Chuck E. March 01 (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Bingo" >}} (3stage, Cyberamic, Studio C)
-- {{< wiki-link "Chuck E Says 02" >}} (3stage, Cyberamic, Studio C)
-- Havin' A Party 01 (3stage, Cyberamic, Studio C)
-- If You're Happy & You Know It (3stage, Cyberamic, Studio C)
-- Go Santa Go (Studio C)
+- Chuck E. Shuffle 2006
+- Birthday Star 2001
+- Spanish Birthday 2001
+- New Birthday (Birthday 2002)
+- Chuck E. March 2001
+- BINGO
+- Chuck E Says 2002
+- Havin' A Party 2001
+- Happy and You Know It
+- Chuck E. Swing 
 
-**Birthday Break**: April 2005 show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
-No USA Version - The Stand Alone Song, 'America', and the 2005 Military Montage intermission do not appear in this show due to some sort of 'controversy' about the subject matter.
-Intermissions - As before, the CPMN episode has been changed. 2003 had Episode 3, 2004/2005 had Episode 1, and for this year it is the recent Episode 6.
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+
+## Production
+
+### File Dates
+
+- 3-Stage DVD: 6/15/2006
