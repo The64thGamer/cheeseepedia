@@ -19,7 +19,8 @@ The ***Circus Tape* is a semi-lost {{< wiki-link "Rock-afire Explosion" >}} show
 The first hint of the showtape existing would come from the uncovering of the 1986 {{< wiki-link "SPP Circus - Monkees" >}} tape in 2008, which at the time was believed to be the originator of the songs.<sup>(1)</sup> On October 21, 2011, the first sightings of the tape would be posted online, though once again presumed to be the Circus/Monkees collaboration tape.<sup>(2)</sup>
 In the late 2010's, the Hannah Banana tracks would leak online. The intro to the demo tape portion contains a segment likely from the Circus Tape featuring Dook Larue shouting "Come see the show!".<sup>(4)</sup>
 On May 25th, 2024, Creative Engineering would release a YouTube video with a segment detailing the Circus showtape- as it was unclear to Aaron that the tape had been lost since it's creation. The *'The Show Must Go On*' segment would be partially debut, with plans for a release of the tape teased.<sup>(0)</sup>
-On July 14, 2024, at Billy Con IV at {{< wiki-link "Billy Bob's Wonderland" >}}, the segment *Tears of a Clown* from the tape would debut after being found by a fan, Jonah/Rockafirefan123.<sup>(3)</sup>
+On July 14, 2024, at Billy Con IV at {{< wiki-link "Billy Bob's Wonderland" >}}, the segment *Tears of a Clown* from the tape would debut after being found by a fan, Jonah/Rockafirefan123.<sup>(3)</sup> \
+On day 2 of Gully Con 3 the song "Sideshow Medley" would be played. This show was previously lost and was partially used in the demo tape portion of the Hannah Banana songs.
 
 ### Cut Shows
 
