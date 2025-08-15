@@ -5,7 +5,7 @@ startDate = "2025-00-00"
 endDate = ""
 pageThumbnailFile = "cec-roblox-if-it-was-irl.avif"
 contributors = ["The 64th Gamer"]
-citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_news_cec_to_create_a_new_chain_that_only/","Employee correspondence","https://www.promotedcompanies.net/tenants/cecs-adventure-world","https://archive.org/details/adventure-world-survey-2-logos","https://www.reddit.com/r/chuckecheese/comments/1mgx5xo/chuck_e_cheese_adventure_world_survey_all_logos/"]
+citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_news_cec_to_create_a_new_chain_that_only/", "Employee correspondence", "https://www.promotedcompanies.net/tenants/cecs-adventure-world", "https://archive.org/details/adventure-world-survey-2-logos", "https://www.reddit.com/r/chuckecheese/comments/1mgx5xo/chuck_e_cheese_adventure_world_survey_all_logos/", "https://www.dallasnews.com/business/2025/08/15/chuck-e-cheese-picks-north-texas-to-test-new-concept-coming-later-this-year/"]
 alsoKnownAs = ["CEC's Adventure World"]
 tags = ["Restaurants/FECs"]
 categories = ["Chuck E. Cheese's"]
@@ -25,3 +25,5 @@ Shortly after this, employee communications would reveal that the internal plans
 On July 21st, Adventure World would make an apperance on the Promoted Companies website, represented by PC to look for valid real-estate in the Dallas Fort-Worth area, with site requirements of 12,000-18,000 sqft. AI generated concept art would show a building with slides, ball-pits, and indoor playgrounds adorned with CEC branding. {{< cite 3 >}}
 
 On August 3rd, another survey would be sent out going over the same choosing of a logo, but this time it would feature a variety of different styles and arrangements, including AI generated renders of Chuck E. in a new outfit. {{< cite 4 >}} {{< cite 5 >}}
+
+On August 15th, CEC would do a press release for Adventure World, confirming a location in Arlington, TX with around 12,000 sqft. would open in early November, with 5-6 additional stores planned to open in 2026. {{< cite 6 >}}
