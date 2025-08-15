@@ -53,7 +53,7 @@ Clap your hands!
 
 **Chuck E. Cheese: (Singing)**
 
-And stomp your feet!
+Now stomp your feet!
 
 **[sounds of stomping feet]**
 
@@ -141,7 +141,7 @@ Clap your hands!
 
 **Chuck E. Cheese: (Singing)**
 
-And stomp your feet!
+Now stomp your feet!
 
 **[sounds of stomping feet]**
 
