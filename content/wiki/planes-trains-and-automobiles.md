@@ -11,7 +11,7 @@ alsoKnownAs = ["July 1992"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Planes, Trains, and Automobiles** was a show that played from July 6, 1992, through September 13, 1992, at Chuck E. Cheese's Pizza. <sup>(1)</sup>
+**Planes, Trains, and Automobiles** was a show that played from July 6, 1992, through September 13, 1992, at Chuck E. Cheese's Pizza.
 
 ## Show List
 
@@ -103,7 +103,7 @@ categories = ["Chuck E. Cheese's"]
 * In 'Fun, Fun, Fun', Helen visits the Santa Cruz Boardwalk and Beach.
 * In 'Train Ride', the animatronic footage was shot at the Home Office
 
-#### APS Files <sup>(2)</sup>
+#### APS Files
 
 All three segments’ files were last updated between June 3, 1992, and June 18, 1992, being finalized 18 days before release.
 
