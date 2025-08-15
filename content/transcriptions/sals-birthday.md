@@ -8,6 +8,7 @@ contributors = ["Luigigamin212"]
 Ok, here see this circle? Stand- stand in this circle here. Ok face the microphone. And go ahead and say your story.
 
 **Sadie Dingfelder:**
+
 Two monkeys jumping on bed, one fell off, bumped his head. Now comes the doctor here’s what he said, no more monkeys jumping on the bed!
 
 **[Applause]**
