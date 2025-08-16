@@ -7,7 +7,7 @@ pageThumbnailFile = ""
 contributors = ["CyberSnout"]
 citations = ["https://www.youtube.com/watch?v=R78H7Hh9K2A"]
 mediaDuration = "4:44"
-showtapeFormats = ["R12 SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)", "R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)", "Studio C 4x Laserdisc + Files", "Studio C 3x DVD + Floppy"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -27,7 +27,7 @@ This live show is all about 'Havin' A Party' and what creates the energy of a pa
 
 ## APS Files
 
-All three segments’ files were last updated between March 20, 1992, and March 23, 1992, being finalized over 5 months before it was released. This could signify that 'Havin' A Party' was originally intended to release in April 1992. 
+All three segments’ files were last updated between March 20, 1992, and March 23, 1992, being finalized over 5 months before it was released. This could signify that 'Havin' A Party' was originally intended to be released in April 1992. 
 
 | File Name   | Size (bytes) | Modified Date          | Header Time | Header Title 1                            | Header Title 2              |
 | ----------- | ------------ | ---------------------- | ----------- | ----------------------------------------- | --------------------------- |
