@@ -1,18 +1,20 @@
 +++
-title = "Environment '92"
 draft = false
+title = "Environment '92"
+startDate = "1992-05-00"
+endDate = "1992-06-00"
+pageThumbnailFile = "X0VGbNJHqNJoKD8C2zj5.avif"
+contributors = ["DerekCat", "Montfortdog", "Saan1ty", "CyberSnout"]
+citations = ["https://archive.org/details/aps-red-case"]
+showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1992-04-04"
-endDate = "0000-00-00"
-contributors = ["DerekCat","Montfortdog","Saan1ty"]
-citations = []
-pageThumbnailFile = "X0VGbNJHqNJoKD8C2zj5.avif"
-showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
-**Environment** was a showtape that played during the Spring of 1992 at Chuck E Cheese's.
+**Environment** was a showtape that played from May 1992 through June 1992 at Chuck E Cheese's Pizza.
+
 
 ## Show List:
+
 
 1.  **Intermission 1**
     1.  8 Minute Countdown
@@ -81,12 +83,42 @@ showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93
 13. **Intermission 7**
     1.  Can Can
 
-## Trivia:
 
+## Production 
+**Filming Locations**
+
+
+- The animals in "Old MacDonald" were filmed at Fossil Rim in Glen Rose, TX.
+
+
+**Cast**
+- The farmer in "Old MacDonald" was played by Jim Newberry.
 - This show debuts Annagrey Labasse as Helen Henny's new singing voice.
 - This show debuts Charles Stewart as Jasper's new singing voice, with Robert Gotcher as his speaking voice.
-- They debut a new 8 Minute Countdown to feature different walkaround skits & cartoons for each minute.
-- The animals in "Old MacDonald" were filmed at Fossil Rim in Glen Rose, TX.
-- The farmer in "Old MacDonald" was played by Jim Newberry.
+
+
+**APS Files**
+
+
+All three segments’ files were last updated between March 30, 1992, and April 18, 1992.
+
+
+| File Name  | Size (bytes) | Modified Date          | Header Time | Header Title 1          | Header Title 2               |
+| ---------- | ------------ | ---------------------- | ----------- | ----------------------- | ---------------------------- |
+| ENV3.C&R | 461,312      | 03/30/1992 02:30:40 PM | 7:30        | MAY '92 ENVIRONMENT 'OL'.........MACDONALD' | 'SAVE US FROM EXTINC'        |
+| ENV2.C&R | 410,112      | 03/31/1992 06:04:36 PM | 6:40        | ENVIRONMENT MAY "92 'TEDDY BEAR' | 'CROCADILE ROCK'        |
+| ENV1.C&R | 389,632      | 04/05/1992 04:45:36 PM | 6:20        | may '92 'The Lion Sleeps. .......Tonight'          | 'One World is Enough' |
+| ENV1.R12 | 389,632      | 04/06/1992 11:32:50 PM | 6:20        |           |      |
+| ENV2.R12 | 410,112      | 04/07/1992 03:31:50 PM | 7:00        | ENVIRONMENT MAY "92 'TEDDY BEAR'   | 'CROCADILE ROCK'        |
+| ENV3.R12 | 461,312      | 04/08/1992 09:27:20 PM | 7:30        | MAY '92 ENVIRONMENT 'OL'.........MACDONALD'   | 'SAVE US FROM EXTINC'        |
+| ENV3.ST | 461,312      | 04/10/1992 02:25:02 PM | 7:30        | 'MAY '92 ENVIRONMENT "OL'.........MACDONALD'   | 'SAVE US FROM EXTINC"        |
+| ENV1.3ST | 389,632      | 04/15/1992 11:02:36 AM | 6:30       | may-92 'Lion Sleeps...............Tonight'   | '1 World is Enough'        |
+| ENV2.3ST | 410,112      | 04/18/1992 02:48:26 PM | 6:40        | may-92 'Teddy Bear'   | 'Crocadile Rock'        |
+
+
+## Trivia:
+- A new 8 Minute Countdown debuted, which featured different walk-around skits & cartoons for each minute.
 - "Save Us From Extinction" was written by Charles Stewart.
 - Segment 3's two songs are used in the skit comparison for the Cyberamic diagnostic tape.
+
+
