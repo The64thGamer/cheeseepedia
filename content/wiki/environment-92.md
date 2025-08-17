@@ -6,6 +6,7 @@ endDate = "1992-06-00"
 pageThumbnailFile = "X0VGbNJHqNJoKD8C2zj5.avif"
 contributors = ["DerekCat", "Montfortdog", "Saan1ty", "CyberSnout"]
 citations = ["https://archive.org/details/aps-red-case"]
+mediaDuration = "50:49"
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
