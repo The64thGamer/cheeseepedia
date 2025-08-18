@@ -1,18 +1,18 @@
 +++
-title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 startDate = ""
 endDate = "1996-00-00"
-contributors = ["EagleScout610","2600:4040:AD76:D00:9D3F:F911:AA41:4329","SuperCreamPiper2008"]
-citations = []
+contributors = ["EagleScout610", "2600:4040:AD76:D00:9D3F:F911:AA41:4329", "SuperCreamPiper2008"]
+citations = ["www.facebook.com"]
+tags = ["Retrofits"]
+categories = ["Unknown Manufacturers"]
 +++
 Rocky (Rascals) (Chuck E. Cheese Retrofit) is a retrofitted Chuck E Cheese (Cyberamic)|Chuck E. Cheese cyberamic located at Enchanted Water Safari as part of the Rocky and the Ramblin' Rascals animatronic show.
 
 ## History
 
-The animatronic is believed to have come from the Greece/Rochester, NY location, which closed in 1996. The animatronic was installed in early 1997.
+The animatronic is believed to have come from the Mattydale, NY location, which closed in 1996. The animatronic was installed in early 1997.
 
 ## Design
 
