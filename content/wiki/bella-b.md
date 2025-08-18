@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Bella B."
+title = "Bella Bunny"
 startDate = ""
 endDate = ""
 contributors = ["CECMentor", "Capitanyoda20"]
