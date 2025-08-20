@@ -10,23 +10,26 @@ categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Summer Show 2025*** is the summer show released on April 28, 2025.**
 
-## Show List 08/01 Update
+##
+
+## Show List 08/19 Update
 
 1.  **Intermission 1**
     1. Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
-    2.  Blippi - 'We Explore'
-    3.  'Chuck E. Cheese - 'Bubble Bubble Pop'
-    4.  Chuck E. Cheese - 'Just Like This'
-    5.  Kidz Bop Kids - 'Certified BOP'
-    6.  Chuck E. Cheese - 'The Garden Gnome'
-    7.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
-    8.  Chuck E. Cheese - 'Let's Be Friends'
-    9.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
-    10. Chuck E. Cheese - 'Stay Positive' (ASL)
+    2.  Harlem Globetrotters: 'Ways We Celebrate'
+    3.  Blippi - 'We Explore'
+    4.  'Chuck E. Cheese - 'Bubble Bubble Pop'
+    5.  Chuck E. Cheese - 'Just Like This'
+    6.  Kidz Bop Kids - 'Certified BOP'
+    7.  Chuck E. Cheese - 'The Garden Gnome'
+    8.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
+    9.  Chuck E. Cheese - 'Let's Be Friends'
+    10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
+    11. Chuck E. Cheese - 'Stay Positive' (ASL)
 2.  **Skit 1**
-    1.  Chuck E. & Friends - 'Song of Summer'
+    1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
 3.  **Intermission 2**
-    1.  Chuck E. & Friends - 'Join the Party' (2025)
+    1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
     2.  Kidz Bop Kids - 'Espresso'
     3.  Chuck E. & Friends - 'Out of This World'
     4.  Chuck E. Cheese - 'Banana Dog'
@@ -49,15 +52,205 @@ categories = ["Chuck E. Cheese's"]
     5.  Chuck E. & Friends - 'Friendship Never Ends 2024'
     6.  Chuck E. & Friends - 'Let's Have a Party'
     7.  Kidz Bop Kids - 'APT
+    8.  Unicorn Academy Show clip
 
-## Lives 08/01 Update
+## Lives 08/19 Update
 
 1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
 3. Me & My Friends (3-Stage Legacy Navori)
 4. Beach Party Bash (3-Stage Legacy Navori) (Removed 07/28, Added Back 07/29)
 
-## Fireables 08/01 Update
+## Fireables 08/19 Update
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - 'Fun For All'
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+##
+
+## Show List 08/14 Update
+
+1.  **Intermission 1**
+    1. Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
+    2.  Harlem Globetrotters: 'Ways We Celebrate'
+    3.  Blippi - 'We Explore'
+    4.  'Chuck E. Cheese - 'Bubble Bubble Pop'
+    5.  Chuck E. Cheese - 'Just Like This'
+    6.  Kidz Bop Kids - 'Certified BOP'
+    7.  Chuck E. Cheese - 'The Garden Gnome'
+    8.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
+    9.  Chuck E. Cheese - 'Let's Be Friends'
+    10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
+    11. Chuck E. Cheese - 'Stay Positive' (ASL)
+2.  **Skit 1**
+    1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
+3.  **Intermission 2**
+    1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
+    2.  Kidz Bop Kids - 'Espresso'
+    3.  Chuck E. & Friends - 'Out of This World'
+    4.  Chuck E. Cheese - 'Banana Dog'
+    5.  Off-Road with Chuck E. Episode 1
+    6.  Kidz Bop Kids - 'Apple'
+    7.  Jasper T. Jowls - 'Arizona'
+    8.  Chuck E. & Friends - 'Down the Road'
+    9. Chuck E. & Friends - 'Barbara the Barnyard Barber'
+    10. Jasper T. Jowls - 'Wash the Bus'
+    11. NewJeans - 'Bubble Gum'
+    12. Chuck E. & Friends - 'Ves Al Ratoncito'
+    13. Chuck E. & Friends - 'Play All You Can Play'
+4.  **Skit 2**
+    1.  Jasper T. Jowls - 'Dog Days of Summer'
+5.  **Intermission 3**
+    1.  Kidz Bop Kids - 'Stargazing'
+    2.  Helen Henny - 'Dream Big' (ASL)
+    3.  Chuck E. & Helen - 'I Dare You Not to Laugh
+    4.  Off-Road with Chuck E. Episode 2
+    5.  Chuck E. & Friends - 'Friendship Never Ends 2024'
+    6.  Chuck E. & Friends - 'Let's Have a Party'
+    7.  Kidz Bop Kids - 'APT
+    8.  Unicorn Academy Show clip
+
+## Lives 08/14 Update
+
+1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
+3. Me & My Friends (3-Stage Legacy Navori)
+4. Beach Party Bash (3-Stage Legacy Navori) (Removed 07/28, Added Back 07/29)
+
+## Fireables 08/14 Update
+
+1. Munch's Make Believe Band - 'Every Boy Every Girl'
+2. Munch's Make Believe Band - 'Chuck E.'s Place'
+3. Chuck E. & Friends - 'Another Chuck E. Day'
+4. Munch's Make Believe Band - 'It's The 70s'
+5. Chuck E. & Friends - 'Out of This World'
+6. Chuck E. Cheese - 'Let's Be Friends'
+7. Chuck E. & Friends - 'Down The Road'
+8. Chuck E. & Friends - 'Most Perfect Day'
+9. Chuck E. Cheese - 'Let's Have a Party'
+10. Chuck E. Cheese - 'Join the Party'
+
+##
+
+## Show List 08/10 Update
+
+1.  **Intermission 1**
+    1. Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
+    2.  Harlem Globetrotters: 'Ways We Celebrate'
+    3.  Blippi - 'We Explore'
+    4.  'Chuck E. Cheese - 'Bubble Bubble Pop'
+    5.  Chuck E. Cheese - 'Just Like This'
+    6.  Kidz Bop Kids - 'Certified BOP'
+    7.  Chuck E. Cheese - 'The Garden Gnome'
+    8.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
+    9.  Chuck E. Cheese - 'Let's Be Friends'
+    10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
+    11. Chuck E. Cheese - 'Stay Positive' (ASL)
+2.  **Skit 1**
+    1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
+3.  **Intermission 2**
+    1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
+    2.  Kidz Bop Kids - 'Espresso'
+    3.  Chuck E. & Friends - 'Out of This World'
+    4.  Chuck E. Cheese - 'Banana Dog'
+    5.  Off-Road with Chuck E. Episode 1
+    6.  Kidz Bop Kids - 'Apple'
+    7.  Jasper T. Jowls - 'Arizona'
+    8.  Chuck E. & Friends - 'Down the Road'
+    9. Chuck E. & Friends - 'Barbara the Barnyard Barber'
+    10. Jasper T. Jowls - 'Wash the Bus'
+    11. NewJeans - 'Bubble Gum'
+    12. Chuck E. & Friends - 'Ves Al Ratoncito'
+    13. Chuck E. & Friends - 'Play All You Can Play'
+    14.  Kidz Bop Kids - 'Stargazing'
+    15.  Helen Henny - 'Dream Big' (ASL)
+    16.  Chuck E. & Helen - 'I Dare You Not to Laugh
+    17.  Off-Road with Chuck E. Episode 2
+    18.  Chuck E. & Friends - 'Friendship Never Ends 2024'
+    19.  Chuck E. & Friends - 'Let's Have a Party'
+    20.  Kidz Bop Kids - 'APT
+    21.  Unicorn Academy Show clip
+
+## Lives 08/10 Update
+
+1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
+3. Me & My Friends (3-Stage Legacy Navori)
+4. Beach Party Bash (3-Stage Legacy Navori) (Removed 07/28, Added Back 07/29)
+
+## Fireables 08/10 Update
+
+1. Munch's Make Believe Band - 'Every Boy Every Girl'
+2. Munch's Make Believe Band - 'Chuck E.'s Place'
+3. Chuck E. & Friends - 'Another Chuck E. Day'
+4. Munch's Make Believe Band - 'It's The 70s'
+5. Chuck E. & Friends - 'Out of This World'
+6. Chuck E. Cheese - 'Let's Be Friends'
+7. Chuck E. & Friends - 'Down The Road'
+8. Chuck E. & Friends - 'Most Perfect Day'
+9. Chuck E. Cheese - 'Let's Have a Party'
+10. Chuck E. Cheese - 'Join the Party'
+
+##
+
+## Show List 08/04 Update
+
+1.  **Intermission 1**
+    1. Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
+    2.  Harlem Globetrotters: 'Ways We Celebrate'
+    3.  Blippi - 'We Explore'
+    4.  'Chuck E. Cheese - 'Bubble Bubble Pop'
+    5.  Chuck E. Cheese - 'Just Like This'
+    6.  Kidz Bop Kids - 'Certified BOP'
+    7.  Chuck E. Cheese - 'The Garden Gnome'
+    8.  Chuck E. Cheese - 'Too Many Pigs in the Pool'
+    9.  Chuck E. Cheese - 'Let's Be Friends'
+    10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
+    11. Chuck E. Cheese - 'Stay Positive' (ASL)
+2.  **Skit 1**
+    1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
+3.  **Intermission 2**
+    1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
+    2.  Kidz Bop Kids - 'Espresso'
+    3.  Chuck E. & Friends - 'Out of This World'
+    4.  Chuck E. Cheese - 'Banana Dog'
+    5.  Off-Road with Chuck E. Episode 1
+    6.  Kidz Bop Kids - 'Apple'
+    7.  Jasper T. Jowls - 'Arizona'
+    8.  Chuck E. & Friends - 'Down the Road'
+    9. Chuck E. & Friends - 'Barbara the Barnyard Barber'
+    10. Jasper T. Jowls - 'Wash the Bus'
+    11. NewJeans - 'Bubble Gum'
+    12. Chuck E. & Friends - 'Ves Al Ratoncito'
+    13. Chuck E. & Friends - 'Play All You Can Play'
+4.  **Skit 2**
+    1.  Jasper T. Jowls - 'Dog Days of Summer'
+5.  **Intermission 3**
+    1.  Kidz Bop Kids - 'Stargazing'
+    2.  Helen Henny - 'Dream Big' (ASL)
+    3.  Chuck E. & Helen - 'I Dare You Not to Laugh
+    4.  Off-Road with Chuck E. Episode 2
+    5.  Chuck E. & Friends - 'Friendship Never Ends 2024'
+    6.  Chuck E. & Friends - 'Let's Have a Party'
+    7.  Kidz Bop Kids - 'APT
+    8.  Unicorn Academy Show clip
+
+## Lives 08/04 Update
+
+1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
+3. Me & My Friends (3-Stage Legacy Navori)
+4. Beach Party Bash (3-Stage Legacy Navori) (Removed 07/28, Added Back 07/29)
+
+## Fireables 08/04 Update
 
 1. Munch's Make Believe Band - 'Every Boy Every Girl'
 2. Munch's Make Believe Band - 'Chuck E.'s Place'
@@ -113,7 +306,7 @@ categories = ["Chuck E. Cheese's"]
     6.  Chuck E. & Friends - 'Let's Have a Party'
     7.  Kidz Bop Kids - 'APT
 
-## Lives 07/28Update
+## Lives 07/28 Update
 
 1. Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
