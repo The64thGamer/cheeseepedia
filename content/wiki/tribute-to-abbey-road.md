@@ -1,14 +1,15 @@
 +++
-title = "Tribute to Abbey Road"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "Tribute to Abbey Road"
 startDate = "1982-00-00"
 endDate = "0000-00-00"
-contributors = ["Sonim07","Montfortdog","Ceclife13","The 64th Gamer"]
-citations = []
 pageThumbnailFile = "mKDsTHn6ZJ0V5pvIKspx.avif"
-credits = ["Creative Engineering / Creative Records|Production Studio","Skitzo Noize / The Tropical Cleaners|Instrumentals / vocals","Aaron Fechter|Rolfe, Earl, Billy Bob, Looney Bird, Beach Bear vocals","Duke Chauppetta|Dook LaRue vocals / Song writer","Burt Wilson|Fatz Geronimo vocals / Song writer","Shalisa Sloan|Mitzi Mozzarella vocals","Rick Bailey|Moon vocals / Background vocalist","Jeff Howell|Song writer / Background vocalist","Kathy Norman|Show programmer"]
+contributors = ["Sonim07", "Montfortdog", "Ceclife13", "The 64th Gamer", "Luigigamin212"]
+citations = ["https://youtu.be/c6zUGfr4BRE?si=pk1q2xQdjPFpgwBJ"]
+credits = ["Creative Engineering / Creative Records|Production Studio", "Skitzo Noize / The Tropical Cleaners|Instrumentals / vocals", "Aaron Fechter|Rolfe, Earl, Billy Bob, Looney Bird, Beach Bear vocals", "Duke Chauppetta|Dook LaRue vocals / Song writer", "Burt Wilson|Fatz Geronimo vocals / Song writer", "Shalisa Sloan|Mitzi Mozzarella vocals", "Rick Bailey|Moon vocals / Background vocalist", "Jeff Howell|Song writer / Background vocalist", "Kathy Norman|Show programmer"]
+transcriptions = ["Abbey Road Medley"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 ***Tribute to Abbey Road* is a Rock-afire Explosion Showtape that was released in early September of 1982 for ShowBiz Pizza Place stores.https://www.showbizpizza.com/info/documents/spp/spp_bulletin01.pdf
 It features six segments covering a wide variety of songs of different genres, ending with a 14-minute long medley of songs from the B side of the Beatles 1969 album 'Abbey Road'.
