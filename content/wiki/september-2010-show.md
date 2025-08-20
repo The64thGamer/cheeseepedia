@@ -11,8 +11,8 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***September 2010* was the fall show released September 1, 2010 and played through November 30th.
-This show features eight songs from various shows released throughout the 2000s.**
+***September 2010* was a 'best of' show which released on September 1, 2010 and played through November 30th.
+This show featured eight songs from various shows released throughout the 2000s.**
 
 ## Show List
 
@@ -25,12 +25,12 @@ This show features eight songs from various shows released throughout the 2000s.
 3. **Intermission 1**
 
    1. Backstage Pass - 'Hanson'
-   1. Hanson - 'Thinking 'Bout Somethin''
-   2. Sound Splosion: Yo Gabba Gabba! - 'It's A Party For Brobee'
-   3. Fun Facts - 'Gorillas'
-   4. CEC TV ID - 'Aquarium'
-   5. The Zone - 'Drifting'
-   6. CEC TV ID - 'Parachute'
+   2. Hanson - 'Thinking 'Bout Somethin''
+   3. Sound Splosion: Yo Gabba Gabba! - 'It's A Party For Brobee'
+   4. Fun Facts - 'Gorillas'
+   5. CEC TV ID - 'Aquarium'
+   6. The Zone - 'Drifting'
+   7. CEC TV ID - 'Parachute'
 4. **Segment 2**
 
    1. 'Mailman'
