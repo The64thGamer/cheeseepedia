@@ -7,7 +7,7 @@ pageThumbnailFile = "mn5sdkae31xlkb6il7hs.avif"
 contributors = ["The 64th Gamer", "2600:1002:B101:DA57:DC5B:F933:7A4A:EC0", "Pasquallytheplumber", "173.72.50.65", "216.125.34.66", "CyberSnout"]
 citations = ["https://archive.org/details/aps-yellow-case"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlissa McKinney|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
-mediaDuration = "2:50"
+mediaDuration = "2:41"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
