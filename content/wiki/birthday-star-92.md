@@ -8,7 +8,7 @@ contributors = ["The 64th Gamer", "2600:1002:B101:DA57:DC5B:F933:7A4A:EC0", "Pas
 citations = ["https://archive.org/details/aps-yellow-case"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlissa McKinney|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
 mediaDuration = "2:41"
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 **Birthday Star '92** was a live show that was available from March 1992 through January 1995.
