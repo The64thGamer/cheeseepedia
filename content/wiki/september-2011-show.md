@@ -64,9 +64,9 @@ categories = ["Chuck E. Cheese's"]
 
 ## Lives:
 
-- Bday Program
-- Spanish Bday
-- Bingo
+- Birthday 2009
+- Spanish Birthday 2010
+- BINGO
 - Happy & You Know It
 - Old MacDonald
 
