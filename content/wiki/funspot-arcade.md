@@ -34,8 +34,7 @@ There are more locations than what is known. It is known one arcade was installe
 | Rockingham Park Mall              | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}}                           | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025)  | December 13, 2024 | N/A          |
 | Penn Square Mall                  | {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}}                | Fun Spot Arcade                                             | January 2025      | N/A          |
 | Springhill Suites                 | Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) | ???                                                         | ???               | N/A          |
-| Trumbull Mall                     | {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                         | Fun Spot Arcade 
-(rebranded to Chuck's Arcade in July 2025) | September 6, 2024 | N/A          |
+| Trumbull Mall                     | {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                         | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 6, 2024 | N/A          |
 | Tyrone Square                     | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}<sup>(7)</sup>                  | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025)  | September 2024    | N/A          |
 | Brea Mall                         | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}<sup>(7)</sup>                   | Chuck's Arcade                                              | April 2025        | N/A          |
 | Woodland Hills Mall               | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}<sup>(17)</sup>                      | Chuck's Arcade                                              | May 29, 2025      | N/A          |
