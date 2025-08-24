@@ -1,17 +1,19 @@
 +++
-title = "September 2000 Show"
 draft = false
+title = "September 2000 Show"
+startDate = "2000-09-00"
+endDate = "2000-11-00"
+pageThumbnailFile = "II_jNqmGA1F7FlfiC2f2.avif"
+contributors = ["The 64th Gamer", "Ceclife13"]
+citations = ["[https://www.youtube.com/watch?v=k3lJRDHOySQ](%22https://www.youtube.com/watch?v=k3lJRDHOySQ%22)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager, Voiceover (Behind The Video)", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/September%202000%20Studio%20C.iso|Studio C DVD ISO"]
+alsoKnownAs = ["The Chuck E. Cheese Show"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2000-09-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Ceclife13"]
-citations = ["[https://www.youtube.com/watch?v=k3lJRDHOySQ](%22https://www.youtube.com/watch?v=k3lJRDHOySQ%22)"]
-pageThumbnailFile = "II_jNqmGA1F7FlfiC2f2.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
-**September 2000 Show** (AKA ***The Chuck E. Cheese Show*) was a show that released in September 2000 and ran through November 2000.
-This show featured 4 segments with 8 songs.**
+The **September 2000 Show** (also known as ***The Chuck E. Cheese Show*) was a show with eight songs which played through the fall of 2000.**
 
 ## Show Tape:
 
@@ -37,10 +39,8 @@ This show featured 4 segments with 8 songs.**
     2.  ['I Can Count On You'](https://en.wikipedia.org/wiki/Big_Tent_Revival)
 6.  **Intermission 3**
     1.  Eddie Coker - 'Nine Inch Whales'
-    2.  Ski Time (Studio C only)
-    3.  Ocean (Studio C only)
-    4.  Store Intro - 'Springfield MO, CEC'
-    5.  CEC TV ID - 'Rocketship'
+    2.  Store Intro - 'Springfield MO, CEC'
+    3.  CEC TV ID - 'Rocketship'
 7.  **Segment 4**
     1.  ['M.O.T.H.E.R.'](https://en.wikipedia.org/wiki/Howard_Johnson_(lyricist))
     2.  'No Other Place'
@@ -51,25 +51,26 @@ This show featured 4 segments with 8 songs.**
     4.  CEC TV ID - 'Cows'
     5.  Book Your Party Online Promo
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**During this time live shows would be on separate VHS tapes for MMBB based stores.**
 
+- Limbo Rock
 - Chuck E. Says
-- {{< wiki-link "Chuck E Shuffle" >}}
+- Chuck E Shuffle
 - Chuck E. March
 - America
-- Havin' a Party
-- {{< wiki-link "Birthday Star '98" >}}
-- {{< wiki-link "Spanish Birthday" >}}
+- Havin' a Party at Chuck E.'s Place
+- Birthday Star
+- Spanish Birthday
 - Chuck E. Swing
 - Rockin' Christmas Eve
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Patriotic Live 00" >}}
-- If You're Happy & You Know It
-- Limbo Rock
+- BINGO
+- Patriotic Live 2000
+- Happy And You Know It
+- Give My Regards To Broadway (Existing Stages)
 
-**Birthday Break**: The CEC Show logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: The Chuck E. Cheese Show logo with music set to a 1 or 2 minute countdown which would lead into the Birthday show.
 
 ## Production
 
@@ -82,9 +83,8 @@ This show featured 4 segments with 8 songs.**
 ## Trivia
 
 - Various members of the entertainment department appear in this show
-  - Duncan Brannan is the cast member in 'Closing Time?'
-  - Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video'
-  - The voiceover for 'Behind The Video' was done by Brian Hagan
-  - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola'
+  - Duncan Brannan appears as a cast member in 'Closing Time?'
+  - Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video' The voiceover for this skit was done by Brian Hagan.
+  - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola' alongside Ryan Hollingsworth.
 - The music for 'Football' and 'Flyball' is reused from {{< wiki-link "August 1997 Show" >}} and {{< wiki-link "September 1998" >}} respectively.
 - 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.<sup>(1)</sup>
