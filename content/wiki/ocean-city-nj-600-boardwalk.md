@@ -28,8 +28,7 @@ The area would go under heavy remodeling in around mid to late 2002. The Showtap
 
 #### Legacy Version (2015-Present)
 
-In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022. After Gillian's closed, the animatronics were given to Andrew Boylan, the Wonderland employee who spearheaded the restoration. In June 2025, he moved the band to the Promenade Food Court alongside the Monkey Band. Instead of putting in a dollar to hear the Railroad Ramblers sing like before, their set list is played every hour.<sup>(3)</sup>
-
+In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022. After Gillian's closed, the animatronics were given to Andrew Boylan, the Wonderland employee who spearheaded the restoration. In June 2025, he moved the band to the nearby Promenade Food Court alongside the Monkey Band. Instead of putting in a dollar to hear the Railroad Ramblers sing like before, their set list is played every hour.<sup>(3)</sup>
 
 ## Stages
 
@@ -43,10 +42,10 @@ This is every animatronic stage Gillian's have had.
 
 ## Animatronics
 
-| Name                                                          | Installed | Removed    | Notes                                                               |
-| ------------------------------------------------------------- | --------- | ---------- | ------------------------------------------------------------------- |
-| {{< wiki-link "Rocky the Panda (Chuck E Cheese Retrofit)" >}} | 1992      | Still Used | Retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}.         |
-| {{< wiki-link "Antonio (Pasqually Retrofit)" >}}              | 1992      | Still Used | Retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}}.              |
-| Henrietta Hatpin (Helen Henny Retrofit)|Henrietta Hatpin      | 1992      | Still Used | Retrofit of {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. |
-| Hank The Dalmatian (Jasper Retrofit)|Hank The Dalmatian       | 1992      | Still Used | Retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}.         |
-| Bubba (Mr. Munch Retrofit)|Bubba                              | 1992      | Still Used | Retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}}.               |
+| Name                                                          | Installed          | Removed    | Notes                                                       |                                                                     |
+| ------------------------------------------------------------- | ------------------ | ---------- | ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| {{< wiki-link "Rocky the Panda (Chuck E Cheese Retrofit)" >}} | 1992               | Still Used | Retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}. |                                                                     |
+| {{< wiki-link "Antonio (Pasqually Retrofit)" >}}              | 1992               | Still Used | Retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}}.      |                                                                     |
+| Henrietta Hatpin (Helen Henny Retrofit)                       | Henrietta Hatpin   | 1992       | Still Used                                                  | Retrofit of {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. |
+| Hank The Dalmatian (Jasper Retrofit)                          | Hank The Dalmatian | 1992       | Still Used                                                  | Retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}.         |
+| Bubba (Mr. Munch Retrofit)                                    | Bubba              | 1992       | Still Used                                                  | Retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}}.               |
