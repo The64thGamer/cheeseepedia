@@ -1,22 +1,20 @@
 +++
-title = "Ocean City, NJ (600 Boardwalk)"
 draft = false
-tags = ["Locations"]
-categories = [""]
-latitudeLongitude = ["39.27718216891677", "-74.56620273165741"]
-
+title = "Ocean City, NJ (600 Boardwalk)"
 startDate = "1929-00-00"
 endDate = ""
-contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic","Destinationimagination95"]
-citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637\">https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</a>","<a href=\"https://youtu.be/UvaBNUrgag4\">https://youtu.be/UvaBNUrgag4</a>"]
 pageThumbnailFile = "lRNw4fmA25YWY6IB1mk1.avif"
+contributors = ["Jamsxyz", "The 64th Gamer", "PizzaEntertainmentFanX", "Cheeseclassic", "Destinationimagination95", "smileshy22"]
+citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637\">https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</a>", "<a href=\"https://youtu.be/UvaBNUrgag4\">https://youtu.be/UvaBNUrgag4</a>", "https://shorelocalnews.com/wonderland-animatronics-find-new-home-on-ocean-city-boardwalk/"]
+latitudeLongitude = ["39.27718216891677", "-74.56620273165741"]
+tags = ["Locations"]
+categories = ["Sally Corporation"]
 +++
-
-***Ocean City, NJ (600 Boardwalk)*** is the first ***Gillian's Wonderland Pier*** that was founded in 1929 by ***David Gillian*** as a historic amusement park. The place contains a retrofitted {{< wiki-link "Pizza Time Theatre" >}} {{< wiki-link "Cyberamics Balcony Stage" >}} known as ***Rocky &amp; The Railroad Ramblers***.
+***Ocean City, NJ (600 Boardwalk)*** is the first ***Gillian's Wonderland Pier*** that was founded in 1929 by ***David Gillian*** as a historic amusement park. The place contains a retrofitted {{< wiki-link "Pizza Time Theatre" >}} {{< wiki-link "Cyberamics Balcony Stage" >}} known as ***Rocky &amp; The Railroad Ramblers*** (also known as ***The Man & Dog Show***).
 
 ## History
 
-Gillian's Wonderland Pier was founded in 1929 by David Gillian in Ocean City, New Jersey as a small amusement park. The park had multiple attractions, mainly the Ferris wheel &amp; Carousel. David gave up ownership to Bob &amp; Roy Gillian in 1957. Gillian's Fun-deck was turned into a water park somewhere after 1987. Gillian's would expand to Sea isle city, New Jersey as Gillian's Funland. On August 9, 2024, Gillian's owner and Ocean City Mayor, Jay Gillian, announced Gillian's would close permanently after the 2024 season.(1)
+Gillian's Wonderland Pier was founded in 1929 by David Gillian in Ocean City, New Jersey as a small amusement park. The park had multiple attractions, mainly the Ferris wheel &amp; Carousel. David gave up ownership to Bob &amp; Roy Gillian in 1957. Gillian's Fun-deck was turned into a water park somewhere after 1987. Gillian's would expand to Sea Isle City, New Jersey as Gillian's Funland. On August 9, 2024, Gillian's owner and Ocean City Mayor, Jay Gillian, announced Gillian's would close permanently after the 2024 season.(1)
 
 ### Rocky &amp; The Railroad Ramblers
 
@@ -30,24 +28,25 @@ The area would go under heavy remodeling in around mid to late 2002. The Showtap
 
 #### Legacy Version (2015-Present)
 
-In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022.
+In 2015, a group of people would start to turn the area into a almost near replica of the Classic Version in a process known as 'Bringing Back the 90's'. The characters got new cosmetics, The old props were re-added, new 90's styled props were added, and the area was renamed back to Rocky &amp; The Railroad Ramblers. The area would turn 30 years old in 2022. After Gillian's closed, the animatronics were given to Andrew Boylan, the Wonderland employee who spearheaded the restoration. In June 2025, he moved the band to the Promenade Food Court alongside the Monkey Band. Instead of putting in a dollar to hear the Railroad Ramblers sing like before, their set list is played every hour.<sup>(3)</sup>
+
 
 ## Stages
 
 This is every animatronic stage Gillian's have had.
 
 | Name                                    | Installed | Removed    | Notes                                                                                       |
-|-----------------------------------------|-----------|------------|---------------------------------------------------------------------------------------------|
+| --------------------------------------- | --------- | ---------- | ------------------------------------------------------------------------------------------- |
 | Shipment Receiving (1992 Version)       | 1992      | 2002       | The earliest version of Rocky &amp; The Railroad Ramblers' Home. Retrofitted Balcony Stage. |
 | Shipment Receiving (Modernized Version) | 2001      | 2015       | The modernized version of the show.                                                         |
 | Shipment Receiving (Legacy Version)     | 2015      | Still Used | Based on the 90's version of the show.                                                      |
 
 ## Animatronics
 
-| Name                                                                | Installed | Removed    | Notes                                                                     |
-|---------------------------------------------------------------------|-----------|------------|---------------------------------------------------------------------------|
+| Name                                                          | Installed | Removed    | Notes                                                               |
+| ------------------------------------------------------------- | --------- | ---------- | ------------------------------------------------------------------- |
 | {{< wiki-link "Rocky the Panda (Chuck E Cheese Retrofit)" >}} | 1992      | Still Used | Retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}.         |
 | {{< wiki-link "Antonio (Pasqually Retrofit)" >}}              | 1992      | Still Used | Retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}}.              |
-| Henrietta Hatpin (Helen Henny Retrofit)\|Henrietta Hatpin           | 1992      | Still Used | Retrofit of {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. |
-| Hank The Dalmatian (Jasper Retrofit)\|Hank The Dalmatian            | 1992      | Still Used | Retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}.         |
-| Bubba (Mr. Munch Retrofit)\|Bubba                                   | 1992      | Still Used | Retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}}.               |
+| Henrietta Hatpin (Helen Henny Retrofit)|Henrietta Hatpin      | 1992      | Still Used | Retrofit of {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. |
+| Hank The Dalmatian (Jasper Retrofit)|Hank The Dalmatian       | 1992      | Still Used | Retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}.         |
+| Bubba (Mr. Munch Retrofit)|Bubba                              | 1992      | Still Used | Retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}}.               |
