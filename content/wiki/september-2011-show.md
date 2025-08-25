@@ -64,9 +64,9 @@ categories = ["Chuck E. Cheese's"]
 
 ## Lives:
 
-- Bday Program
-- Spanish Bday
-- Bingo
+- Birthday 2009
+- Spanish Birthday 2010
+- BINGO
 - Happy & You Know It
 - Old MacDonald
 
@@ -80,12 +80,5 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia:
 
-September 2011 was shot in 5 days according to a behind the scenes video.<sup>(1)</sup>
-
-This is the final show for the following:
-
-- To have the original Studio C puppets in their traditional setup.
-- To have original songs in the Avenger era.
-- To feature a new logo in the Avenger era.
-
-Geography Rap - 'Australia' is reused from {{< wiki-link "CEC American Pride" >}}, Monkey Ninjas Episode 1 is reused from the {{< wiki-link "January 2002 Show" >}}, Monkey Ninjas Episode 2 is reused from the {{< wiki-link "April 2002 Show" >}}, Chillout - 'Animals' and Chillout - 'Space' are edited versions of countdowns from the {{< wiki-link "September 2002 Show" >}}, and Chillout - 'Landscapes' and Chillout - 'Wildlife' are edited versions of countdowns from the {{< wiki-link "January 2011 Show" >}}.
+- September 2011 was shot in 5 days according to a behind the scenes video.<sup>(1)</sup>
+- Geography Rap - 'Australia' is reused from {{< wiki-link "CEC American Pride" >}}, Monkey Ninjas Episode 1 is reused from the {{< wiki-link "January 2002 Show" >}}, Monkey Ninjas Episode 2 is reused from the {{< wiki-link "April 2002 Show" >}}, Chillout - 'Animals' and Chillout - 'Space' are edited versions of countdowns from the {{< wiki-link "September 2002 Show" >}}, and Chillout - 'Landscapes' and Chillout - 'Wildlife' are edited versions of countdowns from the {{< wiki-link "January 2011 Show" >}}.
