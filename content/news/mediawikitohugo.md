@@ -1,11 +1,13 @@
 +++
 title= "The Mediawiki Move"
-date= 2024-09-13T06:20:24-05:00
+startDate= "2024-09-13"
 draft= false
-tags = ["Meta"]
+tags = ["Animatronic News"]
 categories = []
 contributors = ["The 64th Gamer"]
+pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
 +++
+
 Hello user! Cheese-E-Pedia has moved from Miraheze to being a statically generated Hugo site. This provides many benefits for customization, article formatting, and easy archival of the site for offline use. Let's go over changes and expectations for what this entails.
 
 ## Additions
