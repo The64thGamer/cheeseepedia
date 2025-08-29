@@ -9,7 +9,7 @@ citations = ["https://chucke.fandom.com/wiki/CEC_Fractured_Classics"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Fractured Classics*** is a showtape played from January to February 1989. This is the first showtape to use the Cyberstar intro.
+***Fractured Classics*** is a showtape played at Chuck E. Cheese's Pizza Time Theatres from January to February 1989. This is the first showtape to use the Cyberstar intro.
 
 ## Show List
 
