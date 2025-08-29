@@ -18,19 +18,17 @@ categories = ["Chuck E. Cheese's"]
 * 8 Minute Countdown
 * Cyberstar Intro
 
-**Segment 1- Fractured Classics**
+**Segment 1- Fractured Classical Medley**
 
-Classical Medley
-
-1. "Eine Kleine Nachtmusik" (Mozart)
-2. "Symphony No. 5" (Beethoven)
-3. "Ľamour est un oiseau reblle" (Georges Bizet)
-4. "Filght of the Bumblebee" (Nikolai Rimsky-Korsakov)
-5. "Sabre Dance" (Aram Khachaturian)
-6. "The Blue Danube" (Johann Strauss II)
-7. "Frulingsstimmen" (Johann Strauss II)
-8. "In the Hall of the Mountain King" (Edvard Grieg)
-9. "The Year of 1812 Solemn Overture" (Pyort llich Tchaikovsky)
+1. The Pizza Time Players' "Eine Kleine Nachtmusik" (Mozart)
+2. Jasper's "Symphony No. 5" (Beethoven)
+3. Pasqually's "Ľamour est un oiseau reblle" (Georges Bizet)
+4. The Pizza Time Players' "Filght of the Bumblebee" (Nikolai Rimsky-Korsakov)
+5. Jasper's "Sabre Dance" (Aram Khachaturian)
+6. Helen's "The Blue Danube" (Johann Strauss II)
+7. Helen and Pasqually's "Frulingsstimmen" (Johann Strauss II)
+8. The Pizza Time Players' "In the Hall of the Mountain King" (Edvard Grieg)
+9. The Pizza Tim Players' "The Year of 1812 Overture" (Pyort llich Tchaikovsky)
 
 **Intermission 2**
 
