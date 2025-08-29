@@ -48,7 +48,7 @@ categories = ["Chuck E. Cheese's"]
 * 8 Minute Countdown
 * Cyberstar Intro
 
-**Segment 3**
+**Segment 3- Dance I**
 
 1. Rhythm Is Gonna Get You
 2. Do You Love Me?
@@ -60,7 +60,7 @@ categories = ["Chuck E. Cheese's"]
 * 8 Minute Countdown
 * Cyberstar Intro
 
-**Segment 4**
+**Segment 4- Dance II**
 
 1. Speed Demon
 2. The Curly Shuffle
