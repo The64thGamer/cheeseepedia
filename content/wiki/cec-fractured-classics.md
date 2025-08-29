@@ -28,7 +28,7 @@ categories = ["Chuck E. Cheese's"]
 6. Helen's "The Blue Danube" (Johann Strauss II)
 7. Helen and Pasqually's "Frulingsstimmen" (Johann Strauss II)
 8. The Pizza Time Players' "In the Hall of the Mountain King" (Edvard Grieg)
-9. The Pizza Tim Players' "The Year of 1812 Overture" (Pyort llich Tchaikovsky)
+9. The Pizza Time Players' "The Year of 1812 Overture" (Pyort llich Tchaikovsky)
 
 **Intermission 2**
 
