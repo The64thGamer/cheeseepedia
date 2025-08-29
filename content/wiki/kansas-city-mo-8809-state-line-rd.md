@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Kansas City, MO (8809 State Line Rd)"
-startDate = "2023-06-00"
+startDate = "2023-06-20"
 endDate = ""
 pageThumbnailFile = "FH0Lgb_5vnHjzYRDm178.avif"
 contributors = ["Cheeseclassic", "smileshy22"]
