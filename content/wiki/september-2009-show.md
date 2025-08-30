@@ -1,72 +1,82 @@
 +++
-title = "September 2009 Show"
 draft = false
+title = "September 2009 Show"
+startDate = "2009-09-00"
+endDate = "2009-11-00"
+pageThumbnailFile = "VWyaqvxIywrhnGFIhu0b.avif"
+contributors = ["The 64th Gamer", "Documentor", "Haywardmaster", "2600:1012:B048:26A9:90B0:716A:6B8B:88A", "Dame0824", "Ceclife13"]
+citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls ", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Ryan Hollingsworth - Production Specialist", "Michael Hill - Studio Coordinator", "Dave Wilson - Songwriter (\"Toppings\", \"Fall For Everyone\", \"Let's Dance\")"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
+downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/September%202009%203-Stage-002.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2009-09-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","Haywardmaster","2600:1012:B048:26A9:90B0:716A:6B8B:88A","Dame0824"]
-citations = []
-pageThumbnailFile = "VWyaqvxIywrhnGFIhu0b.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
 +++
-**September 2009** is the fall show released September 2009. Featuring 8 new songs.
-This show played from September 2009-November 2009.
+**September 2009** was a showtape with eight songs which played through the fall of 2009.
 
 ## Show List:
 
 1.  **Segment 1**
-    1.  'Hourglass'
+    1.  ['Hourglass'](https://en.wikipedia.org/wiki/Hourglass_(Squeeze_song))
     2.  'Let's Dance'
 2.  **Intermission 1**
-    1.  CEC TV ID - 'Break Dancer'
-    2.  Monsters Vs Aliens DVD Spot 1
+    1.  CEC TV ID - 'Breakdance'
+    2.  Monsters Vs Aliens DVD Promo
     3.  PBS Kids Spot
-    4.  Countdown - 'Juggling'
-    5.  Coke Spot 1
-    6.  CEC TV ID - '1950s Astronauts'
+    4.  Juggling
+    5.  Coke Spot (Existing Stages)
+    6.  CEC TV ID - 'Space Kids'
 3.  **Segment 2**
     1.  'Good To Be Alive'
-    2.  'Someday Someway'
+    2.  ['Someday, Someway'](https://en.wikipedia.org/wiki/Someday,_Someway)
 4.  **Intermission 2**
-    1.  CEC TV ID - 'CEC TV Chime'
-    2.  Sing Along Guys - 'Itsy Bitsy Spider'
-    3.  Amphibicar
-    4.  Birthday Promo
+    1.  CEC TV ID - 'NBC Chime'
+    2.  Sing-along Guys - 'Itsy Bitsy Spider'
+    3.  Amphicar
+    4.  Bday Promo
     5.  CEC TV ID - 'Pizza Fan'
 5.  **Segment 3**
     1.  'Toppings'
     2.  'Fall For Everyone'
 6.  **Intermission 3**
-    1.  CEC TV ID - 'Monster'
-    2.  Artist Spotlight: Ziggy Marley - 'Family Time'
-    3.  Monsters Vs Aliens DVD Spot 2
-    4.  Coke Spot 2
+    1.  CEC TV ID - 'Monster Skateboard'
+    2.  CEC TV Artist Spotlight: Ziggy Marley - 'Family Time'
+    3.  Monsters Vs Aliens DVD Promo
+    4.  Coke Spot
     5.  CEC TV ID - 'Sports'
 7.  **Segment 4**
-    1.  'Don't Let Your Feet Touch The Ground'
+    1.  ['Don't Let Your Feet Touch Ground'](https://en.wikipedia.org/wiki/Ash_Koley)
     2.  'I'm Gonna Dream'
 8.  **Intermission 4**
     1.  CEC TV ID - 'Astronaut Chuck E.'
-    2.  Countdown - 'Nasa'
-    3.  Baking With Betty - 'Mad Cow Disease'
+    2.  NASA Footage
+    3.  Baking With Betty - 'Mad Cows'
     4.  CEC TV ID - 'Claw Machine'
 
-## Lives:
+## Live Shows:
 
-- Bday 2009 Program (3stage, Cyberamic, Studio C)
-- Bday 2009 Training (3stage, Cyberamic, Studio C)
-- Bingo (3stage, Cyberamic, Studio C)
-- Chuck E. March (3stage, Cyberamic, Studio C)
-- Chuck E. Shuffle (3stage, Cyberamic, Studio C)
-- Chuck E. Says (3stage, Cyberamic, Studio C)
-- Havin' A Party (3stage, Cyberamic, Studio C)
-- Jumpin' (3stage, Cyberamic, Studio C)
-- Dancin' (3stage, Cyberamic, Studio C)
-- Happy & You Know It (3stage, Cyberamic, Studio C)
-- Storytime w/ Chuck E. (3stage, Cyberamic, Studio C)
+- Bday 2009 Program
+- Bday 2009 Training
+- BINGO
+- Chuck E. March 2001
+- Chuck E. Shuffle 2006
+- Chuck E. Says 2002
+- Havin' A Party 2001
+- Jumpin'
+- Happy & You Know It
+- Storytime w/ Chuck E.
+- Dancin' All Night Long (Existing Stages)
+
+## Production
+
+### File Dates
+
+- Studio C DVD: 7/27/09
+- 3-Stage DVD: 8/17/09
+
 
 ## Trivia:
 
-This was one of two showtapes to replace the puppets with the animatronics between songs. The first being {{< wiki-link "April 2009 Show" >}} and the last being September 2009.
-*"Toppings","Fall For Everyone" ,"Let's Dance" were written by Dave Wilson for CEC for this show.
+- This was one of two showtapes to replace the puppets with the animatronics between songs, the other being the {{< wiki-link "April 2009 Show" >}}.
+- Baking With Betty - 'Mad Cows' and 'Amphicar' are reused from the {{< wiki-link "September 2001 Show" >}}, 'NASA footage' is reused from {{< wiki-link "CEC TV April 2005 Show" >}}, 'Juggling' is reused from the {{< wiki-link "April 2007 Show" >}}, and Sing-along Guys - 'Itsy Bitsy Spider' is reused from the {{< wiki-link "April 2008 Show" >}}.
+
