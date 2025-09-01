@@ -9,7 +9,7 @@ latitudeLongitude = ["38.97895537", "-76.54700493"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***2333-A Forest Dr, Store #50*** is a Chuck E. Cheese in Annapolis, Maryland, in the Festival at Riva Shopping Center that opened on April 10th, 1993, and closed on August 31, 2025.
+***2333-A Forest Dr, Store #50*** is a Chuck E. Cheese in Annapolis, Maryland, in the Festival at Riva Shopping Center that opened on April 10, 1993, and closed on August 31, 2025.
 
 ## History
 
