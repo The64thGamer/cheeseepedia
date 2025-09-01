@@ -9,7 +9,6 @@ contributors = ["Gorillaman2"]
 
  I read in a book about the way the future would look and the future looks fun to me.
 
-There'll be more time for pleasure and since leisure is a Chuck E. treasure. The future looks fun to me.
 
 **Pasqually:**
 
@@ -19,6 +18,8 @@ and fun is fun!
 
 **Chuck:**
 
+
+There'll be more time for pleasure and since leisure is a Chuck E. treasure. The future looks fun to me.
 
 I've got no crystal ball, just a really strong hunch that I'll be having a great time if I stick
 
@@ -41,6 +42,7 @@ I greet each tomorrow with a jocularity 'cause the future looks fun to me
 
 
 Popularity and such vocabularity. Maybe travel in space will become quite
+
 commonplace and that looks like fun to me. Yes it does
 
 
@@ -126,6 +128,7 @@ commonplace and that looks like fun to me. Yes it does
 
 
  The band and I couldn't care if you're one hundred and one. We like kids of any age who like
+
 having fun. We're proud to be purveyors of gladness and glee, so the future looks fun to me
 
 
@@ -175,7 +178,9 @@ Isn’t the future gonna be high tech?
 
 
  Here's a little fact that amazes me, I can wash the dishes while I'm watching TV. They
+
 microwave my food without heating the oven, I've got a food process that I'm really loving. My
+
 'fridgerator is fridgerific. Kitchen appliances are Tec- no-rific
 
 
@@ -219,7 +224,9 @@ Tec- no-rific
 
 
  To stay in shape I used to jog around the block, that's not the way of the modern day jog.
+
 They got machines that put the hurt in every muscle. You stay in shape with just a little bit of
+
 hustle. These new machines make your tuzzle look terrific. Better get me some Tec- no-rific
 
 
@@ -263,7 +270,9 @@ Tec- no-rific
 
 
  My home computer boasts 64k. That's more than Voyager 1 by the way. My modem
+
 hookup gives me mucho information. I'm out on top of the computer situation. These computers
+
 make me feel very scientific upon a modern life that's Tec- no-rific
 
 
@@ -301,6 +310,8 @@ Tec- no-rific
 
 
  To be more specific the world we're living in is Tec- no-rific. We’ve had a Tec- no-rific
+
 time. Alright, who’s the wise guy? Oh well, while we go figure this one out we’re gonna take a
+
 break. But we’ll be back in a bit
 
