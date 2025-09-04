@@ -15,4 +15,4 @@ The location is the third ever in Australia, succeeding the {{< wiki-link "Surfe
 ## History
 
 The store's first mention would be on January 11, 2024, with a press release by CEC in partnership with *Royale Hospitality.* No general location would be given for the store.<sup>(1)</sup> On March 17, 2025, the location would be confirmed to be set in the city of Perth, with Australian social medias, a website page, and a sign-up newsletter available.<sup>(2)(3)</sup> The location's address and photos of the inside were revealed on September 4.<sup>(4)</sup>
-Winston Rd. opened on September 6, 2025.<sup>(4)</sup> It has an Adventure Zone with tubes and a ball pit akin to the {{< wiki-link "Skytubes" >}} and Ball Crawl attractions that used to be in US Chuck E. Cheese's locations.
+Winton Rd. opened on September 6, 2025.<sup>(4)</sup> It has an Adventure Zone with tubes and a ball pit akin to the {{< wiki-link "Skytubes" >}} and Ball Crawl attractions that used to be in US Chuck E. Cheese's locations.
