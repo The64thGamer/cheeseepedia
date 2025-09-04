@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Perth, Australia"
+title = "Joondalup, Perth, Australia"
 startDate = "2025-09-06"
 pageThumbnailFile = "auuuuuuuuussiecharles.avif"
 contributors = ["The 64th Gamer"]
