@@ -7,7 +7,7 @@ pageThumbnailFile = "UW24uBA4chwShUku9dHv.avif"
 contributors = ["The 64th Gamer", "Luigigamin212"]
 citations = ["https://youtu.be/LrdRgJMFxsI?si=c2wvF5aD2uJ7pWKA"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Welcome In To Showbiz", "Come For The Pizza"]
+transcriptions = ["Welcome In To Showbiz", "Come For The Pizza", "Goofy Gas Commercial "]
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 +++
