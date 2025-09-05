@@ -46,8 +46,7 @@
         {{- $start := index $parts 1 -}}
         {{- $end := index $parts 2 -}}
         <li>
-          {{< wiki-link "{{ $name }}" >}}
-          ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
+          {{ $name }} ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
         </li>
       {{- end }}
     </ul>
