@@ -36,6 +36,22 @@
   {{- end -}}
   {{- partial "display-infobox-location.html" . -}}
   {{- .Content | safeHTML -}}
+
+  {{- with .Params.attractions }}
+    <h2>Attractions</h2>
+    <ul>
+      {{- range . }}
+        {{- $parts := split . "|" -}}
+        {{- $name := index $parts 0 -}}
+        {{- $start := index $parts 1 -}}
+        {{- $end := index $parts 2 -}}
+        <li>
+          {{< wiki-link "{{ $name }}" >}}
+          ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
+        </li>
+      {{- end }}
+    </ul>
+  {{- end }}
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">
