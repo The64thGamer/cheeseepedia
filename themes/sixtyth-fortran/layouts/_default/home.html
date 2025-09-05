@@ -14,4 +14,20 @@
 <hr>
 <h2>Recently Changed</h2>
 {{- partial "recently-changed.html" . -}}
+{{- $pages := slice -}}
+{{- range .Site.RegularPages -}}
+  {{- $pageData := dict 
+    "00-title" .Title
+    "01-content" .Plain
+    "02-tags" .Params.tags
+    "03-categories" .Params.categories
+    "04-latlong" .Params.latitudeLongitude
+    "05-startDate" .Params.startDate
+    "06-endDate" .Params.endDate
+    "07-cuDate" .Params.cuDate
+  -}}
+  {{- $pages = $pages | append $pageData -}}
+{{- end -}}
+{{- $json := $pages | jsonify -}}
+{{- $noop := (resources.FromString "/site.json" $json).Permalink -}} 
 {{- end -}}
