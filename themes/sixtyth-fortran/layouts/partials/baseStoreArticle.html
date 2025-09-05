@@ -31,7 +31,7 @@
 <div id="section-article" class="article-section">
   {{- if .Params.pageThumbnailFile -}}
     <div class="article-store-thumbnail">
-      {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+      {{- partial "filename-to-photo-no-css-no-desc.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
   {{- partial "display-infobox-location.html" . -}}
