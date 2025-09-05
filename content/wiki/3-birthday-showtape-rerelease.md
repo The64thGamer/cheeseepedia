@@ -1,15 +1,16 @@
 +++
-title = "3 Birthday Showtape (Rerelease)"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "3 Birthday Showtape (Rerelease)"
 startDate = "1988-07-15"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
-citations = []
-mediaDuration = "35:40"
 pageThumbnailFile = "Ydvvjgzbsb_kwSOqpdSN.avif"
+contributors = ["The 64th Gamer", "Luigigamin212"]
+citations = ["https://youtu.be/NUJ8ektuBWk?si=-UoHJRO470BEjZ9l"]
+mediaDuration = "35:40"
 showtapeFormats = ["CEI 4-Track Reel"]
+transcriptions = ["Sals Birthday"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 ***3-Birthday Showtape (Rerelease)* is a rerelease of the {{< wiki-link "3-Birthday Reel" >}} Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on July 15, 1988.
 The audio quality of the reel is noticeably lower than the original release of the showtape.**
