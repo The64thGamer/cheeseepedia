@@ -7,7 +7,7 @@ pageThumbnailFile = "QNoV3DuyH64NumJBNqIh.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/LrdRgJMFxsI?si=c2wvF5aD2uJ7pWKA"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Welcome In To Showbiz"]
+transcriptions = ["Welcome In To Showbiz", "Goofy Gas Commercial"]
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 +++
