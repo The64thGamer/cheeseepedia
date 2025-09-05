@@ -1,14 +1,15 @@
 +++
-title = "Top Ten Hits"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = "t6TwOMHuQ4pI6kgMsPm9.avif"
+title = "Top Ten Hits"
 startDate = "1985-02-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
-citations = []
+pageThumbnailFile = "t6TwOMHuQ4pI6kgMsPm9.avif"
+contributors = ["The 64th Gamer", "Luigigamin212"]
+citations = ["https://youtu.be/yQmYPgInUng?si=jOpcL3BIuJmrB530"]
 showtapeFormats = ["CEI 4-Track Reel"]
+transcriptions = ["Desperado"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 **Top 10 Hits of 1985** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1985.
 
