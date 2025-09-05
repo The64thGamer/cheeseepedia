@@ -11,7 +11,7 @@ attractions = ["Kiddie Rides (Various)|1979-05-00|0000-00-00","Rides (Various)|1
 sqft = ""
 latitudeLongitude = ["37.96875627","-122.0574822"]
 citations = ["https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/","https://forums.atariage.com/topic/240567-what-was-chuck-e-cheese-like-back-in-the-1980s/","https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=concord","https://web.archive.org/web/20120913192049/http://claycord.com:80/2012/09/11/claycord-online-museum-the-old-chuck-e-cheese-in-the-willows-shopping-center/","https://www.newspapers.com/clip/98320483/oakland-tribune/"]
-contributors = ["The 64th Gamer]
+contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/details/concord-ca-1975-diamond-blvd|Building Plans (May 23rd, 1979)"]
 pageThumbnailFile = "VBl4vyxU9D5KTbOqCZUv.avif"
 tags = ["Locations"]
