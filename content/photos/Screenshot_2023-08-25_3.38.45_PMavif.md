@@ -1,0 +1,10 @@
++++
+title = "Screenshot_2023-08-25_3.38.45_PM.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = []
+description = ""
+citations = []
++++
