@@ -4,10 +4,10 @@ title = "Spring Shows '82"
 startDate = "1982-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "UW24uBA4chwShUku9dHv.avif"
-contributors = ["The 64th Gamer"]
+contributors = ["The 64th Gamer", "Luigigamin212"]
 citations = ["https://youtu.be/LrdRgJMFxsI?si=c2wvF5aD2uJ7pWKA"]
 showtapeFormats = ["CEI 4-Track Reel"]
-transcriptions = ["Welcome In To Showbiz", "Com For The Pizza"]
+transcriptions = ["Welcome In To Showbiz", "Come For The Pizza"]
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 +++
