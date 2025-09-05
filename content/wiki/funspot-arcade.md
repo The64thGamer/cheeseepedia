@@ -5,7 +5,31 @@ startDate = "2022-00-00"
 endDate = ""
 pageThumbnailFile = "093j4g90i34jg23334.avif"
 contributors = ["The 64th Gamer", "Destinationimagination95", "smileshy22", "710bren"]
-citations = ["(Image In Gallery)", "(Image In Gallery)", "[https://www.facebook.com/HolidayInnResortOrlandoSuitesWaterpark/videos/our-arcade-powered-by-chuck-e-cheese-is-fun-for-the-whole-family-and-guaranteed-/1100560364217769/](%22https://www.facebook.com/HolidayInnResortOrlandoSuitesWaterpark/videos/our-arcade-powered-by-chuck-e-cheese-is-fun-for-the-whole-family-and-guaranteed-/1100560364217769/%22)", "[http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull](%22http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull%22)", "[https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/](%22https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/%22)", " [age range' quote https://www.reddit.com/r/chuckecheese/comments/1d23ojk/comment/l64qalb/](%22'3-8%22)", "[https://www.simon.com/mall/tyrone-square/map/#/profile?location=Fun%20Spot%20Arcade](%22https://www.simon.com/mall/tyrone-square/map/#/profile?location=Fun%20Spot%20Arcade%22)", "https://www.simon.com/brands/chucks-arcade", "https://www.reddit.com/r/chuckecheese/comments/1ip3omg/comment/mcxyxvt/", "https://www.instagram.com/reel/DGqW3JcJG0d/", "https://funspotarcade.com/", "https://www.reddit.com/r/chuckecheese/comments/1ljdpqg/ran_into_pasqually_today/", "https://www.reddit.com/r/chuckecheese/comments/1lmu6xn/we_have_a_taxedermy_helen_source/", "https://www.simon.com/mall/brea-mall/map/#/profile?location=Chuck's%20Arcade", "https://www.chuckecheese.com/tyler-tx/blogs/chuck-e-cheese-launches-chucks-arcade-a-classic-brand-extension-ushering-in-a-new-era-of-modern-arcade-gaming/", "https://www.usatoday.com/story/money/2025/07/03/chucks-arcade-chuck-e-cheese-locations/84458734007/", "https://www.instagram.com/p/DKPltK7zmnu/", "https://www.houstonchronicle.com/news/houston-texas/trending/article/chucks-arcade-el-paso-texas-20416704.php", "https://www.youtube.com/watch?v=zUzRHQ-dxdQ", "https://www.reddit.com/r/chuckecheese/comments/1ll5788/comment/mzyihnn/", "https://www.youtube.com/post/UgkxuFKuqCJP28Y8_by58OAx9iT1tnNhAmOf", "https://www.youtube.com/post/UgkxR2HV0zoj8BXs4e4408OdI80XKBKo8mRS", "https://www.youtube.com/post/Ugkxgz71PUualpPjn-dWPaUwQVrtxUJNNaAk"]
+citations = [
+"(Image In Gallery)",
+"(Image In Gallery)",
+"https://www.facebook.com/HolidayInnResortOrlandoSuitesWaterpark/videos/our-arcade-powered-by-chuck-e-cheese-is-fun-for-the-whole-family-and-guaranteed-/1100560364217769/", 
+"http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull",
+"https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/",
+"https://www.reddit.com/r/chuckecheese/comments/1d23ojk/comment/l64qalb/",
+"https://www.simon.com/mall/tyrone-square/map/#/profile?location=Fun%20Spot%20Arcade",
+"https://www.simon.com/brands/chucks-arcade",
+"https://www.reddit.com/r/chuckecheese/comments/1ip3omg/comment/mcxyxvt/",
+"https://www.instagram.com/reel/DGqW3JcJG0d/",
+"https://funspotarcade.com/",
+"https://www.reddit.com/r/chuckecheese/comments/1ljdpqg/ran_into_pasqually_today/",
+"https://www.reddit.com/r/chuckecheese/comments/1lmu6xn/we_have_a_taxedermy_helen_source/",
+"https://www.simon.com/mall/brea-mall/map/#/profile?location=Chuck's%20Arcade",
+"https://www.chuckecheese.com/tyler-tx/blogs/chuck-e-cheese-launches-chucks-arcade-a-classic-brand-extension-ushering-in-a-new-era-of-modern-arcade-gaming/",
+"https://www.usatoday.com/story/money/2025/07/03/chucks-arcade-chuck-e-cheese-locations/84458734007/",
+"https://www.instagram.com/p/DKPltK7zmnu/",
+"https://www.houstonchronicle.com/news/houston-texas/trending/article/chucks-arcade-el-paso-texas-20416704.php",
+"https://www.youtube.com/watch?v=zUzRHQ-dxdQ",
+"https://www.reddit.com/r/chuckecheese/comments/1ll5788/comment/mzyihnn/",
+"https://www.youtube.com/post/UgkxuFKuqCJP28Y8_by58OAx9iT1tnNhAmOf",
+"https://www.youtube.com/post/UgkxR2HV0zoj8BXs4e4408OdI80XKBKo8mRS",
+"https://www.youtube.com/post/Ugkxgz71PUualpPjn-dWPaUwQVrtxUJNNaAk"
+]
 alsoKnownAs = ["Fun Spot Arcade"]
 tags = ["Restaurants/FECs"]
 categories = ["Chuck E. Cheese's"]
