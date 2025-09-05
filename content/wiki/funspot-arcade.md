@@ -47,11 +47,13 @@ There are more locations than what is known. It is known one arcade was installe
 
 Some Chuck's Arcades have animatronics displayed in a glass case. They stand on a wooden base with the character's name on a Pizza Time Theatre-styled plate by their feet. The mechanisms inside were altered to make the characters have the right arm waving and the other by their side (besides Jasper's left arm).
 
-| Animatronic                                     | Location             | Installation Date | Original Location                                           |
-| ----------------------------------------------- | -------------------- | ----------------- | ----------------------------------------------------------- |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}       | Rockingham Park Mall | June 24, 2025     | {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}       |
-| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}} | Mall of Georgia      | June 26, 2025     | {{< wiki-link "Monroeville, PA (3800 William Penn Hwy)" >}} |
-| {{< wiki-link "Helen Henny (Cyberamic)" >}}     | Trumbull Mall        | June 28, 2025     | Unknown Road Stage location with legs from unknown 3 Stage  |
-| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}} | Ward Parkway Center  | July 5, 2025      | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}           |
-| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}} | Cielo Vista Mall     | July 6, 2025      | Unknown                                                     |
-| {{< wiki-link "Mr. Munch (Cyberamic)" >}}       | Brea Simon Center    | August 20, 2025   | Unknown                                                     |
+| Animatronic                                                 | Location             | Installation Date | Original Location                                           |
+| ----------------------------------------------------------- | -------------------- | ----------------- | ----------------------------------------------------------- |
+| {{< wiki-link "Pasqually (Cyberamic)" >}}                   | Rockingham Park Mall | June 24, 2025     | {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}       |
+| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}             | Mall of Georgia      | June 26, 2025     | {{< wiki-link "Monroeville, PA (3800 William Penn Hwy)" >}} |
+| {{< wiki-link "Helen Henny (Cyberamic)" >}}                 | Trumbull Mall        | June 28, 2025     | Unknown Road Stage location with legs from unknown 3 Stage  |
+| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}             | Ward Parkway Center  | July 5, 2025      | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}           |
+| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}             | Cielo Vista Mall     | July 6, 2025      | Unknown                                                     |
+| {{< wiki-link "Pasqually (Cyberamic)" >}} (with drumsticks) | Tyrone Square Mall   | July 6, 2025      | Unknown                                                     |
+| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}             | Eastview Mall        | July 6, 2025      | {{< wiki-link "Rockford, IL (3600 E State St)" >}}          |
+| {{< wiki-link "Mr. Munch (Cyberamic)" >}}                   | Brea Simon Center    | August 20, 2025   | Unknown                                                     |
