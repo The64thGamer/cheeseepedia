@@ -1,10 +1,20 @@
 +++
 title = "Escondido, CA (1411 Valley Pkwy)"
-draft = false
+storeNumber = ""
+startDate = "1982-11-00"
+endDate = "1984-05-20"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Plaza Satelite, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2020-02-15"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2020-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

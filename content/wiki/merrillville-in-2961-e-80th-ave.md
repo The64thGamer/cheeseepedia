@@ -1,10 +1,20 @@
 +++
 title = "Merrillville, IN (2961 E 80th Ave)"
-draft = false
+storeNumber = ""
+startDate = "2000-01-02"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2000-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

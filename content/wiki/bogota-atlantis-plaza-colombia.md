@@ -1,10 +1,20 @@
 +++
 title = "Bogota (Atlantis Plaza), Colombia"
-draft = false
+storeNumber = ""
+startDate = "2015-11-25"
+endDate = "2021-10-10"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2015-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

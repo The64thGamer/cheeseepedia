@@ -1,10 +1,20 @@
 +++
 title = "Stuart, FL (2400 NW Federal Hwy)"
-draft = false
+storeNumber = ""
+startDate = "1999-05-01"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1999-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

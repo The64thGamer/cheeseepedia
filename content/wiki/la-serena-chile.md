@@ -1,13 +1,20 @@
 +++
-draft = false
 title = "La Serena, Chile"
-startDate = "2015-00-00"
+storeNumber = ""
+startDate = "2015-02-26"
 endDate = ""
-pageThumbnailFile = ""
-contributors = ["Paskkkk"]
-citations = ["https://www.chuckecheese.cl/locales-y-horarios/"]
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
 latitudeLongitude = ["-29.905253120876058, -71.25780015980521"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+draft = false
 +++
-**Francisco de Aguirre 02, Local Exterior 01, La Serena** is a Chuck E. Cheese's that opened on February 26th 2015 and is still open to this day with a 16M Circles of Light.

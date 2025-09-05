@@ -1,10 +1,20 @@
 +++
 title = "McAllen, TX (2700 N 10th St)"
-draft = false
+storeNumber = ""
+startDate = "1982-12-00"
+endDate = "1984-11-14"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

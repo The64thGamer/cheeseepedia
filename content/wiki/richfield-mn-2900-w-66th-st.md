@@ -1,10 +1,20 @@
 +++
 title = "Richfield, MN (2900 W 66th St)"
-draft = false
+storeNumber = ""
+startDate = "1983-06-00"
+endDate = "1990-04-30"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

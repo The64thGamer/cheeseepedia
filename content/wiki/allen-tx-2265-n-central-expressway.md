@@ -1,10 +1,20 @@
 +++
 title = "Allen, TX (2265 N Central Expressway)"
-draft = false
+storeNumber = ""
+startDate = "2024-12-20"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = ""
-endDate = ""
-contributors = []
+draft = false
 +++

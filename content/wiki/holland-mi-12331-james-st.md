@@ -1,10 +1,20 @@
 +++
 title = "Holland, MI (12331 James St)"
-draft = false
+storeNumber = ""
+startDate = "2003-09-04"
+endDate = "2015-04-12"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2003-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

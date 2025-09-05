@@ -1,10 +1,20 @@
 +++
 title = "Silverdale, WA (2771 NW Myhre Rd)"
-draft = false
+storeNumber = ""
+startDate = "2007-08-28"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2007-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

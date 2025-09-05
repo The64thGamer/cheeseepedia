@@ -1,10 +1,20 @@
 +++
 title = "Riyadh (Exit 9/Imam Abdullah), Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2016-03-26"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2016-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Greeley, CO (2309 Greeley Mall)"
-draft = false
+storeNumber = ""
+startDate = "2005-09-20"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2005-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

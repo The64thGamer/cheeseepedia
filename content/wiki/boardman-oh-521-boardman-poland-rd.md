@@ -1,10 +1,20 @@
 +++
 title = "Boardman, OH (521 Boardman Poland Rd)"
-draft = false
+storeNumber = ""
+startDate = "1997-11-11"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1997-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

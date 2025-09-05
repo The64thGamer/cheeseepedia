@@ -1,10 +1,20 @@
 +++
 title = "Ibn Battuta Mall, U.A.E."
-draft = false
+storeNumber = ""
+startDate = "2016-02-19"
+endDate = "2021-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2016-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

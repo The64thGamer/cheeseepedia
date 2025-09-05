@@ -1,10 +1,20 @@
 +++
 title = "Hattiesburg, MS (1000 Turtlecreek Dr)"
-draft = false
+storeNumber = ""
+startDate = "2004-06-03"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2004-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

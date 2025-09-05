@@ -1,10 +1,20 @@
 +++
 title = "Joplin, MO (1230 E 7th St)"
-draft = false
+storeNumber = ""
+startDate = "1983-06-15"
+endDate = "1986-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

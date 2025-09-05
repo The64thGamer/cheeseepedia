@@ -1,10 +1,20 @@
 +++
 title = "Medford, OR (293 E Barnett Rd)"
-draft = false
+storeNumber = ""
+startDate = "2024-10-07"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = ""
-endDate = ""
-contributors = []
+draft = false
 +++

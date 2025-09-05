@@ -1,10 +1,20 @@
 +++
-title = "Al Khuzama/Al Kharj, Saudi Arabia"
-draft = false
+title = "Riyadh (Al Khuzama/Al Kharj), Saudi Arabia"
+storeNumber = ""
+startDate = "2020-00-00"
+endDate = "2025-06-24"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2020-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

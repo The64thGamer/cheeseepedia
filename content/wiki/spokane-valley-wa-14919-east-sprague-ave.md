@@ -1,10 +1,20 @@
 +++
 title = "Spokane Valley, WA (14919 East Sprague Ave)"
-draft = false
+storeNumber = ""
+startDate = "2009-02-09"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2009-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

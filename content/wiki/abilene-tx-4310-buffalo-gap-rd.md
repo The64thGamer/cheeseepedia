@@ -1,10 +1,20 @@
 +++
 title = "Abilene, TX (4310 Buffalo Gap Rd)"
-draft = false
+storeNumber = ""
+startDate = "2005-11-08"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2005-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

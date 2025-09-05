@@ -1,10 +1,20 @@
 +++
 title = "St Cloud, MN (3318 W Division St)"
-draft = false
+storeNumber = ""
+startDate = "2012-06-11"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2012-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

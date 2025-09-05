@@ -1,10 +1,20 @@
 +++
 title = "Austin, TX (13096 Research Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1983-04-00"
+endDate = "1984-05-20"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

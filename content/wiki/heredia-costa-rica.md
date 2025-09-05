@@ -1,10 +1,20 @@
 +++
 title = "Heredia, Costa Rica"
-draft = false
+storeNumber = ""
+startDate = "2018-03-19"
+endDate = "2025-02-02"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2018-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Morrow, GA (1351 Morrow Industrial)"
-draft = false
+storeNumber = ""
+startDate = "1982-12-29"
+endDate = "1985-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

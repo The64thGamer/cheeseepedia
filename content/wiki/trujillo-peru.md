@@ -1,10 +1,20 @@
 +++
 title = "Trujillo, Peru"
-draft = false
+storeNumber = ""
+startDate = "2014-08-19"
+endDate = "2024-11-03"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

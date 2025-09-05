@@ -1,10 +1,20 @@
 +++
 title = "Bloomington, MN (7989 Southtown Dr)"
-draft = false
+storeNumber = ""
+startDate = "1981-10-20"
+endDate = "1985-12-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

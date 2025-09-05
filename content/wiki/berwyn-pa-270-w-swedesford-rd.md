@@ -1,10 +1,20 @@
 +++
 title = "Berwyn, PA (270 W Swedesford Rd)"
-draft = false
+storeNumber = ""
+startDate = "2000-09-18"
+endDate = "2020-08-24"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2000-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

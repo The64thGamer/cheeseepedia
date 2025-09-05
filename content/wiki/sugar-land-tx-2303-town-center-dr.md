@@ -1,10 +1,20 @@
 +++
 title = "Sugar Land, TX (2303 Town Center Dr)"
-draft = false
+storeNumber = ""
+startDate = "2002-05-15"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2002-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

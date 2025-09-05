@@ -1,10 +1,20 @@
 +++
 title = "Albuquerque, NM (11016 Montgomery Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1982-12-30"
+endDate = "1986-03-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

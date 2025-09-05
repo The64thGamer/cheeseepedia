@@ -1,10 +1,20 @@
 +++
 title = "Springfield, VA (6324 Springfield Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1982-06-00"
+endDate = "1985-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

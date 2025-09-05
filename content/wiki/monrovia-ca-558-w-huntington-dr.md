@@ -1,12 +1,20 @@
 +++
 title = "Monrovia, CA (558 W Huntington Dr)"
-draft = false
+storeNumber = ""
+startDate = "2001-05-21"
+endDate = "2020-06-25"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["34.13662502","-118.0126379"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2001-00-00"
-endDate = "2020-06-00"
-contributors = ["Snowbobsuperboi","Cheeseclassic","AstridMascotFan2005"]
-citations = []
-latitudeLongitude = ["34.13662502","-118.0126379"]
+draft = false
 +++
-***Monrovia, CA (558 W Huntington Dr)* was a *Chuck E. Cheese* that opened in 2001 with a {{< wiki-link "Studio C Beta" >}}, and closed in June 2020.**

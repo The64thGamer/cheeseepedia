@@ -1,10 +1,20 @@
 +++
-title = "Baltimore, MD (1466 Martin Blvd)"
-draft = false
+title = "Baltimore / Essex, MD (1466 Martin Blvd)"
+storeNumber = ""
+startDate = "1982-10-00"
+endDate = "1985-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

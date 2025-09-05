@@ -1,10 +1,20 @@
 +++
 title = "Sioux City, IA (4400 Sergeant Rd)"
-draft = false
+storeNumber = ""
+startDate = "2004-05-05"
+endDate = "2020-06-16"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2004-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

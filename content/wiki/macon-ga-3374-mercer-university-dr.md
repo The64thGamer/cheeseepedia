@@ -1,10 +1,20 @@
 +++
 title = "Macon, GA (3374 Mercer University Dr)"
-draft = false
+storeNumber = ""
+startDate = "1998-07-00"
+endDate = "2020-06-18"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1998-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Tyler, TX (736 West SW Loop 323)"
-draft = false
+storeNumber = ""
+startDate = "2000-07-24"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2000-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

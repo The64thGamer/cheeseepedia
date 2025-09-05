@@ -1,10 +1,20 @@
 +++
 title = "Gilroy, CA (910 Renz Lane)"
-draft = false
+storeNumber = ""
+startDate = "2005-01-01"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2005-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

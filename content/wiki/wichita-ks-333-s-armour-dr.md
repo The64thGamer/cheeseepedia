@@ -1,10 +1,20 @@
 +++
 title = "Wichita, KS (333 S Armour Dr)"
-draft = false
+storeNumber = ""
+startDate = "1981-11-25"
+endDate = "1985-09-04"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

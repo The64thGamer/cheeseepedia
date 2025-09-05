@@ -1,10 +1,20 @@
 +++
 title = "Wesley Chapel, FL (6170 Wesley Grove Blvd)"
-draft = false
+storeNumber = ""
+startDate = "2014-11-24"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++
