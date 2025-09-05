@@ -1,10 +1,20 @@
 +++
 title = "Queretaro Constituyentes, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2018-03-13"
+endDate = "2020-11-16"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2018-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

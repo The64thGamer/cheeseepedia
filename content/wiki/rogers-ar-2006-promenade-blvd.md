@@ -1,10 +1,20 @@
 +++
 title = "Rogers, AR (2006 Promenade Blvd)"
-draft = false
+storeNumber = ""
+startDate = "2007-12-17"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2007-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

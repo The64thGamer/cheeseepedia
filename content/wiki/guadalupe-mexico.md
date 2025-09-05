@@ -1,10 +1,20 @@
 +++
 title = "Guadalupe, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2022-05-25"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2022-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

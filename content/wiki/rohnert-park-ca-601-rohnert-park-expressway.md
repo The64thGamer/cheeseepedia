@@ -1,10 +1,20 @@
 +++
 title = "Rohnert Park, CA (601 Rohnert Park Expressway)"
-draft = false
+storeNumber = ""
+startDate = "1993-12-06"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1993-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Concord, CA (1611 Willow Pass Rd)"
-draft = false
+storeNumber = ""
+startDate = "2009-06-18"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2009-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

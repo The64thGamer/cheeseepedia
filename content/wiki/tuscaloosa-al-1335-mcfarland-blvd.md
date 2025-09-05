@@ -1,10 +1,20 @@
 +++
 title = "Tuscaloosa, AL (1335 McFarland Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1982-08-25"
+endDate = "1985-12-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

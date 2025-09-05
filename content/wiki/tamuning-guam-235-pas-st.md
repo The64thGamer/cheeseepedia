@@ -1,10 +1,20 @@
 +++
 title = "Tamuning, Guam (235 Pas St)"
-draft = false
+storeNumber = ""
+startDate = "2010-11-15"
+endDate = "2020-10-21"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2010-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

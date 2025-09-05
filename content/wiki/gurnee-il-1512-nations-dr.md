@@ -1,10 +1,20 @@
 +++
 title = "Gurnee, IL (1512 Nations Dr)"
-draft = false
+storeNumber = ""
+startDate = "2003-05-28"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2003-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Lubbock, TX (5612 West Loop 289)"
-draft = false
+storeNumber = ""
+startDate = "1998-12-07"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1998-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

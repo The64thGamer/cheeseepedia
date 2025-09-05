@@ -1,10 +1,20 @@
 +++
 title = "Portal Temuco, Chile"
-draft = false
+storeNumber = ""
+startDate = "2023-07-14"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2023-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

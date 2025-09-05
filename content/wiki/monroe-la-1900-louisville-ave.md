@@ -1,10 +1,20 @@
 +++
 title = "Monroe, LA (1900 Louisville Ave)"
-draft = false
+storeNumber = ""
+startDate = "1983-00-00"
+endDate = "1984-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

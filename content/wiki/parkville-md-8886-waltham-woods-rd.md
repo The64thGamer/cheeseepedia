@@ -1,10 +1,20 @@
 +++
 title = "Parkville, MD (8886 Waltham Woods Rd)"
-draft = false
+storeNumber = ""
+startDate = "2015-03-22"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2015-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

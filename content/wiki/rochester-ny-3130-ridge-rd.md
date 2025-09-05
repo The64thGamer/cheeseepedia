@@ -1,10 +1,20 @@
 +++
 title = "Rochester, NY (3130 Ridge Rd)"
-draft = false
+storeNumber = ""
+startDate = "2003-07-05"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2003-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

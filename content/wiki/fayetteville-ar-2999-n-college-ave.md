@@ -1,10 +1,20 @@
 +++
 title = "Fayetteville, AR (2999 N College Ave)"
-draft = false
+storeNumber = ""
+startDate = "2010-09-25"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2010-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Langley, British Columbia, Canada (6339 200th St)"
-draft = false
+storeNumber = ""
+startDate = "2003-09-24"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2003-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

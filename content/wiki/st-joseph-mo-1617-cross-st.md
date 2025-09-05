@@ -1,10 +1,20 @@
 +++
-title = "St. Joseph, MO (1617 Cross St)"
-draft = false
+title = "St. Joseph, MO (1607 N Belt Hwy)"
+storeNumber = ""
+startDate = "1984-09-18"
+endDate = "1986-12-31"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1984-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

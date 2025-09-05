@@ -1,10 +1,20 @@
 +++
 title = "Birmingham, AL (4647 Hwy 280)"
-draft = false
+storeNumber = ""
+startDate = "2013-02-11"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2013-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

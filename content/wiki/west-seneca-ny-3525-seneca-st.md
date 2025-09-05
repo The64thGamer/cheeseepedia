@@ -1,10 +1,20 @@
 +++
 title = "West Seneca, NY (3525 Seneca St)"
-draft = false
+storeNumber = ""
+startDate = "1983-04-01"
+endDate = "1988-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,20 @@
 +++
 title = "Bremerton, WA (4060 Wheaton Way)"
-draft = false
+storeNumber = ""
+startDate = "1983-09-12"
+endDate = "1986-08-03"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

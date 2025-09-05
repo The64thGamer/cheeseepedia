@@ -1,10 +1,20 @@
 +++
 title = "Lafayette, IN (100 S Creasy Lane)"
-draft = false
+storeNumber = ""
+startDate = "2006-08-20"
+endDate = "2020-10-27"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2006-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

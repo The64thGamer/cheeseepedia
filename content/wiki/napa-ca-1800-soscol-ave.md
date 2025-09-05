@@ -1,10 +1,20 @@
 +++
 title = "Napa, CA (1800 Soscol Ave)"
-draft = false
+storeNumber = ""
+startDate = "1981-09-04"
+endDate = "1985-06-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

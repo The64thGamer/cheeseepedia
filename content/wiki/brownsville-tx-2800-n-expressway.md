@@ -1,10 +1,20 @@
 +++
 title = "Brownsville, TX (2800 N Expressway)"
-draft = false
+storeNumber = ""
+startDate = "2000-07-17"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2000-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

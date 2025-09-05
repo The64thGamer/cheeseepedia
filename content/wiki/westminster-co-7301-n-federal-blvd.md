@@ -1,10 +1,20 @@
 +++
 title = "Westminster, CO (7301 N Federal Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1980-12-09"
+endDate = "1983-00-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1980-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

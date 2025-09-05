@@ -1,10 +1,20 @@
 +++
 title = "Salisbury, MD (2300 N Salisbury Blvd)"
-draft = false
+storeNumber = ""
+startDate = "2004-08-06"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2004-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

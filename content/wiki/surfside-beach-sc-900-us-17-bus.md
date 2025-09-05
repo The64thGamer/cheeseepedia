@@ -1,10 +1,20 @@
 +++
-title = "Surfside Beach, SC (900 US-17 BUS)"
-draft = false
+title = "Surfside Beach, SC (901 N Kings Hwy)"
+storeNumber = ""
+startDate = "1986-00-00"
+endDate = "1989-09-21"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1985-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

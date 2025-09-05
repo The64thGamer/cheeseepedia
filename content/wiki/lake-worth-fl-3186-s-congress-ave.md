@@ -1,10 +1,20 @@
 +++
 title = "Lake Worth, FL (3186 S Congress Ave)"
-draft = false
+storeNumber = ""
+startDate = "1982-07-00"
+endDate = "1984-02-19"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

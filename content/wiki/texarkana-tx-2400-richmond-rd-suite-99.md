@@ -1,10 +1,20 @@
 +++
 title = "Texarkana, TX (2400 Richmond Rd Suite 99)"
-draft = false
+storeNumber = ""
+startDate = "2004-07-14"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2004-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

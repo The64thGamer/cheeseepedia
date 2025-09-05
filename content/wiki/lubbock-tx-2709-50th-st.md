@@ -1,10 +1,20 @@
 +++
 title = "Lubbock, TX (2709 50th St)"
-draft = false
+storeNumber = ""
+startDate = "1982-09-29"
+endDate = "1985-12-00"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

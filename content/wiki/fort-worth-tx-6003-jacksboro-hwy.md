@@ -1,10 +1,20 @@
 +++
 title = "Fort Worth, TX (6003 Jacksboro Hwy)"
-draft = false
+storeNumber = ""
+startDate = "1981-12-00"
+endDate = "1984-07-25"
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = []
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++
