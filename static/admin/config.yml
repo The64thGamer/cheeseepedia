@@ -55,9 +55,36 @@ collections:
         field: {label: Credit, name: credit, widget: string}
       - { label: "Manufacturer", name: "manufacturer", widget: "string", required: false}
       - { label: "Units Produced", name: "unitsProduced", widget: "string", required: false}
-      - { label: "Wholesale Price", name: "wholesalePrice", widget: "string", required: false}
-      - { label: "Dimensions", name: "dimensions", widget: "string", required: false}
+      - { label: "Wholesale Price (For merch articles)", name: "wholesalePrice", widget: "string", required: false}
+      - { label: "Dimensions (For articles about objects)", name: "dimensions", widget: "string", required: false}
       - { label: "Store #", name: "storeNumber", widget: "string", required: false}
+      - { label: "Concept Unification Date (Formatted 2024-12-31, ignore if unknown or doesnt apply)", name: "cuDate", widget: "string", required: false}
+      - { label: "Store Square Feet (Example: 4,000)", name: "sqft", widget: "string", required: false}
+      - label: "Arcades & Attractions (Name|StartDate|EndDate) (Pac-Man|1982-05-00|1994-01-00)"
+        name: "attractions"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
+      - label: "Animatronics (For store articles) (Page Title|StartDate|EndDate|Serial|CurrentStatus) (Billy Bob (Animatronic)|1984-12-31|1991-03-12|4-81 1-8|Dismantled during cleanout)"
+        name: "animatronics"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
+      - label: "Franchisees (For store articles) (Name|StartDate|EndDate) (Edwin Murray's|1973-12-31|1977-12-31)"
+        name: "franchisees"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
+      - label: "Remodels (For store articles) (Page Title|startDate) (SPT 1980's Remodel Program|1989-00-00)"
+        name: "remodels"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
+      - label: "Stages (For store articles) (Page Title|startDate|endDate) (Classic Stage|1981-11-11|1991-05-02)"
+        name: "stages"
+        widget: "list"
+        required: false
+        field: {label: Segment, name: segment, widget: string}
       - { label: "Media Duration / Length", name: "mediaDuration", widget: "string", required: false}
       - label: "Showtape Formats"
         name: "showtapeFormats"
