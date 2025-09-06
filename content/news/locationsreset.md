@@ -18,4 +18,4 @@ In the best case scenario, the majority of important information should be direc
 
 ## Other New Stuff
 
-Additionally, some small fixes to the site have been committed. A new 'Loading. . .' text appears when waiting for article lists to load (I know some users got confused seeing a blank list for a few seconds). Some css changes on location pages have also been made. Infoboxes also now don't require an image to display properly.
+Additionally, some small fixes to the site have been committed. A new 'Loading. . .' text appears when waiting for article lists to load (I know some users got confused seeing a blank list for a few seconds). Some css changes on location pages have also been made. Infoboxes also now don't require an image to display properly. The parameterization of the locations articles will also let us in the future (whenever anyone gets around to it) generate tables or charts on arcade/remodel/stage pages to list where they were located or the trend of how long each lasted.
