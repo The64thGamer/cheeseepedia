@@ -82,7 +82,7 @@
             {{- $parts := split . "|" -}}
             {{- $name := index $parts 0 -}}
             {{- $date := index $parts 1 -}}
-            <li>{{ partial "wiki-link.html" (dict "name" $name "context" .) }} ({{ partial "date-to-readable-date.html" $date }})</li>
+            <li>{{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{ partial "date-to-readable-date.html" $date }})</li>
           {{- end }}
         </ul>
       </div>
@@ -98,7 +98,7 @@
             {{- $start := index $parts 1 -}}
             {{- $end := index $parts 2 -}}
             <li>
-              {{ partial "wiki-link.html" (dict "name" $name "context" .) }}
+              {{ partial "wiki-link.html" (dict "name" $name "context" $) }}
               ({{ partial "date-to-readable-date.html" $start }} –
               {{ if $end }}{{ partial "date-to-readable-date.html" $end }}{{ else }}Present{{ end }})
             </li>
