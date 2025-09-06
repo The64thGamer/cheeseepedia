@@ -29,146 +29,100 @@ collections:
     editor:
       preview: false
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
-
-      - label: "Start Date"
-        name: "startDate"
-        widget: "string"
-        hint: "Enter as YYYY-MM-DD; Replace year, month, and/or day with 0s if unknown."
-
-      - label: "End Date"
-        name: "endDate"
-        widget: "string"
-        hint: "Enter as YYYY-MM-DD; leave blank if not ended. Replace year, month, and/or day with 0s if unknown."
-
-      - label: "Thumbnail"
-        name: "pageThumbnailFile"
-        widget: "string"
-        hint: "Name of photo file (example.avif)."
-
-      - label: "Contributors"
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Start Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startDate", widget: "string", required: false}
+      - { label: "End Date (Leave blank if not ended, set to 0000-00-00 if Unknown)", name: "endDate", widget: "string", required: false}
+      - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
+      - label: "Contributors (List your Username here!)"
         name: "contributors"
         widget: "list"
         required: true
         min: 1
         max: 1000
         field: {label: Username, name: username, widget: string}
-        hint: "Add your username to this list!"
-
-      - label: "Citations"
+      - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
         required: true
         min: 1
         max: 1000
-        hint: "Add any citations or footnotes to this list! Accepts either URLs or text."
         field: {label: Source, name: source, widget: string}
-
       - label: "Credits"
         name: "credits"
         widget: "list"
+        required: false
         field: {label: Credit, name: credit, widget: string}
-
-      - label: "Manufacturer"
-        name: "manufacturer"
-        widget: "string"
-
-      - label: "Units Produced"
-        name: "unitsProduced"
-        widget: "string"
-
-      - label: "Wholesale Price (For merch articles)"
-        name: "wholesalePrice"
-        widget: "string"
-
-      - label: "Dimensions (For articles about objects)"
-        name: "dimensions"
-        widget: "string"
-
-      - label: "Store #"
-        name: "storeNumber"
-        widget: "string"
-
-      - label: "Concept Unification Date (Formatted 2024-12-31, ignore if unknown or doesnt apply)"
-        name: "cuDate"
-        widget: "string"
-
-      - label: "Store Square Feet (Example: 4,000)"
-        name: "sqft"
-        widget: "string"
-
+      - { label: "Manufacturer", name: "manufacturer", widget: "string", required: false}
+      - { label: "Units Produced", name: "unitsProduced", widget: "string", required: false}
+      - { label: "Wholesale Price (For merch articles)", name: "wholesalePrice", widget: "string", required: false}
+      - { label: "Dimensions (For articles about objects)", name: "dimensions", widget: "string", required: false}
+      - { label: "Store #", name: "storeNumber", widget: "string", required: false}
+      - { label: "Concept Unification Date (Formatted 2024-12-31, ignore if unknown or doesnt apply)", name: "cuDate", widget: "string", required: false}
+      - { label: "Store Square Feet (Example: 4,000)", name: "sqft", widget: "string", required: false}
       - label: "Arcades & Attractions (Name|StartDate|EndDate) (Pac-Man|1982-05-00|1994-01-00)"
         name: "attractions"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
       - label: "Animatronics (For store articles) (Page Title|StartDate|EndDate|Serial|CurrentStatus) (Billy Bob (Animatronic)|1984-12-31|1991-03-12|4-81 1-8|Dismantled during cleanout)"
         name: "animatronics"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
       - label: "Franchisees (For store articles) (Name|StartDate|EndDate) (Edwin Murray's|1973-12-31|1977-12-31)"
         name: "franchisees"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
       - label: "Remodels (For store articles) (Page Title|startDate) (SPT 1980's Remodel Program|1989-00-00)"
         name: "remodels"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
       - label: "Stages (For store articles) (Page Title|startDate|endDate) (Classic Stage|1981-11-11|1991-05-02)"
         name: "stages"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
-      - label: "Media Duration / Length"
-        name: "mediaDuration"
-        widget: "string"
-
+      - { label: "Media Duration / Length", name: "mediaDuration", widget: "string", required: false}
       - label: "Showtape Formats"
         name: "showtapeFormats"
         widget: "list"
+        required: false
         field: {label: Format, name: format, widget: string}
-
       - label: "Download Links (example.org|Description)"
         name: "downloadLinks"
         widget: "list"
+        required: false
         field: {label: Link | Desc, name: link, widget: string}
-
       - label: "Prices (Price|Date) ($4.99|1983-12-31)"
         name: "prices"
         widget: "list"
+        required: false
         field: {label: Price | Desc, name: price, widget: string}
-
       - label: "Market Sales (Price|Date|citationLink) ($4.99|2025-12-31|https://web.archive.org/ebay.com)"
         name: "sales"
         widget: "list"
+        required: false
         field: {label: Sale | Desc, name: sale, widget: string}
-
       - label: "Transcriptions (List Transcription Article Titles)"
         name: "transcriptions"
         widget: "list"
+        required: false
         field: {label: Segment, name: segment, widget: string}
-
       - label: "Also Known As"
         name: "alsoKnownAs"
         widget: "list"
+        required: false
         field: {label: AKA, name: aka, widget: string}
-
       - label: "Latitude, Longitude"
         name: "latitudeLongitude"
         min: 0
         max: 2
         widget: "list"
+        required: false
         field: {label: LatLong, name: latlong, widget: string}
-        
       - label: "Tags"
         name: "tags"
         widget: "select"
@@ -218,7 +172,6 @@ collections:
           - { label: "Events", value: "Events" }
           - { label: "Social Media and Websites", value: "Social Media and Websites" }
           - { label: "Characters", value: "Characters" }
-
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -279,6 +232,7 @@ collections:
         max: 1000
         field: {label: Username, name: username, widget: string}
 
+
   - name: "users" # Used in routes, e.g., /admin/collections/blog
     label: "Users" # Used in the UI
     folder: "content/users/" # The path to the folder where the documents are stored
@@ -293,6 +247,7 @@ collections:
       - { label: "Username", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
       - {label: "Tags", name: "tags", widget: "hidden", default: ["User"]}
+
 
   - name: "meta" # Used in routes, e.g., /admin/collections/blog
     label: "Meta Page" # Used in the UI
@@ -446,7 +401,6 @@ collections:
           - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
           - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
           - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
-
   - name: "reviews"
     label: "Reviews"
     folder: "content/reviews/"
