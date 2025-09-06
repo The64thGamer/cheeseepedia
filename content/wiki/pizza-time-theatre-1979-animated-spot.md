@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1979-00-00"
 contributors = ["The 64th Gamer"]
-citations = [""]
+citations = ["https://archive.org/details/pizza-time-theatre-1979-cel-images/"]
 +++
 The ***Pizza Time Theatre 1979 Animated Spot* is an unnamed 1979 commercial featuring an animated Chuck E. Cheese, Pasqually, and a kid.
 
