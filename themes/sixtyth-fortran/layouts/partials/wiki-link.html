@@ -1,12 +1,24 @@
-{{- $lookup := index .Params 0 -}}
-{{- $secondary := index .Params 1 -}}
-{{- $title := $lookup }}
-{{- if $secondary -}}
-{{- $title = $secondary -}}
+{{- $lookup := "" -}}
+{{- $title := "" -}}
+
+{{- if reflect.IsString . -}}
+  {{- $lookup = . -}}
+  {{- $title = . -}}
+{{- else if reflect.IsSlice . -}}
+  {{- $lookup = index . 0 -}}
+  {{- if ge (len .) 2 -}}
+    {{- $title = index . 1 -}}
+  {{- else -}}
+    {{- $title = $lookup -}}
+  {{- end -}}
+{{- else -}}
+  {{- $lookup = .Title -}}
+  {{- $title = .Title -}}
 {{- end -}}
-{{- $articles := where .Site.RegularPages "Title" $lookup }}
+
+{{- $articles := where .Site.RegularPages "Title" $lookup -}}
 {{- if gt (len $articles) 0 -}} 
-<a href="{{- (index $articles 0).RelPermalink -}}">{{- $title -}}</a>
+  <a href="{{ (index $articles 0).RelPermalink }}">{{ $title }}</a>
 {{- else -}} 
-<a href="#" class="linkerror">{{- $lookup -}}</a>
+  <a href="#" class="linkerror">{{ $lookup }}</a>
 {{- end -}}
