@@ -10,3 +10,8 @@
   {{- $json := $pages | jsonify -}}
   {{- $noop := (resources.FromString "/site.json" $json).Permalink -}}
 {{- end -}}
+
+{{ if .IsHome }}
+  {{ $j := jsonify (dict "last-build" (now.Format "2006-01-02 15:04:05")) }}
+  {{ $noop := (resources.FromString "/lastbuild.json" $j).Permalink }}
+{{ end }}
