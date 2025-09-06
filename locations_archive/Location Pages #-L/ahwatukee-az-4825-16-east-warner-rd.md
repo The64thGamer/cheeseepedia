@@ -6,7 +6,7 @@ endDate = "2015-10-23"
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
 citations = ["https://malls.fandom.com/wiki/Chuck_E._Cheese/Locations#Arizona", "https://www.yelp.com/biz/chuck-e-cheeses-pizza-phoenix"]
-latitudeLongitude = []
+latitudeLongitude = ["0","0"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
