@@ -1,16 +1,17 @@
 +++
-title = "CEC Legacy Locations Move To 3-Stage Programming, Local Showtape Ads Now Appearing"
-startdate = "2025-03-21"
-pageThumbnailFile = "98uh239uioj293o4tihj.avif"
+title = "The Location Articles Reset"
+startdate = "2025-09-06"
+pageThumbnailFile = "_sMURLza57nz74DlEu7w.avif"
 contributors = ["The 64th Gamer"]
-citations = ["Correspondance with Hicksville's tech & other employees."]
 tags = ["Animatronic News"]
 categories = ["Chuck E. Cheese's"]
 +++
-On March 21, 2025, all Cyberamic {{< wiki-link "CEC Legacy Locations" >}}, which include {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}, and {{< wiki-link "Mississauga, Ontario, Canada (4141 Dixie Rd)" >}} will now be using 3-Stage signals.
+Important news! All articles tagged under 'Locations' have had their main article and citations reset. This is due to a majority of them not living up to the current standards of the wiki. Most of these were sped through by one person, who didn't leave many citations. Location articles also leave a lot copy-pasted, which have made them rigid to any wiki standards changes.
 
-This began with {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, which actually began testing the signals in September of 2024. Each of the stores have now recieved a new EPROM chip to convert 3-Stage signals to Cyberamic signals, which are not in the exact same configuration as the {{< wiki-link "CEC-Stage Rosetta" >}} had them. Currently noted are that eyelids, head ups, and Munch/Pasqually arms have inverted movements- meaning eyes are closed when they're supposed to be open. This is due to how movements are designed differently between stages. Northridge's tests did not include this bug except for the head-ups being inverted. The {{< wiki-link "Navori System" >}} now just has a single playlist for both types of legacy stores, which also forces the Cyberamic stages to use the 3-Stage diagnostics, which can be unhelpful with the miriad of unused or reformatted movements.
+Don't worry though! We know there are still lots of location articles that do meet wiki standards. These can be resubmitted manually for moderators to fully approve, alongside making changes to them which will be discussed further below. If you need to access an old location article for reading or for resubmitting, you can [view all of them here.](https://github.com/the64thgamer/cheeseepedia/tree/main/locations_archive) Current pages also still have in-tact all their parameters, galleries, videos, ect.. Many of these were also updated before the wipe, as we pulled all of them into a spreadsheet to mass-edit things like opening dates.
 
-Last week all legacy stores were told to disable their random movements in the settings, reasoned to 'prevent maintenance'. This EPROM chip now disables that directly from startup, though it can still be manually toggled on. Another issue is that the settings also accidentally turned on the red and blue floods by default on startup, which keep them on until disabled. 3-Stage stores also recieved a similar EPROM chip on March 11th that auto-disabled random movements.
+## What's Changed?
 
-On top of all this, all stores will now have their ads in-between showtape segments set to region-specific ads- something planned since the very rollout of Navori. This began rollout sometime in early March. It is currently unknown how many regions there are, or what stores inhabit which region. It was also rumored during the 2022 roll-out that local area ads would play, though it is unknown if this has taken effect.
+First take a look at {{< wiki-link "Cincinnati, OH (8801 Colerain Ave)" >}} as the guide to this new locations formatting. Note how most info is now displayed right inside the infobox, rather than spread throughout the article. Information such as arcades, animatronics, stages, remodels, franchisees, ect., are now parameters to use. Some of these parameters display in the infobox, while things such as arcades and animatronics, which could be a bit more lengthy, are automatically put inside the article.
+
+In the best case scenario, the majority of important information should be directly in these parameters. The actual article should mainly consist of its short 1 sentence intro, and then a 'History' section that can go into more depth. This history section also shouldn't just be 'Opened, got this stage, got this stage, got this remodel, died'. This should be used to discuss special events the store took part in, whether any of its remodels/stages used early prototype or novel features, times the location made it in the news, condition of its stages over time, etc. Separating the copy-paste generic info and the in-depth unique history is important to making these articles easier to ingest.
