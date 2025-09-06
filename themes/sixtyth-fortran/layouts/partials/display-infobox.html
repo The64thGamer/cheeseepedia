@@ -1,5 +1,6 @@
 
-  <div class="article-infobox">
+{{- if and .Params.tags (not (in .Params.tags "Meta")) -}}
+ <div class="article-infobox">
       <div class="article-thumbnail">
         {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
       </div>
@@ -97,3 +98,4 @@
       </div>
     {{- end -}}
   </div>
+{{- end -}}
