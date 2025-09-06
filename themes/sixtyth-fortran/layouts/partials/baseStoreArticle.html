@@ -56,7 +56,7 @@
           {{- $serial := index $parts 3 -}}
           {{- $status := index $parts 4 -}}
           <tr>
-            <td>{{ partial "wiki-link.html" $name }}</td>
+            <td>{{ partial "wiki-link.html" (dict "name" $name "context" .) }}</td>
             <td>{{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }}</td>
             <td>{{ $serial }}</td>
             <td>{{ $status }}</td>
@@ -74,7 +74,7 @@
         {{- $start := index $parts 1 -}}
         {{- $end := index $parts 2 -}}
         <li>
-          {{ partial "wiki-link.html" $name }} ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
+          {{ partial "wiki-link.html" (dict "name" $name "context" .) }} ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
         </li>
       {{- end }}
     </ul>
