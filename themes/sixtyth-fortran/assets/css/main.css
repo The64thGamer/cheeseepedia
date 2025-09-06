@@ -507,6 +507,28 @@ background-color: var(--aqua);
   padding: 1em;
   max-width: 20.5em;
   min-width: 20.5em;
+  margin-top: -1.5em;
+  margin-right: -4.5em;
+}
+
+.article-infobox-location{
+  float: right;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  color: var(--brown);
+  background-color: var(--yellow);
+  border: solid;
+  border-radius: 1em;
+  border-width: 0.5em;
+  border-top-width: 0em;
+  border-right-width: 0em;
+  border-bottom-right-radius: 0em;
+  border-top-left-radius: 0em;
+  border-top-right-radius: 0em;
+  border-color: var(--brown);
+  padding: 1em;
+  max-width: 20.5em;
+  min-width: 20.5em;
   margin-top: -4.5em;
   margin-right: -4.5em;
 }

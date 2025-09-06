@@ -20,7 +20,8 @@
 </div>
 
 {{- $categories := .Site.Taxonomies.categories -}}
-<div id="tagsContainer">
+<div id="loadingText" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="tagsContainer" style="visibility:hidden;">
   {{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
       {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
