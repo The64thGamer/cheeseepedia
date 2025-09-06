@@ -1,5 +1,4 @@
 
-{{- if .Params.pageThumbnailFile -}}
   <div class="article-infobox-location">
     {{- if or (.Params.startDate) (.Params.endDate) -}}
     <b>{{- "Operated: " -}}</b>{{- partial "display-date-ranges.html" . -}}<br>
@@ -128,4 +127,3 @@
     {{- end }}
 
   </div>
-{{- end -}}
