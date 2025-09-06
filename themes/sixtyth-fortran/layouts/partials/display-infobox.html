@@ -1,9 +1,11 @@
 
 {{- if and .Params.tags (not (in .Params.tags "Meta")) -}}
  <div class="article-infobox">
+    {{- if .Params.pageThumbnailFile -}}
       <div class="article-thumbnail">
-        {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+          {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
       </div>
+    {{- end -}}
     {{- if or (.Params.startDate) (.Params.endDate) -}}
     <b>{{- "Release: " -}}</b>{{- partial "display-date-ranges.html" . -}}
     {{- end -}}
