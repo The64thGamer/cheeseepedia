@@ -1,0 +1,10 @@
++++
+title = "Soccer_Chuck_poster.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = []
+description = ""
+citations = []
++++

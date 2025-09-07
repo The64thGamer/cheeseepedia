@@ -12,7 +12,7 @@
   "Animatronic Control Systems")
   "Documents" (slice "Promotional Material" "Documents" "Corporate Documents")
   "Media" (slice "Photos" "Videos" "News Footage" "Commercials" "Company Media")
-  "History" (slice "History" "Events" "Characters" "Social Media and Websites")
+  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Restaurants/FECs")
   -}}
 
 <div class="category-tags" id="category-all" style="display: block;">
@@ -20,7 +20,8 @@
 </div>
 
 {{- $categories := .Site.Taxonomies.categories -}}
-<div id="tagsContainer">
+<div id="loadingText" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="tagsContainer" style="visibility:hidden;">
   {{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
       {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
@@ -114,6 +115,9 @@
       MOVIE.value = MOVIELoadValue;
     }
     showCategoryTags();
+
+    document.getElementById("loadingText").style.visibility = "hidden";
+    document.getElementById("tagsContainer").style.visibility = "visible";
   }
 
   function showCategoryTags(check) {
@@ -187,5 +191,8 @@
     if (selectedDiv) {
       selectedDiv.style.display = "block";
     }
+
+    document.getElementById("loadingText").style.visibility = "hidden";
+    document.getElementById("tagsContainer").style.visibility = "visible";
   }
 </script>

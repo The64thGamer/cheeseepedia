@@ -31,11 +31,54 @@
 <div id="section-article" class="article-section">
   {{- if .Params.pageThumbnailFile -}}
     <div class="article-store-thumbnail">
-      {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+      {{- partial "filename-to-photo-no-css-no-desc.html" .Params.pageThumbnailFile -}}
     </div>
   {{- end -}}
   {{- partial "display-infobox-location.html" . -}}
   {{- .Content | safeHTML -}}
+  {{- with .Params.animatronics }}
+    <h2>Animatronics</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Character</th>
+          <th>Operation</th>
+          <th>Serial</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range . }}
+          {{- $parts := split . "|" -}}
+          {{- $name := index $parts 0 -}}
+          {{- $start := index $parts 1 -}} 
+          {{- $end := index $parts 2 -}} 
+          {{- $serial := index $parts 3 -}}
+          {{- $status := index $parts 4 -}}
+          <tr>
+            <td>{{ partial "wiki-link.html" (dict "name" $name "context" $) }}</td>
+            <td>{{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }}</td>
+            <td>{{ $serial }}</td>
+            <td>{{ $status }}</td>
+          </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  {{- end }}
+  {{- with .Params.attractions }}
+    <h2>Attractions</h2>
+    <ul>
+      {{- range . }}
+        {{- $parts := split . "|" -}}
+        {{- $name := index $parts 0 -}}
+        {{- $start := index $parts 1 -}}
+        {{- $end := index $parts 2 -}}
+        <li>
+          {{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
+        </li>
+      {{- end }}
+    </ul>
+  {{- end }}
 </div>
 {{- if ne $gallery "" -}}
   <div id="section-gallery" class="article-section">

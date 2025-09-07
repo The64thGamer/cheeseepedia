@@ -27,7 +27,9 @@
 <h2>I contributed to these pages!</h2>
 <div class="tri-column">
   <ul>
-    {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+    {{- $wikiPages := partialCached "grab-all-wiki-articles.html" . -}}
+    {{- $transcriptionPages := where .Site.RegularPages "Section" "transcriptions" -}}
+    {{- $pages := union $wikiPages $transcriptionPages -}}
     {{- range $pages -}}
       {{- $page := . -}} <!-- Store the current page object in a variable -->
       {{- with $page.Params.contributors -}}

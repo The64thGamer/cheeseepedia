@@ -1,0 +1,12 @@
++++
+title = "Toy Freddy (Animatronic)"
+draft = false
+tags = ["Animatronics"]
+categories = ["Jim Henson's Creature Shop","Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
+pageThumbnailFile = "08ergojehn4goiu34.avif"
+startDate = "2024-00-00"
+endDate = ""
+contributors = ["The 64th Gamer"]
+manufacturer = "Jim Henson's Creature Shop"
+unitsProduced = "1"
++++

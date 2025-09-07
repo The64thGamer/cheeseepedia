@@ -8,12 +8,13 @@
   "Animatronic Control Systems")
   "Documents" (slice "Promotional Material" "Documents" "Corporate Documents")
   "Media" (slice "Photos" "Videos" "News Footage" "Commercials" "Company Media")
-  "History" (slice "History" "Events" "Characters" "Social Media and Websites")
+  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Restaurants/FECs")
   -}}
 
 
 {{- $pages := .Site.RegularPages -}}
-<div id="tagsContainer">
+<div id="loadingText" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="tagsContainer" style="visibility:hidden;">
   {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
   {{- range $pages -}}
   {{- $currentPage := . -}}

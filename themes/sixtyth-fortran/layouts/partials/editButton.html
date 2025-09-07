@@ -1,7 +1,7 @@
 {{- if .Page.File -}}
     {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/collections/" -}}
     {{- $parentFolder := path.Base (path.Dir .Page.File.Path) -}} <!-- Get the parent folder name -->
-    {{- $entryName := replace .Page.File.BaseFileName ".html" "" -}} <!-- Extract slug by removing .html extension -->
+    {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .html extension -->
     {{- $pageTitle := .Page.Title -}} <!-- Get the page title -->
 
     <select class="button-dropdown" onchange="navigateTo(this.value)">

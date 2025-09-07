@@ -1,0 +1,8 @@
+{{- if .IsHome -}}
+  {{- $csvContent := "title,webpath,filename,url" -}}
+  {{- range .Site.RegularPages -}}
+    {{- $csvLine := printf "\n\"%s\",\"%s\",\"%s\",\"%s\"" .Title .Path .File.LogicalName .Permalink -}}
+    {{- $csvContent = printf "%s%s" $csvContent $csvLine -}}
+  {{- end -}}
+  {{- $noop := (resources.FromString "/site.csv" $csvContent).Permalink -}} 
+{{- end -}}

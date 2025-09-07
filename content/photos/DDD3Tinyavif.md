@@ -1,0 +1,10 @@
++++
+title = "DDD3Tiny.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = []
+description = ""
+citations = []
++++

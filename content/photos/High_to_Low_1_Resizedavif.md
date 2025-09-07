@@ -1,0 +1,10 @@
++++
+title = "High_to_Low_1_Resized.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = []
+description = ""
+citations = []
++++

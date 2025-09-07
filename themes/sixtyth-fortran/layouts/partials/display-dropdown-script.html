@@ -23,7 +23,9 @@
           MOVIE.value = MOVIELoadValue;
         }
         showCategoryTags();
-  
+        
+        document.getElementById("loadingText").style.visibility = "hidden";
+        document.getElementById("tagsContainer").style.visibility = "visible";
     }
   
     function showCategoryTags(check) {

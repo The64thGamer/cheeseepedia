@@ -1,8 +1,7 @@
 
-{{- if .Params.pageThumbnailFile -}}
-  <div class="article-infobox">
+  <div class="article-infobox-location">
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <br><b>{{- "Opening: " -}}</b>{{- partial "display-date-ranges.html" . -}}
+    <b>{{- "Operated: " -}}</b>{{- partial "display-date-ranges.html" . -}}<br>
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 
@@ -48,30 +47,83 @@
     {{- end -}}
 
     {{- if .Params.storeNumber -}}
-    <br><b>{{- "Store #: " -}}</b>{{- .Params.storeNumber -}}
+      <b>Store #: </b>{{ .Params.storeNumber }}<br>
     {{- end -}}
 
-    {{- if .Params.latitudeLongitude -}}
-      <br><b>{{- "Latitude Longitude: " -}}</b>
-      {{- range $index := .Params.latitudeLongitude -}}
-          {{- if ge $index 0 }}, {{ end -}}{{ $index }}
-      {{- end -}}
+    {{- if .Params.sqft -}}
+      <b>Floorspace: </b>{{ .Params.sqft }} (sqft)<br>
+    {{- end -}}
+
+    {{- with .Params.latitudeLongitude -}}
+      <b>Latitude Longitude:</b> {{ index . 0 }}, {{ index . 1 }}<br>
     {{- end -}}
 
     {{- if .Params.downloadLinks -}}
       <div class="article-infobox-linkbox">
-        <b>{{- "Downloads: " -}}</b>
+        <b>Downloads: </b>
         <ul>
           {{- range .Params.downloadLinks -}}
             {{- $downloadParts := split . "|" -}}
             {{- if ge (len $downloadParts) 2 -}}
-              <li><a href="{{- (index $downloadParts 0) -}}">{{- (index $downloadParts 1) -}}</a></li>
+              <li><a href="{{ index $downloadParts 0 }}">{{ index $downloadParts 1 }}</a></li>
             {{- else -}}
-              <li><a href="{{- . -}}">{{- . -}}</a></li>
+              <li><a href="{{ . }}">{{ . }}</a></li>
             {{- end -}}
           {{- end -}}
         </ul>
       </div>
     {{- end -}}
+
+    {{- with .Params.remodels }}
+      <div class="article-infobox-linkbox">
+        <b>Remodels: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $date := index $parts 1 -}}
+            <li>{{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{ partial "date-to-readable-date.html" $date }})</li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.stages }}
+      <div class="article-infobox-linkbox">
+        <b>Stages: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            <li>
+              {{ partial "wiki-link.html" (dict "name" $name "context" $) }}
+              ({{ partial "date-to-readable-date.html" $start }} –
+              {{ if $end }}{{ partial "date-to-readable-date.html" $end }}{{ else }}Present{{ end }})
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.franchisees }}
+      <div class="article-infobox-linkbox">
+        <b>Franchisees: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            <li>
+              {{ $name }}
+              ({{ partial "date-to-readable-date.html" $start }} –
+              {{ if $end }}{{ partial "date-to-readable-date.html" $end }}{{ else }}Present{{ end }})
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
   </div>
-{{- end -}}
