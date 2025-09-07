@@ -4,16 +4,49 @@ storeNumber = "738"
 startDate = "1981-10-21"
 endDate = ""
 cuDate = ""
-remodels = ["SPT 1990's Remodel Program|1992-09-08","CEC 2000's Remodel Program|2005-00-00","CEC 2.0 Remodel Program
-|2019-12-12"]
+remodels = ["SPT 1990's Remodel Program|1992-09-08","CEC 2000's Remodel Program|2005-00-00","CEC 2.0 Remodel Program|2019-12-12"]
 stages = ["classic stage|1981-10-21|1984-01-08","2-Stage|1992-09-08|2019-10-30","Chuck E. Live Stage (Dance Floor)|2019-10-30|2024-08-12","Chuck E. Live Stage (Dance Floor)|2024-08-12)| "]
 franchisees = []
 attractions = []
 animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-10-21|1984-01-08|4-81 1-5|Sent to Miami, FL (19191 S Dixie Hwy)","Dook Larue (Animatronic)|1981-10-21|1984-01-08|4-81 2-5|Sent to Miami, FL (19191 S Dixie Hwy)","Fatz Geronimo (Animatronic)|1981-10-21|1984-01-08|4-81 3-5|Sent to Miami, FL (19191 S Dixie Hwy)","Beach Bear (Animatronic)|1981-10-21|1984-01-08|4-81 4-5|Sent to Miami, FL (19191 S Dixie Hwy)","Mitzi Mozzarella (Animatronic)|1981-10-21|1984-01-08|4-81 5-5|Sent to Miami, FL (19191 S Dixie Hwy)","Billy Bob (Animatronic)|1981-10-21|1984-01-08|4-81 6-5|Sent to Miami, FL (19191 S Dixie Hwy)","Looney Bird (Animatronic)|1981-10-21|1984-01-08|4-81 7-5|Sent to Miami, FL (19191 S Dixie Hwy)","Choo Choo (Animatronic)|1981-10-21|1984-01-08|4-81 8-5|Sent to Miami, FL (19191 S Dixie Hwy)","Sun (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Moon (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Antioch (Animatronic)|1981-10-21|1984-01-08|N/A|Sent to Miami, FL (19191 S Dixie Hwy)","Uncle Klunk (Animatronic)|1981-10-21|1984-01-08|N/A|Unknown","Chuck E Cheese (Cyberamic)|1992-09-9|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Guest Star / Helen Henny (Cyberamic)|1992-09-9|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Mr. Munch (Cyberamic)|1992-09-9|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Jasper T. Jowls (Cyberamic)|1992-09-9|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Pasqually (Cyberamic)|1992-09-9|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts"]
 sqft = "10,406"
 latitudeLongitude = ["39.28390862", "-84.44942663"]
-citations = ["<a href=\"https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-post/121527379/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-open/180547982/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-uncle-klunk-cin/180548476/</a>","<a href=\"Internal Creative Engineering, INC document</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-post-sneakers-open/180492612/</a>","<a href=\"https://www.newspapers.com/image/102188782/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-sneakers-closed/180492255/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-cec/180492183/</a>","<a href=\"https://youtu.be/KEQlkbmODjk</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-informational-op/180550189/</a>","<a href=\"https://www.youtube.com/watch?v=-HIw6Vg6iNU</a>","<a href=\"https://www.youtube.com/watch?v=AqJdMVXj6hU</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"https://www.instagram.com/p/B4tVIm3H6ef/</a>","<a href=\"https://www.flickr.com/photos/29597274@N00/70469644/</a>","<a href=\"https://cheeseepedia.org/photos/rblmt-wywjbsvsjqyq8pavif/</a>","<a href=\"https://www.youtube.com/watch?v=P6wpycBNJKk</a>","<a href=\"https://www.youtube.com/watch?v=P7UI9Qe38vI</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"https://www.instagram.com/p/7ZEItQIc6b/</a>","<a href=\"Cincinnati CEC Location updated all at once. Experienced Personally</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"https://www.youtube.com/watch?v=XrManuWkJmA</a>","<a href=\"Informed via CEC Employee in 2018</a>","<a href=\"Informed via CEC Employee in 2018</a>","<a href=\"Personally Experienced</a>","<a href=\"https://www.youtube.com/watch?v=eRjHjw41hfE</a>","<a href=\"Informed via CEC Employee in 2020</a>","<a href=\"Disappears from store photos in 2022</a>","<a href=\"https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/</a>","<a href=\"Internal CEC Document</a>"]
-contributors = [Documentor]
+citations = [
+  "https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf",
+  "https://www.newspapers.com/article/the-cincinnati-post/121527379/",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-open/180547982/",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-uncle-klunk-cin/180548476/",
+  "Internal Creative Engineering, INC document",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "https://www.newspapers.com/article/the-cincinnati-post-sneakers-open/180492612/",
+  "https://www.newspapers.com/image/102188782/",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-sneakers-closed/180492255/",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-cec/180492183/",
+  "https://youtu.be/KEQlkbmODjk",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-informational-op/180550189/",
+  "https://www.youtube.com/watch?v=-HIw6Vg6iNU","https://www.youtube.com/watch?v=AqJdMVXj6hU",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "https://www.instagram.com/p/B4tVIm3H6ef/",
+  "https://www.flickr.com/photos/29597274@N00/70469644/",
+  "https://cheeseepedia.org/photos/rblmt-wywjbsvsjqyq8pavif/",
+  "https://www.youtube.com/watch?v=P6wpycBNJKk",
+  "https://www.youtube.com/watch?v=P7UI9Qe38vI",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "https://www.instagram.com/p/7ZEItQIc6b/",
+  "Cincinnati CEC Location updated all at once. Experienced Personally",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "https://www.youtube.com/watch?v=XrManuWkJmA",
+  "Informed via CEC Employee in 2018",
+  "Informed via CEC Employee in 2018",
+  "Personally Experienced",
+  "https://www.youtube.com/watch?v=eRjHjw41hfE",
+  "Informed via CEC Employee in 2020",
+  "Disappears from store photos in 2022",
+  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
+  "Internal CEC Document"
+]
+contributors = ["Documentor"]
 downloadLinks = []
 pageThumbnailFile = "upE3LhWSE4QOo0VURKcd.avif"
 tags = ["Locations"]
@@ -33,9 +66,8 @@ In 1985, a nightclub named Sneaker's (also known as Sneaker's Nite Club) opened 
 The property would sit vacant until January 1991 when the property would be put up for sale being advertised as **'**TRI-COUNTY 1429 E. Kemper, formerly Sneakers Nite Club, 10,000+ S.F. on 1.66 acres, F.F. & E. included Excellent retail opportunity in heart of Tri-County'.{{< cite 10 >}} later that year in August 1991 'ShowBiz Pizza Time, Inc' would purchase the property for $675,000{{< cite 11 >}}
 ﻿
 **1990's**
-On September 8, 1992, the Sharonville, OH, Chuck E. Cheese's Pizza would open. The store was one of the first to receive {{< wiki-link "SPT 1990's Remodel Program" >}}. The store also featured the {{< wiki-link "2-Stage" >}}. It would retain the layout of the ShowBiz Pizza Place, with minor changes done by Sneakers of Cincinnati, such as installing a walkway into the kitchen on the left of what was originally the Salad Bar. This would mean the Food Tray would be installed in the kitchen instead of out front for guest access.  {{< cite 12 >}}. On November 23rd, 1993 (10 am-7 pm), an 'Informational Open House' was held by 'Chuck E. Cheese's/ShowBiz' to tell restaurant management the facts about their growth in 1993 and their 'livable' schedules.  {{< cite 13 >}} In 1996, they would receive {{< wiki-link "Phase 1 (1994)" >}}. The store would also receive new artwork, such as magazines and sports fixtures. During this revamp, the 'Kiddie Ride' area would have the 
-{{< wiki-link "Munch (1991 Portrait)" >}}, {{< wiki-link "Jasper (1991 Portrait)" >}}. {{< wiki-link"Helen (1991 Portrait)" >}}, {{< wiki-link"Chuck E. Cheese (1991 Portrait) >}}. & Ball Bath Sign removed for new artwork/sports fixtures such as Munch Empire State Building (SPT Décor), Toddler Town Sign (SPT Signage), Red Crayon, Blue Crayon, Ruler, Star (6') x2, {{< wiki-link "Rolling Stone (Magazine)" >}}, {{< wiki-link "GQ Chuck E Charming (Magazine)" >}}, {{< wiki-link "Soccer (Magazine)" >}}, {{< wiki-link "Hollywood (1991 Postcard)" >}}, & {{< wiki-link "Wild West (1991 Postcard)" >}}.  {{< cite 14 >}}{{< cite 15 >}} Between 1997 and 1999, they would then receive {{< wiki-link "Phase 2 (1997)" >}}. 
-﻿
+On September 8, 1992, the Sharonville, OH, Chuck E. Cheese's Pizza would open. The store was one of the first to receive {{< wiki-link "SPT 1990's Remodel Program" >}}. The store also featured the {{< wiki-link "2-Stage" >}}. It would retain the layout of the ShowBiz Pizza Place, with minor changes done by Sneakers of Cincinnati, such as installing a walkway into the kitchen on the left of what was originally the Salad Bar. This would mean the Food Tray would be installed in the kitchen instead of out front for guest access.  {{< cite 12 >}}. On November 23rd, 1993 (10 am-7 pm), an 'Informational Open House' was held by 'Chuck E. Cheese's/ShowBiz' to tell restaurant management the facts about their growth in 1993 and their 'livable' schedules.  {{< cite 13 >}} In 1996, they would receive {{< wiki-link "Phase 1 (1994)" >}}. The store would also receive new artwork, such as magazines and sports fixtures. During this revamp, the 'Kiddie Ride' area would have the {{< wiki-link "Munch (1991 Portrait)" >}}, {{< wiki-link "Jasper (1991 Portrait)" >}}. {{< wiki-link"Helen (1991 Portrait)" >}}, {{< wiki-link "Chuck E. Cheese (1991 Portrait)" >}}. & Ball Bath Sign removed for new artwork/sports fixtures such as Munch Empire State Building (SPT Décor), Toddler Town Sign (SPT Signage), Red Crayon, Blue Crayon, Ruler, Star (6') x2, {{< wiki-link "Rolling Stone (Magazine)" >}}, {{< wiki-link "GQ Chuck E Charming (Magazine)" >}}, {{< wiki-link "Soccer (Magazine)" >}}, {{< wiki-link "Hollywood (1991 Postcard)" >}}, & {{< wiki-link "Wild West (1991 Postcard)" >}}.  {{< cite 14 >}}{{< cite 15 >}} Between 1997 and 1999, they would then receive {{< wiki-link "Phase 2 (1997)" >}}. 
+
 **2000's**
 Lastly, between 2000 - 2003, they would receive {{< wiki-link "Phase 3 (2000)" >}} with the Toddler Zone installed next to the kitchen in the former 'Toddler Town' section. Between 2002-2005, The Tuxedo would be removed for his 'Cool Chuck' attire.{{< cite 16 >}} In Fall 2005, Sharonville would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}, being one of the first in the country to receive the remodel. Due to that, the store would keep its dim lighting{{< cite 17 >}}. Between 2006 - 2009, the stage would receive more changes, such as replacing Helen's dress, removing the old patch design, and Pasqually's eyelids being repainted from brown to peach.{{< cite 18 >}}{{< cite 19 >}}.
 ﻿
