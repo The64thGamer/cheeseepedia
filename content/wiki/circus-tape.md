@@ -5,7 +5,7 @@ startDate = "1986-05-18"
 endDate = "1986-07-00"
 pageThumbnailFile = "5dfq6HlJl58GagiDltYv.avif"
 contributors = ["The 64th Gamer", "Clownzin"]
-citations = ["[https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html](%22https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html%22)", "[https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/](%22https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/%22)", "[https://youtu.be/SCzbQrM4Gx0](%22https://youtu.be/SCzbQrM4Gx0%22)", "https://youtu.be/_o9bhXWo01g", "https://www.youtube.com/watch?v=p_nzyWxr6HI"]
+citations = ["[https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html](%22https://web.archive.org/web/20081219234700/http://www.showbizpizza.com/review/rae/index.html%22)", "[https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/](%22https://web.archive.org/web/20190925034644/https://tokensonly.com/2011/10/21/road-trip-to-arcade-nirvana-2010-part-3/%22)", "[https://youtu.be/SCzbQrM4Gx0](%22https://youtu.be/SCzbQrM4Gx0%22)", "https://youtu.be/_o9bhXWo01g", "https://www.youtube.com/watch?v=ni25zH9oBzs"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Rides Medley", "Tears of a Clown"]
 alsoKnownAs = ["Circus Night"]
@@ -38,4 +38,4 @@ Multiple pieces from the tape are known to be cut from the final ShowBiz release
   6. [The Night the Carousel Burnt Down](https://en.wikipedia.org/wiki/Something/Anything%3F)
 * [Tears of a Clown](https://en.wikipedia.org/wiki/The_Tears_of_a_Clown)
 * [The Curley Shuffle](https://en.wikipedia.org/wiki/The_Curly_Shuffle)
-* [Sideshow Medley](https://www.youtube.com/watch?v=p_nzyWxr6HI)
+* [Sideshow Medley](https://www.youtube.com/watch?v=ni25zH9oBzs)
