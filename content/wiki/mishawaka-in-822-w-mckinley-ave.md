@@ -1,20 +1,21 @@
 +++
-title = "Mishawaka, IN (822 W McKinley Ave)"
-storeNumber = ""
-startDate = "1982-09-22"
-endDate = ""
 cuDate = ""
+draft = false
+title = "Mishawaka, IN (822 W McKinley Ave)"
+startDate = "1982-09-22"
+endDate = "1992"
+pageThumbnailFile = ""
+contributors = ["yoboychuckeyell"]
+citations = ["From a real life source"]
+storeNumber = ""
+sqft = ""
+attractions = []
+franchisees = []
 remodels = []
 stages = []
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["41.67936372","-86.19477498"]
-citations = []
-contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+latitudeLongitude = ["41.67936372", "-86.19477498"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-draft = false
 +++
+Was converted to a Chuck E. Cheese's in the middle of 1991 and 1992
