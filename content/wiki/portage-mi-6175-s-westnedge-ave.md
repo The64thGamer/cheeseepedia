@@ -1,23 +1,23 @@
 +++
+cuDate = ""
+draft = false
 title = "Portage, MI (6175 S Westnedge Ave)"
-storeNumber = "327"
 startDate = "2000-09-26"
 endDate = "2025-09-07"
-cuDate = ""
-remodels = ["SPT 1990's Remodel Program|2000-09-26","CEC 2.0 Remodel Program|2018-07-00"]
-stages = ["Studio C Alpha|2000-09-26|2018-08-00","Chuck E. Live Stage (Dance Floor)|2018-08-00|2023-08-00","Video Wall|2023-08-00|2025-09-07","Chuck E. Live Stage (Dance Floor)|2023-08-00|2025-09-08"]
-franchisees = []
-attractions = []
-animatronics = ["Chuck E. Cheese 32m (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown","Bird (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown","Pizza Phone (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown","Pizza Time Clock (Animatronic)|2000-09-26|2018-08-00|N/A|Unknown"]
-sqft = "14,920"
-latitudeLongitude = ["42.227247078365956","-85.58709755123635"]
-citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0","https://www.mlive.com/news/kalamazoo/2025/09/chuck-e-cheese-closes-portage-location-could-make-way-for-major-grocer.html","https://www.newspapers.com/article/the-kalamazoo-gazette-chuck-e-replaces/180672241/","https://www.newspapers.com/image/1155058331/?match=1&terms=%226175%20S%20Westnedge%22","https://www.newspapers.com/image/1154595023/?match=1&terms=%226175%20S%20Westnedge%22","https://www.youtube.com/watch?v=ncILjQLpYC4","https://www.instagram.com/p/OTFQG/?igsh=MWJtbm05cXpobzdlbg==","https://www.instagram.com/p/kauB4nAeis/?igsh=b3lhNjFsZGJhYXo2","https://www.instagram.com/p/8efkMvuO6n/?igsh=MWxlMWtreGtjNzVy","https://www.flickr.com/photos/kzoocowboy/41809783970","https://www.instagram.com/p/Bmdz85cBr-e/?igsh=aTNudzE5Ynlnb3hm","https://www.emilyreviews.com/2018/10/why-we-love-the-newly-remodeled-chuck-e-cheeses-in-portage-michigan.html?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExeVZ3YkxDV0g3bnJ4c0lzZAEeu3JP5e8JEynsYQ4MfOx5soPfPN-sD3NINOg8ke8IdjV2R-CG7q7rPZfZmaM_aem_ajr0aNIBq-EFev1y0yN-5Q","https://www.facebook.com/ChuckECheesesPortage/photos/our-chuck-e-cheese-at-6175-s-westnedge-ave-game-rooms-are-now-open-come-play-gam/4842289769122283/","https://www.youtube.com/watch?v=BM0mrQZ1AbM","https://www.crainsgrandrapids.com/news/retail/kroger-buys-kalamazoo-area-shopping-center-for-10-3m-in-possible-return-to-west-michigan/","https://www.instagram.com/p/BS7BzZqAmfb/","https://www.instagram.com/p/BedoYL5nxtI/","https://www.instagram.com/supermishima/reel/nRL-WZxMF6/","https://www.instagram.com/hellofridaymb/p/_fQGg1qnms/"]
-contributors = []
-downloadLinks = []
 pageThumbnailFile = "portagemi2018.avif"
+contributors = ["Documentor"]
+citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0", "https://www.mlive.com/news/kalamazoo/2025/09/chuck-e-cheese-closes-portage-location-could-make-way-for-major-grocer.html", "https://www.newspapers.com/article/the-kalamazoo-gazette-chuck-e-replaces/180672241/", "https://www.newspapers.com/image/1155058331/?match=1&terms=%226175%20S%20Westnedge%22", "https://www.newspapers.com/image/1154595023/?match=1&terms=%226175%20S%20Westnedge%22", "https://www.youtube.com/watch?v=ncILjQLpYC4", "https://www.instagram.com/p/OTFQG/?igsh=MWJtbm05cXpobzdlbg==", "https://www.instagram.com/p/kauB4nAeis/?igsh=b3lhNjFsZGJhYXo2", "https://www.instagram.com/p/8efkMvuO6n/?igsh=MWxlMWtreGtjNzVy", "https://www.flickr.com/photos/kzoocowboy/41809783970", "https://www.instagram.com/p/Bmdz85cBr-e/?igsh=aTNudzE5Ynlnb3hm", "https://www.emilyreviews.com/2018/10/why-we-love-the-newly-remodeled-chuck-e-cheeses-in-portage-michigan.html?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExeVZ3YkxDV0g3bnJ4c0lzZAEeu3JP5e8JEynsYQ4MfOx5soPfPN-sD3NINOg8ke8IdjV2R-CG7q7rPZfZmaM_aem_ajr0aNIBq-EFev1y0yN-5Q", "https://www.facebook.com/ChuckECheesesPortage/photos/our-chuck-e-cheese-at-6175-s-westnedge-ave-game-rooms-are-now-open-come-play-gam/4842289769122283/", "https://www.youtube.com/watch?v=BM0mrQZ1AbM", "https://www.crainsgrandrapids.com/news/retail/kroger-buys-kalamazoo-area-shopping-center-for-10-3m-in-possible-return-to-west-michigan/", "https://www.instagram.com/p/BS7BzZqAmfb/", "https://www.instagram.com/p/BedoYL5nxtI/", "https://www.instagram.com/supermishima/reel/nRL-WZxMF6/", "https://www.instagram.com/hellofridaymb/p/_fQGg1qnms/"]
+storeNumber = "327"
+sqft = "14,920"
+attractions = []
+animatronics = ["Chuck E. Cheese 32m (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown", "Bird (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown", "Pizza Phone (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown", "Pizza Time Clock (Animatronic)|2000-09-26|2018-08-00|N/A|Unknown"]
+franchisees = []
+remodels = ["SPT 1990's Remodel Program|2000-09-26", "CEC 2.0 Remodel Program|2018-07-00"]
+stages = ["Studio C Alpha|2000-09-26|2018-08-00", "Chuck E. Live Stage (Dance Floor)|2018-08-00|2023-08-00", "Video Wall|2023-08-00|2025-09-07", "Chuck E. Live Stage (Dance Floor)|2023-08-00|2025-09-08"]
+downloadLinks = []
+latitudeLongitude = ["42.227247078365956", "-85.58709755123635"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-draft = false
 +++
 ***Portage, MI (6175 S Westnedge Ave) #327*** originally opened up on September 26, 2000, as a Chuck E. Cheese's {{< cite 1 >}} and would close on September 7, 2025, as a Chuck E. Cheese. {{< cite 2 >}}
 
