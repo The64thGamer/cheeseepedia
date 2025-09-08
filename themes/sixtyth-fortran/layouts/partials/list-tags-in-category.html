@@ -20,8 +20,8 @@
 </div>
 
 {{- $categories := .Site.Taxonomies.categories -}}
-<div id="loadingText" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
-<div id="tagsContainer" style="visibility:hidden;">
+<div id="loadingTextb" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="tagsContainerb" style="visibility:hidden;">
   {{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
       {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
@@ -116,8 +116,8 @@
     }
     showCategoryTags();
 
-    document.getElementById("loadingText").style.visibility = "hidden";
-    document.getElementById("tagsContainer").style.visibility = "visible";
+    document.getElementById("loadingTextb").style.visibility = "hidden";
+    document.getElementById("tagsContainerb").style.visibility = "visible";
   }
 
   function showCategoryTags(check) {
@@ -192,7 +192,7 @@
       selectedDiv.style.display = "block";
     }
 
-    document.getElementById("loadingText").style.visibility = "hidden";
-    document.getElementById("tagsContainer").style.visibility = "visible";
+    document.getElementById("loadingTextb").style.visibility = "hidden";
+    document.getElementById("tagsContainerb").style.visibility = "visible";
   }
 </script>
