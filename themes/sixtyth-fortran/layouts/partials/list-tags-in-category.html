@@ -96,8 +96,7 @@
 </div>
 
 <script>
-  window.onload = function() {
-    // Retrieve the saved category from localStorage
+  document.addEventListener("DOMContentLoaded", function() {
     var FECLoadValue = localStorage.getItem('selectedFEC');
     var FEC = document.getElementById("FECSelect");
     var MANULoadValue = localStorage.getItem('selectedManufacturer');
@@ -105,20 +104,25 @@
     var MOVIELoadValue = localStorage.getItem('selectedMovie');
     var MOVIE = document.getElementById("movieSelect");
 
-    if (FECLoadValue) {
+    if (FEC && FECLoadValue) {
       FEC.value = FECLoadValue;
     }
-    if (MANULoadValue) {
+    if (MANU && MANULoadValue) {
       MANU.value = MANULoadValue;
     }
-    if (MOVIELoadValue) {
+    if (MOVIE && MOVIELoadValue) {
       MOVIE.value = MOVIELoadValue;
     }
+
     showCategoryTags();
 
-    document.getElementById("loadingTextb").style.visibility = "hidden";
-    document.getElementById("tagsContainerb").style.visibility = "visible";
-  }
+    var loading = document.getElementById("loadingTextb");
+    var tags = document.getElementById("tagsContainerb");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
+  });
 
   function showCategoryTags(check) {
     var selectedCategory = "all";
@@ -126,26 +130,21 @@
     var MANU = document.getElementById("manufacturerSelect");
     var MOVIE = document.getElementById("movieSelect");
 
-    if(check == "FEC")
-    {
+    if (check == "FEC") {
       selectedCategory = FEC.value;
       document.getElementById("manufacturerSelect").value = "all";
       document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedFEC', FEC.value);
       localStorage.removeItem('selectedManufacturer');
       localStorage.removeItem('selectedMovie');
-    }
-    else if(check == "MANU")
-    {    
+    } else if (check == "MANU") {
       selectedCategory = MANU.value;
       document.getElementById("FECSelect").value = "all";
       document.getElementById("movieSelect").value = "all";
       localStorage.setItem('selectedManufacturer', MANU.value);
       localStorage.removeItem('selectedFEC');
       localStorage.removeItem('selectedMovie');
-    }
-    else if(check == "MOVIE")
-    {    
+    } else if (check == "MOVIE") {
       selectedCategory = MOVIE.value;
       document.getElementById("FECSelect").value = "all";
       document.getElementById("manufacturerSelect").value = "all";
@@ -153,32 +152,15 @@
       localStorage.removeItem('selectedFEC');
       localStorage.removeItem('selectedManufacturer');
     }
-    if(FEC.value != "all")
-    {
+
+    if (FEC && FEC.value != "all") {
       selectedCategory = FEC.value;
-      document.getElementById("manufacturerSelect").value = "all";
-      document.getElementById("movieSelect").value = "all";
-      localStorage.setItem('selectedFEC', FEC.value);
-      localStorage.removeItem('selectedManufacturer');
-      localStorage.removeItem('selectedMovie');
     }
-    if(MANU.value != "all")
-    {
+    if (MANU && MANU.value != "all") {
       selectedCategory = MANU.value;
-      document.getElementById("FECSelect").value = "all";
-      document.getElementById("movieSelect").value = "all";
-      localStorage.setItem('selectedManufacturer', MANU.value);
-      localStorage.removeItem('selectedFEC');
-      localStorage.removeItem('selectedMovie');
     }
-    if(MOVIE.value != "all")
-    {
+    if (MOVIE && MOVIE.value != "all") {
       selectedCategory = MOVIE.value;
-      document.getElementById("FECSelect").value = "all";
-      document.getElementById("manufacturerSelect").value = "all";
-      localStorage.setItem('selectedMovie', MOVIE.value);
-      localStorage.removeItem('selectedFEC');
-      localStorage.removeItem('selectedManufacturer');
     }
 
     var categories = document.getElementsByClassName("category-tags");
@@ -186,13 +168,16 @@
       categories[i].style.display = "none";
     }
 
-    // Show the selected category's tags
     var selectedDiv = document.getElementById("category-" + selectedCategory);
     if (selectedDiv) {
       selectedDiv.style.display = "block";
     }
 
-    document.getElementById("loadingTextb").style.visibility = "hidden";
-    document.getElementById("tagsContainerb").style.visibility = "visible";
+    var loading = document.getElementById("loadingTextb");
+    var tags = document.getElementById("tagsContainerb");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
   }
 </script>
