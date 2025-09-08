@@ -55,9 +55,9 @@ alsoKnownAs = ["028-0705-89ShowBiz Pizza Time, Inc.KIDS/TUNE SHOWTAPESerial #000
         1.  [Our House](https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song))
         2.  Tune Machine Malfunction Skit
         3.  Oldies Medley
-            1.  # [Louie Louie](https://en.wikipedia.org/wiki/The_Kingsmen_In_Person)
-            2.  # [Hang on Sloopy](https://en.wikipedia.org/wiki/Hang_On_Sloopy)
-            3.  # [Doo Wah Diddy](https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy)
+            1.  [Louie Louie](https://en.wikipedia.org/wiki/The_Kingsmen_In_Person)
+            2.  [Hang on Sloopy](https://en.wikipedia.org/wiki/Hang_On_Sloopy)
+            3.  [Doo Wah Diddy](https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy)
 7.  **Intermission 4**
     1.  6 Minute Countdown
         1.  ???
