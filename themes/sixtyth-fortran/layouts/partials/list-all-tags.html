@@ -93,3 +93,14 @@
     </ul>
   </div>
 </div>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Once the DOM is ready, flip visibility for the first set
+    var loading = document.getElementById("loadingText");
+    var tags = document.getElementById("tagsContainer");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
+  });
+</script>

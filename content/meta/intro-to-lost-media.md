@@ -42,3 +42,30 @@ The {{< wiki-link "Kooser Main Show & Dolli Showtape" >}} is semi-lost showtape,
 Despite this, full video and showtape signals for the tape have never surfaced, despite almost every CEC showtape having some sort of rip online. No listings or images of the in-store tape have ever appeared online. Over time enough home videos would surface to be able to view most of the video feed second hand. In December of 2021 a single second of raw footage would be shown after the original {{< wiki-link "Studio C Premiere" >}} was found, with the clip appearing in Segment 2.{{< cite 3 >}}
 
 A CEC corporate employee, Donovan Marcelle, would occasionally do livestreams on Instagram throughout the early 2020's detailing his progress on programming upcoming showtapes. During one of these livestreams, after constant pressure from the community, he would show the original master tape for the {{< wiki-link "3-Stage" >}} variant of the show. On September 11th, 2022, Donovan would start a stream showing a potential DVD rip of the tape, before cutting the disc up with scissors to mess with his viewers.{{< cite 4 >}}
+
+### Cyberamics Betamax Videos
+{{< wiki-link "Cyberamics Betamax" >}} was an early form of the {{< wiki-link "Cybervision" >}} update to stores that included video with showtapes. Two stores contained this test with exclusive video footage paired alongside its shows from January of 1987 to sometime in 1988 (likely March of 1988).
+
+Some of the footage would be reused with rereleased segments in 1988, which were sent out to all stores. In 1989 more segments were rereleased, but with their video remade in the newer bluescreen style of 1989's Cyberstar production. Since all of the betamax tapes are lost it is also possible these releases had changes from their rereleased counterparts.
+
+- {{< wiki-link "CEC Movie Magic" >}} - Lost Entirely
+- {{< wiki-link "CEC Faves / House Showtape" >}} - CEC Faves lost but remade, 'House' lost
+- {{< wiki-link "CEC Home for the Holidays" >}} - Lost Entirely
+- {{< wiki-link "CEC Personal Favorites Showtape" >}} - Lost Entirely
+- {{< wiki-link "CEC Rock-N-Roll Classics Showtape" >}} - Lost Entirely
+- {{< wiki-link "CEC Summertime / TV Westerns" >}} - Summer rereleased, TV Westerns lost
+- {{< wiki-link "CEC TV Westerns" >}} - Lost Entirely
+- {{< wiki-link "CEC Working / Summertime" >}} - Working lost, Summer rereleased
+- {{< wiki-link "CEC Country / Faves" >}} - CEC Faves & Country lost but remade
+- {{< wiki-link "CEC Summertime" >}} - Summer Rereleased
+- {{< wiki-link "CEC Tune Machine / Country" >}} - Tune Machine rereleased, country lost but remade
+
+## ShowBiz Pizza Place
+
+### 1989 Breakfast Birthday Promo
+
+{{< wiki-link "SPP Faith / Dreams / Kids" >}}, a showtape released in August of 1989, was found in a home video to have a lost clip inserted into its first intermission segment, just before the countdown. It says:
+
+> 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'
+
+The home video doesn't point the camera at any TVs during the segment, keeping the video lost media.

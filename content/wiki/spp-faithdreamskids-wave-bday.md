@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1989-08-31"
 endDate = "1989-00-00"
 contributors = ["DerekCat","Stripes"]
-citations = []
+citations = ["https://youtu.be/a_Ohe_R4ueo"]
 pageThumbnailFile = "xE5U7ez5RyLuv_vXQzXP.avif"
 showtapeFormats = ["ShowBiz SVHS"]
 alsoKnownAs = ["260-0831-89(C) S. P. T. Inc.SPP Faith/Dreams/Kids Wave BdaySerial #00158 Deck - 2 08/31/89 - Master CYBERSTAR","220-0906-89 (C) S.P.T. Inc. SPP FAITH/DREAMS/KIDS REG BDAY Serial #0027 Deck - 3 09/06/89 - Master CYBERSTAR"]
@@ -14,9 +14,11 @@ alsoKnownAs = ["260-0831-89(C) S. P. T. Inc.SPP Faith/Dreams/Kids Wave BdaySeria
 ***SPP Faith/Dreams/Kids* is a Cyberstar showtape released near the end of the Rock-afire
 Explosion's use in ShowBiz Pizza Place on August 31, 1989.**
 
-## Revision
+## History
 
 On September 6, 1989, a revision of the tape would be sent out replacing "Wave Birthday" with "Regular Birthday". It is not confirmed which Birthday show was included in this revision.
+
+A birthday promotion inserted before the Cyberstar Intro on Intermission 1 was found in a home video of the showtape, with only its audio recovered. {{< cite 1 >}}
 
 ## Show List
 
@@ -25,7 +27,8 @@ On September 6, 1989, a revision of the tape would be sent out replacing "Wave B
         1.  [Waiting Game](https://en.wikipedia.org/wiki/Waiting_Game_(Swing_Out_Sister_song))
         2.  Birthday Spectacular
         3.  Please Please Me (From Scotti Bros. Records 'Gigi On The Beach')
-    2.  Cyberstar Intro
+    2.  Birthday Promo
+    3.  Cyberstar Intro
 2.  **Segment 1**
     1.  Faith
         1.  [Faith](https://en.wikipedia.org/wiki/Faith_(George_Michael_song))
