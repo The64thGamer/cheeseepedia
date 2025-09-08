@@ -10,7 +10,7 @@ citations = ["[https://www.showbizpizza.com/info/articles/spp/spp_83dayton2.pdf]
 pageThumbnailFile = "d3SEFEyyRcm0wmwcXsIJ.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 downloadLinks = ["https://ia600506.us.archive.org/15/items/small-appliances-end-of-the-world-audio/Small%20Appliances%20-%20End%20of%20the%20World.mp3|Small Appliances / End of the World Outtake"]
-alsoKnownAs = ["CREATIVE ENGINEERING WST110-082583 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583", "CREATIVE ENGINEERING RWST1401-91983 WHITE ALBUM SHOWTAPE REVISED LOW SPEED TAILWOUND 091983"]
+alsoKnownAs = ["CREATIVE ENGINEERING WST110-082583 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583", "CREATIVE ENGINEERING RWST1401-91983 WHITE ALBUM SHOWTAPE REVISED LOW SPEED TAILWOUND 091983","CREATIVE ENGINEERING WST1505 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583"]
 +++
 *Beatles White Album* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on September 9 -
 November 24, 1983.

@@ -68,4 +68,4 @@ Some of the footage would be reused with rereleased segments in 1988, which were
 
 > 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'
 
-The home video doesn't point the camera at any TVs during the segment, keeping the video lost media.
+The home video doesn't point the camera at any TVs during the segment, keeping the video lost media. Any other promotional material or offers for Saturday breakfasts at ShowBiz are also lost if they exist.

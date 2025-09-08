@@ -3,26 +3,26 @@ title = "Magic Night"
 draft = false
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
-startDate = "1984-02-00"
-endDate = "0000-00-00"
+startDate = "1984-02-22"
+endDate = "1984-10-00"
 contributors = ["The 64th Gamer"]
-citations = ["[http://www.showbizpizza.com/review/rae/1984_magic.html](%22http://www.showbizpizza.com/review/rae/1984_magic.html%22)"]
+citations = ["http://www.showbizpizza.com/review/rae/1984_magic.html"]
 showtapeFormats = ["CEI 4-Track Reel"]
-alsoKnownAs = ["CREATIVE ENGINEERING MMST0113-10484 MAGIC SHOWTAPE LOW SPEED TAILWOUND 100484"]
+alsoKnownAs = ["CREATIVE ENGINEERING MMST0113-10484 MAGIC SHOWTAPE LOW SPEED TAILWOUND 100484","CREATIVE ENGINEERING MAGIC SHOWTAPE WITH MICHAEL JACKSON MEDLEY 022284"]
 +++
-***Magic Night* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in February 1984.**
+***Magic Night*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations from February to April of 1984, with a rerelease happening in October of 1984.
 
 ## Revised Version
 
-A tape variant labeled ***Magic Night (Revised)* was released to cut out the dated sections of Segment 8. This
-cut out the entirety of the intro, and reduced the *Michael Jackson Melody* to just the song *Beat
-It*.<sup>(1)</sup>**
+A tape variant labeled 'Magic Night (Revised)' was released to cut out the dated sections of Segment 8. This
+cut out the entirety of the intro, and reduced the *Michael Jackson Melody* to just the song 'Beat
+It'. It is likely the variant rereleased in October of 1984 is this tape.{{< cite 1 >}}
 
 ## Part 1-3 Version
 
-Reels have been found by James Marous that are labeled ***Magic Night Part 1, Magic Night Part 2,* and
-***Magic Night Part 3.* No other information is known about these tapes. The tapes from his collection were
-later damaged and are likely unrecoverable.****
+Reels have been found by James Marous that are labeled 'Magic Night Part 1', 'Magic Night Part 2', and
+'Magic Night Part 3.' No other information is known about these tapes. The tapes from his collection were
+later damaged and are likely unrecoverable.
 
 ## Segment List
 
