@@ -18,7 +18,7 @@ Explosion's use in ShowBiz Pizza Place on August 31, 1989.**
 
 On September 6, 1989, a revision of the tape would be sent out replacing "Wave Birthday" with "Regular Birthday". It is not confirmed which Birthday show was included in this revision.
 
-A birthday promotion inserted before the Cyberstar Intro on Intermission 1 was found in a home video of the showtape, with only its audio recovered. {{< cite 1 >}}
+A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was found in a home video of the showtape, with only its audio recovered. {{< cite 1 >}}
 
 ## Show List
 
@@ -27,8 +27,7 @@ A birthday promotion inserted before the Cyberstar Intro on Intermission 1 was f
         1.  [Waiting Game](https://en.wikipedia.org/wiki/Waiting_Game_(Swing_Out_Sister_song))
         2.  Birthday Spectacular
         3.  Please Please Me (From Scotti Bros. Records 'Gigi On The Beach')
-    2.  Birthday Promo
-    3.  Cyberstar Intro
+    2.  Cyberstar Intro
 2.  **Segment 1**
     1.  Faith
         1.  [Faith](https://en.wikipedia.org/wiki/Faith_(George_Michael_song))
@@ -40,7 +39,8 @@ A birthday promotion inserted before the Cyberstar Intro on Intermission 1 was f
         1.  [Rooms on Fire](https://en.wikipedia.org/wiki/Rooms_on_Fire)
         2.  Birthday Spectacular
         3.  [My Brave Face](https://en.wikipedia.org/wiki/My_Brave_Face)
-    2.  Cyberstar Intro
+    2.  Birthday Promo
+    3.  Cyberstar Intro
 4.  **Segment 2**
     1.  Dreams
         1.  [High Hopes](https://en.wikipedia.org/wiki/High_Hopes_(Frank_Sinatra_song))
