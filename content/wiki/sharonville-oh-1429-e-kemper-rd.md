@@ -8,44 +8,10 @@ remodels = ["SPT 1990's Remodel Program|1992-09-08","CEC 2000's Remodel Program|
 stages = ["Classic Stage|1981-10-21|1984-01-08","2-Stage|1992-09-08|2019-10-30","Chuck E. Live Stage (Dance Floor)|2019-10-30|2024-08-12","Chuck E. Live Stage (Dance Floor)|2024-08-12)| "]
 franchisees = []
 attractions = []
-animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-10-21|1984-01-08|4-81 1-5|Sent to Miami, FL (19191 S Dixie Hwy)","Dook Larue (Animatronic)|1981-10-21|1984-01-08|4-81 2-5|Sent to Miami, FL (19191 S Dixie Hwy)","Fatz Geronimo (Animatronic)|1981-10-21|1984-01-08|4-81 3-5|Sent to Miami, FL (19191 S Dixie Hwy)","Beach Bear (Animatronic)|1981-10-21|1984-01-08|4-81 4-5|Sent to Miami, FL (19191 S Dixie Hwy)","Mitzi Mozzarella (Animatronic)|1981-10-21|1984-01-08|4-81 5-5|Sent to Miami, FL (19191 S Dixie Hwy)","Billy Bob (Animatronic)|1981-10-21|1984-01-08|4-81 6-5|Sent to Miami, FL (19191 S Dixie Hwy)","Looney Bird (Animatronic)|1981-10-21|1984-01-08|4-81 7-5|Sent to Miami, FL (19191 S Dixie Hwy)","Choo Choo (Animatronic)|1981-10-21|1984-01-08|4-81 8-5|Sent to Miami, FL (19191 S Dixie Hwy)","Sun (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Moon (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Antioch (Animatronic)|1981-10-21|1984-01-08|N/A|Sent to Miami, FL (19191 S Dixie Hwy)","Uncle Klunk (Animatronic)|1983-00-00|1984-01-08|N/A|Unknown","Chuck E. Cheese (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Guest Star / Helen Henny (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Mr. Munch (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Jasper T. Jowls (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Pasqually (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Wink|1992-09-08|2019-10-30|N/A|Unknown]
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-10-21|1984-01-08|4-81 1-5|Sent to Miami, FL (19191 S Dixie Hwy)","Dook Larue (Animatronic)|1981-10-21|1984-01-08|4-81 2-5|Sent to Miami, FL (19191 S Dixie Hwy)","Fatz Geronimo (Animatronic)|1981-10-21|1984-01-08|4-81 3-5|Sent to Miami, FL (19191 S Dixie Hwy)","Beach Bear (Animatronic)|1981-10-21|1984-01-08|4-81 4-5|Sent to Miami, FL (19191 S Dixie Hwy)","Mitzi Mozzarella (Animatronic)|1981-10-21|1984-01-08|4-81 5-5|Sent to Miami, FL (19191 S Dixie Hwy)","Billy Bob (Animatronic)|1981-10-21|1984-01-08|4-81 6-5|Sent to Miami, FL (19191 S Dixie Hwy)","Looney Bird (Animatronic)|1981-10-21|1984-01-08|4-81 7-5|Sent to Miami, FL (19191 S Dixie Hwy)","Choo Choo (Animatronic)|1981-10-21|1984-01-08|4-81 8-5|Sent to Miami, FL (19191 S Dixie Hwy)","Sun (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Moon (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Antioch (Animatronic)|1981-10-21|1984-01-08|N/A|Sent to Miami, FL (19191 S Dixie Hwy)","Uncle Klunk (Animatronic)|1983-00-00|1984-01-08|N/A|Unknown","Chuck E. Cheese (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Guest Star / Helen Henny (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Mr. Munch (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Jasper T. Jowls (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Pasqually (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Wink|1992-09-08|2019-10-30|N/A|Unknown"]
 sqft = "10,406"
 latitudeLongitude = ["39.28390862", "-84.44942663"]
-citations = [
-  "https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf",
-  "https://www.newspapers.com/article/the-cincinnati-post/121527379/",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-open/180547982/",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-uncle-klunk-cin/180548476/",
-  "Internal Creative Engineering, INC document",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "https://www.newspapers.com/article/the-cincinnati-post-sneakers-open/180492612/",
-  "https://www.newspapers.com/image/102188782/",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-sneakers-closed/180492255/",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-cec/180492183/",
-  "https://youtu.be/KEQlkbmODjk",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-informational-op/180550189/",
-  "https://www.youtube.com/watch?v=-HIw6Vg6iNU","https://www.youtube.com/watch?v=AqJdMVXj6hU",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "https://www.instagram.com/p/B4tVIm3H6ef/",
-  "https://www.flickr.com/photos/29597274@N00/70469644/",
-  "https://cheeseepedia.org/photos/rblmt-wywjbsvsjqyq8pavif/",
-  "https://www.youtube.com/watch?v=P6wpycBNJKk",
-  "https://www.youtube.com/watch?v=P7UI9Qe38vI",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "https://www.instagram.com/p/7ZEItQIc6b/",
-  "Cincinnati CEC Location updated all at once. Experienced Personally",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "https://www.youtube.com/watch?v=XrManuWkJmA",
-  "Informed via CEC Employee in 2018",
-  "Informed via CEC Employee in 2018",
-  "Personally Experienced",
-  "https://www.youtube.com/watch?v=eRjHjw41hfE",
-  "Informed via CEC Employee in 2020",
-  "Disappears from store photos in 2022",
-  "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/",
-  "Internal CEC Document"
-]
+citations = ["https://www.showbizpizza.com/info/documents/spp/spp_sales_company_8-81_8-82.pdf", "https://www.newspapers.com/article/the-cincinnati-post/121527379/","https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-open/180547982/","https://www.newspapers.com/article/the-cincinnati-enquirer-uncle-klunk-cin/180548476/","Internal Creative Engineering, INC document","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","https://www.newspapers.com/article/the-cincinnati-post-sneakers-open/180492612/","https://www.newspapers.com/image/102188782/","https://www.newspapers.com/article/the-cincinnati-enquirer-sneakers-closed/180492255/","https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-cec/180492183/","https://youtu.be/KEQlkbmODjk","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","https://www.newspapers.com/article/the-cincinnati-enquirer-informational-op/180550189/","https://www.youtube.com/watch?v=-HIw6Vg6iNU","https://www.youtube.com/watch?v=AqJdMVXj6hU","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","https://www.instagram.com/p/B4tVIm3H6ef/","https://www.flickr.com/photos/29597274@N00/70469644/","https://cheeseepedia.org/photos/rblmt-wywjbsvsjqyq8pavif/","https://www.youtube.com/watch?v=P6wpycBNJKk","https://www.youtube.com/watch?v=P7UI9Qe38vI","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","https://www.instagram.com/p/7ZEItQIc6b/","Cincinnati CEC Location updated all at once. Experienced Personally","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","https://www.youtube.com/watch?v=XrManuWkJmA","Informed via CEC Employee in 2018","Informed via CEC Employee in 2018","Personally Experienced","https://www.youtube.com/watch?v=eRjHjw41hfE","Informed via CEC Employee in 2020","Disappears from store photos in 2022","https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-souperbo/180548399/","Internal CEC Document"]
 contributors = ["Documentor"]
 downloadLinks = []
 pageThumbnailFile = "upE3LhWSE4QOo0VURKcd.avif"
