@@ -658,3 +658,7 @@ On Route 66!
 **Chuck E. Cheese:**
 
 Don’t go away folks, at the rate we’re going we’ll be back for more fun and music in just a little while! See ya then.
+
+**Mr. Munch:**
+
+On the road again! Just can't wait to be on the road again
