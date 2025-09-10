@@ -15,7 +15,7 @@ latitudeLongitude = ["\"32.32505612\",\"-86.24878998\""]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***Montgomery, AL (2940 E South Blvd)*** originally opened up on September 30, 1982, as a Showbiz Pizza Place {{< cite 1 >}} and closed its doors in August 2013. {{< cite 2 >}} relocating to {{< wiki-link "Montgomery, AL (1116 Eastdale Mall)" >}}
+***Montgomery, AL (2940 E South Blvd)*** originally opened up on September 30, 1982, as a Showbiz Pizza Place {{< cite 1 >}} and closed its doors in August 2013. {{< cite 2 >}} relocating to Montgomery, AL (1116 Eastdale Mall).
 
 ## History
 ### 1980s
