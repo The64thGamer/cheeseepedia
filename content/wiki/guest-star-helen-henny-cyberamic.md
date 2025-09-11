@@ -25,7 +25,7 @@ The **Guest Star / Helen Henny Cyberamic** is an animatronic figure created by P
 
 ## Movements
 
-The bot features 8 movements in total, being the same number of movements as the Chuck E Cheese (Cyberamic)|Chuck E. Cheese Cyberamic figure.
+The bot features 8 movements in total, being the same number of movements as the Chuck E. Cheese (Cyberamic)|Chuck E. Cheese Cyberamic figure.
 
 | Movement                         | Notes                                                                   |
 |----------------------------------|-------------------------------------------------------------------------|

@@ -33,7 +33,7 @@ The 12' Home was the largest of the two variants. Characteristics that were excl
 
 ## Animatronics Used
 
-- Chuck E Cheese (Cyberamic)
+- Chuck E. Cheese (Cyberamic)
 - {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}
 - {{< wiki-link "Mr Munch (Cyberamic)" >}}
 - {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}

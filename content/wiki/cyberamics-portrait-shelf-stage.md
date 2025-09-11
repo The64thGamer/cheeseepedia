@@ -28,7 +28,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 
 ### Animatronics Used
 
-- {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}
+- {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
 - {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}
 - {{< wiki-link "Mr Munch (Cyberamic)" >}}
 - {{< wiki-link "Pasqually (Cyberamic)" >}}

@@ -29,7 +29,7 @@ Around Fall 2017, after the Burlington, MA store had closed in July, Springfield
 
 #### Stage Left (Chuck E. Cheese)
 
-Stage Right features Chuck E Cheese (Cyberamic)|Chuck E. Cheese with the star from Spokane's 2-Stage behind him and a TV next to him, there is also the neon sign reading 'Chuck E. Cheese' in his signature from Spokane's 2-Stage on top of the TV. The rain curtain that is normally on the 3-Stage is not on Lynwood's stage.
+Stage Right features Chuck E. Cheese (Cyberamic)|Chuck E. Cheese with the star from Spokane's 2-Stage behind him and a TV next to him, there is also the neon sign reading 'Chuck E. Cheese' in his signature from Spokane's 2-Stage on top of the TV. The rain curtain that is normally on the 3-Stage is not on Lynwood's stage.
 
 #### Center Stage (Helen Henny, Mr. Munch, Jasper T. Jowls)
 
@@ -43,7 +43,7 @@ Stage Left features Pasqually. Pizzacam was removed during the switchover to Cyb
 
 #### Stage Left (Chuck E. Cheese)
 
-Stage Right featured Chuck E Cheese (Cyberamic)|Chuck E. Cheese with the star from the original 3-Stage setup and a TV next to him. The stage featured no neon sign (Which was removed at an unknown date) or rain curtain and instead featured buildings from Burlington's 2-Stage with flood lights.
+Stage Right featured Chuck E. Cheese (Cyberamic)|Chuck E. Cheese with the star from the original 3-Stage setup and a TV next to him. The stage featured no neon sign (Which was removed at an unknown date) or rain curtain and instead featured buildings from Burlington's 2-Stage with flood lights.
 
 #### Center Stage (Helen Henny, Mr. Munch, Jasper T. Jowls)
 

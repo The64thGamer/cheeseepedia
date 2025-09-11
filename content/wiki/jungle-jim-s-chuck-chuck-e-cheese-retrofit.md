@@ -9,7 +9,7 @@ citations = ["[https://imgur.com/a/dN5V9fY](%22https://imgur.com/a/dN5V9fY%22)",
 tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 +++
-***Nirobi Trio Drummer* was a retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}} at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014).
+***Nirobi Trio Drummer* was a retrofit of {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}} at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014).
 The animatronic was originally seen in the 'Seafood' section of the grocery store located on top of the S.S Minnow on the drums, He was a part of the Nirobi Trio which debuted on September 11, 1995, apart of a 68,000 square foot expansion<sup>(1)</sup> They sang songs such as 'Johnny Be Good'. <sup>(2)</sup> The Nirobi Trio was removed in 1999 to be replaced by the Cereal Bowl Band.<sup>(3)</sup>**
 
 ## History
