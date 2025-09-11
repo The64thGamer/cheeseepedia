@@ -3,7 +3,7 @@ title = "Chuck E's Duckies"
 draft = false
 contributors = ["Pasquallytheplumber", "The 64th Gamer", "69.85.235.229", "GuestIsJustBest", "Stripes", "69.85.235.224"]
 endDate = ""
-citations = ["[https://www.youtube.com/watch?v=HZeaI7FUmws](%22https://www.youtube.com/watch?v=HZeaI7FUmws%22)", "[http://pfutz.us/JupiterGames/Index.htm](%22http://pfutz.us/JupiterGames/Index.htm%22)", "[https://www.crazykong.com/manuals/WackyDucks.man.pdf](%22https://www.crazykong.com/manuals/WackyDucks.man.pdf%22)"]
+citations = ["https://www.youtube.com/watch?v=HZeaI7FUmws", "http://pfutz.us/JupiterGames/Index.htm", "https://www.crazykong.com/manuals/WackyDucks.man.pdf"]
 startDate = "2000-00-00"
 tags = ["Arcade Games"]
 pageThumbnailFile = "HhO_7avsLCiyk3KmPimM.avif"

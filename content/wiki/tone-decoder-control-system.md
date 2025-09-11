@@ -6,7 +6,7 @@ tags = ["Animatronic Control Systems"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Himitsu","The 64th Gamer","BigCtheDataFinder"]
-citations = ["[https://www.youtube.com/watch?v=cuQr02265iU](%22https://www.youtube.com/watch?v=cuQr02265iU%22)","[https://www.youtube.com/watch?v=UlxcklP5F6E](%22https://www.youtube.com/watch?v=UlxcklP5F6E%22)"]
+citations = ["https://www.youtube.com/watch?v=cuQr02265iU","https://www.youtube.com/watch?v=UlxcklP5F6E"]
 pageThumbnailFile = "zgZGlohbegWLvFP8QLbg.avif"
 +++
 The ***Tone Decoder Control System* encompasses a family of animatronic show controllers designed by Creative Engineering Inc. in the late 1970s for use with their early shows. It is believed that there are multiple variants of this control system, primarily differing in the number of supported output channels, modified as needed for each show type.**

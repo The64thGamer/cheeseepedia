@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckETasticAlt","ThatBoiCydalan","BurgersNuggs445","The 64th Gamer","Saan1ty","Pasquallytheplumber"]
-citations = ["[https://www.icegame.com/category/392/sketch-book](%22https://www.icegame.com/category/392/sketch-book%22)","[https://www.icegame.com/category/277/sketch-express](%22https://www.icegame.com/category/277/sketch-express%22)","[https://youtu.be/ig3EDNNI5Uw](%22https://youtu.be/ig3EDNNI5Uw%22)"]
+citations = ["https://www.icegame.com/category/392/sketch-book","https://www.icegame.com/category/277/sketch-express","https://youtu.be/ig3EDNNI5Uw"]
 downloadLinks = ["https://archive.org/details/2002-cyberamic-cec-updgrade-patch|2002 CEC Upgrade Patch"]
 +++
 ***Chuck E. Cheese's Sketch Book* is a photo booth attraction developed by *ICE*<sup>(1)</sup> exclusively for Chuck E. Cheese's restaurants in 2002. This game doesn't award any tickets, but instead gives the user a printed copy of a photo that the machine takes.

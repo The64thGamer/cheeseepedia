@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["FileFickle"]
-citations = ["[https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s](%22https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s%22)"]
+citations = ["https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s"]
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "U3MBDlCec27cgfiNQsw0.avif"
 unitsProduced = "2"

@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "2006-00-00"
 endDate = "0000-00-00"
 contributors = ["Documentor","The 64th Gamer","YBP123"]
-citations = ["[https://www.youtube.com/watch?v=P9phDrePjCA](%22https://www.youtube.com/watch?v=P9phDrePjCA%22)"]
+citations = ["https://www.youtube.com/watch?v=P9phDrePjCA"]
 transcriptions = ["Roast Beef Sandwich and a Pizza"]
 +++
 The ***Billy & Looney Showtape* was a showtape created in 2006 for what Creative Engineering called the

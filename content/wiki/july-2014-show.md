@@ -6,7 +6,7 @@ categories = []
 startDate = "2014-07-01"
 endDate = "0000-00-00"
 contributors = ["Documentor","Himitsu","The 64th Gamer","MultiMonorail","DerpJobi"]
-citations = ["[https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/](%22https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/%22)","[https://www.youtube.com/watch?v=RhmUnk454MA](%22https://www.youtube.com/watch?v=RhmUnk454MA%22)"]
+citations = ["https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/","https://www.youtube.com/watch?v=RhmUnk454MA"]
 pageThumbnailFile = "wLhQ2r_Jtj6fgp4YmOFV.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++

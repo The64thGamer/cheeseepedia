@@ -6,7 +6,7 @@ categories = []
 startDate = ""
 endDate = ""
 contributors = ["TheMrMeisterr"]
-citations = ["","[https://rusutsu.com/blog/120/](%22https://rusutsu.com/blog/120/%22)"]
+citations = ["","https://rusutsu.com/blog/120/"]
 pageThumbnailFile = "15M2PBZkpdCqsEqOOGsI.avif"
 +++
 For more information about the show itself, see {{< wiki-link "Daniel and the Dixie Diggers" >}}

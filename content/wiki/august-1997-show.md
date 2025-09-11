@@ -5,7 +5,7 @@ startDate = "1997-08-05"
 endDate = "1997-11-27"
 pageThumbnailFile = "lyacHcjfOecle4yALYpS.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "SuperCreamPiper2008", "JasiahsPizzaTimeTheatre"]
-citations = ["[https://www.youtube.com/watch?v=ETqTbv95hBQ](%22https://www.youtube.com/watch?v=ETqTbv95hBQ%22)"]
+citations = ["https://www.youtube.com/watch?v=ETqTbv95hBQ"]
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)", "AAM 2x Laserdisc + Files", "C&R SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201997%203-Stage-007.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]

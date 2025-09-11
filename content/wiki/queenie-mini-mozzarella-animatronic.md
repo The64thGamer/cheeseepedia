@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["FileFickle","John95","IVeClappedForWolfman","The 64th Gamer","Ls2018"]
-citations = ["[https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452](%22https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452%22)"]
+citations = ["https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452"]
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "aI_xHyQ9g2VywLydXDLr.avif"
 +++

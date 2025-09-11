@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Sponch man","2601:600:8F00:4620:5856:C7F4:B277:85AF"]
-citations = ["[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)","[https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5](%22https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5%22)","[https://youtu.be/UsVA1GIrXU8?t=366](%22https://youtu.be/UsVA1GIrXU8?t=366%22)","[https://youtu.be/UsVA1GIrXU8?t=1549](%22https://youtu.be/UsVA1GIrXU8?t=1549%22)","[https://youtu.be/lvMtt4EQJnc?t=280](%22https://youtu.be/lvMtt4EQJnc?t=280%22)"]
+citations = ["http://www.showbizpizza.com/rae/history/index.html","https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5","https://youtu.be/UsVA1GIrXU8?t=366","https://youtu.be/UsVA1GIrXU8?t=1549","https://youtu.be/lvMtt4EQJnc?t=280"]
 +++
 ]
 **Dingo Star** was a member of the Wolf Pack 5, an animatronic band created by Creative Engineering.<sup>(1)</sup> He was a parody of real life musician [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), who played drums for [The Beatles](https://en.wikipedia.org/wiki/The_Beatles). He was voiced by an unknown member of the band Clutch.<sup>(2)</sup> Later on, he would become Dook LaRue in the successor animatronic band, The Rock-afire Explosion.

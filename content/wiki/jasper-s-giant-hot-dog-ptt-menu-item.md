@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1984-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf](%22https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf%22)","[https://www.newspapers.com/article/the-napa-valley-register/49903763/](%22https://www.newspapers.com/article/the-napa-valley-register/49903763/%22)","[https://www.newspapers.com/article/the-press-democrat/50027079/](%22https://www.newspapers.com/article/the-press-democrat/50027079/%22)","[https://www.newspapers.com/article/fort-worth-star-telegram/55139481/](%22https://www.newspapers.com/article/fort-worth-star-telegram/55139481/%22)","[https://www.newspapers.com/article/the-cincinnati-post/98317675/](%22https://www.newspapers.com/article/the-cincinnati-post/98317675/%22)","[https://www.newspapers.com/newspage/135015382/?terms=%22Kiddie%20Dog%22%20%22pizza%20time%20theatre%22&match=2](%22https://www.newspapers.com/newspage/135015382/?terms=%22Kiddie%20Dog%22%20%22pizza%20time%20theatre%22&match=2%22)"]
+citations = ["https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf","https://www.newspapers.com/article/the-napa-valley-register/49903763/","https://www.newspapers.com/article/the-press-democrat/50027079/","https://www.newspapers.com/article/fort-worth-star-telegram/55139481/","https://www.newspapers.com/article/the-cincinnati-post/98317675/","https://www.newspapers.com/newspage/135015382/?terms=%22Kiddie%20Dog%22%20%22pizza%20time%20theatre%22&match=2"]
 pageThumbnailFile = "GmDaSkw92DJzHmeMfpMn.avif"
 +++
 ***Jasper's Giant Hot Dog* was a Pizza Time Theatre menu item introduced in 1979.<sup>(1)(2)(3)(4)</sup>

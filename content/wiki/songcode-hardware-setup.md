@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado"]
-citations = ["[http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf](%22http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf%22)","[https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&](%22https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&%22)"]
+citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
 The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} for continued use and upgrades.**

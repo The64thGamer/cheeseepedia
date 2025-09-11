@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1999-04-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","EagleScout610","2601:81:8500:E190:4D99:3FA7:CB9B:907B","Bullseye123","Cheeseclassic"]
-citations = ["","[https://www.youtube.com/watch?v=VTmxzgjgpmE](%22https://www.youtube.com/watch?v=VTmxzgjgpmE%22)","[https://www.youtube.com/watch?v=dSz9_hQ3ZJ4](%22https://www.youtube.com/watch?v=dSz9_hQ3ZJ4%22)"]
+citations = ["","https://www.youtube.com/watch?v=VTmxzgjgpmE","https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
 pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
 showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters","https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]

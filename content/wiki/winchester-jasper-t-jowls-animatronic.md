@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "2004-00-00"
 contributors = ["EagleScout610","CECBowlingGreen","The 64th Gamer","MultiMonorail","KPIZZA03","2603:6010:D003:9F7A:89ED:79B3:D256:AD4B","ThatBoiCydalan","173.66.103.124","JasperLover","PizzaEntertainmentFanX","Newbie editor","FileFickle","CoolerDude"]
-citations = ["[https://archive.org/details/atariincbusiness0000gold/page/346/mode/2up?q=theatre](%22https://archive.org/details/atariincbusiness0000gold/page/346/mode/2up?q=theatre%22)","[https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_7_June_1977/page/n1/mode/2up](%22https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_7_June_1977/page/n1/mode/2up%22)","[https://www.facebook.com/photo/?fbid=10162521603405554&set=pcb.10162521603625554](%22https://www.facebook.com/photo/?fbid=10162521603405554&set=pcb.10162521603625554%22)"]
+citations = ["https://archive.org/details/atariincbusiness0000gold/page/346/mode/2up?q=theatre","https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_7_June_1977/page/n1/mode/2up","https://www.facebook.com/photo/?fbid=10162521603405554&set=pcb.10162521603625554"]
 pageThumbnailFile = "x0wJtgVpS5Ol8JcbHBvb.avif"
 unitsProduced = "1"
 manufacturer = "Fantasy Forest"

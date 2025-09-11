@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://youtu.be/P_xrIayIsV8](%22https://youtu.be/P_xrIayIsV8%22)"]
+citations = ["https://youtu.be/P_xrIayIsV8"]
 pageThumbnailFile = "IVFc0y10HFnunHDs0jOO.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 +++

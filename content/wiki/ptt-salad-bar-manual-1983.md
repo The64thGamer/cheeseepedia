@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1983-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-2.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-2.pdf%22)","[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-2.pdf","https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf"]
 pageThumbnailFile = "U2lKo83G9sV47AKaGpM8.avif"
 +++
 The ***Salad Bar Manual* is a lost *Pizza Time Theatre* manual for the 1983 Salad Bar (PTT Menu Item)|Salad Bar program that was introduced into stores.**

@@ -5,7 +5,7 @@ startDate = "1981-00-00"
 endDate = "1988-00-00"
 pageThumbnailFile = "mTPnP5N6B2eqFFumX3Wt.avif"
 contributors = ["BurgersNuggs445", "Cy's Junk at School", "Cheeseclassic"]
-citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++

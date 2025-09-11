@@ -5,7 +5,7 @@ startDate = "1982-00-00"
 endDate = "1991-00-00"
 pageThumbnailFile = "88R85mH7lfqIx7WdTpQB.avif"
 contributors = ["BurgersNuggs445", "Chouts1", "BigCtheDataFinder", "The 64th Gamer", "CEC Tinley", "Capitanyoda20"]
-citations = ["[http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf](%22http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf%22)", "[http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html](%22http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html%22)"]
+citations = ["http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf", "http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html"]
 tags = ["Costumed Characters"]
 categories = ["Pizza Time Theatre"]
 +++

@@ -6,7 +6,7 @@ categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Sonichacker","Mousester"]
-citations = ["[https://www.flickr.com/photos/32305248@N03/3022349751/](%22https://www.flickr.com/photos/32305248@N03/3022349751/%22)","[https://www.flickr.com/photos/32305248@N03/3022354239/](%22https://www.flickr.com/photos/32305248@N03/3022354239/%22)","[https://www.flickr.com/photos/32305248@N03/3022343565/](%22https://www.flickr.com/photos/32305248@N03/3022343565/%22)"]
+citations = ["https://www.flickr.com/photos/32305248@N03/3022349751/","https://www.flickr.com/photos/32305248@N03/3022354239/","https://www.flickr.com/photos/32305248@N03/3022343565/"]
 pageThumbnailFile = "5lGgScKyO6cV8RkBqXUJ.avif"
 +++
 The Dragon, is a Earl retrofit made by Jim Cox<sup>(1)</sup> for the 'Lumalusion' ride at the Texas State Fair, the mechanism was taken off of a {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}} (Presumably the same which was turned into Merlin the Wizard (Rolfe Retrofit)|Merlin the Wizard as well), the head tilt and arm twist movement cylinders were removed leaving only the mouth and eyebrow movements accessible.

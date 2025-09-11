@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.youtube.com/@therockafire/videos](%22https://www.youtube.com/@therockafire/videos%22)","**(Jan 18th)**"]
+citations = ["https://www.youtube.com/@therockafire/videos","**(Jan 18th)**"]
 pageThumbnailFile = "dytSIYAyc13tQlyTjOoR.avif"
 +++
 ***Creative Engineering Inc.* is an animatronics oriented entertainment and manufacturing company founded by ***Aaron Fechter* in 1975 and stopped its major business ventures and employment in the early 2000's. It now continues to run solely by its creator as a {{< wiki-link "Creative Engineering Premium Video Service" >}}, animatronics / parts reseller, and (formerly) a fandom tourist destination, with most of these current operations inactive as they begin plans to open a {{< wiki-link "Creative Engineering Workshop" >}} and {{< wiki-link "Creative Engineering Museum" >}}.

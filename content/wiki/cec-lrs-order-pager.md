@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2017-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117](%22https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117%22)"]
+citations = ["https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117"]
 pageThumbnailFile = "bi5dcr6Y9o40_7INe6aW.avif"
 +++
 The ***CEC LRS Order Pager* is a tabletop electronic pager that vibrates to alert customers that their order is ready to pick up. The pager began to be used in Texas stores starting in 2017, before heading to other test markets in 2018, and by 2019 all stores acquired a set.**

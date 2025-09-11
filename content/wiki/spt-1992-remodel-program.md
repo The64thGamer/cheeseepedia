@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1991-00-00"
 endDate = "2001-00-00"
 contributors = ["Stripes","The 64th Gamer","BurgersNuggs445","Caydenpedia"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_annualreport2001.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_annualreport2001.pdf%22)","[https://www.showbizpizza.com/info/documents/cec/cec_annualreport2002.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_annualreport2002.pdf%22)","[https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv](%22https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv%22)","[https://archive.org/details/irving-tx-remodel-001/](%22https://archive.org/details/irving-tx-remodel-001/%22)","https://www.showbizpizza.com/info/documents/spt/spt_93annual.pdf<"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_annualreport2001.pdf","https://www.showbizpizza.com/info/documents/cec/cec_annualreport2002.pdf","https://showbizpizza.com/videos/cec/promo/cec_fyi.wmv","https://archive.org/details/irving-tx-remodel-001/","https://www.showbizpizza.com/info/documents/spt/spt_93annual.pdf<"]
 pageThumbnailFile = "X5Kkj2cR4FeElqkmOZo3.avif"
 +++
 The ***SPT 1990's Remodel Program* was a company-wide initiative driven by ShowBiz Pizza Time to refresh the Chuck E. Cheese's brand and increase profits amongst its locations.

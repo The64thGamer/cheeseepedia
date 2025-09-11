@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1984-04-19"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer", "RockafireFan123"]
-citations = ["[http://www.showbizpizza.com/review/rae/1984_senior.html](%22http://www.showbizpizza.com/review/rae/1984_senior.html%22)"]
+citations = ["http://www.showbizpizza.com/review/rae/1984_senior.html"]
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE 041984","CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE REVISED 042684"]
 +++

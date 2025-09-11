@@ -5,7 +5,7 @@ startDate = "1976-00-00"
 endDate = "1976-00-00"
 pageThumbnailFile = "riG16FG_P2arOmdtpZhV.avif"
 contributors = ["The 64th Gamer"]
-citations = ["[http://www.showbizpizza.com/history/index.html](%22http://www.showbizpizza.com/history/index.html%22)", "https://www.newspapers.com/image/385999798/?terms=%22Fantasy%20Forest%22&match=1", "[https://www.newspapers.com/image/746118093/?terms=%22Fantasy%20Forest%22&match=1](%22https://www.newspapers.com/image/746118093/?terms=%22Fantasy%20Forest%22&match=1%22)", "[https://www.tapatalk.com/groups/retro_pizza_zone/portrait-cheesevention-question-t4728.html](%22https://www.tapatalk.com/groups/retro_pizza_zone/portrait-cheesevention-question-t4728.html%22)"]
+citations = ["http://www.showbizpizza.com/history/index.html", "https://www.newspapers.com/image/385999798/?terms=%22Fantasy%20Forest%22&match=1", "https://www.newspapers.com/image/746118093/?terms=%22Fantasy%20Forest%22&match=1", "https://www.tapatalk.com/groups/retro_pizza_zone/portrait-cheesevention-question-t4728.html"]
 manufacturer = "Fantasy Forest"
 unitsProduced = "1"
 tags = ["Animatronics"]

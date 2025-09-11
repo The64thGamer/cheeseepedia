@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2023-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","CoolerDude"]
-citations = ["[https://youtu.be/LmtqaiAXp4A](%22https://youtu.be/LmtqaiAXp4A%22)","[https://web.archive.org/web/20231008163927/https://www.roblox.com/events/906209659421687835](%22https://web.archive.org/web/20231008163927/https://www.roblox.com/events/906209659421687835%22)","[https://web.archive.org/web/20231008164040/https://www.roblox.com/events/905919107572629556](%22https://web.archive.org/web/20231008164040/https://www.roblox.com/events/905919107572629556%22)","[https://www.chuckecheese.com/smashlings/](%22https://www.chuckecheese.com/smashlings/%22)","[https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/](%22https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/%22)"]
+citations = ["https://youtu.be/LmtqaiAXp4A","https://web.archive.org/web/20231008163927/https://www.roblox.com/events/906209659421687835","https://web.archive.org/web/20231008164040/https://www.roblox.com/events/905919107572629556","https://www.chuckecheese.com/smashlings/","https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/"]
 pageThumbnailFile = "INkXKIQCeUiYMlDJH_2c.avif"
 +++
 The ***2023 Piñata Smashlings CEC Promo Campaign* (AKA ***Chuck E. Cheese Enters The Piñataverse)* was an in-store and Roblox game event lasting from October 5th - December 31, 2023.<sup>(1)</sup>

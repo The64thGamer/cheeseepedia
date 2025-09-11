@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-09-05"
 endDate = "1983-11-24"
 contributors = ["The 64th Gamer","Stripes"]
-citations = ["","[https://www.showbizpizza.com/review/rae/1983_country.html](%22https://www.showbizpizza.com/review/rae/1983_country.html%22)","[https://www.newspapers.com/article/the-bradenton-herald/96323786/](%22https://www.newspapers.com/article/the-bradenton-herald/96323786/%22)"]
+citations = ["","https://www.showbizpizza.com/review/rae/1983_country.html","https://www.newspapers.com/article/the-bradenton-herald/96323786/"]
 pageThumbnailFile = "a0oatCFecgSTg2PhADyJ.avif"
 +++
 ***ShowBiz's Fabulous Fall Festival* was a 3 month long event spanning from September 5 - November 24, 1983.

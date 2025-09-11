@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1983-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
-citations = ["[https://www.youtube.com/watch?v=KX9dh5nJ7cw](%22https://www.youtube.com/watch?v=KX9dh5nJ7cw%22)","[https://youtu.be/ELgAdgwj1_I](%22https://youtu.be/ELgAdgwj1_I%22)","[https://www.parksmania.it/2015/06/16/italia-in-miniatura-il-video-storico-1993-di-orsi-show/](%22https://www.parksmania.it/2015/06/16/italia-in-miniatura-il-video-storico-1993-di-orsi-show/%22)",""]
+citations = ["https://www.youtube.com/watch?v=KX9dh5nJ7cw","https://youtu.be/ELgAdgwj1_I","https://www.parksmania.it/2015/06/16/italia-in-miniatura-il-video-storico-1993-di-orsi-show/",""]
 pageThumbnailFile = "XxpFqWYbYkl1ySe4WZYD.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 +++

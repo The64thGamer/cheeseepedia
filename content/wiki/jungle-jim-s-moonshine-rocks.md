@@ -5,7 +5,7 @@ startDate = "1986-00-00"
 endDate = "2018-00-00"
 pageThumbnailFile = "MQQKTCH4MxWweBl1GREO.avif"
 contributors = ["Documentor", "The 64th Gamer", "CEC Tinley", "CyberSnout"]
-citations = ["https://imgur.com/a/ojDIOE6", "[https://www.newspapers.com/clip/79897864/jj/](%22https://www.newspapers.com/clip/79897864/jj/%22)", "[https://flickr.com/photos/junglejims/361678115/in/dateposted/](%22https://flickr.com/photos/junglejims/361678115/in/dateposted/%22)", "[https://flickr.com/photos/junglejims/355083459/in/dateposted/](%22https://flickr.com/photos/junglejims/355083459/in/dateposted/%22)", "[https://www.newspapers.com/clip/79897864/jj/](%22https://www.newspapers.com/clip/79897864/jj/%22)"]
+citations = ["https://imgur.com/a/ojDIOE6", "https://www.newspapers.com/clip/79897864/jj/", "https://flickr.com/photos/junglejims/361678115/in/dateposted/", "https://flickr.com/photos/junglejims/355083459/in/dateposted/", "https://www.newspapers.com/clip/79897864/jj/"]
 tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 +++

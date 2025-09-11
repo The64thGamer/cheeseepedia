@@ -6,7 +6,7 @@ categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Documentor"]
-citations = ["[https://www.youtube.com/watch?v=EQz1McBv0fw](%22https://www.youtube.com/watch?v=EQz1McBv0fw%22)","[https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/](%22https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/%22)"]
+citations = ["https://www.youtube.com/watch?v=EQz1McBv0fw","https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/"]
 pageThumbnailFile = "DzCfXnOtKUqUIa3vrSQd.avif"
 +++
 ***Luigi* was a retrofit of PTT Pasqually (Cyberamic) at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)

@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["ToadEatSock","CEC Tinley"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 pageThumbnailFile = "6ytcLqzv92knMIwD5Bej.avif"
 +++
 The **1996 Jumbo Mr. Munch Plush** was a official product produced for the Prize counters in 1996 by Dennis Foland. Inc.

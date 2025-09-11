@@ -7,7 +7,7 @@ pageThumbnailFile = "vHT3dz6gniHWYZS3WARr.avif"
 startDate = "1985-01-00"
 endDate = "1985-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.newspapers.com/image/705063965/?terms=%22Uncle%20Klunk%22&match=1](%22https://www.newspapers.com/image/705063965/?terms=%22Uncle%20Klunk%22&match=1%22)","[https://www.newspapers.com/article/kitsap-sun/110852953/](%22https://www.newspapers.com/article/kitsap-sun/110852953/%22)","Store had Klunk Valves under the stage.","[https://www.newspapers.com/article/quad-city-times/56630231/](%22https://www.newspapers.com/article/quad-city-times/56630231/%22)"]
+citations = ["https://www.newspapers.com/image/705063965/?terms=%22Uncle%20Klunk%22&match=1","https://www.newspapers.com/article/kitsap-sun/110852953/","Store had Klunk Valves under the stage.","https://www.newspapers.com/article/quad-city-times/56630231/"]
 +++
 
 ## Store Appearances

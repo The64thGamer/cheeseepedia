@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["BigCtheDataFinder","Tobsters ;-;","Destinationimagination95"]
-citations = ["[https://www.showbizpizza.com/photos/rae/bearadice/index.html](%22https://www.showbizpizza.com/photos/rae/bearadice/index.html%22)","[https://youtu.be/IO0LGPdepZI?t=54](%22https://youtu.be/IO0LGPdepZI?t=54%22)","[https://www.youtube.com/watch?v=N9rFPTTYNxE](%22https://www.youtube.com/watch?v=N9rFPTTYNxE%22)","[https://youtu.be/Ruvo6Bzw660](%22https://youtu.be/Ruvo6Bzw660%22)","[https://youtu.be/AbalXfX9KTY](%22https://youtu.be/AbalXfX9KTY%22)"]
+citations = ["https://www.showbizpizza.com/photos/rae/bearadice/index.html","https://youtu.be/IO0LGPdepZI?t=54","https://www.youtube.com/watch?v=N9rFPTTYNxE","https://youtu.be/Ruvo6Bzw660","https://youtu.be/AbalXfX9KTY"]
 pageThumbnailFile = "jkDRhpN8K4u57Bg5IF1e.avif"
 +++
 **Billy Bob's Bear-A-Dice Tropical Jamboree** otherwise referred to as either **Billy Bob's Bear-A-*Dise* Tropical Jamboree** or simply as just **Bear-A-Dice** is a Rock-afire Explosion trailer show that utilizes the {{< wiki-link "Mini Stage" >}} setup of characters instead of a full {{< wiki-link "Classic Stage" >}} setup.

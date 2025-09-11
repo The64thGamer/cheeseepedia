@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Charlie Rockit","Sponch man","FileFickle"]
-citations = ["[https://pizza-time-theatre.fandom.com/wiki/List_of_every_showtape](%22https://pizza-time-theatre.fandom.com/wiki/List_of_every_showtape%22)","[https://www.youtube.com/watch?v=4SGuAcfVX7k](%22https://www.youtube.com/watch?v=4SGuAcfVX7k%22)","[https://lostmediawiki.com/Creative_Engineering_Inc._(partially_lost_audio_of_animatronic_character%27s_showtapes;_1970s-1980s)](%22https://lostmediawiki.com/Creative_Engineering_Inc._(partially_lost_audio_of_animatronic_character%27s_showtapes;_1970s-1980s)%22)","[https://www.tapatalk.com/groups/retro_pizza_zone/confederate-critter-show-found-t13935.html#p119569](%22https://www.tapatalk.com/groups/retro_pizza_zone/confederate-critter-show-found-t13935.html#p119569%22)"]
+citations = ["https://pizza-time-theatre.fandom.com/wiki/List_of_every_showtape","https://www.youtube.com/watch?v=4SGuAcfVX7k","https://lostmediawiki.com/Creative_Engineering_Inc._(partially_lost_audio_of_animatronic_character%27s_showtapes;_1970s-1980s)%22)","https://www.tapatalk.com/groups/retro_pizza_zone/confederate-critter-show-found-t13935.html#p119569"]
 pageThumbnailFile = "9JF15JTnTTL7RMwwfDb5.avif"
 +++
 **The Confederate Critter Show** was an early animatronic band created by Aaron Fechter|Creative Engineering in 1977. The show was commissioned by Jim Sidwell Sr., owner of Magic World Kid's Park in Pigeon Forge, Tennessee. The band was a one-stage, three character show designed to look like the inside of a giant tree stump. The band performed between the years of 1977 to 1996.

@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]
-citations = ["[https://www.worthpoint.com/worthopedia/chuck-cheeses-pizza-time-theatre-1901232498](%22https://www.worthpoint.com/worthopedia/chuck-cheeses-pizza-time-theatre-1901232498%22)"]
+citations = ["https://www.worthpoint.com/worthopedia/chuck-cheeses-pizza-time-theatre-1901232498"]
 +++
 The For a free show... push this button and watch me go! was a sign created for *Pizza Time Theatre* locations in the 1980s.
 

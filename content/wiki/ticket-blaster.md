@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","BurgersNuggs445"]
-citations = ["[https://www.youtube.com/watch?v=OJVT49KgQLQ](%22https://www.youtube.com/watch?v=OJVT49KgQLQ%22)","[https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets](%22https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets%22)","[https://www.youtube.com/watch?v=imakDPgarcg](%22https://www.youtube.com/watch?v=imakDPgarcg%22)"]
+citations = ["https://www.youtube.com/watch?v=OJVT49KgQLQ","https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets","https://www.youtube.com/watch?v=imakDPgarcg"]
 pageThumbnailFile = "dlkaec7iyXMIlncjQkFI.avif"
 +++
 . Credit to [}}">CECBowlingGreen](%7B%7B%3C%20ref%20){users="" cecbowlinggreen"=""}.|439x439px]]

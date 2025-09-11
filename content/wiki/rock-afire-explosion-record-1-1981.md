@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1981-07-16"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.discogs.com/release/10759453-The-Rock-Afire-Explosion-School-Days](%22https://www.discogs.com/release/10759453-The-Rock-Afire-Explosion-School-Days%22)"]
+citations = ["https://www.discogs.com/release/10759453-The-Rock-Afire-Explosion-School-Days"]
 pageThumbnailFile = "dd71JaF4GC0jz26ar6Q2.avif"
 +++
 ***Rock-afire Explosion Record 1* is a 45rpm vinyl music record released on July 16, 1981 featuring 2 Rock-afire Explosion songs.<sup>(1)</sup>

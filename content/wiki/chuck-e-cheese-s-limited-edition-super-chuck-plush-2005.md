@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2005-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","CEC Tinley"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf%22)","[https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-08.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-08.pdf%22)",""]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf","https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-08.pdf",""]
 +++
 The ***Chuck E. Cheese's Limited Edition Super Chuck Plush* was an official product produced for the prize counter in *2005* during the 'Super Chuck Summer' promotion.**
 

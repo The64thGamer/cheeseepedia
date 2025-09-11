@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["CEC Tinley","BurgersNuggs445","Ceclife13"]
-citations = ["[https://web.archive.org/web/19971024092345/http://www.chuckecheese.com/](%22https://web.archive.org/web/19971024092345/http://www.chuckecheese.com/%22)"]
+citations = ["https://web.archive.org/web/19971024092345/http://www.chuckecheese.com/"]
 pageThumbnailFile = "ch2JH9FchyEj8ny0cGFO.avif"
 +++
 The ***Chuck E. Cheese's 20th Anniversary Licensed Commemorative Limited Edition Cookie Jar* was a licensed product created exclusively for online purchase in *1997*.**

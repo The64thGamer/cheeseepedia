@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 startDate = "1988-00-00"
 endDate = "1991-00-00"
 contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","Documentor","Caydenpedia"]
-citations = ["[https://www.youtube.com/watch?v=OhSHOh9Q8tQ](%22https://www.youtube.com/watch?v=OhSHOh9Q8tQ%22)"]
+citations = ["https://www.youtube.com/watch?v=OhSHOh9Q8tQ"]
 pageThumbnailFile = "Ii6KC1HF2jOO09IhY6EX.avif"
 +++
 The ***SPT 1980's Remodel Program* was a remodel of *Pizza Time Theatre* and *ShowBiz Pizza Place* restaurants that has been conceptualized during {{< wiki-link "Concept Unification" >}} to unite the two brands under one look. The remodel also aimed to look more like a place families would stop by on the regular, as by this time ShowBiz was more focused on giving families their best experience when they visit.**

@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["Measurements from the Jacksonville Plans","Jacksonville Plans, Sheet A5, Note 29","Jacksonville Plans, Sheet A8, Note 34","A5: #17,#25,#37","Note A5: #37","Sheet A8, Note 35.","A5, Note #9. The note itself says to refer to 'ID-1'.","[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)","[https://www.youtube.com/watch?v=GbesEWSt8Jo](%22https://www.youtube.com/watch?v=GbesEWSt8Jo%22)","[https://archive.org/details/jax-atlantic-80](%22https://archive.org/details/jax-atlantic-80%22)"]
+citations = ["Measurements from the Jacksonville Plans","Jacksonville Plans, Sheet A5, Note 29","Jacksonville Plans, Sheet A8, Note 34","A5: #17,#25,#37","Note A5: #37","Sheet A8, Note 35.","A5, Note #9. The note itself says to refer to 'ID-1'.","http://www.showbizpizza.com/rae/history/index.html","https://www.youtube.com/watch?v=GbesEWSt8Jo","https://archive.org/details/jax-atlantic-80"]
 pageThumbnailFile = "UGKV_QPr99dPIF50Mc53.avif"
 +++
 The ***Wolfman Show* (Official name unknown) was a side-act to the {{< wiki-link "Wolf Pack 5" >}} present in the first {{< wiki-link "ShowBiz Pizza Place" >}} in {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}} from March 2, 1980, to an unknown time after.

@@ -4,7 +4,7 @@ title = "The Great All-American Pizza Show! (Radio Ad)"
 startDate = "1979-00-00"
 endDate = ""
 contributors = ["Studio 18 Ent", "RessiduePezzzado", "2607:FB90:55B3:EDE3:AC39:99B7:4EB2:98BC", "216.125.34.66", "PizzaEntertainmentFanX", "CyberSnout"]
-citations = [" [To The Ad Audio](%22Link%22) [https://www.youtube.com/watch?v=X08DBu9jAwg](%22https://www.youtube.com/watch?v=X08DBu9jAwg%22)", " [To The Alt-Take](%22Link%22) [https://www.youtube.com/watch?v=jeFGpTbOlEc](%22https://www.youtube.com/watch?v=jeFGpTbOlEc%22)"]
+citations = [" [To The Ad Audio](%22Link%22) https://www.youtube.com/watch?v=X08DBu9jAwg", " [To The Alt-Take](%22Link%22) https://www.youtube.com/watch?v=jeFGpTbOlEc"]
 tags = ["Commercials"]
 categories = ["Pizza Time Theatre"]
 +++

@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]
-citations = ["[https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/](%22https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/%22)","[https://lsslogin.com/](%22https://lsslogin.com/%22)","[https://www.instagram.com/p/CgHORZnODuF/](%22https://www.instagram.com/p/CgHORZnODuF/%22)"]
+citations = ["https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/","https://lsslogin.com/","https://www.instagram.com/p/CgHORZnODuF/"]
 pageThumbnailFile = "bEys8qslC5qMEeF6cgSO.avif"
 +++
 The ***Navori System*, is a device that can be attached to the 3-Stage, {{< wiki-link "Cyberamics" >}}, {{< wiki-link "Studio C" >}}, and {{< wiki-link "Studio C HD" >}} for downloading showtape content through an internet connection.**

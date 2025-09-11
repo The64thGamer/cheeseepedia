@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2006-01-30"
 endDate = "0000-00-00"
 contributors = ["Ceclife13","The 64th Gamer","RedaCEC","John95"]
-citations = ["[https://youtu.be/Vn2hv3AKTXo](%22https://youtu.be/Vn2hv3AKTXo%22)"]
+citations = ["https://youtu.be/Vn2hv3AKTXo"]
 pageThumbnailFile = "J1foKBNYT4LicTqZNBcO.avif"
 showtapeFormats = ["APS Files"]
 +++

@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ShowBizMidwest","BurgersNuggs445","68.201.38.174","Documentor","The 64th Gamer","OnionMastori"]
-citations = ["[https://www.youtube.com/watch?v=BOlOX1q0pzY](%22https://www.youtube.com/watch?v=BOlOX1q0pzY%22)"]
+citations = ["https://www.youtube.com/watch?v=BOlOX1q0pzY"]
 pageThumbnailFile = "VkEY4pDk9g8qDD7GV2CU.avif"
 +++
 The articulated Chuck E. walkaround head was created in 1996 by former Creative Engineering employee, David "Billy Bob" Irving.

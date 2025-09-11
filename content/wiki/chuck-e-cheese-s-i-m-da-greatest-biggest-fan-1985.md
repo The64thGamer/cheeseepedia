@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1985-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Tux Chuck"]
-citations = ["[https://youtu.be/25qUFx6jm-s](%22https://youtu.be/25qUFx6jm-s%22)"]
+citations = ["https://youtu.be/25qUFx6jm-s"]
 +++
 ***Chuck E. Cheese's - I'm Da Greatest / Biggest Fan* is a Chuck E. Cheese labeled record sung by Joseph G. Ajhar and published by B.O.O. Music in 1985.**
 

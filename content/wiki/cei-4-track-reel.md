@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["BattleXGamer","125.238.99.90","The 64th Gamer"]
-citations = ["[https://www.tapeheads.net/threads/ampex-tape-baking-how-long-temperture.88891/](%22https://www.tapeheads.net/threads/ampex-tape-baking-how-long-temperture.88891/%22)","[https://en.wikipedia.org/wiki/Sticky-shed_syndrome](%22https://en.wikipedia.org/wiki/Sticky-shed_syndrome%22)"]
+citations = ["https://www.tapeheads.net/threads/ampex-tape-baking-how-long-temperture.88891/","https://en.wikipedia.org/wiki/Sticky-shed_syndrome"]
 pageThumbnailFile = "lawoP2ulINi63Sj36mT7.avif"
 +++
 The ***CEI 4-Track Reel* is the format of the Reel to Reels that CEI produced and sent to stores that contains the audio and data to a showtape.

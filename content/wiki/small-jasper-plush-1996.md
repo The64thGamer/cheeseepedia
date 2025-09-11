@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["ToadEatSock","BurgersNuggs445"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 pageThumbnailFile = "Ev9E25p9ZPbshvkj2o4o.avif"
 +++
 The **1996 Small Jasper Plush** was a official product produced for the Prize counters in 1996 by Dennis Foland. Inc.

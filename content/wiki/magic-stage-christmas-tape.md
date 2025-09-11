@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1985-11-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://youtu.be/x9438Sw6fjo](%22https://youtu.be/x9438Sw6fjo%22)","[https://youtu.be/2xwOGvgn25A](%22https://youtu.be/2xwOGvgn25A%22)"]
+citations = ["https://youtu.be/x9438Sw6fjo","https://youtu.be/2xwOGvgn25A"]
 pageThumbnailFile = "Lk0_8LXIiWOzfNSoiNow.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 +++

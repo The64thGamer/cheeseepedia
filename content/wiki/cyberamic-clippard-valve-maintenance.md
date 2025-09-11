@@ -6,7 +6,7 @@ categories = [""]
 startDate = ""
 endDate = ""
 contributors = ["2600:1017:B4C2:66B9:B43D:350E:1D57:D87A","The 64th Gamer","ShowBizMidwest","47.12.120.189"]
-citations = ["[https://aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/](%22https://aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/%22)","[https://www.clippard.com/part/EVO-3M-12](%22https://www.clippard.com/part/EVO-3M-12%22)"]
+citations = ["https://aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/","https://www.clippard.com/part/EVO-3M-12"]
 pageThumbnailFile = "RUAzN0niK_CxqWXmU1lE.avif"
 +++
 Cyberamics manufactured by Pizza Time Theatre, Inc came with valves from *Clippard*, specifically the ***Clippard EVO-3M-24 3-Way Elec. Valve.* Each animatronic has a pair of 8 valves on their board, identified by their bright yellow cap.**

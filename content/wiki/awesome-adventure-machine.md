@@ -7,7 +7,7 @@ startDate = "1996-08-21"
 endDate = "1997-00-00"
 pageThumbnailFile = "gini345ugn345g.avif"
 contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","74.70.97.78","Cy's Junk at School"]
-citations = ["[https://www.youtube.com/watch?v=99vsWR406xo](%22https://www.youtube.com/watch?v=99vsWR406xo%22)","[https://www.youtube.com/watch?v=5mqJMsr_PLU](%22https://www.youtube.com/watch?v=5mqJMsr_PLU%22)"]
+citations = ["https://www.youtube.com/watch?v=99vsWR406xo","https://www.youtube.com/watch?v=5mqJMsr_PLU"]
 +++
 The ***Awesome Adventure Machine,* also known internally as 'Showroom 2000,' was a test stage that was installed at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}.
 This was a one-of-a-kind stage that only had one major character animatronic for the show, which was a first in Chuck E. Cheese's history at that time. To make up for the absence of the other characters, the company came up with the easy solution to introduce video screens featuring the other cast in walkaround form with articulated heads that interact in show segments.

@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley"]
-citations = ["[https://www.ebay.com/itm/304837044496](%22https://www.ebay.com/itm/304837044496%22)"]
+citations = ["https://www.ebay.com/itm/304837044496"]
 pageThumbnailFile = "WFn6gbVgOBYqSi2xixJ1.avif"
 +++
 The ***CEC Pizza Training Document* was a document consisting of 3 laminated pages used for training on pizza making, released at an unknown point around the 2000's.

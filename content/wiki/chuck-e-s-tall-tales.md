@@ -5,7 +5,7 @@ startDate = "1995-12-26"
 endDate = "1996-04-22"
 pageThumbnailFile = "YPlqWpraQ9zmUvbMMyJp.avif"
 contributors = ["Ceclife13", "Documentor"]
-citations = ["[https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg](%22https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg%22)"]
+citations = ["https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]

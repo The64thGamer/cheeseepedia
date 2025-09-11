@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","GallaRBX","Himitsu"]
-citations = ["[https://youtu.be/6ih4nsIWX5o](%22https://youtu.be/6ih4nsIWX5o%22)","[https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf%22)"]
+citations = ["https://youtu.be/6ih4nsIWX5o","https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf"]
 pageThumbnailFile = "WNydQCHIvk8Fnb1bUyPy.avif"
 +++
 The ***Studio C Technician Terminal,* or 'Studio C Tech Term', is a handheld device used for configuring and testing the {{< wiki-link "Studio C" >}} programmable movements and lights.

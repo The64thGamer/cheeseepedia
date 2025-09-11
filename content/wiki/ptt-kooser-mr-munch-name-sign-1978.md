@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
-citations = ["ptt_78kooser.pdf (showbizpizza.com)","[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf%22)"]
+citations = ["ptt_78kooser.pdf (showbizpizza.com)","https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
 +++
 The ***Kooser Mr. Munch Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose, California; where it was placed below the newly introduced {{< wiki-link "Kooser Mr Munch (Animatronic)" >}} animatronic from as early as November 1978, to May, 1980.**
 

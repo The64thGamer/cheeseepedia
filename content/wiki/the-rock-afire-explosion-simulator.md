@@ -6,7 +6,7 @@ categories = ["Creative Engineering","ShowBiz Pizza Place"]
 startDate = "2020-10-28"
 endDate = "2020-11-26"
 contributors = ["The 64th Gamer","Himitsu"]
-citations = ["[https://www.kickstarter.com/projects/hayesgames/the-rock-afire-explosion-simulator/description](%22https://www.kickstarter.com/projects/hayesgames/the-rock-afire-explosion-simulator/description%22)","[https://www.youtube.com/watch?v=OuK-x3H_mJI](%22https://www.youtube.com/watch?v=OuK-x3H_mJI%22)"]
+citations = ["https://www.kickstarter.com/projects/hayesgames/the-rock-afire-explosion-simulator/description","https://www.youtube.com/watch?v=OuK-x3H_mJI"]
 downloadLinks = ["https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo|Software Demo"]
 pageThumbnailFile = "cscn3MDzzxLfleDueQBS.avif"
 +++

@@ -6,7 +6,7 @@ categories = [""]
 startDate = "1986"
 endDate = "1986"
 contributors = ["The 64th Gamer","DerekCat"]
-citations = ["[http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/](%22http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/%22)"]
+citations = ["http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/"]
 pageThumbnailFile = "dH6WtZKILHVaqS7xznG1.avif"
 +++
 ***ShowBiz Pizza Program 1* is a music cassette released alongside ShowBiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.

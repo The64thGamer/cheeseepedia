@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place","Creative Engineering"]
 startDate = "1980-03-03"
 endDate = "0000-00-00"
 contributors = ["Sponch man","Himitsu","The 64th Gamer","2601:600:8F00:4620:452E:CE7B:7DCD:9F7B"]
-citations = ["[http://www.showbizpizza.com/rae/history/index.html](%22http://www.showbizpizza.com/rae/history/index.html%22)","[https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311](%22https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311%22)","[https://www.showbizpizza.com/review/rae/1982_abbeyroad.html](%22https://www.showbizpizza.com/review/rae/1982_abbeyroad.html%22)","[https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5](%22https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5%22)","[https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert](%22https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert%22)"]
+citations = ["http://www.showbizpizza.com/rae/history/index.html","https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311","https://www.showbizpizza.com/review/rae/1982_abbeyroad.html","https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5","https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert"]
 pageThumbnailFile = "wu8jjIKhWMoyAULrZwtz.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = [""]

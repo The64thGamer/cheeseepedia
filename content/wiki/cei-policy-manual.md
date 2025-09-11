@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/photos/rae/cei_artwork/index.html](%22https://www.showbizpizza.com/photos/rae/cei_artwork/index.html%22)","","","[https://youtu.be/cKBgbQXGEoI](%22https://youtu.be/cKBgbQXGEoI%22)"]
+citations = ["https://www.showbizpizza.com/photos/rae/cei_artwork/index.html","","","https://youtu.be/cKBgbQXGEoI"]
 pageThumbnailFile = "xzPTRCkfAptSsERaqQY5.avif"
 +++
 The ***Creative Engineering, Inc. Policy Manual* is a lost manual for CEI employees.

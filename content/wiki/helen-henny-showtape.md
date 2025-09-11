@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1977-08-12"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Ptt1977"]
-citations = ["[https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up](%22https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up%22)"]
+citations = ["https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up"]
 pageThumbnailFile = "nxre94zzgKZhWTebU2LP.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++

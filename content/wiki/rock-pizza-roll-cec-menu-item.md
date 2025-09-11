@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2018-10-01"
 endDate = "2018-12-30"
 contributors = ["The 64th Gamer","Documentor"]
-citations = ["[https://m.facebook.com/ChuckECheese/videos/rock-pizza-roll/2189010168002795/](%22https://m.facebook.com/ChuckECheese/videos/rock-pizza-roll/2189010168002795/%22)","[https://web.archive.org/web/20190105214629/https://www.chuckecheese.com/menu](%22https://web.archive.org/web/20190105214629/https://www.chuckecheese.com/menu%22)","[https://www.fastfoodpost.com/chuck-e-cheeses-introduces-rock-and-pizza-roll/](%22https://www.fastfoodpost.com/chuck-e-cheeses-introduces-rock-and-pizza-roll/%22)","[https://web.archive.org/web/20191019041535/https://www.chuckecheese.com/menu](%22https://web.archive.org/web/20191019041535/https://www.chuckecheese.com/menu%22)"]
+citations = ["https://m.facebook.com/ChuckECheese/videos/rock-pizza-roll/2189010168002795/","https://web.archive.org/web/20190105214629/https://www.chuckecheese.com/menu","https://www.fastfoodpost.com/chuck-e-cheeses-introduces-rock-and-pizza-roll/","https://web.archive.org/web/20191019041535/https://www.chuckecheese.com/menu"]
 pageThumbnailFile = "5NCXhh12thgDBnRUu0NY.avif"
 +++
 The ***Rock & Pizza Roll* was a limited time appetizer at Chuck E. Cheese locations from 2018 through 2019.<sup>(1)</sup>

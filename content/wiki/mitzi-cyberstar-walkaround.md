@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Showb1zlov3r","The 64th Gamer"]
-citations = ["[https://jmcostumers.com/html/showbizPizza.html](%22https://jmcostumers.com/html/showbizPizza.html%22)"]
+citations = ["https://jmcostumers.com/html/showbizPizza.html"]
 pageThumbnailFile = "RhBwU1El_3BW6e_GPT44.avif"
 +++
 The ***Mitzi Cyberstar Walkaround* was a walkaround used exclusively for *Cyberstar* videos at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.

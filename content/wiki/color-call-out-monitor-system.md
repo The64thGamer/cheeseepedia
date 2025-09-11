@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://ia800303.us.archive.org/21/items/paintingbynumbers/paintingbynumbersreel2.mp4](%22https://ia800303.us.archive.org/21/items/paintingbynumbers/paintingbynumbersreel2.mp4%22)","[https://www.youtube.com/watch?v=mNeLNeALLMM](%22https://www.youtube.com/watch?v=mNeLNeALLMM%22)","[https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n1/mode/2up](%22https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n1/mode/2up%22)"]
+citations = ["https://ia800303.us.archive.org/21/items/paintingbynumbers/paintingbynumbersreel2.mp4","https://www.youtube.com/watch?v=mNeLNeALLMM","https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n1/mode/2up"]
 pageThumbnailFile = "CAdZQQXIe66FuIvWvbnZ.avif"
 +++
 The ***Color Call-out Monitor System* (AKA ***Video Call-out System*, and later called the ***Pasqually Hot Line*) was {{< wiki-link "Pizza Time Theatre" >}} successor to the {{< wiki-link "NOTALOG" >}} system used at the first location, {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}.******

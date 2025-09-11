@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc](%22https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc%22)"]
+citations = ["https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjg0MjY4MjkwLCJleHAiOjE2ODQzNTQ2OTB9.OTUXUZsIyxSDCKf0xA3dZEK9vn-MWBO51k2rgAD2EUc"]
 pageThumbnailFile = "qtpWt_R8Mjxn_P7FDtzb.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++

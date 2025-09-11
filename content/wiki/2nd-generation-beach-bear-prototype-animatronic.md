@@ -5,7 +5,7 @@ startDate = "1983-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "0i9jio4jv34gf.avif"
 contributors = ["Kathydra", "The 64th Gamer"]
-citations = ["[https://www.youtube.com/watch?v=vkgivnsr9FU](%22https://www.youtube.com/watch?v=vkgivnsr9FU%22)"]
+citations = ["https://www.youtube.com/watch?v=vkgivnsr9FU"]
 tags = ["Animatronics"]
 categories = ["ShowBiz Pizza Place"]
 +++

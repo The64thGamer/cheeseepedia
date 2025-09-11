@@ -5,7 +5,7 @@ startDate = ""
 endDate = ""
 pageThumbnailFile = "MxkeW87WQUbnHQZpGHaU.avif"
 contributors = ["The 64th Gamer"]
-citations = ["[https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up](%22https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up%22)", "[https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php](%22https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php%22)", "[https://www.atarimagazines.com/v2n7/Computercamp.html](%22https://www.atarimagazines.com/v2n7/Computercamp.html%22)", "[https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html](%22https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html%22)"]
+citations = ["https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up", "https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php", "https://www.atarimagazines.com/v2n7/Computercamp.html", "https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++

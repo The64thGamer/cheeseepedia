@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["Documentor","BurgersNuggs445","The 64th Gamer"]
-citations = ["[https://www.youtube.com/watch?v=ZIWfW5xvfhE](%22https://www.youtube.com/watch?v=ZIWfW5xvfhE%22)","[https://www.youtube.com/watch?v=ZIWfW5xvfhE](%22https://www.youtube.com/watch?v=ZIWfW5xvfhE%22)","[https://www.youtube.com/watch?v=m8fIhTmFtkk](%22https://www.youtube.com/watch?v=m8fIhTmFtkk%22)"]
+citations = ["https://www.youtube.com/watch?v=ZIWfW5xvfhE","https://www.youtube.com/watch?v=ZIWfW5xvfhE","https://www.youtube.com/watch?v=m8fIhTmFtkk"]
 +++
 ***Chuck E. Cheese's Awesome Tune Tracks* is a cassette tape created in 1996 by ShowBiz Pizza Time.**
 

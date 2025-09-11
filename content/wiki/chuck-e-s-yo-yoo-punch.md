@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ThatBoiCydalan"]
-citations = ["[https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html](%22https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html%22)"]
+citations = ["https://www.coinopexpress.com/products/machines/hammer-punch-machines/yo-yoo-punch-581.html"]
 pageThumbnailFile = "tUJ6izoOtWZsUO5fVfk5.avif"
 +++
 ***Chuck E's Yo Yoo Punch* was a redemption game made for *Chuck E. Cheese* locations in 2000. This game is a branded version of *Yo Yoo Punch* manufactured by Skee-Ball Inc.<sup>(1)</sup>**

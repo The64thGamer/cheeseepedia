@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "0000-00-00"
 contributors = ["PizzaEntertainmentFanX"]
-citations = ["[https://www.youtube.com/watch?v=EdKLsomLbtY](%22https://www.youtube.com/watch?v=EdKLsomLbtY%22)","[https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf%22)"]
+citations = ["https://www.youtube.com/watch?v=EdKLsomLbtY","https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 pageThumbnailFile = "gQsjQ8K5TYm9gZlzRyL6.avif"
 unitsProduced = "1"
 manufacturer = "Fantasy Forest"

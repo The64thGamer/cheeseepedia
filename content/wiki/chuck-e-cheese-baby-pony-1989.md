@@ -7,7 +7,7 @@ pageThumbnailFile = "8rn0DFOxRwN1w5mloutR.avif"
 startDate = "1989-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Tux Chuck"]
-citations = ["[http://mylittlewiki.org/wiki/Category:Play_and_Care_Sets](%22http://mylittlewiki.org/wiki/Category:Play_and_Care_Sets%22)","[https://archive.org/details/my-little-pony-model-sheet-master-file-page-167/My%20Little%20Pony%20model%20sheet%20master%20file_Page_160.jpg](%22https://archive.org/details/my-little-pony-model-sheet-master-file-page-167/My%20Little%20Pony%20model%20sheet%20master%20file_Page_160.jpg%22)","[https://www.mlptp.net/index.php?threads/the-term-cutie-mark.112921/](%22https://www.mlptp.net/index.php?threads/the-term-cutie-mark.112921/%22)","[http://mylittlewiki.org/wiki/G1_Birthflower_Ponies](%22http://mylittlewiki.org/wiki/G1_Birthflower_Ponies%22)"]
+citations = ["http://mylittlewiki.org/wiki/Category:Play_and_Care_Sets","https://archive.org/details/my-little-pony-model-sheet-master-file-page-167/My%20Little%20Pony%20model%20sheet%20master%20file_Page_160.jpg","https://www.mlptp.net/index.php?threads/the-term-cutie-mark.112921/","http://mylittlewiki.org/wiki/G1_Birthflower_Ponies"]
 +++
 The ***Chuck E. Cheese Baby Pony* was a Chuck E. Cheese branded ***My Little Pony* Baby Pony toy available at the prize counter from 1989 to an unknown date.****
 

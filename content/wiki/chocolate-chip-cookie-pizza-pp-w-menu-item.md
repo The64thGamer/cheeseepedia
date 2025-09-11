@@ -6,9 +6,9 @@ categories = ["Pasqually's Pizza & Wings"]
 pageThumbnailFile = "jnjla31uln120398fsdn.avif"
 startDate = "2020-00-00"
 endDate = "2020-07-08"
-citations = ["[https://web.archive.org/web/20200519224448/https://www.pasquallyspizza.com/menu](%22https://web.archive.org/web/20200519224448/https://www.pasquallyspizza.com/menu%22)",
-"[https://www.pasquallyspizza.com/press/press-release-2](%22https://www.pasquallyspizza.com/press/press-release-2%22)",
-"[https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu](%22https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu%22)"]
+citations = ["https://web.archive.org/web/20200519224448/https://www.pasquallyspizza.com/menu",
+"https://www.pasquallyspizza.com/press/press-release-2",
+"https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu"]
 contributors = ["Front-Row-Joe"]
 +++
 The ***Chocolate Chip Cookie Pizza*** was a {{< wiki-link "Pasqually's Pizza & Wings" >}} menu item introduced in 2020.

@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["FileFickle"]
-citations = ["[https://youtu.be/0l6-6ewuY70?si=bQxFDYb6kqSK55V0&t=1545](%22https://youtu.be/0l6-6ewuY70?si=bQxFDYb6kqSK55V0&t=1545%22)","[https://youtu.be/2XtudCa0Vpk?si=Lsf_jXFK3uhw1ebF&t=655](%22https://youtu.be/2XtudCa0Vpk?si=Lsf_jXFK3uhw1ebF&t=655%22)"]
+citations = ["https://youtu.be/0l6-6ewuY70?si=bQxFDYb6kqSK55V0&t=1545","https://youtu.be/2XtudCa0Vpk?si=Lsf_jXFK3uhw1ebF&t=655"]
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "nvIdF5sT7iAlxfiRe6ZD.avif"
 unitsProduced = "2"

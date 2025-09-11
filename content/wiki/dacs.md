@@ -6,7 +6,7 @@ categories = ["Disney Parks"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://archive.org/details/paradiseprogramt0000hade/page/246/mode/2up?q=DACS+animatronic](%22https://archive.org/details/paradiseprogramt0000hade/page/246/mode/2up?q=DACS+animatronic%22)","[https://archive.org/details/mis-newsbreak-v-01-n-02-1979-08/page/n3/mode/2up?q=DACS+animatronic](%22https://archive.org/details/mis-newsbreak-v-01-n-02-1979-08/page/n3/mode/2up?q=DACS+animatronic%22)","","[https://archive.org/details/computersdatapro0000mand/page/444/mode/2up?q=dacs](%22https://archive.org/details/computersdatapro0000mand/page/444/mode/2up?q=dacs%22)","[https://www.disneydocs.net/_files/ugd/5db718_cdd7e71d2eec476d80099e1ed01d216f.pdf](%22https://www.disneydocs.net/_files/ugd/5db718_cdd7e71d2eec476d80099e1ed01d216f.pdf%22)"]
+citations = ["https://archive.org/details/paradiseprogramt0000hade/page/246/mode/2up?q=DACS+animatronic","https://archive.org/details/mis-newsbreak-v-01-n-02-1979-08/page/n3/mode/2up?q=DACS+animatronic","","https://archive.org/details/computersdatapro0000mand/page/444/mode/2up?q=dacs","https://www.disneydocs.net/_files/ugd/5db718_cdd7e71d2eec476d80099e1ed01d216f.pdf"]
 pageThumbnailFile = "aj2ghfZfCCtAnWrKI4uC.avif"
 +++
 The ***Digital Animation Computer System (DACS)* was an animatronic programming and control system that debuted on October 1, 1971 for the Magic Kingdom located in the utilidors area directly under the *Mickey Mouse Revue* (Now *Mickey's Philhar Magic)*.https://archive.org/details/popularelectroni02unse_0/page/46/mode/2up?q=DACS+animatronic

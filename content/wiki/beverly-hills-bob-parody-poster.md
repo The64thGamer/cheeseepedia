@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1988-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]
-citations = ["[https://creativeengineering.bigcartel.com/](%22https://creativeengineering.bigcartel.com/%22)"]
+citations = ["https://creativeengineering.bigcartel.com/"]
 pageThumbnailFile = "znPRSr3ZhGSyXsPlK5RK.avif"
 +++
 The ***Beverly Hills Bob* was a poster created for ShowBiz Pizza and Chuck E. Cheese's in *1988*.**

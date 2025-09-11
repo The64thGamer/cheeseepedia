@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2022-07-16"
 endDate = "2022-8-28"
 contributors = ["The 64th Gamer"]
-citations = ["[https://comicbook.com/irl/news/chuck-e-cheese-debuts-the-shark-cupcake-in-time-for-shark-week-summer-of-fun/](%22https://comicbook.com/irl/news/chuck-e-cheese-debuts-the-shark-cupcake-in-time-for-shark-week-summer-of-fun/%22)","[https://www.chuckecheese.com/blogs/food/shark-cupcake/](%22https://www.chuckecheese.com/blogs/food/shark-cupcake/%22)"]
+citations = ["https://comicbook.com/irl/news/chuck-e-cheese-debuts-the-shark-cupcake-in-time-for-shark-week-summer-of-fun/","https://www.chuckecheese.com/blogs/food/shark-cupcake/"]
 pageThumbnailFile = "9s126GzLf1n1XvZ_sJ_n.avif"
 +++
 The ***Shark Cupcake* was a limited time dessert item at Chuck E. Cheese locations as part of the *Summer of Fun 2022* seasonal event.<sup>(1)</sup>

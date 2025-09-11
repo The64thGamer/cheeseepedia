@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2023-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/IPE23-Sample-Attendee-List.pdf](%22https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/IPE23-Sample-Attendee-List.pdf%22)","[https://www.linkedin.com/posts/cec-entertainment_internationalpizzaexpo-awards-thankyou-activity-7046834396171046912-Z0Zi?utm_source=share&utm_medium=member_desktop](%22https://www.linkedin.com/posts/cec-entertainment_internationalpizzaexpo-awards-thankyou-activity-7046834396171046912-Z0Zi?utm_source=share&utm_medium=member_desktop%22)","[https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/asset_file_1680635978.pdf](%22https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/asset_file_1680635978.pdf%22)"]
+citations = ["https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/IPE23-Sample-Attendee-List.pdf","https://www.linkedin.com/posts/cec-entertainment_internationalpizzaexpo-awards-thankyou-activity-7046834396171046912-Z0Zi?utm_source=share&utm_medium=member_desktop","https://ia902608.us.archive.org/12/items/ipe-23-sample-attendee-list/asset_file_1680635978.pdf"]
 pageThumbnailFile = "Txy9NB0P8lw6AJWvEgJP.avif"
 +++
 The ***2023 International Pizza Expo & Conference* was an expo CEC Entertainment attended that was hosted at the *Las Vegas Convention Center* from March 28-30, 2023.**

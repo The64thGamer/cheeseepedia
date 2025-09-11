@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1981-00-00"
 endDate = "1983-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.youtube.com/watch?v=gjiR5vrAUCU&pp=ygUYc2hvd2JpeiBkaWFnbm9zdGljcyAxOTgx](%22https://www.youtube.com/watch?v=gjiR5vrAUCU&pp=ygUYc2hvd2JpeiBkaWFnbm9zdGljcyAxOTgx%22)"]
+citations = ["https://www.youtube.com/watch?v=gjiR5vrAUCU&pp=ygUYc2hvd2JpeiBkaWFnbm9zdGljcyAxOTgx"]
 pageThumbnailFile = "JQ0BdWPl2xhYVJASqLrd.avif"
 alsoKnownAs = ["BEACH BEAR"]
 +++

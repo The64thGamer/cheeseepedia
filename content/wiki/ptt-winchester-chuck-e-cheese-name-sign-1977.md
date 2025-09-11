@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
-citations = ["[https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 +++
 The ***Winchester Chuck E. Cheese Nameplate* was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; for the purpose of identifying the {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} from 1977 to 1980.**
 

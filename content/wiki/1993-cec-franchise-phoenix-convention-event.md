@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["Testimony from a franchisee of the Phoenix and Mesa ShowBiz locations.","[https://youtu.be/2OHgZnUj0kU](%22https://youtu.be/2OHgZnUj0kU%22)"]
+citations = ["Testimony from a franchisee of the Phoenix and Mesa ShowBiz locations.","https://youtu.be/2OHgZnUj0kU"]
 downloadLinks = ["https://archive.org/download/helenhenny/IMG_7823.mp4|Audio Rip 'Escapade' by Helen Henny"]
 pageThumbnailFile = "0vT3q3zOwSil3y145xNi.avif"
 +++

@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]
-citations = ["[https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf](%22https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf%22)","[https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf](%22https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf%22)"]
+citations = ["https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf","https://ia902301.us.archive.org/11/items/phase-3-design-refinement/Phase%203%20Design%20Refinement.pdf"]
 pageThumbnailFile = "OWvd6Mq5Z7miqoBbAVap.avif"
 +++
 The ***Star Stage* was a prototype stage show installed in the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} store that was meant to update the Studio C Shows to the current generation.**

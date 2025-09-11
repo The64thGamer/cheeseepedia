@@ -4,7 +4,7 @@ title = "Chuck E. Cheese Metaverse"
 startDate = "2022-00-00"
 endDate = "2022-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://tsdr.uspto.gov/#caseNumber=97272747&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch](%22https://tsdr.uspto.gov/#caseNumber=97272747&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch%22)", "[https://tsdr.uspto.gov/#caseNumber=97272754&caseType=SERIAL_NO&searchType=statusSearch](%22https://tsdr.uspto.gov/#caseNumber=97272754&caseType=SERIAL_NO&searchType=statusSearch%22)"]
+citations = ["https://tsdr.uspto.gov/#caseNumber=97272747&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch", "https://tsdr.uspto.gov/#caseNumber=97272754&caseType=SERIAL_NO&searchType=statusSearch"]
 tags = ["Video Games"]
 categories = ["Chuck E. Cheese's"]
 +++

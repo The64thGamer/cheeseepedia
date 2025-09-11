@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-11-25"
 endDate = "1983-12-25"
 contributors = ["The 64th Gamer"]
-citations = ["","","[https://www.youtube.com/watch?v=DRM3k-AOTVI](%22https://www.youtube.com/watch?v=DRM3k-AOTVI%22)","[https://www.newspapers.com/image/130775534/?terms=%22Santa%20on%20Stage%22%20%22ShowBiz%22&match=1](%22https://www.newspapers.com/image/130775534/?terms=%22Santa%20on%20Stage%22%20%22ShowBiz%22&match=1%22)","Country Klunk tape filmed there. ","Store had Klunk Valves under the stage.","[https://www.newspapers.com/article/quad-city-times/56630231/](%22https://www.newspapers.com/article/quad-city-times/56630231/%22)"]
+citations = ["","","https://www.youtube.com/watch?v=DRM3k-AOTVI","https://www.newspapers.com/image/130775534/?terms=%22Santa%20on%20Stage%22%20%22ShowBiz%22&match=1","Country Klunk tape filmed there. ","Store had Klunk Valves under the stage.","https://www.newspapers.com/article/quad-city-times/56630231/"]
 pageThumbnailFile = "498t3jtg093j34ijt.avif"
 +++
 Santa On Stage was an event that reused the Uncle Klunk animatronic as Santa for a showtape lasting from November 25, 1983 to December 25, 1983.

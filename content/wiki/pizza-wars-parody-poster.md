@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 startDate = "1988-00-00"
 endDate = "2019-00-00"
 contributors = ["ThatBoiCydalan","BurgersNuggs445"]
-citations = ["[https://creativeengineering.bigcartel.com/](%22https://creativeengineering.bigcartel.com/%22)","[https://filmartgallery.com/products/star-wars-9859](%22https://filmartgallery.com/products/star-wars-9859%22)","[https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf](%22https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf%22)"]
+citations = ["https://creativeengineering.bigcartel.com/","https://filmartgallery.com/products/star-wars-9859","https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf"]
 +++
 **Pizza Wars** was a poster created for *ShowBiz Pizza* and *Chuck E. Cheese's* in *1988*.
 

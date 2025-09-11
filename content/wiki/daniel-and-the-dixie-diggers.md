@@ -4,7 +4,7 @@ title = "Daniel and the Dixie Diggers"
 startDate = ""
 endDate = ""
 contributors = ["BigCtheDataFinder", "The 64th Gamer", "Wizington"]
-citations = ["[https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend](%22https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend%22)", "[https://youtu.be/DqUgmo5Gl_4?si=BHQf8bIeFGe4h9pr](%22https://youtu.be/DqUgmo5Gl_4?si=BHQf8bIeFGe4h9pr%22)"]
+citations = ["https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend", "https://youtu.be/DqUgmo5Gl_4?si=BHQf8bIeFGe4h9pr"]
 tags = ["Animatronic Shows"]
 categories = ["Sally Corporation"]
 +++

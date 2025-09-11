@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","CEC Tinley","GuestIsJustBest","Stripes"]
-citations = ["[http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html](%22http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html%22)","[https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf%22)","[https://archive.org/details/atariincbusiness0000gold/page/334/mode/2up?q=notalog](%22https://archive.org/details/atariincbusiness0000gold/page/334/mode/2up?q=notalog%22)"]
+citations = ["http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html","https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf","https://archive.org/details/atariincbusiness0000gold/page/334/mode/2up?q=notalog"]
 +++
 ***NOTALOG* was a order callout system for the first *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, created by Ted Dabney at the request of Nolan Bushnell sometime after 1979.<sup>(1)(2)</sup>**
 

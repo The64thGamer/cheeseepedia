@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Palazzol"]
-citations = ["[https://www.youtube.com/watch?v=EdKLsomLbtY&feature=youtu.be](%22https://www.youtube.com/watch?v=EdKLsomLbtY&feature=youtu.be%22)","[https://web.archive.org/web/20200226201702if_/https://www.spttechsupport.com/uploads/6/9/3/7/69377421/68hc11_cpu_manual.pdf](%22https://web.archive.org/web/20200226201702if_/https://www.spttechsupport.com/uploads/6/9/3/7/69377421/68hc11_cpu_manual.pdf%22)","[https://raw.githubusercontent.com/palazzol/CyberamicControlCenter/master/firmware/M6502/HalfAChuck%20-%20no%20label/halfchuck.rst](%22https://raw.githubusercontent.com/palazzol/CyberamicControlCenter/master/firmware/M6502/HalfAChuck%20-%20no%20label/halfchuck.rst%22)","[https://reel-reel.com/tape-recorder/teac-x-7x-7r/](%22https://reel-reel.com/tape-recorder/teac-x-7x-7r/%22)"]
+citations = ["https://www.youtube.com/watch?v=EdKLsomLbtY&feature=youtu.be","https://web.archive.org/web/20200226201702if_/https://www.spttechsupport.com/uploads/6/9/3/7/69377421/68hc11_cpu_manual.pdf","https://raw.githubusercontent.com/palazzol/CyberamicControlCenter/master/firmware/M6502/HalfAChuck%20-%20no%20label/halfchuck.rst","https://reel-reel.com/tape-recorder/teac-x-7x-7r/"]
 downloadLinks = ["https://archive.org/download/cyberamic-1.6-r-12-27-c-256/Cyberamic_1.6_R12_27C256.BIN|256Kbit VHS Random Movements EPROM v.1.6"]
 pageThumbnailFile = "Eoy0bZZfZjyorXT5rLPH.avif"
 +++

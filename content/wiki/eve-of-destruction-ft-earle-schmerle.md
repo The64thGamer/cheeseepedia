@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "2013-06-28"
 endDate = "2020-00-00"
 contributors = ["The 64th Gamer","Cy's Junk at School"]
-citations = ["[https://en.wikipedia.org/wiki/Eve_of_Destruction_(song)#cite_note-15](%22https://en.wikipedia.org/wiki/Eve_of_Destruction_(song)#cite_note-15%22)","[https://youtu.be/nc4hVWymep8](%22https://youtu.be/nc4hVWymep8%22)","Photo in Gallery section."]
+citations = ["https://en.wikipedia.org/wiki/Eve_of_Destruction_(song)#cite_note-15#cite_note-15%22)","https://youtu.be/nc4hVWymep8","Photo in Gallery section."]
 pageThumbnailFile = "cAWfeSvgpO9NSvlZ0VFt.avif"
 showtapeFormats = ["CEI .wav Files"]
 +++

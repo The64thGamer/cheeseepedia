@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1983-07-14"
 endDate = "1985-12-00"
 contributors = ["Himitsu","Ls2018"]
-citations = ["[https://www.youtube.com/watch?v=LuVkdX92UEM](%22https://www.youtube.com/watch?v=LuVkdX92UEM%22)"]
+citations = ["https://www.youtube.com/watch?v=LuVkdX92UEM"]
 +++
 The **Uncle Klunk Controller** is a hardware system used to control Uncle Klunk after his installation in some ShowBiz Pizza Place locations.
 

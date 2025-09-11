@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["Concordio","Ptt1977","PizzaEntertainmentFanX"]
-citations = ["[https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf](%22https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf"]
 +++
 The ***Kooser* ***Mr. Munch's Magic Madhouse* sign was a store fixture used at the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 until it's removal in May 1980 when Kooser got the first {{< wiki-link "Cyberamics Balcony Stage" >}} or possibly during the remodel Kooser went through in the late 80's.****
 

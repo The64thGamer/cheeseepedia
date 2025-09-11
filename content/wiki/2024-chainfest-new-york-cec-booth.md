@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2024-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://ny.chainfest.com/](%22https://ny.chainfest.com/%22)","[https://www.tixr.com/groups/chainfest/events/chainfest-nyc-2024-112982](%22https://www.tixr.com/groups/chainfest/events/chainfest-nyc-2024-112982%22)"]
+citations = ["https://ny.chainfest.com/","https://www.tixr.com/groups/chainfest/events/chainfest-nyc-2024-112982"]
 +++
 ***ChainFest New York 2024* is an upcoming festival of brands attended by {{< wiki-link "Chuck E Cheese" >}} where a booth offering free games and potentially food will be held on September 21, 2024.**
 

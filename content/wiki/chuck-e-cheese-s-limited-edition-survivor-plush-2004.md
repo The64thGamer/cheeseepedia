@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2004-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf"]
 +++
 The ***Limited Edition Survivor Chuck E.* was an official product produced for prize counters in *2004.***
 

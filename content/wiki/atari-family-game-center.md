@@ -5,7 +5,7 @@ startDate = "1974-04-00"
 endDate = "1975-00-00"
 pageThumbnailFile = "pQ0JmYG79MyhuqRDlbwr.avif"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.ataricompendium.com/archives/documents/press_kits/atari_leisure_time_game_center.pdf](%22https://www.ataricompendium.com/archives/documents/press_kits/atari_leisure_time_game_center.pdf%22)", "[https://www.newspapers.com/image/717528185/?match=1&terms=atari%20game%20center](%22https://www.newspapers.com/image/717528185/?match=1&terms=atari%20game%20center%22)", "[https://mcurrent.name/atarihistory/syzygy.html](%22https://mcurrent.name/atarihistory/syzygy.html%22)", "[https://flyers.arcade-museum.com/videogames/show/5730#gallery](%22https://flyers.arcade-museum.com/videogames/show/5730#gallery%22)"]
+citations = ["https://www.ataricompendium.com/archives/documents/press_kits/atari_leisure_time_game_center.pdf", "https://www.newspapers.com/image/717528185/?match=1&terms=atari%20game%20center", "https://mcurrent.name/atarihistory/syzygy.html", "https://flyers.arcade-museum.com/videogames/show/5730#gallery"]
 tags = ["Restaurants/FECs"]
 categories = ["Pizza Time Theatre"]
 +++

@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place","Creative Engineering"]
 startDate = "1988-00-00"
 endDate = "2019-00-00"
 contributors = ["BurgersNuggs445"]
-citations = ["[https://creativeengineering.bigcartel.com/](%22https://creativeengineering.bigcartel.com/%22)","[https://en.wikipedia.org/wiki/Tootsie](%22https://en.wikipedia.org/wiki/Tootsie%22)"]
+citations = ["https://creativeengineering.bigcartel.com/","https://en.wikipedia.org/wiki/Tootsie"]
 pageThumbnailFile = "yvtYXXXtNEV9H6lRprcm.avif"
 +++
 The ***Mitzie* was a poster created for *ShowBiz Pizza* and *Chuck E. Cheese's* in *1988*.**

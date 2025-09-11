@@ -6,7 +6,7 @@ categories = []
 startDate = ""
 endDate = ""
 contributors = ["Maddox121","Midwestretail","The 64th Gamer","CEC Tinley"]
-citations = ["[https://www.youtube.com/watch?v=IYwu8o33isA](%22https://www.youtube.com/watch?v=IYwu8o33isA%22)"]
+citations = ["https://www.youtube.com/watch?v=IYwu8o33isA"]
 pageThumbnailFile = "zm8b3lnuyijgFmnuuw8Z.avif"
 +++
 ***Hang in There Howie* is a {{< wiki-link "Pizza Time Theatre" >}} commercial that aired around Summer of 1982**

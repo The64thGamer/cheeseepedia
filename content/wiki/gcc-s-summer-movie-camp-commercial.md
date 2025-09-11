@@ -6,7 +6,7 @@ categories = []
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.ebay.com/itm/185501904793?hash=item2b30c66f99:g:aKoAAOSwHvxi0Zh8](%22https://www.ebay.com/itm/185501904793?hash=item2b30c66f99:g:aKoAAOSwHvxi0Zh8%22)"]
+citations = ["https://www.ebay.com/itm/185501904793?hash=item2b30c66f99:g:aKoAAOSwHvxi0Zh8"]
 pageThumbnailFile = "eJmSAmHn0MRmymCYRf1Z.avif"
 +++
 The ***General Cinema Corporation's Summer Movie Camp Commercial* is a lost Chuck E. Cheese's commercial advertising the 2001 Summer Movie Camp deal at select movie theatre locations.

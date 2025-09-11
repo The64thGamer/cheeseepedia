@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-03-01"
 endDate = "1983-03-31"
 contributors = ["The 64th Gamer"]
-citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1","[https://www.newspapers.com/article/the-orlando-sentinel/38961484/](%22https://www.newspapers.com/article/the-orlando-sentinel/38961484/%22)","[https://www.newspapers.com/article/the-bradenton-herald/96323786/](%22https://www.newspapers.com/article/the-bradenton-herald/96323786/%22)"]
+citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1","https://www.newspapers.com/article/the-orlando-sentinel/38961484/","https://www.newspapers.com/article/the-bradenton-herald/96323786/"]
 pageThumbnailFile = "XMr0U9uy5CGj9XS5jy1Z.avif"
 +++
 ***Crazy Colander Head Night* (AKA ***Colander Night* and ***Colander-Head Nite*) was a massive event held at participating ShowBiz Pizza Place locations throughout March of 1983.The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1

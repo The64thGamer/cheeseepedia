@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["ToadEatSock","BurgersNuggs445","216.125.34.66","Tux Chuck"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 pageThumbnailFile = "IjOSJDutGuX6rSeSWAx4.avif"
 +++
 The **1996 Large Helen Plush** was an official product produced for the Prize counters in 1996 by Dennis Foland. Inc.

@@ -6,7 +6,7 @@ categories = ["Creative Presentations"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Lelmaster","Newbie editor"]
-citations = ["[https://www.newspapers.com/article/the-capital-times-cpi-waldo-show/141756976/](%22https://www.newspapers.com/article/the-capital-times-cpi-waldo-show/141756976/%22)"]
+citations = ["https://www.newspapers.com/article/the-capital-times-cpi-waldo-show/141756976/"]
 pageThumbnailFile = "9dGiLDMxd6BiJ8gr7fsd.avif"
 manufacturer = "Creative Presentations Inc"
 +++

@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[http://www.showbizpizza.com/rae/characters/fatz.html](%22http://www.showbizpizza.com/rae/characters/fatz.html%22)"]
+citations = ["http://www.showbizpizza.com/rae/characters/fatz.html"]
 +++
 The ***Save The Colander Telethon* is a video tape sent to ShowBiz Pizza Place stores in February of 1983 with their {{< wiki-link "Crazy Colander Head Night (Event)" >}} package.
 The tape is 01:23:48 long, and mostly contains the telethon segment, while also containing a colander installation tape for the animatronic characters during the event.**

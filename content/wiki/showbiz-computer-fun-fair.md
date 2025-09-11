@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer"]
-citations = ["[https://uspto.report/TM/73414137](%22https://uspto.report/TM/73414137%22)","[https://www.newspapers.com/article/the-record/81680985/](%22https://www.newspapers.com/article/the-record/81680985/%22)",""]
+citations = ["https://uspto.report/TM/73414137","https://www.newspapers.com/article/the-record/81680985/",""]
 pageThumbnailFile = "YoXWv8GInnEF9YVlawgx.avif"
 +++
 The ***ShowBiz Computer Fun Fair* was an arcade machine present in {{< wiki-link "ShowBiz Pizza Place" >}} restaurants sometime around 1982-1983.<sup>(1)(2)</sup>**

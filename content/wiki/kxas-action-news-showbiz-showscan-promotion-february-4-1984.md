@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1984-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://youtu.be/-18SLJ6EXq0](%22https://youtu.be/-18SLJ6EXq0%22)","[https://en.wikipedia.org/wiki/Bobbie_Wygant](%22https://en.wikipedia.org/wiki/Bobbie_Wygant%22)"]
+citations = ["https://youtu.be/-18SLJ6EXq0","https://en.wikipedia.org/wiki/Bobbie_Wygant"]
 +++
 The ***KXAS Action News ShowBiz ShowScan Promotion* is a February 4, 1984 news segment for an *KXAS -TV Action News* promoting the unveiling of [Showscan's](https://en.wikipedia.org/wiki/Showscan) short film 'New Magic' at the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} ShowBiz Pizza Place.<sup>(1)</sup>**
 

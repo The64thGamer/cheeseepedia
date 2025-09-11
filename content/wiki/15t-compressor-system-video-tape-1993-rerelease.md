@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.instagram.com/p/CeR2CTnp5M36Rgnnrjn2mYNL80CaKGXCUaWYvY0/](%22https://www.instagram.com/p/CeR2CTnp5M36Rgnnrjn2mYNL80CaKGXCUaWYvY0/%22)"]
+citations = ["https://www.instagram.com/p/CeR2CTnp5M36Rgnnrjn2mYNL80CaKGXCUaWYvY0/"]
 pageThumbnailFile = "YbPEknvGqcHDvbFDXDzk.avif"
 mediaDuration = "1:11:27"
 +++

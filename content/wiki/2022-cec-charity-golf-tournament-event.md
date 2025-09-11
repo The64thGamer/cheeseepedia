@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.chuckegolf.org/](%22https://www.chuckegolf.org/%22)"]
+citations = ["https://www.chuckegolf.org/"]
 +++
 The ***2022 CEC Charity Golf Tournament* was a multi-round event held on May 10, 2022 at the *Texas Star Golf Course* (1400 Texas Star Pkwy, Euless, TX 76040) for raising funds towards CEC related charities.**
 

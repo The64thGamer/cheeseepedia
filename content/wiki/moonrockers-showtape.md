@@ -5,7 +5,7 @@ startDate = "1985-11-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "1N01ZciX8nb42OiHJVtw.avif"
 contributors = ["The 64th Gamer", "TrainManAndy", "46.151.20.13", "Ls2018"]
-citations = ["[https://youtu.be/5esiODZwv1o?feature=shared](%22https://youtu.be/5esiODZwv1o?feature=shared%22)", "[A snapshot of the Youtube Video on the Wayback Machine](%22https://web.archive.org/web/20240125044306/https://www.youtube.com/watch?v=zrhq-dX56sw%22) "]
+citations = ["https://youtu.be/5esiODZwv1o?feature=shared", "[A snapshot of the Youtube Video on the Wayback Machine](%22https://web.archive.org/web/20240125044306/https://www.youtube.com/watch?v=zrhq-dX56sw%22) "]
 showtapeFormats = ["CEI 4-Track Reel"]
 tags = ["Showtapes"]
 categories = ["Creative Engineering"]

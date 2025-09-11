@@ -6,12 +6,12 @@ categories = ["Pasqually's Pizza & Wings"]
 pageThumbnailFile = "ipoifadsifuqewrh.avif"
 startDate = "2020-07-08"
 endDate = "2021-11-00"
-citations = ["[https://www.pasquallyspizza.com/press/press-release-2/](%22https://www.pasquallyspizza.com/press/press-release-2/%22)",
-"[https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu](%22https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu%22)",
-"[https://web.archive.org/web/20210302233925/https://www.pasquallyspizza.com/menu/](%22https://web.archive.org/web/20210302233925/https://www.pasquallyspizza.com/menu/%22)",
-"[https://www.pasquallyspizza.com/press/pasquallys-delivers-on-flavor-this-holiday-season-with-three-new-holiday-bundles](%22https://www.pasquallyspizza.com/press/pasquallys-delivers-on-flavor-this-holiday-season-with-three-new-holiday-bundles%22)",
-"[https://web.archive.org/web/20211207063027/https://www.pasquallyspizza.com/menu/](%22https://web.archive.org/web/20211207063027/https://www.pasquallyspizza.com/menu/%22)",
-"[https://web.archive.org/web/20220328094430/https://www.pasquallyspizza.com/menu/](%22https://web.archive.org/web/20220328094430/https://www.pasquallyspizza.com/menu/%22)"]
+citations = ["https://www.pasquallyspizza.com/press/press-release-2/",
+"https://web.archive.org/web/20200731200055/https://www.pasquallyspizza.com/menu",
+"https://web.archive.org/web/20210302233925/https://www.pasquallyspizza.com/menu/",
+"https://www.pasquallyspizza.com/press/pasquallys-delivers-on-flavor-this-holiday-season-with-three-new-holiday-bundles",
+"https://web.archive.org/web/20211207063027/https://www.pasquallyspizza.com/menu/",
+"https://web.archive.org/web/20220328094430/https://www.pasquallyspizza.com/menu/"]
 contributors = ["Front-Row-Joe"]
 prices = ["$3|2020-07-08"]
 +++

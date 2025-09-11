@@ -4,7 +4,7 @@ title = "PTT Training Center & Test Kitchen"
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-3.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-3.pdf%22)", "[http://csjpbce.sanjoseca.gov/terms/conditionspage.asp?DocumentID=3536245](%22http://csjpbce.sanjoseca.gov/terms/conditionspage.asp?DocumentID=3536245%22)", "[https://www.tapatalk.com/groups/retro_pizza_zone/the-really-big-epic-ptt-find-and-trip-t4727.html](%22https://www.tapatalk.com/groups/retro_pizza_zone/the-really-big-epic-ptt-find-and-trip-t4727.html%22)", "[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf%22)", "[https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf](%22https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-3.pdf", "http://csjpbce.sanjoseca.gov/terms/conditionspage.asp?DocumentID=3536245", "https://www.tapatalk.com/groups/retro_pizza_zone/the-really-big-epic-ptt-find-and-trip-t4727.html", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++

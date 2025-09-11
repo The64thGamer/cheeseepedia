@@ -6,7 +6,7 @@ categories = ["Sally Corporation"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BigCtheDataFinder"]
-citations = ["[https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1](%22https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1%22)","[https://www.youtube.com/watch?v=54vKJlAx3yY](%22https://www.youtube.com/watch?v=54vKJlAx3yY%22)","[https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size](%22https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size%22)"]
+citations = ["https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1","https://www.youtube.com/watch?v=54vKJlAx3yY","https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size"]
 pageThumbnailFile = "6wdhfAESZdY2ob8eZ9_i.avif"
 +++
 ***Sally at The Piano* was a single-animatronic show produced by ***Sally Industries* in 1983.****
