@@ -7,6 +7,7 @@ startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Himitsu"]
 citations = ["http://www.ebay.com/itm/Rare-Chuck-E-Cheese-Electric-Pizza-Arcade-Game-/190847574335?pt=LH_DefaultDomain_0&hash=item2c6f66e13f#ht_874wt_1141\","https://www.ebay.com/usr/crazyforet?_trksid=p2047675.l2559\","https://www.ebay.com/itm/190864511131?ViewItem=&item=190864511131#cvip_desc\","https://www.worthpoint.com/worthopedia/chuck-cheese-electric-pizza-arcade-459660834"]
+pageThumbnailFile = "Electric_Pizza_Front.avif"
 +++
 
 ***Electric Pizza*** is an obscure *Pizza Time Theatre* arcade game from the early days of the company. Only a few of the cabinets were ever produced, and allegedly the only one ever seen was possibly a hand-built prototype. The gameplay presumably consists of pressing the 3 colored buttons seen on the machine and hand cranking its wheel. These would most likely be done per instructions on-screen, or mashed as hard as possible. The objective of the game would be to create a pizza. There is no ticket dispenser on the machine, meaning it most likely scored the player on how well their pizza was made. A high score board is also likely to have been displayed.
