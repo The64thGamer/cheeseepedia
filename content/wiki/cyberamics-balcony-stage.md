@@ -61,7 +61,7 @@ The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-li
 
 #### Main Stage/Center Stage
 
-The 'Main Stage' (Nicknamed The 'Center Stage') was the area used for {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}, {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}, & {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. The area was placed over there middle of the Cheese-Crawl. The area would have Signage with the names of the characters placed. The area would have a Showtape specific Backdrop. The area would have Chuck's spot have an outward Balcony, with the rest of the character spots having no outward Balcony. The characters where placed like this, Jasper (Left), Chuck E. (Right), & The Guest Star (Right), though Jasper & The Guest Star would be in switched spots in the Showboat stage.
+The 'Main Stage' (Nicknamed The 'Center Stage') was the area used for {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}, {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}, & {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}. The area was placed over there middle of the Cheese-Crawl. The area would have Signage with the names of the characters placed. The area would have a Showtape specific Backdrop. The area would have Chuck's spot have an outward Balcony, with the rest of the character spots having no outward Balcony. The characters where placed like this, Jasper (Left), Chuck E. (Right), & The Guest Star (Right), though Jasper & The Guest Star would be in switched spots in the Showboat stage.
 
 #### Pasqually Stage/Right Stage
 

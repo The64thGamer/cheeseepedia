@@ -12,7 +12,7 @@ citations = []
 pageThumbnailFile = "RJYUhN6CA1aPftITsXSG.avif"
 +++
 
-***Lion*** (also known as ***The Lion***) was a retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone &amp; Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.
+***Lion*** (also known as ***The Lion***) was a retrofit of {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone &amp; Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.
 
 ## History
 

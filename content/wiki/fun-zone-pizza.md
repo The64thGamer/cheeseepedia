@@ -35,5 +35,5 @@ Fun Zone &amp; Pizza was created after Chico Lost it's license to the CEC IP. Th
 | Name                                                     | Installed First | Removed Last | Notes                                                |
 |----------------------------------------------------------|-----------------|--------------|------------------------------------------------------|
 | {{< wiki-link "Dog (Mr Munch Retrofit)" >}}        | 1982            | 2011         | {{< wiki-link "Mr Munch (Cyberamic)" >}}       |
-| {{< wiki-link "Lion (Jasper T Jowls Retrofit)" >}} | 1982            | 2011         | {{< wiki-link "Jasper T Jowls (Cyberamic)" >}} |
+| {{< wiki-link "Lion (Jasper T Jowls Retrofit)" >}} | 1982            | 2011         | {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}} |
 | {{< wiki-link "Cow (Pasqually Retrofit)" >}}       | 1982            | 2011         | {{< wiki-link "Pasqually (Cyberamic)" >}}      |

@@ -22,10 +22,10 @@ The final store to open with Cyberamics would be {{< wiki-link "Mentor, OH (8000
 The main five animatronics would all use a standardized head and body mech for generous usage of parts. Each bot was internally distinct by their arm mechs, eye color, eyelid color, and whether they had a head up movement. The *Guest Star* animatronic would have its costume swapped out to become different characters over time.
 
 - Chuck E. Cheese (Cyberamic)
-- {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}
+- {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
 - {{< wiki-link "Mr Munch (Cyberamic)" >}}
 - {{< wiki-link "Pasqually (Cyberamic)" >}}
-- {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}
+- {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
 
 Additional unique animatronics would be produced for entertainment around or near the main stage.
 
