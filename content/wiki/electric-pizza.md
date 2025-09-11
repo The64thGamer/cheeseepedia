@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Himitsu"]
-citations = ["http://www.ebay.com/itm/Rare-Chuck-E-Cheese-Electric-Pizza-Arcade-Game-/190847574335?pt=LH_DefaultDomain_0&hash=item2c6f66e13f#ht_874wt_1141\","https://www.ebay.com/usr/crazyforet?_trksid=p2047675.l2559\","https://www.ebay.com/itm/190864511131?ViewItem=&item=190864511131#cvip_desc\","https://www.worthpoint.com/worthopedia/chuck-cheese-electric-pizza-arcade-459660834"]
+citations = ["http://www.ebay.com/itm/Rare-Chuck-E-Cheese-Electric-Pizza-Arcade-Game-/190847574335?pt=LH_DefaultDomain_0&hash=item2c6f66e13f#ht_874wt_1141","https://www.ebay.com/usr/crazyforet?_trksid=p2047675.l2559","https://www.ebay.com/itm/190864511131?ViewItem=&item=190864511131#cvip_desc","https://www.worthpoint.com/worthopedia/chuck-cheese-electric-pizza-arcade-459660834"]
 pageThumbnailFile = "Electric_Pizza_Front.avif"
 +++
 
