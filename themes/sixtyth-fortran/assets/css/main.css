@@ -629,6 +629,28 @@ caption {
   }
 }
 
+.loading-text {
+  visibility: visible;
+  text-align: center;
+  margin-top: 1em;
+  color: var(--yellow);
+  letter-spacing: 1em;
+  animation: pulse-spacing 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse-spacing {
+  0% {
+    letter-spacing: 0.8em;
+  }
+  50% {
+    letter-spacing: 1.4em;
+  }
+  100% {
+    letter-spacing: 0.8em;
+  }
+}
+
+
 .article-video iframe{
   width: 100%;
   aspect-ratio: 16/9;

@@ -13,7 +13,7 @@
 
 
 {{- $pages := .Site.RegularPages -}}
-<div id="loadingText" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="loadingText" class="loading-text">Loading. . .</div>
 <div id="tagsContainer" style="visibility:hidden;">
   {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
   {{- range $pages -}}
