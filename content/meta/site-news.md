@@ -28,6 +28,8 @@ On April 30th, 2025, after discourse surrounding actions taken by Discord, an al
 
 On July 22nd, the entire wiki would have its article formats converted from HTML to Markdown to allow much easier editing. A live Markdown editor would also soon be included on Decap.
 
+On September 6th, the entirety of all articles tagged 'Location' would have their text wiped. This was due to a vast majority of the articles being old, outdated, uncited, and not within standards. Parameters for locations would be mass updated for better accuracy, and the articles would begin to be remade one by one.
+
 ### Changes Timeline
 
 #### 2021
