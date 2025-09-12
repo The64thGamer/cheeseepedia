@@ -10,6 +10,12 @@ gallery = []
 
 ## 2025
 
+- **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
+- **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists.
+- **August 14th-** Decap changed to remove 'live preview' and instead integrate the preview into the text-box itself.
+- **August 11th-** 'Sales' section added for articles to graph out second-hand sales data.
+- **August 10th-** 'cite' shortcode added.
+- **July 22nd-** All articles moved from HTML to Markdown.
 - **July 3rd-** Revolt server removed after low activity.
 - **May 26th-** Revolt and Discord server linked with a bridging bot, has many issues but begins efforts to sync both.
 - **May 24th-** CEP Discord server updated with new ticketing system and many changes to the server set it to be closer to the Revolt one.
