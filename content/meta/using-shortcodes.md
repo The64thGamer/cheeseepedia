@@ -4,6 +4,7 @@ draft= false
 tags = ["Meta"]
 categories = []
 contributors = ["The 64th Gamer"]
+citations = ["test citation"]
 +++
 Shortcodes are custom functions that can be run in Hugo that expand the default HTML capabilities. Currently these are only used to ease linking pages, but may be expanded in the future.
 

@@ -5,6 +5,7 @@ draft = false
 tags = ["Meta"]
 categories = []
 contributors = ["The 64th Gamer"]
+citations = ["test citation"]
 +++
 
 Parameters always start and end with `+++`. Each parameter is also case sensitive. The wiki has a file containing all the parameters [available here](https://github.com/The64thGamer/cheeseepedia/blob/main/archetypes/default.html). If you ever compile the site locally, this is automatically generated with every new article you make. It is extremely important to format parameters the way the wiki expects you to, or it will prevent the site from working.
