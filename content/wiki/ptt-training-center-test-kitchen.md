@@ -60,7 +60,7 @@ The Chuck E. Cheese Birthday Cake (PTT Menu Item)|Chuck E. Cheese Birthday Cake 
 
 ### Regionalized Products
 
-Regionalized pizza products are noted multiple times in the Test Kitchen's production, though it is unclear what changes were made across the US. The only regionalized product noted is the Hawaii location's Saimin (PTT Menu Item)|Saimin offer.{{< cite 0 >}}
+Regionalized pizza products are noted multiple times in the Test Kitchen's production, though it is unclear what changes were made across the US. The only regionalized product noted is the Hawaii location's Saimin (PTT Menu Item)|Saimin offer.{{< cite 1 >}}
 
 ### Children's Drink Programs
 
@@ -68,7 +68,7 @@ Children's drink programs are also noted as an ongoing development by 1982, thou
 
 ### Lunch Entrées
 
-Lunch entrées are another vague item noted as one of the things being worked on in 1982. The only entrée to fit the criteria would be the Chicken In A Basket (PTT Menu Item)|Chicken In A Basket item the came out in 1983.{{< cite 0 >}}
+Lunch entrées are another vague item noted as one of the things being worked on in 1982. The only entrée to fit the criteria would be the Chicken In A Basket (PTT Menu Item)|Chicken In A Basket item the came out in 1983.{{< cite 1 >}}
 
 ### Private Label Food Program
 
@@ -76,7 +76,7 @@ Additional standardization of menu ingredients would be made by making deals wit
 
 ### Sundae Package
 
-Referenced as early as June 1982, a 'proprietary dessert concept' would be in the works at the Test Kitchen.{{< cite 0 >}} This would become the new sundae package to replace the previous Soft Frozen Yogurt (PTT Menu Item)|Soft Frozen Yogurt menu item housed at stores. In early 1983 the new package would be sent to all stores, consisting of a new set of 3 sundae flavors in a universal cup design (Chocolate Sundae Cup (PTT Menu Item)|Chocolate Sundae Cup, Butterscotch Sundae Cup (PTT Menu Item)|Butterscotch Sundae Cup, and Strawberry Sundae Cup (PTT Menu Item)|Strawberry Sundae Cup). This cup also included a coin slot on the top lid, allowing it to be taken home and used as a PTT branded token bank.{{< cite 4 >}}
+Referenced as early as June 1982, a 'proprietary dessert concept' would be in the works at the Test Kitchen.{{< cite 1 >}} This would become the new sundae package to replace the previous Soft Frozen Yogurt (PTT Menu Item)|Soft Frozen Yogurt menu item housed at stores. In early 1983 the new package would be sent to all stores, consisting of a new set of 3 sundae flavors in a universal cup design (Chocolate Sundae Cup (PTT Menu Item)|Chocolate Sundae Cup, Butterscotch Sundae Cup (PTT Menu Item)|Butterscotch Sundae Cup, and Strawberry Sundae Cup (PTT Menu Item)|Strawberry Sundae Cup). This cup also included a coin slot on the top lid, allowing it to be taken home and used as a PTT branded token bank.{{< cite 4 >}}
 
 ## Staff
 

@@ -23,6 +23,6 @@ It is unknown the price of the item upon its release. By 1982 it would be priced
 - Cornichon Pickle
 - Small Potato Chips Bag
   - At the {{< wiki-link "Beaumont, TX (5874 Eastex Fwy)" >}} location, this was the Texas brand
-    *Morton's.{{< cite 0 >}}*
+    *Morton's.{{< cite 1 >}}*
 
 The item is served in a woven food basket on top of either deli paper or wax paper. A toppings bar was available which offered onions, piccalilli, horseradish, and mustard.

@@ -14,7 +14,7 @@ pageThumbnailFile = "6wdhfAESZdY2ob8eZ9_i.avif"
 ## Summary
 
 The show consisted of Piano Sally (Animatronic) performing songs on a piano. They have an 8 hour showtape consisting of playing the piano and singing.https://nydailynews.newspapers.com/image/487943410/?terms=Sally%20Piano&match=2{{< cite 1 >}}
-The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob In 1984 the lowest-end option would reduce in price to $21,000.{{< cite 0 >}}
+The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob In 1984 the lowest-end option would reduce in price to $21,000.{{< cite 1 >}}
 Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianocorder signals, another for Sally's voice track, and a third track for the animatronic {{< wiki-link "Data" >}}.
 
 ## Installed Locations

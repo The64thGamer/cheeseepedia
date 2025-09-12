@@ -19,7 +19,7 @@ During development, the show was originally going to be set for May of 1993, but
 
 ### Cut Song
 
-The original version of **Segment 2** was to start with *Do You Believe In Magic,* followed by the cut song *Pasqually Come Home*. The final version has *Feel the Rhythm* as the beginning song, which has transitional dialogue into *Do You Believe In Magic* not present in the cut version.{{< cite 0 >}}
+The original version of **Segment 2** was to start with *Do You Believe In Magic,* followed by the cut song *Pasqually Come Home*. The final version has *Feel the Rhythm* as the beginning song, which has transitional dialogue into *Do You Believe In Magic* not present in the cut version.{{< cite 1 >}}
 
 ## Show List
 

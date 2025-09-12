@@ -52,7 +52,7 @@ Despite the perceived thin appearance of the bird from expected angles, the inne
 
 ### Prototype Design
 
-The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.{{< cite 0 >}}
+The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.{{< cite 1 >}}
 
 ## Movements
 

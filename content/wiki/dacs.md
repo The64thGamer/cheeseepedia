@@ -50,14 +50,14 @@ TODO: Fill out rest of shows
 
 ### Magic Kingdom
 
-- Country Bear Jamboree - October 1, 1971{{< cite 0 >}}
-- Mickey Mouse Revue - October 1, 1971{{< cite 0 >}}
-- Hall of Presidents - October 1, 1971{{< cite 0 >}}
-- Haunted Mansion - October 1, 1971{{< cite 0 >}}
-- It's a Small World - October 1, 1971{{< cite 0 >}}
-- Peter Pan's Flight - October 1, 1971{{< cite 0 >}}
-- Sunshine Pavilion - October 1, 1971{{< cite 0 >}}
-- Flight to the Moon - December 24, 1971{{< cite 0 >}}
+- Country Bear Jamboree - October 1, 1971{{< cite 1 >}}
+- Mickey Mouse Revue - October 1, 1971{{< cite 1 >}}
+- Hall of Presidents - October 1, 1971{{< cite 1 >}}
+- Haunted Mansion - October 1, 1971{{< cite 1 >}}
+- It's a Small World - October 1, 1971{{< cite 1 >}}
+- Peter Pan's Flight - October 1, 1971{{< cite 1 >}}
+- Sunshine Pavilion - October 1, 1971{{< cite 1 >}}
+- Flight to the Moon - December 24, 1971{{< cite 1 >}}
 - Pirates of the Caribbean - December 15, 1973{{< cite 1 >}}
 - Carousel of Progress - January 15, 1975{{< cite 1 >}}
 - Jungle Cruise - (Unknown Renovation, before 1979){{< cite 1 >}}

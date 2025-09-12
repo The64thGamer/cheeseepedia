@@ -25,4 +25,4 @@ The cover would be uploaded some time before November 3rd, alongside more produc
 > **THE PERFECT GIFT** for kids of all ages, especially aspiring young chefs.
 > **BRING CHUCK E. CHEESE TO YOU:** With dozens of fun, tasty, easy-to-make recipes and QR codes to interactive videos, get all the fun of a Chuck E. Cheese without ever leaving home!
 > **FOR THE FANS:** Whether your favorite character is Munch or Helen Henny, the *Chuck E. Cheese and Friends Party Cookbook* features each and every rockin' character from Chuck E.'s awesome crew.
-> **DOZENS OF RECIPES:** From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!{{< cite 0 >}}
+> **DOZENS OF RECIPES:** From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!{{< cite 1 >}}

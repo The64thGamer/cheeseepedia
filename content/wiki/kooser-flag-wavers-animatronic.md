@@ -22,9 +22,9 @@ The Kooser Flag Wavers were installed at Kooser in Late 1978 & where there on th
 
 The Kooser Flag Wavers have several Flag Designs listed below:
 
-- American Flag{{< cite 0 >}}
-- Californian Flag{{< cite 0 >}}
-- Confederate Flag{{< cite 0 >}}
+- American Flag{{< cite 1 >}}
+- Californian Flag{{< cite 1 >}}
+- Confederate Flag{{< cite 1 >}}
 - Italian Flag (?)
 
 ## Movements

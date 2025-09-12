@@ -21,7 +21,7 @@ The PDP-11 is the computer running the {{< wiki-link "SongCode" >}} software. It
 
 ### ADM-3a
 
-The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.{{< cite 0 >}}
+The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.{{< cite 1 >}}
 A large black device with a PTT label is seen on the back of the ADM-3a, in a spot connected exactly to the unit's rear RS-232 expansion port. The expansion unit likely had custom hardware for tape data I/O, and potentially controlling the tape deck being programmed on.
 
 ### CEC Tester

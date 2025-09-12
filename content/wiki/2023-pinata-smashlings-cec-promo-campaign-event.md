@@ -64,7 +64,7 @@ All of the In-game Smashlings won at the prize wheel function exactly like stand
 
 ## CEC In-Store Event
 
-The current plans for the in-store event haven't been announced in detail. It is claimed there will be '...a range of exciting events, including product sampling weekends and an opportunity for fans to design their own Piñata Smashlings character.' Both product samplings have dates, but it is unknown when the character design portion of the event will take place.{{< cite 0 >}}
+The current plans for the in-store event haven't been announced in detail. It is claimed there will be '...a range of exciting events, including product sampling weekends and an opportunity for fans to design their own Piñata Smashlings character.' Both product samplings have dates, but it is unknown when the character design portion of the event will take place.{{< cite 1 >}}
 
 ### Product Samplings
 

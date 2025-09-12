@@ -15,7 +15,7 @@ The only location was located at {{< wiki-link "Lewisville, TX (1960 S Stemmons 
 ## History
 
 TJ Hartford's would begin as a concept within CEC Corporate to grow their restaurant business. As a juxtaposition to Chuck E. Cheese's children-centered marketing strategy, TJ's would appeal to an adult demographic by being a large contemporary dining restaurant- including a bar and multiple dozen TV's scattered throughout the building for sports entertainment. CEC Corporate considered TJ's to be '-a new expansion vehicle to compliment our future growth strategy'.https://web.archive.org/web/20020605030127/http://www.tjhartfords.com/company.html
-The company would be created as ***TJH Restaurant Group, Inc.* in 2001. The first location would open on October 1, 2001{{< cite 0 >}}, though another source also states September 2001- possibly a soft opening.{{< cite 2 >}} The restaurant would feature arcade games for additional entertainment, crafting special tokens for the machines. At some point the company would switch to quarters for play.{{< cite 3 >}}
+The company would be created as ***TJH Restaurant Group, Inc.* in 2001. The first location would open on October 1, 2001{{< cite 1 >}}, though another source also states September 2001- possibly a soft opening.{{< cite 2 >}} The restaurant would feature arcade games for additional entertainment, crafting special tokens for the machines. At some point the company would switch to quarters for play.{{< cite 3 >}}
 Plans to open a second TJ's in 2002 would be considered, but never materialized.{{< cite 4 >}}**
 
 ### Rebrand
@@ -28,12 +28,12 @@ By mid-June of 2004, the company would reduce the cost for playing its arcade ga
 
 ### Closure
 
-The store would close on February 17, 2008.{{< cite 0 >}} The location, its equipment, and its land would sell in April of 2008 for $1.3 million. In connection with the sale, a $0.8 million grain was also had with 'Other operating expenses'.{{< cite 8 >}}
+The store would close on February 17, 2008.{{< cite 1 >}} The location, its equipment, and its land would sell in April of 2008 for $1.3 million. In connection with the sale, a $0.8 million grain was also had with 'Other operating expenses'.{{< cite 8 >}}
 
 ## Corporate Staff
 
 - *Joe Elliott* - Director of Menu Development{{< cite 1 >}}
   - Former head of product development for T.G.I. Fridays
 - *Richard M. Frank* - Chairman & Chief Executive Officer{{< cite 1 >}}
-- *Jon M. Rice* - VP of Marketing{{< cite 0 >}}
+- *Jon M. Rice* - VP of Marketing{{< cite 1 >}}
   - Also the VP of Marketing for CEC itself, both lasting till 2005.

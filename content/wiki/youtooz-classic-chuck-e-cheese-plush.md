@@ -12,7 +12,7 @@ The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of {{< wiki-l
 
 ## History
 
-The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.{{< cite 0 >}}
+The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.{{< cite 1 >}}
 On July 10th, Youtooz would confirm in an AMA that the plush would be releasing in its own singular wave, and that more plushies were planned for the future.{{< cite 1 >}}
 On the 15th they would release a promotional advertisement for their various franchises in a parody poster of the movie *Shrek*. This would feature Chuck, *Monty Gator* from *Five Nights at Freddy's,* *Ramona Flowers* from *Scott Pilgrim*, and the V-tuber *Chibidoki.*{{< cite 2 >}}
 On the 16th they would confirm the plush would be shipping worldwide, being one of the few pieces of merchandise of its time to be directly available outside of the US.{{< cite 3 >}}

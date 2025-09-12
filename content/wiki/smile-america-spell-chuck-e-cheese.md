@@ -28,11 +28,11 @@ The prizes totaled $10 Million to be given away, though it is unclear which priz
 - Game Tokens{{< cite 1 >}}
 - Large Pizza{{< cite 1 >}}
 - Pitcher of Coke{{< cite 1 >}}
-- Home Computer{{< cite 0 >}}
-- Androbot. Inc, Topo I Robot{{< cite 0 >}}
-- Q-Bert Arcade Machine{{< cite 0 >}}
-- Cash Prize, $5000{{< cite 0 >}}
-- Cash Prize, $10,000{{< cite 0 >}}
+- Home Computer{{< cite 1 >}}
+- Androbot. Inc, Topo I Robot{{< cite 1 >}}
+- Q-Bert Arcade Machine{{< cite 1 >}}
+- Cash Prize, $5000{{< cite 1 >}}
+- Cash Prize, $10,000{{< cite 1 >}}
 
 ### Development
 

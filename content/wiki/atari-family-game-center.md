@@ -14,7 +14,7 @@ The arcades would exclusively house Atari arcade games, built with custom cabine
 
 ## Locations
 
-Only 5 stores are currently known to have existed, but it is stated that several were produced.{{< cite 0 >}}
+Only 5 stores are currently known to have existed, but it is stated that several were produced.{{< cite 1 >}}
 
 - {{< wiki-link "San Leandro, CA (E. 14th St. at 155th Ave.)" >}}
 - {{< wiki-link "San Jose, CA (2200 Eastridge Loop)" >}}

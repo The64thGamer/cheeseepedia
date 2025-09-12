@@ -16,16 +16,16 @@ The Bot was used from May 1977 up until either Winchester got {{< wiki-link "Cyb
 
 ## History
 
-The Winchester Flag Wavers were installed in May 1977 in the dining areahttps://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf (Contains the Thumbnail image & Broad Dining Area Shot.). They would wave along to the showtapes{{< cite 1 >}}. The Bot appeared in the 'The Great All-American Pizza Show' Brochure in 1979, where there referred to as just 'flags'{{< cite 0 >}}. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, or thrown out.
+The Winchester Flag Wavers were installed in May 1977 in the dining areahttps://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf (Contains the Thumbnail image & Broad Dining Area Shot.). They would wave along to the showtapes{{< cite 1 >}}. The Bot appeared in the 'The Great All-American Pizza Show' Brochure in 1979, where there referred to as just 'flags'{{< cite 1 >}}. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, or thrown out.
 
 ## Design
 
 The Winchester Flag Wavers had multiple Flag designs listed below:
 
-- American Flag{{< cite 0 >}}
-- California Flag{{< cite 0 >}}https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_7_June_1977/page/n1/mode/2uphttps://archive.org/details/atariincbusiness0000gold/page/348/mode/2up?q=theatre
-- Confederate Flag{{< cite 0 >}}
-- Italian Flag{{< cite 0 >}}
+- American Flag{{< cite 1 >}}
+- California Flag{{< cite 1 >}}https://archive.org/details/Atari_Coin_Connection_Volume_1_Number_7_June_1977/page/n1/mode/2uphttps://archive.org/details/atariincbusiness0000gold/page/348/mode/2up?q=theatre
+- Confederate Flag{{< cite 1 >}}
+- Italian Flag{{< cite 1 >}}
 
 ## Movements
 

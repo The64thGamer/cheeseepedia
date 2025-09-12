@@ -15,7 +15,7 @@ This remodel initiative is commonly and incorrectly referred to as {{< wiki-link
 ## History
 
 In their 1993 Annual Report, ShowBiz Pizza Time announced a growth in revenue but a slump in sales across existing restaurants as opposed to new locations. {{< cite 5 >}}
-At this time, the company finalized {{< wiki-link "Concept Unification" >}}, and adopted the "Chuck E. Cheese's" name for all locations, partnering with the J. Walter Thompson Agency of Chicago to roll out new and marketing campaigns in February 1994. In the report, the company expressed plans to introduce new games and rides in the fiscal year 1994, along with initiatives to update the guest experience through "a rework and upgrade of our prize merchandise area." {{< cite 0 >}}
+At this time, the company finalized {{< wiki-link "Concept Unification" >}}, and adopted the "Chuck E. Cheese's" name for all locations, partnering with the J. Walter Thompson Agency of Chicago to roll out new and marketing campaigns in February 1994. In the report, the company expressed plans to introduce new games and rides in the fiscal year 1994, along with initiatives to update the guest experience through "a rework and upgrade of our prize merchandise area." {{< cite 1 >}}
 ShowBiz Pizza Time also introduced many upgrades to the guest experience separate from the remodel initiative, which includes Kid Check, Toddler Zone, and the "phased" packages. However, it should be noted that the introduction and updates of these fixtures were not tied to the remodel initiative, and instead were upgraded on their own or introduced through a new store opening.
 
 ## Enhancements

@@ -10,13 +10,13 @@ citations = ["https://www.chuckecheese.com/terms-conditions/five-nights-terms/",
 pageThumbnailFile = "1SFP6s84hWCurbgDBhmK.avif"
 +++
 ***Five Nights of Fun* is an online and in-person event lasting from October 9th - October 13th, 2023, alongside ***Chuck E.'s Big Night of Fun* being held on October 27th.https://www.chuckecheese.com/five-nights-of-fun/
-For users who download the Chuck E. Cheese Rewards App for IOS and Android mobile devices, they would be able to enter in daily deals, alongside the possibility of winning a free party.{{< cite 0 >}}****
+For users who download the Chuck E. Cheese Rewards App for IOS and Android mobile devices, they would be able to enter in daily deals, alongside the possibility of winning a free party.{{< cite 1 >}}****
 
 ## Event Details
 
 ### Five Days of Deals
 
-For members that signed up for the Chuck E. Cheese Rewards App, they would receive deals for five days to be used in stores, being from October 9, - October 13th, 2023. It is currently unknown what each deal is.{{< cite 0 >}}
+For members that signed up for the Chuck E. Cheese Rewards App, they would receive deals for five days to be used in stores, being from October 9, - October 13th, 2023. It is currently unknown what each deal is.{{< cite 1 >}}
 
 1.  October 9 - allows customers to double their e-tickets up to 500 at the prize counter.
 2.  October 10 - Get 1000 E-Tickets with a minimum $10 purchase.

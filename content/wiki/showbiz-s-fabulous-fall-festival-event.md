@@ -48,27 +48,27 @@ $3.50, having all you can eat Pizza and Salad Bar. Patrons also recieved free pr
 
 From 5pm to closing on these nights, the reused {{< wiki-link "Country Night" >}} showtape
 would be played. The Rock-afire cast would be adorned with full country outfits during this time as well.{{< cite 2 >}}
-Patrons would receive free balloons and a free Billy Bob Deputy Badge (1983)|Billy Bob Deputy Badge.{{< cite 0 >}} For
+Patrons would receive free balloons and a free Billy Bob Deputy Badge (1983)|Billy Bob Deputy Badge.{{< cite 1 >}} For
 patrons wearing 'western duds', they would receive 5 game tokens upon entry. If patrons have a Billy Bob's Official
 Little Paws Fan Club Membership Card (1983)|Billy Bob's Official Little Paws Fan Club Membership Card, they would
-receive 10 instead.{{< cite 0 >}}
+receive 10 instead.{{< cite 1 >}}
 
 ### Colander-head Night (Wednesdays)
 
 Colander-head Night would return from its {{< wiki-link "Crazy Colander Head Night (Event)" "previous successful endeavor" >}} from March of 1983. In this second event, many of the prizes and collectables would be
 stripped back. Patrons would not receive signed character posters or a Colander-head membership card, though a Fatz
 poster could be obtained during Fatz Night, and a new Billy Bob's Official Little Paws Fan Club had taken place for the
-card. The prize of 6 free tokens and 1 free Coke was stripped back to 2 free tokens and a free soft drink.{{< cite 0 >}}
+card. The prize of 6 free tokens and 1 free Coke was stripped back to 2 free tokens and a free soft drink.{{< cite 1 >}}
 The Crazy Colander Contest would be held again at 7:30pm each Wednesday, this time specifying the local winners would
 receive a choosing of a pizza party for 4, or 75 game tokens. These local winners would then be eligible for two more
 contests. One was held at the end of the month deciding the best winner over all weeks at the location, where the winner
 would win an arcade machine (described at the time as a 'full-sized video game'). The second was another national
 contest, where the winners would receive their choosing of a trip for four to Disney World, or $1,000 in
-cash.{{< cite 0 >}}
+cash.{{< cite 1 >}}
 
 ### New Stage Shows (Fridays, Saturdays, & Sundays)
 
-From 5pm to closing on these nights, the {{< wiki-link "Beatles White Album" >}} tape would exclusively be played.{{< cite 0 >}}
+From 5pm to closing on these nights, the {{< wiki-link "Beatles White Album" >}} tape would exclusively be played.{{< cite 1 >}}
 
 ### ShowBiz Halloween Party
 
@@ -76,7 +76,7 @@ The ShowBiz Halloween Party would take place on October 30th and 31st, 1983- bot
 machines would be set to allow two plays per token, as well as kiddie rides being free from 5-7pm. Patrons bringing a
 Trick or Treat bag would recieve '...a Special Treat from Billy Bob'. Patrons coming in a Halloween costume would
 receive 2 free game tokens. All Halloween costume entries would be submitted for the 'Best Costume Contest', where the
-winner of the night would receive a Large Pizza.{{< cite 0 >}}
+winner of the night would receive a Large Pizza.{{< cite 1 >}}
 
 ### Advert Prize
 

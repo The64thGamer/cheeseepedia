@@ -19,11 +19,11 @@ Alongside being able to purchase Record 1 at the gift shop, all birthday parties
 ## Production
 
 The records would be first produced on May 14, 1981 by *QCA Custom Pressings Inc.* in Cincinnati, OH, and sent from Creative Engineering to Brock Hotel Corporation with an enclosed letter.https://youtu.be/ooetqLjPZVk
-On July 16, 1981, the records would be sent out to all ShowBiz stores (23 open at the time), with Record 1 having 400 copies sent to each store, making a total initial run of 9200.{{< cite 0 >}}
+On July 16, 1981, the records would be sent out to all ShowBiz stores (23 open at the time), with Record 1 having 400 copies sent to each store, making a total initial run of 9200.{{< cite 1 >}}
 
 ### Variants
 
-The record sleeve could either come in thick paperboard, or thin glossy paper, with the thinner variant the more rare kind. Separately, the inner record could either have its copyright date in white near the top, or in black near the right side.{{< cite 0 >}}
+The record sleeve could either come in thick paperboard, or thin glossy paper, with the thinner variant the more rare kind. Separately, the inner record could either have its copyright date in white near the top, or in black near the right side.{{< cite 1 >}}
 
 ### Set
 

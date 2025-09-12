@@ -29,9 +29,9 @@ This game would allow users to type in any word they wanted for the game to spea
 
 ### Technical
 
-The Fun Fair was a modified Apple II computer fit inside a large cabinet with a custom keyboard. The game software was loaded on two 5-1/4' floppy drives.https://www.facebook.com/photo.php?fbid=10156031959290554&id=242019870553&set=a.307884760553&mibextid=xfxF2i&rdid=J4jHaQlvhYAnSQfe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F8kbdKNDoaTU9RjzF%2F%3Fmibextid%3DxfxF2i Its voice capability was likely through the [Echo II Voice Card](https://en.wikipedia.org/wiki/Echo_II_(expansion_card)).{{< cite 0 >}}
-It is noted that the filter list for the Talking Machine game was updated multiple times as users found ways to get around the filter, meaning the software has multiple versions out there.{{< cite 0 >}}
+The Fun Fair was a modified Apple II computer fit inside a large cabinet with a custom keyboard. The game software was loaded on two 5-1/4' floppy drives.https://www.facebook.com/photo.php?fbid=10156031959290554&id=242019870553&set=a.307884760553&mibextid=xfxF2i&rdid=J4jHaQlvhYAnSQfe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F8kbdKNDoaTU9RjzF%2F%3Fmibextid%3DxfxF2i Its voice capability was likely through the [Echo II Voice Card](https://en.wikipedia.org/wiki/Echo_II_(expansion_card)).{{< cite 1 >}}
+It is noted that the filter list for the Talking Machine game was updated multiple times as users found ways to get around the filter, meaning the software has multiple versions out there.{{< cite 1 >}}
 
 ## History
 
-The game was produced by {{< wiki-link "ShowBiz Pizza Place" >}}, with some unknown involvement in the design process by {{< wiki-link "Creative Engineering" >}}.{{< cite 0 >}} The game would also be featured in a lost commercial from the era.{{< cite 1 >}}
+The game was produced by {{< wiki-link "ShowBiz Pizza Place" >}}, with some unknown involvement in the design process by {{< wiki-link "Creative Engineering" >}}.{{< cite 1 >}} The game would also be featured in a lost commercial from the era.{{< cite 1 >}}

@@ -65,7 +65,7 @@ Around the time of these discussions, certain stores that were closing or going 
 
 ### Legacy Location Concept
 
-At some point in the discussions of the museum concept however, it was pointed out that a museum would not keep customer retention for long compared to CEC's usual restaurant and party experiences.{{< cite 0 >}} The priorities then shifted to instead turning select stores back into previous remodels, mainly focused around the 1992 Major Remodel. This would reduce costs of creating brand new attractions, while still keeping the retro branded stores within usual restaurant systems and procedures. By mid-2022 however, the idea would be put on hold while the {{< wiki-link "CEC 2.0 Remodel Program" >}} was still siphoning time and resources.{{< cite 0 >}}
+At some point in the discussions of the museum concept however, it was pointed out that a museum would not keep customer retention for long compared to CEC's usual restaurant and party experiences.{{< cite 1 >}} The priorities then shifted to instead turning select stores back into previous remodels, mainly focused around the 1992 Major Remodel. This would reduce costs of creating brand new attractions, while still keeping the retro branded stores within usual restaurant systems and procedures. By mid-2022 however, the idea would be put on hold while the {{< wiki-link "CEC 2.0 Remodel Program" >}} was still siphoning time and resources.{{< cite 1 >}}
 
 ### Northridge Chosen
 
