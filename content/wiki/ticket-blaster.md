@@ -9,7 +9,6 @@ contributors = ["CECBowlingGreen","BurgersNuggs445"]
 citations = ["https://www.youtube.com/watch?v=OJVT49KgQLQ","https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets","https://www.youtube.com/watch?v=imakDPgarcg"]
 pageThumbnailFile = "dlkaec7iyXMIlncjQkFI.avif"
 +++
-. Credit to [}}">CECBowlingGreen](%7B%7B%3C%20ref%20){users="" cecbowlinggreen"=""}.|439x439px]]
 The **Ticket Blaster** is an attraction found at Chuck E. Cheese's locations. It is only able to be used when there is a reserved birthday party. The point of the Ticket Blaster is to grab as many tickets as you can within 30 seconds, as well as possibly getting other things like a 'Magic Ticket'. The Ticket Blaster is still in use to this day, despite CEC getting rid of paper tickets, though some locations have them empty, others have tickets and the other prizes in them.
 
 ## History

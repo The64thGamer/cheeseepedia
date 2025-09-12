@@ -14,12 +14,13 @@ contributors = ["The 64th Gamer"]
 
   - {{< wiki-link "New Fandom Member FAQ" >}}
   - {{< wiki-link "Site Guidelines & Rules" >}}
-  - {{< wiki-link "About Cheese-E-Pedia" >}}
+  - {{< wiki-link "Cheese-E-Pedia" >}}
 
   ### Beginner
 
   - {{< wiki-link "Making Your First Edit" >}}
   - {{< wiki-link "Using Shortcodes & Linking Pages" >}}
+  - {{< wiki-link "Error Checker" >}}
 
   ### Advanced (Using Git)
 
@@ -31,12 +32,6 @@ contributors = ["The 64th Gamer"]
   - {{< wiki-link "Uploading Images (GitHub)" >}}
   - {{< wiki-link "Compiling Cheese-E-Pedia through Hugo" >}}
   - {{< wiki-link "Updating PageFind" >}}
-
-## Special Pages
-
-- {{< wiki-link "Site News" >}}
-- {{< wiki-link "Site Future Plans" >}}
-- {{< wiki-link "Error Checker" >}}
 
 ## Recent Changes
 
