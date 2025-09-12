@@ -8,7 +8,7 @@ endDate = ""
 contributors = ["The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=NMdZ-7nwigo"]
 +++
-The ***WKMG Creative Engineering Spot* is a 1976 Orlando, Florida news segment for *CBS/WKMG News 6* discussing Creative Engineering's {{< wiki-link "Willie Rabbit (Animatronic)" >}} and Headless Ghost (Animatronic)|Headless Ghost animatronics.<sup>(1)</sup>**
+The ***WKMG Creative Engineering Spot* is a 1976 Orlando, Florida news segment for *CBS/WKMG News 6* discussing Creative Engineering's {{< wiki-link "Willie Rabbit (Animatronic)" >}} and Headless Ghost (Animatronic)|Headless Ghost animatronics.{{< cite 1 >}}**
 
 ## Transcript
 

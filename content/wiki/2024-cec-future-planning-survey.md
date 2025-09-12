@@ -9,13 +9,13 @@ citations = ["https://surveys.chuckecheese.com/s3/LRP2024", "https://www.reuters
 tags = ["Events"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***2024 Chuck E. Cheese Future Planning Survey* was a survey released on March 25, 2024 asking customers and fans of Chuck E. Cheese's their thoughts on the future plans for the company, concluding with thousands of submissions from the community.<sup>(1)</sup>
+The ***2024 Chuck E. Cheese Future Planning Survey* was a survey released on March 25, 2024 asking customers and fans of Chuck E. Cheese's their thoughts on the future plans for the company, concluding with thousands of submissions from the community.{{< cite 1 >}}
 The survey focused on four major areas: opinions on the Munch's Make Believe Band Residency at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, 5 different options for a differently themed CEC location- with one including an expanded version of the Residency, opinions on a CEC Fan Club with exclusive offerings, and what the company should do to celebrate its 50th anniversary in 2027.**
 
 ## History
 
-Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.<sup>(2)</sup> CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'<sup>(3)</sup> and a location annoncement for {{< wiki-link "Perth, Australia" >}}. News from the company however would severely die down by the end of January.
-On March 25, 2024 at 5:02PM CDT, *Mark Kupferman*, a recent hire from November 2023 as the new Chief Insights and Marketing Officer<sup>(4)</sup>, would make a post to the *r/chuckecheese* subreddit titled 'Planning Survey from Chuck E. Cheese'<sup>(5)</sup>. The post would note:
+Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.{{< cite 2 >}} CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'{{< cite 3 >}} and a location annoncement for {{< wiki-link "Perth, Australia" >}}. News from the company however would severely die down by the end of January.
+On March 25, 2024 at 5:02PM CDT, *Mark Kupferman*, a recent hire from November 2023 as the new Chief Insights and Marketing Officer{{< cite 4 >}}, would make a post to the *r/chuckecheese* subreddit titled 'Planning Survey from Chuck E. Cheese'{{< cite 5 >}}. The post would note:
 
 > 'As we embark on an exciting phase of long-range planning, your insights as dedicated fans are incredibly important to us. We're exploring new ideas and would love to hear your thoughts.'
 
@@ -33,7 +33,7 @@ The survey would re-open at an unknown time around March 29-30th, continuing to 
 
 ## Aftermath
 
-The feedback would culminate in the additional {{< wiki-link "CEC Legacy Locations" >}} being added in 2024, aside from Nanuet and later Ontario, Canada, which were chosen by CEC. In August however CEC would launch its revamp of the Fun Pass to become a subscription model, which drastically improved the company's earnings.<sup>(11)</sup> This leaned them away from them needing to earn money from fans and nostalgia, which led to everything else in the survey not being acted upon, including the feedback panel sign-up which never had a single email sent out (though this could change in the future). CEC's current plans for the 50th anniversary are also only in early planning stages, and it is unclear what will be used from the survey results.
+The feedback would culminate in the additional {{< wiki-link "CEC Legacy Locations" >}} being added in 2024, aside from Nanuet and later Ontario, Canada, which were chosen by CEC. In August however CEC would launch its revamp of the Fun Pass to become a subscription model, which drastically improved the company's earnings.{{< cite 11 >}} This leaned them away from them needing to earn money from fans and nostalgia, which led to everything else in the survey not being acted upon, including the feedback panel sign-up which never had a single email sent out (though this could change in the future). CEC's current plans for the 50th anniversary are also only in early planning stages, and it is unclear what will be used from the survey results.
 
 ## Survey Transcription
 

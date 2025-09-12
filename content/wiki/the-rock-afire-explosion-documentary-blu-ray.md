@@ -27,10 +27,10 @@ Writer: Bradbord Thomason
 ## Changes / Additions
 
 The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the Rock-afire Explosion Record 2 (1981)|Rock-afire Explosion Record 2 and Rock-afire Explosion Record 4 (1981)|Rock-afire Explosion Record 4 vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary *Glow*, and the Rock-afire eventually inspiring the 2014 game series *Five Nights at Freddy's*.
-The film's original digital master would be included on the disc. The disc would now be 33gb.<sup>(1)</sup>
+The film's original digital master would be included on the disc. The disc would now be 33gb.{{< cite 1 >}}
 New director commentary from Brett Whitcomb and Bradford Thomason over the film would be included. A new photo gallery of behind the scenes pictures would also be included.
 
 ## Release
 
-On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.<sup>(2)(3)</sup> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.<sup>(4)</sup> By February 26th, 1,300 copies had been ordered.<sup>(5)</sup> The earliest known copy would arrive on February 28th, 2024.<sup>(6)</sup>
-By July 31, 2024, 117 copies would be left in stock.<sup>(7)</sup> By November 8th, 2024, 11 copies would be left. {{< cite 8 >}} The copies would likely sell out by the end of November, though the first archive of the page showing 'out of stock' would be on June 9th, 2025. {{< cite 9 >}}
+On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.<sup>(2)(3)</sup> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.{{< cite 4 >}} By February 26th, 1,300 copies had been ordered.{{< cite 5 >}} The earliest known copy would arrive on February 28th, 2024.{{< cite 6 >}}
+By July 31, 2024, 117 copies would be left in stock.{{< cite 7 >}} By November 8th, 2024, 11 copies would be left. {{< cite 8 >}} The copies would likely sell out by the end of November, though the first archive of the page showing 'out of stock' would be on June 9th, 2025. {{< cite 9 >}}

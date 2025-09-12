@@ -115,12 +115,12 @@ The **April 2009 Show** was a show released in April of 2009 which featured eigh
 - 3-Stage DVD: 3/18/09 12:22pm
 
 
-The *Pizza Parachute* and *Jawbreaker* CEC TV ID's were created by Joel Apel.<sup>(1)</sup>
+The *Pizza Parachute* and *Jawbreaker* CEC TV ID's were created by Joel Apel.{{< cite 1 >}}
 
 
 ## Trivia:
 
-- The original artists behind 'When Did Your Heart Go Missing?' and 'I'm Shakin'', Rooney, visited a CEC location during the time this show was playing in order to hear their songs being covered.<sup>(2)</sup>
+- The original artists behind 'When Did Your Heart Go Missing?' and 'I'm Shakin'', Rooney, visited a CEC location during the time this show was playing in order to hear their songs being covered.{{< cite 2 >}}
 - 'Super Chuck E.' was originally a road show in 2005 and was altered with new lyrics for this show.
 - The Chuck E. Cheese News intermission and most of the footage for 'Super Chuck E.' was reused from August 1997. 
 - Originally in segment 2, Chuck E. called former president George W. Bush. This was cut before release.

@@ -17,7 +17,7 @@ In 1981, PTT opened their first Charlie Cheese's in {{< wiki-link "Surfer's Para
 
 ## Merchandise
 
-The only merchandise released for Charlie Cheese's were a plush with brown fur instead of gray<sup>(1)</sup> and a logo bumper sticker.<sup>(2)</sup>
+The only merchandise released for Charlie Cheese's were a plush with brown fur instead of gray{{< cite 1 >}} and a logo bumper sticker.{{< cite 2 >}}
 
 ## Locations
 

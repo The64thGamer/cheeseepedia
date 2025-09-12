@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " The Unicorn Beetle animatronic is 52x the size of it's real life counterpart <sup>(1)</sup>"
+description = " The Unicorn Beetle animatronic is 52x the size of it's real life counterpart"
 +++

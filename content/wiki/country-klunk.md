@@ -16,7 +16,7 @@ The tape cuts out all of the intro segments from Country II, replaces the Ricky 
 
 ## History
 
-Upon the digitization of Rock-afire Explosion tapes in the early 2000's, the segment "My Own Grandpa" would not be found for unknown reasons. The segment appears on the proper tape due to two separate pieces of footage confirming its existence. Both pieces however do not show the entire segment, as one is filmed at ShowBiz briefly, and another at Circus Pizza in full- but with edits by Creative Engineering to remove mentions of "ShowBiz" in the intro.<sup>(1)</sup>
+Upon the digitization of Rock-afire Explosion tapes in the early 2000's, the segment "My Own Grandpa" would not be found for unknown reasons. The segment appears on the proper tape due to two separate pieces of footage confirming its existence. Both pieces however do not show the entire segment, as one is filmed at ShowBiz briefly, and another at Circus Pizza in full- but with edits by Creative Engineering to remove mentions of "ShowBiz" in the intro.{{< cite 1 >}}
 
 ## Segment List
 

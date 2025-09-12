@@ -16,11 +16,11 @@ The concept would be the first time the company focused on a chain of small arca
 ## History
 
 Due to CEC being one of the largest purchasers of arcade games, alongside its training regimen for staff to work on games, the company began pursuing the management of arcades in various hotels. Each deal would be worked out differently, with multiple designs and sets of machines fit for the hotel they reside in. Most of the arcades would reside in Simon-owned malls. The employees of the arcade itself are Chuck E. Cheese employees and are managed separately from the hotel employees.<sup>(1)(2)</sup> The first arcades did not use any CEC branding due to their separation from the standard locations.
-In May of 2022, the first CEC-managed arcade would open at the Holiday Inn Resort Orlando Suites.<sup>(3)</sup> Chuck E. Cheese's Fun Zone is a little room with claw machines, and the arcade (just called Arcade) is across the lobby's hallway. The Fun Zone features the Rockstar era characters in rockets, while the arcade has pixel art of the rockets.<sup>(19)</sup>
+In May of 2022, the first CEC-managed arcade would open at the Holiday Inn Resort Orlando Suites.{{< cite 3 >}} Chuck E. Cheese's Fun Zone is a little room with claw machines, and the arcade (just called Arcade) is across the lobby's hallway. The Fun Zone features the Rockstar era characters in rockets, while the arcade has pixel art of the rockets.{{< cite 19 >}}
 On September 3, 2024, CEC's first press release on an arcade would be held for the {{< wiki-link "Trumbull, CT (5065 Main St)" >}} location. This would be the first instance of a branding for the arcade division, going under 'Fun Spot Arcade'. CEC would note this as a concept for all ages, being a departure from their usual '3-8' age range.<sup>(4)(5)(6)</sup>
 On February 13, 2025, a new Fun Spot would be announced to open in the Mall of Georgia under the new name 'Chuck's Arcade'. On February 14th, Mark Kupferman would clarify that the new name would be a rebrand for Fun Spot and not a new variant of the arcade. The arcades are now set to have Chuck E. themed decor and light classic arcade theming, but no changes to the game selection or services.<sup>(8)(9)</sup>
-On June 24, 2025, a fan discovered a {{< wiki-link "Pasqually (Cyberamic)" >}} displayed in a glass case at the Rockingham Park location.<sup>(12)</sup> This was the start of nostalgic elements coming to Chuck's Arcade, which would also include old art on the walls (for Ward Parkway) and more taxidermied animatronics.
-CEC Corporate officially announced Chuck's Arcade on June 30th, 2025, which also revealed a new location in El Paso.<sup>(15)</sup> The news was picked up by multiple mainstream websites on July 2nd. <sup>(16)</sup>
+On June 24, 2025, a fan discovered a {{< wiki-link "Pasqually (Cyberamic)" >}} displayed in a glass case at the Rockingham Park location.{{< cite 12 >}} This was the start of nostalgic elements coming to Chuck's Arcade, which would also include old art on the walls (for Ward Parkway) and more taxidermied animatronics.
+CEC Corporate officially announced Chuck's Arcade on June 30th, 2025, which also revealed a new location in El Paso.{{< cite 15 >}} The news was picked up by multiple mainstream websites on July 2nd. {{< cite 16 >}}
 
 ## Known Locations
 
@@ -29,19 +29,19 @@ There are more locations than what is known. It is known that one arcade was ins
 | Location                          | Address                                                                                 | Arcade Name                                                | Opening Date      | Closing Date |
 | --------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------- | ------------ |
 | Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}                             | Chuck E. Cheese's Fun Zone/Arcade                          | May 2022          | N/A          |
-| Embassy Suites                    | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}}                                    | Mister Pixel<sup>(24)</sup>                                | December 30, 2024 | N/A          |
+| Embassy Suites                    | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}}                                    | Mister Pixel{{< cite 24 >}}                                | December 30, 2024 | N/A          |
 | Eastview Mall                     | {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}}                               | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) |  October 2024      | N/A          |
 | Rockingham Park Mall              | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}}                           | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025) | December 13, 2024 | N/A          |
 | Penn Square Mall                  | {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}}                | Fun Spot Arcade                                            | January 2025      | N/A          |
 | Springhill Suites                 | Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) | ???                                                        | ???               | N/A          |
 | Trumbull Mall                     | {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                         | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 6, 2024 | N/A          |
-| Tyrone Square                     | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}<sup>(7)</sup>                  | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024    | N/A          |
-| Brea Mall                         | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}<sup>(7)</sup>                   | Chuck's Arcade                                             | April 2025        | N/A          |
-| Woodland Hills Mall               | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}<sup>(17)</sup>                      | Chuck's Arcade                                             | May 29, 2025      | N/A          |
+| Tyrone Square                     | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}{{< cite 7 >}}                  | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024    | N/A          |
+| Brea Mall                         | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}{{< cite 7 >}}                   | Chuck's Arcade                                             | April 2025        | N/A          |
+| Woodland Hills Mall               | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}{{< cite 17 >}}                      | Chuck's Arcade                                             | May 29, 2025      | N/A          |
 | Ward Parkway Center               | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}}                                | Chuck's Arcade and Pizzeria                                | June 26, 2025     | N/A          |
-| Mall of Georgia                   | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}<sup>(7)</sup>                          | Chuck's Arcade                                             | June 27, 2025     | N/A          |
-| Cielo Vista Mall                  | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}<sup>(18)</sup>                      | Chuck's Arcade                                             | July 3, 2025      | N/A          |
-| Brea Simon Center                 | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}<sup>(14)</sup>                            | Chuck's Arcade                                             | August 23, 2025   | N/A          |
+| Mall of Georgia                   | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}{{< cite 7 >}}                          | Chuck's Arcade                                             | June 27, 2025     | N/A          |
+| Cielo Vista Mall                  | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}{{< cite 18 >}}                      | Chuck's Arcade                                             | July 3, 2025      | N/A          |
+| Brea Simon Center                 | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}{{< cite 14 >}}                            | Chuck's Arcade                                             | August 23, 2025   | N/A          |
 
 ## Taxidermy Animatronics
 
@@ -52,8 +52,8 @@ Some Chuck's Arcades have animatronics displayed in a glass case. They stand on 
 | {{< wiki-link "Pasqually (Cyberamic)" >}}                   | Rockingham Park Mall | June 2025     | Unknown  |
 | {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}             | Mall of Georgia      | June 27, 2025     | Unknown                                                           |
 | {{< wiki-link "Helen Henny (Cyberamic)" >}}                 |  Brea Mall        | August/September 2025 | Unknown, relocated from the Trumbull Mall location in August/September 2025 originally installed June 2025|
-| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}             | Ward Parkway Center  | July 2025      | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}<sup>(21)</sup>  |
+| {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}             | Ward Parkway Center  | July 2025      | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}{{< cite 21 >}}  |
 | {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}             | Cielo Vista Mall     | July 3, 2025      | Unknown                                                           |
 | {{< wiki-link "Pasqually (Cyberamic)" >}} (with drumsticks) | Tyrone Square Mall   | July 2025      | Unknown                                                           |
-| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}             | Eastview Mall        | July 2025      | {{< wiki-link "Rockford, IL (3600 E State St)" >}}<sup>(22)</sup> |
-| {{< wiki-link "Mr. Munch (Cyberamic)" >}}                   | Brea Simon Center    | August 23, 2025   | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}<sup>(23)</sup>  |
+| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}             | Eastview Mall        | July 2025      | {{< wiki-link "Rockford, IL (3600 E State St)" >}}{{< cite 22 >}} |
+| {{< wiki-link "Mr. Munch (Cyberamic)" >}}                   | Brea Simon Center    | August 23, 2025   | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}{{< cite 23 >}}  |

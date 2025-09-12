@@ -15,7 +15,7 @@ manufacturer = "Fantasy Forest"
 
 ## History
 
-The Bot was installed in October of 1978 replacing {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} for the {{< wiki-link "Foxy Colleen I" >}} Showtape. They were the final Fantasy Forest Guest Star to be installed at Winchester, & the last Fantasy Forest bot installed at Winchester in general. The Bot was put in the 'The Great All-American pizza Show' Brochure in 1979<sup>(1)</sup>. As with other Winchester bots, her whereabouts after 1980 are unknown but she was most likely sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} after being uninstalled. After the bankruptcy in 1983 Foxy Colleen was presumably destroyed.
+The Bot was installed in October of 1978 replacing {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} for the {{< wiki-link "Foxy Colleen I" >}} Showtape. They were the final Fantasy Forest Guest Star to be installed at Winchester, & the last Fantasy Forest bot installed at Winchester in general. The Bot was put in the 'The Great All-American pizza Show' Brochure in 1979{{< cite 1 >}}. As with other Winchester bots, her whereabouts after 1980 are unknown but she was most likely sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} after being uninstalled. After the bankruptcy in 1983 Foxy Colleen was presumably destroyed.
 
 ## Design
 

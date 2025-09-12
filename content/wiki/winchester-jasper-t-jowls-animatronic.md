@@ -50,7 +50,7 @@ The bot had a Red & white patterned Undershirt, Light Blue overalls, A Blue neck
 
 #### SPT outfit
 
-During the bots time at the SPT HQ, it had a Blue & White stripped shirt, A black neck collar, The same or possibly different overalls, & a blue stripe on their hat.<sup>(3)</sup>
+During the bots time at the SPT HQ, it had a Blue & White stripped shirt, A black neck collar, The same or possibly different overalls, & a blue stripe on their hat.{{< cite 3 >}}
 
 ### Accessories
 

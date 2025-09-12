@@ -7,15 +7,15 @@ citations = ["https://www.instagram.com/justinishmael/p/DFvZ7g8JKbH/", "https://
 tags = ["Animatronic News"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
-Justin Ishmael, producer of the {{< wiki-link "Vinyl 7' Billy Bob Figure" >}} in 2019, is now partnering with Terror Vision Records to produce the second ever Rock-afire Explosion vinyl album, {{< wiki-link "Original Dreams: Songs from ShowBiz" >}}. The album is set to release on 'Record Store Day', which for this year is set on April 12th.<sup>(1)</sup>
+Justin Ishmael, producer of the {{< wiki-link "Vinyl 7' Billy Bob Figure" >}} in 2019, is now partnering with Terror Vision Records to produce the second ever Rock-afire Explosion vinyl album, {{< wiki-link "Original Dreams: Songs from ShowBiz" >}}. The album is set to release on 'Record Store Day', which for this year is set on April 12th.{{< cite 1 >}}
 
-The album will feature songs from when the Rock-afire played in ShowBiz Pizza, rather than their later 90's Family Entertainment Center offerings and post-millennium internet songs. The songs will be ripped from their highest quality source, something Aaron Fechter had already been working on since moving all Creative Engineering assets to the {{< wiki-link "Creative Engineering Workshop" >}}. The album's art will feature photography and easter eggs from the ShowBiz era, alongside cover art that can be swapped out to present multiple different characters.<sup>(1)</sup>
+The album will feature songs from when the Rock-afire played in ShowBiz Pizza, rather than their later 90's Family Entertainment Center offerings and post-millennium internet songs. The songs will be ripped from their highest quality source, something Aaron Fechter had already been working on since moving all Creative Engineering assets to the {{< wiki-link "Creative Engineering Workshop" >}}. The album's art will feature photography and easter eggs from the ShowBiz era, alongside cover art that can be swapped out to present multiple different characters.{{< cite 1 >}}
 
-Justin said the album has been in development for 8 years, which is backed up by Aaron stating in May of 2017 that the song "Too Shy" was going to appear on the album.<sup>(2)</sup>
+Justin said the album has been in development for 8 years, which is backed up by Aaron stating in May of 2017 that the song "Too Shy" was going to appear on the album.{{< cite 2 >}}
 
-The album will be first to hit local record shops before being widely available. Justin encourages fans to call their local stores to ensure they have this album on release day. They also said more information will be available closer to release.<sup>(1)</sup>
+The album will be first to hit local record shops before being widely available. Justin encourages fans to call their local stores to ensure they have this album on release day. They also said more information will be available closer to release.{{< cite 1 >}}
 
-The current tracklist is:<sup>(3)</sup>
+The current tracklist is:{{< cite 3 >}}
 
 - Welcome In To ShowBiz
 - Banana Hill

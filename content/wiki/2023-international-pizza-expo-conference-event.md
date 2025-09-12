@@ -13,7 +13,7 @@ The ***2023 International Pizza Expo & Conference* was an expo CEC Entertainment
 
 ## Attendance
 
-CEC Entertainment did not host any booths for Chuck E. Cheese, Peter Piper Pizza, or Pasqually's Wings, but did have multiple corporate staff attend the event.<sup>(1)</sup> These staff were labeled 'Buyers' on their nametags, meaning they attended the event looking for partnerships or collaborations with other companies.<sup>(2)</sup>
+CEC Entertainment did not host any booths for Chuck E. Cheese, Peter Piper Pizza, or Pasqually's Wings, but did have multiple corporate staff attend the event.{{< cite 1 >}} These staff were labeled 'Buyers' on their nametags, meaning they attended the event looking for partnerships or collaborations with other companies.{{< cite 2 >}}
 The four attendees were:
 
 - David Mckillips (President & Chief Executive Officer)
@@ -23,7 +23,7 @@ The four attendees were:
 
 ## Top 100 Movers & Shakers
 
-PizzaMarketPlace.com, whom attended the event, placed pizza companies throughout the expo into the 'Top 100 Movers & Shakers' list. CEC Entertainment had 3 spots within the list.<sup>(3)</sup> {{< wiki-link "Pasqually's Pizza & Wings" >}} ranked #4 in 'Top 15 Emerging Brands', reading:
+PizzaMarketPlace.com, whom attended the event, placed pizza companies throughout the expo into the 'Top 100 Movers & Shakers' list. CEC Entertainment had 3 spots within the list.{{< cite 3 >}} {{< wiki-link "Pasqually's Pizza & Wings" >}} ranked #4 in 'Top 15 Emerging Brands', reading:
 
 > 'Launched in April 2020 by CEC Entertainment (parent company of Chuck E. Cheese), Pasqually's was one of the first virtual kitchens to emerge nationally during the pandemic. The delivery-only restaurant concept lived within Chuck E. Cheese's brick-and-mortar kitchens, but reached a more mature consumer with a fresh menu and bold flavors, expanding the company's customer base tremendously. Pasqually's grew quickly, with mid to high double-digit growth in two years with the same footprint. As off-premise dining and delivery remain a large part of the industry postpandemic, CEC Entertainment continues to focus on growing Pasqually's by evolving its menu to offer more on-trend flavors, shareable sides and crowdpleasing bundle deals. Pasqually's was created to satisfy the consumer need for more premium at-home dining options, and its goal is to continue catering to that promise. CEC Entertainment aims to grow the Pasqually's brand through menu expansion and value offerings, such as new bold pizza and wing flavors and bundle deals, that target Gen Z and Millennial consumers, many of whom grew up loving Pasqually's sister brand, Chuck E. Cheese, but now have a more refined palate. Pasqually's was one of the first virtual kitchens that came onto the scene during the COVID-19 pandemic. The delivery-only brand initially received backlash from consumers and media as the idea of virtual kitchens was still relatively new. Yet, as the brand grew, it was quickly recognized as a bold and innovative business move that helped keep CEC Entertainment afloat during the pandemic.'
 

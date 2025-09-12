@@ -9,7 +9,7 @@ contributors = ["BigCtheDataFinder"]
 citations = ["https://www.reddit.com/media?url=https://preview.redd.it/rockford-location-origins-v0-ktf50bs18pvd1.jpeg?width=671&format=pjpg&auto=webp&s=b387ebbb49a873f9d7df22041e80e0119f796138&rdt=42649","https://uspto.report/TM/73402256/ORC20051205201340/", "https://digitaledition.chicagotribune.com/tribune/article_popover.aspx?guid=2b1ee305-3632-4339-a597-8eec14b6854c", "https://julkamen.com/character-design.html", "https://amusementtoday.com/2022/03/five-star-parks-attractions-acquires-family-entertainment-centers-in-seven-states/"]
 pageThumbnailFile = ""
 +++
-***Celebration Station* is an American family entertainment center chain founded in 1982 by WestStarr Development Corporation.<sup>(1)</sup> Locations feature a sit-down restaurant, complemented by arcade games, go-karts, bumper boats, mini golf, batting cages, laser tag, and small rides for children. Formerly, animatronic shows were a main attraction, including {{< wiki-link "Celebration Station's W.O.O.F. Radio" >}} by Creative Presentations, Inc. and {{< wiki-link "Daniel and the Dixie Diggers" >}} with Jethro P. Hogg by Sally Corporation. Since March 2022, the chain has been a division of Five Star Parks & Attractions from Branson, Missouri.**
+***Celebration Station* is an American family entertainment center chain founded in 1982 by WestStarr Development Corporation.{{< cite 1 >}} Locations feature a sit-down restaurant, complemented by arcade games, go-karts, bumper boats, mini golf, batting cages, laser tag, and small rides for children. Formerly, animatronic shows were a main attraction, including {{< wiki-link "Celebration Station's W.O.O.F. Radio" >}} by Creative Presentations, Inc. and {{< wiki-link "Daniel and the Dixie Diggers" >}} with Jethro P. Hogg by Sally Corporation. Since March 2022, the chain has been a division of Five Star Parks & Attractions from Branson, Missouri.**
 
 ## Detailed History & Events
 
@@ -17,11 +17,11 @@ pageThumbnailFile = ""
 
 #### May
 
-- WestStarr Development Corporation, a firm based in Bettendorf, Iowa, developed a restaurant arcade concept to chase the success of {{< wiki-link "Pizza Time Theatre" >}} and {{< wiki-link "ShowBiz Pizza Place" >}}. *Celebration Station*, WestStarr's foray into the family entertainment center industry, first opened in Rockford, Illinois on May 24, 1982. <sup>(1)</sup> A trademark was filed just five days later on May 29, 1982. <sup>(2)</sup>
+- WestStarr Development Corporation, a firm based in Bettendorf, Iowa, developed a restaurant arcade concept to chase the success of {{< wiki-link "Pizza Time Theatre" >}} and {{< wiki-link "ShowBiz Pizza Place" >}}. *Celebration Station*, WestStarr's foray into the family entertainment center industry, first opened in Rockford, Illinois on May 24, 1982. {{< cite 1 >}} A trademark was filed just five days later on May 29, 1982. {{< cite 2 >}}
 
 #### September
 
-- On September 17, 1982, the second Celebration Station opened in Merrillville, Indiana, on the site of a "Second Hand Rosa's" pizzeria. The location, two stories tall, was built around the existing "Rosa's" layout and owned by Dean White of Whiteco Industries. White eventually acquired the Celebration Station chain from WestStarr, becoming a division of Whiteco afterwards. <sup>(3)</sup>
+- On September 17, 1982, the second Celebration Station opened in Merrillville, Indiana, on the site of a "Second Hand Rosa's" pizzeria. The location, two stories tall, was built around the existing "Rosa's" layout and owned by Dean White of Whiteco Industries. White eventually acquired the Celebration Station chain from WestStarr, becoming a division of Whiteco afterwards. {{< cite 3 >}}
 
 ### 1984
 
@@ -46,7 +46,7 @@ Whiteco approached Sally to have a new show configuration, a condensed three-cha
 
 #### August
 
-- Whiteco requested a retrofitted overlay of Daniel and the Dixie Diggers with Jethro P. Hogg with their original characters, the first original show exclusive to Celebration Station since the creation of W.O.O.F. Radio in 1982. The project's working title was initially referred to as "Paw Patrol" (*in no relation to the animated series of the same name*).<sup>(4)</sup>
+- Whiteco requested a retrofitted overlay of Daniel and the Dixie Diggers with Jethro P. Hogg with their original characters, the first original show exclusive to Celebration Station since the creation of W.O.O.F. Radio in 1982. The project's working title was initially referred to as "Paw Patrol" (*in no relation to the animated series of the same name*).{{< cite 4 >}}
 
 #### Late 93
 
@@ -54,7 +54,7 @@ Whiteco approached Sally to have a new show configuration, a condensed three-cha
 
 #### December
 
-- The Rockin' Rascals premiered with the opening of Knoxville's Celebration Station on December 17, 1993, with character designs by Jul Kamen and soundtracks produced by Janet Sherman.<sup>(4)</sup>
+- The Rockin' Rascals premiered with the opening of Knoxville's Celebration Station on December 17, 1993, with character designs by Jul Kamen and soundtracks produced by Janet Sherman.{{< cite 4 >}}
 
 ### 2005
 
@@ -64,7 +64,7 @@ Whiteco approached Sally to have a new show configuration, a condensed three-cha
 
 #### March
 
-- Five Star Parks & Attractions, a Branson, Missouri-based family entertainment center operator, acquires all five remaining Celebration Station locations.<sup>(5)</sup>
+- Five Star Parks & Attractions, a Branson, Missouri-based family entertainment center operator, acquires all five remaining Celebration Station locations.{{< cite 5 >}}
 
 ### 2024
 

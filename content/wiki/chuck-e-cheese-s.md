@@ -10,7 +10,7 @@ citations = ["https://www.chuckecheese.com/investor-relations/","https://www.piz
 pageThumbnailFile = "eeutKPgGC197i2lCDe1z.avif"
 +++
 ***Chuck E. Cheese* (Formerly known as ***Chuck E. Cheese's, Chuck E. Cheese's Pizza, Chuck E. Cheese's Pizza Time Theatre*) is the continuation of the original {{< wiki-link "Pizza Time Theatre" >}} company after its first bankruptcy on March 28, 1984, and subsequent merger with{{< wiki-link "ShowBiz Pizza Place" >}} on May 31, 1985, which is still around to present day.
-CEC operates family entertainment centers focused on live entertainment, birthday parties, arcade games, animatronics, and a menu centered around pizza offerings. The company has around 600 Chuck E. Cheese stores across North America and other countries, alongside over 120 {{< wiki-link "Peter Piper Pizza" >}} locations in the United States.<sup>(1)</sup>****
+CEC operates family entertainment centers focused on live entertainment, birthday parties, arcade games, animatronics, and a menu centered around pizza offerings. The company has around 600 Chuck E. Cheese stores across North America and other countries, alongside over 120 {{< wiki-link "Peter Piper Pizza" >}} locations in the United States.{{< cite 1 >}}****
 
 ## General History
 
@@ -20,14 +20,14 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 
 #### October
 
-- On the 17th CEC would announce a collaboration with *Raging Waters Sacramento Water Park* to have a CEC branded section of the waterpark be made to debut in the parks re-opening as *California Dreamin'.* The site planned to include branded water rides, slides, and splash zones. An on-site arcade, CEC branded retail shop, and {{< wiki-link "Pasqually's Pizza & Wings" >}} physical location would also be in the area. All current walkarounds, including Pasqually and Bella, would be seen at the park. Additional cross-promotions with Sacramento and Northern California CEC stores would also be planned.<sup>(2)</sup>
+- On the 17th CEC would announce a collaboration with *Raging Waters Sacramento Water Park* to have a CEC branded section of the waterpark be made to debut in the parks re-opening as *California Dreamin'.* The site planned to include branded water rides, slides, and splash zones. An on-site arcade, CEC branded retail shop, and {{< wiki-link "Pasqually's Pizza & Wings" >}} physical location would also be in the area. All current walkarounds, including Pasqually and Bella, would be seen at the park. Additional cross-promotions with Sacramento and Northern California CEC stores would also be planned.{{< cite 2 >}}
 
 #### November
 
 - The {{< wiki-link "Chuck E. Cheese and Friends Party Cookbook" >}} would receive a cover and be available for pre-order on November 3rd.
 - In early November the Hot Topic Chuck E. Cheese Token Pin and BoxLunch CEC Portrait Ringer T-Shirt would be spotted selling in-stores and online.
-- From the 5-7th, CEC would attend the *Global Restaurant Leader's Conference* in Miami, FL.<sup>(3)</sup>
-- On the 7th Mark Kupferman would be appointed Chief Insights & Marketing Officer. Like other corporate executives at the company, he would be a former Six Flags Entertainment executive.<sup>(4)</sup>
+- From the 5-7th, CEC would attend the *Global Restaurant Leader's Conference* in Miami, FL.{{< cite 3 >}}
+- On the 7th Mark Kupferman would be appointed Chief Insights & Marketing Officer. Like other corporate executives at the company, he would be a former Six Flags Entertainment executive.{{< cite 4 >}}
 - On the 27th {{< wiki-link "Chuck E. Cheese Winter Show 2023" >}} would go live, featuring a revamped birthday show that included new support for American Sign Language.
 
 ### 2024
@@ -61,7 +61,7 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 - On the 12th, CEC employees would receive an exclusive discount for CEC shirts sold on 80sTees.
 - Some time in early April, Florida locations would be instructed to remove all napkin holders from tables, presumably to cut costs. Napkins would still be available in other parts of the store. This would then be rolled out to more locations during the month.
 - In early April low volume stores would be told to reduce their hours of operation and to cut their salad bar indefinitely.<sup>(5)(5)</sup>
-- On the 15th, CEC would announce a partnership with the *American Society for Deaf Children* to provide a more inclusive experience for deaf guests. This would include more American Sign Language support media, staff training, fundraisers, and various helpful programs for deaf kids.<sup>(7)</sup>
+- On the 15th, CEC would announce a partnership with the *American Society for Deaf Children* to provide a more inclusive experience for deaf guests. This would include more American Sign Language support media, staff training, fundraisers, and various helpful programs for deaf kids.{{< cite 7 >}}
 - On the 18th CEC would post a survey on its [website](https://www.chuckecheese.com/) for a redesign of the {{< wiki-link "Ticket Blaster" >}}.
 - The annual *Summer of Fun* event would begin on April 29th. From then through September 2nd, CEC employees would be allowed to wear any *Summer of Fun* T-shirts or appropriate generic Hawaiian shirts at work. The new Strawberry Lemonade drink would be added permanently to the lineup. The first new food item of 2024 would be included, the limited-time *Summer of Fun* item of {{< wiki-link "Strawberry Lemonade Cotton Candy (CEC Menu Item)" "Strawberry Lemonade Cotton Candy" >}}.
 
@@ -69,38 +69,38 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 
 - On the 5th {{< wiki-link "Tallahassee, FL (2810 Sharer Rd)" >}}, one of the last stores holding a {{< wiki-link "Concept Unification Stage" >}}, would receive the {{< wiki-link "CEC 2.0 Remodel Program" "CEC 2.0 Remodel" >}} replacing the animatronics. Only 3 more stages would remain after this.
 - On the 11th CEC would announce the {{< wiki-link "CEC 2.0 Remodel Program" >}} would be wrapping up by the end of 2024. Only one other store with animatronics would be kept
-  other than {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, that being {{< wiki-link "Nanuet, NY (250 West Route 59)" >}} - a {{< wiki-link "Studio C Beta" >}} store with a {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}.<sup>(8)</sup> Employees being interviewed for the announcement were told they were prohibited from mentioning anything positive about the
-  animatronics to prevent bad press about their removal.<sup>(5)</sup> In the same article CEC would also mention the stamps used to mark visitors for safety would instead soon be replaced with pictures taken of the family as they entered the establishment.
-- On the 12th, Mark Kupferman would answer a few questions about the prior announcement. He would confirm that the Nanuet, NY location would be a 'hybrid store' like Northridge, CA, and not any of the themed stores from the previous month's survey. On a question on if the Nanuet animatronic would be worked on to finally be compatible with {{< wiki-link "Navori System" >}} shows, Mark would sidestep the answer to instead say that CEC had 'something cool planned' for the store. He would finally state that Nanuet being chosen does not have any affect on what future stores may also be chosen.<sup>(10)</sup> Kupferman would also later clarify that Nanuet was chosen after the survey results were submitted. He would then go on to express that Corporate is listening to the fans, however 'other considerations' are involved.<sup>(11)</sup>
+  other than {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, that being {{< wiki-link "Nanuet, NY (250 West Route 59)" >}} - a {{< wiki-link "Studio C Beta" >}} store with a {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}.{{< cite 8 >}} Employees being interviewed for the announcement were told they were prohibited from mentioning anything positive about the
+  animatronics to prevent bad press about their removal.{{< cite 5 >}} In the same article CEC would also mention the stamps used to mark visitors for safety would instead soon be replaced with pictures taken of the family as they entered the establishment.
+- On the 12th, Mark Kupferman would answer a few questions about the prior announcement. He would confirm that the Nanuet, NY location would be a 'hybrid store' like Northridge, CA, and not any of the themed stores from the previous month's survey. On a question on if the Nanuet animatronic would be worked on to finally be compatible with {{< wiki-link "Navori System" >}} shows, Mark would sidestep the answer to instead say that CEC had 'something cool planned' for the store. He would finally state that Nanuet being chosen does not have any affect on what future stores may also be chosen.{{< cite 10 >}} Kupferman would also later clarify that Nanuet was chosen after the survey results were submitted. He would then go on to express that Corporate is listening to the fans, however 'other considerations' are involved.{{< cite 11 >}}
 - On the 13th {{< wiki-link "Altoona, PA (3415 Pleasant Valley Blvd)" >}}, one of the last stores holding a Concept Unification Stage, would receive the CEC 2.0 Remodel, replacing the animatronics. Only 2 more stages would remain after this.
-- On the 18th, additional clarification from Mark Kupferman would state that the 'something cool planned' for Nanuet was not related to any programming of the Studio C Beta stage.<sup>(12)</sup>
-- On the 23rd, David McKillips would announce that Mark Kupferman was visiting the {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} location to make final decisions on their next remodel, implying it may get the same hybrid-store treatment as Northridge and Nanuet. This would be one of the highest voted shows in the {{< wiki-link "2024 CEC Future Planning Survey">}}.<sup>(13)</sup>
-- On the 24th, CEC would announce that it would be saving three more animatronic locations, being Charlotte Pineville-Matthews with a Concept Unification Stage, {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} with a {{< wiki-link "1-Stage" >}}, and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}} with a {{< wiki-link "Concept Unification 1-Stage" >}}.<sup>(14)</sup> Mark Kupferman would later remark that this was the last stages the company would be keeping the animatronics in based on the highest voted locations in the 2024 CEC Future Planning Survey.<sup>(15)</sup> The CEC Pop-Up Shop for employees would also open, featuring four new items. The shop would be planned to run until June 9th.
+- On the 18th, additional clarification from Mark Kupferman would state that the 'something cool planned' for Nanuet was not related to any programming of the Studio C Beta stage.{{< cite 12 >}}
+- On the 23rd, David McKillips would announce that Mark Kupferman was visiting the {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} location to make final decisions on their next remodel, implying it may get the same hybrid-store treatment as Northridge and Nanuet. This would be one of the highest voted shows in the {{< wiki-link "2024 CEC Future Planning Survey">}}.{{< cite 13 >}}
+- On the 24th, CEC would announce that it would be saving three more animatronic locations, being Charlotte Pineville-Matthews with a Concept Unification Stage, {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} with a {{< wiki-link "1-Stage" >}}, and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}} with a {{< wiki-link "Concept Unification 1-Stage" >}}.{{< cite 14 >}} Mark Kupferman would later remark that this was the last stages the company would be keeping the animatronics in based on the highest voted locations in the 2024 CEC Future Planning Survey.{{< cite 15 >}} The CEC Pop-Up Shop for employees would also open, featuring four new items. The shop would be planned to run until June 9th.
 
 #### June
 
-- On the 1st, Mark Kupferman would tease the upcoming Ninja Run concept to be coming to a few U.S. stores.<sup>(16)</sup>
+- On the 1st, Mark Kupferman would tease the upcoming Ninja Run concept to be coming to a few U.S. stores.{{< cite 16 >}}
 - On the 11th, CEC would make a post to its stores confirming that the Nanuet, NY location would be a '100% retro store', which would include 'retro nights'. The retro nights wouldn't be explained, but said they would focus around the early 2000's era of CEC.<sup>(5)(5)</sup>
 - On the 12th, CEC would announce the Ninja Run, being a test addon to the Trampoline Zone. The announced test store would be {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}}, but the {{< wiki-link "Medford, OR (293 E Barnett Rd)" >}}, {{< wiki-link "Buffalo, NY (2638 Delaware Ave)" >}} and an unnamed Colorado location would also be rumored to receive it.<sup>(5)(20)</sup>
-- On the 16th, the first Ninja Run would be confirmed to open at the Grand Prairie, TX store.<sup>(21)</sup>
-- On the 18th, a {{< wiki-link "Looney Bird (Animatronic)" "Pizzacam" >}} animatronic was sent to the Charlotte Pineville-Matthews location from the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} for installation. This animatronic was previously from the {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}} store and had been sitting in the warehouse for 2 years and 10 days.<sup>(5)</sup>
-- On June 26th, *Blank Tag Co.* would produce a set of CEC stickers featuring Avenger era artwork with new colors and shading.<sup>(23)</sup>
-- On June 28th, CEC would announce internally that the Hicksville, NY location would reopen on July 19th as one of the {{< wiki-link "CEC Legacy Locations" >}}.<sup>(5)</sup>
+- On the 16th, the first Ninja Run would be confirmed to open at the Grand Prairie, TX store.{{< cite 21 >}}
+- On the 18th, a {{< wiki-link "Looney Bird (Animatronic)" "Pizzacam" >}} animatronic was sent to the Charlotte Pineville-Matthews location from the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} for installation. This animatronic was previously from the {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}} store and had been sitting in the warehouse for 2 years and 10 days.{{< cite 5 >}}
+- On June 26th, *Blank Tag Co.* would produce a set of CEC stickers featuring Avenger era artwork with new colors and shading.{{< cite 23 >}}
+- On June 28th, CEC would announce internally that the Hicksville, NY location would reopen on July 19th as one of the {{< wiki-link "CEC Legacy Locations" >}}.{{< cite 5 >}}
 - On June 29th, Mark Kupferman would clarify that Nanuet, NY was not meant to be interpreted as a 'retro store' from a prior newsletter, but rather just a 'bonus location' to the {{< wiki-link "CEC Legacy Locations" >}}. Its 'retro nights' and additional artwork was not intended to have expectations of its {{< wiki-link "Studio C Beta" >}} stage being upgraded to a {{< wiki-link "Studio C Alpha" >}} or that programming would be brought back for the store, but simply additions to make the store unique and interesting.<sup>(25)(26)(27)</sup>
 
 #### July
 
-- On the 6th, *YouTooz* teases the {{< wiki-link "YouTooz Classic Chuck E. Cheese Plush" >}}.<sup>(28)</sup>
-- On the 10th, *YouTooz* would hold an AMA on Reddit, replying that the {{< wiki-link "YouTooz Classic Chuck E. Cheese Plush" >}} will be releasing on its own, and that more plushies are planned.<sup>(29)</sup>
+- On the 6th, *YouTooz* teases the {{< wiki-link "YouTooz Classic Chuck E. Cheese Plush" >}}.{{< cite 28 >}}
+- On the 10th, *YouTooz* would hold an AMA on Reddit, replying that the {{< wiki-link "YouTooz Classic Chuck E. Cheese Plush" >}} will be releasing on its own, and that more plushies are planned.{{< cite 29 >}}
 - On the 14th, the {{< wiki-link "Dubai Outlet Mall, U.A.E." >}} location would close after 16 years of service.
 - On the 23rd, the {{< wiki-link "YouTooz Classic Chuck E. Cheese Plush" >}} would be open for pre-orders and sold until July 30th. Plushies were set to be shipped later in November.
 
 #### August
 
-- On the 8th, CEC would be announced as a booth at {{< wiki-link "2024 ChainFest New York CEC Booth" "ChainFest New York 2024" >}}.<sup>(30)</sup>
+- On the 8th, CEC would be announced as a booth at {{< wiki-link "2024 ChainFest New York CEC Booth" "ChainFest New York 2024" >}}.{{< cite 30 >}}
 - On the 9th, CEC would announce that its rewards program would end on August 31st, 2024, and that members were
   able to still redeem their points until December 31, 2024. A new rewards program would be said to plan to launch
-  in 2025, which would carry over any visits made after the announcement.<sup>(5)</sup>
+  in 2025, which would carry over any visits made after the announcement.{{< cite 5 >}}
 
 ### September
 

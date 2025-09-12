@@ -13,7 +13,7 @@ Cyberamics manufactured by Pizza Time Theatre, Inc came with valves from *Clippa
 
 ## Purchasing New Valves
 
-This valve, as of 2023, can be found for around $20-40 each from various venders and resellers.<sup>(1)</sup> Clippard is also still producing these valves and can be bought directly from them.<sup>(2)</sup>
+This valve, as of 2023, can be found for around $20-40 each from various venders and resellers.{{< cite 1 >}} Clippard is also still producing these valves and can be bought directly from them.{{< cite 2 >}}
 
 ## Identifying Bad Valves
 

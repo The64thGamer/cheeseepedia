@@ -13,7 +13,7 @@ The ***Golf (Magazine)* was a poster created for Chuck E. Cheese's around 1994-1
 
 ## History
 
-The statue in the design was a variant of a standard {{< wiki-link "Artifact Shelves" >}} Chuck statue in a golf uniform. The statue would be created by Peeler Rose Productions in 1993 with a full hand-crafted outfit.<sup>(1)</sup>
+The statue in the design was a variant of a standard {{< wiki-link "Artifact Shelves" >}} Chuck statue in a golf uniform. The statue would be created by Peeler Rose Productions in 1993 with a full hand-crafted outfit.{{< cite 1 >}}
 
 ## Design
 

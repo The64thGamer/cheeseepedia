@@ -17,7 +17,7 @@ A notable point in the description is the reference to 'actual and virtual conce
 
 ## Initial Trademarks
 
-On February 17, 2022, CEC Entertainment Concepts, LP filed two trademarks, one under *Chuck E. Cheese Metaverse*<sup>(1)</sup>*,* and one under *Chuck E. Verse*<sup>(2)</sup>. Both applications lists the same details under their purpose, that being:
+On February 17, 2022, CEC Entertainment Concepts, LP filed two trademarks, one under *Chuck E. Cheese Metaverse*{{< cite 1 >}}*,* and one under *Chuck E. Verse*{{< cite 2 >}}. Both applications lists the same details under their purpose, that being:
 "Virtual food and beverage products; downloadable multimedia files containing artwork, text, audio and video files and non-fungible tokens; downloadable virtual goods, namely, computer programs featuring art, toys and accessories for use online and in online virtual worlds; downloadable computer software in the nature of video games; downloadable computer software in the nature of mobile applications
 Online retail services featuring virtual goods
 Entertainment services, namely, providing on-line actual and virtual concerts, theatrical performances and other virtual events; entertainment services, namely, providing online arcade games, video games and electronic games

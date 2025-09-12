@@ -16,13 +16,13 @@ The pizza was served with 9-10 different toppings in multiple sizes throughout i
 
 It would first appear at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} on May 3rd, 1977, at the Pizza Time Theatre Grand Opening Review (Event)|Pizza Time Theatre Grand Opening Review.https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977/page/n1/mode/2up The event described the locations pizza:
 
-> '-Pasqually would like to introduce his new finger kissin' pizza, his new high-protein pizza which features whole-wheat crust containing protein equivalent to a ⅓ lb. sirloin steak.'<sup>(4)</sup>
+> '-Pasqually would like to introduce his new finger kissin' pizza, his new high-protein pizza which features whole-wheat crust containing protein equivalent to a ⅓ lb. sirloin steak.'{{< cite 4 >}}
 
 The pizza could be served in three sizes, 'Little Cheese' for 1-2 people, 'Regular Cheese' for 2-3 people, and 'Big Cheese' for 3-4 people. These would be priced at $3.85, $5.95, and $6.95.
 
 ### 1979-1980 Recipe
 
-The pizza would later change recipe in 1979-1980. With this, the Canadian bacon and tomatoes would be removed from the toppings, and in their place would be Linguica style sausage. The sizes would also now change name to being 'Individual' / 'Small', 'Medium', and 'Large', alongside their prices now being $4.95, $7.25, and $8.95.<sup>(5)</sup>
+The pizza would later change recipe in 1979-1980. With this, the Canadian bacon and tomatoes would be removed from the toppings, and in their place would be Linguica style sausage. The sizes would also now change name to being 'Individual' / 'Small', 'Medium', and 'Large', alongside their prices now being $4.95, $7.25, and $8.95.{{< cite 5 >}}
 
 ### Poster
 
@@ -30,12 +30,12 @@ As part of the *New Sandwich Program* in 1981 the Big C Combo would be featured 
 
 ### Price Jumps
 
-By July 3rd, 1981, a presumed large size for a Big C's Combo would be listed at $11.55.<sup>(6)</sup> By December 4th, it would be $12.05.<sup>(7)</sup> By July 29, 1982, a medium would be listed as $9.70.<sup>(8)</sup>
+By July 3rd, 1981, a presumed large size for a Big C's Combo would be listed at $11.55.{{< cite 6 >}} By December 4th, it would be $12.05.{{< cite 7 >}} By July 29, 1982, a medium would be listed as $9.70.{{< cite 8 >}}
 
 ### 1980-1983 Recipe
 
 Some point between the previous recipe changes and May 18th, 1983, the recipe would change once again. This time the Canadian bacon would return, and the Linguica style sausage would be removed. Ham would also now be added to the toppings- bringing the toppings count back up to 10.
-By October of that year, the price for a large would increase to $13.95.<sup>(9)</sup>
+By October of that year, the price for a large would increase to $13.95.{{< cite 9 >}}
 
 ### Removal
 

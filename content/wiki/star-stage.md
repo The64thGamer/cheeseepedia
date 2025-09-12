@@ -15,7 +15,7 @@ The ***Star Stage* was a prototype stage show installed in the {{< wiki-link "Da
 
 In 2009 [Chute Gerdeman Retail](https://www.chutegerdeman.com/) proposed a brand-new show idea for the currently existing Studio C shows. Stating that Studio C's Showroom was outdated and incohesive, convincing them to remodel the showroom at the Dallas Texas Location in 2010. The demise of the show was due to the internal controversy with Robert Gotcher and Jeremy Blaido at the time. Once Robert was fired, Jeremy ordered the show to be removed in 2012.
 
-## Design<sup>(1)</sup>
+## Design{{< cite 1 >}}
 
 - Red, Green, Yellow, & Purple would become the primary colors for this showroom remodel.
 - The 5 Main Characters get brand new wall art for the showroom, having a 3D effect on them to seem as if they're popping out of the picture frame.
@@ -24,7 +24,7 @@ In 2009 [Chute Gerdeman Retail](https://www.chutegerdeman.com/) proposed a brand
 - On the side includes the Ticket Blaster, Video Screens, and a cartoon Fiberglass chair with the sign 'You're the Star!' over it.
 - To fit the theme of being the star of the show, many stars are featured throughout the walls and stage.
 
-## Lighting & Tech<sup>(1)</sup>
+## Lighting & Tech{{< cite 1 >}}
 
 - The Stage Show used an updated version of {{< wiki-link "Animation Programming System" >}} for Studio C to have compatibility with Widescreen & HD Video, Often seen as the predecessor to the {{< wiki-link "Studio C HD Weigl Control System" >}}. This software would be considered obsolete due to apparently always glitching and breaking during shows.
 - And it being a previous Studio C Beta, they reused most of the lighting for this stage. The only new lighting included color changing LEDs that would shine on Chuck E. during songs.

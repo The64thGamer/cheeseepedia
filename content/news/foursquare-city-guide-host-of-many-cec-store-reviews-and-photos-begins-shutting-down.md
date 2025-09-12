@@ -7,6 +7,6 @@ tags = ["Animatronic News"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "GYWEFIH23987FH239F.avif"
 +++
-Foursquare's review site City Guide is shutting down its app today, December 15th, and plans to shut down its web version in early 2025.<sup>(1)</sup>
+Foursquare's review site City Guide is shutting down its app today, December 15th, and plans to shut down its web version in early 2025.{{< cite 1 >}}
 The site is known for many exclusive images of Chuck E. Cheese and other animatronics related locations, which needs to be archived for the future. Almost none of the pages have been saved on the Wayback Machine, though this has been worked on since the announcement.
-The best way to archive the pages in bulk is to search for "Chuck E. Cheese" and an included state, then save the page with all outlinks to capture every store it finds.<sup>(2)</sup> If you're wanting to save the photos manually, you'll need to open the "All Photos" link on the store pages in a new tab, as clicking on them is currently broken.
+The best way to archive the pages in bulk is to search for "Chuck E. Cheese" and an included state, then save the page with all outlinks to capture every store it finds.{{< cite 2 >}} If you're wanting to save the photos manually, you'll need to open the "All Photos" link on the store pages in a new tab, as clicking on them is currently broken.

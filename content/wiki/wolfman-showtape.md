@@ -15,7 +15,7 @@ The ***Wolfman Showtape* is a currently lost showtape that played in the first S
 
 ## Segments
 
-10 segments are confirmed for the tape, but no segment or song names have been cited.<sup>(0)</sup>
+10 segments are confirmed for the tape, but no segment or song names have been cited.{{< cite 0 >}}
 
 1.  **Segment 1**
     1.  ???

@@ -13,7 +13,7 @@ The unknown eighth sandwich item is a presumed discontinued item from the menu o
 
 ## Evidence
 
-In the *'St. Pong Revisited' The Gospel of St. Pong (Vol 4, No. 1977, April 1977)* newsletter, three Grand Opening Reviews would be noted prior to the building's true opening date. In the listing, a description of the menu options provided would be shown, which matched the standard Pizza Time Theatre menu for the time. However, when listing the sandwiches, it notes 'eight different types of hot sandwiches'.<sup>(1)</sup>
+In the *'St. Pong Revisited' The Gospel of St. Pong (Vol 4, No. 1977, April 1977)* newsletter, three Grand Opening Reviews would be noted prior to the building's true opening date. In the listing, a description of the menu options provided would be shown, which matched the standard Pizza Time Theatre menu for the time. However, when listing the sandwiches, it notes 'eight different types of hot sandwiches'.{{< cite 1 >}}
 Only seven sandwiches are listed in the final 1977 menu.
 
 - Magnificent Meat Ball (PTT Menu Item)

@@ -13,7 +13,7 @@ categories = ["Pizza Time Theatre"]
 
 ## History
 
-In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants<sup>(1)</sup> would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
+In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants{{< cite 1 >}} would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
 
 ## Design
 

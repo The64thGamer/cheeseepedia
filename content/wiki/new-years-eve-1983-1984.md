@@ -16,7 +16,7 @@ alsoKnownAs = ["CREATIVE ENGINEERING NYST0406-12243 NEW YEARS EVE 1983, 1984 SHO
 
 ## Changes
 
-The tape is a recut of {{< wiki-link "New Years Eve Countdown '82'" >}}, which includes dialogue changes to remove references to the exact year, alongside removal of any audience noises.<sup>(1)</sup>
+The tape is a recut of {{< wiki-link "New Years Eve Countdown '82'" >}}, which includes dialogue changes to remove references to the exact year, alongside removal of any audience noises.{{< cite 1 >}}
 
 ## Show List
 

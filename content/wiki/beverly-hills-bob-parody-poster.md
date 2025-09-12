@@ -14,7 +14,7 @@ The ***Beverly Hills Bob* was a poster created for ShowBiz Pizza and Chuck E. Ch
 ## Production
 
 This poster was one of the few Rock Afire Explosion parody posters released in 1988. Once {{< wiki-link "Concept Unification" >}} began this poster would cease production in 1990.
-Unlike the {{< wiki-link "Mitzie (Parody Poster)" >}}, King Fatz (Parody Poster)|King Fatz, and {{< wiki-link "Pizza Wars (Parody Poster)" >}} posters, this poster in particular has never been re-released by Creative Engineering at any point after Concept Unification.<sup>(1)</sup>
+Unlike the {{< wiki-link "Mitzie (Parody Poster)" >}}, King Fatz (Parody Poster)|King Fatz, and {{< wiki-link "Pizza Wars (Parody Poster)" >}} posters, this poster in particular has never been re-released by Creative Engineering at any point after Concept Unification.{{< cite 1 >}}
 
 ## Design
 

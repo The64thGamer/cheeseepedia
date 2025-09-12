@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","CEC Tinley","WalterB"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre","https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre"]
 +++
 The ***Pizza Time Theatre Winchester Control System* was the system used to control the animatronics exclusively at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} from May 1977 to sometime between 1980 and 1981.
-The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters<sup>(1)</sup>**
+The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters{{< cite 1 >}}**
 
 ## Hardware
 
@@ -20,7 +20,7 @@ Due to the later {{< wiki-link "SongCode Hardware Setup" >}} using a TEAC A-2340
 
 ### Unnamed Decoding Box
 
-Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central *minicomputer* controlling the system<sup>(2)</sup>, meaning the decoding device was only there for decoding and streaming.
+Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central *minicomputer* controlling the system{{< cite 2 >}}, meaning the decoding device was only there for decoding and streaming.
 
 ### 6502-Based Controllers
 

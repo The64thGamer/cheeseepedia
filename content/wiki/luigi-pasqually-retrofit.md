@@ -15,10 +15,10 @@ The animatronic was originally able to be seen in the 'International Foods' sect
 ## History
 
 Luigi originally came from the {{< wiki-link "Cincinnati, OH (11400 Princeton Pike)" >}} Pizza Time Theatre and was bought by Jungle Jim's after the location closed in the Fall of 1984. Luigi was first installed in 1995 in a stand in the Italy section of 'International Foods' his stand was labeled as 'Luigi Ristorante No One Cooks Like Luigi ' being made all out of wood with a small roof over the Cyberamic.
-Cosmetically speaking Luigi's mask was reused from when he was at Pizza Time Theatre with the only change being the addition of eyebrows. He wears a chefs hat that is the size of his entire head. His outfit is a white shirt with a blue undershirt with a red handkerchief on top. Luigi would sing songs by Mario Lanza<sup>(1)</sup> Although it is currently unknown what he sang.
+Cosmetically speaking Luigi's mask was reused from when he was at Pizza Time Theatre with the only change being the addition of eyebrows. He wears a chefs hat that is the size of his entire head. His outfit is a white shirt with a blue undershirt with a red handkerchief on top. Luigi would sing songs by Mario Lanza{{< cite 1 >}} Although it is currently unknown what he sang.
 Luigi was replaced between 2002 - 2003 with Pedro who reused the stand, mask frame and white shirt with the blue undershirt.
 
 ## Lost Media & Unknown information.
 
-The only information related to what Luigi preformed is in an April 2002 article which stated 'At Luigi's Ristorante the crowd is serenaded by tenor Marion Lanza's famous voice'.<sup>(2)</sup>
+The only information related to what Luigi preformed is in an April 2002 article which stated 'At Luigi's Ristorante the crowd is serenaded by tenor Marion Lanza's famous voice'.{{< cite 2 >}}
 As is with the rest of the animatronics installed he most likely had holiday tracks but those are also lost.

@@ -74,7 +74,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Production
 
-CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
+CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
 
 ### File Dates
 

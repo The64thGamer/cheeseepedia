@@ -18,7 +18,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype plush can be seen in the 1997-1998 Merch Catalogue.<sup>(1)</sup> Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as opposed to the released plush having them printed on its eyes.
+A prototype plush can be seen in the 1997-1998 Merch Catalogue.{{< cite 1 >}} Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as opposed to the released plush having them printed on its eyes.
 
 #### Prototype Gallery
 

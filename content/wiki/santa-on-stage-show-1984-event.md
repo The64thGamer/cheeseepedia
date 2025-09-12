@@ -15,24 +15,24 @@ Santa On Stage Show 1984 was a continuation of the {{< wiki-link "Santa On Stage
 
 One store would be confirmed to have kept Klunk from the previous {{< wiki-link "Santa On Stage Show 1983 (Event)" >}} event. This is only by confirmation that they had the {{< wiki-link "Country Klunk (Event)" >}} event, which is presumed to always have coincided with storesCountry Klunk tape filmed there.
 
-- {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}}<sup>(1)</sup>
+- {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}}{{< cite 1 >}}
 
 Two other stores are inferred to have had this event due to showing Country Klunk, though it is unknown if Kedzie received a traveling Klunk, or obtained one from Farmington Hills, MI (29955 Orchard Lake Rd) with all the other animatronics they obtained from their closure.
 
-- {{< wiki-link "Fresno, CA (3117 W Shaw Ave)" >}}<sup>(1)</sup>
+- {{< wiki-link "Fresno, CA (3117 W Shaw Ave)" >}}{{< cite 1 >}}
 - {{< wiki-link "Chicago, IL (5030 S Kedzie Ave)" >}}Klunk sign mechs found in ceiling area.
 
 Five stores are confirmed to have done this event, but aren't confirmed if they had previously had Klunk, or had newly received them for the event.
 
-- Bremerton, WA (4060 Wheaton Way)<sup>(2)</sup>
+- Bremerton, WA (4060 Wheaton Way){{< cite 2 >}}
 - West St. Paul, MN (1422 S Robert St)https://www.newspapers.com/article/star-tribune/39032432/
-- St. Paul, MN (1624 White Bear Ave)<sup>(14)</sup>
-- Minneapolis, MN (5939 John Martin Dr)<sup>(14)</sup>
-- Bloomington, MN (7989 Southtown Dr)<sup>(14)</sup>
+- St. Paul, MN (1624 White Bear Ave){{< cite 14 >}}
+- Minneapolis, MN (5939 John Martin Dr){{< cite 14 >}}
+- Bloomington, MN (7989 Southtown Dr){{< cite 14 >}}
 
 ### Unconfirmed Stores
 
 Two stores had some sort of Klunk part discovered at their location. Springfield with Klunk valves, and Davenport with a Klunk arm. This confirms Klunk was present at their store at some point, but it is unknown which event(s) he was used in. Davenport does mention potentially receiving a Klunk for 1983 however.https://www.newspapers.com/image/665684553/?clipping_id=55395460&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjY2NTY4NDU1MywiaWF0IjoxNjk2OTcwNDk0LCJleHAiOjE2OTcwNTY4OTR9.sClG1OZrf2KnRIxRDXP7BAdtVpv1p4YKdgIgIRQHA4Q
 
-- {{< wiki-link "Springfield, OH (2345 Valley Loop Rd)" >}}<sup>(3)</sup>
+- {{< wiki-link "Springfield, OH (2345 Valley Loop Rd)" >}}{{< cite 3 >}}
 - {{< wiki-link "Davenport, IA (903 E Kimberly Rd)" >}}<sup>(4)(0)</sup>

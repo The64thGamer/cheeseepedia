@@ -8,7 +8,7 @@ endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=ckLqwzSsUs8"]
 +++
-***CEC Walkaround Training & Care* is a employee training tape for Pizza Time Theatre released on *October 12, 1988*<sup>(1)</sup>.
+***CEC Walkaround Training & Care* is a employee training tape for Pizza Time Theatre released on *October 12, 1988*{{< cite 1 >}}.
 The tape goes over putting on the Chuck E. costume, cleaning the costume, making unique and imaginative gestures towards guests, and interacting with kids.**
 
 ## Summary

@@ -10,7 +10,7 @@ citations = ["https://jmcostumers.com/html/showbizPizza.html"]
 pageThumbnailFile = "RhBwU1El_3BW6e_GPT44.avif"
 +++
 The ***Mitzi Cyberstar Walkaround* was a walkaround used exclusively for *Cyberstar* videos at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
-The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.<sup>(1)</sup>**
+The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.{{< cite 1 >}}**
 
 ## Variants
 

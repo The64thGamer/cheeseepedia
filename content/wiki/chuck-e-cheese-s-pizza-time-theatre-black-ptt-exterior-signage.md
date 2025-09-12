@@ -13,7 +13,7 @@ The ***Black Pizza Time Theatre Exterior Sign*** was an exterior sign installed 
 
 ## History
 
-The Black PTT Exterior Sign was created as the mostly standard PTT exterior logo as both {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} and {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} used non standard Exterior Signs. The Black PTT Exterior Sign was used on most PTT exteriors from 1979 to early 1981, however, some used plain Yellow letter signage.<sup>(1)</sup> The sign was replaced on most PTT stores during the early 1980's due to most getting the {{< wiki-link "PTT 1981 Update" >}}. The last sign was removed after he closure of {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} in 1991.
+The Black PTT Exterior Sign was created as the mostly standard PTT exterior logo as both {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} and {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} used non standard Exterior Signs. The Black PTT Exterior Sign was used on most PTT exteriors from 1979 to early 1981, however, some used plain Yellow letter signage.{{< cite 1 >}} The sign was replaced on most PTT stores during the early 1980's due to most getting the {{< wiki-link "PTT 1981 Update" >}}. The last sign was removed after he closure of {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} in 1991.
 
 ## Design
 

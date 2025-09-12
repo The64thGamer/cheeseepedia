@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Largo, MD (1100 Shoppers Way)"]
 startDate = ""
-description = "Largo's Studio C 16m Bot, 2021<sup>(0)</sup>"
+description = "Largo's Studio C 16m Bot, 2021"
 +++

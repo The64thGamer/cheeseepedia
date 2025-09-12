@@ -9,12 +9,12 @@ contributors = ["The 64th Gamer"]
 citations = ["https://www.barnesandnoble.com/s/%22Weldon+Owen%22/_/N-y3b?Nrpp=20&Ns=P_Sales_Rank&Ntk=Publisher&Ntx=mode+matchall&page=4","https://www.simonandschuster.com/books/Chuck-E-Cheese-and-Friends-Party-Cookbook/Chuck-E-Cheese/9798886740868","https://www.walmart.com/ip/Chuck-E-Cheese-and-Friends-Party-Cookbook-Hardcover-9798886740868/3554613500","https://www.amazon.com/Chuck-Cheese-Friends-Party-Cookbook/dp/B0C7P4TQ31"]
 +++
 The ***Chuck E. Cheese and Friends Party Cookbook* is an upcoming cookbook releasing in stores on March 19, 2024.https://www.barnesandnoble.com/w/chuck-e-cheese-and-friends-party-cookbook-chuck-e-cheese/1143636838;jsessionid=20A85F139D0ECFC9346CA72ECC28240F.prodny_store01-atgap16?ean=9798886740868&st=AFF&2sid=Simon%20&%20Schuster_7567305_NA&sourceId=AFFSimon%20&%20Schuster
-The book would be authored by Weldon Owen, whom had previously made many cookbooks- alongside licensed ones such as for the Peanuts and Barbie brands.<sup>(1)</sup>**
+The book would be authored by Weldon Owen, whom had previously made many cookbooks- alongside licensed ones such as for the Peanuts and Barbie brands.{{< cite 1 >}}**
 
 ## Production
 
 Preorders would begin appearing on various book sellers in mid-August of 2023, which would be spotted on August 18th.<sup>(2)(0)(3)</sup>
-The cover would be uploaded some time before November 3rd, alongside more product details.<sup>(4)</sup>
+The cover would be uploaded some time before November 3rd, alongside more product details.{{< cite 4 >}}
 
 ## Official Description
 
@@ -25,4 +25,4 @@ The cover would be uploaded some time before November 3rd, alongside more produc
 > **THE PERFECT GIFT** for kids of all ages, especially aspiring young chefs.
 > **BRING CHUCK E. CHEESE TO YOU:** With dozens of fun, tasty, easy-to-make recipes and QR codes to interactive videos, get all the fun of a Chuck E. Cheese without ever leaving home!
 > **FOR THE FANS:** Whether your favorite character is Munch or Helen Henny, the *Chuck E. Cheese and Friends Party Cookbook* features each and every rockin' character from Chuck E.'s awesome crew.
-> **DOZENS OF RECIPES:** From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!<sup>(0)</sup>
+> **DOZENS OF RECIPES:** From pizzas to milkshakes, Southern food to Spanish food, from breakfast, to dessert, this cookbook will have a recipe kids will love!{{< cite 0 >}}

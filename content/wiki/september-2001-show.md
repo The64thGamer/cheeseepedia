@@ -74,7 +74,7 @@ This show featured 4 segments with 8 songs.
 
 **Birthday Break**: The September 2001 logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
-## Production<sup>(1)</sup>
+## Production{{< cite 1 >}}
 
 ### File Dates
 

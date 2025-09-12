@@ -18,7 +18,7 @@ political footage behind him. The video would be taken down by YouTube, and its 
 ## Controversy
 
 While the original song release in 1965 was deemed controversial, and even banned in some parts of the
-U.S.<sup>(1)</sup>, *Creative Engineering*'s version featured changed and updated lyrics to reflect the current
+U.S.{{< cite 1 >}}, *Creative Engineering*'s version featured changed and updated lyrics to reflect the current
 political climate of the time. The video did not go well with viewers of the *Creative Engineering* channel, even
 with their output of more adult shows at the time. Notably, the sole singer of the song *Earl Schmerle*, recites a
 slur towards the end of the song. After being privated, the original video would be removed in 2020 for violating
@@ -34,8 +34,8 @@ On December 18, 2022, the Creative Engineering YouTube Channel would have their 
 email and used to take over their channel to the prevalent at the time 'Tesla Live' crypto scam. A result of this hack
 was the unlisting of all of the channel's privated videos, which would include the still up subtitled release of Eve of
 Destruction. The video would stay unlisted until December 25th, where Creative Engineering would have their channel
-control restored.<sup>(2)</sup> Alongside this listing, previous lost comments made by Creative Engineering about the
-controversy when the video was originally uploaded were unearthed.<sup>(3)</sup>
+control restored.{{< cite 2 >}} Alongside this listing, previous lost comments made by Creative Engineering about the
+controversy when the video was originally uploaded were unearthed.{{< cite 3 >}}
 
 ## Show List:
 

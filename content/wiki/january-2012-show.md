@@ -13,7 +13,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **January 2012** is a compilation show featuring eight reused songs from 1999 - 2011 alongside newly recorded dialogue.
-This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.<sup>(1)</sup> This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
+This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.{{< cite 1 >}} This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
 
 ## Unused Version
 

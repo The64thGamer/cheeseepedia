@@ -17,7 +17,7 @@ It was vegetarian themed version of the regular PTT pizza with 6 topping & 3 siz
 
 ## Recipe
 
-### Ingredients<sup>(3)</sup>
+### Ingredients{{< cite 3 >}}
 
 - Wheat Crust
 - Unknown Sauce

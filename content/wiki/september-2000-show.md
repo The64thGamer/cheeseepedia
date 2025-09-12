@@ -87,4 +87,4 @@ The **September 2000 Show** (also known as ***The Chuck E. Cheese Show*) was a s
   - Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video' The voiceover for this skit was done by Brian Hagan.
   - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola' alongside Ryan Hollingsworth.
 - The music for 'Football' and 'Flyball' is reused from {{< wiki-link "August 1997 Show" >}} and {{< wiki-link "September 1998" >}} respectively.
-- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.<sup>(1)</sup>
+- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.{{< cite 1 >}}

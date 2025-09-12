@@ -12,4 +12,4 @@ The 1991 update to the ShowBiz Chuck E Cheese walk around head saw a few updates
 
 ## Trivia
 
-- This head made an unexpected appearance in the Spring 2014 showtape, where the Grizzly Bear character tells the Centaur character that he's in disbelief that a mouse would be wearing a tuxedo. This appearance has him wearing a top hat instead of a derby, though.<sup>(1)</sup>
+- This head made an unexpected appearance in the Spring 2014 showtape, where the Grizzly Bear character tells the Centaur character that he's in disbelief that a mouse would be wearing a tuxedo. This appearance has him wearing a top hat instead of a derby, though.{{< cite 1 >}}

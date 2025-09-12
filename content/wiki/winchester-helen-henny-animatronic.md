@@ -21,7 +21,7 @@ In August 1977, Pizza Time Theatre had finalized their 'Guest Star' concept with
 
 ### At Winchester
 
-The Bot was installed at the Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} on August 12th, 1977<sup>(1)</sup>. The Bot was installed with the {{< wiki-link "Helen Henny Showtape" >}}. The Bot was replaced in February 1978 when {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} was installed.
+The Bot was installed at the Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} on August 12th, 1977{{< cite 1 >}}. The Bot was installed with the {{< wiki-link "Helen Henny Showtape" >}}. The Bot was replaced in February 1978 when {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} was installed.
 
 ### Fate
 

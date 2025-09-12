@@ -87,5 +87,5 @@ The ***Artie Antlers Showtape* is a showtape released for the {{< wiki-link "Art
 
 ## Production
 
-Jim Cunningham, a band member of *The High Time Octet*<sup>(1)</sup>, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. <sup>(2)</sup>
+Jim Cunningham, a band member of *The High Time Octet*{{< cite 1 >}}, was flown from Denton, Texas to San Francisco by Pizza Time Theatre to record for the showtape. He would voice Artie Antlers, with the recording session lasting over the course of four days. {{< cite 2 >}}
 Jim states the pianist for the sessions was someone who had done work with the *Pointer Sisters*. Although 12 separate pianists have been credited under the Pointer Sisters by 1980, this could potentially be Tom Salisbury or William 'Smitty' Smith for their longer lasting and more recent work at the time for the band.<sup>(3)(4)</sup>

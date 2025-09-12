@@ -19,7 +19,7 @@ Howdy folks, I'm Billy Bob. That's three B's, two L's, a I, a Y, and a O.
 
 **[Billy Bob laughs]**
 
-Its real nice yall could drop in on me today, things gets kinda quiet here at Smitty's Super Service Station sometimes. What with the gas sit-i-ation the way it is n' all.<sup>(1)</sup> We've had to stop selling gasoline altogether. Once it got past twenty five cent a gallon, I didn't have no more friends what could afford it no-how. But... things'll be alright soon- cause, as you can see, I'm making up a new fangled formula down here on the floor. Yeah its made of lots of good stuff and its in this little container and its gets all boiled up n' everything, and it comes out this long tube...
+Its real nice yall could drop in on me today, things gets kinda quiet here at Smitty's Super Service Station sometimes. What with the gas sit-i-ation the way it is n' all.{{< cite 1 >}} We've had to stop selling gasoline altogether. Once it got past twenty five cent a gallon, I didn't have no more friends what could afford it no-how. But... things'll be alright soon- cause, as you can see, I'm making up a new fangled formula down here on the floor. Yeah its made of lots of good stuff and its in this little container and its gets all boiled up n' everything, and it comes out this long tube...
 
 **[Billy Bob plays his guitar strings higher then lower in pitch while explaining]**
 

@@ -104,4 +104,4 @@ This show played from July - August 31, 2010.
 
 - Segment 1, and Segment 6 are reused from {{< wiki-link "Summer 2007 Show" >}}, 'Ain't Nothing Wrong With That', 'Ray of Sunshine', 'Hey, Soul Sister', and 'Magic' are reused from {{< wiki-link "April 2010 Show" >}}. VeggieTales - 'Song Of The Cebu' is reused from {{< wiki-link "Just for Kids Show 2000" >}}.
 - No puppet footage was reused for the Studio C version, and the Summer 2007 show logo was added to the April 2010 segments to replace the puppet footage for all stages.
-- This was Matt Daniel's first show after returning to the Entertainment Department. <sup>(1)</sup>
+- This was Matt Daniel's first show after returning to the Entertainment Department. {{< cite 1 >}}

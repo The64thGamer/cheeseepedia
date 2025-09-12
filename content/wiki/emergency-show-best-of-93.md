@@ -13,7 +13,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***60 Minute Emergency Back-Up* was a shortened emergency backup version of the {{< wiki-link "Best of CEC TV 1993">}}, lasting from May 1993 to the {{< wiki-link "Chuck E's Variety Show - Best of 1999">}} in January 2000.
-The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.<sup>(1)</sup>**
+The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.{{< cite 1 >}}**
 
 ## Emergency Backup Format
 

@@ -17,7 +17,7 @@ The animatronic consists of two separate bots: Banjo, whom is depicted like a re
 ## History
 
 The animatronic would be used for two shots in it's produced commercial, one being of Banjo and Kazooie swooping in on the main characters, and a wide shot of them flying in the distance. Other shots show Banjo grabbing and holding onto one of the characters. The Banjo was possibly reused from AnimatedFX's "Grizzly Bear" prop, which consisted of multiple different suits and animated heads to be puppeteered for various occurances.<sup>(5)(1)</sup>
-The Kazooie part of the bot would surface in 2025 after being purchased by a collector from Auctioneers.com for $2100.<sup>(3)(4)</sup> Portions of the Banjo section are seen, but the bear body was not part of the current state of the animatronic.<sup>(2)</sup>
+The Kazooie part of the bot would surface in 2025 after being purchased by a collector from Auctioneers.com for $2100.<sup>(3)(4)</sup> Portions of the Banjo section are seen, but the bear body was not part of the current state of the animatronic.{{< cite 2 >}}
 
 ## Movements
 

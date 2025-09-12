@@ -20,7 +20,7 @@ This show has the same segments, and music videos from last years release, but t
 1.  **Intermission 1**
     1.  6 Minute Countdown
         1.  [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album))
-        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')<sup>(1)</sup>
+        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas'){{< cite 1 >}}
         3.  Birthday Spectacular
     2.  Cyberstar Intro
 2.  **Segment 1**

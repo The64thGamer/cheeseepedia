@@ -36,11 +36,11 @@ backs, with Burt Wilson replying 'Ah, they're going to get into appliances on th
 Earl directly mentions the Colander Head night taking place on Wednesday nights. This was because of the return of the
 Crazy Colander Head Night during {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}}, where both White Album and the {{< wiki-link "Crazy Colander Head Night (Event)" "Crazy Colander Head Night" >}} showtape would be playing in the same weeks for the entirety of their run.
 This was originally meant to synergize the two showtapes, which was already being done by the inclusion of employee
-performances in 'Tribute to Frank Sinatra'.<sup>(0)</sup>
+performances in 'Tribute to Frank Sinatra'.{{< cite 0 >}}
 The segment in the end would be cut, but would still appear exclusively on Rock-afire Explosion Record 10
-(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.<sup>(0)</sup> Oddly, 2 days before the event was
+(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.{{< cite 0 >}} Oddly, 2 days before the event was
 planned to start, an interview with Aaron Fechter has him directly discussing the Small Appliances segment, implying it
-might have been cut very last minute.<sup>(1)</sup>
+might have been cut very last minute.{{< cite 1 >}}
 
 ### White Album Revised & ADAT Edit
 

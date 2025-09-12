@@ -14,4 +14,4 @@ The ***Helen Henny Showtape* is a currently lost *Pizza Time Theatre* showtape t
 
 ## History
 
-The confirmation of this showtapes existence is from the installation of {{< wiki-link "Winchester Helen Henny (Animatronic)" >}} at the Winchester location on August 12, 1977.<sup>(1)</sup> The showtape would run until {{< wiki-link "Madame Oink I" >}} replaced it in February of 1978.
+The confirmation of this showtapes existence is from the installation of {{< wiki-link "Winchester Helen Henny (Animatronic)" >}} at the Winchester location on August 12, 1977.{{< cite 1 >}} The showtape would run until {{< wiki-link "Madame Oink I" >}} replaced it in February of 1978.

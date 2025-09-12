@@ -58,12 +58,12 @@ In addition, a revision version of the {{< wiki-link "Uncle Klunk Showtape" >}} 
 
 Three stores in Ohio did not get ads until July 30th but still continued on to August 18th, now only having a 19-day event:
 
-- {{< wiki-link "Cincinnati, OH (3365 Highland Ave)" >}}<sup>(17)</sup>
-- {{< wiki-link "Sharonville, OH (1429 E Kemper Rd)" >}}<sup>(17)</sup>
-- {{< wiki-link "Cincinnati, OH (8801 Colerain Ave)" >}}<sup>(17)</sup>
+- {{< wiki-link "Cincinnati, OH (3365 Highland Ave)" >}}{{< cite 17 >}}
+- {{< wiki-link "Sharonville, OH (1429 E Kemper Rd)" >}}{{< cite 17 >}}
+- {{< wiki-link "Cincinnati, OH (8801 Colerain Ave)" >}}{{< cite 17 >}}
 
 ### Unknown Wave Stores
 
-{{< wiki-link "Myrtle Beach, SC (615 Lake Arrowhead Rd)" >}} is known to have kept Klunk's camera prop after switching back to Rolfe. However, it is unknown which wave they installed Klunk at.<sup>(18)</sup>
+{{< wiki-link "Myrtle Beach, SC (615 Lake Arrowhead Rd)" >}} is known to have kept Klunk's camera prop after switching back to Rolfe. However, it is unknown which wave they installed Klunk at.{{< cite 18 >}}
 {{< wiki-link "Fargo, ND (1202 Nodak Dr)" >}} has testimony from its General Manager that Klunk was brought in and later used as a Santa.
 [[Note: Citations on this page are scrambled and need to be reassigned]]

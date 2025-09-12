@@ -71,7 +71,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Production
 
-CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis <sup>(1)</sup>
+CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
 
 ### File Dates
 

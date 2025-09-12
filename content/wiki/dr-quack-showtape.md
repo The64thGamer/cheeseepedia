@@ -14,4 +14,4 @@ The ***Dr. Quack Showtape* is a lost showtape released in 1980 for the {{< wiki-
 
 ## Show List
 
-The showtape is confirmed to be a list of children's songs and nursery rhymes.<sup>(1)</sup>
+The showtape is confirmed to be a list of children's songs and nursery rhymes.{{< cite 1 >}}

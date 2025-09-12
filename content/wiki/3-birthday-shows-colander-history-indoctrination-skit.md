@@ -12,7 +12,7 @@ showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING CBD602-081883 3 BIRTHDAY, COLANDER HISTORY/INDOCTRINATION LOW SPEED TAILWOUND 081883"]
 +++
 ***3 Birthday Shows - Colander History - Indoctrination Skit* is a Rock-afire Explosion showtape released in
-ShowBiz Pizza Place locations on February 7th 1983.<sup>(1)</sup>**
+ShowBiz Pizza Place locations on February 7th 1983.{{< cite 1 >}}**
 
 ## Special Shows
 

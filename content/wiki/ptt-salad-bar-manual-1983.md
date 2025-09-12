@@ -14,7 +14,7 @@ The ***Salad Bar Manual* is a lost *Pizza Time Theatre* manual for the 1983 Sala
 ## History
 
 The manual is mentioned in The Pizza Times (Vol. 3, Issue 1, March 1983), giving a description of the manual and its accompanying program.
-The manual was sent out in February of 1983 as the program rolled out to locations, though the Salad Bar Program itself was developed in the {{< wiki-link "PTT Training Center & Test Kitchen" >}} in June of 1982<sup>(1)</sup>, and was unit tested and an unknown set of locations in the San Francisco area beforehand which might have included the given manual.<sup>(2)</sup> By the summer of 1983, all stores received the manual and the program.
+The manual was sent out in February of 1983 as the program rolled out to locations, though the Salad Bar Program itself was developed in the {{< wiki-link "PTT Training Center & Test Kitchen" >}} in June of 1982{{< cite 1 >}}, and was unit tested and an unknown set of locations in the San Francisco area beforehand which might have included the given manual.{{< cite 2 >}} By the summer of 1983, all stores received the manual and the program.
 The character Roy L. Rabbit was also created for the program, which was featured in promotions of the program. Potentially some of the artwork of Roy was used inside the Salad Bar Manual.
 
 ## Contents

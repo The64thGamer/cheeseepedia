@@ -67,8 +67,8 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 
 ## Trivia:
 
-- Show Break 1 - 'Cats' was stolen from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). <sup>(1)</sup>
-- Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'<sup>(2)</sup>
+- Show Break 1 - 'Cats' was stolen from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). {{< cite 1 >}}
+- Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'{{< cite 2 >}}
 - This show was originally created as a generic show to be played during times when the meant to be played is broken. Due to the lawsuit this was dropped during Fall 2014.
 - This show replaced John Bowen as Munch's voice actor with Chris Hill.
 - The audio used at the start of the show featuring Johns voice is originally from January 2007 Segment 3

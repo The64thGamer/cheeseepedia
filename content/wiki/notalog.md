@@ -13,7 +13,7 @@ citations = ["http://www.gooddealgames.com/interviews/int_Ted%20Dabney.html","ht
 ## Function
 
 Not much is known about the exact hardware used. A large TV monitor was placed on the pickup counter, facing the showroom, connected to an unknown device with a numerical keypad on the employee side of the counter.
-After an order would be placed, the customer would be assigned a number. Once their order was done, its number would be punched into the keypad by an employee, flashing it on the TV for thirty seconds. Afterwards it would be dropped down into a list of up to 16 currently ready orders displayed on the screen. After a customer picked up their order, the employee would punch the same number into the keypad to have it removed from the list.<sup>(3)</sup>
+After an order would be placed, the customer would be assigned a number. Once their order was done, its number would be punched into the keypad by an employee, flashing it on the TV for thirty seconds. Afterwards it would be dropped down into a list of up to 16 currently ready orders displayed on the screen. After a customer picked up their order, the employee would punch the same number into the keypad to have it removed from the list.{{< cite 3 >}}
 
 ## History
 

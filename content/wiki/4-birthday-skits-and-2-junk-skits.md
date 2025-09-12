@@ -14,7 +14,7 @@ categories = ["ShowBiz Pizza Place"]
 
 ## History
 
-The two Junk Skits on the tape were part of a promotion similar to {{< wiki-link "Crazy Colander Head Night (Event)" >}} being the {{< wiki-link "Junk Day (Event)" >}}.<sup>(1)</sup>
+The two Junk Skits on the tape were part of a promotion similar to {{< wiki-link "Crazy Colander Head Night (Event)" >}} being the {{< wiki-link "Junk Day (Event)" >}}.{{< cite 1 >}}
 
 ## Segment List
 

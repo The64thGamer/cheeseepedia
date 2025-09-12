@@ -22,13 +22,13 @@ The company is most well known for its creation of the {{< wiki-link "Rock-afire
 
 #### December 2023
 
-- On December 28th, Burt 'Bubba' Wilson, writer for the Rock-afire Explosion and voice of Fatz, passed away in his sleep at age 68. CEI would acknowledge this and pay tribute in multiple video uploads around the same time.<sup>(1)</sup>
+- On December 28th, Burt 'Bubba' Wilson, writer for the Rock-afire Explosion and voice of Fatz, passed away in his sleep at age 68. CEI would acknowledge this and pay tribute in multiple video uploads around the same time.{{< cite 1 >}}
 
 ### 2024
 
 #### January 2024
 
-- On January 18th the {{< wiki-link "Moonrockers Showtape" >}} plays in public at Gulliver's Kingdom and is seen online in full for the first time ever. Recordings of the event would go live over the next week until the raw audio would be uploaded for the first time on January 24th.<sup>(2)</sup>
+- On January 18th the {{< wiki-link "Moonrockers Showtape" >}} plays in public at Gulliver's Kingdom and is seen online in full for the first time ever. Recordings of the event would go live over the next week until the raw audio would be uploaded for the first time on January 24th.{{< cite 2 >}}
 
 #### February 2024
 

@@ -14,7 +14,7 @@ The item was a submarine sandwich with three meats, two cheeses, and lettuce.htt
 
 ## History
 
-It is unknown the price of the item upon its release. In 1980 its price was somewhere in the range of $1.59 to $2.65 (likely the latter).<sup>(3)</sup> In April of 1982 it would be $3.45.<sup>(4)</sup> In October 1983 it would be $3.79 in Honolulu and $3.25 in New York.<sup>(5)(2)</sup>
+It is unknown the price of the item upon its release. In 1980 its price was somewhere in the range of $1.59 to $2.65 (likely the latter).{{< cite 3 >}} In April of 1982 it would be $3.45.{{< cite 4 >}} In October 1983 it would be $3.79 in Honolulu and $3.25 in New York.<sup>(5)(2)</sup>
 
 ## Recipe / Ingredients
 
@@ -24,9 +24,9 @@ It is unknown the price of the item upon its release. In 1980 its price was some
 - Pepperoni
 - Swiss Cheese
 - American Cheese
-- Lettuce<sup>(0)</sup>
+- Lettuce{{< cite 0 >}}
 - Small Potato Chips Bag
   - At the {{< wiki-link "Beaumont, TX (5874 Eastex Fwy)" >}} location, this was the Texas brand
-    *Morton's.<sup>(0)</sup>*
+    *Morton's.{{< cite 0 >}}*
 
 The item is served in a woven food basket on top of either deli paper or wax paper. A toppings bar was available which offered onions, piccalilli, horseradish, and mustard.

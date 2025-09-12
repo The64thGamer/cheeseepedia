@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " A Giant Ant walks through some blades of grass <sup>(0)</sup>"
+description = " A Giant Ant walks through some blades of grass"
 +++

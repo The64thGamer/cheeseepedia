@@ -24,7 +24,7 @@ An early version of the bird portion of the animatronic was found in the 2010's.
 
 ### Initial Reveal
 
-By the time Klunk's first reveal happened to the employees of Creative Engineering during a showtape premiere, the final design for Click would be seen rather than the prototype.<sup>(1)</sup>
+By the time Klunk's first reveal happened to the employees of Creative Engineering during a showtape premiere, the final design for Click would be seen rather than the prototype.{{< cite 1 >}}
 
 ### Reuse
 
@@ -52,7 +52,7 @@ Despite the perceived thin appearance of the bird from expected angles, the inne
 
 ### Prototype Design
 
-The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.<sup>(0)</sup>
+The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.{{< cite 0 >}}
 
 ## Movements
 

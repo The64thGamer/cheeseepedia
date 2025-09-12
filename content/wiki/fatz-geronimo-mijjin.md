@@ -10,7 +10,7 @@ manufacturer = "Creative Engineering"
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 +++
-The ***Fatz Geronimo Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the Mijjins show in 1992 <sup>(1)</sup> and the New Rock-Afire Explosion in 1993. <sup>(2)</sup>**
+The ***Fatz Geronimo Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the Mijjins show in 1992 {{< cite 1 >}} and the New Rock-Afire Explosion in 1993. {{< cite 2 >}}**
 
 ## History
 

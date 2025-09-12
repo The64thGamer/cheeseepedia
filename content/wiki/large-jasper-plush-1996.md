@@ -18,7 +18,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog<sup>(1)</sup> with little to no difference in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with little to no difference in design.
 
 #### Prototype Gallery
 

@@ -13,11 +13,11 @@ The **Ticket Blaster** is an attraction found at Chuck E. Cheese's locations. It
 
 ## History
 
-In Spring 2008 the Ticket Blaster is presented at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and is soon installed at the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location for the concept to be reviewed by guests. The concept made it to every San Antonio Chuck E. Cheese's in 2009, where it stayed in the test phase for months until 2010 it was finalized for all stores to use. The Ticket Blaster Flash Game is also created around the same time to advertise this.<sup>(1)</sup>
+In Spring 2008 the Ticket Blaster is presented at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and is soon installed at the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location for the concept to be reviewed by guests. The concept made it to every San Antonio Chuck E. Cheese's in 2009, where it stayed in the test phase for months until 2010 it was finalized for all stores to use. The Ticket Blaster Flash Game is also created around the same time to advertise this.{{< cite 1 >}}
 
 ### Virtual Reality
 
-In Spring 2014, in an effort to update the Ticket Blaster, It was integrated with the Oculus Rift. The Ticket Blaster was also modified to include the headset with special cameras that were used to show whoever was inside the Ticket Blaster on the monitors in the showroom. The retrofit was tested in three markets: Dallas, San Diego, and Orlando.<sup>(2)</sup> But due to concerns about seizures it was canceled.<sup>(3)</sup>
+In Spring 2014, in an effort to update the Ticket Blaster, It was integrated with the Oculus Rift. The Ticket Blaster was also modified to include the headset with special cameras that were used to show whoever was inside the Ticket Blaster on the monitors in the showroom. The retrofit was tested in three markets: Dallas, San Diego, and Orlando.{{< cite 2 >}} But due to concerns about seizures it was canceled.{{< cite 3 >}}
 
 ### Present
 

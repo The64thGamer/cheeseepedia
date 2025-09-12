@@ -117,5 +117,5 @@ This show's floppy disk for Studio C removed the system files for the karaoke fe
 
 ## Trivia:
 
-- The footage from 'Don't Hurry to Worry' is originally from the {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}} with the footage being re-edited to sync better up with the new audio recorded. <sup>(1)</sup>
+- The footage from 'Don't Hurry to Worry' is originally from the {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}} with the footage being re-edited to sync better up with the new audio recorded. {{< cite 1 >}}
 - 'Rockin' Christmas Eve' and 'America '99' both appear on the Studio C DVDs but could not be played.

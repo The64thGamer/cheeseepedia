@@ -32,6 +32,6 @@ The head itself is based off of the, at the time, newest variation of the in-sto
 
 ## Trivia
 
-- The former voice of Chuck E. Cheese, Duncan Brannan, described wearing the head as wearing a bomb on your head.<sup>(1)</sup>
+- The former voice of Chuck E. Cheese, Duncan Brannan, described wearing the head as wearing a bomb on your head.{{< cite 1 >}}
 
 ## Formatting
