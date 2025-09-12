@@ -6,12 +6,12 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1987-11-16"
 endDate = "1988-01-00"
 contributors = ["The 64th Gamer","DerekCat"]
-citations = []
+citations = ["https://youtu.be/P1GhvBqbW0c?si=WR1wxSkwlyDhXArH"]
 pageThumbnailFile = "6gPEuflu5S3yAPONV6wA.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["082-1287-01 ShowBiz Pizza Time, Inc. XMAS '87 SHOWTAPE Serial #000070 Deck - 6 11/16/87 - Master TAILWOUND"]
 +++
-***SPP Homely for Christmas* was a four segment Christmas tape released in November of 1987.**
+***SPP Homely for Christmas*** was a four segment Christmas tape released in November of 1987.
 
 ## Production
 

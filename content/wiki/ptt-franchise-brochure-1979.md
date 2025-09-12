@@ -4,15 +4,15 @@ draft = false
 tags = ["Documents"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
-endDate = ""
+endDate = "1979-00-00"
 contributors = ["PizzaEntertainmentFanX"]
-citations = []
+citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 pageThumbnailFile = "mjEWcldNF07P_5yzeTG3.avif"
 +++
-The ***1979 PTT Franchise Brochure* (Also called the **'THE GREAT ALL-AMERICAN PIZZA SHOW**'https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf ***Brochure*) was a promotional brochure created by {{< wiki-link "Pizza Time Theatre" >}} in Early 1979 to attract possible Franchisees.
-The Brochure contains info about assets, animatronics & items Franchisees would get for their PTT store. The Page had several images with captions reading about the information of each assets that Franchisee would be given.****
+The ***1979 PTT Franchise Brochure*** (Also called the *'THE GREAT ALL-AMERICAN PIZZA SHOW' Brochure*) was a promotional brochure created by {{< wiki-link "Pizza Time Theatre" >}} in Early 1979 to attract possible Franchisees.
+The Brochure contains info about assets, animatronics & items Franchisees would get for their PTT store. The Page had several images with captions reading about the information of each assets that Franchisee would be given.{{< cite 1 >}}
 
-## Contents{{< cite 1 >}}
+## Contents
 
 ### Front Cover
 

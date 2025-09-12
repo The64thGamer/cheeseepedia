@@ -6,11 +6,11 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-03-01"
 endDate = "1983-03-31"
 contributors = ["The 64th Gamer"]
-citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1","https://www.newspapers.com/article/the-orlando-sentinel/38961484/","https://www.newspapers.com/article/the-bradenton-herald/96323786/"]
+citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)","https://www.newspapers.com/article/the-orlando-sentinel/38961484/","https://www.newspapers.com/article/the-bradenton-herald/96323786/","https://www.newspapers.com/article/the-orlando-sentinel/50780976/"]
 pageThumbnailFile = "XMr0U9uy5CGj9XS5jy1Z.avif"
 +++
-***Crazy Colander Head Night* (AKA ***Colander Night* and ***Colander-Head Nite*) was a massive event held at participating ShowBiz Pizza Place locations throughout March of 1983.The Colander Gazette - Vol 1. No. 1 (February 24, 1983)|The Colander Gazette - Vol 1. No. 1
-The event had many things to do throughout March, but the main events were each Wednesday night spanning over five nights: March 2nd, 9th, 16th, 23rd, and 30th.******
+***Crazy Colander Head Night*** (AKA ***Colander Night*** and ***Colander-Head Nite***) was a massive event held at participating ShowBiz Pizza Place locations throughout March of 1983.
+The event had many things to do throughout March, but the main events were each Wednesday night spanning over five nights: March 2nd, 9th, 16th, 23rd, and 30th.
 
 ## Event
 
@@ -55,11 +55,11 @@ Its also mentioned in the The Colander Gazette - Vol 1. No. 1 (February 24, 1983
 
 ## History
 
-The idea for the event came during a brain storming session between Aaron Fechter and Burt Wilson in Aaron's kitchen some time before January of 1982. In the session Burt was fiddling with a colander and decided to put it on his head. After both of them passed it back and forth trying it on, they realized they had started a club. An unknown amount of Creative Engineering employees would become part of this club during this time. Aaron recounts him and a few club members wearing their colanders to a seafood restaurant, and a Florida linebacker becoming indoctrinated by their fun idea.https://www.newspapers.com/article/the-orlando-sentinel/50780976/{{< cite 3 >}}
+The idea for the event came during a brain storming session between Aaron Fechter and Burt Wilson in Aaron's kitchen some time before January of 1982. In the session Burt was fiddling with a colander and decided to put it on his head. After both of them passed it back and forth trying it on, they realized they had started a club. An unknown amount of Creative Engineering employees would become part of this club during this time. Aaron recounts him and a few club members wearing their colanders to a seafood restaurant, and a Florida linebacker becoming indoctrinated by their fun idea.{{< cite 3 >}}
 
 ### 1982 Event
 
-The colander club would eventually make its way to Creative Engineering's work by January of 1982, now being planned to debut in ShowBiz stores. This would officially now be called the Colander Head club. The event would initially be decided to be run by {{< wiki-link "Beach Bear" >}}, who would claim to have been the one to have started it. This event would be scheduled for April of 1982, but would never materialize outside of the initial plans.<sup>(1)(2)</sup>
+The colander club would eventually make its way to Creative Engineering's work by January of 1982, now being planned to debut in ShowBiz stores. This would officially now be called the Colander Head club. The event would initially be decided to be run by {{< wiki-link "Beach Bear" >}}, who would claim to have been the one to have started it. This event would be scheduled for April of 1982, but would never materialize outside of the initial plans.{{< cite 1 >}}{{< cite 2 >}}
 The song 'Satisfaction Medley', which debuted on the {{< wiki-link "ShowBiz Pizza '82 Tape" >}} sometime around these initial plans, contains an odd phrase spoken at the beginning. This hidden joke would not be followed up on until the song 'Strain Your Brain' on the {{< wiki-link "Crazy Colander Head Night" >}} showtape featured a musical rendition of the phrase at the end of the segment. Considering Colander Head night was originally meant to be directly after the '82 tape, this inside joke may have meant to be paid off sooner.
 The Gee, Our 1st Album Vinyl Record (1982)|Gee, Our 1st Album Vinyl Record additionally has a single photo on the back of its sleeve that shows {{< wiki-link "Beach Bear" >}} wearing a colander, alluding to his original placement as the founder of the club.
 
