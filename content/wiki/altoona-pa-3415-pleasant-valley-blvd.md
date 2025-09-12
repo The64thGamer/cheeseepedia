@@ -2,7 +2,7 @@
 title = "Altoona, PA (3415 Pleasant Valley Blvd)"
 storeNumber = ""
 startDate = "1983-11-23"
-endDate = "2025-08-03"
+endDate = " "
 cuDate = ""
 remodels = []
 stages = []
