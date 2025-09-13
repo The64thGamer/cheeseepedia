@@ -55,11 +55,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 03/17 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
-      5. Spring Break Break Dance (Legacy Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+5. Spring Break Break Dance (Legacy Navori) (Valid 3/10 - 4/27)
 
 
 ## Show List 02/20 Update:
