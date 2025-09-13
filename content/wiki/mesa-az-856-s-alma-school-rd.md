@@ -20,14 +20,14 @@ latitudeLongitude = ["0", "0"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***856 S Alma School Rd*** was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}}, which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
+***856 S Alma School Rd***, was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}}, which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
 
 ## History
 
 ### 1980s
 
-West Mesa opened on August 30, 1984 as the third Arizona Showbiz Pizza Place in an unnamed shopping center. The grand opening was attended by Aaron Fetcher, the creator of The Rock-afire Explosion,{{<cite 1>}} who was later interviewed by a local news station.{{<cite 2>}} The location was featured in a commercial that year alongside {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}.{{<cite 3>}} In the mid to late '80s, Billy Bob's stage received the Showbiz Pizza Campground upgrade.
+Alma School Rd opened on August 30, 1984 as the third Arizona Showbiz Pizza Place in an unnamed shopping center. The grand opening was attended by Aaron Fetcher, the creator of The Rock-afire Explosion,{{<cite 1>}} who was later interviewed by a local news station.{{<cite 2>}} The location was featured in a commercial that year alongside {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}.{{<cite 3>}} In the mid to late '80s, Billy Bob's stage received the Showbiz Pizza Campground upgrade.
 
 ### 1990s-2010s
 
-West Mesa received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. The CEC elements remained inside until 2016. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
+Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. The CEC elements remained inside until 2016. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
