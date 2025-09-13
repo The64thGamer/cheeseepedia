@@ -29,4 +29,4 @@ West Mesa opened on August 30, 1984 as the third Arizona Showbiz Pizza Place in 
 
 ### 1990s-2010s
 
-West Mesa received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}} but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. The CEC elements remained inside until 2016. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
+West Mesa received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. The CEC elements remained inside until 2016. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
