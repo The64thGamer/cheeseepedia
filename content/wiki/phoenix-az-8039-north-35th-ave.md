@@ -36,4 +36,4 @@ Jasper originally had Billy Bob's guitar, but this was changed to the Flying Che
 
 ## 2020s
 
-North 25th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 9>}} The grand reopening was held on March 9, 2023.{{<cite 10>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 11>}}
+North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 9>}} The grand reopening was held on March 9, 2023.{{<cite 10>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 11>}}
