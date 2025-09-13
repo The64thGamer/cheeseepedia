@@ -7,7 +7,7 @@ endDate = "2015-01-00"
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
 citations = ["https://www.yelp.com/biz_photos/chuck-e-cheeses-phoenix?select=q-V0_ofexyRzxs7AwMwBQg"]
-storeNumber = ""
+storeNumber = "214/3207"
 sqft = ""
 attractions = []
 animatronics = ["(Chuck E Cheese 32m (Animatronic)|1999-03-29|2015-01-00|unknown|moved to Chandler, AZ)", "Bird (Animatronic)|1999-03-29|2015-01-00|unknown|unknown", "Pizza Time Clock (Animatronic)|1999-03-29|2015-01-00|unknown|unknown", "Pizza Phone (Animatronic)|1999-03-29|2015-01-00|unknown|unknown"]
@@ -19,8 +19,7 @@ latitudeLongitude = ["33.63881082", "-112.0110524"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-
-***3329 E Bell Rd, Store #214/3207*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)">}}, which opened on October 28, 1983, as a ShowBiz Pizza Place, received {{< wiki-link "Concept Unification" >}} in 1990, and is still open today with the 2.0 remodel.
+***3329 E Bell Rd,*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)">}}, which opened on October 28, 1983, as a ShowBiz Pizza Place, received {{< wiki-link "Concept Unification" >}} in 1990, and is still open today with the 2.0 remodel.
 
 ## History
 
