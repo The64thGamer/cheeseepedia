@@ -103,11 +103,11 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/20 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
-      5. Spring Break Break Dance (Legacy Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+5. Spring Break Break Dance (Legacy Navori) (Valid 3/10 - 4/27)
 
 ## Show List 02/15 Update:
 1. Intermission 1
@@ -150,10 +150,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/15 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Show List 02/13 Update:
 1. Intermission 1
@@ -196,11 +196,11 @@ categories = ["Chuck E. Cheese's"]
       4. Kidz Bop Kids - ‘BIRDS OF A FEATHER’
       5. Blippi - ‘Wiggle’
 
-## Lives 02/10 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+## Lives 02/13 Update:
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 
 ## Show List 02/10 Update:
@@ -245,22 +245,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/10 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 02/10 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 ## Show List 02/09 Update:
@@ -303,22 +303,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/09 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 02/09 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 ## Show List 02/08 Update:
@@ -365,22 +365,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/08 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 02/08 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 ## Show List 02/06 Update:
@@ -423,22 +423,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/06 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 02/06 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 ## Show List 01/29 Update:
 1. Intermission 1
@@ -480,22 +480,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 01/29 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 01/29 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 ## Show List 01/27 Update:
@@ -537,22 +537,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 01/27 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables 01/27 Update:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 ## Show List:
@@ -594,22 +594,22 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives:
-      1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
-      3. Me & My Friends (Legacy Navori)
-      4. Chuck E. Bop (Legacy Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
 
 ## Fireables:
-      1. Munch’s Make Believe Band - Together We’ve Got It 
-      2. Munch’s Make Believe Band - Every Boy, Every Girl 
-      3. Munch’s Make Believe Band - Chuck E.’s Place 
-      4. Helen Henny - Dream Big 
-      5. Chuck E. & Friends - It’s the 70’s
-      6. Chuck E. & Friends - Song Title 
-      7. Helen Henny - Game On 
-      8. Chuck E. Cheese - Rockin Robot
-      9. Chuck E. & Friends - I Love Sparkles!
-      10. Chuck E. & Friends - Most Perfect Day
+1. Munch’s Make Believe Band - Together We’ve Got It 
+2. Munch’s Make Believe Band - Every Boy, Every Girl 
+3. Munch’s Make Believe Band - Chuck E.’s Place 
+4. Helen Henny - Dream Big 
+5. Chuck E. & Friends - It’s the 70’s
+6. Chuck E. & Friends - Song Title 
+7. Helen Henny - Game On 
+8. Chuck E. Cheese - Rockin Robot
+9. Chuck E. & Friends - I Love Sparkles!
+10. Chuck E. & Friends - Most Perfect Day
 
 
 
@@ -622,7 +622,7 @@ categories = ["Chuck E. Cheese's"]
 6. 02/10 Update - Off Road with Chuck E. 3 and 4 is added
 7. 02/13 Update - Fireables are removed
 7. 02/15 Update - Fun Facts with Chuck E. Cheese -  ‘Valentine’s Day’ is removed
-8.  2/20 Update - YENA (최예나) - SMILEY (Feat. BIBI) is replaced by Chuck E. & Jasper - ‘Nothing Like a Walk’
+8. 02/20 Update - YENA (최예나) - SMILEY (Feat. BIBI) is replaced by Chuck E. & Jasper - ‘Nothing Like a Walk’
 9. 03/10 Update - Spring Break Break Dance is added, valid until 04/27. 
 10. 03/17 Update - Harlem Globetrotters: ‘Ways We Celebrate’ is added.
 11. 03/21 Update - Hicksville, NY updates its EPROM. Cyberamic Legacy Navori is shut off, switched over to Legacy Navori (formerly 3-Stage Legacy Navori).

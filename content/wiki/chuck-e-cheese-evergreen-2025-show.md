@@ -67,11 +67,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters 2025 World Tour Promo (Select Markets Only, Placement Varies)
 
 ## Lives 04/27 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 ## Show List 04/14 Update:
 1. Skit 1
@@ -129,11 +129,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 04/14 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 ## Show List 04/07 Update:
 1. Skit 1
@@ -190,11 +190,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 04/07 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 ## Show List 04/01 Update:
 1. Skit 1
@@ -251,11 +251,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 04/01 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 ## Show List 03/24 Update:
 1. Skit 1
@@ -308,11 +308,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 03/24 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 ## Show List 03/17 Update:
 1. Skit 1
@@ -365,11 +365,11 @@ categories = ["Chuck E. Cheese's"]
       6. Harlem Globetrotters: ‘Ways We Celebrate’
 
 ## Lives 03/17 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
-      5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+5. Spring Break Break Dance (Media Navori, Cyberamic Navori) (Valid 3/10 - 4/27)
 
 
 ## Show List 02/20 Update:
@@ -422,10 +422,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/20 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List 02/15 Update:
@@ -476,10 +476,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/15 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Show List 02/10 Update:
 1. Skit 1
@@ -530,10 +530,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/10 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List 02/09 Update:
@@ -583,10 +583,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/09 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List 02/08 Update:
@@ -640,10 +640,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/08 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List 02/06 Update:
@@ -693,10 +693,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 02/06 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List 01/29 Update:
@@ -748,10 +748,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 01/29 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Show List 01/27 Update:
 1. Skit 1
@@ -801,10 +801,10 @@ categories = ["Chuck E. Cheese's"]
       5. Blippi - ‘Wiggle’
 
 ## Lives 01/27 Update:
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Show List:
@@ -853,10 +853,11 @@ categories = ["Chuck E. Cheese's"]
       4. Kidz Bop Kids - ‘BIRDS OF A FEATHER’
       5. Blippi - ‘Wiggle’
 
-      1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
-      2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
-      3. Me & My Friends (Media Navori, Cyberamic Navori)
-      4. Chuck E. Bop (Media Navori, Cyberamic Navori)
+## Live:
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, Cyberamic Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, Cyberamic Navori)
+3. Me & My Friends (Media Navori, Cyberamic Navori)
+4. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 
 ## Trivia
