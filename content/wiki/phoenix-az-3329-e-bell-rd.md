@@ -19,7 +19,7 @@ latitudeLongitude = ["33.63881082", "-112.0110524"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***3329 E Bell Rd,*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)">}}.
+***3329 E Bell Rd,*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. This is not to be confused with {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)">}}, a former ShowBiz Pizza Place that is still open today as a Chuck E. Cheese with the 2.0 remodel.
 
 ## History
 
