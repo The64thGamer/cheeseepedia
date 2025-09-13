@@ -17,7 +17,7 @@ stages = ["(Classic Stage|1983-10-28|1990-10-00)", "(Concept Unification Stage|1
 downloadLinks = []
 latitudeLongitude = ["33.55307282", "-112.1349273"]
 tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 +++
 ***Phoenix, AZ (8039 North 35th Ave)*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received {{< wiki-link "Concept Unification" >}} in November 1990 and removed their stage in late December 2022.
 
