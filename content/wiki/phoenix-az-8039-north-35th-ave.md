@@ -1,5 +1,5 @@
 +++
-cuDate = "1990-11-00"
+cuDate = "1990-10-00"
 draft = false
 title = "Phoenix, AZ (8039 North 35th Ave)"
 startDate = "1983-10-28"
@@ -7,9 +7,10 @@ endDate = ""
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
 citations = ["https://www.newspapers.com/article/the-arizona-republic/38959322/", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://www.newspapers.com/article/the-arizona-republic/122527383/", "https://www.youtube.com/watch?v=vw95UE2oUsc", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=ZHinykONo9zY2m5uQfLvQw", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=h9ciTlQyu2xRu6ZPzYJkqA", "https://www.youtube.com/watch?v=G8G-p7qPXKs", "https://www.youtube.com/watch?v=8ARmC4InFBo", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=VK43j7GkPs29GDadPHzo5Q"]
-storeNumber = ""
+storeNumber = "621"
 sqft = ""
 attractions = []
+animatronics = ["(Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Chuck E. Cheese, then unknown/destroyed)", "(Dook Larue (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Pasqually, then unknown/destroyed)", "(Fatz Geronimo (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Mr. Munch, then unknown/destroyed)", "(Beach Bear (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Jasper T. Jowls, then unknown/destroyed)", "(Mitzi Mozzeralla (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Helen Henny, then unknown/destroyed)", "(Billy Bob (Animatronic)|1983-10-28|1990-10-00|unknown|dismantled during cleanout)", "(Looney Bird (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Pizzacam, then unknown/destroyed)", "(Choo Choo (Animatronic)|1983-10-28|200s-00-00|unknown|converted to Munch Jr., then unknown/destroyed)", "(Sun (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Building, then unknown/destroyed)", "(Moon (Animatronic)|1983-10-28|2000s-00-00|unknown|left alone, then unknown/destroyed)", "(Antioch (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Wink, then unknown/destroyed)"]
 franchisees = []
 remodels = []
 stages = []
@@ -18,7 +19,7 @@ latitudeLongitude = ["33.55307282", "-112.1349273"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***Phoenix, AZ (8039 North 35th Ave)*** ***Store #621*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received {{< wiki-link "Concept Unification" >}} in November 1990 and removed their stage in late December 2022.
+***Phoenix, AZ (8039 North 35th Ave)*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location received {{< wiki-link "Concept Unification" >}} in November 1990 and removed their stage in late December 2022.
 
 ## History
 
@@ -36,4 +37,4 @@ Jasper originally had Billy Bob's guitar, but this was changed to the Flying Che
 
 ## 2020s
 
-North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 9>}} The grand reopening was held on March 9, 2023.{{<cite 10>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 11>}}
+North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 9>}} It was the last 3-Stage in Arizona. The grand reopening was held on March 9, 2023.{{<cite 10>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 11>}}
