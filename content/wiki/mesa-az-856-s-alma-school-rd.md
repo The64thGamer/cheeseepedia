@@ -20,7 +20,7 @@ latitudeLongitude = ["0", "0"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***856 S Alma School Rd***, was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}}, which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
+***856 S Alma School Rd*** was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}}, which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
 
 ## History
 
