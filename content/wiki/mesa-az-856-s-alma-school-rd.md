@@ -15,11 +15,12 @@ franchisees = []
 remodels = ["(SPT 1980's Remodel Program|1990-10-00)", "(Phase 3 (1997)|1998-00-00)", "(CEC 2000's Remodel Program|2009/10-00-00)"]
 stages = ["(Classic Stage|1984-08-30|1998-00-00)", "(Studio C Alpha (1997)|1998-00-00|2015-08-24)"]
 downloadLinks = []
+alsoKnownAs = ["West Mesa"]
 latitudeLongitude = ["0", "0"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***856 S Alma School Rd,*** also known as ***West Mesa***, was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}} (*East Mesa*) which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
+***856 S Alma School Rd***, was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. This location is not to be confused with {{< wiki-link "Mesa, AZ (7012 E Hampton Ave)" >}}, which opened in December 2003 (day unknown) and closed on December 20, 2018 with a Studio C Beta, 16M.
 
 ## History
 
