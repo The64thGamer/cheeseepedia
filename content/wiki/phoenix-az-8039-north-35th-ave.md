@@ -6,7 +6,7 @@ startDate = "1983-10-28"
 endDate = ""
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
-citations = ["https://www.newspapers.com/article/the-arizona-republic/38959322/", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://www.newspapers.com/article/the-arizona-republic/122527383/", "https://www.youtube.com/watch?v=vw95UE2oUsc", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=ZHinykONo9zY2m5uQfLvQw", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=h9ciTlQyu2xRu6ZPzYJkqA", "https://www.youtube.com/watch?v=G8G-p7qPXKs", "https://www.youtube.com/watch?v=8ARmC4InFBo", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=VK43j7GkPs29GDadPHzo5Q"]
+citations = ["https://www.newspapers.com/article/the-arizona-republic/38959322/", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://www.newspapers.com/article/the-arizona-republic/122527383/", "https://www.youtube.com/watch?v=vw95UE2oUsc", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html#selection-1633.0-1633.10", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=ZHinykONo9zY2m5uQfLvQw", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=h9ciTlQyu2xRu6ZPzYJkqA", "https://www.youtube.com/watch?v=G8G-p7qPXKs", "https://www.youtube.com/watch?v=8ARmC4InFBo", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=VK43j7GkPs29GDadPHzo5Q"]
 storeNumber = "621"
 sqft = ""
 attractions = []
@@ -29,12 +29,13 @@ North 35th Ave had its grand opening on October 28, 1983, which was advertised a
 
 ## 1990s
 
-In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{<cite 5>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 6>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the September 1990 show.
+In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{<cite 5>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 6>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the September 1990 show. By 1999, the store's franchisee was 
+Mark Scurr, who also owned the West Mesa location.{{<cite 7>}}
 
 ## 2010s
 
-Jasper originally had Billy Bob's guitar, but this was changed to the Flying Cheese guitar by 2015.{{<cite 7>}} Jasper and Pasqually had swapped shoes during this time, but they were switched back in the late 2010s. The Wink had the 'In Pizza We Trust' phrase uncovered, one of the last Winks to be like this. Chuck E. had his Cool Chuck shorts even after his shirt was changed to the Rockstar look in 2018.{{<cite 8>}}
+Jasper originally had Billy Bob's guitar, but this was changed to the Flying Cheese guitar by 2015.{{<cite 8>}} Jasper and Pasqually had swapped shoes during this time, but they were switched back in the late 2010s. The Wink had the 'In Pizza We Trust' phrase uncovered, one of the last Winks to be like this. Chuck E. had his Cool Chuck shorts even after his shirt was changed to the Rockstar look in 2018.{{<cite 9>}}
 
 ## 2020s
 
-North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 9>}} It was the last 3-Stage in Arizona. The grand reopening was held on March 9, 2023.{{<cite 10>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 11>}}
+North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 10>}} It was the last 3-Stage in Arizona. The grand reopening was held on March 9, 2023.{{<cite 11>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 12>}}
