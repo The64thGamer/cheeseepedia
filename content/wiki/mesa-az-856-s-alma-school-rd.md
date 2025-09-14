@@ -6,7 +6,7 @@ startDate = "1984-08-30"
 endDate = "2015-08-24"
 pageThumbnailFile = "Tm8f9Ac6s0mH8NM65ZW5.avif"
 contributors = ["smileshy22"]
-citations = ["https://www.newspapers.com/article/the-arizona-republic/142601915/", "https://www.youtube.com/watch?v=sJZhjCUJT9w", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://www.showbizpizza.com/info/documents/spt/spt_franchisenews32.pdf", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html"]
+citations = ["https://www.newspapers.com/article/the-arizona-republic/142601915/", "https://www.youtube.com/watch?v=sJZhjCUJT9w", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://www.newspapers.com/article/the-arizona-republic/125849584/", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html"]
 storeNumber = "216/2084"
 sqft = ""
 attractions = []
@@ -30,7 +30,7 @@ Alma School Rd opened on August 30, 1984 as the third Arizona Showbiz Pizza Plac
 
 ### 1990s
 
-Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The 3 Stage was removed in 1998 for a Studio C Alpha (1997). In November 1998, the store's franchisee since at least 1987{{<cite 6>}}, Mark Scurr, sold the location to an unknown franchisee in Tuscon.{{<cite 7>}}
+Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The SkyTubes were added in 1997.{{<cite 7>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). In November 1998, the store's franchisee since at least 1987{{<cite 6>}}, Mark Scurr, sold the location to an unknown franchisee in Tuscon.{{<cite 8>}}
 
 ### 2000s-2010s
 
