@@ -25,7 +25,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -89,7 +89,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -154,7 +154,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -220,7 +220,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -285,7 +285,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -349,7 +349,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
@@ -413,7 +413,7 @@ categories = ["Chuck E. Cheese's"]
 10. KIDZ BOP Nightly Takeover Spot 9 
 11. Chuck E. & Friends - 'Song Of Summer' (DJ Munch) 
 12. KIDZ BOP - 'Hot to go' 
-13. KIDZ BOP - 'Can’t Stop The Feeling' 
+13. KIDZ BOP - 'Can’t Stop The Feeling' (UK Version) 
 14. KIDZ BOP Nightly Takeover Spot 1 
 15. KIDZ BOP - 'APT' 
 16. Chuck E. & Friends - 'Out Of This World' (DJ Munch) 
