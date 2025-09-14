@@ -124,3 +124,6 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, CEC Stage Navori)
 3. Me & My Friends (Media Navori, CEC Stage Navori)
 4. Chuck E. Bop (Media Navori, CEC Stage Navori)
+
+## Trivia:
+09/13 Update - KIDZ BOP Kids - 'Pink Pony Club' is replaced with KIDZ BOP Kids - 'Vois sur ton chemin'
