@@ -10,10 +10,10 @@ citations = ["https://www.newspapers.com/article/the-arizona-republic/38959322/"
 storeNumber = "621"
 sqft = ""
 attractions = []
-animatronics = ["(Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Chuck E. Cheese, then unknown/destroyed)", "(Dook Larue (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Pasqually, then unknown/destroyed)", "(Fatz Geronimo (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Mr. Munch, then unknown/destroyed)", "(Beach Bear (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Jasper T. Jowls, then unknown/destroyed)", "(Mitzi Mozzeralla (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Helen Henny, then unknown/destroyed)", "(Billy Bob (Animatronic)|1983-10-28|1990-10-00|unknown|dismantled during cleanout)", "(Looney Bird (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Pizzacam, then unknown/destroyed)", "(Choo Choo (Animatronic)|1983-10-28|200s-00-00|unknown|converted to Munch Jr., then unknown/destroyed)", "(Sun (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Building, then unknown/destroyed)", "(Moon (Animatronic)|1983-10-28|2000s-00-00|unknown|left alone, then unknown/destroyed)", "(Antioch (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Wink, then unknown/destroyed)"]
-franchisees = ["(Mark Scurr|1987-00-00|after 1999-00-00){{<cite 14>}}", "(Melvin Entertainment|2006-00-00){{<cite 15>}}"]
-remodels = ["(SPT 1980's Remodel Program|1990-10-00)", "(Phase 2 (1993)|1996-00-00)", "(CEC 2000's Remodel Program|2006/07-00-00)", "(CEC 2.0 Remodel Program|2022-12-29)"]
-stages = ["(Classic Stage|1983-10-28|1990-10-00)", "(Concept Unification Stage|1990-10-00|2022-12-28)"]
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Chuck E. Cheese, then unknown/destroyed", "Dook Larue (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Pasqually, then unknown/destroyed", "Fatz Geronimo (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Mr. Munch, then unknown/destroyed", "Beach Bear (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Jasper T. Jowls, then unknown/destroyed", "Mitzi Mozzeralla (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Helen Henny, then unknown/destroyed", "Billy Bob (Animatronic)|1983-10-28|1990-10-00|unknown|dismantled during cleanout", "Looney Bird (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Pizzacam, then unknown/destroyed", "Choo Choo (Animatronic)|1983-10-28|200s-00-00|unknown|converted to Munch Jr., then unknown/destroyed", "Sun (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Building, then unknown/destroyed", "Moon (Animatronic)|1983-10-28|2000s-00-00|unknown|left alone, then unknown/destroyed", "Antioch (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Wink, then unknown/destroyed"]
+franchisees = ["Mark Scurr (c14)|1987-00-00|0000-00-00", "Melvin Entertainment (c15)|2006-00-00|0000-00-00"]
+remodels = ["SPT 1980's Remodel Program|1990-10-00", "Phase 2 (1993)|1996-00-00", "CEC 2000's Remodel Program|2006/07-00-00", "CEC 2.0 Remodel Program|2022-12-29"]
+stages = ["Classic Stage|1983-10-28|1990-10-00", "Concept Unification Stage|1990-10-00|2022-12-28"]
 downloadLinks = []
 latitudeLongitude = ["33.55307282", "-112.1349273"]
 tags = ["Locations"]
@@ -25,7 +25,7 @@ categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 
 ### 1980s
 
-North 35th Ave had its grand opening on October 28, 1983, which was advertised as a Gala Premiere.{{<cite 1>}} It was the first Showbiz Pizza in Arizona. The location was featured in a 1984 commercial that year alongside {{< wiki-link "Mesa (West), AZ (856 S Alma School Rd)" >}}.{{<cite 2>}} The location had the 17th highest sales at the beginning of March 1987.{{<cite 3>}} Later that month, a scene for *Bill and Ted's Excellent Adventure* was filmed at the location, which was the ice cream parlor Zyggies in the movie.{{<cite 4>}}{{<cite 5>}}
+North 35th Ave had its grand opening on October 28, 1983, which was advertised as a Gala Premiere.{{<cite 1>}} It was the first Showbiz Pizza in Arizona. The location was featured in a 1984 commercial that year alongside {{< wiki-link "Mesa (West), AZ (856 S Alma School Rd)" >}}.{{<cite 2>}} The location had the 17th highest sales at the beginning of March 1987.{{<cite 3>}} Later that month, a scene for *Bill and Ted's Excellent Adventure* was filmed at the location, which was the ice cream parlor *Zyggies* in the movie.{{<cite 4>}}{{<cite 5>}}
 
 ## 1990s
 
