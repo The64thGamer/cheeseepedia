@@ -1,7 +1,7 @@
 +++
 cuDate = "1990-10-00"
 draft = false
-title = "Mesa (West), AZ (856 S Alma School Rd"
+title = "Mesa (West), AZ (856 S Alma School Rd)"
 startDate = "1984-08-30"
 endDate = "2015-08-24"
 pageThumbnailFile = "Tm8f9Ac6s0mH8NM65ZW5.avif"
@@ -34,4 +34,4 @@ Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,
 
 ### 2000s-2010s
 
-Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
+Despite getting {{< wiki-link "CEC 2000's Remodel Program" >}} in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
