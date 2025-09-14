@@ -30,4 +30,4 @@ Alma School Rd opened on August 30, 1984 as the third Arizona Showbiz Pizza Plac
 
 ### 1990s-2010s
 
-Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
+Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{<cite 4>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 5>}} The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The 3 Stage was removed in 1998 for a Studio C Alpha (1997). Despite getting Phase 4 in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. In 2019, it became a Pratt's Pets store, which it still is as of 2025.
