@@ -6,7 +6,7 @@ startDate = "1999-03-26"
 endDate = "2015-01-00"
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
-citations = ["https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html", "https://www.newspapers.com/newspage/124423161/", "https://showbizpizza.fandom.com/wiki/Studio_C_Alpha#Former_Studio_C_Alphas_", "https://www.yelp.com/biz_photos/chuck-e-cheeses-phoenix?select=q-V0_ofexyRzxs7AwMwBQg", "https://www.newspapers.com/newspage/126449093/", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html#selection-1633.0-1633.10", "https://www.restaurantnewsresource.com/article17290.html"]
+citations = ["https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html", "https://www.newspapers.com/newspage/124423161/", "https://www.google.com/maps/@33.6403549,-112.0101036,3a,75y,90t/data=!3m8!1e2!3m6!1sCIHM0ogKEICAgIDMjsbSHw!2e10!3e12!6shttps:%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4npklmx-w9e0K3SB7o7Yi-N-6BNTJWWXYsQJzkxvFSM8om5ykWydVuK5GBjLdCAgmgoDoPBM4tBMRgJEiXQTorNUmCAds30CECABCCuLqgfZ7PAZwB9dILUU4cD5MviykyXY3Diz%3Dw86-h152-k-no!7i406!8i720", "https://www.yelp.com/biz_photos/chuck-e-cheeses-phoenix?select=q-V0_ofexyRzxs7AwMwBQg", "https://www.newspapers.com/newspage/126449093/", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html#selection-1633.0-1633.10", "https://www.restaurantnewsresource.com/article17290.html"]
 storeNumber = "214/3207"
 sqft = ""
 attractions = []
