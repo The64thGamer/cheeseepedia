@@ -29,8 +29,7 @@ North 35th Ave had its grand opening on October 28, 1983, which was advertised a
 
 ## 1990s
 
-In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{<cite 5>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 6>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the September 1990 show. By 1999, the store's franchisee was 
-Mark Scurr, who also owned the West Mesa location.{{<cite 7>}}
+In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{<cite 5>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 6>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). By 1999, the store's franchisee was Mark Scurr, who also owned the West Mesa location.{{<cite 7>}}
 
 ## 2010s
 
