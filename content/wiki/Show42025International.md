@@ -1,15 +1,15 @@
 +++
 title = "Chuck E. Cheese Show 4 2025 International"
-startDate = "2025-09-08"
-endDate = "2025-09-28"
+startDate = "2025-09-00"
+endDate = " "
 pageThumbnailFile = "show425int.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / Show 4 2025 INT DVD"]
-showtapeFormats = ["Media Navori"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Chuck E. Cheese Show 4 2025 International*** released on September 2025.
+The ***Chuck E. Cheese Show 4 2025 International*** released in September 2025.
 
 ## Show List:
 
@@ -17,7 +17,7 @@ The ***Chuck E. Cheese Show 4 2025 International*** released on September 2025.
       1. KIDZ BOP Kids - 24K Magic (UK Version)
       2. Jasper T. Jowls - Wash the Bus (Español)
 2. **Skit 1**
-Chuck E. & Friends - 'Chuck E.'s Middle Name'
+      1. Chuck E. & Friends - 'Chuck E.'s Middle Name'
 3. **Intermission 2**
       1. Jokes from Pasqually - 'Early Bird'
       2. KIDZ BOP Kids - 'Shake It Off'
@@ -38,7 +38,7 @@ Chuck E. & Friends - 'Chuck E.'s Middle Name'
       1. KIDZ BOP - Happy
       2. Chuck E. y Amigos - Justo Así
 10. **Skit 5**
-Chuck E., Munch & Bella - Play All You Can Play
+      1. Chuck E., Munch & Bella - Play All You Can Play
 11. **Intermission 6**
       1. Musings with Mr. Munch Episode 8: Duck-Tape
       2. La Usurpadora: The Musical Cast - Bidi Bidi Bom Bom
@@ -47,8 +47,7 @@ Chuck E., Munch & Bella - Play All You Can Play
       1. Chuck E. & Friends - Together We've Got It
 
 ## Lives:
-
 1. Chuck E. Cheese Birthday Extravaganza (Studio C, Weigl)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Studio C, Weigl)
 3. Me & My Friends (Studio C, Weigl)
-6. Chuck E. Strut (Studio C, Weigl)
+4. Chuck E. Strut (Studio C, Weigl)
