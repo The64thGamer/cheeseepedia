@@ -283,6 +283,6 @@ keep your eye on the grand old flag!
 
 Hoorah!
 
-**Chuck E. Cheese: (Singing)**
+**Chuck E. Cheese:**
 
 I want to thank you all for joining us in our salute to America and now it’s time to introduce our grand old band. Helen Henny, Jasper T. Jowls, Pasqually, Mr. Munch, and I’m your host, Chuck E. Cheese. Remember, it’s people like you that make this country great. So long for now!
