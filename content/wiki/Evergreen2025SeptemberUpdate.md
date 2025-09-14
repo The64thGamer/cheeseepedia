@@ -32,7 +32,7 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
       2. Chuck E. & Friends - 'Water Buffalo' (ASL)
       3. Jasper T. Jowls - 'This Friendship Ain't No Accident'
       4. Chuck E. Cheese - 'Where Do the Socks Go?'
-      5. KIDZ BOP - 'CAN'T STOP THE FEELING!'
+      5. KIDZ BOP - 'CAN'T STOP THE FEELING!' (UK Version)
       6. Chuck E. Cheese - 'Snail Marching Band'
       7. Chuck E. Cheese - 'Listen to the Rock!'
       8. Off-Road with Chuck E. Episode 3
@@ -89,7 +89,7 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
       2. Chuck E. & Friends - 'Water Buffalo' (ASL)
       3. Jasper T. Jowls - 'This Friendship Ain't No Accident'
       4. Chuck E. Cheese - 'Where Do the Socks Go?'
-      5. KIDZ BOP - 'CAN'T STOP THE FEELING!'
+      5. KIDZ BOP - 'CAN'T STOP THE FEELING!' (UK Version)
       6. Chuck E. Cheese - 'Snail Marching Band'
       7. Chuck E. Cheese - 'Listen to the Rock!'
       8. Off-Road with Chuck E. Episode 3
