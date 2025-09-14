@@ -25,16 +25,16 @@ categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 
 ### 1980s
 
-North 35th Ave had its grand opening on October 28, 1983, which was advertised as a Gala Premiere.{{<cite 1>}} It was the first Showbiz Pizza in Arizona. The location was featured in a 1984 commercial that year alongside {{< wiki-link "Mesa (West), AZ (856 S Alma School Rd)" >}}.{{<cite 2>}} The location had the 17th highest sales at the beginning of March 1987.{{<cite 3>}} Later that month, a scene for *Bill and Ted's Excellent Adventure* was filmed at the location, which was the ice cream parlor *Zyggies* in the movie.{{<cite 4>}}{{<cite 5>}}
+North 35th Ave had its grand opening on October 28, 1983, which was advertised as a Gala Premiere.{{< cite 1 >}} It was the first Showbiz Pizza in Arizona. The location was featured in a 1984 commercial that year alongside {{< wiki-link "Mesa (West), AZ (856 S Alma School Rd)" >}}.{{< cite 2 >}} The location had the 17th highest sales at the beginning of March 1987.{{< cite 3 >}} Later that month, a scene for *Bill and Ted's Excellent Adventure* was filmed at the location, which was the ice cream parlor *Zyggies* in the movie.{{< cite 4 >}}{{< cite 5 >}}
 
 ## 1990s
 
-In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{<cite 6>}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 7>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The SkyTubes and Ball Crawl were expanded in late 1996.{{<cite 8>}}
+In October 1990, North 35th Avenue received {{< wiki-link "Concept Unification" >}}{{< cite 6 >}}, but kept the Showbiz Pizza name until at least March 1991.{{<cite 7>}}. It was the fifth Showbiz Pizza to undergo Concept Unification. The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The SkyTubes and Ball Crawl were expanded in late 1996.{{< cite 8 >}}
 
 ## 2010s
 
-Jasper originally had Billy Bob's guitar, but this was changed to the Flying Cheese guitar by 2015.{{<cite 9>}} Jasper and Pasqually had swapped shoes during this time, but they were switched back in the late 2010s. The Wink had the 'In Pizza We Trust' phrase uncovered, one of the last Winks to be like this. Chuck E. had his Cool Chuck shorts even after his shirt was changed to the Rockstar look in 2018.{{<cite 10>}}
+Jasper originally had Billy Bob's guitar, but this was changed to the Flying Cheese guitar by 2015.{{< cite 9 >}} Jasper and Pasqually had swapped shoes during this time, but they were switched back in the late 2010s. The Wink had the 'In Pizza We Trust' phrase uncovered, one of the last Winks to be like this. Chuck E. had his Cool Chuck shorts even after his shirt was changed to the Rockstar look in 2018.{{< cite 10 >}}
 
 ## 2020s
 
-North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{<cite 11>}} It was the last 3-Stage in Arizona. The grand reopening was held on March 9, 2023.{{<cite 12>}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{<cite 13>}}
+North 35th Avenue would receive the 2..0 remodel in late December 2022. The 3-Stage's last day of operation was December 28.{{< cite 11 >}} It was the last 3-Stage in Arizona. The grand reopening was held on March 9, 2023.{{< cite 12 >}} The Trampoline Zone was added in 2024 near one of the only Avenger Photo Rides left.{{< cite 13 >}}
