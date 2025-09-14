@@ -20,18 +20,3 @@ latitudeLongitude = ["0", "0"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
-***856 S Alma School Rd***, was a ShowBiz Pizza Place that opened on August 30, 1984, as a corporate location with a Rock-Afire Explosion and closed on August 24, 2015, as a CEC with a Studio C Alpha. 
-
-## History
-
-### 1980s
-
-Alma School Rd opened on August 30, 1984 as the third Arizona Showbiz Pizza Place in an unnamed shopping center. The grand opening was attended by Aaron Fetcher, the creator of The Rock-afire Explosion,{{< cite 1 >}} who was later interviewed by a local news station.{{< cite 2 >}} The location was featured in a commercial that year alongside {{< wiki-link "Phoenix, AZ (8039 North 35th Ave" >}}.{{< cite 3 >}} In the mid to late '80s, Billy Bob's stage received the Showbiz Pizza Campground upgrade.
-
-### 1990s
-
-Alma School Rd received {{< wiki-link "Concept Unification" >}} in October 1990,{{< cite 4 >}}, but kept the Showbiz Pizza name until at least March 1991.{{< cite 5 >}} The first showtape played after CU was the {{< wiki-link "CEC September 1990 Show" >}} (one of five stores to get this show). The SkyTubes were added in 1997.{{< cite 6 >}} The 3 Stage was removed in 1998 for a Studio C Alpha (1997). In November 1998, the store's franchisee, Mark Scurr, sold the location to an unknown franchisee in Tuscon.{{< cite 7 >}}
-
-### 2000s-2010s
-
-Despite getting {{< wiki-link "CEC 2000's Remodel Program" >}} in 2009 or 2010, the Coach Chuck logos remained on the sides of the building. The store closed on August 24, 2015. In 2019, it became a Pratt's Pets store, which it still is as of 2025.

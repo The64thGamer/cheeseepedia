@@ -19,9 +19,3 @@ latitudeLongitude = ["33.63881082", "-112.0110524"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-***3329 E Bell Rd,*** was a *Chuck E. Cheese's* that opened on March 26, 1999, and closed in January 2015 (day unknown) with a {{< wiki-link "Studio C Alpha" >}}. 
-## History
-
-Phoenix (Bell) was announced in a January 1999 article from BizJournals, which revealed that it was owned by an unknown franchisee in Tucson.{{< cite 1 >}} It opened in late March 1999 {{< cite 2 >}} with a {{< wiki-link "Studio C Alpha" >}} {{< cite 3 >}}{{< cite 4 >}} and the {{< wiki-link "Phase 2 (1997)" >}} game package. 
-
-Around 2006/2007, they received part of the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, getting new paint and art, but keeping the store's original layout.{{< cite 5 >}} It was one of the only Arizona stores with the rare Star Stage posters.{{< cite 3 >}} It would have many job advertisements in *The Arizona Republic* throughout the years, keeping the Cool Chuck logo until its last ad in 2009.{{< cite 7 >}} Phoenix (Bell) closed in January 2015. A Dollar Tree opened on the space, which is still there as of 2025. The Studio C Alpha bot was moved to {{< wiki-link "Chandler, AZ (2977 West Frye Rd)" >}}, where it remained until 2023.
