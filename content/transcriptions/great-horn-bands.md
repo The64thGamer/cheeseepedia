@@ -92,6 +92,7 @@ It’s a great hobby! It’s the only thing to wear on your face
 And that’s a cue folks! This one’s from Earth, Wind, and Fire!
 
 **Helen Henny:**
+
 Oh
 
 **[Song: Faces]**
