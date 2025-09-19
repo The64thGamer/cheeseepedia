@@ -1,20 +1,39 @@
 +++
 title = "Florence, KY (7635 Mall Rd)"
-storeNumber = ""
+storeNumber = "112"
 startDate = "1982-04-19"
 endDate = ""
 cuDate = ""
-remodels = []
-stages = []
-franchisees = []
+remodels = ["SPT 1980's Remodel Program|1989-1989","SPT 1990's Remodel Program|1995-1998","CEC 2000's Remodel Program|Fall 2010","CEC 2.0 Remodel Program|May 10, 2022"]
+stages = ["Balcony Stage|April 19, 1982|1988-1989","Chuck E.'s House|1988-1989|2002-2003","2-Stage|2002-2003|March 31, 2022","Chuck E Live Stage (Dance Floor)|March 31, 2022| ","Video Wall|April 2022| "]
+franchisees = [Bernstein Restaurant Group|1982-04-19|2008-08-25]
 attractions = []
-sqft = ""
+animatronics = []
+sqft = "2,500"
 latitudeLongitude = ["38.99825842", "-84.65566588"]
-citations = []
-contributors = []
+citations = ["https://www.newspapers.com/article/the-cincinnati-post/99572685/","https://www.youtube.com/watch?v=dhSpJSqxkn0","https://www.newspapers.com/article/the-cincinnati-enquirer/32415087/","https://www.newspapers.com/article/the-courier-journal/32427085/","https://www.instagram.com/p/CcGxjQavlow","https://www.youtube.com/watch?v=WFkViBxFxlc","https://www.newspapers.com/article/the-courier-journal/38825040/","https://www.newspapers.com/article/the-cincinnati-enquirer/38804479/","https://youtu.be/xUVm-D2eDck?si=YrOyqOPXLo-IYgT3&t=5620","https://youtu.be/sf6stbxEwjo?si=5aW2ZDINAdQL3jSO&t=2025","https://youtu.be/3pWf0YEJgxU?si=KdfDFaHsWf-AkQAD&t=5233","https://www.newspapers.com/article/the-cincinnati-enquirer-florence-expansi/147691436/","CEC Workday page","statement from tech","Internal CEC Document"]
+contributors = [CyberSnout]
 downloadLinks = []
 pageThumbnailFile = "aEQwdC5UiLmBAXLVeM05.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
+***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a {{< wiki-link "Balcony Stage" >}} under the Bernstein Resturant Group.{{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.{{< cite 2 >}}
+
+## History
+### 1980's
+The Florence, KY location was opened on April 19, 1982 by The Bernstein Restaurant Group. '...play some 60 video games at the resturant. There also will be a ski-ball lane to play and hydraulic rides, such as a carousel and a helocopter, for children to ride.' 'The dining room will feature a puppet show. The puppets are electronic and are activated by computer tape. 'The shows last about seven or eight minutes,' said Bernstein'{{< cite 1 >}}. The store originally featured the {{< wiki-link "Balcony Stage" >}} with Madame Oink being the first guest star playing and {{< wiki-link "The King / King Kat (Cyberamic)" >}} in the Lounge.{{< cite 3 >}} Despite a May 1982 article stating 'computer-controlled robots with names such as Dolli Dimples and the Beagles entertain youngsters.'{{< cite 6 >}} There is no photographic proof they existed and this is the only article referencing them. Later in 1982 Madame Oink would be replaced with Harmony Howlette{{< cite 4 >}} and lastly Helen Henny in 1983. In July 1984 while the parent company Pizza Time Theatre was declaring bankruptcy Jim Berenstain stated 'Chuck E. Cheese is not dead. We're in business and planning to stay,'. {{< cite 7 >}}. In 1988-1989 Florence would receive the {{< wiki-link "SPT 1980's Remodel Program" >}} renovating the store to begin removing and replace the Pizza Time Theatre branding. During the renovations the store would recieve {{< wiki-link "Chuck E.'s House" >}} replacing the {{< wiki-link "Balcony Stage" >}}. Around this time {{< wiki-link "The King / King Kat (Cyberamic)" >}} and lounge would be removed.{{< cite 8 >}}
+
+### 1990's
+In 1997-1998 they would receive {{< wiki-link "Phase 1 (1994)" >}} while also installing the standard Skytubes, New Game Package, and Kid Check the store would also receive new artwork such as the magazines and sports fixtures but also a new exterior replacing the 'Chuck E. Cheese's Pizza' one from 1990 with the new Star Chuck exterior sign and removing the 'Pizza' text from the exterior. Between 1995 - 1998 Florence, Ky would receive the {{< wiki-link "SPT 1990's Remodel Program" >}} this would involve painting over the checkers, removing the neon signage, installing new artwork, recarpeting the store, keeping the old booths, keeping the oil paintings, and keeping the booths. {{< cite 9 >}}
+
+### 2000's
+In 2000 Helen would recieve new cosmetics replacing her Pizza Time Theatre attire for the Munch's Make Believe Band design.{{< cite 4 >}}{{< cite 5 >}} The animatronic flowers would also be removed around this time.  In 2002-2003, Florence would receive an updated art package along with the {{< wiki-link "2-Stage" >}} from {{< wiki-link "Hampton, VA (4027 W Mercury Blvd)" >}}. The artwork they received is {{< wiki-link "CEC Warhol - Tri (CEC Décor)" >}}, 'F.R.I.E.N.D.Z' (Must C TV Award), 'The C Files' (Must C TV Award), 'CWO' (Must C TV Award), 'ERrr' (Must C TV Award), 'Cheesy Television' (Must C TV Award) {{< wiki-link "Ice Hockey (CEC Décor)" >}}, Soccer (CEC Décor), and Toddler Zone Fire Truck (CEC Décor). Two of the CD Awards were relocated to the other side of the Show Room where the other two CD Awards already were located. During this update they would replace all of the {{< wiki-link "SPT 1980's Remodel Program" >}} booths with the {{< wiki-link "SPT 1990's Remodel Program" >}} booths and wood paneling was also updated to be up to modern standards.{{< cite 10 >}} In 2007 Florence would replace the Tuxedo on Chuck E. Cheese for the 'Cool Chuck' attire. Around this time the TV Shell would be removed. {{< cite 11 >}} On August 25, 2008, the store became a corporate-owned location. With this the store number would change from Store #212 to Store #112 {{< cite 13 >}}, The curtains for Chuck E. Cheese were also disabeled at this time.{{< cite 14 >}}  
+
+### 2010's
+In October/November 2010, Florence would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}. During the remodel, all aspects of previous remodels would be removed. The showroom was renovated relocating the 2-stage from the right wall to the back wall, relocating the restrooms to the showroom, downsizing the showroom, installation of new {{< wiki-link "Skytubes" >}} and the store would expand 2,500 sq ft.{{< cite 12 >}} In Winter 2014 the store would receive another Game Package replacing/removing several older games. In April 2016, Florence would receive a Game Package with several games older games being sent to other stores in the district or destroyed. Later in 2016 the store would receive {{< wiki-link "Chuck E's Play Pass" >}}. In 2017, the {{< wiki-link "Skytubes" >}} would be removed.{{< cite 15 >}}   Later that year the stage's lights were replaced with LEDs, the TV was replaced with a flatscreen, and a small lightbox with a blue LED strip in it was added underneath aforementioned TV. (9) Florence would receive another Game Package in August 2018. 
+
+### 2020's
+On March 14, 2022, Florence would begin its {{< wiki-link "CEC 2.0 Remodel Program" >}}. During the remodel original Pizza Time Theatre bricks were briefly uncovered. On March 31, 2022 the 2-Stage would be removed and replaced with the 2021 {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. The Video Wall would be installed in April 2022. The store would have its grand re-opening on May 10, 2022, with a special appearance of Boardman, OH (521 Boardman Poland Rd) 2000s Helen Henny walkaround as part of the festivities. {{< cite 2 >}} On August 29, 2024, Florence will install its Trampoline Zone receiving new games in the weeks prior.{{< cite 15 >}}
+
