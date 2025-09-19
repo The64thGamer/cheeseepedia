@@ -1,13 +1,13 @@
 +++
-title = "Cyberamics Balcony Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+title = "Balcony Stage"
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","The 64th Gamer","47.38.252.101","JamesLemony","Pench0782","ChuckEPediaIsTheBest!","2603:6011:5901:C300:D156:EA27:83B:60BC","CEC Tinley","Charlesiiikingofengland","2601:600:8F00:9940:60C0:2332:CAB:D81F","Ptt1977","Tux Chuck","PizzaEntertainmentFanX","CECMentor","Caydenpedia"]
-citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
 pageThumbnailFile = "4AHaZAT6G5LA4CbzTY89.avif"
+contributors = ["CECBowlingGreen", "The 64th Gamer", "47.38.252.101", "JamesLemony", "Pench0782", "ChuckEPediaIsTheBest!", "2603:6011:5901:C300:D156:EA27:83B:60BC", "CEC Tinley", "Charlesiiikingofengland", "2601:600:8F00:9940:60C0:2332:CAB:D81F", "Ptt1977", "Tux Chuck", "PizzaEntertainmentFanX", "CECMentor", "Caydenpedia"]
+citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
+tags = ["Stage Variations"]
+categories = ["Pizza Time Theatre"]
 +++
 The ***Balcony Stage* (known internally as ***The Stage*) was a cyberamics stage type used at {{< wiki-link "Pizza Time Theatre" >}} locations in replacement for {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. It was installed from 1980 to 1986.
 The Stage debuted at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}{{< cite 1 >}} location in May of 1980, and went extinct in 1993 at the {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} location. from 1988 to 1989, most Stages would become {{< wiki-link "Chuck E's House Facade" >}}.****
