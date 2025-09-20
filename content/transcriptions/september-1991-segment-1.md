@@ -242,7 +242,7 @@ I like my job here playing these drums
 
 and I'll be alright no matter what comes. 
 
-]People know me. 
+People know me. 
 
 I've got a real good name
 
