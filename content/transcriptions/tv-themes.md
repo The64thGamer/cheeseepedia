@@ -45,7 +45,9 @@ Great place to start Helen! Animals were the stars of lots of tv shows! Here's 2
 **Jasper T. Jowls: (Singing)**
 
 A horse is a horse, or course, of course
+
 And no one can talk to a horse, of course
+
 that is, of course, unless the horse is the famous Mr. Edd
 
 **Mr. Munch: (Singing)**
@@ -58,8 +60,11 @@ I am Mr. Edd
 **All: (Singing)**
 
 They call him Flipper, Flipper, faster than lightning
+
 No one you see, is smarter than he!
+
 And we know Flipper lives in a world full of wonder
+
 Flying there under, under the sea!
 
 **Helen Henny:**
@@ -84,11 +89,17 @@ Is that a hint?
 **Pasqually:**
 
 Robin Hood, Robin Hood, riding through the glenn
+
 Robin Hood, Robin Hood, with his band of men
+
 Feared by the bad
+
 Loved by the good
+
 Robin Hood
+
 Robin Hood 
+
 Robin Hood
 
 **[Helen sings the theme of "Star Trek"]**
@@ -116,9 +127,13 @@ You mean actors of the canine persuasion? I think I remember.
 **Jasper T. Jowls: (Singing)**
 
 Come and listen to a story 'bout a man named Jed
+
 Poor mountaineer barely kept his family fed
+
 Then one day, he was shooting at some food
+
 And up through the ground come a bubbling crude
+
 Oil that is, black gold, Texas tea
 
 **[Song: 'Petticoat Junction' theme]**
@@ -127,6 +142,7 @@ Oil that is, black gold, Texas tea
 **Chuck E. Cheese:**
 
 Come ride the little train that is rolling down the tracks to the junction.
+
 Forget about your cares, it is time to relax at the junction.
 
 **The Warblettes: (Singing)**
@@ -139,7 +155,9 @@ Petticoat Junction
 **Pasqually: (Singing)**
 
 Green Acres is the place to be.
+
 Farm livin' is the life for me.
+
 Land spreadin' out so far and wide
 
 **Pasqually & Helen Henny & The Warblettes: (Singing)**
@@ -171,8 +189,11 @@ Keep it up gang! That'll get us into 3 more fabulous comedies from the 60's
 **All: (Singing)**
 
 They're creepy and they're kooky
+
 Mysterious and spooky
+
 They're all together ooky
+
 The Addams family
 
 **[Song: Dobie]**
@@ -181,7 +202,13 @@ The Addams family
 **The Warblettes: (Singing)**
 
 Dobie, wants a girl to call his own.
-Is she blond, is she tall, is she dark, is she small, Is she any kinda dreamboat at all
+
+Is she blond, is she tall, 
+
+is she dark, is she small, 
+
+Is she any kinda dreamboat at all
+
 Cause Dobie has to have a girl to call his own
 
 **[Song: The Ballad of Gilligan’s Isle]**
@@ -190,6 +217,7 @@ Cause Dobie has to have a girl to call his own
 **All: (Singing)**
 
 The ship set ground on the shore of this
+
 Uncharted desert isle
 
 **Chuck E. Cheese: (Singing)**
@@ -207,6 +235,7 @@ A Millionaire
 **Helen Henny & Pasqually: (Singing)**
 
 And his wife
+
 A movie star
 
 **Chuck E. Cheese: (Singing)**
@@ -307,7 +336,9 @@ Here’s 3 from the 60's I’ll bet you’ll remember! But we’re gonna need so
 **The Warblettes: (Singing)**
 
 77 sunset strip
+
 77 sunset strip
+
 77 sunset strip
 
 **Helen Henny:**
@@ -324,7 +355,9 @@ His name was Kooky, Helen. This next Hawaiian adventure introduced a perky littl
 **All: (Singing)**
 
 The soft island breeze brings you strange melodies
+
 And they tell of exotic mysteries under the tropical spell of
+
 The Hawaiian Eye
 
 **[ ‘Peter Gunn’ plays]**
@@ -368,11 +401,17 @@ Just hold on Munch, we’ll feed you in a minute. But first, here’s 2 themes a
 **The Warblettes: (Singing)**
 
 Batman
+
 Batman
+
 Batman
+
 Batman
+
 Batman
+
 Batman
+
 Batman
 
 **Helen Henny:**
@@ -444,14 +483,16 @@ And here they are gang, 2 tv *car*toons I’m sure you’ll never forget!
 
 **[Song: Car 54, where are you?]**
 
-
 **All: (Singing)**
 
-
 There's a holdup in the Bronx!
+
 Brooklyn’s broken out in fights!
+
 There's a traffic jam in Harlem that's backed up to Jackson Heights!
+
 There's a scout troop short a child!
+
 Krushchev’s due at Idlewild!
 
 **Mr. Munch: (Singing)**
@@ -460,17 +501,22 @@ Car 54, where are you?
 
 **[Song: ‘My Mother the Car’ theme]**
 
-
 **All: (Singing)**
 
-
 Everybody knows in the second life
+
 We all come back sooner or later
+
 As anything from a pussy cat
+
 To a man-eatin' alligator 
+
 But believe it or not, my mother dear
+
 Decided she'd come back
+
 As a car
+
 My mother the car
 
 **Mr. Munch: (Singing)**
@@ -503,26 +549,27 @@ Well listen and see!
 
 **[ ‘Get Smart’ theme plays]**
 
-
 **Helen Henny:**
 
 Bakaw! Good hint Chuck E! That’s the theme from ‘Get Smart’! Ooh I can just see Agent 99 and Maxwell Smart giving the chief a hard time, Bakaw!
 
 **[Song: Secret Agent Man]**
 
-
 **Chuck E. Chuck: (Singing)**
 
 Secret agent man
+
 Secret agent man
-They’ve given you a number, and taken away your name
+
+They’ve given you a number, 
+
+and taken away your name
 
 **Pasqually:**
 
 That was a big hit record too, by Johnny Rivers
 
 **[ ‘Mission Impossible’ theme plays]**
-
 
 **Chuck E. Cheese:**
 
@@ -549,7 +596,6 @@ Close Jasper! Her name was cinnamon.
 Well gang, that wasn’t such an *impossible mission* was it?
 
 **[everyone groans]**
-
 
 **Chuck E. Cheese:**
 
@@ -581,7 +627,6 @@ See who can guess the title and the name of the main character!
 
 **[ ‘Dragnet’ theme plays]**
 
-
 **Jasper T. Jowls:**
 
 Uh- uh- Cannon?
@@ -595,7 +640,6 @@ I know! Dragnet! And the policemen’s name was- was Joe Friday!
 Right Pasqually! Now try this!
 
 **[ ‘Park avenue beat’ plays]**
-
 
 **Helen Henny:**
 
@@ -615,7 +659,6 @@ Oh Munch, you do need a pizza. Here’s another theme!
 
 **[ ‘Hawaii Five-O’ theme plays]**
 
-
 **Helen Henny:**
 
 Oooh it’s right on the tip of my beak!
@@ -634,7 +677,6 @@ Good memory Helen! And how bout this one?
 
 **[ ‘Funeral march of a Marionette’ plays]**
 
-
 **Jasper T. Jowls:**
 
 That’s easy, he always walked into the picture and said “good evening”. That’s Alfred Hitchcock!
@@ -652,7 +694,6 @@ I bet it’s the theme from ‘Miami Vice’!
  Haha, nah Pasqually. I mean really way out.
 
 **[ ‘Twilight Zone’ theme plays]**
-
 
 **Helen Henny:**
 
@@ -684,21 +725,28 @@ Hey kids! What time is it?
 
 **[ ‘Howdy Doody’ theme plays]**
 
-
 **All:(Singing)**
 
 It’s Howdy Doody time 
+
 It’s Howdy Doody time
+
 Bob Smith and Howdy, too
+
 Say Howdy do to you
+
 Let’s give a rousing cheer
+
 Cause Howdy Doody’s here
+
 It’s time to start the show
+
 so kids let’s go
 
 **Mr. Munch: (Singing)**
 
 Oh yes it’s pizza time 
+
 Oh yes it’s pizza time 
 
 **Chuck E. Chuck:**
@@ -708,4 +756,5 @@ Ok Munch, it is pizza time. But we wanna thank everyone for helping us remember 
 **All: (Singing)**
 
 It’s time to start the show
+
 So kids let’s go!
