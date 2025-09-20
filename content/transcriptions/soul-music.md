@@ -1,6 +1,7 @@
 +++
 title = "Soul Music"
 tags = ["Transcriptions"]
+contributors = ["Luigigamin212"]
 +++
 **Mr. Munch:**
 
@@ -107,6 +108,7 @@ Now wait a minute Helen
 **Helen Henny: (Singing)**
 
 What you need 
+
 You know I got it 
 
 **Mr. Munch:**
@@ -116,6 +118,7 @@ Well Helen slow down here, heh heh
 **Helen Henny: (Singing)** 
 
 All I'm asking for is a little r-e-s-p-e-c-t 
+
 Find out what it means to me r-e-s-p-e-c-t
 
 **Mr. Munch:**
@@ -125,6 +128,7 @@ Aw come on, That's all I give you Helen
 **Helen Henny: (Singing)** 
 
 R-e-s-p-e-c-t
+
 Take care, t-c-p
 
 **Chuck E. Cheese:** 
@@ -141,7 +145,9 @@ Oh boy, they're just a dream
 **The Warblettes: (Singing)**
 
 Stop! in the name of love
+
 Before you break my heart
+
 Think it over
 
 **Chuck E. Cheese:** 
@@ -154,14 +160,23 @@ And now here's our own, Jasper! That hot dog, that soul dog, that Soul Man.
 **Jasper T. Jowls: (Singing)**
 
 Comin' to ya on a dusty road
+
 Good lovin' I got a truckload
+
 When you get it, you gonna get somethin'
+
 So don't worry 'cause I'm comin'
+
 I'm a soul man
+
 I'm a soul man
+
 I'm a soul man
+
 Yeah yeah yeah yeah yeah
+
 Soul man
+
 Eeeeeyahoo!
 
 **Jasper T. Jowls:**
@@ -170,18 +185,24 @@ Now hold on folks, the power bird with the golden lungs is revving up again!
 
 **[Song: Proud Mary]**
 
-
 **Helen Henny: (Singing)**
 
 Left a good job in the city
+
 Working for the man every night and day
-But i never lost one minute of sleeping, worrying about the way things might have been
+
+But i never lost one minute of sleeping, 
+
+worrying about the way things might have been
+
 Big wheel keep on turning 
+
 And the proud Mary keep on burnin'
 
 **All: (Singing)**
 
 And we're rolling, rolling, rolling on the river
+
 rolling, rolling, rolling on the river
 
 **Chuck E. Cheese:**
