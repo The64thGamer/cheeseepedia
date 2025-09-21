@@ -43,10 +43,10 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
       1. Chuck E. & Friends - '¡A Divertinos!'
       2. Chuck E. & Friends - 'Friendship Never Ends' (2024)
       3. KIDZ BOP - '24K Magic' (UK Version)
-      4. Bella Bunny - 'El Rey Guitarrista'
 6. **Skit 4**
-      1. Chuck E., Munch & Bella - 'Play All You Can Play'
-      2. Bella & Helen - 'Bailando'
+      1. Bella Bunny - 'El Rey Guitarrista'
+      2. Chuck E., Munch & Bella - 'Play All You Can Play'
+      3. Bella & Helen - 'Bailando'
 7. **Intermission 4**
       1. KIDZ BOP - 'good 4 u'
       1. CEC Silly Songs - 'Unicorn, Unicorn!' (ASL)
@@ -99,10 +99,10 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
       1. Chuck E. & Friends - '¡A Divertinos!'
       2. Chuck E. & Friends - 'Friendship Never Ends' (2024)
       3. KIDZ BOP - '24K Magic' (UK Version)
-      4. Bella Bunny - 'El Rey Guitarrista'
 6. **Skit 4**
-      1. Chuck E., Munch & Bella - 'Play All You Can Play'
-      2. Bella & Helen - 'Bailando'
+      1. Bella Bunny - 'El Rey Guitarrista'
+      2. Chuck E., Munch & Bella - 'Play All You Can Play'
+      3. Bella & Helen - 'Bailando'
 7. **Intermission 4**
       1. KIDZ BOP - 'good 4 u'
       1. CEC Silly Songs - 'Unicorn, Unicorn!' (ASL)
@@ -155,10 +155,10 @@ The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 
       1. Chuck E. & Friends - '¡A Divertinos!'
       2. Chuck E. & Friends - 'Friendship Never Ends' (2024)
       3. KIDZ BOP - '24K Magic' (UK Version)
-      4. Bella Bunny - 'El Rey Guitarrista'
 6. **Skit 4**
-      1. Chuck E., Munch & Bella - 'Play All You Can Play'
-      2. Bella & Helen - 'Bailando'
+      1. Bella Bunny - 'El Rey Guitarrista'
+      2. Chuck E., Munch & Bella - 'Play All You Can Play'
+      3. Bella & Helen - 'Bailando'
 7. **Intermission 4**
       1. KIDZ BOP - 'good 4 u'
       1. CEC Silly Songs - 'Unicorn, Unicorn!' (ASL)
