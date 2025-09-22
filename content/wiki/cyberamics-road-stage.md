@@ -11,8 +11,7 @@ unitsProduced = "33"
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 +++
-
-The ***Road Stage*** was the first-ever Cyberamic setup for Munch's Make Believe Band, formerly found at Chuck E. Cheese's locations. Road Stages often opened with new stores, though have also a previous stage at an existing store, between 1990 and 1992 (one installation had been relocated to an existing store by 1994). Gradually replaced by 2-Stages, 1-Stages, Studio C configurations, and Dance Floors, the last remaining Road Stage installation was removed in 2025, becoming an extinct stage variant.
+The ***Road Stage*** was the first-ever Cyberamic setup for Munch's Make Believe Band, formerly found at Chuck E. Cheese's locations. Road Stages often opened with new stores, though they have also replaced previous stages at existing stores, between 1990 and 1992 (one installation had been relocated to an existing store by 1994). Gradually replaced by 2-Stages, 1-Stages, Studio C configurations, and Dance Floors, the last remaining Road Stage installation was removed in 2025, becoming an extinct stage variant.
 
 ## History
 
@@ -44,8 +43,8 @@ While not originally part of the Road Stage, Mr. Munch and Pasqually figures ret
 
 ## Installed Road Stages
 
-| Location                                                                 | Debuted            | Removed            |
-|--------------------------------------------------------------------------|--------------------|--------------------|
+| Location                                                           | Debuted            | Removed            |
+| ------------------------------------------------------------------ | ------------------ | ------------------ |
 | {{< wiki-link "Jonesboro, GA (335 Upper Riverdale Rd)" >}}         | November 20, 1990  | 1996               |
 | {{< wiki-link "Topeka, KS (2215 SW Wanamaker Rd)" >}}              | November 26, 1990  | July 2022          |
 | {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}}           | December 04, 1990  | 1995               |
