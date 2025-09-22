@@ -195,7 +195,7 @@ It's time to go out and play
 
 Come on
 
-Chuck + **Mr. Munch: (Singing)**
+**Chuck E. Cheese + Mr. Munch: (Singing)**
 
 And you'll be doing alright now 
 

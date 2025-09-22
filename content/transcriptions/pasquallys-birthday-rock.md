@@ -64,7 +64,7 @@ we’re gonna cut the cake
 
 Happy Birthday ball
 
-**Pasqually & Warblettes: (Singing)
+**Pasqually & Warblettes: (Singing)**
 
 One and all!
 
