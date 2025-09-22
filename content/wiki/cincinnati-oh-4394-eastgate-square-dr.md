@@ -20,7 +20,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102*** is a *Chuck E. Cheese's Pizza* that opened June 17, 1990 with a {{< wiki-link "Chuck E.'s House" >}} {{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.{{< cite 2 >}}
+***Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102*** is a *Chuck E. Cheese's Pizza* that opened June 17, 1990 with a {{< wiki-link "Chuck E.'s House" >}} {{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E. Live Stage (Dance Floor)" >}}.{{< cite 2 >}}
 
 ## History
 ### 1990's
