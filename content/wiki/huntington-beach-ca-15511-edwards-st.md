@@ -2,7 +2,7 @@
 title = "Huntington Beach, CA (15511 Edwards St)"
 storeNumber = ""
 startDate = "1979-10-06"
-endDate = ""
+endDate = "2025-09-21"
 cuDate = ""
 remodels = []
 stages = []
