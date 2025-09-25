@@ -31,5 +31,3 @@ section = []
 
 [params]
   dateFormat = "2006-1-2"
-
-ignoreFiles = "/static/Code/.*"
