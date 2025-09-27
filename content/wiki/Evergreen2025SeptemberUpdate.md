@@ -47,6 +47,13 @@ Intermission 1
       32. Chuck E. & Friends - 'Another Chuck E. Day'
       33. Chuck E. & Friends - Lend a Helping Hand (DJ Munch Remix)
       34. KIDZ BOP - Follow Your Heart
+      
+## Lives 09/22 Update 2:
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori, CEC Stage Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori, CEC Stage Navori)
+3. Me & My Friends (Media Navori, CEC Stage Navori)
+4. Chuck E. Bop (Media Navori, CEC Stage Navori)
+
 
 ## Show List 09/22 Update:
 Intermission 1
@@ -83,7 +90,6 @@ Intermission 1
       31. Chuck E. & Friends - 'Another Chuck E. Day'
       32. Chuck E. & Friends - Lend a Helping Hand (DJ Munch Remix)
       33. KIDZ BOP - Follow Your Heart
-
 
 ## Lives 09/22 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori, CEC Stage Navori)
