@@ -12,7 +12,7 @@ categories = ["Chuck E. Cheese's"]
 The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 8, 2025 and played until September 28, 2025.
 
 ## Show List 09/22 Update 2:
-Intermission 1
+1. Intermission 1
       1. Dippin Dots & Chuck E's Cookie Crunch
       2. Harlem Globetrotters - 'Ways We Celebrate
       3. Blippi - 'Use Your Imagination'
@@ -56,7 +56,7 @@ Intermission 1
 
 
 ## Show List 09/22 Update:
-Intermission 1
+1. Intermission 1
       1. Dippin Dots & Chuck E's Cookie Crunch
       2. Harlem Globetrotters - 'Ways We Celebrate
       3. Blippi - 'Use Your Imagination'
