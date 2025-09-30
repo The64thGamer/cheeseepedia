@@ -1,20 +1,23 @@
 +++
+cuDate = ""
+draft = false
 title = "Creteil Soleil, Creteil, France"
-storeNumber = ""
 startDate = "1984-04-05"
 endDate = "1986-00-00"
-cuDate = ""
+pageThumbnailFile = "Rx0uuT4CKMTa0KJBnZs7.avif"
+contributors = ["jaj610"]
+citations = ["Créteil archives"]
+storeNumber = ""
+sqft = ""
+attractions = []
+franchisees = []
 remodels = []
 stages = []
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["0","0"]
-citations = []
-contributors = []
 downloadLinks = []
-pageThumbnailFile = "Rx0uuT4CKMTa0KJBnZs7.avif"
+latitudeLongitude = ["0", "0"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-draft = false
 +++
+
+
+![](/photos/image_2025-09-30_222913204.png "newspaper for opening")
