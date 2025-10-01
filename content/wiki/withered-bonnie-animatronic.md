@@ -1,7 +1,7 @@
 +++
-title = "Withered Bonnie (Animatronic)"
+title = "Withered Bonnie (Walkaround)"
 draft = false
-tags = ["Animatronics"]
+tags = ["Costumed Characters"]
 categories = ["Jim Henson's Creature Shop","Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
 pageThumbnailFile = "GUaTXNCXIAAX1vr.avif"
 startDate = "2024-00-00"

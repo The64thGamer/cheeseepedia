@@ -1,5 +1,5 @@
 +++
-title = "Withered Freddy (Animatronic)"
+title = "Withered Freddy (Walkaround)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Jim Henson's Creature Shop","Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
