@@ -2,7 +2,7 @@
 draft = false
 endDate = ""
 citations = []
-startDate = ""
+startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Mitzi Mozzarella (Animatronic)"
 contributors = ["2600:6C44:97F:D312:A88A:118D:58B0:6EF3", "Cheeseclassic", "Newbie editor", "CECMentor", "Stripes"]

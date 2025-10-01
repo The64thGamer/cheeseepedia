@@ -3,9 +3,7 @@ title = "Pizza Phone (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
+startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","Rexburg090","2601:240:CD0D:667F:79B8:349E:9505:C933","2601:248:5000:5090:F11C:8C88:9E24:9AD6","The 64th Gamer","Midwestern Jasper T."]
 citations = []

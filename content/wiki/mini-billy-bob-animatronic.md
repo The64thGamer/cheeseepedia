@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Mini Billy Bob (Animatronic)"
-startDate = ""
+startDate = "1986-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "lOq_srHJHmQxYQ2hXB1N.avif"
 contributors = ["BurgersNuggs445", "CEC Tinley", "GallaRM2"]
