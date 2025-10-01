@@ -276,7 +276,7 @@ collections:
       preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Filename", name: "title", widget: "string" }
-      - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
+      - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
@@ -341,7 +341,7 @@ collections:
       preview: false
     fields: # The field for each document, usually in front matter
       - { label: "Video Link", name: "title", widget: "string" }
-      - { label: "Description (Don't put shortcodes like link or wiki-link here)", name: "description", widget: "text" }
+      - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startdate", widget: "string", required: false}
       - label: "Citations (List sources here!)"
         name: "citations"
