@@ -3,7 +3,7 @@ title = "Dr. Quack (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]
 citations = ["https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjkyMTMzMDE4LCJleHAiOjE2OTIyMTk0MTh9.sZ63cVihlDlWAUGEF2XDqAWUdyLOh6zMKGWrWlSc1Rw"]

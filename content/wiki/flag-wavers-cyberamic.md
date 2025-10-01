@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Flag Wavers (Cyberamic)"
-startDate = ""
+startDate = "1979-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "2Ak5tOPNqzkA5JbkWPRl.avif"
 contributors = ["Saan1ty", "ruby4ruby"]

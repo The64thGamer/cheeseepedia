@@ -1,7 +1,7 @@
 +++
 title = "1996 Wick Letterback Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

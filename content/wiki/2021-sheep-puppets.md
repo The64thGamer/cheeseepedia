@@ -1,7 +1,7 @@
 +++
 title = "2021 Sheep Puppets"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

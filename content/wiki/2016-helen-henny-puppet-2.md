@@ -1,7 +1,7 @@
 +++
 title = "2016 Helen Henny Puppet 2"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

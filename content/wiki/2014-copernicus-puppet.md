@@ -1,7 +1,7 @@
 +++
 title = "2014 Copernicus Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

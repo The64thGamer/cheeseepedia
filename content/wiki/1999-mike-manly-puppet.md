@@ -1,7 +1,7 @@
 +++
 title = "1999 Mike Manly Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

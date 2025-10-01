@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Kooser Dolli Dimples (Animatronic)"
-startDate = "1978-00-00"
-endDate = ""
+startDate = "1978-12-00"
+endDate = "1980-05-00"
 pageThumbnailFile = "RSEKM5ZyV79H3d4p4ycO.avif"
 contributors = ["The 64th Gamer", "CEC", "CEC Tinley", "212.34.100.68", "Ceclife13", "Concordio", "PizzaEntertainmentFanX", "FileFickle", "CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</a>", "<a href=\"https://youtu.be/EdKLsomLbtY\">https://youtu.be/EdKLsomLbtY</a>", "<a href=\"https://www.youtube.com/watch?v=ucg8MujPDQA\">https://www.youtube.com/watch?v=ucg8MujPDQA</a>"]

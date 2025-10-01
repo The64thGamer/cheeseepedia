@@ -1,7 +1,7 @@
 +++
 title = "2017 Lavender Whatnot Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

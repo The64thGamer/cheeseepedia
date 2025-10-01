@@ -2,7 +2,7 @@
 draft = false
 endDate = ""
 citations = []
-startDate = ""
+startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Dook Larue (Animatronic)"
 contributors = ["CECMentor", "Stripes"]

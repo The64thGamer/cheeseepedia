@@ -142,7 +142,7 @@ collections:
           - { label: "Showtapes", value: "Showtapes" }
           - { label: "Showtape Formats", value: "Showtape Formats" }
           - { label: "Live Shows", value: "Live Shows" }
-          - { label: "Showtape Puppets", value: "Showtape Puppets" }
+          - { label: "Puppets", value: "Puppets" }
           - { label: "Family Vision", value: "Family Vision" }
           - { label: "ShowBiz Pizza Programs", value: "ShowBiz Pizza Programs" }
           - { label: "In-Store Merchandise", value: "In-Store Merchandise" }

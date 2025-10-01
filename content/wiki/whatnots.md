@@ -28,4 +28,4 @@ File:Chuck E pink whatnot 70s dancer 2.png|**Pink #2**
 File:Whatnot_Buddy.png|**Tall Green**
 Buddy
 Category:Characters
-Category:Showtape Puppets
+Category:Puppets

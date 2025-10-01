@@ -3,9 +3,7 @@ title = "Antioch (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["ShowBiz Pizza Place"]
-
-
-startDate = ""
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["CECMentor"]
 citations = []

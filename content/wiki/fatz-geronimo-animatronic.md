@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Fatz Geronimo (Animatronic)"
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1980-00-00"
+endDate = ""
 pageThumbnailFile = "QTOP5vVLa9baQkq1zYvp.avif"
 contributors = ["CECMentor", "Livelycheese", "Stripes", "The Nefarious Pizza Perpetrator"]
 citations = ["Rock-afire Explosion Service Manual"]

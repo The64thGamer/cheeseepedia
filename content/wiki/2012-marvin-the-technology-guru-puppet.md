@@ -1,7 +1,7 @@
 +++
 title = "2012 Marvin the Technology Guru Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

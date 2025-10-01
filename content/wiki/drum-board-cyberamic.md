@@ -3,9 +3,7 @@ title = "Drum Board (Cyberamic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
-
-
-startDate = ""
+startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","BurgersNuggs445"]
 citations = ["<a href=\"https://www.si.edu/media/NMAH/NMAH-AC1498_Transcript_NolanBushnell.pdf\">https://www.si.edu/media/NMAH/NMAH-AC1498_Transcript_NolanBushnell.pdf</a>"]

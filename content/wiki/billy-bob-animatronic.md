@@ -2,7 +2,7 @@
 draft = false
 endDate = ""
 citations = []
-startDate = ""
+startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Billy Bob (Animatronic)"
 contributors = ["CECMentor", "Livelycheese", "Stripes", "Kathydra"]

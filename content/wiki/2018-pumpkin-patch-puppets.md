@@ -1,7 +1,7 @@
 +++
 title = "2018 Pumpkin Patch Puppets"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

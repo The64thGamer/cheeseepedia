@@ -1,7 +1,7 @@
 +++
 title = "1992 Charlie Rockit Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

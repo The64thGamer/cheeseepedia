@@ -3,9 +3,7 @@ title = "Chuck E. Cheese 32m (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
+startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","BurgersNuggs445","Documentor","Destinationimagination95","CEC Denver","GallaRBX2","ShowBizMidwest","71.15.155.152","Rexburg090","RedaCEC","The 64th Gamer","ChuckfeldStan","ChuckEPediaIsTheBest!","Midwestretail","Pasquallytheplumber","ThatBoiCydalan","AstridMascotFan2005"]
 citations = ["<a href=\"https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/\">https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</a>"]
