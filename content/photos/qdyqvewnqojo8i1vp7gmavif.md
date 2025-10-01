@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C"]
 startDate = ""
-description = "[[Galaxy Stage]] (Year installed: April 2011) (Now retired)"
 +++
+[[Galaxy Stage]] (Year installed: April 2011) (Now retired)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Ann Arbor, MI (2655 Oak Valley Dr)"]
 startDate = ""
-description = "Exterior, October 2019"
 +++
+Exterior, October 2019

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck's Arcade"]
 startDate = ""
-description = "The arcade at the Holiday Inn Resort Orlando Suites (2023)"
 +++
+The arcade at the Holiday Inn Resort Orlando Suites (2023)

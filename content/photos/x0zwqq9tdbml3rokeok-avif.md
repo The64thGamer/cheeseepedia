@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Huntington Beach, CA (15511 Edwards St)"]
 startDate = ""
-description = "Huntington Beach's exterior before the 2005 Remodel. (2000's)"
 +++
+Huntington Beach's exterior before the 2005 Remodel. (2000's)

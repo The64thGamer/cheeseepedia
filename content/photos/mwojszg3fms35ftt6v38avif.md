@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Salute to America (PTT Theme)"]
 startDate = ""
-description = "[[San Jose, CA (2445 Fontaine Rd)]]'s [[Chuck E. Cheese (Cyberamic)]] with the set-up's Uncle Sam hat & vest."
 +++
+[[San Jose, CA (2445 Fontaine Rd)]]'s [[Chuck E. Cheese (Cyberamic)]] with the set-up's Uncle Sam hat & vest.

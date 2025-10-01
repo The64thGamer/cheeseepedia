@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Brooklyn, NY (139 Flatbush Ave)"]
 startDate = ""
-description = "400px"
 +++
+400px

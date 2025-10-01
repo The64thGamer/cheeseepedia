@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese Winter Winner-Land 2022"]
 startDate = ""
-description = "Newsletter Back"
 +++
+Newsletter Back

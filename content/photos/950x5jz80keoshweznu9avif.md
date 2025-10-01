@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Manager Beige Long-Sleeve Shirt (Avenger)"]
 startDate = ""
-description = "Shirt Front"
 +++
+Shirt Front

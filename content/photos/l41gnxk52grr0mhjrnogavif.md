@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Different variation of a Pizza Peddler Ad"
 +++
+Different variation of a Pizza Peddler Ad

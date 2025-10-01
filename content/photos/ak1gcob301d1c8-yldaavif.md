@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre"]
 startDate = ""
-description = "Logo (1979)"
 +++
+Logo (1979)

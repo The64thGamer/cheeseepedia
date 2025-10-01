@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Dolli Dimples Show Selector (Prototype)"]
 startDate = ""
-description = "Box Front, missing the selection sheets."
 +++
+Box Front, missing the selection sheets.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Former Stage (October 2023)"
 +++
+Former Stage (October 2023)

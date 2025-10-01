@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC 2.0 Remodel Program"]
 startDate = ""
-description = "2nd 2.0 Exterior Design (With White 2017 CEC Letters) (August 2017 - 2019)"
 +++
+2nd 2.0 Exterior Design (With White 2017 CEC Letters) (August 2017 - 2019)

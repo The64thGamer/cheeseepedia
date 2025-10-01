@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chesapeake, VA (1528 Sam's Circle)"]
 startDate = ""
-description = "Another photo of its exterior before the 2005 remodel. (PC: LoopNet)"
 +++
+Another photo of its exterior before the 2005 remodel. (PC: LoopNet)

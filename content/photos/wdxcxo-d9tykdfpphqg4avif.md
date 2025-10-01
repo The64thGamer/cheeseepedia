@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CU Flower Prototype (Animatronic)"]
 startDate = ""
-description = "The flowers as seen on the CU Prototype Stage."
 +++
+The flowers as seen on the CU Prototype Stage.

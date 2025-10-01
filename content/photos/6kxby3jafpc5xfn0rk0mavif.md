@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese's Face Painting Crayons (2003)"]
 startDate = ""
-description = "Front"
 +++
+Front

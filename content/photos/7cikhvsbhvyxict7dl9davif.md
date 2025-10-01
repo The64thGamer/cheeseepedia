@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Country (PTT Theme)"]
 startDate = ""
-description = "Costumes paired with Broadway backdrop shown here."
 +++
+Costumes paired with Broadway backdrop shown here.

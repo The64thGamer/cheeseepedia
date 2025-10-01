@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Piccadilly Circus Pizza Ad for Sioux City posted on December 16th of 1984"
 +++
+Piccadilly Circus Pizza Ad for Sioux City posted on December 16th of 1984

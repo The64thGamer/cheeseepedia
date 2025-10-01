@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Helen (April 2011)"
 +++
+Helen (April 2011)

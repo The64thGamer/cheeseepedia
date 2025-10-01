@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Union, NJ (1660 US-22)"]
 startDate = ""
-description = "Press Kit from the Grand Opening (PC: Richard Concepcion)"
 +++
+Press Kit from the Grand Opening (PC: Richard Concepcion)

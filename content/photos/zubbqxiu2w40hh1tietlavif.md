@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tinley Park, IL (16090 S Harlem Ave)"]
 startDate = ""
-description = "The grand opening of the store. (1989)"
 +++
+The grand opening of the store. (1989)

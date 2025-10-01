@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Magical Monkey Show Stages & Theater Building"
 +++
+Hellendoorn Magical Monkey Show Stages & Theater Building

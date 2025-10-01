@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The King / King Kat (Lounge)"]
 startDate = ""
-description = "Fontana, CA"
 +++
+Fontana, CA

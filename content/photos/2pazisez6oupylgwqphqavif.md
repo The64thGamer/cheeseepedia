@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Dingo Starr (Animatronic)"]
 startDate = ""
-description = "CEI warehouse"
 +++
+CEI warehouse

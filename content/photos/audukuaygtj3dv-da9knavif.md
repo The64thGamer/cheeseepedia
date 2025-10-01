@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Maple Heights, OH (5376 Northfield Rd)"]
 startDate = ""
-description = "The exterior in 1980"
 +++
+The exterior in 1980

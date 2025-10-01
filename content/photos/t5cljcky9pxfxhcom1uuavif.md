@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Columbus, OH (3631 Soldano Blvd)"]
 startDate = ""
-description = "Columbus's 1-stage in August 2003."
 +++
+Columbus's 1-stage in August 2003.

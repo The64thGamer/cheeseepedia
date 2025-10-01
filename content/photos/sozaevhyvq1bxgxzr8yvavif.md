@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Sayville, NY (5750 Sunrise Highway 11782)"]
 startDate = ""
-description = "A photo of the mega maze"
 +++
+A photo of the mega maze

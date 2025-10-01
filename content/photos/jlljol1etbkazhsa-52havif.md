@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " The Praying Mantis walks through some leaves and trees "
 +++
+ The Praying Mantis walks through some leaves and trees 

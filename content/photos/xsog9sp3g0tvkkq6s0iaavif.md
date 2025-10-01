@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cherry Hill, NJ (1660 N Kings Hwy)"]
 startDate = ""
-description = "The site of the former store. (PC: Google Maps)"
 +++
+The site of the former store. (PC: Google Maps)

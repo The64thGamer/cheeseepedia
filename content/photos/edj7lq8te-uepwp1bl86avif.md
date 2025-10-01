@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Mortimer, Buford, Prop Bear, Fingers Dan, & Buddy Crash"
 +++
+Mortimer, Buford, Prop Bear, Fingers Dan, & Buddy Crash

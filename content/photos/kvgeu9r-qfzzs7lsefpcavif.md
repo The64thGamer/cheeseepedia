@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Surfer's Paradise, Queensland, Australia"]
 startDate = ""
-description = "The Store's Exterior, May 1981"
 +++
+The Store's Exterior, May 1981

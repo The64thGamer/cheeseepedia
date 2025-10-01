@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Phoenix, AZ (8039 North 35th Ave)"]
 startDate = ""
-description = "The exterior before 2.0"
 +++
+The exterior before 2.0

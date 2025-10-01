@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Billy Bob Talking Walkaround"]
 startDate = ""
-description = "Billy Bob Talking-Walkaround at Fun Time Pizza in McAllen"
 +++
+Billy Bob Talking-Walkaround at Fun Time Pizza in McAllen

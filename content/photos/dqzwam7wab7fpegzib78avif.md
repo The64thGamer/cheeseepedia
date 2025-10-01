@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Piccadilly Circus name change announcement"
 +++
+Piccadilly Circus name change announcement

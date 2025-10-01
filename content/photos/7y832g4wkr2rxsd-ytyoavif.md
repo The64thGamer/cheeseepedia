@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Pumpkin Festival Chuck (Chuck E Cheese Retrofit)"]
 startDate = ""
-description = "The Bot in 2018"
 +++
+The Bot in 2018

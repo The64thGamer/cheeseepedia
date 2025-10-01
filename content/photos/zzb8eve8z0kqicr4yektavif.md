@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["'M.C. Chuckie' (CD Award)"]
 startDate = ""
-description = "The poster in store use."
 +++
+The poster in store use.

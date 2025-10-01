@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
 startDate = ""
-description = "Exterior, Unknown year"
 +++
+Exterior, Unknown year

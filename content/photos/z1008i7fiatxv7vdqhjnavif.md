@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest Victorville, CA Office"]
 startDate = ""
-description = "Office Exterior w/ Harold Goldbrandsen (September 17, 1975)"
 +++
+Office Exterior w/ Harold Goldbrandsen (September 17, 1975)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E Cheese's Astrology"]
 startDate = ""
-description = "File:BRMANIN.jpg"
 +++
+File:BRMANIN.jpg

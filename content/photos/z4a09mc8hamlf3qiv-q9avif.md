@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["3 Birthday Showtape (Rerelease)"]
 startDate = ""
-description = "Reel Front"
 +++
+Reel Front

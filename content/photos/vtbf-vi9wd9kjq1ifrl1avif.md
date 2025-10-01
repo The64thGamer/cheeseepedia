@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Charlie Cheese's Pizza Playhouse"]
 startDate = ""
-description = "Charlie Cheese's Pizza Playhouse Logo from March 1981 until 1982"
 +++
+Charlie Cheese's Pizza Playhouse Logo from March 1981 until 1982

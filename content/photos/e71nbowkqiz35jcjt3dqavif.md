@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
 startDate = ""
-description = "Satellite Imagery (2023)"
 +++
+Satellite Imagery (2023)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Springfield, PA (381 Baltimore Pike)"]
 startDate = ""
-description = "Springfield's Celebration Station Grand Opening Advertisement (1984)"
 +++
+Springfield's Celebration Station Grand Opening Advertisement (1984)

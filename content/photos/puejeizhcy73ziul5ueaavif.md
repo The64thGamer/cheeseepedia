@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Helen Henny Purse (1988)"]
 startDate = ""
-description = "Blue purse open"
 +++
+Blue purse open

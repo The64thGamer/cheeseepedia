@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Metairie, LA (7008 Veterans Blvd)"]
 startDate = ""
-description = "Exterior, March 2024"
 +++
+Exterior, March 2024

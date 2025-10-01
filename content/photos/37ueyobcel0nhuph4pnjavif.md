@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Fats Gorilla (Animatronic)"]
 startDate = ""
-description = "Knoebels Amusement Resort"
 +++
+Knoebels Amusement Resort

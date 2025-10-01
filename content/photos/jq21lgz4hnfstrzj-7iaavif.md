@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Mr. Munch's Submarine (PTT Menu Item)"]
 startDate = ""
-description = "Sub Basket w/ Chips"
 +++
+Sub Basket w/ Chips

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["3 Birthday Shows - Colander History - Indoctrination Skit"]
 startDate = ""
-description = "Reel Case Side"
 +++
+Reel Case Side

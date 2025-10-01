@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Navori System"]
 startDate = ""
-description = "Screenshot of selecting a Navori show (September 1, 2023)"
 +++
+Screenshot of selecting a Navori show (September 1, 2023)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Interactive Console"]
 startDate = ""
-description = "1997 Console with the 1999 Master Control Center"
 +++
+1997 Console with the 1999 Master Control Center

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)","Winchester PTT Show"]
 startDate = ""
-description = "Chuck E. and Crusty in storage, 2022"
 +++
+Chuck E. and Crusty in storage, 2022

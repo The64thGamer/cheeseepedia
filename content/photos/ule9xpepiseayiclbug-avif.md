@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Newark, CA (39839 Mowry School Rd)"]
 startDate = ""
-description = "Newark's grand reopening."
 +++
+Newark's grand reopening.

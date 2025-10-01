@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Bit Chart"]
 startDate = ""
-description = "[[Cyberamics Road Stage]] Bit Chart"
 +++
+[[Cyberamics Road Stage]] Bit Chart

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Lone Tree, CO (7510 Parkway Dr)"]
 startDate = ""
-description = "July 15, 2022"
 +++
+July 15, 2022

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Citrus Heights, CA (7614 Greenback Lane)"]
 startDate = ""
-description = "Another shot of the Exteriorhttps://www.showbizpizza.com/photos/ptt/unknown_02/index.html, Early 1980's"
 +++
+Another shot of the Exteriorhttps://www.showbizpizza.com/photos/ptt/unknown_02/index.html, Early 1980's

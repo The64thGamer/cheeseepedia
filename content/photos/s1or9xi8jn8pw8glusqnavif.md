@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Springfield, MA (1716 Boston Rd)"]
 startDate = ""
-description = "Center Stage (2003) (PC: showbizpizza.com)"
 +++
+Center Stage (2003) (PC: showbizpizza.com)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Kooser Mr. Munch Name Sign (1978)"]
 startDate = ""
-description = "alt=Cardboard Nameplate Seen In 1979 Chuck E. Cheese's Franchise Brochure."
 +++
+alt=Cardboard Nameplate Seen In 1979 Chuck E. Cheese's Franchise Brochure.

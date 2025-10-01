@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "On Day 1 of cleanout. games tagged for transport & several lights turned off. (September 23, 2019)"
 +++
+On Day 1 of cleanout. games tagged for transport & several lights turned off. (September 23, 2019)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Spokane, WA (2301 W Wellesley Ave)"]
 startDate = ""
-description = "Spokane's exterior as a PTT"
 +++
+Spokane's exterior as a PTT

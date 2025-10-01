@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Friendly Freddy (Animatronic)"]
 startDate = ""
-description = "Internal Mechanisms (1977)"
 +++
+Internal Mechanisms (1977)

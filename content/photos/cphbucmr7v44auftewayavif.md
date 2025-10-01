@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Orange, CT (260 Bull Hill Lane)"]
 startDate = ""
-description = "A composite image of Orange's Balcony Stage from December 24, 1983"
 +++
+A composite image of Orange's Balcony Stage from December 24, 1983

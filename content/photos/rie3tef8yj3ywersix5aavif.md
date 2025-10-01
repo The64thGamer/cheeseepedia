@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
 startDate = ""
-description = "Official Grand Re-Opening Promotional Photo (November 2, 2023)"
 +++
+Official Grand Re-Opening Promotional Photo (November 2, 2023)

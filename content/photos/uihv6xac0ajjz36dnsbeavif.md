@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pearl City, HI (850 Kamehameha Hwy Suite 140)"]
 startDate = ""
-description = "The custom live show being performed at the location"
 +++
+The custom live show being performed at the location

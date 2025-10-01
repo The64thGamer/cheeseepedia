@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Humble, TX (124 E FM 1960 Bypass)"]
 startDate = ""
-description = "Studio C Bot"
 +++
+Studio C Bot

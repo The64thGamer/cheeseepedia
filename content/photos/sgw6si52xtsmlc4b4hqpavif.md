@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Waco, TX (5156 W Waco Dr)"]
 startDate = ""
-description = "Waco, TX exterior in the 1980s."
 +++
+Waco, TX exterior in the 1980s.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics Tester"]
 startDate = ""
-description = "Assembly Tag (Unit pictured above)"
 +++
+Assembly Tag (Unit pictured above)

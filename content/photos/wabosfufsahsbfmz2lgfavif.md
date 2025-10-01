@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Waco, TX (5156 W Waco Dr)"]
 startDate = ""
-description = "Salad Bar"
 +++
+Salad Bar

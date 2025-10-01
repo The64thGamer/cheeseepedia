@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Wild West and GQ Magazine posters in the side (Holiday 2002)hallwayhttps://archive.org/details/CEC_Colerain_Photos/CECcolerain011.JPG/"
 +++
+Wild West and GQ Magazine posters in the side (Holiday 2002)hallwayhttps://archive.org/details/CEC_Colerain_Photos/CECcolerain011.JPG/

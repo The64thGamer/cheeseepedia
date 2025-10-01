@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Shuffle 06"]
 startDate = ""
-description = "Cyberamic SVHS"
 +++
+Cyberamic SVHS

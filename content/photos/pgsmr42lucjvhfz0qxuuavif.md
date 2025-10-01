@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Alpha"]
 startDate = ""
-description = "Studio 'C' in Plano, TX (1999/2000)"
 +++
+Studio 'C' in Plano, TX (1999/2000)

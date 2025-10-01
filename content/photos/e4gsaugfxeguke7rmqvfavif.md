@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "Chuck E. at Durham with his Tuxedo in the early 2000s"
 +++
+Chuck E. at Durham with his Tuxedo in the early 2000s

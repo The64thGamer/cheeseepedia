@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Alexandria, LA (1725 Metro Dr)"]
 startDate = ""
-description = "Jasper in the 2000s"
 +++
+Jasper in the 2000s

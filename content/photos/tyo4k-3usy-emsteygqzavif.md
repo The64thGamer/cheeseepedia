@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Comparison between the 'Safari' and 'Opera House' exteriors (August 1973 + August 1978)"
 +++
+Comparison between the 'Safari' and 'Opera House' exteriors (August 1973 + August 1978)

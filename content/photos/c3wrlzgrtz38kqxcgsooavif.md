@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Middle Section post cleanout with Beverage Station items still inside. (October 3, 2019)"
 +++
+Middle Section post cleanout with Beverage Station items still inside. (October 3, 2019)

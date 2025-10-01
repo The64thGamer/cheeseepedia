@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Madam Oink (Animatronic)"]
 startDate = ""
-description = "Picture of Winchester Madam Oink at the corporate offices."
 +++
+Picture of Winchester Madam Oink at the corporate offices.

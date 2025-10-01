@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E.'s House"]
 startDate = ""
-description = "Rocker Stage Design #1 (White and brown colors) (Year installed: 1987)"
 +++
+Rocker Stage Design #1 (White and brown colors) (Year installed: 1987)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Another angle of the spare Chuck mask. (September 22, 2019)"
 +++
+Another angle of the spare Chuck mask. (September 22, 2019)

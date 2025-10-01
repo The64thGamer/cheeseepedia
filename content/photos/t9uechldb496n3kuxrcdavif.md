@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Takoma Park, MD (1127 University Blvd E)"]
 startDate = ""
-description = "The Store, Takoma Park's predecessor"
 +++
+The Store, Takoma Park's predecessor

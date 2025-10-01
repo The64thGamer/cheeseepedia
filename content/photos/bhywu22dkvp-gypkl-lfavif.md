@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Danvers, MA (139 Endicott St)"]
 startDate = ""
-description = "The store's Cabaret B.B. Bubbles Animatronic (1985)"
 +++
+The store's Cabaret B.B. Bubbles Animatronic (1985)

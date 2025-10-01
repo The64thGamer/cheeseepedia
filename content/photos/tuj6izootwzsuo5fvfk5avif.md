@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E's Yo Yoo Punch"]
 startDate = ""
-description = "The game at [[Cincinnati, OH (8801 Colerain Ave)"
 +++
+The game at [[Cincinnati, OH (8801 Colerain Ave)

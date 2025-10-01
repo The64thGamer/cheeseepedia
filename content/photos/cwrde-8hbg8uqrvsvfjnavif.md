@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Mississauga, Ontario, Canada (4141 Dixie Rd)"]
 startDate = ""
-description = "Exterior (September 2021)"
 +++
+Exterior (September 2021)

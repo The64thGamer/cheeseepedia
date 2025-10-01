@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Bradenton, FL (4420 14th St)"]
 startDate = ""
-description = "Bradenton's road sign."
 +++
+Bradenton's road sign.

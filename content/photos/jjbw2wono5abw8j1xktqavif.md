@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["1991 Nickelodeon"]
 startDate = ""
-description = "The Nickelodeon seen at the Arlington, TX (fielder) store"
 +++
+The Nickelodeon seen at the Arlington, TX (fielder) store

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Rock-afire Explosion Simulator"]
 startDate = ""
-description = "RAE Simulator Logo"
 +++
+RAE Simulator Logo

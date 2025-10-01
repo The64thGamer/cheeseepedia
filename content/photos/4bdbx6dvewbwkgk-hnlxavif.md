@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
 startDate = ""
-description = "Costume Department, 1981"
 +++
+Costume Department, 1981

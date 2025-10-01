@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Super Chuck Summer Ad (Scan, 2005)"
 +++
+Super Chuck Summer Ad (Scan, 2005)

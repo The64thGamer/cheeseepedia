@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Dolli Dimples (Animatronic)"]
 startDate = ""
-description = "Front View (1979)"
 +++
+Front View (1979)

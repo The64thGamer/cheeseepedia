@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Untitled Dinosaur Show"]
 startDate = ""
-description = "Tarbosaur in a mall in California before being moved to Las Vegas"
 +++
+Tarbosaur in a mall in California before being moved to Las Vegas

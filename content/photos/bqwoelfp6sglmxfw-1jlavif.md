@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Star Cast Member of the Month 2019 Pin"]
 startDate = ""
-description = "Front"
 +++
+Front

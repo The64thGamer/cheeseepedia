@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Liseberg Western Monkey on Washboard"
 +++
+Liseberg Western Monkey on Washboard

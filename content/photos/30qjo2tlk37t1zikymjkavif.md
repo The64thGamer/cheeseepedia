@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Southgate, MI (15300 Toledo Rd)"]
 startDate = ""
-description = "An ad promoting the opening of Southgate from 1982"
 +++
+An ad promoting the opening of Southgate from 1982

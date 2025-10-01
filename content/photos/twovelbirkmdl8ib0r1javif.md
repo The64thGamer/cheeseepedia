@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Arlington, TX (2216 S Fielder Rd)"]
 startDate = ""
-description = "Exterior, 2001"
 +++
+Exterior, 2001

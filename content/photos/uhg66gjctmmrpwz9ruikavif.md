@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = " Bandit at a school charity in 1984"
 +++
+ Bandit at a school charity in 1984

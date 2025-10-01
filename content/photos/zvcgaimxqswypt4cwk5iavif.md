@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
 startDate = ""
-description = "Construction of [[Ninja Run]] courses (August 12, 2024)"
 +++
+Construction of [[Ninja Run]] courses (August 12, 2024)

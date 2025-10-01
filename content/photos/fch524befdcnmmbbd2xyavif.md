@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Las Vegas, NV (7381 W Lake Mead Blvd)"]
 startDate = ""
-description = "Lake Mead's exterior prior to 2.0."
 +++
+Lake Mead's exterior prior to 2.0.

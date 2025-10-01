@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "CEC Snack Cheeses Ad (2006)"
 +++
+CEC Snack Cheeses Ad (2006)

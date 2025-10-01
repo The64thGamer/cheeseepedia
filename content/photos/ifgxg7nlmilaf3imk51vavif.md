@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Dubai Outlet Mall, UAE"]
 startDate = ""
-description = "Exterior before closure"
 +++
+Exterior before closure

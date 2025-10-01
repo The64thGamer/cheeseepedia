@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Dining Marquee (CEC Signage)"]
 startDate = ""
-description = "The sign at the Jonesboro, GA location in April 2021."
 +++
+The sign at the Jonesboro, GA location in April 2021.

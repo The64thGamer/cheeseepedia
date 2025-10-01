@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Sandy, UT (10535 So State St)"]
 startDate = ""
-description = "Exterior on September 7, 2006 via Geocache"
 +++
+Exterior on September 7, 2006 via Geocache

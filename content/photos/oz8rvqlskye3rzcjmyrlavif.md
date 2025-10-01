@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Alpha"]
 startDate = ""
-description = "Full view (1997 Prototype)"
 +++
+Full view (1997 Prototype)

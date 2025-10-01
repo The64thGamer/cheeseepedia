@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Weber Bicentennial Time Machine Show"]
 startDate = ""
-description = "Ad for the show"
 +++
+Ad for the show

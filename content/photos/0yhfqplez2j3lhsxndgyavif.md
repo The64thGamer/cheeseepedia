@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["New Fandom Member FAQ"]
 startDate = ""
-description = "frameless"
 +++
+frameless

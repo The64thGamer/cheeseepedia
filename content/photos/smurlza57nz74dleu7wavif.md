@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chicago, IL (1830 W Fullerton Ave)","Chuck E. Cheese (Cyberamic)","1-Stage"]
 startDate = ""
-description = "Cyberamic Chuck at Chicago, IL (1830 W Fullerton Ave)"
 +++
+Cyberamic Chuck at Chicago, IL (1830 W Fullerton Ave)

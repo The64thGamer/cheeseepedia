@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Topeka Inn Management Introduces (1979)"]
 startDate = ""
-description = "Front Cover"
 +++
+Front Cover

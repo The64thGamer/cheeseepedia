@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Bandstand II"]
 startDate = ""
-description = "Reel in Case"
 +++
+Reel in Case

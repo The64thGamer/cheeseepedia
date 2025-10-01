@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["December 2012 Show"]
 startDate = ""
-description = "CEC-Stage DVD"
 +++
+CEC-Stage DVD

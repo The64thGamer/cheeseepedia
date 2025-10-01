@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Santiago (Plaza Oeste), Chile"]
 startDate = ""
-description = "Plaza Oeste's exterior in the 13th of January, 2011"
 +++
+Plaza Oeste's exterior in the 13th of January, 2011

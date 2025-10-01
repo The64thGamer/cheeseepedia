@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Alpha"]
 startDate = ""
-description = "Chroma Key (1997 Prototype)"
 +++
+Chroma Key (1997 Prototype)

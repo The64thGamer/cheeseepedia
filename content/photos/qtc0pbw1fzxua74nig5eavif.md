@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Katy, TX (2002 Gulfmont Dr)"]
 startDate = ""
-description = "Katy's exterior in July 2024"
 +++
+Katy's exterior in July 2024

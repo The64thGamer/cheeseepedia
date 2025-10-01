@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
-description = "200px"
 +++
+200px

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Willie Rabbit (Animatronic)"]
 startDate = ""
-description = "Willie Rabbit Presumably being made at The CEI Office, Unknown year."
 +++
+Willie Rabbit Presumably being made at The CEI Office, Unknown year.

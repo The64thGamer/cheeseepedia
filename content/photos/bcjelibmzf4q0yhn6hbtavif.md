@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Sgt. Singer (Animatronic)"]
 startDate = ""
-description = "Sgt Singer (Barnyard Band Variant) from the side"
 +++
+Sgt Singer (Barnyard Band Variant) from the side

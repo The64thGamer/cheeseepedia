@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Around the World (PTT Theme)"]
 startDate = ""
-description = "Cloud assembly."
 +++
+Cloud assembly.

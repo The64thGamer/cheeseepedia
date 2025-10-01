@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E.'s House"]
 startDate = ""
-description = "Jul Kamen Concept Art"
 +++
+Jul Kamen Concept Art

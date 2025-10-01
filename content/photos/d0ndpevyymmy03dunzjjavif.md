@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cheese E. Street"]
 startDate = ""
-description = "Photo of the Ribbon cutting ceremony at the Kooser Road location."
 +++
+Photo of the Ribbon cutting ceremony at the Kooser Road location.

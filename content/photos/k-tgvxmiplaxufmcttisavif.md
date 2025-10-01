@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics Balcony Stage"]
 startDate = ""
-description = "4th Balcony Stage Design (Year installed: 1986)"
 +++
+4th Balcony Stage Design (Year installed: 1986)

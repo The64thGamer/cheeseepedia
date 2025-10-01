@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["'Flabby Road' (CD Award)"]
 startDate = ""
-description = "1995 Release"
 +++
+1995 Release

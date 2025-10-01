@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Drum Board (Cyberamic)"]
 startDate = ""
-description = "An original Band Board alongside other PTT animatronics."
 +++
+An original Band Board alongside other PTT animatronics.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
 startDate = ""
-description = "Programming Room, June, 1983"
 +++
+Programming Room, June, 1983

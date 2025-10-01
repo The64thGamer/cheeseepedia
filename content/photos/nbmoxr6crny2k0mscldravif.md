@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
-description = "Pizza Time Theatre II - Mod-1 (Page 31)"
 +++
+Pizza Time Theatre II - Mod-1 (Page 31)

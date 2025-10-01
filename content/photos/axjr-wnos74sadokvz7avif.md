@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E. Cheese Play-N-Place"]
 startDate = ""
-description = "Dolli's Descent in Phoenix, AZ's Play-N-Place"
 +++
+Dolli's Descent in Phoenix, AZ's Play-N-Place

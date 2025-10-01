@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Rick Rat Costume Head used on Chuck E. Cheese in one of the 4th Quarter Update Videos (Early 2000's)"
 +++
+Rick Rat Costume Head used on Chuck E. Cheese in one of the 4th Quarter Update Videos (Early 2000's)

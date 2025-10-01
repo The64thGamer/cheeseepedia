@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
-description = "Herky the Hawkeye (1977)"
 +++
+Herky the Hawkeye (1977)

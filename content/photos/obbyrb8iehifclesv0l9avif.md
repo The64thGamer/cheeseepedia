@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's World Stage"]
 startDate = ""
-description = "Right Stage during installation in 1992."
 +++
+Right Stage during installation in 1992.

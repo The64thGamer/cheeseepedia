@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Wolfman (Animatronic)"]
 startDate = ""
-description = "Gaslight Village (Late 70s)"
 +++
+Gaslight Village (Late 70s)

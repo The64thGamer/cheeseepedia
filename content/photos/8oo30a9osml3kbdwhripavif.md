@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["El Cerrito, CA (10 El Cerrito Plaza)"]
 startDate = ""
-description = "The space where the Pizza Time Theater was planned at. (Kirby's Restaurant and El Cerrito Station Bar)"
 +++
+The space where the Pizza Time Theater was planned at. (Kirby's Restaurant and El Cerrito Station Bar)

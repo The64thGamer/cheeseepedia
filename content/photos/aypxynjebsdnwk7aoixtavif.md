@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Talking Chuck E."]
 startDate = ""
-description = "Plush Back (Broken battery compartment)"
 +++
+Plush Back (Broken battery compartment)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (6760 Antoine Dr)"]
 startDate = ""
-description = "alt=Stage Left Houston, TX (Antoine)"
 +++
+alt=Stage Left Houston, TX (Antoine)

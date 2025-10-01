@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Fats Gorilla (Animatronic)"]
 startDate = ""
-description = "Gaslight Village Fats, currently owned by Jack Turner (2020)"
 +++
+Gaslight Village Fats, currently owned by Jack Turner (2020)

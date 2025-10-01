@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place","Creative Engineering"]
 pages = ["Beatles White Album","10-25-94 (Show Selector 2)","6-1-97 (Show Selector 1)","2-1-97 (Show Selector 1)","Magic Night","3 Klunk B-Days for 2-Stage Shows"]
 startDate = "2025-09-08"
-description = "Various showtape labels removed from their reels."
 +++
+Various showtape labels removed from their reels.

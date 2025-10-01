@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Dale City, VA (14085 Shoppers Best Way)"]
 startDate = ""
-description = "The stage decorated for Christmas"
 +++
+The stage decorated for Christmas

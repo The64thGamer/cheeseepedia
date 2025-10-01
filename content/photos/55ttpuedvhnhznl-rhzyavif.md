@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chico, CA (966 East Ave)"]
 startDate = ""
-description = "Chico yelp review 4"
 +++
+Chico yelp review 4

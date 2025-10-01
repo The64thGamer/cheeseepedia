@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Wolfman Zapp (Cyberamic)"]
 startDate = ""
-description = "Unknown Bot Photo (Early 1980's)."
 +++
+Unknown Bot Photo (Early 1980's).

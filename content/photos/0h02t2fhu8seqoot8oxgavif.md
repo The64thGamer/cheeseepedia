@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
 startDate = ""
-description = "Exterior (2020's)"
 +++
+Exterior (2020's)

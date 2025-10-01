@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Four Little Shavers (Ice Cream Emporium)"]
 startDate = ""
-description = "The Volo Shavers during installation."
 +++
+The Volo Shavers during installation.

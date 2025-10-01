@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["West Palm Beach, FL (4646 Okeechobee Blvd)"]
 startDate = ""
-description = "A photo of the exterior of the store after closure (PC: Yellow Pages)."
 +++
+A photo of the exterior of the store after closure (PC: Yellow Pages).

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Tech Term"]
 startDate = ""
-description = "Studio C Technician Terminal"
 +++
+Studio C Technician Terminal

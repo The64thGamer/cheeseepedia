@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Marty Miglionico cleaning up Bandit"
 +++
+Marty Miglionico cleaning up Bandit

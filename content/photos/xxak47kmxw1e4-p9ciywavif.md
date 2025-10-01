@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["West Allis, WI (2990 South 108th Ave)"]
 startDate = ""
-description = "West Allis's Exterior 1-3 months before the 2.0 Remodel (PC: ourtut) (6/13/2021)"
 +++
+West Allis's Exterior 1-3 months before the 2.0 Remodel (PC: ourtut) (6/13/2021)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Queenie / Mini Mozzarella (Animatronic)"]
 startDate = ""
-description = "ShowBiz Pizza Place, Kansas City, MO, converted into Mini Mozzarella (1980)"
 +++
+ShowBiz Pizza Place, Kansas City, MO, converted into Mini Mozzarella (1980)

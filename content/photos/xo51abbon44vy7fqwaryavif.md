@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Brandon, FL (1540 W Brandon Blvd)"]
 startDate = ""
-description = "The King, 1981"
 +++
+The King, 1981

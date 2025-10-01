@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Takoma Park, MD (1127 University Blvd E)"]
 startDate = ""
-description = "Takoma Park, MD's Show"
 +++
+Takoma Park, MD's Show

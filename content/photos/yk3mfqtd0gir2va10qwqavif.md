@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["It's Chuck E. Time!"]
 startDate = ""
-description = "It's Chuck E. Time Cassette Cover"
 +++
+It's Chuck E. Time Cassette Cover

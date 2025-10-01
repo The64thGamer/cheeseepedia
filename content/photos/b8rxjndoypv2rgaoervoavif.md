@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["May 2011 Show"]
 startDate = ""
-description = "Behind the scenes at the Grapevine CEC."
 +++
+Behind the scenes at the Grapevine CEC.

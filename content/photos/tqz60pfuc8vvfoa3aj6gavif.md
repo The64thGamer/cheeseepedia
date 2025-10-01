@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (2445 Fontaine Rd)"]
 startDate = ""
-description = "Magic Village 1975 - Future area for Chuck E. Cheese's service areas."
 +++
+Magic Village 1975 - Future area for Chuck E. Cheese's service areas.

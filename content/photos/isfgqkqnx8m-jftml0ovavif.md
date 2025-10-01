@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Daniel and The Dixie Diggers (Rusutsu Resort)"]
 startDate = ""
-description = "The Dixie Diggers as it ran in 2011."
 +++
+The Dixie Diggers as it ran in 2011.

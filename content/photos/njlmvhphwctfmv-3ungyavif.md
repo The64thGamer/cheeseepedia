@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Citrus Heights, CA (7614 Greenback Lane)"]
 startDate = ""
-description = "The Location's opening Newspaper 1979"
 +++
+The Location's opening Newspaper 1979

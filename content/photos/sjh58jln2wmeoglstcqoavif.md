@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["3-Stage Sixteen Tons"]
 startDate = ""
-description = "File:Vrvrvrv.png"
 +++
+File:Vrvrvrv.png

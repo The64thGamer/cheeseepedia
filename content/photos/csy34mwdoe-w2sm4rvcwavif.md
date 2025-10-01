@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Columbus, IN (1455 N National Rd)"]
 startDate = ""
-description = "Exterior, 2018"
 +++
+Exterior, 2018

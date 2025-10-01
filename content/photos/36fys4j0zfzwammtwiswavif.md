@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["The Amazing Uncle Klunk Traveling Show (Event)"]
 startDate = ""
-description = "'Now Showing' Advert (Tall Font)"
 +++
+'Now Showing' Advert (Tall Font)

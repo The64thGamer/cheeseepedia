@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Mini-stage Skits"]
 startDate = ""
-description = "Reel"
 +++
+Reel

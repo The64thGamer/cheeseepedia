@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "David Ferguson's Classic Stage setup in October 2009."
 +++
+David Ferguson's Classic Stage setup in October 2009.

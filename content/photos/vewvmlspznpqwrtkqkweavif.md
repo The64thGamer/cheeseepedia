@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Click / Murray D. Bird (Animatronic)"]
 startDate = ""
-description = "A damaged Click with the doors open."
 +++
+A damaged Click with the doors open.

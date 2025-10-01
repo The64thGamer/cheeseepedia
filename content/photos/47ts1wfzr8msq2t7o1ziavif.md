@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"]
 startDate = ""
-description = " Far away shot of the reproduction Flag Wavers."
 +++
+ Far away shot of the reproduction Flag Wavers.

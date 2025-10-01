@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Alexandria, LA (1725 Metro Dr)"]
 startDate = ""
-description = "Helen in the 2000s"
 +++
+Helen in the 2000s

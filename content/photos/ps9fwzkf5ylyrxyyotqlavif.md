@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Lakewood, CA (5151 Lakewood Blvd)"]
 startDate = ""
-description = "Exterior, 2017"
 +++
+Exterior, 2017

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Americana BCJ Theater Building (1999)"
 +++
+Americana BCJ Theater Building (1999)

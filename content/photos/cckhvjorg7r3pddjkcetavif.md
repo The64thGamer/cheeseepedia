@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Main Show & Dolli Showtape"]
 startDate = ""
-description = "Corasound Building Layout, October 1978"
 +++
+Corasound Building Layout, October 1978

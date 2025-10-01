@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
-description = "Hurc the Golden Hurricane, mascot for Tulsa University football team (1977-1978)"
 +++
+Hurc the Golden Hurricane, mascot for Tulsa University football team (1977-1978)

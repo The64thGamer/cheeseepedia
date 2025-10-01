@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Flag Wavers (Cyberamic)"]
 startDate = ""
-description = "The Flag Wavers at the Corpus Christi, TX location."
 +++
+The Flag Wavers at the Corpus Christi, TX location.

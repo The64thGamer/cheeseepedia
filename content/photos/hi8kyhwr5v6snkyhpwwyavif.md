@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
-description = "May 28th, 2023"
 +++
+May 28th, 2023

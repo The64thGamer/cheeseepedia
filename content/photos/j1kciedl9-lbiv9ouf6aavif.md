@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Lima, OH (2809 Elida Rd)"]
 startDate = ""
-description = "2015"
 +++
+2015

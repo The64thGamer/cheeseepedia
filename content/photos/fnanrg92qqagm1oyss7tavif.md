@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)","Winchester PTT Show"]
 startDate = ""
-description = "Close up, 2011"
 +++
+Close up, 2011

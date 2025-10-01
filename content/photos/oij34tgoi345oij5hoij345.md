@@ -5,6 +5,6 @@ categories = []
 startDate = ""
 draft = false
 pages = []
-description = "Cheese-E-Pedia Logo (Standard Theme)"
 citations = []
 +++
+Cheese-E-Pedia Logo (Standard Theme)

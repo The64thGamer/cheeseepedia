@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Confederate Critter Show"]
 startDate = ""
-description = "alt=A complete shot of the Confederate Critter Show, showing every single character."
 +++
+alt=A complete shot of the Confederate Critter Show, showing every single character.

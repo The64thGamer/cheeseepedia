@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Monroeville, PA (3800 William Penn Hwy)"]
 startDate = ""
-description = "Exterior, 2023"
 +++
+Exterior, 2023

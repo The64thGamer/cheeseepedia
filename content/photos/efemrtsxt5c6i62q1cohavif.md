@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (1371 Kooser Rd)"]
 startDate = ""
-description = "Kooser Rd.'s exterior in 2018."
 +++
+Kooser Rd.'s exterior in 2018.

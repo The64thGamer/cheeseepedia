@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Burlington, Ontario, Canada (3345 Harvester Rd)"]
 startDate = ""
-description = "Burlington's C-Stage on closing day."
 +++
+Burlington's C-Stage on closing day.

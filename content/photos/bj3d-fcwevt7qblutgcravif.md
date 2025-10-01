@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sun (Animatronic)"]
 startDate = ""
-description = "Early Sun mechanism with body turn."
 +++
+Early Sun mechanism with body turn.

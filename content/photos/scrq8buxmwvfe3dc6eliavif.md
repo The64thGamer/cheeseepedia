@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Helen Henny (Lounge)"]
 startDate = ""
-description = "Citrus Heights, CA"
 +++
+Citrus Heights, CA

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Prototype Stage"]
 startDate = ""
-description = "The CU Prototype Pasqually animatronic."
 +++
+The CU Prototype Pasqually animatronic.

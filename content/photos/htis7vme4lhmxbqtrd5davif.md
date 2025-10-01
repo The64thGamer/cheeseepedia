@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Chuck E. Bucks Ad (1995)"
 +++
+Chuck E. Bucks Ad (1995)

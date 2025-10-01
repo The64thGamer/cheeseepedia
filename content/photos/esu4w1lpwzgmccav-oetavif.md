@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Redwood City, CA (380 Convention Way)"]
 startDate = ""
-description = "September 2022, Building Exterior"
 +++
+September 2022, Building Exterior

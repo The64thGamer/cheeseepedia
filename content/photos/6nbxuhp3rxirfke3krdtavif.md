@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["St. Louis, MO (2805 Target Dr)"]
 startDate = ""
-description = "alt=Back of St. Louis Target Drive"
 +++
+alt=Back of St. Louis Target Drive

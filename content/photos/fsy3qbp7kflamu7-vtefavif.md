@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["SPT 1990's Remodel Program"]
 startDate = ""
-description = "Updated gameroom booths and carpeting."
 +++
+Updated gameroom booths and carpeting.

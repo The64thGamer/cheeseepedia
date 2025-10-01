@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Original Ticket Munchers (Spring 2010)https://archive.org/details/CEC_Colerain_Photos/CECcolerain117.JPG/"
 +++
+Original Ticket Munchers (Spring 2010)https://archive.org/details/CEC_Colerain_Photos/CECcolerain117.JPG/

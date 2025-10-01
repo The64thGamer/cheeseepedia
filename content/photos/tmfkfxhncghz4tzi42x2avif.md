@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Pasqually (Animatronic)","Winchester PTT Show","Irving, TX (4441 W Airport Fwy Ste 215)"]
 startDate = "0000-00-00"
-description = "Winchester Pasqually animatronic at CEC Corporate headquarters."
 citations = ["https://www.facebook.com/showbizpizzacom/photos/pcb.10162521603625554/10162521603480554/?type=3&theater"]
 +++
+Winchester Pasqually animatronic at CEC Corporate headquarters.

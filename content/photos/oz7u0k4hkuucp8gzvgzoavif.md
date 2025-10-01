@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Salt Lake City, UT (389 W 1830 South)"]
 startDate = ""
-description = "Exterior on February 18, 2019"
 +++
+Exterior on February 18, 2019

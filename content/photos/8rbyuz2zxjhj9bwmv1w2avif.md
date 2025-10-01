@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Oceanside, CA (2481 Vista Way)"]
 startDate = ""
-description = "Exterior before the 2.0 remodel, 2017"
 +++
+Exterior before the 2.0 remodel, 2017

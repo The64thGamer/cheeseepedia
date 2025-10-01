@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Mentor, OH (7900 Plaza Blvd)"]
 startDate = ""
-description = "Mentor's exterior as a Marc's "
 +++
+Mentor's exterior as a Marc's 

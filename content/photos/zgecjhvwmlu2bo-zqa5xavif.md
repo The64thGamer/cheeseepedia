@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Greenville, SC (253 Congaree Rd)"]
 startDate = ""
-description = "Stage Left (1998)"
 +++
+Stage Left (1998)

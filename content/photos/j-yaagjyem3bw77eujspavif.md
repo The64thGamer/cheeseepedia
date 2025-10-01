@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Stripes"]
 startDate = ""
-description = "BLÅHAJ soft toy, shark, 39 ¼'"
 +++
+BLÅHAJ soft toy, shark, 39 ¼'

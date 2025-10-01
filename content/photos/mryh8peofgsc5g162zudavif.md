@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Kansas City, MO (2726 NE Vivion Rd)"]
 startDate = ""
-description = "the Store's Dingo Star, 1980."
 +++
+the Store's Dingo Star, 1980.

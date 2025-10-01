@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Boom Boom Bosco (Animatronic)"]
 startDate = ""
-description = "At museum (11/28/2023)"
 +++
+At museum (11/28/2023)

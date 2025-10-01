@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Brian Schultz posing with the Sioux Falls Wilbur"
 +++
+Brian Schultz posing with the Sioux Falls Wilbur

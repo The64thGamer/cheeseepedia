@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Chuck E Cheese Nutritional Poster (1981)"]
 startDate = ""
-description = "Poster Low Res Scan"
 +++
+Poster Low Res Scan

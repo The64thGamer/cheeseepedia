@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Character Cable Tester"]
 startDate = ""
-description = "Front Label"
 +++
+Front Label

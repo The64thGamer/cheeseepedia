@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E. Cheese Proof of Concept Prototype (Animatronic)"]
 startDate = ""
-description = "Face (2012)"
 +++
+Face (2012)

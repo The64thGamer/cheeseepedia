@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Edenlandia Red Parrot (Post-Closure)"
 +++
+Edenlandia Red Parrot (Post-Closure)

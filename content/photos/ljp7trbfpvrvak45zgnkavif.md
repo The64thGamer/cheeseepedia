@@ -5,6 +5,6 @@ pages = ["Winchester Grand-Opening Advertisement (1977)", "San Jose, CA (370 S W
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
-description = "Winchester Grand-Opening Advertisement"
 startdate = "1977-05-00"
 +++
+Winchester Grand-Opening Advertisement

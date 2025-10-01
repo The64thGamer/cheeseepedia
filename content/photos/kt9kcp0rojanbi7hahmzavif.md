@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Rock-afire Explosion Documentary"]
 startDate = ""
-description = "Main Poster"
 +++
+Main Poster

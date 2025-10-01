@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
 startDate = ""
-description = "Northridge's exterior in (1988)(PC: @ajkruse1797 )"
 +++
+Northridge's exterior in (1988)(PC: @ajkruse1797 )

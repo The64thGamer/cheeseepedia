@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Sgt. Singer's Pizza Circus"]
 startDate = ""
-description = "'Three Rings of Fun & Value' Advertisement (Decatur, GA)"
 +++
+'Three Rings of Fun & Value' Advertisement (Decatur, GA)

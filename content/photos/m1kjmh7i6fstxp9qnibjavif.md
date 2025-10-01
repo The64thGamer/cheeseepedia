@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
-description = "A Chuck bot with an Avenger suit on (Still has the Cool Chuck pants & Hat)"
 +++
+A Chuck bot with an Avenger suit on (Still has the Cool Chuck pants & Hat)

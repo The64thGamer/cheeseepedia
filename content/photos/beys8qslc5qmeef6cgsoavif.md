@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Navori System"]
 startDate = ""
-description = "Use of a store's iPad to select a Navori live show."
 +++
+Use of a store's iPad to select a Navori live show.

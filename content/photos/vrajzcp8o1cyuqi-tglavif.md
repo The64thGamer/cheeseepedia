@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Liseberg Gorilla Pianist & Primadonna Monkey"
 +++
+Liseberg Gorilla Pianist & Primadonna Monkey

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
-description = "Choo-Choo reskin in 2005"
 +++
+Choo-Choo reskin in 2005

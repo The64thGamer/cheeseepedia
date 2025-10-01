@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Hayward, CA (24039 Hesperian Blvd)"]
 startDate = ""
-description = "The stage before being turned on. (June 18th 2023)"
 +++
+The stage before being turned on. (June 18th 2023)

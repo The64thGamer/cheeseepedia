@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Rock-afire Explosion"]
 startDate = ""
-description = "Show Stage (Unknown Year)"
 +++
+Show Stage (Unknown Year)

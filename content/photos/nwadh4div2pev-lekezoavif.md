@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Character Cable Tester"]
 startDate = ""
-description = "Top of the Unit"
 +++
+Top of the Unit

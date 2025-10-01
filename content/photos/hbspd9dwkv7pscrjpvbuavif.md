@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Louisville, KY (5743 Preston Hwy)"]
 startDate = ""
-description = "Arcade (1990s)"
 +++
+Arcade (1990s)

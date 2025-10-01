@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Circus"]
 startDate = ""
-description = "Standard Amutec Van in Purple"
 +++
+Standard Amutec Van in Purple

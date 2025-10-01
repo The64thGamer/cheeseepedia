@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Warblettes Name Sign (1977)"]
 startDate = ""
-description = "In '4 Corners'"
 +++
+In '4 Corners'

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tucson, AZ (6125 E Speedway Blvd)"]
 startDate = ""
-description = "Exterior, 2023"
 +++
+Exterior, 2023

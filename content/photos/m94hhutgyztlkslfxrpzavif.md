@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Mobile, AL (710 Downtowner Loop)"]
 startDate = ""
-description = "June 2012"
 +++
+June 2012

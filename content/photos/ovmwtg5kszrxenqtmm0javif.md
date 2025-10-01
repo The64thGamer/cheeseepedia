@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Phase 3 (2000)"]
 startDate = ""
-description = "'New 4 You' Operators Guide"
 +++
+'New 4 You' Operators Guide

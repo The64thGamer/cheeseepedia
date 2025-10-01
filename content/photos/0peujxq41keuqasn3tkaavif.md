@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Biloxi, MS (4550 W Beach Blvd)"]
 startDate = ""
-description = "July 2005 Aerial"
 +++
+July 2005 Aerial

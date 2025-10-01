@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Chicago, IL (5030 S Kedzie Ave)"]
 startDate = ""
-description = "The exterior of the store in the 2000s"
 +++
+The exterior of the store in the 2000s

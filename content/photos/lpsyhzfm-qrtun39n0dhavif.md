@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
 startDate = ""
-description = "Exterior (February 2023)"
 +++
+Exterior (February 2023)

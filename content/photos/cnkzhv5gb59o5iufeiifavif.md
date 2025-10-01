@@ -5,6 +5,6 @@ pages = ["San Jose, CA (370 S Winchester Blvd)", "Winchester Pasqually (Animatro
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
-description = "The Winchester Pasqually animatronic."
 startdate = "0000-00-00"
 +++
+The Winchester Pasqually animatronic.

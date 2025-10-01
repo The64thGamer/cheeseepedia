@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Picture of Stanley in a Pizza Peddler Ad from 1984"
 +++
+Picture of Stanley in a Pizza Peddler Ad from 1984

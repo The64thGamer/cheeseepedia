@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Clown (Animatronic)"]
 startDate = ""
-description = "Internal Mech & Shell"
 +++
+Internal Mech & Shell

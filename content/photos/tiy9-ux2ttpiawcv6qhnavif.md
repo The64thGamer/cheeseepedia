@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Charlotte, NC (7701 Pineville-Matthews Rd)"]
 startDate = ""
-description = "Pizzacam originally from [[Laurel, MD (936 Fairlawn Ave)]] (June 18, 2024)"
 +++
+Pizzacam originally from [[Laurel, MD (936 Fairlawn Ave)]] (June 18, 2024)

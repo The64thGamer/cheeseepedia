@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The former Classic Stage at [[Salina, KS (2555 Market Place)]] in September 1981. (Now removed, now closed)"
 +++
+The former Classic Stage at [[Salina, KS (2555 Market Place)]] in September 1981. (Now removed, now closed)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Pasqually flattened shoe (January 26, 2019)"
 +++
+Pasqually flattened shoe (January 26, 2019)

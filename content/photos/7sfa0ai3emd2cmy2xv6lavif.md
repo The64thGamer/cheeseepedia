@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Alexandria, LA (1725 Metro Dr)"]
 startDate = ""
-description = "The store's Studio C performing 'Dream Big' from [[Chuck E. Cheese's Show 5 2016"
 +++
+The store's Studio C performing 'Dream Big' from [[Chuck E. Cheese's Show 5 2016

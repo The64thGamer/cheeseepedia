@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Golf (Magazine)"]
 startDate = ""
-description = "Production Statue (1993)"
 +++
+Production Statue (1993)

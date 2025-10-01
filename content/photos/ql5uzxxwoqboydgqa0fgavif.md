@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "The broken Jasper mask (September 22, 2019)"
 +++
+The broken Jasper mask (September 22, 2019)

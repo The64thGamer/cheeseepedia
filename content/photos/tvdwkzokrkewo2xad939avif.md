@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Patriotic 1998"]
 startDate = ""
-description = "'Important!' Video Tape"
 +++
+'Important!' Video Tape

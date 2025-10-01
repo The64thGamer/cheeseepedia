@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Helen Character Drive Card (Rev A)"
 +++
+Helen Character Drive Card (Rev A)

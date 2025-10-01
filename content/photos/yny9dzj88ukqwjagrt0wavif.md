@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E Cheese's Grand Slam"]
 startDate = ""
-description = "The arcade machine at the [[Commack, NY (2115 Jericho Turnpike)"
 +++
+The arcade machine at the [[Commack, NY (2115 Jericho Turnpike)

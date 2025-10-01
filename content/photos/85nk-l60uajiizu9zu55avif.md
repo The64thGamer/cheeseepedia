@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Prototype Stage"]
 startDate = ""
-description = "Stage Left being installed by Jul Kamen and unknown employee."
 +++
+Stage Left being installed by Jul Kamen and unknown employee.

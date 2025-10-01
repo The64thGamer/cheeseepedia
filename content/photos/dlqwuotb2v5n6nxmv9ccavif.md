@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Laurel, MD (936 Fairlawn Ave)"]
 startDate = ""
-description = "Laurel's 3-Stage in 2012."
 +++
+Laurel's 3-Stage in 2012.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
-description = "Brochure promoting the Grand Re-Opening event "
 +++
+Brochure promoting the Grand Re-Opening event 

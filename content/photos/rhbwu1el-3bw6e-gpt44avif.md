@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Mitzi Cyberstar Walkaround"]
 startDate = ""
-description = "Mitzi Walkaround"
 +++
+Mitzi Walkaround

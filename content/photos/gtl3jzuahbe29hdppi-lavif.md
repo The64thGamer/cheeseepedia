@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Disney Parks"]
 pages = ["DACS"]
 startDate = ""
-description = "Simplified DACS Diagram"
 +++
+Simplified DACS Diagram

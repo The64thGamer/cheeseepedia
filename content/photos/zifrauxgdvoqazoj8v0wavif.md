@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Four Seasoned Bears at Americana"
 +++
+Four Seasoned Bears at Americana

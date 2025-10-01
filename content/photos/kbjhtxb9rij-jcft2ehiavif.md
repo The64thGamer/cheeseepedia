@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Madison, WI (438 Grand Canyon Dr)"]
 startDate = ""
-description = "Madison's Exterior From Around 2007"
 +++
+Madison's Exterior From Around 2007

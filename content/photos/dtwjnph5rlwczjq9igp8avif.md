@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Plano, TX (1604 Preston Rd)"]
 startDate = ""
-description = "Exterior of the newly remodeled Plano, TX store."
 +++
+Exterior of the newly remodeled Plano, TX store.

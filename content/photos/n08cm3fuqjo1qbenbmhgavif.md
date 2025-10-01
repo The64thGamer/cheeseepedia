@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "All New Chuck E. Cheese's (1996)"
 +++
+All New Chuck E. Cheese's (1996)

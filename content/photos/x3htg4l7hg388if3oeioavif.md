@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Raleigh, NC (3501-131 Capital Blvd)"]
 startDate = ""
-description = "Right Stage. PC: RetailRyan on Flickr. (March 24, 2021)"
 +++
+Right Stage. PC: RetailRyan on Flickr. (March 24, 2021)

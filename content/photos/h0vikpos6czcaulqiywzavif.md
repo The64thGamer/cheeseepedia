@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Charlotte, NC (7701 Pineville-Matthews Rd)"]
 startDate = ""
-description = "Exterior (June 2024)"
 +++
+Exterior (June 2024)

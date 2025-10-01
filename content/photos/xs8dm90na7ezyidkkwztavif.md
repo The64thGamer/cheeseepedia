@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Cyberamics Portrait / Shelf Stage"]
 startDate = ""
-description = "An unknown location with Balcony nameplates"
 +++
+An unknown location with Balcony nameplates

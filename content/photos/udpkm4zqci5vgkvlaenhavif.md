@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics"]
 startDate = ""
-description = "[[Cyberamics Balcony Stage]] (Years installed: May 1980 to January 1986) (Now retired)"
 +++
+[[Cyberamics Balcony Stage]] (Years installed: May 1980 to January 1986) (Now retired)

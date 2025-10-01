@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Munch & Chuck Walkaround performing (1992-1993)"
 +++
+Munch & Chuck Walkaround performing (1992-1993)

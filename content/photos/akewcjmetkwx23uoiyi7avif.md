@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Pizza Place Equipment Listing Manual"]
 startDate = ""
-description = "'Gift Shop Merchandise' Page"
 +++
+'Gift Shop Merchandise' Page

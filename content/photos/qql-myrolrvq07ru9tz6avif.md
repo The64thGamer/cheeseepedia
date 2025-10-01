@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Raleigh, NC (4339 Falls of Neuse Rd)"]
 startDate = ""
-description = "Showroom view from the early 80s. (PC: rhondamarie on Flickr)"
 +++
+Showroom view from the early 80s. (PC: rhondamarie on Flickr)

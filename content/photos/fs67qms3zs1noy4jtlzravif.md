@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Prototype CEC Baby Lion Plush (2016)"]
 startDate = ""
-description = "Shirt Front"
 +++
+Shirt Front

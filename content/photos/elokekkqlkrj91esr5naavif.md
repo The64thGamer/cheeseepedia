@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E.'s House"]
 startDate = ""
-description = "10'6' design plan"
 +++
+10'6' design plan

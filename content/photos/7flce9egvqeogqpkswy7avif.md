@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)","Winchester PTT Show"]
 startDate = ""
-description = "Chuck E. Cheese with Scott Wilson, former voice of the character."
 +++
+Chuck E. Cheese with Scott Wilson, former voice of the character.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Celebration Station"]
 pages = ["Pineville, NC (10400 Cadillac St)"]
 startDate = ""
-description = "Cake Cooler on Jethro's Stage (April 18th, 2019)"
 +++
+Cake Cooler on Jethro's Stage (April 18th, 2019)

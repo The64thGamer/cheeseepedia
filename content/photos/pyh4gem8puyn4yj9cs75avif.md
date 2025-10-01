@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
-description = "Princess Haley in 2005"
 +++
+Princess Haley in 2005

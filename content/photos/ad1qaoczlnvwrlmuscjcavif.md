@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Around the World (PTT Theme)"]
 startDate = ""
-description = "Floor piece assembly."
 +++
+Floor piece assembly.

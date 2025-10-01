@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["April 2012 Show"]
 startDate = ""
-description = "Chuck E. with The Break Dancing Teddy Bear (Alowicious Dimpleton)"
 +++
+Chuck E. with The Break Dancing Teddy Bear (Alowicious Dimpleton)

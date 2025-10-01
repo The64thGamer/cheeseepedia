@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Family Album"]
 startDate = ""
-description = "The Family Album stage at the Clawson, MI location."
 +++
+The Family Album stage at the Clawson, MI location.

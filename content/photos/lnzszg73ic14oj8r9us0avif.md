@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Brandon, FL (1540 W Brandon Blvd)"]
 startDate = ""
-description = "Exterior, June 14, 2020"
 +++
+Exterior, June 14, 2020

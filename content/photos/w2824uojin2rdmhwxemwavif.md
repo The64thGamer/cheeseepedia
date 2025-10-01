@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Birmingham, AL (500 Old Town Rd)"]
 startDate = ""
-description = "Fatz and Beach Bear next to their tech at Vestavia."
 +++
+Fatz and Beach Bear next to their tech at Vestavia.

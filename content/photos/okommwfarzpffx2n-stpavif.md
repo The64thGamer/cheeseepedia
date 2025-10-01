@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPPCECMonterey's Group Medical Plan Pamphlet (July 1990)"]
 startDate = ""
-description = "Front Cover"
 +++
+Front Cover

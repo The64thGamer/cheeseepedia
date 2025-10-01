@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Cyberamics Portrait / Shelf Stage"]
 startDate = ""
-description = "[[Maple Heights, OH (5376 Northfield Rd)"
 +++
+[[Maple Heights, OH (5376 Northfield Rd)

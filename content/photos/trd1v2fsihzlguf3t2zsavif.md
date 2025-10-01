@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Topeka, KS (1301 SW Gage Blvd)"]
 startDate = ""
-description = "Flyer for the Topeka SPP."
 +++
+Flyer for the Topeka SPP.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Restrooms Sign"]
 startDate = ""
-description = "Although blurry, the sign can be seen directly under the Californian flag."
 +++
+Although blurry, the sign can be seen directly under the Californian flag.

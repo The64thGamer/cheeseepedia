@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Methuen, MA (90 Pleasant Valley Rd)"]
 startDate = ""
-description = "Exterior, April 2024 (PC: dmckill on Instagram)"
 +++
+Exterior, April 2024 (PC: dmckill on Instagram)

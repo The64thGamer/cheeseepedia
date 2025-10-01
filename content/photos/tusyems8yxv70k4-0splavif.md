@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Munch & Jasper in Christmas attire (December 2005) 2005https://archive.org/details/CEC_Colerain_Photos/CECcolerain080.JPG/"
 +++
+Munch & Jasper in Christmas attire (December 2005) 2005https://archive.org/details/CEC_Colerain_Photos/CECcolerain080.JPG/

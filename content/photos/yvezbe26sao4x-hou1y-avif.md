@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Springfield, PA (381 Baltimore Pike)"]
 startDate = ""
-description = "Springfield in March 2012, right before closure. (PC: Google Maps)"
 +++
+Springfield in March 2012, right before closure. (PC: Google Maps)

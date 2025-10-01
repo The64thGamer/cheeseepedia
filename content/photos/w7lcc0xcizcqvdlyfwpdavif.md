@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Louisville, KY (2030 S Hurstbourne Pkwy)"]
 startDate = ""
-description = "A newspaper clipping of the Garner Holt animatronic around opening."
 +++
+A newspaper clipping of the Garner Holt animatronic around opening.

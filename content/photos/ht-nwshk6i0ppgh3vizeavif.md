@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Charlotte, NC (5612 Albemarle Rd)"]
 startDate = ""
-description = "The store's current exterior. (PC: CEC Denver)"
 +++
+The store's current exterior. (PC: CEC Denver)

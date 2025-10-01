@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Fatz Geronimo on 2023/09/24"
 +++
+Fatz Geronimo on 2023/09/24

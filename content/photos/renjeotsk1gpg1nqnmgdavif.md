@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Navori System"]
 startDate = ""
-description = "Unboxing of a Meraki MX67 sent to a test store, 2022."
 +++
+Unboxing of a Meraki MX67 sent to a test store, 2022.

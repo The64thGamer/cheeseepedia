@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Jacksonville, FL (9820 Atlantic Blvd)"]
 startDate = ""
-description = "Exterior with the 1988 Remodel (1991)."
 +++
+Exterior with the 1988 Remodel (1991).

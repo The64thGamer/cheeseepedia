@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " Giant unicorn beetle animatronic https://www.newspapers.com/article/the-sheboygan-press-cpi-bugs/141523751/ "
 +++
+ Giant unicorn beetle animatronic https://www.newspapers.com/article/the-sheboygan-press-cpi-bugs/141523751/ 

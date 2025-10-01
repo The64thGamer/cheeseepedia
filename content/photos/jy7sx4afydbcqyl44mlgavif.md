@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Torrance, CA (16920 Prairie Ave)"]
 startDate = ""
-description = "A Street View of the store's Exterior in March 2019 (PC: Google Maps)"
 +++
+A Street View of the store's Exterior in March 2019 (PC: Google Maps)

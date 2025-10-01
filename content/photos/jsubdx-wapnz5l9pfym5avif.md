@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Jaspers shoes (August 10, 2019)"
 +++
+Jaspers shoes (August 10, 2019)

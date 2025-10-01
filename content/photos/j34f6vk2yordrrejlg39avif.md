@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Rocky the Panda (Chuck E Cheese Retrofit)"]
 startDate = ""
-description = "Rocky at Gillian's Wonderland (2018?)"
 +++
+Rocky at Gillian's Wonderland (2018?)

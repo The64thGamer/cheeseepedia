@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Store mid cleanout. Taken from the back emergency exit. (September 24, 2019)"
 +++
+Store mid cleanout. Taken from the back emergency exit. (September 24, 2019)

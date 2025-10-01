@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Streamwood, IL (990 S Barrington Rd)"]
 startDate = ""
-description = "Side of Streamwood exterior."
 +++
+Side of Streamwood exterior.

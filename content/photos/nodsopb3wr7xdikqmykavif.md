@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Naperville, IL (1154 E Ogden Ave)"]
 startDate = ""
-description = "Google Street View of the building in Oct 2022."
 +++
+Google Street View of the building in Oct 2022.

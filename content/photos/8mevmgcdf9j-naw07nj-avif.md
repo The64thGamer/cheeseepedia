@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Smartee's Pizza Brigade"]
 startDate = ""
-description = "Smartee's Building today on google maps"
 +++
+Smartee's Building today on google maps

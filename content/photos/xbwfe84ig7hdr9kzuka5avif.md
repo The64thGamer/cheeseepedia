@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Showroom during Chuck E.'s Dance Party"
 +++
+Showroom during Chuck E.'s Dance Party

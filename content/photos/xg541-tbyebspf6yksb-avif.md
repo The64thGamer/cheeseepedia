@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Sketch Book"]
 startDate = ""
-description = "2002 'CEC UPGRADE PATCH'"
 +++
+2002 'CEC UPGRADE PATCH'

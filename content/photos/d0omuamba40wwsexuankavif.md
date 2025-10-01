@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Country Fats & Granbags (1984)"
 +++
+Country Fats & Granbags (1984)

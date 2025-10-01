@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
-description = "Antioch reskin in 2005"
 +++
+Antioch reskin in 2005

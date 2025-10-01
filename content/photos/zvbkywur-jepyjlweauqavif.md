@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pico Rivera, CA (6005 Rosemead Blvd)"]
 startDate = ""
-description = "Pasqually PTT Cyberamic in 2024 "
 +++
+Pasqually PTT Cyberamic in 2024 

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Chuck E. Cheese (Animatronic)"]
 startDate = ""
-description = "FoodServiceMarketing, Oct. 1979"
 +++
+FoodServiceMarketing, Oct. 1979

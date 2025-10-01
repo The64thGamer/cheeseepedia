@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Friendly Freddy (Animatronic)"]
 startDate = ""
-description = "Friendly Freddy at the IAAPA (1977)"
 +++
+Friendly Freddy at the IAAPA (1977)

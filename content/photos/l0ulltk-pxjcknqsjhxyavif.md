@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Ealing, England"]
 startDate = ""
-description = "The only reference to the Ealing, England PTT."
 +++
+The only reference to the Ealing, England PTT.

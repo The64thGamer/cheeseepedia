@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Florence, KY (7635 Mall Rd)"]
 startDate = ""
-description = "Florence's Exterior (2022) PC: Joshua"
 +++
+Florence's Exterior (2022) PC: Joshua

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (2445 Fontaine Rd)"]
 startDate = ""
-description = "Exterior as of August 13, 2021"
 +++
+Exterior as of August 13, 2021

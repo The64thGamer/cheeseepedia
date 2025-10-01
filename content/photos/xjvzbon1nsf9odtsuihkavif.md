@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Crusty the Cat V2 (Animatronic)"]
 startDate = ""
-description = "Close up of Crusty, 2020"
 +++
+Close up of Crusty, 2020

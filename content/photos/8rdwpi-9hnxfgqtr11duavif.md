@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Corona, CA (191 N McKinley St)"]
 startDate = ""
-description = "Pasqually (April-July 2007)"
 +++
+Pasqually (April-July 2007)

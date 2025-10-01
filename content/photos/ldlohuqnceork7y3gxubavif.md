@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Smiles Are Priceless with our Fun Cards. (2002)"
 +++
+Smiles Are Priceless with our Fun Cards. (2002)

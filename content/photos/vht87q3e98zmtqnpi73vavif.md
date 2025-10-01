@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Harold Goldbrandsen Business Card (Ver A)"]
 startDate = ""
-description = "Business Card"
 +++
+Business Card

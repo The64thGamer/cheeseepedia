@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Warrington, PA (1661 Easton Rd B-2)"]
 startDate = ""
-description = "Warrington's exterior with the 2005 Remodel."
 +++
+Warrington's exterior with the 2005 Remodel.

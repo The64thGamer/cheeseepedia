@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
-description = "Some damage done to the desk 9/15/2022"
 +++
+Some damage done to the desk 9/15/2022

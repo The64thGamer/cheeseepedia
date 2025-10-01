@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Disney Parks"]
 pages = ["DACS"]
 startDate = ""
-description = "The portable DACS controller being used for Country Bear Jamboree"
 +++
+The portable DACS controller being used for Country Bear Jamboree

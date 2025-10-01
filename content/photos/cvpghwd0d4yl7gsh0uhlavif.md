@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Pizza Training Document"]
 startDate = ""
-description = "Mixing & Bunning (1)"
 +++
+Mixing & Bunning (1)

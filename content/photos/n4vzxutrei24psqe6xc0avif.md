@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The former Classic Stage at [[Lynchburg, VA (312 Border St)]]. (Now removed, now closed)"
 +++
+The former Classic Stage at [[Lynchburg, VA (312 Border St)]]. (Now removed, now closed)

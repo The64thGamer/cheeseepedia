@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Jasper T. Jowls Name Sign (1977)"]
 startDate = ""
-description = "In the '4 Corners' news broadcast."
 +++
+In the '4 Corners' news broadcast.

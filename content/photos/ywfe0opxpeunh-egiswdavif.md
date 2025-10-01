@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Former Salad Bar & Pick Up Tray (October 2023)"
 +++
+Former Salad Bar & Pick Up Tray (October 2023)

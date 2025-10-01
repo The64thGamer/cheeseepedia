@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pizza Phone (Animatronic)"]
 startDate = ""
-description = "Pizza Phone Front"
 +++
+Pizza Phone Front

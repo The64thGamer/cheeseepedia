@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tinley Park, IL (16090 S Harlem Ave)"]
 startDate = ""
-description = "Street View of Tinley Park's Exterior after the 2012 Expansion (August 2018)"
 +++
+Street View of Tinley Park's Exterior after the 2012 Expansion (August 2018)

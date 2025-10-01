@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Roanoke, VA (4059 Electric Rd)"]
 startDate = ""
-description = "An aerial view of the store on January 19, 2006"
 +++
+An aerial view of the store on January 19, 2006

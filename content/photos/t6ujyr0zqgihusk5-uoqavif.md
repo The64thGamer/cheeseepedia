@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Towson, MD (809 Goucher Blvd)"]
 startDate = ""
-description = "Exterior 2005"
 +++
+Exterior 2005

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Painted remains of the Rock Afire (October 2023)"
 +++
+Painted remains of the Rock Afire (October 2023)

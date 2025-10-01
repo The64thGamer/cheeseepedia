@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Crusty Name Sign (1977)"]
 startDate = ""
-description = "Notice the lack of nameplate."
 +++
+Notice the lack of nameplate.

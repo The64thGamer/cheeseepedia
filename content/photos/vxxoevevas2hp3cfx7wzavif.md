@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Mortimer & Pierre Le Bear (2003)"
 +++
+Mortimer & Pierre Le Bear (2003)

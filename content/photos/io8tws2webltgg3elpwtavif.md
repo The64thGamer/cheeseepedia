@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (6760 Antoine Dr)"]
 startDate = ""
-description = "Right side of the showroom."
 +++
+Right side of the showroom.

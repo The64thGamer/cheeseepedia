@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tuscaloosa, AL (1375 McFarland Blvd)"]
 startDate = ""
-description = "Exterior before being destroyed by a tornado"
 +++
+Exterior before being destroyed by a tornado

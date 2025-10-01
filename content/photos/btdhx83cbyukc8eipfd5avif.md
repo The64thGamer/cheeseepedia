@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
-description = "The Moonrockers"
 +++
+The Moonrockers

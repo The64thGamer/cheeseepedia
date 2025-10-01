@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Dublin, OH (2711 Martin Road)"]
 startDate = ""
-description = "Dublin before the 2005 remodel in June 2011. (PC: Google Maps)"
 +++
+Dublin before the 2005 remodel in June 2011. (PC: Google Maps)

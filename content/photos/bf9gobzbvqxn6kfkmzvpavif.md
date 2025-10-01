@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Matteson, IL (106 Town Center Rd)"]
 startDate = ""
-description = "Matteson's 3-Stage"
 +++
+Matteson's 3-Stage

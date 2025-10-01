@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Jasper T. Jowls (Cyberamic)"]
 startDate = ""
-description = "1987 Jul Kamen outfit"
 +++
+1987 Jul Kamen outfit

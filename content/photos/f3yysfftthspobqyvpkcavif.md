@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Clown (Animatronic)"]
 startDate = ""
-description = "IAAPA Trade Show, 1984"
 +++
+IAAPA Trade Show, 1984

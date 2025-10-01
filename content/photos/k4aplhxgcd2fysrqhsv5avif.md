@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Tokens for The Circus and Gigglebee's"
 +++
+Tokens for The Circus and Gigglebee's

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["CEI 4-Track Reel"]
 startDate = ""
-description = "Reel w/ Label"
 +++
+Reel w/ Label

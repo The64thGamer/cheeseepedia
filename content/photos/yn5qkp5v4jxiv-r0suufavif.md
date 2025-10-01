@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Smile America Spell Chuck E Cheese"]
 startDate = ""
-description = "Sweepstakes Advertisement, Hawaii"
 +++
+Sweepstakes Advertisement, Hawaii

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Outline of Pasquallys platform (October 2023)"
 +++
+Outline of Pasquallys platform (October 2023)

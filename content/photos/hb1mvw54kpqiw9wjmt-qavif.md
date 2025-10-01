@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Rock-afire Explosion Documentary Blu-Ray"]
 startDate = ""
-description = "Slip Cover Backside"
 +++
+Slip Cover Backside

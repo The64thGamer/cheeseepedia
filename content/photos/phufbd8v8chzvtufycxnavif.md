@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Darien, IL (7409 Cass Ave)"]
 startDate = ""
-description = "A Fan in the Early 80's Dressed as Mitzi"
 +++
+A Fan in the Early 80's Dressed as Mitzi

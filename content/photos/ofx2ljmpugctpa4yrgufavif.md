@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Outline of Pizzacams mech in the carpet (October 2023)"
 +++
+Outline of Pizzacams mech in the carpet (October 2023)

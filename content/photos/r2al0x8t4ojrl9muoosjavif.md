@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Santa Ana, CA"]
 startDate = ""
-description = "Santa Ana Branded Token, 1979"
 +++
+Santa Ana Branded Token, 1979

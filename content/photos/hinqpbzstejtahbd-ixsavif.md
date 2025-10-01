@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Mr Munch"]
 startDate = ""
-description = "alt="
 +++
+alt=

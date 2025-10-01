@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Foxy Colleen Name Sign (1978)"]
 startDate = ""
-description = "Under Foxy Colleen."
 +++
+Under Foxy Colleen.

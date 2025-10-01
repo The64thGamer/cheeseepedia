@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["1998 Chuck E. Pop Art (Quad)"]
 startDate = ""
-description = "2003 Release at the Corpus Christi, TX Location."
 +++
+2003 Release at the Corpus Christi, TX Location.

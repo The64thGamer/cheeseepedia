@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Around the World (PTT Theme)"]
 startDate = ""
-description = "Front assembly of clouds and buildings."
 +++
+Front assembly of clouds and buildings.

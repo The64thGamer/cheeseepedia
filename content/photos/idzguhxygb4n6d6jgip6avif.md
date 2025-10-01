@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Sacramento , CA (7020 Stockton Blvd)"]
 startDate = ""
-description = "Job Posting (November 9th, 1981)"
 +++
+Job Posting (November 9th, 1981)

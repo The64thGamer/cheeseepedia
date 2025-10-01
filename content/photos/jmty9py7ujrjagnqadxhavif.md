@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["April 1999"]
 startDate = ""
-description = "3-Stage SVHS Tape"
 +++
+3-Stage SVHS Tape

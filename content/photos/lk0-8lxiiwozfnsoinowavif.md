@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The '[[Magic Stage Prototype"
 +++
+The '[[Magic Stage Prototype

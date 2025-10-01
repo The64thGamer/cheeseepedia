@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Talking Chuck E."]
 startDate = ""
-description = "Box Back"
 +++
+Box Back

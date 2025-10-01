@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Corona, CA (191 N McKinley St)"]
 startDate = ""
-description = "Helen (April-July 2007)"
 +++
+Helen (April-July 2007)

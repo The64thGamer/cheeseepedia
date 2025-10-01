@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Chuck Walkaround, Helen & Munch (1992-1993)"
 +++
+Chuck Walkaround, Helen & Munch (1992-1993)

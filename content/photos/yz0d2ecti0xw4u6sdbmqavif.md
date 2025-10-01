@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Billings, MT (100 24th St)"]
 startDate = ""
-description = "Stage Right on March 10, 2024. (PC: Con Mag)"
 +++
+Stage Right on March 10, 2024. (PC: Con Mag)

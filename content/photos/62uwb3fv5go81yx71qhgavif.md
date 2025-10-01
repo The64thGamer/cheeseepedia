@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Springfield, OR (3000 Gateway St"]
 startDate = ""
-description = "Exterior in September 2011. (PC: Google Maps)"
 +++
+Exterior in September 2011. (PC: Google Maps)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Confederate Critter Show"]
 startDate = ""
-description = "alt=A blurry full color photo of the entire band."
 +++
+alt=A blurry full color photo of the entire band.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Star Stage"]
 startDate = ""
-description = "Front view of the show"
 +++
+Front view of the show

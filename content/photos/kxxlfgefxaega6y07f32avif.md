@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Princeton, NJ (520 Nassau Park Blvd)"]
 startDate = ""
-description = "September 20, 2022"
 +++
+September 20, 2022

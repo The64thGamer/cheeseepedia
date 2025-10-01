@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's Moonshine & Rocks"]
 startDate = ""
-description = "Rolfe's Rainbow seen in the top left and bottom right photo."
 +++
+Rolfe's Rainbow seen in the top left and bottom right photo.

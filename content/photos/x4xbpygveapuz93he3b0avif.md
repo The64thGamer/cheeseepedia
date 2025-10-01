@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Joliet, IL (1965 W Jefferson St)"]
 startDate = ""
-description = "The exteior before becoming SPP in 1965. (PC: Vintage Aerial)"
 +++
+The exteior before becoming SPP in 1965. (PC: Vintage Aerial)

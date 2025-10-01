@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chico, CA (966 East Ave)"]
 startDate = ""
-description = "The King at Chico"
 +++
+The King at Chico

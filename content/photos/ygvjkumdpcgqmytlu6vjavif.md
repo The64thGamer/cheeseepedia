@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Beagles III"]
 startDate = ""
-description = "Reel Case"
 +++
+Reel Case

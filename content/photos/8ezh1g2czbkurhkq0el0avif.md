@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "Durham's 1-Stage with in 2015"
 +++
+Durham's 1-Stage with in 2015

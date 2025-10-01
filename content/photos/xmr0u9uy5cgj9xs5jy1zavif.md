@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Crazy Colander Head Night (Event)"]
 startDate = ""
-description = "A ShowBiz employee wearing a decorated colander."
 +++
+A ShowBiz employee wearing a decorated colander.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Kooser Helen Henny Name Sign (1978)"]
 startDate = ""
-description = "Seen in the 1978 Kooser Opening Promotional Brochure, published on 12/4/78, closeup."
 +++
+Seen in the 1978 Kooser Opening Promotional Brochure, published on 12/4/78, closeup.

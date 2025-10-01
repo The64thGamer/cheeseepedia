@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
-description = "Chief Engineer at Fresno Fair (October 15, 1976)"
 +++
+Chief Engineer at Fresno Fair (October 15, 1976)

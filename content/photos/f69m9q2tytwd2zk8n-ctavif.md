@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Rapid City offering free tokens for good report cards"
 +++
+Rapid City offering free tokens for good report cards

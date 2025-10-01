@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Pizza Time Theatre Named Bike Tag (1979)"]
 startDate = ""
-description = "'Liz' Variant"
 +++
+'Liz' Variant

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Sally Unlimited Corporate Office"]
 startDate = ""
-description = "Office Exterior (November 2018)"
 +++
+Office Exterior (November 2018)

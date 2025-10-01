@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
-description = "Low quality picture of Fayetteville in 2007"
 +++
+Low quality picture of Fayetteville in 2007

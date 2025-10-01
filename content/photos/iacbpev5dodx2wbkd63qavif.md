@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["1993 Cheese Z Top (CD Award)"]
 startDate = ""
-description = "Scan of the art piece"
 +++
+Scan of the art piece

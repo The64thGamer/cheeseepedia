@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Cyberamics Portrait / Shelf Stage"]
 startDate = ""
-description = "The Portrait Stage on [[Citrus Heights, CA (7614 Greenback Lane)]] ?"
 +++
+The Portrait Stage on [[Citrus Heights, CA (7614 Greenback Lane)]] ?

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["CEC Make Magic Sign"]
 startDate = ""
-description = "Swapped Color Design"
 +++
+Swapped Color Design

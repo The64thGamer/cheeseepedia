@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The former Classic Stage at [[Houston, TX (2220 FM 1960)]]. (Converted between 1991 and 1992, now removed)"
 +++
+The former Classic Stage at [[Houston, TX (2220 FM 1960)]]. (Converted between 1991 and 1992, now removed)

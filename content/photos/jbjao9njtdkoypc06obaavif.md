@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Boom Boom Bosco (2023)"
 +++
+Boom Boom Bosco (2023)

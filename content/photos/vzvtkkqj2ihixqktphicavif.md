@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Ventura, CA (4714 Telephone Rd)"]
 startDate = ""
-description = "Exterior, February 2023"
 +++
+Exterior, February 2023

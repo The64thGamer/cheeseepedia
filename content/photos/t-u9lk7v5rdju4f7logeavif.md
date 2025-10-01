@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"]
 startDate = ""
-description = "Flags over the showroom walls (May 2007)"
 +++
+Flags over the showroom walls (May 2007)

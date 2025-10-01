@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Portland, OR (9120 SE Powell Blvd)"]
 startDate = ""
-description = "Portland, OR's exterior before closing"
 +++
+Portland, OR's exterior before closing

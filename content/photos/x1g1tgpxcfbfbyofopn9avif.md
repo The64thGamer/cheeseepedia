@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's RAE Sign (RAE Sign Retrofit)"]
 startDate = ""
-description = "How the RAE Sign looked from 1995 - 2004"
 +++
+How the RAE Sign looked from 1995 - 2004

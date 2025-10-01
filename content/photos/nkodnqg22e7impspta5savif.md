@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Liseberg Ap-O-Teket Show"
 +++
+Liseberg Ap-O-Teket Show

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Barboursville, WV (5 Cracker Barrel Dr)"]
 startDate = ""
-description = "The showroom in July 2003"
 +++
+The showroom in July 2003

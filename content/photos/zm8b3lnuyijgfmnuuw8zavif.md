@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Hang in There Howie (Commercial)"]
 startDate = ""
-description = "Hang in There Howie Commercial"
 +++
+Hang in There Howie Commercial

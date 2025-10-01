@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pizza Make / Oven Cut (Spanish)"]
 startDate = ""
-description = "VHS Front Label"
 +++
+VHS Front Label

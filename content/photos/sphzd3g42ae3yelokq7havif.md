@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Crazy Colander Head Night (Event)"]
 startDate = ""
-description = "Colander Night Poster"
 +++
+Colander Night Poster

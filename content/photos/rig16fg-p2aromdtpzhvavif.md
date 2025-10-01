@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E Cheese Proof of Concept Prototype (Animatronic)"]
 startDate = ""
-description = "The Prototype at CheeseVention 9 in 2012."
 +++
+The Prototype at CheeseVention 9 in 2012.

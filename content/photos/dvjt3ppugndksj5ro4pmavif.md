@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["December 2009 Show"]
 startDate = ""
-description = "3-Stage DVD (Alternate Design?)"
 +++
+3-Stage DVD (Alternate Design?)

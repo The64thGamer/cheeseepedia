@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Bumper Cars at Track Stars"
 +++
+Bumper Cars at Track Stars

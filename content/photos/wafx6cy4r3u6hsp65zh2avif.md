@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Wolfman Show"]
 startDate = ""
-description = "Jacksonville Plans, Construction Notes (March 28, 1980)"
 +++
+Jacksonville Plans, Construction Notes (March 28, 1980)

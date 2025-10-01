@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (1371 Kooser Rd)"]
 startDate = ""
-description = "Colored alternative take seen at the Irving, Texas corporate office. (1978)"
 +++
+Colored alternative take seen at the Irving, Texas corporate office. (1978)

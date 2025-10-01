@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Chuck E. Cheese (Animatronic)"]
 startDate = ""
-description = "The Bot in The 'Real People' Segment, 1979"
 +++
+The Bot in The 'Real People' Segment, 1979

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Kooser Helen Henny Name Sign (1978)"]
 startDate = ""
-description = "Ditto, although seen in the RePlay Magazine February 1979 Issue, page 19."
 +++
+Ditto, although seen in the RePlay Magazine February 1979 Issue, page 19.

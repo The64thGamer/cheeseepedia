@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cincinnati, OH (9712 Colerain Ave)"]
 startDate = ""
-description = "The former location in November 2022."
 +++
+The former location in November 2022.

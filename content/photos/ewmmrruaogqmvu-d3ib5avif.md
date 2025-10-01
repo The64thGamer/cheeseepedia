@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, AR (1330 N College Ave)"]
 startDate = ""
-description = "Exterior before closure. (2009)"
 +++
+Exterior before closure. (2009)

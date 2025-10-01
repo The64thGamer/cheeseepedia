@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Creative Engineering Workshop"]
 startDate = ""
-description = "Aerial View (May 8, 2021)"
 +++
+Aerial View (May 8, 2021)

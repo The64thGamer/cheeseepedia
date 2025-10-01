@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
-description = "Characters from Mother Goose Review (February 14, 1974)"
 +++
+Characters from Mother Goose Review (February 14, 1974)

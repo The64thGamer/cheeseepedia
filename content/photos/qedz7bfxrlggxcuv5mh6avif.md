@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Friend Bear at Dorney Park (1988)"
 +++
+Friend Bear at Dorney Park (1988)

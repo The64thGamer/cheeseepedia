@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Tacoma, WA (4911 Tacoma Mall Blvd)"]
 startDate = ""
-description = "Tacoma Chuck E. Statue that spun on circles."
 +++
+Tacoma Chuck E. Statue that spun on circles.

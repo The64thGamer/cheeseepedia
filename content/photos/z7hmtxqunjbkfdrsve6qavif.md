@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Donna Gentry costuming the Dunia Cheer Bear figure at Sally (1986)"
 +++
+Donna Gentry costuming the Dunia Cheer Bear figure at Sally (1986)

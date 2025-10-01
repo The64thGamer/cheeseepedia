@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["New Orleans, LA (3701 General DeGaulle Dr)"]
 startDate = ""
-description = "Exterior, March 2023"
 +++
+Exterior, March 2023

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Edison, NJ (1120 Route 1)"]
 startDate = ""
-description = "Another photo of its exterior with the 1995 remodel (PC: LoopNet)"
 +++
+Another photo of its exterior with the 1995 remodel (PC: LoopNet)

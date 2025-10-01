@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Standard: Animatronic Show Page"]
 startDate = ""
-description = "Image 3 (Date)"
 +++
+Image 3 (Date)

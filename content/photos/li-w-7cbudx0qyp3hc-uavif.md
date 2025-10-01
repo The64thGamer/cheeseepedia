@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser PTT Show"]
 startDate = ""
-description = "The Show's Portrait Stage in Kooser's Showroom, 1978"
 +++
+The Show's Portrait Stage in Kooser's Showroom, 1978

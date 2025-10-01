@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Colander Head Club Membership Card (1983)"]
 startDate = ""
-description = "Card Photo"
 +++
+Card Photo

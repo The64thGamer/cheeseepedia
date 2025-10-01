@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["West Long Branch, NJ (310 NJ-36)"]
 startDate = ""
-description = "West Long Branch's Exterior in the 2010's. (PC: Yelp)"
 +++
+West Long Branch's Exterior in the 2010's. (PC: Yelp)

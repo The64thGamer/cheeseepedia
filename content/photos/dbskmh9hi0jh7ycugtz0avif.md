@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Willie Rabbit (Animatronic)"]
 startDate = ""
-description = "Willie in a Kiosk at the Orlando airport, Unknown year."
 +++
+Willie in a Kiosk at the Orlando airport, Unknown year.

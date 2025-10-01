@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Florence, KY (7635 Mall Rd)"]
 startDate = ""
-description = "Florence Grand Re-Opening Brochure "
 +++
+Florence Grand Re-Opening Brochure 

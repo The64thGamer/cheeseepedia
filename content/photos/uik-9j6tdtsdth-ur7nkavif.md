@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Chet Faddikins (CEI, 1978)"
 +++
+Chet Faddikins (CEI, 1978)

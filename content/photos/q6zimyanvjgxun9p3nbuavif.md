@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cheese E. Street"]
 startDate = ""
-description = "An advertisement from the Cheektowaga Easter Egg Hunt"
 +++
+An advertisement from the Cheektowaga Easter Egg Hunt

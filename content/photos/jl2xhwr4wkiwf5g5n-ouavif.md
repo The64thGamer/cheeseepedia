@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Hayward, CA (24039 Hesperian Blvd)"]
 startDate = ""
-description = "Hayward Exterior on 8/14/2022"
 +++
+Hayward Exterior on 8/14/2022

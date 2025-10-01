@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The former Classic Stage at [[Waco, TX (5156 W Waco Dr)]]. (Now removed, now closed)"
 +++
+The former Classic Stage at [[Waco, TX (5156 W Waco Dr)]]. (Now removed, now closed)

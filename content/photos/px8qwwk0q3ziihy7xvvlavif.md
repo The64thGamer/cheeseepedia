@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Billy Bob's Wonderland"]
 startDate = ""
-description = "The original East Barboursville location"
 +++
+The original East Barboursville location

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Huntington Beach, CA (15511 Edwards St)"]
 startDate = ""
-description = "The store's Cabaret Helen Animatronic"
 +++
+The store's Cabaret Helen Animatronic

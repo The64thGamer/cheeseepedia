@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Full Stage shot in (February 3, 2018)"
 +++
+Full Stage shot in (February 3, 2018)

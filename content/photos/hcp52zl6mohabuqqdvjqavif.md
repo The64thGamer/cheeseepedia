@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Roanoke, VA (4059 Electric Rd)"]
 startDate = ""
-description = "Stage Left back in 2011"
 +++
+Stage Left back in 2011

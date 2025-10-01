@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Mentor, OH (7900 Plaza Blvd)"]
 startDate = ""
-description = "Mentor's Chuck E.'s House Facade after the retrofit to Marc's"
 +++
+Mentor's Chuck E.'s House Facade after the retrofit to Marc's

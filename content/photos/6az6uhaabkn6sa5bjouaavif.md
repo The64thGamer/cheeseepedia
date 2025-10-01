@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Disney Parks"]
 pages = ["DACS"]
 startDate = ""
-description = "DACS Central at Magic Kingdom, 1977"
 +++
+DACS Central at Magic Kingdom, 1977

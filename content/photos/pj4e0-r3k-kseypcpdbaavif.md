@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Temporary 'Store Closed' sign (September 22, 2019)"
 +++
+Temporary 'Store Closed' sign (September 22, 2019)

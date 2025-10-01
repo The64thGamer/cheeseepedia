@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
-description = "Chuck E Cheese's 1998 sign in 2009."
 +++
+Chuck E Cheese's 1998 sign in 2009.

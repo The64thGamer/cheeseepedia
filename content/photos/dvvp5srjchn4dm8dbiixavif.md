@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["The 64th Gamer"]
 startDate = ""
-description = "right"
 +++
+right

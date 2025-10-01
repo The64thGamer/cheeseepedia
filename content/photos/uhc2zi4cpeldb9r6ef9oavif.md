@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Pumpkin Festival Warblettes (Warblettes Retrofit)"]
 startDate = ""
-description = "The Pumpkin Festival Warblettes Retrofit."
 +++
+The Pumpkin Festival Warblettes Retrofit.

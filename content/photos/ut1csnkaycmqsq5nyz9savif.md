@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Skokie, IL (7142 Carpenter Rd)"]
 startDate = ""
-description = "Skokie's Road Stage (1990's) (PC: ctatar on Youtube)"
 +++
+Skokie's Road Stage (1990's) (PC: ctatar on Youtube)

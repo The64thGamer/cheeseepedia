@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Sgt. Singer's Pizza Circus"]
 startDate = ""
-description = "The Ape-Ology's at the Sgt. Singer's in Decatur, GA"
 +++
+The Ape-Ology's at the Sgt. Singer's in Decatur, GA

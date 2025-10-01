@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Show 7 2017"]
 startDate = ""
-description = "CEC-Stage DVD Sleeve From Kooser, San Jose Store"
 +++
+CEC-Stage DVD Sleeve From Kooser, San Jose Store

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Nate Welch posing with Wilbur"
 +++
+Nate Welch posing with Wilbur

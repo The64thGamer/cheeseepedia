@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Madam Oink Name Sign (1978)"]
 startDate = ""
-description = "Although barely visible, Madam Oink with her nameplate can be seen to the top right."
 +++
+Although barely visible, Madam Oink with her nameplate can be seen to the top right.

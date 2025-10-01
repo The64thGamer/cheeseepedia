@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Edenlandia Louis Armstrong Monkey (Post-Closure)"
 +++
+Edenlandia Louis Armstrong Monkey (Post-Closure)

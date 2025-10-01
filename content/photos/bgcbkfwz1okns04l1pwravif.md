@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["September 2000 Show"]
 startDate = ""
-description = "Unknown SVHS"
 +++
+Unknown SVHS

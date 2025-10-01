@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Gorilla Pianist, Monkey Band, & Hawaiian Monkey Trio"
 +++
+Hellendoorn Gorilla Pianist, Monkey Band, & Hawaiian Monkey Trio

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Patchogue, NY (121 Sunrise Hwy)"]
 startDate = ""
-description = "Patchogue's Studio C 2023"
 +++
+Patchogue's Studio C 2023

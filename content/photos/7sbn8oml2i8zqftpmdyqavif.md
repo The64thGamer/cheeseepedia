@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Joplin, MO (101 N Range Line Rd)"]
 startDate = ""
-description = "Joplin's Studio C Cappa and Bot"
 +++
+Joplin's Studio C Cappa and Bot

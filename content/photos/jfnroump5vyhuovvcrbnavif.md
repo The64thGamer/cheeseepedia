@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Computer Fun Fair"]
 startDate = ""
-description = "Trademark Filing Logo (1983)"
 +++
+Trademark Filing Logo (1983)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Walker, MI (3108 Alpine Ave NW)"]
 startDate = ""
-description = "Studio C animatronic on stage"
 +++
+Studio C animatronic on stage

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Munch Aired Up (Receiving no signal) (May 4, 2019)"
 +++
+Munch Aired Up (Receiving no signal) (May 4, 2019)

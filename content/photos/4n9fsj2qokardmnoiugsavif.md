@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Edenlandia Gorilla Pianist & Hawaiian Monkey (Post-Closure)"
 +++
+Edenlandia Gorilla Pianist & Hawaiian Monkey (Post-Closure)

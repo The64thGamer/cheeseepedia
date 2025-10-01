@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "A Classic Stage at an unknown Circus Pizza."
 +++
+A Classic Stage at an unknown Circus Pizza.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Cow (Pasqually Retrofit)"]
 startDate = ""
-description = "Another shot of the bot from the side. 2011"
 +++
+Another shot of the bot from the side. 2011

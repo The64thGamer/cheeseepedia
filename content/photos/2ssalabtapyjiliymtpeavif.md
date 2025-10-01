@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Creative Engineering Workshop"]
 startDate = ""
-description = "Exterior, March 2023"
 +++
+Exterior, March 2023

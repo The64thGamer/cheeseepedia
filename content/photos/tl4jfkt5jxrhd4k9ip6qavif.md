@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC Legacy Locations"]
 startDate = ""
-description = "Promotional Photo"
 +++
+Promotional Photo

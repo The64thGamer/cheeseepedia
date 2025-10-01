@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Dolli Dimples II"]
 startDate = ""
-description = "Tape w/ broken quality seal"
 +++
+Tape w/ broken quality seal

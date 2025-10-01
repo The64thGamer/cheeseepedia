@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Conflict Resolution April 2010"]
 startDate = ""
-description = "DVD Picture"
 +++
+DVD Picture

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Laguna Hills, CA (26538-H Moulton Pkwy)"]
 startDate = ""
-description = "Laguna Hill's before the 2.0 Remodel. (PC: Google Maps)"
 +++
+Laguna Hill's before the 2.0 Remodel. (PC: Google Maps)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Beach Bear Diagnostic Tape"]
 startDate = ""
-description = "Showtape (Front)"
 +++
+Showtape (Front)

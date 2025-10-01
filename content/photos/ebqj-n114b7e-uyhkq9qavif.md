@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Pizza Place Equipment Listing Manual"]
 startDate = ""
-description = "'Furniture, Fixtures, and Equipment' Page"
 +++
+'Furniture, Fixtures, and Equipment' Page

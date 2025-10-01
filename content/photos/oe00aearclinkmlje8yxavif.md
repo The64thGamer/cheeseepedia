@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Disney Parks"]
 pages = ["DACS"]
 startDate = ""
-description = "Utilidoor Map (Unknown Year)"
 +++
+Utilidoor Map (Unknown Year)

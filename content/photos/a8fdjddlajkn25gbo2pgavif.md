@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Madison, TN (2070 Gallatin Pike)"]
 startDate = ""
-description = "Madison's [[Chuck E. Live Stage (Dance Floor)"
 +++
+Madison's [[Chuck E. Live Stage (Dance Floor)

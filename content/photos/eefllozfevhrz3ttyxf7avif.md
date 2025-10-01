@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"]
 startDate = ""
-description = "Black and Purple variant"
 +++
+Black and Purple variant

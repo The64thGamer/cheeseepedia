@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Bear Country Jubilee at Americana"
 +++
+Bear Country Jubilee at Americana

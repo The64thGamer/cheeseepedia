@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chicago, IL (1830 W Fullerton Ave)"]
 startDate = ""
-description = "Chuck E. Costume cira 2011"
 +++
+Chuck E. Costume cira 2011

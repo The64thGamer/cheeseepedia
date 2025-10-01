@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Sacramento , CA (7020 Stockton Blvd)"]
 startDate = ""
-description = "Newspaper ad for Halloween masks (October 1979)"
 +++
+Newspaper ad for Halloween masks (October 1979)

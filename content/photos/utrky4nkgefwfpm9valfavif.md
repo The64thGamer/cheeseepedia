@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Taken from near the entrance showing off the games taken apart and 'Deidentified' (September 24, 2019)"
 +++
+Taken from near the entrance showing off the games taken apart and 'Deidentified' (September 24, 2019)

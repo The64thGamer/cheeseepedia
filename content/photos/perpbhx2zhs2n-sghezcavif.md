@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Louisville, KY (5743 Preston Hwy)"]
 startDate = ""
-description = "Drinks & Salad Bar (1990s)"
 +++
+Drinks & Salad Bar (1990s)

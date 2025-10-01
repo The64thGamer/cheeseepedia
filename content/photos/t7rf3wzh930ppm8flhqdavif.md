@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cheese E. Street"]
 startDate = ""
-description = "A photo of Kip Atchley and a model of Cheese E. Street"
 +++
+A photo of Kip Atchley and a model of Cheese E. Street

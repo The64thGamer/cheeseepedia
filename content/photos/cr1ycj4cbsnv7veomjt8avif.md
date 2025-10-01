@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Mitzi 1984https://www.instagram.com/p/BnRq6nIH0AL/"
 +++
+Mitzi 1984https://www.instagram.com/p/BnRq6nIH0AL/

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Image of the Dumpster with the star from the 3-Stage."
 +++
+Image of the Dumpster with the star from the 3-Stage.

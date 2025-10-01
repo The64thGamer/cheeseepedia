@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Employee Red Chuck Name Tag - Engraved (90's)"]
 startDate = ""
-description = "'Jessica' Name Tag"
 +++
+'Jessica' Name Tag

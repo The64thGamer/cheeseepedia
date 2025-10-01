@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Wolfman Zapp (Cyberamic)"]
 startDate = ""
-description = "At [[Pizza Time Theatre Sunnyvale, CA Corporate Office"
 +++
+At [[Pizza Time Theatre Sunnyvale, CA Corporate Office

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "Chuck E. in a tuxedo walkaround with a Cool Chuck hat"
 +++
+Chuck E. in a tuxedo walkaround with a Cool Chuck hat

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Topeka, KS (1301 SW Gage Blvd)"]
 startDate = ""
-description = "Exterior (October 2012)"
 +++
+Exterior (October 2012)

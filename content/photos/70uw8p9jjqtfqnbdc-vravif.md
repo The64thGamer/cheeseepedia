@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear-A-Dice Stage"]
 startDate = ""
-description = "Mitzi Mozzarella"
 +++
+Mitzi Mozzarella

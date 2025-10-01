@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Talking Chuck E."]
 startDate = ""
-description = "Left Back Panel"
 +++
+Left Back Panel

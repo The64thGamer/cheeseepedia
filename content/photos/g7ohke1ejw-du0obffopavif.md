@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Mr. Munch Olympics Glass (1980)"]
 startDate = ""
-description = "Mr Munch Olympics Glass *Back*"
 +++
+Mr Munch Olympics Glass *Back*

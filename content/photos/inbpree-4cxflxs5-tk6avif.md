@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Installation Manual"]
 startDate = ""
-description = "Page One"
 +++
+Page One

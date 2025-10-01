@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Ticket Blaster"]
 startDate = ""
-description = "Rockstar Ticket Blaster advertisment"
 +++
+Rockstar Ticket Blaster advertisment

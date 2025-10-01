@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["El Paso, TX (710 Sunland Park Dr)"]
 startDate = ""
-description = "El Paso's current exterior as of May 2024"
 +++
+El Paso's current exterior as of May 2024

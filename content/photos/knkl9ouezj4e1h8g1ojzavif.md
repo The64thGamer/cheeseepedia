@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC 2000's Remodel Program"]
 startDate = ""
-description = "1st Cool Chuck Logo (October 2003 - 2004)"
 +++
+1st Cool Chuck Logo (October 2003 - 2004)

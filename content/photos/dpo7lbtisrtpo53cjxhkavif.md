@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Holiday 2002"]
 startDate = ""
-description = "Studio C DVD Scan"
 +++
+Studio C DVD Scan

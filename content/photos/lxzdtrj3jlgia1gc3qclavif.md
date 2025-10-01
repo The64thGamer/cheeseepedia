@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Valve Bank Card (Rev C)"
 +++
+Valve Bank Card (Rev C)

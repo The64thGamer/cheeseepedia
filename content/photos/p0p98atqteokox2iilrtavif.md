@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
-description = "Avenger Cyber Chuck on a 1-Stage"
 +++
+Avenger Cyber Chuck on a 1-Stage

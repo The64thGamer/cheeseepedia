@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["FileFickle"]
 startDate = ""
-description = "Pure vibes man"
 +++
+Pure vibes man

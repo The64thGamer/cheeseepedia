@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Helen Henny (Lounge)"]
 startDate = ""
-description = "Nolan Bushnell with Helen"
 +++
+Nolan Bushnell with Helen

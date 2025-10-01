@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Dr. Quack (Cyberamic)"]
 startDate = ""
-description = "Alternate Photo"
 +++
+Alternate Photo

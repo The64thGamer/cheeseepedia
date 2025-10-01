@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Untitled Dinosaur Show"]
 startDate = ""
-description = "Protoceratops being inspected by an employee at CPI"
 +++
+Protoceratops being inspected by an employee at CPI

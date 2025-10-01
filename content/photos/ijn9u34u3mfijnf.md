@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (370 S Winchester Blvd)"]
 startDate = "1977-05-12"
-description = "Crusty Ad for Winchester."
 +++
+Crusty Ad for Winchester.

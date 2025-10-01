@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Friendly Freddy (Animatronic)"]
 startDate = ""
-description = "Freddy with Dracula"
 +++
+Freddy with Dracula

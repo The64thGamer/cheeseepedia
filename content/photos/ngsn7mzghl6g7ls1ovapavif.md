@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fresno, CA (5384 N Blackstone Ave)"]
 startDate = ""
-description = "Cabaret (August 29, 1980)"
 +++
+Cabaret (August 29, 1980)

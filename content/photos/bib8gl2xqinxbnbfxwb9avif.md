@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Birthday HostHostess Performance Workbook (1981)"]
 startDate = ""
-description = "Document Cover"
 +++
+Document Cover

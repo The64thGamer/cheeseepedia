@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese CST 15' Plush"]
 startDate = ""
-description = "Plush Back"
 +++
+Plush Back

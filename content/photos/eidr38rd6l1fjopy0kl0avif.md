@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Cyberamics Portrait / Shelf Stage"]
 startDate = ""
-description = "Maple Heights, Ohio's Jasper T. Jowls"
 +++
+Maple Heights, Ohio's Jasper T. Jowls

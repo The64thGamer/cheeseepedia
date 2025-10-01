@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["ShowBiz Pizza Place"]
 startDate = ""
-description = "ShowBiz Pizza's logo used from March of 1980 to 1986. A modified version of the Pizza Show Biz Logo"
 +++
+ShowBiz Pizza's logo used from March of 1980 to 1986. A modified version of the Pizza Show Biz Logo

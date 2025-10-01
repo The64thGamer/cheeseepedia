@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Rolfe DeWolfe on 2023/09/24"
 +++
+Rolfe DeWolfe on 2023/09/24

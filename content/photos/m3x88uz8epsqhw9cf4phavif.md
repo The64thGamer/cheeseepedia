@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["3 Birthday Shows - Colander History - Indoctrination Skit"]
 startDate = ""
-description = "Unused 'We Want You' art."
 +++
+Unused 'We Want You' art.

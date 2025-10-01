@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Rick Rat at the Consumer Division's construction announcement (June 1976)http://allincolorforaquarter.blogspot.com/2013/12/chasing-down-rabbit-trails-fun-and-food.html"
 +++
+Rick Rat at the Consumer Division's construction announcement (June 1976)http://allincolorforaquarter.blogspot.com/2013/12/chasing-down-rabbit-trails-fun-and-food.html

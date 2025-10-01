@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Clearwater, FL (25921 US Hwy 19)"]
 startDate = ""
-description = "Exterior in 2024."
 +++
+Exterior in 2024.

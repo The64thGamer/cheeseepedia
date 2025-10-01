@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Wichita, KS (3223 N Rock Rd)"]
 startDate = ""
-description = "Helen, Munch, Jasper, & Pasqually (December 2011)"
 +++
+Helen, Munch, Jasper, & Pasqually (December 2011)

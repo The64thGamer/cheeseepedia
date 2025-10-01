@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["San Antonio, TX (11735 Bandera Rd)"]
 startDate = ""
-description = "Animatronic in 2009."
 +++
+Animatronic in 2009.

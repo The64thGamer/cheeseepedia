@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "A prototype for the refined Funshine Bear (1987)"
 +++
+A prototype for the refined Funshine Bear (1987)

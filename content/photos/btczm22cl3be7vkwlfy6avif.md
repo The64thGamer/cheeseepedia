@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Kansas City, MO (2726 NE Vivion Rd)"]
 startDate = ""
-description = "Antioch after closure, June 2008"
 +++
+Antioch after closure, June 2008

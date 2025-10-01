@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["ShowBiz Pizza Program 13"]
 startDate = ""
-description = "Cassette Front"
 +++
+Cassette Front

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)","Winchester PTT Show"]
 startDate = ""
-description = "Chuck E. Cheese on display at the SPT Support Center, 1996"
 +++
+Chuck E. Cheese on display at the SPT Support Center, 1996

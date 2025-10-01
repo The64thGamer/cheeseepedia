@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["2023 Piñata Smashlings CEC Promo Campaign (Event)"]
 startDate = ""
-description = "Helen Henny's Description"
 +++
+Helen Henny's Description

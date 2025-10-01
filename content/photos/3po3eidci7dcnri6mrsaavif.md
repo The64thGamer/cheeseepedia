@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Colerains Exterior (May 3, 2019)"
 +++
+Colerains Exterior (May 3, 2019)

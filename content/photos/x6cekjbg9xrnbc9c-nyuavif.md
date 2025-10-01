@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Paramus, NJ (221 South Dr)"]
 startDate = ""
-description = "Showroom (Unknown Year)"
 +++
+Showroom (Unknown Year)

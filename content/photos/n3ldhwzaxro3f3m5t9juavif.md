@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Dolli Dimples (Animatronic)"]
 startDate = ""
-description = "Dolli at Fantasy Forrest"
 +++
+Dolli at Fantasy Forrest

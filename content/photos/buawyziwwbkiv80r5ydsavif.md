@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Rockin-Bowler"]
 startDate = ""
-description = " Rockin-Bowler"
 +++
+ Rockin-Bowler

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Character Cable Tester"]
 startDate = ""
-description = "The Character Cable Tester"
 +++
+The Character Cable Tester

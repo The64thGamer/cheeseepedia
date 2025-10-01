@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC 2.0 Remodel Program"]
 startDate = ""
-description = "5th 2.0 Exterior Design (With 2004 CEC Letters) (2021 / 2022 - 2023)"
 +++
+5th 2.0 Exterior Design (With 2004 CEC Letters) (2021 / 2022 - 2023)

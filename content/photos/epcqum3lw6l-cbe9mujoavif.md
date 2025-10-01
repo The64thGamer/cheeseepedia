@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Mini Billy Bob (Animatronic)"]
 startDate = ""
-description = "Simple stage with light up Billy Bob logo"
 +++
+Simple stage with light up Billy Bob logo

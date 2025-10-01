@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Creative Engineering Workshop"]
 startDate = ""
-description = "Building Exterior, Front (2022)"
 +++
+Building Exterior, Front (2022)

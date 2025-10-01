@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Stage"]
 startDate = ""
-description = "Prop Characters ([[CU Flower (Animatronic)"
 +++
+Prop Characters ([[CU Flower (Animatronic)

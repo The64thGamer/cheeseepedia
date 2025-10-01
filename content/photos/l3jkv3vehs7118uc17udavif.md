@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Attleboro, MA (287 Washington St)"]
 startDate = ""
-description = "Attleboro's 1-Stage back when it had lift curtains. (PC: Russ Glasson on Flickr) (4/12/2008)."
 +++
+Attleboro's 1-Stage back when it had lift curtains. (PC: Russ Glasson on Flickr) (4/12/2008).

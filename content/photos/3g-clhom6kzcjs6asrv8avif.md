@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Pizza Time Theatre 'Bite Me!' Shirt"]
 startDate = ""
-description = "Logo Closeup on Back Side"
 +++
+Logo Closeup on Back Side

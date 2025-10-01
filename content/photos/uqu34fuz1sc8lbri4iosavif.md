@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (2220 FM 1960)"]
 startDate = ""
-description = "A blurry old photo of the store's exterior with the 1995 Remodel in 2008 (PC: Google Maps Streetview)"
 +++
+A blurry old photo of the store's exterior with the 1995 Remodel in 2008 (PC: Google Maps Streetview)

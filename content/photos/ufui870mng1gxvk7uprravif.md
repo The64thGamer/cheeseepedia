@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["'For a free show... push this button and watch me go!' (PTT Signage)"]
 startDate = ""
-description = "Worthpoint listing"
 +++
+Worthpoint listing

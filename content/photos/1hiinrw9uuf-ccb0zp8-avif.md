@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Sketch Book"]
 startDate = ""
-description = "Photo displayed before printing"
 +++
+Photo displayed before printing

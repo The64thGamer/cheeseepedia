@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
-description = "Under Jaspers Trapdoor (October 2023)"
 +++
+Under Jaspers Trapdoor (October 2023)

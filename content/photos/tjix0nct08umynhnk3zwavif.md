@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Melrose Park, IL (1315 W North Ave)"]
 startDate = ""
-description = "alt=Right Side Of The Exterior"
 +++
+alt=Right Side Of The Exterior

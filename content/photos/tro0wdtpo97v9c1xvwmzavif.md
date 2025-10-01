@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Manchester, NH (1525 S Willow St)"]
 startDate = ""
-description = "Exterior with 2005 Remodel in February 2018."
 +++
+Exterior with 2005 Remodel in February 2018.

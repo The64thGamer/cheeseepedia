@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Beach Bear on 2023/09/24"
 +++
+Beach Bear on 2023/09/24

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Prototype Stage"]
 startDate = ""
-description = "The CU Prototype Helen Henny animatronic."
 +++
+The CU Prototype Helen Henny animatronic.

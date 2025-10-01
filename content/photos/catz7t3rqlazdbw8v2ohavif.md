@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Jasper T. Jowls (Cyberamic)"]
 startDate = ""
-description = "Restored mechanical skeleton of Jasper"
 +++
+Restored mechanical skeleton of Jasper

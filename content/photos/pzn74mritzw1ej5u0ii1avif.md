@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPP Installation Team Jacket"]
 startDate = ""
-description = "Jacket Front"
 +++
+Jacket Front

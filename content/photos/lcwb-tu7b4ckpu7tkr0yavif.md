@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Manchester, NH (1525 S Willow St)"]
 startDate = ""
-description = "alt=ManchesterOld"
 +++
+alt=ManchesterOld

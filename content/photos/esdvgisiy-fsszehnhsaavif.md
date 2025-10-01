@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Star Stage"]
 startDate = ""
-description = "The Studio Backdrop"
 +++
+The Studio Backdrop

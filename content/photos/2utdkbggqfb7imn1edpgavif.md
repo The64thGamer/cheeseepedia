@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Family Vision 621"]
 startDate = ""
-description = "Case Back, Tape Front"
 +++
+Case Back, Tape Front

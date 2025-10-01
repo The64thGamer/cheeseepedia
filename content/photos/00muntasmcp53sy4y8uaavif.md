@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Reno, NV (651 E Moana Lane)"]
 startDate = ""
-description = "Location after closing, January 2022"
 +++
+Location after closing, January 2022

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Warwick, RI (650 Bald Hill Rd)"]
 startDate = ""
-description = "Exterior Entrance back in 2017 (PC: Percy B) (6/26/2017)"
 +++
+Exterior Entrance back in 2017 (PC: Percy B) (6/26/2017)

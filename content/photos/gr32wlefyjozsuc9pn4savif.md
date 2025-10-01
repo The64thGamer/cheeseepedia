@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["1-Stage"]
 startDate = ""
-description = "4th 1-Stage Design (With 2-Stage Backdrops) (1993 - Early 2010s)"
 +++
+4th 1-Stage Design (With 2-Stage Backdrops) (1993 - Early 2010s)

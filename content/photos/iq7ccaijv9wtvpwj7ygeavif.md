@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Port Orange, FL (5539 S Williamson Blvd)"]
 startDate = ""
-description = "Store Exterior"
 +++
+Store Exterior

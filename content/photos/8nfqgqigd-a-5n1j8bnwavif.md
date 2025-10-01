@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Sheik Zayed City (Royal Mall), Egypt"]
 startDate = ""
-description = "Exterior, 2024"
 +++
+Exterior, 2024
