@@ -5,7 +5,7 @@
         </div>
         <div class="list-page-video-content">
             <a href="{{- .RelPermalink -}}">
-                {{- . | truncate 150 "..."  -}}
+                {{- .Content | truncate 150 "..."  -}}
             </a>
             <div class="list-page-date">
                 {{- partial "date-to-readable-date" .Params.startDate -}}
