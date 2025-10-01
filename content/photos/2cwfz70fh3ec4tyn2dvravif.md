@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Green Bay, WI (1273 Lombardi Access)"]
 startDate = ""
-description = ""
+
 +++

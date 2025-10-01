@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Cyberamics Road Stage","Mississauga, Ontario, Canada (4141 Dixie Rd)"]
 startDate = ""
-description = ""
+
 +++

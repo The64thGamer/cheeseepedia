@@ -30,7 +30,7 @@ Thanks for wanting to submit an image to the site! Here we'll go over how to do 
       startDate = ""
       draft = false
       pages = []
-      description = ""
+      
       citations = []
       +++
 
@@ -49,5 +49,5 @@ If you're unfamiliar with parameters, go back to the [}}">Editing Parameters](%7
   - Let's use an example for this image here: `pages = ["Cincinnati, OH (8801 Colerain Ave)","Beach Bear (Animatronic)","Dook Larue (Animatronic)","Fatz Geronimo (Animatronic)","Mitzi Mozzarella (Animatronic)","Classic Stage","Rock-afire Explosion","ShowBiz Pizza Place","Creative Engineering"]`
     ![Picture of the Github.Dev.](/photos/gZu6ta9M2FAenUCUvfP6.avif){style="width: 30%; margin: 0.5em"}
     So we're tagging the store, each animatronic, the stage type, the show type, and the companies involved. If you're wondering that means the company pages are going to be filled with 5000 images- galleries will actually be disabled for those as images are irrelevant to those topics, but tagging them is still important for quickly searching for photos!
-- `description = ""` Give a general description of the image and the context, this is an important accessibility option!
+- `` Give a general description of the image and the context, this is an important accessibility option!
 - `citations = []` If your photo comes from a linkable source, note it here.
