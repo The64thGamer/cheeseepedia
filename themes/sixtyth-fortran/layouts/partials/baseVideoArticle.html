@@ -5,7 +5,7 @@
 <div class="article-video">
   {{- partial "video.html" .Params.title -}}
 </div>
-{{- .Params.description -}}
+{{- . -}}
 {{- end -}}
 <h2>Tagged Articles</h2>
 {{- $callerPages := .Params.pages -}}
