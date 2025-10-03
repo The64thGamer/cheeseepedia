@@ -45,7 +45,7 @@ collections:
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
-        required: true
+        required: false
         min: 1
         max: 1000
         field: {label: Source, name: source, widget: string}
@@ -452,7 +452,7 @@ collections:
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
-        required: true
+        required: false
         min: 1
         max: 1000
         field: {label: Source, name: source, widget: string}

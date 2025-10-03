@@ -1,6 +1,6 @@
 +++
 title = " Chuck E. Cheese Halloween Boo-Tacular 2025 Show"
-startDate = "2024-09-29"
+startDate = "2025-09-29"
 endDate = "0000-00-00"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 contributors = ["CyberSnout"]

@@ -5,7 +5,7 @@ startDate = ""
 endDate = ""
 pageThumbnailFile = "uDPkM4zqci5VgKVLaENh.avif"
 contributors = ["Agent smith", "BurgersNuggs445", "The 64th Gamer", "BlackMonkeyEater", "Stripes", "Retrocam", "ShowBizMidwest", "CECMentor", "Caydenpedia", "pizzatimePENGUINS"]
-citations = ["Just changed a typo, specifically correcting \"respectfully\" to \"respectively\" within the context of the sentence. "]
+citations = []
 tags = ["Animatronic Shows"]
 categories = ["Pizza Time Theatre"]
 +++
