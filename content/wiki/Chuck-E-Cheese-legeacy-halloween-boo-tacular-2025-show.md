@@ -5,7 +5,7 @@ endDate = "0000-00-00"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
-showtapeFormats = ["Media Navori"]
+showtapeFormats = ["Legacy Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
