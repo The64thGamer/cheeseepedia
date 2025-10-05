@@ -28,6 +28,8 @@ The {{< wiki-link "Kooser Main Show & Dolli Showtape" >}} is semi-lost showtape,
 ### Pre-SongCode Signals / Software
 A collection of the earliest showtapes were produced on the {{< wiki-link "Winchester Hardware Setup" >}} at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location. While audio from these tapes have surfaced thanks to preservation efforts within Pizza Time Theatre, no trace of the signals or their software have been found. It is unclear how much of the formatting changed from the Winchester setup to the later {{< wiki-link "SongCode" >}} programs that lasted from 1978 to 1990.
 
+(Notably, the earliest SongCode signals recovered so far is a rerelease of the Christmas Medley segment, which first appeared in the {{< wiki-link "Sally 1 / Xmas / USA" >}} showtape in November of 1979.)
+
 ### Showboat
 {{< wiki-link "Showboat" >}} is another lost tape from {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, this time exlusively played during its debut of {{< wiki-link "Cyberamics" >}} in the week of April 21st-27th, 1980. A poster, advertisement, reviews, and a stage photo have been found, yet nothing from the actual tape has surfaced.
 
