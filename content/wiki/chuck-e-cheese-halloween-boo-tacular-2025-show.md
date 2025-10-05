@@ -53,6 +53,7 @@ categories = ["Chuck E. Cheese's"]
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 ## Show List 10/02 Update: 
@@ -97,6 +98,7 @@ categories = ["Chuck E. Cheese's"]
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 ## Show List: 
@@ -141,6 +143,7 @@ categories = ["Chuck E. Cheese's"]
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 ## Trivia:
