@@ -5,7 +5,7 @@ endDate = "0000-00-00"
 pageThumbnailFile = "djmunchbootacular.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
-showtapeFormats = ["Media Navori"]
+showtapeFormats = ["Legacy Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -13,7 +13,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List 10/03 Update: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Paris & Pups Episode 7 - 'Spooky Dress Up for Halloween'
@@ -30,27 +30,27 @@ categories = ["Chuck E. Cheese's"]
       15. Chuck E. Cheese - 'Vampire Crew'
       16. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1 
-      17. Jasper T. Jowls - 'Howl-O-Ween'
+      1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      18. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      19. Off-Road with Chuck E. Episode 1
-      20. KIDZ BOP Kids - 'Little Boo Thang'
-      21. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      22. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      23. Bella B. '¡A Divertirnos!'
-      24. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      25. KIDZ BOP Kids - 'Monster Mash'
-      26. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      27. Chuck E. Cheese - 'If Everyday Was Halloween'
-      28. KIDZ BOP Kids - 'Shivers'
-      29. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      3. Off-Road with Chuck E. Episode 1
+      4. KIDZ BOP Kids - 'Little Boo Thang'
+      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      7. Bella B. '¡A Divertirnos!'
+      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      9. KIDZ BOP Kids - 'Monster Mash'
+      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      11. Chuck E. Cheese - 'If Everyday Was Halloween'
+      12. KIDZ BOP Kids - 'Shivers'
+      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
-      30. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      31. Off-Road with Chuck E. Episode 2
-      32. Chuck E. Cheese - 'Pumpkin Patch'
-      33. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
-      34. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 2
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/03 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
@@ -68,7 +68,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List 10/02 Update: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Paris & Pups Episode 1 - Teamwork To Make Music
@@ -85,27 +85,27 @@ categories = ["Chuck E. Cheese's"]
       15. Chuck E. Cheese - 'Vampire Crew'
       16. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1 
-      17. Jasper T. Jowls - 'Howl-O-Ween'
+      1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      18. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      19. Off-Road with Chuck E. Episode 1
-      20. KIDZ BOP Kids - 'Little Boo Thang'
-      21. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      22. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      23. Bella B. '¡A Divertirnos!'
-      24. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      25. KIDZ BOP Kids - 'Monster Mash'
-      26. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      27. Chuck E. Cheese - 'If Everyday Was Halloween'
-      28. KIDZ BOP Kids - 'Shivers'
-      29. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      3. Off-Road with Chuck E. Episode 1
+      4. KIDZ BOP Kids - 'Little Boo Thang'
+      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      7. Bella B. '¡A Divertirnos!'
+      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      9. KIDZ BOP Kids - 'Monster Mash'
+      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      11. Chuck E. Cheese - 'If Everyday Was Halloween'
+      12. KIDZ BOP Kids - 'Shivers'
+      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
-      30. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      31. Off-Road with Chuck E. Episode 2
-      32. Chuck E. Cheese - 'Pumpkin Patch'
-      33. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
-      34. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 2
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/02 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
@@ -123,7 +123,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Chuck E. Cheese - 'Halloween Night'
@@ -139,27 +139,27 @@ categories = ["Chuck E. Cheese's"]
       14. Chuck E. Cheese - 'Vampire Crew'
       15. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1 
-      17. Jasper T. Jowls - 'Howl-O-Ween'
+      1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      18. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      19. Off-Road with Chuck E. Episode 1
-      20. KIDZ BOP Kids - 'Little Boo Thang'
-      21. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      22. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      23. Bella B. '¡A Divertirnos!'
-      24. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      25. KIDZ BOP Kids - 'Monster Mash'
-      26. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      27. Chuck E. Cheese - 'If Everyday Was Halloween'
-      28. KIDZ BOP Kids - 'Shivers'
-      29. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      3. Off-Road with Chuck E. Episode 1
+      4. KIDZ BOP Kids - 'Little Boo Thang'
+      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      7. Bella B. '¡A Divertirnos!'
+      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      9. KIDZ BOP Kids - 'Monster Mash'
+      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      11. Chuck E. Cheese - 'If Everyday Was Halloween'
+      12. KIDZ BOP Kids - 'Shivers'
+      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
-      30. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      31. Off-Road with Chuck E. Episode 2
-      32. Chuck E. Cheese - 'Pumpkin Patch'
-      33. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
-      34. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 2
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween' (DJ Munch)
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
