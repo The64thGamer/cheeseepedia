@@ -52,7 +52,8 @@ categories = ["Chuck E. Cheese's"]
 ## Lives 10/03 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.'s Haunted House Party (Media Navori)
+3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 
@@ -97,7 +98,8 @@ categories = ["Chuck E. Cheese's"]
 ## Lives 10/02 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.'s Haunted House Party (Media Navori)
+3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 ## Show List: 
@@ -140,7 +142,8 @@ categories = ["Chuck E. Cheese's"]
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.'s Haunted House Party (Media Navori)
+3. Chuck E.'s Bootastic Dance (Media Navori)
+4. Chuck E.'s Haunted House Party (Media Navori)
 
 
 ## Trivia:
