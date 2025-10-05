@@ -30,27 +30,27 @@ categories = ["Chuck E. Cheese's"]
       14. Chuck E. Cheese - 'Vampire Crew'
       15. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1
-      16. Jasper T. Jowls - 'Howl-O-Ween'
+      1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      17. Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-      18. Off-Road with Chuck E. Episode 1
-      19. KIDZ BOP Kids - 'Little Boo Thang'
-      20. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      21. Jasper T. Jowls - 'This Friendship Ain't No Accident'
-      22. Bella B. '¡A Divertirnos!'
-      23. Helen Henny - 'Disco Dancing Dinosaur Party'
-      24. KIDZ BOP Kids - 'Monster Mash'
-      25. Chuck E. Cheese - 'Let's Have A Party'
-      27. Chuck E. Cheese - 'If Everyday Was Halloween'
-      28. KIDZ BOP Kids - 'Shivers'
-      29. Chuck E. Cheese - 'Dancin' Kitten'
+      1. Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
+      2. Off-Road with Chuck E. Episode 1
+      3. KIDZ BOP Kids - 'Little Boo Thang'
+      4. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      5. Jasper T. Jowls - 'This Friendship Ain't No Accident'
+      6. Bella B. '¡A Divertirnos!'
+      7. Helen Henny - 'Disco Dancing Dinosaur Party'
+      8. KIDZ BOP Kids - 'Monster Mash'
+      9. Chuck E. Cheese - 'Let's Have A Party'
+      10. Chuck E. Cheese - 'If Everyday Was Halloween'
+      11. KIDZ BOP Kids - 'Shivers'
+      12. Chuck E. Cheese - 'Dancin' Kitten'
 4. Skit 2
-      30. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      31. Off-Road with Chuck E. Episode 3
-      32. Chuck E. Cheese - 'Pumpkin Patch'
-      33. Chuck E. & Friends - 'Gotta Be Halloween'
-      34. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 3
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween'
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/03 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
@@ -84,28 +84,28 @@ categories = ["Chuck E. Cheese's"]
       14. Chuck E. Cheese - 'Vampire Crew'
       15. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1
-      16. Jasper T. Jowls - 'Howl-O-Ween'
+      1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      17. Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-      18. Off-Road with Chuck E. Episode 1
-      19. KIDZ BOP Kids - 'Little Boo Thang'
-      20. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      21. Jasper T. Jowls - 'This Friendship Ain't No Accident'
-      22. Bella B. '¡A Divertirnos!'
-      23. Helen Henny - 'Disco Dancing Dinosaur Party'
-      24. KIDZ BOP Kids - 'Monster Mash'
-      25. Chuck E. Cheese - 'Let's Have A Party'
-      26. Chuck E. & Friends - 'Because We're Friends' (2025)
-      27. Chuck E. Cheese - 'If Everyday Was Halloween'
-      28. KIDZ BOP Kids - 'Shivers'
-      29. Chuck E. Cheese - 'Dancin' Kitten'
+      1. Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
+      2. Off-Road with Chuck E. Episode 1
+      3. KIDZ BOP Kids - 'Little Boo Thang'
+      4. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      5. Jasper T. Jowls - 'This Friendship Ain't No Accident'
+      6. Bella B. '¡A Divertirnos!'
+      7. Helen Henny - 'Disco Dancing Dinosaur Party'
+      8. KIDZ BOP Kids - 'Monster Mash'
+      9. Chuck E. Cheese - 'Let's Have A Party'
+      10. Chuck E. & Friends - 'Because We're Friends' (2025)
+      11. Chuck E. Cheese - 'If Everyday Was Halloween'
+      12. KIDZ BOP Kids - 'Shivers'
+      13. Chuck E. Cheese - 'Dancin' Kitten'
 4. Skit 2
-      30. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      14. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      31. Off-Road with Chuck E. Episode 3
-      32. Chuck E. Cheese - 'Pumpkin Patch'
-      33. Chuck E. & Friends - 'Gotta Be Halloween'
-      34. KIDZ BOP Kids - 'Ghostbusters'
+      15. Off-Road with Chuck E. Episode 3
+      16. Chuck E. Cheese - 'Pumpkin Patch'
+      17. Chuck E. & Friends - 'Gotta Be Halloween'
+      18. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/02 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
