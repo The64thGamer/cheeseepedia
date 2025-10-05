@@ -53,9 +53,10 @@ categories = ["Chuck E. Cheese's"]
       34. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/03 Update:
-1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
-2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.'s Bootastic Dance (Media Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Chuck E.'s Bootastic Dance (Legacy Navori)
+4. Chuck E.'s Haunted House Party (Legacy Navori)
 
 ## Fireables 10/03 Update:
 1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton' (Legacy Navori)
@@ -107,9 +108,10 @@ categories = ["Chuck E. Cheese's"]
       34. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/02 Update:
-1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
-2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.'s Bootastic Dance (Media Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Chuck E.'s Bootastic Dance (Legacy Navori)
+4. Chuck E.'s Haunted House Party (Legacy Navori)
 
 ## Fireables 10/02 Update:
 1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton' (Legacy Navori)
@@ -163,6 +165,7 @@ categories = ["Chuck E. Cheese's"]
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
 3. Chuck E.'s Bootastic Dance (Legacy Navori)
+4. Chuck E.'s Haunted House Party (Legacy Navori)
 
 ## Fireables:
 1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton' (Legacy Navori)
