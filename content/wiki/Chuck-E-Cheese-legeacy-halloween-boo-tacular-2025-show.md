@@ -100,12 +100,12 @@ categories = ["Chuck E. Cheese's"]
       12. KIDZ BOP Kids - 'Shivers'
       13. Chuck E. Cheese - 'Dancin' Kitten'
 4. Skit 2
-      14. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      15. Off-Road with Chuck E. Episode 3
-      16. Chuck E. Cheese - 'Pumpkin Patch'
-      17. Chuck E. & Friends - 'Gotta Be Halloween'
-      18. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 3
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween'
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives 10/02 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
@@ -154,12 +154,12 @@ categories = ["Chuck E. Cheese's"]
       12. KIDZ BOP Kids - 'Shivers'
       13. Chuck E. Cheese - 'Dancin' Kitten'
 4. Skit 2
-      14. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
+      1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
-      15. Off-Road with Chuck E. Episode 3
-      16. Chuck E. Cheese - 'Pumpkin Patch'
-      17. Chuck E. & Friends - 'Gotta Be Halloween'
-      18. KIDZ BOP Kids - 'Ghostbusters'
+      1. Off-Road with Chuck E. Episode 3
+      2. Chuck E. Cheese - 'Pumpkin Patch'
+      3. Chuck E. & Friends - 'Gotta Be Halloween'
+      4. KIDZ BOP Kids - 'Ghostbusters'
 
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
