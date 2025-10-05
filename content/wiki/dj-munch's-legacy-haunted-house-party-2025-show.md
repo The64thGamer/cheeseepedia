@@ -32,18 +32,18 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 1 
       1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      3. Off-Road with Chuck E. Episode 1
-      4. KIDZ BOP Kids - 'Little Boo Thang'
-      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      7. Bella B. '¡A Divertirnos!'
-      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      9. KIDZ BOP Kids - 'Monster Mash'
-      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      11. Chuck E. Cheese - 'If Everyday Was Halloween'
-      12. KIDZ BOP Kids - 'Shivers'
-      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      1. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      2. Off-Road with Chuck E. Episode 1
+      3. KIDZ BOP Kids - 'Little Boo Thang'
+      4. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      5. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      6. Bella B. '¡A Divertirnos!'
+      7. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      8. KIDZ BOP Kids - 'Monster Mash'
+      9. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      10. Chuck E. Cheese - 'If Everyday Was Halloween'
+      11. KIDZ BOP Kids - 'Shivers'
+      12. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
       1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
@@ -87,18 +87,18 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 1 
       1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      3. Off-Road with Chuck E. Episode 1
-      4. KIDZ BOP Kids - 'Little Boo Thang'
-      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      7. Bella B. '¡A Divertirnos!'
-      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      9. KIDZ BOP Kids - 'Monster Mash'
-      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      11. Chuck E. Cheese - 'If Everyday Was Halloween'
-      12. KIDZ BOP Kids - 'Shivers'
-      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      1. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      2. Off-Road with Chuck E. Episode 1
+      3. KIDZ BOP Kids - 'Little Boo Thang'
+      4. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      5. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      6. Bella B. '¡A Divertirnos!'
+      7. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      8. KIDZ BOP Kids - 'Monster Mash'
+      9. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      10. Chuck E. Cheese - 'If Everyday Was Halloween'
+      11. KIDZ BOP Kids - 'Shivers'
+      12. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
       1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
@@ -141,18 +141,18 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 1 
       1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
-      2. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
-      3. Off-Road with Chuck E. Episode 1
-      4. KIDZ BOP Kids - 'Little Boo Thang'
-      5. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
-      6. Chuck E. & Friends - 'Friendship Never Ends' (2024)
-      7. Bella B. '¡A Divertirnos!'
-      8. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
-      9. KIDZ BOP Kids - 'Monster Mash'
-      10. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
-      11. Chuck E. Cheese - 'If Everyday Was Halloween'
-      12. KIDZ BOP Kids - 'Shivers'
-      13. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
+      1. Chuck E. Cheese - 'Play All You Can Play' (DJ Munch)
+      2. Off-Road with Chuck E. Episode 1
+      3. KIDZ BOP Kids - 'Little Boo Thang'
+      4. Chuck E. & Mr. Munch - 'I Didn't Need To Be Afraid'
+      5. Chuck E. & Friends - 'Friendship Never Ends' (2024)
+      6. Bella B. '¡A Divertirnos!'
+      7. Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch)
+      8. KIDZ BOP Kids - 'Monster Mash'
+      9. Chuck E. Cheese - 'Let's Have A Party' (DJ Munch)
+      10. Chuck E. Cheese - 'If Everyday Was Halloween'
+      11. KIDZ BOP Kids - 'Shivers'
+      12. Chuck E. Cheese - 'Dancin' Kitten' (DJ Munch)
 4. Skit 1 
       1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton'
 5. Intermission 3
