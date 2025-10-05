@@ -14,7 +14,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List 10/03 Update: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Paris & Pups Episode 7 - 'Spooky Dress Up for Halloween'
@@ -68,7 +68,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List 10/02 Update: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Paris & Pups Episode 1 - 'Teamwork To Make Music'
@@ -123,7 +123,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List: 
 1. Intermission 1
-      1. Dippin Dots & Chuck E's Cookie Crunch
+      1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
       4. Chuck E. Cheese - 'Halloween Night'
