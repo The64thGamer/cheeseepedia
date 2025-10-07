@@ -5,7 +5,7 @@
     {{- $sectionData := slice -}}
     {{- $pages := where .Site.RegularPages "Section" "eq" $section -}}
     {{- range $pages -}}
-      {{- $pageData:= dict "00-title" .Title "01-content" .RawContent -}}
+      {{- $pageData:= dict "00-title" .Title "01-content" .Content "02-permalink" .RelPermalink -}}
       {{- $sectionData = $sectionData | append $pageData -}}
     {{- end -}}
     {{- $json := $sectionData | jsonify (dict "noHTMLEscape" true) -}}
