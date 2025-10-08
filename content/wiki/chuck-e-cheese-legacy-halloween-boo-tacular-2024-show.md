@@ -232,6 +232,6 @@ categories = ["Chuck E. Cheese's"]
 9. Helen Henny - ‘Game On’  (Legacy Navori)
 
 ## Trivia: 
-10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
-10/22 Update: Blippi - ‘Halloween Countdown’ is added
-10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024, Halloween Fireables are added, curtain support for Chuck E.’s Bootastic Dance and Chuck E.’s Haunted House Party are added.
+1. 10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
+2. 10/22 Update: Blippi - ‘Halloween Countdown’ is added
+3. 10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024, Halloween Fireables are added, curtain support for Chuck E.’s Bootastic Dance and Chuck E.’s Haunted House Party are added.
