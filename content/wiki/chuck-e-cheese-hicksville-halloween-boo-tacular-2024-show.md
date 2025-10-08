@@ -225,6 +225,6 @@ categories = ["Chuck E. Cheese's"]
 
 
 ## Trivia: 
-10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
-10/22 Update: Blippi - ‘Halloween Countdown’ is added
-10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024
+1. 10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
+2. 10/22 Update: Blippi - ‘Halloween Countdown’ is added
+3. 10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024
