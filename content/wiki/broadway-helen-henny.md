@@ -1,15 +1,15 @@
 +++
-title = "Broadway Helen Henny"
 draft = false
+title = "Broadway Helen Henny"
+startDate = "1983-08-16"
+endDate = "1984-03-00"
+pageThumbnailFile = "zmDwocYUvMtvSPm6vliQ.avif"
+contributors = ["JamesLemony", "2603:6011:1140:BCBC:18A9:99C9:3093:90AB", "The 64th Gamer", "Steven 'CEC' Master"]
+citations = []
+showtapeFormats = ["Cyberamics Reel"]
+alsoKnownAs = ["Broadway Helen", "ASSY# 027-0063-10-0ASKIT TAPE-BROADWAY HELEN HENNYWO# 1901768200 WO QTY:BUILT BY: REB DATE:"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
-startDate = "1983-08-00"
-endDate = "1984-03-00"
-contributors = ["JamesLemony","2603:6011:1140:BCBC:18A9:99C9:3093:90AB","The 64th Gamer","Steven 'CEC' Master"]
-citations = []
-pageThumbnailFile = "zmDwocYUvMtvSPm6vliQ.avif"
-showtapeFormats = ["Cyberamics Reel"]
-alsoKnownAs = ["Broadway Helen","ASSY# 027-0063-10-0ASKIT TAPE-BROADWAY HELEN HENNYWO# 1901768200 WO QTY:BUILT BY: REB DATE:"]
 +++
 ***Broadway Helen Henny* is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Helen Henny.
 This would be the last guest star showtape as Pizza Time Theatre's bankruptcy would occur after release.**
