@@ -9,4 +9,222 @@ showtapeFormats = ["Cyberamics Networking Module Files"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E. Cheese Halloween Boo-Tacular 2024 Show* is a fall show released on September 30, 2024. This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from September 30 2024 - November 3 2024.**
+**Chuck E. Cheese Halloween Boo-Tacular 2024 Show** was the fall show released on September 30, 2024. This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from September 30, 2024, through November 3, 2024. This would play from opening - 6 pm, when it would switch over to ‘DJ Munch's Haunted House Party Show’
+
+## Show List 10/24 Update:
+
+1. **Intermission 1**
+      1. Chuck E. Cheese - ‘Halloween Night’
+      2. Off Road with Chuck E. 2
+      3. Descendants - ‘Red’
+      4. Chuck E. & Mr. Munch - ‘Trick Or Treat’ 2024
+      5. Kidz Bop Kids - ‘This Is Halloween’
+      6. Chuck E. & Helen - ‘Sammy The Skateboarding Skeleton’
+      7. Chuck E. & Friends - ‘Just Like This’
+      8. New Jeans - ‘Right Now’
+      9. Kidz Bop Kids - ‘Disturbia’
+      10. Chuck E. Cheese - ‘Nobody There’
+      11. CEC Sketch - ‘Little Bitty Kitty Cat’
+2. **Skit 1**
+      1. Helen Henny - ‘Witches Crew’
+3. **Intermission 2**
+      1. Chuck E. Cheese & Mr. Munch - ‘I Didn’t Need To Be Afraid’
+4. **Skit 2**
+      1. Chuck E. Cheese - ‘Pumpkin Patch’
+5. **Intermission 3**
+      1. Blippi - ‘Halloween Countdown’’
+      2. Chuck E. & Friends - ‘Ves Al Ratoncito’
+      3. Jasper T. Jowls - ‘Howl-O-Ween’
+      4. Off Road with Chuck E. 6
+      5. Kidz Bop Kids - ‘Ghostbusters’
+      6. Chuck E. Cheese - ‘If Everyday Was Halloween’
+      7. CEC Sketch - ‘Ballerina Ghost’
+      8. Descendants - ‘Perfect Revenge'
+      9. Chuck E. Cheese - ‘Dancin’ Kitten’
+      10. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
+6. **Skit 3**
+      1. Chuck E. & Helen - It’s Gotta Be Halloween 
+7. **Intermission 7**
+      1. Kidz Bop Kids - ‘Monster Mash’
+      2. Chuck E. & Friends - ‘I Love Sparkles’
+      3. CEC Sketch - ‘Vampire Kitten from Outer Space’ 
+      4. Chuck E. & Friends - ‘Pumpkins In My Pockets’
+
+## Lives 10/24 Update: 
+1. Chuck E. Cheese Birthday Extravaganza (CEC Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Legacy Navori)
+3. Me & My Friends (CEC Stage Legacy Navori)
+4. Chuck E.’s Bootastic Dance (CEC Stage Legacy Navori)
+5. Chuck E.’s Haunted House Party (CEC Stage Legacy Navori)
+
+## Fireables 10/24 Update:
+1. Munch’s Make Believe Band - ‘Together We’ve Got It’ 2017 (CEC Stage Legacy Navori)
+2. Munch’s Make Believe Band - ‘Every Boy Every Girl’ 2017 (CEC Stage Legacy Navori)
+3. Munch’s Make Believe Band - ‘It’s the 70s’ (CEC Stage Legacy Navori)
+4. Chuck E. & Friends - ‘Sparkles’ (CEC Stage Legacy Navori) 
+5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori) 
+
+
+
+## Show List 10/22 Update:
+
+1. **Intermission 1**
+      1. Chuck E. Cheese - ‘Halloween Night’
+      2. Off Road with Chuck E. 2
+      3. Descendants - ‘Red’
+      4. Chuck E. & Mr. Munch - ‘Trick Or Treat’
+      5. Kidz Bop Kids - ‘This Is Halloween’
+      6. Chuck E. & Helen - ‘Sammy The Skateboarding Skeleton’
+      7. Chuck E. & Friends - ‘Just Like This’
+      8. New Jeans - ‘Right Now’
+      9. Kidz Bop Kids - ‘Disturbia’
+      10. Chuck E. Cheese - ‘Nobody There’
+      11. CEC Sketch - ‘Little Bitty Kitty Cat’
+2. **Skit 1**
+      1. Helen Henny - ‘Witches Crew’
+3. **Intermission 2**
+      1. Chuck E. Cheese & Mr. Munch - ‘I Didn’t Need To Be Afraid’
+4. **Skit 2**
+      1. Chuck E. Cheese - ‘Pumpkin Patch’
+5. **Intermission 3**
+      1. Blippi - ‘Halloween Countdown’’
+      2. Chuck E. & Friends - ‘Ves Al Ratoncito’
+      3. Jasper T. Jowls - ‘Howl-O-Ween’
+      4. Off Road with Chuck E. 6
+      5. Kidz Bop Kids - ‘Ghostbusters’
+      6. Chuck E. Cheese - ‘If Everyday Was Halloween’
+      7. CEC Sketch - ‘Ballerina Ghost’
+      8. Descendants - ‘Perfect Revenge'
+      9. Chuck E. Cheese - ‘Dancin’ Kitten’
+      10. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
+6. **Skit 3**
+      1. Chuck E. & Helen - It’s Gotta Be Halloween 
+7. **Intermission 7**
+      1. Kidz Bop Kids - ‘Monster Mash’
+      2. Chuck E. & Friends - ‘I Love Sparkles’
+      3. CEC Sketch - ‘Vampire Kitten from Outer Space’ 
+      4. Chuck E. & Friends - ‘Pumpkins In My Pockets’
+
+## Lives 10/22 Update: 
+1. Chuck E. Cheese Birthday Extravaganza (CEC Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Legacy Navori)
+3. Me & My Friends (CEC Stage Legacy Navori)
+4. Chuck E.’s Bootastic Dance (CEC Stage Legacy Navori)
+5. Chuck E.’s Haunted House Party (CEC Stage Legacy Navori)
+
+## Fireables 10/22 Update:
+1. Munch’s Make Believe Band - ‘Together We’ve Got It’ 2017 (CEC Stage Legacy Navori)
+2. Munch’s Make Believe Band - ‘Every Boy Every Girl’ 2017 (CEC Stage Legacy Navori)
+3. Munch’s Make Believe Band - ‘It’s the 70s’ (CEC Stage Legacy Navori)
+4. Chuck E. & Friends - ‘Sparkles’ (CEC Stage Legacy Navori) 
+5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori) 
+
+## Show List 10/14 Update:
+
+1. **Intermission 1**
+      1. Chuck E. Cheese - ‘Halloween Night’
+      2. Off Road with Chuck E. 2
+      3. Descendants - ‘Red’
+      4. Chuck E. & Mr. Munch - ‘Trick Or Treat’
+      5. Kidz Bop Kids - ‘This Is Halloween’
+      6. Chuck E. & Helen - ‘Sammy The Skateboarding Skeleton’
+      7. Chuck E. & Friends - ‘Just Like This’
+      8. New Jeans - ‘Right Now’
+      9. Kidz Bop Kids - ‘Disturbia’
+      10. Chuck E. Cheese - ‘Nobody There’
+      11. CEC Sketch - ‘Little Bitty Kitty Cat’
+2. **Skit 1**
+      1. Helen Henny - ‘Witches Crew’
+3. **Intermission 2**
+      1. Chuck E. Cheese & Mr. Munch - ‘I Didn’t Need To Be Afraid’
+4. **Skit 2**
+      1. Chuck E. Cheese - ‘Pumpkin Patch’
+5. **Intermission 3**
+      1. Chuck E. & Friends - ‘Ves Al Ratoncito’
+      2. Jasper T. Jowls - ‘Howl-O-Ween’
+      3. Off Road with Chuck E. 6
+      4. Kidz Bop Kids - ‘Ghostbusters’
+      5. Chuck E. Cheese - ‘If Everyday Was Halloween’
+      6. CEC Sketch - ‘Ballerina Ghost’
+      7. Descendants - ‘Perfect Revenge'
+      8. Chuck E. Cheese - ‘Dancin’ Kitten’
+      9. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
+6. **Skit 3**
+      1. Chuck E. & Helen - It’s Gotta Be Halloween 
+7. **Intermission 7**
+      1. Kidz Bop Kids - ‘Monster Mash’
+      2. Chuck E. & Friends - ‘I Love Sparkles’
+      3. CEC Sketch - ‘Vampire Kitten from Outer Space’ 
+      4. Chuck E. & Friends - ‘Pumpkins In My Pockets’
+
+## Lives 10/14 Update: 
+1. Chuck E. Cheese Birthday Extravaganza (CEC Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Legacy Navori)
+3. Me & My Friends (CEC Stage Legacy Navori)
+4. Chuck E.’s Bootastic Dance (CEC Stage Legacy Navori)
+5. Chuck E.’s Haunted House Party (CEC Stage Legacy Navori)
+
+## Fireables 10/14 Update:
+1. Munch’s Make Believe Band - ‘Together We’ve Got It’ 2017 (CEC Stage Legacy Navori)
+2. Munch’s Make Believe Band - ‘Every Boy Every Girl’ 2017 (CEC Stage Legacy Navori)
+3. Munch’s Make Believe Band - ‘It’s the 70s’ (CEC Stage Legacy Navori)
+4. Chuck E. & Friends - ‘Sparkles’ (CEC Stage Legacy Navori) 
+5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori) 
+
+
+## Show List: 
+
+1. **Intermission 1**
+      1. Chuck E. Cheese - ‘Halloween Night’
+      2. Off Road with Chuck E. 2
+      3. Descendants - ‘Red’
+      4. Chuck E. & Mr. Munch - ‘Trick Or Treat’
+      5. Kidz Bop Kids - ‘This Is Halloween’
+      6. Chuck E. & Helen - ‘Sammy The Skateboarding Skeleton’
+      7. Chuck E. & Friends - ‘Just Like This’
+      8. New Jeans - ‘Right Now’
+      9. Kidz Bop Kids - ‘Disturbia’
+      10. Chuck E. Cheese - ‘Nobody There’
+      11. CEC Sketch - ‘Little Bitty Kitty Cat’
+2. **Skit 1**
+      1. Helen Henny - ‘Witches Crew’
+3. **Intermission 2**
+      1. Chuck E. Cheese & Mr. Munch - ‘I Didn’t Need To Be Afraid’
+4. **Skit 2**
+      1. Chuck E. Cheese - ‘Pumpkin Patch’
+5. **Intermission 3**
+      1. Chuck E. & Friends - ‘Ves Al Ratoncito’
+      2. Jasper T. Jowls - ‘Howl-O-Ween’
+      3. Off Road with Chuck E. 6
+      4. Kidz Bop Kids - ‘Ghostbusters’
+      5. Chuck E. Cheese - ‘If Everyday Was Halloween’
+      6. CEC Sketch - ‘Ballerina Ghost’
+      7. Descendants - ‘Perfect Revenge'
+      8. Chuck E. Cheese - ‘Dancin’ Kitten’
+      9. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
+6. **Skit 3**
+      1. Chuck E. & Helen - It’s Gotta Be Halloween 
+7. **Intermission 7**
+      1. Kidz Bop Kids - ‘Monster Mash’
+      2. Chuck E. & Friends - ‘I Love Sparkles’ 
+      3. Chuck E. & Friends - ‘Pumpkins In My Pockets’
+
+## Lives: 
+1. Chuck E. Cheese Birthday Extravaganza (CEC Stage Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Legacy Navori)
+3. Me & My Friends (CEC Stage Legacy Navori)
+4. Chuck E.’s Bootastic Dance (CEC Stage Legacy Navori)
+5. Chuck E.’s Haunted House Party (CEC Stage Legacy Navori)
+
+## Fireables:
+1. Munch’s Make Believe Band - ‘Together We’ve Got It’ 2017 (CEC Stage Legacy Navori)
+2. Munch’s Make Believe Band - ‘Every Boy Every Girl’ 2017 (CEC Stage Legacy Navori)
+3. Munch’s Make Believe Band - ‘It’s the 70s’ (CEC Stage Legacy Navori)
+4. Chuck E. & Friends - ‘Sparkles’ (CEC Stage Legacy Navori) 
+5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori) 
+
+
+## Trivia: 
+1. 10/14 Update: CEC Sketch - ‘Vampire Kitten from Outer Space’ is added
+2. 10/22 Update: Blippi - ‘Halloween Countdown’ is added
+3. 10/24 Update: Chuck E. & Mr. Munch - ‘Trick or Treat’ is replaced with ‘Chuck E. & Mr. Munch - ‘Trick or Treat’ 2024
