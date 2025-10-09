@@ -6,11 +6,11 @@ startDate = "1990-10-12"
 endDate = "1994-11-19" 
 pageThumbnailFile = "" 
 contributors = ["CyberSnout"] 
-citations = [“https://www.newspapers.com/article/journal-transcript-bald-hill-plaza-warw/182122607”,”https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4”,”https://www.youtube.com/watch?v=FhwsLzUINyU”,”https://www.youtube.com/watch?v=txV9nM6Jqe8”,”https://www.newspapers.com/article/the-boston-globe-chuck-e-cheese-warwick/103309922/”,”http://mechanicaldisplays.com/clients/talkani/TA01.jpg”,”https://www.youtube.com/watch?v=HhyeH0Tfdtc”,”https://www.facebook.com/marketplace/item/1694667647532361/”,”https://www.facebook.com/share/p/1CjY4zJAq4/”] 
+citations = ["https://www.newspapers.com/article/journal-transcript-bald-hill-plaza-warw/182122607", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4", "https://www.youtube.com/watch?v=FhwsLzUINyU", "https://www.youtube.com/watch?v=txV9nM6Jqe8", "https://www.newspapers.com/article/the-boston-globe-chuck-e-cheese-warwick/103309922/", "http://mechanicaldisplays.com/clients/talkani/TA01.jpg", "https://www.youtube.com/watch?v=HhyeH0Tfdtc", "https://www.facebook.com/marketplace/item/1694667647532361/", "https://www.facebook.com/share/p/1CjY4zJAq4/"] 
 storeNumber = "" 
 sqft = "14,235" 
 attractions = [] 
-animatronics = ["Mr. Munch (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Jasper T. Jowls (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Chuck E. Cheese (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Guest Star / Helen Henny (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Pasqually (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo",”Wink (Cyberamic)|1994-00-00|1994-11-19|N/A|Unknown”] 
+animatronics = ["Mr. Munch (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Jasper T. Jowls (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Chuck E. Cheese (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Guest Star / Helen Henny (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Pasqually (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo","Wink (Cyberamic)|1994-00-00|1994-11-19|N/A|Unknown"] 
 franchisees = [] 
 remodels = ["SPT 1980's Remodel Program|1990-10-12"] 
 stages = ["Chuck E.'s House|1990-10-12|1994-00-00", "1-Stage|1994-00-00|1994-11-19"] 
