@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Legacy Winter 2024 Show"
 startDate = "2024-11-04"
-endDate = "2025-01-01"
+endDate = "2025-01-05"
 pageThumbnailFile = "winter2024.avif"
 contributors = ["CyberSnout"]
 citations = ["CEC Media Player"]
