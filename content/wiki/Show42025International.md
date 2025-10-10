@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Show 4 2025 International"
 startDate = "2025-09-00"
-endDate = " "
+endDate = " 2025-10-00"
 pageThumbnailFile = "show425int.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / Show 4 2025 INT DVD"]
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
