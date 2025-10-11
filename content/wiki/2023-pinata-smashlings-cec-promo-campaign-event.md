@@ -6,15 +6,15 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2023-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","CoolerDude"]
-citations = ["https://youtu.be/LmtqaiAXp4A","https://web.archive.org/web/20231008163927/https://www.roblox.com/events/906209659421687835","https://web.archive.org/web/20231008164040/https://www.roblox.com/events/905919107572629556","https://www.chuckecheese.com/smashlings/","https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/"]
+citations = ["https://youtu.be/LmtqaiAXp4A","https://web.archive.org/web/20231008163927/https://www.roblox.com/events/906209659421687835","https://web.archive.org/web/20231008164040/https://www.roblox.com/events/905919107572629556","https://www.chuckecheese.com/smashlings/","https://www.thelicensingletter.com/panini-to-produce-trading-cards-for-pinata-smashlings/","https://www.roblox.com/games/13743608986/FREE-UGC-Pi-ata-Smashlings","https://venturebeat.com/games/chuck-e-cheese-heads-to-roblox-with-game-partners-toikido-and-supersocial/"]
 pageThumbnailFile = "INkXKIQCeUiYMlDJH_2c.avif"
 +++
-The ***2023 Piñata Smashlings CEC Promo Campaign* (AKA ***Chuck E. Cheese Enters The Piñataverse)* was an in-store and Roblox game event lasting from October 5th - December 31, 2023.{{< cite 1 >}}
-The partnership was between CEC and ***Toikido*, creators of Piñata Smashlings.https://venturebeat.com/games/chuck-e-cheese-heads-to-roblox-with-game-partners-toikido-and-supersocial/******
+The ***2023 Piñata Smashlings CEC Promo Campaign*** (AKA ***Chuck E. Cheese Enters The Piñataverse***) was an in-store and Roblox game event lasting from October 5th - December 31, 2023.{{< cite 1 >}}
+The partnership was between CEC and ***Toikido*, creators of Piñata Smashlings.{{ cite 7 }}
 
 ## Roblox Event
 
-Starting October 7th of 2023, the [Piñata Smashlings Roblox Experience](https://www.roblox.com/games/13743608986/FREE-UGC-Pi-ata-Smashlings) added a new area to its map called 'Chuck E. Cheese's Fun Fair', an outdoor theme-park themed area. Its main function is for users to spin a prize wheel to obtain exclusive CEC items in-game, alongside Roblox UGC items that can be work in any Roblox Experience.<sup>(2)(3)</sup>
+Starting October 7th of 2023, the Piñata Smashlings Roblox Experience added a new area to its map called 'Chuck E. Cheese's Fun Fair', an outdoor theme-park themed area. Its main function is for users to spin a prize wheel to obtain exclusive CEC items in-game, alongside Roblox UGC items that can work in any Roblox Experience.{{< cite 2 >}}{{< cite 3 >}}{{< cite 6 >}}
 
 ### Ticket Earning
 
@@ -50,13 +50,11 @@ UGC items are unlocked at 1pm EST each day of the weekend. The UGC items will us
 - October 22 - [Bella B.'s Flower Hair Clip](https://www.roblox.com/catalog/15037035005/Bella-B-s-Flower-Hair-Clip)
 - October 28 - [Chuck E. Cheese Bee Wings](https://www.roblox.com/catalog/15185733262/Chuck-E-Cheese-Bee-Wings)
 - October 29 - [Chuck E. Cheese Pumpkin Head Accessory](https://www.roblox.com/catalog/15185965081/Chuck-E-Cheese-Pumpkin-Head-Accessory)
-
-Unreleased UGCs:
-
 - [Helen Henny Smashling Companion](https://www.roblox.com/catalog/15037017163/Helen-Henny-Smashling-Companion)
 - [Mr. Munch Smashling Companion](https://www.roblox.com/catalog/15037094234/Mr-Munch-Smashling-Companion)
 - [Pasqually Smashling Companion](https://www.roblox.com/catalog/15037041663/Pasqually-Smashling-Companion)
 - [Chuck E. 's Vampire Cloak](https://www.roblox.com/catalog/15037718015/Chuck-E-s-Vampire-Cloak)
+-(Article needs to be updated to include UGC and info post-October)
 
 ### CEC In-game Smashlings
 
