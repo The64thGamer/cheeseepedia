@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -14,6 +14,14 @@ Welcome to Cheese-E-Pedia! This introduction article will help you get started w
 The ***Lost Media*** of the animatronics community, also referred to as 'data' in it, is vast and full of interesting stories. Here is a list of notable things yet to be found.
 
 ## Pizza Time Theatre
+
+### Chuck E.'s First Announcement / Gospel of St. Pong
+Just before the opening of the first {{< wiki-link "Pizza Time Theatre" <}} location at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, a few months prior in February of 1977, a company-wide announcement made by Chuck E. Cheese would be published urging Atari employees to wait a bit longer for the restaurant to open due to delays with the city of San Jose. This would be the first known instance of anything published by the Pizza Time Theatre team, alongside the first known use of the name 'Chuck E. Cheese', which prior in October of 1976 was 'The Big Cheese' (Though it is likely this name change was done before the end of that year). {{< cite 5 >}}
+
+It is highly likely this announcement was through the Gospel of St. Pong newsletter, as in {{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} later that year, Chuck E. directly talks to the reader about the upcoming Grand Opening Revue. The St. Pong newsletter is almost entirely lost, with only the first 4 pages of the April 1977 issue being found, and a few copies from 1973 being uploaded. It is possible that The Big Cheese had made an appearance in an even earlier newsletter, or additional notes about Pizza Time Theatre were included until PTT made their own paper with 'The Pizza Times' in December 1979.
+
+### Early Winchester/Kooser Documents
+A compilation of early Winchester and Kooser documents were found to be owned by Gene Landrum titled the {{< wiki-link "PTT Basic Ordering Agreement" >}}. Pictures of 9 of the pages were taken in 2020, providing tons of insight into the development of Pizza Time Theatre, but the entire collection (which as currently known goes at least to 35 pages) was never preserved.
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.

@@ -102,12 +102,12 @@ pageThumbnailFile = "AK1gcob301d1C8__YLdA.avif"
 #### October
 
 - On the 4th Warner Communications finishes the purchasing of all Atari stock.{{< cite 16 >}}
-- On the 7th the {{< wiki-link "The Big Cheese Birthday Show Dialogue Recording Session (October 7, 1976)" >}} would take place. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109). This would also be the first mention of the name 'Crusty' for the cat character.
+- On the 7th The Big Cheese Birthday Show Dialogue Recording Session would take place, later turning into the {{< wiki-link "Pizza Time Theatre Showtape" >}}. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109). This would also be the first mention of the name 'Crusty' for the cat character.
 
 #### December
 
 - Sometime in December, Atari would settle for the 5000sqft former bank building at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as their first location, after not being able to find a suitable 6000sqft building.{{< cite 17 >}}
-- On December 22, the first known instance of the name 'Pizza Time Theatre' is used.{{< cite 17 >}} The first remodeling plans for the
+- On December 22, the first known instance of the name 'Pizza Time Theatre' is used.{{< cite 17 >}} The first remodeling plans for the building are written.
 
 ### 1977
 
