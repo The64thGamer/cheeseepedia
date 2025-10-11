@@ -3,8 +3,8 @@ cuDate = ""
 draft = false
 title = "Houston, TX (6760 Antoine Dr)"
 startDate = "1981-07-15"
-endDate = "2006-10-27"
-pageThumbnailFile = "1F8Jpx4ww4kX85qT9qS1.avif"
+endDate = "2006-11-27"
+pageThumbnailFile = "kQTcKc3Llo73MlOcuyhT.avif"
 contributors = ["TheEntireShrekScript"]
 citations = ["https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_advertisement_for_the_houston_tx_antoine/", "https://www.reddit.com/r/chuckecheese/comments/1lkr4nf/flyer_for_a_chuck_e_cheeses_auction_in_houston/", "https://www.youtube.com/watch?v=_ZwSoLsA9tI&t=385s", "https://www.showbizpizza.com/photos/cec/tx_houston/index.html", "https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf", "https://archive.org/details/antoine-auction-paper/mode/2up", "https://www.google.com/maps/place/Inwood+Art+Mural/@29.8623186,-95.4707919,246m/data=!3m1!1e3!4m6!3m5!1s0x8640c8a9b6114a3b:0x8e5b53d6b623829f!8m2!3d29.8624626!4d-95.4703757!16s%2Fg%2F11g6yq59cl?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D"]
 storeNumber = "734"
