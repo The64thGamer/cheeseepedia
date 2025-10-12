@@ -88,7 +88,7 @@ Almost every major employee, corporate leader, and private collector has been co
 
 ## Why are there a lot of blank pages?
 
-This is more thoroughly explained in {{< wiki-link "About Us" >}}, but due to the fandom not having too many outlets to properly document information for the past 20 years, lots and lots of information is just presumed to be known by its members. Cheese-E-Pedia is trying to be the site to correct for this, but we are still many years from getting everything listed with sources. A lot of our sources also come from employee testimony, which can make it difficult to research some subjects. It is recommended to ask the community for anything you don't understand. It is garunteed that multiple people will be able to help you and point you in the right direction.
+This is more thoroughly explained in {{< wiki-link "Cheese-E-Pedia" >}}, but due to the fandom not having too many outlets to properly document information for the past 20 years, lots and lots of information is just presumed to be known by its members. Cheese-E-Pedia is trying to be the site to correct for this, but we are still many years from getting everything listed with sources. A lot of our sources also come from employee testimony, which can make it difficult to research some subjects. It is recommended to ask the community for anything you don't understand. It is garunteed that multiple people will be able to help you and point you in the right direction.
 
 ## What's with PTT/SPP/CEC being the same company?
 

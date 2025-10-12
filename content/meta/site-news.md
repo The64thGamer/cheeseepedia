@@ -123,6 +123,8 @@ On September 6th, the entirety of all articles tagged 'Location' would have thei
 - **August 14th -** Decap changed to remove 'live preview' and instead integrate the preview into the text-box itself.
 - **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists.
 - **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
+- **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
+- **October 11th-** The site hits 100+ transcription pages.
 
 ### Planned Upcoming Changes
 
