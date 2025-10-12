@@ -51,10 +51,14 @@
 
 {{- $count := 0 -}}
 {{- range .Site.RegularPages -}}
-  {{- with .RenderString .Content -}}
-    {{- $count = add $count 1 -}}
+  {{- $section := .Section -}}
+  {{- if or (eq $section "meta") (eq $section "news") (eq $section "wiki") -}}
+    {{- with .RenderString .Content -}}
+      {{- $count = add $count 1 -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
+
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
   <div class="fun-logo">
