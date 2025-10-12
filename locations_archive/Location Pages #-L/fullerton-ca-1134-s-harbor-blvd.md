@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-12-17"
 endDate = "2020-11-17"
-contributors = ["ChuckECool","Rexburg090","ChuckEPediaIsTheBest!","Midwestretail","2600:4040:59FE:7200:910F:436F:D0D:E3EA","CEC Tinley","CorrectorMan","GabrielPennington9864","ThatBoiCydalan","174.131.44.53","Caydenpedia","Documentor","Cy's Junk at School","Cecnj98"]
+contributors = ["ChuckECool","Rexburg090","ChuckEPediaIsTheBest!","Midwestretail","Anonymous","CEC Tinley","CorrectorMan","GabrielPennington9864","ThatBoiCydalan","Anonymous","Caydenpedia","Documentor","Cy's Junk at School","Cecnj98"]
 citations = []
 pageThumbnailFile = "KAIxNsduWd6vNVjIJQgz.avif"
 latitudeLongitude = ["33.85966522","-117.9239737"]

@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1983-06-28"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","2603:6081:300:4E87:8160:A970:10A:AF25","2600:1004:B03E:D83C:F08C:739B:6678:6CDA","71.31.183.205","The 64th Gamer","BigCtheDataFinder","174.131.44.53","Chuckstar69"]
+contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","The 64th Gamer","BigCtheDataFinder","Anonymous","Chuckstar69"]
 citations = []
 pageThumbnailFile = "PrQxhq38Sp1co09thdjo.avif"
 latitudeLongitude = ["34.04345237","-81.11651318"]

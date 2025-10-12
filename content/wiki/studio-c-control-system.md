@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["Himitsu","The 64th Gamer","2600:2B00:732F:E700:10A2:7CCE:3A01:108","CEC Tinley","GallaRBX2"]
+contributors = ["Himitsu","The 64th Gamer","Anonymous","CEC Tinley","GallaRBX2"]
 citations = []
 +++
 

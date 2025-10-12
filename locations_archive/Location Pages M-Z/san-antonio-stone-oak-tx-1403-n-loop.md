@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2002-01-08"
 endDate = ""
-contributors = ["StudioC","Documentor","CECBowlingGreen","Rexburg090","72.76.251.24","ThatBoiCydalan"]
+contributors = ["StudioC","Documentor","CECBowlingGreen","Rexburg090","Anonymous","ThatBoiCydalan"]
 citations = ["<a href=\"https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building\">https://www.nrn.com/marketing/robot-chuck-e-cheese-has-left-building</a>"]
 pageThumbnailFile = "bkCoegBxsBs27iVNef_d.avif"
 latitudeLongitude = ["29.6084389","-98.5215122"]

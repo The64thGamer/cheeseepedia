@@ -5,7 +5,7 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","74.137.220.26"]
+contributors = ["CECBowlingGreen","Anonymous"]
 citations = []
 +++
 **Chuck E. Cheese Pepperoni Pizza** is a frozen pizza sold at Kroger and Meijer starting in 2021 and 2023.

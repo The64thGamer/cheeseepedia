@@ -3,7 +3,7 @@ draft = false
 title = "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
 startDate = "1994-01-24"
 endDate = ""
-contributors = ["Stripes", "168.69.254.249", "2600:4041:55C1:D500:6CA3:E2D8:57FD:55A6", "CEC Tinley", "Cecnj98", "Jmv1985", "Cy's Junk at School", "The 64th Gamer", "CECMentor", "Harchambeault2026", "Moonrock", "ThatBoiCydalan", "AstridMascotFan2005", "Cecanddisneyfan2004", "CoolerDude", "AlexisCEC", "Captain Cheese IV", "Jaxonia"]
+contributors = ["Stripes", "Anonymous", "Anonymous", "CEC Tinley", "Cecnj98", "Jmv1985", "Cy's Junk at School", "The 64th Gamer", "CECMentor", "Harchambeault2026", "Moonrock", "ThatBoiCydalan", "AstridMascotFan2005", "Cecanddisneyfan2004", "CoolerDude", "AlexisCEC", "Captain Cheese IV", "Jaxonia"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=oBzzLVYSKBI\">https://www.youtube.com/watch?v=oBzzLVYSKBI</a>", "Google Maps Street View", "<a href=\"https://www.youtube.com/watch?v=_1wiv1KNKjg\">https://www.youtube.com/watch?v=_1wiv1KNKjg</a>", "<a href=\"https://www.youtube.com/watch?v=RGGl8Nvi2cI\">https://www.youtube.com/watch?v=RGGl8Nvi2cI</a>", "<a href=\"https://www.youtube.com/watch?v=o-DUuaBXVwY\">https://www.youtube.com/watch?v=o-DUuaBXVwY</a>"]
 latitudeLongitude = ["40.7619835", "-73.519559"]
 tags = ["Locations"]

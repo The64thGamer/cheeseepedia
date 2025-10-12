@@ -5,7 +5,7 @@ tags = ["Animatronic Shows"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["2601:600:8F00:4620:C903:EF02:AF64:17FF","2601:600:8F00:4620:8584:E827:9E7D:919E","BigCtheDataFinder","2601:600:8F00:4620:5130:8D95:1015:9E1C","2601:600:8F00:4620:80D5:ED9:DB1:F7CE","2601:600:8F00:9940:CB90:3B72:4584:6992","Zlblosser23"]
+contributors = ["Anonymous","Anonymous","BigCtheDataFinder","Anonymous","Anonymous","Anonymous","Zlblosser23"]
 citations = []
 +++
 **The Hard Luck Bears** (originally referred to as the **Country Bear Jubilee**) was a predecessor show to {{< wiki-link "Rock-afire Explosion" >}} that was created in 1979 and first premiered at IAAPA. It was a successor to the Bear Country Jubilee in many ways, with its stage basis being an inspiration for the common 3-Stage used in various Creative Engineering shows.

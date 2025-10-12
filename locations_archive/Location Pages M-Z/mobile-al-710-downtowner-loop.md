@@ -4,7 +4,7 @@ title = "Mobile, AL (710 Downtowner Loop)"
 startDate = "1982-02-10"
 endDate = ""
 pageThumbnailFile = "AH0ZSn6jKbTPx9YbMFgN.avif"
-contributors = ["BurgersNuggs445", "Montfortdog", "RPCEC Backup", "2600:4040:59FF:B100:9C6:388E:A183:C3C5", "Rexburg090", "2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA", "ChuckfeldStan", "AstridMascotFan2005", "CoolerDude"]
+contributors = ["BurgersNuggs445", "Montfortdog", "RPCEC Backup", "Anonymous", "Rexburg090", "Anonymous", "ChuckfeldStan", "AstridMascotFan2005", "CoolerDude"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=5mqJMsr_PLU\">https://www.youtube.com/watch?v=5mqJMsr_PLU</a>", "<a href=\"https://www.youtube.com/watch?v=Nac2M3A0aN4\">https://www.youtube.com/watch?v=Nac2M3A0aN4</a>", "<ref></ref>", "<ref></ref>", "<ref></ref>", "<a href=\"https://www.geocaching.com/track/details.aspx?id=3534246\">https://www.geocaching.com/track/details.aspx?id=3534246</a>", "https://drive.google.com/file/d/1i3fFaPIUPJXJaoXlvMRh0CtnY3tK8bRP/view?usp=drivesdk"]
 latitudeLongitude = ["30.67348067", "-88.14627603"]
 tags = ["Locations"]

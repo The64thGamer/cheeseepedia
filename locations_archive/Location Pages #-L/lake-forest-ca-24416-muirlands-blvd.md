@@ -4,7 +4,7 @@ title = "Lake Forest, CA (24416 Muirlands Blvd)"
 startDate = "1981-06-00"
 endDate = "2001-10-00"
 pageThumbnailFile = "Qi9mex3rZS1vuD3ZDCSi.avif"
-contributors = ["TheFantasyForest", "The 64th Gamer", "Documentor", "BurgersNuggs445", "75.61.165.219", "71.15.155.152", "173.216.33.6", "38.49.94.191", "Bowling for Cheese", "Charlesiiikingofengland", "Rexburg090", "Midwestretail", "GabrielPennington9864", "ThatBoiCydalan", "Ceclife13", "Jonn", "AstridMascotFan2005", "Chouts1", "CECR995"]
+contributors = ["TheFantasyForest", "The 64th Gamer", "Documentor", "BurgersNuggs445", "Anonymous", "Anonymous", "Anonymous", "Anonymous", "Bowling for Cheese", "Charlesiiikingofengland", "Rexburg090", "Midwestretail", "GabrielPennington9864", "ThatBoiCydalan", "Ceclife13", "Jonn", "AstridMascotFan2005", "Chouts1", "CECR995"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=JXc_jxsrm3I\">https://www.youtube.com/watch?v=JXc_jxsrm3I</a>", "<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf</a>", "<ref></ref>", "<a href=\"https://www.youtube.com/watch?v=XZJBBjy8VNk\">https://www.youtube.com/watch?v=XZJBBjy8VNk</a>", "<a href=\"https://www.youtube.com/watch?v=RCfZw9P2380\">https://www.youtube.com/watch?v=RCfZw9P2380</a>"]
 latitudeLongitude = ["33.62622562", "-117.70503"]
 tags = ["Locations"]

@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1995-00-00"
 endDate = "0000-00-00"
-contributors = ["Pasquallytheplumber","The 64th Gamer","173.72.50.65","Ceclife13","Rileypaulson","RedaCEC","CEC Tinley"]
+contributors = ["Pasquallytheplumber","The 64th Gamer","Anonymous","Ceclife13","Rileypaulson","RedaCEC","CEC Tinley"]
 citations = []
 mediaDuration = "3:16"
 pageThumbnailFile = "P8dnqD3xAGlbjOhQphLi.avif"

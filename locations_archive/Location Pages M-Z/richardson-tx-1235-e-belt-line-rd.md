@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-04-29"
 endDate = "2006-11-00"
-contributors = ["ChuckECool","2600:4040:59F9:8000:4C33:DCA8:8F23:909F","Midwestretail","ThatBoiCydalan","Cheeseclassic","Stripes","Jazzdancr40"]
+contributors = ["ChuckECool","Anonymous","Midwestretail","ThatBoiCydalan","Cheeseclassic","Stripes","Jazzdancr40"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-06.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-06.pdf</a>"]
 pageThumbnailFile = "oDL2Oa2nKp07t9D5Pph3.avif"
 latitudeLongitude = ["32.94501297","-96.70376453"]

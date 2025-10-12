@@ -5,7 +5,7 @@ tags = ["Menu Items"]
 categories = ["Pizza Time Theatre"]
 startDate = "1977-05-03"
 endDate = "1984-00-00"
-contributors = ["The 64th Gamer","216.125.34.66"]
+contributors = ["The 64th Gamer","Anonymous"]
 citations = ["https://www.newspapers.com/image/763858288/?terms=%20%22Big%20C%27s%20Combo%22&match=1","https://www.newspapers.com/image/272099403/?terms=%20%22Big%20C%27s%20Combo%22&match=2","https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf","https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977","https://www.showbizpizza.com/info/promo/ptt/ptt_program_ca.pdf","https://www.newspapers.com/article/arizona-republic/110531669/","https://www.newspapers.com/image/763812743/?clipping_id=86773975&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc2MzgxMjc0MywiaWF0IjoxNjkyODIyOTgyLCJleHAiOjE2OTI5MDkzODJ9.dkE1MJbyl7YHU7TBLAUx7fWESYNRcMea-7vfjhKsItg","https://www.newspapers.com/article/the-akron-beacon-journal/39073853/","https://www.newspapers.com/article/calgary-herald/32413665/"]
 pageThumbnailFile = "I9YKwv3HuQ7GOtX1TDVR.avif"
 +++

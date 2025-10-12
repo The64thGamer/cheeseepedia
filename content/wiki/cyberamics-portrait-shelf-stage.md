@@ -4,7 +4,7 @@ title = "Cyberamics Portrait / Shelf Stage"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "RwtgV0kmTMjVGKYoOEbn.avif"
-contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "216.125.34.66", "38.49.94.191", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "Documentor"]
+contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "Anonymous", "Anonymous", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "Documentor"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://cheeseepedia.org/photos/0_23VDH9h87hH7hh42.avif", "https://cheeseepedia.org/photos/nDD6uIolQnI6JWvWVadX.avif", "https://www.youtube.com/watch?v=wihG5BTS9L8", "https://cheeseepedia.org/photos/2UB042gGPFJOCM52gMNG.avif", "https://cheeseepedia.org/photos/ugkMSuExCeSIrbkwEjuy.avif"]
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]

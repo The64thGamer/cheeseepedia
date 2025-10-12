@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Landon animatronics","Maddox121","129.222.82.23","PizzaEntertainmentFanX"]
+contributors = ["The 64th Gamer","Landon animatronics","Maddox121","Anonymous","PizzaEntertainmentFanX"]
 citations = []
 +++
 The ***Clown Animatronic* is a bot created by Creative Engineering Inc. for the IAAPA Trade Show on November 7th 1984.

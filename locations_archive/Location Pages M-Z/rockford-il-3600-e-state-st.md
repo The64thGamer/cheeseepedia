@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1988-10-30"
 endDate = ""
-contributors = ["CECBowlingGreen","ThatBoiCydalan","ShowBizMidwest","Rexburg090","Awesome Dawson Films YT","RedaCEC","BurgersNuggs445","216.125.34.66","CorrectorMan","2600:4040:5A0E:D900:9C7A:2F9A:EB08:9D7F","Cheeseclassic","CECMentor","Chuck E theatre"]
+contributors = ["CECBowlingGreen","ThatBoiCydalan","ShowBizMidwest","Rexburg090","Awesome Dawson Films YT","RedaCEC","BurgersNuggs445","Anonymous","CorrectorMan","Anonymous","Cheeseclassic","CECMentor","Chuck E theatre"]
 citations = []
 pageThumbnailFile = "AbgacyvkD8mwdgtjeeYx.avif"
 latitudeLongitude = ["42.26550922","-89.04240238"]

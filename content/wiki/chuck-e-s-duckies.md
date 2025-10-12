@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Duckies"
 draft = false
-contributors = ["Pasquallytheplumber", "The 64th Gamer", "69.85.235.229", "GuestIsJustBest", "Stripes", "69.85.235.224"]
+contributors = ["Pasquallytheplumber", "The 64th Gamer", "Anonymous", "GuestIsJustBest", "Stripes", "Anonymous"]
 endDate = ""
 citations = ["https://www.youtube.com/watch?v=HZeaI7FUmws", "http://pfutz.us/JupiterGames/Index.htm", "https://www.crazykong.com/manuals/WackyDucks.man.pdf"]
 startDate = "2000-00-00"

@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","BoyInCharge55","107.147.190.172","ShowBizMidwest","JasperLover","62.10.181.250","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]
+contributors = ["CECBowlingGreen","BoyInCharge55","Anonymous","ShowBizMidwest","JasperLover","Anonymous","CoolerDude","CECMentor","ItAllStartsHereYT","Nerdychucke","Cheeseclassic"]
 citations = []
 pageThumbnailFile = "sdAKyDt5fJ0iZQxZpnEJ.avif"
 +++

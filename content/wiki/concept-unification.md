@@ -5,7 +5,7 @@ tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 startDate = "1990-06-00"
 endDate = "1993-00-00"
-contributors = ["CECBowlingGreen","BurgersNuggs445","ChuckEPediaIsTheBest!","2600:4040:59FC:D100:99D4:FA80:6C7F:5751","Rexburg090","187.150.43.103","The 64th Gamer","199.197.88.236","BigCtheDataFinder","Stripes","Documentor","Caydenpedia"]
+contributors = ["CECBowlingGreen","BurgersNuggs445","ChuckEPediaIsTheBest!","Anonymous","Rexburg090","Anonymous","The 64th Gamer","Anonymous","BigCtheDataFinder","Stripes","Documentor","Caydenpedia"]
 citations = ["https://youtu.be/gTmhS6hcY-A?t=2386","https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf","https://www.triadav.com/about-us","https://www.showbizpizza.com/info/articles/joint/joint_cuarticle.pdf","https://www.youtube.com/watch?v=ZmBc8G65Cqw","https://trademarks.justia.com/740/85/munch-s-make-believe-band-74085153.html","https://trademarks.justia.com/740/85/in-pizza-we-trust-74085150.html","https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/"]
 pageThumbnailFile = "0RUTraGgd_0t4f23jHjh.avif"
 +++

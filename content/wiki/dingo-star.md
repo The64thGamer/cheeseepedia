@@ -5,7 +5,7 @@ tags = ["Characters"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["Sponch man","2601:600:8F00:4620:5856:C7F4:B277:85AF"]
+contributors = ["Sponch man","Anonymous"]
 citations = ["http://www.showbizpizza.com/rae/history/index.html","https://showbizpizza.fandom.com/wiki/The_Wolf_Pack_5","https://youtu.be/UsVA1GIrXU8?t=366","https://youtu.be/UsVA1GIrXU8?t=1549","https://youtu.be/lvMtt4EQJnc?t=280"]
 +++
 ]

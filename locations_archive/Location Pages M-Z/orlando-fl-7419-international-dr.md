@@ -5,7 +5,7 @@ title = "Orlando, FL (7419 International Dr)"
 startDate = "1981-07-22"
 endDate = ""
 pageThumbnailFile = "IC76YyacENd9afRg4BWw.avif"
-contributors = ["ChuckECool", "Rexburg090", "ShowBizMidwest", "ThatBoiCydalan", "108.11.7.204", "BurgersNuggs445", "AstridMascotFan2005"]
+contributors = ["ChuckECool", "Rexburg090", "ShowBizMidwest", "ThatBoiCydalan", "Anonymous", "BurgersNuggs445", "AstridMascotFan2005"]
 citations = ["<a href=\"https://www.clickorlando.com/news/local/2024/01/04/former-employee-accuses-orange-county-chuck-e-cheese-in-sex-attack-claims/\">https://www.clickorlando.com/news/local/2024/01/04/former-employee-accuses-orange-county-chuck-e-cheese-in-sex-attack-claims/</a>"]
 latitudeLongitude = ["28.45321142", "-81.47163763"]
 tags = ["Locations"]

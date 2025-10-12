@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-09-20"
 endDate = "2009-12-00"
-contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Blowseborg062","2600:4040:24D1:BB00:A9A4:F270:3B61:E925","Cecfan2004","2600:4040:5A0E:D900:B859:6530:9910:AF4C","96.5.110.34","Jazzdancr40","Cecanddisneyfan2004","Cheeseclassic","Destinationimagination95","Ilikecec"]
+contributors = ["ChuckECool","Rexburg090","CEC Tinley","ThatBoiCydalan","Blowseborg062","Anonymous","Cecfan2004","Anonymous","Anonymous","Jazzdancr40","Cecanddisneyfan2004","Cheeseclassic","Destinationimagination95","Ilikecec"]
 citations = ["<a href=\"https://docs.google.com/spreadsheets/d/1bQbJ704l5I8hkf4hUNa7IyYzGW5I3CIBYmqigrRLD7g/edit?pli=1&gid=332535324#gid=332535324\">https://docs.google.com/spreadsheets/d/1bQbJ704l5I8hkf4hUNa7IyYzGW5I3CIBYmqigrRLD7g/edit?pli=1&gid=332535324#gid=332535324</a>"]
 pageThumbnailFile = "CfJGWyC4tNOouezwK3sA.avif"
 latitudeLongitude = ["38.77874777","-77.07819373"]

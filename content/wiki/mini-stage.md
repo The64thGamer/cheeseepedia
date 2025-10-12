@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = ""
 endDate = ""
-contributors = ["BurgersNuggs445","Emcaacme","Montfortdog","216.185.74.218","204.101.16.199","BigCtheDataFinder","The 64th Gamer","CECMentor"]
+contributors = ["BurgersNuggs445","Emcaacme","Montfortdog","Anonymous","Anonymous","BigCtheDataFinder","The 64th Gamer","CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/spp/spp_83_ministage.pdf\">https://www.showbizpizza.com/info/documents/spp/spp_83_ministage.pdf</a>","<a href=\"https://youtu.be/x9438Sw6fjo?si=MeiMoFJZaFEtGS7W\">https://youtu.be/x9438Sw6fjo?si=MeiMoFJZaFEtGS7W</a>","<a href=\"https://youtu.be/4vk0yegnIEc?si=1QmzGdXunL6wGeiX\">https://youtu.be/4vk0yegnIEc?si=1QmzGdXunL6wGeiX</a>"]
 pageThumbnailFile = "qvh8DONdbtMkWOU7KYSB.avif"
 +++

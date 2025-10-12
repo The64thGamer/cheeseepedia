@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-05-00"
 endDate = "2002-05-00"
-contributors = ["ChuckECool","173.216.33.6","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","Documentor","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
+contributors = ["ChuckECool","Anonymous","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","Documentor","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
 citations = ["<a href=\"https://youtu.be/Xa_wLyRZglI\">https://youtu.be/Xa_wLyRZglI</a>"]
 pageThumbnailFile = "bwYuOOZap5QB4nSq0mxU.avif"
 latitudeLongitude = ["37.02649957","-76.42558368"]

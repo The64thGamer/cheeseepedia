@@ -5,7 +5,7 @@ tags = ["Arcade Games"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["2600:1700:ED70:6F60:2C80:79F1:5A1F:C995","GuestIsJustBest","Stripes","ThatBoiCydalan"]
+contributors = ["Anonymous","GuestIsJustBest","Stripes","ThatBoiCydalan"]
 citations = []
 pageThumbnailFile = "lMNw9s0vT24wqyZbqQav.avif"
 +++

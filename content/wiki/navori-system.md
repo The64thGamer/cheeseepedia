@@ -5,7 +5,7 @@ tags = ["Animatronic Control Systems"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","70.161.136.174","Ceclife13","Cy's Junk at School"]
+contributors = ["The 64th Gamer","Bowling for Cheese","Documentor","Anonymous","Ceclife13","Cy's Junk at School"]
 citations = ["https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/","https://lsslogin.com/","https://www.instagram.com/p/CgHORZnODuF/"]
 pageThumbnailFile = "bEys8qslC5qMEeF6cgSO.avif"
 +++

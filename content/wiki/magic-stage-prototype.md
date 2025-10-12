@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
-contributors = ["Emcaacme","216.125.34.66","CEC Tinley","Tux Chuck","CECMentor","Jaxonia"]
+contributors = ["Emcaacme","Anonymous","CEC Tinley","Tux Chuck","CECMentor","Jaxonia"]
 citations = []
 +++
 The *Magic Stage* was a test stage made by ShowBiz Pizza Place with the objective to stray away from Rock-afire Explosion branding as a result of licensing conflicts between Creative Engineering and ShowBiz Pizza.

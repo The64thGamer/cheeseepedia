@@ -5,7 +5,7 @@ tags = ["Animatronic Preservation"]
 categories = [""]
 startDate = ""
 endDate = ""
-contributors = ["ShowBizpizzawiki","2601:5C8:C201:7480:34B3:9875:4579:D72A"]
+contributors = ["ShowBizpizzawiki","Anonymous"]
 citations = []
 +++
 An official procedure for MAC valve rebuilding is documented in the ShowBiz Pizza Place Operations Manual from 1981.

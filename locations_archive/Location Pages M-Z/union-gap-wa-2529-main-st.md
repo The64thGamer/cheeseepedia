@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["Rexburg090","2600:4040:5A0C:5900:C45C:F043:3504:84FE"]
+contributors = ["Rexburg090","Anonymous"]
 citations = ["[https://www.yakimaherald.com/news/local/business/chuck-e-cheese-asian-fusion-restaurant-planned-near-valley-mall/article_f64a2682-3484-11ed-acca-5bf05ef037cc.html](%22https://www.yakimaherald.com/news/local/business/chuck-e-cheese-asian-fusion-restaurant-planned-near-valley-mall/article_f64a2682-3484-11ed-acca-5bf05ef037cc.html%22)"]
 latitudeLongitude = ["46.56399032","-120.4809153"]
 +++

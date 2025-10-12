@@ -5,7 +5,7 @@ tags = ["Arcade Games"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["StudioC","The 64th Gamer","168.69.254.248"]
+contributors = ["StudioC","The 64th Gamer","Anonymous"]
 citations = []
 +++
 ***Chuck E's Laser Challenge* was a test attraction produced in 2014 by *Funovation* that involved navigating through laser beams and hitting Chuck E. Cheese's characters as quickly as possible while breaking as few beams as possible.**

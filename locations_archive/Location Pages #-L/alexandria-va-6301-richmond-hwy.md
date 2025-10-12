@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2010-11-20"
 endDate = ""
-contributors = ["66.215.38.213","CEC Kokomo","ThatBoiCydalan","Cecfan2004","Cecanddisneyfan2004"]
+contributors = ["Anonymous","CEC Kokomo","ThatBoiCydalan","Cecfan2004","Cecanddisneyfan2004"]
 citations = []
 pageThumbnailFile = "1oXiYz42udFNJECvDXN6.avif"
 latitudeLongitude = ["38.77881272","-77.07791453"]

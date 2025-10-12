@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1990-05-01"
 endDate = ""
-contributors = ["CECBowlingGreen","RPCEC Backup","Midlo tech","Rexburg090","Noahrbxt","RedaCEC","ChuckEPediaIsTheBest!","168.69.254.246","ShowBizpizzawiki","JoshWizz123","168.69.254.249","CEC Tinley","CorrectorMan","Caydenpedia","Muncho"]
+contributors = ["CECBowlingGreen","RPCEC Backup","Midlo tech","Rexburg090","Noahrbxt","RedaCEC","ChuckEPediaIsTheBest!","Anonymous","ShowBizpizzawiki","JoshWizz123","Anonymous","CEC Tinley","CorrectorMan","Caydenpedia","Muncho"]
 citations = []
 latitudeLongitude = ["37.50710342","-77.59033978"]
 +++

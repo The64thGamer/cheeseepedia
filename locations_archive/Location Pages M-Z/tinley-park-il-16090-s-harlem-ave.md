@@ -4,7 +4,7 @@ title = "Tinley Park, IL (16090 S Harlem Ave)"
 startDate = "1989-01-31"
 endDate = ""
 pageThumbnailFile = "M9EgfJ5q49hzp4B0yA_H.avif"
-contributors = ["Rexburg090", "2600:4040:59FF:B100:3626:A36E:DD25:CF56", "ShowBizMidwest", "Jaxon11", "64.150.4.64", "RedaCEC", "173.216.33.6", "CEC Tinley", "The 64th Gamer", "Tux Chuck", "Cheeseclassic", "CoolerDude", "CECMentor", "CECR995"]
+contributors = ["Rexburg090", "Anonymous", "ShowBizMidwest", "Jaxon11", "Anonymous", "RedaCEC", "Anonymous", "CEC Tinley", "The 64th Gamer", "Tux Chuck", "Cheeseclassic", "CoolerDude", "CECMentor", "CECR995"]
 citations = ["<a href=\"https://www.instagram.com/p/C0N0bS5OCO7/?igshid=ODhhZWM5NmIwOQ==\">https://www.instagram.com/p/C0N0bS5OCO7/?igshid=ODhhZWM5NmIwOQ==</a>", "<a href=\"https://www.instagram.com/p/C0N0bS5OCO7/?igshid=ODhhZWM5NmIwOQ==\">https://www.instagram.com/p/C0N0bS5OCO7/?igshid=ODhhZWM5NmIwOQ==</a>"]
 latitudeLongitude = ["41.59776697", "-87.79602278"]
 tags = ["Locations"]

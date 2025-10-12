@@ -4,7 +4,7 @@ title = "Patchogue, NY (121 Sunrise Hwy)"
 startDate = "1993-03-29"
 endDate = ""
 pageThumbnailFile = "_0GPQ5peI7ao5AIZn8r2.avif"
-contributors = ["Stripes", "216.125.34.66", "Rexburg090", "Cheeseclassic", "ThatBoiCydalan", "AlexisCEC", "Cecnj98"]
+contributors = ["Stripes", "Anonymous", "Rexburg090", "Cheeseclassic", "ThatBoiCydalan", "AlexisCEC", "Cecnj98"]
 citations = [
 	"https://www.newspapers.com/article/newsday-nassau-edition-patchogue-cec/141181115/", 
 	"https://www.youtube.com/watch?v=lSmh1V2Yevs",

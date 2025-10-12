@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2010-12-28"
 endDate = ""
-contributors = ["66.215.38.213","CEC Kokomo"]
+contributors = ["Anonymous","CEC Kokomo"]
 citations = []
 latitudeLongitude = ["40.75627607","-73.83686288"]
 +++

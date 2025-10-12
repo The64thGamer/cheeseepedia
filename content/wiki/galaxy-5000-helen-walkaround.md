@@ -5,7 +5,7 @@ tags = ["Costumed Characters"]
 categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["ShowBizMidwest","BurgersNuggs445","2601:81:8500:E190:74A4:B452:52FC:27F9"]
+contributors = ["ShowBizMidwest","BurgersNuggs445","Anonymous"]
 citations = []
 +++
 The head used in the notorious CEC movie, *Chuck E. Cheese In The Galaxy 5000*, is the {{< wiki-link "Articulated Helen Walkaround" >}} that was created in 1996 by David "Billy Bob" Irvin.

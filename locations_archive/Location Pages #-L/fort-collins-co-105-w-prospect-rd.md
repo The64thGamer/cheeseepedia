@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-02-09"
 endDate = ""
-contributors = ["2601:280:5D02:1010:6161:88FF:D537:F49D","Cheeseclassic","CEC Tinley","Caydenpedia","CECFayetteville15"]
+contributors = ["Anonymous","Cheeseclassic","CEC Tinley","Caydenpedia","CECFayetteville15"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf</a>","<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf</a>"]
 pageThumbnailFile = "z9NTOS83hJ21AlguEpQw.avif"
 latitudeLongitude = ["40.56466482","-105.0790823"]

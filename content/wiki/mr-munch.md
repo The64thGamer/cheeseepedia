@@ -4,7 +4,7 @@ title = "Mr. Munch"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "PCAxj87MBMaErxKfhxDC.avif"
-contributors = ["Herzognate", "ChuckEPediaIsTheBest!", "216.125.34.66", "JasperLover", "PizzaEntertainmentFanX", "The 64th Gamer", "SuperCreamPiper2008", "CECMentor"]
+contributors = ["Herzognate", "ChuckEPediaIsTheBest!", "Anonymous", "JasperLover", "PizzaEntertainmentFanX", "The 64th Gamer", "SuperCreamPiper2008", "CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</a>"]
 tags = ["Characters"]
 categories = ["Pizza Time Theatre"]

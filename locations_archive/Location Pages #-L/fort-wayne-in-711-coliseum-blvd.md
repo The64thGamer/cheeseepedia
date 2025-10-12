@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-05-19"
 endDate = ""
-contributors = ["ChuckECool","2600:4040:5A0E:D900:5A4:D894:F195:E9EC","ShowBizMidwest","2600:4040:5A0E:D900:CCCD:680A:FFDE:C3FC","2600:4040:5A0E:D900:CDB4:1FA4:B0AB:5F13"]
+contributors = ["ChuckECool","Anonymous","ShowBizMidwest","Anonymous","Anonymous"]
 citations = []
 latitudeLongitude = ["41.11589512","-85.15347478"]
 +++

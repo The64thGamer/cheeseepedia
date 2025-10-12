@@ -4,7 +4,7 @@ title = "Blast From The Past"
 startDate = "1998-01-00"
 endDate = "1998-00-00"
 pageThumbnailFile = "hAczHtQW0ncEFSA6bENH.avif"
-contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "2600:1009:B173:9FF8:285C:6515:8181:3706", "2601:2C6:4B7F:1C80:D1A6:9AE7:CEEE:9F76"]
+contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "Anonymous", "Anonymous"]
 citations = ["https://www.youtube.com/watch?v=NnOlH7oRHZs"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]

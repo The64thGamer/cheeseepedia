@@ -4,7 +4,7 @@ title = "Spring Break"
 startDate = "1994-04-00"
 endDate = "1994-06-00"
 pageThumbnailFile = "SpringBreak94.avif"
-contributors = ["The 64th Gamer", "71.15.155.152", "Cy's Junk at School", "MultiMonorail"]
+contributors = ["The 64th Gamer", "Anonymous", "Cy's Junk at School", "MultiMonorail"]
 citations = ["https://www.youtube.com/watch?v=8BErEtQIxuw"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]

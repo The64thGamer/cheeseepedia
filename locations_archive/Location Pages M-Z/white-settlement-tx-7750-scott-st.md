@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-12-29"
 endDate = "1985-00-00"
-contributors = ["CECBowlingGreen","Documentor","RedaCEC","Rexburg090","216.125.34.66","CEC Tinley","Steven 'CEC' Master","The 64th Gamer","Caydenpedia","SuperCreamPiper2008","Cecnj98","CECMentor"]
+contributors = ["CECBowlingGreen","Documentor","RedaCEC","Rexburg090","Anonymous","CEC Tinley","Steven 'CEC' Master","The 64th Gamer","Caydenpedia","SuperCreamPiper2008","Cecnj98","CECMentor"]
 citations = []
 pageThumbnailFile = "pNNRyC2kaWMOWqsCbjzE.avif"
 latitudeLongitude = ["32.73987237","-97.45031443"]

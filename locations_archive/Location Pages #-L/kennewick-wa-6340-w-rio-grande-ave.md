@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2018-10-01"
 endDate = ""
-contributors = ["47.17.236.200","CorrectorMan"]
+contributors = ["Anonymous","CorrectorMan"]
 citations = []
 latitudeLongitude = ["46.22338557","-119.2083521"]
 +++

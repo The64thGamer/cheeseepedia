@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2004-00-00"
 endDate = ""
-contributors = ["2600:4040:AD76:D00:CCCB:85BF:4F98:EB5","Cecnj98","ThatBoiCydalan","CorrectorMan","BurgersNuggs445","47.17.236.200"]
+contributors = ["Anonymous","Cecnj98","ThatBoiCydalan","CorrectorMan","BurgersNuggs445","Anonymous"]
 citations = ["<a href=\"https://www.brooklynpaper.com/rats-health-department-closes-chuck/\">https://www.brooklynpaper.com/rats-health-department-closes-chuck/</a>","<a href=\"https://www.youtube.com/watch?v=mr4xq-W54d8\">https://www.youtube.com/watch?v=mr4xq-W54d8</a>"]
 pageThumbnailFile = "UKrguoTXMTaaqOLESQl1.avif"
 latitudeLongitude = ["40.68328167","-73.97824813"]

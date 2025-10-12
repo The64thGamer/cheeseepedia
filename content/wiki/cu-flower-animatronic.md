@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","Randombeans","2.26.6.187"]
+contributors = ["CECBowlingGreen","Randombeans","Anonymous"]
 citations = ["<a href=\"<a\"> href=\"https://youtu.be/UqRv6tBFgvg?t=576\"> Concept Unification Premiere: 576s</a></a>"]
 +++
 

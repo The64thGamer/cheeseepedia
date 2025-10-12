@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1992-04-20"
 endDate = "1986-00-00"
-contributors = ["ChuckfeldStan","Rexburg090","ShowBiz Nobiz","216.125.34.66","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
+contributors = ["ChuckfeldStan","Rexburg090","ShowBiz Nobiz","Anonymous","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "Mm91xexn2L5vS0zIO1ZQ.avif"
 latitudeLongitude = ["40.93835352","-74.27291503"]

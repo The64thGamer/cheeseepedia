@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Montfortdog","ChuckE1352","2601:584:4100:EB10:8DD1:E599:528F:89F3","Ceclife13","CECMentor"]
+contributors = ["The 64th Gamer","Montfortdog","ChuckE1352","Anonymous","Ceclife13","CECMentor"]
 citations = []
 pageThumbnailFile = "9isgULq0imLaFCkVwZHa.avif"
 +++

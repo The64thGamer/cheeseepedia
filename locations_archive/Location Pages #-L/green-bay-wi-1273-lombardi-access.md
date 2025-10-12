@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-10-28"
 endDate = ""
-contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","66.250.190.24","Tux Chuck"]
+contributors = ["CECBowlingGreen","Emcaacme","Rexburg090","ChuckEPediaIsTheBest!","Rileypaulson","ChuckECool","Saan1ty","Anonymous","Tux Chuck"]
 citations = ["<a href=\"https://www.wearegreenbay.com/news/local-news/ne-wisconsins-only-chuck-e-cheese-to-reopen-after-getting-remodeled/\">https://www.wearegreenbay.com/news/local-news/ne-wisconsins-only-chuck-e-cheese-to-reopen-after-getting-remodeled/</a>"]
 pageThumbnailFile = "2CwFz70Fh3eC4TYN2dVR.avif"
 latitudeLongitude = ["44.50504167","-88.07570803"]

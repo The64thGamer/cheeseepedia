@@ -5,7 +5,7 @@ tags = ["User"]
 categories = []
 startDate = "2023-08-15"
 endDate = ""
-contributors = ["ChuckECool","216.64.238.181"]
+contributors = ["ChuckECool","Anonymous"]
 citations = []
 +++
 Hello! My name is ChuckECool. I am a fan of Chuck E. Cheese, Pizza Time Theatre, and ShowBiz Pizza. My local is Modesto, California and I would not care much if it received the 2.0 Remodel.

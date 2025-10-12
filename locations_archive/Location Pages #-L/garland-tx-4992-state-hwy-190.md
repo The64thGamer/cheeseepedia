@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2006-00-00"
 endDate = ""
-contributors = ["The 64th Gamer","2600:4040:59F9:8000:E869:B562:197E:4627","168.69.254.246","Thecheesydude"]
+contributors = ["The 64th Gamer","Anonymous","Anonymous","Thecheesydude"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=d1kw1RmzrP\">https://www.youtube.com/watch?v=d1kw1RmzrP</a>"]
 latitudeLongitude = ["32.8302751","-96.7059039"]
 +++

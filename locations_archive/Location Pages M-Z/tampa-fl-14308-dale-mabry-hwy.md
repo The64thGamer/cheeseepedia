@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-07-00"
 endDate = ""
-contributors = ["GainerXO","Rexburg090","RedaCEC","ShowBizMidwest","216.125.34.66","CEC Tinley","The 64th Gamer","Cheeseclassic"]
+contributors = ["GainerXO","Rexburg090","RedaCEC","ShowBizMidwest","Anonymous","CEC Tinley","The 64th Gamer","Cheeseclassic"]
 citations = ["<a href=\"https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/\">https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/</a>","<a href=\"https://media.discordapp.net/attachments/1046959790364045313/1047031224595664966/unknown.png?width=414&height=536\">https://media.discordapp.net/attachments/1046959790364045313/1047031224595664966/unknown.png?width=414&height=536</a>","<a href=\"https://www.dallasnews.com/business/local-companies/2017/12/21/chuck-e-cheese-s-to-test-delivery-in-north-texas-other-spot-markets/\">https://www.dallasnews.com/business/local-companies/2017/12/21/chuck-e-cheese-s-to-test-delivery-in-north-texas-other-spot-markets/</a>"]
 pageThumbnailFile = "k9HkefN8G7kJesuyLLeN.avif"
 latitudeLongitude = ["28.07526637","-82.50890098"]

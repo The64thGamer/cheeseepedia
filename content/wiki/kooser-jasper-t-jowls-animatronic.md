@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
-contributors = ["EagleScout610","MultiMonorail","The 64th Gamer","216.125.34.66","FileFickle"]
+contributors = ["EagleScout610","MultiMonorail","The 64th Gamer","Anonymous","FileFickle"]
 citations = []
 pageThumbnailFile = "zHJabUal9DmSdwdmQv38.avif"
 +++

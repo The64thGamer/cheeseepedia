@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Himitsu","Studio 18 Ent","2603:6011:D003:7635:F1CF:132B:9244:97CF","GallaRBX2"]
+contributors = ["The 64th Gamer","Himitsu","Studio 18 Ent","Anonymous","GallaRBX2"]
 citations = ["<a href=\"https://youtu.be/zCY8ou2LCsA\">https://youtu.be/zCY8ou2LCsA</a>","<a href=\"https://www.youtube.com/watch?v=vHTZ9FV-070\">https://www.youtube.com/watch?v=vHTZ9FV-070</a>"]
 pageThumbnailFile = "4dVHEXRU7I79wGlWOEGR.avif"
 +++

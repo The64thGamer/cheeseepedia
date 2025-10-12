@@ -4,7 +4,7 @@ title = "Darien, IL (7409 Cass Ave)"
 startDate = "1981-00-00"
 endDate = ""
 pageThumbnailFile = "93DmvQuqD2EbjbOkNYSL.avif"
-contributors = ["ShowBizMidwest", "Emcaacme", "Rexburg090", "CorrectorMan", "BurgersNuggs445", "2600:4040:5A0E:D900:FCF8:AB0C:6C11:EBDF", "Caydenpedia", "Jerry CEC", "AstridMascotFan2005", "Chouts1"]
+contributors = ["ShowBizMidwest", "Emcaacme", "Rexburg090", "CorrectorMan", "BurgersNuggs445", "Anonymous", "Caydenpedia", "Jerry CEC", "AstridMascotFan2005", "Chouts1"]
 citations = ["<a href=\"https://media.discordapp.net/attachments/721519925986066433/1121223941986467920/image.png\">https://media.discordapp.net/attachments/721519925986066433/1121223941986467920/image.png</a>"]
 latitudeLongitude = ["41.75191932", "-87.97335123"]
 tags = ["Locations"]

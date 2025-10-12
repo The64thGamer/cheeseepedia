@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place","Circus Pizza"]
 startDate = "1982-09-23"
 endDate = "1985-10-00"
-contributors = ["Cecfan2004","ChuckECool","Cheeseclassic","96.5.110.36","Stripes","CoolerDude"]
+contributors = ["Cecfan2004","ChuckECool","Cheeseclassic","Anonymous","Stripes","CoolerDude"]
 citations = ["<ref></ref>"]
 pageThumbnailFile = "r9guXOnt29QlG9QjuaSH.avif"
 +++

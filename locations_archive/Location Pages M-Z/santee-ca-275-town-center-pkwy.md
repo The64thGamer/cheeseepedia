@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2023-09-18"
 endDate = ""
-contributors = ["ChuckEPediaIsTheBest!","RedaCEC","2600:1004:B18F:1005:A935:501B:2CAD:B83C","ThatBoiCydalan","SinStar","2607:FB90:7321:19D0:3428:5038:28F9:CA18","Cheeseclassic","76.167.210.169"]
+contributors = ["ChuckEPediaIsTheBest!","RedaCEC","Anonymous","ThatBoiCydalan","SinStar","Anonymous","Cheeseclassic","Anonymous"]
 citations = ["<a href=\"https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html\">https://www.sandiegoville.com/2023/01/first-new-age-chuck-e-cheese-location-to-open-in-san-diego.html</a>"]
 latitudeLongitude = ["32.84114272","-116.9865602"]
 +++

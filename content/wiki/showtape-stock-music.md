@@ -5,7 +5,7 @@ tags = ["History"]
 categories = ["Chuck E. Cheese's","ShowBiz Pizza Place","Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["Nebbytales","The 64th Gamer","Documentor","Himitsu","Rileypaulson","RedaCEC","2A00:23C7:D7A1:7101:DF8:1917:863B:CE87"]
+contributors = ["Nebbytales","The 64th Gamer","Documentor","Himitsu","Rileypaulson","RedaCEC","Anonymous"]
 citations = []
 +++
 

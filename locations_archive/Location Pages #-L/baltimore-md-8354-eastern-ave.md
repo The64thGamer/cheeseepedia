@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1991-08-06"
 endDate = "2018-10-28"
-contributors = ["TrimSafe6859","2600:4040:59FF:B100:19F1:35A6:8ACE:60DD","Rexburg090","Midwestretail","2600:4040:5A0E:D900:967:2CF9:CE16:D0FE","ChuckECool","CEC Tinley","Chuckepoggers69","Documentor","Destinationimagination95"]
+contributors = ["TrimSafe6859","Anonymous","Rexburg090","Midwestretail","Anonymous","ChuckECool","CEC Tinley","Chuckepoggers69","Documentor","Destinationimagination95"]
 citations = []
 pageThumbnailFile = "feibd5bLbxyU5gEVs3J9.avif"
 +++

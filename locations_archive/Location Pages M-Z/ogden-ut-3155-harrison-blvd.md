@@ -3,7 +3,7 @@ draft = false
 title = "Ogden, UT (3155 Harrison Blvd)"
 startDate = "1980-05-17"
 endDate = ""
-contributors = ["Pench0782", "Puppetpals", "The 64th Gamer", "2600:1008:B10F:A3F2:6496:8108:4444:2936", "Krimet Hetgrof", "Caydenpedia", "Chouts1"]
+contributors = ["Pench0782", "Puppetpals", "The 64th Gamer", "Anonymous", "Krimet Hetgrof", "Caydenpedia", "Chouts1"]
 citations = ["<a href=\"https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/\">https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/</a>", "<a href=\"https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/\">https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/</a>", "<a href=\"http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html\">http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html</a>", "<a href=\"https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/\">https://www.newspapers.com/clip/40537272/11-ogden-ut-ptt-june-1980-opening/</a>", "<a href=\"https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/\">https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/</a>"]
 latitudeLongitude = ["41.20498042", "-111.9507177"]
 tags = ["Locations"]

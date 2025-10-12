@@ -5,7 +5,7 @@ tags = ["Animatronic Preservation"]
 categories = [""]
 startDate = ""
 endDate = ""
-contributors = ["2600:1017:B4C2:66B9:B43D:350E:1D57:D87A","The 64th Gamer","ShowBizMidwest","47.12.120.189"]
+contributors = ["Anonymous","The 64th Gamer","ShowBizMidwest","Anonymous"]
 citations = ["https://aheinfo.com/product/clippard-evo-3m-12-3-way-elec-valve/","https://www.clippard.com/part/EVO-3M-12"]
 pageThumbnailFile = "RUAzN0niK_CxqWXmU1lE.avif"
 +++

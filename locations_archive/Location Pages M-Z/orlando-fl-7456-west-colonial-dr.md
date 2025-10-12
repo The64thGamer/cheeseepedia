@@ -4,7 +4,7 @@ title = "Orlando, FL (7456 West Colonial Dr)"
 startDate = "1998-11-12"
 endDate = "2025-03-23"
 pageThumbnailFile = "BAo67sTZK7FPi7GA3n_w.avif"
-contributors = ["ChuckECool", "Midwestretail", "Rexburg090", "216.125.34.66", "CorrectorMan", "CECfan", "CECguy121012", "47.17.236.200", "CEC Tinley", "CoolerDude", "CECFayetteville15", "MultiMonorail"]
+contributors = ["ChuckECool", "Midwestretail", "Rexburg090", "Anonymous", "CorrectorMan", "CECfan", "CECguy121012", "Anonymous", "CEC Tinley", "CoolerDude", "CECFayetteville15", "MultiMonorail"]
 citations = ["http://youtube.com/post/Ugkxnsm_mUnS-DGRDquDmjAjBO7zVtoD_TMO?si=oyWtdx-LKbCCEA7a"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]

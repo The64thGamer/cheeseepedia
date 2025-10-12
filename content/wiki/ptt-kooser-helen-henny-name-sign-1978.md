@@ -5,7 +5,7 @@ tags = ["Store Fixtures"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Concordio","2607:FB91:8AD:5A4A:AC39:C397:E1B3:659F"]
+contributors = ["Concordio","Anonymous"]
 citations = []
 pageThumbnailFile = "EF_lZpTWNst6d4JjR8We.avif"
 +++

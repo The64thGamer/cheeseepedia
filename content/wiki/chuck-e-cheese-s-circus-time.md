@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","2601:244:4000:9630:2C23:F0CA:6C34:1F51"]
+contributors = ["The 64th Gamer","Anonymous"]
 citations = ["<a href=\"http://www.pinrepair.com/arcade/bimbo.htm\">http://www.pinrepair.com/arcade/bimbo.htm</a>"]
 downloadLinks = ["https://static.miraheze.org/decodedocdigitizewiki/d/da/Bimbo.mp3|Original Bimbo 8-Track Audio Tape"]
 +++

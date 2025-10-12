@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-08-21"
 endDate = "1997-00-00"
 pageThumbnailFile = "gini345ugn345g.avif"
-contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","74.70.97.78","Cy's Junk at School"]
+contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","Anonymous","Cy's Junk at School"]
 citations = ["https://www.youtube.com/watch?v=99vsWR406xo","https://www.youtube.com/watch?v=5mqJMsr_PLU"]
 +++
 The ***Awesome Adventure Machine,* also known internally as 'Showroom 2000,' was a test stage that was installed at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}.

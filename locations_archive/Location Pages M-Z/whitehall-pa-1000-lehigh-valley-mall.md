@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1983-12-16"
 endDate = ""
-contributors = ["RockAfire Alex","Rexburg090","ChuckECool","69.124.126.253","CorrectorMan","ThatBoiCydalan","Bowling for Cheese","2600:4040:5A0E:D900:9508:D0AA:E523:FC6","ShowBizMidwest","BurgersNuggs445","Icantbelieveitsnotbutter","Whitehall C.E.C Official","The 64th Gamer","AstridMascotFan2005","CECMentor"]
+contributors = ["RockAfire Alex","Rexburg090","ChuckECool","Anonymous","CorrectorMan","ThatBoiCydalan","Bowling for Cheese","Anonymous","ShowBizMidwest","BurgersNuggs445","Icantbelieveitsnotbutter","Whitehall C.E.C Official","The 64th Gamer","AstridMascotFan2005","CECMentor"]
 citations = ["<a href=\"https://www.mcall.com/news/mc-xpm-1989-10-15-2721153-story.html\">https://www.mcall.com/news/mc-xpm-1989-10-15-2721153-story.html</a>"]
 pageThumbnailFile = "EA6R7GLgi62sAoWGPJ4b.avif"
 latitudeLongitude = ["40.63075037","-75.47716658"]
