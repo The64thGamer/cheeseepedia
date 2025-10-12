@@ -39,7 +39,8 @@
 
 {{/* Helper: get gradient pair */}}
 {{- define "getGradientForCount" -}}
-  {{- $count := . -}}
+  {{- $count := .count -}}
+  {{- $gradientScale := .gradientScale -}}
   {{- $pair := dict "start" "#000000" "end" "#000000" -}}
   {{- range $gradientScale -}}
     {{- if and (ge $count .min) (le $count .max) -}}
@@ -56,7 +57,7 @@
     {{- range $sortedContributors -}}
       {{- $name := .name -}}
       {{- $count := .count -}}
-      {{- $gradient := template "getGradientForCount" $count -}}
+      {{- $gradient := template "getGradientForCount" (dict "count" $count "gradientScale" $gradientScale) -}}
       {{- $start := index $gradient "start" -}}
       {{- $end := index $gradient "end" -}}
       {{- $matchingArticles := where $site "Title" $name -}} 
