@@ -4,16 +4,114 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-07-25"
-endDate = "0000-00-00"
-contributors = ["Bowling for Cheese","Anonymous","Anonymous","Anonymous","Dame","The 64th Gamer"]
+endDate = "2023-09-30"
+contributors = ["Bowling for Cheese","Anonymous","Anonymous","Anonymous","Dame","The 64th Gamer","CyberSnout"]
 citations = []
 pageThumbnailFile = "sCDC25gfzuL1ULFdgZRR.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Media Navori","Cyberamics Navori","3-Stage Navori"]
 +++
-***Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023* is the night summer show released July 26, 2023.
-This showtape was created to promote the KIDZ BOP Never Stop Party series of concerts. This showtape features 4 programmed CEC songs from 2017 - 2023 and two new DJ Munch Remixes which are not programmed. This show runs from 6pm to closing, the {{< wiki-link "Chuck E Cheese Summer Show 2023" >}} will play outside the timeframe for this show. This is the second CEC Media Network exclusive show.**
+***Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023*** is the night summer show released July 26, 2023.
+This showtape was created to promote the KIDZ BOP Never Stop Party series of concerts. This show runs from 6pm to closing. 
 
-### Advertising
+### Show List 09/05 Update:
+
+1. Intermission 1  
+    1.  Chuck E. Cheese - 'Do The Chuck E.' (2023) (DJ Munch)
+    2.  KIDZ BOP Bumper 1
+    3.  KIDZ BOP Kids - 'ABC'
+2. Skit 1  
+    1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
+    2.  Helen Henny - 'Disco Dancing Dinosaur Party'
+3. Intermission 2  
+    1.  Chuck E. & Friends - 'Out of This World' (DJ Munch)
+    2.  KIDZ BOP Kids - 'Cuff It'
+    3.  KIDZ BOP Bumper 2
+    4.  KIDZ BOP Kids - 'Unstoppable'
+    5.  KIDZ BOP Kids - 'Flowers'
+    6.  Chuck E. Cheese - 'Chuck E. Says' (2023)
+4. Skit 2  
+    1.  Chuck E. Cheese - 'Let's Have A Party'
+5. Intermission 3  
+    1.  KIDZ BOP Kids - 'River'
+    2.  KIDZ BOP Kids - 'Savage Love'
+    3.  KIDZ BOP Bumper 3
+    4.  KIDZ BOP Kids - 'Sunroof'
+    5.  KIDZ BOP Kids - 'Trustfall'
+6, Skit 3  
+    1.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
+
+### Lives 08/22 Update:
+    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+
+### Show List 08/22 Update:
+
+1. Intermission 1  
+    1.  DJ Munch - 'Song Of Summer Remix'
+    2.  KIDZ BOP Bumper 1
+    3.  KIDZ BOP Kids - 'ABC'
+2. Skit 1  
+    1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
+    2.  Helen Henny - 'Disco Dancing Dinosaur Party'
+3. Intermission 2  
+    1.  Chuck E. & Friends - 'Out of This World' (DJ Munch)
+    2.  KIDZ BOP Kids - 'Cuff It'
+    3.  KIDZ BOP Bumper 2
+    4.  KIDZ BOP Kids - 'Unstoppable'
+    5.  KIDZ BOP Kids - 'Flowers'
+    6.  Chuck E. Cheese - 'Happy Dance' (DJ Munch)
+4. Skit 2  
+    1.  Chuck E. Cheese - 'Let's Have A Party'
+5. Intermission 3  
+    1.  KIDZ BOP Kids - 'River'
+    2.  KIDZ BOP Kids - 'Savage Love'
+    3.  KIDZ BOP Bumper 3
+    4.  KIDZ BOP Kids - 'Sunroof'
+    5.  KIDZ BOP Kids - 'Trustfall'
+6, Skit 3  
+    1.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
+
+### Lives 08/22 Update:
+    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+
+### Show List 08/10 Update:
+
+1. Intermission 1  
+    1.  **Ad Break**
+    2.  DJ Munch - 'Song Of Summer Remix'
+    3.  KIDZ BOP Bumper 1
+    4.  KIDZ BOP Kids - 'ABC'
+    5.  **Ad Break**
+2. Skit 1  
+    1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
+    2.  Helen Henny - 'Disco Dancing Dinosaur Party'
+3. Intermission 2  
+    1.  Chuck E. & Friends - 'Out of This World' (DJ Munch)
+    2.  **Ad Break**
+    3.  KIDZ BOP Kids - 'Cuff It'
+    4.  KIDZ BOP Bumper 2
+    5.  KIDZ BOP Kids - 'Unstoppable'
+    6.  **Ad Break**
+    7.  KIDZ BOP Kids - 'Flowers'
+    8.  Chuck E. Cheese - 'Happy Dance' (DJ Munch)
+4. Skit 2  
+    1.  Chuck E. Cheese - 'Let's Have A Party'
+5. Intermission 3  
+    1.  **Ad Break**
+    2.  KIDZ BOP Kids - 'River'
+    3.  KIDZ BOP Kids - 'Savage Love'
+    4.  KIDZ BOP Bumper 3
+    5.  **Ad Break**
+    6.  KIDZ BOP Kids - 'Sunroof'
+    7.  KIDZ BOP Kids - 'Trustfall'
+6, Skit 3  
+    1.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
+
+
+### Advertising 08/10 Update:
 
 1.  **Ad 1**
     1.  Ecolab
@@ -32,37 +130,71 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
     2.  Birthdays & Youtube Spot
     3.  Fundraising and Group Events
 
-### Entertainment
 
-1.  **Ad Break**
-    1.  DJ Munch - 'Song Of Summer Remix'
-    2.  KIDZ BOP Bumper 1
-    3.  KIDZ BOP Kids - 'ABC'
-2.  **Ad Break**
+### Lives 08/10 Update:
+    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+
+
+### Show List:
+
+1. Intermission 1  
+    1.  **Ad Break**
+    2.  DJ Munch - 'Song Of Summer Remix'
+    3.  KIDZ BOP Bumper 1
+    4.  KIDZ BOP Kids - 'ABC'
+    5.  **Ad Break**
+2. Skit 1  
     1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
     2.  Helen Henny - 'Disco Dancing Dinosaur Party'
-    3.  Koo Koo Kangaroo - 'Backyard Swimsuit' replaced by DJ Munch 'Out Of This World' remix as of 8/21/2023
-3.  **Ad Break**
-    1.  KIDZ BOP Kids - 'Cuff It'
-    2.  KIDZ BOP Bumper 2
-    3.  KIDZ BOP Kids - 'Unstoppable'
-4.  **Ad Break**
-    1.  KIDZ BOP Kids - 'Flowers'
-    2.  DJ Munch - 'Happy Dance Remix'
-    3.  Chuck E. Cheese - 'Let's Have A Party'
-5.  **Ad Break**
-    1.  KIDZ BOP Kids - 'River'
-    2.  KIDZ BOP Kids - 'Savage Love'
-    3.  KIDZ BOP Bumper 3
-6.  **Ad Break**
-    1.  KIDZ BOP Kids - 'Sunroof'
-    2.  KIDZ BOP Kids - 'Trustfall'
-    3.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
+3. Intermission 2  
+    1.  Koo Koo Kangaroo - 'Backyard Swimsuit'
+    2.  **Ad Break**
+    3.  KIDZ BOP Kids - 'Cuff It'
+    4.  KIDZ BOP Bumper 2
+    5.  KIDZ BOP Kids - 'Unstoppable'
+    6.  **Ad Break**
+    7.  KIDZ BOP Kids - 'Flowers'
+    8.  Chuck E. Cheese - 'Happy Dance' (DJ Munch)
+4. Skit 2  
+    1.  Chuck E. Cheese - 'Let's Have A Party'
+5. Intermission 3  
+    1.  **Ad Break**
+    2.  KIDZ BOP Kids - 'River'
+    3.  KIDZ BOP Kids - 'Savage Love'
+    4.  KIDZ BOP Bumper 3
+    5.  **Ad Break**
+    6.  KIDZ BOP Kids - 'Sunroof'
+    7.  KIDZ BOP Kids - 'Trustfall'
+6, Skit 3  
+    1.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
+
+### Advertising:
+
+1.  **Ad 1**
+    1.  Ecolab
+    2.  Samsung & Summer Food & Drink Combos
+    3.  Dippin Dots
+2.  **Ad 2**
+    1.  CEC Birthdays
+    2.  Youtube & Summer Food and Drink Combos
+    3.  Fundraising and Group Events
+3.  **Ad 3**
+    1.  KIDZ BOP Album 2023 Vol. 2 Spot
+    2.  Race World: They Win, You Win! & Food and Drink Combos
+    3.  Zigzaoo Spot
+4.  **Ad 4**
+    1.  Online Store
+    2.  Birthdays & Youtube Spot
+    3.  Fundraising and Group Events
 
 ### Lives:
+    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
 
-- Birthday Show (Navori)
-- Birthday Show (Spanish) (Navori)
-- CEC Stage Diagnostic (Navori)
-- 3-Stage Diagnostic (Navori)
-- Beach Party Bash (Navori)
+### Trivia:
+    1.  8/10 Update - Koo Koo Kangaroo - 'Backyard Swimsuit'is replaced with Chuck E. & Friends - 'Out of This World' (DJ Munch)
+    2.  08/22 Update - 'Ad Break' are removed as spots on the show. Instead now being every 60 second ad breaks are scheduled to play every 10 minutes.
+    3.  09/05 Update - 
