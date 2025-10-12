@@ -4,7 +4,7 @@ title = "Concept Unification 1-Stage"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "6tOW79wZ7w4pl45dbEdH.avif"
-contributors = ["Documentor", "BigCtheDataFinder", "The 64th Gamer", "ShowBizMidwest", "CEC Tinley", "ThatBoiCydalan", "CorrectorMan", "CECMentor", "Livelycheese", "BurgersNuggs445", "Veronancy", "AstridMascotFan2005", "Caydenpedia", "Cy's Junk at School"]
+contributors = ["CyberSnout", "BigCtheDataFinder", "The 64th Gamer", "ShowBizMidwest", "CEC Tinley", "ThatBoiCydalan", "CorrectorMan", "CECMentor", "Livelycheese", "BurgersNuggs445", "Veronancy", "AstridMascotFan2005", "Caydenpedia", "Cy's Junk at School"]
 citations = ["<a href=\"https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html\">https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html</a>", "<ref></ref>", "<a href=\"https://www.youtube.com/watch?v=dZAohaEg3xk\">https://www.youtube.com/watch?v=dZAohaEg3xk</a>", "<a href=\"https://www.youtube.com/watch?v=LZsvTJTk8ek\">https://www.youtube.com/watch?v=LZsvTJTk8ek</a>", "<a href=\"https://www.youtube.com/watch?v=MXCw_4PAtsY\">https://www.youtube.com/watch?v=MXCw_4PAtsY</a>"]
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]

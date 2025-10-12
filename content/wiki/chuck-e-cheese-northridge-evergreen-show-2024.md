@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-01-02"
 endDate = "0000-00-00"
-contributors = ["Cheeseclassic","Documentor","Cy's Junk at School"]
+contributors = ["Cheeseclassic","CyberSnout","Cy's Junk at School"]
 citations = []
 showtapeFormats = ["Cyberamics Networking Module Files"]
 +++

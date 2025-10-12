@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-10-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","ShowBiz Pizza International"]
+contributors = ["CyberSnout","ShowBiz Pizza International"]
 citations = []
 +++
 **Chuck E. Cheese International Show 4 2022** is the fall show released October 2022.

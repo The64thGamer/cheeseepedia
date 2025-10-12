@@ -5,7 +5,7 @@ tags = ["Live Shows"]
 categories = [""]
 startDate = "2004-04-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","Mousester"]
+contributors = ["The 64th Gamer","CyberSnout","Mousester"]
 citations = []
 +++
 **Road Show 2004** was released in April 2004 and featured two road shows (one new, and one reused from September 2000).

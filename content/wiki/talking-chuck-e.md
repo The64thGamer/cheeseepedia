@@ -5,7 +5,7 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = []
 +++
 ***Talking Chuck E.* was a singular prototype toy created in 1997 by *Streets Player Holdings Corporation*.

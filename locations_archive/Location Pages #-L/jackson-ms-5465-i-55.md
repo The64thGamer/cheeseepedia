@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-08-00"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","Anonymous","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","Documentor"]
+contributors = ["ChuckECool","Rexburg090","BurgersNuggs445","Anonymous","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","CorrectorMan","CyberSnout"]
 citations = ["1986 SPT Remodel Program","<a href=\"{{< ref \"wiki/Concept Unification\" >}}\">Concept Unification</a>","<a href=\"https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png\">https://static.miraheze.org/decodedocdigitizewiki/0/04/Grandopen.png</a>"]
 latitudeLongitude = ["32.37576552","-90.15075508"]
 +++

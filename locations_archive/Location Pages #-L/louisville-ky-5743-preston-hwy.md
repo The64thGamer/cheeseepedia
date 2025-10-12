@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-07-31"
 endDate = "1997-11-08"
-contributors = ["Midwestretail","ChuckECool","Rexburg090","SuperCreamPiper2008","The 64th Gamer","ItzaRob","Krimet Hetgrof","Documentor","CoolerDude","PachCEC","JND","Jaxonia","AstridMascotFan2005"]
+contributors = ["Midwestretail","ChuckECool","Rexburg090","SuperCreamPiper2008","The 64th Gamer","ItzaRob","Krimet Hetgrof","CyberSnout","CoolerDude","PachCEC","JND","Jaxonia","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "BLPZDer1poxG1vtvpYBT.avif"
 latitudeLongitude = ["38.16429637","-85.70346178"]

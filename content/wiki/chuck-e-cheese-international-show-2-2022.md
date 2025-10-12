@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-03-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","Bowling for Cheese"]
+contributors = ["CyberSnout","Bowling for Cheese"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
 +++

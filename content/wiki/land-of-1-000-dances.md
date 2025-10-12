@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-09-00"
 endDate = "1993-07-00"
-contributors = ["Documentor","MultiMonorail"]
+contributors = ["CyberSnout","MultiMonorail"]
 citations = ["https://www.youtube.com/watch?v=-KJrEngl0Zk"]
 mediaDuration = "5:00"
 pageThumbnailFile = "rp5V_BlTyAX12R_4adwc.avif"

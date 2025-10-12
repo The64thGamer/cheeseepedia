@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Documentor","Anonymous","Rexburg090","CEC Tinley"]
+contributors = ["CyberSnout","Anonymous","Rexburg090","CEC Tinley"]
 citations = ["https://www.flickr.com/photos/189618002@N05/52878017917/in/dateposted-public/","https://youtu.be/MoB6xLHPLQA?t=160","https://www.flickr.com/photos/junglejims/354035787/in/dateposted/","https://www.flickr.com/photos/tskirvin/3129443343/in/album-72157611473614497/","https://www.flickr.com/photos/10707024@N04/26159335345","https://youtube.com/shorts/0ef0q2kNZYk?feature=share","https://youtube.com/shorts/qwoXJ4PL3BE?feature=share","https://www.youtube.com/watch?v=fS1jEiCndqo","https://www.youtube.com/watch?v=gG1gtJh402U","https://www.youtube.com/watch?v=BThv_m6Xt5E"]
 +++
 ***Birdies*** are a retrofit of {{< wiki-link "Warblettes (Cyberamic)" >}} at *Jungle Jim's International Market* in Cincinnati, Ohio. (4450 Eastgate S Dr, Cincinnati, OH 45245)

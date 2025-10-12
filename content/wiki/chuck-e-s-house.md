@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowBizMidwest","Anonymous","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","Documentor","CEC1988","Caydenpedia"]
+contributors = ["CECBowlingGreen","BurgersNuggs445","The 64th Gamer","ChuckEPediaIsTheBest!","Ceclife13","RedaCEC","Rexburg090","ShowBizMidwest","Anonymous","BigCtheDataFinder","CECCheese","CorrectorMan","Cheeseclassic","Midwestretail","CyberSnout","CEC1988","Caydenpedia"]
 citations = ["<a href=\"http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>"]
 pageThumbnailFile = "I1bU0zBfKtZssmBpq9dR.avif"
 +++

@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = ["Cincinnati, OH (11400 Princeton Pike)","https://www.worthpoint.com/worthopedia/jungle-jims-international-market-3726671078","https://www.flickr.com/photos/189618002@N05/52860301199/in/dateposted-public/","https://cheeseepedia.org/w/index.php?title=File:Elvisoriginal.jpg&filetimestamp=20230203034737&","https://www.newspapers.com/clip/79897864/jj/","https://www.facebook.com/photo/?fbid=312435750854&set=a.290534745854","http://www.showbizpizza.com/photos/misc/elvisshow/index.html","https://flickr.com/photos/junglejims/361911122/in/album-72157594477885672/","https://www.youtube.com/watch?v=enqyOObhn88","https://www.youtube.com/watch?v=qN7oQ_zdfwY","https://flickr.com/photos/10707024@N04/5961817521","https://flickr.com/photos/mccoysplace/5857909945/","https://www.youtube.com/watch?v=OdFMOEmi94g","https://cheeseepedia.org/w/index.php?title=File:2019sign.png&filetimestamp=20220530015806&","https://www.facebook.com/watch/?v=1723797481083942","https://flickr.com/photos/mccoysplace/5857909945/","https://youtu.be/qN7oQ_zdfwY?t=268","https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/","https://www.flickr.com/photos/189618002@N05/52860515960/in/dateposted-public/","https://www.flickr.com/photos/189618002@N05/52860515960/in/dateposted-public/","https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/","https://youtu.be/qN7oQ_zdfwY?t=322","https://www.newspapers.com/clip/79897864/jj/","https://www.flickr.com/photos/tskirvin/3129419949/in/album-72157611473614497/"]
 pageThumbnailFile = "EifT1FBagyLX3ChYEU6m.avif"
 +++

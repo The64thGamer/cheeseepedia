@@ -5,7 +5,7 @@ tags = ["Animatronic Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = ""
-contributors = ["The Nonfictional Explainer","Sponch man","Himitsu","The 64th Gamer","Chouts1","CECBowlingGreen","BurgersNuggs445","Stripes","Jaxon11","Documentor","Mr afton","Ceclife13","EagleScout610","AstridMascotFan2005","ItaintObeeezy","Avabeckley","Livelycheese","Caydenpedia"]
+contributors = ["The Nonfictional Explainer","Sponch man","Himitsu","The 64th Gamer","Chouts1","CECBowlingGreen","BurgersNuggs445","Stripes","Jaxon11","CyberSnout","Mr afton","Ceclife13","EagleScout610","AstridMascotFan2005","ItaintObeeezy","Avabeckley","Livelycheese","Caydenpedia"]
 citations = []
 pageThumbnailFile = "Pgsmr42LUCJVhFZ0qxuu.avif"
 +++

@@ -5,7 +5,7 @@ tags = ["User"]
 categories = []
 startDate = "2024-05-30"
 endDate = ""
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 +++
 trans rights

@@ -4,7 +4,7 @@ draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2021-03-00"
-contributors = ["ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","ThatBoiCydalan","Anonymous","Blowseborg062","Anonymous","Slussier1","CoolerDude","Cheeseclassic","AnthonyRWikis7283","Caydenpedia","Documentor","Harchambeault2026","Stripes","Cecanddisneyfan2004","AlexisCEC","AstridMascotFan2005","CEC1988","BenTrainFan2000"]
+contributors = ["ChuckEPediaIsTheBest!","Rexburg090","BurgersNuggs445","ThatBoiCydalan","Anonymous","Blowseborg062","Anonymous","Slussier1","CoolerDude","Cheeseclassic","AnthonyRWikis7283","Caydenpedia","CyberSnout","Harchambeault2026","Stripes","Cecanddisneyfan2004","AlexisCEC","AstridMascotFan2005","CEC1988","BenTrainFan2000"]
 citations = ["<a href=\"https://showbizpizza.com/info/documents/spt/spt_87entertainment.pdf\">https://showbizpizza.com/info/documents/spt/spt_87entertainment.pdf</a>"]
 pageThumbnailFile = "BiX9l5Uj2yxanybkY5XN.avif"
 +++

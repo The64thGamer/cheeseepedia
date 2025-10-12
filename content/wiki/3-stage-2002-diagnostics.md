@@ -4,7 +4,7 @@ title = "3-Stage 2002 Diagnostics"
 startDate = "2002-00-00"
 endDate = "2008-00-00"
 pageThumbnailFile = "ruqxZWC0M3IiiloIvZMu.avif"
-contributors = ["Documentor", "The 64th Gamer", "Parum33", "CyCGM"]
+contributors = ["CyberSnout", "The 64th Gamer", "Parum33", "CyCGM"]
 citations = ["https://www.youtube.com/watch?v=jLgTbE6psxk"]
 mediaDuration = "42:52"
 showtapeFormats = ["3-Stage SVHS (Post-93)"]

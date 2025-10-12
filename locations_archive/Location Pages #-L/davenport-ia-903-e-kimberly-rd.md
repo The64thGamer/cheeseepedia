@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1981-02-25"
 endDate = "2024-04-07"
-contributors = ["ChuckECool","Anonymous","ShowBizMidwest","Anonymous","Documentor","Cheeseclassic","CoolerDude"]
+contributors = ["ChuckECool","Anonymous","ShowBizMidwest","Anonymous","CyberSnout","Cheeseclassic","CoolerDude"]
 citations = ["<a href=\"https://www.kwqc.com/2024/04/07/davenport-chuck-e-cheese-close-sunday/?outputType=amp\">https://www.kwqc.com/2024/04/07/davenport-chuck-e-cheese-close-sunday/?outputType=amp</a>"]
 pageThumbnailFile = "Av3QZUfBGffSGOloYCBY.avif"
 latitudeLongitude = ["41.55574582","-90.56374873"]

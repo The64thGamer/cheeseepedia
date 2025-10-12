@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2023-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = ["<ref></ref>","<ref></ref>","<a href=\"https://www.facebook.com/events/s/chuck-e-cheese-live-announceme/1038949547126773/\">https://www.facebook.com/events/s/chuck-e-cheese-live-announceme/1038949547126773/</a>"]
 pageThumbnailFile = "7zxRfyqzMRJXx63mN7Km.avif"
 +++

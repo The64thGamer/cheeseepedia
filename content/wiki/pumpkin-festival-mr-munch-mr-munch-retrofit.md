@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = []
 +++
 ***Pumpkin Festival Munch* is a retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}} at *Burger Farm & Garden Center* in Cincinnati, Ohio (7849 Main St. (RT 32), Cincinnati, OH 45244).**

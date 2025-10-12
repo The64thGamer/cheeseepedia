@@ -4,7 +4,7 @@ title = "May 1998 Studio C"
 startDate = "1998-05-00"
 endDate = "1998-08-00"
 pageThumbnailFile = "n6N3Ri2j2SKwJvCKkYUq.avif"
-contributors = ["Documentor", "The 64th Gamer", "Ceclife13"]
+contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=6QRS--fDlbQ&t=649s"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]

@@ -7,7 +7,7 @@ categories = [""]
 
 startDate = "1990-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=7fFr8LQnoC0\">https://www.youtube.com/watch?v=7fFr8LQnoC0</a>"]
 mediaDuration = "7:32"
 pageThumbnailFile = "t02zZfvxFldAQPZIWoct.avif"

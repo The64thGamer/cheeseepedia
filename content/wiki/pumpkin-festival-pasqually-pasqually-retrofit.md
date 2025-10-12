@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 +++
 ***Pumpkin Festival Pasqually* is a retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}} at *Burger Farm & Garden Center* in Cincinnati, Ohio. (7849 Main St. (RT 32), Cincinnati, OH 45244)

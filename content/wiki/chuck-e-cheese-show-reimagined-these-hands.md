@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-06-26"
 endDate = "2024-06-26"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = ["https://youtu.be/A4kEZka1AC4","https://www.youtube.com/watch?v=cwnts3uq4mg"]
 +++
 ***These Hands from {{< wiki-link "Working For A Living" >}}* was a segment programmed at CEC Corporate by *Donovan Marcelle* for fun.

@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1984-08-06"
 endDate = ""
-contributors = ["RedaCEC","Anonymous","Rexburg090","ChuckEPediaIsTheBest!","Anonymous","The 64th Gamer","BoyInCharge55","Anonymous","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","Documentor","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]
+contributors = ["RedaCEC","Anonymous","Rexburg090","ChuckEPediaIsTheBest!","Anonymous","The 64th Gamer","BoyInCharge55","Anonymous","Chuckstar69","CEC Tinley","Caydenpedia","CoolerDude","Cy's Junk at School","Aubreemasterson","CEC1988","CyberSnout","AstridMascotFan2005","Jaxonia","Livelycheese","Ewpplk"]
 citations = []
 pageThumbnailFile = "0ScuDg73CLoazL0A9UI3.avif"
 latitudeLongitude = ["45.78056822","-108.4997062"]

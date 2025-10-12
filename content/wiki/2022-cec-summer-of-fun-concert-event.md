@@ -5,7 +5,7 @@ tags = ["Events"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","Mousester","The 64th Gamer","Himitsu"]
+contributors = ["CyberSnout","Mousester","The 64th Gamer","Himitsu"]
 citations = []
 +++
 The ***Chuck E. Cheese Summer of Fun Concert* was an event that performed in four states and ran for around 24 minutes.

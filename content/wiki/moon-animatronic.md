@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","Anonymous","Rexburg090","ShowBizMidwest","CEC Tinley","Documentor","Anonymous","CECMentor","AstridMascotFan2005"]
+contributors = ["CECBowlingGreen","Anonymous","Rexburg090","ShowBizMidwest","CEC Tinley","CyberSnout","Anonymous","CECMentor","AstridMascotFan2005"]
 citations = []
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "7EQm2t_6YPFJ2aX_ePjy.avif"

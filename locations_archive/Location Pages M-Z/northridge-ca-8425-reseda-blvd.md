@@ -3,7 +3,7 @@ draft = false
 title = "Northridge, CA (8425 Reseda Blvd)"
 startDate = "1981-09-00"
 endDate = ""
-contributors = ["CECBowlingGreen", "ChuckECool", "RedaCEC", "ChuckEPediaIsTheBest!", "Anonymous", "Rexburg090", "Jonn", "CorrectorMan", "ThatBoiCydalan", "Anonymous", "The 64th Gamer", "Anonymous", "Cheeseclassic", "Documentor", "CoolerDude", "ShowBizMidwest", "AstridMascotFan2005", "PizzaEntertainmentFanX", "CECMentor", "Cecanddisneyfan2004", "Caydenpedia", "CEC1988", "Chouts1"]
+contributors = ["CECBowlingGreen", "ChuckECool", "RedaCEC", "ChuckEPediaIsTheBest!", "Anonymous", "Rexburg090", "Jonn", "CorrectorMan", "ThatBoiCydalan", "Anonymous", "The 64th Gamer", "Anonymous", "Cheeseclassic", "CyberSnout", "CoolerDude", "ShowBizMidwest", "AstridMascotFan2005", "PizzaEntertainmentFanX", "CECMentor", "Cecanddisneyfan2004", "Caydenpedia", "CEC1988", "Chouts1"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</a>", "<ref></ref>", "<a href=\"https://www.chuckecheese.com/northridge-residency/\">https://www.chuckecheese.com/northridge-residency/</a>"]
 latitudeLongitude = ["34.22206872", "-118.5379601"]
 tags = ["Locations"]

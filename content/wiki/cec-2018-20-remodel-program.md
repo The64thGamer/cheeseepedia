@@ -5,7 +5,7 @@ tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2017-07-00"
 endDate = ""
-contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Documentor","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic","Caydenpedia","AstridMascotFan2005"]
+contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","CyberSnout","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic","Caydenpedia","AstridMascotFan2005"]
 citations = ["<ref></ref>","<a href=\"https://www.chuckecheese.com/trampolines/\">https://www.chuckecheese.com/trampolines/</a>"]
 pageThumbnailFile = "bkCoegBxsBs27iVNef_d.avif"
 +++

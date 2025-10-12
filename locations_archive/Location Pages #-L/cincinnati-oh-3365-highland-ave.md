@@ -4,7 +4,7 @@ title = "Cincinnati, OH (3365 Highland Ave)"
 startDate = "1982-11-11"
 endDate = "1985-12-00"
 pageThumbnailFile = "FWMcQP6cCrxlJAzSSLKl.avif"
-contributors = ["Documentor", "The 64th Gamer", "Rexburg090", "CECMentor"]
+contributors = ["CyberSnout", "The 64th Gamer", "Rexburg090", "CECMentor"]
 citations = ["<a href=\"https://www.newspapers.com/image/103319155/\">https://www.newspapers.com/image/103319155/</a>", "<a href=\"https://www.newspapers.com/image/101720183/\">https://www.newspapers.com/image/101720183/</a>", "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-cincinna/32794259/"]
 latitudeLongitude = ["39.16845822", "-84.42462983"]
 tags = ["Locations"]

@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-10-27"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","ThatBoiCydalan","Caydenpedia","PachCEC","Stripes","CECMentor","Cheeseclassic","ShowBizMidwest","Cecnj98","Documentor"]
+contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","ThatBoiCydalan","Caydenpedia","PachCEC","Stripes","CECMentor","Cheeseclassic","ShowBizMidwest","Cecnj98","CyberSnout"]
 citations = []
 pageThumbnailFile = "cOdIUHDLZ9eMPW7Zshdj.avif"
 latitudeLongitude = ["39.09615392","-76.85633373"]

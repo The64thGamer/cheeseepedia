@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 pageThumbnailFile = "_1ATobDDks3Tl9gU3jRj.avif"
 showtapeFormats = ["Cyberamics Reel"]

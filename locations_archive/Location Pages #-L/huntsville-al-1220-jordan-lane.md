@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-06-08"
 endDate = ""
-contributors = ["CECBowlingGreen","Rexburg090","ChuckfeldStan","Anonymous","Anonymous","Bowling for Cheese","Anonymous","Anonymous","Anonymous","The 64th Gamer","Anonymous","Chuckstar69","MFHALSTON","Anonymous","CyCGM","ThatBoiCydalan","SuperCreamPiper2008","Documentor","CECMentor","Animatronicbrainrot","Livelycheese"]
+contributors = ["CECBowlingGreen","Rexburg090","ChuckfeldStan","Anonymous","Anonymous","Bowling for Cheese","Anonymous","Anonymous","Anonymous","The 64th Gamer","Anonymous","Chuckstar69","MFHALSTON","Anonymous","CyCGM","ThatBoiCydalan","SuperCreamPiper2008","CyberSnout","CECMentor","Animatronicbrainrot","Livelycheese"]
 citations = []
 latitudeLongitude = ["34.73886342","-86.62822578"]
 +++

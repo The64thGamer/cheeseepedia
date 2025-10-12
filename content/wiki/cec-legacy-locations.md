@@ -4,7 +4,7 @@ title = "CEC Legacy Locations"
 startDate = "2023-07-25"
 endDate = ""
 pageThumbnailFile = "tL4JFKT5JXRhd4K9iP6Q.avif"
-contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "Anonymous", "Ceclife13", "ChuckfeldStan", "Anonymous", "Anonymous", "CEC Tinley", "Anonymous", "BurgersNuggs445", "Anonymous", "Anonymous", "ConceptUnification2.0", "SuperCreamPiper2008", "Documentor", "PizzaEntertainmentFanX", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
+contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "Anonymous", "Ceclife13", "ChuckfeldStan", "Anonymous", "Anonymous", "CEC Tinley", "Anonymous", "BurgersNuggs445", "Anonymous", "Anonymous", "ConceptUnification2.0", "SuperCreamPiper2008", "CyberSnout", "PizzaEntertainmentFanX", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
 citations = ["(Content Missing)", "(Content Missing)", "https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/", "https://www.linkedin.com/feed/update/urn:li:ugcPost:7288158894101540865?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7290111496393502721%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7294008473904680960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287290111496393502721%2Curn%3Ali%3AugcPost%3A7288158894101540865%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287294008473904680960%2Curn%3Ali%3AugcPost%3A7288158894101540865%29", "https://cheeseepedia.org/photos/890u298fj23f.avif", "https://cheeseepedia.org/photos/9832u49823j4t.avif"]
 tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]

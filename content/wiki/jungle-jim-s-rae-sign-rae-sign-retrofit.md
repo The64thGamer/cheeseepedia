@@ -4,7 +4,7 @@ title = "Jungle Jim's RAE Sign (RAE Sign Retrofit)"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "x1g1tgPXCfbFByOFOpn9.avif"
-contributors = ["Documentor", "CyberSnout"]
+contributors = ["CyberSnout", "CyberSnout"]
 citations = ["https://youtu.be/wXQxEUeOkok?t=445"]
 tags = ["Retrofits"]
 categories = ["Jungle Jim's"]

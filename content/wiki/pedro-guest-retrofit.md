@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["SuperCreamPiper2008","Documentor","CEC Tinley"]
+contributors = ["SuperCreamPiper2008","CyberSnout","CEC Tinley"]
 citations = ["https://junglejims.com/wp-content/uploads/Fairfield_Map_June2021_Web.pdf","https://www.flickr.com/photos/189618002@N05/52884391500/in/dateposted-public/","https://www.flickr.com/photos/junglejims/361704333/in/dateposted/","https://www.flickr.com/photos/10707024@N04/51975092511/in/photolist-6siHPP-2nbRWdF/","https://www.youtube.com/watch?v=op5czU4odE0","https://www.youtube.com/watch?v=hkxz7UMiiRg","https://www.youtube.com/watch?v=dQZlrQOXHyw","https://youtu.be/hbnYZ5QA3Zc","https://www.youtube.com/watch?v=neH6jzJqFPs","https://youtu.be/y0kHpbMjNiA","https://www.youtube.com/watch?v=Z0i9PJZXfME","https://www.youtube.com/watch?v=fS1jEiCndqo","https://www.youtube.com/watch?v=JMIuAxaNTr8","https://www.youtube.com/watch?v=ZTB3oXpgzaI","https://www.youtube.com/watch?v=9rBW3tRA-nI"]
 +++
 ***Pedro is* a retrofit of {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}} at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)

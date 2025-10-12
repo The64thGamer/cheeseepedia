@@ -5,6 +5,6 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 +++

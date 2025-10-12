@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1988-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","CEC Tinley","Cy's Junk at School"]
+contributors = ["The 64th Gamer","CyberSnout","CEC Tinley","Cy's Junk at School"]
 citations = []
 mediaDuration = "9:57"
 pageThumbnailFile = "m343ZtjFK3uTm55jtFnG.avif"

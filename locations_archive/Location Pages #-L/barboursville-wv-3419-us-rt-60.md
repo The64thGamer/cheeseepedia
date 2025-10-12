@@ -7,7 +7,7 @@ categories = []
 
 startDate = "1986-00-00"
 endDate = "1988-00-00"
-contributors = ["Midwestretail","Anonymous","Emcaacme","CECFan2023","Rexburg090","SuperCreamPiper2008","Documentor"]
+contributors = ["Midwestretail","Anonymous","Emcaacme","CECFan2023","Rexburg090","SuperCreamPiper2008","CyberSnout"]
 citations = []
 pageThumbnailFile = "hlgyMiq7CvPd0DhEbIlB.avif"
 +++

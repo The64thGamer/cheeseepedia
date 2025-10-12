@@ -5,6 +5,6 @@ tags = ["Live Shows"]
 categories = [""]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 +++

@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1998-03-19"
 endDate = "2020-06-00"
-contributors = ["CECBowlingGreen","Documentor","John95","BurgersNuggs445","Rexburg090","CEC Tinley","Anonymous","ShowBizMidwest"]
+contributors = ["CECBowlingGreen","CyberSnout","John95","BurgersNuggs445","Rexburg090","CEC Tinley","Anonymous","ShowBizMidwest"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=LsFA_8HVE5k\">https://www.youtube.com/watch?v=LsFA_8HVE5k</a>"]
 latitudeLongitude = ["44.28024232","-88.43975768"]
 +++

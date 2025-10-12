@@ -4,7 +4,7 @@ title = "Gastonia, NC (416 Cox Rd)"
 startDate = "2005-11-27"
 endDate = ""
 pageThumbnailFile = "k4DBmjtdr8Okl3qqpU9A.avif"
-contributors = ["Rexburg090", "Anonymous", "Nerdychucke", "Documentor", "Clownzin"]
+contributors = ["Rexburg090", "Anonymous", "Nerdychucke", "CyberSnout", "Clownzin"]
 citations = ["https://www.youtube.com/watch?v=OnosgqEaJ9Y"]
 latitudeLongitude = ["35.26140407", "-81.13407748"]
 tags = ["Locations"]

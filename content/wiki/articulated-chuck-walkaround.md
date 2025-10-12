@@ -5,7 +5,7 @@ tags = ["Costumed Characters"]
 categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["ShowBizMidwest","BurgersNuggs445","Anonymous","Documentor","The 64th Gamer","OnionMastori"]
+contributors = ["ShowBizMidwest","BurgersNuggs445","Anonymous","CyberSnout","The 64th Gamer","OnionMastori"]
 citations = ["https://www.youtube.com/watch?v=BOlOX1q0pzY"]
 pageThumbnailFile = "VkEY4pDk9g8qDD7GV2CU.avif"
 +++

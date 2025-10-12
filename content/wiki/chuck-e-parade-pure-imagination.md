@@ -5,7 +5,7 @@ tags = ["Live Shows"]
 categories = [""]
 startDate = "1990-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = []
 mediaDuration = "9:00"
 +++

@@ -5,7 +5,7 @@ tags = ["Social Media and Websites"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","Anonymous","Documentor","BurgersNuggs445"]
+contributors = ["CECBowlingGreen","Anonymous","CyberSnout","BurgersNuggs445"]
 citations = []
 +++
 The **Chuck E. Cheese Online Store** is the online store for the Chuck E. Cheese brand, it was originally launched in 2002, relaunched in 2020 , and currently sells clothing and toys with the CEC characters on it.

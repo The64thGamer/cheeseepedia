@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = []
 startDate = "2010-06-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor"]
+contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 +++
 **Summer 2010** is the summer show released June 2010. Featuring 8 songs some from {{< wiki-link "April 2010 Show" >}} and some from {{< wiki-link "Summer 2007 Show" >}} .

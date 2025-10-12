@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","Jaxon11","Anonymous","CEC Tinley","BoyInCharge55","ShowBizMidwest","Ptt1977","Cheeseclassic","CECMentor","Nerdychucke","Documentor"]
+contributors = ["CECBowlingGreen","Jaxon11","Anonymous","CEC Tinley","BoyInCharge55","ShowBizMidwest","Ptt1977","Cheeseclassic","CECMentor","Nerdychucke","CyberSnout"]
 citations = []
 pageThumbnailFile = "_kGmQAnDHG7LK8Gff7kU.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"

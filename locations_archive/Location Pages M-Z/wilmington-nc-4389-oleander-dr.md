@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1984-07-23"
 endDate = "2020-10-13"
-contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowBizMidwest","Anonymous","Documentor","Anonymous","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
+contributors = ["CECBowlingGreen","ChuckECool","Rexburg090","ShowBizMidwest","Anonymous","CyberSnout","Anonymous","ThatBoiCydalan","CorrectorMan","CEC Tinley","Caydenpedia","Cheeseclassic","CECMentor","Cy's Junk at School"]
 citations = ["<a href=\"https://youtu.be/DVMzjfxbGAo\">https://youtu.be/DVMzjfxbGAo</a>","<a href=\"https://www.wwaytv3.com/clean-eatz-to-open-new-headquarters-in-wilmington/\">https://www.wwaytv3.com/clean-eatz-to-open-new-headquarters-in-wilmington/</a>"]
 pageThumbnailFile = "gTvA7qxpZeyZwlftUumC.avif"
 latitudeLongitude = ["34.20992217","-77.89066178"]

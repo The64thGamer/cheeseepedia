@@ -4,7 +4,7 @@ title = "September 2011 Show"
 startDate = "2011-09-00"
 endDate = "2011-11-24"
 pageThumbnailFile = "YP9rKr5PW1SSLfTxHKsI.avif"
-contributors = ["The 64th Gamer", "Documentor", "John95", "Anonymous", "Ceclife13"]
+contributors = ["The 64th Gamer", "CyberSnout", "John95", "Anonymous", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=XN6-ayiwhPM"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator", "Deva George - Animator", "Logan 'Robot' Gladden - Little Pasqually"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]

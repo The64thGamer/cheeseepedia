@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","ShowBizMidwest","Documentor","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
+contributors = ["CECBowlingGreen","ShowBizMidwest","CyberSnout","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
 citations = ["<ref></ref>","<a href=\"https://www.youtube.com/watch?v=pf2m1JIehL8\">https://www.youtube.com/watch?v=pf2m1JIehL8</a>"]
 +++
 

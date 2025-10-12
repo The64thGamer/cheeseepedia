@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-07-19"
 endDate = "0000-00-00"
-contributors = ["Documentor","Dame0824"]
+contributors = ["CyberSnout","Dame0824"]
 citations = []
 pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
 +++

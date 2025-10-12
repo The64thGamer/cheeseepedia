@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1999-04-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","BurgersNuggs445","EagleScout610","Anonymous","Bullseye123","Cheeseclassic"]
+contributors = ["The 64th Gamer","CyberSnout","BurgersNuggs445","EagleScout610","Anonymous","Bullseye123","Cheeseclassic"]
 citations = ["","https://www.youtube.com/watch?v=VTmxzgjgpmE","https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
 pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
 showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]

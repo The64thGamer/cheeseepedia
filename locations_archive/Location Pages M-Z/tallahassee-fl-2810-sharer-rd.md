@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1992-04-07"
 endDate = ""
-contributors = ["CorrectorMan","Rexburg090","ThatBoiCydalan","Anonymous","Anonymous","Anonymous","Caydenpedia","Saan1ty","Cheeseclassic","The 64th Gamer","TailsFan628","CoolerDude","Documentor","Cy's Junk at School","AstridMascotFan2005","UltimatelyFun","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
+contributors = ["CorrectorMan","Rexburg090","ThatBoiCydalan","Anonymous","Anonymous","Anonymous","Caydenpedia","Saan1ty","Cheeseclassic","The 64th Gamer","TailsFan628","CoolerDude","CyberSnout","Cy's Junk at School","AstridMascotFan2005","UltimatelyFun","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA"]
 citations = ["<ref></ref>"]
 pageThumbnailFile = "T1HxzcXFZ3pD7eUb4ZSn.avif"
 latitudeLongitude = ["30.47934647","-84.29800823"]

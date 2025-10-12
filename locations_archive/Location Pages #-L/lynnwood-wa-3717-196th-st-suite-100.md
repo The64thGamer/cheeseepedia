@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1986-08-00"
 endDate = "2023-07-23"
-contributors = ["RPCEC","Rexburg090","BurgersNuggs445","Anonymous","ShowBizMidwest","CorrectorMan","Anonymous","ThatBoiCydalan","CorrectorManBackup","Documentor","Anonymous","Ceclife13","ChuckfeldStan","Midwestretail","JKC5","Anonymous","Anonymous","The ChuckSter","TheRealWFan","Anonymous","Caydenpedia","CECMentor","AstridMascotFan2005"]
+contributors = ["RPCEC","Rexburg090","BurgersNuggs445","Anonymous","ShowBizMidwest","CorrectorMan","Anonymous","ThatBoiCydalan","CorrectorManBackup","CyberSnout","Anonymous","Ceclife13","ChuckfeldStan","Midwestretail","JKC5","Anonymous","Anonymous","The ChuckSter","TheRealWFan","Anonymous","Caydenpedia","CECMentor","AstridMascotFan2005"]
 citations = ["<a href=\"https://youtu.be/P5jWGLGoklY\">https://youtu.be/P5jWGLGoklY</a>","<a href=\"https://youtu.be/65moOuaAWd8\">https://youtu.be/65moOuaAWd8</a>"]
 pageThumbnailFile = "6ZAPV6xJHoYLskaKKgmF.avif"
 latitudeLongitude = ["47.826349","-122.29243"]

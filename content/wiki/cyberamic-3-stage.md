@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","Shmigobuff","Anonymous","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","Anonymous","Anonymous","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","Documentor"]
+contributors = ["CECBowlingGreen","Shmigobuff","Anonymous","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","Anonymous","Anonymous","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","CyberSnout"]
 citations = []
 +++
 

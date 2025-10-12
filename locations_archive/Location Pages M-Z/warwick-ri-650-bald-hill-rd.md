@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2000-00-00"
 endDate = ""
-contributors = ["Rexburg090","Anonymous","CECBowlingGreen","Blowseborg062","Anonymous","Anonymous","Anonymous","Anonymous","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","Documentor"]
+contributors = ["Rexburg090","Anonymous","CECBowlingGreen","Blowseborg062","Anonymous","Anonymous","Anonymous","Anonymous","CEC Tinley","Estsproduction","Cheeseclassic","Harchambeault2026","Saan1ty","ThatBoiCydalan","CyberSnout"]
 citations = ["<a href=\"https://www.instagram.com/p/BWxrCCRA4u3/\">https://www.instagram.com/p/BWxrCCRA4u3/</a>","<a href=\"https://www.youtube.com/watch?v=3gnHV6I7wrc\">https://www.youtube.com/watch?v=3gnHV6I7wrc</a>"]
 pageThumbnailFile = "LUKu9rfdMhVJCNFUVVoG.avif"
 latitudeLongitude = ["41.72066187","-71.48292433"]

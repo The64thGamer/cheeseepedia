@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Creative Engineering"]
 startDate = "2006-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer","YBP123"]
+contributors = ["CyberSnout","The 64th Gamer","YBP123"]
 citations = ["https://www.youtube.com/watch?v=P9phDrePjCA"]
 transcriptions = ["Roast Beef Sandwich and a Pizza"]
 +++

@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","Anonymous","BurgersNuggs445","JamesLemony","Rexburg090","ShowBizMidwest","Anonymous","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","Documentor","TestAccount6777","Stripes"]
+contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","Anonymous","BurgersNuggs445","JamesLemony","Rexburg090","ShowBizMidwest","Anonymous","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","CyberSnout","TestAccount6777","Stripes"]
 citations = ["<a href=\"https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf\">https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf</a>"]
 pageThumbnailFile = "QcyFuSAsH7P5H7TPM8KE.avif"
 +++

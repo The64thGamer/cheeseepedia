@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2000-12-20"
 endDate = "2024-09-15"
-contributors = ["Cheezy","Anonymous","Caydenpedia","Livelycheese","Ilikethisfanbase","Cheeseclassic","AstridMascotFan2005","CECswag2009","Documentor"]
+contributors = ["Cheezy","Anonymous","Caydenpedia","Livelycheese","Ilikethisfanbase","Cheeseclassic","AstridMascotFan2005","CECswag2009","CyberSnout"]
 citations = ["<a href=\"https://www.reddit.com/r/chuckecheese/comments/1fhrshk/oh/\">https://www.reddit.com/r/chuckecheese/comments/1fhrshk/oh/</a>"]
 pageThumbnailFile = "YXKUONDwMQ9pvFwU_KSY.avif"
 latitudeLongitude = ["40.35448527","-75.98296093"]

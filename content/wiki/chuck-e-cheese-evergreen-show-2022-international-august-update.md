@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","ShowBiz Pizza International"]
+contributors = ["CyberSnout","ShowBiz Pizza International"]
 citations = []
 +++
 ***Evergreen Show 2022 International (August Update)* is an update for **Weigl only** of the {{< wiki-link "Chuck E Cheese Evergreen Show 2022 International" >}} show with the only change being the removal of the signals. This update released August 25, 2022.

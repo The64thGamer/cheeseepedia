@@ -7,7 +7,7 @@ categories = [""]
 
 startDate = "2001-00-00"
 endDate = "0000-00-00"
-contributors = ["Pasquallytheplumber","Documentor","BenTrainFan2000"]
+contributors = ["Pasquallytheplumber","CyberSnout","BenTrainFan2000"]
 citations = []
 mediaDuration = "2:47"
 pageThumbnailFile = "r6LfXL7ZkWBC1WS2pHqn.avif"

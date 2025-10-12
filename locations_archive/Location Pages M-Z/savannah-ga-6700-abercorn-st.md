@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-10-05"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","The 64th Gamer","Caydenpedia","CEC Knoxville","Documentor","CoolerDude"]
+contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","The 64th Gamer","Caydenpedia","CEC Knoxville","CyberSnout","CoolerDude"]
 citations = []
 downloadLinks = ["https://ia800308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Georgia/6700Abercorn_9106380000.pdf|"]
 latitudeLongitude = ["32.01422807","-81.11322273"]

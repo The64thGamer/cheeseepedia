@@ -5,7 +5,7 @@ tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2005-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer"]
+contributors = ["CyberSnout","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "sSKABdHILewS67yQXlTD.avif"
 +++

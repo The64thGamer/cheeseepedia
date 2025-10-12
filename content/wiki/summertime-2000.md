@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2000-07-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","Ceclife13","BurgersNuggs445"]
+contributors = ["The 64th Gamer","CyberSnout","Ceclife13","BurgersNuggs445"]
 citations = []
 pageThumbnailFile = "ZaDaGdETcm2v6asdGrv4.avif"
 +++

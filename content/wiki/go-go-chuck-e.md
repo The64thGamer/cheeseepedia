@@ -5,7 +5,7 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1995-01-00"
 endDate = "0000-00-00"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 +++
 ***Go Go Chuck E.* was a live show released with January 1995,

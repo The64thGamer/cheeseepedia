@@ -20,7 +20,7 @@ Markdown does not support all things, like underlining, or subscript, so you may
 You can use this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) as a reference in your journey to writing with Markdown! We hope that this makes things easier for you, especially when...
 
 ## Transcriptions are on a roll! 🖊️
-Over the past few days, {{< wiki-link "Luigigamin212" >}}, {{< wiki-link "Documentor" >}}, and {{< wiki-link "The 64th Gamer" >}} have been submitting transcriptions of their favorite showtapes. You can see these from the showtape page, but you can also check out {{< wiki-link "Transcriptions" >}} to see what we have currently available! 
+Over the past few days, {{< wiki-link "Luigigamin212" >}}, {{< wiki-link "CyberSnout" >}}, and {{< wiki-link "The 64th Gamer" >}} have been submitting transcriptions of their favorite showtapes. You can see these from the showtape page, but you can also check out {{< wiki-link "Transcriptions" >}} to see what we have currently available! 
 
 The conversion to Markdown has made this even easier to achieve; editors no longer need to memorize confusing tags and formatting.
 
