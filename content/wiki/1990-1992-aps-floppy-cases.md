@@ -5,7 +5,7 @@ tags = ["History"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Himitsu","en>Unknown user"]
+contributors = ["The 64th Gamer","Himitsu","Anonymous"]
 citations = []
 +++
 The ***1990-1992 APS Floppy Cases* is a collection of 5 floppy disk cases containing floppy discs with {{< wiki-link "Animation Programming System" >}} showtapes on them**
