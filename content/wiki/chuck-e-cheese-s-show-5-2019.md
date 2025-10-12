@@ -7,7 +7,7 @@ pageThumbnailFile = "EPKN0v7J8306O_315Dwv.avif"
 contributors = ["Documentor", "Mousester"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-downloadLinks = ["SHOW_5_2019__CEC_STAGE.ISO"]
+downloadLinks = ["https://archive.org/download/show-52019cecstagedvd/SHOW_5_2019__CEC_STAGE.ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
