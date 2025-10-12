@@ -1,40 +1,82 @@
 <h1>User List</h1>
-{{- $contributorCounts := dict -}} <!-- Initialize an empty dictionary to store contributor counts -->
+
+{{- $contributorCounts := dict -}} 
 {{- $site := .Site.RegularPages -}}
 
-{{- range $site -}} <!-- Loop through all regular pages (articles) -->
-  {{- with .Params.contributors -}} <!-- Check if the article has contributors -->
-    {{- range . -}} <!-- Loop through each contributor -->
-      {{- $key := . -}} <!-- Normalize the contributor name -->
-      {{- $contributorCounts = merge $contributorCounts (dict $key (add (index $contributorCounts $key | default 0) 1)) -}} <!-- Increment the count -->
+{{/* Count all contributor occurrences */}}
+{{- range $site -}} 
+  {{- with .Params.contributors -}}
+    {{- range . -}} 
+      {{- $key := . -}} 
+      {{- $contributorCounts = merge $contributorCounts (dict $key (add (index $contributorCounts $key | default 0) 1)) -}} 
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-<!-- Convert the dictionary to a slice and sort by count in descending order -->
+{{/* Convert dict to slice for sorting */}}
 {{- $sortedContributors := slice -}}
 {{- range $key, $value := $contributorCounts -}}
   {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
 {{- end -}}
 {{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
 
-<!-- Print the sorted list of contributors -->
-<div class="contributors">
-<hr>
-<div class="tri-column">
-  <ul>
-  {{- range $sortedContributors -}}
-    <li>
-      {{- $matchingArticles := where $site "Title" .name -}} <!-- Find matching articles -->
-      {{- if and $matchingArticles (gt (len $matchingArticles) 0) -}} <!-- Check for valid matches -->
-        <a href="{{ (index $matchingArticles 0).RelPermalink }}">{{ .name }}</a><sup> (+{{ .count }})</sup>
-      {{- else -}} <!-- If no matching article is found -->
-        {{ .name }}<sup>(+{{ .count }})</sup>
-      {{- end -}}
-    </li>
+{{/* ---- Customizable gradient pairs ---- */}}
+{{- $gradientScale := slice
+    (dict "min" 0 "max" 1 "start" "#464141" "end" "#464141") /* dark gray */
+    (dict "min" 2 "max" 4 "start" "#613583" "end" "#613583") /* purple */
+    (dict "min" 5 "max" 9 "start" "#3b538a" "end" "#3b538a") /* blue */
+    (dict "min" 10 "max" 24 "start" "#26a269" "end" "#26a269") /* green */
+    (dict "min" 25 "max" 49 "start" "#f6d32d" "end" "#f6d32d") /* yellow */
+    (dict "min" 50 "max" 74 "start" "#ff7800" "end" "#ff7800") /* orange */
+    (dict "min" 75 "max" 99 "start" "#e01b24" "end" "#e01b24") /* red */
+    (dict "min" 100 "max" 149 "start" "#ff8383" "end" "#ff006d") /* hot pink */
+    (dict "min" 150 "max" 299 "start" "#aaa8bc" "end" "#241f31") /* gunmettle */
+    (dict "min" 300 "max" 499 "start" "#c97e3c" "end" "#3c6f50") /* copper */
+    (dict "min" 500 "max" 749 "start" "#ff7800" "end" "#703820") /* bronze */
+    (dict "min" 750 "max" 999 "start" "#e3e9e8" "end" "#5b5f60") /* silver */
+    (dict "min" 1000 "max" 99999 "start" "#f9f06b" "end" "#f97316") /* gold */
+-}}
+
+{{/* Helper: get gradient pair */}}
+{{- define "getGradientForCount" -}}
+  {{- $count := . -}}
+  {{- $pair := dict "start" "#000000" "end" "#000000" -}}
+  {{- range $gradientScale -}}
+    {{- if and (ge $count .min) (le $count .max) -}}
+      {{- $pair = dict "start" .start "end" .end -}}
+    {{- end -}}
   {{- end -}}
-  </ul>
-</div>
+  {{- return $pair -}}
+{{- end -}}
+
+<div class="contributors">
+  <hr>
+  <div class="tri-column">
+    <ul>
+    {{- range $sortedContributors -}}
+      {{- $name := .name -}}
+      {{- $count := .count -}}
+      {{- $gradient := template "getGradientForCount" $count -}}
+      {{- $start := index $gradient "start" -}}
+      {{- $end := index $gradient "end" -}}
+      {{- $matchingArticles := where $site "Title" $name -}} 
+
+      <li>
+        {{- if and $matchingArticles (gt (len $matchingArticles) 0) -}} 
+          <a href="{{ (index $matchingArticles 0).RelPermalink }}" 
+             class="gradient-text" 
+             style="background-image: linear-gradient(to top, {{ $start }}, {{ $end }});">
+            {{ $name }}
+          </a><sup>(+{{ $count }})</sup>
+        {{- else -}} 
+          <span class="gradient-text" style="background-image: linear-gradient(to top, {{ $start }}, {{ $end }});">
+            {{ $name }}
+          </span><sup>(+{{ $count }})</sup>
+        {{- end -}}
+      </li>
+    {{- end -}}
+    </ul>
+  </div>
 </div>
 
 {{- .Content | markdownify | safeHTML -}}
