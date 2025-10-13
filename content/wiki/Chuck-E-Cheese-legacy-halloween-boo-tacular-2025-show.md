@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Legeacy Halloween Boo-Tacular 2025 Show"
+title = "Chuck E. Cheese Legacy Halloween Boo-Tacular 2025 Show"
 startDate = "2025-09-29"
 endDate = "0000-00-00"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
@@ -16,19 +16,20 @@ categories = ["Chuck E. Cheese's"]
       1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
       3. Blippi - 'Use Your Imagination'
-      4. Paris & Pups Episode 7 - 'Spooky Dress Up for Halloween'
-      5. Chuck E. Cheese - 'Halloween Night'
-      6. Chuck E. & Friends - 'Pumpkings In My Pockets' (Partymobile Sing-Along)
-      7. KIDZ BOP Kids - 'Abracadabra' (ASL Version)
-      8. Unicorn Academy - 'Under The Fairy Moon/Lights Out' (Original Version)
-      9. Chuck E. & Mr. Munch - 'Trick or Treat'
-      10. Chuck E. Cheese Silly Song - 'Ballerina Ghost'
-      11. Chuck E. Cheese - 'Nobody There'
-      12. KIDZ BOP Kids - 'Disturbia'
-      13. Chuck E. Cheese - 'Be Yourself'
-      14. Helen & Bella - 'Witches Crew'
-      15. Chuck E. Cheese - 'Vampire Crew'
-      16. KIDZ BOP Kids - 'This is Halloween'
+      4. KIDZ BOP Kids - 'Manchild'
+      5. Paris & Pups Episode 7 - 'Spooky Dress Up for Halloween'
+      6. Chuck E. Cheese - 'Halloween Night'
+      7. Chuck E. & Friends - 'Pumpkings In My Pockets' (Partymobile Sing-Along)
+      8. KIDZ BOP Kids - 'Abracadabra' (ASL Version)
+      9. Unicorn Academy - 'Under The Fairy Moon/Lights Out' (Original Version)
+      10. Chuck E. & Mr. Munch - 'Trick or Treat'
+      11. Chuck E. Cheese Silly Song - 'Ballerina Ghost'
+      12. Chuck E. Cheese - 'Nobody There'
+      13. KIDZ BOP Kids - 'Disturbia'
+      14. Chuck E. Cheese - 'Be Yourself'
+      15. Helen & Bella - 'Witches Crew'
+      16. Chuck E. Cheese - 'Vampire Crew'
+      17. KIDZ BOP Kids - 'This is Halloween'
 2. Skit 1
       1. Jasper T. Jowls - 'Howl-O-Ween'
 3. Intermission 2
@@ -291,3 +292,4 @@ categories = ["Chuck E. Cheese's"]
 2. 10/03 Update - Paris & Pups Episode 1 - 'Teamwork To Make Music' is replaced with Paris & Pups Episode 7 - 'Spooky Dress Up for Halloween'.
 3. 10/06 Update - Chuck E. & Friends - 'Pumpkings In My Pockets' is replaced with Chuck E. & Friends - 'Pumpkings In My Pockets' (Partymobile Sing-Along)
 4. 10/08 Update - Unicorn Academy - 'Under The Fairy Moon/Lights Out' (Original Version) is added.
+5. 10/13 Update - KIDZ BOP Kids - 'Manchild' is added.
