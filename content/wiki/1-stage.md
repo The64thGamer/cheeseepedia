@@ -4,7 +4,7 @@ title = "1-Stage"
 startDate = "1992-03-24"
 endDate = ""
 pageThumbnailFile = "Irving_1_stage_full.avif"
-contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "CyberSnout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "CyberSnout", "Capitanyoda20"]
+contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "CyberSnout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "Capitanyoda20"]
 citations = ["Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0"]
 manufacturer = "Corman & Associates"
 unitsProduced = "~70"

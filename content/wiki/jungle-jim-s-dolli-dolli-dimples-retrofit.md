@@ -4,7 +4,7 @@ title = "Dolly (Dolli Dimples Retrofit)"
 startDate = "1989-00-00"
 endDate = "1997-00-00"
 pageThumbnailFile = "1989_-_Store_Interior_Dolly_Registers_Edit2025.avif"
-contributors = ["CyberSnout", "The 64th Gamer", "TrimSafe6859", "CyberSnout"]
+contributors = ["The 64th Gamer", "TrimSafe6859", "CyberSnout"]
 citations = ["https://youtu.be/wXQxEUeOkok?t=445"]
 manufacturer = "Pizza Time Theatre, Inc"
 tags = ["Retrofits"]
