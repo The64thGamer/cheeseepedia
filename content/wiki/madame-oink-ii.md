@@ -8,7 +8,7 @@ startDate = "1979-00-00"
 endDate = "1979-11-00"
 contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/details/cyberamic/Audio+08.wav|Pizza Time (Birthday 8-TR) (November 13, 1978)"]
-citations = ["https://archive.org/details/cyberamic/Audio+08.wav","https://www.youtube.com/watch?v=SD6GnblKeqI"]
+citations = ["https://archive.org/details/cyberamic/Audio+08.wav","https://www.youtube.com/watch?v=SD6GnblKeqI","https://youtu.be/SJetRINEjoY"]
 +++
 ***Madame Oink II* was a showtape featured at both the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} (and possibly the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}) *Pizza Time Theatres* in early-mid 1979. {{< cite 1 >}}
 
@@ -34,4 +34,6 @@ It is unclear what shows were featured on this tape, or if any of them were reco
 - **Segment**
     - Money Money (Crusty Version)
 
-The only confirmed show is the Birthday Show, which was recorded on November 13th, 1978. {{< cite 1 >}}
+Additionally, a recording of the song 'You Only Hurt the Ones You Love', originally sung by Crusty and on the CDs, was found redubbed by Munch and dated 1979. This confirms the song was included on Oink II, but it is unknown if it originated from Oink I. {{< cite 3 >}}
+
+The only other confirmed show is the Birthday Show, which was recorded on November 13th, 1978. {{< cite 1 >}}
