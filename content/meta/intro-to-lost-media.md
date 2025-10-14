@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -22,6 +22,16 @@ It is highly likely this announcement was through the Gospel of St. Pong newslet
 
 ### Early Winchester/Kooser Documents
 A compilation of early {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and Kooser documents were found to be owned by Gene Landrum titled the {{< wiki-link "PTT Basic Ordering Agreement" >}}. Pictures of 9 of the pages were taken in 2020, providing tons of insight into the development of Pizza Time Theatre, but the entire collection (which as currently known goes at least to 35 pages) was never preserved.
+
+### Winchester Special Tracks
+While it is believed that most, if not all of the first {{< wiki-link "Pizza Time Theatre Showtape" >}} is found and contained within the myriad of tracks on the recovered CDs it was found on, there are certainly special tracks not present on it. {{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} notes that Four additonal special tracks could be played, described as 'special animated noise distracters programmed by the bartender', presuming that "programmed" implies scheduled, or potentially referring to the fact they would use Pasqually's announcement speakers to specify the occasion.
+
+- Birthdays
+- Graduations
+- Anniversaries
+- Marriages
+
+None of the audio for these is present on those CDs. Most likely the track 'Birthday One, Honey Bun', which was seen partially in the 1979 Winchester footage, is the birthday track, though not fully confirmed.{{< cite 7 >}} This version is also only sort of complete. The full skit was rereleased with Mr. Munch dubbed over Crusty later on, and most of the Crusty segments are heard in the video outside of the final song at the end. {{< cite 8 >}} What makes it unclear if the birthday was used for the opening in 1977 is that another birthday song was found for the Madame Oink showtape in 1978, showing new birthdays were already being recorded. {{< cite 9 >}}
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
