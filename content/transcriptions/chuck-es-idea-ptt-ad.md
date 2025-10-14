@@ -8,6 +8,7 @@ contributors = ["Luigigamin212"]
 Once I had this wild idea for a place where you could eat pizza, salads, and sundaes. And play exciting new games, see a show-
 
 **Pasqually, Mr. Munch, & Jasper T. Jowls: (Singing)**
+
 Laaaaa! 
 
 **Chuck E. Cheese: (Walkaround)**
