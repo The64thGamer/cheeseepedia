@@ -24,4 +24,6 @@ On July 21st, Adventure World would make an apperance on the Promoted Companies 
 
 On August 3rd, another survey would be sent out going over the same choosing of a logo, but this time it would feature a variety of different styles and arrangements, including AI generated renders of Chuck E. in a new outfit. {{< cite 4 >}} {{< cite 5 >}}
 
-On August 15th, CEC would do a press release for Adventure World, confirming a location in Arlington, TX with around 12,000 sqft. would open in early November, with 5-6 additional stores planned to open in 2026. {{< cite 6 >}} The same day, it would be discovered on the Texas Department of Licensing and Regulation that the store's info was posted, located at {{ wiki-link "Arlington, TX (1536 W Interstate 20)" }, registered from June 30th of that year. {{< cite 7 >}}
+On August 15th, CEC would do a press release for Adventure World, confirming a location in Arlington, TX with around 12,000 sqft. would open in early November, with 5-6 additional stores planned to open in 2026. {{< cite 6 >}} The same day, it would be discovered on the Texas Department of Licensing and Regulation that the store's info was posted, located at {{< wiki-link "Arlington, TX (1536 W Interstate 20)" >}}, registered from June 30th of that year. {{< cite 7 >}}
+
+On October 14th the first documented visit to the location would show the finalized logo on the building exterior, alongside hiring now ads and a barren interior.
