@@ -243,7 +243,7 @@ You’re not comparing Frank Sinatra with Chuck E. Cheese though are you?
 
 **Gene Landrum:**
 
-Well oh uh no way! I wouldn’t call him ???. Hahaha! In any case, uh- the uh- people who are willing to pay the premium we have raised our prices 15%. 
+Well oh uh no way! I wouldn’t call him an animal. Hahaha! In any case, uh- the uh- people who are willing to pay the premium we have raised our prices 15%. 
 
 **Dolli Dimples: (Singing)**
 
