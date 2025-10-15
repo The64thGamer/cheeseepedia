@@ -7,8 +7,6 @@ contributors = []
 <center>
     Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!
 <br><br>
-<b>NEW! Check out the <a href="https://forum.cheeseepedia.org/">Cheese-E-Pedia Forums!</a></b>
-<br><br>
 Our <b>{{< discord-server >}}</b> is the main residence of all animatronic fans and wiki editors!
 <br>
 Looking to edit pages? Check out the <b><a href="{{< ref "/meta/ContributorHome" >}}">Contributor Home</a></b> for help and the <b><a href="/admin/#/collections/wiki">Content Manager</a></b> to start making articles!
