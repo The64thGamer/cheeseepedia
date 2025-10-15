@@ -14,7 +14,7 @@ Artie Antlers was a side act placed inside the Piano bar and was a retrofited {{
 
 ## History
 
-Artie was the second animatronic inside the piano bar and was installed in {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} and {{< wiki-link "Sacramento, CA (7020 Stockton Blvd)" >}} sometime around May 1980 and replaced Dolli Dimple in these 3 locations. He was also planned to appear in {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}, {{< wiki-link "Stockton, CA (4555 N Pershing Ave)" >}} and {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}}(1). Originally his antlers were made out of wood, but later would be switched to styrofoam to avoid fractures during movement.(2)
+Artie was the second animatronic inside the piano bar and was installed in {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} and {{< wiki-link "Sacramento (Florin Mall), CA (7020 Stockton Blvd)" >}} sometime around May 1980 and replaced Dolli Dimple in these 3 locations. He was also planned to appear in {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}, {{< wiki-link "Stockton, CA (4555 N Pershing Ave)" >}} and {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}}(1). Originally his antlers were made out of wood, but later would be switched to styrofoam to avoid fractures during movement.(2)
 
 ## Design
 

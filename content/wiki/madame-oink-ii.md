@@ -7,10 +7,11 @@ pageThumbnailFile = ""
 startDate = "1979-00-00"
 endDate = "1979-11-00"
 contributors = ["The 64th Gamer"]
+pageThumbnailFile = "1979-Kooser-Oink.avif"
 downloadLinks = ["https://archive.org/details/cyberamic/Audio+08.wav|Pizza Time (Birthday 8-TR) (November 13, 1978)"]
 citations = ["https://archive.org/details/cyberamic/Audio+08.wav","https://www.youtube.com/watch?v=SD6GnblKeqI","https://youtu.be/SJetRINEjoY"]
 +++
-***Madame Oink II* was a showtape featured at both the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} (and possibly the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}) *Pizza Time Theatres* in early-mid 1979. {{< cite 1 >}}
+***Madame Oink II*** was a showtape featured at both the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} and {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} (and possibly the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}) *Pizza Time Theatres* in early-mid 1979. {{< cite 1 >}}
 
 ## History
 The birthday show for the tape would be recorded at Corasound Recording (122E Paul Drive, San Rafael. CA 94903) on November 13th, 1978. Both a variant with Crusty the Cat and Mr. Munch would be made for each store.

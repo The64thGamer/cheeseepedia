@@ -7,9 +7,10 @@ startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","Anonymous","CECMentor"]
 citations = []
+pageThumbnailFile = "1979-Kooser-Warblettes.avif"
 +++
 
-The **Warblettes Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979 until the 1980's. It is a very simple figure, having only 2 movements. The Warblettes would not be used in the Rocker Stage, instead being replaced by talking flowers. They would not survive past Concept Unification as the Cyberamic Munch's Make Believe Band stages did not include them.
+The ***Warblettes Cyberamic*** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979 until the 1980's. It is a very simple figure, having only 2 movements. The Warblettes would not be used in the Rocker Stage, instead being replaced by talking flowers. They would not survive past Concept Unification as the Cyberamic Munch's Make Believe Band stages did not include them.
 
 ## Movements
 
