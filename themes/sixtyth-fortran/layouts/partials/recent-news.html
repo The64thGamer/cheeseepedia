@@ -1,5 +1,76 @@
 <aside data-pagefind-ignore="all">
-    {{- $pages := where site.RegularPages "Section" "news" -}}
-    {{- $latestPage := first 1 (sort $pages "Params.startDate" "desc") -}}
-    {{- partial "display-page-box-news.html" (index $latestPage 0) -}}
+
+    <div id="discourse-news" class="news-box">
+  <h2>Latest News</h2>
+  <div id="news-list">Loading latest posts...</div>
+</div>
+
+<script>
+async function loadDiscourseNews() {
+  const container = document.getElementById("news-list");
+  const apiUrl = "https://forum.cheeseepedia.org/c/news/5.json";
+
+  try {
+    const res = await fetch(apiUrl);
+    if (!res.ok) throw new Error("Network response was not ok");
+    const data = await res.json();
+
+    const topics = data.topic_list.topics.slice(0, 5); // top 5 recent topics
+    const html = topics.map(topic => {
+      const url = `https://forum.cheeseepedia.org/t/${topic.slug}/${topic.id}`;
+      const date = new Date(topic.created_at).toLocaleDateString();
+      return `
+        <div class="news-item">
+          <h3><a href="${url}" target="_blank" rel="noopener">${topic.title}</a></h3>
+          <p class="news-meta">Posted on ${date}</p>
+        </div>
+      `;
+    }).join("");
+
+    container.innerHTML = html;
+  } catch (err) {
+    console.error(err);
+    container.textContent = "Failed to load news posts.";
+  }
+}
+
+loadDiscourseNews();
+</script>
+
+<style>
+.news-box {
+  background: #fff;
+  border-radius: 1em;
+  padding: 1.5em;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+.news-box h2 {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.news-item {
+  border-bottom: 1px solid #eee;
+  padding-bottom: .75em;
+  margin-bottom: .75em;
+}
+.news-item:last-child {
+  border-bottom: none;
+}
+.news-item h3 {
+  font-size: 1.1em;
+  margin: 0;
+}
+.news-item a {
+  color: #0077cc;
+  text-decoration: none;
+}
+.news-item a:hover {
+  text-decoration: underline;
+}
+.news-meta {
+  color: #777;
+  font-size: 0.9em;
+}
+</style>
+
 </aside>
