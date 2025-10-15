@@ -9,9 +9,10 @@ contributors = []
 <br><br>
 Our <b>{{< discord-server >}}</b> is the main residence of all animatronic fans and wiki editors!
 <br>
+NEW! Check out the <a href="https://forum.cheeseepedia.org/">Cheese-E-Pedia Forums!</a>
+<br>
 Looking to edit pages? Check out the <b><a href="{{< ref "/meta/ContributorHome" >}}">Contributor Home</a></b> for help and the <b><a href="/admin/#/collections/wiki">Content Manager</a></b> to start making articles!
 <br>
-Keep up to date with the <b><a href="{{< ref "/tags/animatronic-news/" >}}">Animatronic News</a></b>! Any missing news? <b><a href="/admin/#/collections/news">Add it!</a></b>
 </center>
 <hr>
 <h2>Our Articles</h2>
