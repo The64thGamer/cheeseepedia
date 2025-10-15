@@ -22,4 +22,4 @@ categories = ["Chuck E. Cheese's"]
 ***2700 Colorado Blvd #604*** is a *Chuck E. Cheese's* that opened in 2006 in the Eagle Rock Plaza Mall with a {{< wiki-link "Studio C Beta" >}}.
 
 \##History
-Colorado Blvd (Eagle Rock) was planned in August 2004{{<cite 1>}} and was approved to sell alcohol in February 2005.{{<cite 2>}}  It opened on January 22, 2006 with a {{< wiki-link "Studio C Beta" >}} and the Phase 4 remodel, which are still there in October 2025. It is one of 15 Betas remaining and the last one in California.
+Colorado Blvd (Eagle Rock) was planned in August 2004{{<cite 1>}} and was approved to sell alcohol in February 2005.{{<cite 2>}}  It opened on January 22, 2006 with a {{< wiki-link "Studio C Beta" >}} and the {{< wiki-link "CEC 2000's Remodel Program" >}}, which are still there in October 2025. Their Beta stage is one of 15 remaining and the last one in California.
