@@ -86,6 +86,11 @@ Some of the footage would be reused with rereleased segments in 1988, which were
 - {{< wiki-link "CEC Summertime" >}} - Summer Rereleased
 - {{< wiki-link "CEC Tune Machine / Country" >}} - Tune Machine rereleased, country lost but remade
 
+### CEC Show 1 2020 (Covid Refresh)
+{{< wiki-link "Chuck E. Cheese's Show 1 2020 (Covid Refresh)" >}} (Also referred to as Show 1.5 2020) is a semi-lost showtape that ran for only two days, June 21st and June 22nd, 2020. While a good majority of Rockstar shows have been archived, especially with tons of eBay listings for Studio C floppies dating between 2019 and 2022, no showtape DVDs or floppy disks have been discovered and backed up for the Covid Refresh show.
+
+(For trying to keep in good graces with CEC Entertainment no Rockstar era showtapes are downloadable or available online.)
+
 ## ShowBiz Pizza Place
 
 ### 1989 Breakfast Birthday Promo
