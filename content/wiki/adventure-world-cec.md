@@ -5,7 +5,7 @@ startDate = "2025-00-00"
 endDate = ""
 pageThumbnailFile = "cec-roblox-if-it-was-irl.avif"
 contributors = ["The 64th Gamer"]
-citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_news_cec_to_create_a_new_chain_that_only/", "Employee correspondence", "https://www.promotedcompanies.net/tenants/cecs-adventure-world", "https://archive.org/details/adventure-world-survey-2-logos", "https://www.reddit.com/r/chuckecheese/comments/1mgx5xo/chuck_e_cheese_adventure_world_survey_all_logos/", "https://www.dallasnews.com/business/2025/08/15/chuck-e-cheese-picks-north-texas-to-test-new-concept-coming-later-this-year/","https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025022333"]
+citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_news_cec_to_create_a_new_chain_that_only/", "Employee correspondence", "https://www.promotedcompanies.net/tenants/cecs-adventure-world", "https://archive.org/details/adventure-world-survey-2-logos", "https://www.reddit.com/r/chuckecheese/comments/1mgx5xo/chuck_e_cheese_adventure_world_survey_all_logos/", "https://www.dallasnews.com/business/2025/08/15/chuck-e-cheese-picks-north-texas-to-test-new-concept-coming-later-this-year/","https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025022333","https://www.chuckecheese.com/arlington-tx/attractions/","https://www.chuckecheese.com/arlington-tx/experience/","https://www.chuckecheese.com/arlington-tx/birthday-parties/"]
 alsoKnownAs = ["CEC's Adventure World"]
 tags = ["Restaurants/FECs"]
 categories = ["Chuck E. Cheese's"]
@@ -26,4 +26,4 @@ On August 3rd, another survey would be sent out going over the same choosing of 
 
 On August 15th, CEC would do a press release for Adventure World, confirming a location in Arlington, TX with around 12,000 sqft. would open in early November, with 5-6 additional stores planned to open in 2026. {{< cite 6 >}} The same day, it would be discovered on the Texas Department of Licensing and Regulation that the store's info was posted, located at {{< wiki-link "Arlington, TX (1536 W Interstate 20)" >}}, registered from June 30th of that year. {{< cite 7 >}}
 
-On October 14th the first documented visit to the location would show the finalized logo on the building exterior, alongside hiring now ads and a barren interior.
+On October 14th the first documented visit to the location would show the finalized logo on the building exterior, alongside hiring now ads and a barren interior. Around that same time, the webpages for the Arlington location would be discovered, confirming that the AI generated art as rumored would be directly used in promotional material. These would also confirm the same general attractions, food, and other experiences found in a Chuck E. Cheese, though now with 'Pasqually's Snack Shop' which offered pretzels, churros, popcorn, and other items.{{< cite 8 >}}
