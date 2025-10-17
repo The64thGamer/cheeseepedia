@@ -11,7 +11,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Halloween Boo-Tacular 2025 Show** was the fall show released on September 29, 2025. This was created in conjunction with the Halloween Boo-Tacular promotion. This would play from opening - 6 pm, when it would switch over to ‘DJ Munch's Haunted House Party Show’
 
-## Show List 10/13 Update: 
+## Show List 10/17 Update: 
 1. Intermission 1
       1. Dippin Dots & Chuck E.'s Cookie Crunch
       2. Harlem Globetrotters - 'Way We Celebrate'
@@ -55,13 +55,13 @@ categories = ["Chuck E. Cheese's"]
       3. Chuck E. & Friends - 'Gotta Be Halloween'
       4. KIDZ BOP Kids - 'Ghostbusters'
 
-## Lives 10/13 Update:
+## Lives 10/17 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
 3. Chuck E.'s Bootastic Dance (Legacy Navori)
 4. Chuck E.'s Haunted House Party (Legacy Navori)
 
-## Fireables 10/13 Update:
+## Fireables 10/17 Update:
 1. Chuck E. & Friends - 'Sammy the Skateboarding Skeleton' (Legacy Navori)
 2. Chuck E. & Friends - 'Pumpkings In My Pockets' (Legacy Navori)
 3. Jasper T. Jowls - 'Howl-O-Ween' (Legacy Navori)
