@@ -1,4 +1,4 @@
-name: Post commits to Discourse Chat
+name: Post commit info to Discourse Chat
 
 on:
   push:
@@ -12,18 +12,31 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Collect commit messages
+      - name: Gather commit details
         id: format
         run: |
-          COMMITS=$(git log -n 5 --pretty=format:"• [%s](https://github.com/${{ github.repository }}/commit/%H) — %an" --no-merges)
-          MSG="🧀 **New push to ${{ github.repository }} by ${{ github.actor }}:**%0A${COMMITS}"
+          # Get latest commit SHA
+          SHA=$(git rev-parse HEAD)
+          
+          # Get commit message (title)
+          TITLE=$(git log -1 --pretty=format:"%s")
+          
+          # Get author name
+          AUTHOR=$(git log -1 --pretty=format:"%an")
+          
+          # Get list of files changed (up to 10, truncated for safety)
+          FILES=$(git show --pretty="" --name-only | head -10 | sed 's/^/`/;s/$/`/' | paste -sd ", " -)
+          
+          # Build message
+          MSG="🧀**New Commit!**%0A${TITLE}%0AChanged: ${FILES}%0AAuthor: ${AUTHOR}"
+          
           echo "message=$MSG" >> $GITHUB_OUTPUT
 
       - name: Send to Discourse Chat
         env:
           DISCOURSE_WEBHOOK_URL: ${{ secrets.DISCOURSE_WEBHOOK_URL }}
         run: |
-          curl -X POST \
+          curl -s -X POST \
             -H "Content-Type: application/json" \
             -d "{\"text\": \"${{ steps.format.outputs.message }}\"}" \
             "$DISCOURSE_WEBHOOK_URL"
