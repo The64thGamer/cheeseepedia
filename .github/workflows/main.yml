@@ -15,22 +15,13 @@ jobs:
       - name: Gather commit details
         id: format
         run: |
-          # Get latest commit SHA
           SHA=$(git rev-parse HEAD)
-          
-          # Get commit message (title)
           TITLE=$(git log -1 --pretty=format:"%s")
-          
-          # Get author name
           AUTHOR=$(git log -1 --pretty=format:"%an")
-          
-          # Get list of files changed (up to 10, truncated for safety)
-          FILES=$(git show --pretty="" --name-only | head -10 | sed 's/^/`/;s/$/`/' | paste -sd ", " -)
-          
-          # Build message
-          MSG="🧀**New Commit!**%0A${TITLE}%0AChanged: ${FILES}%0AAuthor: ${AUTHOR}"
-          
+          FILES=$(git diff-tree --no-commit-id --name-only -r HEAD | head -10 | sed 's/^/`/;s/$/`/' | paste -sd ", " -)
+          MSG="🧀**New Commit!**\n${TITLE}\nChanged: ${FILES}\nAuthor: ${AUTHOR}"
           echo "message=$MSG" >> $GITHUB_OUTPUT
+
 
       - name: Send to Discourse Chat
         env:
