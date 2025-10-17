@@ -1,0 +1,29 @@
+name: Post commits to Discourse Chat
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  notify-discourse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Collect commit messages
+        id: format
+        run: |
+          COMMITS=$(git log -n 5 --pretty=format:"• [%s](https://github.com/${{ github.repository }}/commit/%H) — %an" --no-merges)
+          MSG="🧀 **New push to ${{ github.repository }} by ${{ github.actor }}:**%0A${COMMITS}"
+          echo "message=$MSG" >> $GITHUB_OUTPUT
+
+      - name: Send to Discourse Chat
+        env:
+          DISCOURSE_WEBHOOK_URL: ${{ secrets.DISCOURSE_WEBHOOK_URL }}
+        run: |
+          curl -X POST \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": \"${{ steps.format.outputs.message }}\"}" \
+            "$DISCOURSE_WEBHOOK_URL"
