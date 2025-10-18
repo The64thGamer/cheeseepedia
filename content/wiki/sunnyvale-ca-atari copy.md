@@ -16,5 +16,6 @@ downloadLinks = []
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
+pageThumbnailFile = "Screenshot_20251018_125248.avif"
 +++
 ***Sunnyvale, CA (1195 Borregas Avenue)*** was the Atari Consumer Division manufacturing offices from January 1976 to February, 1979. {{< cite 1 >}} This was paired alongside the corporate headquarters at {{< wiki-link "Sunnyvale, CA (155 Moffett Park Drive)" >}}.
