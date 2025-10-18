@@ -20,7 +20,7 @@ There is a high chance the Kooser Chuck E. Cheese nameplate was the first develo
 The only usage of the nameplate was at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} where it was placed under the Kooser Chuck E. Cheese animatronic from as early as November 1978, where it lasted until May 1980. After the Kooser Portrait Show was retired, several scenarios involving the nameplate could have played out after May 1980, those being:
 **A.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and thrown out.*
 **B.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and destroyed.*
-**C.** *The nameplate was sent to the Pizza Time Theatre SunnyVale, CA Corporate Office|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the {{< wiki-link "Kooser PTT Show" >}}*
+**C.** *The nameplate was sent to the Sunnyvale, CA (1213 Innsbruck Drive)|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the {{< wiki-link "Kooser PTT Show" >}}*
 
 ## Design
 

@@ -4,6 +4,6 @@ draft = false
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Sacramento (Florin Mall), CA (7020 Stockton Blvd)"]
-startDate = "1979-00-00"
+startDate = "0000-00-00"
 +++
-Promotional photo.
+Promotional photo of the Fantasy Forest Game Preserve.

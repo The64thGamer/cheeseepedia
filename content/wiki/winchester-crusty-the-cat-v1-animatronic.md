@@ -12,7 +12,7 @@ unitsProduced = "1"
 manufacturer = "Fantasy Forest"
 +++
 
-***Winchester Crusty the Cat (V1)*** was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of Crusty the Cat. The bot was controlled &amp; programmed through the {{< wiki-link "Winchester Control System" >}} &amp; {{< wiki-link "Winchester Hardware Setup" >}}. The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, where it remained until 1984.
+***Winchester Crusty the Cat (V1)*** was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of Crusty the Cat. The bot was controlled &amp; programmed through the {{< wiki-link "Winchester Control System" >}} &amp; {{< wiki-link "Winchester Hardware Setup" >}}. The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, where it remained until 1984.
 
 ## History
 
@@ -20,7 +20,7 @@ Crusty was the second animatronic built by Harold Goldbrandsen for the Wincheste
 
 ### Replacement
 
-In Summer 1978, Crusty, was upgraded to {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}} alongside Chuck E. Cheese (V1) to match the mechanics of the other bots, since Chuck E. and Crusty were the earliest models of the set. After this, Crusty was presumably sent to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. After PTT vacated the building due to bankruptcy, Crusty would, along with many of Winchester's animatronics would be considered lost, as its fate has not been revealed- although the most likely option is it was thrown away.
+In Summer 1978, Crusty, was upgraded to {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}} alongside Chuck E. Cheese (V1) to match the mechanics of the other bots, since Chuck E. and Crusty were the earliest models of the set. After this, Crusty was presumably sent to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. After PTT vacated the building due to bankruptcy, Crusty would, along with many of Winchester's animatronics would be considered lost, as its fate has not been revealed- although the most likely option is it was thrown away.
 
 ## Design
 

@@ -13,7 +13,7 @@ pageThumbnailFile = "LsSON3i80v0C95JiYvM_.avif"
 
 ## History
 
-Winchester Madam Oink was installed in February of 1978, replacing {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}. She would later be replaced in October of 1978 with {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}}. Sometime after this she was sent back to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. Her current whereabouts are unknown, but she was most likely destroyed along with most of the other portrait bots during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in 1984.
+Winchester Madam Oink was installed in February of 1978, replacing {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}. She would later be replaced in October of 1978 with {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}}. Sometime after this she was sent back to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. Her current whereabouts are unknown, but she was most likely destroyed along with most of the other portrait bots during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in 1984.
 
 ## Design
 

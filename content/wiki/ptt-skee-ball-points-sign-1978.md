@@ -20,7 +20,7 @@ The only documented appearance of the sign was at the 1371 Kooser Road store, wh
 
 - **A.** *The sign was placed in storage at the location itself.*
 - **B.** *The sign was destroyed after it completed its run.*
-- **C.** *The sign was shipped to the Chuck E. Cheese's Pizza Time Theatre {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}*
+- **C.** *The sign was shipped to the Chuck E. Cheese's Pizza Time Theatre {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}*
 
 It was most likely placed in storage at the location itself, and the current whereabouts of the sign are unknown.
 

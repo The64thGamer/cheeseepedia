@@ -22,7 +22,7 @@ The bot debuted at the opening of the Kooser store in December of 1978. It would
 
 ### Corporate Move
 
-Following its removal from the Kooser location, the bot would later find a home at the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, where it can be seen in photos of the Costume Department as early as 1981{{< cite 4 >}}. At this point, it would be sporting Christmas attire as opposed to its store-original derby and vest, and would also be missing its teeth.
+Following its removal from the Kooser location, the bot would later find a home at the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, where it can be seen in photos of the Costume Department as early as 1981{{< cite 4 >}}. At this point, it would be sporting Christmas attire as opposed to its store-original derby and vest, and would also be missing its teeth.
 
 ### Fate
 

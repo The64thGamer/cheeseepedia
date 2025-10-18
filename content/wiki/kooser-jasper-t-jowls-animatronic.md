@@ -13,7 +13,7 @@ pageThumbnailFile = "zHJabUal9DmSdwdmQv38.avif"
 
 ## History
 
-After Kooser replaced their Portrait Show with the Balcony Stage, Jasper and the other Portrait Bots, aside from Chuck E, which we have confirmation of, were presumably sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. After PTT vacated the building due to bankruptcy, Jasper would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
+After Kooser replaced their Portrait Show with the Balcony Stage, Jasper and the other Portrait Bots, aside from Chuck E, which we have confirmation of, were presumably sent to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. After PTT vacated the building due to bankruptcy, Jasper would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
 
 ## Design
 

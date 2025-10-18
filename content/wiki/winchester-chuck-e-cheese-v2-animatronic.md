@@ -23,11 +23,11 @@ In or before Summer 1978, Pizza Time Theatre would ask Fantasy Forest & Harold G
 
 ### Installation at San Jose, California (370 South Winchester Boulevard)
 
-Chuck V2 would replace its predecessor in Summer of 1978, sitting up in the right main entrance wall corner. The bot was programmed to the {{< wiki-link "Madame Oink I" >}} Showtape. The bot would later be programmed to the {{< wiki-link "Foxy Colleen I" >}} Showtape. The final confirmed Showtape the bot had was Madame Oink II. The bot would make an appearance in an Australian broadcast known as Four Corners in mid to late 1979. The bot was also seen in the Great All American Pizza Show Franchisee pamphlet. The bot was sent to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} in 1981 when Winchester got Cyberamics.
+Chuck V2 would replace its predecessor in Summer of 1978, sitting up in the right main entrance wall corner. The bot was programmed to the {{< wiki-link "Madame Oink I" >}} Showtape. The bot would later be programmed to the {{< wiki-link "Foxy Colleen I" >}} Showtape. The final confirmed Showtape the bot had was Madame Oink II. The bot would make an appearance in an Australian broadcast known as Four Corners in mid to late 1979. The bot was also seen in the Great All American Pizza Show Franchisee pamphlet. The bot was sent to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} in 1981 when Winchester got Cyberamics.
 
 ### Bankruptcy
 
-Following Pizza Time Theatre's bankruptcy, costume designer Jul Kamen would rescue Chuck V2 along with two other animatronics from Winchester, {{< wiki-link "Winchester Pasqually (Animatronic)" >}} and {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} during the corporate move from {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. Kamen had the three animatronics on display in her home, and even created brand new cosmetics to have Jasper and Chuck E. match the curtains in her house.{{< cite 1 >}}
+Following Pizza Time Theatre's bankruptcy, costume designer Jul Kamen would rescue Chuck V2 along with two other animatronics from Winchester, {{< wiki-link "Winchester Pasqually (Animatronic)" >}} and {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} during the corporate move from {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. Kamen had the three animatronics on display in her home, and even created brand new cosmetics to have Jasper and Chuck E. match the curtains in her house.{{< cite 1 >}}
 
 ### Post-Merger
 

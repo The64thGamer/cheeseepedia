@@ -12,7 +12,7 @@ manufacturer = "Fantasy Forest"
 pageThumbnailFile = "VKhiaHChGEf69tMTXeyO.avif"
 +++
 ***Winchester Chuck E. Cheese (V1)* was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of {{< wiki-link "Chuck E Cheese" >}}.
-The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, where it remained until 1984.**
+The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, where it remained until 1984.**
 
 ## History
 
@@ -55,7 +55,7 @@ From Summer 1978 to Early 1983 at Sunnyvale, the bot was given a gray & black mi
 
 ## Movements
 
-Due to the lack of internal pictures or videos of it moving, it is very uncertain what movements the bot had access to. Only what's been confirmed by the creator has been stated. Despite the eyes being in different directions in multiple pics, this is likely the use of eyes that moved on a nylon-string, that swivelled left to right. Due to the adjacent photos available, there is no detection of the head being able to turn left or right in any sort of way. However, it seems that the bot had access to an eyelid raise. Another thing to clarify is when the bot was moved to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, the ears were tilted down, so it's safe to assume that the ears could wiggle or tilt in a way.
+Due to the lack of internal pictures or videos of it moving, it is very uncertain what movements the bot had access to. Only what's been confirmed by the creator has been stated. Despite the eyes being in different directions in multiple pics, this is likely the use of eyes that moved on a nylon-string, that swivelled left to right. Due to the adjacent photos available, there is no detection of the head being able to turn left or right in any sort of way. However, it seems that the bot had access to an eyelid raise. Another thing to clarify is when the bot was moved to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, the ears were tilted down, so it's safe to assume that the ears could wiggle or tilt in a way.
 
 - Mouth
 - Right Arm Raise

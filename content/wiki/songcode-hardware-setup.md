@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","RessiduePezzzado"]
 citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
-The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} for continued use and upgrades.**
+The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} for continued use and upgrades.**
 
 ## SongCode
 
@@ -35,7 +35,7 @@ The system is hooked directly to the {{< wiki-link "Cyberamic Control System" >}
 
 ## Corporate History
 
-Some time in 1980, likely before or during Kooser's upgrade to Cyberamics, the control system was moved to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. By 1981, the ADM-3a would be painted a deep red.
+Some time in 1980, likely before or during Kooser's upgrade to Cyberamics, the control system was moved to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. By 1981, the ADM-3a would be painted a deep red.
 The special [TEAC A-2340 Tape Deck](https://en.wikipedia.org/wiki/TASCAM) found in the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} location's {{< wiki-link "Cyberamic Control System" >}} can be seen in the corporate setup, likely meaning the Kooser's Cyberamic Control System was brought to PTT Corporate alongside the SongCode setup, while a standardized Cyberamic Control System was sent alongside the Cyberamic upgrade to the store in 1980.
 
 ### Upgraded Animation Controller

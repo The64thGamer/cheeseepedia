@@ -23,7 +23,7 @@ In 1978, Pasqually would be given a small copyright plaque on his frame, labeled
 
 ### Removal
 
-In 1980, Pasqually, along with all the other animatronics, were removed from the location and replaced with the standard {{< wiki-link "Pasqually (Cyberamic)" >}} models. Pasqually was moved to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, alongside the other retired Winchester animatronics. He would remain there until Pizza Time Theatre vacated the building following their bankruptcy in 1984. He would be saved along with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} and {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} by Jul Kamen.
+In 1980, Pasqually, along with all the other animatronics, were removed from the location and replaced with the standard {{< wiki-link "Pasqually (Cyberamic)" >}} models. Pasqually was moved to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, alongside the other retired Winchester animatronics. He would remain there until Pizza Time Theatre vacated the building following their bankruptcy in 1984. He would be saved along with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} and {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} by Jul Kamen.
 
 ### Corporate Move and Destruction
 

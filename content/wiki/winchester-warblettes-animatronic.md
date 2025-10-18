@@ -28,7 +28,7 @@ The bot was installed in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}
 
 ### Fate
 
-The bot was removed in 1981 when 'Winchester' got Cyberamics. The bot was sent to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} the same year &amp; left there until 1984, when they were thrown out during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+The bot was removed in 1981 when 'Winchester' got Cyberamics. The bot was sent to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} the same year &amp; left there until 1984, when they were thrown out during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
 
 ## Design
 
