@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Play-N-Place"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Pizza Time Theatre"]
 
 

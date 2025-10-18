@@ -1,7 +1,7 @@
 +++
 title = "Skytubes"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Chuck E. Cheese's"]
 
 

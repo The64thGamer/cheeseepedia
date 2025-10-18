@@ -1,7 +1,7 @@
 +++
 title = "Munch, the Trash Eater"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = "11296908_1519939828316969_1211140395_n.avif"
 startDate = "1982-00-00"

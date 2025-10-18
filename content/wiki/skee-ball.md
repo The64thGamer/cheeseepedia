@@ -1,7 +1,7 @@
 +++
 title = "Skee-Ball"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Roll"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"

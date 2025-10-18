@@ -5,7 +5,7 @@ startDate = ""
 endDate = ""
 contributors = ["BenTrainFan2000"]
 citations = ["https://www.youtube.com/watch?v=e1OWdurMknA&list=PLP22LC368snuPgde-E-V4a1IxBMX9QYgT&index=7", "https://www.youtube.com/playlist?list=PLP22LC368snuPgde-E-V4a1IxBMX9QYgT", "https://www.youtube.com/watch?v=1FkN7HMAh20&lc=UgwdKWhTJqAY6QYBGIJ4AaABAg"]
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Choo Choo* is a coin-operated model train layout developed by Coastal Amusements (cabinet) and MTH Electric Trains (model railroad infrastructure). The game awards 10 tickets per run.**

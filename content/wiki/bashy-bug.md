@@ -1,7 +1,7 @@
 +++
 title = "Bashy Bug"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""

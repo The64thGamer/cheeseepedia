@@ -6,7 +6,7 @@ endDate = "0000-00-00"
 pageThumbnailFile = "DXWcy2NruTceJvMuLRja.avif"
 contributors = ["The 64th Gamer", "JamesLemony", "BurgersNuggs445", "Destinationimagination95"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "http://csjpbce.sanjoseca.gov/terms/conditionspage.asp?DocumentID=3270133", "https://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf"]
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Pizza Time Theatre"]
 +++
 ***Cheese E. Street* was an attraction build into a few *Pizza Time Theatre* locations in 1983 And Would Remain Until 1995.

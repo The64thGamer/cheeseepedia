@@ -5,7 +5,7 @@ contributors = ["Pasquallytheplumber", "The 64th Gamer", "Anonymous", "GuestIsJu
 endDate = ""
 citations = ["https://www.youtube.com/watch?v=HZeaI7FUmws", "http://pfutz.us/JupiterGames/Index.htm", "https://www.crazykong.com/manuals/WackyDucks.man.pdf"]
 startDate = "2000-00-00"
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 pageThumbnailFile = "HhO_7avsLCiyk3KmPimM.avif"
 categories = ["Chuck E. Cheese's"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Merry Go Round"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""

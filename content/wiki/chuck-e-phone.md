@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Phone"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""

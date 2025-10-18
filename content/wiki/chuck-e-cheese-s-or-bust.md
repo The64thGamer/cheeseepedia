@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Or Bust"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades & Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
