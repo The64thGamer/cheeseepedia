@@ -1,8 +1,8 @@
 +++
 title = "Sunnyvale, CA (155 Moffett Park Drive)"
 storeNumber = ""
-startDate = "0000-00-00"
-endDate = "1979-01-00"
+startDate = "1976-01-00"
+endDate = "1979-02-00"
 cuDate = ""
 remodels = []
 stages = []
@@ -17,7 +17,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
-***Sunnyvale, CA (155 Moffett Park Drive)*** was the Atari Consumer Division corporate headquarters from an unknown date to the end of January, 1979. {{< cite 1 >}} This was paired alongside the manufacturing offices at {{< wiki-link "Sunnyvale, CA (1195 Borregas Avenue)" >}}.
+***Sunnyvale, CA (155 Moffett Park Drive)*** was the Atari Consumer Division corporate headquarters from January 1976 to February, 1979. {{< cite 1 >}} This was paired alongside the manufacturing offices at {{< wiki-link "Sunnyvale, CA (1195 Borregas Avenue)" >}}.
 
 ## History
-During the construction ground breaking ceremony of the Moffet Park centre, the {{< wiki-log "Rick Rat Walkaround" >}} would be present as the first ever showcase of Nolan's "Big Cheese" restaurant idea.{{< cite 4 >}}
+In June of 1976, during the ground breaking ceremony of the rest of the Moffet Park centre, the {{< wiki-log "Rick Rat Walkaround" >}} would be present as the first ever showcase of Nolan's "Big Cheese" restaurant idea.{{< cite 4 >}}
