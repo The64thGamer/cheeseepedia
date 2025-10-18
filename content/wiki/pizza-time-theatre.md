@@ -72,7 +72,7 @@ pageThumbnailFile = "AK1gcob301d1C8__YLdA.avif"
 
 #### January
 
-- In January, Atari would start its *Consumer Division* for development of the Atari VCS, moving its employees to the newly constructed {{< wiki-link "Atari Consumer Division Sunnyvale, CA Corporate Office" >}} and {{< wiki-link "Atari Consumer Division Sunnyvale, CA Manufacturing Office" >}}.<sup>(7)(4)</sup>
+- In January, Atari would start its *Consumer Division* for development of the Atari VCS, moving its employees to the newly constructed {{< wiki-link "Sunnyvale, CA (155 Moffett Park Drive)" >}} and {{< wiki-link "Sunnyvale, CA (1195 Borregas Avenue)" >}}.{{< cite 7 >}}{{< cite 4 >}}
 
 #### May
 
@@ -82,7 +82,7 @@ pageThumbnailFile = "AK1gcob301d1C8__YLdA.avif"
 
 #### June
 
-- On June 19th, Atari would announce moving its corporate headquarters to the same complex as the {{< wiki-link "Atari Consumer Division Sunnyvale, CA Corporate Office" >}} and {{< wiki-link "Atari Consumer Division Sunnyvale, CA Manufacturing Office" >}}, with the move planned to be done by September.
+- On June 19th, Atari would announce moving its corporate headquarters to the same complex as the Atari Consumer Division offices in {{< wiki-link "Sunnyvale, CA (155 Moffett Park Drive)" >}} and {{< wiki-link "Sunnyvale, CA (1195 Borregas Avenue)" >}}, with the move planned to be done by September.
 - Around the week of the move announcement, the first public image of the {{< wiki-link "Rick Rat Walkaround" >}} would be seen in a promotional photo for the event. This would be the first known instance of the character being called 'Big Cheese', and it was labeled as an Atari mascot.{{< cite 10 >}}
 
 #### Summer
