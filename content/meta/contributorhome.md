@@ -6,7 +6,7 @@ tags = ["Meta"]
 categories = []
 contributors = ["The 64th Gamer"]
 +++
-***Welcome!*** Thanks for thinking about contributing! Check out the {{< discord-server >}} for more info and help.
+***Welcome!*** Thanks for thinking about contributing! Check out the <a href="https://forum.cheeseepedia.org/">forums</a> for more info and help.
 
 ## Help
 
