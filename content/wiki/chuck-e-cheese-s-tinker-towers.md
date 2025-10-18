@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Tinker Towers"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""

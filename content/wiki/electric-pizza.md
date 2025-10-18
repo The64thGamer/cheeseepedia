@@ -1,7 +1,7 @@
 +++
 title = "Electric Pizza"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"

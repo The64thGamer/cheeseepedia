@@ -1,7 +1,7 @@
 +++
 title = "Billy Bob Phone"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""

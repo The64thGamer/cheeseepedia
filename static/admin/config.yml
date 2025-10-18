@@ -153,7 +153,7 @@ collections:
           - { label: "Movies", value: "Movies" }
           - { label: "Video Games", value: "Video Games" }
           - { label: "Locations", value: "Locations" }
-          - { label: "Arcades & Attractions", value: "Arcades & Attractions" }
+          - { label: "Arcades and Attractions", value: "Arcades and Attractions" }
           - { label: "Employee Wear", value: "Employee Wear" }
           - { label: "Remodels and Initiatives", value: "Remodels and Initiatives" }
           - { label: "Store Fixtures", value: "Store Fixtures" }

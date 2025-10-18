@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Musical Ferris Wheel"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 
 

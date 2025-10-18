@@ -1,7 +1,7 @@
 +++
 title = "Fix It Felix Jr."
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Disney Parks"]
 pageThumbnailFile = ""
 startDate = ""

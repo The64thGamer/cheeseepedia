@@ -1,7 +1,7 @@
 +++
 title = "Crossbow Master: Chuck E. Cheese's"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""

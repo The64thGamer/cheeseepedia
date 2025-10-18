@@ -1,7 +1,7 @@
 +++
 title = "Wac-A-Munch"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""

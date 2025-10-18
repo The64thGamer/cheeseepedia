@@ -1,7 +1,7 @@
 +++
 title = "Star Launcher"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""

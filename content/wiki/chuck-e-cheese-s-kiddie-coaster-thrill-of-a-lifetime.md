@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""

@@ -1,7 +1,7 @@
 +++
 title = "Chuck E.'s Birthday Blaster"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2024-00-00"

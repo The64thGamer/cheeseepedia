@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's Hightops"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"

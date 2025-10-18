@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Computer Fun Fair"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"

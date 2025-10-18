@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's MooMoo The Funny Jumping Cow"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""

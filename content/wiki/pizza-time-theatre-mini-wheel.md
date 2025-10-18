@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre Mini Wheel"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"

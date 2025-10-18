@@ -1,7 +1,7 @@
 +++
 title = "Chuck E's Marathon Runner"
 draft = false
-tags = ["Arcades & Attractions"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
