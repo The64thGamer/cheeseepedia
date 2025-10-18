@@ -16,6 +16,7 @@ downloadLinks = []
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
+pageThumbnailFile = "Screenshot_20251018_143304.avif"
 +++
 ***Cupertino, CA (10060 Bubb Rd.)*** was the Pizza Time Theatre main offices from February of 1979 to May of 1980.
 
