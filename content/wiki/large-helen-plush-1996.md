@@ -1,13 +1,14 @@
 +++
-title = "Large Helen Plush (1996)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+title = "Large Helen Plush (1996)"
 startDate = "1996-00-00"
 endDate = "0000-00-00"
-contributors = ["ToadEatSock","BurgersNuggs445","Anonymous","Tux Chuck"]
-citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 pageThumbnailFile = "IjOSJDutGuX6rSeSWAx4.avif"
+contributors = ["ToadEatSock", "BurgersNuggs445", "Anonymous", "Tux Chuck", "randomguyfan22"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
+manufacturer = "Dennis Foland Inc"
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
 +++
 The **1996 Large Helen Plush** was an official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
 
@@ -26,10 +27,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} wi
 
 This plush was released in a set containing other characters and sizes:
 
-- {{< wiki-link "Large Chuck E Plush (1996)" >}}
-- {{< wiki-link "Large Munch Plush (1996)" >}}
-- {{< wiki-link "Large Jasper Plush (1996)" >}}
-- {{< wiki-link "Large Pasqually Plush (1996)" >}}
+* {{< wiki-link "Large Chuck E. Plush (1996)" >}}
+* {{< wiki-link "Large Munch Plush (1996)" >}}
+* {{< wiki-link "Large Jasper Plush (1996)" >}}
+* {{< wiki-link "Large Pasqually Plush (1996)" >}}
 
 ## Design
 

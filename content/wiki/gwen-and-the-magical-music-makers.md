@@ -1,10 +1,66 @@
 +++
-title = "Gwen and the Magical Music Makers"
 draft = false
+title = "Gwen and the Magical Music Makers"
+startDate = "1983-06-25"
+endDate = "1994-02-00"
+pageThumbnailFile = ""
+contributors = ["BigCTheDataFinder"]
+citations = ["https://youtu.be/DE1fbCI4w_c?si=VPNCUyVjs5wfgk1H", "Information Shared by Sally's Dave Jones", "https://en.wikipedia.org/wiki/The_Sword_in_the_Stone_(1963_film)", "https://www.chicagotribune.com/news/ct-xpm-1996-02-14-9602140339-story.html", "https://archive.org/details/gwen-and-the-magical-music-makers", "https://en.wikipedia.org/wiki/Guinevere", "https://en.wikipedia.org/wiki/Lancelot", "https://youtu.be/6PrR8KMDEYU?si=Zsyh4q0rezJVRqxm"]
+manufacturer = "Sally Industries"
+unitsProduced = "1 (Quintet Prototype), 2 (Expanded Version)"
+animatronics = []
+showtapeFormats = []
 tags = ["Animatronic Shows"]
 categories = ["Sally Corporation"]
-pageThumbnailFile = ""
-startDate = ""
-endDate = ""
-contributors = []
 +++
+***Gwen and the Magical Music Makers*** was a Sally animatronic show produced in 1983, one of the company’s many *Showmation* ensemble shows. Especially created for and installed the Enchanted Castle chain of family entertainment centers (at the time owned by Round Table Pizza {{< cite 1 >}}), the final and last remaining installation was converted into *The Jammin' Jesters* by 1994.
+
+## Historical Background
+
+### Initial Development
+
+Sally Industries, fresh off the success of {{< wiki-link "Daniel and the Dixie Diggers" >}}, had firmly established itself as a manufacturer of animatronics for restaurants, theme parks, and other venues. Round Table Pizza, which had been in business for 23 years at this time, contracted Sally in September 1982 to create a custom animatronic show for its up-and-coming chain of family entertainment centers, the Enchanted Castle. {{< cite 2 >}} Janet Sherman, who had helmed the soundtrack of *Daniel and the Dixie Diggers* before it, returned to write and produce this show's soundtrack (recorded at Jacksonville's Warehouse Studios). Gwen and the Magical Music Makers were first built and tested as a prototype quintet configuration in an unknown Round Table location, with only the center stage of characters present. The official debut, however, of the finalized and expanded three-stage show coincided with the first Enchanted Castle's opening in {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}} on June 25th, 1983. The second Enchanted Castle to open in Lombard, IL (1103 S Main St), also included the expanded three-stage show (albeit with some theatrical differences), premiering on November 4, 1983. Coincidentally in March of 1983, the 1963 Walt Disney animated film _The Sword in the Stone_ (based upon the events of Arthurian legends) was theatrically rereleased. {{< cite 3 >}} It is speculated that the film's visual elements likely served as loose inspiration during the development of Sally's _Music Makers_.
+
+### Configuration Options
+
+Similar to the “Mark Twain’s Showboat” variant of *Daniel and the Dixie Diggers,* Sally offered different configuration options for *Gwen and the Magical Music Makers*. If requested, clients could convert the Merlin with Oscar Owl (Host Set) stage to operate on a turntable with alternative acts on their reverse sides. This was never implemented at any Enchanted Castle store with an installation, but is outlined by Sally as follows:
+
+**Host Set** - Santa Claus, Easter Bunny, or other animatronic characters. {{< cite 1 >}}
+
+### Decline
+
+It is currently unknown what happened to the alleged prototype quintet version of the *Music Makers*. However, it's possible that the show was either shipped back to Sally directly or dismantled for parts to be used by either expanded installations in Calgary or Lombard. The Calgary Enchanted Castle was suddenly shuttered in August 1984; its *Music Makers* installation is also unknown, though potentially either sent back to Sally or dismantled for parts to be used by Lombard as well. 
+
+As for Lombard's Enchanted Castle, when ownership transferred from Harold Skripsky to the recently expanding Discovery Zone chain in December 1993, the new management immediately contacted Sally about a refresh of the animatronic show. Unlike the *Music Makers*, the soundtrack would be produced by Enchanted Castle themselves (at the nearby Sound Decisions Studio in Lombard) and composed primarily with MIDI software instead of traditional instruments and a synthesizer utilized by the former. As Discovery Zone likely preferred to cut costs, Merlin, Oscar, Prince, Lance, Arthur, and Morgan le Fay were completely removed. Sally was ultimately restricted to programming the new soundtrack and providing three "new" animatronics to this refresh to serve as replacements for removed characters: Wally Wizard (who was originally an animatronic greeter for Enchanted Castle) installed on King Arthur's turntable, Cute the Little Dragon (whose pedestal and valves were recycled from Oscar Owl of the previous show), and an all-new Lady Guinevere whom now performed the piano previously belonging to Prince. Rodney (who was renamed to just "Jester" in the soundtrack), Godfrey, and Toby remained, though they were given brand-new iris details and slightly refined cosmetics/mask repaints. The refreshed, downscaled show, titled "_Jammin' Jesters_" on its center stage backdrop, premiered sometime in 1994 and has been unchanged since, even when Discovery Zone sold ownership back to Harold Skripsky by February 1996. {{< cite 4 >}} However, following a renovation in 2016, the original turntable stage for Merlin and Oscar Owl (which had still been utilized for a "Wheel of Fortune Birthday Wheel" by that point) has since been demolished.
+
+## Characters and Bios
+
+### Lady Guinivere
+**(Voice: Martha Trice)** The lead vocalist and star of the show, Gwen's role serves as the polite, encouraging emotional support to her dragon, human, and even owl friends. {{< cite 5 >}} In Arthurian legend, she is the future spouse of King Arthur himself as the Queen of Camelot (though in this interpretation, she is depicted as a young adult whilst Arthur remains a child, contradictory to the legend and its many variations). {{< cite 6 >}}
+
+### Prince
+Given his royalty, Prince is prim and proper when it comes to all things royalty. He is the yellow-furred, green-faced dragon pianist who dresses in a crown, braids, and a red royal robe. Taking no-nonsense from other characters, he occasionally calls out Lance, Oscar, and Morgan for their outrageous remarks, reciprocated with pushback from the three. Conversely, Prince has expressed moments of reassurance (primarily to Toby and young Arthur) in seemingly bleak times, such as how Toby doesn't need to joust or sword fight to have a place in Camelot, or how Arthur could start small in stature, just like the biggest dragon had. In one segment, Prince expressed his love for the theater (as he once claimed to have acted in a play with a tragic death scene), only to be ridiculed by Lance for his "only pretending" on stage. {{< cite 5 >}} Mechanically, Prince is a retrofit of the Quintet Daniel T. Bones animatronic from the _Dixie Diggers_.
+
+### Lance
+**(Voice: Doug Burel)** A passionate jouster and resident sarcastic, Lance is a blue-furred and blue-faced drummer who has a heart of gold deep down. Though often judgmental of his peers on stage (particularly Prince), and has once demonstrated rude demands (a gallon of dragon soda, a dozen dragon dumplings, and "make it snappy"), he too has expressed periodical moments of encouragement and friendliness to the others. {{< cite 5 >}} His name potentially derives from Lancelot of the Lake in the Arthurian legend, who is King Arthur's closest companion and greatest Knight of the Round Table. {{< cite 7 >}} Mechanically, Lance is a retrofit of the Sit-Down Colonel Beau animatronic from the Quintet _Dixie Diggers_
+
+### Rodney
+The "Hottest Act in Camelot," Rodney's jokester personality always brings pleasure to the band. As the purple dragon on the lute, Rodney is prone to misunderstandings (such as believing intrigues to be an extinct species of animal instead of a plot) and unintentional destruction (like burning down a stage during a stand-up comic routine through excessive fire-breathing, thus earning his reputation), though he is still very intelligent and much beloved all the same. {{< cite 5 >}} Mechanically, Rodney is a retrofit of Huck L. Berry from the Quintet _Dixie Diggers_.
+
+### Godfrey
+Very introverted and reluctant for a dragon, Godfrey has had quite a life as a dragon. Green-furred, green and tan-faced, Godfrey prefers to stick with performing on the horn, though he occasionally sings with the others in some segments. He has also admitted to losing his jousting license and being charged with "jumping a red knight" following a series of mishaps during his time at a jousting tournament. Nevertheless, Godfrey is considered to be a brave and kind-hearted old soul... besides the fact that he is facing hair loss. {{< cite 5 >}} Mechanically, Godfrey was a retrofit of Sir Percival from the Quintet _Dixie Diggers_ in the Round Table prototype, though was a retrofit of the Quintet Scratchmo animatronic from the _Dixie Diggers_ in the two expanded installations for Enchanted Castle (identical in movement capabilities, but different in arm positioning).
+
+### Toby the Birthday Dragon
+**(Voice: Mike Wilkes)** Toby is best known in the land of Camelot for chasing rainbows and baking birthday cakes. He is a large green-furred, green and yellow-faced, ginger-haired, and yellow-scaled dragon who sporadically appears from his cave to interact with the Music Makers and his friend Arthur whilst holding a birthday cake. As self-stated, Toby would rather not joust or quest like other dragons, as he doesn't have the courage capacity compared to Godfrey or Lance. Despite this, his friends respect his wishes and passions to be his own unique self. Toby also has a close friendship with the young King Arthur, comforting him when it seemed that being small and young was a saddening life compared to being older and taller. {{< cite 5 >}} As part of birthday parties outside of designated birthday segments, similar to ShowBiz Pizza's {{< wiki-link "Billy Bob Interactive Animation" >}} and future Sally characters, Toby was equipped with a feature in which an Enchanted Castle cast member could live-control the character to talk with the birthday person, appearing by himself without the other characters. {{< cite 8 >}} This was, however, abandoned upon the refresh to _Jammin' Jesters_.
+
+### Arthur
+**(Voice: Jennie Hodges)** The youngest but most famous character, Arthur is an aspiring knight who wishes to quest and explore like those much older and taller than him, though laments about his age and small stature preventing these dreams. Much like the other characters, Arthur loves celebrating birthdays, spending time with friends, and appreciating dragons. {{< cite 5 >}} His animatronic figure is shown behind the iconic "sword in the stone," depicting his success in proving his rightful heir status as the King of England.
+
+### Merlin
+The eccentric and elderly wizard commonly associated with Arthurian legend, Merlin serves as the occasional guest host of the show, cheering on Lady Gwen and her group with the songs they play and jokes they tell. He enjoys telling stories, especially about his mentorship of young Arthur into becoming the eventual King. Merlin also takes a no-nonsense attitude akin to Prince, often clashing with the personality of his companion, Oscar. However, sometimes the great magicianship can get overexcited when retelling his achievements, or even falling asleep for the entire duration of "Tiger Rag." {{< cite 5 >}} Mechanically, Merlin is a retrofit of Sally's Mark Twain animatronic (which first debuted in the "Mark Twain's Showboat" variant of _Daniel and the Dixie Diggers_), capable of sitting on a chair or standing upright.
+
+### Oscar Owl
+Oscar, a wise but grouchy owl, is the loyal and intelligent companion to Merlin in the _Music Makers_. He initially doesn't take too kindly to Gwen and the other dragons' happiness, though he eventually warms up after the group praises the owl for his own strengths and positive characteristics. Still, Oscar often tells off his master, Merlin, for constantly "patting himself on the back" whenever he praises personal achievements in mentoring young Arthur. {{< cite 5 >}} It is unconfirmed if Oscar was a mechanical retrofit of an existing Sally bird or was the first to be created, though his mechanism is shared with Pablo Pistachio in _John Phillip Tuba's Ice Cream In The Park_ (also manufactured by Sally) {{< cite 1 >}}, as well as a forgotten Sally character: "Bad Bird Billy." {{< cite 2 >}}
+
+### Morgan le Fay
+The half-sister of young Arthur, Morgan is very picky with her choice of music (classical Beethoven instead of "uncivilized" country in specific) and is thus a target of ridicule by the dragons (Lance even proclaiming how she is a "failure of a crop" in an otherwise excellent family tree as noted by Gwen). She only appears in a single instance in the entire show, that being the fifth segment (_Deep in the Heart of Texas / Donna the Dancing Dinosaur_). {{< cite 5 >}} Mechanically, Morgan is a retrofit of Sally's once-popular Tooth Fairy animatronic, being a mechanical head in an illuminated casing. {{< cite 1 >}}
