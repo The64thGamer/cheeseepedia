@@ -1,10 +1,11 @@
 +++
-title = "The Barnyard Band"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Presentations"]
-pageThumbnailFile = ""
+title = "The Barnyard Band"
 startDate = ""
 endDate = ""
-contributors = []
+pageThumbnailFile = ""
+contributors = ["mchmny"]
+tags = ["Animatronic Shows"]
+categories = ["Creative Presentations"]
 +++
+![](/photos/screenshot-2025-10-19-020217.png)
