@@ -2,7 +2,7 @@
 draft = false
 startdate = ""
 citations = ["https://www.facebook.com/showbizpizzacom/photos/harold-goldbrandsen-and-team-completing-the-original-jasper-t-jowls-animatronic-/10156140897530554/"]
-pages = ["Winchester Jasper T. Jowls (Animatronic)", "Fantasy Forest Victorville, CA Office", "Fantasy Forest"]
+pages = ["Winchester Jasper T. Jowls (Animatronic)", "Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = ""
 title = "0RzqrKX1aGKaKaMQOWoY.avif"
 tags = ["Photos"]
