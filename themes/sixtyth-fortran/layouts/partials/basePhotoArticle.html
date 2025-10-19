@@ -14,10 +14,12 @@
     {{- partial "display-page-box.html" . -}}
   {{- end -}}
 {{- end -}}
+{{- partial "display-citations.html" . -}}
 <hr>
-{{- if .Params.startDate -}}
-  <div class="contributors">
-    <strong> Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
-  </div>
-  <hr>
-{{- end -}}
+{{- partial "display-contributors.html" . -}}
+<hr>
+<aside data-pagefind-ignore="all">
+<h2>Random Articles</h2>
+</aside>
+{{- partial "random-page.html" . -}}
+{{- partial "random-page.html" . -}}
