@@ -12,7 +12,7 @@ The ***Star Cast Member of the Month 2015 Pin* was given to CEC employees for th
 
 ## Design
 
-The design is similar to the design of the {{< wiki-link "Chuck E Cheese's" >}} token throughout the years, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
+The design is similar to the design of the {{< wiki-link "Chuck E. Cheese's" >}} token throughout the years, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
 `STAR CAST MEMBER OF THE MONTH • 2015 •`
 
 ## Acquirement

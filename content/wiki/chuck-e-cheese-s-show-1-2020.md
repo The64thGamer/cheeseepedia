@@ -73,7 +73,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Trivia:
 
-- 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day' is originally from {{< wiki-link "Chuck E Cheese's Show 1 2018" >}}, 'Play All You Can Play' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2019" >}}, and 'Chuck E's Place' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}.
+- 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}, 'Play All You Can Play' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2019" >}}, and 'Chuck E's Place' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
 - Chuck E.'s Place had its intro cut from the show due to it being related to the 40th Years of Fun promotion. Strangely, the 'Wink' jingle was also kept for Studio C locations despite those locations not having a Wink.
 - This show was originally intended to play till March 29, 2020 but ended early due to Covid-19.
 - On March 13, 2020, Automatic Live shows were disabled for Studio C and Weigl systems due to COVID-19.

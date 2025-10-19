@@ -74,7 +74,7 @@ This was created to play from August 21, 2017. - October 1, 2017. This show feat
 
 ## Trivia:
 
-- Jasper's Birthday is originally from {{< wiki-link "Chuck E Cheese's Show 6 2016" >}} and 'Nothing Like a Walk' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- Jasper's Birthday is originally from {{< wiki-link "Chuck E. Cheese's Show 6 2016" >}} and 'Nothing Like a Walk' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - This would be the final show to mention the 40 Years of Fun promotion.
 - One of the background puppets in 'It's the 70s' reuses the eyes of the 2013 Helen puppet.
 - The footage filmed at Chuck E. Cheese during *Every Boy Every Girl* was filmed at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. It was originally shot in 2012 for the {{< wiki-link "Fall 2012 Show" >}}.

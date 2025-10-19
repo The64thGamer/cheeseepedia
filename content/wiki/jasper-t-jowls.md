@@ -17,7 +17,7 @@ citations = []
 
 ### Pizza Time Theatre
 
-From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
+From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E. Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
 
 ### ShowBiz Pizza Time
 

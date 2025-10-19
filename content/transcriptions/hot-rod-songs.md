@@ -26,7 +26,7 @@ Rockin and rollin in their hot rods, right Jasper?
 
 Sure nuff, Big C!
 
-**Chuck E Cheese:**
+**Chuck E. Cheese:**
 
 Go for it boy.
 

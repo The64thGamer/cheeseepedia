@@ -16,6 +16,6 @@ The Ad was created in 1979 (Day & Month Unknown) along with {{< wiki-link "The G
 
 ## Cast
 
-- Ed Bogas - {{< wiki-link "Chuck E Cheese" >}}
+- Ed Bogas - {{< wiki-link "Chuck E. Cheese" >}}
 - Unknown - Disembodied (Take 1)
 - Unknown - Disembodied (Take 2)

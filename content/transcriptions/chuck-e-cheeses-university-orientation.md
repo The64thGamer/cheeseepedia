@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese's University Orientation"
+title = "Chuck E. Cheese's University Orientation"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

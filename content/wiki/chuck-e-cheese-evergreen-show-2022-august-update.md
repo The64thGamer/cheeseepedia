@@ -76,4 +76,4 @@ This was created with the idea to play between promotional events. Runs from Aug
 
 ## Trivia
 
-- This is the last Evergreen show to include programming signals for Studio C-based systems. Starting with {{< wiki-link "Chuck E Cheese Evergreen Show 2023" >}}, all programming signals for these systems would be stripped and would only include curtain open/close signals and random movements.
+- This is the last Evergreen show to include programming signals for Studio C-based systems. Starting with {{< wiki-link "Chuck E. Cheese Evergreen Show 2023" >}}, all programming signals for these systems would be stripped and would only include curtain open/close signals and random movements.

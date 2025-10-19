@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese's Bucket Bonanza"
+title = "Chuck E. Cheese's Bucket Bonanza"
 draft = false
 tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]

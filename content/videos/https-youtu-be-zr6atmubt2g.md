@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/zr6ATMubT2g"
 startdate = "2022-03-12"
-pages = ["Jacksonville, FL (9820 Atlantic Blvd)", "Studio C Alpha", "Chuck E Cheese 32m (Animatronic)", "Bird (Animatronic)", "Pizza Time Clock (Animatronic)", "Pizza Phone (Animatronic)"]
+pages = ["Jacksonville, FL (9820 Atlantic Blvd)", "Studio C Alpha", "Chuck E. Cheese 32m (Animatronic)", "Bird (Animatronic)", "Pizza Time Clock (Animatronic)", "Pizza Phone (Animatronic)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

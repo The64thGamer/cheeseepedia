@@ -14,7 +14,7 @@ pageThumbnailFile = "f2KD8SKw__HEhPxItesE.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
 
-***Me &amp; My Friends*** is a live show released with {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}. Then in 2021 they made cuts to the *Ticket Splash*, alongside redoing the initial countdown of the show.
+***Me &amp; My Friends*** is a live show released with {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}. Then in 2021 they made cuts to the *Ticket Splash*, alongside redoing the initial countdown of the show.
 
 ## Summary
 

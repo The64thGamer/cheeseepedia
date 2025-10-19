@@ -11,7 +11,7 @@ pageThumbnailFile = "1XxfCfFvnzrtEdgnfrC6.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
 +++
 ***Chuck E. Cheese International Show 2 2023* is the Spring show released on April 17, 2023 featuring a variety of songs released from 2016-2019.
-This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the {{< wiki-link "Chuck E Cheese Kidz Bop Show 2023" >}} while Canada and Puerto Rico play the {{< wiki-link "Chuck E Cheese Spring Show 2023" >}} The automatic live is Spring Break Break Dance.**
+This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the {{< wiki-link "Chuck E. Cheese Kidz Bop Show 2023" >}} while Canada and Puerto Rico play the {{< wiki-link "Chuck E. Cheese Spring Show 2023" >}} The automatic live is Spring Break Break Dance.**
 
 ## Show List:
 

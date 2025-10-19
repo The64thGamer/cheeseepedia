@@ -72,8 +72,8 @@ This was created to play from January 3rd, 2017 - February 26th, 2017. This show
 
 ## Trivia:
 
-- 'Song Title' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} 'Your Birthdays Are Special is originally from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}}
+- 'Song Title' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}} 'Your Birthdays Are Special is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}
 - 'Together We've Got It' is a remake of the first Munch's Make Believe Bands first song originally shown off at the end of SPP Christmas- '89 / Wave Bday|SPP Christmas - '89. and officially put into a show with {{< wiki-link "SPP Concept Unification Premiere" >}}
-- 'Together We've Got It' was uploaded to YouTube 4 days before the showtape was released by user ' [EAS CEC](https://www.youtube.com/channel/UCyZBJa8_4c67aT8w-_jYKqw)' when a video titled ' [Chuck E Cheese's Dept 18 Headquarters (Irving, TX) Show 1, 2017 Demo.](https://www.youtube.com/watch?v=DLm4w7hOFgQ)' was released.
+- 'Together We've Got It' was uploaded to YouTube 4 days before the showtape was released by user ' [EAS CEC](https://www.youtube.com/channel/UCyZBJa8_4c67aT8w-_jYKqw)' when a video titled ' [Chuck E. Cheese's Dept 18 Headquarters (Irving, TX) Show 1, 2017 Demo.](https://www.youtube.com/watch?v=DLm4w7hOFgQ)' was released.
 - 'Together We've Got It' and 'Remember That Time' both feature the retro outfits created for this show. The puppets were all given new outfits based on their 90s designs with some changes from the original 89 designs such as. Chuck doesn't have a Derby, Helen has yellow hair, and Jasper has no hat.
 - In 'Remember That Time' the retro outfits are shown when they show an image taken 'at the very first Chuck E. Cheese's' despite the fact none of those outfits would be worn until 1989. They also photoshopped a Derby onto Chuck which came from an [old Ebay Auction](https://www.worthpoint.com/worthopedia/rarely-seen-mint-1986-chuck-cheese-1810336063). The second image is what was used in 'Remember That Time'.

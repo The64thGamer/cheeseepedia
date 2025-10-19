@@ -71,6 +71,6 @@ This was created to play from April 16, 2018 - June 25, 2018. Featuring 5 songs 
 
 ## Trivia:
 
-- Dream Big was originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- Dream Big was originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - For April Fools day 2018 CEC Created 'Munch's Make Believe Bands Farewell Tour' Which on April 1, 2018 CEC released an album where three of the songs featured on the show were released early. Those being 'More Cheese', 'Jasper's Country Classic' and 'Easy Dance'. Easy Dance was hidden after 'Your Birthdays Are Special'
-- Due to a glitch, Happy Birthday, Helen Henny would play a second time instead of More Cheese on Studio C SD. More Cheese was later included on {{< wiki-link "Chuck E Cheese's Show 4 2018" >}} exclusively for Studio C SD locations because of it not being able to play in Show 3.
+- Due to a glitch, Happy Birthday, Helen Henny would play a second time instead of More Cheese on Studio C SD. More Cheese was later included on {{< wiki-link "Chuck E. Cheese's Show 4 2018" >}} exclusively for Studio C SD locations because of it not being able to play in Show 3.

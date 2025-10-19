@@ -28,7 +28,7 @@ This format was only produced for 5 years before it switched to C&R SVHS (Post-9
 - {{< wiki-link "CEC Home for the Holidays" >}}
 - CEC Fractured Classics
 - CEC Kiddie Songs
-- {{< wiki-link "Chuck E Cheese Shows (CEC Best of 1988)" >}}
+- {{< wiki-link "Chuck E. Cheese Shows (CEC Best of 1988)" >}}
 - {{< wiki-link "CEC DreamsKids Showtape" >}}
 - CEC Neighbors / Dreams
 - CEC Christmas '89 / Wave Bday

@@ -30,7 +30,7 @@ With the start of '2.0' remodels in 2017, the Dance Floors were updated. These n
 
 ### 2019 Model
 
-In 2019 alongside the remodel of {{< wiki-link "San Bruno, CA (1270-1272 El Camino Real)" >}}, the Dance Floors were updated to have a screen that could display interactive graphics on it. The floodlights and six TVs saw no changes. The floor started with just the generic pre-installed programs displayed on it, such as an interactable koi pond, but starting with {{< wiki-link "Chuck E Cheese's Show 3 2020 &amp; DJ Munch's Glow Party" >}} it would receive custom graphics and programs relating to the current media playing in the store.
+In 2019 alongside the remodel of {{< wiki-link "San Bruno, CA (1270-1272 El Camino Real)" >}}, the Dance Floors were updated to have a screen that could display interactive graphics on it. The floodlights and six TVs saw no changes. The floor started with just the generic pre-installed programs displayed on it, such as an interactable koi pond, but starting with {{< wiki-link "Chuck E. Cheese's Show 3 2020 &amp; DJ Munch's Glow Party" >}} it would receive custom graphics and programs relating to the current media playing in the store.
 
 ### 2021 Model
 

@@ -30,7 +30,7 @@ At an unknown time, the bot would be destroyed.
 
 ### Modern Apperances
 
-The bot appeared as a character in the 2018 CEC Halloween special 'Halloween At The Pizza Time Theater' in which the Animatronic appears alongside a {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}} &amp; {{< wiki-link "The King King Kat (Lounge)" >}}. In the short, The Bot is given legs &amp; attempts to attack {{< wiki-link "Chuck E Cheese" >}} after he gives criticism to the 3 bots.
+The bot appeared as a character in the 2018 CEC Halloween special 'Halloween At The Pizza Time Theater' in which the Animatronic appears alongside a {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}} &amp; {{< wiki-link "The King King Kat (Lounge)" >}}. In the short, The Bot is given legs &amp; attempts to attack {{< wiki-link "Chuck E. Cheese" >}} after he gives criticism to the 3 bots.
 
 ## Design
 

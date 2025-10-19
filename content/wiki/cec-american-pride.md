@@ -11,7 +11,7 @@ alsoKnownAs = ["260-0507-91 (C) S.P.T. Inc. CU AMERICAN PRIDE/WAVE 3 STAGE Seria
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**American Pride** is a Patriotic themed show that played at Chuck E Cheese's, not to be confused with {{< wiki-link "CEC American Pride Neighbors" >}} it is the very first Munch's Make Believe Bands Patriotic showtape.
+**American Pride** is a Patriotic themed show that played at Chuck E. Cheese's, not to be confused with {{< wiki-link "CEC American Pride Neighbors" >}} it is the very first Munch's Make Believe Bands Patriotic showtape.
 
 ## Show List
 

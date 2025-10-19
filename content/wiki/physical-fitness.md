@@ -13,7 +13,7 @@ alsoKnownAs = ["260-0214-92 (C) S.P.T., Inc.", "CU PHYSICAL FIT/BDAY STAR (3 STA
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Physical Fitness** was a showtape that played from March 1992 through May 1992 at Chuck E Cheese’s Pizza.
+**Physical Fitness** was a showtape that played from March 1992 through May 1992 at Chuck E. Cheese’s Pizza.
 
 ## Show List:
 

@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese Early Walkaround"
+title = "Chuck E. Cheese Early Walkaround"
 draft = false
 tags = ["Costumed Characters"]
 categories = ["Pizza Time Theatre"]

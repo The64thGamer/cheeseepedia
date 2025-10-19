@@ -21,7 +21,7 @@ Earl Schmerle was based off the voice of the Wolfman from the {{< wiki-link "Wol
 
 ### ShowBiz Pizza Place
 
-Earl originally had a show with Rolfe. This would be called 'The Rolfe and Earl Show', which presented Earl as an angry puppet who liked to insult Rolfe. This was short lived in showtapes, as Rolfe and Earl would be replaced by Uncle Klunk in 1983. Uncle Klunk was a failed concept, which led to most stores reinstalling their Rolfe &amp; Earl animatronic. Earl would only make small appearances later on, usually stopping Rolfes antics. Earl notably sang a few songs, unlike other band members such as {{< wiki-link "Looney Bird" >}}. During {{< wiki-link "Concept Unification" >}}, several Rolfe animatronics would be retrofitted into {{< wiki-link "Chuck E Cheese" >}}. Earl was scrapped during this process.
+Earl originally had a show with Rolfe. This would be called 'The Rolfe and Earl Show', which presented Earl as an angry puppet who liked to insult Rolfe. This was short lived in showtapes, as Rolfe and Earl would be replaced by Uncle Klunk in 1983. Uncle Klunk was a failed concept, which led to most stores reinstalling their Rolfe &amp; Earl animatronic. Earl would only make small appearances later on, usually stopping Rolfes antics. Earl notably sang a few songs, unlike other band members such as {{< wiki-link "Looney Bird" >}}. During {{< wiki-link "Concept Unification" >}}, several Rolfe animatronics would be retrofitted into {{< wiki-link "Chuck E. Cheese" >}}. Earl was scrapped during this process.
 
 ### The New Rock-afire Explosion
 

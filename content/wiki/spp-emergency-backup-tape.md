@@ -21,7 +21,7 @@ As stated in the {{< wiki-link "Concept Unification Installation Manual" >}}, th
 
 ## Recycled Video Intermissions
 
-This showtape included video segments from other ShowBiz Pizza Place & Chuck E Cheese's showtapes.
+This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams

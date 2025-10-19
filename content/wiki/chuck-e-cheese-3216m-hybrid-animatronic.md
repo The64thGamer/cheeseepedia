@@ -11,7 +11,7 @@ unitsProduced = "1"
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Chuck E. Cheese 32 / 16 Movement Hybrid* was an animatronic found at the {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} Chuck E. Cheese's store. The Bot was a {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} with the head mech being replaced with {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} which came from the {{< wiki-link "Leominster, MA (132 Sacks Blvd)" >}} store. The original head was discarded for parts.**
+The ***Chuck E. Cheese 32 / 16 Movement Hybrid* was an animatronic found at the {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} Chuck E. Cheese's store. The Bot was a {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}} with the head mech being replaced with {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} which came from the {{< wiki-link "Leominster, MA (132 Sacks Blvd)" >}} store. The original head was discarded for parts.**
 
 ## History
 

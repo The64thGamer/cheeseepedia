@@ -91,5 +91,5 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 
 ## Trivia:
 
-- Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}, and What Do You Get a Sasquatch for Christmas? is originally from {{< wiki-link "Holiday 2014 Show" >}}.
+- Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}, and What Do You Get a Sasquatch for Christmas? is originally from {{< wiki-link "Holiday 2014 Show" >}}.
 - Jangle is done by Matt Daniel. It's unknown who does Jingle's voice.

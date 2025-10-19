@@ -90,7 +90,7 @@ This was created to play during the 'Winter Winner-Land'. This show played from 
 
 ## Trivia
 
-- 'Cookies For Santa', 'Holiday Fiesta' and 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight' are originally from {{< wiki-link "Chuck E Cheese's Show 5 2019" >}}, 'Snowman' and 'What Do You Get a Sasquatch for Christmas?' from {{< wiki-link "Holiday 2014 Show" >}} and 'Merry Christmastime' and 'Holiday Medley' from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}
+- 'Cookies For Santa', 'Holiday Fiesta' and 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight' are originally from {{< wiki-link "Chuck E. Cheese's Show 5 2019" >}}, 'Snowman' and 'What Do You Get a Sasquatch for Christmas?' from {{< wiki-link "Holiday 2014 Show" >}} and 'Merry Christmastime' and 'Holiday Medley' from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}
 - Snowman had Helens voice replaced with Carolina Richardsons and removed the line 'What American dog doesn't love to frolic in the snow'
 - Holiday Medley was redone to appear as a video call along with adding Bella onto the footage. The lines 'In this Winter Winner-Land' Were added to the start. The footage shows six squares one for each character with photoshopped backdrops. Despite Bella being added onto the footage Bella does not have any vocals added.
 - Various parts of Winner Wonder Dance were changed due to covid regulations such as adding the line 'Spread out at least six feet apart, follow me ho ho ho!' changing the line 'Let's all get together, Come on and take my hand' to 'It looks like snowy weather, It makes me feel so grand' another line that was changed was 'High Five your friends!' which was changed to 'Wave to your friends!' Along with that any mention of the 'Ticket Splash' was removed at the end of the song.

@@ -65,5 +65,5 @@ This was created to play from February 26, 2018 - April 15, 2018. Featuring 5 so
 
 ## Trivia:
 
-- Happy Birthday, Munch! and Purple Planet Point of View are originally from {{< wiki-link "Chuck E Cheese's Show 2 2017" >}}, Dancin' Kitten is originally from Chuck E. Cheese's Winter 2015|Winter 2015, Rainy Day is originally from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}}, Trio is originally from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}.
+- Happy Birthday, Munch! and Purple Planet Point of View are originally from {{< wiki-link "Chuck E. Cheese's Show 2 2017" >}}, Dancin' Kitten is originally from Chuck E. Cheese's Winter 2015|Winter 2015, Rainy Day is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}, Trio is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
 - The Birthday Star Spectacular is complete redone from scratch being the first time CEC created a completely new birthday show since 2015!

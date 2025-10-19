@@ -80,9 +80,9 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
 
 ## Trivia:
 
-- 'Out of This World' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} and 'Rockin' Robot' is originally from {{< wiki-link "The Chuck E Cheese Show" >}}.
+- 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}} and 'Rockin' Robot' is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}.
 - Show Break - 'Office Friends' reuses the footage of 'Is It Love' from {{< wiki-link "April 2007 Show" >}} 'Is This Love'
 - The song 'Love Wins' by Carrie Underwood was originally meant to be in Show 3 2019 but was removed from the final release. It can still be seen on the SD copy of Show 3 2019.
-- This is the first show with Bella back since {{< wiki-link "Chuck E Cheese's Show 1 2018" >}}. With the new appearance she got a new puppet and Voice Actress.
-- Just like in {{< wiki-link "Chuck E Cheese's Show 6 2016" >}}, Helen's one spoken line in 'Rockin' Robot' provided by Annagrey wasn't redubbed.
+- This is the first show with Bella back since {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}. With the new appearance she got a new puppet and Voice Actress.
+- Just like in {{< wiki-link "Chuck E. Cheese's Show 6 2016" >}}, Helen's one spoken line in 'Rockin' Robot' provided by Annagrey wasn't redubbed.
 - 'Rockin' Robot' was reprogrammed for the Studio C/Wedgi stages.

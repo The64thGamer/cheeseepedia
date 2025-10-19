@@ -79,4 +79,4 @@ This was created to play from November 20, 2017 - January 3, 2018. Featuring 7 s
 
 ## Trivia:
 
-Happy Birthday, Pasqually, Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}, Snowman and What Do You Get a Sasquatch for Christmas? are originally from {{< wiki-link "Holiday 2014 Show" >}}.
+Happy Birthday, Pasqually, Merry Christmastime, Share The Joy and Holiday Medley all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}, Snowman and What Do You Get a Sasquatch for Christmas? are originally from {{< wiki-link "Holiday 2014 Show" >}}.

@@ -11,7 +11,7 @@ pageThumbnailFile = "nFewKX_Rfd4OJi_I4_bI.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
 Chuck E. Cheese KIDZ BOP Nightly Takeover is the night summer show released July 8, 2024.
-This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuck E. Cheese. This showtape features 0 programmed CEC songs. This show runs from 6pm to closing, the {{< wiki-link "Chuck E Cheese Summer Show 2024 Part 2" >}} will play outside the timeframe for this show.
+This showtape was created to promote the KIDZ BOP Nightly Takeover event at Chuck E. Cheese. This showtape features 0 programmed CEC songs. This show runs from 6pm to closing, the {{< wiki-link "Chuck E. Cheese Summer Show 2024 Part 2" >}} will play outside the timeframe for this show.
 
 ## Show List:
 

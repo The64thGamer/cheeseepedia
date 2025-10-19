@@ -55,7 +55,7 @@ I've also been to a few others but it was so long ago that I can't recall the ex
 
 #### Winchester
 
-1.  {{< wiki-link "PTT Winchester Chuck E Cheese Name Sign (1977)" >}}
+1.  {{< wiki-link "PTT Winchester Chuck E. Cheese Name Sign (1977)" >}}
 2.  {{< wiki-link "PTT Winchester Crusty Name Sign (1977)" >}}
 3.  {{< wiki-link "PTT Winchester Jasper T Jowls Name Sign (1977)" >}}
 4.  {{< wiki-link "PTT Winchester Warblettes Name Sign (1977)" >}}
@@ -65,7 +65,7 @@ I've also been to a few others but it was so long ago that I can't recall the ex
 
 #### Kooser
 
-1.  {{< wiki-link "PTT Kooser Chuck E Cheese Name Sign (1978)" >}}
+1.  {{< wiki-link "PTT Kooser Chuck E. Cheese Name Sign (1978)" >}}
 2.  {{< wiki-link "PTT Kooser Mr Munch Name Sign (1978)" >}}
 3.  {{< wiki-link "PTT Kooser Jasper T Jowls Name Sign (1978)" >}}
 4.  {{< wiki-link "PTT Kooser Helen Henny Name Sign (1978)" >}}

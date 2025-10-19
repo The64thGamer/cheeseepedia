@@ -27,7 +27,7 @@ At an unknown time prior to mid-2022, CEC Corporate began discussions of a possi
 
 ### Store Acquisitions
 
-Around the time of these discussions, certain stores that were closing or going through a remodel were selected to have their items sent to the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} or {{< wiki-link "Chuck E Cheese's Corporate Office" >}} for possible use.
+Around the time of these discussions, certain stores that were closing or going through a remodel were selected to have their items sent to the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}} or {{< wiki-link "Chuck E. Cheese's Corporate Office" >}} for possible use.
 
 - Slidell, LA (124 North Shore Blvd)
   - October 22, 2020 - Art taken during closure.

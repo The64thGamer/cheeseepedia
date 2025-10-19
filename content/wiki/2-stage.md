@@ -12,7 +12,7 @@ citations = []
 pageThumbnailFile = "_aH_0Fo8Ab2Ijw4xjQ9Z.avif"
 +++
 
-The ***2-Stage*** is a stage format found at {{< wiki-link "Chuck E Cheese's" >}} locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage|Rocker Stage had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
+The ***2-Stage*** is a stage format found at {{< wiki-link "Chuck E. Cheese's" >}} locations that either opened with the stage or replaced a previous stage from 1992 to 1997. It was the first Cyberamic stage to give all the characters legs, as the Cyberamics Rocker Stage|Rocker Stage had Chuck E., Helen, and Jasper with legs, but Munch and Pasqually were still half-bodied. As of May 2024, there are 4 2-Stages in the United States and Canada.
 
 ## History
 

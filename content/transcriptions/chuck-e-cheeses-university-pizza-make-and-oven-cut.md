@@ -1,11 +1,11 @@
 +++
-title = "Chuck E Cheese's University Pizza Make and Oven Cut"
+title = "Chuck E. Cheese's University Pizza Make and Oven Cut"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Voiceover)**
 
-This is a Chuck E Cheese's University production let the entertrainment begin
+This is a Chuck E. Cheese's University production let the entertrainment begin
 
 **Todd Horchner:**
 

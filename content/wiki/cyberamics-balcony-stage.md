@@ -31,7 +31,7 @@ The 'Irish Stew' & '{{< wiki-link "Around the World (PTT Theme)" >}}' Showtapes 
 
 ### ShowBiz Pizza Time / Chuck E. Cheese's
 
-After {{< wiki-link "ShowBiz Pizza Place" >}} would buy out PTT from 1984 to 1985, they would continue to open {{< wiki-link "Chuck E Cheese's" >}} locations until January 1986, with the last location being in {{< wiki-link "Fairbanks, AK (600 Old Steese Hwy)" >}}. In 1987, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would replace their Balcony Stage with a {{< wiki-link "Chuck E's House" >}}. All locations forward would open with a Rocker Stage & several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facades to replace the fronts & backdrops of Balcony Stage, to make them look like a house.
+After {{< wiki-link "ShowBiz Pizza Place" >}} would buy out PTT from 1984 to 1985, they would continue to open {{< wiki-link "Chuck E. Cheese's" >}} locations until January 1986, with the last location being in {{< wiki-link "Fairbanks, AK (600 Old Steese Hwy)" >}}. In 1987, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would replace their Balcony Stage with a {{< wiki-link "Chuck E's House" >}}. All locations forward would open with a Rocker Stage & several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facades to replace the fronts & backdrops of Balcony Stage, to make them look like a house.
 The last Balcony Stage would be located at {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} which was replaced in 1993 for a {{< wiki-link "2-Stage" >}}.
 
 ### Present / Chuck E. Cheese
@@ -73,7 +73,7 @@ The 'Band Board Stage' was the area used for {{< wiki-link "Drum Board (Cyberami
 
 #### Mr. Munch's Magic Madhouse
 
-Mr. Munch's Magic Madhouse was an area placed under The Bird Stage. The area had Signage saying 'Mr. Munch's Magic Madhouse' with a {{< wiki-link "Chuck E Cheese" >}} icon placed on it. The area had lights in the inside area. The area had a rectangular Entrance. The area was removed in later variations.
+Mr. Munch's Magic Madhouse was an area placed under The Bird Stage. The area had Signage saying 'Mr. Munch's Magic Madhouse' with a {{< wiki-link "Chuck E. Cheese" >}} icon placed on it. The area had lights in the inside area. The area had a rectangular Entrance. The area was removed in later variations.
 
 #### Cheese-Crawl
 

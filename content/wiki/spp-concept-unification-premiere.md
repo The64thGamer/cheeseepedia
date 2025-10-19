@@ -30,7 +30,7 @@ The only 'On Location' footage featured is the {{< wiki-link "Irving, TX (3903 W
 
 ### Recycled Video Intermissions
 
-This showtape included video segments from other ShowBiz Pizza Place & Chuck E Cheese's showtapes.
+This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams

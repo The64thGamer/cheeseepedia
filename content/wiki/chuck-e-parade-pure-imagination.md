@@ -10,7 +10,7 @@ citations = []
 mediaDuration = "9:00"
 +++
 ***Chuck E. Parade* is an unreleased live show originally meant to be paired with {{< wiki-link "SPP Concept Unification Premiere" >}} .
-This live show was never programmed and ShowBiz Pizza Time decided to create and use {{< wiki-link "Chuck E Cheese's Live 90" >}} instead.**
+This live show was never programmed and ShowBiz Pizza Time decided to create and use {{< wiki-link "Chuck E. Cheese's Live 90" >}} instead.**
 
 ## Summary
 

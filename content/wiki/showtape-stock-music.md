@@ -40,7 +40,7 @@ citations = []
 | The Illusionist                            |                                                            | Eldorado                                     | Patrick O'Hearn                        |
 | D.I.Y. No. 1 D                             | 1 Minute Countdown Mr Munch                                | Prime Cuts Volume One                        | Andy Quin                              |
 | Typing A                                   | 2 Minute Countdown Jasper T Jowls                          | Prime Cuts Volume One                        | Andy Quin                              |
-| Ten Green Bottles                          | 3 Minute Countdown Chuck E Cheese                          | Children / Well Known Tunes 2                | David Rogers, Paul Shaw                |
+| Ten Green Bottles                          | 3 Minute Countdown Chuck E. Cheese                          | Children / Well Known Tunes 2                | David Rogers, Paul Shaw                |
 | Smokey Mountain Brew                       | Summer 2000 Show Zoo Countdown                             | Country II                                   | Digital Juice                          |
 | Barrelhouse Piano                          | September 2005 Show 'Footloose' Countdown                  | Country II                                   | Digital Juice                          |
 | Sippin' Tea                                | Existing Stage Diagnostics Track, January 2005 Countdown   | Country II                                   | River City Sound Productions/BackTraxx |

@@ -81,7 +81,7 @@ Please clean all parts in the tape path before each recording. This includes the
 
 ### DVD
 
-Correctly preserving DVDs can be done in multiple ways, and the available options depend on the type of disc. DVDs without copy protection (such as Chuck E Cheese showtapes) can simply be ripped to an ISO and this is the preferred method. DVDs with copy protection need special handling - TODO.
+Correctly preserving DVDs can be done in multiple ways, and the available options depend on the type of disc. DVDs without copy protection (such as Chuck E. Cheese showtapes) can simply be ripped to an ISO and this is the preferred method. DVDs with copy protection need special handling - TODO.
 
 ### VHS, Beta, SVHS
 

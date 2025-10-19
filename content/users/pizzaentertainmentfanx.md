@@ -18,7 +18,7 @@ I'm a fan of animatronics, CEC, & more.
 - {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}}
 - {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}}
 - {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}
-- {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}
+- {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}
 - {{< wiki-link "Kooser Pasqually (Animatronic)" >}}
 - {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}
 - {{< wiki-link "Kooser Mr Munch (Animatronic)" >}}
@@ -31,7 +31,7 @@ I'm a fan of animatronics, CEC, & more.
 - Ox Character (Cyberamic)
 - {{< wiki-link "Beach Bear (Animatronic)" >}}
 - {{< wiki-link "Fatz Geronimo (Animatronic)" >}}
-- {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}
 - {{< wiki-link "Friendly Freddy (Animatronic)" >}}
 - Santa Claus (Jingle Bell Jamboree Animatronic)
 - Billy Wilbur (Animatronic)

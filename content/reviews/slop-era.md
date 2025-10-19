@@ -2,7 +2,7 @@
 recommend = false
 title = "Slop Era"
 startdate = "2025-10-12"
-page = "BOOTACULAR CHUCK E CHEESE (Commercial)"
+page = "BOOTACULAR Chuck E. Cheese (Commercial)"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]
 +++

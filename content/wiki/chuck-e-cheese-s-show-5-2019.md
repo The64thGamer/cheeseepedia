@@ -84,4 +84,4 @@ The show was intended to play from November 4, 2019 - December 29, 2019. It feat
 
 ## Trivia:
 
-- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}.
+- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E. Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}.

@@ -9,7 +9,7 @@ citations = ["YouTube "]
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
-***CEC University: General Kitchen & Service* is an employee training program  for Chuck E Cheese's restaurants specifically the "Chuck E. Cheese's University Training ( 1991) | General Kitchen & Service" video, which was released in 1991 <sup> (1) </sup>. 
+***CEC University: General Kitchen & Service* is an employee training program  for Chuck E. Cheese's restaurants specifically the "Chuck E. Cheese's University Training ( 1991) | General Kitchen & Service" video, which was released in 1991 <sup> (1) </sup>. 
 
 ## Summary 
 This program was designed for employees assigned to or working in the kitchen and front-of-house service areas. Its primary goal was to ensure consistency in the food preparation, adherence to the hygiene and safety standards, and the delivery of high-quality customer service. The training covered essential procedures from handling for and maintaining kitchen cleanliness to interacting with guests and managing common service situations. This standardization was crucial for maintaining the Chuck E. Cheese brand experience across all locations 

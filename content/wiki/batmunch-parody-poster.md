@@ -9,11 +9,11 @@ citations = ["https://www.youtube.com/watch?v=0y042y5ZBRk", "https://www.showbiz
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 +++
-**BatMunch** was a poster created for Showbiz Pizza and Chuck e cheese probably in 1989 or 1990.
+**BatMunch** was a poster created for Showbiz Pizza and Chuck E. Cheese probably in 1989 or 1990.
 
 ## History
 
-This poster was one of the many Chuck E Cheese's parody posters released in 1988. It is believed that after 1991, production of this poster and the other Chuck E Cheese's movie parody posters would cease.
+This poster was one of the many Chuck E. Cheese's parody posters released in 1988. It is believed that after 1991, production of this poster and the other Chuck E. Cheese's movie parody posters would cease.
 Over the years, this poster would become very rare to find in stores nationwide as remodels would occur and the removal of this poster and rest of the movie parody posters.
 
 ## Design

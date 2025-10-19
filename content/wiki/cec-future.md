@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "bOApj0qRJZiVVjQlnRPw.avif"
 showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
-**Future** is a showtape that played during March 14 - May 6 1991 at Chuck E Cheese's.
+**Future** is a showtape that played during March 14 - May 6 1991 at Chuck E. Cheese's.
 
 ## Theme
 
@@ -87,7 +87,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 ## Trivia:
 
 - The intermission music is the same as [SPP Best Of 3](https://decodedocdigitize.miraheze.org/wiki/SPP_Best_Of_3_/_Wave_Bday) (except for the last two intermissions)
-- This showtape introduced a brand new Chuck E Cheese puppet while the rest of the cast got reworked to be more polished compare to the [previous showtape](https://decodedocdigitize.miraheze.org/wiki/CEC_Jan_%2791) of the same year.
+- This showtape introduced a brand new Chuck E. Cheese puppet while the rest of the cast got reworked to be more polished compare to the [previous showtape](https://decodedocdigitize.miraheze.org/wiki/CEC_Jan_%2791) of the same year.
 - In Guessing Game at the beginning it features a futuristic building named ShowBiz with a space ship passing by, this is the last time CEC uses the name in the shows moving forward.
 - There's a hidden behind the scenes video of the production of Future called 'The Making of March 1991', it included footage of the voice actors, kid auditions, and the Dallas Symphony that was recording the CEC-TV Intro music.
 - Concept Unification Premiere Demo plays at the very end of the tape.

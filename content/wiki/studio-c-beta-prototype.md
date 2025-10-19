@@ -28,7 +28,7 @@ In general this stage consisted of a condensed version of the Studio C concept, 
 
 ## Animatronics Used
 
-- {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}
 - {{< wiki-link "Bird (Animatronic)" >}}
 - {{< wiki-link "Pizza Time Clock (Animatronic)" >}}
 

@@ -78,5 +78,5 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
 
 ## Trivia:
 
-- 'Pumpkin Patch' and 'I Didn't Need To Be Afraid' is originally from {{< wiki-link "Chuck E Cheese's Show 6 2018" >}}.
+- 'Pumpkin Patch' and 'I Didn't Need To Be Afraid' is originally from {{< wiki-link "Chuck E. Cheese's Show 6 2018" >}}.
 - New YouTube Promo was released this time just being a 30-second video showcasing the main page and what type of content is uploaded being narrate by Matt Daniel.

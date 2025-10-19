@@ -76,6 +76,6 @@ This was created to play from October 2, 2017 - October 31, 2017. This show feat
 
 ## Trivia:
 
-'Billy & The Bully' is originally from {{< wiki-link "Chuck E Cheese's Show 7 2016" >}}, 'Costume Party' and 'Trick or Treat' are originally from {{< wiki-link "Chuck E Cheese's Show 6 2015" >}}, and 'Cowboys Life For Me' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}}.
+'Billy & The Bully' is originally from {{< wiki-link "Chuck E. Cheese's Show 7 2016" >}}, 'Costume Party' and 'Trick or Treat' are originally from {{< wiki-link "Chuck E. Cheese's Show 6 2015" >}}, and 'Cowboys Life For Me' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}.
 'Billy & The Bully' name was originally 'Speak Up Stop Bullying' in its previous show.
 'Billy & The Bully' has a unique title card saying **Chuck E. Cheese's Presents** which is only seen on Studio C/Weigl versions.

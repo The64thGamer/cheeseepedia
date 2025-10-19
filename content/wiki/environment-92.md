@@ -11,7 +11,7 @@ showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Environment** was a showtape that played from May 1992 through June 1992 at Chuck E Cheese's Pizza.
+**Environment** was a showtape that played from May 1992 through June 1992 at Chuck E. Cheese's Pizza.
 
 ## Show List:
 

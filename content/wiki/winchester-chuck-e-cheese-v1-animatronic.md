@@ -11,14 +11,14 @@ unitsProduced = "1"
 manufacturer = "Fantasy Forest"
 pageThumbnailFile = "VKhiaHChGEf69tMTXeyO.avif"
 +++
-***Winchester Chuck E. Cheese (V1)* was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of {{< wiki-link "Chuck E Cheese" >}}.
+***Winchester Chuck E. Cheese (V1)* was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of {{< wiki-link "Chuck E. Cheese" >}}.
 The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, where it remained until 1984.**
 
 ## History
 
 ### Prototype Bot / Proof Of Concept Bot
 
-Before the V1 bot was made, Harold Goldbrandsen made a {{< wiki-link "Chuck E Cheese Proof of Concept Prototype (Animatronic)" >}}. The bot was based mostly around the Ricky Rat Walkaround. The bot was very different to the V1 bot, having a more pink muzzle, a pink belly, no suit/vest, no hat, different eyes, & different ears.
+Before the V1 bot was made, Harold Goldbrandsen made a {{< wiki-link "Chuck E. Cheese Proof of Concept Prototype (Animatronic)" >}}. The bot was based mostly around the Ricky Rat Walkaround. The bot was very different to the V1 bot, having a more pink muzzle, a pink belly, no suit/vest, no hat, different eyes, & different ears.
 
 ### Finalized Bot
 
@@ -51,7 +51,7 @@ The bot had a yellow Undershirt, a Blue, Red, & Yellow Vest, a pink bow-tie, & a
 
 ### Microphone
 
-From Summer 1978 to Early 1983 at Sunnyvale, the bot was given a gray & black microphone with a cord on it. this was most likely to make it consistent with the {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}.
+From Summer 1978 to Early 1983 at Sunnyvale, the bot was given a gray & black microphone with a cord on it. this was most likely to make it consistent with the {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}.
 
 ## Movements
 

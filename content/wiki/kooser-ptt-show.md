@@ -44,7 +44,7 @@ Kooser had its own set of characters built exclusively for this store. Mr. Munch
 
 |                                                                     | Used From                 | Stage Used in          |
 |---------------------------------------------------------------------|---------------------------|------------------------|
-| {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}       | December 1978-May 1980    | Portrait / Shelf Stage |
+| {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}       | December 1978-May 1980    | Portrait / Shelf Stage |
 | {{< wiki-link "Kooser Pasqually (Animatronic)" >}}            | December 1978-May 1980    | Portrait / Shelf Stage |
 | {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}      | December 1978-May 1980    | Portrait / Shelf Stage |
 | {{< wiki-link "Kooser Mr Munch (Animatronic)" >}}             | December 1978-May 1980    | Portrait / Shelf Stage |

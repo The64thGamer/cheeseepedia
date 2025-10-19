@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Chuck E Cheese Spring Show 2003"
+title = "Chuck E. Cheese Spring Show 2003"
 startDate = "2003-04-00"
 endDate = "2003-06-00"
 pageThumbnailFile = "PggZPMxZi1PDdFK1wTjL.avif"

@@ -100,7 +100,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- Three intermissions were originally planned to be on this show but were scrapped. The first was 'Hockey' which featured hockey footage with the instrumental of 'Dreamin'' from Chuck E Cheese April 2004 Show. The second was a Coke Spot reused from {{< wiki-link "September 2004" >}}. The third was 'Eliot Moose', another Funimation cartoon. These intermissions still appear on the Studio C DVD, though are skipped by the floppy.
+- Three intermissions were originally planned to be on this show but were scrapped. The first was 'Hockey' which featured hockey footage with the instrumental of 'Dreamin'' from Chuck E. Cheese April 2004 Show. The second was a Coke Spot reused from {{< wiki-link "September 2004" >}}. The third was 'Eliot Moose', another Funimation cartoon. These intermissions still appear on the Studio C DVD, though are skipped by the floppy.
 - 'Mailman' is a remake of a song from the {{< wiki-link "Working For A Living" >}}. Robert Gotcher appears in the video, reprising his role as the mailman from the original.
 - Eddie Coker's 'I Believe' is reused from {{< wiki-link "September 2001 Show" >}}. Countdown 2 and 3 are reused from {{< wiki-link "September 2004" >}}.
 - The Studio C puppets return to their regular backgrounds for this show, but the diagonal line is replaced with a cloud-like design similar to the {{< wiki-link "Just for Kids Show 2000" >}}.

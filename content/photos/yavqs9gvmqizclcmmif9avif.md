@@ -6,4 +6,4 @@ categories = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
 +++
-Chuck E Cheese's Pizza sign.
+Chuck E. Cheese's Pizza sign.

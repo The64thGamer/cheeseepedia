@@ -11,7 +11,7 @@ pageThumbnailFile = "8m7kAappoDfNdStxikQh.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
 ***Show 2 2021* is the spring show first released on March 1st, 2021 and played through April 25th.
-The show ran in conjunction with the Spring-tastic Celebration promotion (with {{< wiki-link "Chuck E Cheese's Show 1 2021" >}} being utilized again afterwards). This show features seven songs (three new) and a new Live Show.**
+The show ran in conjunction with the Spring-tastic Celebration promotion (with {{< wiki-link "Chuck E. Cheese's Show 1 2021" >}} being utilized again afterwards). This show features seven songs (three new) and a new Live Show.**
 
 ## Production
 

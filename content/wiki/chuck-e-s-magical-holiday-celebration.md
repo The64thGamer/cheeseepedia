@@ -54,4 +54,4 @@ showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93
 
 ## Trivia:
 
-- This show is the same as {{< wiki-link "The Chuck E Cheese Christmas Special" >}}, just with new intros and outros.
+- This show is the same as {{< wiki-link "The Chuck E. Cheese Christmas Special" >}}, just with new intros and outros.

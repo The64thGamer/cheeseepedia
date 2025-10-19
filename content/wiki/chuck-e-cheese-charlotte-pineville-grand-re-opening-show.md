@@ -65,5 +65,5 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Trivia
 
-- This show is identical to {{< wiki-link "Chuck E Cheese Northridge Grand Re-Opening Show" >}} with changes done in{{< wiki-link "Chuck E Cheese Hicksville Grand Re-Opening Show" >}} reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
+- This show is identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} with changes done in{{< wiki-link "Chuck E. Cheese Hicksville Grand Re-Opening Show" >}} reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
 - The countdown would start reading 'Show Starts In' with a 10-minute countdown. Once finished playing, Together We've Got It 2017 would play.

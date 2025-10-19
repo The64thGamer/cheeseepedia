@@ -66,5 +66,5 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Trivia
 
-- This show is nearly identical to {{< wiki-link "Chuck E Cheese Northridge Grand Re-Opening Show" >}} but with Segment 1 relocated to after Segment 4
+- This show is nearly identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} but with Segment 1 relocated to after Segment 4
 - The countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

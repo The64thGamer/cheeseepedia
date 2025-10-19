@@ -76,5 +76,5 @@ This was created in conjunction with the Summer Nights promotion. This runs from
 
 ## Trivia:
 
-- 'Song of Summer' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}}, 'Join the Party' is originally from the {{< wiki-link "Chuck E Cheese Summer of Fun 2022 Show" >}}, 'Disco Dancing Dinosaur Party' is originally from {{< wiki-link "Chuck E Cheese's Show 1 2020" >}}, 'Out of This World' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- 'Song of Summer' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2021" >}}, 'Join the Party' is originally from the {{< wiki-link "Chuck E. Cheese Summer of Fun 2022 Show" >}}, 'Disco Dancing Dinosaur Party' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2020" >}}, 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - This showtape was sponsored by Kidz Bop.

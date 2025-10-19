@@ -1329,7 +1329,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
        6. Helen Henny - 'Dream Big'
        7. Helen Henny - 'Game On'
        8. Munch's Make Believe Band - 'Together We've Got It'
-       9. Chuck E Cheese - 'Rockin Robot'
+       9. Chuck E. Cheese - 'Rockin Robot'
 
 ## Show List:
 
@@ -1395,4 +1395,4 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 6. Helen Henny - 'Dream Big'
 7. Helen Henny - 'Game On'
 8. Munch's Make Believe Band - 'Together We've Got It'
-9. Chuck E Cheese - 'Rockin Robot'
+9. Chuck E. Cheese - 'Rockin Robot'

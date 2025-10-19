@@ -24,12 +24,12 @@ The show is a listing of Chuck E.'s friends and their attributes, with Chuck E. 
 |------------|--------------------------------------------------------------------------------------------|---------------|
 | Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | DVD + Floppy  |
 | Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | USB + MicroSD |
-| Studio C   | {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | DVD + Floppy  |
-| Studio C   | {{< wiki-link "Chuck E Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | USB + MicroSD |
-| Cyberamics | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
-| 3-Stage    | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
-| Studio C   | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD + Floppy  |
-| Studio C   | {{< wiki-link "Chuck E Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | USB + MicroSD |
+| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | DVD + Floppy  |
+| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | USB + MicroSD |
+| Cyberamics | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
+| 3-Stage    | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
+| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD + Floppy  |
+| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | USB + MicroSD |
 
 ## Official Releases
 

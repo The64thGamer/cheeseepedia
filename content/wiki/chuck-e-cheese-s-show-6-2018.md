@@ -75,5 +75,5 @@ This was created to play from October 1, 2018 - November 4, 2018. Featuring 4 so
 
 ## Trivia:
 
-- 'Trick or Treat' and 'Costume Party' are originally from {{< wiki-link "Chuck E Cheese's Show 6 2015" >}}.
+- 'Trick or Treat' and 'Costume Party' are originally from {{< wiki-link "Chuck E. Cheese's Show 6 2015" >}}.
 - This is the final time 'Trick or Treat' and 'Costume Party' would be used and despite that they were never reprogrammed from the original 2015 programming.

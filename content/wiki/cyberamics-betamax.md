@@ -33,7 +33,7 @@ The potential tapes that debuted on this format include:
 - {{< wiki-link "CEC Grammy Awards" >}}
 - {{< wiki-link "CEC Summertime" >}}
 - {{< wiki-link "CEC Tune Machine / Country" >}}
-- {{< wiki-link "CEC Chuck E Cheese Live" >}}
+- {{< wiki-link "CEC Chuck E. Cheese Live" >}}
 - {{< wiki-link "CEC Dance Showtape" >}}
 
 Given the earliest Cybervision showtape was Tune Machine / Country, and that the Betamax stores were in the test market area, this is likely when the prototype format was phased out for Cybervision, but it still could have taken place later in the year at either store.

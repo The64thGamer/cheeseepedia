@@ -81,4 +81,4 @@ The **September 2007 Show** was a showtape released in 2007 to celebrate the 30t
 
 - This show is the first to feature the finalized version of Birthday Star Extravaganza 2007, though it only appears on Studio C DVDs and it is unknown if it was playable.
 - Larry The Technician is reused from {{< wiki-link "Studio C Premiere" >}}, Singing Cowboy is reused from {{< wiki-link "April 1999" >}}, Eddie Coker - 'The Dog' is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, VeggieTales - 'Sports Utility Vehicle (SUV) is reused from {{< wiki-link "CEC TV April 2005 Show" >}}, and CEC TV Artist Spotlight is reused from {{< wiki-link "September 2006 Show" >}}.
-- "Every Boy, Every Girl' is a remake of a song from {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}}, with some lyrics being changed to reflect the 30th anniversary.
+- "Every Boy, Every Girl' is a remake of a song from {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}}, with some lyrics being changed to reflect the 30th anniversary.

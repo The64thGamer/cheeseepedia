@@ -107,7 +107,7 @@ Oh.
 
 Hm, anyway, the group has come up with a new bumper sticker that says “ you’re not being chicken when you buck- buck- buckle up!” Buck- buck- buckle up, get it? Hahaha.
 
-**Chuck E Cheese:**
+**Chuck E. Cheese:**
 
 Haha, yeah that’s uh pretty good. Uh but it’s real good advice for all you kids too! Buckle up those seat belts every time ok? And now, let’s hear from someone who can hardly fasten any belt, our wide, wide, weatherman, Mr. Munch!
 

@@ -23,7 +23,7 @@ Many of the main features that the simulator uses or has deprecated but still re
 
 #### CEC RR Engine C&amp;D
 
-When Chuck E Cheese cease &amp; desisted The 64th Gamers Reel to Reel, it left ReminaProd and the people working on SPTE in a panic as to whether Aaron Fechter would cease &amp; desist SPTE. This and a multitude of other issues resulted in SPTE ending.
+When Chuck E. Cheese cease &amp; desisted The 64th Gamers Reel to Reel, it left ReminaProd and the people working on SPTE in a panic as to whether Aaron Fechter would cease &amp; desist SPTE. This and a multitude of other issues resulted in SPTE ending.
 
 ### The Early Simulator Days \[11/03/22 - 1/1/24] (DD/MM/YY)
 

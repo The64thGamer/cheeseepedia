@@ -5,4 +5,4 @@ pages = ["Brandon, FL (1540 W Brandon Blvd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++
-'Let's Have a Party' from Chuck E Cheese's Show 1 2016 being performed on Brandon's 2-Stage.
+'Let's Have a Party' from Chuck E. Cheese's Show 1 2016 being performed on Brandon's 2-Stage.

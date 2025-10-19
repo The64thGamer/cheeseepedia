@@ -63,6 +63,6 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 ## Trivia:
 
 - 'All For Fun, Fun For All' and 'Dancin' Kitten' are originally from Chuck E. Cheese's Winter 2015|Winter 2015
-- 'Most Epic Mouse' and 'It's A Date' were originally not programmed due to the move at corporate. They were programmed by Show 72015 International. They would then appear in the US stores with {{< wiki-link "Chuck E Cheese's Show 1 2016" >}} for 'Most Epic Mouse' and {{< wiki-link "Chuck E Cheese's Show 2 2016" >}} for 'It's A Date'
+- 'Most Epic Mouse' and 'It's A Date' were originally not programmed due to the move at corporate. They were programmed by Show 72015 International. They would then appear in the US stores with {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}} for 'Most Epic Mouse' and {{< wiki-link "Chuck E. Cheese's Show 2 2016" >}} for 'It's A Date'
 - Pasqually's Brother is a CEC Sketch written by Chris Hill.
 - 'It's a Date' marks Ronnie the Unicorn's first appearance. 'Counting Sheep' from Chuck_E._Cheese's_Show_6_2015|the next showtape would mark his first speaking role. He would later be a side character after this showtape's release.

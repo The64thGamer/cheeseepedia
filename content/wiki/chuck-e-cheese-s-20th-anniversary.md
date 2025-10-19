@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Chuck E Cheese's 20th Anniversary"
+title = "Chuck E. Cheese's 20th Anniversary"
 startDate = "1997-04-01"
 endDate = "1997-08-04"
 pageThumbnailFile = "4H0_dN3Xt9jzrIjywaZx.avif"
@@ -12,7 +12,7 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E Cheese's 20th Anniversary* was a showtape released on April 1st, 1997 to celebrate the 20th anniversary of Chuck E. Cheese's.
+***Chuck E. Cheese's 20th Anniversary* was a showtape released on April 1st, 1997 to celebrate the 20th anniversary of Chuck E. Cheese's.
 This show ran from April 1997 to July 1997.**
 
 ## Summary

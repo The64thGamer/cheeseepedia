@@ -9,7 +9,7 @@ contributors = ["Chuck E. Tastic","ChuckEPediaIsTheBest!","GuestIsJustBest","Str
 citations = []
 pageThumbnailFile = "a7CdDQhzrBXQt73FtUnL.avif"
 +++
-**Big Win Super Spin** is an arcade game found at {{< wiki-link "Chuck E Cheese's" >}} restaurants, manufactured by ICE.
+**Big Win Super Spin** is an arcade game found at {{< wiki-link "Chuck E. Cheese's" >}} restaurants, manufactured by ICE.
 
 ## Gameplay
 

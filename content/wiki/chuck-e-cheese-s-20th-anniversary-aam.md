@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Chuck E Cheese's 20th Anniversary (AAM)"
+title = "Chuck E. Cheese's 20th Anniversary (AAM)"
 startDate = "1997-04-01"
 endDate = "0000-00-00"
 pageThumbnailFile = "3LebTXFwUdgiVWh_qxZT.avif"
@@ -12,7 +12,7 @@ downloadLinks = ["https://archive.org/details/awesome-adventure-machine-april-19
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Chuck E Cheese's 20th Anniversary Show (AAM Version)* was a modified version of the {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}} fit specifically for the {{< wiki-link "Awesome Adventure Machine" >}} stage, releasing April 1st, 1997.**
+The ***Chuck E. Cheese's 20th Anniversary Show (AAM Version)* was a modified version of the {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}} fit specifically for the {{< wiki-link "Awesome Adventure Machine" >}} stage, releasing April 1st, 1997.**
 
 ## Archive Recording
 

@@ -13,7 +13,7 @@ The **Studio C** concept is a stage concept found at Chuck E. Cheese's locations
 
 ## History
 
-In 1997 the Awesome Adventure Machine is considered a failure among ShowBiz and is mostly scrapped as a concept. But one of the concepts from this that survived is the one Animatronic entertainment. ShowBiz consult several different clients to create Animatronics for the new generation and ultimately landed on Garner Holt Productions. GHP (Garner Holt Productions) created the {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}, {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}, {{< wiki-link "Bird (Animatronic)" >}}, and some of the props for the shows.
+In 1997 the Awesome Adventure Machine is considered a failure among ShowBiz and is mostly scrapped as a concept. But one of the concepts from this that survived is the one Animatronic entertainment. ShowBiz consult several different clients to create Animatronics for the new generation and ultimately landed on Garner Holt Productions. GHP (Garner Holt Productions) created the {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}, {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}, {{< wiki-link "Bird (Animatronic)" >}}, and some of the props for the shows.
 
 ## Design
 
@@ -23,8 +23,8 @@ The regular Studio C show contains one Chuck E. Animatronic and video monitors.
 
 ### Animatronics
 
-- {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}
-- {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}
 - {{< wiki-link "Bird (Animatronic)" >}}
 
 ### Hardware
@@ -45,6 +45,6 @@ The regular Studio C show contains one Chuck E. Animatronic and video monitors.
 - Studio C Beta Prototype: Extinct as of July 2024
 - Studio C Beta: 30 left as of August 2024
 - Small-Town Studio C: 16 left as of August 2024
-- Remnants of the original prototype Studio C Show Remain in the programming room of the {{< wiki-link "Chuck E Cheese's Corporate Office" >}}.
+- Remnants of the original prototype Studio C Show Remain in the programming room of the {{< wiki-link "Chuck E. Cheese's Corporate Office" >}}.
 - The oldest operating Studio C location is the Spartanburg, South Carolina location as of August 2024, opening in March 1999.
 - Studio C is no longer programmed as of September 19, 2022, as the Chuck E. Cheese Halloween Boo-Tacular Show 2022 has started playing. this also applies to Studio C HD stages, which are the {{< wiki-link "Galaxy Stage" >}}, {{< wiki-link "Circles of Light" >}}, and {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.

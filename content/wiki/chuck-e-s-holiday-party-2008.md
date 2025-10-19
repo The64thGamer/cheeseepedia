@@ -25,7 +25,7 @@ categories = ["Chuck E. Cheese's"]
     2.  'Feliz Navidad'
 4.  Intermission 2
     1.  Coke Spot
-    2.  Chuck E Cheese's Classic Theatre: 'A Christmas Carol'
+    2.  Chuck E. Cheese's Classic Theatre: 'A Christmas Carol'
     3.  Countdown (1995 Holiday footage)
 5.  Segment 3
     1.  'Twelve Days Of Christmas'

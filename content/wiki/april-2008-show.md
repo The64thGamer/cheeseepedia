@@ -21,7 +21,7 @@ The ***April 2008 Show* is a showtape featuring nine songs that played through t
     2.  ['(Let's Get Movin') Into Action'](https://en.wikipedia.org/wiki/Skye_Sweetnam)
 2.  Intermission 1
     1.  VeggieTales - 'Monkey'
-    2.  CEC Promo - 'Trip to Chuck E Cheese's'
+    2.  CEC Promo - 'Trip to Chuck E. Cheese's'
     3.  CEC TV ID - 'Blender'
 3.  Segment 2
     1.  ['Be Good Johnny'](https://en.wikipedia.org/wiki/Be_Good_Johnny)

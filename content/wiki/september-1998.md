@@ -16,7 +16,7 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/Septe
 ## Existing Show List:
 
 1.  **Skit 1**
-    1.  Chuck E Cheese - International Mouse Of Mystery
+    1.  Chuck E. Cheese - International Mouse Of Mystery
     2.  Introduction to Elvis Presley - 'Jailhouse Rock'
 2.  **Intermission 1**
     1.  Elvis Presley - 'Jailhouse Rock'

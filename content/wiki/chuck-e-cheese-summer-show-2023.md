@@ -11,7 +11,7 @@ pageThumbnailFile = "sCDC25gfzuL1ULFdgZRR.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
 ***Chuck E. Cheese Summer Show 2023* is the generic summer show released on June 5, 2023 featuring a variety of songs released from 2016-2023.
-This show released with 6 songs, with 2 more songs added in a later update. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play {{< wiki-link "Chuck E Cheese Evergreen Show 2023" >}} until they install the CEC Media Network system.
+This show released with 6 songs, with 2 more songs added in a later update. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play {{< wiki-link "Chuck E. Cheese Evergreen Show 2023" >}} until they install the CEC Media Network system.
 |-|Show List=**
 
 ### Advertising

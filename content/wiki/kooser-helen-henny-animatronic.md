@@ -13,7 +13,7 @@ pageThumbnailFile = "xJUdmPuoeJYSriXthaOJ.avif"
 
 ## History
 
-After Kooser upgraded to the Balcony show, Helen's whereabouts were unknown. It's assumed she was moved to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, but unlike {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}, there are no pictures of her at Sunnyvale. She is currently presumed to have been destroyed when Sunnyvale relocated to {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} after PTT's bankruptcy.
+After Kooser upgraded to the Balcony show, Helen's whereabouts were unknown. It's assumed she was moved to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, but unlike {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}, there are no pictures of her at Sunnyvale. She is currently presumed to have been destroyed when Sunnyvale relocated to {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} after PTT's bankruptcy.
 
 ## Design
 

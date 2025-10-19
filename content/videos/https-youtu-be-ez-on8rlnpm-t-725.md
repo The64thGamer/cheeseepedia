@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/eZ-oN8RLnpM?t=725"
 startdate = "2005-00-00"
-pages = ["San Jose, CA (2445 Fontaine Rd)", "Studio C Alpha", "Chuck E Cheese 32m (Animatronic)"]
+pages = ["San Jose, CA (2445 Fontaine Rd)", "Studio C Alpha", "Chuck E. Cheese 32m (Animatronic)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

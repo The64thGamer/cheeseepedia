@@ -5,4 +5,4 @@ pages = ["Chuck E. Cheese Summer of Fun 2022 Show", "Huntington Beach, CA (15511
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++
-'Join the Party' from Chuck E Cheese Summer of Fun 2022 Show being performed on Huntington Beach's 2-Stage.
+'Join the Party' from Chuck E. Cheese Summer of Fun 2022 Show being performed on Huntington Beach's 2-Stage.

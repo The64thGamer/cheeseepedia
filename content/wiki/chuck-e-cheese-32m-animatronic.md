@@ -10,7 +10,7 @@ citations = ["<a href=\"https://www.micechat.com/170277-animatronic-life-build-b
 pageThumbnailFile = "W972pdZkOB__ypEbG6AZ.avif"
 +++
 
-The ***Chuck E. Cheese 32m Animatronic*** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} was created in 2002 to replace this animatronic due to it's cost.
+The ***Chuck E. Cheese 32m Animatronic*** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} was created in 2002 to replace this animatronic due to it's cost.
 
 ## History
 

@@ -17,7 +17,7 @@ citations = []
 
 ### Pizza Time Theatre
 
-From as early as 1977, Pasqually was {{< wiki-link "Chuck E Cheese" >}}'s chef. Originally portrayed by Joe Spano, the early shows would portray Pasqually as a stereotypical yet rough around the edges Italian chef with a snobby personality. Pasqually's original design had a chef hat as well as a long sleeved shirt with a red and white plaid design. He wore a red bandanna and a white apron. He had black curly hair and a big mustache. This design would be used for decades to come. In the first two locations Pasqually held a pizza as well as a pizza cutter and was intended to announce pizza orders, but the concept never came to be. When the {{< wiki-link "Cyberamics Balcony Stage" >}} got introduced, Pasqually now played the accordion. Joe Spano was later replaced by Scott Wilson in 1983.
+From as early as 1977, Pasqually was {{< wiki-link "Chuck E. Cheese" >}}'s chef. Originally portrayed by Joe Spano, the early shows would portray Pasqually as a stereotypical yet rough around the edges Italian chef with a snobby personality. Pasqually's original design had a chef hat as well as a long sleeved shirt with a red and white plaid design. He wore a red bandanna and a white apron. He had black curly hair and a big mustache. This design would be used for decades to come. In the first two locations Pasqually held a pizza as well as a pizza cutter and was intended to announce pizza orders, but the concept never came to be. When the {{< wiki-link "Cyberamics Balcony Stage" >}} got introduced, Pasqually now played the accordion. Joe Spano was later replaced by Scott Wilson in 1983.
 
 ### ShowBiz Pizza Time
 

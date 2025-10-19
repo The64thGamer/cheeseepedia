@@ -9,7 +9,7 @@ tags = ["Arcades and Attractions"]
 pageThumbnailFile = "HhO_7avsLCiyk3KmPimM.avif"
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E.'s Duckies* is a mechanical redemption game produced exclusively for {{< wiki-link "Chuck E Cheese's" >}} locations and released in 2000.
+***Chuck E.'s Duckies* is a mechanical redemption game produced exclusively for {{< wiki-link "Chuck E. Cheese's" >}} locations and released in 2000.
 It is a rebranded version of Wacky Ducks and was manufactured by Innovative Concepts in Entertainment (ICE) under license from Jupiter Games.**
 
 ## Gameplay
@@ -19,7 +19,7 @@ The game required tokens to play when it was introduced, however beginning in 20
 
 ## History
 
-Chuck E.'s Duckies would debut in {{< wiki-link "Chuck E Cheese's" >}} locations in 2000 as part of the 'New For You' marketing campaign, otherwise known internally as the Phase 3 update. Also part of this update was the Toddler Zone kiddie areas that contained many games and rides designed with small children in mind; therefore, Chuck E.'s Duckies was commonly included in several Toddler Zones across the company's locations.
+Chuck E.'s Duckies would debut in {{< wiki-link "Chuck E. Cheese's" >}} locations in 2000 as part of the 'New For You' marketing campaign, otherwise known internally as the Phase 3 update. Also part of this update was the Toddler Zone kiddie areas that contained many games and rides designed with small children in mind; therefore, Chuck E.'s Duckies was commonly included in several Toddler Zones across the company's locations.
 Like Wacky Ducks, the game was manufactured by Innovative Concepts in Entertainment (ICE) and was produced during most of the 2000s and included in almost every new location to open that decade. Both the standard Wacky Ducks game and this game were discontinued from production in July 2010{{< cite 2 >}} and from that point on, Chuck E. Cheese's introduced several new custom branded redemption games to replace those from the 2000s and earlier. Due to its long production cycle and a large availability of parts from the manufacturer, it is still somewhat common today and can be found at several Chuck E. Cheese locations worldwide. However, good luck finding the standard Wacky Ducks game as very few locations have that game anymore.
 
 ## Design

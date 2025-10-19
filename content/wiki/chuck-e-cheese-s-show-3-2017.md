@@ -92,8 +92,8 @@ This was created to play from April 10th 2017. - May 20th 2017. This show featur
 
 ## Trivia:
 
-- 'Remember That Time' and 'Together We've Got It' are both from {{< wiki-link "Chuck E Cheese's Show 1 2017" >}}.
+- 'Remember That Time' and 'Together We've Got It' are both from {{< wiki-link "Chuck E. Cheese's Show 1 2017" >}}.
 - 'Chuck E.'s Place 2017' is a modern remake of the {{< wiki-link "CEC Jan '91" >}} version of the song.
 - 'Chuck E.'s Place 2017' was filmed at the Plano, TX Chuck E. Cheese.
 - All of the '40 Years of Fun' skits are only programmed for 3stage and Cyberamic stores.
-- An updated version of Show 3 2017 was released May 21st 2017 called {{< wiki-link "Chuck E Cheese's Show 3 2017 Part 2" >}} which removed the Guiness Book Of World Records Part Blowers Promo replacing it with the 1990s 1 Minute Munch countdown and added 'Helen's Birthday' between 'How Far I'll Go' and 'New Cakes Promo'
+- An updated version of Show 3 2017 was released May 21st 2017 called {{< wiki-link "Chuck E. Cheese's Show 3 2017 Part 2" >}} which removed the Guiness Book Of World Records Part Blowers Promo replacing it with the 1990s 1 Minute Munch countdown and added 'Helen's Birthday' between 'How Far I'll Go' and 'New Cakes Promo'

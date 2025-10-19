@@ -12,7 +12,7 @@ citations = []
 
 ## Cassette
 
-Featured in the prototype is a rerelease of the {{< wiki-link "Chuck E Cheese's Awesome Tune Tracks" >}} cassette with some cut songs*.* Removed from this release is *Hokey Pokey - Brave Combo, Chuck E.'s Fiesta Mexicana, Turn The Beat Around, Walk Like An Egyptian,* and *Macarena.* With a new addition of *Every Boy, Every Girl.*
+Featured in the prototype is a rerelease of the {{< wiki-link "Chuck E. Cheese's Awesome Tune Tracks" >}} cassette with some cut songs*.* Removed from this release is *Hokey Pokey - Brave Combo, Chuck E.'s Fiesta Mexicana, Turn The Beat Around, Walk Like An Egyptian,* and *Macarena.* With a new addition of *Every Boy, Every Girl.*
 **Cassette List**
 
 - 'It's a Jungle Out There'

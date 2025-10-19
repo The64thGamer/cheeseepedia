@@ -68,6 +68,6 @@ This was created to play from January 4, 2018 - February 25, 2018. Featuring 4 s
 
 ## Trivia:
 
-- Let's Have a Party is originally from {{< wiki-link "Chuck E Cheese's Show 1 2016" >}}, and Another Chuck E. Day is originally from {{< wiki-link "Chuck E Cheese's Show 5 2017" >}}.
-- This was the first showtape to feature Bella B. With that showcases her original voice and puppet. The next time Bella would be seen was {{< wiki-link "Chuck E Cheese's Show 3 2019" >}}.
+- Let's Have a Party is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}}, and Another Chuck E. Day is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}.
+- This was the first showtape to feature Bella B. With that showcases her original voice and puppet. The next time Bella would be seen was {{< wiki-link "Chuck E. Cheese's Show 3 2019" >}}.
 - This was the final 'Rip It, Win It, Play It' promotional event. The prizes for it we're. Sonic Forces Console Bundle, Fandango Now, Tickets, Play Points, and the grand prize was an 'ultimate gaming center'. Despite not being mentioned in the ad you could also win various Sonic games for various consoles.

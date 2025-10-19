@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "mahDDOAbpUDYEnfAMs13.avif"
 showtapeFormats = ["3-Stage SVHS (Pre-93)","C&R SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 +++
-**Xmas 1991 Show** is a Christmas showtape that played all December at Chuck E Cheese's. This show is notable for being the first Munch's Make Believe Band Christmas showtape.
+**Xmas 1991 Show** is a Christmas showtape that played all December at Chuck E. Cheese's. This show is notable for being the first Munch's Make Believe Band Christmas showtape.
 
 ## Show List:
 

@@ -5,7 +5,7 @@ citations = ["https://www.youtube.com/watch?v=7gmN_G7G5OU"]
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
-The *Chuck E Cheese University :  General Kitchen & Service* was a Chuck E. Cheese training tape made for employees in 1991, this would be the 2nd training tape for Chuck E Cheese’s University, it would feature the following 
+The *Chuck E. Cheese University :  General Kitchen & Service* was a Chuck E. Cheese training tape made for employees in 1991, this would be the 2nd training tape for Chuck E. Cheese’s University, it would feature the following 
 
 ##Service
 - Every guest comes first and leaves happy

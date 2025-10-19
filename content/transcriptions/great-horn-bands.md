@@ -19,7 +19,7 @@ Haha! That’s an easy one, it stands for bacon, sardine, and tomato sandwich!
 
 Bkaw! Yucky.
 
-**Chuck E Cheese:**
+**Chuck E. Cheese:**
 
 No no no Jasper, it stands for Blood, Sweat, and Tears! The rock band with all the horns.
 

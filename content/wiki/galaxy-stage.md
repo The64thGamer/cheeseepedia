@@ -8,7 +8,7 @@ endDate = ""
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","Anonymous","CyberSnout","Ceclife13","Chuckstar69"]
 citations = []
 +++
-The ***Galaxy Stage* was a test stage found at the Chuck E. Cheese's location in {{< wiki-link "West Melbourne, FL (2250 Coastal Lane)" >}} which was installed when the location opened in April 26, 2011 and removed for a 2.0 dance floor on April 9, 2023. It featured a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. It is the predecessor to the {{< wiki-link "Circles of Light" >}} stage and the first stage to run on Studio C HD.**
+The ***Galaxy Stage* was a test stage found at the Chuck E. Cheese's location in {{< wiki-link "West Melbourne, FL (2250 Coastal Lane)" >}} which was installed when the location opened in April 26, 2011 and removed for a 2.0 dance floor on April 9, 2023. It featured a {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}. It is the predecessor to the {{< wiki-link "Circles of Light" >}} stage and the first stage to run on Studio C HD.**
 
 ## History
 

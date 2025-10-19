@@ -12,7 +12,7 @@ citations = []
 downloadLinks = ["Cecmatch.zip"]
 +++
 
-***Chuck E. Cheese's Memory Match*** is a custom arcade game by [*Coastal Amusements*](https://coastalamusements.com/) made for {{< wiki-link "Chuck E Cheese's" >}} locations in 1993. The game is a standard design arcade cabinet for the time, with artwork of the main Chuck E. cast all around the sides. The game is displayed on a CRT monitor, with two speakers using mono audio output. The control panel consists of nine numbered buttons, which can light up during gameplay. The game required tokens to play, and would dispense tickets at the end of a session. The game used *HAR MadMax hardware*, The cabinet would also see a Spanish release, replacing the Memory Match logo on the control board for a set of instructions.
+***Chuck E. Cheese's Memory Match*** is a custom arcade game by [*Coastal Amusements*](https://coastalamusements.com/) made for {{< wiki-link "Chuck E. Cheese's" >}} locations in 1993. The game is a standard design arcade cabinet for the time, with artwork of the main Chuck E. cast all around the sides. The game is displayed on a CRT monitor, with two speakers using mono audio output. The control panel consists of nine numbered buttons, which can light up during gameplay. The game required tokens to play, and would dispense tickets at the end of a session. The game used *HAR MadMax hardware*, The cabinet would also see a Spanish release, replacing the Memory Match logo on the control board for a set of instructions.
 
 ## Gameplay
 

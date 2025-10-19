@@ -10,7 +10,7 @@ alsoKnownAs = ["Fun Spot Arcade"]
 tags = ["Restaurants/FECs"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck's Arcade*** (Formerly ***Fun Spot Arcade***) is a division of {{< wiki-link "Chuck E Cheese" >}} that manages arcades in hotels and malls across the country, starting in 2022 and continuing to the present day.
+***Chuck's Arcade*** (Formerly ***Fun Spot Arcade***) is a division of {{< wiki-link "Chuck E. Cheese" >}} that manages arcades in hotels and malls across the country, starting in 2022 and continuing to the present day.
 The concept would be the first time the company focused on a chain of small arcades since 1974 with the {{< wiki-link "Atari Family Game Center" >}} arcades.
 
 ## History

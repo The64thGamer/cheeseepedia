@@ -11,7 +11,7 @@ pageThumbnailFile = "Q7GgvHrRn5opv9sobAJC.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
 +++
 
-The ***Chuck E. Cheese {{< wiki-link "Cyberamics" >}}*** were a set of Cyberamics produced by {{< wiki-link "Pizza Time Theatre" >}} as an animatronic version of {{< wiki-link "Chuck E Cheese" >}} from 1979 to 1983 as a replacement for the Fantasy Forest bots. The bots would be later produced by Kinetix Group Inc from 1991-1993 and Animation World from 1993-1997. The bots are very simple, having only 8 movements. The bots were originally controlled using the {{< wiki-link "Cyberamic Control System" >}}, but were later changed to the Cyberstar system &amp; {{< wiki-link "Navori System" >}}.
+The ***Chuck E. Cheese {{< wiki-link "Cyberamics" >}}*** were a set of Cyberamics produced by {{< wiki-link "Pizza Time Theatre" >}} as an animatronic version of {{< wiki-link "Chuck E. Cheese" >}} from 1979 to 1983 as a replacement for the Fantasy Forest bots. The bots would be later produced by Kinetix Group Inc from 1991-1993 and Animation World from 1993-1997. The bots are very simple, having only 8 movements. The bots were originally controlled using the {{< wiki-link "Cyberamic Control System" >}}, but were later changed to the Cyberstar system &amp; {{< wiki-link "Navori System" >}}.
 
 ## History
 

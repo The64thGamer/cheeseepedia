@@ -64,4 +64,4 @@ This was created to play from June 21, 2020 - June 22, 2020. This show features 
 ## Trivia:
 
 - This show ran for only 2 days this being the shortest ran show with signals. The showtape with shortest usage goes to {{< wiki-link "Ryan's World Fan Fest Watch Party" >}}
-- All of Intermission 6 was reused for {{< wiki-link "Chuck E Cheese's Show 2 2020" >}}.
+- All of Intermission 6 was reused for {{< wiki-link "Chuck E. Cheese's Show 2 2020" >}}.

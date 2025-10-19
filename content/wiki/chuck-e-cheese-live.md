@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese Live"
+title = "Chuck E. Cheese Live"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]

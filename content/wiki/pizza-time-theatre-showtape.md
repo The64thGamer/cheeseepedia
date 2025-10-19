@@ -21,7 +21,7 @@ The showtape debuted the original *Pizza Time Players*, including the short-live
 ### Big Cheese Birthday Show
 
 The first production work on the showtape was a 2-track tape containing a showtape concept demo recording produced on October 7, 1976.{{< cite 3 >}}
-The tape features 'The Big Cheese' (whom later on became {{< wiki-link "Chuck E Cheese" >}}), and Crusty the Cat performing dialogue. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109).<sup>(4)(3)</sup>
+The tape features 'The Big Cheese' (whom later on became {{< wiki-link "Chuck E. Cheese" >}}), and Crusty the Cat performing dialogue. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109).<sup>(4)(3)</sup>
 
 ### Demo Recordings
 

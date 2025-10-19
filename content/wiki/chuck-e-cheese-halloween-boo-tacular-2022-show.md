@@ -77,11 +77,11 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. Runs f
 
 ## Trivia:
 
-- 'Gotta Be Halloween' and 'Halloween Night' are originally from {{< wiki-link "Chuck E Cheese's Show 4 2021 (Studio C)" >}} and 'Pumpkin Patch' is originally from {{< wiki-link "Chuck E Cheese's Show 6 2018" >}}. However, the version included here is the 2020 version which dubs over the Chucktober references.
+- 'Gotta Be Halloween' and 'Halloween Night' are originally from {{< wiki-link "Chuck E. Cheese's Show 4 2021 (Studio C)" >}} and 'Pumpkin Patch' is originally from {{< wiki-link "Chuck E. Cheese's Show 6 2018" >}}. However, the version included here is the 2020 version which dubs over the Chucktober references.
 - This show is the first to exclude any character programming signals for Studio SD/HD systems. During this show, the system will default to random movements at all times.
 - This is the first show since her debut where Dino Summer's name is said aloud. Previously, she'd only been referred to as such behind the scenes.
 - The 'Timecode' Intermission is a clip of 'Witches Crew' playing at different speeds.
-- {{< wiki-link "Chuck E Cheese's Show 4 2021 (Existing Stages)" >}} was intended to come back in 2022 (with new content) but due to unknown reasons was cancelled.
+- {{< wiki-link "Chuck E. Cheese's Show 4 2021 (Existing Stages)" >}} was intended to come back in 2022 (with new content) but due to unknown reasons was cancelled.
 - Week of August the 8th they started filming for the Halloween Boo-Tacular 2022 new show content.
 - On August 24, 2022 a snippet of one of the new songs was leaked.
 - The {{< wiki-link "Yonkers, NY (1703 Central Park Ave)" >}} location played the show a week early.

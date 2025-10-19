@@ -194,7 +194,7 @@ This was created with the idea to play between promotional events. This show fea
 
 ## Trivia:
 
-- This show invalidates {{< wiki-link "Chuck E Cheese Evergreen Show 2022 (August Update)" >}}, which was the final show to include programming signals for all Studio C-based systems. All Evergreen shows from this point forward will only include curtain open/close signals and random movements.
-- Media Stages running on the Navori system got 4 bonus videos from {{< wiki-link "Chuck E Cheese Evergreen Show 2022 (August Update)" >}}; Levitating, El Rey Guitarrista, Stars in The Sky, and Play All You Can Play
+- This show invalidates {{< wiki-link "Chuck E. Cheese Evergreen Show 2022 (August Update)" >}}, which was the final show to include programming signals for all Studio C-based systems. All Evergreen shows from this point forward will only include curtain open/close signals and random movements.
+- Media Stages running on the Navori system got 4 bonus videos from {{< wiki-link "Chuck E. Cheese Evergreen Show 2022 (August Update)" >}}; Levitating, El Rey Guitarrista, Stars in The Sky, and Play All You Can Play
 - On March 13, 2023, Navori Media Stages got a new Fundraising spot.
 - Mary Had a Rockin' Lamb was originally released on YouTube on July 9th 2021.

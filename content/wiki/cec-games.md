@@ -11,11 +11,11 @@ alsoKnownAs = ["260-0703-91 (C) S.P.T Inc. CU GAMES/WAVE BDAY (3 STAGE) Serial #
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Games** is a summer themed showtape that played at Chuck E Cheese's.
+**Games** is a summer themed showtape that played at Chuck E. Cheese's.
 
 ## Theme
 
-This is fourth summer show by Chuck E Cheese's, the previous summer themed shows were CEC Summertime / TV Westerns, {{< wiki-link "CEC Summertime" >}}, {{< wiki-link "CEC Summer Days" >}}. They called the show Games could be a number or reasons like playing skip rope, a baseball game, or just hanging out with others having fun.
+This is fourth summer show by Chuck E. Cheese's, the previous summer themed shows were CEC Summertime / TV Westerns, {{< wiki-link "CEC Summertime" >}}, {{< wiki-link "CEC Summer Days" >}}. They called the show Games could be a number or reasons like playing skip rope, a baseball game, or just hanging out with others having fun.
 
 ## Show List
 

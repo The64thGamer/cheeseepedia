@@ -78,5 +78,5 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 
 ## Trivia:
 
-- 'Jasper's Country Classic' was originally from {{< wiki-link "Chuck E Cheese's Show 3 2018" >}}. and 'Because We're Friends' was originally from {{< wiki-link "September 2014 Show" >}}.
+- 'Jasper's Country Classic' was originally from {{< wiki-link "Chuck E. Cheese's Show 3 2018" >}}. and 'Because We're Friends' was originally from {{< wiki-link "September 2014 Show" >}}.
 - Easy Dance (Spanish) and Birthday Star 2018 (Spanish) were created for this show.

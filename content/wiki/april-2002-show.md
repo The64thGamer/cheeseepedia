@@ -38,7 +38,7 @@ This show featured 4 segments with 8 songs.**
     5.  CEC TV ID - 'Dancing Food'
     3.  Time To Fly! (Studio C)
 5.  **Segment 3**
-    1.  'CEC Chuck E Cheese'
+    1.  'CEC Chuck E. Cheese'
     2.  ['Everywhere'](https://en.wikipedia.org/wiki/Everywhere_(Michelle_Branch_song))
 6.  **Intermission 3**
     1.  CEC TV ID - 'Janitor'

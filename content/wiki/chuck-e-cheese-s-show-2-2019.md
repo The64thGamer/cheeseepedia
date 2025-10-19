@@ -83,8 +83,8 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
 
 ## Trivia:
 
-- 'Fun!' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2018" >}} and 'Gamin' Time is originally from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}}.
+- 'Fun!' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2018" >}} and 'Gamin' Time is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}.
 - Chuck E. Cha Cha was filmed at Plano, TX
 - The YouTube Promos feature various people who work at CEC Entertainment talking about the YouTube channel.
 - Due to Covid-19 'Laughter is The Best Medicine' was removed from the CEC YouTube channel March 2020.
-- Due to delays revolving around a new promotion for {{< wiki-link "Chuck E Cheese's Show 3 2019" >}} the show had to be delayed from originally June 3rd to July 1st.
+- Due to delays revolving around a new promotion for {{< wiki-link "Chuck E. Cheese's Show 3 2019" >}} the show had to be delayed from originally June 3rd to July 1st.

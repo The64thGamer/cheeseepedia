@@ -9,7 +9,7 @@ contributors = ["CECBowlingGreen","Anonymous"]
 citations = []
 +++
 **Chuck E. Cheese Pepperoni Pizza** is a frozen pizza sold at Kroger and Meijer starting in 2021 and 2023.
-It is manufactured by Flatlander Foods. There is also a {{< wiki-link "Chuck E Cheese Cheese Pizza" >}} variant.
+It is manufactured by Flatlander Foods. There is also a {{< wiki-link "Chuck E. Cheese Cheese Pizza" >}} variant.
 Every pizza comes with a code for 250 free E-Tickets at any participating CEC location.
 
 ## Nutrition Facts

@@ -34,11 +34,11 @@ It was stated that the stages were identified by date of revision, and with this
 
 ### Original Release (Fall 2000 - January 2003)
 
-The {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} was used from Fall 2000 to January 2003, and then again in 2009 and 2019. The {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} was used from February 2003 onward.
+The {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}} was used from Fall 2000 to January 2003, and then again in 2009 and 2019. The {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} was used from February 2003 onward.
 
 #### Chuck E.'s Stage
 
-Stage left features a {{< wiki-link "Chuck E Cheese" >}} animatronic created by Garner Holt Productions, and a backdrop that features a large swirl in the center and tubes and boxes that all light up with the show. At first, special carpet was used that was black and said 'Studio C' all over, although many stores have replaced it with the store's normal carpet. Notably, {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} had a hybrid animatronic; a {{< wiki-link "Chuck E Cheese 3216m Hybrid (Animatronic)" >}}, which was there from late 2021 until the stage's removal on June 17, 2024.
+Stage left features a {{< wiki-link "Chuck E. Cheese" >}} animatronic created by Garner Holt Productions, and a backdrop that features a large swirl in the center and tubes and boxes that all light up with the show. At first, special carpet was used that was black and said 'Studio C' all over, although many stores have replaced it with the store's normal carpet. Notably, {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} had a hybrid animatronic; a {{< wiki-link "Chuck E. Cheese 3216m Hybrid (Animatronic)" >}}, which was there from late 2021 until the stage's removal on June 17, 2024.
 
 #### Center (TV) Area
 

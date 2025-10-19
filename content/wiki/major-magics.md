@@ -12,7 +12,7 @@ Major Magics All Star Pizza Revue was a chain that was started by Magic Robotics
 
 ## History
 
-Major Magics All Star Pizza Revue started when Founder Robert Rashid attended the grand opening of Chuck E Cheese's Pizza Time Theatre in San Jose, CA. Robert didn't really care for how the animatronics ran, so Robert partnered up with founder of Acton Robotics, Ken Acton, to make Major Magics All Star Pizza Revue.
+Major Magics All Star Pizza Revue started when Founder Robert Rashid attended the grand opening of Chuck E. Cheese's Pizza Time Theatre in San Jose, CA. Robert didn't really care for how the animatronics ran, so Robert partnered up with founder of Acton Robotics, Ken Acton, to make Major Magics All Star Pizza Revue.
 
 ### Opening
 

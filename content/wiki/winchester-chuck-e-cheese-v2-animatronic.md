@@ -12,7 +12,7 @@ unitsProduced = "1"
 manufacturer = "Fantasy Forest"
 dimensions = "4ft*"
 +++
-***Winchester Chuck E. Cheese (V2)* was an animatronic created by {{< wiki-link "Fantasy Forest" >}} in Summer 1978 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version {{< wiki-link "Chuck E Cheese" >}}. The bot was controlled & programmed through the {{< wiki-link "Winchester Control System" >}} & {{< wiki-link "Winchester Hardware Setup" >}}.
+***Winchester Chuck E. Cheese (V2)* was an animatronic created by {{< wiki-link "Fantasy Forest" >}} in Summer 1978 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version {{< wiki-link "Chuck E. Cheese" >}}. The bot was controlled & programmed through the {{< wiki-link "Winchester Control System" >}} & {{< wiki-link "Winchester Hardware Setup" >}}.
 The bot would remain at the store until its removal in 1981 when Winchester would receive {{< wiki-link "Cyberamics" >}}. It is currently in the possession of Travis Schafer.**
 
 ## History

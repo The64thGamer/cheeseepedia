@@ -80,6 +80,6 @@ This was created with conjunction with the Summer of Fun promotion. Runs from Ju
 
 ## Trivia:
 
-- 'Song of Summer', 'Dog Days of Summer', and 'Let's Be Friends' are originally from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}}. With 'Out of this World' originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}}.
+- 'Song of Summer', 'Dog Days of Summer', and 'Let's Be Friends' are originally from {{< wiki-link "Chuck E. Cheese's Show 3 2021" >}}. With 'Out of this World' originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}.
 - Munch Jr is programmed for the ending of 'Join the Party' and 'Down the Road'
 - Audio Calibration is again on the existing stage menu. Still unknown as to why.

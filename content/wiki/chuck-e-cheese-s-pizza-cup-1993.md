@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese's Pizza Cup (1993)"
+title = "Chuck E. Cheese's Pizza Cup (1993)"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]

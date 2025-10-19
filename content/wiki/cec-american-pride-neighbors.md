@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "SROGxvYbK45yNGMEZXx3.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
 +++
-***CEC American Pride / Neighbors* was released for *Chuck E Cheese's* locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.**
+***CEC American Pride / Neighbors* was released for *Chuck E. Cheese's* locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.**
 
 ## Show List:
 

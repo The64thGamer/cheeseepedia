@@ -12,7 +12,7 @@ The ***1978 Kooser Jasper T. Jowls Nameplate* appeared at the second Chuck E. Ch
 
 ## Production
 
-Alongside the other nameplates featured at the store, we can assume it was produced in a batch at the Fantasy Forest Manufacturing Company between October through November 1978, if not it was most likely produced by Pizza Time Theatre Incorporated; due to the significance of the character, it was most likely the second produced nameplate for the location after {{< wiki-link "PTT Kooser Chuck E Cheese Name Sign (1978)" >}}
+Alongside the other nameplates featured at the store, we can assume it was produced in a batch at the Fantasy Forest Manufacturing Company between October through November 1978, if not it was most likely produced by Pizza Time Theatre Incorporated; due to the significance of the character, it was most likely the second produced nameplate for the location after {{< wiki-link "PTT Kooser Chuck E. Cheese Name Sign (1978)" >}}
 
 ## Usage
 

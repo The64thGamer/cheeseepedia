@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheese's Pow-Air Play"
+title = "Chuck E. Cheese's Pow-Air Play"
 draft = false
 tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]

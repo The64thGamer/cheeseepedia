@@ -75,8 +75,8 @@ APS files for showtapes exist for all shows starting sometime in 1990, all the w
 | Cyberamics | CEC Birthday Wave Road Stage APS          | \---                                                  | October 28, 1990, 9:35:34 AM    | \---                           | .roa       |
 | Cyberamics | CEC Jan '91 Road Stage APS                | {{< wiki-link "CEC Jan '91" >}}                 | October 31, 1990, 3:08:24 PM    | November 4, 1990, 3:23:34 PM   | .roa       |
 | 3-Stage    | CEC Jan '91 3-Stage APS                   | {{< wiki-link "CEC Jan '91" >}}                 | December 5, 1990, 3:38:16 PM    | December 6, 1990, 9:21:14 AM   | .sho       |
-| Cyberamics | Chuck E. Cheese's Live '90 Road Stage APS | {{< wiki-link "Chuck E Cheese's Live 90" >}}    | December 6, 1990, 4:23:34 PM    | \---                           | .roa       |
-| 3-Stage    | Chuck E. Cheese's Live '90 3-Stage APS    | {{< wiki-link "Chuck E Cheese's Live 90" >}}    | December 12, 1990, 4:06:06 PM   | March 21, 1991, 11:35:42 AM    | .sho, .3st |
+| Cyberamics | Chuck E. Cheese's Live '90 Road Stage APS | {{< wiki-link "Chuck E. Cheese's Live 90" >}}    | December 6, 1990, 4:23:34 PM    | \---                           | .roa       |
+| 3-Stage    | Chuck E. Cheese's Live '90 3-Stage APS    | {{< wiki-link "Chuck E. Cheese's Live 90" >}}    | December 12, 1990, 4:06:06 PM   | March 21, 1991, 11:35:42 AM    | .sho, .3st |
 | Cyberamics | Random Movements APS                      | \---                                                  | December 16, 1990, 10:43:28 AM  | December 16, 1990, 11:25:00 AM | .mvt       |
 | Cyberamics | CEC Future C&amp;R APS                    | {{< wiki-link "CEC Future" >}}                  | January 10, 1991, 9:46:14 AM    | January 21, 1991, 9:36:14 AM   | .c&amp;r   |
 | Cyberamics | CEC Future Road Stage APS                 | {{< wiki-link "CEC Future" >}}                  | January 14, 1991, 11:55:36 AM   | January 21, 1991, 9:25:46 AM   | .roa       |

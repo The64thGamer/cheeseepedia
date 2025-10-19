@@ -16,7 +16,7 @@ The ***Rick Rat*** walkaround costume was a generic mascot costume purchased by 
 
 ## History
 
-TODO: Early History The costume would stay with Pizza Time Theatre and later ShowBiz Pizza Time Inc. in the corporate offices. Some time between 1976 and 2001 the suit would be lost, and only the head would remain. In an early 2000's 4th Quarter Update video, the costume head would be used on {{< wiki-link "Chuck E Cheese" >}} as a visual gag for Chuck having just woken up and not taken a shower, with Chuck commenting he currently looks 'like a rat'.(1) The head currently remains on a shelf at the {{< wiki-link "Chuck E Cheese's Corporate Office" >}} in the Entertainment Department.
+TODO: Early History The costume would stay with Pizza Time Theatre and later ShowBiz Pizza Time Inc. in the corporate offices. Some time between 1976 and 2001 the suit would be lost, and only the head would remain. In an early 2000's 4th Quarter Update video, the costume head would be used on {{< wiki-link "Chuck E. Cheese" >}} as a visual gag for Chuck having just woken up and not taken a shower, with Chuck commenting he currently looks 'like a rat'.(1) The head currently remains on a shelf at the {{< wiki-link "Chuck E. Cheese's Corporate Office" >}} in the Entertainment Department.
 
 ## Other Production Costumes
 

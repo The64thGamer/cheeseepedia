@@ -121,7 +121,7 @@ A third and final floppy was also released. When inserting the final version upg
 
 ## Trivia:
 - The intros to the Ken Chuck E. Derby intermissions reused from {{< wiki-link "Holiday Special 1992" >}} were rerecorded at the last minute due to issues preventing the use of the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1992 versions of these intermissions are on the Studio C DVDs with updated music but were skipped over by the floppy.
-- The countdowns and some songs reuse footage from {{< wiki-link "Holiday Special 1992" >}}, {{< wiki-link "The Chuck E Cheese Christmas Special" >}} and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in {{< wiki-link "Let The Good Times Roll" >}}.
+- The countdowns and some songs reuse footage from {{< wiki-link "Holiday Special 1992" >}}, {{< wiki-link "The Chuck E. Cheese Christmas Special" >}} and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in {{< wiki-link "Let The Good Times Roll" >}}.
 - The Larry The Technician intermission in this show was the final new piece of Larry animation. The rest of his animated appearances would use reused footage. This show also features Larry celebrating Christmas, despite the fact that he was said to celebrate Hanukkah in Holiday Party.
 - This is one of the most reused shows, as segments from this show would continue to be reused until {{< wiki-link "CEC Happy Holidays 2013" >}}.
 - 'Chuck E. Shuffle' appears on the Studio C DVDs but could not be played.

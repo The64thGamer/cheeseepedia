@@ -26,7 +26,7 @@ The pizza would later change recipe in 1979-1980. With this, the Canadian bacon 
 
 ### Poster
 
-As part of the *New Sandwich Program* in 1981 the Big C Combo would be featured in the {{< wiki-link "PTT Chuck E Cheese Nutritional Poster (1981)" >}}, which gave additional facts about the nutritional contents of the item.
+As part of the *New Sandwich Program* in 1981 the Big C Combo would be featured in the {{< wiki-link "PTT Chuck E. Cheese Nutritional Poster (1981)" >}}, which gave additional facts about the nutritional contents of the item.
 
 ### Price Jumps
 

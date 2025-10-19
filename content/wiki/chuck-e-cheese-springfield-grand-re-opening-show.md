@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
 +++
 ***Chuck E. Cheese Springfield Grand Re-Opening Show* is the showtape released on July 19, 2024, to play exclusively for Springfield Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm. After the event it would play {{< wiki-link "Chuck E Cheese Summer Show 2024 Part 2" >}} from 7:00pm-closing.**
+This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm. After the event it would play {{< wiki-link "Chuck E. Cheese Summer Show 2024 Part 2" >}} from 7:00pm-closing.**
 
 ## Show List
 
@@ -65,5 +65,5 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Trivia
 
-- This show is identical to {{< wiki-link "Chuck E Cheese Northridge Grand Re-Opening Show" >}} with changes done in{{< wiki-link "Chuck E Cheese Hicksville Grand Re-Opening Show" >}} reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
+- This show is identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} with changes done in{{< wiki-link "Chuck E. Cheese Hicksville Grand Re-Opening Show" >}} reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
 - The countdown would start reading 'Show Starts In' with a 10-minute countdown. Once finished playing, Together We've Got It 2017 would play.
