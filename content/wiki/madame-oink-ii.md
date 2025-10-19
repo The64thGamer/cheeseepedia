@@ -32,7 +32,7 @@ Only three segments are confirmed for the tape. Segments would have had a Munch 
 
 A recording of the song 'You Only Hurt the Ones You Love', originally sung by Crusty and on the Winchester CDs, was found redubbed by Munch and dated 1979. This confirms the song was included on Oink II, but it is unknown if it originated from Oink I. {{< cite 3 >}}
 
-It is unclear what other shows were featured on this tape, or if any of them were recovered. It is possible the shows discovered on the CDs recovered for the {{< wiki-link "Pizza Time Theatre Showtape" >}} contain the tracks from this tape, but it also isn't out of the possibility that these contained ones featured on {{< wiki-link "Madame Oink I" >}} or both tapes.
+It is unclear what other shows were featured on this tape, or if any of them were recovered. It is possible the shows discovered on the CDs recovered for the {{< wiki-link "Pizza Time Theatre Showtape" >}} contain the tracks from this tape, but it also isn't out of the possibility that these contained ones featured on {{< wiki-link "Madame Oink I" >}} or both tapes (Including Thank Heaven for Little Boys / Baby Face).
 
 - **Segment**
     - Frere Jaques
