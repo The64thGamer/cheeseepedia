@@ -64,7 +64,7 @@ A collection of the earliest showtapes were produced on the {{< wiki-link "Winch
 {{< wiki-link "Electric Pizza" >}} is an obscure Pizza Time Theatre themed arcade cabinet likely tested at locations in the California area near the company's headquarters. The arcade was sold on eBay in 2013 from Napa, CA, and listed stating "I think this is one of the early hand-built prototypes". It is unclear if this was made in-house prior to 1983, or something Sente Technologies prototyped after being bought out by Pizza Time Theatre in '83. No direct gameplay is shown outside of screenshots of the cabinet turned on.
 
 ### Full Speed Ahead Revue Show
-{{< wiki-link "Full Speed Ahead Revue Show" >}} is a potential lost showtape that was exclusive to the {{< wiki-link "1982 PTT Convention (Event)" >}}, which debuted on October 2, 1982 at 8:30am in Hawaii. It is unclear if this was a show performed by the dressed up Chuck E. and Madame Oink costumes confirmed at the event, or a video showtape of Cyberamics (The event features a video of Cyberamics in action later in the day, which disproves any being brought to the event.)
+{{< wiki-link "Full Speed Ahead Revue Show" >}} is a potential lost showtape that was exclusive to the {{< wiki-link "1982 PTT Convention (Event)" >}}, which debuted on October 2, 1982 at 8:30am in Hawaii. It is unclear if this was a show performed by the dressed up Chuck E. and Madame Oink costumes confirmed at the event, or a video showtape of Cyberamics (The event features a video of Cyberamics in action later in the day). Cyberamics were present at the event, as the only shot of the revue has Paula Mulcahy singing alongside the Warblettes. The tape may have been a mix of showtape and live performances.
 
 ## Chuck E. Cheese's
 
