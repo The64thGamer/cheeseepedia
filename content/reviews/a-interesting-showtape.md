@@ -1,5 +1,5 @@
 +++
-recommend = false
+recommend = true
 title = "A interesting showtape"
 startdate = "2025-10-19"
 page = "Chuck E's Jukebox Jam Show"
