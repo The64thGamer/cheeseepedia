@@ -2,7 +2,7 @@
 recommend = false
 title = "A interesting showtape"
 startdate = "2025-10-19"
-page = "Chuck E&#039;s Jukebox Jam Show"
+page = "Chuck E's Jukebox Jam Show"
 contributors = ["Avengerchuck2010"]
 tags = ["Reviews"]
 +++
