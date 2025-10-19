@@ -1,14 +1,12 @@
 +++
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
-tags = ["Animatronics"]
+tags = ["Animatronic Shows"]
 categories = ["Pizza Time Theatre"]
-
-
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1980-10-00"
+endDate = "1996-00-00"
 contributors = ["Helly","BurgersNuggs445","Anonymous","CECMentor","CoolerDude"]
-citations = []
+citations = ["https://www.newspapers.com/image/746173357/?clipping_id=82958227&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc0NjE3MzM1NywiaWF0IjoxNzYwODUwMjk4LCJleHAiOjE3NjA5MzY2OTh9.oV5I_Wu3BwyUILyVbh86XSNvZMOsUQQEWEEju2Tq5tE"]
 +++
 
 ***The Beagles*** are an animatronic lounge act based off the [The Beatles](https://en.wikipedia.org/wiki/The_Beatles) created for use in ***Pizza Time Theatre*** restaurants. There four members of this band shared names with the actual Beatles. George was the dog standing on the floor, Paul was the guitarist standing on a block, Ringo was the drummer, and John was the dog with the microphone. Ringo was often referred to as 'The Smart Beagle' in {{< wiki-link "Showtape" >}}. ***The Beach Bowzers*** is an optional retrofit / Installation based on [The Beach Boys](https://en.wikipedia.org/wiki/The_Beach_Boys) that Pizza Time Theatre locations received. There were 4 members of this band, none of which have official names. However, the one with the microphone refers to himself as 'Woodie Bowser' in the Beach Bowsers 91 I|Beach Bowzers 91 showtape, which could possibly be based on The Beach Boys song ' [Boogie Woodie](https://www.youtube.com/watch?v=QFE0U_Lxze8)'.
