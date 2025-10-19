@@ -1,10 +1,13 @@
 +++
 draft = false
 title = "The Barnyard Band"
-startDate = ""
-endDate = ""
+startDate = "unknown"
+endDate = "unknownn"
 pageThumbnailFile = ""
 contributors = ["mchmny"]
+credits = ["Pasq https://www.youtube.com/watch?v=b_L3v3LnhPk&t=159s"]
+manufacturer = "CP "
+unitsProduced = ""
 tags = ["Animatronic Shows"]
 categories = ["Creative Presentations"]
 +++
