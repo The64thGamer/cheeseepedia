@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -14,6 +14,12 @@ Welcome to Cheese-E-Pedia! This introduction article will help you get started w
 The ***Lost Media*** of the animatronics community, also referred to as 'data' in it, is vast and full of interesting stories. Here is a list of notable things yet to be found.
 
 ## Pizza Time Theatre
+
+### Atari Family Game Center
+The {{< wiki-link "Atari Family Game Center" >}} was a collection of arcades by Atari between 1974-1975, predating Pizza Time Theatre but playing a role in its creation. No pictures of any of the 6 locations have been found, and any info on them is extremely elusive outside of promotional material and a few newspaper pages.
+
+### Rick Rat Manufacturer
+The {{< wiki-link "Rick Rat Walkaround" >}} was Nolan Bushnell's historical purchase at the 1974 IAAPA convention that kicked off the 'Coyote Pizza' project which later turned into Pizza Time Theatre. Nolan does not seem to know who he bought it from anymore, but many alternative Rick Rat styled costumes from the same makers have appeared across the country. The earliest is seen in February 1975, likely bought from the same event, but some show up as late as 1978 with Busch Garden's golden, gray, and black mascot costumes. No manufacturer has been tracked down, though also no costumes currently remaining today have had their insides checked for a manufacturer tag or label.
 
 ### Chuck E.'s First Announcement / Gospel of St. Pong
 Just before the opening of the first {{< wiki-link "Pizza Time Theatre" >}} location at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}, a few months prior in February of 1977, a company-wide announcement made by Chuck E. Cheese would be published urging Atari employees to wait a bit longer for the restaurant to open due to delays with the city of San Jose. This would be the first known instance of anything published by the Pizza Time Theatre team, alongside the first known use of the name 'Chuck E. Cheese', which prior in October of 1976 was 'The Big Cheese' (Though it is likely this name change was done before the end of that year). {{< cite 5 >}}
@@ -85,6 +91,16 @@ Some of the footage would be reused with rereleased segments in 1988, which were
 - {{< wiki-link "CEC Country / Faves" >}} - CEC Faves & Country lost but remade
 - {{< wiki-link "CEC Summertime" >}} - Summer Rereleased
 - {{< wiki-link "CEC Tune Machine / Country" >}} - Tune Machine rereleased, country lost but remade
+
+### The Final Plastic Mask Retrofit Pages
+During the conversion from the latex masks to the plastic masks for the 3-Stage in the early 2000's, each retrofit would recieve a document going over the retrofitting process. These would include dates on the paper, which was a way to date when each retrofit took place. Most of the documents have been preserved, showing us the following timeline:
+
+- Chuck: 1999-11-24
+- Munch: 2000-04-20
+- Helen: 2000-05-16
+- Jasper: 2001-04-17
+
+Pasqually's document is completely missing, making it unclear when he was installed (though this is theorized to be 2001 due to a mask being dated March 2001). Helen's first page for her document is also missing. {{< cite 10 >}}
 
 ### CEC Show 1 2020 (Covid Refresh)
 {{< wiki-link "Chuck E. Cheese's Show 1 2020 (Covid Refresh)" >}} (Also referred to as Show 1.5 2020) is a semi-lost showtape that ran for only two days, June 21st and June 22nd, 2020. While a good majority of Rockstar shows have been archived, especially with tons of eBay listings for Studio C floppies dating between 2019 and 2022, no showtape DVDs or floppy disks have been discovered and backed up for the Covid Refresh show.
