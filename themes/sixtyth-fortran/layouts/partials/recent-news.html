@@ -1,4 +1,4 @@
-{{/* Fetch and parse Discourse News topics safely without try() */}}
+{{/* Fetch and parse Discourse News topics safely */}}
 
 {{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
 {{ $data := dict }}
@@ -16,9 +16,9 @@
     {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" .slug .id }}
     <article class="news-item">
       {{ with .image_url }}
-        <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ $.title }}">
+        <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ .title }}">
       {{ else }}
-        <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="Default image">
+        <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ .title }}">
       {{ end }}
       <h3><a href="{{ $topicURL }}">{{ .title }}</a></h3>
       <p class="date">{{ (time .created_at).Format "Jan 2, 2006" }}</p>
