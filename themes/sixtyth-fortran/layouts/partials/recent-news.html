@@ -1,25 +1,30 @@
-<!-- layouts/partials/discourse-latest.html -->
+{{/* Fetch and parse Discourse News topics safely without try() */}}
+
 {{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
 {{ $data := dict }}
 
-{{ with try (resources.GetRemote $url) }}
-  {{ with .Err }}
-    {{ warnf "Failed to fetch Discourse JSON: %s" . }}
-  {{ else with .Value }}
-    {{ $data = . | transform.Unmarshal }}
-  {{ else }}
-    {{ warnf "Discourse resource not found (404): %q" $url }}
-  {{ end }}
+{{ $remote := resources.GetRemote $url }}
+{{ if $remote }}
+  {{ $data = $remote | transform.Unmarshal }}
+{{ else }}
+  {{ warnf "Could not fetch Discourse JSON from %s" $url }}
 {{ end }}
 
 {{ with $data.topic_list.topics }}
+<div class="recent-news">
   {{ range first 3 . }}
-    <article>
-      <h2><a href="{{ .url }}">{{ .title }}</a></h2>
-      {{ if .image_url }}
-        <img src="{{ .image_url }}" alt="Image for {{ .title }}">
+    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" .slug .id }}
+    <article class="news-item">
+      {{ with .image_url }}
+        <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ $.title }}">
+      {{ else }}
+        <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="Default image">
       {{ end }}
-      <p>Published {{ (time .created_at).Format "Jan 2, 2006" }}</p>
+      <h3><a href="{{ $topicURL }}">{{ .title }}</a></h3>
+      <p class="date">{{ (time .created_at).Format "Jan 2, 2006" }}</p>
     </article>
   {{ end }}
+</div>
+{{ else }}
+  <p>No recent news found.</p>
 {{ end }}
