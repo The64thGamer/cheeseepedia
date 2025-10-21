@@ -12,18 +12,19 @@
 {{ with $data.topic_list.topics }}
 <div class="recent-news">
   {{ range first 3 . }}
-    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" .slug .id }}
+    {{ $topic := . }}
+    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $topic.id }}
     <article class="news-item">
       <div class="news-image">
-        {{ with .image_url }}
-          <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ .Title | default "News image" }}">
+        {{ with $topic.image_url }}
+          <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ $topic.title }}">
         {{ else }}
-          <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ .Title | default "News image" }}">
+          <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ $topic.title }}">
         {{ end }}
       </div>
       <div class="news-content">
-        <h3><a href="{{ $topicURL }}">{{ .title }}</a></h3>
-        <p class="news-date">{{ (time .created_at).Format "Jan 2, 2006" }}</p>
+        <h3><a href="{{ $topicURL }}">{{ $topic.title }}</a></h3>
+        <p class="news-date">{{ (time $topic.created_at).Format "Jan 2, 2006" }}</p>
       </div>
     </article>
   {{ end }}
