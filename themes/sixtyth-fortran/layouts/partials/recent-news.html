@@ -10,25 +10,42 @@
 {{ end }}
 
 {{ with $data.topic_list.topics }}
-<div class="recent-news">
   {{ range first 3 . }}
     {{ $topic := . }}
-    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $topic.id }}
-    <article class="news-item">
-      <div class="news-image">
-        {{ with $topic.image_url }}
-          <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ $topic.title }}">
-        {{ else }}
-          <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ $topic.title }}">
-        {{ end }}
+    {{ $id := int $topic.id }}
+    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $id }}
+
+    {{/* Handle image URL safely */}}
+    {{ $img := "" }}
+    {{ with $topic.image_url }}
+      {{ if strings.HasPrefix . "http" }}
+        {{ $img = . }}
+      {{ else }}
+        {{ $img = printf "https://forum.cheeseepedia.org%s" . }}
+      {{ end }}
+    {{ else }}
+      {{ $img = "images/news-fallback.jpg" | relURL }}
+    {{ end }}
+
+    {{/* Match your list-page block structure */}}
+    <div class="list-page-block">
+      <div class="list-page-container">
+        <div class="list-image">
+          <a href="{{ $topicURL }}">
+            <img src="{{ $img }}" alt="{{ $topic.title }}">
+          </a>
+        </div>
+        <div class="list-page-content">
+          <a href="{{ $topicURL }}">
+            {{ $topic.title | safeHTML }}
+          </a>
+          <div class="list-page-date">
+            {{ (time $topic.created_at).Format "Jan 2, 2006" }}
+          </div>
+        </div>
       </div>
-      <div class="news-content">
-        <h3><a href="{{ $topicURL }}">{{ $topic.title }}</a></h3>
-        <p class="news-date">{{ (time $topic.created_at).Format "Jan 2, 2006" }}</p>
-      </div>
-    </article>
+    </div>
   {{ end }}
-</div>
 {{ else }}
   <p>No recent news found.</p>
 {{ end }}
