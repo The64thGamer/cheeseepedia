@@ -1,10 +1,9 @@
-{{/* Fetch the latest topics JSON */}}
 {{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
 {{ $data := getJSON $url }}
 {{ $topics := $data.topic_list.topics }}
 <div class="recent-news">
   {{ range first 3 $topics }}
-    {{ $img := .image_url }}              <!-- Discourse image URL if provided -->
+    {{ $img := .image_url }}              
     <div class="news-item">
       <a href="https://forum.cheeseepedia.org/t/{{ .slug }}/{{ .id }}">
         {{ if $img -}}
