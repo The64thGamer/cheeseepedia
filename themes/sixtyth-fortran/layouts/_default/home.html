@@ -1,9 +1,10 @@
 {{- define "main" -}}
 {{- .Content | safeHTML -}}
-{{- partial "list-tags-in-category.html" . -}}
-<hr>
 <h2>Recent News</h2>
 {{ partial "recent-news.html" . }}
+<hr>
+<h2>Our Articles</h2>
+{{- partial "list-tags-in-category.html" . -}}
 <hr>
 <h2>Introductions</h2>
 {{- partial "introductions.html" . -}}
