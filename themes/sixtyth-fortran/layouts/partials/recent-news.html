@@ -3,9 +3,8 @@
 {{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
 {{ $data := dict }}
 
-{{ $remote := resources.GetRemote $url }}
-{{ if $remote }}
-  {{ $data = $remote | transform.Unmarshal }}
+{{ with resources.GetRemote $url }}
+  {{ $data = . | transform.Unmarshal }}
 {{ else }}
   {{ warnf "Could not fetch Discourse JSON from %s" $url }}
 {{ end }}
@@ -15,13 +14,17 @@
   {{ range first 3 . }}
     {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" .slug .id }}
     <article class="news-item">
-      {{ with .image_url }}
-        <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ .title }}">
-      {{ else }}
-        <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ .title }}">
-      {{ end }}
-      <h3><a href="{{ $topicURL }}">{{ .title }}</a></h3>
-      <p class="date">{{ (time .created_at).Format "Jan 2, 2006" }}</p>
+      <div class="news-image">
+        {{ with .image_url }}
+          <img src="https://forum.cheeseepedia.org{{ . }}" alt="{{ .Title | default "News image" }}">
+        {{ else }}
+          <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="{{ .Title | default "News image" }}">
+        {{ end }}
+      </div>
+      <div class="news-content">
+        <h3><a href="{{ $topicURL }}">{{ .title }}</a></h3>
+        <p class="news-date">{{ (time .created_at).Format "Jan 2, 2006" }}</p>
+      </div>
     </article>
   {{ end }}
 </div>
