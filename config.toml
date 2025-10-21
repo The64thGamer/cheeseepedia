@@ -16,6 +16,10 @@ name = 'Home'
 pageRef = '/'
 weight = 10
 
+[security.http]
+  methods = ["GET"]
+  urls    = ["https://forum.cheeseepedia.org/*"]
+
 [[menus.main]]
 name = 'All Pages'
 pageRef = '/wiki'

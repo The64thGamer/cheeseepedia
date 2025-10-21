@@ -1,19 +1,25 @@
+<!-- layouts/partials/discourse-latest.html -->
 {{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
-{{ $data := getJSON $url }}
-{{ $topics := $data.topic_list.topics }}
-<div class="recent-news">
-  {{ range first 3 $topics }}
-    {{ $img := .image_url }}              
-    <div class="news-item">
-      <a href="https://forum.cheeseepedia.org/t/{{ .slug }}/{{ .id }}">
-        {{ if $img -}}
-          <img src="{{ printf "https://forum.cheeseepedia.org%s" $img }}" alt="News image">
-        {{ else -}}
-          <img src="{{ "images/news-fallback.jpg" | relURL }}" alt="Default image">
-        {{ end }}
-      </a>
-      <h3><a href="https://forum.cheeseepedia.org/t/{{ .slug }}/{{ .id }}">{{ .title }}</a></h3>
-      <p class="date">{{ .created_at | time.Format "Jan 2, 2006" }}</p>
-    </div>
+{{ $data := dict }}
+
+{{ with try (resources.GetRemote $url) }}
+  {{ with .Err }}
+    {{ warnf "Failed to fetch Discourse JSON: %s" . }}
+  {{ else with .Value }}
+    {{ $data = . | transform.Unmarshal }}
+  {{ else }}
+    {{ warnf "Discourse resource not found (404): %q" $url }}
   {{ end }}
-</div>
+{{ end }}
+
+{{ with $data.topic_list.topics }}
+  {{ range first 3 . }}
+    <article>
+      <h2><a href="{{ .url }}">{{ .title }}</a></h2>
+      {{ if .image_url }}
+        <img src="{{ .image_url }}" alt="Image for {{ .title }}">
+      {{ end }}
+      <p>Published {{ (time .created_at).Format "Jan 2, 2006" }}</p>
+    </article>
+  {{ end }}
+{{ end }}
