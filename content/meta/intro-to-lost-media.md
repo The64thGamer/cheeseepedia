@@ -39,6 +39,13 @@ While it is believed that most, if not all of the first {{< wiki-link "Pizza Tim
 
 None of the audio for these is present on those CDs. Most likely the track 'Birthday One, Honey Bun', which was seen partially in the 1979 Winchester footage, is the birthday track, though not fully confirmed.{{< cite 7 >}} This version is also only sort of complete. The full skit was rereleased with Mr. Munch dubbed over Crusty later on, and most of the Crusty segments are heard in the video outside of the final song at the end. {{< cite 8 >}} What makes it unclear if the birthday was used for the opening in 1977 is that another birthday song was found for the Madame Oink showtape in 1978, showing new birthdays were already being recorded. {{< cite 9 >}}
 
+### Second Set of Warblettes, or V2 Warblettes
+On January 8th, 1978, a newspaper would write about {{< wiki-link "Fantasy Forest" >}} and its building at {{< wiki-link "Victorville, CA (15367 Tamarack Unit B)" >}}. There pictures would show them working on {{< wiki-link "Winchester Madam Oink (Animatronic)" >}}, set to debut the next month, {{< wiki-link "Kooser Dolli Dimples (Animatronic)" >}}, set for the Kooser location in Winter of that year, and the newer wide-mouthed walkaround heads.
+
+Specifically mentioned and shown were a second set of Warblettes, unfinished. The molds look similar, and almost exact in beak shape, to ones found already at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. Notably however is the only pictures of the Warblettes prior to this image, taken likely around or on opening day, have them obscured and not entirely visible. Proper shots of the Warblettes come later in 1979. It is possible the Warblettes were recieving a V2 animatronic, just as Chuck and Crusty recieved updates in June of that year. It is known the display the Warblettes sat in had to be redone after the opening of the store in May 1977 due to a malfunction as well.
+
+If the Warblettes were never updated and the V1 Warblettes aren't lost media, these would likely be made for the Kooser Road location before being scrapped and replaced with the {{< wiki-link "Kooser Mopsey Sisters (Animatronic)" >}} before opening. In which case it is unclear why they were scrapped, and where they ended up.
+
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
 
