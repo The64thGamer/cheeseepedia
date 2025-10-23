@@ -20,7 +20,7 @@ On June 17th, 2025, the first press release for the show would feature on Variet
 
 On October 3rd, 2025, a YouTube video titled "NEW. Pumpkins in My Pockets | Halloween Music Video | Chuck E. Cheese Kids Songs & Cartoons" would release showing an animated segment from the TV show production team. The video would shortly be taken down and re-uploaded for unknown reasons.{{< cite 5 >}} The video's outro would title the segment "Chuck E. Cheese Partymobile Sing-Along".{{< cite 6 >}} Later on in the day an email would be sent out advertising the short, explaining "In the very first digital short, the gang is warming up on the journey with a Chuck E. classic: "Pumpkins in My Pockets." Get ready for Halloween fun, sing-alongs, and maybe even a glimpse of something new about your favorite crew.", confirming that more exclusive digital shorts would be revealed up to the release of the pilot.
 
-In mid-October, David McKillips would confirm that the Holiday Special would be releasing 'across streaming channels', alongside confirming more of who at CEC Entertainment was involved in the partnership and production.{{< cite 8 >}} On October 17th, the "NEW! The EASY Dance... Turned IMPOSSIBLE?! | Chuck E. Cheese Music & Dance Cartoon Videos for Kids" short would release.{{ cite 9 }}
+In mid-October, David McKillips would confirm that the Holiday Special would be releasing 'across streaming channels', alongside confirming more of who at CEC Entertainment was involved in the partnership and production.{{< cite 8 >}} On October 17th, the "NEW! The EASY Dance... Turned IMPOSSIBLE?! | Chuck E. Cheese Music & Dance Cartoon Videos for Kids" short would release.{{< cite 9 >}}
 
 ## Releases
 
