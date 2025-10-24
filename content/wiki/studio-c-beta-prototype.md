@@ -1,15 +1,13 @@
 +++
-title = "Studio C Beta Prototype"
 draft = false
+title = "Studio C Beta Prototype"
+startDate = ""
+endDate = "2022"
+pageThumbnailFile = "sRbweVELSlf86DNCjP0J.avif"
+contributors = ["CECBowlingGreen", "CyberSnout", "Ceclife13", "ShowBizMidwest", "BurgersNuggs445", "Pasquallytheplumber", "The 64th Gamer", "Stripes", "AstridMascotFan2005", "randomguyfan22"]
+citations = ["<ref></ref>", "Studio C (1997)"]
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
-endDate = ""
-contributors = ["CECBowlingGreen","CyberSnout","Ceclife13","ShowBizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]
-citations = ["<ref></ref>","Studio C (1997)"]
-pageThumbnailFile = "sRbweVELSlf86DNCjP0J.avif"
 +++
 
 The ***Studio C Beta Prototype*** is a stage that was installed in Chuck E. Cheese's locations from 2000-2001. This prototype is now extinct, the final one being removed on October 18, 2022.
