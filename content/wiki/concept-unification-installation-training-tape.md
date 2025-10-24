@@ -1,12 +1,13 @@
 +++
-title = "Concept Unification Installation Training Tape"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+title = "Concept Unification Installation Training Tape"
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Cy's Junk at School","Stripes"]
+contributors = ["The 64th Gamer", "Cy's Junk at School", "Stripes"]
 citations = []
+transcriptions = ["Concept Unifcation Installation Tape"]
+tags = ["Company Media"]
+categories = ["Chuck E. Cheese's"]
 +++
 The ***Concept Unification Installation Tape* was a 1991 training tape sent with the {{< wiki-link "Concept Unification" >}} package as a visual medium for demonstrating the Concept Unification Process.**
 
