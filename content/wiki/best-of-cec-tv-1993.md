@@ -4,11 +4,11 @@ title = "Best of CEC TV 1993"
 startDate = "1993-05-00"
 endDate = "1993-06-19"
 pageThumbnailFile = "VmUfq9vpt5iMrmsboPLA.avif"
-contributors = ["The 64th Gamer", "Luigigamin212"]
+contributors = ["The 64th Gamer", "Luigigamin212", "Luigigamin212"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/Best%20of%2093%20CEC-Stage-006.iso"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/Best%20of%2093%20CEC-Stage-006.iso|R12 SVHS w/ Signals"]
-transcriptions = ["CEC TV News Safety"]
+transcriptions = ["CEC TV News Safety", "CEC TV News Pasqually on the moon"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
