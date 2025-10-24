@@ -8,6 +8,7 @@ contributors = ["Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=TiJjjaQ4rn4"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
+transcriptions = ["CEC TV News Safety"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
