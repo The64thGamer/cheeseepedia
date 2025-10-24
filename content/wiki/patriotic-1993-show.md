@@ -4,7 +4,7 @@ title = "Patriotic 1993 Show"
 startDate = "1993-06-20"
 endDate = "1993-07-04"
 pageThumbnailFile = "tl9TK1X2SLt6rwFAsE8I.avif"
-contributors = ["Ceclife13"]
+contributors = ["Ceclife13", "Luigigamin212"]
 citations = ["https://www.youtube.com/watch?v=TiJjjaQ4rn4"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
