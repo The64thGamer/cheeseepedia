@@ -2,7 +2,7 @@
 draft = false
 title = "January 2012 Show"
 startDate = "2012-01-01"
-endDate = "0000-00-00"
+endDate = "2012-12-00"
 pageThumbnailFile = "yiyeZ9uOGZM5QAbMVtA8.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "Anonymous", "MultiMonorail"]
 citations = ["http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"]
