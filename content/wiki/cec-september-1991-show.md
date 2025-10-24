@@ -4,10 +4,11 @@ title = "CEC September 1991 Show"
 startDate = "1991-09-10"
 endDate = "1991-00-00"
 pageThumbnailFile = "n02eKh04LQEEbI5q3DMs.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "DerekCat", "Cheeseclassic"]
+contributors = ["The 64th Gamer", "CyberSnout", "DerekCat", "Cheeseclassic", "Luigigamin212"]
 citations = ["https://www.youtube.com/watch?v=VgsROB6xwb4", "https://youtu.be/YIwEWOMB2LI", "https://youtu.be/ZbSCCVqTd0A"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "APS Files"]
 downloadLinks = ["https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA|Original 'Family Times' 3-Stage APS .IMA"]
+transcriptions = ["CEC TV News Safety"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
