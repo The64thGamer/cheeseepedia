@@ -7,12 +7,12 @@ pageThumbnailFile = "tl9TK1X2SLt6rwFAsE8I.avif"
 contributors = ["Ceclife13", "Luigigamin212"]
 citations = ["https://www.youtube.com/watch?v=TiJjjaQ4rn4"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
+downloadLinks = []
 transcriptions = ["CEC TV News Safety"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***Patriotic 1993 Show* was the final rerelease of {{< wiki-link "CEC American Pride" >}} which replaced all of the intermissions.**
+The ***Patriotic 1993 Show* was the final rerelease of the segments from {{< wiki-link "CEC American Pride" >}}.**
 
 ## Show List
 
@@ -77,4 +77,3 @@ The ***Patriotic 1993 Show* was the final rerelease of {{< wiki-link "CEC Americ
     1.  'Be A Sport'
     2.  CEC TV Classic ID
 
-## Trivia:
