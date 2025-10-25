@@ -1,15 +1,15 @@
 +++
-title = "Awesome Adventure Machine (Show)"
 draft = false
+title = "Awesome Adventure Machine (Show)"
+startDate = "1996-08-00"
+endDate = "1996-11-00"
+pageThumbnailFile = "dNeZTqPyEJMiCWPkBDhZ.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "Mousester", "BurgersNuggs445"]
+citations = []
+showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201996%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1996-08-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Ceclife13","Mousester","BurgersNuggs445"]
-citations = []
-pageThumbnailFile = "dNeZTqPyEJMiCWPkBDhZ.avif"
-showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201996%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
 +++
 ***Awesome Adventure Machine* was a show that released in August of 1996 at Chuck E. Cheese's locations.**
 
