@@ -4,10 +4,11 @@ title = "Children of America '92"
 startDate = "1992-06-00"
 endDate = "1992-07-05"
 pageThumbnailFile = "tl9TK1X2SLt6rwFAsE8I.avif"
-contributors = ["DerekCat", "CyberSnout"]
+contributors = ["DerekCat", "CyberSnout", "Luigigamin212"]
 citations = ["https://archive.org/details/aps-blue-case"]
 mediaDuration = "49:56"
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)"]
+transcriptions = ["CEC TV News Munchs incredible scoop"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
