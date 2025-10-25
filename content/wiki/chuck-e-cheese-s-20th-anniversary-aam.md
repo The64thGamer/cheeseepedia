@@ -2,7 +2,7 @@
 draft = false
 title = "Chuck E. Cheese's 20th Anniversary (AAM)"
 startDate = "1997-04-01"
-endDate = "0000-00-00"
+endDate = "1997-08-05"
 pageThumbnailFile = "3LebTXFwUdgiVWh_qxZT.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/3ynDO4UGEqk"]
