@@ -1,14 +1,14 @@
 +++
-title = "Holiday 2005"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Holiday 2005"
 startDate = "2005-12-00"
-endDate = "0000-00-00"
+endDate = "2005-12-00"
+pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13"]
 citations = []
-pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 **Holiday 2005** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2005.
 
