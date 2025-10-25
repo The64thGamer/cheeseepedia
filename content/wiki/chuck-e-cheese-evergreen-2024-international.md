@@ -3,6 +3,7 @@ title = "Chuck E. Cheese Evergreen 2024 International"
 startDate = "2024-00-00"
 endDate = "2024-00-00"
 contributors = ["Ceclife13"]
+showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
