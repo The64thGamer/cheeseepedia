@@ -2,12 +2,12 @@
 draft = false
 title = "January 1999"
 startDate = "1999-01-00"
-endDate = ""
+endDate = "1999-03-00"
 pageThumbnailFile = "nBYRzh1KZihIiTt4QyTm.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "CEC Illinois", "Ceclife13", "BurgersNuggs445", "RedaCEC", "Anonymous"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso"]
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso|CEC-Stage SVHS w/ Signals","https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso|Post '93 3-Stage SVHS w/ Signals"]
+downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso|CEC-Stage SVHS w/ Signals", "https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
