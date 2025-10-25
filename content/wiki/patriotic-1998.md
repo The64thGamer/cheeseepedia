@@ -1,14 +1,14 @@
 +++
-title = "Patriotic 1998"
 draft = false
+title = "Patriotic 1998"
+startDate = "1998-06-23"
+endDate = "1998-07-06"
+pageThumbnailFile = "nKdnktH7tMqpuqZk0Ewg.avif"
+contributors = ["CyberSnout", "The 64th Gamer"]
+citations = []
+showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1998-06-23"
-endDate = "0000-00-00"
-contributors = ["CyberSnout","The 64th Gamer"]
-citations = []
-pageThumbnailFile = "nKdnktH7tMqpuqZk0Ewg.avif"
-showtapeFormats = ["R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 **Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998 after which {{< wiki-link "May 1998 Studio C" >}} would play again.
 
