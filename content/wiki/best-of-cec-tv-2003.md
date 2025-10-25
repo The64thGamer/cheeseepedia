@@ -1,15 +1,15 @@
 +++
-title = "Best Of CEC TV 2003"
 draft = false
+title = "Best Of CEC TV 2003"
+startDate = "2003-01-00"
+endDate = "2008-08-00"
+pageThumbnailFile = "JTW1kI4Dzyl5h_Pgsu0B.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "John95", "CyberSnout", "MasterMike"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2003-01-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Ceclife13","John95","CyberSnout","MasterMike"]
-citations = []
-pageThumbnailFile = "JTW1kI4Dzyl5h_Pgsu0B.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"]
 +++
 **Best of CEC TV 2003** released January 2003 and ran until April 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
 This show is made up of songs and intermissions reused from various 2000 - 2002 showtapes.
