@@ -1,14 +1,14 @@
 +++
-title = "Chuck E's Magical Holiday Celebration"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Chuck E's Magical Holiday Celebration"
 startDate = "1996-12-00"
-endDate = "0000-00-00"
+endDate = "1996-12-00"
+pageThumbnailFile = "zvhhpm1wFC0UFJTOL2N3.avif"
 contributors = ["Ceclife13"]
 citations = []
-pageThumbnailFile = "zvhhpm1wFC0UFJTOL2N3.avif"
-showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E.'s Magical Holiday Celebration* was a show that released in December of 1996 and also played in December 1997 at Chuck E. Cheese's locations.**
 
