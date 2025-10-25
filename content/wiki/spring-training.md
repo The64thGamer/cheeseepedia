@@ -1,14 +1,15 @@
 +++
-title = "Spring Training"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Spring Training"
 startDate = "1993-03-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","DerekCat","Cy's Junk at School"]
-citations = []
 pageThumbnailFile = "KO70oMoPFxrf7Kl1htD5.avif"
-showtapeFormats = ["3-Stage SVHS (Pre-93)","C&R SVHS (Pre-93)","R12 SVHS (Pre-93)"]
+contributors = ["The 64th Gamer", "DerekCat", "Cy's Junk at School", "Luigigamin212"]
+citations = []
+showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
+transcriptions = ["CEC TV News Munch for President"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 **Spring Training** was a show released in March of 1993. This is the last show to use the {{< wiki-link "R12 SVHS (Pre-93)" >}} and {{< wiki-link "C&R SVHS (Pre-93)" >}} formats for Cyberamic stage programming.
 
