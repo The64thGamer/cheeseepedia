@@ -1,14 +1,15 @@
 +++
-title = "Spring Training Final Version"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "Spring Training Final Version"
 startDate = "1993-03-00"
 endDate = "0000-00-00"
-contributors = ["Ceclife13"]
-citations = []
 pageThumbnailFile = "KO70oMoPFxrf7Kl1htD5.avif"
-showtapeFormats = ["3-Stage SVHS (Pre-93)","C&R SVHS (Pre-93)","R12 SVHS (Pre-93)"]
+contributors = ["Ceclife13", "Luigigamin212"]
+citations = []
+showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
+transcriptions = ["CEC TV News Munch for President"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 **Spring Training Final Version** was a rerelease of {{< wiki-link "Spring Training" >}} with intermission changes.
 
