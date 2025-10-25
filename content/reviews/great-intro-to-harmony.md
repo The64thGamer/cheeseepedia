@@ -2,7 +2,7 @@
 recommend = true
 title = "Great intro to Harmony "
 startdate = "2025-10-25"
-page = "Harmony Howlette&#039;s Wild West Show"
+page = "Harmony Howlette's Wild West Show"
 contributors = ["Luigigamin212"]
 tags = ["Reviews"]
 +++
