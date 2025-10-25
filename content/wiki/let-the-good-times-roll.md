@@ -2,7 +2,7 @@
 draft = false
 title = "Let The Good Times Roll"
 startDate = "1994-01-03"
-endDate = "1993-04-00"
+endDate = "1994-03-00"
 pageThumbnailFile = "hAczHtQW0ncEFSA6bENH.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "CyberSnout"]
 citations = ["https://archive.org/details/january-1994"]
