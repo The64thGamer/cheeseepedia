@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Happy Holidays 1998"
-startDate = "1998-00-00"
-endDate = ""
+startDate = "1998-12-00"
+endDate = "1998-12-00"
 pageThumbnailFile = "1ykTIzJMucTFBfdW0nv_.avif"
 contributors = ["Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=Mbu48nYYPCo"]
