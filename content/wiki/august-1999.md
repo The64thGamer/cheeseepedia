@@ -2,7 +2,7 @@
 draft = false
 title = "August 1999"
 startDate = "1999-08-00"
-endDate = "1999-12-00"
+endDate = "1999-11-00"
 pageThumbnailFile = "YQhq5K1pLAeN8HqVZs4G.avif"
 contributors = ["CyberSnout", "The 64th Gamer", "Anastasia.laguardia", "Anonymous"]
 citations = ["https://youtu.be/YvjpHQMbRMI"]
