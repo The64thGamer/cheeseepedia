@@ -7,7 +7,7 @@ contributors = ["Ceclife13"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***International Halloween 2023*** was a Halloween-themed show released on October 2, 2023, for international locations only.
+***International Halloween 2023*** was a Halloween-themed show for international locations only.
 
 ## Show List:
 
