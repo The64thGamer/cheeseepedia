@@ -1,13 +1,13 @@
 +++
-title = "Summertime 2000"
 draft = false
+title = "Summertime 2000"
+startDate = "2000-07-00"
+endDate = "2000-08-00"
+pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
+contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "BurgersNuggs445"]
+citations = []
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2000-07-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyberSnout","Ceclife13","BurgersNuggs445"]
-citations = []
-pageThumbnailFile = "ZaDaGdETcm2v6asdGrv4.avif"
 +++
 ***Summertime 2000* was a showtape that released July 2000 and ran until September 2000.
 Featured 3 segments with songs themed around Summertime and America.**
