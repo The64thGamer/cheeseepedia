@@ -1,5 +1,5 @@
 +++
-title = "Chuck E's Fiesta Mexicana "
+title = "Chuck E's Fiesta Mexicana"
 draft = false
 tags = ["Live Shows"]
 categories = [""]

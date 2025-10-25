@@ -1,5 +1,5 @@
 +++
-title = "Waltz across Texas "
+title = "Waltz across Texas"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

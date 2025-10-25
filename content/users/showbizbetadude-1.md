@@ -1,5 +1,5 @@
 +++
-title = "showbizbetadude "
+title = "showbizbetadude"
 tags = ["User"]
 +++
 Hey everyone, My Name Is Connor, I'm A Big Fan of the Late Avenger Stuff and Early RAE Stuff From (1980-82)

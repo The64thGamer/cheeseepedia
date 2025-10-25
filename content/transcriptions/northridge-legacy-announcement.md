@@ -1,5 +1,5 @@
 +++
-title = "Northridge Legacy Announcement "
+title = "Northridge Legacy Announcement"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Legacy Summer Show 2025 "
+title = "Chuck E. Cheese Legacy Summer Show 2025"
 startDate = "2025-04-28"
 endDate = "2025-09-07"
 pageThumbnailFile = "summer2025.avif"

@@ -1,5 +1,5 @@
 +++
-title = "Hokey Pokey (Brave Combo) "
+title = "Hokey Pokey (Brave Combo)"
 draft = false
 tags = ["Live Shows"]
 categories = [""]

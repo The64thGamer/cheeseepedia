@@ -1,5 +1,5 @@
 +++
-title = "\"Your turn Grandpa\" ad "
+title = "\"Your turn Grandpa\" ad"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
