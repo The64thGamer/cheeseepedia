@@ -1,5 +1,5 @@
 {{ if eq .Kind "taxonomy" "categories" }}
 {{/* disable category pages */}}
 {{ else }}
-  {{ .Content }}
+{{- partial "list.html" . -}}
 {{ end }}
