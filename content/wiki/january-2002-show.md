@@ -2,7 +2,7 @@
 draft = false
 title = "January 2002 Show"
 startDate = "2002-01-00"
-endDate = "2002-00-00"
+endDate = "2002-03-00"
 pageThumbnailFile = "KDKawL5m8G0dd0I_B1vZ.avif"
 contributors = ["The 64th Gamer", "Agent 5", "Ceclife13", "John95"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202002%20Studio%20C-006.iso"]
