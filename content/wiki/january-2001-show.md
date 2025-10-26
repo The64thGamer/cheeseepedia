@@ -1,14 +1,14 @@
 +++
-title = "January 2001 Show"
 draft = false
+title = "January 2001 Show"
+startDate = "2001-01-00"
+endDate = "2001-03-00"
+pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "Tux Chuck"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2001-01-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Ceclife13","Tux Chuck"]
-citations = []
-pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 ***January 2001 Show* was the first showtape released in 2001.**
 
