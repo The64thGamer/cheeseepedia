@@ -1,14 +1,14 @@
 +++
-title = "January 1993 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+title = "January 1993 Show"
 startDate = "1993-01-00"
-endDate = "0000-00-00"
+endDate = "1993-02-00"
+pageThumbnailFile = "mEDyhFjb4EiIweTCisbB.avif"
 contributors = ["DerekCat"]
 citations = []
-pageThumbnailFile = "mEDyhFjb4EiIweTCisbB.avif"
-showtapeFormats = ["C&R SVHS (Pre-93)","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
 +++
 **January 1993 Show** was the show that released in January of 1993 at Chuck E. Cheese's locations.
 
