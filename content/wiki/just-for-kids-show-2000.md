@@ -1,14 +1,14 @@
 +++
-title = "Just for Kids Show 2000"
 draft = false
+title = "Just for Kids Show 2000"
+startDate = "2000-04-00"
+endDate = "2000-07-00"
+pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
+contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2000-04-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyberSnout","BurgersNuggs445","Anonymous","Cheeseclassic","Jaxonia"]
-citations = []
-pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 **Just for Kids Show (April 2000)** released April 2000 and ran until July 2000.
 Featured 4 segments singing various kids songs and parodies of kid songs.
