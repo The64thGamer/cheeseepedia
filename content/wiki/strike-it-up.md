@@ -10,7 +10,7 @@ mediaDuration = "9:25"
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "R12 SVHS (Pre-93)", "AAM 2x Laserdisc + Files"]
 downloadLinks = []
 alsoKnownAs = ["SHOWBIZ PIZZA TIME, INC 'CEC Live-Strike It Up/B-Day EXISTING STAGE 9 min. 25 sec. Ch. 1 & 2-Mono Mix Ch. 3-Data, Ch. 4-Gameroom"]
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 

@@ -3,8 +3,6 @@ title = "Land Of 1,000 Dances"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-
-
 startDate = "1991-09-00"
 endDate = "1993-07-00"
 contributors = ["CyberSnout","MultiMonorail"]

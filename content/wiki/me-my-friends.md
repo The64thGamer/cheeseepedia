@@ -2,9 +2,7 @@
 title = "Me & My Friends"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
-
-
+categories = ["Chuck E. Cheese's"]
 startDate = "2017-00-00"
 endDate = "0000-00-00"
 contributors = ["CyberSnout"]
