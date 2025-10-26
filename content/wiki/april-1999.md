@@ -25,7 +25,7 @@ On December 23, 2021, all the unused footage would be uploaded to Brian's YouTub
 
 ### Digital Audio Masters
 
-The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 3 >}}, while providing lossless FLACs of the audio to the community.
+The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 2 >}}, while providing lossless FLACs of the audio to the community.
 
 ## Existing Show List
 
