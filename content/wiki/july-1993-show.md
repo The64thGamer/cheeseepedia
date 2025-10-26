@@ -6,8 +6,9 @@ endDate = "1993-09-13"
 pageThumbnailFile = "N3QIQFdZjk9OnIDNQDV7.avif"
 contributors = ["Ceclife13", "The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=lLhUVq8r3Xg"]
+credits = []
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)"]
+downloadLinks = ["https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)", "https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
