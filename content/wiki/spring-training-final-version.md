@@ -2,12 +2,11 @@
 draft = false
 title = "Spring Training Final Version"
 startDate = "1993-03-00"
-endDate = "0000-00-00"
+endDate = "1993-04-00"
 pageThumbnailFile = "KO70oMoPFxrf7Kl1htD5.avif"
-contributors = ["Ceclife13", "Luigigamin212"]
+contributors = ["Ceclife13"]
 citations = []
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
-transcriptions = ["CEC TV News Munch for President"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++

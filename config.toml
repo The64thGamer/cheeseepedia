@@ -5,6 +5,7 @@ theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
 enableGitInfo = true
 timeout = 500
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "section"] 
 
 [markup]
   [markup.goldmark]
@@ -27,7 +28,6 @@ weight = 40
 
 [outputs]
 section = []
-
 
 [taxonomies]
   category = 'categories'
