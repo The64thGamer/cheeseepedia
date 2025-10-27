@@ -1,5 +1,0 @@
-{{ if and (eq .Kind "taxonomy") (eq .Data.Term "categories") }}
-  {{/* disable category pages */}}
-{{ else }}
-  {{- partial "list.html" . -}}
-{{ end }}
