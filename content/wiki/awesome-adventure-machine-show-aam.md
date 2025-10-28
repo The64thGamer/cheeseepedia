@@ -1,12 +1,12 @@
 +++
-title = "Awesome Adventure Machine (Show) (AAM)"
 draft = false
+title = "Awesome Adventure Machine (Show) (AAM)"
+startDate = "1996-08-21"
+endDate = "1997-03-00"
+contributors = ["The 64th Gamer", "CyCGM"]
+citations = []
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1996-00-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyCGM"]
-citations = []
 +++
 The ***Awesome Adventure Machine Show (AAM version)* is the premiere showtape for the {{< wiki-link "Awesome Adventure Machine" >}} stage.**
 
