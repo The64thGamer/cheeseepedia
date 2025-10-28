@@ -161,7 +161,7 @@ It’s too late sweetheart.
 
 **Harmony Howlette:**
 
-Alright, come one boys, let’s get on with the next song and leave Big C to his insults. 
+Alright, come on boys, let’s get on with the next song and leave Big C to his insults. 
 
 **[Song:Bob Wills Is Still the King]**
 
