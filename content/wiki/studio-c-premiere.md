@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Studio C Premiere"
-startDate = "1997-12-00"
+startDate = "1997-12-17"
 endDate = "1998-09-00"
 pageThumbnailFile = "InkBt7JwMjGRdjQFD1UA.avif"
 contributors = ["CyberSnout", "Anonymous", "The 64th Gamer"]
