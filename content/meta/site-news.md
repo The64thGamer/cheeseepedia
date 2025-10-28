@@ -125,7 +125,11 @@ On September 6th, the entirety of all articles tagged 'Location' would have thei
 - **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
 - **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
 - **October 11th-** The site hits 100+ transcription pages.
-- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user.
+- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user. Users on user pages are colored by total article count.
+- **October 15th-** Cheese-E-Pedia forums are tried once again, this time on Discourse. 'Recent News' section is temporarily removed from homepage.
+- **October 16th-** CEP Discord channels are closed and reduced to the essentials. Wiki-related channels are especially closed to move conversations to the Forums.
+- **October 20th-** Forums recieve groups (roles) users can join or leave, such as Merch Owner, CEC Employee, Animatronic Owners, etc.
+- **October 21st-** Recent News section on homepage is reinstated and connected to the News posts on the Forum.
 
 ### Planned Upcoming Changes
 

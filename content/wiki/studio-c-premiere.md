@@ -12,8 +12,8 @@ alsoKnownAs = ["Studio C Premiere (Final Ver)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Studio C Premiere* was released in December 1997 and ran until September 1998.
-This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Show" >}}.**
+***Studio C Premiere*** was released in December 1997 and ran until September 1998.
+This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Show" >}}.
 
 ## DVCAM Footage
 
