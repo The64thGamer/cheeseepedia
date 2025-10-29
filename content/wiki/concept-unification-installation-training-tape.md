@@ -5,7 +5,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer", "Cy's Junk at School", "Stripes", "Luigigamin212"]
 citations = []
-transcriptions = ["Concept Unifcation Installation Tape"]
+transcriptions = ["Concept Unification Installation Tape"]
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
 +++
