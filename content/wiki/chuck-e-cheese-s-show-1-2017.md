@@ -4,10 +4,10 @@ title = "Chuck E. Cheese's Show 1 2017"
 startDate = "2017-01-03"
 endDate = "2017-2-26"
 pageThumbnailFile = "mDz9zXlqiXeDMyi6rx6f.avif"
-contributors = ["The 64th Gamer", "CyberSnout"]
+contributors = ["The 64th Gamer", "CyberSnout", "Luigigamin212"]
 citations = ["https://youtu.be/t0UbAcbJDUI"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-transcriptions = ["Together We've Got It 2017"]
+transcriptions = ["Together We've Got It 2017", "Your Birthdays are special"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
