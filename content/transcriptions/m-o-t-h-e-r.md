@@ -13,8 +13,9 @@ T is for the tears she shed to save me.
 H is for heart of purest gold.
 E is for her eyes that love light shinging.
 R is right and right she'll always be.
-P.
-ut them altogether and they special mother.
+
+
+Put them altogether and they special mother.
 A word that means a world to me.
 **Pasqually : (singing)
 M is for the millions things she gave me.
