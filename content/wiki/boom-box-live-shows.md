@@ -13,21 +13,20 @@ categories = ["Chuck E. Cheese's"]
 ## Live List:
 
 1. **Live 1**
-1. Them Bones (October Only)
-2. **Live 2**
-1. Chuck E. Says
-3. **Live 3**
-1. Happy & You Know It
-4. **Live 4**
-1. Head, Shoulders, Knees & Toes
-5. **Live 5**
-1. The Chuck E. (Do The Roll)
-6. **Live 6**
-1. BINGO
-7. **Live 7**
-1. Old MacDonald
-8. **Live 6**
-1. Birthday (English)
-9. **Live 7**
-1. Birthday (Spanish)
-
+2. Them Bones (October Only)
+3. **Live 2**
+4. Chuck E. Says
+5. **Live 3**
+6. Happy & You Know It
+7. **Live 4**
+8. Head, Shoulders, Knees & Toes
+9. **Live 5**
+10. The Chuck E. (Do The Roll)
+11. **Live 6**
+12. BINGO
+13. **Live 7**
+14. Old MacDonald
+15. **Live 8**
+16. Birthday (English)
+17. **Live 9**
+18. Birthday (Spanish)
