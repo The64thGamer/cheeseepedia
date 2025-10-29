@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "PTT Training Center & Test Kitchen"
-startDate = ""
-endDate = ""
+startDate = "1981-12-00"
+endDate = "1984-00-00"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-3.pdf", "http://csjpbce.sanjoseca.gov/terms/conditionspage.asp?DocumentID=3536245", "https://www.tapatalk.com/groups/retro_pizza_zone/the-really-big-epic-ptt-find-and-trip-t4727.html", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-1.pdf"]
 tags = ["Remodels and Initiatives"]

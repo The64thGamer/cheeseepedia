@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Chuck E.'s Play Band"
-startDate = ""
-endDate = ""
+startDate = "2018-00-00"
+endDate = "0000-00-00"
 contributors = ["ChuckEPediaIsTheBest!"]
 citations = ["(TBD)"]
 tags = ["Remodels and Initiatives"]
