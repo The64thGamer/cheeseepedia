@@ -8,7 +8,7 @@ citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Road Show 2010** was a CD released alongside the {{< wiki-link "January 2014 Show" >}} which featured seven {{< wiki-link "Road Shows" >}}.
+**Road Show 2008** was a CD released alongside the {{< wiki-link "Holiday 2007" >}} show which featured eleven {{< wiki-link "Road Shows" >}}.
 
 ## Live List:
 
