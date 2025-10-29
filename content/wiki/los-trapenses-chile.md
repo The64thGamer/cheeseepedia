@@ -1,5 +1,5 @@
 +++
-title = "Los Trapenses, Chile"
+title = "Lo Barnechea, RM, Chile (Av. José Alcalde Délano 10533, Local 2000) (Mall Vivo Los Trapenses)"
 storeNumber = ""
 startDate = "2014-12-13"
 endDate = ""
@@ -9,7 +9,7 @@ stages = []
 franchisees = []
 attractions = []
 sqft = ""
-latitudeLongitude = ["-33.35704720420913, -70.53986738310077"]
+latitudeLongitude = ["-33.355193, -70.534608"]
 citations = []
 contributors = []
 downloadLinks = []
