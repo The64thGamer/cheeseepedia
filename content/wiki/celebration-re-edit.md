@@ -26,7 +26,7 @@ The live show starts with a five-minute countdown featuring Larry the Technician
 | Release Year | Showtape                             | Format            |
 |--------------|--------------------------------------|-------------------|
 | 2000         | SVHS Tape - January 2000 - March 2000 | 3-Stage, CEC-Stage |
-| 2000         | DVD - January 2000 - March 2000 | Studio C |
+| 2000         | DVD + Floppy - January 2000 - March 2000 | Studio C |
 
 ## Live Trivia:
 
