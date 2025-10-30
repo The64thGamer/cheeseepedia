@@ -2,7 +2,7 @@
 draft = false
 title = "Holiday 2007"
 startDate = "2007-12-00"
-endDate = "2007-12-00"
+endDate = "2007-12-31"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13", "CyberSnout"]
 citations = ["https://archive.org/download/3stage_dvd_signals/December%202007%203-stage.iso"]
