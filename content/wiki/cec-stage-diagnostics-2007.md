@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "CEC Stage Diagnostics 2007"
-startDate = "2007-01-00"
+startDate = "2007-01-01"
 endDate = "2025-08-10"
 pageThumbnailFile = "j_6mHrN2SmkOdLGsG7_1.avif"
 contributors = ["CyberSnout", "The 64th Gamer"]
