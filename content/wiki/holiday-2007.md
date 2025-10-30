@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Holiday 2007"
-startDate = "2007-12-00"
+startDate = "2007-12-01"
 endDate = "2007-12-31"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13", "CyberSnout"]
