@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Summer 2007 Show"
-startDate = "2007-07-00"
-endDate = "2007-08-00"
+startDate = "2007-07-01"
+endDate = "2007-08-30"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "RedaCEC", "Anonymous", "Cy's Junk at School", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/July%202007%20Studio%20C.iso"]
@@ -88,4 +88,4 @@ This show played from July - August 2007.
 
 ## Trivia
 
-- Birthday Extravaganza 07|Birthday Star Extravaganza 2007 is featured exclusively on Studio C discs and was re-edited since the April 2007 Show. Currently unknown if it was playable.
+- Birthday Star Extravaganza 2007 is featured exclusively on Studio C discs and was re-edited since the April 2007 Show. Currently unknown if it was playable.
