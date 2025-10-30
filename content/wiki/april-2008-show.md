@@ -2,7 +2,7 @@
 draft = false
 title = "April 2008 Show"
 startDate = "2008-04-01"
-endDate = "2008-06-00"
+endDate = "2008-06-30"
 pageThumbnailFile = "3kaFTvcbUpEQD8SD8ftw.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Bowling for Cheese", "BurgersNuggs445", "Anonymous", "Anonymous", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/cyberamics_post_93_dvd_signals/April%202008%20CEC%20Stage-008.iso"]
