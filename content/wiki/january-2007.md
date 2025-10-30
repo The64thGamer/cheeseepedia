@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "January 2007"
-startDate = "2007-01-00"
-endDate = "2007-03-00"
+startDate = "2007-01-01"
+endDate = "2007-03-30"
 pageThumbnailFile = "brnaurys7ldzrwabd1bg.avif"
 contributors = ["The 64th Gamer", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202007%20Studio%20C-008.iso"]
