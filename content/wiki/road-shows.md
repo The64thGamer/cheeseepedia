@@ -23,9 +23,9 @@ categories = ["Chuck E. Cheese's"]
 | {{< wiki-link "Super Chuck Road Show" >}}                 | {{< wiki-link "Super Chuck Summer Show 2005" >}}          |     | July      | 2005 |
 | {{< wiki-link "Road Show 2005" >}}                        | {{< wiki-link "September 2005 Show" >}}                   |     | September | 2005 |
 | {{< wiki-link "Road Show 2006" >}}                        | {{< wiki-link "January 2006 Show" >}}                     |     | January   | 2006 |
-| {{< wiki-link "Road Show 2007" >}}                        | {{< wiki-link "January 2007" >}}                          |     | January   | 2007 |
-| {{< wiki-link "Road Show 2008" >}}                        | {{< wiki-link "Holiday 2007" >}}                          |     | December  | 2007 |
-| {{< wiki-link "Revised Road Show 2008" >}}                | {{< wiki-link "Summer 2008 Show" >}}                      |     | July      | 2008 |
+| {{< wiki-link "Road Show 2007" >}}                        | {{< wiki-link "January 2007" >}}                          | 1   | January   | 2007 |
+| {{< wiki-link "Road Show 2008" >}}                        | {{< wiki-link "Holiday 2007" >}}                          | 1   | December  | 2007 |
+| {{< wiki-link "Revised Road Show 2008" >}}                | {{< wiki-link "Summer 2008 Show" >}}                      | 1   | July      | 2008 |
 | {{< wiki-link "Road Show Generic CD" >}}                  | {{< wiki-link "Chuck E's Holiday Party 2008" >}}          |     | December  | 2008 |
 | {{< wiki-link "Road Show 2010" >}}                        |                                                           |     | 2010      |      |
 | {{< wiki-link "Road Show 2011" >}}                        | {{< wiki-link "Holiday Party 2010 Show" >}}               | 1   | December  | 2010 |
