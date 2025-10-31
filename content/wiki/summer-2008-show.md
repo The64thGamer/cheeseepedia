@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Summer 2008 Show"
-startDate = "2008-07-00"
+startDate = "2008-07-01"
 endDate = "2008-08-00"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Anonymous", "Dame", "AstridMascotFan2005", "Ceclife13"]
