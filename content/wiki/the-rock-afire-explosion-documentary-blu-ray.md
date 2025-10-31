@@ -8,6 +8,7 @@ contributors = ["The 64th Gamer", "Chuckatronics"]
 citations = ["", "https://www.americangenrefilm.com/", "https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony. No archive of the website within the first week available.", "https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony.", "https://web.archive.org/web/20240731052611/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20241108103816/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20250609020700/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion"]
 tags = ["Products"]
 categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion Documentary"]
+transcriptions = ["The Rock A Fire Explosion Documentary"]
 +++
 The ***Rock-afire Explosion Documentary Blu-Ray* is a 2024 limited edition rerelease of the {{< wiki-link "The Rock-afire Explosion Documentary" >}} with small additions and an improved video quality over the The Rock-afire Explosion Documentary DVD|prior DVD release.**
 
