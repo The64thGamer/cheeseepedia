@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Evergreen 2025 September Update"
+title = "Chuck E. Cheese Evergreen 2025 November Update"
 startDate = "2025-11-03"
 endDate = "0000-00-00"
 pageThumbnailFile = " "
