@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Legacy Halloween Boo-Tacular 2025 Show"
 startDate = "2025-09-29"
-endDate = "0000-00-00"
+endDate = "2025-11-02"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
