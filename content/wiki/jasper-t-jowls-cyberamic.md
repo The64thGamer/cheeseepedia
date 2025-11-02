@@ -1,15 +1,14 @@
 +++
-title = "Jasper T. Jowls (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+title = "Jasper T. Jowls (Cyberamic)"
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley","The 64th Gamer","CECMentor","Cheeseclassic"]
-citations = []
 pageThumbnailFile = "5c_TAVUEL_uKccsbWrCn.avif"
+contributors = ["CECBowlingGreen", "BurgersNuggs445", "CEC Tinley", "The 64th Gamer", "CECMentor", "Cheeseclassic", "randomguyfan22"]
+citations = []
+tags = ["Animatronics"]
+categories = ["Pizza Time Theatre"]
 +++
-
 The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
 
 ## History
@@ -27,7 +26,7 @@ As Fantasy Forest simply translated the previous portrait designs into Cyberamic
 ## Movement Rosetta
 
 | Terminal # | Header #2 |
-|------------|-----------|
+| ---------- | --------- |
 | TB1, 1-2   | MOUTH     |
 | TB1, 3-4   | HEAD L.   |
 | TB1, 5-6   | HEAD R.   |
@@ -37,29 +36,29 @@ As Fantasy Forest simply translated the previous portrait designs into Cyberamic
 | TB1, 13-14 | HAND      |
 | TB1, 15-16 | EYES L.   |
 
-|   |     |        | Header 2 $84 |
-|---|-----|--------|--------------|
-|   | LED | TB1    | JASPER 7/6   |
-| 0 | 1   | 1, 2   | A MOUTH      |
-| 1 | 2   | 3, 4   | H HEAD L     |
-| 2 | 3   | 5, 6   | G HEAD R     |
-| 3 | 4   | 7, 8   | P HEAD UP    |
-| 4 | 5   | 9, 10  | I EYES R     |
-| 5 | 6   | 11, 12 | N EYELIDS    |
-| 6 | 7   | 13, 14 | T HAND       |
-| 7 | 8   | 15, 16 | V EYES L     |
+|     |     |        | Header 2 $84 |
+| --- | --- | ------ | ------------ |
+|     | LED | TB1    | JASPER 7/6   |
+| 0   | 1   | 1, 2   | A MOUTH      |
+| 1   | 2   | 3, 4   | H HEAD L     |
+| 2   | 3   | 5, 6   | G HEAD R     |
+| 3   | 4   | 7, 8   | P HEAD UP    |
+| 4   | 5   | 9, 10  | I EYES R     |
+| 5   | 6   | 11, 12 | N EYELIDS    |
+| 6   | 7   | 13, 14 | T HAND       |
+| 7   | 8   | 15, 16 | V EYES L     |
 
 ## Stages Used In
 
-- Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
-- Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.
-- Rocker Stage: Installed from 1987-1990. Went extinct on June 12, 2022 at Rockford, IL.
-- C-Stage: Installed from 1989-1990? Went extinct in 2003 at Tacoma, WA.
-- Road Stage: Installed from 1990-1992. 1 left as of June 2024.
-- 2-Stage: Installed from 1992-1993, 1996-1997. 4 left as of June 2024.
-- 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
-- Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 2023 at Lynnwood, WA.
+* Portrait Stage: Installed from 1979-1980. Went extinct in 2001 at Lake Forest, CA.
+* Balcony Stage: Installed from 1980-1986. Went extinct in 1993 at Edmonton, Alberta, Canada.
+* Rocker Stage: Installed from 1987-1990. Went extinct on June 12, 2022 at Rockford, IL.
+* C-Stage: Installed from 1989-1990? Went extinct in 2003 at Tacoma, WA.
+* Road Stage: Installed from 1990-1992. Went extinct in June 15, 2025 at Missisauga Ontario, Canada.
+* 2-Stage: Installed from 1992-1993, 1996-1997. 4 left as of June 2024.
+* 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
+* Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 2023 at Lynnwood, WA.
 
 ## Trivia
 
-- Originally, Jasper's guitar neck arm was controlled by a cylinder on the guitar neck as opposed to the inside of his arm, this was changed in 1982.
+* Originally, Jasper's guitar neck arm was controlled by a cylinder on the guitar neck as opposed to the inside of his arm, this was changed in 1982.
