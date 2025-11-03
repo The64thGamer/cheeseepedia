@@ -48,7 +48,7 @@ The Rocket Blaster is a 2019 Ticket Blaster prototype that never left the Irving
 
 ### 2024 Chuck E.'s Birthday Blaster
 
-A test for a replacement to the ticket blaster, being the {{< wiki-link "Chuck E.'s Birthday Blaster" >}}, would be tested and the Grand Prarie, TX location.
+A test for a replacement to the ticket blaster, being the {{< wiki-link "Chuck E.'s Birthday Blaster" >}}, would be tested and the Grand Prairie, TX location.
 
 ## How To Play
 
