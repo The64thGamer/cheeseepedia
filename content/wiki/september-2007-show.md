@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "September 2007 Show"
-startDate = "2007-09-00"
-endDate = "2007-11-00"
+startDate = "2007-09-01"
+endDate = "2007-11-30"
 pageThumbnailFile = "douicwogo05dicflh57u.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Anonymous", "Dame", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202007%20Studio%20C.iso"]

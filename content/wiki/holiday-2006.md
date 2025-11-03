@@ -2,7 +2,7 @@
 draft = false
 title = "Holiday 2006"
 startDate = "2006-12-00"
-endDate = "2006-12-00"
+endDate = "2006-12-31"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13"]
 citations = []

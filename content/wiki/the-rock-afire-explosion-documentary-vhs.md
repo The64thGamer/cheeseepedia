@@ -7,4 +7,5 @@ pageThumbnailFile = ""
 startDate = "2015-00-00"
 endDate = "2015-00-00"
 contributors = []
+transcriptions = ["The Rock A Fire Explosion Documentary"]
 +++
