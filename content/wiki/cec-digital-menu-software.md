@@ -4,7 +4,7 @@ draft = false
 tags = ["Other Systems"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = 2019-00-00"
+startDate = "2019-00-00"
 endDate = ""
 contributors = []
 +++
