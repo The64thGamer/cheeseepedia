@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -120,6 +120,15 @@ Pasqually's document is completely missing, making it unclear when he was instal
 
 {{< wiki-link "SPP Faith / Dreams / Kids" >}}, a showtape released in August of 1989, was found in a home video to have a lost clip inserted into its first intermission segment, just before the countdown. It says:
 
-> 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'
+> 'Something different is happening at ShowBiz on Saturdays. [Rooster crowing, indescernable noise] What's more fun than Saturday mornings at ShowBiz? A birthday party breakfast at ShowBiz. [Children cheering]'{{< cite 11 >}}
 
-The home video doesn't point the camera at any TVs during the segment, keeping the video lost media. Any other promotional material or offers for Saturday breakfasts at ShowBiz are also lost if they exist.
+The home video doesn't point the camera at any TVs during the segment, keeping the video lost media. Recently a newspaper article about the breakfast program has been recovered, giving additional insight:{{< cite 12 >}}
+- The breakfast program was a test-market initiative limited to a few stores in 1988 and expanded to all Dallas-Fort Worth locations by 1989. Article takes place September 8th, 1989.
+- The store in the article was North Richland Hills, TX (7935 Grapevine Hwy)
+- Menu items include:
+    - Pancakes w/ bacon and a drink ($2.50)
+    - ‘Sunrise Sandwich’, a biscuit w/ eggs, sausage, and cheese, served with ‘alphabet-shaped french fries’ and a drink. ($2.25)
+    - French toast sticks ($2.50)
+    - Cinnamon Rolls ($???)
+- Drinks:
+    - Orange juice, apple juice, coffee, and milk.
