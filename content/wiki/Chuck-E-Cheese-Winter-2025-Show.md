@@ -10,3 +10,10 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
+
+
+## Lives:
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
+3. Chuck E.’s Yuletide Slide (Media Navori)
+4. Chuck E.’s Winner Wonder Dance (Media Navori)
