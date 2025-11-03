@@ -280,7 +280,7 @@ Yeah!
 
 And uh- Tammy you sit down. Sit down
 
-**[Terry the dog sits]**
+**[Tammy the dog sits]**
 
 **Aaron Fechter & Kerry:**
 Good girl!
