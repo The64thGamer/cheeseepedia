@@ -1,12 +1,12 @@
 +++
-title = "Pizza Wars (Parody Poster)"
 draft = false
-tags = ["Store Fixtures", "Products"]
-categories = ["ShowBiz Pizza Place", "Creative Engineering"]
+title = "Pizza Wars (Parody Poster)"
 startDate = "1988-00-00"
 endDate = "2019-00-00"
-contributors = ["ThatBoiCydalan","BurgersNuggs445"]
-citations = ["https://creativeengineering.bigcartel.com/","https://filmartgallery.com/products/star-wars-9859","https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf"]
+contributors = ["ThatBoiCydalan", "BurgersNuggs445", "randomguyfan22"]
+citations = ["https://creativeengineering.bigcartel.com/", "https://filmartgallery.com/products/star-wars-9859", "https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf"]
+tags = ["Store Fixtures", "Products"]
+categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
 **Pizza Wars** was a poster created for *ShowBiz Pizza* and *Chuck E. Cheese's* in *1988*.
 
@@ -18,5 +18,4 @@ This poster has been re-released by Creative Engineering after Concept Unificati
 ## Design
 
 The poster is a parody of the [Star Wars](https://en.wikipedia.org/wiki/Star_Wars_(film)) movie poster from 1977.{{< cite 2 >}}
-This piece details Duke LaRue as Luke Skywalker, Mitzi Mozzarella as Princess Leia, Billy Bob and Beach Bear as C-3PO and R2-D2.
-As completely new art was created for the characters, Billy Bob utilizes a stock pose.{{< cite 3 >}}
+This piece details Duke LaRue as Luke Skywalker, Mitzi Mozzarella as Princess Leia, Billy Bob and Beach Bear as C-3PO and R2-D2, and Fatz as Darth Vader in the background, the Death Star now looks like a pizza. As completely new art was created for the characters, Billy Bob utilizes a stock pose.{{<cite 3>}}
