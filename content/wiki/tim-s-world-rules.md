@@ -6,8 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "1992-00-00"
 endDate = "0000-00-00"
-contributors = []
-downloadLinks ["https://archive.org/details/cyberstar-password-software-dos|Software (DOS)"]
+contributors = ["The 64th Gamer"]
+downloadLinks = ["https://archive.org/details/cyberstar-password-software-dos|Software (DOS)"]
 citations = ["https://archive.org/details/cyberstar-password-software-dos"]
 +++
 ***Tim's World Rules*** was custom software at Chuck E. Cheese corporate developed in 1992 to restrict access to Cyberstar units by employees.

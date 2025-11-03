@@ -6,6 +6,6 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2019-00-00"
 endDate = ""
-contributors = []
+contributors = ["The 64th Gamer"]
 +++
 The ***CEC Digital Menu Software*** is a remote software used to display changing menus across Chuck E. Cheese locations. It began deployment some time around 2019.
