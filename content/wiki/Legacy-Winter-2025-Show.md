@@ -1,11 +1,11 @@
 +++
-title = "Chuck E. Cheese Winter 2025 Show"
+title = "Chuck E. Cheese Legacy Winter 2025 Show"
 startDate = "2025-11-03"
 endDate = "0000-00-00"
 pageThumbnailFile = "winter2025.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
-showtapeFormats = ["Media Navori"]
+showtapeFormats = ["Legacy Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -29,7 +29,9 @@ categories = ["Chuck E. Cheese's"]
       14.  Jasper T. Jowls - 'Snowman' (2014)
       15.  Sia - 'Santa's Coming for Us'
       16.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
-      17.  Chuck E. & Friends - 'Holiday Medley' (2020)
+2. Skit 1
+      1. Chuck E. & Friends - 'Holiday Medley' (2020)
+3. Intermission 2
       18.  The Temptations - 'Rudolph the Red-Nosed Reindeer'
       19.  Chuck E. & Helen - 'Merry Christmastime (2016)
       20.  KIDZ BOP - 'Santa Claus Is Coming to Town'
@@ -41,14 +43,23 @@ categories = ["Chuck E. Cheese's"]
       26.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       27.  Chuck E. & Friends - 'Dogs in Sweaters'
       28.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      29.  Chuck E. & Friends - 'Cookies for Santa'
+2. Skit 2
+      1. Helen Henny - 'All I Want for Christmas is Snow'
+3. Intermission 3
       30.  Olaf - 'That Time of Year'
       31.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
       32.  Leslie Odom Jr. - 'Snow'
       33.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives:
-1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
-2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
-3. Chuck E.’s Yuletide Slide (Media Navori)
-4. Chuck E.’s Winner Wonder Dance (Media Navori)
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Chuck E.’s Yuletide Slide (Legacy Navori)
+4. Chuck E.’s Winner Wonder Dance (Legacy Navori)
+
+### Fireables:
+1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
+2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
+3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
+4. Chuck E. & Friends - 'Cookies for Santa' (Legacy Navori)
+5. Chuck E. & Friends - 'Holiday Medley' (Legacy Navori)
