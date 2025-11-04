@@ -76,8 +76,8 @@ The 1-Stage w/ 2-Stage Backdrops is a 1-Stage that instead uses assets of a 2-St
 | {{< wiki-link "Murrieta, CA (25110 Hancock Ave)" >}}               | November 01, 1993  | May 2023                                     | 1-Stage                      |
 | {{< wiki-link "Rohnert Park, CA (601 Rohnert Park Expressway)" >}} | December 06, 1993  | 2014                                         | 1-Stage                      |
 | {{< wiki-link "Poughkeepsie, NY (1895 South Rd)" >}}               | December 06, 1993  | September 2022                               | 1-Stage                      |
+| {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}           | December 13, 1993  | July 19, 2000                                | 1-Stage                      |
 | {{< wiki-link "North Bergen, NJ (8101 Tonelle Ave)" >}}            | December 20, 1993  | October 2022                                 | 1-Stage                      |
-| {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}           | 1993               | July 19, 2000                                | 1-Stage                      |
 | {{< wiki-link "Springfield, MO (3500-A S Glenstone Ave)" >}}       | January 10, 1994   | October 08, 2023                             | 1-Stage                      |
 | {{< wiki-link "El Paso, TX (710 Sunland Park Dr)" >}}              | February 21, 1994  | March 10, 2024                               | Mini Unit 1-Stage            |
 | {{< wiki-link "Dublin, CA (7448 Amador Valley Blvd)" >}}           | March 07, 1994     | October 06, 2024                             | Mini Unit 1-Stage            |
