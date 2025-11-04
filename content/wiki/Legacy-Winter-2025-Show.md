@@ -11,7 +11,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
 
-## Show:
+## Show List:
 1. Intermission 1
       1. Dippin Dots & Chuck E.’s Cookie Crunch
       2.  Harlem Globetrotters - ‘Way We Celebrate’
@@ -32,24 +32,24 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 1
       1. Chuck E. & Friends - 'Holiday Medley' (2020)
 3. Intermission 2
-      18.  The Temptations - 'Rudolph the Red-Nosed Reindeer'
-      19.  Chuck E. & Helen - 'Merry Christmastime (2016)
-      20.  KIDZ BOP - 'Santa Claus Is Coming to Town'
-      21.  Pentatonix - '12 Days of Christmas'
-      22.  KIDZ BOP - 'Merry Christmas'
-      23.  Daveed Diggs - 'Puppy for Hanukkah'
-      24.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
-      25.  Munch & Munch - 'The Windowsill'
-      26.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
-      27.  Chuck E. & Friends - 'Dogs in Sweaters'
-      28.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      1.  The Temptations - 'Rudolph the Red-Nosed Reindeer'
+      2.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      4.  Pentatonix - '12 Days of Christmas'
+      5.  KIDZ BOP - 'Merry Christmas'
+      6.  Daveed Diggs - 'Puppy for Hanukkah'
+      7.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      8.  Munch & Munch - 'The Windowsill'
+      9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      10.  Chuck E. & Friends - 'Dogs in Sweaters'
+      11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      30.  Olaf - 'That Time of Year'
-      31.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      32.  Leslie Odom Jr. - 'Snow'
-      33.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Olaf - 'That Time of Year'
+      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      3.  Leslie Odom Jr. - 'Snow'
+      4.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
