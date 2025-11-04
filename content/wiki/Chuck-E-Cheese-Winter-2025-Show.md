@@ -11,7 +11,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
 
-## Show:
+## Show List:
 1. Intermission 1
       1. Dippin Dots & Chuck E.’s Cookie Crunch
       2.  Harlem Globetrotters - ‘Way We Celebrate’
