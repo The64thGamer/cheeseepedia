@@ -7,7 +7,15 @@
 
 {{/* Article Title/Header */}}
     {{/* Breadcrumb Links */}}
-    {{- partial "Breadcrumbs.html" . -}}
+    <aside data-pagefind-ignore="all">
+        {{- range .Params.categories -}}
+            <a href="{{- "/categories/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a>
+            {{- " > " -}}
+        {{- end -}}
+        {{- range .Params.tags -}}
+            <a href="{{- "/tags/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a> 
+        {{- end -}}
+    </aside>
 
     {{/* Title */}}
     <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
