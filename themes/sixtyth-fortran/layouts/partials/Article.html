@@ -1,9 +1,23 @@
 {{/* Generate Variables */}}
     {{/* Initialize for Cite Shortcodes */}}
-    {{- .Page.Store.Set "citationsCount" dict -}}
+        {{- .Page.Store.Set "citationsCount" dict -}}
 
     {{/* Current First Tag, defaults to Meta */}}
-    {{- $pageType := (index .Params.tags 0) | default "Meta" -}}
+        {{- $pageType := (index .Params.tags 0) | default "Meta" -}}
+        {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
+
+    {{/* Article Sections */}}
+        {{- if $isBasicArticle -}}
+            {{- $gallery := partial "display-gallery.html" . -}}
+            {{- $videos := partial "display-video-gallery.html" . -}}
+            {{- $transcriptions := partial "display-transcriptions.html" . -}}
+            {{- $reviews := partial "display-reviews.html" . -}}
+            {{- $sales := partial "display-sales.html" . -}}
+            {{- $article := false -}}
+            {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") (ne $sales "") (ne $reviews "") -}}
+                {{- $article = true -}}
+            {{- end -}}
+        {{- end -}}
 
 {{/* Article Title/Header */}}
     {{/* Breadcrumb Links */}}
@@ -61,7 +75,7 @@
     {{- end -}}
 
 {{/* Basic Article */}}
-    {{- if not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
+    {{- if $isBasicArticle -}}
         {{/* Top Bar */}}
             <aside data-pagefind-ignore="all">
                 <div class="article-topBar">
@@ -154,7 +168,7 @@
 
         {{/* Contributors */}}
             <div class="contributors"><strong>Article Contributed By: </strong>
-                {{- $allArticles := partialCached "grab-all-wiki-articles.html" . -}}
+                {{- $allArticles := partialCached "grab-all-users.html" . -}}
                 {{- $contributors := .Params.contributors | default slice -}}
                 {{- $total := len $contributors -}}
 
@@ -180,7 +194,7 @@
                     {{ end }}
 
                 {{/* Search Forums */}}
-                    {{- if not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
+                    {{- if $isBasicArticle -}}
                         <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
                     {{- end -}}
             </div>
