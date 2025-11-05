@@ -1,14 +1,14 @@
 +++
-title = "Chuck E. Cheese International Holiday 2024/2025"
-startDate = "2024-00-00"
-endDate = "2024-00-00"
-pageThumbnailFile = "winter2024.avif"
-contributors = ["Ceclife13"]
+title = "Chuck E. Cheese International Holiday 2024"
+startDate = "2024-11-00"
+endDate = "2024-12-00"
+pageThumbnailFile = "winter2024int.avif"
+contributors = ["Ceclife13, CyberSnout"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-****Chuck E. Cheese International Holiday 2024/2025*** is a holiday show released exclusively for international locations.
+****Chuck E. Cheese International Holiday 2024*** is a holiday show released exclusively for international locations.
 
 ## Show List:
 1. Skit 1

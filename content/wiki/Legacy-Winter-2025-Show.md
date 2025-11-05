@@ -43,6 +43,7 @@ categories = ["Chuck E. Cheese's"]
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
       11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      12.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
@@ -96,6 +97,7 @@ categories = ["Chuck E. Cheese's"]
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
       11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      12.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
