@@ -26,12 +26,6 @@
             {{- partial "filename-to-photo-no-css-file-link.html" .Title -}}
         </div>
 
-        {{- . -}}
-
-        {{- if .Params.startDate -}}
-            <strong>Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
-        {{- end -}}
-
         <h2>Tagged Articles</h2>
         {{- $callerPages := .Params.pages -}}
         {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
@@ -49,10 +43,10 @@
             {{- partial "video.html" .Title -}}
         </div>
 
-        {{- . -}}
+        {{- .Content -}}
 
         {{- if .Params.startDate -}}
-            <strong>Video taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
+            <br><strong>Video taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
         {{- end -}}
 
         <h2>Tagged Articles</h2>
@@ -66,37 +60,131 @@
         {{- end -}}
     {{- end -}}
 
-{{/* Contributors */}}
+{{/* Basic Article */}}
+    {{- if and (ne $pageType "Photos") (ne $pageType "Videos") (ne $pageType "Reviews") -}}
+        {{/* Top Bar */}}
+            <aside data-pagefind-ignore="all">
+                <div class="article-topBar">
+                {{- if $article -}}
+                    <button class="article-button" data-target="section-article">Article</button>
+                {{- end -}}
+                {{- if ne $gallery "" -}}
+                    <button class="article-button" data-target="section-gallery">Gallery</button>
+                {{- end -}}
+                {{- if ne $videos "" -}}
+                    <button class="article-button" data-target="section-videos">Videos</button>
+                {{- end -}}
+                {{- if ne $transcriptions "" -}}
+                <button class="article-button" data-target="section-transcriptions">Transcriptions</button>
+                {{- end -}}
+                {{- if ne $reviews "" -}}
+                <button class="article-button" data-target="section-reviews">Reviews</button>
+                {{- end -}}
+                {{- if ne $sales "" -}}
+                <button class="article-button" data-target="section-sales">Sales</button>
+                {{- end -}}
+                {{- partial "editButton.html" . -}}
+                </div>
+            </aside>
+        
+        {{/* Top Bar Script */}}
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    // Hide all sections
+                    const sections = document.querySelectorAll('.article-section');
+                    sections.forEach(section => section.style.display = 'none');
+
+                    // Show the default section (Article)
+                    const defaultSection = document.getElementById('section-article');
+                    defaultSection.style.display = 'inline-block';
+
+                    // Add event listeners to buttons
+                    const buttons = document.querySelectorAll('.article-button');
+                    buttons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        // Hide all sections
+                        sections.forEach(section => section.style.display = 'none');
+
+                        // Show the clicked section
+                        const targetSection = document.getElementById(this.dataset.target);
+                        if (targetSection) {
+                        targetSection.style.display = 'inline-block';
+                        }
+                    });
+                    });
+                });
+            </script>
+
+        {{/* Article Sections */}}
+        <div id="section-article" class="article-section">
+            {{- partial "display-infobox.html" . -}}
+            {{- .Content | safeHTML}}
+            {{- partial "display-citations.html" . -}}
+        </div>
+        {{- if ne $gallery "" -}}
+        <div id="section-gallery" class="article-section">
+            {{- $gallery -}}
+        </div>
+        {{- end -}}
+        <div id="section-videos" class="article-section">
+        {{- if ne $videos "" -}}
+            {{- $videos -}}
+        {{- end -}}
+        </div>
+        <div id="section-transcriptions" class="article-section">
+        {{- if ne $transcriptions "" -}}
+            {{- $transcriptions -}}
+        {{- end -}}
+        </div>
+        <div id="section-reviews" class="article-section">
+        {{- if ne $reviews "" -}}
+            {{- $reviews -}}
+        {{- end -}}
+        </div>
+        <div id="section-sales" class="article-section">
+        {{- if ne $sales "" -}}
+            {{- $sales -}}
+        {{- end -}}
+        </div>
+    {{- end -}}
+
+{{/* Article Footer */}}
     <hr>
-    {{- partial "display-contributors.html" . -}}
+    <aside data-pagefind-ignore>
+
+        {{/* Contributors */}}
+        <div class="contributors"><strong>Article Contributed By: </strong>
+            {{- $site := .Site.RegularPages -}}
+            {{- if .Params.contributors -}}
+                {{- $len := len .Params.contributors -}}
+                {{- range $index, $element := .Params.contributors -}}
+                    {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
+                    {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
+                        <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+                    {{- else -}}
+                    {{- $element -}}
+                    {{- end -}}      
+                    {{- if lt (add $index 1) $len -}}
+                        {{- ", " -}}
+                    {{- end -}}
+                {{- end -}}
+            {{- else -}}
+                <strong>Nobody has contributed to this article yet.</strong> Use the "Contribute" button above to make the first edit!
+            {{- end -}}
+
+            {{/* Last Updated */}}
+            {{ with .GitInfo }}
+            <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+            {{ end }}
+
+            {{/* Search Forums */}}
+            {{- if and (ne $pageType "Photos") (ne $pageType "Videos") (ne $pageType "Reviews") -}}
+                <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
+            {{- end -}}
+        </div>
+    </aside>
+
 
 {{/* Random Articles */}}
-{{- partial "Random_Page.html" . -}}
-
-{{/* Top Bar Script */}}
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Hide all sections
-    const sections = document.querySelectorAll('.article-section');
-    sections.forEach(section => section.style.display = 'none');
-
-    // Show the default section (Article)
-    const defaultSection = document.getElementById('section-article');
-    defaultSection.style.display = 'inline-block';
-
-    // Add event listeners to buttons
-    const buttons = document.querySelectorAll('.article-button');
-    buttons.forEach(button => {
-      button.addEventListener('click', function() {
-        // Hide all sections
-        sections.forEach(section => section.style.display = 'none');
-
-        // Show the clicked section
-        const targetSection = document.getElementById(this.dataset.target);
-        if (targetSection) {
-          targetSection.style.display = 'inline-block';
-        }
-      });
-    });
-  });
-</script>
+    <hr>
+    {{- partial "Random_Page.html" . -}}

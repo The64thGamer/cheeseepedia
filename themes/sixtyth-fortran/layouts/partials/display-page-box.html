@@ -9,16 +9,17 @@
     </div>
 
     <div class="list-page-content">
-      <a href="{{ .RelPermalink }}">
+        <a href="{{ .RelPermalink }}">
         {{ with .LinkTitle | default .Title }}
-          {{ . | safeHTML }}
+            {{ . | safeHTML }}
         {{ end }}
         {{ if .Params.downloadLinks }}
-          <img src="/UI/Emojis/inbox.svg" class="emoji">
+            <img src="/UI/Emojis/inbox.svg" class="emoji">
         {{ end }}
-      </a>
-
-      {{ partial "display-date-ranges.html" . }}
+        </a>
+        <div class="list-page-date">
+            {{ partial "display-date-ranges.html" . }}
+        </div>
     </div>
 
     <div class="edit-button-container">

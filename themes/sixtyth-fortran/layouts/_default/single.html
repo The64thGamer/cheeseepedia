@@ -1,6 +1,6 @@
 {{- define "main" -}}
   {{- .Page.Store.Set "citationsCount" dict -}}
-  {{- $layout := "baseArticle" -}}
+  {{- $layout := "Article" -}}
   {{- with .Params.tags -}}
     {{- if in . "User" -}}
       {{- $layout = "user" -}}
@@ -10,12 +10,6 @@
       {{- $layout = "baseTranscriptionArticle" -}}
     {{- else if in . "Reviews" -}}
       {{- $layout = "baseReviewArticle" -}}
-    {{- else if in . "Photos" -}}
-      {{- $layout = "Article" -}}
-    {{- else if in . "Videos" -}}
-      {{- $layout = "Article" -}}
-    {{- else if in . "Animatronic News" -}}
-      {{- $layout = "baseNewsArticle" -}}
     {{- end -}}
   {{- end -}}
   {{- partial $layout . -}}
