@@ -1,13 +1,14 @@
 {{- if .Page.File -}}
     {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/collections/" -}}
     {{- $parentFolder := path.Base (path.Dir .Page.File.Path) -}} <!-- Get the parent folder name -->
-    {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .html extension -->
+    {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .md extension -->
     {{- $pageTitle := .Page.Title -}} <!-- Get the page title -->
 
     <select class="button-dropdown" onchange="navigateTo(this.value)">
         <option value="" disabled selected>Contribute</option>
         <option value="{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}">Edit Page</option>
         <option value="{{ $cmsBaseURL }}reviews/new?page={{ $pageTitle | urlquery }}">Write A Review</option>
+        <option value="https://forum.cheeseepedia.org/search?q={{ $pageTitle | urlquery }}">Forum Topics</option>
     </select>
 
     <script>
