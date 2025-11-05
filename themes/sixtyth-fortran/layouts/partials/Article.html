@@ -61,7 +61,7 @@
     {{- end -}}
 
 {{/* Basic Article */}}
-    {{- if and (ne $pageType "Photos") (ne $pageType "Videos") (ne $pageType "Reviews") -}}
+    {{- if not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
         {{/* Top Bar */}}
             <aside data-pagefind-ignore="all">
                 <div class="article-topBar">
@@ -153,35 +153,37 @@
     <aside data-pagefind-ignore>
 
         {{/* Contributors */}}
-        <div class="contributors"><strong>Article Contributed By: </strong>
-            {{- $site := .Site.RegularPages -}}
-            {{- if .Params.contributors -}}
-                {{- $len := len .Params.contributors -}}
-                {{- range $index, $element := .Params.contributors -}}
-                    {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
-                    {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
-                        <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
+            <div class="contributors"><strong>Article Contributed By: </strong>
+                {{- $allArticles := partialCached "grab-all-wiki-articles.html" . -}}
+                {{- $contributors := .Params.contributors | default slice -}}
+                {{- $total := len $contributors -}}
+
+                {{- if gt $total 0 -}}
+                {{- range $i, $name := $contributors -}}
+                    {{- $match := first 1 (where $allArticles "Title" $name) -}}
+                    {{- if $match -}}
+                    {{- $page := index $match 0 -}}
+                    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
                     {{- else -}}
-                    {{- $element -}}
-                    {{- end -}}      
-                    {{- if lt (add $index 1) $len -}}
-                        {{- ", " -}}
+                    {{ $name }}
                     {{- end -}}
+                    {{- if lt (add $i 1) $total -}}, {{- end -}}
                 {{- end -}}
-            {{- else -}}
-                <strong>Nobody has contributed to this article yet.</strong> Use the "Contribute" button above to make the first edit!
-            {{- end -}}
+                {{- else -}}
+                <strong>Nobody has contributed to this article yet.</strong>
+                Use the "Contribute" button above to make the first edit!
+                {{- end -}}
 
-            {{/* Last Updated */}}
-            {{ with .GitInfo }}
-            <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
-            {{ end }}
+                {{/* Last Updated */}}
+                    {{ with .GitInfo }}
+                    <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+                    {{ end }}
 
-            {{/* Search Forums */}}
-            {{- if and (ne $pageType "Photos") (ne $pageType "Videos") (ne $pageType "Reviews") -}}
-                <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
-            {{- end -}}
-        </div>
+                {{/* Search Forums */}}
+                    {{- if not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
+                        <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
+                    {{- end -}}
+            </div>
     </aside>
 
 
