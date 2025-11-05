@@ -11,9 +11,9 @@
     {{- else if in . "Reviews" -}}
       {{- $layout = "baseReviewArticle" -}}
     {{- else if in . "Photos" -}}
-      {{- $layout = "basePhotoArticle" -}}
+      {{- $layout = "Article" -}}
     {{- else if in . "Videos" -}}
-      {{- $layout = "baseVideoArticle" -}}
+      {{- $layout = "Article" -}}
     {{- else if in . "Animatronic News" -}}
       {{- $layout = "baseNewsArticle" -}}
     {{- end -}}

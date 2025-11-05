@@ -1,0 +1,98 @@
+{{/* Generate Variables */}}
+    {{/* Initialize for Cite Shortcodes */}}
+    {{- .Page.Store.Set "citationsCount" dict -}}
+
+    {{/* Current First Tag, defaults to Meta */}}
+    {{- $pageType := (index .Params.tags 0) | default "Meta" -}}
+
+{{/* Article Title/Header */}}
+    {{/* Breadcrumb Links */}}
+    {{- partial "Breadcrumbs.html" . -}}
+
+    {{/* Title */}}
+    <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
+
+{{/* Photo Page */}}
+    {{- if eq $pageType "Photos" -}}
+        <div class="article-photo-thumbnail">
+            {{- partial "filename-to-photo-no-css-file-link.html" .Title -}}
+        </div>
+
+        {{- . -}}
+
+        {{- if .Params.startDate -}}
+            <strong>Photo taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
+        {{- end -}}
+
+        <h2>Tagged Articles</h2>
+        {{- $callerPages := .Params.pages -}}
+        {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+        {{- range $pages -}}
+            {{- $pageTitle := .Title}}
+            {{- if in $callerPages $pageTitle -}}
+                {{- partial "display-page-box.html" . -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+{{/* Video Page */}}
+    {{- if eq $pageType "Videos" -}}
+        <div class="article-video">
+            {{- partial "video.html" .Title -}}
+        </div>
+
+        {{- . -}}
+
+        {{- if .Params.startDate -}}
+            <strong>Video taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
+        {{- end -}}
+
+        <h2>Tagged Articles</h2>
+        {{- $callerPages := .Params.pages -}}
+        {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+        {{- range $pages -}}
+            {{- $pageTitle := .Title}}
+            {{- if in $callerPages $pageTitle -}}
+                {{- partial "display-page-box.html" . -}}
+            {{- end -}}
+        {{- end -}}
+    {{- end -}}
+
+{{/* Contributors */}}
+    <hr>
+    {{- partial "display-contributors.html" . -}}
+
+{{/* Random Articles */}}
+<aside data-pagefind-ignore="all">
+<h2>Random Articles</h2>
+</aside>
+{{- partial "random-page.html" . -}}
+{{- partial "random-page.html" . -}}
+
+{{/* Top Bar Script */}}
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Hide all sections
+    const sections = document.querySelectorAll('.article-section');
+    sections.forEach(section => section.style.display = 'none');
+
+    // Show the default section (Article)
+    const defaultSection = document.getElementById('section-article');
+    defaultSection.style.display = 'inline-block';
+
+    // Add event listeners to buttons
+    const buttons = document.querySelectorAll('.article-button');
+    buttons.forEach(button => {
+      button.addEventListener('click', function() {
+        // Hide all sections
+        sections.forEach(section => section.style.display = 'none');
+
+        // Show the clicked section
+        const targetSection = document.getElementById(this.dataset.target);
+        if (targetSection) {
+          targetSection.style.display = 'inline-block';
+        }
+      });
+    });
+  });
+</script>
