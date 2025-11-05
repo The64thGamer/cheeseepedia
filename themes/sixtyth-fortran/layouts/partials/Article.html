@@ -8,16 +8,23 @@
 
     {{/* Article Sections */}}
         {{- $article := false -}}
+        {{- $gallery := "" -}}
+        {{- $videos := "" -}}
+        {{- $transcriptions := "" -}}
+        {{- $reviews := "" -}}
+        {{- $sales := "" -}}
+
         {{- if $isBasicArticle -}}
-            {{- $gallery := partial "display-gallery.html" . -}}
-            {{- $videos := partial "display-video-gallery.html" . -}}
-            {{- $transcriptions := partial "display-transcriptions.html" . -}}
-            {{- $reviews := partial "display-reviews.html" . -}}
-            {{- $sales := partial "display-sales.html" . -}}
-            {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") (ne $sales "") (ne $reviews "") -}}
+            {{- $gallery = partial "display-gallery.html" . -}}
+            {{- $videos = partial "display-video-gallery.html" . -}}
+            {{- $transcriptions = partial "display-transcriptions.html" . -}}
+            {{- $reviews = partial "display-reviews.html" . -}}
+            {{- $sales = partial "display-sales.html" . -}}
+            {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") -}}
                 {{- $article = true -}}
             {{- end -}}
         {{- end -}}
+
 
 {{/* Article Title/Header */}}
     {{/* Breadcrumb Links */}}
