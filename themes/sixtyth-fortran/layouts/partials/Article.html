@@ -7,13 +7,13 @@
         {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
 
     {{/* Article Sections */}}
+        {{- $article := false -}}
         {{- if $isBasicArticle -}}
             {{- $gallery := partial "display-gallery.html" . -}}
             {{- $videos := partial "display-video-gallery.html" . -}}
             {{- $transcriptions := partial "display-transcriptions.html" . -}}
             {{- $reviews := partial "display-reviews.html" . -}}
             {{- $sales := partial "display-sales.html" . -}}
-            {{- $article := false -}}
             {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") (ne $sales "") (ne $reviews "") -}}
                 {{- $article = true -}}
             {{- end -}}
