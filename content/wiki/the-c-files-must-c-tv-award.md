@@ -1,12 +1,12 @@
 +++
-title = "'The C Files' (Must C TV Award)"
 draft = false
+title = "'The C Files' (Must C TV Award)"
+startDate = "1998"
+endDate = "0000-00-00"
+contributors = ["Nostalgia Cow", "BurgersNuggs445", "randomguyfan22"]
+citations = []
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
-startDate = ""
-endDate = "0000-00-00"
-contributors = ["Nostalgia Cow","BurgersNuggs445"]
-citations = []
 +++
 The **'The C Files' (Must C TV Award)** was a poster created for Chuck E. Cheese in 1998.
 
