@@ -58,7 +58,7 @@ categories = ["Chuck E. Cheese's"]
 3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 
-### Fireables 11/06 Update:
+## Fireables 11/06 Update:
 1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
 2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
 3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
@@ -117,7 +117,7 @@ categories = ["Chuck E. Cheese's"]
 3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 
-### Fireables 11/04 Update:
+## Fireables 11/04 Update:
 1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
 2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
 3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
@@ -171,7 +171,7 @@ categories = ["Chuck E. Cheese's"]
 3. Chuck E.’s Yuletide Slide (Legacy Navori)
 4. Chuck E.’s Winner Wonder Dance (Legacy Navori)
 
-### Fireables:
+## Fireables:
 1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
 2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
 3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
