@@ -11,6 +11,65 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
 
+## Show List 11/06 Update:
+1. Intermission 1
+      1. Dippin Dots & Chuck E.’s Cookie Crunch
+      2.  Harlem Globetrotters - ‘Way We Celebrate’
+      3.  Blippi - ‘Use Your Imagination’
+      4.  KIDZ BOP Kids - ‘Manchild’
+      5.  Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
+      6.  Chuck E. Cheese - 'Fly Munch Fly'
+      7.  Chuck E., Jingle & Jangle - 'Holiday Traditions'
+      8.  OneRepublic - 'Dear Santa'
+      9.  My Chemical Romance - 'Every Snowflake Is Different' (Just Like You)
+      10.  Chuck E. & Friends - The Holiday Party (DJ Munch)
+      11.  KIDZ BOP Kids - 'Feliz Navidad'
+      12.  Bella & Chuck E. - 'Holiday Fiesta'
+      13.  Blue's Clues & You! - 'The Dreidel Song and Game'
+      14.  Jasper T. Jowls - 'Snowman' (2014)
+      15.  Sia - 'Santa's Coming for Us'
+      16.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
+2. Skit 1
+      1. Chuck E. & Friends - 'Holiday Medley' (2020)
+3. Intermission 2
+      1.  The Temptations - 'Rudolph the Red-Nosed Reindeer'
+      2.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      4.  Pentatonix - '12 Days of Christmas'
+      5.  KIDZ BOP - 'Merry Christmas'
+      6.  Daveed Diggs - 'Puppy for Hanukkah'
+      7.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      8.  Munch & Munch - 'The Windowsill'
+      9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      10.  Chuck E. & Friends - 'Dogs in Sweaters'
+      11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      12.  Chuck E. & Friends - 'Cookies for Santa'     
+2. Skit 2
+      1. Helen Henny - 'All I Want for Christmas is Snow'
+3. Intermission 3
+      1.  Olaf - 'That Time of Year'
+      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      3.  Leslie Odom Jr. - 'Snow'
+      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+
+## Lives 11/06 Update:
+1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+
+## Fireables 11/06 Update:
+1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
+2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
+3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
+4. Chuck E. & Friends - 'Cookies for Santa' (Legacy Navori)
+5. Chuck E. & Friends - 'Holiday Medley' (Legacy Navori)
+6. Jasper T. Jowls - 'Snowman' (Legacy Navori)
+7. Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?' (Legacy Navori)
+8. Chuck E. & Friends - 'The Holiday Party' (Legacy Navori)
+9. Chuck E. & Bella - 'Holiday Fiesta' (Legacy Navori)
+
+
 ## Show List 11/04 Update:
 1. Intermission 1
       1. Dippin Dots & Chuck E.’s Cookie Crunch
@@ -58,7 +117,7 @@ categories = ["Chuck E. Cheese's"]
 3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
 
-### Fireables 11/04 Update:
+## Fireables 11/04 Update:
 1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
 2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
 3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
@@ -112,7 +171,7 @@ categories = ["Chuck E. Cheese's"]
 3. Chuck E.’s Yuletide Slide (Legacy Navori)
 4. Chuck E.’s Winner Wonder Dance (Legacy Navori)
 
-### Fireables:
+## Fireables:
 1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
 2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
 3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
@@ -121,3 +180,4 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia:
 1. 11/04 Update - A Chuck E. Cheese Christmas Special Endcard is added to the end of all live shows. Programming for Chuck E.’s Yuletide Slide and Chuck E.’s Winner Wonder Dance are removed due to the addition.
+2. 11/06 Update - Jasper T. Jowls - 'Snowman', Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?', Chuck E. & Friends - 'The Holiday Party' (Legacy Navori), Chuck E. & Bella - 'Holiday Fiesta' are added as fireables.
