@@ -1,5 +1,5 @@
 +++
-title = "Sun Valley, CA (8357 Laurel Canyon Blvd)"
+title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 storeNumber = ""
 startDate = "1980-07-00"
 endDate = "1992-00-00"
