@@ -1,4 +1,4 @@
-{{- partial "editButton-list.html" . -}}
+{{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
 {{- partial "display-breadcrumbs.html" . -}}
 <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
 <hr>

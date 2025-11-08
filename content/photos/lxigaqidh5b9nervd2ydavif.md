@@ -3,7 +3,7 @@ title = "LXIgAqIDH5b9NErvD2yD.avif"
 draft = false
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
-pages = ["Huntington Beach, CA (15511 Edwards St)"]
+pages = ["Helen Henny (Lounge)","Huntington Beach, CA (15511 Edwards St)"]
 startDate = ""
 +++
-The store's Cabaret Helen Animatronic
+The Lounge Helen Animatronic

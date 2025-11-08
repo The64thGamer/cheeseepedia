@@ -5,11 +5,11 @@ contributors = ["Luigigamin212"]
 +++
 **Aaron Fechter:**
 
-I stopped worrying about what my legacy with the Rock A Fire Explosion would be before I found out there were fans. About the year 2000, I had already stopped worrying about whether or not the Rock A Fire Explosion meant anything to anybody anymore or whether I would be remembered for it. Um-  I really did, I felt like I needed to move on anyway, I needed to find more meaningful things that I could do for the world, maybe help solve the energy crisis, maybe invent something else, even do something else that was entertaining. Uh, I really didn’t know that I had a future with the Rock A Fire Explosion in any way whatsoever. Including with the small fan group. 
+I stopped worrying about what my legacy with the Rock A Fire Explosion would be before I found out there were fans. About the year 2000, I had already stopped worrying about whether or not the Rock A Fire Explosion meant anything to anybody anymore or whether I would be remembered for it. Um-  I- I really did, I felt like I needed to move on anyway, I needed to find more meaningful things that I could do for the world, maybe help solve the energy crisis, maybe invent something else, but- even do something else that was entertaining. Uh, I really didn’t know that I had a future with the Rock A Fire Explosion in any way whatsoever. Including with the small fan group. 
 
 **Chris Thrash:**
 
-I’ve always been public with my childhood, I believe you should always be a child at heart and don’t be ashamed of it you know? If there’s something you dreamed you wanted to do when you was a kid then do it. You dreamed it for a reason. And I dreamed to have this and I had it, some people like it, some people don’t. I don’t care, it’s mine.
+I’ve always been public with my childhood, I believe you should always be a child at heart and don’t be ashamed of it you know? If there’s something you dreamed you wanted to do when you was a kid then do it. You dreamed it for a reason. And I dreamed to have this and I had it, some people like it, some people don’t but I don’t care, it’s mine.
 
 **Mike Sherpenburg:**
 
@@ -20,6 +20,40 @@ If you didn’t grow up with it then you can’t understand what it meant but it
 It- it just stuck with me, I like- I just, like I’ve never seen anything like that before. 
 
 **[“Rainy days” Showbiz ad plays]**
+
+**Young girl:**
+
+Rainy days are the pits. You can’t run around
+
+**Other Young Girl:**
+
+And you have to watch Sue Ellen and JR, again! 
+
+**Mom: (Offscreen)**
+
+I hope you kids aren’t eating on that couch!
+
+**Girls:**
+
+Mom! 
+
+**Kids: (Singing)**
+
+But at Showbiz Pizza you can act like a kid
+
+You can have more fun than you ever did
+
+You can giggle
+
+You can wiggle
+
+You can flip your lid!
+
+Showbiz Pizza
+
+Where a kid, can be a kid!
+
+**[Scene changes to Chris standing outside]**
 
  **Chris Thrash:**
 
@@ -35,11 +69,11 @@ My mom would drop me off at Showbiz and go to the movies. That’s the longest I
 
 **Mike Sherpenburg:**
 
-Going to see these characters was like- it was like the most important thing in my childhood I think, hands down. My mom absolutely hated the place but when I- whenever I had a birthday or a special treat  that’s what I wanted to do. 
+Going to see these characters was like- it was like the most important thing in my childhood I think, hands down. My mom absolutely hated the place but when I- I had a birthday or a special treat  that’s what I wanted to do. 
 
 **Damon Breland:**
 
-When I was young, growing up in elementary school, um- Showbiz would- would run a promotion and um- for the promotion was tokens for A’s. So, it was always uh- my goal to get honor roll or banner roll so that my dad would take me to Showbiz and I could go in with my report card, show them my report card and uh- get free tokens. 
+When I was young, growing up in elementary school, um- Showbiz would- would run a promotion and um- for the promotion was tokens for A’s. So, it was always uh- my goal to get honor roll or banner roll so that mom and dad would take me to Showbiz and I could go in with my report card, show them my report card and uh- get free tokens. 
 
 **Travis Schafer:**
 
@@ -47,7 +81,7 @@ I was probably only there maybe 10 times my entire youth but the weeks leading u
 
 **Chris Thrash:**
 
-I- I guess I was curious as to just what do they do when the curtains close? Do they look around at each other? I mean, what do they do, you know? And then when I walked up they was just staring, and to me that was really like they was more alive then than they were when a show was playing cause they’re just staring down at you like, “What are you doing back here?” you know? So I very quickly got back off the stage heheheh. But I would get up on the stage, I remember the first time I went behind the curtain, looked around, there wasn’t nobody, wasn’t nobody there. And I walked right up in front of Beach Bear and it was just like, it took my breath almost because I was never that close to them. And they would just sit there staring at me. You know, that was kinda scary, I never saw them in the prose position like that, so that weirded me out a little bit. 
+I- I guess I was curious as to just what- what do they do when the curtains close? Do they look around at each other? I mean, what do they do, you know? And then when I walked up they was just staring, and to me that was really like they was more alive then than it was when a show was playing cause they’re just staring down at you like, “What are you doing back here?” you know? So I very quickly got back off the stage heheheh. But I would get up on the stage, I remember the first time I went behind the curtain, looked around, there wasn’t nobody, wasn’t nobody there. And I walked right up in front of Beach Bear and it was just like, it took my breath almost because I was never that close to them. And they would just sit, staring at me. You know, that was kinda scary, I never- I never saw them in the prose position like that, so that weirded me out a little bit. 
 
 **[Scene shows Chris walking up to a shed and opening the door]**
 
@@ -59,11 +93,11 @@ Ladies and gentlemen, The Rock A Fire Explosion.
 
 **News caster:**
 
-It’s just an ordinary band, right? Wrong. It’s called The Rock A Fire Explosion and as you can see it’s far from ordinary. I guess you call it a mechanical music group. Or maybe you call it a musical group that just happens to be mechanical. At any rate it’s a different concept in entertainment that starts at this rather unsuspecting building in downtown Orlando. Inside Creative Engineering, an arm here, a leg there, an eye, a hand, and whatever this fuzzy thing is, are welded and bolted and all put together to make a skeleton of sorts. While at the same time the bodies of the characters are being born. Latex molds are made of their bodies, add stuffing and a fuzzy little covering and you have one member of The Rock A Fire Explosion. 
+It’s just an ordinary band, right? Wrong. It’s called The Rock A Fire Explosion and as you can see it’s far from ordinary. I guess you call it a mechanical music group. Or maybe you call it a musical group that just happens to be mechanical. At any rate it’s a different concept in entertainment that starts at this rather unsuspecting building in downtown Orlando. Inside Creative Engineering, an arm here, a leg there, an eye, a hand, that's what this fuzzy thing is, are welded and bolted and all put together to make a skeleton of sorts. While at the same time the bodies of the characters are being born. Latex molds are made of their bodies, add stuffing and a fuzzy little covering and you have one member of The Rock A Fire Explosion. 
 
 **Mike Sherpenburg:**
 
-My favorite Rock A Fire character hands down has to be Fatz Geronimo for a lot of reasons. First of all Fatz has just so much personality, he’s kinda a big scary guy when you first look at him but he’s got so much facial expression and he can actually bob his head side to side like this and uh- some of the characters can make their eyes go wide but Fatz can actually blink and it’s just so cool to watch him close his eyes and he sits there and he’s playing his organ and bobbing his head like Stevie Wonder and he just gets so into it. You just gotta love the guy, he’s the centerpiece of the show, he’s right dead center, he’s got this really cool flashing organ- 
+My favorite Rock A Fire character hands down has to be Fatz Geronimo for a lot of reasons. First of all Fatz has just so much personality, he’s kinda a big scary guy when you first look at him but he’s got so much facial expression and he can actually bob his head side to side like this and uh- some of the characters can make their eyes go wide but Fatz can actually blink and it’s just so cool to watch him close his eyes and he sits there and he’s playing his organ and bobbing his head like Stevie Wonder and he just gets so into it. You just gotta love the guy, he’s the centerpiece of the show, he’s right dead center, he’s got this really cool flashy organ- 
 
 **Fatz Geronimo:**
 
@@ -79,7 +113,7 @@ To a lions roar-
 
 **Fatz Geronimo:**
 
-To a pistol shot! 
+A pistol shot! 
 
 **[Pistol shot goes off]**
 
@@ -91,19 +125,19 @@ To a world war!
 
 **Fatz Geronimo:**
 
-Haha! Now come on, somebody name something up here, make it hard as you want! Anything!
+Ha! Now come on, somebody name something up here, make it hard as you want! Anything!
 
 **Beach Bear:**
 
-Uh- how about 19 apathetical men with a market for pretensity towards procrastination and sloth?
+Uh- how about  uh-19 apathetical men with a market for pretensity towards procrastination and sloth?
 
 **Chris Thrash:**
 
-Beach Bear’s the lead guitarist of the band um, you know he does a lot of guitar solos. He likes- he tends to like rock and roll music and uh- he’s sort of like a- almost an english major, he always talks real appropriate and seems to be really smart.
+Beach Bear’s the lead guitarist of the band um- you know he does a lot of guitar solos. He likes- he tends to like rock and roll music and uh- he’s sort of like a- almost an english major, he always talks real appropriate and seems to be really smart.
 
 **Damon Breland:**
 
-But the coolest thing about Beach Bear was that he had his own spotlight for his guitar so you know, when he’d have his rock solos and he would be rocking out on his guitar you know you can watch that spotlight come and shine on his guitar. 
+But the coolest thing about Beach Bear was that he had his own spotlight for his guitar so you know, when he’d have his rock solos and he would be rocking out on his guitar you know, you can watch that spotlight come and shine on his guitar. 
 
 **Chris Thrash:**
 
@@ -111,7 +145,7 @@ Alright Dook Larue, he’s our drummer and he’s also my favorite character. Uh
 
 **Aaron Fechter: (As Billy Bob)**
 
-Well you know Billy Bob uh- is Billy Bob! I have- I  um- I have to tell ya I’m a sweet guy, uh- I’m straight but i’m sweet uh- yeah I’m- I’m from the hills of Tennessee. 
+Well you know Billy Bob uh- is Billy Bob! I have- I  um- I have to tell ya I’m kind of a sweet guy, uh- I’m straight but i’m sweet uh- yeah I’m- I’m from the hills of Tennessee. 
 
 **Chris Thrash:**
 
@@ -246,7 +280,7 @@ Yeah!
 
 And uh- Tammy you sit down. Sit down
 
-**[Terry the dog sits]**
+**[Tammy the dog sits]**
 
 **Aaron Fechter & Kerry:**
 Good girl!

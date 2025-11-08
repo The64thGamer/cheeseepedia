@@ -3,7 +3,7 @@ title = "n50Dv1R9x1CDDG_EWwKb.avif"
 draft = false
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
-pages = ["Helen Henny (Lounge)"]
-startDate = ""
+pages = ["Helen Henny (Lounge)","Huntington Beach, CA (15511 Edwards St)"]
+startDate = "0000-00-00"
 +++
-Nolan Bushnell with Helen
+Nolan Bushnell with Lounge Helen
