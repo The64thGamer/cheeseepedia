@@ -21,3 +21,4 @@ public/
 # Go workspace file
 go.work
 .DS_Store
+content/wiki/fix-latlongs.sh
