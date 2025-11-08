@@ -3,13 +3,13 @@ title = "Navori System"
 draft = false
 tags = ["Animatronic Control Systems"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
+startDate = "2022-05-00"
 endDate = ""
 contributors = ["The 64th Gamer","Bowling for Cheese","CyberSnout","Anonymous","Ceclife13","Cy's Junk at School"]
 citations = ["https://meraki.cisco.com/product/security-sd-wan/small-branch/mx67/","https://lsslogin.com/","https://www.instagram.com/p/CgHORZnODuF/"]
 pageThumbnailFile = "bEys8qslC5qMEeF6cgSO.avif"
 +++
-The ***Navori System*, is a device that can be attached to the 3-Stage, {{< wiki-link "Cyberamics" >}}, {{< wiki-link "Studio C" >}}, and {{< wiki-link "Studio C HD" >}} for downloading showtape content through an internet connection.**
+The ***Navori System***, is a device that can be attached to the 3-Stage, {{< wiki-link "Cyberamics" >}}, {{< wiki-link "Studio C" >}}, and {{< wiki-link "Studio C HD" >}} for downloading showtape content through an internet connection, as well as handling digital signage in the store.
 
 ## Hardware
 
@@ -24,17 +24,17 @@ The Dallas TX store was potentially picked due to it being scheduled for the 2.0
 
 ### Production
 
-[.png|thumb|361x361px|The {{< wiki-link "Dallas, TX (7110 S Westmoreland Rd)" >}} store testing the module with a live show, which broke character positions.](%5BFile:Essnm)]On an Instagram livestream done on August 3, 2022, CEC Corporate's show programmer Donovan Marcelle claimed that the module would be coming to all stages, but that Studio C and Studio C HD stores with it installed would be stuck in *Random Movement Mode*. They also stated that if the first tests passed, corporate would want it in all Studio C stores by the end of the year.
+On an Instagram livestream done on August 3, 2022, CEC Corporate's show programmer Donovan Marcelle claimed that the module would be coming to all stages, but that Studio C and Studio C HD stores with it installed would be stuck in *Random Movement Mode*. They also stated that if the first tests passed, corporate would want it in all Studio C stores by the end of the year.
 On September 15, an email would be sent to the first batch of stores to receive the unit:
 
-> *['Good Afternoon!]{.small}*
-> *[As some of you know, we have been testing a media player for our shows that will replace the current controller. This will work on every show in concept from '3-stage' old school show to the current day Weigl/Geronimo show controllers.]{.small}*
-> *[We are now expanding this test to another 113 locations. See attached. You will be receiving the following as part of the 1st step of installing your new controller-]{.small}*
-> *[- 2-200' CAT6 Cables]{.small}*
-> *[- 1 CAT6 stripper]{.small}*
-> *[- 1 CAT6 Tester]{.small}*
-> *[- 1 CAT6 Crimper]{.small}*
-> *[Deadline to complete this process in no later than 9/29.']{.small}*
+> 'Good Afternoon!
+> As some of you know, we have been testing a media player for our shows that will replace the current controller. This will work on every show in concept from '3-stage' old school show to the current day Weigl/Geronimo show controllers.
+> We are now expanding this test to another 113 locations. See attached. You will be receiving the following as part of the 1st step of installing your new controller-
+> - 2-200' CAT6 Cables
+> - 1 CAT6 stripper
+> - 1 CAT6 Tester
+> - 1 CAT6 Crimper
+> Deadline to complete this process in no later than 9/29.'
 
 Despite the email discussing 3-Stage capability, this first batch of 113 locations would not include any 3-Stage stores. Within the next few days, stores would begin receiving their units and preparing their installation.
 
