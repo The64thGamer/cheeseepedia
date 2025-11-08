@@ -9,7 +9,7 @@ stages = []
 franchisees = []
 attractions = []
 sqft = ""
-latitudeLongitude = ["0","0"]
+latitudeLongitude = ["37.4079688","-122.0192638"]
 citations = ["https://www.newspapers.com/image/841084118/?clipping_id=105027559&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg0MTA4NDExOCwiaWF0IjoxNzYwODA3OTg0LCJleHAiOjE3NjA4OTQzODR9.bAPjU5EEFQTyHBSxOZhM0j-_WAgr7OcT-MMdfBP8rM8","https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=moffett"]
 contributors = ["The 64th Gamer"]
 downloadLinks = []
