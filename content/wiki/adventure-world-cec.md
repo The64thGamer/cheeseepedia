@@ -12,7 +12,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Adventure World*** is a 2025 spinoff chain of {{< wiki-link "Chuck E. Cheese's" >}} that first launched on November 7th, 2025.
 
-# History
+## History
 
 The first mention of Adventure World would from a limited email survey sent out on July 17th, 2025, which would state: {{< cite 1 >}}
 
