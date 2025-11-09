@@ -1,46 +1,46 @@
 +++
-title = "Holiday 2014 Show"
 draft = false
+title = "Holiday 2014 Show"
+startDate = "2014-11-17"
+endDate = "2014-12-28"
+pageThumbnailFile = "lNZaxI5xoxtjHAcrs1VR.avif"
+contributors = ["CyberSnout", "Himitsu", "Ceclife13"]
+citations = []
+credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "Chris Hill - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Betty", "Earl Fisher - Voice of Pasqually The Chef", "Ryan Hollingsworth - Voice of Charlie Rockit, Zoey, Steve Waters", "Paul Taylor - Larry The Technican", "Matt Daniel - Production Manager, Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator, Studio C Programmer, Voice of Nigel The Sasquatch", "Donovan Marcelle - Existing Stage Programmer"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2014-11-17"
-endDate = "0000-00-00"
-contributors = ["CyberSnout","Himitsu"]
-citations = []
-pageThumbnailFile = "lNZaxI5xoxtjHAcrs1VR.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Holiday 2014* is the Holiday show released November 17th 2014 featuring six songs
-This was created to play from November 17th 2014 - December 28th 2014. This show features Six songs.**
+***Holiday 2014*** is a show that was released in November 2014 and played through the 2014 holiday season. 
 
 ## Show List:
 
 1.  **Skit 1**
-    1.  Music Video 1 - 'Let's Play Some Games' (Chuck E.)
+    1.  'Let's Play Some Games For The Holidays'
 2.  **Intermission 1**
     1.  Act 1
 3.  **Skit 2**
-    1.  Music Video 2 - 'What Do You Get a Sasquatch for Christmas?' (Pasqually)
+    1.  'What Do You Get a Sasquatch for Christmas?'
 4.  **Intermission 2**
     1.  Social Media Promo
     2.  Show Break 1 - 'Deck the Halls'
     3.  Act 2
 5.  **Skit 3**
-    1.  Music Video 3 - 'Snowman' (Jasper)
+    1.  'Snowman'
 6.  **Intermission 3**
     1.  Show Break 2 - 'Rudolph'
     2.  Act 3
 7.  **Skit 4**
-    1.  Music Video - 'Very Merry Christmas' (Chuck E. & Helen)
+    1.  'Very Merry Christmas'
 8.  **Intermission 4**
-    1.  Paddington Bear Trailer
+    1.  Paddington Trailer
     2.  Show Break 3 - 'Jolly Old Saint Nicholas'
     3.  Act 4
     4.  Social Media Promo
     5.  Show Break 4 - 'Oh Christmas Tree'
     6.  Act 5
 9.  **Skit 5**
-    1.  Music Video 5 - 'Holiday Medley' (All Characters)
+    1.  'Holiday Medley'
         1.  Jingle Bells
         2.  Jolly Old St. Nicholas
         3.  I Have a Little Dreidel
@@ -51,20 +51,21 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
     1.  Hard Hat Hank - 'Holiday Special'
     2.  Show Break 5 - 'Toyland'
 11. **Skit 6**
-    1.  Music Video 6 - 'Share the Joy' (All Characters)
+    1.  'Share the Joy'
 12. **Intermission 6**
     1.  Show Break 6 - 'Classic Christmas'
+    2.  Snowboarding
 
 ## Live Shows:
 
-- Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Head Shoulders Knees and Toes (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (Do The Roll) (3stage, Cyberamic, Studio C,Weigl)
-- Happy and You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
-- Them Bones (Studio C,Weigl)
+- Rockstar Birthday 2014
+- Spanish Rockstar Birthday 2014
+- Chuck E. Says
+- Head Shoulders Knees and Toes
+- Do The Chuck E. (Do The Roll)
+- Happy and You Know It
+- Old MacDonald
+- Them Bones (Studio C, Weigl)
 
 ## Official Releases
 
@@ -81,10 +82,12 @@ This was created to play from November 17th 2014 - December 28th 2014. This show
 - ['Act 5' on Archive.org](https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Holidays+%E2%80%93+Part+5+++Chuck+E.+Cheese%E2%80%99s.mp4)
 
 ## Trivia:
-
-- The Show Break Audio for 'Deck the Halls', 'Jolly Old Saint Nichols's', 'Oh Christmas Tree' and 'Toyland' all use the instrumentals in full from {{< wiki-link "Holiday 2002" >}}.
-- The Social Media Promos use instrumentals from Holiday Party 99' Social Media Promo 1 uses 'Big Band Santa' and Social Media Promo 2 uses 'Jingle Bells'
-- On the Studio C SD copy of Holiday 2014 it features 2 minutes and 41 seconds of Holiday 1997 Segment 2.
-- Share the Joy was originally created in 1991 for the Holiday 91 show.
-- There was a cut intermission that can be seen on the Studio C SD copy of Holiday 2014. The intermissions is Snowboarding tricks to the instrumental of 'Jingle Bells' from {{< wiki-link "Holiday 2002" >}}.
-- Hidden at the end of the Studio C SD copy of Holiday 2014 is a bit tune version of 'Deck the Halls' with a picture of Matt Daniel and his dog.
+- 'Let's Play Some Game For The Holidays' was previously used as a theme for commercials. A shortened version of the song was previously used as an intermission in the {{< wiki-link "December 2012 Show" >}} and {{< wiki-link "CEC Happy Holidays 2013" >}}.
+- 'Deck the Halls', 'Jolly Old Saint Nicholas',  and 'Toyland' all use their original footage from {{< wiki-link "Holiday 2002" >}} with their rerecorded instrumentals from the {{< wiki-link "December 2012 Show" >}}. The instrumental for 'Oh Christmas Tree' is paired with footage from a Chillout from the {{< wiki-link "December 2012 Show" >}}.
+- Show Break 2 and Show Break 6 are reused from the {{< wiki-link "December 2012 Show" >}}.
+- The Social Media Promos use the instrumentals of 'Big Band Santa' and 'Holiday Medley' from {{< wiki-link "Chuck E's Holiday Party 1999" >}}.
+- The Studio C SD copy of the show features 2 minutes and 41 seconds of {{< wiki-link "Chuck E.'s Magical Holiday Celebration" >}} Segment 2.
+- 'Share the Joy' is a remake of a song from the {{< wiki-link "CEC Xmas 1991 Show" >}}.
+- 'Snowboarding' is a recut of an intermission from the {{< wiki-link "January 2006 Show" >}} set to the instrumental of 'Jingle Bells' from {{< wiki-link "Holiday 2002" >}}.
+- Hidden at the end of the Studio C SD copy of the show is a bit tune version of 'Deck the Halls' with a picture of Matt Daniel and his dog.
+- This was the final show to feature newly recorded material with Larry The Technician, Betty, Hard Hat Hank, and Zoey. 

@@ -9,7 +9,7 @@ stages = []
 franchisees = []
 attractions = []
 sqft = ""
-latitudeLongitude = ["0","0"]
+latitudeLongitude = ["37.2524725","-121.8629704"]
 citations = ["https://www.ataricompendium.com/archives/documents/press_kits/atari_leisure_time_game_center.pdf", "https://www.newspapers.com/image/717528185/?match=1&terms=atari%20game%20center", "https://mcurrent.name/atarihistory/syzygy.html", "https://flyers.arcade-museum.com/videogames/show/5730#gallery","https://www.ataricompendium.com/archives/interviews/jerry_donaldson/interview_jerry_donaldson.html","https://www.newspapers.com/image/527364142/?clipping_id=81476540&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjUyNzM2NDE0MiwiaWF0IjoxNzYwODIwNDQ2LCJleHAiOjE3NjA5MDY4NDZ9.otDl1iZTj4zXZicD5caKxNXi2rYiFlEK6HNpWkavlmA"]
 contributors = ["The 64th Gamer"]
 downloadLinks = []

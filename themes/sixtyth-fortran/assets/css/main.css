@@ -314,8 +314,8 @@ background-color: var(--aqua);
 }
 
 .gallery-image-box{
-  max-width: 12.5em;
-  min-width: 12.5em;
+  max-width: 14em;
+  min-width: 14em;
   margin: .5em;
   display: block;
   align-content: flex-start;
@@ -330,10 +330,10 @@ background-color: var(--aqua);
 }
 
 .article-photo-image{
-  max-width: 12.5em;
-  max-height: 12.5em;
-  min-width: 12.5em;
-  min-height: 12.5em;
+  max-width: 14em;
+  max-height: 14em;
+  min-width: 14em;
+  min-height: 14em;
   display: block;
   overflow: hidden;
   border-width: 0.25em;
@@ -345,8 +345,8 @@ background-color: var(--aqua);
 }
 
 .article-photo-image img{
-  width: 12.5em;
-  height: 12.5em;
+  width: 14em;
+  height: 14em;
   object-fit: contain;
   border-radius: 0.5em;
 }

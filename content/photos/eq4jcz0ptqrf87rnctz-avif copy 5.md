@@ -1,0 +1,9 @@
++++
+title = "kjnef98uh34kjnedf.avif"
+draft = false
+tags = ["Photos"]
+categories = ["Pizza Time Theatre"]
+pages = ["Ogden, UT (3155 Harrison Blvd)"]
+startDate = "1991-00-00"
+citations = ["http://www.showbizpizza.com/photos/ptt/ut_ogden/index.html"]
++++
