@@ -16,7 +16,7 @@
 
   <div style="display: flex; align-items: center; margin-bottom: 1em;">
     <label for="yearSlider" style="margin-right: 1em;">Year</label>
-    <input type="range" id="yearSlider" min="1977" max="{{- now.Year -}}" oninput="updateDaySlider()" style="flex: 1;">
+    <input type="range" id="yearSlider" min="1970" max="{{- now.Year -}}" oninput="updateDaySlider()" style="flex: 1;">
   </div>
 
   <div style="display: flex; align-items: center;">
@@ -50,7 +50,7 @@
                   coords: [{{- index .Params.latitudeLongitude 0 -}}, {{- index .Params.latitudeLongitude 1 -}}], 
                   url: "{{- .RelPermalink -}}", 
                   title: "{{- .Title -}}",
-                  startDate: "{{- .Params.startDate | default "1977-01-01" -}}",
+                  startDate: "{{- .Params.startDate | default "1970-01-01" -}}",
                   endDate: "{{- .Params.endDate | default (now.Format "2006-01-02") -}}", // Default to today if no endDate
                   cuDate: "{{- .Params.cuDate | default "1992-01-01" -}}"
                 },
