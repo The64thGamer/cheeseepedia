@@ -46,8 +46,11 @@ Before the store had opened on November 7th, CEC set up a Google Maps page for t
 By noon of the next day, 27 reviews had been left, mostly negative, and dropping the stars to 1.4. During this the CEC Head of PR & Crisis Comms, Alejandra Arango, would submit a 5 star review to boost the numbers. With comments on Justin Lee's original video about Adventure World criticising the use of AI art, he would be the first employee of CEC to begin commenting on the use directly.
 
 > "I'm interested to know what you think would make the art better?"
+
 > "Before AI where did inspiration or ideas come from?"
+
 > "Amazed by the hate on this post. Hope all the haters are able to process through the negative experiences in your past that cause this much hate. Because it's clearly not an issue with AI and it's rooting from something much deeper."
+
 > "Feel free to design a piece of wall decor and send it in. Only use the thoughts in your head, pen/pencil, paper."
 
 2 hours after this post the comments would be deleted after being spread across the community. The next day the entire video would be deleted.
