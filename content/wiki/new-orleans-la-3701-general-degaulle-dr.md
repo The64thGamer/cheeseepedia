@@ -1,6 +1,6 @@
 +++
 title = "New Orleans, LA (3701 General DeGaulle Dr)"
-storeNumber = ""
+storeNumber = "584"
 startDate = "1981-02-23"
 endDate = ""
 cuDate = ""
