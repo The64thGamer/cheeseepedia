@@ -16,6 +16,9 @@ display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 search: false
 
+media_folder: "static/photos"
+public_folder: "/photos"
+
 collections:
   - name: "wiki"
     label: "Articles"
@@ -307,8 +310,9 @@ collections:
             allow_multiple: false
             accept: [".avif"]
         pattern:
-          field: pageThumbnailFile
-          message: "Only .avif files are allowed"
+          - '.*\.avif$'
+          - "Filename must end in .avif"
+
 
 
   - name: "videos" # Used in routes, e.g., /admin/collections/blog
