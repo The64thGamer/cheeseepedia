@@ -11,12 +11,13 @@ slug:
   clean_accents: true
   sanitize_replacement: "-"
 
-media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/photos" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://cheeseepedia.org
 display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 search: false
+
+media_folder: "static/photos"
+public_folder: "/photos"
 
 collections:
   - name: "wiki"
@@ -264,33 +265,41 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "photos" # Used in routes, e.g., /admin/collections/blog
-    label: "Photo" # Used in the UI
-    folder: "content/photos/" # The path to the folder where the documents are stored
+  - name: "photos"
+    label: "Photo"
+    folder: "content/wiki/photos"
     create: true
     slug: "{{slug}}"
-    preview_path: "photos/{{filename}}"
-    extension: md
-    format: toml-frontmatter
+    extension: "md"
+    format: "toml-frontmatter"
     editor:
       preview: false
-    fields: # The field for each document, usually in front matter
-      - { label: "Filename", name: "title", widget: "string" }
+    fields:
+      - label: "Upload image (.avif only)"
+        name: "pageThumbnailFile"
+        widget: "auto_title_image"
+        required: true
+        choose_url: false
+        media_library:
+          config:
+            allow_multiple: false
+            accept: [".avif"]
+      - { label: "File Name (Example: test_photo.avif)", name: "title", widget: "hidden", default: "" }
       - { label: "Description", name: "body", widget: "markdown" }
-      - { label: "Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startdate", widget: "string", required: false}
+      - { label: "Date (YYYY-MM-DD or 0000-00-00)", name: "startdate", widget: "string", required: false }
       - label: "Citations (List sources here!)"
         name: "citations"
         widget: "list"
         required: false
-        field: {label: Source, name: source, widget: string}
+        field: { label: Source, name: source, widget: string }
       - label: "Pages Photo Depicts (Use Page Title)"
         name: "pages"
         widget: "list"
         required: true
         min: 1
         max: 1000
-        field: {label: Page, name: page, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Photos"]}
+        field: { label: Page, name: page, widget: string }
+      - { label: "Tags", name: "tags", widget: "hidden", default: ["Photos"] }
       - label: "Categories"
         name: "categories"
         widget: "select"
