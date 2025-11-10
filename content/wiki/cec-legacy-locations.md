@@ -11,6 +11,10 @@ categories = ["Chuck E. Cheese's"]
 +++
 The ***Legacy Locations*** (previously referred to as the ***Munch's Make-Believe Band Residency***) are a variation of the {{< wiki-link "CEC 2.0 Remodel Program" >}} that keeps a store's Animatronic Stage.
 
+## Description
+
+The *Legacy Locations* were created as an official response to the backlash from the destruction of animatronic shows from the {{< wiki-link "CEC 2.0 Remodel Program" >}} by having in 2023 the {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} store keep its {{< wiki-link "2-Stage" >}} past its remodel, later in 2024 adding 4 additional stores to the program, and the final one in 2025. Showtapes at the locations play the same main segments and advertisements on the {{< wiki-link "Video Wall" >}} as other stores, but only select content and live shows released before 2023 contain programming. Stores have the ability to load up additional programmed segments as they would live shows. The Nanuet location does not feature any animatronic programming.
+
 ## Stages
 | Location                                                              | Stage Type                                      | Grand Reopening |
 |-----------------------------------------------------------------------|-------------------------------------------------|-----------------|
@@ -21,17 +25,13 @@ The ***Legacy Locations*** (previously referred to as the ***Munch's Make-Believ
 | {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}  | {{< wiki-link "1-Stage" >}}                     | July 19, 2024   |
 | {{< wiki-link "Willowdale, Ontario, Canada (2452 Sheppard Ave)" >}}   | {{< wiki-link "Road Stage" >}}                  | July 24, 2025   |
 
-## Description
-
-The *Legacy Locations* were created as an official response to the backlash from the destruction of animatronic shows from the {{< wiki-link "CEC 2.0 Remodel Program" >}} by having in 2023 the {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} store keep its {{< wiki-link "2-Stage" >}} past its remodel, later in 2024 adding 4 additional stores to the program, and the final one in 2025. Showtapes at the locations play the same main segments and advertisements on the {{< wiki-link "Video Wall" >}} as other stores, but only select content and live shows released before 2023 contain programming. Stores have the ability to load up additional programmed segments as they would live shows. The Nanuet location does not feature any animatronic programming.
-
 ## History & Original Concepts
 
 The original concept for the residency was much larger than its finalized state, originally being dubbed by fans during its planning phase as the *Chuck E. Cheese Retro Store*, but officially called by CEC Corporate as the *Legacy Locations*. These were plans originally to either create a brand new museum to host all variants of CEC animatronics, or later to have a multiple separately branded stores each keeping different stages. In the end, this was reduced to just five locations. {{< cite 7 >}}
 
 ### Museum Concept
 
-At an unknown time prior to mid-2022, CEC Corporate began discussions of a possible location using permanent animatronic attractions while their stores were currently going through the 2017 2.0 Remodel Program|CEC 2.0 Remodel Program. This first idealized into a possible museum being opened in Orlando, FL, with others likely being in Dallas and San Jose. These museum stores would host one of each major stage type, being {{< wiki-link "Cyberamics" >}}, 3-Stage, and {{< wiki-link "Studio C" >}}.
+At an unknown time prior to mid-2022, CEC Corporate began discussions of a possible location using permanent animatronic attractions while their stores were currently going through the CEC 2.0 Remodel Program. This first idealized into a possible museum being opened in Orlando, FL, with others likely being in Dallas and San Jose. These museum stores would host one of each major stage type, being {{< wiki-link "Cyberamics" >}}, 3-Stage, and {{< wiki-link "Studio C" >}}.
 
 ### Store Acquisitions
 
@@ -40,11 +40,11 @@ Around the time of these discussions, certain stores that were closing or going 
 - Slidell, LA (124 North Shore Blvd)
   - October 22, 2020 - Art taken during closure.
 - Stuart, FL (2400 NW Federal Hwy)
-  - March 2022 - Studio C (1997)|Studio C Alpha taken during remodel.
+  - March 2022 - Studio C Alpha taken during remodel.
 - {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}
   - June 8, 2022 - 3-Stage taken during 2.0 along with store and stage carpet. {{< wiki-link "Looney Bird (Animatronic)" >}} later relocated to {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} on June 18, 2024.
 - {{< wiki-link "Rockford, IL (3600 E State St)" >}}
-  - June 13, 2022 - Entire Cyberamics Rocker Stage|Rocker Stage with animatronics taken during 2.0 remodel.
+  - June 13, 2022 - Entire Rocker Stage with animatronics taken during 2.0 remodel.
 - {{< wiki-link "Springfield, OH (2345 Valley Loop Rd)" >}}
   - July 25, 2022 - Art taken.
 - Murfreesboro, TN (1720 Old Fort Pkwy)
@@ -79,7 +79,7 @@ At some point in the discussions of the museum concept however, it was pointed o
 
 On July 25, 2023, {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} would begin to go through a remodel. After around a week of normal proceedings, it had been noted that the store's SPT Parody Awards were wrapped up behind a set of arcade machines, and its stage had not been dismantled despite the current progression of the remodel. Rumors would begin circulating that the store had suddenly gone through with a change of plans and would be keeping its animatronic show.
 The {{< wiki-link "CEC 2.0 Remodel Program" >}} would continue to go through, installing the video wall and dance floor, however, the 2-Stage in the store would be kept. Many of the 1992 Major Remodel parts of the store were taken down, such as the entrance awning and checkered tiles, while the showroom shelves remained. The store's exterior sign would retain the same shape, but with the new 2.0 logo. The residency would be celebrated with the {{< wiki-link "2023 Northridge Grand Reopening Party" >}} on November 10, 2023. Fan response to the move had been mixed, with many lamenting the imminent loss of all other remaining stages across the country; this decision came with the confirmation that all other stores hosting animatronics were set for removal of the stages.{{< cite 8 >}}
-CEC Corporate would denote this location as important because it was 'long been visited by our fans' and 'in celebration of the location's 40th anniversary', despite the location's 40th anniversary actually having taken place 2 years prior in September of 2021.{{< cite 1 >}} CEC would directly confirm that once all 2017 2.0 Remodel Program|CEC 2.0 Remodel Programs were completed across all locations, Northridge would be the only store left with animatronics.{{< cite 1 >}} They would also note the location to be permanent showcase for 'all legacy Chuck E. Cheese nostalgia'.{{< cite 1 >}} CEC would deflect all comments begging for their local stores to keep their animatronics with stating that Northridge was 'the perfect location to keep the animatronic fun going strong'.{{< cite 2 >}}
+CEC Corporate would denote this location as important because it was 'long been visited by our fans' and 'in celebration of the location's 40th anniversary', despite the location's 40th anniversary actually having taken place 2 years prior in September of 2021.{{< cite 1 >}} CEC would directly confirm that once all CEC 2.0 Remodel Programs were completed across all locations, Northridge would be the only store left with animatronics.{{< cite 1 >}} They would also note the location to be permanent showcase for 'all legacy Chuck E. Cheese nostalgia'.{{< cite 1 >}} CEC would deflect all comments begging for their local stores to keep their animatronics with stating that Northridge was 'the perfect location to keep the animatronic fun going strong'.{{< cite 2 >}}
 
 ### 2024 Future Planning Survey
 
