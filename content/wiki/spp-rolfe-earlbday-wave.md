@@ -5,7 +5,7 @@ startDate = "1990-07-20"
 endDate = "1992-00-00"
 pageThumbnailFile = "aoMSvLv9FfiPdsTktMq8.avif"
 contributors = ["The 64th Gamer", "EagleScout610", "CyCGM", "DerekCat", "Cy's Junk at School", "randomguyfan22"]
-citations = ["https://www.youtube.com/watch?v=5bkPLEUd38M", "https://www.youtube.com/watch?v=XQuZA6Dtp2A", "https://www.youtube.com/watch?v=2VAOVxh6HaM"]
+citations = ["https://www.youtube.com/watch?v=5bkPLEUd38M", "https://www.youtube.com/watch?v=XQuZA6Dtp2A", "https://www.youtube.com/watch?v=vtS2OXjdyPE&t=34s", "https://www.youtube.com/watch?v=2VAOVxh6HaM"]
 credits = ["Joe Conti|Rolfe Dewolfe & Earl Schmerle"]
 showtapeFormats = ["ShowBiz SVHS"]
 downloadLinks = ["https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso|VHS Rip (Missing Data)"]
