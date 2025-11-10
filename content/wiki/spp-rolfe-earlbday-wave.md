@@ -1,16 +1,17 @@
 +++
-title = "SPP Rolfe & Earl"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+title = "SPP Rolfe & Earl"
 startDate = "1990-07-20"
 endDate = "1992-00-00"
-contributors = ["The 64th Gamer","EagleScout610","CyCGM","DerekCat","Cy's Junk at School"]
-citations = []
 pageThumbnailFile = "aoMSvLv9FfiPdsTktMq8.avif"
+contributors = ["The 64th Gamer", "EagleScout610", "CyCGM", "DerekCat", "Cy's Junk at School", "randomguyfan22"]
+citations = ["https://www.youtube.com/watch?v=5bkPLEUd38M", "https://www.youtube.com/watch?v=XQuZA6Dtp2A", "https://www.youtube.com/watch?v=2VAOVxh6HaM"]
+credits = ["Joe Conti|Rolfe Dewolfe & Earl Schmerle"]
 showtapeFormats = ["ShowBiz SVHS"]
-alsoKnownAs = ["260-0611-90(C) S. P. T. Inc.SPP Rolfe & EarlSerial #0042 Deck - 406/11/90 - Master HIFI"]
 downloadLinks = ["https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso|VHS Rip (Missing Data)"]
+alsoKnownAs = ["260-0611-90(C) S. P. T. Inc.SPP Rolfe & EarlSerial #0042 Deck - 406/11/90 - Master HIFI"]
+tags = ["Showtapes"]
+categories = ["ShowBiz Pizza Place"]
 +++
 ***SPP Rolfe & Earl* was a special showtape used during {{< wiki-link "Concept Unification" >}} to entertain guests while the *Rock-afire Explosion* was converted over to *Munch's Make Believe Band*.
 The tape stars the Rolfe and Earl voice actors from ShowBiz Pizza Time Inc., (Speculated to have been Joe Conti as Rolfe) returning from their roles in 1986. They comment about the stage being under construction, with Rolfe providing Earl hints throughout the tape to figure out that Chuck E. Cheese is behind the changes.**
