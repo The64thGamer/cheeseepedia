@@ -18,7 +18,7 @@ The *Legacy Locations* were created as an official response to the backlash from
 ## Stages
 | Location                                                              | Stage Type                                      | Grand Reopening |
 |-----------------------------------------------------------------------|-------------------------------------------------|-----------------|
-| {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}                 | {{< wiki-link "2-Stage" >}}                     | July 25, 2023   |
+| {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}                 | {{< wiki-link "2-Stage" >}}                     | November 10, 2023   |
 | {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}                    | {{< wiki-link "Studio C Beta" >}}               | July 18, 2024   |
 | {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}               | {{< wiki-link "Concept Unification 1-Stage" >}} | July 25, 2024   |
 | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}        | {{< wiki-link "Concept Unification Stage" >}}   | July 26, 2024   |
