@@ -8,7 +8,7 @@ endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Anonymous"]
 citations = ["http://www.pinrepair.com/arcade/bimbo.htm"]
 downloadLinks = ["https://static.miraheze.org/decodedocdigitizewiki/d/da/Bimbo.mp3|Original Bimbo 8-Track Audio Tape"]
-pageThumbnailFile = ["18879328_1524052007668474_5206356354029060096_n_(1).avif"]
+pageThumbnailFile = "18879328_1524052007668474_5206356354029060096_n_(1).avif"
 +++
 
 ***Chuck E. Cheese's Circus Time*** was a custom *Chuck E. Cheese* branded version of *The Original Bimbo 3 Ring Circus* machine from *United Billiards.* The cabinet would play a single song once a coin was inserted. During the length of the song, the player could press each of the 4 buttons to control Chuck's limbs to make him dance along with the song. A light would light up Chuck while the song was playing, due to arcades of the day being usually dark. Once the song ended, the cabinet would turn off. Each play would continue to the next song on the 8-track tape inside the cabinet.

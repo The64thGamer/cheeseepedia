@@ -284,7 +284,7 @@ collections:
           config:
             allow_multiple: false
             accept: [".avif"]
-      - { label: "File Name You Uploaded with Extension (Example: test_photo.avif)", name: "title", widget: "string" }
+      - { label: "File Name (Example: test_photo.avif)", name: "title", widget: "hidden", default: "" }
       - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Date (YYYY-MM-DD or 0000-00-00)", name: "startdate", widget: "string", required: false }
       - label: "Citations (List sources here!)"
