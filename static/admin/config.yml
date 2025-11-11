@@ -267,7 +267,7 @@ collections:
 
   - name: "photos"
     label: "Photo"
-    folder: "content/wiki/photos"
+    folder: "content/photos"
     create: true
     slug: "{{slug}}"
     extension: "md"
