@@ -1,6 +1,6 @@
 +++
 recommend = true
-title = "Interesting idea, the animatronics..."
+title = "Interesting idea, the marketing..."
 startdate = "2025-11-11"
 page = "Chuck&#039;s Arcade"
 contributors = ["randomguyfan22"]
