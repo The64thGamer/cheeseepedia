@@ -61,9 +61,9 @@ categories = ["Chuck E. Cheese's"]
     1.  'We Wish You a Merry Christmas / Here We Come a Wassailing'
 18. **Intermission 9**
     1.  Super Jasper - 'Cookies for Santa'
-    1.  'Dreidel Song'
-    1.  Chillout 9
-    1.  CEC TV ID - 'Snow Blizzard'
+    2.  'Dreidel Song'
+    3.  Chillout 9
+    4.  CEC TV ID - 'Snow Blizzard'
 
 ## Lives
 
