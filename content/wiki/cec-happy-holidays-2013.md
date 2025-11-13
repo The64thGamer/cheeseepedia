@@ -7,7 +7,7 @@ pageThumbnailFile = "3xQi1OgdEwHzCONX8G2j.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13"]
 citations = []
 credits = ["Matt Daniel - Production Manager", "Michael Hill - Studio Coordinator"]
-showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
