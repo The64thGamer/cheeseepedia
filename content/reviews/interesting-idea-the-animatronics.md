@@ -2,7 +2,7 @@
 recommend = true
 title = "Interesting idea, the marketing..."
 startdate = "2025-11-11"
-page = "Chuck&#039;s Arcade"
+page = "Chuck's Arcade"
 contributors = ["randomguyfan22"]
 tags = ["Reviews"]
 +++
