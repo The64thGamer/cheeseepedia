@@ -16,48 +16,48 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.  **Song 1**
+1.  **Skit 1**
     1.  'Deck the Halls'
 2.  **Intermission 1**
     1.  VeggieTales - 'Donuts for Benny'
     2.  Chillout 1
-3.  **Song 2**
+3.  **Skit 2**
     1.  'Up on the Housetop'
 4.  **Intermission 2**
     1.  Fraggle Rock - 'Traveling Matt 1'
     2.  Chillout 2
-5.  **Song 3**
+5.  **Skit 3**
     1.  'Jolly Old St. Nicholas'
 6.  **Intermission 3**
     1.  My Little Pony - 'Christmas Pageant'
     2.  Chillout 3
-7.  **Song 4**
+7.  **Skit 4**
     1.  'Oh Christmas Tree'
 8.  **Intermission 4**
     1.  Veggie Tales - 'The 8 Polish Foods of Christmas'
     2.  Chillout 4
-9.  **Song 5**
+9.  **Skit 5**
     1.  'Jingle Bells'
 10. **Intermission 5**
     1.  'Fraggle Rock' - 'Snow Song'
     2.  Chillout 5
-11. **Song 6**
+11. **Skit 6**
     1.  'I Heard the Bells'
 12. **Intermission 6**
     1.  Pound Puppies - 'Dog Sled Race'
     2.  Chillout 6
-13. **Song 7**
+13. **Skit 7**
     1.  'Boar's Head Carol'
 14. **Intermission 7**
     1.  Fraggle Rock - 'Traveling Matt 2'
     2.  Chillout 7
-15. **Song 8**
+15. **Skit 8**
     1.  'Toyland / March of the Wooden Soldiers'
 16. **Intermission 8**
     1.  Baking with Betty - 'Potato Latkes'
     2.  'Let's Play Some Games For The Holidays'
     3.  Chillout 8
-17. **Song 9**
+17. **Skit 9**
     1.  'We Wish You a Merry Christmas / Here We Come a Wassailing'
 18. **Intermission 9**
     1.  Super Jasper - 'Cookies for Santa'
