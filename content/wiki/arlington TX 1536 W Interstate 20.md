@@ -1,7 +1,7 @@
 +++
 title = "Arlington, TX (1536 W Interstate 20)"
 storeNumber = ""
-startDate = "2025-11-00"
+startDate = "2025-11-07"
 endDate = ""
 cuDate = ""
 remodels = []
