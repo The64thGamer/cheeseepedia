@@ -7,10 +7,10 @@ cuDate = ""
 remodels = []
 stages = []
 franchisees = []
-attractions = ["Depth Charge|0000-00-00|0000-00-00","Star Hawk|0000-00-00|0000-00-00","Cheese Crawl|1979-10-06|0000-00-00","Warlords|0000-00-00|0000-00-00","Skee Ball (x12)|0000-00-00|0000-00-00","Bumper Cars|1979-10-06|0000-00-00","Ball Pit|0000-00-00|0000-00-00",,"Jasper's General Store|0000-00-00|0000-00-00"]
+attractions = ["Depth Charge|0000-00-00|0000-00-00","Star Hawk|0000-00-00|0000-00-00","Cheese Crawl|1979-10-06|0000-00-00","Warlords|0000-00-00|0000-00-00","Skee Ball (x12)|0000-00-00|0000-00-00","Bumper Cars|1979-10-06|0000-00-00","Ball Pit|0000-00-00|0000-00-00","Jasper's General Store|0000-00-00|0000-00-00"]
 sqft = "17,000"
 latitudeLongitude = ["33.73543952", "-118.0179572"]
-citations = ["https://www.newspapers.com/newspage/841084118/","https://www.newspapers.com/article/oakland-tribune/82325882/","https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre","https://showbizpizza.com/info/promo/ptt/ptt_draw-win-eat.pdf","https://www.newspapers.com/article/the-los-angeles-times/21696884/","https://www.newspapers.com/article/the-los-angeles-times-potential-huntingt/181898791/","https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=huntington","https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1326071&dbid=0&repo=CNB&searchid=f20e6d2a-af85-4f89-9ecc-0a5da1ce2bbf","Missing Source"]
+citations = ["https://www.newspapers.com/newspage/841084118/","https://www.newspapers.com/article/oakland-tribune/82325882/","https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre","https://showbizpizza.com/info/promo/ptt/ptt_draw-win-eat.pdf","https://www.newspapers.com/article/the-los-angeles-times/21696884/","https://www.newspapers.com/article/the-los-angeles-times-potential-huntingt/181898791/","https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=huntington","https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1326071&dbid=0&repo=CNB&searchid=f20e6d2a-af85-4f89-9ecc-0a5da1ce2bbf","Missing Source","https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1235797&dbid=0&repo=CNB&searchid=4dbc461d-bd8e-4523-b558-8fa240af1495"]
 contributors = []
 downloadLinks = []
 pageThumbnailFile = ""
@@ -18,7 +18,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
-***Huntington Beach, CA (15511 Edwards St)*** is the fifth {{< wiki-link "Pizza Time Theatre" >}}, and the former Pizza Time Theatre Southern California District Office, opening on October 6th, 1979, and lasting to September 21, 2025.
+***Huntington Beach, CA (15511 Edwards St)*** is the fifth{{< cite 10 >}} {{< wiki-link "Pizza Time Theatre" >}}, and the former Pizza Time Theatre Southern California District Office, opening on October 6th, 1979, and lasting to September 21, 2025.{{< cite 9 >}}
 
 ## History
 
@@ -34,7 +34,7 @@ On July 7th an ad would appear for an electrical technician for both the Hunting
 
 Huntington Beach would open on October 6th, 1979.{{< cite 9 >}}  The location would have the third set of {{< wiki-link "Cyberamics" >}}, alongside the first {{< wiki-link "Helen Henny (Lounge)" >}}. The store would also feature a 12x18ft concrete pad with six bumper cars as an attraction.{{< cite 7 >}} 
 
-On October 9th, the C.&I. Construction Company would advertise their help in the construction of Huntington Beach.{{< cite 6 >}} 
+On October 9th, the C.&I. Construction Company would advertise their help in the construction of Huntington Beach.{{< cite 6 >}} On November 28th, 
 
 ### 1980's
 
