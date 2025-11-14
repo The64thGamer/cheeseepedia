@@ -1,15 +1,15 @@
 +++
-title = "SongCode Hardware Setup"
+title = "Big C's Cyberamics Center"
 draft = false
 tags = ["Programming Systems"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado"]
-citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&"]
+citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
-The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} for continued use and upgrades.**
+***Big C's Cyberamics Center*** was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} for continued use and upgrades.
 
 ## SongCode
 

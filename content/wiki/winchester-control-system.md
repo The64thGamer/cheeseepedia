@@ -16,7 +16,7 @@ The system was developed by the Cyan Engineering subdivision of Atari (also know
 ### TEAC 4-Track Tape Deck
 
 An unnamed TEAC 4-Track tape deck would be used to play back audio and programming signals to the hardware. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. These tapes would be generated on the separate (but still possibly interlinked) {{< wiki-link "Winchester Hardware Setup" >}}.
-Due to the later {{< wiki-link "SongCode Hardware Setup" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
+Due to the later {{< wiki-link "Big C's Cyberamics Center" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
 ### Unnamed Decoding Box
 
