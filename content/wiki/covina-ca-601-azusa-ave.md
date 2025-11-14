@@ -1,7 +1,7 @@
 +++
 title = "Covina, CA (601 Azusa Ave)"
 storeNumber = ""
-startDate = "1980-00-00"
+startDate = "1982-00-00"
 endDate = ""
 cuDate = ""
 remodels = []

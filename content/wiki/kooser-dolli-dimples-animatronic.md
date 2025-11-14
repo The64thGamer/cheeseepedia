@@ -12,7 +12,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 +++
 
-The ***Kooser Dolli Dimples Animatronic*** was an animatronic version of Dolli Dimples created by {{< wiki-link "Fantasy Forest" >}} for {{< wiki-link "Pizza Time Theatre" >}} in 1978. The bot was used at {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 to May 1980. The bot was made to only activate when a token was put in. The bot was controlled using the {{< wiki-link "Cyberamic Control System" >}} &amp; {{< wiki-link "Dolli Dimples Show Selector (Prototype)" >}} with the bot being programmed at Kooser using the {{< wiki-link "SongCode Hardware Setup" >}}.
+The ***Kooser Dolli Dimples Animatronic*** was an animatronic version of Dolli Dimples created by {{< wiki-link "Fantasy Forest" >}} for {{< wiki-link "Pizza Time Theatre" >}} in 1978. The bot was used at {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 to May 1980. The bot was made to only activate when a token was put in. The bot was controlled using the {{< wiki-link "Cyberamic Control System" >}} &amp; {{< wiki-link "PTT Show Selector" >}} with the bot being programmed at Kooser using the {{< wiki-link "SongCode Hardware Setup" >}}.
 
 ## History
 
