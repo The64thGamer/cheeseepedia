@@ -13,7 +13,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Summary
 
-The live show begins with a pre-recorded announcement that sounds like a cast member speaking over the store intercom, introducing the live show. Then the show announcer tells the audience to put their hands together for Chuck E. Cheese, whcih leads into the song. The footage is reused from 'Disco Inferno' from the {{< wiki-link "CEC TV April 2005 Show" >}} and 'Boogie Fever' from the {{< wiki-link "September 2003 Show" >}}.
+The live show begins with a pre-recorded announcement, meant to sound like a cast member speaking over the store intercom, telling guests to come to the showroom for a live show. Then the show announcer tells the audience to put their hands together for Chuck E. Cheese, which leads into the song. The footage is reused from 'Disco Inferno' from the {{< wiki-link "CEC TV April 2005 Show" >}} and 'Boogie Fever' from the {{< wiki-link "September 2003 Show" >}}.
 
 ## Live Show List:
 
