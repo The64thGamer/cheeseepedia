@@ -34,7 +34,7 @@ On July 7th an ad would appear for an electrical technician for both the Hunting
 
 Huntington Beach would open on October 6th, 1979.{{< cite 9 >}}  The location would have the third set of {{< wiki-link "Cyberamics" >}}, alongside the first {{< wiki-link "Helen Henny (Lounge)" >}}. The store would also feature a 12x18ft concrete pad with six bumper cars as an attraction.{{< cite 7 >}} 
 
-On October 9th, the C.&I. Construction Company would advertise their help in the construction of Huntington Beach.{{< cite 6 >}} On November 28th, 
+On October 9th, the C.&I. Construction Company would advertise their help in the construction of Huntington Beach.{{< cite 6 >}} On November 28th, an interview with Nolan Bushnell about Pizza Time Theatre and its new location would have him note that he "...samples all the wares and makes sure that each of his theatres is producing the best possible food...", also noting that by this point seven stores had opened (despite only 6 known to be open).{{< cite 10 >}}
 
 ### 1980's
 
