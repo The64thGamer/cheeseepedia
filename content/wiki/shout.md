@@ -5,7 +5,8 @@ startDate = "1995-04-00"
 endDate = "1995-07-00"
 pageThumbnailFile = ""
 contributors = ["Ceclife13"]
-showtapeFormats = ["3-Stage SVHS (Post-93)"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Ron Schneider - Voice of Mr. Mouth"]
+showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 tags = ["Showtapes", "Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
