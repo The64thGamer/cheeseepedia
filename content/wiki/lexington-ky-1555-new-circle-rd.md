@@ -40,4 +40,4 @@ All day on October 30th and October 31st, 1986 Lexington's ShowBiz would have Sa
 During Feburary 1987 Free Sugarless Drinks, Free Popcorn and Pictures with the tooth fairy (for $2.00) would take place to celebrate Children's Dental Health Month. The event would return in 1988 although without the tooth fairy. {{< cite 19 >}}
 All day on October 30th and October 31st, 1987 Lexington's ShowBiz would have Safe Halloween Parties! "Every child in costume receives a free treat, Parade of Costumes, Exciting games and activites! FREE Face Painting!". {{< cite 20 >}}
 
-During Feburary 1988 Free Sugarless Drinks and Free Popcorn would be avalible https://www.newspapers.com/article/lexington-herald-leader-1988-dentist-spp/184958973/ {{< cite 18 >}}
+During Feburary 1988 Free Sugarless Drinks and Free Popcorn would be avalible {{< cite 18 >}}
