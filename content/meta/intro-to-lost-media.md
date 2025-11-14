@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/","https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t4d","https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj42","https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=ben"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -45,6 +45,10 @@ On January 8th, 1978, a newspaper would write about {{< wiki-link "Fantasy Fores
 Specifically mentioned and shown were a second set of Warblettes, unfinished. The molds look similar, and almost exact in beak shape, to ones found already at {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. Notably however is the only pictures of the Warblettes prior to this image, taken likely around or on opening day, have them obscured and not entirely visible. Proper shots of the Warblettes come later in 1979. It is possible the Warblettes were recieving a V2 animatronic, just as Chuck and Crusty recieved updates in June of that year. It is known the display the Warblettes sat in had to be redone after the opening of the store in May 1977 due to a malfunction as well.
 
 If the Warblettes were never updated and the V1 Warblettes aren't lost media, these would likely be made for the Kooser Road location before being scrapped and replaced with the {{< wiki-link "Kooser Mopsey Sisters (Animatronic)" >}} before opening. In which case it is unclear why they were scrapped, and where they ended up.
+
+### Ben Wattenburg's 1980: June 16th, 1980
+
+The Pizza Times notes that PTT was featured on the PBS TV show "Ben Wattenberg's 1980", where they visited the currently never before seen Pizza Time Theatre corporate offices at {{< wiki-link "Cupertino, CA (10060 Bubb Road)" >}} to shoot footage. The episode was said to be the one premiering on June 16th. Two of the only known episodes premiered on June 1st, 1980, and July 13th, 1980, which are both on Sunday, so possibly this footage could have instead premiered on June 15th. This would also mark it as either episode 10 or 11 depending on if the show was weekly or bi-weekly (though given the schedules of the current 2 known episodes it may be bi-weekly.){{< cite 13 >}}{{< cite 14 >}}{{< cite 15 >}}
 
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
