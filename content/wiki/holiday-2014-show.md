@@ -58,14 +58,16 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
+**Studio C and WEIGL locations would automatically play a live show every hour at the 25-minute mark. The automatic live for this show was 'Chuck E. Says.'.**
+
 - Rockstar Birthday 2014
 - Spanish Rockstar Birthday 2014
-- Chuck E. Says
-- Head Shoulders Knees and Toes
-- Do The Chuck E. (Do The Roll)
-- Happy and You Know It
-- Old MacDonald
-- Them Bones (Studio C, Weigl)
+- Chuck E. Says (Michael Hill Countdown)
+- Head Shoulders Knees and Toes (Michael Hill Countdown)
+- Do The Chuck E. (Do The Roll) (Michael Hill Countdown)
+- Happy and You Know It (Michael Hill Countdown)
+- Old MacDonald (Michael Hill Countdown)
+- Them Bones (Michael Hill Countdown) (Studio C, Weigl)
 
 ## Official Releases
 
