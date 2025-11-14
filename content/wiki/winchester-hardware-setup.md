@@ -20,7 +20,7 @@ The main programming computer would be the *PDP-11/70,* running the Winchester P
 ### TEAC 4-Track Tape Deck
 
 An unnamed TEAC 4-Track tape deck would be used to record audio and programming signals. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time.
-Due to the later {{< wiki-link "SongCode Hardware Setup" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
+Due to the later {{< wiki-link "Big C's Cyberamics Center" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
 ## Live Playback
 

@@ -5,7 +5,7 @@ tags = ["Meta"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/"]
+citations = ["https://youtu.be/00jqSXcRsTw","https://youtu.be/AJd7w7HWcH0","https://archive.org/details/studio-c-premiere-show","https://youtu.be/yTMRMxk7SCI","https://archive.org/details/atariincbusiness0000gold/page/216/mode/2up?q=chuck+e","https://www.ataricompendium.com/archives/newsletters/st_pong/st_pong.html","https://youtu.be/ucg8MujPDQA","https://youtu.be/O92knC8wPhA?list=RDO92knC8wPhA","https://youtu.be/idJtxyMRlj4","https://forum.cheeseepedia.org/t/helen-latex-to-plastic-retrofit-document-found/39","https://youtu.be/a_Ohe_R4ueo?t=963","https://www.newspapers.com/article/fort-worth-star-telegram-breakfast-at-sp/182278232/","https://americanarchive.org/catalog/cpb-aacip-526-ms3jw87t4d","https://americanarchive.org/catalog/cpb-aacip-526-9g5gb1zj42","https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=ben","https://starcade.tv/pilotx/pilot.htm","https://archive.org/download/thepizzatimeshow/ChuckECheese.mp4"]
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
 +++
 
@@ -46,6 +46,10 @@ Specifically mentioned and shown were a second set of Warblettes, unfinished. Th
 
 If the Warblettes were never updated and the V1 Warblettes aren't lost media, these would likely be made for the Kooser Road location before being scrapped and replaced with the {{< wiki-link "Kooser Mopsey Sisters (Animatronic)" >}} before opening. In which case it is unclear why they were scrapped, and where they ended up.
 
+### Ben Wattenburg's 1980: June 16th, 1980
+
+The Pizza Times notes that PTT was featured on the PBS TV show "Ben Wattenberg's 1980", where they visited the currently never before seen Pizza Time Theatre corporate offices at {{< wiki-link "Cupertino, CA (10060 Bubb Road)" >}} to shoot footage. The episode was said to be the one premiering on June 16th. Two of the only known episodes premiered on June 1st, 1980, and July 13th, 1980, which are both on Sunday, so possibly this footage could have instead premiered on June 15th. This would also mark it as either episode 10 or 11 depending on if the show was weekly or bi-weekly (though given the schedules of the current 2 known episodes it may be bi-weekly.){{< cite 13 >}}{{< cite 14 >}}{{< cite 15 >}}
+
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
 
@@ -55,6 +59,10 @@ Finally, the {{< wiki-link "Pizza Time Theatre 1979 Animated Spot (Commercial)" 
 
 ### Kooser Main Show
 The {{< wiki-link "Kooser Main Show & Dolli Showtape" >}} is semi-lost showtape, being the debut tape of the second Pizza Time Theatre store, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}. Its Dolli portion has been widely available, as it was rereleased for {{< wiki-link "Cyberamics" >}} in 1979. The main portion however has only had a few snippets of its confirmed 12 segments available. Interestingly, shots of the programming room at Kooser during the supposed run of this tape shows two differently labeled tapes at different times. This suggests that either the main tape was copied due to wear, a revision of the tape was made, or an entirely new tape was created, meaning more lost media.
+
+### Starcade Original Pilot + Event + Submission Forms
+
+Pizza Time Theatre initially helped select the contestants of the TV show Starcade, which had its pilot premiere September 13th, 1981. No photos or videos of the contests have been found. The in-home submission forms which had to be submitted at a Pizza Time Theatre have not been found. The original pilot itself has been heavily documented, even with a small clip showing PTT, but is also not found in full. Notably this first pilot featured Mike Eruzione as the host, while there is a second pilot floating around with Alex Trebek as host which doesn't feature anything from PTT.{{< cite 16 >}}{{< cite 17 >}}
 
 ### Pre-SongCode Signals / Software
 A collection of the earliest showtapes were produced on the {{< wiki-link "Winchester Hardware Setup" >}} at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location. While audio from these tapes have surfaced thanks to preservation efforts within Pizza Time Theatre, no trace of the signals or their software have been found. It is unclear how much of the formatting changed from the Winchester setup to the later {{< wiki-link "SongCode" >}} programs that lasted from 1978 to 1990.
