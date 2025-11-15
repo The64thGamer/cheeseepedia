@@ -20,6 +20,8 @@ The live show starts with a five-minute countdown featuring Larry the Technician
 
 1. 5 Minute Countdown
 2. ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song))
+3. Birthday Break
+4. {{< wiki-link "Birthday Star '98" >}}
 
 ## Showtape Releases:
 
