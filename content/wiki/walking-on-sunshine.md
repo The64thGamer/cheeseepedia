@@ -1,7 +1,7 @@
 +++
 title = "Walking On Sunshine"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "1992-09-00"
