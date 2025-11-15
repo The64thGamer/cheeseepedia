@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Chuck E.'s Happy Dance"
-startDate = "2016-12-28"
+startDate = "2015-12-28"
 endDate = "2025-05-01"
 pageThumbnailFile = " "
 contributors = ["Cybersnout"]
