@@ -15,6 +15,8 @@ categories = ["Chuck E. Cheese's"]
 The live show consists of Chuck E. singing 'The Loco-Motion' with the rest of the band singing backup. The main footage is the January 2001 Show logo, with Studio C also having puppet footage.
 ## Live Show List:
 1. ['The Loco-Motion'](https://en.wikipedia.org/wiki/The_Loco-Motion)
+2. Birthday Break
+3. {{< wiki-link "New Birthday (2002)" >}}
 
 ## Showtape Releases:
 
