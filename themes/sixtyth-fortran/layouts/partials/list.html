@@ -12,6 +12,8 @@
     {{- $layout = "listReviews" -}}
   {{- else if eq .Title "Locations" -}}
     {{- $layout = "listLocations" -}}
+  {{- else if eq .Title "Cancelled Locations" -}}
+    {{- $layout = "listLocations" -}}
   {{- end -}}
   {{- partial $layout . -}}
 {{- end -}}
