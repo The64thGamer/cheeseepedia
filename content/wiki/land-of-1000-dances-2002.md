@@ -1,5 +1,5 @@
 +++
-title = "Land of 1,000 Dances 2002"
+title = "Land of 1000 Dances 2002"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
