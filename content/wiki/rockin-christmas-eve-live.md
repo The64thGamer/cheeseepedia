@@ -1,10 +1,10 @@
 +++
 title = "Rockin' Christmas Eve Live!"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1999-00-00"
-endDate = "0000-00-00"
+startDate = "1999-12-00"
+endDate = "2012-01-01"
 contributors = []
 +++

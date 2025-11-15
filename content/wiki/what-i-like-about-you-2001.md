@@ -1,10 +1,10 @@
 +++
-title = "Walking On Sunshine"
+title = "What I Like About You 2001"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1992-09-00"
-endDate = "1992-12-00"
+startDate = "2001-09-00"
+endDate = "2001-11-00"
 contributors = []
 +++

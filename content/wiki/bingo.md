@@ -1,10 +1,10 @@
 +++
-title = "Bingo"
+title = "BINGO"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2000-00-00"
-endDate = "0000-00-00"
+startDate = "2000-03-00"
+endDate = "2013-12-31"
 contributors = ["Anastasia.laguardia","CyberSnout"]
 citations = []
 +++

@@ -2,9 +2,9 @@
 title = "Cupid Shuffle"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "2010-01-00"
+endDate = "2012-12-00"
 contributors = []
 +++

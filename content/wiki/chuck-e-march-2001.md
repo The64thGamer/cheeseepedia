@@ -1,10 +1,10 @@
 +++
-title = "Walking On Sunshine"
+title = "Chuck E. March 2001"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1992-09-00"
-endDate = "1992-12-00"
+startDate = "2001-03-00"
+endDate = "2012-12-00"
 contributors = []
 +++

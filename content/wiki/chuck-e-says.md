@@ -1,10 +1,10 @@
 +++
 title = "Chuck E. Says"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1996-00-00"
-endDate = "0000-00-00"
+startDate = "1996-04-23"
+endDate = "2002-08-00"
 contributors = []
 +++

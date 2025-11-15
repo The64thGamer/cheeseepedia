@@ -1,10 +1,10 @@
 +++
 title = "Let's Groove"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2004-00-00"
-endDate = "0000-00-00"
+startDate = "2004-01-00"
+endDate = "2004-03-00"
 contributors = []
 +++

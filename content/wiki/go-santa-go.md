@@ -1,10 +1,10 @@
 +++
 title = "Go Santa Go"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2002-00-00"
-endDate = "0000-00-00"
+startDate = "2002-12-00"
+endDate = "2006-12-31"
 contributors = []
 +++

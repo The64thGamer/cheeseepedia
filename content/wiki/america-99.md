@@ -1,10 +1,10 @@
 +++
-title = "Chuck E. March 01"
+title = "America Live '99"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2001-00-00"
-endDate = "0000-00-00"
+startDate = "1999-07-00"
+endDate = "2001-09-00"
 contributors = []
 +++
