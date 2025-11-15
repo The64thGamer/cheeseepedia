@@ -15,9 +15,9 @@ categories = ["Chuck E. Cheese's"]
 1. **Live 1**
 1. Them Bones (October only)
 2. **Live 2**
-1. Cupid Shuffle
+1. Cupid Shuffle 2012
 3. **Live 3**
-1. Happy & You Know It
+1. Happy & You Know It 2012
 4. **Live 4**
 1. Birthday Star
 5. **Live 5**
