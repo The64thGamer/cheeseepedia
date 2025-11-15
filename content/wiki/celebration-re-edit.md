@@ -7,7 +7,7 @@ pageThumbnailFile = "ceccelebratelive00.avif"
 contributors = ["Ceclife13"]
 mediaDuration = "8:18"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Live Shows", "Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Celebration 2000*** is a re-edit of {{< wiki-link "Celebration" >}}, which was released alongside {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}.
