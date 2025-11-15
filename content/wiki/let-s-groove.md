@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Let’s Groove"
+title = "Let's Groove"
 startDate = "2004-01-00"
 endDate = "2004-03-00"
 pageThumbnailFile = "letsgrooveliveshow2004.avif"
