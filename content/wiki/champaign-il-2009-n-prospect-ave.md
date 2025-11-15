@@ -4,7 +4,7 @@ draft = false
 tags = ["Cancelled Locations"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = ""
+startDate = "2004-00-00"
+endDate = "2005-00-00"
 contributors = []
 +++

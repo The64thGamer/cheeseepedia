@@ -3,14 +3,13 @@ title = "Crystal Lake, IL (22 Crystal Lake Plaza)"
 draft = false
 tags = ["Cancelled Locations"]
 categories = ["Pizza Time Theatre"]
-startDate = "0000-00-00"
-endDate = "0000-00-00"
+startDate = "1982-11-00"
+endDate = "1983-01-00"
 contributors = ["ShowBizMidwest","Rexburg090","The 64th Gamer"]
-citations = ["[https://www.newspapers.com/image/184155209/?terms=%22Pizza%20Time%20Theatre%22%20%22a%20request%20to%22%20%20&match=1](%22https://www.newspapers.com/image/184155209/?terms=%22Pizza%20Time%20Theatre%22%20%22a%20request%20to%22%20%20&match=1%22)"]
+citations = ["https://www.newspapers.com/image/184155209/?terms=%22Pizza%20Time%20Theatre%22%20%22a%20request%20to%22%20%20&match=1%22"]
 latitudeLongitude = ["42.22599917","-88.32610518"]
 +++
-***22 Crystal Lake Plaza* is a *Pizza Time Theatre* that was planned between November 1982 - January 1983, and was ultimately never built.
-This location is not to be confused with {{< wiki-link "Crystal Lake, IL (4725 Northwest Hwy)" >}} that opened October 16, 2000 with a {{< wiki-link "Studio C Alpha" >}}, which still operates to this day.**
+***Crystal Lake, IL (22 Crystal Lake Plaza)*** is a *Pizza Time Theatre* that was planned between November 1982 - January 1983, and was ultimately never built.
 
 ## History
 
