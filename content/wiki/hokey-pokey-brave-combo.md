@@ -4,7 +4,7 @@ draft = false
 tags = ["Live Shows"]
 categories = [""]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1995-00-00"
+endDate = "1995-00-00"
 contributors = []
 +++
