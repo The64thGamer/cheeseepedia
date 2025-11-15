@@ -1,9 +1,10 @@
 +++
-title = "Dragstrip in The Sky"
+title = "Dragstrip in The Sky ft. Little Queenie"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
 **The Wolfman:**
+
 Yeah, yeah, yeah, good sound hound! But now let’s introduce our female vocalist. A sad tale of love and honor with the crimson fox and her bobby socks, I present Little Queenie!
 
 **Little Queenie: (Singing)**
