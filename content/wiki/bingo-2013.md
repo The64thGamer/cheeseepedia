@@ -1,7 +1,7 @@
 +++
 draft = false
-title = "Do The Chuck E. (Do The Roll)"
-startDate = "2013-09-01"
+title = "Bingo 2013"
+startDate = "2013-01-00"
 endDate = "2020-03-17"
 pageThumbnailFile = " "
 contributors = ["Cybersnout"]

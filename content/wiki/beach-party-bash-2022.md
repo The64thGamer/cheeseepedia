@@ -1,8 +1,8 @@
 +++
 draft = false
-title = "Me & My Friends (Chucktober)"
-startDate = "2016-10-03"
-endDate = "2022-10-31"
+title = "Beach Party Bash 2022"
+startDate = "2022-06-06"
+endDate = "2025-09-07"
 pageThumbnailFile = " "
 contributors = ["Cybersnout"]
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Caroline Richardson - Voice of Helen Henny", "Chris Hill - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Matt Daniel - Production Manager"]

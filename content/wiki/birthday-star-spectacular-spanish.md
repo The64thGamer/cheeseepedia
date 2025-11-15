@@ -1,10 +1,11 @@
 +++
-title = "Birthday Star Spectacular Spanish"
 draft = false
+title = "Birthday Star Spectacular Spanish"
+startDate = "2018-07-30"
+endDate = "2023-12-04"
+pageThumbnailFile = " "
+contributors = ["Cybersnout"]
+credits = [credits = ["Luis Leonardo Suárez - Voice of Chuck E. Cheese", "Unknown - Voice of Helen Henny", "Unknown - Voice of Mr. Munch", "Miguel Ángel Ruiz - Voice of Jasper T. Jowls", "Salvador Chantrés - Voice of Pasqually The Chef", "Matt Daniel - Production Manager"]
 tags = ["Live Shows"]
-categories = [""]
-pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
-contributors = []
+categories = ["Chuck E. Cheese's"]
 +++
