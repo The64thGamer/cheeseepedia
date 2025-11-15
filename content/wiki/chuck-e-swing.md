@@ -33,19 +33,21 @@ The footage is a parody of the GAP 'Khaki Swing' commercial, with a CEC version 
 | 2000         | {{< wiki-link "Just for Kids Show 2000" >}}               | Studio C 3X DVD + Floppy                             |
 | 2000         | {{< wiki-link "Summertime 2000" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2000         | {{< wiki-link "September 2000 Show" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2000         | {{< wiki-link "Chuck E’s Holiday Party 2000" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "January 2001 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "Chuck E’s Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "Summertime 2001" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "September 2001 Show" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "January 2002 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "April 2002 Show" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Holiday 2002" >}}                          | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Best of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Chuck E. Cheese Spring Show 2003" >}}      | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Summertime 2003" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "September 2003 Show" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2003         | {{< wiki-link "Holiday 2003 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2004         | {{< wiki-link "January 2004 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2004         | {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}       | Studio C 3X DVD + Floppy                             |
 | 2004         | {{< wiki-link "Summer 2004 Show" >}}                      | Studio C 3X DVD + Floppy                             |
@@ -55,10 +57,12 @@ The footage is a parody of the GAP 'Khaki Swing' commercial, with a CEC version 
 | 2005         | {{< wiki-link "CEC TV April 2005 Show" >}}                | Studio C 3X DVD + Floppy                             |
 | 2005         | {{< wiki-link "Super Chuck Summer Show 2005" >}}          | Studio C 3X DVD + Floppy                             |
 | 2005         | {{< wiki-link "September 2005 Show" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2005         | {{< wiki-link "Holiday 2005" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2006         | {{< wiki-link "January 2006 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2006         | {{< wiki-link "April 2006 Show" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2006         | {{< wiki-link "Summertime 2006" >}}                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2006         | {{< wiki-link "September 2006 Show" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | {{< wiki-link "Holiday 2006" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2007         | {{< wiki-link "January 2007" >}}                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2007         | {{< wiki-link "April 2007 Show" >}}                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2007         | {{< wiki-link "Summer 2007 Show" >}}                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |

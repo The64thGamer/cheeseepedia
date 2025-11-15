@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Live"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = "1988-00-00"
+startDate = "1987-05-09"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","CyberSnout","CEC Tinley","Cy's Junk at School"]
 citations = []
@@ -14,7 +14,7 @@ pageThumbnailFile = "m343ZtjFK3uTm55jtFnG.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++
 
-***Chuck E. Cheese Live*** was a live show released within 1988 to test the creation of live shows. The show ran from 1988 - most likely 1990.
+***Chuck E. Cheese Live*** was a live show released within 1988 to test the creation of live shows. The show ran from 1987 - most likely 1990.
 
 ## Summary
 
