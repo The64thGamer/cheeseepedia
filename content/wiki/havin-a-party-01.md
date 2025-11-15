@@ -1,10 +1,10 @@
 +++
-title = "Havin' A Party 01"
+title = "Havin' A Party 2001"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2001-00-00"
-endDate = "0000-00-00"
+startDate = "2001-01-00"
+endDate = "2012-12-00"
 contributors = []
 +++
