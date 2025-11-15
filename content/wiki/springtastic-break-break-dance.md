@@ -1,10 +1,11 @@
 +++
-title = "Springtastic Break Break Dance"
 draft = false
+title = "Winner Wonder Dance 2020"
+startDate = "2021-03-01"
+endDate = "2025-04-27"
+pageThumbnailFile = " "
+contributors = ["Cybersnout"]
+credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Caroline Richardson - Voice of Helen Henny", "Chris Hill - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Matt Daniel - Production Manager"]
 tags = ["Live Shows"]
-categories = [""]
-pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
-contributors = []
+categories = ["Chuck E. Cheese's"]
 +++
