@@ -1,15 +1,13 @@
 +++
-title = "Me & My Friends"
 draft = false
+title = "Me & My Friends"
+startDate = "2016-10-03"
+endDate = "2025-09-28"
+pageThumbnailFile = " "
+contributors = ["Cybersnout"]
+credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Caroline Richardson - Voice of Helen Henny", "Chris Hill - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Matt Daniel - Production Manager"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2017-00-00"
-endDate = "0000-00-00"
-contributors = ["CyberSnout"]
-citations = []
-mediaDuration = "2:55"
-pageThumbnailFile = "f2KD8SKw__HEhPxItesE.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
 
 ***Me &amp; My Friends*** is a live show released with {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}. Then in 2021 they made cuts to the *Ticket Splash*, alongside redoing the initial countdown of the show.
