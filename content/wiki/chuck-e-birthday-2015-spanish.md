@@ -1,10 +1,11 @@
 +++
-title = "Chuck E. Birthday 2015 Spanish"
 draft = false
+title = "Chuck E. Birthday 2015 Spanish"
+startDate = "2014-04-20"
+endDate = "2016-05-22"
+pageThumbnailFile = " "
+contributors = ["Cybersnout"]
+credits = ["Luis Leonardo Suárez - Voice of Chuck E. Cheese", "Unknown - Voice of Helen Henny", "Unknown - Voice of Mr. Munch", "Miguel Ángel Ruiz - Voice of Jasper T. Jowls", "Salvador Chantrés - Voice of Pasqually The Chef", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Manager"]
 tags = ["Live Shows"]
-categories = [""]
-pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
-contributors = []
+categories = ["Chuck E. Cheese's"]
 +++
