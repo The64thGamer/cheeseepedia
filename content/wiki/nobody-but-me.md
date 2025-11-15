@@ -1,10 +1,10 @@
 +++
 title = "Nobody But Me"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2005-00-00"
-endDate = "0000-00-00"
+startDate = "2005-04-00"
+endDate = "2005-06-00"
 contributors = ["The 64th Gamer"]
 citations = []
 +++
