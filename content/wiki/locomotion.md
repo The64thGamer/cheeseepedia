@@ -12,7 +12,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 ***Locomotion*** was the main live show for the {{< wiki-link "September 2002 Show" >}}. It is a cover of ['the song of the same name'](https://en.wikipedia.org/wiki/The_Loco-Motion) with Chuck E. singing lead. It is the only live show to utilize the puppets video feed on Studio C.
 ## Summary
-The live show consists of Chuck E. singing 'The Loco-Motion' with the rest of the band singing backup. The main footage is the January 2001 Show logo, with Studio C also having puppet footage.
+The live show consists of Chuck E. singing 'The Loco-Motion' with the rest of the band singing backup. The main footage is the January 2001 Show logo, with Studio C also having puppet footage. The birthday break uses music from one of the {{< wiki-link "September 2002 Show" >}} countdowns.
 ## Live Show List:
 1. ['The Loco-Motion'](https://en.wikipedia.org/wiki/The_Loco-Motion)
 2. Birthday Break
