@@ -1,7 +1,7 @@
 +++
 title = "BINGO"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2000-03-00"
 endDate = "2013-12-31"
