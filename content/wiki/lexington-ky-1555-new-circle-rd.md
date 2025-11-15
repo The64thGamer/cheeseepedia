@@ -80,7 +80,7 @@ By mid 2017 {{< wiki-link "Chuck E.'s Play Pass" >}} would be installed on all g
 During September 2019 the store would begin its {{< wiki-link "CEC 2.0 Remodel Program" >}}. The SkyTubes would be removed during the remodel and the {{< wiki-link "Studio C Beta" >}} would be removed by late September. {{< cite 34 >}} Lexington would celebrate its Grand Re-Opening on November 6, 2019 with Helen Henny and Mr. Munch. {{< cite 35 >}}
 
 
-### 2010's
+### 2020's
 In March 2020 the Lexington Chuck E. Cheese would close due to Covid-19. The location would re-open during Summer 2020. {{< cite 27 >}}
 
 In April 2024 a family stated they had severe sickness due to the food at the Lexington Chuck E. Cheese landing one in the hospital. The Chuck E. Cheese would soon after temporarily close due to the Lexington Fayette County Health Department and would shut down the kitchen. According to a statement released by CEC Entertainmy to WKYT they stated "on Tuesday, April 9th our location was inspected and failed because our new manager did not have a local health department food handler permit. This was caused by the sudden departure of the former manager of this location, who held the certificate/permit. Our new manager has already passed the exam, received the new permit and we are awaiting a new inspection to complete the paperwork on said certification". {{< cite 37 >}} The kitchen would reopen on April 12, 2024. On August 30, 2024 Lexington's Trampoline Zone would finish installation. {{< cite 36 >}}
