@@ -13,20 +13,18 @@ categories = ["Chuck E. Cheese's"]
 ## Live List:
 
 1. **Live 1**
-1. Them Bones (October only)
-2. **Live 2**
-1. Cupid Shuffle
-3. **Live 3**
-1. Happy & You Know It
-4. **Live 4**
-1. Birthday Star
-5. **Live 5**
-1. Spanish Birthday Star
-6. **Live 6**
-1. Head, Shoulders, Knees and Toes
-7. **Live 7**
-1. Old MacDonald
-8. **Live 8**
-1. B.I.N.G.O.
-
-
+2. {{< wiki-link "Them Bones" >}} (October only)
+3. **Live 2**
+4. {{< wiki-link "Cupid Shuffle 2012" >}}
+5. **Live 3**
+6. {{< wiki-link "Happy and You Know It 2012" >}}
+7. **Live 4**
+8. {{< wiki-link "Birthday Star 2001" >}}
+9. **Live 5**
+10. {{< wiki-link "Spanish Birthday Star 2001" >}}
+11. **Live 6**
+12. {{< wiki-link "Head, Shoulders, Knees and Toes" >}}
+13. **Live 7**
+14. {{< wiki-link "Old MacDonald" >}}
+15. **Live 8**
+16. {{< wiki-link "BINGO" >}}
