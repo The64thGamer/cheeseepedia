@@ -7,7 +7,7 @@ pageThumbnailFile = "cecswing99.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Showtapes", "Live Shows"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***'Chuck E. Swing'*** was a generic live show which was released alongside {{< wiki-link "April 1999" >}} and could be played until the end of June 2008. 

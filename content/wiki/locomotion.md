@@ -7,7 +7,7 @@ pageThumbnailFile = "locomotionliveshow2002.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Showtapes", "Live Shows"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Locomotion*** was the main live show for the {{< wiki-link "September 2002 Show" >}}. It is a cover of ['the song of the same name'](https://en.wikipedia.org/wiki/The_Loco-Motion) with Chuck E. singing lead. It is the only live show to utilize the puppets video feed on Studio C.

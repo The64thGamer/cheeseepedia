@@ -7,7 +7,7 @@ pageThumbnailFile = "cecshout1995mouth.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Ron Schneider - Voice of Mr. Mouth"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Showtapes", "Live Shows"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Shout*** is a live show which was released alongside {{< wiki-link "Don't Stop Thinking About Tomorrow" >}}. It featured the band programmed to sing the original Isley Brothers recording of ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song)) with Chuck E overlaid on top. This live show is considered lost media, with only the training video archived.
