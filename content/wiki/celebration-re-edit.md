@@ -6,8 +6,8 @@ endDate = "2000-03-00"
 pageThumbnailFile = "ceccelebratelive00.avif"
 contributors = ["Ceclife13"]
 mediaDuration = "8:18"
-showtapeFormats = ["Studio C 3X DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Live Shows"]
+showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
+tags = ["Live Shows", "Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Celebration 2000*** is a re-edit of {{< wiki-link "Celebration" >}}, which was released alongside {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}.
@@ -25,8 +25,7 @@ The live show starts with a five-minute countdown featuring Larry the Technician
 
 | Release Year | Showtape                             | Format            |
 |--------------|--------------------------------------|-------------------|
-| 2000         | SVHS Tape - January 2000 - March 2000 | 3-Stage, CEC-Stage |
-| 2000         | DVD + Floppy - January 2000 - March 2000 | Studio C |
+| 2000         | {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} | Studio C 3X DVD + Floppy|
 
 ## Live Trivia:
 
