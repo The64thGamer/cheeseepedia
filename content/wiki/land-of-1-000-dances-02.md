@@ -1,10 +1,10 @@
 +++
-title = "Land of 1,000 Dances 02"
+title = "Land of 1,000 Dances 2002"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2002-00-00"
-endDate = "0000-00-00"
+startDate = "2002-01-00"
+endDate = "2002-03-00"
 contributors = []
 +++
