@@ -4,7 +4,7 @@ draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1991-09-00"
-endDate = "1993-07-00"
+endDate = "1991-12-00"
 contributors = ["CyberSnout","MultiMonorail"]
 citations = ["https://www.youtube.com/watch?v=-KJrEngl0Zk"]
 mediaDuration = "5:00"
@@ -12,7 +12,7 @@ pageThumbnailFile = "rp5V_BlTyAX12R_4adwc.avif"
 showtapeFormats = ["3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 +++
 
-**Land Of 1,000 Dances** is a live show released September 1991. This show ran from September 1991 - July 1993.
+**Land Of 1,000 Dances** is a live show released September 1991. This show ran from September 1991 - December 1991.
 
 ## Summary:
 
@@ -22,7 +22,7 @@ Chuck and the band performs ['Land Of 1,000 Dances'](https://en.wikipedia.org/wi
 
 | Release Year | Showtape                              | Format            |
 |--------------|---------------------------------------|-------------------|
-| 1991         | VHS Tape - September 1991 - July 1993 | 3stage, Cyberamic |
+| 1991         | VHS Tape - September 1991 - December 1991 | 3stage, Cyberamic |
 |              |                                       |                   |
 
 ## Trivia:
