@@ -9,7 +9,7 @@ credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Stephanie Nadolny - Voi
 mediaDuration = "15:10"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/Celebration%2094%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Live Shows"]
+tags = ["Live Shows", "Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Celebration*** is a live show released in August 1994, which features a cover of the song ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song)).
@@ -24,12 +24,6 @@ The tape starts with a five-minute countdown featuring Larry the Technician gett
 2. ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song))
 3. Birthday Break
 4. {{< wiki-link "Birthday Star '92" >}}
-
-## Showtape Releases:
-
-| Release Year | Showtape                             | Format            |
-|--------------|--------------------------------------|-------------------|
-| 1994         | SVHS Tape - August 1994 - September 1994 | 3-Stage, CEC-Stage |
 
 
 ## Live Trivia:
