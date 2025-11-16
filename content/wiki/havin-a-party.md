@@ -2,7 +2,7 @@
 draft = false
 title = "Havin' A Party"
 startDate = "1992-09-00"
-endDate = "2000-12-00"
+endDate = "2001-12-00"
 pageThumbnailFile = "havinaparty92.avif"
 contributors = ["CyberSnout"]
 citations = ["https://www.youtube.com/watch?v=R78H7Hh9K2A"]
