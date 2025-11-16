@@ -1,7 +1,7 @@
-
 {{- $currentTitle := .Title -}}
 {{- $tags := .Params.tags | default (slice) -}}
 {{- $paramName := "" -}}
+
 {{- if in $tags "Animatronics" -}}
   {{- $paramName = "animatronics" -}}
 {{- else if in $tags "Arcades and Attractions" -}}
@@ -16,14 +16,26 @@
   {{- $allPages := partialCached "grab-all-wiki-articles.html" . -}}
   {{- $foundAny := false -}}
 
+  <h2>Installations</h2>
+
   <table class="related-usage-table" aria-label="Related usage table">
     <thead>
       <tr>
-        <th>Originating article</th>
-        <th>Dates</th>
-        <th>Notes</th>
+        <th>Location</th>
+        <th>Operating Dates</th>
+
+        {{- if eq $paramName "stages" -}}
+          <th>Version</th>
+        {{- else if eq $paramName "animatronics" -}}
+          <th>Serial Number</th>
+          <th>Notes</th>
+        {{- else -}}
+          <th>Notes</th>
+        {{- end -}}
+
       </tr>
     </thead>
+
     <tbody>
     {{- range $allPages -}}
       {{- $other := . -}}
@@ -31,23 +43,22 @@
         {{- $entries := index $other.Params $paramName -}}
         {{- if $entries -}}
           {{- range $entries -}}
-            {{- $entry := . -}}
-            {{- $parts := split $entry "|" -}}
+            {{- $parts := split . "|" -}}
             {{- $name := trim (index $parts 0) " " -}}
 
-            {{- /* forgiving match: exact or substring either way */ -}}
             {{- if or (eq $name $currentTitle) (strings.Contains $name $currentTitle) (strings.Contains $currentTitle $name) -}}
-              {{- /* mark found */ -}}
               {{- $foundAny = true -}}
+
               <tr>
+                <!-- LOCATION -->
+                <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
+
+                <!-- OPERATING DATES -->
                 <td>
-                  <a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a>
-                </td>
-                <td>
-                  {{- $lenParts := len $parts -}}
-                  {{- $start := "" -}}{{- $end := "" -}}
-                  {{- if ge $lenParts 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
-                  {{- if ge $lenParts 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
+                  {{- $start := "" -}}
+                  {{- $end := "" -}}
+                  {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+                  {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
 
                   {{- $validStart := and (ne $start "") (ne $start "0000-00-00") -}}
                   {{- $validEnd := and (ne $end "") (ne $end "0000-00-00") -}}
@@ -55,10 +66,10 @@
                   {{- if $validStart -}}
                     {{- partial "date-to-readable-date.html" $start -}}
                     {{- if $validEnd -}}
-                      {{- printf " – " -}}
+                      {{- " – " -}}
                       {{- partial "date-to-readable-date.html" $end -}}
                     {{- else if eq $end "0000-00-00" -}}
-                      {{- printf " – Present" -}}
+                      {{- " – Present" -}}
                     {{- end -}}
                   {{- else if $validEnd -}}
                     {{- partial "date-to-readable-date.html" $end -}}
@@ -68,25 +79,65 @@
                     —
                   {{- end -}}
                 </td>
-                <td>
-                  {{- /* build notes string safely (avoid append/slice issues) */ -}}
-                  {{- $notesStr := "" -}}
-                  {{- range $i, $p := $parts -}}
-                    {{- if ge $i 3 -}}
-                      {{- $trimmed := trim $p " " -}}
-                      {{- if eq $notesStr "" -}}
-                        {{- $notesStr = $trimmed -}}
-                      {{- else -}}
-                        {{- $notesStr = printf "%s | %s" $notesStr $trimmed -}}
+
+                <!-- EXTRA FIELDS -->
+                {{- if eq $paramName "animatronics" -}}
+                  <!-- SERIAL NUMBER (4th pipe piece) -->
+                  <td>
+                    {{- if ge (len $parts) 4 -}}
+                      {{- trim (index $parts 3) " " -}}
+                    {{- else -}}
+                      &nbsp;
+                    {{- end -}}
+                  </td>
+
+                  <!-- NOTES (from 5th pipe onward) -->
+                  <td>
+                    {{- $notes := slice -}}
+                    {{- range $i, $p := $parts -}}
+                      {{- if ge $i 4 -}}
+                        {{- $notes = append $notes (trim $p " ") -}}
                       {{- end -}}
                     {{- end -}}
-                  {{- end -}}
-                  {{- if ne $notesStr "" -}}
-                    {{- $notesStr -}}
-                  {{- else -}}
-                    &nbsp;
-                  {{- end -}}
-                </td>
+                    {{- if gt (len $notes) 0 -}}
+                      {{- delimit $notes " | " -}}
+                    {{- else -}}
+                      &nbsp;
+                    {{- end -}}
+                  </td>
+
+                {{- else if eq $paramName "stages" -}}
+                  <!-- VERSION -->
+                  <td>
+                    {{- if ge (len $parts) 4 -}}
+                      {{- trim (index $parts 3) " " -}}
+                    {{- else -}}
+                      &nbsp;
+                    {{- end -}}
+                  </td>
+
+                {{- else -}}
+                  <!-- NOTES (generic) -->
+                  <td>
+                    {{- $notesStr := "" -}}
+                    {{- range $i, $p := $parts -}}
+                      {{- if ge $i 3 -}}
+                        {{- $trim := trim $p " " -}}
+                        {{- if eq $notesStr "" -}}
+                          {{- $notesStr = $trim -}}
+                        {{- else -}}
+                          {{- $notesStr = printf "%s | %s" $notesStr $trim -}}
+                        {{- end -}}
+                      {{- end -}}
+                    {{- end -}}
+                    {{- if ne $notesStr "" -}}
+                      {{- $notesStr -}}
+                    {{- else -}}
+                      &nbsp;
+                    {{- end -}}
+                  </td>
+                {{- end }}
+
               </tr>
             {{- end -}}
           {{- end -}}
@@ -95,8 +146,4 @@
     {{- end -}}
     </tbody>
   </table>
-
-  {{- if not $foundAny -}}
-    <p class="related-usage-none">No other articles reference this item in the {{ $paramName }} parameter.</p>
-  {{- end -}}
 {{- end -}}

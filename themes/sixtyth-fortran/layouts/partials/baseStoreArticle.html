@@ -67,17 +67,29 @@
   {{- end }}
   {{- with .Params.attractions }}
     <h2>Attractions</h2>
-    <ul>
-      {{- range . }}
-        {{- $parts := split . "|" -}}
-        {{- $name := index $parts 0 -}}
-        {{- $start := index $parts 1 -}}
-        {{- $end := index $parts 2 -}}
-        <li>
-          {{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }})
-        </li>
-      {{- end }}
-    </ul>
+    <table>
+      <thead>
+        <tr>
+          <th>Attraction</th>
+          <th>Operation</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range . }}
+          {{- $parts := split . "|" -}}
+          {{- $name := index $parts 0 -}}
+          {{- $start := index $parts 1 -}}
+          {{- $end := index $parts 2 -}}
+          {{- $notes := index $parts 3 -}}
+          <tr>
+              <td>{{ partial "wiki-link.html" (dict "name" $name "context" $) }}</td>
+              <td>{{ partial "date-to-readable-date.html" $start }} – {{ partial "date-to-readable-date.html" $end }}</td>
+              <td>{{ $notes }}</td>
+          </tr>
+        {{- end }}
+      </tbody>
+    </table>
   {{- end }}
 </div>
 {{- if ne $gallery "" -}}
