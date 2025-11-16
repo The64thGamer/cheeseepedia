@@ -2,7 +2,7 @@
 title = "Chuck E. Parade (Pure Imagination)"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 startDate = "1990-00-00"
 endDate = "1990-00-00"
 contributors = ["CyberSnout","The 64th Gamer"]
