@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Them Bones"
+title = "Them Bones (Chucktober)"
 startDate = "2012-09-01"
 endDate = "2015-11-01"
 pageThumbnailFile = "cecthemboneslive2012.avif"
