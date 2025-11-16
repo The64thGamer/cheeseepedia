@@ -21,7 +21,7 @@ The main five animatronics would all use a standardized head and body mech for g
 
 * Chuck E. Cheese (Cyberamic)
 * {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
-* {{< wiki-link "Mr Munch (Cyberamic)" >}}
+* {{< wiki-link "Mr. Munch (Cyberamic)" >}}
 * {{< wiki-link "Pasqually (Cyberamic)" >}}
 * {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
 
@@ -37,7 +37,7 @@ A large animatronic with a similar base to the main cast would be made for the C
 
 * {{< wiki-link "Dolli Dimples (Cabaret)" >}}
 * {{< wiki-link "Artie Antlers (Cabaret)" >}}
-* {{< wiki-link "BB Bubbles (Cabaret)" >}}
+* {{< wiki-link "B.B. Bubbles (Cabaret)" >}}
 
 Additional unique characters would be built for the Lounge and Ice Cream Emporium sections of stores.
 

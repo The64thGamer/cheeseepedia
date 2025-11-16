@@ -57,7 +57,7 @@ The 'Bird Stage' was the area used for {{< wiki-link "Warblettes (Cyberamic)" >}
 
 #### Munch Stage/Left Stage
 
-The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-link "Mr Munch (Cyberamic)" >}}. The area was placed over the left entrance of the Cheese-Crawl. The area would have signage saying 'Mr. Munch'. The area had an outward Balcony. The area had 2 Barriers on the Left & Right sides.
+The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-link "Mr. Munch (Cyberamic)" >}}. The area was placed over the left entrance of the Cheese-Crawl. The area would have signage saying 'Mr. Munch'. The area had an outward Balcony. The area had 2 Barriers on the Left & Right sides.
 
 #### Main Stage/Center Stage
 

@@ -2,7 +2,7 @@
 title = "https://archive.org/details/paintingbynumbers/paintingbynumbersreel2.mov"
 startdate = "1981-12-21"
 citations = []
-pages = ["Sunnyvale, CA (1247 W El Camino Real)", "Cyberamics Portrait / Shelf Stage", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Mr Munch (Cyberamic)", "Pasqually (Cyberamic)"]
+pages = ["Sunnyvale, CA (1247 W El Camino Real)", "Cyberamics Portrait / Shelf Stage", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Mr. Munch (Cyberamic)", "Pasqually (Cyberamic)"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]
 +++
