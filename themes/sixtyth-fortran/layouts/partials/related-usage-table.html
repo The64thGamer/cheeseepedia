@@ -1,3 +1,4 @@
+
 {{- $currentTitle := .Title -}}
 {{- $tags := .Params.tags | default (slice) -}}
 {{- $paramName := "" -}}
@@ -11,7 +12,6 @@
   {{- $paramName = "remodels" -}}
 {{- end -}}
 
-{{- /* Only render when the page is one of the watch-tags */ -}}
 {{- if ne $paramName "" -}}
   {{- $allPages := partialCached "grab-all-wiki-articles.html" . -}}
   {{- $foundAny := false -}}
@@ -35,8 +35,9 @@
             {{- $parts := split $entry "|" -}}
             {{- $name := trim (index $parts 0) " " -}}
 
-            {{- /* match if exactly equal or substring both ways (for forgiving matches like "Chuck E. Cheese (Cyberamic)") */ -}}
+            {{- /* forgiving match: exact or substring either way */ -}}
             {{- if or (eq $name $currentTitle) (strings.Contains $name $currentTitle) (strings.Contains $currentTitle $name) -}}
+              {{- /* mark found */ -}}
               {{- $foundAny = true -}}
               <tr>
                 <td>
@@ -68,16 +69,20 @@
                   {{- end -}}
                 </td>
                 <td>
-                  {{- /* collect remaining parts (index >= 3) into a notes slice */ -}}
-                  {{- $notes := slice -}}
+                  {{- /* build notes string safely (avoid append/slice issues) */ -}}
+                  {{- $notesStr := "" -}}
                   {{- range $i, $p := $parts -}}
                     {{- if ge $i 3 -}}
-                      {{- $notes = append $notes (trim $p " ") -}}
+                      {{- $trimmed := trim $p " " -}}
+                      {{- if eq $notesStr "" -}}
+                        {{- $notesStr = $trimmed -}}
+                      {{- else -}}
+                        {{- $notesStr = printf "%s | %s" $notesStr $trimmed -}}
+                      {{- end -}}
                     {{- end -}}
                   {{- end -}}
-
-                  {{- if gt (len $notes) 0 -}}
-                    {{- delimit $notes " | " -}}
+                  {{- if ne $notesStr "" -}}
+                    {{- $notesStr -}}
                   {{- else -}}
                     &nbsp;
                   {{- end -}}
@@ -94,5 +99,4 @@
   {{- if not $foundAny -}}
     <p class="related-usage-none">No other articles reference this item in the {{ $paramName }} parameter.</p>
   {{- end -}}
-
 {{- end -}}
