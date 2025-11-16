@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Head, Shoulders, Knees and Toes (Rockstar)"
+title = "Head, Shoulders, Knees and Toes 2013"
 startDate = "2013-09-01"
 endDate = "2020-03-17"
 pageThumbnailFile = " "
