@@ -41,6 +41,7 @@ The footage is a parody of the GAP 'Khaki Swing' commercial, with a CEC version 
 | 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "January 2002 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "April 2002 Show" >}}                       | Studio C 3X DVD + Floppy                             |
+| 2002         | {{< wiki-link "Summer 2002 Show" >}}                      | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Holiday 2002" >}}                          | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Best of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
