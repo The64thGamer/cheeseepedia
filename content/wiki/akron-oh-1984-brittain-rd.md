@@ -2,7 +2,7 @@
 title = "Akron, OH (1984 Brittain Rd)"
 storeNumber = ""
 startDate = "1982-05-12"
-endDate = "1991-12-00"
+endDate = "1991-11-00"
 cuDate = ""
 remodels = []
 stages = []
