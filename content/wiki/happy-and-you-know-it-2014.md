@@ -6,5 +6,5 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2014-09-01"
 endDate = "2020-03-17"
-contributors = [Ceclife13]
+contributors = ["Ceclife13"]
 +++
