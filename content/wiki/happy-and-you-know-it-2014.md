@@ -1,10 +1,10 @@
 +++
-title = "Spanish Chuck E. Swing"
+title = "Happy and You Know It 2014"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "2014-09-01"
+endDate = "2020-03-17"
 contributors = ["Ceclife13"]
 +++
