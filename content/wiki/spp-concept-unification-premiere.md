@@ -4,8 +4,8 @@ title = "SPP Concept Unification Premiere"
 startDate = "1990-06-21"
 endDate = "1993-00-00"
 pageThumbnailFile = "mNmEAO7N96wrYGZAMVKY.avif"
-contributors = ["The 64th Gamer", "BurgersNuggs445", "DerekCat", "Anonymous", "Anonymous", "CECCheese", "CEC Tinley", "Saan1ty", "SuperCreamPiper2008", "Ceclife13"]
-citations = ["https://youtu.be/Y3RwnSxGcnE?feature=shared"]
+contributors = ["The 64th Gamer", "BurgersNuggs445", "DerekCat", "Anonymous", "Anonymous", "CECCheese", "CEC Tinley", "Saan1ty", "SuperCreamPiper2008", "Ceclife13", "randomguyfan22"]
+citations = ["https://youtu.be/Y3RwnSxGcnE?feature=shared", "https://www.youtube.com/watch?v=CSysePQBmtY", "https://www.youtube.com/watch?v=Gci3Gg7aXOs&t=9s"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Chuck E. Cheese & Mr. Munch Voice Actor", "Nancy Lenihan|Helen Henny Voice Actress", "Bob West|Pasqually & Jasper T. Jowls Voice Actor", "Audio Production|Sundance Productions"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)"]
 transcriptions = ["CU Premiere Segment 1", "CU Premiere Segment 2", "CU Premiere Segment 3"]
