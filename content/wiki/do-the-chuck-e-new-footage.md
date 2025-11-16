@@ -1,10 +1,10 @@
 +++
-title = "Do The Chuck E.! (New Footage)"
+title = "Do The Chuck E.! 2016"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
-contributors = []
+startDate = "2015-12-28"
+endDate = "2018-06-16"
+contributors = [Ceclife13]
 +++
