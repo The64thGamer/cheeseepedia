@@ -1,6 +1,6 @@
 +++
 title = "cecthemboneslive2012.avif"
-pages = ["Them Bones"]
+pages = ["Them Bones (Chucktober)"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
