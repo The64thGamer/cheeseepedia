@@ -5,8 +5,7 @@ startDate = "1995-01-23"
 endDate = "2015-06-14"
 cuDate = ""
 remodels = [
-  "SPT 1990's Remodel Program|1995-00-00",
-  "CEC 2000's Remodel Program|2003-00-00"
+  "SPT 1990's Remodel Program|1995-00-00"
 ]
 stages = [
   "1-Stage|1995-00-00|2003-00-00",
