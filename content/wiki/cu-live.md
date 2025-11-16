@@ -1,7 +1,6 @@
 +++
 title = "CU Live"
 draft = false
-draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1991-04-05"
