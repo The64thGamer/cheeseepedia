@@ -140,6 +140,7 @@
         <div id="section-article" class="article-section">
             {{- partial "display-infobox.html" . -}}
             {{- .Content | safeHTML}}
+            {{ partial "related-usage-table.html" . }}
             {{- partial "display-citations.html" . -}}
         </div>
         {{- if ne $gallery "" -}}

@@ -1,0 +1,121 @@
+{{- /*
+  related-usage-table.html
+  Finds other pages that reference the current page's Title inside
+  one of these params: attractions, stages, animatronics, remodels
+  The param checked depends on the current page's tag.
+
+  Place this partial where you want the table to appear (for example
+  right after the infobox).
+*/ -}}
+
+{{- $currentTitle := .Title -}}
+
+{{- /* decide which param to check based on tags */ -}}
+{{- $tags := .Params.tags | default (slice) -}}
+{{- $paramName := "" -}}
+{{- if in $tags "Animatronics" -}}
+  {{- $paramName = "animatronics" -}}
+{{- else if in $tags "Arcades and Attractions" -}}
+  {{- $paramName = "attractions" -}}
+{{- else if in $tags "Stage Variations" -}}
+  {{- $paramName = "stages" -}}
+{{- else if in $tags "Remodels and Initiatives" -}}
+  {{- $paramName = "remodels" -}}
+{{- end -}}
+
+{{- /* nothing to do if not one of the four */ -}}
+{{- if eq $paramName "" -}}
+  {{- /* not one of the watch-tags, bail out */ -}}
+  {{- return -}}
+{{- end -}}
+
+{{- /* grab all wiki pages (you already use this partial elsewhere) */ -}}
+{{- $allPages := partialCached "grab-all-wiki-articles.html" . -}}
+
+{{- /* build rows: we'll print them directly */ -}}
+{{- $foundAny := false -}}
+
+<table class="related-usage-table" aria-label="Related usage table">
+  <thead>
+    <tr>
+      <th>Originating article</th>
+      <th>Dates</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+  {{- range $allPages -}}
+    {{- $other := . -}}
+    {{- /* skip self */ -}}
+    {{- if ne $other.Title $currentTitle -}}
+      {{- $entries := index $other.Params $paramName -}}
+      {{- if $entries -}}
+        {{- range $entries -}}
+          {{- $entry := . -}}              {{/* string like "Name|start|end|note|..." */}}
+          {{- $parts := split $entry "|" -}}
+          {{- $name := trim (index $parts 0) " " -}}
+
+          {{- /* Match if the current page title appears inside the name field
+                 or title equals name. This keeps it reasonably forgiving. */ -}}
+          {{- if or (eq $name $currentTitle) (in $name $currentTitle) (in $currentTitle $name) -}}
+            {{- $foundAny = true -}}
+            <tr>
+              <td>
+                <a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a>
+              </td>
+              <td>
+                {{- /* Determine start/end/date formatting: parts[1], parts[2] */ -}}
+                {{- $lenParts := len $parts -}}
+                {{- $start := "" -}}{{- $end := "" -}}
+                {{- if ge $lenParts 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+                {{- if ge $lenParts 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
+
+                {{- /* helper: treat empty or "0000-00-00" as missing */ -}}
+                {{- $isValid := func (v string) bool -}}
+                  {{- return and (ne v "") (ne v "0000-00-00") -}}
+                {{- end -}}
+
+                {{- if call $isValid $start -}}
+                  {{- /* print start */ -}}
+                  {{- partial "date-to-readable-date.html" $start -}}
+                  {{- if call $isValid $end -}}
+                    {{- printf " – " -}}
+                    {{- partial "date-to-readable-date.html" $end -}}
+                  {{- else if and (ne $end "") (eq $end "0000-00-00") -}}
+                    {{- printf " – Present" -}}
+                  {{- end -}}
+                {{- else if call $isValid $end -}}
+                  {{- partial "date-to-readable-date.html" $end -}}
+                {{- else -}}
+                  {{- /* no valid date data */ -}}
+                  —
+                {{- end -}}
+              </td>
+              <td>
+                {{- /* Collect any remaining fields after index 2 as notes */ -}}
+                {{- $.Scratch.Delete "notesParts" -}}
+                {{- range $i, $p := $parts -}}
+                  {{- if ge $i 3 -}}
+                    {{- $.Scratch.Add "notesParts" (trim $p " ") -}}
+                  {{- end -}}
+                {{- end -}}
+                {{- $notesSlice := $.Scratch.Get "notesParts" | default (slice) -}}
+                {{- if gt (len $notesSlice) 0 -}}
+                  {{- delimit $notesSlice " | " -}}
+                {{- else -}}
+                  {{- /* nothing to show */ -}}
+                  &nbsp;
+                {{- end -}}
+              </td>
+            </tr>
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  </tbody>
+</table>
+
+{{- if not $foundAny -}}
+  <p class="related-usage-none">No other articles reference this item in the {{ $paramName }} parameter.</p>
+{{- end -}}
