@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Taking Care of Business, Rhyming Rap"
-startDate = "1992-00-00"
-endDate = "0000-00-00"
+startDate = "1992-01-00"
+endDate = "1992-04-00"
 pageThumbnailFile = ""
 contributors = ["showbizdudebeta"]
 citations = ["https://www.youtube.com/watch?v=hVtRsjJDmeg&list=PLTXoj5l850hEIzZMPH4nUYMr6ZoxQnmfM&index=4"]
