@@ -74,9 +74,9 @@ Some time between 1987 to 1991 (likely within the range of 1989-1990), the store
 
 On November 7th, 2023, CEC Corporate would need a set of curtains to use for the upcoming grand reopening of the {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} store as the first of the {{< wiki-link "CEC Legacy Locations" >}}. As Huntington was closeby and had working curtains, they were removed from the store and reinstalled at Northridge on November 7th, 2023.
 
-In early 2024 it would be rumored that the store would be closing down and relocating to a new address. 
+On February 18th, 2024, a conversation between a fan and an employee of the store would reveal the store's plans to relocate to a new building. This would be due to the owners not wanting to renew the release, deciding to move the store to a nearby fabric store. The store would initially be set to close mid to late 2024. On March 12th bidding for contractors for the new location would commence on Parkway, with another round happening on October 4th, 2024. Huntington would continue operating past its initial plans for closure.
 
-The relocation store would be found in construction on February 8th, 2025, being {{< wiki-link "Huntington Beach, CA (15031 Goldenwest St)" >}}.{{< cite 32 >}} Huntington would recieve the {{< wiki-link "Bella's Snack Shop" >}} extension sometime between June 14th and June 27th, 2025.{{< cite 30 >}}{{< cite 31 >}} The relocation store would then open on September 6th, 2025, operating alongside the old location. The store would finally close on September 21, 2025.
+The new location would begin construction in January of 2025, with rumored plans to open in August of the same year. The relocation store would be found in construction on February 8th, 2025, being {{< wiki-link "Huntington Beach, CA (15031 Goldenwest St)" >}}, a former Joanne's fabric store.{{< cite 32 >}} Huntington would recieve the {{< wiki-link "Bella's Snack Shop" >}} extension sometime between June 14th and June 27th, 2025.{{< cite 30 >}}{{< cite 31 >}} The relocation store would then open on September 6th, 2025, operating alongside the old location. The old store would finally close on September 21, 2025.
 
 
 
