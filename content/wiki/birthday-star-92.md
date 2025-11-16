@@ -2,7 +2,7 @@
 draft = false
 title = "Birthday Star '92"
 startDate = "1992-03-00"
-endDate = "2002-08-00"
+endDate = "2002-11-00"
 pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
 contributors = ["The 64th Gamer", "Anonymous", "Pasquallytheplumber", "Anonymous", "Anonymous", "CyberSnout", "MultiMonorail"]
 citations = ["https://archive.org/details/aps-yellow-case"]
