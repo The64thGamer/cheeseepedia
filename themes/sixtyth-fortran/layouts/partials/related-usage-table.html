@@ -91,20 +91,20 @@
                     {{- end -}}
                   </td>
 
-                  <!-- NOTES (from 5th pipe onward) -->
-                  <td>
-                    {{- $notes := slice -}}
-                    {{- range $i, $p := $parts -}}
-                      {{- if ge $i 4 -}}
-                        {{- $notes = append $notes (trim $p " ") -}}
-                      {{- end -}}
+                <!-- NOTES (from 5th pipe onward) -->
+                <td>
+                {{- $animNotes := slice -}}
+                {{- range $i, $p := $parts -}}
+                    {{- if ge $i 4 -}}
+                    {{- $animNotes = $animNotes | append (trim $p " ") -}}
                     {{- end -}}
-                    {{- if gt (len $notes) 0 -}}
-                      {{- delimit $notes " | " -}}
-                    {{- else -}}
-                      &nbsp;
-                    {{- end -}}
-                  </td>
+                {{- end -}}
+                {{- if gt (len $animNotes) 0 -}}
+                    {{- delimit $animNotes " | " -}}
+                {{- else -}}
+                    &nbsp;
+                {{- end -}}
+                </td>
 
                 {{- else if eq $paramName "stages" -}}
                   <!-- VERSION -->
