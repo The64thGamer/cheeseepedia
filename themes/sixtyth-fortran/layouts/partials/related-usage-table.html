@@ -14,7 +14,54 @@
 
 {{- if ne $paramName "" -}}
   {{- $allPages := partialCached "grab-all-wiki-articles.html" . -}}
-  {{- $foundAny := false -}}
+
+  {{/* Build a sortable list of all matching entries */}}
+  {{- $entriesList := slice -}}
+
+  {{- range $allPages -}}
+    {{- $other := . -}}
+    {{- if ne $other.Title $currentTitle -}}
+      {{- $entries := index $other.Params $paramName -}}
+      {{- if $entries -}}
+        {{- range $entries -}}
+          {{- $parts := split . "|" -}}
+          {{- $name := trim (index $parts 0) " " -}}
+
+          {{/* Strict exact-match on the entire name field (no partial matches) */}}
+          {{- if eq $name $currentTitle -}}
+
+            {{/* Extract dates */}}
+            {{- $start := "" -}}
+            {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+
+            {{/* Split into YYYY MM DD and normalize zeros to 99 */}}
+            {{- $s := $start | default "9999-99-99" -}}
+            {{- $sp := split $s "-" -}}
+            {{- $year := index $sp 0 | default "9999" -}}
+            {{- $month := index $sp 1 | default "99" -}}
+            {{- $day := index $sp 2 | default "99" -}}
+
+            {{- if eq $year "0000" }}{{ $year = "9999" }}{{ end -}}
+            {{- if eq $month "00" }}{{ $month = "99" }}{{ end -}}
+            {{- if eq $day "00" }}{{ $day = "99" }}{{ end -}}
+
+            {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
+
+            {{/* Push into sortable list */}}
+            {{- $entriesList = $entriesList | append (dict
+              "page" $other
+              "parts" $parts
+              "sort" $sortKey
+            ) -}}
+
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{/* Sort all collected entries by normalized date */}}
+  {{- $sorted := sort $entriesList "sort" -}}
 
   <h2>Installations</h2>
 
@@ -37,113 +84,104 @@
     </thead>
 
     <tbody>
-    {{- range $allPages -}}
-      {{- $other := . -}}
-      {{- if ne $other.Title $currentTitle -}}
-        {{- $entries := index $other.Params $paramName -}}
-        {{- if $entries -}}
-          {{- range $entries -}}
-            {{- $parts := split . "|" -}}
-            {{- $name := trim (index $parts 0) " " -}}
 
-            {{- if or (eq $name $currentTitle) (strings.Contains $name $currentTitle) (strings.Contains $currentTitle $name) -}}
-              {{- $foundAny = true -}}
+    {{- range $sorted -}}
+      {{- $other := .page -}}
+      {{- $parts := .parts -}}
 
-              <tr>
-                <!-- LOCATION -->
-                <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
+      <tr>
 
-                <!-- OPERATING DATES -->
-                <td>
-                  {{- $start := "" -}}
-                  {{- $end := "" -}}
-                  {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
-                  {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
+        <!-- LOCATION -->
+        <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
 
-                  {{- $validStart := and (ne $start "") (ne $start "0000-00-00") -}}
-                  {{- $validEnd := and (ne $end "") (ne $end "0000-00-00") -}}
+        <!-- OPERATING DATES -->
+        <td>
+          {{- $start := "" -}}
+          {{- $end := "" -}}
+          {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+          {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
 
-                  {{- if $validStart -}}
-                    {{- partial "date-to-readable-date.html" $start -}}
-                    {{- if $validEnd -}}
-                      {{- " – " -}}
-                      {{- partial "date-to-readable-date.html" $end -}}
-                    {{- else if eq $end "0000-00-00" -}}
-                      {{- " – Present" -}}
-                    {{- end -}}
-                  {{- else if $validEnd -}}
-                    {{- partial "date-to-readable-date.html" $end -}}
-                  {{- else if eq $end "0000-00-00" -}}
-                    Present
-                  {{- else -}}
-                    —
-                  {{- end -}}
-                </td>
+          {{- $validStart := and (ne $start "") (ne $start "0000-00-00") -}}
+          {{- $validEnd := and (ne $end "") (ne $end "0000-00-00") -}}
 
-                <!-- EXTRA FIELDS -->
-                {{- if eq $paramName "animatronics" -}}
-                  <!-- SERIAL NUMBER (4th pipe piece) -->
-                  <td>
-                    {{- if ge (len $parts) 4 -}}
-                      {{- trim (index $parts 3) " " -}}
-                    {{- else -}}
-                      &nbsp;
-                    {{- end -}}
-                  </td>
-
-                <!-- NOTES (from 5th pipe onward) -->
-                <td>
-                {{- $animNotes := slice -}}
-                {{- range $i, $p := $parts -}}
-                    {{- if ge $i 4 -}}
-                    {{- $animNotes = $animNotes | append (trim $p " ") -}}
-                    {{- end -}}
-                {{- end -}}
-                {{- if gt (len $animNotes) 0 -}}
-                    {{- delimit $animNotes " | " -}}
-                {{- else -}}
-                    &nbsp;
-                {{- end -}}
-                </td>
-
-                {{- else if eq $paramName "stages" -}}
-                  <!-- VERSION -->
-                  <td>
-                    {{- if ge (len $parts) 4 -}}
-                      {{- trim (index $parts 3) " " -}}
-                    {{- else -}}
-                      &nbsp;
-                    {{- end -}}
-                  </td>
-
-                {{- else -}}
-                  <!-- NOTES (generic) -->
-                  <td>
-                    {{- $notesStr := "" -}}
-                    {{- range $i, $p := $parts -}}
-                      {{- if ge $i 3 -}}
-                        {{- $trim := trim $p " " -}}
-                        {{- if eq $notesStr "" -}}
-                          {{- $notesStr = $trim -}}
-                        {{- else -}}
-                          {{- $notesStr = printf "%s | %s" $notesStr $trim -}}
-                        {{- end -}}
-                      {{- end -}}
-                    {{- end -}}
-                    {{- if ne $notesStr "" -}}
-                      {{- $notesStr -}}
-                    {{- else -}}
-                      &nbsp;
-                    {{- end -}}
-                  </td>
-                {{- end }}
-
-              </tr>
+          {{- if $validStart -}}
+            {{- partial "date-to-readable-date.html" $start -}}
+            {{- if $validEnd -}}
+              – {{ partial "date-to-readable-date.html" $end }}
+            {{- else if eq $end "0000-00-00" -}}
+              – Present
             {{- end -}}
+          {{- else if $validEnd -}}
+            {{- partial "date-to-readable-date.html" $end -}}
+          {{- else if eq $end "0000-00-00" -}}
+            Present
+          {{- else -}}
+            —
           {{- end -}}
-        {{- end -}}
-      {{- end -}}
+        </td>
+
+        <!-- EXTRA FIELDS -->
+        {{- if eq $paramName "animatronics" -}}
+          <!-- SERIAL NUMBER -->
+          <td>
+            {{- if ge (len $parts) 4 -}}
+              {{- trim (index $parts 3) " " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+          <!-- NOTES -->
+          <td>
+            {{- $animNotes := slice -}}
+            {{- range $i, $p := $parts -}}
+              {{- if ge $i 4 -}}
+                {{- $animNotes = $animNotes | append (trim $p " ") -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if gt (len $animNotes) 0 -}}
+              {{- delimit $animNotes " | " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+        {{- else if eq $paramName "stages" -}}
+          <!-- VERSION -->
+          <td>
+            {{- if ge (len $parts) 4 -}}
+              {{- trim (index $parts 3) " " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+        {{- else -}}
+          <!-- NOTES (generic) -->
+          <td>
+            {{- $notesStr := "" -}}
+            {{- range $i, $p := $parts -}}
+              {{- if ge $i 3 -}}
+                {{- $trim := trim $p " " -}}
+                {{- if eq $notesStr "" -}}
+                  {{- $notesStr = $trim -}}
+                {{- else -}}
+                  {{- $notesStr = printf "%s | %s" $notesStr $trim -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if ne $notesStr "" -}}
+              {{- $notesStr -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+        {{- end }}
+
+      </tr>
     {{- end -}}
+
     </tbody>
   </table>
+
 {{- end -}}
