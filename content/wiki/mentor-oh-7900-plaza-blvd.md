@@ -2,7 +2,7 @@
 title = "Mentor, OH (7900 Plaza Blvd #170a)"
 storeNumber = ""
 startDate = "1982-06-00"
-endDate = "1991-12-00"
+endDate = "1991-11-00"
 cuDate = ""
 remodels = []
 stages = []
