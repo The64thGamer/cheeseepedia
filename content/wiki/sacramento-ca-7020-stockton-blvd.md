@@ -7,6 +7,7 @@ cuDate = ""
 remodels = []
 stages = ["Cyberamics Portrait / Shelf Stage|1979-08-14|1985-00-00"]
 franchisees = []
+animatronics = ["Chuck E. Cheese (Cyberamic)|1979-08-14|1985-00-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-08-14|1985-00-00|N/A|Unknown","Mr Munch (Cyberamic)|1979-08-14|1985-00-00|N/A|Unknown","Pasqually (Cyberamic)|1979-08-14|1985-00-00|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1979-08-14|1985-00-00|N/A|Unknown","Dolli Dimples (Cabaret)|1979-08-14|0000-00-00|N/A|Unknown","Artie Antlers (Cabaret)|1980-00-00|0000-00-00|N/A|Unknown"]
 attractions = []
 sqft = "10,800"
 latitudeLongitude = ["38.499803","-121.430994"]
