@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Chuck E.'s Birthday 2016"
+title = "Chuck E. Birthday 2016"
 startDate = "2016-03-28"
 endDate = "2016-10-02"
 pageThumbnailFile = " "
