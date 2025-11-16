@@ -10,7 +10,7 @@ credits = ["Scott Wilson - Voice of Chuck E. Cheese", "Connie Nelson - Voice of 
 citations = []
 mediaDuration = "11:26"
 pageThumbnailFile = "m343ZtjFK3uTm55jtFnG.avif"
-showtapeFormats = ["Cyberamics Betamax","Cyberamics Reel","Cyberamics SVHS"]
+showtapeFormats = ["Cyberamics Betamax","Cyberamics Reel","C&R SVHS (Pre-93)"]
 +++
 
 ***Chuck E. Cheese Live*** first released on May 9, 1987 as a test at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. Nation-wide roll-out would begin in 1988. The live would be avaliable for use until the store switch from reels to {{< wiki-link "R12 SVHS (Pre-93)" >}} in 1990.
@@ -32,6 +32,6 @@ Before Chuck E. Cheese Live, Chuck E. Cheese starts calling all the kids, lettin
         5.  Born in the USA
 
 ## Trivia:
-1. The {{< wiki-link "Cyberamics Betamax" >}} version of the show would be tested at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. It would revert to the standard {{< wiki-link "Cyberamics SVHS" >}} in 1988.
+1. The {{< wiki-link "Cyberamics Betamax" >}} version of the show would be tested at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. It would revert to the standard {{< wiki-link "C&R SVHS (Pre-93)" >}} in 1988.
 2. When originally released it was a seperate reel independent from the main show. 
 3. Starting with {{< wiki-link "CEC Dreams/Kids Showtape" >}} Chuck E. Cheese Live would be avaliable to be played as a "Special" from the Cyberstar Panel. It was potentially avaliable as late as {{< wiki-link "CEC September 1990 Show" >}}.
