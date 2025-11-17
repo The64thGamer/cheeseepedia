@@ -27,7 +27,7 @@
 {{- $contributorCounts := dict -}}
 {{- $articleCount := 0 -}}
 
-{{- range .Site.RegularPages -}}
+{{- range site.RegularPages -}}
   {{- $articleCount = add $articleCount 1 -}}
   {{- with .Params.contributors -}}
     {{- range . -}}
@@ -50,7 +50,7 @@
 {{- $contributorCount := len $sortedContributors -}}
 
 {{- $count := 0 -}}
-{{- range .Site.RegularPages -}}
+{{- range site.RegularPages -}}
   {{- $section := .Section -}}
   {{- if or (eq $section "meta") (eq $section "news") (eq $section "wiki") -}}
     {{- with .RenderString .Content -}}

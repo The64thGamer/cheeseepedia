@@ -28,7 +28,7 @@
 <div class="tri-column">
   <ul>
     {{- $wikiPages := partialCached "grab-all-wiki-articles.html" "key"}}
-    {{- $transcriptionPages := where .Site.RegularPages "Section" "transcriptions" -}}
+    {{- $transcriptionPages := where site.RegularPages "Section" "transcriptions" -}}
     {{- $pages := union $wikiPages $transcriptionPages -}}
     {{- range $pages -}}
       {{- $page := . -}} <!-- Store the current page object in a variable -->
