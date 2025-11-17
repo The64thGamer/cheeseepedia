@@ -25,6 +25,8 @@ draft = false
 
 ### Pre-Opening
 
+On December 4th, 1978, PTT would note that a store, set as the fourth location, would be opened in Southern California following the third store's opening in March of 1979.
+
 On January 18th, 1979, Nolan Bushnell mentioned multiple planned locations, including one in Los Angeles. While Huntington Beach is part of Orange County and not LA County, Pizza Time Theatre was likely just finding a location to fit the Southern California market.{{< cite 1 >}} On February 12th, Pizza Time Theatre would mention 12 restaurants planned to open in 1979, though not directly mentioning Huntington by name.{{< cite 2 >}} 
 
 The earliest record of the location beginning its plans is with the previous owner, Albertson's Inc., granting Pizza Time Theatre to apply for an administrative review with the City of Huntington Beach to confirm if they could operate at the location. The earliest plans for the building would be made on March 22nd, 1979, and the review would be submitted on March 26th.{{< cite 20 >}} 
