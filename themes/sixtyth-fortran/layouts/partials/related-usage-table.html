@@ -14,7 +14,6 @@
 
 {{- if ne $paramName "" -}}
   {{- $allPages := partialCached "grab-all-location-articles.html" . -}}
-
   {{/* Build a sortable list of all matching entries */}}
   {{- $entriesList := slice -}}
 
