@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 
 
 startDate = "2001-01-00"
-endDate = "2013-12-31"
+endDate = ""
 contributors = ["Pasquallytheplumber","CyberSnout","BenTrainFan2000"]
 citations = []
 mediaDuration = "2:47"
